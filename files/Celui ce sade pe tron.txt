@@ -1,0 +1,8 @@
+[s1]
+/: Celui ce şade pe tron
+Şi Mielului sfânt :/
+/: Să îi fie onoarea şi gloria
+Şi slava în veci :/
+
+[order]
+s1

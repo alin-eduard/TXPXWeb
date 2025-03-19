@@ -1,0 +1,26 @@
+[s1]
+Este un loc nespus de mult dorit
+Oraş de aur şi argint
+Ce Domnul mi-a pregătit.
+În acel loc feeric pe care îl visez
+E sfânta Lui prezenţă
+E Prinţul cerului !
+
+[r1]
+În prezenţa lui Isus
+În prezenţa lui Isus
+Orice îndoieli într-o clipă-mi dispar!
+În prezenţa lui Isus
+În prezenţa lui Isus
+Când stau în prezenţa Domnului!
+
+[s2]
+Va fi o zi în care noi vom pleca
+O zi, o scumpă zi
+Când îngerii vor cânta!
+Şi vom sosi în cer, la noi acasă
+Iar Tatăl ne va spune:
+<Copii, bine-aţi venit!>
+
+[order]
+s1,r1,s2,r1

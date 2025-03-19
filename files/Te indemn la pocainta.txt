@@ -1,0 +1,29 @@
+[s1]
+Te indemna la pocainta
+bunatatea Domnului
+N-astepta sa treci prin suferina
+sa raspunzi chemarii Lui.
+
+[s2]
+Te indeamna azi te indeamna maine
+Te indeamna azi, te indeamna maine
+Vino si nu mai zabovi.
+
+[s3]
+Stii ca ai sa treci din lumea aceasta
+mai curand sau mai tarziu.
+Esti tu oare gata de plecare?
+Pregatit esti sau nu stii?
+Daca pleci neimpacat cu Domnul,
+Sufletul-ti va plange-amar.
+Astazi cata vreme se mai poate,
+Vino la izvorul Sau de har.
+
+[s4]
+Oare nu vezi tu bunatatea Lui?
+Bunatatea Domnului
+Cat mai este har, spuneti inimii
+este timpul, nu mai zabovi.
+
+[order]
+s1,s2,s3,s4

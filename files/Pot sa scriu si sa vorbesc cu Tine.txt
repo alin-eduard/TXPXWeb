@@ -1,0 +1,14 @@
+[s1]
+Pot sa scriu si sa vorbesc de Tine
+Despre tot ce Tu ai spus si ai facut
+Cum cu paini si pesti ai saturat multimea
+Si in dragoste pe cruce ne-ai nascut
+
+[s2]
+Cum la toti cei orbi doar Tu le-ai dat vedere
+Si cum marea-nvolburat-ai linistit
+Cand eram eu singur si in deznadejde
+Tu cu dragoste in brate m-ai primit
+
+[order]
+s1,s2

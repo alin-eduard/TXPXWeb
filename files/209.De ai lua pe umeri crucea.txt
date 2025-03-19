@@ -1,0 +1,39 @@
+[s1]
+1. De ai luat pe umeri crucea
+Şi ai pornit pe drum cu ea
+Du-o frate cu răbdare
+Şi dintr-însa nu tăia.
+209 re m
+
+[s2]
+2. De ai luat pe umeri crucea
+Şi ai pornit pe drum în sus
+Du-o până la Golgota
+Lângă crucea lui Isus.
+
+[s3]
+3. De ai luat pe umeri crucea
+Şi ai pornit pe drum spinos
+Nu căuta să scapi de dânsa
+Şi să n-o târăşti pe jos.
+
+[s4]
+4. Nu-ţi alege singur crucea
+Cum îţi place sau cum vrei
+Căci cu aceasta pierzi pe Domnul
+Şi locul veşnic din rai.
+
+[s5]
+5. Crucea cea de mântuire
+Este doar a suferi
+Crucea ce-a purtat-o Domnul
+Şi urmaşii Lui cei sfinţi.
+
+[s6]
+6. Înainte dar cu crucea
+Înainte tot mereu
+Domnul ne va da putere
+Şi-n momentul cel mai greu.
+
+[order]
+s1,s2,s3,s4,s5,s6

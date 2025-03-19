@@ -1,0 +1,23 @@
+[s1]
+În crăpătura stâncii eu aştept ivirea Ta
+Şi-n rugăciune-adâncă
+Îţi rostesc dorinţa mea,
+Arată-Ţi slava sfântă, arată-mi slava Ta
+Treci, te rog, Isus prin faţa mea.
+
+[r1]
+/: Din Tine azi putere să primesc
+Mai mult şi mai adânc să Te iubesc
+Când trec prin încercări,
+Să-mi pun în Tine-ncrederea
+Azi, te rog, arată-mi slava Ta. :/
+
+[s2]
+Să nu mai am în lume nimic să fie-al meu
+Să dăruiesc Isuse totul de dragul Tău,
+Comoara pe vecie
+să-mi fie-al Tău cuvânt
+Şi-n inimă să port Duhul Tău Sfânt.
+
+[order]
+s1,r1,s2,r1

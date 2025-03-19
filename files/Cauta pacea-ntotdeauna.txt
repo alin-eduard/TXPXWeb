@@ -1,0 +1,32 @@
+[r1]
+Caută pacea-ntotdeauna,
+Ea să fie ținta ta
+Caută pacea-ntotdeauna
+Și aleargă după ea.
+
+[s1]
+Caută pacea-ntotdeauna
+La-ncercare când ești pus
+De vrei să primești cununa
+Chiar din mâna lui Isus.
+
+[s2]
+Caută pacea când furtuna
+Se abate-n jurul tău
+Caută pacea-ntotdeauna
+Căci ea e din Dumnezeu.
+
+[s3]
+Căci în slovele-I divine
+Chiar Isus a spus așa:
+“Pentru vremea care vine
+Vă las pacea, pacea Mea.”
+
+[s4]
+Când talazuri se înalță
+Ești speriat și îngrozit
+Însă Domnul nu te lasă
+Rămâi frate liniștit.
+
+[order]
+r1,s1,r1,s2,r1,s3,r1,s4,r1

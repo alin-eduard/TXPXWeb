@@ -1,0 +1,38 @@
+[s1]
+Te chem acolo unde e lumină
+Acolo unde nu-s dureri
+Unde domneşte linişte deplină
+Şi unde-s numai mângâieri.
+
+[r1]
+De ce nu vrei să vii cu mine
+În ţara gloriei de sus ?
+Acolo e aşa de bine!
+Că-mpărăţeşte-n veci Isus.
+
+[s2]
+Acolo nu va mai fi întristare
+Şi nici mărunte-ngrijorări
+Iar bucuria noastră va fi mare
+Când vom pluti spre alte zări.
+
+[s3]
+De crezi în Isus, vei primi iertarea
+Şi viaţa-ţi va părea un vis
+Iar când aici sfârşi-vei alergarea
+Te vei muta în Paradis.
+
+[r2]
+De ce nu vrei să vii cu mine
+În ţara gloriei de sus?
+Acolo e aşa de bine!
+Că-mpărăţeşte-n veci Isus.
+
+[s4]
+Nu refuza chemarea minunată
+Poate că mâine vei muri
+Nu aştepta cumplita judecată
+Grăbeşte-te, nu zăbovi!
+
+[order]
+s1,r1,s2,r1,s3,r2,s4,r2

@@ -1,0 +1,40 @@
+[s1]
+1. Doamne, ce comoară scumpă,
+Ce dar mare am găsit
+E Isus Stăpânul lumii,
+E Isus cel răstignit !
+223.
+
+[r1]
+Cor:
+Ah, ce bine-i şi frumos
+Lângă Domnul meu Hristos;
+Ah, ce bine-i lângă El,
+Lângă blândul nostru Miel.
+
+[s2]
+2. Toate planurile mele
+Ţie Ţi-le-ncredinţez
+Deci ajută-mă Stăpâne
+Pentru Tine să lucrez.
+
+[s3]
+3. Îţi predau chiar şi viaţa,
+Îţi predau tot ce-i al meu
+Fă, dar, ce voieşti cu mine
+După cum e planul Tău.
+
+[s4]
+4. Când furtuni şi gânduri rele
+Către mine se pornesc
+Depărtează-le îndată
+O, Isuse Domn Ceresc.
+
+[s5]
+5. Tu eşti Doctorul meu, Doamne,
+Tu eşti blândul meu Păstor,
+Tu eşti apa vieţii mele
+Scumpul meu Mântuitor.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

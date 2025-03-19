@@ -1,0 +1,40 @@
+[s1]
+Am fost în multe locuri dragi
+Şi mulţi mi-au zis : <Aici ţi-e bine !>
+/: Dar n-am răspuns, ci Te-am urmat
+Căci nicăieri nu-i ca la Tine. :/
+
+[s2]
+Am auzit cuvinte mari
+Şi mulţi mi-au zis :
+<Ce scumpe-s ! Ia-le !>
+/: Dar am tăcut şi le-am lăsat -
+Nu-s altele ca ale Tale ! :/
+
+[s3]
+Am ascultat cîntări de-argint
+Şi mulţi mi-au zis : <E raiul, iată !>
+/: Dar n-am gustat ; o, cum să pot
+Cînd le-am ştiut pe-a Tale-odată ? :/
+
+[s4]
+Am cunoscut mulţi, mari şi-aleşi
+Şi mulţi mi-au zis :
+<Ia-i prieteni ţie !>
+/: Dar n-am răspuns şi iar m-am dus
+La fraţii mei din pribegie. :/
+
+[s5]
+Mi se dădeau lumeşti cununi
+Şi mulţi mi-au zis că-s strălucite.
+/: Dar nu le-am vrut, nu semănau
+Cu-a Ta cunună preaiubită. :/
+
+[s6]
+Să-mi spună toţi ! Nu vreau, Isus
+Nimic din tot ce-mi iese-n cale !
+/: Nimic nu mi-e mai scump, nimic
+Ca părtăşia soartei Tale ! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,31 @@
+[s1]
+La crucea Ta eu astăzi vin
+Cu greul meu şi-al meu suspin
+Te rog acum, Stăpîn ceresc
+Aşa cum sînt să mă primeşti.
+/: Te rog acum să mă primeşti
+Tu viaţa mea să o sfinţeşti
+Căci vreau cu Tine să rămîn
+Aici şi sus, o, Doamne bun ! :/
+
+[s2]
+Căci bine cînd doresc să fac
+Şi Ţie vreau să-Ţi fiu pe plac
+Eu răul mă trezesc făcînd
+Şi întristat rămîn plîngînd.
+/: Te rog acum să mă primeşti
+Tu viaţa mea să o sfinţeşti
+Căci vreau cu Tine să rămîn
+Aici şi sus, o, Doamne bun ! :/
+
+[s3]
+O, dă-mi putere de-a lupta
+Atunci cînd crucea-i tot mai grea
+Căci mult doresc, o, scump Isus       S-ajung cu Tine acolo sus !
+/: Te rog acum să mă primeşti
+Tu viaţa mea să o sfinţeşti
+Căci vreau cu Tine să rămîn
+Aici şi sus, o, Doamne bun! :/
+
+[order]
+s1,s2,s3

@@ -1,0 +1,66 @@
+[s1]
+1. Multă bucurie a fi acolo sus
+Când acolo vom sosi acolo sus
+/: Plângerile vom uita
+Când acolo vom intra
+Văzând faţa Mielului pururea :/.
+783.
+
+[s2]
+2. Nu ne-am mai aduce aminte
+Acolo sus
+De necazurile multe acolo sus
+Căci aici pe pământ
+Le-am îndurat toţi la rând
+Dar în schimb noi vom primi
+Locul cel sfânt.
+
+[s3]
+3.Mult are de suferit aicea jos
+Omul cel neprihănit aicea jos
+Dar acel ce se gândeşte
+La Isus care-l loveşte
+O, drumeţule ostenit îndrăzneşte.
+
+[s4]
+4.Ştiu una să dovedesc aicea jos
+Căci Domnul a suferit aicea jos
+Suferinţa Domnului
+N-a fost ca a nimănui
+C-a murit cu greu în faţa soarelui.
+
+[s5]
+5. Căutau toţi cu dinadinsul
+Aicea jos
+Cum să-şi bată joc de Dânsul
+Aicea jos
+Cunună de spini făceau
+Sorţ pe cămaşă-i puneau
+Cu fiere şi cu oţet îl adăpau.
+
+[s6]
+6.N-a fost nimeni să-l servească
+Aicea jos
+Setea să i-o potolească aicea jos
+Alergau cu mic şi mare
+Să-l înfrunte fiecare
+Dar El Milos şi pe cruce s-a rugat.
+
+[s7]
+7. Dar eu mă bucur mereu aicea jos
+De cuvântul Domnului meu
+Aicea jos
+Că şi voi veţi suferi
+Şi pentru mine-ţi muri
+Ca să câştigaţi cununa măreaţă.
+
+[s8]
+8.Dar cuvântul aşa prevede
+Aicea jos
+El fiind ca pomul verde aicea jos
+A fost străin şi alungat
+Dar noi ca pomul uscat
+Că nu s-a găsit în El nici un păcat.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

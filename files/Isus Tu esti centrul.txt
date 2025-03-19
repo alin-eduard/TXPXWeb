@@ -1,0 +1,18 @@
+[s1]
+Isus, Tu eşti centrul,
+Sursa mea, viaţa mea Isus x2,
+Tu eşti centrul, Cântecul meu,
+Speranţa mea, Isus.
+
+[s2]
+/: Tu eşti focul inimii
+Tu eşti vânt, în pânza mea
+Eşti motivul să trăiesc,
+Isus, Isus :/
+
+[s3]
+Isus, Tu mi-eşti ţinta,
+Tu m-ajuţi, mă conduci.
+
+[order]
+s1,s2,s3

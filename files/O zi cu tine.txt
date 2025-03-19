@@ -1,0 +1,38 @@
+[s1]
+Din patul meu cand ma trezesc
+Ma indrept spre tine Tata
+Si vreau atunci a-Ti multumi
+Ca mi-ai dat inca o zi
+Mi-ai daruit o dimineata
+O zi cu speranta
+S-o traiesc pentru Tine
+S-o traiesc cum se cuvine
+
+[r1]
+O zi cu Tine e-atat de bine
+Inima mi-e plina de iubirea Ta
+Tu esti aproape Tu esti in toate
+Si nu ma tem orice s-ar intampla
+
+[s2]
+O noua zi ne-a aparut
+O noua zi s-a asternut
+O noua zi ca roua diminetii
+S-a scris in cartea vietii
+O zi cu valuri si-ncercari
+O zi cu binecuvantari
+Dar toate trec si trec cu bine
+Doamne cand esti langa mine
+
+[s3]
+Fiecare ceas din zi
+Eu stiu ca Tu ma vei pazi
+Chiar de in luma-i tulburare
+Chiar de negura e mare
+Caci stiu ca Tu ma primesti
+Cu dragoste ma ocrotesti
+As vrea sa-Ti multumesc
+Pentru ziua ce azi eu o traiesc
+
+[order]
+s1,r1,s2,r1,s3,r1

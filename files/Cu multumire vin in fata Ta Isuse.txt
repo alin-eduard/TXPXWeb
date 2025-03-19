@@ -1,0 +1,43 @@
+[s1]
+Cu mulţumire vin în faţa Ta Isuse
+Şi vreau să-Ţi cânt
+c-atâta bine mi-ai făcut
+Mi-ai dat iertare
+pacea-adâncă fericire
+Şi mult mai mult decât
+vreodată am crezut
+
+[s2]
+/: Nu merit Doamne :/
+Toată binecuvântarea Ta
+/: Nu merit Doamne :/
+Tot ce-ai lucrat în viaţa mea
+Mare-ndurare pentru mine-ai arătat
+Cu mult mai mult decât am meritat
+Nu pot Isuse îndeajuns
+să-Ţi mulţumesc
+Dar Te slăvesc căci Te iubesc
+
+[s3]
+Voi fi dator să-Ţi mulţumesc
+o veşnicie
+Că păcătos am fost
+dar azi sunt fiul Tău
+Prin jertfa sfântă
+m-ai salvat de la pierzare
+Şi azi sunt vesel,
+fericit şi-Ţi cânt mereu
+
+[s4]
+/: Te laud Doamne :/
+Pentru binecuvântarea Ta
+/: Te laud Doamne :/
+Căci ai lucrat în viaţa mea
+Chiar mii de buze de-aş
+avea tot n-aş putea
+Să-ţi mulţumesc pentru iubirea Ta
+Inima mea ca mulţumire-Ţi dăruiesc
+/: Şi Te slăvesc căci Te iubesc :/
+
+[order]
+s1,s2,s3,s4

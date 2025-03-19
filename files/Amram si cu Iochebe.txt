@@ -1,0 +1,54 @@
+[s1]
+Amram si cu Iochebed
+L-au iubit pe Dumnezeu,
+Si credinta n-au pierdut,
+Cand pe Moise l-au ascuns.
+Si în cos pe valuri pus,
+Protejat, din apă a fost scos
+
+[r1]
+/: Ce măret e Dumnezeu!
+Ce frumos e planul Său!
+El va fi-mplinit mereu,
+Chiar de nu vrei tu,
+Chiar de nu vreau eu
+El se va-mplini mereu.
+Oricinea-ai fi tu, oricinea-as fi eu
+El e Dumnezeu! :/
+
+[s2]
+Moise fiu la faraon
+N-a uitat pe Dumnezeu,
+Ci credinta si-a-ntarit.
+Mai degrab-a renuntat
+La placeri si la pacat,
+Pentru Domnul
+Si poporul sau iubit
+
+[s3]
+Mari pedepse au venit
+Peste toti cei din Egipt,
+Ce la idoli se-nchinau.
+Sangele din miel jertfit,
+Pe Israel l-a ferit,
+De pedeapsa celui ce e sfant.
+
+[s4]
+Moise cel din apa scos,
+Lui Dumnezeu credincios,
+Pe Israel l-a condus.
+Uimitor au traversat
+Marea ca si pe uscat
+Prin credinta in cel ce i-a salvat.
+
+[s5]
+Sfanta este voia Sa,
+O doresc in viata mea.
+Ce vrea el se va-ntampla,
+Si in viata mea, si in viata ta
+Ce vrea El se va-ntampla.
+Oricine-ai fi tu, oricine-as fi eu
+El e Dumnezeu!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5

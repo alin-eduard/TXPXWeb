@@ -1,0 +1,30 @@
+[s1]
+De-atîtea ori smerit
+eu capul îmi plecam
+În necaz un prieten bun
+eu căutam.
+La Isus îngenuncheat
+un răspuns am aşteptat
+Dar Isus mi-a spus:
+<Răspunsul e pe drum.>
+
+[r1]
+O, da, răspunsul e pe drum!
+Da, eu ştiu !
+El mi-a spus credincios Lui să-I fiu
+Isus e Domnul meu,
+oricand un prieten bun
+/: Sunt linişit, eu ştiu
+răspunsul e pe drum! :/
+
+[s2]
+De-atîtea ori,
+ce disperat tu te gîndeşti!
+Şi sens vieţii tale nu găseşti.
+Un răspuns de vei căuta,
+doar la Isus vei afla
+Mulţumit vei fi
+răspunsul e pe drum.
+
+[order]
+s1,r1,s2,r1

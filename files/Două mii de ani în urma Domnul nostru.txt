@@ -1,0 +1,37 @@
+[s1]
+Două mii de ani în urmă
+Domnul nostru a vestit
+Şi la ucenici le spuse
+ce avea de suferit.
+Ucenicii se-ntristară
+auzind de Golgota
+De paharul suferinţei
+şi la cer că va pleca.
+
+[r1]
+/: Nu mai e mult, Isus revine!
+Nu mai e mult, ne ia la Sine!
+Îl vom vedea pe nori cu slavă
+Isus revine în mărire, cum a zis! :/
+
+[s2]
+Viaţa-aceasta-i trecătoare,
+nu vă faceţi ţel din ea
+Lepădaţi-vă de lume
+şi luaţi azi crucea Sa !
+Ce-i din Dumnezeu e veşnic
+sufletul nemuritor.
+Pentru El votaţi degrabă,
+pregătind un viitor !
+
+[s3]
+Domnul Isus fericeşte
+pe poporul Său ales
+Care azi se pregăteşte
+şi păcatul biruiesc.
+Moartea nu mai e stăpînă
+peste-a Domnului copii
+Căci în ceasul cel din urmă Domnul Isus va veni.
+
+[order]
+s1,r1,s2,r1,s3,r1

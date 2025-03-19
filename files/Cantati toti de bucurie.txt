@@ -1,0 +1,27 @@
+[s1]
+Cântaţi toţi de bucurie,
+Căci Hristos S-a născut!
+Să cânte spre-a Lui mărire
+/: Cerul şi pământul! :/
+Cerul, cerul şi pământul! :/
+
+[s2]
+Omenirea să-L primească
+Pe Regele suprem,
+Iar inima omenească
+/: Lui să-I gătească loc! :/
+Lui să-I, Lui să-I gătească loc!:/
+
+[s3]
+El va domni în iubire,
+Peste-ntreagă lume!
+Popoarele, cu dreptate,
+/: Îl vor servi pe El. :/
+Îl vor, Îl vor servi pe El. :/
+
+[s4]
+Cântaţi toţi de bucurie,
+Căci Hristos S-a născut!
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,27 @@
+[s1]
+Eu nu sunt mai mult
+decât fulgul de nea
+Un joc de cristale e trecerea mea.
+/: Se scutură clipa
+din timpul deplin
+Surâde şi cade şi altele vin. :/
+
+[s2]
+Eu nu sunt mai mult
+ca un fir de parâng
+Ce coasa îl taie şi furcile-l strâng.
+/: Ţărână rămâne şi uită de el
+Şi alt fir se-nalţă şi cade la fel. :/
+
+[s3]
+Eu nu sunt mai mult
+ca o rază-n abis
+Dar drumul spre
+Soare oricând mi-e deschis.
+/: Eu nu sunt luceafăr
+cu chip marmoreu
+Pe fruntea mea însă
+a scris Dumnezeu. :/
+
+[order]
+s1,s2,s3

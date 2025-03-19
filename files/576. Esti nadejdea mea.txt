@@ -1,0 +1,40 @@
+[s1]
+Eşti nădejdea mea,
+bucuria mea numai Tu, Isus
+Fie cât de grea ziua, noaptea grea
+Grija Tu mi-o porţi, Isus.
+Fie cât de grea ziua, noaptea grea
+Grija Tu mi-o porţi, Isus
+Eşti nădejdea mea, bucuria mea
+Numai Tu, Isus.
+576.     								    Mi
+
+[r1]
+Cor:
+/: Nu pleca, nu pleca
+Din viaţa mea, Isuse drag
+Nu pleca, nu pleca
+Din viaţa mea, Isuse drag. :/
+
+[s2]
+Valuri de-or veni, eu mă ţin de Tin’
+Nu te las, Isus
+Orice vijelii cât de mari ar fi
+Numai Tu le poţi opri
+Orice vijelii cât de mari ar fi
+Numai Tu le poţi opri
+Valuri de-or veni eu mă ţin de Tin’
+Nu te las, Isus.
+
+[s3]
+3.	Am un ajutor, un izbăvitor
+Nimeni nu-i ca El
+Oriunde aş fi, unde m-aş găsi
+Nu mă las nicicând de El
+Oriunde aş fi, unde m-aş găsi
+Nu mă las nicicând de El
+Am un ajutor, un izbăvitor
+Nimeni nu-i ca El.
+
+[order]
+s1,r1,s2,r1,s3,r1

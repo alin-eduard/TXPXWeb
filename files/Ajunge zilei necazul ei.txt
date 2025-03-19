@@ -1,0 +1,32 @@
+[s1]
+Nu va-ngrijorati de viata voastra
+Caci de grija Domnul va purta,
+El de toate-n lume se-ngrijeste
+Cereti, credeti si veti capata.
+
+[r1]
+/: Ajunge zilei necazul ei
+Deci Domnului va-ncredintati,
+Si chiar de-ati fi in gropi cu lei
+Sa nu va-ngrijorati. :/
+
+[s2]
+Atunci cand si-ntinde Domnul mana
+Din al Sau brat toate se hranesc,
+Cu izvoare umple El fantana
+Si la viata toate se trezesc.
+
+[s3]
+El e cel ce-aduce rodul painii
+Si da apa celor insetati,
+Iata cum imbraca Domnul crinii
+Dragi crestini de ce va-ngrijotati?
+
+[s4]
+Tot ce strangi aici n-are valoare
+Caci se pierd in val si putrezesc,
+Pe pamant sunt toate trecatoare
+Doar comori in Domnul dainuiesc.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

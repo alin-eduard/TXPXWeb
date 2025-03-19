@@ -1,0 +1,39 @@
+[s1]
+Eu mă încred în Domnul meu,
+Prin orişice furtună,
+/: Că-n mâna Lui e sorţul meu,
+Pe vreme rea sau bună. :/
+FA m
+
+[r1]
+Să fie noaptea cât de grea,
+Inima mea Îi va cânta,
+Lui Isus eu mă voi ruga,
+Să-mi dea puteri în ziua rea.
+
+[s2]
+Eu mă încred în Domnul meu,
+La uşă când îmi bate
+/: Satan cu-ameninţarea sa
+Isus de el mă scapă. :/
+
+[s3]
+Eu mă încred în Domnul meu
+Credinţa când mi-o-ncearcă
+/: A lumii valuri tot mereu
+Cercând să mi-o slăbească. :/
+
+[s4]
+Eu mă încred în Domnul meu
+Când inima-i zdrobită
+/: Doar El o ştie mângâia
+Şi-mi dă iar biruinţă. :/
+
+[s5]
+Eu mă încred în Domnul meu
+Şi-n harul ce mă ţine
+/: Când acest har se va sfârşi
+Mă va lua la Sine. :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

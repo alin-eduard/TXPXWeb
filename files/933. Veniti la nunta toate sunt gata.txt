@@ -1,0 +1,42 @@
+[s1]
+933.
+1. Veniţi la nuntă toate sunt gata
+Mesele-ntinse bucate alese
+Veniţi însetaţii, flămânzii să vină
+Să luaţi parte la această cină.
+Cor:	Aceasta-i ziua de bucurie
+Pentru mireasă şi pentru mire
+Aceasta-i ziua de bucurie
+Când se găsesc ei la cununie.
+
+[s2]
+2.	Veniţi la nuntă fraţi şi surori
+Voi rude, prieteni şi ascultători
+Veniţi voi tineri din depărtări
+Sunaţi din trâmbiţi-n sărbători.
+Cor:	Aceasta-i ziua de bucurie
+Pentru mireasă şi pentru mire
+Aceasta-i ziua de bucurie
+Când se găsesc ei la cununie.
+
+[s3]
+3.  Ţie mireasă asta ţi-e soarta
+Să fii răpită să-ţi laşi tu casa
+Pe drumul care acum păşeşti Întâmpina-vei şi greutăţi.
+Cor:	Aceasta-i ziua de bucurie
+Pentru mireasă şi pentru mire
+Aceasta-i ziua de bucurie
+Când se găsesc ei la cununie.
+
+[s4]
+4. În toate fie şi Dumnezeu
+Şi-n rău şi-n bine şi-n drumul greu
+Şi-n bucurii şi-n necaz
+Chemaţi pe Domnul în orice ceas.
+Cor:	Aceasta-i ziua de bucurie
+Pentru mireasă şi pentru mire
+Aceasta-i ziua de bucurie
+Când se găsesc ei la cununie.
+
+[order]
+s1,s2,s3,s4

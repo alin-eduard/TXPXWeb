@@ -1,0 +1,32 @@
+[s1]
+Pentru cine-ţi bate, bate
+Inima neîncetat?
+/: Care doruri te frământă,
+De cu zori până-nserat? :/
+
+[s2]
+Pentru cine-ţi dai tu timpul
+Cu-atât foc, cu-atât avînt?
+/: Pentru ceasul cel de taină
+Sau te-aprinzi pentru pământ? :/
+
+[s3]
+Pentru cine-ţi dai tu timpul
+Şi puterea ce o ai?
+/: Pentru lumea trecătoare
+Sau pentru eternul rai? :/
+
+[s4]
+Pentru cine-ţi arzi iubirea
+Doru-acesta de nespus?
+/: Pe-un altar zidit de oameni
+Sau pe-altarul lui Isus? :/
+
+[s5]
+Cercetează-te şi-ndreaptă
+Totul, până nu-i târziu!
+/: Fă să mişte-a ta fiinţă
+Pentru Dumnezeul viu! :/
+
+[order]
+s1,s2,s3,s4,s5

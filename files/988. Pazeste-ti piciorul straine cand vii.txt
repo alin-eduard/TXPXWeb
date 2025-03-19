@@ -1,0 +1,49 @@
+[s1]
+988  										          RE
+Păzeşte-ţi piciorul
+Străine, când vii
+În cortul întâlnirii
+Aici este casa
+Dumnezeului viu
+Cetatea nemuririi.
+
+[r1]
+Cor:
+Aici este poarta cerurilor
+E calea ce duce în sus
+Aici e Regele Regilor
+Aici domneşte Isus.
+
+[s2]
+2. Aici vin aceia
+Cu dureri şi necaz
+Aici vine cel care plânge
+Aici vin aceia
+Cu lacrimi pe-obraz
+Spălaţi în sfântul sânge.
+
+[s3]
+3. Aici vin copiii
+Săraci şi orfani
+Aici vin părinţi cu durere
+Aici vin bătrâni
+Necăjiţi şi sărmani
+Să simtă-n Isus mângâiere.
+
+[s4]
+4. Aici e puterea
+Ce mişcă chiar munţi,
+Puterea de la Rusalii.
+Biserica celor întâi născuţi
+Cântându-I Osanale.
+
+[s5]
+5. Aici vin bolnavi
+Și acei disperaţi
+Vin cei ce doresc vindecare
+Vin cei chinuiţi
+De demoni necuraţi
+Aici e-o scăldătoare.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

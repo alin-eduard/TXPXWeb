@@ -1,0 +1,23 @@
+[s1]
+/: Astăzi vin, bunule Tată
+Şi Te rog neîncetat
+Să mă pocăiesc m-ajută,
+O, Isus cu-adevărat! :/
+
+[r1]
+Fă să se cunoască Doamne,
+O schimbare-n viaţa mea!
+Faţa mea să radieze de iubirea Ta!
+Fă ca dragostea-Ţi Isuse
+Să inunde-n viaţa mea
+Şi-ncercări şi-n suferinţe
+Să-mi dai pacea Ta!
+
+[s2]
+/: Dă-mi putere ca prin toate
+Să îmi ţin privirea-n sus
+Aţintită pân' la moarte
+La Golgota, la Isus! :/
+
+[order]
+s1,r1,s2,r1

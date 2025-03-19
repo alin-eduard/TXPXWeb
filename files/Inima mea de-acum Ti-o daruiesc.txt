@@ -1,0 +1,47 @@
+[s1]
+Inima mea de-acum Ţi-o dăruiesc
+Căci doar în Tine sper
+De lumea rea vreau să mă deslipesc
+Şi să m-avânt spre cer
+Ai câştigat-o prin durere,
+Ţi-o-nchin azi Doamne cu plăcere,
+Inima mea, inima mea…
+
+[s2]
+Inima mea, o, Doamne, s-o primeşti,
+Deşi curată nu-i…
+Să n-o respingi, căci poţi s-o curăţeşti,
+Şi poţi să Ţi-o supui…
+Se fierb în ea tot pofte rele,
+Şi-i plină de păcate grele,
+Inima mea… inima mea…
+
+[s3]
+Inima mea era ca de granit,
+Acum ea s-a schimbat,
+Prin suferinţi, de tot mi s-a zdrobit,
+Stă într-un tremurat…
+Se vaită sub o grea durere
+Strigând:“Ah, Doamne, dă-mi putere!”
+Inima mea… inima mea…
+
+[s4]
+Inima mea azi vine la Hristos
+Căzând la crucea Lui…
+O, Doamne, ştiu cât sunt de păcătos
+Dar Tu ajuţi oricui.
+Azi a găsit în răn’le Tale
+Şi mângâiere şi scăpare,
+Inima mea… inima mea…
+
+[s5]
+Inima mea, ah, spal-o de-orice rău,
+Grăbeşte s-o-nnoieşti!
+O ia de-acum şi fă-o templul Tău
+Ca-n ea să locuieşti!
+Pe Tine doar să Te dorească,
+De Tine-n veci să se-alipească,
+Inima mea, inima mea!
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,92 @@
+[s1]
+Văzutu-te-am Isuse,
+demult îmi amintesc
+Era-ntr-o primăvară
+când crinii înfloresc
+/: Mi-ai spus atunci cuvinte
+cum nimeni nu mi-a spus
+Şi El pe min` mă cheamă
+speranţe mi-a adus.:/
+
+[s2]
+Eu te-am văzut Isuse
+din nou pe înserat
+Când Tu cu ucenicii
+în taină ai plecat
+/: Erai într-o grădină
+dar nu te-am cunoscut
+Pe faţa Ta cea blândă
+doar sânge am văzut.:/
+
+[s3]
+Văzutu-te-am Isuse
+în noaptea cea mai grea
+Când gloata nemiloasă
+venit-a să Te ia
+/: Era în fruntea gloatei,
+în fruntea celor răi
+Era conducătorul
+chiar unul dintre-ai tăi.:/
+
+[s4]
+Văzutu-l-am pe Iuda
+când el te-a sărutat
+Şi cum pe urmă gloata
+te-a prins şi te-a legat
+/: Iar Tu cu voce blândă
+ai zis către el:
+Cu-o sărutare, Iuda,
+vinzi pe stăpânul tău?:/
+
+[s5]
+Văzutu-te-am Isuse
+în curte la Pilat
+Şi cum soborul striga
+la moarte să fii dat
+/: Şi cum atunci Pilat
+pe mâini el s-a spălat
+Şi către ei a strigat
+că nu eşti vinovat.:/
+
+[s6]
+Văzutu-te-am Isuse
+în ziuă chiar în zori
+Pe cap aveai cunună
+dar nu era de flori
+/: Erai lovit de bice,
+scuipat şi pălmuit
+Ai tăi învăţăcei
+de mult te-au părăsit.:/
+
+[s7]
+Văzutu-te-am Isuse
+pe drumul spre Calvar
+Slăbit de suferinţă
+dar totuşi plin de har
+/: Erai căzut sub cruce
+cu faţa la pământ
+Doar Simon din Ciren
+crucea ţi-a ridicat.:/
+
+[s8]
+Văzutu-te-am Isuse
+pe cruce răstignit
+Şi-am auzit în noapt
+că totul s-a sfârşit
+/: Iar Tu, stăpânul vieţii
+pe veci biruitor
+Smerit plecat-ai capul
+spre viaţa tuturor.:/
+
+[s9]
+Văzutu-te-am Isuse
+şi azi Te văd din nou
+Când moartea a fost învinsă
+iar Tu mare erou
+/: Învins-ai pe vecie
+şi moarte şi păcat
+Treziţi-vă cu toţii
+Hristos a înviat!:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

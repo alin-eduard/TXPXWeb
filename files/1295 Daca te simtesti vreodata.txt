@@ -1,0 +1,58 @@
+[s1]
+1295.    Re
+Dacă te simţeşti vreodată
+Trist şi apăsat
+Şi de casa părintească
+Te-ai îndepărtat
+/ : O aduţi, aduţi aminte
+De cărarea de ’nainte
+Te va duce la pierzare
+Dacă nu te-ntorci : /
+1.
+
+[s2]
+Vocea sfântă şi duioasă
+Strigă nencetat
+O întoarcete acasă
+Fiu îndepărtat
+/ : Lasă lumea păcătoasă
+Vino iar din nou acasă
+E destul cât pribegiţi
+Fiu îndepărtat : /
+2.
+
+[s3]
+Dacă te întorci acasă
+Te vei bucura
+Şi inima ta în Domnul
+Se va desfăţa
+/ : Căci din zorii dimineţii
+Până la apusul vieţi
+Îţi trimite pază cerul
+Dacă te smereşti : /
+3.
+
+[s4]
+Şi ca pomul lângă apă
+Te vei înviora
+Şi inima ta în Domnul
+Se va desfăţa
+/  : Şi de ai credinţă mare
+El e barca de salvare
+Că Tu mi-ai ieşit în cale
+Şi m-ai mântuit : /
+4.
+
+[s5]
+O întoarcete acasă
+Nu mai zăbovi
+Nu mai sta pe căi deşarte
+Trist şi obosit
+/ : Căci iubirea Lui cea mare
+Este gata de iertare
+O ascultă a Lui chemare
+Până nu-i târziu.
+5.
+
+[order]
+s1,s2,s3,s4,s5

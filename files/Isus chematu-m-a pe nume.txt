@@ -1,0 +1,53 @@
+[s1]
+Isus chematu-m-a pe nume
+să părăsesc orice păcat
+Chemarea Lui mie-mi aduce
+bucuria cea mai dulce
+Mângâiere am aflat.
+
+[s2]
+De când pe Tine Te-am aflat,
+inima mea Ţi-am dăruit
+Ca să îmi ierţi orice păcat,
+ca să mă duci în ceru-nalt.
+Căci sînt atâta de stingher,
+nu mă lăsa singur să pier
+Întinde-Ţi, Doamne,
+mâna Ta care mă poate ajuta!
+
+[s3]
+Chiar dacă toţi în părăsire
+sau în uitare m-au lăsat
+Eu ştiu că am o moştenire-n
+ţara plină de iubire
+De Isus sunt chemat.
+
+[s4]
+De-aceea eu mereu, mereu
+mă-ncred în bunul Dumnezeu
+Care de-atâtea ori a fost
+medic suprem şi adăpost.
+Pe Golgota crucificat,
+Mesia crucea a răbdat
+El a ştiut să voi veni la El
+pentru-a mă mântui.
+
+[s5]
+Nu voi iubi ca şi pe Tine
+nici mamă, tată, fraţi, surori
+Toate sunt ca şi nimica
+ce durează doar o clipă
+Nu acestea sunt splendori.
+
+[s6]
+Ci veşnicia cea din rai Isuse,
+eu Te rog să-mi dai
+Splendoarea ei vreau s-o privesc
+şi-n cerul sfânt eu să trăiesc.
+Ia-mi ochii, gândul, inima,
+ţine-le-n stăpânirea Ta
+Şi să aştept venirea Ta ca,
+Mire sfânt, mireasa Ta !
+
+[order]
+s1,s2,s3,s4,s5,s6

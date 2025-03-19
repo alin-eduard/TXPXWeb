@@ -1,0 +1,59 @@
+[s1]
+Noi suntem din Israel
+Noi nu ne inchinam
+La chipul tau de aur
+Noi nu ne inchinam
+Noi nu ne inchinam
+(Noi nu ne inchinam)
+
+[s2]
+Asa incepe marsul acelor trei eroi
+Ce au biruit chipul rau cel de zeu
+Facut de imparat, ordin nerespectat
+Nu vor sa se inchine la zei in Babilon
+Rasuna din psaltiri si din caval
+Orchestre mari ca la bal,
+Suna iar, suna iar, suna iar,
+Multime de popor, suna iar, suna iar
+Se-aduna tot mereu
+
+[s3]
+Si vin sa se inchine la zei in Babilon
+La un chip care nu spune nimic,
+Ca-i nimic, e nimic, e nimic,
+e nimic, e nimic
+Sa sunati cat voiti, trompete si fanfare
+Ca Isus e cu noi si nu ne va lasa
+Glorie, Lui Isus pe El il vom lauda,
+Noi suntem toti ai Lui, prin El vom birui
+
+[s4]
+Chiar de-ar fi sa murim,
+(Chiar de-ar fi sa murim)
+Cu Isus biruim (cu Isus biruim)
+Ardetii in cuptor,
+In cuptorul incins, cine scapa acum
+(Si chiar daca pierim, noi nu ne inchinam,
+La chipul construit noi nu ne inchiman
+Pe Dumnezeu slavim, dar tie nu-ti slujim
+Si imparatul foc, priveste in cuptor)
+
+[s5]
+Dar o frica-l cuprinde pe acest om rau
+Caci Isus este acum in flacarile lor
+Hristos e viu, Hristos e viu
+Marire Lui in veci,
+Marire Lui si Aleluia, Aleluia
+Slava Domnului in veci
+Sa sunati cat voiti, trompete si fanfare
+Ca Isus e cu noi si nu ne va lasa
+Glorie, glorie pe El in vom lauda
+
+[s6]
+Noi suntem toti ai Lui,
+Prin El vom birui,
+Slava Lui, slava Lui noi fii ai Lui,
+Glorie, glorie, slava Lui Amin
+
+[order]
+s1,s2,s3,s4,s5,s6

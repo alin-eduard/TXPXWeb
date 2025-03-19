@@ -1,0 +1,31 @@
+[s1]
+1. /:Hristos e Rugul Aprins văzut de Moise
+El e iubirea dăruită pe altar :/
+Cor: El e viaţă, e iubirea, El e Domn
+Puterea care m-a dezlegat de păcat
+Hristos e rugul arins văzut de Moise
+El e iubirea dăruită pe altar
+2010      Re m
+
+[s2]
+2. Hristos e starea ce arde-n veşnicie
+De un pământ robit de patimi şi păcat
+E un blestem pentru salvarea omenirii
+E apa vie şi e calea pe pământ.
+Cor: El e viaţă, e iubirea, El e Domn
+Puterea care m-a dezlegat de păcat
+Hristos e rugul arins văzut de Moise
+El e iubirea dăruită pe altar
+
+[s3]
+3. Hristos e liniştea mea după furtună
+E trandafirul alb şi dulce din Saron
+Hristos e susurul blând ce îmi vorbeşte
+El este jerfa mistuită pe altar.
+Cor: El e viaţă, e iubirea, El e Domn
+Puterea care m-a dezlegat de păcat
+Hristos e rugul arins văzut de Moise
+El e iubirea dăruită pe altar
+
+[order]
+s1,s2,s3

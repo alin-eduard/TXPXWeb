@@ -1,0 +1,100 @@
+[s1]
+1. Dragostea iubite frate
+Dragostea întâi de toate
+Dragostea e Dumnezeu
+Dragostea e Duhul Său.
+300.
+
+[r1]
+Cor:
+Dacă dragoste nu ai
+N-ai nici pace n-ai nici rai
+Dacă dragoste nu ai
+N-ai să poţi intra în rai.
+
+[s2]
+2. De-ai vorbi în limbi străine
+De-ai cânta destul de bine
+De-ai fi dascăl pentru alţii
+De-ai avea chiar şi talanţi.
+
+[s3]
+3. De-ai fi meşter în vorbire
+De-ai cânta şi în psaltire
+De-ai avea chiar şi ştiinţă
+De-ai avea chiar şi credinţă.
+
+[s4]
+4. De-ai avea chiar daruri multe
+De-ai fi un creştin de frunte
+De-ai fi chiar şi un proroc
+De-ai muta munţii din loc.
+
+[s5]
+5. De-ai fi chiar şi episcop
+Şi să predici cu mult foc
+De-ai fi preot pentru lume
+De-ai avea chiar şi renume.
+
+[s6]
+6. Dacă tu te rogi frumos
+De-ai cânta cu glas duios
+Dacă-nveţi pe alţii bine
+Dacă nu te vezi pe tine.
+
+[s7]
+7. De-ai face chiar fapte bune
+De-ai veghea în rugăciune
+De-ai să vindeci pe bolnavi
+De-ai să ajuţi chiar pe orfani.
+
+[s8]
+8. De-ai fi doctor în ştiinţă
+De-ai avea chiar şi credinţă
+De-ai fi tare învăţat
+Şi de lume respectat.
+
+[s9]
+9. Iar de-ai fi un om de rând
+Crezând că ai Duhul Sfânt
+De-ai fi fost un om bogat
+Şi averea ţi-ai fi dat.
+
+[s10]
+10. Cercetează-ţi starea ta
+Vezi ce e-n inima ta
+Vezi ce fel de dragoste
+Vezi dacă e fierbinte.
+
+[s11]
+11. Dragostea de cel de sus
+Dragostea pentru Isus
+Dragostea şi pentru fraţi
+Chiar de sunt neînsemnaţi.
+
+[s12]
+12. Dacă n-ai uitat de ei
+Dacă te rogi pentru ei
+Ori la bine, ori la greu
+Tu simţi cu fratele tău?
+
+[s13]
+13. Dacă-n drumul tău creştine
+Ai văzut un om ca tine
+Că-i căzut, tu ce gândeşti
+Tu ce faci, îl ocoleşti?
+
+[s14]
+14. Iar cumva de-ai vreun vrăjmaş
+Nici pe el tu să nu-l laşi
+De-i flămând, dă-i să mănânce
+Şi cărbuni aprinşi aprinde.
+
+[s15]
+15. Toarnă Doamne dragoste
+Umple-ne de Duhul ei
+Paharul să fie plin
+Să curgă şi la vecini.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1,s8,r1,s9,r1,s10,r1,s11,r1,s12,r1,s13,r1,s14,r1,s15,r1

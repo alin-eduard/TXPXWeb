@@ -1,0 +1,33 @@
+[s1]
+Când ajungi să-ţi fii tu însuţi o povară
+Când puteri de ne-nţeles te-apasă greu
+Când pe crengi sunt numai flori de primăvară
+Iar din tine frunze moarte cad mereu...
+Când spre tainicele zări ce se destramă
+Rătăceşti ca un pescar de amăgiri
+N-auzi tu un glas de Tată ce te cheamă
+N-auzi tu chemarea veşnicei Iubiri?
+
+[r1]
+Întoarce-te la Domnul
+Aşa cum eşti, cu zdrenţe-n suflet şi poveri!
+Întoarce-te la Domnul
+Un cuget nou şi-o altă inimă să-I ceri!
+Intoarce-te la Domnul
+La pieptul Lui să înţelegi cât te-a iubit!
+Crezând în jertfa-I sfântă,
+vei fi-n veci fericit
+Întoarce-te la Domnul, copil preaiubit!
+
+[s2]
+Ca-ntr-un joc, legându-ţi ochii cu năframa
+Tu alergi să prinzi năluca unui vis.
+Dar opreşte-te, prietene, ia seama
+Paşii tăi se-ndreaptă-n grabă spre abis!
+în zadar aştepţi năluca fericirii
+în zadar apuci cu pumnii amândoi
+Vei plăti din nou tribut dezamăgirii
+Obosit, cu ochii plânşi, cu pumnii goi.
+
+[order]
+s1,r1,s2,r1

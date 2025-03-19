@@ -1,0 +1,37 @@
+[s1]
+Tu nu Mi-ai dat, Simone, sărutare
+Pe tîmple mir nu Mi-ai pus.
+În casa ta am intrat ca oricare
+Şi-un gînd frumos n-ai avut
+Simone, Simone, Simone !
+
+[s2]
+Tu nu Mi-ai dat, Simone, sărutare
+La pieptul Meu n-ai căzut.
+N-ai cunoscut clipa de cercetare
+Şi cît erai de pierdut !
+Simone, Simone, Simone !
+
+[s3]
+Tu n-ai văzut tălpile-Mi ostenite
+De-atîta drum cît am mers
+N-ai picurat lacrimile-ţi smerite
+Cu părul tău nu le-ai şters
+Simone, Simone, Simone !
+
+[s4]
+Aş vrea să-ţi pun, Simone, întrebare :
+Tu ce-ai mai scump pe Pămînt ?
+Ah, cum Mi-ai da, dragul meu, sărutare
+De-ai şti măcar cine sînt
+Simone, Simone, Simone !
+
+[s5]
+Tu, cel smerit care-Mi plîngi la picioare
+Cu suflet ars de văpăi
+În casa Mea îţi voi da sărutare
+Cu ochii plînşi ca ai tăi
+Simone, Simone, Simone !
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,32 @@
+[s1]
+Iată ziua ce-aţi cerut-o
+De la Domnul pentru voi
+Rugăciunea voastră astăzi s-a-mplinit
+Bucurii s-aveţi în suflet
+Că şi astăzi printre voi
+Duhul Sfânt din 'nalta slavă L-aţi primit
+
+[r1]
+/: E o zi în care voi
+Jurământul unul altuia vi-l daţi
+Domnul sfânt v-a sprijini
+Şi v-ajută pân' la capăt să-l urmaţi. :/
+
+[s2]
+Razele iubirii voastre
+Să-ncălzească-al vost' cămin
+Diamantul fericirii să-l păstraţi
+Şi la Domnul toată viaţa
+Veţi găsi la greu sprijin
+Dar pe El în veci, mereu să Îl urmaţi
+
+[s3]
+Floarea dragostei întruna
+Înflorită s-o păstraţi
+Orice clipă cu Isus mereu să fiţi
+Cereţi Domnului în viaţă
+Să fiţi binecuvântaţi
+Şi cununa să v-o dea în Paradis
+
+[order]
+s1,r1,s2,r1,s3,r1

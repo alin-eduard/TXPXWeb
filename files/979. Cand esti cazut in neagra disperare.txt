@@ -1,0 +1,47 @@
+[s1]
+979                                                                      .
+1. Când eşti căzut
+În neagra disperare
+Când rătăceşti şi nu ştii calea ta
+Când copleşit eşti de îngrijorare
+Priveşte sus spre dealul Golgota.
+
+[r1]
+/: Nu dispera
+Când greul te apasă
+Vine Isus
+Și vom pleca acasă :/
+
+[s2]
+2. Când lacrimi mari
+De dor şi întristare
+Brăzdează chipul tău
+Luni şi chiar ani
+Să-ţi aminteşti În vremi de strâmtorare
+A plâns Isus cu amar În Ghetsimani.
+
+[s3]
+3. Pierdut-ai tot
+Ca Iov cel din vechime
+Pe-ai tăi cei dragi
+Şi tot ce-ai adunat
+Dar a rămas alăturea de tine
+Isus Hristos şi eşti un om bogat.
+
+[s4]
+4. De ce să plângi
+Când vara este-aproape
+Şi se zăresc de-acum ai zilei zori
+Când nu mai e
+Decât puţin din noapte
+Şi iată vine Mirele pe nori.
+
+[s5]
+5. Să-ţi aminteşti întotdeauna frate
+C-alăturea de tine e Hristos
+E umbra ta
+Pe mâna ta cea dreaptă
+El e susurul cel blând şi duios.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

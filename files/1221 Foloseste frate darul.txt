@@ -1,0 +1,47 @@
+[s1]
+1221
+Foloseşte frate darul
+Care l-ai primit de sus
+Pentru marea împărăţie
+Pentru Slava lui Isus
+Cor:	/ : Nu lăsa : / să treacă anii
+Azi e / : ziua : / cea de har
+/ : Pune totul : / tot în slujbă
+Tot ce ai să pui pe altar
+1.
+
+[s2]
+Foloseşte banii, timpul
+Tinereţea ta s-o dai
+Unde-i a Domnului lucrare
+Dă în grabă tot ce ai
+2.
+Cor:	/ : Nu lăsa : / să treacă anii
+Azi e / : ziua : / cea de har
+/ : Pune totul : / tot în slujbă
+Tot ce ai să pui pe altar
+
+[s3]
+Foloseşte cântul, ruga
+Credincios, smerit să fii
+Mărturia vieţii tale
+La Isus s-o ducă fii
+3.
+Cor:	/ : Nu lăsa : / să treacă anii
+Azi e / : ziua : / cea de har
+/ : Pune totul : / tot în slujbă
+Tot ce ai să pui pe altar
+
+[s4]
+Foloseşte împrejurarea
+Cea în care te găseşti
+Să lucrezi cu-nflăcărare
+Pentru Domnul să lucrezi.
+5.
+Cor:	/ : Nu lăsa : / să treacă anii
+Azi e / : ziua : / cea de har
+/ : Pune totul : / tot în slujbă
+Tot ce ai să pui pe altar
+
+[order]
+s1,s2,s3,s4

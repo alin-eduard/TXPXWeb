@@ -1,0 +1,14 @@
+[s1]
+Dragostea ce ne-a dat-o Dumnezeu
+Se arată prin tine, dragul meu
+Şi privindu-te, zăresc pe chipul tău
+Dragostea ce ne-a dat-o Dumnezeu.
+
+[s2]
+Te iubesc cu iubirea lui Isus
+Te iubesc cu iubirea lui Isus
+Căci privindu-te, zăresc pe chipul tău
+Dragostea ce ne-a dat-o Dumnezeu.
+
+[order]
+s1,s2

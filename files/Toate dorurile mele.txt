@@ -1,0 +1,27 @@
+[s1]
+Toate dorurile mele
+Ce-mi frământă inima
+Numai Tu le împlineşte
+Pentru fericirea mea.
+Re M
+
+[r1]
+Îţi urmez Isuse Ţie
+Eşti Mântuitorul meu
+Pacea Ta mi-o dai Tu mie
+Port în mine chipul Tău.
+
+[s2]
+Mă predau cu totul Ţie
+Pentru lume am murit
+Să trăiesc mereu cu Tine
+Cât de mult sunt fericit.
+
+[s3]
+De când Te-am aflat pe Tine
+Mă simt foarte fericit
+Pe cărarea vieţii mele
+Către cer alerg grăbit
+
+[order]
+s1,r1,s2,r1,s3,r1

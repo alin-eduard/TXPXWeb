@@ -1,0 +1,39 @@
+[s1]
+Noaptea, când pe deal păstorii Străjuiesc în pace turma,
+Ingeri mii din cer se-arată, Străluceşte zarea toată.
+Ascultaţi, păstori, cântul lor în zori:
+“Adorăm pe fiul, adorăm pe fiul,
+Cel venit din cer, pe Emanuel!”
+
+[s2]
+Îngeri albi la ceruri zboară,
+Prin câmpii păstori coboară
+Ca să vadă o minune,
+Prunc venit din altă lume,
+In umil sălaş, sfântul copilaş;
+Haideţi cu păstorii, haideţi cu păstorii,
+Pruncul să-l vedem jos la Betleem!
+
+[s3]
+Steaua-n răsărit apare,
+Magii vin din depărtare,
+Dăruiesc cu bucurie aur,
+Smirnă şi tămâie
+Si se-nchină-apoi, dar ce faceţi voi?
+Ne-nchinăm cu magii,
+Ne-nchinăm cu magii
+Pruncului iubit,
+Rege preamărit!
+
+[s4]
+Într-o noapte, bolta toată
+Se va lumina deodată,
+Ingeri sfinţi vor umple zarea
+Si va-ncepe sărbătoarea
+Celor mântuiţi, în văzduh răpiţi.
+Adorăm pe Domnul,
+Adorăm pe Domnul
+Care vine iar în slavă şi har!
+
+[order]
+s1,s2,s3,s4

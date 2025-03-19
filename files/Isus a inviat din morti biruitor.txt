@@ -1,0 +1,55 @@
+[s1]
+Cu mii de flori,
+cu mii de frunze-n crâng
+Vin primăveri
+ce iarna iar o-nfrâng
+Şi toate spun că Cel crucificat
+Trăieşte, trăieşte,
+e viu cu-adevărat
+
+[s2]
+Isus a înviat din morţi biruitor
+Şi-n viaţă a intrat,
+dând viaţă tuturor
+Şi azi cu noi în rând
+ca un frate şi-mpărat
+Trăieşte, trăieşte,
+e viu cu-adevărat!
+
+[s3]
+Isus a înviat cu trup de slavă plin
+Cum vom trăi şi noi
+prin harul Său divin
+De două mii de ani
+de luptă ne-ncetat
+Trăieşte, trăieşte,
+e viu cu-adevărat!
+
+[s4]
+Că dacă-i drept că-nvie frunza iar
+Şi florile ce din pământ răsar,
+Cu-atât mai mult
+Acel ce le-a creat
+Trăieşte, trăieşte,
+e viu cu-adevărat !
+
+[s5]
+Isus a înviat puternic şi slăvit
+Şi sutele de fraţi în faţă
+L-au privit
+Apoi în patru zări
+ei toţi au predicat
+Trăieşte, trăieşte,
+e viu cu-adevărat!
+
+[s6]
+Eu n-am văzut cum a-nviat Isus,
+Nici mâna-n răni ca
+Toma nu l-am pus;
+Dar simt mereu
+că-n viaţa ce mi-a dat
+Trăieşte, trăieşte,
+e viu cu-adevărat !
+
+[order]
+s1,s2,s3,s4,s5,s6

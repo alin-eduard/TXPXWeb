@@ -1,0 +1,29 @@
+[s1]
+Vestea buna ingerii au adus
+Vestea buna la noi a ajuns
+S-a nascut Mesia,profetit
+La noi jos pe pamant a venit
+
+[r1]
+/: Slava sus in ceruri,
+pace pe pamant
+S-a nascut Mesia,
+Domnul nostru sfant
+/: Cor de ingeri canta
+Lui neincetat
+Numele Lui fie laudat :/
+
+[s2]
+Salta Betleeme mic oras
+Azi in tin’se naste-un copilas
+Mantuirea la noi a venit
+Domnul cerului slavit
+
+[s3]
+Cantati toti dar cu bucurie
+Slava-n cer lui Dumnezeu fie
+S-a nascut al nost’Mantuitor
+Isus Domnul,Domnul tuturor.
+
+[order]
+s1,r1,s2,r1,s3,r1

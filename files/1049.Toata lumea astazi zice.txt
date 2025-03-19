@@ -1,0 +1,113 @@
+[s1]
+1049.
+1.           Toată lumea astăzi zice
+Că se-n crede în Hristos
+Orişiunde în viaţă
+Îl va asculta voios.
+Cor: Când ajungi la încercare
+Atunci vezi credinţa ta
+De n-ai biruit ispita
+Lângă Isus nu poţi sta.
+
+[s2]
+2.          De ai lăcomie în suflet
+Lângă Isus nu poţi sta
+De trăieşti încă-n minciună
+În cer tu nu poţi intra.
+Cor: Când ajungi la încercare
+Atunci vezi credinţa ta
+De n-ai biruit ispita
+Lângă Isus nu poţi sta.
+
+[s3]
+3.      Dacă ai mânie-n suflet
+Şi la vrăjitori te-ai dus
+Unde ţi-e atunci credinţa
+Nu poţi sta lângă Isus.
+Cor: Când ajungi la încercare
+Atunci vezi credinţa ta
+De n-ai biruit ispita
+Lângă Isus nu poţi sta.
+
+[s4]
+4.         De mai ai ceva în viaţă
+Ce desparte de Hristos
+Sau dacă pofteşti acuma
+Un pahar de vin spumos.
+Cor: Când ajungi la încercare
+Atunci vezi credinţa ta
+De n-ai biruit ispita
+Lângă Isus nu poţi sta.
+
+[s5]
+5.      Căci beţivii şi curvarii
+Sus în cer nu pot intra
+Unde ţi-e atunci credinţa
+Lângă Isus nu poţi sta
+Cor: Când ajungi la încercare
+Atunci vezi credinţa ta
+De n-ai biruit ispita
+Lângă Isus nu poţi sta.
+
+[s6]
+6.      De ţi-e mintea ocupată
+Tot de gânduri pământeşti
+De te ţii în pas cu moda
+Biblia n-o mai citeşti.
+Cor: Când ajungi la încercare
+Atunci vezi credinţa ta
+De n-ai biruit ispita
+Lângă Isus nu poţi sta.
+
+[s7]
+7.       De te lupţi după avere
+De n-ai timp a te ruga
+Unde ţi-e atunci credinţa
+Lângă Isus nu poţi sta.
+Cor: Când ajungi la încercare
+Atunci vezi credinţa ta
+De n-ai biruit ispita
+Lângă Isus nu poţi sta.
+
+[s8]
+8.       De mai ai ceva în viaţă
+Şi încă n-ai biruit
+De bârfeşti şi mai ai ură
+Încă nu eşti pocăit
+Cor: Când ajungi la încercare
+Atunci vezi credinţa ta
+De n-ai biruit ispita
+Lângă Isus nu poţi sta.
+
+[s9]
+9.       Dacă nu-ţi iubeşti duşmanii
+Şi n-ai sufletul milos
+Unde ţi-e atunci credinţa
+Nu poţi sta lângă Hristos
+Cor: Când ajungi la încercare
+Atunci vezi credinţa ta
+De n-ai biruit ispita
+Lângă Isus nu poţi sta.
+
+[s10]
+10.        De mai ai păcate ascunse
+Şi nu le-ai mărturisit
+De mai ai plăceri şi idoli
+De pofte eşti stăpânit.
+Cor: Când ajungi la încercare
+Atunci vezi credinţa ta
+De n-ai biruit ispita
+Lângă Isus nu poţi sta.
+
+[s11]
+11.       Nu ţinea ascuns păcatul
+Astăzi în inima ta
+Ca să poţi intra în ceruri
+Lângă Isus să poţi sta.
+Cor: Când ajungi la încercare
+Atunci vezi credinţa ta
+De n-ai biruit ispita
+Lângă Isus nu poţi sta.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11

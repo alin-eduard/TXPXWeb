@@ -1,0 +1,10 @@
+[s1]
+/: Binecuvântat fie El :/
+În veci de veci. :/
+
+[s2]
+Numele Lui e un turn tare,
+Sfinţii aleargă la El si sunt salvaţi.
+
+[order]
+s1,s2

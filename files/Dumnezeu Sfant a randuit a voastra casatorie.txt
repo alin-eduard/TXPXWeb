@@ -1,0 +1,30 @@
+[s1]
+Dumnezeu Sfant a randuit
+a voastra casatorie.
+Deci, El sa fie preamarit,
+de-acum si pana-n vesnicie
+
+[r1]
+Va multumim ca ne-ati chemat,
+La nunta binecuvantata,
+Si-apoi, in cerul minunat,
+Cu toti sa ne vedem odata.
+Iar tie, mire, eu iti spun:
+sa-ti ocrotesti pe veci aleasa,
+Isus sa fie-n viata ta,
+sa-ti binecuvanteze casa!
+
+[s2]
+In clipa sfanta ce-o traim,
+un sfat sa-i dam si la mireasa:
+„Alesul tau sa-l pretuiesti
+si-n veci sa-i fii tu credincioasa!"
+
+[s3]
+Iar la-ncheiere, miri iubiti,
+noi va dorim doar fericire...
+Cu Isus voi pe veci sa fiti
+si sa va duca-n nemurire!...
+
+[order]
+s1,r1,s2,r1,s3,r1

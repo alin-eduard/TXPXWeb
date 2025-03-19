@@ -1,0 +1,32 @@
+[s1]
+Unde să mă duc eu, Doamne
+Cînd mi-e sufletul zdrobit
+Şi cînd inima mea varsă
+Plînsul cel mai chinuit ?
+
+[r1]
+Unde, Doamne, unde, Doamne, să apuc?
+N-am la cine, n-am la cine să mă duc!
+Numai Ţie, numai Ţie, Domnul meu
+Pot să-Ţi spun necazul meu
+
+[s2]
+Unde pot să aflu milă
+Şi iertare şi alin
+În ispită şi durere
+În necazuri şi în chin ?
+
+[s3]
+Unde dacă nu la Tine
+Pot să aflu adăpost ?
+Mîngîiere şi iertare
+Tu, Isuse, Tu mi-ai fost.
+
+[s4]
+Unde să mă duc cînd toate
+Uşile mi se închid
+Şi cînd chiar cel mai de-aproape
+Mi-e mai rece ca un zid ?
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

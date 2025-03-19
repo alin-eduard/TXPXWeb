@@ -1,0 +1,65 @@
+[s1]
+2101
+Cor: /: Viața cu Hristos
+Mi-a dat tot ce-i mai frumos
+/: Slavă Lui :/ Slavă Lui
+Și de-aceea-I cânt
+Cât voi fi pe-acest pământ
+Slavă Lui
+Slavă Domnului :/
+
+[s2]
+1. Când pe mine însumi
+Domnul m-a chemat
+L-am crezut
+Și-ndată L-am urmat
+Și de atunci
+El merge înaintea mea
+Prin cuvânt
+Îmi dă lumina Sa.
+
+[s3]
+Cor: /: Viața cu Hristos
+Mi-a dat tot ce-i mai frumos
+/: Slavă Lui :/ Slavă Lui
+Și de-aceea-I cânt
+Cât voi fi pe-acest pământ
+Slavă Lui
+Slavă Domnului :/
+
+[s4]
+2. Lumea am lăsat-o
+Cu al ei tumult
+Azi de glasul
+Domnului ascult
+Părtășie sfântă, casa Tatălui
+Au aflat cu toți copiii Lui.
+
+[s5]
+Cor: Viața cu Hristos
+Mi-a dat tot ce-i mai frumos
+/:Slavă Lui:/ Slavă Lui
+Și de-aceea-I cânt
+Cât voi fi pe-acest pământ
+Slavă Lui
+Slavă Domnului :/
+
+[s6]
+3. Mulțumesc Isuse
+Că viața mea
+A fost scumpă înaintea Ta
+Dă-mi Te rog putere
+Ca să Îți slujesc
+Și voința Ta să o împlinesc.
+
+[s7]
+Cor: /: Viața cu Hristos
+Mi-a dat tot ce-i mai frumos
+/:Slavă Lui:/ Slavă Lui
+Și de-aceea-I cânt
+Cât voi fi pe-acest pământ
+Slavă Lui
+Slavă Domnului :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

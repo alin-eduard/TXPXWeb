@@ -1,0 +1,18 @@
+[s1]
+Inima-mi vrea acum
+Să spună despre Tin`
+Trecutul mi l-ai şters
+Şi viaţa mi-ai schimbat
+Eu astăzi vreau să strig
+Cu toată puterea mea
+Căci Dumnezeu e cu min`
+Nu mi-e împotrivă.
+
+[s2]
+Pot să cânt, să-L laud pe El
+Viaţa mi-a schimbat
+Bucuria Ta mi-ai dat
+Nimeni nu mi-o ia.
+
+[order]
+s1,s2

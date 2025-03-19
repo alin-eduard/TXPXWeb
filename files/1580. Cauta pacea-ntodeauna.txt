@@ -1,0 +1,45 @@
+[s1]
+1.Caută pacea-ntotdeauna
+La-ncercare când eşti pus
+De vrei să primeşti cununa
+Chiar din mâna lui Isus
+1580.
+
+[r1]
+Cor: Caută pacea-ntotdeauna
+Ea să fie ţinta ta
+Caută pacea-ntotdeauna
+Şi aleargă dupa ea
+
+[s2]
+2. Caută pace când furtuna
+Se abate-n jurul tău
+Caută pacea-ntotdeauna
+Ca ea e din Dumnezeu
+
+[s3]
+3. Caci în slăvile divine
+Chiar Isus a spus aşa
+Pentru vremea care vine
+Vă las pacea, pacea mea
+
+[s4]
+4. Când talazuri se înalţă
+Speriat şi ingrozit
+Însă Domnul nu te lasă
+Rămîi frate liniştit
+
+[s5]
+5. În răbdare si blândeţe
+Pân la capăt să paşesc
+Până la sfârşitul vieţii
+Ca o stea să străluceşti
+
+[s6]
+Cor: Caută pacea-ntotdeauna
+Ea să fie ţinta ta
+Caută pacea-ntotdeauna
+Şi alearga dupa ea.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,s6

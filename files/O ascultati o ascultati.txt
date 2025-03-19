@@ -1,0 +1,42 @@
+[s1]
+O ascultaţi, o ascultaţi
+Ce spune astăzi Domnul
+El are dorul Său aprins
+Să-şi mângâie poporul
+/: Nu mai e mult, nu mai e mult,
+Curând pe nori de slavă
+Voi ridica, voi ridica
+Mireasa mea cea dragă.:/
+
+[s2]
+Căci ştiu că eşti sub apăsări,
+Eu îţi cunosc durerea
+Eu ştiu că nu mai poţi să rabzi,
+Îţi slăbeşte puterea.
+/: Mai rabdă căci puţin de tot
+Mai e din neagra noapte
+Când Tatăl îţi va da răspuns
+Pentru a tale fapte.:/
+
+[s3]
+Căci ştiu că pentru mine
+Porţi dureri şi-amărăciune
+Căci cel rău îţi loveşte mult
+Credinţa-n rugăciune.
+/: Mai rabdă căci nimic nu pierzi
+Trecând prin încercare
+Căci prin cuptorul cel de foc
+Trimis-am îndurare.:/
+
+[s4]
+Cu limbi de foc neîncetat
+Pe Duhul Sfânt trimis-am
+Să-ţi fie-ndreptător pe drum
+Să-ţi încerce credinţa.
+/: Puţină vreme a mai rămas
+Arhanghelul să sune
+Pe toţi răscumpăraţii Mei
+Din lume să-i adune.:/
+
+[order]
+s1,s2,s3,s4

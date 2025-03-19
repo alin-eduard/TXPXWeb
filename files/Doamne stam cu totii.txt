@@ -1,0 +1,20 @@
+[s1]
+Doamne stăm cu toţii ‘naintea Ta
+Tu eşti cel ce ne-ai iertat
+Tot trecutul nostru L-ai ascuns
+Fii în veci Tu lăudat.
+
+[s2]
+Doamne stăm cu toţii ‘naintea Ta
+Tu eşti cel ce ne-ai schimbat
+Suntem noi, născuţi din Dumnezeu
+Fii în veci Tu lăudat.
+
+[s3]
+Te-nălţăm, eşti Domn al veşniciei
+Te-nălţăm, cât eşti de minunat
+Te-nalţăm, eşti Domn al veşniciei
+Isus, eşti minunat
+
+[order]
+s1,s2,s3

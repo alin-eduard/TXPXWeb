@@ -1,0 +1,31 @@
+[s1]
+1805.
+1. Din harfa unei fără seamăn
+Iubiri-aprinse pe pământ
+/:Am vrut cum am ştiut, Isuse
+Mai drag şi mai frumos
+Să-Ţi cânt!:/
+2. Am vrut a dragostei văpaie
+S-o smulg din suflet şi s-o rup
+/:Şi cu-a ei flacără-arzătoare
+Să-Ţi cânt Isuse drag şi scump!:/
+
+[s2]
+3. Să văd cum arde-o lume-ntreagă
+Cum eu am ars şi-am suferit
+/:De dorul dragostei de Tine
+Isus, iubitul meu, iubit!:/
+4. Dar azi sunt trist, că nici cântarea
+Nici plânsul dorului etern
+/:Nici arzătoarea mea iubire
+Nu-I spusă
+Cum aş vrea s-o spun!:/
+
+[s3]
+5. Ajută-mă măcar în ceruri
+Să-Ţi cânt, Isuse drag, aşa
+/:Cântarea dragostei ce-aicea
+Am vrut, dar n-am putut cânta:/
+
+[order]
+s1,s2,s3

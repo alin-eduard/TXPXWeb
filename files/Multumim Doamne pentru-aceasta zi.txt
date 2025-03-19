@@ -1,0 +1,20 @@
+[s1]
+Multumim Doamne pentru-aceasta zi
+Multumim ca-n mana Ta Tu ne tii
+Pentru dragostea Ta te laudam
+De aceea Iti cantam
+
+[r1]
+Aleluia astazi te laudam
+Aleluia astazi te onoram
+Aleluia astazi Iti multumim
+Pentru harul Tau Amin
+
+[s2]
+Pentru pacea Ta Iti multumim
+Ne-ai eliberat ai Tai sa fim
+Pentru grija ce ne-o porti din plin
+Pentru toate-Ti multumim
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,39 @@
+[s1]
+1.	O, Isuse prea iubit
+/: Prea iubit :/
+Ai murit în locul meu
+/: Ai murit :/.
+2.	Al Tău sânge scump vărsat
+/: L-ai vărsat :/
+De păcate ne-ai spălat
+/: Ne-ai spălat :/.
+1008.
+
+[s2]
+3.	O, Isuse prea iubit
+/: Prea iubit :/
+Rămâi cu noi până-n sfârşit
+/: Până-n sfârşit :/.
+4.	O, Isuse vii curând
+/: Vii curând :/
+Căci te-aşteptăm toţi cântând
+/: Toţi cântând :/.
+
+[s3]
+5.	Ne ia la Tine acasă,
+/: Acasă :/
+Să stăm cu Tine la masă
+/: La masă :/.
+6.	Pe Avraam, Isaac şi Iacov
+/: Să-i vedem :/
+Şi numele Lui cel sfânt
+/: Să-L lăudăm :/.
+
+[s4]
+7.	Da-ţi slavă Mielului
+/: Prea iubiţi :/
+Pentru că prea mult El ne-a iubit
+/: Ne-a iubit :/.
+
+[order]
+s1,s2,s3,s4

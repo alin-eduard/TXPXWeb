@@ -1,0 +1,33 @@
+[s1]
+1817.
+1. Adă Doamne ceasul sfânt
+Să plecăm de pe pământ
+Unde Tu ne-ai pregătit
+Locul cel făgăduit
+Cor:	/:O, ţara mea, al nostru vis
+Aş vrea să se-mplinească
+Acolo sus, în Paradis
+În Patria cerească:/
+
+[s2]
+2. O, Doamne-adu măreţul ceas
+Când ne vei lua acasă
+Sus în ţara fără nori
+O, mi-e dor, Doamne, mi-e dor
+Cor:	/:O, ţara mea, al nostru vis
+Aş vrea să se-mplinească
+Acolo sus, în Paradis
+În Patria cerească:/
+
+[s3]
+3. Mi-e dor de ţara cea de sus
+Unde Domnul nost` s-a dus
+Vino, Doamne şi ne ia
+Şi ne du în ţara Ta
+Cor:	/:O, ţara mea, al nostru vis
+Aş vrea să se-mplinească
+Acolo sus, în Paradis
+În Patria cerească:/
+
+[order]
+s1,s2,s3

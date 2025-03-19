@@ -1,0 +1,42 @@
+[s1]
+Încă puţin şi vine
+aşa cum ni s-a spus,
+Slăvitul Domn Mesia,
+al nostru scump Isus.
+Încă puţin şi cerul
+se va deschide larg,
+Să-ntâmpine pe Domnul
+cel sfânt şi minunat.
+
+[r1]
+Mai e puţin din noapte
+şi vom pleca spre cer,
+Urcând spre zări albastre
+în zbor de porumbel.
+Spre Paradisul veşnic,
+sublim şi minunat,
+Acolo sus în locul
+de noi mult aşteptat.
+
+[s2]
+Ce melodii ce imnuri
+se-aud din depărtări,
+Sunt îngerii ce-n cânturi
+slăvesc pe Creator.
+Ei strigă deşteptare spre noi,
+spre cei de jos,
+Se-aude o chemare,
+Revine iar Hristos.
+
+[s3]
+Să ridicăm privirea
+spre ceruri aşteptând,
+Pe regele Mesia pe-Acel
+ce-I veşnic sfânt.
+Sunaţi pe tot pământul
+să se audă sus,
+Răsună tot văzduhul,
+Revine iar Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1

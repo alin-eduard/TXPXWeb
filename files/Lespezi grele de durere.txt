@@ -1,0 +1,34 @@
+[s1]
+Lespezi grele de durere
+/: De m-ar apăsa :/
+/: Şi de-aş bea oţetul fierei
+De-aş fi dus pentru junghere
+Nu Te-aş mai lăsa
+Isuse, nu Te-aş mai lăsa. :/
+
+[s2]
+Carnea chiar de mi-ar deschide-o
+/: Cei ce m-asupresc :/
+/: Facă-mi răul cît mi-ar face
+Grămădindu-mi cît le place
+Nu Te părăsesc
+Isuse, nu Te părăsesc. :/
+
+[s3]
+De mi-ar da tot ce e-n lume
+/: Şi-al măririi nume :/
+/: Marea fericire-mi spune
+Şi-un strălucitor renume :
+Nu pot să Te schimb
+Isuse, nu pot să Te schimb. :/
+
+[s4]
+Căci doar mîna Ta mă ţine
+/: Tu mi-ai spus curat :/
+/: Încercarea care vine
+Mă va face pentru Tine
+Mai înflăcărat
+Isuse, mai înflăcărat. :/
+
+[order]
+s1,s2,s3,s4

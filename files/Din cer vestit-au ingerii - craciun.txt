@@ -1,0 +1,29 @@
+[s1]
+Din cer vestit-au îngerii
+Păstorilor din câmp:
+“ Acum vi S-a născut Hristos,
+La lume de folos! “
+
+[r1]
+Cu îngerii toţi să-I cântăm,
+Cu îngerii toţi să-I cântăm,
+Şi cu oastea mare cerească
+Să-L lăudăm pe Dumnezeu.
+Slavă Lui! Slavă Lui!
+Mărit fie Domnul din înălţimi
+Şi pace pe pământ.
+
+[s2]
+Când îngerii la cer s-au dus,
+Atunci păstorii-au zis:
+“ Să mergem dar la Betleem,
+Pe Prunc să Îl vedem! “
+
+[s3]
+Să alergăm şi noi cu toţi
+La ieslea lui Hristos.
+Şi cu păstorii să intrăm,
+Lui să ne închinăm.
+
+[order]
+s1,r1,s2,r1,s3,r1

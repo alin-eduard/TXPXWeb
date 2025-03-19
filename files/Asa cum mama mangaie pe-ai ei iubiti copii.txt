@@ -1,0 +1,26 @@
+[s1]
+Aşa cum mama mângâie
+Pe-ai ei iubiţi copii,
+Aşa va mângâia Hristos
+Pe-ai săi în orice zi.
+
+[s2]
+Duios veghează-asupra mea,
+Zi, noapte, ne-adormit
+Si zid de foc e dragostea
+Cu care sunt păzit.
+
+[s3]
+Cum strânge mama la al ei
+Sân pe viul vinovat
+Aşa Hristos în mila Sa
+Imi iartă-al meu păcat.
+
+[s4]
+Cum fiul poartă chipul ei,
+Aşa doresc şi eu
+Să port în mine chipul Tău,
+o, Doamne Dumnezeu!
+
+[order]
+s1,s2,s3,s4

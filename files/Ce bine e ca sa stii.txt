@@ -1,0 +1,26 @@
+[s1]
+Ce bine e ca să ştii,
+Că ai în cer Tată,
+Asupra-ţi orice-ar veni
+Uitat nu te lasă.
+
+[r1]
+/: Eu astăzi cînt şi sînt voios,
+Că Dumnezeu e Tatăl meu.
+Eu astăzi cînt şi sînt voios,
+Cu mine e mereu Hristos. :/
+
+[s2]
+Chiar dacă ar fi să pierzi,
+Pe tată sau mamă.
+Lui Dumnezeu să te-ncrezi,
+Te are în seamă.
+
+[s3]
+Iubeşte pe Dumnezeu
+Din tot sufletul tău.
+De El nu te despărţi,
+Ci credincios să-I fii.
+
+[order]
+s1,r1,s2,r1,s3,r1

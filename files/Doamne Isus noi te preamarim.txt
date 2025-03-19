@@ -1,0 +1,16 @@
+[s1]
+Doamne Isus noi te preamărim,
+Căci domneşti peste lume.
+Din inimi iţi cântăm,
+şi ne-nchinăm doar Ţie,
+Lăudam cu toţi Numele Tău.
+
+[s2]
+Tu ai putere, domneşti în glorie,
+Doamne Isuse domneşti in veci.
+Tu ai tărie, dai izbăvire,
+Tu-mi dai iubire,
+Tu eşti Domnul meu.
+
+[order]
+s1,s2

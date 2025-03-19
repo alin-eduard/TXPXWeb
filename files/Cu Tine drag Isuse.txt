@@ -1,0 +1,42 @@
+[s1]
+Cu Tine, drg Isuse,
+Pe calea către Cer
+Sunt bucurii nespuse
+Şi lacrimile pier.
+Cu Tine, doar cu Tine,
+Nici greul nu+i prea greu
+Căci braţul Tău mă ţine,
+Puternic - Dumnezeu.
+
+[r1]
+/: Cu Tine, doar cu Tine
+E viaţa ca un vis
+Cu Tine, doar cu Tine
+Am har de nedescris
+Cu Tine, doar cu Tine
+Am tot ce îmi doresc
+Am bogăţii divine,
+De accea Te iubesc. :/
+
+[s2]
+Cu Tine pe cărare
+Nu-i crucea grea de dus
+Căci Tu îmi dai răbdare
+Iubitul meu Isus.
+Cu Tine, doar cu Tine
+Chiar şi prin încercări
+Am mângâieri depline
+Şi sfinte desfătări.
+
+[s3]
+Cu Tine, bun Stăpâne,
+E totul colţ de rai
+Iar zările-s senine
+Când pacea Ta mi-o dai
+Cu Tine-părtăşie
+Am soare făr’ apus
+Că Tu-mi eşti pe vecie
+Lumina mea Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1

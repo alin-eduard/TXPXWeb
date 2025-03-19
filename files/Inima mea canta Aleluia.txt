@@ -1,0 +1,50 @@
+[s1]
+Inima mea cântă Aleluia
+Aleluia, zi şi noapte cânt!
+‘N bucurii şi-n plâns cânt Aleluia
+Aleluia, m-a salvat Cel Sfânt!
+
+[r1]
+Fără încetare cînt
+Slăvind pe Domnul meu Cel Sfânt
+Isus prin sîngele-i vărsat
+Da, Aleluia m-a salvat!
+
+[s2]
+Plin de dragoste cînt, Aleluia,
+Aleluia, Doamne, Tu Ţi-ai dat
+Pentru mine viaţa, Aleluia,
+Aleluia, ce har minunat!
+
+[s3]
+Fără încetare cânt
+Slăvind pe Domnul meu Cel Sfânt
+Isus prin sîngele-i vărsat
+Da, Aleluia m-a salvat!
+
+[s4]
+Tu mă vindeci de răni, Aleluia,
+Aleluia-n grija Ta mă ai,
+Sănătate Tu-mi dai, Aleluia,
+Aleluia, bucurii îmi dai!
+
+[s5]
+Viaţă nouă Tu-mi dai, Aleluia,
+Aleluia, Duh din Duhul Tău
+Totul Te slăveşte, Aleluia,
+Aleluia, Te slăvesc şi eu!
+
+[s6]
+Fără încetare cînt
+Slăvind pe Domnul meu cel Sfânt
+Isus prin sîngele-i vărsat
+Da, Aleluia m-a salvat!
+
+[s7]
+Să cîntăm cu zel, toţi, Aleluia
+Aleluia, sune-n lung şi-n lat
+Să slăvim pe Domnul, Aleluia,
+Aleluia, fie lăudat!
+
+[order]
+s1,r1,s2,s3,s4,r1,s5,s6,s7,r1

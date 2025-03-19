@@ -1,0 +1,31 @@
+[r1]
+Meriţi toată slava,
+Meriţi toată cinstea
+Meriţi lauda şi închinarea.
+Meriţi toată slava,
+Meriţi toată cinstea,
+Meriţi lauda şi închinarea, Dumnezeule.
+
+[r2]
+Pentru mine-un păcătos,
+L-ai trimis pe Hristos,
+Sus pe dealul Golgota,
+Ca să poarte vina mea.
+Pentru mine-un păcătos,
+Ai trimis pe Hristos,
+Sus pe dealul Golgota,
+Ca să poarte vina mea,
+
+[r3]
+Să fiu salvat, (să fiu salvat)
+Să fiu iertat, (să fiu iertat)
+Prin Isus răscumpărat.
+
+[r4]
+Cântăm Glorie, cântăm Glorie,
+Osana Domnului, slavă şi mărire.
+Cântăm Glorie, cântăm Glorie,
+Osana Domnului, slavă şi mărire.
+
+[order]
+r1,r2,r3,r4,r1,r2,r3,r4

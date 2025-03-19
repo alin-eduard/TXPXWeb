@@ -1,0 +1,23 @@
+[s1]
+/: In Domnul Ma-ncred
+El mi-e salvarea
+In mana Lui e viata mea :/
+
+[r1]
+/: De-aceea n-am sa ma tem
+Nui nicicand n-am sa ma tem
+Caci Domnul e viata mea,
+Taria mea, Salvarea mea. :/
+
+[s2]
+/: In Isus mereu
+Gasesc scapare
+Caci viata mea e-n Mana Sa :/
+
+[s3]
+/: Tu dragoste esti
+Si-a mea speranta,
+Credinta si Scaparea mea. :/
+
+[order]
+s1,r1,s2,r1,s3,r1

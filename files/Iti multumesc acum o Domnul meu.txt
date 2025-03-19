@@ -1,0 +1,22 @@
+[r1]
+Îţi mulţumesc acum,
+O Domnul meu
+Pentru iubirea Ta !
+Îţi mulţumesc acum,
+O Domnul meu
+Primeşte viaţa mea !
+
+[s1]
+Mi-aduc aminte, o Domnul meu
+De bunătatea Ta mare,
+Lacrimi amare, Tu ai schimbat
+În zâmbet, pe faţa mea.
+
+[s2]
+Tu, cu putere, m-ai copleşit,
+Mi-ai arătat îndurare,
+Iar când întruna eu am greşit
+Tu ai iertat vina mea.
+
+[order]
+r1,s1,r1,s2,r1

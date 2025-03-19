@@ -1,0 +1,22 @@
+[s1]
+Smerenia, iubit Isus,
+E-acel frumos veşmânt
+Pe care L-ai purtat supus
+Tu, Doamne, pe pământ.
+Ce minunat e-mpodobit
+Acest veşmânt ceresc!
+Ajută-mă, Isus iubit,
+Şi eu să-l dobândesc!
+
+[s2]
+Îmbracă-mă cu El deplin,
+Isus, Domnul meu,
+Să-l pot purta mereu senin
+Pe urma Ta şi eu;
+Şi-n slujba-n care m-ai chemat,
+O domnul meu iubit,
+Cu cât mai mult aş fi ‘nălţat,
+Să fiu tot mai smerit!
+
+[order]
+s1,s2

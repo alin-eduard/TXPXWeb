@@ -1,0 +1,75 @@
+[s1]
+1. Unde sunt mari bucurii
+Poporul se strânge
+Ştim că Domnul va veni
+Cu harul Său dulce.
+/: Toarnă Dumnezeu
+Har şi-n noi mereu
+Împlinind cuvântul Tău :/.
+548.     Mi b m
+
+[s2]
+2. Domnul azi te-a aşezat
+Ca să fii lumină
+Orice suflet e chemat
+Să vadă să vină.
+/: Eşti un sol trimis
+Pentru Paradis
+Eşti lucrător cu Isus :/.
+
+[s3]
+3. Într-o casă de săraci
+Cine azi se duce?
+Să-i întrebe ce nu au
+Şi ce nu le ajunge.
+/: Cel ce stă mereu
+Lângă Dumnezeu
+Împlinind Cuvântul Său :/.
+
+[s4]
+4. Într-o casă cu flămânzi
+Cine azi se duce?
+Să le ducă pentru prânz
+Pâinea lor cea dulce.
+/: Să-i spună mereu
+Din Cuvântul Său
+Cât de bun e Dumnezeu :/.
+
+[s5]
+5. Dacă unul e căzut
+Cine azi se duce?
+Să îi spună gândul bun
+Celui de pe cruce.
+/: Să-i spună mereu
+Din Cuvântul Său
+Că-ndurarea-i Dumnezeu :/.
+
+[s6]
+6. Într-o casă cu păgâni
+Cine azi se duce?
+Să le spună gândul bun
+Celui de pe cruce.
+/: Să-i spună mereu
+Din Cuvântul Său
+Cât de bun e Dumnezeu :/.
+
+[s7]
+7. Într-o casă cu necaz
+Cine azi se duce?
+Ca să mângâie durerea
+Celui care plânge.
+/: Fii mereu, mereu,
+Unde este greu
+Fii solul lui Dumnezeu! :/.
+
+[s8]
+8. Aur, pietre şi argint
+Astăzi cine strânge?
+Nu va rătăci nicicând
+Domnul îl va unge.
+/: Carul lui va fi
+Plin de bucurii
+În puterea Duhului :/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

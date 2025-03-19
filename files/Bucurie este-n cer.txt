@@ -1,0 +1,26 @@
+[s1]
+Bucurie este-n cer de-un păcătos,
+Ce-a umblat în lume rătăcit,
+Când din păcate la Isus s-a întors
+Şi vrea, ca să fie mântuit.
+
+[r1]
+O, cum îngerii se bucură
+Şi cântă oştirea cerească,
+Că un suflet păcătos nemântuit
+Prin Isus se află fericit.
+
+[s2]
+Sus în cer este mare bucurie,
+Când un păcătos este adus
+Din întuneric şi întinăciune,
+Ca el să servească pe Isus.
+
+[s3]
+Fericire este şi loc pregătit
+Chiar la Cina Domnului Cel Sfânt
+Pentru cel ce poftele le-a părăsit
+Şi urmează Domnului cel blând.
+
+[order]
+s1,r1,s2,r1,s3,r1

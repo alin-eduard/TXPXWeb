@@ -1,0 +1,26 @@
+[s1]
+/: N-ai în lume-asemănare,
+Trandafirule sublim;
+Nu există crin sub soare,
+Cum e Domnul meu divin. :/
+
+[r1]
+Eşti trandafirul cel din Saron,
+Eşti crinul alb imaculat;
+Singura floare ce emană,
+Parfumul cel mai minunat.
+
+[s2]
+/: Nu exist-asemănare,
+Nu e crin mai minunat,
+Trandafir să se compare,
+Cu al nostru Împărat. :/
+
+[s3]
+/: Ai rămas şi Vei rămane,
+Un parfum divin şi sfânt,
+Vreau şi eu să-Ţi semăn Doamne,
+Cât voi trăi pe pământ. :/
+
+[order]
+s1,r1,s2,r1,s3,r1

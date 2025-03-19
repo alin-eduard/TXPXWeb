@@ -1,0 +1,43 @@
+[s1]
+1. La Tine vin Isuse
+La Tine vin cum sunt
+Primeşte-mă cu milă
+La pieptul Tău cel Sfânt
+/: Dar n-am ce-ţi da:/
+Isuse doar inima mea
+1529                    Sol
+
+[s2]
+2. Primeşte-mă cu milă
+Şi dă-mi ulei în vas
+Ca să nu cad pe cale
+Chiar de sunt în necaz
+/: Dar n-am ce-ţi da:/
+Isuse doar inima mea
+
+[s3]
+3. Când valurile-s tulburi
+Asupra-mi năvălesc
+Ajută-mă Isuse
+Să pot să biruiesc
+/: Dar n-am ce-ţi da:/
+Isuse doar inima mea
+
+[s4]
+4. Şi te mai rog Isuse
+Sfinţeşte altarul meu
+Acolo unde zilnic
+Eu chem numele Tău
+/: Dar n-am ce-ţi da:/
+Isuse doar inima mea
+
+[s5]
+5. Şi apoi Sfinţidu-mi viaţa
+Să pot îngenunchea
+Cântându-ţi osanale
+Din toată inima.
+/: Dar n-am ce-ţi da:/
+Isuse doar inima mea
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,38 @@
+[s1]
+Isus al meu Tovaras scump
+Din zorii tinereţii.
+/: Cu Tine eu călătoresc
+Pân’ la sfârşitul vieţii. :/
+
+[s2]
+Din zori de zi, când mă trezesc
+Smerit m-aplec sub cruce.
+/: Că-n toată lumea asta n-am
+Un scut mai bun si dulce. :/
+
+[s3]
+Cand merg pe-un drum indepartat
+Isuse, esti cu mine
+/: Sa fie drumul cat de greu
+E-asa usor cu Tine :/
+
+[s4]
+Si nu ma tem ca voi pieri,
+In marea de pacate,
+/: Caci Tu, preabunul meu Isus,
+Ma izbavesti din toate :/
+
+[s5]
+Tu-mi eşti comoara care-a fost
+De mine mult căutată.
+/: Şi-acum eu nu Te-aş mai lăsa
+Nici pentru lumea toată. :/
+
+[s6]
+Caci Tu-mi esti frate de pribeag
+De cant si de suspine;
+/: Isus, al meu Prieten drag,
+Ce bine-i langa Tine! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

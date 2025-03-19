@@ -1,0 +1,53 @@
+[s1]
+/: E zi de sărbătoare
+Amin Aleluia
+Da-ţi Domnului onoare
+Amin Aleluia :/
+
+[r1]
+/: Aleluia Amin Aleluia :/
+
+[s2]
+/: Să cânte tot poporul
+Amin Aleluia
+Lui Isus biruitorul
+Amin Aleluia :/
+
+[s3]
+/: El merită mărire
+Amin Aleluia
+Cântări de multumire
+Amin Aleluia :/
+
+[s4]
+/: Mereu ne închinăm
+Amin Aleluia
+Şi viaţa Lui i-o dăm
+Amin Aleluia :/
+
+[s5]
+Eşti tu gata de plecare?
+Da, Domnul meu!
+Şi veghezi în aşteptare?
+Da, Domnul meu!
+
+[s6]
+/: Aş vrea să zbor
+Mai sus de nori
+Să mă-ntâlnesc cu El
+Aş vrea să zbor! :/
+
+[s7]
+Ai lăsat tu totul oare?
+Da, Domnul meu!
+Şi veghezi în aşteptare?
+Da, Domnul meu!
+
+[s8]
+/: Aş vrea să zbor
+Mai sus de nori
+Să mă-ntâlnesc cu El
+Aş vrea să zbor ! :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,s6,s7,s8

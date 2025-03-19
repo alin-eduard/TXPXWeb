@@ -1,0 +1,48 @@
+[s1]
+Cu priviri adânci şi grele
+Te îndrepţi spre cei căzuţi
+Ce n-au auzit de Isus,
+De Salvarea ce-a adus
+Sunt cazuţi în patimi grele
+Sunt cazuţi în umbra lor
+Şi cu inimi ca de piatră
+Nu primesc decat cei îî rău.
+
+[s2]
+Vrei să spui Isus trăieşte
+Să le spui cum L-ai primit
+Şi cu gândul de salvare
+Peste ei mâna să-ţi pui
+Dar opreştete şi caută
+De traieşti ce vrei să spui.
+
+[r1]
+Nu le spune de iubirea
+Ce în Isus vor găsi
+Dacă inima ţi-e rece
+Şi cu ei nu poţi simăi
+Dacă ei nu văd în tine
+Nici-o rază din Isus
+Nu le spune de iubire
+Vor urî tot ce le-ai spus
+
+[s3]
+Ei se uită înspre tine
+Ca pescarul în noaptea grea
+Să zărească vreo lumină
+Să vâslească însprea ea
+De le spui Isus e bine
+Negreşit vor încerca
+Să observe diferenţa
+Ce-a făcut-o în viaţa ta.
+
+[s4]
+Ei vor judeca pe Isus
+Şi Salvarea ce-o vesteşti
+După port,vorbiri şi fapte
+După felul cum munceşti
+Ei vor alerga la Isus
+Dacă,tu, ce spui trăieşti.
+
+[order]
+s1,s2,r1,s3,s4,r1

@@ -1,0 +1,35 @@
+[s1]
+/: Sa-i cantam, Domnului
+Sa-i cantam Domnului
+caci ne-a iubit. :/
+
+[r1]
+Pentru marile-ndurari
+pentru binecuvantari
+Voi canta, voi lauda pe Dumnezeu
+Pentru harul minunat
+Pentru pacea ce-am aflat
+Voi canta lui Dumnezeu neincetat
+
+[s2]
+/: Nimenea nu-i ca El
+Nimenea nu-i ca El
+ca Dumnezeu. :/
+
+[s3]
+/: Harul Sau, El l-a dat
+Harul Sau, prin Isus
+noi l-am aflat. :/
+
+[s4]
+/: Voi canta numelui Sau
+Voi canta, voi canta
+Lui Dumnezeu. :/
+
+[s5]
+/: Azi cu toti, sa-L slavim
+Azi cu toti sa-L slavim
+Pe Dumnezeu. :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

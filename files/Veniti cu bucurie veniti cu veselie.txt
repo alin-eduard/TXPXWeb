@@ -1,0 +1,31 @@
+[r1]
+Veniţi cu bucurie, veniţi cu veselie
+În faţa Domnului
+Veniţi cu bucurie, veniţi cu veselie
+Spre Gloria Lui
+Cântaţi Lui Dumnezeu,
+Cântaţi Numelui Său
+Onoarea şi mărirea e pentru slava Sa
+
+[s1]
+/:El e Alfa şi Omega,
+Dumnezeu din veşnicii
+Este Domn în Univers
+Şi în veci va dăinui
+Începutul şi sfârşitul,
+Domn al veşniciilor
+El este şi va fi
+Împăratul împăraţilor:/
+
+[s2]
+/:El e Alfa şi Omega,
+Dumnezeu din veşnicii
+Este Domn în Univers
+Şi în veci va dăinui
+Începutul şi sfârşitul,
+Domn al veşniciilor
+El este şi va fi
+Împaratul împaraţilor:/
+
+[order]
+r1,s1,r1,s2

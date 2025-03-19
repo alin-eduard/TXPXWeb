@@ -1,0 +1,27 @@
+[s1]
+Doamne, azi mă închin
+Ridic spre Tine, a mea strigare
+Întoarce-te spre mine
+Căci eu vin să capăt în dar
+A Ta iertare.
+
+[r1]
+/:Astăzi eu vin, îmi plec genunchiul
+Să mă întorc, acum e greu
+Dar vreau, Isus s-ascult Cuvântul
+Ce a bătut uşor la pieptul meu:/
+
+[s2]
+Mi-e inima plină de dor
+Să-ti cânte laude Ţie
+Cu tot ce am, Isuse, azi mă întorc
+Primeşte-mă acum la Cruce.
+
+[s3]
+Eu vin cu bucurie
+Spre Tine, astăzi eu alerg
+Primeşte-mă Isus, ia-mă de mână
+Să pot să fiu pe veci al Tău.
+
+[order]
+s1,r1,s2,r1,s3,r1

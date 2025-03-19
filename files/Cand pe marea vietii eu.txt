@@ -1,0 +1,42 @@
+[s1]
+Când pe marea vieţii eu,
+Trecut-am grele încercări.
+Când necazul s-a ivit,
+Domnul, El m-a smerit mai mult.
+/: În singurătatea grea
+Plângea inima mea de dor
+După harul Domnului,
+Să-mi vină-n ajutor (chiar El). :/
+
+[s2]
+Când în largul mării-am fost,
+Malul eu l-am dorit mereu;
+Dar furtuna s-a ivit,
+Domnul, El m-a smerit mai mult.
+/: Când aproape-am fost de mal,
+A mai venit un val din larg,
+Ce m-a dus în depărtări,
+În alte încercări (mai mari). :/
+
+[s3]
+Dar în tot necazul meu,
+Domnul m-a ocrotit mereu,
+Şi m-a scos cu mîna Sa
+Din încercarea grea, chiar El.
+/: Braţul Său mîntuitor
+M-a ridicat din valul greu,
+Sufletul El mi-a salvat
+Din marea de păcat (chiar El). :/
+
+[s4]
+Când spre Domnul am strigat,
+Din val m-a ridicat chiar El,
+Valul mării furios
+Domnul a liniştit pe loc.
+/: Câte zile voi avea,
+În toate-L voi lăuda pe El;
+El m-a scos cu mîna Sa
+Din încercarea grea (chiar El). :/
+
+[order]
+s1,s2,s3,s4

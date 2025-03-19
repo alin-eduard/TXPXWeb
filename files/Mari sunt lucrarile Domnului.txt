@@ -1,0 +1,20 @@
+[s1]
+Mari sunt lucrările Domnului
+Si cercetate de cei ce le iubesc
+Glorie si slavă e-mprejurul Lui
+Mari sunt isprăvile Lui
+
+[r1]
+/:Lăudati pe Domnul:/
+Voi toti cei iubiti de El
+/:Lăudati pe Domnul:/
+Stânca lui Israel
+
+[s2]
+Poruncile Lui stau intărite
+Pe stâlpii adevărului,
+Ne sunt călăuza către viată
+Spre-mpărăția Domnului
+
+[order]
+s1,r1,s2,r1

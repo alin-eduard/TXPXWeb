@@ -1,0 +1,9 @@
+[s1]
+/: Iată, Eu stau la uşă şi bat
+Dac-aude cineva glasul Meu
+Şi deschide uşa
+Voi intra la el, voi cina cu el
+Şi el cu Mine :/
+
+[order]
+s1

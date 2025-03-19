@@ -1,0 +1,36 @@
+[s1]
+Isus, iubire din Etern
+Tu viaţă dăruieşti
+Tu porţi pecetea cuielor
+Veşnic, să-Mi aminteşti.
+Tu eşti cu mine-n încercări
+Chiar când sunt părăsit
+Tu eşti iubire din Etern
+Totul, Tu îmi eşti.
+
+[r1]
+/: Un psalm,
+Un cântec nou de iubire
+Vom cânta în slavă
+Când ne-om întâlni
+Toate-s noi, cele vechi se vor duce
+Şi-n negura uitării se vor topi
+Pe veci :/
+
+[s2]
+Tu îmi aduci, din Cer cântări
+Şi-n lume mă-nsoţeşti
+Tu eşti cu mine, în încercări
+Şi-n taină mă pazeşti
+Tu dai lumină zorilor
+Ce tainic mă iubeşti
+Acolo nu eşti, nimica nu mai e.
+
+[s3]
+Nu privi, înapoi la anii
+Care-au fost şi nu mai vin
+Căci timpu-I scurt şi în curând
+Isus va reveni.
+
+[order]
+s1,r1,s2,r1,s3,r1

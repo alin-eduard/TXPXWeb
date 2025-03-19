@@ -1,0 +1,36 @@
+[s1]
+1451.          Fa
+Mă-ncredinţez în braţul Domnului
+Nădăjduiesc să fiu pe veci al Lui
+În inimă eu L-am primit pe El
+Şi viaţa mea îi aparţine Lui
+Cor  /:Fiindc-atât de mult a iubit
+Dumnezeu lumea
+Că a dat pe singurul Lui Fiu
+Ca oricine crede-n El să nu piară
+Ci să aibă viaţă veşnică:/
+
+[s2]
+Ştiu Domnul meu El e-ngăduitor
+Ştiu Domnul meu El este răbdător
+Ştiu Domnul meu El e prietenul
+Binevoitor El e nespus de bun
+Cor  /:Fiindc-atât de mult a iubit
+Dumnezeu lumea
+Că a dat pe singurul Lui Fiu
+Ca oricine crede-n El să nu piară
+Ci să aibă viaţă veşnică:/
+
+[s3]
+Acum este momentul potrivit
+Întoarceţi-vă ca să fiţi primiţi
+Veniţi la Domnul în El vă încredeţi
+Alegeţi-vă viaţa veşnică.
+Cor  /:Fiindc-atât de mult a iubit
+Dumnezeu lumea
+Că a dat pe singurul Lui Fiu
+Ca oricine crede-n El să nu piară
+Ci să aibă viaţă veşnică:/
+
+[order]
+s1,s2,s3

@@ -1,0 +1,37 @@
+[s1]
+Copii ai Domnului Isus
+Ce crucea Lui, ca steag, v-aţi pus,
+/: Să ştiţi că-n lumea asta, voi
+Purtaţi un lung şi greu război:
+Războiul lui Isus. :/
+
+[s2]
+La luptă voi sunteţi chemaţi
+Şi partea voastră-i să luptaţi.
+/: Să biruiţi e-al vostru ţel.
+În fruntea luptei, merge El.
+Să nu descurajaţi! :/
+
+[s3]
+'Nainte, deci, prin vânt şi ger,
+Prin suferinţe şi dureri!
+/: Iar plata, pentru că luptaţi,
+Pe-acest pământ, să n-aşteptaţi,
+Căci multă este-n cer. :/
+
+[s4]
+Iar voi să n-aşteptaţi să fiţi
+De lumea asta mai iubiţi!
+/: O, n-aşteptaţi, că-i în zadar!
+Isus a suferit amar...
+Şi voi să suferiţi!... :/
+
+[s5]
+Să nu doriţi să câştigaţi
+Cununa, fără să luptaţi,
+/: Căci nu puteţi să dobândiţi
+Cununa fără suferinţi...
+O, nici să nu-ncercaţi!... :/
+
+[order]
+s1,s2,s3,s4,s5

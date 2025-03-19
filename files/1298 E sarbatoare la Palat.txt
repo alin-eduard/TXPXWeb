@@ -1,0 +1,94 @@
+[s1]
+1298
+E sărbătoare la Palat
+Căci împăratul Belşaţar
+Ordin la slujitor ai dat
+Să-i aducă de la altar
+Vasele de la Ierusalim
+Vase de aur şi de argint
+Căci vrea să bea din ele vin
+Şi să se simte fericit
+1.
+Cor:     E mene, mene, mene
+Techel ufarsin, ufarsin
+
+[s2]
+E sărbătoare şi ospăţ
+Iar regele e fericit
+În jurul mesei stau cu toţii
+Lângă palatul strălucit
+Era sentinţa regelui
+Cu toţii stau lângă împărat
+Dar iată mâna Domnului
+Pe rege l-a înspăimântat
+2.
+Cor:     E mene, mene, mene
+Techel ufarsin, ufarsin
+
+[s3]
+Vai regele s-a îngălbenit
+E gata ca să cadă jos
+S-a înspăimântat s-a îngălbenit
+De un lucru foarte curios
+El vede o mână strălucind
+Ce scrie ca fulgerător
+Era sentinţa celui Sfânt
+Pentru a regelui viitor
+3.
+Cor:     E mene, mene, mene
+Techel ufarsin, ufarsin
+
+[s4]
+Pe vrăjitori pe cititori
+Pe înţelepţi el a chemat
+Să-i tălmăcească acela scris
+Ce părea foarte încurcat
+Scrierea aceasta încurcată
+Ce e scrisă aici pe zid
+Împărate, împărate
+Nu putem să-ţi tălmăcim
+4.
+Cor:     E mene, mene, mene
+Techel ufarsin, ufarsin
+
+[s5]
+O împărate nu fi trist
+Zice regina către el
+O împărate soţul meu
+Cheamă aici pe Daniel
+În el e Duhul cel prea înalt
+A Dumnezeului Preasfânt
+La el s-au găsit mari lumini
+Pe când trăiau ai tăi părinţi.
+5.
+Cor:     E mene, mene, mene
+Techel ufarsin, ufarsin
+
+[s6]
+Daniel zice împăratul
+Dacă tu poţi să citeşti
+Îţi dau slava împărătească
+Lângă mine să domneşti
+Slava Ta s-o dai la alţii
+Totuşi eu îţi voi citi
+Află astăzi împărate
+Află astăzi şi să ştii
+6.
+Cor:     E mene, mene, mene
+Techel ufarsin, ufarsin
+
+[s7]
+Mene înseamnă cântărit
+Ufarsin este împărţit
+Pentru a tale mari păcate
+Vei fi aspru pedepsit
+C-ai luat vasele sfinte
+Vasele lui Dumnezeu
+Pentru aceasta împărate
+Va cădea regatul tău.
+7.
+Cor:     E mene, mene, mene
+Techel ufarsin, ufarsin
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

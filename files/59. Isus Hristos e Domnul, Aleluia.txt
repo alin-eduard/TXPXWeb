@@ -1,0 +1,39 @@
+[s1]
+1. /: Isus Hristos e Domnul
+Aleluia! :/x4
+2. /: El e Mântuitorul
+Aleluia! :/ x4
+3. /: Isus Hristos e pacea
+Aleluia! :/ x4
+59.                                                        Re
+
+[s2]
+4. /: Isus este iubirea
+Aleluia! :/ x4
+5. /: El vindecă bolnavii
+Aleluia! :/ x4
+6. /: În Duhul Sfânt ne-om bucura
+Aleluia! :/ x4
+
+[s3]
+7. /:Vom răspândi iubirea Sa
+Aleluia! :/ x4
+8. /: Spre slava Lui noi vom cânta
+Aleluia! :/ x4
+9. /: Isus e biruinţa
+Aleluia! :/ x4
+
+[s4]
+10. /: Spre cer El ne conduce
+Aleluia! :/ x4
+11. /: El binecuvintează
+Aleluia! :/ x4
+
+[s5]
+12. /:Pe străzi de aur vom cânta
+Aleluia! :/ x4
+13. /: Glorie Lui Isus
+Aleluia! :/ x4
+
+[order]
+s1,s2,s3,s4,s5

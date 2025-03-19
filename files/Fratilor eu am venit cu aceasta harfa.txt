@@ -1,0 +1,61 @@
+[s1]
+Fraţilor, eu am venit
+cu această harfă
+Şi vreau să-I cânt Domnului
+din inima toată
+Să vestesc cu glas duios
+a Lui bunătate
+Căci Isus m-a mântuit
+şi m-a scăpat de moarte.
+
+[r1]
+/: O, şi să-I cânt de bucuria
+care va veni
+Ziua aceea minunată
+când se va-mplini.
+O, nu-i promiteţi inimii
+lucruri pământeşti
+Ci pentru aceea zi
+să te pregăteşti ! :/
+
+[s2]
+Într-o zi înspre cer
+noi cu toţii vom zbura
+Domnul Isus va veni
+spre-a ne ridica
+Când al nostru Isus
+slava Îşi va arăta
+Şi pe un nor luminos
+spre-a ne ridica.
+
+[s3]
+Veseliţi-vă voi dar,
+căci mult nu mai e
+Preţuiţi vremea de har
+care se scurge
+Cu cântări şi cu psalmi
+să vă întăriţi
+Pe Cuvântul din Scriptură
+totul să zidiţi.
+
+[s4]
+Pe cei slabi şi cei căzuţi
+uitării să nu-i daţi
+Şi cu foc să stăruiţi, toţi să-i ridicaţi.
+Tot pământul şi marea
+s-or cutremura
+Zburând, sfinţii din morminte
+striga-vor : <Osana !>
+
+[s5]
+Ziua aceea va veni
+chiar de n-o doresc cei răi
+Dar noi fericiţi vom fi
+de-ar merge şi ei
+Cei rămaşi vor alerga
+răpândiţi în sus şi-n jos
+Şi vor plânge cu amar,
+dar fără folos.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

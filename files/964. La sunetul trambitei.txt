@@ -1,0 +1,41 @@
+[s1]
+964.
+1. La sunetul trâmbiţei
+Când sfinţii acasă vor pleca
+La marea de cristal
+Ne vom saluta
+Cu prietenii cei iubiţi
+Care ne aşteaptă să venim
+În acea strângere
+O să ne întâlnim.
+
+[r1]
+Cor:	Ce strângere va fi
+Când arhanghelul
+Cel sfânt va trâmbiţa
+Ce strângere va fi
+Când credincioşii
+Toţi se vor întâlni
+
+[s2]
+2. Când îngerul Domnului
+Va striga timpul s-a împlinit
+S-or scula cei ce-n Domnul
+Au adormit
+Atunci cu toţi ne-om întâlni
+La cerescul ţărm sus
+Unde-i strângerea
+Sfinţilor Lui Isus.
+
+[s3]
+3. La judecata din urmă
+Când toate-n lume nor fi
+Când pe Domnul
+În glorie îl vom zări
+Salvatorul ne va zice
+Veniţi voi la dreapta mea
+Toţi cei ce aţi ascultat
+Evanghelia.
+
+[order]
+s1,r1,s2,r1,s3,r1

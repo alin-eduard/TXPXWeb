@@ -1,0 +1,32 @@
+[s1]
+Va veni un ceas cand Te vei cobora
+Sa va intoarce-ti voi pe tarmuii
+De margea
+Sa privi-ti in sus,se arata zorii
+Pe cand noi prin har v-om zbura
+In ceresc liman
+
+[r1]
+/: Nu va mai fii suspin
+Si cel de lacrimare,
+Vai se insinguararii
+Nor mai doinii catre zarii
+Cu harfe de visarii
+O inima in ceasul greu,
+Vor fii chiar zorii de senin
+Cand Domnul in sarbatoare,
+Pe tarmul iubirii nins
+Ne va-N sotii in necuprins
+Spre zarii de cat nestins
+Mereu. :/
+
+[s2]
+Va veni un ceas cand din furtuna
+Mai sus de flori si vanturi dulce
+Curcubeu
+Ne v-a purta catre lumina
+Din inserarii spera al vietii soare
+Dumnezeu.
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,33 @@
+[s1]
+Mainile ridicam cand ne rugam
+Numele Tau chemam
+Tie ne-nchinam
+Am venit Doamne aici
+sa te slujim
+Dumnezeu plin de har
+Esti doar Tu
+
+[s2]
+Te adoram, doar pe Tine
+Te laudam
+Numai Tu, esti Dumnezeu
+Numai Tu, numai Tu
+
+[s3]
+/:Sfant esti, sfant esti
+Doar Tu Domnul meu
+Sfante sfant e
+Doar numele Tau:/
+
+[s4]
+Esti Dumnezeu
+Numai Tu, numai Tu
+
+[s5]
+Mainile ridicam
+Numele Tau chemam
+Am venit Doamne aici
+Tie sa ne-nchinam.
+
+[order]
+s1,s2,s3,s4,s5

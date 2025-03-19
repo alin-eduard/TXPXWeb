@@ -1,0 +1,38 @@
+[s1]
+O, Doamne, strig către Tine,
+Primeşte-a mea slăbiciune!
+Cu braţul Tău fă-mi scăpare,
+Cum sunt primeşte-mă.
+/: Cum sunt primeşte-mă :/
+Tu eşti al meu mântuitor,
+Cum sunt primeşte-mă.
+
+[s2]
+Păcatul m-apasă mereu,
+Te rog mă scapă de cel rău,
+Apropie-mă ca pe-al Tău,
+Cum sunt primeşte-mă.
+/: Cum sunt primeşte-mă :/
+Tu eşti al meu mântuitor,
+Cum sunt primeşte-mă.
+
+[s3]
+Zel, râvnă, ele îmi lipsesc,
+Încât şi ceea ce doresc,
+Precum aş vrea să împlinesc,
+Cum sunt primeşte-mă.
+/: Cum sunt primeşte-mă :/
+Tu eşti al meu mântuitor,
+Cum sunt primeşte-mă.
+
+[s4]
+Te-aştept, Doamne,ca păcătos,
+Dar nu ca şi un disperat,
+Ştiind că Tu eşti îndurat,
+Cum sunt primeşte-mă.
+/: Cum sunt primeşte-mă :/
+Tu eşti mântuitorul meu,
+Cum sunt primeşte-mă.
+
+[order]
+s1,s2,s3,s4

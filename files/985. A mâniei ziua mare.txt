@@ -1,0 +1,56 @@
+[s1]
+985.
+1. A mâniei ziua mare
+Va preface lumea iară
+Cum proorocii cuvântară
+2. Vai ce zi are să fie
+Când Isus are să vie
+Să ne judece-n mânie
+
+[s2]
+3. Trâmbiţa răsună falnic
+Şi din cimitirul jalnic
+Morţii înviază grabnic
+4. Lumea întreagă stă uimită
+Moartea stă încremenită
+Prada ei fiind răpită
+
+[s3]
+5. Iată cartea înfricoşată
+Pentru a lumii judecată
+Unde-i scrisă orice faptă
+6. Toată fapta e văzută
+Orice taină-i dezvelită
+Toată vina-i cunoscută
+
+[s4]
+7. Ce voi face atuncea oare
+Cine-mi vine-n apărare
+Când cel drept e-n strâmtorare
+8. Doamne dintr-o înălţime
+Dă-mi din milă mântuire
+Tu izvor de miluire
+
+[s5]
+9. Plâng şi gem de a mea vină
+Faţa îmi arde de ruşine
+Doamne îndură-te de mine
+10. Isus veşnic al dreptăţii
+Şterge păcatele vieţii
+Înaintea judecăţii
+
+[s6]
+11. Eu de milă nu sunt vrednic
+Dar te rog cu glas cucernic
+Să nu ard în focul veşnic
+12. Când pierdut în grea urgie
+Când din focul de vecie
+Tu mă duci la împărăţie
+
+[s7]
+13. Gem în rugă îndurerată
+Inima mea sfâşiată
+Scapă-mă de judecată.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

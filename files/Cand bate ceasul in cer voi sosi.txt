@@ -1,0 +1,32 @@
+[s1]
+Când bate ceasul în cer voi sosi,
+în ţara mea, în ţara mea;
+Unde pe Domnul să-L văd aş dori,
+în ţara mea, în ţara mea.
+Jos pe pământ sunt necazuri, dureri,
+Sus voi avea bucurii, mângâieri.
+Nu vor mai fi grijuri şi nici poveri
+în ţara mea, în ţara mea.
+
+[s2]
+Doamne, să fie precum Tu voieşti,
+eu şi aici sunt bucuros;
+Lupt cu ispite şi pofte lumeşti,
+eu şi aici sunt bucuros.
+Vreau ca în Tine pe fraţi să-i iubesc,
+Să Te aştept pregătit eu doresc,
+Ca moştenirea în cer s-o primesc,
+eu şi aici sunt bucuros!
+
+[s3]
+Sunt fericit şi aici şi în cer,
+asta e tot ce îmi doresc;
+Sfânta-Ţi prezenţă cu dor eu o cer,
+asta e tot ce îmi doresc.
+În suferinţă mă voi întări,
+Chiar şi în moarte cu mine vei fi,
+Veşnică viaţă îmi vei dărui,
+asta e tot ce îmi doresc!
+
+[order]
+s1,s2,s3

@@ -1,0 +1,43 @@
+[s1]
+911.
+Nu aceasta e menirea noastră
+Să clădim mereu aici valori
+Căci mai sus de zarea cea albastră
+Vrem să fim cu toți moștenitori
+Nu aici ne este bogăția
+Nici comoara noastră aici jos
+Vrem să spunem astăzi cu tărie
+Fericirea noastră e Hristos.
+
+[r1]
+/: Dar până atunci mai plâng
+Mai cânt și Îl aștept pe El
+Și vreau să-I spun
+Că-mi este dor de cer
+În orice zi suspin și-L chem
+Să vină mai curând
+/: Să scap să uit de acest
+Amar pământ :/
+
+[s2]
+2. De nimic ce este-n astă lume
+Noi nu vrem nicicând a ne lega
+Vrem să fim legați pe todeauna
+Drag Isuse de iubirea Ta
+Aurul, argintul, bogăția
+Tot ce pare a fi aici frumos
+Nu ne-ncântă căci Hristos e Stânca
+Pentru omul drept și credincios
+
+[s3]
+Vrem să spunem Doamne cu tărie
+Doamne Tu ești al nostru Împărat
+Ne conduce spre cortul veșniciei
+Vrem să ajungem la al Tău liman
+Doar aceasta e menirea noastră
+Să ajungem pe tărâmul sfânt
+Să lăsăm aici dureri și lacrimi
+Și să-nceapă al bucuriei cânt :/
+
+[order]
+s1,r1,s2,r1,s3,r1

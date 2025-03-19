@@ -1,0 +1,15 @@
+[s1]
+Domnul e sfânt, El e mare şi drept
+Lui mă-nchin si-L slăvesc necurmat.
+Blând şi măreţ, suferind pe calvar,
+Peste toţi harul si-a revărsat.
+
+[s2]
+Domnul e sfânt si vrednic de slavă,
+Mare şi drept e-n dragostea Sa!
+Toţi într-un glas să-L laude pe El,
+Să strige în cor: “Ce mare eşti!”
+“Ce mare eşti!”
+
+[order]
+s1,s2

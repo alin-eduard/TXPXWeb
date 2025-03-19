@@ -1,0 +1,42 @@
+[s1]
+Ne-am pus oare întrebarea
+Pentru Domnul cat lucrăm ?
+Cate suflete din gheara morţii
+An de an salvăm ?
+Caţi din semenii noştri oare
+Au aflat despre Hristos
+Nu din vorbe înflorite
+Ci din trai sfînt şi frumos ?
+
+[r1]
+Vine Domnul, vine!
+Cate suflete-am chemat?
+Vine Domnul, vine!
+Caţi talanţi am caştigat?
+Vine Domnul, vine!
+Cate roade am adus?
+Vine Domnul, vine!
+Ce-o să avem atunci de spus?
+
+[s2]
+Toamna roadelor se duce
+Şi-ncă-s mult de-adunat
+Iarna-i gata să ne-apuce
+Cat ogor am semănat ?
+Primăveri de peste rauri
+Spun smochinu-i frăgezit
+Vara-şi unduieşte graul
+Pentru seceriş albind.
+
+[s3]
+Haideţi toţi într-o simţire
+Pentru Domnul să muncim
+Şi cu roade minunate
+Viaţa să ne-o-mpodobim.
+Dacă-n ziua cercetării
+Domnul va fi mulţumit
+Ne va răsplăti de toate
+Sus în cerul pregătit.
+
+[order]
+s1,r1,s2,r1,s3,r1

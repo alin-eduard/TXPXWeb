@@ -1,0 +1,39 @@
+[s1]
+1828.
+1. Ascultă poporul meu
+Şi îţi voi vorbi.
+Ascultă Israele
+Şi te voi sfătui
+Eu sunt Domnul tău
+Care-ţi iau povara
+Eu sunt Dumnezeu
+Care-ţi vindec rana
+
+[r1]
+Cor:	/:Cheamă-Mă în ziua de necaz
+Cheamă-mă în orice ceas
+Eu te voi izbăvi
+Iar tu Mă vei proslăvi:/
+
+[s2]
+2. Nu vreau să-Mi aduci
+Viţei pe altar
+Vreau mulţumirea
+Să-mi aduci ca dar
+Şi împlineşte-n grabă
+Juruinţa ta
+Şi Eu, Dumnezeu
+Te voi asculta
+
+[s3]
+3. Celui ce veghează
+Pe cărarea Mea
+Eu, zice Domnul
+Îi voi da mântuirea
+Cine în orice vreme
+Îmi mulţumeşte
+Acela este omul
+Ce mă proslăveşte.
+
+[order]
+s1,r1,s2,r1,s3,r1

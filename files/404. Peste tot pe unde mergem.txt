@@ -1,0 +1,27 @@
+[s1]
+404.
+1.Peste tot pe unde mergem
+Noi vestim despre Isus
+Şi vrem s-ajungem în ceruri
+Unde El s-a dus.
+
+[r1]
+Cor:Şi ... dacă vrei să mergi cu noi
+Haide ...ce mai stai
+Azi renunţă la păcat
+Şi vei merge-n rai.
+
+[s2]
+2.Hai învaţă pocăinţa
+Căci nu este grea
+Azi primeşte-L pe Mesia
+În inima ta.
+
+[s3]
+3.Ne vom bucura odată
+Colo-n ceruri sus
+Cu Acel ce ne e Tată
+Cu Domnul Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1

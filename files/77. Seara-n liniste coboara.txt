@@ -1,0 +1,35 @@
+[s1]
+77.                                      La b
+1. Seara-n linişte coboară
+Ziua-n linişte o sfârşim
+La un loc cu toţii iară
+Sfinte Tată-Ţi mulţumim.
+
+[s2]
+Cor:  Mulţumim, mulţumim
+Sfinte Tată-Ţi mulţumim.
+
+[s3]
+2. Tu ne-ai dat puterea toată
+Munca noastră s-o-mplinim
+Pentru mila Ta bogată
+Sfinte Tată-Ţi mulţumim.
+
+[r1]
+Cor:  Mulţumim mulţumim
+Sfinte Tată-Ţi mulţumim.
+
+[s4]
+3. Ai făcut cu-ndestulare
+Pâinea zilei s-o primim
+Pentru grija-Ţi iubitoare
+Sfinte Tată-Ţi mulţumim.
+
+[s5]
+4. Somn cu pace noapte bună
+De la Tine noi dorim
+Şi-ncă o dată împreună
+Sfinte Tată-Ţi mulţumim.
+
+[order]
+s1,s2,s3,r1,s4,r1,s5,r1

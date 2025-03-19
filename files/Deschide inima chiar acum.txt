@@ -1,0 +1,19 @@
+[s1]
+Deschide inima chiar acum
+Domnul sa intre-n ea.
+Orice pacat, orce vina grea
+Domnul o va purta.
+
+[r1]
+Lasa-L sa intre in inima ta
+Pacea din ceruri atunci vei avea
+Domnul asteapta o, nu-L refuza.
+
+[s2]
+Deschide inima chiar acum
+Plin de pacat cum esti
+Nu pierde astazi prilejul dat
+Grabeste sa-L primesti
+
+[order]
+s1,r1,s2,r1

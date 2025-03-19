@@ -1,0 +1,36 @@
+[s1]
+1. Străin am fost odată,
+Străin şi alungat,
+Nici fraţi n-aveam, nici tată,
+Nici mamă-nduioşată
+Să-mi mângâie vreodată
+Obrajii-nlăcrimaţi.
+233.
+Mi
+
+[s2]
+2. Dar Te-am aflat pe Tine,
+Isuse preaiubit,
+În chinuri şi suspine,
+La toţi le-a fost ruşine
+Să vină lângă mine,
+Tu singur ai venit.
+
+[s3]
+3. Necazurile-mi toate
+La Tine m-au adus
+De-atunci Tu-mi eşti de toate
+Şi milă şi dreptate
+Şi mamă-mi eşti şi frate
+Şi tată Tu Isus.
+
+[s4]
+4. Rămân deci, pân’ la moarte
+Sub crucea Ta supus
+Bucăţi de m-ar împarte,
+Pe drumuri să mă poarte
+Tot nu mă vor desparte
+De Tine, o, Isus.
+
+[order]
+s1,s2,s3,s4

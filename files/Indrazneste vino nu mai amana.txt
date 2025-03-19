@@ -1,0 +1,34 @@
+[s1]
+Îndrăzneşte, vino, nu mai amîna
+Azi primeşte mîntuirea Sa!
+Vino şi te-ntoarce azi la Dumnezeu!
+Fericit vei fi prin harul Său.
+
+[r1]
+Lasă azi păcatul lumii,
+vin, la Dumnezeu
+Mîntuieşte-te prin harul Său!
+Timpul este astăzi,
+mîine nu vei mai putea
+Uşa harului se va-ncuia!
+
+[s2]
+Lumea te-amăgeşte, vrea pieirea ta
+Numai Domnul te poate salva.
+Singur niciodată nu vei izbuti
+Doar Isus te poate mîntui.
+
+[s3]
+Astăzi eşti puternic, nu poţi fi înfrînt
+Dar sfîrşitul vine în curînd.
+Banii şi puterea, lumea, faima ta
+Toate-acestea jos vor rămînea.
+
+[s4]
+Lasă şi mîndria, lasă eul tău!
+Astăzi îţi vorbeşte Dumnezeu.
+Hotărăşte, vino, fă un legămînt!
+Domnul Isus vine în curînd.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

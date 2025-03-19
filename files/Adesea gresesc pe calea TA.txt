@@ -1,0 +1,29 @@
+[s1]
+Adesea greşesc pe calea TA,
+Doamne-aţintind spre mine.
+Privirea ce ştiu că ar trebui,
+Să mi-o îndrept spre Tine.
+
+[r1]
+Ştii că astăzi...
+Deşi Ţi-am gresit,
+Cu speranţă eu la Tine-am venit
+Chiar şi astăzi...
+La Tine găsesc îndurare
+Când fără să vreau Îţi greşesc.
+
+[s2]
+Ştii căile mele pe derost,
+Ştii când fac rău sau bine.
+Mă-ntreb viaţa mea acum,
+Ce-ar fi fost fără speranţă-n Tine?
+
+[s3]
+Aştept în tăcere Voia Ta
+sfânta e pentru mine,
+Nu vreau să m-ascund
+Oricum n-as putea;
+Doar mila Ta mă ţine.
+
+[order]
+s1,r1,s2,r1,s3,r1

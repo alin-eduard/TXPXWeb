@@ -1,0 +1,21 @@
+[s1]
+În Betleem Isus S-a născut
+Eu cred, da, eu cred
+În Galileea umblat-a
+Eu cred, da, eu cred.
+
+[s2]
+Cei trei magi se închinară
+La ieslea pruncului Isus
+Şi îngerii în cer cîntară
+Eu, cred, da, eu cred.
+
+[s3]
+Eu cred, da, eu cred.
+Deschide inima chiar acum
+Şi lasă-L să Se nască-n ea!
+Fericire, bucurie, pace-n suflet
+Îţi va da!
+
+[order]
+s1,s2,s3

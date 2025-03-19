@@ -1,0 +1,83 @@
+[s1]
+1. Auzi glasul Domnului
+Strigă la poporul său
+Pregăteşte-te îţi spun
+Timpul e aproape să vin
+2. Dar astăzi poporul meu
+Mult este vorbit de rău
+Dar eu cu voi locuiesc
+Deasupra voastră privesc
+717.Re
+
+[s2]
+3. Căci eu v-am răscumpărat
+Din lume şi din păcat
+Dar astăzi sunt între voi
+Mulţi care dau înapoi
+4. Şi după ce i-am spălat
+Haina sfântă au pătat
+Şi prin fapta lor cea rea
+M-au străpuns în coasta mea
+
+[s3]
+5. Căci eu v-am răscumpărat
+Cu sângele meu vărsat
+I-am spălat, i-am curăţit
+Şi din nou m-au răstignit
+6. Iar voi care privegheaţi
+De asta nu vă întristaţi
+Ci să vă rugaţi mereu
+Căci vine timpul cel greu
+
+[s4]
+7. Vine timpul dureros
+Căci de mult este promis
+Harul Meu îl voi lua
+Şi voi da durerea grea
+8. Voi da necazul cel greu
+Peste poporul cel rău
+Atuncea veţi alerga
+Pe la munţi şi veţi striga
+
+[s5]
+9. Peste noi vă aruncaţi
+Că numai putem răbda
+Pământul s-a dărâma
+Iar pe nori s-a arăta
+10. Fiul Omului venind
+Ca un fulger răsărind
+Ce-a ieşit din răsărit
+Şi la apus s-a sfârşit
+
+[s6]
+11. Şi-n glas tare va striga
+Toţi morţii vor învia
+Din apă şi din pământ
+Adunase-vor plângând
+12. Şi va sta-naintea Sa
+Cu fapta bună sau rea
+El răsplată le va da
+După cum vor merita
+
+[s7]
+13. Şi-i va despărţi de răi
+Dintre cei iubiţi ai Săi
+Şi-i va trimite la chin
+La plânset şi la suspin
+14. Dar cei binecuvântaţi
+Pe nume vor fi chemaţi
+Veniţi sub aripa Mea
+De gustaţi fericirea
+
+[s8]
+15. O ce plânsete vor fi
+Când ei se vor despărţi
+Mamă, tată de copii
+Bărbaţi de către soţii
+16. Cei de jos vor rămânea
+Parte de Iad vor avea
+Iar cei sfinţi vor merge sus
+Chiar la dreapta lui Isus.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

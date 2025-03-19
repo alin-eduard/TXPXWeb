@@ -1,0 +1,45 @@
+[s1]
+1878
+1. Domnul e Păstorul sufletului meu,
+E Mântuitorul , Fiu de Dumnezeu,
+Laudă-L pe El , fii mulțumitor,
+El e scutul tău , scumpul Salvator!
+Laudă-L cu îngerii,
+Laudă-L oriunde-ai fi,
+Laudă-L neîncetat
+Pe unicul Împărat!
+
+[s2]
+2. Încrede-te în El toată viața ta,
+Nu te îndoi de puterea Sa.
+El te întărește , El e stânca ta,
+Te povățuiește , nu te clătina!
+Și , chiar de-ar fi să treci prin greu,
+Laudă-L mereu
+Laudă-L cu îngerii,
+Laudă-L oriunde-ai fi,
+Laudă-L neîncetat
+Pe unicul Împărat!
+
+[s3]
+3. Inima îmi bate , tremură mereu,
+Pentru Salvatorul sufletului meu.
+M-a răscumpărat , m-a eliberat,
+Pentru mine El viața-n dar Și-a dat.
+Astăzi cânt:,,El m-a salvat!”,
+Astăzi cânt:,,El m-a iertat!”,
+Astăzi cânt:,,M-a mântuit!”,
+Și sunt fericit.
+
+[s4]
+4. Nimeni nu-i ca Tine-n cer și pe pământ
+Păsările-n cor Te laudă cântând.
+Soarele și luna tot Tu le-ai creat,
+Omul și natura Îți cântă ne-ncetat!
+,,Slavă Ție , Domn preasfânt!”
+Să răsune pe pământ,
+Zi de zi vrem să-Ți slăvim
+Numele-n veci , amin!
+
+[order]
+s1,s2,s3,s4

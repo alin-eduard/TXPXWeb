@@ -1,0 +1,43 @@
+[s1]
+1. Văd Doamne chipul Tău strălucitor
+Şi-n stele sus şi-n soare şi în nor
+Dar chipul Tău şi omul l-a purtat
+În vremea când era nevinovat
+Căci după chipul Tău Tu l-ai creat
+Să fie sfânt şi fără de păcat.
+342.									Do m
+
+[r1]
+Cor: Omule, nu întâmplarea
+Ţi-a dat chipul minunat
+Dumnezeu cu îndurarea
+El te-a binecuvântat.
+
+[s2]
+2. Văd Doamne mâna Ta de creator
+Şi-n văi adânci şi-n vârful munţilor
+În piatra care scapără scântei
+Şi în parfumul florilor de tei
+Şi-n fagurul ce picură din văi
+Căci le-ai creat
+Pe toate pentru noi.
+
+[s3]
+3. Văd Doamne chipul Tău în adunări
+Prin Duhul Sfânt
+Cu dar de vindecări
+Tu locuieşti în cerul strălucit
+Dar vii şi lângă omul umilit
+Ca să-l ridici din umilinţa lui
+Şi-n carul mântuirii să îl sui.
+
+[s4]
+4. Văd mâna Ta în fiecare zi
+Şi-n răsărit de soare şi-n apus
+În stropul cel de rouă cristalin
+Şi-n norii care plini de apă vin
+Să cadă peste lutul frământat
+Să crească rodul binecuvântat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

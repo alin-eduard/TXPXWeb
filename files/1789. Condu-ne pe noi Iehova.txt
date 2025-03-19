@@ -1,0 +1,27 @@
+[s1]
+1789.
+1. Condu-ne pe noi Iehova
+Prin pustiul acesta
+Slabi suntem noi, Tu eşti tare
+Poartă-ne dar pe braţe
+/:Mană din cer, mană din cer,
+Hrăneşte poporul tău:/
+
+[s2]
+2. Deschide-ne-n pustie Stâncă
+Ce ne dă apă vie
+Cu nor de foc ne-nveşmântă
+Oricând cel rău ne-mbie
+/:Marele nost ` Mântuitor,
+Fii al nost` Apărător:/
+
+[s3]
+3. Iar când noi în faţa morţii
+Toţi vom trece prin Iordan
+Să putem intra cu sfinţii
+În cerescul Canaan
+/:Cântare de mulţumire,
+Vom aduce toţi, Doamne:/
+
+[order]
+s1,s2,s3

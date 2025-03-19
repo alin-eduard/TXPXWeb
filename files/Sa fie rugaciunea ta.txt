@@ -1,0 +1,40 @@
+[s1]
+Să fie rugăciunea ta
+O jertfă pentru slava Sa
+De laudă şi adorare
+Când stai plecat înaintea Lui
+Dă-i mulţumire Domnului
+Şi spune ,,Doamne, Tu eşti mare.”
+
+[r1]
+Rugăciunea te poartă printre stele
+Te-ajută, frate, prin zile grele
+Rugăciunea, când treci prin încercare
+Te ridică şi vezi că Domnu-i mare
+
+[s2]
+Prin rugăciune, tu, găseşti
+Alese bucurii cereşti
+Când vine Domnu-n cercetare
+Prin Duhul Sfânt, tu mijloceşti
+Şi uiti de cele pământeşti
+Cu Domnnul Sfânt la rugăciune.
+
+[s3]
+Şi Domnul Isus s-a rugat
+Din chinuri grele a strigat
+O, Doamne iartă a lor vină
+Te roagă frate ca Isus
+Şi vei primi din Cer răspuns
+Durerea, Domnul îţi alină.
+
+[s4]
+Veniţi, voi fraţi să ne rugăm
+Spre Stânca vieţii să strigăm
+Doar El ne dă din Apa vie
+Puţin mai e şi vom pleca
+Şi-acolo nu ne-om m-ai ruga
+Ci vom cânta de bucurie.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

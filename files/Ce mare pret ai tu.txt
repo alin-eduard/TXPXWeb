@@ -1,0 +1,26 @@
+[s1]
+Ce mare preţ ai tu, în ochii Tatălui
+C-a dat ce avea mai bun pentru tine
+Viaţa, El şi-a dat, El Isus
+Ca să fii tu salvat şi iertat.
+
+[r1]
+/:Tu eşti păstorul bun, şi Salvatorul meu
+În Tine am găsit iubirea
+Tu schimbă-mi viaţa mea
+Şi fă-mă Sfânt mai curat, ca zăpada:/
+
+[s2]
+Iubeşte-mă aşa cum sunt
+Primeşte-mă la pieptul Tău
+Şi ajută-mă să fiu copilul Tău
+Să merg pe Calea Ta mereu.
+
+[s3]
+Primeşte-mă aşa cum sunt
+Primeşte-mă la pieptul Tău
+Şi ajută-mă să fiu copilul Tău
+Să merg pe calea Ta, mereu.
+
+[order]
+s1,r1,s2,r1,s3,r1

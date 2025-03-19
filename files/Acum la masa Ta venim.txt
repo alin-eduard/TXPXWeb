@@ -1,0 +1,21 @@
+[s1]
+Acum la masa Ta venim
+Cu Tine ne-mpărtăşim
+Iar moartea Ta toţi o vestim
+Şi pe Tine te mărim
+Re b M
+
+[r1]
+/:Noi vestim moartea Ta
+Prin care avem viaţă
+Corpul Tău îl mâncăm
+Şi sângele Tau îl bem:/
+
+[s2]
+Doamne tu corpul Ţi l-ai dat
+Sângele Ti l-ai vărsat
+Ca noi prin Tine să trăim
+Fi mărit în veci, Amin
+
+[order]
+s1,r1,s2,r1

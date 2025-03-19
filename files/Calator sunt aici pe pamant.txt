@@ -1,0 +1,31 @@
+[s1]
+Calator sunt aici pe pamant
+Tara mea e in cerul sfant
+Eu sunt fiu de-mparat
+voia Lui o-mplinesc
+Pe Isus il iubesc si-l slujesc.
+
+[r1]
+/: Tara mea loc de vis,
+tara mea-I Paradis
+Caci Isus un loc mi-a pregatit.
+Tara mea loc de vis,
+tara mea-I Paradis
+Caci Isus un loc mi-a promis :/
+
+[s2]
+Greutati, indoieli vin mereu
+Sa imi clatine crezul meu
+Pe genunchi ma asez
+in ruga-l implor
+Pe Isus sa imi dea ajutor.
+
+[s3]
+Voi pleca si nimic n-o sa iau
+Casa Tatalui pregatita-I stau
+Chiar de-am strans comori
+toate scrum se prefac
+Langa Domnul voi fi in veac.
+
+[order]
+s1,r1,s2,r1,s3,r1

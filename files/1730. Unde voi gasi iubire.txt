@@ -1,0 +1,35 @@
+[s1]
+1. Unde voi găsi iubire
+Ca a Ta dulce Isus
+Chiar când toate vor dispare
+Tu rămâi în veci Isus
+1730.
+Cor:	/:Isuse eu doresc
+Inima să-ţi dăruiesc:/
+
+[s2]
+2. Chiar şi lumea de s-ar pierde
+Tu în veci vei dăinui
+Dorul tot nu se opreşte
+Toate chiar de s-ar sfârşi
+Cor:	/:Isuse eu doresc
+Inima să-ţi dăruiesc:/
+
+[s3]
+3. Când în noi ne vom încrede
+Nicicând nu vom izbuti
+Însă când lucrăm cu Tine
+Toate le vom birui
+Cor:	/:Isuse eu doresc
+Inima să-ţi dăruiesc:/
+
+[s4]
+4. Toarnă deci asupra noastră
+Focul Duhului cel Sfânt
+Ca pe noi toţi să ne facă
+Martori vii pe-acest pământ
+Cor:	/:Isuse eu doresc
+Inima să-ţi dăruiesc:/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,30 @@
+[s1]
+În fiecare seară
+Când trupul meu e frânt
+Mă uit spre cer şi cânt
+În fiecare seară
+La sclipirea stelelor mă uit
+Şi cânt cu ele-n cor
+În fiecare seară
+
+[r1]
+Spune-I durerea Lui care-o ai
+Tot ce ai mai scump să-I dai
+Plânge şi păcatul tău.
+Şi ascultă glasul Său.
+/:Închide-te-n cămara ta
+Şi spune-i Domnului Isus
+Ce nu ai vrea să ştie nimeni
+Să-I spui tu numai Lui :/
+
+[s2]
+Când soarele asfinţeşte
+Şi cerul e senin
+Mă uit spre cer şi cânt
+În fiecare seară
+N-am nimic în lume mai cu drag
+S-ascult la glasul Lui
+În fiecare seară
+
+[order]
+s1,r1,s2,r1

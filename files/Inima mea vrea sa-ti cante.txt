@@ -1,0 +1,17 @@
+[r1]
+Inima mea vrea să-ţi cânte
+Vrea să te înalţe în fiecare zi
+Tu mi-ai adus bucurie şi-atâta plinătate
+Cum n-am putut gândi.
+
+[r2]
+/: Vreau să-Ti mulţumesc
+Pentru tot ce ai făcut
+Si pentru tot ce-nsemni în viaţa mea
+Vreau să-Ti mulţumesc
+Pentru tot ce ai schimbat
+Si pentru tot ce ai schimbat
+Si pentru că mi-ai umplut inima :/
+
+[order]
+r1,r2,r1,r2

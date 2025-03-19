@@ -1,0 +1,53 @@
+[s1]
+1290.   La m
+1.			Stau privind în depărtări
+Cu ochii aţintiţi spre cer
+Stau cumva să te zăresc
+Printre oştile cereşti.
+Cor: 	Dar nădejdea în Duhul Sfânt
+Mă îndeamnă un dor să-ţi cânt
+Suflet nu descuraja
+Ce-a fost scris va fi aşa
+
+[s2]
+2.		Valuri negre mă lovesc
+Gânduri mari mă copleşesc
+Luptă-n mine neîncetat
+Gândul rău şi cel curat.
+Cor:	Dar nădejdea în Duhul Sfânt
+Mă îndeamnă un dor să-ţi cânt
+Suflet nu descuraja
+Ce-a fost scris va fi aşa
+
+[s3]
+3.			Ca şi David mă frământ
+Noaptea-n pat şi ziua-n gând
+Izbăvire de-mi vei da
+Voi învinge lupta grea.
+Cor:	Dar nădejdea în Duhul Sfânt
+Mă îndeamnă un dor să-ţi cânt
+Suflet nu descuraja
+Ce-a fost scris va fi aşa
+
+[s4]
+4.		Stau mereu tot cugetând
+Şi încep din nou să plâng
+Cred şi aştept că va sosi
+Clipa când ne-om întâlni.
+Cor:	Dar nădejdea în Duhul Sfânt
+Mă îndeamnă un dor să-ţi cânt
+Suflet nu descuraja
+Ce-a fost scris va fi aşa
+
+[s5]
+5.			’Naintând şi suspinând
+Pe al Tău drum merg eu cântând
+Mă ridic chiar de am căzut
+Şi încep din nou să lupt.
+Cor:	Dar nădejdea în Duhul Sfânt
+Mă îndeamnă un dor să-ţi cânt
+Suflet nu descuraja
+Ce-a fost scris va fi aşa
+
+[order]
+s1,s2,s3,s4,s5

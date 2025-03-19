@@ -1,0 +1,34 @@
+[r1]
+/: O, cât de măreaţă
+Este a Ta siguranţă
+Pentru acel care astăzi
+E cu Tine împăcat.
+O, da, cât de fericit poţi
+Să fii de ai o speranţă,
+Căci, în curând, vei ajunge
+La El în eternu-I palat. :/
+
+[s1]
+Ce mare şi bun este Isus!
+Ce dragoste are de noi!
+Ne apără şi ne-ndrumează,
+La vreme de grele nevoi!
+Izvoare de viaţă din inimi
+Ţâşnesc, aşa cum El a spus,
+Vestind mântuirea sublimă
+Adusă de Însuşi Isus.
+Cor
+
+[s2]
+Slăvit să fie-al Tău Nume,
+Căci pace în inimi ne-ai dat!
+Isus, minunată salvare,
+În veci, fii Tu glorificat!
+Ne umple mereu de putere
+Şi scut şi-adăpost să ne fii,
+Aici, unde viaţa-i o umbră
+Şi dincolo în veşnicii!
+Cor
+
+[order]
+r1,s1,r1,s2,r1

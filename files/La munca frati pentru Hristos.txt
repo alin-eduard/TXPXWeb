@@ -1,0 +1,38 @@
+[s1]
+La muncă fraţi pentru Hristos
+În via Sa cu zor
+Cuvântul său să-L ţinem sus
+Lucraţi, lucraţi cu spor.
+
+[r1]
+El ne dă victorii,
+ne va da şi glorii
+Celor ce se-ncred în El,
+În divinul Miel.
+
+[r2]
+O, ce frumos când eşti un fiu
+Al Dumnezeului cel viu,
+Spălat de orişice păcat
+Prin sângele vărsat.
+
+[s2]
+Cu dragoste El ne-a grăit
+Pe toţi să-i îndemnăm
+Vorbind pe uliţi cu drumeţi
+La Domnul să-i chemăm.
+
+[s3]
+Avem un lucru de-mplinit
+Ce îngerii-l privesc
+Ei sunt voioşi de negrăit
+Când mulţi se pocăiesc.
+
+[s4]
+El ne dă victorii,
+ne va da si glorii
+Celor ce se-ncred în El,
+În divinul Miel.
+
+[order]
+s1,r1,r2,s2,r1,r2,s3,r1,r2,s4

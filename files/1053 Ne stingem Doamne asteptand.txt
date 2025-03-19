@@ -1,0 +1,57 @@
+[s1]
+1.     Ne stingem Doamne aşteptând
+Sosirea zilei Tale
+E lungă aşteptarea când
+Ne laşi parcă-n uitare
+E grea vegherea fără har
+Ca lupta fără arme  .
+Când vezi înjur atâţia iar
+Cuprinşi de somn şi moarte
+1053.Mi
+
+[s2]
+Când vezi fecioarele aşteptând
+În noaptea-ntunecoasă
+În vrajba somnului cuprinşi
+Străjerii tăi din casă
+Când solii păcii au amuţit
+Vestindu-Te pe Tine
+E grea vegherea la sfârşit
+Când ajutor nu-ţi vine
+2.
+
+[s3]
+Nădejdea ni s-a destrămat
+De multe ori în luptă
+Căci ancora ce Tu ne-ai dat
+De furtuni este ruptă
+Vâslim din greu ne zbuciumăm
+Pe furtunoasa mare
+Dorim acasă s-ancorăm
+În portul slavei Tale
+3.
+
+[s4]
+Dar pân' atunci Isus iubit
+Îmbracă-ne-n putere
+Căci valul parcă-i mai cumplit
+Poverile-s mai grele
+Căci stâncile ascunse sunt
+Mai mult ca altădată
+Care lovesc în tot ce-i sfânt
+Din cale să-ne abată
+4.
+
+[s5]
+Păzeşte-ne de acele stânci,
+De ceasul lepădării
+Ca să nu fim pe veci atunci
+Pierduţi în largul zării.
+Ci plini de Duhul Tău cel sfânt
+Cu haina nepătată
+Noi treji în veghere aşteptând
+Să ne-ntâlnim odată.
+5.
+
+[order]
+s1,s2,s3,s4,s5

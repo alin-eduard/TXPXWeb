@@ -1,0 +1,53 @@
+[s1]
+972.
+1. Ascultaţi creştinilor
+Tineri şi bătrânilor
+Ascultaţi luaţi aminte
+Ale Domnului cuvinte
+2. Şi în psalmul 102
+Aşa zice către noi
+Căci în lume este o moarte
+Şi e nemiloasă foarte.
+
+[s2]
+3. N-are frică de domnie
+Nu-i trebuie avuţie
+De bătrâni nu e ruşine
+La cei tineri iute vine.
+4. De bogaţi nu se fereşte
+De săraci nu se păzeşte
+Omul strânge ca furnica
+Când moare nu ia nimica.
+
+[s3]
+5. Nu te bucura măi frate
+Că ai bani, că ai de toate
+Căci vine moartea-ntr-o noapte
+Şi rămân de Tine toate.
+6. Omul este doar o floare
+Dimineaţa înfloreşte
+Peste zi se veştejeşte
+Şi în vânt se risipeşte.
+
+[s4]
+7. Patru scânduri prinse-n cui
+Este tot ce poţi să-i pui
+Nici acelea nu-s a lui
+Că-s tot a pământului.
+8. Şi tot unul câte unul
+Cu durere sfârşesc drumul
+Şi nimic nu-l însoţeşte
+La drum când călătoreşte.
+
+[s5]
+9. Căci El pleacă singurel
+Faptele merg după El
+Şi-n lume cât s-a trudit
+Oare cui i-a folosit.
+10. De n-ai pe Domnul Isus
+N-ai s-ajungi în ceruri sus
+Te va mâna cu mânie
+În Iad pentru veşnicie.
+
+[order]
+s1,s2,s3,s4,s5

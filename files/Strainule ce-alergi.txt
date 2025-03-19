@@ -1,0 +1,35 @@
+[s1]
+Strainule
+Ce-alergi asa de grabit,
+Esti asa de obosit
+Si tot aduni, aduni mereu
+Lucruri in desagul tau.
+
+[r1]
+O, calator te gandeste
+La ceea ce iti foloseste,
+Ce strangi in traista vietii tale
+Comori de veci sau
+Lucruri pieritoare.
+
+[s2]
+Lumea te-mbie sa iei tot ce vrei
+Ieftine sunt lucrurile ei,
+Si de-odata ajungi greo
+Iar in desaga ai numai gunoi.
+
+[s3]
+Tu esti chemat s-aduni
+Doar lucrurile bune
+Cuvant, post si rugaciune.
+Astfel vei locui
+Cu isus in vesnicii
+
+[s4]
+Aceasta poate da valoare,
+Putere sa satai in picioare
+In fata marelui Creator,
+Gandestete straine calator.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

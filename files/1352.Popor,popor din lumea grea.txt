@@ -1,0 +1,39 @@
+[s1]
+1352.
+1.  Popor, popor din lumea grea
+Popor, poporul Meu
+/: Viaţa ta e-n mâna Mea
+O neam din Dumnezeu:/
+2.  Viaţă scumpă Eu ţi-am dat
+O neam, o neamul Meu
+/: Pe tine te voi ocroti
+O neam din Dumnezeu:/
+
+[s2]
+3.  Vreau să-mi fii al Meu
+O neam, o neamul Meu
+/: Şi te-oi duce la Mine-acasă
+O neam din Dumnezeu:/
+4.  Şi Te-oi pune la masa mea
+O neam, o neamul Meu
+/: Şi-ţi voi da mâncare- aleasă
+O neam din Dumnezeu:/
+
+[s3]
+5.  Şi lacrima pe faţa ta
+Nu s-a vedea atunci
+/: Şi te-oi scăpa din lumea grea
+După grele munci:/
+6.  Acum la încheiere-ţi spun
+O neam, o neamul Meu
+/: Să nu te mai opreşti pe drum
+O neam din Dumnezeu:/
+
+[s4]
+7.  Iar credinţa de-o vei păstra
+O neam, o neamul Meu
+/: Acolo sus te-i bucura
+O neam din Dumnezeu : /
+
+[order]
+s1,s2,s3,s4

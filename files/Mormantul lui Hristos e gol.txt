@@ -1,0 +1,26 @@
+[s1]
+Mormântul lui Hristos e gol
+Şi focul luptei este stins.
+E frânt pe veci al morţii bold;
+De-acum viaţa a învins.
+
+[r1]
+Laudă, laudă, Domnul este viu!
+A-nviat din morţi, a înviat,
+Domnul nostru a-nviat din morţi,
+Hristos a înviat!
+
+[s2]
+Noi raiul prin Adam pierdeam,
+Dar prin Isus il dobândim.
+Prin lege condamnaţi eram
+Prin har iertarea o primim.
+
+[s3]
+Ce bine-i cu Isus să fim!
+De moarte frică nu avem;
+În ascultare de trăim
+Cu el moştenitori suntem.
+
+[order]
+s1,r1,s2,r1,s3,r1

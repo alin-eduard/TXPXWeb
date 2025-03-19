@@ -1,0 +1,46 @@
+[s1]
+Ce mare, Doamne eşti
+Mareţ e al Tău Cuvânt,
+Pe acest pământ.
+Tu toate le-ai creat,
+Aşa de minunat, Îţi mulţumesc.
+Cu apă din izvor,
+Cu pasărea din zbor
+Eu Te slăvesc, ma-nchin şi Te măresc
+Părinte, al meu ceresc
+Căci sunt al Tău.
+
+[s2]
+/:Doamne, Tu eşti Dumnezeu
+Dumnezeu din veşnicii
+Slava-ţi cântă Ceru-ntreg
+Universul, galaxii.
+Şi noi , Daomne, Te lăudăm
+Numele Tău înălţăm
+Şi cu Sfinte melodii
+Veşnic Te glorificăm:/1
+
+[s3]
+Îţi văd prezenţa Ta,
+Deplin în viaţa mea
+O, Domnul meu
+În orice zi şi ceas
+Când eu sunt încercat
+Eşti Scutul meu.
+Când greul va veni
+Şi jos de eu voi fi, eu nu mă tem
+Mă-ncred în tot ce-ai spus
+Mă-cred în Tin’ Isus şi biruiesc.
+
+[s4]
+/:Doamne, Tu eşti Dumnezeu
+Dumnezeu din veşnicii
+Slava-ţi cântă Ceru-ntreg
+Universul, galaxii.
+Şi noi , Daomne, Te lăudăm
+Numele Tău înălţăm
+Şi cu Sfinte melodii
+Veşnic Te glorificăm:/
+
+[order]
+s1,s2,s3,s4

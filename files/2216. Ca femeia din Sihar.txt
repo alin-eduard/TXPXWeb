@@ -1,0 +1,32 @@
+[s1]
+2216								                  La M
+1.Ca femeia din Sihar la fântână
+Venit-am apă ca să scot
+Dar vocea lui Isus răsună
+Din apa vieţii ca să-ţi dau
+Eu pot.
+
+[r1]
+Cor:
+/: Dă-mi, Isuse, apă vie,
+Stâmpără-mi Tu sufletul arzând
+Cred o, Doamne,
+că Tu eşti profetul
+Ce-ai adus iubirea pe pământ :/.
+
+[s2]
+2. Unde-i, Doamne,
+Locul sfânt de-nchinare,
+În văi umbrite sau la munţi?
+O, nu! Ci-n inima smerită
+Şi în jertfa unei aplecate frunţi.
+
+[s3]
+3. Prieten drag, ce cauţi
+mereu fericirea,
+Izvorul ei e-n Domnul sfânt.
+Isus, divinul nostru Mire,
+Ce din înalt veni jos pe pământ.
+
+[order]
+s1,r1,s2,r1,s3,r1

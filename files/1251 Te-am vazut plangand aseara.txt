@@ -1,0 +1,45 @@
+[s1]
+Te-am văzut plângând aseară
+Călător străin
+/ : Lângă poarta cu zăvoare
+Te-am văzut plângând aseară
+Cine te-a lăsat afară, cine? : /
+Stând în noaptea friguroasă
+Singur pe cărare
+/ : Plânsu-n gene îngheţase
+Stând în noaptea friguroasă
+Care nu te-a dus în casă, care? : /
+1.
+2.
+1251
+
+[s2]
+Pe căi triste cu noroaie
+Ai rămas străin
+/ : Ploaia se vărsa şiroaie
+Pe căi triste cu noroaie
+Cine te-a lăsat în ploaie, cine? : /
+Cine te-a lăsat afară
+Singur să trăieşti
+/ : Care inimă avară
+Care te-a lăsat afară
+Şi-a-nchis uşa cu zăvoare, tu eşti? : /
+3.
+4.
+
+[s3]
+Doamne recunosc păcatul
+Şi mi-e dorul sfânt
+/ : Numai eu sunt vinovatul
+Nu e Doamne nimeni altul
+Cel care-a făcut păcatul, eu sunt : /
+Iar acum pe veşnicie
+Inima-mi deplină
+/ : Ţi-o predăm Isuse Ţie
+Vino-n ea pe veşnicie
+Vreau numai a ta să fie, vino : /
+5.
+6.
+
+[order]
+s1,s2,s3

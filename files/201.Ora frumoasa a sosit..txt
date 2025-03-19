@@ -1,0 +1,28 @@
+[s1]
+Re b
+1. Ora frumoasă a sosit
+Când fii lui Dumnezeu
+La rugăciune se-adună
+'Naintea tronului Său
+/:Doamne ruga ne-ascultă
+Şi ne binecuvântă:/
+201.
+
+[s2]
+2. Simţim slăbiciunea noastră
+Dar prin harul Tău îndrăznim
+Credem că Tu ne vei ierta
+Deşi noi multe-Ţi greşim
+/:Cine la Tine vine
+Va avea mântuire:/
+
+[s3]
+3. Nu numai pentru noi strigăm
+Isuse către Tine
+Şi pentru alţii ne rugăm
+Dă-le lor mântuire
+/: Ştii cât de mulţi sunt încă
+În a Satanei cursă :/.
+
+[order]
+s1,s2,s3

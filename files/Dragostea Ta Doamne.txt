@@ -1,0 +1,28 @@
+[s1]
+Dragostea Ta Doamne,
+dragostea Ta mare
+Dintr-o despărţire,
+m-a atras la Tine.
+/: Acum mai bine,
+viaţa mi-aş pierde
+Decât să pierd a Ta dragoste :/
+
+[s2]
+Dragostea Ta Doamne,
+dragostea Ta mare
+Când eu m-am rătăcit
+ea m-a regăsit.
+/: În văzduh şoptesc:
+Doamne-Ţi mulţumesc
+Viaţa mea Ţie ţi-o dăruiesc :/
+
+[s3]
+Dragostea Ta Doamne,
+dragostea Ta mare
+Izvor de iubire e pentru mine.
+/: Când te-am pe Tine,
+eu simt în mine
+Izvoare sfinte de dragoste :/
+
+[order]
+s1,s2,s3

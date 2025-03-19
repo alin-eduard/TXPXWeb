@@ -1,0 +1,33 @@
+[s1]
+1.	Să nu iubiţi ale lumii fapte
+Voi toţi acei ce stăruiţi
+Fiţi geloşi ca să primiţi Duhul
+Cel care de mult îl doriţi.
+2.	Că-n lume este o frământare
+Cu diferite urâciuni
+Dar voi cu post şi viaţă sfântă
+Tot veţi învinge-n rugăciuni.
+464.
+
+[s2]
+3.	Şi cu cântări dulci şi frumoase
+Pe Domnul voi să-L lăudaţi
+Şi cu blândeţea-nţelepciunii
+Supuşi uniţi iubiţi pe fraţi.
+4.	Şi cu lumea de dinafară
+Cu blândeţă să vă purtaţi
+Să strălucească a voastră faptă
+În faţa lumii ne-ncetat.
+
+[s3]
+5.	Şi Duhul Sfânt cu a sale daruri
+Cu glasul sfânt şi iubitor
+Vine să-şi mângâie copiii
+S-aline suferinţa lor.
+6.	Şi atuncea chinul şi ispita
+Pe voi nu va mai apăsa
+Căci Duhul Sfânt e mângâierea
+Mereu vă va încuraja.
+
+[order]
+s1,s2,s3

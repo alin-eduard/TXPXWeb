@@ -1,0 +1,26 @@
+[s1]
+Am căutat în lumea mare fericirea
+Am căutat în lumea mare bucuria
+Am căutat zadarnic tot mereu,
+Şi n-am găsit decât la Dumnezeu.
+
+[s2]
+/: Numai la El, am găsit iubire
+Numai la Dumnezeu;
+Numai prin El, am fericire,
+Să-mi alini sufletul meu. :/
+
+[s3]
+Eram fără speranţă, fără ajutor
+N-aveam pe nimeni sprijin şi-ocrotitor;
+Dar când pe Tine Doamne, te-am găsit
+Numai de-atunci sunt fericit.
+
+[s4]
+/: Numai la Tine, am găsit iubirea
+La Tine, Domnul meu.
+Numai prin Tine am fericirea
+Să-mi alini sufletul meu. :/
+
+[order]
+s1,s2,s3,s4

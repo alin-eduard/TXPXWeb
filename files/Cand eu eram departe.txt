@@ -1,0 +1,46 @@
+[s1]
+Când noi eram departe
+Si rătăceam în noapte
+Isus tu ai venit, si ne-ai salvat
+Din gheara rece-a morţii
+Unde zăceam cu toţii
+Isus tu ai venit, şi ne-ai salvat
+
+[r1]
+Isus, Isus
+Tu esti al nostru soare
+Esti barca de salvare
+Esti Mirele iubit si minunat.
+
+[s2]
+Când nu aveam pe nimeni
+Nici fraţi si nici prieteni
+În Tine am găsit un prieten bun
+La Golgota Isuse,
+Tu ne-ai cuprins în brate
+O numai Tu Isuse cu mâna Ta
+
+[s3]
+Când lacrimile amare
+Se prelingeau sub gene
+Si suferinţa era tot mai grea
+Si-n lanţuri şi-n durere
+Tu mi-ai dat mângâiere
+O numai Tu Isus cu mâna Ta
+
+[s4]
+Te aşteptăm Isuse
+În post şi în veghere
+Ne dor să te vedem cum ai să vii
+Ne-am săturat aicea
+De lacrimi şi durere
+O vino şi ne du în cerul sfânt.
+
+[s5]
+Isus, Isus
+O vino mai degrabă
+Mireasa te asteaptă
+Si Duhul strigă vino mai curând.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5

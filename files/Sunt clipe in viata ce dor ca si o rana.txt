@@ -1,0 +1,35 @@
+[s1]
+Sunt clipe în viata ce dor ca si o rana,
+Sunt clipe de disperari adeseori,
+Sunt clipe când visul usor ti se destrama
+Si cauti zadarnic în jur un ajutor.
+Sunt clipe când îti coplesesc fiinta toata
+Furtunile-acestei lumi fara zavor,
+Dar nu uita, vine o clipa odata
+Când vei zbura dincolo de nori.
+
+[r1]
+/: Când încercarile-s prea grele
+Si nu stii când se vor sfârsi,
+Mai este doar putina vreme
+Si Cel ce vine va veni.
+Chiar daca viata-i mult prea cruda
+Si te întrebi cât va dura,
+Ce mai conteaza o secunda
+Pe lânga vesnicia ta. :/
+
+[s2]
+Sunt clipe în viata când
+gusti dezamagirea
+Si vezi adevarul ca e mult prea amar,
+Sunt clipe când nu poti
+gasi în tine puterea
+Sa schimbi clipe de gheata în clipe de jar,
+Sunt clipe când multe
+poveri prea greu te-apasa
+Si esti cu fiece pas tot mai obosit,
+Dar nu uita ca în curând tu, acasa
+Lânga Isus te vei odihni.
+
+[order]
+s1,r1,s2,r1

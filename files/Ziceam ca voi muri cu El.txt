@@ -1,0 +1,28 @@
+[s1]
+Ziceam că voi muri cu El,
+într-adevăr doream
+Dar de El eu m-am lepădat,
+deşi nu credeam.
+Cum am putut să-L întristez
+cînd El mult m-a iubit
+Şi-a urcat întreg Calvar
+şi m-a mîntuit ?
+
+[r1]
+Golgota, Golgota!
+Oare ce-a simţit, lovit şi părăsit ?
+Golgota, Golgota!
+Doar pentru mine muri pe Golgota!
+
+[s2]
+El m-a găsit în greu păcat
+şi m-a eliberat
+De atunci în vis viaţa mea
+s-a transformat.
+Cum aş putea să-I mulţumesc
+pentru tot ce El mi-a dat ?
+Doar privirea mea-i în sus
+şi văd Golgota.
+
+[order]
+s1,r1,s2,r1

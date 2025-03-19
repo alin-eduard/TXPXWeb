@@ -1,0 +1,26 @@
+[s1]
+Aşa cum sunt, plin de păcat,
+Vin pentru sângele-Ţi vărsat
+De mine Tu Te-ai îndurat,
+Isuse, la Tine vin!
+
+[s2]
+Aşa cum sunt, rău, vinovat,
+Scăparea-n mine n-am aflat
+În sângele-Ţi să fiu spălat
+Isuse, la Tine vin!
+
+[s3]
+Aşa cum sunt, şi-ncredinţat
+De-al Tău Cuvânt ce mi-a fost dat,
+Să-mi fie sufletul scăpat,
+Isuse, la Tine vin!
+
+[s4]
+Aşa cum sunt, Tu m-ai poftit,
+Şi Doamne-acuma am venit,
+Eu m-am predat, Tu m-ai primit:
+Isuse, eu sunt al Tău!
+
+[order]
+s1,s2,s3,s4

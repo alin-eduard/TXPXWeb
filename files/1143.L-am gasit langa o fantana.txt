@@ -1,0 +1,53 @@
+[s1]
+1.  L-am găsit lângă o fântână
+Obosit de drum setos
+Mi-a cerut apă să bea
+Dar n-am ştiut că e Hristos.
+Cor:     Mi-a fost ruşine să stau de vorbă
+Dar El nu s-a ruşinat
+Mi-a spus ca-n ceruri îngerii cântă
+Şi-o haină albă El mi-a dat.
+1143.
+
+[s2]
+2.   Am vorbit cu El obraznic
+Şi L-am privit cu dispreţ
+Fără să ştiu că El pe mine
+Pune aşa de mare preţ.
+Cor:     Mi-a fost ruşine să stau de vorbă
+Dar El nu s-a ruşinat
+Mi-a spus ca-n ceruri îngerii cântă
+Şi-o haină albă El mi-a dat.
+
+[s3]
+3.    Nu L-am mai văzut vreodată
+Dar când spuse-al meu secret
+Mă-nchinai privindu-i faţa
+Şi am zis Tu eşti profet.
+Cor:     Mi-a fost ruşine să stau de vorbă
+Dar El nu s-a ruşinat
+Mi-a spus ca-n ceruri îngerii cântă
+Şi-o haină albă El mi-a dat.
+
+[s4]
+4.    Toată viaţa mea întreagă
+Cum a fost mi-a arătat
+Am văzut că-i ruinată
+Dar mi-a spus că m-a iertat
+Cor:     Mi-a fost ruşine să stau de vorbă
+Dar El nu s-a ruşinat
+Mi-a spus ca-n ceruri îngerii cântă
+Şi-o haină albă El mi-a dat.
+
+[s5]
+5.     Nu L-am mai văzut vreodată
+Aşa trist precum era
+Dar mi-a spus că El mă iartă
+Şi aşa cum sunt mă vrea.
+Cor:     Mi-a fost ruşine să stau de vorbă
+Dar El nu s-a ruşinat
+Mi-a spus ca-n ceruri îngerii cântă
+Şi-o haină albă El mi-a dat.
+
+[order]
+s1,s2,s3,s4,s5

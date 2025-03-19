@@ -1,0 +1,44 @@
+[s1]
+Suntem în lume călători,
+mai călători ca norii
+Unii se duc înspre apus,
+alţii răsar ca zorii.
+Unii se mulţumesc aici
+trăind printre Iordane
+Alţii se duc în depărtări,
+alţii peste oceane.
+
+[r1]
+Oriunde-aţi fi, o, nu uitaţi
+Vă cheamă veşnicia!
+Fiţi înţelepţi, fiţi vegheatori
+Să păstraţi mîntuirea!
+
+[s2]
+Trăim o viaţă de suspine:
+unde sfîrşeşti călătoria?
+De nu slujeşti pe Salvatorul,
+unde trăi-vei veşnicia?
+Nu merită să-ţi legi viaţa
+de traiu-acesta trecător
+Mai bine leagă-ţi-o de Domnul
+decat să arzi în viitor.
+
+[s3]
+Noi zi de zi ne despărţim,
+aşa-i în pribegie
+Unii se duc printre străini,
+alţii spre veşnicie.
+Dar vine în curînd o zi slăvită,
+glorioasă
+Cînd sfinţii de pe-ntreg cuprins
+vor reveni acasă.
+
+[s4]
+Oriunde-aţi fi, o, nu uitaţi
+Vă cheamă veşnicia!
+Fiţi vegheatori, fiţi pregătiţi
+V-aşteaptă-n prag Mesia!
+
+[order]
+s1,r1,s2,r1,s3,s4

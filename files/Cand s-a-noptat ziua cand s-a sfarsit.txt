@@ -1,0 +1,22 @@
+[s1]
+Când s-a-noptat, ziua când s-a sfârşit
+Să-mi odihnesc trupul, mă îndrept grăbit
+Privirea mi-alunecă lin înspre cer...
+Stele sclipesc aprins în timp ce-atâtea alte pier.
+
+[r1]
+Aş vrea să opresc timpu-n loc
+E-atâta scrum unde-altădat’ a fost foc
+Mii de dorinţi care-n ani s-au aprins
+Şi-atâtea stele care mult prea timpuriu
+s-au stins
+
+[s2]
+Atât de greu Doamne e pentru Tin
+Cei ce ţi-au fost copii să-ţi fie-acum străini
+Cu ignoranţă îşi ţes drumul spre abis
+Spunând căci au trăit cândva,
+A fost un simplu vis.
+
+[order]
+s1,r1,s2,r1

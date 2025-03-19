@@ -1,0 +1,32 @@
+[s1]
+Nu lăsa să treacă vremea
+Ca să poţi lucra,
+N-aştepta departe să luceşti;
+Credincios să fii în tot
+Ce ţi s-a-ncredinţat!
+Fii, dar, lumină unde eşti!
+
+[r1]
+Fii, dar, lumină unde eşti!
+Fii, dar, lumină unde eşti!
+Poate cineva prin tine vine la Isus,
+Fii, dar, lumină unde eşti!
+
+[s2]
+Poţi să fii lumină oamenilor
+Prin Isus
+Şi prin El mereu să străluceşti;
+Dacă numai unui suflet
+Bucurie-i faci,
+Fii, dar, lumină unde eşti!
+
+[s3]
+Pune darul tău acum
+În slujba Domnului:
+Poţi şi tu Cuvântul să-L vesteşti.
+Ca o stea a dimineţii
+Tu să străluceşti,
+Fii, dar, lumină unde eşti!
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,38 @@
+[s1]
+Isuse dragostea-Ti din cer
+Revars-o azi la fel ca ieri
+Peste acesti doi tineri miri
+Sa Te slujeasca-n orice zi
+
+[s2]
+/: Isus te rog ca sa le dai
+Aripi spre cer aripi spre rai
+Condu-i cu dreapta Ta de har
+Fii necurmat al lor hotar :/
+
+[s3]
+Inunda-le viata lor
+Chiar de e soare, chiar de-i nor
+Sa fii de ei nedespartit
+Tot drumul pana la sfarsit
+
+[s4]
+/: Binecuvantari Tu sa le dai
+Pe drumul vietii catre rai
+Si-apoi cununa in cer sus
+Cand va veni pe nori Isus :/
+
+[s5]
+Ramai cu ei Isus iubit
+In viata lor pan’ la sfarsit
+Sa te iubeasca cu mult dor
+Sa fii al lor Mantuitor
+
+[s6]
+/: Ramai cu noi ramai cu ei
+Ramai cu toti alesii Tai
+Ajuta-ne sa te slujim
+Si cerul sfant sa-l mostenim :/
+
+[order]
+s1,s2,s3,s4,s5,s6

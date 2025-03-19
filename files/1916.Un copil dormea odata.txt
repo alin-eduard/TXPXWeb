@@ -1,0 +1,59 @@
+[s1]
+1916
+1. Un copil dormea odată
+A văzut o scară-n vis
+Foarte lungă foarte lată
+Până sus în Paradis
+Pe-a ei trepte luminate
+Coborau spre el mereu
+Cete binecuvântate
+Îngerii lui Dumnezeu
+
+[r1]
+Cor: Dar deasupra era Domnul
+Iar pe scară coborau
+Mii de îngeri în lumină
+Înspre Iacov ei veneau
+
+[s2]
+2. Căci deasupra scării pline
+Ca un veșnic curcubeu
+A văzut în vis băiatul
+Pe al nostru Dumnezeu
+Doamne ce minune mare
+Ce ținut înfricoșat
+Tânărul din somnul dulce
+S-a trezit și s-a mirat
+
+[s3]
+3. Dumnezeu cu bunătate
+Lui Israel i-a vorbit
+Nu te teme sunt cu Tine
+Domnul i-a făgăduit
+Ție îți voi da pământul
+Ție și l-ai tăi copii
+Canaanul plin cu roade
+Și cu multe bogății
+
+[s4]
+4. Tu îmi vei zidi o casă
+Și o vei numi Betel
+Unde vor aduce jertfe
+Neamul vostru Israel
+Și s-a împlinit cuvântul
+Care Domnul l-a rostit
+Când făcuse legământul
+Cu acest băiat smerit
+
+[s5]
+5. Iată visul se-mplinește
+Scara rezemată sus
+Ea cu Tatăl ne unește
+Prin jertfirea lui Isus
+Și de atunci pe ea coboară
+Mii de îngeri pe pământ
+Prin Isus slăvita scară
+Noi urcăm la Tatăl Sfânt.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

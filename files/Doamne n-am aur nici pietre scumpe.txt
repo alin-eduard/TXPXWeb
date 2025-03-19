@@ -1,0 +1,26 @@
+[s1]
+Doamne, n-am aur, nici pietre scumpe,
+Dar am tot dreptul să fiu al Tău
+/: Să spună-oricine, orice ar spune,
+Eu am tot dreptul să fiu al Tău! :/
+
+[s2]
+Chiar alungat de toţi dacă aş fi,
+Eu am tot dreptul să fiu al Tău,
+/: Căci jertfa sfântă de pe Golgota
+Îmi dă tot dreptul să fiu al Tău! :/
+
+[s3]
+Doresc din suflet să-Ţi slujesc Ţie,
+Căci am tot dreptul să fiu al Tău;
+/: Aici în lume şi-n veşnicie
+Eu am tot dreptul să fiu al Tău! :/
+
+[s4]
+Inima-mi saltă de bucurie
+Eu am tot dreptul să fiu al Tău,
+/: Spre cer întruna El mă conduce
+Căci mi-a dat dreptul să fiu al Său :/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,15 @@
+[s1]
+/: Tu esti vrednic :/ si bun
+Iti aduc glorie
+Iti aduc slava
+Cinste onoare in veci
+
+[s2]
+Caci esti Creatorul
+A tot ce-i viu
+Toate le tin Mana Ta
+Toate Te lauda si Ti se inchina
+Caci Tu esti vrednic si bun
+
+[order]
+s1,s2

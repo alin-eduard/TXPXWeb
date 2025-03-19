@@ -1,0 +1,33 @@
+[s1]
+Înaintea Ta eu astăzi vin să mă închin,
+De prezenţa Ta, o, Doamne,
+mă simt copleşit
+Câtă bunătate Tu mi-ai arătat,
+De al meu păcat Tu, Doamne,
+m-ai eliberat.
+
+[s2]
+Te iubesc, Isuse, Te iubesc,
+Doar pe Tine, Doamne,Te doresc!
+Te iubesc, Isuse, eşti nădejdea mea,
+Te iubesc, Domnul meu, Te iubesc mereu.
+
+[s3]
+Înaintea Ta eu astăzi vin aşa cum sunt
+Viaţa mea ca jertfă Ţi-o aduc,
+Vreau să-Ţi spun, Isuse, o, cât Te iubesc,
+Vreau să-Ţi cânt doar Ţie cât trăiesc.
+
+[s4]
+Te iubesc, Isuse, Te iubesc,
+Doar pe Tine, Doamne, Te slăvesc
+Te iubesc, Isuse, eşti nădejdea mea,
+Te iubesc, Domnul meu, Te iubesc mereu.
+
+[s5]
+Te iubesc, Te iubesc, eşti nădejdea mea,
+Te iubesc, Domnul meu, Te iubesc
+Te iubesc, Domnul meu, Te iubesc mereu.
+
+[order]
+s1,s2,s3,s4,s5

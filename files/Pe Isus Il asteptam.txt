@@ -1,0 +1,39 @@
+[s1]
+Pe Isus Îl așteptăm
+să vină cu mărire
+Ca să Își ridice
+sfinții-n slava Sa
+Acuma este timpul
+de sfânta pregătire
+Curând se poate
+că Îl com vedea.
+
+[r1]
+/: Tuturor ne spune că Domnul
+vine în curând,
+/: El vine în curând :/
+Clipa e aproape
+și Domnul vine în curând
+El vine, vine iarăși pe pământ! :/
+
+[s2]
+Întreaga măreție
+care-i pregătită
+Domnul cu plăcere
+sfinților va da
+Și dacă viața noastră
+în sânge e sfințită
+În locul minunat
+Îl com vedea.
+
+[s3]
+Sunt semne care strigă
+și strigă cu putere
+Iată că smochinul
+este înfrunzit
+Cuvântul se vestește
+prin lemnul de durere
+Mesajul Lui e astăzi deslușit.
+
+[order]
+s1,r1,s2,r1,s3,r1

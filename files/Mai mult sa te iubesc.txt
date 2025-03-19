@@ -1,0 +1,22 @@
+[s1]
+Mai mult să te iubesc,
+Doamne, aş vrea,
+Din inimă-ndrăznesc a Te ruga!
+
+[r1]
+Mai mult să te iubesc,
+Mântuitorule!
+Să Te iubesc, să Te iubesc!
+
+[s2]
+Nu-n Tine am căutat scăparea mea,
+Azi, însă, mă întorc
+Spre mila Ta .
+
+[s3]
+Dureri de-or apăsa şi crucea grea,
+Ca Tine-a o purta,
+Doamne, aş vrea.
+
+[order]
+s1,r1,s2,r1,s3,r1

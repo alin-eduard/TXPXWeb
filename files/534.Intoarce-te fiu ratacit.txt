@@ -1,0 +1,29 @@
+[s1]
+1.	Întoarce-te fiu rătăcit
+Te aşteaptă Tatăl tău
+Odihnă n-ai unde găsi
+Decât la sânul Său.
+2.	Vino acum grăbeşte vin
+Nu-i timpul să-ntârzii
+Să nu rămâi pe veci străin
+Şi fără căpătâi.
+534.
+
+[s2]
+3.	Vino aşa cum te găseşti
+Lipsit şi zdrenţuros
+Veşmântul cel mai bun primeşti
+Din mâna lui Hristos.
+4.	Întoarce-te fiu rătăcit
+La Tatăl tău din cer
+Destul de când ai pribegit
+Înstrăinat de El.
+
+[s3]
+5.	Întoarce-te fiu rătăcit
+Ascultă-I blândul glas
+Căci Tatăl tău v-a junghiat
+Viţelul cel mai gras.
+
+[order]
+s1,s2,s3

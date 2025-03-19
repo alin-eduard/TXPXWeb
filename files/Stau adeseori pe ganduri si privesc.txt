@@ -1,0 +1,43 @@
+[s1]
+Stau adeseori pe gînduri şi privesc
+Primăvara florile cum înfloresc
+/: Pe cîmpie mieluşeii zburdă lîngă mama lor
+Păsărelele îşi cîntă cîntul lor. :/
+
+[s2]
+Îmi aduc aminte şi de mama mea
+Cum zburdam cînd eram mic lîngă ea
+/: Cu dragoste pe genunchii ei
+apoi mă aşeza
+Şi pe obrăjori cu drag mă săruta. :/
+
+[s3]
+Mamă dragă, astăzi de te-aş mai avea
+Nu-aş dori în lumea-aceasta altceva
+/: Şi de dorul tău, o, mamă,
+sufletul-mi tînjeşte greu
+Căci doresc din nou să aud glasul tău.:/
+
+[s4]
+Multe lacrimi ai vărsat pîn,
+m-ai crescut
+Multe nopţi neadormite au trecut
+/: Cînd eram în suferinţă,
+mamă dragă, te rugai
+Iar în braţe pruncuşorul ţi-l strîngeai. :/
+
+[s5]
+Astăzi, mamă, în mormînt te odihneşti
+Iar obrajii mei în lacrimi se topesc
+/: Şi acum eu aştept ziua să plec
+de pe-acest Pămînt
+Căci doresc să ne-ntîlnim în cerul sfînt:/
+
+[s6]
+Iar pînă cînd Tu, Isuse, vei veni
+Şi pe mama în cer o voi întîlni
+/: Vor rămîne amintiri ce nu se pot uita nicicînd
+C-am avut o mamă scumpă pe Pămînt:/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,45 @@
+[s1]
+1504.
+Dar Duhul spune lămurit
+Veni-vor vremuri de pe urmă
+Când unii se vor înşela
+De duhuri rele vor asculta
+S-or lepăda de cel ce vine
+
+[s2]
+2.   Şi mulţi cuvântul vor strica
+Şi vor trăi în pofta firii
+Şi adevărul n-or primi
+Salvaţi se vor închipui
+Călăuziţi de fii amăgirii
+
+[s3]
+3. Dar cel ce treaz va rămânea
+Şi va veghea în ascultare
+Lumina el o va avea
+Ce străluceşte-n noaptea grea
+E adevărul chipul sfânt al feţei Sale
+
+[s4]
+4. Isus pe tine eu te rog
+Ca să veghezi asupra mea
+Să pui în vasul meu de lut
+Lumina de la început
+Să pot cunoaşte o Stăpâne calea Ta
+
+[s5]
+5. Căci cine m-a călăuzit
+Pe drumul strâmt al celor vii
+Să pot lumina deosebi
+Şi adevărul a primi
+Să pot să am Isus nădejdea mântuirii
+
+[s6]
+6.  Mângâietorul l-ai lăsat
+O pune-l Doamne şi în mine
+Să pot să fiu un om schimbat
+De toată firea dezbrăcat
+/: Şi îmbrăcat :/ Isus în Tine
+
+[order]
+s1,s2,s3,s4,s5,s6

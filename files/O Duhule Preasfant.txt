@@ -1,0 +1,32 @@
+[s1]
+O, Duhule Preasfânt,
+Nu vrem să Te­-ntristăm,
+Nu vrem lucrarea Ta
+În noi s­o­-mpiedicăm!
+Ci­-nvaţă-ne deplin
+Să ne rugăm senin
+Părintelui Divin,
+Când valuri trec şi vin!
+
+[s2]
+O, Duhule Preasfânt,
+Tu eşti cu noi mereu
+Ca să ne fii oricând
+Îndemn spre Dumnezeu!
+De El să ascultăm în faptă,
+Grai şi gând,
+Şi voia Lui făcând,
+Să-­L lăudăm cântând!
+
+[s3]
+O, Duhule Preasfânt,
+Din albul păcii prag
+Strigăm cu Tine­-acum:
+„O, vino, Mire drag!“
+Să fim pe veşnicii
+În cerul celor vii,
+Cuprinşi în melodii
+Cu îngeri mii şi mii!
+
+[order]
+s1,s2,s3

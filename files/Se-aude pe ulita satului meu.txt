@@ -1,0 +1,32 @@
+[s1]
+<Se-aude pe uliţa satului meu
+Un ropot grăbit de copite
+Un glas de departe ce vine mereu
+Un chiot de doruri cumplite.
+E poate iubitul, e poate chiar El ! -
+Nu-mi spune că-i vântul, străine !
+/: Căci azi eu zic, poate şi mâine la fel
+Dar poimâine-i sigur că vine !> :/
+
+[s2]
+<Copilă mireasă, ce mire aştepţi ?>
+<E unul din cer ce-o să vină !>
+<Zadarnic spre uliţă ochii-ţi îndrepţi
+Căci uliţa ta e pustie !
+De când adormiră părinţii străbuni
+Stau toate la fel, neschimbate !
+/: Ce chiot auzi tu ! Atâtea minuni !
+Ce glas de vedenii ciudate !> :/
+
+[s3]
+<Se-aude pe uliţa satului meu
+Un glas peste lumea deşartă
+Şi iată, un tânăr ce-l văd numai eu
+Se-aruncă din şea lângă poartă.
+E poate Iubitul, e poate chiar El ! -
+Nu-mi spune că-i vântu-n rovine ! -
+/: Căci azi eu zic, poate şi mâine la fel
+Dar poimâine-i sigur că vine !> :/
+
+[order]
+s1,s2,s3

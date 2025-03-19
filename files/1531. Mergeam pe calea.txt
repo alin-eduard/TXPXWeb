@@ -1,0 +1,53 @@
+[s1]
+Mergeam pe calea veţi
+C-un mers aşa grăbit
+De parcă niciodată
+N-ajungem la sfârşit
+Şi strângem la gunoae
+Şi ziduri înălţăm
+De parcă niciodată
+N-ar fi să le lăsăm
+1531 Sol
+
+[r1]
+Cor: /: Să ne oprim şi să vedem
+În inimi ce avem
+Comori de aici de jos
+Sau l-avem pe Hristos
+Cu el mereu de-ai fi
+Nici când nu vei muri
+Şi acolo-n ţara Sa
+Cu El în veci vei sta :/
+
+[s2]
+2. Mor lângă noi părinţi
+Şi prieteni dragi si fraţi
+Căci moartea nu alege
+La fel ne ia pe toţi
+Şi mor pe neaşteptate
+Se duc şi noi privim
+De parcă niciodată
+N-ar fi ca să murim
+
+[s3]
+3. Din câte Domne frunze
+Mi-a spus ceva căzând
+Şi părul alb la tâmple
+Şi ochi lăcrimând
+Şi mersul greu pe cale
+Şi sufletul greoi
+De parcă totuşi mortea
+N-ar fi şi pentru noi
+
+[s4]
+4. O dacă astăzi încă
+Mai eşti aici şi viu
+E semn ca pentru tine
+Nu-I totuşi prea târziu
+Dar mâine, mâine poate
+Să vină al tău apus
+Ce mare lucru este
+Să vi azi la Isus
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

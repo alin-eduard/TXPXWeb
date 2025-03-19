@@ -1,0 +1,43 @@
+[s1]
+1. /:Dacă vrei:/,
+O, numai dacă tu vrei
+/:Omule trudit pe cale
+Sub povara vieţii tale
+La Isus tu odihna-I afla-vei:/.
+383.
+
+[s2]
+2. /:Dacă vrei:/
+O, numai dacă vrei
+/:Chiar de-ţi va părea vreodată
+Că e aspru şi te ceartă
+Cum te-ar mai sili să poarte
+Către ai Săi:/.
+
+[s3]
+3. /:Dacă vrei:/,
+O, numai dacă tu vrei
+/:Astăzi ziua mult dorită
+Prin prooroci demult vestită
+Ziua când te roagă cerul
+Ca să vrei:/.
+
+[s4]
+4. /:Dacă vrei:/,
+O, numai dacă tu vrei
+/:Ar veni El Dumnezeul
+Şi ţi-ar lua de pe umeri greul
+Şi de-atunci ar fi cu tine-ntruna:/.
+
+[s5]
+5. /:Daca vrei:/,
+O, numai dacă tu vrei:/
+Ziua este pe sfârşite
+Strânge-a cerului cuvinte
+Ca să ai un adăpost
+În noaptea grea
+/:O, de-ai vrea:/,
+/:O, numai dacă ai vrea:/
+
+[order]
+s1,s2,s3,s4,s5

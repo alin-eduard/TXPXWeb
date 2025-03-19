@@ -1,0 +1,73 @@
+[s1]
+Amar Îţi era sufletul,
+O, Mielule divin
+Când ai intrat în Ghesimani,
+Să-L rogi pe Tatăl Sfânt;
+“De-i cu putinţă
+Ca paharul greu să treacă,
+Dar totuşi, voiaTa,
+O, scumpe Tată să se facă!”
+746.         Sol b
+
+[s2]
+Cor:	O, du-mă Doamne
+Şi pe mine-n Ghestimani,
+Şi să-mi arăţi şi mie
+Unde Te-ai rugat,
+Du-mă la Golgota
+Pe sinistrul munte,
+Ca să plâng la cruce
+Unde ai răbdat!
+
+[s3]
+2. Noi nu-i cunoaştem preţul
+Şi nici nu-l vom şti nicicând
+Vându-tu-L-ai tu, Iudo
+Pentru cei treizeci de-arginţi
+Intrară în grădină
+O ceată mare de duşmani,
+Te prinseră şi te legară
+Ca pe un tâlhar.
+
+[r1]
+Cor:	O, du-mă Doamne
+Şi pe mine-n Ghetsimani,
+Şi să-mi arăţi şi mie
+Unde Te-ai rugat,
+Du-mă la Golgota
+Pe sinistrul munte,
+Ca să plâng la cruce
+Unde ai răbdat!
+
+[s4]
+3. O, dimineaţă pustie,
+Şi noaptea dispăru,
+E învelită în misterul
+Albei dimineţi;
+Privighetoarea tristă
+Nu-şi mai cântă vechiul glas,
+Căci în grădina Ghetismani
+Doar lacrimi au rămas.
+
+[s5]
+4. Îngenunchiat cu crucea-n spate
+Şi cununi de spini,
+Fiul omului pe munte
+Rabdă-ntre străini
+Calvarul suferinţei
+Nemiloase a urcat,
+Trupul e atârnat pe cruce,
+Sângele-I vărsat.
+
+[s6]
+5. Mi-au străbătut cuiele carnea,
+Sângele-a curs văi
+“N-am făcut-o pentru Mine,
+Ci pentru voi cei răi.
+Şi dacă credeţi în mine
+Şi-n jertfa din Calvar,
+Vă dăruiesc, iertare,
+Viaţă veşnică în dar!”
+
+[order]
+s1,s2,s3,r1,s4,r1,s5,r1,s6,r1

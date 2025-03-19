@@ -1,0 +1,32 @@
+[s1]
+Trăim în astă lume
+cu o nădejde sfântă,
+Avem în noi un dor ce ne-avântă.
+Spre-un loc minunat,
+spre Ţara de sus,
+De unde vei veni Isus.
+
+[r1]
+Vino Isuse! vino la noi,
+Vino degrab’ te rugăm.
+Vino Isuse! vino la noi,
+Vino căci cu toţi Te aşteptăm.
+
+[s2]
+Atâtea-n jurul nost’
+ne spun de-aceea zi,
+Când Tu Isuse vei reveni.
+Ne e dor să Te vedem,
+Când pe nori vei apărea.
+Ne e dor să-Ţi vedem Faţa Ta.
+
+[s3]
+Rămas-au doar momente
+până vei veni,
+Să-Ţi iei în slavă ai Tăi copii.
+Dar pân-atunci o Doamne,
+Te vom slavi.
+Căci Te aşteptăm să vii.
+
+[order]
+s1,r1,s2,r1,s3,r1

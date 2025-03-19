@@ -1,0 +1,26 @@
+[s1]
+Era o zi cand, prima oara-n viata,
+Spre Domnul Isus, pasii-mi indreptam.
+Ca sa imi stergi pacatele prin ruga
+Avem nevoie toti de rugaciuni.
+
+[r1]
+Doamne, unde esti? Iarta-ma, de vrei,
+Si vino sa ma iei!
+Doamne! Vino, Doamne,
+Si vezi ce-a mai ramas din oameni!
+
+[s2]
+Cu ochii-nchisi, cu maini impreunate,
+In ziua cand salvarea mi-ai adus.
+/: Ca sa imi stergi pacatele prin ruga,
+Avem nevoie toti de rugaciuni. :/
+
+[s3]
+Cand omenirea ura isi arunca,
+In clipe grele de nesuportat,
+/: Tu, prin iubirea Ta cea mai adanca,
+La Golgota, pe-o cruce, ai rabdat.
+
+[order]
+s1,r1,s2,r1,s3,r1

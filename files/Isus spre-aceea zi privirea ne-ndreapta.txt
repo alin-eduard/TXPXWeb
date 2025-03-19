@@ -1,0 +1,38 @@
+[s1]
+Isus spre-aceea zi privirea ne’ndreptata
+Mireasa asteapta-n prag
+Cu iubirea din piept ne-ntinata
+Cand tu vei aparea
+atunci la judecata
+Intregul univers va trebui
+sa te priveasca in fata
+
+[r1]
+Vino isus noi te dorim
+/: Adesea asteptarea invinsa-i
+de dorul sublim. :/
+
+[s2]
+Acei ce si-au pastrat curata
+a lor haina
+Spre ceruri vor zbura
+La randul cetelor
+cand tu ii vei chema
+Cu-acei ce vor pleca
+Isus spre noua tara
+Doresc sa plec si eu
+Scapat de-aici spre noua primavara
+
+[s3]
+Astept o dimineata
+si cred ca nu-i daparte
+Cand zori de vesnicii
+Vor implini speranta celor mii de mii
+Scapati de-orice povara
+purtati de Duhul Sfant
+Ajunge-vom acasa
+La tronul celui vesnic Sfant
+Prea sfant
+
+[order]
+s1,r1,s2,r1,s3,r1

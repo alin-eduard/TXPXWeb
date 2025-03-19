@@ -1,0 +1,26 @@
+[s1]
+Pana cand vrei sa auzi chemarea
+Intoarcete la Dumnezeu
+De ce nu vrei atunci sa crezi
+Ca a murit in locul tau
+
+[r1]
+Va veni judecata
+Si socoteala tu vei da
+De viata ta ce ai trait-o
+Nepasandu-ti de jertfa Sa
+
+[s2]
+Isus pe-o cruce a murit
+Din dragoste El s-a jertfit
+Si in gradina mult a plans
+Doar pentru ca El te-a iubit
+
+[s3]
+Astazi mai ai inc-o salvare
+Predati viata in mana Lui
+Si vei primi in dar iertare
+Si-o viata in Isus
+
+[order]
+s1,r1,s2,r1,s3,r1

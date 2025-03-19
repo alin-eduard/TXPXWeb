@@ -1,0 +1,43 @@
+[s1]
+1.	/: Arde inima în mine
+După Tine scumpe Mire :/
+/:Vino Tu Isuse drag
+Până când Te-aştept în prag
+Vino la inima mea
+Să-mi astâmperi durerea.:/
+539.      Re m
+
+[s2]
+2.	/: Oare mult mai zăboveşti
+Mire până Te iveşti :/.
+/:Vino la inima mea
+Să-mi astâmperi durerea
+Vino la sufletul meu
+Că-mi tânjeşte foarte greu:/.
+
+[s3]
+3.	/: Vino la mireasa Ta,
+Că-i suspină inima :/
+/:De lacrimi ochii sunt plini
+Sufletu-i plin de suspin
+Inima-i foarte tristă
+După Tine Isuse.:/
+
+[s4]
+4.	/: O, mireasa mea iubită
+Mai aşteaptă înc-o clipă :/
+/:Să-mi adun oiţele
+De prin toate văile
+Să le leg eu rănile
+Să le alin durerile.:/
+
+[s5]
+5.	/: Şi te-oi duce-n casa Mea
+Unde te vei bucura :/
+/:C-ai fost credincioasă tare
+Şi n-ai murmurat pe cale
+Vino acum poporul meu
+Bucură-te tot mereu.:/
+
+[order]
+s1,s2,s3,s4,s5

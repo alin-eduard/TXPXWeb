@@ -1,0 +1,20 @@
+[s1]
+De n-ar fi Domnul ajutorul meu
+În clipele grele ale vieţii
+Cît de curînd sufletul meu
+Ar locui-n tăcerea morţii.
+
+[r1]
+/: Ori de cîte ori am zis
+Mi se clatină piciorul
+Bunătatea Ta, Doamne
+Sprijin mi-a fost. :/
+
+[s2]
+Cînd gînduri negre se frămîntă
+Cu grămada înlăuntrul meu
+Bunătatea Ta, Doamne
+Îmi desfătează sufletul.
+
+[order]
+s1,r1,s2,r1

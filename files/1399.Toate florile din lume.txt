@@ -1,0 +1,36 @@
+[s1]
+1399.    Mi b
+1.  Toate florile din lume
+De le-aş aduna
+Nu-s frumoase ca şi Tine
+Scumpe Mesia
+Toate stelele din ceruri
+De ar lumina
+Nu te-ntrece în frumuseţe
+Scumpe Mesia.
+
+[r1]
+Cor:  Tu eşti crinul cel din vale
+Trandafirul din Saron
+Tu eşti mugurul din floare
+Tu eşti Sfânt iubite Domn.
+
+[s2]
+Toată strălucirea lumii de aici de jos
+Nu te-ntrece în frumuseţe
+Scump şi drag Hristos
+Mi se umezesc obrajii de iubirea Ta
+Căci te aştept cu dor fierbinte
+Scumpe Mesia.
+
+[s3]
+Inima îmi saltă-n piept
+La cuvântul Tău
+Tu ai spus ca să aştept că vii în curând
+Tu eşti Împăratul Slavei
+Mirele cel Sfânt
+Tu eşti pacea mântuirea
+Ce ne-ai dăruit.
+
+[order]
+s1,r1,s2,r1,s3,r1

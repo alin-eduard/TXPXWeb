@@ -1,0 +1,43 @@
+[s1]
+1903
+1. Ca să vă strâng Eu mi-am dorit
+Precum își strânge cloșca puii
+Dar tu în schimb Mi-ai dăruit
+O cruce grea oțet și cuie
+/: Iau astăzi martor ceru-ntreg
+Căci ți-am adus vestea salvării
+O dacă ai fi cunoscut
+Israel vremea cercetării:/
+
+[s2]
+2. Vin vremuri grele peste voi
+Pentru a voastră neascultare
+Vremi de restriște și război
+De plâns amar de chin și jale
+/: Vor trece vremuri de necaz
+Dureri prigoane peste tine
+Va fi brăzdat al tău obraz
+De lacrimi multe și suspine:/.
+
+[s3]
+3. Vorbea Isus cândva privind
+Cetatea ceia pângărită
+Plângând pentru Ierusalim
+Cetatea Lui cea preaiubită
+/: Avea atâte amintiri
+Acolo-n ceas de părtășie
+Când dăruia chiar din priviri
+Atâtor oameni apă vie :/.
+
+[s4]
+4. Privind la noul Israel
+Ce risipit i-acum departe
+Unde era cândva Betel
+Plângea Isus pentru cetate
+/: Vin vremuri grele peste noi
+Cuvântul Său ne prevestește
+E-aproape ziua de apoi
+Iată-L pe nori Isus sosește :/.
+
+[order]
+s1,s2,s3,s4

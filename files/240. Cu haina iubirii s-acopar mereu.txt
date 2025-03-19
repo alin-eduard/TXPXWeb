@@ -1,0 +1,41 @@
+[s1]
+1. Cu haina iubirii s-acopăr mereu
+Pe cel dezgolit de ispită
+Şi greu să nu-l judec
+În cugetul meu
+Rostind o sentinţă greşită.
+240.
+
+[r1]
+Cor: Iubirea, iubirea
+Să-mi umple de-a pururi trăirea
+Iubirea, iubirea
+Împlinească şi-n mine menirea.
+
+[s2]
+2. Iar sabia sfântă a dreptăţii de sus
+Nicicând să n-o scot cu grăbire
+Şi pururi să-nvăţ de la Domnul Isus
+Dreptatea născută-n iubire.
+
+[s3]
+3.Nici piatra osândei cea rece şi grea
+În mine s-o n-am ridicată
+Şi dragostea sfântă cu focul din ea
+Să facă deplin judecata.
+
+[s4]
+4. Cu plugul iubirii să scot neîncetat
+Păcatul cu a lui rădăcină
+În dragoste sufletul este curat
+Prin ea se păstrează în lumină.
+
+[s5]
+5. Pe răni de păcate să torni nesfârşit
+Balsamul iubirii divine
+În dragoste-i semnul
+Căci Domnul Isus
+Născută e în  noi prin iubire.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

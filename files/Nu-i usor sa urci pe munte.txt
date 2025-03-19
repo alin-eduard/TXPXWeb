@@ -1,0 +1,33 @@
+[s1]
+Nu-i uşor să urci pe munte
+Când cei mulţi coboară jos,
+Nu-i uşor să mergi spre ţintă
+Când cei mulţi n-au pe Hristos.
+Fa m
+
+[r1]
+/: Nu-i uşor dar ajutorul
+Îl dă azi Isus Hristos,
+El e-n veci Biruitorul
+Cu El eşti victorios. :/
+
+[s2]
+Nu-i uşor să ai credinţă
+Din ce-auzi şi ce nu vezi,
+Nu-i uşor s-aştepţi un lucru
+Când tu pe deplin nu crezi.
+
+[s3]
+Nu-i uşor să mergi pe drumul
+Plin de noapte şi noroi,
+Să-ţi păstrezi haina curată
+Pentru ziua de apoi.
+
+[s4]
+Nu-i uşor să lupţi cu tine
+Nu-i uşor a te smeri,
+Să renunţi de tot la sine
+Nu-i uşor a reuşi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

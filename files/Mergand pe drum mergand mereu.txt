@@ -1,0 +1,32 @@
+[s1]
+Mergînd pe drum, mergînd mereu
+Am obosit, căci era greu.
+Cu glas duios El mi-a şoptit :
+<Te-am înţeles şi-am auzit.>
+Vino, vino, suflete trudit!
+Vino, vino, vei fi mîntuit!
+Vino, vino, mai ai de învins
+Pentru că azi Domnul te-a încins!
+
+[s2]
+Îl cunoşteam - doar era El -
+Blîndul Păstor Emanuel!
+Cu mîna Sa El m-a luat
+Şi-n drumul meu puteri mi-a dat.
+Vino, vino, suflete trudit!
+Vino, vino, vei fi mîntuit!
+Vino, vino, mai ai de învins
+Pentru că azi Domnul te-a încins!
+
+[s3]
+Acest Isus ce m-a-ndemnat
+Ca să-L ascult neîncetat
+Vă-ndeamnă azi pe toţi ai Săi
+Să nu vă rătăciţi pe căi.
+Vino, vino, suflete trudit!
+Vino, vino, vei fi mîntuit!
+Vino, vino, mai ai de învins
+Pentru că azi Domnul te-a încins!
+
+[order]
+s1,s2,s3

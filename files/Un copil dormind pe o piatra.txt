@@ -1,0 +1,58 @@
+[s1]
+Un copil dormind pe o piatră,
+A văzut o scară-n vis
+Foarte lungă foarte naltă'
+Pînă sus în Paradis
+Pe-a ei trepte luminate,
+Coborau spre el mereu
+Cete Binecuvîntate,
+îngerii lui Dumnezeu.
+
+[r1]
+/: De deasupra era Domnul,
+Iar pe scară coborau
+Mii de îngeri în lumină,
+Înspre Iacov ei veneau. :/
+
+[s2]
+De desupra scării pline,
+Ca un veşnic curcubeu
+A văzut în vis băiatul,
+Pe al nostru Dumnezeu
+Doamne ce minune mare,
+Ce ţinut înfricoşat
+Tînărul din somnul dulce,
+S-a trezit şi s-a rugat.
+
+[s3]
+Dumnezeu cu bunătate,
+Lui Israel i-a vorbit
+Nu te teme sînt cu tine,
+Domnul i-a făgăduit
+Ţie î-ţi voi da pămîntul,
+Ţie şi l-ai tăi copii
+Caananul plin cu roade,
+Şi cu multe bogăţii.
+
+[s4]
+Tu î-mi vei zidi o casă,
+Şi o ve-i numi Betel
+Unde-mi vor aduce jertfe,
+Neamul nostru Israel
+Şi s-a împlinit Cuvîntul,
+Care Domnul l-a rostit
+Cînd făcu-se legamîntul,
+Cu băiatu-acel smerit.
+
+[s5]
+Iată visul se-mplineşte,
+Scara rezemată-n sus
+Iar cu Tatăl ne uneşte,
+Prin jertfirea lui Isus
+Şi de-atunci mereu coboară,
+Mii de îngeri pe pămînt
+Prin Isus slăvita-i scară,
+Noi urcăm la Tatăl Sfînt.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

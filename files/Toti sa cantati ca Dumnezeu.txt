@@ -1,0 +1,28 @@
+[s1]
+Toţi să cântaţi că Dumnezeu
+Mult ne-a iubit
+El a jertfit pe Fiul Său
+Căci ne-a iubit
+Din somn toţi vă sculaţi acum
+Lăudaţi pe Domnul nost cel bun
+El să ne mântuie-a venit
+Căci ne-a iubit
+Re M
+
+[r1]
+/:El ne-a iubit:/
+Vestiţi la oricine-n lume
+Cât ne-a iubit
+
+[s2]
+Această veste ascultaţi
+El ne-a iubit!
+Domnului mărire să-I daţi
+Căci ne-a iubit
+Că El este al nostru Domn
+Cu care vom domni pe tron
+Dacă noi toţi Îi vom servi
+Şi-L vom iubi
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,22 @@
+[s1]
+Un singur lucru îţi cerem Isus
+Să ne duci în cerul Tău minunat
+Astăzi noi Te rugăm ascultă-ne
+Vrem Isus să vi mai curând.
+
+[r1]
+Te lăudăm, Te onorăm
+Slavă îţi dăm, Te adorăm
+Isus eşti Domn, eşti Domn în veci
+Domneşti sus în cer
+
+[s2]
+Astăzi venim în faţa Ta
+Şi îţi cerem să stăm în prezenţa Ta
+Noi vrem să ne umpli cu
+Duhul Tău sfânt
+Să putem fi mireasa
+când vii pe pământ.
+
+[order]
+s1,r1,s2,r1

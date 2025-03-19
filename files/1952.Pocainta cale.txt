@@ -1,0 +1,43 @@
+[s1]
+1952 fa m
+1. Pocăinţă, cale sfântă
+Dar etern şi minunat
+Ferice de cei ce umblă
+Tot cu tine nencetat
+/: Haina ta e haină sfântă
+Ce te poartă nencetat
+Va primi a ta cunună
+Când de-aici vei fi chemat :/.
+
+[s2]
+2. Pocăinţă cale-ngustă
+Cale care duci spre cer
+Sunt puţini acei ce umblă
+Precum tu mereu o ceri
+/: Tu rămas-ai tot aceeaşi
+Tot aşa ca la-nceput
+Că din cer ai obârşia
+De la Dumnezeul Sfânt :/.
+
+[s3]
+3. Pocăinţă, pocăinţă
+Atunci când noi te-am aflat
+Multe lacrimi de căinţă
+Pe-a ta cale am vărsat
+/: Când gustat-am cei dulceaţa
+Bucuriilor ce le-ai
+N-a contat a noastră viaţă
+Ne-am smerit te-am căutat :/.
+
+[s4]
+4. Pocăinţă pocăinţă
+Vrem din nou a te vedea
+Numai tu ne dai lumină
+Crucea s-o putem vedea
+/: Numai tu ne deschizii ochii
+Să-l vedem pe cel junghiat
+Ce învins-a boldul morţii
+Şi cu Tatăl ne-a mpăcat :/.
+
+[order]
+s1,s2,s3,s4

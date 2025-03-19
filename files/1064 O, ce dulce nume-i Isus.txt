@@ -1,0 +1,39 @@
+[s1]
+1064.
+O, ce dulce-i nume Isus
+Rănile cum vindecă
+Pace, bucurie aduce
+Inimii credincioase.
+Cor:  Ce frumos răsună
+Când despre El se cântă.
+1.
+
+[s2]
+Să mergem în numele Lui
+El este bun adăpost
+În Isus noi vom învinge
+Groaza vrăjmaşului nost'.
+Cor:  Ce frumos răsună
+Când despre El se cântă
+2.
+
+[s3]
+Ce iubit nume e Isus
+O, ce fericire dă
+Poporul Său cel mântuit
+Înaintea Lui cântă.
+3.
+Cor:   Ce frumos răsună
+Când despre El se cântă.
+
+[s4]
+Sus în numele lui Isus
+De-a Lui mărire cântaţi
+Pân' ajunge-vom la cei sfinţi sus
+Care cântă încoronaţi.
+Cor:  Ce frumos răsună
+Când despre El se cântă.
+4.
+
+[order]
+s1,s2,s3,s4

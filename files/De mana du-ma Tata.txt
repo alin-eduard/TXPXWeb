@@ -1,0 +1,32 @@
+[s1]
+De mână du-mă Tată
+După-al Tău plac,
+În astă viaţă toată
+Şi-n veac de veac.
+Eu singur nu pot face
+Nici chiar doi paşi,
+Condu-mă cum îţi place
+Să nu mă laşi!
+
+[s2]
+În haru-Ţi ocroteşte
+Inima mea
+Şi fă de-o linişteşte
+În vreme grea!
+O, ia-mă lângă Tine
+Când cad zdrobit
+Şi-arată-mi ce e bine
+Când sunt orbit!
+
+[s3]
+Chiar când nu văd cărarea
+Spre und’ m-aştepţi,
+Mi-ajunge-ncredinţarea
+Că Tu mă-ndrepţi!
+De mână du-mă Tată,
+După-al Tău plac,
+În astă viaţă toată
+Şi-n veac de veac!
+
+[order]
+s1,s2,s3

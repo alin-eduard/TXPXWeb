@@ -1,0 +1,55 @@
+[s1]
+835.
+1. Când va veni pe nori Hristos
+Înconjurat de îngeri
+/:Atunci vor fi pe pământ jos
+Doar vaiete şi plângeri:/
+
+[s2]
+2.Vor plânge toţi
+ce-n viaţa lor
+N-au ascultat Cuvântul
+/:Lui Dumnezeu care-a zidit
+Şi cerul şi pământul:/
+
+[s3]
+3.Când cărţile se vor deschide
+Şi vor vedea ei singuri
+/:Păcatele ce le-au făcut
+Scrise-n ale cărţii rânduri:/
+
+[s4]
+4. Şi după cum cărţile scriu
+Vor plânge toţi întruna
+/:Dar atunci va fi prea târziu
+Căci au pierdut cununa:/
+
+[s5]
+5. O lume rea şi amăgitoare
+Cum ţii în mreaja ta
+/:Pe oamenii aceia care
+Urmează şi ascultă
+şoapta ta:/
+
+[s6]
+6. Şi după ce îi stăpâneşte
+O lume rea şi amară
+/:Apoi pe toţi îi pedepseşti
+Să ardă-n foc şi pară:/
+
+[s7]
+7. O vai ce-amar va fi atunci
+În ziua înfricoşată
+/:Când noi cu toţii
+vom primi
+Răsplată după faptă:/
+
+[s8]
+8.Acum cu toţi să ne grăbim
+Să facem fapte bune
+/:Şi-n ziua-aceea
+să primim
+Cununa răsplătirii:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

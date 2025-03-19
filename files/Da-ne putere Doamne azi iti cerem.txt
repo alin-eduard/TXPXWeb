@@ -1,0 +1,32 @@
+[s1]
+Dă-ne putere Doamne azi îţi cerem
+Puterea Duhului Tău Sfânt,
+Ca să putem învinge-n orice vreme
+În timpul alergării pe pământ.
+
+[r1]
+Harul Tău în încercarea grea
+Ne dăruieşte victoria,
+O! Doamne prin puterea Ta învingem noi
+În orice luptă şi nevoi.
+
+[s2]
+Ajută-ne ca să purtăm cu cinste
+Numele Sfânt aşa cum ne-ai chemat,
+Să oglindim în ale noastre fapte
+Isuse chipul Tău Sfânt şi curat.
+
+[s3]
+Dă-ne putere ca să fim în lume
+Lumină pentru cei ce-s rătăciţi,
+Să ţinem sus stindardul Evangheliei
+Chiar de vom fi de oameni prigoniţi.
+
+[s4]
+Ajută-ne să mergem drept pe cale
+Când greul şi ispita vor veni,
+Să nu ne dăm `napoi în încercare
+Să nu ne poată răul birui.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,38 @@
+[s1]
+1. O, cine-mi poate şti durerea
+Cine-mi cunoaşte viaţa mea
+/: Unde să-mi caut mângâierea
+Unde să-mi îndrept privirea
+Cine pace îmi poate da :/.
+584.    Mi
+
+[s2]
+2. O, cine îmi poate şti suspinul
+Şi rănile ce rău mă dor
+/: Unde mi-aş fi aflat alinul
+De n-ai fi ştiut ce-i chinul
+De Tine Isus mi-e dor :/.
+
+[s3]
+3. O, cine-mi poate şti amarul
+Cine-mi va şterge lacrima
+/: De n-ai fi cunoscut Calvarul
+De n-ai fi băut paharul
+Oare unde aş alerga :/.
+
+[s4]
+4. De n-ai fi fost Isuse dulce
+De n-ai fi fost nădejdea mea
+/: De n-ai fi stat întins pe cruce
+Oare unde aş alerga
+De n-ar fi fost Golgota :/.
+
+[s5]
+5. De nu mi-ai fi stat Tu aproape
+Aş fi umblat plângând prin noapte
+/: Urmărit lovit de moarte
+De suspine şi păcate
+De n-ai fi fost Ghetsimani :/.
+
+[order]
+s1,s2,s3,s4,s5

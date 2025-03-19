@@ -1,0 +1,45 @@
+[s1]
+1718.
+1. Atunci când se va întoarce Israelul
+Din căile de jale
+Ce sfinte bucurii vor fi în el
+Slăvite Împărate Emanuel
+2. Atunci când se va întoarce Israelul
+La jertfa crucii Tale
+Vor lepăda podoabele de aur
+Şi jertfa lor păgână
+
+[s2]
+3. Când vor veni
+La ieslea cea din staul
+Şi afla-te-vor pe Tine a lor tezaur
+Vor lepăda podoabele de aur
+Şi-or îngenunchia-n ţărână
+4. Atunci când vor deschide ochii lor
+Vor plânge cu suspine
+Şi vor veni cum nici n-au mai venit
+La tine pân-atuncea
+
+[s3]
+5. Întoarcerea poporului rătăcit
+Israelul căit şi pocăit
+Şi vor veni cum nimeni n-a venit
+Plângând amar sub cruce
+6. Şi vor cânta cum nimeni n-a cântat
+Un glas cu atâta jale
+Au fost pierduţi şi Tu i-ai căutat
+La jertfa crucii Tale
+
+[s4]
+7. Şi vor cânta
+Cum nimeni n-au cântat
+De jerfa crucii Sale
+Şi vor iubi cum n-ai mai fost iubit
+De suflete suspine
+8. Cu mult dor în sufletul dorit
+Cu dor din veacuri te-a iubit
+Te vor iubi cum n-ai mai fost iubit
+Poporul Tău Isuse
+
+[order]
+s1,s2,s3,s4

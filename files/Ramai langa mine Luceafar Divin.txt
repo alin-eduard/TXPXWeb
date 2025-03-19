@@ -1,0 +1,30 @@
+[s1]
+Rămîi lîngă mine, Luceafăr Divin
+Rămîi peste noaptea
+ce taininc se-arată
+/: Închide-mi Tu ochii,
+să plec peregrin
+Prin lumile Tale,
+spre tronu-Ţi divin. :/
+
+[s2]
+Şi ia-mă, Părinte, pe aripi divine
+O, ia-mă în braţu-Ţi,
+să simt că plutesc
+/: Prin cerul Tău larg,
+cu porţi mari deschise
+Ca trupul trudit
+să mi-l odihnesc. :/
+
+[s3]
+Şi du-mă, o, Doamne,
+pe-aleile Tale
+Şi du-mă departe,
+tristeţea să-mi piară.
+/: Rămîi peste mine
+în seri pastorale
+Rămîi iar cu mine,
+căci este spre seară. :/
+
+[order]
+s1,s2,s3

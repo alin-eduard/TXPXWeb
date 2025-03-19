@@ -1,0 +1,12 @@
+[s1]
+O nouă poruncă Eu vouă vă dau:
+/: Să vă iubiţi unii pe alţii,
+Cum Eu v-am iubit! :/
+
+[s2]
+/: Aşa vă vor cunoaşte
+Ca pe ucenicii Mei
+Când voi vă iubiţi unii pe alţii. :/
+
+[order]
+s1,s2

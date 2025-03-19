@@ -1,0 +1,26 @@
+[s1]
+Doamne, sfinte, Te mărim!
+De puterea Ta măiastră
+Povestesc când le privim
+Stelele din bolta-albastră,
+Tu ce haru-Ţi spre noi pleci,
+Neschimbat rămâi în veci.
+
+[s2]
+Tot ce poartă slava Ta,
+Îngerii în mii de cete
+Adunaţi spre a-Ţi cânta,
+Nu-ncetează să repete:
+“Sfânt e peste toate-n tot
+Dumnezeul Savaot!”
+
+[s3]
+Dar mai scumpă decât tot
+Ţi-este slaba mea cântare
+Ce-o înalţ aşa cum pot
+În această adunare;
+Numai noi ştim a cânta:
+“Mare e iubirea Ta!”
+
+[order]
+s1,s2,s3

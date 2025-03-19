@@ -1,0 +1,45 @@
+[s1]
+1494.  Do
+Vino Isus la nuntă vino şi ia Tu parte
+Şi-o bucurie sfântă vino de ne-mparte
+Cor:    Binecuvântă-i Doamne
+Noi Te rugăm acuma
+Fie uniţi de Tine
+Pentru totdeauna
+
+[s2]
+2. Uneşte-i Tu în viaţă uneşte-i pân la moarte
+Îndrumă-i Tu în viaţă ca sfinţii să se poarte
+Cor:    Binecuvântă-i Doamne
+Noi Te rugăm acuma
+Fie uniţi de Tine
+Pentru totdeauna
+
+[s3]
+3. Când încercarea vine şi n-au la cine alerga
+Ascultă-i când pe Tine Te cheamă ai ajuta
+Cor:    Binecuvântă-i Doamne
+Noi Te rugăm acuma
+Fie uniţi de Tine
+Pentru totdeauna
+
+[s4]
+4. Mai este înc-o nuntă o nuntă minunată
+Căsătoria sfântă ce-n veci nu se gată
+Cor:    Binecuvântă-i Doamne
+Noi Te rugăm acuma
+Fie uniţi de Tine
+Pentru totdeauna
+
+[s5]
+5. Acum nu-ţi cer o Doamne
+Decât să-i ţii la Tine
+Să fim la nunta din cer
+La nunta Ta o Mire
+Cor:    Binecuvântă-i Doamne
+Noi Te rugăm acuma
+Fie uniţi de Tine
+Pentru totdeauna
+
+[order]
+s1,s2,s3,s4,s5

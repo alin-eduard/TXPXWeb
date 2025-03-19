@@ -1,0 +1,36 @@
+[s1]
+Ştii tu, prieten drag?
+Domnul te poate salva!
+Îţi întinde mîna ca să vii la El!
+Ştii tu, prieten drag,
+că sîngele Lui Isus
+Trecutul tău pe cruce-a şters?
+
+[r1]
+O, cît a suferit,
+cît de mult S-a chinuit!
+Chiar cu moartea S-a luptat,
+să fii salvat.
+O, ştii cum a murit?
+Mîntuire ţi-a adus!
+Vino, chiar acum la El să vii!
+
+[s2]
+Ştii tu, prieten drag,
+căci pierdut în veci vei fi
+Dacă n-ai pe Domnul sfînt
+în viaţa ta?
+Las, păcatul tău,
+vino, copil pierdut
+Isus te va primi acum!
+
+[s3]
+Ştii tu, prieten drag?
+Domnul vine în curînd!
+Fericire îţi va da în veşnicii!
+Ştii tu, prieten drag?
+El în zorii dimineţii
+Va lua mireasa Sa la cer!
+
+[order]
+s1,r1,s2,r1,s3,r1

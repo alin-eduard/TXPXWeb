@@ -1,0 +1,26 @@
+[s1]
+Isus poate, da, El poate
+Să te-ajute în orice încercări
+Isus poate, da, El poate
+Să fie lângă Tine ne-ncetat
+
+[r1]
+Te iubeşte şi doreşte
+Să locuiască în inima ta
+Căci El poate să te-ajute
+Să fii copilul lui Dumnezeu.
+
+[s2]
+Isus ştie, da, El ştie
+Cea mai tainică dorinţă a ta,
+Isus ştie, da, EL ştie
+Că ai nevoie de iubirea Sa.
+
+[s3]
+Vino astăzi El doreşte
+Să-L laşi să vină în viaţa ta,
+Şi de astăzi poţi fi sigur
+Că eşti copilul lui Dumnezeu.
+
+[order]
+s1,r1,s2,r1,s3

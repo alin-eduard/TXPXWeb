@@ -1,0 +1,33 @@
+[s1]
+1982
+1. Sfinții-n sărbătoare
+Îți cântă nencetat
+Doamne că ești mare
+Sfânt și minunat.
+
+[r1]
+Cor: Isus Isus fii preamărit
+Numele-Ți mare
+Isus Isus
+Ești speranța noastră de salvare
+
+[s2]
+2. Cerul strălucirea
+Doamne ai părăsit
+Să aduci mântuirea
+La noi ai venit.
+
+[s3]
+3. Pentru jertfa sfântă
+Miel nevinovat
+Universu-ți cântă
+Fii glorificat.
+
+[s4]
+4. Pentru veșnicie
+Doamne am jurat
+Să-ți slujim doar Ție
+Rege preaînalt.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

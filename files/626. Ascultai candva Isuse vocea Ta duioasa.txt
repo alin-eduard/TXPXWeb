@@ -1,0 +1,51 @@
+[s1]
+626. Mi m
+1. Ascultai cândva Isuse
+Vocea Ta duioasă
+Şi de-atuncea nu-i cântare
+S-o simt mai frumoasă
+Nu-i nici o cântare-n lume
+S-o simt mai frumoasă!
+
+[s2]
+2. Ţi-am văzut odată chipul
+Alb ca de ninsoare
+Şi de-atuncea nu-mi mai pare
+Albă nici o floare
+Nu-mi mai pare-n lumea asta
+Albă nici o floare!
+
+[s3]
+3. Însetat, băui odată
+Apa Ta cerească
+Şi de-atuncea nu-s izvoare
+Să mă răcorească
+Nu mai sunt izvoare-n lume
+Să mă răcorească!
+
+[s4]
+4. Legănatu-m-a odată
+Dorul de iubire
+Şi de-atuncea nu-i pe lume
+Nici o fericire
+Nu mai simt pe lumea asta
+Nici o fericire!
+
+[s5]
+5. Ţi-a simţit odată mâna,
+Inima-mi sărmană
+Şi de-atunci nu-s pe lume
+Mâini să lege-o rană
+Nu mai sunt în lumea asta
+Mâini să lege-o rană.
+
+[s6]
+6. Şi mă-ntreb de n-ar fi oare
+Dragoste curată
+Cine-ar mai putea să aibă
+Inimă alinată?
+Cine-ar mai putea să aibă
+Inimă alinată?
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,51 @@
+[s1]
+1. Pe un fânaţ mare cu flori
+/: Mergeam cu Domnul amândoi :/
+752.
+2. Eu mergeam Domnul cânta
+/: Cântarea din Golgota :/
+3. Şi aşa cânta El pe cale
+/: Inima se-mbracă-n jale :/
+
+[s2]
+4. Ochii încep a lăcrima
+De frumoasă ce era
+Cântarea din Golgota
+5. Fiule nu te-ntrista
+Căci asta-i cântarea Ta
+De pe dealul Golgota
+6. Când pe Golgota am stat
+/: Atunci naştere ţi-am dat :/
+
+[s3]
+7. Acum nu plânge copile
+/: Ci mă urmează pe Mine :/
+8. Mă urmează numai sta
+/: O Golgota nu uita :/
+9. Căci Golgota îi loc de jale
+/: E satul naşterii tale :/
+
+[s4]
+10. Vezi şi întreabă-te de ea
+Auzi ce îţi predica
+Cântarea din Golgota
+11. Întreabă şi de pământ
+/: Căci şi el s-a zguduit :/
+12. Munţii toţi s-au clătinat
+/: Perdeaua s-a despicat :/
+
+[s5]
+13. Până naşterea ţi-am dat
+Soarele s-a întunecat
+Stelele n-au luminat
+14. Ce grea ţi-a fost naşterea
+/: De pe Dealul Golgota :/
+
+[s6]
+16. Niciodată nu uita
+/: Naşterea din Golgota :/.
+15. Şi acum vezi copilul meu
+/: Cum te-am născut de cu greu :/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,31 @@
+[s1]
+Privesc înspre grădina, în care S-a rugat,
+Isus cu ucenicii, Tatălui Prea ‘nalt,
+Observ fiorii morţii, din viaţa Lui Isus
+Ştia că-n faţă-I stă o jertfă de adus.
+Doresc şi ucenicii, să Îl ajute-n rugă,
+Dar vai cuprinşi de somn,
+se culcă pe ţărână,
+Şi uită de durerea, din viaţa Lui Isus
+Ei nu pot să trăiască
+acel moment nespus.
+
+[r1]
+Priveşte spre gradină şi fii cuprins de foc De felul rugăciunii, şi nu dormi deloc;
+Căci cel mai minunat
+e-atunci când pe genunchi ,
+Eşti una cu Hristos, eşti una cu Isus.
+
+[s2]
+Isus îi scoal-o dată, chiar de două ori,
+Şi-apoi îi lasă ca să doarmă, tot nepăsători,
+Dar Domnu-n rugăciune are sudori de sânge
+Şi-acum nimeni cu El nu mai poate plânge.
+Privesc înspre grădina, în care azi şi noi,
+Vorbim cum Isus murise pentru noi,
+Am fost chemaţi ca să trăim,
+viaţă de pocăinţă ;
+Dar nu cumva suntem cei fără de credinţă?!?
+
+[order]
+s1,r1,s2,r1

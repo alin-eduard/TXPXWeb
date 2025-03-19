@@ -1,0 +1,29 @@
+[s1]
+Este-un loc unde-odată,
+Voi ajunge lângă tron.
+Sus în Patria divină,
+Sus la Tatăl meu în cer.
+Voi vedea faţa lui Isus,
+Voi vedea pe Dumnezeu.
+Voi vedea promis acasă,
+Când în cer cu El voi sta.
+
+[r1]
+Da, El vine… da! El vine…
+Toate spun că vine vremea,
+Să plecăm spre patrie.
+Da, El vine… da! El vine…
+Slavă Lui, El vine-n curând.
+
+[s2]
+În curând soseşte Domnul,
+Trâmbiţa va răsuna.
+Şi cu îngerii din slavă,
+Vom cânta vom triumfa.
+Vom uita de griji, necazuri,
+Vom uita de tot ce-a fost.
+Vom rămâne-n veci cu Isus,
+Domnul Împăratul nost.
+
+[order]
+s1,r1,s2,r1

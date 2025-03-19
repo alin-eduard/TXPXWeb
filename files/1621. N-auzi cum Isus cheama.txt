@@ -1,0 +1,50 @@
+[s1]
+1621.
+1. N-auzi cum Isus te cheamă?
+O, de ce nu vrei să vii?
+El de atâţia ani Te-aşteaptă
+Tu te-mpotriveşti să vii...
+
+[s2]
+2. Azi inima ţi-o deschide
+Ca Isus să intre-n ea!
+E destul de când Te-aşteaptă
+Vino azi şi nu mai sta!
+
+[s3]
+3. Orice gând de amărăciune,
+Tot ce-n lume-i trist şi rău,
+De atâţia ani de zile,
+Ţi-a umplut sufletul tău.
+
+[s4]
+4. Azi Isus la uşa-Ţi bate.
+O, deschide-ţi inima!
+El Ţi-aduce izbăvirea,
+Bucurie-n viaţa ta!
+
+[s5]
+5. Azi e ziua mântuirii!
+Tu pe mâine nu-amâna!
+Vremea trece, trece, trece
+Mâine poate nu-i a ta!
+
+[s6]
+6. De n-auzi a Lui chemare, Când iertare vrea să-ţi dea,
+Va veni o zi amară,
+Când pedeapsa-ţi vei lua.
+
+[s7]
+7. Hotărăşte-te, dar frate!
+Hotărăşte, nu mai sta!
+Vino azi în grabă mare!
+Vino şi nu amâna!
+
+[s8]
+8. El Isus e Domn al slavei!
+El e mântuirea ta!
+De-L primesţi, primeşti iertarea
+Viaţa veşnică-ţi va da!
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

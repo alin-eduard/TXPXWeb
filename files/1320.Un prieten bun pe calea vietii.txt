@@ -1,0 +1,35 @@
+[s1]
+1320.   Fa M
+1.  Un prieten bun pe calea vieţii
+Mi-ai fost Isuse preaiubit
+Din clipa când de bietul suflet
+Tu Te-ai lăsat să fii găsit.
+Cor: /: Prieten bun, prieten bun
+Fii binecuvântat Isuse :/
+
+[s2]
+2.  În suferinţa grea şi lungă
+Când toţi s-au dus şi m-au lăsat
+Tu ai rămas mereu cu mine
+Prieten bun şi-adevărat.
+Cor:  /:Prieten bun, prieten bun
+Fii binecuvântat Isuse :/
+
+[s3]
+3.  În clipele de încercare
+Când faţa-n lacrimi mi-o scăldăm
+O numai mâna Ta cea bună
+Când le ştergea eu o simţeam.
+Cor:	/: Prieten bun, prieten bun
+Fii binecuvântat Isuse :/
+
+[s4]
+4.  Ajută-mi să rămân aproape
+Cu suflet recunoscător
+Nedespărţiţi mereu cu Tine
+O scumpul meu Mântuitor.
+Cor:	/: Prieten bun, prieten bun
+Fii binecuvântat Isuse :/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,23 @@
+[s1]
+907.
+1.	La luptă tineri cu toţii
+În jurul lui Isus vă adunaţi
+O lume se pierde în păcate
+Săriţi ajutor ca să-i daţi.
+2.	'Nainte cu vestea cea bună
+Nu lăsaţi un bordei fără ea
+Iar când veţi ajunge în cer sus
+Răsplata mare veţi avea.
+
+[s2]
+3.	Nu staţi nici o clipă pe gânduri
+Viaţa noastră e numai un vis
+De lupta e grea câteodată
+Isus ajutor mi-a promis.
+4.	Satan va întinde o cursă
+Să vă-ntoarcă din luptă înapoi
+Privirea va fi sus la ţintă
+Isus luptă alături de noi.
+
+[order]
+s1,s2

@@ -1,0 +1,67 @@
+[s1]
+1. A spus Domnul Dumnezeu
+Fă tu Noe ce-ţi spun eu
+/:Fă vapor:/.
+2. Trei sute de coţi lungime
+Şi cincizeci de coţi lăţime
+/:Treizeci 'nalt:/.
+312.
+
+[s2]
+3. Că voi slobozi mari ape
+Şi voi pierde pe noroade
+/:Am să-i pierd:/.
+4. Noe vaporul gătise
+Şi animale el închise
+/:În vapor:/.
+
+[s3]
+5. A închis Dumnezeu dară
+Cu chei uşa dinafară
+/:Cu mâna:/.
+6. Mare potop a venit
+Oamenii s-au tânguit
+/:Că ei mor:/.
+
+[s4]
+7. Unul de altul s-au cuprins
+Şi moartea aşa i-a prins
+/:Amar chin:/.
+8. Toţi oamenii s-au înecat
+Viaţa-n lume s-a gătat
+/:În potop:/.
+
+[s5]
+9. Păsările n-au cântat
+Către ceruri au zburat
+/:În aer:/.
+10. Noe s-a înspăimântat
+Că pământul s-a-necat
+/:Cu apă:/.
+
+[s6]
+11. Corbul negru îl trimise
+Din vapor când se deschise
+/:Fereastra:/.
+12. Porumbelul apoi se pierde
+Şi s-a întors cu frunză verde
+/:De smochin:/.
+
+[s7]
+13. Şi-a văzut un vârf de munte
+Noe bucuros atunci
+/:Că-i uscat:/.
+14. Când vaporul se oprise
+Uşa largă se deschise
+/:Şi-au ieşit:/.
+
+[s8]
+15. Pe pământul curăţit
+Noe îndată a pregătit
+/:Un altar:/.
+16. Mai înainte de orice bine
+El în semn de mulţumire
+/:Jertfă a dat:/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

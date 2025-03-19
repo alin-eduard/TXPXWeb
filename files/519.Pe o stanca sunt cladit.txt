@@ -1,0 +1,43 @@
+[s1]
+1.	Pe o stâncă sunt clădit
+Domnul astăzi m-a zidit
+Şi furtuna de-ar veni
+Casa nu mi-o va zdrobi.
+Cor: Pe o stâncă sunt clădit
+Pe un munte de granit
+Sunt zidit de mâna Sa
+Cine mă va dărâma.
+519.
+
+[s2]
+2.	Sunt zidit pe-un munte sus
+Mai aproape de Isus
+Domnul stă la dreapta mea
+Cine mă va dărâma.
+Cor: Pe o stâncă sunt clădit
+Pe un munte de granit
+Sunt zidit de mâna Sa
+Cine mă va dărâma.
+
+[s3]
+3.	Vie vânturi cât de mari
+Nu mă mişcă din hotar
+Mă izbeşte în zadar
+Sunt zidit pe pietre tari.
+Cor: Pe o stâncă sunt clădit
+Pe un munte de granit
+Sunt zidit de mâna Sa
+Cine mă va dărâma.
+
+[s4]
+4.	'Nainte de mi-ar ieşi’
+Iadu-ntreg spăimântor
+Nu mă va putea clinti
+Cu El sunt învingător.
+Cor: Pot totul în Isus
+El e tăria mea Aleluia
+Sunt învingător cu El
+Fie crucea cât de grea.
+
+[order]
+s1,s2,s3,s4

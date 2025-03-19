@@ -1,0 +1,33 @@
+[s1]
+2009
+1. Dumnezeu, nemărginit Dumnezeu
+Te laud, Te laud
+Mulţumesc adânc, Tu eşti Tatăl meu
+Te laud, Te laud
+M-ai făcut copilul Tău
+Izbăvit din veacul cel rău
+/: Ca să-Ți cânt neîncetat :/
+Lăudat, lăudat, fii lăudat
+
+[s2]
+2. Majestos, Dumnezeu majestos
+Te laud, Te laud
+Mântuit m-ai mântuit prin Hristos
+Te laud, Te laud
+Jertfa Lui pe veci m-a pus
+În locaşul cel de sus
+/: Ca să-Ți cânt nemaisfârşit :/
+Preamărit, preamărit, fii preamărit
+
+[s3]
+3. Nepătruns,o Dumnezeu nepătruns
+Te laud, Te laud
+Prin Hristos în taina Ta am ajuns
+Te laud, Te laud
+Învierea Lui deplin
+Cerul l-a deschis divin
+/: Ca să-Ți cânt un cânt senin :/
+/: Şi mă-nchin :/, în veci mă-nchin.
+
+[order]
+s1,s2,s3

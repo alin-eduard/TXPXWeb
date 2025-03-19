@@ -1,0 +1,28 @@
+[s1]
+1424
+Cu Isus vreau să-mi continui calea
+Cu El vreau să merg aicea jos
+Numai El îmi poate stinge jalea
+Şi mă face să-i fiu credincios.
+2.     Munţi şi văi, câmpii, păduri şi mare                                   	Le străbat cu Domnul meu divin
+Mă umbreşte mâna Lui cea tare
+De slăbesc puterile-mi revin
+
+[s2]
+Când mă culc El singur mă păzeşte
+Dimineaţa-mi este adăpost
+Ca Păstor pe drum mă sfătuieşte
+Mă ajută-n rugăciuni şi post
+Lângă Domnul veşnic voi rămâne
+Căci mă face să fiu fericit
+Harul Tău ceresc şi bun Stăpâne
+Trup şi suflet mi le-ai mântuit.
+
+[s3]
+Până vine seara pentru mine
+Şi în patrie voi fi chemat
+Pân voi fi eu oaspe-n cer la Tine
+Doamne fii de mine lăudat.
+
+[order]
+s1,s2,s3

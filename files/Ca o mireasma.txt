@@ -1,0 +1,22 @@
+[s1]
+Ca o mireasmă dulce, sfântă
+Vieţi curate să’nălţăm.
+Laudele noastre să umple cerul
+Şi în faţa Lui să ne-nchinăm. X2
+Sfânt e, sfânt e
+Domn Atotputernic
+Sfânt e, sfânt e
+Domnul Dumnezeu.
+
+[s2]
+Ca o mireasmă dulce, sfântă
+Vieţi curate să’nălţăm.
+Laudele noastre să umple cerul
+Şi în faţa Lui să ne plecăm.
+Sfânt e, sfânt e
+Domn Atotputernic
+Sfânt e, sfânt e
+Domnul Dumnezeu.x2
+
+[order]
+s1,s2

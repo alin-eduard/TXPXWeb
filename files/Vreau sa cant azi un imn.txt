@@ -1,0 +1,42 @@
+[s1]
+Vreau să cânt azi un imn
+despre ţara de sus
+Un cămin de noi toţi aşteptat,
+Fericitul sălaş pregătit de Isus
+Unde nu-i nici amar nici oftat,
+Azi îl cânt şi-l repet ne-ncetat:
+Fericitul sălaş pregătit de Isus
+Unde nu-i nici amar, nici oftat...
+
+[s2]
+Ca prin vis doar zăresc
+un oraş uimitor
+Între ziduri de iaspis curat;
+La pământul cel nou
+mă gândesc şi mi-e dor,
+Ah, mi-e dor de-acel loc minunat,
+De oraşul cel fără păcat...
+La pământul cel nou
+mă gândesc şi mi-e dor,
+Ah, mi-e dor de-acel loc minunat!
+
+[s3]
+Ce frumos şi măreţ fi-va-n ţara de sus
+Unde lacrimi de dor nu mai sunt...
+Fericiţii acolo-nălţaţi de Isus
+Vor trăi  ce-au crezut pe pământ,
+Cetăţeni ai oraşului sfânt...
+Fericiţii acolo-nălţaţi de Isus
+Vor trăi  ce-au crezut pe pământ.
+
+[s4]
+Tot ce ochi omenesc nicăieri n-a zărit
+Nici prin mintea cuiva n-a trecut,
+Le va da Dumnezeu celor ce L-au iubit,
+Au răbdat, au sperat şi-au crezut,
+Şi prieteni cu El s-au făcut...
+Le va da Dumnezeu celor ce L-au iubit,
+Au răbdat, au sperat şi-au crezut.
+
+[order]
+s1,s2,s3,s4

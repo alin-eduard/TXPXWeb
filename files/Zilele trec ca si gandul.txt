@@ -1,0 +1,50 @@
+[s1]
+Zilele trec ca si gandul
+Anii vietii trec in sir
+Iar pe plaiurile vietii
+Zi de zi, se tese-un fir.
+
+[s2]
+/: Pe razboiul vietii tale
+Fire albe s-au urzit
+Hristos Domnul, cu-a Lui mana,
+Firul tau l-a navadit. :/
+
+[s3]
+Deci, ai grija si vegheaza
+La orice fapta si cuvant,
+Caci suveica mereu tese,
+In panza vietii, rand pe rand!
+
+[s4]
+/: Cand tu cercetezi saracul
+Si un bine ai facut,
+Fire albe si curate
+In panza vietii, ai tesut. :/
+
+[s5]
+Pe cararea vietii tale
+Tese-ntruna, dragul meu,
+Firele de rugaciune
+Si cantari lui Dumnezeu!
+
+[s6]
+/: Panza vietii e o taina
+Ea cuprinde mersul tau,
+Tot ce faci in lumea asta:
+De faci bine, de faci rau. :/
+
+[s7]
+Nu uita caci maine poate
+Firul vietii s-a găta;
+Din razboiul vietii tale,
+Panza ta se va lua.
+
+[s8]
+/: Vei vedea, in vesnicie,
+Ce-ai lucrat, jos pe pamant.
+Panza vietii iti arata
+Orice fapta si cuvant. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

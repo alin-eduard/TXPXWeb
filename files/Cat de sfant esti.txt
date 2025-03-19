@@ -1,0 +1,31 @@
+[s1]
+Cât de sfânt eşti
+Câtă slavă se aduce înaintea Ta
+Heruvimii şi tot Cerul
+Nu-ncetează a Te lăuda.
+Tot pământul se adună
+Într-un glas a Te lăuda.
+Precum în Ceruri
+Şi aici jos
+Doamne, /:facă-se voia Ta:/
+
+[s2]
+%Numele Tau e sfânt%3
+Domn al Domnilor
+Rege al regilor
+Numele Tău e sfânt.
+
+[s3]
+Câtă glorie, câtă slavă
+Se ridică la tronul sfânt
+Peste veacuri,veşnic, Doamne
+%Numele Tău e Sfânt%
+
+[s4]
+%Numele Tău e sfânt%3
+Domn al Domnilor
+Rege al regilor
+Numele Tău e sfânt.
+
+[order]
+s1,s2,s3,s4

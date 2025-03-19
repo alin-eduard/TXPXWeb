@@ -1,0 +1,58 @@
+[s1]
+Oiţa mea cea blândă,
+fiara ce-i la pândă
+De tine-i flămândă.
+O cursă îţi întinde,
+gândul de a te prinde
+Iată, o aprinde!
+
+[s2]
+Chiar bunătăţi o mie,
+să-ţi aducă ţie
+Vai, să nu te-mbie
+A lor sclipire rară
+Ca şi gândul zboară
+Sufletu-ţi doboară.
+
+[r1]
+Te-aşteaptă-n veşnicie
+Să-ţi dea apă vie
+Cel ce-aici o să mai vie.
+Căci El este Păstorul
+Ce-ţi alungă norul
+El e Salvatorul.
+
+[s3]
+La turmă te-ntoarce,
+umple-te de pace
+Haide, vino-ncoace!
+Căci tu ai fost aleasă,
+mirelui mireasă
+Haide, vino-acasă!
+
+[s4]
+Păstoru-i trist de-o vreme
+Şi încă nu se teme
+Ca să te mai cheme.
+Pierzându-te de turmă
+Viaţa ţi se curmă
+Întoarce-te la turmă!
+
+[s5]
+Ce străluciri deşarte
+inmuiate-n moarte
+Te-au trimis departe?
+Şi oare ce cuvinte,
+ti-au părut mai sfinte
+Ca să te încânte?
+
+[s6]
+Te-aşteaptă-n fericire
+Loc de nemurire
+Fără-nchipuire!
+Cu multe mioare
+Scumpe surioare
+Nu vrei să fii oare?
+
+[order]
+s1,s2,r1,s3,s4,r1,s5,s6,r1

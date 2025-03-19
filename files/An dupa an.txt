@@ -1,0 +1,26 @@
+[s1]
+An după an,
+Privim pe-a timpului fereastră.
+Chiar de nu vrem,
+Se duce-n zbor viaţa noastră.
+
+[r1]
+/: Să nu fim trişti
+C-aicea totu-i trecător
+Încă puţin să mai veghem
+În aşteptarea zorilor.:/
+
+[s2]
+An după an,
+Purtăm poveri şi doruri multe.
+Spre cer privim,
+Spre Domnul Sfânt ca să ne-asculte.
+
+[s3]
+Chiar de e greu,
+Pe-acest pământ plin de suspine.
+Să nu uităm,
+Mai e puţin şi Domnul vine.
+
+[order]
+s1,r1,s2,r1,s3,r1

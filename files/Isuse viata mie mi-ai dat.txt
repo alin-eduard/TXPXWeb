@@ -1,0 +1,26 @@
+[s1]
+Isuse, viaţa mie mi-ai dat
+În Tine eu mă-ncred, Tu m-ai salvat!
+Simt că iubirea Ta umple fiinţa mea;
+Iată-ţi dau inima, o, Domnul meu!
+
+[s2]
+Prin mila Ta acum, primeşte-mă!
+Doamne, pe braţul Tău, o, ţine-mă!
+Vreau să Te pot urma, crucea s-o pot purta,
+Ţie să-Ţi pot cânta, o, Domnul meu!
+
+[s3]
+Sfinţeşte-mi inima şi fă-mă bun.
+Oricine va afla cui mă supun!
+Fapta, dorinţa mea, cu toată dragostea
+Le pun în slujba Ta, o, Domnul meu!
+
+[s4]
+Tot ce eu sunt şi am sunt harul Tău.
+Altă avere n-am, o, Domnul meu!
+Aici şi-n cer doresc doar Ţie să-ţi slujesc,
+Veşnic să Te slăvesc, o, Domnul meu!
+
+[order]
+s1,s2,s3,s4

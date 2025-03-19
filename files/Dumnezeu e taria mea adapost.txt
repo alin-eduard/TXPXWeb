@@ -1,0 +1,40 @@
+[s1]
+Când în zare se iveşte
+Solul celui necurat,
+Dumnezeu e tăria mea!
+Când armatele de duhuri
+Cerul l-au întunecat,
+Dumnezeu e tăria mea!
+
+[s2]
+Când tot iadul stă-n picioare
+Pregătit pentru război,
+Și simt că sufletul se zbate
+Prins în cursa grea,
+Mă aplec în rugăciune
+Şi-aştept ajutorul Slavei,
+Dumnezeu e tăria mea!
+
+[r1]
+/: Dumnezeu e tăria mea, adăpost Pentru sufletul meu, ajutor
+Când povara e grea,
+Dumnezeu e tăria mea! :/
+
+[s3]
+Dumnezeu are putere
+Ca în cer şi pe pământ,
+Dumnezeu e tăria mea!
+Tot ce-n lume se întâmplă
+Este scris şi în Cuvânt,
+Dumnezeu e tăria mea!
+
+[s4]
+Încercarea cât de mare
+Şi se pare că mă-ngroapă, Întunericul e gros
+Şi nu mai pot vedea,
+Plec şi fruntea şi genunchii,
+Dar înalţ spre ceruri duhul,
+Dumnezeu e tăria mea!
+
+[order]
+s1,s2,r1,s3,s4,r1

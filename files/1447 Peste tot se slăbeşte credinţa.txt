@@ -1,0 +1,39 @@
+[s1]
+1447.
+Peste tot se slăbeşte credinţa
+După cum Domnul nostru ne-a spus
+Căci la mulţi s-a schimbat pocăinţa
+Peste tot se răceşte credinţa
+Că-i aproape să vină Isus
+Peste tot se răceşte iubirea
+După cum Domnul nostru ne-a spus
+De acum stă-n păcat omenirea
+Peste tot se răceşte iubirea
+Că-i aproape să vină Isus
+
+[s2]
+Peste tot e simţită aţipirea
+După cum Domnul nostru ne-a spus
+Căci atunci pe când va fi venirea
+Peste tot se-ntinde aţipirea
+Că-i aproape să vină Isus
+Peste tot s-a slăbit stăruinţa
+Şi la mulţi astăzi postul s-a dus
+Căci pe mulţi i-a cuprins neputinţa
+Peste tot a slăbit stăruinţa
+Că-i aproape să vină Isus.
+
+[s3]
+Doar ai Tăi ce pe Tine te aşteaptă
+Îşi înalţă privirea în sus
+Ruga lor către Tine şi-o înalţă
+Toţi acei ce pe Tine Te aşteaptă
+Şi te cheamă cu dor o Isus
+Ard de dor după Tine o Isuse
+Te aşteaptă mereu unii cu dor
+Te-aşteaptă mereu în suspine
+Şi te cheamă cu dor azi pe Tine
+O vino o vino scump Isus. 		Amin.
+
+[order]
+s1,s2,s3

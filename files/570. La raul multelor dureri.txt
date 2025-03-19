@@ -1,0 +1,43 @@
+[s1]
+1. La râul multelor dureri
+Lovit am fost de multe ori
+Când mi-amintesc de Dumnezeu
+Nădejdea şi ajutorul meu.
+Psalmul 137           570.
+Cor: La râul Babilonului
+Pierduţi din calea Domnului
+Şedeam jos şi plângeam
+Pe Dumnezeu nu-L mai aveam.
+
+[s2]
+2. Când mă simţeam mai copleşit
+Şi de cel rău mai mult rănit
+Spre Tine Doamne am strigat
+Şi Tu din nou m-ai ajutat.
+Cor: La râul Babilonului
+Pierduţi din calea Domnului
+Şedeam jos şi plângeam
+Pe Dumnezeu nu-L mai aveam.
+
+[s3]
+3. Fugeam în sălcii să m-ascund
+Regrete-n suflet îmi pătrund
+Când mi-aminteam de Dumnezeu
+Nădejdea şi-ajutorul meu.
+Cor: La râul Babilonului
+Pierduţi din calea Domnului
+Şedeam jos şi plângeam
+Pe Dumnezeu nu-L mai aveam.
+
+[s4]
+4. Doamne de Te voi uita
+Tu să-mi lipeşti limba mea
+De cerul gurii mele
+De-oi mai umbla din nou prin ele.
+Cor: La râul Babilonului
+Pierduţi din calea Domnului
+Şedeam jos şi plângeam
+Pe Dumnezeu nu-L mai aveam.
+
+[order]
+s1,s2,s3,s4

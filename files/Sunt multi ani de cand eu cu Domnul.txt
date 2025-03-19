@@ -1,0 +1,30 @@
+[s1]
+Sînt mulţi ani de cînd eu cu Domnul
+Făcut-am un sfînt legămînt
+Isus mi-a promis mîntuirea
+Mi-a spus că-i cu mine oricînd.
+
+[r1]
+/: Isus mi-a promis un Paradis
+Mi-a promis că-i cu mine în orice zi! :/
+
+[s2]
+Isus Şi-a-mplinit tot Cuvîntul
+Şi pace şi har El mi-a dat
+De grijă purtatu-mi-a-ntruna
+Mai mult decît m-am aşteptat.
+
+[s3]
+Luptînd cu păcatul din mine
+Spre cruce privit-am mereu
+Voiam să-mplinesc legămîntul
+Mereu să-L slujesc doar pe El.
+
+[s4]
+Şi astăzi, cînd privesc în urmă
+La ce prin Isus am făcut
+Mă bucur că-n mine L-am primit
+Şi tot ce mi-a spus, am crezut.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

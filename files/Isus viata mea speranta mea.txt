@@ -1,0 +1,32 @@
+[s1]
+Isus, viaţa mea, speranţa mea
+Tu eşti nădejdea mea, iubirea mea
+Isus, tăria mea, lumina mea
+Tu eşti iertarea mea, dreptatea mea!
+
+[s2]
+O, fii onorat, Isus, Domnul meu
+Cel ce m-ai salvat din orişicare greu!
+Doamne, Te iubesc, cinste-Ţi dăruiesc
+Şi mult mă silesc pe Tin, să te Te vestesc!
+
+[s3]
+E Isus şi-al tău? te întreb, amicul meu
+Eşti gata ca să-I cînţi la bine şi la rău?
+E Isus lumina ta, tu crezi în jertfa Sa?
+Amicul meu cel drag, să îmi răspunzi!
+
+[r1]
+Isus, comoara mea, ce mă iubeşti
+Mă iei sub paza Ta, mă ocroteşti!
+Isus, cîntarea mea, fii lauda mea
+Eşti învierea mea, răsplata mea!
+
+[s4]
+E Isus şi-al tău, e al tău Mîntuitor?
+Te-ntreb dacă Îl simţi măreţ, ocrotitor.
+E învierea ta, urmezi pe calea Sa?
+Schimbări n-ai observat în viaţa ta
+
+[order]
+s1,s2,s3,r1,s4,r1

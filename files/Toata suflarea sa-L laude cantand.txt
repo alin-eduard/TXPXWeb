@@ -1,0 +1,29 @@
+[r1]
+Toată suflarea să-L laude cântând
+Nu-I nume mai presus
+Toată suflarea sa laude pe Isus
+
+[s1]
+Şi orice instrument, spre Slava Lui
+Să-I cânte armonii
+Toată suflarea să laude slava Lui.
+
+[s2]
+Va turna în gura mea
+Mulţimea laudelor Lui
+Voi mări Numele Lui
+Nu-I nume mai presus
+Decât al Lui.
+
+[s3]
+Trompetele, în armonii vor vesti
+Iubirea lui Isus
+Toată suflarea să laude pe Isus.
+
+[s4]
+Dumnezeul meu a pus în inima mea
+Slava Lui, S-o pot cânta
+Ca cei Ce o aud să poată lăuda.
+
+[order]
+r1,s1,s2,r1,s3,s4,r1

@@ -1,0 +1,43 @@
+[s1]
+1355.Mi
+1.  Ajută-mi Doamne să-mi păstrez
+Credinţa mea curată
+Ajută-mă să-naintez
+S-ajung la Tine odată.
+/:Prin bucurii şi prin amar
+Pe marea viforoasă
+Păstrează-mă în al Tău har
+S-ajung cu bine acasă :/
+
+[s2]
+2.  Ajută-mă să-naintez
+Mereu pe-a Tale urme
+Ajută-mă ca să păstrez
+Cu dragoste acest nume
+/: Prin orice val şi-orice necaz
+Ce-ar vrea să mă doboare
+Ajută-mă să rămân treaz
+În orice strâmtorare :/
+
+[s3]
+3.  Ajută-mă să stăruiesc
+Mereu în rugăciune
+Ajută-mă să mă sfinţesc
+Să poţi veni la Mine.
+/: Ajută-mă să biruiesc
+Când grea ispită vine
+Ajută-mă să te slăvesc
+Să rămân lângă Tine :/
+
+[s4]
+4.  Ajută-mă ca să-mi păstrez
+Credinţa pân’ la capăt
+Ajută-mă ca să veghez
+Să am haina curată
+/: Ajută-mi să mă pregătesc
+Să fiu gata Stăpâne
+Să pot pe nori să te-ntâlnesc
+Să pot veni la Tine :/
+
+[order]
+s1,s2,s3,s4

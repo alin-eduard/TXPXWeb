@@ -1,0 +1,31 @@
+[s1]
+Să-I dăm mulţumire în rugă uniţi
+De anii tăi, frate, cu-ai noştri-mpletiţi
+/: Şi mîine deasemeni să fim ca un roi Nici noi fără tine, nici tu fără noi. :/
+
+[s2]
+Uniţi în credinţă să mergem la fel
+Pe singura cale, spre singurul ţel.
+/: Să fim totdeauna un singur şuvoi
+Nici noi fără tine, nici tu fără noi. :/
+
+[s3]
+Pe mările roşii a lumii aceşti
+Să ducem mesajul iubirii cereşti.
+/: S-ajungă la ţintă întregul convoi
+Nici noi fără tine, nici tu fără noi. :/
+
+[s4]
+Şi-atunci cînd Păstorul striga-va din cer
+Să nu fie nimeni din turmă stingher
+/: Să nu plîngă nimeni privind înapoi
+Nici noi fără tine, nici tu fără noi. :/
+
+[s5]
+Ci sus unde îngeri în cîntec se-aştern
+Să stăm sub cupola din templul etern
+/: În cîntec de harfe, de flaut, de-oboi
+Şi noi lîngă tine şi tu lîngă noi. :/
+
+[order]
+s1,s2,s3,s4,s5

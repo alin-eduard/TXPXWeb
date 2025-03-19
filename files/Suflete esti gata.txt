@@ -1,0 +1,38 @@
+[s1]
+Suflete, eşti gata! Eşti tu mântuit?
+Căci Isus, din slavă, vine negreşit!
+
+[s2]
+/: Ţi-ai făcut o cercetare,
+Ca să-ţi vezi propria stare
+Cu care la Isus ai venit?
+Ai tu haina ta curată,
+Fără nici un pic de pată?
+Haina ta, tu ţi-ai privit? :/
+
+[s3]
+Zilele sunt scurte, nu te mai gândi!
+A ta tinereţe, nu ţi-o risipi!...
+
+[s4]
+/: De ce tot priveşti în lume
+Care e ocean în spume
+Şi e veşnic tulburat?
+Pentru scurt timp, ai plăcere,
+Iar, la urmă, ai durere:
+Iată, ce ai câştigat! :/
+
+[s5]
+În această lume, tu nu poţi găsi
+Pacea, fericirea cea de veşnicii.
+
+[s6]
+/: Dacă rea îţi va fi fapta,
+Isus vine cu răsplata,
+Aspru vei fi judecat!...
+Deci, mai bine lasă lumea,
+Şi vei câştiga cununa,
+În Ierusalimul nou. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

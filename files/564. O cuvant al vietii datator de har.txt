@@ -1,0 +1,40 @@
+[s1]
+1. O cuvânt al vieţii
+Dătător de har
+Răscoleşte bezna nopţii grele iar
+Zboară spre orizonturi
+Cu lumina Ta
+Dar şi-n viaţa noastră
+Să-ţi reverşi pacea.
+564.
+
+[s2]
+Cor: Este vremea să ne ridicăm
+Flacăra credinţei s-aprindem
+Ochii să ne fie îndreptaţi în sus
+În curând cu slavă va veni Isus.
+
+[s3]
+2. Un cuvânt al vieţii
+Sfânt izvor ceresc
+Stinge flacăra păcatelor ce cresc
+Udă încă o dată via lui Isus
+Binecuvântată-i ploaia lui de sus.
+Cor: Este vremea să ne ridicăm
+Flacăra credinţei s-aprindem
+Ochii să ne fie îndreptaţi în sus
+În curând cu slavă va veni Isus.
+
+[s4]
+3. Un cuvânt al vieţii de te voi primi
+Din inimă va curge apă vie
+Peste toate-n lume
+Veşnic vei domni
+De la început ai fost şi-n veci vei fi.
+Cor: Este vremea să ne ridicăm
+Flacăra credinţei s-aprindem
+Ochii să ne fie îndreptaţi în sus
+În curând cu slavă va veni Isus.
+
+[order]
+s1,s2,s3,s4

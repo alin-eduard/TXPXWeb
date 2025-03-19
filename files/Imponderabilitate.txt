@@ -1,0 +1,101 @@
+[s1]
+Imponderabilitate
+Da, da, /:Imponderabilitate:/
+Era starea de neant
+Un colos de-aglomerate
+Un noian interesant!
+
+[s2]
+Fluvii de incandescenta
+agregati fara liant
+Nicio interdependenta
+in tinutul penetrant
+Nicio form,a nicio zare
+Nici un echilibru viu,
+Nu era nicio miscare
+Erau toate un pustiu!
+
+[s3]
+Atunci Domnul a privit
+Si un plan de-alcatuire a-ntocmit
+Si-a facut s-adie vantul
+Peste-amurgul plin cu ceata
+Iar prin Fiul Sau, Cuvantul
+Le-a dat tuturor viata!
+
+[s4]
+/:Domnul a strigat: :/ Sa fie lumina!
+In marea gradina,
+/:In tinutul adormit:/,
+/:In intregul infinit:/,
+/:Degajand energii nucleare
+Prin Cuvantul Vietii-ntreg
+El a pus stralucirea in soare
+Luminand Universul intreg!:/
+
+[s5]
+Stelele din zorii zilei /:au strigat:/
+Si toti fii Celui Vesnic au cantat, /:Aleluia!:/
+/:Caci un univers in plina declansare
+S-a aprins si a primit miscare:/
+
+[s6]
+Intreaga geometrie in marele zenit
+Prin legi de-astronomie
+atunci a stralucit
+Caci matematicianul,
+Cuvantul Creator
+Desavarsise planul intregului motor!
+
+[s7]
+/:Tic-tac:/ marele ceasornic automat
+/:Tic-tac:/ merge pana astazi ne-ncetat,
+Caci Pictorul cel mare si ilustru
+El ne-a dat culorile si gustul;
+El le-a pus pe toate-n armonie
+Ca sa cante marea simfonie
+
+[s8]
+/:Si cerul si pamantul
+Si apele si vantul
+Si ingerii cei falnici in taria lor
+Lauda pe Dumnezeul creatiunilor
+Serafimii, heruvimii
+Si arhangheli si batranii
+Canta lauda ne-ncetat
+Doamne Tu pe toate le-ai creat:/
+
+[s9]
+/:Si multimi si mii de mii:/
+/:Cu aceleasii melodii!:/
+/:Canta lauda ne-ncetat:/
+Doamne Tu pe toate le-ai creat!
+Prin Fiul Sau, Dumnezeu
+A creat tronuri de domnie,
+Stapaniri si domnii
+Pe pamant si sus in vesnicii.
+
+[s10]
+/: /:Pentru El pe toate le-a facut:/
+/:El era Acel intai nascut:/
+/:Pentru El lucreaza Duhul Sfant:/
+Pregatind Mireasa pe pamant. :/
+
+[s11]
+/:Isus, Isus, Isus,
+Ce Nume minunat
+Ce Nume inaltat
+Caci pentru noi pe cruce El a stat!:/
+/:Ceruri noi El noua ne-a fagaduit
+Caci acele vechi s-au vestejit!
+Si vor arde toate care s-au uscat
+Insa El domni-va ne-ncetat!:/
+
+[s12]
+/:Isus, Isus, Isus
+Ce Nume stralucit,
+Ce Nume proslavit
+/:Caci El la noi, din ceruri a venit:/:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12

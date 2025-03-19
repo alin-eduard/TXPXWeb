@@ -1,0 +1,59 @@
+[s1]
+Cântaţi cu toţi,
+Vă bucuraţi
+Puţin a mai rămas
+Oricât ar fi
+Crucea de grea
+Din ea să nu tăiaţi.
+827.								    Fa
+
+[s2]
+/: Încă puţin a mai rămas
+Isus din nou va reveni
+Să-Și ia Mireasa sus la cer
+Prin Duhul Sfânt o va răpi.
+
+[s3]
+2. Mulţi au căzut
+Sub crucea grea
+De griji şi de poveri
+Dar Dumnezeu
+Prin Duhul Sfânt
+Le-a dat mereu puteri.
+
+[s4]
+/: Chiar dacă mergi
+Spre cer plângând
+Curând toate le vei uita
+Isus Hristos cu mâna Sa
+El îți va şterge lacrima :/
+
+[s5]
+3. Chiar dacă treci
+Prin încercări
+Frate nu te lăsa
+Tu strigă-ntruna la Isus
+El e scăparea ta.
+
+[s6]
+/: El e salvarea tuturor
+Ce s-a-ncrezut numai în El
+El e Fiul lui Dumnezeu
+Isus Hristos Emanuel :/
+
+[s7]
+4. Chiar dacă
+Valuri vin mereu
+Şi bat în barca ta
+Tu nu uita că Dumnezeu
+Îţi stă alăturea.
+
+[s8]
+/:Tu urcă-ţi
+Crucea până sus
+Acolo sus la Golgota
+Unde Isus cel răstignit
+Îţi va lua povara ta :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

@@ -1,0 +1,26 @@
+[s1]
+Stai pe loc şi te gândeşte:
+Unde-alergi aşa zorit?
+Şi nu vrei să te gândeşti,
+Ce sfârşit trist vei avea?
+
+[r1]
+Vino astăzi, vin-degrabă,
+Vino la Isus acum!
+Mâine, poate, cine ştie,
+Nu mai eşti pe-acest pământ!
+
+[s2]
+Te-ai zbătut prea multă vreme
+În ruşine şi păcat;
+Scoală azi şi părăseşte
+Tot trecutu-ntunecat.
+
+[s3]
+În lumină, frate dragă,
+Liber vei putea să mergi;
+Sub privirea unui Tată
+Care-i plin de dragoste.
+
+[order]
+s1,r1,s2,r1,s3,r1

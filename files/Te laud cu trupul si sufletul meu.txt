@@ -1,0 +1,42 @@
+[s1]
+Te laud cu trupul şi sufletul meu,
+Pe Tine, Eternule,
+Sfânt Dumnezeu!
+Te laud la timp, ne la timp,
+Pe deplin,
+//: Te laud prin Fiul,
+Hristosul Divin! ://
+Te laud! Te laud!
+
+[s2]
+Te laud cu­aceleaşi cuvinte de jar,
+Dar duhul e proaspăt
+Şi viu iar şi iar!
+Te laud în rugă,
+În strigăt şi­n gând,
+//: Te laud prin Fiul,
+Hristosul Cel blând! ://
+Te laud! Te laud!
+
+[s3]
+Te laud, Părinte,
+Arzând Te iubesc
+Şi voia­Ţi preasfântă,
+Mai sfânt s­o­mplinesc!
+Te laud că Tu mă ajuţi neoprit,
+//: Te laud prin Fiul,
+Hristosul jertfit! ://
+Te laud! Te laud!
+
+[s4]
+Te laud, Te laud
+Şi­n veci voi cânta
+Frumos adevărul
+Şi dragostea Ta!
+Te laud în cântec de cer minunat,
+//: Te laud prin Fiul,
+Hristosu­nviat! ://
+Te laud! Te laud!
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,41 @@
+[s1]
+1658.
+1. La Tine Doamne noi ades venim
+Cu rănile care ades ne dor
+Tu ştii să mângâi şi Tu şti să torni
+În suflet din balsamul Tău divin.
+Cor:	Eli strigăm şi noi azi către Tine
+/: Cum a strigat Isus în chinuri :/
+Eli, când noi suntem trişti,
+Când suntem prigoniţi,
+Noi te strigăm
+Când suntem părăsiţi.
+
+[s2]
+2. În ochii noştri lacrimi se ivesc
+Când vreun cuvânt
+Prin Duhul Tău ne spui,
+Tu ştii să mângâi şi Tu ştii să ierţi
+Tu ne dai sfaturi şi Tu ne conduci.
+Cor:	Eli strigăm şi noi azi către Tine
+/: Cum a strigat Isus în chinuri :/
+Eli, când noi suntem trişti,
+Când suntem prigoniţi,
+Noi te strigăm
+Când suntem părăsiţi.
+
+[s3]
+3. Ne-ai dat atâtea sfinte bucurii
+Ne-ai îndreptat
+Cărarea noastră-n sus,
+Ne-ai dat iertare şi ne-ai dăruit
+În astă lume pe Fiul Tău Isus.
+Cor:	Eli strigăm şi noi azi către Tine
+/: Cum a strigat Isus în chinuri :/
+Eli, când noi suntem trişti,
+Când suntem prigoniţi,
+Noi te strigăm
+Când suntem părăsiţi.
+
+[order]
+s1,s2,s3

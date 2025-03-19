@@ -1,0 +1,38 @@
+[s1]
+Sub crucea Ta Doamne Isuse
+Vreau să rămân pe veci plecat
+Să-mi plâng viaţa mea trecută
+Şi-amarul negrului păcat.
+/:Sub crucea Ta :/
+Eu pace dulce voi avea.
+1 /4
+
+[s2]
+Sub crucea Ta voi pune totul
+Şi Ţie-n veci voi fi supus
+Plângând voi spune tuturora
+C-atât de bun eşti Tu Isus
+/:Sub crucea Ta :/
+Eu pace dulce voi avea.
+2 /4
+
+[s3]
+Cu Tine vreau să port în lume
+Orice necaz şi orice nevoi
+În lupte grele şi furtună
+Să fim de-a pururi amândoi.
+/:Sub crucea Ta :/
+Eu pace dulce voi avea.
+3 /4
+
+[s4]
+În noaptea grea şi fără urmă
+Cărarea mi-o vei lumina
+Şi-oricâte vânturi mă vor bate
+Voi sta mereu sub crucea Ta.
+/:Sub crucea Ta :/
+Eu pace dulce voi avea.
+4 /4
+
+[order]
+s1,s2,s3,s4

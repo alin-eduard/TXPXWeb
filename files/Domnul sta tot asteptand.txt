@@ -1,0 +1,43 @@
+[s1]
+Domnul stă tot aşteptând,
+porţi închise multe sunt
+Dar El, zi şi noapte,
+cam de mult tot bate
+Poate se vor descuia.
+Domnul stă şi bate iar,
+poate n-o fi în zadar
+/: Singura fiinţă ce e în putinţă
+A te binecuvânta. :/
+
+[r1]
+O, deschide-I, nu mai sta
+Vrea să intre-n casa ta!
+/: Singura fiinţă ce e în putinţă
+A te binecuvânta! :/
+Nu amâna, vei regreta!
+/: Ultima chemare Domnul cu răbdare
+Pentru tin’ va repeta. :/
+
+[s2]
+Prin ureche-i poarta ta,
+când auzi, te poţi preda!
+Duhul Sfânt lucrează, inima cedează
+Şi te simţi eliberat.
+Dar uşor te păcăleşti
+prin ureche de primeşti
+/: Sunete stridente, şoapte insistente
+Cu îndemnuri la păcat. :/
+
+[s3]
+Într-o zi-L vei auzi,
+vocea Lui te va trezi
+Că Isus, El vine, ca să ia la Sine
+Pe iubitul Său popor.
+Prea târziu atunci va fi
+să-I deschizi spre a-L primi
+/: Domnul e aproape,
+poate chiar la noapte
+Vine ca Judecător! :/
+
+[order]
+s1,r1,s2,r1,s3,r1

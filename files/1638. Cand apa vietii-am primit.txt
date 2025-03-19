@@ -1,0 +1,54 @@
+[s1]
+1638.   La
+1. Când apa vieţii-am primit-o,
+Cătuşe şi lanţuri s-au frânt,
+Căci moartea năvalnic lovită-I
+O, apă, Tu, Râule Sfânt!
+
+[r1]
+Cor:  /:O apă vie ni s-a dat,
+Din harul sfânt,
+Şi cel mai minunat
+Isus, izvor de mângâieri
+Din zi în zi ne dai puteri.:/
+
+[s2]
+2. Ai rupt în talazuri robia,
+Ai pus o pecete în noi,
+Iar dragostea fost-a întaia,
+Petală din crinii de sus.
+
+[s3]
+3. Puterea de viaţă ne-a dat-o
+Şi ochii murdari i-a spălat.
+Iar azi mi-e privirea purtată.
+Spre cerul măreţ minunat
+
+[s4]
+Cor:  /:O apă vie ni s-a dat
+Din harul sfânt,
+Şi cel mai minunat
+Isus, izvor de mângâieri
+Din zi în zi ne dai puteri.:/
+
+[s5]
+4. O apă mai vie ne umple
+Cu tainice doruri în piept.
+Şi-n locuri tăcute, dar scumpe,
+Prin Tine mi-e drumul mai drept.
+
+[r2]
+Cor:  /:O apă vie ni s-a dat
+Din harul sfânt
+Şi cel mai minunat,
+Isus, izvor de mângâieri
+Din zi în zi ne dai puteri.:/
+
+[s6]
+5. Când apa vieţii-am primit-o,
+Măsură în har n-am avut,
+Căci pacea ce-n piept am simţit-o,
+Părtaşi cu Isus ne-a făcut.
+
+[order]
+s1,r1,s2,r1,s3,s4,s5,r2,s6,r2

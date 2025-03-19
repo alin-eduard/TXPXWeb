@@ -1,0 +1,53 @@
+[s1]
+Pe pământ avem o luptă
+Ce-n Cuvânt e arătată
+Lupta credinţei sfinte
+Ce de Domnul e trasată
+Să luptăm cu râvnă mare
+Până Domnul va veni
+Căci prin orice încercare
+Doar luptând vom birui.
+Sol M
+
+[s2]
+/: Hai luptă frate luptă
+Mai luptă nu te da bătut
+Spre ţara uminii înainte
+Cu râvnă şi avânt
+Stai treaz şi veghează într-una
+Până în zori de zi
+C-atunci primi-vei cununa
+Când Domnul va veni. :/
+
+[s3]
+Pregătiţi să fim de luptă
+Scutul credinţei să-l avem
+Cu sabia Duhului ‘nainte
+În Domnul să ne-ncredem
+Platoşa neprihănirii
+Să fie de-a pururi cu noi
+Pe cap coiful mântuirii
+Şi râvna Evangheliei.
+
+[r1]
+/: Hai luptă frate luptă
+Mai luptă nu te da bătut
+Spre ţara luminii înainte
+Cu râvnă şi avânt
+Stai treaz şi veghează într-una
+Până în zori de zi
+C-atunci primi-vei cununa
+Când Domnul va veni. :/
+
+[s4]
+În slavă eternă vor fi
+Acei ce au învins
+Şi Domnul ne va da răsplata
+Aşa cum ne-a promis
+Veşnicia e aproape
+Curând Isus va reveni
+Când zorile vor apare
+Lupta se va sfârşi.
+
+[order]
+s1,s2,s3,r1,s4,r1

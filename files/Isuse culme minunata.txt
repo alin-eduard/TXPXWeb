@@ -1,0 +1,50 @@
+[s1]
+Isuse culme minunată
+De unde-L văd pe Dumnezeu,
+Ce viaţă binecuvântată
+Adus-ai sufletului meu...
+
+[s2]
+E-atâta bunătate-n Tine
+Stăpâne, Tată scump şi bun
+Cât cu-al meu glas printre suspine,
+În veci eu n-am să pot să spun...
+
+[s3]
+Atâta milă şi iubire
+Isuse-n Tine am aflat
+Cât n-o să poată niciodată
+Să spun-un păcătos iertat;
+
+[s4]
+Atâta dragoste şi pace
+Eu aflu-n Tine zi de zi
+Mai mult de cât putut-am crede
+Sau mi-am putut închipui.
+
+[s5]
+Cu ce înfiorate glasuri,
+Isuse, Ţi-aş putea cânta
+Când Tu mă faci să vad acuma
+Ce nici n-aş fi putut visa...
+
+[s6]
+Cu ce cuvinte-Ti voi da slava,
+Cand Tu ma faci acum sa am
+Atâta har cât, altadata
+Nici să-mi închipui nu-ndrăzneam!
+
+[s7]
+O, de ce glasul gurii mele
+E-atat de slab, e-atat de mic
+Si-n neputinţa mea, Isuse
+Nimic…n-am ce-Ti jerfi…nimic…
+
+[s8]
+Primeşte jertfa unor lacrimi
+Şi glasul cântecului smult
+Din fundul unei inimi care
+Ţi-ar da, dar n-are ce mai mult.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

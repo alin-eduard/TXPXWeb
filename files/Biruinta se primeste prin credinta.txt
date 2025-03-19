@@ -1,0 +1,26 @@
+[s1]
+Biruinta se primeste prin credinta
+Daca crezi cu-adevarat vei birui
+Daca vii la Domnul azi cu umilinta
+De orice necaz tu vei fi izbavit.
+
+[r1]
+Crede, roaga-te, pe genungi apleaca-te
+Multumeste-i Domnului ca e cu tine
+Spune-i domnului, tot necazul tau
+Si-ai sa vezi cum biruinta vine.
+
+[s2]
+Incercarea care vine peste tine,
+Nu-i mai mare decat tu poti rabda
+Roaga-te la Domnul astazi cu credinta
+Izbavire vei primi din mana Sa.
+
+[s3]
+Daca cei din jurul tau te prigonesc,
+Si cu spini carareata ti-o impodobesc
+Aminteste-ti dar atunci de Isus
+Cum pe cruce El a fost strapuns
+
+[order]
+s1,r1,s2,r1,s3,r1

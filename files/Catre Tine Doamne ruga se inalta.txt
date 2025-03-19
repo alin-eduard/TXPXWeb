@@ -1,0 +1,32 @@
+[s1]
+Către Tine Doamne ruga se înalţă
+Către Tronul harului slăvit
+Doamne vino, că Te strigă
+Cei robiţi şi părăsiţi
+Doamne-ndură-Te de noi.
+
+[r1]
+Doamne, Tu eşti mângâierea
+Tu ştergi lacrima din ochi
+Tu eşti lângă cel ce plânge
+Ridici pe cel căzut.
+Vino astăzi lângă mine
+Vreau să simt prezenţa Ta
+Doamne-ndură-Te de noi.
+
+[s2]
+Tu le ieşi în calea celor ce Te caută
+Du-i spre-al vieţii nesecat izvor,
+Pune-i sus pe stânca Ta
+Potoleşte setea lor
+Fă-i lumină pentru cer.
+
+[s3]
+Ştiu că revenirea Ta e foarte aproape
+Suferinţa vei schimba în bucurii
+Şi cu cântece de slavă
+Îmi vei umple inima
+Când voi sta în prezenţa Ta.
+
+[order]
+s1,r1,s2,r1,s3,r1

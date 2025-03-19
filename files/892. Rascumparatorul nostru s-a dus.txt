@@ -1,0 +1,30 @@
+[s1]
+892.
+1.  Răscumpărătorul nostru s-a dus
+Să ne pregătească locaş sus
+În curând acolo sus
+Sfinţii se vor odihni
+În cer sus unde noapte n-a mai fi.
+
+[r1]
+Cor:	Cum doresc odihna
+Unde nu-i durerea
+Ce frumos când va fi unde
+Isus ne va străluci
+
+[s2]
+Nu am tezaur pe pământ jos
+Aici unde-i păcatul scârbos
+Averea mea este numai
+Acolo în cer sus
+Unde domneşte regele Isus
+
+[s3]
+Cânta-voi în cereasca casă
+Stând cu Isus la sfânta masă
+Cântând cu cei sfinţi şi mântuiţi
+În locaşul sfânt
+Când cu Domnul noi ne vom afla.
+
+[order]
+s1,r1,s2,r1,s3,r1

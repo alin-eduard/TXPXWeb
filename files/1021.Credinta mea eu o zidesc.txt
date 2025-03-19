@@ -1,0 +1,33 @@
+[s1]
+1.Credinţa mea eu o zidesc
+Pe Cuvântul Sfânt şi ceresc
+Altceva trece ca spuma
+Hristos ca stâncă-n veci va sta.
+1021.
+
+[r1]
+Cor:
+Cine-n El se încrede
+/: Pe nisip nu mai zideşte. :/
+
+[s2]
+2. Deşi faţa Lui ascunsă
+Mila Lui mă înconjoară
+Poate veni orice vifor
+Pe această stâncă
+Sunt sigur.
+
+[s3]
+3.Legământul Sfânt sângele
+Mă scuteşte-n primejdie
+Chiar toate de s-ar risipi
+Hristos în veci stă neclintit.
+
+[s4]
+4. Iar când Isus va judeca
+Şi celor morţi sus va striga
+Dreptatea Lui mie-mi va fi
+Haina în care voi luci.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

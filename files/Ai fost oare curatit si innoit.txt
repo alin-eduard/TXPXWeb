@@ -1,0 +1,37 @@
+[s1]
+Ai fost oare curăţit şi înnoit?
+Te-a spălat sângele lui Isus?
+Şi născut de sus, iertat şi mântuit?
+Împăcat oare eşti cu Isus?
+
+[r1]
+Înnoit? Izbăvit?
+Eşti tu oare prin El mântuit?
+Ţi-este sufletu-mpăcat şi liniştit
+Şi prin sângele scump curăţit?
+
+[s2]
+Veghetor eşti oare,
+Viaţa-ţi cercetând?
+Te-a spălat sângele lui Isus?
+Eşti condus de Domnul,
+Cuvântu-I urmând?
+Te-a spălat sângele lui Isus?
+
+[s3]
+De-ar veni Isus,
+Cum oare te-ar găsi?
+Te-a spălat sângele lui Isus?
+O gândeşte-n veşnicie cum vei fi?
+Te-a spălat sângele lui Isus?
+
+[s4]
+Hotărăşte dar de-acum
+al tău destin:
+Te-a spălat sângele lui Isus?
+Vrei să aibă un sfârşit
+amaru-ţi chin,
+Te-a spălat sângele lui Isus?
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

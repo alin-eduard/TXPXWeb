@@ -1,0 +1,33 @@
+[s1]
+1702.        Mi m
+1. Smerit la poala crucii Tale
+Eu vin şi astăzi ca să-Ţi cer
+Iertare căci pe a mea cale
+Eu ţi-am greşit iertare-Ţi cer
+Cor:	Părinte drept călăuzire
+Mi-ai dat pe cale către cer
+Să dau dovadă de iubire
+Că n-am iubit,iertare-Ţi cer
+
+[s2]
+2. Mi-ai dat unelte pentru vie
+Dar stau uitate-ntr-un ungher
+Şi multă muncă-i într-o vie
+Că n-am lucrat iertare-Ţi cer
+Cor:	Părinte drept călăuzire
+Mi-ai dat pe cale către cer
+Să dau dovadă de iubire
+Că n-am iubit,iertare-Ţi cer
+
+[s3]
+3. Dar astăzi vreau din nou Isuse
+Să lupt, să cânt, să plâng, să sper
+Puterile-mi sunt neajunse
+De aceea azi putere-Ţi cer
+Cor:	Părinte drept călăuzire
+Mi-ai dat pe cale către cer
+Să dau dovadă de iubire
+Că n-am iubit,iertare-Ţi cer
+
+[order]
+s1,s2,s3

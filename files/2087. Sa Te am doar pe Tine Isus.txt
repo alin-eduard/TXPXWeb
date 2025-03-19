@@ -1,0 +1,33 @@
+[s1]
+2087
+1. Să Te am doar pe Tine Isus
+Aici jos pe pământ
+Bucurii ca la Tine nu-s
+Nicăieri și nicicând.
+
+[r1]
+Cor: /: Toată lumea dacă mi-ar da
+Tot ce este în ea
+N-aș găsi mângâiere nicicând
+Pentru viața mea :/
+
+[s2]
+2. Să Te am doar pe Tine Isus
+În viață mereu
+Harul Tău îmi este de-ajuns
+Ca să fiu al Tău.
+
+[s3]
+3. Să Te am doar pe Tine Isus
+Doar pe Tine să Te am
+Și nu doresc mai mult nimic
+Decât să Te am.
+
+[s4]
+Cor: /: Toată lumea dacă mi-ar da
+Tot ce este în ea
+N-aș găsi mângâiere nicicând
+Pentru viața mea. :/
+
+[order]
+s1,r1,s2,r1,s3,s4

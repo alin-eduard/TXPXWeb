@@ -1,0 +1,16 @@
+[s1]
+Din cer la noi ai venit
+În chip de rob ne-ai slujit
+Ne-ai arătat ce-nseamnă dragostea.
+Dulcea-Ţi iubire ce ne cuprinde
+În noi o aprinzi Tu, Isus.
+
+[s2]
+Mîini către Tin, înălţăm
+Faţa Ta azi o căutăm
+Şi Te rugăm să-mplineşti Tu în noi
+Sfînta-Ţi iubire, desăvîrşire
+Ce-i darul Tău mai de preţ.
+
+[order]
+s1,s2

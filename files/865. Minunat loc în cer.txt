@@ -1,0 +1,35 @@
+[s1]
+865.
+1.  Minunat loc în cer
+Minunat loc în cer
+Pentru cei credincioşi pregătit
+Chiar de Domnul Isus
+Care mult ne-a iubit
+Este loc minunat pregătit.
+
+[r1]
+Cor:  Este loc minunat
+Pregătit sus în cer
+Unde nu e nici plâns, nici dureri
+Ci mereu bucurii sfinte
+Dulci melodii
+Sunt cântate de sute de mii.
+
+[s2]
+2.  Acolo cei scăpaţi
+Îl slăvesc pe Hristos
+Cel prea bun iertător şi milos
+Căci El celor ce-n lume
+Pe El l-au primit
+Minunat loc în cer le-a gătit.
+
+[s3]
+3.	Frumuseţi, fericiri
+Ce sunt fără sfârşit
+Sus în cer Doamne mi-ai pregătit
+Te slăvesc, Te iubesc
+Şi doresc, o, Isus
+Ca să vin mai curând în cer sus.
+
+[order]
+s1,r1,s2,r1,s3,r1

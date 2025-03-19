@@ -1,0 +1,33 @@
+[s1]
+49.                   Mi
+1. Mare eşti Tu Doamne
+Căci ne-ai mântuit
+Din păcatul morţii
+Tu ne-ai izbăvit.
+
+[r1]
+Cor: /: Sfinte Dumnezeule
+Îndurare-Ți cer eu
+Şi nu mă uita
+În toată viaţa mea :/.
+
+[s2]
+2. Acum merg pe calea
+Cea de diamant
+Ce duce la Domnul
+Cel adevărat.
+
+[s3]
+3. Sufletul mi-e vesel
+Că sunt sigilat
+Şi pentru răpire
+Domnul m-a păstrat.
+
+[s4]
+4. Veşnice Părinte
+Al meu Salvator
+Fii slăvit Isuse
+De al tău popor.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

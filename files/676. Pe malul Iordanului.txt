@@ -1,0 +1,69 @@
+[s1]
+1. Pe malul Iordanului
+Şi prin livezile Lui
+Cade rouă pe pământ
+/: Care este Duhul Sfânt :/
+2. Pe marginea Nilului
+Cade tot din roua Lui
+Picuri mari cad pe pământ
+/: Ce parcurg din Duhul Sfânt :/
+676.
+
+[s2]
+3. Picurile se numesc
+Daruri din harul ceresc
+Daruri pentru pregătire
+/: Pentru a Miresei răpire :/
+4. Nu-i Mireasa unui om
+Ci-i Mireasa unui Domn
+Este Domnul Domnilor
+/: Mirele cerurilor :/
+
+[s3]
+5. El pe nume va chema
+Pe scumpă Mireasa Sa
+În văzduh o va răpi
+/: La sunetul trâmbiţii :/
+6. Acest Mire are un nume
+Pe care nu-l ştie nimeni
+Şi pe cap El va purta
+/: Scris un nume chiar aşa :/
+
+[s4]
+7. Împăratul Împăraţilor
+Şi chiar Domnul Domnilor
+Iar precis numele Său
+/: Cuvântul lui Dumnezeu :/
+8. Din ceruri va urma
+Chiar Tatăl cu oastea Sa
+Îmbrăcat în in subţire
+/: Fapte de neprihănire :/
+
+[s5]
+9. Acest Fiu de Dumnezeu
+Va servi ospăţul Său
+Multe bunuri şi gustoase
+/: Va fi la aceeaşi masă :/
+10. Îmbrăcaţi în in subţire
+Şi în marea strălucire
+Slavă cinste va purta
+/: Coroană pe fruntea Sa :/
+
+[s6]
+11. La ospăţ toţi cei intraţi
+O răsplată căpătaţi
+O cunună Împărătească
+/: Veţi purta pe fruntea voastră :/
+12. Atunci va fi în ceruri sus
+Bucurie de nespus
+Oştile cerurilor
+/: Toate vor cânta în cor :/
+
+[s7]
+13. Slavă, cinste şi mărire
+Vor cânta acestui Mire
+Pentru sfinţii Sfinţilor
+/: Până-n vecii vecilor :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

@@ -1,0 +1,23 @@
+[s1]
+Dumnezeu e lumina vieţii mele;
+Ce să mă tem?
+Dumnezeu e scutul şi scăparea mea;
+Şi de cine să mă tem.
+
+[s2]
+Când vrăjmaşul m-a-nconjura,
+Nu m-oi înfricoşa;
+Că Domnul m-a ţinea,
+În El voi pune eu nădejdea;
+Numai una cer de la Domnul,
+Aceasta o doresc:
+Să locuiesc în casa Domnului.
+
+[s3]
+/: Să locuiesc în Casa Domnului,
+Să locuiesc în Casa Domnului,
+Până-n veac, până-n veac,
+Până-n veac. :/
+
+[order]
+s1,s2,s3

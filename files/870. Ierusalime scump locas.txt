@@ -1,0 +1,27 @@
+[s1]
+870.                                                       Mi M
+1. Ierusalime scump locaş
+Tot sufletul suspină
+/: Când oare, când te voi vedea
+Când în tine eu voi intra
+Să-ţi cânt şi eu iubirea mea
+Pe marea cristalină :/.
+
+[s2]
+2. Ierusalime loc iubit
+O, cum va fi în tine
+/: Când lungul dor ce eu l-am plâns
+Şi amarul ce în piept l-am strâns
+Va fi uitat şi şters şi stins
+Şi n-or mai fi suspine :/.
+
+[s3]
+3. Isus iubit, Isus cu drag
+Iubirea mea Te cheamă
+/: Te cheamă sufletul meu azi
+Cu râu de lacrimi pe obraz
+O, vino, vino, vino azi
+Şi ia-mă sus la Tine :/.
+
+[order]
+s1,s2,s3

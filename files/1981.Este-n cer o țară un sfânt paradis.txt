@@ -1,0 +1,24 @@
+[s1]
+1981
+Re b M
+1.Este-n cer o țară un Sfânt Paradis
+Țară minunată, rai de nedescris
+/:Patrie dorită, patrie de sus
+Țară pregătită în veci de Isus.:/
+
+[s2]
+2.Dincolo de zare este țara mea
+Unde-i veșnic soare veșnic voi cânta
+/:Peste zări albastre sus la tronul Său
+Dincolo de astre sus la Dumnezeu.:/
+
+[s3]
+3. Mai presus de toate
+Doamne Tu domnești
+În zări minunate în splendori cerești
+/:Sfânt și-atotputernic
+Drept și-adevărat
+Doamne Tu ești vrednic să fii lăudat.:/
+
+[order]
+s1,s2,s3

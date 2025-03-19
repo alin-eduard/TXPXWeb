@@ -1,0 +1,26 @@
+[s1]
+Sunt în fiecare zi cu Isus,
+Aproape-I simt prezenţa Sa,
+Şi-mi vorbeşte în cuvinte sfinte,
+Ce-alungă necredinţa mea.
+
+[r1]
+În fiecare clipă sunt cu Isus,
+Cu Isus, al meu Domn;
+În fiecare clipă sunt cu Isus,
+Şi voi merge-n orice loc cu El.
+
+[s2]
+Sunt în fiecare zi cu Isus,
+El poartă greutatea mea;
+Cu povaţa Sa, El mă conduce
+Şi sunt scăpat de cursa rea.
+
+[s3]
+Sunt în fiecare zi cu Isus,
+Deşi eu nu Îl pot vedea
+El mi-a spus:”Voi fi în veci cu tine”
+Eu iau făgăduinţa Sa.
+
+[order]
+s1,r1,s2,r1,s3,r1

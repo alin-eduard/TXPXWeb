@@ -1,0 +1,53 @@
+[s1]
+1. Cu crucea-n spate El mergea
+În locul meu şi al tău
+Durerea morţii a suferit
+Fiul lui Dumnezeu.
+799.
+Cor: Ah, cât a suferit
+Isus când s-a jertfit
+În schimb tu ce i-ai daruit
+Căci te-a răscumpărat.
+
+[s2]
+2. A fost bătut şi chinuit
+În locul meu şi al tău
+Cunună de spini a purtat
+Fiul lui Dumnezeu.
+Cor: Ah, cât a suferit
+Isus când s-a jertfit
+În schimb tu ce i-ai daruit
+Căci te-a răscumpărat.
+
+[s3]
+3. În faţă mereu îl lovea
+În locul tău şi al meu
+În spate alţii-L biciuia
+În locul meu şi al tău.
+Cor: Ah, cât a suferit
+Isus când s-a jertfit
+În schimb tu ce i-ai daruit
+Căci te-a răscumpărat.
+
+[s4]
+4. Şi aşa urcând cu crucea grea
+În locul tău şi al meu
+Pân' a ajuns la Golgota
+Fiul lui Dumnezeu.
+Cor: Ah, cât a suferit
+Isus când s-a jertfit
+În schimb tu ce i-ai daruit
+Căci te-a răscumpărat.
+
+[s5]
+5. De vrei să ştii ce a făcut
+Isus în locul tău
+Murind pe cruce la Calvar
+Să fii scăpat de rău.
+Cor: Ah, cât a suferit
+Isus când s-a jertfit
+În schimb tu ce i-ai daruit
+Căci te-a răscumpărat.
+
+[order]
+s1,s2,s3,s4,s5

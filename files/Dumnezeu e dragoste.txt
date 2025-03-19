@@ -1,0 +1,26 @@
+[s1]
+/: Dumnezeu e dragoste :/
+Dumnezeu cel vesnic
+Domnul vietii
+Dumnezeu e dragoste.
+
+[s2]
+/: Dumnezeu e adevăr :/
+Dumnezeu cel vesnic
+Domnul vietii
+Dumnezeu e adevăr.
+
+[s3]
+/: Domnul e lumina mea :/
+Dumnezeu cel vesnic
+Domnul vietii
+Domnul e lumina mea.
+
+[s4]
+/: Domnul e speranta mea :/
+Dumnezeu cel vesnic
+Domnul vietii
+Domnul e speranta mea.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,32 @@
+[s1]
+Pentru ce carele Tale,
+vin aşa încet?
+Pentru ce carele Tale,
+Doamne zăbovesc?
+
+[r1]
+/: Azi când lupta-i mare,
+şi drumu-i greu tare,
+Eu aştept carele Tale
+chiar de vin încet. :/
+
+[s2]
+Doamne ne deschide
+ochii ca a lui Ghehazi;
+Să vedem oştirea
+sfântă ce o ai Tu azi.
+
+[s3]
+În curând pe norii slavei
+Tu vei reveni;
+Să-Ţi răpeşti a Ta mireasă
+sus în veşnicii.
+
+[s4]
+Pregăteşte-Ţi astăzi
+Doamne Tu mireasa Ta;
+Să îmbraci în haine
+albe azi Biserica.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

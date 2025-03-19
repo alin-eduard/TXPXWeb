@@ -1,0 +1,53 @@
+[s1]
+Eşti pe calea mântuirii
+Dar copiii unde-ţi sunt?
+Sunt pe căile pierzării,
+Departe de Tatăl Sfânt.
+
+[s2]
+Voi, părinţi, chemaţi copiii,
+Ce de Domnul v-au fost daţi.
+La izvorul mântuirii
+Să se-ntoarcă, vă rugaţi.
+
+[s3]
+O, de ce nu vin copiii
+Lângă tine, mama lor?
+O, de ce îi laşi în lume,
+Unde rătăcesc şi mor?
+
+[s4]
+4
+Voi, părinţi, chemaţi copiii,
+Ce de Domnul v-au fost daţi.
+La izvorul mântuirii
+Să se-ntoarcă, vă rugaţi.
+
+[s5]
+Tu te afli-n casa păcii.
+Eşti atât de fericit.
+Dar copiii tăi, părinte,
+Pe ce drum s-au rătăcit?
+
+[s6]
+6
+Voi, părinţi, chemaţi copiii,
+Ce de Domnul v-au fost daţi.
+La izvorul mântuirii
+Să se-ntoarcă, vă rugaţi.
+
+[s7]
+Azi, vorbeşte-le degrabă.
+Către Domnul vă rugaţi,
+Calea bună să apuce
+Şi cu ei, în cer, să staţi.
+
+[s8]
+8
+Voi, părinţi, chemaţi copiii,
+Ce de Domnul v-au fost daţi.
+La izvorul mântuirii
+Să se-ntoarcă, vă rugaţi.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

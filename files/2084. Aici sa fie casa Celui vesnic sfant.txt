@@ -1,0 +1,44 @@
+[s1]
+2084   Re m
+1. Aici să fie casa Celui veşnic sfânt
+Aici s-aducem laudă şi-nchinare
+Acelui care este veșnic viu și sfant
+Şi merită doar cinste şi onoare!
+Aici să fie casa unde fraţii mei
+Cădea-vor în genunchi în faţa Ta,
+Cu mâinile întinse către ceruri ei
+Un legământ cu Tine vor avea!
+
+[s2]
+Cor:  /: Din cântare în cântare
+Să se-aprindă-n adunare
+Jertfa laudei de-nchinare
+Ca pe muntele cel sfânt!
+Să cunoască fiecare
+Că Tu eşti în adunare,
+Şi-nsoţeşti a Ta lucrare
+Cu puteri prin Duhul Sfânt! :/
+
+[s3]
+2. Aici să fie casa unde ochii Tăi
+Zi şi noapte spre noi vor privi
+Aici să fie casa unde fraţii mei
+Cu rugăciuni, cu laude vor veni!
+Atunci când va intra aici străinul
+Din pricina Numelui Tău Sfânt
+Să fie ascultat să-i dai alinul,
+Că Tu eşti Dumnezeu şi
+Tu eşti Sfânt!
+
+[s4]
+Cor:  /: Din cântare în cântare
+Să se-aprindă-n adunare
+Jertfa laudei de-nchinare
+Ca pe muntele cel Sfânt!
+Să cunoască fiecare
+Că Tu eşti în adunare,
+Şi-nsoţeşti a Ta lucrare
+Cu puteri prin Duhul Sfânt! :/
+
+[order]
+s1,s2,s3,s4

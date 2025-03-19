@@ -1,0 +1,63 @@
+[s1]
+1.O, Porumbel cu pene sfinte
+Ce ai zburat din veşnicii
+Noi Te rugăm, rugăm fierbinte,
+Noi Te rugăm la noi să vii.
+Cor:	/: Mai vin-odată, :/ mai vin-odată
+Porumbel ceresc şi sfânt
+Mai vin-odată, mai vin-odată
+La noi pe pământ.
+479.               							                            Mi
+
+[s2]
+2.	Ni-e dor, ni-e dor de-a Ta cântare
+Cântată-n limbile de foc
+Ca-n ziua-ntâia de Rusalii
+Când ai mişcat casa din loc.
+Cor:	/: Mai vin-odată, :/ mai vin-odată
+Porumbel ceresc şi sfânt
+Mai vin-odată, mai vin-odată
+La noi pe pământ.
+
+[s3]
+3.	Cobori cu pacea Ta cerească
+Şi adă pacea pe pământ
+Din pacea Ta dumnezeiească
+O, porumbel ceresc şi sfânt.
+Cor:	/: Mai vin-odată, :/ mai vin-odată
+Porumbel ceresc şi sfânt
+Mai vin-odată, mai vin-odată
+La noi pe pământ.
+
+[s4]
+4.	Ni-e dor, ni-e dor de dimineaţa,
+Când toţi vom fi în jurul Tău
+Şi ne-om uita pe veci durerea
+Sus la tronul lui Dumnezeu.
+Cor:	/: Mai vin-odată, :/ mai vin-odată
+Porumbel ceresc şi sfânt
+Mai vin-odată, mai vin-odată
+La noi pe pământ.
+
+[s5]
+5.	Mi-e dor, mi-e dor de aceea clipă
+Când vei veni ca să ne iei
+Ca să ne duci în a Ta slavă
+În stolul Sfânt de porumbei.
+Cor:	/: Mai vin-odată, :/ mai vin-odată
+Porumbel ceresc şi sfânt
+Mai vin-odată, mai vin-odată
+La noi pe pământ.
+
+[s6]
+6.	Cobori, cobori la noi în vale
+Cobori din cerul Tău preasfânt
+Cobori la noi în adunare
+Cobori la noi jos pe Pământ.
+Cor:	/: Mai vin-odată, :/ mai vin-odată
+Porumbel ceresc şi sfânt
+Mai vin-odată, mai vin-odată
+La noi pe pământ.
+
+[order]
+s1,s2,s3,s4,s5,s6

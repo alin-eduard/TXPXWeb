@@ -1,0 +1,51 @@
+[s1]
+1879        Fa
+1. Pe Tin' te laud Isuse
+Pentru bunătatea Ta
+Pentru-a Ta milă nespusă
+Ce-o arăți în viața mea
+
+[s2]
+/:Eu am o călăuză
+Pe acest pământ străin
+Și-n orice-mprejurare
+Tu-mi ești al meu sprijin:/
+
+[s3]
+2. În noapte-ntunecoasă
+Calea să mi-o luminezi
+Și-n orice încercare
+Mereu să mă-mbărbătezi.
+
+[s4]
+/:Eu am o călăuză
+Pe Duhul Tău cel Sfânt
+Pe care mi L-ai dat
+Atunci când m-ai sigilat:/
+
+[s5]
+3. Mereu mă-mbărbătezi
+Când sunt descurajat
+Îmi dai putere sfântă
+Atunci când sunt încercat
+
+[s6]
+/:Să biruiesc în toate
+Orice atac străin
+Și lângă Tine Doamne
+Mereu vreau să rămân:/
+
+[s7]
+4. Ajută-ne o Doamne
+Să facem voia Ta
+Ca să putem ajunge
+Sus în cer în casa Ta
+
+[s8]
+/:Și-o veșnicie-ntreagă
+Mereu nedespărțiți
+Cu sfinții împreună
+Pe Isus să-L preamărim:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

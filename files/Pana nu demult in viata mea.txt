@@ -1,0 +1,36 @@
+[s1]
+Până nu demult în viaţa mea
+Duhul lumii mă călăuzea,
+Nu ştiam atunci că sunt trecător
+Pe acest pământ doar călător.
+
+[r1]
+Până când, Doamne Te-am văzut,
+De-atunci te caut mereu.
+Tu eşti tot ce-mi doresc
+Să îţi cânt, să te slăvesc,
+Fiindcă te iubesc.
+
+[s2]
+Mai demult credeam că sunt fericit,
+Pe nimicuri viaţa mi-am clădit,
+Alergam mereu ca un disperat
+Şi eram legat de-al meu păcat.
+
+[s3]
+Azi trăiesc prin har căci Tu m-ai iertat,
+Cel mai mare dar să fiu salvat.
+Şi acum privesc către veşnicii
+Unde lângă Domnul meu voi fi.
+
+[s4]
+Vreau să ştii, Doamne, sunt al Tău
+Şi Tu-mi eşti Dumnezeu,
+Te măresc şi îţi cânt,
+Fericit cu tine sunt.
+Te măresc şi îţi cânt,
+Fericit cu tine sunt,
+Doamne, te iubesc, te iubesc!
+
+[order]
+s1,r1,s2,r1,s3,s4

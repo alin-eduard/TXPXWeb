@@ -1,0 +1,37 @@
+[s1]
+Luminile cetăţii rând pe rând se sting
+Şi liniştea se-aşterne-n Betleem
+Doar îngeri albi în zbor,
+Uşor pământul îl ating
+Vestind un dar suprem
+În staulul rece in ieslea fără preţ
+Ai coborât smerit din cerul Tău
+Ai ales să mergi pe drumul lung
+De ură şi dispreţ,
+ISUS ,de dragul meu
+
+[r1]
+Ai venit pe pământ dintre stele şi îngeri,
+În staul sărac, în valea de plângeri
+Copil prea curat, Fiu de Dumnezeu,
+Ai ales să Te naşti şi să suferi
+Sufletul Tău petale de nuferi
+Va fi sfâşiat de dragul meu
+
+[s2]
+Ce taină adâncă, ce gest fără egal,
+Moarte să te-mbraci din nemurire
+Să cobori din slavă pe pământ
+Luând păcatul greu
+ISUS, de dragul meu
+
+[s3]
+În ieslea săracă un Fiu
+Cu chip plăpând de copil
+De D-zeu de dragul meu
+Din slavă Te-ai dezbrăcat
+Chip de om ai luat
+De D-zeu de dragul meu
+
+[order]
+s1,r1,s2,r1,s3,r1

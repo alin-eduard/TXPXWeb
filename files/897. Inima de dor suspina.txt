@@ -1,0 +1,53 @@
+[s1]
+897.Mi b
+1.  Inima de dor suspină
+După ţara cea de sus
+După ţara de lumină
+După Mirele Isus
+Cor:	/: Ah, mi-e dor, mi-e dor de-acasă
+De căminul minunat
+Unde sfinţii stau la masă
+Şi al meu Mire e-mpărat :/
+
+[s2]
+2.	Sus acolo-i ţara păcii
+Ţara veşnicei iubiri
+Ţara mângâierii mele,
+Ţara dulcei fericiri.
+Cor:	/: Ah, mi-e dor, mi-e dor de-acasă
+De căminul minunat
+Unde sfinţii stau la masă
+Şi al meu Mire e-mpărat :/.
+
+[s3]
+3.  Cântecele Tale sfinte
+Ţara mea, locaş iubit
+Şi de tine atât cât astăzi
+Niciodată n-am dorit
+Cor:	/: Ah, mi-e dor, mi-e dor de-acasă
+De căminul minunat
+Unde sfinţii stau la masă
+Şi al meu Mire e-mpărat :/.
+
+[s4]
+4.  Ţara dorurilor mele,
+Ţara Mirelui meu drag!
+Fă-mă să te văd mai iute
+Şi să-ţi trec doritul prag
+Cor:	/: Ah, mi-e dor, mi-e dor de-acasă
+De căminul minunat
+Unde sfinţii stau la masă
+Şi al meu Mire e-mpărat :/.
+
+[s5]
+5.  Dă-mi o clipă mai degrabă
+Să-ţi văd faţa de smaralgd
+Şi al meu suflet în oceanul
+Fericirii să mi-l scald.
+Cor:	/: Ah, mi-e dor, mi-e dor de-acasă
+De căminul minunat
+Unde sfinţii stau la masă
+Şi al meu Mire e-mpărat :/.
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,36 @@
+[s1]
+Eu sunt Calea a spus Domnul Isus
+Eu sunt calea care duce-n sus
+Sa pasiti cu-ncredere pe ea
+Chiar daca adesea va fi grea.
+
+[r1]
+Nu sunt numai flori pe cale,
+Sunt si lacrime amare
+Treci adesea si prin incercari
+Ca s-ajungi la biruinta
+Treci ades prin suferinta
+Numai incercat ajungi in cer.
+
+[s2]
+Pe aceasta cale nu-s placeri
+Nu e larga insa duce-n cer
+Piedici sunt adeseori pe ea
+Dar te duce-n patria Sa.
+
+[s3]
+Mai avem putin crucea de dus
+Dar la capat ne-asteapta Isus
+S-a dus sa ne pregateasca-n cer
+Loc sa fim de-a pururea cu El,
+
+[s4]
+Ce frumos va fi odata
+Sus in slava minunata
+Cu Isus Mirele nostru viu
+Vom uita de plans si jale
+Si de lacrime amare
+Si vom fi cu El in infinit.
+
+[order]
+s1,r1,s2,r1,s3,s4

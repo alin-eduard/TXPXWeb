@@ -1,0 +1,28 @@
+[s1]
+Când spre Tine îmi întorc privirea
+Se preschimbă noaptea în lumini
+Văd cum torni din adâncuri iubirea
+Din cereşti fântâni
+Tot necazul meu o umbră devine
+Şi descopăr bucurii de nespus
+Înţeleg rostul meu tot mai bine
+Preaiubit Isus.
+
+[r1]
+Mă-nchin o, Doamne,
+Şi Te slăvesc
+De-aceea trăiesc
+Doar să Te slăvesc X2
+
+[s2]
+Când spre Tine îmi întorc privirea
+Văd cum sfinte ruguri Te cuprind
+Bucuria-mi inundă trăirea
+De-al Tău jar m-aprind
+Doar în Tine îmi găsesc mântuirea
+De Cuvântul Tău mă simt întărit
+Şi-nţeleg care-mi este menirea
+Domnul meu iubit.
+
+[order]
+s1,r1,s2,r1

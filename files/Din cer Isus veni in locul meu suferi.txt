@@ -1,0 +1,30 @@
+[s1]
+Din cer Isus veni,
+in locul meu suferi
+Ca eu, un vinovat, să trăiesc.
+Crucea grea a luat,
+păcatul mi-a purtat
+De-aceea mă-nchin şi-L slăvesc.
+
+[r1]
+Pe cruce pironit, El viaţa Şi-a jertfit
+O, ce mult Domnul meu m-a iubit !
+El osînda-a luat, mie viaţă mi-a dat
+Pe Calvar pentru mine-a răbdat
+
+[s2]
+Biciuit şi zdrobit, foarte greu chinuit
+În locul meu Isus a răbdat.
+Dezbrăcat şi hulit, pe cruce pironit
+El muri pentru al meu păcat.
+
+[s3]
+Azi, cum sînt, mă predau,
+să-Ţi slujesc Ţie vreau
+Nicicînd nu Te voi părăsi!
+Voi umbla-n calea Ta şi mereu
+Îţi voi cînta
+Pînă-n slavă Te voi întalni.
+
+[order]
+s1,r1,s2,r1,s3,r1

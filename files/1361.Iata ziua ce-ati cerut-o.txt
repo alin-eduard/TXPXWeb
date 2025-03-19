@@ -1,0 +1,39 @@
+[s1]
+1.	Iată ziua ce-aţi cerut-o
+De la Domnul pentru voi
+Jurământul unul altuia vi-l daţi
+Bucurii avem în suflet
+Căci şi astăzi printre noi
+Duhul Sfânt din ’nalta slavă l-am simţit.
+Cor:    	E o zi în care voi
+Jurământul unul altuia vi-l daţi
+Domnul Sfânt la sigilat
+Şi vă ajută până la capăt să-l păstraţi.
+1361.Fa
+
+[s2]
+2.	Floarea dragostei întruna
+Înflorită să o păstraţi
+Toată viaţa pentru voi să fie un vis
+Cereţi Domnului în viaţă
+Să fiţi binecuvântaţi
+Şi cununa să v-o dea în Paradis.
+Cor:    	E o zi în care voi
+Jurământul unul altuia vi-l daţi
+Domnul Sfânt la sigilat
+Şi vă ajută până la capăt să-l păstraţi.
+
+[s3]
+3.	Razele iubirii sfinte
+Să-ncălzească al vost’ cămin
+Diamantul fericirii să-l păstraţi
+Căci la Domnul toată viaţa
+Veţi găsi al vost sprijin
+Dacă vreţi mereu pe El să îl urmaţi.
+Cor:    	E o zi în care voi
+Jurământul unul altuia vi-l daţi
+Domnul Sfânt la sigilat
+Şi vă ajută până la capăt să-l păstraţi.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,39 @@
+[s1]
+Tu eşti Dumnezeu,
+Eşti Creatorul universului.
+Ce-ai făcut cu mâna Ta,
+Onoare îţi va da
+Căci Tu eşti Dumnezeu,
+
+[s2]
+Tu eşti Dumnezeu
+Şi omenirea e creaţia Ta
+Şi oricât noi am încerca
+Să luăm din slava Ta
+Nicicând nu vom putea.
+
+[r1]
+Tu eşti minunat,
+Noi ne-nchinăm
+Şi laude-ţi cântăm.
+Şi tot ce ai creat e binecuvântat,
+Căci Tu eşti Dumnezeu.
+
+[s3]
+Tu eşti Dumnezeu
+Şi-n faţa Ta
+Cu toţi ne vom pleca
+Şi dintre toate rând pe rând
+Privind şi judecând
+Doar Tu eşti Dumnezeu.
+
+[s4]
+Tu eşti minunat,
+Noi ne-nchinăm
+Şi slavă îţi cântăm.
+Din toată inima
+Mereu îţi vom cânta
+Căci Tu eşti Dumnezeu.
+
+[order]
+s1,s2,r1,s3,s4,r1

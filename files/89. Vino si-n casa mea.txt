@@ -1,0 +1,37 @@
+[s1]
+89.
+Cor:  /:Vino şi-n casa mea:/
+Când furtuna este grea
+Şi rămâi pe veci în ea
+
+[s2]
+1. Şi când spinii rău mă-npung
+Şi n-am unde să m-ascund
+Când povara-i tot mai grea
+Vino Tu şi-n casa mea.
+
+[r1]
+Cor: /:Vino şi-n casa mea:/
+Când furtuna este grea
+Şi rămâi pe veci în ea
+
+[s3]
+2. Vânturile reci când bat
+Peste-ogorul cu răsad
+Ca să rupă tot ar vrea
+Vino Tu şi-n casa mea.
+
+[s4]
+3. Un val cheamă un alt val
+Peste-al inimii hotar
+Ca să treacă doar ar vrea
+Vino Tu şi-n casa mea.
+
+[s5]
+4. Zi Tu numai un cuvânt
+Şi atunci tot ce e sfânt
+Capu-n sus şi-l va ţinea
+Vino Tu şi-n casa mea.
+
+[order]
+s1,s2,r1,s3,r1,s4,r1,s5,r1

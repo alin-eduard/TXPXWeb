@@ -1,0 +1,38 @@
+[s1]
+1697.                  Do #
+1. În lumea tulburată de păcate
+Se-aude o veste Isus trăieşte
+În bezna lumii iată o lumină
+Cuvântul vieţii se răspândeşte
+
+[r1]
+Cor:	Rază venită din cer
+Lumină sfântă azi mă inundă
+Şi să-mi aprinzi inima
+Isus intră în viaţa mea
+Lumină venită de sus
+E pentru mine e pentru tine
+Te cheamă să-i dai răspuns
+Hai vino şi tu la Isus
+
+[s2]
+2. Se întâmplă tot ce zice
+În Scriptură
+Şi lumea toată e-ngrijorată
+Dar toţi acei ce vor veni la Domnul
+Isus îi iartă
+
+[s3]
+3. Păcatul se ridică pretutindeni
+Pe uşa largă ce mulţi aleargă
+Opriţi-vă şi credeţi în lumină
+Veniţi la Domnul,El vă desleagă
+
+[s4]
+4. Ascultă glasul celui ce te cheamă
+Te mântuieşte căci te iubeşte
+O vino la Isus cu a ta povoară
+Lumina vieţii azi te primeşte
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,37 @@
+[s1]
+Vezi ziua s-a dus
+Şi seara-i pe drum
+Soarele spre-apus
+Coboară de-acum
+Priveşte în sus
+Splendori vei vedea
+Acolo-i Isus mântuirea ta.
+
+[r1]
+/: Azi vrem să te-ntorci
+Cât mai este zi
+Curând tu vei vrea
+Dar nu vei mai putea
+Uşa se va-ncuia. :/
+
+[s2]
+Noaptea va veni si îţi va lua
+Speranţa ce zici
+C-o mai poţi avea
+Hai vino acum
+Mult timp n-a rămas
+Căci noaptea-i pe drum
+E chiar la un pas.
+
+[s3]
+Rămâne de-acum
+Să te hotărăşti
+Alege-ţi un drum
+Şi-apoi să porneşti
+Spre cer e mai greu
+Dar eşti răsplătit
+Căci sufletul tău
+Va fi mântuit.
+
+[order]
+s1,r1,s2,r1,s3,r1

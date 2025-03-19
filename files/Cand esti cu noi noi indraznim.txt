@@ -1,0 +1,32 @@
+[s1]
+Cînd eşti cu noi, noi îndrăznim
+Luptînd în Numele Tău mare
+Prin harul Tău noi biruim
+În orice luptă şi-ncercare.
+Învingem cînd eşti cu noi, Isus
+De Tine inimile-s pline
+Cînd Te-ascultăm, atunci mereu, Isus
+Biruitori sîntem prin Tine.
+
+[s2]
+Cînd eşti cu noi, sîntem bogaţi
+Şi tresăltăm de bucurie
+Cu-a tale daruri îmbrăcaţi
+Sîntem plăcuţi pe veşnicie.
+Învingem cînd eşti cu noi, Isus
+De Tine inimile-s pline
+Cînd Te-ascultăm, atunci mereu, Isus
+Biruitori sîntem prin Tine.
+
+[s3]
+Cînd eşti cu noi, avem belşug
+De pîine şi de apă sfîntă
+Cînd Tu eşti totul pentru noi
+În luptă, inimile cîntă.
+Învingem cînd eşti cu noi, Isus
+De Tine inimile-s pline
+Cînd Te-ascultăm, atunci mereu, Isus
+Biruitori sîntem prin Tine.
+
+[order]
+s1,s2,s3

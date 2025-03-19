@@ -1,0 +1,43 @@
+[s1]
+1953
+1. Ascunde-te în adevăr
+Ascunde-te-n Cuvântul Sfânt
+Şi nici cât firul mic de păr
+Să nu te temi pe-acest pământ
+Adevărul e cetatea veşnică şi tare
+Cine fuge-n ea îşi află pe deplin scăpare
+Dumnezeu e adevărul
+Dumnezeu cel sfânt
+Prin al Său cuvânt
+/: Şi în cer şi pe pământ:/
+Dumnezeu, Dumnezeu cel sfânt.
+
+[s2]
+2. Ascunde-te-n iubire-oricând
+Ascunde-te în fapta ei
+Chiar dacă umbli suspinând
+Ea este-al vieţii noi temei
+Căci iubirea şi-adevărul sunt cetate tare
+Cine fuge-n ea îşi află pe deplin scăpare
+Dumnezeu e-n veci iubire
+Şi-adevăr nenfrânt
+Prin al său cuvânt
+/: Şi în cer şi pe pământ :/
+/: Dumnezeu :/ cel sfânt.
+
+[s3]
+3. Ascunde-te în tot ce-a spus
+Nemărginitul Dumnezeu
+Şi harul Lui cel făr-apus
+Te va înfăşura mereu
+Harul, harul e cetatea
+Veşnică şi tare
+Cine fuge-n ea îşi află pe deplin scăpare
+Dumnezeu e harul veşnic
+Dumnezeu cel sfânt prin al său cuvânt
+/: Şi în cer  şi pe pământ:/
+Dumnezeu, Dumnezeu
+Dumnezeu cel sfânt.
+
+[order]
+s1,s2,s3

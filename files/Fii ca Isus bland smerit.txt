@@ -1,0 +1,26 @@
+[s1]
+Fii ca Isus: blând, smerit şi umilit,
+Numai aşa vei putea fi fericit.
+Scopul tău să fie numai de-a-L iubi
+Zilnic din Cuvântul Său a te hrăni.
+
+[r1]
+Dacă lui Isus te vei asemăna
+Raiul de pe-acuma îţi va fi plata.
+Fie zi cu soare, fie înnorat
+Fericire veşnică tu ai aflat.
+
+[s2]
+Lumea nu te poate face fericit
+Deşi multe suflete a amăgit.
+Toate-a ei plăceri trec fără de folos
+Viaţa noastră este numai în Cristos.
+
+[s3]
+Dacă Domnul Isus te va ajuta
+Slava Lui cerească vei putea gusta.
+Şi când pe nori din cer El va veni
+împreună noi cu toţi acolo-om fi !
+
+[order]
+s1,r1,s2,r1,s3,r1

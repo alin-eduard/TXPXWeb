@@ -1,0 +1,32 @@
+[s1]
+La poalele cetăţii verde,
+Acest locaş s-a înălţat.
+În care locuieşte Domnul,
+Ce har ne-a binecuvântat.
+
+[r1]
+Betanie, Betanie…
+În Tine vom găsi nespuse bucurii
+Căci Domnul Dumnezeu
+iubeşte mult poporul Său.
+
+[s2]
+Aici afla-vor alinare,
+Sărmane Marte şi Marii.
+Şi Lazări vor ieşi din moarte,
+Când Duhul Sfânt le va vorbi
+
+[s3]
+În Casa Domnului dau mâna,
+Bogaţii cu acei săraci.
+Bătrâni şi tineri deopotrivă-s,
+Pe calea pocăinţei fraţi.
+
+[s4]
+Isus e Domnul Împăratul,
+Şi mare Preot la altar.
+Veniţi creştini la închinare,
+Să-I ducem inima în dar.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

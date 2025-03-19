@@ -1,0 +1,26 @@
+[s1]
+Oare cine ne iubeşte
+Dintre fiinţe cel mai mult ?
+Cine, cine-ar vrea în viaţă
+Tot mai mult ca să-L ascult ?
+
+[r1]
+Cine-i oare fiinţa care
+Ne iubeşte chiar aşa de mult ?
+Este Domnul, Domnul Isus
+Şi doresc de sfatu-I să ascult.
+
+[s2]
+Coborîtu-Sa din ceruri
+Blînd, umil la noi veni
+Şi pe Golgota pe cruce
+Pentru mine se jertfi.
+
+[s3]
+A murit în locul meu
+Acest Fiu de Dumnezeu
+Ca prin sîngele vărsat
+Să mă spele de păcat.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,59 @@
+[s1]
+1. Călătorind prin ţară,
+Merg mereu cântând
+Îndreptând sufletele
+Către cerul sfânt
+Multe dureri mă străpung
+Prin lume aici jos
+O, cât Îl iubesc pe El,
+Pe Isus Hristos
+495.
+
+[r1]
+Cor: Ah, doresc să-L văd
+Şi în faţă să-L privesc
+Şi să cânt în etern
+De harul ceresc
+Pe străzile gloriei eu voi răsuna
+Necazurile-or trece
+Şi-n cer voi cânta.
+
+[s2]
+2. Fiind în serviciul Lui
+Crucea-mi va fi grea
+Dar stând aproape de El
+Mă va ajuta
+Satan să m-atace zilnic va-ncerca
+Dar Domnul mă conduce
+Orice s-a-ntâmpla.
+
+[s3]
+3. Când valul se ridică pe marea vieţii
+Nu mă tem că voi pieri
+Să fiu dat morţii
+El frumos mă conduce
+Prin lume aici jos
+O, cât Îl iubesc pe El,
+Pe Isus Hristos.
+
+[s4]
+4. Când mă văd prin văi adânci
+Spre înălţimi privesc
+Unde-L văd pe Domnul Sfânt
+Mielul cel ceresc
+Şi văd braţul Său întins
+Spre mine-n vale
+Conducând El paşii mei
+Pe a Sa cale.
+
+[s5]
+5. Şi când lupta s-a sfârşi
+La El m-a lua
+Pe faţă m-a mângâia
+Ştergând lacrima
+La dreapta Sa m-a aşeza
+Dându-mi cununa
+Şi aşa cu El în veci mă voi bucura.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,40 @@
+[s1]
+Doar prin iubire
+Ma-nalt la tine
+Cu cantecul de dor
+De aceea iti voi canta
+Din toata Inima
+cu toata dragostea
+Ce o port in suflet
+
+[r1]
+Doar prin iubire
+Ma-nalt la tine
+Cu cantecul de dor
+De aceea iti voi canta
+din toata Inima
+cu toata dragostea
+Ce o port in suflet
+
+[s2]
+Cum as putea sa iti cant
+Cum as putea sa iti spun
+De dorul meu cel Sfant
+Sa ajung in ceruri
+Doar prin iubirea ta
+Eu pot mereu canta
+Si intreaga jertfa mea
+Sa fie sfanta
+
+[s3]
+Fara iubire
+Sunt un bulgar de pamant
+Un muritor infrant
+De mii de patimi
+Dar prin iubirea ta
+Mereu voi ridica
+Spre cer privirea mea
+Cu bucurie
+
+[order]
+s1,r1,s2,r1,s3,r1

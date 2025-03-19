@@ -1,0 +1,41 @@
+[s1]
+1. Te vrea poporul Tău azi Isuse
+Popor ce este-n nevoi
+/: Căci oastea Ta e-n plină luptă
+Isuse vino la noi :/.
+115.
+
+[s2]
+2. Dreptatea, iubire nu este în inimi
+Poporul piere în nevoi
+/: Strigând spre ceruri
+Te cheamă iarăşi
+Isuse vino la noi :/.
+
+[s3]
+3. Astăzi sunt zile de grea durere
+Sosit-a vremea de apoi
+/: Te vrea poporul Tău
+Şi Te cheamă
+Isuse vino la noi :/.
+
+[s4]
+4. Te vrea poporul Tău care plânge
+Rănit în crude nevoi
+/: O nouă jertfă îţi cere lumea
+Isuse vino la noi :/.
+
+[s5]
+5. Isuse blândul nostru Păstor
+Pătruns-au lupii la oi
+/: Prădat-au iarăşi turma Ta mică
+Isuse vino la noi :/.
+
+[s6]
+6. Te vrea poporul Tău azi Isuse
+Popor ce piere în nevoi
+/: Au lipsă Doamne de mângâiere
+Isuse vino la noi :/.
+
+[order]
+s1,s2,s3,s4,s5,s6

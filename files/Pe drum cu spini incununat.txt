@@ -1,0 +1,33 @@
+[s1]
+/: Pe drum cu spini încununat,
+Cu crucea-n spate, nemâncat, :/
+/: Isus azi trece iar. :/
+Fa major
+
+[s2]
+/: E cald şi crucea-I este grea;
+Sudori se scurg din fruntea Sa :/
+/: Şi spini-L dor amar. :/
+
+[s3]
+/: El, în tăcere, suie dealul.
+El singur Îşi goli paharul :/
+/: Ce dat I-a fost să-L bea. :/
+
+[s4]
+/: Priviţi-L cum Se uită blând
+La cei ce Îl hulesc scuipând, :/
+/: În sfânta-I faţa Sa. :/
+
+[s5]
+/: Dar pentru cine-a răbdat toate?
+Gândeşte-te, iubite frate, :/
+/: Gândeşte pân-eşti viu! :/
+
+[s6]
+/: Gândeşte-te, căci mâine, poate,
+Te va chema Dumnezeu, frate, :/
+/: Şi-atunci va fi târziu... :/
+
+[order]
+s1,s2,s3,s4,s5,s6

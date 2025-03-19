@@ -1,0 +1,23 @@
+[s1]
+/: Fiindcă Duhul Domnului
+E asupra mea
+Voi cânta ca şi David. :/
+/: Voi cânta, voi cânta
+Voi cânta ca şi David. :/
+
+[s2]
+/: Fiindcă Duhul Domnului
+E asupra mea
+Voi lupta ca şi David. :/
+/: Voi lupta, voi lupta
+Voi lupta ca şi David. :/
+
+[s3]
+/: Fiindcă Duhul Domnului
+E asupra mea
+Eu mă rog ca şi David. :/
+/: Eu mă rog, eu mă rog
+Eu mă rog ca şi David. :/
+
+[order]
+s1,s2,s3

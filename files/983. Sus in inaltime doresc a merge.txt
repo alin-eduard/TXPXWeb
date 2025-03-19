@@ -1,0 +1,27 @@
+[s1]
+983.
+1. Sus în înălţime doresc a merge
+Unde şi sufletul meu are parte.
+2. O, acest pământ nu-i ca acel sfânt
+Dar Isus mă cheamă
+Să nu fiu străin.
+3. Dulce Isuse, o, ajută-mă
+Să stau înaintea Ta veselindu-mă.
+
+[s2]
+4. Ochii multora cum vor lăcrima
+La odihnă le doreşte inima.
+5. O, nu mai plânge fii cu nădejde
+În curând al tău necaz
+Se sfârşeşte.
+6. Degrabă veni ziua odihnei
+Lacrimile ţi se vor şterge,
+N-or mai fi.
+
+[s3]
+7. Isus a răbdat şi al tău păcat
+Iertând, sufletul tău
+L-a răscumpărat.
+
+[order]
+s1,s2,s3

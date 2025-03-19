@@ -1,0 +1,36 @@
+[s1]
+La Tine vin, Isuse,
+La Tine vin, cum sunt!
+Primeste-ma, cu mila,
+La pieptul Tau cel sfant!
+
+[r1]
+/: Eu n-am ce-Ti da: :/
+Numai inima mea
+
+[s2]
+Primeste-ma, cu mila,
+Si da-mi ulei in vas,
+Sa nu cad de pe cale,
+Chiar cand sunt in necaz.
+
+[s3]
+Cand valurile crec
+Asupre-mi navalesc,
+Ajuta-ma, Isuse,
+Sa pot sa biruiesc1
+
+[s4]
+Si Te mai rog, Isuse,
+Intareste-altarul meu
+Acolo unde, zilnic,
+Eu chem Numele Tau!
+
+[s5]
+Apoi, sfinteste-mi viata
+Sa pot ingenunchea,
+Cantadu-ti osanale,
+Doamne, spre slava Ta!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

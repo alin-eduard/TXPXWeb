@@ -1,0 +1,76 @@
+[s1]
+1.	Pe marea vieţii valuri se ridică
+Iar noi printre valuri
+Cu greu înaintăm
+Vino Tu Isuse în a noastră barcă
+Căci noi fără Tine
+În val ne cufundăm.
+1031.
+
+[s2]
+2.    Furtuni-s mai mari azi
+Ca niciodată
+Şi puţini sunt cei ce
+Luptă-ntr-al vieţii val
+Vino Tu Isuse
+În a noastră barcă
+Până vom ajunge
+La cerescul mal.
+
+[s3]
+3.	Mulţi îşi pierd nădejdea
+În cumplita lume
+Iar pe alţii valurile i-au acoperit
+Vino Tu Isuse
+Şi salvează-Ţi astăzi
+Tot ce se mai poate
+Şi ce n-a pierit.
+
+[s4]
+4.	 Mică e credinţa chiar
+La cei ce-aşteaptă
+Şi pe altarul sfânt
+Nu mai este jar
+Vino Tu Isuse
+Aprinde-ţi iubirea
+Fă să ardă jertfa
+Pusă pe altar.
+
+[s5]
+5.	 Chiar străjerii casei
+Puşi ca să vegheze
+N-au sunat din trâmbiţi
+La al Tău popor
+Vino Tu Isuse
+Şi-Ţi îmbărbătează
+Pe a Ta mireasă ce-i jos
+Pe pământ.
+
+[s6]
+6.	  Căci e aproape Doamne
+Ziua revederii
+Dar credinţa noastră
+Piere rând pe rând
+Vino Tu Isuse
+Trezeşte-Ţi mireasa
+Ce e sigilată cu Duhul Tău
+Cel Sfânt.
+
+[s7]
+7.	Dă-i multă putere,
+Multă umilinţă
+Haina să-şi păstreze
+Până când Tu vii
+Ca să poţi ajunge sus acolo unde
+O să-ţi duci acasă pe ai Tăi copii.
+
+[s8]
+8.	Căci numai la Tine este bucurie                          	A noastră nădejde
+Tu eşti pe pământ
+Deci grăbeşte Doamne,
+Vino mai curând
+Ridică-i pe-ai Tăi
+Ce te-aşteaptă aici plângând.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

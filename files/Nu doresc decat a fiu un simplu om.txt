@@ -1,0 +1,28 @@
+[s1]
+Nu doresc decat,
+Sa fiu un simplu om.
+Si sa fiu placut ‘naintea Ta
+Daca cei din jur m-ar parasi,
+Tu ramai mereu taria mea
+
+[r1]
+Mai bine simplii si smeriti
+si de Dumnezeu iubiti
+
+[s2]
+Numai Tu Isus,
+Ma placi asa cum sunt.
+Cand mi-e greu,
+Doar Tu ma intaresti
+Te voi lauda cu al meu cant,
+M-ai iubit si inca ma iubesti.
+
+[s3]
+Niciodata Doamne,
+Nu m-ai parasit.
+Ai fost langa mine-n incercari,
+M-ai iertat si-atunci cand ti-am gresit,
+Am vazut a Tale indurari.
+
+[order]
+s1,r1,s2,r1,s3,r1

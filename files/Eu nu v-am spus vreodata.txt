@@ -1,0 +1,44 @@
+[s1]
+Eu nu v-am spus vreodată, vă voi da bogaţii.
+Nici că frigul nopţi, sau văpaia nu le veți simţi.
+Am promis ca prin toate, eu lângă voi sunt...!!!
+Să nu uitați, viața e doar un drum.
+Eu n-am promis că voi, fără teama veți trăi,
+Sau ca niciodată singuri, voi nu vă veți simţi.
+Dar sa nu uitați, mereu vă voi însoţi.
+Totdeauna; Eu vă voi sprijini.
+
+[s2]
+Caci voi împlini întocmai, asa cum v-am promis.
+Al meu har vă însoţeşte, şi vă va fi îndeajuns
+Vă dau a mea Iubire ca ancoră şi scut.
+Voi fi cu voi, Voi fi cu voi: Eu vă Promit!!!
+
+[s3]
+Nici când nu v-am promis că prieteni falşi nu veți avea.
+Si nici câ-ntotdeauna, Lumea vă va admira,
+Dar v-am spus că, ades, veți fi dispreţuiți
+Doar cei vrednici, calea o vor sfârşi.
+Eu n-am spus că nu veți simţi al morţii trist sărut,
+Si nici că veți intra n-odihnă, Iordanul ocolind...!!!
+Dar v-am spus vâ-ntâmpin, pe malul celălalt.
+Și voi şterge, cu Dragoste Lacrima.
+
+[s4]
+Caci voi împlini întocmai, asa cum v-am promis.
+Și în curând când voi veni, în ochi mă veți privi
+Cu îngeri alături veți cânta în veșnicii
+Veți fi cu Mine, Veți fi cu Mine: Eu vă Promit!!!
+Caci voi împlini întocmai, asa cum v-am promis.
+Al meu har vă însoţeşte, şi vă va fi îndeajuns
+Vă dau a mea Iubire ca ancoră şi scut.
+Voi fi cu voi, Voi fi cu voi: Eu vă Promit!!!
+
+[s5]
+Deci mergeți înainte, nici un pas nu ezitați.
+În ceața nopţii densă, aveți lumina mea
+Nimic din lumea aceasta, vă poate despărţi.
+/:Voi fi cu voi, Voi fi cu voi; Eu vă Promit:/
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,19 @@
+[s1]
+/: Tată ceresc, pe Tine te slăvesc :/
+Te iubesc, Te doresc,
+viaţa Ţi-o dăruiesc
+Tată ceresc, pe Tine Te slăvesc !
+
+[s2]
+/: Fiu al lui Dumnezeu, eşti măreţ ! :/
+Tu mi-ai spălat păcate
+şi m-ai umplut cu Duh
+Fiu al lui Dumnezeu, eşti măreţ !
+
+[s3]
+/: Duh Preasfânt, tu eşti Mângâietor. :/
+Tu conduci şi trăieşti în viaţa noastră
+Duh Preasfânt, tu eşti Mângâietor.
+
+[order]
+s1,s2,s3

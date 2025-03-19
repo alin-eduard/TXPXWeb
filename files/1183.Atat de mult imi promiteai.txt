@@ -1,0 +1,60 @@
+[s1]
+1183.
+1.     Atât de mult îmi promiteai
+Fără să ştiu că mă-nşelai
+Şi ce uşor eu te-am crezut
+Şi-n cursă ţi-am căzut
+Îmi arătai numai plăceri
+Dar mai târziu chin şi dureri
+Mă copleşiră rând pe rând
+Iar azi sunt gol şi plâng.
+
+[s2]
+Cor:   Tu lume m-ai orbit
+Şi m-ai dezamăgit
+Şi viaţa mi-ai întunecat
+Şi-n lanţuri m-ai legat.
+
+[s3]
+2.  Ca fiul cel risipitor
+Pierdut am fost voiam să mor
+Departe de poporul meu şi fără Dumnezeu
+Nici roşcove măcar n-aveam
+Şi cât de mult mi le doream
+Murdar şi rupt şi zdrenţuit, uitat şi părăsit
+Cor:   	    Tu lume m-ai orbit
+Şi m-ai dezamăgit
+Şi viaţa mi-ai întunecat
+Şi-n lanţuri m-ai legat.
+
+[s4]
+3.   Târziu în fire mi-am venit
+Şi către casă am pornit
+Flămând lovit şi obosit de-atâta pribegit
+Măcar ca rob de m-ai primi
+O Tată bun Ţi-aş mulţumi
+Căci nu sunt vrednic bine ştiu
+Să mă primeşti ca fiu.
+Cor:	O cât te-am aşteptat
+Şi cât te-am căutat
+Am fost mort dar am înviat
+Şi vina mi-a iertat.
+
+[s5]
+4.    Cu dragoste iar mai primit
+O Domnul meu că m-ai iubit
+Trecutul meu Tu l-ai uitat
+Fii veşnic lăudat
+Prieten drag tu eşti chemat
+Încă eşti rob şi-ncătuşat
+Azi încă nu e prea târziu
+Să fii primit ca fiu.
+
+[s6]
+Cor:	    Renunţ la tine acum
+La lume cu-al ei drum
+Cu Domnul meu vreau să rămân
+Şi-n veci să mă supun.
+
+[order]
+s1,s2,s3,s4,s5,s6

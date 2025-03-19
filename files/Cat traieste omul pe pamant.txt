@@ -1,0 +1,44 @@
+[s1]
+Cat traieste omul pe pamant
+Viata lui e ca o frunza-n vant
+/: Vantu-o poarta orisiunde-ar vrea
+Fiindca s-a desprins de creanga sa. :/
+
+[s2]
+Asa e omul far de Dumnezeu
+Pan la urma-i merge rau
+S-a desprins de mana Domnului
+Si-a ajuns un om al nimanui
+Asa e omul far de Dumnezeu
+Pan la urma-i merge rau
+S-a desprins de mana Domnului
+Si-a ajuns un om al nimanui
+
+[s3]
+Te-ai trudit sa strangi pe-acest pamant
+Si tu ai sa mori cat mai curand
+/: Ai crezut ca lumea-i toata a ta
+Si de tin nimic n-o ramanea. :/
+
+[s4]
+Asa e omul far de Dumnezeu
+Pan la urma-i merge rau
+S-a desprins de mana Domnului
+Si-a ajuns un om al nimanui
+
+[s5]
+Astazi dac-auzi cuvantul Sau
+Poti sa te impaci cu Dumnezeu
+/:Vei scapa de orice chin si greu
+Spune “Doamne vreau sa fiu al Tau”.:/
+
+[s6]
+/:Pentru marile-ndurari
+Pentru binecuvantari
+Voi canta voi lauda pe Dumnezeu
+Pentru harul minunat
+Pentru pacea ce-am aflat
+Voi canta lui Dumnezeu neincetat.:/
+
+[order]
+s1,s2,s3,s4,s5,s6

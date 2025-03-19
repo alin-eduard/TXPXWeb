@@ -1,0 +1,42 @@
+[s1]
+La hotar de an trecut,
+Suflete, te-opreşte,
+Peste drumul petrecut,
+Înapoi priveşte,
+Câte taine, câte stări
+Fericit trăite,
+Câte binecuvântări,
+Zilnic înnoite!
+
+[s2]
+Câte lacrimi şi căinţi,
+Urmelor lăsate,
+Câte jertfe şi dorinţi
+Dragostei curate,
+Ce ‘nălţări şi ce căderi
+Ne-au uimit privirea,
+Ce comori şi ce dureri
+Umplu amintirea!
+
+[s3]
+Am lăsat prin nopţi de chin
+Soare şi morminte,
+Urme celor care vin
+Peste veci ‘nainte,
+Am lăsat pe drum de jar
+Sânge şi izvoare,
+Mărturii de cânt şi har
+Vremii viitoare!
+
+[s4]
+Dumnezeule slăvit,
+Inima se-nchină,
+Fă din tot ce Ţi-am jertfit,
+Cale de lumină.
+Fă lucrarea Ta de har
+Oaste nesfârşită,
+Peste ultimul hotar
+S-o vedem slăvită!
+
+[order]
+s1,s2,s3,s4

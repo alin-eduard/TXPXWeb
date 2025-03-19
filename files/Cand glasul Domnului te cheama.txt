@@ -1,0 +1,32 @@
+[s1]
+Când glasul Domnului te cheamă,
+O, suflet scump, de ce n-asculţi?
+De ce tot mergi pe calea care
+I-a dus în iad, pe cei mai mulţi.
+
+[r1]
+/: O, vino-ntoarce-te şi lasă
+Păcatele în cari trăieşti!
+Din mâna Domnului, iertarea
+Acum, chiar azi, poţi s-o primeşti!:/
+
+[s2]
+De ce-I nesocoteşti chemarea?
+De ce nepăsător petreci?
+Nu-ţi pasă ţie de-al tău suflet?
+De ce vrei să ţi-l pierzi, pe veci?
+
+[s3]
+Azi uşa harului-i deschisă
+Şi poţi şi tu să treci prin ea;
+Iertarea de păcat, te-aşteaptă!
+Oare nici azi, să vii, n-ai vrea?
+
+[s4]
+Să nu mai laşi să treacă vremea!
+Să nu zici: "Mâine voi veni!“
+Azi poate-i ultima chemare
+Şi mâine, prea târziu va fi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

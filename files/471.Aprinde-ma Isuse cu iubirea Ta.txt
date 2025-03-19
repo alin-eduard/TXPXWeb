@@ -1,0 +1,27 @@
+[s1]
+1. /:Aprinde-mă Isuse cu iubirea Ta:/
+/:Ca eu totdeauna
+De dor să-Ţi pot cânta.:/
+2. /:Aprinde-mă Isuse
+Cu focul Tău ceresc:/
+/:Ca eu totdeauna
+De dor să mă topesc.:/
+471.    Re m
+
+[s2]
+3. /:O lasă-mă Isuse lângă Tine să fiu:/
+/:Căci în jur de mine totul e pustiu.:/
+4. /:O lasă-mă Isuse
+Să-mi razem capul meu:/
+/:Cum odinioară ucenicul Tău:/.
+
+[s3]
+5. /:La cina Ta cea mare i-ai îngăduit:/
+/:Să-şi rezeme capul
+Pe pieptul Tău cel sfânt.:/
+6. /:Căci Tu eşti nădejdea
+Noastră pe pământ:/
+/:Isus Rege mare în cer şi pe pământ.:/
+
+[order]
+s1,s2,s3

@@ -1,0 +1,14 @@
+[r1]
+Hai şi lăudaţi pe Domnul sfânt
+Voi ce vă-nchinaţi în casa Lui.
+/: Ridicaţi-vă mâinile spre cer
+Şi-l lăudaţi, lăudaţi-l pe El :/ X2
+
+[s1]
+Binecuvântaţi pe Domnul sfânt
+Cei ce ascultaţi cuvântul Său.
+/: Ridicaţi-vă mâinile spre cer
+Şi-l lăudaţi, lăudaţi-l pe El :/ X2
+
+[order]
+r1,s1,r1

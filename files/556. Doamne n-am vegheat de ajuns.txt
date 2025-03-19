@@ -1,0 +1,38 @@
+[s1]
+1.Doamne n-am vegheat de ajuns
+Şi vrăjmaşul m-a străpuns
+N-am luptat cum mi-ai vorbit
+Şi vrăjmaşul m-a rănit.
+556.    							     Mi m
+
+[r1]
+Cor:
+Doamne iar dă-mi Tu har
+Ca să nu lupt în zadar.
+
+[s2]
+2.N-am încins mijlocul meu
+Cu adevărul Tău cel greu
+N-am luat credinţa scut
+Şi vrăjmaşul m-a căzut.
+
+[s3]
+3. Platoşa de in curat
+Atunci eu n-am îmbrăcat
+N-am scos spadă al Tău cuvânt
+Şi vrăjmaşul m-a înfrânt.
+
+[s4]
+4. Rugăciunea nu mi-a fost
+Locul sfânt de adăpost
+Strajă cum mi-ai spus n-am stat
+Şi vrăjmaşul m-a culcat.
+
+[s5]
+5.Doamne prin eternu-Ţi har
+Fă-mă cum Îţi place iar
+Steagul Tău şi lupta Ta
+Să le pot curat purta.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

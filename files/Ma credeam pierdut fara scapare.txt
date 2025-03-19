@@ -1,0 +1,28 @@
+[s1]
+Mă credam pierdut, fără scăpare
+Chinuit în umbra morţii reci,
+Nu puteam să sper într-o salvare
+Şi credeam că-s condamnat pe veci.
+Când deodată-n juru-mi s-a făcut lumină
+Şi-o Fiinţă blândă m-a chemat,
+Mi-a şoptit că mi-e iertată vina
+Şi păcatul îmi este spălat
+
+[r1]
+O, Isus, m-ai salvat,
+Te iubesc ne-ncetat!
+Viaţa mea e a TA,
+Vreau să cânt pe veci iubirea Ta!
+
+[s2]
+Am aflat că-n dragostea-Ţi cea mare
+Suferinţa cruntă ai gustat,
+Pot trăi şi eu cu Tine veşnic,
+Ai plătit Tu preţul şi-s iertat.
+Am rămas uimit de marea Ta iubire
+Pentr-un păcătos neînsemnat.
+Când în juru-Ţi sunt atâţia îngeri,
+Ce-Ţi slujesc şi n-au nici un păcat.
+
+[order]
+s1,r1,s2,r1

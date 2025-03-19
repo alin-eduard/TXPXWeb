@@ -1,0 +1,30 @@
+[s1]
+O, ce veste minunată
+În Betleem ni se-arată,
+/: Că a născut Prunc,
+Prunc din Duhul Sfânt,
+Fecioara Maria. :/
+
+[s2]
+Că la Betleem Maria
+Săvârşind călătoria,
+/: În sărac sălaş,
+Lângă-acel oraş,
+Naşte pe Mesia. :/
+
+[s3]
+Pe Fiul Cel din vecie
+ce L-a trimis Tatăl mie
+/: Să Se nască
+Și să crească,
+Să ne mântuiască. :/
+
+[s4]
+E Isus, Păstorul mare,
+Turmă ca El nimeni n-are,
+/: Noi Îl lăudăm
+Și ne închinăm
+Cu credinţă tare. :/
+
+[order]
+s1,s2,s3,s4

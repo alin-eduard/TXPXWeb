@@ -1,0 +1,22 @@
+[s1]
+Numele Domnului e, un turn tare,
+Cel credincios cauta, adapost la El.
+Numele Domnului e, un turn tare,
+Cel credincios cauta, salvarea-n El.
+
+[r1]
+Doamne Tie noi ne-nchinam
+Doamne numele-Ti laudam
+Numele Tau pentru noi e adapost.
+Cand incercari ne coplesesc
+Doamne Tu ne izbavesti
+Numele Tau pentru noi, e adapost.
+
+[s2]
+Numele Domnului e, un turn tare,
+Cel credincios cauta, adapost in El.
+Numele Domnului e, un turn tare,
+Cel credincios cauta, salvarea-n El.
+
+[order]
+s1,r1,s2,r1

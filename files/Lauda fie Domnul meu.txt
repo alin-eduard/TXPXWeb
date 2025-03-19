@@ -1,0 +1,32 @@
+[s1]
+Laudă fie Domnului Isus,
+Salvatorul nostru preaiubit,
+El să fie pururi preamărit
+Acum şi-n veci de veci.
+
+[r1]
+Fie laudă, fie laudă
+Lui Isus, al nostru Împărat,
+Laudă, fie laudă
+Căci ne-a răscumpărat.
+
+[s2]
+Cu Osana să ne-apropiem,
+Să-L mărim pe Domnul tot mereu,
+El rămâne-al nostru Dumnezeu
+Acum şi-n veci de veci.
+
+[s3]
+El păcat şi moarte a învins,
+Şi-n etern rămâne neschimbat,
+Să-I cântăm cu sufletul curat
+Acum şi-n veci de veci.
+
+[s4]
+/:Fie laudă, fie laudă
+Lui Isus, al nostru Împărat,
+Laudă, fie laudă
+Căci ne-a răscumpărat.:/
+
+[order]
+s1,r1,s2,r1,s3,s4

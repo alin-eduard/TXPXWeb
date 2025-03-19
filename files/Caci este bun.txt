@@ -1,0 +1,8 @@
+[s1]
+Căci este bun
+Şi în veac ţine îndurarea Lui
+Îl voi lăuda, toată viata mea
+/: Domnul este bun :/
+
+[order]
+s1

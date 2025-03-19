@@ -1,0 +1,39 @@
+[s1]
+1150.
+1.  A spus Isus prin Duhul Sfânt
+Nu mai e mult şi vin curând
+/: Vegheaţi şi nu descurajaţi
+Şi-n rugăciuni mereu să staţi
+Şi niciodată celui rău loc sa nu-i daţi :/
+2.  Căci nu va mai fi aşa mult
+Şi voi veni jos pe pământ
+/: C-atunci când Eu voi apărea
+Morţii cu toţii vor învia
+Pământu-ntreg va înflorii când voi veni :/
+
+[s2]
+3. Căci florile care erau
+Şi grădina a-mpodobeau
+/:Nu-mi mai dau slavă cum mi-au dat
+Când Duhul Sfânt mi-am revărsat
+Şi cum săltau de la pământ prin Duhul Sfânt:/
+4. Să nu mai staţi nepăsători
+Lucraţi cu râvnă şi spor
+/: C-atât de mult am suferit
+Pe Golgota când m-am jertfit
+Viaţa pentru voi mi-am dat căci v-am iubit:/
+
+[s3]
+5.  Voi să fiţi treji şi să vegheaţi
+Căci în curând veţi fi luaţi
+/: Şi vă voi duce sus în cer
+Acolo unde nu-s dureri
+Nu vor fi lacrimi nici suspine numai alini :/
+6.  Deci cu toţii să vă uniţi
+Şi-n rugăciuni mereu să fiţi
+/: Şi veţi vedea lucrarea mea
+Ce-n lume vă va apărea
+Căci multe zile n-or mai fi şi voi veni :/
+
+[order]
+s1,s2,s3

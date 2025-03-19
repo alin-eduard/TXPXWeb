@@ -1,0 +1,20 @@
+[s1]
+Dragoste, cerească floare
+Răsărită pe Pămînt
+Tu ne dai aripi de soare
+Să-L căutăm pe Cel Preasfînt.
+
+[s2]
+Unde dragostea răsare
+Cerul pe Pămînt va fi
+O mireasmă-mbătătoare
+Pînă-n veci de veşnicii.
+
+[s3]
+Fluvii de iubire sfîntă
+Curg din Domnul nost, Isus
+Apa-I spală vină multă
+Şi păcate de nespus.
+
+[order]
+s1,s2,s3

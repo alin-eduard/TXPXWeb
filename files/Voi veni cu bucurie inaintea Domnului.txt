@@ -1,0 +1,27 @@
+[s1]
+Voi veni cu bucurie inaintea Domnului,
+Voi veni cu multumire-n casa Lui
+Aceasta zi e-a Domnului.
+Deci sa ne bucuram in ea,
+Cantandu-I glorie, aleluia!
+
+[s2]
+/: Eu sunt fericit, eu sunt fericit!
+Sunt fericit ca El m-a mantuit! :/
+/: Osana, lauda Domnului!
+Lauda Domnului ce m-a salvat! :/
+
+[s3]
+/: Maret esti Dumnezeu!
+Cu laude noi Te onoram! :/
+/: Osana, binecuvantam!
+Binecuvantam pe Salvatorul! :/
+
+[s4]
+/: Voi binecuvanta,
+Pe Domnul toata vremea! :/
+/: Osana, binecuvantam!
+Binecuvantam pe Salvatorul! :/
+
+[order]
+s1,s2,s3,s4

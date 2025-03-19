@@ -1,0 +1,23 @@
+[s1]
+1811.
+1. Acum la masa Ta venim
+Cu Tine să ne-mpărtăşim
+Iar moartea Ta toţi o vestim
+Şi pe Tine Te mărim
+Cor:	/:Noi vestim moartea Ta
+Prin care avem viaţa
+Corpul Tău îl mâncăm
+Şi sângele Tău îl bem:/
+
+[s2]
+2. Doamne Tu corpul Ţi l-ai dat
+Sângele Ţi l-ai vărsat
+Ca noi prin Tine să trăim
+Fii mărit în veci, Amin!
+Cor:	/:Noi vestim moartea Ta
+Prin care avem viaţa
+Corpul Tău îl mâncăm
+Şi sângele Tău îl bem:/
+
+[order]
+s1,s2

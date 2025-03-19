@@ -1,0 +1,32 @@
+[s1]
+Te rog cercetează-mă Tu,
+Tu vezi ce-i în inima mea
+De mult ochiul Tău mă văzu`
+/: Când plin de-ndurare
+Din greaua pierzare
+M-a scos mâna Ta :/
+
+[s2]
+Tu vezi, o, Isuse, starea mea
+Tu ştii cât sunt de greşit
+Tu ştii şi ispita cea grea
+/: /: În faţa Ta totul :/
+E descoperit :/
+
+[s3]
+Şi cine vreodat-ar putea
+Să-mi şteargă păcatul cumplit
+Şi-o inima nouă să-mi dea
+/: Găsi-voi vreodată
+În chiar lumea toată
+Un om sfânt, smerit :/
+
+[s4]
+O, Tu, numai Tu eşti Preasfânt
+Auzi deci adâncu-mi suspin
+Căci vreau cât voi fi pe pământ
+/: /: Întreaga mea viaţa :/
+Doar Ţie s-o-nchin :/
+
+[order]
+s1,s2,s3,s4

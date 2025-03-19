@@ -1,0 +1,26 @@
+[s1]
+Când eu privesc la crucea grea
+Pe care­al slavei Prinţ muri,
+În praf arunc mândria mea,
+Doar jertfa Lui voi preţui.
+
+[s2]
+Eu nu aş vrea să mă mândresc
+Decât cu jertfa lui Hristos,
+Pe crucea Lui să răstignesc
+Tot ce e vechi şi păcătos.
+
+[s3]
+Văd mâna Lui şi mi­e de­ajuns,
+Văd ochii Săi de lacrimi plini;
+Eu sunt pironul ce­a străpuns,
+Eu sunt cununa cea de spini.
+
+[s4]
+Orice I­aş da n­ar fi de­ajuns
+Să răsplătesc iubirea Sa;
+Ce­am mai de preţ eu I­am adus;
+„Primeşte, Doamne, viaţa mea!“
+
+[order]
+s1,s2,s3,s4

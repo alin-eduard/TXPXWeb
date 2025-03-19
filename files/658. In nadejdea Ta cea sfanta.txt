@@ -1,0 +1,49 @@
+[s1]
+În nădejdea
+Ta cea sfântă
+Dumnezeul meu
+Am găsit mereu scăpare
+În necazul meu.
+658.
+
+[s2]
+2. Am trecut
+prin clipe grele
+Singur părăsit
+Dar nădejdea Ta prin ele
+Doamne m-a-nsoţit.
+
+[s3]
+3. Am privit
+mereu spre Tine
+Cu credinţă-n sus
+Şi în cea mai grea-ncercare
+Pace mi-a adus.
+
+[s4]
+4. Azi când
+Tu mă treci Părinte
+Iar prin greu necaz
+Mi se varsă iar fierbinte
+Plânsul pe obraz.
+
+[s5]
+5. Dar în suflet îmi luceşte
+Plin de mângâieri
+Soarele nădejdii sfinte
+Care-mi dă puteri.
+
+[s6]
+6. El împrăştie durerea
+Plânsul cel amar
+Şi-mi aduce pace sfântă
+Fără de hotar.
+
+[s7]
+7. O, mi-ncredinţez în Tine
+Viaţa mea mereu
+Fericita mea nădejde
+Dumnezeul meu.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

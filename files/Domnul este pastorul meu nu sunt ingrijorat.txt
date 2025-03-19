@@ -1,0 +1,29 @@
+[s1]
+Domnul este păstorul meu
+nu sunt îngrijorat.
+Şi n-am de ce să mă îndoiesc,
+sunt răscumpărat.
+Orişiunde-aş umbla eu ştiu
+e tăria mea.
+Şi-n valea morţii de-aş umbla poartă grija mea.
+
+[r1]
+Domnul mi-e păstor şi mântuitor.
+El e Domnul meu, mereu, mereu.
+Minunat Păstor şi ocrotitor.
+Poartă grija mea totdeauna.
+O ce bun ce minunat e-al meu păstor.
+Mă va-nsoţi totdeauna cu dragoste.
+
+[s2]
+Fericirea-ndurarea Lui
+mă va-nsoţi mereu.
+În toate zilele viaţii
+voi fi păzit de El.
+Mă conduce cu Mâna Sa,
+nu sunt îngrijorat.
+Sufletul meu e înviorat,
+sunt răscumpărat
+
+[order]
+s1,r1,s2,r1

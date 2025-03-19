@@ -1,0 +1,68 @@
+[s1]
+1279.
+Trăia odată-n Israel
+Un om ce Domnul îl iubea
+Ce asculta de Dumnezeu
+Şi Samuel, el se numea
+Dar într-o zi pe când plângea
+Solie de sus a primit
+Să-şi pună-n cornu-i untdelemn
+Şi să meargă la Betleem
+1.
+
+[s2]
+Cor:   Du-te / : Samuele du-te : /
+Să ungi un împărat
+
+[s3]
+În Betleem când a ajuns
+Profetul jertfa şi-a vestit           		         Pe toţi la jertfă ia poftit
+Şi când cu toţi s-au adunat
+Cu ochii Samuel privi
+Spre cel mai chipeş şi mai-nalt
+Din toţi ai lui Isai copii
+Ca să-l ungă ca împărat.
+2.
+Cor:    Du-te / : Samuele du-te : /
+Să ungi un împărat
+
+[s4]
+Dar Samuel s-a înşelat
+Crezând că el e cel ales
+Şi Domnul bun în mila Sa
+I-a dat lui Samuel răspuns
+Pe rând atunci cei şapte fii
+Lui Samuel s-a arătat
+Dar pe nici unul dintre ei
+Din undelemn el n-a turnat
+3.
+Cor:	      Du-te / : Samuele du-te : /
+Să ungi un împărat
+
+[s5]
+Aceştia sunt toţi fii tăi
+Pune-ntrebarea Samuel
+Şi-ndată el primi răspuns
+C-a mai rămas un tinerel
+Şi după David a trimis
+Să vină şi el de la oi
+Fiind cel mai tânăr dintre toţi
+Să fie între fraţii săi.
+Cor:	/ : Unge Samuele unge Samuele unge
+Pe David împărat : /
+4.
+
+[s6]
+5. Atunci un lucru însemnat
+S-a petrecut şi-au înţeles
+Căci Domnul a zis lui Samuel
+Să-l ungă el este cel ales
+Profetu-n dată s-a sculat
+Şi untdelemn el a turnat
+Pe acel vlăstar a lui Isai
+Cu ochi frumoşi şi păr bălai
+Cor:	/ : Unge Samuele unge Samuele unge
+Pe David împărat : /
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,27 @@
+[s1]
+/: Te laudăm neîncetat,
+Căci meriţi laudele noastre
+Chiar de-am avea o mie de voci
+N-ar fi de-ajuns :/
+
+[r1]
+/: Eu vreau sa fiu mic, mare Tu să fii
+Vreau să fiu mic, iar Tu glorificat
+Doamne în toate slava Ta să fie,
+Meriţi toată lauda :/
+
+[s2]
+/: Eşti minunat o Domnul meu
+Şi slava Ta te înconjoară
+Îngeri în ceruri îţi cântă mărire
+Si’Ţi cânt şi eu. :/
+
+[s3]
+/: Te lăudăm căci Tu eşti tot
+Ce-avem mai scump,
+Doamne pe lume
+Te lăudăm neâncetat
+O Domnul meu :/
+
+[order]
+s1,r1,s2,r1,s3,r1

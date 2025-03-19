@@ -1,0 +1,28 @@
+[s1]
+Ce-aş fi fost, Doamne fără Tine
+Un chip de lut, fără iubire
+Cum aş putea, fără de Tine
+În viaţa-mi plină de ruşine.
+Numai Tu m-ai eliberat
+Ca să spun către Tine
+Să fiu liber şi curat
+Ca un miel făra de vină.
+
+[r1]
+/: Numai Tu m-ai iubit
+Şi m-ai făcut copilul Tău
+M-ai ridicat, Stânca Vieţii
+Statornic să fiu :/
+
+[s2]
+Cum aş putea să Îţi mulţumesc
+Pentru viaţa mea schimbată
+Şi pentru dragostea-ţi supremă
+Ce mi-a umplut,viaţa toată.
+Inima tristă ai umplut
+De bucuria Ta sublimă
+Mi-ai dat în dar iertarea Ta
+Şi pacea Ta minunata.
+
+[order]
+s1,r1,s2,r1

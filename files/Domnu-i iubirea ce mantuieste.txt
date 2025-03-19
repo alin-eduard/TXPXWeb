@@ -1,0 +1,26 @@
+[s1]
+Domnu-i iubirea ce mântuieşte
+Domnu-i iubirea, El m-a iubit!
+Deci voi cânta iarăşi: Domnu-i iubirea
+Domnu-i iubirea, El m-a iubit!
+
+[s2]
+Zăceam în lanţul nelegiuirii,
+Fără speranţă, făr-ajutor…
+Deci voi cânta iarăşi: Domnu-i iubirea
+Domnu-i iubirea, El m-a iubit!
+
+[s3]
+Mi-a dat pe Fiul, Fiu al măririi,
+Mi-a dat pe Fiul ca Salvator!
+Deci voi cânta iarăşi: Domnu-i iubirea
+Domnu-i iubirea, El m-a iubit!
+
+[s4]
+Prin Evanghelie El tot mă cheamă,
+Prin al Său sânge să fiu salvat!
+Deci voi cânta iarăşi: Domnu-i iubirea
+Domnu-i iubirea, El m-a iubit!
+
+[order]
+s1,s2,s3,s4

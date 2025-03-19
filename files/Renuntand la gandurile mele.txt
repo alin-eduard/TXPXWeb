@@ -1,0 +1,19 @@
+[s1]
+Renuntand la gandurile mele
+Concentrand atentia-asupra Ta
+Meditand in sfanta Ta prezenta,
+Nelasand ca frica sa mai stea
+Intrebari ce am le-aduc la Tine
+Si le pun Isus 'naintea Ta
+Stand curat in sfanta Ta prezenta
+Ma inchin si te voi lauda
+
+[s2]
+/:Privesc la Tine,
+Cel ce-mi dai viata
+Tu incepi si duci la bun sfarsit
+Tu-mi inspiri fiinta si lucrarea
+Doar iubirea Ta m-a implinit:/
+
+[order]
+s1,s2

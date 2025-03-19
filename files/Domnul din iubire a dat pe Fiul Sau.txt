@@ -1,0 +1,24 @@
+[s1]
+Domnul din iubire a dat pe Fiul Său
+Ca jertfă pe Calvar.
+Mântuit fiind prin har
+Atunci când va veni, în glorie voi fi -
+Ce minunat este Isus !
+
+[r1]
+Condus de Duhul Sfânt
+Cât voi fi pe Pământ
+Cu El călătoresc spre locul ceresc
+Până voi ajunge acolo-n mărire -
+Ce minunat este Isus !
+
+[s2]
+Eu sunt copilul Său,
+spre cer e drumul meu.
+În patria de sus
+M-aşteaptă-al meu Isus.
+Acolo-n veşnicii, cu El în veci voi fi -
+Ce minunat este Isus !
+
+[order]
+s1,r1,s2,r1

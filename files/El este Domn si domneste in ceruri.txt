@@ -1,0 +1,28 @@
+[s1]
+El este Domn şi în ceruri domneşte
+El este Domn
+Lumina-i creată când El porunceşte
+El este Domn
+Nu-i nimeni ca El, n-are capăt la zile
+El este Domn
+Şi vine-n putere,
+când chemi al Său nume
+El este Domn
+
+[r1]
+Trimite-Ţi puterea, O, Domnul meu  x3
+Dumnezeu
+
+[s2]
+Cuvântul Tău Doamne,
+speranţă-i în lume
+Eşti Dumnezeu
+Prin a Ta putere avem mântuire
+Eşti Dumnezeu
+Nu-ţi cerem avere, privim doar la cruce
+Eşti Dumnezeu
+Pe cei păcătoşi înainte Ţi-aducem
+Eşti Dumnezeu
+
+[order]
+s1,r1,s2,r1

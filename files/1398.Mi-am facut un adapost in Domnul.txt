@@ -1,0 +1,43 @@
+[s1]
+1398.Fa
+1.  Mi-am făcut un adăpost în Domnul
+Când furtuna bântuia cumplit
+Turnul de scăpare şi ajutorul
+Prin cuvântul sfânt făgăduit.
+Cor:  Domnul Dumnezeul Atotputernic
+Va rămâne acelaşi neschimbat
+Temelia Lui e Adevărul
+Şi cuvântul Lui e minunat.
+
+[s2]
+2.  Mi-am înălţat spre Domnul rugăciunea
+Când problemele mă-nconjurau
+El mi-a dat atunci înţelepciunea
+Şi-am văzut mâna-i asupra mea.
+Cor:  Domnul Dumnezeul Atotputernic
+Va rămâne acelaşi neschimbat
+Temelia Lui e Adevărul
+Şi cuvântul Lui e minunat.
+
+[s3]
+3. Zi de zi Isus mă întăreşte
+Simt în orice ceas cât e de bun
+El prin orice gânduri îmi vorbeşte
+Nu e mult şi vine în curând.
+Cor:  Domnul Dumnezeul Atotputernic
+Va rămâne acelaşi neschimbat
+Temelia Lui e Adevărul
+Şi cuvântul Lui e minunat.
+
+[s4]
+4.  Tot ce pot să spun este că Domnul
+Şi-a ţinut a Lui promisiuni
+El rămâne credincios de-a pururi
+Fie-i numele slăvit amin.
+Cor:  Domnul Dumnezeul Atotputernic
+Va rămâne acelaşi neschimbat
+Temelia Lui e Adevărul
+Şi cuvântul Lui e minunat.
+
+[order]
+s1,s2,s3,s4

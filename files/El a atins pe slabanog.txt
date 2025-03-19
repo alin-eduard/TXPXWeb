@@ -1,0 +1,27 @@
+[s1]
+Mi Major
+El a atins pe slăbănog,
+Celui mut i-a dat vorbire.
+A pus viaţa în unii din ei,
+De Isus avem şi-acum nevoie!
+
+[r1]
+Mai mult acum ca niciodată
+Navigăm pe-o vreme furtunoasă;
+De Isus avem nevoie
+Mai mult acum ca niciodată!
+
+[s2]
+A dat vedere orbului,
+Fiica lui Iair a înviat-o.
+Pe cei flămânzi El i-a hrănit,
+Noi avem nevoie de Isus!
+
+[s3]
+Si astazi lumea e in intuneric
+Multi oameni mor si acum in pacate
+Chemati-L cat inca se mai poate
+Isus sa fie si a lor salvare
+
+[order]
+s1,r1,s2,r1,s3,r1

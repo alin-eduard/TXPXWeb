@@ -1,0 +1,48 @@
+[s1]
+Lăudaţi pe Domnul sufletul să salte
+Lăudaţi pe Domnul cerurile-nalte
+Lăudaţi pe Domnul toate locurile-nalte
+Lăudaţi-L îngeri şi-a Lui oşti frumoase
+Soarele şi luna stele luminoase
+Lăudaţi-L: soare, lună, stele luminoase
+Psalmul 148                  1230
+1.
+
+[s2]
+Lăudaţi-L ceruri mai presus de stele
+Şi voi ape care staţi mai sus de ele
+Lăudaţi a Lui sfânt nume mai presus de ele
+Căci El poruncit-a şi ele au fost făcute
+Le-a întărit cât vecii, legi în veci ţinute
+Legi ce-n veac n-au să le calce legi în veci ţinute
+2.
+
+[s3]
+Lăudaţi pe Domnul tot ce-n lume poate
+Peşti din mari adâncuri foc şi grindini toate
+Ceaţă şi zăpadă vânturi lăudaţi-L toate
+Munţi şi dealuri toate codrii, pomi cu roade
+Fiare vite păsări cu ale lor noroade
+Târâtoare, păsări toate cu-ale lor noroade
+3.
+
+[s4]
+Împăraţii lumii şi popoare toate
+Voievozi şi toţi câţi judecaţi pe gloate
+Tineri, bătrâni şi copii din gloate
+Toţi s-aducă slavă numelui Său mare
+Căci doar Lui se cade slavă şi-nălţare
+Căci mai sus de cer şi lume este a Lui ’nălţare
+4.
+
+[s5]
+La poporu-i Domnul datu-i-a tărie
+Pricină de slavă şi de bucurie
+Pentru ai săi copii slavă bucurie
+Pentru credincioşii fii ai lui Israel
+Ce stau lângă Domnul ascultând de El
+Lăudaţi pe Domnul veşnic Emanuel.
+5.
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,53 @@
+[s1]
+1. O Isuse să ne spui
+De sfârşitul veacului
+/: Când va fi a ta venire
+Ce semne ne dau de ştire :/
+2. Fraţilor vor fi războaie
+Om pe om o să se taie
+/: Neam pe neam o să se bată
+Nu va fi sfârşitu-n dată :/
+838.
+
+[s2]
+3. Se ucide frate pe frate
+Fiii omoară pe tată
+/: Vor fi semne arătătoare
+În lună-n stele şi-n soare :/
+4. Soarele s-a întuneca
+Luna, stelele or cădea
+/: Va bate puternic vântul
+De-a cutremura pământul :/
+
+[s3]
+5. Va fi o foamete mare
+Vor urla fiare de foame
+/: Va trimite Tatăl Sfânt
+Chinuri grele pe pământ :/
+6. Va trimite atunci în lume
+Chinuri grele fără număr
+/: Pământul va bea mult sânge
+Toată lumea pe el plânge :/
+
+[s4]
+7. Toţi vor merge la morminte
+Vor striga amar şi-or plânge
+/: Ieşiţi morţilor afară
+Căci trăim o viaţă amară :/
+8. Ieşiţi să intrăm de vii
+Nu mai putem suferi
+/: Pedeapsa-I mare şi grea
+Nu mai putem suporta :/
+
+[s5]
+9. Care ne-a venit de sus
+Că n-am crezut în Isus
+/: Omule cu gândul rău
+Teme-te de Dumnezeu :/
+10. Că ziua înfricoşată
+Va veni pe neaşteptate
+/: Ne-a găsi nepregătiţi
+Rămânem nemântuiţi :/
+
+[order]
+s1,s2,s3,s4,s5

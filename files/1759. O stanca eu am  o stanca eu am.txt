@@ -1,0 +1,42 @@
+[s1]
+1759.       Fa
+1. O stâncă eu am, o stâncă eu am
+Şi-un Nume ce-mi dă bucurie
+/:Ce din neam în neam:/
+Stă tare şi-acum şi-n veşnicie
+
+[r1]
+Cor:
+//:Cine e ca Domnul:/
+Sfânt şi Preaputernic,
+Drept şi înălţat
+/:Cine e ca Domnul:/
+N-are-asemănare,
+Al meu Împărat:/
+
+[s2]
+2. El e Dumnezeu, El e Dumnezeu
+Ce mă sprijineşte în toate
+Voi spune mereu, voi spune mereu
+La toţi despre-a Lui bunătate
+
+[s3]
+3. El e pacea mea, El e pacea mea
+La vreme de grea încercare
+În El voi avea, în El voi avea
+Izbândă-n orice împrejurare
+
+[s4]
+4. /:Mă plec la pământ:/
+De faţa Lui nu mă simt vrednic
+El este Cel sfânt, El este Cel sfânt
+E Domnul meu cel Atotputernic
+
+[s5]
+5. /:Căci nu am în cer:/
+Pe nimeni în afară de El
+Toiagul de fier, toiagul de fier
+Iehova, Sfântul lui Israel
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

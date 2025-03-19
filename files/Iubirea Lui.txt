@@ -1,0 +1,32 @@
+[s1]
+Iubirea Lui e mai înaltă ca munţii
+Iubirea Lui cuprinde-al mării adânc
+Iubirea Lui atinge largi orizonturi
+Şi-a atins şi inima mea
+
+[s2]
+Iubirea Lui învinge îngeri şi demoni
+Iubirea Lui mă ţine-n vremi de-ncercări
+Iubirea Lui m-aduce-n căile vieţii
+Şi îmi dă aripi către cer
+
+[s3]
+Iubirea Lui, mai dulce ca stropul de miere
+Iubirea Lui, mai bună ca vinul ales
+Iubirea Lui ce umple orice nevoie
+Prin Isus în dar o primesc
+
+[s4]
+Iubirea Ta-i mai dulce ca stropul de miere
+Iubirea Ta-i mai bună ca vinul ales
+Iubirea Ta ce umple orice nevoie
+Prin Isus mi-ai dat-o în dar
+
+[s5]
+Iubirea Ta învinge îngeri şi demoni
+Iubirea Ta mă ţine-n vremi de-ncercări
+Iubirea Ta m-aduce-n căile vieţii
+Mă iubeşti, e tot ce-mi doresc.
+
+[order]
+s1,s2,s3,s4,s5

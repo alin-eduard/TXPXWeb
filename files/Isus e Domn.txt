@@ -1,0 +1,26 @@
+[s1]
+Isus e Domn,
+pământu-ntreg se bucură,
+Pe tronul sfânt El e’
+nălţat mai sus de toţi,
+El este Domn şi Dumnezeu!
+/: Mărirea, gloria Îl împodobesc :/
+
+[s2]
+Isus e Domn,
+tot universul freamătă
+Cât de măreţ El
+stăpâneşte din etern,
+El este Domn şi Dumnezeu!
+/: Mărirea, gloria Îl împodobesc :/
+
+[s3]
+Îl poţi vedea
+strălucitor şi minunat,
+Chiar de-i lovit,
+ochii-I lucesc triumfător,
+El este Domn şi Dumnezeu!
+/:Mărirea, gloria Îl împodobesc.: /
+
+[order]
+s1,s2,s3

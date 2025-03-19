@@ -1,0 +1,46 @@
+[s1]
+Fa
+Cor:Unde eşti, Doamne,
+Te caut mereu,
+Unde Îţi este locaşul Tău?
+Unde eşti, Doamne,
+Să te întâlnesc,
+Spune-mi unde eşti
+Să te găsesc?
+165.
+
+[s2]
+1. Eu locuiesc în cerul preasfânt,
+Dar sunt şi aicea jos pe pământ;
+Eu stau în cerul cel strălucit
+Dar sunt şi lângă omul smerit.
+
+[r1]
+Cor: Unde eşti, Doamne,
+Te caut mereu,
+Unde Îţi este locaşul Tău?
+Unde eşti, Doamne,
+Să Te întâlnesc ,
+Spune-mi unde eşti
+Să Te găsesc?
+
+[s3]
+2. Eu sunt în casa celui sărac
+Să-i aduc hrană şi să-l îmbrac.
+Sunt cu bătrânul slăbănogit
+Şi cu copilul cel necăjit.
+
+[s4]
+3. Eu sunt la patul celui bolnav
+Ce zace de mult, slab şi firav.
+Sunt cu orfanul ce plânge-n drum
+Căci Eu sunt Tatăl milos şi bun.
+
+[s5]
+4. Sunt călătorul cel ostenit,
+Am haina ruptă-s gol şi lipsit.
+Caut o casă să mă-ncălzesc
+Şi foamea ca să mi-o potolesc.
+
+[order]
+s1,s2,r1,s3,r1,s4,r1,s5,r1

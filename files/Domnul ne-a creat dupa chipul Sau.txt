@@ -1,0 +1,28 @@
+[s1]
+Domnul ne-a creat dupa chipul Sau
+El ne-a invatat sa uram ce e rau,
+Sa nu ne mai intoarcem pe unde-am fost
+Ca n-are nici un rost.
+Nu mai vrem in lume sa ratacim
+Vrem de azi viata cu El sa traim,
+Tot ce-avem sa punem in mana Lui
+In mana Domnului.
+
+[r1]
+/: Caci daca traim pentru Domnul traim,
+Si daca murim pentru Domnul murim,
+Deci fie ca traim fie ca murim
+Noi suntem ai Domnului. :/
+
+[s2]
+Nu putem sa stim daca maine in zori
+Va fi o zi cu soare sau o zi cu nori,
+Stim insa ca Domnul
+va fi cu noi la bine si nevoi.
+Hotarati-nainte vom alerga
+Spre ceruri zi de zi ne vom indrepta,
+Nici o clipa nu vom privi-napoi
+Caci Domnul e cu noi.
+
+[order]
+s1,r1,s2,r1

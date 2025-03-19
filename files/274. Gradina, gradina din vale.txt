@@ -1,0 +1,39 @@
+[s1]
+1. Grădină, grădină din vale
+Trecut-ai fost prin cercetare
+Trecut-ai chiar în zori de zi
+Şi iată-n tine ce-am găsit.
+274.
+
+[s2]
+2. Găsit-am în grădină spini
+Grădina-i în stare de plâns
+Mlădiţe multe fără rod
+Şi chiar din viţele de soi
+
+[s3]
+3. Ce-am hotărât voi împlini
+Mlădiţele voi curăţi
+Iar cele ce-or aduce rod
+Le voi pune la adăpost
+
+[s4]
+4. Unelte, scule toate iar
+Vor intra în grădina Mea
+Să-i tai mlădiţe fără rod
+Şi partea lor va fi în foc
+
+[s5]
+5. Căci timpul este spre sfârşit
+Curând, curând Eu voi veni
+Ca să strâng roadele din ea
+Şi florile le-oi strămuta
+
+[s6]
+6. Acolo-i locul pregătit
+Unde şi alte flori am strâns
+Sub raze se vor bucura
+În veci de veci grădina Mea.
+
+[order]
+s1,s2,s3,s4,s5,s6

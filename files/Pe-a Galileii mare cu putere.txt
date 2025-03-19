@@ -1,0 +1,34 @@
+[s1]
+Pe-a Galileii mare cu putere
+Minuni şi semne Domnul a făcut
+Şi-adesea şi noi ca şi ucenicii
+Pe Domnul Isus nu l-am priceput.
+Mib M
+
+[r1]
+/: Vino, vino Isuse
+Şi eu ca ucenicii Te aştept
+În luntrea mea vino şi urcă
+Şi mă condu pe drumul Tău cel drept. :/
+
+[s2]
+Domnul Isus în noapte-umbla pe mare
+Şi ucenicii s-au înspăimântat
+Dar le-a vorbit, “sunt Eu”,
+să nu vă temeţi
+Şi-n barca lor Isus, El s-a urcat.
+
+[s3]
+La fel cum pâinea El a înmulţit-o
+La glasul Lui şi marea a tăcut
+Căci mâna omenească nu făcuse
+Până atunci, ce Domnul a făcut.
+
+[s4]
+O, cum să nu-L slăvesc pe El o, frate
+Când viaţa mea şi-a ta e-n mâna Sa
+Şi Duhul Său cel Sfânt va fi puterea
+Ce la-al Său glas de-aici ne-a ridica.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

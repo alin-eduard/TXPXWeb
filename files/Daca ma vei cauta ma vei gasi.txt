@@ -1,0 +1,22 @@
+[s1]
+Dacă mă vei căuta mă vei găsi
+Și voi veni în inima ta,
+Vei sti ce e iubirea
+Vei sti ce-i fericirea,
+Când viata ta e-n palma mea.
+
+[r1]
+Întoarce-ti inima spre Domnul
+Primeste har din mâna Lui
+Ca vulturul spre cer te-naltă
+Dacă rămâi în harul Lui
+
+[s2]
+Dacă tu mă vei striga voi auzi
+Și-ti voi răspunde rugăciunilor
+Să vezi a mea-ndurare
+Să simti a mea iertare
+Dacă mă strigi din inimă
+
+[order]
+s1,r1,s2,r1

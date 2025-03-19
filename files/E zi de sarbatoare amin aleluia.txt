@@ -1,0 +1,29 @@
+[r2]
+/: E zi de sărbătoare
+Amin Aleluia
+Da-ţi Domnului onoare
+Amin Aleluia :/
+
+[r1]
+/: Aleluia Amin Aleluia :/
+
+[s1]
+/: Să cânte tot poporul
+Amin Aleluia
+Lui Isus biruitorul
+Amin Aleluia :/
+
+[s2]
+/: El merită mărire
+Amin Aleluia
+Cântări de multumire
+Amin Aleluia :/
+
+[s3]
+/: Mereu ne închinăm
+Amin Aleluia
+Şi viaţa Lui i-o dăm
+Amin Aleluia :/
+
+[order]
+r2,r1,s1,r1,s2,r1,s3,r1,r2,r1

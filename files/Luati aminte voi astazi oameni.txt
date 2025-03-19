@@ -1,0 +1,33 @@
+[s1]
+Luaţi aminte voi, astăzi oameni
+Cuvântul suna ne-ncetat
+Cuvântul spune că El degrabă
+De pe pământ va fi luat.
+Re m
+
+[r1]
+/: Mult dori-vor atunci oamenii
+S-audă din cuvântul sfânt
+Dar Dumnezeu va-nchide harul
+/: El nu va mai fi pe pământ. :/
+
+[s2]
+Amos, prorocul a zis odată
+Că foamete-n lume va fi
+Dar nu de pâine nici sete de apă
+Cuvântul atunci va lipsi.
+
+[s3]
+Vor pribegi de la mare la mare
+Şi-atunci vor fi istoviţi
+Flăcăii şi fetele cele frumoase
+De har atunci vor fi lipsiţi.
+
+[s4]
+Se va topi lumea de sete
+Şi-atuncea vor fi istoviţi
+Dorind s-audă cuvânt de la Domnul
+Cuvantul atunci va lipsi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

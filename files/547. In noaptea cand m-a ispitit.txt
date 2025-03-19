@@ -1,0 +1,49 @@
+[s1]
+1. În noaptea când m-a ispitit
+Săgeata cea duşmană
+Isus cu milă m-a primit
+Mai mult ca şi o mamă.
+547.
+/: Dar m-ai lăsat să biruiesc
+Prin lacrimi şi durere
+Ca-n urmă să mă umilesc
+În clipele mai grele :/.
+
+[s2]
+2. Căci orice vas de argint sau lut
+Trecut e prin cuptoare
+Atunci credinţa şi mai mult
+E pusă la-ncercare.
+/: Căci orice mamă pe pământ
+Ea naşte cu durere
+Şi după ce-a născut plângând
+Aşteaptă o mângâiere :/.
+
+[s3]
+3. Căci nu-i numai soare pe cer
+Mai sunt şi nori şi ceaţă
+Dar noaptea va avea sfârşit
+În zori de dimineaţă.
+/: Când va veni al meu Isus
+S-aducă dezrobirea
+O, vino Doamne mai curând
+Te cheamă chiar şi firea :/.
+
+[s4]
+4. Mi aşa de dor de Duhul Sfânt
+De ziua revederii
+Sus în Ierusalimul nou
+E cortul întâlnirii.
+/: Şi atunci al morţii bold legat
+Surpat va fi în două
+Surpase-va eternul zid
+Robirea cea duşmană :/.
+
+[s5]
+Nu va mai fi ispititor
+Ispita se sfârşeşte
+Şi al veşniciei viitor
+Isus împărăteşte.
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,53 @@
+[s1]
+1. Ştii ce-nseamnă Golgota
+Ştii ce-nseamnă crucea
+Cine-a dus povara Sa
+Şi-a murit întins pe ea.
+Cor: Emanuel, Emanuel
+Din vecie neschimbat
+Mielul ce-a fost înjunghiat
+Pentru al meu şi-al tău păcat
+731.
+
+[s2]
+Cor: Emanuel, Emanuel
+Din vecie neschimbat
+Mielul ce-a fost înjunghiat
+Pentru al meu şi-al tău păcat
+2. Ştii durerea ce-a răbdat
+Răstignit în cuie
+Ştii iubirea ce-a iertat
+Al lumii întregi păcat.
+
+[s3]
+Cor: Emanuel, Emanuel
+Din vecie neschimbat
+Mielul ce-a fost înjunghiat
+Pentru al meu şi-al tău păcat
+3. Ştii tu oare cât a plâns
+Singur în grădină
+Cât amar în piept a strâns
+Pentru a mea şi-a ta vină
+
+[s4]
+Cor: Emanuel, Emanuel
+Din vecie neschimbat
+Mielul ce-a fost înjunghiat
+Pentru al meu şi-al tău păcat
+4. Ştii ce-nseamnă al tău păcat
+Moartea frate dragă
+Dar să nu uiţi niciodat‘
+Isus te-a răscumpărat.
+
+[s5]
+Cor: Emanuel, Emanuel
+Din vecie neschimbat
+Mielul ce-a fost înjunghiat
+Pentru al meu şi-al tău păcat
+5. Dacă crucea-ți este grea
+Şi mai cazi pe cale
+Du-o şi tu până sus
+Cum a dus-o şi Isus.
+
+[order]
+s1,s2,s3,s4,s5

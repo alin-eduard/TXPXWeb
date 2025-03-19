@@ -1,0 +1,35 @@
+[s1]
+2193
+1. Ajută-mă să tac întotdeauna
+Când cel vrăjmaș deschide gura
+Să tac s-am gura încuiată
+Și în durerea neușurată
+/: Să tac cum ai tăcut
+când dușmanii
+Loveau obrajii Tăi cu pumnii
+Să tac s-am gura încuiată
+De răbdarea îndelungată :/
+
+[s2]
+2. Să tac cum ai tăcut când cu toții
+Te-au dus ca să fii dat morții
+Iar Tu te-ai dus să mori Stăpâne
+Să am iertare în veci prin Tine
+/: Să tac cum ai tăcut Tu
+când păgânii
+Te-au dus pe dealul căpățânii
+Și ca un miel la junghiere
+Te-ai dus Isuse în tăcere.
+
+[s3]
+3. Să rabd căci doar atunci simțesc în mine
+Un dor ce mă leagă de Tine
+Că și Tu ai răbdat în lume
+Hulit a fost sfântu-Ți Nume
+/: Sp rabd că doar atunci ies biruitor
+În vâltoarea mare a luptelor
+Ce se dau în văzduhul tainic
+Ca să ajung în ceruri pașnic.
+
+[order]
+s1,s2,s3

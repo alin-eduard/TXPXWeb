@@ -1,0 +1,36 @@
+[s1]
+Dacă nu zideşte Domnul El o casă
+Degeaba vor lucra cei ce-o zidesc
+De nu păzeşte Domnul o cetate
+Degeaba vor veghea cei ce-o păzesc
+Cor:Degeaba vă sculaţi de dimineaţă
+Şi vă culcaţi târziu în noaptea grea
+Ca să mâncaţi o pâine câştigată
+Cu trudă cu durere cu amar
+Psalmul 127            1255       Mi m
+1.
+
+[s2]
+Căci El la toţi aceia ce-i iubeşte
+La preaiubiţii Lui El le va da
+Ca-n somn şi pâinea care le lipseşte
+Ei totdeauna pâine vor avea
+2.
+Cor:Degeaba vă sculaţi de dimineaţă
+Şi vă culcaţi târziu în noaptea grea
+Ca să mâncaţi o pâine câştigată
+Cu trudă cu durere cu amar
+
+[s3]
+Copiii-n viaţă sunt o moştenire
+Şi răsplătire de la Domnul Sfânt
+Cum sunt săgeţile pentru războinic
+Copiii cei din tinereţe sunt
+Cor:Ferice acei ce-şi umple cu ei casa
+Ferice omul care-i va avea
+Căci când vorbi-va cu vrăjmaşu-n poartă
+Ei nicicând ruşinaţi n-or rămânea
+3.
+
+[order]
+s1,s2,s3

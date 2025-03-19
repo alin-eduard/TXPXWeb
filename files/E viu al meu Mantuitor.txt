@@ -1,0 +1,32 @@
+[s1]
+E viu al meu Mântuitor!
+O ştiu şi veşnic Îl ador.
+Cunună­-n cer mi­-a pregătit,
+Prin care fi-voi răsplătit.
+
+[r1]
+Şi lumea de mă va ura,
+Rămân tot în credinţa mea,
+/: Că doar puţin aştept aici:
+Isus la El mă va chema. :/
+
+[s2]
+E viu al meu Stăpân ceresc,
+Prin învierea Lui trăiesc.
+Căci viaţă nouă El mi­-a dat
+Prin harul Său îmbelşugat.
+
+[s3]
+E viu al meu iubit Păstor;
+Şi glasul Său mângâietor
+Mă­-nviorează ne­-ncetat
+Prin Duhul binecuvântat.
+
+[s4]
+Ştiu că-­ntr-­o zi va reveni
+Şi­n cer la El mă va sui,
+Când voi zbura pe­-al slavei nor
+La învierea sfinţilor.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

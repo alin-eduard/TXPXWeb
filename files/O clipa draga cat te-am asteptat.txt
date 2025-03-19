@@ -1,0 +1,32 @@
+[s1]
+O, clipă dragă, cît te-am aşteptat !
+A sosit timpul care-i de plecat.
+/: Întinde mîna, tată, vreau să ţi-o sărut
+Căci tu pîn-acuma grijă de mine ai avut.:/
+
+[s2]
+O, mamă dragă, care m-ai născut
+A sosit timpul ca eu să mă duc.
+/: Îţi mulţumesc foarte, căci m-ai îngrijit
+Deşi pîn-acuma poate te-am necăjit. :/
+
+[s3]
+O, fraţii mei iubiţi, cu care am crescut
+Timpul e acuma ca eu să mă duc.
+/: Şi cîteodată de v-am întristat
+Acum îmi cer iertare, că eu am plecat. :/
+
+[s4]
+Acum e ora cînd ne despărţim
+Căci poate nu ne mai întîlnim.
+/: Căci e ordin dat de Dumnezeu
+Orice om să-şi caute ajutorul său. :/
+
+[s5]
+O, Doamne sfinte care ne-ai creat
+Ai adus timpul care-i de plecat.
+/: Acel ce porţi de grijă de copiii Tăi
+Poartă Tu de grijă şi de părinţii mei. :/
+
+[order]
+s1,s2,s3,s4,s5

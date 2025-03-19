@@ -1,0 +1,33 @@
+[s1]
+1151.
+1.        Adevărul când îl ai
+Se cunoaşte-n ochi şi grai
+Că-s privirile senine
+/: Fără tremur şi ruşine :/
+2.        Adevărul când îl ştii
+Drept te duci şi drept revii
+Nu ţi-s căile sucite
+/: Ci-s curate şi sfinţite :/
+
+[s2]
+3.           Adevărul când trăieşti
+Străluceşti oriunde eşti
+Chiar de-ai fi aruncat şi-n tină
+/: Viaţa ta va fi lumină :/
+4.          Adevărul când îl spui
+N-avea frica nimănui
+Orişicine-ar fi să fie
+/: Apără-l cu vrednicie :/
+
+[s3]
+5.          Adevărul când îl nalţi
+Fii lumină celorlalţi
+Căci oriunde ar fi oriunde
+/: Adevărul nu-l ascunde :/
+6.          Adevărul când iubeşti
+Asculta-vei cât trăieşti
+Cât îl vei urma întruna
+/: El ţie crucea, El cununa :/
+
+[order]
+s1,s2,s3

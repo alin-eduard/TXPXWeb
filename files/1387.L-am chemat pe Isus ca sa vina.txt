@@ -1,0 +1,73 @@
+[s1]
+1387.
+1.  L-am chemat pe Isus ca să vină
+Din măreţia slavei Lui de sus
+Şi pacea Lui cea Sfântă şi divină
+Îţi dă să aveţi nădejdea cea de sus.
+L-am chemat pe Isus ca să vină
+Şi binecuvântarea să v-o dea
+La bine şi la rău când drumul va fi greu
+El să rămână lângă voi mereu.
+
+[s2]
+2.  Când va fii a voastră cununie
+Şi un cântec nou noi vrem ca să cântăm
+Atunci va rămânea în amintire
+Un cântec printre lacrimi îl cântăm.
+Un cântec nou la rugăciune sfântă
+Ce înspre ceruri noi o înălţăm
+Ca Domnul să vă de-a pe veci iubirea Sa
+Şi lângă voi rămână pururea.
+
+[s3]
+3.  Privirea noastră o îndreptăm spre Tine
+Tu fiica noastră în rânduri ai plecat
+Căci Domnul cu voi astăzi va rămânea
+În inimă mereu te vom păstra.
+Aştept un drum ca să se unească
+Un drum de nesfârşite împliniri
+Un drum cu bucurii şi plin de fericiri
+Alături de al Tău Mire iubit.
+
+[s4]
+4.  Am  înţeles cum ne-a fost lupta noastră
+De fraţii noştri care au trecut
+Şi cu ale noastre melodii şi versuri
+Simţeam împărăţia Domnului
+Ştiam că Domnul Isus şi azi trăieşte
+Şi jertfa Lui de sus de pe calvar
+El azi le-o dă în dar căci încă mai e har
+Pentru cei care v-or mântuirea.
+
+[s5]
+5.  Adeseori în nopţi de stăruinţă
+Cu drag pe Domnul noi l-am adorat
+Iar alte ori am stat în rugă către Tine
+Sau la Evanghelizări am alergat.
+Şi din inimă a noastră cântare
+Spre înălţime sus s-a ridicat
+Şi Acel ce ne-a creat din cer ne-a ascultat
+Şi biruinţă nouă El ne-a dat.
+
+[s6]
+6.  Căci iată noi privim astăzi în urmă
+Ne pare rău căci de azi ne despărţim
+Însă dorim ca-n cer la Sfânta nuntă
+Din nou acolo cu toţii să ne întâlnim.
+Şi împreună în viaţa Sfântă
+O veşnicie întreagă vom cânta
+Acolo-n slava Sa El ne va chema
+Şi cu El vom rămânea pururea.
+
+[s7]
+7.  Şi stând atunci o Isuse dulce
+Se va extinde nunta către zări
+Iar Tu de mână pe ai Tăi vei conduce
+E ruga ce spre Tine o îndreptăm.
+Păstrează-i Doamne veşnic lângă Tine
+Rămâi pe veci prea bun în casa lor
+Le fii Ocrotitor le fii Apărător
+Le fii Tu Doamne Dumnezeul lor.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

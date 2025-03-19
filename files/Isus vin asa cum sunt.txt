@@ -1,0 +1,32 @@
+[s1]
+Isus, vin aşa cum sunt,
+un pribeag pe-acest Pământ.
+Ţine-mă la pieptul Tău,
+iartă-mi şi păcatul meu!
+/: Viaţa fă-mi-o dar de preţ,
+un cristal scump şi măreţ
+Voia Ta să-nfăptuiesc,
+gloria Ta să răspândesc ! :/
+
+[s2]
+Isus, viaţa fă-mi un cânt,
+să slăvesc Numele-Ţi sfânt
+Să se vadă-n viaţa mea
+c-a învins iubirea Ta.
+/: Fă ca-n noaptea cea mai grea
+să ţin sus lumina Ta!
+Tu de ea să Te slujeşti
+pe alţii să-i mântuieşti. :/
+
+[s3]
+Isus, Domnul meu cel bun,
+fii Tu stânca mea de-acum!
+Viaţa-n Tine să-mi zidesc,
+pentru Tine să trăiesc.
+/: Şi pe cei din jurul meu
+să-i conduc spre Dumnezeu
+Nu prin ceea ce vorbesc,
+ci prin viaţa ce-o trăiesc. :/
+
+[order]
+s1,s2,s3

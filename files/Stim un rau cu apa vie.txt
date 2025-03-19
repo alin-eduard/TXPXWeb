@@ -1,0 +1,32 @@
+[s1]
+Ştim un râu cu apă vie
+Dinspre Tronul Celui Sfânt
+Nu departe, într-o ţară
+Cum nici unde pe pământ.
+
+[r1]
+Lângă râul veşniciei
+Frumos e locul pregătit
+În curând vom fi acolo
+Cântând Osana nesfârşit.
+
+[s2]
+Ştim un râu ca o lumină
+Dinspre-al cerului palat
+Peste unda lui cerească
+Pomul vieţii stă plecat.
+
+[s3]
+Ştim un râu cu val de slavă
+Dinspre marile-nălţimi
+Unde vin să se închine
+Heruvimi şi serafimi.
+
+[s4]
+Ştim un râu unde sosi-vom
+Într-o fericită zi
+Haine albe şi coroane
+Fără merit vom primi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

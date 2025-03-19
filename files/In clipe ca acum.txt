@@ -1,0 +1,30 @@
+[s1]
+În clipe ca acum,
+Un cântec eu cânt,
+Un cântec eu cânt lui Isus.
+În clipe ca acum,
+Un cântec eu cânt’
+Un cântec eu cânt Domnului.
+
+[s2]
+Isus, eu Te iubesc!
+Isus, eu te iubesc!
+Isus, eu Te iubesc!
+Eu Te iubesc!
+
+[s3]
+În clipe ca acum,
+Un cântec eu cânt,
+Un cântec eu cânt lui Isus.
+În clipe ca acum,
+Un cântec eu cânt,
+Un cântec eu cânt Domnului.
+
+[s4]
+Isus, eu Te iubesc!
+Isus, eu Te iubesc!
+Isus, eu Te iubesc!
+Eu Te iubesc!
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,32 @@
+[s1]
+2138
+1. Să veghez în rugăciune, să mă rog când eu veghez,
+Asta, Doamne-Ți cer fierbinte, ca să pot
+să-naintez!
+
+[r1]
+Cor: /: Să veghez când mă rog,
+să mă rog când veghez
+/: Fie-mi viață și putere tot ce spun, tot ce lucrez ://.
+
+[s2]
+2. Să nu fie formă goală în ființa mea nimic,
+Când prin lume spun de Tine și Cuvântul Tău ridic!
+
+[s3]
+3. Ci-adevăr să fiu în toate
+Și în rugă și în cânt,
+Și-n iubirea jertfitoare,
+și-n tărie și-n cuvânt!
+
+[s4]
+4. Ca prin toate să se vadă voia Ta și harul Tău,
+Și-o deplină despărțire
+de tot ce-i firesc și rău!
+
+[s5]
+5. Să veghez în rugăciune, să mă rog cu foc mereu,
+Ca făcând așa, pot vrednic să Te-aștept, Isuse-al meu!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

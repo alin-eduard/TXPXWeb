@@ -1,0 +1,26 @@
+[s1]
+Amicul meu, Emanuel
+În Ghetsimani eu vin cu El
+În locul cel mai liniştit
+Din cîte eu am întîlnit.
+
+[r1]
+Mă rog cu El şi-s fericit
+Mă rog cu El şi-s mîntuit.
+Din lumea asta sînt scăpat
+Pe veci de veci răscumpărat.
+
+[s2]
+Acolo El ne-a-ncredinţat
+Lui Dumnezeu cel minunat.
+Doresc în cer cu El să fim
+Şi-n veci să nu ne despărţim
+
+[s3]
+O, Ghetsimani, te-oi lăuda
+În tine eu m-oi închina
+Ca loc în cer să dobîndesc
+Şi sufletul să-mi odihnesc.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,42 @@
+[s1]
+Eşti totul Doamne pentru mine,
+Eşti visul meu cel mai frumos.
+Mi-am pus încrederea în Tine,
+Prietenul meu credincios.
+Am adunat pe a Ta cale,
+Tezaurul cel mai măreţ.
+Căci toate darurile Tale,
+Sunt tot ce am eu mai de preţ.
+
+[r1]
+Eşti călăuza mea în viaţă,
+Cu nimeni  nu te-aş mai schimba,
+Când Tu Isuse mergi în faţă,
+Să rătăcesc cum aş putea?
+Mi-eşti far luminător în noapte
+Atunci când naufragiez,
+De-aceea Domnul meu în toate,
+În braţul Tău mă-ncredinţez.
+
+[s2]
+În Tine am comori ascunse
+Ce pentru nimic nu le-aş da.
+Tu-mi saturi sufletul Isuse
+Mereu cu bunătatea Ta.
+Tu mă păzeşti întotdeauna,
+Şi îmi lungeşti viaţa mea.
+Căci Tu o ştii că nu ţărâna
+Te poate Doamne lăuda.
+
+[s3]
+Eu Te-am ales din tinereţe,
+Tu-ai fost mereu nădejdea mea.
+Şi până-n anii bătrâneţii
+Aş vrea să cânt în cinstea Ta.
+Eşti stânca mântuirii mele
+La poala-Ţi sfântă ancorez.
+Ajută-mi chiar şi-n clipe grele
+Credinţa-n Tine s-o păstrez.
+
+[order]
+s1,r1,s2,r1,s3,r1

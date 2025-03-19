@@ -1,0 +1,20 @@
+[s1]
+/: El vine iar, El vine iar,
+Ce fericire negrăită;
+Se va sfârşi al nostru chin amar
+Căci Domnul vine iar. :/
+/: El în cer ne va deschide
+Poarta de mărgăritar,
+Şi spălaţi prin a Lui sânge
+Vom păşi salvaţi prin har. :/
+
+[s2]
+/: Dragoste divină, sfântă
+Ce adânc te dăruieşti
+Şi din inima lui Isus
+Peste vremi aceeaşi eşti. :/
+Aleluia, Aleluia,
+Aleluia, Aleluia.
+
+[order]
+s1,s2

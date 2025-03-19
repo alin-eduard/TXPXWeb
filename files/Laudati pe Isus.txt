@@ -1,0 +1,25 @@
+[s1]
+/: Lăudati pe Isus, lăudati pe Isus,
+Cu brat puternic El domneste.
+Lăudati pe Isus, lăudati pe Isus,
+Suntem poporul ce-l iubeste. :/
+
+[s2]
+Suntem poporul Celui ce-a-nviat,
+El este Rege Isus ne-a salvat.
+Si din voi spun.
+
+[s3]
+/: Am sărit când cheamat
+Mi s-a spus,
+Să pornesc spre casa Domnului.
+Sunt fericit să-l laud în Casa Lui :/
+
+[s4]
+Doar prin har suntem toti prezenti,
+Să-L slavim pe Dumnezeu.
+Înaltăm mâini curate spre cer,
+Si cu gura Îl slăvim cântând mereu.
+
+[order]
+s1,s2,s3,s4

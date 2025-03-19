@@ -1,0 +1,34 @@
+[s1]
+A plecat la drum Rebeca
+Spre iubitul ei sortit
+Împlinind o taină mare
+Când trecea peste nisip
+Dorul ei se împlineşte
+Pe Isaac când l-a-ntâlnit
+El i-a zis : Bine-ai venit!
+
+[s2]
+File de istorii, file de istorii
+Azi păstraţi în voi
+O veşnică comoară
+Dragoste curată, albă nepătată
+Să rămâi curată şi-n aceştia doi.
+
+[s3]
+Veacuri au trecut într-una
+Dar iubirea n-a ncetat
+Este-aceeaşi numai una
+Cu-n dor sfânt şi minunat
+O minune repetată
+Pentru mii şi mii de mii
+Care-au fost care vor fi.
+
+[s4]
+Se vor scrie-n glorii file de istorii
+Ce păstra-vor pururi
+O veşnică comoară
+Dragoste curată, albă nepătată
+Să rămâi curată şi-n aceştia doi.
+
+[order]
+s1,s2,s3,s4

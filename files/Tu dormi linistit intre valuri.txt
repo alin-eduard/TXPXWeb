@@ -1,0 +1,33 @@
+[s1]
+Tu dormi linistit intre valuri
+La cârmă pe căpătâi
+/: S-au rupt ale bărcii catarge
+Dar Tu linistit tot ramai :/
+
+[s2]
+Trezeste-Te Doamne trezeste!
+Strigau ucenicii: “Pierim !”
+/: Furtuna se tot înteteste
+O, Doamne abia mai vâslim :/
+
+[s3]
+Corabia mea mai pluteste
+Si valul se-nalta-nspumat
+/: Dar când glasul Tau porunceste
+Furtuna se opreste-ndat :/
+
+[s4]
+Mai striga si azi
+“Taci! Fară gură!”
+Mai mustră si azi valul greu
+/: Când strigi Tu întreaga natură
+Te-asculta ca esti Dumnezeu :/
+
+[s5]
+Vâslind către poarta cetătii
+Tu frate de valuri esti dus
+/: Dar luptă că-n barca vietii
+La cârmă se află Isus :/
+
+[order]
+s1,s2,s3,s4,s5

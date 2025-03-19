@@ -1,0 +1,44 @@
+[s1]
+Mi-e dor, mi-e dor de casa mea
+S-ajung acolo eu aș vrea
+Mi-e dor, mi-e dor de Tatăl meu
+Aș vrea să-L văd pe Fiul Său.
+
+[r1]
+/: Eu nu sunt de pe pământ
+Eu nu sunt de aici de jos
+Țara mea e acolo sus
+Eu mă duc după Isus :/
+
+[s2]
+Aș vrea, aș vrea s-ajung  degrab
+Să mă aplec la piept să-I cad
+Să spun atunci c-am biruit
+Să-I mulțumesc că m-a iubit
+
+[s3]
+Să plec, să plec de-aici de jos
+S-ajung în țara lui Hristos
+Că eu aici am suspinat
+Acolo voi fi mângăiat
+
+[s4]
+Eu simt, eu simt că cineva
+E Domnul în inima mea
+Îi simt susurul Lui cel blând
+Îi simt fiorul Lui cel Sfant
+
+[s5]
+Mai ai puțin mai ai putin
+Și dupa tine eu vin
+Mai rabdă până s-amplini
+Cuvântul Sfânt din prorocii.
+
+[s6]
+Nu sunt, nu sunt de pe pământ
+Eu sunt din oastea Celui Sfânt
+Am ochii ațintiți spre cer
+Și de necazuri nu mă tem.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

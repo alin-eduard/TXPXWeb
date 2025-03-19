@@ -1,0 +1,52 @@
+[s1]
+857.
+Cetatea mea locaş iubit
+Oraş de aur strălucit
+Pe calea Ta merg cei aleşi
+Cetatea mea departe eşti.
+Mi
+
+[s2]
+2. Împărăţie strălucită
+Cu fericire-mpodobită
+În tine vreau ca să ajung
+Ah,drumul este foarte lung.
+
+[s3]
+3.Doresc şi mult nu va mai fi
+Când ziua-aceea va veni
+Să scap de lutul pământesc
+De poftele ce mă pândesc.
+
+[s4]
+4.Renunţ la orişice plăceri
+Din lumea plină de dureri
+Ridicând ochii mei în sus
+Aştept cu drag pe-al meu Isus.
+
+[s5]
+5.  Dar până vine mă grăbesc
+Ca viaţa să mi-o pregătesc
+Iar starea-mi va desăvârşi
+Când El în slavă va veni.
+
+[s6]
+6. Atunci cu toţi ai Lui aleşi
+De pe pământ vom fi culeşi
+În glorie noi vom pleca
+Cu Isus vom fi pururea.
+
+[s7]
+7.  Uita-vom orice chin, dureri
+În Raiul plin de mângâieri
+Privind la faţa Mielului
+La strălucirea slavei Lui.
+
+[s8]
+8.  Atunci noi toţi ai Lui aleşi
+Cu mare dor să ne vedem
+În ceruri sus în veşnicii
+Unde sunt numai bucurii.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

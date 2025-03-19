@@ -1,0 +1,57 @@
+[s1]
+1287.            Mi m
+Peste mine cade-o frunză
+Îngălbenită fluturând uşor
+Dintre mii ea se desface
+Nu-i pasă de prietenia lor
+O de ce această frunză a căzut
+Poate vlagă în ea n-a avut
+Poate singură ea nicicând nu s-a crezut
+Aşa putem să fim şi noi oricând.
+1.
+
+[r1]
+Cor:	Prieten drag
+De ce stai azi aşa nepăsător
+Prieten drag
+Vino cât Isus mai este salvator
+
+[s2]
+2. Ca o floare este viaţa
+Cât trăieşti pe-acest pământ străin
+Plină de dureri e calea
+Plină de poveri necaz şi chin
+O ce viaţă va fi acolo sus
+Când ne vom întâlni cu Isus
+Vom uita de dureri vom primi mângâieri
+Şi vom fi pururi cu Isus.
+
+[s3]
+Cor:	Prieten drag
+De ce stai azi aşa nepăsător
+Prieten drag
+Vino cât Isus mai este Salvator
+
+[s4]
+3.       Te vei ofili ca floarea
+Şi plăceri nu vei simţi de fel
+Însă vei zări viaţa
+Care astăzi e ascunsă-n el
+De ce pui preţ pe lucruri care pier
+Şi nu vrei să priveşti înspre cer
+Căci tot ce-ai adunat
+Totul va fi spulberat
+Şi tu aspru vei fi judecat
+
+[s5]
+Să priveşti mereu la Isus
+Care pe Golgota a murit
+Părăsind fiind de tot
+Asta pentru că mult ne-a iubit
+O ce mare iubirea avea
+Când în grele dureri suferea
+Vin la El umilit ca să fii mântuit
+Şi în veci tu să fii fericit.
+
+[order]
+s1,r1,s2,s3,s4,r1,s5

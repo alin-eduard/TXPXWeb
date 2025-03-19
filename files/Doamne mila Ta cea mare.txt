@@ -1,0 +1,25 @@
+[s1]
+Doamne mila Ta cea mare
+Peste noi azi revarsă.
+Dă-ne pace şi-ndurare
+O, Isuse Te rugăm!
+
+[r1]
+/: Lîngă Tine drag Isus
+Stau mereu alăturea,
+Lîngă Tine fericire am găsit! :/
+
+[s2]
+Iar în clipa încercări
+Fii mereu de partea mea.
+Ca să spun mereu, o, Doamne
+Tu eşti mîngîierea mea!
+
+[s3]
+Va veni-ncurînd şi ziua
+Întilnirii cu Hristos.
+Fericit vei fi văzîndu-L
+Cum te-aşteaptă bucuros!
+
+[order]
+s1,r1,s2,r1,s3,r1

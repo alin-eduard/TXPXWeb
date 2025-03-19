@@ -1,0 +1,32 @@
+[s1]
+De-ai aflat comoara vie,
+Suflete, de ce mai stai?
+Vrei să cumperi veşnicie?
+Mergi şi vinde tot ce ai!
+N-ai să poţi sluji în lume
+Doi stăpâni, oricât ai vrea,
+Lângă Domnul stai şi spune:
+“Biblia-i comoara mea!”
+
+[s2]
+Dacă vrei să strângi avere,
+Suflete, de ce-ntârzii?
+Domnul inima îţi cere
+Ca pe veci bogat să fii!
+Nu-i o altă carte-n lume
+Cu mai mult câştig în ea!
+Lângă Domnul stai şi spune:
+“Biblia-i comoara mea!”
+
+[s3]
+De-ai găsit tot adevărul,
+Suflete, ce mai doreşti?
+Nu poţi moşteni şi cerul,
+Şi plăcerile lumeşti
+Lumea-ndată va apune,
+N-ai să poţi nimic lua!
+Lângă Domnul stai şi spune:
+“Biblia-i comoara mea!”
+
+[order]
+s1,s2,s3

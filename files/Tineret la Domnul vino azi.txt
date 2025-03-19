@@ -1,0 +1,38 @@
+[s1]
+Tineret la Domnul vino azi
+Cu inima curata El te vrea
+Numai El te scapa din necaz
+O vino, o vino acum si nu mai sta
+
+[s2]
+Osana Tie Isuse-ti cantam
+Sa ne binecuvanti noi te rugam
+Ca lauda in viata noi sa-ti dam
+Tie Domn sublim
+
+[r1]
+Priveste azi la tineretul Tau
+Cu mana Ta Tu sa-i feresti de rau
+Si-n gura lor tu sa le pui Cuvant
+Pe acest pamant.
+
+[s3]
+Glasul Domnului tu sa-l asculti
+Si-n inima primeste-L, nu-L lasa
+Maine nu se stie daca poti
+O vino, o vino acum si nu mai sta
+
+[s4]
+Spulbera din inima ta tot
+Deschide-o lui Isus cat mai esti viu
+Maine nu se stie daca poti
+Se poate ca sa fie prea tarziu
+
+[s5]
+Osana Tie Isuse-ti cantam
+Sa ne binecuvanti noi te rugam
+Ca lauda in viata noi sa-ti dam
+Tie Domn Suprem
+
+[order]
+s1,s2,r1,s3,s4,s5,r1

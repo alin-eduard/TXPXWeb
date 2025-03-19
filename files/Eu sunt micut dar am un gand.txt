@@ -1,0 +1,26 @@
+[s1]
+Eu sunt micuţ, dar am un gând:
+Vreau să-I slujesc Mielului Sfânt
+Cât voi trăi pe-acest Pământ.
+Să fiu cu El şi Lui să-I cânt.
+
+[r1]
+Isus la El cu drag mă vrea,
+Ca să-I slujesc cu viaţa mea.
+Deşi copil, cu El voi fi
+Şi pe Pământ şi-n veşnicii.
+
+[s2]
+Eu sunt micuţ, dar am un glas
+Cu care-L laud în orice ceas
+Pe Dumnezeu, căci m-a salvat.
+În veci El fie lăudat.
+
+[s3]
+Eu sunt micuţ, dar am un dor:
+Să fiu cu-al Domnului popor
+Şi-aicea jos, şi-n cer curând,
+Când va veni Isus cel Sfânt.
+
+[order]
+s1,r1,s2,r1,s3,r1

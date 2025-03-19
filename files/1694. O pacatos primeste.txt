@@ -1,0 +1,43 @@
+[s1]
+1694.
+1. O păcătos primeşte
+Chemarea cerului
+Vino şi te grăbeşte
+E vremea harului
+Cor:	/:Vino la El :/ El te primeşte
+O păcătos vino la El
+Aşa cum eşti El te primeşte
+Vino la El
+
+[s2]
+2. Păcatul te apasă
+Şi viaţa iţi este grea
+N-ai pace sufletească
+O vino şi El ţi-o va da
+Cor:	/:Vino la El :/ El te primeşte
+O păcătos vino la El
+Aşa cum eşti El te primeşte
+Vino la El
+
+[s3]
+3. Întoarce-te la Domnul
+Prietene iubit
+Nu vrei să vezi tu locul
+De Domnul pregătit
+Cor:	/:Vino la El :/ El te primeşte
+O păcătos vino la El
+Aşa cum eşti El te primeşte
+Vino la El
+
+[s4]
+4. Vrăjmaşul te robeşte
+Şi nu vrea să te-ntorci
+Dar Isus te iubeşte
+O vino cât încă mai poţi
+Cor:	/:Vino la El :/ El te primeşte
+O păcătos vino la El
+Aşa cum eşti El te primeşte
+Vino la El
+
+[order]
+s1,s2,s3,s4

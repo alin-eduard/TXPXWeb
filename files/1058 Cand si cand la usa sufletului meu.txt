@@ -1,0 +1,31 @@
+[s1]
+Când şi când la uşa sufletului meu
+Vin necazuri multe lovindu-mă greu
+1058.
+1.
+Pare că atuncea sunt cu drept cuvânt
+O frunză pe apă sau un fulg în vânt
+2.
+În acele clipe văd că-s slab şi mic
+Văd că fără Domnul eu nu sunt nimic
+3.
+
+[s2]
+4.	Atunci ridic ochii către cer în sus
+Şi cer ajutorul Domnului Isus
+Domnul mă mângâie ca un Tată bun
+Şi eu cu credinţă toate Lui îi spun
+5.
+Lacrimi de căinţă curg din ochi în jos
+Iar gura mea strigă sunt un păcătos
+6.
+
+[s3]
+Astfel ştiu că-n lume mult să-L preţuiesc
+Să-mplinesc cuvântul Fiului ceresc
+8.   Să-Ţi cânt eu de-a pururi Ţie Tată sfânt
+Căci numai prin Tine mântuit eu sunt.
+7.
+
+[order]
+s1,s2,s3

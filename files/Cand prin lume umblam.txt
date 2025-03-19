@@ -1,0 +1,35 @@
+[s1]
+Când prin lume umblam
+După soare alergam.
+Când priveam cât de sus se află el
+Am aflat că aici
+Este-un plan să te ridici
+Disperat eu vedeam cum mă înşel.
+
+[r1]
+Am alergat la Isus
+Să mă-ndrume de sus
+Cât de mult eu doream să fiu curat!
+Am alergat la Isus
+Să mă-ndrume de sus
+Pacea Lui, liniştea-n El am aflat.
+
+[s2]
+Când un zid de granit
+Pe cărare s-a ivit.
+Când plângeam
+şi strigam fără răspuns
+Am aflat că aici
+Este-un plan să te ridici
+Disperat am strigat către Isus.
+
+[s3]
+Domnul meu, eu doresc
+Să rămân numai al Tău
+Pe cărare să merg liniştit.
+Când furtuni mari apar
+Neclintit să fiu mereu
+Să iubesc şi să fiu şi eu iubit.
+
+[order]
+s1,r1,s2,r1,s3,r1

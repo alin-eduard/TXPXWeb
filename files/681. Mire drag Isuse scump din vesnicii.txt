@@ -1,0 +1,54 @@
+[s1]
+1. Mire drag Isuse
+Scump din veşnicii
+Te aşteaptă mireasa Ta ca să vii
+/: Să ne duci în cerul sfânt
+De pe acest străin pământ
+Unde suntem
+Numai nişte călători :/
+681.
+
+[s2]
+2. Căci de multe ori aici
+Pe acest pământ
+În necazuri şi dureri
+Îi vezi plângând
+/: Pe iubiţii tăi copii
+Ce te aşteaptă ca să vii
+Să ne duci la Tine acasă
+În veşnicii :/
+
+[s3]
+3. Să uităm întotdeauna de dureri
+De necazuri, de ispite, de încercări
+/: De lacrimi şi de suspine
+Stând la tronul Tău divin
+Să-Ţi aducem
+Osanale-n veci Amin :/
+
+[s4]
+4. Iar voi care în nepăsare
+Astăzi staţi
+Şi de glasul lui Isus nu ascultaţi
+/: Care strigă tot mereu
+Vino, vino, dragul meu
+Vino până uşa mai e deschisă :/
+
+[s5]
+5. Când Domnul Isus
+Pe nori va apărea
+Să aducă fiecăruia plata
+/: Caută să faci voia Sa
+Ca să primeşti cununa
+Şi să fii întotdeauna cu Isus :/
+
+[s6]
+6. Dar până atuncea
+Noi să ne luptăm
+Viaţa curată noi să ne-o păstrăm
+/: Ca să nu rămânem jos
+Când va apărea Hristos
+Să ne ducă sus în cerul glorios :/
+
+[order]
+s1,s2,s3,s4,s5,s6

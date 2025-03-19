@@ -1,0 +1,33 @@
+[s1]
+1613.
+1.Mie atât mi-a mai rămas
+Să mă-ncred în Dumnezeu
+Să-L ascult şi pas cu pas
+Să mă poarte braţul Său
+
+[r1]
+Cor:	Pot totul în Isus
+El e tăria mea,
+Prin El sunt biruitor
+Fie lupta cât de grea
+
+[s2]
+2.Valuri mari de s-or stârni
+Totu-n jur de s-ar dărâma
+Nu mă va putea clinti
+De pe temelia Ta
+
+[s3]
+3.De-ar ieşi înaintea mea
+Orice duh spăimântător
+Tot  mai tare-i Domnul meu
+Cu El sunt biruitor
+
+[s4]
+4.Înainte tot mereu
+Orice mi s-ar întâmpla
+El cu mine e mereu
+Pentru mine va lupta.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

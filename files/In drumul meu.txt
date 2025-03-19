@@ -1,0 +1,35 @@
+[s1]
+În drumul meu
+Mă-ntreabă ades semenii mei
+De Cel Sfânt
+Cum pot să cred intr-un mister
+Într-un abis nedefinit
+
+[r1]
+Cum să le spun
+Că Tu exişti şi eu te simt
+Cum să le arăt
+Că ei sunt orbi
+Şi merg dormind
+
+[s2]
+Să le arăt că frunza-n pom
+E lucrul Tău să le explic
+Oceanele Tu le-ai întins
+Şi munţi-nalţi spre Tine tind
+
+[s3]
+Să le-amintesc
+Că galaxii se-nvârt mereu
+Şi-n univers de mii de ani
+S-acelaşi legi
+Din infinit spre infinit
+
+[s4]
+De mă-nţeleg si-n drumul lor
+Te vor căuta, Te vor găsi
+Şi-atuncia nu vor întreba
+De ce mai cred? Şi de ce cânt?
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

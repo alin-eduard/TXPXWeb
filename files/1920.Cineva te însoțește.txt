@@ -1,0 +1,33 @@
+[s1]
+1920                 Mi
+1. Cineva te însoțește
+Totdeauna pe cărare
+Și-ți cunoaște-n adâncime
+Toată a vieții frământare
+
+[r1]
+Cor: E Isus e Isus
+Spune-i lui tot ce te apasă
+Spune-i Lui Isus
+/: Spune-i Lui Isus :/.
+
+[s2]
+2. Cineva vrea să te ajute
+Când te-ncearcă o grea durere
+Vrea să-ți dea alinul dulce
+Și în suflet mângâiere
+
+[s3]
+3. Cineva-ți privește gândul
+Și a lacrimei prelingeri
+Știe rana ce te arde
+Și vrea ca să nu mai sângeri
+
+[s4]
+4. Cineva te priveghează
+Și te-ndeamnă spre ‘nainte
+Ai încredere deplină
+În iubirea Lui fierbinte.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

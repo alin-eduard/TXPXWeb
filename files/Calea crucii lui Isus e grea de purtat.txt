@@ -1,0 +1,38 @@
+[s1]
+Calea crucii lui Isus
+e grea de purtat, de dus;
+Si lui Isus I-a fost grea
+Dara eu cum voi putea?
+
+[s2]
+Ajuta-mi, Doamne, si mie
+sa-Ti urmez doar numai Tie,
+Ca eu sa nu-Ti mai gresesc
+si sa nu Te rastignesc!...
+
+[s3]
+Calea crucii lui Isus
+e grea de purtat, de dus;
+N-o poate duce oricine,
+numai cei ce vin la Tine.
+
+[s4]
+Calea cruci-I cale grea,
+cu lume n-o poti urca;
+Calea cruci-I grea, amara
+pana iesi din lume-afara.
+
+[s5]
+Dupa ce-ai iesit din ea,
+vei zbura ca pasarea
+Si vei ajunge la cer,
+langa blandul Mielusel.
+
+[s6]
+Calea crucii, grea, cu spini,
+cuprinsa de maracini,
+Ajuta-mi Doamne,
+sa trec si cu Tine sa petrec!
+
+[order]
+s1,s2,s3,s4,s5,s6

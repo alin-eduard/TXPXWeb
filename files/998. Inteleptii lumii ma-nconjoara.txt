@@ -1,0 +1,51 @@
+[s1]
+998.
+1.Înţelepţii lumii mă înconjoară
+Şi mă întreabă: ”Cine-i Isus?”
+Pun la-ndoială a mea credinţă
+Şi spun că voi suferi nespus.
+
+[s2]
+/:De nimeni nu mă tem
+Pe Tine când Te chem
+Numele Tău cu drag
+Eu Îl vestesc
+În faţa cui voi sta
+Nu mă voi clătina
+Căci legea Ta
+Eternă o păzesc. :/
+
+[s3]
+2.Privesc în zare
+Măreţul soare
+Ce străluceşte neîncetat
+Pun o întrebare la fiecare:
+”Cine cunoaşte
+Cin’ l-a creat?”
+
+[s4]
+/: Şi dacă într-o zi
+Soarele-ar zăbovi
+Cin-ar cunoaște-această cauză
+Ştiinţa omului
+Cu-nţelepciunea lui
+Nu va cunoaşte
+Taina soarelui. /:
+
+[s5]
+3. Câmpii şi munţii,
+Râuri şi marea
+Vestesc iubirea
+Celui Preaînalt
+Tot universul şi-ntreg pământul
+La glasul Lui s-au cutremurat.
+
+[s6]
+Şi toate florile-şi deschid petalele
+Pe-al câmpului covor nemărginit
+Căci tot ce ai creat
+Doar omului i-ai dat
+Fiindcă atât de mult Tu l-ai iubit.
+
+[order]
+s1,s2,s3,s4,s5,s6

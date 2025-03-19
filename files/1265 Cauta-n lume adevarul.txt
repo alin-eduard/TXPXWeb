@@ -1,0 +1,68 @@
+[s1]
+Caută-n lume adevărul
+Dacă vrei ca să trăieşti
+Caută harul de acuma
+Calea Sfântă care-i una
+Până viaţa n-o sfârşeşti
+Cor:
+1265
+Din mulţimea de cuvinte
+Ce-s rostite fără seamă
+Omule în câte oare
+Adevărul stă-n picioare?
+1.
+
+[s2]
+Mii de ani trecuţi de-a rândul
+Ţi-au acoperit trecutul
+Vorba, fapta chiar şi gândul
+Le va judeca Cuvântul.
+2.
+Caută-n lume adevărul
+Dacă vrei ca să trăieşti
+Caută harul de acuma
+Calea Sfântă care-i una
+Până viaţa n-o sfârşeşti
+Cor:
+
+[s3]
+Om ce-ţi pui nădejdea-n lucruri
+Care pier şi putrezesc
+Singur te înşeli pe tine
+În a vieţii drumeţie
+3.
+Caută-n lume adevărul
+Dacă vrei ca să trăieşti
+Caută harul de acuma
+Calea Sfântă care-i una
+Până viaţa n-o sfârşeşti
+Cor:
+
+[s4]
+Unul singur e-adevărul
+Cel ce-a fost crucificat
+El e calea şi viaţa
+Adevărul ce-ţi dă pacea
+4.
+Caută-n lume adevărul
+Dacă vrei ca să trăieşti
+Caută harul de acuma
+Calea Sfântă care-i una
+Până viaţa n-o sfârşeşti
+Cor:
+
+[s5]
+Ce-ţi aduce judecata
+Când se v-arăta Adevărul
+Ce-ţi dă viaţa-n veşnicie
+Rai sau Iad pentru vecie.
+5.
+Cor:
+Caută-n lume adevărul
+Dacă vrei ca să trăieşti
+Caută harul de acuma
+Calea Sfântă care-i una
+Până viaţa n-o sfârşeşti
+
+[order]
+s1,s2,s3,s4,s5

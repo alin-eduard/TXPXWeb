@@ -1,0 +1,26 @@
+[s1]
+Mă-ntreb ades, o, Isuse,
+şi mă gândesc mereu
+Când Tu pe nori apărea-vei
+cum oare, cum voi fi eu?
+
+[r1]
+Eu Te chem, Te chem, Isuse, acum
+O, vino, o, vino la noi!
+Căci slabi suntem, lipsiţi de puteri
+Şi-ades copleşiţi de nevoi!
+
+[s2]
+Mă-ntreb ades, o, Isuse,
+privind în jurul meu
+Când vii, oare găsi-vei credinţă
+în Dumnezeu?
+
+[s3]
+Mă-ntreb ades, o, Isuse,
+în suferinţa mea
+Cât, oare cât zăbovi-vei,
+Doamne, s-asculţi ruga mea?
+
+[order]
+s1,r1,s2,r1,s3,r1

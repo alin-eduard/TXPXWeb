@@ -1,0 +1,25 @@
+[s1]
+Pe Isus L-am primit
+când m-a chemat
+/: Păcatul mi-a luat :/
+Şi pacea Lui, îndată
+El mi-a dat
+Păcatul mi-a luat
+
+[r1]
+/: Păcatul mi-a luat :/
+De-aceea-I cânt neîncetat
+Aleluia!
+Pe Isus L-am primit
+Când m-a chemat
+Păcatul mi-a luat
+
+[s2]
+Daca-L primeşti azi
+pe Isus Hristos
+/: Păcatu-ţi va lua :/
+Şi fericit vei merge bucuros
+Păcatu-ţi va lua
+
+[order]
+s1,r1,s2,r1

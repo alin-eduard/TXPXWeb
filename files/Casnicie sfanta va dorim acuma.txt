@@ -1,0 +1,49 @@
+[s1]
+Căsnicie sfântă,
+vă dorim acuma,
+Când, pe-a voastră faţă,
+astăzi radiază
+Mii de raze sfinte,
+ce sporesc lumina
+De la Cel ce, singur,
+binecuvântează!
+
+[s2]
+Crinii mântuirii, vă doresc iubire
+Şi o puritate, ca pe-a lor petală;
+Cântăreţii, cântul, puneţi în uimire
+Trilurile care cântă-n crâng, cu fală.
+
+[s3]
+Plânge azi grădina,
+freamătă cu jale
+Amintiri, ce-au însorit copilăria;
+Plâng părinţii care-au
+ostenit cu-ardoare,
+Să vă facă-n viaţă numai bucuria...
+
+[s4]
+Brazii biruinţei, vă doresc tărie!
+Să urmaţi credinţa, numai în răbdare!
+Biblia, în toate, călăuză fie!
+Ascultarea are, zile-n şir cu soare
+
+[s5]
+Dă-le, Doamne-n viaţă
+ne-ncetat iubirea!
+Fii cu ei, la bine,
+fii cu ei la greu!
+Mergi cu ei alături!
+Tu eşti ocrotirea;
+Nelipsită fie pacea Ta mereu!
+
+[s6]
+Fericire vă doreşte adunarea,
+Peste ei, o, Doamne-acum,
+Întinde-Ţi mâna!
+Dă-le biruinţa, binecuântarea
+Iar apoi, în urma,
+să le dai cununa!
+
+[order]
+s1,s2,s3,s4,s5,s6

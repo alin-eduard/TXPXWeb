@@ -1,0 +1,42 @@
+[s1]
+Re m
+1. Nu pierde vremea, nu neglija
+Tu cel ce eşti un serv în casa Mea
+Căci socoteală Mie îmi vei da
+De tot ce ai lucrat în via Mea.
+278.
+
+[s2]
+2. Nu pierde vremea, nu neglija
+De eşti învăţător în casa Mea
+Să spui la toţi
+Căci viaţa Eu mi-am dat
+Ca să răscumpăr lumea de păcat
+
+[s3]
+3. Nu pierde vremea, nu neglija
+Tu cel ce eşti cântăreţ în casa Mea
+Căci Eu talantul ţie ţi l-am dat
+Cu el să mângâi sufletul întristat
+
+[s4]
+4. Nu pierde vremea, nu neglija
+Tu cel ce eşti proroc în casa Mea
+Căci multe zile multe n-or mai fi
+Şi cel ce-a zis că vine va veni
+
+[s5]
+5. Nu pierde vremea, nu neglija
+Tu cel ce eşti străjer în casa Mea
+Te-am pus de strajă
+Pe zidul cel mai înalt
+Cu goarna-n mână gata de sunat
+
+[s6]
+6. Nu pierde vremea, nu neglija
+De vrei să semeni în grădina Mea
+Tu seamănă cuvântul cel curat
+Pe care Tatăl vouă vi L-a dat.
+
+[order]
+s1,s2,s3,s4,s5,s6

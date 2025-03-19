@@ -1,0 +1,38 @@
+[s1]
+2112    Fa
+1. Biruinţa se primeşte
+prin credinţă
+Dacă crezi cu-adevărat vei birui
+Dacă vii la Domnul azi cu umilinţă
+Fericit pe brațul Său vei fi.
+
+[r1]
+Cor:  /: Crede roagă-te,
+Pe genunchi apleacă-te
+Mulţumeşte-I Domnului
+Că e cu tine
+Spune-I Domnului
+Tot necazul tău
+Şi-ai să vezi cum
+biruinţa vine :/
+
+[s2]
+2. Încercarea care vine
+peste tine.Nu e mare
+Ca tu să n-o poţi răbda
+Roagă-te la Domnul
+Astăzi cu credinţă
+Izbăvire vei primi
+Din mâna Sa.
+
+[s3]
+3. Dacă cei din jurul tău
+Te prigonesc
+Şi cu spini cărarea ta
+Ți-o împodobesc
+Atunci tu adu-ţi aminte de Isus
+Cum pe cruce
+El a fost străpuns.
+
+[order]
+s1,r1,s2,r1,s3,r1

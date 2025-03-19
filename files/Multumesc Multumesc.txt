@@ -1,0 +1,55 @@
+[s1]
+Multumesc, Multumesc
+Pentru toate Doamne
+azi iti multumesc
+/:Multumesc, Multumesc:/
+
+[s2]
+Astazi omule i-ai adus tu multumire
+Tatalui din cer, ce viata-n dar ti-a dat?
+Ai plecat genunchiul in a ta-ncapere
+Cu recunostinta, multumiri i-ai dat?
+
+[s3]
+/: Daca am tacea, cine altul ar canta
+Stim ca pietrele, ele ar striga :/
+
+[s4]
+De aceea, De aceea
+Uneste-te in cant si canta
+Urmas al multumirii sfinte
+Adu-I ca jertfa-a ta viata
+Si zi, si zi.
+
+[s5]
+/: Iti multmesc :/ x2
+
+[s6]
+/: Pentru bunatate, pentru indurare
+Pentru binecuvantarea Ta
+Pentru bucurie, pentru mantuire
+Pentru Fiul Tau, ne-ai dat in dar
+Pentru incercare, pentru zi cu soare
+Pentru lacrima ce-a curs pe-obraz
+Cu recunostinta vin acum
+Si-ti multumesc :/
+
+[s7]
+Eu vin, acum Tu, ne-ai dat har
+O, Domnul meu, e un dar
+Ce mi-ai dat, si vreau
+Domnul meu, doar prin El,
+sa-it cant da, sa-ti cant.
+
+[s8]
+Niciunul, da unu nu poate sa opreasca
+Cantarea de lauda ce-I gata sa tasneasca
+Caci lauda, da lauda-I
+pentru cel ce iubeste
+E doar pentru Domnul
+din ceruri ce domneste.
+Eu laud, Da laud, Pe Domnul
+Eu laud, pe Domnul meu!
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

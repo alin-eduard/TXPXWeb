@@ -1,0 +1,12 @@
+[s1]
+/: Deschide-mi ochii,
+Vreau să Te văd Isus!
+Să Te-ating cu mâna,
+Să-Ţi spun: “Te iubesc!”
+Şi fă-mi urechea cu dor
+Să Te-asculte,
+Deschide-mi ochii,
+Vreau să Te văd Isus! :/
+
+[order]
+s1

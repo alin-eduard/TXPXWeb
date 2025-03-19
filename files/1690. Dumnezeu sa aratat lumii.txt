@@ -1,0 +1,28 @@
+[s1]
+1690.
+1. Dumnezeu s-a arătat lumii
+Prin Fiul Său Isus Hristos
+Pe când eram noi încă păcătoşi
+Prin dragostea Lui ne-a salvat
+Pe veci El ne-a eliberat
+De sub povara grea a păcatului
+El ne-a iubit atât de mult
+Cu dragoste fără sfârşit
+Ne-a mântuit prin jertfa sfântă,
+Murind pentru păcatul meu,
+Murind pentru păcatul tău
+El ne-a împăcat pe veci cu Dumnezeu.
+
+[s2]
+Cor:	Tu, suflete ce-n păcat rătăceşti,
+Vino azi la Isus
+Lui predă-te azi ca să fii salvat
+Nu te juca cu viaţa ta
+Tu, suflete, singur
+Poţi s-alegi şi să  hotărăşti
+Viaţa ta de veci, pocăieşte-te,
+Primeşte-L azi
+Pentru viaţa ta /:în viaţa ta:/
+
+[order]
+s1,s2

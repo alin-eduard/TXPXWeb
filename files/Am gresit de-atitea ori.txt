@@ -1,0 +1,21 @@
+[s1]
+1
+Am greşit de-atâtea ori,
+Doamne,   iartă-mă !
+Te-am făcut ca să plângi deseori,
+Doamne, iartă-mă !
+/: Dar acum aş dori să vezi
+Că m-am schimbat
+Şi-aş dori să asculţi când îţi spun: ”Te iubesc” :/
+
+[s2]
+2
+Dacă Te-am supărat uneori, Doamne, uită.
+Dacă Ţi-am întristat faţa Ta,
+Doamne, uită.
+/: Dar acum aş dori să vezi
+Că m-am schimbat
+Şi-aş dori să asculţi când îţi spun: ”Te iubesc” :/
+
+[order]
+s1,s2

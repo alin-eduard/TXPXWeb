@@ -1,0 +1,21 @@
+[s1]
+Hai, vino acum să-L lauzi,
+Hai, vino să-i dai Lui inima.
+Hai, aşa cum eşti să-L lauzi
+Hai aşa cum eşti n-aintea Sa, Hai!
+
+[r1]
+Orice om va mărturisi
+Că eşti Domn,
+Toţi genunchii se vor pleca,
+Binecuvântaţi vor fi toţi
+Cei ce te vor căuta!
+
+[r2]
+Hai, vino acum să-L lauzi,
+Hai, vino să-i dai lui inima.
+Hai, aşa cum eşti să-L lauzi,
+Hai aşa cum eşti n-aintea Sa, Hai!
+
+[order]
+s1,r1,r2,r1,r2,r1

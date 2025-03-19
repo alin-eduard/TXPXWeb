@@ -1,0 +1,34 @@
+[s1]
+1633.                                       										Mi m
+1. Multe drumuri sunt în lume,
+Ce te duc unde nu-i bine
+Numai calea Domnului
+I-a dat viaţa omului.
+
+[r1]
+Cor: Unde să mă duc,
+Doamne fără Tine?
+Doar pe calea Ta
+/:Este atât de bine! :/
+
+[s2]
+2. Calea sfântă e doar una
+Pe ea nu găseşti minciuna
+Nu e ura Domnului
+Ci doar /:pacea Domnului!:/.
+
+[s3]
+3. Calea morţii este largă,
+Pe ea merge lumea toată
+Amăgită de cel rău
+Şi nu e cu Dumnezeu,
+Nu-i cu Dumnezeu.
+
+[s4]
+4. Cel ce crede se botează,
+Calea Domnului urmează!
+Tu pe cine vei urma,
+Spune-mi! care-i calea ta?
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

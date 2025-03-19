@@ -1,0 +1,44 @@
+[s1]
+1. Mai este mult Isuse drag
+Din zilele amare?
+Acum te-aştept plângând în prag
+O, sfântă sărbătoare!
+Sunt singur astăzi şi pribeag
+Pe marea furtunoasă
+Te-aştept, Isuse-n al meu prag
+În zori de dimineaţă.
+625.
+
+[s2]
+2. Eu în lacrimi şi în suspin
+Aştept o fericire
+Ca-n raza ei să Te privesc
+Isus, numai pe Tine
+Mi-e inima fior nespus
+După Isus s-apară
+Căci multă vreme s-a mai scurs
+"O, vino, primăvară!"
+
+[s3]
+3. Doresc să scap, o, Domnul meu
+De-această tristă noapte
+La ţărmul limpezilor zări
+Să mă despart de toate
+Să-Ţi spun atunci ce-am întâlnit
+În lumea de păcate
+Să-Ţi cânt în veci că m-ai iubit
+Şi m-ai scăpat de moarte.
+
+[s4]
+4. E-aproape vremea ce-o dorim
+Amurgul se aşterne
+Mireasma Ta, Isus iubit
+Mai mult se răspândeşte
+O, ţara mea de când te-aştept
+S-apari în a mea cale
+Să-mi astâmperi
+Dorul meu din piept
+Pe plaiurile Tale.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,37 @@
+[s1]
+1. Ai ajuns în necaz
+De dureri strâmtorat
+Ostenit şi pribeag alungat
+De Isus tu nu ştii
+C-a murit răstignit
+Pentru mine, pentru tine S-a jertfit.
+368								         Re
+
+[r1]
+Cor: Azi te cheamă Isus
+Să te întorci din păcat
+Fericit tu să fii şi salvat
+De păcat vei scăpa
+Strâmtorat nu vei mai fi
+Din belşug vei avea bucurii.
+
+[s2]
+2. Te luptai tot mereu
+Alergând de cu zor
+Firea s-o mulţumeşti tot cu spor
+Mersul tău monoton
+Îţi creează iluzii
+Căci doar tu n-ai să-ajungi
+În cer sus.
+
+[s3]
+3. Când te întorci din Egipt
+Şi porneşti spre Canaan
+De Isus vei fi dus la un han
+Untdelemn va turna
+Peste răni sângerând
+Mielul blând, Mielul blând,
+Mielul blând.
+
+[order]
+s1,r1,s2,r1,s3,r1

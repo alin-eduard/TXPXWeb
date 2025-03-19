@@ -1,0 +1,43 @@
+[s1]
+1
+/: Căci iată că El a întocmit munţii,
+A făcut vântul, numai El. :/
+
+[s2]
+Şi spune omului
+Până şi gândurile Lui,
+El preface zorile în întuneric
+Şi umblă pe-nălţimile Pământului:
+‘’Domnul Dumnezeul ostirilor’’
+Este Numele Lui.
+
+[s3]
+3
+/: Căci iată că El a-ntocmit marea
+A făcut valul, numai El :/
+
+[s4]
+4
+Şi spune omului
+Până şi gândurile Lui,
+El preface zorile în întuneric
+Şi umblă pe-nălţimile Pământului:
+‘’Domnul Dumnezeul ostirilor’’
+Este Numele Lui.
+
+[s5]
+5
+/: Căci iată că El l-a creat pe om
+A creat lumea, numai El :/
+
+[s6]
+6
+Şi spune omului
+Până şi gândurile Lui,
+El preface zorile în întuneric
+Şi umblă pe-nălţimile Pământului:
+‘’Domnul Dumnezeul ostirilor’’
+Este Numele Lui.
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,87 @@
+[s1]
+1. Ah drag poporul Meu
+Luptă cu tărie
+Înarmează-te bine
+Contra duşmanilor.
+205.
+
+[s2]
+2. Stai pe genunchi în rugă
+Cereţi puteri de sus
+Nu staţi în nepăsare
+Că atunci veţi fi prinşi.
+
+[s3]
+3. Înalţă în zorii zilei
+Glasul tău către cer
+Ca Tatăl să te-asculte
+Din 'naltul cerului.
+
+[s4]
+4. Şi să-ţi trimită-n grabă
+Ajutorul cerut
+Şi-o solie îngerească
+Să-ţi tăbărască în jur.
+
+[s5]
+5. Şi atunci ce bucurie
+Pe tin' poporul Meu
+Căci vei fi ocrotit
+De arma celui rău.
+
+[s6]
+6. Căci El vrea să se lupte
+Cu tine al Meu popor
+Şi vrea să cazi în luptă
+Biruit şi rănit.
+
+[s7]
+7. Stai-n post şi-n rugăciune
+Şi nu nesocoti
+Cuvântul meu de Tată
+Vorbit prin servii Mei.
+
+[s8]
+8. Iubeşte cu căldură
+Pe aproapele tău
+De nu-l iubeşti pe dânsul
+Pe Tatăl nicidecum.
+
+[s9]
+9. Satan vrea să te-ncerce
+Prin planurile lui
+Ca să te poată duce
+Pe căi rătăcite.
+
+[s10]
+10. Ca nu cumva odată
+S-ajungi în ceruri sus
+În fericiri nespuse
+Din care-a gustat el.
+
+[s11]
+11. Dar ca să intri-n slavă
+Nespusei fericiri
+Găteşte-ţi o comoară
+Ca-n ceruri s-o găseşti.
+
+[s12]
+12. N-are să fie zadarnic
+A ta osteneală
+Căci vei primi cununa
+Pentru care ai luptat.
+
+[s13]
+13. Găteşte-te mai iute
+Şi nu întârzia
+Nu ştii ziua nici clipa
+De aici când vei pleca.
+
+[s14]
+14. Găteşte-te degrabă
+Că tu eşti călător
+Înspre ţara eternă
+Şi-al fericirii dor.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12,s13,s14

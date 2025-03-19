@@ -1,0 +1,23 @@
+[s1]
+1393.
+1.  Cea mai de seamă datorie
+Isuse-mi fie faţă de Tine
+Trupul mereu curat
+Sufletul nepătat de vreun păcat.
+2.  Căutaţi trăiţi în rugăciune
+Nu obosiţi în faptele bune
+Mulţi nu au ce mânca
+Dă-le din pâinea ta nu-i alunga.
+
+[s2]
+3.  Ce-am câştigat vorbind din gură
+Vorbe murdare si-njurătură
+Fii bun şi iubitor
+Mereu ascultător şi silitor.
+4.  Domnul din ceruri te hrăneşte
+Bunuri nespuse El îţi dăruieşte
+El nu te va lăsa
+Şi El te va ajuta în viaţa ta.
+
+[order]
+s1,s2

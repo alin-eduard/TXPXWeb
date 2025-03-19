@@ -1,0 +1,35 @@
+[s1]
+1. Curând, curând va trebui
+Să părăseşti acest pământ
+Ce-ai făcut cu viaţa ta
+Pe Dumnezeu nu l-ai slujit
+Doar în plăceri tu ai trăit
+La mântuire nici nu te-ai gândit
+1741.
+
+[s2]
+Cor:	Care va fi soarta ta
+Oare unde vei pleca
+După ce pământul vei lăsa
+Vei ajunge-n chinul greu
+Departe de Dumnezeu
+Pocăieşte-te amicul meu
+
+[s3]
+2. Curând, curând tu vei lăsa
+Pe-ai tăi cei dragi ce i-ai iubit
+Aici în viaţa ta
+Divinul har ai refuzat
+Trăind viaţa în păcat
+Şi la sfârşit tu vei fi judecat
+
+[s4]
+Cor:	Astăzi cât mai este har
+Pune răului hotar
+Pocăieşte-te amicul meu
+Mâine nu vei mai putea
+Curând uşa s-a-ncuia
+Pocăieşte-te nu amâna
+
+[order]
+s1,s2,s3,s4

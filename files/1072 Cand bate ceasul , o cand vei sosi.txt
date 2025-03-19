@@ -1,0 +1,35 @@
+[s1]
+1.    Când bate ceasul, o, când vei sosi
+( : În ţara mea :)
+În cer pe Isus să-L văd aş dori
+( : În ţara mea : )
+Aici pe pământ dureri şi întristare
+Sus m-aşteaptă fericire mare
+Pentru aceea în cer doresc tare
+( : În ţara mea : )
+1072.
+
+[s2]
+Dar Isuse fie cum Tu voieşti
+(: Eu şi aici voios petrec :)
+Mă lupt în contra poftelor lumeşti
+(: Eu şi aici voios petrec :)
+Iubesc în Tine frăţietatea
+Şi doresc să ajung venirea Ta
+Să văd patria moştenirea mea
+(: Eu şi aici voios petrec :)
+2.
+
+[s3]
+Fericit voi fi aici şi-n cer sus
+(: Mai mult bine eu nu doresc :)
+Decât numai să Te am, o Isus
+(: Mai mult bine eu nu doresc :)
+Voios sunt chiar şi în suferinţă
+Fericit în ora morţii mele
+Tu eşti partea mea-n viaţă-n moarte
+(: Mai mult bine eu nu doresc:)
+3.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,39 @@
+[s1]
+Isuse, de pe acest pământ
+Ce e plin de suspine,
+Eu, rugăciunea mi-o îndrept,
+Isuse, către Tine.
+Mi bemol
+
+[r1]
+/: O, vino Tu, Isuse,
+Din nou ridică-mi starea
+Şi mă îmbracă-n Duhul Sfânt
+Ca să-Ţi urmez cărarea!...:/
+
+[s2]
+Nu-ncap de cei ce Te-au scuipat,
+În viaţa mea trăită;
+Să-nvăţ, să rabd ca să înving,
+Să scap de-a ei ispită.
+
+[s3]
+Furtuni şi valuri tot mai mari
+Lovesc în a mea barcă;
+Se năpustesc asupra mea,
+Credinţa mi-o încearcă.
+
+[s4]
+Apari, Isuse minunat,
+Din nou, în a mea cale
+Ca să Te simt ca la-nceput,
+Cântându-Ţi osanale...
+
+[s5]
+/: O, vino azi, Isuse
+Şi stai la cârma vieţii,
+Luceafăr sfânt şi mult dorit
+Din zorii tinereţii!...:/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5

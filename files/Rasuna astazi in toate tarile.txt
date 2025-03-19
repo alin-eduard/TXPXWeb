@@ -1,0 +1,20 @@
+[s1]
+Răsună astăzi  în toate ţările:
+Cântările cerului.
+Răsună astăzi  în toate ţările:
+Cântările Sionului. Aleluia (5x)
+
+[s2]
+Numele Domnului nostru e-nălţat
+În toate ţările lumii,
+Numele Domnului nostru-i lăudat
+În toate ţările lumii. Aleluia (5x)
+
+[s3]
+Din toată lumea răscumpăraţi vom fi
+Şi-n cer ne vom întâlni,
+Şi împreună Domnului vom cânta:
+Alelu – Aleluia.  Aleluia (5x)
+
+[order]
+s1,s2,s3

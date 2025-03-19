@@ -1,0 +1,28 @@
+[s1]
+Un râu ce le da fericirea
+O, lasă-l să curga din Tine !
+Să nu stie ce-i despartirea
+Şi nici ce-i o viata in suspine.
+
+[r1]
+/: Acum din locul Tau sfânt
+Asculta-ne de pe Pamânt
+Pereche-acesta, Doamne
+Te roaga să-i primesti
+Cu harul Tau, şi când e greu
+Să îi calauzesti. :/
+
+[s2]
+O floare cu albe petale
+Sădita in gânduri curate
+Mereu va-nsoteasca pe cale
+Şi pace s-aveti voi in toate.
+
+[s3]
+Un cântec duios ca de leagan
+Cuvintele voastre să fie
+Şi-o dragoste fara de seaman
+Va lege de-acum pe vecie.
+
+[order]
+s1,r1,s2,r1,s3,r1

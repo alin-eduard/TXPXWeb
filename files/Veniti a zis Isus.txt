@@ -1,0 +1,42 @@
+[s1]
+“Veniţi cu toţi’’ a zis Isus
+“Primiţi odihnă-n dar,
+Lăsaţi povara de păcat
+la cruce la Calvar.”
+Trist şi zdrobit cum mă aflam
+la Isus m-am întors,
+Odihnă, pace El mi-a dat,
+şi-acum sunt bucuros.
+
+[s2]
+“Veniţi la Mine” a zis Isus,
+“Voi toţi cei osteniţi,
+Din apa vieţii vă voi da,
+în veci ca să trăiţi.”
+Eu am venit şi-am căpătat
+din apa vieţii-n dar,
+Sunt fericit că sunt salvat
+şi mântuit prin har.
+
+[s3]
+“ Eu sunt Lumina” a zis Isus,
+“În lumea asta rea,
+Cei ce prin noapte rătăciţi,
+primiţi lumina Mea.”
+Eu L-am primit şi-n viaţa mea
+Lumină s-a făcut,
+El e-al meu Soare luminos
+şi-al vieţii mele scut.
+
+[s4]
+Isus în cer mi-a pregătit
+o casă-n ţara Sa,
+Când viaţa’aicea voi sfârşi,
+în cer mă va chema.
+Ce minunat e-al Său Cuvânt
+şi ce mângâietor!
+În veci de veci Îl voi slăvi
+pe-al meu Mântuitor.
+
+[order]
+s1,s2,s3,s4

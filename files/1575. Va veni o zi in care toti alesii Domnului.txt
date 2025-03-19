@@ -1,0 +1,27 @@
+[s1]
+1.Va veni o zi în care
+toţi aleşii Domnului
+Vor cânta un imn de slavă Mielului
+Ziua-aceea nu-i departe,
+pregătiţi-vă acum
+Nu uitaţi că
+ziua aceea e pe drum!
+1575                                                  Sol
+
+[r1]
+/: Ce minune va fi când în Domnul va veni
+Toţi aleşii Domnului cu El vor fi
+Vei fi şi tu acol’ la masa Domnului
+Pregăteşte-te că ziua e pe drum. :/
+
+[s2]
+2.După toată alergarea
+fericit vei fi şi tu
+Vei primi
+cununa slavei lui Isus
+Deci grăbeşte-te acuma până când mai este har
+Nu lăsa să treacă
+timpul în zadar.
+
+[order]
+s1,r1,s2,r1

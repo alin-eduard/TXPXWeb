@@ -1,0 +1,49 @@
+[s1]
+1631.
+1. Iubirea-nseamnă jertfă.
+Şi jertfa-arată cât iubeşti
+Căci dragostea-i adevărată,
+Când ştii s-o dăruieşti!
+O minunată pildă,
+E Dumnezeu care-a jertfit,
+În dragostea Lui pentru noi
+Şi-a dat Fiul iubit!
+
+[s2]
+Cor:Nu-nţelegi? pentru tine
+El s-a jertfit!
+Ca să ştii şi să vezi
+Cât de mult te-a iubit,
+Nu atât rana din palme Îl durea,
+Cât nepăsarea ta!
+Nu-nţelegi? pentru tine a suferit!
+Condamnat de mulţime
+Şi dispreţuit.
+Pentru ce toată-această durere-a Sa?
+Pentru salvarea ta!
+
+[s3]
+2. Iubirea adevărată,
+Te-nvaţă cum să dăruieşti,
+Chiar dacă pân-acum într-una
+N-ai vrut să primeşti!
+Iubirea te transformă!
+Nu ţine cont de cum erai,
+Ea te învaţă să jertfeşti
+Chiar viaţa să ţi-o dai.
+
+[s4]
+Cor:Nu-nţelegi? pentru tine
+El s-a jertfit!
+Ca să ştii şi să vezi
+Cât de mult te-a iubit.
+Nu atât rana din palme Îl durea,
+Cât nepăsarea ta!
+Nu-nţelegi? pentru tine a suferit!
+Condamnat de mulţime
+Şi dispreţuit
+Pentru ce toată-această durere-a Sa?
+Pentru salvarea ta!
+
+[order]
+s1,s2,s3,s4

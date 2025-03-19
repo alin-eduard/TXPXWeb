@@ -1,0 +1,38 @@
+[s1]
+Veniţi, Eu vă voi spune
+ce Domnul mi-a făcut,
+Voi, ce de El vă temeţi,
+veniţi cu gând plăcut.
+Cu dragoste voi spune
+că Domnul e al meu
+Şi cânt de bucurie:
+eu sunt pe veci al Său.
+
+[r1]
+Veniţi, eu vă voi spune
+ce Domnul mi-a făcut
+Voi, ce de El vă temeţi,
+veniţi cu gând plăcut.
+
+[s2]
+Veniţi, eu vă voi spune
+de darul lui Isus,
+Acum am viaţă nouă
+fiind născut de sus.
+Eram pierdut în lume,
+la moarte condamnat,
+Dar am primit alt nume;
+pe veci eu sunt salvat.
+
+[s3]
+Veniţi, eu vă voi spune
+cum Domnul m-a iertat
+Când disperat şi singur
+la El am alergat;
+Şi toţi acei ce astăzi
+la El se vor grăbi,
+Iertare de păcate
+şi pacea vor primi.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,59 @@
+[s1]
+1.	Şi noi fiind înconjuraţi
+De-un nor aşa de martori
+/: Să-nlăturăm orice păcat
+Privind spre ţărmul celălalt
+C-aşa creştinii au luptat
+Ei nu s-au dat în lături. :/
+510.     							        Mi m
+
+[s2]
+2.Să le urmăm cu dor nespus
+Credinţa lor supremă
+/: C-aşa au luptat şi au învins
+Creştinii noştri ce s-au stins
+De dorul Lui au fost aprinşi
+Mergeau cântând pe arene. :/
+
+[s3]
+3.	Când legile-i ameninţau
+Ş-atunci nu aveau frică
+/: Cînd fiarele le slobozeau
+Pe mici şi mari îi sfâşiau
+Dar ei de dor mai mult ardeau
+Nici  asta nu-i înfrică. :/
+
+[s4]
+4.	De foame istoviţi şi frig
+Ei pribegeau departe
+/: Prin munţi şi peşteri alungaţi
+Prin temniţe de fier legaţi
+Loviţi mai crunt şi-ameninţaţi
+De Domnul nu-i desparte. :/
+
+[s5]
+5.	Cântau al mântuirii cânt
+Mergând cântând pe cale
+/: Şi atunci când mergeau pe rând
+Pe subterane ei strigând
+La Cel ce zice vin curând
+Vegheaţi în aşteptare. :/
+
+[s6]
+6.	Căci am să vin ca şi un hoţ
+În noaptea cea târzie
+/: Vegheaţi, păziţi a mele porţi
+Şi atunci nu am să vin ca hoţ
+Căci voi striga la voi la toţi
+Mireasa mea să vină. :/
+
+[s7]
+7.	Iar timpul care ne-a rămas
+Să stăm în aşteptare
+/: Şi înapoi noi nici un pas
+'Nainte să nu dăm răgaz
+Căci vine Mirele chiar azi
+Să-i cântăm osanale. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

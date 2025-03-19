@@ -1,0 +1,32 @@
+[s1]
+Spre cer încerc a mă sili
+Păşind mai sus din zi în zi
+Şi-n calea mea rugându-mă:
+“ Doamne, mai sus ridică-mă! “
+
+[r1]
+/: Doamne, ridică-mă şi-oi sta
+Prin credinţă pe calea Ta!
+Spre loc mai ‘nalt ajută-mă
+Doamne, mai sus ridică-mă! :/
+
+[s2]
+Inima nu-mi doreşte a sta
+Unde-i frica şi-ndoiala.
+Deşi-acolo mulţi locuiesc
+Eu un loc mai înalt doresc.
+
+[s3]
+Doresc a fi în depărtări
+Unde nu-s chinuri, nici dureri.
+Acolo unde cântă-n cor
+Sus toată ceata sfinţilor.
+
+[s4]
+Doresc a mă urca mai sus
+Să văd gloria lui Isus.
+Pentru-aceasta mă rog mereu:
+“ Ajută-mi, Isus, Domnul meu! ”
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

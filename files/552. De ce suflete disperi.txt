@@ -1,0 +1,53 @@
+[s1]
+1. De ce suflete disperi
+În a plângerii vale
+Tu nu ştii că şi Isus
+A mers pe-această cale.
+/: De ce eşti descurajat?
+Domnul tău jertfă s-a dat
+Ca să fii tu mângâiat
+În a plângerii vale :/.
+552.
+
+[s2]
+2. Încercarea-i calea vieţii
+Şi a fericirii
+În ea tu vei găsi sigur
+Calea mântuirii.
+/: După ce vei suferi
+El te va desăvârşi
+Şi cununa biruinţei
+Atunci vei primi :/.
+
+[s3]
+3. Domnul tău te-a cercetat
+Şi se-ndură de tine
+El te trece prin cuptor
+Să străluceşti mai bine.
+/: Zgura când se va topi
+Minunat vom străluci
+Şi cu Domnul în templul Sfânt
+Pe veci ne-om veseli :/.
+
+[s4]
+4. Domnul vine în curând
+În slava frumuseţii
+Şi celor ce-au biruit
+Le va da cununa vieţii.
+/: Fericiţi îl vom privi
+Căci lacrimi n-or mai fi
+Şi de Domnu-n veci de veci
+Nu ne-om mai despărţi :/.
+
+[s5]
+5. Cânt Domnului că-s fericit
+Căci merg cu El pe cale
+Nicicând nu m-a părăsi
+El e-a mea salvare.
+/: De aceea te-oi sluji
+Pe pământ cât voi trăi
+Căci Doamne nu m-ai lăsat
+Ca să mă pierd pe cale :/.
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,63 @@
+[s1]
+1. Pentru adevăr Isuse
+De voi fi lovit
+Chiar de fraţi şi de prieteni
+Rămân liniştit.
+238.   rem
+
+[s2]
+Pentru a Ta cale sfântă
+Una pe pământ
+Nu voi asculta de oameni
+Ci de al Tău cuvânt.
+
+[s3]
+2. Pentru calea Ta cea dreaptă
+Alungat de aş fi
+Mai statornic lângă Tine
+Mă voi alipi.
+
+[s4]
+Pentru voia Ta curată
+Prigonit de-s eu
+Vreau în pacea Ta adâncă
+Să rămân mereu.
+
+[s5]
+3. Mai plăcută-i ascultarea
+De-al Tău sfânt cuvânt
+Decât mii de jertfe aduse
+Astăzi pe pământ.
+
+[s6]
+Vreau s-ascult cu-ntregul suflet
+Vreau s-ascult mereu
+Adevărul vieţii Tale
+Doamne Domnul meu.
+
+[s7]
+4. Pentru adevăr de-aş pierde
+Tot ce am mai drag
+Şi-aş rămâne lângă Tine
+Străin şi pribeag.
+
+[s8]
+Mi-e de-ajuns să ştiu Isuse
+Viaţa în mâna Ta
+Adevărul şi iubirea
+Mă vor mângâia.
+
+[s9]
+5. Pentru mine Tu eşti totul
+Adevăr şi har
+Viaţa mi-o jertfesc întreagă
+Pe-al Tău sfânt altar.
+
+[s10]
+Şi cu inima curată
+Vreau să înalţ mereu
+Adevărul pretutindeni
+El e Dumnezeu.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

@@ -1,0 +1,25 @@
+[s1]
+Doamne, doar Tu eşti Regele
+Ajutorul inimii mele
+Eşti dragul sufletului meu
+Sursa vieţii şi a dragostei.
+
+[r1]
+Esti Râul ce curge prin mine
+Şi Duhul vieţii din mine
+Stânca, ce, aceeaşi rămâne Dumnezeul gloriei
+
+[s2]
+Tu eşti minunea dragostei
+Şi Acela în care mă scufund
+La Tine vin cu secrete
+Spre mâna Ta, mă întind.
+
+[s3]
+În dreptul Tău este locul
+Unde vreau să pun capul cel greu
+Apoi să mă visez
+Că sunt cu Tine, în Cerul Tău.
+
+[order]
+s1,r1,s2,r1,s3,r1

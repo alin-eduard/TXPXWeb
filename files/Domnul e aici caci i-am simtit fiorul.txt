@@ -1,0 +1,26 @@
+[s1]
+Domnul e aici, căci i-am simtit fiorul
+Domnul e aici Îl simte tot poporul
+/: De la doi sau trei în al Sau Cuvânt
+E prezent si El prin Duhul Sfant. :/
+
+[r1]
+/: Osana, canta adunarea
+Osana, sa rasune zarea,
+Osana, o ce har nespus
+E prezent la noi acum Isus. :/
+
+[s2]
+Domnul e aici a exclamat si Iacov
+Cand dormea fugar pe piatra capatai,
+/: Domnul e aici, azi in Templul Lui
+Aici este scara cerului. :/
+
+[s3]
+Crede că-i aici, frate, cu tarie
+Mana s-o ridici pentru vesnicie
+/: Domnul te-a iubit si te-a mantuit
+Fie-I numele in veci slavit :/
+
+[order]
+s1,r1,s2,r1,s3,r1

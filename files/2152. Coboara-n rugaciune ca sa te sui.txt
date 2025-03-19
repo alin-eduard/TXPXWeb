@@ -1,0 +1,28 @@
+[s1]
+2152
+1. Coboară-n rugăciune,
+ca să te sui deplin
+În cerul frumuseții
+Părintelui divin!
+Să iei puteri de-acolo și haruri
+de nespus,
+Spre-a birui în lupta credinței
+lui Isus!
+
+[s2]
+2. Suspină-n rugăciune, să poți cânta sfințit
+Necontenită slavă
+Părintelui slăvit!
+Căci nici o jertfă nu e primită-n cer acum,
+De nu-i deplin adusă pe-al rugăciunii drum!
+
+[s3]
+3.	Fă-ți timpul rugăciune, ca să trăiești frumos,
+Cu roduri de lumină în trupul
+lui Hristos!
+De-i rugăciunea bună,
+credința-i tot așa,
+Și Dumnezeu îți crește în tine firea Sa!
+
+[order]
+s1,s2,s3

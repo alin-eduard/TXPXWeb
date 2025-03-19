@@ -1,0 +1,31 @@
+[s1]
+Ziua cea de azi
+s-o faci ziua bucuriei,
+De cu zori tu să-i îmbraci
+mantia făcliei
+Şi să-i pui pe cap cununi,
+stelele iubirii
+Iar în poală să-i aduni
+roadele sfinţirii.
+
+[s2]
+Râvnitor tu să-i veghezi
+clipele preasfinte,
+Fără pierderi s-o aşezi
+Domnului ‘nainte.
+Prin trăirea ta
+s-o ai prietenă curat
+Pentru-atunci când o să stai drept, la judecată.
+
+[s3]
+Ziua cea de azi
+s-o faci zi de sărbătoare,
+Pentru Dumnezeu
+s-o-mbraci în podoabe rare!
+Şi să te-nsoţească-n veci
+dulcea ei lumină,
+Fericirea s-o petreci,
+plină, tot mai plină.
+
+[order]
+s1,s2,s3

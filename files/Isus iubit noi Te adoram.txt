@@ -1,0 +1,10 @@
+[s1]
+Isus iubit, noi Te adorăm,
+În umilinţă ne închinăm,
+Îţi mulţumim
+pentru tot ce eşti!
+Binecuvântat să fii
+în veci de veci!
+
+[order]
+s1

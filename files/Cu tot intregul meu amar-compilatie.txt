@@ -1,0 +1,82 @@
+[s1]
+Cu tot întregul meu amar,
+Cu multele-mi suspine,
+Cu plânsul fără de hotar,
+Isuse, vin la Tine.
+
+[r1]
+/: Primeşte-mă cum sunt
+Cu multele-mi greşale
+Si spală-mă, Isuse, scump
+În jertfa milei Tale :/
+
+[s2]
+În faţa Ta îngenunchez
+Cu lacrime amare.
+Te rog, Isuse, îndurat,
+Să-mi dai şi-acum iertare.
+
+[s3]
+Primeşte-mi toată viaţa mea
+Şi-n slujba Ta mă ţine
+Ca-n clipa când mă vei chema
+Să pot veni la Tine
+
+[s4]
+/: Doamne Tu eşti stânca mea, :/
+/: Tu eşti cetăţuia mea. :/
+/: Tu îmi eşti a mea scăpare
+când sunt în încercare.
+Mă ajuţi în vreme grea,
+Doamne Tu eşti stânca mea. :/
+
+[s5]
+/: Tu eşti fericirea mea, :/
+/: Tu eşti bucuria mea. :/
+/: Să rămân tot mereu,
+doar cu Tine-n Dumnezeu.
+Totdeauna voi cânta,
+Tu eşti fericirea mea. :/
+
+[s6]
+/: Doamne Tu m-ai mântuit, :/
+/: Doamne Tu m-ai izbăvit. :/
+/: De cumplitul meu păcat
+Tu pe mine m-ai salvat.
+Prin Isus cel răstignit,
+Doamne Tu m-ai mântuit. :/
+
+[s7]
+/: Isus pune-un
+cântec nou în inimă! :/
+E un cântec nou
+ce nimeni nu mi-l ia
+Isus pune-un cântec
+nou în inimă!
+
+[s8]
+/: El ne-nvaţă
+să trăim în dragoste :/
+Cu iubirea ce ne-a dat
+să ne iubim
+El ne-nvaţă să trăim
+în dragoste
+
+[s9]
+/: O familie să fim
+El ne-a-nvăţat :/
+Tineri şi bătrâni
+sunt una-n Isus
+O familie să fim
+El ne-a învăţat
+
+[s10]
+/: Întristarea ne-a
+schimbat-o-n bucurii! :/
+Lacrimele le-a schimbat
+în ape vii
+Intristarea ne-a
+schimbat-o-n bucurii!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5,s6,s7,s8,s9,s10

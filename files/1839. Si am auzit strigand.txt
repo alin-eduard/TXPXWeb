@@ -1,0 +1,44 @@
+[s1]
+1. Şi-am auzit strigând un glas de Tată
+De la altarul celui veşnic Sfânt
+De-o jertfă minunată ce ne scapă
+/:Pe acest pământ :/
+/: Prin Golgota prin jertfa Lui măreaţă
+Eşti mai de preţ ca orice dar şi cânt
+Căci dragostea şi viaţa Ţi-a fost dată:/
+/: Prin Harul Sfânt :/
+1839 Fa
+
+[s2]
+2. Şi cum stăteam aşa cu ochii-n lacrimi
+Şi cugetam smerit la jertfa Sa
+Dacă ar putea
+Să-mi scoată sufletul din groapă
+/: Dacă ar putea:/
+/:Şi cum priveam spre zările senine
+Parcă auzeam un glas care-mi zicea
+De ai să crezi şi-ai să rămâi în mine
+/:Eu voi putea:/
+
+[s3]
+3. Acum Isus spre mine să te-ndrepţi
+Să intăreşti Tu paşi pe al meu drum
+Şi să-mi legi ranele care imi sunt deschise
+/:N-am merit bun:/
+/:Şi într-o clipă bratul Lui cuprinse
+Viaţa mea în ce adânc mi-a fost
+Şi nu imi sunt indeajuns a mele lacrimi
+/:De unde m-a scos:/
+
+[s4]
+4. Te binecuvintez pe Tine Tată
+Căci ai primit pe fiul rătăcit
+Eram pierdut dar Tu mi-ai dat îndată
+/:Veşmânt albit :/
+/:Te rog de astăzi Tu Isuse Doamne
+Rămâi pe veci a mea iubire sfântă
+Căci glasul meu de atunci pe a Ta cărare
+/:Într-una îţi cântă :/
+
+[order]
+s1,s2,s3,s4

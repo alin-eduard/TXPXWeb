@@ -1,0 +1,38 @@
+[s1]
+Azi mă găsesc lângă Iordan
+Pustiul l-am trecut,
+Cu dor mă uit spre Canaan,
+Spre-acel pământ plăcut.
+
+[r1]
+Câtă pace de-a pururi vom avea!
+Suferinţi şi griji vor dispărea;
+Liberaţi de-amarul ce ne-a ros,
+Vom cânta, vom cânta întruna lui Hristos.
+
+[s2]
+Hristos Întâiul a păşit
+Prin valu-nvolburat,
+Şi-n veac poporu-I prigonit Exemplul I-a urmat.
+
+[s3]
+Glas de Calvar şi de Sinai
+În stâlp de nor şi foc
+Te-ndeamnă-acum:
+de ce mai stai?
+Şi pentru tine-i loc!
+
+[s4]
+Ce bucurii aşteaptă sus
+Pe cei răscumpăraţi,
+În Canaan lângă Isus
+Vor fi toţi mângâiaţi.
+
+[s5]
+De-aceea totul să jertfim
+În luptă, bucuros
+Ca să ajungem să privim
+Mărirea lui Hristos.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

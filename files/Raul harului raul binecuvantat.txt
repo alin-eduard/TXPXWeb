@@ -1,0 +1,27 @@
+[s1]
+Rîul harului, rîul binecuvîntat
+Tatăl l-a lăsat să mai curgă lin, curat
+Să mîngîie şi să ierte
+Să ridice din păcat.
+
+[r1]
+/: Vino la ape
+Aşa cum eşti, cu viaţa ta!
+Vino la ape
+Vrea Isus viaţă ca să-ţi dea! :/
+
+[s2]
+Poate zici aşa - că Isus e-al nostru vis
+Şi nimic nu crezi ce în Biblie este scris.
+Dar nu-i aşa, te-nşeli amar
+Isus Hristos este real !
+
+[s3]
+Domnul meu e viu!
+Isus Hristos e al meu Rege!
+În faţa ta
+E pusă viaţa, acum alege
+Da sau nu ?
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,63 @@
+[s1]
+142.                                                     La
+1. În Isus eu aflu totul
+Tot ce caut în astă lume
+Bucurii şi daruri multe
+Glasul meu nu poate spune.
+
+[s2]
+2. Când sunt ispitit de cel rău
+La Isus eu am scăpare
+Şi prin caldă rugăciune
+Îi spun Lui tot ce mă doare.
+
+[s3]
+3. Când necazul mă frământă
+Şi nu aflu dezlegare
+La Isus alerg îndată
+Şi-mi trimite uşurare.
+
+[s4]
+4. De-s lipsit şi n-am nici pâine
+Pâinea vieţii El îmi dă
+Să mănânc şi să mă satur
+Şi să beau din apă vie
+
+[s5]
+5. Când sunt singur şi n-am prieteni
+El e prietenul cel dulce
+El rămâne lângă mine
+Şi prin noapte mă conduce.
+
+[s6]
+6. Dacă rătăcesc pe drumuri
+Şi-ntunericul soseşte
+El e Calea şi-Adevărul
+Pe Cărare mă-nsoţeşte
+
+[s7]
+7. Când sunt bolnav şi-ndurere
+Stând pe pat nemângâiat
+Domnul vine lângă mine
+Şi-mi şopteşte ne-ncetat.
+
+[s8]
+8. Nu te teme, nu te teme
+Suferinţa-i cale dulce
+De-o primeşti cu bucurie
+Lângă Mine te-oi aduce
+
+[s9]
+9. Chiar de voi cădea vreodată
+Pe a mântuirii cale
+El cu dragostea de Tată
+Mă primeşte în ale sale.
+
+[s10]
+10.  În Isus eu aflu totul
+Tot ce caut pe-acest pământ
+Eu cu Domnul rămânea-voi
+Şi aici şi-n cerul sfânt.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

@@ -1,0 +1,35 @@
+[s1]
+1. Fraţilor ne-am adunat acuma
+Pentru blândul Împărat iubiţi fraţi
+/:Astăzi ca să-L preamărim
+Pe Isus cel răstignit
+Care pentru noi muri pe Golgota.:/
+216. Do m
+
+[s2]
+2. O durere fără margini iubiţi fraţi
+L-apăsa păcatul lumii pe Isus
+Crucea grea era pe umeri
+/:Era greu păcatul lumii
+Greşeli multe
+Fără margini de la noi.:/
+
+[s3]
+3. În grădina Ghetsimani
+Domnul nost
+Farisei, soldaţi, păgâni
+Îl împingeau
+/:Sta Isus cu ochi-n lacrimi
+În genunchi privind la ceruri
+Tată dacă-i cu putinţă a ierta.:/
+
+[s4]
+4. Pentru cine-a suferit acestea
+Pentru voi şi pentru mine,
+Iubiţi fraţi
+/:Jos sub cruce ucenicul
+Şi cu mama plâng de jale
+Căci Isus e răstignit pe Golgota.:/
+
+[order]
+s1,s2,s3,s4

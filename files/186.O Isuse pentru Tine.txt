@@ -1,0 +1,57 @@
+[s1]
+1. O Isuse pentru Tine
+Fraţii mei m-au părăsit
+Pentru că vreau să fac bine
+Nu mai sunt de ei iubit.
+186.
+
+[r1]
+Cor: Dar Isus e mângâierea
+El m-ajută în toată vremea
+El m-ajută-n rugăciune
+Mă îndeamnă la fapte bune
+
+[s2]
+2. Dar mi-aduc aminte Doamne
+Cum şi Iuda te-a vândut
+Totuşi Tu eşti Ziditorul
+Care Doamne l-ai făcut.
+
+[s3]
+3. Ajută-i Doamne pe toţi
+Scapă-i de pe drumul morţii
+Du-i spre a Ta împărăţie
+Ajută-mi Doamne şi mie.
+
+[s4]
+4. Căci la Tine m-ai chemat
+Cu Duh Sfânt m-ai botezat
+Dă-mi putere a putea
+Ca să-mi port şi crucea mea.
+
+[s5]
+5. Nu mai pot pe mine Doamne
+Fraţii mei a mă iubi
+Pentru că se adevereşte
+Faptele într-ai Tăi copii.
+
+[s6]
+6. Căci la cer Te-ai înălţat
+Făgăduinţ-ai lăsat
+Duhul Sfânt când va veni
+Toate le-a descoperi.
+
+[s7]
+7. Astăzi Doamne mulţi nu pot
+Duhul Sfânt ca să-l suporte
+Şi tăgăduiesc mereu
+Doamne sfânt chiar Duhul Tău.
+
+[s8]
+8. Dar ajută-mă pe mine
+Să rămân Doamne cu Tine
+Ca s-arăt iubirea Ta
+Mergând în toată lumea.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1,s8,r1

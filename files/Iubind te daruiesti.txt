@@ -1,0 +1,29 @@
+[r1]
+Iubind te dăruiesti
+Cu tot ce-ti apartine,
+Iubind te dăruiesti
+Si uiti orice măsură.
+
+[s1]
+Chiar de-aş vorbi toate limbile
+Vorbite de oameni şi îngeri,
+Dacă nu am iubire
+Sunt doar o aramă ce sună,
+Sau un chimval zăngănitor.
+
+[s2]
+Chiar dacă aş profeţi
+Si-aş şti chiar misterele toate,
+Chiar de-aş avea o credinţă
+Incât să mut munţii-n mare,
+Fără dragoste nu sunt nimic.
+
+[s3]
+Chiar dacă aş împărţi,
+Săracilor, tot ce-i al meu,
+Chiar de mi-aş da trupul meu
+In flăcări să fie ars,
+Nu mi-ar folosi la nimic.
+
+[order]
+r1,s1,r1,s2,r1,s3,r1

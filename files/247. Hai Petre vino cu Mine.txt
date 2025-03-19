@@ -1,0 +1,45 @@
+[s1]
+1. Hai Petre /:vino cu Mine:/ x3
+Hai Petre vino cu Mine
+/:Dacă Mă iubeşti:/ x3
+Hai Petre vino cu Mine
+Dacă Mă iubeşti.
+247.
+
+[s2]
+2. Vei paşte /:oile Mele:/ x3
+Vei paşte oile Mele
+/:Dacă Mă iubeşti:/ x3
+Vei paşte oile Mele
+Dacă Mă iubeşti.
+
+[s3]
+3. Te-oi face /:pescar deoameni:/ x3
+Te-oi face pescar de oameni
+/:Dacă mă iubeşti:/ x3
+Te-oi face pescar de oameni
+Dacă mă iubeşti.
+
+[s4]
+4. Pe piatra ta /:voi zidi eu:/ x3
+Pe piatra ta voi zidi Eu
+/:Templul Meu cel sfânt:/ x3
+Pe piatra ta voi zidi Eu
+Templul Meu cel sfânt.
+
+[s5]
+5. Îţi voi da Eu /:cheia-n mână:/ x3
+Îţi voi da Eu cheia-n mână
+/:Dacă mă iubeşti:/ x3
+Îţi voi da Eu cheia-n mână
+Dacă mă iubeşti.
+
+[s6]
+6. Voi face /:pe toţi preoţi:/ x3
+Voi face pe toţi preoţi
+/:Dacă Mă iubeşti:/ x3
+Voi face pe toţi preoţi
+Dacă Mă iubeşti.
+
+[order]
+s1,s2,s3,s4,s5,s6

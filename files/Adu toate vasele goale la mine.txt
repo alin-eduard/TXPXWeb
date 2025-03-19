@@ -1,0 +1,24 @@
+[s1]
+Adu toate vasele goale la mine,
+Adu din casa ta si din jurul tãu,
+Iatã ce pot face acum
+Eu pentru tine:
+Sã îþi pun untdelemn în vase
+
+[s2]
+Roagã-te pentru cei
+ce n-au mântuire,
+Pentru cei din casa ta
+Si din jurul tãu,
+Iatã ce pot face acum
+Eu pentru tine:
+Pot sã le deschid inimile.
+
+[s3]
+Mai ai un vas,
+Dacã ai fi adus la mine mai multe
+As fi pus în toate ulei sã fie pline
+Si ai fi luat pe ele pret mare.
+
+[order]
+s1,s2,s3

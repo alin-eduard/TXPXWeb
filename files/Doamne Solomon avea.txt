@@ -1,0 +1,29 @@
+[s1]
+Doamne, Solomon avea
+Tot ce si-ar putea dori,
+Insa el tot trist era,
+Trist in fiecare zi.
+Doamne Solomon era
+Cum as vrea sa fiu si eu
+Intelept, cunoscator,
+Daruit lui Dumnezeu!
+
+[r1]
+Si totusi fericirea e altceva
+Si totusi fericirea-i Darul Tau.
+Mai fericit ca Solomon
+Sunt Doamne eu,
+Fiindca sunt copil de Dumnezeu.
+
+[s2]
+Doamne, Solomon stii bine
+Cat a fost de respectat,
+El n-a suferit ca mine,
+La cuvantul de pacat.
+Iti multumesc o Doamne Sfinte,
+Ca sunt asa cum sunt
+Pentru mine asa e bine,
+Cat voi trai Iti cant.
+
+[order]
+s1,r1,s2,r1

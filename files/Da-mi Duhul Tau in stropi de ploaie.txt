@@ -1,0 +1,30 @@
+[s1]
+Da-mi Duhul Tau
+în stropi de ploaie lina,
+Sa pot gusta din Harul Tau.
+/: Sa pot cuprinde tarmul de lumina,
+Sa-L pot vedea pe Dumnezeu. :/
+
+[s2]
+Da-mi Duhul Tau ca picurii de roua
+Sa pot sclipi sub raza Ta
+/: Sa Te cuprind
+cu mâinile-amândoua,
+Sa fii al meu pe veci as vrea. :/
+
+[s3]
+Da-mi Duhul Tau sa ma calauzeasca,
+Sa fiu condus prin Harul Tau.
+/: Pe drumul sfânt
+spre Casa cea cereasca
+Sa-L pot vedea pe Dumnezeu. :/
+
+[s4]
+Da-mi Duhul Tau în
+stropi de ploaie dulce
+Sa pot gusta dulceata Sa,
+/: Sa pot cuprinde Jertfa de pe Cruce
+Când voi pasi în Casa Ta. :/
+
+[order]
+s1,s2,s3,s4

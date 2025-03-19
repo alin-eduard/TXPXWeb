@@ -1,0 +1,39 @@
+[s1]
+1. Două drumuri sunt pe lume
+Unul bun şi altul rău
+Unul duce la pierzare
+Celălalt la Dumnezeu.
+362.
+
+[s2]
+2. Şi Stăpânul acestei lumi
+Este bunul Dumnezeu
+Însă a lăsat putere
+Şi la diavolul cel rău.
+
+[s3]
+3. Şi aceste două drumuri
+Unui larg neted frumos
+Iar altu-i plin de ispite
+Cu cruci multe şi spinos.
+
+[s4]
+4. Drumul cel plin de ispite
+Are la capătul lui
+Raiul cel plin de lumină
+Şi mărirea Domnului.
+
+[s5]
+5. Iar drumul cel larg şi neted
+Şi de pofte atrăgător
+Are la capătul lui
+Focul cel mistuitor.
+
+[s6]
+6. Omule ce eşti făcut
+Asemenea lui Dumnezeu
+Te întreb pe care drum apuci
+Pe drum bun sau pe cel rău.
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,27 @@
+[s1]
+/:A înviat :/
+Osana Amin Osana
+O Aleluia Maranata
+
+[s2]
+/:Isus e viu:/
+Osana Amin Osana
+O, Aleluia Maranata!
+
+[s3]
+/:E Domnul meu:/
+Osana Amin Osana
+O, Aleluia Maranata!
+
+[s4]
+/:El vine iar:/
+Osana Amin Osana
+O, Aleluia Maranata!
+
+[s5]
+/:Ne va răpi:/
+Osana Amin Osana
+O, Aleluia Maranata!
+
+[order]
+s1,s2,s3,s4,s5

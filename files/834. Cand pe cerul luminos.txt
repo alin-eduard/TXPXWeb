@@ -1,0 +1,59 @@
+[s1]
+834.
+Când pe cerul luminos
+Va veni Isus Hristos
+Nu va fi lună, stele, soare
+Ci numai o frică mare
+2. Soarele s-a-ntuneca
+Luna-n sânge s-a schimba
+Toţi din lume se vor strânge
+Şi de groază toţi vor plânge
+
+[s2]
+3. Cei ce multe vor răbda
+Până-n ceruri vor scăpa
+De al trupului greutate
+Încărcaţi de grele fapte
+4. Întâi focul va veni
+Pe cei răi va mistui
+După aceea va suna
+Îngerul cu trâmbiţa
+
+[s3]
+5. Şi prin glas de trâmbiţă
+Din mormânt vor alerga
+Domnul Isus va chema
+Pe cei morţi va învia
+6. În valea lui Iosafat
+Totul va fi judecat
+Judecata-i grea şi dreaptă
+Fiecare după faptă
+
+[s4]
+7. Vor veni săraci bogaţi
+Ofiţeri şi împăraţi
+Învăţătorii, cerşetorii
+Stăpânii cu servitorii
+8. Mamele vor sta de faţă
+Cu copii lor în faţă
+Pe care i-a omorât
+Când au fost jos pe pământ
+
+[s5]
+9. Părinţii vor sta la rând
+Cu copiii lor plângând
+Părinţii n-au învăţat
+Copiii n-au ascultat
+10. Acolo s-or prezenta
+Şi toţi ce au învăţat
+Evanghelia pentru plată
+Pe toţi osânda-i aşteaptă
+
+[s6]
+11. De aceea fraţi iubiţi
+Voi să propovăduiţi
+Aşa cum sunteţi chemaţi
+În dar primiţi, în dar să daţi.
+
+[order]
+s1,s2,s3,s4,s5,s6

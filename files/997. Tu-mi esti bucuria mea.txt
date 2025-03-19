@@ -1,0 +1,38 @@
+[s1]
+997.
+1. /: Tu-mi eşti bucuria mea
+Numai Tu, numai Tu :/
+/: C-ai murit pe Golgota
+Pentru mântuirea mea
+Numai Tu, Isuse, numai Tu :/
+
+[s2]
+2. /: Tu eşti pâinea-devărată
+Numai Tu, numai Tu :/
+/: Cea din ceruri coborâtă
+La toţi ai fost împărţită
+Numai Tu, Isuse, numai Tu :/
+
+[s3]
+3. /: Tu eşti apa minunată
+Numai Tu, numai Tu :/
+/: Câţi din Tine se adapă
+Nu-nsetează niciodată
+Nicidecum, Isuse, nicidecum :/
+
+[s4]
+4. /: Tu vei fi salvarea mea
+Numai Tu, numai Tu :/
+/: Când pe nori vei apărea
+Ca să-Ţi iei mireasa Ta
+Numai Tu, Isuse, numai Tu :/.
+
+[s5]
+5. /: Tu eşti mântuirea mea
+Numai Tu, numai Tu :/
+/: Colo sus la dreapta Ta
+În Împărăţia Ta
+Numai Tu, Isuse, numai Tu :/.
+
+[order]
+s1,s2,s3,s4,s5

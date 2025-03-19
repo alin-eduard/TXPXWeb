@@ -1,0 +1,35 @@
+[s1]
+414.
+1.O tu lume lume rea
+Mult m-ai chinuit
+În tine viaţa mea
+Mult am suferit.
+
+[r1]
+Cor:O tu lume întinată de păcat amar
+În tine viaţa toată este un calvar
+De ce nu crezi tu în Isus
+Sfântul Miel divin
+Ce-a murit în chinuri grele
+Pe Dealul Căpăţânii.
+
+[s2]
+2.O tu lume lume rea
+Mulţi ai amăgit
+Înşelaţi de pofta rea
+Mulţi s-au ofilit.
+
+[s3]
+3.Lume lume de păcate
+Mulţi ai rătăcit
+A tale plăceri deşarte
+Mulţi le-au îndrăgit.
+
+[s4]
+4.O tu lume tristă lume
+Priveşte în sus
+Priveşte spre sfântu-i nume
+A Domnului Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

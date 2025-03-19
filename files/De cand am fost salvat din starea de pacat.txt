@@ -1,0 +1,23 @@
+[s1]
+De cînd am fost salvat
+din starea de păcat
+Laud pe Domnul
+ce m-a răscumpărat.
+Numele-I sfînt slăvesc,
+cu dragoste-I servesc
+Sînt fericit că Isus m-a mîntuit.
+
+[r1]
+Nu sînt îngrijorat, sufletu-mi e salvat
+Isus mă conduce, El poartă grija mea.
+La bine şi la greu mă ţine-n braţul Său
+Sînt fericit, da, Isus m-a mîntuit !
+
+[s2]
+De cînd am fost salvat, lumină am aflat
+În Cartea sfîntă, Cuvîntul Domnului.
+Harul şi pacea Sa îmi umple inima
+Isus trăieşte, e în viaţa mea !
+
+[order]
+s1,r1,s2,r1

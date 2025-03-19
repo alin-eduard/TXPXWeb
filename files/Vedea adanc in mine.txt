@@ -1,0 +1,36 @@
+[s1]
+Vedea… Adanc in mine,
+Privirea Lui ma condamna,
+
+[s2]
+Ochii mi-am plecat,
+Am ingenunghiat,
+M-am prabusit in fata Lui zdrobit.
+Glasul Lui soptea,
+Inima-mi plangea
+Cu tot ce am inceput atunci sa strig:
+
+[s3]
+Ia-mi inima, in mana Ta
+Si o transforma, asa cum ai vrut Tu
+
+[s4]
+Vedea, adanc in mine,
+Privea, blandetea Lui ma coplesea
+
+[s5]
+Capul mi-am plecat,
+Dar El m-a ridicat
+Si mi-a intors privirea-n urma
+Spre un deal.
+Un Miel era junghiat,
+Pe cruce atarnat
+Si-am inceput atunci
+Cu tot ce am sa strig:
+
+[s6]
+In mana Ta e viata mea
+Tu ai salvat-o prin jertfa Ta.
+
+[order]
+s1,s2,s3,s4,s5,s6

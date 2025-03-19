@@ -1,0 +1,22 @@
+[s1]
+Numele Domnului e-un turn tare
+Cel drept aleargă la el şi e salvat
+/: Binecuvântat fie El ! :/
+Binecuvântat fie Domnul !
+
+[s2]
+Numele Domnului e-un turn tare,
+Cel drept aleargă la el şi e salvat!
+/: Sfânt e numele Lui :/
+Sfânt e numele Domnului!
+
+[s3]
+Cu bucurie cântaţi
+Daţi slavă Domnului
+Nunta Mielului vine-ncurând
+Căci mireasa Lui va fi gata
+/:Aleluia Domnului,
+În veci domneşte El:/
+
+[order]
+s1,s2,s3

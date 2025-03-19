@@ -1,0 +1,46 @@
+[s1]
+E dincolo de cer senin
+Un Dumnezeu cărui mă-nchin
+El tot şi toate a creat
+Cu braţul Său Cel minunat
+
+[r1]
+Bass:  Da Dumnezeu
+Cor: Da Dumnezeu
+Bass: E Tatăl meu
+Cor: E tatăl meu
+Bass: Prin el trăim
+Cor: Prin El trăim
+Bass: Chiar de murim
+Cor: Chiar de murim
+
+[r2]
+Surori: El ne-a făcut
+Fraţi: El ne-a făcut
+Surori: Cum i-a plăcut
+Fraţi:Cum i-a plăcut
+Surori: Un nume sfânt
+Fraţi: Un nume sfânt
+Surori: Sunt cel ce sunt
+Fraţi: Sunt cel ce sunt
+
+[s2]
+În vremi trecute ne-a vorbit
+Profeţii planul i-au vestit
+Azi Îl cunoaştem pe pământ
+Căci ne vorbeşte prin Cuvânt
+
+[s3]
+Şi viaţa e-n puterea Sa
+Izvorul ei nu-l pot afla
+Zadarnic mintea mi-o frământ
+E un mister cu lacăt sfânt
+
+[s4]
+Ştiu: Tatăl Fiu a dăruit
+Şi pentru mine L-a jertfit
+Să fiu prin El eliberat
+Şi să trăiesc fără păcat
+
+[order]
+s1,r1,r2,s2,r1,r2,s3,r1,r2,s4,r1,r2

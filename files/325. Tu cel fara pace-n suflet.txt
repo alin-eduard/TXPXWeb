@@ -1,0 +1,47 @@
+[s1]
+1. Tu cel fără pace-n suflet
+Eşti chemat, eşti chemat
+La Isus Mântuitorul
+Căci prin El poţi fi salvat.
+325. 							Sol
+
+[r1]
+Cor: /:Poţi să ai:/
+Chiar lumea-ntreagă
+/:Lauri, glorii:/, /:bogăţii:/
+/:De nu-l ai:/ pe Domnul Isus
+Eşti /:pierdut:/ pentru vecii.
+
+[s2]
+2. Ai căutat în lumea largă
+Pacea ta, pacea ta
+Făr' să ştii c-aici în viaţă
+Pacea ta e Golgota.
+
+[s3]
+3. Mulţi din cei
+ce-n lumea asta
+Fericire-au căutat
+În plăcerile de-o clipă.
+Doar regretele-au urmat.
+
+[s4]
+4. Domnul astăzi te întreabă
+Dacă vrei, dacă vrei
+Să laşi lumea şi păcatul
+Să-L urmezi, să-L urmezi.
+
+[s5]
+5. Poate-i ultima chemare
+Ce-o auzi astăzi din nou
+Şi pe urmă judecata
+Cea de-apoi, cea de-apoi.
+
+[s6]
+6. Iar-cei ce-au primit pe Domnul
+Sunt salvaţi, sunt salvaţi
+Căci în trupuri noi de slavă
+Vor fi schimbaţi, vor fi schimbaţi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

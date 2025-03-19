@@ -1,0 +1,33 @@
+[s1]
+1. Curăţit eşti de păcat şi înnoit
+Prin sfânt sângele al lui Isus ?
+Eşti născut din nou,
+De patimi mântuit
+Prin sfânt sângele al lui Isus ?
+398									 La
+
+[r1]
+Cor: Vrei să fii dar vrei să fii
+Mântuit  dar mântuit
+Şi de tot păcatul curăţit ?
+Aleluia vin’ te spală
+Pe Golgota-n sânge sfânt,
+Şi-ascultă al lui Isus cuvânt.
+
+[s2]
+2. Când sfinţit eşti
+Prin sângele lui Hristos
+Îi cânţi laudă Lui ne-ncetat;
+Nimic nu ţi-e mai plăcut
+Şi mai frumos
+Decât să te păzeşti de păcat!
+
+[s3]
+3. Când Satan te vede
+Că aşa trăieşti
+Şi prin sângele Sfânt eşti spălat,
+Te încearcă-n luptă, tu îl biruieşti
+Şi el pleacă atunci ruşinat.
+
+[order]
+s1,r1,s2,r1,s3,r1

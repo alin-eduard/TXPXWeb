@@ -1,0 +1,26 @@
+[s1]
+Din drumul meu azi vin la Tine
+Pribeag am fost destul mereu.
+Un vis părea viaţa din mine
+Un vis urît, fără Dumnezeu.
+
+[r1]
+/: Azi vin, Isus, azi vin la Tine
+Eu viaţa mea Ţi-o dăruiesc!
+Sufletul meu Te laudă-acuma
+Şi vreau pe veci să Te slăvesc! :/
+
+[s2]
+Un adevăr căutam în viaţă
+Ce-i raţional? atunci mi-am spus.
+Dar un mister aveam în faţă
+Şi-acest mister era Isus.
+
+[s3]
+Ades necaz şi strîmtorare
+În viaţa mea s-a abătut
+Eu nu ştiam de vreo salvare
+Şi deznădejdea m-a umplut.
+
+[order]
+s1,r1,s2,r1,s3,r1

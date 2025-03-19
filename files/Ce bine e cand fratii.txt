@@ -1,0 +1,26 @@
+[s1]
+Ce bine e când fraţii
+Cu dulce se unesc
+/: Şi-n dragoste şi-n pace
+Pe Domnul preamăresc. :/
+
+[s2]
+Ca rouă ce se varsă
+Pe câmpuri şi prin văi,
+/: Şi binecuvântarea
+Cădea-va peste ei. :/
+
+[s3]
+O credinţă şi-un botez!
+Un singur Salvator!
+/: Avem, în Isus, un crez,
+Domn şi Mântuitor. :/
+
+[s4]
+'Nainte totdeauna,
+In lucrul Domnului,
+/: Vestind Cuvântul vieţii
+Şi-mpărăţia Lui! :/
+
+[order]
+s1,s2,s3,s4

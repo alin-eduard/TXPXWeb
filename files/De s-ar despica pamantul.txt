@@ -1,0 +1,32 @@
+[s1]
+De s-ar despica pământul,
+Munţii de s-ar risipi,
+/: Furios de-ar bate vântul, :/
+Doamne, tot Te voi slăvi! :/
+
+[s2]
+De s-ar aduna toţi norii,
+Grindină de-ar prăvăli,
+/: De m-ar săgeta fiorii, :/
+Doamne, tot Te voi slăvi! :/
+
+[s3]
+Chiar de-ar aduna tot Iadul
+Celui Rău spre-a mă lovi,
+/: Şi mi-ar re'nnoi durerea, :/
+Doamne, tot Te voi slăvi! :/
+
+[s4]
+De-aş fi alungat oriunde
+Şi cei dragi m-ar părăsi,
+/: Pe-a-cântării mele unde, :/
+Doamne, tot Te voi slăvi! :/
+
+[s5]
+Căci Tu eşti eternul Mire!
+Cu ce am, cu ce voi fi,
+/: Doamne, necurmat pe Tine, :/
+Mai cu foc, Te voi slăvi!
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,26 @@
+[s1]
+Când valea plângerii voi părăsi
+Şi în oraşul ceresc voi păşi,
+Numai Isus bucuria­mi va fi
+Şi­n cerul veşnic eu voi locui.
+
+[r1]
+Numai Isus, numai Isus,
+Numai Isus, numai Isus,
+Numai Isus bucuria­mi va fi
+Şi­n cerul veşnic eu voi locui.
+
+[s2]
+Domnul pe mine atât m­a iubit
+Că loc în ceruri El mi­a pregătit;
+Numai Isus îndeajuns îmi va fi,
+Sfânta­I prezenţă mă va împlini.
+
+[s3]
+Sus în mărire voi fi cu Isus
+Şi cu cei dragi ce ’nainte s­au dus;
+Veşnic pe Domnul Îl voi preamări
+Şi bucuria doar El îmi va fi.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,24 @@
+[s1]
+Isus ştiu mă iubeşte
+Biblia-mi spune mie
+Cei mici Lui Îi aparţin
+Copilaşii la El vin.
+
+[r1]
+Da, mă iubeşte, El mă iubeşte!
+Mă iubeşte, da, Biblia-mi spune aşa!
+
+[s2]
+Pentru mine a murit
+Casă-n cer mi-a pregătit
+El spală păcatul meu
+De El m-apropii şi eu
+
+[s3]
+Lui Isus Îi sunt foarte drag
+Deşi sunt eu mic şi slab
+Din a Lui înălţime
+Mă scuteşte pe mine
+
+[order]
+s1,r1,s2,r1,s3,r1

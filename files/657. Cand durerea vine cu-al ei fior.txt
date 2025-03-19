@@ -1,0 +1,32 @@
+[s1]
+1. Când durerea vine cu al ei fior
+/: La Isus priveşte căci El te iubeşte
+Şi-ţi dă ajutor. :/
+2. În valul prigoanei cu-al ei necaz
+/: Domnul e cu tine în orice suspine
+El îţi dă alin. :/
+657.
+
+[s2]
+3. El îţi ştie starea şi puterea ta
+/: Şi nici o ispită nu-ţi va fi venită
+Să-ţi fie prea grea. :/
+4. Deci, În El te-ncrede
+Chiar atunci când plângi
+/: Căci din grea durere
+Stropi de mângâiere
+Curând ai să strângi. :/
+
+[s3]
+5. Căci pe-această cale
+Plină de-ncercare
+/: El a mers-nainte
+Prin orice suspine
+Prin orice dureri :/.
+6. Viaţa ta de chinuri şi amare încercări
+/: S-or preface-n valuri
+Ce-or da peste maluri
+În dulci mângâieri. :/
+
+[order]
+s1,s2,s3

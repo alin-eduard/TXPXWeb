@@ -1,0 +1,29 @@
+[s1]
+Te lăudăm Doamne,
+Prin al Tău Fiu Curat
+Prin Isus care-a murit şi-a înviat.
+
+[r1]
+Aleluia! Să fii slăvit!
+Aleluia! Amin!
+Aleluia! Să fii slăvit!
+Şi în veci mărit.
+
+[s2]
+Te lăudăm Doamne,
+Că Tu ne-ai arătat
+Calea luminei şi iertare
+Ne-ai dat.
+
+[s3]
+Mărire, laudă,
+Mielului cel junghiat,
+Păcatul, boala, toate El le-a purtat.
+
+[s4]
+Re-nviază-ne,
+Şi în inimi ne dă
+Pacea cerească şi iubire sfântă.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

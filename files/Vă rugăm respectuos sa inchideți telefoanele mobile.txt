@@ -1,0 +1,6 @@
+[s1]
+Vă rugăm respectuos să închideți telefoanele mobile în casa de rugăciune.
+Domnul să vă binecuvânteze!
+
+[order]
+s1

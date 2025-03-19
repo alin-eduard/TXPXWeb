@@ -1,0 +1,34 @@
+[s1]
+Se afla cândva un staul
+În cetatea Betleem
+Unde S-­a născut pe paie
+Pruncul sfânt Emanuel;
+Mama-­L legăna duios
+Pe­-al său Fiu, Isus Hristos.
+
+[s2]
+Pentru oameni coborât-a
+Domnul nostru­-al tuturor,
+Adăpost I-­a fost un staul,
+Leagă-n ieslea boilor.
+Cu cel blând, sărac, smerit,
+Salvatorul a trăit.
+
+[s3]
+În a Sa copilărie
+A crescut ca noi, simţind
+Bucurie şi durere,
+Chiar şi lacrimile­-arzând;
+El cunoaşte pe deplin
+Orice taină şi suspin.
+
+[s4]
+Dar acum El e­-n mărire
+Stând la dreapta Tatălui
+Şi­i aşteaptă cu iubire
+Sus în cer pe­-aleşii Lui.
+Ei în slavă vor domni
+Strălucind în veşnicii!
+
+[order]
+s1,s2,s3,s4

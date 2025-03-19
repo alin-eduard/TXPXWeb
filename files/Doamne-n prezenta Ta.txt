@@ -1,0 +1,28 @@
+[s1]
+Doamne-n prezenţa Ta doresc a sta
+Chiar dacă voi purta o cruce grea;
+În fiecare zi cântarea mea va fi
+Doamne-n prezenţa Ta doresc a sta!
+
+[s2]
+Al zilei asfinţit când va veni
+Şi singur, ostenit, voi adormi,
+Chiar şi în visul meu
+Eu voi rosti mereu:
+Doamne-nPrezenţa ta doresc a sta!
+
+[s3]
+Scara ce duce-n cer mi-ai arătat,
+În îndurarea Ta, Tu m-ai salvat;
+De îngerii de sus mă las pe ea condus,
+Doamne-n prezenţa Ta doresc a sta!
+
+[s4]
+Iar când în zori de zi mă voi trezi
+Cu Tine-n gândul meu eu voi porni;
+Păşind spre veşnicii,
+Cântarea ma va fi:
+Doamne-n prezenţa Ta doresc a sta!
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,29 @@
+[s1]
+Măriti pe Domnul
+Căci El peste toate veghează,
+El vi-e Părinte
+Si El păsul vi-l întelege;
+Vă adunati,
+Cu tot ce-aveti vă-nchinati,
+Lui Dumnezeu laudă să-I dati !
+
+[s2]
+Măriti pe Domnul,
+Pe Cel care totul conduce,
+Ca pe aripi de vultur
+El v-a dus si vă duce;
+El v-a tinut
+Pentru c-asa I-a plăcut ;
+Spre voi El mila-Si arată !
+
+[s3]
+Măriti pe Domnul
+Cu inimi si glasuri curate,
+Cât ne-a iubit El,
+Vom putea pricepe vreodată ?
+Tată, dorim
+Acum si-n veci să mărim
+Iubirea Ta minunată !
+
+[order]
+s1,s2,s3

@@ -1,0 +1,53 @@
+[s1]
+1. Nu uita mireasa mea
+Că ţi se începe nunta
+Şi o mare pregătire
+Îţi va face al tău Mire.
+2. A pus cerul în uimire
+Cu această pregătire
+Văzând ce bucate alese
+Pune Mirele la mese.
+710.
+
+[s2]
+3. Iar bătrânii se întreabă
+Cum de se lucrează-n grabă
+Vreau să lucrez mai curând
+Cu cuvântul pe pământ.
+4. Cine strigă şi va bate
+El va căpăta de toate
+Şi sfinţire şi iubire
+Ca să placă mult la Mire.
+
+[s3]
+5. Asta-i podoaba plăcută
+Cu care poţi sta la nuntă
+Dacă nu le ai pe toate
+Vei fi refuzat la poartă.
+6. O, biserică de-ai şti
+Că-n curând te-oi despărţi
+Pe soţi de a lui soţie
+Te va duce-n veşnicie.
+
+[s4]
+7. Pe soţie de la soţi
+Îi voi despărţi pe toţi
+Mamele se vor jeli
+De dorul după copii.
+8. Mare jale atunci va fi
+Când ei se vor despărţi
+Dar mai mare decât toate
+Va fi chinul cel de moarte.
+
+[s5]
+9. Biserică ia seama bine
+Cum stau hainele pe tine
+Ai podoabă de Mireasă
+Ca să poţi fi dusă acasă.
+10. Căci Mirele-i tare sfânt
+Şi te lasă pe pământ
+Şi îţi va fi tare greu
+Dacă te desparţi de El.
+
+[order]
+s1,s2,s3,s4,s5

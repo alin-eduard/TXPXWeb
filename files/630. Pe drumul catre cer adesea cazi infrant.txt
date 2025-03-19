@@ -1,0 +1,36 @@
+[s1]
+1. Pe drumul către cer
+Adesea cazi înfrânt
+Şi lacrimi curg din ochii tăi
+Nu te opri nicicând
+Din alergarea ta
+Căci Domnu-ţi e alăturea.
+630.
+
+[s2]
+2. Nu te opri nicicând
+Din alergare
+Nu te opri
+Chiar dacă drumu-i greu
+Mergi înainte
+Să primeşti cununa
+Ce ţi-o dă la capăt Dumnezeu.
+
+[s3]
+3. Când simţi că-n urma ta
+E-un Paradis pierdut
+Şi ţi-e zdrobită inima
+Încrede-te în El
+Şi vei vedea atunci
+Ce poate face mâna Sa.
+
+[s4]
+4. Ridică-ţi ochii plânşi,
+Priveşte către cer
+Căci Domnu-ţi ştie inima
+Îţi ştie amarul tău,
+Şi suferinţa grea
+El mângâiere îţi va da.
+
+[order]
+s1,s2,s3,s4

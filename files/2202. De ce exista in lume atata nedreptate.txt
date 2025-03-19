@@ -1,0 +1,45 @@
+[s1]
+2202
+1. De ce există în lume
+atâta nedreptate
+Acesta-i rezultatul umblării în păcate
+De ce-i atâta ură războaie și dureri
+Nu-L căutăm pe Domnul
+Ci căutăm plăceri.
+
+[r1]
+Cor: Să ne-ntoarcem la Cel ce
+ne-a creat
+La Dumnezeul sfânt și adevărat
+Veniți la mântuire e timpul
+de trezire
+Veniți la Dumnezeul minunat.
+
+[s2]
+2. Păcatul e la culme în țara mea creștină
+Dar spunem cu tărie că n-avem nici-o vină
+Păcatul și rușinea-i la fiecare pas
+Când văd acestea toate
+Eu strig și nu mă las.
+
+[s3]
+3. Ce-am semănat culegem
+Ocară și rușine
+Trăim speranțe false dar nu va fi mai bine
+Ne-am închinat la idoli și nu
+la Dumnezeu
+Întoarceți-vă oameni
+Primiți pe Fiul Său.
+
+[s4]
+4. Vrăjmașul cel din lume
+Pe toți îi amăgește
+Dar cine crede în Domnul
+Pe veci se mântuiește
+Ieșiți din întuneric
+Din plasa celui rău
+Veniți la mântuire
+Veniți la Dumnezeu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

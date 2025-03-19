@@ -1,0 +1,59 @@
+[s1]
+1. Unde-L cauţi tu pe Domnul,
+Suflete iubit ?
+Printre munţi
+Şi printre lucruri neînsufleţite
+387.
+
+[s2]
+/: O, nu-L vei găsi aicea
+Nici o veşnicie
+Căci El e izvor de viaţă
+Şi nădejde vie
+Nesecat izvor de viaţă
+Şi nădejde vie. :/
+
+[s3]
+2. Unde-L cauţi tu pe Domnul
+Printre fraţi şi rude?
+Oricât L-ai căuta acolo
+Glasul nu-ţi aude
+
+[s4]
+/:El e-n Templul
+Pe altarul rânduit de Tatăl
+Nu-L căuta în altă parte,
+Vino aici şi-L caută
+Te acoperă cu slavă
+Şi păcatu-ţi iartă.:/
+
+[s5]
+3. Unde-L cauţi tu pe Domnul
+Prin ştiinţa lumii ?
+Tu nu ştii că ea e roadă
+A nelegiuirii ?
+
+[s6]
+/:O, nu-L vei găsi
+Că-n lume e-mpărat minciuna
+Iar Isus e adevărul
+Sfânt pe totdeauna
+Adevăr de preţ şi tare,
+Sfânt pe totdeauna.:/
+
+[s7]
+4. Unde-L cauţi tu pe Domnul
+Pe cărarea lumii ?
+Printre fiii ei născuţi
+Din aluatul lumii
+
+[s8]
+/:Şi grăbit să vii la cruce
+Dincolo de poartă
+Nu-L căuta în altă parte,
+Vino aici şi-L caută!
+Căci zadarnică ţi-e truda,
+Vino aici şi-L caută!:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

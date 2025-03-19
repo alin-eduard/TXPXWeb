@@ -1,0 +1,53 @@
+[s1]
+1644.
+1. Cobori la noi, o, Doamne Sfinte,
+Te cheamă poporul Tău azi,
+Ca să cobori în adunare,
+Să mângâi orice suflet ars.
+/: Doamne Tu ne cunoşti viaţa,
+Căci suntem cu slăbiciuni,
+Întăreşte-ne-n credinţă,
+Dă-ne puteri în rugăciuni. :/
+
+[s2]
+2. De aceea iată Doamne,
+Din nou astăzi noi venim
+Ca să cobori în adunare,
+Prezenţa Ta vrem s-o simţim!
+/: Ostenită ne e viaţa,
+Căci suntem cu slăbiciuni,
+Valurile-ncearcă-ntruna,
+Să ne spulbere-n furtuni. :/
+
+[s3]
+3. De n-ai fi Tu, scumpe Isuse,
+Să ne scoţi biruitori,
+N-am putea lupta noi singuri,
+Fără de-al Tău ajutor!
+/: Te cheamă azi suflete dragă
+Acel ce-ţi vede-al tău necaz,
+Te cheamă-un glas duios de mamă
+Isus Isus cu al Său har! :/
+
+[s4]
+4. Să mergi spre patria cerească,
+Cu toţi acei ce îţi slujesc,
+Căci El îţi iartă orice vină,
+Şi-ţi pregăteşte-un loc în cer!
+/: În cereasca-mpărăţie,
+Doamne cât e de plăcut,
+Chiar de fi-vor spini pe cale,
+Vreau la Tine să ajung. :/
+
+[s5]
+5. Cu întreaga adunare,
+Cu toţi acei ce îţi slujim,
+Vrem pe plaiurile sfinte,
+Cu Tine să ne întâlnim!
+/: Unde vom serba noi nunta,
+Ce Tu nouă ne-ai pregătit,
+Vom cânta noua cântare,
+În noul Ierusalim! :/
+
+[order]
+s1,s2,s3,s4,s5

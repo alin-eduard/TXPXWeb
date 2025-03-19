@@ -1,0 +1,58 @@
+[s1]
+Alergăm de-atâta vreme,
+însetaţi la vechi izvoară
+Însă sufletul tot geme,
+inima mereu ne doare
+Alergăm prin locuri stranii,
+spre a ne gasi odihna
+Ne-am pierdut din viaţă anii,
+şi nădejdea şi lumina.
+
+[s2]
+Au fost clipe minunate,
+când am cunoscut izvorul
+Ne-nchinam în unitate,
+ne mărturiseam chiar dorul
+Nu ştiam ce e ruşinea,
+nepăsarea, aroganţa
+Dăruiam cămaşa pâinea,
+de era nevoie viaţa.
+
+[s3]
+Proşternuţi în rugăciune
+Lăudam pe Cel Preasfânt
+Şi sorbind din ape bune
+Eram plini de Duhul Sfant.
+Le vorbeam de mântuire
+Celor ce ne dusmăneau
+Din duhovniceasca fire
+Râuri sfinte izvorau.
+
+[s4]
+Purtam sarcinile grele celor obosiţi pe cale
+Iar izvoarele rebele rămaneau uscate-n vale
+Cursul apelor curate sătura întreg poporul,
+Inimile însetate urmareau cum vine norul.
+Şi-azi izvorul nesecat
+Curge limpede-n genune
+Noi cu timpul ne-am schimbat
+Nu mai vrem izvoare bune.
+
+[s5]
+/: Pune Doamne-n noi dorinţa
+S-alergam ca altădat
+Să ne săturăm fiinţa
+La izvorul nesecat. :/
+
+[s6]
+Proşternuţi în rugăciune
+Lăudăm pe Cel Preasfânt
+Şi sorbind din ape bune
+Suntem plini de Duhul Sfânt.
+Le vorbim de mântuire
+Celor ce ne duşmănesc,
+Din Duhovniceasca fire,
+Râuri sfinte izvorăsc.
+
+[order]
+s1,s2,s3,s4,s5,s6

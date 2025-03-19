@@ -1,0 +1,33 @@
+[s1]
+1. O, nu respinge Cuvântul
+Nu refuza harul cel sfânt
+Nu-ţi împietri inima ta
+Ci vino astăzi.
+377.
+
+[r1]
+Cor: De ce nu astăzi
+De ce nu astăzi
+Să fii salvat
+De ce nu astăzi.
+
+[s2]
+2. Mâine se poate e târziu
+Şi n-a fi loc pentru tine
+Azi primeşte cuvântul sfânt
+Şi-ţi va fi bine.
+
+[s3]
+3. Astăzi eşti chemat prin milă
+Ai grijă nu nesocoti
+Mâine se poate vei muri
+Deci vino astăzi.
+
+[s4]
+4. Domnul Isus a mântuit
+Pe nimenea n-a refuzat
+Pe cei ce aici L-au primit
+Şi Lui i-au urmat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

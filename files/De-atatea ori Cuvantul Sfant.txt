@@ -1,0 +1,26 @@
+[s1]
+De-atîtea ori Cuvîntul Sfînt
+A încolţit la tine-n gînd
+Să vii la El, să fii salvat
+Dar tot mereu ai amînat.
+
+[r1]
+/:Şi ce trist viitor va fi
+Un plîns amar în veşnicii !
+Puteai şi tu să fii salvat
+Dar tot mereu ai amînat.:/
+
+[s2]
+Viaţa ta e ca un nor
+Şi tu te duci aşa uşor !
+Nici nu ştii ceasul cînd vei da
+Un bun rămas, şi vei pleca.
+
+[s3]
+De ce refuzi mereu să vii
+Cînd sfîntul har mai poţi primi ?
+Poate chiar azi vei fi chemat
+De Domnul să fii judecat.
+
+[order]
+s1,r1,s2,r1,s3,r1

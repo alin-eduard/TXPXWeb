@@ -1,0 +1,43 @@
+[s1]
+Pe drumurile vieţii
+Păşim greşit mereu
+Şi atâtea rele facem
+Uitând de Dumnezeu
+/:Dar timpul ah tot trece
+Şi viaţa ni se curmă
+Pe drumurile vieţii
+/: Să ne uităm :/ ţi-n urmă :/
+1534
+
+[s2]
+2. La multele păcate
+Ce le-am înfăptuit
+Uitând de cele sfinte
+Mereu noi am greşit
+/:  De aceea dragii noştri
+E timpul să va opriţi
+De multele păcate
+/: Şi să vă pocăiţi :/
+
+[s3]
+3. Dreptate nu-i în lume
+Dar ea e toată sus
+La Dumnezeu ce poartă
+Un nume sfânt nespus
+/:  El este al nostru Tată
+În cer şi pe pământ
+Să-l proslăvim mereu
+/: În faptă şi-n cuvânt :/
+
+[s4]
+4. La El toţi să venim
+Cu inima înpăcată
+Şi să-L rugăm mereu
+Pe bunul nostru Tată
+/:  O iartă-ne greşeala
+Prea bunule Părinte
+/: Vom deveni :/ noi alţii
+De acuma înainte :/
+
+[order]
+s1,s2,s3,s4

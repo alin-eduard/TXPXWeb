@@ -1,0 +1,43 @@
+[s1]
+1. Se aude peste munţi
+Vocea minunată
+De / :laudă :/ lui Isus
+Aceasta-i cântarea
+De îngeri cântată
+De / :laudă :/ lui Isus
+31.
+
+[r1]
+Cor: Înainte toţi la-nvingere
+Strigă Comandantul nost’
+Noi la a Sa chemare
+Vom da ascultare
+Şi vom lupta tot cântând,
+'Nainte cu Isus.
+
+[s2]
+2. Auziţi sunetul
+Ce mişcă pământul
+De /: laudă :/ lui Isus
+Sculaţi cu-ndrăzneală
+Să mergem la luptă
+Dând /: laudă :/ lui Isus.
+
+[s3]
+3. Veniţi ca să luptăm
+Cu voce să strigăm
+Dând /: laudă :/ lui Isus
+Pe-a lui Satan oaste
+De tot s-o învingem
+Dând /: laudă :/ lui Isus.
+
+[s4]
+4. Tinereţea noastră
+În luptă s-o punem
+Dând /: laudă :/ lui Isus
+Şi cu Evanghelia
+Cu toţii să-nvingem
+Dând /: laudă :/ lui Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

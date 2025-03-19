@@ -1,0 +1,75 @@
+[s1]
+Din biserică a ieşit
+Şi spre munte a plecat
+Stă pe muntele-nverzit
+Al Măslinilor numit
+A venit Ioan Andrei
+Petru şi alţi învăţăcei
+Lângă Domnul zisa Lui
+Doamne fii bun să ne spui
+1.
+2.
+1237.
+
+[s2]
+Ce-ntâmplări vor da de ştire
+Lumi despre-a Ta venire
+Despre al veacului sfârşit
+Iar Isus a glăsuit
+Dragii Mei vor fi războaie
+Om pe om o să despoaie
+Neam pe neam o să se bată
+Nu va fi sfârşitu-ndată
+3.
+4.
+
+[s3]
+Semne or fi prevestitoare
+Chiar în lună, stele, soare
+Stele vor cădea pe rând
+Frică-n inimi semănând
+O să sufle amar vântul
+Să cutremure pământul
+Foc se-ntinde peste lume
+Şi-o durere fără nume
+5.
+6.
+
+[s4]
+Şi-or umbla înfiorătoare
+Valurile mărilor
+Multor oameni zbuciumarea
+Groaza le-a curmat suflarea
+Precum n-au fost de când sunt
+Oameni pe acest pământ
+Dacă răbdători vom fi
+Mântuirea vom primi
+7.
+8.
+
+[s5]
+Precum în zilele lui Noe
+Oameni trăiau în voie
+Ce-i aşteptau n-au simţit
+Când potopul a venit
+Aşa fi va-n omenire
+Şi cu-a Fiului venire
+Precum omul care lasă
+La plecarea lui de-acasă
+9.
+10.
+
+[s6]
+Slujilor în grijă averea
+Viaţa şi veghere le cere
+Vouă zic şi voi vegheaţi
+Pe Stăpânul aşteptaţi
+Că nu ştii cum de odată
+La uşă când o să bată
+Nu cumva al vostru Domn
+Să vă afle prinşi în somn.
+11.
+12.
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,53 @@
+[s1]
+1116.
+Isus vă cheamă la El veniţi
+Căci fericirea e numai în El
+De-atâta vreme nu-L auziţi
+Duios zicând : veniţi
+Cor:	Ce frumos va fi în clipa când
+Curăţiţi şi slobozi de păcat
+Vom fi în ceruri toţi cu Isus
+În casa cea de sus.
+
+[s2]
+2.   Veniţi la Mine vă cheamă El
+Odihnă, pace şi har să găsiţi
+Căci jugul crucii este uşor
+Nu-ntârziaţi veniţi .
+Cor: 	Ce frumos va fi în clipa când
+Curăţiţi şi slobozi de păcat
+Vom fi în ceruri toţi cu Isus
+În casa cea de sus.
+
+[s3]
+3.    De-atâta vreme v-aşteaptă-n drum
+Ca să vă-ntoarceţi din calea cea rea
+Lăsaţi păcatul toţi chiar acum
+Veniţi sub crucea Sa.
+Cor:	Ce frumos va fi în clipa când
+Curăţiţi şi slobozi de păcat
+Vom fi în ceruri toţi cu Isus
+În casa cea de sus.
+
+[s4]
+4.  El şi-a dat viaţa pe Golgota
+Şi cu-a Lui jertfă pe toţi ne-a spălat
+Că noi curaţi să avem prin El
+Iertare de păcat.
+Cor:Ce frumos va fi în clipa când
+Curăţiţi şi slobozi de păcat
+Vom fi în ceruri toţi cu Isus
+În casa cea de sus.
+
+[s5]
+5.    Nimeni nu poate să spună acum
+Că la Isus el nu poate veni
+Când El îi cheamă şi-aşteaptă-n drum
+Cu dragostea-i primi.
+Cor:  Ce frumos va fi în clipa când
+Curăţiţi şi slobozi de păcat
+Vom fi în ceruri toţi cu Isus
+În casa cea de sus.
+
+[order]
+s1,s2,s3,s4,s5

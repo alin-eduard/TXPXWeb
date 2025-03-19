@@ -1,0 +1,40 @@
+[s1]
+Pe-acest pământ suntem trecători
+Ne-am născut şi vom pleca
+Spre un loc etern
+şi-o viaţă fără apus.
+În cer, în paradis sau în iad nestins
+Decizia tu o faci acum
+Mergi cu Dumnezeu
+sau cu Satan pe drum.
+
+[r1]
+Uşa harului, uşa harului
+Stă deschisă înaintea ta.
+Dacă vei intra, viaţă vei afla
+Isus te cheamă acum, nu amâna.
+
+[s2]
+Astăzi înc-o dat’, harul ţi-a fost dat
+Să te-mpaci cu Dumnezeu:
+Primeşte-L pe Isus Hristos
+ca Domn al tău.
+Fiindcă te-a iubit, pe-o cruce a murit, şi-a înviat a treia zi
+Mântuire-n dar îţi dă, o vei primi?
+
+[s3]
+Uşa harului se va-ncuia
+Ca să intri nu vei mai putea.
+Dumnezeu cel drept atunci va sta
+Judecând pe toţi acei
+Ce-au respins pe Fiul Său.
+
+[s4]
+Nu ştii viaţa ta când se va sfârşi.
+Nu ştii când Isus va reveni.
+Cu regrete tu vei trăi
+Dacă nu te-mpaci cu El
+Prin Isus, cu Dumnezeu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,15 @@
+[s1]
+Noi te iubim, noi te iubim
+Al Tău nume mare-l înălţăm
+Căci în Tine e puterea
+În Tine-i măreţia
+Prin care suntem biruitori.
+
+[s2]
+Ţie ne-nchinăm, ţie ne-nchinăm
+Cu podoabe sfinte-n faţa Ta stăm
+Doar pe Tine te-nălţăm
+Domneşte Tu printre noi.
+
+[order]
+s1,s2

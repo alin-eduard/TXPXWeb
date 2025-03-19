@@ -1,0 +1,23 @@
+[s1]
+Exist-o judecata, exista un sfarsit,
+Exista Dumnezeul in toate infinit.
+Exista-un loc de groaza, unde doar
+chin va fi,
+/: Exista vesnicia pentru ai lui Isus copii:/
+
+[s2]
+De-atatea ori ai auzit chemarea sfanta!
+De-atatea ori L-ai refuzat!
+Din nou te cheama, nu-i zice: „Maine...".
+„Astazi!" si vei fi salvat!
+
+[s3]
+/: Vino, vino, vino, vino la El! :/ (3 ori)
+Vino la Creatorul tau!
+Isus te primeste, Isus te iubeste,
+Isus fericire iti da in dar,
+Numai sa crezi in jertfa Lui
+De pe Calvar. In jertfa Lui... in jertfa Lui!...
+
+[order]
+s1,s2,s3

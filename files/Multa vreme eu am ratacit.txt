@@ -1,0 +1,26 @@
+[s1]
+Multă vreme eu am rătăcit,
+Neştiind că Isus m-a iubit,
+Pentru mine că S-a răstignit,
+Pe Golgota.
+
+[r1]
+Sus pe cruce al Său sânge a curs,
+Trupul, inima I S-au străpuns.
+Doar pentru păcatul meu muri,
+Pe Golgota.
+
+[s2]
+Din Cuvântul Domnului cunosc,
+Astăzi că eu sunt un păcătos,
+Şi în locul meu muri Cristos,
+Pe Golgota.
+
+[s3]
+Am venit la El şi-am căpătat,
+Multe binecuvântări mi-a dat,
+M-a făcut copilul Său bogat,
+Pe Golgota.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,32 @@
+[s1]
+Mi se bucură inima-n Domnul
+Că puterea mea El a-nălţat!
+Spre vrăjmaşi  gura larg mi-e deschisă,
+Cu-ajutorul Lui m-a mângâiat.
+
+[r1]
+Nimeni nu este aşa sfânt ca Domnul,
+Nu este alt Dumnezeu decât EL,
+Nu e stâncă aşa cum e Domnul
+Dumnezeu, Sfântul lui Israel.
+
+[s2]
+Nu vorbiţi cu atâta-ngânfare,
+Nu rostiţi al mâniei cuvânt.
+Căci El e-un Dumnezeu, care ştie
+Cântări tot ce faci pe pământ.
+
+[s3]
+Arcul celor puternici sfărmat-a
+Şi cei slabi cu putere-s încinşi,
+Cei flămânzi au acuma odihnă
+Cei sătui azi de foame-s învinşi.
+
+[s4]
+Chiar şi-aceea ce n-avea pe nimeni
+A primit fericită copii,
+Iar aceea ce-avea o mulţime
+Lâncezând a rămas fără fii.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,30 @@
+[s1]
+Pot demonii cu groază
+să-ntunece răcnind
+Şi stelele şi Luna,
+chiar şi Soarele, dorind
+Să-nfrîngă Duhul Celui
+ce e-n sufletul meu
+Ce Însuşi e lumină,
+că-i Fiu de Dumnezeu.
+
+[r1]
+/: El este Isus, Medic ceresc
+Balsam şi sînge Dumnezeiesc.
+Începutul şi sfîrşitul
+În El se odihnesc
+Isus este acelaşi
+Ieri şi azi şi-n veci ! :/ (3x)
+
+[s2]
+Izbînda e a noastră,
+ştim la ce-am fost chemaţi
+Căci mîna Lui se-apleacă
+către cei împovăraţi.
+A Domnului e slava,
+iubit Ocrotitor
+În veci de veci rămîne
+al dragostei izvor!
+
+[order]
+s1,r1,s2,r1

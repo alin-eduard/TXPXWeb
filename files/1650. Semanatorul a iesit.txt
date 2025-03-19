@@ -1,0 +1,33 @@
+[s1]
+1650.
+1. Semănătorul a ieşit,
+Sămânţa a semănat,
+Într-un pământ lângă drum,
+Iar păsările vin acum.
+
+[r1]
+Cor: /: Eşti un pământ omule
+Eşti un pământ omule,
+Eşti un pământ, pământ eşti
+O, spune de ce nu rodeşti?:/
+
+[s2]
+2. Semănătorul a trecut,
+Sămânţa în văi a căzut,
+Într-un pământ între spini
+O, spune-mi de ce tot suspini?
+
+[s3]
+3. Erai o stâncă-n înălţimi,
+Sămânţa a căzut în tin’
+Tu ai respins-o direct
+Ea n-a avut nici un efect.
+
+[s4]
+4. Iată, sămânţa de acum,
+Cade-n pământul cel bun!
+Unul aduce treizeci,
+Altul o sută şi altul şaizeci.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

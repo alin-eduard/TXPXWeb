@@ -1,0 +1,50 @@
+[s1]
+Fie peste casa aceasta
+Doamne Sfântu-ţi nor
+Slava Ta să o umbrească
+Ca şi pe Tabor
+
+[s2]
+Tu Soare Sfânt să străluceşti
+Aici zi de zi
+Şi locul acesta să-L sfinţeşti
+Până-n veşnicii.
+
+[s3]
+Ca şi Solomon odată-n
+rugăciunea sa
+Te rugăm şi noi o Tată
+astăzi tot aşa.
+
+[s4]
+Vrem binecuvântarea Ta
+Să o laşi mereu
+Peste cetatea aceasta
+Sfinte Dumnezeu.
+
+[s5]
+Fă aici o sărbătoare
+Şi un sfânt pridvor
+Un cămin pentru oricare
+Limbă sau popor.
+
+[s6]
+Fă Doamne aici un colţ de rai
+Un ceresc popas
+Şi sub privirea Ta să ai
+Doamne acest locaş.
+
+[s7]
+Cu întreaga adunare
+Ţie îţi mulţumim
+Pentru această sărbătoare
+Doamne Te slavim.
+
+[s8]
+Şi pentru tot ce ai lucrat
+Noi te preamărim
+Căci până aici ne-ai ajutat
+Doamne îţi mulţumim.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

@@ -1,0 +1,26 @@
+[s1]
+În inimă eu am un cânt
+Şi­n suflet port un tainic gând:
+Pe Domnul să­L laud având
+O pace sfântă de sus.
+
+[r1]
+Pace, da, pace,
+Ce dar sfânt şi minunat!
+Mai dulce nici nu poate fi
+Ca pacea ce o primim!
+
+[s2]
+Isus în dar pace mi­a dat,
+Scăpare din al meu păcat;
+În jertfa Lui eu am aflat
+O pace sfântă de sus.
+
+[s3]
+În clipa când eu am gustat
+Iubirea şi haru­I bogat,
+În schimbul durerii
+Mi­a dat o pace sfântă de sus.
+
+[order]
+s1,r1,s2,r1,s3,r1

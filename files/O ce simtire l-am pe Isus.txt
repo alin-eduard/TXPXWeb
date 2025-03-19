@@ -1,0 +1,26 @@
+[s1]
+O, ce simţire, l-am pe Isus
+Asta mă face aşa voios,
+Că sunt oştean al cerului nalt,
+Şi mântuire că am aflat.
+
+[r1]
+În veci cânta-voi că-s fericit,
+Acum prin Isus sunt mântuit
+În veci aceasta voi cânta eu,
+Laud pe Isus că e al meu.
+
+[s2]
+Inima mea cu bucurie,
+Cu Isus una vrea să fie,
+Pacea în mine locuieşte,
+Harul Lui mă-nveseleşte.
+
+[s3]
+Ce fericire, pace sfântă,
+Pe braţele Lui am odihnă.
+A ști e bine, o știu și eu
+Isus, viața-mi este al meu
+
+[order]
+s1,r1,s2,r1,s3,r1

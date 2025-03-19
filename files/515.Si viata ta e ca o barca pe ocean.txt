@@ -1,0 +1,41 @@
+[s1]
+1. Şi viaţa ta e ca o barcă pe ocean
+Ce zi şi noapte
+Curge-ntruna spre liman
+Deci nu dormi,
+Fii întotdeauna vegheator
+Căci poţi cădea în val foarte uşor.
+515    							   Re m
+
+[r1]
+Cor:
+Chiar dacă oceanele toate
+Ar fierbe în val după val
+Nu-ţi pierde credinţa, o, frate
+Tu mergi înainte spre mal.
+
+[s2]
+2. Şi viaţa ta e-o viaţă
+Plină de-ncercări
+La fel cum un vapor
+Se duce peste mări
+Şi tu în lumea asta eşti un călător
+În viaţa aceasta a-ncercărilor.
+
+[s3]
+3. Fii curajos,
+În marea luptă fii viteaz
+Când valurile se ridică în talaz
+Nu te lăsa de valul lumii biruit
+Deci tu te luptă să fii mântuit.
+
+[s4]
+4. În lupta aceasta
+Să nu fii descurajat
+Chiar dacă valurile vin neîncetat
+Tu să rămâi
+Întotdeauna credincios
+Privirea ta să fie la Hristos.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

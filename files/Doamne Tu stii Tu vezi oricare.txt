@@ -1,0 +1,31 @@
+[s1]
+Doamne, Tu ştii,
+Tu vezi oricare drum,
+Condu-mă Tu!
+Cum aş putea eu singur
+să mă-ndrum,
+Condu-mă, Tu
+Dă-mi Tu povaţa blândului Tău glas,
+Condu-mă, Tu la fiecare pas!
+
+[s2]
+Doamne, Tu ştii,
+cărarea pentru crini,
+Condu-mă Tu!
+Nu mă lăsa să-ntârzii prin străini,
+Condu-mă, Tu!
+Nu vreau zadarnic
+paşii să-mi opresc,
+Condu-mă, Tu, Păstorul meu ceresc!
+
+[s3]
+Doamne, Tu ştii,
+Tu vezi orice ungher,
+Condu-mă, Tu!
+Vreau să mă-nalţ cu tine către cer,
+Condu-mă, Tu!
+Tu-mi dai seninul florilor de mai,
+Iubirea Ta e cale către rai.
+
+[order]
+s1,s2,s3

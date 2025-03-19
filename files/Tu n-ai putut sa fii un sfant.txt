@@ -1,0 +1,56 @@
+[s1]
+Tu n-ai putut sa fii un sfant
+Si nici un geniu pe pamant
+Acestea cer un unic rost
+Dar om, nici om de ce n-ai fost?
+
+[s2]
+O vine ceasul cel temut
+Sa dai raspuns ce n-ai facut
+Si n-o s-ai unde sa te-ascunzi
+Ci tu doat tu ai sa raspunzi
+
+[s3]
+Asa ti-ar spune seara
+de-ai sti sa intelegi
+Curand iti lasi povoara
+si-un alt lacas ti-alegi
+Asa ti-ar spune toate
+de-ai crede graiul lor
+De vrei sa poti razbate
+sa cauti pe Mantuitor.
+
+[s4]
+Tu n-ai putut sa ‘nalti cetati
+Nici fapte mari si-n larg s’avanti
+Un bine mare n-ai facut
+Dar mic nici mic de ce n-ai vrut?
+
+[s5]
+/: Asa ti-ar spune vantul
+de-ai sti sa il asculti
+Oricum li asezamantul
+si cei mai tari sunt smulsi
+Asa ti-ar spune toate
+de-ai crede graiul lor
+De vrei sa poti razbate
+sa cauti pe Mantuitor. :/
+
+[s6]
+Tu n-ai putut s-aduci pe nim’
+Pe caile credintei vii
+Nici la Hristos s-aduci pe toti
+Dar tu nici tu de ce nu poti?
+
+[s7]
+/: Asa ti-ar spune apa
+cu mersul ei asa
+Sfarsitul nu e groapa
+existi si dupa ea
+Asa ti-ar spune toate
+de-ai crede graiul lor
+De vrei sa poti razbate
+sa cauti pe Mantuitor. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

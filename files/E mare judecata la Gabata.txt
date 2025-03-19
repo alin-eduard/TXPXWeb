@@ -1,0 +1,38 @@
+[s1]
+E mare judecata la Gabata
+Se judecă un miel nevinovat
+La moarte striga-nfirbantata gloata
+La răstignire fie condamnat
+Eu nu găsesc în acest om vreo vina
+Deci daţi-mi apă mainile sa-mi spăl
+Privea Pilat la fata cea senină
+/:Eu n-am nimic eu n-am nimic cu El:/
+
+[r1]
+Golgota locul capatanii
+Golgota loc de plans amar
+Golgota unde cresc doar spinii
+O Golgota o calvar
+
+[s2]
+Privea Maria–ntr-un tarziu departe
+Cu-n foc si o vapaie in priviri
+O cum sa fie condamnat la moarte
+O cum sa uite-atatea amintiri
+Minuni cu paini si pesti si apa vie
+Si binecuvantari de copilasi
+Credeam c-ai sa ramai o vesnicie
+/:O Doamne astazi oare cui ne lasi:/
+
+[s3]
+O nu ma plangeti le sopteste Domnul
+Plangeti-va copiii si pe voi
+Caci iata Eu voi izbavi Sionul
+Ma voi intoarce-n vremea de apoi
+Vom fi-mpreuna toti o vesnicie
+Si toata suferinta-o vom uita
+Va fi iar pace pe aceasta glie
+/:Si pentru veci noi ne vom bucura:/
+
+[order]
+s1,r1,s2,r1,s3,r1

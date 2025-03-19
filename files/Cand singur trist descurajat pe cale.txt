@@ -1,0 +1,26 @@
+[s1]
+Când singur trist descurajat pe cale
+Căzu-i amar sub jugul vieţii greu
+/: Când demoni negri răi mugeau în vale
+Am auzit încet susurul Tău :/
+
+[r1]
+/: Nu te teme, nu descuraja
+Nu te teme, sunt de partea ta
+Nu te teme, eu sunt Domnul tau
+Eu Isus te scap de orice rău :/
+
+[s2]
+Cand Iadul rece urlă tot mai tare,
+Mugind toti demonii urâţi din el:
+/: Eu nu mă tem ci îi calc în picioare ;
+Prin sângele Tău, o Divinul Miel :/
+
+[s3]
+O dragul meu de ai căzut amarnic
+Simţind blestemul proprii neputinţi
+/: Nu dispera din praful cel mai jalnic
+Priveşte sus cu lacrime fierbinţi :/
+
+[order]
+s1,r1,s2,r1,s3,r1

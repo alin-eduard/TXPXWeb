@@ -1,0 +1,37 @@
+[s1]
+Simone, /:Fiul lui Iona: /
+/: Dacă Mă iubeşti :/
+Te voi face /: pescar de oameni :/
+/: Dacă Mă iubeşti :/
+
+[s2]
+Pe piatra ta /: Îmi voi zidi :/
+/: Templul Meu Cel Sfânt :/
+Tu vei paşte /: oile Mele :/
+/: Dacă Mă iubeşti :/
+
+[s3]
+Vreau să te fac pescar de om
+Pescar de om, pescar de om,
+Vreau să te fac pescar de om
+Dacă Mă urmezi.
+/: Dacă Mă urmezi :/
+
+[s4]
+Vreau, Isuse să Te urmez,
+Să te urmez, să te urmez,
+Vreau Isuse să Te urmez
+Ştiu că mă primeşti.
+/: Ştiu că mă primeşti :/
+
+[s5]
+Arunca-voi pâinea în râu,
+Pâinea în râu, pâinea în râu.
+Arunca-voi pâinea în râu.
+La Cuvântul Tău.
+/: Voi fi un bun pescar :/
+Dacă Tu îmi vei da în dar
+Undiţa de har.
+
+[order]
+s1,s2,s3,s4,s5

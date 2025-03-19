@@ -1,0 +1,26 @@
+[s1]
+Vindecă a mea-ndoială
+Ce m-apasă uneori,
+Când mi-e inima-ntristată
+Şi prin suflet trec fiori.
+
+[s2]
+Nici o clipă de-ndoială
+Nu vreau să am în viaţa mea,
+C-ai venit să mă răscumperi,
+Să-mi dai pace, pacea Ta!
+
+[s3]
+Ţine-mi gândul la cetatea
+Cea cu ziduri de topaz
+Ca să nu mă copleşească
+A-ndoielilor talaz.
+
+[s4]
+Tu m-ajută, o, Isuse,
+Ochii să mi-i pot ţinea,
+Peste valul îndoielii
+Sus la Tine, stânca mea!
+
+[order]
+s1,s2,s3,s4

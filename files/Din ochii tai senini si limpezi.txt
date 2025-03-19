@@ -1,0 +1,32 @@
+[s1]
+Din ochii Tăi senini si limpezi
+Curati strălucitori si calzi,
+Au curs în noapte lacrimi multe,
+Când te-Ai rugat în Ghetsimani.
+
+[r1]
+/: Gradină de măslini udata
+Cu lacrimi grele de Isus,
+Tu ai privit cu greu tristeţea
+Pe chipul blând a lui Isus. :/
+
+[s2]
+Din miile de lacrimi grele
+Ce Îţi brăzdau obrajii sfinţi,
+Poate sute dintre ele,
+Din vina mea cadeau fierbinţi.
+
+[s3]
+Cădea sudoare, plâns şi sânge
+Dar n-ai cedat şi te-ai rugat:
+« O Tată este greu dar totuşi,
+De dragul lor şi-al Tău o fac. »
+
+[s4]
+Ai plâns cu-amar atunci Isuse
+Ne-ai plans pe toţi căci ne-ai iubit,
+Ne-ai câştigat cu lacrimi sfinte,
+Şi noi azi Doamne îţi mulţumim.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

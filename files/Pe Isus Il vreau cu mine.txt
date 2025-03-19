@@ -1,0 +1,26 @@
+[s1]
+Pe Isus Îl vreau cu mine
+În umblarea mea spre cer,
+Braţul Lui când mă susţine
+Toate temerile pier.
+
+[r1]
+Cu-al meu Domn eu voi umbla,
+Teamă-atunci nu voi avea,
+Fără murmur eu voi merge
+Necurmat în urma Sa.
+
+[s2]
+Pe Isus Îl vreau cu mine
+Pe-al meu drum de peregrin,
+El furtunile alină şi-mi dă pace
+Pe deplin.
+
+[s3]
+Pe Isus Îl vreau cu mine,
+Eu mă las de El condus,
+Când credinţa mea slăbeşte
+Harul Său îmi e de-ajuns!
+
+[order]
+s1,r1,s2,r1,s3,r1

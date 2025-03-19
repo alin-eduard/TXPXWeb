@@ -1,0 +1,30 @@
+[s1]
+875.
+1. Aş vrea să zbor în zori ca porumbelul
+S-ajung mai sus la Domnul meu iubit
+Să nu mai fiu în astă tristă viaţă
+Ci să fiu mângâiat de Dumnezeu.
+2. Ajunge pentru mine această viaţă
+În care eu m-am chinuit mereu
+Aş vrea ca pururi să fiu lângă Domnul
+Din instrument să cânt şi eu mereu.
+
+[s2]
+3. Să-mi astâmpăr inima ce mult suspină
+De atâta timp lovită de dureri
+Să-mi cânt mereu din instrument
+Sfârşitul de zile cu necazuri şi dureri.
+4. Să-mi răcoresc a mea inimă tristă
+Cântând cu cei ce i-ai răscumpărat
+Pe veci de veci să fiu mereu cu Domnul
+Cu cei ce-n lume s-au iubit ca fraţi.
+
+[s3]
+5. Aş vrea să fiu unit cu aceia care
+Cu sânge scump
+Au fost răscumpăraţi
+Ce şi-au primit cununa de viaţă
+Din mâna Domnului ce i-a salvat.
+
+[order]
+s1,s2,s3

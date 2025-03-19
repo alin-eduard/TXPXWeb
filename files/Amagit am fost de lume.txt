@@ -1,0 +1,38 @@
+[s1]
+Amăgit am fost de lume,
+Amăgit am fost mereu,
+Până-n ziua ceea mare
+/: Când m-a găsit Dumnezeu. :/
+
+[r1]
+/:M-a găsit, m-a salvat Dumnezeu!:/
+/: Mi-a iertat :/ Păcatul meu!
+Lui Isus inima I-am predat,
+Aleluia-I cânt, sunt salvat!
+
+[s2]
+Banii mi-au fost amăgirea,
+Banii m-au orbit mereu
+Şi-am cântat deşertăciunii,
+/: Morţii sufletului meu. :/
+
+[s3]
+Cei ce nu-L cunosc pe Isus
+Astăzi mă batjocoresc,
+Dar îndur orice ocară
+/: Pentru Domnul meu ceresc. :/
+
+[s4]
+Toţi cei dragi m-au dat uitării
+Pentru simplu crezul meu,
+Dar eu am o mângâiere:
+/: Nu mă uită Dumnezeu!:/
+
+[s5]
+Nu mai am nici-o îndoială:
+Isus este Domnul meu!
+Dându-Şi viaţa la Golgota,
+/: Am primit viaţă si eu.:/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

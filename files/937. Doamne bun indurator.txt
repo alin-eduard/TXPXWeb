@@ -1,0 +1,43 @@
+[s1]
+937.       Sol
+1. Doamne bun îndurător
+Te cheamă azi al Tău popor
+Lasă o binecuvântare
+Azi la noi în adunare.
+2. Aceştia doi ce se unesc
+Pe un drum necunoscut pornesc
+Nu cunosc ei taina mare
+Ce le-ar putea ieşi în cale.
+
+[s2]
+3. Multe se-ntâmplă-n viaţă
+Puţin senin şi iarăşi ceaţă
+Dar pentru ei fă ca să fie
+Mai mult senin şi bucurie.
+4.  Te rugăm Isuse dragă
+Să priveşti acum din slavă
+La acest sfânt legământ
+Ce se face pe pământ.
+
+[s3]
+5. De dragostea Ta cea bună
+Vino Tu şi îi cunună
+Acest cămin în început
+De Tine să fie cunoscut.
+6.  Pentru mireasă şi mire
+Un cadou de fericire
+Lasă Duhul Tău cel Sfânt
+Să-i conducă pe pământ.
+
+[s4]
+7. O, Isuse Doamne sfinte
+Am avea multe dorinţe
+Zi şi noapte Te chemăm
+De Tine noi nu ne lăsăm.
+8. Mai avem o rugăminte
+Ţi-o spunem în scurte cuvinte
+Îmbracă-ne pe toţi mireasă
+Şi ne du la tine acasă.
+
+[order]
+s1,s2,s3,s4

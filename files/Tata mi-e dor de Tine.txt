@@ -1,0 +1,27 @@
+[s1]
+Tată, mi-e dor de Tine
+Te aştept, Te aştept, Te aştept !
+
+[r1]
+În curând voi pleca
+La Tine-n ceruri sus
+În curând, în curând voi pleca!
+
+[s2]
+Tată, du-mă acasă
+Vreau să ajung,
+vreau să ajung la Tine!
+
+[s3]
+Mire, mireasa-i gata
+Veşmîntul îi este curat.
+Gata îi este haina
+Gata să intre-n odaie.
+
+[s4]
+Sculaţi şi strigaţi
+Că nunta a început
+Aleluia, Aleluia, Amin !
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

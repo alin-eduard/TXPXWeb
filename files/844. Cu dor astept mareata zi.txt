@@ -1,0 +1,43 @@
+[s1]
+1. Cu dor aştept măreaţa zi
+Când iarăşi o să vie
+Isuse drag şi scump Isus
+A Ta împărăţie.
+844.
+Cor:    /: Fiinţa mea suspină
+Şi-atât de mult aş vrea
+Ca mai curând să vină
+Împărăţia Ta :/
+
+[s2]
+2. Pământu-ntreg va tresălta
+Cântând de bucurie
+Când Tu Isuse vei veni
+Cu a Ta împărăţie.
+Cor:    /: Fiinţa mea suspină
+Şi-atât de mult aş vrea
+Ca mai curând să vină
+Împărăţia Ta :/
+
+[s3]
+3. Adâncă pace va domni
+Şi-adâncă armonie
+Atunci când Tu vei reveni
+Cu a Ta Împărăţie.
+Cor:    /: Fiinţa mea suspină
+Şi-atât de mult aş vrea
+Ca mai curând să vină
+Împărăţia Ta :/
+
+[s4]
+4. Ajută-mă ca să-Ţi slujesc
+O, Doamne, numai Ţie
+Ca-n ziua aceea să primesc
+A Ta împărăţie.
+Cor:    /: Fiinţa mea suspină
+Şi-atât de mult aş vrea
+Ca mai curând să vină
+Împărăţia Ta :/
+
+[order]
+s1,s2,s3,s4

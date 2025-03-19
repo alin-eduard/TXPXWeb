@@ -1,0 +1,31 @@
+[s1]
+Cine-mi este frate?
+Cine-i sora mea?
+Cel ce se decide Legea a păstra!
+
+[s2]
+Cei săraci cu duhul,
+cei nemângâiaţi,
+Toţi cei blânzi ca mieii,
+sfinţi şi nepătaţi.
+
+[s3]
+Turma-aceea mică,
+şi-orice muritor
+Care-ascultă glasul
+blândului Păstor.
+
+[s4]
+Toţi drept credincioşii
+slabi şi prigoniţi
+Care chiar de Domnul
+fi-vor răsplătiţi.
+
+[s5]
+Asta mi-e frăţia,
+cu ei mă-nrudesc,
+Noi suntem poporul
+Tatălui ceresc!
+
+[order]
+s1,s2,s3,s4,s5

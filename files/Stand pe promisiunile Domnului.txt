@@ -1,0 +1,26 @@
+[s1]
+Stând pe promisiunile Domnului
+Ferm şi-ncrezător zidit
+pe-al Său Cuvânt,
+O inimă sfinţită vreau să ‘nalţ spre Cer
+Stând pe promisiunile Lui.
+
+[r1]
+Crezând, crezând neclintit să stau în al Lui Cuvânt.
+Crezând, crezând mă-ncred în promisiunile Lui.
+
+[s2]
+Stând pe promisiunile Domnului
+Chiar şi-n încercări eu am încredere
+Teama şi ispita pot să biruiesc
+Stând pe promisiunile Lui.
+
+[s3]
+Stând pe promisiunile Domnului
+Voi ajunge odată-n veşnicii cu El
+Voi vedea atunci deplin
+slava Lui.
+Stând pe promisiunile Lui.
+
+[order]
+s1,r1,s2,r1,s3,r1

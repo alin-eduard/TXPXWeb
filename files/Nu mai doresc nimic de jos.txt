@@ -1,0 +1,50 @@
+[s1]
+Nu mai doresc nimic de jos:
+Putinul ce-l gasesc, mi-ajunge;
+Tot ce-I mai mult, e-anevoios;
+Tot ce-I mai stralucit, strapunge.
+
+[s2]
+Nu mai doresc sa am aici
+Nici laude, nici veselie:
+Mi-ajunge partea celor mici,
+Iubirea lor mi-e avutie.
+
+[s3]
+Nu mai doresc decat sa pot
+Sa merg cu fratii impreuna:
+Un gand si-o inima in toti,
+Ce au primit ei din cer sa tina.
+
+[s4]
+Nu mai doresc decat sa fiu
+Gasit, in orisice-ncercare,
+Zidit pe adevarul viu,
+Tacut in orice-mprejurare.
+
+[s5]
+Smerit, in orice loc-naltat;
+Curat, in orice-ntinaciune;
+Umbland, in tot ce-am invatat;
+Plangand in orice rugaciune.
+
+[s6]
+Iubind, in orice lepadari;
+Crezand, in orice zguduire;
+Statornic primei ascultari;
+Neostenit, spre mantuire.
+
+[s7]
+Nu mai doresc nimic strain
+Ce ne-ameninta vesnicia;
+Mi-ajunge-n suflet pe Hristos
+Si-n adunare, partasia.
+
+[s8]
+Nu-mi mai doresc, nu-mi mai doresc;
+Decat de Domnul dimpreuna
+Sa poata, cand am sa sfarsesc,
+Sa zica: ,,Vino, sluga buna!’’
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

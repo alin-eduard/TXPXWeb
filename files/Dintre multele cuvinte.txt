@@ -1,0 +1,39 @@
+[s1]
+Dintre multele cuvinte
+Ce-s rostite fără seamă
+Omule, în câte oare
+Adevărul stă-n picioare?
+
+[r1]
+Caută-n lume adevărul,
+Dacă vrei ca să trăieşti;
+/: Caută-n harul de acuma
+Calea sfântă, care-i una
+Până viaţa nu sfârşeşti. :/
+
+[s2]
+Mii de ani, veacuri de-a rândul
+Ce-au acoperit trecutul;
+Vorba, fapta, chiar şi gândul
+Le va judeca Cuvântul.
+
+[s3]
+Om, ce-ţi pui nădejdea-n lucruri
+Care pier şi putrezesc,
+Singur te înşeli pe tine
+Şi-ai să pierzi raiul ceresc!
+
+[s4]
+Ce-ţi v-aduce judecata,
+Când se v-arăta adevărul:
+Chin sau viaţă pe vecie?
+Rai sau iad, o veşnicie?
+
+[s5]
+Unul singur e-Adevărul:
+E Isus crucificat!
+El e calea şi viaţa,
+Adevărul ce-ţi dă pacea.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

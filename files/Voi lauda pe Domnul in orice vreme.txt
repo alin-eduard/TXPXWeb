@@ -1,0 +1,28 @@
+[s1]
+Voi binecuvânta
+pe Domnul în orice vreme
+Lauda Lui va fi
+totdeauna-n gura mea.
+/: Înălţaţi pe Domnul
+împreună cu mine
+Să lăudăm cu toţii Numele Lui :/
+
+[s2]
+Eu am căutat pe Domnul
+şi mi-a răspuns,
+M-a izbăvit din toate temerile mele.
+/: Înălţaţi pe Domnul
+împreună cu mine
+Să lăudăm cu toţii Numele Lui :/
+
+[s3]
+Gustaţi şi vedeţi
+ce bun este Domnul,
+Ferice de omul
+care se încrede-n El.
+/: Înălţaţi pe Domnul
+împreună cu mine
+Să lăudăm cu toţii Numele Lui :/
+
+[order]
+s1,s2,s3

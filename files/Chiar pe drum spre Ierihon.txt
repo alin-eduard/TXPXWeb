@@ -1,0 +1,36 @@
+[s1]
+Chiar pe drum spre Ierihon
+Orbul Bartimeu sta
+Viaţă tristă avea si multe răbda
+Dar Isus veni de el se-îngriji
+Chiar pe drum spre Ierihon
+Lumină-i dărui.
+
+[r1]
+Drumul spre Ierihon, e foarte îngust
+Pot merge dor doi, doar tu şi Isus
+Necazul în doi nu-i aşa greu.
+Când eşti cu Isus, păzit eşti de rău.
+
+[s2]
+Chiar pe drum spre Ierihon
+Poate azi te găseşti
+Tot mai eşti în păcat
+Iertare-ţi doreşti
+Mergi drept la Hristos
+Povara-ţi va lua
+Chiar pe drum spre Ierihon
+El te va scăpa.
+
+[s3]
+Chiar pe drum spre Ierihon
+Un mesaj îţi aduc
+Frate, cântă mereu,
+Speranţă-ţi aduc
+Păcatul e frânt
+Prin Isus Hristos
+Chiar pe drum spre Ierihon
+Primeşte-L voios.
+
+[order]
+s1,r1,s2,r1,s3,r1

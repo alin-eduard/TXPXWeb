@@ -1,0 +1,32 @@
+[s1]
+Eu eram în lume pierdut
+Şi fără adăpost,
+Dar când în faţă mi-ai apărut
+Eu mi-am găsit un rost.
+
+[r1]
+Îţi mulţumesc din inimă
+Iubite Salvator
+De mii de ori Tu m-ai scăpat
+Şi mi-ai dat ajutor.
+
+[s2]
+Nu mai doresc nimic din lume
+Iubitul meu Isus
+Decât să te slujesc pe Tine
+Până ce voi ajunge sus.
+
+[s3]
+De multe ori mi s-a întâmplat
+Să fiu făr’ ajutor,
+De-atâtea ori Tu m-ai scăpat
+De-aceea-Ţi sunt dator.
+
+[s4]
+Eu sunt dator să îţi mulţumesc
+Pentru iubirea Ta
+Isuse, ce mult Te iubesc
+Iubesc venirea Ta
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

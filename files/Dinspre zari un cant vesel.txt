@@ -1,0 +1,28 @@
+[s1]
+Dinspre zări un cânt vesel răsună
+Plin de pace şi-avânt  tineresc
+Este cântecul păcii sublime
+Cântecul corului ceresc
+
+[r1]
+Pace din veşnicie
+Spre noi coboară azi
+Să fie numai pace în lume
+Toţi cântăm cu-avânt
+Ca pururi s-avem pace în lume
+şi pe-ntreg pământ
+
+[s2]
+Vestea păcii e-o vie speranţă
+Ce în inimi cu drag o purtăm
+Libertate aduce şi viaţă
+De aceea cu toţii cântăm
+
+[s3]
+Ruga noastră se-nalţă spre ceruri
+Veşnic pace pe pământ dorim
+Vrăjmăşia dispară de-a pururi
+şi ca fraţi noi să ne iubim
+
+[order]
+s1,r1,s2,r1,s3,r1

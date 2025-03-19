@@ -1,0 +1,20 @@
+[s1]
+A noastră credinţă are temelie
+Al Domnului Cuvânt ce stă-n vecie,
+Prin care ne-a descoperit mila Lui.
+
+[s2]
+/: Dând pe unicul Fiu :/ x3
+Al Său pentru noi.
+
+[s3]
+Nu te teme, căci Eu sunt cu tine,
+Te-oi scuti, căci Eu sunt al tău Dumnezeu;
+Te voi ‘ntări şi te voi sprijini.
+
+[s4]
+/: Te port cu credinţă :/x2
+Te port cu credinţă-n, calea vieţii.
+
+[order]
+s1,s2,s3,s4

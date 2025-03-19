@@ -1,0 +1,32 @@
+[s1]
+Învaţă-mă să-nfăptuiesc
+O, Doamne, voia Ta mereu,
+Să nu pot altfel să trăiesc,
+De-ar fi să piară trupul meu!
+
+[r1]
+/: Voia Ta, voia Ta,
+Doamne-n veci voia Ta
+Să mă umple deplin
+Pentru Tine-n veci. Amin! :/
+
+[s2]
+Căci voia Ta e tot ce-i bun
+Și azi şi mâine şi în veac.
+Ajută-mi ei să mă supun,
+Să pot să-ţi fiu oricând pe plac!
+
+[s3]
+Tu ai, prin duhul Tău cel sfânt,
+Nebănuite sfinte căi
+Să mă înveţi, pe-acest pămînt,
+Voinţa Ta şi paşii Tăi!
+
+[s4]
+Aceasta-i rugăciunea mea;
+Spre Tine necurmat o-ndrept
+Și-n orice-mprejurare grea
+Să-mi ardă voia Ta în piept!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

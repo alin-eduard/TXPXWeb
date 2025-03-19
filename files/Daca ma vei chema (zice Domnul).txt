@@ -1,0 +1,27 @@
+[s1]
+Dacă mă vei chema, (zice Domnul)
+Dacă mă vei asculta, (zice Domnul)
+Dacă mă vei iubi, (zice Domnul)
+/: Şi Eu te voi păzi. :/
+
+[r1]
+/:Te voi iubi, şi vei vedea a Mea iubire;
+Nu-ţi v-a fi greu căci mâna Mea
+v-a fi cu Tine,
+Sunt cu poporul Meu, (zice Domnul)
+Cu tine voi fi mereu. :/
+
+[s2]
+Eşti deznădăjduit, (ştie Domnul)
+Adesea eşti lovit, (ştie Domnul)
+Când boala este grea, (ştie Domnul)
+/: Şi te v-a vindeca. :/
+
+[s3]
+Când mă vei căuta, (zice Domnul)
+La dreapta îţi voi sta, (zice Domnul)
+Voi fi Păstorul tău, (zice Domnul)
+/: Iar tu poporul Meu. :/
+
+[order]
+s1,r1,s2,r1,s3,r1

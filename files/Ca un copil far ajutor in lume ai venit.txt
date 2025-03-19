@@ -1,0 +1,24 @@
+[s1]
+Ca un copil făr, ajutor,
+în lume ai venit
+Viaţa s-o trăieşti şi să petreci.
+Curînd sosi-va ziua
+cînd lumea vei părăsi
+Şi-n veşnicii vei fi atunci pe veci.
+
+[r1]
+/: Azi la rîul Iordan tu eşti singur
+Şi alături pe nimeni tu nu ai.
+Prietenii îţi spun adesea :
+<Mare e durerea ta !>
+Dar alături pe nimeni tu nu ai. :/
+
+[s2]
+S-au scurs de-atunci ani
+mulţi în şir şi umbrele-au scăzut
+Ca să-ţi trăieşti viaţa-ai încercat.
+Tot ce este cu putinţă atunci tu ai făcut
+Pîn, sufletul odată ţi l-ai dat.
+
+[order]
+s1,r1,s2,r1

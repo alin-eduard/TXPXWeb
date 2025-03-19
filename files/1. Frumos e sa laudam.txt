@@ -1,0 +1,35 @@
+[s1]
+1.
+Re
+1. Frumos este să lăudăm,
+Doamne Sfânt, Numele Tău!
+Toată ziua bunătatea Ta vestim,
+Căci Tu, Doamne, eşti 'nălţat,
+De mărire-nconjurat,
+Şi noi acuma cu toţi Te preamărim.
+
+[r1]
+Cor: Ce frumos este a cânta ,
+Doamne, spre mărirea Ta,
+Pentru bunătatea Ta!
+Cât de bine-i şi de frumos
+A lăuda numele lui Isus Hristos!
+
+[s2]
+2. Dacă cei răi înverzesc
+Şi ca iarba-n câmpuri cresc,
+Este numai ca să fie nimiciţi
+Căci Tu, Doamne, eşti'nălţat,
+Preamărit şi onorat ,
+Şi toţi cei ce fac răul sunt nimiciți.
+
+[s3]
+3. Ce-i mai scump tu să doreşti
+Ca pe Domnul să-l măreşti,
+Aducându-i roade întotdeauna.
+Ce este bun arătând
+Pe Părintele cel scump ,
+Lăudându-L cu fapta şi cu vocea!
+
+[order]
+s1,r1,s2,r1,s3,r1

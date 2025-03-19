@@ -1,0 +1,49 @@
+[s1]
+Un sutaş plin de credinţă
+s-a văzut că-i păcătos
+El s-a dus cu umilinţă
+La Domnul Isus Hristos
+Pe iudeul cel de frunte
+înainte l-a trimis
+l-a trimis cu-a lui cuvinte
+înaintea lui Hristos.
+
+[r1]
+Doamne nu sunt vrednic
+să intri în casa mea
+Zi doar un cuvânt şi
+al Tău rob plăpând
+La al Tău cuvânt se va vindeca.
+
+[s2]
+Şi eu sunt sub stăpânire
+stăpânirea altuia
+Sunt ostaş peste oştire
+sutaşul mărturisea
+Şi când au trimis soldatul
+un cuvânt şi e de-ajuns
+Dacă chem la mine altul
+pe loc am primit răspuns.
+
+[s3]
+De aceea vrednicie
+nu aveţi în casa mea
+Am trimis a mea solie
+pe Tine a Te ruga
+Zi o vorbă şi ajunge
+Doamne nu Te osteni
+Şi bolnavul ce Te-atinge
+el se va tămădui.
+
+[s4]
+De-a sutaşului credinţă
+Domnul Isus s-a mirat
+Fără multă stăruinţă
+al meu rob s-a vindecat
+Că puterea umilinţei
+şi credinţa-n Dumnezeu
+Şi cununa biruinţei
+mântuind sufletul meu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

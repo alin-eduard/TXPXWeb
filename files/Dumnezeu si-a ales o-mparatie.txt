@@ -1,0 +1,50 @@
+[s1]
+Dumnezeu si-a ales o-mpărăţie
+Din Avram pe care l-a iubit
+Şi atunci când el gemea-n robie
+Cu mână tare El l-a izbăvit.
+
+[s2]
+Si Israel a avut pe Domnul
+Noaptea-n foc si ziua-n stâlp de nor
+L-au văzut la Masa şi Meriba
+Când din stâncă le-a tâsnit izvor.
+
+[s3]
+Dar Israel nu era statornic
+Si-a uitat curând pe Dumnezeu
+Dar atuncea l-a lăsat si Domnul
+Si-a căzut robit în Babilon.
+
+[s4]
+În vremea-aceea Dumnezeu i-arată
+Un vis regelui din Babilon
+Cu privire la o-mpărăţie
+Si i-l tâlcuise Daniel.
+
+[s5]
+Dintr-un munte s-a desprins o piatră
+Si atât de mare s-a făcut
+A zdrobit si fierul si arama,
+Argintul si picioarele de lut.
+
+[s6]
+Si această piatră neînsemnată
+Ea atât de mare s-a făcut
+Mai înaltă decât orice munte
+Si întreg pământul l-a umplut.
+
+[s7]
+Pentru-această-mpărăţie sfântă
+Nu va stăpâni popor de jos
+Si va fi pe veci nebiruită
+Căci e-mpărătia lui Hristos.
+
+[s8]
+Ea e mai puternică ca moartea
+Si nici iadul n-o va birui
+Si va fi o-mpărăţie mare
+Cum n-a mai fost şi nici nu va mai fi.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

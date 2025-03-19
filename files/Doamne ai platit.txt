@@ -1,0 +1,38 @@
+[s1]
+Isus îmi spune azi:
+„Tu, fiule eşti slab.
+La Mine vino­-acum,
+Eu te voi ajuta“.
+
+[r1]
+Doamne, ai plătit
+Totu-­n locul meu.
+Azi Te laud fericit,
+Isuse Dumnezeu.
+
+[s2]
+Isuse, eu acum
+Cunosc puterea Ta,
+Ce inima pe veci
+Mi­-o poate transforma.
+
+[s3]
+Nu­-s vrednic să primesc
+Nimic din tot ce­-mi dai.
+Dar harul mi­e­-ndeajuns,
+S­a-jung la Tine-­n rai.
+
+[s4]
+La tronul Tău ceresc
+Genunchi i­mi voi pleca.
+Şi­-atunci voi preamări,
+Isuse, mila Ta.
+
+[s5]
+Doamne, ai plătit
+Totu­-n locul meu.
+Azi Te laud fericit,
+Isuse Dumnezeu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5

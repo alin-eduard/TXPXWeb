@@ -1,0 +1,25 @@
+[s1]
+Ţi-aduci aminte istoria lui Daniel?
+El a ales să nu se-nchine omului.
+Nu-i nici-o îndoială leii crunţi se pleacă cu sfială,
+La Cuvântul Domnului.
+
+[r1]
+Tăria mea, puterea mea,
+De neclintit îmi eşti
+Tu Doamne-n orice zi.
+Tăria mea, puterea mea,
+De neclintit îmi eşti
+Tu Doamne-n orice ceas.
+Eu în Tine mă încred.
+
+[s2]
+Ţi-aduci aminte
+în moarte cum trăiam?
+Şi învierea Lui în noi ne-a eliberat.
+Cel rău nu are putere
+n-are nici un drept în viaţa mea,
+Că Isus este Domnul meu.
+
+[order]
+s1,r1,s2,r1

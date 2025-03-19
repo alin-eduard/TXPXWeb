@@ -1,0 +1,26 @@
+[s1]
+Sângele lui Isus,
+Sângele lui Isus,
+Sângele lui Isus,
+Ne spală de păcat.
+
+[s2]
+Prin iubirea­-I mare,
+Prin iubirea­-I mare,
+Prin iubirea­-I mare,
+El ne­a răscumpărat.
+
+[s3]
+Stăm cu mulţumire,
+Stăm cu mulţumire,
+Stăm cu mulţumire
+Acum la masa Ta.
+
+[s4]
+Te­-adorăm, Isuse,
+Te­-adorăm, Isuse,
+Te­-adorăm, Isuse,
+În veci fii preamărit!
+
+[order]
+s1,s2,s3,s4

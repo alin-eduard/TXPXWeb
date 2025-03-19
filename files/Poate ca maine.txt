@@ -1,0 +1,20 @@
+[s1]
+Poate ca maine, va fi din nou un soare.
+Poate ca maine, va fi din nou o zi.
+Dar cine stie daca va fi oare;
+Inca un maine, inca o zi?
+
+[s2]
+Clipa se duce, e doar trecut.
+Dar ce ramane,e ce-ai facut.
+Ziua ce trece, nu va mai fi
+De e un maine, azi nu vom sti.
+
+[s3]
+Ai doar o viata, o poti trai
+Dar se va duce, se va sfarsi
+Dincolo de toate, vor ramanea
+Rele sau bune, te vor urma.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,31 @@
+[s1]
+Doamne, eşti atât de mare,
+eşti de necuprins şi sfânt
+Eşti izvor de îndurare la toţi,
+prin al Tău Cuvânt.
+Ţi se-nchină tot pământul,
+mările şi Universul
+Toate Ţie Îţi dau slavă,
+preamăresc Numele-Ţi sfânt.
+
+[r1]
+Creatorule divin, Ţie toate Ţi se-nchin
+Soare sfânt, strălucitor, ai dat viaţă tuturor !
+Stelele Tu le-ai creat, toate-aşa de minunat
+Pentru toate-Ţi mulţumesc şi Te slăvesc !
+Şi pe mine m-ai creat, Doamne-aşa de minunat
+Vin şi eu să Te slăvesc, Creatorule ceresc !
+Mă închin ,naintea Ta, veşnic Te voi lăuda
+Ştiu că bunătatea-mi umple inima !
+
+[s2]
+Tu eşti, Doamne, pâinea vieţii,
+slava-Ţi umple Universul.
+Tu eşti Regele iubirii,
+eşti izvorul minunat.
+Te slăvesc şi-Ţi dau onoare,
+Rege sfânt şi minunat
+Pentru marea Ta lucrare fii Tu, Doamne-n veci lăudat !
+
+[order]
+s1,r1,s2,r1

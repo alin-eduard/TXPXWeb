@@ -1,0 +1,72 @@
+[s1]
+Soră, frate sau prieten
+Care ai venit
+Poate inima ţi-e frântă
+Poate eşti rănit.
+Poate ai şi tu acasă suflete dragi
+Hai să ne unim durerea
+De nu-s printre fraţi.
+557.      							  Mi m
+
+[r1]
+Cor: Hai să ne rugăm
+Domnului Isus
+Şi să-i spunem lui necazul
+Care ne-a cuprins
+Hai să ne rugăm
+Pentru cei pierduţi.
+Pentru cei ce sunt departe
+Pe drumuri căzuţi.
+
+[s2]
+2. Câte lacrimi de chemare
+Pentru toţi cei dragi
+Pentru soţi, soţii şi mame
+Care nu-s atraşi
+Vrei să vezi pe toţi odată
+În cer cu Isus
+Dar îi chemi, îi rogi pe nume
+Şi-aştepţi şi tot nu-s.
+
+[s3]
+3. Câte lacrimi n-are o mamă
+Pentru fiul ei
+Ştie Domnul din Golgota
+Ochişorii ei
+Căci văzându-şi cum se pierde
+Fiul ei iubit
+Ajutor cere lui Isus
+Plângând, suspinând.
+
+[r2]
+Cor: Hai să ne rugăm
+Cu acei părinţi
+Ce plâng pentru fii lor
+Cu lacrimi fierbinţi
+Hai să ne rugăm
+Cu cei necăjiţi
+Şi-n dureri unii cu alţii
+Rămânând uniţi.
+
+[s4]
+4. Iară voi tinerilor
+De pe acest pământ
+S-ascultaţi acum de Domnul
+Venind la cel Sfânt
+Să vă vadă-n fapte noi,
+Dragostea de El
+Şi de fraţi şi de părinţi,
+Să fiţi toţi la fel.
+
+[s5]
+5. Şi să învăţăm acuma
+Căci suntem prea mici
+Să ne-ajute Domnul slavei
+Să fim ucenicii,
+Toţi să stăruim
+În vremea care va veni
+Să ne-ajute Domnul slavei,
+Până va veni.
+
+[order]
+s1,r1,s2,r1,s3,r2,s4,r2,s5,r2

@@ -1,0 +1,37 @@
+[s1]
+1698.   Si b
+1. Eu am pornit fericit pe cărare
+Cu Isus bunul meu Salvator
+Deşi spinos deseori
+Drumu-mi pare
+Eu mă prind de Isus stăruitor
+
+[r1]
+Cor:	Braţul Său iubitor mă conduce
+Zi de zi prin încercări de orice fel
+Harul Său minunat mă va duce
+Prin credinţă s-ajung sus în cer
+
+[s2]
+2. Eu am predat
+Zdrobitoarea-mi povoară
+Lui Isus şi-am luat-o pe a Sa
+Sunt fericit că-i atât de uşoară
+Vreau s-o port pe pământ
+Cât voi sta
+
+[s3]
+3. Lângă Isus am aflat fericirea
+Sunt voios şi-L slăvesc ne-ncetat
+Prin Harul Lui voi primi nemurirea
+Când intra-voi pe porţi de smarald
+
+[s4]
+Cor:	Braţul Său iubitor mă conduce
+Zi de zi prin încercări de orice fel
+Harul Său minunat mă va duce
+Prin credinţă s-ajung sus în cer
+Amyn
+
+[order]
+s1,r1,s2,r1,s3,s4

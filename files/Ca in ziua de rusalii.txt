@@ -1,0 +1,58 @@
+[s1]
+Ca in ziua de Rusali
+Fa si astazi ca atunci
+Umpleme cu-o putere
+Sa stam toti pe genuncgi
+Toti cei ce nu au putere
+Doamne astazi le vei da
+Sa strigam in limbi straine
+Slavit fie Mesia
+
+[r1]
+Cereti si veti primi
+fagaduinta lui Isus
+Fara ea nu poti ajunge
+In Ierusalimul sfint
+
+[s2]
+Azi mai este libertate
+Poti sa canti si sa te rogi
+Va veni si ziua-n care
+Vom fi priganiti cu toti
+Roaga-te cu-flacarare
+Pentru tot ce va veni
+Dumnezeu prin Duhul Sfant
+Atunci El te va-ntari
+
+[s3]
+Toti apostoli primit-au
+Duhul Sfint cand l-au cerut
+S-au umplut toti de putere
+Si in limbi ei au vorbit
+Si-au pornit in lumea larga
+De nimic nu s-au temut
+Duhul Sfant de la rusali
+I-au facut de neinfrant
+
+[s4]
+Petru a muri pe cruce
+Atarnat cu capu-n jos
+Sa priveasca de pe cruce
+Unde s-a  naltat Isus
+Stefan omorat cu pietre
+Lui Pavel capul la taiat
+Au murit plini de iubire
+Duhul Sfant le-a ajutat
+
+[s5]
+De n-ai Duhul Sfant mai frate
+Roaga-te ca sa-l primesti
+orce va veni in lume
+Cu El ai sa biruiesti
+Ciar de o sa mori ca Pavel
+Sau ca Petru ca martir
+Bucura-te sora frate
+C-ai ajuns martir ca ei
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

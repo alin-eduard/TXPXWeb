@@ -1,0 +1,30 @@
+[s1]
+1610.
+1.Aşa cum sunt mă predau
+O Doamne Ţie
+Primeşte-mă să fiu
+Al Tău pentru vecie
+/:M-am săturat
+De această lume stricată
+Primeşte-mă
+Şi dă-mi o inimă curată:/
+
+[s2]
+2.Pe acest pământ şi-n veşnicii
+Şi-n cer Isuse doresc să-ţicânt
+Căci ne dai bucurii nespuse
+/:Spre lauda Ta ,acea cântare
+Minunată doresc să-ţi cânt
+Când vei veni Isuse dragă:/
+
+[s3]
+3.La nunta Lui
+Vino şi tu amice dragă
+Predă-te Lui să fii
+Cu El o viaţă–ntreagă
+/:Renunţă azi la fericirea de o clipă
+Şi vei avea în schimbul ei
+Viaţă veşnică:/
+
+[order]
+s1,s2,s3

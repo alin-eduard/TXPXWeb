@@ -1,0 +1,41 @@
+[s1]
+952.
+1. Suntem duşi şi clătinaţi
+Zbuciumaţi de-al mării val
+Vin furtuni şi zile sumbre
+Care în senin se schimb
+Într-o ţară unde-n veci
+Nu coboară umbre reci
+Vei vedea cu ochii tăi
+Cum ai să pleci.
+
+[r1]
+Cor:	În curând zorii vor veni
+Şi în cer acasă vom sosi
+Abia atunci
+Pricepe-vom deplin
+Dumnezeu de ce-a lăsat
+Atâta chin.
+
+[s2]
+2. Unii sunt flămânzi aici
+Alţii n-au unde dormi
+Mulţi sunt cei ce locuinţa-şi au
+În locuri reci, pustii
+Ne-ntrebăm de ce-i aşa
+Şi răspuns vrem a avea
+Doar cuvântul Său ne spune
+Voia Sa.
+
+[s3]
+3. Încercări ne copleşesc
+Nu-nţelegem rostul lor
+Dar aceasta este calea
+În ţara bucuriilor
+Din cer ochii Domnului
+Privesc paşii orişicui
+Ne ocroteşte în mod tainic
+Harul Său.
+
+[order]
+s1,r1,s2,r1,s3,r1

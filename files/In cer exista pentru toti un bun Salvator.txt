@@ -1,0 +1,30 @@
+[s1]
+În cer există pentru toţi
+un bun Salvator
+El este Isus, şi dă viaţă tuturor
+El ia păcatele şi dă pace în dar
+Ca tu să crezi în jertfa Sa
+de pe Calvar.
+
+[r1]
+/: Doar odată, doar odată
+să te-atingi de El!
+Doar odată, doar odată
+să simţi harul Său!
+Niciodată, niciodată
+nu vei mai pleca!
+Toată viaţa vei rămîne
+pe calea Sa! :/
+
+[s2]
+Numai un pas dacă faci
+către Isus acum
+Din inimă dacă-I zici:
+Domnul meu cel bun
+Primeşte-mă şi pe mine,
+un păcătos!
+Pe braţul Său te va lua
+Isus Hristos!
+
+[order]
+s1,r1,s2,r1

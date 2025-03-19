@@ -1,0 +1,19 @@
+[s1]
+1545.
+1. Ţie o Doamne Tată scump din ceruri
+Noi pentru toate acum îţi mulţumim
+Căci ne-ncetat puterea Ta măreaţă
+Şi-al Tău cuvânt ne-ajută să trăim.
+2. Ţie Isuse Doamne scump din ceruri
+Noi pentru toate acum te preamărim
+Căci ne-ncetat iubirea Ta cea sfântă
+Ne ajută cu Tine uniţi să fim.
+
+[s2]
+3. Şi Ţie Sfinte Duh şi călăuză
+Ce ne-ntăreşti faţă de orice chin
+Te preamărim în veci Sfântă Treime
+Ţi-aducem laude şi închinăciuni.
+
+[order]
+s1,s2

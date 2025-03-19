@@ -1,0 +1,50 @@
+[s1]
+1. Ce frumoasă-i mântuirea
+Ce frumoasă, ce frumoasă!
+Toarnă-n suflet fericirea
+Luminoasă, luminoasă.
+
+[s2]
+2. Căci Acel care a venit
+La Isus cel răstignit,
+Mântuirea a dobândit
+Luminoasă!
+
+[s3]
+3. Ce frumoasă mântuirea
+Cea deplină, cea deplină!
+Taina ei omoară firea
+Cea de tină, cea de tină.
+
+[s4]
+4. Și noaptea ei răsare
+Zorii vieții noi în dar!
+Îmbrăcați în sfântul har
+În lumină, în lumină.
+
+[s5]
+5. Ce slăvită-i mântuirea
+Ce slăvită, ce slăvită!
+E sădită cu iubire
+Liniștită, liniștită.
+
+[s6]
+6. Și pe unde trece ea
+Lasă alb veșmânt din ea!
+Mireasmă cu dragostea
+Liniștită, liniștită.
+
+[s7]
+7. Ce măreață-i mântuirea
+Ce măreață, ce măreață!
+Poartă în ea nemărginirea
+De viață, de viață.
+
+[s8]
+8. Căci în harul minunat
+Domnul în brațe ne-ai purtat!
+Spre izvorul minunat
+De viață.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

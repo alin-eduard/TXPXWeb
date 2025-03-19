@@ -1,0 +1,29 @@
+[s1]
+Ce bucurie-n Isus am aflat,
+Pe braţul Lui eu stau rezemat.
+Ce fericire, o, ce pace am,
+Azi călătorind spre Canaan.
+Pe braţul sfânt sunt rezemat
+Şi-s fericit, pe braţul sfânt
+De Domnul Isus sunt mântuit.
+
+[s2]
+O, ce dulce e, cât sunt de voios,
+Rezemat pe braţul lui Hristos.
+Viaţa-mi străluceşte din zi în zi
+Cât pe braţul lui Isus voi fi.
+Pe braţul sfânt sunt rezemat
+Şi-s fericit, pe braţul sfânt
+De Domnul Isus sunt mântuit.
+
+[s3]
+Mergând cântând-nainte, mereu mai sus,
+Rezemat pe braţul lui Isus;
+Şi-am pace cu Domnul meu glorios
+Rezemat pe braţul lui Hristos.
+Pe braţul sfânt sunt rezemat
+Şi-s fericit, pe braţul sfânt
+De Domnul Isus sunt mântuit.
+
+[order]
+s1,s2,s3

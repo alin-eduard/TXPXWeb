@@ -1,0 +1,54 @@
+[s1]
+Prinde pieptul să-mi suspine
+Şi să strig amar în mine
+Că mă mir şi mă-nspăimânt
+Mă-ngrozesc şi eu
+De mine unde sunt.
+1. Geme inima în mine
+Ca un brad lovit şi frânt
+617.
+
+[s2]
+2. Când mă văd că-s singur iară
+Între fapte păgâneşti
+Prind iar lacrimi să-mi răsară
+Şi căinţa mă doboară
+Tot aştept să te iveşti
+Te-am pierdut Isuse iară, unde eşti.
+
+[s3]
+3. Amăgit de fapte rele
+Am călcat al Tău cuvânt
+Dus de faptele acelea
+M-am pierdut în neguri grele
+Şi ca-n fundul de mormânt
+Nu văd soare,
+Nu văd stele unde sunt.
+
+[s4]
+4. Grea durere mă cuprinde
+Domnul slăvilor cereşti
+Şi privind spre văi afunde
+Strig şi nimeni nu-mi răspunde
+Tu ce-n ceruri locuieşti
+Doamne nu mi te ascunde
+Unde eşti.
+
+[s5]
+5. Orbii cum doresc lumina
+Muţii cum doresc cuvânt
+Sufletul aşa îmi suspină
+După glasul Tău ce-alină
+Cu amar eu mă frământ
+Într-o lume aşa străină unde sunt.
+
+[s6]
+6. Robul tău plângând te cheamă
+Domnul slăvilor cereşti
+Tu-mi eşti azi tată şi mamă
+Lumea nu mă bagă-n seamă
+Singur tu mă mai iubeşti
+Ia-mă şi pe mine, ia-mă unde eşti.
+
+[order]
+s1,s2,s3,s4,s5,s6

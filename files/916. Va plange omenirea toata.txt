@@ -1,0 +1,88 @@
+[s1]
+916.
+1.  Va plânge omenirea toată
+Cu copiii laolaltă
+O, vai mamelor
+/: Şi acei ce n-au dat crezare
+Să vină la adunare
+Să se pocăiască :/.
+
+[s2]
+2.   Şi vor plânge cu amar
+Dar atunci va fi-n zadar
+Căci va fi târziu
+/: Domnul Isus le va spune
+Duceţi-vă de la mine
+Blestemaţilor :/.
+
+[s3]
+3.  O, vai mame cum veţi plânge
+Când Isus vă va chema
+Fără de copiii
+/: Pe care El vi i-a dat
+Şi pe braţe i-aţi purtat
+O, vai mamelor :/.
+
+[s4]
+4.  Veniţi astăzi mame care
+Aţi venit la adunare
+Fără de copiii
+/: Şi acum staţi la rugăciune
+Şi copiii voştri-n lume
+Fără de Hristos :/.
+
+[s5]
+5.  Veniţi astăzi mame toate
+Să-L rugăm pe cel ce poate
+Ca să-i mântuiască
+/: Să plângem cu glas rugător
+Să iasă în calea lor
+O, vai mamelor :/.
+
+[s6]
+6.  Să stea în a lor cale
+Să-i întoarcă din pierzare
+Pe ai voştri copii
+/: Cei cu inima curată
+Rugând pe fii şi pe tată
+O, vai mamelor :/.
+
+[s7]
+7.  Să se-ndure să primească
+Mamelor cererea voastră
+O, vai mamelor
+/: Să se-ndure să primească
+Mamelor cererea voastră
+O, vai mamelor :/.
+
+[s8]
+8.  Iar voi copilaşi iubiţi
+Ce aţi venit fără părinţi
+Să vă pocăiţi
+/: Rugaţi-L cu glasul vost'
+Pe Domnul Isus Hristos
+Pentru ai voştri părinţi :/.
+
+[s9]
+9.  Plângeţi cu inima frântă
+Că Domnul Isus v-ascultă
+Domnul nostru Isus
+/: Pe voi copilaşi iubiţi
+S-aducă pe-ai voştri părinţi
+Şi să-i mântuiască :/.
+
+[s10]
+Când mireasa-şi va lua
+Să putem şi noi pleca
+Cu Mirele slavei
+/: Mamă, tată şi copii
+Să plecăm în veşnicii
+Plini de bucurii :/
+
+[s11]
+11.		Părăsind acest pământ
+S-ajungem în cerul sfânt
+Unde ne-a promis.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11

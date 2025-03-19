@@ -1,0 +1,63 @@
+[s1]
+1318.
+1.  Te-a adus iubirea Doamne
+Pe acest pământ de jale
+Să refuz veşmântul slavei
+Pentru râvna casei Tale.
+2.  Printre rasele de oameni
+Bibliei făce-ai cărare
+Să-nfrunţi lumea cu-adevărul
+Numai Tu ai fost în stare.
+
+[s2]
+3.  Printre nopţi de beznă
+Faţa Ta brăzda lumină
+Iar vrăjmaşul în timpul nopţii
+Semăna în grâu neghină.
+4.  Te-a întristat amar neghina
+Când ai observat în grâu
+Dar s-o smulgi în ceasu-acela
+Era Doamne prea târziu.
+
+[s3]
+5.  Ai lăsat să crească-ntruna
+Până la secerişul mare
+Iar atunci ai s-o spulberi
+Ca să nu intre în hambare.
+6.  Şi privim la Tine-n gloate
+Tu iubeai la fel pe toţi
+Dar pe cei lăsaţi de turmă
+Nu puteai nici să-i suporţi.
+
+[s4]
+7.  Chiar în templu ucenicii
+Te văzură plin de râvnă
+Când loveai amar cu biciul
+Peste snopii de neghină.
+8.  La pământ cădeau zarafii
+Cad şi mesele şi bani
+Şi de groaza Ta Isuse
+Fugeau slugile satanei.
+
+[s5]
+9.  Fugeau leneşi pe uşă
+Porţile erau deschise
+Se-auzeau mereu în templu
+Numai pocnete de bici.
+10. Căci puterea Ta-i de vină
+Chiar pe toţi i-ai adunat
+Ai fost blând întotdeauna
+Dar atunci te-ai răzbunat.
+
+[s6]
+11.  Când în loc de rugăciune
+Ei pune-au comori pe cale
+Te-ai aprins de gelozie
+Pentru râvna casei Tale.
+12.  Din acei ce-i ştii Isuse
+Iar le-ai devenit duşman
+Ei îşi bat întruna pieptul
+Că sunt fii lui Avraam.
+
+[order]
+s1,s2,s3,s4,s5,s6

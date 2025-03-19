@@ -1,0 +1,39 @@
+[s1]
+1.	   De ce te lupţi tu inimă
+Cu atâta grea povară
+Nu vezi că totul e-n zadar
+Căci Domnul tău e tare
+Te-ncrede-n El, El numai El
+Îţi spune de-a ta soartă
+Şi sarcinile-ţi poartă.
+1028.       Mi
+
+[s2]
+2.           Priveşte crinii câmpului
+Gătiţi cu atâta slavă
+Şi puişorii corbului
+Hrăniţi fără zăbavă
+El numai El, El numai El
+E-n stare să te poarte
+La viaţă şi la moarte.
+
+[s3]
+3.         Spre cer înalţă-ţi ochii tăi
+Spre pulberea de stele
+Nu ştii tu că aleşii săi
+Sunt mai de preţ ca ele
+Tu însuţi, tu însuţi tu
+Nu eşti pierdut pe lume
+Chemat vei fi pe nume.
+
+[s4]
+4.	      În jurul tău fără să vezi
+Stau mii şi mii de îngeri
+O, tu nicicând să nu cedezi
+Vrăjmaşii stau de-a-nfrânge.
+Tu însuţi tu, tu însuţi tu
+Ştii ţinta multor lupte
+Chiar lanţurile-s rupte.
+
+[order]
+s1,s2,s3,s4

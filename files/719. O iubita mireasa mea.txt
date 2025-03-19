@@ -1,0 +1,32 @@
+[s1]
+1. O iubită mireasa mea
+Priveşte-n sus şi nu mai sta
+Că timpul va sosi,
+Mirele va veni
+Şi-n veşnicii te va răpi
+719.
+
+[s2]
+2. Pe acest pământ,
+O, cât mai stai
+Priveşte-n sus neîncetat
+‘Naintează mereu
+Pe drumu-ngust şi greu
+Să te-apropii de Dumnezeu
+
+[s3]
+3. Luptă acum neîncetat
+Căci vremea s-a apropiat
+Când tu te vei schimba
+Şi-n faţa Mea vei sta
+Şi Eu răsplata ţi-o voi da
+
+[s4]
+4. Acolo sus când vei veni
+În glorie când vei sosi
+Cum te vei bucura
+Cu îngerii-ntruna
+Şi bucurii nu s-or găta.
+
+[order]
+s1,s2,s3,s4

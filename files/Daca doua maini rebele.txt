@@ -1,0 +1,37 @@
+[s1]
+1
+Dacă două mâini rebele
+Nu te-ar ţine orb mereu
+Te-ai opri în clipe grele
+Şi privind cu dor la stele
+/: Ai vedea că-i scris pe ele: “Dumnezeu!” :/
+
+[s2]
+2
+Dacă două vechi zăvoare
+Nu te-ar ţine surd mereu
+Ai şopti: “Ce meşter oare
+Scoate păsări cântătoare?”
+/: Şi ţi-ar spune orice floare:
+“Dumnezeu!” :/
+
+[s3]
+3
+Dacă mare-nstrăinări
+Nu te-ar ţine rob mereu
+Ai striga în largul zării:
+“Cine-i Tatăl îndurării?”
+/: Şi ţi-ar spune valul mării:
+“Dumnezeu” :/
+
+[s4]
+4
+Dacă ţi-ai vedea veşmântul
+Care-mbracă vechiul eu
+Ai uda cu plâns pământul
+Şi primind cu drag Cuvântul
+/: Vei simţi în piept pe Sfântul
+Dumnezeu :/
+
+[order]
+s1,s2,s3,s4

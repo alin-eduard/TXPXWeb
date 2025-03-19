@@ -1,0 +1,43 @@
+[s1]
+1793.            La m
+1. Ai murit pe cruce, Doamne,
+Pentru-al meu amar păcat
+Pentru viaţa-mi de ocară,
+Să mă faci nevinovat
+Vin la jertfa Ta, Isuse,
+Cu genunchi mei cei slabi
+/:Şi mă rog cu-nlăcrimare,
+Doamne azi să-mi dai iertare:/
+
+[s2]
+2. Plânge firea-mi zbuciumată
+Pentru moartea Domnului
+Plâng izvoarele şi munţii,
+Pentru jertfa Mielului
+Pentru jertfa Ta, Isuse,
+Fără pată şi cusur
+/:Doamne schimbă-mi azi viaţa
+Şi de mine să Te-nduri:/
+
+[s3]
+3. Plânge inima în mine,
+Căci şi eu am ajutat
+Pe cei care într-o noapte
+Pe Hristos L-au judecat
+Şi eu Doamne-am fost cu-aceia
+Care-n faţă Te-au scuipat
+/:Şi pentru iubirea-Ţi mare
+Te-au hulit şi Te-au trădat:/
+
+[s4]
+4. Doamne-acum Îţi cer iertare
+Lângă crucea lui Hristos
+Şi Te rog să-mi dai putere
+Să fiu veşnic credincios
+Şi pe calea de credinţă
+Să merg pururi drept, voios
+/:Să nu mă despart de Tine,
+Domnul meu Isus Hristos:/
+
+[order]
+s1,s2,s3,s4

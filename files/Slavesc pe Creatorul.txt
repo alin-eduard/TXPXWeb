@@ -1,0 +1,32 @@
+[s1]
+Slăvesc pe Creatorul,
+Pe El Mântuitorul,
+Pe Domnul meu, Isus Hristos
+El mi-a luat osânda
+Pe Golgota, ducând-o
+Ca să fiu mântuit.
+
+[r1]
+/: Nume minunat,
+Nume de Împărat
+Nume Sfânt, Isus Hristos
+Ce Nume minunat :/
+
+[s2]
+În lume nu sunt singur
+Am ajutor, ştiu sigur
+Un ajutor dumnezeiesc
+Duhul Său e cu mine
+În orice, asupra-mi vine
+Eu ies învingator.
+
+[s3]
+Azi, eu privesc spre ceruri
+Căci ştiu că vine ziua
+Când orice ochi Îl va vedea
+Pe Cel ce e începutul
+Dar El e şi sfârşitul
+Pe Cel ce e Domn în veci.
+
+[order]
+s1,r1,s2,r1,s3,r1

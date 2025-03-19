@@ -1,0 +1,26 @@
+[s1]
+Doamne-n Tine eu mă-ncred
+În vremea de-ncercare
+Tu eşti Cetăţuia mea
+Şi stânca mea cea tare
+
+[r1]
+Doamne eşti nădejdea mea
+Eşti totul pentru mine
+În lupta vieţii cea mai grea
+Puterea Ta mă ţine!
+
+[s2]
+Tu mă povăţuieşti mereu
+Pentru-al Tău Nume mare
+Eşti călăuză-n drumul meu
+Lumină-mi eşti pe cale
+
+[s3]
+Când mi-e greu şi-am obosit
+Puterea când slăbeşte
+Ascultă glasul meu când strig
+Vino, ma izbeveşte!
+
+[order]
+s1,r1,s2,r1,s3,r1

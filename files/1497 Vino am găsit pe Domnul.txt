@@ -1,0 +1,59 @@
+[s1]
+1497.
+Vino am găsit pe Domnul
+M-a chemat demult un frate
+Şi am găsit de atunci în mine
+Simon Petru se tot zbate
+Cor:	/: Doamne :/ Doamne fie-ţi milă
+
+[s2]
+2. Eu sunt Simon ce zadarnic
+Pescui-i o noapte-ntreagă
+Fă-mă Petru care-n plasa
+Plină n-o putea s-o tragă
+Cor:	/: Doamne :/ Doamne fie-ţi milă
+
+[s3]
+3. Eu sunt Iacov care cere
+Foc din cer ca să coboare
+Fă-mă Petru care aprinde
+Mii de inimi la Rusalii
+Cor:	/: Doamne :/ Doamne fie-ţi milă
+
+[s4]
+4. Şi în noaptea arestării
+Eu m-am bizuit pe spadă
+Fă-mă Simon sus pe munte
+Care pe Isus să-l vadă
+Cor:	/: Doamne :/ Doamne fie-ţi milă
+
+[s5]
+5. Şi-n grădina Gheţismani
+Eu fui Simon somnorosul
+Fă-mă Petru care strigă
+Tu Isuse eşti Hristosul
+Cor:	/: Doamne :/ Doamne fie-ţi milă
+
+[s6]
+6. Eu sunt Simon ce pe mare
+Mă scufund când vreau să merg
+Fă-mă Petru ce pe valuri
+La porunca Ta s-alerg
+Cor:	/: Doamne :/ Doamne fie-ţi milă
+
+[s7]
+7. Eu în faţa unei slujnici
+Te-am trădat cu jurăminte
+Fă-mă Petru ce la cântec
+De cocoş a plâns fierbinte
+Cor:	/: Doamne :/ Doamne fie-ţi milă
+
+[s8]
+8. Zidul care ne desparte
+Fă Doamne să se dărâme
+Şi iubirea mea nici poarta
+Iadului să n-o dărâme
+Cor:	/: Doamne :/ Doamne fie-ţi milă
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

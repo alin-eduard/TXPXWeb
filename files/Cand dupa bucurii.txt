@@ -1,0 +1,35 @@
+[s1]
+Când după bucurii apar şi întristări
+Nu te descuraja, ţine credinţa ta!
+Iar, dac-atunci cel rău
+cu planul său mârşav
+Îţi vrea pieirea ta, tu nu descuraja!
+
+[r1]
+Azi nu dispera,
+nu te descuraja
+Cu tine e Isus,
+e chiar la dreapta ta.
+Cere-L pe Hristos,
+că-ţi este de folos,
+La bine şi la rău,
+Să stai pe braţul Său.
+
+[s2]
+Şi dacă întristări amare de dureri
+Ţi se vor strecura chiar prin familia ta,
+Lovind ai tăi copii şi chiar soţia ta,
+Priveşte numai sus şi nu descuraja!
+
+[s3]
+Iar când se va sfârşi
+furtuna ce-a pornit,
+Când tu vei debarca
+la ţărmul mult dorit,
+Atuncea vei vedea
+că te-a condus Isus
+Şi te vei bucura cu
+El în ceruri sus.
+
+[order]
+s1,r1,s2,r1,s3,r1

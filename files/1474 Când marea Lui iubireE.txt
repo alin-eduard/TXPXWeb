@@ -1,0 +1,31 @@
+[s1]
+1474.
+1.  Când marea Lui iubire
+Lucrează cu al ei foc
+Ce dulce fericire
+Simţire-n orice loc
+2.	Tot harul îşi revarsă
+Al nost’ Mântuitor
+Şi-şi strânge cu blândeţe
+Iubitul său popor.
+
+[s2]
+3.  E atâta strălucire în ochii tuturor
+Şi toţi îţi cântă slavă
+Iubit ocrotitior
+4.    Ei cântă a Ta iubire
+Şi harul Tău de sus
+Revarsă deci iubirea
+Iubirea Ta Isus
+
+[s3]
+5.  Ajută-ne Stăpâne-n iubire să trăim
+Pe cei ce ne-nconjoară
+Mai mult noi să-i iubim
+6.   A crucii tale farmec
+Iubirea-i de nespus
+Simţirea Ta divină
+Revarso-n noi Isus
+
+[order]
+s1,s2,s3

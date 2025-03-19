@@ -1,0 +1,21 @@
+[r1]
+Se-plineste timpul
+ce-i scris în Cuvânt.
+Noi asteptăm pe Domnul
+să vină pe pământ.
+Va venit din ceruri
+cum El e a promis.
+Să-si i-a cu El mireasa Sa.
+
+[r2]
+Ai adus roade tu în via Domnului,
+Să nu fii depărtat tu de El?
+Omule esti iubit, fii la timp mântuit,
+Pocăieste-te fii fericit.
+Glasul Domnului te chemă pe nume azi,
+Să-ti întorci pasii tăi din păcat.
+Sângele sfânt vărsat mântuie ne-ncetat,
+Pocăieste-te să fii salvat.
+
+[order]
+r1,r2,r1,r2,r1

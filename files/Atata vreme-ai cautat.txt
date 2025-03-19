@@ -1,0 +1,57 @@
+[s1]
+Atâta vreme-ai căutat,
+bătind la porţi străine,
+Dar fericire n-ai aflat,
+şi-ai zis:"sărman de mine!"
+Dar când spre Domnul ai strigat
+Plângând în rugăciune,
+O, când vreodată te-a lăsat
+Şi ruga nu ţi-a ascultat?
+O, frate, spune, spune.
+
+[s2]
+/: Un ajutor potrivit
+Domnul azi ţi-a dăruit:
+S-o cinsteşti, s-o iubeşti,
+Toată viata cât trăieşti!:/
+
+[s3]
+Bătut-au mulţi la uşa ta,
+la inima-ţi curată,
+Dar n-ai putut să le spui “Da",
+tu, soră, niciodată.
+Dar când din ceruri ţi-a vorbit
+Un glas duios de tata,
+fiinţa ta a tresărit
+Şi ca Rebeca-ai spus soptind:
+“Da! Vreau să plec, sânt gata!"
+
+[s4]
+/: Un ajutor potrivit
+Domnul azi ţi-a dăruit,
+Să-l cinsteşti, să-l iubeşti,
+Toată viata cât trăieşti!
+Să-i spui mereu, da mereu,
+Ca şi Sara “Domnul meu"!
+Să-l cinsteşti, să-l iubeşti,
+Toată viaţa cât trăieşti! :/
+
+[s5]
+Fiţi astăzi binecuvântaţi
+de Domnul pe vecie,
+Vă spunem noi, surori şi fraţi:
+drum bun în căsnicie!
+Veni-vor valuri peste voi
+Căci cel rău stă la pândă,
+Dar câtă vreme amândoi
+Veţi zice: “Doamne, mergi cu noi!“
+El vă va da izbândă!
+
+[s6]
+/: Noi vă dorim, miri iubiţi,
+Să fiţi veşnic fericiţi,
+Pân’ la cer veţi pleca
+Cu Isus la nunta Sa! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

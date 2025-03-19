@@ -1,0 +1,60 @@
+[s1]
+858.
+1. O, patrie sfântă,
+Cămin de împărat
+Ochii îmi varsă lacrimi
+De dor neîncetat
+După tine ţară de sus din veşnicie
+Unde nu-i durere
+Ci numai bucurie.
+
+[s2]
+2. Unde-i câmpul verde
+De flori şi trandafiri
+Unde nu-s dureri,
+Nici lacrimi, nici suspin
+Acolo e parfumul
+De preţ mare şi fin
+Şi arborul vieţii
+Din tronul cel divin.
+
+[s3]
+3. Acolo nu-i nici noapte
+Sus în ţara mea
+Acolo se va şterge
+Din ochi lacrima
+Acolo e-blândul meu Mântuitor
+După care-mi arde inima de dor.
+
+[s4]
+4.  Ah, te iubesc Isuse
+Du-mă-n ţara Ta
+Din valea umbrei morţii
+Din lumea aceasta rea
+Din lumea de păcate
+Şi plină de urgie
+Căci pentru mine
+Nu e nici o bucurie.
+
+[s5]
+5.   Căci pentru mine
+Tu eşti bogăţia mea
+Nici pe întreaga lume
+Isus nu te-aş da
+Tu-mi eşti mângâierea
+În chinul meu amar
+Jertfa crucii Tale
+De sus de pe Calvar.
+
+[s6]
+6 .  Ah, te rog Isuse
+Ascultă ruga mea
+Dă-mi iubire sfântă,
+Har şi pacea Ta
+Să iubesc pe-ai mei fraţi
+Şi pe-ai mei vrăjmaşi
+Nici pe ei la moarte
+Doamne să nu-i laşi.
+
+[order]
+s1,s2,s3,s4,s5,s6

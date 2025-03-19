@@ -1,0 +1,52 @@
+[s1]
+1.Se apropie sfârşitul
+Suflete te-ai pregătit
+Să-l întâlneşti pe Prea Sfântul
+Să faci cu El legământul
+Se apropie sfârşitul
+1591
+
+[s2]
+2.Semnele ce-s date toate
+Din Biblie s-au împlinit
+Zilele s-au tot scurtat
+Iar omul zace în păcat
+Se apropie sfârşitul
+
+[s3]
+3.Cutremure s-au ivit
+Multe pe întreg pământ
+Semne în soare şi în lună
+Vrea lumii întregi să spună
+Se apropie sfârşitul
+
+[s4]
+4.Biblia s-a răspândit
+Astăzi pe întreg pământ
+Îndemnând pe orişicine
+Să capete mântuire
+Se apropie sfârşitul
+
+[s5]
+5.Dar oamenii n-au primit
+Cuvântul ce s-a vestit
+De Domnul n-au ascultat
+Rămânând tot în păcat
+Se apropie sfârşitul
+
+[s6]
+6.Iară voi copii mei
+Care aţi ieşit din lume
+Să fiţi sare şi lumină
+Şi să n-aveţi nici o vină
+Se apropie sfârşitul
+
+[s7]
+7.Că Eu atunci voi veni
+Ca să-mi iau ai mei copii
+Să fiţi mereu pregătiţi
+Pe Domnul să-L întâlniţi
+Se apropie sfârşitul
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

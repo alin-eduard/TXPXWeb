@@ -1,0 +1,31 @@
+[s1]
+Privesc spre cer şi văd stelele
+Mă uit pe pământ şi văd florile
+Aud cum spumegă mările
+Cum cad cu zgomot cascadele
+Privesc şi văd minunăţiile
+Mă bucur că văd culorile
+Simt cum curg râurile
+Cum strălucesc lacurile
+
+[r1]
+Totu-i plin de viaţă, sunt uimit şi copleşit
+Mă-nchin şi-Ţi dau slavă
+Şi-Ţi mulţumesc că m-ai iubit
+/: Te laud Dumnezeul meu
+Mă-nchin şi Te ador
+Te laud Dumnezeul meu
+Tu eşti măreţul creator :/
+
+[s2]
+Privesc cum zboară albinele
+Cum adună şi lucreaza furnicile
+Aud cum cântă păsările
+Simt miresmele ce le-aduc vânturile
+Strig şi-aud în munţi ecourile
+Vulturii zboară cu măiestrie
+Noaptea dispare când lumina pătrunde
+Şi mă-ncălzesc când soarele răsare
+
+[order]
+s1,r1,s2,r1

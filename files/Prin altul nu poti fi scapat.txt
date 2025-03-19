@@ -1,0 +1,35 @@
+[s1]
+Prin altul nu poţi fi scăpat,
+Alt nume nici nu este dat
+Spre-a noastră mântuire!
+Căci Piatra ce-o zvârliră toţi
+Făcutu-s-a piatră de colţ
+Şi boltă de clădire.
+Cine cade pe-astă Stâncă
+În adâncă umilinţă
+Mântuit e prin credinţă.
+
+[s2]
+Mulţi oameni nume-şi fac sub cer,
+Se-avântă sus, dar iată-i, pier,
+I-a înghiţit mormântul!
+În viaţă fost-au străluciţi,
+Dar au sfârşit nenorociţi,
+Sunt una cu pământul!
+Singur Domnul, El trăieşte
+Şi domneşte în tărie
+Peste-ntreaga veşnicie.
+
+[s3]
+Prin altul nu poţi fi scăpat,
+Alt nume nici nu este dat
+Spre-a noastră mântuire!
+O, Nume scump, Isus Hristos,
+Speranţa celui păcătos
+E-n Tine, doar în Tine!
+Fi-mi şi mie Mângâiere
+Şi putere de-nnoire
+Sfânt izvor de fericire!
+
+[order]
+s1,s2,s3

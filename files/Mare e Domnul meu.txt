@@ -1,0 +1,42 @@
+[s1]
+Do M
+/: Mare e Domnul meu :/
+/: Mare si puternic
+De marire vrednic
+Mare e Domnul meu :/
+
+[s2]
+/: Mare e Domnul meu :/
+/: Plin de indurare
+Gata de iertare
+Mare e Domnul meu :/
+
+[s3]
+/: Ce mare-i Domnul meu :/
+/: Plin de bunatate
+Si bogat in toate
+Mare e Domnul meu :/
+
+[s4]
+/: Mare e Dumnezeu :/
+/: Plin si de blandete
+Har si frumusete
+Mare e Domnul meu :/
+
+[s5]
+/: Ce mare-i Domnul meu :/
+Medic fara plata
+Dumnezeu si tata
+Acesta-i Dumnezeu
+Muta chiar si muntii
+Inviaza mortii
+Acesta-i Dumnezeu
+
+[s6]
+/: Acesta-i Dumnezeu :/
+/: Vrednic de-nchinare
+Si de ascultare
+Acesta-i Dumnezeu :/
+
+[order]
+s1,s2,s3,s4,s5,s6

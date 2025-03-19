@@ -1,0 +1,52 @@
+[s1]
+Eu n-am stiut,
+Isuse, Isuse, ca traiesti
+Si viata, fara plata,
+Tu poti sa-mi daruiesti;
+/: Prin lumea de pacate,
+eu nu Te cunosteam,
+Dar mi-ai iesit in cale,
+cum nici nu ma gandeam. :/
+
+[s2]
+Lumea ma mangaiase
+cu ranguri si placeri;
+Eu n-am stiut, Isuse,
+ca ma iubesti din cer.
+/: Tu mi-ai batut la usa,
+dar eu nu ti-am deschis...
+Tu Ti-ai pastrat iubirea
+si totusi m-ai convins. :/
+
+[s3]
+Pe patul meu, Isuse,
+Tu mi-ai ingaduit
+Sa Te cunosc pe Tine,
+sa stiu ca m-ai iubit;
+/: Cand oamenii si lumea
+nu m-au putut salva,
+Tu ai venit la mine
+si mi-ai vorbit asa: :/
+
+[s4]
+Ca vrei sa-mi dai viata,
+aici pe-acest pamant
+Si sa ma iei la Tine,
+dincolo de mormant...
+/: Din clipa cand,
+Isuse,-ai intrat in casa mea,
+Am simtit ca in mine
+a intrat viata Ta. :/
+
+[s5]
+Si ceva Ti-as mai spune
+si despre neamul meu
+Ca sa-l aduci la Tine
+sa fie neamul Tau.
+/: Caci vreau, cu Tine-n slava,
+sa ajunga si ei:
+Copiii si parintii
+si toti cei dragi ai mei. :/
+
+[order]
+s1,s2,s3,s4,s5

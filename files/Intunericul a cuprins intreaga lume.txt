@@ -1,0 +1,22 @@
+[s1]
+Întunericul a cuprins întreaga lume
+Luminitele s-au stins
+Dar Dumnezeu cu strigătul
+Unui arhanghel va veni
+
+[r1]
+Fii lumină, fii lumină
+Lumineaza-ntunericul
+Ce lume-a cuprins
+Fii lumină, fii lumină
+Si nu te da învins
+
+[s2]
+Vremuri grele oi trăim
+Dar ajutorul de la Dumnezeu avem
+Că cei ce-n Domnul
+Nadejdea și-o pun
+Totdeauna vor birui
+
+[order]
+s1,r1,s2,r1

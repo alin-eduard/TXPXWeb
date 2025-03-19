@@ -1,0 +1,45 @@
+[s1]
+127.
+1. Când povara mă apasă
+Şi când drumul este greu
+Eu mă-nchid singur în casă
+Şi mă rog lui Dumnezeu.
+
+[s2]
+2. Scriptura ne învaţă
+Că orice-i vom cere Lui
+Ne va da acum în viaţă
+Din belşugul cerului.
+
+[s3]
+3. Căci Scriptura-i minunată
+Ne arată cum Isus
+Marea potoli o dată
+Cu-n cuvânt ce atunci a spus.
+
+[s4]
+4. Când e noaptea înnourată
+Şi nu văd în calea mea
+Mă călăuzeşte îndată
+Domnul cu lumina Sa.
+
+[s5]
+5. Căci Scriptura-i plină toată
+De adevăr sfânt şi frumos
+Căci lumina adevărată
+Este doar Isus Hristos.
+
+[s6]
+6. Când asupra mi se adună
+Toate Domnul este viu
+Şi mă ia cu El de mână
+Ca un Tată pe al său fiu.
+
+[s7]
+7. Şi Scriptura iarăşi zice
+Că de sunt cu Domnul Sfânt
+Să nu mai întreb aicea
+Nici de cer nici de pământ.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

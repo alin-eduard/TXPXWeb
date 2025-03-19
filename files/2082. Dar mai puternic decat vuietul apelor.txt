@@ -1,0 +1,42 @@
+[s1]
+2082
+Cor: Dar mai puternic decât vuietul apelor mari
+Și mai puternic decât toți cei tari
+Și mai puternic decât valurile
+ce izbesc
+Este Domnul în locul cel ceresc
+
+[s2]
+1. Domnul împărățește
+Îmbrăcat cu măreție
+Îmbrăcat și încins cu putere
+De aceea lumea-i tare,
+Nu se clatină pe cale
+Fiindcă Dumnezeul
+nostru-i mare.
+
+[r1]
+Cor: Dar mai puternic decât vuietul apelor mari
+Și mai puternic decât toți cei tari
+Și mai puternic decât valurile
+ce izbesc
+Este Domnul în locul cel ceresc
+
+[s3]
+2. Valuri mari multe vin toate
+Râurile vuiesc tare,
+Apele se umflă cu putere
+Nu ne clătinăm pe cale,
+Domnul e cu noi, e mare
+Să înaintăm cu-nflăcărare.
+
+[s4]
+3. Scaunul Tău de domnie,
+Este din veșnicie
+Ca și adevărata mărturie
+Podoaba casei Tale
+Sfințenia-i pe cale
+Cât va ține vremea de-ndurare.
+
+[order]
+s1,s2,r1,s3,r1,s4,r1

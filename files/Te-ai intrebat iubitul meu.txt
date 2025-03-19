@@ -1,0 +1,33 @@
+[s1]
+Te-ai întrebat iubitul meu
+Unde te duci unde alergi
+spre ce te-ndrepti?
+Sunt doua căi, pe care mergi?
+Ce ai ales unde sfârșești? Intreabă-te!
+
+[r1]
+Isus e viata El e speranța
+Doar El te duce în cerul Său
+/: El e iubirea e fericirea
+El Tatăl Fiul si Duhul Sfânt.:/
+
+[s2]
+Munți de comori tu de-ai avea
+Eu azi îți spun că într-o zi vor rămânea
+Pământu-ntreg va arde-n foc
+Tu poți găsi un adăpost, el e-n Hristos
+
+[s3]
+Spune acum: „O Domnul meu
+Așa cum sunt la Tine vin primește-mă
+Sunt păcătos, azi recunosc
+Îmi pare rău viața mea de azi e-a Ta”
+
+[s4]
+Singur de azi nu vei mai fi
+Caci ceru-ntreg cu tine-n veci va locui
+Iar cand de-aici tu vei pleca
+Un loc in cer langa Isus tu vei avea
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

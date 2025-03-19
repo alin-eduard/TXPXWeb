@@ -1,0 +1,49 @@
+[s1]
+1. O, iubitul Meu popor
+Cheamă-mă în ajutor
+C-oi veni şi Te-oi lua
+Numai nu descuraja.
+2. Nu te plânge că ţi-e greu
+Că în curând vin să te iau
+Că-s gata să vin pe nori
+Ca să-mi iau al Meu popor.
+723.Mi
+
+[s2]
+3. Luptă-te lupta cea bună
+Vei primi pe cap cunună
+Că nu mult vei mai lupta
+Că te-oi duce-n casa Mea.
+4. Strigă azi, strigă şi mâine
+Căci grozavă zi mai vine
+Strigă azi, strigă deseară
+Ca să nu rămâi afară.
+
+[s3]
+5. Mare jale-n casa Mea
+Unii nu mai pot lupta
+Şi încep a spune Mie
+Că n-ajung în veşnicie.
+6. Plâng în casa Mea profeţii
+Şi mult suspină cu toţii
+Dar nu plângeţi că vii e greu
+Mai mult am suferit Eu.
+
+[s4]
+7. Mult am plâns pentru voi Eu
+Şi am fost Fiu de Dumnezeu
+Am urcat sus Ia Calvar
+Şi-am băut amar pahar.
+8. Mulţi se clatină pe cale
+Nu au pace, nici răbdare
+Dar cei răi din casa Mea
+N-or gusta fericirea.
+
+[s5]
+9. Dar serveşte-mă popor
+Că-s gata să vin pe nori
+Şi Eu sunt de partea ta
+Numai nu descuraja.
+
+[order]
+s1,s2,s3,s4,s5

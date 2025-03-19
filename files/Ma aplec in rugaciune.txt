@@ -1,0 +1,25 @@
+[s1]
+Mă aplec în rugăciune
+şi mă voi ruga
+Doamne, Ţie îţi voi spune
+toată grija mea.
+
+[r1]
+Luminează-mi faţa !
+Şterge-mi lacrima !
+Doamne, Tu lucrează-ntruna
+În viaţa mea.
+
+[s2]
+Îţi predau a mea fiinţă
+şi inima mea
+Pune-n mine Tu credinţă
+şi iubirea Ta.
+
+[s3]
+Eu sînt slab, Tu dă putere sufletului meu
+Tu-ntăreşte-a mea credinţă
+zi de zi mereu.
+
+[order]
+s1,r1,s2,r1,s3,r1

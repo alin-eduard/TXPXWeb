@@ -1,0 +1,34 @@
+[s1]
+Încă e har, încă e har
+Încă e har dar noi îl risipim,
+Încă e dar, încă e dar,
+E mântuirea ce noi o primim.
+Doamne, o sfântă-nţelepciune
+să îmi dai
+Să ştiu alege bine drumul către rai!
+Multe cărări se pot greşi.
+Călăuzeşte-mă, că pot greşi!
+
+[s2]
+Eşti îmbiat şi eşti rugat
+Cu viaţa ta, te rog, nu te juca!
+E-adevărat ce ai aflat
+Se poate harul ţi se va lua.
+Mă înfior la gândul de-a fi pierdut
+Şi că pe lângă mântuire ai trecut.
+Fii înţelept, asta aştept
+Pune-ţi piciorul pe drumul cel drept!
+
+[s3]
+Nu eşti stăpân, nu eşti stăpân
+Pe viaţa care larg o risipeşti,
+E un stăpân ce în curând
+Va judeca viaţa ce-o trăieşti.
+Nu da tu raiul, pentru viaţa de aici,
+De ce spre cer,
+tu, ochii nu vrei să-i ridici?
+Cât vei voi nu poţi opri
+A judecăţii zi de a veni.
+
+[order]
+s1,s2,s3

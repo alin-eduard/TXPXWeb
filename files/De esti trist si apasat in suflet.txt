@@ -1,0 +1,32 @@
+[s1]
+De esti trist si apăsat în suflet?
+Spune-i lui Isus
+De regreti plăcerile din lume,
+Spune-i lui Isus acum.
+
+[r1]
+Spune-i lui Isus, spune-i lui Isus,
+Nu este prieten mai bun.
+Nu găsesti un altul mai aproape,
+Spune-i lui Isus acum.
+
+[s2]
+E obrazul tău brăzdat de lacrimi?
+Spune-i lui Isus,
+Ai ascuns de lume multe patimi
+Spune-i lui Isus acum.
+
+[s3]
+De îti e teamă că furtuna vine,
+Spune-i lui Isus,
+De te apasă grijile de mâine,
+Spune-i lui Isus acum.
+
+[s4]
+Gândul mortii te nelinisteste?
+Spune-i lui Isus
+Orice teamă El o risipeste,
+Spune-i lui Isus acum.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

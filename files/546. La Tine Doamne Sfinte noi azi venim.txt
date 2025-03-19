@@ -1,0 +1,63 @@
+[s1]
+1. La Tine Doamne Sfinte
+Noi azi venim
+La poala cruci Tale
+Să ne smerim
+546.          								        Fa
+
+[s2]
+/: Şi Te rugăm fierbinte
+Adu-Ţi de noi aminte
+Revarsă Duhul Sfânt
+Ca mai înainte. :/
+
+[s3]
+2. Cobori pe unda slavei
+Domn al Iubirii
+Şi-nviorează astăzi
+Toţi trandafirii
+
+[s4]
+/: Să simtă fiecare
+C-aici în adunare
+S-a prezentat azi
+Domnul nostru cel mare.:/
+
+[s5]
+3. Mai vindecă o dată
+Oaia rănită
+Mai mângâie pe cea
+Căzută în ispită
+
+[s6]
+/: Să simtă fiecare
+C-aici în adunare
+Lucrează Dumnezeul
+Nostru cel mare. :/
+
+[s7]
+4. Mai strigă iar pe nume
+Oaia pierdută
+Căci spini şi mărăcini
+Stau gata s-o înghită
+
+[s8]
+/: S-o iei pe braţ de mamă
+Să-i torni balsam pe rană
+Şi-o mângâiere Sfântă
+Să-i dai la cea bolnavă. :/
+
+[s9]
+5. Ascultă-ne strigarea,
+O, Doamne mare
+Lucrează cu putere
+Aici în adunare
+
+[s10]
+/: Să simtă fiecare
+Să strige-n gura mare
+Că L-a-ntâlnit pe Domnul
+Aici în adunare :/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

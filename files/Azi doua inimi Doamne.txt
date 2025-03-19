@@ -1,0 +1,32 @@
+[s1]
+Azi două inimi, Doamne,
+La Tine au venit
+Ca să Îţi ceară sprijin,
+Pe drumul ce-au pornit.
+
+[r1]
+„Binecuvântă-i, Doamne!"
+Noi Te rugăm acum,
+„Condu-i, cu dreapta-Ţi sfântă,
+Pe-al căsniciei drum!"
+
+[s2]
+Spre cer fă-i să privească,
+La bine şi la greu
+Şi-n rugăciuni să crească,
+Din zi în zi, mereu!
+
+[s3]
+Uneşte-i Tu, o, Doamne,
+Aşa precum Tu ştii,
+Ca ceea ce uneşti Tu,
+Nimeni n-a despărţi!
+
+[s4]
+Uneşte-i, chiar acuma!
+Uneşte-i, pe deplin!
+Uniţi de azi să fie,
+Până în veci! Amin.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

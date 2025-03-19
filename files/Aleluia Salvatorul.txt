@@ -1,0 +1,26 @@
+[s1]
+Ca Isus nu e prieten
+Pentru omul păcătos;
+Părăsit când sunt de oameni,
+El rămâne credincios.
+
+[r1]
+Aleluia! Salvatorul
+Mi-e prieten minunat,
+El, Isus Mântuitorul,
+Fie­n veci glorificat!
+
+[s2]
+Când sunt slab mă întăreşte,
+Mă ascunde al Său nor,
+În necazuri şi ispite
+Sunt cu El biruitor.
+
+[s3]
+Viaţa mea Ţi-o dau, Isuse,
+Mă păzeşte de cel rău!
+Tu mi-ai dăruit iertarea,
+Eşti al meu, eu sunt al Tău!
+
+[order]
+s1,r1,s2,r1,s3,r1

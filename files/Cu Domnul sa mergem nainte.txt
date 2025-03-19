@@ -1,0 +1,25 @@
+[s1]
+Cu Domnul sa mergem ‘nainte
+Cu Domnul sa mergem cantand
+/: Cand totul se stinge-n morminte
+Cu El biruim orisicand :/
+
+[r1]
+/: Cu El biruim :/
+Oricat de-ndarjita e lupta
+Cu Domnul Isus biruim.
+
+[s2]
+Isus e pe veci Imparatul
+Caci El e de-a pururea viu
+/: Prin moarte-a platit El pacatul
+Mormantu-I ramas-a pustiu :/
+
+[s3]
+Noi mergem cu El in lumina
+Iubire si cantec si har
+/: Cu Domnul izbanda-i deplina
+Iar pacea e fara hotar :/
+
+[order]
+s1,r1,s2,r1,s3,r1

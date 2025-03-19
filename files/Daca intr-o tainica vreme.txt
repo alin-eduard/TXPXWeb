@@ -1,0 +1,26 @@
+[s1]
+Dacă într-o tainică vreme
+Din lut cineva m-a făcut
+/: Si dacă sunt om si nu vierme
+O, Doamne asa ai vrut Tu :/
+
+[s2]
+Dacă am grai si nu muget
+Să spun ce iubesc si ce nu
+/: Si dacă am harul să cuget
+O, Doamne asa ai vrut Tu :/
+
+[s3]
+Dacă m-ai scos din neghină
+Nu viata-mi urâtă-Ti plăcu’
+/: Nu eu am vrut iarăsi lumina
+O, Doamne ci Tu, numai Tu :/
+
+[s4]
+Iar dacă voi merge odată
+La Cel ce din duh m-a născut
+/: Voi spune de-apururea ,,Tată”
+Te laud c-asa ai vrut Tu :/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,45 @@
+[s1]
+1
+E sfârşitul veacului acum
+Pământul este încă în mişcare
+Domnul ne mai cheamă, căci e bun
+Şi sufletu-I e plin de îndurare.
+
+[s2]
+2
+Veniţi, pământeni, veniţi la Mine azi !
+Veniţi degrabă, pana ce e  Soare !
+Căci noapte şi zi aştept cu nerăbdare
+Un păcătos, să pot să-i dau iertare !
+
+[s3]
+3
+Nu ştim ceasul când El va veni
+Să-i ia pe cei aleşi în cerul sfânt.
+Inspre ceruri vom călători
+Aici vom lăsa totul, pe Pământ.
+
+[s4]
+4
+Veniţi, pământeni, veniţi la Mine azi !
+Veniţi degrabă, pana ce e  Soare !
+Căci noapte şi zi aştept cu nerăbdare
+Un păcătos, să pot să-i dau iertare !
+
+[s5]
+5
+Deci grăbiţi-vă, veniţi acum
+Căci porţile sunt încă
+Larg deschise !
+Trebuie să alegeţi strâmtul drum
+Pentru bucuriile promise !
+
+[s6]
+6
+Veniţi, pământeni, veniţi la Mine azi!
+Veniţi degrabă, pana ce e  Soare!
+Căci noapte şi zi aştept cu nerăbdare.
+Un păcătos, să pot să-i dau iertare!
+
+[order]
+s1,s2,s3,s4,s5,s6

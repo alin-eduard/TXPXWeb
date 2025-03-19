@@ -1,0 +1,39 @@
+[s1]
+1988
+1. Veniţi veniţi popoare
+Veniţi cu toţi să ne-nchinăm
+Ca s-a născut un Rege
+Atunci în Betleem
+Ca magii de altădată
+La iesle să alergăm
+Cu inime voioase
+Să-i cântăm Osana Aleluia.
+
+[r1]
+Cor: /:Aleluia:/
+Isuse fii lăudat
+/:Aleluia:/
+Mesia fii binecuvântat.
+
+[s2]
+2. Stea călăuzitoare
+Stea ce de mii de ani luceşti
+Condu-ne către Domnul
+Unde împărăţeşti
+Cu îngerii din ceruri
+A noastre imnuri să unim
+Şi pentru veci în slavă
+Să-i cântăm Osana Aleluia.
+
+[s3]
+3. Veniţi păstori din vale
+Lăsaţi acum turma de oi
+Veniţi la sărbătoare
+Dumnezeu este cu noi
+Lăsaţi dar bucuria
+Să vă inunde inima
+Că a venit Mesia
+/: Osana :/ Aleluia.
+
+[order]
+s1,r1,s2,r1,s3,r1

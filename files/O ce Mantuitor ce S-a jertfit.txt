@@ -1,0 +1,34 @@
+[s1]
+O, ce Mântuitor ce S-a jertfit,
+Pentru ca eu să pot fi mântuit,
+Oricine crede-n Fiul a primit
+Viaţă veşnică!
+
+[r1]
+Crede-n El, crede-n El!
+Şi vei fi salvat,
+Crede-n El, crede-n El!
+Domnul e-ndurat
+Oricine crede-n Fiul va avea
+Viaţă veşnică!
+
+[s2]
+Toată nelegiuirea mea-I voi da,
+El a plătit şi datoria mea,
+Crezând în El, a spus că voi avea
+Viaţă veşnică!
+
+[s3]
+Deşi sunt păcătos privesc în sus,
+Slab sunt, dar cred în tot ce El a spus,
+O, sfânt Mesaj divin ce mi-ai adus
+Viaţă veşnică!
+
+[s4]
+Aşa cum sunt la El voi alerga,
+Domnul e bun nu mă va alunga,
+Cântaţi, că prin credinţă vom avea
+Viaţă veşnică!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

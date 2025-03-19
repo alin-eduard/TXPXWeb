@@ -1,0 +1,41 @@
+[s1]
+Filadelfia iubită numai suspina,
+/: Că în curând sosește clipa
+și întinde-mi-voi aripa
+Și-n curând cu multă slavă
+te voi ridica. :/
+
+[s2]
+Asa zice Cel ce-i veșnic
+ce te-a pus pe zid
+/: Ți-am pus o ușă deschisă,
+tu vegheză, fi neinvinsă
+Stai mereu în așteptare
+spre-a mă întampina. :/
+
+[s3]
+Eu îți știu a tale fapte
+și rabdarea ta
+/: Cu a ta mică putere
+stai întruna in veghere,
+Că-n curând vin după tine
+și te voi lua. :/
+
+[s4]
+Dar păstrează-te curată
+cu veșmânt curat
+/: Fi mereu tare-n credință
+te-mbracă cu umilință.
+Ca în ziua mult dorită
+să mă poți vedea. :/
+
+[s5]
+Pentru c-ai păzit cuvântul
+și Eu te-oi păzi,
+/: Când atunci sufla-va vântul
+ca să încerce tot pământul,
+Eu veni-voi după tine
+și te voi lua. :/
+
+[order]
+s1,s2,s3,s4,s5

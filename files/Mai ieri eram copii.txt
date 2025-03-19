@@ -1,0 +1,25 @@
+[s1]
+Mai ieri eram copii,
+vedeam numai in parte;
+Dar anii au trecut si am crescut.
+Si mergem mai departe,
+pe drumuri lungi, pustii,
+Ne-apropiem de moarte,
+cu fiecare zii.
+
+[r1]
+Aleg sa Te urmez,
+dincolo de toate.
+
+[s2]
+E timpu’asa de scurt
+si nu-i o intamplare...
+Ne ducem cum venim,
+oricine moare.
+Clipele se scurg si
+nu vreau sa le pierd.
+Tot mai mult tanjesc,
+cu Tine sa traiesc.
+
+[order]
+s1,r1,s2,r1

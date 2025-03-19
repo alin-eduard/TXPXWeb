@@ -1,0 +1,57 @@
+[s1]
+1. Aceasta este vestea bună
+Pe care noi o așteptam
+În cer și pe pământ răsună
+Ce s-a-ntâmplat în Betleem.
+2256
+
+[r1]
+R: Acum, și noi, ca dar
+Ți-aducem la altar
+Aici ‘naintea Ta
+Ți-aducem inima.
+Ca Tu s-o curățești
+Și-n ea să locuiești
+Să faci din ea
+Tot ce dorești.
+
+[s2]
+2.Cum îngerii în noaptea sfântă
+Păstorilor vestea le-au dus
+A lor cântare-n cer răsună
+Că-n iesle S-a născut Isus.
+
+[s3]
+3.O lumină din cer se-arată
+La magi, o stea din Răsărit
+În noaptea-aceea neuitată
+La iesle i-a călăuzit.
+
+[s4]
+R: Acum, și noi, ca dar
+Ți-aducem la altar
+Aici naintea Ta
+Ți-aducem inima.
+Ca Tu s-o curățești
+Și-n ea să locuiești
+Să faci din ea
+Tot ce dorești.
+
+[s5]
+4.Această Stea călăuzește
+Și astăzi pe poporul Său
+Isus poporu-Și pregătește
+Să-l ducă-n cer la Dumnezeu
+
+[s6]
+R: Acum și noi în cor
+Cu îngerii din cer
+În Casa Tatălui
+La nunta Mielului
+Vom cânta ne-ncetat
+Lui Dumnezeu Prea-nalt
+Căci prin Isus
+El ne-a salvat.
+
+[order]
+s1,r1,s2,r1,s3,s4,s5,s6

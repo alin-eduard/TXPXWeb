@@ -1,0 +1,33 @@
+[s1]
+Domn minunat eşti lângă mine,
+În orice zi eu sunt cu Tine
+Căci mâna Ta nu m-a lăsat
+Să rătăcesc.
+
+[s2]
+Cu gingăşie mă strigi pe nume,
+Duhul Tău sfânt imi dă mângâiere
+Şi-aduce pace in sufletul meu,
+Căci mă iubeşti.
+
+[s3]
+Sunt copleşit de-a Ta iubire
+M-ai cucerit pentru vecie,
+O, Domnul meu,
+Vreau să îţi mulţumesc.
+
+[s4]
+Ia-mă, schimbă-mă, foloseşte-mă,
+Viaţa mea e în mâna Ta.
+Glasul Tău vreau mereu
+Să-l am în sufletul meu
+Inima mea, Doamne, e a Ta!
+
+[s5]
+Domn minunat eşti lângă mine,
+În orice zi eu sunt cu Tine
+Cât timp trăiesc prin viaţa mea
+Vreau să te slăvesc.
+
+[order]
+s1,s2,s3,s4,s5

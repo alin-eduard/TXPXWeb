@@ -1,0 +1,46 @@
+[s1]
+1377.     Mi m
+1.  O Domnul meu cel bun
+Spre Tine mă îndrept acum
+Nu mă lăsa să rătăcesc pe drum
+Prin lumea de necaz
+Prin valuri prin talaz
+Ajută-mă ca să fiu mereu treaz.
+
+[r1]
+Cor: Te rog adu-ţi aminte
+O scumpul meu Părinte
+Priveşte înspre mine
+Când mi-e greu
+Te rog să iei aminte
+Când cu lacrimi fierbinte
+De dorul Tău Isus
+Suspin mereu.
+
+[s2]
+Când suferinţa grea
+Când ispita cea rea
+Mă amăgesc şi încearcă viaţa mea
+Vino în barca mea
+Isus nu mă lăsa
+Mă înconjoară cu dragostea Ta.
+
+[s3]
+O Domnul meu iubit
+Al meu dor nesfârşit
+Se-ndreaptă tot mereu
+Spre infinit
+Spre slăvile cereşti
+De unde Tu priveşti
+De unde ajutor îmi dăruieşti.
+
+[s4]
+O Domnul meu iubit
+Rămâi pân’ la sfârşit
+În orice zi cu min’ pe-acest pământ
+Să pot a Te lăuda
+Să aştept venirea Ta
+Pe nori să te pot a întâmpina.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

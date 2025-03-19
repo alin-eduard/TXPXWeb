@@ -1,0 +1,52 @@
+[s1]
+E mult de cand
+e noapte si lumea-i bantuita
+De mii de duhuri
+rele cu-nselatoare soapte.
+Mi-e dor de Dimineata,
+in slava, rasarita
+Strajerule, strajere,
+mai este mult din noapte?
+
+[s2]
+Atati, din cei ce-asteapta,
+sunt coplesiti de jale,
+Trantiti de greutatea
+ce inima le-a smuls;
+Mi-e toata asteptarea,
+la glasul vestii tale:
+Strajerule, strajere,
+mai este oare mult?
+
+[s3]
+Plang inimi sfasiate
+de lunga despartire
+Si au atatea doruri
+si-au suferit atat
+Si-asteapta-ndurerate
+o clipa de iubire
+Strajerule, strajere,
+o, cat mai este, cat?
+
+[s4]
+E-atat de grea vegherea,
+cand noaptea se lungeste
+Cand inimile-asteapta
+si-n suflete e jale
+Cand mistuie durerea
+si plansul copleseste
+Strajerule, strajere, ah!
+zorii nu rasar?
+
+[s5]
+Mai este mult din
+noaptea aceea-ntunecoasa?
+Departe-s zorii zilei,
+seninei dimineti?
+Se fierb in jur talazuri
+e marea furtunoasa
+Strajerule, strajere,
+nu-i ceasul cel maret?
+
+[order]
+s1,s2,s3,s4,s5

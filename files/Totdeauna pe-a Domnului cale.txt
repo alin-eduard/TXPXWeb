@@ -1,0 +1,44 @@
+[s1]
+Totdeauna pe­a Domnului cale
+Au fost lacrimi şi­au fost spini destui,
+Dar acei ce­au urmat voii Sale,
+Trebuit­au să­I semene Lui.
+
+[r1]
+Când în cerul slăvit vom sosi
+Chiar Isus Hristos ne va primi;
+Orice lacrimă El o va şterge
+Când în cerul slăvit vom sosi.
+
+[s2]
+Lumea nu i­a iubit niciodată
+Pe cei ce lui Hristos I­au slujit,
+Ci cu­o ură mereu ne­mpăcată
+I­a hulit, i­a lovit, i­a zdrobit.
+
+[s3]
+Dar cu ochii­aţintiţi la răsplată
+Din răbdarea Golgotei primind,
+Cei aleşi n­au cârtit niciodată,
+Ci­au trăit, şi­au murit biruind.
+
+[s4]
+Nu­i la fel pentru toţi încercarea,
+Nici nu­i vremea la toţi într­un fel,
+Însă toţi într­un fel au chemarea
+La un preţ de dureri pentru El.
+
+[s5]
+Tu fii tare că­n ziua­ncercării
+E alegerea ta pentru har,
+Strălucit eşti în haina ocării
+Când te urci răbdător pe Calvar.
+
+[s6]
+Iar prin moarte­nmiit vei culege
+Răsplătirea cerescului zel,
+Căci mereu astfel Domnul Şi­alege
+Pe acei ce sunt vrednici de El.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

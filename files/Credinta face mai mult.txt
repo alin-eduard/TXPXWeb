@@ -1,0 +1,31 @@
+[s1]
+Credinţa face mai mult
+Ca aurul pe Pământ
+Căci prin ea eşti
+Copilul Domnului sfânt
+Ea te duce către scop
+Când e-ncercată prin foc
+Prin credinţă şi răbdare
+Învingi oricând
+Sol M
+
+[r1]
+/: Te duce în cer credinţa
+Prin ea ai biruinţă
+Şi prin ea trăieşti
+Prin credinţă-L poţi privi
+Pe Isus când va veni
+Şi-n slava cerească
+Poţi să-L însoţeşti :/
+
+[s2]
+În inimă scump frate
+Şi nădejdea mult face
+Când o ai curată în Isus Hristos
+Căci prin ea te curăţeşti
+Putere nouă primeşti
+Şi prin ea moşteneşti
+Un loc glorios
+
+[order]
+s1,r1,s2,r1

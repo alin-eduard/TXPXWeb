@@ -1,0 +1,26 @@
+[s1]
+În casa Ta Părinte Sfânt
+Doi tineri astăzi vieţile şi-le unesc
+Prezenţa Ta pe-acest pământ
+Fă-o simţită-n viaţa lor cât ei trăesc.
+
+[r1]
+Noi vă iubim si vă dorim
+Să staţi uniţi în Dumnezeu pân la sfârşit
+El să vă dea dragostea Sa
+Al vost cămin să fie-ntruna fericit.
+
+[s2]
+Această zi în viaţa lor
+Va rămânea mereu o zi de neuitat
+Noi am dori ca ajutor
+Tu să le fii Doamne Isuse nencetat
+
+[s3]
+Toţi în curând ne bucurăm
+Astăzi la sărbătoarea nunţii celor doi
+Dar în curând o să serbăm
+La nunta lui Isus suntem chemaţi şi noi
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,18 @@
+[s1]
+Vom străbate orice graniţi
+Vom deschide orice uşi
+/: Unindu-ne orice popoare,
+Vom proclama: “Isus e Domn”. :/
+
+[s2]
+Să lucrăm pentru Domnul
+Până mai este zi,
+/: Chiar dacă semănăm cu lacrimi,
+Vom secera cu bucurii. :/
+
+[s3]
+În curând va apare Isus, mielul viu
+/: Când îşi va lua Mireasa-n slavă Vom proclama: “Isus e Domn”! :/
+
+[order]
+s1,s2,s3

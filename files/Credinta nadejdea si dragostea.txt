@@ -1,0 +1,26 @@
+[s1]
+Credinta nadejdea si dragostea
+Le-avem Isus doar prin Tine
+Prin jertfa mareata din Golgota
+Patrunde-ma Isus divine
+
+[r1]
+Doamne fa-ma tare
+Umple-ma Tu de rabdare
+Oricat ar fi de grea
+Isus, viata mea
+
+[s2]
+Cu toti sa slujim doar Domnului
+Caci numai Lui i se cuvine
+Orice-am avea e din mana Lui
+Si ce-i dai Lui, pe veci ramane
+
+[s3]
+Ramai Tu la carma, Isus te rugam
+Prin Tine avem ocrotire
+Si-acolo in cer cu toti vom canta
+Cu ingerii din stralucire
+
+[order]
+s1,r1,s2,r1,s3,r1

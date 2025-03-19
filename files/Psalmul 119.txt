@@ -1,0 +1,14 @@
+[s1]
+Cum va ţinea tânărul paşii lui
+Calea curată, spre ţinta lui
+Dacă traieşte pe placul Cerului
+Păzind mereu Cuvântul Domnului.
+
+[s2]
+Cum va ţinea tânara paşii ei
+Calea curată, spre ţinta ei
+Dacă traieşte pe placul Cerului
+Păzind mereu Cuvântul Domnului.
+
+[order]
+s1,s2

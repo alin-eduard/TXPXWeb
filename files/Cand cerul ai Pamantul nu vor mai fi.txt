@@ -1,0 +1,29 @@
+[s1]
+Cand cerul şi Pămantul nu vor mai fi
+Cand cele ce se văd se vor sfarşi
+Şi-atunci pot şti: Isus e viu!
+Cand piere nădejdea şi-ncrederea
+Cand nimeni nu-mi mai şterge
+din ochi lacrima
+Şi-atunci pot şti: mă iubeşte Isus!
+
+[r1]
+Da-n curand Îl voi vedea
+Şi la tronul Lui voi sta
+Voi uita c-am fost candva
+pe-acest Pămînt.
+Şi cu corul îngeresc
+Îi cînt Tatălui ceresc
+Aleluia Mielului Dumnezeiesc,
+/:Aleluia:/ (3x)
+
+[s2]
+Aceasta e credinţa pe care o am
+Şi fundamentul pe care stau
+Isus e viu, Isus e viu!
+Aceasta e viaţa pe care o trăiesc:
+Pe Isus să-L cunosc, pe El să Îl iubesc
+Căci m-a iubit şi m-a mîntuit.
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,27 @@
+[s1]
+1198.Mi m
+/: Slavă lui Isus :/
+Slavă lui Isus sus în cer (de 2 ori)
+Cor: 	/ : Aleluia : /
+Slavă lui Isus sus în cer (de 2 ori)
+
+[s2]
+2./ : El a biruit : /
+El  biruit pe Satan (de 2 ori
+Cor: 	/ : Aleluia : /
+Slavă lui Isus sus în cer (de 2 ori)
+
+[s3]
+3./ : Sângele Lui Sfânt : /
+Sângele Lui Sfânt m-a spălat (de 2 ori)
+Cor: 	/ : Aleluia : /
+Slavă lui Isus sus în cer (de 2 ori)
+
+[s4]
+4.  / : Şi m-a sigilat : /
+Şi m-a sigilat cu Duh Sfânt (de 2 ori)
+Cor: 	/ : Aleluia : /
+Slavă lui Isus sus în cer (de 2 ori)
+
+[order]
+s1,s2,s3,s4

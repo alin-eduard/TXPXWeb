@@ -1,0 +1,26 @@
+[s1]
+Deschide-ţi astăzi larg inima
+Prietene ca să primeşti
+Iertarea ce Isus ţi-o va da
+Pentru faptele-ţi pământeşti.
+
+[s2]
+E-o zi de chemare pentru fiecare
+Alege viaţa şi-n veci vei trăi
+În cer sărbătoare, şi-o vie cântare
+Răsună, de vrei ca să vii.
+
+[s3]
+Cu dragoste eşti înc-aşteptat
+Cerescul Părinte te vrea
+Prin Fiul Său te-a răscumparat
+Cu sânge plătind vina ta.
+
+[s4]
+Ce bucurii te-aşteaptă-n cer sus
+Un loc pregătit de Hristos
+Un soare veşnic, fără apus
+Ramâi dar de-acum, credincios.
+
+[order]
+s1,s2,s3,s4

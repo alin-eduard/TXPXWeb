@@ -1,0 +1,40 @@
+[s1]
+1. Ţie-ţi înălţăm cântarea
+Fiule de Dumnezeu
+Tu eşti pavăza cea tare
+Ce-ocroteşti poporul Tău
+23.
+
+[r1]
+Cor:  Lăudat fii Tu Isuse
+Preamărim noi mila Ta
+Căci Tu ai iubit nespus Biserica
+Fii lăudat în veci,
+În ceruri sus şi pe pământ
+
+[s2]
+2. Tu eşti mântuirea noastră
+Viaţa pentru noi Ţi-ai dat
+Noi în Tine-avem speranţă
+Pacea ne-ai asigurat.
+
+[s3]
+3. Fericit merge creştinul
+Cu pas repede spre cer
+Ca un vultur ce-şi ia zborul
+Spre etern, gloriosu-i ţel.
+
+[s4]
+4. Prin cuvântul Tău de viaţă
+Tu-l hrăneşti în orice zi
+Şi-al Tău duh îi dă povaţă
+Calea dreaptă a păzi.
+
+[s5]
+5. În curând pe nori de soare
+Domnul iarăşi va veni
+Cu puteri şi slavă mare
+În etern spre a domni.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,32 @@
+[s1]
+Ce dulce răsună azi
+Vestea trimisă de Tatăl de sus!
+Ea spune de răscumpărarea adusă
+De Domnul Isus.
+
+[r1]
+O, crede-n a Domnului milă;
+Şi tu eşti iubit de Domnul Isus,
+Primeşte, dar, răscumpărarea,
+Iubirea-I ne este de-ajuns!
+
+[s2]
+Din cer a venit cu iubire,
+Lăsând slava tronului sfânt,
+Să sfarme orice înrobire,
+Lumină în noapte-aducând.
+
+[s3]
+O, vino la Mântuitor,
+Tu, cel copleşit de păcat;
+El este Răscumpărătorul;
+Azi crede şi vei fi salvat!
+
+[s4]
+Nu este sub cer un alt nume
+În care să fii mântuit,
+Azi Domnul te cheamă din lume;
+Grăbeşte-te, vei fi fericit!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

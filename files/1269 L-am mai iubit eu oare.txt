@@ -1,0 +1,47 @@
+[s1]
+L-am mai iubit eu oare
+Când L-am văzut murind
+A fost îndurerat
+Şi-n cuie sângerând.
+/ : Şi atunce-a am strigat
+Copilul meu iubit
+Cum ai fost Tu pe cruce
+Şi toţi te-au părăsit : /
+1.
+1269
+
+[s2]
+Mai am puţină vreme
+Aici jos pe pământ
+Mă voi duce la Tatăl
+La Tatăl meu cel Sfânt
+/ :   Căci Mi-ai sfârşit lucrarea
+Aici jos pe pământ
+Mă voi duce la Tatăl
+La Tatăl meu iubit : /
+2.
+
+[s3]
+Dar nici nu mă voi duce
+Aşa cum am venit
+Am fost în chinuri grele
+Pe cruce răstignit : /
+3.
+
+[s4]
+Oţetul cel stricat
+Cu fiere-amestecat
+Mi-a fost băutura
+Atunci la moartea Mea
+Ca-n urma tuturora
+Să fiii tu mântuit
+Păcatele multora
+Celor ce i-am iubit
+Şi-atunci  am strigat
+O fiul meu iubit
+Cum ai fost Tu pe cruce
+Şi toţi Te-au părăsit.
+4.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,14 @@
+[s1]
+Hai, să te închini lui Isus
+Hai, inima ta Lui să i-o dai
+Hai, aşa cum eşti să-L lauzi
+Hai, aşa cum eşti ‘naintea Lui, hai!
+
+[s2]
+Odată toţi vor spune că Tu eşti Domn
+Toţi genunchi se vor pleca,
+Dar marea comoară-i pentru acei,
+Care acum te-aleg
+
+[order]
+s1,s2

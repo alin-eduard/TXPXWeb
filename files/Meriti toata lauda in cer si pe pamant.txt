@@ -1,0 +1,27 @@
+[s1]
+Meriţi toată lauda
+în cer şi pe pământ
+Doamne fii lăudat,
+din morţi ai înviat
+
+[s2]
+Venim în faţa Ta-n închinare,
+laude noi vrem să-ţi cântăm
+Pe porţile tale azi intrăm,
+sărbătoare e-n templul tău
+Ceru-ntreg priveşte şi se bucură
+Noi strigăm Aleluia numai ţie
+Din morţi ai înviat
+
+[s3]
+Tot ce este-n mine
+îţi slăveşte acum
+Puterea şi Gloria
+O Domnul meu cel bun,
+E bucurie în viaţa mea,
+în prezenţa Ta
+Doamne ne-ai eliberat
+Şi de-aceea îţi cântăm.
+
+[order]
+s1,s2,s3

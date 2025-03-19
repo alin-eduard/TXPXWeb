@@ -1,0 +1,38 @@
+[s1]
+In orice zi as vrea s-ajut
+Pe cel lipsit, slab si cazut
+Ca viata mea va trece-n zbor
+Si sa lucrez eu sunt dator.
+
+[r1]
+/: Noaptea vietii se va lasa
+Si catre cer eu voi pleca
+Sa-mantalnesc cu ce-am lucrat
+Unde-I lumina ne-ncetat. :/
+
+[s2]
+Sunt fiul Sau rascumparat
+Sa luminez eu sunt chemat
+Slavesc pe-al meu Isus iubit
+Ca pot s-ajut pe cel trudit.
+
+[s3]
+Pe cei slabiti vreau sa-ntaresc
+Pe drumul greu sa-l spijinesc
+Celor bolnavi celor ce n-au
+Cuvantul vietii vreau sa-l dau.
+
+[s4]
+Va ramanea din ce-am lucrat
+Doar ce e bun sfant si curat
+Voi sta cu-al meu Mantuitor
+Dand altora mana de-ajutor.
+
+[s5]
+Un om trudit cand va cadea
+Voi ridica povoara grea
+Isus ne schimba noapte-n zi
+Si flori pe drum vor rasari.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

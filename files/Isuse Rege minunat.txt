@@ -1,0 +1,32 @@
+[s1]
+Isuse, Rege minunat,
+Atotputernic, îndurat,
+Cu bunătate mă­nsoţeşti,
+Odihna Ta mi­o dăruieşti.
+
+[r1]
+Fii slăvit, fii slăvit,
+Dumnezeul meu, fii preamărit!
+Fii slăvit, fii slăvit,
+Cântă azi poporul mântuit.
+
+[s2]
+Isuse, Miel dumnezeiesc,
+Lumina Ta eu o doresc;
+Îndură-Te de lumea rea,
+Dă sufletelor pacea Ta!
+
+[s3]
+Când intri Tu în viaţa mea
+Lumina­mi umple inima;
+Păcatul nu mai stă în ea,
+Rămâne doar iubirea Ta.
+
+[s4]
+Nu este cântec mai frumos
+Şi nici cuvânt mai preţios;
+Nimic nu e mai glorios
+Ca Domnul meu, Isus Hristos.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

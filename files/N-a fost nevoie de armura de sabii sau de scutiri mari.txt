@@ -1,0 +1,45 @@
+[s1]
+N-a fost nevoie de armură
+De săbii sau de scuturi mari.
+Era de-ajuns doar cui şi ură,
+/: De preoţi şi de-un greu ciocan.:/
+N-a fost nevoie de-o regiune
+De-ostaşi în lupte încercaţi.
+Să duci un Miel până pe-o culme,
+/: Un Împărat peste-mpăraţi. :/
+
+[r1]
+Era de-ajuns crucea şi spinii,
+Era de-ajuns calvarul greu.
+Stătea şi dealul Căpăţânii.
+/: Era de-ajuns păcatul meu. :/
+
+[s2]
+N-a fost nevoie nici de gloată,
+De farisei sau cărturari.
+Era de-ajuns dealul Golgota,
+/: De-o cruce şi de doi tâlhari. :/
+Nu te-a adus până la moarte,
+Nimic din acel trist decor.
+Ci doar a noastre mari păcate
+/: Pe Tine Rege-al regilor. :/
+
+[s3]
+N-ar fi fost Doamne niciodată
+Nevoie să cobori din cer.
+De n-ar fi fost lumea stricată
+/: Si-atâţia ce-n păcate pier. :/
+De n-aş fi fost şi eu o Doamne
+Si-aici nu aş fi existat,
+Nu sufereai nici chin nici palme,
+/: Dar Tu-ai venit şi m-ai salvat. :/
+
+[s4]
+De n-aş fi fost şi eu o Doamne,
+Şi-aici nu aş fi existat.
+Nu sufereai nici chin nici palme,
+Dar Tu-ai venit şi m-ai salvat.
+Fii veşnic binecuvântat.
+
+[order]
+s1,r1,s2,r1,s3,s4

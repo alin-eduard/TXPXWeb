@@ -1,0 +1,32 @@
+[s1]
+Voi cânta doar despre Isus,
+Căci din cer El a venit.
+Părăsind cereasca slavă,
+Pentru mine a murit!
+
+[r1]
+Voi cânta doar despre Isus,
+Fiindcă El m-a mântuit;
+Cu toţi sfinţii-aici şi-n cer sus
+Voi cânta necontenit!
+
+[s2]
+Rătăcit-am în păcate,
+Dar Isus m-a căutat,
+M-a găsit în lumea largă,
+Calea Lui mi-a arătat.
+
+[s3]
+Îndelunga rătăcire
+Multe răni mi-a provocat.
+Eu zăceam în grea orbire
+Dar Isus m-a vindecat.
+
+[s4]
+Zile negre de-ncercare
+Şi dureri adesea vin,
+Dar prin Domnul am scăpare,
+Biruinţă pe deplin.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

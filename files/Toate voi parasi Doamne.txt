@@ -1,0 +1,32 @@
+[s1]
+Toate voi părăsi, Doamne,
+Numai Ţie-ţi voi urma!
+Credincios şi cu iubire,
+Ca Tine-oi purta crucea.
+Toată grija pământească
+Piară cu tot dorul rău.
+Iar viaţa-mi sufletească,
+Rămâne, Domnu-i al meu.
+
+[s2]
+Semenul mă poate urî,
+L-a urât şi pe Hristos
+Oamenii mă pot părăsi
+Isus va fi credincios.
+Strălucească-mi a Ta milă,
+Domnul iubirii, ştiinţei,
+Rău în bine-atunci se schimbă,
+Noaptea-n lumina zilei.
+
+[s3]
+Spada Duhului încinge,
+Ia pavăza credinţei
+Răul, pofta le învinge
+Să ai cununa vieţii.
+Sus că al tău drum n-o dura mult,
+Luptă-te ca un bun creştin.
+Vezi cum te aşteaptă Domnul
+În cerul etern, senin.
+
+[order]
+s1,s2,s3

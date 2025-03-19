@@ -1,0 +1,32 @@
+[s1]
+Ferice casa unde Domnul este
+Prieten drag, oricând binevenit,
+Acolo unde, dintre toţi ce­s oaspeţi,
+Tu, o, Isuse, eşti cel mai iubit!
+Acolo orice inimă îţi bate
+Şi către Tine ochii­s aţintiţi,
+Acolo buzele îţi cântă slavă
+Şi toţi ai casei sunt preafericiţi.
+
+[s2]
+Ferice casa unde soţ, soţie,
+În al Tău spirit una sunt mereu
+Cuprinşi de-a Ta iubire minunată
+Cu Tine stau la bine şi la rău;
+Când amândoi se sprijină pe Tine
+În orice timp, cât de primejdios
+A lor iubire nu se micşorează,
+Ci tot mai mult ei Te iubesc duios.
+
+[s3]
+Ferice casa unde fii şi fiice trăiesc
+Purtaţi pe mâini de rugăciuni
+Iar voia Ta în toate îi conduce;
+Le eşti Păstorul ce­i duci la păşuni;
+Dorinţa lor e­n toate să Te­asculte
+Smeriţi, supuşi şi de credinţă plini,
+La tronul Tău ei le aduc pe toate
+Şi­apoi cu Tine vor domni­n măriri.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,26 @@
+[s1]
+În seara Cinei, când Tu, Isus,
+Spre jertfă trupul întreg Ţi-ai pus,
+//:Adus-ai vieţii nou răsărit,
+Prin moartea-ţi crudă ne-ai mântuit.://
+
+[s2]
+În seara Cinei Tu ne-ai deschis
+O poartă vie spre paradis,
+//:Adus-ai harul ce ne-a unit,
+Prin jertfa-Ţi sfântă ne-ai mântuit.://
+
+[s3]
+În seara Cinei ne-ai învăţat
+Al părtăşiei izvor curat.
+//:Iubirea-Ţi dulce Te-a dăruit;
+Prin jertfa crucii ne-ai mântuit.://
+
+[s4]
+În seara Cinei ne-ai dat îndemn
+S-avem în inimi al morţii semn,
+//:Prin vin şi pâine să ne-amintim
+Că-n jertfa-Ţi mare ne mântuim.://
+
+[order]
+s1,s2,s3,s4

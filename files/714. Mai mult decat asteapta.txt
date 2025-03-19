@@ -1,0 +1,35 @@
+[s1]
+1. Mai mult decât
+aşteapă  străjerul dimineţa,
+Te-aşteaptă al nostru suflet,
+Isus să-Ţi vadă faţa!
+/: Cum soarele răsare şi luminează-ntinsul
+Aşa ne umpli viaţa Isus, Tu, necuprinsul. :/
+714.
+
+[s2]
+2. Mai mult decât
+aşteaptă un mugur primăvara,
+Mai mult decât aşteaptă înstrăinatul ţara;
+/: Mai mult decât aşteaptă
+ogorul ploaia lină,
+Dorim Isuse faţa şi slava Ta să vină! :/
+
+[s3]
+3. Mai mult decât
+aşteaptă bolnavul vindecarea,
+Noi aşteptăm Isuse, în ţara Ta, intrarea
+/: Mai mult decât
+aşteaptă logodnica pe mire
+Dorim întâmpinarea venirii în mărire. :/
+
+[s4]
+4. Mai mult decât
+aşteaptă robii eliberarea,
+Corăbierii portul, trudiţii înserarea,
+/: Ostaşii biruinţa
+Și-n lupta lor cununa,
+Noi Te-aşteptăm Isuse, pe Tine totdeauna!
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,32 @@
+[s1]
+Ochii deschide­mi să privesc
+Tot ce din mâna Ta primesc;
+Dă­mi Doamne, harul să pot afla
+Ce plan ai Tu în viaţa mea.
+Eu liniştit stau şi aştept
+Sfatul Tău bun şi înţelept,
+Ochii deschide­mi să privesc,
+O, Duh Preasfânt!
+
+[s2]
+Cu-a mea ureche vreau s­ascult
+Al Tău Cuvânt divin, mai mult;
+Iar dacă lumea mă va chema
+Eu vreau s­aud doar vocea Ta!
+Eu liniştit stau şi aştept
+Sfatul Tău bun şi înţelept,
+Cu-a mea ureche vreau s­ascult,
+O, Duh Preasfânt!
+
+[s3]
+Gura deschide­mi să vorbesc
+Despre Cuvântul Tău ceresc;
+Inima fă-mi­o vasul curat,
+Plin de iubire ne­ncetat.
+Eu liniştit stau şi aştept
+Sfatul Tău bun şi înţelept,
+Gura deschide­mi să vorbesc,
+O, Duh Preasfânt!
+
+[order]
+s1,s2,s3

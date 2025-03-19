@@ -1,0 +1,39 @@
+[s1]
+1583.                  Sol
+1.Doamne când eşti lângă mine
+Sunt voios şi-mi merge bine
+Când eşti Tu de partea mea
+Nu mă tem de nimenea
+De e vânt sau vreme rea
+Tu eşti adăpostul meu
+Şi la bine şi la greu
+Cât de bine e cu Tine
+
+[r1]
+Cor:   Numai Tu Doamne numai Tu
+Îmi eşti sprijin pe cărare
+Numai Tu Doamne numai Tu
+Îmi eşti stânca de ancorare
+
+[s2]
+2.Tu-mi dai aripi prin credinţă
+Şi în luptă biruinţă
+Mă ridici când sunt căzut
+Mă mângâi când sunt bătut
+Tu eşti al meu scut
+Mă păzeşti de cei mişei
+Şi de cursa celor răi
+Şi mă scapi de suferinţă
+
+[s3]
+3.Când Satan cu a lui oştire
+Caută-ntruna a mea pieire
+Tu eşti ocrotirea mea
+De aceea-ţi voi cânta
+Glorie Aleluia
+Pentru bunătatea Ta
+Te voi binecuvânta
+Isus veşnică iubire
+
+[order]
+s1,r1,s2,r1,s3,r1

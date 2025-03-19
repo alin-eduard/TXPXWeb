@@ -1,0 +1,25 @@
+[s1]
+Doamne stau ‘naintea Ta
+Să-ţi spun că “Te iubesc!”
+N-aş vrea să-ţi cer nimic acum
+Ci doar să te privesc
+Să mă pierd în ochii tăi curaţi
+S-ascult inima Ta
+Iubirea Ta să umple viaţa mea
+
+[r1]
+Doamne drag primeşte-mi dragostea
+Ştiu că tot ce Tu-ţi doreşti mai mult, e iubirea mea
+Doamne drag primeşte viaţa mea
+Şi-nvaţă-mă mai mult să Te iubesc
+
+[s2]
+Doamne stau naintea Ta
+Ştiind că eşti aici
+Nu pot s-ascund fiinţa mea de privirea Ta
+Nimic nu Ţi-e mai drag
+Ca-ntreaga mea iubire
+ce-aş vrea să-Ţi dau
+
+[order]
+s1,r1,s2,r1

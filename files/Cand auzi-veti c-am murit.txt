@@ -1,0 +1,69 @@
+[s1]
+Când auzi-veți c-am murit
+Nu vă-ntristați prea tare
+Cine-a cântat și-a suferit
+Pentru Hristos cel răstignit
+Acela-n veci nu moare.
+
+[s2]
+Chiar de s-a stins ce-i trecator
+S-a stins doar chipul firii
+Dar ce-am avut nemuritor
+Ramâne-n veci strălucitor
+Prin soarele iubirii.
+
+[s3]
+Nu-mi scrie-ți deci pe piatra mea
+A morții nici o dată
+Nu moare dragostea
+Ci ea nemuritoare-mi va ținea
+Ființa neuitată.
+
+[s4]
+Cînd auzi-veți c-am murit
+Nu crede-ți asta știre
+Mîntuitorul meu iubit
+Și moartea mea a nimicit
+Eu merg spre nemurire.
+
+[s5]
+Voi ține-ți sfîntul legâmint
+Și lupta voastră bună
+Căci la sfîrșitul nostru sfânt
+Noi nu ne ducem spre mormânt
+Ci trecem spre cunună.
+
+[s6]
+Cînd auzi-veți c-am murit
+Hristos să vă-ntărească
+Voi toți acei ce m-ați iubit
+Nu plingeți deznădăjduiți
+Ci plânsul vostru liniștit
+plecarea-mi însoțească.
+
+[s7]
+Nu vă-ntristați prea mult și greu
+Căci plec cu bucurie
+La scump Mântuitorul meu
+Caci iată mi-am sfârșit și eu
+Lucrarea care Dumnezeu
+Mi-a rânduit-o mie.
+
+[s8]
+S-a isprăvit și lupta mea
+Prelung și greu uitată
+Dar orișicit a fost de grea
+Am vrut să trec frumos prin ea
+Și-acum aștept cununa cea
+Din Slava nevisată.
+
+[s9]
+Când auzi-veți ca m-am dus
+Mă plingeți cu iubire
+De nu-mi uitați cuvântul spus
+De-l ve-ți urma cu duh supus
+Curând ne va-ntâlni Isus
+La marea răsplătire.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

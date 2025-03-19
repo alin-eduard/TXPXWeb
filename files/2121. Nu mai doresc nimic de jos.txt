@@ -1,0 +1,43 @@
+[s1]
+2121
+1. Nu mai doresc nimic de jos:
+Puţinul ce-l găsesc, mi-ajunge;
+Tot ce-i mai mult, e-anevoios
+Tot ce-i mai strălucit, străpunge.
+/: Nu mai doresc să am aici
+Nici laude, nici veselie
+Mi-ajunge partea celor mici
+Iubirea lor mi-e avuţie :/
+
+[s2]
+2. Nu mai doresc decât să pot
+Să merg cu fraţii împreună;
+Un gând şi-o inimă în toţi
+Ce au primit ei din cer, să ţină.
+/: Nu mai doresc decât să fiu
+Găsit, în orişice-ncercare,
+Zidit pe adevărul viu
+Plăcut în orice-mprejurare :/
+
+[s3]
+3. Smerit, în orice loc-nălţat
+Curat, în orice-ntinăciune;
+Umblând, în tot ce-am învăţat
+Plângând în orice rugăciune.
+/: Iubind, în orice lepădări
+Crezând, în orice zguduire;
+Statornic primei ascultări
+Neostenit, spre mântuire. :/
+
+[s4]
+4. Nu mai doresc nimic străin
+Ce mi-ameninţă veşnicia;
+Mi-ajunge-n suflet pe Hristos
+Şi-n adunare, părtăşia.
+//: Nu-mi mai doresc :/
+Decât cu Domnul împreună
+Să poată, când am să sfârşesc
+Să-mi zică: „Vino, slugă bună!“:/
+
+[order]
+s1,s2,s3,s4

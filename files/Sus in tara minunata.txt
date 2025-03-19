@@ -1,0 +1,38 @@
+[s1]
+Sus în ţara minunată
+Sus, în ceruri sus
+/: Noi avem un preabun Tată
+Sus în ceruri sus. :/
+
+[s2]
+El mereu ne ocroteşte
+Sus, din cer de sus
+/: Viaţa pururi ne-o păzeşte
+Sus din cer de sus. :/
+
+[s3]
+Şi-avem pe Mîntuitorul
+Sus, în ceruri sus
+/: Pe Isus Biruitorul
+Pe blîndul Isus. :/
+
+[s4]
+El la greu ne dă putere
+Sus, din cer de sus
+/: Şi-n necazuri mîngîiere
+Sus din cer de sus. :/
+
+[s5]
+Şi avem o scumpă ţară
+Sus, în ceruri sus
+/: O veşnică primăvară
+Ţara cea de sus. :/
+
+[s6]
+De aceea ni se-ndreaptă
+Ochii numai sus
+/: Inima cu dor aşteaptă
+Ţara cea de sus. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

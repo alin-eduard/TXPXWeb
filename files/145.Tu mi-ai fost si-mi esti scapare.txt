@@ -1,0 +1,39 @@
+[s1]
+145.
+Tu mi-ai fost
+Și-mi eşti scăpare,
+Pururi Tu, Isus al meu!
+Nimeni altul nu-mi cunoaşte
+Dorul şi necazul meu.
+
+[r1]
+Cor: /: Unde să mă duc?:/
+/:Eu nu mă duc, Isuse, drag
+Dar, Te-aştept plângând în prag.:/
+
+[s2]
+2. Unde să alerg, Isuse,
+Când sunt singur, părăsit?
+Toţi cei dragi se duc, Tu singur
+Eşti mereu nedespărţit!
+
+[s3]
+3. O, de când te am pe Tine,
+Sufletul întreg mi-e plin.
+Mâna Ta-n viaţă-mi lasă
+Pace şi belşug, şi-alin.
+
+[s4]
+4. O rămâi, rămâi cu mine,
+Ca să fii pe veci al meu,
+Iar ca rob supus şi umil
+Să rămân al Tău mereu!
+
+[s5]
+5. O, rămâi în veci cu mine
+Răscumpărătorul meu
+Şi mă ţine-n veci cu Tine
+Drag copil şi rob al Tău.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

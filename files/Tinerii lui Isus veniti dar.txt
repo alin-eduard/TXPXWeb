@@ -1,0 +1,27 @@
+[s1]
+Tinerii lui Isus veniţi dar
+Să-I slujim Domnului azi
+În Isus găsim fericirea
+Voioasă ni-e inima.
+Sol M
+
+[r1]
+/: Vrei să trăieşti tu pentru Isus?
+Inima ta dă-I-o celui de sus
+Să mergem dar pe urmele Lui
+Slujind pe veci Domnului. :/
+
+[s2]
+Vestim neamurilor pe Isus
+Iubirea ne e ţinta
+De la Tine aşteptăm răspuns
+Să-l urmezi, tu eşti gata?
+
+[s3]
+Tinerii lui Isus daţi mâna
+Legându-vă inima
+Să stăm credincioşi lângă-al Său har
+Ne-aşteaptă-n cer cununa.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,26 @@
+[s1]
+Tu omule răscumpărat,
+Fii azi în cercetare.
+Cu haine sfinte îmbrăcat,
+Fii gata de plecare.
+
+[r1]
+/:Ce minunat ne-om înălţa,
+Când trâmbiţa răsună.
+Ca porumbei spre porumbar,
+Zbura-vom împreună.:/
+
+[s2]
+Curată haina să-ţi păstrezi,
+Poporule într-una.
+Cu Duhul Sfânt să luminezi,
+În dragoste fi-ţi una.
+
+[s3]
+Privind spre cerul înstelat,
+Curând apare Domnul.
+Va fi aşa de minunat,
+Spre El ne va fi zborul.
+
+[order]
+s1,r1,s2,r1,s3,r1

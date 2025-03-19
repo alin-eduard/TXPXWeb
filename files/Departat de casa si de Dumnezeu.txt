@@ -1,0 +1,20 @@
+[s1]
+Depărtat de casă şi de Dumnezeu
+Rătăceşti în lume, tu, amicul meu.
+În pofte deşarte cauţi plăcerea ta
+Şi nu ştii, sărmane, că-i pierzarea ta!
+
+[s2]
+Lumea-nşelătoare te-a nenorocit
+Sufletul şi trupul ţi le-a murdărit.
+Dezgustat de toate, foarte disperat
+Stai pribeag în lume, trist şi-ngândurat.
+
+[s3]
+Din slava cerească Isus a venit
+Pentru-a tale greşuri pe cruce-a murit.
+Vino cu căinţă, păcătos cum eşti
+La Mîntuitorul fericirii primeşti!
+
+[order]
+s1,s2,s3

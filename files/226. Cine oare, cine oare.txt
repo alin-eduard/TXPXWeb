@@ -1,0 +1,59 @@
+[s1]
+1. Cine oare, cine oare
+Te-a scăpat de strâmtorare?
+/:Israel:/
+Cine te-a strigat pe nume
+Şi ţi-a dat tărie-n lume?
+/:Israel:/
+226									FA
+
+[s2]
+/: Cine oare te-a salvat
+Cine te-a răscumpărat?
+Cine altul decât El
+Israel, Israel :/
+
+[s3]
+2. Cine te-a scos din robie
+Şi ţi-a dat o apă vie?
+/: Israel :/
+Cin' te-a scos din mare-adâncă
+Şi ţi-a dat apă din stâncă?
+/:Israel:/.
+
+[s4]
+/: Cine ţi-a dăruit ţara
+Şi ţi-a ridicat povara?
+Cine altul decât El
+Israel, Israel :/
+
+[s5]
+3. Nu te teme al Meu popor
+Eu îţi vin în ajutor
+/: Israel. :/
+Chiar dacă vrăjmaşul vine
+Domnul luptă pentru tine
+/: Israel. :/
+
+[s6]
+/: Preţul tău e-aşa de mare
+Pentru tine dau popoare
+Iată ce vorbeşte El
+Israel, Israel :/
+
+[s7]
+4. Vei zice, poporul Meu:
+“Te 'nalț Doamne, Domnul meu
+/:Israel:/
+“ De noi iarăşi Te înduri
+Ne naşti din dărâmături. ”
+/:Israel:/
+
+[s8]
+/: Ţara Ta va fi splendoare
+O lumină-ntre popoare
+Căci aşa vorbeşte El
+Israel, Israel :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

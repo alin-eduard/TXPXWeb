@@ -1,0 +1,40 @@
+[s1]
+Azi la uşă bate Isus
+Inimi reci şi triste ca a ta căutând
+Vrea să-ţi dea iertare,
+iubirea de sus
+Şi cerul in dar pentru tine
+Primeşte-L acum.
+
+[s2]
+/: Haide deschide,
+bate azi la usa ta
+Lasă-ti inima să fie,
+casa-n care El va sta
+Haide răspunde,
+nu-L lăsa s-astepte-atât,
+Si primeste-L,
+/: te iubeste-atât de mult. :/ :/
+
+[s3]
+Călător prin lume e Isus
+Nimeni nu-i deschide,
+/: inimi reci :/,
+/: nu-i răspund :/
+S-a jertfit pe cruce,
+dar mulţi L-au uitat
+Pe Împăratul Iubirii,
+/: din ceruri :/, /: venit :/.
+
+[s4]
+/: Haide deschide,
+bate azi la usa ta
+Lasă-ti inima să fie,
+casa-n care El va sta
+Haide răspunde,
+nu-L lăsa s-astepte-atât,
+Si primeste-L,
+/: te iubeste-atât de mult.:/ :/
+
+[order]
+s1,s2,s3,s4

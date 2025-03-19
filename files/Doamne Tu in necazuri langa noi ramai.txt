@@ -1,0 +1,38 @@
+[s1]
+Doamne, Tu-n necazuri
+lângă noi rămâi.
+Chinurile noastre,
+Tu le-nduri întâi,
+Ele mai ‘nainte trec
+prin mâna Ta.
+Şi îngădui numai
+cât putem purta.
+
+[r1]
+Nu te teme! Crede ne-ncetat!
+Prin Isus, eşti binecuvântat!
+/:Fie cât de mare crucea care-o sui,
+Mergi cu fiecare pas pe urma Lui!:/
+
+[s2]
+Lacrimile noastre
+numărate sunt
+Tu măsori povoara
+duhului înfrânt.
+Tu porţi mâna
+care taie rana grea
+Şi îngădui numai
+cât putem purta.
+
+[s3]
+Doamne, în necazuri,
+fii cu toţi ai Tăi
+Să nu meargă singuri
+pe-a durerii căi
+Cântăreşte crucea,
+Tu cu mâna Ta,
+Să îngădui numai,
+cât putem purta.
+
+[order]
+s1,r1,s2,r1,s3,r1

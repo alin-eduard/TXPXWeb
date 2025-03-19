@@ -1,0 +1,21 @@
+[s1]
+Curat nevinovat sa fiu gasit mereu de Tine D-l meu
+In fapte in priviri in ganduri,
+In vorbire si-n umbletul meu
+Nimic ce-i necurat nici idol
+Nici pacat sa ma desparta
+n-as vrea
+De partasia Ta si de prezenta
+Ta in viata mea
+
+[s2]
+Sa fiu lumina pe pamant :/
+/: Sa fiu lumina o evanghelie umbland
+
+[s3]
+Dumnezeu e sfant :/ (x4)
+/: Sfant, sfant, sfant ;
+Sa fiu lumina (x4)
+
+[order]
+s1,s2,s3

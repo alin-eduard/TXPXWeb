@@ -1,0 +1,22 @@
+[s1]
+Saltă Betleem, oraş micuţ
+Căci în tine s-a născut
+Mesia al nost’ Mântuitor
+Care dă viaţă, pace tuturor.
+
+[r1]
+/: Slavă sus în ceruri,
+pace pe pământ
+S-a născut Mesia,
+Domnul nostru Sfânt
+Cor de îngeri cântă Lui neîncetat,
+Numele Lui fie lăudat. :/
+
+[s2]
+Într-o iesle, de mult, s-a născut
+Cel făr’ de sfârşit şi început,
+Pacea ne-a adus-o tuturor
+Salvatorul lumii şi blândul Păstor.
+
+[order]
+s1,r1,s2,r1

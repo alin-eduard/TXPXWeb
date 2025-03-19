@@ -1,0 +1,33 @@
+[s1]
+1816.
+1. Cât de drag ne este Isus
+Căci la cer El s-a-nălţat
+Şi la Tatăl sus în ceruri
+Pentru noi El s-a rugat
+/:Poate cineva să spună
+Câtă pierdere-am avea
+Când spre El nu ne-am întoarce
+Şi rugând L-am căuta:/
+
+[s2]
+2. Când vrăjmaşul ne apasă
+Şi-n necazuri ne aflăm
+Către El ce nu ne lasă
+Rugăciunea să-ndreptăm
+/:Căci atunci a lui iubire
+Va fi pururea cu noi
+El ne-ascultă rugăciunea
+Şi ne scapă de nevoi:/
+
+[s3]
+3. Când ne-atacă gânduri rele
+La Isus să alergăm
+Ajutor El ne întinde
+Chiar în clipa când strigăm
+/:Părăsiţi fiind de prieteni
+Şi cu sufletu-ntristat
+Doar Isus atunci ne este
+Ajutorul căutat:/
+
+[order]
+s1,s2,s3

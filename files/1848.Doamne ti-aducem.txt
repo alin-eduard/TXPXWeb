@@ -1,0 +1,27 @@
+[s1]
+1848
+1.Doamne, ți-aducem închinare
+Dumnezeu puternic și sfânt
+Ți-aducem slavă și onoare
+Căci Tu ai spus: ,,Eu sunt cel ce sunt!”
+/:Numele Tău e minunat,
+Numele Tău e-adevărat
+Numele Tău e tot ce se poate spune
+Numele Tău e minunat,
+Numele Tău e mai presus de orice nume.
+Numele Tău. :/
+
+[s2]
+2.În fața Ta se pleacă toate,
+Pământul și cerul sublim
+Venim și noi cu inimele noastre,
+Să Te lăudăm, să te slăvim.
+/:Numele Tău e minunat,
+Numele Tău e-adevărat
+Numele Tău e tot ce se poate spune
+Numele Tău e minunat,
+Numele Tău e mai presus de orice nume.
+Numele Tău. :/                                                                   	                                                Amin
+
+[order]
+s1,s2

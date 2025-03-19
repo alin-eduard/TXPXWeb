@@ -1,0 +1,31 @@
+[s1]
+2164
+1. Ai rătăcit pe-ntunecate căi
+Și ţi-a plăcut să râzi printre cei răi
+Dar oricât eşti de rău şi păcătos Și pentru tine a murit Hristos
+/: Tu-ţi făureşti din eul tău mereu Un unic şi tiranic dumnezeu
+Dar cât de idolatru şi fălos şi Pentru tine a murit Hristos :/.
+
+[s2]
+2. Când nedreptatea
+Te-a izbit în piept,
+Ai devenit mai crud şi mai nedrept
+Dar orişicât ai fi căzut de jos
+Și pentru tine a murit Hristos
+/: Agoniseşti în viaţă nesătul
+Și niciodată nu îţi e destul
+Dar oricât eşti de avar şi ticălos Și pentru tine a murit Hristos :/.
+
+[s3]
+3. Când cineva ţi-a pus
+Sub ochi oglinzi,
+Vreo pată pe obrazul tău să simți
+Te-ai mâniat dar cât de mânios
+Și pentru tine a murit Hristos
+/: E vremea, ştii că toate au sfârşit
+Și de nu-ntorci, nu scapi nepedepsit
+O vino acum cât eşti de păcătos
+Vei fi primit prin jertfa lui Hristos :/.
+
+[order]
+s1,s2,s3

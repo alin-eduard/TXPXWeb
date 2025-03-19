@@ -1,0 +1,46 @@
+[s1]
+Pentru mine Dumnezeu
+A dat la moarte pe Fiul Său
+L-a dat la moarte pe Hristos
+Pentru mine un păcătos
+1.
+1263
+Cor: 	Pentru mine, pentru tine
+Pentru toată lumea El muri
+Pe o cruce la Golgota
+Să ne poată mântui.
+
+[s2]
+Pentru mine-a suferit
+Atunci când biciul greu a lovit
+Picioarele când i-au străpuns
+Cât a suferit Isus
+2.
+Cor: 	Pentru mine, pentru tine
+Pentru toată lumea El muri
+Pe o cruce la Golgota
+Să ne poată mântui.
+
+[s3]
+Pentru mine răstignit
+Striga mie sete Domnul iubit
+În loc de apă ei i-au dat
+Vin cu fiere amestecat.
+3.
+Cor: 	Pentru mine, pentru tine
+Pentru toată lumea El muri
+Pe o cruce la Golgota
+Să ne poată mântui.
+
+[s4]
+A strigat s-a isprăvit
+Isus murea să fiu mântuit
+Iar sânge sfânt nevinovat
+Îi curgea să fiu iertat.
+Cor: 	 Pentru mine, pentru tine
+Pentru toată lumea El muri
+Pe o cruce la Golgota
+Să ne poată mântui.
+
+[order]
+s1,s2,s3,s4

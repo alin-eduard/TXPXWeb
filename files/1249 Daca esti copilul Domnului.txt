@@ -1,0 +1,51 @@
+[s1]
+1249
+Dacă eşti copilul Domnului
+De-ai  gustat din bunătatea Lui
+Într-o zi îţi vei afla
+Şi identitatea ta
+De-ai umblat sau nu cu Dumnezeu
+Cor:	Cine eşti, cine sunt
+Vom cunoaşte într-o zi
+Cine eşti, cine sunt
+Domnul va mărturisi
+1.
+
+[s2]
+2.
+Cor:	Cine eşti, cine sunt
+Vom cunoaşte într-o zi
+Cine eşti, cine sunt
+Domnul va mărturisi
+Unde este acum comoara ta
+Tot acolo îţi este inima
+Sus în cer sau pe pământ
+În tot ce-i murdar sau sfânt
+Într-o zi voi totul vom afla
+
+[s3]
+3.
+Cor:	Cine eşti, cine sunt
+Vom cunoaşte într-o zi
+Cine eşti, cine sunt
+Domnul va mărturisi
+Nu te amăgi suflete mereu
+Nu-l vom amăgi pe Dumnezeu
+Dac-aicea pe pământ
+Nu trăim după cuvânt
+Nu suntem plăcuţi lui Dumnezeu
+
+[s4]
+Cor:	Cine eşti, cine sunt
+Vom cunoaşte într-o zi
+Cine eşti, cine sunt
+Domnul va mărturisi
+Fericiţi mai sunt aceia sfinţi
+Care varsă acum lacrimi fierbinţi
+Dacă-şi plâng a lor păcat
+Sângele nevinovat
+Viaţa lor deplin le va sfinţi.
+4.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,29 @@
+[s1]
+Îmi aduc aminte de iubirea Ta
+Cum în clipe grele da…ma întarea
+Cum prin soapte calde,
+inimi-mi vorbeai
+Stând în rugaciune, da…ma întareai
+
+[s2]
+Când cerul parca e departe
+Când nimeni parca nu ma vrea
+Isuse stiu ca esti aproape
+În inima mea…În inima mea.
+
+[s3]
+/: În inima mea, în inima mea,
+În inima mea, Isuse DA :/
+
+[s4]
+Îmi aduc aminte de Iubirea Ta
+Cum în clipe grele da…ma-nviora
+Si nu îmi va fi frica, ma vei ocroti
+Ma încred în Tine da…ma vei pazi
+Când cerul parca e departe
+Când nimeni parca nu ma vrea
+Isuse stiu ca esti aproape
+În inima mea…În inima mea.
+
+[order]
+s1,s2,s3,s4

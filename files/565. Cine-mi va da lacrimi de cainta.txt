@@ -1,0 +1,41 @@
+[s1]
+1. Cine-mi va da lacrimi de căinţă?
+Aş plânge noapte şi zi
+/: Ca să-mi plâng păcatele amare
+Toată îndoiala ar fugi. :/
+565.            								         Mi
+
+[s2]
+2. Plânge, plânge  împăratul David
+Oare nu-i ajung arginţi?
+/: Dar el plânge pentru că el vede
+Căci Duhul Sfânt
+Se duce de la el. :/
+
+[s3]
+3. Cine-mi va da lacrimi ca Mariei?
+Ce plângea lângă Isus
+/: Şi cu lacrimi îi spăla picioarele
+Pace pentru suflet şi-a găsit. :/
+
+[s4]
+4. Să privim lacrimile lui Petru
+Care-şi plânge vina sa
+/: Şi pentru căinţa lui amară
+Domnul toată vina i-a iertat. :/
+
+[s5]
+5. Să privim lacrimile lui Isus
+Ce au curs din ochii Lui
+/: Pentru pacea Ierusalimului
+Şi pentru a lui mântuire. :/
+
+[s6]
+6. Să-mi dai, Doamne
+Lacrimi ca acelea
+Ca să fiu eu ascultat
+/: Ca să nu plâng afară la uşă
+Unde lacrimi n-or mai ajuta. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

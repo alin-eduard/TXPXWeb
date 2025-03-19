@@ -1,0 +1,52 @@
+[s1]
+Pierdut eram, dar m-ai iubit!
+Sărman în lume, părăsit
+Lipsit de pace şi lovit
+Isuse scump, Tu m-ai găsit!
+În largul mării eu eram
+În largul ei călătoream
+În ajutor Tu mi-ai venit
+Din largul ei m-ai izbăvit!
+
+[s2]
+Isuse, viaţa Ta în dar
+Ai dat-o pe al Tău Calvar
+Şi ai băut al meu pahar
+Lăsîndu-mă pe veci iertat.
+În largul mării eu eram
+În largul ei călătoream
+În ajutor Tu mi-ai venit
+Din largul ei m-ai izbăvit !
+
+[s3]
+Sînt fericit că m-ai salvat
+Păcatul meu Tu l-ai iertat
+Cu Duhul Sfînt m-ai sigilat
+Voios Îţi cînt neîncetat!
+În largul mării eu eram
+În largul ei călătoream
+În ajutor Tu mi-ai venit
+Din largul ei m-ai izbăvit !
+
+[s4]
+Veniţi, acei împovăraţi
+De vreţi să fiţi chiar azi iertaţi!
+Cu sînge sfînt veţi fi spălaţi
+Pe veci de veci răscumpăraţi.
+În largul mării eu eram
+În largul ei călătoream
+În ajutor Tu mi-ai venit
+Din largul ei m-ai izbăvit!
+
+[s5]
+Deci nu mai sta nepăsător
+De-al tău Isus Mîntuitor
+Şi vino astăzi la izvor
+Astampără-ţi dar al tău dor!
+În largul mării eu eram
+În largul ei călătoream
+În ajutor Tu mi-ai venit
+Din largul ei m-ai izbăvit!
+
+[order]
+s1,s2,s3,s4,s5

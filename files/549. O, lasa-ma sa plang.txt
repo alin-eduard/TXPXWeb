@@ -1,0 +1,53 @@
+[s1]
+1. O, lasă-mă să plâng
+Căci plânsul mi-e cântarea
+Ce m-a-nvăţat să-i cânt
+Iubirea Lui cea mare.
+549.         Re m
+2. Cântam când am plecat
+Din casa lui bogată
+Averea mi-am luat
+Şi-am zis: adio tată!
+
+[s2]
+3. Gândeam că-s fericit
+Voi fi şi mai departe
+Dar cel ce suspina
+Mă petrecea din poartă.
+4. L-am înţeles puţin
+Când El mi-a spus părerea
+Argat eram din fiu
+La porci din toată averea.
+
+[s3]
+5. Mi-am amintit de El
+De casa Lui bogată
+Acuma singurel
+Mă duc înapoi la Tatăl.
+6. Cu ochi udaţi de plâns
+Priveam departe zarea
+Gândeam că L-am pierdut
+Şi mare-mi era jalea.
+
+[s4]
+7. În zdrenţe îmbrăcat
+Prin praf trăgeam piciorul
+Dar cel ce aştepta
+Şi-a cunoscut feciorul.
+8. Văzând că-s obosit
+Mergând pe drum agale
+De teama să nu cad
+Mi-a alergat în cale.
+
+[s5]
+9. M-a strâns la pieptu-i drag
+Să nu uit niciodată
+Sărutul Lui cel drag
+Iubirea Lui de tată.
+10. Eu te iubesc plângând
+Şi aş plânge-o veşnicie
+Căci m-ai iubit şi-ai plâns
+Cât nimenea nu ştie.
+
+[order]
+s1,s2,s3,s4,s5

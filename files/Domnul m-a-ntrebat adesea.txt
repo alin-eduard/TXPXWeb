@@ -1,0 +1,39 @@
+[s1]
+Domnul m-a-ntrebat adesea:
+“Vrei să fii voios?”
+Dacă da, atunci primeşte-L
+pe Isus Hristos
+După multă-mpotrivire,
+eu L-am ascultat
+Pace, bucurie-n suflet,
+Domnul meu mi-a dat.
+
+[r1]
+/: Aleluia! Aleluia!
+Imnurile bucuriei
+sună ne-ncetat!
+Aleluia! Aleluia!
+Pacea Sa cea minunată
+Pentru veci ne-a dat! :/
+
+[s2]
+Astăzi chem pe cei ce-n lume
+nu sînt fericiţi,
+Toţi cei plini de mari păcate,
+astăzi sînt primiţi.
+Domnul Isus va sfinţeşte-n
+sîngele Său sfînt,
+Schimbă gîndul, vorba,
+fapta prin al Său cuvînt.
+
+[s3]
+Daca vrei si tu, suflete,
+poti sa Il primesti;
+Inima ta ti-o deschide
+si-astfel Il gasesti!
+Fericirea vesnica El iti v-asigura;
+Sus in cer, cu Domnul Isus,
+te vei bucura!
+
+[order]
+s1,r1,s2,r1,s3,r1

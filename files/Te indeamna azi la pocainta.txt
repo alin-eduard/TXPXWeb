@@ -1,0 +1,36 @@
+[s1]
+Te indeamna azi la pocainta
+Bunatatea Domnului,
+N-astepta sa treci prin suferinta
+Sa raspunzi chemarii Lui
+Viata aceasta este trecatoare
+Zilele se duc in zbor
+Este doar o sansa de salvare
+Prin Isus Hristos mantuitor.
+
+[r1]
+Te indeamna azi,
+Te indeamna maine
+Te indeamna in fiecare zi
+Te indeamna azi,
+Te indeamna maine
+Vino si numai zabovii
+
+[s2]
+Stii ca ai sa treci din lumea aceasta
+Mai curand sau mai tarziu
+Esti tu oare gata de plecare?
+Pregatit esti sau nu sti?
+Daca pleci neimpacat cu Domnul
+Sufletu-ti va plange-amar
+Astazi cata vreme, se mai poate
+Vino la izvorul Sau de har.
+
+[s3]
+Oare nu vezi tu bunatatea Lui,
+Bunatatea Domnului
+Cat mai este har, spune-ti inimii
+Este timpul nu mai zabovi.
+
+[order]
+s1,r1,s2,r1,s3,r1

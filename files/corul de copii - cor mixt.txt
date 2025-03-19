@@ -1,0 +1,8 @@
+[s1]
+Copiii - 90
+
+[s2]
+Cor mixt - 30
+
+[order]
+s1,s2

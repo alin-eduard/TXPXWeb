@@ -1,0 +1,47 @@
+[s1]
+1459.   Sol
+Cor    /:Timpul va trece nu mai sta
+Salvează-ţi viaţa
+Întoarce-te din calea rea salvează-ţi viaţa.
+Căci tot ce vezi e trecător
+Vor trece toate
+Ai să ajungi un om pierdut şi condamnat la moarte
+Timpul va trece şi-a trecut
+Salvează-ţi viaţa
+Şi pentru Domnul ce-ai făcut
+Vei lua răsplata
+Nu aştepta nu amâna predă-i Lui viaţa
+Şi vei scăpa de orice greu şi totul va fi gata:/
+
+[s2]
+Anii se duc şi viaţa trece
+Şi pentru Domnul ce-ai făcut
+Ai pribegit în lumea largă
+De suflet rău nu ţi-a părut
+N-ai dat la suflet alinare
+Nici hrană din cuvântul sfânt
+Căci orişicine ai fost în lume
+Ajungi doar un pumn de pământ
+
+[r1]
+Cor    /:Timpul va trece nu mai sta
+Salvează-ţi viaţa
+Întoarce-te din calea rea salvează-ţi viaţa.
+Căci tot ce vezi e trecător
+Vor trece toate
+Ai să ajungi un om pierdut şi condamnat la moarte
+Timpul va trece şi-a trecut
+Salvează-ţi viaţa
+Şi pentru Domnul ce-ai făcut
+Vei lua răsplata
+Nu aştepta nu amâna predă-i Lui viaţa
+Şi vei scăpa de orice greu şi totul va fi gata:/
+
+[s3]
+Deci pregăteşte-te acuma
+Nu sta pierdut şi părăsit
+Ca la a trâmbiţei chemare
+Să nu rămâi jos pe pământ.
+
+[order]
+s1,s2,r1,s3,r1

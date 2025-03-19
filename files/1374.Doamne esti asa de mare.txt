@@ -1,0 +1,46 @@
+[s1]
+1374           									 La
+1.Doamne, eşti aşa de mare
+În tot locul unde eşti
+Pretutindeni unde-i harul
+Acolo Tu eşti
+Stau şi admir a Ta lucrare
+Ce încântă inima
+Munţi, câmpii, păduri, izvoare
+Cântă slava Ta.
+
+[r1]
+Cerurile Îţi dau slavă
+Ţie Doamne Dumnezeu,
+Universul Ţi se-nchină
+Doamne mă închin şi eu.
+
+[s2]
+2.O ce minunat e câmpul
+Înverzit cu mii de flori
+Ai împodobit pământul
+În mii de culori
+Printre ramuri păsărele
+Cântă aşa voios mereu
+Doamne Ţie Îţi dau slavă
+Mare-i Dumnezeu.
+
+[s3]
+3.Şi când soarele răsare
+Peste văi peste câmpii
+Razele lui scaldă-n suflet
+Mii de bucurii
+Şi în murmur de izvoare
+Doamne şi acolo eşti
+Şi în picurii din nori
+Doamne, Te găseşti.
+
+[s4]
+Fă Tu, Doamne-a
+mea viaţă
+Ca şi crinul alb curat,
+Dă-mi o inimă voioasă
+Să Îţi cânt neîncetat.
+
+[order]
+s1,r1,s2,r1,s3,s4

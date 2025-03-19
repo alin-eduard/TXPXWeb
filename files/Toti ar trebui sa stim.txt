@@ -1,0 +1,18 @@
+[r1]
+/: Toti ar trebui să stim, :/ (3x)
+Cine-i Isus!
+
+[s1]
+El e crinul cel din vale
+Si luceafărul din zori
+Trandafirul sfânt din Saron
+Toti ar trebui să stim!
+
+[s2]
+Pentru păcătosi murise
+Si prin sânge i-a albit.
+Cine este Salvatorul
+Toti ar trebui să stim!
+
+[order]
+r1,s1,r1,s2,r1

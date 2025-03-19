@@ -1,0 +1,28 @@
+[s1]
+Lăudaţi puterea lui Isus!
+Voi îngeri, vă-nchinaţi,
+/: Coroana de-mpărat luaţi
+Şi îl încoronaţi! :/
+
+[s2]
+Iar voi martiri de sub altar
+Cu toţi vă închinaţi,
+/: Odrasla lui s-ai lăudaţi
+Şi îl încoronaţi! :/
+
+[s3]
+Voi, cei aleşi de Dumnezeu,
+De El răscumpăraţi,
+/: Lăudaţi-l pe Emanuel
+Şi îl încoronaţi! :/
+
+[s4]
+Daţi slavă Domnului Isus,
+Aduceţi sfânt onor
+/: Şi veşnic să-l încoronăm
+Ca Domn al tuturor! :/
+Şi îl încoronaţi
+Ca Domn al tuturor!
+
+[order]
+s1,s2,s3,s4

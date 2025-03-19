@@ -1,0 +1,47 @@
+[s1]
+De-atatia ani te-asteapta El, In pragul casei tale
+Dar tu L-ai alungat mereu
+Cu multele-ti gresale.
+
+[s2]
+Te-asteapta fericirea-n prag Sa-ti umple viata-ntreaga,
+Tu gol si trist suspini pribeag Pacatul greu te leaga...
+
+[s3]
+O, tu te impietresti mereu!
+Dar nu ti-e teama, oare,
+Ca s-a sfarsi si harul Sau
+Si lunga Lui rabdare?...
+
+[s4]
+C-aceasta, poate,-n usa ta
+E ultima-I bataie
+Si ca apoi va mai urma
+A crudei morti vapaie?!
+
+[s5]
+Cand glasul Sau te cheama azi,
+Iubitul meu, asculta!
+Primeste al iertarii har,
+Caci vina ta e multa.
+
+[s6]
+Si va veni un ceas amar,
+O vreme de obida
+Cand usa sfantului Sau har
+Pe veci, o sa se-nchida
+
+[s7]
+Iar tu vei ramanea pe veci
+In focul de afara,
+In nesfarsit amar sa-ti treci
+A vecilor povara.
+
+[s8]
+Dar chinul cel mai greu si-amar
+Va fi incredintarea
+C-a fost, si pentru tine, har
+Dar I-ai respins chemarea...
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

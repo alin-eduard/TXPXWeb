@@ -1,0 +1,43 @@
+[s1]
+2208
+1. Numai Cuvântul Tău mă face
+Să-mi pot vedea păcatul meu
+Ca să-mi urmez mărturisirea
+Și pocăința mea mereu
+Numai Cuvântul Tău mă poate
+Sub cruce îngenunchia plângând
+Să-mi pot afla despovărarea
+Și pacea inimii ascultând.
+
+[s2]
+2. Numai Cuvântul Tău mă crește
+Să fiu puternic și smerit
+De orice păcat și neascultare
+Și de orice rătăciri ferit
+Numai Cuvântul Tău mă poartă
+Curat prin orișice noroi
+Dând luptei mele spre sfințire
+Mereu puteri și trepte noi.
+
+[s3]
+3. Numai Cuvântul Tău cel dulce
+Alină sufletul meu când
+Chiar de la cei mai dragi se-ntoarce
+Îndurerat și sângerând
+Numai Cuvântul Tău îmi face
+Dreptate atunci când prea lovit
+Mă-ntorc mereu din orice parte
+Mai întristat și mai zdrobit.
+
+[s4]
+4. Numai Cuvântul Tău Isuse
+Mă mângâie pe orice drum
+Să-ndur spre slava viitoare
+Oricâte nedreptăți de-acum
+Numai Cuvântul Tău mă poate
+Sub cruce îngenunchea plângând
+Să-mi pot afla despovărarea
+Și pacea inimii ascultând.
+
+[order]
+s1,s2,s3,s4

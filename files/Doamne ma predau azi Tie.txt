@@ -1,0 +1,25 @@
+[s1]
+Doamne ma predau, azi Tie
+Cu intreaga fiinta mea
+Doamne nu lasa pe nimeni
+Sa ma ia din mana Ta
+
+[s2]
+Doamne iti predau, azi viata mea
+Spala-ma in sangele-Ti Sfant
+Sa Te pot urma
+
+[s3]
+Mana Ta de ma va tine
+Ma simt fericit mereu
+Sigur ea in cer ma duce
+Sus la tronul Tatal meu
+
+[s4]
+Doamne ma predau
+Azi cu fiinta mea
+Spala-ma in sangele-Ti Sfant
+sa Te pot urma
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,30 @@
+[s1]
+1
+Nimeni ca Tine,
+Nu va putea să-mi umple inima
+Nimic din jertfa
+Nu poate înlocui prezenţa Ta
+
+[s2]
+2
+Numai Tu cunoşti adânci dorinţe
+Numai Tu viaţă-mi dai când plâng
+Numai Tu mă-nalţi în bucurie
+Numai Tu m-auzi atunci când strig.
+
+[s3]
+3
+Tată, te caut,
+Te chem să-mi stâmperi setea inimii
+Umple-mi fiinţa,
+Prezenţa Ta şi dragostea să-Ţi simt
+
+[s4]
+4
+Numai Tu cunoşti adânci dorinţe
+Numai Tu viaţă-mi dai când plâng
+Numai Tu mă-nalţi în bucurie
+Numai Tu m-auzi atunci când strig.
+
+[order]
+s1,s2,s3,s4

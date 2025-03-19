@@ -1,0 +1,31 @@
+[s1]
+Aşa cum sunt eu vin la Tine,
+Căci singur nu pot să mă-ndrept,
+Să duc o viaţă de mai bine.
+În rugă, harul Tău aştept.
+
+[r1]
+/: Aşa cum sunt,:/ la Tine vin.
+Dă-ne binecuvântarea Ta!
+Aşa cum sunt, la Tine vin!
+
+[s2]
+Aşa cum sunt, ştiu totul bine:
+Ai dat un dar nemuritor,
+Ţi-ai dat viaţa pentru mine,
+Pe când eram rătăcitor.
+
+[s3]
+Aşa cum sunt, plin de păcate,
+Mă-ntorc spre sângele-Ţi vărsat;
+Să mă albească, ştiu că poate
+Să fiu un om nou, nepătat.
+
+[s4]
+Aşa cum sunt, voi fi odată
+Primit prin porţi de mărgărit;
+În slava Ta nemărginită,
+Te voi vedea în infinit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

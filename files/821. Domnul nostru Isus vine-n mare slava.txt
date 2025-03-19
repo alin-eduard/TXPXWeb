@@ -1,0 +1,65 @@
+[s1]
+821.Fa
+1. Domnul nostru Isus
+Vine-n mare slavă
+Şi la fiecare să ne dea răsplata
+El vine din slavă cu multă mărire
+Să-şi ducă mireasa-n
+Scumpa moştenire.
+
+[r1]
+Cor:  Domnul va veni
+Mult nu va mai zăbovi
+Şi pe cei ce-s pregătiţi
+Îi va duce-n veşnicii.
+
+[s2]
+2. Fericiţi sunt sfinţii
+Care azi veghează
+Şi-a lor haine sfinte
+Albe le păstrează
+Şi ferice aceia
+Care plâng pe cale
+Şi aşteaptă-ntruna
+Corabia de salvare.
+
+[s3]
+3. Vai de acela care
+Haina şi-o pătează
+Vai de toţi aceia care nu veghează
+Vai ce întuneric, vai ce suferinţă
+Vor gusta toţi care
+Lasă a lor credinţă.
+
+[s4]
+4. În curând Păstorul
+Va despărţi turma
+Oile la dreapta, caprele la stânga
+Şi-n curând vor plânge
+Cei ce-au râs în lume
+De credinţa sfântă,
+De-a lui Isus nume.
+
+[s5]
+5. Te întreabă frate
+Cum stai cu credinţa?
+Şi tu soră scumpă unde-i umilinţa?
+Căci Isus ne cere roade de lumină
+Ca să fim ca sfinţii
+Curaţi fără vină.
+
+[s6]
+6. Gata eşti de nuntă? Isus te întreabă
+Biserică sfântă mireasa mea dragă
+Gata eşti de ceruri
+Pentru zbor în slavă?
+Sau rămâi în lume tristă şi bolnavă.
+
+[s7]
+7. Cere umilinţă haina cea mai albă Cere şi credinţă,
+Aripi pentru slavă
+Cere pocăinţă, medicament sfânt
+Cere şi iubire al nunţii veşmânt.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1

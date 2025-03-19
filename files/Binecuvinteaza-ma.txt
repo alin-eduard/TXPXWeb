@@ -1,0 +1,23 @@
+[s1]
+Sunt înşelaţi, Doamne, de Cer
+Mie sete de adevar
+Şi-mi este foame
+Mi-e foame, de iubire
+Sufletul meu a-nghiţit
+Atâta minciune, încât
+I s-a facut sete de păcat.
+
+[s2]
+/: Mă simt ca o frunză
+Într-o vale de lacrimi
+A cărei plutire o doare :/
+
+[s3]
+Doamne stropeşte-mă cu isop
+Curăţeşte-mi sufletul de păcat
+Azi s-a născut în mine
+Atâta voinţă Tu, Doamne,
+Binecuvintează-mă.
+
+[order]
+s1,s2,s3

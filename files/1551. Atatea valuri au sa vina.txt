@@ -1,0 +1,45 @@
+[s1]
+1551.
+1. Atâtea valuri au să vină
+Să te opreşti din drumul Meu
+/: Dar tu să nu priveşti la ele
+Să ţii strâns cuvântul Meu! :/
+
+[s2]
+2. Pe calea aceasta sunt ispite
+Şi valuri multe vor veni
+/: Dar biruinţa e la Mine
+Din calea Mea nu te clinti :/
+
+[s3]
+3.Eu vreau să vin şi-am vrut atâtea
+De atâtea ori să vin la voi
+/: Dar n-am găsit aşa unire
+Ca doi prieteni amândoi :/
+
+[s4]
+4. De ce primiţi voi îndoiala,
+Ca paşii tăi să dea-napoi?
+/: Tu vino cu credinţă astăzi
+Şi voi întări Eu inima :/
+
+[s5]
+5. Mai ai atâtea lacrimi încă
+Să verşi pe calea care mergi
+/: Dar nu uita că este cine
+Să ţi le şteargă-n veşnicii :/
+
+[s6]
+6. Nu-ntoarce rău şi răzbunare
+În inima ta să nu ai
+/: Blândeţea Mea în orice vreme
+Şi pacea Mea în inimă :/
+
+[s7]
+7. Vă voi conduce Eu pe drumul
+Pe care alţii n-au putut
+/: Dar ţine-te mai strâns de Mine
+Şi cheamă-Mă de azi mai mult :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

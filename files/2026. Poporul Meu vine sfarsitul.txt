@@ -1,0 +1,63 @@
+[s1]
+2026
+1. Poporul Meu vine sfârșitul
+Așa vorbește Duhul Sfânt
+Azi întărește-ți legământul
+Căci vei pleca de pe pământ
+Tu vei pleca pe nori de slavă
+Când trâmbița va răsuna
+Numai Isus va fi Acela
+Ce sus la Tatăl ne va lua.
+
+[s2]
+2. Dar până atunci popor iubit
+Tu pregătește-te mereu
+Păstrează-ți haina alb curată
+Și-n inimă cuvântul Meu
+Cuvântul Meu să-l ai cu tine
+În încercare și-n necaz
+Cu lacrimi să Mă chemi întruna
+Ce-ți vor brăzda al tău obraz.
+
+[s3]
+3. Înaintează prin credință
+Când suferința-ți va fi grea
+Căci numai Eu dau biruință
+Și-ți întăresc inima ta
+Tu inima s-o ai deschisă
+În ea să strângi al Meu cuvânt
+Când prigonit vei fi de oameni
+Tu să privești la cer cântând.
+
+[s4]
+4. Căci ajutor îți va veni
+În clipa când Mă vei chema
+Căci pentru tine am plătit
+Cu sânge sfânt pe Golgota
+Să nu te temi de încercare
+Să nu te temi orice-ar veni
+Încredete-n Acela care
+E Dumnezeu din veșnicii.
+
+[s5]
+5. Tu întărește-te-n credință
+Fii tare nu te clătina
+Când vânturi grele au să bată
+Atunci voi fi la dreapta ta
+Căci la porunca Mea se oprește
+Și valul și furtuna grea
+Căci cel ce răul îți dorește
+Ca praful îl voi spulbera.
+
+[s6]
+6.Căci pentru tine Mi-am dat viața
+Prin jertfă te-am răscumpărat
+Când sângele Îmi brăzda fața
+În dreptul tău am scris iertat
+Am scris iertat și mântuire
+Poporule de pe pământ
+Eu te voi duce-n veșnicie
+Ca să-mplinesc al Meu cuvânt.
+
+[order]
+s1,s2,s3,s4,s5,s6

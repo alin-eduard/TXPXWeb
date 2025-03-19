@@ -1,0 +1,37 @@
+[s1]
+Stiu singur de-as fi
+Nu as uita sa-mi umplu inima
+Sa simt caldura unui maine
+Stiu n-as avea nici un vis
+Si n-as cunoaste cand o stea pe cer
+S-ar naste si cand ar muri n-as sti
+Pentru mine traise ea
+Pentru mine-a stralucit
+
+[r1]
+N-ar fi un maine pentru mine
+Far de nadejde, fara Tine
+N-as putea sa traiesc nici o zi
+Nu-i nici o noapte, nici dimineata
+Fara ca viata ta sa-mi de-a viata
+Fara Tine in inima
+Nu pot sa traiesc nici o zi
+
+[s2]
+Stiu ca marea e-a Ta
+La fel si munti-n frumusetea lor
+Imi umple inima cu dor
+Stiu, de-as avea tot pamantul
+Cu bogatii de dincolo de gand
+Chiar implinindu-mi orice vis oricand
+Orice minune de-ar fi a mea
+Dar de n-ai fi tu in ea
+
+[s3]
+O, Doamne primesc ce-mi daruiesti
+Din Tine ma inspir
+O, Doamne traiesc, caci Tu traiesti
+Esti ceea ce respir, stiu ...
+
+[order]
+s1,r1,s2,s3,r1

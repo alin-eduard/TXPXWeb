@@ -1,0 +1,20 @@
+[s1]
+/:Măreţ eşti Dumnezeu
+Cu laude noi te onorăm :/
+/: Osana, binecuvântăm
+Binecuvântăm pe Salvatorul :/
+
+[s2]
+/: Voi binecuvânta
+Pe Domnu-n toată vremea :/
+/: Osana, binecuvântăm
+Binecuvântăm pe Salvatorul :/
+
+[s3]
+/: Veniţi şi voi cu noi
+Lăudaţi pe Domnul Isus :/
+/: Osana binecuvântăm
+Binecuvântăm pe Salvatorul :/
+
+[order]
+s1,s2,s3

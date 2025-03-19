@@ -1,0 +1,30 @@
+[s1]
+Isus Domnul astazi face chemare
+Celor ce inca nu sunt pocaiti;
+,,Veniti cu toti,’’ Isus Domnul va cheama
+,,Si viata vesnica o sa primiti.’’
+
+[r1]
+Isus e Calea si Adevarul,
+Isus e Viata ta si-a mea…
+Primeste-l astazi tu, pe Mesia,
+Sa intre mantuirea-n casa ta!
+De-acum ‘nainte, aduti aminte,
+pana inca nu-I tarziu…
+Isus e Domnul! El vrea ca omul
+S-ajunga cu Sine mantuit!
+
+[s2]
+Tu nu vezi cat e de scurta este viata
+Si trece ca si cum nu ar fi fost?
+Caci toate bogatiile din lume
+Cand ai murit, nu mai au nuci un rost.
+
+[s3]
+Este ziua ca sa vii la Domnul
+Pe genuncchi acum in Fata Sa.
+Spune-I Lui tot greul ce te-apasa,
+Caci numai El iti da mantuirea!
+
+[order]
+s1,r1,s2,r1,s3,r1

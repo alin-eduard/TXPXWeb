@@ -1,0 +1,24 @@
+[r1]
+Mi-e dor de-o zi, o zi cand toamna
+Nu vor mai cadea
+nici frunze si nici flori
+E ziua noastra, e o-ntalnire
+Cu Acel ce-n viata noi L-am urmat
+
+[s1]
+Un dor m-apasa si zile grele
+As vrea Isus atat de mult as vrea
+Sa Te-ntalnesc si sa-Ti
+spun de cate ori
+Au fost tristeti ce le-am stiut
+doar noi doi
+
+[s2]
+Va trece-un an si-or trece altii
+Dar nu uita cand asteptarea-i grea
+El se va-ntoarce,
+si-atunci pentru noi
+Va fi iar vara cu soare fara nori
+
+[order]
+r1,s1,r1,s2,r1

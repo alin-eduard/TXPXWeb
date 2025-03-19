@@ -1,0 +1,30 @@
+[s1]
+Durerea ce ti-e-n suflet
+O porti de mult plangand
+Nu-i nimeni s-o-nteleaga
+Nu poti s-o scoti din gand
+« Dar nu-s Eu oare Acel ce-o pot lua
+Rabdarea de ti-e moarta asculta Vocea Mea.
+
+[r1]
+« Voi veni, voi veni n-am să-ngăduiesc să piară
+Cel neprihănit căci Eu voi veni, voi veni,
+Aminteşte-ţi cum pe cruce
+Te-am săpat în Trupul Meu
+
+[s2]
+Stiu cat de greu e sa fii umilit
+Cand raii-ţi râd în faţă
+Când fratii te-au lovit
+Scuipat şi-mpins de-oparte
+Ajuns chiar rastignit
+Lucrarea nu mi-e gata
+Dar din nou azi iti promit
+
+[s3]
+Cei ce rămân în braţul Meu
+Prin Duhul Meu vor trăi
+În bezna nopţii ei vor birui.
+
+[order]
+s1,r1,s2,r1,s3

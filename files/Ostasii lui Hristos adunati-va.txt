@@ -1,0 +1,42 @@
+[s1]
+1
+Ostasi ai Domnului Isus,
+Ce crucea Lui, ca steag v-ati pus,
+/:Sa stiti ca-n lumea asta, voi,
+Purtati un lung si greu razboi:
+Razboiul lui Isus!:
+
+[s2]
+2
+La lupta voi sunteti chemati,
+si partea voastra-i sa luptati.
+/:Sa biruiti e-al vostru tel,
+În fruntea luptei merge El;
+Sa nu descurajati!:/
+
+[s3]
+3
+'Nainte, deci, prin vânt si ger,
+Prin suferinte si dureri!
+/:Iar plata, pentru ca luptati,
+Pe-acest pamânt sa n-asteptati,
+Caci multa este-n cer!:/
+
+[s4]
+4
+Iar voi sa n-asteptati sa fiti,
+De lumea asta mai iubiti!
+/:O, n-asteptasi, ca-i în zadar!
+Isus a suferit amar...
+Si voi sa suferisi!...:/
+
+[s5]
+5
+Sa nu doriti sa câstigati,
+Cununa, fara sa luptati,
+/:Caci nu puteti sa dobânditi,
+Cununa fara suferinti...
+O, nici sa nu-ncercati!...:/
+
+[order]
+s1,s2,s3,s4,s5

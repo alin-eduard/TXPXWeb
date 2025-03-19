@@ -1,0 +1,27 @@
+[s1]
+Atâta de mult eu eram înfricat
+Fiind apăsat de păcat!
+Puternic voiam ca să fiu vindecat
+Dar oamenii n-au ajutat.
+
+[s2]
+Atunci am venit la Isus şi-am aflat
+Căci El pentru mine-a răbdat
+Cu lacrimi în braţul Său sfînt
+m-am predat
+Şi pace din cer El mi-a dat.
+
+[s3]
+Mi-a spus cum pe cruce în chin a murit
+Pentru ca să fiu mîntuit
+O, rabdă şi-aşteaptă, ca să poţi fi primit
+De-Acela ce atat te-a iubit.
+
+[s4]
+Ajunge cat chin eu am suferit
+Pe alţii eu vreau să îi scutesc.
+De-acea salvare de cand am primit
+La alţii cu drag o vestesc.
+
+[order]
+s1,s2,s3,s4

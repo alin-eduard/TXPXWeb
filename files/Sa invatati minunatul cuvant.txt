@@ -1,0 +1,26 @@
+[s1]
+Să învăţaţi minunatul cuvânt
+Despre iubirea de sus,
+Să­l răspândiţi ne­ncetat pe pământ:
+„Sunt mântuit prin Isus!“
+
+[r1]
+Sunt mântuit prin Isus,
+Sunt mântuit prin Isus,
+Eu viaţă veşnică voi avea,
+Sunt mântuit prin Isus!
+
+[s2]
+Când de păcate veţi fi apăsaţi
+Şi chinul e de nespus,
+Ziceţi atunci şi nicicând, nu uitaţi:
+„Sunt mântuit prin Isus!“
+
+[s3]
+Dacă ispitele lumii de­acum
+Cel rău în drum vi le­a pus,
+Încrezători să rostiţi şi atunci:
+„Sunt mântuit prin Isus!“
+
+[order]
+s1,r1,s2,r1,s3,r1

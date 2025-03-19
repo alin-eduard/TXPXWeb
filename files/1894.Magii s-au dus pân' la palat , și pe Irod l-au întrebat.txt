@@ -1,0 +1,58 @@
+[s1]
+1894
+1. Magii s-au dus pân' la palat
+Şi pe Irod l-au întrebat
+Unde este Noul Născut?
+Căci noi steaua i-am văzut.
+Noi am zărit pe cer o stea
+Care ne călăuzea
+Până la Ierusalim
+Şi acum am vrea să știm.
+
+[r1]
+/:La Betleem , la Betleem
+Să mergem dar să-L vedem pe El
+La Betleem , la Betleem
+S-a născut Emanuel.:/
+
+[s2]
+2. Când magii au adormit
+Printr-un înger le-a vorbit
+Dumnezeu îi înștiința
+Să-i ferească de păcat.
+Căci Irod va-ntins un laț
+Pe la el să nu mai dați
+El vrea moarte vrea război
+Când vă-ntoarceți înapoi.
+
+[r2]
+/:La Betleem , la Betleem
+Să mergem dar să-L vedem pe El
+El al nostru Voievod
+E mai mare ca Irod.:/
+
+[s3]
+3. Și plecând pe un alt drum
+Magii către-a lor ținut
+Ei sunt fericiți acum
+Căci pe Domnul L-au văzut.
+Dar Irod înfuriat
+Pe Hristos L-a căutat
+Printre cete de copii
+Poate tot Îl va găsi.
+
+[s4]
+4. Dar în frunte de norod
+Se ivi un alt Irod şi Caiafa și Pilat
+Care iar L-au căutat.
+Printre ucenicii Săi
+Cetele de farisei
+La Golgota ei L-au dus
+Răstignindu-L pe Isus.
+Atunci Tatăl minunat
+Dintre morți L-a înviat
+Căci al nostru Voievod
+E mai mare ca Irod.
+
+[order]
+s1,r1,s2,r2,s3,r1,s4,r2

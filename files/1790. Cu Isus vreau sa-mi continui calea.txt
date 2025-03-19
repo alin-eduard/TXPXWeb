@@ -1,0 +1,36 @@
+[s1]
+1790.Fa
+1. Cu Isus vreau să-mi continui calea
+El să-mi fie-n veci nedespărţit
+Numai El îmi poate stinge jalea
+El mă poate face fericit
+Cor:	/:Lângă Domnul
+Veşnic voi rămâne
+Cu El vreau să fiu aicea jos
+Ţine-mă, pe veci de veci, Stăpâne
+Lângă Tine, tare, credincios:/
+
+[s2]
+2. Obosit când sunt, El m-odihneşte
+Iar în lupta grea îmi este scut
+La răspântii, El mă sfătuieşte
+Şi-n nevoi mi-e singurul avut
+Cor:	/:Lângă Domnul
+Veşnic voi rămâne
+Cu El vreau să fiu aicea jos
+Ţine-mă, pe veci de veci, Stăpâne
+Lângă Tine, tare, credincios:/
+
+[s3]
+3. Vreau cu El să merg tot înainte
+Şi prin El să fiu oricând voios
+Împlinind cereştile cuvinte
+Ca să mă afle-n toate credincios
+Cor:	/:Lângă Domnul
+Veşnic voi rămâne
+Cu El vreau să fiu aicea jos
+Ţine-mă, pe veci de veci, Stăpâne
+Lângă Tine, tare, credincios:/
+
+[order]
+s1,s2,s3

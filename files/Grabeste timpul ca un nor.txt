@@ -1,0 +1,26 @@
+[s1]
+Grăbeşte timpul ca un nor,
+De nimeni nu-i oprit.
+Şi anii tăi se duc în zbor,
+Se duc în infinit.
+
+[r1]
+/: Curând mai trece viaţa ta
+Şi ziua ta s-a scurs.
+Deci, vino azi în plină zi
+La crucea lui Isus. :/
+
+[s2]
+Isus aşteaptă răbdător,
+De El tu eşti iubit.
+Nu lua păcatu-aşa uşor,
+Căci El l-a ispăşit.
+
+[s3]
+Isus îţi e Mântuitor,
+Pe cruce a-nsângerat.
+Tu crede-n El ca Salvator
+Şi pace ai aflat.
+
+[order]
+s1,r1,s2,r1,s3,r1

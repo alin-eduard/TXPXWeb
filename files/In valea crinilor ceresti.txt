@@ -1,0 +1,39 @@
+[s1]
+In valea crinilor ceresti
+Ce raspandesc parfumul,
+Iar raul cel dumnezeiesc
+Nu-si schimba nicicand drumul
+
+[r1]
+/: Acolo-i tara mea :/ (si-a ta)
+Si cum doresc s-ajung in ea,
+In tara dintre rauri!
+Si cum doresc s-ajung in ea,
+Acolo sus in ceruri!...
+
+[s2]
+Acolo curge-un rau bogat
+Cu apa vietii lina,
+Iar pomul vietii minunat
+Da rod in orice luna.
+
+[s3]
+Aleile acelor strazi
+In aur sunt pavate,
+Iar portile de la intrari
+Din pietre scumpe-s toate.
+
+[s4]
+Locuitorii-acelei tari
+Poarta pe cap coroana,
+Caci au iesit biruitori,
+Prin lupta si prigoana.
+
+[s5]
+Imparatu-mparatilor
+Domneste-n sfanta tara.
+Acolo nu-s dureri, nici chin,
+Ci-i vesnic primavara.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

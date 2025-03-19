@@ -1,0 +1,21 @@
+[s1]
+Dintre tot ce-i mai frumos în viaţă,
+Dintre tot ce cânta gândul meu.
+Te-aleg pe tine, Te-aleg pe Tine Dumnezeu.
+
+[r1]
+/:Numai pe Tine:/ (x3) Te aleg,
+Veşnicia cu Tine vreau să o petrec.
+
+[s2]
+Dintre vocile ce mă cheamă-ntruna,
+Şi îmi spun că drumul meu e greu.
+Te-aleg pe Tine, Te-aleg pe Tine Dumnezeu.
+
+[s3]
+Lumea-ntreagă price mi-ar oferi,
+N-am s-aleg ci am să spun mereu:
+„Te-aleg pe Tine, Te-aleg pe Tine Dumnezeu!”
+
+[order]
+s1,r1,s2,r1,s3,r1

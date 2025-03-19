@@ -1,0 +1,32 @@
+[s1]
+Nu respinge mântuirea
+Doar Isus e fericirea
+Cel din Cer s-a coborât
+Suflete, căci te-a iubit.
+
+[r1]
+Uite cum mai zboară anii
+Vin-o acum la el sărmane
+Nu vezi viaţa cum se duce
+Vino chiar acum la Cruce
+
+[s2]
+Şi pe Cruce pentru Tine
+A răbdat dispreţ, ruşine
+A răbdat de dragul tău
+Hai primeşte harul Său.
+
+[s3]
+Nu-I întoarce spatele
+Vino dăi păcatele
+Nu-ţi închide inima
+Las’ să intre dragostea.
+
+[s4]
+Azi vei fi eliberat
+De povară, de păcat
+Vei fi liber, bucuros
+Numai prin Isus Hristos
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

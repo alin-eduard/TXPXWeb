@@ -1,0 +1,29 @@
+[s1]
+Călător eşti suflet, singur rătăceşti
+Domnu-n’tinde mâna, să te dăruieşti
+Las-a Lui lumină să îţi umple viaţa ta
+Din păcat şi moarte,
+Domnul vrea ca să te ia
+
+[r1]
+Uită-te mereu la Domnul,
+Lângă El să mergi pe drum
+Nu fi trist, căci drumul crucii
+Va sfârşi în paradis…
+
+[s2]
+Paşii tăi pe cale, lasă urme-adânci
+Ai poveri pe umeri, unde să le-arunci
+Lasă-le la Cruce dă-i povara ta
+Isus e acolo vrea ca să Le ia.
+
+[s3]
+Depăşeşti dar singur,
+unde vrei s-ajungi
+Tu nu vezi că-n faţă-ţi,
+stau pustiu şi stângi
+Isus lângă tine vrea să vină iar
+Îţi întinde mâna ce-a-ntins pe calvar
+
+[order]
+s1,r1,s2,r1,s3,r1

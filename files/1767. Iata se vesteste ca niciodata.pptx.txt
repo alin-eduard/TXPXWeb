@@ -1,0 +1,34 @@
+[s1]
+1767.      Fa m
+1. Iată se vesteşte ca niciodată
+Evanghelia în lumea toată
+/:Iar cine crede, o împlineşte
+Se botează-n apă,
+Spre cer porneşte:/
+Cor:	/:Evanghelia, schimbă inima
+Va schimba şi viaţa ta
+Evanghelia viaţa mi-a schimbat
+Veşnicia-n rai mi-a dat:/
+
+[s2]
+2. Evanghelia, ea ne arată
+Care este calea adevărată
+/:Ea te convinge că ai păcate
+Îţi dă credinţa să scapi de moarte:/
+Cor:	/:Evanghelia, schimbă inima
+Va schimba şi viaţa ta
+Evanghelia viaţa mi-a schimbat
+Veşnicia-n rai mi-a dat:/
+
+[s3]
+3. Evanghelia îţi dă lumină
+Să-ncepi o viaţă nouă, senină
+/:Să laşi păcatul ea te învaţă
+Să ieşi din noapte spre dimineaţă:/
+Cor:	/:Evanghelia, schimbă inima
+Va schimba şi viaţa ta
+Evanghelia viaţa mi-a schimbat
+Veşnicia-n rai mi-a dat:/
+
+[order]
+s1,s2,s3

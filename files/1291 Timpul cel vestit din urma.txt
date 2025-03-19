@@ -1,0 +1,58 @@
+[s1]
+1291.
+Timpul cel vestit din urmă
+Astăzi s-a-mplinit
+Când cuvântul profeţiei
+Tot s-a împlinit
+/ : C-au să vină vremuri grele
+Pe acest pământ
+Şi-o răceală foarte mare
+În poporul Sfânt : /
+1.
+
+[s2]
+Vor veni în turma voastră
+Mulţi învăţători
+Ce vor înşela pe unii
+Lesne crezători
+/ : Voi rămâneţi totdeauna
+La al meu cuvânt
+Cum va învăţat Scriptura
+Şi cu Duhul Sfânt : /
+2.
+
+[s3]
+Vor veni în turma voastră
+Mulţi lupi răpitori
+Vor crea panică-n turmă
+Rănind multe oi
+/ : Voi fiţi treji întotdeauna
+Şi mereu vegheaţi
+Căci de Mine pretutindeni
+Veţi fi apăraţi : /
+3.
+
+[s4]
+Vor veni în turma voastră
+Şi mulţi vânzători
+Ce vor duce multă pâră
+De fraţi şi surori
+/ : Nu vă răzbunaţi voi singuri
+Scumpii mei copii
+Ci iubiţii precum pe Iuda
+Şi Eu l-am iubit : /
+4.
+
+[s5]
+Şi când apăsarea voastră
+Va fi tot mai grea
+Voi lua la Mine-acasă
+Porumbiţa Mea
+/ : Veţi uita pe totdeauna
+Ce-a fost pe pământ
+Vă veţi bucura întruna
+Sus în Duhul Sfânt : /
+5.
+
+[order]
+s1,s2,s3,s4,s5

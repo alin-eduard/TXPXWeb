@@ -1,0 +1,51 @@
+[s1]
+1760.
+1. Nu s-a dat nicicând sub soare
+Un alt Nume mai frumos
+Decât unul Sfânt şi Mare
+Numele Isus Hristos
+În nimeni nu-I mântuire
+Căci nu-I nume mai presus
+Pentru-ntreaga omenire
+Decât Numele Isus
+
+[s2]
+/:Acest Nume Sfânt şi Mare
+Minunat şi glorios
+Acest Nume I-o splendoare
+Numele Isus Hristos:/
+
+[s3]
+2. În acest Nume de slavă
+Se înalţă rugăciuni
+Şi când Duhul Sfânt coboară
+Se fac semne şi minuni
+Pentru Numele Lui veşnic
+Se înalţă-n limbi cântări
+Şi când cerul se deschide
+Se fac chiar şi vindecări
+
+[s4]
+/:Acest  Nume I-o putere
+Pentru cei impovăraţi
+Acest Nume-I mângâiere
+Pentru cei nemângâiaţi:/
+
+[s5]
+3. În acest Nume se pleacă
+Cei sărmani şi necăjiţi
+Cei ce plâng şi n-au pe nimeni
+Cei săraci şi părăsiţi
+Acest Nume e iubire
+Pentru cei batjocoriţi
+E un han de poposire
+Pentru toţi cei obosiţi
+
+[s6]
+/:Acest Nume Sfânt şi Mare
+Nu e altul mai presus
+Este har şi îndurare
+Nume drag şi scump Isus:/
+
+[order]
+s1,s2,s3,s4,s5,s6

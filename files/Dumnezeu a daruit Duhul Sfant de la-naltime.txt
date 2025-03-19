@@ -1,0 +1,38 @@
+[s1]
+Dumnezeu a dăruit
+Duhul Sfînt de la-nălţime
+Cum profeţii au vestit
+toate-acestea din vechime.
+
+[r1]
+Şi veţi scoate cu bucurie
+Din izvoarele mîntuirii
+Apa sfîntă, apa cea vie
+Apa fericirii !
+
+[s2]
+Şi Isaia şi Ioel despre
+ploaia cea tîrzie
+Ei au prorocit la fel,
+despre sfînta apă vie.
+
+[s3]
+Tinerii vor prorocii,
+cei bătrîni vor avea vise.
+Duhul Sfînt cînd va veni,
+va-mplini cele promise.
+
+[s4]
+Fiul lui Avram avea
+o fîntînă ca moşie
+Care o simboliza pe acea
+cu apă vie.
+
+[s5]
+Cine crede în Isus,
+va avea în piept izvoare
+Care vor ţîşni în sus,
+în viaţa viitoare !
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

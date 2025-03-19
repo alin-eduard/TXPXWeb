@@ -1,0 +1,22 @@
+[s1]
+Azi eşti chemat ca să primeşti
+Oferta de salvare
+Care Isus a pregătit
+Prin marea-i îndurare.
+/: Încheie azi un legământ
+Cu Cel ce pentru tine
+Pe cruce a fost răstignit
+Ca să-ţi dea mântuire. :/
+
+[s2]
+Azi mai e timp spre a găsi,
+Jos în a morţii vale,
+Ale lui Isus bogăţii
+Ce pot să-ţi dea salvare.
+/: Încheie azi un legământ
+Cu Cel ce pentru tine
+Pe cruce a fost răstignit
+Ca să-ţi dea mântuire. :/
+
+[order]
+s1,s2

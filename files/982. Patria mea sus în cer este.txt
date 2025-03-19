@@ -1,0 +1,35 @@
+[s1]
+982.
+1. Patria mea sus în cer este
+Unde întristare nu este
+Unde oastea nenumărată
+Domnului aduce laudă.
+Cor: /: În cer sus, în cer sus
+Patria mea este în cer sus :/
+
+[s2]
+2. Mulţi iubiţi ai mei sunt în cer sus
+Unde odată şi eu vreau s-ajung
+Cu ei întruna voi locui
+Unde soarele-n veci va luci.
+Cor:	/: În cer sus, în cer sus
+Patria mea este în cer sus :/
+
+[s3]
+3. Odată în cer voi locui
+Până atunci aici m-oi veseli
+O, Doamne la Tine condu-mă
+Unde Tu eşti, loc mie îmi dă.
+Cor:	/: În cer sus, în cer sus
+Patria mea este în cer sus :/
+
+[s4]
+4. În curând eu voi fi acolo sus
+Aceasta o cer de la Isus
+Ca şi ai mei acolo să fie
+În cer sus unde Tu eşti Doamne.
+Cor:	/: În cer sus, în cer sus
+Patria mea este în cer sus :/
+
+[order]
+s1,s2,s3,s4

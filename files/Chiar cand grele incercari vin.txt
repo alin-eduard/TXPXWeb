@@ -1,0 +1,38 @@
+[s1]
+Chiar cînd grele încercări vin
+Şi cînd drumul este greu
+Cînd duşmani mă înconjoară
+Eşti, Isus, minunat şi îndurat.
+
+[r1]
+Isus, minunat şi îndurat eşti Tu, Isus!
+Minunat şi îndurat eşti Tu, Isus!
+Minunat şi îndurat eşti Tu, Isus!
+Minunat şi îndurat eşti Tu!
+
+[s2]
+Cînd greşeala mă apasă
+Şi cînd fug să nu mă vezi
+Tot uitînd că Tu în lume
+Eşti Isus, minunat şi îndurat.
+
+[s3]
+Doar iubind la fel ca Isus
+Tot aşa pot şi eu
+Ca să iert cînd El mă iartă
+Şi să-I cînt, că-s mîntuit.
+
+[s4]
+Dacă viaţa mea şi gîndul
+Nu sînt după voia Sa
+Vin cu inima zdrobită
+La Isus, minunat şi îndurat.
+
+[s5]
+Sus în cerul plin de slavă
+Sus în corul sfinţilor
+Voi fi în eterna viaţă
+Cu Isus, minunat şi îndurat
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,20 @@
+[r1]
+O, Doamne, stau si mă gândesc
+Cum am putut eu să trăiesc
+Făr’ să-nţeleg că mă iubeşti
+Şi că eşti Tatăl meu
+
+[r2]
+Acum eu sunt copilul Tău,
+Fac parte din familia Ta,
+Şi singur eu nu voi mai fi
+Căci totdeauna eşti cu mine.
+
+[r3]
+/: Îţi voi cânta slavă,
+Îţi voi cânta slavă,
+Îţi voi cânta slavă,
+În veci de veci. :/
+
+[order]
+r1,r2,r3,r1,r2,r3

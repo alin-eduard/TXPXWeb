@@ -1,0 +1,37 @@
+[s1]
+În Cuvânt Te-am aflat,
+Salvator minunat,
+Stânca mea, m-ai zdrobit
+Prin atâta iubit!
+Pe Tine-am clădit
+Crezul meu de granit
+Şi iertare mi-ai dat,
+Am primit ce-am sperat.
+
+[s2]
+O, ce bun adăpost
+In dureri Tu mi-ai fost
+Ca o aripă-n zbor
+M-ai purtat pe sub nor!
+Din mult lăcrimat
+Harul Tău m-a salvat
+Şi pe buze mi-ai pus cântec nou, scump Isus...
+
+[s3]
+Prin cuptorul aprins
+M-ai trecut şi-am învins
+Zgura mi-ai depărtat,
+Sânge sfânt m-a spălat;
+În aur curat, în dreptate-mbrăcat, Braţul Tău m-a primit
+Fiindcă-atât m-ai iubit!
+
+[s4]
+În Isus m-odihnesc,
+Jertfa Sa când privesc,
+Eliberat pe deplin
+Sunt scăpat de-al meu chin;
+Oricine-n Isus se încrede supus
+Peste tot ce-a dorit va primi însutit!
+
+[order]
+s1,s2,s3,s4

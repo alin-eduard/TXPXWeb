@@ -1,0 +1,24 @@
+[s1]
+Stau şi mă-ntreb dacă eu sînt lumină
+În locul unde Tu m-ai aşezat.
+Cît am lucrat, Doamne, eu pentru Tine
+Cu talantul pe care mi l-ai dat ?
+
+[r1]
+Mărginit e timpul vieţii
+Ce-l trăieşti aici sub Soare
+Nu ţi-l risipi zadarnic
+Pentru lucruri de nimic!
+E cuvîntul care spune:
+<Numai dragostea rămîne.>
+Cel ce umblă în lumină
+Va trăi şi-n veşnicii.
+
+[s2]
+Doamne, Tu ştii că am pus în lucrare
+Voinţa, puteri ce Tu mi-ai dat
+La păcătoşi eu le-am spus despre Tine
+Să se întoarcă din păcat.
+
+[order]
+s1,r1,s2,r1

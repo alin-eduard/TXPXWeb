@@ -1,0 +1,29 @@
+[s1]
+Nu-mi va fi nicicând ruşine, Doamne
+Să spun că fără Tine sunt.
+Un praf pe cumpăna fântânii, Doamne
+Şi doar prin Tine sunt ce sunt.
+Viaţa mea ţi-o dau, Ţie mă predau
+Cu-ntreagă fiinţa mea Te voi lăuda.
+
+[r1]
+Doar prin Tine sunt ce sunt
+Te iubesc mereu mai mult
+Tie Doamne-ţi voi canta
+Cât viaţă voi avea.
+Inima ţie ţi-o dau
+Ţie Doamne mă predau
+Vin smerit cu-ntreagă viata mea
+Şi Ţie-ţi voi canta.
+
+[s2]
+Cuvântul Tau mie alinare, Doamne
+La vreme grea mi-e adapost.
+Tu mă ridici pe stanca tare, Doamne
+Ce pentru mine e Hristos.
+În Tine mă încred şi-atunci
+Când nu-nteleg
+Dar ştiu că mâna Ta, mă va purta.
+
+[order]
+s1,r1,s2,r1

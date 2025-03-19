@@ -1,0 +1,33 @@
+[s1]
+1469
+Nu vă lăsaţi cuprinşi de-ngrijorare
+În lumea veacului de-acum
+Lumina voastră călăuzitoare
+Nu se va stinge nicidecum
+Căci încercarea este grea şi mare
+Cuptorul e de şapte ani încins
+Dar nu vor arde sforile cu care
+Trupul acesta de pământ e prins
+
+[s2]
+3.  Viaţa de credinţă e o luptă
+Continuă dârză şi grea
+Dar răsplătirea voastră va fi mare
+Dacă-n cuvânt veţi rămânea
+4.   E greu că n-aveţi de luptat cu oameni
+Ci mii de duhuri vă sunt azi duşmani
+Ca Filip voi veţi câştiga pe famen
+Ca Pavel şi ca Sila pe romani
+
+[s3]
+5.  Dar cel mai greu vă va fi-n luptă
+Ce aveţi de câştigat în voi
+Şi nu veţi birui până când viaţa
+N-o veţi privi ca pe-un gunoi
+Şi atunci când veţi fi biruit firea
+Din trupul acesta de pământ
+În voi va străluci desăvârşit iubirea
+Şi veţi fi plini mereu de Duhul Sfânt
+
+[order]
+s1,s2,s3

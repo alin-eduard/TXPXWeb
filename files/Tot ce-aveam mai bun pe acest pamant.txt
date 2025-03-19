@@ -1,0 +1,29 @@
+[s1]
+Tot ce-aveam mai
+bun pe acest pamant
+Era doar un fum purtat de vant
+Toate le-am pierdut,
+dar nu-mi pare rau
+Ca te-am cunoscut pe Tine
+
+[r1]
+Sa te am pe Tine, Isus
+Nimic nu-i mai maret
+Tu esti bun cel mai bun
+Tu esti bucuria mea, si eu Te iubesc
+
+[s2]
+Vreau sa Te cunosc tot mai mult Isus
+Sa ma pot numi copil al Tau
+Sa primesc in dar
+tot ce-as vrea sa am
+Sa traiesc prin har iubirea Ta.
+
+[s3]
+Vin acum smerit la Crucea TA
+De jertfa grea sa-mi amintesc
+Vreau sa mor si eu prin moartea Ta
+Si-n via T-apoi vreau sa traiesc.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,37 @@
+[s1]
+Domnul Isus a pregătit
+O zi când va veni
+La sfintii Lui de pe pământ
+Ce-L vor reîntâlni
+Căci vor fi dusi de Duhul Sfânt
+Mai sus de zări, mai sus
+Vedea-vor asteptatul lor
+Pe Mirele Isus.
+
+[r1]
+/: Isus Isus noi Te asteptăm
+Vino Doamne mai degrabă
+Noi azi Te chemăm. :/
+
+[s2]
+Căci dorul meu nespus din piept
+Suspină tot mereu
+În fiecare zi Te-astept
+Să vii o Domnul meu
+Să intri iar în casa mea
+Să simtă inima
+Să-mi dai Tu iarăsi linistea
+Pace din pacea Ta.
+
+[s3]
+Tu stii o Doamne c-aici jos
+Noi suntem în nevoi
+Îti cerem Doamne ajutoru-n
+Lupta cu cel rău
+Să ducem steagul tot mai sus
+Chiar dacă iadu-ntreg
+În contra noastră s-ar porni
+Cu Tin’ vom birui.
+
+[order]
+s1,r1,s2,r1,s3,r1

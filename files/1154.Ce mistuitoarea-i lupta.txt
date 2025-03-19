@@ -1,0 +1,53 @@
+[s1]
+1154.
+1.         Ce mistuitoare-i lupta
+Ce se dă în mine
+Ce adânc mă doare rana
+Dorului de Tine
+Plâng în ochi şi-n glas Isuse
+Dorul după Tine.
+
+[s2]
+2.       Zilnic îmi frământ în lacrimi
+Pâinea mea amară
+Şi adorm în flăcări gândul
+În fiecare seară
+Ars de plâns adorm în lacrimi
+În fiecare seară.
+3.       O de-aş fi în vârf de munte
+Numai eu cu tine
+Sau în larg de ape multe
+Nimeni nu-i cu mine
+Să nu fie să n-audă
+Nimeni lângă mine.
+
+[s3]
+4.      Te-aş striga cu-ntregul suflet
+Dorul şi iubirea
+Care mistuie Isuse
+Viaţa şi simţirea
+Şi-mi îngroapă fără vreme
+Viaţa şi simţirea
+5.      Dar nu pot să fiu în munte
+Nici în larg de apă
+Sunt legat de această viaţă
+Dorul tău mă-ngroapă
+Pentru-o clipă de iubire
+Veşnicia toată.
+
+[s4]
+6.      Şi azi cu ultima suflare
+Drag şi scumpe Mire
+Îmi fac dorul unul singur
+Cântec de iubire
+Cântec de viaţă arsă
+Cântec de iubire.
+7.      Vreau să trec cu El pe
+Apa morţii lată
+Să ţi-l cânt apoi în ceruri
+Veşnicia toată
+Pentr-o clipă de iubire
+Veşnicia toată.                                      Amin
+
+[order]
+s1,s2,s3,s4

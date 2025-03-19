@@ -1,0 +1,39 @@
+[s1]
+Cum e Isus în iubire
+Vreau să fiu şi eu la fel
+Să iubesc pe orişicine
+Cum ne vom iubi şi-n cer.
+Cum ne-a dat Isus povaţă
+Să iubim şi noi întîi
+Să-i privim cu drag în faţă
+Pe cei răi.
+
+[r1]
+/: Cum e Isus :/
+Cum e Isus vreau să fiu şi eu la fel
+Fiindcă El de la-nceput
+Prin iubire ne-a făcut
+Cum e Isus vreau să fiu şi eu la fel.
+
+[s2]
+Era bun şi cu răbdare
+Dar şi bun Învăţător
+Răspundea la fiecare
+Întrebare din popor.
+Pretutindeni, spre oricine
+Alerga neobosit
+A venit şi înspre mine
+M-a primit.
+
+[s3]
+Cum eşti Tu cu Tatăl una
+Şi cu Duhul Sfînt la fel
+Rămai, Doamne, şi cu mine
+Pentru veci, Emanuel.
+Ca în ziua care vine
+Să mă recunoşti ca fiu
+Transformat pentru vecie
+În duh viu.
+
+[order]
+s1,r1,s2,r1,s3,r1

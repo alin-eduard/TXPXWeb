@@ -1,0 +1,36 @@
+[s1]
+Zorii dimineții îmi zâmbesc iar
+Liniștea imi cuprinde
+toată ființa mea
+Arde-n mine dorul Doamne
+iar să îți vorbesc
+Să-Ți arăt și azi cât Te iubesc
+
+[s2]
+Numai Tu, Doamne-mi cunosti inima
+Sunt fericit doar cand pazesc legea Ta
+In ascultare de Tine stau Domnul meu
+
+[s3]
+Numai Tu, Doamne-mi cunosti inima
+Sunt fericit doar cand pazesc legea Ta
+In ascultare de Tine vreau Domnul meu
+Vreau vesnic sa stau
+
+[s4]
+Chipul lumi-ncearca
+sa imi schimbe inima
+Dar eu strang Cuvantul Tau in ea
+Ca pe o comoara
+ce nespus o pretuiesc
+Legea Ta, o, Doamne o iubesc
+
+[s5]
+Cand se lasa noaptea
+de lume ma ascund
+Tie Doamne vreau sa iti raspund
+Oare ce cuvinte pot descrie ce simt eu
+Cand vorbesc cu Tine Dumnezeu
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,37 @@
+[s1]
+Când un sărac, în haine rupte,
+La uşa ta, va aştepta,
+/: Dă, frate, piatra la o parte,
+Puţinul tău cu el împarte;
+Tu dă-i cât poţi, dar nu-l lăsa! :/
+
+[s2]
+Când, pe al tău duşman de moarte,
+Îl vei vedea în drum căzut,
+/: Dă, frate, piatra la o parte,
+Şi pe duşmanul tău de moarte
+Ajută-l, când îl vezi căzut! :/
+
+[s3]
+Sărmanul când, bătut de soartă,
+Se va opri la uşa ta,
+/: Dă, frate, piatra la o parte
+Şi-aceluia bătut de soartă
+Tu dă-i ce poţi, dar nu-l lăsa! :/
+
+[s4]
+Când cel ce ura îl desparte
+Te va lovi răzbunător,
+/: Dă, frate, piatra la o parte!
+La cel ce ura îl desparte
+Întinde-i mâna, iubitor! :/
+
+[s5]
+Pribeagul care, de departe,
+Se va opri la uşa ta
+/: Dă, frate, piatra la o parte
+Şi la străinul de departe,
+Dă-i pâinea şi cămaşa ta! :/
+
+[order]
+s1,s2,s3,s4,s5

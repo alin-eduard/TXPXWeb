@@ -1,0 +1,53 @@
+[s1]
+1430.   Re m
+Plânge cu amar Petru în grădină
+Plânge şi suspină plânge neîncetat
+Nemângâiat plecat până-n ţărână
+Căci de-al său Domn chiar el s-a lepădat
+Cor  /:M-am lepădat:/ de Domnul
+Ce să mă fac se-ntreabă suspinând
+/:M-am lepădat:/ de Domnul
+Şi l-am trădat pe Mielul cel mai blând
+
+[s2]
+Cum aş putea să-L mai privesc în faţă
+Când ca un laş atunci L-am lăsat
+Privirea Lui şi faţa-ndurerată
+Ah n-aş putea să uit vreodată
+Cor  /:M-am lepădat:/ de Domnul
+Ce să mă fac se-ntreabă suspinând
+/:M-am lepădat:/ de Domnul
+Şi l-am trădat pe Mielul cel mai blând
+
+[s3]
+Mă voi întoarce mă voi umili
+Şi-l voi ruga să ierte vina mea
+Ştiu că e bun şi nu m-a izgoni
+Mă va primi şi iar mă va ierta.
+Cor  /:M-am lepădat:/ de Domnul
+Ce să mă fac se-ntreabă suspinând
+/:M-am lepădat:/ de Domnul
+Şi l-am trădat pe Mielul cel mai blând
+
+[s4]
+Deodată o mână şi o privire blândă
+De la pământ cu drag l-a ridicat
+Domnul îl cheamă dar ce să răspundă
+Hai vino Petre de multe te-am iertat
+Cor  /:M-am lepădat:/ de Domnul
+Ce să mă fac se-ntreabă suspinând
+/:M-am lepădat:/ de Domnul
+Şi l-am trădat pe Mielul cel mai blând
+
+[s5]
+Haidem să mergem până în Galileea
+La fraţii noştri care au aşteptat
+Să ştie toţi că pentru vecie
+Voi fi cu voi din morţi am înviat.
+Cor  /:M-am lepădat:/ de Domnul
+Ce să mă fac se-ntreabă suspinând
+/:M-am lepădat:/ de Domnul
+Şi l-am trădat pe Mielul cel mai blând
+
+[order]
+s1,s2,s3,s4,s5

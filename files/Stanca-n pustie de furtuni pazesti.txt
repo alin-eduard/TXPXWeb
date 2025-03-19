@@ -1,0 +1,33 @@
+[s1]
+Stâncă-n pustie de furtuni păzeşti,
+În umbra Ta pe min’ mă ocroteşti,
+La Tine eu bun refugiu găsii!
+Inima mea se va adăposti.
+
+[r1]
+Sufletul meu găsi
+Scut chiar în vijelii !
+/: Stâncă-n pustie :/
+Stâncă-n pustie
+Eu la Tine alerg !
+
+[s2]
+Stâncă-n pustie, Tu astru divin,
+Mântuitorul meu, la Tine vin !
+Doar ocrotirea Ta ma ferici,
+Inima mea se va adăposti !
+
+[s3]
+Stâncă-n pustie, când sunt ostenit
+La Tine vin şi mă simt odihnit!
+Chinul meu doar Tu îl vei nimici,
+Inima mea se va adăposti!
+
+[s4]
+Stâncă-n pustie, Isuse bogat,
+Iubirea Ta nicăieri n-am aflat!
+De Tine cine mă va despărţi?
+Inima mea se va adăposti.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

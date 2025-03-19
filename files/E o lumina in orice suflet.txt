@@ -1,0 +1,27 @@
+[s1]
+E o lumina in orice suflet
+Stralucitoare sau palpaind
+Este un Duh Sfant ce-aprinde focul
+Si da lumina celor din jur.
+
+[r1]
+Poarta-ti lumina prin intuneric
+Ca sa-i gasesti pe cei pierduti
+Poarta lumina ca toti s-o vada
+Da lumina celor din jur
+Da lumina celor din jur.
+
+[s2]
+Priveste la cei ce-s langa tina
+Si-n intuneric s-au ratacit
+Da-le lumina ca sa-i ajute
+Sa vada drumul spre infinit.
+
+[s3]
+Noi suntem una in Domnul care
+Ne-a dat dat lumina sa stralucim
+Veniti sa-i dam Lui ale noastre inimi
+Si impreuna cu El sa fim.
+
+[order]
+s1,r1,s2,r1,s3,r1

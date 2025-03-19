@@ -1,0 +1,26 @@
+[s1]
+Numai in Isus Hristos
+Mantuire mi s-a dat;
+Vina sterge singur El,
+Prin sangele sfant varsat.
+
+[r1]
+Vesnic Isuse, Tu ma conduci
+Catre cer, in slava Ta.
+Doamne, ajuta-ma a-Ti urma,
+Pana in gloria Ta.
+
+[s2]
+Numai in Isus Hristos
+Pace vesnic-am gasit;
+Haina alba el mi-a dat
+Si-s de pacat mantuit.
+
+[s3]
+Numai El, Isus Hristos,
+Ma asteapta-n slava sus;
+Sigur sunt ca, in curand,
+Fi-voi in cer cu Isus!
+
+[order]
+s1,r1,s2,r1,s3,r1

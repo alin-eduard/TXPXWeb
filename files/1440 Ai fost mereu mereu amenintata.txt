@@ -1,0 +1,33 @@
+[s1]
+1440.  Sol
+Ai fost mereu mereu ameninţată
+Când valuri mari în tine au izbit
+Biserica de veacuri încercată
+Doar prin Isus Hristos ai biruit
+Cor   /:Nu te teme:/ porumbiţa mea
+Căci mai e puţină vreme şi te voi lua
+Vei zbura spre veşnicie pe al slavei        								nor
+Ca să fii pentru vecie cu al tău Păstor
+
+[s2]
+Ai îndurat prigoana şi ocara
+Batjocura şi suferinţă grea
+Dar răsplătirea ta îţi va fi mare
+Când Dumnezeu la cer te va chema.
+Cor   /:Nu te teme:/ porumbiţa mea
+Căci mai e puţină vreme şi te voi lua
+Vei zbura spre veşnicie pe al slavei 									nor
+Ca să fii pentru vecie cu al tău Păstor
+
+[s3]
+Acum e luptă mai înverşunată
+Când cel rău vrea să te atragă-n jos
+Veghează dar mireasa mea iubită
+Căci vine Mirele cel Sfânt Hristos
+Cor   /:Nu te teme:/ porumbiţa mea
+Căci mai e puţină vreme şi te voi lua
+Vei zbura spre veşnicie pe al slavei nor
+Ca să fii pentru vecie cu al tău Păstor
+
+[order]
+s1,s2,s3

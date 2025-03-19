@@ -1,0 +1,43 @@
+[s1]
+886.
+1.  M-a ajuns un dor de acasă
+De grădina cea frumoasă
+Casa mea-i pe un munte sus
+Veşnic stau lângă Isus.
+2.  Mă gândesc s-ajung acasă
+În grădina cea frumoasă
+Căci în grabă înserează
+N-am ajuns odată acasă.
+
+[s2]
+3.  Casa mea-i pe-un vârf de munte
+Am să trec pe o lungă punte
+Puntea-i lungă, alunecoasă
+Calea-i lungă şi spinoasă.
+4.  Calea-i lungă-ngustă frate
+Nu poţi merge-n timp de noapte
+Dacă n-ai ulei în lampă
+N-ai să ajungi la El acasă.
+
+[s3]
+5.  De aceea fraţi iubiţi
+Către cer mereu grăbiţi
+Căci Domnul Isus ne aşteaptă
+Să venim la El acasă.
+6.  Ne-aşteaptă cu masa-ntinsă
+Cu lumina-n casă aprinsă
+El pe cale luminează
+Până ajungi la El acasă.
+
+[s4]
+7.  E lumina tuturor
+Fiilor ascultători
+Celor ce se pocăiesc
+Şi pe Domnul îl slujesc.
+8.  Lăudat fii pe pământ
+Onorăm pe Domnul Sfânt
+Lăudăm pe Domnul Sfânt
+Laudă-n cer şi pe pământ.
+
+[order]
+s1,s2,s3,s4

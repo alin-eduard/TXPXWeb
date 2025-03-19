@@ -1,0 +1,31 @@
+[s1]
+E tristă faţa ta, si trupu-i obosit.
+Îngrijorarea te-a cuprins.
+Să cânti tu nu mai poti,
+Spre lauda lui Isus.
+Căci dragostea dintâi s-a stins.
+
+[r1]
+Nu te-ngrijora, de ziua ce-a venit.
+De bine-o fi sau de-a fi rău.
+Îţi lasă soarta ta în Mâna Domnului.
+Încrede-te în Dumnezeu.
+
+[s2]
+Tu pacea ti-ai pierdut.
+S-a stins din viata ta,
+Si timpul cel mai preţios.
+Tu nu mai ai un ceas,
+Pe care să-l petreci:
+În părtăşie cu Hristos.
+
+[s3]
+Isus te cheamă azi,
+Nădejde vrea să-ti dea:
+Putere-n trupul apăsat.
+De grijuri si nevoi,
+De îndoieli si chin.
+De necredintă si păcat.
+
+[order]
+s1,r1,s2,r1,s3,r1

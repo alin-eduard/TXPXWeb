@@ -1,0 +1,73 @@
+[s1]
+1123.
+1.   Viaţa e scurtă foarte trecătoare
+Îţi deapănă în ea an după an
+Veşnicia este nemuritoare
+Pe când viaţa e-o lacrimă-n ocean.
+Cor:	Vino la El ce bine o să-ţi pară
+Şi nu uita că timpu-i trecător
+De-i amâna vei rămânea afară
+Şi o să plângi amar sfâşietor.
+
+[s2]
+2.    Sărmane călător priveşte-n urmă
+Ce trecător eşti azi pe acest pământ
+Mai ieri erai copilul plin de viaţă
+Şi iertător şi plin de harul Sfânt.
+Cor:	Vino la El ce bine o să-ţi pară
+Şi nu uita că timpu-i trecător
+De-i amâna vei rămânea afară
+Şi o să plângi amar sfâşietor.
+
+[s3]
+3.   Te-nvăluiau ieri zorii tinereţii
+Voinţa şi tăria te-nsoţea
+Tu nu ştiai dar totuşi roata vieţii
+În grabă anii tăi îi învârtea.
+Cor:	Vino la El ce bine o să-ţi pară
+Şi nu uita că timpu-i trecător
+De-i amâna vei rămânea afară
+Şi o să plângi amar sfâşietor.
+
+[s4]
+4.     Eşti poate tânăr crezi că poate viaţa
+E drumul neted şi nemărginit
+O, nu uita că El se pierde-n ceaţa
+Trecutului dar are un sfârşit.
+Cor:	Vino la El ce bine o să-ţi pară
+Şi nu uita că timpu-i trecător
+De-i amâna vei rămânea afară
+Şi o să plângi amar sfâşietor.
+
+[s5]
+5.     Adună omul şi agoniseşte
+Aleargă mult din zori pân’ la apus
+Dar nu termină moartea-n grab’ soseşte
+Că are un cuvânt şi ea de spus
+Cor:	Vino la El ce bine o să-ţi pară
+Şi nu uita că timpu-i trecător
+De-i amâna vei rămânea afară
+Şi o să plângi amar sfâşietor.
+
+[s6]
+6.      Lăsa-vei tot şi toată osteneala
+Dincolo nu-ţi va fi de vreun folos
+Căci ce-ai făcut nimic nu se mai spală
+De nu-l primeşti azi pe Isus Hristos
+Cor:	Vino la El ce bine o să-ţi pară
+Şi nu uita că timpu-i trecător
+De-i amâna vei rămânea afară
+Şi o să plângi amar sfâşietor.
+
+[s7]
+7.     Ce minunat va fi acolo-n ceruri
+Să vină azi Împărăţia Ta
+Ca păsări vom zbura spre alte plaiuri
+În ţara care-n veci o vom avea.
+Cor:	Vino la El ce bine o să-ţi pară
+Şi nu uita că timpu-i trecător
+De-i amâna vei rămânea afară
+Şi o să plângi amar sfâşietor.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

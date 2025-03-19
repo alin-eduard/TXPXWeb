@@ -1,0 +1,10 @@
+[r1]
+/: De bucurie cântaţi,
+Daţi slavă Domnului,
+Nunta Mirelui vine-n curând
+Mireasa Lui va fi gata :/
+/: Aleluia Domnului,
+În veci domneşte El :/
+
+[order]
+r1,r1,r1

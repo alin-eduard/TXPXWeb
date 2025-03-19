@@ -1,0 +1,38 @@
+[s1]
+Ridică-Ți azi privirea
+Spre cerul înstelat
+De două mii de ani
+Isus s-a înălȚat
+S-a dus să pregătească
+Pentru ai săi un loc
+Pentru acei ce astăzi
+Se roagă cu mult foc
+
+[r1]
+Rugati-vă, rugati-vă
+Curând El va veni
+Rugati-vă, rugati-vă
+Spre cer noi vom porni
+
+[s2]
+Ridică-ti azi privirea
+Nu mai privi în jos
+Privirea ta să-ti fie
+Spre cerul glorios
+Tu roagă-te de-acuma
+In duh si-n adevăr
+Că cei ce au credintă
+Ei vor ajunge- cer
+
+[s3]
+Ridică-ti azi privirea
+Rugând neîncetat
+Pe Cel ce ti-a dat viată
+Purtând al tău păcat
+Să-ti de-a pe a ta cale
+Putere-n rugăciuni
+Să poti ajunge-n tara
+Acelor sfinti si buni
+
+[order]
+s1,r1,s2,r1,s3,r1

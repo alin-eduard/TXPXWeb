@@ -1,0 +1,33 @@
+[s1]
+1. Unde să plec de lângă Tine
+Hristos,Hristos unde să plec
+/:Unde să caut fericire
+Şi pace unde să găsesc:/
+1966.                 Re m
+
+[s2]
+2. Cine să spună adevărul
+Puterea cine să mi-o dea
+/: Ca să simţesc iubirea sfântă
+Să pot vesti şi altora :/.
+
+[s3]
+3. Eu n-o să plec acolo unde
+Cei răi petrec în desfătări
+/:Acolo-s toate nişte umbre
+Şi zile negre fără zări:/
+
+[s4]
+4. Şi acum lumina-ncet se stinge
+Şi frunzele de toamnă cad
+/: La fel sfârşitul şi-l vor plânge
+Cei ce Cuvântu-au neglijat :/.
+
+[s5]
+5. Unde să plec de lângă Tine
+Hristos,Hristos unde să plec
+/:Căci lângă Tine-I fericire
+Şi veşnicia eu primesc:/
+
+[order]
+s1,s2,s3,s4,s5

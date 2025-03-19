@@ -1,0 +1,35 @@
+[s1]
+2186
+1. Doamne este secetă în țară
+Totul s-a uscat pe
+acest pământ
+Au secat izvoarele din vale
+Praful și pustia e pe câmp.
+
+[r1]
+Cor: Toarnă Doamne peste
+toata țara
+Ploaia Duhului cel Sfânt
+Cercetează toată adunarea
+Umpe vasele de lut.
+
+[s2]
+2. Doamne e și multă deznădejde
+Iată ce se vede în popor
+Tot mai mult lipsește rugăciunea
+Te rugăm trimite micul nor.
+
+[s3]
+3. Doamne ne rugăm ca și Ilie
+Când era pe muntele Carmel
+E căzut poporul în pustie
+Toarnă apa vie peste el.
+
+[s4]
+4. Multe din fecioare-s adormite
+Și noi suntem gata s-ațipim
+O, nu ne lăsa iubit Părinte
+Umple-ne cu Duhul să trăim.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,74 @@
+[s1]
+Ţi-ai pus oare întrebarea:
+Cum va fi?
+Ce-ai să faci când
+Domnul Isus va veni?
+1125.
+
+[s2]
+Cum vei sta la judecată
+Dacă ai haina pătată?
+Cum Îl vei privi
+În faţă pe Isus?
+
+[s3]
+2.Ţi-ai pus oare Întrebarea:
+Cum vei sta?
+Ce vei face când
+Suna-va trâmbiţa?
+
+[s4]
+Ce-ai să faci,
+Frate iubit?
+Dacă nu eşti pregătit
+Cum vei sta atunci
+În faţa lui Isus?
+
+[s5]
+3.Te-ai gândit,
+Iubite frate
+Ce-ai să spui?
+Cum vei sta atunci
+În faţa Domnului?
+
+[s6]
+Căci pe faţă El va da
+Toată făr’delegea ta!
+Vei putea privi atunci
+În faţa Sa?
+
+[s7]
+4.Ce-ai să faci
+Când ai să vii tu la Isus?
+Vei fi, frate-alături
+De Domnul Isus?
+
+[s8]
+Când cei dragi
+S-or înălţa
+Şi spre ceruri vor zbura
+Iar tu tot aici în chin
+Vei rămânea.
+
+[s9]
+5.Poate astăzi este
+Ultimul tău ceas?
+Te grăbeşte
+Cât mai ţine
+Al Său har!
+
+[s10]
+Acum încă se mai poate
+Domnul să îţi dea
+De toate
+Ca să poţi să stai
+În faţa lui Isus
+
+[s11]
+Ca să stai la masa Sa
+Cu sfinţii alăturea
+Unde-o veşnicie
+Te vei bucura.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11

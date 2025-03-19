@@ -1,0 +1,52 @@
+[s1]
+Unde voi găsi iubire
+Ca a Ta dulce, Isus ?
+/: Chiar cînd toate vor dispare
+Tu rămîi în veci, Isus ! :/
+/: Tu ca lumină ai venit
+Întunecimi ai risipit.
+Ca noi cu drag să Te iubim
+Şi-n inimă să Te primim. :/
+
+[s2]
+Pentru noi, Isuse sfinte
+Tu pe cruce ai murit.
+/: Doamne, Te rugăm fierbinte
+Iartă-ne ce Ţi-am greşit ! :/
+/: Tu ca lumină ai venit
+Întunecimi ai risipit.
+Ca noi cu drag să Te iubim
+Şi-n inimă să Te primim. :/
+
+[s3]
+Cînd în noi ne vom încrede
+Nicidecum n-om izbuti
+/: Însă cînd lucrăm cu Tine
+Toate ne vor reuşi. :/
+/: Tu ca lumină ai venit
+Întunecimi ai risipit.
+Ca noi cu drag să Te iubim
+Şi-n inimă să Te primim. :/
+
+[s4]
+O, Isus, la noi priveşte
+Harul Tău va dăinui.
+/: Braţul Tău nu se opreşte
+Toate chiar de s-ar opri. :/
+/: Tu ca lumină ai venit
+Întunecimi ai risipit.
+Ca noi cu drag să Te iubim
+Şi-n inimă să Te primim. :/
+
+[s5]
+Toarnă, deci, asupra noastră
+Focul Duhului Tău Sfînt.
+/: Ca din noi El să prefacă
+Martori vii pe-acest Pămînt. :/
+/: Tu ca lumină ai venit
+Întunecimi ai risipit.
+Ca noi cu drag să Te iubim
+Şi-n inimă să Te primim. :/
+
+[order]
+s1,s2,s3,s4,s5

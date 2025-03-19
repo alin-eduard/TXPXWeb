@@ -1,0 +1,38 @@
+[s1]
+E amurg. Se-mbratiseaza,
+Isi dau mana si fac schimb;
+Ziua pleaca, 'nainteaza
+Noaptea argintie-n nimb.
+Vantul serii parca-l cheama
+Iar, la harpa, pe David;
+Largi ecouri bland destrama
+Al cantarilor bolid.
+
+[r1]
+Ce-acorduri sublime suvoi se revarsa
+Din harpa divina in cant usor;
+Cuprinde in cantec doar glorii de slava
+Spre lauda Celui in veci Salvator.
+
+[s2]
+Jos in vale-n departare
+Raspund turmele de oi
+Si Sionul sfant, din zare,
+Prin ecou, raspunde-apoi.
+Stelele pe bolta canta,
+Munti si vai raspund cu zor
+Si, prin simfonia sfanta,
+Toate-n sir slavesc cu dor.
+
+[s3]
+Cand s-au stins pe rand, bland, arma
+O atarna intr-un cui
+Si pleaca-mpacat sa doarma
+Tot prin gand cu harpa lui.
+Se trezi apoi in noapte
+Si-o aude iar cantand!?!...
+Vantul luneca prin coarde,
+Cantul sfant, continuand.
+
+[order]
+s1,r1,s2,r1,s3,r1

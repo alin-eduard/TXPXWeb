@@ -1,0 +1,75 @@
+[s1]
+91.
+1. Te iubesc din al meu suflet
+Doamne bun tăria mea
+O, nu mă lăsa pe calea
+Care duce-n lumea rea.
+
+[s2]
+2. Căci calea lumii e largă
+Şi cu flori împodobită
+Dar la urmă se sfârşeşte
+În osânda cea cumplită.
+
+[s3]
+3. Îmi abate pururi Doamne
+Ochii ca să nu privească
+Spre deşertăciunea lumii
+Şi spre slava pământească.
+
+[s4]
+4. Te iubesc din al meu suflet
+Doamne bun tăria mea
+Ajută-mă să cuget pururi
+Numai la iubirea Ta.
+
+[s5]
+5. Să fiu tocmai ca şi pomul
+Sădit la izvor de apă
+Ce-şi dă rodul său la vreme
+Căci izvorul îl adapă.
+
+[s6]
+6. O, ajută-mi pururi Doamne
+Să veghez în rugăciune
+Să fiu gata-n orice clipă
+A Te întâmpina pe Tine.
+
+[s7]
+7. Mi-aţinteşte a mea privire
+Către răsplătirea Ta
+Cum te-au proslăvit martirii
+Ce s-au jertfit pentru ea.
+
+[s8]
+8. Ei nu şi-au cruţat viaţa
+Şi au primit cu bucurie
+Să fie aruncaţi la fiare
+Şi-n cuptor de foc să fie.
+
+[s9]
+9. Unii au fost ucişi cu pietre
+Alţii-n gropile cu lei
+Pribegind în piei de capre
+Prin pustiu flămânzi şi goi.
+
+[s10]
+10. Toţi aceştia prin credinţă
+Au voit să se jertfească
+Căci priveau spre biruinţă
+Răsplătirea Ta cerească.
+
+[s11]
+11. De aceea-n cartea Sfântă
+A fost scris ca să rămână
+Toate sfintele lor fapte
+Orişicui de mărturie.
+
+[s12]
+12. Căci Scriptura-i cartea sfântă
+Ea te-ndeamnă azi duios
+Să laşi slava pământească
+Pentru slava lui Hristos.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12

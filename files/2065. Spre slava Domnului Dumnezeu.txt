@@ -1,0 +1,32 @@
+[s1]
+2065
+Spre slava
+Domnului Dumnezeu
+Cânta-vom mărire
+Prin laudă îi vom spune mereu
+A noastră iubire
+
+[r1]
+Cor: În bunătatea Lui mereu
+ne priveghează
+Și ne păstrează în harul Său
+Doar El în lumea aceasta
+ne călăuzește
+Și ne păzește de cel rău.
+
+[s2]
+2. Un imn de slavă pentru Isus
+Mireasa Îi cântă
+Cu dorul întâlnirii în piept
+Spre ceruri se avântă.
+
+[s3]
+3. Prin Duhul Sfânt `nălța-vom mai sus
+Divina cântare
+Și îngerii cu noi vor cânta
+În ziua cea mare.
+Spre slava Domnului Dumnezeu
+Cânta-vom mărire
+
+[order]
+s1,r1,s2,r1,s3,r1

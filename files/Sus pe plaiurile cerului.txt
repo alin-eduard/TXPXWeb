@@ -1,0 +1,52 @@
+[s1]
+Sus pe plaiurile cerului,
+Sus acolo-n înălţimi,
+Acolo în ţara Domnului
+Noi o să ne întâlnim.
+/: Pe malurile râurilor sfinte
+Cu unde cristaline, argintii,
+Pe munţi de foc în slava Lui ce mare,
+Acolo te aştept să vii.:/
+
+[s2]
+Sus, departe de orice dureri,
+Sus acolo-n veşnicii,
+Veşnic în sfintele dezmierdări
+Noi o să ne întâlnim.
+/: Pe malurile râurilor sfinte,
+Cu îngeri /:grupuri:/ să zburăm,
+/:Mi-e dor:/ acum de-acele timpuri
+Pe care numai le cântăm.:/
+
+[s3]
+Sus în ţara bucuriilor,
+Sus în zările cereşti
+Noi cu drag atunci ne-om saluta
+Când acol’ ne-om întâlni.
+/:Atunci vom zice: Da, acesta-i Domnul
+În care noi cu toţii am crezut;
+Atunci vom zice: Da, acesta-i Domnul
+Care pe noi ne-a mântuit.:/
+
+[s4]
+Sus acolo nu va fi suspin
+Şi nici lacrimi pe obraz,
+Nu vor exista amărăciuni
+Şi nici bocetul amar.
+/:Ah, cum mă poartă dorul înspre Tine
+O, ţară ce mult te aştept
+Căci inima-mi se frânge în suspine
+Ah, Domnul meu cel ceresc.:/
+
+[s5]
+Tu de ce nu vrei să vii cu noi
+Pe întinsele câmpii,
+Sus în ţara dragostei cereşti
+Sufletul să-ţi mântuieşti?
+/:Pe malurile râurilor sfinte
+Cu unde cristaline, argintii,
+Pe munţi de foc în slava Lui cea mare,
+Acolo te aştept să vii.:/
+
+[order]
+s1,s2,s3,s4,s5

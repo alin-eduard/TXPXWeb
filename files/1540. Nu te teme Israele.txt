@@ -1,0 +1,44 @@
+[s1]
+1540.
+1. Nu te teme Israele
+Căci mai sus mai sus de stele
+Ai un Domn ce cu putere te-a-nsoţit
+Din robie prin pustie
+Prin necaz şi bucurie
+Prin a ta călătorie te-a păzit
+
+[r1]
+Cor: O poporul meu cum te-ai depărtat
+Deşi bunătate Mea mereu tu ai gustat
+Când ai fost flămând
+Eu te-am săturat
+Iar când setea te-a răpus
+Din stâncă apă ţi-am dat.
+
+[s2]
+2. Cât mă doare pentru tine
+Căci te-ai depărtat de Mine
+Te-ai dus pe cărări străine prin pustiu
+Azi te chem cu îndurare
+Să te-ntorci din a ta cale
+Nu te duce spre pierzare Israele.
+
+[s3]
+3. Sus în slava fericirii
+Vreau să fii şi tu cu Mine
+Să te mângâi cu iubire Israele
+Curând vin să-ţi iau povara
+Să-ţi ridic cu drag ocara
+Dar întoarce-te din starea ta cea rea.
+
+[s4]
+4. Curând Păstorul şi-adună
+Cu iubire a sa turmă
+Cei sfinţi vor primi cununa
+Cum e scris
+Nu  mai sta în nepăsare Israele
+Deşteptare ca să poţi
+Sta în picioare la sfârşit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

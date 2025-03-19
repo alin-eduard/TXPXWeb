@@ -1,0 +1,49 @@
+[s1]
+1.	Noi suntem din Israel
+Noi nu ne închinăm
+Spre chipul tău de aur
+Noi nici nu ne uităm.
+Aşa începe marşul
+Acelor trei eroi
+Ce-au biruit infernul
+Şi chipul acelui zeu.
+1017.
+
+[r1]
+Cor:	Să sune cât mai tare
+Noi nu ne închinăm
+Orchestre şi fanfare
+Noi în picioare stăm.
+
+[s2]
+2.	Atuncea Împăratul
+Grozav s-a supărat
+Că ordinul lui sever
+A fost nerespectat.
+Trei tineri din Israel
+Trei tineri din Sion
+Nu vor să se închine
+La zei în Babilon.
+
+[s3]
+3.	Dar prietenii lui Daniel
+Din prinşii de război
+Nu vor să se închine
+La zei în Babilon.
+Noi suntem din Israel
+La zei nu ne-nchinăm
+Al nostru Domn e-n ceruri
+Pe El noi îl urmăm.
+
+[s4]
+4.	Dar groaza îi cuprinde
+Pe-adevăraţii zei
+Căci patru-s între flăcări
+Şi hainele-s pe ei.
+Noi suntem dintre neamuri
+La zei nu ne închinăm
+Al nostru Domn e în ceruri
+Pe El îl lăudăm.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,26 @@
+[s1]
+Noi, lăcrimând de bucurie
+Iubirea Ta am lăudat
+Căci chinuindu-Te pe cruce
+Prin moartea-Ţi ne-ai descătuşat.
+Ce mari comori Tu ne-ai adus,
+Fii pururi lăudat, Isus!
+
+[s2]
+Pecetluit eu sunt În Tine
+Precum Tu eşti în Dumnezeu;
+Cu tot ce am mai bun în mine,
+Cu trup şi suflet sunt al Tău.
+Tu scopul vieţii mele eşti
+Şi-n mine vreau să locuieşti!
+
+[s3]
+Toţi cei ce-n Domnu-avem credinţă
+Prin jertfa Lui am fost uniţi,
+Surori şi fraţi în năzuinţă
+De-a câştiga pe cei pierduţi,
+O pâine şi-un pahar primim,
+Prin ele moartea Lui vestim.
+
+[order]
+s1,s2,s3

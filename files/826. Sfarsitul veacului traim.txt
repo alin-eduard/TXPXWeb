@@ -1,0 +1,33 @@
+[s1]
+826.    											     La
+1. Sfârşitul veacului trăim
+Cu lupte, ură şi război
+Dar fericiţi la cer privim
+Nu e mult şi vine Domnul
+Iar la noi.
+
+[r1]
+Cor:
+El vine iar, El vine iar!
+Ce fericire negrăită!
+Se va sfârşi
+Al nostru chin amar
+Căci Domnul vine iar!
+
+[s2]
+2. E cerul şi pământul plin
+De semnele venirii Lui
+Cuvântul Său e
+Da, Amin!
+În El nici o umbră
+De schimbare nu-i.
+
+[s3]
+3. Ce zi măreaţă! Ce splendori!
+Când trâmbiţa va răsuna
+Şi Domnul va veni pe nori
+Fără murmur,
+Plin de slavă-I vom cânta.
+
+[order]
+s1,r1,s2,r1,s3,r1

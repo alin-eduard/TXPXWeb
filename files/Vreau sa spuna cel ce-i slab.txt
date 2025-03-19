@@ -1,0 +1,26 @@
+[s1]
+Vreau sa spuna cel ce-i slab
+Eu sunt tare in Hristos!
+Cel sarac: “Eu sunt bogat”
+Iar cel orb: “Sunt sanatos”.
+
+[r1]
+/:Osana, Osana,
+Mielului ce-a fost junghiat.
+Osana, Osana,
+Celui mort si inviat.:/
+
+[s2]
+Tot ce-a fost rau si murdar
+Ai spalat prin al tau Har.
+Ca un rau iubirea Ta
+Umple astazi viata mea.
+
+[s3]
+Stiu ca ma vei ridica
+Si de-as fi-n adanc de vai.
+Bucuros Te voi lauda
+Cu-ale cerului cantari!
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,29 @@
+[s1]
+1
+În numele Celui
+ce ne-a iubit pe cruce,
+În numele Fiului Tău ne-nchinăm,
+/:Suntem aici, n-avem ce spune,
+Vrem să fim fiii Tăi în lume,
+Vrem glorie şi onoare-n veci
+Ca să Îţi dăm. :/
+
+[s2]
+2
+Te rog să-Ți reverşi spre
+noi puţină milă,
+Rugăm să te mai înduri de pământ
+/:Căci binele-i făcut din silă,
+Lumea Ţi-a devenit ostilă
+Iar Tu ai spus că ai să vii în curând.:/
+
+[s3]
+3
+O de-ai putea să ne duci chiar aevea,
+În noi tu ai investit de la-nceput
+/: De ne-ar lega pământul, legea,
+Noi în Hristos ne-am pus nădejdea
+Şi credem în Tatăl, Fiul şi Duhul Sfânt.:/
+
+[order]
+s1,s2,s3

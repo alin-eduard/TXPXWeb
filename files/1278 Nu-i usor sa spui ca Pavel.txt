@@ -1,0 +1,36 @@
+[s1]
+1278.
+Nu-i uşor să spui ca Pavel
+Mi-am sfârşit călătoria
+Mă aşteaptă-n cer cununa
+Mă aşteaptă veşnicia
+Nu-i uşor dar se merită
+Să-i slujim cu dăruire
+Căci la capăt ne aşteaptă
+O frumoasă moştenire
+1.
+
+[s2]
+De-ai vedea ce te aşteaptă
+Când vom fi la el acasă
+De-ai vedea Ierusalimul
+Ce-i gătit ca o mireasă
+N-ai mai sta deloc pe gânduri
+N-ai mai sta pe la răscruci
+Ce-ai pornit-o spre Golgota
+Pe unde-a trecut Isus.
+2.
+
+[s3]
+Ce-ntâlnire minunată
+Va fi-n ziua glorioasă
+Ce primire-n veşnicie
+Pregătită de Isus
+Ceru-i plin de Osanale
+În-spre slava lui Isus
+Vom cânta de bucurie
+În a Lui împărăţie.
+3.
+
+[order]
+s1,s2,s3

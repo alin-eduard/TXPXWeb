@@ -1,0 +1,46 @@
+[s1]
+Aşa vorbeşte cel ce-i Sfânt şi Mare
+Martor credincios cu-adevărat
+Acel ce ţine viaţa ta în lume
+Şi cuvântul Lui e încercat.
+1.
+1258   rem
+Te sfătuiesc să cumperi de la mine
+Aur curăţit prin foc
+Şi haine albe să te-mbraci cu ele
+De vrei cu mine-n cer să ai un loc:/
+2.
+
+[s2]
+Nu spune sunt bogat în astă lume
+Şi lipsă n-am de nimeni pe pământ
+Căci Domnul este sursa vieţii tale
+De El tu ai nevoie orişicând.
+3.
+/ : O nu vă înşelaţi c-această viaţă
+E doar o umbră pe acest pământ
+Dar aşteptăm cu toţii noua viaţă
+În care vom cânta Celui Preasfânt :/
+4.
+
+[s3]
+Priveşte-ţi astăzi viaţa degradată
+Şi fă un pas spre Cel ce s-a jertfit
+Şi spune-i eu te rog azi Sfinte Tată
+Mai iartă tot ce atâta ţi-am greşit.
+5.
+/ : El astăzi este gata să te ierte
+Deschide-i acum Lui inima
+Şi vina ta tot El vrea să Ţi-o şteargă
+Prin sângele vărsat pe Golgota:/
+6.
+
+[s4]
+Vei birui pe cel rău în lume
+Vei sta alături de Isus Hristos
+Deci luptă, luptă, luptă, fii puternic
+Căci în curând te va chema Hristos.
+7.
+
+[order]
+s1,s2,s3,s4

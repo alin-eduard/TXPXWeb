@@ -1,0 +1,23 @@
+[s1]
+Isus e omul pe care vreau să Îl cunosc
+Isus e omul pe care vreau să Îl slujesc.
+Nevrednic sînt, eu ştiu acum că El a venit
+Jos pe Pămînt în locul meu El S-a jertfit.
+/: În locul meu şi-al tău :/ El a murit.
+
+[r1]
+/: Fiindcă-atît de mult
+ne-a iubit Dumnezeu
+Încît ne-a dat pe Fiul Său
+Pentru ca orişicine va crede în El
+Să nu piară, ci să-aibă viaţă veşnică!:/
+
+[s2]
+Te simţi tu cîteodată trist şi părăsit? Isus la noi şi pentru-aceasta a venit!
+Nu simţi tu uneori că ai nevoie de Isus?
+Iertare, pace, viaţă-ţi dă, dar fii supus!
+Şi vino azi la El, primeşte-L azi
+pe El ca Domn al tău!
+
+[order]
+s1,r1,s2,r1

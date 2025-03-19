@@ -1,0 +1,26 @@
+[s1]
+/: În viață prin multe-ai să treci
+Nu e numai doar veselie
+Dar cei ce se-ncred în Isus
+Ei cântă cu bucurie :/
+
+[r1]
+/: Cântă inimă, cântă mereu
+Laudă-L pe Creatorul tău
+Mult nu mai este și noi vom pleca
+Dureri necazuri le vom uita :/
+
+[s2]
+/:Căci numai tu singur n-ai să poți
+Să biruiești lumea toată
+Prin câte probleme ai să mai treci
+Tu cântă că Isus te așteaptă:/
+
+[s3]
+/: Căci lumea de azi este rea
+În inima lor e doar ura
+Tu cântă, laudă-l neîncetat
+Iubește orice făptură :/
+
+[order]
+s1,r1,s2,r1,s3,r1

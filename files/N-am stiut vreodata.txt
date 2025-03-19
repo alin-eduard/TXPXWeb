@@ -1,0 +1,27 @@
+[s1]
+N-am ştiut vreodată
+să-Ţi spun tot ce simt
+Şi nu ştiu cum să-Ţi mulţumesc !
+Dar m-ai găsit,
+Te-ai dat pentru al meu păcat
+Şi m-ai primit cu dragoste
+ca pe un fiu iertat.
+
+[r1]
+/: Iată-mă ,naintea Ta
+Mîini spre cer ridic curate !
+Iată-mă, dîndu-Ţi slavă
+Pentru lucrările-Ţi toate ! :/
+
+[s2]
+N-am crezut vreodată
+să fie aşa frumos
+N-am crezut vreodată
+să-Ţi pot fi de folos
+Dar m-ai găsit,
+Te-ai dat pentru al meu păcat
+Şi m-ai iubit cu dragoste
+ca pe un fiu iertat.
+
+[order]
+s1,r1,s2,r1

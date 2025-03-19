@@ -1,0 +1,39 @@
+[s1]
+Prietene ce astăzi,
+îi auzi chemarea,
+Domnul Isus te cheamă,
+să îţi dea salvarea;
+Fă un pas ’nainte,
+un pas către El
+Spre Mântuitorul,
+Sfânt Emanuel.
+
+[r1]
+/: Primeşte-L azi pe Domnul,
+nu mai amâna,
+E ultima ta şansă, azi e ziua ta;
+Fă un pas ’nainte, Isus te aşteptă
+Vino, vino, vino El te cheamă. :/
+
+[s2]
+Lasă lume-aceasta
+cu al ei amar,
+Primeşte-l azi pe Domnul
+ce-ţi dă iertarea-n dar;
+Lumea nu te-ajută,
+ci doar te robeşte,
+Domnul este acela,
+ce te mântuieşte.
+
+[s3]
+Cu Isus pe cale
+viaţa e frumoasă,
+Chiar prin încercare
+Domnul nu te lasă;
+Vin-al norii negri,
+câţi ar fi să vină,
+Domnul e cu tine,
+şi îţi dă lumină.
+
+[order]
+s1,r1,s2,r1,s3,r1

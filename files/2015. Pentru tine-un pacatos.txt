@@ -1,0 +1,30 @@
+[s1]
+2015
+1. Pentru tine-un păcătos
+Pentru mine-un ticălos
+Pentru noi iubite suflet
+A murit Isus Hristos
+A murit pe lemnul crucii
+Ca noi toţi să fim salvaţi
+De-ale noastre păcate.
+
+[r1]
+Cor: Este greu , da este greu
+Să trăieşti făr´ Dumnezeu
+Dar te rog nu te uita
+La viaţa ta cea grea
+Uită-te doar la Isus
+Ce pe cruce a fost pus
+Ca să moară pentru tine
+
+[s2]
+2. Căci acum când tu doreşti
+Pe Isus ca să-L primeşti
+Tu în dragoste să stai
+Ca-n lume să nu te pierzi
+Şi-n veşnică iubire
+Cu Isus să fii mereu
+Doar o lumină vie.
+
+[order]
+s1,r1,s2,r1

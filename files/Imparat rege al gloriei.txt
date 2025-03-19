@@ -1,0 +1,20 @@
+[s1]
+Imparat, rege al gloriei
+Cer pamant si ape pe toate le-ai creat
+Salvator Tie ne inchinam
+Numele Tau mare noi Il inltam
+
+[r1]
+/: Si Te slavim Isus cu toti ne plecam
+Inaintea tronului Tau sfant
+Numelui Tau Isus noi slava ii dam
+Nimeni nu-i ca Tine in cer si pe pamant :/
+
+[s2]
+Imparat in Univers domnesti
+Ingerii din ceruri Te lauda ne-ncetat
+Salvator atotputernic Domn
+Numele Tau mare noi il inaltam
+
+[order]
+s1,r1,s2,r1

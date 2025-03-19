@@ -1,0 +1,18 @@
+[s1]
+1
+Isus vreau să merg
+Întodeauna cu Tine
+Şi să ţin mâna Ta
+Şi să simt prezenţa Ta în mine.
+
+[s2]
+2
+Pentru că în Tine este
+Putere şi victorie
+Numai Numele Tău Sfânt
+Isus, m-a eliberat
+Numai El povara mea o poartă
+Numai El povara mea o poartă
+
+[order]
+s1,s2

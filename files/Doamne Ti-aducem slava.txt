@@ -1,0 +1,15 @@
+[s1]
+/: Doamne, Ţi-aducem slavă
+Pentru sfîntul Tău Cuvînt cel puternic ! :/
+/: El îmi spune blînd şi duios cît eşti de bun. :/
+
+[s2]
+/: Tu-mi arăţi în Cuvîntul Tău numai adevăr. :/
+/: Tu-mi dai binecuvînări în viaţa mea. :/
+
+[s3]
+/: În viaţa mea doar Tu eşti biruitor. :/
+/: Din Cuvîntul Tău primesc bucurii mereu. :/
+
+[order]
+s1,s2,s3

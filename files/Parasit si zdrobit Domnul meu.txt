@@ -1,0 +1,26 @@
+[s1]
+Părăsit şi zdrobit Domnul meu
+Ai primit chinul greu şi amar
+Ai urcat crucea grea pe Calvar
+Fiindcă aşa mult pe noi ne-ai iubit.
+
+[s2]
+Ne-ai iubit şi ne-ai dat viaţă-n dar
+Fiu ceresc ce-aici jos ai venit
+Un exemplu Sfânt Tu ai lăsat
+Fiindca aşa mult pe noi ne-ai iubit.
+
+[s3]
+Glasul Tău, valuri a linştit
+Pe cei slabi şi bolnavi I-ai primit
+Morţii ai inviat, de păcate I-ai iertat
+Fiindca aşa mult pe noi ne-ai iubit.
+
+[s4]
+Ai murit dar eşti viu, Domnul meu
+Căci nu-n moarte era locul Tău
+Ci în cerul înalt pe un tron minunat
+Fiindcă aşa mult pe noi ne-ai iubit.
+
+[order]
+s1,s2,s3,s4

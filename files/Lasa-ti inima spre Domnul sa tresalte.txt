@@ -1,0 +1,27 @@
+[s1]
+Lasă-ţi inima spre Domnul să tresalte
+S-a născut Mesia pe pământ
+Fiul Celui Preaînalt venit în lume
+Să ne-mpace iar cu Tatăl Sfânt.
+
+[r1]
+/: Lasă-ţi buzele să cânte osanale
+Slavă-n cer şi pace jos
+Glorie s-aduci iubirii sale
+S-a născut Isus Hristos. :/
+
+[s2]
+Lasă-ţi inima s-aducă daruri sfinte
+Bun miros s-aduci prin viaţa ta
+Tot ce ai mai bun să pui înainte
+Şi deschide toată inima
+
+[s3]
+Lasă-ţi inima
+pe Domnul să-L slăvească
+Astăzi s-a născut un Salvator
+Viaţa ce o ai să prea mărească
+Pe Împăratul împăraţilor
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,20 @@
+[s1]
+/: Aleluia salvat sunt în Glorie
+Sunt mântuit prin sângele cel sfânt :/
+/: Cânt Aleluia viaţă mi-a dăruit
+Dau slavă lui Isus Regele Regilor :/
+
+[s2]
+/: Aleluia dau slavă şi glorie
+Celui ce veşnic e Împărat :/
+/: Cânt Aleluia viaţă mi-a dăruit
+Dau slavă lui Isus Regele Regilor :/
+
+[s3]
+/: Aleluia cântaţi-I din inimă
+Isus ne este Mântuitor :/
+/: Cânt Aleluia viaţă mi-a dăruit
+Dau slavă lui Isus Regele Regilor :/
+
+[order]
+s1,s2,s3

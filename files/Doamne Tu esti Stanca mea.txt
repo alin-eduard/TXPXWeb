@@ -1,0 +1,32 @@
+[s1]
+Doamne Tu eşti Stânca mea
+Tu eşti Cetăţuia mea
+
+[s2]
+/: Tu îmi eşti a mea scăpare
+Când sunt în încercare
+Mă ajuţi în vreme grea
+Doamne Tu eşti Stânca mea :/
+
+[s3]
+Tu eşti Fericirea mea
+Tu eşti Bucuria mea
+
+[s4]
+/: Să rămân tot mereu
+Doar cu Tine Dumnezeu
+Totdeauna voi cânta
+Tu eşti Fericirea mea :/
+
+[s5]
+Doamne Tu M’ai mântuit
+Doamne Tu M’ai izbăvit
+
+[s6]
+/: De cumplitul meu păcat
+Tu pe mine M’ai salvat
+Prin Isus cel răstignit
+Doamne Tu m’ai mântuit :/
+
+[order]
+s1,s2,s3,s4,s5,s6

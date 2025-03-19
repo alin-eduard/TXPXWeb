@@ -1,0 +1,33 @@
+[s1]
+1164.
+1.  Sfânt e, sfânt e, sfânt este Domnul
+Săltaţi popoare daţi-i onoare
+Munţi şi mare vă cutremuraţi
+Şi voi dealuri să-i strigaţi Amin
+Milos îndurat puternic e El
+Mare-i Iehova Domnul lumii.
+Cor:	  Sfânt e , sfânt e , sfănt este Domnul
+Şi voi dealuri să-i strigaţi Amin
+
+[s2]
+2.  Lăudaţi! Cântaţi! Inimile-I daţi
+Servii Săi cei sfinţi astăzi să vestiţi
+Focul cel sfânt ardă ne-ncetat
+În inimi iubire aprinde-ţi
+Lăudaţi-L îngeri mari şi puternici
+Fără de număr Lui vă-nchinaţi.
+Cor:	  Sfânt e , sfânt e , sfănt este Domnul
+Şi voi dealuri să-i strigaţi Amin .
+
+[s3]
+3.    Sfânt e, sfânt e şi va fi în veci
+Hristos e Domnul nu este altul
+Cu braţul său toate le-nvinge
+Înainte-i piere chiar iadul
+Iar la-nviere când ne-om înălţa
+Atunci văzându-L îi vom cânta.
+Cor:	  Sfânt e , sfânt e , sfănt este Domnul
+Şi voi dealuri să-i strigaţi Amin .
+
+[order]
+s1,s2,s3

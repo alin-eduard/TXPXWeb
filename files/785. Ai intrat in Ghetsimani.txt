@@ -1,0 +1,59 @@
+[s1]
+1. Ai intrat în Ghetsimani
+Tu cu ucenicii Tăi
+/: I-ai făcut atuncea cete
+Şi-ai dorit să lupţi cu ei :/.
+785.
+2. Ai luptat o oră-ntreagă
+Numai singur ai luptat
+I-ai găsit dormind cu toţii
+Uşurel Tu i-ai mustrat.
+
+[s2]
+3. Te-ai întors din nou la luptă
+Şi-n genunchi Tu te-ai rugat
+Ai strigat atunci la Tatăl
+Însă Tatăl te-a lăsat.
+4. Ai stropit cu stropi de sânge
+Pământul întunecat
+Ai privit atunci la mine
+M-ai iubit şi m-ai iertat.
+
+[s3]
+5. A venit Iuda cu gloată
+Şi-un sărut atunci ţi-a dat
+L-ai privit cu multă milă
+Şi prieten l-ai chemat.
+6. Atunci Petru în graba mare
+Sabia şi-a ridicat
+Şi-a tăiat la rob urechea
+Tu pe loc l-ai vindecat.
+
+[s4]
+7. Te-a legat atunci în pripă
+La Caiafa te-a legat
+Şi te-au dus şi pân' la Ana
+Te-au bătut şi te-au scuipat.
+8. Ai purtat în mână trestia
+Mâna care ne-a creat
+Şi-ai făcut atâta bine
+Şi pe mulţi ai vindecat.
+
+[s5]
+9. Şi ţi-au pus pe frunte spinii
+Ca coroană ai purtat
+La Golgota loc de jale
+Ai fost Doamne judecat.
+10. Te-au purtat cu crucea-n spate
+Şi la deal te-au ridicat
+Sus pe culme la Golgota
+Pe cruce te-au ridicat.
+
+[s6]
+11. Soarele şi-ascunse faţa
+Când Tu duhul ţi l-ai dat
+Numai inima de piatră
+Nici atunci nu s-a mişcat.
+
+[order]
+s1,s2,s3,s4,s5,s6

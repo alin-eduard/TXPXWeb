@@ -1,0 +1,38 @@
+[s1]
+În familie-i ferice căci
+Iubeşti şi eşti iubit,
+Lângă dulce vatra casei
+Sufletul ţi-e odihnit.
+Şi în mijlocul iubirii
+inima ţi-o oţeleşti,
+Te cunoşti mai bine-acolo;
+Orice greu îl biruieşti.
+O, ce bine-i împreună
+Cu acei ce îi iubeşti!
+
+[s2]
+Biruinţa-i anevoie,
+Dar tu te deprinzi să lupţi.
+Chiar când şovăie iubirea
+Nu ai voie să renunţi.
+Te deprinzi cu-ngăduinţa,
+Te deprinzi să lupţi mereu;
+Inima-ţi întinereşte
+De iubeşti pe Dumnezeu.
+Binefăcătoare-i clipa când
+Te afli printre-ai tăi!
+
+[s3]
+Ne-ncetata voioşie ce-o
+Dă pacea lui Isus,
+Vreau să fie-atotstăpână
+In căminul meu de-acum.
+Te iubesc, o, vatră scumpă,
+Lângă tine tot aş sta
+Aşteptând dorita clipă
+Când în cer te vei muta,
+Ca iubirea-n Domnul
+Nostru să nu aibe un sfârşit.
+
+[order]
+s1,s2,s3

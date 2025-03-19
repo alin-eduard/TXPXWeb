@@ -1,0 +1,69 @@
+[s1]
+1. De dragoste şi milă are
+Nevoie orice păcătos
+Acela care nu iubeşte
+Nu-i frate adevărat nicicând.
+/: /:Nu-i frate nu-i:/ x2 nu-i frate adevărat nicicând.:/
+244
+
+[s2]
+2. De dragoste şi milă are
+Nevoie orişicine ar fi
+Nu pot fi buni părinţi vreodată
+Aceia care nu pot iubi.
+/: /:Acei, acei:/x2 aceia care nu pot iubi.:/
+
+[s3]
+3. De dragoste şi milă are
+Nevoie orice vestitor
+De nu poţi să iubeşti puternic
+Să nu te faci învăţător.
+/: /:Să nu, să nu:/x2 să nu te faci învăţător.:/
+
+[s4]
+4. De dragoste şi milă are
+Nevoie orice duh sărac
+Acei ce nu pot să iubească
+/:/: Păstori :/ să nu se facă-n veac. :/
+
+[s5]
+5. De dragoste şi milă are
+Nevoie orice păcătos
+Cei ce nu pot să se jertfească
+Să nu vorbească de Hristos.
+
+[s6]
+6. De dragoste şi milă are
+Nevoie orice credincios
+Să iubeşti pe aproapele tău
+C-aşa spune şi Dumnezeu.
+
+[s7]
+7. De dragoste şi milă are
+Nevoie care viaţă vrea
+Dragostea nu pizmuieşte
+Pe copii lui Dumnezeu.
+
+[s8]
+8. Dragostea e una în Domnul
+Isus aşa mult s-a rugat
+Tată vreau ca să fie una
+Toţi cei ce pe mine m-au aflat.
+
+[s9]
+9. De dragoste şi milă are
+Nevoie orice pocăit
+De nu ai dragoste în tine
+În veci nu vei fi mântuit.
+
+[s10]
+10. Şi’acum creştini
+De pretutindeni
+Luptaţi în pace şi trăiţi
+Spălaţi sunteţi în a Lui sânge
+Isus Hristos ce s-a jertfit
+Slavă, slavă, slavă
+Mielului cel Sfânt.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

@@ -1,0 +1,32 @@
+[s1]
+1.Învață-ne, de dragul Tău, Isus, să ne jertfim
+Nu-n vorbe, ci cu fapta și-adevărul să iubim
+Răniți când suntem, cu răbdare să știm să suferim
+Iar când e greu, de dragul Tău, Isus, să nu cârtim.
+
+[r1]
+R1: Învață-ne, în Trupul Tău, unitatea s-o păstrăm
+Și-nvață-ne, de dragul Tău, să nu ne mai certăm
+Învață-ne blândețea Ta-n privire s-o purtăm
+Și-nvață-ne, de dragul Tău, din suflet să iertăm.
+
+[s2]
+2.Învață-ne, de dragul Tău, smeriți și blânzi să fim
+Și cu-al smereniei gând în noi pe toți să-i prețuim
+Pe alții mai presus de noi să știm să îi privim
+Și-nvață-ne, de dragul Tău, smeriți să îi slujim.
+
+[s3]
+3. Învață-ne în orice zi sfințenia s-o căutăm
+Pe buze și în inim-adevărul să-l păstrăm
+Pe cei căzuți, cu dragoste și har să-i ridicăm
+Iar când ne-nveți și ne vorbești, cu drag să Te-ascultăm.
+
+[s4]
+R3: Învață-ne, de dragul Tău, în unitate să trăim
+Și unul pentru celălalt în rugi să mijlocim
+Din inimă, cu dragoste și fără păreri de rău
+Să dăruim și tot ce facem să fie de dragul Tău.
+
+[order]
+s1,r1,s2,r1,s3,s4

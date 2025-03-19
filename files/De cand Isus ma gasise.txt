@@ -1,0 +1,54 @@
+[s1]
+De cînd Isus mă găsise,
+de cînd El m-a ridicat
+Când zăceam căzut pe cale,
+când eram însîngerat
+M-a luat la El acasă,
+pe răni untdelemn mi-a pus
+De cînd Isus mă găsise
+altceva nu am de spus.
+
+[s2]
+/: El Isus îmi e speranţa,
+El e untdelemnul meu
+El mi-e călăuză-n noapte
+şi-alinare cînd mi-e greu. :/
+
+[s3]
+Când te-ncrezi în braţul lumii
+sau te-ncrezi în braţul tău
+Nu uita că eşti ţărână
+şi că-n lume totu-i rău.
+Cu-o suflare El dărâmă
+tot ce-n vânt tu ai creat
+Dacă nu zideşti pe stânca
+ce-i al meu bun Împărat.
+
+[r1]
+/: El Isus e biruinţa
+Când te-ncearcă un păcat
+El e coif şi scut şi sabie
+Pentru cel ce stă curat. :/
+
+[s4]
+De cînd Isus mă găsise
+altceva nu am de spus
+Decît despre veşnicie
+şi iubirea lui Isus.
+M-a trimis să-ţi spun şi ţie
+că salvarea e pe drum
+Dacă eşti căzut în groapă,
+întinde mîna chiar acum !
+
+[s5]
+El Isus e-n adunare,
+se atinge de bolnavi
+Inima vrea să ţi-o spele
+în sînge nevinovat.
+Scoală-te, aruncă-ţi crucea
+şi te-apucă de căutat !
+Vino la Isus,
+El are untdelemnul minunat !
+
+[order]
+s1,s2,s3,r1,s4,r1,s5,r1

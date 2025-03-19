@@ -1,0 +1,55 @@
+[s1]
+De ce-s cuprins de grijuri?
+De ce-s îndurerat?
+Inima mi-e mâhnită,
+Iar sufletu-ntristat,
+Doar Isus Salvatorul
+Cu mine-i ne-ncetat.
+
+[s2]
+El pasărea hrăneşte
+Şi de crini e grija Sa;
+El pasărea hrăneşte
+Nici de min‘  nu va uita.
+Cântarea fericirii, înalţ spre slava Sa,
+El pasărea hrăneşte,
+Nici de min’ nu va uita,
+
+[s3]
+Când ispitit mă aflu
+Şi noaptea m-a cuprins,
+Pe buze n-am cântare,
+Iar zelul mi s-a stins,
+Privesc atunci la Isus
+Şi viaţa iar s-aprins.
+
+[s4]
+4
+El pasărea hrăneşte
+Şi de crini e grija Sa;
+El pasărea hrăneşte
+Nici de min‘  nu va uita.
+Cântarea fericirii, înalţ spre slava Sa,
+El pasărea hrăneşte,
+Nici de min’ nu va uita,
+
+[s5]
+Lutând, inima voastră
+Să nu se tulbure:
+Isus aşa îmi spune
+Şi pace-mi dăruie,
+Doar, Calea, Adevărul
+şi Viaţa-i numai El.
+
+[s6]
+6
+El pasărea hrăneşte
+Şi de crini e grija Sa;
+El pasărea hrăneşte
+Nici de min‘  nu va uita.
+Cântarea fericirii, înalţ spre slava Sa,
+El pasărea hrăneşte,
+Nici de min’ nu va uita,
+
+[order]
+s1,s2,s3,s4,s5,s6

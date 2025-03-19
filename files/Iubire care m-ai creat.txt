@@ -1,0 +1,34 @@
+[s1]
+Iubire care m-ai creat
+În asemănarea Ta
+Iubire, Tu Te-ai îndurat
+Pe mine m-ai ridicat.
+Eu în Tine mă reazăm
+În veac al Tău să rămân!
+
+[s2]
+Iubire care m-ai ales
+Cînd eu nu eram format
+Care-ai luat chip omenesc
+Mie Te-ai asemănat.
+Eu în Tine mă reazăm
+În veac al Tău să rămân!
+
+[s3]
+Iubire care-ai pătimit
+Şi-ai murit pentru mine
+Iubire, Tu ai izbândit
+Şi mi-ai dat fericire.
+Eu în Tine mă reazăm
+În veac al Tău să rămân!
+
+[s4]
+Iubire care ai învins
+Inima mea-mpietrită
+Care-al meu suflet ai cuprins
+Ca să-Ţi fiu locuinţă.
+Eu în Tine mă reazăm
+În veac al Tău să rămân!
+
+[order]
+s1,s2,s3,s4

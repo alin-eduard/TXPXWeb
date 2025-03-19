@@ -1,0 +1,37 @@
+[s1]
+1.    Roagă-te fără-ncetare
+Roagă-te mereu
+Stai şi-aşteaptă cu răbdare
+Să-ţi vorbească Dumnezeu                                                                                                                                       	  /: Rugăciunea cu credinţă
+Îţi aduce biruinţă
+Când te rogi cu stăruinţă        		  Rugăciunea-i ascultată
+Când cu post e-ncununată
+Şi cu lacrimi e udată:/.
+1421.    La b
+
+[s2]
+2.    Roagă-te soră şi frate
+Roagă-te mereu
+Căci Acel ce totul poate
+E unul singur Dumnezeu
+/:Chiar şi de te rogi în şoaptă
+Pe genunchi stai şi aşteaptă
+Fii fecioară înţeleaptă
+Chiar dacă mai zăboveşte
+Ce a promis El împlineşte
+Domnul nu te părăseşte:/.
+
+[s3]
+3.   Rugăciunea este cheia
+Ce deschide cerul sfânt
+Ea-i un har pentru aceia
+Ce trăiesc după cuvânt
+/:Rugăciunea-i mulţumire
+Rugăciunea e iubire
+Rugăciunea e jertfire
+Rugăciunea-i umilinţă
+Dragoste recunoştinţă
+Rugăciunea-i pocăinţă:/
+
+[order]
+s1,s2,s3

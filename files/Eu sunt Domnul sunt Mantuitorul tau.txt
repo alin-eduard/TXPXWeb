@@ -1,0 +1,54 @@
+[s1]
+Eu sunt Domnul, sunt Mântuitorul tău.
+Eu te chem pe nume, eşti al Meu.
+Nu te teme de nimic, de nici un rău.
+Eu te izbăvesc, Eu, Dumnezeu.
+
+[s2]
+Nu te teme, nu te teme.
+Eu veghez asupra ta mereu.
+Nu te teme, nu te teme.
+Eu te izbăvesc, Eu, Dumnezeu
+2
+
+[s3]
+Dacă treci prin ape cu talazuri mari,
+Eu voi fi cu tine-n orice greu.
+Bată vânturi, bată cât ar fi de tari.
+Eu te izbăvesc, Eu, Dumnezeu.
+
+[s4]
+Nu te teme, nu te teme.
+Eu veghez asupra ta mereu.
+Nu te teme, nu te teme.
+Eu te izbăvesc, Eu, Dumnezeu
+4
+
+[s5]
+De vei merge-n focul cel de ură-aprins,
+Adăpost şi pază Eu îţi sunt.
+Viaţa nu-ţi va arde, nu vei fi atins.
+Eu te izbăvesc, Eu, Dumnezeu.
+
+[s6]
+Nu te teme, nu te teme.
+Eu veghez asupra ta mereu.
+Nu te teme, nu te teme.
+Eu te izbăvesc, Eu, Dumnezeu
+6
+
+[s7]
+Eu sunt Domnul, sunt Mântuitorul tău.
+Tu-mi porţi numele, mereu, mereu.
+Nu te teme, eu lucrez şi nici un rău
+Nu-ţi va fi. Am zis Eu – Dumnezeu.
+
+[s8]
+Nu te teme, nu te teme.
+Eu veghez asupra ta mereu.
+Nu te teme, nu te teme.
+Eu te izbăvesc, Eu, Dumnezeu
+8
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

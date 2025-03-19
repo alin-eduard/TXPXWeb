@@ -1,0 +1,17 @@
+[r1]
+/: Aleluia! :/
+Domnul nostru domneşte în veci!
+/: Aleluia! :/
+Domnul nostru domneşte în veci!
+
+[r2]
+Aleluia!
+Tu eşti sfânt, eşti sfânt,
+Domnul nostru din ceruri!
+/: Vrednic eşti în veci! :/
+Că Tu doar eşti sfânt, eşti sfânt,
+Domnul nostru din ceruri!
+/: Vrednic eşti în veci! :/
+
+[order]
+r1,r2,r1,r2

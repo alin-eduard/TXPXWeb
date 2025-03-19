@@ -1,0 +1,26 @@
+[s1]
+În zadar se mai grăbeste
+cel ce pleacă prea târziu
+Alegerea lui sfârseste
+cu un strigăt în pustiu.
+
+[r1]
+Pentru mîntuirea ta
+nu mai sta, nu mai sta,
+Pentru cerul cel frumos
+vin acum, vin acum la Hristos.
+
+[s2]
+În zadar se mai grăbeste
+cel ce n-a vrut când putea
+Mila si chemarea sfântă
+are vremea ei si ea.
+
+[s3]
+Câtă vreme încă este
+cale si prilej de har,
+Nu uita de toate-acestea
+că-n curând va fi-nzadar.
+
+[order]
+s1,r1,s2,r1,s3,r1

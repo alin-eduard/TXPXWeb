@@ -1,0 +1,39 @@
+[s1]
+Am venit, acum, la cruce
+Prin osândă şi nevoi.
+Şi-aici, vreau să-mi las povara,
+Iar păcatul, înapoi.
+
+[s2]
+/: O, Parinte-al îndurării,
+Am venit, aşa cum vezi...
+Şi din drumul de ocară,
+Eu, Te rog, ca să mă ierţi! :/
+
+[s3]
+Vin din drumul cu povară,
+Las plăcerile lumeşti.
+Tu n-ai scos pe nime-afară,
+Dar, pe mine, mă primeşti?
+
+[s4]
+/: Ca paharul ce băut-am,
+Pân' la fund, eu l-am golit!
+Dar, amar a fost, cu fiere...
+Eu, atunci, m-am amăgit. :/
+
+[s5]
+Astăzi vin să-mi plâng trecutul,
+Să vărs lacrimi, să suspin...
+Şi, Te-ntreb: „De nu acuma,
+Spune-mi, Doamne, când să vin?"
+
+[s6]
+/: Căci Cuvântul zice:
+„Astăzi, vino să te pocăieşti!"
+Şi eu vin cu-a mea viaţă;
+Spune-mi, Doamne: mă primeşti?:/
+(Că, Tu, Doamne, mă primeşti)
+
+[order]
+s1,s2,s3,s4,s5,s6

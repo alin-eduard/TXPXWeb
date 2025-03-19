@@ -1,0 +1,32 @@
+[s1]
+Precum se duce toamna ceaţa
+Încet la vale-alunecînd
+Aşa şi zilele şi anii
+Se duc încet înspre mormînt.
+Dar cei ce se încred în Domnul
+În stînca cea din veşnicii
+Deşi se duc, se duc spre casă
+Cu nesfîrşite bucurii.
+
+[s2]
+Precum trec undele pe ape
+Pînă la ţărm alunecînd
+Aşa se duce şi viaţa
+Spre-al veşniciei ţărm plutind.
+Dar cei ce se încred în Domnul
+În stînca cea din veşnicii
+Deşi se duc, se duc spre casă
+Cu nesfîrşite bucurii.
+
+[s3]
+Cu toţii trec, şi buni, şi răi
+Nici unul nu-i fără sfîrşit
+Dar întrebarea-i, ce răsplată
+De pe Pămînt ne-am pregătit ?
+Dar cei ce se încred în Domnul
+În stînca cea din veşnicii
+Deşi se duc, se duc spre casă
+Cu nesfîrşite bucurii.
+
+[order]
+s1,s2,s3

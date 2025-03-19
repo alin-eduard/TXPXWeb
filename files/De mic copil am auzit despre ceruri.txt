@@ -1,0 +1,24 @@
+[s1]
+De mic copil am auzit despre ceruri
+M'am îngrozit,
+întrebându'mă: e adevărat?
+Am auzit cât de minunat cerul va fi
+Un locaş doar pentru noi pregătit
+
+[r1]
+Cerul, o ce loc minunat
+Cerul, doar prin Isus sunt salvat
+O, ce mult doresc s'ajung acol'
+Cerul, să fii pe veci în El
+În curând voi fi în El
+
+[s2]
+Când vom sosi pe porţile
+de mărgăritar
+Pe Isus faţă'n faţă'L vom vedea
+Privind în ochi să îi pot spune:
+'O cât Te iubesc!'
+Cu'ndurare să'mi ureze: 'Bun venit'
+
+[order]
+s1,r1,s2,r1

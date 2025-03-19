@@ -1,0 +1,87 @@
+[s1]
+1. Doamne vreau să-ţi cânt cântarea
+Ce-o trăim în lume azi
+Şi să-ţi plâng în ea tot dorul
+Fraţilor mei din necaz.
+303.
+
+[s2]
+Să îţi cânt cu jale sfântă
+Pentru cei căzuţi în luptă
+Să îţi plâng lacrimi amare
+Pentru cei din nepăsare.
+
+[s3]
+2. Doamne stai şi ascultă-mi glasul
+Nu-ţi fie scârbă de noi
+Căci cei ce ţi-au urmat pasul
+Lumea-i trage înapoi.
+
+[s4]
+Vezi ostaşii Tăi Isuse
+Că nu au arme în luptă
+Satana i-a înşelat
+Şi apoi i-a dezarmat.
+
+[s5]
+3. Vezi că norii fără apă
+Stau asupra noastră des
+Şi fântânile crăpate
+A Ta turmă o sleiesc.
+
+[s6]
+Stelele în slujbă sfântă
+Altă cale ei croiesc
+Şi-n vestirea ce-o arată
+Adevărul îl ştirbesc.
+
+[s7]
+4. Doamne vezi a Ta mireasă
+Cât este de-mpresurată
+Şi de mari şi de-nţelepţi
+De talentaţi şi vorbăreţi.
+
+[s8]
+Ei pândesc ca să strecoare
+Erezii nimicitoare
+Şi aşa ne hărţuiesc
+Pe cei slabi îi biruiesc.
+
+[s9]
+5. Doamne mângâie Tu sfinţii
+Pe Filadelfia iubită
+Ce se luptă cu răbdare
+Să învingă a veacului ispită.
+
+[s10]
+Cuvântul răbdării Tale
+Se luptă să-l împlinească
+Şi cununa ce-ai promis-o
+Cu orice preţ s-o dobândească.
+
+[s11]
+6. Doamne vezi Tu Laodicea
+Este mândră şi-ngâmfată
+Are numele vestit
+Şi se ţine că-i bogată.
+
+[s12]
+Însă vai de-acela care
+Darul Duhului nu-l are
+E sărac nenorocit
+Şi de pofte biruit.
+
+[s13]
+7. Doamne eu Te-aş mai ruga
+Înainte de-a-ncheia
+Cercetează-Ţi rămăşiţa
+Să nu Ţi se piardă spiţa.
+
+[s14]
+Oricât am fi de puţini
+În lume de-am fi străini
+Fă-ne să nu dăm înapoi
+Să Te simţim mereu cu noi.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12,s13,s14

@@ -1,0 +1,13 @@
+[s1]
+Isus m-a eliberat
+Prin braţul Său puternic
+Sunt liber, liber, liber, liber
+
+[s2]
+Nu mai sunt rob,
+Sunt fiu de împărat
+Bateţi din palme, cântaţi,
+Sărbătoriţi-L pe El.
+
+[order]
+s1,s2

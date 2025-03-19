@@ -1,0 +1,28 @@
+[s1]
+2177
+1. Ascultă, tu, poporul Meu
+Și voi vorbi, ascultă Israel
+şi-n ajutor îţi voi veni
+Căci Eu sunt Domnul Dumnezeul Tău
+Pe care-L chemi
+atunci când este greu.
+
+[r1]
+Cor:	/: Cheamă-mă când eşti încercat, cheamă-mă căci
+nu te-am uitat
+Şi Eu te voi izbăvi,
+iar tu mă vei proslăvi :/.
+
+[s2]
+2. Adu ca jertfă Domnului Dumnezeu, mulţumirea, aceasta doresc Eu
+Şi împlineşte-ți juruinţele făcute atunci când
+îţi mergea bine.
+
+[s3]
+3. Cel ce aduce mulţumire
+ca jertfă, acela proslăveşte numele Meu
+Iar cel care veghează
+asupra căii lui, va fi încununat cu slava Domnului.
+
+[order]
+s1,r1,s2,r1,s3,r1

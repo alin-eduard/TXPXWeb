@@ -1,0 +1,58 @@
+[s1]
+1700.
+1. Când ne apasă păcatele
+Vrem să-L vedem pe Isus
+Să ne aline durerile
+Vrem să-L vedem pe Isus
+Cor:	Nu,nu suntem drepţi
+Dar vrem să-L vedem
+Căci toată povoara ne-a luat
+Ne-a mântuit şi nădejde
+În viaţă ne-a dat
+
+[s2]
+2. Nu vrem doar vorbe pe Isus
+Vrem să-L vedem pe Isus
+Nori când se-adună şi atuncea
+Vrem să-L vedem pe Isus
+Cor:	Nu,nu suntem drepţi
+Dar vrem să-L vedem
+Căci toată povoara ne-a luat
+Ne-a mântuit şi nădejde
+În viaţă ne-a dat
+
+[s3]
+3. Vrem în cântări predici rugăciuni
+Vrem să-L vedem pe Isus
+Călăuzindu-ne pe pământ
+Vrem să-L vedem pe Isus
+Cor:	Nu,nu suntem drepţi
+Dar vrem să-L vedem
+Căci toată povoara ne-a luat
+Ne-a mântuit şi nădejde
+În viaţă ne-a dat
+
+[s4]
+4. Îngerul morţii când va veni
+Vrem să-L vedem pe Isus
+Razele Lui ne vor linişti
+Vrem să-L vedem pe Isus
+Cor:	Nu,nu suntem drepţi
+Dar vrem să-L vedem
+Căci toată povoara ne-a luat
+Ne-a mântuit şi nădejde
+În viaţă ne-a dat
+
+[s5]
+5. Sus în mărirea de nevisat
+Vrem să-L vedem pe Isus
+Să-I mulţumim pentru Harul dat
+Vrem să-L vedem pe Isus
+Cor:	Nu,nu suntem drepţi
+Dar vrem să-L vedem
+Căci toată povoara ne-a luat
+Ne-a mântuit şi nădejde
+În viaţă ne-a dat
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,100 @@
+[s1]
+Fa
+1. Fericire ai în viaţă
+Când trăieşti lângă Hristos
+Renunţând la orice lucru
+Ce nu-ţi este de folos
+318.
+
+[s2]
+Orice vei vedea în viaţă
+Să nu judeci tu întâi
+Ca nu cumva de ruşine
+Chiar la urmă să rămâi.
+
+[r1]
+Cor: /:Să te uiţi întâi la tine
+Dragul meu
+Să te-ntrebi oare îi placi
+Lui Dumnezeu
+
+[s3]
+Şi să vezi dacă-i bine
+Ce vrei să faci
+De nu-i place
+Stai la locul tău şi taci. :/
+
+[s4]
+2. Aşa sună azi cuvântul
+Pentru orişice fiinţă
+Moştenirea se primeşte
+Numai dacă ai credinţă
+
+[s5]
+Nu vorbi-n chip uşuratic
+Nicicând aproapelui tău
+Numai cu duhul blândeţei
+Ca să-i placi lui Dumnezeu.
+
+[r2]
+Şi să vezi dacă-i bine
+Ce vrei să faci
+De nu-i place
+Stai la locul tău şi taci.:/
+
+[s6]
+3. Judecă orice cuvinte
+Care-ţi ies din gura ta
+Căci vorbind în multe feluri
+Poţi stârni în jur ura
+
+[s7]
+Caută deci în orice vreme
+Preaiubit ascultător
+Cuvântul tău să servească
+Ca un leac alinător.
+
+[s8]
+4. Ca şi soarele la-amiază
+Străluci-v-al tău cuvânt
+Dacă pe prim plan în viaţă
+Poţi să-l ai pe Duhul Sfânt
+
+[s9]
+Nu dori nicicând în viaţă
+Să faci rău la nimenea
+Căci dacă vei dori astfel
+Răul vine-n calea ta.
+
+[s10]
+5. Să nu faci nimic în viaţă
+Să nu-ntrebi pe Dumnezeu
+Căci vei plânge mult odată
+Tu şi tot sufletul tău
+
+[s11]
+O să fii atunci puternic
+Zguduit din temelii
+Şi al tău loc are să fie
+Între cei morţi, nu între vii.
+
+[s12]
+6. Iar de cauţi a-nţelege
+Tot ce Domnul aici a spus
+Ai să fii un copil care
+Ai să placi mult lui Isus
+
+[s13]
+Dacă tu deci vei împlini
+Tot ce-aici ai auzit
+Garantată-ţi este viaţa
+Sigur vei fi mântuit.
+
+[s14]
+Şi să vezi dacă-i bine
+Ce vrei să faci
+De nu-i place
+Stai la locul tău şi taci.:
+
+[order]
+s1,s2,r1,s3,s4,s5,r1,r2,s6,s7,r1,r2,s8,s9,r1,r2,s10,s11,r1,r2,s12,s13,r1,s14

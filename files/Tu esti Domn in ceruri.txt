@@ -1,0 +1,22 @@
+[r1]
+Tu eşti Domn în ceruri,
+Domnu-ntregii lumi.
+Stăpâneşti în glorie
+Prin cruce triumfând.
+
+[r2]
+Noi te înălţăm,
+Mărim numele Tău,
+Domn peste pământ
+Noi te proclamăm.
+
+[r3]
+Lauda să răsune
+În ţara mea, Doamne,
+Cât de minunat,
+Cât e de plăcut,
+Cât de maiestuos,
+Doamne e numele Tău!
+
+[order]
+r1,r2,r3,r1,r2,r3

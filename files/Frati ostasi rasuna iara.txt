@@ -1,0 +1,44 @@
+[s1]
+Fraţi ostaşi rasună iară,
+Doar la lupte sfinte
+/:După încercări amare
+Glasul Lui ne cheamă iară
+Pentru Sfânta Slavei ţară, înainte:/
+
+[s2]
+Astăzi, marea Lui chemare
+Peste văi fierbinte
+/:După o lungă înoptare
+Soarele din nou răsare
+Pentru Numele Său mare, înaite.:/
+
+[s3]
+După lupta ce-a trecută
+Mulţi sunt azi morminte
+/:Dar Hristos din Cer ne-ajută
+Cu puterea-I nevăzută
+Biruinţa nu-i pierdută înainte:/
+
+[s4]
+Dar chemarea-nflăcărată
+Azi luaţi aminte
+/:Să le ridicăm deodată
+Cu voinţă neînfricată
+Biruinţa îi câştigată înainte:/
+
+[s5]
+Fraţi viteji, se vede în faţă
+Ţinta luptei sfinte
+/:Pentru Slava ei măreaţă
+Pentru veşnica viaţă
+Pentru tot ce avem în faţă înainte:/
+
+[s6]
+Duce-ţi peste tot fiorul
+Noua luptei sfinte
+/:Către Cer ne cheamă Domnul
+Steagul sus şi tot poporul,
+Cu Isus biruitorul înainte:/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,76 @@
+[s1]
+1. Isus cu ucenicii
+Din templu când ieşeau
+Pe muntele Măslinilor şedeau
+Cu vorbe frumoase
+Cu gânduri miloase
+Pe toţi iubiţii lui îi învăţa.
+295.
+
+[s2]
+2. O spune-ne Isuse
+Şi ultimele vorbe
+Până când Tu între noi
+Nu vei mai fi
+O spune-ne Isuse
+Când asta o să fie
+Când Tu cu mare slavă vei veni.
+
+[s3]
+3. Veţi auzi războaie
+Şi veşti de războaie
+Norod contra norod se va scula
+Vor fi boli şi moarte
+Şi foamete în lume
+Şi sânge mult din fraţi se va vărsa.
+
+[s4]
+4. Se va răci în Domnul
+Credinţa şi nădejdea
+Şi dragostea din fraţi se va răci
+Şi cei fără de Domnul
+Se vor răscula
+Pe mulţi din credincioşi îi va robi.
+
+[s5]
+5. Să ştiţi că judecata
+Atunci va fi aproape
+Când templul Lui de toţi va fi urât
+Vegheaţi în credinţă
+Şi-n rugăciuni fierbinţi
+Ca-n inimă s-aveţi
+Pe Domnul Sfânt.
+
+[s6]
+6. Iar soarele şi luna se vor întuneca
+Şi stelele din ceruri vor cădea
+Iar cerul şi pământul
+Se va cutremura
+Şi toţi oamenii moartea vor căuta.
+
+[s7]
+7. Se vor ruga ca munţii
+Să cadă peste dânşii
+Şi munţi de atunci nu vor mai fi
+Se vor ruga ca morţii
+Să iasă din morminte
+Să intre cu tot sufletul sub pământ.
+
+[s8]
+8. Iar cei ce-or fi atunci
+La câmp şi nu acasă
+Întoarcerea să nu ne fie în gând
+Căci Domnul se-ngrijeşte
+De orişicare suflet
+Pe care-n lume L-a urmat cântând.
+
+[s9]
+9. Se va arăta pe cer
+Păstorul lumii blând
+Privind cu mare slavă pe pământ
+Iar cei neprihăniţi
+Vor sta 'naintea slavei
+Privind cu bucurie în cer cântând.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

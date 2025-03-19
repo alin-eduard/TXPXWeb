@@ -1,0 +1,38 @@
+[s1]
+Strigăte de biruinţă, osanale şi urale,
+Se înalţă Israele, azi în corturile tale,
+Vechi stindarde se ridică, pretutindeni maiestuos,
+Răspândind pe-ntreg pământul, biruinţa Lui Christos.
+
+[r1]
+Flutură peste palate,
+peste tronuri şi toiege,
+Flamura care vesteşte
+că Isus Hristos e Rege,
+Nu e alt Stăpân în lume,
+e un singur Domnitor,
+Domnul vieţii, Domnul slavei,
+e Stăpânul tuturor.
+
+[s2]
+Azi e ziua ce ne-a dat-o,
+Dumnezeu, ca sărbătoare,
+Ca să ştie toată lumea,
+Dumnezeu cât e de mare,
+Azi e ziua-n care Domnul,
+Creatorul tuturor,
+A-nviat din groapa morţii,
+pârga învierilor.
+
+[s3]
+Soarele din înălţime,
+ca un steag de strălucire,
+Se avântă să ne spună,
+Dumnezeu este iubire
+Iar Biserica-mbrăcată
+în porfir de in curat,
+Cântă-n clocot de iubire,
+Mirelui Cel aşteptat
+
+[order]
+s1,r1,s2,r1,s3,r1

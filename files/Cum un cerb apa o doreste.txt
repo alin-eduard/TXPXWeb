@@ -1,0 +1,14 @@
+[s1]
+Cum un cerb apa o doreşte,
+Tot aşa sufletul meu
+Însetează după Tine,
+Prea iubit Mîntuitor!
+
+[s2]
+/: Tu eşti singurul adăpost
+În timpul greu şi întunecos,
+Tu eşti apa vieţii sfinte care
+Spală viaţa mea :/
+
+[order]
+s1,s2

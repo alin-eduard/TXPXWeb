@@ -1,0 +1,34 @@
+[s1]
+156.
+Re
+1. Privegheaţi şi vă rugaţi într-una
+Domnul vine în curând.
+El ia pe ai Săi cu Sine-n slavă,
+Care-n rugi stau aşteptând.
+
+[r1]
+Cor: Roagă-te fără-ncetare
+Aşteptând pe Domnul Tău
+În curând El vine-n slavă,
+Să ne ia la tronul Său.
+
+[s2]
+2. Privegheaţi şi vă rugaţi într-una
+Că cel rău e ne-adormit;
+Îmbrăcaţi în haină a dreptăţii,
+Ce-n Isus am dobândit.
+
+[s3]
+3. Privegheaţi şi vă rugaţi într-una
+De păcat vă curăţiţi;
+Vă-ntăriţi în al lui Isus sânge,
+Şi la luptă iar porniţi.
+
+[s4]
+4. Privegheaţi şi vă rugaţi într-una
+Domnul vă va da răspuns;
+Ca în harul Lui mereu să creşteţi
+Până veţi fi colo sus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

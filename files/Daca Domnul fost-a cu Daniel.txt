@@ -1,0 +1,24 @@
+[r1]
+/: Dacă Domnul fost-a cu Daniel :/
+El sigur cu mine va fi
+
+[s1]
+De-aş fi în mâna celor răi,
+El sigur cu mine va fi;
+De-aş fi şi eu în gropi cu lei,
+El sigur cu mine va fi;
+
+[s2]
+Chiar de-aş ajunge acuzat,
+El sigur cu mine va fi.
+Chiar nedreptăţi când mi se fac,
+El sigur cu mine va fi;
+
+[s3]
+În valea umbrelor morţii
+El sigur cu mine va fi;
+Domnul îmi e scut al vieţii:
+El sigur cu mine va fi.
+
+[order]
+r1,s1,r1,s2,r1,s3,r1

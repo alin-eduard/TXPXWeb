@@ -1,0 +1,30 @@
+[s1]
+Pe Tin’ te laud Isuse
+Pentru bunătatea Ta
+Pentru-a Ta milă nespusă
+Ce-o araţi în viaţa mea
+
+[s2]
+Eu am o călăuză
+Pe acest pământ străin
+Şi-n orice-nprejurare
+Tu îmi eşti al meu sprijin
+Eu am o călăuză
+Pe Duhul Tău cel sfânt
+Pe care mi L-ai dat
+Atunci când m-ai sigilat
+
+[s3]
+Ajută-ne, o , Doamne
+Să îţi facem voia Ta
+Toţi ca să putem ajunge
+Sus în cer în casa Ta
+
+[s4]
+/: Şi-o veşnicie-ntreagă
+Mereu nedespărţiţi
+Cu sfinţii împreună
+Pe Isus să-L preamărim :/
+
+[order]
+s1,s2,s3,s4

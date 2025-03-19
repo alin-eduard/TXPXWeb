@@ -1,0 +1,25 @@
+[s1]
+Dragi minute ne-a dat
+Dumnezeu nouă,
+Ca să ne vedem cu fraţii noştri.
+/: Drag Isus, aceasta
+ne-a promis-o nouă,
+Că El se prezintă la noi :/
+
+[s2]
+Ce bucurie când ne
+strângem-naintea Lui
+Uitând necazurile vieţii.
+/: Cât de bine este
+îmbrăcat cu Duhul Sfânt
+Şi-a lăuda pe Dumnezeu :/
+
+[s3]
+Către Sion ne silim,
+acolo ne-odihnim,
+La izvorul de apă vie.
+/: La acest izvor inimile se-nnoiesc,
+Şi către Sion se silesc :/
+
+[order]
+s1,s2,s3

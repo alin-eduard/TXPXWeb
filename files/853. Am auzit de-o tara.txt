@@ -1,0 +1,53 @@
+[s1]
+853.
+1.  Am auzit de-o ţară
+De Ţara lui Isus
+Şi că-i frumoasă tare
+Cu bucurii nespuse.
+Eu ştiu că ţara-i bună
+Şi că-i frumoasă tare
+Iar cel ce intră-n ea
+În veci el nu mai moare.
+
+[s2]
+2. Grăbeşte-te măi frate
+Să intri-n acea ţară
+Că vin necazuri multe
+Să nu rămâi afară.
+De aceea Isus strigă
+Veniţi toţi azi la Mine
+Căci necazul e mare
+Cum nu se poate spune.
+
+[s3]
+3.  Mult nu va mai ţine
+Viaţa asta grea
+Căci iată vine Domnul
+Vine să ne ia.
+O, ce bucurie
+Ne aşteaptă acolo sus
+Când pentru vecie
+Vom fi cu Isus.
+
+[s4]
+4. Ascultă suflet drag
+Ce vrea azi Dumnezeu
+El vrea să laşi păcatul
+Să te întorci la El.
+Căci vei dori odată
+Să I te-nchini mereu
+Dar Isus îţi va spune
+Tu du-te-n chinul greu.
+
+[s5]
+5. Apocalipsa arată
+Căci toţi cei mântuiţi
+Vor sta pe străzi de aur
+Şi fi-vor fericiţi.
+Pe marea de cristal
+Se va auzi un cor
+Se va cânta cântarea
+De biruitorilor.
+
+[order]
+s1,s2,s3,s4,s5

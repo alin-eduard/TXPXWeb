@@ -1,0 +1,38 @@
+[s1]
+Suntem in lume calatori
+mai calatori ca norii,
+Unii se duc inspre apus
+altii rasar ca zorii.
+Unii se se multumesc aici
+traind numai in jale,
+Altii se duc si se trudesc
+sarind peste hotare.
+
+[r1]
+/: Oriunde ai fi o nu uita
+te-asteapta vesnicia,
+Fi intelept fi vegheator
+te asteapta mantuirea. :/
+
+[s2]
+Traim o viata de suspin
+curand sfarsim calatoria,
+De nu-L slujesti pe Creator
+nu vei intra in bucurie.
+Nu merita se-ti legi viata
+de veacul acesta trecator,
+Mai bine leagati-o de Domnul
+de vrei sa ai un viitor.
+
+[s3]
+Noi zi de zi ne despartim
+asa-i in pribegie,
+Unii se duc iar alti vin
+alti spre vesnicie.
+Dar vine vine vine-o zi
+slavita glorioasa,
+Vine o zi peste pamant
+vom reveni acasa.
+
+[order]
+s1,r1,s2,r1,s3,r1

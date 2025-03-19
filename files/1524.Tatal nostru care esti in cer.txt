@@ -1,0 +1,47 @@
+[s1]
+1524.   La m
+1. Tatăl nostru care eşti în ceruri
+Prea sfânt şi adevărat
+Fii de-a pururi praslăvit în veci
+Ca Domn şi Împărat
+Sus în cer şi la noi pe pământ
+Fii binecuvântat
+Ca cel mai adorat
+/: Pentru c-ai venit din cer
+Mult iubit ca Fiu ca Miel
+Ţintuit pe cruce de păcat
+De blestem de marea vină
+Ne-ai scăpat ne-ai dat lumină
+Prin sfânt sânge ne-ai răscumpărat :/
+
+[s2]
+2. Iar când Tu prin încercări ne treci
+Când vin fiorii reci
+Izbăveşte-ne de cel viclean
+Ai tăi suntem pe veci
+Harul care Tu ni l-ai adus
+În lumea celor răi
+Fie cu toţi ai tăi
+/: Strig spre Tine zi şi noapte
+Tu să mă păzeşti prin toate
+Braţul tău să-mi fie ajutor
+Când pământul toată zarea
+Se va zgudui de marea
+Zi a groazei şi-ncercărilor :/
+
+[s3]
+3. Pentru toate noi îţi mulţumim
+Tată bun din cer
+Tuturora Tu în dar Te dai
+Celor ce Te cer
+Fara bani si fara plata  jertfa ta va fi
+Pururea pe veci pâinea lumii-ntregi
+/: Doamne în Tine ni-e scăparea
+Stânca noastră scutul calea
+Căci prin toate Tu ne izbăveşti
+Ţie-ţi înălţăm cântarea
+Care să străpungă zarea
+Căci pe toate Tu le stăpâneşti :/
+
+[order]
+s1,s2,s3

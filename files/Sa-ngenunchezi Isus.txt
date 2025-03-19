@@ -1,0 +1,26 @@
+[s1]
+Să-ngenunchezi Crist’ te va primi
+Astăzi la El să vii.
+Vocea-I s-asculţi, viaţa să ţi-o schimbi
+Să n-ai atâtea griji.
+/: La crucea Lui, grija să-ţi laşi
+Să-ngenunchezi, Isus te va primi! :/
+
+[s2]
+Să-ngenunchezi, mai există loc
+Vrea slava să ţi-o dea
+Şi fericit sunt în acel loc,
+Da-i azi inima ta
+/: La crucea Lui, grija să-ţi laşi
+Să-ngenunchezi, Isus te va primi! :/
+
+[s3]
+Să-ngenunchezi, să îndepărtezi
+Chiar grija inimii.
+Noul tărâm prin credinţă-l vezi
+Vino! Acum să vii!
+/: La crucea Lui, grija să-ţi laşi
+Să-ngenunchezi, Isus te va primi! :/
+
+[order]
+s1,s2,s3

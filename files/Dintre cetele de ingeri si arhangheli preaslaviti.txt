@@ -1,0 +1,37 @@
+[s1]
+Dintre cetele de îngeri
+Si arhangheli preaslăviti,
+A venit un sol în vale la păstori:
+„Nu vă temeti vă zic vouă,
+Si nu vă înspăimântati,
+Vă aduc o veste bună
+Si pe Domnul lăudati!”
+
+[s2]
+/:Slavă lui Dumnezeu,
+slavă lui Dumnezeu.
+În locurile preaînalte,
+Slavă lui Dumnezeu.
+Si pace fie pe pământ,
+pace pe pământ.
+Între oamenii plăcuţi Lui,
+pace pe pământ.:/
+
+[s3]
+Astăzi în cetatea mică,
+în cetatea Betleem.
+S-a născut Mântuitorul
+Dumnezeu, „Dumnezeu”.
+Veti găsi un prunc acolo,
+este Marele-mpărat.
+Înfăsat în scutece,
+si-ntr-o iesle asezat.
+
+[s4]
+/:Si de-odată valea-ntreagă,
+De cântare s-a umplut.
+De cântarea bucuriei,
+Căci Mesia s-a născut.:/
+
+[order]
+s1,s2,s3,s4

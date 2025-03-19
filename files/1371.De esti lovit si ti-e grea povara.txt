@@ -1,0 +1,30 @@
+[s1]
+1.	De eşti lovit şi ţi-e grea povara
+N-ai vrea astăzi să te ridici
+Astăzi e ziua hotărâtoare
+Trece Isus pe aici.
+Cor:	/ : Trece Isus pe aici :/
+Cheamă-l şi cere-i îndurare
+Trece Isus pe aici.
+1371.          Mi
+
+[s2]
+2.	Ce vrei să-ţi fac Isus te întreabă
+Nu auzi tu iubitu-i glas
+Vino şi spune-i ce te apasă
+Să fii eliberat.
+Cor:	/ : Trece Isus pe aici :/
+Cheamă-l şi cere-i îndurare
+Trece Isus pe aici.
+
+[s3]
+3.	Trece Isus prin adunare
+Nu vrei de haina-i să te atingi
+Are putere de vindecare
+Trece Isus pe aici.
+Cor:	/ : Trece Isus pe aici :/
+Cheamă-l şi cere-i îndurare
+Trece Isus pe aici.
+
+[order]
+s1,s2,s3

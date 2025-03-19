@@ -1,0 +1,53 @@
+[s1]
+888.
+1.  Mai frumos ca şi soarele
+Străluceşte faţa Sa
+Mai frumos ca şi soarele
+Străluceşte frăţimea.
+2.  În Ierusalimul ceresc
+Locul meu e pregătit
+În Ierusalimul ceresc
+Viaţă fără de sfârşit.
+
+[s2]
+3.  Veniţi să ne dăm silinţa
+Cu toţi să ne pregătim
+În Ierusalimul ceresc
+Viaţă fără de sfârşit.
+4.  Curând s-a schimba pământul
+Şi cerul se va schimba
+Noi în viaţă veşnică
+Cu toţi ne vom bucura.
+
+[s3]
+5.  O cunună strălucită
+Noi pe frunte vom purta
+Şi cu toţi în haine albe
+Lângă Dumnezeu vom sta.
+6.  El ne şterge lacrimile
+La toată biserica
+Şi-o va duce la cununie
+În strălucita casă a Sa.
+
+[s4]
+7.  Sus pe muntele iubirii
+Cu îngerii vom cânta
+În neprihănirea sfântă
+Aleluia vom cânta.
+8.  Atunci plini de bucurie
+Contra morţii vom striga
+Du-te moarte necurată
+Căci căzui biruinţa.
+
+[s5]
+9.  Atunci mireasa cea sfântă
+Cu împăratul cel ceresc
+Se va bucura în mărire
+În cortul Dumnezeiesc
+10.  O tu mireasă iubită
+Iubeşte-ţi Mirele tău
+Ca să fii odată pusă
+La dreapta lui Dumnezeu.
+
+[order]
+s1,s2,s3,s4,s5

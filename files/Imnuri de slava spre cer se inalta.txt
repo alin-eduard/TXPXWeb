@@ -1,0 +1,26 @@
+[s1]
+Imnuri de slava spre cer se inalta
+In cinstea Mantuitorului,
+Cant osanale si cant aleluia
+Slava ii cant doar Lui.
+
+[r1]
+/: O, te uneste cu mine slaveste
+Pe Domnul ce te-a iubit nespus,
+Il onoreaza, cu drag il urmeaza
+Te-nchina doar lui Isus. :/
+
+[s2]
+Am ratiune si sunt o minune
+Creat spre onoarea Domnului,
+Duhul din mine o stie prea bine
+Slava ii cant doar Lui.
+
+[s3]
+Uita-te frate la harul ce-ai parte
+S-ajungi insusi fiu de Dumnezeu,
+Mare rasplata pe tine te-asteapta
+Ramai cu Isus mereu.
+
+[order]
+s1,r1,s2,r1,s3,r1

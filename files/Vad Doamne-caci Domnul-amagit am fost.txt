@@ -1,0 +1,166 @@
+[s1]
+Văd, Doamne, chipul Tău strălucitor
+Şi-n stele sus, şi-n soare, şi în nor.
+Dar chipul Tău şi omul l-a purtat
+În vremea când era nevinovat
+Căci după chipul Tău tu l-ai creat
+Să fie sfânt şi fără de păcat.
+
+[s2]
+/: Omule nu intamplarea,
+Ti-a dat chipul minunat,
+Dumnezeu cu indurarea,
+El te-a binecuvantat. :/
+
+[s3]
+Vad Doamne chipul Tau in adunari,
+Prin Duhul Sfant cu dar de vindecari,
+Tu locuiesti in cerul stralucit
+Dar vii si langa omul umilit,
+Ca sa-L ridici din umilinta lui
+Si-n carul mantuirii sa il sui.
+
+[s4]
+4
+/: Omule nu intamplarea,
+Ti-a dat chipul minunat,
+Dumnezeu cu indurarea,
+El te-a binecuvantat. :/
+
+[s5]
+5
+Căci Domnul nu doreşte
+moartea păcătosului
+Şi-ar vrea să se întoarcă
+din calea lui cea rea
+Să vină la lumină, să fie mântuit
+Căci vremea îndurării
+e-aproape de sfârşit.
+
+[s6]
+/: Căutaţi pe Domnul
+Câtă vreme se poate găsi !
+Să chemăm Numele Lui cel mare
+Care poate şi azi mântui ! :/
+
+[s7]
+7
+Căci Dumnezeu nu ţine-n
+seamă al tău murdar trecut
+A ta necunoştinţă,
+în care te-ai zbătut.
+El ţi-a deschis o poartă
+sus pe care poţi veni
+E poarta mântuirii,
+deci nu mai zăbovi !
+
+[s8]
+8
+/: Căutaţi pe Domnul
+Câtă vreme se poate găsi !
+Să chemăm Numele Lui cel mare
+Care poate şi azi mântui ! :/
+
+[s9]
+9
+Căci Domnul pentru
+tine pe o cruce a murit
+Acolo la Golgota, ca să fii mântuit
+Iar Tatăl din mărire
+din mormânt L-a înviat
+Şi-n marea Lui iubire
+poţi fi şi tu iertat.
+
+[s10]
+10
+/: Căutaţi pe Domnul
+Câtă vreme se poate găsi !
+Să chemăm Numele Lui cel mare
+Care poate şi azi mântui ! :/
+
+[s11]
+11
+Deci vino la izvorul
+care curge ne-ncetat
+Şi bea din apa vie,
+tu, suflet însetat!
+Căci mâine se prea poate
+ca să fie prea târziu
+Deci vino azi la Domnul
+din moarte şi suspin!
+
+[s12]
+12
+/: Căutaţi pe Domnul
+Câtă vreme se poate găsi !
+Să chemăm Numele Lui cel mare
+Care poate şi azi mântui ! :/
+
+[s13]
+13
+Amăgit am fost de lume,
+Amăgit am fost mereu,
+Până-n ziua ceea mare
+/: Când m-a găsit Dumnezeu. :/
+
+[s14]
+14
+/:M-a găsit, m-a salvat Dumnezeu!:/
+/: Mi-a iertat :/ Păcatul meu!
+Lui Isus inima I-am predat,
+Aleluia-I cânt, sunt salvat!
+
+[s15]
+Banii mi-au fost amăgirea,
+Banii m-au orbit mereu
+Şi-am cântat deşertăciunii,
+/: Morţii sufletului meu. :/
+
+[s16]
+16
+/:M-a găsit, m-a salvat Dumnezeu!:/
+/: Mi-a iertat :/ Păcatul meu!
+Lui Isus inima I-am predat,
+Aleluia-I cânt, sunt salvat!
+
+[s17]
+Cei ce nu-L cunosc pe Isus
+Astăzi mă batjocoresc,
+Dar îndur orice ocară
+/: Pentru Domnul meu ceresc. :/
+
+[s18]
+18
+/:M-a găsit, m-a salvat Dumnezeu!:/
+/: Mi-a iertat :/ Păcatul meu!
+Lui Isus inima I-am predat,
+Aleluia-I cânt, sunt salvat!
+
+[s19]
+Toţi cei dragi m-au dat uitării
+Pentru simplu crezul meu,
+Dar eu am o mângâiere:
+/: Nu mă uită Dumnezeu!:/
+
+[s20]
+20
+/:M-a găsit, m-a salvat Dumnezeu!:/
+/: Mi-a iertat :/ Păcatul meu!
+Lui Isus inima I-am predat,
+Aleluia-I cânt, sunt salvat!
+
+[s21]
+Nu mai am nici-o îndoială:
+Isus este Domnul meu!
+Dându-Şi viaţa la Golgota,
+/: Am primit viaţă si eu.:/
+
+[s22]
+22
+/:M-a găsit, m-a salvat Dumnezeu!:/
+/: Mi-a iertat :/ Păcatul meu!
+Lui Isus inima I-am predat,
+Aleluia-I cânt, sunt salvat!
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12,s13,s14,s15,s16,s17,s18,s19,s20,s21,s22

@@ -1,0 +1,69 @@
+[s1]
+1. Milostiv Doamne mai eşti
+Dintre slăvile cereşti
+Pământul, cerul Te ascultă
+Împlineşte a Ta poruncă.
+299.
+
+[s2]
+2. Toate, toate-n mersul lor
+Te cunosc ca Creator
+Numai omul tău iubit
+Pe altă cale a pornit.
+
+[s3]
+3. Dintre toate ce-ai făcut
+Pe om l-ai iubit mai mult
+Singur omul nu Te ascultă
+Nu-mplineşte a Ta poruncă.
+
+[s4]
+4. Omul tot spune mereu
+Că nu este Dumnezeu
+El susţine că natura
+Lui i-a construit făptura.
+
+[s5]
+5. Dar se-ntâmplă adese ori
+Au nevoie de ajutor
+Şi atunci strigă des la Tine
+Ai milă Doamne de mine.
+
+[s6]
+6. Când văd moartea-n faţa lor
+Toţi cer al Tău ajutor
+Să lungeşti a lor viaţă
+Pe pământul cel cu ceaţă.
+
+[s7]
+7. Şi apoi unii zic aşa
+Doamne dacă m-oi scăpa
+Toată viaţa n-oi uita
+Şi de Tine oi asculta.
+
+[s8]
+8. Dar Tu cunoşti inima
+Pe om şi făptura sa
+Cunoşti gândul omului
+Chiar şi viclenia lui.
+
+[s9]
+9. Doamne cine ar putea
+Să fugă de faţa Ta
+Ca şi Iona a-ncercat
+Dar şi-n mare l-ai aflat.
+
+[s10]
+10. Anania şi Safira
+Să Te mintă s-au gândit
+Dar Tu pe loc i-ai găsit
+Cu moartea i-ai pedepsit.
+
+[s11]
+11. Oare cine ar putea
+Să stea înaintea Ta
+Tu eşti singur Dumnezeu
+Duhul Sfânt şi Fiul Tău.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11

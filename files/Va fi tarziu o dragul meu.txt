@@ -1,0 +1,28 @@
+[s1]
+Va fi tarziu o, dragul meu
+Sa te intorci la Dumnezeu
+Cand viata se va termina
+Vei vrea dar nu vei mai putea
+
+[r1]
+Intoarce-te la Dumnezeu
+Intoarce-te din drumul tau
+Si vei fi eliberat
+Intoarce-te la Dumnezeu
+Intoarce-te din drumul tau
+Si vei fi iertat
+
+[s2]
+Nu vezi cum viata ti se scurge?
+Si inca nu esti mantuit
+Frica mortii te cuprinde
+Si de pacate esti robit
+
+[s3]
+Nu astepta prietene
+Nu astepta inca o zi
+Poate ca-n ceasul urmator
+Viata ta se va sfarsi
+
+[order]
+s1,r1,s2,r1,s3,r1

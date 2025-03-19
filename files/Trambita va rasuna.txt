@@ -1,0 +1,38 @@
+[s1]
+Într-un miez de noapte-adâncă
+Va suna, va suna trâmbiţa Sfântă
+Cei ce stau în aşteptare
+Auzi-vor deşteptare.
+
+[r1]
+Trâmbiţa va răsuna
+Pe cei sfinţi, a deştepta
+Hai sfinţeşte-ţi viaţa ta
+Ca să-L poţi întâmpina
+
+[s2]
+Auzi-vor doar acei
+Ce-au vegheat in rugăciune
+Şi în rugi s-au pregătit
+Pentru-a lor Mire iubit.
+
+[s3]
+Căci atunci Mirele lor
+Apărea-va sus pe nori
+Să răpească a Lui mireasă
+Sus în Ţara glorioasă.
+
+[s4]
+O v-a duce în splendoare
+Unde-i veşnic sărbătoare
+Se va bucura nespus
+Cu-al ei mire, scump Isus.
+
+[s5]
+O, ai suflete iubit
+Încă eşti nepregătit
+Suflete te pregăteşte
+În curând Isus soseşte.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

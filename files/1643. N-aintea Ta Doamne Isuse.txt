@@ -1,0 +1,31 @@
+[s1]
+1643.
+1. ’Naintea Ta Doamne Isuse,
+Vreau să rămân mereu plecat,
+Să-mi plâng viaţa mea trecută,
+Şi-amaru-ntregului păcat!
+
+[r1]
+Cor: /: Sub crucea Ta, :/
+Eu pace sfântă voi avea!
+
+[s2]
+2.Sub crucea Ta noi punem totul
+Şi eu în veci voi fi supus,
+Plângând voi spune-ntotdeauna
+Ce blând şi bun eşti Tu, Isus!
+
+[s3]
+3. Cu Tine vreau să port în lume
+Orice necaz, orice nevoi.
+În lupte grele şi-n prigoane,
+Să fim de-a pururi amândoi!
+
+[s4]
+4. În ceasul greu şi fără urme,
+Cărarea Tu-mi vei lumina,
+Şi chiar de vânturi mă vor bate
+Vreau să rămân sub crucea Ta!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

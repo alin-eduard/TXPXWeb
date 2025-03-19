@@ -1,0 +1,26 @@
+[s1]
+Ce bucurie ne aşteaptă-n ceruri sus,
+Ce fericire acolo-n slava Lui Isus.
+Ce strălucire şi splendori noi vom vedea,
+Când va începe veşnicia.
+
+[r1]
+/ :Cu bucurie către ceruri vom zbura,
+Şi îmbrăcaţi în haine albe vom cânta.
+Cu bucurie noi pământul vom lăsa,
+Când va începe veşnicia.:/
+
+[s2]
+Lumea aceasta nu poate oferi,
+Atâta pace, atâtea bucurii.
+Nu vrem de lume să rămânem alipiţi,
+Când va începe veşnicia.
+
+[s3]
+Noi aşteptăm măreaţa zi când va veni,
+Ca să ne ia acolo sus în veşnicii.
+Şi fericiţi atunci cu toţii noi vom fi,
+Când va începe veşnicia.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,39 @@
+[s1]
+1.	Stăpân şi soţ al vieţii mele
+Comoară şi iubirea mea
+Sunt neagră da, dar sunt frumoasă
+Biserică mireasa Ta.
+2.	Sunt  neagră, plină de atâtea greşuri
+A celor ce mă cad amar
+Dar sunt frumoasă prin căinţă
+A celor care se-ntorc prin har.
+1005.
+
+[s2]
+3.	Sunt neagră prin aceia care
+Cu-al lumii duh s-au întinat
+Dar sunt frumoasă prin aceia
+Ce s-au sfinţit cu adevărat.
+4.	Sunt neagră pentru lumea asta
+Când eu nu doresc să-i plac
+Dar sunt frumoasă pentru ceruri
+Şi mă vei iubi în veac.
+
+[s3]
+5.     Sunt neagră în îndoiala celor
+Ce-nfrânt ispite s-au supus
+Dar sunt frumoasă-n cei ce luptă
+Mergând biruitori spre cer.
+6.     Sunt neagră prin acei făţarnici
+Neascultători şi dezbinaţi
+Dar sunt frumoasă-n cei statornici
+Smeriţi şi ascultători de fraţi.
+
+[s4]
+7.      Sunt neagră adesea-n ce se vede
+Dar sunt frumoasă-n ce-i ascuns
+Când ruptă de iubirea lumii
+Iubirea Ta îmi e de-ajuns.
+
+[order]
+s1,s2,s3,s4

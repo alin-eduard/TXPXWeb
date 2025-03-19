@@ -1,0 +1,7 @@
+[s1]
+1829.
+1. /:Cine crede se botează
+Cine-a crezut, s-a botezat:/
+
+[order]
+s1

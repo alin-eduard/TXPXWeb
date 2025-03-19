@@ -1,0 +1,26 @@
+[s1]
+Pentru noi s-a ivit mântuirea,
+Pentru noi Cel de sus, a murit,
+Pentru noi s-a ivit izbăvirea,
+Pentru noi Cel de sus, S-a jertfit.
+
+[r1]
+Lăsaţi Duhul Sfânt să lucreze,
+Să ne elibereze de blestem şi păcat.
+Lăsaţi pe pământ fericirea,
+Dragostea şi unirea ce Isus ne-a lăsat.
+
+[s2]
+Cu Isus vom zbura către stele,
+Cu Isus spre o lume de vis,
+Cu Isus trec ispitele grele,
+Cu Isus voi zbura în paradis.
+
+[s3]
+Te aşteptăm ca să vii Tu, Isuse,
+Aşteptăm slava Ta pe pământ,
+Aşteptăm profeţiile spuse,
+Te aşteptăm Tatăl Nostru cel Sfânt.
+
+[order]
+s1,r1,s2,r1,s3,r1

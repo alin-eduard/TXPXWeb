@@ -1,0 +1,24 @@
+[s1]
+Doresc sa Te cunosc mai mult
+Cuvantul Tau sa il ascult
+Te rog condu-mi Tu pasii mei
+Si inima mea pe calea Ta
+
+[r1]
+Tot ce am nevoie esti Tu Isus,
+Calea mea
+Inceputul meu ai fost si vei fi
+Vesnicia mea
+Astazi vin iti daruiesc
+Toata dragostea mea
+Cu ingerii voi canta,
+/:Te voi inalta:/
+
+[s2]
+Doresc sa Te cunosc mai mult
+In Tine vreau sa ma ascund
+Si in linistea ce o gasesc
+Ma odihnesc
+
+[order]
+s1,r1,s2,r1

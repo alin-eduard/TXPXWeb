@@ -1,0 +1,17 @@
+[s1]
+/: Ţi s-a arătat ce este binele :/
+/: Şi ce alta cere Domnul de la tine? :/
+/:Decât să împarţi dreptate prin lume:/
+
+[s2]
+/:Ţi s-a arătat ce este binele:/
+/:Şi ce alta cere Domnul de la tine? :/
+/:Decât să umbli cu milă prin lume:/
+
+[s3]
+/:Ţi s-a arătat ce este binele :/
+/:Şi ce alta cere Domnul de la tine? :/
+/:Decât să umbli smerit cu Dumnezeu:/
+
+[order]
+s1,s2,s3

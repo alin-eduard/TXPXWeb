@@ -1,0 +1,19 @@
+[s1]
+Binecuvântat e-acest popas
+Când în casa Celui Sfânt
+Ne bucurăm;
+Preamărind pe Domnul într-un glas
+De prezenţa Lui cu toţi ne bucurăm.
+
+[s2]
+Duh Sfânt din slavă, Sol minunat,
+Umple-ne astăzi
+Cu al Tău har bogat;
+Şi pentru daruri în veci
+Te vom lăuda!
+Iar cercetarea Ta
+Din nou o vom simţi
+De­aici când vom pleca.
+
+[order]
+s1,s2

@@ -1,0 +1,44 @@
+[s1]
+1. Tu nu mi-ai da Simone sărutare
+Pe cap tu mir nu mi-ai pus
+În casa ta am intrat ca oricare
+M-ai primit ca să-mi dai
+De mâncare
+1734.
+Cor:	/:Simone, Simone, Simone:/
+
+[s2]
+2. Tu nu mi-ai văzut
+Tălpile ostenite
+De-atâta drum cât am mers
+N-ai picurat lacrimile-ţi smerite
+Cu părul tău nu le-ai şters
+Cor:	/:Simone, Simone, Simone:/
+
+[s3]
+3. Aş vrea să-ţi pun
+Simone o-ntrebare
+Tu ce ai mai scump pe pământ
+Tu nu Mi-ai dat
+Dragul meu sărutare
+De-ai şti măcar acum cine sunt
+Cor:	/:Simone, Simone, Simone:/
+
+[s4]
+4. Tu ceia care-mi plângi
+La picioare
+Cu suflet ars de văpăi
+În casa Lui ai primit tu iertare
+C-ai iubit te-ai smerit te-ai căit
+Cor:	/:Simone, Simone, Simone:/
+
+[s5]
+5. Şi tu astăzi poţi primi iertarea
+Ca femeia în casa lui Simon
+De te pleci te căieşti la picioare
+Şi-l primeşti pe Isus
+Ca şi Domn.
+Cor:	/:Simone, Simone, Simone:/
+
+[order]
+s1,s2,s3,s4,s5

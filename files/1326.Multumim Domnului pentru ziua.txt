@@ -1,0 +1,33 @@
+[s1]
+1.	Mulţumim Domnului pentru ziua
+Pentru harul măreţ ce ne-a dat
+Pentru tot îţi aducem Osana
+Până aici Domnul ne-a ajutat.
+Cor:	Curând vom fi iar împreună
+În veci nu ne vom despărţi
+Pe cap ne va pune cununa
+Hristos pentru veci va domni.
+1326.   Do
+
+[s2]
+2.	Dacă azi ne desparte pământul
+Mari oceane sau graniţe de fier
+Curând ne va uni legământul
+Prin Hristos Domnul Emanuel.
+Cor:	Curând vom fi iar împreună
+În veci nu ne vom despărţi
+Pe cap ne va pune cununa
+Hristos pentru veci va domni.
+
+[s3]
+3.	Mulţumim că într-o zi vom fi iarăşi
+Adunaţi într-un loc minunat
+Îmbrăca-ţi în veşminte de slavă
+Vom cânta Celui ce ne-a salvat.
+Cor:	Curând vom fi iar împreună
+În veci nu ne vom despărţi
+Pe cap ne va pune cununa
+Hristos pentru veci va domni.
+
+[order]
+s1,s2,s3

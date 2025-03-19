@@ -1,0 +1,51 @@
+[s1]
+1343.
+1.  Trece timpul, trece viaţa
+Zboară fără veste
+În curând îţi vei da seama
+Că mult nu mai este
+Te vei duce în ţărână
+Fără a ta voinţă
+Până nu-i târziu amice
+Vin la Pocăinţă.
+
+[r1]
+Cor: Vino nu mai sta
+Nu mai amâna
+Căci atât de scurtă-i viaţa ta
+Doar cu Dumnezeu
+Vei trăii mereu
+Dacă vrei să fii copilul Său.
+
+[s2]
+Te-ai trudit s-aduni aici
+Bani şi bogăţie
+Dacă nu te-ai pregătit
+Pentru veşnicie
+Timpul trece nu stă-n loc
+Merge mai departe
+Vei pleca de pe pământ
+Curând le laşi pe toate.
+
+[s3]
+3.  Prieten drag nu-ţi risipi
+Viaţa ce ţi-e dată
+Pentru tot ce-ai făcut
+Mergi la judecată
+Doar Isus este salvarea
+El este iubirea
+A murit în locul tău
+Să ai mântuire.
+
+[s4]
+Suflete nemântuit
+Azi te hotărăşte
+Vino-n grabă la Hristos
+Şi te pocăieşte
+Să-i slujeşti cât mai trăieşti
+Azi cu bucurie
+Căci Isus ţi-a pregătit
+Un loc în veşnicie.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,23 @@
+[s1]
+Sfânt e Domnul, sfânt e El
+Universul întreg se-nchina
+Aleluia, aleluia
+Slavă sus în Ceruri.
+
+[s2]
+/: Voi cânta,voi cânta
+Doar laudă, în veci de veci
+Va domni, va domni
+Domnul Sfânt mai sus de Ceruri
+Va domni, va domni, În veci de veci :/
+
+[s3]
+/: Tot ce îmi doresc
+Eşti doar Tu Isuse, Isuse :/ x6
+/: Va domni, va domni
+Domnul Sfânt mai sus de Ceruri
+Va domni, va domni,
+În veci de veci. :/
+
+[order]
+s1,s2,s3

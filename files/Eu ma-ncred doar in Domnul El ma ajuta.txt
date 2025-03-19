@@ -1,0 +1,39 @@
+[s1]
+Eu ma-ncred doar in Domnul,
+El ma ajuta
+Eu ma-ncred doar in Domnul,
+El e-a mea stanca
+El e-al meu turn in care,
+La necaz alerg
+Eu ma-ncred doar in Domnul,
+Stiu ca nu gresesc
+
+[r1]
+Pe Domnul cladesc ajutorul meu
+El e slava mea si cand drumu-i greu
+Toate popoarele lumii
+sa se-ncreada-n El
+Eu ma-ncred doar in Domnul,
+stiu ca nu gresesc
+
+[s2]
+Eu ma-ncred doar in Domnul,
+Salvatorul meu
+Eu ma-ncred doar in Domnul,
+El ma iubeste
+El din cer, jos a venit,
+Viata-n dar mi-a dat
+Eu ma-ncred doar in Domnul,
+Caci El m-a salvat
+
+[s3]
+Eu  ma-ncred doar in Domnul,
+El revarsa har
+Eu  ma-ncred doar in Domnul,
+Viata-mi da in dar
+El e-al meu turn in care la necaz alerg
+Eu  ma-ncred doar in Domnul,
+Stiu ca nu gresesc
+
+[order]
+s1,r1,s2,r1,s3,r1

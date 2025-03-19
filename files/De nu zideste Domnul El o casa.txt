@@ -1,0 +1,26 @@
+[s1]
+De nu zideşte Domnul, El o casă,
+Degeaba o zidesc cei ce-o zidesc
+/:De nu păzeşte Domnul o cetate
+Degeaba o păzesc cei ce-o păzesc:/
+
+[s2]
+Degeaba vă sculaţi de dimineaţă
+Şi vă culcaţi târziu în noapte iar
+/:Ca să mâncaţi o pâine câştigată
+Cu multă trudă şi cu-amar:/
+
+[s3]
+Că El la toţi acei ce Îl ascultă
+Şi la toţi acei ce-L iubesc
+/:Ca-n somn şi pâinea celor ce lipseşte
+Domnul la toţi aceia le-o va da:/
+
+[s4]
+Copiii, iată sunt o moştenire
+Şi-o răsplătire de la Dumnezeu
+/:Cum sunt săgeţile pentru războinic
+Copiii ce din tinereţe sunt:/
+
+[order]
+s1,s2,s3,s4

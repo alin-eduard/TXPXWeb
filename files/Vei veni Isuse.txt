@@ -1,0 +1,32 @@
+[s1]
+Vei veni, Isuse, ştiu că vei veni
+Şi pe nori cu slavă Tu vei răsări.
+Mare va fi ziua când ai să cobori,
+Sărbătoarea celor fără sărbători.
+
+[s2]
+Plâng în strâmtorare toţi copiii Tăi
+Alungaţi de lume şi de oameni răi.
+Suspinând Te cheamă bieţii asupriţi,
+Tu, dreptatea celor neîndreptăţiţi.
+
+[s3]
+Mare­i jalea celor care gem şi plâng
+Şi­n amare lacrimi chinul lor şi­l frâng
+Aşteptându­Ţi ziua când ai să revii,
+Bucuria celor fără bucurii.
+
+[s4]
+Cad sub greul crucii mii de oropsiţi,
+Veşnic fără milă, veşnic prigoniţi;
+Şi aşteaptă, Doamne, ziua Ta cu dor,
+Ajutorul celor fără ajutor.
+
+[s5]
+Gem pe drumuri grele bieţii Tăi copii
+Şi cu dor Te cheam, aşteptând să vii,
+Să le stingi în suflet multele dureri,
+Mângâierea celor fără mângâieri.
+
+[order]
+s1,s2,s3,s4,s5

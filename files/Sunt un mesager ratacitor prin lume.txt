@@ -1,0 +1,47 @@
+[s1]
+Sunt un mesager
+ratacitor prin lume,
+Sunt un calator
+spre patria de sus
+Mi-am pus harfa mea
+In slujba unui Nume,
+Nume inaltat si minunat, Isus!
+
+[r1]
+/: Lauda mea e pentru Imparatul,
+Nimeni nu-i ca El, asa frumos...
+Sfant si Bun n-a fost si nu e altul,
+C-al meu Mire drag Isus Hristos! :/
+
+[s2]
+Cum sa nu Ii cant,
+Cand, cu atata mila,
+M-a luat in brate
+Cand zaceam zdrobit
+Cand celor din jur
+Le inspiram doar sila,
+El m-a ridicat,
+Cu drag, caci m-a iubit...
+
+[s3]
+Voi canta mereu,
+cat voi avea suflare,
+Si-L voi preamari,
+Caci, m-a iubit nespus
+Cand mi-a fost mai greu,
+In foc si-n incercare,
+Langa mine a stat,
+Aproape, doar Isus!
+
+[s4]
+Spuneti tuturor,
+sa stie orisicine
+De Iubirea Lui,
+Si-al Sau belsug de Har,
+Orice muritor
+ce sincer la El vine,
+Are viata in veci
+si mantuire in dar!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

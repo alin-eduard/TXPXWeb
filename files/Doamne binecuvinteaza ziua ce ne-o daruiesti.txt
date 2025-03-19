@@ -1,0 +1,38 @@
+[s1]
+Doamne, binecuvintează
+Ziua ce ne-o dăruieşti
+Cu-a iubirii Tale rază
+Orice pas să ni-l păzeşti.
+
+[r1]
+/: Vino, vino, vino la Golgota!
+Vino, vino-acum şi nu mai sta!
+El îţi vindecă durerea toată
+Vino, vino-acum, nu-ntîrzia! :/
+
+[s2]
+Dă-ne, Isuse, iubire
+Ca-n clipa-n care-am acceptat
+Să dăm un preţ de plîns şi sînge
+E tot aşa cum l-am fi dat.
+
+[s3]
+Că-atunci cînd acceptăm Calvarul
+Am şi ajuns biruitori.
+Că cel ce-a-nvins în el ispita
+E-nvingător de mii de ori.
+
+[s4]
+Ca-atunci cînd acceptăm ocara
+Nimica nu va fi mai greu.
+Or curge pietrele, dar ochii
+Ni-i vom scălda în Dumnezeu.
+
+[s5]
+Îţi mulţumim, Doamne Isuse
+Căci pe Golgota Te-ai jertfit
+Căci pentru noi Ţi-ai dat viaţa
+Prin Tine să fim mîntuiţi
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

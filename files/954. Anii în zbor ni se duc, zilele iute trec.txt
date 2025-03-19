@@ -1,0 +1,57 @@
+[s1]
+954.
+1. Anii în zbor ni se duc,
+Zilele iute trec
+Ca un vis viaţa s-a termina
+Ai să pleci în curând
+În mormânt vei intra
+Ce-ai făcut lui Isus vei avea.
+
+[s2]
+2. De ai fost om milos,
+Milă vei căpăta
+Căci Isus pe nume te-a chema
+Servul meu credincios
+Pe pământ ai trăit
+Şi la mine mereu te-ai gândit.
+
+[s3]
+3. Atunci te vei întâlni
+Cu ai noştri strămoşi
+Ce-au murit în Isus credincioşi
+Cu Avraam, cu Isaac,
+Iacov şi Samuel
+David, Natan şi cu Daniel.
+
+[s4]
+4. Cu apostolii cei prigoniţi de popor
+Şi cu ceata martirilor
+Ce pământul cu sângele lor
+L-au udat
+Şi de Isus nu s-au lepădat.
+
+[s5]
+5. Atunci cerul de tine se va bucura
+Îngerii toţi în cor vor cânta
+Uşa Raiului
+Se va deschide frumos
+Ca să intre un suflet credincios.
+
+[s6]
+6. Mirele cel frumos
+Masa le-a pregătit
+Şi la rând tuturor le-a slujit
+Lacrima de pe obraz
+Nu se va mai vedea
+Şi cu Isus ne vom bucura.
+
+[s7]
+7. Faţa Lui va luci
+Ca şi soarele frumos
+Toţi vor fi luminaţi de Hristos
+Soarele cel dorit
+Şi demult aşteptat
+Va striga amin s-a terminat.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

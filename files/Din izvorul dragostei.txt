@@ -1,0 +1,32 @@
+[s1]
+Din izvorul dragostei vino,
+prietene, să bei!
+Apa vieţii curge-n dar,
+grăbeşte-te şi tu !
+Un Samaritean iubit
+pentru tine S-a jertfit
+La izvorul dragostei
+Isus te aşteaptă.
+
+[r1]
+Vezi degrabă unde eşti
+Pe ce cale rătăceşti!
+Vino azi, când eşti chemat
+De Isus eşti aşteptat!
+Dragostea şi mila Lui
+El o dă şi azi oricui
+E de-ajuns să crezi în El
+Şi vei fi fericit.
+
+[s2]
+Din izvorul dragostei vino,
+prietene, să bei!
+Apa vieţii curge-n dar,
+grăbeşte-te şi tu!
+Un Samaritean iubit
+locul tău l-a pregătit
+La izvorul dragostei
+Isus te aşteaptă!
+
+[order]
+s1,r1,s2,r1

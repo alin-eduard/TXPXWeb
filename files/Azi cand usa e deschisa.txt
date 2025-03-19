@@ -1,0 +1,60 @@
+[s1]
+Azi, când uşa e deschisă,
+te îndemn să vii
+Să primeşti iertarea
+sfântă pentru veşnicii.
+
+[s2]
+Nu-I respinge mântuirea
+ceţi-o dă în dar,
+Căci atunci, la judecată, o să plângicu-amar...
+
+[s3]
+O, ascultă azi chemarea
+Celui Sfânt şi Viu,
+Căci sfârşitul e la uşă
+şi va fi târziu.
+
+[s4]
+O, cete vei face-atunci,
+în ziua cea mai grea,
+Când Isus o să apăra în
+splendoarea Sa?
+
+[s5]
+Biblia, tu n-ai crezut-o
+sau ti-a fost ruşine;
+Însă ziua cea de mâine
+Ori vrei, ori nu - vine!
+
+[s6]
+Sus la Tron vedea-vei
+Faţa strălucind, de foc;
+Munţii şi ostroavele
+s-ormuta din loc!
+
+[s7]
+Cărţile de judecată-atunci,
+se vor deschide,
+Morţii, toţi vor amuţi,
+că groaza-i va cuprinde...
+
+[s8]
+Marea o să dea-napoi
+ce-a înghiţit în ea;
+Ce privelişte de frică-atunci
+se va vedea!...
+
+[s9]
+Dar acei ce îl slujiră,
+vor avea odihnă
+Şi, pe fruntea obosită,
+vor primi cununa...
+
+[s10]
+Cât de mare o să fie ziua răsplătirii!...
+Fă s-ajungem toţi,
+O, Doamne-n Ţara Fericirii!
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

@@ -1,0 +1,44 @@
+[s1]
+Sosită e iar primăvara
+Şi câmpul e-nverzit
+Văzduhul e plin tot de păsări,
+De cânt şi ciripit.
+
+[r1]
+/: Iar primăvara vieţii
+E cel mai mare dar
+O, pune-ţi întreaga ta jertfă
+Pe-al Domnului altar. :/
+
+[s2]
+Câmpia e împodobită
+Cu un frumos covor
+De ierburi şi flori minunate
+În mii şi mii de culori.
+
+[s3]
+Pădurea întreagă răsună
+De melodii cereşti
+Sunt cântate duios de păsări
+Ca cele îngereşti.
+
+[r2]
+/:Iar primăvara vieţii
+E cel mai mare dar
+O, pune-ţi întreaga ta jertfă
+Pe-al Domnului altar.:/
+
+[s4]
+E cald-a ei rază de soare
+Cernută pe pământ
+Se duce, se leagănă frunza
+Mişcată, azi, de vânt.
+
+[s5]
+Din suflet, înalţ o cântare
+Spre Bunul Salvator
+C-a dat pe Isus ca să fie
+Al meu mântuitor.
+
+[order]
+s1,r1,s2,r1,s3,r2,s4,r2,s5,r2

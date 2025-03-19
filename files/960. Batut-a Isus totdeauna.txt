@@ -1,0 +1,35 @@
+[s1]
+960.
+1. Bătut-a Isus totdeauna
+Bătut-a la inima ta
+Dar tu ai stat fără de grijă
+N-ai vrut să-I deschizi inima.
+
+[r1]
+Cor:
+Vei plânge odată amarnic
+Dar atuncea va fi prea târziu
+Când viaţa ta azi se extinde
+Se-ndreaptă mereu spre sicriu.
+
+[s2]
+2. Inima ta azi ţi-e închisă
+În ea nu pătrunde deloc
+Cuvântul Scripturii ce sună
+Salvare, salvare pe loc.
+
+[s3]
+3. Isus stă şi astăzi şi bate
+Primeşte-L în inima ta
+Să-I simţi fericirea deplină
+Primeşte-L, o, nu-L refuza.
+
+[s4]
+4. O, vino, o, vino Isuse
+O, vino în inima mea
+O, spală prin
+Jertfa cea sfântă
+Și las-o să fie a Ta.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,32 @@
+[s1]
+Un suspin adânc ma prinde
+Si va spun cu-atâta greu -
+Unul dintre voi Ma vinde !
+Doamne, nu cumva sânt eu ?
+Iata ceasul suferintei
+Voi sa va rugati mereu
+Insa vai de cel cu-argintii !
+/: Doamne, nu cumva sunt eu ? :/
+
+[s2]
+Voi sunteti ca piatra rara
+Numai unu-i asmodeu
+Suflet rânduit sa piara.
+Doamne, nu cumva sunt eu ?
+Voi aveti comori bogate
+Insa el, vrajmasul Meu
+Astazi le-a pierdut pe toate.
+/: Doamne, nu cumva sunt eu ? :/
+
+[s3]
+Astfel in amurgul rece
+Murmura Isus cu greu
+Si spuneau toti doisprezece :
+Doamne, nu cumva sunt eu ?
+Deci si noi, când El ne spune
+Ca-ntre noi e-un fariseu
+Sa soptim in rugaciune :
+/: Doamne, nu cumva sunt eu ? :/
+
+[order]
+s1,s2,s3

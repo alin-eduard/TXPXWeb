@@ -1,0 +1,26 @@
+[s1]
+Un oraş frumoş este pe munte,
+Glorie nespusa în câmpii.
+Eu doresc să văd aşa frumuseţe
+Când voi trece valea plângerii
+
+[r1]
+Tot oraşul de pe munte
+Îi întâmpină pe cei veniţi.
+Bucuria va fi mare
+Şi în veci vom fi toţi fericiţi.
+
+[s2]
+Veniţi toţi trudiţii în acel loc
+Spune, Domnul Isus celor smeriţi.
+Si acolo veţi primi odihnă,
+Îar de Tatăl voi veţi fi primiţi.
+
+[s3]
+Suferinţă, plânsul va dispare,
+In orăşul cel nou minunat.
+Vom cânta cântările de slavă
+Lui Isus căci ne-a răscumpărat.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,52 @@
+[s1]
+2133
+1. Când ești căzut în tristețe amară
+Și suferințele cresc necontenit
+/: Ai vrea să știi când scapi
+de povară
+De tot ce te apasă cumplit :/.
+
+[s2]
+2. Să nu disperi când dureri
+sunt amare
+Când în Hristos este nădejdea ta
+/: Nu dispera căci El este salvarea
+Dreptatea Lui te va salva :/.
+
+[s3]
+3. Să nu te înspăimânți când luntrea-i lovită
+Și disperat privești către val
+/: Nădejdea Ta când e la încercare
+Doar Domnul și al
+dragostei har :/.
+
+[s4]
+4. Să nu mai crezi căci ești dat uitării
+Și căci Isus te lasă disperat
+/: El e prezent în ceasul încercării
+Și nu ai să fii alungat :/.
+
+[s5]
+5. Chiar dacă ai fost ținta săgeții
+Și-n calea ta doar spini ți
+s-au pus
+/: Chiar dacă-i amar gustul vieții
+Tu vino cu el la Isus :/.
+
+[s6]
+6. Tu fii credincios pe a ta cărare
+Nu mai e mult, Isus va veni
+/: Nu-ți va fi lupta doar
+lacrimi amare
+Și cerul tău doar oțelit :/.
+
+[s7]
+7. Fii drept pe cale
+și-ntărește-ți pasul
+Pe calea iubirii să înaintezi
+/: Apleacă genunchii și
+inima frate
+Și-n Domnul Isus să te încrezi :/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

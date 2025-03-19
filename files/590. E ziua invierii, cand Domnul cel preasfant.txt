@@ -1,0 +1,63 @@
+[s1]
+1. E ziua învierii
+Când Domnul Cel preasfânt
+A înviat pe Fiul
+Ce zăcea în mormânt
+De tine şi de mine
+Fu condamnat la moarte
+L-au răstignit pe cruce
+Pentru a noastre păcate.
+/: Hristos a înviat :/
+E viu cu adevărat.
+590.          La b
+
+[s2]
+2. A-ndurat suferinţa
+Din marea Lui iubire
+Să mântuiască lumea
+Din groaznica pieire
+Alt chip pentru salvare
+Nu se găsea niciunde
+Să moară din iubire
+Decât Hristos anume.
+/: Hristos a înviat :/
+Deci fie lăudat.
+
+[s3]
+3. Hristos e Salvator
+E Fiul Celui Sfânt
+S-a dezbrăcat de slavă
+Coboară pe pământ
+Dar răutatea lumii
+Respinge mântuirea
+L-a condamnat la moarte
+Cerându-i răstignirea.
+/: Hristos a înviat :/
+El trebuie urmat.
+
+[s4]
+4. Nu crezi şi tu ca Toma
+Nu crezi până nu vezi
+Îţi trebuie în viaţă
+Minuni şi chiar dovezi
+Te uită şi priveşte
+La tot ce-n jurul tău
+La tot ce este viaţă
+Există Dumnezeu.
+/: Hristos a înviat :/
+El trebuie urmat.
+
+[s5]
+5. Dar Domnul este viaţa
+El nu va sta-n ţărână
+Zdrobind El boldul morţii
+E viaţa cea divină
+Mormântul Lui şi astăzi
+Stă lumii mărturie
+E un simbol al morţii
+Al vieţii din vecie.
+/: Hristos a înviat :/
+În slavă S-a-nălţat.
+
+[order]
+s1,s2,s3,s4,s5

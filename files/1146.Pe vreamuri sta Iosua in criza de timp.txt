@@ -1,0 +1,39 @@
+[s1]
+1.  Pe vremuri sta Iosua în criză de timp
+Erau mulţi duşmani pe pământ
+Dar soarele-n apune şi ei sunt la câmp
+Şi noaptea venea pe pământ.
+Atunci ridică Iosua mâna spre cer
+Cu glas ca de tunet strigând
+Opriţi-vă astre mai daţi-mi răgaz
+Să-i văd pe vrăjmaşi la pământ.
+1146.   Si
+
+[r1]
+Cor: Opreşte-te soare asupra pământului
+Opreşte-te lună şi tu
+Lungească-se ziua aceasta a harului
+Şi nimeni să nu zică nu.
+
+[s2]
+2.   Istoria aceasta de mult retrăim
+E soarele aproape asfinţit
+Duşmanul e încă-n picioare o ştim
+Deşi are capul zdrobit.
+Din ghearele-i crude pe cei disperaţi
+Căutăm ca să-i smulgem acum
+Opreşte Părinte ceresc te rugăm
+Opreşte a soarelui drum.
+
+[s3]
+3.    De este vreun Iosua în veac douăzeci
+Să-nalţe doar glasul spre cer
+Să-i scape de-aici din mormintele reci
+Ce jertfa umană o cer.
+Nu vrem aţipire la pleoape să dăm
+Acum lupta este în toi
+Din noaptea de veci suflete salvăm
+Că Domnul vieţii e-n noi.
+
+[order]
+s1,r1,s2,r1,s3,r1

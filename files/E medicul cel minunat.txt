@@ -1,0 +1,38 @@
+[s1]
+Isus Hristos se­apropie de noi,
+De fiecare,
+E medicul cel minunat
+Ce­aduce vindecare.
+
+[r1]
+Mii de îngeri cântă­n cor,
+Dulce sună glasul lor:
+„Tu, al lumii Salvator,
+Tu, Isus eşti Domnul!“
+
+[s2]
+Orice păcat mărturisit,
+Isus pe veci îl şterge.
+În drumul nostru către cer,
+El înainte merge.
+
+[s3]
+Tu pentru mine ai răbdat:
+Isuse, slavă Ţie!
+Mă­ncred în Tine, Miel jertfit,
+Ce drag îmi eşti Tu mie!
+
+[s4]
+Iubiţi pe Domnul, mari şi mici,
+Căci Domnul vă iubeşte.
+Pe calea Lui umblaţi aici,
+Isus vă însoţeşte.
+
+[s5]
+Iar când în ceruri vom intra,
+Isus va sta ’nainte.
+Cu bucurie­L vom privi
+Cântându­I imnuri sfinte.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

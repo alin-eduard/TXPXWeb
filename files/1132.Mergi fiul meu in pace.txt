@@ -1,0 +1,39 @@
+[s1]
+1132.
+Mergi fiul meu în pace dar pe cale
+Dreptar să iei cuvântul ce ţi-L spun
+/:Să-ţi faci din el merindea vieţii tale
+Şi perna ta şi prietenul tău bun : /
+2.     Nu-i rai atunci când ai de toate-n viaţă
+Nici iad atunci când eşti nenorocit
+/:Nu-ntotdeauna lacrimi să ai pe faţă
+Nici totdeauna zâmbet fericit : /
+
+[s2]
+3.    Adeseori e rău că-ţi merge bine
+Şi-a rareori nu-i bine că ţi-e rău
+/:Dar nu cârti sunt mulţi mai trişti ca tine
+Iar mai voioşi puţini în jurul tău : /
+4.     Fii prieten bun la câţi mai mulţi se poate
+Dar prieteni buni câţi mai puţini să-ţi faci
+/:Lui Dumnezeu tu spune-le pe toate
+Iar oamenilor toate să le faci : /
+
+[s3]
+5.       Datori să-i faci pe toţi faţă de tine
+Dar tu dator să nu fii nimănui
+/:De taina lor ascultă-i pe oricine
+Dar taina ta la nimeni să n-o spui : /
+6.       Nu-ţi dezlega viaţa de iubire
+Nici inima să nu ţi-o mişti din loc
+/:Noroc în lume-i fără fericire
+Iar fericirea-i fără de noroc : /
+
+[s4]
+7.     Mergi fiul Meu în pace dar pe cale
+De vei păzi cu grijă sfatul Meu
+/:Oricâte-ar fi primejdiile tale
+Te va scăpa din toate Dumnezeu : /
+
+[order]
+s1,s2,s3,s4

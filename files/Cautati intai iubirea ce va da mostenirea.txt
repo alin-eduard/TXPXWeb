@@ -1,0 +1,34 @@
+[r1]
+Căutaţi întai iubirea
+ce vă dă moştenirea
+Vieţii ascunse-n Dumnezeu.
+Căutaţi cărarea stramtă
+pe care cei ce cantă
+Îl proslăvesc pe Dumnezeu.
+
+[r2]
+Hai, caută-ţi mantuirea
+Şi ieşi din amorţirea
+ce e-n viaţa ta!
+Căutaţi întai iubirea
+ce vă dă moştenirea
+Vieţii ascunse-n Dumnezeu!
+
+[s1]
+Nu scăpaţi mantuirea,
+căci va veni mania
+Regelui vieţii, Dumnezeu.
+Nu lăsaţi să se piardă
+viaţa fără roadă
+Că-L veţi vedea pe Dumnezeu.
+
+[s2]
+Staţi mult în rugăciune,
+ca astfel să se-adune
+Comoara ce-o dă Dumnezeu.
+Sufletul n-o să-şi piardă
+cei ce pe Isus caută
+Fiul iubit de Dumnezeu.
+
+[order]
+r1,r2,r1,r2,s1,r2,s2,r2

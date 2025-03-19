@@ -1,0 +1,33 @@
+[s1]
+946.
+1.   Vremea a venit, clipa a sosit
+Ora e aici de despărţit
+Noi ne ducem, voi rămâneţi
+Poate că nu ne mai vedem.
+Cor:  Rugându-vă o fraţi iubiţi
+De cântare vă amintiţi
+Noi vă rugăm, ai noştri fraţi
+Niciodată nu ne uitaţi.
+
+[s2]
+2.	Poate că pe acest pământ
+Nu ne vom mai vedea nicicând
+Dar sperăm că o să fie
+O întâlnire pe vecie.
+Cor:Rugându-vă o fraţi iubiţi
+De cântare vă amintiţi
+Noi vă rugăm, ai noştri fraţi
+Niciodată nu ne uitaţi.
+
+[s3]
+3.  Şi acum la a noastră plecare
+Dorim la toţi salutare
+Domnul pe toţi vă sfinţească
+Şi pe veci să vă păzească.
+Cor:Rugându-vă o fraţi iubiţi
+De cântare vă amintiţi
+Noi vă rugăm, ai noştri fraţi
+Niciodată nu ne uitaţi.
+
+[order]
+s1,s2,s3

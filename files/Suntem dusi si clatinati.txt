@@ -1,0 +1,73 @@
+[s1]
+1
+Suntem duşi şi clătinaţi,
+Zbuciumaţi pe-al mării chin
+Prin furtuni şi zile sumbre care
+Ne-ncetat tot vin.
+Într-o ţară-n veci de veci nu
+Coboară umbre reci
+Vei vedea cu ochii tăi
+Când ai să pleci.
+
+[s2]
+2
+În curând zorii vor veni
+Şi în cer acasă vom sosi
+Abia atunci pricepe-vom deplin
+Dumnezeu de ce-a lăsat atâta chin.
+
+[s3]
+3
+Unii sunt flămânzi aici,
+Alţii n-au unde dormi
+Mulţi sunt cei ce locuinţa
+Au în locuri reci, pustii.
+Ne-ntrebăm de ce-i aşa
+Şi răspuns vrem a afla
+Dar Cuvântul Său ne spune :
+“Voia Sa.”
+
+[s4]
+4
+În curând zorii vor veni
+Şi în cer acasă vom sosi
+Abia atunci pricepe-vom deplin
+Dumnezeu de ce-a lăsat atâta chin.
+
+[s5]
+5
+Încercări ne copleşesc,
+Nu-nţelegem rostul lor
+Dar aceasta este calea-n
+Ţara bucuriilor.
+Din cer, ochii Domnului
+Paşii văd a orişicui
+Ne-nsoţeşte în mod
+Tainic harul Lui.
+
+[s6]
+6
+În curând zorii vor veni
+Şi în cer acasă vom sosi
+Abia atunci pricepe-vom deplin
+Dumnezeu de ce-a lăsat atâta chin.
+
+[s7]
+7
+Ispitiţi sîntem ades
+şi-acţionăm necugetat
+Plînge inima zadarnic,
+omul nu e mîngîiat.
+Doamne, nu pot să pricep,
+bine să rezulte-aştept
+Însă răul tot loveşte al meu piept.
+
+[s8]
+8
+În curând zorii vor veni
+Şi în cer acasă vom sosi
+Abia atunci pricepe-vom deplin
+Dumnezeu de ce-a lăsat atâta chin.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

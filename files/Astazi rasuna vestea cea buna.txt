@@ -1,0 +1,24 @@
+[s1]
+Astăzi răsună vestea cea bună
+A înviat Isus
+O, ce splendoare, e sărbătoare
+Plină de har nespus
+
+[r1]
+Slavă, glorie, Isus e biruitor
+Imnuri de mărire cântă al Său popor
+
+[s2]
+Din bezna morţii, regele vieţii
+A înviat Isus
+Sfantă sperantă şi siguranţă
+In suflet ne-a adus
+
+[s3]
+Gol e mormântul, cântă pământul
+A înviat Isus,
+Moartea-I învinsă, Calea-I deschisă
+Spre patria de sus.
+
+[order]
+s1,r1,s2,r1,s3,r1

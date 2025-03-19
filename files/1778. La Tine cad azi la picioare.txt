@@ -1,0 +1,45 @@
+[s1]
+1778.    La m
+1. La Tine cad azi la picioare
+Şi mă-nchin Doamne, te rog
+Ridică-mă din starea care
+Să mă ridic eu nu mai pot
+Prin încercări sunt slab, Isuse
+Mă chinuie durerea grea
+Dar când eu simt a Ta prezenţă
+Mă întăreşti în lupta grea
+Cor:	/:Ai milă:/ de mine Domnul meu
+/:Ai milă:/ te strig
+Ca orbul Bartimeu
+
+[s2]
+Cor:	/:Ai milă:/ de mine Domnul meu
+/:Ai milă:/ te strig
+Ca orbul Bartimeu
+2. Te rog priveşte azi la mine
+Sunt robul Tău ce m-ai iertat
+Şi te mai rog întinde-Ţi mâna
+Căci din dureri eu Te-am strigat
+Îngenunchez `naintea slavei
+Şi a puterii ce o ai
+Te rog coboară în a mea casă
+Şi alinare Tu să-mi dai
+
+[s3]
+3. Cu mulţumire vin azi Isuse
+Căci ruga Tu mi-ai ascultat
+Şi-atunci când Te-am chemat
+O, Doamne
+În casa mea Tu ai intrat
+Mi-ai ascultat a mea dorinţă
+Pe braţul Tău sfânt m-ai purtat
+Şi Tu mi-ai spus “Eu sunt cu tine”
+Şi-atunci pe loc m-ai vindecat
+
+[s4]
+Cor:	/:Ai milă:/ de mine Domnul meu
+/:Ai milă:/ te strig
+Ca orbul Bartimeu
+
+[order]
+s1,s2,s3,s4

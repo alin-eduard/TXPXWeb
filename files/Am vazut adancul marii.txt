@@ -1,0 +1,50 @@
+[s1]
+Am văzut adâncul mării
+Şi atunci m-am îngrozit.
+Şi-am crezut că-s dat uitării
+Şi Domnul m-a părăsit.
+
+[s2]
+/: Dar am zis în disperare:
+„Isuse, nu mă lăsa!
+Doamne,-n mila Ta cea mare,
+Eu Te rog, nu mă uita!..." :/
+
+[s3]
+M-au lovit, fără de milă,
+Valurile înspre mal
+Şi-am crezut că îmi sfărâmă
+Barca un puternic val.
+
+[s4]
+/: Am strigat şi eu ca Iona,
+Din fundul adâncului:
+„Doamne, Doamne,-ntinde-Ţi mâna
+Împotriva valului!..." :/
+
+[s5]
+Când ziceam câ-i sfărâmată
+Barca, iar eu sunt pierdut,
+Văd o mână că-i întinsă:
+Al credinţei veşnic scut!
+
+[s6]
+/: S-a întunecat şi cerul
+Şi văzduhul plin de nori!
+Peste mine-a trecut valul,
+Cu ai morţii reci fiori... :/
+
+[s7]
+Cel ce-a potolit furtuna-e
+Domnul Isus, Cel Iubit;
+Înspre mine Şi-a-ntins mâna
+Şi, de val, m-a izbăvit!
+
+[s8]
+/: De-aş putea să scot din pieptu-mi
+Inima-n versuri s-o pun,
+Ca s-arăt la fiecare
+Cât a fost Domnul de bun! :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

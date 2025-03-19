@@ -1,0 +1,24 @@
+[s1]
+1908
+1. Atunci cu toți te-au părăsit
+Dar mama ta te-a însoțit
+Stătea sub cruce pe calvar
+Plângând cu mult amar
+O Isuse mult ai suferit
+
+[s2]
+2. Afară s-a întunecat
+Când Duhul Tău Tu ți l-ai dat
+Pământul s-a cutremurat
+Asta spre mântuire
+Căci ai fost Fiul celui Preaînalt
+
+[s3]
+3. Sângele Tău ce s-a vărsat
+Spălând al lumii greu păcat
+Și un popor Tu ți-ai format
+O Isuse mult ai mai răbdat
+Să te ridici în slavă.
+
+[order]
+s1,s2,s3

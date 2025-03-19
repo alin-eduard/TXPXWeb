@@ -1,0 +1,30 @@
+[s1]
+O, vino azi, Emanuel,
+Răscumpără pe Israel,
+El geme sub povara grea
+Şi zorii-aşteaptă-n noaptea rea.
+
+[r1]
+Săltaţi, cântaţi, în Israel
+Va reveni Emanuel!
+
+[s2]
+O, vino, vino, Răsărit,
+La cei ce-atâta au tânjit
+Ca bezna nopţii s-o străpungi
+Şi jalea noastră s-o alungi!
+
+[s3]
+Înţelepciune din vecii,
+Adu uitate armonii,
+Că lumea-nstrăinat-ar vrea
+Să meargă pe cărarea Ta!
+
+[s4]
+Tu eşti al neamurilor dor,
+O, vino, scump Mântuitor!
+Alungă ură şi război
+Şi lasă-Ţi pacea peste noi!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,36 @@
+[s1]
+1652.  Mi b m
+1. Amare lacrimi sunt
+Aici jos pe pământ
+Durere suferinţă şi amar
+Atât de mulţi sărmani
+Şi foarte mulţi orfani
+Isuse Tu de toţi îndură-te.
+
+[r1]
+Cor:	Căci te chemăm cu dor
+Şi ne uităm în zări
+De unde izbăvirea va veni
+Căci Doamne ne-ai promis
+În Biblie stă scris
+Căci suferinţa noastră
+S-ar sfârşi.
+
+[s2]
+2. Priveşte-n casa ta
+Şi vezi că-i  lupta grea
+Păzeşte astăzi Tu Biserica
+Să nu dăm înapoi Isuse fii cu noi
+Ne dă puteri
+Din Duhul Tău cel Sfânt.
+
+[s3]
+3. De toţi să te înduri
+La ceruri să ne sui
+Cu toţi cei dragi Isus ce ni i-ai dat
+Şi apoi în Ţara Ta
+Pe veci vom rămânea
+Şi bucuria nu va înceta.
+
+[order]
+s1,r1,s2,r1,s3,r1

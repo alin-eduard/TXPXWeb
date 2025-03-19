@@ -1,0 +1,24 @@
+[s1]
+Nu mai astepta pana
+ca tu sa faci ceva maret
+Sa n-astepti sa arati iubirea Sa
+Multe datorii asteapta
+ca tu sa le indeplinesti
+Lumineaza deci acolo unde esti
+Cineva te-asteapta sa-l conduci la Dumnezeu
+Lumineaza deci acolo unde esti
+
+[s2]
+Deja sa straluciasca-n viata ta
+Chiar lumina Sa de la Golgota
+Deci lasa sa straluceasca-n viata ta
+Las’ sa intre-n inima iubirea Sa
+Vreau ca a mea lumina
+Libera sa stralucesti
+Si mai sus tu sa lucesti
+Sub umbra ascunsa nu vreau sa te tin
+Si mai sus tot mai sus tu sa lucesti
+Lumineaza deci acolo unde esti
+
+[order]
+s1,s2

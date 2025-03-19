@@ -1,0 +1,32 @@
+[s1]
+Omule, lasă păcatul lumii azi
+Și privește înspre al tău Creator!
+Ascultă și inima ta ți-o predă
+Lui Isus, bun Salvator!
+
+[r1]
+/: Vino azi! Te cheamă Isus!
+Azi te cheamă Isus,
+Să vii la El! Da, vino!
+Te-ncrede-n Isus!
+Te-ncrede-n Isus omule! :/
+/: Omule, te cheamă Isus să vii la El
+Sa vii la el! Da, vino!
+Te-ncrede-n El! Te-ncrede-n El!
+Te-ncrede-n El, omule! :/
+
+[s2]
+Isus bate ne-ncetat la ușa ta;
+Timpul trece-n grabă,
+mergi spre Creator!
+Nu uita: Acel ce te primește-acum,
+Mântuire-ți dă în dar.
+
+[s3]
+Omule, privește ținta către cer
+Și grăbește-ți pasul spre locașul sfânt!
+Viața ta eternă să poarte pecetea
+Veșnicului Legământ.
+
+[order]
+s1,r1,s2,r1,s3,r1

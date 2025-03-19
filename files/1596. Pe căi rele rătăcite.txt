@@ -1,0 +1,29 @@
+[s1]
+1596
+1.Pe căi rele rătăcite                   Mult timp am călătorit
+Cor: /:În pofte şi-n deşertăciuni             Fiind a lumii amic
+Şi de toţi eram iubit                                   De jertfa lui Isus n-am ştiut nimic :/
+
+[s2]
+2.Iar călătorind odată                             L-am văzut pe cruce pus          /: Şi văzându-l deodată                         La inimă m-a pătruns
+
+[s3]
+Cor:/:În pofte şi-n deşertăciuni              Fiind a lumii amic                            Şi de toţi eram iubit                                     De jertfa lui Isus n-am ştiut nimic :/
+
+[s4]
+3.Şi atunci pe plâns m-am pus                  Văzându-mă străin fără de Isus :/
+Cu lacrimi şi cu căinţă               Către Isus m-am rugat
+
+[s5]
+Cor:/:În pofte şi-n deşertăciuni             Fiind a lumii amic
+Şi de toţi eram iubit                                    De jertfa lui Isus n-am ştiut nimic :/
+
+[s6]
+4./: Şi de-atunci întotdeauna                  De mâna Lui sunt purtat
+La El când voi fi chemat                   Sus în ceruri de El voi fi încoronat
+
+[s7]
+Cor:/:În pofte şi-n deşertăciuni              Fiind a lumii amic                            Şi de toţi eram iubit                                    De jertfa lui Isus n-am ştiut nimic :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

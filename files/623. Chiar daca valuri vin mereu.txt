@@ -1,0 +1,57 @@
+[s1]
+1.Chiar dacă
+valuri vin mereu
+Şi suferinţa-i mare,
+Tu nu uita că Dumnezeu
+E-n barca vieţii tale.
+623.                								     Sol M
+
+[s2]
+/:Chiar dacă
+vânturi grele bat
+Şi crucea-i grea pe cale,
+Nu dispera, la Dumnezeu
+Găsi-vei alinare :/.
+
+[s3]
+2.	Chiar dacă
+încercări la rând
+Ţi-au vestejit culoarea
+Tu nu uita căci în curând
+Soseşte primăvara.
+
+[s4]
+/: Isuse în încercarea mea
+Te vreau cu gelozie,
+De-oi birui îţi voi cânta
+Cu drag o veşnicie :/.
+
+[s5]
+3.	Aşa e calea către cer,
+E-o luptă-nverşunată
+Azi n-o-nţelegi,
+că-i un mister
+Dar vei pricepe-odată.
+
+[s6]
+/: Vei înţelege pe deplin
+Când lupta-ţi va fi gata,
+Când El va
+şterge-al tău suspin
+Şi vei primi răsplata :/.
+
+[s7]
+4.	Îl vei vedea
+Doar pe Isus,
+Primi-vei o cunună
+Pe-a Sale urme de-ai păşit
+Luptând lupta cea bună.
+
+[s8]
+/: Înaintează, deci, cântând
+E greu să urci Calvarul
+Dar nu uita căci în curând
+Se va sfârşi amarul :/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

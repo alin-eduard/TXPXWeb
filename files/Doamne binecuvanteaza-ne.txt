@@ -1,0 +1,26 @@
+[r1]
+Doamne, binecuvântează-ne!
+Dă-ne pacea Ta cea sfântă!
+Ţine-ne mereu în mâna Ta!
+Dă-ne putere şi-ajutor.
+
+[s1]
+În întunericul acestei lumi ne-ai pus
+Să fim sare şi lumină
+Şi în întristări, chiar şi-n încercări
+Lumina să nu se stingă.
+
+[s2]
+Într-o lume de păcat Tu ne-ai aşezat
+S-arătăm ce e iertarea.
+Uneori huliţi, chiar batjocoriţi
+S-arătăm ce-i dragostea.
+
+[s3]
+Într-o lume cu război, plină de nevoi
+Ne-ai promis: ne vei da pacea Ta.
+Plini de nădejde şi de-ncredere
+Ne bazăm pe promisiunea Ta.
+
+[order]
+r1,s1,r1,s2,r1,s3,r1

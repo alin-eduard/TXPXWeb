@@ -1,0 +1,40 @@
+[s1]
+Isus vă cheamă, auziţi:
+”La Mine să veniţi!
+De mână vă conduc tot Eu
+pe drumu-ngust şi greu!
+Grăbiţi la Mine până-I har,
+odihnă, pace-aveţi în dar,
+Acasă-n ceruri când sosiţi
+în veci vă-nveseliţi!”
+
+[r1]
+O, ce loc fericit! o, ce loc! o, ce loc!
+O, ce loc fericit Isus ne-a pregătit.
+Mulţimea sfinţilor de sus
+Îi cântă-ntruna lui Isus:
+“O, Mielule biruitor,
+Tu eşti Mântuitor!”
+
+[s2]
+E mare bucurie-n
+cer că încă-un păcătos
+Din lumea plină de păcat
+la Domnul s-a întors.
+Toţi îngerii se-nveselesc,
+pe Domnul ei Îl preamăresc
+Că din pierzare l-a scăpat,
+lumina Sa I-a dat.
+
+[s3]
+În ziua judecăţii,
+când Isus ne va grăi:
+“Împărăţia moşteniţi,
+cu Mine veţi domni!”,
+Nespusă bucurie-a fi,
+cereasca oaste va rosti:
+“Slăvit să fii, o, Miel Divin,
+prin Tine-n veci trăim!”
+
+[order]
+s1,r1,s2,r1,s3,r1

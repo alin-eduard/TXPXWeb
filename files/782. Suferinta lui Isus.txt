@@ -1,0 +1,67 @@
+[s1]
+1. Suferinţa lui Isus
+Mântuire ne-a adus
+/: Mântuire, vindecare
+Şi cu Tatăl împăcare
+De păcate-avem iertare
+Prin Isus. :/
+782.
+
+[s2]
+2. Iată Fiul Celui Sfânt
+E-ntristat pân' la mormânt
+/: Lacrimi varsă în grădină
+Pentru noi s-avem lumină
+Plânge-n Ghetsimani, suspină
+Domnul Sfânt. :/
+
+[s3]
+3. Iată-L dus pe la preoţi
+Şi batjocorit de toţi
+/: Osândit este la moarte
+Cu cei răi să aibă parte
+Dar El milă încă-mparte
+Pentru toţi. :/
+
+[s4]
+4. Ducând crucea sus pe deal
+Împreună cu tâlhari
+/: Trupul Lui e numai sânge
+Inima la mulţi le-o frânge
+Şi femei şi mama-L plânge
+E-n zadar :/.
+
+[s5]
+5. Suferinţa Lui e grea
+Pe crucea din Golgota
+/: Chinuit strigă:”Mi-e sete!”
+Ei i-au dat oţet cu fiere
+Vai, ce grea e-a Lui durere
+Vai, ce grea. :/
+
+[s6]
+6. Dintre toţi, însă-un tâlhar
+A găsit al milei har.
+/: Şi Isus i-a spus cu grai:
+”Azi vei fi cu Mine-n Rai”
+O, Tu, Doamne milă ai
+De-un tâlhar. :/
+
+[s7]
+7. Dar Eu milă am de toţi
+De bolnavi, de păcătoşi
+/: De toţi cei ce vin la Mine
+Şi se leapădă de sine
+Dar Eu milă am de tine
+Şi de toţi. :/
+
+[s8]
+8. Suferinţa lui Isus
+Mântuire ne-a adus
+/: De aceea fiecare
+Să vegheze-n aşteptare
+Căci Domnul curând apare
+Cum ne-a spus. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

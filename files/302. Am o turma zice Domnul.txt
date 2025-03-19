@@ -1,0 +1,69 @@
+[s1]
+1. Am o turmă zice Domnul
+Rătăcită prin lume
+Se iubeşte pe sine
+Şi nu vine la Mine.
+302.
+
+[s2]
+2. Domnul vă cheamă pe nume
+Veniţi oilor la Mine
+Nu rătăciţi prin lume
+Veniţi astăzi la Mine.
+
+[s3]
+3. Căci Eu vă voi conduce
+La izvorul cel dulce
+La izvoare nesecate
+Care de Mine aveţi parte.
+
+[s4]
+4. Sub aripă voi scuti
+Când necazuri vor veni
+Când va arde pământul
+Şi se va topi cerul.
+
+[s5]
+5. Pământul ce l-ai creat
+Şi dovadă încă-i dat
+Vrednic este de blestem
+Şi va arde în etern.
+
+[s6]
+6. La Ioan spune Domnul
+Viţa care nu dă rod
+Vierul o va tăia
+Pentru foc o va păstra.
+
+[s7]
+7. Oile care-au căzut
+Au păscut pe şes prea mult
+Unde este îmbuibare
+Trufie mândrie mare.
+
+[s8]
+8. De mine s-au depărtat
+Nicicând nu m-au întrebat
+Când dincolo au sărit
+Şi Duhul Sfânt au hulit.
+
+[s9]
+9. Ei îşi caută a lor mărire
+Nu mă mai iubesc pe mine
+Dar în curând vor vedea
+Care le va fi plata.
+
+[s10]
+10. Necazuri şi strâmtorare
+Veni-va pe fiecare
+Care nu m-au iubit pe Mine
+N-or gusta cerescul bine.
+
+[s11]
+11. Veniţi voi care aţi rămas
+Lângă Mine prin necaz
+Intraţi toţi la masa Mea
+Eu voi şterge lacrima.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11

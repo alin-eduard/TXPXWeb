@@ -1,0 +1,44 @@
+[s1]
+1
+Totu-i pregătit în casa de sus
+În casa de sus, în casa de sus
+Totu-i pegătit în casa de sus
+Unde e pace.
+
+[s2]
+2
+Isus este Domn în casa de sus
+În casa de sus, în casa de sus
+Isus este Domn în casa de sus
+Unde e pace.
+
+[s3]
+3
+Isus e acolo, în casa de sus
+În casa de sus, în casa de sus
+Isus e acolo, în casa de sus
+Unde e pace.
+
+[s4]
+4
+Bucurii vor fi în casa de sus
+În casa de sus, în casa de sus
+Bucurii vor fi în casa de sus
+Unde e pace.
+
+[s5]
+5
+Fericit vei fi în casa de sus
+În casa de sus, în casa de sus
+Fericit vei fi în casa de sus
+Unde e pace.
+
+[s6]
+6
+Vii şi tu cu noi în casa de sus
+În casa de sus, în casa de sus
+Vii şi tu cu noi în casa de sus
+Unde e pace?
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,26 @@
+[s1]
+E-a treia zi de când muri,
+Şi se spunea că va-nvia.
+Şi din mormânt El va ieşi,
+Şi moartea o va birui.
+
+[r1]
+El a-nviat în Ierusalim,
+Cel ce era Fiul celui sfânt.
+Dăruind victoria,
+Mielul a înviat în Ierusalim.
+
+[s2]
+El a ales să moară,
+Din dragoste pentru noi toţi.
+Urcat pe lemn El a murit,
+Şi-a treia zi a înviat.
+
+[s3]
+N-am fost acol’ când a murit,
+Nici n-am văzut cum s-a jertfit.
+Dar ştiu că-n El eram atunci,
+Şi eu sunt viu căci m-a salvat.
+
+[order]
+s1,r1,s2,r1,s3,r1

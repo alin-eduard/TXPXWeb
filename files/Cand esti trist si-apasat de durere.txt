@@ -1,0 +1,32 @@
+[s1]
+Când eşti trist şi-apăsat de durere
+Eşti lovit şi hulit de duşmani
+/: Fă şi tu ce-a făcut Domnul Isus
+Când era în grădina-n Ghetzimani :/
+
+[s2]
+Când nu poţi să învingi ispite grele
+Şi te-avânţi cu putere-n valul lor
+/: Fă şi tu ce-a făcut Petru pe mare
+A strigat la Isus dup-ajutor. :/
+
+[s3]
+Când puterea ta astăzi slăbeşte
+Şi eşti gata să cazi la pământ
+/: Fă şi tu ce-au făcut cei din Ninive
+Se-nchinau cu toţii Domnului Sfânt. :/
+
+[s4]
+Când bolnav zaci pe pat cu durere
+Şi aştepţi vindecare-n corpul tău
+/: Ai credinţă şi zi ca şi orbul
+Fie-ţi milă de mine-o Domnul meu. :/
+
+[s5]
+Ca să fii învingător, trebuie luptă
+Să ajungi sus în cerul minunat
+/: Ne-ncercat n-ai s-ajungi niciodată
+Căci şi Isus a fost încercat. :/
+
+[order]
+s1,s2,s3,s4,s5

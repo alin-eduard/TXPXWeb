@@ -1,0 +1,20 @@
+[s1]
+Dumnezeu al credinţei, Te laud
+Prin cîntări, prin trăire mereu.
+/: Te înalţ cu-o credinţă-noită
+Tatăl meu, preamărit Dumnezeu! :/
+
+[s2]
+Dumnezeu al nădejdii, Te laud
+Căci Tu-mi eşti Soare-n veci la zenit
+/: Te înalţ cu-o nădejde deplină
+Tatăl meu, Dumnezeu preamărit !:/
+
+[s3]
+Dumnezeu al iubirii, Te laud
+Căci din Tine am tot ce sînt eu.
+/: Te înalţ cu-o iubire de flăcări
+Tatăl meu, preamărit Dumnezeu !:/
+
+[order]
+s1,s2,s3

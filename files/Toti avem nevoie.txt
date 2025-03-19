@@ -1,0 +1,42 @@
+[s1]
+Toţi avem nevoie
+De’o dragoste curată
+Prin mila Ta de sus
+Cu toţii vrem iertare
+Şi bunatatea’Ţi mare
+Speranţa Lumii
+
+[r1]
+Doamne, Tu ce mişti chiar munţii
+Eşti un Măreţ Salvator
+Eşti Măreţ Salvator
+Cel veşnic, ai dat salvare lumii
+Şi’ai înviat dintre morţi
+Înviat dintre morţi.
+
+[s2]
+Primeşte’mă cum sunt,
+Eu las la crucea Ta
+Povara mea cea grea
+Iţi dau viaţa’ntreagă,
+Cu tot ce eu trăiesc
+Mă dăruiesc azi,
+Mă dăruiesc azi!
+
+[s3]
+/: Lasă gloria, peste’ntreg pământ
+Cântăm azi
+Pentru slava Celui Veşnic Sfânt :/
+Doamne,
+
+[s4]
+Doamne, Tu ce mişti chiar munţii
+Eşti un Măreţ Salvator
+Eşti Măreţ Salvator
+Cel veşnic, ai dat salvare lumii
+Şi’ai înviat dintre morţi
+Înviat dintre morţi.
+Coda: Ce Măreţ Salvator!
+
+[order]
+s1,r1,s2,r1,s3,s4

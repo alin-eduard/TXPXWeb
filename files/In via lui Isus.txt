@@ -1,0 +1,44 @@
+[s1]
+În via lui Isus
+Intră să lucrezi
+Pe slabi să-i întăreşti
+pe toţi să-i serveşti.
+
+[s2]
+Ceas de ceas din viaţa ta foloseşte-te
+În lucrul pentru Isus!
+Azi lucrează cu toată râvna,inima,
+Şi Isus te va ajuta.
+Ah, ce fericire ,cu El in unire
+E să lucrezi întruna!
+
+[s3]
+Numără clipele
+Şi nu te plimba,
+Ajută pe căzuţi
+A se ridica.
+
+[s4]
+Ceas de ceas din viaţa ta foloseşte-te
+În lucrul pentru Isus!
+Azi lucrează cu toată râvna,inima,
+Şi Isus te va ajuta.
+Ah, ce fericire,cu El in unire
+E să lucrezi întruna!
+
+[s5]
+Nu-L pierde pe Isus
+Din privirea ta,
+Chiar când lucrezi să ceri
+Din puterea Sa.
+
+[s6]
+Ceas de ceas din viaţa ta foloseşte-te
+În lucrul pentru Isus!
+Azi lucrează cu toată râvna,inima,
+Şi Isus te va ajuta.
+Ah, ce fericire, cu El in unire
+E să lucrezi întruna!
+
+[order]
+s1,s2,s3,s4,s5,s6

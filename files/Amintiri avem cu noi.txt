@@ -1,0 +1,32 @@
+[s1]
+Amintiri avem cu noi totdeauna
+Amintire e clipa trăită-n prezent
+Amintiri s-aveţi cu voi de iubire
+Amintiri să le-aveţi permanent.
+
+[r1]
+Nu te teme, ci fii credincios
+Căci cu tine e Isus Hristos!
+Aminteşte-ţi tot ce-ai fost în iubire
+Şi te-ntoarce iar acum, dragul meu!
+
+[s2]
+Ai răbdat, ai strâns în piept suferinţa
+Până ieri ai iubit, cât urăşti nu-i de-ajuns?
+Eu te chem să vii la El cu căinţă
+Aminteşte-ţi mereu atunci cum ai plâns!
+
+[s3]
+N-ai lăsat în piept un loc de mai bine?
+Tu te-ncrezi în tine şi-acum, fără rost.
+Aminteşte-ţi tot ce-ai fost prin iubire
+Şi te uită ce eşti şi ce ieri tu ai fost!
+
+[s4]
+Azi ai timp să asculţi, să crezi, o, învaţă!
+Eu la fel despre tine la cer amintesc.
+Primi-vei din pom un fruct de viaţă
+Vei trăi veşnic sus, în raiul cel ceresc!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,51 @@
+[s1]
+903.  Re
+1.	Ucenicii se-ndreptară
+Spre Isus şi-L întrebară
+Sus în ceruri cine oare
+O să fie cel mai mare.
+Cor:	Sus în cer, sus în cer
+Ne vom revedea cu toţii.
+
+[s2]
+Domnul împrejur căutând
+Şi un copilaş chemând
+Între ei l-au aşezat
+Vă vorbesc adevărat.
+Cor:	Sus în cer, sus în cer
+Ne vom revedea cu toţii.
+
+[s3]
+3.  Orişicine-n lume ar fi
+Ca acest prunc se va smeri
+Cel mai mare o să fie
+În cereasca împărăţie.
+Cor:	Sus în cer, sus în cer
+Ne vom revedea cu toţii.
+
+[s4]
+4.  Oricine va-ndemna
+Prin cuvânt şi fapta sa
+Pe vreun nevinovat
+Din acesta la păcat.
+Cor:	Sus în cer, sus în cer
+Ne vom revedea cu toţii.
+
+[s5]
+Mult ar fi mai folosit
+Dacă şi-ar lega de gât
+Într-o zi o piatră mare
+Şi s-ar arunca în mare.
+Cor:	Sus în cer, sus în cer
+Ne vom revedea cu toţii.
+
+[s6]
+6.  Mame-ndată i-au adus
+Copilaşii la Isus
+Spre ai atinge şi a le da
+Binecuvântarea Sa.
+Cor:	Sus în cer, sus în cer
+Ne vom revedea cu toţii.
+
+[order]
+s1,s2,s3,s4,s5,s6

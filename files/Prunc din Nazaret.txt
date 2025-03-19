@@ -1,0 +1,24 @@
+[s1]
+Prunc din Nazaret
+Fiu de Dumnezeu
+A murit pe lemn.
+Pentru vina mea
+Şi-a dat viaţa Sa
+O, azi Îi mulţumesc !
+
+[r1]
+/: Numai El, numai El
+Numai El, Isus Hristos !
+Numai El, Domnul meu -
+Numai El mi-e de folos ! :/
+
+[s2]
+Vine, vine-o zi
+Cînd va reveni
+Şi ne va lua.
+Mult nu mai e, ştiu
+Şi Cel ce e viu
+O, vine în curînd !
+
+[order]
+s1,r1,s2,r1

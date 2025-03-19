@@ -1,0 +1,35 @@
+[s1]
+Ce-aş avea, ce-aş avea,
+De n-ar fi-asupra mea mîna Ta?
+Ce aş fi de n-ai fi, Isus,
+iubirea mea
+De-ar fi lipsit păcatul meu
+pe crucea grea?
+O, ce-aş avea de nu te-aş
+fi-ntîlnit cîndva?
+Ce-aş avea, ce-aş avea?
+
+[s2]
+Ce-aş avea, ce-aş avea,
+De singur aş purta lupta grea?
+Ce aş fi de n-ai fi Tu scut
+în viaţa mea?
+Ce aş fi de n-ai fi Tu
+far în noaptea grea?
+În lumea plină de-ntuneric
+de-aş căuta
+Ce-aş avea, o, ce-aş avea?
+
+[s3]
+Ce-aş avea, ce-aş avea,
+De n-ai fi-n viaţa mea liniştea?
+Păcatul meu l-ai şters
+pe cruce, o, Isus
+De n-ai fi fost pe cruce
+unde-aş fi ajuns ?
+O, ce-aş avea de nu
+te-aş fi-ntîlnit candva ?
+/: Ce-aş avea, ce-aş avea ? :/
+
+[order]
+s1,s2,s3

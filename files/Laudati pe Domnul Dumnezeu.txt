@@ -1,0 +1,8 @@
+[s1]
+Lăudaţi pe Domnul Dumnezeu,
+Voi, ce aţi fost de El creaţi;
+Slăviţi­L ceruri şi pământ
+Pe Tatăl, Fiul, Duhul Sfânt!
+
+[order]
+s1

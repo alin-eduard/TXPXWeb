@@ -1,0 +1,31 @@
+[s1]
+1.Eu sunt un om,
+Sunt doar un om
+Ajută-mi Te rog
+Să cred mai mult ce pot a fi!
+Să cred mai mult în al meu Domn,
+Învaţă-mă să Te slujesc
+Timp de o zi.
+1040                                                          Re
+
+[r1]
+Cor
+/:Un timp de o zi, Isuse,
+Atât este tot ce-mi doresc
+O, dă-mi Tu putere
+Ce-am de făcut să-nfăptuiesc
+Căci mâine nu ştiu, Isuse
+Dacă va mai fi înc-o zi
+Nu ştiu timpul când
+Viaţa mea se va sfârşi.:/
+
+[s2]
+2.Îmi amintesc cum pe pământ
+Cu oameni umblai şi le vorbeai
+Prin Duhul  Sfânt
+O, vin’ şi azi, prezent să fii
+Să ne vorbeşti prin Duhul Tău
+Timp de o zi.
+
+[order]
+s1,r1,s2,r1

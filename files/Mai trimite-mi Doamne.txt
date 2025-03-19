@@ -1,0 +1,19 @@
+[s1]
+/: Mai trimite-mi Doamne :/
+Mai trimite-mi Doamne, încurajări
+Că mi-e greu pe cale
+Nu mai am răbdare
+Mi-ai spus sa te chem
+Cand îmi este greu
+
+[s2]
+/: Mai trimite-mi Doamne :/
+Mai trimite-mi Doamne, încurajări
+Azi e clipa sa te strig
+E momentul sa te chem, în ajutor.
+Nu vreau sa te pierd Isuse
+Nu vreau sa te pierd.
+Căci prea mult te iubesc.
+
+[order]
+s1,s2

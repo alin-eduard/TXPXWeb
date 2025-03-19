@@ -1,0 +1,38 @@
+[s1]
+Al păcii Domn slăvit şi mare,
+La nuntă azi eşti invitat.
+Să le dai binecuvântare,
+Acestor doi ce s-au legat.
+
+[s2]
+Uneşte Doamne-aceste inimi,
+Uneşte-i astăzi pe-amândoi.
+Să nu-i poată despartă nimeni,
+Fă-i Doamne Tu un sfânt altoi.
+
+[s3]
+În orice zi să-i ţii de mână,
+Şi-a lor să călăuzeşti.
+Să-i luminezi cu-a Ta lumină,
+Şi-n drumul lor s-i ocroteşti.
+
+[s4]
+Să-i faci viaţa fericire,
+De nori şi valuri să-i fereşti.
+Să-i ţii pe braţe cu iubire,
+Şi-n casa lor Tu să domneşti.
+
+[s5]
+Rămâi cu ei în căsnicie,
+Şi-a lor urmaşi oricât de mulţi.
+Să-i binecuvântezi Isuse,
+Şi ruga lor să le-o asculţi.
+
+[s6]
+Păstrează-i Doamne-n a Ta casa,
+Până când iar vei apărea.
+Să faci din ei a Ta mireasă,
+Când nunta-n cer o vom serba.
+
+[order]
+s1,s2,s3,s4,s5,s6

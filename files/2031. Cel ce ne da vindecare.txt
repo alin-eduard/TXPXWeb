@@ -1,0 +1,40 @@
+[s1]
+2031
+1. Cel ce ne dă vindecare
+E aici în adunare
+De vrei să fii sănătos
+Cheamă-L pe Isus Hristos
+Un cuvânt El de va spune
+De aici te vei face bine.
+
+[s2]
+2. Doctorii mă dau acasă
+Că nu mai au ce
+Să-mi mai facă
+Doctorii îmi spun că mor
+Dar eu am vindecător
+Dar Isus dă vindecare
+El mă pune pe picioare.
+
+[s3]
+3. E de ajuns să ai credință
+Că Isus dă biruință
+Crede nu te îndoi
+Domnul te va izbăvi
+La cuvântul lui Hristos
+Te vei face sănătos
+Aleluia vei striga
+Domnu-i vindecarea mea.
+
+[s4]
+4. Nu te îndoi ci crede
+Dumnezeul meu te vede
+El te vede-ngrijorat
+De păcate apăsat
+Te-a atras la adunare
+Să primești acum iertare
+Te-a atras că te iubește
+Azi Isus te mântuiește.
+
+[order]
+s1,s2,s3,s4

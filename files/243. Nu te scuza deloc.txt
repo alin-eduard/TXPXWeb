@@ -1,0 +1,50 @@
+[s1]
+1. Nu te scuza deloc
+Când lucrul e prea greu
+Fii gata de servit
+Oriunde El te-a pus
+243.
+
+[r1]
+Cor: Ridică-ţi ochii tăi şi vezi
+Cum toate holdele s-au copt
+Nu sta! Isus vrea să lucrezi.
+
+[s2]
+2. Ai stat prea mult în târg
+Prea mult ai aşteptat
+Ai fost lipsit de sârg
+Nimic tu n-ai lucrat.
+
+[s3]
+3. Nu şovăi deloc
+Şi nu te mai tocmi
+Că ce-ţi va fi cu drept
+Isus îţi va plăti.
+
+[s4]
+4. De ce stai şi te uiţi
+Priveşti nepăsător
+Când sunt atâţi' ce pier
+Făr' de Mântuitor.
+
+[s5]
+5. Prinde prileju’ acum
+Cât tu mai poţi lucra
+Salvează frate acum
+Tot ce mai poţi salva.
+
+[s6]
+6. Ah, unde-i sporul tău
+Poţi spune c-ai lucrat
+Poţi ca s-arăţi progres
+De când El te-a chemat.
+
+[s7]
+7. Curând El vine iar
+Să ceară ai Săi arginţi
+Şi atunci, cum ai s-apari
+Cu ce-ai să te prezinţi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1

@@ -1,0 +1,32 @@
+[s1]
+Noi călători suntem:
+ni-e ţara sus!
+Spre casă ne silim:
+ni-e ţara sus
+Chiar de e calea grea
+şi lacrimi sunt pe ea
+Spre cer ne va-ndrepta:
+ni-e ţara sus!
+
+[s2]
+Chiar şi-n ispite ştim:
+ni-e ţara sus!
+Cu Domnul de trăim:
+ni-e ţara sus!
+Şi  încercări când vin,
+Prin Domnul biruim,
+Spre cer cu dor privim:
+ni-e ţara sus!
+
+[s3]
+Chiar în prigoane ştim:
+ni-e ţara sus!
+Şi liniştiţi trăim:
+ni-e ţara sus!
+Când lupta va-nceta,
+Şi-n ţară vom intra,
+Cunună vom purta,
+în slavă sus!
+
+[order]
+s1,s2,s3

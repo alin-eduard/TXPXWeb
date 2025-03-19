@@ -1,0 +1,26 @@
+[s1]
+Adă, Doamne, ceasul sfânt,
+să plecăm de pe Pământ
+Unde Tu ne-ai pregătit
+locul cel făgăduit.
+
+[r1]
+/: O, ţara mea, al nostru vis
+Aş vrea să se-mplinească
+Acolo sus, în Paradis
+În Patria Cerească ! :/
+
+[s2]
+O, Doamne-adu măreţul ceas
+când ne vei lua acasă
+Sus în ţara fără nori,
+o, mi-e dor, Doamne, mi-e dor!
+
+[s3]
+Mi-e dor de ţara cea de sus
+unde Domnul nost, S-a dus
+Vino, Doamne, şi ne ia
+şi ne du în ţara Ta!
+
+[order]
+s1,r1,s2,r1,s3,r1

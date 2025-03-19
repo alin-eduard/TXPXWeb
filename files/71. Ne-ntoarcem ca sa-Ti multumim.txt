@@ -1,0 +1,39 @@
+[s1]
+1. Ne-ntoarcem ca să-Ţi mulţumim,
+Părinte veşnic şi divin,
+Căci Tu prin haru-Ți minunat
+Mereu ne-ai binecuvântat.
+71						                                                         Sol M
+
+[r1]
+Cor: /: Îţi mulţumim, Îţi mulţumim
+Căci Tu ne dai, iar noi primim.
+Îţi mulţumim, Îţi mulţumim,
+Acum şi-n veci de veci, amin! :/
+
+[s2]
+2.Ne-ntoarcem ca să-Ţi mulţumim
+Căci de la Tine noi primim
+Viaţa din izvor ceresc,
+Lumină-n ochii ce privesc.
+
+[s3]
+3.Ne-ntoarcem ca să-Ţi mulţumim
+Cu mic, cu mare, toţi venim,
+ca-n fiecare ceas sau zi
+Cu mâna Ta ne vei păzi.
+
+[s4]
+4.Ne-ntoarcem ca să-Ţi mulţumim,
+Căci ne iubeşti şi Te iubim
+Tu singur, Doamne ne poţi da
+Ce lumea-ntreagă n-ar putea.
+
+[s5]
+5.Ne-ntoarcem ca să-Ţi mulţumim
+Căci de la Tine noi primim
+Viaţă veşnică în dar
+Şi bucurii fără hotar.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

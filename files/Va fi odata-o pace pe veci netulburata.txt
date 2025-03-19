@@ -1,0 +1,39 @@
+[s1]
+Va fi odată-o pace
+pe veci netulburată
+Va creşte-odată grîul
+ca cedrii din Liban
+Va fi odată-o turmă
+din lumea asta toată
+/: Şi mieii n-o să aibă
+atunci nici un duşman. :/
+
+[s2]
+Iubirea o să aibă o patrie slăvită
+În care Adevărul,
+doar El va fi-Împărat
+În care bucuria va fi desăvîrşită
+/: Şi Domnul singur fi-va
+de-a pururi adorat. :/
+
+[s3]
+Acum mă rog cu fraţii,
+plîngînd cu frunţi plecate
+Aici stropesc cu lacrimi
+atîtea căi de dor.
+Acolo însă toate pe veci
+voi fi uitate
+/: Ne vom scălda-n iubire,
+în veşnicul izvor. :/
+
+[s4]
+O, viitor de aur,
+cuprinde-mă în tine !
+Cu inima şi ochii,
+desprins de tot ce-i jos
+Să-mi ai pe totdeauna
+tot sufletul din mine
+/: Aprins ca o mireasmăîn calea lui Hristos. :/
+
+[order]
+s1,s2,s3,s4

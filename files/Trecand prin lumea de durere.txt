@@ -1,0 +1,44 @@
+[s1]
+1. Trecând prin lumea de durere,
+Opreşte-te să vezi ce-i bun,
+/: Apuc-un fir de mângâiere
+Din miile ce-ţi ies în drum! :/
+
+[s2]
+2. Ascultă ce-ţi vorbeşte-o floare,
+Priveşte frumuseţea ei,
+/: Ea îşi deschide-a ei petale
+Să-nmiresmeze drumul tău! :/
+
+[s3]
+3. Cu razele de soare line
+Coboară lin pe faţa ta,
+/: Tu strânge şi de-aici iubire
+Şi-nsenizează faţa ta! :/
+
+[s4]
+4. O păsărică care zboară
+Şi mişcă frunzele-n copac
+/: Ţi-aduce-n suflet primăvară,
+Chiar dacă-n juru-ţi vânturi bat:/
+
+[s5]
+5. Iar dacă noaptea se iveşte
+Şi stelele lucesc pe cer,
+/: Priveşte ce frumos te-mbie
+Să străluceşti şi nopţi cu ger! :/
+
+[s6]
+6. Un Univers ţi-a dat Stăpânul
+Să afli bucurie-n El,
+/:Iar pe Isus L-a dat să moară,
+Ca noi să fim salvaţi prin El! :/
+
+[s7]
+7. Un Univers ţi-a dat Stăpânul,
+Să afli bucurie-n El!
+/: Alege aur din ţărână,
+Fii credincios lui Dumnezeu! :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

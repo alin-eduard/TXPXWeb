@@ -1,0 +1,22 @@
+[s1]
+Suntem una-n iubirea Lui,
+În puterea iubirii Lui
+Inimi lângă inimi
+Duhul Sfânt ne-a unit,
+Suntem una-n iubirea Lui.
+
+[s2]
+Suntem, una-n slujirea Lui,
+În slujirea chemării Lui!
+Mână-n mână ducem
+Vestea bună la toţi,
+Suntem una-n slujirea Lui.
+
+[s3]
+Suntem una-n nădejdea Lui,
+În nădejdea venirii Lui,
+Doar spre Domnul ochii noştri stau aţintiţi,
+Suntem una-n nădejdea Lui.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,34 @@
+[s1]
+Se-ntampla sa nu inteleg
+Cerescul plan al Celui drept,
+Dar stiu ca-n dreapta mainii Lui
+Sta Cel ce-I Salvatorul;
+Il cred in totul si-L vestesc,
+El s-a jertfit asa citesc,
+In inima-L simt si-L doresc
+Pe-Acel ce-I Salvatorul.
+
+[s2]
+Caci a venit din slavi pe nori
+Sa-Si dea viata pentru noi
+Ti-e greu sa crezi adeseori,
+Dar stiu, e Salvatorul.
+
+[r1]
+/: Mi-e Salvator, Mantuitor,
+E langa mine ne-ncetat;
+Mi-e Salvator, Mantuitor,
+E langa mine pas cu pas :/
+
+[s3]
+Se-ntampla sa nu inteleg
+Cerescul plan al Celui drept,
+Dar stiu ca-n dreapta mainii Lui
+Sta Cel ce-I Salvatorul,
+Caci a venit din slavi pe nori
+Sa moara pentru cei ca noi
+Ti-e greu sa crezi adeseori,
+Dar stiu, e Salvatorul.
+
+[order]
+s1,s2,r1,s3,r1

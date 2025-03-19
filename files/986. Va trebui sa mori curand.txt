@@ -1,0 +1,45 @@
+[s1]
+986.
+1. Va trebui să mori curând
+Să-ţi vezi sfârşitul tremurând
+Să-L întâlneşti pe Dumnezeu
+Să-I dai răspunsul cel mai greu.
+/: Răspunsul cel mai greu :/.
+
+[s2]
+2. Va trebui, va trebui
+Oricât n-ai vrea şi n-ai dori
+Dar vino astăzi la Hristos
+Să-I dai atunci răspuns frumos.
+/: Răspunsul cel frumos :/.
+
+[s3]
+3. Va trebui în curând să mori
+Să arzi în gheenă şi-n dureri
+Să te desparţi de tot ce ai
+Şi cel mai greu răspuns să-l dai.
+/: Răspuns, răspuns să-I dai :/.
+
+[s4]
+4. Va trebui să vezi curând
+Cumplita moarte tremurând
+Şi-n faţa negrei porţi s-ajungi
+Să-I dai cel mai cu greu răspuns.
+/: Cel mai cu greu răspuns :/
+
+[s5]
+5. Va trebui să-L întâlneşti
+Pe Acela ce-L tăgăduieşti
+În faţa lui Domlului să stai
+Să-I dai răspunsul cel mai greu
+/: Răspunsul cel mai greu :/.
+
+[s6]
+6. Va trebui, va trebui
+Ca să răspunzi ce n-ai dori
+Şi atunci vei plânge dureros
+Că nu vii astăzi la Hristos.
+/: Că nu vii la Hristos :/.
+
+[order]
+s1,s2,s3,s4,s5,s6

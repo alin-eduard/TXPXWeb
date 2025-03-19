@@ -1,0 +1,43 @@
+[s1]
+1.	Iată ce zi minunată
+În locaşul Lui
+Domnul vine să-ntâlnească
+Iar copiii Lui.
+/: Unii vin şi primesc pace
+Alţii mântuire-n dar
+Toţi ne bucurăm în lacrimi
+De-al Domnului har :/.
+457.
+
+[s2]
+2.	Trece pe la fiecare
+Duhul Sfânt, mângâietor
+Îţi cuprinde inimioara
+Focul şi-al tău dor.
+/: Mângâie şi întăreşte
+Mereu blând şi iubitor
+Inima ţi-o-nveseleşte
+Din sfântul izvor :/.
+
+[s3]
+3.	Şi ne spune-n orice vreme
+Scumpii mei iubiţi
+Vine vremea de plecare
+Să fim pregătiţi.
+/: Întăriţi-vă în harul
+Care vi-l voi da
+Prin cuptorul încercării
+Să puteţi răbda :/.
+
+[s4]
+4.	Astăzi e o zi minunată
+Pentru cel pierdut
+Uşa încă-i descuiată
+Şi locuri mai sunt.
+/: Slujitorii Lui mai strigă
+La răspântie din drum
+Cine aude să-nţeleagă
+Vremile de-acum :/.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,29 @@
+[s1]
+2268.                                                                                 Fa
+Măreţul Har m-­a mântuit
+Pe mine din păcat.
+/: Pierdut eram,
+Dar m-­a găsit,
+De moarte m-­a scăpat. :/
+
+[s2]
+2. Măreţul Har m­-a învăţat
+S-o rup cu orice rău.
+/: Ce scump mi-­e azi
+Tot Harul dat;
+Trăiesc prin El mereu. :/
+
+[s3]
+3.Dureri, batjocuri, prigoniri
+Adesea-am întâlnit.
+/: Prin Harul marii Lui iubiri
+Eu toate-am biruit. :/
+
+[s4]
+Prin Har ajunge-voi în cer
+Cu slavă îmbrăcat
+/: Şi voi slăvi în veşnicii
+Pe Cel ce Har mi-a dat. :/
+
+[order]
+s1,s2,s3,s4

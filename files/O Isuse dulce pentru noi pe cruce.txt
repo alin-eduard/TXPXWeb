@@ -1,0 +1,20 @@
+[s1]
+O, Isuse dulce, pentru noi pe cruce
+Ai fost răstignit.
+Iar eu, rătăcitul şi nefericitul
+Am păcătuit.
+
+[s2]
+Pe-a plîngerii vale, de la a Ta cale
+Eu m-am depărtat.
+A Tale cuvinte, Isuse preasfinte
+Eu n-am ascultat.
+
+[s3]
+Dar acuma iată, inima mea toată
+Ţi-o predau acum.
+Primeşte-mă iarăşi, fii al meu tovarăş
+Pe-al vieţii drum.
+
+[order]
+s1,s2,s3

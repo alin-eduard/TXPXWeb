@@ -1,0 +1,32 @@
+[s1]
+Când lupta se-apropie
+Te rog nu uita
+Războiul e-al Domnului
+Rămâi în picioare,
+dar nu dispera
+Războiul e-al Domnului.
+
+[r1]
+Tu cântă-I Glorie, laudă
+Puterea e numai a Lui
+Tu cântă-I Glorie, laudă
+Onoarea si cinstea-i a Lui.
+
+[s2]
+Armură de slavă
+Să-mbraci dar să stii
+Războiul e al Domnului
+Tine sus cuvântul
+si nu te clinti
+Războiul e al Domnului.
+
+[s3]
+În mijlocul luptei,
+Tu cântă mereu
+Războiul e al Domnului
+Căci în fruntea ostii
+E chiar Dumnezeu
+Războiul e al Domnului.
+
+[order]
+s1,r1,s2,r1,s3,r1

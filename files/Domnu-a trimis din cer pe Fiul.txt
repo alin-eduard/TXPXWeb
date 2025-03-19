@@ -1,0 +1,29 @@
+[s1]
+Domnu-a trimis din cer pe Fiul,
+Isus Hristos, Cel prea iubit,
+El s-a jertfit să dea iertare,
+Mormîntul gol e martor că Isus e viu.
+
+[s2]
+Pentru că-I viu, eu am siguranţă.
+Pentru că-I viu, frica s-a dus.
+Pentru că ştiu că El îmi dă speranţă
+Şi viaţa mea e-n mîna Lui
+pentru că-I viu.
+
+[s3]
+Iar într-o zi voi trece râul,
+Acolo sus, mai sus de nori,
+Unde Isus e Domn în slavă,
+Şi-oi fi pe veci de veci
+cu El pentru că-I viu.
+
+[s4]
+Pentru că-I viu, eu am siguranţă.
+Pentru că-I viu, frica s-a dus.
+Pentru că ştiu că El îmi dă speranţă
+Şi viaţa mea e-n mîna Lui
+Pentru că-I viu.
+
+[order]
+s1,s2,s3,s4

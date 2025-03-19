@@ -1,0 +1,26 @@
+[s1]
+Cel ce stă sub ocrotirea
+Celui Prea-nalt la umbra Lui.
+Gaseste-n El, loc de scăpare
+Cetate tare in vreme rea
+
+[r1]
+O mie să cadă alături de tine
+Şi zece mii la dreapta ta de vor cădea,
+Cu ochii priveşte, să vezi răsplătirea
+A celor răi, doar Harul Său, te va salva.
+
+[s2]
+Să nu te temi de groaza noptii
+Nici de săgeata ce zboara ziua
+De ciuma rea din întuneric
+să nu te temi te va pazi.
+
+[s3]
+Pentru că zici El e-adăpostul
+şi faci din El scăparea ta
+Nenorocirea şi nici urgia
+de cortul tău nu se va-apropia.
+
+[order]
+s1,r1,s2,r1,s3,r1

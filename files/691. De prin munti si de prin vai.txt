@@ -1,0 +1,53 @@
+[s1]
+1. De prin munţi şi de prin văi
+Mi-oi strânge copii mei
+Care aici pe pământ
+Mă aşteaptă cu dor plângând.
+2. În curând îi voi lua
+Şi-i voi duce în casa Mea
+Unde n-or mai suspina
+Ci numai s-or bucura.
+691.
+
+[s2]
+3. Căci când nimeni nu va şti
+Eu pe nori când voi veni
+Pe acei ce-s pregătiţi
+La Mine vor fi răpiţi.
+4. Căci doi vor dormi într-un pat
+Unul luat şi altul lăsat
+Şi aşa biserica
+În curând o voi înălţa.
+
+[s3]
+5. Două femei vor pleca
+La moară vor măcina
+Dar una s-a ridica
+Şi alta va rămânea.
+6. Şi atunci doi bărbaţi
+Ei la câmp vor fi plecaţi
+Dar unul va fi luat
+Şi altul va fi lăsat.
+
+[s4]
+7. Dar acum copii mei
+Eu vă rog vă pregătiţi
+Căci aici jos nu ştiţi
+Când la cer veţi fi răpiţi
+8. Căci aceia zi va fi
+Când puţini se va găsi
+Căci ea va fi ca un hoţ
+Şi puţini vor fi luaţi.
+
+[s5]
+9. Dar acuma voi strigaţi
+Şi pe Mire-L aşteptaţi
+Căci în timpul de-ncercări
+Nu voi lăsa peste puteri.
+10. Deşi Eu mai zăbovesc
+Să ştiţi că în curând sosesc
+Căci toate se vor sfârşi
+Dar cuvântul în veci va fi.
+
+[order]
+s1,s2,s3,s4,s5

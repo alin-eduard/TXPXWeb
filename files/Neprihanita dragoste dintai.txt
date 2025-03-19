@@ -1,0 +1,37 @@
+[s1]
+Neprihănită dragoste dintâi
+Nu pot trai făr’ Tine!
+/: Nu pot iubi, nu pot răbda
+Nu pot cunoaşte pacea Ta
+De nu rămâi în mine. :/
+
+[s2]
+Neprihănită dragoste dintâi
+Iubirea mea de Tine!
+/: M-am depărtat, m-am rătăcit
+Din clipa când Te-am părăsit
+Dar azi mă-ntorc la Tine. :/
+
+[s3]
+Neprihănită dragoste dintâi
+Ce dor de Tin’ mă leagă.
+/:Te chem cu plânsul meu amar
+Mai vino iar cu sfântu-Ți har
+Cuprinde-mi viaţa-ntreagă. :/
+
+[s4]
+Neprihănită dragoste dintâi
+Eu nu găsesc în mine.
+/: Putere să pot suferi
+Iertare să pot dărui
+Nimic sunt fără Tine. :/
+
+[s5]
+Neprihănită dragoste dintâi
+Cu lacrimi de căinţă.
+/: Cu-ntregul dor, cu-ntregul gând
+M-aplec în faţa Ta plângând
+Mă-nchin cu umilinţă. :/
+
+[order]
+s1,s2,s3,s4,s5

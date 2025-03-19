@@ -1,0 +1,33 @@
+[s1]
+1. Cine bate, cine eşti
+Ce vrei, spune-mi ce doreşti
+De ce călătoreşti străine
+L-a mea uşă ai venit.
+386.
+
+[s2]
+2. Bate, bate n-ai plecat
+Spune-mi de ce n-ai intrat?
+Uşa-i greu să se deschidă
+E-ncuiată de păcat.
+
+[s3]
+3. Bate, bate tot aici
+Da aşteaptă necurmat
+Strigă lin duios nespus
+Cel ce-aşteaptă e Isus.
+
+[s4]
+4.Eu sunt, Eu sunt Domnul Tău
+N-auzi, n-auzi glasul Meu
+Călător ceresc sunt Eu
+Sunt Mântuitorul tău.
+
+[s5]
+5. Bate, bate El doreşte
+Să-i deschizi inima ta
+Până când îl laşi s-aştepte
+Nu ţi-e teamă c-o pleca?
+
+[order]
+s1,s2,s3,s4,s5

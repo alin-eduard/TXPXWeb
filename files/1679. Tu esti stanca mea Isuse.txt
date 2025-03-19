@@ -1,0 +1,43 @@
+[s1]
+1679.  MI
+1. Tu eşti pacea mea Isuse
+Când în juru-mi e război
+Când necazuri se abat
+Peste acest pământ şuvoi
+Tu eşti pacea mea Isuse
+Încercări de vor veni
+Nu mă tem Tu eşti cu mine
+Braţul Tău mă va păzi
+
+[r1]
+Cor:	Pacea Ta mă linişteşte,
+Pacea Ta mă întăreşte
+Pacea Ta însoţeşte
+Zi de zi mereu
+Îmi aduce siguranţa
+Pacea Ta îmi dă speranţa
+Că-ntr-o zi voi fi acasă
+Lângă Domnul meu.
+
+[s2]
+2. Tu eşti pacea mea Isuse
+Tu eşti tot ce îmi doresc
+Pe cărarea mântuirii
+Fericit călătoresc
+Pacea Ta îmi dă putere
+Când pe cale obosesc
+Îmi ridic ochii spre ceruri
+Şi atunci ajutor primesc.
+
+[s3]
+3. Tu eşti pacea mea Isuse
+Doar Tu eşti nădejdea mea
+Când mureai pe lemnul crucii
+Tu mi-ai dat din pacea Ta
+Vreau să-ţi mulţumesc din suflet
+Domnul meu, iubirea mea
+Pentru pacea Ta cea sfântă
+Ce mi-ai dat prin Golgota
+
+[order]
+s1,r1,s2,r1,s3,r1

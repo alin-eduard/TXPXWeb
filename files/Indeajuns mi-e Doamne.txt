@@ -1,0 +1,28 @@
+[s1]
+/: Îndeajuns mi-e, Doamne,
+Doar harul Tău! :/
+
+[r1]
+/: Te laud, Doamne,
+Te preamăresc,
+Îmi ridic mâinile spre cer
+şi Te slăvesc :/
+
+[s2]
+/: Îndeajuns mi-e, Doamne,
+Cuvântul Tău! :/
+
+[s3]
+/: Îndeajuns mi-e, Doamne,
+Iubirea Ta! :/
+
+[s4]
+/: Mă-nchin în faţa
+Tronului Tău! :/
+
+[s5]
+/: Cu Tine-n slavă
+Curând voi sta! :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,26 @@
+[s1]
+Din slava stralucirilor albastre,
+Un mic copil Tu Doamne-ai daruit
+Acestia doi deplină bucurie
+Prin el, in inimi, Doamne au primit.
+
+[r1]
+/: Ia mana lui in mana Ta Parinte
+Calauzeste-i pasii spre liman
+Al Tau copil sa fie pan’ la moarte
+S’ajunga-n fericitul  Canaan :/
+
+[s2]
+In orice clipa Doamne da-i lumina
+De-ai sai parinti Tu fa-l ascultator
+Chipul Tau sfant in el ca sa se vada
+Cu Tine-n toate va fi-nvingator
+
+[s3]
+Cand stramtorat in viata va ajunge
+In suferinti necazuri, incercat
+Fa-l sa-si ridice ochii inspre Tine
+Si-n veci el va fi binecuvantat
+
+[order]
+s1,r1,s2,r1,s3,r1

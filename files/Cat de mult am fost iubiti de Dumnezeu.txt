@@ -1,0 +1,36 @@
+[s1]
+Cât de mult am fost
+iubiţi de Dumnezeu
+Caci a trimis din cer pe Fiul Său
+Pe o cruce la calvar
+pentru noi a suferit
+Pe o cruce la calvar
+pentru noi s-a jertfit
+
+[r1]
+/: Ca astăzi să fim liberi
+De păcat să fim iertaţi,
+Cu Dumnezeu să fim impăcaţi. :/
+
+[s2]
+Ce dragoste măreaţă
+faţă de noi şi-a arătat
+Rănile, cuiele-n palme,
+Isus le-a răbdat.
+Pentru mine pentru tin’,
+viaţa El şi-a dat
+Pentru mine pentru tin’,
+pe lemnul crucii ne-a salvat.
+
+[s3]
+Cum am putea sa rasplatim
+ce pentru noi El a facut
+O coroana de spini pe cap
+in locul nostru a avut.
+Sa-i dam in dar inima noastra,
+sa traiasca pe deplin
+Ca Domnitor si Rege,
+Imparat sublim.
+
+[order]
+s1,r1,s2,r1,s3,r1

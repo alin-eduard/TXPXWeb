@@ -1,0 +1,26 @@
+[s1]
+Acolo unde nu-s furtuni
+nici grijuri pământeşti,
+Locaş ceresc eu voi avea,
+la el s-ajung doresc!
+
+[r1]
+/: Locaş frumos eu voi avea
+de Domnul pregătit,
+Mult mă iubeşte Dumnezeu,
+cu El sunt fericit! :/
+
+[s2]
+Suspin, dureri n-or tulbura
+locaşul cel promis
+Şi veşnic ne vom bucura
+acolo-n paradis.
+
+[s3]
+Aici, când soarele-a apus
+e totu-ntunecos;
+În cer luceşte de nespus
+lumina lui Hristos.
+
+[order]
+s1,r1,s2,r1,s3,r1

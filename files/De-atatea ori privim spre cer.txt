@@ -1,0 +1,37 @@
+[s1]
+De-atâtea ori privim spre cer
+Spre ceru-albastru și senin
+Să te vedem când vei veni Isus iubit
+/: Ne arde inima de dor
+De Tine scump Mântuitor
+De ce nu vii Isus iubit, de ce nu vii?:/
+
+[s2]
+De-atâtea ori dăm înapoi
+La suferinți și la nevoi
+Dar te rugăm Isuse scump
+să fii cu noi
+/:O vino scumpul meu Isus
+Ca să ne iei la Tine sus
+De ce nu vii Isus iubit, de ce nu vii?:/
+
+[s3]
+Când oare sfântă fața Ta
+Iți vom vedea de-apururea
+Si să rămân o viață-n treagă lângă ea
+/: O vino scump Mântuitor
+Ca să ne stingi al vietii dor
+De ce nu vii Isus iubit de ce nu vii? :/
+
+[s4]
+Ierusalime loc iubit
+cetatea noului pământ
+Când vom intra pe-atale
+cu toți cântând
+/:Cu haine albe îmbrăcăți
+Cu Duhul Sfânt noi sigilați
+De ce nu vii o scump Isus,
+de ce nu vii?:/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,32 @@
+[s1]
+Mi-e dor de-acas, de casa părintească,
+De Tatăl meu cel iubitor,
+Chiar dacă-ar fi ca rob să mă primească,
+De-odihna Lui mi-e dor, mi-e dor...
+Cu mii de planuri am plecat de-acasă,
+Dar toate-acum pe suflet mă apasă,
+Un singur dor, atât mi-a mai rămas:
+Mi-e dor de-acas', mi-e doar de-acas'...
+
+[s2]
+Mi-e dor de-acas' prin vis mi se arată
+Căminul meu, cămin ceresc...
+O, ţara păcii, veşnic luminată,
+O, casa mea, cât te doresc!
+Cum zboară mii de păsări călătoare
+Spre alte ţări cu linişte şi soare
+Pământ străin, la fel şi eu te las:
+Mi-e dor de-acas', mi-e dor de-acas!
+
+[s3]
+Mi-e dor de-acas' limanu-aşteaptă vasul,
+Şi pârâiaşu-aleargă-n mări...
+La sânul mamei doarme copilaşul
+Cu cât alean şi desmierdări...
+Plăceri şi bani, putere şi renume,
+Ca roua trec, trec toate-n astă lume,
+Din toate-acum, un dor mi-a mai rămas:
+Mi-e dor de-acas', mi-e dor de-acas'...
+
+[order]
+s1,s2,s3

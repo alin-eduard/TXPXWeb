@@ -1,0 +1,33 @@
+[s1]
+Isus, ce dragoste măreaţă
+Te-am cunoscut în vremea când
+Toţi prietenii mă părăsiră
+Şi singur am rămas plângând
+Tu te-ai plecat cu gingăşie
+Şi fără să îmi spui vreun cuvânt
+Mai ridicat şi în clipa aceea
+Ţi-am văzut ochii lăcrimând.
+
+[s2]
+/: Vino şi azi să cercetezi
+Pe cei cazuţi,ce cu amar tânjesc
+Să le vindeci rana,să îî tămăduieşti
+Calea spinoasă să le-o netezeşti :/
+
+[s3]
+Te voi lăuda o viaţă întreagă
+De mila mare ce ai avut
+Iertându-mi starea păcătoasă
+Şi arătându-mi Cerul sus
+Cântarea îţi voi da ca laudă
+Tot restul vieţii ce mi-ai dat
+Te-oi înalţa în adunare.
+
+[s4]
+/: Condus de-a Ta iubire vreau
+Să fiu oricând aici pe-acest pământ
+Iar când venivei să iei ce-al Tău
+O,ia la tine şi sufletul meu :/
+
+[order]
+s1,s2,s3,s4

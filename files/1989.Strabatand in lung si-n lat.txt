@@ -1,0 +1,35 @@
+[s1]
+1989      Sol
+1. Străbătând în lung şi-n lat
+Lumea toată am căutat
+Un prieten şi un frate adevărat
+Dar zadarnic n-am găsit
+Şi-am rămas dezamăgit
+Totuşi într-o zi un om am întâlnit.
+
+[r1]
+Cor: Isus Isus
+O ce nume minunat
+Isus Isus
+Prietenul adevărat
+
+[s2]
+2. Oameni mulţi am cunoscut
+Şi în mulţi m-am încrezut
+Însă de-a lor drum
+Cu toţii şi-au văzut
+O ce crunt m-am înşelat
+Că sunt oameni slabi şi cad
+Numai Tu niciodat nu m-ai trădat.
+
+[s3]
+3. De doreşti şi tu acum
+Aşa prieten scump la drum
+Când toţi cei din jur
+Sunt abur şi scrum
+Poţi să-l iei dacă ai vrea
+El e aproape zi doar da
+E Isus Hristos omul din Golgota.
+
+[order]
+s1,r1,s2,r1,s3,r1

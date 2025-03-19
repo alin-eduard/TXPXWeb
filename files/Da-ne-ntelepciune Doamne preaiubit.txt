@@ -1,0 +1,20 @@
+[s1]
+Dă-ne-nțelepciune, Doamne preaiubit,
+Să pricepem starea care-i de dorit!
+Nu vrem, Doamne Sfinte, să fim căldicei;
+Vrem să fim în clocot, să iubim ca ieri!
+
+[r1]
+/: Întoarceți-vă azi, prin harul Domnului,
+Și lepădați fățărnicia veacului!
+Înțelepciune cereți astăzi Domnului
+Și să trăiți în dragostea dintâi! :/
+
+[s2]
+Răsfoiți, în urmă, fila din trecut:
+Cum ați găsit crucea și pe ea Isus!
+Tot așa iubit-ați pe vrajmăși, ca frați
+Nu cumva iubirea azi s-a micșorat?
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,31 @@
+[s1]
+1. Mi-e-atât de dor,
+Mi-e-atât de dor
+Iubitul meu, Mântuitor,
+/:Şi-n dorul meu neastâmpărat
+Te chem, Isuse scump şi drag.:/
+221.
+
+[s2]
+2. Te chem mereu,
+Te chem plângând,
+Să vii o clipă mai curând
+/:Că-mi arde inima de dor
+Iubitul meu Mântuitor.:/
+
+[s3]
+3. M-a cucerit iubirea Ta,
+Şi inima şi viaţa mea,
+/:Şi azi Te chem
+Plângând în prag
+Să vii, Isuse scump şi drag.:/
+
+[s4]
+4. Atât de dulce-i faţa Ta,
+Suspinul meu s-astâmpăra;
+/:De Tine, scump Mântuitor,
+Mi-e-atât de dor,
+Mi-e-atât de dor!:/
+
+[order]
+s1,s2,s3,s4

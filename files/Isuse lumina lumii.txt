@@ -1,0 +1,26 @@
+[s1]
+Isuse, Lumina lumii
+Tinereţea mea ţi-o dărui,
+Printre stâncile genunii
+Viaţa mea să o conduci.
+
+[r1]
+/: Lumină dulce
+Viaţa mea s-o cuprindă,
+Inima să-mi aprindă
+De iubirea de sus. :/
+
+[s2]
+Valuri multe de vor bate
+Peste mine vor străbate,
+Dar cu Domnul meu alături
+Primăvara va domni.
+
+[s3]
+Tinereţea mea e-o floare
+Lui să I-o pun la picioare,
+Pentru slava veşniciei
+Dăruiesc vremelnicii.
+
+[order]
+s1,r1,s2,r1,s3,r1

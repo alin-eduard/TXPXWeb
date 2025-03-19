@@ -1,0 +1,39 @@
+[s1]
+1708.Sol
+1. Numai Domnului
+Poţi să-ţi laşi povoara ta
+Doar Lui poţi să-i spui
+Greul tău şi durerea
+Poţi să-i spui al tău necaz
+Când ai lacrimi pe obraz
+Domnul te ascultă
+Când eşti slab când eşti lovit
+Când eşti trist şi necăjit
+Spune-I Lui El nu te uită
+
+[s2]
+2. Numai lui Isus
+Spune-i suferinţa ta
+Când la oameni nu-s leacuri
+Spre a te vindeca
+Vin la El cu boala ta
+Du-o sus la Golgota
+Roagă-te fierbinte
+Mergi la cruce zi de zi
+Spune-ţi focul inimii
+El din ceruri ia aminte
+
+[s3]
+3. Spune-I Domnului
+Când eşti singur părăsit
+Şi de fraţii tăi
+Eşti mereu batjocorit
+Când suspini în ceas târziu
+Spune-i Celui veşnic viu
+Spune-i spune-i frate
+Spune-i totul Domnului
+Lasă soarta-n mâna Lui
+El e Cel ce totul poate
+
+[order]
+s1,s2,s3

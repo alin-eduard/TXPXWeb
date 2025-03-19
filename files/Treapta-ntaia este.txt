@@ -1,0 +1,33 @@
+[r1]
+De la pământ la cer este o scară,
+Îngeri pe ea urcă şi coboară.
+De la pământ la cer este o scară
+La cer să ajungă.
+
+[s1]
+Treapta-ntâia este credinţa-n Isus;
+Treapta doua: cunoaşterea lui Isus;
+Treapta treia e stăpânirea ta.
+Urcă şi tu pe ea!
+
+[s2]
+Treapta patra: răbdarea cu oamenii;
+Treapta cincea: evlavia inimii,
+Treapta şasea: dragostea pentru surori
+Şi pentru toţi fraţii.
+
+[s3]
+Treapta şaptea: iubirea pentru oameni; Treapta şaptea: iubirea să o semeni; Treapta şaptea: cu Isus să te-asemeni,
+Iubind şi pe semeni.
+
+[s4]
+Mai sus, mai sus!
+Urcă încă o treaptă!
+Mai sus, mai sus!
+Îngerii te aşteaptă.
+Mai sus, mai sus,
+Aproape de Isus,
+Şi apoi cu Isus!
+
+[order]
+r1,s1,r1,s2,r1,s3,r1,s4,r1

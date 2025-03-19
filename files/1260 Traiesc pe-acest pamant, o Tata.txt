@@ -1,0 +1,40 @@
+[s1]
+Trăiesc pe-acest pământ, o Tată
+Şi ca şi Petru altădată
+/ : Mă aflu-n mijlocul furtunii
+Şi văd că nu m-ajută nimeni
+O spune un cuvânt Tu, Tată
+Şi marea s-a potoli-ndată : /
+1.
+1260
+
+[s2]
+Privesc în urma mea pe cale
+Şi spun ca David altădată
+/ : O, cum mergeam înconjurat
+De mari mulţimi aplaudat
+Dar azi eu singur am rămas
+Nu pot să-naintez un pas
+Că sunt de lei înconjurat : /
+2.
+
+[s3]
+O, vino Tu, o Sfinte Tată
+Închide gura lor odată
+Că mă hulesc, batjocoresc
+Şi tare rău mă mai lovesc
+Căci de m-ar lovi un străin
+N-aş suferi cu-atâta chin : /
+3.
+
+[s4]
+Eu mă încred în Tine, Tată
+Că marea o vei linişti
+Biruinţă voi primi
+Iar leii vor tăcea pe dată
+Căzând în a lor săpată groapă
+Căci Tu, doar Tu vei birui : /
+4.
+
+[order]
+s1,s2,s3,s4

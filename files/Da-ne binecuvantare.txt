@@ -1,0 +1,26 @@
+[s1]
+Dă-ne binecuvântare
+căci acum ne despărţim!
+Doamne, fii cu noi pe cale
+până iar ne întâlnim!
+
+[r1]
+Lasă-Ţi binecuvântarea
+peste-al Tău Cuvânt vestit,
+Ne ascultă rugăciunea,
+pentru toate fii slăvit!
+
+[s2]
+Doamne, Tu ne-ai dat şi astăzi
+hrană din Cuvântul Tău,
+Suntem plini de-a Ta putere,
+gata să lucrăm mereu.
+
+[s3]
+Duh Preasfânt, în noi lucrează
+o Biserică să-Ţi fim
+Ca odată-n veşnicie
+lângă Domnul să trăim!
+
+[order]
+s1,r1,s2,r1,s3,r1

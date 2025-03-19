@@ -1,0 +1,32 @@
+[s1]
+Adevărăt a înviat
+Isus al nostru Împărat
+Pe noi El ne-a răscumpărat
+Isus /:Hristos a înviat:/
+
+[r1]
+/:Îmi cântă inima,
+E viu de-a pururea
+Hristos a înviat
+Si viață El mi-a dat . :/
+
+[s2]
+Cu bucurie inima
+Ii canta azi aleluia.
+Mormantul El a parasit.
+Isus /:Hristos a biruit.:/
+
+[s3]
+Cu El suntem biruitori
+Murim cu El nemuritori
+Izvor de viață salvator
+E-al nostru /: Scump Mântuitor:/
+
+[s4]
+Isus Hristos a înviat
+O noua viață El ne-a dat
+Iar calea când ne-om vom sfârși
+Vom fi /:cu El în veșnicii:/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

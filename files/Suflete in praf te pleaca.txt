@@ -1,0 +1,32 @@
+[s1]
+Suflete, în praf te pleacă,
+Sub privirea lui Hristos,
+Măreţia ta să tacă,
+La Cuvântu-I maiestuos!
+Cel ce azi se-ndreptăţeşte
+Mâine sigur va cădea,
+Dar pe cel ce se smereşte
+Dumnezeu îl va’nălţa!
+
+[s2]
+Alt mijloc de mântuire
+Căuta-vei în zadar,
+Singura îndreptăţire
+Se găseşte la Calvar.
+Înaintea Lui te pleacă,
+Vezi ce mult El te-a iubit,
+Doar dreptatea Lui să-ţi placă,
+Numea ea te-a mântuit!
+
+[s3]
+Prosternat în adorare
+Slava Lui te va umbri,
+Iată singura onoare
+Ce nicicând nu va păli!
+Slava lumii va să treacă
+Şi-al tău merit… ce folos?
+Suflete, smerit te pleacă,
+Slava-i doar a lui Hristos!
+
+[order]
+s1,s2,s3

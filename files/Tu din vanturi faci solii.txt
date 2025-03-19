@@ -1,0 +1,41 @@
+[s1]
+Tu din vânturi faci solii
+Tu ai înalţat munţii
+Doamne, laudat să fii
+Faci din flăcări slujitori
+Tu-aduci ploaie, Tu-aduci nori
+Mare eşti Sfânt Creator.
+
+[r1]
+/: Ce mare eşti:/
+Şi nimeni nu-i ca Tine
+Doamne-n univers
+/: Ce mare eşti :/
+/:O, Domnul meu:/(3x)
+
+[s2]
+Tu-ai tras linia zorilor
+Ai pus hotare mărilor
+Tu eşti Domnul Domnilor
+Chemi pe nume stelele
+Tu ai creat soarele
+Mari Îti sunt lucrările.
+
+[s3]
+Toate câte le-ai creat
+Îti dau slavă ne-ncetat
+Doamne fii în veci lăudat
+Văi şi dealuri şi câmpii,
+Păsărele mii şi mii
+Toate-Ţi spun “slăvit să fii”
+
+[s4]
+Peste veacuri Tu domneşti,
+Din vecii Acelaşi eşti
+Domn al slăvilor cereşti
+Tu în glorii locuieşti
+Doar Tu, Doamne, porunceşti
+Sfânt, Sfânt, Sfânt în veci tu esti
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

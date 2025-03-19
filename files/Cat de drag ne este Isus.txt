@@ -1,0 +1,38 @@
+[s1]
+Cât de drag ne este Isus,
+Care la cer S-a înălţat.
+Cu Dumnezeu ne-a împăcat
+Şi pentru noi S-a rugat.
+
+[s2]
+Cine poate să ne spună
+Câtă pierdere am avea,
+Când spre El nu ne-am întoarce
+Şi rugând L-am căuta.
+
+[s3]
+Când vrăjmaşul ne apasă
+Şi în strâmtorări ne aflăm,
+Către El, ce nu ne lasă,
+Rugăciune să îndreptăm.
+
+[s4]
+Căci atunci al Lui iubire
+Va fi pururea cu noi;
+El ne ascultă rugăciunea
+Şi ne scapă din nevoi.
+
+[s5]
+Iar când vin vremuri grele
+Numai la El să alergăm;
+Isus ajutor ne întinde,
+Către El dacă strigăm.
+
+[s6]
+Părăsiţi fiind de prieteni
+Şi cu sufletul întristat,
+O, atunci Isus ne este
+Ajutorul imediat.
+
+[order]
+s1,s2,s3,s4,s5,s6

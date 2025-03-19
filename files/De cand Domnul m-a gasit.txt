@@ -1,0 +1,52 @@
+[s1]
+De când Domnul m-a găsit,
+Laudă Domnului,
+Inima mi s-a albit,
+Laudă Domnului!
+/: Inima mea a scăpat
+De-o povară de păcat;
+Laudă Lui, laudă Lui,
+Laudă Domnului! :/
+
+[s2]
+Prin sângele Lui vărsat,
+Laudă Domnului!
+Mi-a spălat al meu păcat,
+Laudă Domnului!
+/: De păcatul meu cel greu,
+M-a spălat Isus al meu;
+Laudă Lui, laudă Lui,
+Laudă Domnului! :/
+
+[s3]
+N-auzi tu, suflete dragă,
+Laudă Domnului,
+Şi pe tine El te cheamă,
+Laudă Domnului!
+/: Nu zice că tu nu vii,
+Mâine poate vei muri!
+Laudă Lui, laudă Lui,
+Laudă Domnului! :/
+
+[s4]
+Suflete, să te gândeşti,
+Laudă Domnului,
+Mâine poate nu mai eşti,
+Laudă Domnului!
+/: Hai să mergem cu Domnul,
+C-al nostru este raiul;
+Laudă Lui, laudă Lui,
+Laudă Domnului! :/
+
+[s5]
+Raiul nu este făcut,
+Laudă Domnului,
+Pentru-acel care-i pierdut,
+Laudă Domnului!
+/: Raiul este pregătit
+Pentru cel ce-i mântuit;
+Laudă Lui, laudă Lui,
+Laudă Domnului! :/
+
+[order]
+s1,s2,s3,s4,s5

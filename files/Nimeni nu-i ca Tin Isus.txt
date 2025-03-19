@@ -1,0 +1,22 @@
+[s1]
+Nimeni nu-i ca Tin’ Isus
+Nici în cer nici pe pământ
+Tu vei rămânea mereu,
+Cel mai puternic Dumnezeu;
+
+[r1]
+Se cuvine să te lăudăm
+O cântare să-ţi cântăm
+Mâini curate ridicăm
+Se cuvine să te lăudăm
+Preaînalte Dumnezeu
+Sfânt, sfânt, sfânt e numele Tău.
+
+[s2]
+Vreau să mă alătur celor din cer
+Ce se închină lui Dumnezeu
+Vin şi eu la tronul sfânt
+Să mă închin Isuse scump
+
+[order]
+s1,r1,s2,r1

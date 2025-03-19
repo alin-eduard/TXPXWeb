@@ -1,0 +1,37 @@
+[s1]
+1.Nicidecum,
+Nicidecum, niciodată,
+Gândul meu
+Altui pas nu-l aştern;
+/:În Isus viaţa mea e bogată,
+Un izvor din etern în etern.:/
+441							             Fa
+
+[s2]
+2.Nicăieri, nicăieri, nicio clipă,
+Nu pot fi fericit fără El.
+/:Lângă El peste-a morţii risipă
+Voi zbura ca un alb porumbel.:/
+
+[s3]
+3.În dureri, în necazuri
+Și-n moarte,
+Despărţire de Domnul meu nu-i,
+/:Dacă inima nu mă desparte
+Orice-ar fi, orice-ar fi sunt al Lui:/.
+
+[s4]
+4.Vom trăi veşnicii de iubire
+Mii de ani, zeci de mii,
+Mii de mii;
+/:Când o clipă cu El e-o uimire
+Ce va fi, ce va fi în veşnicii?:/
+
+[s5]
+5.Va veni, va veni Cel ce vine,
+Hohotind Îi voi plânge la piept;
+/:Cât mai bate o inimă-n mine
+Îl doresc, Îl iubesc, Îl aştept.:/
+
+[order]
+s1,s2,s3,s4,s5

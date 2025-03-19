@@ -1,0 +1,39 @@
+[s1]
+1980
+1. Bucuraţi-vă în Domnul
+Voi cea-ţi fost răscumpăraţi
+Bucuria este semnul
+Celor liberi şi curaţi.
+
+[s2]
+2. Bucuraţi-vă în Domnul
+Fii ai Lui născuţi de sus
+Bucuria mi-e cununa
+Dăruită de Isus.
+
+[s3]
+3. Bucuraţi-vă în Domnul
+Şi-n cuvântul Lui mereu
+Bucuria e tărie
+Când mi-e sufletul la greu.
+
+[s4]
+4. Bucuraţi-vă în Domnul
+Şi-i cântaţi cu dor şi avânt
+Bucuria voastră-i soare
+Pentru toţi de pe pământ.
+
+[s5]
+5. Bucuraţi-vă-n nădejde
+Viitoru-i numai har
+Pentru voi cei care astăzi
+Beţi al crucii plin pahar.
+
+[s6]
+6. Bucuraţivă în Domnul
+Nencetat şi mai aprins
+Bucuria e dovada
+Harului ce v-a cuprins.
+
+[order]
+s1,s2,s3,s4,s5,s6

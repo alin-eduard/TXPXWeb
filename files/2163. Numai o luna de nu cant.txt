@@ -1,0 +1,35 @@
+[s1]
+2163
+1. Numai o lună de nu cânt
+Îmi pare că s-a stins un soare
+Şi că de veacuri pe pământ
+N-am mai ajuns la sărbătoare.
+
+[s2]
+Cor: /: Numai o dată de nu sunt
+Cu frații mei în gând, în toate
+Alerg, mă lupt și mă frământ
+Să pot s-ajung la unitate :/.
+
+[s3]
+2. Numai o zi de nu citesc Cuvântul sfânt al cărţii Tale
+Se uscă gândul meu şi-mi cresc Noi temeri şi-ndoieli pe cale.
+
+[s4]
+Cor: /: Numai un ceas de nu
+mă rog
+Îmi arde inima-nsetată
+Şi-mi pare sufletul zălog
+La o-ntristare necurmată :/.
+
+[s5]
+3. Numai o clipă de nu-Ţi pot simţi Prezenţa lângă mine
+Nici cerul, nici pământul tot
+Nu pot fiinţa să-mi aline.
+
+[s6]
+Cor: /: Din orice lună, zi sau ceas Acele clipe mai senine
+Mi-au fost Isus şi mi-au rămas Doar care le trăiesc cu Tine :/.
+
+[order]
+s1,s2,s3,s4,s5,s6

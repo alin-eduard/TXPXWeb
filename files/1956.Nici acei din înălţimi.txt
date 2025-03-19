@@ -1,0 +1,57 @@
+[s1]
+1956
+Cor: Cine, cine, ne va despărţi
+De iubirea cea din veşnicii
+Care-n inimă El ne-a turnat
+Când cu Duhul Sfânt ne-a botezat
+Când cu Duhul Sfânt ne-a botezat
+
+[s2]
+1. Nici acei din înălţimi
+Nici acei din adâncimi
+Nici urât şi nici frumos
+De iubirea Lui Hristos
+Nu te poate despărţi
+Nu te poate despărţi.
+
+[r1]
+Cor: Cine, cine, ne va despărţi
+De iubirea cea din veşnicii
+Care-n inimă El ne-a turnat
+Când cu Duhul Sfânt ne-a botezat
+Când cu Duhul Sfânt ne-a botezat.
+
+[s3]
+2. Nici puteri, nici slăbiciuni
+Nici a lumii promisiuni
+Cu favoruri, cu folos
+De iubirea Lui Hristos
+Nu te poate despărţi
+Nu te poate despărţi.
+
+[s4]
+3. Nici necaz, nici strâmtorări
+Nici furtună de pe mări
+Nici vrăşmaşul furios
+De iubirea Lui Hristos
+Nu ne poate despărţi
+Nu ne poate despărţi.
+
+[s5]
+4. Nici durere şi nici chin
+Care-asupra noastră vin
+Să ne ţină tot mai jos
+De iubirea Lui Hristos
+Nu ne poate despărţi
+Nu ne poate despărţi.
+
+[s6]
+5. Nici cuptoare şi nici lei
+Și nici oamenii cei răi
+Dacă tu ești credincios
+De iubirea Lui Hristos
+Nu te poate despărţi
+Nu te poate despărţi.
+
+[order]
+s1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

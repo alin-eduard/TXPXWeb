@@ -1,0 +1,18 @@
+[r1]
+Să străluceşti
+Slava Tatălui umple ţara
+Duh ce-n călzeşti inimile cu foc
+Curgi peste noi
+Şi inundă-ne-n har şi pace
+Al Tău Cuvânt
+Soare fă-L pe pământ
+
+[r2]
+În lumina prezenţei Tale
+Întunerecul va dispare
+Tu lumina a lumii coboară
+Peste noi adevărul Tău iară
+Să străluceşti, să străluceşti
+
+[order]
+r1,r2,r1,r2

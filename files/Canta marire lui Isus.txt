@@ -1,0 +1,26 @@
+[s1]
+Cântă mărire lui Isus
+A Lui milă, graţie
+In locaşurile sfinte
+El un loc ne-a pregătit
+
+[r1]
+Când ajungem în cer toţi
+O, ce zi de bucurii va fi
+Când vedem pe Isus
+Cântăm cântarea-nvingerii
+
+[s2]
+Să fim dar toţi credincioşi Lui
+Doar pe Domnul să-l servim
+Când îl vom vedea-n mărire
+Plata de la El primim.
+
+[s3]
+Înainte e coroana
+In splendoarea cerului
+In curând prin porţi de aur
+Vom intra în slava Lui.
+
+[order]
+s1,r1,s2,r1,s3,r1

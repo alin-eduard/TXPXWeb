@@ -1,0 +1,50 @@
+[s1]
+1768.Fa
+1. Doamne adu-Ţi aminte,
+Te rog o bun Părinte
+Vino şi dă-ne ajutor,
+Uite ce stricăciune
+Şi ce amărăciune
+Este şi astăzi în popor
+Semnul de la rusalii,
+Al cercetării Tale
+Este adesea lepădat
+Şi goana-i tot mai mare
+Spre cele pieritoare,
+Lumea e plină de păcat
+
+[r1]
+Cor:	/:Vremuri grele, vremuri grele
+Peste lumea-ntreagă s-au lăsat
+Doamne scapă-ne din ele
+Vrem să fim ai Tăi cu-adevărat:/
+
+[s2]
+2. Nu se mai proroceşte,
+Omul se-mpotriveşte
+Totul e numai omenesc,
+Firea e-mpodobită
+Strică şi se-agită,
+Dar zic, suntem cu Dumnezeu
+Banii şi-nvăţătura,
+Răstălmăcesc Scriptura
+Unde lipseşte Duhul Tău
+Vai ce nenorocire,
+Oamenii plini de fire
+Ei zic suntem cu Dumnezeu
+
+[s3]
+3. Sunt vremuri tot mai grele,
+Când vin să ne înşele
+Oamenii fără de Hristos
+Dar roada îi trădează
+Pe cei ce nu veghează
+Chiar dacă ei vorbesc frumos
+Iată că Domnul vine, ferice e de cine
+Luptă şi fuge de păcat
+Vine o zi măreaţă
+Când vom sta faţă-n faţă
+Cu Cel ce ne-a răscumpărat
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,34 @@
+[s1]
+Cântăm voioşi şi suntem fericiţi
+Căci prin Isus viaţă am primit
+El e cu noi pe El vrem să-L urmăm
+De-aceia azi glorie cu toţii să-i cântăm.
+
+[s2]
+/:Să-i cântăm din inimi Aleluia
+Prin iubire noi să Îl urmăm
+Să-i cântăm cu toţii osanale
+Pe Isus Hristos să-L lăudăm. :/
+
+[s3]
+În orce zi prin bine şi prin rău
+Eu nu mă tem căci El e Dumnezeu
+E stânca mea în fiecare zi
+Un Tată bun şi totdeauna pe El
+il voi slăvi.
+
+[r1]
+/: Să-i cântăm din inimi Aleluia
+Prin iubire noi să Îl urmăm
+Să-i cântăm cu toţii osanale
+Pe Isus Hristos să-L lăudăm. :/
+
+[s4]
+Iar într-o zi spre ceruri vom pleca
+De azi vegheam şi calea-i vom urma
+Dar pân’ atunci prin viaţă să-l slăvim
+Şi-n veci de veci,
+pe Isus Hristos să-L preamărim.
+
+[order]
+s1,s2,s3,r1,s4,r1

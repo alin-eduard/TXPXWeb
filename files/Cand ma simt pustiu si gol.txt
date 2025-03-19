@@ -1,0 +1,32 @@
+[s1]
+Cand mă simt pustiu şi gol
+Fără sens cînd eu trăiesc
+Eu Îl chem pe Dumnezeu
+În viaţa mea.
+Cand eu nu mai am puteri
+Şi-s lipsit de ajutor
+Eu Îl chem pe Dumnezeu
+Salvatorul meu.
+
+[s2]
+Doamne, eu Te rog să vii
+Să cobori în sufletu-mi
+Să-mi alini durerile
+Fii Regele meu!
+Tu condu viaţa mea
+Pe căi sfinte către cer
+Şi ajută-mă să vin
+La Tine sus.
+
+[s3]
+Ştiu, Isuse, vei veni
+Pe nori albi cu <Osana !>
+Slavă-atunci eu Îţi voi da
+Căci m-ai salvat.
+/: Aleluia-Ţi voi cînta
+Toată veşnicia mea
+Căci Tu meriţi ca să fii
+Glorificat. :/
+
+[order]
+s1,s2,s3

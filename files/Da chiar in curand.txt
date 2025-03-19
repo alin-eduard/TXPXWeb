@@ -1,0 +1,20 @@
+[r1]
+/: Da, chiar în curând
+Vom vedea toţi pe Regele :/
+Aleluia, Aleluia,
+pe Rege il vom vedea !
+
+[s1]
+/: Lacrimi nu vor fi
+Când vom vedea toţi pe Regele :/
+Aleluia, Aleluia,
+pe Rege il vom vedea !
+
+[s2]
+/: Moarte nu va fi
+Când vom vedea toţi pe Regele :/
+Aleluia, Aleluia,
+pe Rege il vom vedea !
+
+[order]
+r1,s1,s2,r1

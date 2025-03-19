@@ -1,0 +1,43 @@
+[s1]
+1117.
+1.       Iubire cerească iubire
+Iubire cerească dintâi
+Prin Tine trăim în unire
+Şi-am vrea lângă Tin’ să ne ţii.
+Cor:	Când toate se vor veşteji
+Şi toate în prag vor cădea
+Acei care vor birui
+În cerul iubirii vor sta.
+
+[s2]
+2.      Eşti darul ce alină durerea
+Orice cunoştinţă întrece
+Prin Tine primim înfierea
+Cu Tine trăi-vom în veci
+Cor:	Când toate se vor veşteji
+Şi toate în prag vor cădea
+Acei care vor birui
+În cerul iubirii vor sta.
+
+[s3]
+3.      Iubire preasfântă aleasă
+Îmbracă-ne în haine de in
+Să fim a lui Isus mireasă
+Aşa ca o floare de crin
+Cor:	Când toate se vor veşteji
+Şi toate în prag vor cădea
+Acei care vor birui
+În cerul iubirii vor sta
+
+[s4]
+4.        Iubire comoară măreaţă
+În pieptul atâtor creştini
+Tu dai şi alin şi speranţă
+Speranţa eternei lumini.
+Cor:	Când toate se vor veşteji
+Şi toate în prag vor cădea
+Acei care vor birui
+În cerul iubirii vor sta.
+
+[order]
+s1,s2,s3,s4

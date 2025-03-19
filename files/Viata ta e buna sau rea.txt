@@ -1,0 +1,43 @@
+[s1]
+Exista dupa moarte-o vesnicie
+Exista dupa moarte-un nesfarsit
+Un nesfarsit de chin sau bucurie
+Depinde cum aici tu ai trait
+
+[s2]
+2
+Sa nu te-nseli crezand
+caci dupa moarte
+Se va sfarsi cu tine si atat
+Vei da-ncurand o mare socoteala
+De tot ce ai facut pe-acest pamant
+
+[s3]
+/:Viata ta e buna sau rea?
+In rai sau iad vei merge cu ea?
+In curand se va sfarsi,
+In care vesnicie curand vei pasi?:/
+
+[s4]
+4
+Exista dupa moarte-o vesnicie
+Un chin de foc ce nu se va găta
+Acolo vor ajunge toti aceea
+Ce n-au primit in suflet jertfa Sa
+
+[s5]
+5
+Ei n-au primit in inima pe Domnul
+N-au vrut sa fie El a lor pastor
+Ei au iubit mai mult ce e in lume
+S-au increzut in omul muritor
+
+[s6]
+6
+/:Viata ta e buna sau rea?
+In rai sau iad vei merge cu ea?
+In curand se va sfarsi,
+In care vesnicie curand vei pasi?:/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,28 @@
+[s1]
+Doamne Tu nouă ne-ai ordonat Să mergem să vestim ne-ncetat Evanghelia-n toată lumea
+S-o audă toată făptura
+Cei ce cred în Tine
+Se botează şi se mântuie
+Şi semne Tu le laşi
+Arătând că sunt ai Tăi urmaşi.
+
+[s2]
+După ce-am crezut ne botezăm
+Şi ca Tine din moarte-nviem
+După Duh Sfânt noi toţi ne rugăm Ca sfinţii Tăi să ne botezăm
+Cei ce cred în Tine
+Se botează şi se mântuie
+Şi semne Tu le laşi
+Arătând că sunt ai Tăi urmaşi.
+
+[s3]
+Acum în apă sunt botezat
+Te rog dă-mi Duhul Tău cel curat
+Să mă conducă pe-acest Pământ Să pot fi ca şi Tine tot blând
+Cei ce cred în Tine
+Se botează şi se mântuie
+Şi semne Tu le laşi
+Arătând că sunt ai Tăi urmaşi.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,26 @@
+[s1]
+Plin de iubire Isus azi te cheamă:
+„Vino la Mine acum!“
+La uşa inimii stă şi aşteaptă,
+Vrea să­I deschizi chiar acum!
+
+[r1]
+„Veniţi, acum,
+Voi toţi cei împovăraţi!“
+Plin de iubire Isus azi te cheamă:
+„Vino la Mine acum!“
+
+[s2]
+Ce mai aştepţi când Isus
+Îţi vorbeşte: „Vino la Mine acum!?“
+Nu refuza mila ce­ţi dăruieşte;
+Vino la El chiar acum!
+
+[s3]
+Vezi cum viaţa în grabă se duce?
+Vino la Domnul acum!
+Clipa plecării spre cer e aproape;
+Vino la El chiar acum!
+
+[order]
+s1,r1,s2,r1,s3,r1

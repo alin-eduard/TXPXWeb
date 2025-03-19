@@ -1,0 +1,31 @@
+[r1]
+Bine-ai venit, scump Isus
+bine-ai venit
+Noi te iubim, Te proslavim
+Si-n inimi Te primim
+Caci ne-ai adus iertare-n dar
+Si viata pe vecie
+Dulce Salvator, bine-ai venit
+
+[s1]
+In lumea noastra de pacat
+Isus Hristos veni
+El cerul slavei a lasat
+Pentru-a ne mantui
+Luand pacatu-ntregii lumi
+Salvare ne-a adus
+Cantati si va-nchinati cu toti
+Azi Regelui Isus
+
+[s2]
+Ce mare har, ce bucurii
+Tatal ne-a daruit
+Pe fiul Sau, Isus Hristos
+La noi jos La trimis
+Ingeri si heruvimi canta
+Lui neincetat
+Cantam si noi cu ei Acelui
+Care ne-a salvat.
+
+[order]
+r1,s1,r1,s2,r1

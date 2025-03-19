@@ -1,0 +1,51 @@
+[s1]
+Suntem doar nişte călători,
+Străini pribegi prin lume,
+Purtăm în piept comori de sus,
+Şi-al Lui Isus sfânt Nume.
+Mi minor
+
+[s2]
+/: Ne arde inima de dor,
+După aceea ţară,
+Unde-s câmpiile cu flori,
+Şi-i vesnic primăvară. :/
+
+[s3]
+Un ţel ne-a strâns şi ne-a legat,
+De Tine scumpe Tată,
+Şi nu ne poate despărţi,
+Doar inima de piatră.
+
+[s4]
+/: Nici foamea prin al ei război,
+Nici frigul, niciodată,
+Nici săgeţi care vin spre noi,
+Căci Dumnezeu ne e Tată. :/
+
+[s5]
+Nici înalţimea, dac-ar fi,
+Cărarea-i numai una,
+În iesle pe Tine Te-am găsit
+Şi sus este cununa.
+
+[s6]
+/: Prin bucurii şi prin amar,
+Pe mare-aşa e drumul,
+Chiar dac-am pierde corăbioara,
+Avem la Tine Duhul. :/
+
+[s7]
+Ajută-ne ca să purtăm,
+Cu drag acest Sfânt nume,
+Căci ne-ai răscumpărat cu-n preţ,
+Ce nu se poate spune.
+
+[s8]
+/: Orice-am câştiga aici,
+Sau ce-am pierde-i tot una,
+Dacă te-avem pe Tin` Isus,
+Am câştigat cununa. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

@@ -1,0 +1,35 @@
+[s1]
+1629.
+1. Mamă, mamă,
+Când m-ai adus pe lume
+Şi când mi-ai dat un nume,
+M-ai dus la binecuvântare
+Aici la noi în adunare
+Şi mai stropit cu lacrimi multe,
+Dorind ca Domnul să te-asculte.
+
+[s2]
+2. Mamă, mamă
+Şi I-ai mai spus lui Isus aşa
+Să aibă grijă de viaţa mea!
+Să-mi  binecuvinteze paşii!
+Şi să-mi înlăture vrăjmaşii!
+
+[s3]
+3. Mamă, mamă
+Îţi mulţumesc o mama dragă,
+Căci mi-ai vegheat viaţa întreagă!
+Domnul Isus să-ţi răsplatească,
+Şi să-ţi dea slava Sa cerească!
+
+[s4]
+4. Mamă, mamă
+Când mai adus pe lume
+Şi când mi-ai dat un nume,
+M-ai dus la binecuvântare
+Aici la noi în adunare
+Şi mai stropit cu lacrimi multe,
+Dorind ca Domnul să te-asculte.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,44 @@
+[s1]
+De mă-ntrebi de-a mea comoară,
+Şi de sunt un om bogat,
+De te duci la Cec sau la bancă,
+Vei vedea că sunt sărac.
+De mă-ntrebi de ce sunt vesel
+Şi de ce eu cânt aşa,
+Îţi voi spune despre Isus,
+Comoara mea!
+
+[r1]
+/: Iubesc pe Isus :/
+Şi-L iubesc pe zi ce trece
+Tot mai mult!
+Îţi voi răspunde la orice-ntrebare;
+Iubesc pe Isus şi El mă iubeşte. :/
+
+[s2]
+Am căutat, în astă lume,
+Şi-am dorit să stăvilesc
+Setea sufletului care
+Îmi cerea s-o împlinesc;
+Dar, mai ars şi plin de sete,
+Am ajuns când m-a găsit
+Regele, ce pentru mine-a suferit.
+
+[s3]
+Iar când noaptea va dispare
+Şi-ostenit ajung în prag,
+Voi vedea Faţa lui Isus;
+La picioare o să-I cad.
+Dacă nu voi fi în stare
+Un discurs ca să rostesc,
+Îi voi repeta aceasta:
+„Mult Te iubesc! "
+
+[s4]
+/:„Te iubesc, Isus!:/
+Te iubesc, sunt hotărât pentru vecii”
+Îi voi răspunde la orice-ntrebare;
+Iubesc pe Isus şi El mă iubeşte :/
+
+[order]
+s1,r1,s2,r1,s3,s4

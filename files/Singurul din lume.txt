@@ -1,0 +1,19 @@
+[s1]
+/: Singurul din lume,
+Singurul din lume
+Căruia trebui să ne închinăm :/x2
+
+[s2]
+Este Dumnezeul slavei
+Numai Lui trebui să ne închinăm
+Este Dumnezeul slavei
+Numai Lui trebui să ne închinăm
+
+[s3]
+Să-L avem în suflet şi-n gând
+Să-L avem în suflet şi-n gând
+Să-L avem în suflet şi-n gând
+Cât trăim pe acest pământ
+
+[order]
+s1,s2,s3

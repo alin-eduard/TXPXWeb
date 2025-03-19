@@ -1,0 +1,20 @@
+[s1]
+Ce dragă-mi este mama
+Când mă gândesc la ea!
+Pe bratul ei, la pieptul ei,
+Usor mă legăna!
+
+[s2]
+Si-atunci când fi-voi mare
+Si depărtat de ea,
+Tot gândul meu se va-ndrepta
+Mereu spre mama mea
+
+[s3]
+O, Doamne-ascultă-mi ruga
+Si fii cu mama mea,
+În vesnicii să fim ai Tăi,
+Să fim în slava Ta!
+
+[order]
+s1,s2,s3

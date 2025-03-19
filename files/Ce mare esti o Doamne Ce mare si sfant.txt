@@ -1,0 +1,32 @@
+[s1]
+Ce mare esti o Doamne,
+Ce mare si sfant
+Spun stelele, natura
+Si vuietul de vant
+Si trasnetul ce culca
+Stejarii la pamant
+Si-al pasarilor cantec
+Mare esti si sfant
+Mare esti, mare-i slava Ta
+Ai fost, esti si vei fi in veci asa
+
+[r1]
+Cat de mare esti Doamne, cat de sfant
+Cat de mare esti Doamne, eu iti cant
+Te voi lauda mereu, ai salvat sufletul meu
+Cat de mare esti Doamne, cat de sfant
+
+[s2]
+De ar cunoaste Doamne
+Toti oamenii ce sfant
+Puternic e-al Tau nume
+si Sfantul Tau cuvant
+De-ar auzi chmearea
+si glasul Tau cel sfant
+Te-ar preamarii de-a-pururi
+Caci mare esti si sfant
+Mare esti, mare-I slava Ta
+Ai fost, esti si vei fi asa.
+
+[order]
+s1,r1,s2,r1

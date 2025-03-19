@@ -1,0 +1,43 @@
+[s1]
+910.Re b m
+1. Cu suflet alb de nevinovăţie
+Înconjuraţi de atâtea frumuseţi
+/: Vin tinerii ca să-Ţi aducă Ţie
+Isuse zorii albei dimineţi :/.
+2. Isus iubit ca roua-mbelşugată
+Venim ca să-Ţi aducem Ţie-n dar
+/: În orice piept o jertfa ne-nfricată
+Şi-n orice sân un crin pe-al Tău altar :/
+
+[s2]
+3.	Venim din văi de moarte şi ruine
+Cu ochi scăldaţi în haru-Ţi minunat
+/: Cu atâtea sfinte bucurii în Tine
+Şi atâta fericire am aflat :/.
+4.  Din toate cele patru părţi a lumii
+Suim spre Tine mii şi zeci de mii
+/: Având pe   buze toţi acelaşi nume
+Şi-n piept aceleaşi sfinte bucurii :/.
+
+[s3]
+5.	Sub crucea Ta aducem fiecare
+Potirul alb al crinilor din noi
+/: Să-l umpli Tu cu sfânta-nflăcărare
+Şi să ne arunci în lupta Ta apoi :/.
+6.  Ne-am dăruit deplin şi tuturora
+Pământul pentru cer să-l cucerim
+/: Privind cu ochii-n lacrimi aurora
+Cerescului dorit Ierusalim :/.
+
+[s4]
+7.   Vom suferi şi moarte şi urgie
+Ştiind că în curând noi vom primi
+/: Pe frunte fericita veşnicie
+Cununi de slăvi şi sărutarea Ta :/.
+8.  Ne bucurăm de ceasul tinereţii
+Căci Te-am găsit pe Tine scump Isus
+/: Şi Te-om slăvi pân' la sfârşitul vieţii
+Cu bucurii la care ne-ai adus :/.
+
+[order]
+s1,s2,s3,s4

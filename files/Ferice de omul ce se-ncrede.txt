@@ -1,0 +1,39 @@
+[s1]
+Ferice de omul ce se-ncrede
+În Domnul care-i Dumnezeu
+Şi nu se-ndreaptă către rele
+Ci-şi află pace-n cuvântul Său
+Re
+
+[s2]
+Tu m-ai pus Doamne pe o Stâncă
+Şi-n gura mea o cântare ai pus
+Nu mă voi clătina de-acolo
+Căci stânc-aceea e Isus.
+
+[s3]
+Ce mari sunt lucrările Tale
+Nimeni nu le poate egala
+Aş vrea să spun la toată lumea
+Şi să mă laud cu dreapta Ta.
+
+[r1]
+Tu m-ai pus Doamne pe o Stâncă
+Şi-n gura mea o cântare ai pus
+Nu mă voi clătina de acolo
+Căci stânc-aceea e Isus.
+
+[s4]
+Tu nu doreşti jertfe sau mâncare
+Ci vrei să te ascult deplin
+Mai bine spun lucrările Tale
+Şi despre harul Tău divin.
+
+[s5]
+Eu sunt sărac, lipsit şi singur
+Dar Domnul nu mă va părăsi
+El e-adăpost şi izbăvire
+Şi nimeni nu mă va clinti.
+
+[order]
+s1,s2,s3,r1,s4,r1,s5,r1

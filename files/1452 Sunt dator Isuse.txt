@@ -1,0 +1,34 @@
+[s1]
+1452.Re
+1. Sunt dator Isuse toată viaţa mea
+Să te laud într-una să-ţi dau inima
+/:Pentru a Ta iubire pentru jertfa Ta
+Pentru mântuire pentru Golgota.:/
+
+[s2]
+2. Pentru mângâiere
+Pentru al Tău cuvânt
+Pentru plinătatea Duhului cel Sfânt
+/:Pentru apa vie pentru al Tău izvor
+Fii lăudat Isuse Rege al Regilor:/
+
+[s3]
+3. Dacă am suflare cuget şi vorbesc
+Dacă am mişcare şi pot să privesc
+/:E pentru că-n toate Tu ne-ai arătat
+Că eşti bun şi mare că eşti minunat:/
+4. Oamenii aleargă străbătând lumea
+Caută fericirea dar n-o pot afla
+/:Pentru mine Isus bucuria mea
+E să fiu cu Tine Doamne-n casa Ta.:/
+
+[s4]
+5. Pentru toate astăzi
+Vreau să-Ţi mulţumesc
+Şi cu a mea fiinţă să Te preamăresc
+/:Să Îţi cânt deapururi
+Și să Te slăvesc
+Împăratul Slavei Isus te iubesc.:/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,33 @@
+[s1]
+Sunt salvat, sunt iertat,
+de păcate spălat
+Dumnezeu fie-n veci lăudat
+Jertfa Lui ne-a deschis
+drumul înspre Paradis
+Prin sângele Lui cel sfânt, mântuit
+
+[r1]
+Sunt salvat, sunt salvat
+Dumnezeu m-a iertat
+Azi pe El îl slăvesc
+Mântuire eu primesc.
+
+[s2]
+M-ai iubit, Domnul meu,
+ai murit în locul meu
+Pe o cruce ai fost răstignit
+Tu pe toţi ne-ai iertat,
+ai purtat al nost' păcat
+Şi-ai strigat: "Tată, iartă-i
+că nu ştiu ce fac"
+
+[s3]
+Astăzi ştiu că trăieşti,
+simt că Tu mă iubeşti
+Mă ajuţi când mi-e calea grea
+Mă-ntăreşti tot mereu,
+m-ai făcut copilul Tău
+Şi de-atunci te urmez tot mereu
+
+[order]
+s1,r1,s2,r1,s3,r1

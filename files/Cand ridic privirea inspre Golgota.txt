@@ -1,0 +1,28 @@
+[s1]
+Cand ridic privirea
+inspre Golgota
+Spinii rai si Crucea
+cu povara grea
+Vad cum urca Domnul
+dealul greu nespus
+Steag de Biruinta
+pentru mine-a pus.
+
+[r1]
+Nici o cale nu-i mai buna
+ca si calea Sa
+Calea ce te duce inspre Golgota
+Nici-o Soapta nu-i mai dulce
+ca Iubirea Lui
+Glasul cel de Tata
+glasul Domnului
+
+[s2]
+Crucea lui sta tare ca o stanca azi
+Patimi si pacate
+s-o doboare-ar vrea
+Insa i-ai salvarea pt orice pacat
+Viata mea de-acuma s-a eliberat
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,27 @@
+[s1]
+‘Naintea Ta noi am venit
+Să cerem Doamne îndurare,
+Mereu cu milă ne-ai primit
+Și-atâtea Tu ne-ai dăruit.
+Și pentru toate ce avem
+Ne închinăm cu mulțumire
+Dar nu e-n lume altceva
+Ca binecuvântarea Ta.
+
+[r1]
+Nu cerem Doamne bogății
+Nici împlinire pămîntească,
+Ci mai degrabă mâna Ta
+Și Duhul Tău să ne-nsoțească.
+Nu suntem vrednici să ne-asculți	Dar îndrăznim Isus la Tine,
+Nu cerem Doamne altceva
+Doar binecuvântarea Ta.
+
+[s2]
+De nu mergi Doamne Tu cu noi
+Vom rătaci în astă lume,
+Dorim Isus lumina Ta
+Și-al Tău Cuvânt să ne îndrume.
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,30 @@
+[s1]
+Să nu te temi, că-n luptă
+duşmanii vor fugi.
+În Numele lui Isus
+noi îi vom birui.
+Satan va fi învins
+iar noi vom triumfa,
+/:Prin fiecare strop de sânge
+scurs la Golgota.:/
+
+[r1]
+Slavă Domnului
+să-I cântaţi popoare,
+Slavă Domnului laudă-L pământ.
+Slavă Domnului
+ne-a adus scripturile,
+Te bucură tresaltă Israel.
+
+[s2]
+În Numele lui Isus
+cad lanţuri de păcat.
+Bolnavii pot să umble,
+sa vadă toţi cei orbi.
+A lui Satan putere
+pe veci El a înfrânt.
+/:El a-nviat trăieşte-n
+veci prin El azi liber sunt.:/
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,23 @@
+[s1]
+Domnul imi e Pastorul
+Si eu lipsa de nimic nu voi duce
+El ma paste la pasuni verzi
+Si la ape de odihna El ma duce
+Imi invioreaza sufletul si ma povatuieste
+Pe cararile Lui drepte
+Din pricina Numelui Sau
+
+[s2]
+/: Chiar de-ar fi sa umblu-n
+valea umbrei mortii,
+Nu ma tem de nici un rau
+caci Tu esti cu mine
+Toiagul si nuiaua Ta ma mangaie,
+De aceea indurarea Ta ma va insoti. :/
+
+[s3]
+Domnul imi e Pastorul
+Si eu lipsa de nimic nu voi duce.
+
+[order]
+s1,s2,s3

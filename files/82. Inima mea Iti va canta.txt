@@ -1,0 +1,39 @@
+[s1]
+82.                    Fa
+1. Inima mea îţi va cânta
+Chiar azi Ţi-o deschid Isuse
+/:Să intri în ea, căci este a Ta
+Chiar azi Ţi-o deschid, o Isuse:/
+
+[s2]
+2. Inima mea, inima mea
+Tu s-o curăţeşti Isuse
+/:Să intri în ea, căci este a Ta
+Chiar azi Ţi-o deschid, o Isuse:/
+
+[s3]
+3. Isuse, eu Te rog acum
+Să-ndrepţi paşii mei spre Tine
+/:Să merg mereu pe drumul Tău
+Pe care ai mers Tu, Isuse! :/
+
+[s4]
+4. În ochii mei, şi-n gândul meu
+Pe veci Tu să fii, Isuse
+/:Inima mea sufletul meu
+Pe Tine te caută, Isuse:/
+
+[s5]
+5. Ajută-mă ca să înving
+Păcatul ce mă-nconjoară
+/:Să calc mereu pe eul meu
+Umil să trăiesc pentru Tine :/
+
+[s6]
+6. Iar când de-aici mă vei chema
+Cununa eu ca să primesc
+/:Sufletul meu iţi va cânta
+Mărire în veci, o, Isuse! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

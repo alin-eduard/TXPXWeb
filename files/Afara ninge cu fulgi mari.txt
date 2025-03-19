@@ -1,0 +1,38 @@
+[s1]
+Afară ninge cu fulgi mari,
+Frumos e peste tot.
+Grădinile s-au îmbrăcat
+Cu-o haină de omăt.
+Iar eu, privind cum vin în zbor
+Fulgi albi plutind uşor,
+Sunt fericit că, prin Isus,
+Alb ca zăpada sunt.
+
+[s2]
+Ca fulgul de nea
+/: Ca fulgul de nea :/
+Să fiu si eu aş vrea!
+Stea de zăpadă,
+Steluţă albă, strălucitoare
+Şi ziua şi noaptea
+
+[s3]
+O, ce frumos e ca să fii
+Alb ca fulgul de nea!
+Să ştii că din cer ai venit
+Şi-acolo-i ţara ta!
+Crenguţa goală s-o-nveleşti,
+De ger să o păzeşti,
+Să luminezi drumul noaptea,
+Ca stea să străluceşti!
+
+[s4]
+Ca fulgul de nea
+/: Ca fulgul de nea :/
+Să fiu si eu aş vrea!
+Stea de zăpadă,
+Steluţă albă, strălucitoare
+Şi ziua şi noaptea...
+
+[order]
+s1,s2,s3,s4

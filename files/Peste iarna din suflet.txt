@@ -1,0 +1,41 @@
+[s1]
+Peste iarna din suflet
+când vin întristari,
+Cu petale de cântec rasar primaveri
+Peste lacrimi de zâmbet Isus,
+harul Tau
+Peste noaptea tacerii din însingurari,
+Cu-nstelarea iubirii
+mi-aprinzi mângâieri.
+Peste suflet nadejde Isus, Harul Tau.
+
+[r1]
+Harul Tau este raza ce frânta-n calvar
+Trandafirul din vale îl plânge cu-amar
+Harul Tau e izvorul de sânge curat
+Ce îmi spala fiinta de orice pacat.
+Harul Tau e iubirea ce m-a cucerit
+Rastignita pe cruce când m-a mântuit
+Harul Tau e speranta ce-aprinde în zori
+Cu nadejdea-nvierii un cer de comori.
+
+[s2]
+Norii negrii ai urii mi i-ai alungat
+Cu balsamu-ndurarii m-ai înseninat
+În furtuna e pace, Isus harul Tau.
+Mi-ai adus dimineaţa
+c-un zâmbet divin
+Mi-ai schimbat Doamne
+viaţa din plâns în senin
+Curcubeu peste ape Isus harul Tau.
+
+[s3]
+În gradina iertarii m-aşteapta cu drag
+Doua mâini rastignite si-un Tata în prag
+Ne-ai cuprins în iubire Isus, harul Tau.
+Te-oi lauda pe vecie pe-un capat de steag
+Datator al vietii Tu dragostea mea
+Ma voi duce-n marire Isus harul Tau.
+
+[order]
+s1,r1,s2,r1,s3,r1

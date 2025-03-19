@@ -1,0 +1,34 @@
+[s1]
+E toamnă iară, lin îmi şopteşte
+O frunză ruptă şi cazută jos în drum
+E toamnă iară, nu vezi afară
+Cum Dumnezeu ţi-a dăruit atât belşug.
+
+[r1]
+Din mâna Sa a revărsat clipă de clipă
+Nespuse binecuvântări ţi-a dăruit
+Cu braţul Său te-a ocrotit în încercare
+Şi niciodat’ pe Tine nu te-a părăsit
+
+[s2]
+E toamă iară, cocorii zboară
+Spre alte zări,
+lăsând doar cântul în urma lor
+E toama iară, toate dau Slavă
+Celui ce totul a creat cu-al Său Cuvânt.
+
+[r2]
+Ne-a încălzit cu soarele iubirii Sale
+A dat şi ploaie pe pământul însetat
+Ne-a dat iubire, pace-n suflet, sănătate
+Să-I mulţumim şi Să-i dăm Slavă neîncetat
+
+[s3]
+E toamna iară, timpul cum zboară
+Şi poate altă toamnă-n viaţă
+n-ai s-ajungi
+De aceea astăzi, tu mulţumeşte-I
+Din inimă pentru tot ce ţi-a dăruit.
+
+[order]
+s1,r1,s2,r2,s3,r1,r2

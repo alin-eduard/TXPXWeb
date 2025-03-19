@@ -1,0 +1,30 @@
+[r1]
+E râul sfânt care suflete mişcă
+E râul sfânt care curge şuvoi,
+Redeşteptarea de la Rusalii
+Revars-o acum din plin peste noi
+
+[s1]
+Peste munte e-un râu ce curge
+Înviorare revarsă curgând,
+În văi adânci şi-n întinsa câmpie,
+Râul străbate viaţ-aducând.
+
+[s2]
+Curgerea lui e venită din ceruri
+Şi poate lua generaţii la rând,
+Cei ce străbat ale râului ţărmuri
+Se-adapa din râu şi-apoi cântă strigând
+
+[s3]
+Cu toţii spre munte,
+ne place să mergem,
+Biserica-ntreagă
+trezire-aşteptând
+În apă intrăm la-nceput
+pân’ la glezne,
+Şi-apoi înspre larg
+ne avântăm înotând
+
+[order]
+r1,s1,r1,s2,r1,s3,r1

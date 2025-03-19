@@ -1,0 +1,56 @@
+[s1]
+Simţim încet cum harul de la neamuri se tot ia
+Şi uşa e aproape-a se-ncuia
+Mai mici sunt bucuriile
+ca-acum un sfert de veac
+Lucrările mai mici acum se fac.
+
+[s2]
+Poporule, păstrează
+dar credinţa ce-ai primit
+Păstrează nostalgia
+cercetării ce-ai simţit !
+Fecioară, aşteptarea
+în curând se va sfârşi
+Veghează, că-n curând
+El va veni !
+
+[s3]
+Smochinul care două mii
+de ani a fost uscat
+Smochinul blestemat
+azi rod a dat
+Copacii de asemeni
+cu putere înverzesc
+Venirea primăverii o vestesc.
+
+[s4]
+A naşterii dureri
+le simte omenirea iar
+Dar iarăşi fericirea
+vine după-acest amar.
+Fecioară, aşteptarea
+în curând se va sfârşi
+Veghează, că-n curând
+El va veni !
+
+[s5]
+Uleiul şi candela
+să veghezi ca să le ai
+Şi doctorie pentru
+ochi să-ţi iei Fecioară,
+îţi ridică-apoi privirea ta în sus
+Aşteaptă-n orice clipă pe Isus.
+
+[s6]
+Să-ţi pui apoi nădejdea-n
+harul ce-ţi va fi adus
+Cu slavă, când pe nori
+veni-va Mirele Isus !
+Fecioară, aşteptarea
+în curând se va sfârşi
+Veghează, că-n curând
+El va veni !
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,32 @@
+[s1]
+Doamne, ale noastre Inimi
+Ţi le-aducem pe altar
+Să le umpli Tu cu pace
+Doamne, şi cu al Tău Har
+
+[r1]
+/: Pentru Slava Ta
+Doamne eu voi cânta :/
+/: Pentru Cerul Tău
+Cântă azi, sufletul meu. :/
+
+[s2]
+Să-ţi putem aduce Slavă
+Cât mai suntem pe Pământ
+Te rugăm, Isuse, Doamne
+Umple-ne cu Duhul Sfânt
+
+[s3]
+Dar în Ziua Minunată
+Doamne, când Tu vei veni
+Te rugăm Isuse Doamne
+Să ne duci în Veşnicii
+
+[s4]
+Dar acolo, sus în ceruri
+În Impărăţia Ta
+Vom cânta plini de iubire
+Doamne Ţie pururea
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

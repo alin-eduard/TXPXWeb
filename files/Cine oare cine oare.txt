@@ -1,0 +1,52 @@
+[s1]
+Cine, oare? Cine, oare,
+Te-a scapat din stramtorare,
+Israel, Israel?
+Cine te-a strigat pe nume
+Si ti-a dat tarie-n lume,
+Israel, Israel?
+
+[s2]
+/: Cine, oare, te-a salvat?
+Cine te-a rascumparat?
+Cine altul decat El, Israel, Israel? :/
+
+[s3]
+Cine te-a scos din robie
+Si ti-a dat o apa vie, Israel, Israel?
+Cin' te-a scos din mare-adanca
+Si ti-a dat apa din stanca,
+Israel, Israel?
+
+[s4]
+/: Cine ti-a daruit tara
+Si ti-a ridicat ocara?
+Cine altul decat El, Israel, Israel?:/
+
+[s5]
+„Nu te teme-al Meu popor!
+Eu, iti vin in ajutor, Israel, Israel!
+Chiar daca vrajmasul vine,
+Domnul lupta pentru tine,
+Israel, Israel!
+
+[s6]
+/: Pretul tau e-asa de mare:
+Pentru tine, dau popoare!",
+Iata ce vorbeste El, Israel, Israel!:/
+
+[s7]
+Vezi zice poporul Meu:
+„Te-nalt, Doamne, Dumnezeu!“
+Israel, Israel!
+De noi iarasi Te induri,
+Ne nasti din daramaturi.“
+Israel, Israel,
+
+[s8]
+/: Tara ta va fi splendoare,
+O lumina-ntre popoare,
+Caci asa vorbeste El, Israel, Israel.:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

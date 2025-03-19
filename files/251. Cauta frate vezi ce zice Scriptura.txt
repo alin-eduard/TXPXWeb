@@ -1,0 +1,56 @@
+[s1]
+1. Caută frate vezi ce zice Scriptura
+La Ioel profetul ne învaţă aşa
+Căci în timpul de pe urmă
+Plăgi vor veni
+Şi atunci vai va fi de cei
+Ce nu s-or pocăi.
+251.
+
+[s2]
+2. Caută frate vezi ce zice Scriptura
+Ca o mamă ea ne-nvaţă aşa
+Căci din Duhul Sfânt
+Domnul atunci va turna
+Peste fii şi fiicele voastre atunci.
+
+[s3]
+3. Caută frate vezi ce zice Scriptura
+Căci bătrânii voştri visuri vor visa
+Servii şi servile voastre
+Vor prooroci
+Iar poporul sfânt
+În limbi noi vor vorbi.
+
+[s4]
+4. Caută frate vezi ce zice Scriptura
+Când poporul în alte limbi
+Se va ruga
+Ferice de cei ce vor avea
+Duhul Sfânt
+Căci cu Domnul
+Ei vor fi răpiţi curând.
+
+[s5]
+5. Caută frate vezi ce zice Scriptura
+Mulţi vor fi din cei
+Ce se vor scandaliza
+Şi-or batjocori lucrarea Domnului
+Dar vai va fi de sufletul acestuia.
+
+[s6]
+6. Caută frate vezi ce zice Scriptura
+Iar tu frate nu te descuraja
+Tu lucrează cu talantul
+Care l-ai primit
+Şi vesteşte-l pe Isus cel răstignit.
+
+[s7]
+7. Caută frate vezi ce zice Scriptura
+Chiar când lumea te-ar huli
+Nu te mira
+Căci pentru tine în ceruri va răsări
+Soarele dreptăţii care te va primi.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

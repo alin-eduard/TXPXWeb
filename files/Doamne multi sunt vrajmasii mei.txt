@@ -1,0 +1,26 @@
+[s1]
+Doamne, mulţi sunt vrăjmaşii mei
+Şi mulţi se scoală împotriva mea
+Şi ce mulţi cu batjocuri lovesc !
+Eu ştiu că Dumnezeu nu m-a lăsa.
+
+[r1]
+O, Tu, o, Doamne Isuse
+Eşti slava mea, Aleluia !
+Tu, o, Doamne Isuse
+Eşti slava mea, Aleluia !
+
+[s2]
+Strig cu glasul meu înspre cer
+Şi Dumnezeu aude plînsul meu
+Căci mă rog aşteptând mereu,
+Căci sprijinul meu este Dumnezeu.
+
+[s3]
+Nu mă tem chiar de ar veni
+Furtuna mare împotriva mea
+Eu ştiu Tu eşti nădejdea mea
+În orice clipă cât ar fi de grea.
+
+[order]
+s1,r1,s2,r1,s3,r1

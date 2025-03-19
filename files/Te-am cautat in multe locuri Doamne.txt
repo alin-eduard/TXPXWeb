@@ -1,0 +1,39 @@
+[s1]
+Te-am căutat în multe locuri, Doamne
+Din cele ce credeam că-s mai presus
+Nimeni nu-mi dezlega aceste taine
+Căci Tu Te afli-n sufletul supus.
+
+[r1]
+Nu Te-am găsit în loc împărătesc
+Şi nici încununat cu bogăţii
+Palatul Tău e-un suflet omenesc
+Ce-n inimă Te cheamă ca să vii.
+
+[s2]
+De ce n-ai fi venit în astă lume
+Cu slavă ce nicicând nu s-a visat
+Ca să nu poată nimenea a spune
+Decât că eşti al slavei Împărat ?
+
+[s3]
+Ce blând, umil în lume ai venit
+Ca s-o îndrepţi spre
+Tatăl Cel Prea-nalt!
+Al ei păcat doar Tu l-ai biruit
+Şi calea bună Tu ne-ai arătat.
+
+[s4]
+În piept o voce parcă îmi şopteşte
+Să cânt mereu să Te slăvesc mai mult!
+Şi inima-mi de doru-Ţi se topeşte
+Şi glasul Tău mereu aş vrea s-ascult.
+
+[s5]
+Harul bogat pe buze Ţi-e turnat
+Căci Tu eşti Fiul ce ne-ai fost adus
+Ca să ridici al lumii greu păcat
+Numai Tu poţi, căci numai Tu eşti sfânt, Isus !
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

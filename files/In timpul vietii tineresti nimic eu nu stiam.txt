@@ -1,0 +1,58 @@
+[s1]
+În timpul vieţii tinereşti
+nimic eu nu ştiam
+Din zori şi până-n noapte grea
+în nepăsări trăiam
+Trăiam condus de gândul meu,
+trăiam pe placul meu,
+Iar mama suspina adânc
+după sufletul meu.
+
+[r1]
+/: Prin rugăciunea mamei,
+Prin rugăciunea ei,
+Mi-a şters Isus păcatele
+Prin rugăciunea ei. :/
+
+[s2]
+Umblam pe drumuri rătăcind,
+la Domnul nu gândeam
+Prin fapte rele ce făceam
+pe mama-ndureram.
+Cu inima rănită greu,
+dar plină de iubiri
+Vedeam cum se ruga mereu
+plângând pentru mine.
+
+[s3]
+În timpul vieţii tinereşti
+pe mama auzeam:
+„Te rog pe tine, fiule,
+ascultă glasul meu!
+Fugi de păcat, nu face rău,
+la Domnul vino azi!”
+Şi-am auzit cum se ruga:
+„O, fiul meu pierdut!”
+
+[s4]
+Trăiam tot zile vesele
+şi viaţa-mi se scurgea
+De multe rele ce făceam
+nimica nu ştiam.
+Dar prin furtuni şi gânduri
+noi prin viaţă când treceam
+Eu glasul ei îl auzem
+cum iarăşi se ruga.
+
+[s5]
+Târziu pe Domnul L-am aflat,
+pe veşnicul Isus
+Eu faptele le-am părăsit
+şi Îl iubesc nespus.
+Iar raza Domnului Isus
+s-a revărsat duios
+Şi-n dar pe toate le-am primit
+de la Isus Hristos.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

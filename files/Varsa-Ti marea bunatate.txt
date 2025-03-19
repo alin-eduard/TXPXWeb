@@ -1,0 +1,32 @@
+[s1]
+Varsă-Ţi marea bunătate
+Peste noi, cei adunaţi,
+Spală-ne de răutate
+Fă-ne Doamne buni, curaţi.
+Doamne-ajută predicarea
+Să rodească însutit,
+Dă-ne binecuvântarea
+Ce Tu ne-ai făgăduit.
+
+[s2]
+Fii cu noi, o, scump Isuse,
+Prin al Tău Mângâietor,
+Peste inimi abătute
+Toarnă leac alinător!
+Doamne-ajută predicarea
+Să rodească însutit,
+Dă-ne binecuvântarea
+Ce Tu ne-ai făgăduit
+
+[s3]
+Păstoreşte-ne Tu Doamne
+Fă din noi un templu sfânt
+Şi ne du pe căi curate
+După veşnicu-Ţi Cuvânt
+Doamne-ajută predicarea
+Să rodească însutit,
+Dă-ne binecuvântarea
+Ce Tu ne-ai făgăduit
+
+[order]
+s1,s2,s3

@@ -1,0 +1,51 @@
+[s1]
+416.
+1.Am aflat pe Domnul
+Şi acum cânt voios
+O cântare nouă
+Domnului Hristos.
+
+[s2]
+2.O viaţă-ntreagă
+Eu l-am căutat
+Cânt de bucurie
+Că azi L-am aflat.
+
+[s3]
+3.Când m-aplec în rugă
+Mulţumesc mereu
+C-am aflat pe Domnul
+Ajutorul meu.
+
+[s4]
+4.Azi când sunt cu Domnul
+Traiul mi-e uşor
+El în orice clipă
+Îmi dă ajutor.
+
+[s5]
+5.Am aflat pe Domnul
+Şi acum cânt voios
+Cânt de bucurie
+Că-L am pe Hristos.
+
+[s6]
+6.Haideţi şi voi prieteni
+Cari nu l-aţi aflat
+Să aflaţi pe Domnul
+Cel adevărat.
+
+[s7]
+7.El şi acum la cruce
+Vă cheamă cu drag
+Să veniţi chiar astăzi
+Toţi şirag şirag.
+
+[s8]
+8.Doamne lângă Tine
+Ţine-mă legat
+Căci de Tine Isuse
+Nu mă mai despart.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

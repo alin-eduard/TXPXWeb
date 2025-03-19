@@ -1,0 +1,26 @@
+[s1]
+Tu mă cercetezi de-aproape
+Doamne Tu mă ocrotesti
+De departe Tu-mi știi gândul,
+Căile-mi cunosti.
+Unde voi putea o, Doamne
+Să ma ascund de fata Ta?
+Cand viata e-n mana Ta.
+
+[r1]
+/: Eu te laud Doamne pentru ce sunt
+Pentru marea jerfta si iubirea Ta,
+Viata ce-am primit-o din mana Ta
+O inchin ca lauda pentru slava Ta. :/
+
+[s2]
+Cand cei rai ma inconjoara
+Si cu ura ma privesc
+Pune dragostea Ta-n mine
+Ca sa pot sa ii iubesc.
+Eu nadajduiesc in Tine
+Si-n fagaduinta Ta
+Ca viata e-n mana Ta.
+
+[order]
+s1,r1,s2,r1

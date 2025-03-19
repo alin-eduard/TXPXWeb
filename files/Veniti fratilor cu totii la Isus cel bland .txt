@@ -1,0 +1,44 @@
+[s1]
+Veniţi, fraţilor, cu toţii
+La Isus cel blînd !
+/: Căci va veni ceasul morţii
+Şi-atunci veţi pleca cu toţii
+Veţi pleca-n curînd. :/
+
+[s2]
+Va veni cu slavă mare
+Cel hulit acum !
+/: Şi-naintea Lui, oricare
+Prea-nălţat, bogat şi mare
+Va fi praf din drum. :/
+
+[s3]
+Cel ce-njură şi huleşte
+Nu va mai huli !
+/: Prins de moarte fără veste
+Ah, în clipele aceste
+Cum s-ar pocăi ! :/
+
+[s4]
+Frate, mai avem o clipă !
+Azi e clipa ta !
+/: Să te-ntorci acum în pripă
+Sub a Domnului aripă
+Jos sub crucea Sa ! :/
+
+[s5]
+Însă Domnul le va spune :
+Totul e pustiu !
+/: Ceasul a-nceput să sune
+Iată, Soarele apune
+Azi e prea tîrziu ! :/
+
+[s6]
+Dar de nu asculţi de Domnul
+De Domnul Isus ?
+/: Ah, amar îţi va fi plînsul
+Căci trimis vei fi de Dînsul
+În focul nestins ! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

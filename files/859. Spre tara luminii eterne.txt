@@ -1,0 +1,34 @@
+[s1]
+859.                                                                              Mi m
+1. Spre ţara luminii eterne
+Noi azi călătorim
+Pe drum suferinţa se-aşterne
+Dar noi o biruim.
+
+[r1]
+Ref:
+Căci viaţa noastră-i plină
+De cel mai mare dar
+Isus, izvor de lumină
+Şi scump mărgăritar.
+
+[s2]
+2. Iubirea Ta astăzi ne cheamă
+Din lumea de dureri
+Pe drumul spre ţara cea dragă
+Ne dă dulci mângâieri.
+
+[s3]
+3. Frumoasă, frumoasă e ţara
+Ce Tu ne-ai pregătit
+Eternă va fi primăvara
+În cerul fericit.
+
+[s4]
+4.De aceea privirea-mi se îndreaptă
+Mai sus de zări, mai sus
+De unde cu dor azi te aşteaptă
+Să vii, să vii, Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

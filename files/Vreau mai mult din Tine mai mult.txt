@@ -1,0 +1,16 @@
+[r1]
+/: Vreau mai mult din Tine, mai mult,
+Vreau mai mult din tot ce eşti Tu
+Să fii lângă inima mea, aproape de ea,
+Mai mult, tot mai mult :/
+
+[r2]
+Tu eşti al nostru, noi suntem ai Tăi
+Cu viaţa Ta ai plătit pentru noi
+Nimeni nu ne mai poate despărţi
+Vrem să trăim tot ce ne-ai pregătit
+Să ne-apropiem de Tine tot mai mult
+/: Vreau mai mult din Tine, Isus :/
+
+[order]
+r1,r2,r1,r2

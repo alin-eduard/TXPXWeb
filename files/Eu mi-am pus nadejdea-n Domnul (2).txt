@@ -1,0 +1,38 @@
+[s1]
+Eu mi-am pus nădejdea-n Domnul
+Şi spre mine El s-a aplecat,
+M-a scos din groapa pieirii,
+Sufletul El mi-a înviorat.
+‘’M-ai izvbăvit, o, Doamne’’
+Sufletul meu vesel cântă
+Inima mea te măreşte
+Căci m-ai izbăvit
+
+[r1]
+/: Să se veselească-n Tine
+Cei ce Te caută în viaţa lor
+Răscumpăraţii Tăi să strige:
+“Mărit să fie Domnul Dumnezeu”:/
+
+[s2]
+M-ai chemat cu vocea blândă
+Şi m-ai pus pe a Ta stâncă
+Eu ţi-am mulţumit, o, Doamne
+Şi-am răspuns chemării Tale
+Te-ai îndurat de mine
+Cu mare credincioşie
+Şi prin marea-Ţi bunătate
+Tu m-ai izbăvit.
+
+[s3]
+Fericit e omul care
+În Domnul nădăjduieşte
+El ascultă de-a Lui lege
+Şi în om nu se încrede.
+Multe-Ţi sunt minunile,
+Mari Îţi sunt planurile
+În tot ce faci Tu pentru mine,
+Nimeni nu-I ca Tine.
+
+[order]
+s1,r1,s2,r1,s3,r1

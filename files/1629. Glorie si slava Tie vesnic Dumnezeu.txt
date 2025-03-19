@@ -1,0 +1,37 @@
+[s1]
+1629
+1. /: Glorie și slavă :/
+Ție veșnic Dumnezeu
+Pentru îndurarea făr′ asemănare
+Ce-o reverși spre noi mereu.
+
+[r1]
+Cor: /: Glorie și slavă :/
+Îți cântăm neîncetat
+Inimile noastre
+Cântă Aleluia
+Fii-n veci glorificat.
+
+[s2]
+2. /: Glorie și slavă :/
+Pentru jertfa sfântă
+Care ne-a răscumpărat
+Pentru curățire și eliberare
+De orice patimi și păcat.
+
+[s3]
+3. /: Glorie și slavă :/
+Pentru ocrotirea
+Ce-o simțim pe-acest pământ
+Glorie și slavă pentru
+Duhul Tău cel sfânt.
+
+[s4]
+4. /: Glorie și slavă :/
+Pentru cerul strălucit
+Pentru măreția
+Și splendoarea toată
+Ce cu drag ne-ai pregătit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

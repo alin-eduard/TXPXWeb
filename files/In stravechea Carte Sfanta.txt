@@ -1,0 +1,32 @@
+[s1]
+În străvechea Carte Sfântă
+Tot citesc şi iar citesc
+Cât de bun a fost cu mine
+Blândul Fiu Dumnezeiesc.
+
+[r1]
+Da-n străvechea Carte Sfântă
+Citesc, citesc, citesc şi iar citesc
+Cât de bun a fost Mântuitorul,
+Cât de mult El ne-a iubit!
+
+[s2]
+Cum El a iubit copiii
+Şi la Sine i-a chemat,
+Cum la pieptul Său îi strânse
+Şi cu drag i-a dezmierdat.
+
+[s3]
+Cum acelor care sufăr
+Le-a venit în ajutor.
+Pentru cei săraci şi singuri
+A fost frate iubitor.
+
+[r2]
+Cum El n-a oprit pe nimeni,
+Chiar pe cel mai păcătos,
+Să se-apropie de Dânsul
+Şi cu toţi a fost milos.
+
+[order]
+s1,r1,s2,r1,s3,r1,r2,r1,r2,r1

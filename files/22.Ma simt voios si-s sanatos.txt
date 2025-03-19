@@ -1,0 +1,35 @@
+[s1]
+22.
+1. Mă simt voios şi-s fericit
+Când mă gândesc cât m-ai iubit
+Isus Hristos ce S-a jertfit
+Şi pentru mine a murit
+/: Aleluia :/
+Isus Hristos El m-a iubit.
+
+[s2]
+2. Păcatul mă ţinea legat
+Cu lanţ de pofte ferecat
+Dar El de mine s-a-ndurat
+Şi lanţul mi l-a sfărâmat
+/: Aleluia :/
+Isus Hristos m-a eliberat
+
+[s3]
+3. Satan cu toată oastea sa
+Pândeşte acum viaţa mea
+Dar nu mă voi înspăimânta
+Căci Domnul meu, El, va lupta
+/: Aleluia :/
+Da, Domnul nu mă va lăsa.
+
+[s4]
+4. Chiar grijile de vin mereu
+Şoptindu-mi:Vezi că este greu
+Eu tot mă-ncred în Dumnezeu
+Şi astfel scap de orice rău
+/: Aleluia :/
+Isus e Salvatorul meu.
+
+[order]
+s1,s2,s3,s4

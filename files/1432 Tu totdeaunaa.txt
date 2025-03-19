@@ -1,0 +1,39 @@
+[s1]
+1432. Sol
+Tu totdeauna Doamne eşti cu mine
+Şi nici o clipă singur nu mă laşi
+Tu eşti puterea ce mă ţine Doamne
+Din cel dintâi la cel din urmă ceas.
+Tu nu mă laşi nici nu mă uiţi vreodată
+Străbat cu Tine munţii înalţi şi lungi
+Chiar şi prin moarte de voi trece odată
+Cu Tine alături vreau să fiu şi atunci
+
+[s2]
+Cu Tine-n rând străbat în zori cărarea
+Cu Tine-n rând veghez în ceas târziu
+Când Tu mă mustri eu primesc mustrarea
+Ştiind că mă iubeşti ca pe un fiu.
+Tu nu mă lepezi nici când în viaţă
+Ci luminezi mereu cărarea mea
+Mi-ai dat în suflet Doamne o speranţă
+Ca-n veşnicie să te pot vedea.
+
+[s3]
+Purtat-am o povară de păcate
+Dar sângele Tău toate le-a spălat
+Mi-ai dat o siguranţă că-s iertate
+Când Duhul Tău cel Sfânt m-a sigilat.
+Sunt fericit cu Tine pe vecie
+Aicea pe pământ şi sus în cer
+Căci Duhul Sfânt aduce bucurie
+Şi-mparte bogăţii ce-n veci nu pier
+
+[s4]
+7.   Îţi mulţumesc că eşti cu mine-n lume
+Îţi mulţumesc că mă iubeşti mereu
+Îţi mulţumesc că Tu mi-ai dat un nume
+De copilaş iubit de Dumnezeu.
+
+[order]
+s1,s2,s3,s4

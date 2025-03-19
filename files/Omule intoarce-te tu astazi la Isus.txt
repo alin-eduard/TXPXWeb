@@ -1,0 +1,38 @@
+[s1]
+Omule, întoarce-te
+tu astăzi la Isus
+Pînă încă harul de la tine
+nu s-a dus!
+Asta-i clipa cînd tu încă
+poţi să te întorci
+Încă astăzi pentru tine
+sînt deschise porţi.
+
+[r1]
+Vino, căci Domnul te iubeşte, dragă !
+Vino, din lume vrea să te atragă !
+Vino, te-ndemn amice a treia oară -
+Astăzi, poate numai astăzi tu poţi fi salvat
+
+[s2]
+Maine, nu e sigur
+că şi maine vei trăi
+Nici că fi-va timp
+o clipă spre-a te pocăi.
+Nimeni n-are siguranţa
+clipei ce va fi
+Astăzi crede în Isus,
+căci curînd vei muri !
+
+[s3]
+Nu mai este timp de planuri,
+căci deşarte sînt
+Vuietul sfarşitului
+răsună pe Pămînt.
+Domnul îi salvează
+pe aleşii Săi iubiţi
+Pe Pămînt rămîn cei răi,
+să fie nimiciţi.
+
+[order]
+s1,r1,s2,r1,s3,r1

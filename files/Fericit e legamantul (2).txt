@@ -1,0 +1,26 @@
+[s1]
+Fericit e legământul
+ce-i făcut prin Domnul sfânt.
+Fericite-s sufletele
+cari pe Isus au în gând.
+
+[r1]
+Doamne-acum căsătoria
+se face prin voia Ta,
+Doamne binecuvântează,
+/: azi unirea celor doi. :/
+
+[s2]
+Ştim că vor ajunge-n viaţă
+prin ispite şi furtuni,
+Însă Doamne îi ascultă
+când Te cheama-n rugaciuni.
+
+[s3]
+Dă-le pace şi iubire
+şi răbdare în dureri,
+Fă-i de astăzi în unire
+să-mplinească tot ce ceri.
+
+[order]
+s1,r1,s2,r1,s3,r1

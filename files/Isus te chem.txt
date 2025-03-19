@@ -1,0 +1,33 @@
+[s1]
+Isuse, Isuse eu te chem cu dor
+Să îmi vii în ajutor
+Să mă ridici,să îmi iei povara
+Să imi dai mântuirea.
+]1/7
+
+[r1]
+Isuse te rog ca să ma luminezi
+Ajută-mă în vie să lucrez
+Când calea îngustă mi se va parea grea
+Tu să îmi dai din puterea Ta
+
+[s2]
+Dar Tu îmi eşti scut şi adăpost
+La vreme de necaz
+Tu mă ridici şi-mi iei povara
+Îmi dai mântuirea.
+
+[s3]
+Isus mai bate şi-acum la uşa ta
+Tu nu Îl refuza
+Căci dacă-I deschizi El îţi ia povara
+Şi îţi dă în dar mântuirea.
+
+[s4]
+Şi dă-I astazi Lui inima ta
+Ca El să lucreze în ea
+Când calea îngustă ţi se va părea grea
+Tu să îî ceri Lui puterea Sa
+
+[order]
+s1,r1,s2,r1,s3,s4,r1

@@ -1,0 +1,18 @@
+[r1]
+Du-mă Doamne în sfânta-Ţi prezenţă
+Du-mă Doamne prin sângele sfânt
+Du-mă Doamne în sfânta-Ţi prezenţă
+/: Ia cărbunele, atinge-mi buzele,
+Iartă-mă :/
+
+[r2]
+Tu eşti sfânt, sfânt,
+sfânt şi atotputernic,
+Înaintea Ta, Doamne mă-nchin
+Tu eşti sfânt, sfânt,
+sfânt şi atotputernic
+/: Doamne, iartă-mă,
+Te rog primeşte-mă, Iartă-mă :/
+
+[order]
+r1,r2,r1,r2

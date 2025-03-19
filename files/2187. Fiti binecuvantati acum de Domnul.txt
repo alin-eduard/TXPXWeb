@@ -1,0 +1,81 @@
+[s1]
+2187
+1. Fiți binecuvântați acum
+de Domnul
+Voi frați iubiți care aici
+ați venit
+Să vă-ntâlniți cu Isus Salvatorul
+În casa Lui din nou bine
+ați venit
+
+[s2]
+Bine ați venit voi cei ce pe Golgota
+Prin jertfa Lui ați fost răscumpărați
+E Calea, Adevărul și Viața
+De El fiți azi binecuvântați.
+
+[s3]
+2. Fiți binecuvântați acum
+de Domnul
+Voi cei care din
+inimă-L chemați
+Ca să-și reverse peste voi
+iar harul
+Și mană sfântă din cer să luați
+
+[s4]
+Fiți binecuvântați acum
+de Domnul
+Voi care inima Lui i-ați predat
+Care ați crezut în jertfa de
+pe cruce
+Și cu Duh Sfânt ați fost
+voi sigilați.
+
+[s5]
+3. Fiți binecuvântați
+iubiți prieteni
+Care în casa Domnului v-aflați
+Primiți în inimă cuvântul vieții
+Și calea Domnului de
+acum urmați
+
+[s6]
+Primiți în inimă pe Mesia
+Pe Mielul sfânt ce a
+fost înjughiat
+Căci vă va da în dar azi mântuirea
+Și viața veșnică veți căpăta.
+
+[s7]
+4. Fiți binecuvântați acum
+de Domnul
+Voi frați iubiți care n-ați obosit
+Voi care luptați păzind cuvântul vieții
+Voi care voia Lui o împliniți.
+
+[s8]
+Fiți binecuvântați acum
+de Domnul
+Voi care-n rugăciune stăruiți
+Voi care vestiți cu drag cuvântul vieții
+Grăbind astfel venirea Domnului.
+
+[s9]
+5. Fiți binecuvântați acum
+de Domnul
+Voi care turma Lui o păstoriți
+Voi care stați pe turnul
+de veghere
+Și glasul Domnului îl auziți.
+
+[s10]
+Fiți binecuvântați acum
+de Domnul
+Voi care-n orice clipă va siliți
+Să rămâneți voi lângă Domnul
+Când va veni pe nori
+să-L întâlniți.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

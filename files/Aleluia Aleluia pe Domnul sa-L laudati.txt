@@ -1,0 +1,23 @@
+[s1]
+/: Aleluia, Aleluia
+Pe Domnul să-L lăudaţi ! :/
+Căci e plăcut şi e frumos
+Pe Domnul să-L lăudăm
+/: Şi se cuvine să-I cîntăm. :/
+
+[s2]
+/: Aleluia, Aleluia
+Domnului să-I cîntaţI ! :/
+Veniţi cu mulţumire
+Înaintea Domnului
+/:Voi toţi care cunoaşteţi Legea Lui.:/
+
+[s3]
+/: Aleluia, Aleluia
+Lăudaţi-L pe Dumnezeu ! :/
+Căci Domnul îi iubeşte
+Pe cei ce se tem de El
+/: A căror nădejde e Emanuel. :/
+
+[order]
+s1,s2,s3

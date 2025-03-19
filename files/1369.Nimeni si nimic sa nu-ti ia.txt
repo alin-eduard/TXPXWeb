@@ -1,0 +1,35 @@
+[s1]
+1369.    Sol
+1.Nimeni şi nimic
+Să nu iţi ia pacea din inima.
+2.Viaţa este scurtă vrăjmaşul
+Se luptă Ajută-mă.
+Cor: 	 / : Dă-ne pacea Ta : / Doamne
+/ : Dă-ne dragoste : /Isuse.
+
+[s2]
+3.  		Când lupta e mare
+La Tine avem scăpare Isuse.
+4.     	Vrăjmaşul răcneşte
+Dar nu ne răneşte sufletul.
+Cor:  	/ : Dă-ne pacea Ta : / Doamne
+/ : Dă-ne dragoste : /Isuse.
+
+[s3]
+5.  		Şi prin încercare
+Dă-ne a Ta răbdare Isuse.
+6.     	Scut ne e credinţa
+Dragostea-i biruinţa Isuse.
+Cor:  	/ : Dă-ne pacea Ta : / Doamne
+/ : Dă-ne dragoste : /Isuse.
+
+[s4]
+7. 		S-ajungem acasă
+Să fim a Ta mireasă Isuse.
+8.     	Ajută-ne cu bine
+S-ajungem Sus la Tine Isuse.
+Cor:  	/ : Dă-ne pacea Ta : / Doamne
+/ : Dă-ne dragoste : /Isuse.
+
+[order]
+s1,s2,s3,s4

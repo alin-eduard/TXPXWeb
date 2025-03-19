@@ -1,0 +1,41 @@
+[s1]
+/:Mi-am pus nădejdea-n Tine:\
+Să nu fiu dat de ruşine
+/:Mi-am pus nădejdea-n Tine:\
+Vrajmaşii mei
+să nu se bucure de mine
+
+[r1]
+În Tine e nădejdea mea
+În Tine e speranţa mea
+Doar prin Tine, izbăvire voi primi
+Cu Tine, ne-ncetat voi birui
+Domnul meu
+
+[s2]
+/:Tu-mi eşti stâncă tare:\
+Adăpost când îmi este greu
+/:Tu-mi eşti stâncă tare:\
+Tu eşti Dumnezeul meu
+
+[s3]
+Steag de biruinţă,
+eşti steag de biruinţă
+în lupta-nverşunată
+/:Eşti steag de biruinţă:\
+Cu Tine lupta-i câştigată
+
+[s4]
+/:În Tine e nădejdea mea
+În Tine e speranţa mea
+Doar prin Tine, izbăvire voi primi
+Cu Tine, ne-ncetat voi birui
+Domnul meu:/
+
+[s5]
+/:Eşti Domn al Domnilor
+Rege-al Regilor
+Împărat al Veşniciilor:/
+
+[order]
+s1,r1,s2,r1,s3,s4,s5,r1

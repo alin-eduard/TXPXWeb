@@ -1,0 +1,18 @@
+[s1]
+Înaintea Ta
+Vin să-ngenunchiez,
+Să ascult vocea Ta mereu,
+Căci Tu eşti al meu
+Dumnezeu.
+
+[s2]
+Tu eşti dorinţa mea,
+Tu îmi eşti de-ajuns,
+Căci doar prezenţa Ta o vreau
+În inima şi-n viaţa mea.
+Ajută-mă Isus s-ascult vocea Ta
+Eşti tot ce-mi doresc
+Isus eşti tot ce am nevoie
+
+[order]
+s1,s2

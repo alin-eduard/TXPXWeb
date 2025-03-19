@@ -1,0 +1,39 @@
+[s1]
+2243
+Cor: Dă binecuvântări din cerul Tău peste-acești copii
+Să crească credincioși ascultători în fiecare zi
+Cu binecuvântări din cerul Tău,
+cu binecuvântări în fiecare zi
+Revarsă astăzi Te rugăm
+peste-acești copii.
+
+[s2]
+1. Astăzi am venit ‘naintea Ta
+cu acești copii iubiți
+Te rugăm pe brațul Tău
+mereu să îi ții
+Când vor crește mari zi de zi
+să Te slujească doar pe Tin’
+De cuvântul Tău să asculte
+în orice zi.
+
+[r1]
+Cor: Dă binecuvântări din cerul Tău peste-acești copii
+Să crească credincioși ascultători în fiecare zi
+Cu binecuvântări din cerul Tău,
+cu binecuvântări în fiecare zi
+Revarsă astăzi Te rugăm
+peste-acești copii.
+
+[s3]
+Astăzi Te rugăm Isus iubit
+în viața lor mereu să fii
+Să-i conduci pe al vieții drum
+pe brațe să-i ții
+Orice clipă, zi din viața lor
+să Te urmeze orice-ar fi
+De cuvântul Tău s-asculte
+pân’ vei veni.
+
+[order]
+s1,s2,r1,s3,r1

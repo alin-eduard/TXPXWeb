@@ -1,0 +1,32 @@
+[s1]
+Prin arşiţa vremii
+Trecut-au milenii
+Şi glorii de mult apuse.
+Dar noi ştim că vine,
+Căci astăzi sau
+Mâine vei reveni, Isuse.
+
+[r1]
+/: Revino Isuse, revino din nou
+Te cheamă fecioara-nţeleaptă
+Revino al slavei ne-nfrânt erou
+O, vino, mireasa Te-aşteaptă :/
+
+[s2]
+Din goluri de stânci
+Şi din văi adânci
+Din moarte şi ruine
+Din neguri şi valuri,
+Din foc şi talazuri
+Strigăm azi către Tine.
+
+[s3]
+Mai sunt încă patimi,
+Mai sun încă lacrimi
+În lumea blestemată.
+Mai sunt încă paturi
+Şi boli fără leacuri,
+Dar s-or sfârşi odată.
+
+[order]
+s1,r1,s2,r1,s3,r1

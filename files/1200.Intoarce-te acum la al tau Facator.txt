@@ -1,0 +1,63 @@
+[s1]
+1.	Întoarce-te acum la al tău Făcător
+Acum cât e soare şi lună
+Acum căt eşti tânăr, se poate uşor
+Căci viaţa aceasta va trece în zbor
+Şi tu te vei duce la fel ca un nor
+Cu cei care trec în ţărână
+Cor:	Până când găleata la fântână
+Fără apă-n ea o să rămână
+Până când migdalul nu-nfloreşte
+Vino astăzi şi te pocăieşte.
+1200
+
+[s2]
+2.Întoarce-te acum cât mai poţi mesteca
+Şi-ţi afli-n bucate plăcerea
+Acum cât ai minte şi poţi judeca
+Căci mintea se pierde se pierde şi ea
+Iar mâinile tale vor tremura
+Vei vrea, dar n-o să ai putere
+Cor:	Până când găleata la fântână
+Fără apă-n ea o să rămână
+Până când migdalul nu-nfloreşte
+Vino astăzi şi te pocăieşte.
+
+[s3]
+3.Întoarce-te acum din multele căi
+Pe care ai căutat fericirea
+Şi lasă palatul cu a sale odăi
+Căci slava aceasta e pentru cei răi
+Dar calea ce duce prin munţi şi prin văi
+Pe ea vei afla mântuirea.
+Cor:	Până când găleata la fântână
+Fără apă-n ea o să rămână
+Până când migdalul nu-nfloreşte
+Vino astăzi şi te pocăieşte.
+
+[s4]
+4.Întoarce-te acum copile iubit
+Acum când încă ţi-e tăria
+Te ajută să umbli să fii fericit
+Căci şi pentru tine Hristos a murit
+Dar şi pentru tine există sfârşit
+Căci dincolo e vesnicia.
+Cor:	Până când găleata la fântână
+Fără apă-n ea o să rămână
+Până când migdalul nu-nfloreşte
+Vino astăzi şi te pocăieşte.
+
+[s5]
+5.Întoarce-te până când chipul de lut
+Se-ntoarce din nou în ţărână
+Iar Duhul se duce-n necunoscut
+Spre locul de osândă sau raiul plăcut
+Depinde în cine şi ce ai crezut
+Cu acela el o să rămână
+Cor:	Până când găleata la fântână
+Fără apă-n ea o să rămână
+Până când migdalul nu-nfloreşte
+Vino astăzi şi te pocăieşte.
+
+[order]
+s1,s2,s3,s4,s5

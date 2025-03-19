@@ -1,0 +1,26 @@
+[s1]
+O Doamne Mare care esti in ceruri
+Venim si noi cu toti sa-Ti multumim
+Ca ne-ai tinut mereu pe a Ta cale
+Cand incercarile-au lovit.
+
+[r1]
+Vom canta vom inalta
+Toata viata pe Dumnezeu
+Lauda nu va-nceta
+Aleluia aleluia
+
+[s2]
+Cu multumire si recunostinta
+In viata-aceasta noi Te vom urma
+Nu este-n lume nimenea ca Tine
+Un Prieten Sfant si Minunat.
+
+[s3]
+Ne-ai mantuit noi te slavim o Doamne
+Si iti cantam numele in sion
+Sa stie toti de mare TA lucrare
+Ca Tu esti D-l domnilor.
+
+[order]
+s1,r1,s2,r1,s3,r1

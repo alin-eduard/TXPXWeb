@@ -1,0 +1,35 @@
+[s1]
+66.
+1. Lăudaţi pe Domnul
+Robi ai Domnului
+Lăudaţi-L slavă, slavă Domnului
+Fie numele Lui binecuvântat
+De acum şi până-n veacuri lăudat.
+
+[s2]
+2. De la răsărit şi până la apus
+Domnul peste neamuri fie mai pe sus
+Domnul peste neamuri fie înălţat
+Mai pe sus de ceruri fie lăudat.
+
+[s3]
+3. Cine e ca Domnul Dumnezeul nostru
+Care locuieşte sus la adăpost
+El îşi pleacă ochii din cer pe pământ
+Ca să vadă viaţa Celui ce e sfânt.
+
+[s4]
+4. Pe săraci ridică chiar şi din gunoi
+Cel lipsit se-nalţă chiar şi din noroi
+Domnul vrea să vadă
+Aceasta cu cei mari
+Cu conducători care sunt mai tari.
+
+[s5]
+5. El dă casă celei sterpe de copii
+Din ea face mamă şi îi dă copii
+Din mijlocul celor ce îi sunt copii
+Lăudaţi pe Domnul plin de bucurii.
+
+[order]
+s1,s2,s3,s4,s5

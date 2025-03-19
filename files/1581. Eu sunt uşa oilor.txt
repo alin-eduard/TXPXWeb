@@ -1,0 +1,37 @@
+[s1]
+1.Eu sunt uşa oilor
+Eu sunt blândul tău Păstor
+/: Eu te duc la apă vie                  Care curge-n veşnicie
+În cerească-mpărăţie :/
+1581.
+
+[s2]
+2.Eu sunt pâinea tuturor
+Coaptă-n Golgota-n cuptor
+/: Pâinea ce se înmulţeşte
+Şi-n inimi curate creşte
+Şi prin Duh Sfânt rodeşte :/
+
+[s3]
+3.Eu sunt jertfa pe altar
+Sunt izvorul sfânt de har
+Râu de viaţă dătător
+Şi balsam vindecător
+Eu sunt Rege al Regilor :/
+
+[s4]
+4.Eu sunt Cel de la-nceput
+Cel din Dumnezeu născut
+/: Cine se încrede-n Mine
+Şi se leapădă de sine
+Nu va fi dat de ruşine :/
+
+[s5]
+5.Numele meu e Isus
+Peste toate-s mai pe sus
+/: Eu sunt  jertfa de iubire
+Mielul cel de ispăşire
+Sunt a lumii mântuire :/
+
+[order]
+s1,s2,s3,s4,s5

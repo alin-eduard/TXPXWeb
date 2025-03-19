@@ -1,0 +1,21 @@
+[s1]
+Fraţi şi surori, acum ne despărţim,
+Cu voia Domnului la drum pornim.
+Să rămânem uniţi prin
+Duhul Său cel Sfânt,
+În iubire trăind al Său Cuvânt.
+
+[s2]
+Să vă-nsoţească El cu harul Său;
+În pace să umblaţi cu Dumnezeu.
+Strălucească în veci gloria cerului;
+Fiţi conduşi de Isus în ţara Lui!
+
+[s3]
+Clipa aceasta e plină de har;
+Domnul prin grija Sa ne-o dă în dar.
+Inima, sufletul, prin Duhul Său cel Sfânt
+Să ne lege mereu pe-acest pământ!
+
+[order]
+s1,s2,s3

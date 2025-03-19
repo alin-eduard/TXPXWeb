@@ -1,0 +1,26 @@
+[s1]
+Spune suflete: eşti gata
+Pe Isus ca să­L primeşti?
+El ca să­I deschizi aşteaptă;
+Cât mai vrei să zăboveşti?
+
+[r1]
+Spune, dar, iubite suflet,
+Vrei să vii azi la Isus?
+Lasă-ţi inima deschisă,
+De­al Său har să fii pătruns!
+
+[s2]
+Prietene, te rog, dă­ţi seama,
+Grabnic trece viaţa ta.
+Dacă sufletu­ţi vei pierde,
+Spune, ce vei aştepta?
+
+[s3]
+O, primeşte­L dar pe Domnul;
+Pace sfântă vei avea.
+Cel ce Însuşi este Viaţa,
+Viaţă veşnică­Ţi va da.
+
+[order]
+s1,r1,s2,r1,s3,r1

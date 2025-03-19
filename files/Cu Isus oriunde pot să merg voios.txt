@@ -1,0 +1,32 @@
+[s1]
+Cu Isus oriunde
+pot să merg voios;
+Unde e prezent Isus,
+eu nu sunt fricos.
+Numai lângă Domnul meu
+eu sunt liniştit,
+Doar Isus mă poate face fericit.
+
+[r1]
+Domnul e cu mine,
+Domnul meu, Domnul meu
+Am în suflet pace şi Îi cânt mereu.
+
+[s2]
+Cu Isus oriunde eu sărac nu sunt;
+Dacă toţi mă părăsesc,
+Domnul meu, nicicând!
+Dacă-ar fi şi în pustiu
+singur să trăiesc,
+El şi-acolo este şi Îl preamăresc.
+
+[s3]
+Cu Isus oriunde sunt adăpostit;
+Fie noaptea cât de grea,
+eu dorm liniştit.
+Simt puterea lui Isus în viaţa mea,
+Niciodată crucea
+nu-mi va fi prea grea.
+
+[order]
+s1,r1,s2,r1,s3,r1

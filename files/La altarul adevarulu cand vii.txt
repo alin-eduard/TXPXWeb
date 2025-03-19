@@ -1,0 +1,28 @@
+[s1]
+La altarul adevarului, cand vii,
+o lasa-ti darul tau 'nainte
+/: Si alearga sa-mplinesti, intai si intai, O cele a-iubirii sfinte :/
+
+[s2]
+La altarul rugaciunii, cand pasesti,
+o darul lasa-ti-l afara
+/: Si te-ntoarce, cu grabire,
+sa-mplinesti
+Legea dragostei-comoara... :/
+
+[s3]
+La altarul Evangheliei, cand mergi, o S-aduci jertfa prin lucrare,
+/: Lasa-ti darul si, grabit, intai s-alergi o La iubire si-mpacare :/
+
+[s4]
+Si la orice-altare, cand vii sa-ti aduci o Jertfele de multumire,
+/: Cerceteaza-te si-n viata-ntai s-apuci o Caile dinspre iubire... :/
+
+[s5]
+Caci nu-i jertfa mai sfanta pe-acest pamant, o Nici altar, nici darnicie
+/: Ca iubirea cea de sus
+din Duhul Sfant,
+Flacara de-a pururi vie... :/
+
+[order]
+s1,s2,s3,s4,s5

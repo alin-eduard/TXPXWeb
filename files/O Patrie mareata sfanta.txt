@@ -1,0 +1,38 @@
+[s1]
+1. O patrie măreaţă, sfântă,
+În inima-am un dor nespus,
+Mi-e dor de ziua cea măreaţă,
+De întâlnirea cu Isus!
+Doresc să cânt cântarea nouă
+Ce nu s-a mai cântat vreodată,
+Atuncea când va fi serbarea
+A Fiului de Împărat!
+
+[r1]
+R: /: Să ne pregătim şi să ne silim
+Ca să-ntâmpinăm pe Mirele!
+Pentru-aceea zi gata să fim!
+Pe Isus Hristos să-L întâlnim ! :/
+
+[s2]
+2. Aștept aceea zi sublimă
+Când tot văzduhul va fi plin
+De strigăte de bucurie,
+De un extaz şi Har divin!
+O Ţară binecuvântată,
+Te-așteaptă cei de pe pământ,
+Ce prin necazuri şi prigoane
+Rămas-au în Cuvântul Sfânt!
+
+[s3]
+3. De zeci de veacuri ești promisă
+Celor ce răul biruiesc
+Şi știu că ziua nu-i departe
+Când vom lăsa ce-i pământesc.
+Caci Duhul Sfânt, Puterea dată,
+Ne va atrage tot mai sus
+Şi vom petrece veșnicia
+În slavă cu Domnul Isus!
+
+[order]
+s1,r1,s2,r1,s3,r1

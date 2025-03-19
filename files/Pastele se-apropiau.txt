@@ -1,0 +1,36 @@
+[s1]
+Paştele s-apropiau, veniseră cinci mii
+De unde să de-a celor nevoiaşi?
+Isus luat-a pâinile,
+mulţumit-a Tatălui
+Şi flămânzilor le-a-mpărtăşit.
+
+[r1]
+Pâine a vieţii pogorâtă din cer,
+Dă-ni-Te pe Tine nouă astăzi.
+Pâine cerească, de la Tatăl ai venit,
+Dă-ni-Te pe Tine, Isuse, pururea.
+
+[s2]
+“Din cer de sus m-am pogorât
+voia Tatălui s-o fac,
+Şi cine-n Mine crede va trăi.
+Cine vine la Mine şi la Tatăl a venit,
+Afar’ pe-acela nu-l voi izgoni.”
+
+[s3]
+“Pâinea ce dă viaţa veşnică sunt Eu;
+Trupul meu şi sângele-Mi luaţi.
+Pentru viaţa lumii altă hrană nu e,
+Veniţi la Mine şi vă săturaţi.”
+
+[s4]
+Doamne, fă-ne credincioşi,
+cu Tine să umblăm;
+La altul să nu ne ducem nicidecum.
+Cuvintele ce ni le dai
+sunt viaţă şi duh,
+Că al lui Dumnezeu Hristos eşti Tu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

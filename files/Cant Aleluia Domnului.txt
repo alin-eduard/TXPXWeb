@@ -1,0 +1,22 @@
+[s1]
+/: Cânt Aleluia Domnului
+Cânt Aleluia, cânt Aleluia
+Cânt Aleluia Domnului :/
+
+[s2]
+/: Cânt dragostea lui Dumnezeu
+Cânt Aleluia, cânt Aleluia
+Cânt dragostea Domnului :/
+
+[s3]
+/: Cânt bunătatea Domnului
+Cânt Aleluia, cânt Aleluia
+Cânt bunătatea Domnului :/
+
+[s4]
+/: Cânt îndurarea Domnului
+Cânt Aleluia, cânt Aleluia
+Cânt îndurarea Domnului :/
+
+[order]
+s1,s2,s3,s4

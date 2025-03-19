@@ -1,0 +1,32 @@
+[s1]
+2213
+1. Nu mă satur să privesc
+Florile câte înfloresc
+Nu mă satur /: până mor :/ (3x)
+Să mă mir de taina lor
+Nu mă satur să mângâi floarea
+/: dragostei dintâi :/
+Lăcrămioarele sclipind
+Nuferii pe-oglinzi de argint.
+
+[s2]
+2. Nu mă satur când răsar
+Îngeri albi cu-aripi de har
+Nevăzuți și /: ne-nțeleși :/ (3x)  Peste ramuri de cireși
+Nu mă satur între crini
+/: Între cupe de lumini :/
+Răsărite prin cuvânt
+Dintr-un bulgăr de pământ.
+
+[s3]
+3.	Nu mă satur să privesc
+Florile câte înfloresc
+Să privesc și /: să sărut :/
+Mâna care le-a făcut
+/: Mâna care le-a lăsat
+/: Peste o lume de păcat :/
+Peste o lume de noroi
+Pentru tine, pentru noi :/.
+
+[order]
+s1,s2,s3

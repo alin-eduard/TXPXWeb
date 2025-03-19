@@ -1,0 +1,32 @@
+[s1]
+Azi prietene te-ntreb: cunoşti tu pe Isus,
+L-ai primit ca Domn în viaţa ta?
+Sângele Lui sfânt, curat te poate salva
+Haide vin’ la El, o nu mai sta!
+/:Căci toate, toate, toate-s trecătoare,
+Toate pier, se duc ca şi un vis
+În viaţă ce-ai lucrat, la ce ai meditat
+Te va conduce-n iad sau Paradis.:/
+
+[s2]
+Nu uita şi pentru tine, Isus s-a jertfit
+Vino să te-mpaci cu Dumnezeu!
+Lasă lumea cu-a ei pofte care te-au robit
+Vino azi şi intră-n harul Său.
+/:Căci toate, toate, toate-s trecătoare,
+Toate pier, se duc ca şi un vis
+În viaţă ce-ai lucrat, la ce ai meditat
+Te va conduce-n iad sau Paradis.:/
+
+[s3]
+Pleacă-ţi azi, genunchii-n faţa marelui Stăpân
+Ce lumea a biruit pe Golgota,
+Nu cu arme sau război ci cu iubirea Sa
+Şi spune-I: “Eu de azi Te voi urma.”
+/:Căci toate, toate, toate-s trecătoare,
+Toate pier, se duc ca şi un vis
+În viaţă ce-ai lucrat, la ce ai meditat
+Te va conduce-n iad sau Paradis.:/
+
+[order]
+s1,s2,s3

@@ -1,0 +1,53 @@
+[s1]
+1354.
+1.  Cu  dureri şi cu suspine
+Azi poporul Tău
+Îşi mănâncă astăzi pâinea
+Şi  geme cu greu.
+Cor: Vino Doamne la mireasa Ta
+Ca să-mi ştergi din ochi lacrima
+Căci cu lacrimi pâinea ne-o mâncăm
+Şi  pe Tine Doamne Te-aşteptăm.
+
+[s2]
+2.  Astăzi Duhul Sfânt ne spune
+Să fim pregătiţi
+Căci curând apare ziua
+Ca să fim răpiţi.
+Cor: Vino Doamne la mireasa Ta
+Ca să-mi ştergi din ochi lacrima
+Căci cu lacrimi pâinea ne-o mâncăm
+Şi  pe Tine Doamne Te-aşteptăm.
+
+[s3]
+3.  La altarul jertfei sfinte
+Azi puţini jertfesc
+Cei mai mulţi dintre ai noştri
+Nu se mai iubesc.
+Cor: Vino Doamne la mireasa Ta
+Ca să-mi ştergi din ochi lacrima
+Căci cu lacrimi pâinea ne-o mâncăm
+Şi  pe Tine Doamne Te-aşteptăm.
+
+[s4]
+4.  Pomii care aduc roadă
+Sunt loviţi mereu
+Ca să-i pregătească Domnul
+Să treacă prin greu.
+Cor: Vino Doamne la mireasa Ta
+Ca să-mi ştergi din ochi lacrima
+Căci cu lacrimi pâinea ne-o mâncăm
+Şi  pe Tine Doamne Te-aşteptăm.
+
+[s5]
+5.  Anul îndurării sfinte
+Este pe sfârşit
+Cine azi se pocăieşte
+Va fi mântuit.
+Cor: Vino Doamne la mireasa Ta
+Ca să-mi ştergi din ochi lacrima
+Căci cu lacrimi pâinea ne-o mâncăm
+Şi  pe Tine Doamne Te-aşteptăm.
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,26 @@
+[s1]
+Domnul priveşte din ceruri
+Cu multă iubire spre noi,
+Când imnuri de slavă-I aducem,
+Din inimi curate şuvoi.
+
+[r1]
+Marim gloriosul Său Nume
+Ce-n veci adăpost ne va fi.
+Întreg Universul răsune
+De-a-noastre sfinte melodii...
+
+[s2]
+Nimic, nu ne poate învinge,
+Nimic nu-i mai tare ca El,
+Căci haina-nmuiata în sânge,
+Ne este un falnic drapel!
+
+[s3]
+Puternic în lupte şi-n fapte
+Eşti Isus, al nostru Păstor;
+La apele vieţii condu-ne
+Şi fii, pentru noi, Salvator!
+
+[order]
+s1,r1,s2,r1,s3,r1

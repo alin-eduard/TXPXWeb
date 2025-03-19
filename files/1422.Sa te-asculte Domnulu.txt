@@ -1,0 +1,42 @@
+[s1]
+1422. Mi b
+Să te-asculte Domnul în ziua de necaz                   Când îţi curg amare lacrimi pe obraz
+/: Când eşti pus la încercare
+Când durerea ta e mare
+Să-ţi dea Domnul alinare
+Când eşti prins la strâmtorare
+Şi nu vezi nici o scăpare
+Să-ţi dea Domnul rezolvare:/
+
+[s2]
+Să te ocrotească numele Lui sfânt
+Când eşti ostenit şi sufletul ţi-e frânt
+/:Să-ţi aline-n taină dorul
+Să-ţi trimită ajutorul
+Din cer Domnul Salvatorul
+Să-ţi trimită a Lui oştire
+Domnul în marea Sa iubire
+Să-ţi aducă izbăvire:/
+
+[s3]
+Să-şi aducă aminte de fiinţa Ta
+Să-şi arate slava astăzi dreapta Sa
+/:Să-mplinească a ta dorinţă
+Să-ţi dea steag de biruinţă
+Să-ntărească a ta credinţă
+Să-ţi aducă mângâiere
+Să te umple de putere
+Să-ţi aline a ta durere:/
+
+[s4]
+Să te asculte frate Marele Împărat
+Când de suferinţă eşti greu apăsat
+/:Când tristeţea te răpune
+C-ai rămas singur pe lume
+Şi n-ai dorul cui îl spune
+Când viaţa ţi-e amară
+Şi necazul te doboară
+El să ia a ta povară:/
+
+[order]
+s1,s2,s3,s4

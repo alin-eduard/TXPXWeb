@@ -1,0 +1,27 @@
+[s1]
+Nu pot apa s-o trec fără Tine
+Nu pot munţii să-i urc numai eu.
+Şi la greu dac-o fi şi la bine
+Fii alături de mine mereu
+Zi după zi, ceas după ceas
+Tot pas cu pas.
+
+[r1]
+/: Hai, hai cu mine, hai
+Căci cu Tine oricum
+nu mi-e frică de drum!
+Hai, hai cu mine, hai
+S-alungăm oricînd vrei
+toţi norii grei! :/
+
+[s2]
+Viaţa n-are doar clipe senine
+Vom da uneori de drum greu.
+Da-i uşor dacă mergi lîngă mine
+Şi-ai să mergi fiindcă eşti
+Domnul meu
+Zi după zi, ceas după ceas
+Tot pas cu pas.
+
+[order]
+s1,r1,s2,r1

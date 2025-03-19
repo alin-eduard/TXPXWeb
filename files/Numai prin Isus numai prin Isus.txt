@@ -1,0 +1,30 @@
+[s1]
+Numai prin Isus, numai prin Isus
+Neînvins, prin viaţa
+Treci El te va Spăla
+Şi te va-mbrăca cu a dreptăţii
+Haină-n veci
+
+[r1]
+/: O, de-ai vrea să vii
+La Isus cât este zi :/
+Noaptea-şi va lăsa
+Bezna ei cea grea
+Şi să-ntorci, târziu, va fi.
+
+[s2]
+Tu, ce-ai căutat
+Şi-ncă n-ai aflat
+Pace-n suflet trudit,
+Scoală-te degrab’,
+Treci-al Vieţii prag
+Lasă drumul rătăcit !
+
+[s3]
+Siguranţă ai, in cerescul Rai
+Dar nu vrei să te-apleci
+Eu ţi-am spus să vii căci,
+În veşnicii, fi-vei fericit în veci.
+
+[order]
+s1,r1,s2,r1,s3,r1

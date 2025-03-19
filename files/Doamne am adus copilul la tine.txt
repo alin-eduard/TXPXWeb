@@ -1,0 +1,18 @@
+[s1]
+Doamne am adus copilul la Tine
+După cum Tu ai ordonat
+Lăsaţi copiii să vină la Mine
+Şi pe ei I-ai binecuvântat
+Doamne-acum Te-ndură
+Copilul îl binecuvântă!
+
+[s2]
+Tu mâinile pe copilaşii mici ai pus
+Când la Tin’ pe ei I-ai cerut
+Pune mâna Ta Domnul nostru Isus
+Acum şi pe acest nou-născut
+Doamne-acum te-ndură
+Copilul îl binecuvântă!
+
+[order]
+s1,s2

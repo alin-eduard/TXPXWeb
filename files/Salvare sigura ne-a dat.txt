@@ -1,0 +1,20 @@
+[s1]
+Salvare sigură ne-a dat
+Prin jertfa Sa, Hristos,
+Să crezi doar şi vei fi scăpat
+Sărmane păcătos!
+
+[s2]
+Cuvântul spune lămurit,
+Garant e Dumnezeu
+Isus Hristos ne-a mântuit,
+Prin scump sângele Său!
+
+[s3]
+El a murit şi a-nviat
+Ca siguri noi să fim
+Şi Duhul Său cel Sfânt ne-a dat
+Ca să ne mântuim!
+
+[order]
+s1,s2,s3

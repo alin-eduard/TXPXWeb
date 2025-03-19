@@ -1,0 +1,19 @@
+[s1]
+1433.Mi m
+1.    Nu la întâmplare sunt
+Domnul m-a creat
+Cor    /:Eu sunt cu voi în orice zi:/
+Mi-a spus Isus
+Nici puterea lumii întregi
+Nu-mi dă acest sprijin
+
+[s2]
+De aceea sunt voios
+Ca să ştie toţi
+Cor    /:Eu sunt cu voi în orice zi:/
+Mi-a spus Isus
+Singur trist şi părăsit
+Nu voi fi nicicând
+
+[order]
+s1,s2

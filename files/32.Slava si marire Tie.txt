@@ -1,0 +1,35 @@
+[s1]
+32.
+1. Slavă şi mărire Ţie
+Isuse prea bun Păstor
+Tu ne duci cu bucurie
+La al vieţii scump izvor.
+
+[s2]
+2. Spini purtat-ai
+pe a Ta frunte
+Umilit şi chinuit
+Dar prin jertfa Ta Isuse
+Tu pe toţi ne-ai mântuit.
+
+[s3]
+3. Partea Ta a fost durerea
+Plânsul, moartea,
+chinul greu
+Iar a noastră-i mângâierea
+Impăcaţi cu Dumnezeu.
+
+[s4]
+4. Fii slăvit Isuse dulce
+Bunul, blândul meu Păstor
+Căci iubirea Ta ne duce
+La păşuni şi la izvor
+
+[s5]
+5. Ne dai har şi bucurie
+Câtă nici n-am fi gândit
+Slavă şi mărire Ţie
+Bunule Păstor iubit.
+
+[order]
+s1,s2,s3,s4,s5

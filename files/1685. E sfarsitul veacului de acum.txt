@@ -1,0 +1,31 @@
+[s1]
+1685. Si m
+1. E sfârşitul veacului de-acum
+Pământul este încă în mişcare
+Domnul ne mai cheamă
+Căci e bun,
+Şi sufletul e plin de îndurare.
+
+[r1]
+Cor:	Veniţi pământeni,
+Veniţi la mine azi
+Veniţi degrabă până ce e soare
+Căci noapte şi zi
+Aştept cu nerăbdare
+Un păcătos să pot
+Să-i dau iertare.
+
+[s2]
+2. Nu ştim ceasul când El va veni
+Să-i ia pe cei aleşi în cerul sfânt,
+Înspre ceruri vom călători
+Aici vom lăsa totul pe pământ.
+
+[s3]
+3. Deci grăbiţi-vă veniţi acum,
+Căci porţile sunt încă larg dechise
+Trebuie s-alegem sfântul drum
+Pentru bucuriile promise.
+
+[order]
+s1,r1,s2,r1,s3,r1

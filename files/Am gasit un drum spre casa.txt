@@ -1,0 +1,39 @@
+[s1]
+Fa major
+Am găsit un drum spre casă,
+Care duce-n Paradis.
+Mulţi au vrut, prin vremi, s-ajungă,
+Dar genunea l-a închis.
+Însă cale-a fost deschisă
+De Isus, prin jertfa Sa.
+Puntea harului a-ntins-o:
+Prin credinţă poţi intra!
+
+[r1]
+/: Vino astăzi, chiar acuma!
+Când sfârşeşti, primeşti cununa!
+/: O, de ce nu vrei să vii,
+Fericit în veci să fii? :/
+
+[s2]
+Timpul e să vii acuma,
+Asfinţitul e pe drum!
+Noaptea, în curand, veni-va;
+Unde ai să mergi şi cum?
+Timpul tău, lăsat salvării,
+Se va termina-n curând!
+Vei pleca pe drumul care
+Ţi-ai croit, de pe pamant....
+
+[s3]
+Munţi de dor mi-apar în cale,
+Dar îi urc mereu zorit.
+Căi ce-au fost topite-n zare
+Astăzi le păşesc grăbit.
+Dar prin renunţări de sine,
+Doar hrănit de roade-n Duh,
+Mai uşor urc pe coline,
+Mai uşor voi fi-n văzduh!
+
+[order]
+s1,r1,s2,r1,s3,r1

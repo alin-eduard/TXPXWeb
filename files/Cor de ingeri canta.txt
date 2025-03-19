@@ -1,0 +1,38 @@
+[s1]
+Cor de îngeri cântă,
+Lumii azi vestesc:
+„Domnul mântuieşte
+Neamul omenesc!“
+Ziua se iveşte,
+Noaptea­a dispărut,
+Căci umil pe lume
+Pruncul S­a născut.
+
+[r1]
+Cor de îngeri cântă:
+„Slavă Celui sfânt,
+Bună învoire,
+pace pe pământ!“
+
+[s2]
+Cor de îngeri cântă,
+Azi se împlinesc
+Ce în Cartea Sfântă
+Scrise se găsesc;
+A venit pe lume
+Fiul Celui sfânt
+Ca să împlinească
+Sfântul Său Cuvânt.
+
+[s3]
+Cor de îngeri cântă:
+Domnul ne­a iubit;
+Astfel pentru oameni
+Fiul Şi­a jertfit
+Ca să mântuiască
+Lumea de păcat
+Şi să fericească
+Pe cel întristat.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,26 @@
+[s1]
+Când privesti în boboci trandafirul
+Si vezi flori ce te-ncântă mereu
+Când aduce miros de crin vântul
+Lângă tine-I să stii Dumnezeu.
+
+[r1]
+Atunci cântă, cântă, cântă
+Zâmbeste, zâmbeste mereu
+Atunci cântă, cântă, cântă
+Se bucura de tine Dumnezeu.
+
+[s2]
+Când pe cer luna plină sclipeste
+Si când stelele în hora se prind
+Dumnezeu iar in taina-ti vorbeste
+Planul Sau poti sa-l vezi stralucind.
+
+[s3]
+Cand auzi seara-n vale izvorul
+Si cand gâzele freamata vii
+Te cuprinde cu patimă dorul
+Dupa El Dumnezeul cel viu.
+
+[order]
+s1,r1,s2,r1,s3,r1

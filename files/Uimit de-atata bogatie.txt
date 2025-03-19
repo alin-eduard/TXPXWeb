@@ -1,0 +1,48 @@
+[s1]
+Uimit de-atâta bogăţie
+Ce am găsit-o Doamne-n Tin’
+Mă-ntreb ce-aş fi fără de Tine
+În viaţă acesta de suspin
+Credinţa, Pacea, Dragostea
+Ce le-am primit din mâna Ta
+Pentru nimic nu le-aş schimba
+Isus eşti fericirea mea.
+
+[r1]
+/: La Calvar păcatul mi-e şters
+La Calvar eu Har primesc
+La Calvar, mântuire am în dar
+Îţi mulţumesc Isus pentru Calvar :/
+
+[s2]
+Cine sunt eu să pot intra
+Doamne-n împărăţia Ta
+Nu merit şi nu voi putea
+Să-Ţi răsplătesc Iubirea Ta
+Dar pot să spun la toţi Isus
+De harul Dragostei nespus
+Ce se găseşte-n jerfa Ta
+Veniţi şi voi la Golgota.
+
+[s3]
+De n-ar fi Golgota
+N-am ştii ce-I dragostea
+N-am ştii ce-s bucurii
+Nici zâmbet de copii
+Eram pierduţi pe veci
+Legaţi în lanţuri reci
+În moarte şi păcat
+Dar Isus, ne-a salvat.
+
+[s4]
+De n-ar fi Golgota
+N-am sti ce-I dragostea
+N-am sti ce-s bucurii
+Si zambet de copii
+Eram pierduti pe veci
+Legati in lanturi reci
+In moarte si pacat
+Dar Isus ne-a salvat
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

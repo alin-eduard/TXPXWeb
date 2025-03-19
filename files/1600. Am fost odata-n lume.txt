@@ -1,0 +1,41 @@
+[s1]
+1600.
+Am fost odată-n lume
+Ca fiul rătăcit
+Dar m-ai chemat pe nume
+M-ai scos din astă lume
+Şi mult m-ai curăţit
+
+[s2]
+2. Eram în greu păcat
+Şi-n Tine nu credeam
+De multe vinovat
+De rele apăsat
+Când nu Te cunoşteam
+
+[s3]
+3. La moarte osândit
+Eram atunci Eu
+Dar Tu m-ai mântuit
+Şi har mi-ai dăruit
+Tu Salvatorul meu
+
+[s4]
+4. O cât mă simt de bine
+Că am un Salvator
+Ce m-a salvat pe mine
+Şi poate şi pe tine
+Ce-ai stat nepăsător /
+
+[s5]
+5. Am fost şi eu în lume
+Odată rătăcit
+Dar m-ai chemat pe nume
+Isus m-a scos din lume
+Acum sunt fericit
+Căci El m-a scos din lume
+Şi m-a ales anume
+Ca să fiu mântuit
+
+[order]
+s1,s2,s3,s4,s5

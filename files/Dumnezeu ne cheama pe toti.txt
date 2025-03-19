@@ -1,0 +1,33 @@
+[s1]
+Dumnezeu ne cheamă pe toţi,
+“Veniţi la Mine” zice El
+/: Viaţă veţi primi pe vecie,
+Oricine-nsetează să vie! :/
+Re M
+
+[r1]
+/: El cheama, El bate, El bate,
+La portile-ncuiate,
+El spune, El spune:
+“Astazi veniti, nu mâine!” :/
+
+[s2]
+Mai cheamă şi-astăzi prin Duhul Sfânt,
+Întreg pământul tresare,
+/: Toţi acei ce asultă strigarea,
+Să nu respingă chemarea! :/
+
+[s3]
+În curând se va sfârşi
+Tot ce este sub soare
+/: Cuvintele sfinte în veci vor rămâne
+Mărturie pe mâine. :/
+
+[s4]
+Fii înţelept, nu neglija
+Rostul zilelor tale
+/: Şansa vieţii ţi-e dată acum,
+Hai pune piciorul pe drum. :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

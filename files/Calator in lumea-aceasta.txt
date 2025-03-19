@@ -1,0 +1,30 @@
+[s1]
+/: In lumea-aceasta eu sunt calator
+Pornesc inspre tara de sus
+Acolo e tinta unde vreau s-ajung
+In cer unde e Isus:/
+
+[r1]
+Sunt trecator pe-acest pamant
+Sunt calator spre locul preasfant
+/: Cand voi sfarsi alergarea
+Pe Isus voi vedea
+Cu bratele deschise ma va astepta
+Voi vedea pe Domnul ce m-a iubit
+Si-mi va spune duios:
+“Bine-ai venit” :/
+
+[s2]
+/: In lumea-aceasta eu sunt un strain
+Nimic nu ma leaga de ea
+Nu vreau sa-adun comori pe pamant
+Caci in cer e tara mea :/
+
+[s3]
+/: In lumea-aceasta cat voi trai
+Vreau sa-l urmez pe Isus
+Pe urmele Lui vreau sa pasesc
+Pana voi ajunge sus :/
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,22 @@
+[s1]
+E noapte ca un vis
+Tot cerul sta deschis
+Stelele coboara ca din vazduh
+Fulgi de nea au aparut
+
+[r1]
+Visele se plimb tarziu in noapte
+Ingerii vorbesc prin mii de soapte
+E-un dar, spuneau
+Ceru-ntreg zambeste de departe
+Fiindca pe pamant Isus se naste
+E-un dar, prin har
+
+[s2]
+Pe cer lumini ceresti
+Se-aprind s-aduca vesti
+Cum ca o speranta a rasarit
+O minune s-a implinit
+
+[order]
+s1,r1,s2,r1

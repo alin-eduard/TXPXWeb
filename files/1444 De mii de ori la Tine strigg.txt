@@ -1,0 +1,33 @@
+[s1]
+1444.
+De mii de ori la Tine strig
+Cu lacrimi în ochii mei
+Isuse dă-mi Tu mângâiere
+În necaz şi a mea durere
+/:Căci durerile din lume
+Vin grămadă peste mine
+Şi durerile şivoi
+Toate dau în fiii tăi:/
+
+[s2]
+Nu e nimeni să mă scape
+Nu e nimeni să m-ajute
+Singură e mâna Ta
+Care ne poate salva
+/:Deci adu-ţi Doamne aminte
+De cuvântul dinainte
+De cuvântul dedemult
+Spus prin gură de psalmist:/
+
+[s3]
+Unde şi-n Scriptura Ta
+În psalmul cinzecilea
+Cu versetul cincisprezece
+Psalmistul ne glăsuieşte
+/:Chiamă-mă când ai necaz
+Şi Eu îţi voi arăta
+Din cer izbăvirea mea
+Alinându-ţi durerea:/
+
+[order]
+s1,s2,s3

@@ -1,0 +1,32 @@
+[s1]
+Când lumea se zbate în neagra vâltoare,
+Când pacea cerească o cer ne'ncetat,
+Războiul şi crima sunt teama cea mare
+Imensă urgie de neevitat.
+
+[r1]
+Ajută-mi, Isuse, Te rog, să fiu gata!
+Ajută-mi, Isuse, Te rog, ne'ncetat
+Să merg în lumină, pe calea cea dreaptă,
+Iar gândul, spre Tine, să-L am ne-ntinat.
+
+[s2]
+O,lume de piatră,te rog,înţelege
+Că pace deplină se cere de sus;
+Că nu-i nici o taină să nu se dezlege
+Indreaptă-ţi dorinţa spre Domnul Isus!
+
+[s3]
+Acum, omenire, acum e momentul
+Când harul spre ceruri e încă deschis!
+Isus vă aşteaptă şi azi vă dă dreptul
+La pace deplină în nou Paradis.
+
+[s4]
+Deci, vino la Isus! Primeşte-I chemarea!
+Nu-I refuza glasul ce strigă de mult!
+Răsună, spre inimi, din ceruri strigarea:
+„Nu amâna clipa, ci vino acum!"
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,41 @@
+[s1]
+Sunt călator în această lume
+Şi-am un ţel arzător
+Să ajung în cer, acasă
+La al meu, Mântuitor
+Vreau să-I mulţumesc de-apururi
+Vreau să-I cant neâncetat
+Ca mi-a dat o viaţa nouă
+Chiar de nu am meritat.
+
+[r1]
+Doamne vino mai curând
+Să ne iei de pe pământ
+Te chemăm, a Ta mireasă
+Să vii să ne duci acasă
+Ţara noatră nu-I aici
+E acolo în Paradis
+La locul pe care Tu l-ai pregătit.
+
+[s2]
+Pe cărarea către ceruri
+Adesesa am întâmpinat
+Încercări şi bariere
+Dar de toate M-ai scăpat
+Mâna Ta e mereu întinsă
+Peste cel ce-I vegheator
+Peste cei care Te-aşteaptă
+Isuse cu mult dor.
+
+[s3]
+Ştiu vreamea îi foarte aproape
+Când pe nori vei apărea
+Sa-ţi răpeşti la cer mireasa
+Pentru Împăraţia Ta
+Doamne ajută-ne şi nouă
+Să rămanem pe calea Ta
+Să nu ne întinam cu lumea
+Chiar de viaţa ne-ar costa.
+
+[order]
+s1,r1,s2,r1,s3,r1

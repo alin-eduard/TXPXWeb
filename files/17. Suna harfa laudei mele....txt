@@ -1,0 +1,35 @@
+[s1]
+1. Sună harfa laudei mele
+Numai pentru Dumnezeu
+La nevoi şi la durere
+Aleluia, Îi cânt eu.
+/: Toată viaţa cât trăiesc
+Pe Isus îl preamăresc. :/
+17.                    Mi m
+
+[s2]
+2. Fericit e cine are
+Pe Domnul în ajutor
+Cine Lui i se supune
+Şi Îi e ascultător.
+/: Fie bine, fie rău
+Domnul este scutul meu :/
+
+[s3]
+3. A creat tot Universul
+Domnul prin al Său cuvânt
+Pe bolnavi îi vindecase
+Cât trăise pe pământ.
+/: Şi pe mine m-a creat
+Mântuire-apoi mi-a dat :/
+
+[s4]
+4. Aleluia, Aleluia
+Să răsune ne-ncetat
+Până Isus vine-n slavă
+Astfel cum a cuvântat.
+/: Deci şi tu inima mea
+Cântă-I până-L vei vedea :/
+
+[order]
+s1,s2,s3,s4

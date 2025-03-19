@@ -1,0 +1,29 @@
+[s1]
+Sol
+1. De dorul Tău, Isus iubit,
+De dragostea Ta, arse,
+/:Şi inima, spre răsărit
+Şi faţa ni se-ntoarse. :/
+177
+
+[s2]
+2. Isus, Isus,noi Te-aşteptăm
+Cum crinii-aşteaptă roua;
+/:Privind spre ceruri,
+Te chemăm
+Cu mâinile-amândouă.:/
+
+[s3]
+3.Treci peste anii viitori,
+Isuse drag, și vino!
+/:Ne du mai sus, mai sus de nori,
+În țara de lumină!:/
+
+[s4]
+4.Și-Ți vom cânta, Isus iubit,
+de drag, o veșnicie,
+/:Că Te-am chemat, și Te-am iubit
+cum nimenea nu știe.:/
+
+[order]
+s1,s2,s3,s4

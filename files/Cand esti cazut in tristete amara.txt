@@ -1,0 +1,44 @@
+[s1]
+Când eşti căzut, in tristeţe amară,
+Şi suferinţele cresc necontenit,
+/:Ai vrea să ştii când scapi de povară,
+De tot ce te-apasă cumplit... :/
+
+[s2]
+Să nu disperi, in durerea cea mare:
+Isus Hristos este nădejdea ta!
+/: Nu dispera, căci El este salvare,
+Dreptatea Lui te va salva! :/
+
+[s3]
+Să nu te-nspăimânţi când luntrea-i lovită
+Şi când, disperat, priveşti către val!
+/: Nădejdea ta, când eşti în încercare,
+E Domnul şi-al dragostei har... :/
+
+[s4]
+Să nu mai crezi că eşti dat uitării
+Şi ca Isus te lasă disperat!
+/: El e prezent, în ceasul încercării,
+Şi nu ai să fii alungat... :/
+
+[s5]
+Iar dacă ai fost tu ţinta săgeţii,
+În calea ta, doar spini ţi s-au pus,
+/: Chiar dacă-i amar gustul vieţii,
+Tu vino, cu el la Isus!... :/
+
+[s6]
+Tu fii credincios, pe-a ta cărare:
+Nu mai e mult şi El va veni!
+/: Nu-ţi va fi lupta doar lacrimi amare
+Şi cerul tău doar oţelit... :/
+
+[s7]
+Fii drept pe cale si întăreşte-ţi paşii,
+Pe calea iubirii, să înaintezi!
+/: Apleacă-ţi genunchii şi inima, frate,
+Şi-n Domnul Isus să te-ncrezi!... :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

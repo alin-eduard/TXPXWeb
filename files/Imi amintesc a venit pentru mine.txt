@@ -1,0 +1,38 @@
+[s1]
+Îmi amintesc, a venit pentru mine
+Nicicând înapoi nu voi da !
+/:Nu, nu, nu, nu, nu !
+Nicicând înapoi nu voi da :/
+
+[s2]
+Îmi amintesc, S-a născut pentru mine
+Nicicând înapoi nu voi da !
+/:Nu, nu, nu, nu, nu !
+Nicicând înapoi nu voi da :/
+
+[s3]
+Îmi amintesc, a murit pentru mine
+Nicicând înapoi nu voi da !
+/:Nu, nu, nu, nu, nu !
+Nicicând înapoi nu voi da :/
+
+[s4]
+Îmi amintesc, a-nviat pentru mine
+Nicicând înapoi nu voi da !
+/:Nu, nu, nu, nu, nu !
+Nicicând înapoi nu voi da :/
+
+[s5]
+Îmi amintesc, S-a-nălţat pentru mine
+Nicicând înapoi nu voi da.
+/:Nu, nu, nu, nu, nu !
+Nicicând înapoi nu voi da :/
+
+[s6]
+El mi-a promis că-n curând va veni
+Nicicând înapoi nu voi da
+/:Nu, nu, nu, nu, nu !
+Nicicând înapoi nu voi da :/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,49 @@
+[s1]
+1865
+1. Învaţă-mă ca să înţeleg Isuse
+Căci toate lucrurile le-ai creat, /: Şi râurile cu ale lor izvoare
+Îţi laudă Numele neîncetat :/.
+
+[s2]
+2. Învaţă-mă ca să înţeleg Isuse
+Că eu sunt om
+Și o gură Tu mi-ai dat,
+/: Şi vrei ca toată viaţa
+mea întreagă
+De mine Doamne să fii lăudat:/
+
+[s3]
+3. Învaţă-mă ca să îmi
+iubesc duşmanii
+Aşa cum Tu Isuse i-ai iubit
+/: Când ai strigat ah,
+Iartă-i, Doamne Tată
+Căci nu ştiu răul
+Ce l-au săvârşit :/.
+
+[s4]
+4. Învaţă-mă să nu fiu
+ca bogatul
+Pe cei săraci să îi dispreţuiesc
+/: Şi o parte din ce Doamne
+Tu mi-ai dat
+Cu dragoste eu să le dăruiesc :/
+
+[s5]
+5. Învaţă-mă să mă smeresc
+la cruce
+Să tac atunci când nu vrei
+să vorbesc
+/: Şi să-Ți ascult, susurul Tău cel dulce
+Şi mângâierea Lui să
+o primesc :/.
+
+[s6]
+6. Învaţă-mă să Îţi aştept venirea și tot ce am,
+În slujba Ta să o pun
+/: Şi chiar de viaţa Doamne
+Mi s-ar cere să nu mă las
+Clintit de pe-al Tău drum :/.
+
+[order]
+s1,s2,s3,s4,s5,s6

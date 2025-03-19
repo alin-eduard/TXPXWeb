@@ -1,0 +1,22 @@
+[s1]
+Sînt două drumuri şi ele au sfîrşit
+Dar din clipa-aceea începe-un infinit
+În strălucire, sau în dureri pe veci
+Unul dintre ele trebuie să-l alegi.
+/: Alege drumul ce duce-n ceruri sus
+În veşnicia fără-apus !
+Alege viaţa, alege-L pe Isus!
+Alege-L pe Isus! :/
+
+[s2]
+Timp nu mai este să stai nepăsător
+Spune <Da !> lui Isus şi fii încrezător!
+Isus revine, şi n-o să-ţi pară rău -
+Vei fi o veşnicie cu Isus, Domnul tău!
+/: Alege drumul ce duce-n ceruri sus
+În veşnicia fără-apus !
+Alege viaţa, alege-L pe Isus!
+Alege-L pe Isus! :/
+
+[order]
+s1,s2

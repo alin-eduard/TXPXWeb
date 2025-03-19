@@ -1,0 +1,38 @@
+[s1]
+Biblia sfîntă deschisă
+azi ne cheamă s-o citim
+Biblia sfîntă vorbeşte,
+crede tu, inima mea.
+Biblia sfîntă ne-arată
+dragostea lui Dumnezeu
+Pentru tine, pentru mine,
+pentru toţi ce cred în El.
+
+[r1]
+Să ne încredem în Domnul
+să nu fim pierduţi!
+Să facem azi legămîntul
+cu Hristos Isus!
+
+[s2]
+Jertfa sfîntă a lui Isus
+pe cruce la Golgota
+Este legămîntul nostru,
+suflete, nu ştii de ea?
+Zi de zi Isus te strigă
+să-ţi deschizi tu inima
+Să-L primeşti, să-Ţi dea viaţă,
+să-Ţi dea mîntuirea Sa.
+
+[s3]
+Ce plăcut să crezi în Domnul,
+să te simţi copil al Lui
+Să ai tu un rost în viaţă,
+să faci numai voia Lui.
+Mîna Lui s-o simţi aproape,
+să fii binecuvîntat
+Toată viaţa lîngă Isus
+tu vei fi răscumpărat.
+
+[order]
+s1,r1,s2,r1,s3,r1

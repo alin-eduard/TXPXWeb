@@ -1,0 +1,38 @@
+[s1]
+/: Taie-l jos :/ Pomul neroditor
+În grădina Mea n-are loc
+Acel pom ce nu face rod
+Deci ia securea, nu-l cruţa
+/: Taie-l jos. :/
+
+[s2]
+/: Mai lasă-l :/ Să mai stea înc-un an
+Îl voi uda şi-l voi săpa
+Doar poate se va îndrepta
+Iar dacă nu, îl poţi tăia
+/: Mai lasă-l. :/
+
+[s3]
+/: Taie-l jos :/ Pomul neroditor
+În grădina Mea n-are loc
+Acel pom ce nu face rod
+Deci taie-l şi-l aruncă-n foc
+/: Taie-l jos. :/
+
+[s4]
+/: Mai lasă-l :/ Să mai stea înc-un an
+Priveşte-i ramurile verzi
+În el nădejdea să nu-Ţi pierzi
+Şi dacă va rodi să vezi
+/: Mai lasă-l. :/
+
+[s5]
+Iată-l, cum Tu îl ştii
+Tot fără nici un rod
+Stăpînul dacă va veni
+Căutînd rod El nu va găsi
+Atunci El sigur va grăi
+/: Taie-l jos. :/
+
+[order]
+s1,s2,s3,s4,s5

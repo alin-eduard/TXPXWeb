@@ -1,0 +1,26 @@
+[s1]
+Se va cânta cântarea minunatã
+Mireasa-şi va cânta imnul dorit
+Şi se va-ncepe nunta aşteptatã
+Cu acei ce-n luptã, prigoane-au biruit.
+
+[r1]
+/: Eroii slavei vin acum acasã
+Au biruit în marele necaz
+Şi ei vor sta cu Domnul lor la masã
+El le va şterge lacrima de pe obraz :/
+
+[s2]
+Din orice neam, din orice seminţie
+Din orice limbã, din orice norod
+O mare gloatã pentru-mpãrãţie
+Isus va strânge-al suferinţei rod.
+
+[s3]
+În faţa scaunului de domnie
+S-or arunca cu faţa la pãmânt
+Vor preamãri, vor lãuda pe Domnul
+Pe Cel ce este Sfânt, de-a pururi Sfânt.
+
+[order]
+s1,r1,s2,r1,s3,r1

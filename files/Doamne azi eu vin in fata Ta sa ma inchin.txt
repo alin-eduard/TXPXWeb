@@ -1,0 +1,18 @@
+[r1]
+Doamne azi eu vin,
+în faţa Ta să mă închin,
+Ca să fiu umplut cu har divin.
+Prin lumina Ta, aş vrea mai mult
+Să îmi cunosc slăbiciunile;
+Să trăiesc prin iubirea Ta.
+
+[r2]
+/: Cheamă-mă şi voi veni la Tine;
+Cînd sînt slab,
+Te rog Tu să mă sprijineşti,
+Ca vulturul, spre cer mă voi înălţa
+Şi veşnic voi trăi, mereu voi locui
+Prin iubirea Ta. :/
+
+[order]
+r1,r2,r1,r2

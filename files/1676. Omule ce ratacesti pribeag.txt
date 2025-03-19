@@ -1,0 +1,36 @@
+[s1]
+1676.
+1. Omule ce rătăceşti pribeag
+Vino azi acasă
+Isus te aşteaptă-n prag,
+Te primeşte cu mult drag.
+Schimbă-ţi viaţa păcătoasă.
+Cor:	Omule, călător pe oceanul lumii
+Vino astăzi la Isus
+Vino-n ţara fără apus
+Vino la limanuri bune.
+
+[s2]
+Cor:	Omule, călător pe oceanul lumii
+Vino astăzi la Isus
+Vino-n ţara fără apus
+Vino la limanuri bune.
+2. Omule, care-i destinul tău
+Crezi că-i tot cenuşă?
+Vrei în nesfârşitul rău
+Sau în cer cu Dumnezeu?
+Iată ţi-e deschisă o uşă.
+
+[s3]
+Cor:	Omule, călător pe oceanul lumii
+Vino astăzi la Isus
+Vino-n ţara fără apus
+Vino la limanuri bune.
+3. Zi de zi în alergarea ta
+Faci atâtea rele
+Vino azi al Golgota,
+La Isus la jertfa Sa
+Şi-al Său sânge-o să te spele.
+
+[order]
+s1,s2,s3

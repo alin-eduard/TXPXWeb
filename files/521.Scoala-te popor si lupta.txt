@@ -1,0 +1,43 @@
+[s1]
+1.	Scoală-te popor şi luptă
+Luptă-te neîncetat
+Că-naintea noastră merge
+Sfântul nostru Împărat.
+Cor: Luptă-te, luptă-te mereu
+Înaintea noastră este Dumnezeu
+Luptă-te întruna fii voios
+Înaintea noastră e Isus Hristos.
+521.      Mi
+
+[s2]
+2.	Să vii azi popor de grabă
+Fii mereu curat şi sfânt
+Nu uita că scurtă-i vremea
+Şi-om pleca de pe pământ.
+Cor: Luptă-te, luptă-te mereu
+Înaintea noastră este Dumnezeu
+Luptă-te întruna fii voios
+Înaintea noastră e Isus Hristos.
+
+[s3]
+3.	Mai avem de a străbate
+Nopţi amare, văi adânci
+Porumbiţo nu te teme
+Ieşi de grabă dintre stânci.
+Cor: Luptă-te, luptă-te mereu
+Înaintea noastră este Dumnezeu
+Luptă-te întruna fii voios
+Înaintea noastră e Isus Hristos.
+
+[s4]
+4.	O, ridică-te şi luptă
+În Hristos vei birui
+Să fii gata-n orice clipă
+Căci Isus ne va răpi.
+Cor: Luptă-te, luptă-te mereu
+Înaintea noastră este Dumnezeu
+Luptă-te întruna fii voios
+Înaintea noastră e Isus Hristos.
+
+[order]
+s1,s2,s3,s4

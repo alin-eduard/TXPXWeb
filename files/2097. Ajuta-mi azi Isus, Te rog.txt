@@ -1,0 +1,29 @@
+[s1]
+2097
+1. /: Ajută-mi azi Isus
+Te rog :/
+Să scap de-ncercarea grea
+Să mă urci pe stânca Ta
+Să primesc izbăvirea.
+
+[s2]
+2. /: Ajută-mi azi Isuse
+Te rog :/
+Să-mi iubesc ai mei vrăjmași
+Ca pe Tine și-ai mei frați
+Și să fie mântuiți.
+
+[s3]
+3. /: Ajută-mi azi Isuse Te rog :/
+A Ta cale s-o urmez
+Prin orice ai să mă treci
+Numai Ție să-Ți slujesc.
+
+[s4]
+4. /: Ajută-Ți azi Biserica :/
+Să trăiască în unitate
+De acum și pân′ la moarte
+Iubind fratele pe frate.
+
+[order]
+s1,s2,s3,s4

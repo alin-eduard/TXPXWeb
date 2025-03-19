@@ -1,0 +1,23 @@
+[s1]
+Fără de Hristos tu nu poţi trăi Fără Domnul meu tu nu poţi vieţui
+Vei avea în lume-un chin obositor
+Fără de Hristos, în lume ai să mori
+
+[r1]
+Nu poţi fi în lume fericit
+Dacă de Isus tu nu eşti mântuit Viaţa ta e-un chin ingrozitor
+Fără de Hristos, în lume ai să mori!
+
+[s2]
+Poţi umbla cât vrei în lumea de păcat
+Dar să şti, odată vei fi judecat
+Plata-ţi vei primi şi vei fi condamnat
+Fără de Hristos, în lume ai să mori.
+
+[s3]
+Dacă dar asculţi de Domnul meu Isus
+Viaţa ta va fi cu El în ceruri sus Bucurii nepuse-acolo vei afla
+Glorie, mărire-n veci, Aleluia!
+
+[order]
+s1,r1,s2,r1,s3,r1

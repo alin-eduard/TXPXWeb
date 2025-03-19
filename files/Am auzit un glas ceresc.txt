@@ -1,0 +1,32 @@
+[s1]
+Am auzit un glas ceresc
+Ce îmi şoptea mereu:
+„Amicul Meu, Eu te iubesc
+Şi ştiu necazul tău!“
+Îndată am venit la El
+Aşa cum mă aflam,
+Pe sufletu-mi rănit
+Isus a pus al Său balsam.
+
+[s2]
+Am auzit un glas ceresc:
+„Izvorul vieţii sunt
+Şi setea ta o potolesc
+Ca nimeni pe pământ“.
+Îndată am venit la El
+Setos cum mă aflam,
+De­atunci preafericit mă simt
+Căci toate eu le am.
+
+[s3]
+Am auzit un glas ceresc:
+„Viaţa ta sunt Eu!
+De crezi, Eu te călăuzesc
+Blând cu toiagul Meu!“
+Îndată am venit la El,
+Şi viaţă am aflat,
+Voios trăiesc eu pe pământ
+Ştiindu-mă salvat.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,34 @@
+[s1]
+Am stat singur în lume,
+de Tine am fugit
+N-am vrut să ştiu că mai exişti,
+n-am vrut să cred nimic.
+Stăteam în lumea oarbă,
+spuneam că Te căutam
+Dar nu vroiam să ştiu nimic,
+de Tin, mă ascundeam.
+
+[s2]
+De cîte ori în cale ochii Ţi-am văzut
+Dar m-am întors şi-am zis:
+Nu Te-am văzut!
+Dar Te-am văzut!
+
+[s3]
+Acum că sînt lovit,
+privirea mi-o ridic
+O, faţa Ta e-asupra mea,
+de mult ea mă privea.
+Stau gol în faţa Ta
+şi-Ţi cer a mă ierta
+Că sînt un vierme de nimic,
+sînt un atom cît sînt de mic.
+
+[s4]
+De cîte ori pe cale
+ochii-Ţi voi vedea
+Mă voi grăbi să Te ajung
+Căci voi umbla pe calea Ta.
+
+[order]
+s1,s2,s3,s4

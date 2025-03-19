@@ -1,0 +1,51 @@
+[s1]
+1. Bătrânii care aici mai sunt
+Şi cei care au murit
+Când veneau la rugăciune
+De-un foc erau cuprinşi.
+/: Pe pământ sau pe podele
+Îşi plecau genunchii lor
+Şi din ochi izvor de lacrimi
+Brăzdau feţele lor :/.
+450.    							 Re m
+
+[r1]
+Cor:
+Dar noi unde ne găsim
+Credinţa cum ne-o trăim
+Nu cumva avem
+doar forma
+Primilor creştini.
+
+[s2]
+2. Un fior trecea prin inimi
+Când numele lui Isus
+Era rostit în adunare
+Şi înălţat nespus.
+Duhul Sfânt era în slujbă
+Schimba inimi pe loc
+Lacrimi pline de speranţă
+Curgeau din ai lor ochi.
+
+[s3]
+3. Pacea adâncă ca din cer
+Venea când pe pământ
+Imnuri Sfinte se cântau
+Spre slava celui Sfânt.
+Numai Amin şi Aleluia
+Răsuna-n popor
+De credeai că vin şi îngeri
+Să cânte cu a lor cor.
+
+[s4]
+4. Deseori când se-ntâlneau
+Sau la despărţire
+Zâmbetu-mpletit cu lacrimi
+Era a lor iubire.
+Bucuroşi se cuprindeau
+Toţi erau la fel
+Singuru-nălţat în inimi
+Era sfântul Miel.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

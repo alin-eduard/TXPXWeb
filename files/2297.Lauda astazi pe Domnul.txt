@@ -1,0 +1,37 @@
+[s1]
+1.
+Re
+1. Laudă astăzi pe Domnul
+Suflet zdrobit de patimi
+Laudă-L printre suspine,
+Laudă-L printre lacrimi
+
+[s2]
+Cor: Drumul slavei trece şi pe la cruce
+Credincioşii ştiu în genunchi să-l urce
+
+[s3]
+2. Dacă cei răi înverzesc
+Şi ca iarba-n câmpuri cresc,
+Este numai ca să fie nimiciţi
+Căci Tu, Doamne, eşti'nălţat,
+Preamărit şi onorat ,
+Şi toţi cei ce fac răul sunt nimiciți.
+
+[r1]
+Cor: Ce frumos este a cânta ,
+Doamne, spre mărirea Ta,
+Pentru bunătatea Ta!
+Cât de bine-i şi de frumos
+A lăuda numele lui Isus Hristos!
+
+[s4]
+3. Cei mai scump tu să doreşti
+Ca pe Domnul să-l măreşti,
+Aducându-i roade întotdeauna.
+Ce este bun arătând
+Pe Părintele cel scump ,
+Lăudându-L cu fapta şi cu vocea!
+
+[order]
+s1,s2,s3,r1,s4,r1

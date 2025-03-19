@@ -1,0 +1,23 @@
+[s1]
+.În sfinţenie lăudaţi-L,
+Pentru noi El s-a jertfit
+Şi cu toţi răscumpăraţii
+În mărire S-a suit.
+Aleluia, Aleluia, Aleluia, Amin!
+
+[s2]
+Preamăriţi cu veselie
+Şi din harfe să-I cântaţi;
+Glorie şi slavă-I fie,
+Ruga inimii-nălţaţi!
+Aleluia, Aleluia, Aleluia, Amin!
+
+[s3]
+Să cântaţi cu bucurie,
+Duhul Sfânt voi aţi primit.
+Să-L lăudaţi toţi cu bucurie
+Pe Cel ce v-a mântuit!
+Aleluia, Aleluia, Aleluia, Amin!
+
+[order]
+s1,s2,s3

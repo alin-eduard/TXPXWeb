@@ -1,0 +1,42 @@
+[s1]
+Aş vrea să vorbesc
+iscusit despre Tine
+Şi limba-i prea slabă
+să pot să vorbesc.
+/: Dar inima-mi arde
+de dor după Tine
+Şi pot doar atîta să-Ţi spun:
+<Te iubesc !> :/
+
+[s2]
+Să cînt prea frumos
+eu nu pot despre Tine
+Căci graiul mi-i stins
+şi uşor obosesc.
+/: Dar coarda iubirii
+aprinse în mine
+Vibrează şi spune mereu
+<Te iubesc !> :/
+
+[s3]
+Şi mult să-nţeleg
+eu nu pot despre Tine
+Căci tainele Tale
+adînci copleşesc.
+/: Puterea, gîndirea
+şi viaţa din mine
+În taină Îţi spune:
+<Isus, Te iubesc !> :/
+
+[s4]
+Primeşte, Isuse,
+iubirea din mine
+Mai mult eu nu am,
+doar atît dăruiesc.
+/: Şi-n inimă-aprinde
+într-una din Tine
+Iubirea, să pot
+şi mai mult să iubesc ! :/
+
+[order]
+s1,s2,s3,s4

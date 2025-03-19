@@ -1,0 +1,52 @@
+[r1]
+La revedere, ne vom vedea,
+La revedere, ne-om saluta,
+La revedere, ne-om întâlni,
+Acolo sus, în veşnicii!
+La revedere, fraţi şi surori,
+La revedere, ascultători,
+La revedere, pe viitor,
+Să ne vedem cu toţi în cer!
+
+[s1]
+Ne vom vedea, cu toţi,
+În marea dimineaţă;
+Ne vom vedea, cu toţii,
+Iarăşi faţă-n faţă;
+Ne vom vedea, cu toţi,
+La marea de cristal!
+
+[s2]
+Ne vom vedea,
+În minunata primăvară;
+Ne vom vedea,
+În veşnicii, cu toţii iară;
+Ne vom vedea
+la malurile de smarald!
+
+[s3]
+Ne vom vedea,
+în ţara de dincolo de soare;
+Ne vom vedea,
+pe-a veşniciilor splendoare;
+Ne vom vedea,
+sus, în palatul de rubin!
+
+[s4]
+Ne vom vedea,
+acolo unde nu-i durere;
+Ne vom vedea,
+în ţara dincolo de stele;
+Ne vom vedea,
+în dimineaţa fără nor!
+
+[s5]
+Ne vom vedea dorinţa
+noastră împlinită;
+Ne vom vedea, cu toţii,
+la marea de sticlă;
+Ne vom vedea,
+la nunta Mirelui Isus!
+
+[order]
+r1,s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

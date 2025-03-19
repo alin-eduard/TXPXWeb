@@ -1,0 +1,45 @@
+[s1]
+Spunem acum lumii întregi
+Ca să vadă şi s-audă Cuvîntul.
+
+[s2]
+Căci El e Salvator, El e Mîntuitor
+Şi are-n mîna Sa puterea toată!
+E Cel ce a învins
+Murind pe-o cruce-ntins
+Şi ne-a spus ca să credem
+că revine în curînd
+E Salvatorul, Învăţătorul nostru
+Ocrotitorul, Isus, Mesia!
+
+[s3]
+Cîntăm acum, că dragostea
+Este-aceea care poate transforma.
+
+[s4]
+Căci Dumnezeu te vrea
+Să schimbe viaţa ta
+E Acel ce mîntuire vrea să-ţi dea!
+A Lui salvat acum
+De pe-al pierzării drum
+Isus te cheamă, te primeşte,
+te iubeşte-n veci
+E Salvatorul, Învăţătorul nostru
+Ocrotitorul, Isus, Mesia.
+
+[s5]
+Cîntăm de-acum neîncetat
+Acelui care-a murit şi a-nviat !
+
+[s6]
+El va veni din nou să-si ia poporul Său
+Ne va lua şi ne va duce-n cer!
+Acolo vom cînta in sfîntă faţa Sa
+Cu serafimii, heruvimii toţi vom lăuda
+Pe Salvatorul, Învăţătorul nostru
+Ocrotitorul, Isus, Mesia!
+Oprească-ne toţi, tot Te lăudăm!
+Noi vrem să-Ţi cîntăm Ţie în veci!
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,38 @@
+[s1]
+Viaţa doar Tu mi-ai schimbat
+Şi mai eliberat
+În Tine îmi pun nădeajdea mea
+Şi în Tine mă încred,Isus iubit.
+
+[s2]
+O, ce har minunat
+La Calvar am aflat
+Isuse vreau să-Ţi mulţumesc
+În Tine pace eu găsesc.
+
+[s3]
+Tu Te-ai jertfit  şi-ai suferit
+Şi în locul meu pe cruce ai murit
+În Tine îmi pun nădeajdea mea
+Şi în Tine mă încred,Isus iubit.
+
+[s4]
+Tu Te-ai jertfit şi-ai suferit
+Şi în locul meu pe cruce ai murit
+O, ce Har minunat
+La Calvar am aflat.
+
+[s5]
+Isuse vreau să-Ţi mulţumesc
+În Tine pace eu găsesc
+Viata doar Tu mi-ai schimbat
+Şi mai eliberat.
+
+[s6]
+/: Şi viaţa noua în dar ne-ai dat
+Şi fericire în timpul greului păcat
+M-ai mântuit,m-ai curaţit
+Şi de la moarte Tu m-ai izbavit :/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,37 @@
+[s1]
+2044   Fa m
+1. Să cânt, să cânt, Tu-mi ceri mereu
+Mai cu avânt,
+Chiar de-i bine, chiar de-i greu,
+Chiar de-s lovit, chiar de-s mâhnit,
+Eu cânt de dragul Tău, Dumnezeu.
+
+[r1]
+Cor:	Ție, Ție-Ți voi cânta
+Toată viața, Domnul meu
+Ție, Ție-Ți voi cânta,
+Veșnicule Dumnezeu!
+
+[s2]
+2. La orice pas mă poticnesc
+Și ceas de ceas noi ispite
+mă pândesc,
+Dar mâna Ta e paza mea,
+De-aceea cât trăiesc Te slăvesc.
+
+[s3]
+3. O, cum să cânt când alții plâng
+Și-atâția sunt ce-și duc
+crucea suspinând
+Dar voia Ta e să Te laud,
+Și tot ce-i mai presus mi-ești Tu, Isus
+
+[s4]
+4. Cât aș căuta să mă jertfesc
+Eu niciodată n-aș putea
+să-Ți răsplătesc,
+Căci ai iertat al meu păcat,
+Să fii acum și-n veci lăudat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,24 @@
+[s1]
+Să fii Doamne lăudat
+Până aici m-ai ajutat
+Când eram în pericol, pericol
+Am fost gata ca să mor
+Mi-ai dat mână de ajutor
+Şi Mi-ai fost un Salvator
+Când eram în mişelii
+Scufundat în mizerii
+1.
+1239
+
+[s2]
+2.Tu pe mine m-ai căutat
+Viaţa mea m-ai câştigat
+Doamne Tată din cer sfânt
+Varsă-Ţi mila pe pământ
+Şi mă învaţă a cânta
+Şi să-Ţi facem voia Ta
+Pe Tine a Te lăuda
+De acum şi pururi.
+
+[order]
+s1,s2

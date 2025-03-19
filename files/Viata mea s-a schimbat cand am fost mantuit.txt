@@ -1,0 +1,32 @@
+[s1]
+Viaţa mea s-a schimbat
+Când am fost mântuit,
+Isus e în inima mea!
+Am în suflet lumina
+Ce mult am dorit,
+Isus e în inima mea!
+
+[r1]
+Isus e în inima mea!
+Isus e în inima mea!
+Râuri de bucurii
+Curg din ea ne-ncetat,
+Isus e în inima mea!
+
+[s2]
+Am lăsat calea lumii
+Când El m-a chemat,
+Isus e în inima mea!
+Şi păcatele mele
+Deplin le-a spălat,
+Isus e în inima mea!
+
+[s3]
+În cetatea cerească eu voi locui,
+Isus e în inima mea!
+Până-atunci către cer
+Fericit voi privi,
+Isus e în inima mea!
+
+[order]
+s1,r1,s2,r1,s3,r1

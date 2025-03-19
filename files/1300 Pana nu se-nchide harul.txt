@@ -1,0 +1,124 @@
+[s1]
+1300.
+Până nu se-nchide harul
+Fraţilor iubiţi
+Veniţi cu grabă la Isus
+Să fiţi mântuiţi
+De n-aţi făcut legământ
+Faceţi-l în curând
+Cereţi iute cu grăbire
+Să vă dea Duh Sfânt
+1.
+
+[s2]
+Domnul Isus ne primeşte
+Căci suntem ai Lui
+Cântaţi fraţilor cu toţii
+Slava Domnului
+El va da din plinătate
+Duhul Lui cel Sfânt
+Şi orfani n-o să ne lase
+Pe acest pământ.
+2.
+
+[s3]
+El e ca crinul frumos
+Ce şade între flori
+Frumoasă mireasă are
+Bunul Salvatorul
+Unde eşti iubitul meu
+De nu te mai zăresc
+Căci te caut zi şi noapte
+Căci mult te iubesc.
+3.
+
+[s4]
+O iubitul meu Isus
+Auzi mireasa Ta
+Care strigă-s păcătos
+Ai mila de ea
+Frumos ca al meu iubit
+Nu-i pe acest pământ
+Are ochii ne-adormiţi
+Veghează orişicând.
+4.
+
+[s5]
+E gelos de-a Lui mireasă
+Căci o iubeşte
+Pentru ea o haină albă
+Îi pregăteşte
+Ai primit frate inelul
+Duhului cel sfânt
+Ca să poţi zbura la ceruri
+De pe acest pământ.
+5.
+
+[s6]
+Pavel la Romani arată
+Un cuvânt precis
+Cine n-are Duhul slavei
+Nu-i a lui Isus
+Căci acela, Duh măi frate
+Care l-a ’nviat
+Pe Isus Hristos din morţi
+Fie onorat.
+6.
+
+[s7]
+Te va învia şi pe tine
+De eşti sigilat
+Sau la clipa ochiului
+Vei fi transformat
+Destul v-aţi hrănit cu lapte
+Zice Duhul Sfânt
+Mâncaţi şi bucate tari
+Din Sfântul Cuvânt.
+7.
+
+[s8]
+Dezbrăcaţi-vă de haina
+Vechiului păcat
+Şi în haina neprihănirii
+Acum vă îmbrăcaţi
+Luptaţi-vă cu păcatul
+Ca să-l biruiţi
+Căci putere şi iertare
+De la El primiţi.
+8.
+
+[s9]
+Fie-vă groază de rău
+Nu-l faceţi nicicând
+Alipiţi-vă de Domnul
+Cel prea bun şi Sfânt
+De vă-ntreabă cineva
+Ce credinţă aveţi
+Să-i spuneţi cei adevărat
+Că a Lui Isus sunteţi.
+9.
+
+[s10]
+El e Răscumpărătorul
+Pe acest pământ
+Şi viaţa cea de veci
+Dincolo de mormânt
+Fie lăudat Domnul
+Căci El ne-a chemat
+La această nuntă mare
+Ca să fim fii de împărat.
+10.
+
+[s11]
+Ai grijă frate de haină
+N-o păta nicicând
+Ca să poţi să te-ntâlneşti
+Cu Domnul cel Sfânt
+Ai grijă soră de haină
+N-o păta nicicând
+Ca să poţi să te-ntâlneşti
+Cu Domnul cel Sfânt
+11.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11

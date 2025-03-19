@@ -1,0 +1,50 @@
+[s1]
+Cu luntrea credintei pe mare
+Vaslesc astazi fara de spor
+Si marea se agita intr-una
+Ah!Unde ai plecat salvator
+
+[r1]
+Te chem ca sa vii azi la carma
+Caci valul s-a tot ridicat
+/:O! Vino degraba Isuse
+Sunt singur O!Unde ai plecat:/
+
+[s2]
+E greu ca sa lupti prin furtuna
+Si in luntre doar singur sa fii
+E grea incercarea credintei
+Isuse dece nu mai vii
+
+[s3]
+N-ajuns oare ruga la Tine
+De nu vii sa ma izbavesti
+Nu sunt asacultat o Isuse
+Si amarnic ma chinuiesc
+
+[s4]
+Se lupta Satana intr-una
+Ca vasla credintei s-o pierd
+Si apoi indoieli fara margini
+Si-o groaza ca-n val o sa pier
+
+[s5]
+Mai vino si azi O Isuse
+Opreste valul furios
+Caci gata sta luntrea sa piara
+Nadejdea aproape s-a dus
+
+[s6]
+Dar iata o Lumina apare
+La luntre se opreste Hristos
+La carma va El de acuma
+Opri-va orice val furios
+
+[s7]
+/: Eu pace iti graiesc acum tie
+Fii tare si nu dispera
+Caci toate supuse imi sunt Mie
+Deci crede ca Eu te-oi salva! :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,s7

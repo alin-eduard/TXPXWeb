@@ -1,0 +1,26 @@
+[s1]
+Salvatorule, preasfânt,
+Braţul Tău minunat
+Al meu suflet l­a scăpat
+De cel rău, de păcat.
+
+[r1]
+Aleluia, aleluia,
+Slavă Ţie, slavă!
+Aleluia, aleluia,
+Bunul meu Salvator!
+
+[s2]
+Pentru­ a mă răscumpăra
+Ţi-­ai jertfit viaţa Ta
+Şi de­-acum eliberat
+Eu Te voi lăuda!
+
+[s3]
+Tot ce mai doresc acum:
+E să fiu robul Tău,
+Dăruindu-mă deplin,
+Să­-Ţi slujesc, Domnul meu!
+
+[order]
+s1,r1,s2,r1,s3,r1

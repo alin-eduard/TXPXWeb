@@ -1,0 +1,31 @@
+[s1]
+Când eu stau și mă gândesc
+La tot ce Isus a lăsat
+Și a venit jos pe pământ,
+Suferind dispreț amar
+Pe calvar în locul meu
+Eu Te-ntreb Isuse oare,
+Ce sunt eu?
+
+[r1]
+Ce sunt eu Isus,
+de m-ai iubit Tu?
+Ce sunt eu de-ai suferit,
+și ai murit?
+Ai urcat sus pe calvar
+Și Ți-ai dat viața-n dar
+Astăzi eu Te-ntreb Isuse
+Ce sunt eu?
+
+[s2]
+Când privesc la viața mea
+ce am trăit-o
+În păcat dispret dureri
+îmi amintesc
+Viața cu Isus mi-ai dat
+Deși eu n-am meritat
+Astăzi eu Te-ntreb Isuse,
+Ce sunt eu?
+
+[order]
+s1,r1,s2,r1

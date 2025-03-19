@@ -1,0 +1,34 @@
+[s1]
+Cuprins, o, Doamne de mila Ta
+Viaţa mea s-a înnoit
+Şi copleşit de iubirea Ta
+Sunt foarte fericit.
+
+[s2]
+Isus, eu Te iubesc,
+Isus, îţi mulţumesc,
+Isus, eu trăiesc
+prin dragostea Ta
+Eu Te iubesc !
+
+[s3]
+Te voi lăuda pe acest pământ
+Toată viaţa mea
+Că eşti puternic şi eşti sfânt
+În veci îţi voi cânta
+
+[r1]
+Isus, eu Te iubesc,
+Isus, Îţi mulţumesc,
+Isus, eu trăiesc
+prin dragostea Ta
+Eu Te iubesc !
+
+[s4]
+Pedeapsă şi moarte eu meritam,
+Pentru toată vina mea
+În locul meu, crucea ai purtat
+Al Tău sânge m-a salvat.
+
+[order]
+s1,s2,s3,r1,s4,r1

@@ -1,0 +1,28 @@
+[s1]
+1887
+1. Ca să fiu mai aproape de Domnul
+Voia Lui s-o-nțeleg tot mai clar
+/: Mi-am sădit rostul vieții la cruce
+Mi-am întins cortul ei sub Calvar:/
+
+[s2]
+2. Ca să fiu mai aproape de Domnul
+Să-nțeleg fruntea Lui sângerând
+/: Mi-am sădit Ghetsismani în suflet
+Și Golgota în cuget și-n gând:/
+
+[s3]
+3. Să-nțeleg prețul jertfei supreme
+Fără vină pe cruce străpuns
+/: În tăcerile lacrimei Sale
+Gândul meu pentru veci
+L-am ascuns:/
+
+[s4]
+4. Ca să fiu mai aproape de Domnul
+Voia Lui s-o-nțeleg tot mai clar
+/: Mi-am sădit rostul vieții la cruce
+Mi-am întins cortul ei sub Calvar:/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,32 @@
+[s1]
+Deasupra stelelor, in Tara pacii,
+Unde durerile sfarsesc,
+Acolo sus, o, Doamne sfinte,
+Eu pururi vreau sa locuiesc
+
+[r1]
+Langa Tine, langa Tine.
+Scumpul meu Mantuitor,
+Sa beau apa Ta cea vie,
+Din al Tau curat izvor...
+
+[s2]
+O, Doamne, sus cand voi ajunge
+Sa vad Ierusalimul nou,
+Locasul pregatit de Tine
+Pentru iubit poporul Tau!
+
+[s3]
+In tara unde stau profetii
+Si-apostolii toti cu un gand
+Te lauda, o, Doamne sfinte,
+In jurul tronului cel sfant.
+
+[s4]
+Vreau s-ajung, o, Doamne sfinte,
+Cat mai curand, in casa Ta
+Unde ingerii toti Iti canta:
+„Osana! Aleluia!"
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,26 @@
+[s1]
+Eram pierdut si parasit
+Dar tu Isuse m-ai gasit
+Eram in bezna si-n pacat
+Dar tu Isuse m-ai salvat.
+Cazut in starea mea cea grea
+Traiam dar fara Voia Ta
+Atunci Isuse ai venit
+si pe mine m-ai gasit.
+
+[r1]
+M-ai gasit /: Tu mai gasit :/ Isuse
+
+[s2]
+Eram un fiu risipior
+Pribeag in lume calator
+Umblam mereu printre straini
+N-aveam odihna nici alin.
+Din praf de jos chiar din pacat
+Un Brat Cersec m-a ridicat
+Mi-a spun :
+« Eu vreau sa te primesc »
+Isus e Domnul meu ceresc.
+
+[order]
+s1,r1,s2,r1

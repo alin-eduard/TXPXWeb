@@ -1,0 +1,39 @@
+[s1]
+Spun unii oameni că viata
+A apărut din nimic
+Întâmplător din neant,
+lumea s-a ivit.
+Eu, însa, stiu adevărul
+si vreau sa-l spun tuturor:
+Tot ce există în univers
+are un Creator!
+
+[r1]
+Nu, nu, nu, nu-i o-ntâmplare
+Nu, nu, nu, viata sub soare
+Nu, nu, nu, e Mâna care
+pe toate le-a făurit
+Nu, nu, nu, nu din genune
+Nu, nu, nu, sunt toate pe lume
+Nu, nu, nu, cu-ntelepciune chiar Dumnezeu le-a zidit.
+
+[s2]
+La început Creatorul
+cer si pământ a făcut
+Si când a spus: “Să fie lumină”,
+lumin-a apărut
+Soare si lună si stele,
+păsări si ape si vânt
+Ziua si noaptea au prins contur
+la un singur cuvânt!
+
+[s3]
+Eu nu cunosc multe lucruri,
+sunt încă mic si nu stiu
+Însă mi-e clar că există Dumnezeu pururi viu!
+Si când privesc în oglindă,
+Îti multumesc că si eu
+Am fost creat chiar de Mâna Lui după chipul Său!
+
+[order]
+s1,r1,s2,r1,s3,r1

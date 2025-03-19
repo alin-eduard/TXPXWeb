@@ -1,0 +1,56 @@
+[s1]
+912
+1.Auziți popoare, astăzi veniți toate
+Domnului să ne închinăm
+Zi de sărbătoare zi de bucurie
+Sărbătoarea Domnului să fie
+
+[r1]
+Cor:/:E sărbătoarea corturilor
+Pentru-a Domnului cel sfânt popor
+Cu bucurie și veselie
+Haide urcă la Ierusalim :/
+
+[s2]
+2. Să aduci din roade
+Să aduci din pârgă
+Ce-a putut mânuța ta să strângă
+Dă cu bucurie ești eliberat
+Din Egipt căci Domnul te-a scăpat.
+
+[s3]
+3. Ramuri de finic și copaci stufoși
+Vino cu copiii tăi frumoși
+Și la masa ta adu-l pe cel sărac
+Căci și pe tine Domnul te-a scăpat
+
+[s4]
+4. Ascultă Egipt, ascultă Românie
+De nu vrei să vii la sărbătoare
+Am să te lovesc cu a mea urgie
+Pe pământ să nu mai cadă ploaia.
+
+[s5]
+5. Și cum am vorbit
+Prin solul Zahariei
+Până în ziua cea din urmă
+Eu am să aștept
+La a mea sărbătoare
+Și pe ultima oaie din turmă.
+
+[s6]
+6. Căci porunca mea
+Veșnic ea rămâne
+Pentru toții ce vor să Mă urmeze
+Și iudeu și grec, o poruncă-i una
+Pentru toți o lege guvernează.
+
+[s7]
+7. Auziți popoare,
+Astăzi veniți toate
+Domnului ca să ne închinăm
+Zi de sărbătoare, zi de bucurie
+Sărbătoarea Domnului să fie.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1

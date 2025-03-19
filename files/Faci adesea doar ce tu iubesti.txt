@@ -1,0 +1,37 @@
+[s1]
+Faci adesea doar ce tu iubeşti
+Şi iubeşti ades pe cei ce te iubesc
+Dar Domnul m-a iubit când eram rău
+A dat pe fiul Său o, cum să-I mulţumesc?
+
+[s2]
+Şi Doamne, mă iubeşti pe mai departe
+Chiar atunci când eu nu merit dragoste
+Nu-nţeleg de ce se-ntâmplă acestea
+Dar aceasta este marea-Ţi dragoste
+/: Dragoste. :/
+
+[s3]
+Suflete, pe Domnul laudă
+Este scris în psalmi şi Domnului Îi cânt
+Căci mare este îndurarea Sa
+Şi veşnic va ţinea, îmi spune-al Său Cuvânt.
+Şi Doamne, mă păstrezi pe mai departe
+Ce sânt eu, ca planu-Ţi veşnic să-l discut ?
+Nu-nţeleg de ce se-ntâmplă aceasta
+Dar eu simt cum de putere m-ai umplut
+/: M-ai umplut. :/
+
+[s4]
+Domnul vrea ca Lui să Îi slujesc
+Dar de ce pe min, mă vrea, eu nu-nţeleg.
+Eu nu am multe, Doamne-a-Ţi oferi
+Şi poate vei găsi un om mai priceput.
+Şi Doamne, binecuvântarea-Ţi mare
+O reverşi asupra mea pe-un râu divin.
+Nu-nţeleg de ce se-ntâmplă aceasta
+Dar din mâna sfântă raze asupra-mi vin
+/: Raze vin. :/
+
+[order]
+s1,s2,s3,s4

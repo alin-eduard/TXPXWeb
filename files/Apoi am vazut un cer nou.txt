@@ -1,0 +1,28 @@
+[s1]
+/:Apoi am vazut un cer nou:/
+/:Fiindca cerul si pamantul dintai:/
+Au pierit, si marea nu mai era
+Si eu am vazut Sfanta cetate
+/:Ierusalimul nou:/
+Coborand din cer de la Dumnezeu
+
+[s2]
+Mireasa gatita pentru Mirele,
+/:Mireasa gatita ca o floare:/
+Mireasa pregatita pentru-al ei mire
+Si am auzit o voce care a zis:
+Iata cortul lui Dumnezeu cu oamenii
+In care /:El va locui:/ cu ai Sai.
+
+[s3]
+/:Si ei vor fi:/, /:si ei vor fi:/
+Al sau popor.
+Cu ei va fi in etern
+Puternicul Dumnezeu!
+El va strge lacrimile lor x6
+El va sterge orice lacrima din ochii lor
+/:Lacrima:/ sterge El!
+Aliluia x5
+
+[order]
+s1,s2,s3

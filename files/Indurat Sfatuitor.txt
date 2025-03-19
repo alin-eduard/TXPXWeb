@@ -1,0 +1,32 @@
+[s1]
+Îndurat Sfătuitor,
+Duh preasfânt, Mângâietor,
+Mă condu cu mâna Ta
+Prin furtuni şi vreme rea.
+Când necazuri vor veni,
+Mă ajută­a birui.
+Spune sufletului meu:
+„În odihnă te duc Eu!“
+
+[s2]
+Doamne, Tu aproape fii
+Când cel rău m­ar ispiti.
+De­ndoieli şi frică prins,
+Nu lăsa să fiu învins.
+Dă­mi prin Duhul Tău puteri,
+Multă pace, mângâieri.
+Spune sufletului meu:
+„În odihnă te duc Eu!“
+
+[s3]
+Sfinte Duh ce viaţă dai,
+Mă condu mereu spre rai,
+Doar prin Tine pot urca
+Tot mai sus spre ţinta mea,
+Când durerile apar,
+Vino şi vorbeşte­mi iar,
+Spune sufletului meu:
+„În odihnă te duc Eu!“
+
+[order]
+s1,s2,s3

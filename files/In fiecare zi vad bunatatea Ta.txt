@@ -1,0 +1,24 @@
+[s1]
+In fiecare zi vad bunatatea Ta,
+La fiecare pas simt iubirea Ta.
+Mana Ta ma sprijineste,
+Dreapta Ta ma ocroteste
+Dragostea- Ti ma inconjoara,
+Iubirea Ta imi e comoara.
+
+[r1]
+/: Langa Tine sunt in siguranta
+Langa Tine vreau sa stau pururea,
+Tu imi esti cararea spre viata
+Nu pleca, nu pleca din viata mea :/.
+
+[s2]
+In fiecare zi vad bunatatea Ta,
+La fiecare pas simt iubirea Ta.
+Mana Ta ma sprijineste,
+Dreapta Ta ma ocroteste
+Dragostea-Ti ma inconjoara,
+Iubirea Ta imi e comoara.
+
+[order]
+s1,r1,s2,r1

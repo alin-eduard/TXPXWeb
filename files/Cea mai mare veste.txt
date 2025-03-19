@@ -1,0 +1,39 @@
+[s1]
+Mi bemol
+Cea mai mare veste
+Care-a răsunat,
+Pe pământul nostru
+Şi în lung şi-n lat,
+Este Vestea Sfântă,
+Mielul Sfânt jertfit;
+Cine-n El se-ncrede
+Este mântuit.
+
+[r1]
+O, ce Veste Sfântă! Glorie, Isus!
+Tu povara lumii ai purtat supus.
+Glorie, mărire, veşnic vom cânta!
+Biruinţa noastră-n har o vom avea!
+
+[s2]
+Vestea cea mai bună
+Şi-azi răsună lin!
+Pământeni - mulţime,
+Azi la Tine vin;
+Cine vrea şi crede,
+Încă este har...
+O, veniţi, prieteni,
+la cerescul dar!...
+
+[s3]
+Peste continente,
+zboară glorios
+A salvării veste,
+prin Isus Hristos.
+Daru-i fără plată.
+Nu mai amânaţi,
+Ca să nu rămaneti
+veşnic neiertaţi!
+
+[order]
+s1,r1,s2,r1,s3,r1

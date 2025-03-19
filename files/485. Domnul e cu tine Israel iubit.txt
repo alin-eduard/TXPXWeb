@@ -1,0 +1,47 @@
+[s1]
+485.      Mi
+Cor: Domnul e cu tine, Israel iubit
+Ce-a promis El duce
+Până la sfârşit
+/: Mâna Lui vedea-vei
+Cum lucra-va azi
+Mergi cu El ‘nainte,
+Mergi ca un viteaz. :/
+
+[s2]
+1. Ce putere poartă sub pecetea Sa
+Cuvântul ce-l spune sfântă Biblia
+/: Tu vei crede pe deplin convins
+Vei vedea pe Domnul
+Cel ce-i neînvins. :/
+
+[r1]
+Cor: Domnul e cu tine, Israel iubit
+Ce-a promis El duce până la sfârşit
+/: Mâna Lui vedea-vei
+Cum lucra-va azi
+Mergi cu El ‘nainte,
+Mergi ca un viteaz. :/
+
+[s3]
+2. Prin furtuni în viaţă oameni’s învinşi
+Şi-n dureri şi grijuri lumea i-a cuprins
+/: Cei ce sunt în lume privesc disperaţi
+Noi privim la Domnul şi suntem 								salvaţi. :/
+
+[s4]
+3. Bizuiţi pe Domnul, pe cuvântul sfânt
+Bazaţi pe credinţa-n sfântul legământ
+/:Tot ce noi îi cerem El azi ne va da
+Căci la El sunt toate, sunt în mâna 									Sa:/
+
+[s5]
+4. Toţi să-mi stea-mpotrivă
+Marea-n spume chiar
+Nu mă tem căci astăzi
+Sunt sub dreapta Sa
+/: El mă ocroteşte, El îmi e ajutor
+Tot El mă va scoate-n veci biruitor. :/
+
+[order]
+s1,s2,r1,s3,r1,s4,r1,s5,r1

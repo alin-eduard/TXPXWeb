@@ -1,0 +1,36 @@
+[s1]
+1490.      Sol
+Cu Isus în lumea asta voi merge eu mereu
+Înainte-i ţara mea înainte-i Dumnezeu
+Deşi calea e-ngustă şi-i plină de încercări
+Cu Isus ajunge-vom în veşnicii
+Cor:   Isus Isus este calea-n ţara bucuriilor
+Este jertfa ce ne poartă
+Spre limanul mult dorit
+Isus Isus este calea-n ţara bucuriilor
+Crede-n El şi-n veci tu vei fi fericit
+
+[s2]
+2.   Când durerea te doboară amice nu uita
+Înainte-i ţara ta înainte-i Dumnezeu
+Atunci ochii ţi-i ridică şi cere mila Sa
+Căci prin harul Său El te va ajuta
+Cor:   Isus Isus este calea-n ţara bucuriilor
+Este jertfa ce ne poartă
+Spre limanul mult dorit
+Isus Isus este calea-n ţara bucuriilor
+Crede-n El şi-n veci tu vei fi fericit
+
+[s3]
+3. Niciodată pe a ta cale să nu te uiţi înapoi
+Înainte-i ţara ta înainte-i Dumnezeu
+Vrednic de vei fi acolo la dreapta Lui vei sta
+O mireasă când vei fi în ţara ta
+Cor:   Isus Isus este calea-n ţara bucuriilor
+Este jertfa ce ne poartă
+Spre limanul mult dorit
+Isus Isus este calea-n ţara bucuriilor
+Crede-n El şi-n veci tu vei fi fericit
+
+[order]
+s1,s2,s3

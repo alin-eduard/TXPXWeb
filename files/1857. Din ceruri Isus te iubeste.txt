@@ -1,0 +1,27 @@
+[s1]
+1857
+1. Din ceruri Isus te iubește
+Pe mine pe tine la fel
+Prin har mântuit prin credință
+Va fi cel ce vine la El.
+
+[r1]
+Cor: /: Ca El :/
+Nu-i nimenea la fel
+Să poată da
+În dar mântuirea.
+
+[s2]
+2. Pe crucea din dealul Golgotei
+Viața Lui sfântă Și-a dat
+Ca eu și oricine să poată
+Trăi izbăvit de păcat.
+
+[s3]
+3. Veniți la Isus cu nădejde
+Căci El încă n-a obosit
+Iertare să dea prin credință
+Viață ce n-are sfârșit.
+
+[order]
+s1,r1,s2,r1,s3,r1

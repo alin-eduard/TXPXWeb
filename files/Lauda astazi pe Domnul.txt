@@ -1,0 +1,32 @@
+[s1]
+Laudă-L astăzi pe Domnul,
+Suflet zdrobit de sarcini!
+Laudă-L printre suspine,
+Laudă-L printre lacrimi!
+
+[r1]
+/: Drumul slavei
+Trece şi pe la cruce,
+Credincioşii
+Ştiu în genunchi să-L urce! :/
+
+[s2]
+Mare să-ţi fie credinţa,
+Roagă-te şi fii tare.
+Nu ocoli suferinţa
+Ea îţi va da răbdare!
+
+[s3]
+Domnu-ţi întinde, aproape,
+Mâinile Sale bune.
+Scumpe-s oftările toate
+Spuse în rugăciune!
+
+[s4]
+Nu e spre cer altă cale,
+Mergi cu Isus întruna!
+Numai pe urmele Sale
+Poţi dobândi cununa!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

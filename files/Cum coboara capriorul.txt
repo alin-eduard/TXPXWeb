@@ -1,0 +1,22 @@
+[s1]
+Cum coboară căpriorul
+Ca să-şi afle-n văi gazela
+Tot aşa venea şi Iacov
+/: Spre Rahela. :/
+Dar la uşa ei închisă
+În suspinu-acelei ore
+El oftase, că-l vînduse
+Pentr-un pumn de mandragore.
+
+[s2]
+O, asemeni către tine
+În miresme de narcisă
+Vine Domnul tău şi află
+/: Uşa-nchisă. :/
+Căci în loc să-I ieşi în cale
+Să-ţi laşi duhul să-L adore
+Tu te-ascunzi de Domnul slavei
+Pentr-un pumn de mandragore !
+
+[order]
+s1,s2

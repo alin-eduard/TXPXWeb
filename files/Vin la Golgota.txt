@@ -1,0 +1,42 @@
+[s1]
+Vreau să cânt depre iubirea
+Părintelui meu ceresc
+Ce-a trimis în lumea noastră
+Pe-al Său unic Fiu ceresc
+Să traiască o viată sfântă
+Să moară crucificat
+Să învieze spre salvarea
+Omenirii din păcat.
+
+[r1]
+Vin azi la Golgota
+Moartea unică înspre Rai
+Getismani şi Dolorosa
+Locul Suferinţei căi
+Ne prezintă mântuirea
+Pentru care Isus
+A lăsat Slava Cerească
+Şi-a Sa glorie de Sus
+
+[s2]
+Golgota de ar şti să-ti spună
+Groaza şi chinul cumplit
+Care Isus îndura
+Când pe cruce S-a jertfit
+Ai putea să vezi iubirea
+Dragostea lui Dumnezeu
+Pentru întreaga omenire
+Şi pentru sufletul tău
+
+[s3]
+Azi la crucea suferinţei
+Mai exista înca har
+Pentru sufletele care
+Vor sa vină la Altar
+Să primească mântuirea
+Sufletului care în dar
+Le-a fost dată prin credintă
+Pentru a intra în Rai.
+
+[order]
+s1,r1,s2,r1,s3,r1

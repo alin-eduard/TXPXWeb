@@ -1,0 +1,26 @@
+[s1]
+Domnul fie laudat
+Pentru tot ce El ne-a dat
+Pentru Harul Sau bogat
+Domnul fie laudat!
+
+[r1]
+Aleluia, aleluia! 2x
+Slavă-n cer si pe pămant
+Aleluia, aleluia! 2x
+Slavă Tatălui Preasfânt!
+
+[s2]
+Domnul fie laudat
+Pentru Cel ce ne-a salvat
+Pentru sangele-I varsat
+Domnul fie laudat!
+
+[s3]
+Domnul fie laudat
+Pentru Darul minunat
+Pentru-al Pacii Imparat
+Domnul fie laudat!
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,28 @@
+[s1]
+Vie copilaşii la cel răstignit
+Pentru cei păcătoşi
+Domnul a murit
+/: Iată-L pus pe cruce
+Blând şi răbdător
+Plin de răni şi sânge
+Bunul Salvator :/
+
+[s2]
+Inimile voastre Lui să le predaţi
+Prin căinţă sfântă
+Lacrimi să vărsaţi
+/: Căci păcatul vostru
+Domnul l-a purtat
+Pentru vina noastră
+moartea a răbdat :/
+
+[s3]
+Răsplătiţi-L bine pe crucificat Spuneţi-I o, Doamne
+Ţie ne-am predat
+/: Prin al Tău scump sânge
+Tu ne-ai curăţit
+Pentru veşnicie
+Tu ne-ai mântuit: /
+
+[order]
+s1,s2,s3

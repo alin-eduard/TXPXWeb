@@ -1,0 +1,42 @@
+[s1]
+1.Când în calea-mi
+Spre pierzare
+Alergam neştiutor
+M-ai chemat, plin de iubire
+Scumpul meu Mântuitor.
+1039.							       Fa m
+
+[r1]
+Cor:
+/: Tu m-ai smuls
+Din valul lumii
+Şi din mâna celui rău
+Şi din rob al rătăcirii
+M-ai făcut copilul Tău! :/.
+
+[s2]
+2.Binecuvântat fii veşnic
+Cel ce atâta m-ai iubit!
+Binecuvântată fie
+Jertfa ce m-a mântuit!
+
+[s3]
+3. Binecuvântată fie
+Dragostea ce m-a chemat
+Şi cuvântul şi blândeţea
+Inimii ce m-a-ndemnat!
+
+[s4]
+4. Binecuvântat să fie
+Vasul ce l-ai folosit
+Să mă cheme să mă-ntoarcă
+De pe drumul rătăcit!
+
+[s5]
+5. Binecuvântată fie
+Ziua-n care Te-am aflat
+Căci cu orice zi mi-e drumul
+Tot mai binecuvântat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

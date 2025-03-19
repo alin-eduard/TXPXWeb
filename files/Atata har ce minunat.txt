@@ -1,0 +1,32 @@
+[s1]
+Atâta har, ce minunat!
+Azi pot să fiu salvat!
+Am fost pierdut nenorocit,
+Dar Domnul m-a iubit!
+
+[s2]
+Salvat prin harul lui Hristos,
+Aşa un păcătos!
+De-acum pe veci, în Dumnezeu,
+Mi-am pus tot dorul meu!
+
+[s3]
+O altă viaţă mi-a promis
+Şi am un drum deschis;
+Cu dragoste Îl voi urma
+Cât viaţă voi avea!
+
+[s4]
+Ispite-n cale de-ar veni
+Primejdii mii şi mii,
+Eu lupt şi ştiu că nu-n zadar
+Căci am belşug de har!
+
+[s5]
+Iar când voi fi în slava Lui
+Cum alta-n lume nu-i,
+Atunci cânta-voi iar şi iar,
+Uimit de-atâta har!
+
+[order]
+s1,s2,s3,s4,s5

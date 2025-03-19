@@ -1,0 +1,27 @@
+[s1]
+266
+1. Dumnezeul meu cel mare
+Dumnezeul meu cel drept
+Îți înalț a mea cântare
+Zi de zi eu Te aștept.
+
+[r1]
+Cor: Către Tine strig și zic
+Du-mă sus pe stâncă
+Doamne Tu-mi ești adăpost
+Și ocrotire sfântă.
+
+[s2]
+2. Când durerea mă doboară
+Și-ntristarea la pământ
+Fac din Tine adăpost
+Mă-ntărește-al Tău cuvânt.
+
+[s3]
+3. Pentru toate Îți dau slavă
+Te ador și Te slăvesc
+Toată viața mea o, Doamne
+Ne-ncetat Îți mulțumesc.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,34 @@
+[s1]
+1. Întoarce-te la dragostea dintâi
+Întoarce-te, o, până nu-i târziu.
+Întoarce-te la ceea ce-ai primit
+Iubirea ta, iubire din trecut.
+688.
+
+[r1]
+Cor:
+/: Celui ce va birui :/
+Îi voi da să mănânce
+Din pomul vieţii
+Din raiul lui Dumnezeu.:/
+
+[s2]
+2. Întoarce-te, o, nu mai sta pe loc
+Adu-ţi aminte de-al iubirii foc
+Cum pentru Domnul tu te-ai ostenit
+În dragostea dintâi cum L-ai primit.
+
+[s3]
+3. Întoarce-te căci Domnul te-a ales
+Nu-ţi părăsi dragostea cea dintâi
+Cum au părăsit acei din Efes
+Întoarce-te şi iar te pocăieşti.
+
+[s4]
+4. Întoarce-te că dacă nu să ştii
+Altfel la tine Eu voi reveni
+Şi-ţi voi lua ’napoi tot ce ţi-am dat
+Şi sfeşnicul din loc va fi mutat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,41 @@
+[s1]
+1936
+1. Isuse prieten drag în orice vreme
+Cu Tine am deplină fericire
+Căci lângă Tine Doamne nu m-aș teme
+De-aş întâlni a iadului oștire
+/: Când stau cu Tine Doamne-n părtășie
+Îți simt a Ta prezență minunată
+Fiori de nedescris de bucurie
+Cuprinzi ființa mea împovărată :/.
+
+[s2]
+2. Căci Tu reverși comori nebănuite
+Când stau smerit să îți ascult cuvântul
+Și clipele acelea fericite
+O scară leagă cerul cu pământul
+/: Când îți urmez povața Ta curată
+Domnește bucuria peste mine
+Și ca-ntrun vis frumos parcă deodată
+Tot ce-i comoară-n lume-mi aparține :/.
+
+[s3]
+3. Chiar și atunci când Tu îmi tai cărarea
+Și mă oprești din drum prin suferință
+Veghezi asupra mea ca încercarea
+Nicicând să nu zdrobească
+A mea credință.
+
+[s4]
+4. Când trec prin noaptea
+Neagră a-ntristării
+Tu soare sfânt din cer trimiți o rază
+Ce poartă-n ea balsamul mângâierii
+Lumina ce din nou mă-nviorează
+În sânul ei iubirea Ta mă poartă
+Și mă întreb adesea cine oare
+Dacă ar putea să mă despartă
+Isuse scump de dragostea Ta mare.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,47 @@
+[s1]
+Priveghem în aşteptarea
+prinţului sfânt glorios
+Aşteptăm mult întâlnirea
+cu al nost Isus Hristos
+Nimeni în lume fericire
+nu ne da cum El ne-a dat
+Aşteptăm că mult nu este
+pân’ la timpul de plecat
+
+[r1]
+Va veni şi vremea noastră
+Duhul Sfânt ne-a înălţa
+Mai sus de zarea albastră
+Glorie, Aleluia.
+
+[s2]
+Doamne Tu ne-asculţi suspinul
+ruga lauda îţi cântă în cânt
+Omu-i schimbător el trece
+Tu rămâi acelaşi sfânt
+Am fost mulţi urâţi de
+lume şi de râsul celor răi
+Greul n-am avut cui spune
+căci am vrut să fim ai tăi.
+
+[s3]
+Marea urlă a ei valuri
+dau semnale tuturor
+Că-ntr-o zi uita-vom toate
+când ne-om înălţa în zbor
+Se fac pregătiri în ceruri
+ceru-aşteptă marea zi
+Îngerii vuiesc în coruri,
+căci cu noi în cer vor fi.
+
+[s4]
+Dacă azi vremea târzie
+lasă-n urma ei pustiu
+Dacă iarna a fost să fie
+peste toate una ştiu
+Dincolo de neaua rece
+văd câmpiile-nverzind
+Dincolo de-apusul vieţii văd morminte răsărind.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

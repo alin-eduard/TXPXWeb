@@ -1,0 +1,83 @@
+[s1]
+1319.
+1.  Cum pot să-ţi cânt Isuse
+Când crucea-i grea pe cale
+Când valurile aspre
+Vârtej vin pe cărare.
+/: Cum pot să-ţi cânt eu vesel
+Când lacrimile mele
+Din orişicare clipă
+Sunt parcă mai amare:/
+
+[s2]
+2.  Când cred că lupta-i gata
+Şi valurile s-au sfârşit
+Îndată alte valuri
+În cale mi-au ieşit.
+/: Vârtej mă-nconjură
+Săgeţile îmi sunt multe
+Cum pot să-ţi cânt Isuse
+Cum inima să-mi cânte:/
+
+[s3]
+3.  Când văd pe-aceia care
+Tu Mi i-ai dat din lume
+Cum mai adânc se-afundă
+Tot în deşertăciune.
+/: Ah inima mă doare
+Suspinurile îmi cresc
+O cum să-ţi cânt Isuse
+Cum să mă-nveselesc:/
+
+[s4]
+4.  Să spun despre al Tău nume
+Să arăt a Ta iubire
+Ei tot mai mult spre lume
+Se-avântă cu iubirea.
+/: O vino Tu şi cheamă
+Şi spune-le ce voieşti
+Şi fă ca să te-audă
+Glasul când le vorbeşti:/
+
+[s5]
+5.  Şi spune-i Tu Isuse
+De harul Tău pe care
+Tu l-ai plătit pe cruce
+Cu lacrimi şi sudoare.
+/: Şi atunci cânta-voi vesel
+Chiar prin orice încercare
+Cânta-voi biruinţă
+Te voi lăuda pe cale:/
+
+[s6]
+6.  O mai priveşte o clipă
+La noi în adunare
+Şi fiecărui suflet
+Le fă o cercetare.
+/: Şi ne uneşte Doamne
+Pe părinţii cu copii
+Pe fraţi cu a lor surori
+Pe soţ cu a lor soţii:/
+
+[s7]
+7.  Căci numai Tu Isuse
+Ai milă şi înduare
+De acei ce au căpătat
+Şi au căzut pe cale.
+/: Tu eşti samariteanul
+Ce scapi pe păcătoşi
+O vino şi ridică
+Pe cel neputincios:/
+
+[s8]
+8.  O făne să fim una
+O dragoste-n lucrare
+Cu tine totdeauna
+Să mergem pe cărare.
+/: Şi-atunci cânta-voi vesel
+Chiar prin orice încercare
+Şi plin de bucurie
+Te voi lăuda pe cale:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

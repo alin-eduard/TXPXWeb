@@ -1,0 +1,32 @@
+[s1]
+Nu ai tu loc în inimă,
+Pe Isus ca să-L primeşti?
+El ca să-I deschizi aşteaptă,
+Dar tu la El nu grăbeşti?
+
+[r1]
+Spune păcătosule, dar,
+Ai tu loc pentru Isus?
+Inima ta I-o deschide,
+Cât mai ţine al Său har.
+
+[s2]
+Bucuria pământească,
+O primeşti în sânul tău,
+Dar pentru Isus nu este
+Loc la tine-n inimă?
+
+[s3]
+Suflete te rog dă-ţi seama,
+Zilele-ţi trec ca vântul;
+Ce câştig ai tu din lume,
+De-ţi vei pierde sufletul?
+
+[s4]
+O, primeşte-L, dar pe Isus,
+Fericirea El ţi-a da;
+Viaţă veşnică e în El,
+Asta va fi şi a ta.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

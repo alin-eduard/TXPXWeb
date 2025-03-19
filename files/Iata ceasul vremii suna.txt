@@ -1,0 +1,38 @@
+[s1]
+/: Iată, ceasul vremii sună
+Timpul de sfàrşit la Neamuri !:/
+/: Sunetu-i duios răzbate,
+Printre inimi descuiate…
+Cu fior înalţă toate
+/:A vegherii sfinte flamuri.:/:/
+3
+
+[s2]
+/: Iată ,ceasul vremii sună
+Ziua când Se-ntoarce Domnul! :/
+/: O,Biserică, te scoală
+Din păcat şi amorţeală!
+Vezi de candela ţi-e goală
+/: Şi să nu te prindă somnul!:/ :/
+2
+
+[s3]
+/: Iată, ceasul vremii sună
+Vremea-ntoarcerii în slavă! :/
+/: Dinspre zări, grăbesc...se-arată
+Nişte paşi ce vin... se-ndreaptă…
+Tu, Mireasă, te deşteaptă !
+/: Mirele apare-n grabă ! :/ :/
+1
+
+[s4]
+/: Iată, ceasul vremii sună
+Să ne-alegem… e sfârşitul !… :/
+Sau etern în fericire
+Sau o veşnică pieire;
+De această hotărâre,
+/: O s-atârne infinitul. :/ :/
+0
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,32 @@
+[s1]
+Râuri de binecuvântare
+Doamne acum să reverşi
+Peste a Ta adunare
+Căci Tu pe toţi ne iubeşti
+
+[r1]
+/: Doamne revarsă
+din harul Tău peste noi
+El pe toti să ne unească
+Una să fim şi-n nevoi :/
+
+[s2]
+Râuri de binecuvântare
+Revarsă acum prin Cuvânt
+Să-L ascultăm fiecare
+Să-L împlinim pe Pământ
+
+[s3]
+Râuri de binecuvântare
+Să ne facă toţi uniţi
+Un gând, un cuget, o stare
+Ca să fim toţi fericiţi
+
+[s4]
+Râuri de binecuvântare
+Să inunde-al Tău popor
+Căci prin puterea Ta mare
+Noi vom zbura către nori
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

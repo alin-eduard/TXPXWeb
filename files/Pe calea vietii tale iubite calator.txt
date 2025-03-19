@@ -1,0 +1,46 @@
+[s1]
+Pe calea vieţii tale iubite călător,
+Prin valea umbrei morţii cu suspine.
+De ce oftezi adesea în deznădejde cazi,
+Şi parcă izbăvirea numai vine.
+
+[r1]
+Să nu spui niciodată: „Sunt uitat!”,
+Căci Domnul înspre tine,El priveşte.
+/:Când urlă valu-nfuriat
+şi ţi-e obrazul înlăcrimat,
+El mâna-ntinde şi te izbăveşte.:/
+
+[s2]
+Când treci o luptă grea,
+o alta vine-n loc,
+Şi-ţi pierzi puterea ce-o aveai în tine.
+Când cel rău îţi şopteşte:
+„Acuma eşti învins!”,
+Încrede-te în Domnul, oh creştine.
+
+[s3]
+Priveşte-n urma ta
+cum El te-a izbăvit,
+De-atâtea ori din clipe de durere.
+Isus Hristos e-Acelaşi
+şi ieri şi azi şi-n veci,
+Mai crede înc-odată în a Sa putere.
+
+[s4]
+Mai este doar puţin
+şi toate s-or sfârşi,
+Şi lacrimi şi dureri şi clipe-amare.
+Mai rabdă înc-un ceas
+Isus vine-n curând,
+Să-I i-a pe-ai Săi în veşnică splendoare.
+
+[s5]
+Să nu spui niciodată: „Sunt uitat!”,
+Căci Domnul înspre tine, El priveşte.
+/:Când urlă valu-nfuriat
+şi ţi-e obrazul înlăcrimat,
+El mâna-ntinde şi te izbăveşte.:/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5

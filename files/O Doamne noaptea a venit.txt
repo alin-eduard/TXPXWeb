@@ -1,0 +1,37 @@
+[s1]
+O, Doamne, noaptea a venit,
+Ascultă ruga mea
+În sufletu-mi neodihnit
+Coboară pacea Ta,
+Coboară pacea ta...
+
+[s2]
+Rămâi cu mine pe-nserat
+Căci nu mai pot vedea,
+Când totu-n jur e-ntunecat
+Tu eşti lumina mea,
+Tu eşti lumina mea!
+
+[s3]
+Prin întuneric de păcat
+Tu poţi să faci minuni,
+Să fiu mereu înconjurat
+De îngerii cei buni,
+De îngerii cei buni!
+
+[s4]
+Cu psalmi închide ochii mei,
+Fereşte-mă de rău,
+La Tine-aproape să mă iei
+Să-adorm pe braţul Tău,
+Să-adorm pe braţul Tău
+
+[s5]
+Iar când va trece noaptea grea,
+Şi-n zori mă voi trezi,
+Să văd Împărăţia Ta
+Pe plai de veşnicii,
+Pe plai de veşnicii.
+
+[order]
+s1,s2,s3,s4,s5

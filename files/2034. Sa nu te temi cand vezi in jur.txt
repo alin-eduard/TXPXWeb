@@ -1,0 +1,45 @@
+[s1]
+2034
+1. Să nu te temi când vezi
+În jur a răului oștiri
+Căci nu te pierde Dumnezeu
+O clipă din priviri
+Deschide-ți ochii larg să vezi
+Câți sunt de partea ta
+Mai mulți decât acei ce vor
+Viața să ți-o ia.
+
+[r1]
+Cor: Nu-i nici o-ncercare jos
+Aici sub soare
+Mai presus decât puterea ta
+Tatăl îți trimite când treci prin ispite
+Noi puteri din cer să poți răbda.
+
+[s2]
+2. Să nu te temi
+Când treci prin ceasul
+Vieții cel mai greu
+Și nu uita căci nu ești rob
+Ești fiu de Dumnezeu
+Când leii-n groapa larg deschis
+Așteaptă-nfometați
+Tu să nu uiți că leii
+Au fost de Dumnezeu creați.
+
+[s3]
+3.Să nu te temi când te-amenință Apele adânci
+Și-nvață-n toate credincios
+Să poți păși pe stânci
+Căci prin credință-n Dumnezeu
+Acel neprihănit
+Va fi biruitor în luptă până la sfârșit.
+
+[s4]
+4.Traim azi vremuri de necaz vestite-n prorocii
+Curand cu slava sus pe nori Isus va reveni
+Srajeri un ceas doar mai vegheati si nu va indoiti
+Caci e aproape marea zi cand five-ti rasplatiti
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

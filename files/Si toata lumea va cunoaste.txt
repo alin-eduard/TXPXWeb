@@ -1,0 +1,38 @@
+[s1]
+"Si toata lumea va cunoaste
+Ca sunteti ucenicii mei,
+/:Cind pacea o veti iubi de-a pururi
+Si va fi dragoste-ntre voi. :/
+
+[s2]
+In lume, vei avea necazuri,
+Dar indrazniti necontenit:
+/: Voi, nu uitati ca fii imi sunteti
+Si moartea eu am biruit! :/
+
+[s3]
+Asa pe ucenici adesea
+Duoios Isus ii invata
+/: Si nu s-a auzit vreodata
+Mai blanda voce ca a Sa. :/
+
+[s4]
+Erau huliti, scuipati in fata,
+Batuti, salbatic, chinuiti,
+/: In temnita-aruncati la fiare,
+De toti intruna-au fost huliti. :/
+
+[s5]
+Iar ei, saraci, putini si singuri,
+Straini de tot in lume chiar,
+/: Din inima, rosteau cuvintul
+Prin Duhul Sfint, prin al Sau har.:/
+
+[s6]
+De cind, de pe pamint le ceruri,
+Stapinul lumii s-a-naltat,
+/: Apostoli-au plecat in lume
+Sa predice neincetat. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

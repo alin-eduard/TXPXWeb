@@ -1,0 +1,22 @@
+[s1]
+/: Isus e tăria mea (x3)
+El e tăria mea. :/
+
+[r1]
+/: Numele Lui e măreţ (x3)
+El e tăria mea. :/
+
+[s2]
+/: Isus este credincios (x3)
+El e tăria mea. :/
+
+[s3]
+/: Isus e minunat (x3)
+El e tăria mea. :/
+
+[s4]
+/: El e sfânt (x3)
+El e tăria mea. :/
+
+[order]
+s1,r1,s2,r1,s3,s4

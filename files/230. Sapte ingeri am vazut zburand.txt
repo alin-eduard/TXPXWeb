@@ -1,0 +1,82 @@
+[s1]
+1. /:Şapte îngeri:/  am văzut zburând
+/:De la tronul:/ Tatălui cel Sfânt
+/:Spre pământ:/
+Toţi s-au îndreptat
+Şi cu a lor trâmbiţi de aur
+Ei au trâmbiţat.
+230.
+
+[r1]
+Cor:
+/:Deşteptare:/
+Sună trâmbiţele îngerilor sfinţi
+/:Deşteptare:/
+Deşteptaţi-vă creştini
+Până când dormiţi.
+
+[s2]
+2. /:Dumnezeul:/ cel înfricoşat
+/:La îngeri:/ ordin El a dat
+/:Să răsune:/ la întreg pământ
+Deşteptare la poporul sfânt.
+
+[s3]
+3. /:Primul înger:/ când a răsunat
+Foc şi piatră, foc şi sânge
+Atunci a plouat
+Toţi copacii,
+Toată iarba verde de pe câmp
+A fost arsă a treia parte
+În acelaşi timp:/
+
+[s4]
+4. /:Apa mării:/
+În sânge s-a schimbat
+/:Când al doilea:/ înger a sunat
+Şi atunci un munte mare
+De foc a căzut
+Peste munţi şi peste stânci,
+Şi le-a prăbuşit.
+
+[s5]
+5. Peste munţi şi peste ape
+A căzut venin
+Căci a căzut o stea mare
+Numită Pelin
+Cine va bea din apa şi el va muri
+Căci va curge-n orice ţară,
+În aceeaşi zi.
+
+[s6]
+6. Şi în lună şi în soare și în stele sus
+Şi a treia parte a lor lumină s-a stins
+Căci al patrulea răsunet
+Din cer a venit
+Vocea lui părea de tunet,
+Voce de înger.
+
+[s7]
+7. Şi al cincilea răsunet
+Când a răsunat
+/:Tot văzduhul:/ s-a întunecat
+/:Mii de cară:/, cai şi călăreţi
+/:Se sculară:/ foarte îndrăzneţi.
+
+[s8]
+8. Patru îngeri au fost dezlegaţi
+Când al şaselea răsunet
+Din cer a sunat
+De la o margine la alta până la Eufrat
+Cu a lor trâmbiţe de aur ei au răsunat.
+
+[s9]
+9. Cu al şaselea răsunet taina s-a sfârşit
+Taina ascunsă cea din veacuri
+Acum s-a împlinit
+Peste întreaga omenire, peste întreg pământ
+Domneşte Împăratul Slavei,
+Împăratul Sfânt.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1,s8,r1,s9,r1

@@ -1,0 +1,26 @@
+[s1]
+Din sfânt izvor pe Golgota
+Mult sânge s­-a vărsat,
+Izvoru­-acesta minunat
+Ne spală de păcat.
+
+[r1]
+Şi pentru­-al meu păcat
+A curs izvorul minunat;
+Isuse­-n sângele­-Ţi vărsat,
+Iertarea­-n veci mi­-ai dat!
+
+[s2]
+Acest izvor a fost aflat
+La cruce de tâlhar;
+Crezând în jertfa lui Hristos
+A fost salvat prin har.
+
+[s3]
+Puterea­ acestui sfânt izvor
+aceeaşi e mereu.
+Ea mă păstrează-­n legământ
+Cu Salvatorul meu.
+
+[order]
+s1,r1,s2,r1,s3,r1

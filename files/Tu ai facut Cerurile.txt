@@ -1,0 +1,22 @@
+[s1]
+/: Tu ai făcut Cerurile
+Pământul este în mâna Ta
+Şi munţii întregi şi apele
+Arată mareţia Ta.
+Eşti Dumnezeul universului
+Eşti Creatorul meu
+Tu ţii în mâna Ta, Isus
+Pământul întreg şi sufletul meu :/
+
+[s2]
+Natura întreagă Te măreşte
+Şi spune ca eşti minunat
+Şi-n fiecare floare eu văd
+splendoarea Ta
+Iar stropul de ploaie şi
+Fulgul alb de nea
+Îmi spune că eşti necuprins
+Dar Tu, Tu exişti în inima mea.
+
+[order]
+s1,s2

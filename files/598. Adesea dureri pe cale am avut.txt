@@ -1,0 +1,56 @@
+[s1]
+1.  Adeseori dureri pe cale am avut
+Şi în marea suferinţă
+Am fost zdrobit
+Eu priveam mereu spre ceruri
+Unde mi-e izbăvitorul,
+Domnul meu
+Şi m-ai întărit
+În ceasul cel mai greu.
+598.
+
+[s2]
+2. Domnul meu de mine s-a apropiat
+Şi-n mila Lui aşa mi-a cuvântat
+Iată-mă îţi duc povara
+Ce pe tine te apasă fiul Meu
+Şi de azi înainte
+Eu sunt Domnul tău.
+
+[s3]
+3. Te vedeam în suferinţă lăcrimând
+Şi în inimă de mine întrebând
+Dar în mila Mea de tine
+Eu ţi-am trimis izbăvire fiul Meu
+Şi de azi înainte
+Eu sunt Domnul tău.
+
+[s4]
+4. Eu ţi-am îngăduit suferinţa ta
+Căci îmi ştiu durerea
+Pentru turma mea
+Căci te doare pentru ai tăi
+Şi pe Mine pentru-ai mei m-a durut
+Căci cel rău i-a smuls
+Din locul cel mai sfânt.
+
+[s5]
+5. O, Doamne îţi mulţumesc
+De mila Ta
+Te slăvesc
+Că Tu eşti izbăvirea mea
+Că nu este altu-n lume
+Să se asemene cu Tine iertător
+Puternic şi pe pământ biruitor.
+
+[s6]
+6.Viaţa mea pe veci ţie ţi-am închinat
+Împreună cu cei dragi ce mi i-ai dat
+De tine nu m-oi desparte
+Chiar de-i mare suferinţa
+Domnul meu
+Fiindcă-n mine locuieşte
+Duhul tău.
+
+[order]
+s1,s2,s3,s4,s5,s6

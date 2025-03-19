@@ -1,0 +1,53 @@
+[s1]
+1. Poporule din salvare
+Trezeşte-te pe-ngusta cale
+Căci în curând el va veni
+Biserica o va răpi
+2. Acolo sus o va duce
+Lângă izvorul cel dulce
+Lângă Isus ce s-a jertfit
+Şi pe cruce a murit
+751.
+
+[s2]
+3. Vai cum sufere cu amar
+Ducând crucea spre Calvar
+O vai cu câtă durere
+N-avea nici o mângâiere
+4. Toţi strigau în gura mare
+Să fie dat la pierzare
+Acesta-i un mincinos
+Căci a zis că e Hristos
+
+[s3]
+5. Şi pe cruce îl suiră
+Mulţi în chiote mari strigară
+Să-l legaţi şi de picioare
+Ca să nu se mai coboare
+6. Să-i faceţi şi vreo cinci răni
+În mâini, coaste şi-n picioare
+Cunună de spini pe cap
+Ca o stemă de-mpărat
+
+[s4]
+7. Şi pe când îl răstigneau
+Păsările ciripeau
+C-a murit Stăpânul lumii
+Dumnezeul mântuirii
+8. Soarele s-a întunecat
+Nici o rază n-a mai dat
+Apele s-au tulburat
+Munţii-n doliu s-au schimbat
+
+[s5]
+9. Vai mult a mai suferit
+Pentru noi că ne-ai iubit
+Acum şi eu te iubesc
+Numele Tău îl slujesc
+10. De acum până-n vecie
+Te voi sluji cu mărire
+Toată viaţa-ţi voi cânta
+Osana Aleluia.
+
+[order]
+s1,s2,s3,s4,s5

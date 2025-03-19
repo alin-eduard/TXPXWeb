@@ -1,0 +1,28 @@
+[s1]
+Adânca Ta iubire,
+Doamne o preamăresc
+Si pentru a Ta jertfire
+îti multumesc,
+La cruce pentru mine
+viata Tu ti-ai dat
+Acum eu cred în Tine
+si sunt iertat.
+
+[r1]
+/: Îti multumesc Isus, Domnul meu
+Prin jertfa Ta trăiesc si sunt al Tău,
+M-ai coplesit cu iubirea-Ti minunată
+De-aceea-Ti voi cânta viata toată. :/
+
+[s2]
+Neprihănitul sânge
+a sters păcatul meu
+Prin Tine pot învinge
+orice-i rău,
+Ce mare bogătie
+mi-ai dat prin harul Tău
+De-aceea mă-închin Tie
+o, Domnul meu.
+
+[order]
+s1,r1,s2,r1

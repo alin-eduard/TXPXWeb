@@ -1,0 +1,36 @@
+[s1]
+2207
+1. Nu dispera chiar de
+ești singur
+În locuința în care stai
+Fii bucuros c-ai avut harul
+Chemării sfinte pentru rai.
+
+[r1]
+Cor: Nu te-ndoi atunci
+când suferi
+Nu dispera când ești lovit
+Fii credincios și mulțumește
+Domnul te-a mântuit.
+
+[s2]
+2. Ești necăjit că nu vin astăzi
+La casa Domnului și ai tăi
+Dar nu uita că este o vreme
+La Dumnezeu și pentru ei.
+
+[s3]
+3. Când toți vrăjmașii
+te-nconjoară
+Te-nvinuiesc fără temei
+Rămâi smerit și fii lumină
+Tu nu te-asemăna cu ei.
+
+[s4]
+4. Tot plânsul tău și rugăciunea
+Le știe-n ceruri Tatăl tău
+Te luptă, rabdă, vei învinge
+Cu tine este Dumnezeu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

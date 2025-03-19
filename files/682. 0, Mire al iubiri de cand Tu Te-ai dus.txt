@@ -1,0 +1,44 @@
+[s1]
+1. O, Mire al iubirii
+De când Tu Te-ai dus
+Mireasa priveşte în zare
+Şi aşteaptă întruna
+Precum Tu ai spus
+Să stea tot mereu vegheatoare.
+682.
+
+[r1]
+Cor: 	De ce nu vii
+O, Mire scump, o, Mire drag
+O, până când în nopţi târzii
+Noi te aşteptăm
+Plângând în prag.
+
+[s2]
+2. O, Mire al iubirii Isuse iubit
+Întreaga-mi făptură suspină
+Şi aşteaptă cu toţii acel răsărit
+Şi nunta cerească să vină.
+
+[s3]
+3. O, Mire al iubirii, o, dulce Isus
+Adu te rugăm dimineaţa
+Cu harul măririi şi slava de sus
+Să dai tuturora viaţa.
+
+[s4]
+4. O, Mire al iubirii atâţi Bartimei
+Şi atâţia de la poarta frumoasă
+Te cheamă bolnavi
+Te cheamă, o, vino
+O vino să-i duci Tu acasă.
+
+[s5]
+5. O, Mire al iubirii întregul popor
+Te cheamă în rugă fierbinte
+Şi aşteaptă întruna
+Cu atâta tainic dor
+De aceleaşi duioase cuvinte.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

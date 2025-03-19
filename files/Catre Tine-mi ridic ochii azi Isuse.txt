@@ -1,0 +1,51 @@
+[s1]
+Catre Tine-mi ridic ochii, azi, Isuse,
+Si Te chem... O, Domnul meu, nu ma lasa,
+/: C-am ajuns in grea durere...
+Ah, trimite-mi mangaiere!
+Ca sa cad, o, Domnul meu, nu ma lasa! :/
+
+[s2]
+Se ridica valuri mari de necredinta,
+Pe oglinda linistitului ocean;
+/: Valurile vin gramada,
+Vor credinta sa mi-o piarda...
+O, condu-ma Tu, Isuse, spre liman! :/
+
+[s3]
+Ma condu, pe-a-Tale plaiuri mult dorite,
+Catre locul mult dorit si asteptat
+/: Unde chinul se sfarseste
+Si durerea nu mai este
+Si voi fi, Isuse dulce, mangaiat. :/
+
+[s4]
+Lacrimi de dor, Isuse,-apar sub gene
+Si Te chem cu dor sa vii... Nu-ntarzia!
+/: Caci candelele-s sleite
+Si fecioarele-atipite,
+Nu mai pot veghind sa stea in noaptea grea. :/
+
+[s5]
+Se-mplinesc semnele vremii... se-arata...
+Caci Isus, pe nori, curand va aparea...
+/: Suna din trambita, tare:
+Vine Mirele, fecioare!
+Sa grabim, cu toti, spre-a-L intampina!:/
+
+[s6]
+Fericiti se vor chema aceia care,
+La clipeala ochiului, vor fi schimbati
+/:Si cu cei morti din morminte
+Ce vor invia-nainte,
+Vor zbura, spre ceruri, toti inaripati:/
+
+[s7]
+Adu, Doamne, ziua ceea minunata
+Cand vazduhul va fi plin de melodii!
+/: Vei lua de pe pamant,
+Sigilatii cu Duh Sfant
+Si-i vei duce sus la Tine-n vesnicii. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

@@ -1,0 +1,16 @@
+[s1]
+O inimă curată, Doamne
+Este tot ce-mi doresc din partea Ta
+O inimă curată, Doamne
+Este tot ce-mi doresc din partea Ta
+
+[s2]
+Ref:
+/: O inimă în care răutatea să nu stea
+O inimă în care să domnești eu aș vrea
+O inimă deschisă pentru Tine, Domnul meu
+Să-Ți înalțe osanale
+Către Tine - Cel mai mare Dumnezeu. :/
+
+[order]
+s1,s2

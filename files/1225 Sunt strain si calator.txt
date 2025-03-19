@@ -1,0 +1,43 @@
+[s1]
+1.Sunt străin şi călător
+N-am aici palate
+Dar în Țara fără nori
+Ale mele-s toate
+1225
+
+[s2]
+Toate stelele de sus
+Tot ce n-are-n
+Veci apus
+Prin iubirea lui Isus
+Ale mele-s toate
+
+[s3]
+2.Domnul meu în infinit
+Întreg cerul ţine
+Pentru cine l-a zidit?
+Decât pentru mine.
+
+[s4]
+Din neant când
+Le-a chemat,
+Domnul mult S-a bucurat
+Însă, viaţa nu Și-a dat,
+Decât pentru mine
+
+[s5]
+3.Dar nici eu
+Nu-s al oricui
+Lui Îi sunt cunună
+Casa mea şi cerul Lui
+Tot ce-avem e una.
+
+[s6]
+Şi la bine, şi la rău
+Eu al Lui sunt, El al meu
+Eu nimic,
+El Dumnezeu,
+Dar ce-avem e una.
+
+[order]
+s1,s2,s3,s4,s5,s6

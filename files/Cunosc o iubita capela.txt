@@ -1,0 +1,32 @@
+[s1]
+Cunosc o iubită capelă,
+Unde cu plăcere petrec,
+Unde cu dorinţă unită,
+Cu fraţii pe Domnul slăvesc.
+
+[r1]
+/: Călătorule, vino la ea.
+Aici vei afla fraţii tăi,
+Cari la lucru bun te-or îndemna.
+Să slăveşti pe Domnul cu ei. :/
+
+[s2]
+Cunoaşteţi capela aceasta,
+La care aşa mult doresc?
+Unde cu inima smerită,
+După Dumnezeu lâncezesc.
+
+[s3]
+Cunoşti tu capela aceasta,
+Pacea umple lăuntrul ei;
+Aici pentru toţi se vesteşte,
+Cuvântul Sfânt al Bibliei.
+
+[s4]
+/: Călătorule, vino la ea,
+Aici locul păcii-i afla.
+Auzi cum răsună chemarea:
+Bine-ţi va fi, de vei asculta. :/
+
+[order]
+s1,r1,s2,r1,s3,s4

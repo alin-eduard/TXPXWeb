@@ -1,0 +1,51 @@
+[s1]
+1. Atâtea flori sunt în grădină
+Şi-atâţia crini ce s-au uscat,
+/:Căci vântul suflă, fără milă,
+Din răsăritu-ndepărtat:/
+282.
+
+[s2]
+2. Şi ce durere e-n grădină
+C-atâţia crini s-au veştejit!
+/:Şi plânge raza cristalină
+Şi roua cerului iubit:/
+
+[s3]
+3. Iar petalele iubirii
+Ce răspândesc miros de crini,
+/:Acoperite-s în ţărână
+Ah, ce durere şi suspin!:/
+
+[s4]
+4. Şi plânge Grădinaru-ntr-una
+Isus, care le-a altoit
+/:A mântuirii flori din lume,
+Ce negru vânt le-a ofilit":/
+
+[s5]
+5. Cu stropi de lacrimi, în grădină
+El le-a sădit pe înălţimi
+/:Dar n-au prins toate rădăcină,
+Ah, ce durere, ce suspin!:/
+
+[s6]
+6. Ascultă suflete acuma
+Ce porţi în piept un crin ceresc:
+/:Nu ştii că Isus și-a-ntins mâna
+Şi zice "Vino, te primesc!":/
+
+[s7]
+7. Nu vrei să fii azi, în grădină,
+Un crin ceresc, mirositor?
+/:Acolo, vântul nu mai suflă
+Şi harul e îmbietor:/
+
+[s8]
+8. Ah, recunoaşte-ţi astăzi vina
+Şi ofilirea în păcat
+/:Isus Te cheamă, Te primeşte,
+Căci harul Lui e minunat:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

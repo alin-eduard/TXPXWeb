@@ -1,0 +1,44 @@
+[s1]
+În ochii Lui privesc
+şi-aş vrea să-i înţeleg
+De ce s-a oferit să moară-n
+locul meu?
+Tresalt şi mă-nfior
+când numai mă gândesc
+La chinul Lui cumplit
+purtat în locul meu.
+
+[r1]
+O, Isuse, iartă-mi necredinţa
+Cînd pierdut căutam lumii să plac
+Căci nu pot uita ce-ai spus pe cruce
+<Tată, iartă-i că ei nu ştiu ce fac.>
+
+[s2]
+Cu lacrimi pe obraz
+Te caut neâncetat
+Nu vreau să fiu pierdut,
+doresc să fiu salvat.
+În rugă Te aştept,
+Cuvântul îl citesc
+Şi-n inimă adun
+tot ce e sfânt şi bun.
+
+[s3]
+În ochii Lui privesc
+şi-aş vrea să-i înţeleg
+De ce s-a oferit să moară-n
+locul meu.
+Tresalt şi mă-nfior
+când numai mă gândesc
+La chinul Lui cumplit
+purtat în locul meu.
+
+[s4]
+O, Isus măreşte-mi azi credinţa
+Să nu pierd nimic din ce Tu-mi dai
+Căci nu pot uita ce-ai spus pe cruce
+<Azi vei fi cu Mine-n rai !>
+
+[order]
+s1,r1,s2,r1,s3,s4,r1

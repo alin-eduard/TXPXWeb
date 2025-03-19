@@ -1,0 +1,50 @@
+[s1]
+Cand harfa ta iti amuteste,
+O, cantaretule, sa stii:
+Esti biruit si te pandeste
+Cumplitul gol din nopti pustii.
+
+[s2]
+Esti ca fantana fara apa
+Si ca statuia-ntepenit:
+La tine nu se mai adapa
+Cel ars de sete si trudit
+
+[s3]
+Nu-si mai gaseste alinare
+Cel sagetat de suferinti;
+Nici mangaieri, nici usurare,
+In scrasnetele lui de dinti
+
+[s4]
+Tu esti infrant, o, cantarete,
+Cand glasul tau a amutit.
+Si-atragatoarea frunusete
+De ochii tai s-a despartit...
+
+[s5]
+Caci viata ta e doar cantarea;
+Ea-i darul ce ti-a fost adus,
+Prin ea tu ti-ai facut intrarea,
+In slujba Domnului Isus.
+
+[s6]
+O, daca taci, traiesti infrangeri
+Si chinuri de neindurat;
+In suflet totdeauna sangeri
+Si trupu-n neguri ti-e-mbracat.
+
+[s7]
+Cand harfa ta isi curma cantul
+O, cantaretule, esti stins...
+Zdrobit ti-e duhul de pamantul
+Ce te-a atras si te-a cuprins
+
+[s8]
+Cantand iti vei pastra puterea
+Si sufletul in veci frumos;
+Ducand in cantec mangaierea,
+Esti mangaiat tu, de Hristos...
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

@@ -1,0 +1,51 @@
+[s1]
+1. Domnul plin de milă
+La El m-a chemat
+Şi de-a Lui chemare
+Noi am ascultat
+345.
+
+[s2]
+Tot ce-i fărădelege
+Noi am părăsit
+După Tine Doamne,
+Iată am venit.
+
+[s3]
+2. Şi-i atât de bine
+Să-L urmezi mereu
+Să te-ncrezi întruna-n
+Bunul Dumnezeu
+
+[s4]
+Şi să-i zici
+"O, Doamne veşnic sunt al Tău
+Tu eşti totu-n mine,
+Tu-mi eşti Dumnezeu".
+
+[s5]
+3. Am urmat pe Domnul
+Când ne-a zis "Veniţi
+Pentru veşnicie
+De-azi vă pregătiţi“
+
+[s6]
+Şi-am lăsat noi totul;
+L-am urmat cu dor
+Să intrăm odată
+În ceata sfinţilor.
+
+[s7]
+4. De venim la Isus,
+De orice lucru rău
+Scut şi apărare
+Fi-va pieptul Său
+
+[s8]
+Şi în ziua aceea,
+Când plecăm de-aici
+Vom ajunge-n ceruri,
+Fi-vom fericiţi.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

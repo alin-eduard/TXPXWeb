@@ -1,0 +1,48 @@
+[s1]
+1104                                                                   La b M
+1./:Am cămin
+Mai sus de nori
+În Țara Gloriei:/
+Când vine Isus
+
+[r1]
+/:Da, Isus, da, Isus
+Aminteşte-mă:/
+Când vii în curând.
+
+[s2]
+2./:Am cămin
+Mai sus de nori
+Vrei să ai şi tu? :/
+Când vine Isus.
+
+[s3]
+/:Da, Isus, da, Isus
+Aminteşte-mă!:/
+Când vii în curând.
+
+[s4]
+3./:Jos port crucea,
+Sus, cununa
+’N Țara Gloriei:/
+Când vine Isus.
+
+[s5]
+4./:Dacă Îl aştepţi
+Pe Isus,
+În veci vei trăi:/
+Când vine Isus.
+
+[s6]
+/:Isus te va
+Duce-Acasă
+În Țara Gloriei:/
+Când vine Isus.
+
+[s7]
+/:Da Isus, da Isus
+Aminteşte-mă:/
+Când vii în curând.
+
+[order]
+s1,r1,s2,s3,s4,r1,s5,r1,s6,s7

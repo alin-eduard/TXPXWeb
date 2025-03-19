@@ -1,0 +1,32 @@
+[s1]
+Măriţi pe Dumnezeu
+Voi neamuri şi popoare,
+Slăviţi-L prin cântări
+Întreagă adunare!
+Căci El ne-a ocrotit
+De groaznicul duşman,
+Prin Fiul Său iubit
+Ne-a scos la bun liman!
+
+[s2]
+Părinte-n veci bogat
+În fapte de-ndurare,
+Povara ne-a luat
+Ne-a dăruit salvare!
+Când pe cărări pustii
+Umblam fără Hristos,
+Prin Fiul Său iubit
+El din păcat ne-a scos!
+
+[s3]
+Pe Dumnezeu măriţi,
+Pe Tatăl şi pe Fiul!
+Cu suflul gurii lor
+Înveselesc pustiul.
+Şi Spiritul cel Sfânt
+Cel care ne-a iubit
+Prin viaţă şi prin cânt
+Să fie preamărit!
+
+[order]
+s1,s2,s3

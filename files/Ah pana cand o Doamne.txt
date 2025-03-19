@@ -1,0 +1,34 @@
+[s1]
+Ah, pînă cînd,
+O, Doamne, zăboveşti
+Să-mi vii în ajutor
+Din zi în zi Te caut, unde eşti?
+O, fii îndurător.
+
+[r1]
+/: Te chem în valuri, întinde-Ţi mîna
+Ascultă-mă în ziua cea grea.
+Să fii cu omul ce totdeauna
+Aşteaptă ocrotirea Ta. :/
+
+[s2]
+Ah, pînă cînd ne laşi,
+O, Domnul vieţii
+În focul încercării;
+Se-ntunecă cărarea-n bezna nopţii
+Şi nu mai am puteri.
+
+[s3]
+Ah, pînă cînd, o, Doamne, zăboveşti
+Să vii pe nori curînd,
+Ea e speranţa ce ne-o dăruieşti
+Pe-acest pămînt străin.
+
+[s4]
+Ah, Tu ai spus să Te chemăm în greu
+Căci ne vei izbăvi,
+O, vino azi, Prea sfinte Dumnezeu
+Te rog nu zăbovi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

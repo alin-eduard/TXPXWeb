@@ -1,0 +1,36 @@
+[s1]
+1389.
+1.  Doamne Dumnezeul meu
+Tu să mă ajuţi la greu, o Isuse Doamne.
+2.  De aceea Isus iubit
+Îmbracă-mă cu Duhul Sfânt,
+O Isuse Doamne.
+M-ajută la crucea mea
+Până sus la Golgota, o Isuse Doamne.
+
+[s2]
+Din pruncie mai chemat
+Cu Duh Sfânt mai botezat, o Isuse Doamne.
+5.  Fii slăvit Isus iubit
+Că pe noi ne-ai mântuit, o Isuse Doamne.
+6.  Şi în carte Tu ne-ai scris
+Pentru al Tău paradis, o Isuse Doamne.
+
+[s3]
+Cu toţii în cer să fim
+La masa Ta să servim, o Isuse Doanme.
+8.  Cu toată familia
+În împărăţia Ta, o Isuse Doamne.
+9.  Cu Avraam şi cu Isaac
+Ce pe Tine Te-au urmat, o Isuse Doamne.
+
+[s4]
+10.  Cu Enoh şi cu Ilie
+Să-ţi cântăm o veşnicie, o Isuse Doamne.
+11.  Cu Apostoli iubiţi
+Şi cu îngerii uniţi, o Isuse Doamne.
+12.  Cu Mireasa Ta iubită
+În odaia Ta de nuntă, o Isuse Doamne.
+
+[order]
+s1,s2,s3,s4

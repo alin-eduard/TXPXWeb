@@ -1,0 +1,16 @@
+[s1]
+/:Osana, Amin, Osana
+O, Aleluia, Maranata:/
+/:Isus e Domn:/ x4
+El a inviat /x8
+/: El ne iubeşte neîncetat :/ x3
+
+[s2]
+/:El vine iar :/ x8
+Isus e Domn
+El a-nviat
+El ne iubeşte
+El vine iar.
+
+[order]
+s1,s2

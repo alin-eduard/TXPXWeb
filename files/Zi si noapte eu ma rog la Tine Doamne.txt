@@ -1,0 +1,36 @@
+[s1]
+Zi şi noapte eu mă rog
+la Tine, Doamne
+Şi aştept puterea Ta
+ca s-o primesc.
+Fără ea sînt mic şi slab
+ca un fir de iarbă
+Care astăzi e şi mîine poate nu-i.
+
+[r1]
+Oare cînd Te vom vedea
+Noi toţi acei ce-n Tine am crezut ?
+Ridica-vom steagul Tău de biruinţă
+În veci cu Tine vom rămînea !
+
+[s2]
+Pîn-atunci ascultă,
+Doamne, ruga noastră
+Fii cu noi şi ne păzeşte-n orice zi !
+Din puterea Ta mare
+dă-ne şi nouă
+Ca odat, şi noi să stăm
+la dreapta Ta.
+
+[s3]
+Vom găsi odihna
+foarte mult dorită
+Care Pămîntul n-a putut
+ca să ne-o dea.
+Vom simţi în noi
+fiorul revederii
+Şi-Ţi vom spune
+toate cîte-am suferit.
+
+[order]
+s1,r1,s2,r1,s3,r1

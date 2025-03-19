@@ -1,0 +1,26 @@
+[s1]
+Sînt doar un străin, dar nu-s orfan
+Isus mă poartă spre casa mea.
+Am sus un Tată ce mă aşteaptă
+Şi mă grăbesc să ajung la El.
+
+[r1]
+Nori şi vînt, nu-mi staţi în cale!
+Bun Păstor, vreau s-aud al Tău glas!
+Vin acasă, vin acasă
+Doar puţin mi-a mai rămas.
+
+[s2]
+Sînt doar un străin, nu-s părăsit
+O moştenire m-aşteaptă-n cer.
+Mă duc acasă, mă duc acasă
+Şi mă grăbesc, căci vreau s-ajung.
+
+[s3]
+Sînt doar un străin, dar nu-s orfan
+Mă grăbesc să ajung sus.
+/: Sînt doar străin, nu-s părăsit
+Curînd voi fi colo-n cer. :/
+
+[order]
+s1,r1,s2,r1,s3,r1

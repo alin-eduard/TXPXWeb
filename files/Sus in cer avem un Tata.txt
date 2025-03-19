@@ -1,0 +1,56 @@
+[s1]
+Sus in cer, avem un Tata
+Ce ne vrea fara pata.
+/: Slava, cinste-i dati intruna,
+Cit e soarele si luna!
+Sa-L iubiti pe Dumnezeu
+Ca niciodata! :/
+
+[s2]
+Inchinati-va-nainte imbracati
+Cu daruri sfinte!
+/: Glasul Domnului sa sune,
+Imprejurul Lui s-adune
+Pe acei ce merg, pierduti,
+Spre morminte. :/
+
+[s3]
+Glasul Lui putere toarna,
+Cedrii Libanului sfarma;
+/: Ca un zimbru tinar,
+Iata, cu spinarea incordata,
+Libanul se rastoarna. :/
+
+[s4]
+El cutremura pustia,
+Anuntindu-l pe Mesia;
+/: Cu un urlet de leoaica,
+Naste tinara cerboaica
+Si-n locasul Lui
+se striga “Aleluia!":/
+
+[s5]
+Pe un scaun de domnie,
+Sade Domnu-n vesnicie.
+/: Israelul lumineaza
+si il binecuvinteaza
+Cel mai sfant popor
+in lume el sa fie:/
+
+[s6]
+Nu pierde nici o secunda!
+Viata trece ca o unda;
+/: Deci, tu rupe de ispita
+Si-ti fa viata fericita,
+Caci indata vine
+Moartea furibunda. :/
+
+[s7]
+Sunt promisiuni facute,
+din scriptura cunoscute,
+/: Viata vesnica din toate
+este scopul nostru, frate si sora.
+Deci, Dumnezeu sa ne ajute! :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

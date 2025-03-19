@@ -1,0 +1,43 @@
+[s1]
+Bunătatea Ta mi-e sprijin
+orişicând pe-al lumii vale,
+Doamne, ea-mi păstrează paşii
+pe-a credinţei sfântă cale!
+Bunătatea Ta, bunătatea Ta,
+Doamne, ea-mi păstrează paşii
+pe-a credinţei sfântă cale!
+
+[s2]
+Când în suflet negre gânduri
+năvălesc să mă răpună,
+Bunătatea Ta mi-e sprijin
+şi tărie în furtună!
+Bunătatea Ta, bunătatea Ta,
+Doamne, ea oricând mi-e sprijin
+şi tărie în furtună!
+
+[s3]
+Când cel rău îmi dă târcoale
+şi ar vrea ca să mă-nghită,
+Bunătatea Ta  mi-e sprijin,
+şi putere, şi odihnă!
+Bunătatea Ta, Bunătatea Ta,
+Doamne, ea oricând mi-e sprijin,
+şi putere, şi odihnă!
+
+[s4]
+Când în jur de prăbuşeşte
+slaba omului lucrare,
+Bunătatea Ta mi-e sprijin,
+adăpost şi-nviorare!
+Bunătatea Ta, bunătatea Ta,
+Doamne, ea oricând mi-e sprijin, adăpost şi-nviorare!
+
+[s5]
+Doamne-n sfânta-Ţi bunătate mă încred în orice vreme,
+Când m-ascund în ea, de nimeni viaţa mea nu se mai teme!
+Bunătatea Ta, Bunătatea Ta,
+Când m-ascund în ea, de nimeni viaţa mea nu se mai teme!
+
+[order]
+s1,s2,s3,s4,s5

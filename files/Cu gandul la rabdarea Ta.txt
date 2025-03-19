@@ -1,0 +1,20 @@
+[s1]
+Stăpâne blând şi duios
+Fără de veci, mi-ai luat
+Şi iată vine un păcătos
+Şi-Ţi mulţumesc că m-ai iertat.
+
+[r1]
+/:Îţi voi cânta o viaţă întreagă
+Şi Doamne, în Cer Îţi voi cânta
+Te voi slăvi o veşnicie
+O Doamne, laud mâna Ta:/
+
+[s2]
+Eram pierdut în drumul meu
+Dar m-ai chemat la Tine
+Şi m-ai primit prin Harul Tău
+Dădându-Ţi viaţa pentru mine.
+
+[order]
+s1,r1,s2,r1

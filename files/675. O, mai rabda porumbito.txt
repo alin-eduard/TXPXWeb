@@ -1,0 +1,39 @@
+[s1]
+1. O, mai rabdă porumbiţo
+Se ivesc ai zilei zori
+/:Ştiu că-ţi este dor de-casă
+Nu mai este mult Mireasă
+Vine Mirele pe nori. :/
+675.
+
+[s2]
+2. Eşti lovită, prigonită
+Stai ascunsă-n văi adânci
+/: Eşti de toţi batjocorită
+Eşti rănită părăsită
+Porumbiţo dintre stânci .
+:/
+
+[s3]
+3. Eşti bătută de furtună
+De arşiţă vreme rea
+/: Eu ţi-am pregătit cununa
+Duhul Sfânt ţi-am dat arvona
+Şi-n curând te voi lua. :/
+
+[s4]
+4. Iată vine dimineaţa
+Este vremea de plecat
+/: Vino azi arată-Ţi faţa
+Pentru tine mi-am dat viaţa
+Cu sânge te-am câştigat. :/
+
+[s5]
+5. Îmbracă-ţi podoaba sfântă
+Pentru fiul de-mpărat
+/: Sus privirea îţi avântă
+Mii şi mii de îngeri cântă
+Isus fii glorificat :/
+
+[order]
+s1,s2,s3,s4,s5

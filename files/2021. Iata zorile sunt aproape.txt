@@ -1,0 +1,33 @@
+[s1]
+2021
+1. Iată zorile sunt aproape
+Inima-mi spune că Tu vei veni
+Te aștept cu dor până-n noapte
+Sunt fericit că cu Tine voi fi.
+
+[r1]
+Cor: /: Glorioasă nespus va fi ziua
+Când ne vei chema la Tine Isus
+Ziua când ne vei duce acasă-n
+Țara frumoasă pregătită sus :/
+
+[s2]
+2. Te aștept iubitul meu Mire
+Pân` la moarte când Tu vei veni
+Porumbelul în suflet se arată
+Sunt fericit căci cu Tine voi fi
+
+[s3]
+3. Sufletul meu Ție Îți cântă
+Imnuri frumoase căci Tu vei veni
+Te aștept cu dor zi și noapte
+Sunt fericit căci cu Tine voi fi.
+
+[s4]
+4. Pregătiri se fac azi în ceruri
+Și-n văzduh răsună melodii
+Iată zorile sunt aproape
+Sunt fericit căci cu Tine voi fi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,49 @@
+[s1]
+De-atatea ori, auzi cum bate,
+La usa ta, un calator...
+In casa ta, vrea sa cineze,
+Dar tu-l privesti respingator.
+
+[s2]
+„Prietene, deschide-Mi usa
+Caci vin acum, din departari!
+Prietene, doresc din suflet,
+Da-ti sufletul, sfintei chemari!
+
+[s3]
+Eu n-am cu Mine tulburare,
+Nici suferinta si nici chin,
+Dar port pecetea vesniciei:
+Sunt Salvatorul cel divin!
+
+[s4]
+Sa nu privesti la straiul care
+M-acopera, saracacios,
+Caci am la Mine-o haina alba,
+Ca sa te-mbrac cu ea frumos.
+
+[s5]
+Prietene, de-Mi vei deschide
+Ca, doar atat iti cer, sa vrei!
+In veci de veci, vei fi ferice
+Si vei scapa de sortii grei.
+
+[s6]
+Orice ai fi facut, in viata,
+Prin fapte, sau prin gand murdar, Te voi spala cu al Meu sange
+Si vei simti preasfantul har
+
+[s7]
+Acum, e poate cel din urma
+Suras al dragostei ceresti!
+Nu-ntarzia! Deschide usa
+Ca mantuirea s-o primesti!
+
+[s8]
+Prietene, te rog din suflet:
+Impaca-te cu Dumnezeu!
+El te va smulge din pierzare,
+Iti va salva sufletul tau.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

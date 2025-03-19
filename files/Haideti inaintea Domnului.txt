@@ -1,0 +1,8 @@
+[s1]
+/: Haideţi  ’naintea Domnului
+Cu laudă şi mulţumire :/
+/: Înălţaţi-I numele
+Cu strigăte de bucurie :/
+
+[order]
+s1

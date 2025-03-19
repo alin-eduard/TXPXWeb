@@ -1,0 +1,35 @@
+[s1]
+Doamne-n Tine mă încred
+Căci Tu eşti al meu păstor,
+Lipsă de nimic nu voi duce
+Eu prin Tine hrană am
+Îmi eşti singuru-ajutor,
+Cel ce dă viaţă la oricine.
+La M
+
+[s2]
+/: Eu mă las acum,
+Isus, pe braţul Tău sfânt
+Mă las în a Ta-ngrijire. :/
+
+[s3]
+Chiar de-ar fi, eu, ca să trec
+Prin a umbrei morţii văi
+a poate fi
+Cât de bine e lângă Tine.
+
+[r1]
+/:Eu mă las acum,
+Isus, pe braţul Tău sfânt
+Mă las în a Ta-ngrijire.:/
+
+[s4]
+Când cel rău ‘nainte-mi stă
+Eu la Tine apelez
+Ştiu că Tu-mi asculţi a mea rugă
+Viaţa mea Tu o lungeşti
+Şi mă binecuvintezi
+Voi trăi cu Tine-mpreună.
+
+[order]
+s1,s2,s3,r1,s4,r1

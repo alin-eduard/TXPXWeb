@@ -1,0 +1,34 @@
+[s1]
+O, Isus, ce dulce nume
+Liniştind orice dureri
+Ne dă pace, bucurie,
+Celor slabi le dă puteri.
+/: Dulce e mângâios
+Numele Isus Hristos :/
+
+[s2]
+Deci porniţi cu-Isus ‘nainte
+Nu vă temeţi de nimic
+Birui-veţi totdeauna
+Cu El orice inamic.
+/: Dulce e mângâios
+Numele Isus Hristos :/
+
+[s3]
+O, Isus, cuvânt scump nouă,
+Cât ne faci de fericiţi!
+Pacea Ta gustăm de-acuma
+Ştiind că suntem mântuiţi.
+/: Dulce e mângâios
+Numele Isus Hristos :/
+
+[s4]
+Deci cântaţi lui-Isus  întruna
+Daţi de veste orişicui
+Bucuria că El vine
+Ca să-Şi ia cu El pe-ai Lui.
+/: Dulce e mângâios
+Numele Isus Hristos :/
+
+[order]
+s1,s2,s3,s4

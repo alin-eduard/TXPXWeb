@@ -1,0 +1,29 @@
+[s1]
+1512.
+1. În străvechea lege scrisă pentru oameni
+Plata-i după faptă şi culegi ce semeni
+/: Azi Duhul ne spune că are să vie
+Peste această lume o zi de mânie :/
+2. Lumea înfricoşată tânguind va plânge
+Ziua judecăţii tot ne va ajunge
+/: Cuvântul răsună din înalta slavă
+Ardeţi azi neghina ardeţi orice pleavă :/
+
+[s2]
+3. Îngeri va trimite în întreaga lume
+Să adune morţii vii să-i adune
+/: Grâul însă strângeţi în grânare sfinte
+Toţi cei răi vor plânge drepţii o să cânte :/
+4. Pomul fără roadă în foc o să ardă
+Crengile uscate se aruncă afară
+/: Unde va fi plânsul şi a dinţilor scrâşnire
+Că n-au voit s-aştepte pe Isus când vine :/
+
+[s3]
+5. Fericiţi aceia ce haina şi-au spălat-o
+Ce au iubit lumina şi au urât păcatul
+/: Vor intra pe poartă în cetatea sfântă
+Vor primi cununa care o merită :/
+
+[order]
+s1,s2,s3

@@ -1,0 +1,25 @@
+[s1]
+Din clipa cînd Te-am primit, Isuse
+Mi-am liniştit sufletul.
+Tu mi-ai schimbat
+toată viaţa într-o zi
+Tu m-ai făcut fericit.
+
+[r1]
+/: Domnul meu, Îţi mulţumesc
+Pentru tot ce mi-ai dat
+Pentru că mi-ai dat viaţă
+Pentru că m-ai luminat !
+O, Domnul meu, mă-ncred în Tine
+Zi de zi Îţi simt iubirea
+Voia Ta vreau s-o fac ~ Tot mereu ! :/
+
+[s2]
+Din clipa cînd Te-am primit, Domnul meu
+Mi-am liniştit sufletul.
+Prin harul Tău
+m-ai salvat de păcat
+Mi-ai mîntuit sufletul.
+
+[order]
+s1,r1,s2,r1

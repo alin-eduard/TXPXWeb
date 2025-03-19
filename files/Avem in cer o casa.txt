@@ -1,0 +1,26 @@
+[s1]
+Avem în cer o casă, mare luminoasă
+În curând plecăm să fim în ea;
+În haine lucitoare, vom fi în splendoare
+Cu Isus mereu ne-om bucura.
+
+[r1]
+Ne-om bucura, în Duhul Sfânt
+Si vom uita de-acest pământ,
+O! Isuse dragă, vino mai degrabă
+Vino să ne duci la Tine-n cer.
+
+[s2]
+Ce mare bucurie, în rai o să fie
+Minunat v-a fi acolo sus;
+Nu v-a fi tristeţe, şi nici bătrâneţe
+Ci vom fi ca Domnul Sfânt Isus.
+
+[s3]
+O scumpă dimineaţă, ne v-a sta în faţă
+Primăvară fără de sfârşit;
+O lumină dulce, ce-Ai murit pe cruce
+Pentru noi Isuse-Ai biruit.
+
+[order]
+s1,r1,s2,r1,s3,r1

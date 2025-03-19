@@ -1,0 +1,73 @@
+[s1]
+1. Bun medic eşti Isuse
+Un medic minunat
+Mărturiseşte-n rugă
+Bolnavul vindecat.
+551.
+Cor: Nu-i nimeni să lege o rană
+Cum Doamne Tu ai legat
+/: Nu-i nimeni :/ să ierte
+Cum Doamne Tu ai iertat.
+
+[s2]
+2. Femeia păcătoasă
+Şi orbul Bartimeu
+Mărturisesc Isuse
+Mila şi harul Tău.
+Cor: Nu-i nimeni să lege o rană
+Cum Doamne Tu ai legat
+/: Nu-i nimeni :/ să ierte
+Cum Doamne Tu ai iertat.
+
+[s3]
+3. Toţi păcătoşii lumii
+Pe care i-ai iubit
+Mărturisesc minunea
+Prin care au trecut.
+Cor: Nu-i nimeni să lege o rană
+Cum Doamne Tu ai legat
+/: Nu-i nimeni :/ să ierte
+Cum Doamne Tu ai iertat.
+
+[s4]
+4. Ai înviat Isuse
+Pe Lazăr din mormânt
+Şi lumea dimprejuru-Ţi
+Minunea Ţi-au văzut.
+Cor: Nu-i nimeni să lege o rană
+Cum Doamne Tu ai legat
+/: Nu-i nimeni :/ să ierte
+Cum Doamne Tu ai iertat.
+
+[s5]
+5. Fetiţa lui Iair
+Din morţi ai înviat
+Căci Tu eşti învierea
+Isuse minunat.
+Cor: Nu-i nimeni să lege o rană
+Cum Doamne Tu ai legat
+/: Nu-i nimeni :/ să ierte
+Cum Doamne Tu ai iertat.
+
+[s6]
+6. Şi mulţi bolnavi Isuse
+Să-i vindeci Te-au rugat
+În mila Ta cea mare
+Pe toţi ai vindecat.
+Cor: Nu-i nimeni să lege o rană
+Cum Doamne Tu ai legat
+/: Nu-i nimeni :/ să ierte
+Cum Doamne Tu ai iertat.
+
+[s7]
+7. Şi eu Isuse dragă
+Mărturisesc plângând
+Căci mi-ai dat mântuirea
+Şi pacea pe pământ.
+Cor: Nu-i nimeni să lege o rană
+Cum Doamne Tu ai legat
+/: Nu-i nimeni :/ să ierte
+Cum Doamne Tu ai iertat.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

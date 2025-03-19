@@ -1,0 +1,28 @@
+[r1]
+Ai fost răstignit
+Şi cuiele-mi spun,
+Ce mare Ţi-a fost iubirea!
+Cununa de spini îmi spune şi ea,
+Ce mare Ţi-a fost iubirea!
+
+[s1]
+Când cer şi stele vor pieri,
+Semnele vor dăinui
+Şi pe veci îmi vor şopti,
+Cât m-ai iubit!
+De aceea vreau să-Ţi spun:
+
+[r2]
+În veci inima,
+În veci dragostea,
+În veci viaţa mea este-a Ta!
+
+[s2]
+Când cer şi stele vor pieri
+Semnele vor dăinui,
+Şi pe veci îmi vor şopti,
+Cât m-ai iubit!
+De aceea vreau să-Ţi spun:
+
+[order]
+r1,s1,r2,r1,s2,r2

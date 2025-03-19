@@ -1,0 +1,64 @@
+[s1]
+803.  Sol m
+1. Atunci când vei veni, Mesia,
+Isuse binecuvântat
+/: Când vei veni din nou, Mesia,
+Ce mare va fi bucuria
+/: Acelor ce te-au aşteptat :/
+2. Întâmpina-Te-vom, Mesia,
+Cuprinşi de bucurii şi cânt,
+/: Primi-Te-vom cu bucuria
+Cu care n-am primit Mesia
+/: Pe nimenea de pe pământ :/
+
+[s2]
+3. Cu biblice cântări, Mesia
+Cânta-vom ceru-n lung şi-n lat,
+/: Iar noi cânta-vom: "Aliluia!"
+Cum nu se cântă nimănuia
+/: Şi nimănuia n-am cântat :/
+4. Şi cei ce Te-au străpuns în palmă,
+Mesia, atunci Te vor vedea,
+/: Şi îngroziţi de a Ta faimă
+Cutremura-se-vor de spaimă
+/: Şi toţi cei răi vor plânge amar :/
+
+[s3]
+5. Privelişte înfricoşată!
+Mormintele s-or nărui...
+/: Cei morţi vor învia... Deodată
+Ţărâna este transformată,
+/: În trupuri noi ce vor primi ... :/
+6. Copiii Tăi ce dorm sub glie,
+În ceasul când vei reveni,
+/: Vor decola cu bucurie
+Spre veşnica împărăţie
+/: Şi în văzduh ne-om întâlni ... :/
+
+[s4]
+7. Tu vei aduce răsăritul
+Vieţii fără de apus
+/: Vei pune plânsului sfârşitul
+Şi-ncununa-vei fericitul
+/: Prinos de dar ce ne-ai adus ... :/
+Şi-atunci va-ncepe veşnicia
+Acelor ce te-au aşteptat
+/: Şi-n veci va ţine bucuria...
+O, vino! Te dorim Mesia
+/: Isuse binecuvântat! ... :/
+
+[s5]
+Atunci când vei veni, Mesia,
+Isuse binecuvântat
+/: Când vei veni din nou, Mesia,
+Ce mare va fi bucuria
+/: Acelor ce te-au aşteptat :/
+Şi-atunci va-ncepe veşnicia
+Acelor ce te-au aşteptat
+/: Şi-n veci va ţine bucuria...
+O, vino! Te dorim Mesia
+/: Isuse binecuvântat! ... :/
+Sol m
+
+[order]
+s1,s2,s3,s4,s5

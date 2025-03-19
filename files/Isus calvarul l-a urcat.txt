@@ -1,0 +1,41 @@
+[s1]
+Isus calvarul l-a urcat
+Cu lacrimi pentru min’
+Păcatul meu El l-a purtat
+De m-a salvat deplin!
+Eu spre Calvar merg uşurat
+Acolo Domnul m-a salvat
+Şi al Său sânge l-a vărsat
+El l-a vărsat, da, l-a vărsat
+
+[s2]
+Isus fu atârnat pe lemn
+Cei răi L-au pironit
+Sluji atuncea ca blestem
+Şi pace-a făurit!
+Eu spre Calvar merg uşurat
+Acolo Domnul m-a salvat
+Şi al Său sânge l-a vărsat
+El l-a vărsat, da, l-a vărsat
+
+[s3]
+Păcatele de-acum s-au dus
+Eu merg spre-al meu Calvar
+Căci ţinta mea este Isus
+Şi al vieţii far.
+Eu spre Calvar merg uşurat
+Acolo Domnul m-a salvat
+Şi al Său sânge l-a vărsat
+El l-a vărsat, da, l-a vărsat
+
+[s4]
+Ce am primit eu pe Calvar
+Sunt mângăieri din plin
+Acolo mi-a dat al Său har Cerescul Miel divin.
+Eu spre Calvar merg uşurat
+Acolo Domnul m-a salvat
+Şi al Său sânge l-a vărsat
+El l-a vărsat, da, l-a vărsat
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,30 @@
+[s1]
+Eşti chemat a fi lumină
+În a lumii neagră tină
+Adevarul să-l traieşti
+Şi pe Domnul să slujeşti.
+
+[r1]
+/: Hai mai luptă Tu creştine
+Domnul e mereu cu Tine
+Şi de noaptea este grea
+Domnul e lumina Ta
+Hai mai luptă Tu creştine
+Domnul e mereu cu Tine
+Şi de lupta este grea
+Înapoi, nicicând nu da :/
+
+[s2]
+Luptă-te lupta cea bună
+Până Domnul va veni
+Luptă, cântă şi te roagă
+Domnul te v-a sprijini.
+
+[s3]
+Căci în slavă vor ajunge
+Cei ce-au biruit prin El
+Se vor bucura de-apururi
+Lângă bunul Dumnezeu.
+
+[order]
+s1,r1,s2,r1,s3,r1

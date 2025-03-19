@@ -1,0 +1,28 @@
+[s1]
+La Tine, Doamne, noi ades venim
+Cu rănile care mereu ne-apasă
+Tu ştii să mîngîi şi Tu ştii să torni
+În suflete balsamul Tău divin.
+
+[r1]
+,,Eli!’’ strigăm şi noi azi către Tine
+/: Cum a strigat Isus în chinuri. :/
+,,Eli!’’ Cînd sîntem trişti,
+cînd sîntem prigoniţi
+Noi Te strigăm cînd sîntem părăsiţi: ,,Eli!’’
+
+[s2]
+În ochii noştri lacrimi se ivesc
+Cînd vreun cuvînt prin
+Duhul Tău ne spui
+Tu ştii să mîngîi şi Tu ştii să ierţi
+Tu ne dai sfaturi şi Tu ne conduci.
+
+[s3]
+Ne-ai dat atîtea sfinte bucurii
+Ai îndreptat cărarea noastră-n sus
+Ne-ai dat un Soare în această lume
+Ni L-ai dat chiar pe Fiul Tău, Isus !
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,46 @@
+[s1]
+2028
+1. Biserică te cheamă astăzi Domnul
+Să împlinești Cuvântul Lui cel sfânt
+Și-n candelă să aduni untdelemn
+Că vei pleca-n curând de pe pământ
+Isus va reveni pe nori de slavă
+Cu El pe nori tu te vei întâlni
+Dar până atunci nu sta în nepăsare
+De vrei să mergi cu El în veșnicii.
+
+[s2]
+2. În luptă tu să ai multă răbdare
+Și înțeleaptă să fii pe pământ
+Că-n lupta ta vei fi nebiruită
+Și nu vei fi purtată de orice vânt
+Când vânturi mari
+Spre tine au să bată
+Statornică pe stâncă să rămâi
+Să nu te clatini să strigi cu credință
+Cum Îl strigai la dragostea dintâi.
+
+[s3]
+3. Căci Unul singur e Acela care
+Stăpân e-n ceruri și jos pe pământ
+Ascultă-L astăzi și fii credincioasă
+Primește astăzi îndemnul Celui Sfânt
+Căci El te-a scos din negură adâncă
+Și din prăpastii El te-a ridicat
+El haina ta în sânge ți-a spălat-o
+Prin harul Sfânt
+De moarte te-a scăpat.
+
+[s4]
+4. Prin harul sfânt azi tu ești mântuită
+Sfințită ai fost prin al Lui
+Sfânt Cuvânt
+Tu haina s-o păstrezi mereu curată
+Căci  Mirele Isus vine-n curând
+Și când Isus Hristos are să vină
+Pe brațele Lui El te va lua
+De ai să aștepți mireasă cu răbdare
+Cu El în ceruri te vei bucura.
+
+[order]
+s1,s2,s3,s4

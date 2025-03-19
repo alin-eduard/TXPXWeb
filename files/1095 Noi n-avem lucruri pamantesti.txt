@@ -1,0 +1,99 @@
+[s1]
+Noi n-avem lucruri pământeşti
+Nici moşteniri ce se-nvechesc
+Dar mai bogat pe lume nu-s
+Comoara noastră e-n Isus.
+Noi n-avem scuturi nici săgeţi
+Să apărăm a noastre vieţi
+Dar nu-i alt mers mai curajos
+Nădejdea noastră e-n Hristos
+1.
+2.
+1095.
+
+[s2]
+Noi n-avem săbii de război
+Nici oştile lumii cu noi
+Dar nu-i tărie mai presus
+Tăria noastră e-n Isus
+Noi n-avem nume lăudat
+Nici scaun ’nalt nici loc bogat
+Dar nu-i alt chip mai luminos
+Mărirea noastră e-n Hristos
+3.
+4.
+
+[s3]
+Noi n-avem ţinte nici dorinţe
+Ce pun pe alţi-n suferinţi
+Dar nu-i un adevăr mai sus
+Solia noastră e Isus
+Şi pentru tot ce-am fi lucrat
+Mai bun şi vrednic de urmat
+Noi n-aşteptăm nici un folos
+Răsplata noastră-i la Hristos
+5.
+6.
+
+[s4]
+Isus chematu-m-a pe nume
+Să mă despartă şi de lume
+Chemarea Lui mie mi-aduce
+Bucuria cea mai dulce
+Chiar dacă toţi în părăsire
+Şi în uitare m-au lăsat
+Eu ştiu că am o moştenire
+În ţara plină de iubire.
+7.
+8.
+
+[s5]
+De când pe Tine Te-am iubit
+Inima mea Ţi-am dăruit
+Şi să mă ierţi şi de păcat
+Şi mă duci în ceru’nalt.
+Căci sunt atâta de stingher
+Nu mă lăsa Doamne să pier
+Întinde-mi Doamne mâna Ta
+Ce mă poate ea ajuta.
+9.
+10.
+
+[s6]
+De aceea eu mereu, mereu
+Mă-ncred în bunul Dumnezeu
+Care de-atâtea ori mi-a fost
+Nădejde, scut şi adăpost.
+Pe Golgota crucificat
+Mesia-n cuie atârnat
+El a ştiut că voi veni
+La El pentru-a mă curăţi
+11.
+12.
+
+[s7]
+Nu voi iubi ca şi pe Tin’
+Nici mamă, tată, fraţi, surori
+Căci toate trec ca o nimic
+Ce durează doar un pic.
+Căci viaţa noastră pe pământ
+Ea trece-n zbor ca şi un cânt
+Prin trudă multă şi sudori
+Şi mâine poate c-ai să mori .
+13.
+14.
+
+[s8]
+Şi veşnicia cea din Rai
+Te rog Isuse să mi-o dai
+Căci dac-aicea o primesc
+În veci de veci o să trăiesc.
+Chiar ochii mei şi inima
+Tu ia-le-n stăpânirea Ta
+Ca să aştept venirea Ta
+Ca mirele mireasa sa.
+15.
+16.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

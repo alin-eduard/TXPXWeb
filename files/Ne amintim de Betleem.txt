@@ -1,0 +1,32 @@
+[s1]
+Ne amintim de Betleem
+şi de seara sfântă.
+Când Hristos s-a coborât
+viaţă să ne-aducă.
+/: Coruri sfinte pe pământ
+s-au arătat de-odată.
+Să vestească tuturor
+vestea minunată. :/
+
+[s2]
+Păstori uimiţi au alergat
+spre staulul cu vite.
+Să vadă dacă este-aşa
+cum li se vestise.
+/:Magii cei din răsărit
+călăuziţi de-o stea.
+Cu daruri multe au
+venit înaintea Sa.:/
+
+[s3]
+Haideţi cu toţi să ne-nchinăm
+plini de mulţumire.
+Să-L slăvim pe Domnul sfânt
+şi să Îi dăm mărire.
+/:E minunat că am aflat
+darul cel frumos.
+Pruncul Cel făgăduit,
+El e Isus Hristos.:/
+
+[order]
+s1,s2,s3

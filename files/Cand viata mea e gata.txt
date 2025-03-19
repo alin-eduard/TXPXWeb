@@ -1,0 +1,29 @@
+[s1]
+Cand viata mea e gata
+si-alergarea s-a sfarsi,
+Spre orasul cel de aur voi pleca
+Poarta cand se va deschide,
+stralucire voi vedea
+Si pe Isus ce ma cheama-n tara Sa.
+
+[r1]
+Gandeste-te la glorii
+ce te-asteapta sus in cer,
+Gandeste-te la Isus,
+ce-a murit si-n locul tau,
+Gandeste-te la slava
+ce te-asteapta-colo sus
+Predati viata astazi Lui Isus
+
+[s2]
+Bogatii nenumarate
+voi vedea acolo sus,
+Si pe strazi de aur
+voi umbla cu El,
+Fata-n fata in marire
+pe Isus il voi vedea
+Si cu sfintii-I voi da slava
+ne-ncetat.
+
+[order]
+s1,r1,s2,r1

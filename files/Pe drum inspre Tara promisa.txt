@@ -1,0 +1,26 @@
+[s1]
+Pe drum înspre Ţara promisă,
+Spre ceruri, spre Canaan,
+Lumina în mine aprinsă
+M­atrage spre­acel liman.
+Hristos, El de mână mă ia,
+Mă duce în Ţara Sa.
+
+[s2]
+Când pasul mi se­ngreunează,
+Puterile îmi slăbesc,
+Iar duhul mi se întristează,
+Atunci la Isus privesc.
+Primesc înzecite puteri,
+Dispar slăbiciuni, dureri.
+
+[s3]
+Minunea atunci mi se­arată
+Şi pacea o regăsesc,
+Viaţa mea e fericită
+Când eu cu Isus trăiesc.
+Ce sfinte, cereşti împliniri
+Şi veşnice fericiri.
+
+[order]
+s1,s2,s3

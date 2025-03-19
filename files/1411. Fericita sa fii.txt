@@ -1,0 +1,19 @@
+[s1]
+1411.Si b
+1.  /: Fericită să fii :/
+O pereche cum Domnul vă vrea.
+2.  /: Neîncetat zi de zi :/
+Peste voi harul va revărsa.
+/: Când necazuri vor fi :/
+În unire să staţi liniştiţi.
+
+[s2]
+4.  /: De veni-vor dureri :/
+Să strigaţi amândoi către cer.
+5.  /: Căci El va birui :/
+Şi din noapte veţi fi izbăviţi
+/: O cât e de frumos :/
+Ca în haină de nuntă să fiţi.
+
+[order]
+s1,s2

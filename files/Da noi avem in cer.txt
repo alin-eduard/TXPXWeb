@@ -1,0 +1,41 @@
+[s1]
+Da, noi avem în cer
+Un milostiv Părinte,
+Ce ne-a ales ca popor glorios,
+Ca să-L urmăm pe El
+Mereu tot înainte,
+/: Căci pentru noi a dat El pe Hristos :/
+
+[s2]
+Iubirea lui Isus in noi a răsădit-o,
+Şi-astfel de moarte
+Pe veci ne-a scăpat;
+Împărăţia Lui in veci ne-a hărăzit-o:
+/: Să fie-n veci dar binecuvântat! :/
+
+[s3]
+Înţelepciunea Sa unită cu iubirea
+Ne-nalţă zilnic mai mult spre Isus,
+Prin Duhul Său Cel Sfânt
+Lucrează-n noi sfinţirea,
+/: Căci fără ea n-ajunge nimeni sus :/
+
+[s4]
+În cei mai slabi din noi
+Arăţi a Ta putere,
+Pe cel mai mic il faci biruitor;
+Zadarnic vrea Satan
+Prin încercări, durere,
+/: Să ne despartă de Mântuitor :/
+
+[s5]
+La tot ce Tu ne dai,
+Cum vom putea răspunde?
+A Tale-s toate,
+Deci noi ce să-Ţi dăm?
+Atât ne-a mai rămas
+Ca oricând şi oriunde,
+/: Numele Tău slăvit să-L lăudăm :/
+
+[order]
+s1,s2,s3,s4,s5

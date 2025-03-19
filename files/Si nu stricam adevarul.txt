@@ -1,0 +1,44 @@
+[s1]
+Si nu stricăm adevărul
+Prea Sfintelor Scripturi!
+Să nu stricăm adevărul,
+Cu alte-nvăţături!
+
+[s2]
+Căci cine strică un cuvânt
+Din Sfânta Carte dată,
+Cădea-va-n mâna Celui Sfânt,
+La dreapta judecată…
+
+[s3]
+Să nu-ncurcăm adevărul
+Cereştilor puteri!
+Să nu-ncurcăm adevărul,
+Cu omeneşti păreri!
+
+[s4]
+Căci cine-ncurcă drumul viu
+Şi calea cea curată,
+Pieri-va-n veşnicul pustiu
+La dreapta judecată.
+
+[s5]
+Să nu-ntinăm adevărul
+Cel sfânt si minunat!
+Să nu-ntinăm adevărul,
+Prin pofte şi păcat!
+
+[s6]
+Căci cine-Ţi va sluji, Isus,
+Cu inima-ntinată,
+Cădea-va, pentru veci, răpus
+De dreapta judecată.
+
+[s7]
+Să înălţăm adevărul,
+Mai sus şi mai frumos!
+Să înălţăm adevărul!
+El e întreg, Hristos!
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

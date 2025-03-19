@@ -1,0 +1,35 @@
+[s1]
+1. Nu-i prieten lui Isus asemenea,
+Nimenea, nimenea,
+Nimeni nu poate ca El vindeca,
+Nimenea, nimenea!
+639.             								      Fa
+
+[r1]
+Cor:
+Isus ne ştie pe noi mai bine,
+El poate să ne ajute,
+Nu-i prieten lui Isus asemenea,
+Nimenea, nimenea!
+
+[s2]
+2. Nu-i sfânt,
+nu-i tare ca El nimenea,
+Nimenea, nimenea,
+Nu este cine a iubi aşa,
+Nimenea, nimenea.
+
+[s3]
+3. Cine ca El te va păstra aşa?
+Nimenea, nimenea,
+Nu e aproape ca El nimenea,
+Nimenea, nimenea.
+
+[s4]
+4.Lăsatu-i-a El pe ai Săi cândva
+Nicicând nu, nicicând nu
+Scos-a afară El pe cineva
+Nicicând nu, nicicând nu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

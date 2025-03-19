@@ -1,0 +1,38 @@
+[s1]
+E-atâta pace, că auzi
+şi mersul stelelor cum cântă
+Şi roua de pe crinii uzi
+cum picură-n tăcere sfântă.
+
+[r1]
+Aşa-ntr-o linişte şi-un har
+Poate-ai să vii, Isuse, iar.
+Când nimeni nu s-ar aştepta
+Atunci va fi venirea Ta.
+
+[s2]
+E-atâta linişte de sus
+şi-n toate este-atâta pace
+De-aud cum mâna Ta, Isus,
+cămaşa spicelor desface.
+
+[s3]
+E-atâta pace-n jurul meu
+şi parcă totu-i-n aşteptare
+Şi-n taina unei sfinte frici
+iubirea inimii tresare.
+
+[s4]
+E-atâta linişte-ntre ziduri
+când duhul rugăciunii zboară
+Şi ca un stol de îngeri strânşi,
+curate gânduri mă-nfioara
+
+[s5]
+O, Doamne-acum te rog să-mi
+ţii fiinţa cu vegherea-ncinsă.
+Ca-n orice straj-ar fi să vii,
+să-mi afli candela aprinsă
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

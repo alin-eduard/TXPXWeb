@@ -1,0 +1,23 @@
+[s1]
+/: Doamne, vreau să fiu creştin
+În inima mea, în inima mea :/X2
+În inima mea, în inima mea
+Doamne, vreau să fiu creştin
+În inima mea.
+
+[s2]
+/: Doamne,vreau să fiu mai sfânt
+În inima mea, în inima mea :/X2
+În inima mea, în inima mea
+Doamne, vreau să fiu mai sfânt
+În inima mea.
+
+[s3]
+/: Doamne vreau să fiu mai bun
+În inima mea, în inima mea :/X2
+În inima mea, în inima mea
+Doamne vreau să fiu mai bun
+În inima mea.
+
+[order]
+s1,s2,s3

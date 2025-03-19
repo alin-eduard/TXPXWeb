@@ -1,0 +1,51 @@
+[s1]
+2246
+1. Doar în Hristos mă-ncred mereu
+Lumina și Tăria mea
+O stâncă tare-i Dumnezeu
+când e furtună-n viața mea
+
+[s2]
+/: De-ar fi să trec prin valea grea
+Și de-ar fi noapte-n jurul meu
+Mă mângâie prezența Sa,
+Doar în Hristos mă-ncred mereu! :/.
+
+[s3]
+2. Doar în Hristos sfânt și divin
+În chip de om El S-a îmbrăcat
+Darul divin, neprihănit
+De păcătoși batjocorit.
+
+[s4]
+/: Mânia Tatălui de sus
+S-a potolit la Golgota
+În locul meu muri Isus,
+Iar eu trăiesc prin moartea Sa:/
+
+[s5]
+3. Au pus lumina în mormânt,
+în întuneric L-au lăsat
+Dar nu s-a stins, căci Domnul Sfânt,
+a treia zi a înviat!
+
+[s6]
+/: Biruitor e Domnul meu,
+Blestemul greu a ridicat!
+Eu sunt a Lui, căci Dumnezeu
+Cu sânge m-a răscumpărat! :/
+
+[s7]
+4. În fața morții când voi sta,
+Doar în Hristos mă-ncred mereu!
+Căci orice pas din viața mea
+Îl hotărăște Dumnezeu.
+
+[s8]
+/: Din mâna Lui nu va putea
+Nimic și nimeni să mă ia!
+Pân’ ce la Domnul plec și eu,
+Doar în Hristos mă-ncred mereu :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

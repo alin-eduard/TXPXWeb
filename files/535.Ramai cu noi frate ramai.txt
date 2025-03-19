@@ -1,0 +1,44 @@
+[s1]
+1.	Rămâi cu noi frate rămâi
+Nu-ţi părăsi chemarea
+Rămâi la dragostea dintâi
+Cu toată adunarea.
+2.	O, nu uita că bine ştii
+Cum viaţa noastră întreagă
+A fost izvor de bucurii
+În adunarea dragă.
+535.
+
+[s2]
+3.	Cum poţi să uiţi îmbrăţişări
+Şi pe Isus comoara
+Şi tot atâtea mângâieri
+Câte flori primăvara.
+4.	Dar poate dorul ţi s-a stins
+Şi tu te-ai dus departe
+Păcatul singur te-a învins
+Numai el te desparte.
+
+[s3]
+5.	Mai stai la noi că nu e mult
+Că plata Domnului vine
+Să fi şi tu mireasa Lui
+Chemarea să răsune.
+6.	O, nu uita pe fraţii tăi
+Cu care ai plâns odată
+Cu care-ai plâns
+Şi-ai mers prin vii
+Cu faţa întristată.
+
+[s4]
+7.	Gândeşte-te la Cel ce-a plâns
+El atât pentru tine
+Ascultă deci ce El a zis
+De pleci nu dai de bine.
+8.	Rămâi, rămâi lângă Isus
+În locul adunării
+Căci rătăcind în lume dus
+Vine ceasul încercării.
+
+[order]
+s1,s2,s3,s4

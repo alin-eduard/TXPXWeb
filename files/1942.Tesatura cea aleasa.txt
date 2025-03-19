@@ -1,0 +1,33 @@
+[s1]
+1942
+1. Țesătura cea aleasă
+Se va termina în curând
+O veghează tu mireasă
+Tot prin Duhul meu cel Sfânt.
+
+[s2]
+2. Ridică-ți privirea sus
+Și veghează cum ți-am spus
+Și biruință vei avea
+Până te-oi întâmpina.
+
+[s3]
+3. Căci Eu vin cu mare slavă
+Să te iau la Mine-n slavă
+Ca să te duc n-al meu cămin
+Căci Eu sunt pacea ta amin.
+
+[s4]
+4. Zice Isus Păstorul mare
+Ce seamăn în lume nare
+Căci Eu mereu te păstoresc
+Și vreau să te călăuzesc.
+
+[s5]
+5. Să mergi spre desăvârșire
+Tot mai mult spre a ta sfințire
+Căci Eu iată vin curând
+Să te iau de pe pământ.
+
+[order]
+s1,s2,s3,s4,s5

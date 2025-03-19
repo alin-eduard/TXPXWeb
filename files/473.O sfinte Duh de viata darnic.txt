@@ -1,0 +1,53 @@
+[s1]
+1.O, Sfinte Duh de viaţă darnic
+Ce inimile încălzeşti
+Poporul Tău Te cheamă dornic
+Lumina Ta să dăruieşti.
+Cor: Noi Te rugăm revarsă acuma
+Din stropii Tăi cei minunaţi,Te rugăm
+Şi Te-om slăvi pe Tine întruna
+Până la cer vom fi luaţi.
+473									  La
+
+[s2]
+2. Coboară plin de roade sfinte
+Cu haina Ta să ne îmbraci
+Cu noi pe drum să mergi nainte
+Să miluieşti pe cei săraci.
+Cor: Noi Te rugăm revars-acuma
+Din stropii Tăi cei minunaţi,Te rugăm
+Şi Te-om slăvi pe Tine întruna
+Până la cer vom fi luaţi.
+
+[s3]
+3.Cobori cu daruri şi putere
+Minuni şi semne din belşug
+Înlătură orice durere
+Şi să zdrobeşti al firii jug.
+Cor: Noi Te rugăm revarsă acuma
+Din stropii Tăi cei minunaţi,Te rugăm
+Şi Te-om slăvi pe Tine întruna
+Până la cer vom fi luaţi.
+
+[s4]
+4.	Mărire să-Ţi cântăm pe cale
+Să Te slăvim de sevă plini
+Iar pentru ziua nunţii Tale
+Ţi-om pune la picioare crini.
+Cor: Noi Te rugăm revarsă acuma
+Din stropii Tăi cei minunaţi,Te rugăm
+Şi Te-om slăvi pe Tine întruna
+Până la cer vom fi luaţi.
+
+[s5]
+5.	O, Sfinte Duh de viaţă darnic
+În orice zi să ne-nsoţeşti
+Să ne vedem curând în ceruri
+Acolo unde locuieşti.
+Cor: Noi Te rugăm revarsă acuma
+Din stropii Tăi cei minunaţi,Te rugăm
+Şi Te-om slăvi pe Tine întruna
+Până la cer vom fi luaţi.
+
+[order]
+s1,s2,s3,s4,s5

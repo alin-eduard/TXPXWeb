@@ -1,0 +1,90 @@
+[s1]
+1.Ne cheamă
+Golgota la jertfă
+Ne cheamă Isus la Calvar
+De veacuri strigă fraţii noştri
+De sub altar, de sub altar.
+524.
+
+[s2]
+Ne strigă sfinţii de sub glie
+Ce sângele şi l-au vărsat
+Ei n-au schimbat
+credinţa sfântă
+Ci pân' la moarte au luptat.
+
+[s3]
+2.Sunt mii de jertfe pretutindeni
+Lui Dumnezeu un bun prinos
+Ce răspândesc mireasma sfântă
+Pentru Hristos, pentru Hristos.
+
+[s4]
+De la Ştefan şi până astăzi
+Atâţi martiri s-au ridicat
+Cu preţul vieţii ei plătiră
+Dar de Isus nu s-au lăsat.
+
+[s5]
+3.Suntem înconjuraţi de martori
+Ce mărturie au depus
+În amfiteatre sau arene
+Pentru Isus, pentru Isus.
+
+[s6]
+Deci fiindcă avem atâtea pilde
+Ce ne-nconjoară ca un nor
+Să dăm păcatul la o parte
+Şi să călcăm pe urma lor.
+
+[s7]
+4.Şi noi avem să dăm o luptă
+Şi noi purta-vom un război
+Aşa cum scrie Apocalipsa
+De taina vremii de apoi.
+
+[s8]
+Dar însuşi Împăratul slavei
+Va merge-n fruntea oastei Lui
+Cu El avea-vom biruinţă
+Toţi cei ce sunt ai Domnului.
+
+[s9]
+5.	Acei ce vor birui fiara
+Şi-a ei lucrare pe pământ
+Vor sta cu Mielul împreună
+Pe munte sfânt,
+Pe munte sfânt.
+
+[s10]
+Cu alăutele în mână
+Lui Dumnezeu ei vor cânta
+Mari, minunate sunt, o, Doamne
+Lucrările şi slava Ta.
+
+[s11]
+6. El însuşi lacrima va şterge
+Şi întristarea de pe obraz
+Acolo nu va mai fi moarte
+Şi nici necaz şi nici necaz.
+
+[s12]
+Dar până s-ajungem acolo
+Ne-aşteaptă lanţuri prigoniri
+Şi noi vom proslăvi pe Domnul
+În vecii vecilor Amin.
+
+[s13]
+7.	De aceea fraţilor trezire
+Ne strigă Duhul Său cel sfânt
+Trezire strigă azi întruna
+Isus Hristos, Isus Hristos.
+
+[s14]
+El Împăratul veşniciei
+Şi Domnul Domnilor prea sfânt
+Cu El avea-vom biruinţă
+Aici în luptă pe pământ.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12,s13,s14

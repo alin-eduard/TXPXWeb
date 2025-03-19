@@ -1,0 +1,21 @@
+[s1]
+In bratul Tau ma dedic din nou
+Cu tot ce sunt Doamne
+Tu viata mea o tii in mana Ta
+Si sunt al Tau pe veci
+
+[s2]
+Isus eu ma incred in Tin’
+Isus tie ti-apartin
+Pentru tine eu traiesc
+Pe deplin ma daruiesc
+Cu tot ce sunt
+
+[s3]
+Te voi avea mereu naintea mea
+In orice zi ma-ncred in tine
+Si voi trai in ale tale cai
+Cuvantul tau pe veci
+
+[order]
+s1,s2,s3

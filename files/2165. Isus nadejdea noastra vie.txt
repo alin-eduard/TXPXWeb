@@ -1,0 +1,25 @@
+[s1]
+2165
+1. Isus nădejdea noastră vie  Tu vei veni ca să ne iei
+/: Noi vom lăsa a noastră glie  Vom fi cu Tine sus în cer :/.
+
+[s2]
+2. Ne-am săturat de
+acest pământ,
+De plâns şi de durere
+/: Isuse vino şi ne ia
+În ţara unde-i mângâiere :/.
+
+[s3]
+3. Mi-e dor de clipa minunată, Mi-e dor de Tine Mire scump
+/: O adă ziua aşteptată,
+Te aşteptăm cu toţi cântând :/.
+
+[s4]
+4. Nu vrem ceva să ne mai ţină Legaţi de-acest pământ străin
+/: Vrem să ne duci sus
+în lumină
+Și să uităm orice suspin :/.
+
+[order]
+s1,s2,s3,s4

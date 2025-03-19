@@ -1,0 +1,26 @@
+[s1]
+Ce frumos şi dulce
+Fi-va colo sus
+/: Unde ne va duce
+Blândul Miel Isus! :/
+
+[s2]
+Cu-albe aripioare,
+Veseli vom zbura
+/: Şi, din floare-n floare,
+Veseli vom sălta. :/
+
+[s3]
+Noi vom fi acolo
+Cu-ai noştri părinţi;
+/: Vom cânta, din harfe,
+Cu mulţi îngeri sfinţi. :/
+
+[s4]
+Lacrimi şi suspine
+Sus, nu vom avea.
+/: Ah! Isuse Doamne,
+Vino şi ne ia! :/
+
+[order]
+s1,s2,s3,s4

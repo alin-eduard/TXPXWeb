@@ -1,0 +1,34 @@
+[s1]
+De-atâtea ori Te-am întristat
+Şi te-am privit cu silă
+De-atâtea ori Te-am supărat
+Să Te răzbuni am aşteptat
+Dar Tu Isuse m-ai iertat
+Şi m-ai privit cu milă.
+
+[s2]
+De câte ori eu Te-am hulit
+În rând cu lumea toată
+De câte ori Te-am prigonit
+Şi-n cuie mari Te-am ţintuit
+Tu pentru mine-ai mijlocit
+Zicand: “O iartă-i Tată".
+
+[s3]
+De-atâtea ori cununi de spini
+Ţi-am pus cu mâini haine
+Şi-n loc ca setea să-Ţi alin
+Ţi-am dat cel mai amar venin,
+Dar în grădina cu măslini
+Tu-ai plâns şi pentru mine.
+
+[s4]
+De-atâtea ori eu te-am scuipat
+Crezând c-aşa e bine
+De-atatea ori ai lăcrimat
+Şi ani întregi ai aşteptat
+Ca să-nteleg cât ai răbdat
+Isuse pentru mine.
+
+[order]
+s1,s2,s3,s4

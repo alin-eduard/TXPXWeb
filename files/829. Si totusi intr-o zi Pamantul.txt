@@ -1,0 +1,33 @@
+[s1]
+829.
+1. Şi totuşi într-o zi pământul
+Va-ntâmpina un Prinţ ceresc
+Şi ce puţini aşteaptă ziua
+Chiar dacă mulţi o prevestesc.
+Cor: 	Dar Prinţul sfânt ca Mire vine
+Cel mai iubit şi aşteptat
+Isus Hristos e Domnul Păcii
+Să fie-n veci glorificat.
+
+[s2]
+2. Şi eschimoşi din nordul rece
+Din orice colţ de pe pământ
+Şi albi şi galbeni cât şi negri
+Îl vor vedea pe nori venind.
+Cor: 	Dar Prinţul sfânt ca Mire vine
+Cel mai iubit şi aşteptat
+Isus Hristos e Domnul Păcii
+Să fie-n veci glorificat.
+
+[s3]
+3. Va fi o zi neîntâlnită
+Va fi o realitate grea
+De vrei să zbori spre ţara sfântă
+Ascultă-L, crede-n jertfa Sa.
+Cor: 	Dar Prinţul sfânt ca Mire vine
+Cel mai iubit şi aşteptat
+Isus Hristos e Domnul Păcii
+Să fie-n veci glorificat.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,56 @@
+[s1]
+129.                                              Mi b m
+1. La Tine şi la jertfa sfântă
+La harul Tău măreţ
+Se-ndreaptă azi privirea noastră
+Cerându-Ţi îndrăzneţ
+
+[s2]
+/: Haina Ta curată fără nici o pată
+Să ne-mbrace azi pe toţi
+Şi-n sfântă iubire
+Sfântă moştenire
+Să ne unească pe toţi:/
+
+[s3]
+2. O rugă-n viaţă ni se-ndreaptă
+Spre Tine la infinit
+Am vrea iertarea-Ţi înţeleaptă
+Să dai la cei trudiţi
+
+[s4]
+/: Căci numai la Tine
+Doamne-i  izbăvire
+Prin nespuse suferinţi
+Haina Ta curată, jertfa minunată
+Şi prin sânge scump albiţi :/
+
+[s5]
+3. Spre harul Tău îndrept privirea
+Spre tronul mult dorit
+Eşti Stânca vieţii izbăvirea
+Ce mult noi Te-am dorit
+
+[s6]
+/: Chiar dacă furtuna
+Va bate întruna
+Iubirea nu va pieri
+Nu va fi zdrobită că-i de El zidită
+Şi-n dragoste ne-a uni :/
+
+[s7]
+4. Să ne-ndrepţi Tată azi privirea
+La sfântul Tău cuvânt
+La jertfa Ta e mântuirea
+Întregului pământ
+
+[s8]
+/: Chiar dacă va trece
+Viscolul cel rece
+Iubirea nu va pieri
+Nu va  fi zdrobită
+Că-i de El zidită
+Şi-n dragoste ne-a uni :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

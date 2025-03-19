@@ -1,0 +1,69 @@
+[s1]
+În viaţa mea de tânăr
+Din lumea de păcate
+Eu m-am întors la Domnul
+Şi le-am lăsat pe toate
+/ : M-am împăcat cu Domnul
+Părintele cel sfânt
+Am părăsit cei răul
+Aici pe-acest pământ : /
+1294
+1.
+
+[s2]
+Deşi calea e grea
+Azi pentru mieluşei
+Dar Domnul e Păstor
+Şi mă ajută el
+/ : Îmi spune şi mă cheamă
+aproape ca să stau
+Să nu privesc în urmă
+La lume şi ce-i rău : /
+2.
+
+[s3]
+Promite ispiteşte
+Satan cu viclenie
+Îmi spune că-mi dă totul
+Dacă mă-ntorc din cale
+/ : Dar eu privesc ’nainte
+Spre-al meu Mântuitor
+Ce s-a jertfit pe cruce
+Ca azi eu să nu mor : /
+3.
+
+[s4]
+Dar te rugăm Isuse
+În dragostea Ta mare
+Să-mi dai ca la Rusalii
+O binecuvântare
+/ : Priveşte scump Isuse
+Azi în grădina Ta
+Au înflorit toţi crinii
+Dar câţi vor rămânea : /
+4.
+
+[s5]
+O binecuvântare
+Isuse scump să dai
+Pune la toţi sigiliul
+Umple-i cu duhul Sfânt
+/ : Deşi pământu-i mare
+Cu-al tău sânge stropit
+Puţine sunt florile
+Care au înflorit : /
+5.
+
+[s6]
+Revarsă azi o ploaie
+Târzie pe pământ
+Ca-n ziua cinzecimii
+Când iar plouă Duhul Sfânt
+/ : O binecuvântare
+La toţi Isuse Scump
+Pune la toţi sigiliul
+Umple-i cu duhul Sfânt : /
+6.
+
+[order]
+s1,s2,s3,s4,s5,s6

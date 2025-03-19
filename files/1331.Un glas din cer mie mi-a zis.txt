@@ -1,0 +1,49 @@
+[s1]
+1331.
+1.  Un glas din cer mie mi-a zis
+Prin poarta raiului deschis
+Vino acum şi vei vedea
+Lucrări care s-or întâmpla.
+2.  Atunci când Duhul mi-a şoptit
+În ceruri unde am zărit
+Tronul şi pe cel ce şedea
+Şi ospăţul de-asemenea.
+
+[s2]
+3.  În jurul tronului şedea
+Pe alte tronuri se odihnea
+A Lui martori şi sfinţii martiri
+Având pe cap cununi.
+4.  Toate acestea nu-ncetau
+Ziua şi noaptea ei ziceau
+Sfânt, Sfânt e Domnul Dumnezeu
+A fost este va fi mereu.
+
+[s3]
+Când făpturile aşa ziceau
+Celelalte se proşterneau
+Şi aruncau cununa lor
+Celui din vecii vecilor.
+6.  Zicând vrednic eşti să primeşti
+Măririi şi laude unde Tu eşti
+Căci toate Doamne le-ai creat
+După a Ta voie chip le-ai dat.
+
+[s4]
+Astfel şi eu mă însoţesc
+Cu cei din ceruri să-l măresc
+Şi să-ţi cântăm totdeauna
+Slava Amin Aleluia.
+8.  Şi mielului înjunghiat
+Ce pentru noi viaţa şi-a dat
+Să fie toată puterea
+Înţelepciunea mărimea.
+
+[s5]
+9.  Căci voi şi cei ce astăzi staţi
+Veniţi acum şi să gustaţi
+Din marea bunătate a Lui
+Să-i dăm mărire Tatălui.
+
+[order]
+s1,s2,s3,s4,s5

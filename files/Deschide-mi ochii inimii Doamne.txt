@@ -1,0 +1,15 @@
+[s1]
+/: Deschide-mi ochii inimii, Doamne!
+Deschide-mi ochii inimii!
+Vreau să Te văd!
+Vreau să Te văd! :/
+
+[s2]
+/: Să Te văd înălţat,
+Plin de mărire şi slavă!
+Dă-ne putere şi dragoste!
+Căci Tu eşti sfânt, sfânt, sfânt! :/
+Vreau să Te văd!
+
+[order]
+s1,s2

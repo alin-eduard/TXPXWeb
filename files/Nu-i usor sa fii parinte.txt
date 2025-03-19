@@ -1,0 +1,42 @@
+[s1]
+Nu-I uşor să fii părinte
+De-ai uitat c-ai fost copil
+Nopţi de-a rândul nedormite
+Şi probleme zi de zi
+Însă nu-I nici greu când viaţa
+Lui Isus i-o vei preda
+Un copil aduce soare-n casa ta
+
+[r1]
+Lăsaţi copiii să meargă la El
+E-atat de frumos cu Isus
+El vrea să le dea bucurii fel de fel
+Din gloria unde s-a dus
+Lăsaţi copiii să meargă la El
+Al lor este cerul întreg
+Şi dacă mai ştiţi să iubiţi ca şi ei
+Veţi merge şi voi acolo
+unde toţi copiii merg
+
+[s2]
+Un copil îţi poate aduce
+Când priveşti în ochii săi
+Mângâierea cea mai dulce
+Chiar de anii îţi par mai grei
+Când te întorci acasă seara
+Şi te-aşteaptă-n prag râzând
+Simţi că raiul întreg
+coboară pe pământ
+
+[s3]
+Nu-I uşor să fii părinte
+De-ai uitat copil să fii
+Nopţi de-a rândul nedormite
+Şi probleme zi de zi
+Dar de ştii să-I dai iubirea
+Să-I îndrepţi paşii spre cer
+Vei avea mereu
+doar binecuvantari
+
+[order]
+s1,r1,s2,r1,s3,r1

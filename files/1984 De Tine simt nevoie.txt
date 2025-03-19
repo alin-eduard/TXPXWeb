@@ -1,0 +1,33 @@
+[s1]
+1. De Tine simt nevoie
+Al inimi Stăpân
+Când valul m-ameninţă
+Cum singur să rămân.
+1984        Mi m
+
+[r1]
+Cor: Rămâi pe todeauna
+Rămâi în viaţa mea
+De Tine simt nevoie
+Deplin a Te avea.
+
+[s2]
+2. O cum putea-voi oare
+La ţărmuri să ajung
+De nu-mi vei fi Tu pază
+Pe drumul greu şi lung.
+
+[s3]
+3. În marea-mi slăbiciune
+Tu eşti puterea mea
+În Tine am viaţă
+Şi-n Tine o voi avea.
+
+[s4]
+4. De Tine simt nevoie
+Al vieţii mele dor
+De Tine dulce nume
+Şi scump Mântuitor.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

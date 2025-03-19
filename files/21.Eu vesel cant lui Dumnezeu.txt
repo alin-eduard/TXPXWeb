@@ -1,0 +1,39 @@
+[s1]
+21.
+1. Eu vesel cânt lui Dumnezeu
+Şi-n veci îi voi cânta
+Căci m-a chemat prin Fiul Său
+Prin îndurarea Sa.
+
+[r1]
+Cor: Umblam departe de Isus
+Eram fără ajutor
+Dar El la Sine m-a adus
+Ca şi un bun Păstor
+
+[s2]
+2. Eu vesel cânt pentru Hristos
+Şi pentru harul Său
+El mântui un păcătos
+Din mâna celui rău
+
+[s3]
+3. De-aceea-n veci îi voi cânta
+El mi-este Salvator
+Pe calea Sa de voi urma
+Voi fi biruitor.
+
+[s4]
+4. Şi vesel am să-L cânt în cer
+Când calea-mi voi sfârşi
+Te-aştept Isuse şi azi te-aştept
+O, când vei reveni.
+
+[s5]
+Cor: Umblam departe de Isus
+Eram fără ajutor
+Dar El la Sine m-a adus
+Ca şi un bun Păstor                                                                                                      								Amin.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5

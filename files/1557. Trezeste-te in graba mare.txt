@@ -1,0 +1,81 @@
+[s1]
+1557.
+1. Trezeşte-te în graba mare
+Tu poporule iubit
+/: Că-i aproape a Mea venire
+Şi tu nu eşti pregătit :/
+
+[s2]
+2.Cuvântul Mi l-ai călcat
+De Mine Te-ai depărtat
+/: Haina tu ţi-o murdăreşti
+Pe Mine Mă întristezi :/
+
+[s3]
+3. O de ce n-asculţi de Mine
+Ca să ai tu mântuire
+/: Trezeşte-te nu mai dormi
+Sunt aproape şi-oi veni :/
+
+[s4]
+4. Voi veni la miez de noapte
+Ca să-Mi fac a Mea dreptate
+/: O iubitul Meu popor
+Nu mai sta nepăsător :/
+
+[s5]
+5. Că se apropie ziua
+Aspru a te judeca
+/: Te-oi întreba de legământ
+Ce cu Mine l-ai făcut :/
+
+[s6]
+6. Martor îţi va fi apa
+Dovedindu-ţi viaţa ta
+/: Cea mai bună mărturie
+Dacă tu Mi-ai slujit Mie :/
+
+[s7]
+7. Apa sânge Duhul Sfânt
+Martor este pe pământ
+/: O poporule iubit
+Eu te-ntreb eşti pregătit :/
+
+[s8]
+8. Ca să poţi sta faţă-n faţă
+Cu Acel ce-ţi dă viaţă
+/: O biserică iubită
+Eu te-ntreb eşti pregătită :/
+
+[s9]
+9. Curăţeşte-ţi haina ta
+Ca să-L poţi întâmpina
+/: Pe Isus Mântuitorul
+Mielul Sfânt Izbăvitorul :/
+
+[s10]
+10. Iată-L vine mai departe
+Tu nu ştii poate la noapte
+/: Căci El vine ca un hoţ
+Seama n-o să ieie toţi :/
+
+[s11]
+11. Unii-s plini de îngrijire
+Care trăiesc pentru fire
+/: Şi-i va prinde ziua Mea
+Şi atunci greu ei vor ofta :/
+
+[s12]
+12. Deci tu astăzi să veghezi
+Pe Mire ca să-L aştepţi
+/: Ca să-L poţi întâmpina
+Când pe nori se va arăta :/
+
+[s13]
+13. Ca să poţi fi dus acasă
+Şi să stai cu El la masă
+/: O popor şi iar popor
+Nu mai sta nepăsător :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12,s13

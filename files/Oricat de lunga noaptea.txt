@@ -1,0 +1,38 @@
+[s1]
+Oricît de lungă noaptea
+Furtuna cît de grea
+Eu n-am să sting lumina
+Şi nu-nchid poarta mea.
+
+[s2]
+La orice strajă poate
+Să vină Domnul meu
+Şi-n casa cu lumină
+El ştie că sînt eu.
+
+[s3]
+Oricît de grea-i vegherea
+Singură orişicînd
+Eu n-am să las iubirea
+Închisă, dormitînd.
+
+[s4]
+Pe Domnul meu să vină
+Cu drag voi aştepta
+Şi poarta cea deschisă
+El ştie că-i a mea.
+
+[s5]
+La geamul cu lumină
+Grăbească-Se uşor
+Pe poarta cea deschisă
+Să intre iubitor.
+
+[s6]
+Ştiind că-acolo este
+Un suflet singurel
+Şi cel mai scump de-acolo
+El ştie că-i al meu.
+
+[order]
+s1,s2,s3,s4,s5,s6

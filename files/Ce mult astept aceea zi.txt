@@ -1,0 +1,42 @@
+[s1]
+Ce mult aștept aceea zi,
+Când Tu din slavă vei veni.
+/: Cu Tine Doamne-n veci să fim
+Și să nu ne mai despărțim. :/
+
+[s2]
+Să ne-ntâlnim cu toți în nori,
+Împreună frați și surori
+/: Și să zburăm spre veșnicii
+Către eterne bucurii. :/
+
+[s3]
+O, Doamne-adu aceia zori,
+Acele veșnice splendori.
+/: Aceea zi noi o dorim
+Și de departe o zărim. :/
+
+[s4]
+Ajută-ne în încercări,
+Stai lângă noi în întristări.
+/:Să ne păstrăm Doamne curați
+Până la cer vom fi chemați. :/
+
+[s5]
+Ierusalim, oraș ceresc
+Locaș preasfânt, dumnezeiesc.
+Îmi arde doru-aprins în piept,
+De câtă vreme te aștept.
+/: Mi-așa de dor, mi-așa de dor,
+Spre Tine-odată vreau să zbor:/
+
+[s6]
+Aș vrea să zbor spre-acele zări
+Să uit de lacrimi și dureri.
+În strălucirea de nespus,
+Unde-mpărat va fi Isus.
+/: Cu Daniel și Avraam
+Cântând în noul Canaan. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

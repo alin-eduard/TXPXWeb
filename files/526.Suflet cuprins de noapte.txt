@@ -1,0 +1,43 @@
+[s1]
+1.	Suflete cuprins de noapte
+Chinuit de gândul rău
+Dumnezeu vrea să te scape
+Dându-ţi ajutorul Său.
+Cor: Nu te abate în ceasuri grele
+De la sfântul Său cuvânt
+Ce promite El le ţine
+Crede, crede ne-ntrerupt.
+526.
+
+[s2]
+2.	De-a Satanei influenţă
+Te despartă tot mereu
+Lui Isus mâna ta dă-o
+Şi ascultă graiul Său.
+Cor: Nu te abate în ceasuri grele
+De la sfântul Său cuvânt
+Ce promite El le ţine
+Crede, crede ne-ntrerupt.
+
+[s3]
+3.	Dacă vrei să fii cu Isus
+Eul tău să ţi-l omori
+Iar în tine să se vadă
+Blândul bun Mântuitor.
+Cor: Nu te abate în ceasuri grele
+De la sfântul Său cuvânt
+Ce promite El le ţine
+Crede, crede ne-ntrerupt.
+
+[s4]
+4.	Şi deci lasă ca să piară
+Toată îndoiala ta
+Te încrede doar în Isus
+Toate bune el ţi-a da.
+Cor: Nu te abate în ceasuri grele
+De la sfântul Său cuvânt
+Ce promite El le ţine
+Crede, crede ne-ntrerupt.
+
+[order]
+s1,s2,s3,s4

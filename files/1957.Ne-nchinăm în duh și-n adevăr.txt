@@ -1,0 +1,33 @@
+[s1]
+1957
+1. Ne-nchinăm în duh și-n adevăr
+Nu lăsăm nici cât un fir de păr
+Din ce Tu ne-ai învățat Isus
+Prin cuvântul Tău adus de sus.
+
+[r1]
+Cor: /:Ne închinăm
+Ne închinăm
+Doamne Ție-n veci
+Noi ne-nchinăm:/
+
+[s2]
+2. Noi nu ne-nchinăm făpturii, nu
+Ție ne-nchinăm cu sufletul
+Și cu trupul vrem deplin să-ți dăm
+Închinarea ce ți-o datorăm.
+
+[s3]
+3. Tu ești pilda vieții noastre noi
+Cum Te-ai închinat Tu, vrem și noi
+Dumnezeului cel drept și sfânt
+Să ne închinăm Lui pe pământ.
+
+[s4]
+4. Adevărul Tău deplin îl vrem
+În tot ce trăim și ce suntem
+Ca prin toate să fii înălțat
+Tu și Tatăl veșnic minunat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

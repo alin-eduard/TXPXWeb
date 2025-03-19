@@ -1,0 +1,35 @@
+[s1]
+Doar, doar Isus
+El poate vindeca,
+Doar, doar Isus
+El poate mângâia
+
+[s2]
+/: Doar, doar Isus
+Iţi şterge lacrima,
+Vino la El nu-ntârzia! :/
+
+[s3]
+Doar, doar Isus
+Te poate ajuta,
+Doar, doar Isus
+El poate a ierta
+
+[s4]
+/: Doar, doar Isus
+Povara-ţi va lua,
+Vino şi El te va ierta :/
+
+[s5]
+Doar, doar Isus
+Lua al tău păcat,
+Sus pe calvar
+El crucea a răbdat
+
+[s6]
+/: Doar, doar Isus
+Te poate mântui,
+Nu amâna, te rog să vii! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

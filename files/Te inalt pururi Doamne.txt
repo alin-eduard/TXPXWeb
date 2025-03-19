@@ -1,0 +1,50 @@
+[s1]
+Te înalţ pururi Doamne
+Căci m-ai ridicat
+Pe vrăjmaşi să râdă
+Tu nu i-ai lăsat
+
+[s2]
+Am strigat spre Tine
+Doamne-ndurător
+Şi Tu m-ai vindecat
+N-ai lăsat să mor
+
+[s3]
+Doamne al meu suflet
+Din mormânt l-ai scos
+M-ai adus la viaţă
+Dintre morţii de jos
+
+[s4]
+Domnului să cântaţi
+Voi cei preaiubiţi
+Şi slăvitu-I nume
+Pururi să-L măriţi
+
+[s5]
+Căci o clipă ţine
+El mânia Sa
+Însă îndurarea
+Pururi va ţinea
+
+[s6]
+Seara vine plânsul
+Chinul cel amar
+Dimineaţa vine
+Veselia iar
+
+[s7]
+Când eram în bine
+Îmi ziceam aşa:
+Niciodată Doamne
+Nu m-oi clătina
+
+[s8]
+Voi cânta Domnului
+Celui Preaiubit
+Căci din grea pierzare
+El m-a mântuit.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

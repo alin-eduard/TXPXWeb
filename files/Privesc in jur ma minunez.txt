@@ -1,0 +1,31 @@
+[s1]
+Privesc în jur, mă minunez
+De tot ce-aud şi ce zăresc
+Şi-atunci mă-ntreb:
+“Cine-a creat
+Pămîntu-ntreg cu mare şi uscat?”
+Aud un glas ce-mi spune-aşa:
+
+[r1]
+Tot ce există pe acest Pămînt
+Doar Dumnezeu El le-a făcut!
+Şi nori şi ploi şi fulgere şi vînt
+Sunt doar a Lui, El le-a făcut
+El le-a făcut!
+
+[s2]
+Susurul blînd al apelor
+Ce curg mereu în albia lor
+Şi pasărea ce urcă-n zbor
+Şi mările cu valurile lor
+O spun în cor în felul lor:
+
+[s3]
+Munţii înalţi ce străjuiesc
+De mii de ani nu se clintesc
+Şi florile ce ne zîmbesc
+Şi aştrii ce în noapte strălucesc
+O spun în cor în felul lor:
+
+[order]
+s1,r1,s2,r1,s3,r1

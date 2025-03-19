@@ -1,0 +1,38 @@
+[s1]
+Odata lânga drum statea
+Pe când Domnul Isus trecea
+Un om în zdrente, cersetor
+Fara de ajutor.
+
+[r1]
+/: Era orb :/ si nu vedea
+/: Dar credea :/ in Dumnezeu.
+/: Ca sa vada :/ el dorea -
+Era orbul Bartimeu.
+
+[s2]
+Isus l-a intrebat: Ce vrei ?
+O, Doamne, ca sa vad doresc
+Intelepciune sa primesc
+Si sa traiesc !
+
+[s3]
+Credinta ta te-a mântuit !
+Ridica-te! Isus i-a zis.
+Indata orbul a sarit
+Si s-a tamaduit.
+
+[s4]
+Era orb si nu vedea
+Dar Isus l-a vindecat
+Bartimeu nu mai cersea
+Caci Isus l-a vindecat.
+
+[s5]
+El haina repede-a lasat
+Si n-a mai pregetat nimic
+Si pe deplin s-a devotat
+Sa-i fie ucenic.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

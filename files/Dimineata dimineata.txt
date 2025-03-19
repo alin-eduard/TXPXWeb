@@ -1,0 +1,32 @@
+[s1]
+Dimineaţa, dimineaţa
+Iarăşi a sosit la noi
+Şi astăzi toţi cu iubire
+Putem sluji Domnului.
+Tatăl nostru scump din ceruri
+Binecuvintează ziua,
+Ca în toate să-mplinim,
+Numai sfântă voia Ta.
+
+[r1]
+De-ar veni şi azi ispite
+Şi vor bate iar furtuni
+Din toate primejdiile
+Lângă Tin’ să ne aduni.
+Vor lovi-n zadar atuncea
+Săgeţile Satanei
+Căci sufletul va fi scutit
+De platoşa credinţei.
+
+[s2]
+Învingătorul nost’ Isus,
+Cu mâna Ta condu-ne
+O, fii cu noi în tot lucrul
+Pe cale-ndreptându-ne.
+Dă-ne putere să-nvingem
+Păcatul, ispita grea
+Şi ţine-ne la pieptul Tău,
+Isuse scump, pururea.
+
+[order]
+s1,r1,s2,r1

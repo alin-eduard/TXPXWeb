@@ -1,0 +1,20 @@
+[s1]
+Doamne, îţi spun: da!
+Vreau să fac doar voia ta.
+Doamne îţi spun: da,
+Voia Ta nu voia mea.
+Cand Duhul Tău mă va-ndemna,
+Doamne, te voi asculta
+Şi răspunsul meu oricând va fi da!
+
+[s2]
+Doamne, îţi spun: da!
+Oriunde Te voi urma.
+Doamne, îţi spun: da,
+Calea Ta voi căuta.
+Cand Duhul Tău mă va-ndemna
+Unde spui, eu voi pleca
+Şi răspunsul meu oricând va fi da!
+
+[order]
+s1,s2

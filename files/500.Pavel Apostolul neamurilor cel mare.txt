@@ -1,0 +1,31 @@
+[s1]
+1. Pavel Apostolul
+Neamurilor cel mare
+Servească sufletului nost‘
+De-mbărbătare
+Ca vâslind în contra mării
+Şi-a valurilor
+S-ajungem şi noi ca dânsul
+Toţi biruitori
+500.
+
+[s2]
+2. Furtuna este mare, valuri se ridică
+Luntrea credinţei se afundă
+Omul se-nfrică
+Dar un tânăr stă liniştit
+Orice ar veni
+El e Pavel care zice:
+"Nimeni n-a pieri".
+
+[s3]
+3. Sus dar către ţintă
+Ca Pavel Apostolul
+Că ne aşteaptă cu coroană
+Mântuitorul
+El va şterge sudorile
+De pe fruntea ta
+Şi te-a duce-n fericire, în patria Sa.
+
+[order]
+s1,s2,s3

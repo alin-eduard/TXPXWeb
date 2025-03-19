@@ -1,0 +1,29 @@
+[s1]
+Hrist! Pentru cei ce lâncezesc
+Cuvântul Tău e rouă
+E stropul sfânt, dumnezeiesc,
+Nu ni-L închide nouă!
+Din mândri nori să-L laşi pe flori
+Ca toate către Soare
+Să crească roditoare.
+
+[s2]
+Cuvântul Tău e bici de foc
+Ce sparge orice stâncă,
+El arde-n inimă, pe loc,
+O stricăciune-adâncă.
+Să laşi mereu, Cuvântul Tău
+Păcatul să-l stârpească,
+Să-l ardă ca pe-o iască.
+
+[s3]
+Cuvântul Tău e stea pe mări,
+Pe rătăciţi deşteaptă
+Şi din întinse depărtări
+Spre Domnul îi îndreaptă.
+O, stea ce-nvingi, să nu te stingi,
+Pătrunde pân’ la mine
+Şi ia-mă-n cer la Tine!
+
+[order]
+s1,s2,s3

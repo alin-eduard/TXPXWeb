@@ -1,0 +1,26 @@
+[s1]
+Frumoasă-i a Domnului casa!
+Spre ea merge un sfânt popor;
+Biserica Lui cea aleasă
+Slăveşte pe-al ei Salvator.
+
+[r1]
+Frumuseţi vom vedea
+Când noi sus în cer vom intra!
+Pe Hristos vom vedea atunci
+Când în cer vom intra!
+
+[s2]
+Cântăm slava Sa minunată,
+Dorim paradisul ceresc;
+Isus calea Lui o arată
+Acelora ce azi Îl primesc.
+
+[s3]
+Intra-vom în patria sfântă,
+Scăpaţi de păcat şi dureri;
+Acolo toţi sfinţii îi cântă
+La tronul eternei puteri.
+
+[order]
+s1,r1,s2,r1,s3,r1

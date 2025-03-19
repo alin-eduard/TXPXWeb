@@ -1,0 +1,44 @@
+[s1]
+Fa
+1. O Isuse dulce
+Pentru noi pe cruce
+Ai fost răstignit
+/:Iar eu rătăcitul
+Și nefericitul
+Am păcătuit:/.
+220.
+
+[s2]
+2. Pe-a plângerii vale
+De la a Ta cale
+Mult m-am depărtat
+/:A Tale cuvinte
+Isuse preasfinte
+Nu le-am ascultat:/.
+
+[s3]
+3. Dar acuma iată
+Inima mea toată
+Ţie ţi-o jertfesc
+/:A mele păcate
+Vreau acuma toate
+Să le părăsesc:/.
+
+[s4]
+4. Rogu-mă fierbinte
+Isuse preasfinte
+A lui Dumnezeu
+/:Dă iar alinare,
+Dă iar uşurare
+Sufletului meu:/.
+
+[s5]
+5. Căci eu cu credinţă
+Şi cu umilinţă
+Vin la Tine-acum
+/:Primeşte-mă iarăşi
+Fii mie tovarăş
+Pe-al vieţii drum:/.
+
+[order]
+s1,s2,s3,s4,s5

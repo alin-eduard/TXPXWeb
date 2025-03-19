@@ -1,0 +1,42 @@
+[s1]
+M-aflam pe-a mea carare
+In noapte si-n pacat
+Cand l-am zarit pe-Acela
+Ce viata El mi-a dat
+Mi-a spus ca ma iubeste
+Ca m-a eliberat
+Ca pentru vina mea
+Si-a ta El si-a dat viata Sa
+
+[r1]
+Nu mai privesc n-apoi
+Pe drum suntem doar doi
+Si cat de greu ar fi
+Cu mine-i zi de zi
+Ma poarta-n Bratul Sau
+Sa fiu pazit de rau
+El e al meu iar eu al Sau
+El este Dumnezeu
+
+[s2]
+Povara de pacate
+Ce greu ma apasa
+Eu i-am dat-o lui Isus
+Si viata El mi-a dat
+Mi-a spus ca ma iubeste
+Ca m-a eliberat
+Si pentru vina mea
+Si-a ta el si-a dat viata Sa
+
+[s3]
+Cand trec prin incercare
+Cu mine e mereu
+El ma calauzeste
+Chiar daca drumu-i greu
+Salvat eu sunt prin Isus
+Al meu Mantuitor
+Si astazi cant si sunt voios
+Ca am un Salvator.
+
+[order]
+s1,r1,s2,r1,s3,r1

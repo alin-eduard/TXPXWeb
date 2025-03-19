@@ -1,0 +1,50 @@
+[s1]
+Am ascultat o voce din ceruri:
+“Iată cortul lui Dumnezeu cu ai Săi!”
+El va-mpărăţii cu poporul împreună
+Şi Dumnezeu va fi cu ei.
+
+[s2]
+Le va şterge lacrima din ochii lor
+Şi moarte nu va mai fi
+Plâns, nici întristare şi nici dureri,
+Căci toate s-au dus şi au trecut.
+
+[s3]
+Cel ce stă pe tron, din cer a zis:
+“Iată, voi face totul nou!”
+Şi mi-a spus: “Scrie tot ce vezi,
+Într-o carte, căci e-adevărat!”
+
+[s4]
+Este scris, este scris:
+El este Alfa şi Omega,
+e-nceput şi e sfârşit.
+E Dumnezeu, adevărat,
+e Domn a tot ce a creat.
+Mesia, Iehova, Prinţ al păcii e
+Şi Fiu de om, spiţă din Avraam,
+În trinitate-al doilea.
+
+[s5]
+El este Alfa şi Omega,
+e-nceput şi e sfârşit.
+E Dumnezeu, adevărat,
+e Domn a tot ce a creat.
+Mesia, Iehova, Prinţ al păcii e
+Şi Fiu de om, spiţă din Avraam,
+În trinitate-al doilea.
+
+[s6]
+El este Alfa şi Omega,
+e Dumnezeu şi Împărat
+E Mesia, Iehova, al păcii Domn,
+spiţă din Avraam
+El este Alfa şi Omega,
+e-nceput şi e sfârşit,
+Dumnezeu, Împărat,
+e Domn în veci de veci,
+El e Domn!
+
+[order]
+s1,s2,s3,s4,s5,s6

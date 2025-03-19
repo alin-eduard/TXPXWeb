@@ -1,0 +1,40 @@
+[s1]
+1. Priviţi creştini la Domnul
+La sfântul Dumnezeu
+La slava ce o are
+Priviţi la Fiul Său
+Cor: /: Când îţi întorci privirile spre El
+Te luminezi de bucurie
+Şi nu ţi se umple faţa de ruşine:/
+1832.      Mi
+Psalmul 34:5
+
+[s2]
+2.  Priviţi adânc splendoarea
+La tot ce a creat
+Priviţi şi daţi-I slavă
+Nimic nu-I de mirat.
+Cor: /: Când îţi întorci privirile spre El
+Te luminezi de bucurie
+Şi nu ţi se umple faţa de ruşine:/
+
+[s3]
+3.  Am necurmat pe Domnul
+Naintea ochilor
+Găsesc în El odihnă
+Şi sunt biruitor.
+Cor: /: Când îţi întorci privirile spre El
+Te luminezi de bucurie
+Şi nu ţi se umple faţa de ruşine:/
+
+[s4]
+4.  Un lucru-ţi cer o Doamne
+Fierbinte îl doresc
+În casa Ta o viaţă
+Aş vrea să locuiesc.
+Cor: /: Când îţi întorci privirile spre El
+Te luminezi de bucurie
+Şi nu ţi se umple faţa de ruşine:/
+
+[order]
+s1,s2,s3,s4

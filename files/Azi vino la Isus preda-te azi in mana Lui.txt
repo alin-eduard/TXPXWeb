@@ -1,0 +1,30 @@
+[s1]
+Azi vino la Isus,
+predă-te azi în mana Lui!
+Chiar dacă vrăjmaşul
+te-ndeamnă rău, să nu-l asculţi!
+Azi Domnul te cheamă
+Cuvantul Sfînt să Îl primeşti
+Spune-I de durere,
+balsam de la Domnul primeşti!
+
+[r1]
+/: Lasă păcatul, Isus viaţa Şi-a dat
+Curat să fii prin al Lui sange !
+El te-a iertat, nu ignora
+Chemarea Sa ! :/
+
+[s2]
+Nu sta-n nepăsare,
+căci maine nu ştii dacă eşti!
+Domnul te ascultă,
+de faptele-ţi de te căieşti!
+
+[s3]
+Nu privi la lume,
+căci te huleşte zi de zi!
+Doar Domnul îţi spune
+că Dumnezeu te-a izbăvit.
+
+[order]
+s1,r1,s2,r1,s3,r1

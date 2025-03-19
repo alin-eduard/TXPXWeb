@@ -1,0 +1,21 @@
+[s1]
+2189
+1. /: Îmi ridic ochii spre cer
+Ajutorul mi-l dă El
+El m-ajută ne-ncetat
+Numele-I fie înălțat :/
+
+[r1]
+Cor: /: Ridică-ți ochii spre cer
+Ajutat vei fi de El
+Înspre cer tu vei privi
+Ajutor tu vei primi :/
+
+[s2]
+2. /: El e păzitorul meu
+Ajutor în orice greu
+El nu doarme ci privește
+Zi de zi mă ocrotește :/
+
+[order]
+s1,r1,s2,r1

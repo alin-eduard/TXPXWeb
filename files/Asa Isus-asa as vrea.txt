@@ -1,0 +1,52 @@
+[s1]
+1
+Aşa Isus, aşa aş vrea
+Cântarea mea să fie.
+Din cântecele lumii-ntregi
+Să pot simţirea-mi să alegi,
+Să fie-ntregul dor în ea.
+Aşa Isus, aşa aş vrea
+Cântarea mea să fie.
+
+[s2]
+2
+Aşa Isus, aşa aş vrea
+Credinţa mea să fie.
+Aceeaşi cum a fost întâi,
+Şi-n ea statornic să rămâi,
+Curat în veac s-o pot avea.
+Aşa Isus, aşa aş vrea
+Credinţa mea să fie.
+
+[s3]
+3
+Aşa Isus, aşa aş vrea
+Să-mi fie a mea nădejde,
+Ispita fie cât de grea,
+Să cred, să-nving când lupt cu ea,
+S-ajung la biruinţa Ta.
+Aşa Isus, aşa aş vrea
+Să-mi fie a mea nădejde.
+
+[s4]
+4
+Aşa Isus, aşa aş vrea
+Să fie-a mea iubire.
+Senină, ca un cer senin,
+Duioasă ca un sfânt alin,
+Precum a fost iubirea Ta.
+Aşa Isus, aşa aş vrea
+Să fie-a mea iubire.
+
+[s5]
+5
+Aş vrea Isus, aşa aş vrea
+În tot să-Ţi seamăn Ţie.
+Să simt că recunoşti că sunt
+Un strop din viul Tău Cuvânt,
+O rază din fiinţa Ta.
+Şi să rămân, Isus-aş vrea.
+Aşa o veşnicie.
+
+[order]
+s1,s2,s3,s4,s5

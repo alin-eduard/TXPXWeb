@@ -1,0 +1,42 @@
+[s1]
+Cat de frumoasa este vestea
+pe care noi o auzim
+E vestea buna, salvatoare,
+in clipa cand o primim.
+Ce frumos si duios, pace ea ne da.
+Pretutindeni unde intra,
+viata toata o schimba.
+
+[s2]
+Hristos se vesteste! El traieste!
+Azi ne inchinam Lui,
+El domneste in veci de veci
+Te bucura Sioane si canta suflete;
+Intreg pamantul, cerul
+Se-nchina Domnului Celui Viu!
+
+[s3]
+Isus conduce viata acelor ce-s copii
+A Sa rascumparare
+multi oameni vor primi
+El este Vegheatorul, alunga teama ta;
+El e Mantuitorul: inchina-I viata ta
+Numai Lui!
+
+[s4]
+Popoarele pe Domnul sa-L
+laude ne-ncetat
+Regatele serveasca cerescul Imparat!
+Intregul univers va fi domnit
+de pace cereasca,
+Domnia lui Hristos pamantul
+va sa stapaneasca!
+
+[s5]
+Osiana! Aleluia!
+Mare e Domnul Dumnezeul Sfant!
+Stapan si Domn! In veci de veci!
+Maret, Etern!
+
+[order]
+s1,s2,s3,s4,s5

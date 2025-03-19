@@ -1,0 +1,26 @@
+[s1]
+Ce scumpă mi-e prezenţa Ta,
+Isuse drag şi bun,
+Odihna-mi dă iubirea Ta
+Când Ţie mă supun.
+
+[s2]
+Furtuni, ispite de-or veni,
+Mă-ncred în braţul Tău;
+Tu sigur mă vei izbăvi,
+Cu mine eşti mereu.
+
+[s3]
+În casa Ta când mă închin
+Atâta pace am,
+Că simt prezenţa Ta deplin -
+Ce minunat balsam!
+
+[s4]
+Doar Tu eşti fericirea mea,
+Isuse minunat.
+Când faţa Ta o voi vedea,
+Cânta-voi ne-ncetat.
+
+[order]
+s1,s2,s3,s4

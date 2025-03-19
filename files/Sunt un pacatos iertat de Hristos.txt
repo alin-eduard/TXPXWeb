@@ -1,0 +1,10 @@
+[s1]
+Sînt un păcătos iertat de Hristos
+El m-a mîntuit, de păcat m-a curăţit.
+O Tată ceresc eu îţi mulţumesc
+Că m-ai învăţat şi din harul Tău mi-ai dat.
+/: Veşnic voi cînta, Doamne, slava Ta
+Şi Te voi mări cît timp voi trăi ! :/
+
+[order]
+s1

@@ -1,0 +1,32 @@
+[s1]
+De vrei să-nveţi răbdarea,
+Ea-i leacul cel mai sfânt
+La orişice durere
+Şi pierderi pe pământ.
+
+[r1]
+Răbdarea, răbdarea,
+Creştine-nvaţ-o bine!
+Credinţa şi pacea,
+Răbdarea-ntregi le ţine!
+
+[s2]
+Nicicând nu e prea multă
+Răbdare-n viaţa ta,
+Prin ea primeşti putere,
+Poveri să poţi purta.
+
+[s3]
+Răbdarea e ca sarea
+Ce nu se strică-n veac,
+Dă gust şi frumuseţe
+La toate, după plac.
+
+[s4]
+De vrei să-nveţi, creştine,
+Răbdarea lui Isus,
+Ca mielul spre junghiere,
+Smerit El S-a supus!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,40 @@
+[s1]
+2062 re m
+1. E harul Tău că sunt aici
+Stând în prezența jertfei Tale
+Cu frații mei, cu mari, cu mici
+Cântându-Ți Doamne Osanale
+
+[s2]
+2. E harul Tău că mai exist
+În dragostea-Ți nemăsurată
+/: Și-s fericit chiar de sunt trist
+Că încă-ți mai pot spune Tată:/
+
+[s3]
+3. E harul Tău că pot să zbor
+În duh spre culmile divine
+E mare har că în cuptor
+Nu Te-am pierdut,
+Isus pe Tine
+
+[s4]
+4. E harul Tău chiar dacă plâng
+Și curg și-acum lacrimi amare
+/: Eu știu Isus că în curând
+Veni-vor zile iar cu soare :/
+
+[s5]
+5. E harul Tău chiar dacă sunt
+Batjocorit aici în vale
+Și sufăr pentru-al Tău cuvânt
+Mă anevoiesc pe a Ta cale
+
+[s6]
+6. E harul Tău, e voia Ta
+De-aicea merg pe-a Ta cărare
+/: Știind că mă vei mângâia
+Când voi sfârși a mea alergare:/
+
+[order]
+s1,s2,s3,s4,s5,s6

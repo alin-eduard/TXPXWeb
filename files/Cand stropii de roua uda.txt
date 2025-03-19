@@ -1,0 +1,32 @@
+[s1]
+Când stropii de rouă udă
+iar pământul
+Văd bunătatea Ta
+Când raze de soarea
+udă iar vesmântul
+Pământului ce L-ai creat
+
+[s2]
+Bunătatea Ta
+Ea în veci va rămânea
+Bunătatea Ta
+Zi de zi mai mare este ea
+
+[s3]
+Chiar de esti rău
+sau bun El te iubeşte
+E bunătatea sa,
+chiar de eşti rău sau bun
+Pământul tău rodeste,
+prin bunătatea sa
+E veşnica a sa iubire
+Pământul chiar de n-ar mai fi
+
+[s4]
+Dragostea nu-i trecătoare
+Dragostea-i din Dumnezeu
+Dragostea-i un foc ce arde
+Dragostea-i din Dumnezeu
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,43 @@
+[s1]
+2003       Sol m
+Când în zare se iveşte
+Solul celui necurat
+Dumnezeu e tăria mea
+Când armatele de duhuri
+Cerul au întunecat
+Dumnezeu e tăria mea.
+
+[s2]
+Când tot iadul stă-n picioare
+Pregătit pentru război
+Simt că sufletul se zbate
+Prins în cursa grea
+Mă aplec în rugăciune
+Şi-aştept ajutorul slavei
+Dumnezeu e tăria mea
+
+[r1]
+Cor: Dumnezeu e tăria mea
+Adăpost pentru sufletul meu
+Ajutor când povara e grea
+Dumnezeu e tăria mea.
+
+[s3]
+2. Dumnezeu are putere
+Ca în cer şi pe pământ
+Dumnezeu e tăria mea
+Tot ce-n lume se întâmplă
+Este scris şi în cuvânt
+Dumnezeu e tăria mea
+
+[s4]
+Încercarea când e mare
+Şi se pare că mă-ngroapă
+Întunericul e greu
+Și nu mai pot vedea
+Plec şi fruntea şi genunchii
+Dar înalţ spre cer în Duh
+Dumnezeu e tăria mea.
+
+[order]
+s1,s2,r1,s3,s4,r1

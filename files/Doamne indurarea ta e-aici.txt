@@ -1,0 +1,13 @@
+[s1]
+Doamne indurarea Ta e-aici
+Credinciosia Ta e mare
+Harul Tau nu se va sfarsi niciodata
+
+[s2]
+Cinste, putere, inchinare,
+Tie Doamne...
+Bucurie si pace, libertate,
+Celui ce in Tine se increde.
+
+[order]
+s1,s2

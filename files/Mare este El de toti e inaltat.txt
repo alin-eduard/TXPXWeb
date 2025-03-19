@@ -1,0 +1,25 @@
+[s1]
+Mare este El, de toţi e înălţat,
+Cerul, marea şi pământul le-a creat,
+Atotstăpânitor, singur Domnitor,
+În veci de veci părinte, Tu eşti lăudat.
+
+[r1]
+Nimeni nu-i ca Tine,
+Numai Tu eşti Dumnezeu,
+Ne plecăm în faţa Ta,
+Adânc ne închinăm...
+Mulţumim  că pentru noi,
+Pe Isus l-ai dăruit,
+Din moarte Tu ne-ai smuls,
+Pe etern să domnim.
+
+[s2]
+Mare este EL, toţi să-l proclamăm,
+Lauda, cinstea, gloria Regelui o dăm,
+Mare Împărat, singur Dumnezeu,
+În veci de veci părinte
+Noi Te lăudăm.
+
+[order]
+s1,r1,s2,r1

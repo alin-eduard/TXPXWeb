@@ -1,0 +1,21 @@
+[s1]
+Toate darurile de-aş avea,
+Să vorbesc în limbi,
+chiar munţi să mut.
+Şi averea s-o împart de-aş vrea,
+Fără dragoste, nimic nu sunt.
+
+[r1]
+Urmăriţi să aveţi dragostea.
+Toate pier, în veci rămâne ea.
+Urmăriţi să aveţi dragostea:
+Fără ea nu primiţi cununa.
+
+[s2]
+Mai rămân doar trei sunt acestea:
+Credinţa, nădejdea, dragostea.
+Dar mai mare dintre acestea
+Este şi rămâne dragostea.
+
+[order]
+s1,r1,s2,r1

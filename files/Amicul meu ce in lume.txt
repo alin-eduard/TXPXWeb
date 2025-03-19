@@ -1,0 +1,32 @@
+[s1]
+Amicul meu ce în lume,
+Alergi pribeag tot mereu,
+Pierzi viaţa cu nepăsare,
+Trăind-o fără Dumnezeu,
+Şi sufletul tău ce strigă,
+în chin se zbate mereu,
+Pierdută e fericirea
+şi pacea din pieptul tău.
+Da, şi pacea din pieptul tău.
+
+[s2]
+Vezi numai deşertăciune ce-n calea ta întâlneşti,
+Căci lumea e-nşelătoare,
+Pierzare-n ea tu găseşti.
+Vrei pacea pe care-o caută sufletul tău lâncezit?
+Aleargă acum la Domnul,
+La El vei fi fericit.
+Da, la El vei fi fericit.
+
+[s3]
+Pe cel greşit El primeşte,
+Atunci când vine căit,
+Doar pentru noi El jertfise
+Ce-avut mai scump şi iubit,
+De vrei să guşti dulceaţa cerului pe-acest pământ,
+Închină-I lui Isus viaţa,
+de-a-ntregul pân’ la mormânt,
+Da, de-a-ntregul pân’ la mormânt.
+
+[order]
+s1,s2,s3

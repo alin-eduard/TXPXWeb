@@ -1,0 +1,22 @@
+[s1]
+Aleluia foarte mă bucur
+Prin Duhul Sfânt sunt tăiat împrejur
+Noi aici suntem vorbiţi de rău
+Pentru numele lui Dumnezeu
+Noi aicea jos purtăm crucea
+Pizma durerea şi ocara
+În sfânta clipă în cer vom zbura
+Faţă-n faţă cu Hristos vom sta
+1.
+2.
+1238
+
+[s2]
+El ne-a şterge din ochi lacrima
+Şi ne-a pune pe cap cununa
+Atunci faţa ne va străluci
+Şi-n etern cu îngerii vom fii.
+3.
+
+[order]
+s1,s2

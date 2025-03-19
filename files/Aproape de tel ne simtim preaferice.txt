@@ -1,0 +1,33 @@
+[s1]
+Aproape de ţel ne simţim preaferice
+Şi mainile-ntindem spre el s-apucăm
+Dar ţelul dispare şi-n fum se preschimbă
+Cu mîinile goale din nou ne aflăm.
+
+[s2]
+Aproape de mal
+suntem în siguranţă
+Şi luntrea conducem
+spre el s-ancorăm
+Dar ţărmul dispare
+departe în ceaţă
+Şi lupta cu valul din nou reluăm.
+
+[s3]
+Avem doar un pas pană la fericire
+Vom ţine-o în maini
+chiar aşa cum voim.
+Ajunşi însă-acolo, cu-atîta uimire
+Himere, cenuşă şi lacrimi găsim.
+
+[s4]
+Dar noi n-avem voie
+să-ncredem tăria
+Nădejdilor noastre
+în lucruri şi-n vremi!
+Deasupra a tot stă Hristos, bucuria
+Mai scump decît tot
+ce-am crezut că avem.
+
+[order]
+s1,s2,s3,s4

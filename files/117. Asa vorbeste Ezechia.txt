@@ -1,0 +1,83 @@
+[s1]
+1. Aşa vorbeşte Ezechia
+Către bătrâni şi preoţi
+Alergaţi cu toţi la Isaia
+Căci suntem ameninţaţi
+Vă smeriţi cu toţii astăzi
+Înălţaţi o rugăciune
+Că se-apropie un necaz
+Se apropie o minune.
+117.
+
+[r1]
+/: Vino :/
+Vino Doamne între noi
+/: Vino :/
+Suntem cu toţii în război
+/: Vino :/
+Vino Doamne între noi
+/:Vino :/
+Căci suntem în mari nevoi.
+
+[s2]
+2. Atunci proorocul Isaia
+A vorbit Domnul cu el
+Să-i spună lui Ezechia
+Nu te-nspăimânta de fel
+Cuvântul ce l-a rostit
+Cu batjocură în faţă
+Iată Domnul a hotărât
+Ca să ia a lui viaţă.
+
+[s3]
+3. Ezechia a venit
+Cu scrisoarea s-o citească
+Înaintea Celui Sfânt
+Domnul ca să hotărască
+Pleacă-ţi urechea şi ascultă
+Să privească ochii Tăi
+Căci avem durere multă
+Ne batjocoresc cei răi.
+
+[s4]
+4. Atunci Domnul a vorbit
+Către Israelul Său
+Cine-şi bate joc de tine
+Şi te-ameninţă mereu
+Ei se-ncred în cai şi-n cară
+Cu putere au venit
+Dar nu ştiu că Eu sunt Domnul
+Şi soarta le-am pregătit.
+
+[s5]
+5. Pentru că eşti mânios
+Astăzi împotriva mea
+Iată Eu ştiu când stai jos
+Şi-ţi cunosc abaterea
+Te vei întoarce înapoi
+De pe drumul ce-ai venit
+Fără oameni de război
+Domnul atunci a vorbit.
+
+[s6]
+6. Îngerul Lui Dumnezeu
+Cu o poruncă-ngrozitoare
+I-a nimicit pe cei răi
+Până-n ziua următoare
+În tabăra siriană
+A lovit între cei vii
+Şi-a despărţit fii de mamă
+O sută optzeci şi cinci de mii.
+
+[s7]
+7. Iată aşa a fost lucrarea
+Făcută cu Israel
+Dumnezeu este acelaşi
+El nu se schimbă de fel
+Să-L chemăm cu stăruinţă
+În această adunare
+Să lucreze prin credinţă
+Între noi cu fiecare.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1

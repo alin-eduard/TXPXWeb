@@ -1,0 +1,37 @@
+[s1]
+Numai Tu o Doamne mare
+Numai Tu îmi eşti salvare
+/: Când vin valuri şi bat tare
+Şi furtuna-i tot mai mare
+Tu Isuse îmi eşti salvare :/
+
+[s2]
+Numai Tu în clipe grele
+Numai Tu îmi dai putere
+/: Numai Tu Isuse dulce
+Numai Tu mă ajuţi la cruce
+Zi de zi să o pot duce :/
+
+[s3]
+Numai Tu şi-n suferinţă
+Mă ajuţi şi-mi dai credinţă
+/: Când cuptorul arde tare
+Să rezist în încercare
+Tu Isuse îmi dai răbdare :/
+
+[s4]
+Doamne Tu-mi ajuţi în toate
+În necaz eşti ca un frate
+/: Şi-n belşug şi-n strâmtorare
+Şi la bine şi la jale
+Eşti cu mine pe cărare :/
+
+[s5]
+Iar când lupta va fi gata
+Şi veni-vei cu răsplata
+/: Vreau atunci spre zări senine
+Să-mi iau zborul către Tine
+Şi să uit orice suspine :/
+
+[order]
+s1,s2,s3,s4,s5

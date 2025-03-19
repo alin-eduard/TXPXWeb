@@ -1,0 +1,38 @@
+[s1]
+1. Da sunt străin pe-acest pământ
+Mi-e numele Pribeagul
+Dar somnu-n vise mi-l încânt
+Înfig speranţa-n legământ
+/:Şi-n Paradis toiagul:/
+1728.  Re M
+
+[s2]
+2. Da sunt străin şi-s îmbrăcat
+Nu-s haine Canaanite
+Când Tatăl vina mi-a iertat
+Eu hainele mi le-am schimbat
+/:Albite şi slăvite:/
+
+[s3]
+3. Da sunt străin şi-n ţara mea
+Că am şi eu o ţară
+Pe străzi de aur voi umbla
+În zori când mă voi deştepta
+/:Acolo gându-mi zboară:/
+
+[s4]
+4. Da sunt străin aici hoinar
+Şi limba mi-e străină
+Accentul mi-e din alt hotar
+Cu dulce dialect de har
+/:Din ţara de lumină:/
+
+[s5]
+5. Da sunt străin şi călător
+În lumea de zăbrele
+Dar am un Domn şi-un viitor
+O ţară sfântă şi-un popor
+/:Şi-o casă printre stele:/
+
+[order]
+s1,s2,s3,s4,s5

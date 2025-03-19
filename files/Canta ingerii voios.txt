@@ -1,0 +1,26 @@
+[s1]
+Cântă îngerii voios,
+Căci ni s-a născut Hristos
+El Fiul lui Dumnezeu,
+A venit din cerul Său.
+
+[s2]
+/: Mii de îngeri cântă-n cor
+Ei colindă-n cântul lor
+Împărat şi Rege mare
+Slavă-n veci şi onoare :/
+
+[s3]
+Hai cu toţi să Îl slăvim,
+În colind să ne unim
+Slavă-n cer şi pe pământ,
+Cu îngerii lăudând.
+
+[s4]
+/:Mii de îngeri cântă-n cor
+Ei colindă-n cântul lor
+Împărat şi Rege mare
+Slavă-n veci şi onoare:/
+
+[order]
+s1,s2,s3,s4

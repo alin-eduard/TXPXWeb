@@ -1,0 +1,85 @@
+[s1]
+În a lumii patru laturi
+Pretutindeni m-ai căutat
+Când pierdut eram Isuse
+În osândă şi-n păcat
+Cor:      Domnul meu, Domnul meu
+Scump Mântuitorul meu
+1084.
+1.
+
+[s2]
+M-ai chemat duios pe nume
+Din adâncuri fără fund
+Însă eu căutam atuncea
+Tot mai tare să m-ascund
+2.
+Cor:      Domnul meu, Domnul meu
+Scump Mântuitorul meu
+
+[s3]
+Întrebat-ai trecătorii
+Câţi în cale ai întâlnit
+Unde-i oaia cea pierdută
+Unde-i fiul rătăcit
+3.
+3.
+Cor:      Domnul meu, Domnul meu
+Scump Mântuitorul meu
+
+[s4]
+M-ai aflat robit Isuse
+De duşmanul cel din veac
+Cum ai plâns văzând cum singur
+În dureri şi-n lanţuri zac
+4.
+Cor:      Domnul meu, Domnul meu
+Scump Mântuitorul meu
+
+[s5]
+Te-ai rugat să mă sloboadă
+Dar duşmanul nu vroia
+Te cerea pe tine jertfă
+Ca răscumpărarea mea.
+Cor:      Domnul meu, Domnul meu
+Scump Mântuitorul meu
+5.
+
+[s6]
+M-ai văzut căzut pe mine
+Lumea întreagă ai primit
+Şi pe lemn răscumpărarea
+Pentru toţi Te-ai dăruit
+6.
+Cor:      Domnul meu, Domnul meu
+Scump Mântuitorul meu
+
+[s7]
+Ţi-ai iertat răstignitorii
+Şi călăii Ţi-ai iertat
+Pentru toţi pe lemnul crucii
+Către Tatăl Te-ai rugat
+7.
+Cor:      Domnul meu, Domnul meu
+Scump Mântuitorul meu
+
+[s8]
+M-ai scăpat atunci Isuse
+Crucea Ta la piept o strâng
+Pentru-a mele fapte rele
+În genunchi Te chem şi plâng.
+Cor:      Domnul meu, Domnul meu
+Scump Mântuitorul meu
+8.
+
+[s9]
+O de-ai mai căuta odată
+Pe acel ce-ai mai căutat
+L-ai afla plângând Isuse
+Jos sub cruce îngenuncheat.
+Cor:      Domnul meu, Domnul meu
+Scump Mântuitorul meu
+9.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

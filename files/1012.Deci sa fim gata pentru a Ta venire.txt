@@ -1,0 +1,41 @@
+[s1]
+1.Deci să fim gata pentru a Ta venire
+O Doamne scapă-ne de aţipire
+Duhul Sfânt să ne-nsoţească
+Şi să ne călăuzească
+Până vom ajunge acasă.
+1012.     Mi
+
+[s2]
+2.O Duhule îndurător
+La Tine vin cu al meu dor
+Ţie Doamne îţi cer putere
+În necaz şi-a mea durere
+O trimite-mi mângâiere .
+
+[s3]
+3.Din această lume întunecată
+Vrem să fim duşi
+În ţara minunată
+Eu te rog cu stăruinţă
+Dă-mi putere şi credinţă
+Să ajung la biruinţă.
+
+[s4]
+4.	Noi vrem s-ajungem
+Sus la Tatăl Sfânt
+Căci ţara noastră
+Nu-i de pe pământ
+Pe pământ e plâns şi jale
+Zile multe de răbdare
+Necazuri şi întristare.
+
+[s5]
+5.	Vin în a Domnului împărăţie
+Lacrimi dureri în cer n-o să mai fie
+Cu Isus ne-om bucura
+Sus în cer în slava Ta
+Aleluia, Osana.
+
+[order]
+s1,s2,s3,s4,s5

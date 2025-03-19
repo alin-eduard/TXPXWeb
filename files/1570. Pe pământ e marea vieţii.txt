@@ -1,0 +1,39 @@
+[s1]
+1.Pe pământ e marea vieţii
+Multe valuri te izbesc
+Oricând barca vieţii tale
+E supusă la-ncercare
+1570.
+
+[s2]
+2. Pe pământ e veşnic luptă
+Dacă vrei să biruieşti
+Pune-ţi astăzi întrebarea
+Ca să ştii cui îi slujeşti
+
+[s3]
+3.Faptele de-ţi sunt curate
+Albe ca după ninsoare
+Atunci barca vieţii tale
+Nu se va pierde în zare
+
+[s4]
+4.Singurel pe marea vieţii
+Urcă când în sus şi-n jos
+Te vei pierde în adâncuri
+Dacă nu-l ai pe Hristos
+
+[s5]
+5.Peste credincioşi vin valuri
+Uneori trec peste punte
+Dar nimic nu-i înspăimântă
+Ei au pe Hristos în frunte
+
+[s6]
+6.Şi oricât valurile-or bate
+Barca de s-ar sfărâma
+El te va duce la ţărmul
+Unde te vei bucura
+
+[order]
+s1,s2,s3,s4,s5,s6

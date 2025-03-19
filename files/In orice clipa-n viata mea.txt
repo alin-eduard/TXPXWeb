@@ -1,0 +1,32 @@
+[s1]
+În orice clipă-n viaţa mea
+Stau liniştit pe stâncă
+Ca pasărea în furtuna grea
+În El am pace sfântă.
+
+[r1]
+Şi de ce oare să mă tem
+Tu eşti lângă mine când te chem
+Şi de ce oare n-aş cânta
+Căci Tu mi-ai salvat viaţa mea.
+
+[s2]
+Să spună toţi din jurul meu
+Că n-am aici dreptate
+Eu cred în El cuvântul Său
+De acum şi pân’ la moarte.
+
+[s3]
+În orice clipă-L voi chema
+Să-mi aline durerea
+Singur trist şi-n durerat
+La El am mângâierea.
+
+[s4]
+Acum cu lacrimi eu te chem
+Condu-mă Tu prin toate
+Şi-n orice clipă-n viaţa mea
+Fii Domnul meu şi frate.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

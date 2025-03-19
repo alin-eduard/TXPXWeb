@@ -1,0 +1,15 @@
+[s1]
+1.Doamne Numele-Ţi înalț,
+Doamne laudă-Ţi cânt Ţie,
+Fericit sunt că Te am,
+Fericit de-a Ta iertare.
+
+[s2]
+2.Tu ai venit pe pământ, să ne salvezi,
+Sus pe cruce ai murit, iertaţi să fim,
+De pe cruce în mormânt,
+Din mormânt sus la cer,
+Sa fii înălţat mereu.
+
+[order]
+s1,s2

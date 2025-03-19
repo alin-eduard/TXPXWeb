@@ -1,0 +1,45 @@
+[s1]
+1. Făcând m-ai învăţat să fac
+Privind mereu la Tine
+Tăcând m-ai învăţat să tac
+Ca să-nţeleg mai bine.
+1968.
+
+[s2]
+2. Cântând m-ai învăţat să cânt
+Cereasca Ta cântare
+Şi cuvântând mi-ai învăţat să cânt
+Cereasca Ta cântare.
+
+[s3]
+3. Rugându-Te m-ai învăţa
+Ca să mă rog mai bine
+Smerindu-Te m-ai învăţat
+Să-ngenunchez la Tine.
+
+[s4]
+4. Răbdând m-ai învăţat s-aştept
+Cum altfel nu se poate
+Mustrând m-ai învăţat că drept
+Mă vrei să umblu-n toate.
+
+[s5]
+5. Isus doar Tu m-ai învăţat
+Şi nimenea altcine
+Tot ce-am primit şi tot ce-am dat
+Sunt numai de la Tine.
+
+[s6]
+6. Nădăjduind eu am privit
+Ce faţa strălucită
+Au toţi acei ce şi-au trăit
+Credinţa neclintită.
+
+[s7]
+7. Şi numa-n ceruri vom vedea
+Ce veşnica cunună
+Şi strălucire va avea
+Umblarea împreună.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

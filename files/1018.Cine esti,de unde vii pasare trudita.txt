@@ -1,0 +1,32 @@
+[s1]
+1.      Cine eşti de unde vii pasăre trudită
+Din ce munţi, din ce câmpii
+Te întorci rănită.
+2.      Cine sunt, de unde vin?
+M-ai uitat creştine?
+Eu sunt cântecul senin
+Scris cândva de tine.
+1018.
+
+[s2]
+3.             Am zburat din mâna ta
+Peste munţi şi ape
+Şi unde-a fost o rană grea
+M-am lăsat aproape.
+4.             Dar nu şoimii m-au rănit
+Nici pe dealuri spinii
+Penele de-argint mi-au smuls
+Fraţii nu străinii.
+
+[s3]
+5.          Dacă eşti cântarea mea
+Pasăre zdrobită
+Zbori mai sus, din stea în stea
+Smulsă şi rănită.
+6.          Şi la cel mai sfânt din sfinţi
+Să te-opreşti o clipă
+Lacrimile Lui fierbinţi
+Să le strângi pe aripă.
+
+[order]
+s1,s2,s3

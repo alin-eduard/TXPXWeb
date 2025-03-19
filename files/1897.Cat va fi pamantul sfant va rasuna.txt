@@ -1,0 +1,28 @@
+[s1]
+1897
+1. Cât va fi pământul sfânt va răsuna
+Imnul adorării pentru slava Ta
+Orice neam sau limbă Te va lăuda
+Tu ești Creatorul Tu vei rămânea
+Do
+
+[r1]
+Cor: /:Slavă:/ noi Te lăudăm
+Și din inimi închinare-Ți dăm
+Imnul laudei sfinte nu va înceta
+Toată veșnicia Doamne-Ți vom cânta
+
+[s2]
+2. Nu va fi vreodată vreun colț pe pământ
+Să nu-Ți-cânte laudă Ție Doamne sfânt
+Dacă omenirea nu Te va lăuda
+Va cânta natura aștrii vor cânta
+
+[s3]
+3. Dacă unii azi nu te vor slăvi
+Mâine regreta-vor când Te vor privi
+Dacă astăzi ni-i gândul de tristețe nins
+Mâine va fi vesel sus în Paradis
+
+[order]
+s1,r1,s2,r1,s3,r1

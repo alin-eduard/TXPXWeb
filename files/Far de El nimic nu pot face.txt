@@ -1,0 +1,21 @@
+[s1]
+Făr, de El, nimic nu pot face
+Făr, de El, mă simt înşelat.
+Făr, de El, aş fi în derivă
+Ca-ntr-o barcă, de valuri purtat.
+
+[r1]
+Isus, o, Isus!
+Îl cunoşi tu pe El,
+harul ce l-am simţit!
+Isus, o, Isus!
+Făr, de El pierdut eu aş fi!
+
+[s2]
+Făr, de El, pieirea m-ar paşte
+Făr, de El n-aş fi mîntuit.
+Făr, de El ce-aş face cu viaţa?
+Dar salvat sînt şi sînt fericit!
+
+[order]
+s1,r1,s2,r1

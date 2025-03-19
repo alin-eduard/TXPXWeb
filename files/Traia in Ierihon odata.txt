@@ -1,0 +1,38 @@
+[s1]
+Trăia în Ierihon odată
+un om numit Zacheu
+Şi mult dorea să vadă
+chipul lui Dumnezeu.
+
+[r1]
+În dud el se urcase
+Pe Isus să-L vadă
+Dar Isus îl zărise
+Şi la El îl chemă:
+
+[s2]
+Astăzi chiar la tine Eu voi intra,
+căci vreau să rămîn cu tine.
+Mîntuirea va intra-n casa ta!
+aşa Isus îi vorbise.
+
+[s3]
+Sfinţeşte-ţi a ta viaţă
+şi-atunci să meditezi
+Ce gînduri te frămîntă
+de încă rătăceşti?
+
+[s4]
+Oare la a ta uşă bătut-a
+El vreodat?
+Oare din a ta viaţă
+n-a fost El alungat?
+
+[s5]
+Chemarea Lui răsună şi acum,
+deschide dar inima ta!
+Şi astăzi El încă te primeşte,
+deschide, nu Îl  refuza !
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

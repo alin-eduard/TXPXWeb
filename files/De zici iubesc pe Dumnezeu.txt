@@ -1,0 +1,42 @@
+[s1]
+De zici "iubesc pe Dumnezeu“
+Iar fratele tău
+Păstrezi în sânul tău mereu,
+Spui doar minciuni din gură.
+Iubeşti pe Cel nevăzut, crezi,
+Urând pe frate-tău că-l vezi?
+
+[s2]
+Dac-având bunuri pământeşti
+Pe alţii-n suferinţă îi şti,
+Si nu te sinchiseşti
+S-ajuţi la trebuinţă:
+Nu eşti creştin, ci minţi mereu
+Când zici "iubesc pe Dumnezeu".
+
+[s3]
+Când cinstea altuia pătezi
+Prin vorbe de ruşine,
+Şi contra lui tu trâmbiţezi
+Tot rău, şi nicicând bine,
+Când critici şi bârfeşti mereu,
+Tu nu iubeşti pe Dumnezeu!
+
+[s4]
+Când fratelui, ce ţi-a greşit
+Şi-l vezi că se căeşte,
+Nu-i ierţi, pân-nu l-ai chinuit
+Cu tot cel umileşte,
+Ba-i faci şi numele de rău:
+Tu nu iubeşti pe Dumnezeu.
+
+[s5]
+De L-ai iubi cu-adevărat,
+S-ar observa de alţii!
+Milos şi gata de iertat
+Ai fi atunci cu fraţii!
+Isus iubeşte-n acest fel!
+Iubeşte deci şi tu ca El!
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,54 @@
+[s1]
+1619.Re m
+1.În drum spre Ierihon
+Şi eu am fost cândva,
+Căzut aproape mort,
+Lovit în stare grea.
+Tâlharii m-au răpus
+De tot, m-au jefuit,
+Lăsându-mă rănit în pulbere trântit.
+Nu doar un preot şi-un levit
+Să mă ridice n-au voit
+Şi mulţi prieteni, chiar şi fraţi
+În dreptul meu nu s-au oprit.
+
+[s2]
+2. Dureri mă copleşeau
+În sufletul zdrobit.
+Simţeam că voi muri,
+Pierind nemântuit.
+Speranţă nu aveam,
+Că poate cineva
+Se va opri duios să lege rana mea.
+Toţi au trecut nepăsători,
+Gonind spre Ierihon grăbiţi.
+Chiar toţi acei religioşi,
+Ce se credeau că sunt smeriţi.
+
+[s3]
+3. Deodată am auzit
+Un glas mângâietor.
+“Eu sunt Isus Hristos,
+Vreau să-ţi dau ajutor!”
+A mele răni le-a uns,
+De jos m-a ridicat, m-a mângâiat duios
+Şi viaţa El mi-a dat!
+El se opreşte iubitor
+La cel căzut fără ajutor,
+La cel ce plânge-ndurerat,
+Dispreţuit nemângâiat.
+
+[s4]
+4. De eşti şi tu aşa căzut,
+În stare grea,
+Hai strigă la Isus
+Şi îţi va da răspuns!
+Speranţa ta e El, Isus Emanuel!
+Imploră-i mila Sa şi nu te va lăsa!
+Se va opri în dreptul tău,
+Isus, Fiul lui Dumnezeu!
+De jos, El te va ridica
+Şi rănile ]ţi va lega.
+
+[order]
+s1,s2,s3,s4

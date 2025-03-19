@@ -1,0 +1,36 @@
+[s1]
+1. Isuse ştiu că-n viaţa asta
+Odată va veni o zi
+/: În care lacrimi şi ispite
+Şi frământări nu vor mai fi :/
+845.                                                                  Fa
+
+[s2]
+2. Căci tot ce-aici a fost viaţă
+Mişcarea, întregul simţământ
+/: Va-nchide ultima durere
+Întâiul bulgăr de pământ :/
+
+[s3]
+3. Dar cu toate acestea Doamne
+Această zi o chem demult
+/: Din lunga-ncătuşare a firii
+Să scap Isus de-acest pământ :/
+
+[s4]
+4. Să zbor cu-aripi
+Albe spre ceruri
+/: Mai sus :/ spre cer, mai sus
+/: S-ajung la porţile luminii
+Să mă-ntâlnesc cu
+Tine-al meu Isus :/
+
+[s5]
+5. Cu ce cântări de bucurie
+Isus atunci Te vom slăvi!
+/: Să scap de-această
+Neagră noapte
+‘N-acea strălucită zi :/
+
+[order]
+s1,s2,s3,s4,s5

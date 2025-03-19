@@ -1,0 +1,44 @@
+[s1]
+Numai Domnului
+Poţi să-ţi laşi povara ta
+Doar Lui poti să-I spui
+Greul tău şi durerea
+
+[s2]
+/: Poţi să-I spui al tău necaz
+Când ai lacrimi pe obraz
+Domnul te ascultă
+Când eşti slab când eşti lovit
+Când eşti trist şi necăjit
+Spune-I Lui El nu te uită :/
+
+[s3]
+Numai Lui Isus
+Spune-I suferinţa ta
+Când la oameni nu-s
+Leacuri spre-a-Te vindeca
+
+[s4]
+/: Vin la El cu boala ta
+Du-o sus la Golgota
+Roagă-te fierbinte
+Mergi la cruce zi de zi
+Spune-Ţi focul inimii
+El din ceruri ia aminte :/
+
+[s5]
+Spune-I Domnului
+Când eşti singur părăsit
+Şi de fraţii tăi
+Eşti mereu batjocorit
+
+[s6]
+/: Când suspini în ceas târziu
+Spunei celui veşnic viu
+Spune-i spune-i frate
+Spune-I Totul Domnului
+Lasă soarta în mâna Lui
+El e-acel ce totul poate :/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,26 @@
+[s1]
+O, ce veste plină de bucurii
+Corul de îngeri ne-a adus:
+Vestea bună a marii îndurări
+Ce azi Dumnezeu ne-a trimis de sus.
+
+[r1]
+Iată, S-a născut Isus,
+Mântuire ne-a adus.
+El ne scapă din nevoi,
+Dumnezeu e azi cu noi.
+
+[s2]
+O, ce veste plină de bucurii!
+Cu-nsufleţire să cântăm;
+Ale noastre glasuri vestească azi:
+Prin Domnul Isus mântuire avem.
+
+[s3]
+O ce veste plină de bucurii!
+Ea ne alină în dureri.
+Domnul sfânt la noi azi S-a coborât
+Ca să ne ridice cu El în cer
+
+[order]
+s1,r1,s2,r1,s3,r1

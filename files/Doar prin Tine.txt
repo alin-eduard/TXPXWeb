@@ -1,0 +1,18 @@
+[s1]
+Doar prin tine lumea s-a schimbat
+Ai fost omul fără de păcat
+Eşti lumina şi cuvântul Tatălui.
+
+[s2]
+Tu eşti Fiul celui preaslăvit
+Te-ai născut pentru-a ne mântui
+Lăudat să fie Domnul, slavă Lui!
+
+[s3]
+Tu ai venit pe pământ
+Să ne-nveţi ce-nseamnă să ierţi.
+Ne-ai dăruit viaţa Ta
+Să ne-arăţi ce-nseamnă gragostea.
+
+[order]
+s1,s2,s3

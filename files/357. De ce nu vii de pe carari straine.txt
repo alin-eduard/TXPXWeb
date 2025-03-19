@@ -1,0 +1,64 @@
+[s1]
+1. De ce nu vii
+De pe cărări străine
+Să-mi cazi la piept
+Ca un copil iertat
+357.
+
+[s2]
+Eu n-am murit
+Doar numai pentru tine
+/:Ca şi Isaac am fost pe rug urcat
+De ce nu vii:/.
+
+[s3]
+2. Mai mult de-atât
+Ce jertfă de iubire
+Şi cui i-ar da mai mult
+De-atât prin gând
+
+[s4]
+Un fiu pierdut să râdă în neştire
+/:Şi-un Dumnezeu
+Să-l cheme lăcrimând
+De ce nu vii:/.
+
+[s5]
+3. De ce nu vii
+Când încă sunt aproape
+De ce te-ascunzi
+Când încă te mai chem
+
+[s6]
+De ce nu simţi
+Lumina mea pe pleoape
+/: Când te privesc
+Ca Salvator suprem
+De ce nu vii:/.
+
+[s7]
+4. De ce nu vrei
+Să fii cu Mine-n slavă
+Să colindăm alături ceru-ntreg
+Din flori de rai
+
+[s8]
+Din veşnică dumbravă
+/:Cu mâna mea
+Cununa să-ţi aleg
+De ce nu vii :/.
+
+[s9]
+5. De ce nu vii
+Tu suflet nestatornic
+Cât încă pot Mântuitor să-ţi fiu
+Când vei striga
+
+[s10]
+Va fi atunci zadarnic
+/:Vei plânge amar
+Dar fi-va prea târziu
+De ce nu vii:/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

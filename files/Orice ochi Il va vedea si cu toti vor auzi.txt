@@ -1,0 +1,31 @@
+[s1]
+Orice ochi Îl va vedea
+şi cu toţi vor auzi
+Cântarea îngerilor
+/: Când va veni ! :/
+Orice genunchi se va pleca,
+orice limbă va mărturisi
+Că El e Domn
+/: Când va veni ! :/
+
+[r1]
+Când va coborâ, slăvit,
+pe acel munte
+Şi toţi cei ce-n El crezură,
+toţi acei vor învia !
+Şi noi vom fi, da, vom fi
+la-ntâia-nviere
+/: Când va veni ! :/ (3x)
+
+[s2]
+Toţi atunci vor şti că El
+e Isus cel din veşnicii -
+Slăvitul Mire
+/: Când va veni ! :/
+Glorificaţi, transformaţi
+Îl vom întâmpina
+Plini de iubire
+/: Când va veni ! :/
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,34 @@
+[s1]
+Eu nu ştiu cum să-Ţi dau iubirea
+Pe care, Doamne, Tu mi-o ceri.
+Nu ştiu să fac nici rugăciunea
+Să capăt de la Tin, puteri.
+Eu nu ştiu să-Ţi dau iubirea
+Pe care, Doamne, Tu mi-o ceri.
+
+[s2]
+Eu nu ştiu cum să-Ţi dau iubirea
+Pe care, Doamne, o doreşti
+Şi pentru aceasta simt durerea
+Ce-o porţi în ochi când mă priveşti.
+Eu nu ştiu cum să-Ţi dau iubirea
+Pe care, Doamne, o doreşti.
+
+[s3]
+Eu nu ştiu, dar Te rog pe Tine
+Învaţă-mă să Te iubesc
+Rămâi pe totdeauna-n mine
+Şi-atunci în iubire să cresc.
+Eu nu ştiu, Te rog pe Tine
+Învaţă-mă să Te iubesc.
+
+[s4]
+Eu ştiu că Tu, Doamne, pe mine
+Aşa de mult Tu m-ai iubit!
+Aş vrea şi eu acum pe Tine
+Să Te iubesc cum m-ai iubit.
+Ştiu că Tu mult m-ai iubit
+În locul meu Tu Te-ai jertfit.
+
+[order]
+s1,s2,s3,s4

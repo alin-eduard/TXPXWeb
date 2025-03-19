@@ -1,0 +1,26 @@
+[s1]
+Când val de durere mă poartă spre cer
+Oricât mi-ar fi pasul de greu,
+Isus îmi şopteşte că-n El pot să sper
+Este bine cu sufletul meu!
+Cu Isus nu mi-e greu...
+Este bine cu sufletul meu!
+
+[s2]
+Deşi încercări încă multe-or veni
+Şi-n beznă mă trage cel rău,
+Eu ştiu că voi fi cu Isus într-o zi,
+Este bine cu sufletul meu!
+Cu Isus nu mi-e greu...
+Este bine cu sufletul meu!
+
+[s3]
+Privesc către cer şi aştept ziua Ta
+Să fiu printre îngeri şi eu
+Cu cei înviaţi fericit voi cânta:
+Este bine cu sufletul meu!
+Cu Isus nu mi-e greu...
+Este bine cu sufletul meu!
+
+[order]
+s1,s2,s3

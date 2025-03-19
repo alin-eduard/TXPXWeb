@@ -1,0 +1,31 @@
+[s1]
+Cum doreşte cerbul, apa
+Şi izvorul cristalin,
+Astfel omul se îndreaptă
+Către Tine, Domn divin.
+
+[r1]
+/: El aleargă, cu grăbire,
+La izvorul cel curat,
+Şi doreşte să-şi aline
+Sufletul său însetat.:/
+
+[s2]
+Mă ajută-n clipe grele,
+Setea mea El potolind;
+Din a morţii neagră noapte, Sufletul mi-a izbăvit.
+
+[s3]
+Doamne, Tu îmi dai putere,
+Când tânjeşte trupul meu;
+Din pământul fără apă,
+Eu cer ajutorul Tău.
+
+[s4]
+Vino, la izvorul vieţii,
+Care e Isus Hristos!
+Iertare poate să deie
+La oricare păcătos
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

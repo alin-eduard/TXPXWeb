@@ -1,0 +1,8 @@
+[s1]
+Domnul meu, este un mare Dumnezeu
+El domneşte din ceruri de sus
+Prin putere, înţelepciune şi har
+Domnul meu este un mare Dumnezeu.
+
+[order]
+s1

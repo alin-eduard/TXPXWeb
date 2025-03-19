@@ -1,0 +1,32 @@
+[s1]
+Un nume-mi place să ascult,
+De el aş vrea să cânt,
+Ca numele Isus Hristos
+Nu-i altul pe pământ.
+
+[r1]
+Te iubesc, Isuse,
+Te iubesc, Isuse,
+Te iubesc, Isuse,
+Că-ntâi Tu m-ai iubit.
+
+[s2]
+Îmi spune numele iubit
+De-un Miel Dumezeiesc
+Ce-n locul meu a fost jertfit
+Ca-n veci eu să trăiesc.
+
+[s3]
+Îmi spune ce îmi dă Hristos
+În fiecare zi,
+Deşi e drumu-ntunecos,
+Cu El va străluci.
+
+[s4]
+Îmi spune că iubirea Lui
+M-ajută-n întristări,
+Şi că puterea Domnului
+Mă scapă de dureri.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

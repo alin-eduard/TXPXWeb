@@ -1,0 +1,26 @@
+[s1]
+Azi sărbătorim pe Isus răstignit
+Care dintre morţi a înviat
+Moartea a biruit, cheile dobândind
+De azi umbra neagră a încetat.
+
+[r1]
+/: Alerg la mormânt să Îl întâlnesc
+Pe cel care atât Îl iubesc
+Dar locu-i pustiu, giulgiul doar e rămas
+Hristos dintre morţi a înviat :/
+
+[s2]
+Prietene drag vino degrabă la El
+La fel ca Maria, în zori
+Doar ea L-a întalnit şi s-a bucurat
+De ai învierii zori.
+
+[s3]
+Fii veşnic slăvit, Împărate Iubit,
+Cel ce omenirea ai scăpat
+De groaza pierzării şi chinul cumplit
+Prin faptul căci ai înviat.
+
+[order]
+s1,r1,s2,r1,s3,r1

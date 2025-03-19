@@ -1,0 +1,58 @@
+[s1]
+Grădină minunată a iubirii
+Grădină sfântă a lui Isus.
+E iar săracă, roade nu-s
+Și Grădinaru-și plânge trandafirii
+/: Curg lacrimi azi din ochii lui Isus :/
+
+[s2]
+Unde ești, unde ești
+Unde ești grădina Mea?
+Unde e, unde e
+Unde e sfințenia Ta?
+/: Unde e podoaba ta :/
+
+[s3]
+S-a strecurat în ea sămânța firii
+Și-au crescut ramuri ce aduc doar spini
+Și poartă nume de creștini
+Și Grădinarul își plânge trandafirii
+/: Înăbușiți de umbra celor spini :/
+
+[s4]
+De ce nu, de ce nu
+De ce nu rodiți frumos?
+De ce stai, de ce stai
+De ce stați fără folos?
+/: De ce stați plecați în jos :/
+
+[s5]
+Petale multe pradă nimicirii
+Au căzut jos, s-au veștejit
+N-au adus roadă potrivit
+Și Grădinarul își plânge trandafirii
+/: Căci florile din nou s-au veștejit :/
+
+[s6]
+Fără rod, fără rod
+Fără rod nu poți să fii
+Cu ai Lui, cu ai Lui
+Cu ai Domnului copii.
+/: Sus în Rai în veșnicii. :/
+
+[s7]
+Tu trandafir pe calea mântuirii
+E timpul azi ca să rodești
+De vrei ca-n slăvile cerești
+Să fi sădit în ziua minunată
+/: Și Casa lui Isus să-mpodobești. :/
+
+[s8]
+Dacă vrei, dacă vrei
+Dacă vrei s-ajungi în Rai
+Urcă azi, urcă azi
+Urcă pân’ la Golgota
+/: Domnul îți va ajuta :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

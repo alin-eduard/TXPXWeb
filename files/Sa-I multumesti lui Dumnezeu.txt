@@ -1,0 +1,38 @@
+[s1]
+Să-I mulţumeşti lui Dumnezeu
+De ai în lume azi o mamă
+/: Şi s-o asculţi acum cu drag,
+Căci te-a crescut cu griji, cu teamă. :/
+
+[s2]
+S-o îngrijeşti acum cu drag,
+De este încă în viaţă
+/: Şi s-o ajuţi, chiar fiind pribeag
+Cu multe greutăţi în viaţă. :/
+
+[s3]
+Căci numai mama te-a crescut
+Din frageda-ţi copilărie
+/: Şi numai ea ţi-a arătat
+Cuvîntul vieţii din pruncie. :/
+
+[s4]
+Ea pentru tine s-a rugat
+Şi zi şi noapte cu plăcere,
+/: Iar dimineaţa s-a sculat,
+Spre a-ţi servi cu mîngîiere. :/
+
+[s5]
+De-ai fost bolnav, ea te-a-ngrijit
+Cu dragostea ce-alină dorul,
+/: Iar dacă toţi te-au părăsit,
+Doar ea ţi-a fost mîngăitorul. :/
+
+[s6]
+Iar dacă mama-ţi va muri
+Şi n-ai atîta mîngîiere,
+/: Atunci să pui pe-al ei mormînt
+Buchet de flori, spre amintire. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

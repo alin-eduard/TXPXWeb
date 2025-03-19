@@ -1,0 +1,38 @@
+[s1]
+Scumpă patrie glorioasă
+ce eşti departe de mine
+Sufletul meu doreşte
+s-ajungă acasă la tine.
+
+[s2]
+/: Să-ţi văd porţile de aur
+cu brăţare de argint
+Care nu s-au mai văzut
+niciodată pe Pământ. :/
+
+[s3]
+Să văd porţi împodobite
+cu pietre-albe de cristal
+Pe care prin jertfire Domnul
+le-a zidit sus la Calvar.
+
+[s4]
+/: Şi pe mine m-a zidit
+dintr-un bulgăr de pământ
+Mi-a suflat duh de viaţă,
+mi-a cinstit vocea să-I cânt. :/
+
+[s5]
+Să-I cânt laudă şi mărire,
+să-I dau laudă tot mereu
+Lui Dumnezeu, Ziditorul,
+lui Isus, Stăpânul meu.
+
+[s6]
+/: Să-I cânt laudă şi mărire
+Marelui Guvernator
+Lui Isus, Stăpânul lumii
+şi al meu Mântuitor ! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,30 @@
+[s1]
+O, ce veste minunată
+Lângă Betleem se-arată !
+/: Cerul strălucea
+Îngerii veneau
+Pe-o rază curată ! :/
+
+[s2]
+Păstorilor din câmpie
+Le vestesc o bucurie -
+/: Că-ntr-un mic locaş
+Din acel oraş
+S-a născut Mesia. :/
+
+[s3]
+În coliba păstorească
+Vrut-a Domnul să Se nască
+/: Fiul Său Cel sfânt
+Nouă pe Pământ
+Să ne mântuiască. :/
+
+[s4]
+E Isus, Păstorul mare
+Turmă ca El nimeni n-are.
+/: Noi Îl lăudăm
+Şi ne închinăm
+Cu credinţă mare. :/ (3x)
+
+[order]
+s1,s2,s3,s4

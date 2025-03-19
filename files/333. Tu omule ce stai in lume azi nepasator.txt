@@ -1,0 +1,55 @@
+[s1]
+1. Tu, omule, ce stai
+În lume azi nepăsător
+De Dumnezeu a toate Creator
+Făptura cea mai minunată
+Pe pământ tu eşti
+Şi mai presus de astrele cereşti.
+333  							     Mi b
+
+[r1]
+Cor: /:Priveşte-acum şi stai
+Vezi: Boabe-n spic tu ai?
+Să nu te-nşeli
+Să fii /:numai un pai:/
+Căci Cel ce te-a creat
+Şi te-a răscumpărat
+El vrea la Sine
+Să te ia curat.:/
+
+[s2]
+2. Căci soare, lună, stele
+Ce pe cer acum lucesc
+Pe Dumnezeu toate-L mărturisesc
+Şi toate Îl ascultă
+Şi privesc în mersul lor
+Pe Dumnezeu Atotstăpânitor.
+
+[s3]
+3. Pe toate Dumnezeu
+Le-a construit prin voia Sa
+Şi  toate prin Cuvânt
+Se vor schimba
+Dar omul care este-n lume
+Astăzi muritor
+Va trăi veşnic cu-al său Creator.
+
+[s4]
+4. Priveşte-acum şi
+Uită-te la-ntregul Univers
+Căci toate au o slujbă,
+Au un mers
+Şi toate fără sunet,
+Fără grai mărturisesc,
+Ascultă şi porunca I-o-mplinesc.
+
+[s5]
+5. Tu, omule, ce stai în lume
+Azi nepăsător
+Când ai un Tată-aşa de iubitor
+Căci Te-a iubit și
+Te-a răscumpărat prin Fiul Său
+Să fii şi tu fiul lui Dumnezeu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,35 @@
+[s1]
+1579.                  Sol
+1.Există un timp pentru toate
+Şi orice lucru îşi are vremea lui
+Există o simplă dreptate
+Şi-o mână care scrie tot ce spui
+
+[r1]
+Cor: Există un timp când poţi să
+te-ntorci
+Când poţi ca să scapi de roşcove
+şi porci
+Există un timp când poţi
+spune aşa
+Isus /: îţi predau :/ viaţa mea
+
+[s2]
+2.Există un timp de iertare
+Şi-o jertfă şi-un Dumnezeu ce-i viu
+Există şi-un timp de chemare           Deci vino până nu-i prea târziu
+
+[s3]
+3.Există în ceruri o carte
+În care scrie numai Dumnezeu
+Tu poţi ca să scapi de la moarte
+De este scris în ea numele tău
+
+[s4]
+4.Există în ceruri o taină
+Şi-un Mire ce te aşteaptă ca să-l priveşti
+Există o nuntă şi-o haină
+Poţi fi şi tu părtaş de te grăbeşti
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

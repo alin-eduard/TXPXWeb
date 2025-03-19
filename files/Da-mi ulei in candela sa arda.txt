@@ -1,0 +1,30 @@
+[s1]
+Dă-mi ulei în candelă să ardă!
+Dă-mi ulei, Isus, eu Te rog!
+Dă-mi ulei în candelă să ardă
+Şi păstreaz-o ne'ncetat arzând.
+
+[r1]
+/: Cânt Osana, :/  Domnului din cer!
+/: Cânt Osana :/  Domnului.
+
+[s2]
+Dă-mi putere-n inima să Te laud!
+Dă-mi putere, o, eu Te rog!
+Dă-mi putere-n inima să Te laud
+Şi păstreaz-o ne'ncetat arzând.
+
+[s3]
+Dă-mi Tu pacea-Ţi şi voi fi-n odihnă,
+Dă-mi Tu pacea-Ţi, o, Te rog!
+Dă-mi Tu pacea-Ţi şi voi fi-n odihnă
+Şi păstrează-mă-n odihna Ta.
+
+[s4]
+Dă-mi iubire-n inima mea, Doamne!
+Dă-mi iubire, o, eu Te rog!
+Dă-mi iubire-n inima mea, Doamne,
+Şi Te rog să mă păstrezi smerit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,34 @@
+[s1]
+De ce eşti trist, de ce eşti apăsat
+Cînd bogăţii şi toate-n
+viaţă le-ai aflat ?
+De ce tînjeşti şi de ce viaţa
+nu-ţi aduce bucurii ?
+De ce, amice,
+gîndurile-Ţi sînt pustii ?
+
+[r1]
+/:De ce nu vrei să crezi
+că Isus te va salva
+Că te va curăţi şi
+fericirea îţi va da ?
+De ce nu vrei să vii
+la Isus cu viaţa ta ?
+Mîngîieri şi bucurii vei afla!:/
+
+[s2]
+De eşti sărac, tu bogăţie vei avea!
+De eşti bolnav,
+El vindecare îţi va da !
+Descurajat în viaţă
+dacă ai să fii, te va-ntări
+Şi zîmbetele-ţi din
+belşug vor înflori !
+
+[s3]
+Şi dacă crezi şi vii la-acest izvor
+Vei cîştiga ce nicicînd nu-i pieritor Iubirea celor care zeci de ani de zile te-au urît
+Şi minunatul Paradis peste mormînt !
+
+[order]
+s1,r1,s2,r1,s3,r1

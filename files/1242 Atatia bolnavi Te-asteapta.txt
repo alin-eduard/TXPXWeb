@@ -1,0 +1,61 @@
+[s1]
+1.Atâţi bolnavi Te-aşteaptă Doamne
+O câţi suspină după Tine
+O lasă Doamne untdelemnul
+Să curgă azi şi peste mine
+1242         Do
+%       Pune-Ţi mâna Ta Isuse
+Peste locul ce mă doare
+Doamne eu mă-ncred în Tine
+Să-mi dai astăzi vindecare
+Pune-ţi mâna Ta Isuse
+Mâna binecuvântată
+Un cuvânt de spui o Doamne
+Rana mea e vindecată  %
+
+[s2]
+2. O treci Te rog prin adunare
+Cu mângâierile-Ţi divine
+Cu-al Tău balsam de vindecare
+O vino astăzi şi la mine
+%       Pune-Ţi mâna Ta Isuse
+Peste locul ce mă doare
+Doamne eu mă-ncred în Tine
+Să-mi dai astăzi vindecare
+Pune-ţi mâna Ta Isuse
+Mâna binecuvântată
+Un cuvânt de spui o Doamne
+Rana mea e vindecată  %
+
+[s3]
+Bolnavii de la scăldătoare
+Te aşteaptă Doamne-n suferinţă
+O treci şi pe la ei Isuse
+Şi alungă orice neputinţă
+3.
+% 	Pune-Ţi mâna Ta Isuse
+Peste locul ce mă doare
+Doamne eu mă-ncred în Tine
+Să-mi dai astăzi vindecare
+Pune-ţi mâna Ta Isuse
+Mâna binecuvântată
+Un cuvânt de spui o Doamne
+Rana mea e vindecată   %
+
+[s4]
+Acei ce n-au pe nimeni Doamne
+Te-aşteaptă să faci o minune
+Atinge-Te de ei Isuse
+Te rog ridică-i ca să umble.
+4.
+% 	Pune-Ţi mâna Ta Isuse
+Peste locul ce mă doare
+Doamne eu mă-ncred în Tine
+Să-mi dai astăzi vindecare
+Pune-ţi mâna Ta Isuse
+Mâna binecuvântată
+Un cuvânt de spui o Doamne
+Rana mea e vindecată %
+
+[order]
+s1,s2,s3,s4

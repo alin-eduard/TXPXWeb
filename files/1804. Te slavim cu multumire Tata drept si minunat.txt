@@ -1,0 +1,43 @@
+[s1]
+1804.
+1. Te slăvim cu mulţumire
+Tată drept şi minunat
+Preamărim a Ta iubire
+Ce-n Hristos ne-ai arătat
+Mulţumim de mântuirea
+Din păcat şi din abis
+Mulţumim de moştenirea
+Care-n cer Tu ne-ai promis
+
+[s2]
+2. Te slăvim cu bucurie
+Tată bun şi Dumnezeu
+Lăudăm iubirea vie
+Ce-o reverşi în noi mereu
+Mulţumim că azi ne scaldă
+Ploi de har din slăvi cereşti
+Mulţumim de mâna-Ţi caldă
+Şi-n ce fel ne ocroteşti
+
+[s3]
+3. Te slăvim cu osanale
+Tată scump, senin şi sfânt
+Şi-nălţăm iubirii Tale
+Înnoit al nostru cânt!
+Mulţumim de rău, de bine
+Şi de tot prin ce ne treci
+Mulţumim de veri senine
+Şi de ierni oricât de reci
+
+[s4]
+4. Te slăvim cu-nflăcărare
+Tată drag, de haruri plin
+Şi-Ţi cântăm iubirea mare
+Azi şi-n vecii care vin
+Mulţumim de lucruri sfinte
+Ce ne iei şi ce ne dai
+Mulţumim iubit Părinte
+Mulţumim şi-aici şi-n rai!..
+
+[order]
+s1,s2,s3,s4

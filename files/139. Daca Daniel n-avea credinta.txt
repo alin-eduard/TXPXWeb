@@ -1,0 +1,34 @@
+[s1]
+1. Dacă Daniel n-avea credinţă
+Când era în groapa cea cu lei,
+Dacă nu stăruia-n umilinţă
+Ceilalţi ziceau că nu-i Dumnezeu.
+139.                                             Sol m
+
+[r1]
+Cor:
+/: Doamne, dă-ne şi nouă credinţă,
+Căci pe pământ suntem între lei.
+Fă să avem şi noi biruinţă,
+Să vadă lumea că-i Dumnezeu! :/
+
+[s2]
+2. Dacă se-nfrica Daniel de lume
+Şi-ncuia fereastra dinspre cer
+Atunci Domnul nu privea cu milă
+Şi-l lăsa să piară între lei.
+
+[s3]
+3.Daniel când a deschis fereastra
+Printr-o rugăciune-a nimicit
+Pe cei ce l-au aruncat în groapă
+Căci cu Domnul el a biruit.
+
+[s4]
+4.Acum noi dacă-L avem pe Domnul
+Şi-n rugăciune de vom stărui,
+Nu ne temem pe pământ cu leii
+Căci prin Domnul îi vom birui.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

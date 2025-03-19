@@ -1,0 +1,111 @@
+[s1]
+Timpul cel din urmă
+a sosit acuma,
+Fraţilor, ca să ne pocăim.
+Firea pământească
+vrea să ne robească,
+Dar cu toţi din somn să ne trezim.
+
+[r1]
+Iată Domnul, frate, la inimă-ţi bate
+Deschide-i şi nu îl refuza.
+Lumea şi trufia, pofta şi mândria,
+Alungă-le din inima ta.
+
+[s2]
+Domnul cercetează
+şi apoi lucrează
+In fiii Săi care se supun.
+Cin’ se umileşte şi se pocăieşte
+Il conduce pe-al vieţii drum.
+
+[s3]
+Dar să ştii, amice,
+cel rău vrea să strice
+Credinţa ta ca să dai ‘napoi.
+Tu te roagă tare
+cu credinţă mare şi strigă:
+“Ah, Doamne, fii cu noi!”.
+
+[s4]
+Ce pecete pui pe clipa
+Care trece făr-a-ntoarce?
+Fusul vieţii tale slabe
+ce adună şi ce toarce?
+
+[s5]
+Adevărul sau minciuna?
+Ura sau iubirea-ţi sfântă?
+Una dintre cele două
+Inima ta ţi-o frământă.
+
+[r2]
+/: Cercetează-te :/ şi-ndreaptă-ţi
+Viaţa până nu-i târziu!
+
+[s6]
+Nu lăsa-ntâmplarea oarbă
+Viaţa ta să ţi-o doboare
+Căci nimic din ce-i în lume
+Nu-i venit la întâmplare;
+
+[s7]
+Pune nepăsării tale
+Frâul cugetării drepte
+Si priveşte, prin credinţă,
+Adevărul cu-a-lui trepte.
+
+[s8]
+Vei descoperi lumina
+Dumnezeului cel veşnic
+Care te-a zidit dintr-însul
+Ca să-i fii în lume sfeşnic.
+
+[s9]
+El, Preasfântu-ţi dă putere
+Să-mplineşti a ta menire
+Si, trecând acum prin vreme,
+Să ajungi la nemurire.
+
+[s10]
+De-aş ajunge cea mai mare
+slavă pământească,
+Ce folos, dacă mi-aş pierde
+Slava cea cerească
+/: Ce folos, ce folos:
+slavă, fără de Hristos?!:/
+
+[s11]
+De-aş avea toţi banii lumii
+să-mi stea-n vraf arginţii,
+In zadar, dacă-mi lipseşte
+Aurul credinţei!
+/: Ce folos, ce folos
+aur, fără de Hristos?!:/
+
+[s12]
+De-aş şti toată-nţelepciunea
+care e sub soare,
+In zadar, dacă-mi lipseşte
+cea mântuitoare!
+/: Ce folos, ce folos
+minte, fără de Hristos?! :/
+
+[s13]
+De-aş fi omul cel mai tare
+de pe lumea toată,
+In zadar, dacă mă-nvinge
+pofta desfrânată!
+/: Ce folos, ce folos:
+tânăr, fără de Hristos?! :/
+
+[s14]
+De-aş cuprinde tot pământul,
+tot al meu să fie,
+In zadar, dacă-mi pierd viaţa
+cea din veşnicie!
+/: Ce folos, ce folos,
+dacă mori fără Hristos?! :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5,r2,s6,s7,r2,s8,s9,r2,s10,s11,s12,s13,s14

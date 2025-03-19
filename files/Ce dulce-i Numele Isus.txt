@@ -1,0 +1,32 @@
+[s1]
+Ce dulce-i Numele Isus,
+Slăvit de îngeri veşnic, sus,
+În suflet pace mi-a adus
+Scump Numele lui Isus.
+
+[r1]
+“Isus”, Nume proslăvit, “Isus”,
+Tu ne-ai mântuit!
+“Isus”, fii de sfinţi slăvit
+De-acum şi până în veci!
+
+[s2]
+Iubesc un Nume minunat
+Ce grija mi-a luat,
+Lumină sfântă azi mi-a dat
+Slăvitul Nume “Isus”!
+
+[s3]
+Acest scump Nume, când L-ascult,
+Fiori de slavă mă pătrund,
+Chiar lacrimile se ascund
+La Numele lui Isus.
+
+[s4]
+Cuvinte-alese n-am de-ajuns
+Să-nalţ pe Domnul meu mai sus,
+Căci nu e nume mai presus
+Ca sfântul Nume “Isus”!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

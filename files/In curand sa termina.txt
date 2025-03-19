@@ -1,0 +1,26 @@
+[s1]
+În curând sa termina
+Greul ce aici l-am dus,
+Și în slavă vom pleca
+Împreună cu Isus.
+
+[r1]
+/: Vom cânta ne-om bucura
+Vom uita tot ce-a fost greu,
+Pentru veci aleluia
+Sus în cer cu Dumnezeu. :/
+
+[s2]
+Nopți și zile parcă trec
+Azi mai iute ca oricând,
+Semnele ne prevestesc
+Isus vine, vine în curând.
+
+[s3]
+Prieten drag ce rătăcești
+Pe cărări ce duc spre-abis,
+N-ai vrea-n veci să locuiești
+În cerescul paradis.
+
+[order]
+s1,r1,s2,r1,s3,r1

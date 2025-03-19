@@ -1,0 +1,35 @@
+[s1]
+Chiar daca incercarea,
+Mi se pare ca e grea,
+Eu n-am sa uit, Exista Dumnezeu!
+Nu ma lasa, niciodata,
+Nu ma va parasi
+Langa mine El mereu va fi
+Cand nu mai pot Isuse,
+Sa lupt pe Calea TA
+Te chem atunci degrab' in ajutor,
+Simnt cum imi dai putere
+Si ma ridici usor,
+Ramai mereu al meu Salvator
+
+[s2]
+/: Inima mea :/
+Tanjeste dupa Tine, o Doamne
+/: Sufletul meu :/
+Te cauta mereu zi si noapte
+
+[s3]
+Chiar zeci de mii sa cada
+Mereu la dreapta mea
+Eu nu ma tem caci
+Tu esti langa mine
+Raman in a Ta prezenta
+Raman pe calea Ta
+Traiesc de-acum doar prin a Ta iubire
+
+[s4]
+/: Inima mea :/
+/: Sufletul meu :/
+
+[order]
+s1,s2,s3,s4

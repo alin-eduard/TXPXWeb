@@ -1,0 +1,26 @@
+[s1]
+Astăzi este ziua scumpă dragii noştri,
+Zi de mare strălucire pentru voi.
+Astăzi vă legaţi, din dragoste curată,
+Să-L serviţi cu drag pe Isus amândoi.
+
+[r1]
+Cu Isus, cu Isus,
+Drumul vostru să vă fie fericit!
+Şi-n iubire, cu unire,
+Ne'ncetat, cu zel şi râvnă, să-L serviţi!
+
+[s2]
+Să alegeţi tot ce-i bine-n viaţă!
+Să vestiţi iertarea dată de Hristos!
+Aducându-I rod bogat în pocăinţă,
+Să vestiţi din ce adânc Isus ne-a scos!
+
+[s3]
+Vă iubim şi vă dorim o nouă viaţă!
+Cu Isus să vă zidiţi un nou cămin,
+Alegând, ca primul oaspete în casă,
+Pe Isus cel sfânt cu harul Său divin.
+
+[order]
+s1,r1,s2,r1,s3,r1

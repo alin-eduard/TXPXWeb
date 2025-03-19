@@ -1,0 +1,34 @@
+[s1]
+Născuţi suntem dintr-un izvor
+Din inima Lui sfântă
+/ : Legaţi suntem cu legături
+Ce nu pot să se rupă : /
+Un trup alcătuim în El
+Şi-o inimă doar una
+/ : O casă-i suntem pe pământ
+Şi-n cer pe totdeauna : /
+1.
+2.
+1240
+
+[s2]
+Spălaţi albiţi de acelaşi har
+Şi-n sânge au fost odată
+/ : Sfinţiţi deoparte pentru El
+E viaţa noastră toată : /
+Ce fericiţi suntem acum
+Sub dulcea Lui privire
+/ : Când zi cu zi sporeşte-n noi
+Nespusa Lui iubire : /
+3.
+4.
+
+[s3]
+O fericitul nostru Domn
+În slujba Ta ne ţine
+/ : Să fim şi-aici şi sus în cer
+Nedespărţiţi de Tine : /
+5.
+
+[order]
+s1,s2,s3

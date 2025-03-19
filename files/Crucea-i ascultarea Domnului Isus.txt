@@ -1,0 +1,32 @@
+[s1]
+Crucea-i ascultarea Domnului Isus,
+Cea mai'naltă jertfă care s-a adus,
+Darul cel mai mare, preţul ne'ntrecut,
+Ca să mântuiască ce era pierdut!
+
+[r1]
+/:Crucea-i slava Ta, crucea-i pacea mea
+Din blestem m-a scos, jertfa lui Hristos;
+Viaţă mi-a adus crucea lui Isus,
+Slavă Lui Hristos, slavă lui Isus!:/
+
+[s2]
+Crucea e iubirea Domnului Isus,
+Nu-i cuvânt să'nalţe dragostea mai sus
+Nu-i nimic să-arate-atât de strălucit,
+Dragostea cu care Tatăl ne-a iubit!
+
+[s3]
+Crucea-i biruinţa Domnului Isus,
+El a-nvins când singur morţii S-a supus
+Şi-a zdrobit vrăjmaşul când S-a umilit,
+Preamărit e Mielul, fiindcă S-a jertfit.
+
+[s4]
+Crucea este slava Domnului Isus,
+Prin ea Şi-a' nălţat El Numele-I mai sus
+Rănile Lui sfinte veşnic vor purta,
+Mântuirea noastră şi mărirea Sa!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

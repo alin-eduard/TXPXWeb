@@ -1,0 +1,32 @@
+[s1]
+Maria plânge, e disperată
+“Domnule, spune unde L-ai pus”
+Plânsul Mariei se-opreşte-n dată
+Căci grădinarul era Isus.
+
+[r1]
+Mormântu-i gol şi piatra sigilata
+S-a prăvălit când El s-a ridicat
+Isus e viu, El viu li se arată
+Isus e viu, Hristos a înviat
+
+[s2]
+Atunci Maria Îl recunoaşte
+Auzind vocea blândului Miel
+Faţa lui Isus ea o priveşte
+Recunoscându-L că este El.
+
+[s3]
+Mormântu-I gol şi piatra sigilata
+S-a prăvălit când El s-a ridicat
+Isus e viu, El viu li se arată
+Isus e viu, Hristos a înviat
+
+[s4]
+Pe când stăteau cu uşile-ncuiate
+Toţi ucenicii s-au înspăimântat
+Isus e viu, El viu li se arată
+Isus e viu, Hristos a înviat
+
+[order]
+s1,r1,s2,s3,s4,r1

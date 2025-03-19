@@ -1,0 +1,33 @@
+[s1]
+1. Când te afli-ngrijorat,
+Strigă către Domnul!
+De povară apăsat,
+Strigă către Domnul!
+152.
+
+[r1]
+Cor:/:Strigă către Domnul!
+Orişice te-apasă!
+Strigă către Domnul!
+Căci El nu te lasă! :/
+
+[s2]
+2. Dacă vrei să fii mai sfânt,
+Strigă către Domnul!
+O lumină pe pământ,
+Strigă către Domnul!
+
+[s3]
+3. Frământat de ce va fi,
+Strigă către Domnul!
+Şi de vremuri ce-or veni,
+Strigă către Domnul!
+
+[s4]
+4. Pentru ultima ta zi,
+Strigă către Domnul!
+Izbăvit de chin să fii,
+Strigă către Domnul!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

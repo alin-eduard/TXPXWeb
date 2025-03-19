@@ -1,0 +1,53 @@
+[s1]
+Se-apropie mereu sfârşitul
+Şi ziua Domnului cea grea
+Apar şi zorii dimineţii
+La uşă bate cineva.
+830.                                                                      Sol b m
+
+[s2]
+/: Eşti gata
+pentru-ntâmpinare?
+Când auzi-vei o strigare
+Să ştii că Mirele apare
+O, deşteptaţi-vă fecioare :/
+
+[s3]
+2. Se-apropie şi judecata
+Când Domnul va veni pe nori
+Când judeca-va cu dreptate
+Pe orice neam, pe-orice popor.
+
+[s4]
+/:Eşti scris şi tu în cartea vieţii
+Ca-n dimineaţa dimineţii
+Intrând pe porţile cetăţii
+Să vezi şi tu pomul vieţii :/
+
+[s5]
+3. Întreabă-te soră şi frate
+Pe care drum vrei să apuci?
+Eşti îmbrăcat în haine albe
+Întreabă-te ce roade aduci?
+
+[s6]
+/: Şi-atunci în ziua care vine
+Să fii vorbit numai de bine
+Să spună Domnul despre tine
+O, vino fiule la mine :/
+
+[s7]
+4. Căci Mi-ai slujit
+O viaţă-ntreagă
+De Mine nu te-ai ruşinat
+Şi-acum vino să-ți dau răsplata
+Pentru că Mie Mi-ai lucrat.
+
+[s8]
+/:Deci dacă vrei s-ajungi la Domnul
+Să-I vezi oştirea Lui şi tronul
+Nu cumva să te prindă
+Căci în curând apare Domnul :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

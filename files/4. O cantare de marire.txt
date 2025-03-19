@@ -1,0 +1,43 @@
+[s1]
+1. O cântare de mărire
+Am în inimă mereu
+De când L-am aflat pe Isus la Calvar.
+El mi-a dat odihnă sfântă,
+Pace sufletului meu
+Şi sunt liber, fericit prin al Său har.
+4.                     D M
+
+[r1]
+Cor:
+/:Inima mea cântă azi cântarea,
+Plină de nespuse  bucurii
+Mai frumos nici îngerii nu cântă,
+Ca acei din valea plângerii. :/
+
+[s2]
+2. Cât de mult doream să aflu Drumul cel adevărat,
+Cineva să-mi ia păcatul dureros!
+Am aflat că El osânda
+La Golgota a purtat
+Şi-am venit
+Atunci la cruce bucuros.
+
+[s3]
+3.Câtă frică şi-ntuneric
+Pe cărarea mea erau,
+Când umblam rătăcitor fără Isus!
+Am adus la El povara
+Şi de-atunci în viaţa mea
+Bucuria şi iubirea au pătruns.
+
+[s4]
+4. El plecat-a unde, veşnic,
+Fericire voi avea,
+Sus acolo-n strălucitul meu palat;
+Faţă-n faţă în mărire
+Pe Isus Îl voi vedea
+Şi cu sfinţii-I voi
+Da slavă ne-ncetat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

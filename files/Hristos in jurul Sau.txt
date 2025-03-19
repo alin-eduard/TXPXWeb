@@ -1,0 +1,32 @@
+[s1]
+Hristos în jurul Sǎu ne-adunǎ,
+Viaţa lui o-ncredinţǎm;
+Lucrǎm, luptǎm cu voie bunǎ,
+Pe Domnul îl urmǎm;
+Cu toţi azi rândurile strângem,
+Isus e salvator.
+Prin Duhul Sǎu învingem
+Si îl avem ocrotitor.
+
+[s2]
+Armura noastrǎ e aleasǎ,
+Cu duhuri ne luptǎm mereu;
+In crunta luptǎ nu ne pasǎ,
+Cu noi e Dumnezeu!
+Viaţa, fapta şi cuvântul
+Cu drag i le jertfim,
+Puterea şi avântul
+In slujba Lui le dǎruim.
+
+[s3]
+Spre ţintǎ-naintǎm întruna,
+’Napoi noi nu cedǎm un pas;
+Ne-aşteaptǎ-n veşnicii cununa
+Si-al îngerilor glas;
+Atunci trudita noastrǎ viaţǎ
+Odihna va gǎsi,
+Privind pe Domnu-n faţǎ,
+In veci de veci îl vom slǎvi!
+
+[order]
+s1,s2,s3

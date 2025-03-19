@@ -1,0 +1,56 @@
+[s1]
+Eu ştiu că Domnul m-a creat
+După făptura Sa.
+El e Olarul inimii,
+El ştie ce e-n ea.
+/: Cântă inimă şi spune
+Marea minune la toată lumea,
+De dragostea Domnului. :/
+
+[s2]
+Eu ştiu că Domnul este sfânt,
+Noi nu-L putem vedea.
+El e lumina ochilor,
+E-n inima mea şi-a ta.
+/: Cântă inimă şi spune
+Marea minune la toată lumea,
+De dragostea Domnului. :/
+
+[s3]
+Eu ştiu că Domnul e aici,
+Mă ţine să nu cad.
+El e cu noi la orice pas,
+Ne scapă din necaz.
+/: Cântă inimă şi spune
+Marea minune la toată lumea,
+De dragostea Domnului. :/
+
+[s4]
+Eu ştiu că Domnul e aici,
+Ne spune Biblia.
+Prieten bun în ceasul greu,
+E şi va fi mereu.
+/: Cântă inimă şi spune
+Marea minune la toată lumea,
+De dragostea Domnului. :/
+
+[s5]
+Eu ştiu că Domnul e aici,
+El e Păstorul meu.
+Şi munţii de s-ar clătina,
+El poartă grija mea.
+/: Cântă inimă şi spune
+Marea minune la toată lumea,
+De dragostea Domnului. :/
+
+[s6]
+Când viaţa ni se va sfârşi,
+Vom trece-n veşnicii.
+Atuncea noi Îl vom vedea,
+Când mântuiţi vom fi.
+/: Cântă inimă şi spune
+Marea minune la toată lumea,
+De dragostea Domnului. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

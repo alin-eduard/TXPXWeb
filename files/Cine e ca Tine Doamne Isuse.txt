@@ -1,0 +1,37 @@
+[s1]
+Cine e ca Tine Doamne Isuse,
+Mesia, creator şi salvator?
+Cine e ca Tine Doamne Isuse,
+Atotputernic şi învingător?
+
+[s2]
+Cerurile spun slava Ta Doamne,
+Şi tot ce-I în jur Te laudă!
+Nimeni nu este
+cum eşti Tu Doamne,
+Pe pământ şi în eternul Univers!
+
+[s3]
+Cine poate mângâia
+durerea grea?
+Mesia, creator şi salvator.
+Cine poate rana de pe suflet lua?
+Atotputernicul mângâietor.
+
+[s4]
+Cântă-I osana Domnului Isus,
+Mielul ceresc ce-a fost junghiat.
+Ridică-ţi mâinile spre cer acum,
+Şi măreşte-L prin viaţa ta
+pe Împărat.
+
+[s5]
+Cine poate să ne ducă-n
+ceruri sus?
+Mesia, creator şi salvator.
+Cine poate să ne ducă-n
+ceruri sus?
+Atotputernicul mântuitor.
+
+[order]
+s1,s2,s3,s4,s5

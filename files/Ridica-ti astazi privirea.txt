@@ -1,0 +1,31 @@
+[s1]
+Ridică-ti astăzi privirea
+Cel ce privesti la pământ,
+Multumeste-i celui ce face
+Să rodească al tău pământ.
+/: Căci tot ce ai în viata aceasta
+Este darul lui Dumnezeu
+Multumeste-i cu bucurie
+Căci El conduce destinul tău. :/
+
+[s2]
+Ridică-ti astăzi privirea
+Om fără de Dumnezeu,
+Priveste-n jurul tău natura Descoperă-i Stăpânul său.
+/: Căci din tot ce-n viată cauti
+De nu-l cauti pe Dumnezeu
+Cât mai traiesti te-ndemn cu iubire
+Să-ti mântuiesti sufletul tău.:/
+
+[s3]
+Să ne ridicăm privirea
+Să nu mai privim în jos,
+La plăcerile de-o clipă
+La pământu-ntunecos.
+/: Căci la sfârsitul vietii noastre
+Vom sta ‘naintea lui Dumnezeu
+Dacă umblam în lumină
+Vom fi cu Domnul în cerul Său. :/
+
+[order]
+s1,s2,s3

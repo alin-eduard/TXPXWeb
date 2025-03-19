@@ -1,0 +1,19 @@
+[s1]
+1. 			Când cina Domnul a serbat
+El atunci pâine a luat
+A mulţumit şi s-a rugat
+Şi la învăţăcei le-a dat.
+2. 			Zicându-le cu graiul Său
+Luaţi şi mâncaţi trupul meu
+Pe care îl dau pentru voi
+/:Numai să-mi fiţi următori.:/
+1202.
+
+[s2]
+3. 			Apoi El potirul luă
+Şi Părintelui mulţumi
+Beţi toţi a zis El Domnul meu
+/:Că e sânge ce-L vărs Eu. /:
+
+[order]
+s1,s2

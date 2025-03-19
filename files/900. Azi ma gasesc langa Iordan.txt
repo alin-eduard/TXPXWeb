@@ -1,0 +1,58 @@
+[s1]
+900.
+1.  Azi mă găsesc lângă Iordan
+Pustiul l-am trecut
+Cu dor privesc spre Canaan
+Spre acel pământ plăcut.
+Cor:	Acolo pace este pururea
+Suferinţe şi griji vor dispărea
+Eliberaţi de amarul ce ne-a ros
+Vom cânta, vom cânta
+Întruna lui Hristos.
+
+[s2]
+2.  Ce bucurii aşteaptă sus
+Pe acei îndureraţi
+În Canaan lângă Isus
+Vor fi toţi mângâiaţi.
+Cor:	Acolo pace este pururea
+Suferinţe şi griji vor dispărea
+Eliberaţi de amarul ce ne-a ros
+Vom cânta, vom cânta
+Întruna lui Hristos.
+
+[s3]
+3.  Frumos lumina strălucitoare
+Revarsă prin făpturi
+Zefirul dulce alb de in
+Răsună de cântări.
+Cor:	Acolo pace este pururea
+Suferinţe şi griji vor dispărea
+Eliberaţi de amarul ce ne-a ros
+Vom cânta, vom cânta
+Întruna lui Hristos.
+
+[s4]
+4.  Şi ce frumoase armonii
+Văzduhul îl străbat
+Şi tot cuprinsul cerului
+Răsună de cântări.
+Cor:	Acolo pace este pururea
+Suferinţe şi griji vor dispărea
+Eliberaţi de amarul ce ne-a ros
+Vom cânta, vom cânta
+Întruna lui Hristos.
+
+[s5]
+De aceea totul să jertfim
+În luptă bucuroşi
+Ca să ajungem să primim
+Mărirea lui Hristos.
+Cor:	Acolo pace este pururea
+Suferinţe şi griji vor dispărea
+Eliberaţi de amarul ce ne-a ros
+Vom cânta, vom cânta
+Întruna lui Hristos.
+
+[order]
+s1,s2,s3,s4,s5

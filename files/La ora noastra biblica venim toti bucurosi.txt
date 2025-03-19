@@ -1,0 +1,38 @@
+[s1]
+La ora noastră biblică
+venim toţi bucuroşi,
+Al Domnului Cuvânt
+primim în inimă voioşi;
+Doar Cartea Sfântă, Biblia,
+Ne-nvaţă azi cum să iubim
+Pe frate, soră şi părinţi,
+pe toţi să-i preţuim.
+
+[r1]
+Imn de slavă să cântăm,
+Şi pân’ la cer să-L înălţăm.
+Cu Osana, Aleluia,
+glorie să-I fie Mielului!
+
+[s2]
+Din inimă noi mulţumim
+acum lui Dumnezeu,
+Lui ne rugăm şi Îl iubim,
+urmând Cuvântul Său.
+Când vom ajunge oameni mari,
+Lucrând, luptând pe-acest pământ,
+Şi-atunci să ne conducă El
+cu braţul Lui cel Sfânt.
+
+[s3]
+O, ce frumos e să privim
+la chipul lui Isus,
+Să ne lăsăm conduşi de El,
+Păstorul bun nespus!
+De-acum cunoaştem vocea Lui,
+Citim, cântăm şi ne rugăm.
+O, Doamne, ce măreţ va fi
+în ceruri să intrăm!
+
+[order]
+s1,r1,s2,r1,s3,r1

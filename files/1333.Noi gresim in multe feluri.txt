@@ -1,0 +1,43 @@
+[s1]
+1333.Si m
+1.  Noi greşim în multe feluri
+Zilnic noi trecand prin lume
+Zilnic ştii Isuse Doamne
+Ştii a noastră slăbiciune.
+Dar pe calea pocăinţei
+De venim la Tine iară
+/:Ne primeşti ne ierţi ne vindeci
+Nu ne scoţi nicicând afară:/
+
+[s2]
+2.  Când nu ţi-ascultăm porunca
+Şi nu ţinem calea dreaptă
+Cand mahnire îţi aducem
+Prin gândire ori prin faptă
+De ne-ntoarcem către Tine.
+Printr-o pocăinţă amară
+/:Ne primeşti ne ierţi ne vindeci
+Nu ne scoţi nicicând afară:/
+
+[s3]
+3.  Zilnic noi trecând prin lume
+Ne-ntinăm frumoasa haină
+Şi uităm mărturisirea
+De iubirea spusă-n taină.
+Dar când lacrima căinţei
+Prinde loc ca să răsară
+/:Ne primeşti ne ierţi ne vindeci
+Nu ne scoţi nicicând afară:/
+
+[s4]
+4.  Cum să-ţi mulţumim o Doamne
+Pentru atâta bunatate
+Ce ne-o  dai fără oprire
+Orişicând şi pentru toate.
+Slavă slavă şi-nchinare
+Ţi-e dragoste,comoară
+/:Tu nu oboseşti să vindeci
+Pe nimeni nu scoţi afară:/
+
+[order]
+s1,s2,s3,s4

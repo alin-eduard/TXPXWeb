@@ -1,0 +1,26 @@
+[s1]
+Isus, Isus, eu Te iubesc
+Pentru mine Tu Te-ai jertfit
+Prin moartea Ta eu azi trăiesc
+Şi Îţi cânt, că sunt fericit.
+
+[r1]
+Viaţa-ntreagă-Ţi dăruiesc
+Căci bucurii la Tine găsesc
+Mai mult ca orişice doresc
+Pe Tine să Te preţuiesc.
+
+[s2]
+În lumea-aceasta sunt dureri
+Căci pe Isus din ea L-a scos
+Ce plină-ar fi de bucurii
+Dac-ar urma pe-Isus Hristos!
+
+[s3]
+Căutaţi pe Isus să-L urmaţi
+Viaţa va fi plină de cânt
+În inimi pe Isus purtaţi
+Cât veţi trăi voi pe Pământ.
+
+[order]
+s1,r1,s2,r1,s3,r1

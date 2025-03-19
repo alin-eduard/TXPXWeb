@@ -1,0 +1,23 @@
+[s1]
+1461.    Re b
+Cântarea mea e numai despre Isus
+Cerescul Fiu al Tatălui slăvit
+El a venit păcatul să mi-l şteargă
+Când la Calvar pe cruce a murit
+Cor   /:Cântarea mea e numai despre Isus
+Ce-n locul meu pedeapsa a purtat
+Şi-n versul ei, cântarea mea va spune
+Ce fericiri şi bogăţii mi-a dat:/
+
+[s2]
+Cântarea mea va fi doar despre Isus
+Despre acestea voi cânta mereu
+Cu imnul sfânt al miilor de îngeri
+Cântarea mea se va uni mereu
+Cor   /:Cântarea mea e numai despre Isus
+Ce-n locul meu pedeapsa a purtat
+Şi-n versul ei, cântarea mea va spune
+Ce fericiri şi bogăţii mi-a dat:/
+
+[order]
+s1,s2

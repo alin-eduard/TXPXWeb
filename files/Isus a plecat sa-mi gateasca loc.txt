@@ -1,0 +1,27 @@
+[s1]
+Isus a plecat să-mi gătească loc
+Sus în ţara gloriei.
+Va veni-n curând să ne ia la El
+Sus în ţara gloriei.
+
+[r1]
+/: Sus în ţara gloriei
+Eu fericirea voi gusta
+Sus în ţara gloriei
+Eu în curând voi triumfa
+Sus în ţara gloriei. :/
+
+[s2]
+Cât de mult doresc drumul să-l sfârşesc
+Sus în ţara gloriei.
+Pe-al meu scump Isus să Îl întâlnesc
+Sus în ţara gloriei.
+
+[s3]
+Vino azi şi tu, mai e încă loc
+Sus în ţara gloriei.
+Nu mai zăbovi, mergi şi tu cu noi
+Sus în ţara gloriei.
+
+[order]
+s1,r1,s2,r1,s3,r1

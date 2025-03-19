@@ -1,0 +1,33 @@
+[s1]
+2145
+1. Dumnezeu a pregătit
+Pentru cel ce-i mântuit,
+un loc minunat,
+Unde este nemurire
+Fericire, bucurie ne-ncetat
+Lacrimile vor pieri
+Bucuria va domni o veșnicie
+Nici necazuri n-or mai fi
+Liniștea va dăinui pe vecie
+
+[r1]
+Cor: /: Paradis loc ceresc
+Acolo sus vreau să trăiesc
+Cu Isus Domnul meu
+Veșnic lângă Dumnezeu
+/: Paradis :/ e și azi încă deschis
+Pentru acel ce de la rău
+Se va-ntoarce azi la Dumnezeu :/.
+
+[s2]
+2. Dumnezeu a pregătit
+Pentru cel ce-i mântuit paradisul
+Un locaș măreț și sfânt
+Cum nu este pe pământ, nu e altul
+Pe străzi de aur va umbla
+Cel ce face voia Sa din iubire
+Cu îngerii în cor va cânta
+Pe Domnul Îl va lăuda ce fericire.
+
+[order]
+s1,r1,s2,r1

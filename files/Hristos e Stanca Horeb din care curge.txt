@@ -1,0 +1,42 @@
+[s1]
+/: Hristos e Stânca Horeb din care curge
+Apa Vieţii salvatoare pentru noi. :/
+
+[s2]
+Mai dulce decât mierea e de vrei să guşti
+Putere-n suflet dă si-nviorare-n trup
+Hristos e Stânca Horeb din care curge
+Apa Vieţii salvatoare pentru noi.
+
+[s3]
+Hristos e Crinul cel mai frumos din vale
+E trandafirul alb şi candit din Saron
+El e viaţă, e dragoste deplină
+Izvor etern al mântuirii este El.
+
+[r1]
+Mai dulce decât mierea e de vrei să guşti
+Putere-n suflet dă si -nviorare-n trup
+Hristos e Stânca Horeb din care curge
+Apa Vieţii salvatoare pentru noi.
+
+[s4]
+Hristos e Prietenul Cel Bun ce iţi ramâne
+Chiar şi atunci când toţi cei dragi te părăsesc
+El e aproape de tine şi iţi spune
+„Rămâi cu mine fiul meu Eu te iubesc.”
+
+[s5]
+Hristos e Stanca cea tare din vecie
+E mantuire si salvare pentru toti
+El e Izvorul bogat de Apa Vie
+Vino si bea din El acum, cat inca poti.
+
+[s6]
+Mai dulce decât mierea e de vrei să guşti
+Putere-n suflet dă si vindecare-n trup
+Hristos e Stânca Horeb din care curge
+Apa Vieţii salvatoare pentru noi.
+
+[order]
+s1,s2,s3,r1,s4,r1,s5,s6

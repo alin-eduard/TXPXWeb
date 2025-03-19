@@ -1,0 +1,29 @@
+[s1]
+Nu privi c-un ochi trecutul
+Şi c-un ochi spre viitor
+Nu fi jumătate-n soare
+Şi altă jumătate-n nori.
+1043             Do m
+1.
+
+[s2]
+Nu păşi c-un pas 'nainte
+Şi cu unul înapoi
+Nu intra când în lumină
+Când în putredul noroi.
+Nu fi-n clipa asta gheaţă
+Şi-apoi peste o clipă jar
+Nu fi cu Hristos acuma
+Şi-apoi cu Satana iar.
+3.
+2.
+
+[s3]
+Căci pe toţi cei nestatornici
+Îi încearcă al vieţii val
+De nici unul nu ajunge
+În cerescul Canaan.
+4.
+
+[order]
+s1,s2,s3

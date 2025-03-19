@@ -1,0 +1,50 @@
+[s1]
+De pe stânca mântuirii
+Luminează-al vieţii far
+El trimite raze-n lume
+Şi-al îndreptăţirii har.
+
+[r1]
+Dârză-i noaptea şi-agitată,
+Arca-i plină de drumeţi,
+Lăsaţi lămpile să ardă
+Spre salvarea multor vieţi.
+
+[s2]
+Neagră-i noaptea necredinţei
+Groaznic muge-al mării val,
+Mii de ochi timizi se-ndreaptă
+Spre lumina de pe mal...
+
+[s3]
+Fraţi iubiţi, lumini aprindeţi
+Căci vreun vas de valuri prins
+Ar putea pieri pe-aproape
+Dacă-n port e farul stins.
+
+[s4]
+Răspândiţi lumina sacră
+Peste mări, prin munţi şi văi,
+Sfântul Spirit ne-a aprins-o
+Pentru timpul cel de-apoi.
+
+[s5]
+Proclamaţi solia-n lume
+Cu glas tare îndemnaţi
+Să se-adune toţi aleşii
+Cei cu inima curaţi.
+
+[s6]
+Dârză-i noaptea şi-agitată,
+Arca-i plină de drumeţi,
+Lăsaţi lămpile să ardă
+Spre salvarea multor vieţi
+
+[s7]
+Îndemnaţi-i să rămână
+Credincioşi pân-la sfârşit
+Ca prin porţi să intre-n în ceruri
+Când Isus va fi venit!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,s6,s7,r1

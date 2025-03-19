@@ -1,0 +1,60 @@
+[s1]
+Nu-Ţi cer bogăţie
+să-mi dai pe Pămînt
+Nici o slavă deşartă
+intre oameni s-o port.
+
+[s2]
+Dar Îţi cer să-mi dai pace,
+şi iertare să-mi dai
+Şi din apa vieţii a divinului rai.
+
+[s3]
+N-am să-Ţi cer niciodată
+braţu-n cuie ţintit
+Să văd rana cu ochii şi să-Ţi spun:
+<Te-am găsit !>
+
+[s4]
+Te-am simţit într-o seară
+cînd eram ostenit
+Mi-ai luat a mea povară
+ce mă apăsa cumplit.
+
+[s5]
+Eram dus în neştire
+şi de beznă cuprins
+Numai Fiul iubirii pîn,
+la mine-a ajuns.
+
+[s6]
+Am văzut o lumină
+coborată de sus
+Şi prin norii vieţii
+Soarele mi-a pătruns.
+
+[s7]
+N-am să-Ţi cer să-mi lungeşti viaţa,
+Căci şi-a muri e un cîştig
+Nici să-mi dai doar bucurie
+şi în necaz să mă alini.
+
+[s8]
+Dar vreau să-Ţi cer îndurare,
+să-mi dai, Doamne, mila Ta
+Adu-Ţi aminte şi de mine,
+singur aici nu mă lăsa.
+
+[s9]
+Nu-Ţi cer nimic, rosteşte-o voce
+Si totul se va-nfăptui
+Nădejde să îmi dai în Tine, Credinţă spre-a mă mantui.
+
+[s10]
+Dar vreau în ziua cea din urmă
+să primeşti, Doamne, Duhul meu
+Acolo unde-n slăvi divine
+nu mai sînt lacrimi şi dureri.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

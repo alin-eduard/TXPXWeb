@@ -1,0 +1,49 @@
+[s1]
+1. O Doamne ce-ai văzut la mine,                   De m-ai iubit atât de mult?
+Căci ştiu o viaţă de ruşine
+Am dus ca păcătos pierdut
+1567.
+
+[s2]
+2.Cum Doamne m-ai chemat la Tine,   să mântuieşti sufletul meu?
+Căci eu nici nu visam în mine
+Ca să mă-ntorc la Dumnezeu
+
+[s3]
+3. O cum mi-ai dăruit credinţa
+Să cred în sângele-ţi vărsat
+Cum Doamne mi-ai schimbat fiinţa
+Acea robită de păcat
+
+[s4]
+4.Nu meritam a Ta iubire
+Ce s-a jertfit în locul meu
+Nevrednic sunt de-a Ta iubire
+Nevrednic sunt de harul Tău
+
+[s5]
+5.Te văd urcând cu a mea povară
+Pe tristul deal din Golgota
+Şi moartea Ta mă înfioară
+C-ai fost lovit din vina mea
+
+[s6]
+6.O Doamne în a Ta jertfire
+Văd Doamne harul Tău bogat
+Ce poate duce în mărire
+Pe un păcătos ce l-ai iertat
+
+[s7]
+7.Ce pot să fac Isus iubit
+În schimb pentru tot ce am aflat
+Decât să ţin pân la sfârşit
+Curat veşmântul ce mi-ai dat
+
+[s8]
+8.Iar în furtuni sau vremi senine
+Să-ţi cânt Isuse minunat
+La cei pierduţi să spun de Tine
+Că poţi să ierţi şi al lor păcat
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

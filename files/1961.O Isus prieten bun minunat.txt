@@ -1,0 +1,28 @@
+[s1]
+1961
+1. O Isus prieten bun minunat
+La Tine am alergat
+Sufletu-mi când era apăsat
+Numai Tu l-ai ușurat.
+
+[r1]
+Cor: /: Eu te rog să rămâi în viața mea
+Numai Tu-mi vei putea ajuta
+Când pe drumul spre cer
+Crucea-mi grea
+Umeri-mi va apăsa :/.
+
+[s2]
+2. Când de val eu eram amenințat
+Viața mea Tu mi-ai salvat
+Numai brațul Tău m-a ridicat
+Peste val eu am călcat.
+
+[s3]
+3. Drumu-i greu dar eu știu că Isus
+Tu nu mă lași până-n cer sus
+Și acolo la nunta Ta din cer
+Voi cânta, voi cânta iubirea Ta.
+
+[order]
+s1,r1,s2,r1,s3,r1

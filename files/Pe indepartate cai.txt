@@ -1,0 +1,32 @@
+[s1]
+Pe indepartate cai
+Eu in lume rataceam
+Si eram cuprins de amarul ei
+Dar Isus ma chemat
+Vin la min nu amana
+Caci Eu sunt azi salvarea ta
+
+[r1]
+Numai Tu numai Tu
+Ma iubesti si-mi dai viata vesnica
+Numai Tu numai Tu
+Esti acela ce mantui sufletu
+
+[s2]
+Soapta blandului pastor
+M-a trezit din al meu somn
+Ca sa nu mai fiu in lume pieritor
+Astazi scoala nu mai sta
+Da-Mi Mie viata ta
+Si-ai sa vezi cum se schimba calea ta
+
+[s3]
+Iar atunci am alergat
+La acel ce m-a chemat
+I-am predat fiinta si inaima mea
+Viata El mi-a schimbat
+Sufletu mi la salvat
+Iar acuma ii cant ne-ncetat
+
+[order]
+s1,r1,s2,r1,s3,r1

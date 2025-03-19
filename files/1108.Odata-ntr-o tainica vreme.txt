@@ -1,0 +1,43 @@
+[s1]
+1108.                                                        Mi m
+1.Odata-ntr-o tainică vreme
+Din lut Cineva m-a făcut
+/:Şi dacă sunt om şi nu vierme
+O, Doamne, (:aşa ai vrut Tu:):/
+
+[s2]
+2. Şi dacă am grai şi nu muget
+Să spun ce iubesc şi, ce nu
+/:Şi dacă am harul să cuget
+O, Doamne, (:aşa ai vrut Tu:):/
+
+[s3]
+3. Și dacă întâia-Ți zidire
+Căzu în păcat, se pierdu
+/:Nu eu am vrut iarăşi unire
+O, Doamne,
+(:aşa ai vrut Tu:):/
+
+[s4]
+4.Și dacă pe-această cărare
+M-ai pus să urmez
+Ce-ai spus Tu
+Nu eu am luat hotărârea
+Ci, Doamne,
+(:aşa ai vrut Tu:):/
+
+[s5]
+5.Dar sosi-va şi vremea-aceea
+Să plec, cum şi alţii s-au dus
+Voi spune la toţi cu nădejde:
+Da, Doamne,
+(:aşa ai vrut Tu:):/
+
+[s6]
+6. Și dacă voi merge vreodată
+La Cel ce din lut mă făcu
+Voi spune de-a pururea Tată
+Te laud (:c-aşa ai vrut Tu:):/
+
+[order]
+s1,s2,s3,s4,s5,s6

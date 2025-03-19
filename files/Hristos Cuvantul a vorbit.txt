@@ -1,0 +1,42 @@
+[s1]
+Hristos, Cuvântul a vorbit
+Solemn El ne-a făgăduit
+Că în curând va reveni
+Ca Domn pe veşnicii.
+Ce frumos va fi atunci
+Ce frumos va fi atunci
+Ah, vino Doamne în curând
+Cu-al Tău Eden preasfânt.
+
+[s2]
+Cei drepţi întâi vor învia,
+Şi ei pe Domnul vor vedea
+Aşa precum L-au aşteptat
+În slavă înălţat.
+Ce frumos va fi atunci
+Ce frumos va fi atunci
+Ah, vino Doamne în curând
+Cu-al Tău Eden preasfânt.
+
+[s3]
+Oraşul sfânt se va vedea,
+Acolo sfinţii vor intra,
+Ca să-şi primească plata lor
+În trai nemuritor!
+Ce frumos va fi atunci
+Ce frumos va fi atunci
+Ah, vino Doamne în curând
+Cu-al Tău Eden preasfânt.
+
+[s4]
+În Paradis, în slava sa,
+Pe cei iubiţi vom revedea
+Dureri şi moarte vor pieri,
+Cel rău nu va mai fi!
+Ce frumos va fi atunci
+Ce frumos va fi atunci
+Ah, vino Doamne în curând
+Cu-al Tău Eden preasfânt.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,26 @@
+[s1]
+/: Ce răsun-acuma iar
+Ca şi la-nceput,
+Munţi şi văi a străbătut
+Vestea: „S-a născut!” :/
+Fa M
+
+[r1]
+/: Mesia, Mesia,
+Eşti nădejdea vieţii noastre
+În lumea cea rea! :/
+
+[s2]
+/: N-avem daruri ca să-I dăm,
+Ce-ar putea primi?
+Dar în loc de daruri vrem
+Veşnic a-L sluji. :/
+
+[s3]
+/: Azi din inimă-I cântăm
+Precum îngerii
+Mic şi mare să-L lăudăm!
+Din cer a venit. :/
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,57 @@
+[s1]
+Cu flori de aur te-aş împodobi
+Dar eu n-am aur nu-s bogat
+În schimb am altceva Isuse scump
+În piept o inimă curată.
+De-aceea inima Ţi-o dăruiesc
+Şi Doamne-ntreaga mea fiinţă
+Căci harul Tău Isuse m-a salvat
+Mi-a dat lumină şi credinţă.
+
+[s2]
+/: Chiar dacă eu nu am aur
+Şi n-am bogăţii
+Sunt totuşi mai fericit ca oricine
+Isuse fiindcă-n mine am puterea Ta
+Al Tău Duh Sfânt
+Mai scump decât întreaga lume. :/
+
+[s3]
+Nu vreau comori să am pe-acest pământ
+Nu-mi pot aduce mântuire
+Eu vreau comori în cer să pot avea
+Şi pe Hristos în nemurire
+Chiar dacă astăzi lumii nu-i mai plac
+Căci nu mai sunt ca altădată
+Fiindcă El pe mine m-a ales
+Sunt mai bogat ca lumea toată.
+
+[s4]
+/: Chiar dacă eu n-am comori
+N-am aur şi argint
+Sunt totuşi mai fericit decât oricine
+Isuse căci mi-ai dat binecuvântarea Ta
+Şi pentru că oriunde-aş fi
+Te am pe Tine :/
+
+[s5]
+O cât de mul Isuse-am vrea să-Ţi fim
+Mireasă sfântă fericită
+În strai de nea alături de acei
+Care-au răbdat orice ispită
+Alături de acei ce Te iubesc
+Şi Te aşteaptă-n umilinţă
+O întăreşte-ne Isuse scump
+Pe calea noastră, în credinţă.
+
+[s6]
+/: Chiar dacă în lume-acesta
+N-avem bogăţii
+Noi suntem mai fericiţi decât oricine
+Isuse pentru că ştim
+Tu nu ne vei lăsa
+Şi pentru că vom fi de-a pururi
+Lângă Tine. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

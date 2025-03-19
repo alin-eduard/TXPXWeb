@@ -1,0 +1,44 @@
+[s1]
+Durerea iar m-a cercetat
+În inima-mi sărmană
+/: Cu-atâtea răni,
+a mai lăsat o rană. :/
+
+[s2]
+Simţit-am cum pe faţă iar
+Curg lacrimile vale
+/: De ce mi-ai dat
+atât amar şi jale ? :/
+
+[s3]
+Atâtea visuri moarte-n şir
+Nădejdi numai de bine
+/: Le-am îngropat
+ca-n cimitir în mine. :/
+
+[s4]
+Mai rătăcesc din când în când
+Pe calea lor ne-ntoarsă
+/: Dar amintirea lor din gând
+mi-e ştearsă. :/
+
+[s5]
+Suspinul mi se-neacă-n gât
+Ar plânge şi nu poate
+/: O, Doamne, Tu le-ai omorât
+pe toate ! :/
+
+[s6]
+De câte visuri m-a legat
+Nădejdea de mai bine!
+/: Mi le-ai pierdut,
+dar Te-am aflat pe Tine ! :/
+
+[s7]
+Atâtea visuri ce dezmierd
+De vrei, le fă apuse!
+/: Dar nu lăsa
+să Te mai pierd, Isuse! :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

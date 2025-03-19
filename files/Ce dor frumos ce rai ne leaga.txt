@@ -1,0 +1,33 @@
+[s1]
+Ce dor frumos ce rai ne leagă
+Eu cânt cu lacrimi, Tu le-alini
+De dragul Tău, mi-e lumea dragă
+Că-n ea Te văd şi-n flori şi-n spini.
+În crinii albi Ţi-e sărutarea
+În magi văd Sânge pe Calvar.
+De dragul Tău mi-e dragă valea,
+Şi cerul fără de hotar.
+Mi Major
+
+[s2]
+În bulgări reci Te văd cum sameni
+Şi-n spini văd paşii sângeraţi
+De dragul Tău iubesc pe oameni
+Azi sunt străini, mâine poate fraţi.
+Când turme trec ducându-şi dorul
+Şi spune-un fluier: « Sunt cu voi ».
+De dragul Tău mi-e drag Păstorul,
+Ce-şi pune pieptul pentru oi.
+
+[s3]
+În cei aleşi Îţi văd Iubirea
+Cu ei cântându-Ţi psalmi în văi
+De dragul Tău le sorb privirea
+Pe-obrajii lor sărut pe ai Tăi.
+Şi cât mi-e dat să nu-Ţi văd faţa
+Dorit de stele ca un mag.
+De dragul Tău mi-e dragă viaţa,
+Şi moarte-a nu-i decât un prag.
+
+[order]
+s1,s2,s3

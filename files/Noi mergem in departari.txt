@@ -1,0 +1,26 @@
+[s1]
+Noi mergem în depărtări
+Peste văi, dealuri şi mări
+Să vestim Cuvîntul Sfînt
+Tuturor de pe Pămînt.
+
+[r1]
+Vom vesti, vesti, vesti necontenit
+Pe Isus Cel răstignit !
+Căci curînd, curînd, curînd El va veni
+Pe cei drepţi a-i mîntui
+
+[s2]
+De vom trece prin nevoi
+Nu vom da nicicînd înapoi
+Ci înainte vom lupta
+Orişice s-ar întîmpla.
+
+[s3]
+Să privim spre cer în sus
+Şi în rugă cu Isus
+Noi să-I cerem ajutor
+Ca în lucru s-avem spor.
+
+[order]
+s1,r1,s2,r1,s3,r1

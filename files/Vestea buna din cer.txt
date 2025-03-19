@@ -1,0 +1,30 @@
+[s1]
+Vestea bună din cer
+Îngerii ne-au adus
+S-a născut al lumii Salvator,
+/: Jos la oameni din nou
+Dumnezeu a coborât
+Să mântuiasca tot ce e pierdut. :/
+
+[r1]
+/: S-a născut în Betleem,
+Mesia, aleluia Emanuel. :/
+
+[s2]
+Dar păstorii au dus
+Micului prunc Isus
+Laude, daruri, cântând bucuroşi,
+/: De aceea şi noi
+Vrem prin cânt să-L slăvim
+Pe acela ce mult ne-a iubit. :/
+
+[s3]
+Îngerii preamăresc
+Minunatul moment
+Când salvarea prin El a venit,
+/: Osanale în cer
+pace jos pe Pământ
+Între oameni plăcuţi Domnului. :/
+
+[order]
+s1,r1,s2,r1,s3,r1

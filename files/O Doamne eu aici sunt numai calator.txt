@@ -1,0 +1,33 @@
+[s1]
+O, Doamne, eu aici sunt numai călător
+În cerurile Tale voi fi moştenitor.
+Acolo-i ţara mea, acolo-i casa mea
+Unde veşnic eu voi sta,
+sus, la dreapta Ta.
+
+[s2]
+/: Aici eu sunt doar numai călător
+În cerurile Tale voi fi moştenitor
+Acolo-i ţara mea, acolo-i casa mea
+Unde veşnic eu voi sta,
+sus, la dreapta Ta ! :/
+
+[s3]
+Un fulg purtat de vânt
+sunt numai pe Pământ -
+În cerurile Tale voi fi pe veci
+un sfânt!
+Acolo-i ţara mea, acolo-i casa mea
+Unde veşnic eu voi sta,
+sus, la dreapta Ta.
+
+[s4]
+/: Răsună dar al gurii mele cânt
+În cerurile Tale voi fi pe veci
+un sfânt !
+Acolo-i ţara mea, acolo-i casa mea
+Unde veşnic eu voi sta,
+sus, la dreapta Ta ! :/
+
+[order]
+s1,s2,s3,s4

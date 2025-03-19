@@ -1,0 +1,41 @@
+[s1]
+Cât de frumos se-nalţa cântarea
+Cât de frumos se-nchină mereu
+Orice faptură, care Te iubeşte
+Şi Te măreşte, Sfânt Dumnezeu.
+
+[s2]
+Ce minunat e Domnul
+Ce minunat
+El e cu noi oriunde
+Ce minunat
+Ce minunat e Domnul
+Ce minunat
+Ne dă speranţă în noua viaţă
+Cât de minunat
+
+[s3]
+Noi Te iubim, şi dorim Isuse
+Cât vom trăi, cu Tine să stăm
+De-om fi în vale,
+De-om fi pe munte
+Când eşti cu noi
+Toţi ne bucurăm.
+
+[r1]
+Pentru zi cu flori,
+Pentru zi cu nori
+Pentru zile însorite
+Tu să-I mulţumeşti
+El în dar ţi-a dat Harul minunat
+Harul Sfânt al mântuirii,
+Să poţi fi salvat
+
+[s4]
+În pieptul nostru inima bate
+Cu-n dor aprins ca să te vedem
+Când vii cu Slavă, iaraşi Isuse
+De aceea astăzi, voioşi cântăm.
+
+[order]
+s1,s2,s3,r1,s4,r1

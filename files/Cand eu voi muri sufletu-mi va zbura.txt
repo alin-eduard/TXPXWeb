@@ -1,0 +1,39 @@
+[s1]
+Când eu voi muri,
+sufletu-mi va zbura
+Spre-un loc iubit
+În înaltul cerului unde voi fi
+Desăvârşit.
+
+[r1]
+Ah, cetatea vieţii,
+unde chinuri n-or mai fi
+Căci viaţa fără moarte-n
+ea va domni !
+
+[s2]
+Umblare pe mare e viaţa mea
+Pe-acest Pământ
+Nu mă lăsa, Doamne, fii cu mine
+Pân, la mormânt.
+
+[s3]
+Iar dincolo de mormânt, cu Tine
+La masă stând
+Cu Avraam, Isac şi Iacov
+Eu vreau să-Ţi cânt.
+
+[s4]
+Prigonitorii mei mă asupresc
+Din răsputeri
+Privind la viaţa mea, ca să mi-o ia
+Cu chin, dureri.
+
+[s5]
+Sufletul mi-e-ndurerat - cum doresc
+Al Tău Sabat !
+Cum doresc să mă-odihnesc
+În cer minunat !
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

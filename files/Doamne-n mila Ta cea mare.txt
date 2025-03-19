@@ -1,0 +1,26 @@
+[s1]
+Doamne,-n mila Ta cea mare,
+Eu Te rog să mă primeşti,
+Sfânta-Ţi binecuvântare
+Ne-ncetat să-mi dăruieşti.
+Tu, Isus, viaţa mea,
+dă-mi şi mie mila Ta!
+
+[s2]
+Doamne, Tu mă ştii prea bine,
+Doar Tu singur mă cunoşti.
+Umilit eu vin la Tine
+Şi Te rog să mă primeşti.
+Dă-mi puteri, mângâieri,
+biruinţa-n încercări!
+
+[s3]
+Întăreşte-mă pe cale
+Să rămân curat mereu;
+Amintirea jertfei Tale
+Lumineze drumul meu.
+Credincios şi umil,
+să-Ţi urmez ca un copil!
+
+[order]
+s1,s2,s3

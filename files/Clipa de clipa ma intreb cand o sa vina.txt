@@ -1,0 +1,28 @@
+[s1]
+Clipa de clipa ma intreb cand o sa vina
+Sunt coplesit de dor si Il astept
+Spre infinitele zari si spre lumina
+Mereu tacutele doruri eu mi le-ndrept
+
+[s2]
+Dar stiu si cred
+Ca Domnul meu e foarte aproape,
+E chiar pe drum si in curand va reveni,
+Va risipi orice dureri si-n glas de soapte
+Noi vom pleca spre infinit nedespartiti
+
+[s3]
+De stralucire atunci se va umple zarea
+Cand se va-ntoarce Isus ca un raspuns
+La lacrimi, la dor la suspin si la asteptarea
+Celor ce l-au iubit de pe pamant
+
+[s4]
+Dar stiu si cred
+Ca Domnul meu e foarte aproape
+E chiar pe drum si in curand va reveni
+Va risipi orice dureri si-n glas de soapte
+Noi vom pleca spre infinit nedespartiti
+
+[order]
+s1,s2,s3,s4

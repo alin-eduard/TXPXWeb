@@ -1,0 +1,34 @@
+[s1]
+1
+Sunt dator să Îl slăvesc
+Şi-a dat viaţa pentru mine;
+Viaţa mea Îi dăruiesc
+Vreau să ştie orişicine:
+
+[s2]
+2
+Mă iubeşte, mă iubeşte!
+Pentru mine sus pe cruce
+A răbdat dureri şi chin.
+Mă iubeşte, mă iubeşte!
+Pentru mine sus pe cruce
+A murit.
+
+[s3]
+3
+Singur nu voi fi nicicând;
+El va fi mereu cu mine.
+Toată viaţa am să-i cânt
+Vreau să ştie orişicine:
+
+[s4]
+4
+Mă iubeşte, mă iubeşte!
+Pentru mine sus pe cruce
+A răbdat dureri şi chin.
+Mă iubeşte, mă iubeşte!
+Pentru mine sus pe cruce
+A murit.
+
+[order]
+s1,s2,s3,s4

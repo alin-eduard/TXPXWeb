@@ -1,0 +1,26 @@
+[s1]
+Doamne mă predau azi Ţie
+Cu toată fiinţa mea.
+Tu nu mă lăsa la nimeni
+Să mă ia din mâna Ta.
+
+[r1]
+/: O ce har nespus,
+O ce har nespus.
+Să-ţi predai fiinţa-ntreagă
+Domnului Isus :/
+
+[s2]
+Tu mă ştii, Doamne, mai bine
+Ştii şi al inimii dor
+Fericirea mea supremă
+Tu mă fă învingător!
+
+[s3]
+Nu mă tem să fiu cu Tine
+Pe drumul suferinţei
+Vreau cu Tin’ în veci să trăiesc
+Voia Ta s-o împlinesc.
+
+[order]
+s1,r1,s2,r1,s3,r1

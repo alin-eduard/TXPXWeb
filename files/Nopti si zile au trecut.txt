@@ -1,0 +1,29 @@
+[s1]
+Nopţi şi zile au trecut
+Pînă Domnul mi-a vorbit
+Mi-a deschis şi ochii minţii
+Ca să văd cît m-a iubit.
+În dragostea-I făr, sfîrşit
+Pentru mine S-a jertfit
+Iar de-atunci eu după El
+mereu tînjesc.
+
+[r1]
+/: Dar eu ştiu că vine-o zi
+Cînd El lucrarea-Şi va sfîrşi
+Voi fi dus atunci spre zări de vis.
+Dar eu ştiu că vine-o zi
+Cînd faţă-n faţă-L voi privi
+Semnele-I din palme voi zări. :/
+
+[s2]
+Strălucirile-astei lumi
+Bucurie mi-au adus
+Dar în inimă pustiul
+Se-adîncise tot mai mult.
+Cînd pe El eu L-am găsit
+Pace-n suflet am primit
+Şi în El eu fericirea mi-o găsesc.
+
+[order]
+s1,r1,s2,r1

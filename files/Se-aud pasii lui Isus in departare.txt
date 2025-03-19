@@ -1,0 +1,35 @@
+[s1]
+Se-aud pasii lui Isus in departare
+Se apropie sa vina pe pamant
+El e gata sa revina, dar cati oare
+Il asteapta azi cu inima arzant?
+Peste veacuri vocea Lui duios rasuna
+Glasul ne-nteles al dragostei chemand
+Iar la inimi ferecate mana-I blanda
+Azi inca mai bate, asteptand
+
+[s2]
+/: Isus vine iarasi pe pamant
+El, Mesia va veni-n curand
+Nu sa moara la calvar nici sa se nasca
+Ci il vom vedea odata judecand, :/
+
+[s3]
+Se-aud pasii Lui Isus din departare
+Sa revina mai curand e asteptat
+Fericiti vor fii atunci aceia care
+Prin credinta si prin fapte L-au urmat.
+Ceasul vremii bate ora cea din urma
+Ziua sfanta-i mai aproape ca oricand
+Pe pamant necazuri multe se aduna
+Toate spun ca Domnul vine curand
+
+[s4]
+/: Isus vine iarasi pe pamant
+El, Mesia va veni-n curand
+Nu sa moara la calvar nici sa se nasca
+Ci il vom vedea odata judecand, :/
+(Pregateste-te ca vine in curand)
+
+[order]
+s1,s2,s3,s4

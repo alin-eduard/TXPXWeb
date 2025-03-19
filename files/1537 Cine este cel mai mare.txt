@@ -1,0 +1,28 @@
+[s1]
+Cine este cel mai mare
+În cer şi pe pământ
+Cine este cel mai mare
+În fapte şi-n cuvânt
+Cor: /: Este Dumnezeu :/                                       	E stăpân şi creator
+Domn al veşniciilor
+1537
+
+[s2]
+2. Cine este cel mai sfânt
+Bun milos şi drept
+Cine în cer şi pe pământ
+E puternic şi înţelept
+Cor: /: Este Dumnezeu :/                                       	E stăpân şi creator
+Domn al veşniciilor
+
+[s3]
+3. Cine poate să mă ducă
+În ţara fericirii
+Cine poate să ne conducă
+În ţara nemuririi
+Cor: /: E doar Dumnezeu :/
+E stăpân şi creator
+Domn al veşniciilor
+
+[order]
+s1,s2,s3

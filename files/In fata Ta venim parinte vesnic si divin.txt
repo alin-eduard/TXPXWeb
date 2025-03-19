@@ -1,0 +1,31 @@
+[s1]
+În faţa Ta venim părinte
+Veşnic şi divin,
+Genunchii ni-i plecăm,
+In faţa Ta să ne-nchinăm.
+/: Cu gândul îndreptat în sus,
+Ne amintim ce Tu ne-ai spus.
+C-adevăraţii închinători,
+Sunt în duh şi-n adevăr. :/
+
+[s2]
+În faţa Ta venim cuvântul
+Vieţii să-l citim,
+A legii sfânt cuvânt,
+Dorim să strângem cu avânt.
+/: Să nu fim doar ascultători,
+O Doamne fă-ne-mplinitori.
+A legii tale pe pământ, căci Tu eşti Veşnic, veşnic sfânt. :/
+
+[s3]
+În faţa Ta venim,
+Cu toţi dorim să ne smerim.
+În noi prin Duhul Tău,
+Vrem să se vadă chipul Tău.
+/: Căci tu Doamne pe pământ,
+Ne-ai dat exemplu orişicând.
+De-aceea vrem să Te urmăm,
+Astăzi ne-nchinăm. :/
+
+[order]
+s1,s2,s3

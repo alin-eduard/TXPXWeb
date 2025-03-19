@@ -1,0 +1,32 @@
+[s1]
+Din lume iesi si lasa tot,
+Cum Avraam iesi
+Si-n inima fa-ti astazi loc,
+Ca-n toate-L vei sluji.
+
+[s2]
+Deschide-ti inima, chiar azi!
+Primeste-L pe Isus Hristos!
+Sa vii la El cu-al tau necaz,
+Slujindu-I credincios!
+
+[s3]
+Sa iesi, sa parasesti si al
+Sodomei vechi pacat!
+Tu necredintei nu-i da loc,
+Sa n-ajungi inselat!
+
+[s4]
+Intoarce-te, suflet iubit,
+Chiar astazi la Isus,
+Caci orisicine L-a primit
+E fericit nespus.
+
+[s5]
+Sa faci in apa legamant,
+Slujindu-I Domnului;
+Apoi primeste Duhul Sfant,
+Arvuna cerului.
+
+[order]
+s1,s2,s3,s4,s5

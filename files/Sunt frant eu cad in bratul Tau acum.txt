@@ -1,0 +1,13 @@
+[s1]
+Sunt frânt, eu cad în braţul Tău acum
+Am obosit pe'al lumii lung drum
+Eu vin acum, îngenunchiez
+Păcatul meu m'apasă greu
+
+[s2]
+În Tine mă-ncred
+Pe Tine Te caut
+Povara să'mi iei
+
+[order]
+s1,s2

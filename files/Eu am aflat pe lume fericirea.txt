@@ -1,0 +1,20 @@
+[s1]
+Eu am aflat pe lume fericirea
+Cu Domnul Isus trăind zi de zi.
+El bucurii nespuse mi-a dăruit
+Şi-L voi sluji cît timp voi trăi.
+
+[r1]
+/: Căci n-aş putea găsi altul ca El
+Să mă iubească şi să fiu al Lui.
+Prin jertfa Sa pe cruce eu am aflat
+Şi mîntuirea şi raiul ceresc. :/
+
+[s2]
+Prin viaţă trec cu bucurie şi cînt
+Căci Dumnezeu e al meu Tată Sfînt.
+Şi-I voi cînta şi-L voi slăvi zi de zi
+Pînă-n ceruri la El voi sosi.
+
+[order]
+s1,r1,s2,r1

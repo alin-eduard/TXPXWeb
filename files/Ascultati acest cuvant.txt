@@ -1,0 +1,32 @@
+[s1]
+Ascultaţi acest cuvânt:
+Isus dă ajutor!
+Sus şi tare răsunând,
+Isus dă ajutor!
+Cei ce-aţi fost răscumpăraţi
+Ne-ncetat să luminaţi!
+Pretutindeni să strigaţi:
+Isus dă ajutor!
+
+[s2]
+Răspândiţi acest cuvânt:
+Isus dă ajutor!
+Cu iuţeală, ca un vânt,
+Isus dă ajutor!
+Spune tu, al Său popor,
+Vestea bună tuturor:
+Domnul e Mântuitor!
+Isus dă ajutor!
+
+[s3]
+Să vorbiţi domol şi lin,
+Isus dă ajutor!
+Celor ce se zbat în chin,
+Isus dă ajutor!
+Orice suflet zbuciumat,
+De păcat împovărat,
+Prin Hristos va fi salvat,
+Isus dă ajutor!
+
+[order]
+s1,s2,s3

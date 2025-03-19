@@ -1,0 +1,37 @@
+[s1]
+O, dă-ne azi mantaua lui Ilie
+Isus scump îmbracă-ne cu ea,
+Căci vezi arsița care-i în pustie
+Pământul e uscat si ploaie vrea.
+
+[r1]
+O, fă din noi, Isuse temple sfinte
+Ca-n noi să locuiască Duhul Sfânt,
+În car de foc ne ia ca pe Ilie
+Când vei veni din nou pe-acest pământ
+
+[s2]
+Prooroci de-a lui Baal sunt peste-o mie
+Dar jertfa noastră prinde-o pe altar,
+Credintă dă-ne ca si lui Ilie
+Iar dragostea să ardă-n noi ca jar.
+
+[s3]
+E foame-n tară și e sărăcie
+Făină, untdelemn nu sânt defel,
+Condu-ne la Sarepta lui Ilie
+Și fii cu noi iubit Emanuel.
+
+[s4]
+Iordanul lumii curge cu urgie
+Ne dă puteri ca apa s-o lovim,
+Așa ca Elisei și ca Ilie să trecem Râul spre Ierusalim.
+
+[s5]
+Ne-mbracă cu putere și tărie
+Isuse-n orice zi prin Sfântul Cuvânt,
+O, dă-ne iar mantaua lui Ilie
+Puterea Cinzecimii, Duhul Sfânt.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

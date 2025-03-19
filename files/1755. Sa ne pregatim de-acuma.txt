@@ -1,0 +1,47 @@
+[s1]
+1755.     Re m
+1. Să ne pregătim de-acuma
+Mai avem puţin pe cale
+Duhul Sfânt ne cercetează
+Şi ne dă mereu răbdare
+Să mergem numai `nainte
+Să nu dăm nicicând `napoi
+Întăreşte-ne Isuse
+Stai alăturea de noi
+
+[r1]
+Cor:	/:Tu eşti mângâierea noastră
+Scumpul nostru Salvator
+Tu ne-alini orice durere
+Şi ne vii in ajutor
+Tu ne pui balsam pe rane
+Tu ne speli păcatul greu
+Şi-ai purtat a noastră cruce
+Tu Fiul lui Dumnezeu:/
+
+[s2]
+2. Azi mai fă o cercetare
+Intră şi prin casa mea
+Pregăteşte-ne Isuse
+Ca să te putem urma
+Să putem striga , o, Doamne
+Când pe nori te vom vedea
+Vine Împăratul lumii
+Mielul sfânt din Golgota
+
+[s3]
+3. Lasă pacea Ta Isuse
+Să domnească între noi
+La venirea Ta , o, Doamne
+Să te-ntâmpinăm pe nori
+Să strigăm toţi osanale
+Isus Mielule divin
+Ne-ai dat astăzi libertate
+Şi ne duci in veşnicii
+Mai avem puţin, o, Doamne
+Şi cu toţi ne-om revedea
+Şi plângând de bucurie
+Sus spre cer ne-om înălţa
+
+[order]
+s1,r1,s2,r1,s3,r1

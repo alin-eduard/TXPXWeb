@@ -1,0 +1,30 @@
+[s1]
+O nu respinge-al Său cuvânt,
+Cerescul har nu-l risipi
+Şi inima nu ţi-o împietri,
+Ci vino acum.
+
+[r1]
+De ce nu acum? De ce nu acum?
+Să fi salvat, de ce nu acum?
+
+[s2]
+Prin milă astăzi eşti chemat,
+Ai grijă, n-o nesocoti.
+Căci poate mâine vei muri,
+Deci vino acum.
+
+[s3]
+Isus Hristos a mântuit,
+Pe nimeni nu a refuzat.
+Şi tu prin El poţi fi salvat,
+Deci vino acum.
+
+[s4]
+De nu-L primeşti azi pe Isus,
+În veci de veci vei regreta.
+Nu amâna salvarea ta,
+Ci vino acum.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

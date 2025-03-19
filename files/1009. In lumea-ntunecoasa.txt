@@ -1,0 +1,61 @@
+[s1]
+1.          În lumea-ntunecoasă
+Trăiam eu odată
+Fără să ştiu vreodată
+Că există şi un tată.
+Şi când eu L-am aflat
+Că-i bun şi îndurător
+Atunci m-am hotărât.
+Să fiu cu-al Său popor.
+1009.
+
+[r1]
+Cor:	Ce bine e pe-acest pământ
+Când ai la cine alerga
+Şi-atunci când de la nimeni
+N-auzi un cuvânt bun
+El iese înainte
+Cu mângâierea Sa.
+
+[s2]
+2.          Şi-am zis că toată viaţa
+Pe el am să-L slujesc
+Şi chiar de-ar fi să trec prin foc
+Pe El nu-L părăsesc.
+Căci el e bun şi-ndurător
+Şi orice suflet vrea
+Că-n umilinţă şi-n răbdare
+Să fie întruna aşa.
+
+[s3]
+3.           E greu pe-acest pământ
+Când greul te apasă
+E greu când toţi din jurul tău
+În pace nu te lasă.
+E greu să suferi în tăcere
+Şi nimeni să nu ştie
+Până când Doamne, o, Isuse
+Aşa o să mai fie.
+
+[s4]
+4.            Suntem slabi şi păcătoşi
+Trecem prin încercări
+Te rugăm Doamne Sfinte
+Tu să ne dai puteri.
+Când valurile vin urlând
+Ca viaţa s-o dărâme
+Noi nicicând să nu dăm înapoi
+‘Nainte-n fapte bune.
+
+[s5]
+5.      Ajută-ne să fim lumină
+Pentru toţi cei ce nu vor
+Să-nveţe să urmeze calea Ta
+O, Bun păstor.
+C-atunci când vei veni
+Să-ţi iei a Ta mireasă
+Cu toţii să fim pregătiţi
+S-ajungem sus în cer.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

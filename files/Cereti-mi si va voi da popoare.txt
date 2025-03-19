@@ -1,0 +1,26 @@
+[s1]
+Cereţi-mi şi vă voi da popoare
+/: Ca moştenire vouă :/ x2
+Copiii Mei, cereţi-Mi
+Şi vă voi da popoare
+Ca moştenire vouă
+Cereţi-Mi
+
+[s2]
+Iată-mă, voi merge la popoare
+/: Ca un ambasador al Tău :/ x2
+O Tatăl meu, iată-mă
+Voi merge la popoare
+Ca un ambasador al Tău
+Iată-mă
+
+[s3]
+Iată-mă, voi merge la popoare
+/: Ca un ambasador al Tău :/ x2
+O Tatăl meu, iată-mă
+Voi merge la popoare
+Ca un ambasador al Tău
+/: Iată-mă :/
+
+[order]
+s1,s2,s3

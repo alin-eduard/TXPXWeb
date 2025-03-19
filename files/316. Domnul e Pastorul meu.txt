@@ -1,0 +1,43 @@
+[s1]
+1. Domnul e Păstorul meu
+Lipsă nu voi duce
+El mă paşte-n verzi păşuni
+Şi-mi dă apă dulce
+La izvoare de odihnă
+Şi la apă dulce.
+316.
+
+[s2]
+2. Sufletul mi-nviorează
+Cu poveţe bune
+Pe căi drepte El mă poartă
+Pentru scumpu-I nume
+Pentru slava Lui cea mare
+Pentru scumpu-I nume.
+
+[s3]
+3. Chiar de-ar fi să trec prin
+Valea morţii, nu m-aş teme
+Cu toiagul Tău mă mângâi
+Doamne-n orice vreme
+Cu toiagul şi nuiaua
+Doamne-n orice vreme.
+
+[s4]
+4. Îmi întinzi masa-n faţa celor
+Ce mă văd cu ură
+Îmi ungi capul şi paharu-mi
+Plin peste măsură
+Dar paharul meu o Doamne
+Plin peste măsură.
+
+[s5]
+5. Fericirea şi-ndurarea
+Vor fi-n veci cu mine
+Şi voi sta în casa-ţi sfântă
+Doamne lângă Tine
+Până la sfârşitul vieţii
+Doamne lângă Tine.
+
+[order]
+s1,s2,s3,s4,s5

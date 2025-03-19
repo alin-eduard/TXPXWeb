@@ -1,0 +1,38 @@
+[s1]
+Din ochii Tăi se revarsă lumină
+Şi viaţa, Tu ne-o păzeşti
+Fără dragostea Ta,
+Aprinsă în orice stea
+N-am simţit cât de mult mă iubeşti
+Pe fruntea Ta,
+Urmele se văd, încă
+Coroana sfântă de spini
+O rugă sinceră, azi închin
+Şi viaţa mea Ţi-o ofer.
+
+[s2]
+/: Vrem să-L vedem pe Isus
+El este soarele, ce niciodată n-a apus
+Vrem să-l urmăm pe Hristos
+El este cale,
+Este viaţă şi adevăr :/
+
+[s3]
+Mâinile Tale şoptesc o poveste
+A Crucii pe care-ai murit
+Iar prin jertfa Ta, prin iubirea Ta
+Profeţia s-a împlinit
+Inima ta, ce-a blând străpunsă
+Ne-a dat darul veşnic şi sfânt
+O mărturie şi un legământ
+Îţi vom cânta pe pământ.
+
+[s4]
+/: Vrem să-L vedem pe Isus
+El este soarele, ce niciodată n-a apus
+Vrem să-l urmăm pe Hristos,
+El este cale,
+Este viaţă şi adevăr :/
+
+[order]
+s1,s2,s3,s4

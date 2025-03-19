@@ -1,0 +1,18 @@
+[s1]
+Jos în mormânt e pus, Mântuitorul,
+Dar zorii se ivesc cu glorie!
+
+[r1]
+Piatra s-a rostogolit,
+Căci Isus din morţi a înviat!
+El fusese răstignit nevinovat,
+Dar murind puterea morţii a surpat.
+A-nviat! A-nviat! Aleluia, A-nviat!
+
+[s2]
+Al morţii bold l-a frânt,
+El, Domnul vieţii,
+Învins-a suferind, Domnul Isus!
+
+[order]
+s1,r1,s2,r1

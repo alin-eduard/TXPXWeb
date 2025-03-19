@@ -1,0 +1,26 @@
+[s1]
+Acolo e Paradisul,
+locul slăvilor cereşti
+Acolo mi-am clădit visul,
+pe-nălţimi Dumnezeieşti.
+
+[s2]
+Eşti clădită pe iubire,
+patrie cu flori de nard
+Parfumu-ţi se răspândeşte
+şi-n al inimii răsad.
+
+[s3]
+Vom zbura toţi mântuiţii –
+porumbei strălucitori -
+Vom zbura toţi fericiţii
+printre valuri de splendori.
+
+[s4]
+Vom cânta de bucurie,
+beţi de a Lui dragoste
+Căci de marea fericire
+avea-vom cu toţi parte.
+
+[order]
+s1,s2,s3,s4

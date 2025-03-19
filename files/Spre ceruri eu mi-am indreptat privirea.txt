@@ -1,0 +1,26 @@
+[s1]
+Spre ceruri eu mi-am îndreptat privirea
+Şi paşii mei pe calea Ta mergeau
+Eu şi-am jurat că te voi urma Doamne
+Şi inima mi-am dat-o-n mâna Ta
+
+[r1]
+Doamne scapă-mă de tot ce-i rău
+Doamne, Tu eşti Dumnezeul meu
+Doamne scapă-mă şi de vrăjmaş
+Căci numai Tu poţi
+
+[s2]
+Chiar dacă aş vorbi în limbi o mie
+Şi dragoste din Tine n-aş avea
+De nu lupt cu păcatul pân’ la moarte
+Nu voi intra-n Împărăţia Ta
+
+[s3]
+Ajută-mă Isuse să fiu sincer
+Iubire sfântă azi te rog să-mi dai
+M-ajută să veghez în aşteptare
+Până când voi ajunge-n slava Ta
+
+[order]
+s1,r1,s2,r1,s3,r1

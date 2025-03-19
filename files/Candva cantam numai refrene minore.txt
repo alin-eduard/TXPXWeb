@@ -1,0 +1,29 @@
+[s1]
+Cândva cântam numai,
+refrene minore.
+Cîntece triste,
+adesea plângeam.
+Dar tot s-a schimbat,
+când eu Te-am întâlnit.
+Aripi mi-ai dat să zbor.
+
+[r1]
+În inimă un cântec mi-ai dat
+Şi cânt acest refren minunat
+Cu bucuria celui salvat !
+Şi ori de câte ori cânt cu voi
+Cuvintele Lui îmi par noi.
+Un cântec nou în sufletul meu
+Cu bucuria Domnului meu.
+/: Eu cânt de dragostea Lui :/
+Care m-a transformat !
+
+[s2]
+Ochii m-a deschis
+să văd lumea din juru-mi
+A ei frumuseţe ce nu mă-ncânta
+Azi pot privi cu drag orice fiinţă
+Viaţa, vibrând, ador.
+
+[order]
+s1,r1,s2,r1

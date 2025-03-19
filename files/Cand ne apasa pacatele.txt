@@ -1,0 +1,40 @@
+[s1]
+Cînd ne apasă păcatele
+Vrem să-L vedem pe Isus.
+Să ne-aline durerile
+Vrem să-L vedem pe Isus.
+
+[r1]
+Nu, nu suntem drepţi
+Dar vrem să-L vedem
+Căci toată povara ne-a luat
+Ne-a mantuit şi nădejde
+în viaţă ne-a dat!
+
+[s2]
+Nu vrem vorbe, pe Isus vrem
+Vrem să-L vedem pe Isus.
+Nori cînd se-adună şi-atuncea vrem
+Vrem să-L vedem pe Isus.
+
+[s3]
+Vrem în cantări,
+predici, rugăciuni
+Vrem să-L vedem pe Isus.
+Călăuzindu-ne pe Pămînt
+Vrem să-L vedem pe Isus.
+
+[s4]
+Îngerul morţii cînd va veni
+Vrem să-L vedem pe Isus.
+Razele Lui ne vor linişti
+Vrem să-L vedem pe Isus.
+
+[s5]
+Sus în mărirea de nevisat
+Vrem să-L vedem pe Isus.
+Să-L proslăvim pentru harul dat
+Vrem să-L vedem pe Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

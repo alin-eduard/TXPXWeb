@@ -1,0 +1,31 @@
+[s1]
+În zori de viaţă, ochii îmi ridic
+Să văd a Ta fată, al Tău braţ divin
+/: Te laud Isuse, Ţie îţi dau slavă
+Ţie vreau mereu să mă închin :/
+
+[s2]
+Astăzi, cânt cântarea, Doamne Preainalt Şi cânt laudă, Ţie neîncetat
+/: Te laud Isuse, Ţie îţi dau slavă
+Ţie vreau mereu să mă închin :/
+
+[s3]
+Lauda să răsune, azi de pe pământ
+Pentru al nost’ Mire, căci e veşnic Sfânt
+/: Slăvit, înălţat, să fii, o, Doamne
+Laudă azi Îti dăm de pe pământ :/
+
+[s4]
+Astăzi, Isuse vreau să Îţi cânt mereu
+Să-I înalţ cântarea, să Te preamăresc /: Te laud Isuse, Ţie îti dau slavă
+Ţie vreau mereu să mă închin :/
+
+[s5]
+Doamne, Tu eşti veşnic,
+Tu eşti Împărat
+Ţie Îţi cânt glorii, Doamne neîncetat
+/: Te laud Isuse, Ţie îţi dau slavă
+Ţie vreau mereu să mă închin :/
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,20 @@
+[s1]
+O, Isus, Te implorăm
+Pe veci să-i uneşti, te rugăm
+/: Ajută-i să stea la altar,
+Inima să-ţi aducă-n dar. :/
+
+[r1]
+/: Binecuvântează-i părinte,
+Binecuvântează-i Tu
+Prin lumina-ţi ‘nainte
+Pân’ la cer Tu condu-i. :/
+
+[s2]
+În căminul lor să fii,
+Să-i păzeşti zi de zi
+/: La-ncercări să rămâi,
+Pân’ la cer Tu condu-i. :/
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,37 @@
+[s1]
+Dragostea lui Dumnezeu
+A cuprins lăuntrul meu
+Şi eu gust azi harul Său.
+Ce dragoste!
+Pentru mântuirea mea
+A murit pe Golgota
+Isus care mă iubea.
+Ce dragoste!
+
+[r1]
+Ce dragoste, ce dragoste!
+Mare e dragostea lui Dumnezeu.
+Ce dragoste!
+
+[s2]
+El pe orbi i-a vindecat,
+Pe ologi i-a ridicat
+Şi pe morţi i-a înviat.
+Ce dragoste!
+El în toate s-a smerit
+Slugilor chiar le-a slujit
+Şi pe mulţi a mântuit.
+Ce dragoste!
+
+[s3]
+Păcătos cum sunt doresc
+La Golgota să privesc
+Ca iertare să primesc.
+Ce dragoste!
+Lui Isus de voi urma
+Şi viaţa-i voi preda
+Mânture voi avea.
+Ce dragoste!
+
+[order]
+s1,r1,s2,r1,s3,r1

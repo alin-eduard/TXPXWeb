@@ -1,0 +1,32 @@
+[s1]
+Când zorii dimineţii
+Pe dealuri se ivesc
+Şi în culori bogate
+zarea­-mpodobesc,
+Când umbra nopţii piere
+Şi raze cresc uşor,
+Fii gata şi lucrează,
+Timpul trece-­n zbor!
+
+[s2]
+Soarele se înalţă
+Pe boltă strălucind
+Şi lumea încălzeşte,
+Toate luminând.
+Chiar şi în miezul zilei,
+Pe­-al Domnului ogor
+Fii gata şi lucrează,
+Timpul trece­-n zbor!
+
+[s3]
+Murmură vântul tainic
+În codrii şi câmpii,
+Seara încet coboară,
+Noaptea va veni!
+Nu obosi, păstrează
+Al râvnei tale zor,
+Fii gata şi lucrează,
+Timpul trece­-n zbor!
+
+[order]
+s1,s2,s3

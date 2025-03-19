@@ -1,0 +1,22 @@
+[s1]
+Nu ştiu de ce-i zi frumoasă
+Dar viaţa-i plină de dureri
+Nu ştiu de ce, dar ştiu una
+El e al meu, iar eu al Său.
+El e al meu şi eu sînt fericit
+El e al meu şi eu sînt mîntuit!
+Nu ştiu de ce, dar ştiu una
+El e al meu şi eu al Său!
+
+[s2]
+În valuri o stîncă va sta
+Pe care eu mă voi urca
+Şi fericit pe ea voi fi
+Pîn, Mirele meu va veni.
+El e al meu şi eu sînt fericit
+El e al meu şi eu sînt mîntuit!
+Nu ştiu de ce, dar ştiu una
+El e al meu şi eu al Său!
+
+[order]
+s1,s2

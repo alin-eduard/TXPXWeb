@@ -1,0 +1,20 @@
+[s1]
+Lângă Ierusalim o cruce sta
+Unde-am fost răscumpăraţi îi tu îi eu.
+Pământul s-a-nroșit când Isus a sângerat
+Răstignit sus, pe lemnul uscat.
+
+[r1]
+Voi preţui în viaţă acel lemn uscat !
+Unde Isus a murit, cerul s-a deschis !
+Mântuirea strălucește în toţi acei ce cred
+În Isus, răstignit sus pe lemn.
+
+[s2]
+Lemnul acela e un semn de har
+Căci în locul sterp viaţă a adus.
+Iadu-a tremurat când Isus a sângerat
+Răstignit sus, pe lemnul uscat.
+
+[order]
+s1,r1,s2,r1

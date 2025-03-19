@@ -1,0 +1,30 @@
+[s1]
+1. Isus cumplit a suferit
+Pe cruce răstignit
+Dar spre tâlharul păcătos
+Cu dragoste s-a-ntors.
+Cor: Da iertarea Lui El o dă oricui
+Şi toţi câţi vin la El şi-o cer
+Vor fi cu El în cer.
+764.
+
+[s2]
+Cor: Da iertarea Lui El o dă oricui
+Şi toţi câţi vin la El şi-o cer
+Vor fi cu El în cer.
+2. El blând durerea a răbdat
+De noi El s-a-ndurat
+El m-a iubit El te-a iubit
+Jertfind s-a dăruit.
+
+[s3]
+Cor: Da iertarea Lui El o dă oricui
+Şi toţi câţi vin la El şi-o cer
+Vor fi cu El în cer.
+3. Soarele s-a întunecat
+Ascunzând raza sa
+Când Isus murind pe cruce
+Luptând El cu moartea.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,32 @@
+[s1]
+Te voi lăuda-ntre neamuri
+Pîn, va fi un singur neam
+Contopit în Tine, Doamne
+Ca-n tulpină ram cu ram.
+
+[s2]
+Voi cînta imnul vieţii
+Cînt mereu mai desluşit
+Pînă toţi vor înţelege
+Gîndul Tău desăvîrşit.
+
+[s3]
+Te voi lăuda cu toate
+Corzile pe harfa mea
+Pînă va-nvăţa oricine
+Doamne, unitatea Ta.
+
+[s4]
+Voi cînta puterea jertfei
+De pe Golgota deplin
+Căci prin ea-Ţi uneşti copiii
+Într-un singur Trup, Amin.
+
+[s5]
+Te voi lăuda-n lumină
+Te voi lăuda mereu
+Pînă toate vor fi-n Tine
+Preaslăvite Dumnezeu.
+
+[order]
+s1,s2,s3,s4,s5

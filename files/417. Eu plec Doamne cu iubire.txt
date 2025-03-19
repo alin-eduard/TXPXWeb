@@ -1,0 +1,59 @@
+[s1]
+417.
+1.Eu plec Doamne cu iubire
+Pe al Tău drum spinos şi îngust
+Care duce-n fericire
+Când văd urma Ta Isus.
+
+[s2]
+/:Vino frate, vino soră
+Numai, numai sta
+/:Vezi cum trece:/ viaţa ta
+Lasă treacă, lasă treacă
+Totul tot în sus pentru cel
+Ce ne-a iubit Domnul Isus.:/
+
+[s3]
+2.Fraţii mei ce staţi în urmă
+Nu vedeţi voi calea-n sus
+Pentru noi muri pe cruce
+Suferind Domnul Isus:
+
+[s4]
+/:Asta-i calea:/ calea spre Isus
+Care duce-n fericire făr-apus
+/:Nu e alta:/ alta fraţii mei
+Mai aleasă şi mai scumpă
+Pentru noi.:/
+
+[s5]
+3.Ale Lui răni sângerează
+Trupul Său e chinuit
+Lepădat de toţi cu ură
+Moare Domnul meu iubit
+
+[s6]
+/:Vezi tu frate, vezi tu soră
+Soră jertfa Sa
+/:Care spală:/ vina ta
+Scoală frate scoală soră
+Soră că-i deajuns
+Pentru mine, pentru tine
+A plâns Isus.:/
+
+[s7]
+4.Auzi frate cum te cheamă
+Frate Domnul tău acum
+De ce stai în nepăsare
+Şi-ţi trece vremea pe drum.
+
+[s8]
+/:Vino frate, vino astăzi
+Vino nu mai sta
+Şi îţi schimbă chiar acum viaţa ta
+Scoală frate, scoală soră
+Soră din păcat căci Te cheamă
+Chiar Isus să fii salvat.:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

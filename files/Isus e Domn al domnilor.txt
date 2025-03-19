@@ -1,0 +1,33 @@
+[s1]
+Isus e Domn al domnilor
+şi Rege-al regilor,
+Imnuri de slavă înălţaţi
+şi Lui vă închinaţi!
+
+[r1]
+Cu toţi să Îi cântăm,
+Pe Domnul să-L lăudăm
+Că ne-a iubit şi ne-a iertat
+Şi în cer locaş ne-a dat
+Al nostru Împărat
+
+[s2]
+Moartea şi iadul le-a învins
+pe cruce când S-a stins,
+De la pierzare ne-a scăpat
+şi viaţă El ne-a dat.
+
+[s3]
+Voi însetaţilor, veniţi,
+din apă să sorbiţi,
+Doar în Isus găsiţi izvor
+de viaţă dătător!
+
+[s4]
+Tu, chinuit de-al tău păcat,
+de vrei să fii scăpat,
+La crucea lui Isus să vii,
+iertare vei primi!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

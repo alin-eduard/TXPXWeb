@@ -1,0 +1,62 @@
+[s1]
+Eu cred în vindecările divine,
+Căci El mă vindecase şi pe mine,
+Căci El e doctorul cel bun şi mare,
+În El găsesc alin şi vindecare.
+/: În numele Lui eşti vindecat,
+În numele Lui poţi fi iertat,
+În numele Lui eşti mântuit,
+În numele Lui eşti fericit. :/
+
+[s2]
+Eu cred în El că în veci trăieşte.
+El este atotputernic şi slăvit.
+El orice boală o tămăduieşte,
+Că El e Domnul care ne-a-ntocmit
+/: În numele Lui eşti vindecat,
+În numele Lui poţi fi iertat,
+În numele Lui eşti mântuit,
+În numele Lui eşti fericit. :/
+
+[s3]
+Eu cred în Domnul care mă conduce
+Prin stâlpul Său de foc mistuitor.
+In rănile şi-n jertfa de pe cruce,
+Găsim cu toţi balsam vindecător.
+/: În numele Lui eşti vindecat,
+În numele Lui poţi fi iertat,
+În numele Lui eşti mântuit,
+În numele Lui eşti fericit. :/
+
+[s4]
+Eu cred aşa cum a crezut sutaşul:
+“O, Doamne, zi o vorbă şi-i de-ajuns.”
+Ne vindecă şi nouă copilaşul.
+La ruga noastră dă-ne azi răspuns.
+/: În numele Lui eşti vindecat,
+În numele Lui poţi fi iertat,
+În numele Lui eşti mântuit,
+În numele Lui eşti fericit. :/
+
+[s5]
+Eu cred ca şi femeia feniciană,
+Că El mai dă şi azi fărâmituri,
+Că El îţi pune degetul pe rană.
+Eşti vindecat ca orbul din Scripturi.
+/: În numele Lui eşti vindecat,
+În numele Lui poţi fi iertat,
+În numele Lui eşti mântuit,
+În numele Lui eşti fericit. :/
+
+[s6]
+Eu cred în Domnul care aşa ne spune:
+“Cu nici un chip Eu nu te voi lăsa.”
+Eu vin smerit la El în rugăciune
+Şi spun la toţi de vindecarea Sa.
+/: În numele Lui eşti vindecat,
+În numele Lui poţi fi iertat,
+În numele Lui eşti mântuit,
+În numele Lui eşti fericit. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,53 @@
+[s1]
+1311.
+1.  Te cheamă astăzi iarăşi turma
+Păstor iubit să Te cobori
+Căci tot mai rar îţi vedem urma
+Prin munţi acoperiţi de nori.
+/: Căci tot mai rar îţi auzim glasul
+Din zeci de glasuri de străini
+Păstori plătiţi sunt la tot pasul
+Însă de-ai tăi tot mai puţini:/
+
+[s2]
+2.  Ţi-e turma risipită-n vale
+Prin munţi prin dealuri şi prin văi
+Căci lupii au intrat în turmă
+Să sfâşie copii Tăi.
+/: Nu-i cine să-i aducă-n staul
+La adăpost de orice rău
+Căci mulţi la slujbă sunt ca Saul
+Stăpâni dar fără Duhul Său : /
+
+[s3]
+3.  Sunt mulţi ce-s rânduiţi păstori
+La a Tale oi de pe pământ
+Şi nu mai simt în ei fiorul
+Lucrările Duhului Sfânt.
+/: De-aceea nu-i mai însoţeşte
+Puterea de la cincizecimi
+Decât prin vorbe-i amăgeşte
+Pe cei de formă din mulţimi : /
+
+[s4]
+4.  Abia mai desluşim cărarea
+Din zeci de căi ce se ivesc
+Simţim că vine înserarea
+Şi soarele-i spre asfinţit.
+/: Simţim că mult n-o să mai fie
+Pân’ ziua ceea va veni
+Dorim venirea Ta Isuse
+O clipă un ceas cât mai curând:/
+
+[s5]
+5.  De aceea te chemăm Isuse
+Să te întorci în turma Ta
+Cu bucuriile nespuse
+Care-ntrec orice hotar.
+/: Mi-e dor de ziua minunată
+Când Tu pe nori vei apărea
+Se va sfârşi durerea toată
+Şi sus acasă vom pleca:/
+
+[order]
+s1,s2,s3,s4,s5

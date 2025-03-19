@@ -1,0 +1,32 @@
+[s1]
+Am venit la Tine Doamne
+După cum mi-ai poruncit
+Să-mi arăţi a vieţii cale
+Şi cu drag Tu m-ai primit;
+Trupul meu şi-averea toată
+Tot ce am şi sunt Ţi-am dat,
+Fie-a Ta întreaga-mi viaţă,
+Inima cu-al ei păcat.
+
+[s2]
+Doamne-acum port al Tău Nume
+Sunt în Tine botezat,
+Din a şarpelui putere
+Cu preţ m-ai răscumpărat;
+Botezat cu părtăşia
+La al Domnului trup sfânt,
+Am acum în suflet pace
+Şi de cer aproape sunt.
+
+[s3]
+Doamne, pentru-a Ta iubire
+Vreau mereu să Te ascult;
+Du-mă la neprihănire,
+Nu-mi doresc nimic mai mult!
+Mă-ntăreşte şi mă-nvaţă
+Cum să-alerg pe urma Ta,
+Să trăiesc a Ta viaţă
+Până când Te voi vedea!
+
+[order]
+s1,s2,s3

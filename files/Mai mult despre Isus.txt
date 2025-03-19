@@ -1,0 +1,34 @@
+[s1]
+Despre Isus doresc a şti,
+Mai mult la alţii a-L vesti,
+Mai mult al Său har
+Vreau să-l văd,
+În Cel jertfit să mă încred.
+
+[r1]
+Mai mult despre Isus,
+Mai mult despre Isus,
+Mai mult al Său har
+Vreau să-l văd,
+În Cel jertfit să mă încred.
+
+[s2]
+Despre Isus doresc să-nvăţ,
+Voia şi planul Său măreţ;
+Duhul Lui Sfânt mângâietor
+Fie al meu Învăţător.
+
+[s3]
+Despre Isus şi-al Său cuvânt,
+Despre măreţul Legământ
+Vreau să cunosc mereu mai mult
+Şi vocea Lui cu drag s-ascult.
+
+[s4]
+Cu Domnul meu, cu tronul Lui,
+Cu frumuseţea cerului
+Şi cu Isus ca Împărat
+Vreau să mă laud ne-ncetat!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

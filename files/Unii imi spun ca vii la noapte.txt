@@ -1,0 +1,44 @@
+[s1]
+Unii îmi spun că vii la noapte
+Alţii îmi spun că mâine poate
+Dar eu Te-aştept cum Te-aş vedea
+Isuse-n aşteptarea mea.
+
+[s2]
+Unii îmi spun că prin milenii
+Atunci va fi sfârşitul vremii
+Dar eu îţi cânt că-n poarta mea
+A înverzit o rămurea.
+
+[s3]
+Unii îmi spun că în zadar
+Să mai aştepţi să fie har
+Dar eu îţi cânt că-n dorul meu
+Îmi arde sufletul mereu.
+
+[s4]
+Să spună oricine ar spune
+Eu Te aştept numai pe Tine
+De aceea-Ţi cânt că-n poarta mea
+A înverzit o rămurea.
+
+[s5]
+Eu ştiu că mult n-oi aştepta
+Până pe nori Te voi vedea
+Căci prin cuvânt Tu Doamne spui
+Că eşti aproape ca să vii.
+
+[s6]
+Pe acest pământ sunt doar dureri
+Necaziru, lacrimi şi-ncercări
+Dar când povara este grea
+Isuse Tu ne ajuţi la ea.
+
+[s7]
+Acolo sus în ţara mea
+O veşnicie voi cânta
+Şi, o, ce minunat va fi
+Când Domnul meu va-mpărăţi.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

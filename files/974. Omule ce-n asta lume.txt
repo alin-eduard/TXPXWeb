@@ -1,0 +1,53 @@
+[s1]
+974.
+1. Omule ce-n astă lume
+Zi şi noapte te trudeşti
+Cât mai mult argint şi aur
+Şi averi s-agoniseşti.
+2. Să-ţi câştigi măriri şi ranguri
+Lăudat să fii mereu
+Nu te mai gândeşti la moarte
+Nu gândeşti la Dumnezeu.
+
+[s2]
+3. Nu gândeşti că mâine poate
+Dumnezeu te va chema
+Şi atunci câte ai strâns pe lume
+Ale cui vor rămânea.
+4. Cui va rămâne averea
+Câtă-n lume adunaşi
+Cui rămân a tale ranguri
+Şi al tău aur cui îl laşi.
+
+[s3]
+5. Însă nu uita de suflet
+C-ai păcătuit mereu
+Şi-ale tale fapte rele
+Cui le laşi iubitul meu.
+6. Cine le-a spăla cu lacrimi
+Ca să scapi neosândit
+Cine dacă tu-n viaţă
+Nici măcar nu te-ai gândit.
+
+[s4]
+7. Poate crezi că ai iertare
+Şi că Raiul dobândeşti
+Dacă faci o slujbă, două
+Şi o pomană dăruieşti.
+8. Nu te înşela iubite
+Tot de tine rău va fi
+C-o pomană şi c-o slujbă
+Raiul nu-l vei dobândi.
+
+[s5]
+9. Trebuie să-ţi plângi păcatul
+Şi să-ngenunchiezi supus
+Lângă crucea împăcării
+Lângă crucea lui Isus
+10. Sângele vărsat pe cruce
+Te-a spăla, te-a curăţi
+Numai Domnul, frate dragă
+Te mai poate mântui.
+
+[order]
+s1,s2,s3,s4,s5

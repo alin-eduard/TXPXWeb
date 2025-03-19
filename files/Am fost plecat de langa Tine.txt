@@ -1,0 +1,38 @@
+[s1]
+Am fost plecat de langa Tine
+Si am cautat mereu alin
+Nicicand nu lam putut afla
+Departe de iubirea Ta
+
+[s2]
+Iar inima imi plangea mereu
+Caci nu te aveam, o Domnul meu
+Ma chinuiam caci pace
+nicaieri n-aveam
+
+[s3]
+In calea mea Te-am intalnit
+Mi-ai spus ca ai fost rastignit
+De dragul meu si am inteles
+Cat mai iubit
+
+[s4]
+Multe dezamagiri au fost
+In viata mea fara de rost
+Cum stand pe linul lumii amar
+Eu m-am trezind ca fiind hoinar
+
+[s5]
+Ma-ntorc la Tine Tatal meu
+Caci Tu-mi esti adapost la greu
+Smerit ma plec si-Ti cer iertare
+Domnul meu
+
+[s6]
+Ramai cu mine tot mereu
+Atunci cand drumul este greu
+Pasul meu tine dup-al Tau
+O Domnul meu
+
+[order]
+s1,s2,s3,s4,s5,s6

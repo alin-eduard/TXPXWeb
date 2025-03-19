@@ -1,0 +1,26 @@
+[s1]
+Ce fericire e să şti
+Că cel rău nu va birui,
+Şi oriunde, cât vom trăi
+De partea Domnului vom fi.
+
+[r1]
+În El suntem biruitori,
+Nimic nu ne va despărţi,
+Şi chiar sub cei mai aspri nori
+De partea Domnului vom fi.
+
+[s2]
+Ispite şi-ndoieli pe drum
+Mereu duşmanii ni le pun,
+Dar orice valuri ne-ar lovi
+De partea Domnului vom fi.
+
+[s3]
+La umbră sub aripa Sa,
+Păziţi de El mereu vom sta,
+Şi-n slavă când ne va primi
+De partea Domnului vom fi.
+
+[order]
+s1,r1,s2,r1,s3,r1

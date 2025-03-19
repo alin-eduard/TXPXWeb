@@ -1,0 +1,38 @@
+[s1]
+1. Te iubesc Isuse tare te iubesc
+Simţul din inimă
+Nu pot să-l grăiesc
+/:Scăparea mea-i la Tine
+Isuse scump
+Şi fericirea mea toată-i la Tine:/
+211. Re m
+
+[s2]
+2. Cu inima frântă Isus te iubesc
+Cu credinţă vie drumul să-l urmez
+Ca să fiu primit la Tine
+/:Îmi întind mâinile
+Ziua noaptea mă gândesc
+Tot la Tine.:/
+
+[s3]
+3. Slab şi ne-nsemnat
+Isuse drag eu sunt
+Dar pe-al Tău drum spinos
+Doresc să mă duc
+/:Mâinile la rugăciune
+Ridicate-mi stau
+Iar crucea Ta
+Pe-ai mei umeri vreau s-o iau.:/
+
+[s4]
+4. Şi aşa te voi urma
+Pân' la Golgota
+Şi sub crucea-nsângerată
+M-oi pleca
+/:Să-Ţi sărut a Tale mâini şi picioare
+Pururea vreau să rămân
+Lângă Tine.:/
+
+[order]
+s1,s2,s3,s4

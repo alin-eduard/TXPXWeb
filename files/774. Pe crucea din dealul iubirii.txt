@@ -1,0 +1,39 @@
+[s1]
+1.Pe crucea din dealul iubirii,
+Pe culmea lipsită de flori
+Se stinge Făclia Iubirii
+Privind spre albastrele zări.
+774. 								       Fa
+
+[s2]
+/:Te plânge izvorul din vale
+Și raza de soare-n amurg
+Se scutură florile-n cale
+Și stelele toate se-ascund:/
+
+[s3]
+2.Ce mulţi am aflat în iubire,
+Izvorul de dulci mângâieri,
+Iar astăzi privirea-mi spre culme
+Îl caută şi nu-i nicăieri.
+
+[s4]
+/: Doar mama aleargă la cruce
+Priveşte spre cer suspinând,
+În locu-I să rabde s-ar duce
+Pe lemnul de groază murind.:/
+
+[s5]
+3.Iar ochii ce-au plâns în grădină
+Se-ndreaptă spre cer rugători;
+Spre Cel ce durerile-alină
+Se roagă al nost’ Salvator.
+
+[s6]
+/: Părinte-al iubirii sublime
+O, iartă cumplitul păcat
+Al Meu Duh se-ndreaptă spre Tine,
+O, iartă-i căci nu ştiu ce fac. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

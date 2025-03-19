@@ -1,0 +1,20 @@
+[s1]
+Cum strigă-un cerb setos de apă rece
+Aşa de Dumnezeu setos strig eu:
+O, lasă-Ţi haru-asupră-mi să se plece
+Din apa vieţii dă-mi să beau mereu.
+
+[s2]
+Îndurător mă ţii pe-a’ Tale braţe,
+Când îmi dau seama, cânt şi prind curaj:
+Numai spre Tine glasu-mi să se-nalţe,
+Ştiu că mă-ncerci, dar ştiu că nu mă laşi.
+
+[s3]
+Cum poţi atunci, o, inimă plăpândă
+Să te mai temi, şi-ades să plângi de dor?
+Tresaltă deci, fii veselă şi cântă,
+Căci ai în cer un Tată iubitor!
+
+[order]
+s1,s2,s3

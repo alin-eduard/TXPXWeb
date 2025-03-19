@@ -1,0 +1,32 @@
+[s1]
+Se-aude-un glas din depărtări,
+Ce răscoleşte munţi şi văi.
+El strigă azi în adunare,
+Ieşiţi-I în întâmpinare.
+
+[r1]
+Noi vom pleca spre veşnicii,
+Acolo sus în bucurii.
+Unde mereu noi vom cânta,
+În veci de veci: „Aleluia!”
+
+[s2]
+Curând, curând noi vom pleca,
+În veşnicii în Ţara Sa.
+Unde în veci se va cânta,
+Celui ce-I sfânt: „Aleluia!”
+
+[s3]
+Să ne trezim acum cu toţi,
+Şi să-ndreptăm privirea-n sus.
+Să stăm mereu privind spre cer,
+Să-ntâmpinăm cu toţi pe Miel.
+
+[s4]
+Să ridicăm privirea-n sus,
+Că vine iar al nost’ Isus.
+Să ne răpească sus la cer,
+Să fim pe veci de veci cu El.
+
+[order]
+s1,r1,s2,r1,s3,s4

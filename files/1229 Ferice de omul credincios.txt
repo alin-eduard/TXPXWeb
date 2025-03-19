@@ -1,0 +1,64 @@
+[s1]
+1229
+1.   Ferice omul credincios
+Ce-n Canaan intra-va
+El va vedea pe Isus Hristos
+Pe Mielul glorios
+Şezând în toată slava
+La dreapta lui Iehova
+Acolo toţi voioşi vom fi
+Căci pacea va domni
+
+[s2]
+Cor:	Ah cât de fericiţi
+Pe Domnul preamăriţi
+Biserica-i unită în ţara mult dorită
+Cu îngerii în cer vom cânta
+Slăviţi pe Iehova.
+
+[s3]
+2.  A lui Isus răscumpăraţi
+Cu El vor fi împreună
+În haine albe înveşmântaţi
+Vor sta ingenuncheaţi
+Pe cap purtând cununa
+Şi având palmieri-n mână
+În faţa tronului vor sta
+Pe Domnul vor lăuda.
+
+[r1]
+Cor:   Ah cât de fericiţi
+Pe Domnul preamăriţi
+Biserica-i unită în ţara mult dorită
+Cu îngerii în cer vom cânta
+Slăviţi pe Iehova.
+
+[s4]
+3.O dacă pentr-un păcătos
+Ce mort a fost şi-nvie
+Sus îngerii în cor duios
+Dau slavă lui Hristos
+O câtă bucurie
+Când ceasul o să vie
+Că turma-ntreagă pe pământ
+Să învie din mormânt.
+
+[s5]
+4.Curând în nor se va arăta
+Iubitul nostru Mire
+Şi-mpărăţia va lua
+Şi-n veci va rămânea
+Atunci plini de iubire
+Cânta-vom în unire
+Tu eşti vrednic că ai luat
+Puterea şi regat
+
+[s6]
+Cor:Ah cât de fericiţi
+Pe Domnul preamăriţi
+Biserica-i unită în ţara mult dorită
+Cu îngerii în cer vom cânta
+Slăviţi pe Iehova.
+
+[order]
+s1,s2,s3,r1,s4,r1,s5,s6

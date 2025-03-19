@@ -1,0 +1,52 @@
+[s1]
+Am văzut paradisul în flăcări,
+Cum ardeau razele-i de rubin
+Fâlfâiau a iubirilor focuri,
+Sus pe-oceanul frumos, cristalin.
+Iar iubirea cea sfântă şi vie,
+Ce reflectă întregul sublim
+Cu lumina sa cea străvezie
+Se revarsă din tronul divin.
+
+[r1]
+Paradisul e-o grădină
+Grădinaru-i Dumnezeu.
+Paradisul e-o lumină
+E Ierusalimul nou.
+Paradis, o, Paradis
+Te-am văzut odată-n vis!
+Paradis, o, Paradis
+Tu nu poţi să fii descris!
+
+[s2]
+Nu ştiu de-i vis sau realitate,
+Sau o undă a Duhului Sfânt
+Era scris pe-a lui zid: libertate,
+Chiar cu slovele Duhului Sfânt.
+Cine intră aici nu mai moare,
+Stând la umbra palmierilor vii!
+Era scris pe-a lui ziduri: splendoare,
+Sus la porţile din veşnicii!
+
+[s3]
+Am văzut într-un vis Paradisul,
+Cum ardeau razele-i de cristal
+Peste tot străluceau, ca iaspisul,
+Plin de al fericirilor har.
+De sub tron curge-un râu de lumină,
+Râu de foc, scânteind minunat
+Apa lui udă-ntreaga grădină,
+Pe acei cu suflet însetat.
+
+[s4]
+Am văzut o mulţime de îngeri
+Ce zburau sus, la mari înălţimi
+Şi aveau şase aripi de fulger,
+Numele lor era serafimi.
+Dumnezeu, Domnul însuşi, tronează
+Ca Stăpân, Creator şi-mpărat
+Îmbrăcat în lumină şi slavă,
+Dumnezeu, Domnul nostru prea-nalt!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

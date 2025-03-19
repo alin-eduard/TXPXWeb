@@ -1,0 +1,52 @@
+[s1]
+Un cântec răsună în inima mea
+E dragostea pentru Isus
+Şi arde ca flacăra neîncetat
+Şi mă fericeşte nespus
+
+[s2]
+Orice suferinţi şi lacrimi fierbinţi
+Ce-mi pasă de sunt pe-a mea cale
+Când ştiu că Isus mă iubeşte nespus
+Şi m-aşteaptă în ceruri sus
+
+[s3]
+Un cântec de dragoste am făurit
+Cu el Doamne vreau să-Ţi slujesc
+Şi din zori de zi până-n noapte târziu
+Să-Ţi spun vreau mereu « te iubesc »
+
+[s4]
+Nicicând n-oi uita, că-n dragostea TA
+Ca jertfă Te-ai dat pentru mine
+Cumplitu-mi păcat pe veci mi l-ai spălat
+Cu-al Tău Sânge nevinovat
+
+[s5]
+Un cântec răsună
+prin munţi şi prin văi
+Şi chiar peste mări s-a întins
+Răsună voios
+şi se-ntinde mereu
+Întregul pământ a cuprins
+
+[s6]
+Cu toţii aflaţi şi vă bucuraţi
+Iertată vă e orice vină
+O fie slăvit al meu Domn preaiubit
+C-al meu suflet l-a mântuit
+
+[s7]
+Isuse Isuse ce mult te iubesc
+Te cheamă tot sufletul meu
+Păstrează-mă veşnic la sânu-Ţi iubit
+Păstrează-mă-ntruna mereu
+
+[s8]
+Isuse divin cununa de spini
+Mă lasă s-o port pentru Tine
+Să-Ţi pot arăta darul şi dragostea
+Care cântă-n inima mea.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

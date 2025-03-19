@@ -1,0 +1,26 @@
+[s1]
+Cand încercarea
+se năpusteşte asupra ta
+Tu nu îţi părăsi cărarea
+ce duce sus la ţinta ta.
+
+[r1]
+Priveşte deci tot înainte
+Isus îţi vine-n ajutor !
+Isus Hristos e Cel ce vede
+Necazul tău apăsător.
+
+[s2]
+Aşa să ştii pe calea-ngustă
+sunt foarte multe greutăţi
+Dar Cel ce stă la carma vieţii
+te va-ajuta să le străbaţi.
+
+[s3]
+Să ceri mereu în rugăciune
+tărie nouă şi credinţă
+Şi Dumnezeu te va conduce
+în carul Său de biruinţă
+
+[order]
+s1,r1,s2,r1,s3,r1

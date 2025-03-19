@@ -1,0 +1,33 @@
+[s1]
+1. Aici suntem străini
+Căci ţara noastră-i sus
+Străini prin lume prin al Său nume
+Ne-a mântuit Isus.
+653.
+2. Chiar dacă vin furtuni
+Nu deznădăjduim spre zări senine
+Privim la Tine
+Cu Tine noi plutim.
+
+[s2]
+3. Aici ni-i greu acum
+Dar vom vedea-n curând
+Prin clipe grele neatinşi de rele
+Noi trecem tot cântând.
+4. Nu vom cârti deloc
+Orice vom mai răbda
+Cu bucurie cânta-vom Ţie
+C-avem ocara Ta.
+
+[s3]
+5. Nu vrem să fim iubiţi
+Unde Tu eşti urât
+Şi prin răbdare purtând ocara
+Vom suferi oricând.
+6. Dispreţuiţi de toţi
+Loviţi de toţi răbdăm
+Ne pare bine căci noi prin Tine
+Aşa ne asemănăm.
+
+[order]
+s1,s2,s3

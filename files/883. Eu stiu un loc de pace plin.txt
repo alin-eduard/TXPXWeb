@@ -1,0 +1,43 @@
+[s1]
+883.
+1.  Eu ştiu un loc de pace plin
+În care nu-i durere, chin
+Şi negrăit e de frumos
+Căci umple slava lui Hristos.
+
+[r1]
+E ţara mea, e ţara mea
+Ca mâine voi intra în ea
+Şi dus de-al fericirii val
+Să-I cânt pe marea de cristal
+Slăvind pe Domnul meu iubit
+Ce loc în cer mi-a pregătit.
+
+[s2]
+2.  Ieşind din tronul Său ceresc
+Din pomii vieţii ce rodesc
+Murmură-n râu încetişor
+Şi serafimii cântă-n cor.
+
+[s3]
+3.  În faţa lui Isus voi sta
+Cu ochii-n faţă-L voi vedea
+Şi glasul Lui voi auzi
+Când taina-mi va descoperi.
+
+[r2]
+Cor:		E ţara mea, e ţara mea
+Ca mâine voi intra în ea
+Şi dus de-al fericirii val
+Să-I cânt pe marea de cristal
+Slăvind pe Domnul meu iubit
+Ce loc în cer mi-a pregătit.
+
+[s4]
+4.  Şi toţi ai cerului copii
+Vor şti atâtea melodii
+Şi nu voi obosi nicicând
+Spre slava lui Isus cântând.
+
+[order]
+s1,r1,s2,r1,s3,r2,s4,r2

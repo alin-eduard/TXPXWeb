@@ -1,0 +1,25 @@
+[s1]
+Un cântec nou pe drumul vieţii Domnul slavei mi­a adus;
+Ce dulce şi frumos vorbeşte
+El de iubirea lui Isus.
+
+[r1]
+Sufletul meu cântă fericit, da,
+Cântă fericit: Isus m­a mântuit.
+Sufletul meu cântă fericit
+Cântarea Mirelui iubit.
+
+[s2]
+Isus Hristos muri pe cruce
+Pentru greul meu păcat;
+M­a mântuit şi de acum
+Eu cânt bucuros neîncetat.
+
+[s3]
+Cântarea mea şi­n cer va spune
+De iubirea lui Isus,
+În corul sfinţilor în veşnicii
+Voi da slavă lui Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1

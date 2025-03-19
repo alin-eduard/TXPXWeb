@@ -1,0 +1,43 @@
+[s1]
+1711.   Do
+1. Doamne dă cuvânt pe buze
+Limpede şi cristalin
+Eşti fântâna şi izvorul
+La care setos eu vin
+Cor:	/:Nici chiar picurul de miere
+Ce din fagur e luat
+N-are-n el dulceaţa care
+În cuvânt eu am aflat:/
+
+[s2]
+2. Am atâta bucurie
+Când trăiesc cuvântul tău
+El m-apropie de Tine
+Şi mă fereşte de rău
+Cor:	/:Nici chiar picurul de miere
+Ce din fagur e luat
+N-are-n el dulceaţa care
+În cuvânt eu am aflat:/
+
+[s3]
+3. Ţine-mi inima deschisă
+Dumnezeul meu iubit
+Să văd masa Ta întinsă
+Tot ce Tu ne-ai pregătit
+Cor:	/:Nici chiar picurul de miere
+Ce din fagur e luat
+N-are-n el dulceaţa care
+În cuvânt eu am aflat:/
+
+[s4]
+4. Pacea Ta inundă totul
+Locul dimprejurul meu
+Harul care se coboară
+De la Tine Domnul meu
+Cor:	/:Nici chiar picurul de miere
+Ce din fagur e luat
+N-are-n el dulceaţa care
+În cuvânt eu am aflat:/
+
+[order]
+s1,s2,s3,s4

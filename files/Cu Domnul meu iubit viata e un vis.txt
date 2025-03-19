@@ -1,0 +1,28 @@
+[s1]
+Cu Domnul meu iubit, viaţa e un vis
+E-un cer de soare plin,
+e-un cîmp cu albe flori
+Şi-n fiecare zi eu cînt şi-L preamăresc
+Pe-Acel ce este Domnul Isus.
+
+[r1]
+Ce bine-i să trăieşti cu Domnul pe Pămînt
+El pace şi mîngîiere-ţi dă !
+Ce multe îndurări şi binecuvîntări
+Revarsă peste ai Săi !
+
+[s2]
+Cu Domnul meu iubit eşti sigur fericit
+Dacă fiinţa ta lui Isus vei preda
+Şi prin puterea Sa El harul îţi va da
+Şi vei simţi că eşti al Său.
+
+[s3]
+Cu Domnul meu iubit
+de griji tu eşti scutit
+Încrede-te în El, în Isus, Sfîntul Miel
+Şi în inima ta El pace va turna
+Şi fericit vei fi cu El.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,50 @@
+[s1]
+Ca vântul, zboară anii;
+Ca viforul în zbor,
+Ca şi apusul zilei
+Ce-ncet, dispare-uşor...
+Adună cu ei totul
+Şi toate duc cu ei:
+Şi faptele şi gândul,
+Chiar dacă nu o vrei.
+
+[r1]
+De aceea astăzi, trebuie să ştii:
+Orice an te-atrage înspre veşnicii!
+Nu-i o întâmplare, viaţa ta sub soare;
+Când vei merge-n faţa,
+Celui ce-a dat viaţa,
+Ce vei răspunde oare?
+
+[s2]
+El trece ca un sunet:
+Ce importanţă-i dai?
+Spre ce e al tău umblet?
+Spre ce plăcere ai?
+Ce-ţi spune azi balanţa,
+Cea dintre bine, rău?
+Sau nu ai cutezanţă
+A şti de locul tău?
+
+[s3]
+Ale-nserării umbre
+Se vor lasă-n curând
+Şi cânturi tot mai sumbre,
+Vei auzi sfârşind,
+Dar, dacă o să-ţi numeri
+mai bine zilele,
+Vei arunca, din umeri,
+În praf poverile.
+
+[s4]
+Primind Mântuitorul,
+Ca Domn, în viaţa ta,
+Vei merge cu poporul
+Salvat prin jertfa Sa;
+Vei preţui chemarea
+Şi voia Domnului,
+Vei aştepta plecarea
+Spre-Mpărăţia Lui.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

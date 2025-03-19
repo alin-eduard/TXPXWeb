@@ -1,0 +1,32 @@
+[s1]
+/:Te voi inalta o Doamne
+Te voi binecuvanta
+Si vreau sa-Ti daruiesc
+pe veci inima mea:/
+/:Inima mea, iti predau o Doamne doar Tie
+Inima mea iti daruiesc pentru vecie:/
+
+[s2]
+/:Te voi inalta o Doamne
+Te voi binecuvanta
+Intotdeauna vreau sa fac doar voia Ta:/
+/:Voia Ta, sa fie Doamne-n viata mea
+Sa-mplinesc voia Ta nu voia mea:/
+
+[s3]
+/:Te voi inalta o Doamne
+Te voi binecuvanta
+Vreau sa stau in veci de veci la umbra Ta:/
+/:La umbra Ta, la umbra aripilor Tale
+La umbra Ta , la umbra Ta gasesc salvare:/
+
+[s4]
+/:Inima mea, iti predau o Doamne doar Tie
+Inima mea iti daruiesc pentru vecie:/
+/:Voia Ta, sa fie Doamne-n viata mea
+Sa-mplinesc voia Ta nu voia mea:/
+/:La umbra Ta, la umbra aripilor Tale
+La umbra Ta , la umbra Ta gasesc salvare:/
+
+[order]
+s1,s2,s3,s4

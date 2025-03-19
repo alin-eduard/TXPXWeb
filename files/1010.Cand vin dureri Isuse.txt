@@ -1,0 +1,33 @@
+[s1]
+1.	Când vin dureri Isuse
+Când trecem prin nevoi
+Tu eşti pe ţărmul vieţii
+Necunoscut de noi.
+Noi nu vedem atunci
+Decât ce-i neplăcut
+Dar Tu eşti în durere
+De noi necunoscut.
+1010.
+
+[s2]
+2.	Când ni-i senin tot cerul
+Când haruri curg şuvoi
+Tu eşti pe ţărmul vieţii
+Necunoscut de noi.
+Noi înţelegem numai
+Când ochii ne-au văzut
+Dar Tu eşti cel ce dărui
+De noi necunoscut.
+
+[s3]
+3.	Când tot ce vine-n viaţă
+Înseninări ori ploi
+Eşti Tu ascuns în ele
+Necunoscut de noi.
+Dar la sfârşit în toate
+Vor fi cum n-am ştiut
+Te vom vedea Isuse
+Cum nu Te-am cunoscut.
+
+[order]
+s1,s2,s3

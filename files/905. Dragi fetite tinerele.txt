@@ -1,0 +1,53 @@
+[s1]
+905.
+1.   Dragi fetiţe tinerele
+Şi voi prietenele mele
+De mine de vreţi să ştiţi
+În Biblie să citiţi.
+Citiţi cu inima rece
+Judecători unsprezece
+Şi cu versetul treizeci
+Chiar până la patruzeci.
+
+[s2]
+2.  Voi aici veţi afla
+Despre tatăl meu Iefta
+C-a făcut el juruinţă
+Lui Dumnezeu cu credinţă.
+În luptă când voi porni
+Înapoi când voi veni
+Cine-mi va ieşi înainte
+Ţie-ţi voi jertfi Părinte.
+
+[s3]
+3.  Tatăl meu când a venit
+Înainte i-am ieşit
+Cu timpane, cu muzică
+N-am ştiut că voi fi jertfită.
+Tatăl meu când m-a văzut
+Haina de pe el şi-a rupt
+Şi din gură a grăit
+Fiica mea rău m-ai lovit.
+
+[s4]
+4.	M-ai lovit, m-ai întristat
+Dar acum n-am ce să-ţi fac
+Ce-am luat nu pot întoarce
+Ce-am votat nu pot desface.
+Tată numai atât cer
+Lasă-mă să mă cobor
+Jos la poala munţilor
+Acolo să-mi plâng cu dor.
+
+[s5]
+5.  Cu drag prietenele mele
+Acolo să-mi plâng cu ele
+Fecioria mea curată
+Căci mă simt nevinovată.
+Şi iubesc pe Dumnezeu
+Mai mult ca pe tatăl meu
+Căci şi dânsul mă iubeşte
+Jertfă sfântă mă primeşte.
+
+[order]
+s1,s2,s3,s4,s5

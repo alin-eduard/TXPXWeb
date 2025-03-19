@@ -1,0 +1,32 @@
+[s1]
+Pe ganduri dus, la Dorca ma gandesc
+Credinta ei la lucru o gasesc
+In jurul ei o lume in nevoi
+De parca-i spun: Priveste si spre noi!
+Cu mâna harnica lucreaza-ntruna
+Cu draga inima va ajuta
+Si bucuria ei sporeste-ntruna
+Caci din putinul ei mai poate da.
+
+[s2]
+Dar intr-o zi ea grav s-a-mbolnavit
+Si viata ei in graba s-a sfârsit
+Iar moartea ei durerea a adus
+Dar mai apoi e slava in Isus.
+Din Lida e chemat sa vina-n graba
+Iar Petru umilit se roaga-n gând.
+La numele Isus, Tabita-nvie
+Caci Petru este plin de Duhul Sfânt.
+
+[s3]
+Prea sfinte Duh, lucreaza pe Pamânt
+Caci sunt nevoi mai multe ca oricând!
+Cei harnici pier si nu sunt altii-n loc
+Atâtia gem ca mistuiti de foc !
+Mângâietorule, revarsa mila
+Balsam pe inima si viata vrem
+Si unde fumega, încinge focul
+In Numele Cel Sfânt noi Te rugam !
+
+[order]
+s1,s2,s3

@@ -1,0 +1,57 @@
+[s1]
+1546.
+1. Tineret pierdut în lume
+Isus te cheamă să vii
+La a Lui picioare sfinte
+Tu de azi mereu să fii.
+Cor: Haide tinere cu Isus
+Fii prieten bun
+Mergi la El pe-al vieţii drum tinere.
+
+[s2]
+2. Tu te pocăieşte suflet
+Şi pe gânduri nu mai sta
+Căci astăzi îţi este ziua
+Mâine nu mai este a ta.
+Cor: Haide tinere cu Isus
+Fii prieten bun
+Mergi la El pe-al vieţii drum tinere.
+
+[s3]
+3. Lasă lumea cu a ei fapte
+Cu plăceri şi cu beţie
+Vino-n grabă la Isus
+Căci în cer cu El vei fii.
+Cor: Haide tinere cu Isus
+Fii prieten bun
+Mergi la El pe-al vieţii drum tinere.
+
+[s4]
+4. Nu vei mai cunoaşte răul
+Dacă-l urmezi pe Isus
+Şi mereu vei fi cu Domnul
+Bucuros în Paradis.
+Cor: Haide tinere cu Isus
+Fii prieten bun
+Mergi la El pe-al vieţii drum tinere.
+
+[s5]
+5. Nu mai sta suflet pe gânduri
+De vrei să fii mântuit
+În a cerurilor slavă
+Nu intri ne pocăit.
+Cor: Haide tinere cu Isus
+Fii prieten bun
+Mergi la El pe-al vieţii drum tinere.
+
+[s6]
+6. De vei zice că eşti tânăr
+Şi vrei încă să petreci
+Căci nu ştii ziua de mâine
+Dacă mâine mai trăieşti.
+Cor: Haide tinere cu Isus
+Fii prieten bun
+Mergi la El pe-al vieţii drum tinere.
+
+[order]
+s1,s2,s3,s4,s5,s6

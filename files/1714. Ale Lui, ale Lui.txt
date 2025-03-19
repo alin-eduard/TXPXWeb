@@ -1,0 +1,25 @@
+[s1]
+1714.     Sol m
+1. El ţine în mână
+Adâncimile pământului
+Şi vârful munţilor sunt ale Lui
+A Lui este marea El a făcut-o
+Şi mâinile Lui au dat
+Forma pământului
+Cor:	Ale Lui /:Ale Lui:/ A Domnului
+/:Ale Lui:/ Toate-s ale Lui
+
+[s2]
+2. Lui să ne-nchinăm
+Şi să ne smerim
+Să ne plecăm genunchii
+Naintea Lui
+Căci noi suntem
+Poporul păşunei Lui
+Turma pe care o povăţuieşte
+Mâna Lui
+Cor:	Ale Lui /:Ale Lui:/ A Domnului
+/:Ale Lui:/ Toate-s ale Lui
+
+[order]
+s1,s2

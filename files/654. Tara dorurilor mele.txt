@@ -1,0 +1,33 @@
+[s1]
+1. Ţara dorurilor mele
+Eu aici suspin cu jale
+În durere şi-n suspin
+Până voi primi alin.
+654.
+2. Căci aici eu râvnesc
+Mângâiere nu găsesc
+Şi numai tot apăsare
+Şi mai multă întristare.
+
+[s2]
+3. O, iubit cămin ceresc
+Mângâiere nu găsesc
+La Tine când voi sosi
+De toate m-oi odihni.
+4. Căci aici suspin cu greu
+Dar un singur dor am eu
+Ca prin orice-ncercări
+Să trecem biruitori.
+
+[s3]
+5. Căci aici suntem priviţi
+Şi de toţi dispreţuiţi
+Ca nişte oi care ele
+Sunt sortite la tăiere.
+6. Că noi ştim ca-l nostru Tată
+Pe la ţărmuri se arată
+Şi din lumea de durere
+Ne duce la mângâiere.
+
+[order]
+s1,s2,s3

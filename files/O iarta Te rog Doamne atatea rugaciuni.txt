@@ -1,0 +1,43 @@
+[s1]
+O, iartă Te rog Doamne
+atâtea rugăciuni
+Prin care-Ţi cer doar
+pâine şi pază şi minuni
+/: Căci am făcut adesea
+din Tine robul meu
+Nu eu ascult de Tine,
+ci Tu de ce spun eu.:/
+Re m
+
+[s2]
+În loc să vreau eu Doamne
+să fie voia Ta
+Îţi cer să faci întruna
+să fie voia mea.
+/: Îţi cer s-alungi necazul,
+să nu-mi trimiţi amar
+Îţi cer să-mi faci atâtea,
+să-mi dai...să-mi dai...să-mi dai.:/
+
+[s3]
+Gândindu-mă că dacă
+Îţi cânt şi Te slăvesc
+Am drept să-Ţi cer oricâte,
+să-mi faci orice doresc
+/: O, iartă-mi felu-acesta greşit
+de-a mă ruga
+Şi-nvaţă-mă ca altfel
+să stau în faţa Ta. :/
+
+[s4]
+Nu tot cerându-Ţi Ţie
+să fii Tu robul meu
+Ci Tu cerându-mi mie,
+iar robul să fiu eu.
+/: Fă să-nţeleg că felul
+cel bun de-a mă ruga
+E să doresc ca-n toate
+să fie voia Ta. :/
+
+[order]
+s1,s2,s3,s4

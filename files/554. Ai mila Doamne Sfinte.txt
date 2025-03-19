@@ -1,0 +1,83 @@
+[s1]
+1. Ai milă Doamne Sfinte
+De mine robul Tău
+Nu mă lăsa pe drumul
+Ce duce la cel rău.
+Necazul mă apasă
+Ispita mă-mpresoară
+Şi multe alte rane
+În suflet rău mă dor.
+554.     Fa m
+
+[s2]
+2. O luptă e în mine
+Şi-n ea mă zbat mereu
+Să-mi scap sărmanul suflet
+Din mâna celui rău.
+Zadarnic îmi spun păsul
+La oameni ca şi mine
+Zadarnic aştept Doamne
+Să-mi facă ei vreun bine.
+
+[s3]
+3. Căci multora din trânşii
+Când eu le povestesc
+Necazul şi durerea
+Ei mult se-nveselesc.
+De aceea-ntotdeauna
+Sub jertfa Ta cea sfântă
+Mă plec cu umilinţă
+Şi inima mea frântă.
+
+[s4]
+4. Nu mă lăsa Isuse
+Când strig neîncetat
+Căci Tu eşti bun şi dulce
+Mă scapi de orice păcat.
+Ajută-mă Isuse
+Ca eu să Te slujesc
+Şi viaţa mea întreagă
+Ca să Te preamăresc.
+
+[s5]
+5. Vezi starea mea umilă
+În care mă găsesc
+Căci patul meu în lacrimi
+Şi noaptea mi-l stropesc.
+Căci vai o rană mare
+E în inima mea
+Şi e adâncă tare
+Şi n-o pot vindeca.
+
+[s6]
+6. Numai Tu ştii Isuse
+Necazul care-l trag
+În care eu ajunsem
+Şi-n care rău mă zbat.
+Căci oamenii şi lumea
+În lanţuri mă legară
+Şi toţi o groapă mare
+Şi adâncă îmi săpară.
+
+[s7]
+7. De n-ai fi fost Isuse
+Din nou să mă ridici
+Din groapa care fost-am
+Demult aş fi pierit.
+Tu ai venit Isuse
+Din moarte ne-ai salvat
+Deşi ai mei buni prieteni
+Demult m-ar fi-ngropat.
+
+[s8]
+8. Deci pentru toate acestea
+Isuse îţi mulţumesc
+Te laud zi şi noapte
+Stăpânul meu ceresc.
+Şi dă-mi iubire sfântă
+Pe duşmani să-i iubesc
+Să dovedesc prin fapte
+Căci Ţie îţi slujesc.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

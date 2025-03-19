@@ -1,0 +1,51 @@
+[s1]
+Nădejdea alesei învieri
+E pentru noi aleşii
+Ce nu ştim alte mângâieri
+Decât pe Domnul vieţii.
+1.
+1062.
+Cor: El însuşi dă semnalul
+Norii sunt barca ce ne răpeşte
+Al trâmbiţei e valul
+Şi-n cântări arhanghelul vâsleşte.
+
+[s2]
+Mireasa Lui s-a-mpodobit
+Cu haina de serbare
+Gătită pentru al ei iubit
+În dor şi aşteptare.
+2.
+Cor: El însuşi dă semnalul
+Norii sunt barca ce ne răpeşte
+Al trâmbiţei e valul
+Şi-n cântări arhanghelul vâsleşte.
+
+[s3]
+Cu trupuri noi vom fi-mbrăcaţi
+Ieşind din putrezire
+Din muritori vom fi schimbaţi
+Deplin în nemurire.
+3.
+Cor: El însuşi dă semnalul
+Norii sunt barca ce ne răpeşte
+Al trâmbiţei e valul
+Şi-n cântări arhanghelul vâsleşte.
+
+[s4]
+Învinsă-i moartea prin Isus
+Şi boldul ei păcatul
+Vrăjmaşul ultim e răpus
+Căci vine Împăratul.
+Cor: El însuşi dă semnalul
+Norii sunt barca ce ne răpeşte
+Al trâmbiţei e valul
+Şi-n cântări arhanghelul vâsleşte.
+4.
+Cor: El însuşi dă semnalul
+Norii sunt barca ce ne răpeşte
+Al trâmbiţei e valul
+Şi-n cântări arhanghelul vâsleşte.
+
+[order]
+s1,s2,s3,s4

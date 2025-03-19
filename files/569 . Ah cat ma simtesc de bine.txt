@@ -1,0 +1,63 @@
+[s1]
+1. Ah, cât mă simt eu de bine
+Când e Domnul lângă mine
+Şi cu El trăiesc.
+569.
+
+[s2]
+/: Însă ce jale m-apasă
+Când mă depărtez de casă,
+Când Îl părăsesc! :/
+
+[s3]
+2. Sufletul meu însetează
+Şi ochii mei lăcrimează
+Când n-am pe Isus.
+
+[s4]
+/: Eu atunci sunt ca pământul
+Când îl bate mereu vântul
+Şi e secetos. :/
+
+[s5]
+3. De aceea, frăţioare
+Ca şi cerbul la izvoare
+Eu alerg mereu.
+
+[s6]
+/: Şi de-L aflu pe El iară
+O frumoasă primăvară
+E-n sufletul meu:/
+
+[s7]
+4. Doamne, câtă mângâiere
+Îmi aduci Tu în durere,
+Isuse iubit!
+
+[s8]
+/: Când mă plec  sub a Ta cruce
+Viaţa-mi este tot mai dulce
+Şi sunt fericit. :/
+
+[s9]
+5. Doamne cât voi fi în viaţă
+Ne-ncetat Tu mă învaţă
+Ca să cânt mereu.
+
+[s10]
+/: Eu voiesc tot înainte
+Să Te laud, Doamne, Sfinte,
+Aici pe pământ. :/
+
+[s11]
+6. Doamne mai am o dorinţă
+Şi te rog cu umilinţă
+Auzi ruga mea!
+
+[s12]
+/: Vreau cât voi trăi în lume
+Totdeauna să pot spune:
+“Fie voia Ta!” :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12

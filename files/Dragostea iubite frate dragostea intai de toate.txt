@@ -1,0 +1,71 @@
+[s1]
+Dragostea, iubite frate,
+dragostea întîi de toate
+/: Dragostea e Dumnezeu. :/
+Dragostea e Duhul Sfînt,
+asta-i pacea pe Pămînt.
+De-ai vorbi în limbi străine,
+de-ai cînta destul de bine
+De-ai fi dascăl pentru alţii,
+de-ai avea chiar şi talanţii
+
+[r1]
+/: Dacă dragoste nu ai,
+n-ai nici pace, n-ai nici rai !
+Dacă dragoste nu ai,
+n-ai să poţi intra în rai ! :/
+
+[s2]
+De-ai fi meşter în vorbire,
+de-ai cînta şi din psaltire
+De-ai avea chiar şi ştiinţa,
+de-ai avea chiar şi credinţa
+
+[s3]
+De-ai avea chiar daruri multe,
+de-ai fi un creştin de frunte
+De-ai fi chiar şi un prooroc,
+de-ai muta munţii din loc
+
+[s4]
+De-ai fi chiar şi episcop,
+şi să predici cu mult foc
+De-ai fi preot pentru lume,
+de-ai avea chiar şi renume
+
+[s5]
+Dacă tu te rogi frumos,
+de-ai cînta cu glas duios
+Dacă-nveţi pe alţii bine,
+dacă nu te-nveţi pe tine
+
+[s6]
+De-ai face chiar fapte bune,
+de-ai veghea în rugăciune
+De-ai să vindeci pe bolnavi,
+de-ai s-ajuţi pe cei orfani
+
+[s7]
+De-ai fi doctor în ştiinţă,
+de-ai avea chiar şi credinţă
+De-ai fi tare învăţat
+şi de lume respectat
+
+[s8]
+Iar de-ai fi un om de rînd,
+crezînd că ai Duhul Sfînt
+De-ai fi fost un om bogat
+şi averea ţi-ai fi dat
+
+[s9]
+Dacă credincios ai fi,
+pe Isus azi L-ai primi
+Şti-vei cît de mult folos
+este pacea lui Hristos.
+
+[s10]
+/: Şi silindu-te s-o ai,
+tu te vei simţi ca-n rai ! :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1,s8,r1,s9,s10

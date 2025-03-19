@@ -1,0 +1,32 @@
+[s1]
+Doamne-n marea Ta-ndurare
+Ai găsit ca o favoare
+Către mine căutare
+Iată inima mi-e plină
+De iubire si lumină
+Si-ntru slavă Ti se-nchină
+Si-ntru slavă Ti se-nchină
+Aleluia, Aleluia, Aleluia
+
+[s2]
+Doamne câtă îndurare
+Tu ne-ai dat la fiecare
+Cer de binecuvântare
+Inimile ne sunt pline
+De asa frumos si bine
+Gata Tie să se-nchine
+Gata Tie să se-nchine
+Aleluia, Aleluia, Aleluia
+
+[s3]
+Plini de binecuvântare
+Cu iubire si cântare
+Bun rămas la fiecare
+Dragoste cu noi să fie
+Dragoste să vă rămâie
+Domnul sfântă părtăsie
+Domnul sfântă părtăsie
+Aleluia, Aleluia, Aleluia!
+
+[order]
+s1,s2,s3

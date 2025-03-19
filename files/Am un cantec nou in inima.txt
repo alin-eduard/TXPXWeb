@@ -1,0 +1,26 @@
+[s1]
+Am un cântec nou în inimă,
+Şoapta dulce­-a lui Isus:
+„Sunt cu tine, nu te-­ngrijora,
+Braţul Meu îţi e de­-ajuns.“
+
+[r1]
+Isus, Isus, Isuse,
+Nume minunat,
+El imi umple viata
+De-aceea Îi cant neîncetat
+
+[s2]
+Viaţa mi­-a fost frântă de păcat,
+Chinu-­n suflet mi-­a pătruns,
+Dar Isus de toate m-­a spălat,
+Noi speranţe m­-au cuprins.
+
+[s3]
+În curând Isus va reveni
+Peste cerul înstelat,
+Voi zbura cu El spre alte zări
+Unde El e Împărat.
+
+[order]
+s1,r1,s2,r1,s3,r1

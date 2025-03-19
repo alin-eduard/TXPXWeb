@@ -1,0 +1,45 @@
+[s1]
+1. Cine mi-a adus Lumina
+Mântuirii minunate
+Și mi-a-mbogățit viața
+Cu comori nemăsurate
+914
+
+[r1]
+Cor:
+/: Numai Tu :/
+Numai Tu, Isuse
+Doamne, numai Tu.
+
+[s2]
+2. Cine crește-n mine zilnic
+Focul dragostei divine
+Cine necurmat mă suie
+De la bine spre mai bine.
+
+[s3]
+3. Cine-mi dă tărie-n lupta
+Prea curată a credinței
+Cine mi-a sădit în suflet
+Prietenia cu toți sfinții.
+
+[s4]
+4. Cine mi-a gătit eterna
+Patrie preafericită
+Unde nu-s dureri nici lupte
+Nici iubire mărginită.
+
+[s5]
+5. Cine veacuri fără număr
+Cu cântări în sărbătoare
+O să poarte-a mea ființă
+Dintr-un soare în alt soare.
+
+[s6]
+6.Tu prea scumpul meu, Isuse
+În adânca-Ți bunătate
+Și-n iubirea-Ți fără margini
+Mi-ai gătit acestea toate.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

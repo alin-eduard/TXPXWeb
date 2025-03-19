@@ -1,0 +1,32 @@
+[s1]
+Se-aud paşii Domnului venind,
+Aşteaptă liniştit.
+Luceferi în jur se-aprind,
+Pământul e sfinţit.
+În El nu vezi păcat,
+E Sfânt şi Preacurat.
+Rămâi liniştit în faţa Lui
+Şi-nchină-te smerit!
+
+[s2]
+E-aici Împăratul Cel Preasfânt,
+În glorie ’nălţat,
+Cu flacăra Lui arzând
+Cei rău şi întinat.
+Aici e Cel din veci,
+Lumina lumii-ntregi.
+Rămâi liniştit în faţa Lui
+Şi-nchină-te curat!
+
+[s3]
+E-aici Domnul, cu puterea Sa,
+Fă-ţi linişte-n adânc,
+Doar El poate vindeca
+Cu glasul Lui preablând.
+Nimic nu-I e prea greu,
+Te-ncrede-n harul Său.
+Rămâi liniştit în faţa Lui
+Şi-ascultă-al Său Cuvânt!
+
+[order]
+s1,s2,s3

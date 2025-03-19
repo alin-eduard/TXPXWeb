@@ -1,0 +1,91 @@
+[s1]
+1. Când mi-a fost mie mai greu
+Mi-a ajutat Dumnezeu
+Când în suferinţă am fost
+Mi-a fost Domnul adăpost.
+571.
+Cor: O, ce minunat ajutor
+Este Domnul îndurător.
+
+[s2]
+2. Când am fost în grea durere
+Mi-a fost Domnul mângâiere
+Când am crezut că sunt pierdut
+Domnul dulce mi-a fost scut.
+Cor: O, ce minunat ajutor
+Este Domnul îndurător.
+
+[s3]
+3. Când am fost bolnav în pat
+El boala mi-a vindecat
+Când m-am crezut părăsit
+Domnul bun m-a sprijinit
+Cor: O, ce minunat ajutor
+Este Domnul îndurător.
+
+[s4]
+4. De-aş putea să plâng mereu
+N-aş pune plânsului frâu
+De-aş putea să plâng o mare
+N-aş pune la plâns hotare
+Cor: O, ce minunat ajutor
+Este Domnul îndurător.
+
+[s5]
+5. Să plâng păcatele mele
+Multe rele foarte grele
+El e foc mistuitor
+Cu fiul risipitor.
+Cor: O, ce minunat ajutor
+Este Domnul îndurător.
+
+[s6]
+6. Îl ascultă soarele
+Stelele şi apele
+Îl ascultă luna nopţii
+Domnul înviază morţii.
+Cor: O, ce minunat ajutor
+Este Domnul îndurător.
+
+[s7]
+7. Curcubeul se iveşte
+Domnul când îi porunceşte
+El umple câmpul cu flori
+Iertând pe rătăcitor.
+Cor: O, ce minunat ajutor
+Este Domnul îndurător.
+
+[s8]
+8. El dă hrană tuturor
+Prin braţul mult iubitor
+Iar acei dispreţuiţi
+Mult sunt de El ocrotiţi.
+Cor: O, ce minunat ajutor
+Este Domnul îndurător.
+
+[s9]
+9. Pe cei slabi cum îi primeşte
+Cu mult dor îi îngrijeşte
+De-ai ajuns o lampă stinsă
+De Domnul vei fi aprinsă.
+Cor: O, ce minunat ajutor
+Este Domnul îndurător.
+
+[s10]
+10. Singur Domnul este drept
+Sfânt, prea bun şi înţelept
+Slavă numai Lui să-I dăm
+Şi în veci să ne-nchinăm.
+Cor: O, ce minunat ajutor
+Este Domnul îndurător.
+
+[s11]
+11. Slavă Tatălui din cer
+Slavă Fiului la fel
+Slavă lui Isus Hristos
+Cel ce-ai înviat din morţi.
+Cor: O, ce minunat ajutor
+Este Domnul îndurător.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11

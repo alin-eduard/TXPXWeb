@@ -1,0 +1,17 @@
+[s1]
+Zi de zi eu vreau să respir
+cuvântul Tău
+Si mă rog Doamne
+tot mai mult să Te cunosc
+Condu-mă în fiecare clipă
+ce-o trăiesc
+Zi de zi, Doamne,
+vreau să luminez mereu
+
+[s2]
+Zi de zi cu Tine eu trăiesc
+Zi de zi pe Tine te urmez
+Zi de zi cu Tine eu păşesc
+
+[order]
+s1,s2

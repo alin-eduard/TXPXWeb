@@ -1,0 +1,32 @@
+[s1]
+1. /:La umbra aripilor Tale
+Loc de scăpare am
+Şi adăpost şi alinare
+Şi peste răni balsam. :/
+
+[r1]
+Ref: /:Eu strig către Dumnezeu
+Către Cel Preaînalt
+Căci El aude glasul meu
+Mă scoate la loc larg :/
+
+[s2]
+2. /:El imi trimite izbăvirea
+Din mâna celui rău
+Domnul lucrează pentru mine
+Căci sunt copilul Său. :/
+
+[s3]
+3. /:Vreau inima să-mi fie tare
+Cu Domnul ne-ncetat
+Şi să-I slujesc, fără-ncetare
+Căci pace El mi-a dat. :/
+
+[s4]
+Ref: /:Eu strig către Dumnezeu
+Către Cel Preaînalt
+Căci El aude glasul meu
+Mă scoate la loc larg :/      											Amin.
+
+[order]
+s1,r1,s2,r1,s3,s4

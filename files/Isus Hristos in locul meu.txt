@@ -1,0 +1,31 @@
+[s1]
+Isus Hristos în locul meu
+Pe cruce a murit
+Şi către-un vierme cum sunt eu
+S-a-ntors că m-a iubit.
+
+[r1]
+Şi în locul meu, şi în locul meu
+Isus pe cruce S-a jertfit,
+Veniţi să-i mulţumim!
+
+[s2]
+Pământul s-a cutremurat
+Şi soarele-a pălit
+Când Domnul vieţii S-a sfârşit
+Hulit şi chinuit.
+
+[s3]
+Păcatul meu L-a răstignit
+Pe Cel Neprihănit,
+Dar necuprinsa-I dragoste
+De el m-a izbăvit.
+
+[s4]
+De aş ascunde faţa mea
+Şi-aş plânge zi de zi,
+Să-I mulţumesc eu n-aş putea,
+Oricât m-aş strădui
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

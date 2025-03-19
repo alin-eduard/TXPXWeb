@@ -1,0 +1,27 @@
+[s1]
+Mie atât mi-a mai rãmas
+Sã mã-ncred în Dumnezeu
+/: Sã-L ascult si pas cu pas :/
+Sã fiu dupã placul Sãu.
+
+[r1]
+/: Pot totul prin Isus
+Pot totul prin Isus
+Pot totul prin Isus
+El este tãria mea :/
+Doar El.
+
+[s2]
+Vânturi mari de s-ar stãrni
+Totu-n jur de s-ar surpa
+/: Nu mã vor putea clinti :/
+De pe temelia mea.
+
+[s3]
+Înainte, tot mereu,
+Orisice s-ar întâmpla
+/: Mã-nsoteste El mereu :/
+Pentru mine va lupta.
+
+[order]
+s1,r1,s2,r1,s3,r1

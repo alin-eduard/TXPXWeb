@@ -1,0 +1,12 @@
+[s1]
+O, Doamne bun Te laudă
+Nu-I nimeni cum eşti Tu.
+O, Doamne bun Te laudă
+Duhul Tău L-ai pus în noi.
+O, Doamne bun Te laudă
+Tot ce-I bun în noi, eşti Tu.
+O, Doamne bun Te laudă
+Nu-I nimeni cum eşti Tu.
+
+[order]
+s1

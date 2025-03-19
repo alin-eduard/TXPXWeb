@@ -1,0 +1,26 @@
+[s1]
+O ce veste minunata
+In Betleem ni se-arata
+/: Astazi s-a nascut cel fara-nceput
+Cum au zis proroocii :/
+
+[s2]
+Mergind Iosif cu Maria,
+In Betleem sa se-nscrie
+/: Intr-un mic salas lang-acel oras
+S-a nascut Mesia. :/
+
+[s3]
+Pastorii vazand in zare,
+Din cer o lumina mare
+/: Ei fluierau, ingerii cintau
+Si cu toti se bucurau. :/
+
+[s4]
+Dupa steaua luminoasa
+Dintre astre mai aleasa
+/:Trei crai veneau, daruri aduceau
+Si-n genunchi i se-nchinau.:/
+
+[order]
+s1,s2,s3,s4

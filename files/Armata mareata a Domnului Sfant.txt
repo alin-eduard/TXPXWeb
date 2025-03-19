@@ -1,0 +1,38 @@
+[s1]
+/: Armata mareata a Domnului Sfant
+Pleaca la lupta din trambite sunand:/
+/:Condusi ei sunt mereu
+De vocea lui Dumnezeu :/ X2
+
+[s2]
+Sa rasune in /: Sion :/
+Sa se cutremure sfantul munte!
+Sa rasune in /: Sion :/
+Domnul e Sfant! X2
+
+[s3]
+În cetatea Ierihon trăia
+Un popor ce nu se temea,
+De Domnul, şi el a trebuit
+Ca să fie nimicit.
+/: Zidurile-nalte de la /: Ierihon :/ X3
+Nu se vor zidi din nou. :/
+
+[s4]
+Israelul nu s-a luptat
+Într-un glas cu toţii au strigat
+In Domnul ei s-au încrezut,
+Şi zidurile-au căzut.
+/: Zidurile-nalte de la Ierihon X3
+Nu se vor zidi din nou. :/
+
+[s5]
+N-am dărâmat noi zidurile
+Am strigat cu toţii : “O Doamne !”
+In Domnul cu totii am crezut
+Si zidurile-au cazut
+/: Zidurile-nalte de la Ierihon
+Nu se vor zidi din nou. :/
+
+[order]
+s1,s2,s3,s4,s5

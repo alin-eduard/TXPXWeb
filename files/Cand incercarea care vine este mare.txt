@@ -1,0 +1,52 @@
+[s1]
+Când încercarea care
+vine este mare
+Şi ţi se pare că
+nu poţi scăpa de ea
+Tu roagă-te ca Dumnezeu
+să-ţi dea răbdare,
+Să nu te laşi pân’
+biruinţă vei avea!
+
+[r1]
+/: Că Cel ce-ngăduie
+să vină încercarea
+A pregătit şi modul
+de-a ieşi din ea!
+Deci, foloseşte frate drag,
+împrejurarea
+Căci nu-i mai grea decât
+să duci tu ai putea. :/
+
+[s2]
+Prin încercări cu semne
+şi minuni trecut-a
+Chiar Dumnezeu pe-al
+Său popor cu mâna Sa.
+Adu-ţi aminte cum smerit
+a plâns atuncea
+Când Dumnezeu a vrut
+pe tine-a te-ncerca.
+
+[s3]
+Nu este vreun alt Dumnezeu
+care să treacă
+Pe-al Său popor,
+prin încercări biruitor.
+Pe calea către ţara
+veşnică te-ncearcă,
+Dar tu să fii smerit,
+supus, ascultător.
+
+[s4]
+Tu uită-te la piatra
+cea mai încercată
+Cum peste vremi trecut-a
+tare tot la fel.
+Ferice sunt acei
+ce sprijin pe ea caută
+În Domnul nost’
+Isus Hristos Emanuel.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

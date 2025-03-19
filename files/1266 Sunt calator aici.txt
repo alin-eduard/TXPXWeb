@@ -1,0 +1,44 @@
+[s1]
+Sunt călător aici
+Doresc ne-încetat
+Înspre-o altă ţară
+Voios eu am plecat
+Am fost trimis aici
+Să spun mereu oricând
+Că Isus vine în curând.
+1.
+1266
+
+[r1]
+Cor: 	/ : Stăpânul meu ma-nsărcinat
+Să duc mesajul fericit
+Căci toţi cei păcătoşi
+Azi poate fi salvaţi
+Şi pentru veci în cer primiţi : /
+
+[s2]
+O vino-n grabă dar
+Cu toţi cei mici şi mari
+Şi să ieşim din păcat
+Şi să trăim curat
+Sfârşitu-i spre apus
+Şi ne tot cheamă El Isus
+2.
+Cor: 	/ : Stăpânul meu ma-nsărcinat
+Să duc mesajul fericit
+Căci toţi cei păcătoşi
+Azi poate fi salvaţi
+Şi pentru veci în cer primiţi : /
+
+[s3]
+Palatul cel frumos
+Aşa e casa mea
+E totul nepătat
+Strălucitor curat
+Dumnezeiescul Miel
+A zis c-aşa va fi
+Acolo-n locul cel ceresc
+3.
+
+[order]
+s1,r1,s2,s3,r1

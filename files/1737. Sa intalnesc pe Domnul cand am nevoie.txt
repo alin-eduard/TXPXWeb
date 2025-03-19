@@ -1,0 +1,41 @@
+[s1]
+1. Să întâlnesc pe Domnul meu
+Când am nevoie
+Pe genunchi în rugăciuni
+Îl voi căuta
+El prin Duhul Său cel Sfânt
+Îmi va răspunde
+Şi oricând vocea Lui
+Voi asculta
+1737.    Mi
+
+[r1]
+Vocea Lui se aude
+Ea îmi dă har deplin şi bucurii
+Este vocea
+Care-mi dă siguranţă
+Şi o voi asculta zi de zi
+
+[s2]
+2. Vocea Lui e un turn
+Mare şi puternic
+M-a desprins de tot
+Ce este pământesc
+El vorbeşte vântului,
+Mării învolburate
+Când aud vocea Lui
+Mă liniştesc
+
+[s3]
+3. Vocea Lui
+E susur blând
+În încercare
+E un har
+Pentru acei împovăraţi
+Vocea Lui
+Este balsam de vindecare
+E-o lumină
+Pentru cei răscumpăraţi
+
+[order]
+s1,r1,s2,r1,s3,r1

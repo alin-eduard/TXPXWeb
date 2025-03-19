@@ -1,0 +1,27 @@
+[r1]
+Să venim ‘naintea Lui
+Smeriţi şi umiliţi să-I mulţumim
+O, spuneţi cum să Îi mulţumim.
+
+[s1]
+Lumea-ntreagă de mi-ar da,
+Tot aurul din ea nu-mi trebuie,
+Căci în Isus am găsit
+Comori de nedescris
+şi-un nume sfânt.
+Azi în casa Tatălui,
+eu sunt un fiu iubit
+De Dumnezeu Cel Sfânt,
+O spuneţi cum să Îi mulţumesc.
+
+[s2]
+Pentru fiecare zi
+Ce viaţa ne-o îmbracă-n bucurii,
+Pentru cerul infinit
+Şi soarele cu raze aurii,
+Pentru harul Tău cel sfânt
+Ce paşii noştri poartă pe pământ,
+O, Doamne Sfânt, azi Îţi mulţumim.
+
+[order]
+r1,s1,r1,s2,r1

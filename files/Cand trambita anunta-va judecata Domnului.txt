@@ -1,0 +1,38 @@
+[s1]
+Trâmbiţa când anunţa-va
+judecata Domnului,
+Dimineaţa cea frumoasa va veni.
+Iar când cei răscumpăraţi,
+vor fi chemaţi la dreapta Lui,
+Când pe nume s-or citi şi eu voi fi.
+
+[r1]
+/: Când se vor citi pe nume :/ (x3)
+Când pe nume s-or citi şi eu voi fi.
+
+[s2]
+În  acea zi când toţi
+cei răscumpăraţi se vor scula,
+Cu Mântuitorul lor s-or veseli.
+Când aleşii lor s-or strânge
+în slăvita casa Sa,
+Când pe nume s-or citi şi eu voi fi.
+
+[s3]
+În ziua când sfinţii
+Domnului din morţi vor învia,
+Şi în nemurire vor fi îmbrăcaţi.
+Când ei se vor desfăta
+cu toţii de lumina Sa,
+Slava Lui că eu voi fi cu cei curaţi.
+
+[s4]
+Când a Domnului Mireasă
+sus în cer va triumfa,
+Şi în cortul Lui cel sfânt va locui.
+Când cununi de aur sus
+în slava mare vom purta,
+Slava Lui între cei sfinţi si eu voi fi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

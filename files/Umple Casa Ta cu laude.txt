@@ -1,0 +1,24 @@
+[s1]
+/: Umple Casa Ta cu laude,
+Străzi, cu bucurii de sus.
+Rău, păcat şi nedreptate,
+Să cadă-n faţa lui Isus. :/
+
+[s2]
+De pe munte către vale,
+Ţi Se cântă laudele.
+Tot pământul Ţi se-nchină
+Şi îţi cântă Numele.
+
+[s3]
+/:Vreau lumina Ta să-nvingă,
+Întunericul, ce-i gros.
+Tot mai mulţi să-Ţi vadă gloria,
+Şi să vină la Christos. :/
+
+[s4]
+Aleluia, aleluia,
+Aleluia, aleluia.
+
+[order]
+s1,s2,s3,s4

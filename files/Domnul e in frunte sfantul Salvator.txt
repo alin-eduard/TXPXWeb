@@ -1,0 +1,26 @@
+[s1]
+Domnul e în frunte, sfântul Salvator,
+El ne este­n toate bun Ocrotitor;
+Noi cunoaştem planul Său mântuitor,
+Cu credinţă­L vom urma!
+
+[r1]
+„Înainte!“ ne­a chemat Isus,
+„Înainte!“ cu avânt nespus.
+„Înainte!“ spuneţi tuturor:
+Cu Hristos vom fi învingători!
+
+[s2]
+Steagul nostru fie­n veci desfăşurat,
+Din cetate răul fi-va alungat;
+Cu cel rău luptând, Isus a triumfat,
+Deci pe El Îl vom urma!
+
+[s3]
+Lupta este grea dar mult nu va dura,
+Toţi în cer odată ne vom bucura;
+Ca biruitori în slavă vom intra
+Când pe El Îl vom urma!
+
+[order]
+s1,r1,s2,r1,s3,r1

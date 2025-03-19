@@ -1,0 +1,49 @@
+[s1]
+Ne-a spus că o să vină
+Din nou Isus Hristos
+Ce ceas, ce zi de glorii
+Cum nicicând n-a mai fost
+
+[s2]
+Va clătina tot cerul,
+Pământu-n temelii
+Dar cei aleşi de Domnul
+Pe veci de veci vor fi
+
+[r1]
+/: Curând, curând Doamne Isuse,
+Curând, curând Te vom vedea
+Curând, curând Tu vei apare
+Încoronat cu slava Ta :/
+
+[s3]
+Ne-a spus că o să vină
+Din nou Isus Hristos
+Cum scrie-n sulul Cărţii
+Odată ne-ndoios.
+
+[s4]
+Îl vom vedea cu toţii
+Când El va reveni
+Şi marea zi a lumii
+Atunci se va-mplini
+
+[s5]
+La cruce, unde Christos muri
+Dorit-am harul a dobândi
+Sângele Lui sfânt m-a curăţit
+Laudă-I fie!
+
+[r2]
+/: Laudă-I fie! Laudă-I fie!
+Sângele Lui sfânt m-a curăţit
+Laudă-I fie! :/
+
+[s6]
+Minune! Sunt de păcat scăpat!
+Isus pentru mine a răbdat
+La cruce, unde El m-a iertat,
+Laudă-I fie!
+
+[order]
+s1,s2,r1,s3,s4,r1,s5,r2,s6,r2

@@ -1,0 +1,32 @@
+[s1]
+Nu mai sunt al meu, o, Doamne,
+Tu eşti azi stăpânul meu;
+Vreau să fiu de­acum cu Tine,
+Să­Ţi slujesc cu drag mereu.
+
+[r1]
+Sunt al Tău, sunt al Tău,
+Pe deplin eu sunt al Tău!
+Tot ce am, cu bucurie
+Azi depun la tronul Tău.
+
+[s2]
+N­am nimic în stăpânire,
+Ţi­am dat totul, o, Isus;
+Chiar din clipa mântuirii
+În serviciul Tău m­am pus.
+
+[s3]
+Da, îmi e cu neputinţă
+Fără Tine să trăiesc;
+Cu întreaga mea fiinţă
+Vreau mereu să Te iubesc!
+
+[s4]
+Doamne, Tu să­mi dai credinţă,
+Întăreşte-mă mereu
+Să­Ţi servesc în umilinţă
+Până la sfârşitul meu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

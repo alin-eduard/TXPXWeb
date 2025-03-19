@@ -1,0 +1,39 @@
+[s1]
+1. Pe pământ când am venit
+Oamenii nu m-au primit
+/: Am umblat prin vânt şi ploi
+Ca să vă câştig pe voi :/
+2. Oamenii cu toţi dormeau
+Iar pe Mine mă băteau
+/: Şi în zori de zi au venit
+Chinuitori m-au chinuit :/
+768.
+
+[s2]
+3. Am plâns şi am suspinat
+Şi pentru voi M-am rugat
+/: Dar M-au prins şi M-au legat
+Şi apoi M-au dus la Pilat :/
+4. Cu nuiele dezlegate
+M-ai început din nou a bate
+/: Şi când M-au dus la Pilat
+Toţi în faţă M-au scuipat :/
+
+[s3]
+5. Vânturile greu suflau
+Şi pe Mine mă băteau
+/: Iar femeia lui Pilat
+Pentru Mine s-a rugat :/
+6. Cu nuiele mă băteau
+Şi crucea Mi-o pregăteau
+/: Crucea-n spate apoi Mi-au pus
+Şi M-au dus pe deal în sus :/
+
+[s4]
+7. Tâlharul de lângă Mine
+Ce i-am dat Eu mântuire
+/: Iară celălalt tâlhar
+S-a dus în chinul amar :/
+
+[order]
+s1,s2,s3,s4

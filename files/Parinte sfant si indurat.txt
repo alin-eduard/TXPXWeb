@@ -1,0 +1,32 @@
+[s1]
+Parinte sfânt şi indurat
+La Tine noi am apelat
+Şi Te rugam primeste-ne
+Pe toti de-aici sfinteste-ne.
+
+[r1]
+Azi Te rugam, cobori la noi
+Ca să-i unesti pe-acestia doi
+In mâna Ta Tu să ii tii
+Şi scut la timp Tu să le fii.
+
+[s2]
+Atât de slabi noi ne vedem
+In Tine insă ne-incredem
+Să ne imbraci cu Duhul Sfânt
+Să fim curati pe-acest Pamânt.
+
+[s3]
+Acolo sus la nunta Ta
+O, Mire scump, nu ne uita
+Oricât de mic loc Tu ne-ai da
+Noi pentru toate Te-om lauda.
+
+[s4]
+Să fii slavit, să fii cinstit
+Caci pentru cer ne-ai pregatit!
+O, vin, degrab noi Te-aseptam
+Mireasă ia-Ti, noi Te rugam!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,23 @@
+[s1]
+Cât de scurtă este
+Viaţa asta pământească!
+Ca o ceaţă brusc apare
+Şi la fel apoi dispare;
+Asta-i viaţa trecătoare.
+
+[s2]
+Cât de scurtă este
+Viaţa asta muritoare!
+Ca şi iarba ce-i cosită
+Până seara-i veştejită;
+Asta-i viaţa-aici trăită.
+
+[s3]
+Cât de glorioasă
+Însă este veşnicia!
+Fericire, bucurie
+Şi-o deplină armonie;
+Asta-i viaţa-n veşnicie.
+
+[order]
+s1,s2,s3

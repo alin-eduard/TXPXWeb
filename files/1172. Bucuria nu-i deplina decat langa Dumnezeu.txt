@@ -1,0 +1,41 @@
+[s1]
+1172
+1. Bucuria nu-i deplină
+Decât lângă Dumnezeu
+Numai harul Lui lumină
+Cerul inimii mereu.
+
+[s2]
+2. Bucuria nu-i curată
+Decât când e în Hristos
+Numai ea-i despovărată
+De lumesc și păcătos.
+
+[s3]
+3. Bucuria nu-i senină
+Decât când e-n
+Duhul Sfânt
+Atunci flacăra-i divină
+Umple sufletul de avânt.
+
+[s4]
+4. Bucuria nu-i întreagă
+Decât lângă cei iubiți
+Numai strângerea
+lor dragă
+Ne lumină fericiți.
+
+[s5]
+5. Bucuria nu-i frumoasă
+Decât la culescul plin
+Când din munca dureroasă
+Îți strângi roadele senin.
+
+[s6]
+6. Bucuria nu-i cerească
+Decât sus pe acel Tabor
+Unde lupta nebunească
+Ți-o sfârșești biruitor.
+
+[order]
+s1,s2,s3,s4,s5,s6

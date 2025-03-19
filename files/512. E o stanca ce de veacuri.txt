@@ -1,0 +1,36 @@
+[s1]
+1.	E o stâncă ce de veacuri
+Stă în valuri neclintit
+Adăpost oricărui suflet
+Care-i dus de-al vieţii val.
+512.    								 Mi  b
+
+[r1]
+Cor:
+/: Stânca mea, :/ a mea cetate
+/: Locul meu :/ /:de adăpost :/
+Al meu sprijin în necazuri
+E Isus, Isus Hristos.
+
+[s2]
+2.	Urlă marea-nfuriată,
+Vântul şuieră-mprejur
+Cu Isus stau fără teamă
+Pe-a mea Stâncă veşnică.
+
+[s3]
+3.	În zadar furtuna bate,
+Degeaba-i
+noapte-n jurul meu
+Liniştit eu stau pe stâncă
+Zorii zilei aşteptând.
+
+[s4]
+4.	Spune-mi suflet
+dus de valuri:
+E Isus şi stânca ta?
+Dacă nu, vino degrabă
+Şi-L ia ca Mântuitor.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

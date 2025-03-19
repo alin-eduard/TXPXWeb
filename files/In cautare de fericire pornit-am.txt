@@ -1,0 +1,28 @@
+[s1]
+În căutare de fericire pornit-am,
+Doamne, îngîndurat
+În lumea mare, pe căi deşarte trăit-am,
+Doamne, înstrăinat.
+M-am rătăcit fără de Tine,
+sufletul meu plîngea în păcat
+Cînd Te-am strigat, Tu ai avut milă,
+m-ai ridicat şi m-ai salvat.
+
+[r1]
+Te voi iubi toată viaţa, Doamne
+Căci din pierzare Tu m-ai ridicat
+Cînd Te-am strigat, Tu ai avut milă
+Fii în veci lăudat !
+
+[s2]
+Cu Tine, Doamne, viaţa-i mai dulce,
+cu Tine, Doamne, sînt fericit
+Inima-mi creşte de bucurie,
+de harul ce mi-ai dăruit
+Azi niciodată nu mai sînt singur,
+Tu eşti, Isus, cu mine mereu
+În Tine-am viaţa, mişcarea şi fiinţa
+eu sînt al Tău, Tu eşti al meu.
+
+[order]
+s1,r1,s2,r1

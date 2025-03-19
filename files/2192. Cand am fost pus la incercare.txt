@@ -1,0 +1,35 @@
+[s1]
+2192
+1. Când am fost pus
+la încercare
+Când am fost în mari nevoi
+Doamne Tu ai fost cu mine
+N-am fost singur, am fost doi.
+
+[r1]
+Cor: Tu nu m-ai părăsit,
+nu m-ai părăsit
+Când Te-am supărat
+Când Te-am întristat
+Tu nu m-ai părăsit.
+
+[s2]
+2. Când cei răi au dat în mine
+Cu ocară și noroi
+Doamne Tu mi-ai dat răbdare
+N-am fost singur, am fost doi.
+
+[s3]
+3. Când am fost pus față-n față
+Cu Satana în război
+Doamne Tu mi-ai dat izbândă
+N-am fost singur, am fost doi.
+
+[s4]
+4. Când a zis odată Domnul
+Iată Eu voi fi cu voi
+Am știut că nu sunt singur
+Și cu toate, am fost doi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

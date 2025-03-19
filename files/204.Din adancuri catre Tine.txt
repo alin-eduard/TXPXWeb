@@ -1,0 +1,40 @@
+[s1]
+Re m
+1. Din adâncuri către Tine
+Doamne strig şi lăcrimez
+Nu mă mai lăsa Stăpâne
+În păcat să mai 'noptez.
+204.
+
+[s2]
+2. Tu-mi cunoşti făptura-mi slabă
+Neputinţa mea o ştii
+Când furtuna bate tare
+Doamne-n ajutor să-mi vii.
+
+[s3]
+3. Stinge răul tot din mine
+Şi-al păcatului amar
+Cum ai stins puterea urii
+Pe crucea de pe Calvar.
+
+[s4]
+4. Dă-mi tărie şi putere
+Pentru lucrul Tău cel bun
+Şi păzeşte-mi pururi calea
+De tot pasul ce nu-i bun.
+
+[s5]
+5. Fă-mi Isuse luminoasă
+Calea Ta pe-acest pământ ,
+Şi putere dă-mi de-a pururi
+Să păzesc al Tău cuvânt.
+
+[s6]
+6. Ca în ziua Ta cea mare
+Când pe-ai Tăi îi vei chema
+Să mă pomeneşti Isuse
+Între-acei de-a dreapta Ta.
+
+[order]
+s1,s2,s3,s4,s5,s6

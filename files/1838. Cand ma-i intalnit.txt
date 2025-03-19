@@ -1,0 +1,32 @@
+[s1]
+1.Când m-ai întâlnit
+Domnul meu iubit
+Nu ştiam că vrei
+Viaţa să mi-o iei
+În cerescul rai
+Şi alte căi să-mi dai
+Şi să mă ridici tată de aici.
+1838.
+
+[s2]
+2. Când mai întâlnit
+Domnul meu iubit
+Nu te cunoşteam
+Însă te simţeam
+Cu iubirea mea
+Tu vei rămânea
+Şi pentru vecii
+Focul ei să fii
+
+[s3]
+3. Când m-ai întâlnit
+Domnul meu iubit
+Mâna Ta mi-ai dat
+Şi m-ai ridicat
+Din adâncul amar
+Pe `nălţimi de har
+Ca să-ţi pot cânta
+Veşanic slava Ta.
+
+[order]
+s1,s2,s3

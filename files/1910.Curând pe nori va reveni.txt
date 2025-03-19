@@ -1,0 +1,54 @@
+[s1]
+1910
+1. Curând pe nori va reveni
+Domnul Isus Hristos
+Curând cu toții
+Vom ajunge /:acas:/
+Spre cerul sfânt ne-om înalța
+Curând cu toți voioși
+Căci am ajuns în noul
+Sfânt locaș
+
+[r1]
+Cor:  Acolo totu-i pregătit
+De mâna Domnului
+Iar Domnul Isus ne va lumina
+Lumina Lui va străluci
+În vecii vecilor
+Acolo tot cei rău se va găta
+
+[s2]
+2. Acolo-n ţara Ta
+Cu toţi cântăm voioşi
+Cântări ce înca nu s-au auzit
+Şi frumuseţi de nedescris
+Cum nu s-au mai văzut
+Căci Domnul pentru noi le-a pregătit
+
+[s3]
+3. Am plâns destul și-am suferit
+Dar Tu nu ne-ai lăsat
+În toate ne-ai fost Doamne /:ajutor:/
+Căci glasul Tău și mâna Ta
+Atunci când te-am strigat
+O Doamne numai Tu ne-ai mângâiat
+
+[s4]
+4. Ajută-ne Doamne mereu
+Tot să ne pregătim
+Cât timp a mai rămas /:numai puțin:/
+De tot ce-i rău până putem
+Să ne dezbrăcăm
+Pe calea Ta Doamne să 'naintăm
+
+[s5]
+5. Iar lumea cu a ei plăceri
+Ar vrea să dăm napoi
+Dar Doamne Tu nicicând
+/:nu ne lăsa:/
+Ajută-ne să biruim
+Tot ce e rău acum
+Când vei veni să Te putem urma
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

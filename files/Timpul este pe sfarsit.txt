@@ -1,0 +1,32 @@
+[s1]
+Timpul este pe sfârşit!
+Frate, eşti tu pregătit
+Să-L întâmpini, pe nor, pe Mesia?
+El va reveni pe nor
+Să răpeasc-al Său popor:
+E Mirele sfinţilor, Mesia!
+
+[r1]
+Să ne pregătim, de-acum,
+Să călătorim pe drum
+Şi, acolo-n ţara Sa,
+Veşnic cu toţi vom cânta!
+
+[s2]
+Chiar de-ai fost tu întristat,
+De vreo boală apăsat
+El, Isus, te-a mângâiat, in toate.
+Ţi-a luat povara grea
+Şi-a dus-o la Golgota.
+Îţi va lua povara grea, El, Isus.
+
+[s3]
+Atunci, te vei bucura
+C-ai umblat pe calea Sa;
+Răsplătiri mari îţi va da El, Domnul.
+Azi cu toţi Îţi mulţumim
+Şi Te aşteptăm să vii,
+Să ne duci în veşnicii,Isuse.
+
+[order]
+s1,r1,s2,r1,s3,r1

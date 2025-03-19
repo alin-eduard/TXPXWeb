@@ -1,0 +1,17 @@
+[r1]
+Dac-ar fi sa fie noapte-n jurul meu
+Tu ai fi Doamne,
+Lumina-n drumul meu
+Dac-ar fi sa fie noaptea cat de grea
+Tu esti lumina mea
+
+[r2]
+Zile si nopti la rand
+As vrea sa-ti cant
+Sa ma tii Doamne curat!
+Stiu c-ai sa vii-n curand
+De aceea-Ti cant
+fiindca de moarte m-ai salvat
+
+[order]
+r1,r2,r1,r2

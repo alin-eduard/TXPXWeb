@@ -1,0 +1,40 @@
+[s1]
+1.Cunoştinţa e o perlă
+Este un diamant preţios
+A cunoaşte ce-i credinţa
+Nici un lucru
+Nu-i mai de folos
+1140                                                                                                                                        Re M
+
+[r1]
+Cine cunoaşte
+Și împlineşte
+E fericit, e și mântuit
+Cine cunoaşte
+Și nu trăieşte
+E osândit, nefericit
+
+[s2]
+2.Cunoştinţa e o floare
+Ce rodeşte
+Un rod minunat
+Cunoştinţa, cine-o are
+Totdeauna va fi căutat.
+
+[s3]
+3.Cunoştinţa-i cheia vieţii
+Ce deschide-al
+Scripturii Cuvânt.
+E-aurora frumuseţii
+Cunoştinţa-i
+De la Duhul Sfânt.
+
+[s4]
+4.Umilinţa cucereşte
+Darul cunoştinţelor,
+Dar mândria rătăceşte
+Pe cel mândru
+Și necrezător.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

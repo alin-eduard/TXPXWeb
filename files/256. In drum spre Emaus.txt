@@ -1,0 +1,63 @@
+[s1]
+1. În drum spre Emaus
+Doi călători mergeau
+Cleopa şi cu Luca
+Despre Isus vorbeau.
+256.
+
+[s2]
+2. Dar în timpul acela
+De ei se apropia
+Isus făr' să-L cunoască
+Scriptura tâlcuia.
+
+[s3]
+3. Alesele cuvinte
+La inimă-i ardea
+Să rămână cu dânşii
+Mereu Îl tot rugau.
+
+[s4]
+4. Rămâi cu noi străine
+Căci ziua a trecut
+Să nu te apuce noaptea
+Pe drum necunoscut.
+
+[s5]
+5. La noi găsi-vei masa
+Şi-un adăpost aici
+Şi-aşa ni-i obiceiul
+Şi nu vrem să ni-l strici.
+
+[s6]
+6. La masă-i o mirare
+El frânge pâinea-n două
+Şi dându-i fiecare
+Le zice pace vouă.
+
+[s7]
+7. O, îndelung zăbavnici
+La inimă sunteţi
+Nu cunoaşteţi pe Domnul
+De nu vă dau un semn.
+
+[s8]
+8. Ajung în locul acela
+Lumină se făcu
+Dar nu mai era nimeni
+Străinul dispăru.
+
+[s9]
+9. În drum înspre Emaus
+În noapte-un călător
+Sub greaua lui povară
+De lacrimi şi de dor.
+
+[s10]
+10. Mergea încet 'nainte
+El singur trist acum
+Căci printre ai săi lucrase
+Şi nu L-au cunoscut.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

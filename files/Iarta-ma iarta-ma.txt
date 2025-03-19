@@ -1,0 +1,67 @@
+[s1]
+Iartă-mă, iartă-mă !
+Iartă-mă, Dumnezeul meu !
+1 /11
+
+[s2]
+/: Pentru gândul nesfinţit
+Pentru ochii ce-au privit
+Pentru vorba fără har
+Doamne, iartă-mă Tu iar! :/
+2 /11
+
+[s3]
+Iartă-mă, iartă-mă !
+Iartă-mă, Dumnezeul meu !
+3 /11
+
+[s4]
+/: Pentru timpul meu trecut
+Fără rodul ce l-ai vrut
+Fără dragoste cu jar
+Doamne, iartă-mă Tu iar! :/
+4 /11
+
+[s5]
+Iartă-mă, iartă-mă !
+Iartă-mă, Dumnezeul meu !
+5 /11
+
+[s6]
+/: Pentru felul meu firesc
+Printre oameni când păşesc
+Pentru traiul în zadar
+Doamne, iartă-mă Tu iar ! :/
+6 /11
+
+[s7]
+Iartă-mă, iartă-mă !
+Iartă-mă, Dumnezeul meu !
+7 /11
+
+[s8]
+/: Pentru nevegherea mea
+De-a rămâne-n voia Ta
+Pentru tot ce-a fost murdar
+Doamne, iartă-mă Tu iar ! :/
+8 /11
+
+[s9]
+Iartă-mă, iartă-mă !
+Iartă-mă, Dumnezeul meu !
+9 /11
+
+[s10]
+/: Doar iertarea ce mi-o dai
+Îmi păstrează-al păcii rai
+Şi mă-nalţă iar şi iar
+Doamne-n veşnicu-ţi hotar ! :/
+10 /11
+
+[s11]
+Iartă-mă, iartă-mă !
+Iartă-mă, Dumnezeul meu !
+11 /11
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11

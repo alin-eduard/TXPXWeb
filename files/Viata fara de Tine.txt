@@ -1,0 +1,27 @@
+[s1]
+Viaţa făr’ de Tine Tată ceresc
+Este doar deşertăciune
+Numai Tu poţi da vieţii un sens
+Ca să trăiesc pentru Tine
+
+[r1]
+Viaţa mea Tu mi-ai schimbat Isus
+Şi-ai făcut un om nou din mine
+Ai pus în mine un dor nespus
+Dorul de-a fi lângă Tine.
+
+[s2]
+Duhul Tău cel Sfânt
+mi-a dat dragoste-n dar
+Şi braţul Tău ocrotire
+Numai în Tine Isuse iubit
+Pot să găsesc fericire.
+
+[s3]
+Viaţa ţi-o poate schimba Isus
+Poate face-un om nou din tine
+Astăzi ridică-ţi privirea-n sus
+Iată că Mirele vine!
+
+[order]
+s1,r1,s2,r1,s3,r1

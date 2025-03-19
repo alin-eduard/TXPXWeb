@@ -1,0 +1,29 @@
+[s1]
+2223. Fa m
+1. Vor trece anii noştri care
+Ei tot adună-n calea lor
+Dar sus în ceruri ne aşteaptă
+Oraşul sfânt locaş Ierusalim.
+
+[r1]
+/: Cu suflet mă grăbesc
+Acolo să sosesc
+Să ajung acasă eu doresc
+Necazuri voi uita
+Spre ceruri voi zbura
+Pământule de tine voi uita:/
+
+[s2]
+2. ISUS e împărat şi preot
+Prin El lumina am primit
+Acum sunt liber de robie
+Păşesc acum spre ţărmul fericit
+
+[s3]
+3. Acolo sus e frumuseţe
+Iar imnuri cântă heruvimi
+Pe străzile ce sunt de aur
+‘n oraşul sfânt locaş Ierusalim.
+
+[order]
+s1,r1,s2,r1,s3,r1

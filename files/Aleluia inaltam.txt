@@ -1,0 +1,20 @@
+[s1]
+Aleluia înălţăm
+Numele Tău mare
+/: Doamne imnuri îţi cântăm
+Pentru a Ta-ndurare :/
+
+[s2]
+Aleluia mulţumim,
+Pentru haruri, toate
+/: Doamne câte le primim
+Zilnic mai bogate :/
+
+[s3]
+Aleluia-n, cântec Sfânt
+Cu-o cântare vie
+/: Doamne Îţi jertfim neînfrânt
+Astăzi şi-n vecie :/
+
+[order]
+s1,s2,s3

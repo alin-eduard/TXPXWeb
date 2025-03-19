@@ -1,0 +1,16 @@
+[r1]
+/: Domnul este bun :/ (3x)
+El e bun cu mine
+/: Ia pacatul meu :/ (3x)
+El e bun cu mine
+/: Liber sunt acum :/ (3x)
+El e bun cu mine
+
+[r2]
+Domnul este bun
+Ia păcatul meu
+Liber sunt acum
+El e bun cu mine
+
+[order]
+r1,r2,r1,r2

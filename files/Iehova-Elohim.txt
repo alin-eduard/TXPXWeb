@@ -1,0 +1,32 @@
+[s1]
+Iehova-Elohim, eternul Creator,
+Iehova-Adonai, atotputernic Domn.
+El e Iehova-Shur, stanca veacurilor
+El e Iehova, atotputernic Domn.
+
+[r1]
+/: Cânt aleluia, cânt aleluia.
+Cânt aleluia, cânt aleluia.
+El e Iehova, Domnul puternic.
+El e Iehova, Domnul ce m-a iubit. :/
+
+[s2]
+E Marele “Eu sunt!” Tatăl lui Avraam,
+Iehova-Shalom, Domnul e pacea.
+Iehova-Rohi, Domnul Păstorul meu,
+El e Iehova, singurul Dumnezeu.
+
+[s3]
+Iehova-Ire, poartă de grijă
+Iehova-Rafa, Domnul mă vindecă.
+Iehova-Nisi, Domnul e steagul meu,
+Iehova-Shama, aici e Dumnezeu.
+
+[s4]
+Iehova-Ţidkhenu, e drept judecător
+Iehova-Savaot, Domnul oștirilor.
+Iehova-Hoshenu, al nostru făcător.
+El e Iehova, al nostru Salvator
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,35 @@
+[s1]
+949.
+1.  Te iubesc Isuse, ştiu că eşti al meu
+A lumii plăcere n-o mai doresc eu
+Mai mult ca bucuria-Ţi nu preţuiesc
+De Te-am iubit cândva
+Acum Te iubesc.
+
+[s2]
+2.	Ca să mă răscumperi
+Pe cruce ai murit
+Te iubesc căci spinii
+Fruntea Ţi-au rănit
+Te iubesc că Tu mai întâi M-ai iubit
+De Te-am iubit cândva
+Acum şi mai mult.
+
+[s3]
+3.	Te vreau în viaţă-n moarte,
+Te iubesc!
+Te preţuiesc, Doamne,
+Pe cât timp trăiesc
+Şi când sudoarea morţii m-acoperă
+Voi zice: Isuse, şi-acum Te iubesc.
+
+[s4]
+4.		În faţa măririi, la tronul ceresc
+Uita-mi-voi jale
+Ce-n urmă privesc
+Pe cap purtând coroana
+Vieţii-oi cânta
+De Te-am iubit cândva, este acuma.
+
+[order]
+s1,s2,s3,s4

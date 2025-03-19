@@ -1,0 +1,26 @@
+[s1]
+Azi a venit un copilaş
+Frumos, şi dulce, şi gingaş.
+El din fecioară s-a născut;
+Ce bucurie ne-a făcut!
+
+[s2]
+Acesta e Isus Hristos,
+E Domnul nostru cel milos
+Ce vine ca Mântuitor,
+Iubind tot neamul muritor.
+
+[s3]
+El fericirea ne-a adus
+De la Părintele de sus,
+Spre a putea să ne suim
+In rai şi veşnic să trăim.
+
+[s4]
+Cu toţii să ne bucurăm
+Si laude-n veci de veci să-i dăm,
+Căci azi din ceruri, Domnul sfânt
+Trimis-a fiul pe pământ.
+
+[order]
+s1,s2,s3,s4

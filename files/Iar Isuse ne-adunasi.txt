@@ -1,0 +1,26 @@
+[s1]
+Iar Isuse ne-adunaşi
+Să ne dai învăţăminte,
+Fă să ne simţim atraşi
+De cereştile-Ţi cuvinte,
+Şi-narmaţi cu-a Ta putere
+Să-mplinim ce ne vei cere.
+
+[s2]
+Mintea noastră,-al nostru gând
+Rătăceşte fără Tine
+Dacă Spiritul cel Sfânt
+Nu ni-L dai să ne lumine.
+Dă-ne cugete curate
+Şi-mplineşte-n noi, Tu, toate.
+
+[s3]
+Tu, născut din Dumnezeu
+Ca lumină din lumină,
+Fă-ne după chipul Tău,
+Spală-ne de-orice ne-ntină
+Şi ne du spre-ndreptăţire
+Din mărire la mărire.
+
+[order]
+s1,s2,s3

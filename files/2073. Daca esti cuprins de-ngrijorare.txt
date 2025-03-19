@@ -1,0 +1,35 @@
+[s1]
+2073   Fa
+1. Dacă eşti cuprins de-ngrijorare
+Inima ţi-e plină de-ntristare
+Amară-i lacrima ta, e grea povara ta
+Pe drumuri plângi mereu
+Te ştie Dumnezeu.
+/: Nu-i nimeni ca să-ţi ia
+Din piept durerea ta
+Doar Isus, doar Isus, doar Isus :/
+
+[s2]
+2. Dacă eşti uitat în astă lume
+De durerea ta nu ai cui spune
+De n-ai cui să te plângi
+Și inima ţi-o frângi,
+Ascultă dragul meu
+Există Dumnezeu.
+/: Să-L chemi tu pe Isus
+Și îţi v-a fi de-ajuns
+Doar Isus, doar Isus, doar Isus :/
+
+[s3]
+3. Vino acum cu viaţa ta amară
+Vino la Isus cu a ta povară
+Un har nemărginit
+E Domnul meu iubit
+Și crede dragul meu
+Te iartă Dumnezeu
+/: Povara-ţi va lua
+Isus te va ierta
+Doar Isus, doar Isus  doar Isus :/
+
+[order]
+s1,s2,s3

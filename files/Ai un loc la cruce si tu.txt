@@ -1,0 +1,18 @@
+[s1]
+/: Ai un loc la cruce şi tu :/
+Unde mii au venit,
+Şi tu poţi fi primit!
+Ai un loc la cruce şi tu!
+
+[r1]
+Sângele lui Isus,
+Sângele lui Isus,
+Sângele lui Isus,
+De moarte m-a scăpat!
+
+[s2]
+/: Îl iubesc pe Isus, :/
+Că-ntâi El m-a iubit!
+
+[order]
+s1,r1,s2,r1

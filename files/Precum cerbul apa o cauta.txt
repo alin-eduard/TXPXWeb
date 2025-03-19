@@ -1,0 +1,38 @@
+[s1]
+Precum cerbul apa o caută,
+Şi­aleargă setos la izvor,
+Aşa eu Te caut cu­nsetare
+Pe Tine, Divin Salvator.
+Căci unde în lume e bine
+Ca eu să mă pot odihni?
+Isuse, nicicând fără Tine
+Nu pot fericire găsi!
+
+[r1]
+Precum cerbul apa o caută,
+Şi­aleargă setos la izvor;
+Aşa eu Te caut cu­nsetare
+Pe Tine, Divin Salvator!
+
+[s2]
+Când sunt doar cu Tine, Isuse,
+Dispare durerea ce­o am,
+În schimb bucurii am nespuse,
+Scutit eu mă simt de duşman;
+Cum pot ca să tac eu vreodată
+Când am un aşa Salvator
+Trimis de cerescul meu Tată
+Ca singurul Mântuitor!?
+
+[s3]
+Acel ce cu Domnul trăieşte
+Se simte voios ne­ncetat,
+Acel ce pe Domnul serveşte
+Cu slavă mereu e­mbrăcat,
+Căci lui de nimic nu îi pasă,
+Doar este Isus viaţa sa
+Iar Domnul pe el nu îl lasă
+Şi­n slavă îl va­ncorona!
+
+[order]
+s1,r1,s2,r1,s3,r1

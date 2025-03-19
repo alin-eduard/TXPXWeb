@@ -1,0 +1,37 @@
+[s1]
+1.Doamne stăm în faţa Ta
+Cu aceşti copilaşi dragi
+Te rugăm ca Tu să-I binecuvintezi
+/:Să îi ei pe braţul Tău
+Să-i ocroteşti mereu
+Tu Isus Preasfântul lui Israel:/
+1834.
+
+[s2]
+2.Doamne când vor creşte mari
+În lucrarea Ta să-i pui
+Să se bucure părinţii lor de ei
+/:Să le dai din Duhul Sfânt
+Să le dai puterea Ta
+Să se vadă că sunt
+Fii lui Dumnezeu:/
+
+[s3]
+3.  Pe părinţii lor te rog
+Să îi binecuvintezi
+Să laşi pace bucurie-n casa lor
+/:Fă să crească aceşti micuţi
+Doamne înspre slava Ta
+Să iţi cânte glorie Aleluia:/
+
+[s4]
+4.Lasă harul Tău din cer
+Să simtă biserica
+Căci Tu Doamne eşti prezent
+Azi printre noi
+/:Vrem cu toţii să-Ţi cântăm
+Pe pământ şi sus în cer
+Fii slăvit Isus Hristos Emanuel
+
+[order]
+s1,s2,s3,s4

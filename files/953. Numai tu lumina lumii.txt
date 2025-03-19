@@ -1,0 +1,33 @@
+[s1]
+953.
+1. Numai tu lumina lumii
+Numai tu apa cea vie
+Numai tu pâinea vieţii
+Îmi eşti eterna bucurie.
+2. Numai ţie, numai ţie
+Dumnezeul meu cel mar	e
+Pentru toate, pentru toate
+Slavă, cinste şi-nchinare.
+
+[s2]
+3. Numai ploaia ta adapă
+Numai umbra ta alină
+Numai raza ta cea dulce
+Încălzeşte, dă lumină.
+4. Numai harul tău dă viaţă
+Numai vântul tău adie
+Numai raza ta păstrează
+Liniştita bucurie.
+
+[s3]
+5. Numai tu faci tinereţea
+Harnică şi fericită
+Numai tu-mi dai bătrâneţea
+Rodnică şi liniştită.
+6. Numai tu-mi faci moartea dulce
+Şi de pace sfântă plină
+Numai tu dai veşnicia
+Strălucită şi senină.
+
+[order]
+s1,s2,s3

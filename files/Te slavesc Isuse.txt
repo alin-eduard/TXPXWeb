@@ -1,0 +1,30 @@
+[s1]
+Te slăvesc Isuse
+Pentru tot ce Tu mi-ai dat
+Cu binecuvântări
+M-ai binecuvântat,
+Pace în inimă,
+Mereu ai revărsat,
+Ce mare bucurie, e să fii salvat.
+
+[r1]
+/:Îţi mulţumesc pentru speranţă
+Ce o am în această viaţă
+Că într-o zi voi fi în cer
+Unde lacrimile pier,
+Şi Te voi vedea în faţă
+Voi vedea slava măreaţă
+Îţi mulţumesc, Îţi mulţumesc :/
+
+[s2]
+Mărire Ţie Doamne,
+mărire Ţie în veci,
+Ştiu că de la mine,
+nicicând nu ai să pleci,
+Primeşte mulţumirea
+ce acum eu ţi-o aduc,
+Îţi mulţumesc o, Doamne,
+Tu milă ai avut.
+
+[order]
+s1,r1,s2,r1

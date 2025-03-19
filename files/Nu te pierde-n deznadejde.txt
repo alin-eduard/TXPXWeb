@@ -1,0 +1,38 @@
+[s1]
+Nu te pierde-n deznadejde,
+Cand te-ncearca vreo urgie!
+Domnul va preface-n tine
+Intristarea-n bucurie.
+
+[r1]
+/: Domnul! Domnul
+E nadejdea ta,
+e salvarea ta!
+Intristarea-n bucurie-ti va schimba! :/
+
+[s2]
+Nu privi la slabiciune,
+Nici la viata ta pustie,
+Ci la Domnul! El preface
+Intristarea-n bucurie.
+
+[s3]
+Nu deschide poarta mintii,
+Negre ganduri ca sa-ti vie!
+Crede-n Domnul, caci El schimba
+Intristarea-n bucurie.
+
+[s4]
+Nu te indoi-n credinta!
+Domnul este-a ta tarie
+Si El iti preschimba-n taina
+Intristarea-n bucurie.
+
+[s5]
+Canta Domnului intruna!
+Multumeste-I, caci El stie
+Cand sa-ti schimbe-n tine toate:
+Intristarea-n bucurie...
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

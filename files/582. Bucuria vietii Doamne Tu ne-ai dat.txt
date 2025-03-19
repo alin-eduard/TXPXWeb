@@ -1,0 +1,56 @@
+[s1]
+1. Bucuria vieţii Doamne Tu ne-ai dat
+Prin jertfa Ta sfântă
+Ne-ai răscumpărat
+Multă suferinţă, chinuri şi dureri
+Le-ai schimbat,
+O, Doamne-n sfinte mângâieri.
+582.     Mi m
+
+[r1]
+/: Să vindece boala
+Să ridice povara
+Nu-i nimeni aşa ca Isus
+Cu mâna Sa bună
+Pe oricine alină
+Nu-i nimeni aşa ca Isus :/.
+
+[s2]
+2. Lacrimi de durere
+Faţa Ţi-au brăzdat
+Când răbdai pe cruce
+Pentru al nost' păcat
+Sfânta mântuire lumii ai adus
+Pace şi iubire oricui păcătos.
+
+[s3]
+3. Sufletul îmi cântă de iubirea Ta
+Mulţumiri Ţi-aducem
+Azi şi pururea
+Orice clipă-n viaţă
+Să o folosim
+În lucrarea sfântă
+Toţi să ne unim.
+
+[s4]
+4. Pân' atunci Isuse
+Când vei reveni
+Ajută-ne Doamne
+Să ne pregătim
+Când pe nori de slavă
+Tu vei apărea
+Să răpeşti la Tine
+Sus Mireasa Ta.
+
+[s5]
+5. Bucurie mare
+Va fi atunci în cer
+Căci vom fi tot timpul
+Cu Emanuel
+N-ar mai fi durere,
+N-ar mai fi suspin
+Căci va fi tot timpul
+Pace pe deplin.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,68 @@
+[s1]
+Când ridic ochii spre Tine
+Şi Te chem cu dor, Isus,
+/: Faţa mea în jos se-apleacă,
+Dorul se înalţă-n sus. :/
+
+[s2]
+Se înalţă către ceruri
+Până dincolo de nori,
+/: Căci Te chem cu dor, Isuse,
+Cu lacrimi de-atatea ori. :/
+
+[s3]
+Vino şi alină-mi dorul
+Ce îmi arde inima!
+/: Vino, adu-mi mângâierea!
+Vino, şi nu-ntârzia!... :/
+
+[s4]
+Căci se-ntinde ca o mreajă
+Al ispitelor vârtej;
+/: Vino, Tu, la cârma vieţii,
+Căci pierim. O, nu ne vezi? :/
+
+[s5]
+Vino şi scoală-Ţi poporul
+Care stă nepăsător;
+/: Dă-i din Duhul Tău putere
+Să fie mai vegheator! :/
+
+[s6]
+Căci au obosit pe cale,
+Abătuţi pe alte căi;
+/: Vino, fă să ardă iarăşi
+Focul dragostei dintâi! :/
+
+[s7]
+Vino şi adună-Ţi turma,
+De prin văile adânci!
+/: Vino, cheamă-Ţi porumbiţa
+Ce-i ascunsă printre stânci. :/
+
+[s8]
+Vino, să-Ţi auzim glasul!
+Vino, Mire minunat,
+/: Căci în piept ne arde dorul
+De atâta aşteptat. :/
+
+[s9]
+Vino şi-mbracă-Ţi mireasa
+Ce-ai ales-o pe pământ!
+/: O, îmbrac-o cu putere
+Să tresalte-n Duhul Sfânt! :/
+
+[s10]
+Ca, în ziua minunată
+Când trâmbiţa va suna,
+/: Să o poţi răpi la Tine,
+Sus în cer, în slava Ta, :/
+
+[s11]
+Unde veşnic o să-Ţi cânte
+C-ai scăpat-o de la chin.
+/: Fii slăvit, al nostru Mire,
+Până-n veci de veci! Amin! :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11

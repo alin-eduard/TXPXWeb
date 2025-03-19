@@ -1,0 +1,29 @@
+[s1]
+Luminând şi iubind
+Răni adânci tămăduind
+Sufletul îmi e liniştit
+Glasul Tău e tot ce-ascult.
+
+[r1]
+/: Isus, doar în inima Ta
+Inima Ta
+Sufletu-mi încânţi
+Ruga ştiu că mi-o asculţi
+(Mi-eşti aproape)
+Cât de-aproape-mi eşti :/
+
+[s2]
+Fiu slăvit doar Ţie mă-nchin
+În genunchi la Tine vin
+Mari şi mici toti Te vor preţui
+Ascultăm, ne vei vorbi.
+
+[s3]
+Prin dragoste inima mi-ai deschis
+Tu vei lumina mereu
+Prin Cuvânt cred
+Tot ce mi-ai promis
+Sufletu-mi e viu mereu.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,26 @@
+[s1]
+/: Cu toată dragostea
+Te-ascult, Isuse, doar pe Tine
+Dorind din ce în ce mai mult
+să luminezi prin mine. :/ x2
+
+[r1]
+/: Cu toată dragostea voi sta
+Isus în slujba ta aleasă
+Din ce în ce să-Ţi pot cânta
+o slavă mai frumoasă. :/ x2
+
+[s2]
+/: Cu toată dragostea doresc
+Isuse, numai ţie
+Să-Ţi semăn şi să-Ţi
+dăruiesc viaţă-n curăţie. :/ x2
+
+[s3]
+/: Cu toată dragostea aştept
+Să Isuse, iară
+Comoara inimii din piept,
+şi-a cerului comoară. :/ x2
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,14 @@
+[r1]
+Vreau să Te iubesc
+Tot mai mult Isus
+Pentru că Tu m-ai iubit întâi.
+Vreau să Te iubesc
+
+[s1]
+De îndoieli şi frică,
+Doamne Tu m-ai eliberat
+Mi-ai dat un cântec nou
+Vocea mea Te laudă.
+
+[order]
+r1,s1,r1

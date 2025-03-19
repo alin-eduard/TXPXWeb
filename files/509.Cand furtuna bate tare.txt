@@ -1,0 +1,38 @@
+[s1]
+1.	Când furtuna bate tare
+Urcă frate spre salvare
+/ : Când furtuna-n tine bate
+Nu te teme iubit frate
+Căci Isus te va salva :/.
+509.
+
+[s2]
+2.	Când ispite vin la Tine
+Cugetă tu sus la Mine
+/: Căci Eu mult am suferit
+Am fost cel dispreţuit
+Pentru tine am şi murit :/.
+
+[s3]
+3.	Ca să te scap din pierzare
+Şi să-ţi dau a Mea salvare
+/: Dacă mă vei asculta
+În cer primeşti cununa
+Vei cina la masa Mea :/.
+
+[s4]
+4.	Căci Eu te-am răscumpărat
+Prin jertfa mea din păcat
+/: Căci Eu sunt a ta salvare
+Şi te luminez, pe cale
+Şi te duc în casa Mea :/.
+
+[s5]
+5.	Unde îngerii în cor cântă
+La bogata masă sfântă
+/: Cu Avraam şi cu Isaac
+Vei domni din veac în veac
+Cu Dumnezeu Cel bogat :/.
+
+[order]
+s1,s2,s3,s4,s5

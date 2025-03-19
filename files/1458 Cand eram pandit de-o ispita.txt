@@ -1,0 +1,41 @@
+[s1]
+1458.    Mi
+Când eram pândit de ispită
+Tu mi-ai dat putere `nzecită
+Curăţit e vechiul veşmânt prin sângele sfânt
+Când Satan a vrut să  lovească
+M-a păzit o mână cerească
+Scut mi-ai fost imi eşti şi-mi vei fi şi in veşnicii.
+Cor    /:Isuse pe Tine te ştiu
+Cel ce esti drept Sfânt şi viu
+Ochii mei spre tine privesc
+O Doamne ceresc:/
+
+[s2]
+În necazuri nenumărate
+Mi-ai fost tată şi mi-ai fost frate
+M-ai scos din nevoi şi amar
+Prin sfântul tău har
+Când pe patul de suferinţă
+Te-am chemat mereu cu credinţă
+Mi-ai răspuns ne-ntârziat
+Şi m-ai vindecat
+Cor    /:Isuse pe Tine te ştiu
+Cel ce esti drept Sfânt şi viu
+Ochii mei spre tine privesc
+O Doamne ceresc:/
+
+[s3]
+Când eram cuprins de-ntristare
+Doamne Tu mi-ai dat alinare
+Niciodat` nu m-ai ocolit,ci m-ai întărit
+Şansa când n-aveam de scăpare
+Doamne Tu mi-ai dat vindecare
+Să fiu mădular sănătos prin Tine Hristos.
+Cor    /:Isuse pe Tine te ştiu
+Cel çe esti drept Sfânt şi viu
+Ochii mei spre tine privesc
+O Doamne ceresc:/
+
+[order]
+s1,s2,s3

@@ -1,0 +1,26 @@
+[s1]
+Azi te rog Isuse din slava
+Sa privesti spre acestia doi
+Sa le dai binecuvantarea
+Si-ajutorul Tau in nevoi
+
+[r1]
+Domnul meu minunat revars-acum
+Din bucuria Ta peste-acestia doi
+/:Da e usor cand intre voi este Domnul
+Va va-nsoti in orice zi mana Sa.:/
+
+[s2]
+Cand pe marea vietii voastre
+Valul greu in voi va lovi
+Nu uitati ca-n orice-ncercare
+Cu Isus puteti birui
+
+[s3]
+Tinta voastra sa fie Domnul
+Pentru El lucrati pe pamant
+Sus in cer v-asteapta cununa
+Locul sfant de El pregatit
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,26 @@
+[s1]
+Astăzi un cântec răsună
+O, Duhule Preasfânt
+Căci a-nviat Isus
+Aleluia, a-nviat !
+
+[r1]
+Azi a-nviat Isus
+Tăria morţii a frânt
+Viaţă El nouă ne-a dat
+Fie în veci lăudat !
+
+[s2]
+Isus cerul a lăsat
+Şi cu noi trup a-mbrăcat
+A venit jos ca să moară
+Ca să îndure ocară.
+
+[s3]
+Mi-e drag de Tine, Isuse
+Căci pentru mine-ai venit !
+Toţi să cântăm împreună :
+<Mărire, fii proslăvit !>
+
+[order]
+s1,r1,s2,r1,s3,r1

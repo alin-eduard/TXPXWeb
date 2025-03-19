@@ -1,0 +1,38 @@
+[s1]
+La Golgota, pe cruce,
+profund îndurerat
+Rabdă Mântuitorul
+pentru al meu păcat.
+Întreaga noastră vină
+s-a sters prin crucea Sa
+O, ce iubire mare
+cuprinde jertfa Sa !
+
+[r1]
+/: La cruce eu găsit-am alinare
+Prin Golgota eu am primit iertare !
+Isus muri pe lemn crucificat
+Ca să mă scape din al meu păcat ! :/
+
+[s2]
+Cu jertfa Ta, Isuse,
+Tu ai răscumpărat
+Întreaga omenire
+de vechiul ei păcat.
+Iubirea Ta nespusă
+cuprinde viaţa mea
+Căci pentru-a mele gresuri
+Tu ai purtat crucea.
+
+[s3]
+Drumul înspre Golgota
+e-un drum înlăcrimat
+E drumul unde
+Isus mergea înconjurat
+De cetele barbare,
+la moarte condamnat
+El, Mielul fără vină,
+spre-a fi crucificat.
+
+[order]
+s1,r1,s2,r1,s3,r1

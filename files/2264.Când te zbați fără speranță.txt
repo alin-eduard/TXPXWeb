@@ -1,0 +1,22 @@
+[s1]
+/:Când te zbați fără speranță
+În valurile de păcat
+Și în barca vieții tale
+Nu ai pe nimenea.:/x2
+
+[r1]
+Lasă-L pe Isus azi în barca ta
+Lasă-L să-ți conducă azi viața ta
+De valuri vei scăpa,
+Furtuna va-nceta
+La mal în Țara Sa,
+În glorie vei cânta
+
+[s2]
+/:Când te rogi fără-ncetare
+Și n-ai la ruga ta răspuns
+Tu așteaptă în tăcere
+Răspunsul lui Isus:/X2
+
+[order]
+s1,r1,s2,r1

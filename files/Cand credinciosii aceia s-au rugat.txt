@@ -1,0 +1,38 @@
+[s1]
+Când credincioşii-aceia s-au rugat
+Şi locu-acela s-a cutremurat,
+Ei au cerut, atunci, în rugăciuni,
+Să facă Domnul semne şi minuni.
+
+[r1]
+/: Cu ajutorul Duhului Sfânt :/
+Biserica se înmulţea,
+Şi tot mai tare ea creştea,
+Prin semne şi prin mărturii în fiecare zi.
+
+[s2]
+La poarta cea Frumoasă când s-au dus,
+Ei au chemat Numele lui Isus.
+Ologul în picioare a sărit
+Şi-n faţa lor el s-a tămăduit.
+
+[s3]
+Isus Cristos i-a binecuvântat
+Şi mulţi bolnavi prin ei s-au vindecat,
+Căci, până şi în umbra lor era
+Puterea şi Dumnezeirea Sa.
+
+[s4]
+Prin Duhul Sfânt când Petru a predicat,
+Trei mii aproape-odată s-au predat,
+Iar dup-aceea, într-o altă zi,
+Se mai predară înca doua mii.
+
+[s5]
+Iar când prigoana s-a dezlănţuit,
+Ei, prin cetăţi, au mers şi au vestit.
+Au străbătut pe ape şi uscat
+Şi la Cristos pe oameni i-au chemat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

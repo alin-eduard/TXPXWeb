@@ -1,0 +1,28 @@
+[s1]
+Am putea să-ţi spunem simplu
+"La mulţi ani" de ziua ta,
+Dar gândindu-ne la tine,
+Mult mai mult am vrea!
+
+[r1]
+Mulţi ani trăiască
+Plini de bucurie,
+Cu speranţă, pace şi iubire tot să fie,
+Mulţi ani trăiască,
+Mulţi ani trăiască
+La mulţi ani întreaga veşnicie!
+
+[s2]
+Dumnezeu să-ţi dăruiască
+Veşnicia Lui de har,
+Bucurie îngerească
+Fără de hotar!
+
+[s3]
+Către ţara nemuririi
+Fie-n veci visarea ta,
+Bate-n poarta fericirii
+Până vei intra!
+
+[order]
+s1,r1,s2,r1,s3,r1

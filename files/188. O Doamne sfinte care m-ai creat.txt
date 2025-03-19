@@ -1,0 +1,23 @@
+[s1]
+Mi m
+1. O Doamne sfinte care m-ai creat
+Eu acum la Tine am alergat:
+/:Gol sunt de la-nceput, îmbracă-mă
+În sângele Tău cel sfânt spală-mă:/
+188.
+
+[s2]
+2. Iar după ce pe mine m-ai spălat
+Te rog să-mi dai
+Din Duhul Tău curat.
+/:Să mă conducă sus în casa Sa
+Ca să mă pot cu Tine bucura!:/
+
+[s3]
+3. O, Sfinte Duh, ce Tu m-ai sigilat,
+Te rog pe Tine să mă ţii curat
+/:Să pot intra în Paradisul nou,
+Să mă bucur cu ceata sfinţilor.:/
+
+[order]
+s1,s2,s3

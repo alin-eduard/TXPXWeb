@@ -1,0 +1,51 @@
+[s1]
+1.        	Te-ai gândit vreodată în viaţă
+Căci tot ce-ai agonisit
+/ : Se va spulbera odată
+Ca o clipă-n infinit : /.
+1270.
+%	Dar tu ia seama acum
+Ulei ia pe-al tău drum
+/ : Că-n curând Isus El vine
+Şi te va-ntreba creştine
+Ce-ai lucrat cu darul
+Ce ţi-am dat %
+
+[s2]
+2.	Tu te-ai întrebat vreodată
+E Isus Păstorul tău
+/ : Sau la inima-ncuiată
+El şi azi bate mereu : /.
+%	Dar tu ia seama acum
+Ulei ia pe-al tău drum
+/ : Că-n curând Isus El vine
+Şi te va-ntreba creştine
+Ce-ai lucrat cu darul
+Ce ţi-am dat %
+
+[s3]
+3.        	Te-ai gândit atunci ce fapte
+Ai când totul s-a sfârşi
+/ : Dac’ a ta cărare frate
+N-ai păzit-o cum e scris : /.
+% Dar tu ia seama acum
+Ulei ia pe-al tău drum
+/ : Că-n curând Isus El vine
+Şi te va-ntreba creştine
+Ce-ai lucrat cu darul
+Ce ţi-am dat %
+
+[s4]
+4.    		Nu te-ngrijora căci toate
+Domnul Isus le-a plătit
+/ : Să te-ncrezi în El o frate
+Şi în braţul Lui slăvit : /.
+%	Dar tu ia seama acum
+Ulei ia pe-al tău drum
+/ : Că-n curând Isus El vine
+Şi te va-ntreba creştine
+Ce-ai lucrat cu darul
+Ce ţi-am dat %
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,38 @@
+[s1]
+Eu eram pierdut în lume,
+Despre Domnul nu ştiam
+Şi în loc de pace­n suflet,
+Chin nespus aveam.
+Zbucium şi îngrijorare
+Multă vreme am simţit
+Până când în marea­I milă
+Domnul m­a găsit.
+
+[r1]
+Astăzi, când servesc pe Domnul
+Mă simt foarte fericit,
+De Isus Hristos cel veşnic
+Eu sunt mântuit.
+
+[s2]
+Îmi urmez cu drag Stăpânul
+Orişiunde merge El,
+E Isus, Păstorul dulce,
+Eu sunt al Său miel.
+La păşune El mă duce,
+Tot ce vreau în El găsesc,
+Niciodată nu mă lasă
+Ca să rătăcesc.
+
+[s3]
+Vino, vino azi la Domnul
+Până încă eşti chemat,
+Lasă lumea şi păcatul
+Ca să fii salvat
+Căci Isus lăsă chiar cerul
+Şi pe cruce El muri,
+Fă şi tu un pas
+Şi sigur mântuit vei fi!
+
+[order]
+s1,r1,s2,r1,s3,r1

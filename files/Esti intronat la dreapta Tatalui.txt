@@ -1,0 +1,27 @@
+[s1]
+Eşti întronat la dreapta Tatălui
+Rege-al regilor, eşti încoronat
+Tu străluceşti ca soarele în zori
+Îngerii strigă şi-nconjoară
+Tronul Tău!
+
+[r1]
+/: Mielului divin să fie gloria
+Mielului divin fie victoria
+Mielului divin fie puterea
+În veci de veci, Amin! :/
+
+[s2]
+Duhul Tău şi slava Ta să vină,
+Din inimă acest strigăt se ridică:
+,,Vino, Isus, cu dragostea Ta,
+Aleşii Tăi te cheamă nencetat!”
+
+[s3]
+Toţi oamenii din fiecare ţară
+În Numele Tău vocile-şi înalţă
+În armonie vin cu toţi ’naintea Ta
+Binecuvântând Numele Tău Sfânt
+
+[order]
+s1,r1,s2,r1,s3,r1

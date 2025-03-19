@@ -1,0 +1,59 @@
+[s1]
+1. Poporaşul meu iubit
+/: Popor iubit :/
+Pentru Tine am suferit
+2. Şi am suferit moartea
+/: Popor iubit :/
+Pentru mântuirea ta.
+758.
+
+[s2]
+3. Şi am umblat cu crucea-n spate
+/: Popor iubit :/
+Pentru a tale păcate.
+4. Cunună de spini pe cap
+/: Popor iubit :/
+Până te-am răscumpărat.
+
+[s3]
+5. La Golgota loc de jale
+/: Popor iubit :/
+Pentru păcatele tale.
+6. Şi pe cruce când am stat
+/: Popor iubit :/
+Pentru tine m-am rugat.
+
+[s4]
+7. Şi am strigat l-al meu Părinte
+/: Popor iubit :/
+Te rog nu-ţi aduce aminte.
+8. De greşeli ce aţi făcut
+/: Popor iubit :/
+Şi pe Mine M-ai vândut.
+
+[s5]
+9. Ascultă poporul meu
+/: Popor iubit :/
+Ce-ţi vorbesc acuma eu.
+10. Nu te îndoi pe cale
+/: Popor iubit :/
+Că vine ziua cea mare.
+
+[s6]
+11. Când vei sta înaintea mea
+/: Popor iubit :/
+Cu fapta bună sau rea.
+12. Iar acei ce s-or sili
+/: Popor iubit :/
+Pe Mine de M-or sluji
+
+[s7]
+13. Nu vor sta la judecată
+/: Popor iubit :/
+Ci îşi vor primi răsplata.
+14. Şi răsplata le va fi
+/: Popor iubit :/
+Cu Mine în veşnicii.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

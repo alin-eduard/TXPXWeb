@@ -1,0 +1,51 @@
+[s1]
+407.
+1.Auzi pe un străin strigând
+/:Să-L primeşti:/ pe El
+Cu drag la uşa-ţi bătând
+/:Să-L primeşti:/ pe El
+
+[s2]
+Isus e cel care stă
+Să-I deschizi El aşteaptă
+Dă-I loc până nu pleacă
+/:Să-L primeşti:/ pe El.
+
+[s3]
+2.Nu auzi tu a Lui glas
+/:Să-L primeşti pe El:/
+Cum te strigă de cu drag
+/:Să-L primeşti:/ pe El
+
+[s4]
+El ţi-aduce bucurii
+Cu El la cină să fii
+Să-L alegi c-al Lui să fii
+/:Să-L primeşti:/ pe El.
+
+[s5]
+3.El demult stă întristat
+/:Să-L primeşti:/ pe El
+Isus care a răbdat
+Să-L primeşti pe El
+
+[s6]
+O, primeşte-L nu-L lăsa
+El şterge greşeala ta
+Sufletul ţi-a alina
+/:Să-L primeşti:/ pe El.
+
+[s7]
+4.Auzi tot afară stă
+/:Să-L primeşti:/ pe El
+Acum încă milă-ţi dă
+/:Să-L primeşti:/ pe El
+
+[s8]
+O grăbeşte nu-L lăsa
+Căci de ascunde faţa Sa
+Cum vei sta-naintea Sa
+/:Să-L primeşti:/ pe El.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

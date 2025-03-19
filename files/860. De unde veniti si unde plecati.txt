@@ -1,0 +1,60 @@
+[s1]
+860.Fa
+De unde veniţi şi unde plecaţi
+Iubiţi călători minunaţi
+Cu finici în mâini şi-n alb îmbrăcaţi
+Spre ce comoară alergaţi.
+/: Noi mergem că Isus
+Ne-aşteaptă pe nori
+Noi mergem la al nost' Mântuitor
+Cu Isus în ceruri în veci vrem să fim
+Cu El să ne veselim :/.
+
+[s2]
+2.  Dar hainele albe unde le-aţi găsit
+Şi cu ce fel de apă le-aţi albit
+Aşa strălucitoare noi n-am întâlnit
+Decât una-n ceruri la marele prinţ.
+/: Pe dealul Golgota izvor am aflat
+Şi hainele noastre acolo le-am spălat
+În sângele Mielului nevinovat
+În sângele Lui curat. :/
+
+[s3]
+3.  Măreaţa cântare ce o fredonaţi
+În cinstea cărui domn voi cântaţi
+Iar cununa sfântă din aur curat
+O, cine aşa pe voi
+Frumos va îmbrăcat.
+/: Acolo-n Calvar
+Un Domn am aflat
+Cunună de spini capul i-a-ncoronat
+Iar nouă în schimb
+Dacă L-am ascultat
+Cunună de aur ne-a dat. :/
+
+[s4]
+4.  Nimic n-am avut mai scump pe pământ
+Ca pe Domnul slavei
+Ce-a fost în mormânt
+Cu lacrimi mereu,
+Mereu ne-am hrănit
+De dorul iubitului nostru Isus.
+/: În al Său cuvânt
+El aşa ne-a promis
+Căci vom fi cu El cu toţii în Paradis
+Pe acela Isus noi îl căutăm
+Căci vrem să-L lăudăm :/.
+
+[s5]
+5.  E aproape venirea Mirelui pe drum
+Mireasa-L aşteaptă s-apară acum
+Deschis este cerul, iar pe bolta lui
+Apare Isus cu îngerii Lui.
+/: O, vino, o, Vino iubit Salvator
+O, vino să Te vadă întregul popor
+Căci anii s-au scurs peste două mii
+De când Te aşteptăm să vii :/.
+
+[order]
+s1,s2,s3,s4,s5

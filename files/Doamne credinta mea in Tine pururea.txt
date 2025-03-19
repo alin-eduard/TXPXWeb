@@ -1,0 +1,34 @@
+[s1]
+Doamne, credinţa mea
+în Tine pururea,
+O, bun Păstor!
+Eu stau-naintea Ta,
+predându-Ţi inima,
+Tu să domneşti în ea ca Salvator!
+
+[s2]
+Lasă iertarea Ta
+să-mi umple inima,
+O, Domnul meu!
+Tu m-ai iubit nespus
+când sus pe cruce pus
+Ai acceptat să mori în locul meu!
+
+[s3]
+Când suferise vin
+şi ne-ncetat suspin,
+Fii scutul meu!
+Iar noaptea far să-mi fii,
+dă-mi sfinte bucurii;
+Ştiu că mereu voi fi în harul Tău!
+
+[s4]
+Când moartea va veni
+şi viaţa voi sfârşi
+Pe-acest pământ,
+Atunci iubirea Ta,
+frica va-ndepărta,
+Şi mă voi bucura în cerul sfânt!
+
+[order]
+s1,s2,s3,s4

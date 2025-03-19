@@ -1,0 +1,29 @@
+[s1]
+1205
+1. Tot mai aproape
+Doamne lângă Tine
+Lumina Ta viața ce-o trăiesc
+Har și prin credință
+Doar cu Tine
+Spre veșnicie alături
+să pășesc.
+
+[r1]
+Cor: Cu Tine, doar cu Tine
+Cu Tine vreau alături
+să pășesc
+De Tine, doar de Tine
+De Tine să ascult să
+Te iubesc.
+
+[s2]
+2. Tot mai aproape
+Doamne lângă Tine
+Spre veșnicii cu Tine să pășesc
+Și dezlegat de tot ce aici
+mă ține
+Spre ceruri mai cu avânt
+Să mă silesc.
+
+[order]
+s1,r1,s2,r1

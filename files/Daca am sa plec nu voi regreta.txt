@@ -1,0 +1,21 @@
+[s1]
+Daca-am sa plec, nu voi regreta
+Dincolo de moarte,
+cand toate-s departe
+M-asteapta o viata ce-o doresc.
+E viata mea!
+
+[s2]
+Daca-am sa plec, in urma voi lasa
+O viata in care, cu lacrimi amare,
+Doream ne-ncetat sa nu fiu.
+Nu-i viata mea...
+
+[s3]
+Daca-am sa plec, ma voi bucura
+De-o viata in care, Isus este Soare,
+Si lacrimi in ochi nu vor fi.
+E viata mea!
+
+[order]
+s1,s2,s3

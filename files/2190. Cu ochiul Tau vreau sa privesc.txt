@@ -1,0 +1,36 @@
+[s1]
+2190
+1. Cu ochiul Tău vreau
+să privesc
+Și adevărul și minciuna
+/: Dă-mi harul acesta
+ce-l doresc
+O, Domnul meu
+întotdeauna :/(3x)
+
+[s2]
+2. Cu gura Ta să pot rosti
+Orice cuvânt ce vrea
+să-mi zboare
+/: Dă-mi harul acesta zi de zi
+O, Domnul meu cel bun
+și mare :/ (3x)
+
+[s3]
+3. Cu mâna Ta să pot lucra
+Pe ogorul Tău tot mai cucernic
+/: Dă-mi harul acesta în
+veci așa
+O, Domnul meu
+atotputernic :/ (3x)
+
+[s4]
+4. Ca să nu pot în nici un fel
+Să fac ceva ce nu-i din Tine
+/: Dă-mi harul Tău numai
+prin El
+Să merg din bine spre
+mai bine :/ (3x)
+
+[order]
+s1,s2,s3,s4

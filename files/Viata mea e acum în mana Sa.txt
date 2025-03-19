@@ -1,0 +1,25 @@
+[r1]
+/: Viaţa mea e acum în mâna Sa
+Orice ar fi, Domnul mă va păzi
+Chiar şi când prin moarte voi pasi
+Viaţa mea, eu ştiu e-n mâna Sa :/
+
+[s1]
+Pe pământ sunt călătorul, fără ţară,
+Ce zi de zi, mă lupt mereu, ca să înving
+Orice obstacol ce-mi poate sta în cale
+La Domnul meu,
+în Cerul Sus vreau să ajung.
+
+[s2]
+Când e greu şi totul
+parcă se sfârşeşte
+Când n-am pe nimeni ajutor,
+in jurul meu
+El mă conduce pe
+Cărarea Lui cea dreaptă
+Deşi e îngustă,
+ea ma duce sus în Cer.
+
+[order]
+r1,s1,r1,s2,r1

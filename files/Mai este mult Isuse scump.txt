@@ -1,0 +1,50 @@
+[s1]
+Mai este mult, Isuse scump,
+din noaptea-aceasta grea ?
+Mai este mult, mai este mult ?
+O, când vei apărea ?
+
+[s2]
+Străjerule, străjerule !
+Ah, zorii nu răsar !
+Mai este mult pân, vom sosi
+la-al cerului hotar ?
+
+[s3]
+Atâţi Te-aşteaptă azi, Isus,
+şi-n taină ard de dor
+Atâţi ar vrea ca să-i ridici
+la Tine-n albul nor.
+
+[s4]
+Atâţi ar vrea ca să le dai
+aripi de porumbel
+Să zboare sus la Tine-n rai,
+lângă preasfântul Miel.
+
+[s5]
+Mai este mult, Isuse drag,
+o, când o să ne iei ?
+Atâţi Te-aşteaptă azi în prag,
+aprinşi de dor văpăi.
+
+[s6]
+Atâţi Te-aşteaptă suspinând,
+veghind în noaptea grea
+Aprinşi de dorul Tău, Isus !
+O, când vei apărea ?
+
+[s7]
+Nu zăbovi, Isuse scump,
+grăbeşte ca să vii
+Căci zi de zi cad mulţi răpuşi
+şi căile-s pustii.
+
+[s8]
+Nu ne lăsa să disperăm
+ci vino mai curând
+Să fim pe veci de veci ai Tăi,
+cu Tine-n cerul sfânt !
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

@@ -1,0 +1,27 @@
+[s1]
+1160.
+1.          Dacă eşti al /: lui Hristos :/
+/: Nu te lepezi la-ncercare
+Ci-ţi păstrezi credinţa tare
+Pân’ la moarte cu ascultare
+Ca şi Domnul tău Hristos : /
+2.          Dacă eşti al /: lui Hristos :/
+/: Tu răspunzi la rău cu bine
+Şi primeşti cu drag pe oricine
+Şi te laşi jertfit pe tine
+Ca şi Domnul Tău Isus :/
+
+[s2]
+3.        Dacă umbli /: cu Isus :/
+/: Viaţa ta-i strălucitoare
+Supărarea iertătoare
+Rugăciunea-ncrezătoare
+Ca a Domnului Hristos :/
+4.        Dacă eşti al /: lui Hristos :/
+/: Suferinţa ta-i senină
+Dăruirea ta-i deplină
+Şi-nvierea ta-i divină
+Ca a Domnului Isus :/
+
+[order]
+s1,s2

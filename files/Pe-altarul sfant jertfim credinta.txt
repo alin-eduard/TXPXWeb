@@ -1,0 +1,32 @@
+[s1]
+Pe-altarul sfânt jertfim credinţa,
+Viaţa-ntreagă, ne-ncetat;
+Purtăm nădejdea-n biruinţă
+Şi-al Domnului cuvânt curat.
+
+[s2]
+/: Cântăm, cântăm şi ne rugăm, :/
+Mărire Ţie,
+/: O, Doamne-n veci, :/
+Mărire Ţie !
+
+[s3]
+Pe-altarul sfânt jertfim credinţa.
+De-apururi vom păşi mereu,
+Cu inima nevinovată,
+Să-L preamărim pe Dumnezeu.
+
+[r1]
+/: Cântăm, cântăm şi ne rugăm, :/
+Mărire Ţie,
+/: O,Doamne-n veci, :/
+Mărire Ţie !
+
+[s4]
+Pe-altarul sfânt jertfim credinţa,
+Iubirea noastră ne-ncetat
+Şi vom intra în cer în slavă
+Unde toţi sfinţii au intrat.
+
+[order]
+s1,s2,s3,r1,s4,r1

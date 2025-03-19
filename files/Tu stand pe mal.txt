@@ -1,0 +1,42 @@
+[s1]
+Tu, stând pe mal
+M-ai aşteptat în zori de zi.
+Tu, neobosit
+M-ai căutat şi m-ai găsit.
+Dar eu în larg eram
+Şi mă luptam în val pierdut.
+Tu m-ai chemat, şi eu, grăbit
+Am ascultat şi am venit!
+
+[s2]
+Blând mi-ai vorbit
+M-ai întrebat de-s obosit.
+La glasul Tău
+Am tresăltat în pieptul meu.
+De ce alergi mereu
+Pierdut în val, pe drumul greu?
+Eu n-am ştiut că-s rătăcit
+Tu m-ai chemat, şi am venit!
+
+[s3]
+Tu, stând pe mal
+La prânzul Tău m-ai invitat.
+Din apă peşti
+Cu mreaja eu am ridicat.
+Ce har, ce har măreţ!
+O noapte singur m-am trudit
+Tu m-ai chemat şi am venit
+În zori de zi la pescuit.
+
+[s4]
+De vrei şi tu
+Să-L întâlneşti pe-al mării ţărm
+Cu drag nespus
+Te-aşteaptă-n zori blândul Isus.
+O, lasă-al mării cânt!
+Isus te cheamă! Tu, hoinar
+Predă-te Lui cât mai curând
+Să-ţi dea salvarea Lui prin har!
+
+[order]
+s1,s2,s3,s4

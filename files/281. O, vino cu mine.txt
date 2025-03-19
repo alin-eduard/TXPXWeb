@@ -1,0 +1,27 @@
+[s1]
+1. O, vino cu mine,
+/:În casa sfântă!:/
+O, vino cu mine,
+În casa sfântă, unde e pace!
+281.
+
+[s2]
+2. Isus acolo-I Domn:
+/:În casa sfântă!:/
+Isus acolo-i Domn,
+În casa sfântă, unde e pace!
+
+[s3]
+3. Duhul Sfânt e acolo,
+/:În casa sfântă!:/
+Duhul Sfânt e acolo,
+În casa sfântă, unde e pace!
+
+[s4]
+4. Acolo doresc eu,
+/:În casa sfântă!:/
+Acolo doresc eu,
+În casa sfântă, unde e pace!
+
+[order]
+s1,s2,s3,s4

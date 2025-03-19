@@ -1,0 +1,46 @@
+[s1]
+1.Te rog, Stăpânul meu, Preabun!
+Prin Duhul să
+Mă-nţelepteşti.
+/:Să nu zidesc ce Tu dărâmi
+Să nu dărâm ce Tu zideşti:/
+1216
+
+[s2]
+În orice timp şi-n orice loc
+Lumina-mi fie căpătâi
+/:Să nu rămân
+Când Tu Te duci
+Să nu mă duc
+Când Tu rămâi:/
+
+[s3]
+3.Prin lumea
+Veacului de-acum
+Cu Adevărul să mă-ncingi
+/:Să nu resping ce Tu primeşti
+Să nu primesc
+Ce Tu respingi:/
+
+[s4]
+4.Din partea harului ceresc
+S-aleg şi eu cum Tu alegi
+/:Să nu culeg ce Tu arunci
+Să nu arunc ce Tu culegi:/
+
+[s5]
+5.Să-mi dai iubirea-n adevăr
+Să Te cunosc
+Mai mult cum eşti
+/:Să nu iubesc ce Tu urăşti
+Să nu urăsc ce Tu iubeşti:/
+
+[s6]
+Să-mi potriveşti viaţa mea
+Cu voia Ta în totul, tot!
+/:Ca a greși-n lucrarea Ta
+/:Nicicând:/
+Să nu mai pot:/
+
+[order]
+s1,s2,s3,s4,s5,s6

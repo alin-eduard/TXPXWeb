@@ -1,0 +1,28 @@
+[s1]
+De vei avea, prietene, pe Isus
+Drumul vieţii îţi va fi uşor
+Căci Isus este Cel ce a urcat Calvarul
+Ca să fii în El încrezător.
+
+[r1]
+Să nu te laşi condus decît de Isus
+Să nu crezi în gîndul cel rău!
+Căci Isus este
+Acel ce-ţi dă iubirea toata
+Aleluia, Isus e al tău!
+
+[s2]
+Ai auzit prietene de Isus?
+Ai auzit că-i Fiu de Dumnezeu?
+Te chem să vii acum
+naintea Celui veşnic
+Să-L urmezi acum pe al Său drum!
+
+[s3]
+Eu îţi doresc să Îl cunoşti pe Isus
+Şi pentru tine chiar am să mă rog
+Ca tu să fii acel ce vei căuta odată
+Să devii şi tu copilul Său
+
+[order]
+s1,r1,s2,r1,s3,r1

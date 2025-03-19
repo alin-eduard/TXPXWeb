@@ -1,0 +1,53 @@
+[s1]
+De-atâtea ori, la crucea Ta,
+Veneam să-mi plâng al meu amar,
+Să-mi amintesc că şi Tu-ai plâns,
+Când duceai crucea la Calvar.
+Şi-acuma vin să Te-ntâlnesc
+Să-Ţi las, Isus, povara mea;
+Vreau faţă-n faţă să-Ţi vorbesc,
+Să primesc mângâierea Ta.
+
+[s2]
+/: Tu plângi cu mine, o, Isus,
+Şi ştii al meu necaz,
+Iar lacrimile care-mi curg,
+Tu mi le-aduni
+Şi-mi ştergi al meu obraz. :/
+
+[s3]
+Eu stau plecat sub cruce, jos,
+Ţi-aud suspinu-n Ghetsimani;
+Aud preoţii cum sosesc
+Şi Iuda după ai săi bani.
+Dar vreau să-Ţi spun că sunt lovit
+Şi prigonit neîncetat.
+Aud, aşa precum ai zis,
+Şi când, spre Tatăl, ai strigat:
+
+[s4]
+/: „O, Eli, lama sabactani!
+O, Dumnezeul Meu,
+Sunt părăsit şi M-ai lăsat
+Între duşmani,
+Deşi Mi-aşa de greu." :/
+
+[s5]
+O, de-aş ajunge-n Ghetsimani,
+Ţi-aş mulţumi de mii de ori,
+Căci n-am nici aur şi nici bani
+Şi nici mulţime de comori.
+Tu m-ai primit şi m-ai iertat
+Şi viaţa pentru min' Ţi-ai dat.
+Te am pe Tin' şi mi-e de-ajuns,
+Cu Tine sunt un om bogat.
+
+[s6]
+/: Isuse, nu Te voi uita,
+În toată viaţa mea,
+Căci, ca tâlharul de pe cruce,
+m-ai primit
+În raiul strălucit :/
+
+[order]
+s1,s2,s3,s4,s5,s6

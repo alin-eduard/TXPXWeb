@@ -1,0 +1,30 @@
+[s1]
+Unde Domnul ne trimite
+Noi vom merge bucurosi
+In lucrarea lui cea sfanta
+Dupa placul lui Hristos.
+
+[r1]
+Misionari suntem cu Domnul
+Misionari pe-acest pamant.
+Suflete nemantuite
+La Isus cu drag chemand.
+Misionari suntem cu Domnul
+Misionari pe-acest pamant
+Calauza in lucrare
+E Isus prin Duhul Sfant.
+
+[s2]
+Tara unde ne trimite
+Nu-I departe e aici
+Sa vestim celor din noapte
+Si traind ca ucenici.
+
+[s3]
+Tineret porniti la munca
+Ceasul este pe sfarsit
+Insa nu uitati izbanda
+O aveti prin Duhul Sfant.
+
+[order]
+s1,r1,s2,r1,s3,r1

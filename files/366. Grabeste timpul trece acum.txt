@@ -1,0 +1,33 @@
+[s1]
+1. Grăbeşte timpul trece acum
+Te aşteaptă harul lui cel bun
+Să cazi sub jertfa lui Isus
+Căci harul Lui este de ajuns.
+366.
+
+[s2]
+2. Clipele trec şi viaţa ta
+De nu vii pierzi fericirea
+Nu sta pe loc nu-ntârzia
+Vino să-ţi ceri iertarea ta.
+
+[s3]
+3. Sufletul cum vei mântui
+Vino acum să nu întârzii
+Căci harul lui se-nchide acum
+Rămâi pierdut pe-al vieţii drum.
+
+[s4]
+4. Şi atunci vei plânge cu amar
+Dar totul va fi în zadar
+Vin la Isus pân’ nu-i târziu
+Predă-i sufletul cât eşti viu.
+
+[s5]
+5. Alege-ţi fericirea acum
+Spre cer spre al vieţii drum
+Pe Isus dacă nu-l primeşti
+Pe veci în iad te chinuieşti.
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,30 @@
+[s1]
+De vrei sa fii un binecuvântat
+Nu trebuie s–alergi la oameni
+Cu duh smerit si cugetul curat
+Cheama-L pe Isus.
+
+[s2]
+El da în dar fericirea
+viata si împlinirea,
+El spulbera orice teama Domn
+e pentru cei ce-L cheama.
+El sta pe tron si vegheaza
+zilele ce urmeaza,
+El ruga ta o asculta
+zilnic te binecuvânta.
+
+[s3]
+Credinta ta El o v-a rasplati
+Si staruinta-n rugaciune,
+Cum va lucra-ncurând te va uimi
+Esti în mâna Lui.
+
+[s4]
+Sa fii mereu atent la viata ta
+Cum o traiesti asa ramâne.
+Vezi oare, nu te-nseala inima?
+Da-i-o toata Lui.
+
+[order]
+s1,s2,s3,s4

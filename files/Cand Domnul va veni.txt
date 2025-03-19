@@ -1,0 +1,65 @@
+[s1]
+Cand Domnul va veni
+Cu glorie pe nori
+Cu zecile de mii
+Cu ingeri-n splendori
+Atunci vazatorul v-a fi plin
+De heruvimi si serafimi
+Arhanghelii cu toti vor rasuna maret
+
+[s2]
+Din trambite si din viori
+S-ar transforma-n cer si nori
+Cand Domnul v-a veni
+Sa i-a pe-ai sai copii
+
+[s3]
+Atunci la dreapta Sa
+Pe Petru-l vom vedea
+Pe Iacov si Ioan
+Pe tanarul Stefan
+Ne-om intalni cu Mihil
+Si cu ahanghelul Gavril
+Ce veste ne-a adus
+Nasterea lui Isus
+
+[s4]
+Sin jurul tronului vom sta
+Batranii se vor inchina
+Ne-om inchina si noi
+Impreuna cu ei
+
+[s5]
+Atunci Il vom vedea
+pe unicul Samuiel
+Pe Adam si pe Avram
+pe tanarul Daniel
+Ne-om intalni cu-ai nostri stramosi
+Batrani si tineri credinciosi
+La nunta-n vesnicii
+cu toti ne-om intalni
+
+[s6]
+Atunci si David va canta
+Cum n-a cantat din harfa sa
+Si vom canta u El
+Fii lui Israel
+
+[s7]
+Atunci cei din mormant
+cu toti vor invia
+Si plini de Duhul Sfant
+spre ceruri vom zbura
+Si-n jurul tronului ceresc
+V-a fi cortul Dumnezeiesc
+La fiul crisalin
+Sus in Ierusalim
+
+[s8]
+Si vom uita orice dureri
+La pomul vietii sus in cer
+Noi vom fi vindecati
+De pacate iertati
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

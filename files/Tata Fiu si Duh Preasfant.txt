@@ -1,0 +1,26 @@
+[s1]
+Tată, Fiu şi Duh Preasfânt,
+Fă­-Ţi locaş în al meu gând,
+Umple Tu fiinţa mea
+Ca să fii slăvit în ea.
+
+[s2]
+Pe cărarea către cer
+Mă condu în adevăr;
+Fără Tine rătăcesc,
+Calea bună n­-o găsesc.
+
+[s3]
+Sfinte Duh, lumină eşti,
+Tu credinţa mi­o­-ntăreşti
+Ca­-n lucrarea lui Hristos
+Să pot fi de mult folos.
+
+[s4]
+Duh al dragostei cereşti
+Ce putere-­mi dăruieşti,
+Mă condu pe drumul Tău
+Ca să Te iubesc mereu.
+
+[order]
+s1,s2,s3,s4

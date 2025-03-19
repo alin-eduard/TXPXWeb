@@ -1,0 +1,29 @@
+[s1]
+Nu mai fi trist, căci pentru tine
+S-a pogorît din strălucire
+Emanuel, să ne aducă
+Pace-n inimă.
+Sînt fericit
+Chiar dacă-am lacrimi pe-obraz!
+Iată secretul - in inimă-i Isus!
+
+[s2]
+Fericirea-i să-L ai pe Isus
+Şi să trăieşti numai cu Isus
+El în deşert e mană sfîntă
+Aici în inimă.
+Sînt fericit
+Chiar dacă-am lacrimi pe-obraz!
+Iată secretul - in inimă-i Isus!
+
+[s3]
+Vino la El acum degrabă
+El te ajută şi te spală
+De-al tău păcat, şi-n veci tu vei fi
+Sus lîngă Isus.
+Sînt fericit
+Chiar dacă-am lacrimi pe-obraz!
+Iată secretul - in inimă-i Isus!
+
+[order]
+s1,s2,s3

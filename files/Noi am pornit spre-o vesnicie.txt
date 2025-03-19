@@ -1,0 +1,38 @@
+[s1]
+Noi am pornit spre-o veşnicie,
+Spre Paradisul cel de sus.
+Unde mereu e bucurie,
+Iar Mire este El, Isus.
+Să ridicăm cu toţi privirea,
+Uniţi să fim ca niciodat’.
+Să înălţăm spre cer cântarea,
+Că este vremea de plecat.
+
+[r1]
+/: Noi am pornit spre-o veşnicie,
+Spre un cămin etern şi sfânt.
+Unde e numai bucurie,
+Pace deplină, veşnic cânt. :/
+
+[s2]
+Veniţi să aşteptăm pe Domnul,
+Să fim toţi gata pentru zbor.
+Să se adune tot poporul,
+Cu mic cu mare orice om.
+Că se zăresc lumini în zare,
+Ce prevestesc venirea Sa.
+Se-aud mereu, mereu semnale,
+Revine-n slavă Mesia.
+
+[s3]
+N-ai vrea şi tu amice dragă,
+Să te înalţi cu noi în zbor.
+Schimbă-ţi purtarea şi-a ta viaţă,
+Isus îţi este salvator.
+Acceptă-L pe Hristos ca rege,
+Si crede de-acum în jertfa Sa.
+Primeşte-L azi, te pocăieşte,
+Prin El tu ai mântuirea.
+
+[order]
+s1,r1,s2,r1,s3,r1

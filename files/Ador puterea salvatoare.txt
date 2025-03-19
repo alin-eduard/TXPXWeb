@@ -1,0 +1,44 @@
+[s1]
+Ador puterea salvatoare
+ce prin Isus m-a mântuit
+În braţele-ndurării Sale El m-a chemat căci m-a iubit…
+Schimbând de-acuma vechea-mi fire vreau să mă-mbrac
+în nemurire.
+
+[s2]
+Cu-a Ta nespusă gingăşie
+mă chemi la sânu-Ţi ne-ncetat
+Atras de-a Ta iubire sfântă cu trup şi suflet m-am predat
+Iubire scumpă ce lucrează,
+pe Tine sufletul Te-urmează.
+
+[s3]
+O, inima Ţi-o dau şi viaţa,
+Isuse Doamne, fii mărit,
+Căci Tu în locul meu pe cruce, murind, de moarte m-ai scutit…
+O, har, ce duci la mântuire,
+nu meritam aşa iubire!
+
+[s4]
+Pe când eram pierdut în lume, trăiam ca rob încătuşat,
+Te-am ignorat atâta vreme,
+dar Tu nicicând nu m-ai uitat…
+Cel păcătos de-ar vrea s-o ştie,
+el Te-ar urma pentru vecie.
+
+[s5]
+Al Tău sfânt Nume să-mi rămână  pe veci în minte-ntipărit
+Şi-a Ta iubire infinită,
+în inimă pân-la sfârşit!
+În vorbe-n fapte şi-n gândire
+să proslăvesc a Ta iubire!
+
+[s6]
+Fii lăudat de noi Isuse,
+izvor de viaţă nesecat,
+Cu cât vom bea din el, cu-atâta, am bea mai mult, neîncetat…
+Îţi mulţumim în veşnicie
+pentru această bogăţie!
+
+[order]
+s1,s2,s3,s4,s5,s6

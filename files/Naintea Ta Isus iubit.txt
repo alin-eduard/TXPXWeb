@@ -1,0 +1,32 @@
+[s1]
+’Naintea Ta Isus iubit
+Vin azi încrezător,
+Căci Tu de-aceea Te-ai jertfit
+Să-mi fii Mântuitor.
+Ah, dulce-i să ştii că stă scris:
+“Sunt gata să Te-ajut!”
+Tu bucurii din Paradis
+Mi-ai dat când Ţi-am cerut…
+
+[s2]
+Eu altceva nimic n-aduc
+Decât o vină grea…
+Ah, unde încotro s-apuc?
+Sper doar în mila Ta!
+În mine nu-i nimica bun,
+Tot ce-am făcut e rău;
+Nădejdea toată însă-o pun
+În ajutorul Tău!
+
+[s3]
+Gol nimeni n-a venit ‘napoi
+Din câţi te-au căutat
+Căci Tu pe toţi din mari nevoi
+I-ai scos când Te-au rugat!
+De-aceea dar, acum şi eu
+Cu lacrimi strig şi sper:
+Ah, mântuie sufletul meu,
+Nu mă lăsa să pier!
+
+[order]
+s1,s2,s3

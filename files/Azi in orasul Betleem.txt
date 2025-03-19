@@ -1,0 +1,32 @@
+[s1]
+Azi în oraşul Betleem,
+Ni s-a născut un prunc,
+Al cărui nume scump este Isus
+Profeţii din vechime L-au vestit pe El
+Pe Fiul de Împărat Emanuel!
+
+[r1]
+Să Îi cântăm, să Îl lăudăm,
+Pe Fiul de Împărat Isus,
+Lui să Îi cântăm, să ne închinăm,
+Căci nouă pace ne a adus.
+
+[s2]
+În noaptea aceea
+Cerul întreg s-a luminat
+De slava îngerilor ce Lui I-au cântat,
+Osana s-a născut Mesia aşteptat,
+Al lumii singur veşnic Împărat.
+
+[s3]
+Noi n-avem daruri,
+Ca si magii să Îi dăm,
+Dar vrem întreaga
+Viaţă Lui să Îi predăm,
+Nici aur, smirnă,
+Nici tămâie noi nu avem,
+În schimb dorim
+Ca veşnic să Îl lăudăm.
+
+[order]
+s1,r1,s2,r1,s3,r1

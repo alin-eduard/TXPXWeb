@@ -1,0 +1,48 @@
+[s1]
+1709                                                SOL
+1.Sunt un mesager,
+Rătăcitor prin lume
+Sunt un călător
+Spre patria de sus
+Mi-am pus harfa mea
+În slujba unui Nume
+Nume înălţat şi minunat Isus
+
+[r1]
+Cor:
+/:Lauda mea
+E pentru Împăratul
+Nimeni nu-i ca El aşa frumos
+Sfânt şi bun n-a fost
+Și nu e altul
+C-al meu Mire drag,
+Isus Hristos :/
+
+[s2]
+2. Cum să nu Îi cânt
+Când cu atâta milă
+M-a luat în braţe când eram zdrobit,
+Când celor din jur
+Le inspiram doar silă
+El m-a ridicat cu drag căci m-a iubit
+
+[s3]
+3.Voi cânta mereu
+Cât voi avea suflare
+Și-L voi preamări,
+Căci m-a iubit nespus
+Când mi-a fost mai greu
+În foc şi-n încercare
+Lângă mine-a stat aproape
+Doar Isus
+
+[s4]
+4.Spuneţi tuturor să ştie de iubire
+De iubirea Lui
+Şi-al Său belşug de har
+Orice muritor ce sincer la El vine
+Are viaţă-n veci
+Și mântuire-n dar.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

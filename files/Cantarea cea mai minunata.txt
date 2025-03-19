@@ -1,0 +1,38 @@
+[s1]
+Cântarea cea mai minunată
+Răsuna-va pe pământ,
+În ziua-aceea când veni-va
+Isus, cu-ai Săi din cerul sfânt.
+Acordul ei cel plin de farmec,
+Ne va uni cu-atâtea mii
+De îngeri care stau în ceruri
+Şi cântă sfinte melodii.
+
+[r1]
+/: Osanaa, Osana,
+Suna-va în inimile tuturor,
+Cântând slăvita biruinţă
+A Marelui Biruitor. :/
+
+[s2]
+Se va preda atunci în mâna
+Stăpânului adevărat
+Împărăţia lumii care
+A stat atâta în păcat.
+Se va-ntrona atunci dreptatea,
+Din veşnicii în veşnicii,
+În lumea ce de-atâtea veacuri
+Simţit-a negrele urgii.
+
+[s3]
+Iar cerul Său cel plin de slavă
+Unit va fi cu-acest pământ
+Şi vor dura în veşnicie,
+Prin numele lui Isus sfânt.
+Împărăţia păcii sfinte
+Va fi atuncea peste tot
+Şi toate-i vor cânta: “Osana!”
+Sfânt e Domnul Savaot.
+
+[order]
+s1,r1,s2,r1,s3,r1

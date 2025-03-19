@@ -1,0 +1,26 @@
+[s1]
+Aleluia rege`al regilor
+Aleluia miel Preasfant
+Aleluia Domn al Domnilor
+Tu esti Cel ce-a spus, Eu sunt!
+
+[s2]
+Tu conduci intregul univers
+Toate ascult`al Tau cuvant
+Tu din cer veghezi al lumii mers
+Tu esti Cel ce-a spus, Eu sunt!
+
+[s3]
+Aleluia scump Mantuitor
+Aleluia rege Sfant
+Aleluia mare Salvator
+Tu esti cel ce-a spus, Eu sunt!
+
+[s4]
+/: Eu Te iubesc, Doamne Te iubesc
+`Naintea Ta Doamne drag, ma plec
+Al meu Rege esti, Bucuria mea
+Tu esti tot ce am si eu sunt al Tau :/
+
+[order]
+s1,s2,s3,s4

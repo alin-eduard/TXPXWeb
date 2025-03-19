@@ -1,0 +1,90 @@
+[s1]
+1. În lumea aceasta eu sunt un străin
+A ei bucurii pentru mine sunt chin
+O dulce Isuse al meu scump Păstor
+În lumea aceasta eu sunt călător
+176.
+
+[s2]
+2. În lumea aceasta eu sunt ispitit
+Dar cred că pe calea ce
+Tu m-ai pornit
+Voi merge-nainte de rău m-oi lăsa
+În ceruri odată mă voi bucura
+
+[s3]
+3.În lume al meu suflet e doar călător
+Şi firea-mi suspină
+Şi aştept cu mult dor
+A ei slobozire dar când va suna
+Şi ceasul în care mă voi elibera.
+
+[s4]
+4.În lumea aceasta eu cât mai trăiesc
+Ajută-mă Doamne să mă pocăiesc
+Ca să fiu lumină în viaţa mea
+Cu faptele mele să pot lumina.
+
+[s5]
+5.În lumea aceasta eu mult nu voi sta
+Dar lumea când
+Doamne o vei judeca
+Eu milă la Tine atunci o să am
+Ca Lot din Sodoma şi ca Avraam.
+
+[s6]
+6. Poporul Tău Doamne
+E-n luptă mereu
+Cu cel ce-mi pândeşte sufletul meu
+Dar mulţi s-au predat lui
+Şi mulţi s-au retras
+Puţini sunt aceia ce au mai rămas
+
+[s7]
+7. Fugit-au din luptă acei ce-s fricoşi
+Acei nestatornici şi necredincioşi
+Dar cei ce Te ascultă ei nu vor cădea
+Va merge înainte biserica Ta.
+
+[s8]
+8. Căzut-au în luptă şi oameni viteji
+Răpuşi de ispite când nu erau treji
+Răniţi greu Isuse ei nu au mai putut
+Jăleşte poporul pe cei ce-au căzut.
+
+[s9]
+9. E adânc înţelesul de om pocăit
+Cuvântul Tău Doamne se cere păzit
+Pe calea cea îngustă
+Ne-ai spus deseori
+Nu vor putea merge
+Cei neascultători.
+
+[s10]
+10. De multe ori Doamne
+Noi te-am supărat
+Dar faptul că încă Tu ne-ai iertat
+Nu-i viaţă, nici faptă ce noi o avem
+Ci mila Ta Doamne ce încă o vedem
+
+[s11]
+11. Trăim astăzi vremuri ce s-au profeţit
+Puterea poporului Tău a slăbit
+Te cheamă poporul în lupta cea grea
+Te cheamă Isuse Biserica Ta.
+
+[s12]
+12. Ajută Isuse poporului Tău
+În crâncena luptă ce o dă cu cel rău
+De a păzi credinţa şi de a o urma
+S-ajungem la Tine Isuse am vrea.
+
+[s13]
+13. De aceea noi astăzi Isus
+Noi te chemăm
+Şi-n mâna Ta Doamne ne-ncredinţăm
+Noi singuri Isuse nimic nu putem
+Prin Tine Isuse suntem ce suntem.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12,s13

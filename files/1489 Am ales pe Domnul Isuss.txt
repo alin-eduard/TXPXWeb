@@ -1,0 +1,37 @@
+[s1]
+1489.      La
+Am ales pe Domnul Isus
+Al meu Bun Păstor
+Cu El sigur voi ajunge                              Sus învingător
+Sus în cer în strălucire                            Vreau să fiu şi eu
+Sus în cer în nemurire
+Sus cu Domnul meu.
+
+[s2]
+Cor: Un izvor de fericire
+Am găsit în Domnul meu
+Un izvor de apă vie este El
+Vino prietene aleargă                                     	    La izvorul mult dorit
+Este loc şi pentru tine                                         	    Vino să fii fericit
+
+[s3]
+2.Seara când răsare luna cheamă-l pe Isus
+Spune-i Lui în rugăciune tot ce ai de spus
+El te-ascultă te iubeşte ca pe Fiul Său
+Şi îţi dă în dar iertarea sufletului tău
+
+[r1]
+Cor:Un izvor de fericire
+Am găsit în Domnul meu
+Un izvor de apă vie este El
+Vino prietene aleargă
+La izvorul mult dorit
+Este loc şi pentru tine
+Vino să fii fericit
+
+[s4]
+3. Iar cand zorii se arată pe cerul senin Rugăciunea ţi-o înalţă Domnului divin
+Mulţumeşte-i ca El stie,fii încrezător Singur nicicând nu te lasă El e ocrotitor
+
+[order]
+s1,s2,s3,r1,s4,r1

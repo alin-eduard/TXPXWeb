@@ -1,0 +1,32 @@
+[s1]
+Spre ceruri urcă frate
+Chiar de drumul este greu
+Pe munte ca si Moise
+Să te-ntâlnesti cu Domnul tău.
+
+[r1]
+Curând ajungi acasă
+În locul sfânt si minunat
+Iar Domnul îti va da cununa
+Că nu ai coborât ci ai urcat
+
+[s2]
+Spre ceruri tu priveste
+Ca Stefan să faci la fel
+Când oamenii lovesc cu pietre
+Tu roagă-te si rabdă ca si el.
+
+[s3]
+Domnul ne asteaptă
+Cerul încă stă deschis
+Când pe portile mărete
+Vom intra în Paradis
+
+[s4]
+O ce mare fi-va ziua
+Când în slăvi în ceruri sfânt
+Se va auzi cântarea
+Sfintilor de pe pământ
+
+[order]
+s1,r1,s2,r1,s3,s4

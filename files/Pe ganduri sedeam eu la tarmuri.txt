@@ -1,0 +1,23 @@
+[s1]
+Pe gânduri şedeam eu la ţărmuri,
+Peste mare în larg eu priveam.
+În port ancorau vaporaşe,
+În zări alte abia se zăreau
+Frumos de plutesc ele-acuma,
+Izbite de valuri şi vânt;
+/: Distruse vor fi de naufragiu
+Şi-or sfârşi în adâncul mormânt. :/
+
+[s2]
+În duh, gândul meu mi se duce,
+Înapoi înspre timpul trecut.
+Un prieten plutea-n fericire
+Şi-apoi în adânc a căzut.
+Dar acum schimba-se-va timpul
+‘Nainte eu merg tot mereu;
+/: Puternic mă-ncred doar în Domnul,
+Numai El mă păzeşte de rău. :/
+End..
+
+[order]
+s1,s2

@@ -1,0 +1,28 @@
+[s1]
+Este un Domn si domneste în ceruri,
+El este Domn!
+Întunericului I-a zis “Fa-te lumină”,
+El este Domn!
+Cine-I ca El n-are sfârşit la zile,
+El este Domn!
+El vine-n putere când chemi
+al Lui nume,
+El este Domn!
+
+[r1]
+/: Arata-Ţi puterea, o, Domnul meu :/
+O, Domnul meu.
+
+[s2]
+Cuvântul Tău Doamne,
+e speranţa lumii,
+Eşti Dumnezeu!
+Prin a Ta tărie avem mântuire,
+Eşti Dumnezeu!
+Avere nu cerem, dar privim la cruce,
+Eşti Dumnezeu!
+Pe cei păcătoşi înainte-Ţi aducem,
+Eşti Dumnezeu!
+
+[order]
+s1,r1,s2,r1

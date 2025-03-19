@@ -1,0 +1,26 @@
+[s1]
+Glorie, Isuse Doamne,
+Ne-ncetat Ti se cuvine
+Pentru marea manturie
+Ce-am primit-o de la Tine!...
+
+[r1]
+Glorie, Isuse! Glorie, Isuse,
+Ti se cade ne-ncetat,
+Caci Tu ne-ai rascumparat.
+Glorie! Glorie!
+
+[s2]
+Pentru flacara iubirii,
+Taina fericirii pline
+Care ne-a aprins fiinta,
+Glorie Ti se cuvine!
+
+[s3]
+Pentru adevarul vesnic,
+Pentru ne-ntelesul bine,
+Pentru toate.. Pentru toate…
+Glorie Ti se cuvine!
+
+[order]
+s1,r1,s2,r1,s3,r1

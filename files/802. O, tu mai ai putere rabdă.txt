@@ -1,0 +1,53 @@
+[s1]
+802.
+O tu mai ai putere rabdă
+De când tot spui că numai poţi
+Ia uite-n urma ta ce valuri
+Şi-ai biruit până azi tot
+/: Mai rabdă :/ x3
+Căci Domnul te ajută mereu
+Priveşte ce slavă te aşteaptă
+Fii tare să-nvingi orice rău
+
+[s2]
+2. O lacrimi tu mai ai te roagă
+Stăruitor profund aprins
+Atât de mult ce poate acela
+Ce-n rugăciune e ne-nvins
+/: Te roagă :/ x3
+Căci Domnul te ascultă oricând
+Învins nu te da niciodată
+Nădejdea n-o pierde nicicând
+
+[s3]
+3. O tu ai încă foc iubeşte
+Curat, statornic, credincios
+Ca cel iubitor nu e nimeni
+Mai mult asemeni lui Hristos
+/: Iubeşte :/ x3
+Mereu cu iubirea dintâi
+Oricât te-ar costa legământul
+Statornic cu Domnul rămâi
+
+[s4]
+4. O tu ai încă glas vesteşte
+Cuvântul sfânt în jurul tău
+Că-n faţa Domnului nu-i nimeni
+Mai scump ca vestitorul Său
+/: Vesteşte :/ x3
+Răscumpără vremea de azi
+Curând înmiit vei culege
+Ce semeni acum în necaz
+
+[s5]
+5. Mai rabdă deci şi mai iubeşte
+Te roagă şi vesteşte oricând
+Căci lupta care-ţi pare azi lungă
+Se va sfârşi în curând curând
+Te roagă, iubeşte şi rabdă
+Vesteşte luptând necurmat
+Căci cea mai frumoasă cunună
+Purta-va acel ce a răbdat.
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,32 @@
+[s1]
+1.Biruitori, biruitori, biruitori suntem,
+Când mai deplin, când mai adânc, Isuse Te avem.
+În slujba Ta, în slujba Ta, înflăcăraţi pornim,
+Un rod bogat, un rod sublim, noi vrem să-Ţi dăruim.
+
+[r1]
+Ref:   Isus, Isus, Isus, Isus,
+Ce har etern pentru noi ai adus.
+/: Te lăudăm, Te lăudăm,
+Numele Tău, drag Isus, lăudăm:/
+
+[s2]
+2.Încredinţaţi, încredinţaţi, încredinţaţi mereu
+De harul Tău, de harul Tău, noi trecem orice greu,
+Şi ne păstrăm şi ne păstrăm senini şi-ncrezători,
+Când vin furtuni, când vin dureri, când ceru-i numai nori.
+
+[s3]
+3.Ne-ai pregătit, ne-ai pregătit, un viitor sublim,
+În stări de rai, în stări de cer, cu Tine-n veci să fim.
+Ce fericiri! Ce fericiri! Atunci noi vom trăi
+Căci noaptea grea se va sfârşi şi veşnic fi-va zi.
+
+[s4]
+Ref:    Isus, Isus, Isus, Isus,
+Ce har etern pentru noi ai adus.
+/: Te lăudăm, Te lăudăm,
+Numele Tău, drag Isus, lăudăm:/   Amin.
+
+[order]
+s1,r1,s2,r1,s3,s4

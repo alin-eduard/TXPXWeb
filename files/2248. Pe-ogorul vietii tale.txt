@@ -1,0 +1,33 @@
+[s1]
+2248
+1. Pe-ogorul vieții tale
+ai atâta muncă frate
+Atâtea buruieni ce cresc
+și-s printre flori udate.
+
+[r1]
+Cor: /: Tu ești chemat :/
+să le plivești,
+să uzi recolta sfântă
+/: Căci anii trec, tu te grăbești, Și ele se avântă :/.
+
+[s2]
+2. Și te trezești apoi că-n jur
+a năvălit neghina
+Iar altele de rău augur
+ce-ți iau încet cununa.
+
+[s3]
+3. În fiecare zi să smulgi,
+doar câte-un spin, doar unul
+Și-n locul lui un trandafir
+să pui spre-a da parfumul.
+
+[s4]
+4. C-așa făcând ogorul tău
+va fi-n curând grădină
+Când Grădinarul va veni
+te va lua-n lumină.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,26 @@
+[s1]
+Prin Isus am primit siguranţă
+Căci de păcat eu sunt iertat
+Prin Isus am primit şi viaţa
+Şi acum ştiu că sunt salvat.
+
+[r1]
+/: Isus, eşti sfânt şi minunat!
+Isus, fii binecuvântat!
+Isus, dorim să Te slăvim
+Şi numele să-Ţi preamărim! :/
+
+[s2]
+Prin Isus am primit o nădejde
+Ce nimeni n-a putut să-mi dea
+Şi-atunci când rătăceam prin noapte
+El a fost lumina mea.
+
+[s3]
+În Isus am primit eu voinţa
+Să pot mai mult să-nfăptuiesc
+Prin Isus am primit şi puterea
+Pe-a Sa cale să păşesc.
+
+[order]
+s1,r1,s2,r1,s3,r1

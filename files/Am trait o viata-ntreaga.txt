@@ -1,0 +1,33 @@
+[s1]
+Am trăit o viaţa-ntreagă
+Tot în lume şi-n păcat
+M-am gândit apoi la suflet
+Căci mă duc neîmpăcat.
+Fa M
+
+[r1]
+/: Un rai din cer şi-un rai frumos
+Unde este stăpân Hristos.
+Pe Tine noi Te aşteptăm
+Cu Tine să ne bucurăm. :/
+
+[s2]
+Am venit şi eu odată
+La acest mântuitor,
+Auzind această veste
+Că Isus e vegheator.
+
+[s3]
+Al Tău sânge scump Isuse
+M-a spălat de-orice păcat
+Din adâncul vieţii Tale
+Beau acum neîncetat.
+
+[s4]
+Voi servi de-acum ’nainte
+Numai Ţie Domn preasfânt
+Credincios până la moarte
+Vreau să fiu Isus iubit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

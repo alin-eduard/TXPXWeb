@@ -1,0 +1,35 @@
+[s1]
+Dumnezeu împărăţeşte
+Pe-ntreg pământul,
+Domnul este mare în Sion
+Noi lăudăm Numele Tău
+Cel Sfânt, drept şi mare,
+Te-nălţăm mai sus, mai sus,
+Mai sus ca Domn
+
+[s2]
+/: Cu putere, cu putere
+Ai schimbat viaţa mea :/
+Tu m-ai pus pe-o Stâncă tare,
+Ai luat povara mea,
+Şi mi-ai dat viaţă din viaţa Ta.
+
+[s3]
+Dacă te simţeşti vreodată
+fără de Tată
+Şi-ţi este ruşine de ce-ai făcut
+Spune-I Domnului
+îndată tot ce te-apasă
+Prin Isus: curat, liber
+vei fi de-acum.
+
+[s4]
+/: Cu putere, cu putere
+Ai schimbat viaţa mea :/
+Tu m-ai pus pe-o Stâncă tare,
+Ai luat povara mea,
+Şi mi-ai dat viaţă din viaţa Ta.
+Cu putere ai schimbat viaţa mea
+
+[order]
+s1,s2,s3,s4

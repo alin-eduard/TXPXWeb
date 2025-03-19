@@ -1,0 +1,27 @@
+[s1]
+/:Salvatorul meu îmi zice:/
+Salvatorul mei îmi zice:
+Ia-ţi crucea şi urmează-mi Mie.
+
+[r1]
+/:Unde merge-l voi urma Lui:/
+Unde merge-l voi urma Lui:
+Eu merg cu El oriunde-ar merge.
+
+[s2]
+/:Cu El merg în Ghetsimane:/
+Cu El merg în Ghetsimane:
+Eu merg cu El oriunde-ar merge.
+
+[s3]
+/:Merg cu El la judecată:/
+Merg cu El la judecată:
+Eu merg cu El oriunde-ar merge.
+
+[s4]
+/:Har şi glorie îmi dă El:/
+Har şi glorie îmi dă El:
+Eu merg cu El oriunde-ar merge.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,69 @@
+[s1]
+961.
+1. Fără număr se pierde în zare
+Marea gloată de răscumpăraţi
+Au sosit din necazul cel mare
+Ţin finic şi-n alb sunt îmbrăcaţi.
+Cor: Numeroşi ca nisipul pe maluri
+Numeroşi ca oştirea de stele
+O, ce măreţ va fi
+Când toţi sus ne vom găsi
+Strălucind ca oştirea de îngeri.
+
+[s2]
+2. Se adună ca de sărbătoare
+Mii de mii în Sionul de sus
+Sunt aceiaşi pribegiţi de sub soare
+Ce-au atins ţinta lor în Isus.
+Cor:	Numeroşi ca nisipul pe maluri
+Numeroşi ca oştirea de stele
+O, ce măreţ va fi
+Când toţi sus ne vom găsi
+Strălucind ca oştirea de îngeri.
+
+[s3]
+3. Din oceanul atâtor popoare
+Au ieşit necurmat credincioşi
+Nori de martori atraşi înspre soare
+Şi prin El au ajuns luminaţi.
+Cor:	Numeroşi ca nisipul pe maluri
+Numeroşi ca oştirea de stele
+O, ce măreţ va fi
+Când toţi sus ne vom găsi
+Strălucind ca oştirea de îngeri.
+
+[s4]
+4. Rând pe rând de aici se strămută
+În locaşul de Domnul zidit
+Înainte de zori ei salută
+Alte zări c-un luceafăr dorit.
+Cor:	Numeroşi ca nisipul pe maluri
+Numeroşi ca oştirea de stele
+O, ce măreţ va fi
+Când toţi sus ne vom găsi
+Strălucind ca oştirea de îngeri.
+
+[s5]
+5. Tot se strânge mereu neîntrerupt
+O armată din robi sloboziţi
+Biruind în a lumii grea luptă
+De Isus sunt ca regi proslăviţi.
+Cor:	Numeroşi ca nisipul pe maluri
+Numeroşi ca oştirea de stele
+O, ce măreţ va fi
+Când toţi sus ne vom găsi
+Strălucind ca oştirea de îngeri.
+
+[s6]
+6. Un semnal şi-ntr-o clipă învie
+Toţi cei ce-n Domnul au adormit
+Şi cu un trup proslăvit pe vecie
+Cu cei vii înspre cer sunt răpiţi.
+Cor:	Numeroşi ca nisipul pe maluri
+Numeroşi ca oştirea de stele
+O, ce măreţ va fi
+Când toţi sus ne vom găsi
+Strălucind ca oştirea de îngeri.
+
+[order]
+s1,s2,s3,s4,s5,s6

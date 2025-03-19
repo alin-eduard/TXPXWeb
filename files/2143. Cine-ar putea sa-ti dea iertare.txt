@@ -1,0 +1,19 @@
+[s1]
+2143
+1. Cine-ar putea să-ți
+dea iertare
+Pentru păcatul tău cel mare
+/: Cine-ar putea :/
+Isus dumnezeiescul Miel prin jertfa ce-a adus-o El
+/: El ar putea :/.
+
+[s2]
+2. Te crezi cu inima curată
+Și Lui Îi dai viața toată
+/: El îți va da :/
+/: Comori de har :/
+și fericiri fără hotar
+/: Cu mâna Sa :/.
+
+[order]
+s1,s2

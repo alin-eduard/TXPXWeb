@@ -1,0 +1,18 @@
+[s1]
+Sunt o mana de pamant
+In mana creatorului
+Sunt un bulgaras de lut
+In mana olarului
+Ma pune pe roata, si ma modeleaza
+Ma pune pe roata si ma prelucreaza
+
+[s2]
+/:Fa-ma un vas, un vas in casa Ta
+Fa-ma un vas, spre slava Ta
+Fa-ma cum vrei Tu
+Nu voi spune nu
+Te voi slavi pe Tine
+Doamne Dumnezeu:/
+
+[order]
+s1,s2

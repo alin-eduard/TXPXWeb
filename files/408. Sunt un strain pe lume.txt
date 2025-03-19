@@ -1,0 +1,34 @@
+[s1]
+1.Sunt un străin pe lume
+Sunt părăsit de toţi
+Şi-n cea mai
+grea-ncercare
+Alerg eu la Hristos.
+408.									   Re
+
+[r1]
+Cor:/:Am căutat fericirea
+Dar lumea nu mi-a dat
+Numai Isus e-acela
+Ce-n braţe m-a luat.:/
+
+[s2]
+2.Am alergat la oameni
+Să le cer ajutor
+Dar am văzut că şi ei
+Sunt nişte muritori.
+
+[s3]
+3.Am căutat mângâierea
+La omul păcătos
+M-am încrezut în basme
+Ce nu aveau folos.
+
+[s4]
+4.Azi nu mai plâng o clipă
+Privesc numai în sus
+Deşi dureri sunt multe
+Mă mângâie Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

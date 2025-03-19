@@ -1,0 +1,20 @@
+[s1]
+Lumina Soarelui, petala crinului
+Toate, toate-s mîna Ta.
+Înaltul cerului, răgetul leului
+Toate, toate-s voia Ta.
+
+[r1]
+Tu ne-ai creat ca să iubim lucrarea Ta
+Tu ne-ai creat ca să-ngrijim de ea
+Ea a crescut, şi-au apărut
+Muguri din iubirea Ta.
+
+[s2]
+Sclipirea lacului, culoarea cîmpului
+Toate, toate-s mîna Ta.
+Vuietul vîntului, puterea cuvîntului
+Toate, toate-s voia Ta.
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,45 @@
+[s1]
+1429.
+Vine o zi de judecata
+Pentru acei ce n-au crezut
+În cuvântul sfânt al vieţii
+Care-a fost de la-nceput.
+Rând pe rând vor trece oameni
+De orice neam de orice popor
+Care n-au slujit pe Domnul
+Şi-au trăit pe placul lor
+E aproape judecata
+De ce stai nepăsător
+/:  Ce vei face ce vei spune
+Marelui Judecător:/
+
+[s2]
+Clipa este foarte aproape
+Curând Domnul va suna
+Chiar şi morţii din morminte
+Ei cu toţi vor învia
+Ceice au adormit în Domnul
+De El vor fi răsplătiţi
+Vor primi cununa slavei
+Sus în rai vor fi primiţi.
+Nu vrei tu să scapi de moarte
+De osândă şi necaz
+/:Vin acum la pocăinţă
+Vino la Isus chiar azi:/
+
+[s3]
+Ce vei face ce vei spune
+Tu amice păcătos
+C-ai trăit o viaţă fără
+Să te predai lui Hristos
+Mai există acum o şansă
+De vrei să te pocăieşti
+Vino azi la mântuire
+Şi lui Isus să-I slujeşti
+E aproape judecata
+De ce stai nepăsător
+/:Ce vei face ce vei spune
+Marelui Judecător.:/				Amin.
+
+[order]
+s1,s2,s3

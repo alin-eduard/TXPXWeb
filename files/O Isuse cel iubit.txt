@@ -1,0 +1,26 @@
+[s1]
+O Isuse cel iubit care faci minuni
+Vino astazi printre noi ca sa ne mangai
+Pleacati sfanta fata Ta si ne asculta
+Si asa cum ne aflam ne binecuvanta
+
+[s2]
+Sunt fericit ca te simt in inima mea
+De-ar arde lumea cu foc eu voi ramanea
+Urle satana turbat eu n-am grija lui
+Stiu ca sunt rascumparat serv al Domnului
+
+[s3]
+Trei credinciosi de mult satan I-a prins
+Vrut-a in foc sai arda in cuptor aprins
+Dar tu mana ti-ai intins langa ei ai fost
+Si ai pazit pe robii tai c-au fost credinciosi
+
+[s4]
+Daniel foarte-nflacarat pentru Dumnezeu
+La lei a fost aruncat dar el e cel Tare
+Ai trimis ingeri tai gura le-a inchis
+Si-ai scapat pe robul tau dupa cum sta scris
+
+[order]
+s1,s2,s3,s4

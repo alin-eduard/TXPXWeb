@@ -1,0 +1,20 @@
+[s1]
+N-am să uit o, Doamne, niciodată
+Clipa când păcatul mi-ai iertat
+Şi nici ziua-ceea minunată
+Când pe mine m-ai iertat.
+
+[r1]
+N-am să uit nici lacrimile Tale
+Nici Calvarul Tău amar şi greu
+/: Ai schimbat tot sensul vieţii mele
+O, Isuse, Domnul meu :/
+
+[s2]
+N-am să uit o, Doamne, niciodată
+A Ta dragoste fără hotar
+Ce pe Golgot-a fost arătată
+Aleluia, măreţ har.
+
+[order]
+s1,r1,s2,r1

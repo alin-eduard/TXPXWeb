@@ -1,0 +1,44 @@
+[s1]
+1758.
+1. Am o cerere la Dumnezeu
+Şi-am depus-o la altarul Său
+Şi acum rămân încredinţat
+Domnul cererea mi-a rezolvat
+Cor:	//:Doamne:/ Te rog Doamne
+Cercetează-mi astăzi inima
+/:Doamne:/ Te rog Doamne
+Lucrează şi la problema mea:/
+
+[s2]
+2. Domnul nostru este minunat
+Şi lucrează pentru orişicine
+Cheamă suflete neîncetat
+Şi Domnul te va chema pe nume
+Cor:	//:Doamne:/ Te rog Doamne
+Cercetează-mi astăzi inima
+/:Doamne:/ Te rog Doamne
+Lucrează şi la problema mea:/
+
+[s3]
+3. Domnul inima o cercetează
+Căci Domnul cu inima lucrează
+Şi înţelepciunea omului
+Vine tot din braţul Domnului
+Cor:	//:Doamne:/ Te rog Doamne
+Cercetează-mi astăzi inima
+/:Doamne:/ Te rog Doamne
+Lucrează şi la problema mea:/
+
+[s4]
+4. Dacă-l chemi
+Pe Domnu-n stăruinţă
+Domnul îţi trimite biruinţă
+Dacă-I spui necazul numai Lui
+Ai să vezi puterea Domnului
+Cor:	//:Doamne:/ Te rog Doamne
+Cercetează-mi astăzi inima
+/:Doamne:/ Te rog Doamne
+Lucrează şi la problema mea:/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,41 @@
+[s1]
+În casa Ta, Doamne
+aud cuvântul Sfânt
+Cum nu mai pot s-aud
+nici unde pe pământ.
+Cuvântul Tău e plin
+de învăţături şi har
+Căci el e Da, Amin
+şi nu-i spus în zadar.
+
+[r1]
+/: O zi cu Tine de bucurii depline
+Şi răsplătiri divine
+Când simt al duhului Sfânt foc,
+O zi cu Tine Doamne
+eu ştiu prea bine
+Mai mult e pentru mine
+Decât o mie în alt loc. :/
+
+[s2]
+În casa Ta Doamne
+aud cântări şi văd,
+Cum nu mai pot s-aud
+nici unde-n univers.
+Şi sufletul nu-mi vrea
+din alt izvor să bea,
+Decât din cel divin
+şi har din casa Ta.
+
+[s3]
+În casa Ta Doamne
+genunchii când îmi plec,
+Şi pe veci mă tot ţii
+cu Tine eu petrec.
+Şi simt un sol divin
+în vasul însetat,
+La glasul Tău Amin
+răspund neîncetat.
+
+[order]
+s1,r1,s2,r1,s3,r1

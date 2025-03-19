@@ -1,0 +1,16 @@
+[s1]
+Te vad in apa lina, in susur de izvor
+In vantul ce adie asa usor
+Te vad in Univers, in tot ce ai creat
+O, cat de mare esti si minunat
+/: Te vad in tot ce ma-nconjoara :/
+
+[s2]
+Privesc la stele si vad ochii Tai
+Ma uit la flori si-Ti vad frumusetea
+La cer privesc si vad fata Ta
+Ma uit in jur si-Ti vad bunatatea
+/:Spre mine privesc si vad harul Tau:/
+
+[order]
+s1,s2

@@ -1,0 +1,34 @@
+[s1]
+Căci pentru mine a trăi este Hristos
+Iar a muri, o, da, e un câştig.
+Să-L iau de mână şi să merg
+Cu El pe calea Lui.
+O, nu-i iubire ca iubirea Lui!
+Mânia, ura-au dispărut,
+Iubirea-mi este scut
+Nu mă despart pe veci
+De-al meu Isus.
+
+[s2]
+Sunt multe lucruri
+Care încă nu le ştiu
+Dar de un lucru, da, eu sunt sigur,
+E că Acel ce m-a salvat
+Pe veci m-a şi spălat.
+Eu sunt voios că sunt răscumpărat.
+Mai multă veselie
+Nu-i pentru copiii Lui
+Dacât să umble-n voia Domnului.
+
+[s3]
+Cândva inima-mi era plină de păcat,
+M-am întâlnit cu Isus şi m-a vindecat
+Zicându-mi: “Vino la Mine,
+Purtând a mea cruce
+Eşti mântuit, prin Mine fericit! ”
+O, tu, popor al Domnului,
+Să cânţi spre lauda Lui
+Pân’ vom cânta cu toţi la masa Lui.
+
+[order]
+s1,s2,s3

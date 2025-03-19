@@ -1,0 +1,32 @@
+[s1]
+Doar o coliba aici jos îmi ajunge
+Argint şi aur n-am în casa mea.
+Dar în oraşul strălucirii divine
+Numai în aur eu voi umbla.
+
+[r1]
+/: Eu am locaşul acolo-n mărire
+în strălucirea ce n-o pot visa !
+Cândva acolo voi sfârşi alergarea
+Pe străzi de aur, în slava Sa ! :/
+
+[s2]
+Când vreo ispită îmi chinuie gândul
+Şi ca profetul pe piatră adorm
+Eu ştiu că-n ceruri, dincolo de stele
+Voi sta la masă cu al meu Domn.
+
+[s3]
+Să nu mă credeţi sărac şi nici singur
+Sufletul meu e de ceruri legat.
+Sunt călătorul ce-şi caută ţara
+Unde-i lumină neîncetat.
+
+[s4]
+/: Eu am locaşul acolo-n mărire
+în strălucirea ce n-o pot visa !
+Cândva acolo voi sfârşi alergarea
+Pe străzi de aur, în slava Sa !:/
+
+[order]
+s1,r1,s2,r1,s3,s4

@@ -1,0 +1,45 @@
+[s1]
+1653.   Fa m
+1. Te-aşteaptă al Tău popor
+Din valea plângerii
+Să vii şi să ne iei acasă
+Privind mereu spre cer
+Cu dor noi aşteptăm
+Să vină ziua glorioasă.
+
+[r1]
+Cor:	/: O Doamne vino mai curând
+Ca să scăpăm de-acest pământ
+Pe care adeseori
+Cu lacrimi l-am stropit
+O Doamne du-ne-n ţara Ta,
+Acolo-n veci ne-om bucura
+O Doamne vino,
+Vino te-aşteptăm :/
+
+[s2]
+2. Te aşteaptă cei bolnavi
+Ca orbul Bartimeu
+Să-i chemi cu dragoste pe nume
+Căci la al Tău cuvânt
+Pe veci ei vor scăpa
+De boli, lacrimi şi suspine.
+
+[s3]
+3. Te-aşteaptă cei flămânzi
+Şi toţi acei sărmani
+Ce-au cunoscut în lume sărăcia
+Dar Tu o scump Isus
+Eşti totul pentru noi
+Te-aşteaptă ca să vii Mesia.
+
+[s4]
+4. Cu toţii te-aşteptăm
+O Mire minunat
+Privind spre zările senine
+O vino te rugăm,
+Isuse te-aşteptăm
+Ne este-aşa de dor de Tine.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

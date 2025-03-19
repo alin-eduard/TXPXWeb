@@ -1,0 +1,35 @@
+[s1]
+1. Poporul Tău, Isuse,
+Te cheamă suspinând
+Să vii Tu mai degrabă,
+o clipă mai curând.
+Noi Te-aşteptăm Isuse să ne dai bucurii
+Şi când e greu aicea să vii să ne mângâi.
+724.								       Fa
+
+[r1]
+Cor:
+/: O, vino Tu Isuse
+Şi intră-n slujba Ta
+Arată-ţi Tu puterea
+Răpindu-Ţi mireasa. :/
+
+[s2]
+2. Când greul este mare
+spre ceruri noi privim
+Căci izbăvirea sfântă de-acolo noi primim.
+Când crucea Ta, Isuse, ne-apasă tot mai greu
+Privim noi spre Golgota
+şi Te aşteptăm mereu.
+
+[s3]
+3. Când vezi iubit
+Isuse că este tot mai greu
+Nu ne lăsa Tu singuri
+revarsă-Ţi harul Tău
+Ca inima zdrobită să se refacă iar
+Chemându-Te pe Tine
+Cu-al mântuirii har.
+
+[order]
+s1,r1,s2,r1,s3,r1

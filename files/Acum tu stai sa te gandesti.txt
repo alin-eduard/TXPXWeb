@@ -1,0 +1,33 @@
+[s1]
+Acum tu stai să te gândeşti
+La zilele ce le trăieşti
+La timpul care ţi s-a dat
+L-ai risipit neîncetat
+Ai vrea să dai timpul înapoi
+Să scapi de griji şi de nevoi
+Poate ai vrea chiar
+Să-l opresti dar nu uita
+E un dar ceresc.
+
+[s2]
+S-a dus, a mai trecut un an
+S-a scurs e parcă nici n-a fost
+Şi ce-a rămas a rămas în urma lui
+Poate împliniri sau poate amăgiri
+Acum când poţi să stai să te gândeşti
+Dacă mai laşi să treacă înca un an
+În care viaţa s-o trăieşti
+Departe de Isus de Dumnezeu.
+
+[s3]
+Anii vin trec se duc
+Şi tu rămâi pe gând pierdut
+Şti exact ce ai de făcut
+Dar amâni mereu amâni
+Îţi stă un an în faţa ta
+Să-l câştigi tu ai putea
+Să nu stai nepăsător
+Să lucrezi pentru Hristos.
+
+[order]
+s1,s2,s3

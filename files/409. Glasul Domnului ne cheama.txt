@@ -1,0 +1,49 @@
+[s1]
+409.
+La b
+1.Glasul Domnului ne cheamă
+Să privim cu toţii sus
+Ne spune pe faţă să trăim o viaţă
+Mai aproape de Isus.
+
+[s2]
+2.Este vremea de furtună
+Se desface al vieţii fus
+Azi te cheamă Domnul
+Să vină tot omul
+Mai aproape de Isus.
+
+[s3]
+3.Bucurie ca-n credinţă
+Nicăieri în lume nu-i
+Să băgăm de seamă
+Biblia ne cheamă
+Mai aproape de Isus.
+
+[s4]
+4.Acum înainte de moarte
+Ne cheamă Domnul Isus
+Biblia ne-nvaţă să trăim o viaţă
+Mai aproape de Isus.
+
+[s5]
+5.Vremurile cele bune nu mai sunt
+De mult s-au dus
+Şi în vremuri grele
+Astăzi ni se cere
+Mai aproape de Isus.
+
+[s6]
+6.Au trecut acele vremuri
+Alte zile au venit
+În lumina vieţii să trăim cu toţii
+Mai aproape de Isus.
+
+[s7]
+7.Deci şi tu frate creştine
+Să-nţelegi ce ţi s-a spus
+Şi cu bucurie toţi fraţii să vie
+Mai aproape de Isus.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

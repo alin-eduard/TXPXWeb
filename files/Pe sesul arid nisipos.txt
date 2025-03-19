@@ -1,0 +1,49 @@
+[s1]
+Pe şesul arid, nisipos, se-auzeau
+Cum se despărţeau greu, plângând;
+Pe Orpa, Naomi cu Rut o priveau
+Şi se-ndepărtau suspinând
+
+[s2]
+/: Să nu stai de mine, căci n-am să te las,
+Voi merge la tine şi eu!
+Al tău Dumnezeu şi popor mi-a rămas,
+Să fie de-acuma şi-al meu! :/
+
+[s3]
+Când ajuns-au la Betleem, l-au găsit, Din pricina lor, în tumult.
+„Naomi,"mai multe femei i-au vorbit
+„Nu eşti cea plecată demult?"
+
+[s4]
+/:Naomi, să nu-mi spuneţi iar pe pământ,
+Numiţi-mă de-astăzi aş vrea
+Doar Mara, că Atotputernicul Sfânt
+Cu-amar mi-a umplut viaţa mea :/
+
+[s5]
+Iar Rut ca nevastă-i luată de Boaz,
+Iubită-i acum de popor,
+E răscumpărată, degrab', din necaz.
+O binecuvântă în cor:
+
+[s6]
+/:S-o faci ca Rahela şi Lea ce-au zidit
+Poporul numit Israel!
+Arată-Ţi puterea, să-Ţi fie vestit
+Al Tău Nume şi-n Betleem! :/
+
+[s7]
+Din ai lor urmaşi, şi David a venit;
+Apoi S-a-ntrupat chiar Isus.
+Iar Rut este omul ce vine căit,
+Din Moab spre Ţara de Sus.
+
+[s8]
+/:Ca Neamuri, şi noi am trăit în Moab,
+Dar Domnul ne-a răscumpărat;
+Pe drumul credinţei, te-ntoarce degrab'!
+Din moarte, vei fi-n veci salvat! :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

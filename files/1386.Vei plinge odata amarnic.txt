@@ -1,0 +1,43 @@
+[s1]
+1386.
+1.  Vei plânge odată amarnic
+Pentru că tot la-i amânat
+La uşa stă astăzi zadarnic
+Şi tu mereu la-i refuzat.
+Cor: Ţi-ai pus întrebarea cum îţi este starea
+Căci Domnul va veni-ncurând
+Te-ntreabă eşti gata ca să primeşti plata
+La tot ce ai făcut pe pământ.
+
+[s2]
+Te întreabă o frate creştine
+Te întreabă eşti tu pregătit
+Te întreabă ce fapte ai cu tine
+Te întreabă ce ai să răspunzi.
+Cor: Ţi-ai pus întrebarea cum îţi este starea
+Căci Domnul va veni-ncurând
+Te-ntreabă eşti gata ca să primeşti plata
+La tot ce ai făcut pe pământ.
+
+[s3]
+Mai este puţin şi harul
+De pe pământ va fi luat
+Cât se mai iartă păcatul
+Prin sângele sfânt din Calvar.
+Cor: Ţi-ai pus întrebarea cum îţi este starea
+Căci Domnul va veni-ncurând
+Te-ntreabă eşti gata ca să primeşti plata
+La tot ce ai făcut pe pământ.
+
+[s4]
+4.  Vei plânge odată amarnic
+Dacă nu-l primeşti pe Isus
+Întoarce-te la Domnul cu lacrimi
+Până încă nu-i târziu.
+Cor: Ţi-ai pus întrebarea cum îţi este starea
+Căci Domnul va veni-ncurând
+Te-ntreabă eşti gata ca să primeşti plata
+La tot ce ai făcut pe pământ.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,32 @@
+[s1]
+Ştii tu, omule, ştii oare
+De ce a murit pe lemn Isus, Isus?
+Ştii tu cum de bunăvoie
+A fost răstignit pe lemn Isus, Isus?
+Şi la ceruri S-a rugat:
+<Iartă-i, Doamne, că nu ştiu ce fac!>
+Umilit şi-nsîngerat:
+<Iartă-i, Doamne, că nu ştiu ce fac!>
+
+[s2]
+Unde te aflai tu oare
+Locul tău de nu-l lua Isus, Isus?
+Ce văpăi ne-ndurătoare
+Te ardeau de nu-l lua Isus, Isus?
+Cînd la ceruri S-a rugat:
+<Iartă-i, Doamne, că nu ştiu ce fac!>
+Umilit şi-nsîngerat:
+<Iartă-i, Doamne, că nu ştiu ce fac!>
+
+[s3]
+De aceea El pe tine
+Te-a iubit şi te doreşte sus, Isus.
+Să ajungi şi tu în ceruri
+Şi să fii alături de Isus, Isus.
+De aceea S-a rugat:
+<Iartă-i, Doamne, că nu ştiu ce fac!>
+Umilit şi-nsîngerat:
+<Iartă-i, Doamne, că nu ştiu ce fac!>
+
+[order]
+s1,s2,s3

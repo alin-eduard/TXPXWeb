@@ -1,0 +1,45 @@
+[s1]
+1937
+1. O Doamne privește că eu nu mai pot
+Cuprinde catargul furtuna
+Iar valurile unul după altul
+Lovesc în corabie într-una.
+
+[s2]
+2. Ajunse-m pe oceanul cu vasul cel greu
+E noapte și drumul e o taină
+Plecat-au toți frații și singur sunt acum
+Și parcă mă prinde o spaimă.
+
+[s3]
+3. Un val se ridică se-nalță mai sus
+Ajunge vârtej la catarge
+Iar barca începe să intre la fund
+Căci valul tot mai jos o trage.
+
+[s4]
+4. Mai vino odată preasfânt Căpitan
+Și zi-i la furtună să tacă
+Căci valul de Tine el va asculta
+Și va fi liniște în barcă.
+
+[s5]
+5. Strigați cu putere și nu disperați
+Să vină din ceruri salvarea
+Căci valurile unul după altul
+Și parcă se-nfurie marea.
+
+[s6]
+6. Cu fața sleită azi Doamne numai pot
+Simțesc că putere-mi se gată
+Atunci Căpitanul transmite mesaj
+La țărm vom ajunge îndată.
+
+[s7]
+7. Mai rabdă puțin ucenic prea fricos
+Căci toată furtuna ce vine
+De tine nu se va atinge deloc
+Căci iată-l pe Isus că vine.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

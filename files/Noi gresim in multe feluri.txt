@@ -1,0 +1,50 @@
+[s1]
+Noi gresim în multe feluri
+Zilnic bem amăraciune
+Zilnic tu Isuse Doamne
+Şti a noastră slăbiciune.
+
+[s2]
+Dar pe calea pocăinţei
+De venim la Tine iară
+/:Ne primesti, Ne ierti, Ne vindeci
+Nu ne scoti nicicând afară:/
+
+[s3]
+Când nu-ti ascultăm porunca
+Si nu tinem bine seama
+Când mâhnire îti aducem
+Prin vorbire si prin faptă.
+
+[s4]
+De ne-ntoarcem către Tine
+Printr-o căintă amară
+/:Ne primesti, Ne ierti, Ne vindeci
+Nu ne scoti nicicând afară:/
+
+[s5]
+Zilnic noi trecând prin lume
+Ne-ntinăm frumoasa haină
+Si uităm mărturisirea
+De iubire Sfântă taină.
+
+[s6]
+Dar când lacrima căintei
+Tinde-n jos să ne răsară
+/:Ne primesti, Ne ierti, Ne vindeci
+Nu ne scoţi nicicând afară:/
+
+[s7]
+Cum sa-ti multumim o Doamne
+Pentru-atat bunatate
+Ce ne-o dai fara oprire
+Orisicand si pentru toate.
+
+[s8]
+Slava Slava si-nchinare
+Tie dragoste-i comoara
+/:Tu nu obosesti sa vindeci
+Si nu scoti nicicand afara:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

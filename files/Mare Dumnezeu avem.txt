@@ -1,0 +1,20 @@
+[s1]
+Mare Dumnezeu avem
+Îngerii-n lumină,
+Lui I se închină
+Mare Dumnezeu avem.
+
+[s2]
+Mare Dumnezeu avem
+Glorie, mărire, aleluia Ţie,
+Mare Dumnezeu avem.
+
+[s3]
+Isus este Domn al Domnilor
+Şi-mpărat al Împăraţilor
+El e cel mai mare,
+Putere şi splendoare
+Mare Dumnezeu avem.
+
+[order]
+s1,s2,s3

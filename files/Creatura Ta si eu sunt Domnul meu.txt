@@ -1,0 +1,30 @@
+[s1]
+Sol major
+Creatura Ta şi eu sunt, Domnul meu!
+Am fost ca şi omul fără Dumnezeu.
+Anii cei mai mulţi eu i-am risipit,
+Dar mă-ntorc din drumul cel nefericit.
+
+[r1]
+Vin la Tine…
+O, primeşte-mă!
+O, Isuse, mântuieşte-mă!
+Vreau să fiu al Tău de-acum!
+Aş vrea Să-Ţi slăvesc,
+o, Doamne, zilnic Faţa Ta
+
+[s2]
+Şi ca mine mulţi,
+chiar cei mai mulţi trăiesc
+Părăsiţi, săraci de dorul sfânt ceresc.
+O, ce bucurii ar gasi de-ar sti
+Doar prin Tine pot deschide veşnicii.
+
+[s3]
+Doamne-ascultă glasul ce-l îndrept acum,
+Să-i ajuţi să vină cei pierduţi pe drum;
+Adu ziua Ta, când vom fi Acas'
+Toţi cei mântuiţi, în sfântul Tău Locaş!
+
+[order]
+s1,r1,s2,r1,s3,r1

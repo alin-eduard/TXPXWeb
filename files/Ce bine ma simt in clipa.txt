@@ -1,0 +1,26 @@
+[s1]
+Ce bine mă simt în clipa cea grea
+Aud glasul Tău cum mă cheamă
+/: O, pune-mi în inimă liniştea Ta
+Şi scapă-mă, Doamne, de teamă! :/
+
+[s2]
+Mi-apucă Tu braţul, Părinte iubit
+Când marea mă-nvolbură-n spume
+/: Rămâi lângă mine la oricare pas
+Şi scapă-mă, Doamne, de lume! :/
+
+[s3]
+Ajută-mi privirea spre Tine s-o ţin
+Predată-nchinării depline
+/: Aşterne-o mahramă pe tot ce-i străin
+Şi scapă-mă, Doamne, de mine! :/
+
+[s4]
+Ce bine mă simt în ceasul cel greu
+Simt liniştea-n piept cum revine
+/: O, scapă-mă, Doamne, de tot ce-i al meu
+Şi umple-mă Doamne de Tine! :/
+
+[order]
+s1,s2,s3,s4

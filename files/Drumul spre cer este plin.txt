@@ -1,0 +1,68 @@
+[s1]
+Ti-aduci aminte ziua in care
+ISUS salvare ti-a dat
+Tu n-ai cuvinte sa-I ceri
+iertare pentru trecutul pacat
+Langa o cruce tu ai inceput
+un drum spre vesnicie
+Si I-ai promis ca vei merge
+pe el mereu pan’ la sfarsit
+
+[s2]
+Ti-aduci aminte ce fericire
+sufletul tau ti-a umplut
+Fiori de viata si de iubire
+in tine au renascut
+N-ai fi crezut ca poti da
+inapoi un pas nici o secunda
+Dar n-ai stiut cate vanturi
+si ploi vor vrea sa te ascunda
+
+[r1]
+Drumul spre Cer este plin deseori
+Cu spini si lacrimi in loc de flori
+Sa ‘naintez pe El nu e usor
+Drumul spre Cer trece prin Golgota
+Este ingust dar e drept nu uita
+Si e frumos cand porneste din inima ta
+
+[s3]
+Ti-aduci aminte clipa
+in care tu ai cazut obosit
+Stii amintirea si azi te
+doare primul tau pas gresit
+Furtuna lumii din jurul tau
+te-a prins ca-ntr-o capcana
+Sageti de foc iti umpleau
+trupul tot de rana langa rana
+
+[s4]
+Ti-aduci aminte soapte
+amare iti repetau esti pierdut
+N-aveai putere sa-ti ceri
+iertare si s-o iei de la-nceput
+Insa un glas de-aproape
+duios mi-a spus sunt langa tine
+Eu nu te las sa ramai
+singur jos o nu vin-o la Mine
+
+[s5]
+Mai sunt si astazi clipe
+in care vrei sa privesti inapoi
+Speranta piere lupta-i prea
+mare si te tarasti prin noroi
+Sa-ti amintesti insa cand esti
+cazut ISUS te mai iubeste
+In clipa grea e cu tine
+pe drum si nu te paraseste
+
+[s6]
+/:Drumul spre Cer este plin deseori
+Cu spini si lacrimi in loc de flori
+Sa ‘naintez pe El nu e usor
+Drumul spre Cer trece prin Golgota
+Este ingust dar e drept nu uita
+Si e frumos cand porneste din inima ta:/
+
+[order]
+s1,s2,r1,s3,s4,r1,s5,s6

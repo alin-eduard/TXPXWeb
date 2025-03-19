@@ -1,0 +1,43 @@
+[s1]
+1845
+1.O clipă mai așteaptă îți spune azi Isus
+Căci ziua e aproape când te voi duce sus
+În haine de lumină spre ceruri vei zbura
+Și în văzduh cu slavă te voi întâmpina.
+Cor: /:O vino Doamne astăzi te chemăm
+Și-n ficare zi te așteptăm
+Tu ne-ai promis Isus că vei veni
+Și într-o zi pe toți ne vei răpi:/
+
+[s2]
+2.Atâți bolnavi te-așteapată să vindeci rana lor
+O vino astazi Doamne și dă-le ajutor
+Mai spune doar o vorbă, rostește un cuvânt
+Ascultă-ne din ceruri căci te chemăm  									plângând.
+Cor: /:O vino Doamne astăzi te chemăm
+Și-n ficare zi te așteptăm
+Tu ne-ai promis Isus că vei veni
+Și într-o zi pe toți ne vei răpi:/
+
+[s3]
+3.Eu vreau acolo-n slavă să fiu cu toți cei dragi
+Nemântuiți Isuse te rog să nu îi lași
+Când vei veni Isuse pe toți să ne răpești
+Cu toți să stăm la masă și Tu să ne servești
+Cor: /:O vino Doamne astăzi te chemăm
+Și-n ficare zi te așteptăm
+Tu ne-ai promis Isus că vei veni
+Și într-o zi pe toți ne vei răpi:/
+
+[s4]
+4.Te vom privi cu toții  cât ești de minunat
+În haine albe sfinte pe toți ai să ne-mbraci
+Uita-vom de suspinuri de lacrimi și dureri
+Tu vei fi mângâierea iubit Emanuel.
+Cor: /:O vino Doamne astăzi te chemăm
+Și-n ficare zi te așteptăm
+Tu ne-ai promis Isus că vei veni
+Și într-o zi pe toți ne vei răpi:/
+
+[order]
+s1,s2,s3,s4

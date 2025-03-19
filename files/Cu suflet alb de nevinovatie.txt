@@ -1,0 +1,38 @@
+[s1]
+Cu suflet alb de nevinovăţie,
+Învioraţi de-atâtea frumuseţi
+/:Vin tinerii ca să-ţi aducă Ţie,
+Isuse, zorii albei dimineţi.:/
+Isus iubit, ca roua-mbelşugată,
+Venim ca să-Ţi aducem Ţie-n dar,
+/:În orice piept, o jertfă ne-nfricată
+Şi-n orice sân, un crin pe-al Tău altar:/
+
+[s2]
+Venim din văi de moarte şi ruine,
+Cu ochi scăldaţi în haru-Ţi minunat
+/:Că-atâtea sfinte bucurii, în Tine,
+Şi-atâta fericire am aflat.:/
+Din toate cele patru părţi a lumii
+Suim spre Tine mii şi zeci de mii
+/:Având pe buze, toţi, acelaşi nume
+Şi-n piept, aceleaşi sfinte bucurii.:/
+
+[s3]
+Ne-am dăruit deplin şi tuturora,
+Pământul pentru cer să-l cucerim
+/:Privind cu ochii-n lacrimi aurora
+Cerescului, dorit Ierusalim.:/
+Vom suferi şi moarte şi urgie
+Ştiind că în curând noi vom primi,
+/:Pe frunte-n fericita veşnicie,
+Cununi de slăvi şi sărutarea Ta.:/
+
+[s4]
+Ne bucurăm de ceasul tinereţii
+Căci Te-am găsit pe Tine, scump Isus
+/:Şi Te-om slăvi până la sfârşitul vieţii
+Cu bucurii la care ne-ai adus.:/
+
+[order]
+s1,s2,s3,s4

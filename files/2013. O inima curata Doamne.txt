@@ -1,0 +1,24 @@
+[s1]
+2013Fa
+1. /: O inimă curată Doamne
+Este tot ce-mi doresc
+Din partea Ta :/
+
+[r1]
+Cor: O inimă în care
+Răutatea să nu stea
+O inimă în care să domneşti
+Eu aş vrea
+O inimă deschisă
+Pentru Tine Domnul meu
+Să înalţe osanale către Tine
+Cel mai mare Dumnezeu
+
+[s2]
+2. /: O inimă deschisă,
+Doamne
+Este tot ce-mi doresc
+Din partea Ta :/.
+
+[order]
+s1,r1,s2,r1

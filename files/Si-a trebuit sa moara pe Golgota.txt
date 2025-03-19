@@ -1,0 +1,22 @@
+[s1]
+Şi-a trebuit să moară pe Golgota
+Al doilea Abel, coborît de sus
+Să sufere din greu şi să îndure
+Blestemul tot să-l şteargă - doar Isus.
+Atît de mult iubise
+Cel Sfînt pe păcătoşi
+Încît le dăruise
+Chiar pe Isus Hristos.
+
+[s2]
+Prin sîngele iertării de pe cruce
+Să fiţi spălaţi de tot ce nu e drept.
+El dă odihnă celui ce-L primeşte
+Şi-o inimă nouă îi pune în piept.
+Atît de mult iubise
+Cel Sfînt pe păcătoşi
+Încît le dăruise
+Chiar pe Isus Hristos.
+
+[order]
+s1,s2

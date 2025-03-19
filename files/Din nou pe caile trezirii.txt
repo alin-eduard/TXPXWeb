@@ -1,0 +1,32 @@
+[s1]
+Din nou, pe caile trezirii,
+Pe vechi carari ce-au fost dintai,
+Te-ntoarce iar, Mireasa sfanta,
+Caci sunt, si-au fost de capatai!
+
+[r1]
+Biserica, te pregateste,
+Te cerceteaza deslusit!
+Priviti la candele, fecioare!
+Caci miezul noptii a venit.
+
+[s2]
+Vegheaza-n bezna atipirii,
+Chiar daca-n urma ai vegheat
+Mergi iar, pe caile iubirii,
+Caci astazi poate le-ai uitat.
+
+[s3]
+Atatia au tinut aproape,
+Dar neveghind, au tot cazut
+Ce multi doresc sa aiba pace,
+Cum au avut la inceput...
+
+[s4]
+Asteapt-acum, acum asteapta!
+Prea mult, nu ai de asteptat;
+Ca fulgerul veni-va Isus,
+Te va lua, ce minunat!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

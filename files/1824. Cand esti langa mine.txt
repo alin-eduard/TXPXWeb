@@ -1,0 +1,51 @@
+[s1]
+1824.   La
+1. Când eşti lângă mine
+Nu mă tem de niciun rău
+Căci mă-ncred în Tine
+Mare Dumnezeu
+Cor:	/:Numai lângă Tine
+Doamne mă simt bine
+Ştiu că Tu mă ocroteşti
+Şi-n grea încercare
+Când furtuna-i mare
+Lângă mine Tu păşeşti(-alături  eşti):/
+
+[s2]
+2. Valurile vieţii
+Barca când mi-au clătinat
+Ca şi altădată
+Tu Isuse le-ai mustrat
+Cor:	/:Numai lângă Tine
+Doamne mă simt bine
+Ştiu că Tu mă ocroteşti
+Şi-n grea încercare
+Când furtuna-i mare
+Lângă mine Tu păşeşti(-alături eşti):/
+
+[s3]
+3. Meriţi pe vecie
+Doamne să fii lăudat
+Căci din grea robie
+Doar Tu m-ai salvat
+Cor:	/:Numai lângă Tine
+Doamne mă simt bine
+Ştiu că Tu mă ocroteşti
+Şi-n grea încercare
+Când furtuna-i mare
+Lângă mine Tu păşeşti(-alături eşti):/
+
+[s4]
+4. O nădejde vie
+În inimă mi-ai sădit
+Cred, deci cu tărie
+Doamne că m-ai mântuit.
+Cor:	/:Numai lângă Tine
+Doamne mă simt bine
+Ştiu că Tu mă ocroteşti
+Şi-n grea încercare
+Când furtuna-i mare
+Lângă mine Tu păşeşti(-alături eşti):/
+
+[order]
+s1,s2,s3,s4

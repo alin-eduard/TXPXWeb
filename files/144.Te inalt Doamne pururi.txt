@@ -1,0 +1,72 @@
+[s1]
+144.
+1. Te înalţ Doamne pururi
+Căci m-ai ridicat
+Pe vrăjmaşi să râdă
+Tu nu i-ai lăsat
+Am strigat spre Tine
+Doamne îndurător
+Tu m-ai ridicat
+Nu m-ai lăsat să mor.
+
+[s2]
+2. Doamne al meu suflet
+Din mormânt L-ai scos
+L-ai adus la viaţă,
+Dintre morţi L-ai scos
+Domnului cântaţi-I,
+Voi, cei preaiubiţi
+Şi slăvitu-I nume
+Pururi să-L măriţi
+
+[s3]
+3. Căci o clipă ţine
+El mânia Sa
+Însă îndurarea
+Veşnic va ţinea
+Seara vine plânsul,
+Chinul cel amar
+Dimineaţa vine veselia iar.
+
+[s4]
+4. Când îmi mergea bine
+Imi ziceam aşa
+Niciodată Doamne
+Nu m-oi clătina
+Căci pe un munte tare
+Tu m-ai aşezat
+Dar Ţi-ai ascuns faţa
+Și m-am tulburat.
+
+[s5]
+5. Doamne către Tine
+M-am rugat zicând
+Ce câştigi Tu Doamne
+Dacă mor curând
+Poate să Te laude
+Țărâna de jos
+Poate ca să spună
+Cât eşti de credincios?
+
+[s6]
+6. Doamne ascultă Doamne
+Fii îndurător
+Vino şi-mi ajută
+Că-s făr' de ajutor
+Şi Tu-n veselie
+Plânsul mi-ai schimbat
+Deslegându-mi jalea
+Şi m-ai bucurat
+
+[s7]
+7. Doamne al meu suflet
+Si inima mea
+Pururea să-Ţi cânte
+Mută să nu stea
+Doamne Domn al slavei
+Eu cât voi trăi
+Pururea pe Tine
+Te voi preamări.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

@@ -1,0 +1,39 @@
+[s1]
+1872
+1. /:Multă binecuvântare
+Să le dai la acești doi
+Și în drumul lor să fii Tu
+Să fii sprijin la nevoi:/
+
+[r1]
+Cor: /:Fericire , fericire
+Tu în viața lor să lași
+Dragoste și multă pace
+Niciodat' să nu-i desparți:/
+
+[s2]
+2. /:Dragostea e cea mai mare
+Dintre daruri pe pământ
+Unește-i Tu Doamne Sfinte
+În iubire orișicând:/
+
+[s3]
+3. /:Fă ca viața lor să fie
+Numai cânt și bucurie
+Și în drum pe-această cale
+Dă-le binecuvântare:/
+
+[s4]
+4. /:Unește-i în rugăciune
+Împreună orișicând
+Și la bine și la greu
+Să te cheme orișicând:/
+
+[s5]
+5. /:Iar acum luați aminte
+Căci pe-acest drum pe pământ
+Nu sunt doar zile cu soare
+Sunt și ploi mai  e și vânt:/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

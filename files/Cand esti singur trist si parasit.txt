@@ -1,0 +1,31 @@
+[s1]
+Când esti singur trist si părăsit,
+Si păcatul te-a prins în vraja sa.
+N-ai pe nimeni să-ti vină-n ajutor,
+Iar tu rămâi neputincios si gol.
+
+[r1]
+/:Dar tu nu uita El e salvarea ta,
+Numai la Isus tu vei găsi răspuns.:/
+
+[s2]
+Nu descuraja că totusi cineva,
+Are grijă li de viata ta.
+Te păzeste si în ceasul greu,
+Doar El stie tot necazul.
+
+[s3]
+Chiar si-atunci
+când viata ti se pare rea,
+Si povara din suflet este grea.
+Tu te roagă si cheamă-L pe Isus,
+Să fii sigur El are un răspuns.
+
+[s4]
+Eu nu voi uita El e salvarea mea,
+Numai la Isus eu voi găsi răspuns.
+Dar tu nu uita El e salvarea ta,
+Numai la Isus tu vei găsi răspuns
+
+[order]
+s1,r1,s2,r1,s3,s4

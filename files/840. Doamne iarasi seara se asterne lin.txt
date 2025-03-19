@@ -1,0 +1,70 @@
+[s1]
+840.                                                                          Do m
+1. Doamne iarăşi
+Seara se aşterne lin
+Ne aduce-n suflet
+Cald fior divin
+
+[s2]
+De la lucrul zilei
+Noi acum venim
+Prin cântări şi rugă
+Ca să-Ți mulţumim
+
+[s3]
+Ref:
+Fii slăvit, o, Doamne
+Înălţat nespus
+Pentru mântuirea
+Care ne-ai adus
+
+[r1]
+/: Dacă astă noapte
+Tu vei reveni
+În întâmpinare
+Noi vrem a ieşi :/.
+
+[s4]
+2. Ziua am parcurs-o
+Și cu biruinţi
+Dar în încercare
+Am căzut înfrânți
+
+[s5]
+Cerem îndurare
+Doamne, Te rugăm
+Dă-ne-acum iertare,
+Iar Te implorăm
+
+[r2]
+Ref:Fii slăvit, o, Doamne
+Înălţat nespus
+Pentru mântuirea
+Care ne-ai adus
+
+[s6]
+3. Luna-n crâng răsare,
+Stelele lucesc
+Sate şi oraşe
+În noapte strălucesc
+
+[s7]
+Doar din casa unde
+Este Domn Isus
+Rugi şi cântări sfinte
+Se înalţă-n sus.
+
+[s8]
+4. În tăcerea nopţii
+Cugetul e-ncins
+Face iar bilanţul
+Zilei ce s-a stins
+
+[s9]
+Adormim în pace,
+Tu ne dai deplin
+Ocrotire sfântă
+Doamne-Ți mulţumim.
+
+[order]
+s1,s2,s3,r1,s4,s5,r2,r1,s6,s7,r2,r1,s8,s9,r2,r1

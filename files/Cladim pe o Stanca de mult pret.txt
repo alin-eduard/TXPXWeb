@@ -1,0 +1,29 @@
+[s1]
+Clădim pe o Stâncă de mult preţ,
+Isus, piatra unghiulară,
+Furtuni şi cutremur, şi-orice vreţi
+Nicicând nu ne doboară!
+Noi clădim Pe Isus, noi clădim pe Isus,
+Clădim pe Isus, Stânca de mult preţ,
+Temei pus de profeţi!
+
+[s2]
+Nebuni sunt toţi care pe nisip
+Clădesc, şi-s robiţi plăcerii,
+Şi-n loc să se-ncreadă în Isus
+Se-nchină lor şi-averii…
+Noi clădim Pe Isus, noi clădim pe Isus,
+Clădim pe Isus, Stânca de mult preţ,
+Temei pus de profeţi!
+
+[s3]
+Veniţi de clădiţi pe adevăr,
+Pe Stânca de neclintire,
+Şi puneţi de-acum un bun temei
+Credinţii-n mântuire!
+Noi clădim Pe Isus, noi clădim pe Isus,
+Clădim pe Isus, Stânca de mult preţ,
+Temei pus de profeţi!
+
+[order]
+s1,s2,s3

@@ -1,0 +1,25 @@
+[s1]
+De-ai vrea să împărţeşti vreodată
+Din bogăţiile ce le-ai
+Din ale tale daruri multe
+Ţi-aş cere-o lacrimă să-mi dai.
+
+[r1]
+/: O lacrimă, o lacrimă :/
+O lacrimă să-mi dai !
+Te rog să-mi dai.
+
+[s2]
+Mi-ai dat atunci un strop în suflet
+Ce din adîncuri îmi răsare
+Numai din adîncul mării
+Se pescuiesc mărgăritare.
+
+[s3]
+De-ar fi să împărţeşti vreodată
+Din bogăţiile ce le-ai
+Şi ale tale daruri multe
+Ţi-aş cere-o lacrimă să-mi dai.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,44 @@
+[s1]
+Departe peste marii
+departe peste zarii
+In noaptea aceia grea
+cind m-am trezit
+Credeam ca am visat
+ceva s-a intimplat
+Dar mama tu ai plecat in vesnicii
+
+[r1]
+Eu stiu ca sus acolo-I
+asa de minunat
+Dar mama prea devreme
+de la noi tu ai plecat
+Eu stiu ca sus acolo-I asa de placut
+Dar mama tu ai plecat
+si noi nimica n-am stiut
+
+[s2]
+Talante de-as avea pe toate
+eu le-as da
+Ca sa te pot vedea o mama mea
+Caci mama tu te-ai dus
+si noua nu ne-ai spus
+Caci te-a chemat
+la El Domnul Isus
+
+[s3]
+La fiecare pas o mama al tau glas
+Parca-l aud mereu e glasul tau
+Cum tu ne-ai invatat
+pe brate ne-ai purtat
+La adunare tu ne-ai chemat
+
+[s4]
+Departe pe pamant mama
+de al tau mormant
+Departe peste mari eu locuiesc
+Dar stiu o mama mea
+ca iar ne vom vedea
+La nunta cea a mirelui ceresc
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

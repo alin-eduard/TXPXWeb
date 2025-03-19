@@ -1,0 +1,22 @@
+[s1]
+Când duhul sfânt revarsă
+putere, foc si har,
+Nădejdea, si credinţa,
+si dragostea răsar.
+El sufletul trezeste
+din nepăsarea lui,
+Făcându-l să cunoască
+puterea Domnului.
+
+[s2]
+Când Duhul Sfânt lucrează
+în sufletul zdrobit,
+El calea-i luminează
+si-l face fericit.
+Nu va cădea pe cale
+si-n drumul cel mai greu,
+In lacrimile sale
+trăieşte Dumnezeu.
+
+[order]
+s1,s2

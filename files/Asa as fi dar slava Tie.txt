@@ -1,0 +1,22 @@
+[s1]
+Aşa aş fi, dar slavă Tie
+Tu-mi eşti a vieţii bogăţie
+Comoara harurilor vie
+Ce mă inundă pe vecie
+Eu n-aş şti azi ce-i strălucirea
+Vieţii-n mii şi mii de feţe
+Si n-aş fi cunoscut iubirea
+Cu-nfiorări şi frumuseţe
+
+[s2]
+De n-ai fi fost Tu, bunătate
+Incepătorule a toate
+Cu taine-adânci şi minunate
+Ce totul vrea şi totul poate
+Tu m-ai suit în slăvi divine
+Din locu-ntunecatei tine
+Isuse, sunt ce sunt prin Tine
+Si-acum şi-n veacul care vine
+
+[order]
+s1,s2

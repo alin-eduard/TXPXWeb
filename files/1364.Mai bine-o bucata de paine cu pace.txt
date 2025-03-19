@@ -1,0 +1,54 @@
+[s1]
+1364.
+1.  Mai bine-o bucată de pâine cu pace
+În casa pe care voi azi o zidiţi
+Mai bine puţinul crescând cu dreptate
+Şi-un nume frumos de oameni creştini.
+Cor: Slujiţi lui Isus cu credincioşie
+Căminul ce astăzi voi îl formaţi
+Pe stânca iubirii zidit ca să fie
+Şi-n ziua răpirii să fiţi ne-ntinaţi.
+
+[s2]
+Chemat este Domnul ca martor la nuntă
+Şi astăzi vă zice ascultaţi dragi mei
+Tu iubite mire primeşte-o poruncă
+Iubeşte-ţi soţia ca pe ochii tăi.
+Cor: Slujiţi lui Isus cu credincioşie
+Căminul ce astăzi voi îl formaţi
+Pe stânca iubirii zidit ca să fie
+Şi-n ziua răpirii să fiţi ne-ntinaţi.
+
+[s3]
+Căci Hristos ca pildă s-a dat tuturora
+Iubindu-şi mireasa s-a dat pentru ea
+Tot astfel bărbatul iubească-şi nevasta
+Şi-n viaţă necaz să nu ţină pe ea.
+Cor: Slujiţi lui Isus cu credincioşie
+Căminul ce astăzi voi îl formaţi
+Pe stânca iubirii zidit ca să fie
+Şi-n ziua răpirii să fiţi ne-ntinaţi.
+
+[s4]
+4.  Noi astăzi nuntaşi chemaţi fiind la nuntă
+Dorim fericirea din ceruri s-aveţi
+Şi-n orice-ncercare tu frate întruna
+Să fii un bărbat cu noi calităţi.
+Cor: Slujiţi lui Isus cu credincioşie
+Căminul ce astăzi voi îl formaţi
+Pe stânca iubirii zidit ca să fie
+Şi-n ziua răpirii să fiţi ne-ntinaţi.
+
+[s5]
+Anim.
+5.  Iar tu surioară ce eşti azi mireasă
+O bună soţie să fii în viitor
+Să fii gospodină, să fii credincioasă
+Iar pentru-al tău mire un bun ajutor.
+Cor: Slujiţi lui Isus cu credincioşie
+Căminul ce astăzi voi îl formaţi
+Pe stânca iubirii zidit ca să fie
+Şi-n ziua răpirii să fiţi ne-ntinaţi.
+
+[order]
+s1,s2,s3,s4,s5

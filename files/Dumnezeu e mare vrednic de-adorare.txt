@@ -1,0 +1,43 @@
+[s1]
+Dumnezeu e mare,
+vrednic de-adorare,
+Să-I aducem închinare!
+Cu puteri divine glasul Său vorbeşte
+Celui care se smereşte.
+Cine vine să se-nchine
+Poate să-L cunoască
+Lauda să-I sporească!
+
+[s2]
+Dumnezeu e mare,
+Cel ce zi şi noapte
+Priveghează peste toate.
+Sfânt, sfânt, sfânt e Domnul,
+slavă şi onoruri
+Îngerii I-aduc în coruri.
+Doamne-ascultă şi ce-Ţi cântă
+Cu nevrednicie
+Vocea noastră Ţie.
+
+[s3]
+Bucuroşi lăsa-vom cele pieritoare
+Şi plăceri înjositoare.
+Voia noastră este să-Ţi dăm totul Ţie,
+Trup şi suflet pe vecie.
+Numai Tu ni-eşti de-acu
+Dumnezeu şi Tată
+Şi nădejdea toată!
+
+[s4]
+Tu lucrezi în toate,
+deci tot Tu înclină
+Faţa mea spre-a Ta lumină.
+Cum se-ntoarce floarea
+vesel să primească
+Raza soarelui să crească,
+Tot aşa eu aş vrea
+Razele-Ţi divine
+Ca să mă lumine
+
+[order]
+s1,s2,s3,s4

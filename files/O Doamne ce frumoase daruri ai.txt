@@ -1,0 +1,32 @@
+[s1]
+O, Doamne, ce frumoase daruri ai
+Şi toate oamenilor Tu le dai !
+De-aceea către Tine ne-ndreptăm
+Şi astfel Îţi cîntăm :
+
+[r1]
+Aleluia, Aleluia!
+Astfel, Doamne, Îţi cîntăm.
+Aleluia, Aleluia!
+Noi Te binecuvîntăm.
+
+[s2]
+Dar mai presus de toate-ai aşezat
+Iubirea - o, ce lucru minunat !
+Ne-o dă şi nouă astăzi, Te rugăm
+Şi-apoi o să-Ţi cîntăm :
+
+[s3]
+Şi cîte astăzi par de neînvins
+Se vor topi ca umbra unui vis
+Dar dragostea rămîne, şi prin ea
+Mereu Îţi vom cînta :
+
+[s4]
+Ne umple, Doamne, cu iubirea Ta
+Căci numai astfel vom putea vedea
+Splendoarea cerului şi faţa Ta
+Şi-Ţi vom putea cînta :
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

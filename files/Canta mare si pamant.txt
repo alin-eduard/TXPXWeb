@@ -1,0 +1,30 @@
+[s1]
+Cântă mare şi pământ,
+Pentru Slava Celui Sfânt
+El este Împarat în Ceruri
+Şi-n veci va domni.
+Cânta-I şi tu muritor
+Bunului Mântuitor
+Pentru viaţa ce-ai primit-o
+Doar prin mâna Sa.
+
+[r1]
+Pentru zi cu flori, pentru zi cu nori
+Pentru zile însorite
+Tu să-I mulţumeşti
+El în dar ţi-a dat Harul minunat
+Harul Sfânt al mântuirii,
+Să poţi fi salvat
+
+[s2]
+Braţul blândului Păstor
+Dăruieşte ajutor
+Celui ce este căzut pe cale
+Şi este rănit.
+Rana, El îî va lega
+Singur, El nu-l va lăsa
+Calea, o sfântă viaţă,
+Îi va rămânea.
+
+[order]
+s1,r1,s2,r1

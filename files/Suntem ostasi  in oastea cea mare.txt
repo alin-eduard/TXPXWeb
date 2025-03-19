@@ -1,0 +1,29 @@
+[s1]
+Suntem ostaşi în oastea cea mare
+A Domnului nost’ Isus Hristos.
+Lupta e grea, Iadul e-n picioare
+Biruinţa este a Domnului.
+Nu ne e frică, ştim care-i chemarea
+Uniţi în Domnul, vrem ca să luptăm
+Eliberăm pe cei târâţi la moarte
+Dumnezeu luptă azi pentru noi.
+
+[r1]
+Întăriţi-vă-n Hristos
+Şi-n puterea tăriei Sale,
+Cel ce locuieşte-n noi
+E mai mare şi mai tare
+Decât cel ce este în lume.
+
+[s2]
+V-am dat putere să călcaţi
+Peste şerpi şi peste năpârci
+Şi peste toată puterea celui rău,
+Nimic nu vă va vătăma
+Puterea sângelui e peste noi
+Şi Numele Său sfânt,
+Orice genunchi se va pleca
+Înaintea Celui sfânt.
+
+[order]
+s1,r1,s2,r1

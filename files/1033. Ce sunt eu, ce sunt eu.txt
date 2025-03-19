@@ -1,0 +1,67 @@
+[s1]
+1.	Ce sunt eu, ce sunt eu?
+Un fir de nisip în vânt,
+Sunt nimic pe pământ,
+Doar prin Tine sunt ce sunt.
+1033.                   							         Fa
+
+[s2]
+/:Eu nimic, Tu veşnicie,
+Eu sărac, Tu bogăţie.
+Ce sunt eu, ce sunt eu?
+Tu eşti totul Domnul meu.:/
+
+[s3]
+2. Ce sunt eu, ce sunt eu?
+O frunză purtată-n vânt,
+Sunt nimic pe pământ,
+Doar prin Tine sunt ce sunt.
+
+[s4]
+/:Eu, ţărână întinată
+Tu, a lumii jertfă dată,
+Ce sunt eu, ce sunt eu?
+Tu eşti totul Domnul meu.:/
+
+[s5]
+3. Ce sunt eu, ce sunt eu?
+O lumină pâlpâind,
+Sunt nimic pe pământ,
+Doar prin Tine sunt ce sunt.
+
+[s6]
+/:Eu, un păcătos din fire,
+Tu, a lumii mântuire,
+Ce sunt eu, ce sunt eu?
+Tu eşti totul Domnul meu.:/
+
+[s7]
+4.Ce sunt eu, ce sunt eu?
+O floare purtată-n vânt
+Sunt nimic pe pământ
+Dar, prin Tine, sunt ce sunt.
+
+[s8]
+/: Eu, durere, chin şi jale
+Tu, o sfântă sărbătoare!
+Ce sunt eu, ce sunt eu?
+Tu eşti totul, Domnul meu!:/
+
+[s9]
+5.Aşa-am fost fără har,
+Fără jertfa din Calvar
+Dar acum sunt salvat!
+Prin sfânt sânge sunt spălat!
+
+[s10]
+/: Îţi aduc azi osanale
+Că-s făptura mâinii Tale!
+Te slăvesc, Te măresc!
+Scump Isuse-Ţi mulţumesc
+Tu îmi eşti a mea iubire
+Partea mea de moştenire
+Te slăvesc, Te măresc
+Te slăvesc, Mire ceresc!:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

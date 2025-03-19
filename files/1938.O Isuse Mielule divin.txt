@@ -1,0 +1,30 @@
+[s1]
+1938
+1. O Isuse Mielule divin
+Ție mă predau azi pe deplin
+Pe-al Tău braț
+O Doamne eu simt alinare
+Primesc ușurare în clipe de-ncercare.
+
+[s2]
+2. Ale Tale planuri mult dorite
+Cu acelea locuri strălucite
+Cu Avram Isac când vom sta la masă
+Cunună aleasă vom purta pe cap.
+
+[s3]
+3. Mi se bucură inima în mine
+Și simt în suflet revărsări divine
+Și cu ochii-n lacrimi plini de bucurie
+Așteptăm Isuse ziua Ta să vie.
+
+[s4]
+4. Trăim clipa zilelor amare
+Dar veniv-a ziua de-ndurare
+Când nădejdea slavei va fi arătată
+Și orice întristare va fi-n veci uitată
+Cu Avram Isac când vom sta la masă
+Cunună aleasă vom purta pe cap.
+
+[order]
+s1,s2,s3,s4

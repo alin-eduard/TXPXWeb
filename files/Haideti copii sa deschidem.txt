@@ -1,0 +1,28 @@
+[s1]
+Haideti copii sa deschidem
+Cartea naturii si-n ea
+Sa rasfoim cate o fila
+Viata lor ne-a invatat
+Printre soparle si pasari
+Albine, fluturi, furnici
+Sa le ascultam azi povestea scrisa pentru cei mici
+
+[r1]
+Sa invatam Cartea Naturii ce spune
+Sa invatam caci Dumnezeu le-a dat nume
+Sa invatam Cartea Naturii ce spune
+Caci Dumnezeu e minunat
+Tot ce vedem lea creat pentru noi
+
+[s2]
+De vrei sa stii ce e harul
+uita-te la pestisorii
+Cat de frumos ei inoata,
+fara de apa ei mor
+Din floare in floare albina
+Alearga neincetat
+Invata sa aduci cei dulce
+Si vei fi cel mai bogat
+
+[order]
+s1,r1,s2,r1

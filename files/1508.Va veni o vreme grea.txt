@@ -1,0 +1,34 @@
+[s1]
+1508.
+1. Va veni o vreme grea /: vai :/
+Peste această lume rea   /: vai :/
+Care nu s-au pocăit
+Cât au fost pe acest pământ
+Și pe Domnul n-au iubit  /: vai :/
+2. Suferinţă îngrozitoare /: vai :/
+Peste ei va fi o jale
+Ce n-a fost şi n-a mai fi
+Câtă vreme vor trăi
+Multe plânsete vor fi /: vai :/
+
+[s2]
+3. Banii şi a lor avere
+Nu-i vor scăpa de durere
+Şi pe străzi vor alerga
+Plini de suferinţă grea
+Dar nimic nu-i va scăpa /: vai :/
+4. Dacă cerul nu va sta /: vai :/
+Nici pământul în faţa Sa /: vai :/
+Spune frate ce te faci
+Cu Domnul de nu te-mpaci
+Atunci unde ai să te bagi /: vai :/
+
+[s3]
+5. Dacă cerul nu va sta /: vai :/
+Nici pământul în faţa Sa /: vai :/
+Cum poate un păcătos
+Să stea-n faţa lui Hristos
+Că-i Stăpân şi sus şi jos /: vai :/
+
+[order]
+s1,s2,s3

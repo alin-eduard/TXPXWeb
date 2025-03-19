@@ -1,0 +1,27 @@
+[s1]
+Haideti cu toti azi spre cer sa privim
+Caci negura vremii se lasa
+Pamantul intreg de pacate plin
+Ah, Doamne, ne e dor de acasa
+Desfraul si ura azi lumea au cuprins
+Familiile sunt destramate
+Faclia iubirii-aruncata s-a strins
+Altarele sunt daramate
+
+[r1]
+/: Vine Domnul, vine Domnul
+Haideti cu toti sa veghem
+Undelemn zi de zi sa avem :/
+
+[s2]
+De astazi cu totii-nveghere sa stam
+In ruga sa cerem iertare
+Si haine murdare sa nu mai purtam
+S-alegem ingusta carare
+Cu-o-inima-ntreaga sa il asteptam
+Pamantul sa nu ne mai lege
+A noastra privire spre cer sa-ndreptam
+Pe nori se arat-al nost rege
+
+[order]
+s1,r1,s2,r1

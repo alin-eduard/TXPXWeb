@@ -1,0 +1,51 @@
+[s1]
+6
+Tu totdeauna, Doamne, eşti cu mine
+Şi nici o clipă singur nu mă laşi,
+Tu eşti mereu puterea ce mă ţine
+Din cel dintâi la cel din urmă pas.
+
+[s2]
+5
+Tu nu mă laşi şi nu mă uiţi vreodată,
+Străbat cu Tine munţi înalţi şi lunci,
+Eu n-am să văd nici moartea niciodată,
+Cu Tine-alături am să fiu şi-atunci.
+
+[s3]
+4
+Cu Tine-n gând străbat în zori cărarea,
+Cu Tine-n gând, veghez în ceas târziu,
+Când Tu mă mustri simt în piept mustrarea
+Şi când Te bucuri totdeauna ştiu!
+
+[s4]
+3
+Tu nu m-alungi Isuse de la Tine,
+Ci eşti mereu în mine ca o stea,
+Mi-ai pus în suflet, Doamne, o speranţă
+Cum nu e nimeni să mi-o poată da!
+
+[s5]
+Au fost odată râuri de păcate
+Dar sângele salvării a scris "Nu!",
+Oricâte-au fost, eu le-am uitat pe toate
+Şi bine ştiu că le-ai uitat şi Tu.
+2
+
+[s6]
+1
+Sunt fericit chiar dacă vrei să sufăr,
+Când valuri vin şi vânturi grele bat,
+Plutesc pe ape ca un fir de nufăr
+Pe care Tu-l păstrezi mereu curat!
+
+[s7]
+0
+Îţi mulţumesc că eşti cu mine-n lume,
+Îţi mulţumesc că mă iubeşti mereu,
+Îţi mulţumesc că Tu mi-ai dat un nume,
+Că-n Tine sunt şi Tu eşti Dumnezeu!
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

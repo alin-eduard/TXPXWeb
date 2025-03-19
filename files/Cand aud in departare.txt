@@ -1,0 +1,32 @@
+[s1]
+Când aud în depărtare lupte,
+zgomot mare
+Atunci ştiu că mulţi
+sunt prinşi de păcat viclean.
+îndoiala şi frica iar le fac chemare
+Nimic nu mă scoate din Canaan.
+
+[r1]
+/: Eu locuiesc pe munte
+sub un cer clar şi senin.
+Eu beau din izvorul care totdeauna-i plin.
+O, da, eu mă hrănesc cu mana
+Care-o aflu pe deplin
+Căci eu locuiesc în Canaan. :/
+
+[s2]
+Jos furtuna şi-ndoiala lumea o frământă
+Omenirea e în luptă cu vechiul duşman
+Dar eu sunt cu a mea
+viaţă în cetatea sfântă
+Şi n-am frică că sunt în Canaan.
+
+[s3]
+Bată vântul cât îi place,
+nimic nu-mi va face
+Adăpost şi siguranţă la Domnul eu am.
+Acolo e strălucire, linişte şi pace
+Eu pe veci sunt sigur în Canaan.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,34 @@
+[s1]
+Doamne simt ca m’am schimbat
+Din tot ce’a fost nimic,
+n’a mai ramas
+Credinta mea e la pamant
+Si vreau sa recunosc
+C’am gresit in fata Ta
+Dar nu stiu cum sa ma rog
+Nici nu stiu cum sa iti spun
+Doar prin harul Tau acum
+Cu toata fiinta mea
+
+[r1]
+Voi canta Te voi lauda
+Si in clipe grele cand
+Tot ce pot e doar sa plang
+Voi canta Te voi lauda
+Si cu toata fiinta mea
+Doamne Te voi onora
+Voi canta
+
+[s2]
+Doamne’mi’este asa de greu
+Sa’nteleg cum poti ierta mereu
+M’am departat de Dumnezeu
+Si vreau sa recunosc
+C’am gresit in fata Ta
+Dar nu stiu cum sa ma rog
+Nici nu stiu cum sa iti spun
+Doar prin harul Tau acum
+Cu toata fiinta mea
+
+[order]
+s1,r1,s2,r1

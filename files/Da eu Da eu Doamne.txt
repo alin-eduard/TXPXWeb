@@ -1,0 +1,34 @@
+[s1]
+/: Da eu! Da eu! Da eu! Doamne,
+Eu trebuie să mă rog! :/
+
+[s2]
+Rugăciunea mamei mele
+nu este de-ajuns:
+Eu trebuie să mă rog!
+Rugăciunea  tatălui meu
+nu este de-ajuns:
+Eu trebuie să mă rog!
+
+[r1]
+/:Da eu! Da eu! Da eu! Doamne,
+Eu trebuie să mă rog!:/
+
+[s3]
+Rugăciunea sorei mele
+nu este de-ajuns:
+Eu trebuie să mă rog!
+Rugăciunea fratelui meu
+nu este de-ajuns:
+Eu trebuie să mă rog!
+
+[s4]
+Nu păstoru-nvăţătorul,
+ci chiar eu,Doamne:
+Eu trebuie să mă rog!
+Nu vecinii, nici străinii,
+ci chiar eu Doamne:
+Eu trebuie să mă rog!
+
+[order]
+s1,s2,r1,s3,r1,s4,r1

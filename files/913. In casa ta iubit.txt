@@ -1,0 +1,33 @@
+[s1]
+913
+În casa ta iubit prieten
+Conducător să-ți fie Isus
+Să nu dai loc nicicând la ceartă
+C-așa-i s-ajungi în ceruri sus
+
+[r1]
+Cor: Mai bine o bucată de pâine uscată
+Iubire și pace în casa ta
+Decât o casă plină cu cărnuri
+Cu ceartă n-o s-ajungi în rai
+
+[s2]
+2. În casa ta iubit prieten
+Să nu dai loc la ce e rău
+Cuvântul sfânt scris în Scriptura
+În inimă să-l porți mereu.
+
+[s3]
+3. In casa ta iubit prieten
+Vecinii tăi s-audă mereu
+Cântări de laudă și slavă
+Mărind pe bunul Dumnezeu.
+
+[s4]
+4. Să ne ferim cu toți de ceartă
+Că ea vine de la cel rău
+Mai bine cântă o cântare
+Acolo este Dumnezeu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

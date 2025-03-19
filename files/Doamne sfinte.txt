@@ -1,0 +1,38 @@
+[s1]
+Doamne sfinte, prea-ndurate
+Vino, fii şi azi cu noi,
+Astăzi şi întotdeauna
+Protejează-ne-n nevoi!
+
+[s2]
+Indrepteaza paşii noştri
+Pe al vieţii drum spinos,
+De ispită ne fereşte
+Şi de tot ce-i stricăcios.
+
+[s3]
+Dă-mi si azi din apa vieţii
+Un pahar de viata plin,
+Da-mi Te rog si mana sfanta
+Din al vietii pom divin.
+
+[s4]
+Lasă soarele dreptăţii
+Să-şi reverse peste noi
+Razele vindecătoare
+Ce creează inimi noi.
+
+[s5]
+Vino te implor , Părinte,
+Fă din noi un Templu sfânt,
+Tu în noi şi noi în Tine
+Cât vom fi pe-acest pământ.
+
+[s6]
+Ca făpturi din nou născute,
+Facle pururi vii să fim
+Prin purtări şi fapte sfinte
+Numele să-Ţi proslăvim!
+
+[order]
+s1,s2,s3,s4,s5,s6

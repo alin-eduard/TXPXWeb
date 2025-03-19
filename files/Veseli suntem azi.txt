@@ -1,0 +1,22 @@
+[s1]
+Veseli suntem azi,
+Din nou e o zi cu soare
+Foarte bucuroşi,
+O vom trăi pentru Isus
+Pentru cei din jur,
+Vom fi şi noi lumină
+Zi de zi vom trăi
+Doar pentru Isus.
+
+[s2]
+Veseli suntem azi,
+Isus e al nostru soare
+Şi de pe cer
+Toţi norii vor pleca,
+Veseli suntem azi,
+Din El avem lumină
+Zi de zi,
+În lumina Lui vom umbla
+
+[order]
+s1,s2

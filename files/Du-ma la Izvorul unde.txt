@@ -1,0 +1,26 @@
+[s1]
+Du-mă la Izvorul unde
+Curge harul tău mereu,
+La Golgota, unde trece
+Setea sufletului meu.
+
+[r1]
+Du-mă la izvorul
+ce mă spală de păcat.
+Sângele lui Isus
+pentru mine s-a vărsat
+
+[s2]
+Du-mă la izvorul unde
+Va pieri orice păcat,
+Şi de orice legătură
+Sufletul va fi scăpat.
+
+[s3]
+Du-mă la Izvorul unde
+Şi eu mă voi curăţa,
+Unde valul sfintei ape
+De tot mă va vindeca.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,52 @@
+[s1]
+Fa
+1.Cuvântul vieţii răsună
+Se 'nalţă ca trâmbiţa-n zori
+Podoaba ta frate creştine
+Să fie Cuvântul mereu.
+293.
+
+[s2]
+/:Acesta-i cuvântul ce sună
+Şi sună să ştii nu-n zadar
+La cei mândri El le stă-mpotrivă
+Iar celor smeriţi le dă har:/
+
+[s3]
+2. Podoaba ta frate creştine
+Nu-i starea de-aicea de jos
+Ci pacea şi harul să fie
+C-acestea te duc la Hristos.
+
+[s4]
+/:Nu vinde tu slava pe-ocară
+Căci astfel cum poţi ca să stai
+Cuvântul rămâne-n picioare
+Nedrepţii nu intră în rai.:/
+
+[s5]
+3. Căci cerul îşi scutură bolta
+Şi Domnul veni-va-n curând
+Cel tare va fi ca scânteia
+Cel mândru va fi ca un câlţ.
+
+[s6]
+/:Te-ntreabă tu frate creştine
+Te-ntreabă ce roade aduci
+Căci aur, argint şi pietre scumpe
+Acestea rămân doar atunci.:/
+
+[s7]
+4. Un vuiet ca apele multe
+Un vuiet se-aude în zări
+E gloata cea mare ce cântă
+Spre Domnul înalţă cântări.
+
+[s8]
+/:Eşti vrednic Părinte de veacuri
+Acela ce-ai fost şi vei fi
+Ţi-aducem cu toţii mulţumirea
+De slava ce-a fost şi va fi.:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

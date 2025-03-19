@@ -1,0 +1,39 @@
+[s1]
+În păcat şi disperare
+mulţi trăiesc pe-acest pământ
+Mulţi nu ştiu de dragostea
+ce ni s-a dat.
+Într-o lume-ntunecată
+ce trăieşte în păcat
+Isus e răspunsul lumii, singur El.
+
+[r1]
+Numele Lui e un răspuns,
+un început şi un sfârşit.
+El este drumul şi-nţelepciunea
+lui Dumnezeu.
+Puterea Lui lumină e,
+precum şi marea-I dragoste
+E adevăr, e un răspuns,
+un singur drum!
+
+[s2]
+Într-o lume tulburată
+cu probleme şi necaz,
+Într-o lume cu dureri
+şi-ameninţări,
+El este nădejdea noastră,
+pacea doar la El găsim.
+Mângâierea şi salvarea
+noastră-i El.
+
+[s3]
+Dragostea şi-nţelepciunea
+Dumnezeu ni le-a-arătat
+Prin Isus s-avem viaţă veşnică.
+I s-a dat toată puterea
+sus în cer şi pe pământ
+El e singurul răspuns al lumii-ntregi.
+
+[order]
+s1,r1,s2,r1,s3,r1

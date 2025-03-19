@@ -1,0 +1,26 @@
+[s1]
+Mulţumim noi, Doamne,
+Pentru-al Tău cuvânt
+Ce deschide inimi
+Prin al Tău Duh Sfânt.
+
+[s2]
+Din Scriptura sfântă
+Noi am auzit
+Că eternă viaţă
+Tu ne-ai dăruit.
+
+[s3]
+Ne-ncetat, Isuse,
+Dă-ne ajutor,
+Dă-ne sfântă hrană,
+Bunule Păstor!
+
+[s4]
+Te rugăm, o Doamne,
+Pururea `nălţat,
+Dă-ne nouă astăzi
+Harul Tău bogat!
+
+[order]
+s1,s2,s3,s4

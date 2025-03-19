@@ -1,0 +1,29 @@
+[s1]
+2180     Sol
+Cor: //: Doamne cât de mare eşti:/  Și cât ne iubeşti :/.
+1. Munţii înalţi, semeţi,
+cu brazi plini de nămeţi,
+vântu-i adia
+şi parcă aşa spunea.
+
+[s2]
+Cor: //: Doamne cât de mare eşti:/ Și cât ne iubeşti :/.
+2. Oceanu-n depărtări
+îşi poartă cântu-n zări,
+Iar pescăruşi în zbor,
+îngână-ncetişor.
+
+[s3]
+Cor: //: Doamne cât de mare eşti:/ Și cât ne iubeşti :/.
+3. În adâncă noapte, stele
+pline de şoapte, în galaxia lor, licărea uşor.
+
+[s4]
+Cor: //:Doamne cât de mare eşti:/ Și cât ne iubeşti :/.
+4. Eu m-alătur lor
+Și într-un mare cor,
+Îţi cântăm cu dor,
+cât de mare eşti.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,74 @@
+[s1]
+1. S-a răcit iubirea în frăţietate
+Pe mulţi îi cuprinde
+Somnul cel de moarte.
+288.
+
+[r1]
+Cor: /:Iubire te-ai răcit:/
+Şi tu inimă te-ai împietrit
+/:Iubire unde eşti:/
+Şi în ce inimă locuieşti.
+
+[s2]
+2. Noi privim cu ochii
+Ce s-a-ndeplinit
+Ce profeţii-n scripturi
+Ei au profeţit.
+
+[s3]
+3. Că-n timpul din urmă,
+Timpul aşa va fi
+Credinţa, iubirea
+La mulţi va răci.
+
+[s4]
+4. Când predicatorul
+Stă sus la amvon
+Pe mulţi îi cuprinde
+Al morţii greu somn.
+
+[s5]
+5. Uşi, pereţi şi geamuri
+Ce participaţi
+La predicator
+Atenţie să-i daţi.
+
+[s6]
+6. Căci poporul doarme
+Dulce liniştit
+De la predicator
+N-a primit nimic.
+
+[s7]
+7. Lasă plângă ochii
+Şi să vă gândiţi
+La iubirea dintâi
+Şi să o primiţi.
+
+[s8]
+8. Lenea, trândăvia
+În mulţi s-a încuibat
+De nu-şi mai deschid
+Gura la cântat.
+
+[s9]
+9. Eu mă tem Isuse
+Că Tu vei veni
+Credinţa, iubirea
+În mulţi nu-i găsi.
+
+[s10]
+10. Pătrunde în inimi
+Să ne pocăim
+Pentru a Ta venire
+Să ne pregătim.
+
+[s11]
+11. Iar acela frate
+Care s-a jignit
+Nu este pe deplin
+Încă pocăit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1,s8,r1,s9,r1,s10,r1,s11,r1

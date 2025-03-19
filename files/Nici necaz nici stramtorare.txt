@@ -1,0 +1,15 @@
+[s1]
+Nici necaz nici strâmtorare
+Nici lipsă de mâncare
+Nu ne vor despărţi de Dumnezeu
+Nici viaţa şi nici moartea
+Nici îngerii din ceruri
+Nu ne vor despărti de Dumnezeu
+
+[s2]
+Nu-I nimic si nimeni
+Sa ne poata desparti
+/: De dragostea Ta :/
+
+[order]
+s1,s2

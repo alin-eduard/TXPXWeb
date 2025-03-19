@@ -1,0 +1,45 @@
+[s1]
+1. Domnul e Păstorul meu Aleluia
+Mă conduce fraţilor Aleluia
+Mă conduce la păşune Aleluia
+Cu mană bucate bune Aleluia.
+2. Păşunea este cuvântul Aleluia
+Ce ne-a dat-o
+Domnul sfântul Aleluia
+Prin care să ne hrănim Aleluia
+Şi prin Isus să trăim Aleluia.
+Psalmul: 23     458.Fa
+
+[s2]
+3.	El ne duce la izvoare Aleluia
+La ape răcoritoare Aleluia
+Apa este Duhul Sfânt Aleluia
+Şi-aş vrea
+Să curgă-n curând Aleluia.
+4.	Zis-acest Păstor aşa Aleluia
+Către samariteancă Aleluia
+Cine-o bea din apa Mea Aleluia
+Niciodată n-a-nseta Aleluia.
+
+[s3]
+5.	Iar la praznicul cel mare Aleluia
+Când a stat El în picioare Aleluia
+Către popor a strigat Aleluia
+De este vreun însetat Aleluia.
+6.	Să vină acum să bea Aleluia
+Şi-i voi da din apa Mea Aleluia
+Să bea din apa cea vie Aleluia
+Și ca un izvor să fie Aleluia.
+
+[s4]
+7.	Ca un țâșnitor izvor Aleluia
+Din inima fraţilor Aleluia
+Izbucneşte-n fericire Aleluia
+Spre scumpa împărăţie Aleluia.
+8.	Apa aceasta minunată  Aleluia
+La Rusalii a fost vărsată Aleluia
+Peste ucenicii Lui Aleluia
+Apostolii Domnului Aleluia.
+
+[order]
+s1,s2,s3,s4

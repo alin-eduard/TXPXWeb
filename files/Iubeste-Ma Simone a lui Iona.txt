@@ -1,0 +1,32 @@
+[s1]
+Iubeşte-Mă, Simone a lui Iona!
+Îi spune Domnul la-al Său ucenic.
+Iubeşte-Mă din toată inima ta
+Spune-un cuvînt, nu te sfii nimic.
+Căci Eu te rog dorindu-ţi al Tău bine
+Căci Eu te ştiu şi te cunosc prea bine
+Simone, spune-mi, ce eşti întristat?
+Iubeşte-mă!
+
+[s2]
+Iubeşte-mă, o, Doamne, fii cu mine
+Naintea Ta nimic nu este-ascuns
+O, Doamne, ştii că Te iubesc pe Tine
+Să-Ţi spun iubirea n-am cuvînt de-ajuns.
+Vino în sînul meu cu-a Ta lumină
+Să pot grăi cu sinceră inimă
+Ştiu c-am greşit, o, Doamne, iartă-mă!
+Eu Te iubesc!
+
+[s3]
+Iubeşte-mă, eu nu aştept altceva!
+Iubeşte-mă mai mult ca altă stea!
+Fiule, vino, lasă lumea-aceasta
+Şi dă-mi Mie inima ta cea rea!
+Eu nu-ţi arunc păcatele în faţă
+Ci-ţi dăruiesc o veşnică viaţă!
+Şi pentru toate eu în schimb doresc
+Să mă iubeşti.
+
+[order]
+s1,s2,s3

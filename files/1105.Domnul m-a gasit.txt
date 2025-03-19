@@ -1,0 +1,34 @@
+[s1]
+1105								 Sol
+1.Domnul m-a găsit
+Povara mi-a luat
+Bucurii, speranţă, pace El mi-a dat
+Mi-a luat din suflet tot păcatul greu
+Prin sângele vărsat
+Pe cruce-n locul meu.
+
+[r1]
+/:Mântuit, pe Domnul preamăresc
+Mântuit, spre cer călătoresc
+Mântuit, cu El în veci voi fi
+El m-a salvat
+Și mă păzeşte-n orice zi. :/
+
+[s2]
+2.Domnul m-a găsit,
+Iubirea Lui mi-a dat
+Hainele ca neaua, albe le-a spălat
+Nu mă amenință judecata grea
+Eu sunt preafericit
+Cu Domnul pururea
+
+[s3]
+3. Domnul m-a găsit
+Odihna Lui mi-a dat
+Când urmez pe Isus sunt eliberat
+Şi aştept întruna fericita zi
+Când Domnul cu mărire
+Iarăşi va veni.
+
+[order]
+s1,r1,s2,r1,s3,r1

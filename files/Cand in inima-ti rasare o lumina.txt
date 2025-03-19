@@ -1,0 +1,27 @@
+[s1]
+Când în inimă-ţi răsare o lumină
+/: Este Domnul :/
+Când îţi face noaptea de păcat senină
+Şi prezenţa slavei e în viaţa ta.
+
+[r1]
+/: Este Domnul :/
+Care-ţi luminează zilnic drumul tău
+Chiar când soarele
+şi luna n-au lumină
+Străluceşte El în noapte, Dumnezeu.
+
+[s2]
+Când minuni nemaivăzute sunt pe cale
+/: Este Domnul :/
+Tu priveşte la puterea mâinii Sale
+Şi să-L recunoşti în toate pe Isus.
+
+[s3]
+Când statornic eşti pe calea pocăinţei
+/: Este Domnul :/
+Ocrotirea Lui e harul biruinţei
+Până în Împărăţia slavei Lui.
+
+[order]
+s1,r1,s2,r1,s3,r1

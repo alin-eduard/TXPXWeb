@@ -1,0 +1,20 @@
+[s1]
+/: ISUS, m-ai cuprins din necuprins,
+ISUS, viaţă-n mine ai aprins,
+ISUS, m-ai iubit şi m-ai salvat,
+Să fii veşnic, veşnic lăudat. :/
+
+[s2]
+/: ISUS, pentru orbi lumină ai,
+ISUS, celor muţi Tu le dai grai,
+ISUS, şchiopii iarăşi au umblat,
+Tu eşti Medic, Medic minunat. :/
+
+[s3]
+/: ISUS, eşti Păstor celor pierduţi,
+ISUS, Apărător celor micuţi,
+ISUS, din robie ne-ai scăpat,
+Să fii veşnic, veşnic lăudat. :/
+
+[order]
+s1,s2,s3

@@ -1,0 +1,19 @@
+[s1]
+/: Să-l sărbătorim, să-i cântăm cu toţi
+Domnului un imn de slavă :/x2
+Să-l lăudăm
+Să-i cântăm un imn de slavă
+Aleluia, aleluia
+Aleluia, aleleuia,
+Alelu, aleluia
+
+[s2]
+/: Isus este domn, pe El îl înalţ
+Vreau să-i cânt un imn de slavă :/ x2
+Isus este domn pe el il inalt
+Aleluia, aleluia
+Aleluia, aleleuia,
+Alelu, aleluia
+
+[order]
+s1,s2

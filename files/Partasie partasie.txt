@@ -1,0 +1,52 @@
+[s1]
+Ce plăcută-i părtăşia
+Dintre fraţi, dintre surori
+Când domneşte armonia
+Când e cerul fără nori
+Când iubim toţi Adevărul
+Şi prin El liberi trăim
+Atunci, cât este de bine
+Ca’mpreună toţi să fim
+
+[r1]
+/: Părtăşie, părtăşie,
+Binecuvântată eşti
+Ne dai multă bucurie
+Şi pe toţi ne înfrăţeşti
+Părtăşie, părtăşie,
+Exerciţiu necesar
+Pentru cei ce vor
+s-ajungă în Canaan. :/
+
+[s2]
+Ce plăcută-i părtăşia
+Când e pace între fraţi
+Când domneşte armonia
+Între cei ce-s adunaţi
+Unitate e acolo
+Bucurie-n Duhul Sfînt
+Şi acolo parcă cerul
+Coborât e pe pământ.
+
+[s3]
+Ce plăcută-i părtăşia
+Când lipseşte-orice păcat
+Iar pe faţă bucuria,
+Radiază ne-ncetat
+Când simţim prezenţa vie
+A tot ce-i dumnezeiesc
+Părtăşia se transformă
+În ceva sublim, ceresc.
+
+[s4]
+Necesară-i părtăşia
+Pentru cei de pe pământ
+Să trăim şi-aici ca-n ceruri
+În prezenţa Celui Sfînt
+Că în cer nu poţi ajunge
+Dacă nu eşti pregătit
+Şi dacă al părtăşiei
+Testu’ nu l-ai absolvit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

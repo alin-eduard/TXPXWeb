@@ -1,0 +1,23 @@
+[s1]
+Tată, te slăvesc,
+Te ador şi-ţi mulţumesc
+Fii glorificat în veci de veci,
+Fii glorificat X3
+În veci de veci.
+
+[s2]
+Duh Sfânt, te slăvesc,
+Te ador şi-ţi mulţumesc
+Fii glorificat în veci de veci,
+Fii glorificat X3
+În veci de veci.
+
+[s3]
+Isus, te slăvesc,
+Te ador şi-ţi mulţumesc
+Fii glorificat în veci de veci,
+Fii glorificat X3
+În veci de veci.
+
+[order]
+s1,s2,s3

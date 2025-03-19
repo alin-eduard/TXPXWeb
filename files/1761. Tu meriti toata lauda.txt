@@ -1,0 +1,39 @@
+[s1]
+1761.                                                     C
+1. Tu meriţi toată lauda
+Căci Tu eşti totul în tot
+Căci Tu din veşnicie
+Eşti Domnul Savaot.
+Cor:	/:În soare în lună
+În stele şi-n nori
+Stă scris Doamne Numele Tău
+Şi mări şi oceane şi râuri şi flori
+Toate spun
+Că eşti bun Dumnezeu:/
+
+[s2]
+2. Tu meriţi slava cinstea
+Căci eşti cel mai frumos
+Tu ne-ai adus la viaţă
+Prin Fiul Tău Hristos.
+Cor:	/:În soare în lună
+În stele şi-n nori
+Stă scris Doamne Numele Tău
+Şi mări şi oceane şi râuri şi flori
+Toate spun
+Că eşti bun Dumnezeu:/
+
+[s3]
+3. Ţi-aducem cu iubire
+De-aici de pe pământ
+Cântări de proslăvire
+Părinte drag si sfânt.
+Cor:	/:În soare în lună
+În stele şi-n nori
+Stă scris Doamne Numele Tău
+Şi mări şi oceane şi râuri şi flori
+Toate spun
+Că eşti bun Dumnezeu:/
+
+[order]
+s1,s2,s3

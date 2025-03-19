@@ -1,0 +1,8 @@
+[s1]
+De aceea Doamne ruga mea Te cheamă
+Cu mâna Ta să mă-nsoţeşti de-acum
+Şi să-mi alungi din suflet orice teamă
+Ce mă pândeşte ca un leu în drum.
+
+[order]
+s1

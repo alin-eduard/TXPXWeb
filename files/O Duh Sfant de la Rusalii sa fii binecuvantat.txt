@@ -1,0 +1,34 @@
+[s1]
+O Duh Sfânt de la Rusalii,
+să fii binecuvântat.
+Noi comoara păcii Tale
+o dorim neîncetat.
+
+[r1]
+Vino-acum căci Te rugăm,
+Vino-acum căci Te chemăm.
+Te iubim Te adorăm.
+Vino iar să Te simţim,
+Vino, vino Duh divin,
+Dumnezeu în veci amin.
+
+[s2]
+Să cobori în adunare,
+ca şi-atunci la început.
+Să-Ţi arăţi puterea mare,
+Dumnezeu din nevăzut.
+
+[s3]
+Glasul Tău să se audă azi în
+sfântul Tău popor.
+Glas de Dumnezeu puternic,
+glas divin mângâietor.
+
+[s4]
+O Duh Sfânt din Cinzecime,
+minunat şi înălţat.
+Preamărit izvor de daruri,
+fii lăudat fii lăudat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

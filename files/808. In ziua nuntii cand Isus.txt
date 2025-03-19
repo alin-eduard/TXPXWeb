@@ -1,0 +1,93 @@
+[s1]
+808.
+1. În ziua nunţii când Isus
+Pe nori va apărea
+Cu corul cel ceresc din cer
+Mireasa va cânta.
+Cor: O, vrednic eşti de lăudat
+Căci Tu ai triumfat
+Cu slavă vei fi încoronat
+Miel ce-ai fost înjunghiat.
+
+[s2]
+2. Atunci când cerul s-a deschis
+Când totu-i transformat
+Satan o mie de ani legat
+Pământul s-a schimbat.
+Cor: O, vrednic eşti de lăudat
+Căci Tu ai triumfat
+Cu slavă vei fi încoronat
+Miel ce-ai fost înjunghiat.
+
+[s3]
+3. Atunci cei mântuiţi în cor
+Prin ceruri vor zbura
+Cu haine albe şi finic
+Ei slavă vor cânta.
+Cor: O, vrednic eşti de lăudat
+Căci Tu ai triumfat
+Cu slavă vei fi încoronat
+Miel ce-ai fost înjunghiat.
+
+[s4]
+4. Atunci văzduhul va fi plin
+De strigătele lor
+Cununi veşnice le va da
+Isus Mirele lor.
+Cor: O, vrednic eşti de lăudat
+Căci Tu ai triumfat
+Cu slavă vei fi încoronat
+Miel ce-ai fost înjunghiat.
+
+[s5]
+5. Iar cei din ceruri s-or mira
+Bătrâni or întreba
+De unde oare aceştia vin
+De au pe cap cununi.
+Cor: O, vrednic eşti de lăudat
+Căci Tu ai triumfat
+Cu slavă vei fi încoronat
+Miel ce-ai fost înjunghiat.
+
+[s6]
+6. Atunci răspunsul le va da
+Chiar Domnul Dumnezeu
+Aceştia vin de pe pământ
+Din necazul cel greu.
+Cor: O, vrednic eşti de lăudat
+Căci Tu ai triumfat
+Cu slavă vei fi încoronat
+Miel ce-ai fost înjunghiat.
+
+[s7]
+7. Ei hainele şi le-au spălat
+Şi-n sânge le-au albit
+Ispite ei au biruit
+Păcatul au învins.
+Cor: O, vrednic eşti de lăudat
+Căci Tu ai triumfat
+Cu slavă vei fi încoronat
+Miel ce-ai fost înjunghiat.
+
+[s8]
+8. Ei foame acolo n-or avea
+Sete nu le va fi
+Arşiţa nu-i va dogori
+Domnul îi va păzi.
+Cor: O, vrednic eşti de lăudat
+Căci Tu ai triumfat
+Cu slavă vei fi încoronat
+Miel ce-ai fost înjunghiat.
+
+[s9]
+9. Căci Mielul care stă pe tron
+Păstorul lor va fi
+În cer la izvoarele vii
+Vor avea bucurii.
+Cor: O, vrednic eşti de lăudat
+Căci Tu ai triumfat
+Cu slavă vei fi încoronat
+Miel ce-ai fost înjunghiat.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

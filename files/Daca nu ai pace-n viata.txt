@@ -1,0 +1,26 @@
+[s1]
+Daca nu ai pace-n viata
+Si inima ti-e tulburata
+/: In Isus gasesti speranta
+Mantuire fara plata :/
+
+[r1]
+Vino, din lumea de pacat
+Vino, tu poti sa fii salvat
+Vino, lasa trecutul tau
+Vino, vino la Dumnezeu.
+
+[s2]
+Daca nu gasesti iubire
+Si viata ta e un cosmar
+/: Prin Isus ai mantuire
+In jertfa de pe Calvar :/
+
+[s3]
+Daca patimi te robesc
+Ganduri negre te apasa
+/: Isus iti spune te iubesc
+Fiu pierdut azi vin-acasa :/
+
+[order]
+s1,r1,s2,r1,s3,r1

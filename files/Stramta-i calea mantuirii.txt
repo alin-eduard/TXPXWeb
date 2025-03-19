@@ -1,0 +1,38 @@
+[s1]
+Strîmtă-i calea mîntuirii
+Şi purtarea crucii grea
+Dac-ar fi uşoară-aceasta
+N-ar fi aşa puţini pe ea.
+
+[s2]
+/: Grea-i umblarea cu-adevărul
+Pe Pămîntul de minciuni
+Daca-ar fi uşoară-aceasta
+N-ar fi atît de rari cei buni. :/
+
+[s3]
+Mare-i lupta cu-ndoiala
+Cînd priveşti spre ce nu vezi
+Dac-ar fi uşoară-aceasta
+N-ar fi atît de greu să crezi.
+
+[s4]
+/: Multe-s ranele vieţii
+Celui înfrînat şi-ales
+Dac-ar fi puţine-acestea
+N-am fi aşa zdrobiţi ades. :/
+
+[s5]
+Chinuit e drumul jertfei
+Pîn, la ţelul strălucit
+Dac-ar fi uşor aceasta
+N-ar fi atît de răsplătit.
+
+[s6]
+/: Dar slăvită-i veşnicia
+Celui drept şi credincios
+Dacă n-ar fi-aşa ne-ar spune-o
+Adevărul şi Hristos. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

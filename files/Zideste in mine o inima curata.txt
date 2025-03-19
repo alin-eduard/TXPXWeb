@@ -1,0 +1,24 @@
+[s1]
+Zideste în mine o inima curata,
+Dumnezeule,
+Si pune în mine un duh nou, statornic,
+Dumnezeule.
+Sol M
+
+[r1]
+/:Nu ma lepada de la fata Ta
+Si nu lua de la mine
+Duhul Tau cel Sfânt
+Da-mi iarasi
+Bucuria mântuirii Tale
+Umple-ma cu Duhul Tau
+Cel Sfânt!:/
+
+[s2]
+Şi fă ca-nţelepciunea Ta întotdeauna
+Să fie înlăuntrul meu
+Şi vreau ca-n adâncul inimii
+Să fie adevărul tău.
+
+[order]
+s1,r1,s2,r1

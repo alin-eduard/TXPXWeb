@@ -1,0 +1,41 @@
+[s1]
+1788.      Re b m
+1. O, ce bine-i când o uşă
+Se deschide cu iubire
+Şi-n chenarul ei, deodată,
+Vezi un rai dintr-o privire
+Când vezi două braţe-ntinse
+Şi auzi un glas de frate
+Dăruind o primăvară
+Inimii înfrigurate
+Deşteptându-ţi iar nădejdea
+Într-un zbor mai sus de fire
+
+[s2]
+O, ce bine-i când o uşă
+Se deschide cu iubire
+Şi pe uşa larg deschisă,
+Se-auzea din încăpere
+„Dau săracilor, o, Doamne,
+Jumătate din avere!”
+Îngeri albi priveau din ceruri,
+Clipele de mărturie
+O, ce bine-i când o uşă
+Se deschide cu iubire!
+
+[s3]
+2. Dar la inima ta rece,
+Stă demult Isus şi bate
+Ca să plece nu se-ndură,
+Ca s-o frângă nu se poate
+O, trezeşte-te şi vino!
+Trage repede zăvorul!
+Nici un rege nu-i pe lume.
+Ca Isus Mântuitorul!
+El ţi-aduce mângâiere,
+El ţi-aduce izbăvire
+O, ce bine-i când o uşă,
+Se deschide cu iubire!
+
+[order]
+s1,s2,s3

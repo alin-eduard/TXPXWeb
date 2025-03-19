@@ -1,0 +1,62 @@
+[s1]
+2196
+1. Mă uit la Tine, Tu ești oare
+Sub crucea grea cu
+răni adânci
+Cu ochii triști și fața suptă
+Și lovituri de aspru bici.
+
+[s2]
+2. Mă uit la Tine, Tu ești oare
+Cum mergi trudit
+suspini mereu
+Purtând ocară și rușine
+Al meu păcat pe veci să-l iei.
+
+[s3]
+3. Mă uit la Tine și mă doare
+Căci dintre toți ești numai Tu
+Omul găsit fără de vină
+Și totuși, totuși te bătu.
+
+[s4]
+4. Cu ochii triști cu fața stinsă
+Te văd cum urci împovărat
+De lacrimi grele și suspine
+Și aceste pentru al meu păcat.
+
+[s5]
+5. Privesc în zare cum aleargă
+Legiuni de duhuri plini de zel
+Și toată gloata-i tulburată
+De strigătele de oțel.
+
+[s6]
+6. Privesc înmărmurite toate
+Spre punctul culminant
+pe deal
+Și dintr-o dată-nfuriate
+Aruncă spume val cu val.
+
+[s7]
+7. Dar în zadar se alarmează
+Mulțimi de demoni fără spor
+Căci biruința fu păstrată
+Pentru Isus Mielul Salvator.
+
+[s8]
+8. Căci au trecut și
+acestea toate
+Tablou-n dată ne-a fost dat
+Și L-am văzut slăvit de gloate
+Pe Domnul ce-a fost înviat.
+
+[s9]
+9. Când ei strigau avem iertare
+Răscumpărare din păcat
+Căci pentru vina
+noastră-ntreagă
+Ca plată sângele Și-a dat.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

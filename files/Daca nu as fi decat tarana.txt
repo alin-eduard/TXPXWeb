@@ -1,0 +1,30 @@
+[s1]
+Dacă nu aş fi decât ţărână,
+Decât bulgăr răscolit de vânt
+/: Niciodată, Doamne, pentru mine
+N-ai fi coborât pe-acest pământ. :/
+
+[r1]
+/: Dar Tu m-ai iubit si mi-ai dăruit
+Chipul Tău: de aceea ai venit! :/
+
+[s2]
+Dacă nu aş fi decât un abur,
+Dacă nu-aş fi fost decât un vis,
+/: Niciodată, Doamne, pentru mine
+N-ai fi coborât din Paradis.:/
+
+[s3]
+Dacă nu-aş fi fost decât un înger,
+Dacă nu-aş fi fost decât o stea,
+/: Niciodată, Doamne, pentru mine
+N-ai fi plâns atât, de jalea mea :/
+
+[s4]
+Ah, ce taină mare-ai pus în mine,
+O, Isuse, Fiu de Dumnezeu!
+/: Ai luat un chip de suferinţă
+Şi-ai venit să mori, de dragul meu! :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

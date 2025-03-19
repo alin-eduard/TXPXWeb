@@ -1,0 +1,32 @@
+[s1]
+Să­-Ţi urmez mereu aş vrea,
+O, Isus, Domnul meu!
+Căci doar Tu eşti viaţa mea,
+O, Isus, Domnul meu!
+Mă ajută­-n drumul meu
+Ca în bine şi în rău
+Să rămân pe placul Tău,
+O, Isus, Domnul meu!
+
+[s2]
+Eu iubesc Cuvântul Tău,
+O, Isus, Domnul meu!
+El m­-ajută când e greu,
+O, Isus, Domnul meu!
+Tu eşti calea şi pe ea
+Bucuros eu voi umbla,
+Voi păşi în urma Ta,
+O, Isus, Domnul meu!
+
+[s3]
+Pentru mine ai răbdat,
+O, Isus, Domnul meu!
+Viaţa mi­-ai răscumpărat,
+O, Isus, Domnul meu!
+Vreau de-­acum să Te slujesc
+Şi Cuvântul să­-Ţi vestesc
+Ca răsplata s­-o primesc,
+O, Isus, Domnul meu!
+
+[order]
+s1,s2,s3

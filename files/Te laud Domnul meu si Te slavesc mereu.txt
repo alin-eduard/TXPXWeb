@@ -1,0 +1,23 @@
+[s1]
+/: Te laud, Domnul meu
+şi Te slăvesc mereu !
+Mă-nchin şi-Ţi mulţumesc
+că-n harul Tău ceresc
+Sînt şi eu azi acum ! :/
+
+[s2]
+/: Numelui Tău slavă, mărire
+Onoare-n veci, cinste Îţi dăm !
+Eşti Dumnezeu, glorie Ţie !
+Te lăudăm, Te lăudăm ! :/
+Te lăudăm !
+
+[s3]
+/: Isus e Împărat,
+un Tată minunat
+Numele Lui e sfînt,
+în cer şi pe Pămînt
+E binecuvîntat ! :/
+
+[order]
+s1,s2,s3

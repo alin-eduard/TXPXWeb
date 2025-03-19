@@ -1,0 +1,42 @@
+[s1]
+Cunostinta e o perla,
+Este un diamant pretios;
+A cunoaste ce-i credinta,
+Nici un lucru nu-i mai gratios.
+/: Cine cunoaste si implineste
+E fericit, e si mantuit.
+Cine cunoaste si nu traieste
+E osandit, nefericit. :/
+
+[s2]
+Cunostinta e o floare
+Ce rodeste-un rod minunat;
+Cunostinta cine-o are
+Totdeauna va fi cautat.
+/: Cine cunoaste si implineste
+E fericit, e si mantuit.
+Cine cunoaste si nu traieste
+E osandit, nefericit. :/
+
+[s3]
+Cunostinta-i cheia vietii
+Ce deschide-al Scripturii cuvant;
+E-aurora frumusetii
+Cunostinta-i de la Duhul Sfant.
+/: Cine cunoaste si implineste
+E fericit, e si mantuit.
+Cine cunoaste si nu traieste
+E osandit, nefericit. :/
+
+[s4]
+Umilinta cucereste
+Darul cunostintelor,
+Caci mandria rataceste
+Pe cel mandru si necrezator
+/: Cine cunoaste si implineste
+E fericit, e si mantuit.
+Cine cunoaste si nu traieste
+E osandit, nefericit. :/
+
+[order]
+s1,s2,s3,s4

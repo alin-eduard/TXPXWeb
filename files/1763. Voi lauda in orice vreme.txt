@@ -1,0 +1,44 @@
+[s1]
+1763.
+1. Voi lăuda în orice vreme
+Bunătatea Domnului
+Şi-ndurările eterne
+Pentru toţi copiii Lui
+Cor:	/:Mi se bucură în Domnul
+Inima neîncetat
+El îmi e ocrotitorul
+Şi Păstorul minunat
+
+[s2]
+2. Sufletul meu se înalţă
+Când iubirea Lui o cânt
+Fremătând de adierea
+Caldă-a Duhului cel Sfânt
+Cor:	/:Mi se bucură în Domnul
+Inima neîncetat
+El îmi e ocrotitorul
+Şi Păstorul minunat
+
+[s3]
+3. Stropii bucuriei sfinte
+Mă inundă zi de zi
+Prin acele dragi cuvinte
+Eu nu te voi părăsi
+Cor:	/:Mi se bucură în Domnul
+Inima neîncetat
+El îmi e ocrotitorul
+Şi Păstorul minunat
+
+[s4]
+4. Încă din copilărie
+Viaţa mea i-o dăruiesc
+Şi odată-n veşnicie
+Pe-al meu Domn
+Vreau să-L slăvesc
+Cor:	/:Mi se bucură în Domnul
+Inima neîncetat
+El îmi e ocrotitorul
+Şi Păstorul minunat
+
+[order]
+s1,s2,s3,s4

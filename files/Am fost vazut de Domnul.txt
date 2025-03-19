@@ -1,0 +1,32 @@
+[s1]
+În păcat ca într­o mare afundat
+De tot eram.
+Şi de­această tristă stare
+Chiar nimic eu nu ştiam.
+
+[r1]
+Dar am fost văzut de Domnul,
+El din cer a coborât.
+M­a căutat chiar în adâncuri,
+Fie veşnic preamărit.
+
+[s2]
+În vârtejul de osândă
+Al meu suflet prins era.
+În blestem şi întuneric
+Să se piardă chiar putea.
+
+[s3]
+A păcatului putere
+În adâncuri jos m­a tras,
+Am căzut, şi al meu suflet
+Condamnare şi­a atras.
+
+[s4]
+De acum în cartea vieţii
+Al meu nume este scris.
+Pace sfântă, bucurie
+Voi avea în paradis.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

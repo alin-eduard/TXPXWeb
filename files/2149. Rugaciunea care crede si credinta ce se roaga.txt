@@ -1,0 +1,26 @@
+[s1]
+2149
+1. Rugăciunea care crede și credința ce se roagă
+Doamne, ochiul Tău le vede,
+Viața mea atunci e-ntreagă, iară Ție-Ți este dragă!
+
+[r1]
+Cor: /: Sfinte Dumnezeu dă-mi, prin har mereu o credință vie
+Rugăciune vie să trăiesc deplin voia Ta, amin! :/.
+
+[s2]
+2. Focul Tău ceresc mi-l pune Doamne-n mine,
+Fără vreme să m-aprindă-n rugăciune
+Și credință-mi să Te cheme, totdeauna să Te cheme!
+
+[s3]
+3. Știu, prin harul Tău cel mare, dacă rugăciunea-mi este în credința-ascultătoare
+Tu mă-nalți pe sfinte creste, pe-ale cerului Tău creste!
+
+[s4]
+4. Mulțumesc de adevărul ce mi-l dai cu mâna plină
+Căci prin el mă duci în cerul unde-i veșnică lumină
+Doamne, veșnică lumină!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

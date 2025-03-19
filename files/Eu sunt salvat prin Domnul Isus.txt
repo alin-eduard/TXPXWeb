@@ -1,0 +1,36 @@
+[s1]
+Eu sunt salvat prin Domnul Isus
+Rascumparat prin jertfa Sa
+Si-o pace vesnica venita de sus
+Mi-a umplut viata mea
+
+[r1]
+Ce mareata e iubirea sfanta
+a lui Isus
+Slava Lui in veci sa fie caci
+El m-a salvat
+Ceas de ceas din viata mea
+eu cant si preamaresc
+Lui ma-nchin smerit,
+umil caci m-a salvat
+
+[r2]
+Sunt salvat pe veci prin Domnul Isus
+Slava Lui sa-I fie-n veci de veci
+El mi-a dat iertare-n
+loc de crunta moarte
+Sunt acum pe veci salvat.
+
+[s2]
+Departe de izvorul vietii stateam pierdut si insetat
+Dar m-a gasit Isus izvorul pacii
+Si cu drag m-a adapat
+
+[s3]
+Cand voi sfarsi a mea carare.
+Acolo sus in Raiul Sau
+Desavarsita mea cantare
+Va continua crescand mereu
+
+[order]
+s1,r1,r2,s2,r1,r2,s3,r1,r2

@@ -1,0 +1,37 @@
+[s1]
+Re m
+1. Ţie Isuse
+/:Ţie mă-nchin:/
+Tu eşti iubirea
+/:Tu pe deplin:/.
+214.
+
+[r1]
+Cor:
+Dragostea Ta m-a cuprins Isus
+Şi cu Tine-n cer
+Pentru veci m-ai dus
+Dragostea mea eu Ţi-o dau Isus
+Şi-n adâncul meu
+Pentru veci Te-am pus.
+
+[s2]
+2. Ţie Isuse
+/:Ţie-ţi slujesc:/
+Tu-mi eşti viaţa
+/:Mult Te doresc:/.
+
+[s3]
+3. Ţie Isuse
+/:Ţie-ţi supus:/
+Dragostea toată
+/:Eu Ţi-am adus:/.
+
+[s4]
+4. Pentru vecie
+/:Tu să-mi rămâi:/
+Dragoste sfântă
+/:Vie dintâi:/.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

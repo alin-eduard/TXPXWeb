@@ -1,0 +1,20 @@
+[s1]
+Te preamărim Isuse, Doamne
+Îngenuncheaţi sub crucea Ta
+Pentru lucrarea jertfei Tale
+Şi pentru ce ne-ai dat prin ea
+
+[r1]
+Preamărim Numele Tău
+O, Isuse, Dumnezeu
+Slavă-n cer şi pe pământ
+Slavă Numelui Tău sfânt
+
+[s2]
+Vom preamări Isuse, Doamne
+În veci de veci iubirea Ta
+Căci noi viaţ-avem şi pace
+Şi mântuire doar prin ea
+
+[order]
+s1,r1,s2,r1

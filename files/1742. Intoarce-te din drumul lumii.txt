@@ -1,0 +1,43 @@
+[s1]
+1. Întoarce-te din drumul lumii
+De pe cărarea unde-s mulţi
+Vino pe calea mântuirii
+Vino pe drumul celor sfinţi
+Pe calea lată sunt mulţi care
+Trăiesc în pofte şi în plăceri
+Pe calea-ngustă e viaţă
+Pe ea sunt cei ce merg în cer
+1742.
+
+[r1]
+Cor:	Care-i drumul tău
+Care-i ţelul tău
+Care este calea ta
+Pe cine iubeşti
+Pe cine slujeşti
+Unde ai să pleci
+
+[s2]
+2. Priveşte-ţi paşii tăi în urmă
+Pe unde-au mers,
+Unde-au umblat
+Ai pribegit fără nădejde
+Şi pentru cel rău ai lucrat
+Opreşte-te din mers acuma
+Şi fă un pas către Hristos
+Şi roagă-L astăzi să îţi ierte
+Trecutul tău cel păcătos
+
+[s3]
+3. Tu cel ce cauţi fericirea
+Lumea nu-ţi poate oferi
+Căci pacea ta şi mântuirea
+Doar la Isus le poţi găsi
+Te cheamă jertfa de la cruce
+Şi Cel ce-a suferit pe ea
+Să-ţi dăruiască
+Astăzi mântuirea
+Te cheamă astăzi Golgota
+
+[order]
+s1,r1,s2,r1,s3,r1

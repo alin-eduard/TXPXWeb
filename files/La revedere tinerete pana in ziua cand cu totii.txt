@@ -1,0 +1,39 @@
+[s1]
+La revedere, tinerete,
+pâna in ziua când cu totii
+In vesnicii vom fi toti tineri
+de la bunici pân, la nepoti.
+Pâna in ziua când vecia
+ne va cuprinde cu mult dor
+Noi, asteptatii ei de veacuri,
+a lui Isus iubit popor.
+
+[s2]
+La revedere, tinerete,
+la revedere, visuri mari
+Pân, s-a-mplini visul de veacuri promis de Isus la tâlhar.
+Când astazi, ce i-a spus atuncea, ajunge-vom să il şimtim
+Deşi-l traim şi azi prin crez,
+atunci il vom trai deplin.
+
+[s3]
+La revedere, tinerete,
+la revedere, liber zbor
+Intram in colivia vietii
+ce ne-mpletim de azi cu spor.
+Am vrea s-o facem cât mai larga,
+şi mai frumoasă s-o avem
+Şi-a fericirii plinatate in viata-n Isus s-o traim.
+
+[s4]
+La revedere, tinerete,
+din leagan pâna-n ziua de-azi
+Cu lacrimile mamei scumpe
+pe obositul ei obraz.
+La revedere, şi de-acuma paşim
+pe un alt drum, mai aspru
+Dar fericiti pe noul drum,
+caci Isus va ramâne-al nostru.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,35 @@
+[s1]
+643.
+1. Venind la regele Iudeu
+Isaia murmura cu jale
+Aşa vorbeşte Dumnezeu
+Fă rânduială casei tale
+Căci vei fi dus din patul tău
+Către ţărâna cea din vale.
+
+[s2]
+2. Iar regele s-a-ntors plângând
+Şi-a zis cu faţa la perete
+Tu eşti Părinte bun şi Sfânt
+Căci Tu mi-ai pus pe gând pecete
+Căci am trăit curat şi sfânt
+Şi n-au fost patimi să mă-mbete.
+
+[s3]
+3. Văzând Stăpânul cel divin
+Acele lacrime umile
+El care ştie ce suntem
+Doar umbre goale şi fragile
+I-a prelungit al vieţii fir
+Cu cincisprezece ani de zile.
+
+[s4]
+4. Şi dacă mult s-a bucurat
+De anii aceştia Ezechia
+Strigaţi creştini în lung şi-n lat
+Şi daţi de veste bucuria
+Căci iată nouă ni s-a dat
+Nu câţiva ani ci veşnicia.
+
+[order]
+s1,s2,s3,s4

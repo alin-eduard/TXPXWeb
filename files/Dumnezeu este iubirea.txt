@@ -1,0 +1,36 @@
+[s1]
+Dumnezeu este iubirea
+Scrie-n stele strălucirea -
+Preamăreşte-L, suflete al meu !
+Dealuri şi păduri arată
+Dragostea Lui minunată -
+Slavă daţi în veci lui Dumnezeu !
+
+[s2]
+Vîntul prin copaci adie
+Imnul Său duios.
+Astrele o simfonie
+,Nalţă maiestos
+Şi frumos natura cîntă
+Ascultaţi cîntarea sfîntă -
+Slavă daţi în veci lui Dumnezeu !
+
+[s3]
+Da, iubirea se jertfeşte
+Numai ea se umileşte
+Dragostea e-al nostru Dumnezeu.
+El e Creatorul nostru
+El, Mîntuitorul nostru
+A purtat păcatul nostru greu.
+
+[s4]
+El batjocorit pe cruce
+Moare părăsit.
+Tot păcatul lumii duce
+Blînd şi umilit.
+El smerit purtînd cununa
+A învins pe totdeauna -
+Dumnezeu e dragoste în veci.
+
+[order]
+s1,s2,s3,s4

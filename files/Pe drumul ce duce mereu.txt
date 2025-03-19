@@ -1,0 +1,43 @@
+[s1]
+Pe drumul ce duce mereu către cer
+Adesea Isuse disper
+Căci valul şi lupta mereu e mai grea
+Eu Te rog astăzi nu mă lăsa.
+
+[r1]
+Să-mi torni în adânc
+Al Tău sfânt cuvânt
+Şi valul ce mă va lovi
+Nicicând, niciodat’
+Isuse să nu cad
+Când cel rău mă va ispiti.
+
+[s2]
+Căci drumul ce duce la Tine Isus
+Pe El şi martirii s-au dus
+Au fost prigoniri, au fost şi jertfiri
+Dar nu ca a Ta scump Isus.
+
+[s3]
+Deci urcă mereu, aici de ţi-i greu
+Pe genunchi rugăciuni fă mereu
+Şi vei izbuti, la El vei sosi
+Dar nu înapoi nu privi.
+
+[s4]
+Mai sus către ţintă mai sus la Isus
+Mai sus fraţii noştri s-au dus
+Acolo vrem Doamne s-ajungem şi noi
+Şi-atunci vom scăpa de nevoi.
+
+[s5]
+Ref:
+Să-mi torni în adânc
+Al Tău sfânt cuvânt
+Şi valul ce mă va lovi
+Nicicând, niciodat’
+Isuse să nu cad
+Când cel rău mă va ispiti.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5

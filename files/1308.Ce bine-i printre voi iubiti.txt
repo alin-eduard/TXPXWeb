@@ -1,0 +1,44 @@
+[s1]
+1308.
+1.  Ce bine-i printre voi iubiţi
+Şi dragi ai sufletului meu
+Iubirea voastră-n mine arde
+Alături de-a lui Dumnezeu
+Întâi e-a lui apoi a noastră
+De El mi-e dragostea de voi.
+/: Hristos şi voi mi-aţi fost comoară
+Prin lumea asta de noroi : /
+
+[r1]
+%Fiţi binecuvântaţi%
+Surorii iubite şi voi fraţii
+
+[s2]
+2.  Ce bine printre, voi iubiţi
+Şi scumpii vieţii mele întregi
+De voi mă strâng ale iubirii
+În veci nebiruite legi
+De voi şi de Hristos pe viaţă
+Şi-n veşnicie sunt legat.
+/: Nimic nu va putea desparte
+Ce Dumnezeu a-mpreunat:/
+
+[s3]
+3.  Ce bine-i între voi cu lacrimi
+Îngenunchiaţi să ne rugăm
+Ce bine-i între voi când sfântul  Cuvânt ceresc îl ascultăm
+Ce bine-i între voi când glasul  Printre cântări mi-l împletim.
+/: Ce bine-i când gândim la ceruri / În veci să nu ne despărţim:/
+
+[s4]
+4.  Ce bine-i când la despărţire
+Sunt petrecut cu drag de voi
+Ce bine-i când iubirea voastră
+Mă întâmpină venind-napoi
+Ce bine-i şi cu voi la muncă
+Şi ce uşor cu voi la greu.
+/: Cu voi e Dumnezeu în mine
+Şi eu cu voi în Dumnezeu:/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

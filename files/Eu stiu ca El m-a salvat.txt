@@ -1,0 +1,19 @@
+[s1]
+Eu ştiu că El m-a salvat
+Spălat eu sunt de păcat
+Da, eu cred, da, eu cred
+El inima mi-a spălat
+Şi rana mi-a vindecat
+Da, eu cred, da, eu cred
+Ridic stindardul,
+Isus din morţi a-nviat
+/:Domnul meu e viu:/(4X)
+
+[s2]
+Mi-a luat povara, m-a ridicat,
+Pe stâncă sus m-a aşezat
+/: Aştept venirea Sa :/
+/: Domnul meu e viu :/
+
+[order]
+s1,s2

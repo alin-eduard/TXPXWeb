@@ -1,0 +1,39 @@
+[s1]
+1. La miezul nopţii va veni
+Isus, cu pas domol,
+Şi vai de cel ce-l va găsi
+Pierdut cu suflet gol.
+343. 								Fa
+
+[s2]
+O, lumea asta de nevoi
+Cum a orbit acum!
+Crezând că ziua de apoi,
+A-ntârziat pe drum.
+
+[s3]
+2. Fiecare în lucrul lui,
+Să-şi pună-al vieţii gând,
+Ca să-l arate Domnului,
+Când va veni curând.
+
+[s4]
+Din somn treziţi-vă, sculaţi,
+Căci vă pândesc dureri,
+Şi unul pe-altul vă-ndemnaţi,
+La sfinte privegheri.
+
+[s5]
+3. Deci suflete fii gata, treaz,
+O clipă nu dormi,
+Căci trece Mirele chiar azi,
+Şi daru-ţi vei primi.
+
+[s6]
+Venirea Lui se-apropie,
+Să treacă judecând.
+O, suflet ţine-te curat,
+Căci poţi cădea oricând.
+
+[order]
+s1,s2,s3,s4,s5,s6

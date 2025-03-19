@@ -1,0 +1,28 @@
+[s1]
+Ai murit în locul meu,
+Doamne cât a fost de greu.
+Tu Ţi-ai dat viaţa Ta,
+Ca să pot intra-n prezenţa Ta.
+Ca să pot sta de-acum naintea Ta,
+Şi-n ea mă voi bucura.
+
+[r1]
+Mă-nchin azi Ţie
+şi vreau să te slăvesc.
+Tu-mi dai putere
+Doamne să te preamăresc.
+Tu ai fost răstignit
+pe cruce ca să mă smeresc.
+Tu mi-ai dat mântuire
+ca să pot să Te iubesc.
+
+[s2]
+Tu ai fost Miel preasfânt,
+Ai venit jos pe pământ.
+Te-ai jertfit mi-ai dat în dar,
+Viaţă nouă plină de-al Tău har.
+Simt că ai murit sus pe Calvar,
+Un dar dulce şi amar.
+
+[order]
+s1,r1,s2,r1

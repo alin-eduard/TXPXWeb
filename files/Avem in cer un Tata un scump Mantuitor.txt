@@ -1,0 +1,41 @@
+[s1]
+Avem în cer un Tată
+un scump Mântuitor,
+Mereu grija ne-o poartă
+e bun şi-ocrotitor.
+/:Viaţa ne conduce în fiecare zi
+Păziţi suntem de
+Domnul orişice-ar veni.:/
+
+[s2]
+Noi suntem o familie
+suntem un neam ales,
+Avem origini sfinte
+şi rădăcini cereşti.
+/:Iubirea Lui divină
+pe veci ne-a înfrăţi,
+Ne ţine împreuna
+suntem nedespărţiţi.:/
+
+[s3]
+Frumos e viitorul
+spre care ne îndreptăm,
+Nădejdea şi iubirea
+în suflet le purtăm.
+/:Ne bănuită slavă
+ne-aşteaptă acolo sus,
+Cununa veşniciei
+răsplata lui Isus.:/
+
+[s4]
+Frumoasă ne e viaţa
+şi traiul cu folos,
+Şi pavăză ne este
+iubirea lui Hristos.
+/:Mai mare fericire
+şi har pe lume nu-i,
+Decât să fii cu Domnul
+să ştii că eşti al Lui.:/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,52 @@
+[s1]
+De nu poţi ca să vii cu mine
+Isuse-n orice drum al meu
+Ridică-mi piedici netrecute
+Să nu mai pot să trec nici eu.
+Să nu pot, să nu pot niciodată
+Săvîrşi fără Tine vre-un pas !
+Să mă las, o, Isuse, de toate
+Dar de Tine nicicînd nu mă las.
+
+[s2]
+De nu vrei ca să fac lucrarea
+Ce-am zămislit-o-n mintea mea
+Zădărniceşte-i împlinirea
+Să nu mai pot păşi spre ea.
+Să nu pot, să nu pot niciodată
+Săvîrşi fără Tine vre-un pas !
+Să mă las, o, Isuse, de toate
+Dar de Tine nicicînd nu mă las.
+
+[s3]
+De nu vrei să rostesc cuvîntul
+Ce tainic mi-a-ncolţit în gînd
+Trimite negura uitării
+Să nu-l mai pot rosti nicicînd.
+Să nu pot, să nu pot niciodată
+Săvîrşi fără Tine vre-un pas !
+Să mă las, o, Isuse, de toate
+Dar de Tine nicicînd nu mă las.
+
+[s4]
+De nu poţi să primeşti la Tine
+Ce inima mi-ar vrea-mplinit
+Mai bine curmă-mi firul vieţii
+Decît de Tine despărţit.
+Să nu pot, să nu pot niciodată
+Săvîrşi fără Tine vre-un pas !
+Să mă las, o, Isuse, de toate
+Dar de Tine nicicînd nu mă las.
+
+[s5]
+Căci vreau să-nalţ un imn spre Tine
+Ca-n mine să Te port mereu
+Ce nu poţi face Tu, Isuse
+Să nu pot făptui nici eu.
+Să nu pot, să nu pot niciodată
+Săvîrşi fără Tine vre-un pas !
+Să mă las, o, Isuse, de toate
+Dar de Tine nicicînd nu mă las.
+
+[order]
+s1,s2,s3,s4,s5

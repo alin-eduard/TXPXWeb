@@ -1,0 +1,53 @@
+[s1]
+La Tine vin şi-mi cer iertare...
+O, Doamne, bun, primeşte-mă!
+În bunătatea Ta cea mare,
+Aşa cum sunt, primeşte-mă!...
+
+[r1]
+/:Căci mă-ntorc şi-n genunchi
+Milă-Ţi cer, Domnul meu;
+Mă-ntorc şi-aş dori să mă ştiu fiul Tău;
+Mă-ntorc ca să-mi dai din al vieţii izvor;
+Mă-ntorc, căci de Tine mi-e dor...:/
+
+[s2]
+Eu ştiu că Tu nu-mi ţii în seamă
+Trecutul meu cel păcătos,
+Dar porunceşti ca să am teamă
+Şi să trăiesc de-acum frumos.
+
+[s3]
+Eu ştiu că m-ai chemat la Tine,
+Dar eu n-am vrut să Te ascult;
+De-atunci, sunt ani...şi mi-e ruşine
+C-am amânat atât de mult...
+
+[s4]
+Şi dac-adesea-s trist pe cale
+Şi merg pe drum anevoios,
+Prin jertfa mîntuirii Tale
+Sunt mântuit si-s bucuros.
+
+[s5]
+Minunat! Minunat
+eşti Isus, Domnul meu!
+Minunat! Minunat,
+să mă ştiu fiul Tău!
+Minunat e când beau
+din al vieţii izvor!
+Minunat eşti al meu Salvator!
+
+[s6]
+Lăudat! Lăudat
+să fii veşnic, Isus!
+Lăudat! Lăudat,
+pe pământ şi-n cer sus!
+Lăudat să fii, Doamne,
+căci m-ai mântuit
+Şi în cer Tu locul
+mi-ai pregătit...
+9
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5,s6

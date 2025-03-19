@@ -1,0 +1,28 @@
+[s1]
+Al Tău rămân, o câtă fericire!
+Simţire dulce să te port mereu.
+Şoapta divină plină de iubire:
+“Eu te-am răscumpărat,
+eşti fiul meu”.
+
+[s2]
+Al Tău rămân legat pe veşnicie
+Ca o mireasă Mirelui iubit.
+Sfânt legământ, duioasă mărturie,
+Să port în viaţă chipul Tău slăvit!
+
+[s3]
+Al Tău rămân,
+o spune-mi tot ce-nseamnă
+Toată iubirea inimii să-ţi dau;
+Smerit să fiu în sfântă consacrare,
+Si gata la cuvântul Tău să stau.
+
+[s4]
+Al Tău rămân, fiinţa-ntreagă spune
+Că Tu eşti, Doamne, singurul stăpân.
+Fă ca în lumea plină de ispite
+Copilul Tău în veci eu să rămân.
+
+[order]
+s1,s2,s3,s4

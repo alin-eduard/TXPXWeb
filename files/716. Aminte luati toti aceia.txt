@@ -1,0 +1,53 @@
+[s1]
+1. 	Aminte luaţi toţi aceia
+Pe care v-am pus să vegheaţi
+La poarta cetăţii de strajă
+Cu nepăsare să nu staţi.
+Cor:	Sunaţi deşteptare-n cetate
+Sunaţi la întregul popor
+Căci vinul se vinde şi lapte
+La toţi aceia doritori.
+716.     Fa m
+
+[s2]
+2.	Aceia ce vă temeţi de Mine
+Şi vreţi să-mpliniţi ce v-am spus
+Duceţi-vă şi daţi de ştire
+Căci iată sunt gata să vin.
+Cor:	Sunaţi deşteptare-n cetate
+Sunaţi la întregul popor
+Căci vinul se vinde şi lapte
+La toţi aceia doritori.
+
+[s3]
+3.	Ca robi credincioşi să vă temeţi
+Ce aşteaptă pe stăpânul lor
+Sunaţi deşteptare-n cetate
+Cu grijă să fiţi în Sion.
+Cor:	Sunaţi deşteptare-n cetate
+Sunaţi la întregul popor
+Căci vinul se vinde şi lapte
+La toţi aceia doritori.
+
+[s4]
+4.	Veniţi să-nvăţaţi de la Mine
+Căci drumul acesta e greu
+Voi să-l urcaţi până la culme
+Aşa cum l-am urcat şi Eu.
+Cor:	Sunaţi deşteptare-n cetate
+Sunaţi la întregul popor
+Căci vinul se vinde şi lapte
+La toţi aceia doritori.
+
+[s5]
+5.	Căci calea aceasta sfârşeşte
+În slava cea fără de chin
+Spune-ţi celui ce oboseşte
+Căci în ajutorul lui vin.
+Cor:	Sunaţi deşteptare-n cetate
+Sunaţi la întregul popor
+Căci vinul se vinde şi lapte
+La toţi aceia doritori.
+
+[order]
+s1,s2,s3,s4,s5

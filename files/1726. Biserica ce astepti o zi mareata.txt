@@ -1,0 +1,52 @@
+[s1]
+1. Biserică ce-aştepţi o zi măreaţă
+Deşteaptă-te căci zilele-s de har
+Va fi târziu în zori de dimineaţă
+Să vrei să te întorci va fi-n zadar
+/:Acuma e har:/ Leapădă somnul
+Priveşte în zare, revine Domnul
+Unde-i credinţa?
+/:Schimbă-ţi râsul tău lumesc
+În lacrimile ce-nsoţesc
+Şi-n ascuns îţi dăruiesc, pocăinţa:/
+1726. Fam
+
+[s2]
+2. Voi sunteţi seminţia cea aleasă
+Dar nu v-asemănaţi cu neamul rău
+Căci Domnul are
+O singură mireasă
+Ce-i ne-ntinată pentru Dumnezeu
+/:Acuma e har:/ Leapădă somnul
+Priveşte în zare, revine Domnul
+Unde-i umilinţa?
+/:Schimbă-ţi râsul tău lumesc
+În lacrimile ce-nsoţesc
+Şi-n ascuns îţi dăruiesc, pocăinţa:/
+
+[s3]
+3. În ziua veşniciei orişicine
+Ca să lipsească nimeni n-ar dori
+Dar jos aici în valea de suspine
+Puţini se pregătesc pentru acea zi
+/:Acuma e har:/ Leapădă somnul
+Priveşte în zare, revine Domnul
+Unde-i iubirea?
+/:Caută-ţi fraţii ne-nsemnaţi
+Nu-i căuta pe cei bogaţi
+Căci aşa voi arătaţi, mântuirea:/
+
+[s4]
+4. Biserică priveşte-ţi azi veşmântul
+Şi ce-i lumesc aruncă la pământ
+Întoarce-te-noieşte legământul
+Căci Dumnezeu din cer /:e sfânt:/,
+/:Acuma e har:/ Dar va fi-va ferice
+De cel ce se întoarce când zice
+Domnul Doreşte!
+/:Fraţilor să ne smerim
+Căci atuncea moştenim
+Dac-aici ne pocăim, ne primeşte:/
+
+[order]
+s1,s2,s3,s4

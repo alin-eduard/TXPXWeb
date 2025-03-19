@@ -1,0 +1,33 @@
+[s1]
+1. Doamne Isuse eu Te chem
+Să mă ajuţi să pot să-nfrâng
+Necazul meu sub care gem
+La Tine vin cum sunt.
+Cor: /: La Tine vin
+Cum sunt Doamne :/
+La Tine vin aşa cum sunt
+Te rog să mă primeşti :/
+611.
+
+[s2]
+2. Eu sunt bolnav în stare grea
+Inima Tu-mi poţi vindeca
+Lumea nu poate pacea-mi da
+La Tine vin cum sunt.
+Cor: /: La Tine vin
+Cum sunt Doamne :/
+La Tine vin aşa cum sunt
+Te rog să mă primeşti :/
+
+[s3]
+3. Ce e firesc îndepărtez
+Ca îndreptare să primesc
+Prin al Tău har deci să lucrez
+La Tine vin cum sunt!
+Cor: /: La Tine vin
+Cum sunt Doamne :/
+La Tine vin aşa cum sunt
+Te rog să mă primeşti :/
+
+[order]
+s1,s2,s3

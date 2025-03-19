@@ -1,0 +1,23 @@
+[s1]
+Isus, izvorul vieţii noastre
+Har ceresc ne-ai dăruit
+De noi Tu te-ai îndurat
+Şi ne-ai găsit.
+Tu ne-ai umplut întregul suflet,
+Cu cântări de bucurii,
+Ce spre Tine se înalţă-n veşnicii.
+
+[r1]
+Isus, o Isus, azi noi te slăvim,
+Isus, o Isus, vrem ai Tăi să fim.
+
+[s2]
+Primeşte-a noastră tinereţe
+Ce cu jertfă Ţi-o predăm
+Tu de ea Te foloseşte te rugăm
+A Ta lucrare s-o păzească
+Şi lumină toţi să fim
+Pe Isus în noi să-L vadă, o dorim
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,43 @@
+[s1]
+1795.
+1. /:”Slavă, slavă!”
+Îţi cântăm Isus necontenit!
+Slavă! Slavă!
+Tu ne eşti Mântuitor iubit!:/
+Jertfa Ta e preţul mare,
+Pentru noi răscumpărare
+Din a morţii închisoare.
+Slavă-n veci, Isus!
+Nimeni nu ne înţelege,
+În a noastră făr`delege
+Şi duios să ne dezlege,
+Decât Tu, Isus!
+
+[s2]
+2. /:Slavă! Slavă!
+Pentru harul Tău cel nesecat!
+Slavă! Slavă!
+Că-L reverşi spre noi tot mai bogat!:/
+Harul Tău ne priveghează,
+Viaţa ne-o îndestulează
+Şi, în Tine, ne-o păstrează.
+Slavă-n veci, Isus!
+Nimeni nu ne dă lumină,
+Prin a lumii neagră tină,
+Să păşim pe cale lină, decât Tu, Isus!
+
+[s3]
+3. /:Slavă! Slavă!
+Pentru vecii cei frumoşi ce vin!
+/:Slavă!:/ Ţie ne-nchinăm /:Amin!://
+Lucruri nemaiauzite,
+Stări cereşti preafericite,
+Sunt de Tine pregătite.
+Slavă-n veci Isus!
+Nimeni, nimeni, nu e-n stare,
+Să ne ducă-n drum de soare
+Şi-n eternă sărbătoare,
+Decât, Tu, Isus!
+
+[order]
+s1,s2,s3

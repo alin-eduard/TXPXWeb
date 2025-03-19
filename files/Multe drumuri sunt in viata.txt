@@ -1,0 +1,27 @@
+[s1]
+Multe drumuri sunt în viaţă,
+Voi străbate să ajung
+La sfârşit să-mi cunosc drumul
+Veşniciei, cel mai lung.
+Mi M
+
+[r1]
+/: Moartea nu ne înspăimântă,
+Nu ne e frică de ea,
+Ţinta noastră e Golgota,
+Să străbatem pân’ la ea. :/
+
+[s2]
+Vrem ca s-ajungem acolo
+Unde n-or mai fi dureri,
+Unde L-om vedea pe Domnul
+În eternul unde-i El.
+
+[s3]
+Calea noastră e îngustă,
+Multe piedici sunt pe ea
+Ştim că Domnul ne ajută
+Să-nvingem în lupta grea.
+
+[order]
+s1,r1,s2,r1,s3,r1

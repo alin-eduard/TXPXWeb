@@ -1,0 +1,70 @@
+[s1]
+Cu priviri adânci şi grele
+Te îndrepţi spre cei căzuţi
+Ce n-au auzit de Isus,
+de salvarea ce-a adus.
+Sunt căzuţi în patimi grele,
+sunt căzuţi în cursa lor
+Şi cu inimi ca de piatră
+nu primesc decât ce-i rău.
+
+[s2]
+Vrei să spui : “Isus trăieşte !”
+să le spui cum L-ai primit
+Şi cu gânduri de salvare
+peste ei mâna să pui!
+Dar opreşte-te şi caută
+de trăieşti ce vrei să spui.
+
+[s3]
+/: Nu le spune de iubirea
+ce în Isus ai găsit
+Dacă inima ţi-e rece
+şi cu ei nu poţi simţi.
+Dacă ei nu văd în tine
+nici o rază din Isus
+Nu le spune de iubire !
+Vor urî tot ce le-ai spus ! :/
+
+[s4]
+Ei se uită către tine ca
+pescaru-n noaptea grea
+Să zărească vreo lumină
+să vâslească către ea.
+De le spui Isus e-n tine,
+negreşit vor încerca
+Să observe diferenţa
+ce-a făcut-o-n viaţa ta.
+
+[s5]
+Ei vor judeca pe Isus
+şi salvarea ce-o vesteşti
+După port, vorbiri şi fapte,
+după felul cum munceşti
+Ei vor alerga la Isus,
+dacă tu ce spui trăieşti.
+
+[s6]
+/: Nu le spune de iubirea
+ce în Isus ai găsit
+Dacă inima ţi-e rece
+şi cu ei nu poţi simţi.
+Dacă ei nu văd în tine
+nici o rază din Isus
+Nu le spune de iubire !
+Vor urî tot ce le-ai spus. :/
+
+[s7]
+De nu poţi să fii exemplu,
+nu le spune de Isus
+Că ei caută adevărul
+şi în tine nu l-ai pus.
+Îi vei pierde pe vecie
+şi pedeapsa va cădea,
+Că ei în ziua judecăţii
+pe Isus Îl vor vedea
+Toţi vor arăta spre tine
+şi acuzat vei rămânea.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

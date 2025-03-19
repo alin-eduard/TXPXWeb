@@ -1,0 +1,27 @@
+[s1]
+406.
+1.Evanghelia se vesteşte
+Omule te pocăieşte
+/:Nu aştepta, nu întârzia:/.
+2.Astăzi eşti în libertate
+Şi tu stai pe căi stricate
+/:Nu aştepta, nu întârzia:/.
+
+[s2]
+3.De nu vii la pocăinţă
+Vei avea mare căinţă
+/:Nu aştepta, nu întârzia:/.
+4.Deschide-ţi inima frate
+Şi vino la libertate
+/:Ca să ai mântuire:/.
+
+[s3]
+5.Astăzi Hristos te primeşte
+Plânge şi te pocăieşte
+/:Ca să ai mântuire:/.
+6.Căci răul cel blestemat
+Te ţine în cursă legat
+/:Şi râde că te-a înşelat:/.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,33 @@
+[s1]
+1457.
+Călători spre ţara sfântă
+Noi suntem aicea jos
+Cerul e a noastră ţintă
+Şi al nost Mire drag Hristos
+Cor   Haideţi toţi cu bucurie
+Către patria de sus
+Să cântăm o veşnicie
+Împreună cu Isus
+
+[s2]
+În umblarea noastră scurtă
+Aici suntem trecători
+Dar sfârşim această luptă
+Vom fi-n cer nemuritori
+Cor   Haideţi toţi cu bucurie
+Către patria de sus
+Să cântăm o veşnicie
+Împreună cu Isus
+
+[s3]
+Prin furtuni şi prin talazuri
+Zi de zi cu greu răzbim
+Prin dureri şi prin necazuri
+Doar cu Isus biruim
+Cor   Haideţi toţi cu bucurie
+Către patria de sus
+Să cântăm o veşnicie
+Împreună cu Isus
+
+[order]
+s1,s2,s3

@@ -1,0 +1,69 @@
+[s1]
+1344.  Mim
+1.  Pe marea-nvolburată
+Ca Petru altădată
+Păşeşti şi tu acum spre Domnul tău
+Dar vântu-ţi stă-mpotrivă
+Începi să te scufunzi
+Şi strigi ai milă
+Doamne, Domnul meu.
+
+[s2]
+Cor:  Încrede-te în Domnul
+Chiar când furtuna-i mare
+Şi valul cel năprasnic te-a lovit
+Încrede-te în Domnul
+N-auzi tu şoapta-I blândă
+De ce copilul meu te-ai îndoit?.
+
+[s3]
+2.  Când vin asupra furtunile vieţii
+Şi simţi că toţi din jur
+Te-au părăsit
+Priveşte doar la Domnul
+Căci El te înţelege
+.    În viaţă când te simţi părăsit
+
+[s4]
+Cor:   Încrede-te în Domnul
+Chiar când furtuna-i mare
+Şi valul cel năprasnic te-a lovit
+Încrede-te în Domnul
+Doar El te înţelege
+În viaţă când te simţi părăsit.
+
+[s5]
+3.  Încrede-te în Domnul
+Când nu mai ai scăpare
+Când lupţi din greu
+Şi eşti descurajat
+Priveşte spre Golgota
+Şi vei găsi alinul
+Ce-n lume nicăieri tu n-ai aflat.
+
+[s6]
+Cor:  Încrede-te în Domnul
+Chiar când furtuna-i mare
+Şi valul cel năprasnic te-a lovit
+Încrede-te în Domnul
+Când lupta este mare
+Căci doar prin El tu eşti izbăvit.
+
+[s7]
+4.  Priveşte-n depărtare
+O rază străluceşte
+Când totu-n jurul tău s-a-ntunecat
+Pe calea ta spinoasă
+Isus îţi e lumina
+Încrede-te în El neîncetat.
+
+[s8]
+Cor:  Încrede-te în Domnul
+La glasul Lui furtuna
+Şi valul cel năprasnic s-ar opri
+Tu adu-I mulţumire
+Şi laudă-L într-una
+Căci minunat El va izbăvi.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

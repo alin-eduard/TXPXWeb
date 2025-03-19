@@ -1,0 +1,43 @@
+[s1]
+1. Când bate vântul contra ta
+Tu frate nu descuraja
+Oricâte valuri vor bătea
+Şi oricât de grea îţi va fi lupta
+Când Domnul e nădejdea ta
+El nu te va lăsa.
+578.
+
+[s2]
+2. Când îţi încearcă credinţa
+Să fii gata de a răbda
+Căci Domnul te va ajuta
+Nu-ţi pierde frate credinţa
+Căci nicidecum nu te-a lăsa
+Şi se va îndura.
+
+[s3]
+3. Iar prin necazuri şi dureri
+Îndreaptă-ţi ochii către cer
+Căci în durerea cea mai grea
+El alinare îţi va da
+Orice necazuri va îndepărta
+Şi te va ajuta.
+
+[s4]
+4. Căci prin furturi şi încercări
+Îşi trece Domnul pe ai Săi
+Iar tu nu te înspăimânta
+Că-ncercări nu te-oi lăsa
+Şi negreşit El va lucra
+Şi iar te va salva.
+
+[s5]
+5. Nu căuta să fii scutit
+De încercări şi suferinţi
+Căci numai acei încercaţi
+Sunt fraţii, cei adevăraţi
+Când lupta aicea vor sfârşi
+Cu Domnu-or moşteni.
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,32 @@
+[s1]
+Sunt un strain pe lume,
+Sunt parasit de toti,
+Si-n cea mai grea-ncercare,
+Alerg doar la Hristos.
+
+[r1]
+/: Am cautat fericirea
+Dar lumea nu mi-a dat;
+Numai Isus e-acela
+Ce-n brate m-a luat. :/
+
+[s2]
+Am alergat la oameni
+Sa cer un ajutor,
+Dar am vazut ca si ei
+Sunt niste muritori.
+
+[s3]
+Am cautat mingiierea,
+La omul pacatos;
+M-am increzut in basme
+Ce nu aveau folos.
+
+[s4]
+Azi nu mai pling o clipa,
+Privesc numai in sus.
+Desi dureri sunt multe,
+Ma mangaie Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,9 @@
+[s1]
+Binecuvântat să fii Isus,
+Tu eşti vrednic ca să fi lăudat.
+Mâini curate înspre cer
+azi ridicăm cântând:
+/:Binecuvântat, binecuvântat Binecuvântat să fii în veci!:/
+
+[order]
+s1

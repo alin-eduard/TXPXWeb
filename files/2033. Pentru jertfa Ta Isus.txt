@@ -1,0 +1,33 @@
+[s1]
+2033
+1. Pentru jertfa Ta Isus
+Pentru sângele ce-a curs
+Pentru harul Tău de sus
+Te iubesc și-Ți cânt Isus.
+
+[s2]
+2. Pentru tot ce Tu mi-ai dat
+Pentru tot ce mi-ai luat
+Pentru tot ce ai lucrat
+Te iubesc cu adevărat.
+
+[s3]
+3. Pentru tot ce-am întâlnit
+Pentru tot ce mi-ai vestit
+Pentru darul Tău ceresc
+Mă închin și-Ți mulțumesc.
+
+[s4]
+4. Pentru lacrimi pe obraz
+Pentru ceasul de necaz
+Pentru izbăvirea Ta
+Te iubesc și-Ți voi cânta.
+
+[s5]
+5. Pentru bunătatea Ta
+Pentru îndurarea Ta
+Pentru viața ce-am primit
+Te slăvesc Isus iubit.
+
+[order]
+s1,s2,s3,s4,s5

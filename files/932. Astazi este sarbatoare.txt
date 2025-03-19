@@ -1,0 +1,29 @@
+[s1]
+932.
+1.	Astăzi este sărbătoare
+În această adunare
+Două inimi se unesc
+Cu Dumnezeu ei păşesc.
+2.	Ca şi Rebeca şi Isaac
+Să fiţi exemplu de urmat
+Domnul va fi-ntra-l vost' cămin
+De acum şi-n veci de veci amin.
+
+[s2]
+3.  Condui pe-a vieţii cale
+În necazuri şi-n încercări
+Dă-le binecuvântarea
+Şi ascultă-i în nevoi.
+Să fii cu a lor părinţi
+Care i-au purtat în rugi
+Iar pe cale către cer
+Le fii sprijin şi ajutor.
+
+[s3]
+5.	Şi acum la despărţire
+Tu mireasă şi tu mire
+Voi de Domnul să asculaţi
+Ca şi Rebeca şi Isaac.
+
+[order]
+s1,s2,s3

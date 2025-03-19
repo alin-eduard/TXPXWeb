@@ -1,0 +1,32 @@
+[s1]
+Atâtea flori s-au ofilit
+Căci iarăşi toamna a sosit.
+Ani după ani se duc în zbor
+Şi toate trec spre viitor…
+/ : Dar tu eşti o floare să ştii,
+Oricine în lume ai fi!
+Odată, în praf la pâmânt,
+Cădea-vei ca frunza în vânt:/
+
+[s2]
+Priveşte-n urmă anii tăi
+Cum au zburat ca şi un vis…
+Ai fost copil, iar astăzi tu
+Priveşti cum cresc ai tăi copii.
+/: Şi tu eşti ca floarea pe lac
+Ce apele mari o desfac,
+Petalele tale se frâng…
+În urmă rămân cei ce plâng…:/
+
+[s3]
+Dar nu uita că dacă vrei
+Tu iarăşi poţi să înfloreşti
+În veşnicii, cu fraţii tăi,
+Depinde cum te pregăteşti !
+/ : Un lucru aş vrea să mai ştii
+Căci sus în locaşul ceresc
+Acolo sunt apele vii
+Şi florile nu se ofilesc :/
+
+[order]
+s1,s2,s3

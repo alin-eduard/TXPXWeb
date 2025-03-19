@@ -1,0 +1,32 @@
+[s1]
+O, Te privim, Isuse,
+Pe cruce răstignit,
+În suferinţe­amare,
+De oameni chinuit.
+/: De răni Ţi­e fruntea plină
+Şi trupul Tău e frânt,
+Dar Tu n­ai nici o vină,
+Tu eşti cu totul sfânt. :/
+
+[s2]
+Noi meritam osânda,
+Dar Tu prin suferinţi
+Ai câştigat izbânda;
+Făcut-ai din noi sfinţi.
+/: Noi meritam ocara
+Şi sabia de foc,
+Dar Tu­ai purtat povara
+Bătăilor de joc. :/
+
+[s3]
+Cum am putea răspunde
+Acum la jertfa Ta?
+Să Te urmăm oriunde
+Cu toată dragostea,
+/: Să Te iubim fierbinte,
+Cu Tine suferind,
+Făcând tot timpul bine,
+Venirea Ta grăbind. :/
+
+[order]
+s1,s2,s3

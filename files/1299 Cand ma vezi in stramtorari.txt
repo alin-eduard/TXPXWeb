@@ -1,0 +1,53 @@
+[s1]
+1299.
+Când mă vezi în strâmtorare
+O Isuse Domnul meu
+Când Tu mă vezi în strâmtorare
+Tu să-mi trimiţi o salvare
+Să pot trece valuri grele
+Că de-atâte ori Isuse
+Valuri mă lovesc
+Te rog dă-mi puteri întruna
+Să pot birui furtuna
+Până când la tine sosesc
+1.
+2.
+
+[s2]
+Mă îmbracă cu putere
+Mai îmbracă în Duhul Sfânt
+Mă îmbracă în umilinţă
+Să pot rămâne în credinţă
+Că Tu vei veni curând
+Mai stropit cu al Tău sânge
+Şi mai uns cu Duhul Sfânt
+Tu mi-ai dat o haină Sfântă
+Ca să pot intra la nuntă
+Vine Mirele în curând
+3.
+4.
+
+[s3]
+O biserică iubită
+Şi pe tine te-a salvat
+Isus cu a Lui Sfânt sânge
+Ca să pot şi eu ajunge
+Sus în cerul minunat
+Nu mai sta în nepăsare
+Te îndeamnă Duhul Sfânt
+Fii de nuntă pregătit
+Căci cetatea e gătită
+Ca să intri în curând
+5.
+6.
+
+[s4]
+Cheamă-mă în orice vreme
+Fii mereu cu ochii-n sus
+Căci se apropie izbăvirea
+Părăseşte aţipirea
+Căci vine Domnul în curând
+7.
+
+[order]
+s1,s2,s3,s4

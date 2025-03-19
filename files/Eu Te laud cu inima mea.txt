@@ -1,0 +1,15 @@
+[s1]
+Eu Te laud cu inima mea.
+Eu Te laud cu sufletul meu.
+Eu Te caut, Te caut mereu.
+Vreau pe Tine,
+Doamne, să Te urmez.
+
+[s2]
+Vreau să mă închin doar Ţie,
+Să Te laud, Domnul meu.
+Tot ce am, îţi aparţine.
+Tu eşti vrednic, Domnul meu!
+
+[order]
+s1,s2

@@ -1,0 +1,41 @@
+[s1]
+Anii se duc şi viaţa trece
+Tu pentru Domnul ce-ai făcut
+Ai pribegit în lumea mare
+De suflet rău nu ţi-a părut.
+Sol b M
+
+[r1]
+/: Timpul va trece nu uita
+Salvează-ţi viaţa
+Întoarce-te din calea rea
+Salvează-ţi viaţa
+Căci tot ce vezi e trecător
+Vor trece toate
+Ai să ajungi un om pierdut
+Şi condamnat la moarte. :/
+
+[s2]
+N-ai dat la suflet alinare
+Şi hrană din Cuvântul Sfânt
+Căci orişicine-ai fost în lume
+Ajungi doar un pumn de pământ.
+
+[s3]
+Deci pregăteşte-te acuma
+Nu sta pierdut şi părăsit
+Ca la a trâmbiţei chemare
+Să nu rămâi jos pe pământ.
+
+[s4]
+/: Timpul va trece şi-i trecut
+Salvează-ţi viaţa
+Şi pentru Domnul ce-ai făcut
+Vei lua răsplata
+Nu aştepta, nu amâna
+Salvează-ţi viaţa
+Şi vei scăpa de orice greu
+Când totul va fi gata. :/
+
+[order]
+s1,r1,s2,r1,s3,s4

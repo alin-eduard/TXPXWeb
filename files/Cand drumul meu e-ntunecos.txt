@@ -1,0 +1,26 @@
+[s1]
+Când drumul meu e-ntunecos,
+Lumina mea-i Isus Hristos;
+Cu El străbat calea voios;
+Ce bun e El!
+
+[s2]
+Când e furtună-n jurul meu
+Si ceru-ntreg e un nor greu,
+Isus e păzitorul meu;
+Ce bun e El!
+
+[s3]
+Când suflă rece-al morţii vânt
+Si pier comori de pe pământ,
+Isus rămâne orişicând;
+Ce bun e El!
+
+[s4]
+Şi ieri, şi azi, şi-n viitor
+E-acelaşi bun ocrotitor,
+Mereu îmi vine-n ajutor;
+Ce bun e El!
+
+[order]
+s1,s2,s3,s4

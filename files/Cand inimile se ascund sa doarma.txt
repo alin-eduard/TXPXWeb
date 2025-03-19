@@ -1,0 +1,26 @@
+[s1]
+Când, inimile se ascund să doarmă
+Şi sufletele aţipesc
+Pe Tine, Te caut, Doamne,
+Căci vreau să-Ţi vorbesc.
+
+[r1]
+/: Simt că în bezna rece
+Doar Tu şi eu trăim noi doi
+Şi nu mai simt, clipa ce trece
+Viaţa am acum, din nou :/
+
+[s2]
+Durerile au fugit, din mine
+Şi focul Tău, din mine, a pierit
+Căci Tu ne-ai luat pentru Tine
+Să nu am de suferit.
+
+[s3]
+Acum durerea, o-nţeleg
+Sensurile adună-le
+Isuse, Îţi mulţumesc
+/: Ştiu acum, că Te iubesc :/
+
+[order]
+s1,r1,s2,r1,s3

@@ -1,0 +1,71 @@
+[s1]
+De e noapte sau zi,
+De sunt treaz sau de-aş dormi,
+Doamne Tu mă cercetezi şi Tu mă ştii.
+De e soare sau nor,
+De urc sau de cobor,
+Doamne Tu mă cercetezi şi mă cunoşti.
+
+[s2]
+De departe-mi pătrunzi gândul,
+Şi nu mi-e rostit cuvântul,
+Căci Tu Doamne îl cunoşti deja-ntru totul,
+Mă-nconjori ‘napoi, ‘nainte,
+Îţi pui mâna peste mine,
+Ce ştiinţă minunată,
+E prea-naltă pentru mine s-o pot prinde.
+
+[s3]
+Sus în cer de m-aş sui,
+Sau ‘n-adânc de-aş locui,
+Doamne pretutindeni Te voi întâlni.
+De-aş lua aripile zorilor,
+S-ajung la marginea zărilor,
+Mâna Ta mă va călăuzi şi-acolo.
+
+[s4]
+4
+De departe-mi pătrunzi gândul,
+Şi nu mi-e rostit cuvântul,
+Căci Tu Doamne îl cunoşti deja-ntru totul,
+Mă-nconjori ‘napoi, ‘nainte,
+Îţi pui mâna peste mine,
+Ce ştiinţă minunată,
+E prea-naltă pentru mine s-o pot prinde.
+
+[s5]
+Tu mi-ai întocmit fiinţa
+În chip tainic, minunat,
+Zilele mele-au fost scrise
+Mai-nainte să mă nasc.
+/:Cercetează-mă o Doamne
+Şi încearcă-mi inima,
+Spune-mi de-i rea a mea cale,
+Şi mă du pe calea Ta.:/
+
+[s6]
+6
+De departe-mi pătrunzi gândul,
+Şi nu mi-e rostit cuvântul,
+Căci Tu Doamne îl cunoşti deja-ntru totul,
+Mă-nconjori ‘napoi, ‘nainte,
+Îţi pui mâna peste mine,
+Ce ştiinţă minunată,
+E prea-naltă pentru mine s-o pot prinde.
+
+[s7]
+O adâncul bogăţiei,
+Şi comorilor înţelepciunii,
+Cât de nepătrunse sunt
+Judecăţile Tale Doamne.
+/: Căci cine Ţi-a cunoscut
+Dinainte gândurile,
+Şi cine Te-a sfătuit
+În toate lucrările. :/
+/: Cercetează-mă, o, Doamne
+Şi încearcă-mi inima,
+Spune-mi de-i rea a mea cale,
+Şi mă du pe calea Ta. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

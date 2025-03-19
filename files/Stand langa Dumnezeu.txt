@@ -1,0 +1,26 @@
+[s1]
+Odihnă, pace am aflat
+Stând lângă Dumnezeu,
+Nu sunt de cel rău tulburat
+Stând lângă Dumnezeu.
+
+[r1]
+Isus e Salvatorul,
+Fiul lui Dumnezeu,
+Prin El avem noi harul
+Stând lângă Dumnezeu.
+
+[s2]
+O, cât de mulţumit sunt eu
+Stând lângă Dumnezeu,
+Prezenţa Lui o simt mereu
+Stând lângă Dumnezeu.
+
+[s3]
+Mă simt eliberat deplin
+Stând lângă Dumnezeu,
+Mi­e sufletul de pace plin
+Stând lângă Dumnezeu.
+
+[order]
+s1,r1,s2,r1,s3,r1

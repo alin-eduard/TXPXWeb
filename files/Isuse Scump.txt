@@ -1,0 +1,26 @@
+[s1]
+Isuse scump, Tu Te-ai născut
+Spre-a noastră mântuire!
+Dar lumea nu Te-a preţuit...
+Şi pe Golgota Te-ai jertfit.
+Isuse scump, Tu Te-ai născut
+Spre-a noastră mântuire.
+
+[s2]
+Isuse scump, la Betleem,
+Venit-ai ca Miel de jertfă.
+Şi pentru omul păcătos
+Vărsat-ai sânge preţios
+Isuse scump, la Betleem
+Te-ai dezbrăcat de slavă.
+
+[s3]
+Isuse scump, Isuse scump,
+În Tine-i mântuirea;
+Dar omul azi s-a depărtat
+De legea Ta ce-ai predicat.
+Isuse scump, Isuse scump,
+În Tine-i mântuirea!
+
+[order]
+s1,s2,s3

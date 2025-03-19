@@ -1,0 +1,17 @@
+[s1]
+Voi veni cu bucurie înaintea Domnului
+Voi veni cu mulţumire-n casa Lui
+Această zi a Domnului
+E să ne bucurăm în ea
+Cântând glorie Aleluia.
+1063 								              Mi b
+
+[s2]
+Cor :
+/: Eu sunt fericit, eu sunt fericit
+Sunt fericit că El m-a mântuit! :/
+/: Osana, laudă Domnului, osana
+Laudă Domnului ce m-a salvat. :/
+
+[order]
+s1,s2

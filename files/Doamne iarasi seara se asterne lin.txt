@@ -1,0 +1,38 @@
+[s1]
+Doamne iarăşi seara se aşterne lin
+Ne aduce-n suflet cald fior, divin
+De la lucrul zilei noi venim acum
+Prin cântări şi ruga ca sa-Ţi    mulţumim.
+
+[r1]
+Fii slăvit, o, Doamne, înaltat nespus
+Pentru mântuirea care ne-ai adus
+/: Dacă astă noapte Tu vei reveni
+În întâmpinare noi vrem a ieşi. :/
+
+[s2]
+Ziua am parcurs-o şi cu biruinţi
+Dar şi-n încercare am căzut înfrânţi.
+Cerem îndurare, Doamne, Te rugăm
+Dă-ne-acum iertare, iar Te implorăm
+
+[s3]
+Luna-n crâng răsare, stelele lucesc,
+Sate şi oraşe în noapte se topesc;
+Doar din casa unde este Domn Isus
+Rugi şi cânturi sfinte se înalţă-n sus.
+
+[r2]
+Fii slăvit, o, Doamne, înălţat nespus
+Pentru mântuirea care ne-ai adus
+/: Dacă astă noapte Tu vei reveni
+În întâmpinare noi vrem a ieşi. :/
+
+[s4]
+În tăcerea nopţii cugetul e-ncins:
+Face iar bilanţul zilei ce s-a stins
+Adormim în pace, tu ne dai deplin
+Ocrotire sfântă, Doamne-Ţi mulţumim.
+
+[order]
+s1,r1,s2,r1,s3,r2,s4,r2

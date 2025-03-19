@@ -1,0 +1,63 @@
+[s1]
+1. Azi ascultă tu popor
+La al Tău Mântuitor
+Cum îi scris în carte
+Trăieşti mai departe.
+50.
+
+[s2]
+2. Şi prin post şi rugăciune
+Prin cântări şi fapte bune
+Cum îi scris în carte
+Trăieşti mai departe.
+
+[s3]
+3. Citeşte şi iar citeşte
+Caută şi împlineşte
+Cum îi scris în carte
+Trăieşti mai departe.
+
+[s4]
+4. Să iubeşti pe Dumnezeu
+Că El e Stăpânul tău
+Asta-i o poruncă
+Şi tu i-o ascultă.
+
+[s5]
+5. Iar pe aproapele tău
+Aşa spune Dumnezeu
+Ca pe tine să-L iubeşti
+Şi-n veci să trăieşti.
+
+[s6]
+6. Pentru că El e iubire
+Şi El vine ca un Mire
+După Mireasa Sa
+S-o ducă în casa Sa.
+
+[s7]
+7. Aleluia, Aleluia,
+Aleluia tot cântând
+Azi e bucurie
+Mare în Duhul Sfânt.
+
+[s8]
+8. Aleluia, Aleluia,
+Aleluia să-I cântăm
+Şi pe al nostru Mire
+Toţi să-L aşteptăm.
+
+[s9]
+9. El pe nori când va veni
+Mireasa îşi va răpi
+Te vei bucura
+Sus în casa Sa.
+
+[s10]
+10. Azi oştirea cerului
+Se bucură în jurul Lui
+Şi noi toţi cântând
+Azi în Duhul sfânt.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

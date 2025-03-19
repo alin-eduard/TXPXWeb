@@ -1,0 +1,32 @@
+[s1]
+Spre cer doresc a mă grăbi
+Păşind mai sus din zi în zi;
+În calea mea mă rog mereu
+Să mă ridici, o, Domnul meu!
+
+[r1]
+Te rog, ridică-mă şi-oi sta
+Încrezător pe calea Ta;
+Să mă ajuţi a mă-nălţa
+Mai sus, mai sus, în slava Ta!
+
+[s2]
+Nicicând eu nu doresc a sta
+În îndoieli şi teamă grea,
+Chiar dacă mulţi aşa trăiesc
+Eu un loc mai înalt doresc
+
+[s3]
+Doresc să urc mereu mai sus
+Privind la chipul Tău, Isus,
+Prin Duhul Sfânt să cresc mereu
+Din slavă-n slavă, Domnul meu!
+
+[s4]
+Doresc s-ajung acolo sus
+Să văd mărirea lui Isus;
+De-aceea eu mă rog mereu
+Să mă ajuţi, o, Domnul meu!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

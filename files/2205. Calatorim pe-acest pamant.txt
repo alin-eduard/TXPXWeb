@@ -1,0 +1,25 @@
+[s1]
+2205
+1. Călătorim pe-acest pământ
+Ne îndreptăm spre-o țară aleasă
+Noi mergem cu spor și avânt Spre-o veșnicie ce ne-așteaptă
+
+[r1]
+Cor: /: Să ne-ncurajăm mereu Chiar de drumul este greu
+Suntem ades loviți de val
+Dar în curând sosim la mal :/.
+
+[s2]
+2. Călătorim, călătorim,
+Patria-i tot mai aproape
+Prin credință noi privim
+Și mergem mai departe.
+
+[s3]
+3. Călătoria s-a sfârși
+În curând în țara sfântă
+Cei care vor birui
+Vor vedea fața Lui blândă.
+
+[order]
+s1,r1,s2,r1,s3,r1

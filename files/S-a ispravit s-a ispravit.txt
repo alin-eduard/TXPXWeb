@@ -1,0 +1,29 @@
+[s1]
+S-a ispravit, s-a ispravit
+Pe o cruce Domnul a murit
+Si sange sfant, nevinovat
+La Golgota Domnul a varsat
+
+[r1]
+Dar El era strapuns zdrobit
+Pentru faradelegile
+si pacatele noastre
+Pedeapsa care ne pacea
+a cazut peste El
+Si prin ranile Lui
+suntem tamaduiti
+
+[s2]
+De-atunci Isus prin jertfa Sa
+El mantuie si poate ridica
+Pacatul tau si boala ta
+Isus Christos le poate vindeca
+
+[s3]
+Exista rai exista iad
+Sunt doua cai in viata de urmat
+Una duce-n sus cealalta-n jos
+O lasa lumea urmeaza-l pe Hristos
+
+[order]
+s1,r1,s2,r1,s3,r1

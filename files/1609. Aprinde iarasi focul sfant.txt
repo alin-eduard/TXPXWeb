@@ -1,0 +1,45 @@
+[s1]
+1609.
+1.Aprinde iarăşi focul sfânt
+Ca pe Carmel odată
+Aprinde jertfa pe altar
+Să ardă iar acelaşi jar
+Poporul tău să vadă
+
+[s2]
+2. Aprinde iaraşi focul sfânt
+Să vadă tot poporul
+Că Tu şi azi eşti Dumnezeu
+Ai fost ieri şi rămâi mereu
+Pe veci Biruitorul
+
+[s3]
+3. Aprinde iarăşi focul sfănt
+În cât mai multe inimi
+Ca la Israel altădat
+Fă ca să ardă nencetat
+Şi azi ca şi-n vechime
+
+[s4]
+4. Ridică iar ca şi atunci
+Proroci ca şi Ilie
+Ca Elisei şi Ezechiel
+Ca şi odată Daniel
+În casa Ta să fie
+
+[s5]
+5.Tu să vorbeşti,noi s-ascultăm
+De-a Ta învăţătură
+Să ne-ntoarcem cu adevărat
+Din întuneric şi păcat
+Pe calea Ta cea bună
+
+[s6]
+6. Tu să te-nalţi Tu Dumnezeu
+Mândria să coboare
+Să piară focul cel străin
+Tu să rămâi pe veci amin
+Stăpân în adunare
+
+[order]
+s1,s2,s3,s4,s5,s6

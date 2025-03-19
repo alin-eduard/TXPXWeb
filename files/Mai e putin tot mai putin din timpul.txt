@@ -1,0 +1,27 @@
+[s1]
+Mai e puţin tot mai puţin
+din timpul ce-a mai rămas.
+Încă puţin şi voi pleca
+spre ţărmul celălalt.
+
+[r1]
+/:Mă aşteaptă fraţi mă vor întâmpina,
+Au sfârşit alergarea ’naintea mea,
+Pe cei dragi îi voi revedea.
+Dar mai mult decât orişice altceva,
+Isus mă va aştepta.:/
+
+[s2]
+Cât mi-am dorit un bun
+sfârşit al vieţii pământeşti.
+Încă alerg şi mă îndrept
+spre slăvile cereşti.
+
+[s3]
+Un singur gând mi-a mai rămas,
+vreau să trăiesc frumos.
+Prin tot ce spun prin tot ce fac
+slăvindu-L pe Hristos.
+
+[order]
+s1,r1,s2,r1,s3,r1

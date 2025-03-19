@@ -1,0 +1,24 @@
+[s1]
+/:Am bucurie ca fântâna!:/
+În inima mea…
+/:Am o pace ca o mare!:/
+În inima mea…
+
+[s2]
+/: Eu am iubire ca un fluviu!:/
+În inima mea…
+/: Am bucurie ca fântâna,
+Am o pace ca o mare,
+Am iubire ca un fluviu !:/
+În inima mea…
+
+[s3]
+/:De când Isus e în mine:/
+În inima mea…
+/: El mi-aduce bucurie,
+Îmi dă pace ca o mare,
+Și iubire ca un fluviu,
+În inima mea :/
+
+[order]
+s1,s2,s3

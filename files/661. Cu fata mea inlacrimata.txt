@@ -1,0 +1,43 @@
+[s1]
+1. Cu faţa mea înlăcrimată
+Caut spre slăvile cereşti
+/: Caut c-acolo am nădejde
+Ah, Isuse unde eşti :/.
+661.
+2. Tânăr sunt dar n-am nădejde
+Într-acelea pământeşti
+/: Glasul meu slăbit Te cheamă
+Ah, Isuse unde eşti :/.
+
+[s2]
+3. N-am odihnă n-am nici pace
+Nu ştiu de mă mai iubeşti
+/: Inima plângând Te cheamă
+Ah, Isuse unde eşti :/.
+4. Ochii mei revarsă lacrimi
+De ce nu mi Te iveşti
+/: Inima plângând Te cheamă
+Ah, Isuse unde eşti :/.
+
+[s3]
+5. Tinereţea mea Te cheamă
+Până când mai zăboveşti
+/: Faţa mi-a îngălbenit
+Ah, Isuse unde eşti :/.
+6. Sufletu-n mine suspină
+Căci Tu mie nu-mi grăieşti
+/: Scapă-mă de ceasul morţii
+Ah, Isuse unde eşti :/.
+
+[s4]
+7. Te chem cu faţa mea în lacrimi
+Plângând de dorul îngeresc
+/: Tinereţea mea se stinge
+Ah, Isuse unde eşti :/.
+8. Viaţa mea Te cheamă-ntruna
+Ah, Isuse unde eşti
+/: Dacă nu vii mai de grabă
+Greu va fi să mă găseşti :/.
+
+[order]
+s1,s2,s3,s4

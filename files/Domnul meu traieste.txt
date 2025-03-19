@@ -1,0 +1,26 @@
+[s1]
+Eu ştiu că Domnul meu trăieşte,
+Şi pe pământ El vine iar.
+Eternă viaţă-mi dăruieşte,
+Şi mâna Lui revarsă har.
+
+[r1]
+Eu ştiu că Domnul meu trăieşte,
+Şi pe pământ El vine iar.
+El viaţă-n veci îmi dăruieşte,
+Cu mâna Lui revarsă har.
+
+[s2]
+Eu ştiu că tot ce El promite,
+Orice cuvânt, se va-mplini,
+Şi dacă moartea mă cuprinde,
+Îl voi vedea în veşnicii.
+
+[s3]
+Eu ştiu că El îmi pregăteşte,
+O casă-n cer, în ţara Sa,
+Ce sărbătoare minunată!
+Când Domnul se va arăta.
+
+[order]
+s1,r1,s2,r1,s3,r1

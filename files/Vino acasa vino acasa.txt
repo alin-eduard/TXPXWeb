@@ -1,0 +1,27 @@
+[s1]
+Vino acasă, vino acasă
+O, fiu risipitor
+Vino şi lasă că totul trece
+Totul e trecător
+La M
+
+[r1]
+De ce, de ce, de ce nu te întorci?
+Întoarce-te, o, fiu pierdut!
+De ce, de ce nu vii?
+/: De ce, de ce tot mai amâi? :/
+
+[s2]
+Tatăl te cheamă la mântuire
+Şi tu tot rătăceşti
+De ce respingi tu a Lui iubire
+Şi nu te hotărăşti?
+
+[s3]
+El te asteaptă în veşnicie
+În patria de sus
+Vin’ dar acasă din pribegie
+O, vin’ la Isus
+
+[order]
+s1,r1,s2,r1,s3,r1

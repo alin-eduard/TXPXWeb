@@ -1,0 +1,73 @@
+[s1]
+1.	Pavel la Corinteni se opreşte
+Pavel cel viteaz
+Şi despre Duhul Sfânt le vorbeşte
+Cu lacrimi pe obraz.
+Cor: 	Fraţilor stăruiţi
+Duhul Sfânt să-l primiţi
+Dar măreţ, dar ceresc
+Darul Sfânt Dumnezeiesc.
+465.
+
+[s2]
+2.	Căci cine vorbeşte în altă limbă
+Nu-şi vorbeşte lui
+Ci pentru acel fără credinţă
+Şi chiar Domnului.
+Cor: 	Fraţilor stăruiţi
+Duhul Sfânt să-l primiţi
+Dar măreţ, dar ceresc
+Darul Sfânt Dumnezeiesc.
+
+[s3]
+3.	Dar măreţ al tălmăcirii limbilor
+E folositor
+Domnul vrea şi astăzi ca să fie
+În al său popor.
+Cor: 	Fraţilor stăruiţi
+Duhul Sfânt să-l primiţi
+Dar măreţ, dar ceresc
+Darul Sfânt Dumnezeiesc.
+
+[s4]
+4.	Darul vindecărilor în Isus
+Tare s-a răcit
+Pentru că-i aproape miezul nopţii
+Şi am adormit.
+Cor: 	Fraţilor stăruiţi
+Duhul Sfânt să-l primiţi
+Dar măreţ, dar ceresc
+Darul Sfânt Dumnezeiesc.
+
+[s5]
+5.	Stăruiţi şi după proorocie
+O ce dar bogat
+Căci prin El Biserica e vie
+Creşte ne-ncetat.
+Cor: 	Fraţilor stăruiţi
+Duhul Sfânt să-l primiţi
+Dar măreţ, dar ceresc
+Darul Sfânt Dumnezeiesc.
+
+[s6]
+6.	Şi pe Tine Domnul azi te-ntreabă
+Suflete iubit
+Ai primit tu Darul Sfânt de atunci
+De când te-ai botezat.
+Cor: 	Fraţilor stăruiţi
+Duhul Sfânt să-l primiţi
+Dar măreţ, dar ceresc
+Darul Sfânt Dumnezeiesc.
+
+[s7]
+7.	Haideţi acum fraţilor cu toţii
+Ca să ne trezim
+După darurile Duhului Sfânt
+Toţi să stăruim.
+Cor: 	Fraţilor stăruiţi
+Duhul Sfânt să-l primiţi
+Dar măreţ, dar ceresc
+Darul Sfânt Dumnezeiesc.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

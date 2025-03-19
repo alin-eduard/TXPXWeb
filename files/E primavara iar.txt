@@ -1,0 +1,35 @@
+[r1]
+E primăvară iar!
+Prin munţi şi prin câmpie
+e-atâta veselie
+La viaţă nouă florile răsa
+E primăvară iar!
+
+[s1]
+Zăpada s-a topit de-acum
+şi frigul s-a dus
+Privim tot mai încrezători
+albastrul de sus
+Te duci s-asculţi privighetoarea-n
+luncă sau vrei
+Să strângem un buchet de ghiocei?
+
+[s2]
+E vremea învierii primăvara pe câmp
+E vremea rugăciunii către
+Domnul Cel Sfânt;
+Când florile speranţei
+s-au deschis azi în piept
+Iubirea către ceruri mi-o îndrept.
+
+[s3]
+Se-aude prin păduri
+abia şoptit un Cuvânt:
+Va fi o altă primăvară
+pe-acest pământ!
+Toţi oamenii, şi albi, şi negri,
+se vor iubi,
+Şi nici un rău în veac nu va mai fi!
+
+[order]
+r1,s1,r1,s2,r1,s3,r1

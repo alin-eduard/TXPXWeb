@@ -1,0 +1,44 @@
+[s1]
+Eu sunt un ostaş al crucii,
+Urmaş al Mielului.
+Eu nu mă tem, ci voi vesti
+Slăvit Numele Lui.
+
+[r1]
+Când lupta e gata,
+/: Vom purta cununa. :/
+Când lupta e gata,
+Vom purta cununa-n
+Ierusalimul cel nou!
+Cununa vom purta.
+Cununa de-nvingere.
+Când lupta e gata,
+Vom purta cununa-n
+Ierusalimul cel nou.
+
+[s2]
+În cer, pe flori nu poţi fi dus,
+Când alţii s-au luptat
+Şi, pentru Regele ISUS,
+Chiar viaţa şi-au dat.
+
+[s3]
+Trebuie să lupt, să înving.
+Doamne, ajută-mă
+Orice atac vrăjmaş să-l sting,
+Când voi fi în luptă.
+
+[s4]
+Când lupta e gata,
+/:Vom purta cununa. :/
+Când lupta e gata,
+Vom purta cununa-n
+Ierusalimul cel nou!
+Cununa vom purta.
+Cununa de-nvingere.
+Când lupta e gata,
+Vom purta cununa-n
+Ierusalimul cel nou.
+
+[order]
+s1,r1,s2,r1,s3,s4

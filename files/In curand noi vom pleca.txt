@@ -1,0 +1,32 @@
+[s1]
+În curând noi vom pleca
+O, ce fericită zi !
+Pe cei dragi vom revedea,
+Când ne vom reîntâlni
+
+[r1]
+Vine ziua fericită,
+Toţi vom părăsi pământul
+,,Aleluia!“ aici se cânta,
+Când ne vom reîntâlni
+
+[s2]
+Trec pe malul celălalt
+O, ce fericită zi!
+Cerul se deschide larg
+Când ne vom reîntâlni
+
+[s3]
+Vreau la Isus să mă duc
+O, ce fericită zi!
+În braţe să m-arunc,
+Când ne vom reîntâlni
+
+[s4]
+La picioare Îi vom sta
+O, ce fericită zi!
+Toţi un cântec vom cânta,
+Când ne vom reîntâlni
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

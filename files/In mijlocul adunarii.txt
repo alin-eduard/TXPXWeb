@@ -1,0 +1,28 @@
+[s1]
+In mijlocul adunarii
+Unde slava Sa coboara
+Venit-au astazi mirii
+In haine albe-ntaia oara
+Ce-i mai frumos in lume
+Si n-are-asemanare
+E cand prin al Sau Nume
+Primesc o binecuvantare.
+
+[r1]
+/: Doamne Tu revarsă azi
+În viața lor iubirea
+Să fie mereu ai Tăi
+Să trăiască veșnicia :/
+/: Te chemăm în viața lor
+Scut și pavăză să fii
+Și din norii de tristețe
+Tu să le dai bucurii. :/
+
+[s2]
+/: La nuntă sus în veșnicie
+Cu îngerii-mpreună
+În haine albe o să fie
+Mireasa Ta, Biserica :/
+
+[order]
+s1,r1,s2,r1

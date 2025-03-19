@@ -1,0 +1,26 @@
+[s1]
+Rămâi cu noi, Isus iubit
+Căci noaptea lumii a sosit!
+Lumină eşti, deci Tu să vii
+Cu braţul Tău să ne susţii!
+
+[s2]
+Ne apără cu-al Tău Cuvânt,
+Curaj ne dă şi Spirit Sfânt,
+De viclenia celui rău
+Să scapi acum poporul Tău!
+
+[s3]
+Pe mândri Tu să-i umileşti
+Poporul Tău să-l curăţeşti,
+Să apărăm credinţa Ta
+Să nu ne-ndepărtăm de ea!
+
+[s4]
+Comoară ni-e al Tău Cuvânt,
+Comoară-ai Tăi copii Îţi sunt
+Din mâna Ta nu vom cădea
+Prin harul Tău aici vom sta!
+
+[order]
+s1,s2,s3,s4

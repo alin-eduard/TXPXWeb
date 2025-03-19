@@ -1,0 +1,63 @@
+[s1]
+1. La nuntă ce s-a-ntâmplat
+În Cana Galileii
+Fost-a şi Isus chemat
+În Cana Galileii
+1732.
+2. Atunci mama lui Isus
+În Cana Galileii
+Văzând că nu-i vin de-ajuns
+În Cana Galileii
+
+[s2]
+3. Zis-a Fiul meu iubit
+În Cana Galileii
+Vinul ni s-a isprăvit
+În Cana Galileii
+4. Atunci Isus s-a sculat
+În Cana Galileii
+Şi slugile le-a chemat
+În Cana Galileii
+
+[s3]
+5. Apă în şase vas-au pus
+În Cana Galileii
+Şi le-au umplut până sus
+În Cana Galileii
+6. El le-a binecuvântat
+În Cana Galileii
+Şi apa-n vin s-a schimbat
+În Cana Galileii
+
+[s4]
+7. Scoateţi acum zise El
+În Cana Galileii
+Şi aduceţi nunului
+În Cana Galileii
+8. Nunul după ce-a gustat
+În Cana Galileii
+Apa ce-n vin s-a schimbat
+În Cana Galileii
+
+[s5]
+9. Pe mire-ndată a chemat
+În Cana Galileii
+Nunul şi l-au întrebat
+În Cana Galileii
+10. Cum de vinul cel mai bun
+În Cana Galileii
+L-aţi ţinut până acum
+În Cana Galileii
+
+[s6]
+11. Acest început a fost
+În Cana Galileii
+Minunile lui Hristos
+În Cana Galileii
+12. Atunci cu toţi au crezut
+În Cana Galileii
+Că Mesia s-a născut
+În Cana Galileii
+
+[order]
+s1,s2,s3,s4,s5,s6

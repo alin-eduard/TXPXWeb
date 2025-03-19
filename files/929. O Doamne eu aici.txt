@@ -1,0 +1,39 @@
+[s1]
+1. O, Doamne, eu aici
+Sunt numai călător
+În cerurile sfinte
+Voi fi moștenitor
+929
+
+[r1]
+Acolo-i țara mea
+Acolo-i casa mea
+Unde veșnic eu voi sta
+Sus la dreapta Sa.
+
+[s2]
+/: Aici eu sunt
+Un simplu călător
+În cerurile sfinte
+Voi fi moștenitor
+
+[s3]
+Acolo-i țara mea
+Acolo-i casa mea
+Unde veșnic eu voi sta
+Sus la dreapta Sa:/
+
+[s4]
+2. Un fulg purtat în vânt
+Sunt numai pe pământ
+În cerurile sfinte
+Voi fi pe veci un sfânt
+
+[s5]
+/: Răsune dar
+Al gurii mele cânt
+În cerurile sfinte
+Voi fi pe veci un sfânt
+
+[order]
+s1,r1,s2,s3,s4,r1,s5,r1

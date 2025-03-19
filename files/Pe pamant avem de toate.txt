@@ -1,0 +1,32 @@
+[s1]
+Pe pământ, avem de toate:
+Şi mai bune şi mai rele;
+Dar, în cer, avem un Frate,
+Dincolo de stele.
+
+[r1]
+El e Calea, Adevărul!
+El dă pace, bucurie!
+El a dat morţilor viaţă
+Şi mi-a dat şi mie.
+
+[s2]
+N-am ştiut că am un frate
+Ce-a-ndurat crucea cumplită
+Şi ne-a dat, prin a Lui moarte,
+Viaţă nesfârşită...
+
+[s3]
+El e Calea, Adevărul!
+Viaţă pentru toţi împarte.
+Cine calcă, pe-a-Lui urme,
+Nu mai are moarte.
+
+[s4]
+Mi-a vorbit cu vocea-I blândă:
+„Dacă vrei să-ţi fie bine,
+Poartă-ţi şi tu a ta cruce!
+Vino după Mine!“
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

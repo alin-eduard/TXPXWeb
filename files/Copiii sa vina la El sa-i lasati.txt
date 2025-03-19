@@ -1,0 +1,38 @@
+[s1]
+Copiii să vină la El să-i lăsaţi
+Din Sfânta Scriptură să fie-nvăţaţi
+S-asculte de Domnul, de ai lor părinţi
+Să fie în totul supuşi şi cuminţi.
+
+[r1]
+/: Nu se poate să fii educat
+Fără Domnul să ai cuget curat
+Nu se poate fără Dumnezeu
+Ca să-ţi instruieşti copilul tău. :/
+
+[s2]
+Auzi cum răsună cu harfele lor
+Copiii lui Core, copilul păstor
+Osana! Osana! copiii-au strigat
+În ziua când Domnul în templu-a intrat.
+
+[s3]
+Avraam povesteşte copiilor lui
+Asemenea Domnului nimenea nu-i
+Cum apele mării ca zid s-au oprit
+Părinţii copiilor le-au povestit.
+
+[s4]
+Fecioara va naşte un fiu minunat
+Pe tronul lui David să fie-mpărat
+Isaia vorbeşte aşa despre El
+Căci numele Lui va fi Emanuel.
+
+[s5]
+În Sfânta Scriptură vor sta mărturii
+Spre învăţătură aceştia copii
+În casa cea veche, în noul palat
+Privindu-L pe Isus avem de-nvăţat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

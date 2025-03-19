@@ -1,0 +1,28 @@
+[s1]
+2217.     Mi m
+1.E miez de noapte dar eu nu dorm
+Iar lacrimile mele curg uşor
+Strig către Tine Doamne Isus
+Inima-mi suspină, mă simt răpus.
+
+[s2]
+Cor Inima-n suspină ochii-n
+Lacrimi lasă şi-n jur nu mai gasesc,
+Nici o speranţa
+Doamne spre Tine gându-mi îndrept
+Te chem şi-n tăcere te aştept
+
+[s3]
+2. Aş, vrea să-ţi cânt şi-n bucurie
+De lacrimi eu ma-m săturat
+Să las poveri ce mă apasă
+Ce numai răni, mi-au lăsat
+
+[s4]
+/:  Privesc cu ochi spre alte zări
+Şi cu speranţă şi iubire
+Sperând că într-o bună zi
+Va reveni lumina bucuriei:/
+
+[order]
+s1,s2,s3,s4

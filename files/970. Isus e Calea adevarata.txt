@@ -1,0 +1,49 @@
+[s1]
+970.          Mi b m
+1. Isus e calea adevărată
+Unde îl văd pe Dumnezeu
+O, ce clipă minunată
+Ai dat sufletului meu.
+2. Mi-e inima-nsetată
+După Tine scump Isus
+O, când ai să vii Tu oare
+Să ne iei la Tine sus.
+
+[s2]
+3. O, de dorul Tău Isuse
+Strălucit şi sfânt şi înalt
+Toată dragostea mea suie
+Către ţărmul celălalt.
+4. Ne luptăm cu greu Isuse
+Că Tu ştii cât e de greu
+Aşteptare, aşteptare
+Ce ne chinuie mereu.
+
+[s3]
+5. Unde-i clipa ceea scumpă
+Cu a fericirii zi
+Fericire, fericire
+Când Isuse vei veni.
+6. O, ce clipă ne aduce
+Un dor de acolo sus
+Unde inima cu totul
+Dragostea în ea s-a pus.
+
+[s4]
+7. O, fraţilor mei iubiţi
+Vă aştept şi eu cu drag
+Căci acei de sub altar
+Tot mă-ntreabă adeseori.
+8. Dară ei sunt mângâiaţi
+Cu haine albe îmbrăcaţi
+Şi aşteaptă însetaţi
+După fraţii ceilalţi.
+
+[s5]
+9. Este dorul ce ne duce
+Sus acolo-n Paradis
+Dorul dorurilor noastre
+De pe ţărmul celălalt.
+
+[order]
+s1,s2,s3,s4,s5

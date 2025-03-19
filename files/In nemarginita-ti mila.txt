@@ -1,0 +1,32 @@
+[s1]
+În nemărginita-Ţi milă,
+Doamne, oare poţi ierta,
+Marea şi adânca-mi vină
+Şi păcatu-mi al uita?
+
+[r1]
+Isuse, vin! La Tine vin,
+Aşa cum sunt la Tine vin!
+Isuse, vin! La Tine vin,
+Aşa cum sunt azi vin!
+
+[s2]
+Am trăit o viaţă tristă,
+Înfruntând mania Ta,
+Inima-mi stătea închisă,
+Când a Ta mai sângera.
+
+[s3]
+O, ISUSE, vreau din suflet,
+Sa ma dau Tie pe veci.
+Luminează al meu cuget,
+De la mine să nu pleci.
+
+[s4]
+Aleluia! Slavă Ţie!
+M-ai scăpat de jugul greu,
+Înspre-a Ta împărăţie
+Duce astăzi drumul meu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,32 @@
+[s1]
+În nimeni altul nu e mântuire,
+Căci nici un altul nu s-a dat.
+Să moară pe Calvar pe cruce,
+Pentru al meu păcat.
+
+[r1]
+/: Numai în Isus eşti mântuit,
+Numai în Isus eşti fericit.
+De grijuri multe El ne-a scăpat,
+Şi noi speranţe Isus ne-a dat. :/
+
+[s2]
+Nu este nici un alt nume sub ceruri,
+Prin care să fim mântuiţi.
+Numai prin El vom fi de-a pururi,
+De Tatăl nedespărţiţi.
+
+[s3]
+Isus ne dă eterna fericire,
+Prin credinţă că Dumnezeu.
+Trimis-a pe Fiul în lume,
+Pentru păcatul meu.
+
+[s4]
+Cântăm cu toţii astăzi mântuirea,
+Ce am primit-o-n dar de sus.
+Când Tatăl ne-a trimis salvare,
+Prin Fiul Său, Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,26 @@
+[s1]
+Iti dau inima mea,
+si tot ce am mai bun
+Acum-naintea Ta,
+de dragul Tau Isus
+Tot ce eu visez,
+mandria mea Ti-o dau
+Renunt la dreptul,
+ca viata Ta s-o am
+
+[r1]
+/: Tie iti dau
+Tot ce sunt, tot ce am :/ x2
+
+[s2]
+Iti dau cantecul meu,
+astept la crucea Ta
+Renunt la ce-I lumesc,
+caci pe Tine te doresc
+Ca sa te cunosc mai mult,
+sa inalt Numele Tau
+Sa stiu bucuria ta,
+chiar si-atunci cand mi-este greu
+
+[order]
+s1,r1,s2,r1

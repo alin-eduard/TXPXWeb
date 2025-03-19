@@ -1,0 +1,74 @@
+[s1]
+1. Dumnezeu când a chemat
+Pe Avraam
+Din Haldeia ca să meargă
+În Canaan
+I-a promis că îl va binecuvânta
+Cu o seminţie în toată lumea.
+245.
+
+[s2]
+/:Seminţiei tale ţi-am promis
+Ţara cea plăcută ţi-am făgăduit
+Dacă cu credinţă tu îi vei păstra
+Legământul meu
+Pe veci totdeauna:/.
+
+[s3]
+2.Seminţia lui Avraam s-a înmulţit
+Devenind ei un popor
+Mare şi sfânt
+După ce din Egipt
+Domnul i-a salvat
+Murmurând ei
+Dumnezeu i-a lepădat.
+
+[s4]
+/: Dumnezeu pe copii i-a cruţat
+Iosua şi Caleb milă au aflat
+Trecând ei Iordanul
+Ca şi pe uscat
+Moştenind Canaanul
+Cel mult aşteptat :/.
+
+[s5]
+3. După dorinţa lor
+Domnul i-a ascultat
+Pe tânărul David ca mare împărat
+După o domnie timp îndelungat
+Israel pe Domnul din nou a uitat.
+
+[s6]
+/: Şi Moise demult lor le-a promis
+După cum este în carte scris
+Venit-au toate şi nu i-a cruţat
+Blestemul lui Moise n-a întârziat :/.
+
+[s7]
+4. Ierusalimul oraşul cel frumos
+Acum e pustiu şi dărâmat jos
+Zidurile tale sunt dărâmate
+Plângeţi fiicelor de tot întristate.
+
+[s8]
+/: Israele de te vei căi
+Dumnezeu pe tine El te-a primi
+Ce lehova o dată însuşi a promis
+Îţi va da în ceruri de vei fi învins:/.
+
+[s9]
+5. Ameninţă tare această lume rea
+Care tot mereu refuză lumina
+Mânia lui Dumnezeu îi va lovi
+De îndată ce Hristos nu va mijloci.
+
+[s10]
+/: O Israele cel nou şi adevărat
+Ce Dumnezeu
+Pe tine te-a salvat
+Ai nădejdea în Domnul
+Că El ţi-a promis
+Canaanul ceresc noul Paradis :/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

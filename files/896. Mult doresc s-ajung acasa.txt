@@ -1,0 +1,52 @@
+[s1]
+896.
+1.Mult doresc s-ajung acasă
+Sus în cerul minunat
+Unde sfinţi îngeri cântă
+Şi-al meu Mire e-mpărat
+În ţara mea sus, în ţara mea
+
+[s2]
+2.Să păşesc pe străzi de aur
+Şi să-I cânt neîncetat
+Să-L slăvesc pe Domnul Isus
+Căci El m-a răscumpărat
+În ţara mea sus, în ţara mea
+
+[s3]
+3.Să gust din pomul vieţii
+Ce rodeşte neîncetat
+Să-L slăvesc pe Domnul Isus
+Căci El m-a răscumpărat.
+În ţara mea sus, în ţara mea
+
+[s4]
+O,cât mi-e de dor de Domnul
+Cu El vreau a mă-ntâlni
+Lui I-aş spune tot secretul
+Acolo m-oi odihni
+În ţara mea sus, în ţara mea
+
+[s5]
+Voi vedea acolo-n ceruri
+Ce nu-i aici pe pământ
+Frumuseţi ce nu se poate
+Spune-aici niciun cuvânt.
+În ţara mea sus, în ţara mea
+
+[s6]
+6. Mă lupt ca s-ajung acolo
+Domnul Isus mă ajută
+Până voi ajunge acasă
+Colo sus în ţara mea.
+În ţara mea sus, în ţara mea
+
+[s7]
+7.O, ce mult mă voi bucura!
+Când de-aicea voi pleca
+Uita-voi orice durere
+Când acolo voi intra.
+În ţara mea sus, în ţara mea
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

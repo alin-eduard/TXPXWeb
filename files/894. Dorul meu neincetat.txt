@@ -1,0 +1,33 @@
+[s1]
+894.
+1.   Dorul meu neîncetat
+Se înalţă spre cer
+Unde-i locul promis de Isus
+Şi mă întreb îngrijit
+De am dreptul să sper
+Că voi fi eu primit în cer sus.
+
+[r1]
+Cor:	Voi primi eu cândva
+O cunună şi o stea
+O cunună ce Domnul ne-o da
+De-oi ajunge la cer
+Pot eu oare să sper
+Că primesc răsplătiri ce nu pier.
+
+[s2]
+2.  Lucru-i mult de făcut
+Nu pot zice că-i greu
+Am oricând ajutor pe Isus
+Să fiu pildă la toţi că e bun
+Dumnezeu şi cu El e uşor de făcut.
+
+[s3]
+3.  Lucru-i mult şi Isus
+Vrea ca eu să lucrez
+La oricine-i cuprins de păcat
+Şi atunci ca un dar pregătit sfinţilor
+Între îngeri voi fi încoronat.
+
+[order]
+s1,r1,s2,r1,s3,r1

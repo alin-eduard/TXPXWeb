@@ -1,0 +1,36 @@
+[s1]
+Grăiţi: „Isus, în locul meu,
+Pe cruce a murit.
+Şi către-un pierdut cum sunt eu
+S-a-ntors, căci m-a iubit.”
+
+[s2]
+/: Şi în locul meu! :/
+Murit-a Domnul pentru toţi,
+Veniţi, să-I mulţumim! :/
+
+[s3]
+Soarele s-a întunecat,
+Ascunzând raza sa,
+Când Isus răbdă pe cruce,
+Luptând El cu moartea.
+
+[r1]
+/: Şi în locul meu! :/
+Murit-a Domnul pentru toţi,
+Veniţi să-I mulţumim! :/
+
+[s4]
+De aş ascunde faţa mea,
+De ruşine, pe veci
+Şi de aş plânge cât aş vrea,
+Aşa să-I mulţumesc.
+
+[s5]
+Dar nimic nu m-ar stâmpăra,
+Oricum aş suferi.
+Inima-mi Tu poţi vindeca,
+Ţie Ţi-o voi jertfi!
+
+[order]
+s1,s2,s3,r1,s4,r1,s5,r1

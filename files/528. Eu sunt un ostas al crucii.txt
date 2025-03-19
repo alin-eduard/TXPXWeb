@@ -1,0 +1,33 @@
+[s1]
+1.	Eu sunt un ostaş al crucii
+Urmaş al Mielului
+Eu nu mă tem, ci voi vesti
+Slăvit Numele Lui.
+528             								      Mi
+
+[r1]
+Cor: Când lupta e gata
+/: Vom purta cununa :/
+Când lupta e gata,
+Vom purta cununa-n
+Ierusalimul cel nou.
+Cununa vom purta
+Cununa de-nvingere.
+Când lupta e gata,
+Vom purta cununa-n
+Ierusalimul cel nou !
+
+[s2]
+2.În cer pe flori nu poţi fi dus
+Când alţii s-au luptat
+Şi pentru Regele Isus
+Chiar viaţa ei şi-au dat.
+
+[s3]
+3.	Trebuie să lupt să înving
+Doamne, ajută-mă
+Orice atac vrăjmaş să-l sting
+Când voi fi în luptă.
+
+[order]
+s1,r1,s2,r1,s3,r1

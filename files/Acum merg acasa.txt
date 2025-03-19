@@ -1,0 +1,23 @@
+[s1]
+Acum, merg acasă, la Domnul meu.
+Eu drumul l-am sfârşit şi chinul greu.
+/: De-acum cântarea mea,
+în veci, va răsuna:
+Domnului glorie, pe vecie! :/
+
+[s2]
+Unde eu merg acum, dureri nu sunt.
+Tot chinul este şters de Domnul Sfânt.
+/: Acolo-i iubire, pace, fericire
+Acestea le am eu de la Domnul meu. :/
+
+[s3]
+Plânsul meu s-a sfârşit,
+căci sunt chemat
+De Isus cel iubit, într-un palat.
+/: Nu mă plângeţi acum,
+Căci eu merg pe-acest drum,
+În fericire, sus, lângă Isus. :/
+
+[order]
+s1,s2,s3

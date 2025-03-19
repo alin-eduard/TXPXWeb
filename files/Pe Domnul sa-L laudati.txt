@@ -1,0 +1,33 @@
+[s1]
+Pe Domnul să-L lăudaţi
+Un cîntec nou să-I cîntaţi
+Din moarte ne-a mîntuit
+Cu dragoste ne-a primit.
+
+[r1]
+În curînd El va veni
+Şi nu va zăbovi.
+Priviţi în sus la Isus
+Căci mult timp nu va fi
+Şi va veni !
+
+[s2]
+Chiar Isus ne-a dovedit
+Iubirea-I fără sfîrşit
+De aceea credeţi ne-ncetat
+Biruinţa El ne-a cîştigat.
+
+[s3]
+Să credeţi în puterea Sa
+Şi mari minuni veţi vedea
+Căci slava Sa neîncetat
+Vă va fi scut cu-adevărat.
+
+[s4]
+Şi bucuria Domnului
+Va rămîne-n veci în voi
+În zile grele şi-n nevoi
+Veţi primi puteri noi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

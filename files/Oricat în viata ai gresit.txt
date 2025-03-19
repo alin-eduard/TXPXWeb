@@ -1,0 +1,38 @@
+[s1]
+Oricat în viaţă ai greşit
+Tu la Isus de ai veni
+Viaţă îţi va da în dar.
+Cheamă-L pe Isus ne-ncetat
+Căci El prin lume te-a căutat
+Şi vrea să fii cu El mereu.
+
+[s2]
+/: Deci fii cu Isus mereu !
+În viaţă să ştii că nu e greu
+Dacă vei fi cu El mereu ! :/
+Cu El mereu !
+
+[s3]
+Vin, la Isus, prieten drag
+Căci El mai stă încă în prag
+Şi-aşteaptă mana să Îi dai !
+El pentru tine a murit
+De-aceea eşti tu fericit
+Ce-aştepţi acum? O, vin la El
+
+[r1]
+/: Deci fii cu Isus mereu!
+În viaţă să ştii că nu e greu
+Dacă vei fi cu El mereu! :/
+Cu El mereu!
+
+[s4]
+Cere-I orice, Domnul îţi va da
+Doar El să fie în viaţa ta
+Şi fericit vei fi mereu!
+La fel ca tine şi eu am fost
+Dar am găsit la Isus un rost
+Şi pace-n suflet am aflat!
+
+[order]
+s1,s2,s3,r1,s4,r1

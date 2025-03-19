@@ -1,0 +1,45 @@
+[s1]
+Dumnezeu-i de fata
+Stati cu frica mare,
+Cand I-aduceti inchinare,
+Intre noi aicea.
+Totu-n noi sa taca,
+Cand genunchiul ni se pleaca.
+Cine vine sa-I sa-nchine
+Trebui sa-L cinsteasca,
+Lauda sa-I sporeasca.
+
+[s2]
+Dumnezeu-I de fata ,
+Caru-I zi si noapte
+Heruvimii-I Serva-n toate;
+Sfânt, sfânt, sfânt e Domnul,
+Slavă şi onoruri
+Îngerii I-aduc în coruri.
+Doamne-ascultă şi ce-Ţi cântă
+Cu nevrednicie
+Vocea noastră Ţie.
+
+[s3]
+Bucuroşi lăsa-vom cele pieritoare
+Şi plăceri înjositoare.
+Voia noastră este să-Ţi dăm
+totul Ţie,
+Trup şi suflet pe vecie.
+Numai Tu ne-eşti de-acu
+Dumnezeu şi Tată
+Şi nădejdea toată!
+
+[s4]
+Tu lucrezi în toate,
+deci tot Tu înclină
+Faţa mea spre-a Ta lumină.
+Cum se-ntoarna floarea
+vesel să primească
+Raza soarelui să crească,
+Tot aşa eu aş vrea
+Razele-Ţi divine
+Ca să mă lumine
+
+[order]
+s1,s2,s3,s4

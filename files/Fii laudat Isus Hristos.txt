@@ -1,0 +1,26 @@
+[s1]
+Fii lăudat, Isus Hristos,
+Speranţa celui păcătos!
+Tu prin sfânt sângele-Ţi vărsat
+Viaţă veşnică ne-ai dat.
+
+[s2]
+Şi Tatăl fie preamărit
+Că nouă ni Te-a dăruit
+Să porţi Tu vina tuturor
+Şi să ne fii Mântuitor.
+
+[s3]
+Mărire Spiritului Sfânt
+Care dintr-ale Tale luând
+Spre Tine El ne-a îndrumat
+Ca să-Ţi servim cu-adevărat.
+
+[s4]
+Mărire Tatălui din cer
+Căci ştiu în cine cred şi sper:
+Eu omul slab şi păcătos
+Mă-ncred în harul lui Hristos.
+
+[order]
+s1,s2,s3,s4

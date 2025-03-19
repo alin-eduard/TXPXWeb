@@ -1,0 +1,33 @@
+[s1]
+1.Dumnezeu ne e salvare                    Şi putere în nevoi
+Şi pe aripi plutitoare
+Vom zbura spre ceruri noi
+/: Unde Domnul Isus :/
+Pururea va fi cu noi
+1056.                                                          Re
+
+[s2]
+2.Nu ne temem de necazuri
+Chiar asupra de-ar veni
+De-ar veni să ne doboare
+Ca de-o stâncă s-ar lovi
+/:Ştie Domnul Isus:/
+Pe cei drepti a-I mântui.
+
+[s3]
+3.De s-ar revărsa pe ţărmuri
+Chiar oceanele în val
+Şi s-ar spulbera de valuri
+Munţi, coline şi-orice deal
+/: Noi pluti-vom spre cer:/
+Spre al ţărmului liman
+
+[s4]
+4.Acolo-i Ierusalimul,
+Locaşul ceresc şi sfânt
+Ne vom bucura la tron sus         Unde-i Tatăl, Mielul Sfânt
+/: Ce fericiţi vom fi :/
+În etern, vom sta cântând
+
+[order]
+s1,s2,s3,s4

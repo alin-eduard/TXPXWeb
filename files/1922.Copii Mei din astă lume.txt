@@ -1,0 +1,43 @@
+[s1]
+1922
+1. Copii Mei din astă lume
+Pe care v-am răscumpărat
+Luptați din zori și până-n noapte
+Iubiți-vă că sunteți frați
+/: V-am curățit în jertfa sfântă
+V-am iertat vina Eu la toți
+V-am pregătit o cale sfântă
+Unde nu sunt umbre și nici nori :/.
+
+[s2]
+2. Un paradis din altă slavă
+Un loc de Mine pregătit
+O cale ce duce spre ceruri
+O veșnicie strălucit
+/: Luptați-vă în vremea asta
+Comorile mi le-am deschis
+Vă dau din harul bogăției
+Moștenitori în paradis :/.
+
+[s3]
+3. Eu vă iubesc că vă sunt Tată
+Eu vă iubesc copiii Mei
+N-am să vă las la lupi și lei
+Am să vă apăr Eu de ei
+/: Apare raze de lumină
+A Mielului din răsărit
+Apare ziua veșniciei
+Apare ceasul cel dorit :/.
+
+[s4]
+4. Când fi-vei cu Isus în casă
+Te vei bucura nespus
+Noi cu Isus vom sta la masă
+Unde nu-s locuri de temut
+/: Acolo-i pace fericirea
+Acolo-i locul cel ceresc
+Acolo-i Duhul și mireasa
+Isuse vreau să locuiesc :/.
+
+[order]
+s1,s2,s3,s4

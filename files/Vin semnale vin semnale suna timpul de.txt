@@ -1,0 +1,49 @@
+[s1]
+Vin semnale, vin semnale
+Suna timpul de sfârsit
+Îi-aproape clipa plecarii poporului iubit,
+Nu te însela tu singur
+amanând mereu
+Ca nu stii ziua când vine
+Fiul lui Dumnezeu.
+
+[r1]
+/: Crestinii stau gata, nu se dau învinsi
+Orice vijelie va veni,
+În frunte-i Mesia ce-a-nvins vijelia
+Calvarul cumplit l-a urcat,
+Vedem profesia ce da bucuria
+În timp ce jos nu vei fi lasat. :/
+
+[s2]
+Pregatire, pregatire
+pregatire peste tot
+Lucru tainic, lucru tainic
+arata Domnul Savaot,
+Lasa tot ce te mai leaga
+pe acest pamânt
+Da navala si primeste
+darul Duhului cel Sfânt.
+
+[s3]
+Spala-ti haina, spala-ti haina
+spala-ti haina chiar acum
+Caci trâmbita este gata
+sa sune acum,
+Ce faci daca nu esti gata,
+o ramâi stingher
+Mesia vine sa-si duca
+mireasa Lui la cer.
+
+[s4]
+Desteptare, desteptare,
+desteptare tot mereu
+În curând Domnul veni-va,
+al nostru Dumnezeu,
+Pâna când se zice astazi,
+nu-ti împietri inima
+Tot ce ai în lumea asta
+aici va ramânea.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,50 @@
+[s1]
+Pribeag azi în lumea de chin şi dureri
+Eu merg cântând pe cale,
+Prin viscol, furtună şi valuri mereu
+Ti-aduc azi Osanale!
+
+[s2]
+Te cânt, te ador, te slăvesc, te măresc
+Şi spun tuturora ce mult Te iubesc,
+Din zori până-n seara,Te laud mereu
+Trăiască Domnul!
+
+[s3]
+Prin valea de plângeri păşesc pasii mei
+Şi caut mângâiere,
+Duşmanul e tare şi eu sunt prea mic
+Dar Domnu-mi dă putere.
+
+[s4]
+Te strig al meu Soare să vii-n ajutor
+Să birui eu cu Tine furtună şi nor!
+Să-nalţi Tu, drapelul de biruitor
+Trăiască Domnul!
+
+[s5]
+Alerg către ţintă pe drumul spinos
+Prin valuri şi ispite,
+Si ştiu că-nainte păşeşte Hristos
+Eu merg tot înainte.
+
+[s6]
+Pe drumul cu spini netezeşte Isus
+Ne poartă şi crucea aşa cum ne-a spus,
+Şi-apoi ne-aşteaptă cu drag în cer sus
+Trăiască Domnul!
+
+[s7]
+Mai e doar puţin şi-om ajunge la mal
+Cu Domnu-n fericire!
+O clipă, un ceas şi-apoi la liman
+Ne-aşteaptă al nostru Mire.
+
+[s8]
+Căci drumul pe care atâţia am plâns
+Şi lacrimi amare din ochi câte-au curs,
+Uita-vom şi veşnic cânta-vom mereu
+Trăiască Domnul!
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

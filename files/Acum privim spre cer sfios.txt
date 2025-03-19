@@ -1,0 +1,49 @@
+[s1]
+Acum privim spre cer sfios
+ca-ntr-o oglindă,
+Şi multe lucruri
+ni se par de ne-nţeles;
+Adesea nedreptatea
+încearcă să învingă,
+Fiindcă rodul muncii
+încă n-am cules.
+
+[r1]
+/: V-a fi o zi când vom vedea
+faţă-n faţă;
+Când vom primi răspuns
+la mii de întrebări.
+Dar până atunci trăim crezând,
+privind prin ceaţă,
+La lucruri ce se par în depărtări. :/
+
+[s2]
+De ce-i atâta suferinţă
+printre oameni?
+De ce săracii mor de foame
+printre noi?
+Când unii se desfată-n lux
+şi-n îmbuibare,
+Pe alţii lasă chiar
+să piară în nevoi.
+
+[s3]
+O, cum am vrea
+să nu mai fie-n lume ură,
+Să fie sfântă armonie între fraţi;
+Să nu mai fie aurul închis
+în zgură,
+Şi robii toţi să fie odată dezlegaţi.
+
+[s4]
+Îndepărtat de Dumnezeu
+ca şi Sodoma,
+Pământul s-a umplut
+acum de urâciuni;
+Dar iată ce-a  adus păcatul
+prinre oameni:
+Dureri, necaz şi
+nesfârşite-amărăciuni.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

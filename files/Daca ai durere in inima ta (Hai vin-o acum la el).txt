@@ -1,0 +1,57 @@
+[s1]
+Dacă ai durere, în inima ta
+Strigă azi la Domnul,
+E salvarea Ta
+Poate cei din casă,
+Nu-s de partea ta
+Şi n-ai nici-o clipă, a te bucura.
+
+[s2]
+Hai vino acum la El
+Cu durerea ta
+Să-ţi mângaie inima
+Să-ţi dea pacea Sa
+Sufletul Tău cel slab,
+Trebuie hrănit
+Prin credinţă să trăieşti
+Pân’ la sfârşit
+
+[s3]
+Poate te întrebi, ce să-I dăruieşti?
+Cu argint sau aur,
+Să-l răsplăteşti
+Singura comoară
+Ce Lui i-o poţi da
+Este chiar la Tine, inima Ta.
+
+[s4]
+Dacă-l primeşi acum,
+În inima ta
+Har şi pace, îţi va da
+Te vei bucura
+Sărbătoare mare-a fi
+Sus în Cerul Sfânt
+Ca încă un păcătos
+V-a fi mântuit
+
+[s5]
+Deci nu te încrede,
+Dragul meu în om
+Ci doar în Isus Hristos
+Şi-n Cuvântul Său
+Dumnezeul veşnic, Te v-a apăra
+În orice problemă
+Fie cât de grea.
+
+[s6]
+De vrei să îl urmezi
+Din toată inima
+Tu vei fi de-acum mereu
+Doar pe bratul Său
+Când valuri vor veni
+Vânturi vor bătea
+Nici-un rău nu v-a avea
+Putere asupra Ta.
+
+[order]
+s1,s2,s3,s4,s5,s6

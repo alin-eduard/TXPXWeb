@@ -1,0 +1,41 @@
+[s1]
+Am fost străin pe lume,
+fără de Dumnezeu,
+Am fost fără de Isus,
+fără de Tatăl meu.
+Am fost străin pe lume,
+şi toţi m-au alungat
+Trăiam fără credinţă,
+trăiam doar în păcat.
+
+[r1]
+Dar acum mă întorc
+din drumul meu,
+Eu vin la Dumnezeu,
+eu vin la Tatăl meu!
+Nu mai vreau
+să trăiesc singur mereu,
+Fără de Dumnezeu.
+
+[s2]
+Am fost sărac şi singur,
+departe de Hristos,
+Trăiam fără credinţă,
+trăiam fără de rost.
+Am fost străin pe lume,
+fără de Dumnezeu,
+O tristă amăgire
+era-n sufletul meu.
+
+[s3]
+Am fost pierdut de Isus,
+dar El azi m-a găsit;
+Mi-a întins El a Sa mînă,
+ca să fiu fericit.
+Eu azi primesc pe Domnul
+să intre-n viaţa mea
+Şi Lui Îi dau inima
+pentru totdeauna.
+
+[order]
+s1,r1,s2,r1,s3,r1

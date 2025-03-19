@@ -1,0 +1,30 @@
+[s1]
+2161
+1.	Pe poteca de lumină Doamne dragostea să-mi vină
+Ca să-şi facă-n mine casă veşnică şi luminoasă
+Şi să-şi afle-n mine loc
+/: De odihnă şi de foc :/.
+
+[s2]
+2. Pe poteca argintie adevăru-n mine vie
+Să-n florească să rodească
+Și pe veci să-mpărăţească
+Să fiu vasul Lui curat
+/: Și-n odihnă şi-n umblat :/.
+
+[s3]
+3. Pe poteca de credinţă
+Doamne umple a mea fiinţă
+Cu fiinţa Ta divină să se vadă mai deplină
+Bogăţia Ta de har
+/: Cum mă-mbracă iar şi iar :/.
+
+[s4]
+4. Doamne ca să vii la mine
+Șă-mi dai stări tot mai divine
+Să mă-nalţ prin înnoire spre o veşnică-n plinire
+Şi la Tine să mă treci
+/: Tu găseşti mereu poteci :/.
+
+[order]
+s1,s2,s3,s4

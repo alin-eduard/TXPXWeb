@@ -1,0 +1,16 @@
+[s1]
+Aleluia, sfinte Tată,
+Pentru Fiul ce ni L-ai dat,
+Trimiţându-L în lume
+Pentru noi a fi trădat !
+
+[s2]
+Ştim că L-am rănit noi,
+Dar moartea-a biruit !
+Aleluia, sfinte Tată,
+În viaţa Lui e viaţa mea,
+Aleluia, sfinte Tată,
+În moartea Lui am naşterea.
+
+[order]
+s1,s2

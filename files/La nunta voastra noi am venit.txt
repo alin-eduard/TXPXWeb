@@ -1,0 +1,26 @@
+[s1]
+La nunta voastra noi am venit
+Sa sarbatorim cea mai frumoasa zi,
+O zi mareata în care acum
+Voi va uniti pe-al vieti drum.
+
+[r1]
+/: Fiti fericiti în viata voastra
+În drumul pe care porniti,
+Iubirea sa le fie diamantul
+Pe care sa îl pretuiti. :/
+
+[s2]
+La nunta voastra voi ati chemat
+Cu dragoste si prieteni apropiati,
+Dar mai cu seama noi dorim acum
+Domnul sa va fie tovarasul de drum.
+
+[s3]
+La nunta voastra noi va dorim
+Zile cu soare si numai împliniri,
+În toata viata noi sa auzim
+Ca cerul vietii va este tot senin.
+
+[order]
+s1,r1,s2,r1,s3,r1

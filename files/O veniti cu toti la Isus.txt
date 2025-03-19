@@ -1,0 +1,42 @@
+[s1]
+O, veniţi cu toţi la Isus,
+jos la Betleem
+Să-L vedem cum s-a născut,
+pe El să-L vedem
+Să-ngenunchem ca păstorii,
+smeriţi la pămînt
+S-auzim ce frumos cantă
+oastea Celui Sfînt.
+
+[r1]
+Eu vreau să-L urmez,
+pe Isus vreau să-L urmez
+Orişiunde, orişicînd,
+urmez lui Isus!
+Eu vreau să-L urmez,
+pe Isus vreau să-L urmez
+În tot locul şi-n tot ceasul
+eu Îl urmez!
+
+[s2]
+O, veniţi cu toţi la Isus,
+colo-n Ghetsimani
+Să-L vedem în chinuri grele
+şi cum S-a rugat.
+Cu durere sufletească
+pentru noi a plîns
+Ca să-mi facă şi mie loc
+sus în Paradis.
+
+[s3]
+O, veniţi cu toţi la Isus,
+la Golgota sus
+Să-L vedem în chinuri grele,
+cu trupul străpuns
+Cum păgînii toţi cu ură
+de El joc îşi bat
+Şi talharul de pe cruce
+cum a fost iertat !
+
+[order]
+s1,r1,s2,r1,s3,r1

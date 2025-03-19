@@ -1,0 +1,41 @@
+[s1]
+1446.    Mi
+Suntem doar o răsuflare
+Abur spulberat de soare
+Simple adieri de vânt
+Şi o mână de pământ
+Suntem mici dar Tu eşti mare
+Eşti cu noi în strâmtorare
+Doar prin Tine existăm
+De aceea Te lăudăm
+
+[s2]
+De nu mi-ai fi întins mâna
+M-ar fi înghiţit ţărâna
+Dar Tu ştii Doamne aşa
+Nu cei morţi Te pot lăuda.
+Tu Isus din bolta albastră
+Ai venit în barca noastră
+Ne-ai scăpat de toţi cei răi
+Căci Tu-i aperi pe ai Tăi.
+
+[s3]
+Când zăceam în neputinţă
+Mi-ai fost steag de biruinţă
+Ne-ai călăuzit mereu
+Dreapta ta de Dumnezeu
+Să ştie întreaga lume
+Căci sub cer e doar un nume
+Doar un nume glorios
+Numele Isus Hristos
+
+[s4]
+Şi în orice-mprejurare
+Ai fost a noastră salvare
+Şi-n primejdii şi-n nevoi
+Doamne ai fost lângă noi
+Te lăudăm cu al nostru cânt
+Tatăl, Fiu şi Duhul Sfânt.
+
+[order]
+s1,s2,s3,s4

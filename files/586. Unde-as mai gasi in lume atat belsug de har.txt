@@ -1,0 +1,36 @@
+[s1]
+Unde-aş mai găsi în lume
+Atât belşug de har
+Când dureri mă copleşesc amar
+Cui să-i spun durerea
+Care-mi arde sufletul
+De n-ai fi Isuse Doamne Tu.
+586.
+
+[r1]
+Cor : /: Vin la Tine cu viaţa mea
+Tu-mi ştii toate
+Frământările din ea
+Harul tău în slăbiciune
+Mi-i adăpost deplin Isuse
+Ţie mă predau şi mă-nchin :/.
+
+[s2]
+.
+2. Unde aş mai găsi o dragoste
+Precum a Ta
+Să mă poată zilnic ridica
+Cine mi-ar cunoaşte sufletul
+Când mi-e răpus
+De n-ai fi, o, scumpul meu Isus.
+
+[s3]
+.
+3. Unde aş mai găsi odihnă
+Ca la sânul Tău
+Prin furtuna veacului cel rău
+Nimeni nu mă înţelege pe pământ
+Cum Tu mă înţelegi Isuse scump.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,29 @@
+[s1]
+Mă simt lovit, dar nu înfrânt;
+Şi-oricâte fi-vor pe pământ,
+Alături de al meu Stăpân,
+în orice zi vreau să rămân
+Şi să îi cânt... şi să îi cânt!...
+
+[r1]
+/: De poala Ta, Isus, mă prind
+Şi-oricât Cel Rău ar încerca,
+De-ar fi să sfâsii haina Ta,
+Eu tot nu mă desprind! :/
+
+[s2]
+Mă simt lovit, dar nu răpus;
+Eu sper în gloria de sus.
+îmi arde inima de dor,
+După al meu Mântuitor;
+De-aceea cânt: „Isus, Isus!..."
+
+[s3]
+Mă simt lovit, dar nu ucis;
+Mai am, în viaţa mea, un vis:
+Să mă îndrept spre El, smerit,
+Şi-oricât de greu voi fi lovit,
+Eu vreau să cânt şi-n Paradis!...
+
+[order]
+s1,r1,s2,r1,s3,r1

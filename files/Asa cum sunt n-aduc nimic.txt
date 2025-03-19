@@ -1,0 +1,38 @@
+[s1]
+Aşa cum sunt n-aduc nimic
+Decât că sângele ce-a curs
+Pe mine el m-a curăţit,
+La Tine vin, Hristos Isus.
+
+[s2]
+Aşa cum sunt, rău şi pătat,
+Îndreptăţire n-am ajuns,
+Prin sângele-Ţi să fiu spălat,
+La Tine vin, Hristos Isus.
+
+[s3]
+Aşa cum sunt, căzut, lumesc,
+De remuşcare chinuit,
+La crucea Ta mă pocăiesc,
+La Tine vin, Hristos iubit.
+
+[s4]
+Aşa cum sunt, orb şi lipsit,
+La răutate predispus,
+Putere-n Tine am găsit,
+Las Tine vin, Hristos Isus.
+
+[s5]
+Tu mă primeşti aşa cu sunt,
+Prin sângele-Ţi cel scump ce-a curs;
+Al Tău, în moarte vieţuind,
+La Tine vin, Hristos Isus.
+
+[s6]
+Aşa cum sunt mă mântuieşti,
+Şi-mi dai viaţa Ta de sus!
+Să-Ţi mulţumesc că mă iubeşti
+La Tine vin Hristos, Isus!
+
+[order]
+s1,s2,s3,s4,s5,s6

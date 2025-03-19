@@ -1,0 +1,45 @@
+[s1]
+1328.
+1.  Când Domnul va veni
+Ca la potop va fi
+Oamenii mereu se vor trudi
+De cele pământeşti se vor îngrijora
+Până când sfârşitul vor vedea.
+Vor sădi şi vor zidi
+Până Domnul va veni                                                 	Şi oricât i-ai tot chema
+Tot nepăsători vor sta.
+
+[s2]
+2.  Când Domnul va veni
+Oamenii se vor îngrozi
+Căci va ploua cu foc
+Ş-i va topi pe loc
+Pe aceia care nu s-au pocăit.
+Dumnezeu a revărsat
+Apă vie strop cu strop                          	Şi pe noi El ne-a chemat
+Ca pe cei de la potop.
+
+[s3]
+3.  Când Domnul va veni
+Ca la potop va fi
+Căci nu s-au pocăit şi nu s-au pregătit
+Să-L aştepte pe Isus Hristos
+În corabie vor sta
+Neamul cel neprihănit
+Care-n taină L-a slujit
+Pe Isus cel răstignit
+
+[s4]
+4. Când Domnul va veni
+Ca la potop va fi
+Spune-mi tu eşti pregătit acum
+Ca să intri în vapor
+În minunatul nor
+Cu Isus şi cu al Său popor
+Ziua aceea va veni
+Când ai Lui răscumpăraţi
+Către ceruri vor zbura
+Pe aripi de vânt purtaţi
+
+[order]
+s1,s2,s3,s4

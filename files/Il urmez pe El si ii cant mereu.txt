@@ -1,0 +1,33 @@
+[s1]
+Îl urmez pe El şi îi cânt mereu
+Mă iubeşte Dumnezeu
+Mă păzeşte El, prin sfânt braţul Său
+Mă iubeste Dumnezeu.
+
+[r1]
+Azi cânt pe cale fără-ncetare
+Mă iubeste Dumnezeu
+Căci mântuirea şi fericirea
+Mi le-a dat prin harul Său.
+
+[s2]
+Cât de minunat Domn m-a salvat
+Mă iubeşte Dumnezeu
+Sunt răscumpărat, de El sigilat
+Mă iubeşte Dumnezeu.
+
+[s3]
+Haina mi-a spălat
+Duhul Sfânt mi-a dat
+Mă iubeşte Dumnezeu
+Sunt răscumpărat, de El sigilat
+Mă iubeşte Dumnezeu.
+
+[s4]
+Veşnic voi cânta, pentru slava Sa
+Mă iubeşte Dumnezeu
+Căci m-a mântuit, cer mi-a pregătit
+Mă iubeşte Dumnezeu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

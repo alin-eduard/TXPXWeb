@@ -1,0 +1,29 @@
+[s1]
+881.
+1.  Ce frumoasă-i ţara mea
+Fără apus de soare
+Unde veşnic voi şedea
+Înălţat în zare.
+2.  Îngerii în cale-mi ies
+Cu alai de primăvară
+Să-mi arate ce-au ales
+Ceru-n prima oară.
+
+[s2]
+3.  Văd luceafărul din zori
+Zboară-n sus de stele
+Cum se-nalţă de uşor
+Gândurile mele.
+4.  Peste străzi de aur plin
+Văd strălucitoare
+Cete cum se plimbă lin
+Sfinţii-n sărbătoare.
+
+[s3]
+5.  Ce frumoasă-i ţara mea
+Când privesc din vale
+Mult doresc să ajung în ea
+Cu Isus pe cale.
+
+[order]
+s1,s2,s3

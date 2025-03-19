@@ -1,0 +1,35 @@
+[s1]
+1915
+1. Mi-e inima amară și plâng
+Dar vino-n ajutor
+Căci viața fără Tine se stinge
+Și singur eu nu mai pot
+
+[r1]
+Cor:  Sunt singur pe mare
+Și valu-i greu tare
+Și sunt un păcătos
+Întinde-ți Tu mâna
+Oprește furtuna
+Căci numai Tu ești Hristos
+
+[s2]
+2. De oboseală am căzut
+Dar Tu mai ridicat
+Pe brațul tare mai ținut
+Salvare Tu mi-ai dat
+
+[s3]
+3. Umbrele morții și încercări
+Cădeau asupra mea
+Ziceam că nu o să mai rezist
+Și mă voi scufunda
+
+[s4]
+4. Pe Tine Te laud mereu
+Tu ești cârmaciul meu
+Liniștit stau în brațul Tău
+Când valul este greu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

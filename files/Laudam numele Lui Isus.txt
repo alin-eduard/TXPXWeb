@@ -1,0 +1,32 @@
+[s1]
+Laudam numele Lui Isus
+Al Salvatorului
+Cu lauda sa-l incununam
+Pe Domnul cerului
+
+[r1]
+Inainte sa-L laudam
+Pe Domnul Sfant al Cerului
+Sa-L laudam
+pe Domnul Sfant al Cerului
+
+[s2]
+Popoarele, neamurile
+Sub fata soarelui
+Serveasca cu bucurie
+Pe Domnul Cerului
+
+[s3]
+Laudati toti pe-acest Imparat
+Si biruinta Lui
+Laudati voi cei rascumparati
+Pe Domnul cerului.
+
+[s4]
+O de-as putea sa fiu si eu
+Cu oastea Domnului
+Sa-l pot si eu lauda mereu
+Pe Domnul cerului
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

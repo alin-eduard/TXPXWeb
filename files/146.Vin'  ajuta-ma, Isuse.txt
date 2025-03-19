@@ -1,0 +1,33 @@
+[s1]
+146.Mi
+1. Vin' ajută-mă, Isuse
+Grija mea s-o părăsesc,
+Fără ură, ci-n iubire
+Lângă Tine să trăiesc.
+
+[r1]
+Cor: Nu vreau, Doamne de la Tine
+Nu vreau decât pacea Ta
+Viaţă sfântă şi iubire
+Cu care-n cer pot intra
+
+[s2]
+2. Dă-mi Isuse, zel în rugă
+Lacrime să pot vărsa!
+Nu-mi da nici o bogăţie
+Prin cari să te pot uita
+
+[s3]
+3. De mi-ai da inimi o mie,
+Multe vieţi să Te măresc,
+Pentru dragostea-Ţi sublimă,
+N-am să pot să-Ţi mulţumesc.
+
+[s4]
+4. Nu vreau aur, nici argint,
+Nici comori pe-acest pământ,
+Doar un singur lucru vreau
+Lâng-al meu Isus să stau!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

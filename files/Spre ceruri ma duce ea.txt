@@ -1,0 +1,27 @@
+[s1]
+Dacă vreau să văd
+ţara Domnului meu,
+O cale doar am de-ales,
+Calea crucii Lui şi pe ea mereu
+Fără murmur eu am de mers.
+
+[r1]
+Spre ceruri mă duce ea,
+Spre ceruri mă duce ea,
+Ce frumoasă e calea crucii Lui,
+Spre ceruri mă duce ea.
+
+[s2]
+Vreau să merg pe calea îngustă şi grea
+Pe care a mers Isus,
+Numai ea mă poate spre cer urca,
+Spre doritul locaş de sus.
+
+[s3]
+Pe-ale lumii întunecate cărări
+De-acum nu voi mai umbla.
+Domnul m-a chemat, Eu L-am ascultat
+Şi voi merge pe calea Sa.
+
+[order]
+s1,r1,s2,r1,s3,r1

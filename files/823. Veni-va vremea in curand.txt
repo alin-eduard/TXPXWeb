@@ -1,0 +1,49 @@
+[s1]
+823.
+1. Veni-va vremea în curând
+Veghează tu popor iubit
+În nopţi târzii şi zi de zi
+Veghează mai veghează.
+2. Veni-va vremea în curând
+Când se va uita orice chin
+Când se va şterge lacrima
+Şi s-a sfârşi durerea.
+
+[s2]
+3. Veni-va vremea hotărât
+Când se va schimba acest pământ
+Domni-va pe el atuncea
+Domni-va pe el pacea.
+4. Veni-va vremea în curând
+Când va răsuna pe pământ
+Mult aşteptata trâmbiţa
+Care va vesti venirea.
+
+[s3]
+5. Cei din mormânt vor auzi
+Chemarea şi se vor trezi
+Din foc, din apă, din mormânt
+Că-i ziua Învierii.
+6. Şi în văzduh s-or înălţa
+Într-o clipeală sunt schimbaţi
+În alb veşmânt ei vor zbura
+Spre patria cerească.
+
+[s4]
+7. De aceea tu popor iubit
+Veghează nu te obosi
+Căci în curând, curând de tot
+Vor apărea pescari.
+8. Veghează nu descuraja
+Oricât ar fi de grea lupta
+Căci nu mult mai ai de răbdat
+Căci zorii zilei apar.
+
+[s5]
+9. Şi bucurii câte vor fi
+Atunci când ne vom întâlni
+Când mii de cete vor cânta
+Osana Aleluia.
+
+[order]
+s1,s2,s3,s4,s5

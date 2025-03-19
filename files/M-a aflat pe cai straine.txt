@@ -1,0 +1,26 @@
+[s1]
+M-a aflat pe căi străine
+Bunul meu Păstor, Isus,
+Din adânc şi întuneric
+La lumină m-a adus.
+
+[r1]
+Aleluia! Aleluia!
+Voi cânta neîncetat
+Prin Isus am mântuire,
+Fie veşnic lăudat!
+
+[s2]
+M-a luat cu drag pe braţe,
+De păcat m-a vindecat,
+Hrană din Cuvântul vieţii
+Şi putere El mi-a dat!
+
+[s3]
+M-a spălat Mântuitorul,
+Haină albă am primit,
+M-a sfinţit prin al Său sânge,
+O, cât sunt de fericit!
+
+[order]
+s1,r1,s2,r1,s3,r1

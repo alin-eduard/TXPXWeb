@@ -1,0 +1,28 @@
+[s1]
+În ţara mea, inima doreşte,
+În casa cea părintească;
+Nu aparţin lumii acestei mai mult,
+Doresc odihna cerească.
+Mult am umblat, condus de multe simţuri,
+Doresc numai la-a ţării mele cîmpuri,
+N-am nici un dor, decît să fiu numai
+În ţara mea, în ţara mea!
+
+[r1]
+În ţara mea, în ţara mea,
+Doresc s-ajung la casa Tatălui,
+Doresc s-ajung la casa Tatălui meu,
+În ţara mea, în ţara mea!
+
+[s2]
+Ţara-mi doresc, ca printr-un vis văzusem,
+Patria mea cea frumoasă,
+Locul meu e în oraşul de aur,
+Ici sufletu-mi pace n-află.
+Ca pasărea ce fără nici o frică,
+Mai sus de nori în zboru-i se ridică.
+Aşa liber doresc eu a zbura,
+În ţara mea, în ţara mea!
+
+[order]
+s1,r1,s2,r1

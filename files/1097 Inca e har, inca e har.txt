@@ -1,0 +1,47 @@
+[s1]
+Încă e har, încă e har
+Încă e har, dar noi îl risipim
+Încă în dar, încă în dar
+E mântuirea ce noi o primim
+O Doamne Sfinte-nţelepciune să ne dai
+Să ştim alege bine calea către Rai
+Multe cărări se pot ivi
+Călăuzeşte-mă căci pot greşi.
+1.
+1097.
+
+[s2]
+Eşti invitat şi eşti rugat
+E viaţa ta te rog nu te juca
+E-adevărat ce ai aflat
+Se pare harul că se va lua.
+Mă înfior la gândul de-a fi pierdut
+Şi că pe lângă mântuire au trecut
+Fii înţelept asta aştept
+2.
+Pune-ţi piciorul pe drumul cel drept
+
+[s3]
+Nu eşti stăpân, nu eşti stăpân
+Pe viaţa care larg o risipeşti
+E un stăpân ce în curând
+Va judeca viaţa ce-o trăieşti.
+Nu da tu raiul pentru viaţa de aici
+De ce spre cer tu ochii nu vrei să-i ridici
+Când vei voi nu poţi opri
+A judecăţii ceas când va veni.
+3.
+
+[s4]
+Isus Hristos Domnul milos
+Îţi cere viaţa ta fără folos
+El a venit de s-a jertfit
+Ca tu amice să fii mântuit.
+Suflete-ntoarce, întoarce vino la Isus
+Nu amâna grăbit salvarea ce-a adus
+Încă e har, nu ţi-e în zadar
+Viaţa de veci e-al tău har.
+4.
+
+[order]
+s1,s2,s3,s4

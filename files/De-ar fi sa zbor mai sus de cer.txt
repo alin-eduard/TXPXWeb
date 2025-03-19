@@ -1,0 +1,30 @@
+[s1]
+De-ar fi să zbor mai sus de cer
+Curat ca şi un porumbel
+/:Mai sus de stele aş cânta
+Isus, Isus iubirea mea:/
+3
+
+[s2]
+De-aş fi un cerb s-alerg prin munţi
+Semeţ ca brazii nalţi, cărunţi
+/:Întruna eu aş fredona
+Isus, Isus iubirea mea:/
+2
+
+[s3]
+Luceafărul în zori să fiu
+O stea, lumină în pustiu
+/:Pe ceru-ntreg eu Ţi-aş cânta
+Isus, Isus iubirea mea:/
+1
+
+[s4]
+Dar nu-s nimic şi totuşi cânt
+Nu pot să tac de haru-Ţi sfânt
+/:Mai mult în cer Îţi voi cânta
+Isus, Isus iubirea mea:/
+0
+
+[order]
+s1,s2,s3,s4

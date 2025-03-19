@@ -1,0 +1,35 @@
+[s1]
+1891
+1. În ziua când în cer va fi serbarea
+Poporul ce-a fost răscumpărat
+/:Noi vom vedea ce mare e răsplata
+Acelora ce-aicea s-au luptat:/
+
+[r1]
+Cor: /:Nu este-n stare
+Nimeni să gândească
+Nici să spună ce-i acolo sus
+Căci slava și splendoarea e creată
+De Dumnezeu și Domnul nost' Isus:/
+
+[s2]
+2. Acolo-n ceruri nimenea nu moare
+Căci moartea pentru veci o va lega
+/:Acel care-a creat orice făptură
+Și viața pentru veci va triumfa:/
+
+[s3]
+3. Nici beznă nu mai este sus în ceruri
+Căci întunericul e spulberat
+/:De ne-nțeleasa și marea lumină
+Ce-o dă Isus Cerescul Împărat:/
+
+[s4]
+4. Ferice-acum de cei care în viață
+Deși nu văd
+Ei cred ce Domnu-a spus
+/:Oricum ei  nu au nimic de-a pierde
+Dar pierd aceia ce n-au pe Isus:/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

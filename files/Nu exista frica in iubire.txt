@@ -1,0 +1,30 @@
+[s1]
+Nu există frică în iubire
+Căci iubirea este Dumnezeu
+Cine e cu Domnul în unire
+Are o încredere mereu
+
+[r1]
+/:O da eu nu mă tem
+Căci Domnul e cu mine
+Sunt copleşit atunci
+Când simt iubirea Lui
+Prin valea umbrei morţii
+Dacă merg cu Tine
+Eu n-am să tremur
+Ca-n iubire frică nu-i:/
+
+[s2]
+Frica de la diavolul venise
+Ca să ispitească pe cei răi
+Domnul pe satan îl biruişe
+Tot prin El înving mereu şi-ai săi
+
+[s3]
+Ştiu că este şi o teamă sfântă
+Care chiar iubirea ne-a sădit
+Şi respect din dragoste adâncă
+Pentru Mielul care s-a jertfit
+
+[order]
+s1,r1,s2,r1,s3,r1

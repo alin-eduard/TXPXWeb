@@ -1,0 +1,46 @@
+[s1]
+1313.
+1.  În căsuţa tăinuită
+Ce de-atâţi-ai părăsită
+/: Se coboară Duhul Sfânt
+La ai săi de pe pământ
+Care-l aşteaptă plângând:/
+
+[s2]
+2.  Care prin rugăciunea lor
+Întreabă pe Creator
+/: Când vei împlini tu dorul
+Şi-ţi vei trimite vaporul
+Să răpeşti întreg poporul:/
+3.  Însă până atunci veghează
+Totdeauna să fii trează
+/: Te îmbracă-n graba mare
+În credinţă şi răbdare
+Fii mereu în aşteptare:/
+
+[s3]
+4.  Fii mereu tare-n credinţă
+Te îmbracă-n umilinţă
+/: Stăpâneşte-ţi mereu firea
+Ca să poţi vedea răpirea
+Îmbrăcat în strălucire:/
+5.  Că de nu-i amar de tine
+Vei rămânea la suspine
+/: Vei plânge cu amar şi jale
+Că nu poţi avea salvare
+Şi că nu ai ridicare:/
+
+[s4]
+6.  O Isuse Mire scump
+Îmbracă-mă cu Duhul Sfânt
+/: Pe tot cei ce te aşteaptă
+Alergând pe calea dreaptă
+Ca să primeşti o răsplată:/
+7.  Ca în ziua minunată
+Să-ţi vedem slăvita-ţi faţă
+/: Îmbrăcaţi în in subţire
+Fapte de neprihănire
+Veşnic, veşnic în mărire:/
+
+[order]
+s1,s2,s3,s4

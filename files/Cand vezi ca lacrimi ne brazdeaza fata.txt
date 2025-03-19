@@ -1,0 +1,38 @@
+[s1]
+Când vezi că lacrimi ne brăzdează faţa
+Pe-acest Pământ cu-atâtea întristări
+Noi Te rugăm s-aduci Tu dimineaţa
+Purtând întregile noastre poveri.
+în cortul întâlnirii azi, Isuse
+Te aşteptăm să vii ca în vechime
+Căci strigă sufletele de durere
+O, vino să ne dai azi mângâiere !
+
+[r1]
+Vino, vino Doamne
+La strigătul atâtor dintre fii !
+Ridică-ne Tu astăzi durerea
+Şi-n harul minunat să ne mângâi !
+
+[s2]
+Se-apropie ziua măreaţă, sfântă
+Şi-n dragoste-ntăreşte-ne întâi
+Cu toţi cei ce-aleşi au fost de Tine
+La Tine să ne iei când ai să vii.
+Mai dă-ne prin Duhul Tău putere
+Putere din iubirea cea dintâi
+Ridică-ne din starea de-umilinţă
+De partea noastră veşnic să rămâi.
+
+[s3]
+Aşa dorim prin toate să-Ţi rămânem
+Statornici în credinţă şi-n cuvânt
+Ca şi în clipele cele din urmă
+Să ne găseşti pe-ogorul Tău lucrând.
+Să ne găseşti în rugăciune pe altare
+Şi tuturor, la toţi să le-arătăm
+Că dragostea Ta e nespus de mare
+Cu lacrimi pe faţă îţi cântăm.
+
+[order]
+s1,r1,s2,r1,s3,r1

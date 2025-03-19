@@ -1,0 +1,33 @@
+[s1]
+1434.      Re
+N-ai asemănare
+Nici în cer nici pe pământ
+Nici în măreţie
+Nici în fapte şi-n cuvânt
+/:Îţi cântăm Osana
+Dumnezeule Slăvit
+Pentru mântuirea
+Ce-n Isus ne-ai dăruit:/
+
+[s2]
+Orişicine crede
+Si renunţă la păcat
+În Isus găseşte
+Un prieten minunat
+Cor     /:Îţi cântăm Osana
+Dumnezeule Slăvit
+Pentru mântuirea
+Ce-n Isus ne-ai dăruit:/
+
+[s3]
+Orişicine vine
+Nu va fi respins nicicând
+Are o bucurie
+Si o nădejde pe pământ
+Cor     /:Îţi cântăm Osana
+Dumnezeule Slăvit
+Pentru mântuirea
+Ce-n Isus ne-ai dăruit:/
+
+[order]
+s1,s2,s3

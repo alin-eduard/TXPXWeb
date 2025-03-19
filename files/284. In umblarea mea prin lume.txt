@@ -1,0 +1,42 @@
+[s1]
+1. În umblarea mea prin lume,
+Prin ispitele haine,
+Peste tot Isuse, Doamne
+Numai harul Tău mă ţine.
+284.
+Re m
+
+[r1]
+Cor:
+/:Numai harul, numai harul
+Mă păstrează ne-ncetat
+El mă face, el mă ţine
+Credincios cu-adevărat.:/
+
+[s2]
+2. Pe cărarea curăţiei
+Şi în lupta spre mai bine
+Să mă ţin nu pot, ci-ntruna
+Numai harul Tău mă ţine.
+
+[s3]
+3. În lucrarea Ta preasfântă
+Unde m-ai chemat pe mine
+Cât e de puţină roadă,
+Numai harul Tău mă ţine.
+
+[s4]
+4. Când aş vrea
+s-ascult Cuvântul,
+Să-mplinesc cum se cuvine
+Văd cum totu-mi stă-mpotrivă
+Numai harul Tău mă ţine.
+
+[s5]
+5. Orişicând şi-n orice stare,
+Doamne, îndrăznesc la Tine
+Şi-n cădere şi-n ‘nălţare
+Numai harul Tău mă ţine.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

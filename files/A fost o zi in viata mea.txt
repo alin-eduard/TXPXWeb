@@ -1,0 +1,28 @@
+[s1]
+A fost o zi cand Te-am intalnit
+Cu pace Tu m-ai coplesit
+Eram murdar de pacate legat
+Dar Tu spre min' Te-ai aplecat
+
+[s2]
+Cu voce blanda mi-ai soptit
+"Si pentru tine Am murit"
+M-ai ridicat si-n zbor m-ai dus
+M-ai asezat pe stanca sus
+
+[s3]
+Da te laud cu inima mea
+Maini curate spre Tin voi ridica
+Pe aripi albe spre tronu-Ti voi zbura
+Cu teama sfanta ma voi inchina
+
+[s4]
+Acum privesc frumusetea Ta
+Ca Tine nu-i altcineva
+Esti mai presus de ratiuni si gand
+Esti Domn in cer si pe pamant
+Ai coborat in viata mea
+Pe Tine te voi adora
+
+[order]
+s1,s2,s3,s4

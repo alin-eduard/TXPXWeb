@@ -1,0 +1,46 @@
+[s1]
+1. /: De prin valuri :/ strigă azi
+Isuse pe Tine
+Te cheamă ai tăi argaţi
+Cei împrăştiaţi prin lume
+Se gândesc mereu
+La tine pe pământ.
+587.
+
+[s2]
+2. În cetatea ce Sodoma se numeşte
+Sufletul meu azi
+Pe Tine te vesteşte
+Isuse pe Tine Te cheamă
+Inima care-i sărmană pe pământ.
+
+[s3]
+3. În cetatea ce Sodoma i se spune
+A lui Lot viaţă ce o trăia
+Ne spune şi cum el se chinuia
+Aşa este viaţa mea
+Tristă pe pământ.
+
+[s4]
+4. Valurile zilnic, zilnic vin grămadă
+Starea vieţii zilnic vine mai turbata
+Strigătele vin de groază
+Lumea întreagă ameninţă valul ei.
+
+[s5]
+5. Cei smeriţi prin multe valuri
+Pe pământ
+Te cheamă
+Căci Tu eşti tatăl lor iubit
+Căci suspinul lor e mare
+Tu împlineşte a ta lucrare
+Pe pământ.
+
+[s6]
+6. De sus raze strălucite se arată
+Mângâind inima care-i întristată
+Blândul glas şi azi se aude
+Suferinţa El o frânge în curând.
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,39 @@
+[s1]
+Te onoram Isus
+de mantuirea ce ne-ai dat
+A Ta Biserica
+Te preamareste neincetat,
+Prin Duhul Tau Cel Sfant,
+Isuse esti cu noi
+Ne daruiesti in suflet
+binecuvantari.
+
+[r1]
+/: Credincios e Domnul
+El ne-a mantuit
+Harul, pacea Sa aEL ne-a daruit,
+Vom invinge valul si ispita grea
+Cu Isus totdeauna. :/
+
+[s2]
+Te laudam Isus
+iubitul nostru salvator
+Cu buzele noastre
+al Tau nume glorificam,
+Vom cugeta mereu
+la mantuirea ce ne-ai dat
+Isuse drag
+noi Te iubim cu-adevarat.
+
+[s3]
+Te onora Isus iubim
+Cuvantul Tau Cel Sfant
+Invata-ne mereu
+sa luminam al Tau Cuvant,
+Tatal din cer e bun
+El ne iubeste ne-ncetat
+Prin Fiul Sau
+viata vesnica ne-a dat.
+
+[order]
+s1,r1,s2,r1,s3,r1

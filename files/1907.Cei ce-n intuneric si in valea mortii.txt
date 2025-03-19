@@ -1,0 +1,37 @@
+[s1]
+1907
+1. Cei ce-n întuneric
+Şi în valea morții
+Multă vreme ei Te-au așteptat
+Tu i-ai scos din groapă
+Şi din valea morții
+Lanțurile Tu le-ai sfărâmat
+
+[r1]
+Cor: /:Israel:/ o Israel
+Ascultă-L pe Dumnezeu
+
+[s2]
+2. Cei ce în pustie și în agonie
+Multă vreme ei au pribegit
+În nenorocire s-au întors la Tine
+Strigătele Tu le-ai auzit
+
+[s3]
+3. Lepădând porunca
+Ce le-a dat-o Domnul
+Sfaturile Lui n-au ascultat
+Au pierdut iubirea
+Harul și ocrotirea
+Au căzut și n-au fost ajutați
+
+[s4]
+4. Vino iar la Mine
+Tu popor fățarnic
+Harul meu din nou voi revărsa
+Voi face din tine
+O nouă zidire
+Îndurarea mea te-a-nconjura.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

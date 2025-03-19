@@ -1,0 +1,41 @@
+[s1]
+1. Când încercarea ți se pare
+Iubite frate că-i prea grea,
+Tu nu cârti ci spune: Doamne
+/: În toate fie voia Ta: /
+LabM
+
+[r1]
+Căci Dumnezeu e cel ce știe
+În totul suferința ta,
+Încrede-te deplin în El
+Că nicicând nu te va lăsa.
+Tu ești săpat în Mâna sfântă
+A Scumpului Mântuitor
+Ce har mareț, El nu te uită
+Că El e Domnul Domnilor! (x1)
+
+[s2]
+2. Te-ntrebi adesea când răsare
+Soarele și-n viața ta,
+Nu te uita la încercare
+/: Ci-ncrede-te în Mesia: /
+
+[s3]
+3. Sunt întrebări aici la care
+Răspuns nicicând nu vom afla,
+Dar vine ziua-aceea mare
+/: Când cu Isus pe veci vom sta: /
+
+[s4]
+Căci Dumnezeu e cel ce știe
+În totul suferința ta,
+Încrede-te deplin în El
+Că nicicând nu te va lăsa.
+Tu ești săpat în Mâna sfântă
+A Scumpului Mântuitor
+Ce har mareț, El nu te uită
+Că El e Domnul Domnilor! (x2)
+
+[order]
+s1,r1,s2,r1,s3,s4

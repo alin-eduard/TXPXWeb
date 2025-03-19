@@ -1,0 +1,24 @@
+[s1]
+Isus lumina iubirii tale
+Străluceşte în întuneric
+Lumina lumii ne dă din lumina Ta
+Eliberează-ne prin adevărul Tău
+Fii lumina mea, fii lumina mea
+
+[r1]
+Umple Isus cu lumina-Ţi această ţară
+Vino Duh Sfânt inimi Tu să aprinzi
+Curgi izvor de har
+Inundă ţara cu lumină
+Cu iubirea Ta, Doamne lumea s-o cuprinzi
+
+[s2]
+În faţa Ta venim să ne închinăm
+Ţie pururi noi slavă vrem să-Ţi dăm
+Din plinătatea primitam har după har
+În viaţa noastră oglindeşti că-ci
+ne-ai dat în dar
+Lumina Ta, lumina Ta
+
+[order]
+s1,r1,s2,r1

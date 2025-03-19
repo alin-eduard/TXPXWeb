@@ -1,0 +1,48 @@
+[s1]
+1.	Când sunt mic
+atunci sunt mare.
+Cânt voios, când lupta-i grea.
+Când sunt slab, atunci sunt tare
+Căci Isus e stânca mea.
+513      								     Fa
+
+[r1]
+Cor:
+Munţii de s-ar clătina
+Vânturi mari de ar sufla
+Ape de s-ar revărsa
+Isus, Isus eşti pacea mea.
+
+[s2]
+2.	Chiar de n-ar mai fi izvoare
+Şi de sete m-aş usca
+Şi-n nevoi şi-n destulare
+Te voi binecuvânta.
+
+[s3]
+3.	Vânturi grele de vor bate
+Eu mă-ncred în Dumnezeu
+Căci în cer, în Sfânta Carte
+Este scris numele meu.
+
+[s4]
+4.Chiar de-i lupta-nverşunată
+Şi cad mulţi în crud măcel
+Sus în cer avem un Tată
+Pentru noi se luptă El.
+
+[s5]
+5.Pentru noi chiar de e pace
+Pentru noi chiar de-i război
+Nu ne temem niciodată
+Dumnezeu este cu noi.
+
+[s6]
+Dumnezeu din slăvi divine
+Sfânt, sfânt, sfânt
+În veci e El
+Cel ce e, ce-a fost şi vine
+E Sfântul lui Israel.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

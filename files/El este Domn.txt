@@ -1,0 +1,16 @@
+[s1]
+/: El este Domn :/
+El a înviat şi este Domn
+Toţi genunchii să se plece
+Toate limbile să-i cânte
+Că Isus este Domn.:/
+
+[s2]
+/: El este viu :/
+El a înviat din morţi şi este viu
+Toţi genunchii să se plece
+Toate limbile să-I cânte
+Că Isus este Domn.
+
+[order]
+s1,s2

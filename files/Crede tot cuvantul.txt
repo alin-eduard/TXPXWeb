@@ -1,0 +1,37 @@
+[s1]
+Crede tot Cuvântul
+Spus de Dumnezeu!
+Pentru cel ce crede,
+Nu-i nimic prea greu.
+/: Crede că, asemenea
+Celui împlinit,
+O să se-mplinească
+Şi cel profeţit! :/
+
+[r1]
+/: Crede:/ tot ce-a spus Isus!
+/: Toate-au să se-ntâmple :/
+/: Chiar cum El a spus. :/
+
+[s2]
+Crede că El, Scutul
+Neamului trecut,
+Va fi scut şi celui
+încă nenăscut.
+/: Crede că El, Stânca
+Celor mântuiţi,
+Va da har şi celor
+Astăzi împietriţi. :/
+
+[s3]
+Crede că El este
+Cu al Său popor!
+Crede că El, Domnul,
+E Mântuitor!
+/: Crede că-i mai tare
+Decât toţi mereu!
+Crede că-i Cuvântul
+Spus de Dumnezeu! :/
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,32 @@
+[s1]
+Ca păsările migratoare,
+Şi noi emigranţi ne numim;
+Mereu, către ţara cu soare,
+Prin valuri şi vanturi, plutim.
+
+[r1]
+În urma-i furtuna, pentru totdeauna!
+'Nainte e ţara şi soarele cald,
+Cetatea de aur cu porţi de safire,
+Cu străzi aurite şi cer de smarald.
+
+[s2]
+Aicea lăsăm colivia
+Şi cuibul din vreascuri uscat;
+'Nainte privim veşnicia
+Şi locul spre care-am plecat.
+
+[s3]
+Şi nu ne vom pierde, în larguri,
+Pe-oceanele pline cu nori,
+Ca-n faţă se văd trei catarge:
+E al mântuirii vapor.
+
+[s4]
+Credinţa, nădejdea, iubirea
+Ne poartă când am obosit,
+Căci Domnul e totul: mărirea
+Şi soarele făr-asfinţit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

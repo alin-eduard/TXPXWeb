@@ -1,0 +1,26 @@
+[s1]
+În sfântă devotare, Isuse,
+Te urmez!
+Supus Îţi calc pe urme
+în sfântul Tău botez.
+
+[s2]
+În moartea Ta, Isuse,
+eu azi m-am îngropat
+Şi spre o viaţă nouă
+cu Tine-am înviat.
+
+[s3]
+Te rog, de-acum, o,
+Doamne, să mă învredniceşti
+Să duc o viaţă sfântă
+aşa cum Tu doreşti.
+
+[s4]
+Te rog să-mi dai putere
+prin Duhul Tău cel Sfânt
+Să fiu întreaga viaţă
+în noul legământ!
+
+[order]
+s1,s2,s3,s4

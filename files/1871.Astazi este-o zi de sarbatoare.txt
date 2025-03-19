@@ -1,0 +1,29 @@
+[s1]
+1871
+1. Astăzi este-o zi de sărbătoare
+Ești invitat și tu la ea
+Sărbătoritul în curând va apare
+Și va aduce și iertarea ta
+Tu poți să o accepți sau poți respinge
+Aici depinde doar de voia ta
+E-o șansă care azi ți se deschide
+Și te îndemn tu nu o refuza.
+
+[r1]
+Cor: /:Iertat, și-o nouă viață
+Iertat, și-un nou destin
+Isus, îți dă o șansă
+Te rog grăbește și acuma vii:/
+
+[s2]
+2. Isus e-Acela care dă iertare
+Tu vino azi nu amâna
+El iartă păcătoșii care
+Se recunosc și vin în fața Sa
+Fii înțelept și recunoaște-ți vina
+El poate azi a te salva
+Și poți acum și pentru todeauna
+Să-l ai pe El stăpân în viața ta.
+
+[order]
+s1,r1,s2,r1

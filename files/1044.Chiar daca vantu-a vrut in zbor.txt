@@ -1,0 +1,25 @@
+[s1]
+1044.
+1.        Chiar dacă vântu a vrut în zbor
+În turme să ne-mpartă
+Dar tot o cale tot un dor
+Şi tot un Duh ne poartă.
+
+[s2]
+2.           Chiar dacă azi pe orice plai
+Sunt oi împrăştiate
+Dar tot un staul sus în Rai
+Şi un păstor au toate.
+3.           Chiar dacă n-am păstrat măcar
+Un singur dulce nume
+Dar tot o jertfa, tot un har
+Ne-a scos pe toţi din lume.
+
+[s3]
+4.     Chiar dacă azi ne aflăm stingheri
+Căci ne-a-mpărţit furtuna
+Dar toţi vom fi odată-n cer
+Şi-acolo vom fi una.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,32 @@
+[s1]
+Sunt un om de pe pământ
+Tu eşti Domn, din Cerul Sfânt
+Dar în lume ai venit
+/: Pentru min’ căci m-ai iubit :/
+
+[r1]
+Doresc să-Ţi cânt, să Te slăvesc
+/: Doar pe Tine, Domn Ceresc
+Căci Tu Cruce-ai arătat
+Cu Tatăl, m-ai împăcat :/
+
+[s2]
+Ai murit în locul meu
+Tu Isuse, Domnul meu
+M-ai spălat cu Sânge Sfânt
+/: Doamne, azi să pot să-Ţi Cânt. :/
+
+[s3]
+Tu Stăpâne, Domnul meu
+Eu de-acuma sunt al Tău
+Şi doresc, cât mai trăiesc
+/: Doar pe Tin’ să Te Slăvesc :/
+
+[s4]
+Şi în Cer când voi sosi
+Tot pe Tin’ Te voi slăvi
+Voi cânta de bucurie
+/: Pentru Tine-o veşnicie :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

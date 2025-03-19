@@ -1,0 +1,36 @@
+[s1]
+1696. Mi
+1. /:În fiecare dimineaţă:/
+Când râde cerul luminos
+/:Mi-e inima de doruri plină:/
+Şi-s fericit că sunt a lui Hristos
+Cor:	/:Şi-s fericit:/ şi-s fericit
+Că sunt a lui Hristos
+
+[s2]
+2. /:În fiecare zi senină:/
+Când mii de flori aduc prinos
+/:Mi-e inima de cântec plină:/
+Şi-s fericit că sunt a lui Hristos
+Cor:	/:Şi-s fericit:/ şi-s fericit
+Că sunt a lui Hristos
+
+[s3]
+3. /:În fiecare clipă sfântă:/
+Când bate vântul mânios
+/:Întregu-mi dor
+Spre zări se-avântă:/
+Şi-s fericit că sunt a lui Hristos
+Cor:	/:Şi-s fericit:/ şi-s fericit
+Că sunt a lui Hristos
+
+[s4]
+4. /:Chiar dacă anii vieţii zboară:/
+Şi cer senin de-a pururi nu-i
+/:La Domnul meu e primăvară:/
+Şi-s fericit că sunt al Domnului
+Cor:	/:Şi-s fericit:/ şi-s fericit
+Că sunt a lui Hristos
+
+[order]
+s1,s2,s3,s4

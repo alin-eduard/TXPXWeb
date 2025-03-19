@@ -1,0 +1,47 @@
+[s1]
+1. Vine, vine Domnul Isus vine
+Să judece iarăşi vine
+Ce faci tu cu faptele
+Când Domnul va veni
+Ce faci cu păcatele
+Când Domnul le-a citi.
+815.
+
+[s2]
+2. Nu ai pe nimeni să te salveze
+Când ţi se vor socoti
+Fraţi nici prieteni nu sunt cu tine
+Când plata vei primi.
+
+[s3]
+3. Vine, vine chiar Dumnezeu vine
+Judecătorul drept vine
+O, cum vei sta înaintea Sa
+Când Domnul va striga
+Vai de tine păcătos
+De ce nu te-ai întors.
+
+[s4]
+4. Cerul, pământul
+Şi tot ce-i pe dânsul
+Vor fugi din calea Sa
+Când păcătoşii
+Cu diavolul într-una
+În Iad se vor văita.
+
+[s5]
+5. Vine, vine ceasul promis vine
+Judecătorul drept vine
+Cu haine albe de vei sta
+Omule în faţa Sa
+Mâna El cu tine va da.
+Şi blând îţi va striga.
+
+[s6]
+6. Veniţi de moşteniţi împărăţia
+Iubiţii Tatălui cei credincioşi
+Cu îngerii urcaţi
+Spre poarta Raiului.
+
+[order]
+s1,s2,s3,s4,s5,s6

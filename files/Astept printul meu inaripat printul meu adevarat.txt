@@ -1,0 +1,30 @@
+[s1]
+Astept printul meu inaripat,
+printul meu adevarat
+Nu din basme sau povesti
+Nu plang, nu regret nici un minut
+Ca-L astept atat de mult
+Printul slavilor ceresti
+Astept vesnicul indragostit
+Vesnicul de dor lovit
+De iubita Lui setos
+Eu simt ca astept nu in zadar
+A promis ca vine iar
+Printul dragostei Hristos
+
+[s2]
+Ai spus: cine azi Te va chema
+Ruga ai vei asculta
+De el nu o sa te feresti
+De ce lumea uita ca ai jerfit
+Sangele neprihanit
+Dar Tu totusi ai iubesti
+Astept vesnicul indragostit
+Vesnicul de dor lovit
+De iubita Lui setos
+Eu simt ca astept nu in zadar
+A promis ca vine iar
+Printul dragostei Hristos
+
+[order]
+s1,s2

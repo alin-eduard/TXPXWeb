@@ -1,0 +1,28 @@
+[s1]
+Tu astăzi nu mai mergi cu fraţii
+Dar unde duce calea ta
+Ce slavă te aşteaptă-n ceruri
+Şi cum te-ai lepădat de ea.
+
+[r1]
+/: Dragul meu :/
+ce iubeşti, dragul meu?
+Dacă tu nu mai vrei
+Să-L iubeşti pe Isus
+/: Ce iubeşti :/
+ce iubeşti dragul meu.
+
+[s2]
+De ce-ai dat altora cununa
+Păstrată pentru tine-n cer
+Cum vei putea-ntâlni odată
+Privirea Domnului Isus.
+
+[s3]
+O, suflet, suflet scump te-ntoarce
+Încă mai poţi a te salva
+Dar mare cât ţi-a fost căderea
+Să fie pocăinţa ta.
+
+[order]
+s1,r1,s2,r1,s3,r1

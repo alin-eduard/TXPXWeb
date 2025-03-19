@@ -1,0 +1,30 @@
+[r2]
+Sunt bucuros, sunt bucuros,
+Sunt bucuros că Isus m-a mântuit.
+
+[r1]
+Lui Dumnezeu
+să-i cântăm pentru vecie
+Căci prin Isus
+mântuirea ni s-a dat.
+Lui Dumnezeu
+să-i cântăm pentru vecie
+Că doar prin El
+mântuirea ni s-a dat.
+
+[s1]
+Vesel eu sunt, vesel eu sunt,
+Eu sunt vesel că Isus m-a mântuit.
+
+[s2]
+Nimeni în lume, nimeni în lume,
+Nimeni în lume
+nu e bun ca Dumnezeu.
+
+[s3]
+Haideţi popoare, haideţi popoare,
+Haideţi popoare
+să-L lăudăm pe Dumnezeu.
+
+[order]
+r2,r1,s1,r1,s2,r1,s3,r1,r2,r1

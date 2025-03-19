@@ -1,0 +1,20 @@
+[s1]
+Când pace noi spunem, pace dorim,
+În pace noi vrem să trăim.
+Dar în lume e astăzi atâta război
+Și lupta se duce în noi.
+
+[s2]
+Isus a venit la noi pe pământ,
+Cu pacea din cerul preasfânt.
+Mântuirea, iubirea și pacea ne-a dat,
+La moarte noi L-am condamnat.
+
+[s3]
+Ah, jertfă măreață, azi te slăvim,
+Noi pacea prin Tine primim.
+Fă să vie, o Doamne ’mpărăția Ta,
+Și pacea deplin vom avea.
+
+[order]
+s1,s2,s3

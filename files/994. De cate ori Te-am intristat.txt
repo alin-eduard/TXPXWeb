@@ -1,0 +1,59 @@
+[s1]
+994.La m
+1. De câte ori Te-am întristat
+Şi Te-am privit cu silă
+De câte ori Te-am supărat
+Să Te răzbuni am aşteptat
+Dar Tu Isuse m-ai iertat
+Şi m-ai privit cu milă.
+
+[s2]
+2. De câte ori eu Te-am hulit
+În rând cu lumea toată
+De câte ori Te-am prigonit
+Şi-n cuie mari Te-am ţintuit
+Tu pentru mine ai mijlocit
+Zicând: O, iartă-I Tată.
+
+[s3]
+3. De atâtea ori cununi de spini
+Ţi-am pus cu mâini haine
+Şi-n loc ca setea să-Ţi alin
+Ţi-am dat cel mai amar venin
+Dar în grădina cu măslini
+Ai plâns şi pentru mine.
+
+[s4]
+4. De atâtea ori când Te-am scuipat
+Crezând c-aşa e bine
+De atâtea ori ai lăcrimat
+Şi ani întregi ai aşteptat
+Ca să-nţeleg cât ai răbdat
+Isuse pentru mine.
+
+[s5]
+5. O, cât de crunt m-a înşelat
+Satan cu viclenie
+Cu ură când Te-am blestemat
+Tu blând m-ai binecuvântat
+Şi-n mâini şi-n coaste m-ai săpat
+Al Tău sunt pe vecie.
+
+[s6]
+6. La Tine vin acum smerit
+Părinte al îndurării
+Să-Ţi spun cât sunt de fericit
+Că pace-n Tine am găsit
+Păcatul meu l-a înghiţit
+Pe veci marea uitării.
+
+[s7]
+7. Eu n-aş putea să-Ţi mulţumesc
+Cu vorba sau cu fapta
+De-ai să mă mustri am să primesc
+De-ai să mă cerţi n-am să cârtesc
+Căci vreau la tronul Tău ceresc
+Isus să fiu la dreapta.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

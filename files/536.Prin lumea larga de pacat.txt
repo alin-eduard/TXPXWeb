@@ -1,0 +1,70 @@
+[s1]
+1.	Prin lumea largă de păcat
+Cu sufletul în suspine
+Căutam repaus dar n-am aflat
+Eu nu aveam pe nimeni.
+2.	Bătut de tâlhari şi rănit
+Zăceam pe-această cale
+Căci iat' un preot şi-un levit
+Mergeau pe drum la vale.
+536.
+
+[s2]
+3.	Întinsa-m mâna spre amândoi
+Strigându-le salvare
+Făr' milă m-au înconjurat
+Lăsându-mă pe cale.
+4.	Dar iată un Samaritean
+Trecea pe-asin calare
+Dintr-un oraş spre Ierihon
+Şi m-a zărit pe cale.
+
+[s3]
+5.	Răpus de suferinţi şi chin
+Cu lacrimile în gene
+Eram atunci când m-ai zărit
+Căzut Samaritene.
+6.	Zdrobit de tot şi chinuit
+Plângând aici departe
+Tu rănile mi le-ai legat
+Turnând ulei pe toate.
+
+[s4]
+7.	M-ai ridicat apoi din drum
+Pe asin m-ai pus cu Tine
+Iar eu atunci plângând
+Ţi-am spus
+Fă orice vrei cu mine.
+8.	M-ai dat în mână la hangiu
+Plătit-ai pentru mine
+Iar eu cu lacrimi iar Ţi-am spus
+Fă orice vrei cu mine.
+
+[s5]
+9.	Ajuns-am timpul de apoi
+Şi lumea mi-era dragă
+Iar inima pe alte căi
+Vroia să mă atragă.
+10. 	M-ai întâlnit şi iar mi-ai spus
+Să Te urmez pe Tine
+Eu m-am plecat şi iar Ţi-am spus
+Fă orice vrei cu mine.
+
+[s6]
+11.	Bătut apoi şi chinuit
+Plângeam atunci departe
+Iar Tu Samaritean milos
+M-ai scăpat de la moarte.
+12.	M-ai prins de mână şi mi-ai spus
+Să Te urmez pe Tine
+Te-am ascultat şi iar Ţi-am spus
+Fă orice vrei cu mine.
+
+[s7]
+13.	De atunci eu tuturor le-am spus
+Te-ascult mereu pe Tine
+Azi sunt pe veci al Tău Isus
+Fă orice vrei cu mine.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

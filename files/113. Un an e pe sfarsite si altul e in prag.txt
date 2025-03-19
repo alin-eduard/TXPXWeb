@@ -1,0 +1,43 @@
+[s1]
+113.                   Fa m
+1. Un an e pe sfârşite
+Şi altul e în prag
+Cum trece aşa de iute
+Al zilelor şirag
+/: Durerile sunt multe
+Şi lacrimi s-au vărsat
+O, Domnul să-i asculte
+Pe cei ce L-au chemat. :/
+
+[s2]
+2. Să nu uităm vreodată
+Că patria-i în cer
+Şi acolo niciodată
+Nu vom avea dureri
+/: Acesta e Sionul
+În care vom intra
+Şi în veci de veci cu Domnul
+În El vom triumfa. :/
+
+[s3]
+3. O, de-aş vedea eu bine
+Cât sunt de trecător
+Şi asta pentru mine
+Să fie grăitor
+/: Să văd în zări departe
+Dincolo de mormânt
+O ţară ce aşteaptă
+Pe sfinţi de pe pământ. :/
+
+[s4]
+4. Condu-ne Tu Isuse
+Aicea pe pământ
+Lucrări, minuni nespuse
+Să facă Duhul Sfânt
+/: Să terminăm cu bine
+Lucrarea ce ne-ai dat
+Şi să ne iei la Tine
+În trup glorificat. :/
+
+[order]
+s1,s2,s3,s4

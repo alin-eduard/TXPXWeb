@@ -1,0 +1,45 @@
+[s1]
+2048
+1. Din ţesuturi nevăzute,
+Din celule mii şi mii,
+O făptură minunată m-ai creat
+Legi de nimenea ştiute,
+Fenomene şi energii,
+Le-ai pus în mişcare,
+Doamne Preaînalt.
+
+[s2]
+Cor: /: Dintr-o mână de ţărână
+Cu iubire m-ai creat,
+Mi-ai dat Doamne chipul Tău,
+Chip frumos din Dumnezeu
+O ce minunat, o ce minunat! :/
+
+[s3]
+2. O ştiinţă minunată
+Mai presus de-orice puteri,
+Mă cutremur Doamne atunci,
+Când îmi vorbești
+Tu mă cercetezi o, Tată,
+Și-n dureri și-n strâmtorări
+Dar cu toate acestea știu
+că mă iubești.
+
+[r1]
+Cor: /: Dintr-o mână de ţărână
+Cu iubire M-ai creat,
+Mi-ai dat Doamne chipul Tău,
+Chip frumos din Dumnezeu
+O ce minunat, o ce minunat! :/
+
+[s4]
+3. Decât orice vietate
+Mai presus m-ai aşezat,
+Şi m-ai întocmit chiar după
+chipul Tău.
+Te voi lăuda în toate de acum
+Şi până-n veac,
+Veşnic şi Atotputernic Împărat.
+
+[order]
+s1,s2,s3,r1,s4,r1

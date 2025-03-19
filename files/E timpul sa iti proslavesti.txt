@@ -1,0 +1,46 @@
+[s1]
+E timpul sa iti proslavesti
+Puterea Ta cea vie
+Sa vada toti ca tu domnesti
+Ca si pe vremea lui Ilie
+Sa proslavesti pe Fiul Tau
+Si-a ta putere mare
+Sa vada caci esti Dumnezeu
+Intreaga adunare.
+
+[s2]
+E iar cuptor in Israel
+Si arde greu vapaia
+Privind spre cer de pe Carmel
+Poporul Tau asteapta ploaia!
+Un nor oricat de mitiel
+S-aprinda-n piept fiorul
+In chip curat de porumbel
+Sa ude iar ogorul.
+
+[s3]
+Sa arda iarasi limbi de foc
+Ca la cincizecime
+cum a vestit al Tau proroc
+O Doamne inca din vechime
+o inima, un duh si-un gand
+Copiii tai sa fie
+O flacara mereu arzand
+Ca rugul in pustie.
+
+[s4]
+Te asteptam surori si frati
+S-aduci ploaie tarzie
+Suntem flamanzi si insetati
+Cum mai de mult era Ilie
+Dar nu vrem Doamne ca pe el
+Tot corbi sa ne hraneasca
+Ci vrem preasfantul porumbel
+Si mana Ta cereasca!
+Nu vrem proroci adusi de vant
+Minciuni sa ne vorbeasca
+Ci undelemnul Duhului Sfant
+La noi sa se inmuleasca.
+
+[order]
+s1,s2,s3,s4

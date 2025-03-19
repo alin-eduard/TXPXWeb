@@ -1,0 +1,25 @@
+[s1]
+Clipe minunate lîngă Tine am
+Taine minunate alături de Tine.
+/: Sufletul meu gingaş
+se odihneşte în palma Ta
+O melodie-i în viaţa mea. :/
+
+[s2]
+Marea înspumată, cerul infinit
+Pomii cu verdeaţă împacă inima.
+/: Crinul cel din vale
+şi Soarele cel strălucitor
+Mă fac să-Ţi spun
+că eşti minunat ! :/
+
+[s3]
+Dragoste de tată Tu mi-ai arătat
+Cînd Isus pe cruce
+muri-n chinuri grele.
+/: Tot păcatul lumii
+pe cruce El l-a răscumpărat
+Ca astăzi eu să pot fi iertat. :/
+
+[order]
+s1,s2,s3

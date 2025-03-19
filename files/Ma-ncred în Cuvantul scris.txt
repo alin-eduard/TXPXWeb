@@ -1,0 +1,31 @@
+[s1]
+Mă-ncred în Cuvântul scris
+Tot ce-ai promis, ai împlinit
+Mă lepăd de tot ce sunt eu
+Alerg acum în braţul Său.
+
+[r1]
+Căci tot ce ştiu e
+Cât  de mult te iubesc
+Cât de mult te iubesc
+
+[s2]
+Îţi dăruiesc viata mea
+Mă las deplin în mâna Ta
+Când toate, în jur se prăbuşesc
+Tu eşti, tot ce îmi doresc.
+
+[s3]
+Ce dragoste
+Pe Crucea grea, ai murit
+Pentru păcătul meu.
+
+[s4]
+Ce dragoste,
+Omenirii Te-ai dăruit
+Eşti Domnul tuturor
+Cât de mult te iubesc
+Cât de mult te iubesc
+
+[order]
+s1,r1,s2,r1,s3,s4

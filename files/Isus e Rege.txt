@@ -1,0 +1,20 @@
+[s1]
+/: Isus e Rege pe tot Pământul
+Azi mă închin în faţa Lui ! :/
+În faţa Lui !
+
+[r1]
+/: Laud pe Domnul şi-L preamăresc !
+Laud pe Domnul căci Îl iubesc ! :/
+
+[s2]
+/: Toată viaţa îi voi cânta
+Căci vreau s-ajung în ţara Sa ! :/
+
+[s3]
+/: Isus e Rege pe tot Pământul
+Azi mă închin în faţa Lui ! :/
+/: Aleluia, Aleluia, Aleluia, Amin! :/ (4x)
+
+[order]
+s1,r1,s2,r1,s3

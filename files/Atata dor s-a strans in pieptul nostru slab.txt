@@ -1,0 +1,30 @@
+[s1]
+Atâta dor s-a strâns
+în pieptul nostru slab,
+De-atâta timp,
+de veacuri adunat…
+Noi aşteptăm să vină
+iar în slava Lui
+Acela care crucea ne-a purtat!
+
+[r1]
+O, vino Doamne, vino în mărire! Te aşteptăm,
+privind cu dor nespus…
+O, vino iar, pe nori în strălucire, Ca să ne iei la Tine, Bunule Isus!
+
+[s2]
+De n-ai venit,
+doar noi suntem de vină, noi,
+Aceşti trei îngeri încă ne-mpliniţi,
+Că n-am ajuns
+ca unul în lumină-n zbor,
+În foc şi-n jertfă zilnic pregătiţi!
+
+[s3]
+În Tine Doamne-mi mai adăp speranţa mea,
+În zăbovirea şi în graba Ta,
+În Duhul Tău şi-n noul Legământ de har,
+În care intră încă cine vrea....
+
+[order]
+s1,r1,s2,r1,s3,r1

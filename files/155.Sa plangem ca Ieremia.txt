@@ -1,0 +1,60 @@
+[s1]
+155.
+Re m
+1. Să plângem ca Ieremia
+După evreii din Babilon
+Căci astăzi din nou urgia
+Ameninţă noul Sion
+
+[s2]
+Copiii căutau mâncare
+La fel bătrânii stăteau mâhniţi
+Pedeapsa e foarte mare
+Pentru păcate ei sunt loviţi.
+
+[r1]
+Cor: Plânge Ieremia,
+Plânge şi poporul
+Rana lor e de nevindecat
+A venit urgia s-a dus bucuria
+Plânge Ieremia
+Pentru a lor păcat.
+
+[s3]
+2. Să plângem după fecioare
+Şi după tinerii amăgiţi
+De lumea înşelătoare
+Ce vrea să-i facă nefericiţi
+
+[s4]
+Să plângem după poporul
+Ce se adapă cu amărăciuni
+Căci astăzi înşelătorul
+Îi îndepărtează de rugăciuni
+
+[s5]
+3. Să plângem în rugăciune
+Căci fericiţi sunt acei ce plâng
+Cuvântul aşa ne spune
+Căci lacrimile în cer se strâng
+
+[s6]
+Să plângem pe văzătorii
+Ce sus pe turnuri au adormit
+Şi pe toţi învăţătorii
+Ce calea-ngustă au părăsit
+
+[s7]
+4. Să plângem din cele zece
+Pe cele cinci fără ulei
+Căci timpul se duce trece
+Şi vine Mirele după ai săi
+
+[s8]
+Să plângem pe orişicine
+Care spre lume s-a înclinat
+Căci iată că Domnul vine
+Şi pedepseşte orice păcat
+
+[order]
+s1,s2,r1,s3,s4,r1,s5,s6,r1,s7,s8,r1

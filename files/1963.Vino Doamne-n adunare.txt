@@ -1,0 +1,45 @@
+[s1]
+1963
+1. Vino Doamne-n adunare
+Mai fă azi o cercetare
+/: Să tresalte-n Duhul Sfânt
+Toți cei ce-s curați și sfinți
+Vino Doamne-n adunare :/.
+
+[s2]
+2. Vino Tu cu biruința
+Și mărește-ne credința
+/: Să credem tot ce ai spus
+Că-n curând vii Tu Isus
+Vino Doamne-n adunare :/.
+
+[s3]
+3. Vino și schimbă-ne starea
+Să dea-n clocot adunarea
+/: Șchiopii să poată umbla
+Orbii să poată vedea
+Vindecă-ne Doamne starea :/.
+
+[s4]
+4. Mielușeii ce-s în turmă
+Condu-i Doamne Tu din urmă
+/: Oile și oițele
+Du-le Tu la pășune
+Vino azi la a Ta turmă :/.
+
+[s5]
+5. Trăim vremea cea din urmă
+Și lupii încearcă la stână
+/: Scoală Doamne Tu păstorii
+Alertă tu luptătorii
+Să apere a Ta turmă :/.
+
+[s6]
+6. Vino Doamne-n adunare
+Lasă darurile Tale
+/: Să strigăm toți osanale
+Vino Doamne azi în vale
+Du-ne de mână pe cale :/.
+
+[order]
+s1,s2,s3,s4,s5,s6

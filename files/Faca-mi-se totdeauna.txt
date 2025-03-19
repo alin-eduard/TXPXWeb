@@ -1,0 +1,26 @@
+[s1]
+Facă-mi-se-ntotdeauna,
+După sfântul Tău Cuvânt,
+/: Chiar de-ar fi să-mi cadă toate
+Planurile la pământ. :/
+
+[s2]
+Gândul Tău să se-mplinească
+Neştirbit în mine-oricând,
+/: Chiar de-ar fi să se dărâme
+Tot ce mi-am zidit în gând. :/
+
+[s3]
+Voia Ta să se înalţe
+Ca stăpân în viaţa mea,
+/: Şi-n fărâme sparge-mi voia,
+Printr-o lovitură grea. :/
+
+[s4]
+Rugăciunea asta, Doamne,
+Tu să mi-o asculţi mereu,
+/: Iar de-ar fi s-o schimb vreodată,
+N-asculta de gândul meu! :/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,45 @@
+[s1]
+2191
+1. O femeie prea bolnavă
+Prea săracă a venit
+A știut că doar la Domnul
+Vindecare va găsi
+Și de poala hainei sfinte
+Să se-atingă a dorit
+Iată că Domnul se oprește
+Și mirat El i-a vorbit.
+
+[r1]
+Cor: Cine s-a atins de Mine
+Domnul atunci a întrebat
+Iată este o putere
+Cineva s-a vindecat.
+
+[s2]
+2. Iată vestea cea de astăzi
+Pentru tine dragul meu
+Crede numai că îndată
+Domnu-ți ia necazul tău
+Și-ți mai spune du-te-n pace
+Vindecare ai primit
+Și iertare mântuire
+Iată că ai dobândit.
+
+[s3]
+3. Doamne dă-ne Tu credința
+Care să se oprească-n drum
+Și puterea ca să facă
+Doar minuni chiar și acum
+Să se atingă cu credință
+Și să fie izbăvit
+C-ai promis că ești același
+Ieri și astăzi și-n vecii.
+
+[s4]
+Doamne întreabă și de mine
+Și îmi dă credință vie
+Să am parte de iertare
+Și să-mi dai mântuire.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4

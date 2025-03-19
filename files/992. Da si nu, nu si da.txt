@@ -1,0 +1,48 @@
+[s1]
+992.                                                                                                                                   Do
+Cor:
+DA şi NU, NU şi DA
+Nu se pot înmănunchea
+Nu poţi fi cum vrei tu
+Nu poţi fi şi DA şi NU.
+
+[s2]
+1.Când iubirea-ţi spune: Hai!
+Lenea-ţi porunceşte: Stai!
+Când Isus vrea să lucrezi
+Lenea-ţi spune să mai şezi.
+
+[r1]
+Cor:
+DA şi NU, NU şi DA
+Nu se pot înmănunchea
+Nu poţi fi cum vrei tu
+Nu poţi fi şi DA şi NU.
+
+[s3]
+2. Bun şi rău, rău şi bun
+Când se-adună se răpun
+Nu poţi da braţul tău
+Celui bun şi celui rău.
+
+[s4]
+3 Domnul vrea copii cuminţi
+Insă lumea vrea să minţi
+Domnul vrea să fii curat
+Dar Satan să fii murdar.
+
+[s5]
+4. Iad şi Rai, Rai şi Iad
+N-au acelaşi drum şi vad
+Pe Isus dacă-L ai
+Scapi de Iad
+Și mergi în Rai.
+
+[s6]
+5. Dacă vrei să-L ai în gând
+Nu poţi fi şi rău şi blând
+Dacă El iubirea vrea
+Spune-I totdeauna DA.
+
+[order]
+s1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

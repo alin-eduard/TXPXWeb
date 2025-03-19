@@ -1,0 +1,41 @@
+[r2]
+Isus e Domn, El e puternic Dumnezeul nost’
+Isus e Domn, El e puternic Dumnezeul nost’
+
+[r1]
+Mare e Domnul nostru
+Si puternic Dumnezeu
+Mare e Domnul nostru
+Dumnezeu Suprem
+Mare e Domnul nostru
+Si puternic Dumnezeu
+Mare-I in veci
+Mare-I in veci
+
+[s1]
+Cand ostirea din Israel a navalit
+Urmati de carele din Egipt
+Intr-un glas au strigat cu totii
+Spre Dumnezeu
+Proclamandu-L Rege,
+Domn Suprem, au zis:
+
+[s2]
+Cand ostirea din Israel
+cu toti au venit
+In Ierihon cel inalt zidit
+Sapte zile la rand poporul
+l-a inconjurat
+Pan ce zidul tare-a fost sfarmat
+Si-au zis:
+
+[s3]
+Cand prin lumea pacatului
+noi rataceam
+Dumnezeu de noi s-a-ndurat
+Povara cea grea pe-o cruce a purtat
+Si-apoi din morti a inviat
+Canta:
+
+[order]
+r2,r1,s1,r1,s2,r1,r2,s3,r1

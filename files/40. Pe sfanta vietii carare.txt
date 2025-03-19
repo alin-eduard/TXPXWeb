@@ -1,0 +1,34 @@
+[s1]
+1. Pe sfânta vieţii cărare,
+Isuse, prin har, alergăm
+Şi flori de iubire şi soare,
+Spre lauda Ta semănăm.
+40.                                                     Mi b
+
+[r1]
+Cor:/: Spre lauda Ta, spre lauda Ta,
+Isuse, cu foc, vom cânta!
+În veci , Te iubim!
+În veci, Te slăvim,
+Prin harul pe care-l primim! :/
+
+[s2]
+2.În lupta cea bună-a credinţei
+’Napoi nicidecum, să nu dăm!
+Suntem rânduiţi biruinţei:
+Spre lauda Ta să luptăm.
+
+[s3]
+3. Ne-ai pus în ogorul iubirii
+Poverile ei să purtăm,
+Să fim la-nălţimea menirii
+Spre lauda Ta să lucrăm.
+
+[s4]
+4. În toate-mpreună cu Tine
+Isuse, ne-ai pus ca să stăm
+Cu Tine şi astăzi şi mâine
+Spre lauda Ta să cântăm.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,52 @@
+[s1]
+1501.
+Oare n-ai tu nici o vină
+Cel chemat a fi lumină
+Că atâtea suflete ajung în iad
+Oare spui tu despre Domnul
+Care mântuie tot omul
+Să-i deschidă ca să-i dea cerescul har
+Cor:	Cel ce zici că eşti lumină
+Oare câte inimi ai rănit
+Pentru câţi tu eşti de vină
+Că pe Isus nu l-au primit
+
+[s2]
+2.   Tu prin neînţelepciune
+Şi prin vorbe ce nu-s bune
+De Hristos pe unii i-ai îndepărtat
+Astăzi poate nici nu-ţi pasă
+Căci atâţi lipsesc din casă
+Şi tu spui atât că eşti nevinovat
+Cor:	Cel ce zici că eşti lumină
+Oare câte inimi ai rănit
+Pentru câţi tu eşti de vină
+Că pe Isus nu l-au primit
+
+[s3]
+3.  Oare nu îţi pasă ţie
+Că atâţi n-au apă vie
+Şi venind aici un zâmbet n-au primit
+Şi-au plecat în lumea mare
+Unde n-au astâmpărare
+Setea sufletului nu şi-au potolit
+Cor:	Cel ce zici că eşti lumină
+Oare câte inimi ai rănit
+Pentru câţi tu eşti de vină
+Că pe Isus nu l-au primit
+
+[s4]
+4.  Doamne Tu mă-nţelepţeşte
+De păcate mă fereşte
+Căci doresc în cerul slavei să ajung
+Însă drumul către ceruri
+E adesea plin de neguri
+De aceea eu Te rog
+Nu-l fă prea lung
+Cor:	Cel ce zici că eşti lumină
+Oare câte inimi ai rănit
+Pentru câţi tu eşti de vină
+Că pe Isus nu l-au primit        Amin.
+
+[order]
+s1,s2,s3,s4

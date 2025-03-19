@@ -1,0 +1,38 @@
+[s1]
+Cu Isus în lumea asta,
+voi merge eu mereu
+Înainte-i ţara mea,
+înainte-i Dumnezeu
+Deşi calea e îngustă
+şi-i plină de încercări
+Cu ISUS ajunge-voi în veşnicii.
+
+[r1]
+Isus, Isus este calea-n
+ţara bucuriilor
+Este jertfa ce ne poartă spre
+limanul mult dorit
+Isus, Isus este calea-n
+ţara bucuriilor
+Crede-n El şi-n veci tu fi-vei fericit.
+
+[s2]
+Când durerea te doboară,
+amice nu uita
+Înainte-i ţara ta,
+înainte-i Dumnezeu.
+Atunci ochii ţi-i ridică
+şi cere mila Sa
+Şi prin harul Său El te va ajuta.
+
+[s3]
+Niciodată pe-a ta cale,
+să nu te uiţi ‘napoi,
+Înainte-i ţara ta,
+înainte-i Dumnezeu.
+Vrednică vei fi acolo,
+la dreapta Lui vei sta
+O, mireasă când vei fi în ţara Sa.
+
+[order]
+s1,r1,s2,r1,s3,r1

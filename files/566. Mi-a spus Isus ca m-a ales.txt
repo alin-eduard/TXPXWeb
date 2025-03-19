@@ -1,0 +1,69 @@
+[s1]
+1. Mi-a spus Isus că m-a ales
+In grădina sa o floare
+Iar vânturile cele reci
+Mi-au vestejit culoarea.
+/: Pe inima mea mi s-a pus
+Povara grea de gânduri
+Iar sufletul meu e străpuns
+De felurite gânduri :/.
+566.
+
+[s2]
+2. Sufletul meu lăsat pustiu
+Prin suferinţă amară
+De aceea ne-ncetat suspin
+Căci rana mea-i amară.
+/: În nimeni nu-mi găsesc odihnă
+În lumea cea pustie
+De aceea îl chem pe Domnul meu
+Să-mi deie bucurie :/.
+
+[s3]
+3. Suspine pline de amar
+Se-nalţă sus în zare
+Şi-mi curg din ochii mei şirag
+De lacrimi amare
+/: Mă-ntreb mereu ce voi face
+Cu starea mea căzută
+Că sufletul meu n-are pace
+Dar Domnul mă ajută :/.
+
+[s4]
+4. Aud o şoaptă în drumul greu
+Ce vrea dureri s-aline
+E vocea Stăpânului meu
+Ce zice: sunt cu tine.
+/: Aud cum zice să păşesc
+Pe drum de suferinţă
+Căci sprijini-ma mâna Lui
+Să merg spre biruinţă :/.
+
+[s5]
+5. Parfum de crini va-ngădui
+Pe-a florilor petale
+Ce se înalţă-n rugăciuni
+Înspre eterna zare.
+/: Iubitul meu m-a sprijini
+În zilele mai grele
+Şi lângă Sine m-a ţinea
+Iar dându-mi mângâiere :/.
+
+[s6]
+6. Doresc s-ajung în braţul Său
+Ca să-mi sfârşesc cărarea
+Privind cu drag în ochii Săi
+Să-i cânt duios cântarea
+/: Atunci un zâmbet va fi pus
+Pe trista mea fiinţă
+În loc de lacrimi şi de plâns
+Un steag de biruinţă :/.
+
+[s7]
+7. /: Doresc de grabă să sfârşesc
+A suferinţii cale
+Atunci voi pune sarcina
+La picioarele Sale. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

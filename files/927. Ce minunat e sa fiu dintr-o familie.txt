@@ -1,0 +1,13 @@
+[s1]
+927.                                                                          Re m
+1. Ce minunat e să fii dintr-o familie
+Familia sfântă a Domnului Isus!
+
+[s2]
+Suntem o familie unită
+Suntem o familie reală
+Familia care iubeşte
+Familia Domnului Isus.
+
+[order]
+s1,s2

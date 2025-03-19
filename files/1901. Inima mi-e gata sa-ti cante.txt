@@ -1,0 +1,37 @@
+[s1]
+1901                                 Mi b
+1. Inima mi-e gata să-ți cânte-o
+Domnul meu inima mi-e gata
+Să te laude mereu
+Pentru bunătatea ce Tu mi-ai arătat
+Căci din valea morții
+Pe mine m-ai salvat
+
+[r1]
+Cor: De-aceea /:Cânt:/ x3
+Îl laud pe Isus
+/:Cânt:/ x3
+Căci pace mi-a adus
+/:Cânt:/ x3
+În veci îi voi cânta
+/:Cânt:/ x3
+Ca-mi salta inima
+
+[s2]
+2. Inima mi-e gata
+Pentru cuvântul Tău
+Inima mi-e gata
+Să te asculte o Domnul meu
+Schimbă Doamne Isuse
+Tot ce-i rău în ea
+Și transform-o Isuse
+Așa cum Tu ai vrea
+
+[s3]
+3. Inima mea Doamne este toată a Ta
+Vreau să locuiești numai Tu în ea
+Să rămâi acolo să mă ocrotești
+Și pe calea Ta să mă călăuzești
+
+[order]
+s1,r1,s2,r1,s3,r1

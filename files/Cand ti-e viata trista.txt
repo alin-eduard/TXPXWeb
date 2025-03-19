@@ -1,0 +1,24 @@
+[s1]
+Cand ţi-e viaţa tristă
+Şi cînd disperarea te-a cuprins
+Roagă-te lui Isus
+Să-ţi dea pacea şi iubirea Sa.
+
+[r1]
+Spune tot păcatul tău lui Isus
+Spune-I tot ce ai pe inimă
+Spune-I, spune-I Celui de pe cruce
+Stai de vorbă, suflete, cu El !
+Spune tot necazul tău lui Isus
+Crede în al tău Mîntuitor
+Spune-I, spune-I starea fiinţei tale
+Lui te roagă să-ţi dea ajutor !
+
+[s2]
+De eşti slab şi singur
+Ori de eşti bolnav şi necăjit
+Roagă-te lui Isus
+Doar de El poţi fi tămăduit !
+
+[order]
+s1,r1,s2,r1

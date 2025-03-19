@@ -1,0 +1,36 @@
+[s1]
+De-atîtea ori s-a spus
+că Domnul Isus
+Va reveni odată pe Pămînt
+Dar tu-ai negat,
+crezînd că toate-s basme
+Vei fi uimit văzîndu-L
+în curînd!
+
+[r1]
+Tu ştii că El curînd revine-n slavă
+Înfricoşat cădea-vei la pămînt
+Vei alerga la stînci, dorind să cadă
+Să fii ascuns de ochiul Său cel sfînt.
+
+[s2]
+El va veni, dar ce
+vom face-atuncea
+Noi, ce de El
+am fost deplin salvaţi?
+Păreri de rău
+că n-am vorbit de Isus
+Căci vom lăsa aici
+părinţi şi fraţi!
+
+[s3]
+Mărturisiţi, creştinilor pe Isus
+Căci s-ar putea
+să creadă cineva!
+De nu vor crede-n ziua
+ce-o să vină
+Osînda lor ei singuri
+îşi vor lua.
+
+[order]
+s1,r1,s2,r1,s3,r1

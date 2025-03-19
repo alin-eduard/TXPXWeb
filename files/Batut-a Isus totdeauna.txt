@@ -1,0 +1,42 @@
+[s1]
+Bătut-a Isus totdeauna,
+Bătut-a la inima ta
+Dar tu ai stat fără de grijă,
+N-ai vrut să-i deschizi inima.
+/:Vei plânge odată amarnic
+Dar atuncea va fi prea târziu
+Când viaţa ta, astăzi, se stinge
+Se-ndreaptă mereu spre sicriu.:/
+
+[s2]
+Inima o ţii încuiată,
+În ea nu pătrunde deloc
+Cuvântul Scripturii, ce sună:
+Salvare, salvare de foc.
+/:Vei plânge odată amarnic
+Dar atuncea va fi prea târziu
+Când viaţa ta, astăzi, se stinge
+Se-ndreaptă mereu spre sicriu.:/
+
+[s3]
+Isus stă şi astăzi şi bate
+Primeşte-L în inima ta
+Să simţi fericirea sublimă
+Deschide şi nu-L refuza.
+/:Vei plânge odată amarnic
+Dar atuncea va fi prea târziu
+Când viaţa ta, astăzi, se stinge
+Se-ndreaptă mereu spre sicriu.:/
+
+[s4]
+O, vino, o, vino, Isuse,
+O, vino în inima mea
+O, spal-o, prin jertfa Ta sfântă,
+Şi ia-o să fie a Ta.
+/:Vei plânge odată amarnic
+Dar atuncea va fi prea târziu
+Când viaţa ta, astăzi, se stinge
+Se-ndreaptă mereu spre sicriu.:/
+
+[order]
+s1,s2,s3,s4

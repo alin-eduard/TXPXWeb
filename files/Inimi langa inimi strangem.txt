@@ -1,0 +1,42 @@
+[s1]
+Inimi lângă inimi strângem
+S-avem pace pe pământ.
+O, veniţi cu toţi din harfe
+Să-i cântăm pe drumul sfânt!
+/: Fruntea-i El, noi mădulare
+Soare-i El, noi raza Lui;
+El izvor e şi e mare;
+Iar noi unda râului :/
+
+[s2]
+Fii ai Tatălui, Preasfântul,
+Legământul întăriţi,
+Şi făgăduiţi cuvântul,
+Că din inimă-L iubiţi!
+/: A iubirii-nţelepciune,
+Lanţul ei de s-a slăbi
+Stăruiţi în rugăciune,
+Căci Isus îl va-ntări :/
+
+[s3]
+Fraţi pe fraţi să se iubească,
+Din tot sufletul aşa
+Încât unul pentru altul,
+Viaţa însăşi să şi-o dea.
+/: Astfel ne-a iubit la vreme,
+Încât sângele Şi-a dat.
+Din voi unul de s-ar teme,
+Cât ar fi de întristat. :/
+
+[s4]
+Adă vânt de înfrăţire
+În poporul Tău iubit,
+Şi-l topeşte-ntr-o simţire,
+După cum Tu ai voit.
+/: Una fă-i cu adevărul
+Ce respiră-n Duhul Tău,
+Şi văpaia Ta să ardă
+Miazma cugetului rău:/
+
+[order]
+s1,s2,s3,s4

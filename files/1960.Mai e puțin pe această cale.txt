@@ -1,0 +1,27 @@
+[s1]
+1960
+1. /: Mai e puțin :/ pe această cale
+/: Mireasa strigă :/ /: suspinând :/
+/: Și te așteaptă :/ jos în vale
+/: Să vii s-o i-ei :/ o Mire sfânt .
+
+[r1]
+Cor: Se arată florile iar pe câmpii
+Și ploaia de necazuri s-a opri
+Se aude glasul turturicei vii
+Și a cântării vreme va sosi.
+
+[s2]
+2. /: Tot mai aproape :/ este ziua
+/: Când vom uita :/ de /: tot cei rău :/
+/: Și vom striga :/ toți aleluia
+/: Slăvind pe Mire-n :/ cerul său.
+
+[s3]
+3. /: E tot mai greu :/ acum la urmă
+/: Dar vom lupta :/ pân' /: la sfârșit :/
+/: Când va fi un :/ Păstor și-o turmă
+/: Pe plaiul sfânt :/ din infinit.
+
+[order]
+s1,r1,s2,r1,s3,r1

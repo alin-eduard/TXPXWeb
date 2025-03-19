@@ -1,0 +1,32 @@
+[s1]
+Cu noi cu toţi să fie
+Azi harul lui Hristos,
+Statornici să ne ţie
+Pe drumul cel spinos.
+
+[s2]
+Căci pe îngusta cale
+N-am şti umbla defel
+Dar noi ştim fiecare:
+Suntem păziţi de El!
+
+[s3]
+Speranţa noastră toată
+E-n harul lui Hristos;
+Eu nu mă tem vreodată,
+Căci Domnu-i credincios!
+
+[s4]
+Chiar când vin tari ispite,
+Mai tare-i harul Lui
+Şi ele sunt gonite,
+Iar eu al Lui rămâi.
+
+[s5]
+De-aceea şi noi
+Ţie Rugămu-ne voios:
+“Cu noi cu toţi să fie
+Azi Harul lui Hristos!”
+
+[order]
+s1,s2,s3,s4,s5

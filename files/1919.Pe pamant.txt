@@ -1,0 +1,29 @@
+[s1]
+1. Pe pământ ni-i dată o chemare
+Ca să fim poporul minunat
+A lui Dumnezeu și slava-i mare
+S-o vestim oriunde nencetat
+1919.
+Re b
+
+[r1]
+Cor: Lăudăm și mulțumim
+Dumnezeului sublim
+El ni-i Tată Bun  și Sfânt
+Și în cer și pe pământ
+El ni-i Tată bun și sfânt.
+
+[s2]
+2. Multumim si laudam pe Domnul
+Datatorul noii legi de har
+Priveghem sa nu ne prinda somnul
+Si s’aducem jertfele pe-altar
+
+[s3]
+3. Laudă şi adâncă mulţumire
+Tatălui ce-aduce prin Hristos
+Care ne-a adus o mântuire
+Veşnică şi-un cer tot mai frumos.
+
+[order]
+s1,r1,s2,r1,s3,r1

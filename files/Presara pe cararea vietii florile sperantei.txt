@@ -1,0 +1,38 @@
+[s1]
+Presară pe cărarea vieţii,
+florile speranţei
+Parfumul vieţii cu Isus,
+fă să-l simtă şi alţii.
+
+[s2]
+/: Gândeşte-te c-atâţia pier,
+fără de speranţă
+Ei trec în lumea veşniciei,
+fără de siguranţă. :/
+
+[s3]
+Presară pe cărarea vieţii,
+florile iubirii
+Căci sunt atâţia care azi,
+sunt lăsaţi uitării.
+
+[s4]
+/: Mai fă să simtă şi cei trişti,
+că-n lumea cea cu ură
+Trăiesc urmaşii, lui Isus,
+care simt cu cei ce-ndură. :/
+
+[s5]
+Presară pe cărarea vieţii,
+florile credinţei
+Căci sunt mai rar acei
+ce au parfumul pocăinţei.
+
+[s6]
+/: Când cei din jurul tău doresc,
+un rod bun să primească
+Ajută-i ca prin tot cei bun,
+în tine să-l găsească. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

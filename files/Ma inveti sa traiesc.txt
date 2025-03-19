@@ -1,0 +1,35 @@
+[r1]
+Mă înveţi să trăiesc prin credinţă
+Mă înveţi că în toate
+De Tin’ depind’
+Mă înveţi că în fiecare zi cu Tine
+Biruiesc dacă-nvăţ
+Că de Tin’ depind’
+
+[s1]
+Domnul meu,
+Cu toată inima aştept
+În fiecare zi să văd,
+Minunile din viaţa mea
+Cu toată inima aştept
+În fiecare zi să văd
+Minunile din viaţa mea
+
+[s2]
+Mă înveţi să trăiesc prin credinţă
+Mă înveţi că în toate
+De Tin depind’
+Mă înveţi că în fiecare zi cu Tine
+Biruiesc dacă-nvăţ
+Că de Tin’ depind’
+
+[s3]
+Domnul meu,
+De multe ori eu am greşit
+De multe ori am încercat
+Ca fără Tine să merg
+Domnul meu,
+Nimic nu pot să fac fără Tin’
+
+[order]
+r1,s1,s2,s3,r1

@@ -1,0 +1,32 @@
+[s1]
+Cînt Aleluia, cînt Domnului,
+cînt Aleluia, cînt numai Lui
+Că El venise din slava Sa
+eliberare să-mi poată da
+/: Să îmi arate cum să trăiesc,
+să mă înveţe cum să iubesc.
+Isus iertase păcatul meu,
+iar eu întruna Îi cînt mereu. :/
+
+[s2]
+Cînt Aleluia, cînt Domnului,
+cînt Aleluia, cînt Mielului
+Cînt bunătatea ce mi-a sădit
+şi cînt iubirea ce-a răsărit
+/: Că mă alese din ce-a fost rău
+şi mă făcuse fratele Său.
+Nu-mi pot ascunde, oricît aş vrea,
+ce am în suflet şi-n viaţa mea ! :/
+
+[s3]
+Cînt Aleluia, cînt lui Isus,
+cînt Aleluia către cer sus
+Faţa-mi se-ndreaptă doar către cer unde iertare am dacă cer.
+/: Isus puterea morţii a-nfrînt,
+prin El e iubirea ce-i jos pe Pămînt
+Isus luase păcatul meu,
+sînt rob al iubirii
+şi-am să-I cînt mereu. :/
+
+[order]
+s1,s2,s3

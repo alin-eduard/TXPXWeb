@@ -1,0 +1,28 @@
+[s1]
+426.
+Fa
+1./:Salvatorul meu îmi zice:/ (de 3 ori)
+Ia-ţi crucea şi urmează-mi Mie.
+Cor:Unde merge-i voi urma Lui
+Eu merg cu El oriunde ar merge.
+
+[s2]
+2./:Cu El merg în Ghetsimani:/ (de 3 ori)
+Eu merg cu El oriunde ar merge.
+Cor:Unde merge-i voi urma Lui
+Eu merg cu El oriunde ar merge.
+
+[s3]
+3./:Merg cu El la judecată:/ (de 3 ori)
+Eu merg cu El oriunde ar merge.
+Cor:Unde merge-i voi urma Lui
+Eu merg cu El oriunde ar merge.
+
+[s4]
+4./:Har şi glorie îmi dă El:/ (de 3 ori)
+Eu merg cu El oriunde ar merge.
+Cor:Unde merge-i voi urma Lui
+Eu merg cu El oriunde ar merge.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,50 @@
+[s1]
+Nu se poate-ajunge-n
+ceruri fără a fi încercat.
+Fără să cunoşti valoarea
+aurului prelucrat.
+
+[s2]
+/:Dar se poate când în viaţă
+biruieşti prin orice greu.
+Şi ca scut al vieţii tale
+este numai Dumnezeu.:/
+
+[s3]
+Nu se poate-ajunge-n
+ceruri fără să fii iubitor.
+Chiar de ura este mare
+şi e cerul plin de nori.
+
+[s4]
+/:Dar se poate când iubeşti
+chiar şi pe vrăjmaşul tău.
+Nu uita c-aşa făcut-a
+totdeauna Domnul tău. :/
+
+[s5]
+Nu se poate-ajunge-n
+ceruri fără de a-ţi împărţi.
+Partea ta cu cei flămânzi,
+hrană spre-a le dărui.
+
+[s6]
+/:Dar se poate când ce ai
+dăruieşti la cel sărac.
+Şi de ce tu dai mai mult
+tu devii tot mai bogat. :/
+
+[s7]
+Stăruieşte-n fapte bune
+fii exemplu tot mereu.
+Astfel vei putea ajunge
+sus în cer la Dumnezeu.
+
+[s8]
+/:Calea către cer e sfântă,
+caută să mergi pe ea.
+Astfel vei avea izbândă,
+şi-n veci te vei bucura. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

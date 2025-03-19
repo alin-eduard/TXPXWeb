@@ -1,0 +1,38 @@
+[s1]
+Nu ţi-a fost prieten duhul lumii
+Te-a amânat de azi pe mâini
+/: Şi după clipe de-nsetare
+Nu ţi-a lăsat nimic în mâini :/
+
+[s2]
+Nu ţi-a fost nici copilăria
+Prieten credincios curând.
+/: S-a-nseninat ea către alţii
+Şi gol te-a părăsit curând :/
+
+[s3]
+Nu ţi-au fost prieteni de credinţă
+Nici tinereţea cât ai vrut
+/: Nici sănătatea, nici norocul.
+Un singur prieten ai avut :/
+
+[s4]
+Dar pe Acela unul singur
+L-ai preţuit cel mai puţin
+/: L-ai ascultat cel mai în urmă
+Şi l-ai primit cel mai străin :/
+
+[s5]
+Şi totuşi încă El aşteaptă
+Ca-n sfintele-ţi păreri de rău
+/: Să preţuieşti a Lui iubire
+Cât mai aşteaptă-n pragul tău :/
+
+[s6]
+Deschide-I singurului prieten
+Plângându-ţi viaţa cu amar.
+/: Şi dacă astăzi se va duce
+Poţi plânge-n veci, va fi-n zadar :/
+
+[order]
+s1,s2,s3,s4,s5,s6

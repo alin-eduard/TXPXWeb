@@ -1,0 +1,23 @@
+[s1]
+902.
+1.	Dulce e viaţa în veşnicie
+În veşnicie lângă Isus
+Acolo-i soarele, e Domnul gloriei
+Dulce e viaţa lângă Isus.
+În veşnicie nu mai simt lacrimi
+Nu mai sunt lacrimi ci-s bucurii
+Acolo-i patria, iubirea veşnică
+Dulce e viaţa lângă Isus.
+
+[s2]
+3.  Lângă Apostoli va fi Maria
+Va sta Maria lângă Isus
+Acolo îngerii răsună cântece
+Dulce e viaţa în Canaan.
+4.  Acolo-n slavă îl vom cunoaşte
+Îl vom cunoaşte pe Domnul Sfânt
+La nunta Mielului în taina Duhului
+Dulce e viaţa lângă Isus.
+
+[order]
+s1,s2

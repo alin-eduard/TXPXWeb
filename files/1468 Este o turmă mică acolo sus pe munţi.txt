@@ -1,0 +1,29 @@
+[s1]
+1468.
+1.  Este o turmă mică acolo sus pe munţi
+Ce stă fără frică colo printre stânci
+/: Cine o păstoreşte cine e cu ea
+De stă fără frică turma aceia :/
+2.   Când coboară-n vale apă ca să bea
+Cine la izvoare le va adăpa
+/: Cine o păstoreşte cine e cu ea
+De bea apă-n pace turma aceia :/
+
+[s2]
+3.  Noaptea dacă vine unde-a găzdui
+Turma aceia mică printre stânci pustii
+Cine o păzeşte cine e cu ea
+De se odihneşte turma aceia
+4.   De vine furtună cu apă şuvoi
+Cine o ocroteşte de vânturi şi ploi
+Dacă ştiţi voi cine e păstorul ei
+Spuneţi-mi şi mie o voi fraţii mei
+
+[s3]
+5.  Caut spre turma aceia spre Păstorul ei
+Vreau să urc cărarea printre munţii grei
+Să cunoască dorul de El cineva
+O când voi ajunge sus la turma Sa.
+
+[order]
+s1,s2,s3

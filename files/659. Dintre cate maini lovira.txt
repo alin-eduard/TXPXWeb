@@ -1,0 +1,33 @@
+[s1]
+1. Dintre câte mâini loviră
+Un obraz nemângâiat
+Numai mâna Ta Isuse
+Să-l mângâie s-a aflat
+659.
+2. Dintre atâtea glasuri câte
+Cu sudalme L-au hulit
+Numai glasul Tău Isuse
+Să-l mângâie s-a găsit.
+
+[s2]
+3. Dintre toţi câţi îl priviră
+Către el pizmaşi şi răi
+N-am văzut o dată milă
+Ce-am văzut-o în ochii Tăi.
+4. N-am simţit aşa iubire
+Cum a fost în viaţa Ta
+Mângâierea mâinii Tale
+Nicăieri n-o pot afla.
+
+[s3]
+5. Când eram în suferinţă
+Şi mă chinuiam în munci
+Nu mai pot uita Isuse
+Cum m-ai mângâiat atunci.
+6. Şi mă-ntreb privind la Tine
+Ce anume s-ar găsi
+Şi ce ar mai fi pe lume
+Să ne poată despărţi.
+
+[order]
+s1,s2,s3

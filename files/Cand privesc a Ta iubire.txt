@@ -1,0 +1,48 @@
+[s1]
+Când privesc a Ta iubire,
+Mă străbate-un fior sfânt
+Căci, din slavă și mărire,
+Ai venit jos pe pământ.
+
+[s2]
+Aleluia! Slavă Ție,
+O! Cel ce-n locul meu,
+pe cruce, ai murit!
+Toată slava a Ta fie,
+O! căci Tu pe mine
+Așa mult m-ai iubit
+
+[s3]
+Ah, povara-mi de păcate
+Tu, Isuse, ai purtat
+Și, din chinuri, de la moarte,
+Tu pe mine m-ai scăpat.
+
+[r1]
+Aleluia! Slava Tie,
+O! Cel ce-n locul meu,
+pe cruce, ai murit!
+Toata slava a Ta fie,
+O! caci Tu pe mine
+asa mult m-ai iubit
+
+[s4]
+Eu trăiam în rătăcire;
+Totuși, Tu m-ai căutat
+Și, în urmă, cu iubire,
+Tot trecutul mi-ai iertat.
+
+[s5]
+Fericit sunt eu acuma,
+Împăcat prin jertfa Ta;
+Inima mea cântă-ntruna:
+„Aleluia! Osana!"
+
+[s6]
+Al Tau Nume sfânt și mare
+Fie-n veci, El, proslăvit!
+Căci pe mine, din pierzare,
+Numai Tu m-ai mântuit!
+
+[order]
+s1,s2,s3,r1,s4,r1,s5,r1,s6,r1

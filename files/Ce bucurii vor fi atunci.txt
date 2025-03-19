@@ -1,0 +1,26 @@
+[s1]
+Ce bucurii vor fi atunci
+Când toţi cei mântuiţi,
+În paradis, bătrâni şi prunci,
+Vor fi cu toţi uniţi!
+
+[r1]
+/:O, Paradis :/ /: ceresc locaş, :/
+/: Tu ai din veci :/ /: eterne temelii :/
+/: Tu ne inspiri :/ din nou curaj :/
+/: Noi Te-aşteptăm :/ cu dor ca să vii.
+
+[s2]
+La marea de cristal
+Vom sta cu cei adorati
+Vom preamarii si onora
+Pe cel ce ne-a salvat
+
+[s3]
+Stralucitor, sublim, frumos
+E tot ce vom privi
+Caci fiinta lui Isus Hristos
+In toate-n, toti va fi
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,29 @@
+[s1]
+De când urmez eu drumul
+Pe calea către Cer
+Pe buze port cântarea
+Şi-L laud doar pe El.
+
+[r1]
+Izvorul, izvorul, Izvor de bucurii
+Îl port azi în suflet
+Şi nu-l mai pot opri!
+Mulţi nu mă-nţeleg azi,
+Dar eu nu pot tăcea
+Izvor de lacrimi şi de bucurii
+Inundă viaţa mea!
+
+[s2]
+A zis Isus că Duhul
+În inimă primit
+Va curge ca izvorul –
+Nu poate fi oprit .
+
+[s3]
+Când voi sfârşi eu drumul,
+La Cer când voi sosi
+Mă voi vedea cu Domnul
+Şi-n veci Îl voi slăvi.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,22 @@
+[s1]
+As vrea să Te cunosc
+Tot mai mult Isus.
+Ochii îi îndrept
+Către Tine şi aştept
+Doar voia Ta s-o fac.
+
+[r1]
+Cuvântul Tău e lumina mea,
+Braţul Tău sfânt e tăria mea.
+Fii glorificat, vesnic lăudat
+În viata mea!
+
+[s2]
+Eu vreau să-I cânt mereu
+Din sufletul meu.
+Numele Lui Sfânt
+Şi Sfântul Său Cuvânt
+Eu vreau să-L cânt mereu.
+
+[order]
+s1,r1,s2,r1

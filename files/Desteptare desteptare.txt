@@ -1,0 +1,44 @@
+[s1]
+Desteptare, desteptare!
+(Se aude tot mai tare)
+"O, popor de pe pamant,
+Asa, striga Duhul Sfant
+Vine Mirele-n curind!"
+
+[s2]
+Scoala-te, popor iubit,
+Botezat cu Duhul Sfint!
+Nu mai sta in nepasare,
+Ca-i vremea de desteptare
+Si-n curind Mirele-apare!
+
+[s3]
+Ce-ai sa faci, popor iubit,
+Daca nu esti pregatit,
+In ziua aceea mare?
+Ce vei spune-atuncea oare?
+Ai sa pui o intrebare...
+
+[s4]
+Ce vei face, ce vei spune,
+Cind te va chema pe nume
+Si de El vei fi-ntrebat:
+"Ce-ai facut cu-al tau talant?
+Ai lucrat sau l-ai ingropat?"
+
+[s5]
+Frati, surori, sa ne trezim!
+Cu toti, sa ne pocaim
+Departindu-ne de rau,
+Traind pentru Dumnezeu,
+Pregatindu-ne mereu
+
+[s6]
+Pentru ziua lui mareata,
+Cind ii vom sta fata-n fata,
+Cind va veni cu rasplata
+Domnul Isus, sa fim gata!
+"Aleluia!" Lui Isus!
+
+[order]
+s1,s2,s3,s4,s5,s6

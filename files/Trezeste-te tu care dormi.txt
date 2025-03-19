@@ -1,0 +1,26 @@
+[s1]
+Trezeşte-te, tu, care dormi,
+De Domnul eşti chemat!
+Cel ce-n păcate rătăceşti,
+De Domnul eşti căutat.
+
+[r1]
+/: Suflet drag, spune
+Când vei fi salvat?
+Te grăbeşte azi,
+Cât mai eşti chemat. :/
+
+[s2]
+Întoarce-te, drumeţule,
+Din calea de păcat.
+Isus e trist că tu nu vrei
+De El să fii salvat.
+
+[s3]
+Deci lasă lumea, pofta ei,
+Căci fericire n-ai.
+Te-ntoarce azi la Dumnezeu,
+Scăpare-n El tu ai.
+
+[order]
+s1,r1,s2,r1,s3,r1

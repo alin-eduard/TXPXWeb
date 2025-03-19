@@ -1,0 +1,20 @@
+[r1]
+Sfânt e, sfânt şi mare,
+Sfânt e Dumnezeu,
+Sfânt e, sfânt şi mare,
+Sfânt va fi mereu.
+
+[s1]
+Început nu are,
+E din veşnicii,
+E făr’ de hotare,
+Veşnic El va fi !
+
+[s2]
+Dragoste-ndurare
+E fiinţa Sa,
+Sfânt e, sfânt şi mare,
+Veşnic El va sta!
+
+[order]
+r1,s1,r1,s2

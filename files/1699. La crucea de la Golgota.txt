@@ -1,0 +1,27 @@
+[s1]
+1699
+1. La crucea de la Golgota
+Doamne, vin să-ngenunchez
+Cu viaţa mea
+Sunt obosit de-al meu păcat
+Sufletul mi-e îndurerat.
+Ajută-mă!
+
+[r1]
+Cor:
+Trimite-mi, Doamne, har din cer
+Dă-mi mângâiere să nu pier
+Primeşte viaţa mea în dar
+La cruce la Calvar
+Sfinţeşte, Doamne, fiinţa mea
+Să pot să stau ‘naintea Ta
+Să-Ți mulţumesc că m-ai răscumpărat
+
+[s2]
+2. Sunt călător pe acest pământ
+Nu fii tristă inimă,nu dispera
+Stai lângă cruce nu uita
+Isus te va mângâia, inima mea
+
+[order]
+s1,r1,s2,r1

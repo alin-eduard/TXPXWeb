@@ -1,0 +1,26 @@
+[s1]
+Sus voi fii ai mântuirii
+Cari pentru Hristos luptaţi
+Scoală sus nație sfântă
+Pe duşman să alungaţi.
+
+[r1]
+Răsune a voastră cântare
+Ca şi vuietul mării
+/: În a-L lui Isus sfânt Nume
+Noi suntem biruitori ! :/
+
+[s2]
+Sfinţii şi eroii din trecut
+Într-un cuget toţi au fost
+Ridicând in sus stindardul,
+Biruind cu Domnul nost'
+
+[s3]
+Sus dar frati făr’ nici o teamă
+Să luptăm pentru Hristos
+Ca-n ziua venirii Sale
+Vom cânta cu toţii voioşi.
+
+[order]
+s1,r1,s2,r1,s3,r1

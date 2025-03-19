@@ -1,0 +1,43 @@
+[s1]
+1435.
+Plângând în noapte îngenunchiat
+Acel ce-i fără vină
+Pentru al meu şi-al tău păcat
+Suspină în grădină
+Cor   /:Ghetsimani:/ acolo se ruga
+Fiul Sfânt de Dumnezeu Isus Mesia
+/:Ghetsimani:/ Plânge cu amar
+Mielul cel nevinovat pentru al meu păcat.
+
+[s2]
+Îndepărtează acest pahar
+Dacă voieşti o Tată
+Dar totuşi voia Ta acum
+În toate să se facă
+Cor   /:Ghetsimani:/ acolo se ruga
+Fiul Sfânt de Dumnezeu Isus Mesia
+/:Ghetsimani:/ Plânge cu amar
+Mielul cel nevinovat pentru al meu păcat.
+
+[s3]
+Un înger i s-a arătat
+Din cer să-l întărească
+Să sufere pân la sfârşit
+Ca să ne mântuiască
+Cor   /:Ghetsimani:/ acolo se ruga
+Fiul Sfânt de Dumnezeu Isus Mesia
+/:Ghetsimani:/ Plânge cu amar
+Mielul cel nevinovat pentru al meu păcat.
+
+[s4]
+Să stai în noapte nu-i uşor
+Un ceas în priveghere
+Ca şi Isus în Ghetsimani
+Ca să primeşti putere
+Cor   /:Ghetsimani:/ acolo se ruga
+Fiul Sfânt de Dumnezeu Isus Mesia
+/:Ghetsimani:/ Plânge cu amar
+Mielul cel nevinovat pentru al meu păcat.
+
+[order]
+s1,s2,s3,s4

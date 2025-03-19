@@ -1,0 +1,20 @@
+[s1]
+Lumea se intreaba ce-i cu noi
+De traim mereu biruitori
+Ei nu stu de locul minunat
+In Golgota frica ne-am lasat
+
+[r1]
+E puterea Tatalui de Sus
+E puterea Jertfei lui Isus
+E puterea Duhului cel Sfant
+E puterea crucii zi de zi in noi
+
+[s2]
+Crucea-i locul unde ne-am spalat
+De robia mortii ne-a scapat
+Si traim mereu biruitori
+Caci puterea crucii e in noi.
+
+[order]
+s1,r1,s2,r1

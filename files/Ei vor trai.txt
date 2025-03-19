@@ -1,0 +1,38 @@
+[s1]
+Ei vor trai o viat-ascunsa-n Tine
+Prin incercari si lacrimi vor pasii
+Inima lor va bate atunci mai tare
+Dar Tu o Doamne ii vei ocrotii
+
+[r1]
+Tu ii inalti si ei pot sta pe stanca
+Tu ii inalti si pot privi spre cer
+Puteri le dai cand stau sub a Ta cruce
+Tu ii inalti prin sfantul Tau cuvant
+
+[s2]
+De veti cadea si grijile v-apasa
+El e prezent si vine-n ajutor
+Sunteti ai Lui orice furtuni vor bate
+Cu El sunteti mereu biruitori
+
+[s3]
+Noi va dorim drum bun in casnicie
+Si bucurii mereu sa-ntampinati
+Spre cer mereu sa mergeti inainte
+Langa El sa fiti la orice pas.
+
+[s4]
+Tu ii inalti si pot privi spre ceruri
+Tu ii inalti sa poata ‘nainta
+Puteri le dai cand stau sub a ta cruce
+Tu ii inalti prin sfantul tau cuvant.
+
+[s5]
+Mereu mereu spre ceruri inainte
+Mereu mereu voi sa inaintati
+Caci Dumnezeu e-a voastra ocrotire
+Langa El sa fiti la orice pas
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

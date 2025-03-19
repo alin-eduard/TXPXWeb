@@ -1,0 +1,48 @@
+[r1]
+/: Ca Enoh şi ca Ilie,
+Vom zbura şi noi, la fel,
+Când Isus are să vie,
+Să ne ia la El. :/
+
+[s1]
+Ca Enoh şi ca Ilie,
+Şi noi vom zbura;
+Cu Isus, în veşnicie,
+Şi noi vom cânta;
+Ziua ceea va fi mare,
+Cea mai mare zi:
+Ziua noastră de plecare
+către veşnicii.
+
+[s2]
+Vom lăsa şi nori şi ceaţa,
+norii cenuşii,
+În aceea dimineaţă,
+când El va veni.
+Se va lumina Taborul
+de privirea Lui,
+Când ne vom lua toţi zborul,
+toţi ai Domnului.
+
+[s3]
+Când durerea va fi mare,
+Domnul va veni
+Şi, în norul de salvare,
+El ne va răpi;
+Când paharul de urgie
+se va revărsa,
+Duhul Sfânt, în veşnicie,
+ne va strămuta.
+
+[s4]
+Vom zbura ca porumbeii
+Către porumbar,
+Dintre Neamuri şi evreii,
+prin acelaşi har.
+Prin credinţa şi răbdare,
+noi vom birui
+În iubirea Lui cea mare,
+El ne va răpi.
+
+[order]
+r1,s1,r1,s2,r1,s3,r1,s4,r1

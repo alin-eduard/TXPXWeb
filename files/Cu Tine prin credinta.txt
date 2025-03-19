@@ -1,0 +1,68 @@
+[s1]
+Cu Tine prin credinta
+Doamne voi porni
+Caci pasii Tai mi-arata
+Drumul zi de zi
+Eu n-am sa stau pe loc
+Cand mergi naintea mea
+Te-aud si Te privesc
+In toata slava Ta
+
+[s2]
+Tu stii cuvantul meu
+Naintea de-al rosti
+Cu pace ma-nconjori
+Prin har sa pot trai
+Cu-a Tale mangaieri
+Imi saturi inima
+Asa Te voi vesti
+Cat viata voi avea
+
+[s3]
+Chiar si prin pustiu
+Biruind ma vei purta
+Cu Tine ma arunc si-n val de mare
+Nu ma tem cand vine
+Cel rau asupra mea
+A Ta lumina poate sa-l doboare
+
+[r1]
+Tu m-ai intocmit (m-ai intocmit si,)
+Tu m-ai mantuit (m-ai mantuit si,)
+Doamne Tu mi-ai fost intr-una
+Dumnezeu si Tata
+Fii in veci slavit (in veci slavi si,)
+Vesnic preamarit
+Si vesnic, vesnic preamarit
+Pentru marea-Ti mantuire minunata
+
+[s4]
+Cand nu eram nascut
+Stiai viata mea
+Cu dragoste de-atunci
+M-ai scris in cartea Ta
+O cat de nepatruns
+E planul Tau divin
+A Ta e viata mea
+Eu tie Ti-o inchin
+
+[s5]
+Dar am un singur dor
+Si-l port in pieptul meu
+Ca impotriva Ta
+Sa nu mai stea cel rau
+Sa piara ura lui
+De pe intreg pamant
+Iar Tu sa fii slavit
+Si numele Tau sfant
+
+[s6]
+Nimiceste Doamne
+Tot planul celui rau
+Si ura ce-o arata pentru Tine
+Preamarit sa fie
+In veci numele Tau
+Dreptatea Ta si faptele-Ti divine
+
+[order]
+s1,s2,s3,r1,s4,s5,s6,r1

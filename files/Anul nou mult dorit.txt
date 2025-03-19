@@ -1,0 +1,30 @@
+[s1]
+Anul nou mult dorit
+Pe-al său prag am păşit
+Anul nou cât este de frumos
+Pe cel vechi l-am lăsat cu trecutu-n păcat
+Plin de rău, plin sunt eu păcătos.
+
+[r1]
+/: A trecut încă un an
+Noi mergem spre Canaan
+Drumul nostru tot urcă mereu
+Înainte şi sus răsplătiri de nespus
+Vom primi de la bunul Dumnezeu. :/
+
+[s2]
+Mă întorc azi obosit
+Ca să fiu mântuit
+Să-L ascult în acest an cu drag
+Orice val ar veni inainte-oi păşi
+Ca s-ajung în cer la Dumnezeu.
+
+[s3]
+De-ar veni încercări
+Cu El vom birui
+Şi cununa cerească vom primi
+Ispite, prigoniri, toate le-am suferi
+Ca s-ajung acasă sus la El.
+
+[order]
+s1,r1,s2,r1,s3,r1

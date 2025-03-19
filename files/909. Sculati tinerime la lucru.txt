@@ -1,0 +1,53 @@
+[s1]
+909.
+1.  Sculaţi tinerime la lucru
+Slujiţi lui Isus devotaţi
+Iubirea Cerescului Tată
+Cu râvnă să i-o împrăştiaţi.
+Cor:	O lume trăieşte în păcate
+Şi piere fără de Hristos
+Spre ea revarsă-ţi bunătate
+Îndrum-o azi mereu la Hristos
+
+[s2]
+2.  În noi arde dragostea sfântă
+Aprinsă de mult pe Calvar
+Acum tinereţea întreagă
+S-o punem cu toţii pe altar
+Cor:	O lume trăieşte în păcate
+Şi piere fără de Hristos
+Spre ea revarsă-ţi bunătate
+Îndrum-o azi mereu la Hristos
+
+[s3]
+3.  La muncă divină ne cheamă
+Isus prin al Său sfânt cuvânt
+Iar holdele coapte ne-ndeamnă
+Să lucrăm ne-ncetat cu avânt
+Cor:	O lume trăieşte în păcate
+Şi piere fără de Hristos
+Spre ea revarsă-ţi bunătate
+Îndrum-o azi mereu la Hristos
+
+[s4]
+4.  Noi spunem oricui că pe cruce
+Isus pentru toţi a murit
+E vestea ce pace aduce
+Şi-l face pe om fericit
+Cor:	O lume trăieşte în păcate
+Şi piere fără de Hristos
+Spre ea revarsă-ţi bunătate
+Îndrum-o azi mereu la Hristos
+
+[s5]
+5.  Amice la El tu priveşte
+Primeşte-L ca Mântuitor
+Iertarea Sa îţi dăruieşte
+Viaţă nouă al Tău Salvator.
+Cor:	O lume trăieşte în păcate
+Şi piere fără de Hristos
+Spre ea revarsă-ţi bunătate
+Îndrum-o azi mereu la Hristos
+
+[order]
+s1,s2,s3,s4,s5

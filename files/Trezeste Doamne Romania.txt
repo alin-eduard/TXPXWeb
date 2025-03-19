@@ -1,0 +1,32 @@
+[r1]
+Trezeşte, Doamne, România!
+Aprinde foc în pragul zilei de apoi!
+Trezeşte, Doamne, România,
+Şi-ncepe cu noi!
+
+[s1]
+Am aşteptat prin întuneric,
+E timpul să ne pregătim
+În zori de zi lumina s-o-ntâlnim.
+Da, vom vedea şi-n ţara noastra
+Cum se-mplineşte, în curând,
+Ce ne-am rugat cu toţii atâta timp!
+
+[s2]
+Este nevoie de o schimbare.
+Azi încă nu e prea târziu
+Biruitori la luptă să pornim!
+Să transformăm credinţa-n fapte
+Şi să trăim ce predicăm!
+Pentru trezire, uniţi să ne rugăm!
+
+[s3]
+Nu suntem noi mai buni decât alţii,
+Dar te rugăm:
+Umple-ne, Doamne, cu Duhul Tău!
+Fă să fim noi unelte
+În trezirea ce e pe drum,
+Şi începe-o în noi, chiar acum!
+
+[order]
+r1,s1,r1,s2,r1,s3,r1

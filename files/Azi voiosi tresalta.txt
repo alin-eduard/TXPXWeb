@@ -1,0 +1,27 @@
+[s1]
+Azi voioşi tresaltă îngerii în cor
+Căci un suflet rătăcit s'a-ntors
+La ‘cea turmă mică-a bunului Păstor,
+O, priviţi cât este de frumos!
+
+[r1]
+Aleluia, îngeri toţi cântaţi!
+Aleluia, fraţi, toţi tresăltaţi!
+Şi pământ şi toate oştile de sus!
+Preamăriţi în cor azi pe Isus!
+
+[s2]
+Azi în cor tresaltă obştea lui Hristos
+Căci din mâna morţii a scăpat
+Prin căinţă şi prin har, un păcătos…
+Dumnezeu fie-n etern lăudat!
+
+[s3]
+Bucuria-i mare-n cer la Tatăl sfânt,
+Fraţi, surori, cântaţi neîncetat:
+Azi pe veci un frate,
+Prin sfânt legământ
+De la moarte-n viaţă a intrat!
+
+[order]
+s1,r1,s2,r1,s3,r1

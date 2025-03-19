@@ -1,0 +1,43 @@
+[s1]
+1197.
+Lume, lume amăgitoare
+Nu mai încerca-n zadar
+Prin chemări amăgitoare
+Să m-atragi la tine iar.
+Cor:    Când ţi-aud chemarea lume
+Faţa-n palme mi-o ascund
+În zadar mă chemi pe nume
+Nu mai vreau să-ţi mai răspund.
+
+[s2]
+2.   În zadar întinzi spre mine
+Al plăcerilor pahar
+Nu-l mai beau, căci ştiu prea bine
+Că e veninos şi-amar.
+Cor:    Când ţi-aud chemarea lume
+Faţa-n palme mi-o ascund
+În zadar mă chemi pe nume
+Nu mai vreau să-ţi mai răspund.
+
+[s3]
+3.   Ţi-am băut paharul lumii
+Dar amar a fost la fund
+Oricând mă mai chemi pe nume
+Nu mai vreau să-Ţi mai răspund.
+Cor:    Când ţi-aud chemarea lume
+Faţa-n palme mi-o ascund
+În zadar mă chemi pe nume
+Nu mai vreau să-ţi mai răspund.
+
+[s4]
+4.    Azi când îmi întinzi paharul
+Şi mă chemi să mi-l oferi
+Mi-amintesc de tot amarul
+De paharul cel de ieri.
+Cor:    Când ţi-aud chemarea lume
+Faţa-n palme mi-o ascund
+În zadar mă chemi pe nume
+Nu mai vreau să-ţi mai răspund.
+
+[order]
+s1,s2,s3,s4

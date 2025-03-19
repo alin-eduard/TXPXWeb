@@ -1,0 +1,25 @@
+[s1]
+Azi Domnul e păstorul meu,
+El mă conduce la păşuni.
+Mă-nviorează cu izvoare,
+Pe cale povaţă-mi dă.
+
+[r1]
+/: Mă voi încrede doar in El. :/
+Căci fericirea şi-ndurarea Lui,
+În viaţă m-or însoţi.
+
+[s2]
+Prin valea morţii de-aş umbla,
+Eu nu mă tem de nici un rău.
+Că eşti cu mine şi mă mângâi,
+Mă mustri când eu greşesc.
+
+[s3]
+Şi chiar duşmani de aş avea,
+Tu masa-ntinzi în faţa lor.
+Şi capu-mi ungi cu untdelemn ales,
+Şi paharul meu e plin.
+
+[order]
+s1,r1,s2,r1,s3,r1

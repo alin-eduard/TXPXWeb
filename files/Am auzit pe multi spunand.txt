@@ -1,0 +1,31 @@
+[s1]
+Am auzit pe mulţi spunând:
+Isus nu sfărâmă zăvorul,
+El bate-n uşă-ncet şi blând,
+Dar tu deschizi, nu Salvatorul!
+Odată însă-n viaţa mea
+Isus vârî în uşă mâna,
+/: Mi-a zis: „Eu totuşi pot intra,
+Căci Eu sunt Domnul, tu - ţărâna.":/
+
+[s2]
+Dar n-a intrat, şi-ain plâns cu-amar  Înţelegând de ce nu vine,
+Căci El n-a vrut ca un tâlhar
+Să tragă fierul pus de mine.
+Când l-ain deschis, era târziu...
+El dispăruse-n umbra serii...
+/: Orasu-ntreg părea pustiu
+Şi m-au lovit, pe drum, străjerii...:/
+
+[s3]
+Abia în zori ne-am întâlnit,
+În Ghetsimani, pe o cărare,
+El - dorul cel nemărginit,
+Iar eu - ţărâna cu zăvoare...
+O, frate drag, Isus e blând!
+El stă la uşa ta şi bate...
+/: El poate s-o sfărâme-oricând,
+Dar dragostea din El nu poate!:/
+
+[order]
+s1,s2,s3

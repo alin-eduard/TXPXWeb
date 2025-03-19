@@ -1,0 +1,43 @@
+[s1]
+1605.
+1.Oare nu mai eşti același
+Oare Te-ai schimbat
+De nu-Ţi mai simţim prezenţa
+Doamne atunci când eşti chemat
+Oare nu mai eşti același
+Oare Te-ai schimbat
+Ori noi am greşit cărarea
+Şi ne-am depărtat
+
+[s2]
+2.Tu rămâi acelaşi Doamne
+Ieri şi azi şi-n veci
+Îndurarea Ta rămâne
+Tu nicicând nu treci
+Noi Te întristăm adesea
+Suntem cărtitori
+Suntem slabi, suntem ţărână
+Suntem trecători
+
+[s3]
+3.Căci întodeauna Doamne
+Omu-i schimbător
+Numai Tu rămâi acelaşi
+Veşnic, sfânt, nemuritor
+Tu rămâi drept şi puternic
+Bun şi iertător
+Binecuvântat fii veşnic
+Domn al Domnilor
+
+[s4]
+4. Te rugăm ca şi Ilie
+În rugă aşteptând
+Fă şi peste noi să vie
+Doamne azi susurul blând
+Soare al neprihănirii
+Cu dor Te aşteptăm
+Adu ziua întâlnirii
+Căci Te aşteptăm.
+
+[order]
+s1,s2,s3,s4

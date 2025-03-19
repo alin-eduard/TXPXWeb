@@ -1,0 +1,33 @@
+[s1]
+2040  Mi m
+1. Doamne sunt la strâmtorare
+Încercarea m-a lovit
+/: Cel rău vrea să mă doboare
+Să mă vadă nimicit :/
+/: Dar scăparea mea e Domnul
+Chiar de sunt amenințat
+El nu-mi va lăsa piciorul
+Să-mi alunece vre-odat′ :/
+
+[s2]
+2. Zi și noapte n-am odihnă
+Pas cu pas sunt urmărit
+/: Mă cuprinde teama morții
+Și mi-e sufletul rănit :/
+/: Dar scăparea mea e Domnul
+El rămâne scutul meu
+Și când trec prin strâmtorare
+Eu alerg la El mereu :/
+
+[s3]
+3. Când ajungi la strâmtorare
+Și în luptă ești răpus
+/: Pe genunchi în rugăciune
+Stai de vorbă cu Isus :/
+/: Spune-i Domnului necazul
+Spune-i frate starea ta
+Și în ziua strâmtorării
+Mâna Lui te v-a scăpa :/
+
+[order]
+s1,s2,s3

@@ -1,0 +1,26 @@
+[s1]
+Dulce e a crede-­n Isus,
+A primi Cuvântul Lui,
+Stând pe­-a Lui promisiune
+Şi făcând doar voia Lui.
+
+[r1]
+Doamne, mă încred în Tine,
+Te iubesc atât de mult,
+O, Isuse, scump, Isuse,
+De­-a Ta voce vreau s­-ascult!
+
+[s2]
+Dulce e a crede-­n Isus
+Şi în sângele­-I curat,
+A primi prin El iertare,
+Mântuire din păcat.
+
+[s3]
+Da, e dulce­ a crede­-n Isus
+Şi a nu păcătui,
+A avea cu Domnul pace,
+Fericit cu El a fi.
+
+[order]
+s1,r1,s2,r1,s3,r1

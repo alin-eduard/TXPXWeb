@@ -1,0 +1,32 @@
+[s1]
+/: Pacea lui Isus este-n mine
+Cînd mi-e greu şi cînd mi-e bine
+Pacea lui Isus este-n mine -
+Mulţumesc, Isus ! :/
+
+[s2]
+/: Dragostea Lui se înoieşte
+Isus Domnul mă iubeşte
+Dragostea Lui se înoieşte
+Te iubesc, Isus ! :/
+
+[s3]
+/: Duhul Său Cel Sfînt este-n mine
+Şi mă-nvaţă ce e bine
+Duhul Său Cel Sfînt este-n mine
+Mulţumesc, Isus ! :/
+
+[s4]
+/: Credinţa-n Tine mîntuieşte
+Dă putere, mă-ntăreşte.
+Credinţa-n Tine mîntuieşte
+Te iubesc, Isus ! :/
+
+[s5]
+/: Venirea Lui e foarte-aproape
+Poate vine chiar la noapte.
+Venirea Lui e foarte-aproape
+Vine Mirele ! :/
+
+[order]
+s1,s2,s3,s4,s5

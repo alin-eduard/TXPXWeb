@@ -1,0 +1,29 @@
+[s1]
+De mult aştept ziua când voi pleca
+Spre locaşul divin unde e ţara mea
+În cer cu El e divinul meu ţel
+Să fiu veşnic cu El, cumpul Emanuel.
+Sol  M
+
+[r1]
+/: Suflete lauda-L pe Domnul :/ x3
+Ziua-ceea-n curând va veni :/
+
+[s2]
+A zis Isus şi eu cred tot ce-a spus
+Căci în cer nu vor fi
+Nici dureri, nici suspin
+Cu mâna Sa va lua lacrima
+Şi apoi vom cânta
+Pentru veci slava Sa.
+
+[s3]
+Mai e puţin de trăit in suspin
+Şi apoi vom uita
+Că a fost greu cândva
+O, scump Isus te rugăm du-ne sus
+Să fim mireasa Ta
+când va-ncepe nunta.
+
+[order]
+s1,r1,s2,r1,s3,r1

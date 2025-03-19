@@ -1,0 +1,32 @@
+[s1]
+Auzi corul ingeresc,
+marire lui Dumnezeu,
+Marire in ‘naltime,
+pace la oameni fie.
+Ce Dumnezeu a promis,
+Pe Fiul Sau L-a trimis.
+/: Auzi corul ingeresc
+Cantand Tatalui ceresc! :/
+
+[s2]
+Cel din cerul minunat,
+Preamarit si inaltat
+Pe pamant jos a venit
+Si ca noi trup a primit.
+A venit a patimit
+Pentru noi moarte a primit
+/: A sterge pacatele
+Si viata dandu-ne! :/
+
+[s3]
+Ni s-a facut de toate
+La El avem scapare
+Bucuros ne primeste
+Da fericire, pace.
+Si la cer ne conduce
+Unde locul gateste,
+/: Pentru cei rascumparati
+Si cei binecuvantati. :/
+
+[order]
+s1,s2,s3

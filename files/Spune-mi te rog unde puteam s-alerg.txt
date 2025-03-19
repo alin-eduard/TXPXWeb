@@ -1,0 +1,35 @@
+[s1]
+Spune-mi te rog,
+Unde puteam s-alerg,
+Când lumea-ntreagă mă chema
+Cu-a ei ispită mare de nespus,
+Unde s-alerg? Doar la Isus.
+
+[r1]
+Unde s-alerg? Unde s-alerg? Sufletul meu să-l linistesc.
+Dar am găsit odihna acolo sus,
+Stiu unde s-alerg, doar la Isus.
+
+[s2]
+Spune-mi te rog,
+Unde puteam s-alerg?
+Când toți cei dragi mă părăseau
+Doar la Calvar primitu-ma Isus,
+Unde s-alerg? Doar la Isus.
+
+[s3]
+Spune-mi te rog,
+Unde puteam s-alerg?
+Când grijuri mari, mă-mpresurau
+Și prin necazuri grele, eram dus:
+Unde s-alerg? Doar la Isus.
+
+[s4]
+Spune-mi te rog,
+Unde puteam s-alerg?
+Când prietenii mă părăseau
+Și singur către moarte eram dus,
+Unde s-alerg? Doar la Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

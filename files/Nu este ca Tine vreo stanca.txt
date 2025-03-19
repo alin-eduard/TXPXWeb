@@ -1,0 +1,38 @@
+[s1]
+Nu este ca Tine vreo stâncă
+De care să mă ancorez
+Cum ești Tu Isuse Stăpâne
+Pe nimeni ca Tine nu găsesc
+
+[r1]
+Ești Stânca ce-n toate mă ține
+De ceruri mereu ancorat
+/: Iar când vântul suflă mai tare
+Cu Tine Isuse nu cad :/
+
+[s2]
+Nu este ca Tine vreo stâncă
+De care credinţa să-mi ţin
+Isuse Tu eşti cel mai mare
+Tu-mi dai zi de zi har divin
+
+[s3]
+Mă ţine părinte mă ţine
+De Tine mereu ancorat
+Tu eşti stânca mea minunată
+Pe veci Tu m-ai răscumpărat
+
+[s4]
+Să știți stânca mea este Domnul
+Cu El să rămân eu aș vrea
+Curând înspre țara dreptății
+De-aici fraților vom zbura
+
+[s5]
+/: Ești Stânca ce-n toate mă ține
+De ceruri mereu ancorat
+/: Iar când vântul suflă mai tare
+Cu Tine Isuse nu cad :/:/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5

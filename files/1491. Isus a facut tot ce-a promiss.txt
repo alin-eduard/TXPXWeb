@@ -1,0 +1,35 @@
+[s1]
+Isus a făcut tot ce-a promis
+Mergi, mergi cu Isus !
+Aşa a trăit precum a  zis
+Mergi, mergi cu Isus !
+Cor:	  /: Mergi cu Isus :/ (de 3 ori)
+Mergi în lumina Sa.
+1491.       La b
+
+[s2]
+Isus a răbdat şi a biruit
+Mergi, mergi cu Isus !
+Eşti liber, păcatul El a plătit,
+Mergi, mergi cu Isus !
+Cor:	  /: Mergi cu Isus :/ (de 3 ori)
+Mergi în lumina Sa.
+
+[s3]
+Isus a venit şi ne-a mântuit
+Mergi, mergi cu Isus !
+Pe Sine S-a dat şi ne-a izbăvit,
+Mergi, mergi cu Isus !
+Cor:	  /: Mergi cu Isus :/ (de 3 ori)
+Mergi în lumina Sa.
+
+[s4]
+În sfântă iubire să mergem acum
+Mergi, mergi cu Isus !
+Căci El ne aşteaptă chiar e pe drum
+Mergi, mergi cu Isus !
+Cor:	  /: Mergi cu Isus :/ (de 3 ori)
+Mergi în lumina Sa.
+
+[order]
+s1,s2,s3,s4

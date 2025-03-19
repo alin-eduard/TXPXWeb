@@ -1,0 +1,43 @@
+[s1]
+1158.
+1.     Dacă n-aş avea nădejdea
+Ce mă ţine ne-ncetat
+În Cuvântul Tău de-a pururi
+Mai curat şi-n flăcărat
+/: N-aş putea nicicând Isuse
+Pe cale a-nainta
+Căci furtuni şi valuri multe
+Lovesc în corabia mea :/
+
+[s2]
+2.       Dacă n-aş avea iubirea
+Vie-n inimă mereu
+Adevărul cărţii sfinte
+Nu m-ar mângâia în greu
+/: N-aş simţi nicicând Isuse
+Mâna Ta asupra mea
+Căci lumina feţei Tale
+Îmi aprinde dragostea :/
+
+[s3]
+3.       Dacă n-aş avea credinţă
+Scutul tare în furtuni
+N-aş putea zări eu portul
+Ce-l doresc cu adânc suspin
+/: N-aş avea nicicând lumina
+Ce răsare-n noaptea grea
+Doar înaintea mea o Doamne
+Tu îmi eşti lumina mea :/
+
+[s4]
+4.         Dacă n-aş avea speranţă
+Căci odată te-oi vedea
+O Isus nădejdea slavei
+Viaţa mi s-ar dărâma
+/: Dar eu cred în adevărul
+Cel de vremi neclătinat
+Căci voi fi cu Tine-n ceruri
+Şi voi fi eu mângâiat :/
+
+[order]
+s1,s2,s3,s4

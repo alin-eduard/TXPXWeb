@@ -1,0 +1,40 @@
+[s1]
+Numai un pas spre Domnul,
+De ce să nu­l faci tu?
+Să­I spui Lui tot păcatul,
+La El să vii acum!
+
+[r1]
+Numai un pas, numai un pas,
+El te va primi,
+Domnul îţi dă iertare,
+Inimii uşurare;
+De vrei tu mântuirea
+La El o vei găsi!
+
+[s2]
+Numai un pas spre Domnul,
+De­l faci, tu vei trăi,
+Te­aşteaptă cu iubire,
+De crezi, te­a mântui!
+
+[s3]
+Numai un pas spre Domnul,
+Te scoate din păcat,
+De ce nu vrei să­l faci tu,
+Să fii eliberat?
+
+[s4]
+Numai un pas spre Domnul
+Fă chiar acum, nu sta,
+Ce­ai hotărât? O, spune,
+Căci trece vremea Ta!
+
+[s5]
+Numai un pas spre Domnul,
+Acesta­i pasul tău,
+Vino la El şi spune­I:
+„Cu totul sunt al Tău!“
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,26 @@
+[s1]
+Tu m-ai făcut din ţărână
+Si-n adânc mi-ai turnat vesnicia,
+/: Dar în mine-o făptură păgână
+Zi si noapte îsi cere simbria :/
+
+[s2]
+Nu sunt, Doamne, decât o suflare,
+Decât carne cu multe păcate
+/: Si Te caut cu dor si oftare
+Să-mi dai forma trăirii curate :/
+
+[s3]
+Ce-as ajunge, tot singur pe ape,
+Într-o lume de răni si suspine,
+/: Dacă nu Te-as simti pe aproape
+Dacă nu Te-as avea lângă mine :/
+
+[s4]
+Eu sunt scurgerea, aburul, clipa;
+Sunt doar lutul, iar Tu esti Olarul.
+/:Ocroteste-mă, Doamne, cu-aripa
+Dăltuieste-mi făptura cu harul :/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,39 @@
+[s1]
+Salvat, salvat sunt pe Golgota
+Prin jertfa Domnului Isus
+Păcatul meu pe El luat-a
+La moarte pentru min’ s-a dus
+Cor:	/ : Salvat : / Sunt azi de Domnul meu Isus
+/ : Salvat : / Salvat prin al său sânge curs
+1201.
+
+[s2]
+Azi sunt eu plin de fericire
+Nici n-am cuvinte să pronunţ
+Căci am în Domnul mântuire
+La ea nu pot eu să renunţ
+2.
+Cor:	/ : Salvat : / Sunt azi de Domnul meu Isus
+/ : Salvat : / Salvat prin al său sânge curs
+Eu mă gândesc mereu la Domnul
+Ce mult pe mine m-a iubit
+O cât de păcătos e omul
+Aşa cum sunt El m-a primit
+3.
+
+[s3]
+Cor:	/ : Salvat : / Sunt azi de Domnul meu Isus
+/ : Salvat : / Salvat prin al său sânge curs
+Îl voi vedea curând ca Mire
+Ah mult îmi place să-L slujesc
+Pe sfinţi din lume-i va alege
+Formându-şi un popor ceresc
+4.
+Şi credincios de-am fost în viaţă
+Cu El sfârşindu-mi calea jos
+Atunci vedea-voi a Lui faţă
+Voi fi împreună cu Hristos
+5.
+
+[order]
+s1,s2,s3

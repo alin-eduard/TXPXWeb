@@ -1,0 +1,37 @@
+[s1]
+Spune-mi de viaţa lui Isus,
+Spune-mi mereu din Cuvânt;
+Spune-mi de viaţa-I duioasă,
+De Numele Lui cel sfânt...
+Spune-mi cum îngerii în cor
+i-au cântat la naştere;
+“Laudă Tatălui, mărire
+Pace, bună-nvoire!”
+
+[r1]
+Spune-mi de viaţa lui Isus,
+Spune-mi mereu din Cuvânt;
+Spune-mi de viaţa-I duioasă,
+De Numele Lui cel sfânt!
+
+[s2]
+Spune-mi şi de zilele Lui
+Când în pustie-a postit,
+Cum a suferit pentru noi,
+Dar toate le-a biruit !...
+Spune-mi cum El a învăţat
+Spune-mi durerile Lui
+Dispreţuit şi chinuit
+La moarte-n locu-mi S-a dat.
+
+[s3]
+Spune-mi chiar de a Lui cruce,
+Cum în dureri a strigat...
+Când oamenii L-au răstignit,
+El pentru ei S-a rugat.
+Şi sus la cer S-a-nălţat
+De aceea eu Îl măresc,
+Căci din păcat m-a salvat.
+
+[order]
+s1,r1,s2,r1,s3,r1

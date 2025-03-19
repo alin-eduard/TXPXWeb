@@ -1,0 +1,33 @@
+[s1]
+1917
+1. M-am hotărât să vin la Tine
+Isuse Ție mă predau
+Cu tot ce e greșit în mine
+Mă-ntorc și inima ți-o dau
+
+[r1]
+Cor: Inima Ți-o dau Isuse
+Viața toată Domnul meu
+Spală-mă în sfântul sânge
+Ca să fiu pe veci al Tău
+
+[s2]
+2. M-am hotărât  să las păcatul
+Și lumea ce m-a amăgit
+Să ies din noapte la lumină
+La Tine Domnul meu iubit
+
+[s3]
+3. M-am hotărât să port un nume
+Un nume sfânt o Domnul meu
+Să fiu curat trăind cu Tine
+Să fiu de acum copilul Tău
+
+[s4]
+4. M-am hotărât ca să-mi port crucea
+Și prin furtuni te voi urma
+Ajută-mă să lupt o Doamne
+S-ajung și eu în țara slava Ta.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

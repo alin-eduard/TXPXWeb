@@ -1,0 +1,49 @@
+[s1]
+1. Se duce viaţa ca un vis
+Şi zilele se duc şi vin
+Iar noi zburăm spre veşnicii
+Spre viaţa sau spre chin
+344. 								  Fa
+
+[s2]
+Spre slava cerului senin
+Sau spre adâncul întunecos
+Spre veşnicie sus sau jos.
+Fără sfârşit.
+
+[r1]
+Cor: /:Eşti pregătit să zbori
+Când ceasul va suna?
+Eşti pregătit să zbori
+Când El te va chema?
+Eşti pregătit sau nu?
+Acum e timpul potrivit
+Întoarce-te şi tu
+Ca să fii mântuit:/.
+
+[s3]
+2. Se duce viaţa ca un nor
+În marele necunoscut
+Pe-oceanul veşniciilor
+Atâția au trecut
+
+[s4]
+Şi tu vei trece, nu uita
+Depinde cum te-ai pregătit
+Spre veşnicie vei zbura.
+În infinit.
+
+[s5]
+3. Şi iată, Domnul va veni
+Cu slavă veşnică pe nori
+Înconjurat cu zeci de mii
+Cu îngerii în zbor
+
+[s6]
+Ca fulgerul la răsărit
+Şi orice ochi Îl va vedea
+Şi-aceia ce L-au răstignit.
+Îl vor vedea.
+
+[order]
+s1,s2,r1,s3,s4,r1,s5,s6,r1

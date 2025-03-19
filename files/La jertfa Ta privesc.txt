@@ -1,0 +1,58 @@
+[s1]
+La jertfa Ta privesc,
+tezaur scump, ceresc
+Unde povara mea s-a dus,
+şi sunt salvat.
+Spre cer privesc voios,
+unde Stăpânul meu
+M-aşteaptă bucuros
+în Paradisul Său.
+
+[r1]
+Sus în cer sunt bucurii
+Unde eu doresc a fi
+Cântări şi melodii
+Cântate de mii şi mii.
+
+[s2]
+Spre Tine-aş vrea să plec,
+cămin ceresc şi sfânt
+Cu-aleşii Tăi iubiţi
+ce luptă pe Pământ.
+Şi spre jertfa de sus,
+spre Domnul Isus
+Ce-n chin pe Golgota
+a strigat : <S-a sfârşit !>
+
+[s3]
+O, Doamne, ţine-mă
+pe braţul Tău iubit
+Ca ne-ncetat să-Ţi cânt
+cât voi fi pe Pământ.
+Iar când Satan
+ar vrea să fure pacea mea
+Ajută-mă, Te rog, să-i spun :
+<,Napoia mea !>
+
+[s4]
+Isuse, cât voi sta
+pe-acest Pământ străin
+Nu mă lăsa, Te rog,
+să cad de obosit.
+În luptă şi-n dureri,
+privirea să mi-o ţii
+La Tine, Domnul meu,
+izvor de ape vii !
+
+[s5]
+În ţara cea de sus,
+la râul de cristal
+La masă când voi sta
+cu Tine şi Avraam
+Uita-voi de dureri
+ce-n lume-am pătimit
+Şi Ţie-Ţi voi cânta!
+Tată, fii preamărit!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

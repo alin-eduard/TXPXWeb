@@ -1,0 +1,32 @@
+[s1]
+Călator străin din lume,
+Azi te chem să te întorci!
+Lasă soarta care-Ţi spune:
+“Să amâi…acum nu poţi…”
+
+[r1]
+Ziua-I pe sfârşite, amice,
+Noaptea în curând va veni;
+Isus, pe neaşteptate, vine!
+Pierdut, pe veci, atunci vei fi!
+
+[s2]
+Călător ce eşti azi, frate,
+Vezi, de eşti cu-adevarat!
+Într-o zi o să se-arate
+Tot pe faţă ce-ai lucret.
+
+[s3]
+Călătorule, mai rabdă!
+Toate vor avea sfârşit.
+Încă Domnul te îndeamnă;
+N-o să-I spui: “N-am auzit!...”
+
+[s4]
+Călător pribeag din vale,
+Dacă nu vei asculta,
+Va veni o zi de jale…
+Cu lacrimi, vei regreta.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

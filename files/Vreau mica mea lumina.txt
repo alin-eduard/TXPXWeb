@@ -1,0 +1,20 @@
+[s1]
+1
+/: Vreau ca mica mea
+lumină liberă să strălucesti :/
+Tot mai viu, mai viu să lucesti !
+
+[s2]
+2
+/: Sub obroc ascunsă,
+Nu, nu vreau să te tin :/
+Ci mai viu, mai viu să lucesti !
+
+[s3]
+3
+/: Si suflarea rea
+Nu vreau să te stingă :/
+Ci mai viu, mai viu să lucesti !
+
+[order]
+s1,s2,s3

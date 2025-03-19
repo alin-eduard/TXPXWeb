@@ -1,0 +1,26 @@
+[s1]
+Opreşte-te pe drum,
+intoarce-te acum
+Şi vezi ce mult bine ţi-a făcut!
+De cîte ori ai spus:
+<Îţi mulţumesc, Isus!
+Te laud, Te laud, Domnul meu!> ?
+
+[r1]
+Laudă-L mereu pe Isus, Domnul tău!
+În dar tot tu-ai primit, căci te-a iubit!
+Tot ce-a promis va fi,
+curînd se va-mplini
+Tu doar să-I mulţumeşti,
+să-L lauzi şi să-L slujeşti!
+
+[s2]
+Munţi, ape, păsări, nori
+Îl laudă pe Creator
+Se-nchină şi Lui Îi slujesc.
+De vrei să faci ceva să-I placă,
+nu uita
+Să-L lauzi, spune-I : <Te iubesc !>
+
+[order]
+s1,r1,s2,r1

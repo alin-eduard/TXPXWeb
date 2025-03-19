@@ -1,0 +1,63 @@
+[s1]
+2175
+1. Vine ziua fericită,
+vine ziua mult dorită
+Când din nou ne-om întâlni
+Vine ziua asteptată,
+Vine ziua mult visată
+Când cu Dumnezeu vom fi.
+
+[s2]
+Ne-om vedea în ziua mare,
+Ne-om vedea la sărbătoare,
+Ne-om vedea la răpire
+Pământul vom lăsa,
+Ca şi gândul vom zbura
+În ţara unde-i nemurire.
+
+[s3]
+Cor 1: /: O, ce sfinte bucurii
+vom avea în veşnicii
+Pe Domnul vom vedea,
+spre slava Lui vom cânta
+În veci cu El ne-om bucura :/.
+
+[s4]
+2. Vine ziua fericită,
+Vine ziua mult dorită
+Când de aicea vom pleca
+Vine ziua aşteptată,
+Vine ziua mult visată
+Când spre cer ne-om îndrepta
+
+[s5]
+Va fi un singur Domnitor,
+Va fi o turmă şi-un Păstor,
+Isus Hristos va-mpărăţi
+În ziua glorioasă
+Vom sta cu El la masă,
+Iar El pe toţi ne va servi.
+
+[r1]
+Cor 2: /:Vino, Doamne Te aşteptăm, Vino, Doamne azi Te chemăm
+Vino, Doamne e dorul sublim Veşnicia cu Tine s-o petrecem(1) Veşnicia cu Tine să fim (2) :/.
+
+[s6]
+3. I-aproape venirea
+Lui Isus Hristos
+Când va lua pe-ai Săi
+De pe pământ
+Mireasa aşteaptă
+Pe Mirele iubit,
+O, Doamne, vino mai curând.
+
+[s7]
+Semnele ne spun
+că Domnul va veni,
+se va-mplini
+al Domnului cuvânt
+Isus Hristos e gata să revină,
+o, Doamne, vino, mai curând.
+
+[order]
+s1,s2,s3,s4,s5,r1,s6,s7,r1

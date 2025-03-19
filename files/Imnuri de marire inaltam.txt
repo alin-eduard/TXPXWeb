@@ -1,0 +1,32 @@
+[s1]
+Imnuri de mărire înălţăm
+Domnului ce ne-a răscumpărat
+Pentru îndurarea Lui,
+lăudăm Numele Lui
+Lăudăm Numele Lui !
+Ne-a salvat prin har, ce minunat !
+Bucurii, speranţă El ne-a dat
+Pentru bunătatea Lui,
+lăudăm Numele Lui
+Lăudăm Numele Lui !
+
+[r1]
+Cîntaţi-I glorie, toţi în sfinţenie
+Toate popoarele să se-nchine Domnului !
+Cîntaţi-I glorie, toţi în sfinţenie
+Toate popoarele să se-nchine Domnului !
+
+[s2]
+Prin iubirea Lui ne-a mîntuit
+Har şi pace-n inimă-am primit
+Să lăudăm Numele Lui,
+iubirea Domnului
+Iubirea Domnului !
+Tot Pămîntul să se-nchine Lui
+Să slăvească-n veci Numele-I sfînt
+Mulţumindu-I ne-ncetat
+de tot ce El ne-a dat
+Prin marea milă-a Lui !
+
+[order]
+s1,r1,s2,r1

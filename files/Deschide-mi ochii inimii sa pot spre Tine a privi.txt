@@ -1,0 +1,26 @@
+[s1]
+Deschide-mi ochii inimii
+Sa pot spre Tine a privi
+Sa nu ma uit la lumea rea
+Ci sa privesc la fata Ta
+
+[s2]
+Domnul meu, atat de mult m-ai iubit
+Ca la golgota pe o cruce ai murit
+In orice zi ma iubesti cu-adevarat
+De-aceea vreau sa te urmez neîncetat
+
+[s3]
+Privirea Ta e-atat de blanda
+Inviorare imi aduce,
+/: Pe fata Ta zăresc iubire
+Îmi umpli viata de fericire :/
+
+[s4]
+Domnul meu, atat de mult m-ai iubit
+Ca la golgota pe o cruce ai murit
+In orice zii ma iubesti cu-adevarat
+De-aceea vreau sa te urmez neincetat
+
+[order]
+s1,s2,s3,s4

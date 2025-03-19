@@ -1,0 +1,31 @@
+[s1]
+804.     										  Fa
+1. Iată că vine Isus pe alb nor
+Cu slavă mare de Judecător
+Îngeri-n juru-I
+Se strâng zeci de mii
+Să ia la ceruri pe-ai
+Domnului fii.
+
+[r1]
+Cor:
+Iată-L pe nori, vine pe nori
+Cum te găseşte pe tine?
+Iată-L pe nori, vine pe nori
+Cum mă găseşte pe mine?
+
+[s2]
+2. Jale şi bocet şi plânset amar
+Lacrimi şi zbucium
+Dar toate-n zadar
+Timpul de milă prea mult neglijat
+Este de-acuma pe veci terminat.
+
+[s3]
+3. Anul şi ziua şi luna-au trecut
+Ultima oră de milă iar tu
+Mâine, tot mâine mereu amânând.
+Până când moartea nu te va cruţa
+
+[order]
+s1,r1,s2,r1,s3,r1

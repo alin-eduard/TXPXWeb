@@ -1,0 +1,29 @@
+[s1]
+În prezenţa Ta,
+O Doamne, e pace
+În prezenţa Ta,
+O Doamne, e linişte
+În prezenţa Ta,
+O Doamne-mi dai putere
+Ca să trec prin încercare mai uşor
+
+[r1]
+Domnul meu,
+mă-ncred în Tine
+Tu eşti stânca mea
+şi ajutorul meu
+Domnul meu,
+te am numai pe Tine
+Doamne eşti al meu
+şi eu sunt tot al Tău
+
+[s2]
+Doamne fă-mă
+în prezenţa Ta să intru
+Doamne fă-mă
+să iubesc prezenţa Ta
+Vreau de-acuma numai Ţie
+Şi prezenţei Tale glorie să-I dau
+
+[order]
+s1,r1,s2,r1

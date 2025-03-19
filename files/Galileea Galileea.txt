@@ -1,0 +1,20 @@
+[s1]
+Galileea, Galileea,
+Locul cel de mărturie,
+Unde Domnul nost’ învăţa,
+Aicea jos, pe marea ta.
+
+[r1]
+Galileea, Galileea,
+Numele tău, în tot locul
+Rămâne de amintire,
+Până luceşte soarele.
+
+[s2]
+Odată pe marea-ţi umbla
+Salvatorul şi învăţa.
+El grăia şi Îl asculta
+La cuvântul Lui s-alina.
+
+[order]
+s1,r1,s2,r1

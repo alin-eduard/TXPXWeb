@@ -1,0 +1,32 @@
+[s1]
+Intoarcete-te, din calea larga
+Pe calea stranta-a lui Isus,
+Acum, cand norii negrii parca
+Ne prevestesc urgii de sus.
+
+[r1]
+Acum, te-ntoarce si nu maine!
+Isus va reveni-n curand…
+De ce nu vii, din cai straine,
+La Tatal ce etern e sfant?
+
+[s2]
+Intoarcete-te, cat sanatatea
+O ai, si poti sa te jertfesti
+Sa poti vesti din plinatatea
+Comorilor de slavi ceresti…
+
+[s3]
+Intoarce-Te cat anii fragezi
+Iti dau tarie ca sa vii;
+Pan’ nu-ti ajung obrajii umezi,
+De lacrimi grele si tarzii…
+
+[s4]
+Intoarce-te, pan’ nu se-nchide
+Fereastra ochilor tai reci…
+Dar numai tu, te poti decide,
+De vei sa fii salvat, pe veci…
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

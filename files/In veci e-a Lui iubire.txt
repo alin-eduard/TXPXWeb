@@ -1,0 +1,39 @@
+[s1]
+Aduce-ti ca jertfa multumiri
+In veci e-a Lui iubire
+El stapaneste peste-ntreg pamant
+In veci e-a Lui iubire
+/:Cantati laude:/
+
+[s2]
+In ascultare El ne-a condus
+In veci e-a Lui iubire
+In El e viata cea de sus
+In veci e-a Lui iubire
+/:Cantati laude:/
+
+[r1]
+/:In veci El e puternic
+In veci e credincios
+In veci cu noi ramane
+In veci, de veci in veci:/
+
+[s3]
+Din zorii zilei pana la apus
+In veci e-a Lui iubire
+Turna-vom mesajul iubirii de sus
+In veci e-a Lui iubire
+/:Cantati laude:/
+
+[s4]
+/:In veci e-a Lui iubire:/(x3)
+
+[s5]
+/:In veci El e puternic
+In veci e credincios
+In veci cu noi ramane
+In veci, de veci
+In veci:/
+
+[order]
+s1,s2,r1,s3,r1,s4,s5

@@ -1,0 +1,33 @@
+[s1]
+Cor:	El poate, El poate
+Eu ştiu că poate
+Eu ştiu că Domnul
+Poate-a mă duce-n cer.
+702.								  La
+
+[s2]
+1.	El inimi vindecat-a,
+Pe robi eliberând,
+A dat vedere orbilor
+Bolnavii vindecând.
+
+[r1]
+Cor:	El poate, El poate
+Eu ştiu că poate
+Eu ştiu că Domnul
+Poate-a mă duce-n cer.
+
+[s3]
+2.	A dat la ai Săi putere
+Să fie martori vii
+Prin Duhul Său cel Sfânt
+Le-a dat şi multe bucurii.
+
+[s4]
+3.	Deci suflete, grăbeşte
+Şi vino la Isus
+Căci bunul Tău păstor, Isus
+Te duce-n ceruri sus.
+
+[order]
+s1,s2,r1,s3,r1,s4,r1

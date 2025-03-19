@@ -1,0 +1,51 @@
+[s1]
+2197
+1. Cât de frumos te laudă natura
+Cu păsărelele în cântul lor
+Cu pomii falnici legănând întruna
+/: Și Te slăvesc pe Tine Creator :/
+
+[s2]
+2. Când râuri mari din
+apele întinse
+De pe pământ și tot ce e pe cer
+Te laudă tot cu atâta înduioșare
+/: Căci Tu le ții în picioare și
+nu pier :/
+
+[s3]
+3. Dar iată acum o inimă sărmană
+Se pleacă în față umilitor
+Căci m-ai făcut cu
+atâta bucurie
+/: Dorind Isus ca veșnic
+să Te-ador :/
+
+[s4]
+4. Când nu eram încă Isus
+pe lume
+În cartea Ta mi-ai scris cât
+să trăiesc
+Când nu eram decât un plod făr′ nume
+/: Tu mă vedeai în taină
+Domn ceresc :/
+
+[s5]
+5. Ce nepătruns îmi par a
+Tale gânduri
+Mai multe sunt ca boabele
+de grâu
+Și-aș vrea acum să-ncep să
+le număr
+/: Mai multe sunt ca pietrele din râu :/
+
+[s6]
+6. În gândul Tău Tu mi-ai cuprins viața
+Dorind ca bunătatea să-mi arați
+Și apoi odată în cerul Tău
+din slavă
+/: Din moștenirea Ta Tu
+să-mi împarți :/.
+
+[order]
+s1,s2,s3,s4,s5,s6

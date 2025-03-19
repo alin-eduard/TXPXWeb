@@ -1,0 +1,32 @@
+[s1]
+Doamne Imparate inaintea Ta
+Ne plecam genunchii nostri acuma
+/:O, Doamne Isuse Tie ne rugam
+Sa ne-auzi Tu Doamne cand noi Te chemam:/
+
+[s2]
+O lumina lumii care luminezi
+Inimele noastre sa le indreptezi
+/:Primeste-ne Doamne, o Isuse dulce
+Cum ai primit pe talharul de pe cruce:/
+
+[s3]
+Sa ne speli Isuse de-al nostru pacat
+Cu scump sangele ce-ti l-ai varsat
+/:Pe crucea Golgotei cand Te-au rastignit
+O, Isuse dulce Tu ne-ai mantuit:/
+
+[s4]
+Primeste-ne Doamne inaintea Ta
+Ca si pacatoasa care se ruga
+/:Cu lacrimi picioarele-ti le uda
+Si cu parul capului Ti le stergea:/
+
+[s5]
+Lacrimile noastre care izvorasc
+Sa le-nalti Isuse la Tatal ceresc
+/:Sa ne-n vrednicesti ai Tai copii sa fim
+Mai mult pacatului sa nu mai slujim:/
+
+[order]
+s1,s2,s3,s4,s5

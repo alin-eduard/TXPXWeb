@@ -1,0 +1,26 @@
+[s1]
+Eu am pornit pe acest drum
+Să Te las nu vreau nicicum !
+Eu am pornit pe calea Ta
+Să rătăcesc nu mă lăsa !
+
+[r1]
+/: O, Isus, Tu m-ai iubit
+De-aceea la mine ai venit
+Din nimic m-ai ridicat
+Harul Tău mi l-ai dat ! :/
+
+[s2]
+Tu eşti al meu Stăpînitor
+Eu robul Tău doresc să fiu
+Inima mea Ţi-o dăruiesc
+Şi vreau pe veci să Te slăvesc
+
+[s3]
+Tu m-ai primit, m-ai ajutat
+De viaţa mea Te-ai îndurat.
+Îţi mulţumesc că m-ai iubit
+Îţi mulţumesc că m-ai primit!
+
+[order]
+s1,r1,s2,r1,s3,r1

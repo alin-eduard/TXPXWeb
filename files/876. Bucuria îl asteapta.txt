@@ -1,0 +1,45 @@
+[s1]
+876.
+1. Bucuria îl aşteaptă
+Pe cel ce umblă-n calea dreaptă
+Bucuria nesfârşită
+Pentru dânşii-îi pregătită.
+
+[s2]
+2. Sus în cer la masa sfântă
+Unde mii de îngeri cântă
+Ei se bucură cântând
+Lăudând pe Domnul Sfânt.
+
+[s3]
+3. Şi ei prin cântarea lor
+Întreabă pe Creator
+Când ne împlineşti Tu dorul
+Când Îţi vei chema poporul?
+
+[s4]
+4. În curând, zice Cel Sfânt
+Îl adun de pe pământ
+Unii M-aşteaptă zicând:
+”Vino Doamne mai curând.”
+
+[s5]
+5.  Şi ne ia la Tine-acasă
+Căci durerea ne apasă
+Jos în valea plângerii
+Nu mai putem suferi.
+
+[s6]
+6.  Unii Îmi opresc venirea
+Că li s-a răcit iubirea
+Ei se rătăcesc zicând:
+”Nu lucrează Duhul Sfânt.”
+
+[s7]
+7.Şi-aşteaptă c-or merge acasă
+Dar să lucrez nu Mă lasă
+Ah, suflete, te întoarce
+Şi răni în trup nu-mi mai face.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

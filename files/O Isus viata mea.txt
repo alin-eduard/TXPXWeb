@@ -1,0 +1,26 @@
+[s1]
+O, Isus, viaţa mea,
+Ce plăcută e prezenţa Ta,
+Înspre culmile cereşti
+Cu iubirea Ta mă însoţeşti!
+
+[r1]
+Domnul meu, mă condu
+Şi pe drum cu mine fii,
+Mai aproape, zi de zi,
+Până când la Tine voi sosi!
+
+[s2]
+Pe-al meu drum obositor
+Tu îmi eşti mereu al meu Păstor.
+Sigur calea n-o greşesc,
+Ale Tale mâini mă ocrotesc!
+
+[s3]
+Ţie-Ţi dau azi inima
+Ca să locuieşti pe veci în ea.
+Voi urma al Tău cuvânt
+Cât voi fi, Isuse, pe pământ!
+
+[order]
+s1,r1,s2,r1,s3,r1

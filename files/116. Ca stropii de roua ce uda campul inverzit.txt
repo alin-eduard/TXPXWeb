@@ -1,0 +1,43 @@
+[s1]
+1. Ca stropii de rouă
+Ce udă câmpul înverzit,
+Ca norii din văzduh
+Ce-aleargă necontenit,
+Ca raza de soare
+Ce umple văzduhul mereu,
+/: Doresc Isuse
+Să umpli şi sufletul meu. :/
+116.                          				   		        Fa
+
+[s2]
+2. Cum cerbul doreşte
+Izvorul cristalin,
+Cum râul zoreşte,
+Aleargă spumegând,
+Alerg şi eu Doamne
+Cu un dor mai sublim,
+/: Să-mi dai din apa
+Ce curge din tronul divin. :/
+
+[s3]
+3. Cum stelele noaptea
+Pe cer eu le zăresc,
+Oricât le-aş privi,
+Frumos ele strălucesc.
+Priveşte, Isuse, azi
+Spre fiinţa mea,
+/: Vino şi fă-mă
+Să strălucesc ca o stea. :/
+
+[s4]
+4. Nu pot găsi un loc
+Mai bun şi mai frumos,
+Decât lângă Domnul
+Să fiu mereu voios.
+La Tine e harul,
+La Tine e pacea!
+/: Toţi cei ce vin
+La Tine s-or repauza ! :/
+
+[order]
+s1,s2,s3,s4

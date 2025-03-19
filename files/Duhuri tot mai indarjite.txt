@@ -1,0 +1,32 @@
+[s1]
+Duhuri tot mai indarjite
+Si mai tainic navalesc,
+/: Doamne, peste mine-ntruna,
+Cu cat vreau ca sa-Ti slujesc... :/
+
+[r1]
+/: Dar Tu-mi esti,
+Tu-mi esti, in greu,
+Izbavirea mea,
+izbavirea mea, mereu! :/
+
+[s2]
+Tot mai mult imi vin ispite
+Si furtunile mai mult,
+/: Doamne, vor sa ma doboare,
+Cu cat vreau sa Te ascult. :/
+
+[s3]
+Lupte-s tot mai multe-n cale
+Si mai tainic se ascund,
+/: Doamne, mersul sa mi-l curme
+Cu cat vreau sa Te patrund... :/
+
+[s4]
+Dar Tu-mi spui sa am credinta
+Inspre Tine, necurmat!...
+/: Doamne, dar si daru-acesta
+Tot din Tine-mi este dat... :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,38 @@
+[s1]
+În ţara sfânta Israel
+De doua mii de ani Mesia
+Născut în sat la Betleem
+Cum a vestit de mult Isaia
+
+[s2]
+E Domn al păcii împărat
+Dumnezeu tare minunat
+Părinte-al veşniciilor
+Cum a prezis Isaia
+
+[s3]
+Din casă-n casă a umblat
+În Betleem atunci Maria
+Un loc niciunde n-a aflat
+Să-L nască pe sfântul Mesia
+
+[s4]
+Afară-n staul într-un grajd
+Al lumii veşnic împărat
+Veni la noi umil, sărman
+S-aduca mântuirea
+
+[s5]
+Răsuna iar acum sub geam
+Colindul sfânt bună vestire
+El va rămâne an de an
+Mereu, mereu în amintire
+
+[s6]
+Veniţi cântaţi acum cu noi
+Cântaţi căci azi şi pentru voi
+El s-a născut în Betleem
+Precum a profetit Isaia!
+
+[order]
+s1,s2,s3,s4,s5,s6

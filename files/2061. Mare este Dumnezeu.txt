@@ -1,0 +1,42 @@
+[s1]
+2061    Re
+1. /: Mare e Dumnezeu :/
+Mare și puternic
+De iubire vrednic
+Mare este Domnul meu.
+
+[s2]
+2. /:Mare e Domnul meu:/
+Plin de bunătate
+Gata de iertare
+Mare este Domnul meu.
+
+[s3]
+3. /: Ce mare-i,Domnul meu:/
+Plin de bunătate
+Și bogat în toate
+Mare este Domnul meu.
+
+[s4]
+4. /: Ce mare-i domnul    meu :/
+Plin de blândețe
+Har și frumusețe
+Mare este Domnul meu.
+
+[s5]
+5. /:Ce mare-i Domnul meu:/
+Medic fără plată
+Dumnezeu și Tată
+Acesta-i Domnul meu
+Mută chiar și munții
+Înviază morții
+Acesta-i Dumnezeu.
+
+[s6]
+6. /: Acesta-i Dumnezeu :/
+Vrednic de închinare
+Și de ascultare
+Acesta-i Dumnezeu.
+
+[order]
+s1,s2,s3,s4,s5,s6

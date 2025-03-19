@@ -1,0 +1,75 @@
+[s1]
+1. Bunule Părinte
+Vin plângând la Tine
+Te-am dispreţuit mult
+Alergând în lume
+185.
+
+[s2]
+În braţele Tale
+Pline de-ndurare
+Vin ceresc Părinte
+Cerându-ţi iertare.
+
+[s3]
+2. Vin de la întuneric
+Din lumea stricată
+Prăbuşită-n rele
+Plină de păcate
+
+[s4]
+Spinii Te-au rănit,
+Sângele Ţi-a curs
+Primeşte-mă Doamne
+Scumpul meu Isus.
+
+[s5]
+3. N-am găsit în lume
+Un loc de odihnă
+Sufletul mă doare
+Fără vindecare
+
+[s6]
+Am găsit o cale
+Ce mă duce acasă
+Vindecă-mă Tată
+Plin de îndurare.
+
+[s7]
+4. Nu sunt vrednic
+Ca să te numesc Părinte
+Te-am dispreţuit
+Mult alergând în lume
+
+[s8]
+Lasă-mă ca slugă
+Să rămân la Tine
+Fericirea îmi va fi
+Pentru veşnicie.
+
+[s9]
+5. Mă gândesc Isuse
+C-ai răbdat pe cruce
+Iar eu în păcate
+N-am ştiut de Tine
+
+[s10]
+Iartă-mi Tu Isuse
+Vina mea cea mare
+Fie-ţi milă Doamne
+Plin de îndurare.
+
+[s11]
+6. Lacrimi de căinţă
+Ochi-mi varsă iar
+Inima în mine
+Prinde să mă doară
+
+[s12]
+Ah de ce Isuse,
+Nu Te-am cunoscut
+Eu mai dinainte
+Să te fi slujit.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12

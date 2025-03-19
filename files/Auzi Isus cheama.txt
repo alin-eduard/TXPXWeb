@@ -1,0 +1,44 @@
+[s1]
+Auzi, Isus cheamă pe cei întristaţi:
+"Veniţi toţi la Mine, voi împovăraţi,
+Veniţi toţi căci Eu odihnă azi vă dau
+Şi toată grija voastră voiesc s-o iau !"
+
+[s2]
+Veniţi cu toţi, gustaţi odihna,
+Luaţi cu toţi jugul şi sarcina mea !
+Jugul Meu este bun, la fel şi sarcina’
+Vino, dar, acuma în odihna Sa !
+
+[s3]
+Eşti tu-mpovărat şi umbli disperat,
+Fiind apăsat, de grijuri încărcat
+În tine se luptă simţuri de păcat…
+Spune-I azi lui Isus şi vei fi salvat.
+
+[s4]
+Veniţi cu toţi, gustaţi odihna,
+Luaţi cu toţi jugul şi sarcina mea !
+Jugul Meu este bun, la fel şi sarcina
+Vino, dar, acuma în odihna Sa !
+
+[s5]
+Umbli tu în neguri rele de păcat,
+Mergând către iadul cel înflăcărat?
+De păcat, de diavol ai ajuns răpus?
+Vezi, Isus te cheamă să-ţi dea repaus.
+
+[r1]
+Veniţi cu toţi, gustaţi odihna,
+Luaţi cu toţi jugul şi sarcina mea !
+Jugul Meu este bun, la fel şi sarcina
+Vino, dar, acuma şi odihna Sa !
+
+[s6]
+Eşti din nou de lume astăzi biruit,
+Slăbiciunea iarăşi te-a neliniştit ?
+Isus te-ntăreşte şi sângele Său
+Scut va fi întruna pe tot drumul tău.
+
+[order]
+s1,s2,s3,s4,s5,r1,s6,r1

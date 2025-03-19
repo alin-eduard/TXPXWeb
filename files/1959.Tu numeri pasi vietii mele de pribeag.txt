@@ -1,0 +1,36 @@
+[s1]
+1959      Re m
+1. Tu numeri pași vieții mele de pribeag
+Pe-acest pământ pe-acest meleag
+Și lacrimile ce-au prelins pe-obrazul meu
+Sunt strânse și-adunate n-cerul Tău
+/: O Doamne ori de câte ori mă tem
+Eu mă încred în Tine
+Eu mă încred și Te voi lăuda mereu
+Căci ești mereu cu mine :/.
+
+[s2]
+2. Eu trag nădejde c-am să scap
+De tot ce-i greu
+Și-acolo-n cer la Tine
+Nu voi avea nimic din ce
+Aici a fost greu
+Nici lacrimi nici suspine
+/: Ce pot să-mi facă niște oameni
+Ce nu te știu pe Tine
+Cât de milos și cât de bun
+Ai fost Isus cu mine :/.
+
+[s3]
+3. Căci de la moarte sufletul
+Tu mi-ai scăpat
+Și-ai pus nădejde-n mine
+Și de cădere și de groază m-ai ferit
+Să umblu doar cu Tine
+/: Căci pașii vieții mele de pribeag
+Eu vreau să-i port cu Tine
+Și tot umblând așa cu Tine tot mereu
+S-ajung în cer la Tine :/.
+
+[order]
+s1,s2,s3

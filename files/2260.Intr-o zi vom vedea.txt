@@ -1,0 +1,28 @@
+[s1]
+1.
+/:Într-o zi vom vedea:/Cu toti ce-am zidit,
+Când orișice lucrare,avea-va un sfârșit.
+/:Pe paie sau vant:/Aur sau argint,
+În ziua aceea,vom vedea deslușit.
+
+[r1]
+/:Domnul mă știe pe mine
+Domnul te știe pe tine
+Domnul ne știe pe toti ce- am lucrat
+Din dragoste pentru El:/
+
+[s2]
+2.
+/:Se va arăta:/ Tot ce ai lucrat,
+Și pentru ce comoară,aici tu ai luptat.
+/:Căci focul va arde:/ în tot ce e firesc,
+Doar aurul rămâne, ce nu e pământesc.
+
+[s3]
+/:De aceea să știi:/ca răsplata va fi
+Pentru cei ce au zidit ,cu Isus au biruit.
+/:Nu s-au dat înapoi:/prin furtuni și nevoi
+Înainte au mers , ea nu s-a șters.
+
+[order]
+s1,r1,s2,r1,s3,r1

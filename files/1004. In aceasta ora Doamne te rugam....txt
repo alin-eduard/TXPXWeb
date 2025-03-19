@@ -1,0 +1,39 @@
+[s1]
+În această oră
+Doamne, Te rugăm
+Să iei parte Tu cu noi
+Să ne-asculţi
+Când Te chemăm
+Şi Te lăudăm
+Vrem să fii în veci cu noi.
+1004.                                                      Mib m
+
+[r1]
+Cor:
+/: Să nu ne laşi părăsiţi nicicând
+Căci noi trăim cu Tine-n gând
+Doar pe Tine Te avem
+Şi-n Tine ne-ncredem
+Tu eşti al nostru Mântuitor,
+Minunat şi bun Păstor
+Doar cu Tine vrem să fim
+În veci, Amin :/
+
+[s2]
+2.Când necazuri mari apar
+În viaţa mea,
+N-am pe nimeni ajutor
+Doar în Tine pururea
+Să ne încredem,
+Veşnice Ocrotitor.
+
+[s3]
+3.Dar acuma, Doamne,
+Noi Îţi mulţumim
+Pentru bunătatea Ta
+Pentru dragostea dintâi
+Şi iubirea Ta
+Vrem în veci să-Ţi mulţumim.
+
+[order]
+s1,r1,s2,r1,s3,r1

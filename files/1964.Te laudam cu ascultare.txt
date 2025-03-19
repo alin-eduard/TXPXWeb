@@ -1,0 +1,28 @@
+[s1]
+1. Te lăudăm cu ascultare
+Şi-n cânt o Doamne te-nălţăm
+Căci nici o jertfă cât de mare
+Tu nu primeşti când n-ascultăm.
+1964.                  Mi
+
+[r1]
+Cor: Când Te-ascultăm
+Te lăudăm
+Şi dovedim că Te iubim
+/:Când tot ce-ai spus :/
+Noi împlinim
+
+[s2]
+2. Te lăudăm şi-ţi dăm iubire
+Când Te-ascultăm cu-n duh smerit
+Căci Domne nu primeşti cinstire
+Când nu-mplinim ce-ai poruncit.
+
+[s3]
+3. Te lăudăm cu adevăr
+Când ascultarea-i adevăr
+Ascultătorii intră-n ceruri
+În care cei intraţi nu per.
+
+[order]
+s1,r1,s2,r1,s3,r1

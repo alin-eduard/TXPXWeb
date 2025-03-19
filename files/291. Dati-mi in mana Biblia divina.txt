@@ -1,0 +1,27 @@
+[s1]
+1.  Daţi-mi în mână Biblia cea sfântă
+Altă carte asemenea ei nu-i
+Ea stâmpără durerea şi-o alină
+Şi mă-nvaţă să fac voia Lui.
+291.
+
+[r1]
+Cor: Las’să lucească raza ei cea sfântă
+În tot locul aici pe-acest pământ,
+Ca toţi aceia cu inima frântă
+Să se întoarcă la Domnul cel Sfânt.
+
+[s2]
+2. Daţi-mi în mână Biblia divină
+Ea dă odihnă celor osteniţi,
+În necaz mângâie a mea inimă
+Vindecă boale şi-orice suferinţi.
+
+[s3]
+3. Daţi-mi în mână Biblia divină,
+În ea se află viaţa lui Isus;
+Ea ne arată cum El o să vină
+Ca să ne ducă cu El în cer sus.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,20 @@
+[s1]
+Mărire Ţie Isuse
+/ Cel ce ai înviat /X2
+Al tău popor Te măreşte.
+Căci L-ai răscumpărat.x3
+
+[s2]
+Soare frumos al dreptăţii.
+/ Măreţ ni Te iveşti /X2
+Cel ce alungi noaptea morţii.
+Acum Tu străluceşti.x3
+
+[s3]
+Doamne odată Te-om vedea.
+/ Pe tronul Tău regesc /X2
+Şi-n haine albe Te-om lăuda
+Cu corul cel ceresc. x3
+
+[order]
+s1,s2,s3

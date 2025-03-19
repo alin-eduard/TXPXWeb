@@ -1,0 +1,35 @@
+[r1]
+Spune mereu, spune mereu
+Domnul te iubeşte!
+Spune mereu, spune mereu
+Vestea răspîndeşte!
+Spune mereu, spune mereu
+Astăzi mai este har!
+Veşnică pace primeşti azi în dar!
+
+[s1]
+Eşti astăzi păcătos, dar nu uita
+Plătită e a ta vină.
+În locul tău Hristos la Golgota
+A murit ca tu să fii iertat, iertat.
+
+[s2]
+Te-ntrebi mereu şi zici: Oare-i aşa ?
+Să fiu eu iertat de păcat?
+Să ştii că-n locul tău muri Cel Sfînt
+Isus a plătit şi-al tău păcat, păcat.
+
+[s3]
+Satan cel mincinos îţi va şopti :
+<Iertarea nu-i pentru tine !>
+Dar tu, amicul meu, astăzi să ştii -
+Pentru păcătoşi muri Isus, Isus.
+
+[s4]
+Fă astăzi doar un pas către Isus
+Şi El îţi va-ntinde mîna!
+În raiul cel frumos tu vei fi dus
+Şi vei fi de-a pururi cu Isus, Isus.
+
+[order]
+r1,s1,r1,s2,r1,s3,r1,s4,r1

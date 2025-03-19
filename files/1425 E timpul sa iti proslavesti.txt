@@ -1,0 +1,47 @@
+[s1]
+1425.    Mi b
+E timpul să îţi proslăveşti
+Puterea ta cea vie
+Să vadă toţi că Tu domneşti
+Ca şi pe vremea lui Ilie
+/: Să-l proslăveşti pe Fiul Tău
+Şi a Ta putere mare
+Să vadă că eşti Dumnezeu
+Întreaga adunare:/
+
+[s2]
+E iar cuptor în Israel
+Şi-i arde greu văpaia
+Privind spre cer de pe Carmel
+Poporul Tău aşteaptă ploaia
+/: Un nor oricât de mititel
+S-aprindă-n piept fiorul
+Un chip curat de porumbel
+Să ude iar ogorul:/
+
+[s3]
+Să ardă iarăşi limbi de foc
+Ca şi la cincizecime
+Cum a vestit al tău prooroc
+O Doamne încă din vechime
+/:O inimă un duh şi un gând
+Copiii tăi să fie
+O flacără mereu arzând
+Ca rugul în pustie:/
+
+[s4]
+Te aşteaptă iar surori şi fraţi
+S-aduci ploaia târzie
+Suntem flămânzi şi însetaţi
+Cum mai demult era Ilie
+Dar nu vrem Doamne ca pe el
+Tot corbi să ne hrănească
+Ci vrem preasfântul porumbel
+Şi mana Ta cerească.
+Nu vrem să fim mânaţi de vânt
+Cei răi să ne vorbească
+Ci untdelemnul Duhului Sfânt
+Aici să se-nmulţească.                          Amin.
+
+[order]
+s1,s2,s3,s4

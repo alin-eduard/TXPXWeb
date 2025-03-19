@@ -1,0 +1,38 @@
+[s1]
+Bunule Păstor, Tu, singur
+În prăpăstii m-ai găsit;
+Rătăcit am fost, de turmă,
+Dar Tu, Doamne, ai venit…
+
+[r1]
+Ce iubire minunată
+La Tine, Doamne-am văzut!
+Toată viaţa, niciodată
+N-oi uita ce mi-ai făcut
+
+[s2]
+Ţi-auzeam vocea-ndurării
+Când prin codri mă chemai;
+Nu m-ai vrut lăsat uitării,
+De aceea mă căutai...
+
+[s3]
+Frânt, cu glasul fără vlagă,
+Răspundeam, dar n-auzeai...
+Tu plângeai oiţa dragă;
+Ţi-ai dat viaţa, tot ce-aveai...
+
+[s4]
+Dar m-ai regăsit în vale,
+Sus pe umeri m-ai ridicat;
+O, ce bucurie mare
+Am avut când Te-am urmat!
+
+[s5]
+Azi, când văd păstori pe dealuri
+Ce-şi duc turma la izvor
+Parcă Te zăresc pe Tine,
+Blând Păstor, o, blând Păstor...
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

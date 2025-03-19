@@ -1,0 +1,56 @@
+[s1]
+O, vin Isuse-al dragostei
+din ţara de departe
+Spre Tine eu mereu suspin
+când sunt pe înserate
+El noaptea-n viaţa tuturor
+şi mulţi tăciuni se sting şi mor
+Acum când inima de dor îmi arde.
+
+[s2]
+Acum eu merg pe-al vieţii drum
+nădejdea mea-i departe
+Şi nu pot înţelege-acum
+o lume mă desparte
+Te văd mereu ca într-un vis
+cu zâmbetul pe buze pus
+Dar eu spre Tine mă avânt Isuse.
+
+[s3]
+Te văd lumină care arzi
+şi luminezi pământul
+Şi schimbi privirea tuturor
+şi inima şi gândul
+Lumina cea din veşnicii
+ai tot aprins sute şi mii
+Umplând cu luminiţe vii pământul.
+
+[s4]
+O zi odată va veni
+vei fi stăpân pe toate
+Vei judeca şi vei plăti
+cu veşnica-ţi dreptate
+Dar din credinţa ce-o avem
+noi nu ne-abatem nici de fel
+Că Tu ne-ai dat atâta zel Isuse.
+
+[s5]
+Din ţara fără de hotar
+ne-aduci urări de bine
+Ca să-ţi cântăm cerescu-ţi har
+cântări de pace pline
+Căci azi în lume mulţi ar vrea
+să-ţi cânte-n veci cântarea Ta
+Ce mii de chinuri ar putea s-aline.
+
+[s6]
+Cu dor noi astăzi te chemăm
+Isuse dulce vino
+Să schimbi tu viaţa tuturor
+să faci din ea lumină
+Cu harul Tău dă-ne ajutor
+să biruim al lumii dor
+Că-n toate eşti biruitor Isuse.
+
+[order]
+s1,s2,s3,s4,s5,s6

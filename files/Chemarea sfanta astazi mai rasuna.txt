@@ -1,0 +1,30 @@
+[s1]
+Chemarea sfântă astăzi mai răsună
+Pentru-acei ce încă rătăcesc
+Aceiaşi milenară veste bună
+Ne cheamă la Părintele Ceresc
+
+[r1]
+Întoarce-te acuma
+chiar din vechiul vieţii drum
+Renunţă la păcatul tău
+şi vino chiar acum
+Pe drumul care duce
+către patria de sus
+Întoarce-te, întoarce-te
+şi vino la Isus
+
+[s2]
+De două mii de ani se tot vesteşte
+El moartea-n locul tău a suferit
+Întoarce-te, iertarea Lui primeşte
+Să fii pe veşnicie mântuit
+
+[s3]
+Chiar dacă azi a Domnului chemare
+Tot mai puţini o cred şi o primesc
+Gândeşte-te la propria-ţi salvare
+Şi-ntoarce-te la Mirele ceresc
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,49 @@
+[s1]
+1518.
+1. Ascultă popor iubit
+Să vă spun un mic cuvânt
+Căci va fi de folos mare
+Dacă veţi da ascultare.
+2. Sus în cer e pregătire
+Pentru scumpa întâlnire
+Care fi-va în curând
+Cine-i gata pe pământ.
+
+[s2]
+3. Mirele e pregătit
+Însă tu frate iubit
+Uite frate ce-ţi lipseşte
+Eu te rog te pocăieşte.
+4. Cu credinţa cum mai stai
+Duhul Sfânt ce crezi îl ai?
+Sau poate nu crezi întrânsul
+Dar să ştii că vine plânsul.
+
+[s3]
+5. Roadele Duhului Sfânt
+Numai la Golateni sunt
+Sau mai ai şi tu din ele
+Una sau două din ele.
+6. Ani de-a rândul poate ai stat
+Tu popor un lemn uscat
+Dar acuma dragă frate
+Nu-i de glumă mai departe.
+
+[s4]
+7. Căci e timp de libertate
+Să ne-ntoarcem din păcate
+De pe drumul rătăcit
+Din apus la răsărit.
+8. Timpul fuge se grăbeşte
+Biblia se împlineşte
+Toate merg înspre sfârşit
+Căci e timpul hotărât.
+
+[s5]
+9. Domnul spune în curând
+Iată că Eu vin curând
+Şi răsplata e cu mine
+Să plătesc cum se cuvine.
+
+[order]
+s1,s2,s3,s4,s5

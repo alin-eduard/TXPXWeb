@@ -1,0 +1,43 @@
+[s1]
+/: Fa un pas spre Isus :/
+Nu te lasa de valul lumii dus
+Inainteaza catre El
+Inainteaza catre Cer
+Mergi pe calea care duce-n cer.
+
+[s2]
+/: Se va sfarsi al tau amar
+Se va sfarsi al tau Calvar
+Zorile se vor ivi primavara va sosi
+Pomii iar vor inflori. :/
+
+[s3]
+/: Nu te lasa biruit :/
+Diavolul vrea sa fii zdrobit
+Puterea de la Dumnezeu
+Duhul Sfant, harul Sau
+E mai tare ca piatra celui rau
+
+[s4]
+/: Tu striga lauda Domnului
+Osana Cinste Mielului
+Diavolul va fugi
+Cu Isus vei izbuti, cu Isus vei birui. :/
+
+[s5]
+Nu te lega de pamant,
+Nu te lipi de praf si vant
+Leaga-te de cel ce este Sfant
+Strange untdelemn in vas
+Strange tot cea mai ramas
+Oare acesta e ultimul tau ceas.
+
+[s6]
+/: O ce splendori, ce bucurii
+Ce minunat atunci va fi
+Cerul se va despica
+Isus Hristos va cuvanta:
+“Vino-acasa sluga mea!” :/
+
+[order]
+s1,s2,s3,s4,s5,s6

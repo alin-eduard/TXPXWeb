@@ -1,0 +1,21 @@
+[s1]
+Mântuirea e a Domnului
+Ce-i aşezat pe tron
+Şi a mielului Sfânt
+Slava şi gloria, mulţumirea
+Onoarea, puterea şi cinstea
+
+[r1]
+/: Să-I fie a Lui
+Pentru totdeauna:/
+Amin, Amin.
+
+[s2]
+Iar noi, cei ai Lui stăm uniţi
+În gânduri, în scopuri
+Cu toţii declarând
+Slava şi gloria, mulţumirea
+Onoarea, puterea şi cinstea.
+
+[order]
+s1,r1,s2,r1

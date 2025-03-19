@@ -1,0 +1,29 @@
+[s1]
+Aş fi dorit să văd Eu
+Steaua Betleemului
+Si al inimii dar s-aduc
+‘Naitea Domnului
+
+[r1]
+Ai fi dorit şi tu acesta să o faci voios
+Adusa-i tu inima ta
+Predând-o lui Hristos
+Jertfa ta ca mărgăritar va fi
+Ca steaua frumos va străluci
+Adusa-i tu inima ta
+Predând-o lui Hristos
+
+[s2]
+Aş fi dorit să fiu şi eu
+La ieslele-acelea
+Inaintea lui Hristos
+Si eu a mă bucura
+
+[s3]
+Aş fi dorit de mii de ori
+Pe El a-l săruta,
+Pe-al meu Mântuitor
+Din inimă a-l saluta
+
+[order]
+s1,r1,s2,r1,s3,r1

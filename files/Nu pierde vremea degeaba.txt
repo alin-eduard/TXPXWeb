@@ -1,0 +1,38 @@
+[s1]
+Nu pierde vremea degeabă
+Când poţi astăzi a lucra
+Căci vine seara degrabă
+Să lucrezi nu-i mai putea
+
+[r1]
+/: Cât e ziuă lucră frate, soră
+Nici un ceas nu zăbovi
+Că venirea Lui e-aproape
+Timpul este spre sfârşit :/
+
+[s2]
+Să lucrezi nu pe ogoare
+Ci în via lui Isus
+Căci se apropie sfârşitul
+Şi atunci ce ai de spus
+
+[s3]
+Tu să nu-l refuzi pe Isus
+Care astăzi te-a chemat
+Să lucrezi cu toată râvna
+Că nu este timp de stat
+
+[s4]
+Dacă haina ţi-e pătată
+Poţi astăzi a o spăla
+În sângele Mielului Sfânt
+Care -a curs pe Golgota
+
+[s5]
+Se apropie sfârşitul
+Poate-i chiar la uşa ta
+Când suna-va deşteptarea
+Toţi cei morţi vor învia.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

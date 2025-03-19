@@ -1,0 +1,32 @@
+[s1]
+De dorul Tău, Isus iubit,
+În dragostea Ta arse,
+/: Şi inima spre Răsărit,
+Şi faţa ni-se întoarse. :/
+
+[s2]
+Isus, Isus noi Te-aşteaptăm
+Cum crinii-aşteaptă roua,
+/: Privind spre ceruri Te chemăm
+Cu mâinile-amândouă. :/
+
+[s3]
+Treci peste anii viitori,
+O, Mire drag, şi vino,
+/: Ne du mai sus, mai sus de nori,
+Spre ţara de lumină. :/
+
+[s4]
+Şi-n clipa când ni-i cununa
+Cu-a slavei Tale taine,
+/: Schimbaţi în chipul Tău ni-i da
+A păcii albe haine. :/
+
+[s5]
+Şi-Ţi vom cânta, Isus iubit,
+De drag o veşnicie,
+/: Că Te-am chemat si Te-am dorit
+Cum nimenea nu ştie. :/
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,57 @@
+[s1]
+1. 	Zis-a Domnul privegheaţi
+Şi pe Mire-L aşteptaţi
+Toţi cu candelele pline
+Că nu ştiţi ceasul când vine.
+722.
+
+[s2]
+2.	Miezul nopţii a sunat
+Mirele s-a arătat
+Şi cele zece fecioare
+Ies pentru întâmpinare.
+
+[s3]
+3.Cinci fecioare înţelepte
+Au ştiut cum să-L aştepte
+De ispită neînvinse
+Aveau candelele aprinse.
+
+[s4]
+4.Celelalte cinci fecioare
+Cu ispita-nşelătoare
+Valul lumii le-a cuprins
+Candelele li s-au stins.
+
+[s5]
+5.Iară Mirele voios
+De-al credinţei drag prinos
+Pe-nţelepte le-a primit
+În palatul strălucit.
+
+[s6]
+6.Iar pe cele ce-L uitară
+Le-a lăsat pe prag afară
+Ca să-şi ispăşească vina
+Şi să nu guste lumina.
+
+[s7]
+7.Tu cerescule Părinte
+Fă ca-n suflet şi în minte
+Să lucească al Tău îndemn
+Ca aprinsul untdelemn.
+
+[s8]
+8.Ca o candelă cerească
+Inima să înflorească
+Sfânt izvor de fapte bune
+Şi de-a Ta înţelepciune.
+
+[s9]
+9.	Să vestim între popoare
+A Ta sfântă îndurare
+Că din noapte şi din chin
+Ne înalţi spre cer senin.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

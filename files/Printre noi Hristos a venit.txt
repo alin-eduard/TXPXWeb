@@ -1,0 +1,25 @@
+[s1]
+Printre noi Hristos a venit
+Nimicind lucrarea celui rău
+Jertfa-I sfântă ne-a dezrobit
+Bucuroşi îi cântăm,
+domnia Sa proclamăm!
+
+[r1]
+A învins durerea!
+Aleluia, aleluia!
+A învins păcatul!
+Aleluia, aleluia!
+A învins moartea!
+Aleluia, aleluia!
+El e Domn peste tot!
+
+[s2]
+Vom domni prin Numele Lui,
+Prin puterea sângelui slăvit
+Vom vesti izbânda la toţi,
+Căci Mesia Cel Sfânt.
+puterea morţii a frânt !
+
+[order]
+s1,r1,s2,r1

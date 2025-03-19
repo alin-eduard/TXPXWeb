@@ -1,0 +1,23 @@
+[s1]
+Smerit vin azi la Tine
+Cuvîntul Tău doresc
+El să pătrundă-n mine
+Şi dorul să-mi aline
+Căci mult eu Te doresc.
+
+[s2]
+Umblat-am prin păcate
+Pe căi ce m-au atras
+Dar azi, sătul de toate
+Înfrînt de greutate
+,Nainte vreau să-Ţi ies.
+
+[s3]
+Iertare-mi dăruieşte
+Să pot fi mîntuit
+Şi fiinţa-mi curăţeşte
+Veşmîntul mi-l albeşte
+Şi fă-mă fericit.
+
+[order]
+s1,s2,s3

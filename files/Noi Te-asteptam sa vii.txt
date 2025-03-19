@@ -1,0 +1,20 @@
+[s1]
+Noi Te­-aşteptăm să vii,
+Cu slavă să revii,
+Isuse Domn, Emanuel,
+Noi Te­-aşteptăm să vii!
+
+[s2]
+Te vom întâmpina
+Şi slavă Îţi vom da,
+Isuse Domn, Emanuel,
+Te vom întâmpina!
+
+[s3]
+Ce fericiţi vom fi
+Cu Tine-n veşnicii,
+Isuse Domn, Emanuel,
+Ce fericiţi vom fi!
+
+[order]
+s1,s2,s3

@@ -1,0 +1,53 @@
+[s1]
+Cele mai frumoase
+Momente din viaţă
+Sunt atunci când
+Noi ne întâlnim
+Şi când lucrătorii din
+Cuvânt ne-nvaţă
+Cum pe Domnul ISUS
+Să ÎL slujim
+
+[r1]
+/: Noi ne bucurăm în cântare
+În rugăciune şi Cuvânt
+Domnul e prezent în adunare
+Şi ne bucurăm în Duhul Sfânt. :/
+
+[s2]
+Cea mai mare jertfă
+Este ascultarea
+De Cuvântul Domnului
+Cel sfânt,
+Să ne dăm slilinţa,
+Toată adunarea
+Ca să-L împlinim
+Pe-acest pământ.
+
+[s3]
+Cei care ascultă
+Ca si cei ce-nvaţă
+Să-mplinească după
+Cum e scris,
+Căci prin împlinire
+Vom avea viaţă
+Sus la Dumnezeu,
+În Paradis.
+
+[s4]
+Minunată, sfântă
+Și adevărată
+Este umplerea cu
+Duhul Sfânt,
+Astăzi o dă Domnul
+Ca și altă data
+S-avem biruinţă pe pământ.
+
+[s5]
+/: Noi ne bucurăm în cântare
+În rugăciune şi Cuvânt
+Domnul e prezent în adunare
+Şi ne bucurăm în Duhul Sfânt.  :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5

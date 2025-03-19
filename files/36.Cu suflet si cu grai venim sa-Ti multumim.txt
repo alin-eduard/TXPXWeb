@@ -1,0 +1,50 @@
+[s1]
+1. Cu suflet şi cu grai venim
+Să-Ţi mulţumim
+Căci ne-ai promis un rai
+Unde să ne-ntâlnim
+Si-un nume nou ne-ai dat;
+Ne-ai înălţat
+mai sus spre cerul minunat.
+36.
+
+[s2]
+/: Noi, tineretul Tău,
+Venim să-ţi mulţumim,
+Căci ne-ai scăpat de rău!
+Ce mult noi Te iubim :/
+
+[s3]
+2. Eram căzuţi şi noi
+În lumea de dureri,
+În suflet şi mai goi,
+Pe umeri cu poveri,
+Adesea frânţi şi trişti
+Salvare n-am aflat
+Dar Tu, Cel ce eşti viu
+Atuncea ne-ai scăpat
+
+[s4]
+/: Ne-ai ridicat de jos
+Cu drag Tu ne-ai primit
+Slăvit să fii, Hristos
+Căci Tu ne-ai dezrobit :/
+
+[s5]
+3. Credeam ades şi noi
+Căci viaţa e-aici jos;
+Umblam cu pumnii goi
+Tu ne-ai umplut, Hristos!
+Ne-ai dat tării de fier
+Si ne-ai făcut uniţi:
+Prin Tine, Miel junghiat,
+Noi suntem fericiţi!
+
+[s6]
+/: Ce bine ne simţim,
+Când Tu ne cercetezi!
+Să nu ne despărţim
+Am vrea, şi să lucrezi :/
+
+[order]
+s1,s2,s3,s4,s5,s6

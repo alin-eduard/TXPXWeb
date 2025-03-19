@@ -1,0 +1,26 @@
+[s1]
+Răscumpărătorul,
+Cel venit de sus,
+Scumpul nostru Miel, Mesia,
+E Hristos Isus.
+
+[r1]
+Mulţumim, o, Tată!
+Pe Fiul ni L-ai dat
+Şi Duhul cel Sfânt, în noi,
+Din plin a fost turnat.
+
+[s2]
+Răscumpărătorul,
+Pentru noi jertfit,
+Scumpul nostru Miel, Mesia,
+Fie preamărit.
+
+[s3]
+Când voi fi în slavă,
+Stând în faţa Sa,
+Veşnic pe slăvitul Rege,
+Îl voi lăuda.
+
+[order]
+s1,r1,s2,r1,s3,r1

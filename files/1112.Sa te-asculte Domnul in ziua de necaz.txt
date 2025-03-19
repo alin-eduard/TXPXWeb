@@ -1,0 +1,35 @@
+[s1]
+Psalmul:20             1112.
+Să te asculte Domnul în ziua de necaz
+Ocrotitoarea-I mână să cadă pe obraz
+Şi ajutor trimită-ţi din al Său locaş sfânt
+Din Sion să te ajute oriunde pe pământ
+/:Aminte să-şi aducă de-a ta mâncare-n dar
+Şi-n inimă să-ţi toarne dumnezeiescul har
+Şi-a tale foste planuri şi altele de-or fi
+Pe toate le transformi în sfinte bucurii : /
+
+[s2]
+2. Şi de-aşa biruinţă un steag vei flutura
+În numele Acelui pe care-L vei cânta
+Aminte să ia Domnul când fi vor ochii uzi
+De-a Tale cereri însă, nimic să nu-i ascunzi
+/:Ştiu însă de pe-acuma că El va da răspuns
+Primind atâtea cereri scăpând pe al Său uns
+Şi fi-va împlinită dorinţa orişicui
+Prin braţul-atotputernic al dreptei Tatălui:/
+
+[s3]
+3. Să nu ai bizuire pe care şi pe cai
+Căci o să vină vremea
+Când dragoste să n-ai
+Să faci cum fac atâţea la fel cum fac şi eu
+Şi bizuirea noastră să fie Dumnezeu
+/:Căci ei se vor răsfrânge
+Şi vor cădea-n cărare
+Dar cu al Său ajutor rămânem în picioare
+O mântuieşte Doamne  iartă-l pe vinovat
+Şi la chemări răspunde iubite Împărat : /
+
+[order]
+s1,s2,s3

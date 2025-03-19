@@ -1,0 +1,42 @@
+[s1]
+Ne-ai fost Doamne ajutor
+Tu intotdeauna,
+Ne-ai fost sprijin tuturor
+cand batea furtuna.
+/: Ne-ai fost ancora la greu
+in dureri nespuse,
+Mijlocind la Dumnezeu
+pentru noi Isuse. :/
+
+[s2]
+Ne-ai fost Doamne zi de zi
+hrana-mbelsugata,
+Ne-ai iubit ca pe-ai Tai fii
+cu grija de tata.
+/: Ne-ai pus paza in camin
+garda ingereasca,
+Ca orice sageti ce vin
+sa le nimiceasca. :/
+
+[s3]
+Esti acelasi din vecii
+neclintit si tare,
+Bun si bland cu-ai Tai copii
+plin de indurare.
+/: Esti un rau de apa sfant
+datator de viata,
+Esti un har pentru pamant
+in orice dimineata. :/
+
+[s4]
+Ne-ai fost Doamne ne-ncetat
+sfanta mangaiere,
+Si pe-oricine-ai invatat
+in Tine sa spere.
+/: Pentru-aceasta Te slavim
+noi cu bucurie,
+Si de toate-Ti multumim
+azi si-n vesnicie. :/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,31 @@
+[s1]
+1. /: Să ai candela plină
+Şi untdelemn în vas
+De miezul nopţii frate
+Ne mai desparte un ceas :/
+/: Să nu aţipim să nu adormim
+Treji în aşteptare spre cer să privim:/
+1568.
+
+[s2]
+2. /: Se aude iar strigarea
+Mirele va veni
+Făclia să îţi ardă
+Până în zori de zi :/
+/: În glorie şi-n slavă
+Noi îl vom vedea
+Pe-al nostru Mire
+Când va apărea :/
+
+[s3]
+3./: În post şi rugăciune
+Tu frate să veghezi
+În ziua glorioasă
+Să poţi să-l întâlneşti :/
+/: Duhul şi mireasa strigă
+Te aşteptăm
+Pe nori cu slavă mare
+Să te întâmpinăm :/
+
+[order]
+s1,s2,s3

@@ -1,0 +1,59 @@
+[s1]
+944.   Re m
+1.  Sosi timpul de plecare
+Cu drag mâinile vom da
+Fraţi, surori plini de iubire
+Noi acuma vom pleca.
+Cor:      Munţi şi dealuri ne desparte
+Dar iubirea nicicând frate.
+
+[s2]
+2.	Clipe dulci de fericire
+Laolaltă am petrecut
+Vor fi mereu amintite
+Clipele ce au trecut.
+Cor:	Munţi şi dealuri ne desparte
+Dar iubirea nicicând frate.
+
+[s3]
+3.  Cu inima îndurerată
+Noi acum ne despărţim
+Şi nu ştim când va fi dat
+Ca iarăşi să ne întâlnim.
+Cor:	Munţi şi dealuri ne desparte
+Dar iubirea nicicând frate.
+
+[s4]
+4.  Lăcrimând din ochi acuma
+Noi vom strânge mâinile
+Chiar în clipele din urmă
+Vă dorim tot binele.
+Cor:	Munţi şi dealuri ne desparte
+Dar iubirea nicicând frate.
+
+[s5]
+5.  În rugăciune stăruind
+Noi să ne mai amintim
+Căci prin valuri o să trecem
+Şi nicicând să nu cădem.
+Cor:	Munţi şi dealuri ne desparte
+Dar iubirea nicicând frate.
+
+[s6]
+6.  În trup suntem despărţiţi
+Dar în Duh să fim uniţi
+Ca să ajungem în cer sus
+Unde-s bucurii nespuse.
+Cor:	Munţi şi dealuri ne desparte
+Dar iubirea nicicând frate.
+
+[s7]
+Deci în corp suntem departe
+Şi cu greu ne întâlnim
+Dar în veşnicie frate
+Nu ne vom mai despărţi.
+Cor:	Munţi şi dealuri ne desparte
+Dar iubirea nicicând frate.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

@@ -1,0 +1,17 @@
+[r1]
+/: Să iubim cum Isus ne-a iubit ! :/
+El din cer a venit şi ne-a mîntuit
+Ca pe cei din jur ca El să-i iubim.
+
+[s1]
+Vă dau azi o poruncă
+de la Domnul Dumnezeu
+Între voi să vă iubiţi
+aşa cum v-am iubit şi Eu.
+Prin aceasta vor cunoaşte
+că sînteţi copiii mei
+Dacă unii pentru alţii
+veţi avea dragoste.
+
+[order]
+r1,s1,r1

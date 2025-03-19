@@ -1,0 +1,52 @@
+[s1]
+Sol
+1. Păcătos ca mine nu-i,
+Isus, Domnul meu,
+Pe faţa pământului:
+Ticălos şi rău.
+190.
+
+[s2]
+/: O, vai, cum voi sta
+Doamne, înaintea Ta,
+Când Tu vei veni
+Unde-atunci voi fi ? :/
+
+[s3]
+2. Căci păcatele mele
+Mă apasă greu
+Sufletul mi-e în durere
+Isus, Domnul meu.
+
+[s4]
+/: O, grăbeşte, vin’!
+Isuse, ajută-mă
+Căci eu mult suspin,
+O, ascultă-mă.! :/
+
+[s5]
+3. Dar îndurare mi-ai dat,
+Isuse iubit,
+Prin faptul că ai răbdat
+Murind răstignit.
+
+[s6]
+/: Astăzi eu vestesc
+În Tine mă-nveselesc,
+Laudă eu Îţi cânt
+Aici pe pământ. :/
+
+[s7]
+4. Eu Te rog, o, Doamne sfânt:
+Azi ajută-mă,
+Cât voi trăi pe pământ,
+Să fiu cu Tine.
+
+[s8]
+/: O, fii lauda mea!
+Doamne aceasta aş vrea:
+Să fii scutul meu,
+Să mă scapi de rău. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

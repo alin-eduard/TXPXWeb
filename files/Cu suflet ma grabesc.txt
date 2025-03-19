@@ -1,0 +1,28 @@
+[r1]
+/: Cu suflet ma grabesc
+Acolo sa sosesc
+Sa ajung acasa eu doresc
+Necazuri voi uita
+Spre ceruri voi zbura
+Pamantule de tine voi uita :/
+
+[s1]
+Vor trece anii nostri care
+Ei tot aduna-n calea lor
+Dar sus in ceruri ne asteapta
+Orasul sfant Ierusalim ceresc
+
+[s2]
+Isus e Imparat si Preot
+Prin El lumina am primit
+Acum sunt liber de robie
+Pasesc acum spre tarmul fericit
+
+[s3]
+Acolo sus e frumusete
+Iar imnuri canta heruvimi
+Pe strazile ce sunt de aur
+Orasul sfant locas Ierusalim
+
+[order]
+r1,s1,r1,s2,r1,s3,r1

@@ -1,0 +1,36 @@
+[s1]
+1(3)
+Iată că vine Isus pe alb nor
+Cu slavă mare de judecător
+Îngerii-n juru-I se strâng zeci de mii
+Să ia la ceruri pe-a Domnului fii.
+/: Iată-L pe nori, vine pe nori
+Cum te găseste pe tine?
+Iată-L pe nori, vine pe nori
+Cum mă găseste pe mine? :/
+Mi M
+
+[s2]
+2(3)
+Jale si bocet si plânset amar
+Lacrimi si zbucium dar toate-n zadar
+Timpul de milă prea mult neglijat
+Este de-acuma pe veci terminat.
+/: Iată-L pe nori, vine pe nori
+Cum te găseste pe tine?
+Iată-L pe nori, vine pe nori
+Cum mă găseste pe mine? :/
+
+[s3]
+3(3)
+Anul şi luna şi ziua-au trecut
+Ultima oră de milă, iar tu
+Mâine tot mâine mereu nu-amâna
+Poate nici moartea nu te va cruţa.
+/: Iată-L pe nori, vine pe nori
+Cum te găseste pe tine?
+Iată-L pe nori, vine pe nori
+Cum mă găseste pe mine? :/
+
+[order]
+s1,s2,s3

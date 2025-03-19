@@ -1,0 +1,53 @@
+[s1]
+1.Cine sunt aceştia, Doamne
+Ce s-au adunat?
+Ce au spălat hainele-n
+Sângele ce L-ai vărsat
+/:Prin ispite şi necazuri
+Le dai bucurii pe braţe-i ţii
+Şi le spui în orice vreme
+Sunt cu voi, copii. :/
+995                                                Mi m
+
+[s2]
+2.Însetaţi adesea, Doamne
+Loviţi şi răniţi
+Ei se adună şi Îţi cântă-n
+Dragoste uniţi
+/:Tu le pregăteşti cununa
+Şi dai tuturor aripi de zbor
+Şi Îţi pregăteşti oştirea
+Să-i ridici spre nori. :/
+
+[s3]
+3.O, Isuse, pentru cine
+Cerul îl găteşti
+Şi odaia cea de nuntă
+Tu o pregăteşti
+/:Pentru cine pui la mese
+Atâtea bunătăţi, daruri cereşti?
+Şi-mbrăcându-Ţi toată slava
+Pe cine aştepţi? :/
+
+[s4]
+4.	Pentru aceia ce se luptă
+Şi la Tine vin
+Cu ochii lor plini de lacrimi
+Plânset şi suspin
+/:Şi-mbrăcaţi în haine albe
+Ca de in curat, Stăpâne drag
+Şi Îţi cântă slavă Ţie,
+Veşnic Împărat. :/
+
+[s5]
+5.	O, Isuse iată-Ți rodul
+Cel răscumpărat
+Curând în odaia-aleasă
+Va fi adunat
+/:Ei vor sta atunci la masă
+Tu ai să-i serveşti daruri cereşti
+Fericiţi vor fi, o, Doamne
+Ce mult îi iubeşti. :/
+
+[order]
+s1,s2,s3,s4,s5

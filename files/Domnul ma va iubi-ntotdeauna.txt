@@ -1,0 +1,26 @@
+[s1]
+Domnul mă va iubi-ntotdeauna
+El şi-a dat viaţa viaţă să-mi fie
+Nu mă despart de Domnul meu
+Chiar dacă drumu-i greu.
+
+[r1]
+Ştiu că sunt al lui Isus
+Iar El al meu va fi
+/: Nu numai pe acest Pămînt
+Dar şi în veşnicii. :/
+
+[s2]
+Când am strigat pierdut în păcat
+El mi-a curmat durerile toate
+Şi mântuire-n dar mi-a adus
+El, bunul meu Isus.
+
+[s3]
+Inima mea voioasă tresaltă
+Liber m-avânt spre ţinta înaltă
+Spre fericirea făr de sfârşit
+Cu Domnul meu iubit.
+
+[order]
+s1,r1,s2,r1,s3,r1

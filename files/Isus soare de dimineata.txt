@@ -1,0 +1,26 @@
+[r1]
+/: Isus, soare de dimineata
+Isus, Luceafarul ce-n zorii vietii rasari
+Ne esti ce-avem mai scump in viata
+Isus, stiu vei veni-ncurand ca sa ne iei :/
+
+[s1]
+Ce dulce e iubirea Ta
+Cand Tu esti langa mine
+Iar eu ma simt cuprins in ea
+Si-n dragostea-Ti divina
+
+[s2]
+In ziua grea Isus mi-ai fost
+Balsam de vindecare
+Eu astazi vin si-s bucuros
+Tu esti a mea salvare.
+
+[s3]
+Am fost pierdut si parasit
+Dar m-ai adus la Tine
+Eu astazi vin si-s bucuros
+Cu viata mea intreaga.
+
+[order]
+r1,s1,r1,s2,r1,s3,r1

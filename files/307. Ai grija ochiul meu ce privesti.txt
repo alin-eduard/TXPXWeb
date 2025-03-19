@@ -1,0 +1,59 @@
+[s1]
+1. /: Ai grijă ochiul meu
+Ce priveşti:/
+Cor: Căci Acel ce te-a-ntocmit
+Te priveşte oricând
+Ai grijă ochiul meu ce priveşti
+307.
+
+[s2]
+2. /: Ai grijă mintea mea
+Ce cugeţi:/
+Cor: Căci Acel ce te-a-ntocmit
+Te priveşte oricând
+Ai grijă mintea mea ce cugeţi
+
+[s3]
+3. /: Ai grijă urechea mea
+Ce asculţi:/
+Cor:Căci Acel ce te-a-ntocmit
+Te priveşte oricând
+Ai grija urechea mea ce asculţi
+
+[s4]
+4. /: Ai grijă gura mea
+Ce vorbeşti :/
+Cor: Căci Acel ce te-a-ntocmit
+Te priveşte oricând
+Ai grija gura mea ce vorbești
+
+[s5]
+5. /: Ai grijă inimă
+Ce gândeşti:/
+Cor: Căci Acel ce te-a-ntocmit
+Te priveşte oricând
+Ai grija inimă ce gandești
+
+[s6]
+6. /: Ai grijă mâna mea
+Ce lucrezi :/
+Cor: Căci Acel ce te-a-ntocmit
+Te priveşte oricând
+Ai grijă mâna mea ce lucrezi
+
+[s7]
+7. /: Ai grijă piciorul meu
+Unde mergi:/
+Cor: Căci Acel ce te-a-ntocmit
+Te priveşte oricând
+Ai grijă piciorul meu unde mergi
+
+[s8]
+8. /: Ai grijă eul meu
+Să nu creşti :/
+Cor: Căci Acel ce te-a-ntocmit
+Te priveşte oricând
+Ai grijă eul meu să nu crești
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

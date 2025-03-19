@@ -1,0 +1,30 @@
+[s1]
+Spre Tine, Stăpîne,
+înalţ ruga mea
+Tu ascultă strigarea
+cînd sînt în necaz.
+Cel rău mă loveşte
+şi nu mai pot să strig
+Tu, Doamne, m-ajută
+să stau lîngă Tin,.
+
+[s2]
+Numai Tu eşti nădejdea mea
+şi azi vin la Tin,
+Nu e nimeni în lume
+să îmi dea alin.
+Ştiu că pentru mine
+Tu crucea-ai purtat
+Şi pe cel ce urmează îl faci fericit.
+
+[s3]
+Doar în Tine, o, Doamne,
+mă încred, numai Tu m-ai salvat.
+Pe Golgota pe cruce,
+în chinul grozav.
+Mi-ai dat drept la viaţă,
+aici şi-n cer sus
+Ce bine-o să fie în cer cu Isus!
+
+[order]
+s1,s2,s3

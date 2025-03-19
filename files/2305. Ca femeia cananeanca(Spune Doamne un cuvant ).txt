@@ -1,0 +1,44 @@
+[s1]
+2305								              La
+1.Ca femeia cananeancă
+Din Scripturi
+S-adunăm am vrea și noi fărâmituri
+Chiar și-atât de am primi
+Ne-am sătura
+Căci e-un har să fim,
+Isus, la masa Ta
+
+[r1]
+Spune, Doamne, un cuvânt
+Azi prin Duhul Tău cel Sfânt
+Și ne vom înviora
+Căci Tu încă faci minuni
+Și-orice boli sau slăbiciuni
+Le mai poți, Isuse, vindeca.
+
+[s2]
+2. Să-Ți atingem poala hainei
+De-am putea
+De-alte leacuri trebuință
+N-am avea
+Totuși prin credința-n Tine
+Îndrăznim
+Și la Tronul îndurării iar venim.
+
+[s3]
+3.Scăldătoarea este plină
+De bolnavi
+Șchiopi și orbi și-atâtea sute De sărmani
+Doar o clipă apa de ai tulbura
+Am vedea cu toți ce mare-i Slava Ta.
+
+[s4]
+Spune, Doamne, un cuvânt
+Azi prin Duhul Tău cel Sfânt
+Și ne vom înviora
+Căci Tu încă faci minuni
+Și-orice boli sau slăbiciuni
+/: Le mai poți, Isuse, vindeca.:/
+
+[order]
+s1,r1,s2,r1,s3,s4

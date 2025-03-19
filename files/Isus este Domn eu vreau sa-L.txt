@@ -1,0 +1,12 @@
+[s1]
+/:Isus  este Domn, eu vreau să-L înalţ
+Şi să-I cânt un imn de slavă:/
+
+[s2]
+/:Isus e Domn, vreau să-I cânt un imn de slavă:/
+
+[s3]
+Aleluia X4
+
+[order]
+s1,s2,s3

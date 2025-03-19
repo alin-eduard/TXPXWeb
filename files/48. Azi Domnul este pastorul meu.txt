@@ -1,0 +1,42 @@
+[s1]
+1. Azi Domnul este Păstorul meu
+Eu lipsă n-am să duc;
+Din verzi păşuni şi din ape vii,
+Eu sufletu-mi adăp.
+48 								Fa m
+
+[s2]
+/: Povaţă-mi dă pe cărarea mea
+În lume port al Său nume Sfânt.
+Chiar şi prin moarte, eu trec uşor
+Şi nu mă tem nicicând. :/
+
+[s3]
+2. Toiagul Tău şi nuiaua Ta
+Mă mângâie ades;
+Pe cap mă ungi,
+Ca să mă sfinţeşti,
+Cu untdelemn ales.
+
+[s4]
+/: Tu masa-ntinzi,
+Când duşmani privesc,
+Paharul meu este astăzi plin,
+Primesc belşugul
+Ce-L răspândeşti
+Şi-n faţa Ta mă-nchin. :/
+
+[s5]
+3. Da, fericirea mă va-nsoţi ,
+În toată viaţa mea,
+Şi-n Casa Tatălui eu voi sta
+Până când voi muri.
+
+[s6]
+/: Aleluia ! Aleluia!
+Aleluia! Aleluia!
+Aleluia!  Aleluia!
+Aleluia!  Amin! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

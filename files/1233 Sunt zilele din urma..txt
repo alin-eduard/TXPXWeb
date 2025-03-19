@@ -1,0 +1,64 @@
+[s1]
+Sunt zilele din urmă
+Cum Domnul a arătat
+C-au intrat lupii în turmă
+Şi-s gata de prădat.
+El nu mănâncă una
+Să plece apoi sătul
+Ci vrea să omoare turma
+Cei pasă lupului.
+1233
+1.
+
+[s2]
+2.Atâtea oi rănite
+Şi fără de păstor
+Căci cel plătit el fuge
+De frica lupului
+La colţuri stau tâlharii
+Stau gata de prădat
+Căci gardu-i slab de trestii
+Şi stâlpii s-au uscat
+
+[s3]
+3.Mai treci Samaritene
+În drum spre Ierihon
+Îndurăte Isuse
+Astăzi de al Tău popor
+Fă să-Ţi auzim glasul
+Păstorul mieilor
+Căci astăzi la tot pasul
+Găseşti câte un hristos
+
+[s4]
+4. Atâţia în piei de oaie
+Atâţia lupi ascunşi
+Ce inima mi-o înmoaie
+Zicând că-s ai Tăi unşi
+Dar oile Tale
+Ascultă de-al Tău glas
+Căci Tu le-ai dat mâncare
+Şi apă Tu le-ai dat
+
+[s5]
+5. Şi apoi să fie o turmă
+O turmă şi-un  păstor
+Când vei veni Isuse
+Păstorul oilor
+Ucişi vor fi toţi lupii
+Toţi lupii cei mişei
+Afară sunt fricoşii
+Păstorii farisei.
+
+[s6]
+6.O de-ar veni un David
+Un fiu de-al lui Isai
+Să se lupte cu leul
+Cu leul cel mişel
+O de-ar veni azi Pavel
+Să treacă prin Efes
+Căci fiare de tot felul
+În cete s-au ales
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,31 @@
+[s1]
+Cand Duhul Sfant
+din cer S-a coborat
+Avuta’n lune-un larg ecou
+Aprinsa’n inimi focul mult dorit
+Si multe vieti nascu din nou
+Si cei dintai crestini s-au raspandit,
+Prin lume viu marturisind
+Desi prigoane multe-au suferit
+Pe Crist vestira biruind
+
+[r1]
+Duhule, vino, ceasul e greu,
+Cu mangaiere si slava lui Dumnezeu
+Cobori si-acum cu puterea Ta
+Vino si astazi, sa’n-vii biserica
+Sa’n-vii biserica, sa’n-vii biserica!
+
+[s2]
+Si-apoi prin veacurile ce-au trecut
+Pamantu’n bezna se’n-veli,
+Dar cei alesi stiut’au ca cel drept
+Doar prin credinta va trai
+Noi, vremea cea din urma o traim
+Mereu cu-acelasi foc Tu arzi
+Mai mult ca oricand
+Martori vrem sa-ti fim,
+Sa te cunoasca lumea azi.
+
+[order]
+s1,r1,s2,r1

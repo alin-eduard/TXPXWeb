@@ -1,0 +1,32 @@
+[s1]
+Va veni o zi când se vor sfârşi
+Şi uita-vom griji, dureri
+Dar nu vom uita cum iubirea Sa
+Ne-a salvat la Golgota.
+
+[r1]
+Va veni, da, va veni o zi
+Când Isus pe nori se va ivi !
+Da, Îl vom vedea şi vom intona :
+<Mare e iubirea Sa !>
+
+[s2]
+Va veni o zi când vom părăsi
+Ţărmul lumii de păcat
+Şi spre alte zări, intonând cântări
+Vom zbura spre alte ţări.
+
+[s3]
+Va veni o zi când ne va primi
+Ca popor în faţa Sa.
+Din al slavei tron, al măririi Domn
+Pe toţi ne va-ncorona.
+
+[s4]
+Va veni o zi când ne vom uimi
+De-ale cerului splendori
+De tot ce Isus pregătit-a sus
+Pentru-ai Săi moştenitori.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,57 @@
+[s1]
+1. Ţi-alege inimă, ţi-alege!
+Ţi-alege, ce vrei să iubeşti?
+/:Lumea cu-a ei plăceri deşarte
+Sau lui Isus te dăruieşti?:/
+394								    Mi M
+
+[s2]
+2. Gândeşte-te inimă bine
+Ce rost ai din tot ce iubeşti?
+/:Ce bogăţii duci tu din lume
+Acolo-n slăvile cereşti?:/.
+
+[s3]
+3. Ţi-alege inimă, ţi-alege!
+Cu cine vrei să te-ntâlneşti?
+/:Vrei cu Hristos în veşnicie,
+Sau vrei în iad să chinuieşti? :/
+
+[s4]
+4. Spune acum, inimă frântă:
+Vrei  pacea sfântă să o ai?
+/:Sau mai degrabă vrei tu lumea.
+N-ai vrea să ai un colţ de Rai?:/
+
+[s5]
+5. Tu eşti un mădular prea mic
+Dar totuşi, mare eşti, nespus
+/:În tine intră o lume-ntreagă
+Intră chiar regele Isus:/
+
+[s6]
+6. Aşa precum eşti tu de mică
+Eşti construită minunat
+/:Când locuieşte-n tine Isus
+Nu este-n lume-aşa palat:/
+
+[s7]
+7. Din tine pot să izvorască
+Izvoare limpezi cu-ape vii
+/:Şi tot din tine izvorăsc
+Şi ape care otrăvesc:/
+
+[s8]
+8. Spune-mi dar inimă-mpărţită:
+Pe care drum vrei să te duci?
+/:Satan te-aşteaptă-n slava lumii
+Hristos te duce-n Paradis!:/
+
+[s9]
+9. Deci inimă, ţi-alege-acuma:
+Ori fericire, ori amar
+/:Vrei cu Hristos în veşnicie
+Sau vrei în Iad să chinuieşti?:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

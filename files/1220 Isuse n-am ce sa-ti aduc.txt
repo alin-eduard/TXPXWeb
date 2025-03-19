@@ -1,0 +1,48 @@
+[s1]
+1.Isuse n-am
+Ce să-Ți aduc
+Decât ticăloşia mea
+Şi fără Tine sunt pierdut
+Căci n-am nicio putere
+1220
+
+[r1]
+Primeşte-mă cum sunt
+N-am nici un ajutor
+Primeşte-mă
+Aşa cum sunt
+O, fie-Ţi milă, Doamne
+
+[s2]
+2.Călcat-am,
+Doamne, voia Ta
+Păcatu-n mine-a locuit
+De el am fost eu biruit,
+Dar Tu m-ai mântuit!
+
+[s3]
+3.O, cât sunt
+De neputincios,
+Ispita ca s-o biruiesc.
+Când binele
+Eu vreau să-l fac,
+Te chem şi-Ţi cer putere
+
+[s4]
+4.Dar sângele
+Tu Ţi-ai vărsat
+Şi-n el îmi speli păcatul meu
+Şi Duhul Tău
+Cel Sfânt îmi dă
+Putere ca să birui.
+
+[s5]
+5.Eu vreau de-acum
+Să fiu al Tău
+În mine vreau
+Să Te primesc
+Şi inima vreau să Ţi-o dau
+Mi-ajunge atâta vreme.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

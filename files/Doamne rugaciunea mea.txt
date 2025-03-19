@@ -1,0 +1,32 @@
+[s1]
+Doamne rugăciunea mea
+s-ajungă pân’la Tine
+Când pare-a nu mai exista
+scăpare pentru mine
+/: Isuse-n încercarea mea
+Pe braţul Tau mă ţine
+Nu vreau să fiu scutit de ea
+Ci vreau să mergi cu mine :/
+
+[s2]
+De-ar fi să-ntorc obrazul
+meu celui ce mă loveşte
+Cu bine răsplătind mereu
+pe cel ce mă răneşte
+/: Chiar dac-ar fi să-ndur aşa
+Ocară şi ruşine
+Ajută-mă să-ţi pot urma
+Vrednic să fiu cu Tine :/
+
+[s3]
+Să nu mă laşi să cad răpus
+în arşiţa pustiei
+Nici de-ale lumii valuri dus
+în noaptea pribegiei
+/: Oricât mi-ar fi lupta de grea
+Voi birui cu Tine
+Cine va fi-mpotriva mea
+Când Tu eşti pentru mine :/
+
+[order]
+s1,s2,s3

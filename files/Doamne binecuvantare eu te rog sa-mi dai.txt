@@ -1,0 +1,32 @@
+[s1]
+Doamne, binecuvantare
+eu te rog să-mi dai
+Să-mi arăţi a Ta cărare,
+drumul către rai.
+Viaţa mea cea păcătoasă
+eu să mi-o îndrept
+Să-mi dai inimă curată
+ca să Te iubesc.
+
+[r1]
+Sigur sunt că Dumnezeu
+M-a cuprins în harul Său
+Când păcatul m-a răpus
+El m-a ridicat.
+Sigur sunt că Dumnezeu
+M-a cuprins în harul Său
+Cerul eu voi moşteni
+Fericit voi fi.
+
+[s2]
+O, ce bucurie fi-va
+când în cer voi fi
+Pe cei dragi noi întâlni-vom
+sus în veşnicii!
+Cu Isus împărăţi-vom
+în cer glorios
+Veşnic fi-va sărbătoare
+cu al nostru Hristos
+
+[order]
+s1,r1,s2,r1

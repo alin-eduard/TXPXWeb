@@ -1,0 +1,62 @@
+[s1]
+Încă puţin şi ce s-a spus
+curînd o să se-arate
+Se va vedea atuncea
+cît au fost de-adevărate.
+
+[s2]
+/: Se va vedea că este-un iad,
+că este-o judecată
+Se va vedea cît de-nşelaţi
+sînt cei ce-au rîs odată ! :/
+
+[s3]
+Încă puţin, şi tot ce-i azi
+neghină şi ocară
+Trimişi cereşti vor arunca
+în focul de afară.
+
+[s4]
+/: Şi seceriş nemaivăzut
+va trece peste lume
+Căci ziua groazei a sosit
+tot răul să-l zugrume. :/
+
+[s5]
+Încă puţin, şi semne mari,
+puteri ne-nchipuite
+Se vor ivi, cutremurînd
+privirile-ngrozite.
+
+[s6]
+/: Şi toţi acei ce n-au primit
+credinţa mîntuirii
+Primi-vor crezul blestemat
+al hulei şi-al pieirii. :/
+
+[s7]
+Încă puţin, şi Dumnezeu Cel viu
+în veci, deodată
+Va arăta întregii lumi
+minciuna acostată.
+
+[s8]
+/: Încă puţin, dar pîn-atunci
+dureri cum n-au fost încă
+Vor încerca cu bici de foc
+credinţa cea adîncă. :/
+
+[s9]
+Fiţi treji şi vă rugaţi cu toţi
+cîţi mergeţi către-aceste
+Nemaivăzute vremi şi stări
+venite fără veste.
+
+[s10]
+/: Orice-aţi vedea şi-aţi auzi
+pe voi să nu vă-nşele
+Căci vai de cei ajunşi atunci
+nepregătiţi în ele ! :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

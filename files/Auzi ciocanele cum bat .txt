@@ -1,0 +1,51 @@
+[s1]
+Auzi ciocanele cum bat,
+Acolo sus pe deal ciudat;
+Bat ciocanele mereu
+în Fiul sfânt de Dumnezeu...
+
+[r1]
+Pentru mine, pentru tine,
+Pentru noi, la Golgota,
+ciocanele bat,
+Pentru mine, pentru tine,
+Pentru noi, Domnul Isus
+viaţa Şi-a dat!
+
+[s2]
+Bate ciocanul cuiele
+Să-I pironească mâinile;
+Aşa de tare au bătut
+Că sus în cer, s-au auzit...
+
+[s3]
+Şi la picioare I-au bătut
+Cuie la Fiul cel preasfânt;
+Aşa de tare au bătut
+Că toată lumea-a auzit...
+
+[s4]
+Când crucea grea au ridicat,
+Cu Cel ce-a fost nevinovat,
+Cu suliţa-n coastă I-au dat,
+Sânge I-a curs, nevinovat.
+
+[s5]
+Sfinţii din cer, toţi s-au uimit
+Şi, la Golgota, au privit;
+Cu ei şi bunul Dumnezeu
+Privea cum moare Fiul Său
+
+[s6]
+Aşa pe cruce cum a stat,
+La Tatăl Sfânt, El a strigat: „Iartă-i, Tu, Tată, Cel Prea'nalt,
+Căci ei nu ştiu astăzi ce fac!..."
+
+[s7]
+Degeaba ei L-au răstignit;
+Chiar moartea Domnu-a biruit.
+Curând, curând va reveni
+Să-Şi duc-acasă ai Lui copii...
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1

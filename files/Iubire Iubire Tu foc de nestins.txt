@@ -1,0 +1,38 @@
+[s1]
+Iubire, Iubire, Tu, foc de nestins
+În mine pătruns-ai
+şi duhul mi-ai aprins.
+El soarbe căldură şi foc mai încins
+În mreaja Ta dulce
+pe mine m-ai cuprins.
+
+[s2]
+Deschis pare cerul,
+comori cad din el
+Din mari răni cu sânge,
+din preaumilul Miel.
+Iubire şi pace în El am aflat
+Căci El e Iubirea ce pentru min,
+s-a dat.
+
+[s3]
+Iubirea te face să rabzi
+şi să te-ncrezi
+Prin grele prigoane
+spre cer să-naintezi.
+Umil ea te face şi blând şi smerit
+Şi toate-mpreună
+te-or face mântuit.
+
+[s4]
+Acolo, Iubire,
+Te vom vedea cum eşti
+Acolo-n înălţime,
+în sferele cereşti.
+Atunci vom cânta
+noi un imn făr sfârşit
+Căci Tu eşti Iubirea
+ce-aşa mult ne-a iubit.
+
+[order]
+s1,s2,s3,s4

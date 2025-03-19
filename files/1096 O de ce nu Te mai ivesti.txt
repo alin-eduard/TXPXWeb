@@ -1,0 +1,38 @@
+[s1]
+O, de ce nu Te mai iveşti
+Isus în slăvile cereşti
+/ : Căci ai Tăi de pe pământ
+Te-aşteaptă tot suspinând
+O, de ce nu Te mai iveşti : /
+Ah, oare cât mai zăboveşti
+Până pe nori Tu te iveşti
+/ : Mai e mult de suferit
+Şi cu lacrimi de hrănit
+O, de ce nu Te mai iveşti : /
+1.
+2.
+1096.Mi m
+
+[s2]
+Vino şi strânge-Ţi turma Ta
+Din munţi şi din toată lumea
+/ : Strânge-Ţi Tu oiţele
+De prin toate văile
+Astăzi am vrea să Te iveşti : /
+Chiar şi leproşii cei uscaţi
+Chiar şi acei demonizaţi
+/ : Te doresc cu grabă mare
+Să le dai o vindecare
+Astăzi nu vrei să Te iveşti : /
+3.
+4.
+
+[s3]
+5.	Te-aştept mai mult ca orişicând
+Să mă ridici de pe pământ
+/ : Să mă duci la Tine acasă
+Sus în patria cerească
+Unde nu vor mai fi dureri : /
+
+[order]
+s1,s2,s3

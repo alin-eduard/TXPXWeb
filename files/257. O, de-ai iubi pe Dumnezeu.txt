@@ -1,0 +1,75 @@
+[s1]
+1. O, de-ai iubi pe Dumnezeu
+Mai mult decât orice
+Atunci vedea-vei chipul Său
+În viaţa ta amice.
+257.
+
+[s2]
+/: Ah, de L-ai iubi tu
+Pe Dumnezeul tău
+Frumuseţea ai privi
+Ca Moise robul Său :/
+
+[s3]
+2. O, de-ai iubi tu pe Isus
+Mântuitorul tău
+Atunci tu Lui ai fi supus
+Păzind cuvântul Său.
+
+[s4]
+/: Ai merge după El
+Oriunde te-ar chema
+Ca şi Petru la fel
+Pe Domnul L-ai urma :/
+
+[s5]
+3. O, de-ai avea tu dragoste
+Cum nu L-ai căuta
+Şi n-ai ieşi din voia Lui
+Căci nu Te va lăsa.
+
+[s6]
+/: Privirea ta ar sta
+La Domnul necurmat
+Şi la frumuseţea Sa
+Cum David s-a uitat :/
+
+[s7]
+4. O, de-ai iubi venirea Lui
+Ai fi tot pregătit
+Vestind-o şi-aproapelui
+Să fie mântuit.
+
+[s8]
+/: O, cum L-ai aştepta
+Privind mereu în sus
+Ai plânge ca Maria
+Strigându-L pe Isus :/
+
+[s9]
+5. O, Tu ne-ai spus Isus iubit
+Ca noi să ne iubim
+Aşa cum Tu ne-ai poruncit
+Ca fraţii să trăim.
+
+[s10]
+/: O, dă-ne dragostea
+Cu focul ei divin
+Să ne ardă inima
+De dorul după Tin ’:/
+
+[s11]
+6. O, Doamne fă să lumineze
+A Ta faţă spre noi
+Şi dragostea să se reverse
+Şi să curgă în noi.
+
+[s12]
+/: Dorim să căutăm
+A Ta faţă Doamne
+Cum cerbul aleargă
+La a Tale izvoare :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12

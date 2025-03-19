@@ -1,0 +1,44 @@
+[s1]
+Nimeni nu e ca Tine,
+Bucuria noastră eşti numai Tu!
+Chiar o veşnicie de am căuta,
+Totuşi... nimeni nu-i ca Tine
+
+[s2]
+Iubirea Ta curge ca un râu,
+Cu mâna poţi vindeca,
+În braţe, Tu-i ţii pe toţi cei în nevoi
+Fii glorificat!
+
+[s3]
+Nimeni nu e ca Tine,
+Biruinţa noastră eşti numai Tu!
+Chiar o veşnicie de-am căuta,
+Totuşi... nimeni nu-i ca tine.
+
+[s4]
+Pe Golgota, Tu ai suferit,
+Plătind al nostru păcat.
+Prin moartea pe cruce ne-ai eliberat,
+Fii glorificat!
+
+[s5]
+Nimeni nu e ca Tine,
+Mântuirea noastră eşti numai Tu!
+Chiar o veşnicie de am căuta,
+Totuşi... nimeni nu-i ca Tine.
+
+[s6]
+În orice zi, prin credinţă stăm,
+Statornici pe calea Ta,
+Şi-n sufletul nostru suntem bucuroşi.
+Fii glorificat!
+
+[s7]
+Nimeni nu e ca Tine,
+Binecuvântarea eşti numai Tu!
+În tot universul de-am căuta,
+Totuşi... nimeni nu-i ca Tine.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

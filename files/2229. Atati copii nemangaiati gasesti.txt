@@ -1,0 +1,37 @@
+[s1]
+2229
+1. Atâți copii nemângâiați găsești în lumea mare
+Plecați departe de părinți,
+lipsiți de alinare
+Iar mama, tata plâng de dor, copiii sunt departe
+Ei sunt străini făr-ajutor
+cu inimi sfâșiate.
+
+[r1]
+Cor:	Veniți acasă,
+părinții vă așteaptă cu mult dor
+Veniți acasă, ei sunt bătrâni
+și nu au ajutor
+Iar voi departe, copiilor sunteți robiți și triști
+Căsuța voastră v-așteaptă
+fiilor ca să veniți.
+
+[s2]
+2. Atâți copii sunt azi străini prin țări îndepărtate
+Precum ei sunt împrăștiați,
+nu știu frate de frate
+Mulți au plecat și-au fost aduși
+de alții în sicrie
+Lăsând durere-n urma lor
+și-o mamă în suspine.
+
+[s3]
+3. Copiilor ce ați plecat,
+să nu uitați de Domnul
+Când voi veți fi greu încercați,
+la El e ajutorul
+Să nu uitați de-ai voști’ părinți care mai sunt acasă
+Căci multe nopți în rugăciuni, amare lacrimi varsă.
+
+[order]
+s1,r1,s2,r1,s3,r1

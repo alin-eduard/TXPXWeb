@@ -1,0 +1,30 @@
+[s1]
+Un cantec de iubire
+Azi intonam spre-a fi
+Cinstire si slavire
+Parinte din vecii
+
+[r1]
+/: Osana, Aleluia :/
+Marire, Aleluia
+
+[s2]
+Sunt veacuri multe scurse
+De cand ne-ai daruit
+Mangaietor pe Duhul Sfant fagaduit
+El pregateste astazi biserica de jos
+Ca s-o prezinte-n slava
+Cand va veni Hristos
+
+[s3]
+Osana, Aleluia,
+Te preamarim mereu
+Ti-aducem ruga, cantul
+Preasfinte Dumnezeu
+Dorim sa vina ziua
+Cand toti vom intona
+Cantarea vesniciei
+Cu cerul vom canta.
+
+[order]
+s1,r1,s2,r1,s3,r1

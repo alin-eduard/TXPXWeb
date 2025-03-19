@@ -1,0 +1,33 @@
+[s1]
+1948  Do m
+1. Luminat de adevăr și iubire
+Luminat de preasfântul Cuvânt
+Vreau Isuse cu-ntreaga-mi simțire
+Vreau așa să-Ți slujesc pe pământ.
+
+[s2]
+2. Dezlegat de omeneasca plăcere
+Și alipit de preasfântu-Ți cuvânt
+Vreau Isuse cu-ntreaga putere
+Vreau așa să-Ți slujesc pe pământ.
+
+[s3]
+3. De-a minciunii turbată furie
+Eu m-ascund în preasfântu-Ți Cuvânt
+Căci Isus vreau întreg numai Ție
+Vreau așa să-Ți slujesc pe pământ.
+
+[s4]
+4. Vreau aprins de iubirea Ta mare
+Vreau să-nalț al vieții Cuvânt
+Vreau să ard în prea sfânta-Ți lucrare
+Vreau așa să-Ți slujesc pe pământ.
+
+[s5]
+5. Până când Tu vei veni Isuse
+Să-mplinești tot ce-ai spus în Cuvânt
+În a Tale adevăruri nespuse
+Să trăiesc, să-Ți slujesc pe pământ.
+
+[order]
+s1,s2,s3,s4,s5

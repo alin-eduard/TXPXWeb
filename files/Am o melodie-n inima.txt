@@ -1,0 +1,32 @@
+[s1]
+Am o melodie-n inimă
+Isus cîntă, cîntă lin:
+<Nu te teme, Eu sînt, caută-Mă
+Şi la bine, şi-n suspin.>
+
+[r1]
+Isus, Isus, Isus
+Nume proslăvit
+Am nădejde-n Tine
+Cînd Te am, sînt fericit.
+
+[s2]
+Viaţa-mi în păcat s-a zbuciumat
+Şi-n dureri primeam ecou
+Părţile distruse-a mîngîiat
+Şi le-a înălţat din nou.
+
+[s3]
+Harul Său e desfătarea mea
+Şi în braţu-I m-odihnesc
+Veşnic zîmbitoare-i faţa Sa
+Cum să nu Îl proslăvesc?
+
+[s4]
+Cateodată trec prin ape-adînci
+Încercări mi se opun.
+Cînd e aspră calea printre stînci
+Paşii Lui zăresc pe drum.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

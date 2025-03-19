@@ -1,0 +1,32 @@
+[s1]
+Calatorim pe-acest pamant
+Ne indreptam spre-o tara aleasa,
+Noi mergem cu spor si avant
+Spre-o vesnicie ce ne asteapta.
+
+[s2]
+/: Sa ne incurajam mereu
+Chiar de drumul este greu,
+Suntem ades loviti de val
+Dar in curand sosim la mal. :/
+
+[s3]
+Calatorim, calatorim
+Patria-I tot mai aproape,
+Prin credinta noi privim
+Si mergem mai departe.
+
+[r1]
+/: Sa ne incurajam mereu
+chiar de drumul este greu,
+Suntem ades loviti de val
+Dar in curand sosim la mal. :/
+
+[s4]
+Calatoria s-a sfarsi
+In curand in tara Sfanta,
+Cei care vor birui
+Vor vedea fata Lui blanda.
+
+[order]
+s1,s2,s3,r1,s4,r1

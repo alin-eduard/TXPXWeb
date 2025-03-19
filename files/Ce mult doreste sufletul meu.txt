@@ -1,0 +1,20 @@
+[s1]
+Ce mult doreşte sufletul meu
+Cu Tine, Doamne, să fie mereu
+Şi ocrotit de braţul Tău sfânt,
+Să se înalţe chiar peste mormânt, ://
+
+[s2]
+Eu vin la Tine împovărat,
+N-am nici un merit, ci numai păcat;
+Doamne ISUSE, bun şi-ndurat,
+//: Spală Tu, în sfânt sânge vărsat! ://
+
+[s3]
+Vreau, o, Isuse, să fiu al Tău,
+Las pentru tine plăceri, orice rău;
+În locul lor mereu îmi doresc
+//: Dragostea Ta de Miel dumnezeiesc. ://
+
+[order]
+s1,s2,s3

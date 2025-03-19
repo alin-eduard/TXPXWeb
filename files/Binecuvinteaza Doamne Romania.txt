@@ -1,0 +1,26 @@
+[r1]
+Binecuvintează, Doamne România,
+Binecuvintează ţara mea,
+Vino cu putere, vino cu trezire,
+Te rugăm Isus, ai milă de ea.
+
+[s1]
+Noi Te rugăm, arată-Ţi iubirea
+Dă-ne credinţă din nou Te rugăm,
+Ajută-ne să Te cunoaştem
+Să Te-ascultăm Doamne, să Te urmăm.
+
+[s2]
+Suntem flămânzi, Doamne de Tine
+Pâinea vieţii doar Tu ne-o poţi da,
+Suntem setoşi de neprihănire
+Lasă să plouă apa vie-n ţara mea.
+
+[s3]
+Noi Te rugam: grabeste-Ti venirea
+Si pregateste al Tau sfant popor!
+Nu ne lasa sa ne abatem
+De la cararea ce duce-nspre Rai!
+
+[order]
+r1,s1,r1,s2,r1,s3,r1

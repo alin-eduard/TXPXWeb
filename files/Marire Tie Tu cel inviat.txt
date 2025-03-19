@@ -1,0 +1,24 @@
+[s1]
+Marire Tie, Tu cel inviat
+Numele sa-TI fie vesnic laudat!
+Noaptea-ntunecoasa viu s-a luminat
+Mana-Ti glorioasa, piatra a ridicat!
+
+[r1]
+Marire Tie, Tu cel inviat!
+Numele sa-Ti fie, vesnic laudat!
+
+[s2]
+Iata-L apare e Hristos Isus!
+El cu mana tare moartea a rapus.
+Bucura-te dara, tu al Sau popor
+Si mareste iara, pe Invingator!
+
+[s3]
+Ce biruinta Hristos a inviat
+Cu El prin credinta eu am inviat.
+De acum-nainte pe deplin al Sau,
+Cant cu-ntraga-mi fiinta, Sfant Numele Sau
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,49 @@
+[s1]
+1304.
+1.  Dumnezeul nostru, Tu
+Luminează-mi sufletul
+Doamne Doamne dă-mi tărie
+Să scap de orice trufie.
+2.  Să n-am în inima mea
+Patima invidia
+Răutate duşmănie
+Minciuna şi lăcomie.
+
+[s2]
+3.  Pune Duhul Sfânt în mine
+Să-mi cresc copilaşii bine
+Să-i învăţ drumul spre Tine
+Şi-nspre ziua care vine.
+4.  Să cunosc bunătatea
+Dărnicia şi dreptatea
+Milă de altcineva
+Dragostea şi iubirea.
+
+[s3]
+5.  Doamne de acum eu vreau
+Tot lângă Tine să stau
+Am lăsat lumea şi portul
+Mă-ntorc la Tine cu totul.
+6.  Mă-ntreabă lumea mereu
+Unde este Dumnezeu
+Eu le spun la mic şi mare
+Să vină la adunare.
+
+[s4]
+7.  Unde se roagă doi sau trei
+Dumnezeu este cu ei
+De câte ori am strigat
+Dumnezeu nu m-a lăsat.
+8.  Frate soră când ţii greu
+Strigă la Dumnezeu
+Să-ţi şteargă greşalele
+Până apune soarele.
+
+[s5]
+9.  Domnul Isus mi-e credinţa
+Nădejdea şi biruinţa
+Pune Duhul Sfânt în mine
+Să am parte de răpire.
+
+[order]
+s1,s2,s3,s4,s5

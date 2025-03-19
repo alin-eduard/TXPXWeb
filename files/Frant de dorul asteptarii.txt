@@ -1,0 +1,32 @@
+[s1]
+Frânt de dorul aşteptării
+Stau în poartă şi privesc
+/: Oare nu m-ai dat uitării
+Împăratul meu ceresc? :/
+
+[s2]
+Umbra grea de seară rece
+Pe pământ s-a aşternut,
+/: Gânduri ce nu vor să plece
+Cu durere m-au umplut. :/
+
+[s3]
+Pe pământ tu nu ai pace
+Ca străin călătoreşti
+/: Patrie acolo sus ai
+La Părintele ceresc :/
+
+[s4]
+Sus în cer stau heruvimii
+Serafimii, stâlpi de foc,
+/: Iar arhanghelii sublimii
+Ţie-Ţi cântă-n al lor joc. :/
+
+[s5]
+Sufletul meu pierdut a fost
+Si mila Ta s-arătat
+/: Splendoarea feţii Ţi-am văzut
+Şi din Duhul Tău mi-ai dat. :/
+
+[order]
+s1,s2,s3,s4,s5

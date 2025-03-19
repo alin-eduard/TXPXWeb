@@ -1,0 +1,32 @@
+[s1]
+Hristos domneşte-n Sion
+Cu toţi vă bucuraţi,
+'Naintea tronului de har
+Voioşi vă-nfăţişaţi!
+Şi cânturile voastre
+Răsune către cer
+Plecaţi genunchiul prinţi şi voi
+Căci Domn e numai El!
+
+[s2]
+Nu-i Domn ca El sub soare,
+Şi-n vastul univers
+Pământ şi stele mii şi mii
+La semnul Lui privesc!
+Cu cinste al Său Nume
+Şi steag să-I înălţaţi,
+Şi până-n cele patru zări
+Cuvântul Lui purtaţi!
+
+[s3]
+Hristos domneşte-n Sion,
+Veniţi în mii de mii!
+Măriţi-L prin cântări de Psalmi,
+Frumoase melodii!
+Grupaţi-vă sub steagul
+Acelor ce-au aflat
+Că-n lumea asta şi-alte lumi
+El singur e-Împărat!
+
+[order]
+s1,s2,s3

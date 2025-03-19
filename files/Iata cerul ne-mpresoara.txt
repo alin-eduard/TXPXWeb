@@ -1,0 +1,33 @@
+[s1]
+Iată cerul ne-presoară
+Cu făclii de nuntă azi
+Si înaltul infinit e-mpodobit
+Pasărea în al ei zbor
+Cu tril măret, strălucitor
+Cânt armonios iubirea celor doi.
+
+[r1]
+Dragostea nicicând nu va pieri
+Dragostea e al vietii izvor
+Mână-n mână către cer porniti
+Cu Isus iubirea vă-mpletiti.
+
+[s2]
+De umblati pe cărărui de munte
+Prin păduri si prin văi
+Un prieten minunat e lângă voi
+Sprijin tare-n mâna Lui
+Găsiti mereu si ajutor
+Domnul dragostei în viată vă va da.
+
+[s3]
+Orice zi vă fie numai
+Bucurii cu Dumnezeu
+El pe aripi-vă conduce-n zboru-’nalt
+Vă iubeste ne-ncetat
+Deci alergati la pieptul Său
+Si cântati voiosi,
+Cu noi cântati mereu.
+
+[order]
+s1,r1,s2,r1,s3,r1

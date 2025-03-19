@@ -1,0 +1,47 @@
+[s1]
+885.
+1. Când vom intra
+Pe-a” Tale porţi de aur,
+Ierusalime, loc iubit şi sfânt.
+/: Tot cerul va fi plin de osanale
+Spre slava Celui
+Pururi drept şi sfânt :/.
+
+[s2]
+2. Uimiţi de-atâta sfântă măreţie
+Scăpaţi de totul ce ne-a frământat;
+/: În veci de veci
+Cânta-vom numai Ţie
+Şi sângelui ce ne-a răscumpărat :/.
+
+[s3]
+3. Cu ochi-n lacrimi
+de bucurie sfântă
+Scăldaţi în raza soarelui dorit,
+/: Nesăturaţi de
+Faţa Lui cea blândă
+Îi vom cânta pe veci că ne-a iubit
+
+[s4]
+4. Pe străzi de aur ca sticla străvezie,
+Cu toţi cei dragi şi scumpi
+Ce i-am iubit,
+/: Cânta-vom veşnic slavă numai Ţie
+De dragostea cu care ne-ai iubit :/.
+
+[s5]
+5. Ierusalime, vei auzi cântarea,
+Ce îngerii nicicând nu ţi-au cântat
+/: Atunci în ziua când va fi serbarea
+Poporului pe veci răscumpărat :/.
+
+[s6]
+6. Când întristarea din inimi
+Va fi ştearsă
+Şi fericirea veşnică va fi
+/: Dorita noastră,
+Scumpa noastră casă,
+Ierusalime, când te vom zări? :/
+
+[order]
+s1,s2,s3,s4,s5,s6

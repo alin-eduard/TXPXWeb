@@ -1,0 +1,26 @@
+[s1]
+Te lăudăm pe Tine, Domnul nostru mare
+Te lăudăm pe Tine, Dumnezeu Preasfînt
+Te lăudăm prin viaţă şi cîntare
+Te lăudăm oricînd şi-oriunde pe Pămînt.
+
+[r1]
+Slavă-Ţi cîntă oştile de îngeri sus
+Ţie, Miel preasfînt, Mîntuitor Isus !
+Slavă Îţi aducem noi de pe Pămînt
+Pentru harul mîntuirii noastre sfînt !
+
+[s2]
+Te lăudăm pentru deplina Ta jertfire
+Te lăudăm pentru izvorul Tău de har
+Te lăudăm pentru măreaţa mîntuite
+Te lăudăm că ne-i adus-o nouă-n dar!
+
+[s3]
+Te lăudăm pentru slăvita-mpărăţie
+Pe care Tu ne-ai pregătit-o să ne-o dai !
+Te lăudăm şi-ţi vom cînta o veşnicie
+Căci ne-ai iubit şi ne-ai vestit eternul har!
+
+[order]
+s1,r1,s2,r1,s3,r1

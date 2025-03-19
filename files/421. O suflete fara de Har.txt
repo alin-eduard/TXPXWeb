@@ -1,0 +1,51 @@
+[s1]
+421.
+1.O suflete fără de har
+Cunoşti pe Domnul răstignit
+Sus la Golgota la Calvar
+Cum pentru tine-a pătimit.
+
+[s2]
+2.I-au pironit mâini şi picioare
+Şi coasta dreaptă I-au străpuns
+Pentru a noastră mântuire
+A suferit Domnul Isus.
+
+[s3]
+3.De-aceea o suflete dragă
+Mai bine să te pocăieşti
+De-aceea viaţa ta întreagă
+Mai mult pe Domnul să-L iubeşti.
+
+[s4]
+4.Căci viaţa este trecătoare
+Aicea pe acest pământ
+Poate-n curând tu frăţioare
+Vei vedea pe Domnul venind.
+
+[s5]
+5.Să nu-ţi îngropi talantul vieţii
+Pe care Domnul ţi l-a dat
+Căci chiar în ziua judecăţii
+Tu de el vei fi întrebat.
+
+[s6]
+6.Credinţa-i moartă fără faptă
+Aşa apostolii ne-au spus
+Credinţa dovedită-n faptă
+Ea te va duce-n paradis.
+
+[s7]
+7.Oricine ce va semăna
+Aicea pe acest pământ
+Aceea el va şi secera
+Cu bucurie sau plângând.
+
+[s8]
+8.O de am face fapte bune
+Noi vom scăpa de orice chin
+Vom secera tot spice pline
+În vecii vecilor Amin.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

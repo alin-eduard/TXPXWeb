@@ -1,0 +1,36 @@
+[s1]
+Ascultaţi, străjerul cheamă,
+În muntele cel sfânt daţi larmă,
+Sunaţi din trâmbiţă-n Sion!
+Miezul nopţii-n turnuri bate,
+Deci scoală-te şi lasă toate,
+La al redeşteptării zvon!
+Isus se va-arăta, să-ţi dea răsplata Sa,
+Aleluia, Haideţi, grăbiţi, cu toţi veniţi
+Şi pentru cer vă pregătiţi!
+
+[s2]
+Auzi paznicii cum sună,
+Cum urlă-a neamur'lor furtună,
+Fecioarelor, vă deşteptaţi!
+Mirele-n nor alb apare,
+Încoronat ca mândrul soare,
+A voastre lămpi iluminaţi!
+Ah, vino pe-al Tău tron,
+Isuse veşnic Domn,
+Aleluia, Noi Te urmăm, ne bucurăm
+La nunta Ta ca să intrăm!
+
+[s3]
+Laudă mărire Ţie,
+Din gura noastră pe vecie,
+Ţi-aducem toţi, Hristos Isus
+În cetatea cea de aur,
+Încununaţi cu-ai vieţii lauri,
+Mai sus de îngeri Tu ne-ai pus.
+Ce ochiul n-a privit, ce nimeni n-a simţit,
+Aleluia, ce loc slăvit,
+Isus iubit, Tu pentru noi ai pregătit!
+
+[order]
+s1,s2,s3

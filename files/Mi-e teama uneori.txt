@@ -1,0 +1,36 @@
+[s1]
+Mi-e teamă uneori
+Ca aş putea greşi,
+Când vreau să fac şi eu ceva
+Şi nu ştiu cum să lucrez.
+Dar eu ştiu că Tu vrei
+Doar în Tine să mă încred.
+
+[r1]
+Căci Domnul meu mare e
+Mai gigantic decât toate.
+E măreţ şi plin de slavă,
+Minunat, sfânt şi puternic.
+Nu-i nimic în lume-aceasta,
+Să nu poată schimba.
+Căci aşa nu mă tem de nimic,
+Nu, nu, cu Isus nu mă tem de nimic.
+
+[s2]
+Mi-e teamă uneori
+Că vine noaptea grea,
+Cu vise ce mă sperie
+Şi nu mai pot să dorm.
+Dar eu ştiu că Tu vrei
+Doar în Tine să mă încred.
+
+[s3]
+Mi-e teamă uneori
+De ce e-n jurul meu,
+Când prietenii mă părăsesc
+Cu cine să mă joc?
+Dar eu ştiu că Tu vrei
+Doar în Tine să mă încred.
+
+[order]
+s1,r1,s2,r1,s3,r1

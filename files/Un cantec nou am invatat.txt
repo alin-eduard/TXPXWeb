@@ -1,0 +1,32 @@
+[s1]
+Un cântec nou am învătat
+mamă de ziua Ta
+Un cântec nou si minunat
+pentru iubirea Ta
+E cântul nostru, mamă,
+cântec înmiresmat
+Ofrandă-adusă tie,
+floare de crin curat.
+
+[s2]
+Am pus buchetului în zori
+toată iubirea mea
+Si taina inimii pe flori,
+pentru măicuta mea.
+Primeste darul  mamă,
+astăzi e ziua ta,
+Înaltă tu o rugă,
+veseli noi vom cânta.
+
+[s3]
+Aducem închinare-acum
+Celui ce ne-a creat
+Prin rugi si cântec
+după cum mama ne-a învătat.
+Îti multumesc Isuse
+pentru iubirea Ta,
+Îi multumim si mamei
+pentru iubirea sa.
+
+[order]
+s1,s2,s3

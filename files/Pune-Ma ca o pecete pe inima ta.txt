@@ -1,0 +1,50 @@
+[s1]
+Pune-Mă ca o pecete pe inima ta
+Orice gând şi orice şoaptă
+nu Mi te-a lua
+/:Fac cu tine legământ
+veşnic să trăieşti
+Pentru tine am o ţară
+cum tu nu gândeşti:/
+
+[s2]
+Fă din Mine-a ta comoară
+căci prin ea ai preţ
+Tu în Mine eşti săpat
+şi nu poţi să pleci
+/: Chiar de-ai rătăci prin noapte
+Eu te voi afla
+Şi-am să te primesc la pieptu-Mi
+orice s-ar întâmpla :/
+
+[s3]
+Pune-Mă ca o pecete pe inima ta
+Şi Cuvântul Meu
+să-ţi fie zilnic hrana ta
+/:Strânge-n sufletu-ţi flămând
+sfatul ce ţi-l dau
+Mai aşează înc-o piatră
+pe al tău altar:/
+
+[s4]
+Cine oare ar putea
+din braţu-Mi să te smulgă
+Cât suntem alăturea
+nu-i mână să te-ajungă
+/: Eu am slujitori în ceruri
+care te păzesc
+Nu te teme de nimic,
+Eu te izbăvesc :/
+
+[s5]
+Te încrede azi în Mine
+şi-n Cuvântul Meu
+Sus în ceruri vei ajunge
+tot prin harul Meu
+/: Şi va fi o  sărbătoare
+când în cer vei fi
+Şi vei străluci cu sfinţii
+pentru veşnicii :/
+
+[order]
+s1,s2,s3,s4,s5

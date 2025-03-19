@@ -1,0 +1,38 @@
+[s1]
+Ce n-ar da să aibă
+lumea pace-n inimă,
+Ce n-ar da să aibă
+lumea linişte deplină.
+/: Însă pacea e la Tine,
+pacea numai Tu o dai,
+Când în viaţă e Isus
+acolo e colţ de Rai. :/
+
+[s2]
+Ce n-ar da să aibă lumea
+dulcea mângâiere,
+Că viaţa e amar
+doar chin şi durere.
+/: Însă sfânta mângâiere
+e acelor ce Te slujesc,
+Doamne Tu eşti alinarea
+celor ce Te iubesc. :/
+
+[s3]
+Câţi n-ar vrea să aibă-n
+suflet un Mântuitor.
+Câţi n-ar vrea să aibă-n
+viaţă un Salvator.
+Însă câţi Te-aleg pe Tine
+ca Stăpân şi Dumnezeu,
+Numai Tu poţi mântui
+din păcat şi rău.
+
+[s4]
+Eu Te-aleg pe Tine Doamne
+Te aleg Stăpân divin,
+/:Şi aici şi-n veşnicii
+până-n veci amin.:/
+
+[order]
+s1,s2,s3,s4

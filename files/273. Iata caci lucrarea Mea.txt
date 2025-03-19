@@ -1,0 +1,87 @@
+[s1]
+1. Iată căci lucrarea Mea
+Aici pe pământ
+Cum se va întemeia
+În poporul Sfânt
+273.
+
+[s2]
+Nu-i nimic cu neputinţă
+La cei care au credinţă
+Eu clădesc inimile
+Şi fac să tresalte
+
+[s3]
+2. Să cunoaşteţi glasul Meu
+Când El vă vorbeşte
+Că-s puteri din Dumnezeu
+Şi vă sfătuieşte
+
+[s4]
+Rabdă şi suferă tot
+Căci iată eu sunt Hristos
+Care greu am îndurat
+Pe lemn la Golgota
+
+[s5]
+3. Colo sus în veşnicii
+Nu-i ca pe pământ
+Toate faptele se scriu
+Şi orice cuvânt
+
+[s6]
+Acel ce nu-mi va urma
+Nu va sta la masa mea
+Cu Avraam şi cu Isaac
+Care m-au ascultat
+
+[s7]
+4. Iar voi care mă iubiţi
+Ascultaţi vă spun
+Tot ce vine suferiţi
+Ăsta-i drumul bun.
+
+[s8]
+Ăsta-i drumul cel curat
+Pe care Eu am umblat
+Şi toţi cei ce mă iubesc
+Nu se poticnesc
+
+[s9]
+5. Iar când nu aveţi răbdare
+Fiilor iubiţi
+Şi întârziaţi pe cale
+Şi vă poticniţi
+
+[s10]
+Când să luaţi crucea mea
+Firea spune nu-i aşa
+Şi intrând la judecată
+Calea nu-i curată
+
+[s11]
+6. Iată cei ce sunt cu mine
+Şi care mă iubesc
+În tot timpul spun că-i bine
+Şi se înveselesc
+
+[s12]
+Ah şi cum li-i de uşor
+Când sunt în inima lor
+Iar când vin cei răzvrătiţi
+Ei au biruit.
+
+[s13]
+7. Iar când sunteţi prigoniţi
+Să vă bucuraţi
+Căci prin asta dovediţi
+Că sunteţi curaţi.
+
+[s14]
+Căci poporul Lui Hristos
+N-are dreptul aici jos
+Căci dreptatea celui Sfânt
+Nu-i pe acest pământ.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12,s13,s14

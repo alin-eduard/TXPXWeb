@@ -1,0 +1,33 @@
+[s1]
+1315.
+1.  Ce aproape eşti Tu Doamne
+De acei care astăzi plâng.
+/: Cu inima întristată.
+Doborâtă la pământ:/
+2.  Din Cuvânt în cartea Sfântă
+Doamne acum am aflat.
+/: Căci Tu vii să simţi cu-acela
+Care-i trist şi apăsat:/
+
+[s2]
+3.  Rana lui din piept adâncă
+Doamne Tu o legi frumos
+/: Şi dai vindecare sfântă
+Medic bun Isus Hristos:/
+4.  Vino dar şi mântuieşte
+Duhul cel zdrobit şi frânt.
+/: Auzi Doamne astăzi glasul
+Celui trist pe-acest pământ:/
+
+[s3]
+5.  Căci cei fără de prihană
+La Tine când vor striga
+/: Din necazurile vieţii
+Tu ai spus că-i vei salva:/
+6.  Din necaz voi strânge turma
+Pribegită pe pământ.
+/: Voi vă pregătiţi de-acuma
+Căci iată eu vin curând:/
+
+[order]
+s1,s2,s3

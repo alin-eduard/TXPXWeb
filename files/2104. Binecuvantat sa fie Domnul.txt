@@ -1,0 +1,41 @@
+[s1]
+2104
+1. Binecuvântat să fie Domnul
+Glorie lui Dumnezeu
+/: Că ne-a scos din
+groapa morţii
+Ne-a salvat prin Fiul Său :/
+
+[s2]
+2. Binecuvântat să fie Domnul
+Că de noi El s-a îndurat
+/: Ne-a spălat în sfântuI sânge
+Viaţă veşnică ne-a dat :/
+
+[s3]
+3. Îl vom lăuda printre popoare
+Mare este Dumnezeu
+/: Că ne-a scos de la pierzare
+Ca să fim în rai cu El :/
+
+[s4]
+4. Lăudaţi pe Domnul
+Daţi-I slavă
+Voi ce staţi în casa Lui
+/: Inima mereu să cânte
+Pentru Slava Domnului :/
+
+[s5]
+5. Gata mi-este inima să cânte
+Pentru Domnul meu Isus
+/: Că El s-a jertfit pe cruce
+Să ne ducă-n ceruri sus :/
+
+[s6]
+6.Tresăltaţi cu toţi de bucurie
+Că Isus ne-a mântuit
+/: Orice gură să-I dea slavă
+Domnului Isus iubit :/
+
+[order]
+s1,s2,s3,s4,s5,s6

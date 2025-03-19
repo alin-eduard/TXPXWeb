@@ -1,0 +1,32 @@
+[s1]
+Isuse, Te iubesc mai mult
+Ca tot ce-i pământesc.
+De când eşti Tu amicul meu
+În pace eu trăiesc.
+
+[r1]
+Eu nici nu aş fi cugetat
+ce mult Tu mă iubeşti.
+Prin mila şi-ndurarea Ta
+iertare-mi dăruieşti.
+
+[s2]
+Pe-ai mei prieteni îi iubesc;
+Pe Tine şi mai mult.
+Frumos e numele Tău sfânt:
+E ca un cânt plăcut.
+
+[s3]
+Ce mari şi sfinte bucurii
+În inimă mi-ai dat!
+De n-aş avea iubirea Ta,
+Aş fi tot întristat.
+
+[s4]
+O, ce frumos e-n slava Ta,
+Iubitul meu Isus!
+Cu Tine-n veci m-oi bucura,
+Aşa cum Tu mi-ai spus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

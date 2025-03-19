@@ -1,0 +1,41 @@
+[s1]
+2136
+1. Când se duc de
+lângă tine
+Prietenii ce i-ai avut
+Când viața ți-e pustie
+Și nu ai pe nimeni scut.
+
+[r1]
+Cor: /: Nu te teme, nu te teme
+Cerul e deasupra ta
+Doar ridică a ta privire
+Și un înger vei vedea :/.
+
+[s2]
+2. Când se duc de
+lângă tine
+Chiar acei din casa ta
+Când vin norii pe cărare
+Domnul e lumina ta.
+
+[s3]
+3. Când nu-ți afli alinarea
+Plângi în noapte singurel
+Când nu ai o mângâiere
+Uită-te atunci spre cer.
+
+[s4]
+4. Când nu ai pâine pe masă
+Adu-ți aminte din Scripturi
+Domnul poate să hrănească
+Chiar și din fărâmituri.
+
+[s5]
+5. Nu te teme, ai credință
+Cerul e deasupra ta
+Steagul cel de biruință
+Domnul în mână ți-l va da.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

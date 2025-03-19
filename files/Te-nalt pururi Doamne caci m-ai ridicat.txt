@@ -1,0 +1,46 @@
+[s1]
+1
+Te-nalţ pururi, Doamne,
+căci m-ai ridicat!
+Pe vrăjmaşi, să râdă,
+Tu nu i-ai lăsat.
+Am strigat, spre Tine,
+Doamne-ndurător,
+Tu m-ai ridicat şi
+n-ai lăsat să mor.
+
+[s2]
+2
+Când îmi mergea bine,
+îmi ziceam aşa:
+“Niciodată, Doamne,
+nu m-oi clătina...”
+Căci pe-un munte tare,
+Tu m-ai aşezat,
+Dar Ţi-ai ascuns Faţa
+şi m-am tulburat.
+
+[s3]
+3
+Doamne-ascultă!
+Doamne, fii îndurător!
+Vino şi-mi ajută,
+că-s făr-ajutor."
+Şi Tu,-n veselie,
+plânsul mi-ai schimbat,
+Dezlegându-mi jalea,
+şi m-am bucurat.
+
+[s4]
+4
+Doamne, al meu suflet
+şi inima mea
+Pururea să-Ţi cânte,
+mută să nu stea!
+Doamne, Domnul slavei,
+eu cât voi trăi,
+Pururea, pe Tine,
+Te voi preamări.
+
+[order]
+s1,s2,s3,s4

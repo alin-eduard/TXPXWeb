@@ -1,0 +1,42 @@
+[s1]
+Iubirea de mamă nu pot s-o descriu
+Oricît aş dori şi aş vrea.
+Trudeşte din greu, robotind ne-ncetat
+Odihnă n-a aflat.
+
+[s2]
+/: Copiii se duc, o uită ades
+Se duc azi pe drumul ales. :/
+
+[s3]
+Şi eu am o mamă ce mult m-a iubit
+De rele ades m-a ferit.
+În braţe m-a dus şi la pat mi-a vegheat
+În rugă m-a purtat.
+
+[s4]
+/: Adesea eu uit să-i mulţumesc
+Cînd mîinile ei se-obosesc. :/
+
+[s5]
+Şi tu ai o mamă ce mult te-a iubit
+Iubind-o, vei fi fericit.
+Un sfat de la ea orişicînd vei primi
+Ce bine îţi va sluji.
+
+[s6]
+/: Iubeşte-o mereu şi n-o întrista
+Căci ea este doar mama ta ! :/
+
+[s7]
+Odată vei fi şi tu mamă cîndva
+Copii buni să ai tu ai vrea
+Ce nu vrei să facă, să nu faci acum
+Să judeci ce îţi spun.
+
+[s8]
+/: Ferice va fi de tine şi ai tăi
+Căci Domnul iubeşte pe ai Săi ! :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

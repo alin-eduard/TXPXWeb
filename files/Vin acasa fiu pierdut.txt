@@ -1,0 +1,33 @@
+[r1]
+Vin, acasă, fiu pierdut!
+Aici găseşti iertare, vieţii tale scut.
+Isus te-aşteaptă, vino acum!
+Vin, acas, pînă nu-i prea tîrziu!
+
+[s1]
+Trăiam fără nădejde,
+fără de Dumnezeu
+În întuneric, făcînd ce-i rău.
+Dar iată că la mine
+un om blînd a venit
+Cu glas duios şi dulce mi-a vorbit
+
+[s2]
+Eu am venit atunci
+plîngînd naintea Sa
+Să-mi dea iertarea, pacea Sa.
+De-atunci eu cînt întruna
+şi laud pe Dumnezeu
+C-a luat povara şi jugul meu.
+
+[s3]
+N-auzi şi tu chemarea,
+prietenul meu drag?
+Azi Domnul Isus
+te-aşteaptă-n prag!
+Pe cruce la Golgota,
+ca să fii mîntuit
+Purtînd a ta povară, a murit.
+
+[order]
+r1,s1,r1,s2,r1,s3,r1

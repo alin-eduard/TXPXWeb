@@ -1,0 +1,8 @@
+[s1]
+Doamne Isuse, Lumină a lumii
+Izgoneşte-ne ura din noi
+Doamne Isuse, Lumină a lumii
+Coboară dragostea Ta peste noi.
+
+[order]
+s1

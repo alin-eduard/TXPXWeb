@@ -1,0 +1,52 @@
+[s1]
+E zi de sarbatoare
+Doi tineri au pornit
+In fata Ta o Doamne Sfant
+Destinul si-au unit
+E dragostea ce i-a adus
+Iubirea ce acum
+Prin legamant si-o daruiesc
+Pornind pe un nou drum
+
+[s2]
+E ziua sfanta-n care voi
+Cuvantul vi-l veti da
+E un drum plin de taine noi
+Pe care veti intra
+Va v-a conduce Duhul Sfant,
+Dar cel mai pretios
+Ce Tatal din marire
+Peste voi l-a revarsat
+
+[s3]
+Binecuvantata fie
+Ziua-aceasta pentru voi
+Doamne din a Ta marire
+S-o reversi peste-amandoi
+Si de azi inainte
+Tu sa fii in a lor drum
+Mana Ta Doamne
+Peste ei sa fie-acum
+
+[s4]
+In casa voastra va dorim,
+Binecuvantari ceresti
+Mireasa draga nu uita
+Pe mire sa-l pretuiesti
+Iar tie mire drag iti spun
+Nu uita de darul sfant
+Pe-a ta aleasa s-o iubesti
+Cum te-a iubit Isus
+
+[s5]
+Binecuvantata fie
+Ziua-aceasta pentru voi
+Doamne din a Ta marire
+S-o reversi peste-amandoi
+Si de azi inainte Tu
+Sa fii in a lor drum
+Mana Ta Doamne
+Peste ei sa fie-acum
+
+[order]
+s1,s2,s3,s4,s5

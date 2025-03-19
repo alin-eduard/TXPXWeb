@@ -1,0 +1,32 @@
+[s1]
+Noi Tată sfânt venim acum
+În faţa Ta să ne-nchinăm
+Şi-o rugă să ‘nălţăm,
+Prin Sfântul Nume-al lui Isus
+Şi domn şi rege şi stăpân
+S-aduci la viaţ-orice roman.
+
+[r1]
+Trezire vrem, trezire vrem
+Peste-a noastră ţară
+Trezire vrem, trezire vrem
+Peste-ntreaga ţară
+
+[s2]
+Poporul doarme în păcat,
+şi astfel este condamnat
+La moarte şi osândă,
+ridic-al neştiinţei văl
+Şi luminează mintea lor,
+cuvântul să-i pătrundă.
+
+[s3]
+Pe orice om noi sfătuim,
+acum cât înca mai e har
+La Domnul să revină,
+nu este vreme de pierdut
+E timpul să ne pocăim,
+Isus gata-i sa vina.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,24 @@
+[s1]
+În grădina Ghetsimani
+Unde plâng atâţi crestini
+Am dorit de mult să facem
+Un popas pe sub măslini.
+
+[r1]
+/: O, Ghetsimani, o, Ghetsimani,
+grădina frumuseţii ! :/
+
+[s2]
+Însă harul mântuirii
+Ne-a umbrit pe-acest Pământ
+Şi-am trăit această clipă
+Cercetaţi prin Duhul Sfânt.
+
+[s3]
+O, ce taină e grădina
+Şi ce har se-ascunde-n ea ! -
+Amintirile acelea
+Din a vieţii noapte grea.
+
+[order]
+s1,r1,s2,r1,s3,r1

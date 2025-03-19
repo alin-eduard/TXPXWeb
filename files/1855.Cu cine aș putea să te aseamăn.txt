@@ -1,0 +1,42 @@
+[s1]
+1855.
+1. Cu cine aș putea să Te aseamăn
+Cu cine aș putea ca să Te schimb
+Căci ce ființă ar mai fi sub soare
+Să se jertfească cât Tu Te-ai jertfit.
+/:Și cine ar putea să înțeleagă
+Atâta cât Tu astăzi înțelegi
+Și cine ar putea ca să iubească
+Atât cât Tu Isuse azi iubești:/
+
+[s2]
+2. Și cine ar putea să deie pace
+Atâta cât Isus Tu astăzi dai
+Și cine ar putea să dea iertarea
+Și siguranța strămutări-n Rai
+/:Și cine poate-atâta siguranță
+Să-mi lase azi  în sufletul stingher
+Și-n deznădejde El să mă-ntărească
+Să-ntindă mâna să m-apuc de El:/
+
+[s3]
+3. Și cine-atunci când boala mă doboară
+Și rana mea nu mai găsește leac
+Să-mbrace cea mai sfântă haină albă
+Atunci când El Isus va fi chemat
+/:Să zică fiu și fiică îndrăznește
+Că nu e boală Eu să nu am leac
+Credință tu să ai și îndrăznește
+Ridică-ți patul azi ești vindecat:/
+
+[s4]
+4. Și dacă astăzi tu vei recunoaște
+Că nimeni altul n-ar putea să dea
+Iubire , har și pace , mângâiere
+Decât Isus Hristos în mila Sa.
+/:Tu vei avea pe veci de veci cu tine
+Pe Cel ce-a fost și va rămâne-n veci
+El Salvatorul nost' și-al lumii 'ntregi:/
+
+[order]
+s1,s2,s3,s4

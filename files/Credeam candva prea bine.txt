@@ -1,0 +1,42 @@
+[s1]
+Credeam candva prea bine,
+ca totul e mister
+Si n-am stiut ca viata,
+este doar in El
+
+[s2]
+Dar stiu ca voi ajunge
+candva sa pot avea
+Ce lumea asta toata,
+nu-mi va da
+
+[s3]
+Dar stiu acum prea bine,
+ca nu e un mister,
+Oricine poate-ajunge,
+azi spre cer, prin El
+
+[s4]
+Prin Isus
+Oricine poate-ajunga-n cer
+
+[s5]
+Alerg si-n zi cu soare,
+si-n zilele cu ploi,
+Spre viata-aceea-n care,
+nu vor mai fi nevoi.
+
+[s6]
+Si-as vrea sa vii cu mine,
+candva sa poti avea
+Ce lumea asta toata,
+nu iti va da
+
+[s7]
+Dar stiu acum prea bine,
+ca nu e un mister,
+In cer oricine-ajunge,
+ajunge doar prin El, prin Isus
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

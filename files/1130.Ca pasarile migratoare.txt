@@ -1,0 +1,43 @@
+[s1]
+1130.  Fa m
+Ca păsările migratoare
+Şi noi emigranţi ne numim
+Mereu către Ţara cu soare
+Prin valuri şi vânturi plutim.
+Cor:	În urmă-i furtuna pentru totdeauna
+’Nainte e Ţara şi soarele cald
+Cetatea-i de aur cu porţi de safire
+Cu străzi aurite şi cer de smarald.
+
+[s2]
+2.      Aicea lăsăm colivia
+Şi cuibul din vreascuri uscat
+‘Nainte privim veşnicia
+Şi locul spre care am plecat.
+Cor:	În urmă-i furtuna pentru totdeauna
+’Nainte e Ţara şi soarele cald
+Cetatea-i de aur cu porţi de safire
+Cu străzi aurite şi cer de smarald.
+
+[s3]
+3.       Şi nu ne vom pierde în larguri
+Pe-oceanele pline cu nori
+Că-n faţă se văd trei catarge
+E-al mântuirii vapor.
+Cor:	În urmă-i furtuna pentru totdeauna
+’Nainte e Ţara şi soarele cald
+Cetatea-i de aur cu porţi de safire
+Cu străzi aurite şi cer de smarald.
+
+[s4]
+4.       Credinţa, nădejdea, iubirea
+Ne poartă când am obosit
+Căci Domnul e totul, mărirea
+Şi soarele fără sfârşit.
+Cor:	În urmă-i furtuna pentru totdeauna
+’Nainte e Ţara şi soarele cald
+Cetatea-i de aur cu porţi de safire
+Cu străzi aurite şi cer de smarald.
+
+[order]
+s1,s2,s3,s4

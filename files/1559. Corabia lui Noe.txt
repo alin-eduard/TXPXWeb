@@ -1,0 +1,46 @@
+[s1]
+1559.
+1. Corabia lui Noe pluteşte-n furtună
+Şi valuri de ape mereu se adună
+Ea lasă pământul se-nalţă întruna
+Plutind peste al morţii ocean
+Corabia-i mare corabia-i tare
+Căci Noe e-al ei căpitan.
+
+[r1]
+Cor: Şi ziua şi noaptea
+Fără încetare
+Văzduhu-şi revarsă
+Cascade mereu
+Adâncu-şi deschide
+A sale izvoare
+Să vină potopul
+A zis Dumnezeu.
+
+[s2]
+2.Un astru se stinge o lume dispare
+E lumea lui Noe
+Ce-a trăit sub soare
+Şi oameni şi vite oceanu-i înghite
+Căci apele s-au revărsat
+Fiinţele toate au fost înecate
+Dar Noe cu-ai săi au scăpat.
+
+[s3]
+3. Scriptura şi astăzi ne-aduce amintirea
+Să ştim cum s-a întâmplat
+Cum apele toate au fost dezlegate
+Şi toate de-odată au pornit
+Şi adâncul şi zarea şi oceanul şi mare
+Cum toate s-au reîntâlnit.
+
+[s4]
+4.Păcatul e cauza în orice pierzare
+Credinţa-i corabia pentru salvare
+Veniţi la credinţă şi la pocăinţă
+Veniţi şi fugiţi de păcat
+Sfârşitul i-aproape cel ce vrea să scape
+Să vină să fie salvat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

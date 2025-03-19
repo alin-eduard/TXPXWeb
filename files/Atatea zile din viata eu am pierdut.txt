@@ -1,0 +1,46 @@
+[s1]
+Atâtea zile din viaţă eu am pierdut
+Şi n-am lucrat în via Sa cum aş fi vrut!
+Dar eu vă spun că
+Mie-aşa de rău îmi pare
+Că n-am lucrat atunci
+Mai mult când s-a putut.
+
+[s2]
+Aşa trecut-au anii unul după altul
+Şi noi am stat, am stat nepăsători
+Iar fiecare an ne-apropie de Domnul
+Şi noi mai stăm, mai stăm nepăsători.
+
+[s3]
+De-această zi aş vrea
+ca toţi să-şi amintească,
+Căci zile ca acestea n-or mai fi,
+Iar celor ce-au venit
+ca să se pocăiască,
+De-această zi aş vrea
+mereu a le-aminti.
+
+[r1]
+E, poate, ziua cea din urmă a chemării
+Şi tu mai stai, mai stai nepăsător...
+Tu ştii că se va-nchide uşa îndurării?
+Atunci de ce, de ce mai stai nepăsător?
+
+[s4]
+Acolo-n ceruri, când
+se va deschide cartea,
+Când numele acelor sfinţi se vor citi
+Şi fiecare dintre ei îşi va lua partea,
+Acolo-aş vrea, Isuse sfânt, şi eu a fi.
+
+[s5]
+Şi, ce frumoasă fi-va atunci amintirea
+Acelor ce-au lucrat aici,
+pe-acest pământ,
+Iar partea lor cea bună va fi fericirea
+De-a sta în cer mereu,
+în veci, cu Domnul Sfânt.
+
+[order]
+s1,s2,s3,r1,s4,r1,s5,r1

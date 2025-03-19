@@ -1,0 +1,26 @@
+[s1]
+Domnul Isus, pe cruce pus,
+răbdînd supus ocara
+A suferit nevinovat,
+dar mi-a luat povara.
+
+[s2]
+El a murit căci ne-a iubit
+şi ne-a gătit salvarea
+Ca tu să vii plîngînd la El
+şi-n dar să-I ceri iertarea.
+
+[s3]
+O, dac-ai vrea iubirea Sa
+inima ta s-o frîngă!
+Primind în dar cerescu-I,
+har Îl vei slăvi în rugă.
+
+[s4]
+Tu ai vedea cum jertfa Sa
+poate spăla pe-oricine
+Şi-ai sta oricui plîngînd
+să spui de mila Lui cea mare.
+
+[order]
+s1,s2,s3,s4

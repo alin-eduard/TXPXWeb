@@ -1,0 +1,27 @@
+[s1]
+Cât va fi pământul sfânt va răsuna
+Imnul adorării pentru slava Ta,
+Orice neam sau limbă Te va lăuda,
+Tu eşti Creatorul,
+Tu în veci vei rămânea.
+
+[r1]
+/: Slavă, slavă, noi Te lăudam
+Şi din inimi închinare-Ţi dăm,
+Imnul laudei sfinte nu va-nceta
+Toată veşnicia Doamne-Ţi vom cânta. :/
+
+[s2]
+Nu va fi vreodată-un colţ de pe pamânt
+Să nu-ţi cânte laudă Ţie Doamne sfânt.
+Dacă omenirea nu Te va lăuda
+Va cânta natura, aştrii vor cânta.
+
+[s3]
+Dacă unii astăzi nu Te vor slăvi
+Mâine regreta-vor când Te vor privi
+Dacă azi ni-e cântul de tristeţe nins,
+Mâine va fi vesel sus în Paradis.
+
+[order]
+s1,r1,s2,r1,s3,r1

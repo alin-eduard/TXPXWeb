@@ -1,0 +1,38 @@
+[s1]
+Sfinte Tată bun şi blând
+Ţie ne-nchinăm plângând
+Printre lacrimi fierbinţi
+Ale inimii dorinţi
+1.
+/: Prin smerite rugăciuni
+Ale vieţii slăbiciuni
+Şi-mpotir de legământ
+Dorul îndreptării Sfânt :\
+1209
+
+[s2]
+Căci ne doare-adânc şi-amar
+Vorba multă fără har
+Rugăciunea fără foc
+Slujba fără Duh deloc
+2.
+Părtăşia fără har
+Dragostea fără fior
+Bucuria fără cânt
+Viaţa fără Duhul Sfânt  :\
+/:
+
+[s3]
+Doamne-ndură-Te şi fă-i
+Plini de har pe toţi ai Tăi
+Dă-ne un Duh ascultător
+Calm şi blând şi răbdător
+3.
+Mai fierbinte să iubim
+Mai adânc să ne smerim
+Noi în viaţă să trăim
+Ca să fim cum ne numim. :\
+/:
+
+[order]
+s1,s2,s3

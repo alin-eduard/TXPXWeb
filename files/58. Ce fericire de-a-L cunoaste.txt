@@ -1,0 +1,34 @@
+[s1]
+58.                    Sol
+1. Ce fericire de-al cunoaşte
+Pe Isus Păstorul minunat
+Ce cu blândeţe turma îşi paşte
+Şi-o apără neîncetat.
+
+[r1]
+Cor: Lui să-i cântăm
+Lui să-i cântăm
+El pentru noi viaţa şi-a pus
+Acum şi noi viaţa să-I dăm
+Să fim ostaşi a lui Isus
+
+[s2]
+2. Cu toţi am mers pe căi deşarte
+În pofte rele şi-n păcat
+Dar El veni şi de la moarte
+În viaţă eternă ne-a purtat.
+
+[s3]
+3. Ca nişte orbi pe calea lată
+Mergeam spre veşnicul abis
+Dar El a şters a vinei pată
+Şi acum păşim spre Paradis.
+
+[s4]
+4. Să-naintăm deci fără frică
+Şi făr' de griji să-naintaţi
+Căci azi suntem o ceată mică
+Dar toţi de regi şi de împăraţi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

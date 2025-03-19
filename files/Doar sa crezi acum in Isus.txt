@@ -1,0 +1,32 @@
+[s1]
+O, suflet ce eşti apăsat,
+La Domnul să alergi
+Căci de păcat vei fi salvat,
+Cuvântul doar să­L crezi.
+
+[r1]
+Doar să crezi acum în Isus,
+Doar să crezi acum;
+El te va salva pe tine,
+El te va salva!
+
+[s2]
+Pe cruce­a dat El sângele
+Ca cei ce sunt pătaţi
+Să­şi spele azi păcatele,
+Să fie toţi curaţi.
+
+[s3]
+A vieţii cale e Isus,
+Spre cer conduce ea;
+Deci, crede, lasă-te condus,
+Odihnă vei avea.
+
+[s4]
+O, vino suflet păcătos
+Cu cei salvaţi ai Lui
+Să fii spre ceruri călător,
+Slujindu­I Domnului.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

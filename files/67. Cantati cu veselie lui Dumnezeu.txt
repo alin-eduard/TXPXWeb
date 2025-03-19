@@ -1,0 +1,93 @@
+[s1]
+67
+1. Cântaţi cu veselie
+Lui Dumnezeu cântaţi
+Spre El cu bucurie
+Voi strigăte înălţaţi
+Stăpânul lui Israel
+Cântaţi cântec plăcut
+Cântaţi, sunaţi din trâmbiţi
+Din harfa şi alăută.
+
+[s2]
+2. Sunaţi Lui din trâmbiţi
+La Lună nouă zi
+La Lună plină-n
+Ziua alesei sărbători
+Căci asta e o lege
+În veac lui Israel
+Poruncă de la Domnul
+Lui Iacov pentru El.
+
+[s3]
+3. El sărbătoarea aceasta
+Lui Iosif a rânduit
+Atunci când împotriva
+Egiptului porni
+Atunci auziră un glas
+Dulce plăcut
+Un glas pe care încă
+Noi nu l-am cunoscut.
+
+[s4]
+4. I-am aruncat povara
+Din umeri a Lui chin
+Şi mâinile Lui slabe
+Azi coşul nu-L mai ţin
+Strigând ţi-am dat scăpare
+Tunând răspuns ţi-am dat
+La apele Meriba
+Atunci te-am încercat.
+
+[s5]
+5. Poporul meu ascultă
+Şi Eu îţi voi vorbi
+La apele Meriba
+Cu gura Mi-ai vorbit
+'Nainte să nu-ţi fie
+Un Dumnezeu străin
+La dumnezei străini
+Să nu te mai închini.
+
+[s6]
+6. Căci numai Eu sunt Domnul
+Şi Dumnezeul Tău
+Acela ce te scapă
+Din locul cel mai greu
+Şi din Egipt şi ţie
+Eu ţi-am grăit aşa
+Deschideţi gura larg
+Şi Eu îţi voi umplea.
+
+[s7]
+7. Dar iată că poporul Meu
+Nu m-asculta
+La glasul Meu Israel
+Nici seama n-a luat
+Şi i-am lăsat în voia
+Pornirii lor cea rea
+Din inima stricată
+Ei sfatul şi-au urmat.
+
+[s8]
+8. O, de M-ar asculta
+Poporul Meu acum
+Şi de-ar umbla Israel
+De-acum pe al meu drum
+Într-o clipă i-aş bate
+Pe a lor asupritori
+Mi-aş pune mâna contra
+Potrivnicilor lor.
+
+[s9]
+9. Şi cei ce urăsc pe Domnul
+Atunci l-ar linguşi
+Şi pacea lui Israel
+Pe veci ar dăinui
+Cu cel mai bun grâu
+Hrană de-apururea le-aş da
+Cu mierea cea din stâncă
+Mereu L-aş adăpa.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

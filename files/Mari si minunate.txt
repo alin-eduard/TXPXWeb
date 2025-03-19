@@ -1,0 +1,23 @@
+[s1]
+Mari şi minunate, sunt lucrările Tale,
+O, Domn, Creator, Atotputernic.
+Drepte şi curate, sunt căile Tale,
+Al lumii Împărat.
+
+[s2]
+Cine de Tin’ să nu se teamă,
+Şi să Te proslăvească?
+Singurul sfânt eşti Tu, Doamne,
+Tu, numai Tu.
+
+[s3]
+Popoarele toate Ţi se vor închina
+Căci slava Ta ni se va arăta
+Aleluia, aleluia, aleluia, amin.
+
+[s4]
+/: Hai cântă-I laudă :/ (x7)
+Domnului
+
+[order]
+s1,s2,s3,s4

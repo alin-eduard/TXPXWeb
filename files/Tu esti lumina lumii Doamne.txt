@@ -1,0 +1,31 @@
+[s1]
+Tu eşti lumina lumii, Doamne
+Ai Tăi prin Tine strălucesc.
+Dar cum de-ntuneric mai este-n mine
+Cînd Tu eşti lumina lumii ?
+Tu eşti lumina lumii !
+
+[s2]
+Tu eşti pîinea vieţii, Doamne
+Care s-a frînt pentru noi.
+Dar cum de mai este foame-n mine
+Cînd Tu eşti pîinea vieţii ?
+Tu eşti pîinea vieţii !
+
+[s3]
+Tu ai învins lumea, o, Doamne
+Ne-ai dăruit victoria.
+De ce mă mai tem cînd vine ispita
+Cînd Tu ai învins lumea ?
+Tu ai învins lumea !
+
+[s4]
+Şterge-ne lacrimile, Doamne
+Învaţă-ne să Te slujim !
+Ce Tu ai promis ştim că se va-mplini
+Deci şterge-ne lacrimile !
+Şterge-ne lacrimile,
+şterge-ne lacrimile !
+
+[order]
+s1,s2,s3,s4

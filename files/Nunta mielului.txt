@@ -1,0 +1,42 @@
+[r1]
+Nunta Mielului!
+Nunta cea slavita a sosit!
+Sa ne bucuram si sa ne veselim,
+Caci mireasa Lui s-a pregatit!
+
+[s1]
+Hainele de in subtire,
+Fapte de neprihanire
+E puterea ce ne poarta in zenit,
+Ca si porumbelul zarii
+Care sfredeleste norii
+Si se duce-n marele nemarginit.
+
+[s2]
+Ca si tunetele zarii,
+De pe bolta departarii,
+Milioanele de ingeri au cintat:
+“Aleluia! Aleluia!
+Aleluia! Aleluia!
+Dumnezeul nostru-i sfint
+si minunat"
+
+[s3]
+Ca si vuietul de ape,
+Mai aproape mai aproape,
+Rasunau cintarile de pe pamint
+Dumnezeu biruitorul,
+El a mintuit poporul,
+prin Isus Hristos
+Si duhul Lui cel sfint!
+
+[s4]
+Dumnezeul nostru vine!
+Orice om sa i se-nchine
+Si sa fie in continuu pregatit!
+Sa-si adune-acuma inul,
+Daca vrea sa uite chinul
+Si sa fie-n ziua ceea mintuit.
+
+[order]
+r1,s1,r1,s2,r1,s3,r1,s4,r1

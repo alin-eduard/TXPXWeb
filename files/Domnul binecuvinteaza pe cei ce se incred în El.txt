@@ -1,0 +1,38 @@
+[s1]
+Domnul binecuvintează
+pe cei ce se încred în El
+Şi cu dragoste veghează
+la viaţa lor.
+Din iubire pentru oameni
+a jertfit pe Fiul Său
+Pentru tine, pentru mine,
+ca să fim salvaţi.
+
+[r1]
+/: Dumnezeu te cheamă-ascultă !
+Vrea să-ţi dea iubirea Lui !
+Nu mai sta la îndoială
+Azi predă-te Lui ! :/
+
+[s2]
+Nu te îndoi ci crede
+în Cuvîntul Domnului
+Pune-ţi tu în El speranţa
+şi vei fi salvat!
+Scapă-ţi sufletul degrabă,
+pocăieşte-te acum
+Nu mai sta aşa departe
+de iubirea Lui!
+
+[s3]
+Tu nu ştii, ziua de maine
+poate că nu e a ta
+Poate mîine vine Domnul
+şi vei regreta.
+Nu tot amîna pe mîine,
+poate mîine e tîrziu
+Ci ascultă azi chemarea
+dîndu-ţi viaţa Lui!
+
+[order]
+s1,r1,s2,r1,s3,r1

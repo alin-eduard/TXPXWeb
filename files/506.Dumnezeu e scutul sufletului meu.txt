@@ -1,0 +1,50 @@
+[s1]
+1. Dumnezeu e scutul sufletului meu
+El e cetăţuia în care mă-ncred eu.
+Cor: Chiar o mie de-ar cădea
+La stânga mea
+Şi zece mii la dreapta mea
+De asemenea
+/: Nu mă voi clătina, :/
+Căci în Domnul mi-am pus
+Eu nădejdea.
+Psalmul 91      506.     Mi
+
+[s2]
+2. Chiar oştirea în contra mea
+De-ar veni
+Totuşi credinţa mea nu s-ar zgudui.
+Cor: Chiar o mie de-ar cădea
+La stânga mea
+Şi zece mii la dreapta mea
+De asemenea
+/: Nu mă voi clătina, :/
+Căci în Domnul mi-am pus
+Eu nădejdea.
+
+[s3]
+3. Căci prin Domnul
+Voi putea eu îndrăzni
+Peste pui de lei şi năpârci
+De-aş păşi.
+Cor: Chiar o mie de-ar cădea
+La stânga mea
+Şi zece mii la dreapta mea
+De asemenea
+/: Nu mă voi clătina, :/
+Căci în Domnul mi-am pus
+Eu nădejdea.
+
+[s4]
+4. Căci îngerul Domnului mă va ocroti
+Şi de orice pericol mă va păzi.
+Cor: Chiar o mie de-ar cădea
+La stânga mea
+Şi zece mii la dreapta mea
+De asemenea
+/: Nu mă voi clătina, :/
+Căci în Domnul mi-am pus
+Eu nădejdea.
+
+[order]
+s1,s2,s3,s4

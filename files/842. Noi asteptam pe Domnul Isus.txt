@@ -1,0 +1,38 @@
+[s1]
+1. /: Noi aşteptăm pe Domnul Isus
+Când va veni :/
+Noi aşteptăm pe Domnul
+Ce ne-a gătit locul
+Şi-n mărire El ne va duce
+842.
+
+[s2]
+2. /: Noi mergem 'naintea lui Isus
+Când va veni :/
+Noi mergem 'nainte
+El braţu-şi întinde
+Şi la locul promis ne duce.
+
+[s3]
+3. /: Vedea vor pe Isus pe nori
+Când va veni :/
+Da vedea vor pe Isus
+Şi toţi cei ce l-au străpuns
+Şi toţi cei din lume vor plânge.
+
+[s4]
+4. /: Păcătosule ce răspuns vei da
+Când va veni :/
+Când te-a întreba Domnul
+Ce-ai făcut cu talantul
+L-ai schimbat, s-au l-ai îngropat.
+
+[s5]
+5. /: Striga-vei tu la munţi
+Când va veni :/
+O vai va fi de tine
+Nu te-a scoate nimeni
+Căci tu iadul ţi l-ai câştigat.
+
+[order]
+s1,s2,s3,s4,s5

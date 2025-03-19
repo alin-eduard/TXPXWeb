@@ -1,0 +1,33 @@
+[s1]
+1.Înc-un an s-a scurs acum
+Înc-un an din viața ta
+/:Și-n filele care s-au scris
+Nimic nu mai poți schimba:/
+2258.
+
+[s2]
+2.Înc-un an s-a scurs acum
+Îți șoptește cineva
+/:E firul alb din părul tău
+E ridul de pe fața ta:/
+
+[s3]
+3.Înc-un an s-a scurs acum
+Poți să crezi așa ceva?
+/:Căci ca și el s-au scurs chiar zeci
+S-au scurs chiar fără voia ta/
+
+[s4]
+4.Înc-un an s-a scurs acum
+La judecată-l vei vedea
+/:Dacă-n sfințenie ai trăit
+Tu fața sus o vei ținea:/
+
+[s5]
+5.Înc-un an s-a scurs acum
+Curând Isus va reveni
+/:Fă tot ce poți pentru Isus
+Să fii cu El în veșnicii:/   Amin
+
+[order]
+s1,s2,s3,s4,s5

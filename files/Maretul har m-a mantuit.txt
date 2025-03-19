@@ -1,0 +1,26 @@
+[s1]
+Măreţul har m-a mântuit
+Pe mine din păcat,
+/: Pierdut eram, dar m-a găsit,
+De moarte m-a scăpat :/
+
+[s2]
+Măreţul har m-a învăţat
+S-o rup cu orice rău,
+/: Ce scump mi-e azi tot harul dat,
+Trăiesc prin El mereu :/
+
+[s3]
+Prin har ajunge-voi în cer,
+Cu slavă îmbrăcat,
+/: Şi voi slăvi în veşnicii
+Pe Cel ce har mi-a dat :/
+
+[s4]
+Şi după zeci de mii de ani
+Din veacul minunat
+/: Nici cu o picătură n-a scăzut
+Oceanul nesecat :/
+
+[order]
+s1,s2,s3,s4

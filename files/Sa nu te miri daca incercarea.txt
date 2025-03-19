@@ -1,0 +1,61 @@
+[s1]
+Să nu te miri dacă încercarea,
+Loveste fără milă,
+Si dacă lacrimi curg pe-obraz.
+Atunci arată ce e răbdarea,
+Si vezi împrejurarea,
+care aduce acest necaz.
+
+[s2]
+2
+Când îndârjite vin ispite
+Pentru-a mă lovi,
+Tu fă mai tare, harul care
+La-ncercare-mi va sluji.
+Prin harul Tău,
+noi primim răbdarea,
+Să-nvingem încercarea
+Care ne tine robi aici.
+
+[s3]
+3
+Să nu te miri dacă faci un bine,
+Iar semenul la tine,
+Vine să-ti faca numai rău.
+Atunci arată ce e iubirea,
+Născută din trăirea
+Vietii ascunse-n Dumnezeu.
+
+[s4]
+4
+Când îndârjite vin ispite
+Pentru-a mă lovi,
+Tu fă mai tare, harul care
+La-ncercare-mi va sluji.
+Prin harul Tău,
+noi primim răbdarea,
+Să-nvingem încercarea
+Care ne tine robi aici.
+
+[s5]
+5
+Niciodata un cuvant nu piere
+O lacrima nu seaca
+fara sa stie si Isus
+Nadajduieste chiar si-n durere
+asteapta in tacere
+Si Domnul iti va da rapuns
+
+[s6]
+6
+Când îndârjite vin ispite
+Pentru-a mă lovi,
+Tu fă mai tare, harul care
+La-ncercare-mi va sluji.
+Prin harul Tău,
+noi primim răbdarea,
+Să-nvingem încercarea
+Care ne tine robi aici.
+
+[order]
+s1,s2,s3,s4,s5,s6

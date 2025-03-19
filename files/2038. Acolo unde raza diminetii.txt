@@ -1,0 +1,46 @@
+[s1]
+2038
+1. Acolo unde raza dimineții
+În ziua-ntâi tainic s-a ivit
+Acolo unde n-au putut străjerii
+Să țină trupul celui stăpânit
+Înfiorat sublim de Duhul slavei
+M-am închinat pios Domnului meu
+Cutremurat de mărturia vremii
+Mormântu-i deschis de Dumnezeu.
+
+[r1]
+Cor: /: Acolo nu mai sunt
+Stăpâni romanii
+Nici Iosif nu mai este grădinar
+Și-au scuturat mileniile anii
+Dar au rămas miresmele de har
+Nici lacrima fierbinte-a Magdalenei
+Nici fașele de pânză nu mai sunt
+Dar în grădină umbrele uitării
+Nu pot pecetlui acest mormânt :/
+
+[s2]
+2. Mormântu-i gol e martoru-nvierii
+Așa deschis vorbește mișcător
+El spune în rostirile iubirii
+Că lumea are un viu Mântuitor
+Îți mulțumesc Părintele-ndurării
+De harul sfânt ceresc și minunat
+Simțim chiar
+În grădina-nmormântării
+Lângă mormântul celui înviat.
+
+[s3]
+3. Te rog o Doamne bun
+Să-mi dai putere
+Să-Ți fiu și eu un martor pe pământ
+Purtăm în grai și-n fapte învierea
+Așa cum spune Sfântul Tău Cuvânt
+Iar când vei reveni pe nori în Fiul
+Să iei din lume ce-a fost credincios
+Dă-mi harul să Te-ntâmpin cu osana
+În ceasul întâlnirii glorios.
+
+[order]
+s1,r1,s2,r1,s3,r1

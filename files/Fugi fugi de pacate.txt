@@ -1,0 +1,26 @@
+[s1]
+Fugi, fugi de păcate, nu te-apropia,
+Duce la pierzare calea lumii rea.
+Fii treaz şi te roagă, fii încrezător,
+Cu Isus în luptă eşti biruitor!
+
+[r1]
+Vino­-n rugăciune,
+Spune­-I starea ta,
+În Isus te­-ncrede,
+El te va ­ajuta.
+
+[s2]
+La păcat renunţă că te va­-nşela,
+Teme-te de Domnul, mergi pe calea Sa
+Cu Isus trăieşte treaz şi devotat,
+În El te încrede, Lui să­I fii predat!
+
+[s3]
+Fii voios că Domnul e tăria ta,
+La Mântuitorul fie ţinta ta!
+Cine e statornic până la sfârşit
+Va primi cununa, căci a biruit.
+
+[order]
+s1,r1,s2,r1,s3,r1

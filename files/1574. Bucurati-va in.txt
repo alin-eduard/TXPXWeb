@@ -1,0 +1,26 @@
+[s1]
+1574.
+/: Bucuraţi-vă în Domnul Sfânt
+Iar zic bucuraţi-vă :/
+Cor: /: Bucuraţi-vă, bucuraţi-vă
+Iar zic bucuraţi-vă :/
+
+[s2]
+2. /: Bucuraţi-vă în Tatăl Sfănt
+Iar zic bucuraţi-vă :/
+Cor: /: Bucuraţi-vă, bucuraţi-vă
+Iar zic bucuraţi-vă :/
+
+[s3]
+3. Bucuraţi-vă în Duhul Sfânt
+/: Iar zic bucuraţi-vă  :/
+Cor: /: Bucuraţi-vă, bucuraţi-vă
+Iar zic bucuraţi-vă :/
+
+[s4]
+4. Bucuraţi-vă voi toţi acum
+/: Iar zic bucuraţi-vă :/
+Cor: /: Bucuraţi-vă, bucuraţi-vă          Iar zic bucuraţi-vă :/
+
+[order]
+s1,s2,s3,s4

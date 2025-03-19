@@ -1,0 +1,26 @@
+[s1]
+Mulţumiţi lui Dumnezeu că bun e,
+Suflete, tresaltă vesel, deci!
+Grijile le-azvârle, cântă, spune:
+Bunătatea Lui durează-n veci!
+
+[s2]
+Israel, aleasă moştenire,
+Prin pustiu cu Domnul poţi să treci
+Şi să cânţi săltând de fericire:
+Bunătatea Lui durează-n veci!
+
+[s3]
+Prin credinţă mergem înainte,
+Viaţa e-n Isus, nu-n forme reci;
+Preamăriţi pe singurul Părinte,
+Bunătatea Lui durează-n veci!
+
+[s4]
+De te temi de Domnu-oricând, oriunde,
+Dacă numai Lui supus, te pleci,
+Orice-ar zice Satan tu răspunde:
+Bunătatea Lui durează-n veci!
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,53 @@
+[s1]
+1
+Am o carte ce-o iubesc,
+Deşi-i veche o preţuiesc
+Căci pruncia îmi aminteşte tot mereu
+Pe genunchii mamei stam,
+Pe cap mâna-i caldă-aveam
+Şi-mi citea din Cuvântul lui Dumnezeu.
+
+[s2]
+2
+Sfântă Carte, scumpă Carte
+Filele-ţi înlăcrimate le citesc,
+Cum merg pe calea crucii
+Eşti mai dulce zi de zi,
+Căci tu mă conduci la locul sfânt, ceresc.
+
+[s3]
+3
+De Isus ea mi-a vorbit
+Cum pe cruce-a pătimit
+Şi-apoi mântuire nouă El ne-a dat.
+Iar când lacrima-mi curgea
+Ea duios mă săruta
+Şi-mi spunea că şi pentru mine-a răbdat.
+
+[s4]
+4
+Sfântă Carte, scumpă Carte
+Filele-ţi înlăcrimate le citesc,
+Cum merg pe calea crucii
+Eşti mai dulce zi de zi,
+Căci tu mă conduci la locul sfânt, ceresc.
+
+[s5]
+5
+Zilele acelea s-au dus
+Dar le preţuiesc nespus,
+Căci din sfânta Carte eu am învăţat:
+Să fiu bun, curat, cinstit
+Şi astfel mă simt fericit
+Şi aici şi-n cer când voi fi înălţat.
+
+[s6]
+6
+Sfântă Carte, scumpă Carte
+Filele-ţi înlăcrimate le citesc,
+Cum merg pe calea crucii
+Eşti mai dulce zi de zi,
+Căci tu mă conduci la locul sfânt, ceresc.
+
+[order]
+s1,s2,s3,s4,s5,s6

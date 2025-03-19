@@ -1,0 +1,40 @@
+[s1]
+1. /: Să ne rugăm :/
+Să-I cerem să ne-mbrace cu putere
+Căci zilele vor fii nespus de grele
+Să cerem să ne-mbrace cu putere.
+104.                   						    Re
+
+[r1]
+Cor:
+Mână cu mână toţi împreună
+Să ne rugăm, fraţilor!
+Prin rugăciune noi vom învinge
+Tainele ispitelor.
+
+[s2]
+2. /: Să ne rugăm :/
+Ca Moise-n marea lui călătorie
+Pe muntele cel mare din pustie
+Să ne rugăm ca Moise şi Ilie.
+
+[s3]
+3. /: Să ne rugăm :/
+Ca Iosua în lupta lui cea mare
+Să se opreasca minunatul soare
+Ca şi Estera cea biruitoare.
+
+[s4]
+4. /: Să ne rugăm :/
+Ca Iona în adâncurile mării
+Ca Daniel în taina aşteptării
+Ca Israel în ziua-eliberării.
+
+[s5]
+5. Să stăruim, să ne rugăm ,
+Aşa cum s-a rugat şi Ezechia,
+Să ne rugăm așa ca şi Maria,
+Să ne rugăm la fel ca Ieremia.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

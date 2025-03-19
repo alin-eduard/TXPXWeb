@@ -1,0 +1,44 @@
+[s1]
+831.
+1. În Apocalipsa zice Domnul
+Eu sunt începutul fără de sfârşit
+Eu sunt / : Alfa : / şi Omega
+Cel ce va veni pe nori curând.
+2. Grea va fi ziua de judecată
+Dacă aici jos n-ai să-L slujeşti
+Aruncat vei fi atunci în flăcări
+Şi de acolo-n veci n-ai să mai ieşi.
+
+[s2]
+3. Dacă ai să părăseşti pe Domnul
+Fericirea ta nu vei gusta
+Floarea fără Isus nu-nfloreşte
+Viaţa fără Isus este grea.
+4. Am plecat şi-am părăsit
+Pe Domnul
+Am plecat şi L-am lăsat plângând
+Singur am fost în tăcerea nopţii
+Şi pe Isus eu nu L-am simţit.
+
+[s3]
+5. Valurile mari se tot ridică
+Vino Doamne scapă-mi viaţa mea
+Valurile mari stau să mă-nghită
+Te rog vino şi nu mă lăsa.
+6. Întinde-Ţi mâna ca şi lui Petru
+Când pe marea furtunoasă el era
+Dă-mi şi mie aceeaşi credinţă
+Cum lui Petru atunci i-ai dat.
+
+[s4]
+7. Ai privit Doamne atunci cu milă
+Şi pe braţul Tău m-ai ridicat
+Floarea fără Isus nu-nfloreşte
+De când eu pe Isus L-am aflat.
+8. Deci întoarce-ţi sufletul la Domnul
+Ne-ncetat strigă nu zăbovi
+Înspre cer privirea ţi-o ridică
+Toată viaţa fericit vei fi.
+
+[order]
+s1,s2,s3,s4

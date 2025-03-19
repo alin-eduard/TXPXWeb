@@ -1,0 +1,50 @@
+[s1]
+Adesea ispita mă-nvinge,
+Adesea cad iarăşi zdrobit
+Şi pumnii-mi bat pieptul întruna,
+În plânset amar şi cumplit.
+
+[s2]
+/: Mi-e faţa trecută-n durere;
+Cărarea, urcuşul e greu...
+Ce-aş face, Isus, fără Tine,
+De n-ai fi Tu sprijin mereu? :/
+
+[s3]
+Când vine ispita-n puhoaie,
+Când valul se-nalţă-nspumat,
+Aproape Te simt, lângă mine;
+Aproape rămân, ne'ntinat.
+
+[s4]
+/: De urlă furtuna în juru-mi,
+În noaptea de chin şi amar,
+Eu stau cu privire-aţintită
+La cruce, la jertfa-n Calvar. :/
+
+[s5]
+Acolo furtuna se curmă,
+Acolo e pace din plin;
+M-aplec lângă poala-I tăcută
+Şi-I spun tot amaru-n suspin.
+
+[s6]
+/: Apoi, îmi înalţ iar privirea
+Senină ca cerul acum;
+Pot iar ca să merg înainte,
+Să-nving suferinţa pe drum. :/
+
+[s7]
+Pot, iarăşi, iubirea-Ţi adâncă
+S-o spun, s-o vestesc ne'ncetat.
+Şi crucea o pot duce singur
+Cum Domnul odat-a purtat.
+
+[s8]
+/: Ispite-au fost şi-or să mai fie
+C-aşa este drumul în sus;
+Învinge-voi totul, fii sigur,
+Te-ncrede mereu în Isus! :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

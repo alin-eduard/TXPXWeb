@@ -1,0 +1,32 @@
+[s1]
+Iubitii nostri miri,
+In Domnul s-au unit,
+Noi ii iubim, si-acum venim
+cu dragoste sa-i insotim.
+La nunta lor cu sfant fior,
+sa le cantam in cor.
+
+[r1]
+/: Fiti fericiti, traind uniti,
+De Domnul dragostei paziti.
+Fiti fericiti, traind uniti,
+De Domnul dragostei paziti. :/
+
+[s2]
+Sa va iubiti mereu,
+pe Domnul sa-l urmati,
+Sa nu uitati c-ati fost chemati
+viata voastra sa-I predati.
+Noi va iubim si va-nsoti
+mereu sa va dorim:
+
+[s3]
+Azi Domnul v-a unit,
+prin harul Sau slavit,
+Voi sa-L iubiti si sa-I paziti,
+credinta sfanta neclintiti.
+Umbland mereu cu Dumnezeu,
+veti trece orice greu!
+
+[order]
+s1,r1,s2,r1,s3,r1

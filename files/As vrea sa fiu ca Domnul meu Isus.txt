@@ -1,0 +1,29 @@
+[s1]
+Aş vrea să fiu ca Domnul meu Isus,
+Aş vrea să fiu smerit, mereu supus,
+Râvnă­nţeleaptă să am în lucrul Său
+Şi voia Lui să o fac cu drag, mereu.
+
+[r1]
+O, Domnul meu,
+Te rog să mă primeşti,
+Inima mea doar tu o curăţeşti;
+Doamne, acum,
+Te rog să mă sfinţeşti,
+În viaţa mea doar Tu să locuieşti!
+
+[s2]
+Ca Domnul meu doresc a mă ruga
+Să am putere, crucea a purta;
+Despre Isus vreau să spun azi tuturor,
+Prin Duhul Sfânt să pot fi biruitor.
+
+[s3]
+Ca Domnul meu
+Mereu vreau să trăiesc,
+Iubirea Lui în mine s­o vestesc;
+În suferinţă să pot răbda ca El,
+În viaţa mea să Îl vadă toţi pe El!
+
+[order]
+s1,r1,s2,r1,s3,r1

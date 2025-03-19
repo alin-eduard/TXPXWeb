@@ -1,0 +1,37 @@
+[s1]
+Poate mult ai cautat,
+poate inca n-ai aflat
+Raspuns la intrebari,
+ce mult te-au framantat
+Astazi vreau sa stii,
+raspuns la tot nu vei gasi
+Insa nu te intrista,
+curand le vei afla.
+
+[r1]
+Ca un copilas, zambeste-n orice vreme
+Iarta si iubeste pe cei ce ti-au gresit
+Raspunsuri vei afla mai mult de cat vei vrea
+Cand celui ce nu te iubeste, un zambet vei creea
+
+[s2]
+Cand Creatorul tau divin,
+cu drag te-a modelat
+Chip si-asemanarea Sa,
+in Rai a conturat
+De aceea ca si El,
+pe toti din jur sa ii iubesti
+Si sa daruiesti,
+chiar de-nschimb nimic primesti.
+
+[s3]
+Chiar de nu ai meritat,
+cu dragoste ti s-a dat
+Pe Domnul Dumnezeu,
+iertare prin Fiul Sau
+A-ndurat ce-a fost mai rau, vesmant alb El ti-a dat
+Ti-a sters orice pacat,
+sa fii pe veci curat.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,26 @@
+[r1]
+Cum voi merge-n cer la Domnul?
+Cum voi sta în faţa Lui?
+Dacă nici măcar un suflet
+Nu aduc la crucea Lui?
+
+[s1]
+Domnul meu mi-a dat viaţa,
+Nu mă tem de-al morţii ceas.
+Ce voi spune când va zice:
+“Fără snopi tu ai rămas?”
+
+[s2]
+Anii mei pierduţi în lume
+Încă-odată de-ar veni,
+Să lucrez doar pentru Domnul,
+Cât de fericit aş fi!
+
+[s3]
+Voi, creştini, lucraţi cu râvnă,
+Harnici pe ogor să fiţi.
+La Isus pe mulţi aduceţi,
+Cât în lume mai trăiţi.
+
+[order]
+r1,r1,s1,r1,s2,r1,s3,r1

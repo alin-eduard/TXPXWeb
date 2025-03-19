@@ -1,0 +1,39 @@
+[s1]
+1806.
+1. Nu te-ndoi când Domnul îţi spune
+Că biruinţă vei avea
+Nu te-ndoi când El e cu tine
+Când El va sta la dreapta ta
+Cor:	/:Vei birui:/
+Când Domnu-I cu tine,
+Nu te îndoi
+
+[s2]
+2. Nu te-ndoi, când se ridică
+Chiar zeci de mii în contra ta
+De oameni să nu-ţi fie frică
+Căci Domnul te va ajuta
+Cor:	/:Vei birui:/
+Când Domnu-I cu tine,
+Nu te îndoi
+
+[s3]
+3. Nu te-ndoi când rugăciunea
+Nu-ţi va primi răspuns pe loc
+Chiar dacă-ntârzie furtuna
+Tu roagă-te şi mai cu foc
+Cor:	/:Vei birui:/
+Când Domnu-I cu tine,
+Nu te îndoi
+
+[s4]
+4. Nu te-ndoi când suferinţa
+Îţi pare fără de sfârşit
+În urmă vine biruinţa
+Oricât ai fi de obosit
+Cor:	/:Vei birui:/
+Când Domnu-I cu tine,
+Nu te îndoi
+
+[order]
+s1,s2,s3,s4

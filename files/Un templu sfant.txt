@@ -1,0 +1,20 @@
+[s1]
+Te caut zi de zi, si-n jurul meu
+Astept sa vad prezenta Ta divina
+Si inca nu inteleg, o, Domnul meu
+Ca Tu iubesti sa locuiesti in mine
+
+[r1]
+Un Templu Sfant sa-mi fie inima
+In care zi de zi sa locuiesti
+O viata Sfanta sa am, ca a Ta
+E ceea ce-mi doresc, o, Domnul meu
+
+[s2]
+Incununarea Creatiunii Tale sunt
+Si-n mine-ai pus un dor de vesnicie
+Si Templul meu de-aici de pe pamant
+Doresc s-ajunga sus in cer la Tine
+
+[order]
+s1,r1,s2,r1

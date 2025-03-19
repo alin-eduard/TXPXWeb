@@ -1,0 +1,44 @@
+[s1]
+Dacă viaţa noastră este grea
+Totuşi ştiu că sînt în mîna Sa.
+
+[s2]
+Aş vrea să nu mai
+fie nici lacrimi, nici suspine
+Dar viaţa pe Pămîntâ
+mereu va fi aşa.
+Dar cînd Isus veni-va,
+uita-voi ce-i durerea
+Şi-o veşnicie-ntreagă
+cu El m-oi bucura.
+
+[s3]
+În necazul nostru pe Pămînt
+Dragostea lui Isus e legămînt.
+
+[s4]
+În orice întristare
+El este mîngîiere
+El e a mea tărie,
+izvor de dragoste.
+Mă simt atît de bine
+cînd El este cu mine!
+O veşnicie-ntreagă
+cu El m-oi bucura.
+
+[s5]
+Cînd Îi spun lui Isus că sînt slab
+El se va-ngriji ca eu să nu cad.
+
+[s6]
+/: Mereu îmi dă scăpare
+cu mana-I salvatoare
+Şi-apoi zîmbind
+mă cheamă să stau la pieptul Lui.
+Iar eu cu bucurie răspund
+l-a Lui iubire
+Şi-atunci, privind spre ceruri,
+mă-ndrept spre Paradis. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

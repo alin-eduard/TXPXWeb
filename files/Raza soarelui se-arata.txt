@@ -1,0 +1,36 @@
+[s1]
+Raza soarelui se-arata
+Deschizand cerul spre noi
+Si cuprinde intreg pamantul
+Marea si intinsul ei
+Caci soare va straluci
+Umbrele vor disparea
+Domnul vine iar e speranta mea
+
+[r1]
+Tu esti scaparea mea in vreme de furtuna
+Tu esti corabia ce infrunta valul greu
+Calea luminii care duce sus la ceruri
+O, Doamne eu ma incred in Tine
+O, Doamne te slavesc
+
+[s2]
+Tata mi-ai vazut durerea
+si teama tu-mi cunosti
+Mana Ta cereasca lacrima
+mi-a sters
+Iar cand pacatul meu ascuns apasa viata mea
+Imi plec genunchii mei
+si Tie ma inchin
+
+[s3]
+Cred Isuse ca Tu esti unicul raspuns
+Framantarilor din viata mea
+Tu esti scaparea mea in vreme de furtuna
+Tu esti corabia ce infrunta valul greu
+Calea luminii care duce sus la ceruri
+O, Doamne eu ma incred in Tine
+O, Doamne te slavesc
+
+[order]
+s1,r1,s2,r1,s3

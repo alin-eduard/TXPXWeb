@@ -1,0 +1,30 @@
+[s1]
+O frumoasă moştenire
+Domnul mi-a promis
+În cetatea de safire, noul Paradis.
+
+[r1]
+/: Când voi intra pe porţile acelea
+Strălucitor ca Soarele senin
+Noi vom vedea oraşul cel de stele
+Pe care Domnul nostru l-a zidit. :/
+
+[s2]
+O cetate aurie vom primi în dar
+O frumoasă cetăţuie
+numai de cristal.
+
+[s3]
+Şi vom locui pe munte
+unde El ne-a zis
+Vom purta cununi pe frunte
+după cum ne-a scris.
+
+[s4]
+Vom vedea ce niciodată
+n-am putut privi
+Moştenirea minunată
+noi o vom primi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

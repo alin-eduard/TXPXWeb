@@ -1,0 +1,28 @@
+[s1]
+De ce mai este despărţire
+Şi stări cu ochii-n lăcrimaţi?
+Şi-mbrăţişări sfâşâietoare!
+Când nu-i mai bine ca-ntre fraţi!
+Când nu-s cântări mai dragi nici unde
+Nici rugăciune mai cu har
+De ce aşa curând trec toate
+Şi vine despărţirea iar?
+
+[r1]
+O despărtire! de ce oare
+Mai trebuie şi tu să fii?
+De ce plătim cu-atâtea lacrimi
+A noastre scurte bucurii?
+
+[s2]
+De ce aşa de lungă-i vremea
+Când stăm departe şi dorim?
+Şi-aşa de scurtă-i clipa dulce
+Ce-o stăm aici când ne-ntâlnim?
+De ce sunt oare-atâtea piedici
+Şi depărtare între noi?
+Când va fi oare întâlnirea
+Să nu mai mergem înapoi?
+
+[order]
+s1,r1,s2,r1

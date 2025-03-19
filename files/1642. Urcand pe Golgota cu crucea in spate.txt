@@ -1,0 +1,52 @@
+[s1]
+1642.        Re m
+1. Urcând pe Golgota
+Cu crucea în spate
+Coroana de spini
+Ce pe cap o purta
+/: El urca-n tăcere
+A noastre păcate
+Şi sarcina lumii era foarte grea! :/
+
+[s2]
+2.Fugit-au cu toţii de Sfânta Lui faţă
+Cu toţii în jurul Lui erau străini.
+/: Şiroaie de sânge
+Brăzdau a lui faţă.
+Pe frunte El poartă
+Cunună de spini. :/
+
+[s3]
+3. Pe câţi învăţat-a,
+Nici unul nu-i astăzi!
+Fugit-au cu toţii, acum L-au lăsat.
+/: Dar fără cârtire, El urcă-n tăcere.
+Şi urcă întruna pe Golgota sus. :/
+
+[s4]
+4. Pe cei însetaţi i-a chemat ca să vie
+Şi apa vieţii le-a dat-o în dar
+/: Dar nimeni n-a fost
+Ca să-I astâmpere setea
+Şi-n loc de apă
+I-au dat un burete-amar. :/
+
+[s5]
+5. Petrecând viaţa în multe suspine
+Păcatele noastre El ni le-a purtat
+/: Atunci ca răsplată
+În mâini şi picioare
+Pe crucea de lemn
+A fost în cuie pironit. :/
+
+[s6]
+6. Aşa se sfârşeşte a lumii salvare
+Pe culmea Golgotei
+Pe vârful de sus
+/: Prin toate acestea
+Ne-aduse iertare
+Şi Cel ce ne-aduse
+E Domnul Isus! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

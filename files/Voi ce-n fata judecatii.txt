@@ -1,0 +1,18 @@
+[s1]
+Voi ce-n faţa judecăţii
+Tremurând şi goi veţi sta
+Haina sfântă a dreptăţii
+Veniţi grabnic spre-a-mbrăca
+/: Singur Isus, singur Isus
+Poate astăzi să v-o dea :/
+
+[s2]
+Voi ce-n jale şi durere
+Vă petreceţi viaţa jos
+Tresăltaţi de bucurie
+Fiţi cu cugetul voios
+/: Căci în ceruri, căci în ceruri
+V-aşteaptă Isus Hristos :/
+
+[order]
+s1,s2

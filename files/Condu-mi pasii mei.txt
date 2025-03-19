@@ -1,0 +1,14 @@
+[s1]
+/:Condu-mi paşii mei
+Să nu mai rătătcesc
+Condu-mi paşii mei
+Să pot să Te urmez:/
+
+[s2]
+Inima-mi strigă spre Tine
+Rămâi lângă mine mereu
+O, Domnul meu
+Condu paşii mei
+
+[order]
+s1,s2

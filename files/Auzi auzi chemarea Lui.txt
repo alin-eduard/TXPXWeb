@@ -1,0 +1,58 @@
+[s1]
+Auzi, auzi chemarea Lui,
+Din slăvile senine!
+Auzi, El din slavă,
+El a coborât la tine.
+
+[s2]
+Te aşteaptă... vino...
+Nu mai sta pe gânduri!
+Dă-i viaţa Lui!
+Căci odihna,
+pace vei găsi de-a pururi,
+Doar la crucea Lui.
+
+[s3]
+Auzi, auzi, o, suflete!
+Te vrea ca să fii gata;
+Auzi, auzi! Când vine El,
+Aduce şi răsplată.
+
+[s4]
+Pregăteşte-ţi viaţa,
+Fă dar fapte bune,
+Ca un rob supus!
+Sfânt să te găsească
+El, atunci când vine,
+Mirele Isus.
+
+[s5]
+Auzi, auzi! Primeşte Duhul Sfânt
+Ca o arvună!
+Auzi, auzi! Prin El,
+Vei dobândi în cer cununa.
+
+[s6]
+El să te păzească,
+Pe drum, în pustie,
+Până la sfârşit,
+Ca să-ţi dea putere,
+prin orice urgie,
+Să fii liniştit.
+
+[s7]
+Auzi, auzi! Isus îţi cere
+Ca astăzi să fii gata;
+Auzi, auzi! El chiar acum
+Aduce şi răsplata.
+
+[s8]
+Har, belşug şi pace,
+Mângâiere-n viaţă,
+Duhul Său cel Sfânt
+Ca să-ţi şteargă plânsul
+de pe a ta faţă,
+Cât eşti pe pământ.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

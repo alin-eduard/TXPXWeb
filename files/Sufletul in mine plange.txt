@@ -1,0 +1,58 @@
+[s1]
+Sufletul în mine plânge
+Când se varsă al Tău sânge
+Pentru sângele vărsat
+Pentru-al meu şi-al tău păcat
+Re M
+7
+
+[s2]
+Ah, cum m-aş duce până la cruce
+Să-I văd /:Coroana Lui:/
+Să-I văd eu spinii ce i-au pus păgânii
+Pe capul Domnului
+6
+
+[s3]
+Plânge Soarele şi Luna
+Că era prea grea cununa
+Sus pe cruce cuiele
+Îi străpunse mâinile
+5
+
+[s4]
+Ah, cum m-aş duce până la cruce
+Să-I văd /: Coroana Lui :/
+Să-I văd eu spinii ce i-au pus păgânii
+Pe capul Domnului
+4
+
+[s5]
+Cel ce mările adapă
+E-nsetat şi n-are apă
+Ei I-au dat oţet să bea
+Căci apa nu-I ajungea
+3
+
+[s6]
+Ah, cum m-aş duce până la cruce
+Să-I văd /:Coroana Lui:/
+Să-I văd eu spinii ce i-au pus păgânii
+Pe capul Domnului
+2
+
+[s7]
+Sus pe dealul Căpăţânii
+Mi l-au răstignit păgânii,
+Sus pe cruce pe Isus
+Între doi tâihari L-au pus.
+1
+
+[s8]
+Ah, cum m-aş duce până la cruce
+Să-I văd /:Coroana Lui:/
+Să-I văd eu spinii ce i-au pus păgânii
+Pe capul Domnului
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

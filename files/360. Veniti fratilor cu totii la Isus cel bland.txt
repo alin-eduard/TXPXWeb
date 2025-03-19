@@ -1,0 +1,52 @@
+[s1]
+1. Veniţi fraţilor cu toţii
+La Isus cel blând
+Căci va veni ceasul morţii
+Şi atunci veţi pleca cu toţii
+Veţi pleca curând.
+360.
+
+[s2]
+2. Va veni cu slavă mare
+Cel hulit acum
+Şi-naintea Lui oricare
+Prea înălţat, bogat şi mare
+Va fi praf din drum.
+
+[s3]
+3. Cel ce-njură şi huleşte
+Nu va mai huli
+Prins de moarte fără veste
+O, în clipele acestea
+Cum s-a pocăi.
+
+[s4]
+4. Însă Domnul le va spune
+Totul e pustiu
+Ceasul a-nceput să sune
+Iată soarele apune,
+Azi e prea târziu.
+
+[s5]
+5. Frate mai avem o clipă,
+Azi e clipa ta
+Să te întorci acum în pripă
+Sub a Domnului aripă
+Jos sub jertfa Sa.
+
+[s6]
+6. Ca în ziua de urgie
+Care va veni
+Tu să scapi cu bucurie
+Şi în ceruri pe vecie
+A te-nveseli.
+
+[s7]
+7. Că de n-ascultaţi de Dânsul,
+De Domnul Isus
+O, amar vă va fi plânsul
+Şi trimişi veţi fi de dânsul
+În focul nestins.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

@@ -1,0 +1,33 @@
+[s1]
+1441.
+De când am aflat pe Isus
+Sunt aşa de fericit
+Căci acum caut tot în sus
+La Hristos cel răstignit
+Cor    /:El a răbdat pentru mine
+Aleluia-i voi cânta
+Şi ce am mai scump pe lume
+Toate-i voi sacrifica:/
+
+[s2]
+Nimic în această lume
+Nu mă face aşa voios
+Ca balsamul Tău prea bune
+Curs din coasta lui Hristos.
+Cor    /:El a răbdat pentru mine
+Aleluia-i voi cânta
+Şi ce am mai scump pe lume
+Toate-i voi sacrifica:/
+
+[s3]
+Şi doresc a mea viaţă
+Pentru El ca s-o trăiesc
+Şi la nunta Ta măreaţă
+Cununa s-o dobândesc
+Cor    /:El a răbdat pentru mine
+Aleluia-i voi cânta
+Şi ce am mai scump pe lume
+Toate-i voi sacrifica:/
+
+[order]
+s1,s2,s3

@@ -1,0 +1,41 @@
+[s1]
+Fa m
+1. Doamne Împărate înaintea Ta
+Ne plecăm genunchii noştri acuma
+O Doamne Isuse Ţie ne rugăm
+Să ne auzi Tu Doamne
+Când noi Te chemăm.
+210.
+
+[s2]
+2. O Lumina lumii care luminezi
+Inimile noastre să le îndreptezi
+Primeşte-mă Doamne o Isuse dulce
+Cum ai primit
+Pe tâlharul de pe cruce.
+
+[s3]
+3. Să ne speli Isuse
+De-al nostru păcat
+Cu scump sângele Tău
+Ce Ţi l-ai vărsat
+Pe crucea Golgotei
+Când Te-au răstignit
+O Isuse dulce Tu ne-ai mântuit.
+
+[s4]
+4. Primeşte-mă Doamne înaintea Ta
+Ca pe păcătoasa care se ruga
+Cu lacrimi picioarele Ţi le uda
+Şi cu părul capului Ţi le ştergea.
+
+[s5]
+5. Lacrimile noastre care izvoresc
+Să le-nalţi Isuse la Tatăl ceresc
+Şi ne-nvredniceşte
+Ai Tăi copii să fim
+Mai mult păcatului
+Să nu-i mai slujim.
+
+[order]
+s1,s2,s3,s4,s5

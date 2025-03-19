@@ -1,0 +1,26 @@
+[s1]
+În cînt Te port, în inima mea
+Şi-un cînt îmi este viaţa -
+E o laudă pentru Domnul Isus
+Care m-a iubit nespus.
+
+[r1]
+/: Da, Isuse, acum vreau
+să Îţi mulţumesc
+Căci a murit ca eu,
+un păcătos, să trăiesc ! :/
+
+[s2]
+Roadele cărării mele
+Din al dragostei plin
+Cu tot aurul din ele
+Ţie scump Isus le închin.
+
+[s3]
+Isuse, cîntarea mea pe veci
+O-nchin iubirii Tale
+Căci Tu ai plătit în locul meu
+Al jertfei mare preţ.
+
+[order]
+s1,r1,s2,r1,s3,r1

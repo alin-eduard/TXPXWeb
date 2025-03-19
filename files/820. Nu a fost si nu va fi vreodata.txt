@@ -1,0 +1,49 @@
+[s1]
+820.
+1. Nu a fost şi nu va fi vreodată
+Veste mai frumoasă pe pământ
+Decât vestea că Mesia
+Va veni-n curând
+Cerul va fi atunci în sărbătoare
+Soarele va străluci frumos
+Căci Isus pe nori de slavă
+Va apare glorios.
+
+[r1]
+Cor:  Să-i cântăm /: astăzi :/
+Toţi de pe pământ
+Căci Domnul /: slavei :/
+Va reveni-n curând.
+
+[s2]
+2. Va veni şi ziua cea măreaţă
+Când cu îngerii toţi vom cânta
+Toţi acei ce-L au pe Domnul
+Sus spre cer s-or înălţa
+Sâ-i cântăm toţi plini de bucurie
+Să strigăm întruna ne-ncetat
+Căci acolo-n Ţara Sfântă
+De Isus eşti aşteptat.
+
+[s3]
+3. Timpul este aproape pe sfârşite
+Trebuie ca să ne pregătim
+Dacă vrei să fii acolo
+Veşnic cu Isus să fim
+Să-i cântăm voioşi de bucurie
+Să strigăm întruna ne-ncetat
+Căci acolo-n Ţara Sfântă
+De Isus eşti aşteptat.
+
+[s4]
+4. Dacă tu nu-L cunoşti pe Isus
+Poţi să intri azi în turma Sa
+Şi de acum încolo frate
+Veşnic te vei bucura
+Nu există bucurii aicea
+Ca aceea ce-i prin Duhul Sfânt
+Pregăteşte-te de acuma
+Căci Isus va reveni-n curând.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

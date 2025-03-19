@@ -1,0 +1,39 @@
+[s1]
+1. Vezi câte lacrimi ne brăzdează faţa
+Pe-acest pământ cu-atâtea încercări
+Noi te rugăm o adă dimineaţa
+Curmând întregile noastre dureri
+Şi-n cortul întâlnirii azi Isuse
+Te aşteptăm să vii ca şi-n vechime
+Te strigă sufletele din durere
+O vino să ne dai azi mângâiere
+1965.
+
+[r1]
+Cor: /:Vino.vino Doamne:/
+La strigătul atâtor dintre fii
+Ridică-ne Tu astăzi durerea
+Şi-n harul minunat să ne mângâi.
+
+[s2]
+2. Se-apropie ziua măreaţa sfântă
+Să ne primeşti Isus să ne mângâi
+Căci toţi cei ce aleşi au fost de Tine
+La Tine să ne iei când ai să vii
+Mai dă-ne azi prin Duhul Sfânt credinţa
+Putere şi iubirea ce-a dintâi
+Ridică-ne din starea de-umilinţă
+De partea noastră veşnic Tu să fii.
+
+[s3]
+3. Aşa dorim în toate să-ţi rămânem
+Statornici în credinţă şi-n cuvânt
+Ca veşnic până-n clipele din urmă
+Să ne găseşti pe-ogorul Tău lucrând
+Să ne găseşti cu rugăciuni pe-altare
+Şi tuturor la toţi să le-arătăm
+Căci dragostea Ta e nespus de mare
+Cu lacrime pe faţă iţi cântăm.
+
+[order]
+s1,r1,s2,r1,s3,r1

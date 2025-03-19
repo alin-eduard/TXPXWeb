@@ -1,0 +1,39 @@
+[s1]
+1928      Mi m
+1. Inima din pieptul meu
+Bate pentru Dumnezeu
+Pentru El cântarea mea
+Nencetat va răsuna
+Din pruncie m-a ales
+Să-L slăvesc prin al meu vers
+Mi-a dat harul său bogat
+Și m-a binecuvântat
+
+[r1]
+Cor: Cântarea mea cântarea mea
+Aș vrea Isus până la Tine
+S-ajungă sus până la cer
+Ca dar de mulțumire
+
+[s2]
+2. Nu e mult și nici prea greu
+Să-l slăvesc pe Dumnezeu
+Chiar de trec prin încercări
+Să-i înalț sfinte cântări
+Chiar de sunt ades zdrobit
+Și am sufletul rănit
+Printre lacrimi eu îi cânt
+Dumnezeul meu Cel Sfânt
+
+[s3]
+3. Doamne fă cântarea mea
+Să ajungă-n fața Ta
+Ca o jertfă înălțată
+Dintr-o inimă curată
+Într-o zi va trebui
+Să îți cânt și-n veșnicii
+Sus la nunta Mielului
+În țara Canaanului
+
+[order]
+s1,r1,s2,r1,s3,r1

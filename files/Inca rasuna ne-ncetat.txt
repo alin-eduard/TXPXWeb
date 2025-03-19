@@ -1,0 +1,26 @@
+[s1]
+Încă răsună ne­ncetat:
+„Te pocăieşte, omule!“
+Isus te cheamă să-L primeşti,
+Să părăseşti păcatele.
+
+[s2]
+Şi azi chemat eşti de Isus,
+O, suflet, pocăieşte-te!
+La Cel ce-ţi vrea doar binele,
+Vino acum, grăbeşte-te!
+
+[s3]
+Primeşte mântuirea­ acum
+Ca fericit să fii mereu
+Căci harul sfânt se va sfârşi
+În valea rea prin care treci.
+
+[s4]
+Tu, rai sau iad ai de ales;
+De nu te pocăieşti, te pierzi,
+Aşa a spus Isus Hristos,
+Ascultă chiar acum şi crezi!
+
+[order]
+s1,s2,s3,s4

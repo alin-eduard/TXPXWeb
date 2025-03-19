@@ -1,0 +1,28 @@
+[s1]
+/:Cine este ca Tine între dumnezei?
+Cine este ca Tine Doamne?:/
+/:Mari şi minunate sunt
+Lucrările Tale
+Drepte şi adevărate sunt
+Căile Tale:/
+
+[s2]
+Sfânt, sfânt, sfânt este Domnul
+Nimeni nu-I ca El
+Sfânt, sfânt, sfânt
+este Domnul Dumnezeu
+
+[s3]
+/:Mari şi minunate sunt
+Lucrările Tale
+Drepte şi adevărate sunt
+Căile Tale:/
+
+[s4]
+Sfânt, sfânt, sfânt este Domnul
+Nimeni nu-I ca El
+Sfânt, sfânt, sfânt este
+Domnul Dumnezeu
+
+[order]
+s1,s2,s3,s4

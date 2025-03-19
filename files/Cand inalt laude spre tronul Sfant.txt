@@ -1,0 +1,20 @@
+[s1]
+Cand inalt laude spre tronul Sfant
+Slava Lui coboara pe pamant
+Cand inalt imnuri Sfinte pentru Dumnezeu
+Iubirea Lui inunda sufletul meu
+
+[r1]
+/:Prezenta ta.:/
+Doresc sa fie-n viata mea
+/:Prezenta ta.:/
+Imi umple cu pace inima
+
+[s2]
+Cant doar pentru tine
+Eu cant doar despre Tine
+Cant neincetat
+Fii in veci glorificat
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,14 @@
+[s1]
+Veniţi oaspeţii lui Isus
+Legământul nou serbaţi
+/: Prin care în moarte s-a dat
+La semnul luaţi mâncaţi :/
+
+[s2]
+Luaţi paharul acesta
+Ca semnul mântuirii
+/: Moartea Lui vă fie laudă
+Pân’ a veni-n mărire :/
+
+[order]
+s1,s2

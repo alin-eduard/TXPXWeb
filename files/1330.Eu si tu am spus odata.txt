@@ -1,0 +1,41 @@
+[s1]
+1330.
+1.  Eu şi tu am spus odată
+În faţa blândului Miel
+/: Doamne iartă-mi vina toată
+Cine-mi va greşi vreodată
+Am să-l iert şi eu la fel:/
+
+[s2]
+2.  Dacă te-ar lovi cu pietre
+Şi te-ar vinde ca pe El
+/: Dragostea nu ţi s-ar pierde
+Te-ai bucura de l-ai vede
+Daca-i fi din blândul Miel:/
+3.  Dacă a Domnului chemare
+Iar pe fraţii supăraţi
+/: Când ţi se cere iertare
+Urăşti fără ascultare
+Jurământul ţi-e călcat:/
+
+[s3]
+4.  Dar cel rău este cu omul
+Fratele răscumpărat
+/: Eu îl rog să-mi ierte vina
+El îmi găseşte pricina
+Şi-a uitat c-a fost iertat:/
+5.  Timpul nostru azi şi mâine
+Drumul paşilor tociţi
+/: Vrem să ducă-n veşnicie
+Pân’ la urmă nu se ştie
+C-am uitat să fim mai sfinţi:/
+
+[s4]
+6.  Iartă-mi Doamne tot trecutul
+Şi pe fraţii toţi la fel
+/: Şi de ne-am călcat cuvântul
+Azi ne-noim legământul
+Şi-am vrea să cinăm cu El:/
+
+[order]
+s1,s2,s3,s4

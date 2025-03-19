@@ -1,0 +1,26 @@
+[s1]
+Mai e har şi pentru mine
+Când atâta-s de căzut?
+Simt regret adânc în suflet
+Fiindcă mult m-am abătut.
+Doamne, spală-mă curat,
+De al morţii grav păcat.
+
+[s2]
+Da, am meritat pedeapsa
+Moartea chiar e plata mea…
+De pedeapsa ce m-apasă
+Cine mă va libera?
+Doamne, spală-mă curat,
+De al morţii grav păcat.
+
+[s3]
+Cu povara-mi  de păcate,
+Doamne, nu mă lepăda,
+Lasă-mă să vin la Tine
+Numai Tu mă poţi salva!
+Doamne, spală-mă curat,
+De al morţii grav păcat.
+
+[order]
+s1,s2,s3

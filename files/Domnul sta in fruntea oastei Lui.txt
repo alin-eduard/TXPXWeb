@@ -1,0 +1,27 @@
+[s1]
+/:Domnul stă în fruntea oastei Lui,
+Nimeni nu o poate birui
+Pretutindeni slava Lui se va vedea !:/
+
+[s2]
+Un Domn triumfător e Isus
+Noi Îl urmăm unde ne duce
+Vrăşmaşii nu se pot împotrivi !
+
+[s3]
+/:Tu să porţi al biruinţei steag,
+Crucea lui Isus a câştigat !
+Nici o armă nu-i mai tare ca a Lui !:/
+
+[r1]
+Un Domn triumfător e Isus
+Noi Îl urmăm unde ne duce
+Vrăşmaşii nu se pot împotrivi!
+
+[s4]
+/:Stăm în oastea biruinţei Lui,
+Se descoperă domnia Lui
+Vom intra în ţara care ne-a promis!:/
+
+[order]
+s1,s2,s3,r1,s4,r1

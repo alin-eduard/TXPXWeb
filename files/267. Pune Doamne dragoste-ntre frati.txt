@@ -1,0 +1,67 @@
+[s1]
+1. /:Pune Doamne
+Dragoste-ntre fraţi:/
+/:Fă ca ei să se iubească
+Duhul Sfânt să-i însoţească
+Pune Doamne
+Dragoste-ntre fraţi.:/
+267.
+
+[s2]
+2. /:Pune Doamne
+Dragoste-ntre fraţi :/
+/:De la mic şi pân` la mare
+Să alerge fiecare
+Pune Doamne
+Dragoste-ntre fraţi.:/
+
+[s3]
+3. /:Pune Doamne
+Dragoste-ntre fraţi:/
+/:Fă mereu să se iubească
+Să nu se mai clevetească
+Pune Doamne
+Dragoste-ntre fraţi:/
+
+[s4]
+4. /:Pune Doamne
+Dragoste-ntre fraţi:/
+/:Până la a Ta venire
+Să ne duci în fericire
+Pune Doamne
+Dragoste-ntre fraţi:/
+
+[s5]
+5. /:Pune Doamne
+Dragoste-ntre fraţi:/
+/:Ca prin fapte şi credinţă
+S-ajungă la biruinţă
+Pune Doamne
+Dragoste-ntre fraţi.:/
+
+[s6]
+6. /:Pune Doamne
+Dragoste-ntre fraţi:/
+/:Ca prin rugă şi cântări
+Să se facă vindecări
+Pune Doamne
+Dragoste-ntre fraţi.:/
+
+[s7]
+7. /:Pune Doamne
+Dragoste-ntre fraţi :/
+/:Să întindem odată mâna
+Ca să fim cu toţii una
+Pune Doamne
+Dragoste-ntre fraţi:/
+
+[s8]
+8. /:Pune Doamne
+Dragoste-ntre fraţi :/
+/:Fă ca ei să se iubească
+Duhul Sfânt să-i însoţească
+Pune Doamne
+Dragoste-ntre fraţi.:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

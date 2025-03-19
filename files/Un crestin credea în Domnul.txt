@@ -1,0 +1,32 @@
+[s1]
+Un creştin credea în Domnul
+Şi-L iubea nespus de mult
+Şi-a lui casă toţi ca unul
+Şi-L iubea nespus de mult.
+
+[r1]
+/: Te iubim :/
+Te iubim, o, Doamne Sfinte, neîncetat!
+/: Te iubim :/
+Te iubim căci pace sfîntă Tu ne-ai dat.
+
+[s2]
+Dumnezeu cu marea-I milă
+De la potop ne-a scăpat
+Ca să-i fie mărturie
+Pentru cei ce m-au cîntat.
+
+[s3]
+După ani şi ani de zile
+Domnul nouă ne-a trimis
+Pe Isus Mîntuitorul
+Să ne ducă-n Paradis.
+
+[s4]
+De aceea, frate dragă
+Vino să-i cîntăm mereu
+Să-L slăvim, să-I dăm onoare
+Fiului lui Dumnezeu !
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

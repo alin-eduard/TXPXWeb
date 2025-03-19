@@ -1,0 +1,32 @@
+[s1]
+Amice, te rog părăseşte
+Pe veci gândul rău
+Ce e-n inima ta.
+Pustiul din suflet, atunci
+Negreşit se va umple
+De dragostea Sa.
+
+[r1]
+Vino la Isus, căci El e viaţa
+Şi pace mereu vei avea.
+Cere-I iertare, şi-n inima ta
+Fericirea pe veci va intra.
+
+[s2]
+Cândva disperat rătăceam
+Şi mereu căutam
+Adevărul curat.
+De când L-am găsit pe Isus
+Viaţa mea s-a schimbat
+De păcat sunt iertat.
+
+[s3]
+Oricând la Isus poţi veni
+Cu povara ta grea
+Ca să-L rogi să ţi-o ia.
+Grăbeşte-te, dar
+Cât mai ţine-al Său har
+Şi predă-te deplin la Calvar.
+
+[order]
+s1,r1,s2,r1,s3,r1

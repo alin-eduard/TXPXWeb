@@ -1,0 +1,40 @@
+[s1]
+Domnul azi caută lucrători
+Să lucre pentru cer.
+Să fie buni semănători
+Cît şi plugari la fel.
+/: Azi să lucrăm cu-nflăcărare
+Pînă cînd nu se face noaptea
+Căci secerişul este mare
+Să lucrăm cît ţine ziua. :/
+
+[s2]
+Pe pămînt sec şi prin pustiu
+Să vestim Biblia
+Să-i chemăm pînă nu-i tîrziu -Vine, vine noaptea!
+/: Azi să lucrăm cu-nflăcărare
+Pînă cînd nu se face noaptea
+Căci secerişul este mare
+Să lucrăm cît ţine ziua. :/
+
+[s3]
+Să semănăm Cuvîntul Sfînt
+Şi toţi să fim una
+Să spunem prin faptă, cuvînt
+Plata e cununa.
+/: Azi să lucrăm cu-nflăcărare
+Pînă cînd nu se face noaptea
+Căci secerişul este mare
+Să lucrăm cît ţine ziua. :/
+
+[s4]
+Coboară amurgul peste plai
+Lucrătorii viei
+Aşteaptă leul să le dai                     Plata veşniciei.
+/: Azi să lucrăm cu-nflăcărare
+Pînă cînd nu se face noaptea
+Căci secerişul este mare
+Să lucrăm cît ţine ziua. :/
+
+[order]
+s1,s2,s3,s4

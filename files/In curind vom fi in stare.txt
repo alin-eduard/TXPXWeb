@@ -1,0 +1,26 @@
+[s1]
+In curind vom fi in stare
+Sus spre ceruri a porni
+El ne-a spus in asteptare
+Sa fim pin’ va reveni
+
+[r1]
+Vom avea biruinta
+Vom trai, vom trai in veci cu El
+Vom avea putinta
+Sa-I zicem toti: “Emanuel!”
+
+[s2]
+Grija, truda, suferinta
+Nu vor mai fi niciodat’
+vom cinta toti biruinta
+In iubirea ce-am aflat
+
+[s3]
+Sa luptam toti cu nadejde
+Asteptind ceasul dorit
+Sa cintam chiar in primejdii
+Domnul nostru-a biruit
+
+[order]
+s1,r1,s2,r1,s3,r1

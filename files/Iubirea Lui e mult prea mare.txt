@@ -1,0 +1,28 @@
+[s1]
+Iubirea Lui e mult prea mare
+În vorbe simple s-o descrii,
+Mai sus de orice stea răsare
+Şi-n adâncimi o poţi găsi.
+‘Naintea Lui când vii şi-I spui
+Păcatul tău murdar,
+El, prin Isus, îţi dă de sus
+Scăpare-n al Său har.
+
+[r1]
+Iubire sfântă şi bogată,
+Tu ne rămâi mereu
+Cântarea noastră minunată,
+În veci lui Dumnezeu.
+
+[s2]
+Coroane, tronuri au să cadă
+Când ziua mare va suna,
+Şi cei ce azi nu vor să creadă
+La munţi atunci vor alerga.
+Dar dragostea în veci va sta;
+O, Doamne, Tu nu treci!
+Şi-n al Tău har fără hotar
+Noi vom trăi în veci.
+
+[order]
+s1,r1,s2,r1

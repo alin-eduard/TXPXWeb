@@ -1,0 +1,21 @@
+[s1]
+Cu mine fii, căci se­-nserează­ acum,
+Te rog, o, Doamne, mă condu pe drum!
+Alt scut mai bun nicicând nu voi găsi,
+Sprijinul tuturor, cu mine fii!
+
+[s2]
+Cu mine fii, căci trece viaţa mea
+Şi veselia-­n plâns se va schimba.
+Căci fără Tine toate sunt pustii,
+Tu, Cel ce nu Te schimbi,
+Cu mine fii!
+
+[s3]
+Cu mine fii, cât timp eu voi trăi,
+Nu mă lăsa chiar moartea de­-ar veni,
+Sufletul mi­-l înalţă­-n veşnicii,
+O, Domnul meu iubit, cu mine fii!
+
+[order]
+s1,s2,s3

@@ -1,0 +1,42 @@
+[s1]
+Încă puţin
+şi vom vedea pe Domnul
+Încă puţin şi vom pleca la El
+Ne-om înălţa spre zările senine
+La Dumnezeul Sfânt Emanuel.
+800.							      Re m
+
+[r1]
+Cor:
+O, Doamne-Ţi aşteptăm venirea
+În taină cu atâta dor
+Să Te vedem, Iubite, vino
+O, vino, scump Mântuitor
+O, Doamne-Ţi aşteptăm venirea
+În taină cu atâta dor
+Mai toarnă-n vase untdelemnul
+Să întăreşti al Tău popor.
+
+[s2]
+2. Încă puţin popor mai ai răbdare
+Încă puţin şi Domnul ne-a chema
+De Duhul Sfânt
+Fiţi plini azi fiecare
+Şi fericiţi spre ceruri vom pleca.
+
+[s3]
+3. Încă puţin
+Mai stai în rugăciune
+Mai stăruieşte după Duhul Sfânt
+Nu da înapoi, ci luptă înainte
+Biruitori plecăm de pe pământ.
+
+[s4]
+4. Încă puţin la uşă este Domnul
+Încă puţin fii treaz şi vegheator
+Cât de curând
+Tu vei primi cununa
+Fii plin de Duh să fii biruitor.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

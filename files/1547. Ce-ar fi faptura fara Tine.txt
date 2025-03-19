@@ -1,0 +1,43 @@
+[s1]
+1.	Ce-ar fi făptura fără Tine
+Mântuitorul meu slăvit?
+Ce-aş fi de n-ai fi Tu în mine
+Cu harul Tău nemărginit?
+/:  Aş fi un bulgăre de gheaţă
+Un chip de humă fără viaţă
+O stâncă ‘nvăluită-n ceaţă
+Şi-o noapte fără dimineaţă. :/
+1547   Fa
+
+[s2]
+2.	Aş fi un far fără lumină,
+Pustie de nisipuri plină
+Cu vânturi fără de odihnă,
+Cu şerpi şi scorpii ce-venină.
+/: Aş fi o albie uscată
+Pe unde-a curs un râu odată,
+O frunză smulsă şi purtată
+Fără de scop în lumea toată. :/
+
+[s3]
+3.	Aşa aş fi dar slavă Ţie
+Tu eşti a vieţii bogăţie
+Comoara harurilor vie
+Ce mă inundă pe vecie.
+/: Eu nu aş şti ce-i fericirea
+Vieţii-n mii şi mii de feţe
+De n-aş fi cunoscut iubirea
+Cu-nviorări şi frumuseţe. :/
+
+[s4]
+4.	De n-ai fi fost Tu bunătate,
+Începătorule a toate
+Cu taine-adânci şi minunate
+Ce totul vrea şi totul poate.
+/: Tu m-ai suit în slăvi divine
+Din locu-ntunecat la Tine
+Isuse sunt ce sunt prin Tine
+Şi-acum şi-n veacul care vine. :/
+
+[order]
+s1,s2,s3,s4

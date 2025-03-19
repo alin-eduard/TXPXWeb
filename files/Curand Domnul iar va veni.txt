@@ -1,0 +1,32 @@
+[s1]
+Curând Domnul iar va veni;
+Gata eşti?
+Cu drag El în cer te-ar primi;
+Gata eşti?
+
+[r1]
+Gata eşti, gata eşti,
+Gata eşti în faţă-I a sta?
+Gata eşti, gata eşti?
+În curând ceasul va suna
+
+[s2]
+Curând ceasul va suna;
+Gata eşti?
+Când moartea-n faţă-ţi va sta;
+Gata eşti?
+
+[s3]
+Vei fi judecat de Hristos;
+Gata eşti?
+Cuvântul Său fi-va tăios;
+Gata eşti?
+
+[s4]
+Ferice de cei mântuiţi;
+Gata eşti?
+Căci fi-vor în ceruri primiţi;
+Gata eşti?
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

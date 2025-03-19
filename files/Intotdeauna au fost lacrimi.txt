@@ -1,0 +1,30 @@
+[s1]
+Întotdeauna au fost lacrimi
+Au fost şi fiv-or cât va fi pământul
+Atâtea lucruri mi se-ntâmplă
+Iar noi nu vrem un rău sfârşit şi plângem.
+
+[r1]
+/: Însă în ceruri nu vor fi
+Lacrimi, dureri n-om întâlni
+Durere mare şi suspin
+Rămân aici şi-n cer nu vin
+În ceruri fericiri găseşti
+Cum tu măcar nici nu gândeşti
+Mai mult decât poţi judeca
+Va fi în cer răsplata ta. :/
+
+[s2]
+Dar pân-atunci aici sunt lacrimi
+Dorinţe ai şi te-ntristezi, curg lacrimi
+Gândeşte-te că şi Isus
+A plâns când fost-a pe pământ şi El.
+
+[s3]
+Întotdeauna au fost lacrimi
+Au fost şi fi-vor cât va fi pământul
+Ferice de acei ce-n lacrimi
+Vor fi când va veni El, Sfântul.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,33 @@
+[s1]
+1. Tu eşti floarea minunată
+Cea mai sfântă şi curată
+Care pe pământ ai trăit
+Şi pe Satan l-ai biruit.
+168.
+
+[s2]
+2.Doamne vino mai degrabă
+Şi ne ia la Tine-n slavă
+Şi ne du ca pe Ilie
+Colo sus în veşnicie.
+
+[s3]
+3. Fraţi, surori smeriţi-vă
+Până jos la ţărână
+Şi la timpul hotărât
+Cei smeriţi vor fi răpiţi.
+
+[s4]
+4. Şi vei locui-n mărire
+Sus în ţara veşniciei
+Împreună vom cânta
+Osana, Aleluia.
+
+[s5]
+5. Sus în cer la masa sfântă
+Unde îngerii toţi cântă
+Cu Enoh şi cu Ilie
+Vom cânta o veşnicie.
+
+[order]
+s1,s2,s3,s4,s5

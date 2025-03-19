@@ -1,0 +1,44 @@
+[r1]
+/: Pe ziduri străjerii vorbesc parcă-n somn,
+La porţi vegheatorii şi-ostaşii adorm,
+Iar preoţi ca fiii lui Eli apar,
+Puterea lipseşte şi nu este har. :/
+
+[s1]
+În jur este ură, se minte, se fură
+Şi noaptea de-acum e mai grea
+Credinţa-i pătată şi e alungată
+Şi nimeni în lume n-o vrea.
+
+[s2]
+Mai mult se vorbeşte decât se trăieşte
+Iar oamenii mor în păcat
+Se spune că-i pace, urechii îi place
+Vrăjmaşul e tare-narmat.
+
+[s3]
+Mai mult se vorbeşte decât se trăieşte
+Şi totu-i aşa de pustiu
+Dar poate-ndurarea străpunge-va zarea
+Trezine-va Domnul cel viu.
+
+[s4]
+/: Să vină salvarea ca-n ziua de har
+Ce-a curs peste oameni fără de hotar
+Să strige bolnavii şi cei păcătoşi
+Că de la robie cu toţi am fost scoşi. :/
+
+[s5]
+Isuse, hai, vino şi dă-ne lumina
+Şi leagă-ne rana la toţi
+Să fim fără vină şi-n pace deplină
+Când vei învia pe cei morţi.
+
+[s6]
+/: Şi veşnic în slavă cu Tine vom fi
+Dar fă-ne de-acuma aleşii copii
+Întoarce-ne Doamne şi noi vom veni
+Poporul păşunii Tale vom fi. :/
+
+[order]
+r1,s1,r1,s2,r1,s3,s4,s5,s6

@@ -1,0 +1,42 @@
+[s1]
+Te slăvim, cu mulţumire,
+Tată drept şi minunat!
+Preamărim a Ta iubire
+ce-n Hristos ne-ai arătat!
+Mulţumim de mântuirea
+din păcat şi din abis,
+Mulţumim de moştenirea
+care-n cer Tu ne-ai promis!
+
+[s2]
+Te slăvim, cu bucurie,
+Tată bun şi Dumnezeu!
+Lăudăm iubirea vie ce-o
+reverşi în noi mereu!
+Mulţumim că azi ne scaldă
+ploi de har din slăvi cereşti!
+Mulţumim de mâna-Ţi caldă
+şi-n ce fel ne ocroteşti
+
+[s3]
+Te slăvim, cu osanale,
+Tată scump, senin şi sfânt
+Şi-nălţăm iubirii Tale,
+înnoit, al nostru cânt!
+Mulţumim de rău, de bine
+şi de tot prin ce ne treci!
+Mulţumim de veri senine
+şi de ierni oricât de reci
+
+[s4]
+Te slăvim, cu-nflăcărare,
+Tată drag, de haruri plin
+Şi-Ţi cântăm iubirea mare,
+azi şi-n vecii care vin!
+Mulţumim de lucruri sfinte
+ce ne iei şi ce ne dai!
+Mulţumim, iubit Părinte!
+Mulţumim şi-aici şi-n Rai!...
+
+[order]
+s1,s2,s3,s4

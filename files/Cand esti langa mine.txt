@@ -1,0 +1,34 @@
+[s1]
+Cand esti langa mine
+Nu ma tem de nici-un rau
+Caci ma-ncred in Tine
+Mare Dumnezeu
+
+[r1]
+/: Numai langa Tine
+Doamne ma simt bine
+Stiu ca Tu ma ocrotesti
+Si-n grea incercare
+cand furtuna-i mare
+Langa mine Tu pasesti. :/
+
+[s2]
+Valurile vietii
+Barca cand mi-au clatinat
+Ca si alta data
+Tu Isuse Le-ai mustrat
+
+[s3]
+Meriti pe vecie
+Doamne sa fii laudat
+Caci din grea urgie
+Doar Tu m-ai eliberat.
+
+[s4]
+O nadejde vie
+In inima mi-ai sadit
+Cred deci cu tarie
+Ca m-ai mantuit
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

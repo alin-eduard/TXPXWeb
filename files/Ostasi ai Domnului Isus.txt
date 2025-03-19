@@ -1,0 +1,38 @@
+[s1]
+Ostaşi ai Domnului Isus
+El crucea pentru noi a dus
+/: Să ştiţi că-n lumea asta voi
+Purtaţi un lung şi greu război :
+Războiul lui Isus. :/
+Mi M
+
+[s2]
+La luptă voi sînteţi chemaţi
+Şi partea voastră-i să luptaţi
+/: Să biruiţi al vostru ţel
+,Naintea voastră merge El -
+Să nu descurajaţi ! :/
+
+[s3]
+,Nainte dar prin vînt şi ger
+Prin suferinţe şi dureri
+/: Iar plata pentru c-aţi luptat
+Pe-acest Pămînt să nu-aşteptaţi
+Că multă e în cer. :/
+
+[s4]
+Iar voi să n-aşteptaţi să fiţi
+De lumea asta voi primiţi
+/: Să n-aşteptaţi că e-n zadar
+Isus a suferit amar
+Şi voi veţi suferi. :/
+
+[s5]
+Să nu doriţi să cîştigaţi
+Cununa fără să luptaţi.
+/: Că nu puteţi să dobîndiţi
+O luptă fără suferinţi
+Şi nici să nu-ncetaţi. :/
+
+[order]
+s1,s2,s3,s4,s5

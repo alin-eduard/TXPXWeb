@@ -1,0 +1,61 @@
+[s1]
+79.
+1. /:Doar cu Isus aş vrea
+Să stau de vorbă:/
+/:Lui să-i spun suferinţa
+Care-i la inima mea.:/
+
+[s2]
+2./:Cu El vreau
+să stau de vorbă :/
+Lui să-i spun
+suspinul meu
+Ce se zbate-n
+pieptul meu.
+
+[s3]
+3. Mi-i dor şi inima-mi suspină
+Aş vrea să-I văd fruntea senină
+Şi-atunci dorul meu se-alină.
+
+[s4]
+4. Mi-i dor, mi-i dor
+să-L întâlnesc
+Numai o vorbă
+să-I vorbesc
+Şi-atunci eu mă răcoresc
+
+[s5]
+5. Dar cum să-I văd fruntea brăzdată
+Şi coasta Lui însângerată
+Aş vrea să-I văd fruntea senină
+Şi-atunci dorul meu se-alină.
+
+[s6]
+6. Dorul din inima mea
+Cine-l poate astâmpăra
+Isus El cu mâna Sa.
+
+[s7]
+7. De L-aş vedea L-aş întreba
+Dorul din inima mea
+Să-l aline dacă vrea.
+
+[s8]
+8. Mi-i dor şi inima-mi suspină
+După Isus ca să vină
+Şi-atunci dorul meu se-alină.
+
+[s9]
+9. Mi-i dor să vină mai degrabă
+Să-mi ridice sarcina
+Şi să-mi şteargă lacrima.
+
+[s10]
+10. Slavă sus şi slavă jos
+Slavă Lui Isus Hristos
+Slavă-n cer şi pe pământ
+Slavă Tatălui cel Sfânt.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

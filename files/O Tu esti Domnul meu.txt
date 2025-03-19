@@ -1,0 +1,10 @@
+[s1]
+/: O, Tu eşti Domnul meu
+Şi eu te voi lăuda :/
+Eu Te caut dimineaţa
+Căci doresc să fac voia Ta
+Şi pas cu pas condu-mă
+Cu toată inima Te voi urma.
+
+[order]
+s1

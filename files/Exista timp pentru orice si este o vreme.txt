@@ -1,0 +1,30 @@
+[s1]
+Există timp pentru orice
+şi este o vreme
+Că Dumnezeu a pregătit
+tot cum se cuvine.
+Timp să te naşti, timp să-I slujeşti
+Timp ca să mori, timp să trăieşti
+Este-un timp pentru orice,
+pentru orice.
+
+[r1]
+El m-a salvat şi m-a iertat,
+pe El Îl slujesc!
+Inima mea în rugăciuni Lui
+I-o dăruiesc!
+Şi vreau în ea o casă azi
+De rugăciuni eu ca să fac
+Azi este timp ca să Îl slujesc.
+
+[s2]
+Azi este timpul,
+dacă te simţi singur
+Azi este timpul să Îl slujeşti.
+Predă-ţi Lui azi sufletul tău
+Inima s-o dăruieşti
+Azi este timpul,
+de vrei să-I slujeşti!
+
+[order]
+s1,r1,s2,r1

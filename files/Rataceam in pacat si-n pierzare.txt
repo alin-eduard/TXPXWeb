@@ -1,0 +1,30 @@
+[s1]
+Rătăceam în păcat şi-n pierzare,
+Eram singur în noapte străin,
+Dar bunul Păstor cu-ndurare
+M-a găsit şi mi-a dat har din plin.
+
+[r1]
+Bunătatea, ’ndurarea mă vor însoţi
+Zi de zi, zi de zi-n viaţa mea!
+
+[s2]
+Cu blândeţe El mă-nviorează
+Şi putere îmi dă zi de zi,
+La ape tot El mă conduce,
+Mă păzeşte de orice-ar veni!
+
+[s3]
+Când străbat valea umbrelor morţii
+El şi-atunci îmi rămâne Păstor
+Mă poartă cu Mâna Lui tare
+Spre limanul dincolo de nor!
+
+[s4]
+Şi voi trăi veşnic în
+Casa Domnului meu,
+La masa Lui,
+În mărire, voi cina!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

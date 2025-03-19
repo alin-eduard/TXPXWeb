@@ -1,0 +1,63 @@
+[s1]
+1292.
+Te-aştept Isus de atâta vreme
+Să-ţi faci prezenţa-n casa mea
+/: Căci parcă-i suferinţa mare
+Şi vai ce grea-i durerea mea:/
+Te-am aşteptat în orice clipă
+Chemându-te mereu să vii
+/ : Să vii ca să-mi ridici ocara
+Şi greul de pe-ai tăi copii : /
+1.
+2.
+
+[s2]
+Te-aştept aşa ca şi străjerul
+Din lunga noapte obosit
+/:Ce tot aşteaptă cu răbdare
+Aceia  zori când s-or ivi :/
+Şi-aş vrea ca ruga mea o Doamne
+S-ajungă pân’ la Tine sus
+/ : Să-mi faci dreptate o Isuse
+În luptă cu al meu pârâş : /
+3.
+4.
+
+[s3]
+De-atâtea vreme gem întruna
+De grea povară apăsat
+/:Şi te-am chemat cu atâtea lacrimi
+În Duhul meu îndurerat :/
+De-un timp Stăpâne parcă cerul
+E-nchis pe veci ’naintea mea
+/ : Şi orişicât eu bat la uşă
+Durerea parcă-i tot mai grea : /
+5.
+6.
+
+[s4]
+Uită-te Stăpâne al slavei
+La a mea durere şi amar
+Căci mă topesc în disperare
+De nu-ţi reverşi al Tău Sfânt har
+Mai las-o rază de lumină
+Ca să pătrundă-n casa mea
+/ : Şi  fă-ţi prezenţa Ta o Doamne
+Şi astăzi fă-ţi lucrarea Ta : /
+7.
+8.
+
+[s5]
+E ultimul moment o Doamne
+Când azi mai pot a te striga
+Că şi credinţa şi nădejdea
+Ne-a slăbit Doamne lupta grea
+Înviorează astăzi Duhul
+Acelora ce-s prigoniţi
+/ : Şi fă ca lacrimile mele
+Să se transforme-n biruinţi : /
+9.
+10.
+
+[order]
+s1,s2,s3,s4,s5

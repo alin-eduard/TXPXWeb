@@ -1,0 +1,31 @@
+[s1]
+2158
+1.Coboară azi ca-n ziua cinzecimii Cum mi-ai promis prin sfântul Tău cuvânt
+Revarsă Doamne ploaia
+cea târzie
+Să fim o mărturie pe pământ.
+
+[r1]
+Cor: /: O, vino iar la noi în adunare Deschide, Doamne, astăzi
+cerul Tău
+Îndură-te Isus de fiecare
+Să știe toți că Tu ești
+Dumnezeu :/.
+
+[s2]
+2. Te așteptăm o, Doamne
+în veghere
+Să ne îmbraci cu noul
+Tău veșmânt
+Zidire, sfătuire, mângâiere
+Dorim să ne aduci Duhule Sfânt.
+
+[s3]
+3. La fel ca ucenicii altădată
+Te așteptăm în rugă
+pe pământ
+Mai adă ploaia binecuvântată
+Și umple-ne pe toți cu Duhul Sfânt.
+
+[order]
+s1,r1,s2,r1,s3,r1

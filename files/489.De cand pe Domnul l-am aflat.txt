@@ -1,0 +1,34 @@
+[s1]
+1.	De când pe Domnul l-am aflat
+De atunci eu sunt un om bogat
+Şi nu mi-e frică nici de Iad
+Căci El mă ridică când cad.
+2.	De când pe Domnul l-am găsit
+Nici iarna nu îmi este frig
+Mă duc prin vânt, mă duc prin ger
+Până la Tatăl meu din cer.
+489.
+
+[s2]
+3.	Să-L chem la mine acasă
+Să-i spun Lui tot ce mă apasă
+Căci chinul meu nu-l pot purta
+Dacă El nu mă va ajuta.
+4.	Şi dacă-L chemi din inimă
+Să-L vezi pe Domnul cum vine
+Mă mângâie, mă întăreşte
+Şi credinţa mi-o măreşte.
+
+[s3]
+5.	De aceea fraţi să ne silim
+Căci mult n-avem
+Pe acest pământ
+Pentru aceasta cât trăim
+Către Domnul să ne silim.
+6.	Curând va veni Dumnezeu
+Ca să-şi ia poporul Său
+Şi să-l ducă în slava Sa
+Unde pe veci s-or bucura.
+
+[order]
+s1,s2,s3

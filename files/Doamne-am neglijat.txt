@@ -1,0 +1,26 @@
+[s1]
+Doamne-am neglijat
+Cuvantul Tau ce-mi spune
+cum sa fiu, cum sa traiesc
+aici jos pe pamant.
+Cu intelepciunea mea
+incerc s-ajung la Tine.
+Scapa-ma, o Doamne,
+de golul ce il simt.
+
+[r1]
+Doamne-ai mila si de mine,
+Doamne-ai mila eu te rog...
+
+[s2]
+Doamne nu Ti-am daruit
+fiinta mea intreaga.
+Nu Ti-am spus ca te iubesc
+prin fapte zi de zi.
+Sunt cuprins de ganduri
+de mandrie si minciuna.
+Nu iubesc pe altii
+asa cum m-ai iubit.
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,22 @@
+[s1]
+Am o dorinţă-nfocată
+Ca să fiu odată sus
+Inima-mi în rugă aşteaptă
+După ziua lui Isus
+Ce glorie o să fie
+Când Domnul nost’ va veni:
+/: O veşnică bucurie
+Pe feţe ne-a străluci. :/
+
+[s2]
+Lumea mult mă ispiteşte
+Şi vrea să mă ţină-n loc
+Dar nimic nu mă opreşte
+C-am un zel aprins de-un foc.
+Isus Hristos mă conduce
+Şi îmi dă puterea Lui
+Nimic nu are să-mi strice
+Stând pe braţul Domnului.
+
+[order]
+s1,s2

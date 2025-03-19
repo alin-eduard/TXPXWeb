@@ -1,0 +1,39 @@
+[s1]
+1. Stăruiţi acum cu toţii
+După Duhul Sfânt
+/: Căci Isus, Domnul vieţii,
+Va veni-n curând. :/
+463.
+2.  Şi nimenea în picioare
+Nu va putea sta
+/: Căci atuncia chiar şi drepţii
+Se vor clătina :/
+
+[s2]
+3. Vai de cel ce n-are atuncia
+Duhul Lui Hristos
+/: Va sta la a doua înviere
+Cu cei păcătoşi :/.
+4. Domnul cu glasul Lui dulce
+Atunci va striga
+/: Biserica din morminte
+Se va deştepta. :/
+
+[s3]
+6. Cu oştirea Lui cerească
+Îi va număra :/
+/: Îmbrăcaţi în haine albe
+Se vor bucura. :/
+5. Şi în nori atunci cu toţii
+Se vor ridica
+/: Cu toţi binecuvântaţii
+Spre-a-L întâmpina. :/
+
+[s4]
+7. Pe locul cel de sudoare
+Va sta cununa
+/: Tatăl, Fiul, Duhul Slavei
+Îi va lumina :/.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,38 @@
+[s1]
+Mult e dulce şi frumoasă
+Calea ce-am aflat!
+Altă cale mai aleasă
+Ca ea n-am aflat.
+
+[s2]
+/: Saltă, inimă-n plăcere
+pe drumul curat!
+Mergi pîn, vei afla cetatea
+cea de diamant! :/
+
+[s3]
+Porţile ei sînt deschise
+Pînă-n temelii
+Iar tu stai, iubite frate
+Şi nu vrei să vii!
+
+[s4]
+/: Vino, vino, azi te cheamă
+glasul Celui Sfînt
+Să bei apa cea curată,
+apă din Cuvînt ! :/
+
+[s5]
+Se apropie şi clipa
+Cînd vei fi chemat
+La ospăţul Mielului
+Ce-a fost înjunghiat.
+
+[s6]
+/: Pregăteşte-te, o, frate,
+să nu fii lăsat
+Lîngă poartă, şi de îngeri
+să fii alungat ! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,26 @@
+[s1]
+Dor de tara, te-avântă departe
+Zboară lin spre-nsoritele plaiuri
+Unde blânde-adieri parfumate
+Scaldă muntii si cerul senin.
+A Iordanului vale salută
+Si străvechile ziduri, azi sfărimate.
+Mândre Sion, tu, tară pierdută
+Plângem toti pribegi al tău destin.
+
+[s2]
+Instrunati a profetilor harfă
+Care-ascunsă in salcii sta mută
+Amintind strălucirea trecută
+Unei vremi ce de mult ne zâmbea.
+
+[s3]
+Cânta, harfa, a noastra durere
+Plângi in strune a robilor soarta -
+Sau revarsa in inimi putere
+Suferinta sa stim a-ndura
+/: Suferinta sa stim a-ndura :/
+Noi sa stim a-ndura !
+
+[order]
+s1,s2,s3

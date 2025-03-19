@@ -1,0 +1,56 @@
+[s1]
+Se va spune odată:
+’’A fost un pământ
+Cu pomi, cu verdeaţă,
+cu păsări şi cânt,
+Dar flăcări grozave
+şi foc de nespus.
+Au ars tot pământul
+şi tot l-au distrus.’’
+
+[r1]
+Da, se va spune că jos în abis
+A fost o lume şi-un vechi Paradis.
+
+[s2]
+Se va spune odată:
+’’A fost un pământ,
+Un rai, o grădină a
+Domnului Sfânt,
+Dar unul din îngeri
+şi omul căzut
+Cu ura de moarte
+pământu-a umplut.’’
+
+[s3]
+Se va spune odată:
+’’A fost un pământ
+Şi sus pe o cruce,
+un nou legământ!’’
+Că grea suferinţă
+Isus a răbdat
+Să scape pe omul
+căzut în păcat.
+
+[s4]
+Se va spune odată:
+’’A fost un pământ
+Şi-o sfântă Mireasă
+c-un tainic veşmânt,
+Având o candelă
+şi vas şi ulei,
+Dorind să-ntâlnească
+pe Mirele ei.’’
+
+[s5]
+Se va spune odată:
+’’A fost un pământ
+Şi oamenii sfinţi
+ce-au ieşit din mormânt,
+Şi, sus către ceruri,
+cu toţi au zburat
+Căci jos au rămas
+doar cei morţi în păcat.’’
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

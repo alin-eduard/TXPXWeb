@@ -1,0 +1,58 @@
+[s1]
+Atunci când vei veni,' Mesia,
+Isuse binecuvântat,
+/: Când vei veni din nou, Mesia,
+Ce mare va fi bucuria
+/: Acelor ce Te-au aşteptat!...:/
+
+[s2]
+Intâmpina-Te-vom, Mesia,
+Cuprinşi de bucurii şi cânt;
+/: Primi-Te-vom, cu-o bucurie
+Cu care n-am primit, Mesia,
+/: Pe nimenea de pe pământ...:/
+
+[s3]
+Cu biblice cântări, Mesia,
+Cânta-vom ceru-n lung şi-n lat,
+/: Iar noi cânta-vom: .Aleluia!“
+Cum nu se cântă nimănuia
+/: Şi nimănuia n-am cântat...:/
+
+[s4]
+Şi cei ce Te-au străpuns în palmă,
+Mesia,-atunci Te vor vedea;
+/: Şi, îngroziţi de a Ta faimă
+Cutremura-se-vor de spaimă
+/: Şi toţi cei răi vor plânge-amar :/
+
+[s5]
+Privelişte înfricoşată!
+Mormintele s-or nărui...
+/: Cei morţi vor învia... deodată
+Ţărâna este transformată,
+/: In trupuri noi ce vor primi...:/
+
+[s6]
+Copiii Tăi ce dorm sub glie,
+In ceasul când vei reveni,
+/: Vor decola, cu bucurie,
+Spre veşnica împărăţie
+/: Şi, în văzduh, ne-om întâlni...:/
+
+[s7]
+Tu vei aduce răsăritul
+Vieţii fără de apus;
+/: Vei pune plânsului sfârşitul
+Si-ncununa-vei fericitul
+/: Prinos de dar ce ne-ai adus...:/
+
+[s8]
+Şi-atunci, va-ncepe veşnicia
+Acelor ce Te-au aşteptat,
+/: Şi-n veci va ţine bucuria...
+O, vino! Te dorim, Mesia,
+/: Isuse binecuvântat!...:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

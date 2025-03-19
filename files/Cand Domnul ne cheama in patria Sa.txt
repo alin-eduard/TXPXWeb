@@ -1,0 +1,73 @@
+[s1]
+Cand Domnul ne cheamă în patria Sa
+El va veni în glorie,
+cu toată oastea îngerilor Săi.
+Necazul, strîmtorarea,
+atunci s-or sfîrşi
+Căci a sosit Mirele, Aleluia
+glorie să-I fie !
+
+[s2]
+Iată, vine Mirele,
+aprindeţi candelele!
+Iată, vine cum a spus,
+Mirele Isus!
+El va şterge sudoarea
+de pe fruntea ta
+Şi-ţi va şterge lacrima
+şi te-a mangaia.
+
+[s3]
+Popor ce ai plans, apăsat de cel rău
+Ascultă şi azi glasul Meu,
+căci vin să iau suspinul Tău.
+Zeci de mii de îngeri în harfe cîntînd
+Aleluia Domnului, glorie în cer
+şi pe Pămant !
+
+[s4]
+Cine zboară sus pe nor?
+Este Domnul Domnilor
+Călărind pe calul alb,
+Mire sfînt şi drag !
+Cine zboară sus pe nor?
+Este oastea sfinţilor
+Urmărind pe Mieluşel
+unde merge El.
+
+[s5]
+Şarpele cel vechi ce se cheamă Satan
+Va fi lovit şi zdrobit,
+căci e destul de cînd ne-a chinuit!
+Saltă, tu, Sioane, şi fii bucuros
+Căci a sosit Mirele,
+şi dus vei fi acasă-n glorie!
+
+[s6]
+Bucurie este-n cer,
+lîngă blîndul Mieluşel
+Care moartea-a biruit,
+pe cruce murind.
+Saltă, tu, popor iubit, care moartea-ai biruit
+Prin al tău Isus Hristos,
+Mielul glorios.
+
+[s7]
+Trîmbiţele sună
+din cerul preasfînt
+Sus, fraţilor, nu dormiţi, de vreţi la ceruri ca să fiţi răpiţi!
+Haide, scoală, frate, şi fii bucuros
+Căci a ieşit Mirele şi dus vei fi acasă-n glorie!
+
+[s8]
+De-ai luat uleiul sfînt,
+vei zbura de pe Pămînt
+Sus la dreapta Tatălui,
+la nunta Mielului.
+Dacă frate-ai suferit,
+sigur frate ai biruit
+Prin al tău Isus Hristos,
+Mielul glorios !
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

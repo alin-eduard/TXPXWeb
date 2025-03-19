@@ -1,0 +1,51 @@
+[s1]
+1.Îmi pare rău de tot ce-n viaţă
+Putut-am pierde în zadar
+Dar după vremea mea pierdută
+Îmi pare rău cel mai amar
+1036.                                                                                                  Re m
+
+[s2]
+2. Îmi pare rău după Cuvântul
+Ce l-am ştiut şi nu l-am spus
+De tot ce nu mai pot întoarce
+Căci timpul meu pierdut s-a dus.
+
+[s3]
+3. Îmi pare rău după iubirea
+Ce-o datoram şi n-am ştiut
+Căci toţi acei ce mă aşteaptă
+S-au dus cu timpul meu pierdut.
+
+[s4]
+4. Îmi pare rău după-mpăcarea
+Ce n-am căutat-o când ştiam
+Acum s-au dus şi ea şi harul
+Cu timpul care nu-l mai am.
+
+[s5]
+5. Îmi pare rău după pierzarea
+Atâtor din cei dragi ai mei
+Nu i-am chemat de-ajuns şi pururi
+Cu timpul s-au pierdut şi ei.
+
+[s6]
+6. Îmi pare rău amar Isuse
+De cât puteam şi n-am facut
+Cum am să pot răspunde-odată
+De timpul meu pierdut, pierdut.
+
+[s7]
+7. Îmi pare rău după cântarea
+Ce n-am cântat-o când trebuia
+Atâtea inimi întristate
+Atunci se puteau mângâia.
+
+[s8]
+8.Îmi pare rău dar n-am ce face
+De vremea şi timpul pierdut
+Ah, de l-aş mai putea întoarce
+L-aş preţui acum mai mult.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

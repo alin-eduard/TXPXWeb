@@ -1,0 +1,20 @@
+[s1]
+A-nviat Isus Hristos, Aleluia!
+Ceru-ntreg e bucuros, Aleluia!
+Să cântăm, să-L înălţăm, Aleluia!
+Slavă, glorie să-I dăm, Aleluia!
+
+[s2]
+A-nviat, mormântu-i gol, Aleluia!
+Unde-i moarte boldul tău? Aleluia!
+Domnul nostru a-nviat, Aleluia!
+De la moarte ne-a scăpat, Aleluia!
+
+[s3]
+Inimile înălţăm, Aleluia!
+Viaţa noastră-i consacrăm, Aleluia!
+Şi crezând, curând vom sta, Aleluia!
+Sus în cer la dreapta Sa! Aleluia!
+
+[order]
+s1,s2,s3

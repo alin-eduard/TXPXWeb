@@ -1,0 +1,26 @@
+[s1]
+Ce mântuire ne-a adus
+Dragostea Domnului Isus,
+Prin jertfa Sa de pe Calvar,
+Noi azi avem iertare-n dar.
+
+[r1]
+Fii binecuvântat,
+Isuse, Domnul meu,
+Prin sângele-Ţi jertfit,
+Pe noi ne-ai mântuit.
+
+[s2]
+Sus la Golgota răstignit,
+El pentru tine a murit,
+Astăzi prin milă eşti chemat,
+Vino la El să fii salvat.
+
+[s3]
+Vin’ la Isus, nu amâna,
+Astăzi primeşte jertfa Sa,
+Haina cea albă vei primi
+Şi fericit în veci vei fi.
+
+[order]
+s1,r1,s2,r1,s3,r1

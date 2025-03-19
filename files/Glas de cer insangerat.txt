@@ -1,0 +1,19 @@
+[s1]
+Glas de cer însângerat strigă la Drumul marilor dureri
+Până unde duce?
+Până unde va urca Domnul vina noastră grea?
+Până-n moarte jertfa Sa,
+Moarte sus pe cruce!
+
+[s2]
+Plin, paharul prea amar,
+De dureri străine,
+Chinuri fără de hotar,
+Oare pentru cine?
+Pentru cei ce spini culeg,
+Chinul Său sa fie-ntreg…
+Stau sub cruce şi-nţeleg:
+Totul pentru mine!
+
+[order]
+s1,s2

@@ -1,0 +1,26 @@
+[s1]
+Domnul sa fie al meu iar eu al Tau
+Numai El sa ma conduca tot mereu
+/:Prin incercari credinta El mi-o tine
+Loc in cer sa-mi pregateasca El vine:/
+
+[s2]
+Mi-ar placea sa fiu o floare-n casa Sa
+Domnul sa se bucure mereu de ea
+/:Din inima mea sa-i pot canta si eu
+Diavolul de mine sa fuga mereu:/
+
+[s3]
+Pentru ce sa merg la adunare eu
+Pot sa laud si acasa pe Dumnezeu
+/:Cine astfel de ganduri le mai are
+Cu un lemn uscat are-asemanare:/
+
+[s4]
+Lumea asta v-a pieri si pamantul
+Stelele cadea-vor toate de-a randul
+/:Iar tu omule spune unde-i merge
+Caci mania Domnulu te ajunge:/
+
+[order]
+s1,s2,s3,s4

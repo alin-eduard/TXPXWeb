@@ -1,0 +1,22 @@
+[r1]
+/: Lasă-L să te-atingă :/ 3x
+Şi vei fi eliberat.
+
+[s1]
+/: Isus Hristos şi astăzi
+Este printre noi. :/ 4x
+
+[s2]
+/: Mormântul lui Isus
+Şi astăzi este gol. :/ 4x
+
+[s3]
+/: Isus Hristos e viu
+In veci, Aleluia. :/ 4x
+
+[s4]
+/: Cuvântul lui Isus
+Şi astăzi este viu. :/ 4x
+
+[order]
+r1,s1,r1,s2,r1,s3,r1,s4,r1

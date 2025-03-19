@@ -1,0 +1,32 @@
+[s1]
+Lăsaţi lămpile acum să ardă
+Şi în rugă privegheaţi
+Voi, cu candela împodobită
+Pe Isus întâmpinaţi!
+
+[r1]
+Privegheaţi Isus revine,
+Privegheaţi că în curând
+Ne va duce-n slăvi senine
+În Edenul Său cel sfânt.
+
+[s2]
+Lepădaţi plăceri şi răutate
+Staţi uniţi lângă Hristos
+Şi vrăjmaşul nu vă va abate
+Cât ar fi de mânios!
+
+[s3]
+Rugăciuni de sfântă consacrare
+Lui Isus Îi adresaţi
+Care-n Ghetsemani în prosternare
+Vă-arătă cum să luptaţi!
+
+[s4]
+Privegheaţi şi ţineţi sfânta Lege,
+Fie lupta cât de grea,
+În curând se-arată-al nostru Rege
+Îmbrăcat în slava Sa!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

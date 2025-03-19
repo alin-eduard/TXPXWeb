@@ -1,0 +1,24 @@
+[s1]
+Apără, iubit Isus,
+Tineretul Tău supus!
+
+[r1]
+Că-ndârjite vin ispite,
+Pregătite a-l lovi!
+Fă mai tare Duhul care
+La-ncercare va slăbi!
+
+[s2]
+Ţine-n lumea de păcat
+Tineretul Tău curat!
+
+[s3]
+Du-ţi pe drumul luminos
+Tineretul credincios!
+
+[s4]
+Fă-l, iubit mântuitor,
+Tineret biruitor!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

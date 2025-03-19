@@ -1,0 +1,20 @@
+[s1]
+Departe într-o iesle, în paie ascuns
+Culcat printre vite stă Pruncul ISUS.
+Îi cântă şi-L leagănă stele de-argint
+Şi-ncet copilaşul adoarme zâmbind.
+
+[s2]
+Doar vitele-n grajd zgomotos Îl trezesc
+Duios le priveşte şi se liniştesc.
+O, Prunc minunat Te slăvim c-ai venit
+Şi-n ieslea săracă adânc Te-ai smerit.
+
+[s3]
+Rămâi drag Isuse cu noi, Te rugăm
+N-avem bogăţii, dar ce avem Îţi dăm
+Iar Tu dă-ne binecuvântarea Ta
+Şi viaţa întragă cu Tine vom sta.
+
+[order]
+s1,s2,s3

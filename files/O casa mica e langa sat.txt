@@ -1,0 +1,32 @@
+[s1]
+1. O casă mică e lângă sat
+Domnu-o veghează ne încetat
+/: Această casă n-o pot uita
+Acolo şade mămica mea :/
+
+[s2]
+2. Rază de soare când tu răsari
+Primele raze mamei să-i dai
+/: O, lumineaz-o din zori în zori
+Sărută-i fruntea de mii de ori :/
+
+[s3]
+3. Privighetoare de vei zbura
+Opreşte-o clipă la mama mea
+/: Bate la gemul ei liniştit
+Să-i cânţi un cântec cât mai iubit :/
+
+[s4]
+4. Când noaptea-i neagră şi este grea
+De dor suspină mămica mea
+/: Voi, mii de astre să-i luminaţi
+Şi mamei mele somn lin să-i daţi :/
+
+[s5]
+5. Amurgul serii vine-n curând
+Inchide ochii mamei plangand
+/: Ramane goală căsuţa mea
+Eu mamă dulce ce-oi mai avea :/
+
+[order]
+s1,s2,s3,s4,s5

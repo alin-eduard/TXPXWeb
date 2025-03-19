@@ -1,0 +1,25 @@
+[s1]
+Ochii tăi multe lacrimi au cunoscut
+Viata ta prin multe încercări a trecut
+Nu ai haine nu ai pâine
+Si nu stii ce te-asteapta ziua de maine
+Dar poti avea pace in mijlocul furtunii
+
+[r1]
+Poti găsi pace în mijlocul furtunii
+Poti găsi sperantă
+când puterile te-au părăsit
+Iubirea Lui Isus te-asteaptă
+Chiar si-atunci când viata pare nedreaptă
+Poti avea pace în mijlocul furtunii
+
+[s2]
+Uneori încerc sa te-nteleg
+Si in inima mea
+după-al vietii adevăr alerg
+Atunci iubirea Lui mă găseste
+Și încet la ureche-mi sopteste
+Poti avea pace in mijlocul furtunii
+
+[order]
+s1,r1,s2,r1

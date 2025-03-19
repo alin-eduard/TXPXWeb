@@ -1,0 +1,48 @@
+[s1]
+A mai trecut un an prin noi,
+A fost şi soare, au fost şi ploi.
+Singur nu eram, eram amândoi.
+În nopţile pustii şi reci,
+Şi zilele cu nori pe cer.
+Doar Tu Isus m-ai ajutat.
+
+[s2]
+Vreau acum la sfârşit de an,
+O rugă să-Ţi înalţ, şi să-Ţi spun
+/: Îţi mulţumesc pentru-acest an,
+Îţi mulţumesc pentru ce mi-ai dat.
+Îţi mulţumesc că niciodată
+singur nu m-ai lăsat.
+Îţi mulţumesc pentru-acest an. :/
+
+[s3]
+A mai trecut prin viaţa mea,
+Vreme bună şi vreme rea.
+Toate erau în mâna Ta.
+Iubire Tu mi-ai arătat,
+Inima mi-ai înălţat.
+În toate Tu m-ai binecuvântat.
+
+[s4]
+Vreau acum la sfârşit de an,
+O rugă să-Ţi înalţ, şi să-Ţi spun.
+/: Îţi mulţumesc pentru-acest an,
+Îţi mulţumesc pentru ce mi-ai dat.
+Îţi mulţumesc că niciodată
+singur nu m-ai lăsat.
+Îţi mulţumesc pentru-acest an. :/
+
+[s5]
+Şi-n anul care vine
+Vreau să fiu tot cu Tine.
+Viaţa mea o las /:în mâna Ta. :/
+
+[s6]
+/: Îţi mulţumesc pentru-acest an,
+Îţi mulţumesc pentru ce mi-ai dat.
+Îţi mulţumesc că niciodată
+Singur nu m-ai lăsat.
+Îţi mulţumesc pentru-acest an. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

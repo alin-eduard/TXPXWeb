@@ -1,0 +1,29 @@
+[s1]
+/: Să vină la izvor să bea :/
+/: Cine însetează :/
+Să vină şi să bea!
+Apa vieţii curge chiar de sub altar
+Şi pe unde trece-i bucurie, har.
+Viaţă-i pretutindeni pe unde trece
+Rîul care curge cu apă vie.
+
+[s2]
+/: Să vină la izvor să bea :/
+/: Cine însetează :/
+Să vină şi să bea!
+Apa cristalină curge ne-ncetat
+Apa ce alină pe cel însetat
+O, ce apă bună e apa vie !
+Rîul care curge din veşnicie.
+
+[s3]
+/: Să vină la izvor să bea :/
+/: Cine însetează :/
+Să vină şi să bea!
+Raul care curge, rau vindecător
+Rîu de vindecare a sufletelor.
+Cine bea din apa rîului bogat
+El va fi îndată deplin vindecat.
+
+[order]
+s1,s2,s3

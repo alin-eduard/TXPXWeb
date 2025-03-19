@@ -1,0 +1,52 @@
+[s1]
+1.Mie sufletul mâhnit şi frânt
+Dar vreau Isuse ca să-Ţi cânt
+Să-nalţ spre Tine dulci cuvinte
+Să-i fac pe cei trudiţi să cânte
+Şi-aş vrea ca cei ce-s prin spitale
+Ei săţi ridice osanale
+Ca Tu să-i scoli din patul lor
+Ca pe ologul din pridvor
+1569.
+
+[r1]
+Cor:   De aceea Te-aşteptăm mereu
+Pe Tine Doamne Dumnezeu
+Să ne ridici de pe pământ
+La Tine Doamne-n cerul sfânt
+Căci doar la Tine-i bucurie
+Ce n-are seamăn pe vecie
+Cu bucuriile de-aici
+Atât de scurte atât de mici.
+
+[s2]
+2. Sunt mulţi ce-aşteaptă alinare
+Că-s la necaz, la strâmtorare
+Şi mulţi aşteaptă-n chinuri grele
+Ca Tu să spui “Ieşiţi din ele”
+Şi sunt atâţia ce Te cheamă
+Ce n-au nici tată şi nici mamă
+Străini lipsiţi de ajutor
+Chemându-Te în drumul lor
+
+[s3]
+Cor:  De aceea Te-aşteptăm mereu
+Pe Tine Doamne Dumnezeu
+Să ne ridici de pe pământ
+La Tine Doamne-n cerul sfânt
+Căci doar la Tine-i bucurie
+Ce n-are seamăn pe vecie
+Cu bucuriile de-aici
+Atât de scurte atât de mici.
+
+[s4]
+3. Te-aştept în zorii tinereţii
+Te-aştept pâ-n la amurgul vieţii
+Candela să mi-o umpli iar
+Să nu fim goi fără de har
+Să-mi împlineşti marea dorinţă                                   Umple-ne Doamne cu credinţa
+Cu pace sfântă cu-al Tău har
+Ce-a fost adus de pe calvar.
+
+[order]
+s1,r1,s2,s3,s4,r1

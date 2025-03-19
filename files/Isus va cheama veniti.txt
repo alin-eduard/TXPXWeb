@@ -1,0 +1,38 @@
+[s1]
+Isus vă cheamă, veniţi la El,
+Căci fericirea e numai prin El
+De-atâta vreme nu-L
+auziţi duios zicând: Veniţi!
+
+[r1]
+Ce frumos va fi în clipa când,
+curăţiţi şi slobozi de păcat
+Vom fi în ceruri, toţi cu Isus,
+în casa cea de sus!
+
+[s2]
+Veniţi la Mine! vă cheamă El,
+Odihnă, pace şi har să găsiţi!
+Căci jugul crucii este
+uşor nu-ntârziaţi, veniţi!
+
+[s3]
+De-atâta vreme v-aşteaptă-n drum,
+ca să vă-ntoarceţi din calea cea rea
+Lăsaţi păcatul toţi, chiar acum!
+Veniţi la crucea Sa!
+
+[s4]
+El Şi-a dat viaţa pe Golgota,
+şi cu-a Lui jertfă pe toţi ne-a scăpat
+Ca noi, curaţi, să avem
+prin El iertare de păcat.
+
+[s5]
+Nimeni nu poate să spună
+acum că la Isus el nu poate veni,
+Când El îi cheamă şi-aşteaptă-n
+drum cu dragoste-ai primi!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

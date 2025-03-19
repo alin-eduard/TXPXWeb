@@ -1,0 +1,29 @@
+[s1]
+Oh steaua straluceste
+Tu steaua harului,
+Ca tu ne dai in stire
+Iubirea Tatalui.
+
+[r1]
+/:Asa, asa:/ stea scumpa luceste-ne.
+
+[s2]
+Oh steaua straluceste,
+Bucurie ne-aduci,
+Si-n noaptea-ntunecoasa,
+Spre cer tu ne conduci.
+
+[s3]
+Oh steaua straluceste,
+Speranta noastra esti,
+Pe calatori tu-I conduci,
+Pe caile ceresti.
+
+[s4]
+Oh steaua straluceste,
+Spre a ne desfata,
+Ca soare vesnic in cer,
+Pan’ te vom saluta.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

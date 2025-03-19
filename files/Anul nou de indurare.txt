@@ -1,0 +1,44 @@
+[s1]
+Anul nou de indurare
+Astazi iarasi il serbam
+Zi de binecuvantare
+Pace-n suflet noi avem
+
+[s2]
+Domnul sfânt ne-asprijinit
+Noi acum ii mulţumim
+De-ndurarea ce-am primit:
+Har bogat, binevenit!
+
+[r1]
+An de an de îndurare,
+Pentru noi, Domnul cel sfânt
+Ne-nnoieşte a Sa lucrare
+De-ndurare, pe pământ.
+
+[s3]
+Anul nou de îndurare
+Domnului îl închinăm.
+Fie pentru-a Lui onoare!
+Lauda noastră i-o cântăm.
+
+[s4]
+Noi dorim ca, pentru El,
+Să depunem tot ce-avem
+Scump, iubitul nostru zel
+Pe altarul Său solemn.
+
+[s5]
+Ceas de ceas, din viaţa noastră,
+N-om uita-ndurarea Sa;
+Fi-va mângaierea noastră,
+Peste veac ne va purta!
+
+[s6]
+Acolo, ne-om bucura,
+În prezenţa sfinţilor,
+Şi-om serba, la masa Sa,
+Anul îndurărilor.
+
+[order]
+s1,s2,r1,s3,s4,r1,s5,s6,r1

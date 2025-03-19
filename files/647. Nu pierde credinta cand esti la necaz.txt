@@ -1,0 +1,43 @@
+[s1]
+1. Nu pierde credinţa
+Când eşti la necaz
+Căci Domnul te cheamă
+Mereu să fii treaz
+Nu-ţi pierde răbdarea
+Când eşti strâmtorat
+Strigă către Domnul
+Căci te va ajuta
+647.
+
+[s2]
+2. Strigă către Domnul
+Când eşti istovit
+Când nu ai putere şi eşti obosit
+Strigă căci El vine
+Când îţi va fi greu
+Îţi va da salvare şi ajutorul său
+
+[s3]
+3. Căci Satana luptă
+Să-ţi pierzi mântuirea
+Nu vrea ca să ai nicicând fericirea
+Însă Domnul Isus
+Pentru noi s-a dat
+El e biruinţa, e la dreapta Ta.
+
+[s4]
+4. Roagă-te cu râvnă şi fii credincios
+Ca să nu rămâi în lume aici jos
+Căci va veni în curând
+Isus Dumnezeu
+Va răpi la ceruri poporaşul Său
+
+[s5]
+5. Deci grăbeşte pasul înspre Paradis
+Şi rămâi statornic aşa cum ai zis
+Să păstrezi cu grijă
+Sfântul legământ
+Fără nici o pată până la mormânt.
+
+[order]
+s1,s2,s3,s4,s5

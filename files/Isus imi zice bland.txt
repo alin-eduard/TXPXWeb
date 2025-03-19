@@ -1,0 +1,32 @@
+[s1]
+Isus îmi zice blând:
+“Fiu scump, tu eşti prea slab,
+Deci vin’ la Mine-oricând,
+Eu îţi ajut cu drag!”
+Sângele-Ţi vărsat
+Spală-al meu păcat,
+Inima-mi s-a curăţit,
+Isus m-a mântuit.
+
+[s2]
+Doar sângele-Ţi, Isus
+Mă spală de păcat
+Pe cruce când a curs
+Viaţa Ta mi-ai dat.
+Sângele-Ţi vărsat
+Spală-al meu păcat,
+Inima-mi s-a curăţit,
+Isus m-a mântuit.
+
+[s3]
+Eu ştiu că nu sunt bun,
+Nu-s demn de mila Ta,
+De-aceea-n Tine pun
+Speranţa de-a scăpa.
+Sângele-Ţi vărsat
+Spală-al meu păcat,
+Inima-mi s-a curăţit,
+Isus m-a mântuit.
+
+[order]
+s1,s2,s3

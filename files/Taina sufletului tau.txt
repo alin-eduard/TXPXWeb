@@ -1,0 +1,33 @@
+[s1]
+Taina sufletului tau,
+Nu e taina nu…
+Este doar veninul rau
+Ce-ti da teama
+Ţi-e greu sa mai speri,
+Ţi-e inima-n dureri
+Nu stii ce sa mai faci, dar totusi
+
+[s2]
+Pleaca-te-nlauntrul tau
+Şi cheama`l pe Isus
+Pleaca-te-nlauntrul tau
+Şi striga spre El.
+
+[s3]
+Taina sufletului tău ucide
+Puţin câte putin
+Taina sufletului tău, te-nvinge
+Nu poţi să mai respiri
+Ai vrea să poţi strigă,
+Te-opreste frica ta
+Nu ştii de ai să poţi
+Dar totusi…
+
+[s4]
+Îţi va raspunde,
+Dacă-L vei chema,
+Dacă-L vei striga…
+Pe ISUS!
+
+[order]
+s1,s2,s3,s4

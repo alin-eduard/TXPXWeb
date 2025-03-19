@@ -1,0 +1,22 @@
+[r1]
+Fiindcă atat de mult ne-a iubit Dumnezeu,
+Că a trimis în lume Fiul Său,
+Fiindcă atat de mult El ne-a iubit,
+Că şi-a lăsat Fiul răstignit.
+
+[s1]
+Ca oricine crede să nu piară,
+Ca oricine crede să nu moară,
+Ca oricine crede să primească
+viaţa-n dar,
+Prin jertfa lui Isus de pe Calvar.
+
+[s2]
+Ca oricine crede să nu piară,
+Ca oricine crede să nu moară,
+Ca oricine crede să
+primească viaţa-n dar,
+Prin jertfa lui Isus de pe Calvar, (x3)
+
+[order]
+r1,s1,r1,s2

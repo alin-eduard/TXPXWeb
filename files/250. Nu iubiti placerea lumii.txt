@@ -1,0 +1,78 @@
+[s1]
+1. Nu iubiţi plăcerea lumii
+Toţi acei ce o iubesc
+A lor dragoste răceşte
+Şi credinţa le slăbeşte vai de ei
+250.
+
+[s2]
+Ei pierd orişice simţire
+Şi trăiesc în amăgire
+Fapte n-au de naeprihănire
+Nu-s ai mei.
+
+[s3]
+2. Fapta lumii e otravă
+Cine gustă din ea moare
+Nu mai poate fi o floare
+Pe-a vieţii cărare.
+
+[s4]
+Nu mai stau pe o lingură de linte
+Fericirea el o vinde
+Acel ce nu ia aminte.
+Ca Esau.
+
+[s5]
+3. Acum vremea s-a scurtat
+Acum peste holda toată
+Numai neghină curată
+Roadă crudă nu e coaptă
+
+[s6]
+Spinii au crescut
+Şi omida necredinţei
+Roade puterea seminţei
+De pe calea biruinţei.
+Au căzut.
+
+[s7]
+4. Să băgaţi bine de seamă
+Că-n grădinile sfinţirii
+Urâciunea pustiirii
+Ea vă strică trandafirii, să vegheaţi
+
+[s8]
+Şi pe-al pregătirii treaptă
+Tu veghează şi aşteaptă
+Ca fecioara înţeleaptă.
+Aşteptaţi.
+
+[s9]
+5. Caută de te cercetează
+Dacă mai eşti în credinţă
+În haină de umilinţă
+Pe calea de pocăinţă.
+
+[s10]
+Cum ţi-am spus
+Căci când îţi fac Eu cercetare
+Îţi voi pune întrebarea
+De ce aţi părăsit
+Voi calea şi pe Isus.
+
+[s11]
+6. Domnul Isus azi vorbeşte
+Cei ce păstrează a Lui cuvânt
+Şi-au rămas în legământ
+Credincioşi până la moarte
+
+[s12]
+S-or sfinţi
+Ei vor fi aceia care
+Au luptat pe această cale
+Chiar cu preţul vieţii sale
+M-au slujit.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12

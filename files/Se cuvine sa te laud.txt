@@ -1,0 +1,26 @@
+[s1]
+Se cuvine să te laud,
+Domnul meu.
+Se cuvine să te laud,
+Tot mereu.
+
+[r1]
+Sunt dator şi se cuvine
+Cine altul decât Tine;
+M-a iubit şi mă iubeşte
+Tot mereu
+
+[s2]
+Zi de zi vreau să te laud,
+Domnul meu.
+Se cuvine să te laud,
+Tot mereu.
+
+[s3]
+În tot timpul să te laud,
+Domnul meu.
+În tot locul să te laud,
+Tot mereu.
+
+[order]
+s1,r1,s2,r1,s3,r1

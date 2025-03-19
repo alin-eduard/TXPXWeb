@@ -1,0 +1,39 @@
+[s1]
+940.
+1.  Cu toţii să ne întâlnim
+La slujba Domnului
+Toţi cu dragoste să mergem
+Să ne rugăm Lui.
+Sigur o să ne primească
+Tatăl cel iubit
+Şi astfel o să ne vorbească:
+"Bine aţi venit!"
+
+[r1]
+Cor:	Bine aţi venit, bine aţi venit
+Pentru voi este loc în partea dreaptă
+Bine aţi venit, bine aţi venit
+O coroană de aur aveţi ca răsplată.
+
+[s2]
+2.	O ceată mare îngerească
+Aşteaptă în ceruri sus
+Cu dragoste să ne-ntâlnească
+În faţa lui Isus.
+Cântând cu toţii-n glorie
+Demult noi v-am dorit
+Iubiţi Fii a lui Hristos
+Bine aţi venit.
+
+[s3]
+3.	Tatăl nostru cel din ceruri
+Mult ne doreşte
+Haine albe ca la îngeri
+Ne pregăteşte.
+Sigur o să ne primească
+Tatăl cel iubit
+Şi astfel o să ne vorbească
+Bine aţi venit.
+
+[order]
+s1,r1,s2,r1,s3,r1

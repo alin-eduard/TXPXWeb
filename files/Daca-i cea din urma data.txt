@@ -1,0 +1,27 @@
+[s1]
+Dacă-i cea din urmă dată
+Cînd auzi Cuvîntul Sfînt
+Ce-ai să faci de-ai merge-acuma
+Necrezîndu-L în mormînt ?
+
+[r1]
+Vino la Isus acuma
+Pe-al vieţii drum !
+Poate ultima chemare
+Este cea de-acum,
+El ţi-o face-acum !
+
+[s2]
+Dacă-i cea din urmă dată
+Cînd mai poţi să fii salvat
+Ce-ai să faci la judecată
+De vei merge vinovat ?
+
+[s3]
+Dacă-i cea din urmă dată
+Cum a fost la cei mai mulţi
+Ce vei face, ce vei face
+Dacă mori, şi tot n-asculţi ?
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,55 @@
+[s1]
+2064
+1. Splendoarea crinilor cerești
+Ce răspândesc parfumul
+Iar râul cel dumnezeiesc
+Nu-și schimbă
+Nicicând drumul.
+
+[r1]
+Cor: /: Acolo-i țara mea :/ și-a ta
+Și mult doresc s-ajung în ea
+În țara dintre râuri
+Și mult doresc s-ajung în ea
+Acolo sus în ceruri
+
+[s2]
+2. Acolo curge-un râu bogat
+Cu apa vieții lină
+Iar pomul vieții minunat
+Dă rod în orice lună.
+
+[s3]
+3. Aleile acelor străzi
+În aur sunt pavate
+Iar porțile intrărilor
+Din pietre scumpe-s toate
+
+[s4]
+4. Locuitorii-acestei țări
+Poartă pe cap coroană
+Căci au ieșit biruitori
+Prin luptă și prigoană
+
+[s5]
+Cor: /: Acolo-i țara mea :/  și-a ta
+Și mult doresc s-ajung în ea
+În țara dintre râuri
+Și mult doresc s-ajung în ea
+Acolo sus în ceruri
+
+[s6]
+5. Împăratul-mpăraților
+Domnește-n sfânta țară
+Acolo nu-s dureri nici chin
+Ci-i veșnic primăvară.
+
+[s7]
+Cor: /: Acolo-i țara mea :/ și-a ta
+Și mult doresc s-ajung în ea
+În țara dintre râuri
+Și mult doresc s-ajung în ea
+Acolo sus în ceruri.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5,s6,s7

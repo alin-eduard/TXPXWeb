@@ -1,0 +1,33 @@
+[s1]
+1.Dragoste divină, sfântă
+Ce adânc Te dăruieşti
+Şi în inima Lui Isus
+Peste vremi aceeaşi eşti.
+1190.       							Sol
+
+[r1]
+/: El în cer ne va deschide
+Poarta de mărgăritar
+Şi spălaţi prin al Lui sânge
+Vom păşi salvaţi prin har. :/
+
+[s2]
+2.Dragoste divină, sfântă
+Ne-ai iertat orice păcat
+Vom cânta de fericire
+Toată viaţa ne-ncetat.
+
+[s3]
+3.Ca o fiară urmărită
+Ca un şoim lovit eram
+Isus m-a scăpat de moarte
+Peste răni mi-a pus balsam.
+
+[s4]
+4.Iar în clipa înserării
+Când trudit ajung la mal
+Voi intra privind la Isus
+Într-al sfinţilor şirag.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

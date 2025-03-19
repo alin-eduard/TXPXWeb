@@ -1,0 +1,42 @@
+[s1]
+1.Să avem credinţă
+Și răbdare
+Fraţilor, oricât ar fi de greu
+Pentru slava vieţii viitoare
+Să fim credincioşi
+Lui Dumnezeu
+1147                   						          Re m
+
+[r1]
+Prin credinţă munţii
+S-au mutat
+Prin credinţă morţi-au înviat
+Prin credinţă fraţii din trecut
+Mari minuni
+Cu Domnul au făcut.
+
+[s2]
+2.Să privim la
+Norul mărturiei
+Cum ne scrie
+Pavel în Evrei
+Să păzim cărarea curăției
+Să ieşim biruitori ca ei.
+
+[s3]
+3.Să privim la leii
+Și cuptorul
+Şi pe Iov, acel îndurerat
+Prin Isus Hristos, Mântuitorul
+Vom învinge moarte şi păcat.
+
+[s4]
+4.Şi vom sta
+În Ţara fericirii
+Cu Avraam, Isaac şi Israel
+Şi cu fraţii noştri
+Și martirii
+Sub al biruinţelor drapel.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,26 @@
+[s1]
+Luminează Tu, Isuse,
+Lumea prin lumina Ta,
+Mulţi cuprinşi de întuneric
+Mor pierduţi în bezna grea.
+
+[r1]
+Luminează, o, Isuse,
+Tot pământu-ntunecat,
+Prin Cuvântul Tău
+Alungă orice umbră de păcat!
+
+[s2]
+Rătăcind în întuneric
+Mulţi viaţa şi-o petrec
+Şi plăcerile de-o clipă
+Zi de zi îi amăgesc.
+
+[s3]
+Despre rai şi fericire
+Multe suflete nu ştiu,
+Luminează-le, Isuse,
+Până nu e prea târziu!
+
+[order]
+s1,r1,s2,r1,s3,r1

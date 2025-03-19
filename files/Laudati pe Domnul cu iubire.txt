@@ -1,0 +1,41 @@
+[s1]
+5
+Lăudaţi pe Domnul cu iubire
+Căci El pentru noi S-a jertfit!
+Cântaţi-I şi daţi-I mărire
+Căci El pentru noi a murit!
+
+[s2]
+4
+/:Lăudaţi:/Pe Acela ce s-a jertfit!
+/:Lăudaţi:/Pe Cel ce atât ne-a iubit!
+Ref:
+
+[s3]
+3
+Lăudaţi minunata-I putere
+Care boldul morţii a frânt
+Şi prin glorioasa-nviere
+Ajuns-a la Tatăl preasfânt!
+
+[s4]
+2
+/:Lăudaţi:/Pe Acela ce s-a jertfit!
+/:Lăudaţi:/Pe Cel ce atât ne-a iubit!
+Ref:
+
+[s5]
+1
+Lăudaţi şi fiţi plini de speranţă
+Căci Domnul e azi printre noi!
+Priveghind s-avem siguranţă
+Că El se-ngrijeşte de noi!
+
+[s6]
+0
+/:Lăudaţi:/Pe Acela ce s-a jertfit!
+/:Lăudaţi:/Pe Cel ce atât ne-a iubit!
+Ref:
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,43 @@
+[s1]
+1. Spune frate ce eşti trist
+Ori nu mergi spre Paradis
+Înspre Paradis de mergi
+Nu face să te-ntristezi.
+2. Căci acolo-n Paradis
+Nu e nici un suflet trist
+Acolo sunt bucurii
+Ce durează-n veşnicii.
+603.
+
+[s2]
+3. Acolo nu sunt dureri
+Nici lacrimi, nici întristări
+Acolo este Isus
+Şi sunt bucurii nespus.
+4. Pentru ce eşti supărat
+Dacă eşti răscumpărat
+Pentru ce te întristezi
+Căci şi ce ai totul pierzi.
+
+[s3]
+5. Căci toate pe acest pământ
+Sunt doar goană după vânt
+Căci totul e trecător
+Şi bietul om muritor.
+6. Şi-ntr-o zi şi tu vei fi
+Dus de aici în veşnicii
+Şi toată averea ta
+Spune cui o vei lăsa.
+
+[s4]
+7. Dar ce ochiul n-a văzut
+Urechea n-a auzit
+Astfel sunt lucrurile
+De Domnul pregătite
+8. Aşa este-n Paradis
+În tocmai cum este scris
+Pentru acei ce-n Domnul cred
+Şi-L urmează şi-L slujesc.
+
+[order]
+s1,s2,s3,s4

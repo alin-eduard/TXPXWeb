@@ -1,0 +1,35 @@
+[s1]
+1. Mire drag, Isuse Sfânt
+Cu-al iubirii glas îţi cânt
+Zi şi noapte mă gândesc
+Printre lacrimi te zăresc.
+Şi Te-aştept plângând în prag
+Mire drag, Mire drag.
+709.
+
+[s2]
+2. Dar te-aştept cu drag, te-aştept
+Îmi arde inima în piept
+Da mi-e gândul tot la Tine
+Ah, te-aştept, te-aştept în prag.
+Dar rămân şi-aştept în prag
+Mire drag, Mire drag.
+
+[s3]
+3. Cade noaptea peste tot
+Eu aştept, dar nu mai pot
+Licăreşte un dor nestins
+Mult îmi eşti o drag Isus.
+Obosit te-aştept în prag
+Mire drag, Mire drag.
+
+[s4]
+4. Aici eu străin sunt
+N-am pe nimeni pe pământ
+Nicăieri un dor nestins
+Tot în lacrimi şi în plâns.
+ÎI privesc de aici de jos
+Pe Hristos, pe Hristos.
+
+[order]
+s1,s2,s3,s4

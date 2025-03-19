@@ -1,0 +1,30 @@
+[s1]
+Cuvântul:
+“Cu voi sunt, deci nu vă temeţi!“
+Luminează-n calea acestei vieţi.
+El prin nori ca rază ne străbate-aşa,
+Mă bucură graiul:
+“În veci nu te voi lăsa!’’
+
+[r1]
+“Eu nu te-oi lăsa,
+Eu nu te-oi lăsa!”
+Aşa mi-a promis El mie:
+“În veci nu te voi lăsa!”
+
+[s2]
+Floarea veştejeşte, mirosul pierzând;
+Pot să treacă toate dar Isus nicicând.
+Că Mântuitorul veşnic e al meu
+Şi întotdeauna mă păstrează-n harul Său.
+
+[s3]
+Când a mea cărare se va-ntuneca,
+El va grăi dulce:“Nu te-nfricoşa!”
+Iar odată-n ceruri,
+când Îl voi vedea,
+Plin de bucurie,
+cu El mereu voi cânta.
+
+[order]
+s1,r1,s2,r1,s3,r1

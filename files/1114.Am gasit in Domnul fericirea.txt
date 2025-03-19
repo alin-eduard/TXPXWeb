@@ -1,0 +1,52 @@
+[s1]
+1. Am găsit în Domnul fericirea
+Am găsit măreţul har divin,
+Am găsit în Isus mântuirea
+Ce-am căutat-o de atâta timp.
+1114.                                                         Mi b
+
+[s2]
+Am găsit în Isus adevărul
+Când inima mi-am deschis
+Pacea sfântă, binecuvântarea
+De la Domnul am primit.
+
+[r1]
+/:Glorie Isuse Ţie
+Aleluia-n veci mărire
+Tu eşti a mea fericire
+Aleluia, Aleluia : /
+
+[s3]
+2. Când furtuna
+Vine peste mare
+Şi când valurile grele bat
+Spune-mi Doamne:
+Cum să pot eu oare
+Marea vieţii s-o străbat?
+
+[s4]
+Când păcatul ameninţă lumea
+Ştiu sfârşitul
+Va veni-n curând.
+Nu mă tem,
+Căci Tu eşti lângă mine
+Tu eşti scutul meu oricând.
+
+[s5]
+3. La credinţă
+Vin’ acum degrabă
+Nu mai sta
+Nepăsător mereu
+Azi eu ştiu
+Că Isus mă iubeşte
+Şi El e-n sufletul meu
+
+[s6]
+Am găsit în Isus adevărul
+Când inima mi-am deschis
+Pacea sfântă, Binecuvântarea
+De la Domnul am primit
+
+[order]
+s1,s2,r1,s3,s4,r1,s5,s6,r1

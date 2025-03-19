@@ -1,0 +1,43 @@
+[s1]
+2110
+1. O femeie necăjită a venit
+la Elisei
+Să-i spună a ei durere
+Să-i spună necazul ei
+Căci bărbatul ei murise
+Și a rămas cu datorii
+Și acel ce-o împrumutase
+Vrea să-i ia cei doi copii
+
+[r1]
+Cor:	/: Izbăvire :/ nu avea
+Însă bunul Dumnezeu,
+El s-a îndurat de ea.
+
+[s2]
+2. A plecat să ceară vase
+De la toți ai săi vecini
+Căci durerea ei e mare
+Drumu-i presărat
+cu spini.
+
+[s3]
+3. A intrat apoi în casă
+Cu copiii după ea
+Ea ducea vasele goale
+Iar Isus i le umplea.
+
+[s4]
+4. Dar la fel ca și femeia
+Mai sunt azi mulțimi de frați
+Peste care vânturi grele
+Cu putere și astăzi bat.
+
+[s5]
+5. Nu există mângâiere
+Decât doar la Dumnezeu
+Văduvele și orfanii
+Le ține pe brațul Său.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

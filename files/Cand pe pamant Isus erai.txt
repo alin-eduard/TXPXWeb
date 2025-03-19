@@ -1,0 +1,31 @@
+[s1]
+Când pe pământ Isus erai
+cu oamenii umblai.
+Pe cei săraci, orfani şi goi
+cu drag Tu-i mângâiai.
+
+[r1]
+/: Căci Tu eşti pacea Tu eşti viaţa,
+Tu eşti alinul, Tu eşti speranţa.
+Tu vindeci Doamne şi ierţi păcatul,
+Ca Tine-n lume nu este altul. :/
+
+[s2]
+Când pe pământ Isus erai bolnavii vindecai,
+Pe cei ce ajutor cereau
+cu drag îi sprijineai.
+
+[s3]
+Când pe pământ Isus erai
+pe-o cruce ai murit,
+Ca noi crezând în jertfa Ta
+să fim azi mântuiţi.
+
+[s4]
+La crucea Ta cu toţi venim
+Isus să ne smerim,
+Să-ngenunchem să te slăvim,
+ai Tăi pe veci să fim.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

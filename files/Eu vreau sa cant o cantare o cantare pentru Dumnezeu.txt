@@ -1,0 +1,38 @@
+[s1]
+Eu vreau să cânt o cântare,
+o cântare pentru Dumnezeu.
+De laudă şi mulţumire,
+izvorâtă din sufletul meu.
+O cântare de voioşie,
+să răsune întregul pământ.
+Acordul ei să se-nalţe către
+Cel ce este sfânt.
+
+[r1]
+Osana lui Dumnezeu! Osana!
+Acelui ce din cer a venit.
+Osana lui Dumnezeu! Osana!
+În veci să fie proslăvit.
+
+[s2]
+Eu vreau să cânt o cântare,
+izvorâtă din inima mea.
+Să-L laud cu toată fiinţa,
+pe Acel ce se cheamă: „MESIA!”
+Şi veselă-i inima-n mine,
+că sunt salvat de Hristos.
+Şi sus în împărăţie,
+eu vreau să cânt voios.
+
+[s3]
+Veniţi să cântăm o cântare,
+o cântare pentru Dumnezeu.
+Să umple tot Universul
+de laudă Numelui Său.
+Să cânte toţi cântăreţii
+de pe-ntreg cuprinsul lumii.
+Căci vrednic e de slavă:
+„Isus lumina lumii!”
+
+[order]
+s1,r1,s2,r1,s3,r1

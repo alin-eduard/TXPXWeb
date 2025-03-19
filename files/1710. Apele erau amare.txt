@@ -1,0 +1,49 @@
+[s1]
+1710.Si b
+1. Apele erau amare
+Pentru vindecarea lor
+Elisei aduce sare
+Ca să pună la izvor
+Şi s-a petrecut minunea
+Apele s-au vindecat
+Boala şi amărăciunea
+Dumnezeu le-a-ndepărtat
+
+[r1]
+Cor: 	/:Puneţi sare fraţilor
+Puneţi sare la izvor
+Vindecaţi orice amar
+Puneţi sare, har:/
+
+[s2]
+2. Ape bune şi sărate
+Sunt învăţături cereşti
+De la Isus Hristos lăsate
+Setea să ţi-o potoleşti
+Dar mai sunt şi azi în lume
+Cu destul de gust amar
+Ape tulburi şi murdare
+Fără gust şi fără har
+
+[s3]
+3. Vrăjmăşie, dezbinare
+Vorbe care nu zidesc
+Astea-s apele murdare
+Care ne îmbolnăvesc
+Vorba să-ţi fie aleasă
+Din al Domnului cuvânt
+Asta-I sarea cea aleasă
+Sarea-ntregului pământ
+
+[s4]
+4. Peste tot i-amarăciune
+Şi acasă şi-n popor
+Fraţilor prin rugăciune
+Puneţi sare la izvor
+Duhuri multe se frământă
+Să ne aducă gust amar
+Tot ce firea ne încântă
+Este râul cel murdar
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,57 @@
+[s1]
+1882
+1. Creștini români de pretutindeni
+Ce-ați străbătut pământu-n lung și-n lat
+Spre-un loc mai bun spre-o țară
+Spre-un mai bine
+Și tot pământul l-ați cutreierat.
+
+[s2]
+/:Prin suferinți , prin valuri și durere
+Ați străbătut acest pământ hain
+În urma ta ce-ai scris pe-a veții cale
+Ai dat exemplu că tu ești creștin.:/
+
+[s3]
+2. Voi ați plecat din țara strămoșească
+Lăsând în urmă oameni necăjiți
+Sunt frații noștri cei de suferință
+Sunt frații noștri care i-am iubit.
+
+[s4]
+/:Ei te așteaptă ca să-ți întinzi mâna
+Spre cel sărac,sărman, spre cel lipsit
+Tu nu uita așa-ți va fi cununa
+Şi plata după cum tu ai muncit.:/
+
+[s5]
+3. Tu ești aici prin brațul Celui veșnic
+Ce ți-a purtat de grijă tot mereu
+De îți cunoști lucrarea-ncredințată
+Poți fi numit fiul Lui Dumnezeu.
+
+[s6]
+/:Încrede-te în Domnul care spune
+Voi fi cu tine până la sfârșit
+Pe cel sărac ajută-l cu iubire
+Întinde-i mâna celui ce-i lipsit.:/
+
+[s7]
+4. Creștini români de pretutindeni
+Ce-ați străbătut pământu-n lung și-n lat
+Spre-un loc mai bun spre-o țară
+Spre-un mai bine
+Și tot pământul l-ați cutreierat.
+
+[s8]
+/: Necazuri am găsit pe-ntreg pământul
+Şi-or fi până ce Isus va veni
+Pe-acest pământ nu-i țară mai frumoasă
+Ca Paradisul cel din veșnicii.
+Și vor zbura din tot cuprinsul lumii
+Românii ce pe Isus L-au slujit
+Spre Țara Sfântă , Țara veșniciei
+Să ne-ntâlnim cu  Domnul nost' iubit.:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

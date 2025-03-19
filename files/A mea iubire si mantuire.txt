@@ -1,0 +1,42 @@
+[s1]
+A mea iubire şi mântuire
+Îmi este Domnul, de-a pururea!
+/:Cu El sunt mântuit,
+Cu El sunt fericit
+Cu El vreau să rămân
+De-a pururea !:/
+
+[s2]
+El pentru mine, printre suspine
+Cununi de spini El a suferit;
+/:Cu El sunt mântuit,
+Cu El sunt fericit
+Cu El vreau să rămân
+De-a pururea !:/
+
+[s3]
+Din grea pierzare, din răni amare,
+Prin a Lui moarte, m-a mântuit !
+/:Cu El sunt mântuit,
+Cu El sunt fericit
+Cu El vreau să rămân
+De-a pururea !:/
+
+[s4]
+/:A Lui iubire, întreaga-mi fire
+În fericire El mi-a schimbat.
+Cu El sunt mântuit,
+Cu El sunt fericit
+Cu El vreau să rămân
+De-a pururea !:/
+
+[s5]
+Şi la răbdare, cu ascultare
+Să trec prin toate, El m-a-nvăţat!
+/:Cu El sunt mântuit,
+Cu El sunt fericit
+Cu El vreau să rămân
+De-a pururea !:/
+
+[order]
+s1,s2,s3,s4,s5

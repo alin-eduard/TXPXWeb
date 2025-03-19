@@ -1,0 +1,35 @@
+[s1]
+1641.                      Si m
+1.Dă-mi Duhul Tău,
+În stropi de ploaie lină!
+Să pot gusta alinul Tău,
+/: Să pot cuprinde
+Ţărmul de lumină,
+Să pot iubi pe Dumnezeu. :/
+
+[s2]
+2.Dă-mi Duhul Tău,
+În stropi de ploaie dulce!
+Să pot gusta dulceaţa ta,
+/: Să pot cuprinde
+Jertfa de pe cruce,
+Când voi păşi în ţara Ta. :/
+
+[s3]
+3.Dă-mi Duhul Tău,
+În picuruş de rouă!
+Să pot clipi sub raza Ta,
+/: Să te cuprind
+Cu mâinile-amândouă,
+Să fii al meu pe veci aş vrea! :/
+
+[s4]
+4.Dă-mi Duhul Tău,
+Să mă călăuzească!
+Să fiu condus prin harul Tău
+/: Pe drumul sfânt
+Spre casa Ta cerească,
+Să pot vedea pe Dumnezeu. :/
+
+[order]
+s1,s2,s3,s4

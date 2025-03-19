@@ -1,0 +1,48 @@
+[s1]
+Mult doresc s-ajung acasa
+Sus in cerul minunat
+Unde sfintii ingerii canta
+Si al meu mire e-mparat
+
+[r1]
+/: In tara mea sus in tara mea Aleluia
+In tara mea sus in tara mea :/
+
+[s2]
+Sa pasesc pe strazi de aur
+Si sa-I cant neincetat
+Sa-L sclavesc pe Domnul Isus
+Caci El m-a rascumparat
+
+[s3]
+Sa gust din pomul vietii
+Ce rodeste ne-ncetat
+Sa-L slavesc pe Domnul Isus
+Caci El m-a rascumparat
+
+[s4]
+O cat mi-I de dor de Domnul
+Cu EL vreau a ma-ntalni
+Lui i-as spune tot secretul
+Acolo m-oi odihni
+
+[s5]
+Voi vedea acolo-n ceruri
+Ce nu-I aici pe pamant
+Frumuseti ce nu se poate
+Spune aici nici un cuvant
+
+[s6]
+Ma lupt ca sa ajung acolo
+Domnul Isus ma ajuta
+Pana voi ajunge acasa
+Colo sus in tara mea
+
+[s7]
+O ce mult ma voi bucura
+Cand de-aicea voi pleca
+Uita-voi orice durere
+Cand acolo voi intra
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1

@@ -1,0 +1,31 @@
+[s1]
+1847
+1.Iată Mirele apare, să ieșiți spre-ntâmpinare
+/:Cu candela voastră plină, Mirele are sa  									vină
+Pregatiți-vă fecioare cu lumină:/
+Cor: Mirele-a venit și le-a întâlnit, pe acele cinci, le-a  										răpit
+/:În al său palat, El le-a ridicat, iar la urmă ușa sa- 									ncuiat.:/
+
+[s2]
+2.Cinci fecioare înțelepte, au știu cum să-l aștepte
+/:Vegheatoare mulțumite, pentru nunta pregătite
+Înțeleptele fecioare, vegheatoare.:/
+Cor: Mirele-a venit și le-a întâlnit, pe acele cinci, le-a răpit
+/:În al său palat, El le-a ridicat, iar la urmă ușa sa-ncuiat.:/
+
+[s3]
+3.Iar la ușa încuiată, au venit atunci să bată
+/:Celelalte în zadar, însă nu mai este har
+Cele cinci nechibzuite, adormite:/
+Cor: Mirele-a venit și le-a întâlnit, pe acele cinci, le-a răpit
+/:În al său palat, El le-a ridicat, iar la urmă ușa sa-ncuiat.:/
+
+[s4]
+4.Iat-așa va fi atunci, răsunând prin văi și munți
+/:Glasul minunat de Sus, vine Mirele Isus
+Să ieșiți spre-ntâmpinare voi fecioare:/
+Cor: Mirele-a venit și le-a întâlnit, pe acele cinci, le-a răpit
+/:În al său palat, El le-a ridicat, iar la urmă ușa sa-ncuiat.:/
+
+[order]
+s1,s2,s3,s4

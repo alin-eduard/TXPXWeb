@@ -1,0 +1,32 @@
+[r1]
+Şi dacă lucruri care pier
+Ne farmecă nespus
+Dar cum va fi acolo-n cer
+În ţara Lui Isus.
+
+[s1]
+Frumoasă-i roua pe ogor
+Cînd zorii s-au întins
+Cînd macii prind în cupa lor
+Văpăi de cer aprins.
+
+[s2]
+Frumos e nufărul pe lac
+Sub cerul înstelat
+Când mii de stele semne-i fac
+Şi doarme legănat.
+
+[s3]
+Frumos e crinul înflorit
+Privind în jur stingher
+În strai de nea din cer sosit
+În strai de nea din cer.
+
+[s4]
+Frumos e codrul de stejar
+Cînd păsări trec în zbor
+Cînd cerbii vin cu pasul rar
+La apa de izvor.
+
+[order]
+r1,s1,r1,s2,r1,s3,r1,s4,r1

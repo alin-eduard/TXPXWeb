@@ -1,0 +1,39 @@
+[s1]
+Isus e al meu păstor
+E al meu Conducător
+Mă ţine cu mâna Sa
+Lui I-am dat viaţa mea
+Sol M
+
+[r1]
+Isuse, eu Te măresc
+Isuse, eu Te servesc
+Ţie m-am dat cu corpul
+Să fiu al Tău cu totul
+
+[s2]
+Isuse, sângele Tău
+A spălat păcatul meu
+Când pe Golgota ai stat
+Sus pe cruce atârnat
+
+[s3]
+Isuse iubirea Ta
+A cuprins inima mea
+Mă face-a mă bucura
+Şi-n veci a Te lăuda.
+
+[s4]
+Isuse Sfânt Duhul Tău
+Eu îl simt în pieptul meu
+Lucrând spre mărirea Ta
+Făcându-ţi plăcerea Ta.
+
+[s5]
+Aleluia, Te măresc
+Aleluia, Te slăvesc
+Sub puterea Ta eu stau
+Ţie-n veci eu mă predau
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

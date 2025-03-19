@@ -1,0 +1,34 @@
+[s1]
+Vezi, în nori El vine iară
+Cel pe cruce răstignit,
+Îngeri mii Îl înconjoară
+Judecata a sosit!
+Aleluia, vine-mpărăţia Sa,
+Aleluia, vine-mpărăţia Sa!
+
+[s2]
+Orice ochi Îl recunoaşte
+Pe Hristos Cel înviat,
+Bucuria-n toţi renaşte,
+Cerul tot va fi curat!
+Aleluia, vine-mpărăţia Sa,
+Aleluia, vine-mpărăţia Sa!
+
+[s3]
+Cer, pământ, se înspăimântă,
+Tremurând sub trâmbiţări!
+Toţi duşmanii-n faţa-I sfântă
+Se topesc în remuşcări!
+Aleluia, vine-mpărăţia Sa,
+Aleluia, vine-mpărăţia Sa!
+
+[s4]
+Slavă, cinste şi-nchinare
+Ţie, Miel nebiruit!
+Tresăltaţi, pământ şi mare,
+Izbăvirea a sosit!
+Aleluia, vine-mpărăţia Sa,
+Aleluia, vine-mpărăţia Sa!
+
+[order]
+s1,s2,s3,s4

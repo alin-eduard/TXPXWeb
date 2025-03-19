@@ -1,0 +1,34 @@
+[s1]
+1.Frumos e câmpul verde
+De ierburi şi de flori
+/:Ce strălucire noi zărim
+În multele culori.:/
+53.                                                         Fa
+
+[s2]
+2. Pădurea înverzită
+Şi râul cristalin
+/:Un cânt frumos
+ridic spre cer
+Părintelui divin:/
+
+[s3]
+3. Văzduhul plin de păsări
+Răsună ne-ncetat
+/:Albina şi furnica, vezi,
+Ce mult au de lucrat.:/
+
+[s4]
+4. Frumoasă e natura
+Pe care Dumnezeu
+/:Măreţ în fiecare an
+O-mbracă tot mereu.:/
+
+[s5]
+5. Ce-i mai frumos ca toate,
+Ce poate fi de preţ?
+/:Decât să fii al Domnului
+Nimic nu-i mai măreţ.:/
+
+[order]
+s1,s2,s3,s4,s5

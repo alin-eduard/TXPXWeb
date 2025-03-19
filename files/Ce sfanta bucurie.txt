@@ -1,0 +1,36 @@
+[s1]
+Ce sfântă bucurie,
+Ce har măreţ de sus
+Să aflu alinare
+la pieptul lui Isus!
+Ce dulce azi mă cheamă
+Al meu Mântuitor:
+„Vino să­ţi dau odihnă,
+Să­ţi fiu Ocrotitor!“
+
+[r1]
+Ce sfântă bucurie,
+Ce har măreţ de sus
+Să aflu alinare la pieptul lui Isus!
+
+[s2]
+La pieptul Lui dispare
+Tot ce e pământesc,
+De amăgirea lumii
+Braţele­I mă păzesc.
+Lanţul robiei cade,
+Frică nu voi avea,
+Chiar lacrimi de mi­ar curge,
+Pe loc vor înceta.
+
+[s3]
+Tu, a vieţii Stâncă,
+Moartea ai biruit,
+Eu mă încred în Tine
+Şi sunt preafericit.
+Noaptea curând va trece,
+Zorii se vor ivi;
+Ziua măririi Tale veşnic va străluci.
+
+[order]
+s1,r1,s2,r1,s3,r1

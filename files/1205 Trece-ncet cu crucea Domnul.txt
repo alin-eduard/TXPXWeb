@@ -1,0 +1,51 @@
+[s1]
+Trece-ncet cu crucea Domnul
+Către Golgota se suie
+Iar în palme şi-n picioare
+Fărdelegea-i bate cuie
+Cor:	(Un) Chin amar
+El a răbdat
+(Dar) Pentru-al nostru greu păcat
+Dar prin chinul ce-a suferit
+Da El pe toţi ne-a mântuit.
+1205.
+1.
+
+[s2]
+Trece Domnul şi  suspină
+Şi se roagă pentru tine
+Să nu pieri în fărădelege
+Să te-apropie de Tine
+2.
+Cor:	(Un) Chin amar
+El a răbdat
+(Dar) Pentru-al nostru greu păcat
+Dar prin chinul ce-a suferit
+Da El pe toţi ne-a mântuit.
+
+[s3]
+Dacă vrei ca mântuire
+Suflete să ai vreodată
+Către Golgota cu Domnul
+Suie calea-nsângerată
+3.
+Cor:	(Un) Chin amar
+El a răbdat
+(Dar) Pentru-al nostru greu păcat
+Dar prin chinul ce-a suferit
+Da El pe toţi ne-a mântuit.
+
+[s4]
+Suie şi sub cruce-n lacrimi
+Plângi păcatul tău şi-l lasă
+Numai sângele Său spală
+Viaţa ta cea păcătoasă.
+4.
+Cor:	(Un) Chin amar
+El a răbdat
+(Dar) Pentru-al nostru greu păcat
+Dar prin chinul ce-a suferit
+Da El pe toţi ne-a mântuit.
+
+[order]
+s1,s2,s3,s4

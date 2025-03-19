@@ -1,0 +1,63 @@
+[s1]
+1947                Mi m
+1. Spuneți tuturor să știe
+Spuneți la surori și frați
+Căci în Numele lui Isus
+Pot să fie vindecați.
+
+[r1]
+Cor: Numele Lui Numele Lui
+Numele Lui e minunat
+Prin Isus Dumnezeu
+De la moarte ne-a salvat.
+
+[s2]
+2. Spuneți tuturor să știe
+Și la cei nefericiți
+Căci în numele lui Isus
+Pot să fie mântuiți.
+
+[s3]
+3. Spuneți tuturor să știe
+Și la mame cu copii
+Căci în Numele lui Isus
+Răsplătire vor primi.
+
+[s4]
+4. Spuneți tuturor să știe
+Și la frați şi la surori
+Căci în Numele lui Isus
+Vor ieși biruitori.
+
+[s5]
+5. Spuneți tuturor să știe
+Și la cei ce plâng mereu
+Căci în Numele lui Isus
+Îi ascultă Dumnezeu.
+
+[s6]
+6. Spuneți tuturor să știe
+Și la cei ce sunt smeriți
+Căci în Numele lui Isus
+Ei de Tatăl sunt iubiți.
+
+[s7]
+7. Spuneți tuturor să știe
+Și la cei ce-s prigoniți
+Căci în Numele lui Isus
+Sus în cer sunt răsplătiți.
+
+[s8]
+8. Spuneți tuturor să știe
+Și la cei cuprinși de dor
+Căci în Numele lui Isus
+Vor zbura mai sus de nori.
+
+[s9]
+9. Spuneţi tuturor să ştie
+Că Isus e neschimbat
+El  e Acelaşi pe vecie
+Fie in veci glorificat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1,s8,r1,s9,r1

@@ -1,0 +1,25 @@
+[s1]
+Asteptarea nu e lungă,
+Domnul va apărea,
+Roagă-te si ascultă,
+Fii gata spre a-l întâmpina.
+
+[r1]
+/: Priviti spre ceruri, Domnul vine,
+Esti pregătit să pleci si tu
+Spre zările senine. :/
+
+[s2]
+Sunt multe greutăti pe cale
+Si multe obstacole apar,
+Asteaptă izbăvirea,
+Domnul vine iar.
+
+[s3]
+E zbucium pe marea furtunoasă,
+Catargul este frânt,
+Mai luptă si mai speră,
+Nu te da bătut.
+
+[order]
+s1,r1,s2,r1,s3,r1

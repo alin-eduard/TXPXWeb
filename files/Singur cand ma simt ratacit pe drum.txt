@@ -1,0 +1,18 @@
+[r1]
+/: Doamne, candelă pe calea mea
+E Cuvântul Tău mereu :/
+
+[s1]
+Singur când mă simt, rătăcit pe drum
+Eşti alături de mine
+Teamă de nimic nu îmi e atunci
+Când mă aflu lângă Tine.
+
+[s2]
+Eu nu voi uita cum dragostea Ta
+Pentru mine-ai arătat-o
+Călăuza mea eşti totdeauna
+Teama Tu mi-ai alungat-o.
+
+[order]
+r1,s1,r1,s2,r1

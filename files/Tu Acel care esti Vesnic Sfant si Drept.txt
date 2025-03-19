@@ -1,0 +1,36 @@
+[s1]
+Tu Acel care esti Vesnic, Sfant si Drept
+In fata Ta azi vin, aplecat,smerit
+Pe genunchi cait, inalt ruga mea
+Si-n suspin azi Te chem, o, nu Te departa
+Pleaca-Ti urechea sa imi asculti
+A lacrimilor soapte.
+
+[s2]
+Asa cum sunt la Tine vin
+Primeste-mi ruga Tata
+Iarta-mi multele-mi greseli
+Nu ma pedepsi-n mania Ta,
+Da-mi din Duh sfinte noi puteri,
+Ca sa pot invinge-n incercari!
+
+[s3]
+Asculta Doamne ruga,
+Raspunde-mi cand Te chem
+Arata-Ti indurarea,
+Sub povara grea cand gem.
+Nu ma lasa de-ocara vrajmasului hain
+In Tine-I biruinta si Viata o, Miel divin
+
+[s4]
+Cand simti-voi Mana Ta intinsa,
+Rugaciunii mele-afland raspuns,
+Ca torentul inspumat din munte,
+Ce-n sivoi nestavilit e dus
+Tot asa in piept imi clocoti-va
+Lauda multumirii-n grai nespus!
+/:Si-n vibrand de melodii dau slava
+Caci din toate numai Tu ma scapi Isus:/
+
+[order]
+s1,s2,s3,s4

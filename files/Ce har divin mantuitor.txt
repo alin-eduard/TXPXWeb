@@ -1,0 +1,26 @@
+[s1]
+Ce har divin, mântuitor
+Primit-am prin Isus;
+O, caută­L, suflet călător
+Mereu, cu dor nespus!
+
+[s2]
+Smerit citeşte­al Său Cuvânt
+Cu dor de­a şti mai mult
+Căci Dumnezeu prin Duhul Sfânt
+Lumină­Ţi dă şi­avânt.
+
+[s3]
+Cuvântul Său e­adevărat,
+Ce a promis e sfânt;
+În el, Isus e arătat
+Ca Miel neprihănit.
+
+[s4]
+El a murit, a înviat
+Şi S­a-nălţat la cer;
+De­acolo­mparte daruri mari
+Acelor ce Îi cer.
+
+[order]
+s1,s2,s3,s4

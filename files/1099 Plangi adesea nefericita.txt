@@ -1,0 +1,55 @@
+[s1]
+Plângi ades nefericită
+Ai zis că eşti părăsită
+Porumbiţa mea
+Domnul astăzi îţi vorbeşte
+Şi la îngeri, te numeşte
+Biserica mea
+Ţine, ţine ce-ai primit întâi
+Şi păstrează până voi veni
+Ţine, ţine mărturia Mea
+Până voi veni şi Te-oi lua
+1.
+1099.
+
+[s2]
+Îţi ştiu lupta pe cărare
+Eşti lovită şi te doare
+Porumbiţa mea
+Pe cărarea-lunecoasă
+Ce cruce grea te apasă
+Biserica mea
+Luptă, luptă că n-am să te las
+Biruieşte-n luptă pas cu pas
+Luptă, luptă cu al meu cuvânt
+Că-ţi dau ajutor prin Duhul Sfânt
+2.
+
+[s3]
+Tot ce vezi aici sclipire
+Sunt o cursă pentru tine
+Porumbiţa mea
+Lăsaţi poverile toate
+Ca să zbori în miez de noapte
+Biserica mea
+Lasă, lasă ce-i al lumii jos
+Să poţi duce crucea bucuros
+Lasă, lasă ce-i a lumii aici
+Ca să poţi la cer să te ridici.
+3.
+
+[s4]
+Ştiu c-ai puţină putere
+Eşti lovită de durere
+Porumbiţa mea
+Că vrăjmaşul dă târcoale
+Şi sunt vremi de strâmtorare
+Biserica mea
+Ţine, ţine adevărul meu
+Şi te-oi păzi în ceasul greu
+Ţine, ţine mărturia mea
+Până voi veni şi te-oi lua.
+4.
+
+[order]
+s1,s2,s3,s4

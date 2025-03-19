@@ -1,0 +1,20 @@
+[s1]
+Am fost iertat de Dumnezeu
+Şi sunt acum născut din nou!
+Ferice sunt şi-aş tot striga,
+Să afle toţi iubirea Sa!
+
+[s2]
+Eu fără plată am primit
+Iubirea ce m-a mântuit,
+Şi fără preţ eu duc oricui
+Speranţă scumpă-a cerului.
+
+[s3]
+Isus, al meu Prieten sfânt,
+E tot ce am pe-acest pământ!
+O spun acum cât nu-i târziu:
+Isus e-n cer, Isus e viu!
+
+[order]
+s1,s2,s3

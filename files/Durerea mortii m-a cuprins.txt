@@ -1,0 +1,25 @@
+[s1]
+Durerea morţii m-a cuprins,
+În faţa Lui am plâns.
+Venind Isus m-a vindecat
+Si nu m-a lepădat.
+
+[r1]
+/: Eu nu sânt lepădat. :/
+Venind Isus m-a vindicat,
+EI nu m-a lepădat!
+
+[s2]
+Ca Iacov noaptea eu am stat
+În rugă m-am luptat;
+Dau laudă Lui că m-a primit
+Şi-acum sânt mântuit.
+
+[s3]
+Azi cânt de bucurie Lui
+Căci El m-a vindicate.
+I am să-I cânt şi-n ceruri sus;
+Căci nu sânt lepădat!
+
+[order]
+s1,r1,s2,r1,s3,r1

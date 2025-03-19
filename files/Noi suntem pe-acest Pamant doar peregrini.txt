@@ -1,0 +1,29 @@
+[s1]
+Noi suntem pe-acest Pământ
+doar peregrini
+Şi mergem spre muntele Sion
+Şi-n inimi avem un dor
+s-ajungem în Sion.
+De-i greu uneori, noi nu dăm înapoi
+Domnul Isus ne-aşteaptă-n Sion
+Nimic nu ne va opri s-ajungem în Sion.
+
+[r1]
+/: Să-L vedem pe Domnul Isus
+Şi-o cântare nouă să Îi cântăm !
+În drumul nostru spre muntele Sion
+Culegem toţi flori pentru Isus
+Cele mai frumoase flori
+Să-I ducem lui Isus. :/
+
+[s2]
+Isus a murit ca noi azi să trăim
+Prin harul Său să-L slăvim
+Nimic cu ne va opri,
+şi-n veci Îl vom mări.
+El a înviat şi la cer S-a-nălţat
+Lăsându-ne pe Duhul Său cel Sfânt
+Şi într-o zi va veni să ne ia cu El sus.
+
+[order]
+s1,r1,s2,r1

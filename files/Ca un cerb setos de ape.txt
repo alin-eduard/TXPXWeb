@@ -1,0 +1,30 @@
+[s1]
+Ca un cerb setos de ape,
+După Tine eu suspin
+Vreau  să-Ţi  fiu tot mai  aproape, Ţie, Doamne, să mă-nchin.
+
+[r1]
+Scutul meu, tăria mea,
+Doar Ţie Doamne-Ţi voi cânta,
+Tu mi-eşti singura dorinţă Tu îmi saturi inima.
+
+[s2]
+Mai de preţ decât argintul
+Sau ca aurul curat
+Mi-este să-Ţi aud cuvântul,
+Care m-a eliberat.
+
+[s3]
+Scutul meu, tăria mea,
+Doar Ţie Doamne-Ţi voi cânta,
+Tu mi-eşti singura dorinţă Tu îmi
+saturi inima.
+
+[s4]
+Mi-eşti Prieten şi mi-eşti
+Frate Împărat şi Dumnezeu;
+Te iubesc mai mult ca toate
+Şi Te voi iubi mereu.
+
+[order]
+s1,r1,s2,s3,s4,r1

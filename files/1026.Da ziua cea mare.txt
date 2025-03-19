@@ -1,0 +1,47 @@
+[s1]
+Cor:
+Da ziua cea mare
+Groaznică va fi
+Când toate popoarele
+Vor sta la judecată
+1026.								Re
+
+[s2]
+1.Părinţi de copii
+S-or despărţi
+Pe vecii vecilor.
+
+[r1]
+Cor:
+Da ziua cea mare
+Groaznică va fi
+Când toate popoarele
+Vor sta la judecată
+
+[s3]
+2.Soţi de soţii
+S-or despărţi
+Pe vecii vecilor.
+
+[s4]
+3.Fraţi de surori
+S-or despărţi
+Pe vecii vecilor.
+
+[s5]
+4.Neamuri de neamuri
+S-or despărţi
+Pe vecii vecilor.
+
+[s6]
+5.Păstori de turme
+S-or despărţi
+Pe vecii vecilor.
+
+[s7]
+6.Ce-ai semănat
+Vei secera
+Pe vecii vecilor.
+
+[order]
+s1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1

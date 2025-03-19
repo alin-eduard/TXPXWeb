@@ -1,0 +1,38 @@
+[s1]
+Şi frunzele s-au veştejit,
+Căci iată toamna a venit.
+An după an, se duc în zbor,
+Toate se trec în viitor.
+
+[s2]
+Şi tu eşti o floare să ştii
+Oricine în lume ai fi,
+Odată în praf şi pământ
+Cădea-vei ca frunza în vânt.
+
+[s3]
+Priveşte-n urmă anii grei
+Cum au trecut ca şi un vis,
+Erai copil, copiii tăi
+E tot ce viaţa ţi-a promis.
+
+[s4]
+Şi tu eşti o floare pe lac
+Ce apele mari o desfac,
+Petalele tale se frâng
+În urma rămân cei ce plâng
+
+[s5]
+Deci nu uita, şi dacă vrei
+Tu iarăşi poţi să înfloreşti,
+În veşnicii sunt fraţii tăi,
+Depinde cum te pregăteşti.
+
+[s6]
+Un lucru aş vrea ca să ştii,
+Acolo în raiul ceresc
+Acolo sunt apele vii
+Şi florile nu veştejesc.
+
+[order]
+s1,s2,s3,s4,s5,s6

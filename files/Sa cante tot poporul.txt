@@ -1,0 +1,22 @@
+[s1]
+Sa cante tot poporul / Amin, Aleluia
+El e Mantuitorul / Amin, Aleluia.
+/: Aleluia, Amin, Aleluia :/  4x
+
+[s2]
+Isus este iubirea / Amin, Aleluia
+El este mantuirea / Amin, Aleluia.
+/: Aleluia, Amin, Aleluia :/  4x
+
+[s3]
+Isus este iertare / Amin, Aleluia
+El este vindecare / Amin, Aleluia.
+/: Aleluia, Amin, Aleluia :/  4x
+
+[s4]
+Curand vine rapirea / Amin, Aleluia
+Ne vine izbavirea / Amin, Aleluia.
+/: Aleluia, Amin, Aleluia :/  4x
+
+[order]
+s1,s2,s3,s4

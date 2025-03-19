@@ -1,0 +1,58 @@
+[s1]
+1
+Din strălucire jos ai venit
+Şi cu iubire m-ai mântuit
+Am oare dreptul, nepăsător
+Să stau Isuse, l-al Tău izvor?
+
+[s2]
+2
+Chiar lumea-ntreagă de m-ar chema
+Pe tine Doamne nu te-aş lăsa;
+Eşti fericirea şi dorul meu
+Eşti Doamne, totul, şi eu al Tău!
+
+[s3]
+3
+Izbit de valuri şi părăsit
+Când n-am pe nimeni şi sunt urât.
+În grea durere, eu harul Tău,
+Doresc Isuse, să-l simt mereu.
+
+[s4]
+4
+Chiar lumea-ntreagă de m-ar chema
+Pe tine Doamne nu te-aş lăsa;
+Eşti fericirea şi dorul meu
+Eşti Doamne, totul, şi eu al Tău!
+
+[s5]
+5
+De urc în viaţă, sau de cobor,
+Merg în lumină, sau trec prin nor,
+Te simt aproape şi-s fericit,
+Căci de Tine sunt călăuzit.
+
+[s6]
+6
+Chiar lumea-ntreagă de m-ar chema
+Pe tine Doamne nu te-aş lăsa;
+Eşti fericirea şi dorul meu
+Eşti Doamne, totul, şi eu al Tău!
+
+[s7]
+7
+Şi dacă viaţa-mi va oferi,
+În lume multe, chiar bogăţii
+În fericire nu voi uita
+Că Ţi-ai dat viaţa pe Golgota.
+
+[s8]
+8
+Chiar lumea-ntreagă de m-ar chema
+Pe tine Doamne nu te-aş lăsa;
+Eşti fericirea şi dorul meu
+Eşti Doamne, totul, şi eu al Tău!
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

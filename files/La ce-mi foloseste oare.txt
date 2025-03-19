@@ -1,0 +1,32 @@
+[s1]
+La ce-mi foloseste oare,
+Viata asta trecătoare,
+/: Dacă mi-o petrec în rău,
+Departe de Dumnezeu :/
+
+[s2]
+La ce-mi foloseste mie,
+Să am mare bogatie,
+/: Câtă vreme eu trăiesc,
+Făr’ de Fiul Cel ceresc :/
+
+[s3]
+La ce-mi foloseste frate,
+Să am bani, să am de toate,
+/: Când nimic nu voi lua,
+Din lume când voi pleca :/
+
+[s4]
+De-as avea toată stiinta,
+Dar de-mi va lipsi credinta,
+/: In zadar m-am ostenit
+Si nimic n-am folosit :/
+
+[s5]
+Dar eu stiu că toate’s bune,
+Atunci când prin rugăciune,
+/: Mă apropii tot mereu,
+De Prea Bunul Dumnezeu :/ :/
+
+[order]
+s1,s2,s3,s4,s5

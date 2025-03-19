@@ -1,0 +1,43 @@
+[s1]
+1347.       Do m
+1. O putere nemaipomenită
+O purtăm în vasele de lut
+E puterea cea făgăduită
+Care inimile le-a umplut.
+Cor: /: În vasele de lut purtăm comoara:/
+/: Iubirea de la început
+Ne-a inundat şi ne-a umplut
+În vasele de lut purtăm comoara:/
+
+[s2]
+2. O putere nemaipomenită
+Care la Rusalii a venit
+La acei cu inima smerită
+Care-n rugăciune-au stăruit.
+Cor:  /: În vasele de lut purtăm comoara:/
+/: Iubirea de la început
+Ne-a inundat şi ne-a umplut
+În vasele de lut purtăm comoara:/
+
+[s3]
+3. O putere nemaipomenită
+Care dă şi har şi  vindecări
+Care-alungă duhul de ispită
+Şi ne dă dumnezeieşti puteri.
+Cor:  /: În vasele de lut purtăm comoara:/
+/: Iubirea de la început
+Ne-a inundat şi ne-a umplut
+În vasele de lut purtăm comoara:/
+
+[s4]
+4. Prin puterile neprihănirii
+Noi vestim cuvântul minunat
+Pentru mântuirea omenirii
+Aşa cum Isus ne-a învăţat.
+Cor:  /: În vasele de lut purtăm comoara:/
+/: Iubirea de la început
+Ne-a inundat şi ne-a umplut
+În vasele de lut purtăm comoara:/
+
+[order]
+s1,s2,s3,s4

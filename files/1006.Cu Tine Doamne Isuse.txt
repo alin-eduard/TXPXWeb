@@ -1,0 +1,50 @@
+[s1]
+1.Cu Tine Doamne Isuse
+Străbat drumul mereu
+Şi merg cu bucurie,
+Chiar când urcuşu-i greu
+Cu Tine cânt cântarea
+Ce-n inimă mi-ai pus
+Şi strig de bucurie
+Căci m-ai salvat Isus.
+1006        							Re m
+
+[r1]
+/: Când eu rătăceam,
+Pace nu găseam
+Eram singur pe lume străin
+Dar când m-ai găsit,
+Pacea Ta am primit
+Şi har din haru-Ţi divin :/.
+
+[s2]
+2.Cu Tine viaţa-i dulce,
+Chiar de mereu amar
+În Tine-i fericire
+Chiar lacrimi dac-apar
+Cu Tine-i zi senina,
+Chiar dacă-i înnorat
+Cu Tine-i fericire,
+Chiar când sunt întristat.
+
+[s3]
+3.Tot ce-am găsit în Tine
+Lumea nu-mi poate da
+Căci veşnica viaţă
+E doar în mâna Ta
+Cu raza-Ţi de iubire,
+Ţine-mă tot mereu
+Şi-n toate-Ţi voi da slavă
+Căci Tu-mi eşti Dumnezeu.
+
+[s4]
+/: Eşti Regele iubirii
+Şi Prinţul fericirii
+Eşti tot ce se cuprinde
+În Univers
+Eşti marele Împărat
+Un Meşter minunat
+Mă-nchin şi-Ţi mulţumesc. :/
+
+[order]
+s1,r1,s2,r1,s3,s4

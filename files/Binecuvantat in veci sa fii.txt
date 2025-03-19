@@ -1,0 +1,46 @@
+[s1]
+Binecuvântat în veci să fii
+Doamne stânca mea.
+Binefăcătorul meu
+în încercarea cea mai grea.
+
+[s2]
+/: Scutul meu de adăpost numai
+Tu Doamne mi-ai fost.
+De aceea-Ţi voi cânta
+Doamne cetăţuia mea. :/
+
+[s3]
+Tu asupra mea veghezi
+şi îmi ştii umblarea mea.
+Zi de zi mă cercetezi
+şi îmi cunoşti inima.
+
+[s4]
+Binecuvântat să fii
+stânca mea din veşnicii.
+Soare fără de apus fii
+lăudat în veci Isus.
+Să fii-n veci glorificat
+Domnul meu cel minunat.
+Soare blând şi luminos
+fii slăvit Isus Hristos.
+
+[s5]
+Gura mea te va lăuda
+cât viaţă voi avea.
+Tu izbăvitorul meu sfânt
+şi mare Dumnezeu.
+
+[s6]
+Înaintea Ta mă-nchin
+Salvatorul meu divin.
+Pentru toate Te slăvesc
+Te măresc şi-Ţi mulţumesc.
+Lăudaţi-L şi cântaţi
+voi fii ai Sionului,
+Şi cu dragoste lucraţi
+azi în via Domnului.
+
+[order]
+s1,s2,s3,s4,s5,s6

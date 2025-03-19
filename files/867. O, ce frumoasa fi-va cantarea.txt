@@ -1,0 +1,28 @@
+[s1]
+867.
+1. O, ce frumoasă fi-va cântarea
+Când ne vom întâlni
+Când răsuna-vor cerul şi zarea
+De-a noastre melodii.
+
+[r1]
+Cor:
+O, ce frumos va răsuna
+Şi ce duios noi vom cânta
+O, ce frumoase melodii
+Noi vom cânta ca îngerii!
+
+[s2]
+2. Fără de număr, în sărbătoare
+Cu ramuri de finic
+Noi vom cânta o nouă cântare
+Cu îngerii din cer.
+
+[s3]
+3.Când vom vedea pe Domnul iubirii
+În toată slava Sa
+În dimineaţa reîntâlnirii
+Noi toţii vom cânta.
+
+[order]
+s1,r1,s2,r1,s3,r1

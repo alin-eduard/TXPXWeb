@@ -1,0 +1,35 @@
+[s1]
+1
+Eu cred în religia cea veche,
+Ce Domnul ISUS a înfiinţat,
+Care, în timpurile trecute,
+Apostolii o au predicat.
+Şi astăzi, tot acela-I Hristos.
+El în nimic nu s-a schimbat.
+Puterea Lui se-arată glorios,
+În cei ce-L ascultă ne-ncetat.
+
+[s2]
+2
+Această credinţă a fost bună
+Pentru apostoli şi credincioşi.
+A lor îndemnare, azi ne sună.
+Să credem şi să nu fim fricoşi!
+Şi astăzi, tot acela-I Hristos.
+El în nimic nu s-a schimbat.
+Puterea Lui se-arată glorios,
+În cei ce-L ascultă ne-ncetat.
+
+[s3]
+3
+Planul Domnului ne-a fost arătat
+Şi în Scriptură descoperit.
+Pentru el, Hristos S-a crucificat
+Şi, strigând, a zis că “S-a sfârşit”.
+Şi astăzi, tot acela-I Hristos.
+El în nimic nu s-a schimbat.
+Puterea Lui se-arată glorios,
+În cei ce-L ascultă ne-ncetat.
+
+[order]
+s1,s2,s3

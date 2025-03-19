@@ -1,0 +1,35 @@
+[s1]
+Poate-ţi este greu
+să crezi că Domnu-i bun
+Poate te-ndoieşti de mărturia
+ce ţi-o spun.
+Însă pentru mine e al meu Isus
+Mă cuprinde-n braţul Său,
+şi-mi este de ajuns.
+
+[s2]
+Niciodată El nu m-a lăsat singur
+Fiecare pas e-n mîna Lui,
+şi chiar de-ar fi să cad pe drum
+Domnul meu în dragostea-I m-a-nfăşurat
+Pot să simt prezenţa Lui, acum şi pururea
+
+[s3]
+Chiar amicii mei
+mă părăsesc pe rand
+Ei nu pot să-mi şteargă lacrima
+din ochi cand plang.
+Dar Isus îmi ia povara mea cea grea
+El îmi şterge lacrima
+din ochi cu mîna Sa.
+
+[s4]
+Niciodată El nu m-a lăsat singur
+Fiecare pas e-n mîna Lui,
+şi chiar de-ar fi să cad pe drum
+El m-a ridica spre cer, la Dumnezeu
+Căci în mîna Lui eu m-am predat
+copil al Său !
+
+[order]
+s1,s2,s3,s4

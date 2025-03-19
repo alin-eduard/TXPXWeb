@@ -1,0 +1,26 @@
+[s1]
+Cuvânt dumnezeiesc
+În trup descoperit
+Prin Tine doar eu vieţuiesc,
+Tu mă faci fericit.
+
+[s2]
+Comoară sfântă mi-eşti,
+Fi-mi şi luminător
+Spre ţara fiinţelor cereşti
+Fi-mi bun conducător.
+
+[s3]
+O, scump Mângâietor,
+Condu-mă chiar acum
+La Mielul blând ispăşitor,
+Păstorul meu cel bun.
+
+[s4]
+În Tine m-oglindesc
+Mântuitor iubit,
+Pe Tine astăzi eu clădesc
+Căci Tu m-ai mântuit.
+
+[order]
+s1,s2,s3,s4

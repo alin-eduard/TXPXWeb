@@ -1,0 +1,38 @@
+[s1]
+Slavă-Ţi cântăm, Isuse, Domn Slăvit
+Şi ne-nchinăm căci Tu ne-ai mântuit
+Har dupa Har, din Tine noi primim
+Pe-al Tău altar dorim să ne jertfim.
+
+[r1]
+/: Slavă-Ţi cântăm
+Şi-n ierni şi-n primăveri
+Slavă-Ţi cântăm
+Căci tu ne dai putere
+Slavă-Ţi cântăm
+Şi-n plâns şi-n bucurii
+Slavă-Ţi cântăm
+Şi-acum şi-n veşnicii :/
+
+[s2]
+Slavă-Ţi cântăm
+Când drumul nu-i uşor
+Vrem să zburdăm
+Cu vântul, mai cu spor
+Rod mai bogat
+Sa creştem pe pământ
+Şi-un mers curat
+S-avem spre Ţărmul Sfant.
+
+[s3]
+Slavă-Ţi cântăm
+Isuse-n orice vremi
+Şi te aşteptăm cu dor
+Ca să ne chemi
+Ca-n Slava Ta
+În veci Tu să ne duci
+Unde-om cânta
+Fără dureri şi plâns.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,32 @@
+[s1]
+Vezi cum se roagă Isus pentru mine?
+El multă mă iubeşte, deşi-s păcătos,
+Şi ruga-I ascultă cerescul Părinte.
+O, vino, dar, şi te închină voios!
+
+[r1]
+Mă rog pentru tine,
+mă rog pentru tine,
+Mă rog pentru tine,
+mă rog ne-ncetat!
+
+[s2]
+Pacea Lui sfântă îmi dă bucurie;
+De ea altădată nimic nu ştiam.
+Iar Cel ce în dar pacea Sa îmi dă mie.
+Şi ţie-ţi oferă al păcii balsam.
+
+[s3]
+Domnul, Părintele meu, nu mă lasă
+Cuvântu-ndurării Lui stă neclintit
+Curând voi intra în cetatea cerească
+O, vino cu mine şi fii fericit!
+
+[s4]
+Eşti mântuit, deci slăveşte-L pe Domnul
+Şi spune că El e al tău Salvator,
+Te roagă fierbinte oricând şi-n tot locul,
+El sigur aude-al tău glas rugător.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

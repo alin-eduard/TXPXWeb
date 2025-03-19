@@ -1,0 +1,18 @@
+[s1]
+Isus e Domn, El e Domn
+El e Domnul vieţii noastre,
+El e Domn.
+Toţi să-L preamărim,
+Să-L mărturisim,
+Căci Isus este Domn.
+
+[s2]
+El e Domn, El e Domn
+El e Domnul vieţii noastre,
+El e Domn.
+Toţi să-L preamărim ,
+Să-l mărturisim
+Căci Isus este Domn.
+
+[order]
+s1,s2

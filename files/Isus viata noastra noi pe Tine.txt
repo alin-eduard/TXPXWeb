@@ -1,0 +1,36 @@
+[s1]
+Isus, viaţa noastră,
+Noi pe Tine te mărim,
+Căci, prin jertfirea Ta pe cruce
+Noi voioşi trăim.
+Ne-ai dat în dar iertarea
+Pentru vina ce-o purtăm
+De-acea Îţi cântăm: Aleluia!
+
+[r1]
+Glorii, Glorii, Aleluia! X3
+Părintelui Ceresc.
+
+[s2]
+Din clipa când în viaţa noastră Pacea a intrat
+Cântăm într-una Mielului
+Ce ne-a rascumpărat,
+A Lui să fie slava
+Ce în veci va triumfa
+Acum şi pururi: Aleluia!
+
+[s3]
+Isuse, când din nou
+În slavă Te vei arăta
+Acei ce-au biruit
+Prin jertfa Ta s-or bucura.
+Înconjuraţi de slavă,
+Noi mereu Îţi vom cânta:
+Acum și pururi, Aleluia!
+
+[s4]
+Glorie, Glorie, Aleluia! X3
+Părintelui Ceresc.
+
+[order]
+s1,r1,s2,r1,s3,s4

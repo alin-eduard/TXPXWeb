@@ -1,0 +1,26 @@
+[s1]
+Sunt călător pe-acest pământ
+Călătoresc spre Locul Sfânt,
+Unde Tatăl mă aşteaptă
+Prin văi şi munţii, eu străbat.
+De la ţintă nu m-abat
+Merg pe calea dreaptă,
+Las în urmă tot ce-i rău
+Ţinta mea e Dumnezeu,
+Mă-ndrept spre Hristos
+Şi-n orice zi voi privi
+Spre cerul luminos.
+
+[s2]
+/: Acolo nu vor fi dureri,
+Nu vor fi-ncercări în cer
+Va fi doar pace, bucurie,
+eternă veselie, cu El
+Acolo nu va fi tristeţe
+Nu va fi bătrâneţe-n Paradis
+Va fi doar sfântă sărbătoare
+De-a pururea cântare,
+splendori de nedescris ! :/
+
+[order]
+s1,s2

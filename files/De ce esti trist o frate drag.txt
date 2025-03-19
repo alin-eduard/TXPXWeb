@@ -1,0 +1,26 @@
+[s1]
+De ce eşti trist, o, frate drag?
+Priveşte la Isus!
+Nu vezi ce dar prin El îţi dă
+Părintele de sus?
+
+[r1]
+Astăzi tu eşti mântuit
+Şi viaţă veşnică­ai primit,
+Cu drag dă slavă lui Hristos,
+Trăieşte pentru Domnul bucuros!
+
+[s2]
+În jertfa lui Isus
+Tu ai scăpare de păcat
+Prin care păcii veşnice
+Îi eşti părtaş bogat.
+
+[s3]
+Putere­ţi dă prin Duhul Său
+Să­L poţi mărturisi,
+Ce binecuvântare e
+În slujba Lui să fii!
+
+[order]
+s1,r1,s2,r1,s3,r1

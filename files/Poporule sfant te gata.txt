@@ -1,0 +1,19 @@
+[s1]
+Poporule sfânt, te gată
+Vezi că Domnul te aşteaptă
+Mirele de mult e gata
+Îmbrăcat să te-afle
+
+[r1]
+/: Mare-a fi ziua-ceea :/
+Vino, Doamne, vino iute
+Pe noi ne răpeşte.
+
+[s2]
+Popor sfânt, nu te odihni
+Curând Domnul va reveni
+Paşii Lui s-aud pe cale
+Să-I cântăm mărire
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,59 @@
+[s1]
+1.Biserică, Biserică
+Fii sfântă şi curată
+Să ştii că
+Nu mai este mult
+Şi Mirele se-arată!
+1224    							          Fa # m
+
+[s2]
+2.Rugaţi-vă neîncetat
+Mai e puţin din noapte
+Mereu fiţi plini
+De Duhul Sfânt
+Isus e-atât de-aproape
+
+[s3]
+3.Să nu-ntristaţi
+Pe Duhul Sfânt!
+Păstraţi-vă arvuna!
+Că Tatăl v-a pecetluit,
+Ca să primiţi cununa.
+
+[s4]
+4.Fiţi treji, întruna
+Să vegheaţi!
+Duşmanul dă târcoale,
+Dar duhul lumii nu lăsaţi
+Să intre-n adunare
+
+[s5]
+5.Chiar dacă-aveţi
+De suferit,
+Vă bucuraţi întruna!
+Răbdaţi orice pentru Hristos!
+Doar El vă dă cununa.
+
+[s6]
+6.Vă bucuraţi,
+Vă îndreptaţi!
+Mereu în sus privirea!
+Iar, dacă cerul e-nourat,
+Ne vine izbăvirea!
+
+[s7]
+7.Curând, curând
+Noi vom pleca
+Şi vom ajunge-acasă.
+Să fim în ceruri pentru El
+A Mirelui mireasă.
+
+[s8]
+8.Şi vom pleca
+De pe pământ
+Ca porumbeii-n zare
+Să fim în slavă, cu Isus
+La marea sărbătoare.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

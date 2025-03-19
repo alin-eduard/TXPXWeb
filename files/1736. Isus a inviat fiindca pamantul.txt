@@ -1,0 +1,49 @@
+[s1]
+1. Isus a înviat fiindcă pământul
+Nu-l poate ţine căci El l-a creat
+/:Cât de frumos răsună
+Azi cuvântul
+Ce îl rostim Hristos a înviat:/
+1736.
+
+[r1]
+Cor:	/:A înviat:/
+Isus Hristos cu-adevărat
+/:A înviat:/
+Isus Hristos ce minunat
+
+[s2]
+2. Isus a înviat ca să ne deie
+Viaţă şi iertare de păcat
+/:El ţine-al morţii
+Şi a vieţii cheie
+Cel Sfânt cu-adevărat a înviat:/
+
+[s3]
+3. În lume sunt mulţi
+Ce cred că Domnul
+El moare şi învie an de an
+/:El a-nviat e viu în totdeauna
+E Domn în veci de veci
+E suveran:/
+
+[s4]
+4. Chiar dacă unii spun
+Doar de la gură
+Noi credem c-a-nviat
+Cu-adevărat
+/:Şi spunem să audă
+Toată lumea
+Trăiască-n veci
+Isus cel minunat:/
+
+[s5]
+5. Isus ne iartă astăzi din iubire
+Noi credem
+C-anviat cu-adevărat
+/:Închei dorindu-vă
+Doar mântuire
+Şi spun la toţi Hristos a înviat:/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

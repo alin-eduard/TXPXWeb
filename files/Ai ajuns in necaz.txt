@@ -1,0 +1,38 @@
+[s1]
+Ai ajuns în necaz,
+În nevoi strâmtorat
+Ostenit şi pribeag alungat
+De Isus nu ştiai,
+C-a murit răstignit
+Pentru min’ pentru tin’ S-a jertfit
+
+[r1]
+Azi te cheamă Isus,
+Să te-ntorci din păcat
+Fericit ca să fii şi salvat
+De necaz vei scăpa,
+Strâmtorat nu vei fi
+Din belşug
+Vei avea bucurii
+
+[s2]
+Te luptai tot mereu,
+Alergând de cu zor
+Firea s-o mulţumeşti
+Tot cu spor
+Isus te cheamă azi
+Cu glasul sau iubitor
+Domnul Sfânt
+E al tău Salvator
+
+[s3]
+De te-ntorci din Egipt,
+Pornind spre Canaan
+De Isus vei fi dus la un han
+Untdelemn va turna
+Peste răni sângerând
+Domnul nost’
+S-a jertfit pe Calvar
+
+[order]
+s1,r1,s2,r1,s3,r1

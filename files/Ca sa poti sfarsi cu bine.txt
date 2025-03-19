@@ -1,0 +1,32 @@
+[s1]
+Ca să poţi sfârşi cu bine
+A credinţei alergare,
+Ţi se cere, pân' la capăt:
+Stăruinţa şi răbdare.
+
+[s2]
+Ca să porţi izbândă-n luptă
+Adevărului cel Mare,
+Să-ţi aduni, în suflet, zilnic:
+Stăruinţa şi răbdare!
+
+[s3]
+Ca să nu te copleşească
+Vremurile de-ncercare,
+Întăreşte-te-n credinţă,
+Stăruinţă şi răbdare.
+
+[r1]
+Când îţi simţi, pe-al vieţii umăr,
+Crucea mai apăsătoare,
+Cere-I Domnului să-ţi dea
+Stăruinta şi răbdare!
+
+[s4]
+Dacă dragostea şi mila-ţi
+Trec prin încercări amare,
+Nu uita: atunci se cere
+Stăruinţa şi răbdare.
+
+[order]
+s1,s2,s3,r1,s4,r1

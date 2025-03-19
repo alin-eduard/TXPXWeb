@@ -1,0 +1,34 @@
+[s1]
+Ce mare şi sfânt, minunat şi slăvit
+E Domnul Isus, bun Păstor!
+El m­a ocrotit printre stânci de granit,
+M-a pus lângă­al vieţii izvor.
+
+[r1]
+El m­a ocrotit printre stânci de granit
+De­asupra uscatelor văi,
+Cu mâna Lui tare mereu m­a umbrit
+Pe urmele paşilor Săi,
+Pe urmele paşilor Săi.
+
+[s2]
+Ce bun Salvator, minunat şi slăvit
+Povara mea El a purtat;
+El m­a ridicat şi voi sta neclintit
+Pe culmea iubirii salvat.
+
+[s3]
+Cu ce îndurare-­ncunună pe sfinţi,
+Le dă plinătate de har;
+Ei cântă-n extazul iubirii fierbinţi
+Iertarea primită în dar.
+
+[s4]
+Şi-­n slavă­-mbrăcat
+Când mă voi ridica
+Să ies înainte pe nori,
+Salvarea măreaţă şi­-atunci voi cânta
+În glorie de mii de ori.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

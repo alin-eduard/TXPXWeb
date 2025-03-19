@@ -1,0 +1,54 @@
+[s1]
+1390.
+1.  Căci aşa vorbeşte Domnul la poporul său
+Care azi cu multe lacrimi îl cheamă mereu
+Vin’ să te scap din durere şi orice suspin
+Să te duc în casa mea noul Ierusalim.
+
+[s2]
+2.  O ce clipă fericită tu vei întâlni
+Când pe nori în haine albe la Mine-ai veni
+O cântare îţi voi pune în gura ta
+Pe care nimeni n-a cântat-o de
+Când e lumea.
+3.  Vor rămâne în uimire toţi în jurul tău
+Când mă voi arăta-n slavă la poporul meu
+Şi voi zice vin acasă prea iubita mea
+Tu cea scumpă şi aleasă dintre gloata mea.
+
+[s3]
+4. Căci în chinurile amare şi în orice greu
+Şi în arşiţa de soare mi-ai slujit mereu
+Mi-ai fost crendicioasă-n toate
+Câte eu ţi-am spus
+Vino să-ţi primeşti răsplata va zice Isus.
+5. Cântece de biruinţă vor cânta mereu
+Corurile fără număr pe pământul nou
+Toţi uniţi într-o cântare veţi sluji mereu
+Pe acel ce se numeşte veşnic Dumnezeu.
+
+[s4]
+Mare jale va cuprinde întregul pământ
+Când te va vedea pe tine
+Către cer zburând
+Căci atunci se-mplineşte tot  ce eu am zis
+Mă răzbun fără de milă aşa cum e scris.
+7.  Cei ce azi nesocotesc când eu le vorbesc
+Pe Duhul Sfânt îl hulesc şi-l tăgăduiesc
+Se vor duce-n groapa mare
+La cei din mormânt
+Să se ascundă dinaintea Celui ce e Sfânt.
+
+[s5]
+8.  Însă  Eu fără de milă le voi zice atunci
+Duceţi-vă în osândă unde-s grele munci
+Pregătit a fost înainte de a fi lumea
+Lui satana şi acelor ce-l vor asculta.
+9.  Însă tu te-nveseleşte poporaş iubit
+Cel ce aicea în puţine mie mi-ai slujit
+Nu vei mai simţi dureri nici
+Lacrimi nici chin
+Vei fi pururi cu  Mine până-n veci amin.
+
+[order]
+s1,s2,s3,s4,s5

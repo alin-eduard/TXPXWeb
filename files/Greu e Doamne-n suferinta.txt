@@ -1,0 +1,51 @@
+[s1]
+Greu e Doamne-n suferinţă
+Greu e Doamne în cuptor
+Eu Te rog să-mi dai credinţă
+Ca să pot ieşi din toate-nvingător.
+Fa m
+
+[r1]
+/: Arde focul încercării
+Vai ce tare şi puternic s-a aprins
+O părinte al îndurării
+Fie-Ţi milă şi de mine o, Isus. :/
+
+[s2]
+N-am pe nimenea sub soare
+Sunt străin şi nu am sprijin nicăieri
+Doamne nu mă da uitării
+Căci la cine să alerg cu al meu chin.
+
+[s3]
+Sunt lovit de ai mei prieteni
+Cei pe care eu atâta îi iubesc
+Văd că nu mai am pe nimeni
+Sunt străin în lume astăzi şi oftez.
+
+[s4]
+Ziua plâng nu aflu pace
+Orişicât alerg degeaba n-o găsesc
+Doamne nu ştiu ce voi face
+Căci în grele încercări eu mă găsesc.
+
+[s5]
+Nu ştiu dacă-n zidărie
+Va fi piatră sau e fân
+Văd că focul arde tare
+Şi mi-i frică că-n picioare nu rămân
+
+[s6]
+Fă să fim aur o, Doamne
+Curăţit de şapte ori în cuptor
+Dă-mi credinţă, dă-mi răbdare
+Ca să pot ieşi din toate învingător.
+
+[s7]
+Fă să fie oţelită
+Temelia pe care am zidit
+Peste-aceste pietre scumpe
+Fă să fie zidărie de granit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1

@@ -1,0 +1,40 @@
+[s1]
+O zi frumoasă şi fericită
+Pentru voi Domnu-a pregătit
+Să fiţi acuma împreuna
+L-altarul celui veşnic Sfânt
+O zi frumoasă şi fericită
+Pentru voi doi ce vă uniţi
+Când pasul astăzi vă porneşte
+Pe-un drum de voi necunoscut
+
+[r1]
+/: Numai Domnul Isus poate
+Luntrea vieţii să v-o poarte
+Spre limanul cel dorit
+El să rămână în toate
+Domn stăpân şi să vă poarte
+Până-n patria de sus. :/
+
+[s2]
+Rămâne-n urmă tinereţea
+Cu-aşa de multe amintiri
+Dar dacă veţi sta lângă Domnul
+Cu El avea-veti bucurii
+De astăzi mergeţi împreună
+Un drum cu flori noi vă dorim
+Un drum numai de biruinţă
+E tot ce-n viaţă vă dorim
+
+[s3]
+Uneşte-i Doamne chiar acuma
+E ruga care o ‘nălţăm
+Si-uniţi de Tine să rămână
+Pe veci o, Doamne te rugăm
+Rămâi cu ei în a lor barcă
+Condu-i spre patria de sus
+Si fii cu ei pe veci o, Doamne
+Până când vor ajunge sus
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,10 @@
+[s1]
+/: Isus, eu te iubesc :/ (3x)
+Eu Te iubesc, Doamne
+/: Tată, eu te iubesc :/ (3x)
+Eu Te iubesc, Doamne
+/: Duh Sfânt, eu te iubesc :/ (3x)
+Eu Te iubesc, Doamne
+
+[order]
+s1

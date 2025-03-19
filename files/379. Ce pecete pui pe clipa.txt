@@ -1,0 +1,45 @@
+[s1]
+1. Ce pecete pui pe clipa
+Care trece făr’ a-ntoarce
+Cursul vieţii tale slabe
+Ce adună şi ce toarce
+379								     Mi m
+
+[s2]
+/:Adevărul sau minciuna,
+Ura sau iubirea sfântă,
+Una dintre cele două,
+Inima ta ţi-o frământă:/.
+
+[r1]
+Cor:
+/:Cercetează-te:/
+Cercetează-te şi-ndreaptă-ţi
+Viaţa până nu-i târziu.:/
+
+[s3]
+2. Nu lăsa-ntâmplarea oarbă,
+Viaţa ta să ţi-o doboare
+Căci nimic din ce-i în lume
+Nu-i venit la întâmplare
+
+[s4]
+/:Pune nepăsării tale,
+Frâul cugetării drepte
+Şi priveşte prin credinţă,
+Adevărul cu-a lui trepte.:/
+
+[s5]
+3. Vei descoperi lumina
+Dumnezeului Cel veşnic
+Care te-a zidit dintr-însul
+Ca să fii în lume sfeşnic
+
+[s6]
+/:El, Preasfântu-ţi dă putere
+Să-mplineşti a Sa menire
+Şi trecând acum prin vreme
+Să ajungi la nemurire:/.
+
+[order]
+s1,s2,r1,s3,s4,r1,s5,s6,r1

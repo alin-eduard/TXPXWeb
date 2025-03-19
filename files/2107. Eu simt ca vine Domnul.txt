@@ -1,0 +1,43 @@
+[s1]
+2107
+1. Eu simt că vine Domnul
+Curând ca să ne ia
+Şi mult aici în lume
+Noi fraţi nu vom mai sta
+Nimic nu vă mai lege
+De lutul blestemat
+Eu simt că vine Domnul
+Popor răscumpărat.
+
+[r1]
+Cor: Spre seară, la noapte
+Sau mâine-n zori de zi
+Se-aude strigarea:
+“Veniţi ai mei copii!”
+Eu simt că vine Domnul
+Voi oare nu simţiţi
+Că vine răpirea
+O fraţii mei iubiţi?
+
+[s2]
+2. Eu simt că vine Domnul
+Şi-s bucuros mereu
+Mă duc curând acasă
+În cer la Tatăl meu.
+Nimic nu am în lume
+Decât ai mei iubiţi
+Şi sper Isus de Tine
+Să fim cu toţi răpiţi.
+
+[s3]
+3. Nu mai goniţi spre vale
+Să căutaţi comori
+Vă spun: "căutaţi pe Domnul!“
+Ce stă mai sus de nori."
+Eu simt că vine Domnul
+Şi vreau să îmi păstrez
+Curată a mea haină
+Cu El să mă întâlnesc.
+
+[order]
+s1,r1,s2,r1,s3,r1

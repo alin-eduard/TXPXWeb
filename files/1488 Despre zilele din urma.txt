@@ -1,0 +1,44 @@
+[s1]
+1488.
+1.   Despre zilele din urmă
+Doamne ne-ai vorbit
+Toate profeţiile ţi s-au adeverit
+/: S-a-mplinit :/ ceea ce ai prevestit
+Vremurile de sfârşit iată c-au venit
+
+[s2]
+2. Azi mai fă o cercetare
+Doamne prin popor
+E atâta dezbinare şi atâţia dorm
+/: Te-au uitat :/ cu lumea s-au încurcat
+Legământul l-au călcat
+Lumea i-antinat
+
+[s3]
+3.   Sunt atâtea oi rănite
+Şi atâtea ce mor
+Rătăcite risipite fără de păstor
+/ : Vino iar :/ cu putere la altar
+Lasă ploaia cea de har
+Miel de pe calvar
+
+[s4]
+4. Mulţi din cei ce-n a Ta casă
+De mici au crescut
+Sunt de parcă niciodată
+Nu te-au cunoscut
+/: Au uitat :/ că Tu i-ai răscumpărat
+Sus pe cruce atârnat
+Miel nevinovat.
+
+[s5]
+5.  Deşteptaţi-vă fecioare
+În ultimul ceas
+Timpul trece-n grabă mare
+Mult n-a mai rămas
+/: Sus străjerii :/ vestiţi peste mări şi ţări
+Se aud paşi în depărtări
+Isus vine-n zări.
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,48 @@
+[s1]
+925                                                                              Mi
+1.  Mamă, ştii tu oare datoria ta
+Ştii tu oare cât de sfântă
+Este dar şi grea
+Ştii tu oare ce aşteaptă
+Dumnezeu să fii
+Pentru El şi pentru lume
+Şi ai tăi copii.
+
+[r1]
+/: Mamă, mamă :/
+Mamă nu-ţi uita datoria ta
+Nu-ţi uita răspunsul greu
+Către Dumnezeu.
+
+[s2]
+2.	Mamă nu-ţi uita pe fiul
+Care-l ai la piept
+Poţi să creşti ori un nemernic
+Ori un suflet drept
+Poţi să creşti din el un înger
+Ori un ticălos
+Pentru aceasta vei răspunde-n
+Faţa lui Hristos.
+
+[s3]
+3.	Mamă tremură 'naintea
+Marelui răspuns
+Mamă pentru ochiul veşnic
+Nu-i nimic ascuns
+Mamă roagă-te şi plânge
+Trage cât mai greu
+Ca să creşti copiii
+Numai lângă Dumnezeu.
+
+[s4]
+4. Mamă mântuirea ta
+E naşterea de fii
+Dar de-or fi curaţi şi veşnic
+Pentru cer să ştii
+Căci de viitorul lor
+Tu răspunzi mai greu
+Mamă nu-ţi uita răspunsul
+Către Dumnezeu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

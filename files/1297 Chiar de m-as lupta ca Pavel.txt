@@ -1,0 +1,46 @@
+[s1]
+1297.
+Chiar de m-aş lupta ca Pavel
+În temniţă când era
+Era greu lanţul pe mână
+Dar pe Domnul lăuda
+Era greu legat în lanţuri
+Şi butucii erau grei
+Nu-i păsa de a lui viaţă
+Ci-l lăuda pe Dumnezeu
+1.
+2.
+
+[s2]
+Într-un timp la miezul nopţii
+O cântare a cântat
+Lanţurile şi butucii
+De pe el jos au picat
+Astăzi Domnul cel ce şade
+Pe scaunul de domnie
+Sfarmă pietre rupe lanţuri
+Scapă oameni din robie
+3.
+4.
+
+[s3]
+Mulţi martiri de-ai noştri Doamne
+Varsă lacrimi pe obraz
+Aşteptând ziua întâlnirii
+Cu tine în Canaan
+Vezi copii de-ai noştri Doamne
+Azi te-aşteaptă ca să vii
+Vino scapă-i din necazuri
+Du-i cu Tine în veşnicii
+5.
+6.
+
+[s4]
+Iar prin valurile grele
+Să nu-şi piardă credinţa
+Vino Tu Isuse dragă
+Să le dai biruinţa.
+7.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,33 @@
+[s1]
+Cine ţi-a spus că tu poţi exista
+Fără să fi fost la locul numit Calvar?
+Şi cine ţi-a spus căci cu păcatul tău
+Poţi sta la poarta Lui şi El te va lăsa?
+
+[r1]
+Vino la Isus şi vezi
+La cruce este un Izvor !
+Vino la Isus şi El
+Te va face curat !
+Vino la Isus şi vezi -  Te-a curăţit !
+
+[s2]
+Şi cine ţi-a spus că Isus a murit
+Fără să-ţi spună că El a-nviat ?
+Înviat, strălucitor, El domneşte !
+Înviat, strălucitor, Domnul e viu !
+
+[s3]
+Cine ţi-a spus că tu poţi şti calea
+Dar nu trebuie s-o petreci în viaţa ta?
+Şi cine ţi-a spus că El nu-i nevăzut
+Cînd putem şi ce vrem şi ce simţim?
+
+[s4]
+Şi cine ţi-a spus că Isus a murit
+Fără să-ţi spună că El va reveni ?
+Înviat, strălucitor, El domneşte !
+Înviat, strălucitor, Domnul e viu !
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

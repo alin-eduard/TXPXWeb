@@ -1,0 +1,53 @@
+[s1]
+1769.
+1. Pentru toate Doamne
+Vreau să-Ţi mulţumesc
+Pentru zorii zilei care-i întâlnesc
+/:Pentru roua strânsă-n
+Tainice potire
+Jos sub candelabrul
+Plin de strălucire:/
+
+[s2]
+2. Pentru toate Doamne
+Simt că-Ţi sunt dator
+Pentru apa rece scoasă din izvor
+/:Pentru răsăritul veşnicului soare
+Pentru fiecare rază sclipitoare:/
+
+[s3]
+3. Pentru toate Doamne
+Vreau să-Ţi mulţumesc
+Pentru spice pline
+Care-n lanuri cresc
+/:Pentru bogăţia roadelor din vie
+Şi pentru finicul tainic din pustie:/
+
+[s4]
+4. Pentru toate-acestea
+Doamne sunt dator
+Dar mai sunt
+În suflet recunoscător
+/:Bucuria sfântă,
+Roada din credinţă
+Pentru care Doamne-Ţi
+Dau recunoştinţă:/
+
+[s5]
+5. Pentru îndurarea fără de hotar
+Pentru revărsarea ploilor de har
+/:Pentru desluşirea tainelor divine
+Mulţumiri, primeşte
+Doamne de la mine:/
+
+[s6]
+6. Iar în dimineaţa sfintei sărbători
+Când pe plaiuri sfinte
+Voi gusta comori
+/:Şi atuncea Doamne
+Plin de bucurie
+Prima mulţumire
+Ţi-oi aduce eu Ţie:/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,19 @@
+[s1]
+1666
+1. Doamne Tu-ai iubit copiii,
+Şi la Tine i-ai chemat
+Te rugăm ca lângă Tine
+Să ne ţii ne-ncetat.
+2. Fă să te iubim Isuse
+Şi deplin să te-a ascultăm
+Pe-a credinţei sfântă cale
+De micuţi noi să umblăm.
+
+[s2]
+3. Să-ţi cântăm şi noi cântarea,
+Cât pricepem şi cât ştim
+Cu iubirea noastră toată
+Doamne-n veci te preamărim.
+
+[order]
+s1,s2

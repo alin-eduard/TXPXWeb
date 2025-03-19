@@ -1,0 +1,30 @@
+[s1]
+1
+O, Doamne-aşterne slava Ta
+În Templul vieţii mele,
+Şi mistuie tot ce e rău
+Şi iartă-mi păcatele grele.
+
+[s2]
+2
+Curat si sfânt, smerit si blând
+Să umblu pe-a Ta Cale,
+Şi-n umilinţă eu să port
+Povara slavei Tale.
+
+[s3]
+3
+Când Domnul Sfânt trăieşte-n noi
+Ce bucurie-adâncă,
+Şi ce minune-n cort de lut
+Eternul să pătrundă.
+
+[s4]
+4
+Şi cum aş vrea, Stăpâne drag
+Să ai în al meu suflet
+Un Templu scump, împodobit
+Cu lacrimi şi laude sfinte.
+
+[order]
+s1,s2,s3,s4

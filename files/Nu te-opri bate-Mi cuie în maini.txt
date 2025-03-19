@@ -1,0 +1,38 @@
+[s1]
+Nu te-opri, bate-Mi cuie în mâini
+Crezând că-i bine asa.
+Fă ce vrei, dar nu uita
+Într-o zi vei regreta.
+
+[s2]
+Eu voi învia
+Nimeni nu mă va putea lega !
+Da, voi învia
+Moartea nu mă va ţinea !
+
+[s3]
+Nu te-opri, bate-ţi joc
+Eu te iubesc ne-ncetat.
+Fă ce vrei, dar curând
+Eu voi fi eliberat.
+
+[s4]
+Şi voi învia
+Nimeni nu mă va putea lega !
+Da, voi învia
+Moartea nu mă va ţinea !
+
+[s5]
+Fă ce vrei, dar îi acum
+Tu vei vedea că ai gresit.
+Nu te-opri, esti liber azi
+Să faci ce vrei, dar nu uita
+
+[s6]
+Că voi reveni
+Nu-i putere să mă poată-opri !
+Da, voi reveni
+Şi poporu-Mi voi răpi !
+
+[order]
+s1,s2,s3,s4,s5,s6

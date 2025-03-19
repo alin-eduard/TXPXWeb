@@ -1,0 +1,27 @@
+[s1]
+2185
+1. Sus la Golgota pe o cruce
+Domnul meu Isus se stinge
+/: Ochii Lui blânzi lăcrimează
+În durere însetează :/
+
+[s2]
+2. Pentru vina mea El moare
+Colo-n arșița de soare
+/: Pentru lumea cu păcate
+Domnul meu e dat la moarte :/
+
+[s3]
+3. Aș zbura de-aș fi în stare
+Sus pe munte la izvoare
+/: Și din munte să-I dau apă
+Să-I știu setea astâmpărată :/
+
+[s4]
+4. S-a sfârșit a Lui durere
+Cine crede-n El nu piere
+/: Cine crede și-L primește
+Sufletul și-l mântuiește :/
+
+[order]
+s1,s2,s3,s4

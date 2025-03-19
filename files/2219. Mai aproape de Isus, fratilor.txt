@@ -1,0 +1,31 @@
+[s1]
+2219
+1. Mai aproape de Isus, fraţilor
+Vă gândiţi la ce e sus, fraţilor
+/: Mai aproape şi mai sfinţi
+Domnului să-i fim plăcuţi
+Să rămânem cu Isus, fraţilor :/.
+
+[s2]
+2. Şi să nu ne amăgim, fraţilor
+Ce-i lumesc să nu iubim, fraţilor
+/: Pân’ la moarte vă păstraţi
+Plini de Duhul Sfânt curaţi
+Şi de lume ne-ntinaţi, fraţilor :/.
+
+[s3]
+3.Iar din dragostea dintâi, fraţilor
+Să rămâneţi flăcări vii, fraţilor
+/: Celui rău vă-mpotriviţi
+Şi rămâneţi neclintiţi
+În credinţă biruiţi, fraţilor :/.
+
+[s4]
+4. În curând vom fi răpiţi, fraţilor
+De aceia vă sfinţiţi, fraţilor
+/: În Isus vă bucuraţi
+Nici un pas `napoi nu daţi
+Și iubiţi-vă ca fraţi, fraţilor :/.
+
+[order]
+s1,s2,s3,s4

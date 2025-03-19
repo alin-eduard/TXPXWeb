@@ -1,0 +1,39 @@
+[s1]
+O, Galileea, colţ de cânt,
+De soare în zenit,
+Din tine, peste Neamuri, blând,
+Lumina s-a ivit.
+De Tine-adesea când aud
+Vorbind şi chiar cântând,
+Slăvesc mereu pe Domnul meu
+Şi-I mulţumesc şi-I cânt.
+
+[r1]
+Isus, Tu, Soare minunat,
+Ai răsărit strălucitor!
+Osânda morţii de păcat
+Ai risipit-o; Tu ne-ai dat
+Iertarea, harul salvator.
+
+[s2]
+Din tine-n lume i-a trimis
+Isus pe ucenici
+Şi a ajuns la noi, ne'nvins,
+Andrei la daci şi sciţi.
+Isuse, Tu ai luminat
+În valea morţii reci;
+Din Galileea Te-ai 'nălţat
+Nemuritor în veci.
+
+[s3]
+O, Galileea, colţ de cânt,
+De-atâtea amintiri:
+Minuni şi, uneori, furtuni,
+Vestire şi iubiri.
+O, Galileea, colţ de cânt
+De soare în zenit
+Din tine, peste Neamuri, blând,
+Lumina s-a ivit.
+
+[order]
+s1,r1,s2,r1,s3,r1

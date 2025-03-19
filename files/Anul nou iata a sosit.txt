@@ -1,0 +1,29 @@
+[s1]
+Anul nou iată a sosit
+Eu vă zic la toții bun venit
+Deci cu toți vrem să îi cântăm
+Și pe Tatăl Sfânt să-l lăudăm.
+
+[r1]
+Lui Isus Să-i dăm Mărire
+Să-i cântăm cu mulțumire
+Căci ne-a dat a Lui Iubire
+Lui Isus Să-i dăm Mărire
+Pentru sfânta mântuire
+Pentru întâlnirea-n Glorie.
+
+[s2]
+Anii au trecut si trec mereu
+Și viața noastră ca și ei
+Prin furtună si prin valul greu
+Ne-a vegheat
+Din Ceruri Dumnezeu.
+
+[s3]
+Haideți fraților uniți acum
+S-alergăm smeriți pe sfântul drum
+Untdelemn în candelă să avem
+Și în pocăință să veghem.
+
+[order]
+s1,r1,s2,r1,s3,r1

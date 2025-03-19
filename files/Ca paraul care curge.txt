@@ -1,0 +1,26 @@
+[s1]
+Ca pârâul care curge,
+Curge tot mereu
+/: Este-n viaţa mea Isuse,
+Harul Tău. :/
+
+[r1]
+Harul Tău îmi redă speranţă-n calea mea
+Harul Tău îmi înseninează viaţa mea
+Când sunt trist, îmi alină iarăşi inima
+Focul Tău îmi aprinde-n suflet dragostea.
+
+[s2]
+Ca o pasăre ce zboară
+Spre înalt mereu
+/: Înspre Tine-n veci mă cheamă,
+Harul Tău. :/
+
+[s3]
+Precum soarele răsare
+Zi de zi mereu
+/: Viaţa mea îmi luminează,
+Harul Tău. :/
+
+[order]
+s1,r1,s2,r1,s3,r1

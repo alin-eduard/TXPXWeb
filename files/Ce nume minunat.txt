@@ -1,0 +1,24 @@
+[s1]
+Ce nume minunat, ce nume minunat,
+Ce nume minunat este Isus!
+El este Domnul meu, a toate Creator,
+Ce nume minunat este Isus!
+El e Păstorul, e Stânca cea tare,
+Atotputernic e!
+Să-I dăm cinstire, slavă, mărire.
+Numele Isus e minunat!
+
+[s2]
+2
+Numele Domnului, numele Domnului
+Numele Domnului, e minunat
+Numele Domnului al salvatorului
+E minunat!
+El e iubirea, e mânturirea
+El e lumina mea!
+Lui mă voi îmchina,intregă viața mea
+Isus e Domnul meu,
+Ce minunat!
+
+[order]
+s1,s2

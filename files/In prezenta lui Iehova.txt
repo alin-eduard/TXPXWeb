@@ -1,0 +1,20 @@
+[s1]
+În prezenţa lui Iehova,
+Domn puternic al păcii
+Primeşte pace, vindecare,
+În prezenţa Domnului.
+
+[s2]
+Doamne, vreau să Te iubesc
+Tot mai mult să Te slujesc
+Pentru Tine să trăiesc
+Doamne, vreau să Te iubesc.
+
+[s3]
+Vreau să Te iubesc mai mult
+Tot mai mult să Te ascult.
+Unde vrei Tu să mă duc
+Vreau să Te iubesc mai mult.
+
+[order]
+s1,s2,s3

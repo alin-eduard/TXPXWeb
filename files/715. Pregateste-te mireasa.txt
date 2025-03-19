@@ -1,0 +1,38 @@
+[s1]
+1. Pregăteşte-te mireasă
+Mirele te aşteaptă acasă
+Să-ţi pună cunună pe cap
+Îmbrăcată-n diamant
+În haina de in curat.
+715.
+
+[s2]
+2. Ce frumoasă bucurie
+Va fi sus la cununie
+Îngerii ne vor cânta
+Osana Aleluia
+Slavă fie lui Mesia.
+
+[s3]
+3. Slavă cinste şi mărire
+Domnului din veşnicie
+Prin care vă bucuraţi
+În limbi străine cântaţi
+Slavă Domnului să-i daţi.
+
+[s4]
+4. Toţi săltaţi de bucurie
+Căci cuvântul asta ne scrie
+Săltaţi toţi prin Duhul Sfânt
+Aici jos pe acest pământ
+Slavă Tatălui cel Sfânt.
+
+[s5]
+5. Aleluia Aleluia
+Aleluia vom cânta
+La bogata masa Sa
+Îngerii ne vor cânta
+Osana Aleluia.
+
+[order]
+s1,s2,s3,s4,s5

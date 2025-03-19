@@ -1,0 +1,32 @@
+[s1]
+Cât va trăi Hristos,
+Cât timp rămân cu El,
+Cântatul meu melodios
+Nu va-nceta defel!
+
+[s2]
+El e al meu Păstor,
+O, cât îmi e de drag!
+Cu hrană-mi vine-n ajutor
+Când sunt flămând, pribeag.
+
+[s3]
+Când vine vremea grea,
+Când toţi mă părăsesc,
+Rămâne El speranţa mea
+În El mă-adăpostesc!
+
+[s4]
+De scapă-al meu picior,
+Necazuri de-ar veni,
+Alerg la-al meu iubit Păstor
+El mă va izbăvi!
+
+[s5]
+De-aceea spre Hristos
+Ţin ochiul meu deschis,
+O, cât îmi e de drăgăstos,
+El mi-este Paradis!
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,60 @@
+[s1]
+Mie-mi place-n cer
+Căci e totul sfînt
+Lîngă Tatăl, Fiul, Duhul Sfînt.
+Mie-mi place-n cer
+Pentru gînd sfinţit
+Ştiu că ce-i rostit e şi gîndit.
+
+[s2]
+Poate vrei şi tu locul glorios
+Poate vrei şi tu slava lui Hristos!
+Vin atunci la cruce, nu mai amîna!
+Jertfa Lui ţi-aduce dreptul de-a intra!
+
+[s3]
+Mie-mi place-n cer
+Căci zăvoare nu-s
+Hoţi şi spărgători fug de Isus.
+Mie-mi place-n cer
+Moarte nu va fi
+Nici un cimitir nu vei găsi.
+
+[s4]
+Poate vrei şi tu sus în cer să fii
+Poate vrei şi tu viaţă în vecii!
+Numai Domnul Isus poate ca să-ţi dea
+Vino azi la Isus, nu mai amîna!
+
+[s5]
+Mie-mi place-n cer
+Căci războaie nu-s
+Crize, boli, dureri pe vecii s-au dus.
+Mie-mi place-n cer
+Pentru cei iubiţi
+Prieteni, fraţi, surori, reîntîlniţi.
+
+[s6]
+Poate vrei şi tu să ţi-i întîlneşti
+Poate vrei şi tu să ţi-i re-primeşti!
+Doar prin pocăinţă,
+doar prin crucea Lui
+Numai prin credinţă, altă cale nu-i
+
+[s7]
+Mie-mi place-n cer locul stătător.
+Totul pe Pămînt este trecător.
+Mie-mi place-n cer, si în El voi fi
+Ştiu că e mai mult decît pot gîndi.
+
+[s8]
+Poate vrei şi tu, gîndul sus ţi-l du!
+Poate vrei şi tu, spune,
+<Da> sau <Nu>?
+Nu-ţi lipi viaţa de acest Pămînt
+Că odată totul vei lăsa plîngînd!
+Bine e în cer, ştiu c-acol, voi fi
+Si cei chemaţi voi întîlni.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

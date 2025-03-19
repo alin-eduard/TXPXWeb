@@ -1,0 +1,25 @@
+[s1]
+Lumina lumii prezenţă divină
+Ajută-mă să-nţeleg
+Cât de frumos ne-ai creat pentru Tine.
+Speranţă ne-ai dăruit.
+
+[r1]
+/: Toată închinarea, toată adorarea
+Tie-ţi dăruiesc o, Domnul meu
+Numai Tu eşti veşnic
+Numai Tu eşti vrednic
+Doamne numai Tu eşti minunat. :/
+
+[s2]
+Rege etern ce domneşti sus în ceruri
+La dreapta lui Dumnezeu.
+În umilinţă venita-i în lume
+Din dragoste Te-ai jertfit.
+
+[s3]
+/: Cum să-nţeleg cât te-a costat
+Să ierţi deplin al meu păcat. :/
+
+[order]
+s1,r1,s2,r1,s3,r1

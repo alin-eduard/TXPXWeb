@@ -1,0 +1,62 @@
+[s1]
+Suflă vântul cel ceresc
+Vântul suflă deşteptare
+Întrebând pe toţi creştinii
+De ce dorm în adunare.
+
+[s2]
+El suflă unde voieşte
+De-l aude orişicine
+Nu ştii însă unde merge
+Şi nu ştii de unde vine.
+
+[s3]
+Vântul suflă-n multe feluri
+Uneori numai adie
+Alte ori ca un fior
+Ca o mare vijelie.
+
+[s4]
+El voieşte să trezească
+Orice suflet păcătos
+Să-i arate calea dreaptă
+Care duce la Hristos.
+
+[s5]
+Pentru aceasta ni se cere
+Să stai gata-n aşteptare
+Ţinând mâinile întinse
+Ca şi barca de pe mare.
+
+[s6]
+Unii se trezesc îndată
+La o mică adiere
+Alţii se deşteaptă numai
+Când suflă mai cu putere.
+
+[s7]
+Azi ferice de aceia
+Care stau în vrednicie
+Şi cu inima curată
+Duhul Sfânt îi tot mângâie.
+
+[s8]
+Vai de acei ce stau împotrivă
+Şi pe drum vreau să se oprească
+Căci ei atunci n-au să scape
+De urgia cea cerească.
+
+[s9]
+O Sfinte Duh al vieţii
+Vin la noi în adunare
+Fii conducătorul nostru
+La corabia de salvare.
+
+[s10]
+Nu lăsa nici unul Doamne
+Ca să doarmă-n adunare
+Să simţească darul sfânt
+Şi a Ta sfântă cercetare.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

@@ -1,0 +1,34 @@
+[s1]
+Domnul este al meu Pastor,
+Eu merg cu El mereu.
+Ma duce la pasuni verzi,
+Eu merg cu El mereu
+Mereu mereu
+Eu merg cu El mereu
+
+[s2]
+Domnul este al meu Pastor
+Eu merg cu El mereu.
+La ape limpezi ma duce,
+Eu merg cu El mereu
+Mereu mereu
+Eu merg cu El mereu
+
+[s3]
+Domnul este al meu pastor
+Eu merg cu El mereu.
+Grija-mi poarta zide zi
+Eu merg cu El mereu.
+Mereu mereu
+Eu merg cu El mereu
+
+[s4]
+Domnul este al meu Pastor,
+Eu merg cu El mereu
+Aici si-acolo-n cerul Sau,
+Eu merg cu El mereu.
+Mereu mereu
+Eu merg cu El mereu
+
+[order]
+s1,s2,s3,s4

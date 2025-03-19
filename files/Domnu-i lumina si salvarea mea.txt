@@ -1,0 +1,10 @@
+[r1]
+Domnu-i lumina şi salvarea mea
+Cum să mă tem, cum să mă tem
+
+[r2]
+/: Domnu-i puterea vieţii mele
+De cine să mă tem :/
+
+[order]
+r1,r2,r1,r2,r1,r2

@@ -1,0 +1,31 @@
+[s1]
+1550.
+1. Vine Domnul meu din ceruri
+Ca Judecător
+Tronul Lui e numai aur
+El vine pe nori!
+
+[s2]
+2. Da El vine în curând
+Vine Domnul meu!
+Fericiţi vom fi atunci
+Lângă tronul Său.
+
+[s3]
+3. De vom fi chiar în ţărână
+Totuşi ne-om scula
+Şi cu ochii noştri atunci
+La El ne-om uita.
+
+[s4]
+4. Marea morţii ei afară  Dintr-o dată va da
+Iar mormântul să vă ţină Nu va mai putea.
+
+[s5]
+5.Plâns, ispite și durere
+Atunci nu va fi
+Se deschide veșnicia
+Pentru-ai Lui copii
+
+[order]
+s1,s2,s3,s4,s5

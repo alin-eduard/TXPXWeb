@@ -1,0 +1,9 @@
+[s1]
+Nu vrei şi tu azi cu mine să mergi?
+Azi este timpul când poţi să alegi
+Poarta cea strâmtă, deschisă e încă
+Isus te mai cheamă şi-acum
+Şi-ţi dă putere să mergi pe al Său drum
+
+[order]
+s1

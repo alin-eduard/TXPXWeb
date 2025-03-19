@@ -1,0 +1,49 @@
+[s1]
+1939
+1. O soartă avut-ai pe lume
+Să știi doar iubit călător
+Și soare și zilele bune
+Și ploi ce-au trecut peste tine
+/: Adu-ți aminte de toate la rând
+Și fă un popas astăzi chiar și nevrând
+Caută și afla-vei abia cât un nor
+Te arăți și tu drag călător :/.
+
+[s2]
+2. E vreme târzie și iată
+Grăbește-te cât mai curând
+Privește un capăt se arată
+Chiar de n-ai voit niciodată
+Ca zori iviți și plata cu El
+Și plata cu El aducând
+/: Toate în viață El ți le-a întocmit
+Toate îți vorbesc cât de mult te-a iubit
+Isus e acel ce te chiamă cu dor
+O vino iubit călător :/.
+
+[s3]
+3. Azi parcă te cheamă să vii
+Ar vrea veșnicia s-o ai
+Chiar dacă stângaci vei păși
+Prin neguri de  vei bâjbâi
+Întreabă de El cât pe-aproape mai stă
+Că vine o vreme și vai
+/: Nici plânsul nici ruga răspuns nor avea
+Și oricât bate-vei nu se va deschidea
+Iar plânsul cu care te cheamă acum
+Întruna te va tot durea :/.
+
+[s4]
+4. Cu soarta ce avut-ai pe lume
+Să știi doar iubit călător
+Că soare și zile mai bune
+Ce veșnic nu vor mai apune
+Și multe și alte și-n veci bucurii
+Sunt numai să vrei a spune
+/: Vino Isuse adu-n viața mea
+Şi fă-o și schimb-o așa cum ai vrea
+Și fă-mă de dragul Tău și eu să să-ți cânt
+O fă-mă cât încă mai sunt :/.
+
+[order]
+s1,s2,s3,s4

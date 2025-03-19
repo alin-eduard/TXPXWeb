@@ -1,0 +1,39 @@
+[s1]
+Dragoste iubire sfanta
+tu m-apropii de Isus
+Tu esti dorul ce m-avanta
+catre Patria de Sus
+Dragoste tu esti comoara
+pretuita de crestini
+Doar avandu-te pe tine
+merg in Rai si-s fericit
+
+[r1]
+/: Dragoste iubire sfanta
+Tu ai fost esti si vei fi
+Toate darurile trec,
+Tu in veci nu vei pieri,
+Nu vei pieri :/
+
+[s2]
+Dragoste comoara rara
+sfant tezaur pretios
+Tu esti usa de intrare
+In staulul lui Hristos.
+Tu esti puntea ce uneste
+Viata cu eternul sfant
+Cine azi te pretuieste,
+Fericit e pe pamant
+
+[s3]
+Dragoste iubire sfanta
+Sa te aiba toti as vrea
+Toti acei ce vor sa intre
+In Imparatia Sa
+Dragoste comoara rara
+Sa te am doresc mereu
+Pana voi ajunge-odata
+Ca sa vad pe Dumnezeu.
+
+[order]
+s1,r1,s2,r1,s3,r1

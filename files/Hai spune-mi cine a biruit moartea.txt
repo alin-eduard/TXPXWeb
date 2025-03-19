@@ -1,0 +1,24 @@
+[s1]
+Hai spune-mi cine a biruit moartea
+Cine-a calcat peste ea,
+Cine e Leul din Iuda
+Scutul taria mea.
+
+[r1]
+/: Aleluia, aleluia, aleluia,
+Isus este Domn. :/
+
+[s2]
+Hai spune cine-ntr-o zi se va-ntoarce
+In fruntea ostirii Lui,
+El va primi inchinarea
+Pamantul si cerul e-al Lui.
+
+[s3]
+Hai spune cine s-a dat pentru mine
+Cine s-a dat pentru noi,
+Cine s-a dat pentru lume
+Glorie doar Regelui.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,32 @@
+[s1]
+Când se lasă umbra serii
+Peste dealuri şi câmpii
+Şi când stelele se-arată
+Luminând în raze vii
+Gândul meu e-atunci la Domnul,
+Depărtat de tot ce-i rău
+Şi înalţ o rugăciune
+Către bunul Dumnezeu.
+
+[s2]
+Depărtat de ale lumii
+Seara Domnului servesc
+Şi simt pace-n al meu suflet
+Când la El mereu gândesc.
+Fericit mă simt atuncea
+Când uitând cele de jos
+Îmi îndrept a mea gândire
+Către Legea lui Hristos.
+
+[s3]
+De când merg pe calea dreaptă e
+După-al Domnului Cuvânt,
+Vesel sunt în al meu suflet,
+Veşnic imnuri vreau să-I cânt.
+Azi nimic nu mă-ntristează,
+Nici duşmanii nu-i urăsc,
+Căci eu nu mai sunt din lume,
+Sunt al Tatălui ceresc.
+
+[order]
+s1,s2,s3

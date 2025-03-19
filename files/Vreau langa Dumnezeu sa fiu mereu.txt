@@ -1,0 +1,50 @@
+[s1]
+Vreau lângă Dumnezeu
+Să fiu mereu,
+Oricât ar fi de greu
+Necazul meu.
+Oricât voi suferi,
+Cântarea mea va fi:
+“Vreau lângă Dumnezeu
+Să fiu mereu!”
+
+[s2]
+Pe-ndepărtate căi
+De-aş înnopta,
+Şi-o piatră căpătâi dac-aş avea,
+Tot fericit aş fi
+Si-n vis aş glăsui:
+“Vreau lângă Dumnezeu
+Să fiu mereu!”
+
+[s3]
+De sunt împovărat
+Cu slăbiciuni
+Şi mult am de luptat
+în rugăciuni,
+Mai mult mă oţelesc
+în harul Lui ceresc
+“Vreau lângă Dumnezeu
+Să fiu mereu!”
+
+[s4]
+Când calea-mi voi sfârşi
+Pe acest pământ
+Şi-n veşnicii voi fi
+Cu Domnul Sfânt,
+Voi fi prea fericit
+Cu-al meu Isus iubit:
+“Vreau lângă Dumnezeu
+Să fiu mereu!”
+
+[s5]
+Viaţa mea o-nchin lui Dumnezeu,
+La EL cu toate vin
+Prin harul Său.
+Aproape vreau să fiu
+de Domnul meu cel viu:
+“Vreau lângă Dumnezeu
+Să fiu mereu!”
+
+[order]
+s1,s2,s3,s4,s5

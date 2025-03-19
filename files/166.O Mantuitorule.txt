@@ -1,0 +1,51 @@
+[s1]
+1. O Mântuitorule
+Adăpostul meu Tu eşti
+Când furtuna vâjâie
+Şi când valurile vin,
+166.
+
+[s2]
+Strânge-mă la Sânul Tău
+Lângă Tine ţine-mă
+Du-mă neatins în port
+Şi păzeşte-mi sufletul
+
+[s3]
+2. Ocrotire alta n-am
+Fără Tine sunt pierdut
+Singur, o, să nu mă laşi
+Întăreşte-mă mereu
+
+[s4]
+Numai-n Tine mă încred
+Tu eşti ajutorul meu
+Strânge-mi mâna să nu cad
+Strânge-mă la pieptul Tău.
+
+[s5]
+3. O Isuse-n Tine eu
+Orişice doresc găsesc
+De sunt orb mă luminezi
+De sunt slab mă întăreşti
+
+[s6]
+Tu eşti Sfânt, eu păcătos
+Însă Tu mă curăţeşti
+De păcate eu sunt plin
+De îndurare Tu eşti plin.
+
+[s7]
+4. Tu pe cruce ispăşind
+Mi-ai iertat păcatele
+Ca păcatul părăsind
+Pentru Tine să trăiesc.
+
+[s8]
+Sângele Tău e un izvor
+Ca să-mi speli păcatu-n el
+În el zilnic mă-nnoiesc
+Ori de câte ori greşesc.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

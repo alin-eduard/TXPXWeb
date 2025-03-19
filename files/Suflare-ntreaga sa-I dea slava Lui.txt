@@ -1,0 +1,41 @@
+[s1]
+Suflarea-ntreaga sa-I dea slava Lui
+Suflarea-ntreaga sa-I dea slava Lui
+Cu bucurie-I cantam doar Lui Aleluia Regelui
+Suflarea-ntreaga sa-I dea
+/: Slava Lui :/3x
+
+[s2]
+Suflarea-ntreaga sa-I dea slava Lui
+Suflarea-ntreaga sa-I dea slava Lui
+Prin indurare Dumnezeu ne-a scos
+De la moarte prin Hristos
+Suflarea-ntreaga sa-I dea
+/:Slava Lui:/3x
+
+[s3]
+Toata adunarea sa-I aduca slava
+/: slava Lui :/ 3x
+Orchestrele cu corde sa-I aduca slava
+/: slava Lui :/ 3x
+Fanfare sa Il laude si s-aduca slava
+/: slava Lui :/ 3x
+Si vocile in cor sa-I aduca lauda /: slava Lui :/3x
+
+[s4]
+Suflarea-ntreaga sa-I dea slava Lui
+Suflarea-ntreaga sa-I dea slava Lui
+Ca ne-a promis ca ne va lua la cer
+Si-o vesnicie vom trai cu El
+Suflarea-ntreaga sa-I dea
+/: slava Lui :/3x
+
+[s5]
+Suflarea-ntreaga sa-I dea slava Lui
+Suflarea-ntreaga sa-I dea slava Lui
+Cu bucurie-I cantam doar Lui Aleluia Regelui
+Suflarea-ntreaga sa-I dea
+/: slava Lui :/3x
+
+[order]
+s1,s2,s3,s4,s5

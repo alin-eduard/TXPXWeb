@@ -1,0 +1,49 @@
+[s1]
+1. Acum e timpul pe sfârşit
+Nu sta suflet nepregătit
+Că trec aşa de iute al zilelor şirag
+Dar totuşi noi îţi mulţumim
+Deşi suntem printre străini
+Şi te rugăm Isus iubit la noi să vii.
+248
+Fa
+
+[r1]
+Cor:
+Şi iubirea Ta nemărginită
+Să ne-o dai
+Şi credinţa, pacea
+Care tinde înspre rai
+Fă să le-nsuşim
+În viaţa noastră pe pământ
+Isus iubit pân' la mormânt.
+
+[s2]
+2. Acum vrem viaţa să Ţi-o dăm
+Şi din iubire să lucrăm
+În via Ta o scumpul nost' Mântuitor
+Căci va veni o clipă când
+Vom sta în faţa Lui cântând
+Şi vom primi răsplata
+Chiar din mâna Lui.
+
+[s3]
+3. Şi-n timpu' acesta ne-ncetat
+Noi să rodim rod mai bogat
+Ca şi sămânţa
+Din pământu-al patrulea
+Să nu dăm nici un pas 'napoi
+Să nu fie ură-ntre noi
+Ca în necaz să zicem: ”Doamne fi cu noi.”
+
+[s4]
+4. O, Grădinar ceresc şi sfânt
+Mai lasă pomul pe pământ
+Că poate anul acesta
+O s-aducă rod
+Îl voi săpa şi-l voi uda
+Eu personal m-oi ocupa
+Dar dacă nu, în celălalt îl voi tăia.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,58 @@
+[s1]
+Si noi fiind înconjurati,
+De-un nor asa de martori.
+/: Să-nlăturăm orice păcat
+Privind spre malul celălalt,
+Asa crestinii au luptat
+Ei nu s-au dat în lături. :/
+
+[s2]
+Să le urmăm c-un dor nespus,
+Credinta lor supremă.
+/: Căci au luptat si au învins
+Crestinii nostrii ce s-au stins,
+De dorul Lui au fost cuprinsi
+Mergeau cântând pe-arene. :/
+
+[s3]
+Când legile i-amenintau,
+Si-atunci ei n-aveau frică.
+/: Când fiarele le slobozeau
+Pe mici si mari îi sfâsiau,
+Dar ei de dor mai mult ardeau
+Nici de-asta n-aveau frică. :/
+
+[s4]
+De foame istoviti de frig,
+Ei pribegeau departe.
+/: Prin munti si pesteri alungati
+Prin temnită în fier legati,
+Lovit mai crud si-amenintati
+De Domnul nu-i desparte. :/
+
+[s5]
+Cântau al mântuirii cânt,
+Mergând pe orice cale.
+/: Si-atuncea când intrau pe rând
+În subterane toti cântând,
+Celui ce zice “Vin curând!
+Vegheati în asteptare”. :/
+
+[s6]
+Căci am să vin ca si un hot,
+În noaptea cea târzie.
+/: Vegheati păziti a mele porti
+Si atunci Eu n-am să vin ca hot,
+Când voi striga la voi la toti
+“Mireasa Mea să vină”. :/
+
+[s7]
+În vremea ce ne-a mai rămas,
+Să stăm în asteptare.
+/: Si înapoi nu, nici un pas
+Nainte, să nu dăm răgaz,
+Căci vine Mirele chiar azi
+Să îi cântăm OSANA! :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

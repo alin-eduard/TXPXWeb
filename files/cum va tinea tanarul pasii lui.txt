@@ -1,0 +1,20 @@
+[s1]
+Cum va ţinea tânărul paşii lui
+Calea curată spre ţinta lui
+/: Doar de trăieşte pe placul cerului
+Păzind mereu Cuvântul Domnului. :/
+
+[s2]
+Cum va ţinea tânăra paşii ei
+Calea curată spre ţinta ei
+/: Doar de trăieste pe placul Domnului
+Păzind mereu Cuvântul Domnului. :/
+
+[s3]
+Cum vor ţinea tinerii paşii lor
+Calea curată spre ţinta lor
+/: Doar de trăieşte pe placul cerului
+Păzind mereu Cuvântul Domnului. :/
+
+[order]
+s1,s2,s3

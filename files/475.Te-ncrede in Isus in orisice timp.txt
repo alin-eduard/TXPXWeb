@@ -1,0 +1,52 @@
+[s1]
+1. Te-ncrede în Isus în orişice timp
+Întotdeauna îţi fie Isus scump
+Din clipă în clipă
+Pe El să-L urmezi
+Sileşte-te cu fapta în El să crezi.
+Cor: Şi El îţi va da
+Duhul Său cel Sfânt
+Când umbli a Lui voie
+Toate împlinind
+475.
+
+[s2]
+2. Pentru a Lui iubire
+Măriţi pe Hristos
+Căci El sfântul Mire
+Din cer veni jos
+Sfinţi-L adorează pentru al Său dar
+Căci păcatele lor
+Le-a spălat prin har.
+Cor: Şi El îţi va da
+Duhul Său cel Sfânt
+Când umbli a Lui
+Voie toate împlinind
+
+[s3]
+3. Vino la El crezând,
+Chemarea ascultă
+Isus îţi dă ţie de ce ai lipsă
+Domnul te primeşte
+Când tu la El vii
+Numai credincios
+De vrei ca să rămâi.
+Cor: Şi El îţi va da
+Duhul Său cel Sfânt
+Când umbli a Lui voie
+Toate împlinind
+
+[s4]
+4. Vin acum la Isus roagă-L fierbinte
+Căci botez în Duh Sfânt
+El a-ţi da poate
+Şi când Duhul vine
+Pe tine te umple
+În limbă străină prin tine vorbeşte.
+Cor: Şi El îţi va da
+Duhul Său cel Sfânt
+Când umbli a Lui voie
+Toate împlinind
+
+[order]
+s1,s2,s3,s4

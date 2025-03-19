@@ -1,0 +1,38 @@
+[s1]
+Te-am ales, Te-am ales,
+Dintre mii şi mii de mii,
+Te-am ales.
+/: Glasuri multe m-au strigat,
+Mâini întinse m-au chemat,
+Şi din toate ne-nţeles,
+Te-am ales :/
+
+[s2]
+Te-am ales, Te-am ales,
+Dintre mii şi mii de mii,
+Te-am ales.
+/: Nimeni n-a iubit mai mult,
+În al vieţii greu tumult,
+Când iubirea-am înţeles,
+Te-am ales :/
+
+[s3]
+Te-am ales, Te-am ales,
+Dintre mii şi mii de mii,
+Te-am ales.
+/: Cum puteam să nu-Ţi răspund,
+Cum puteam să mă ascund,
+Când pe cruce ne-nţeles,
+M-ai ales :/
+
+[s4]
+M-ai ales, M-ai ales,
+Dintre mii şi mii de mii,
+M-ai ales,
+/: Vreau să-Ţi mulţumesc deplin,
+Pentru harul Tău divin,
+Căci prin el te-am înţeles,
+Te-am ales! :/
+
+[order]
+s1,s2,s3,s4

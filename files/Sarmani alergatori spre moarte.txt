@@ -1,0 +1,62 @@
+[s1]
+Sărmani alergători spre moarte
+Priviţi cum vă-nşelaţi mereu
+/: Luptînd pentru cununa lumii
+O pierdeţi pe-a lui Dumnezeu. :/
+Treziţi-vă, treziţi-vă!
+Vă cheamă azi un glas duios.
+Treziţi-vă, treziţi-vă!
+Treziţi-vă pentru Hristos!
+
+[s2]
+Orbiţi de patimi vinovate
+Robiţi de-al trupului folos
+/: Rîvniţi a lumii fericire
+Şi-o lepădaţi pe-a lui Hristos. :/
+Treziţi-vă, treziţi-vă!
+Vă cheamă azi un glas duios.
+Treziţi-vă, treziţi-vă!
+Treziţi-vă pentru Hristos!
+
+[s3]
+Lăsa-veţi mîine ce-aveţi astăzi
+Cum faceţi azi cu ce-aveţi ieri
+/: Şi-aşa vă vindeţi nemurirea
+Pe-nşelătoarele păreri. :/
+Treziţi-vă, treziţi-vă!
+Vă cheamă azi un glas duios.
+Treziţi-vă, treziţi-vă!
+Treziţi-vă pentru Hristos!
+
+[s4]
+Uitînd de Adevărul unic
+Voi nu mai ştiţi de e sau nu.
+/: Căutînd prea multe adevăruri
+Nu mai găsiţi cărarea Lui. :/
+Treziţi-vă, treziţi-vă!
+Vă cheamă azi un glas duios.
+Treziţi-vă, treziţi-vă!
+Treziţi-vă pentru Hristos!
+
+[s5]
+Şi veşnic nu veţi mai cunoaşte
+Ce este drept din ce-i nedrept
+/: Şi-aceasta vă va fi osînda
+Umblării-n drumul ne-nţelept. :/
+Treziţi-vă, treziţi-vă!
+Vă cheamă azi un glas duios.
+Treziţi-vă, treziţi-vă!
+Treziţi-vă pentru Hristos!
+
+[s6]
+De-atîţia ani s-a spus aceasta
+Şi se va mai striga-n pustiu
+/: Doar poate cineva ascultă
+Cît încă nu e prea tîrziu ! :/
+Treziţi-vă, treziţi-vă!
+Vă cheamă azi un glas duios.
+Treziţi-vă, treziţi-vă!
+Treziţi-vă pentru Hristos!
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,40 @@
+[s1]
+2074
+Privind în sus spre zarea
+cea albastră
+Spre soarele ce veșnic ne-a-ncălzit
+Ne minunăm de miile de astre
+Și ne-ntrebăm, cine le-a întocmit.
+
+[r1]
+Cor: E Dumnezeu ce le-a creat pe toate
+Minuni de care să ne bucurăm
+Lui Dumnezeu i-aducem osanale
+Venim cu toții să ne închinăm.
+
+[s2]
+2. Dar cine oare a făcut și munții
+Brazii semeți cu vârf de neatins
+Și nepătrunsele păduri de-aramă
+E tot puterea ce-n veci nu s-a stins.
+
+[s3]
+3. De univers pășune și izvoare
+Se bucură și păsărele mii
+Prin cântul lor aduc imnuri de slavă
+Puterii Tatălui din veșnicii.
+
+[s4]
+4. În răcoarea dimineții din câmpie
+Și-n roua proaspătă de pe câmpii
+Se scaldă greierii și-n al lor cântec
+Slăvesc pe Tatăl și a Lui minuni.
+
+[s5]
+5. Și dacă Tatăl le-a creat pe toate
+Ca noi în ele să ne bucurăm
+Toți le-am primit în dar fără de plată
+Haideți cu mic cu mare să-L lăudăm.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

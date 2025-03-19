@@ -1,0 +1,38 @@
+[s1]
+Revarsa azi o binecuvantare
+Spre-al tau popor o Doamne te rugam
+Cu mila sa privesti sprea Ta lucrare
+Caci inspre tine ruga inaltam
+
+[r1]
+A Ta este slava in veci te rugam
+Esti mare si puternic Dumnezeu
+La Tine venim cu totii te rugam
+Sa-Ti binecuvintezi poporul Tau
+
+[s2]
+Asa cum Solomon odinioara
+Spre cerurii rugaciunea a inaltat
+Si noi venim la Tine sfinte Tata
+Ca ce sfintestii tu-I binecuvantat
+
+[s3]
+O Tata ochii Tai mereu priveasca
+Asupra casei Tale pururea
+Asculta astazi rugaciunea noastra
+Da Doamne binecuvantarea Ta
+
+[s4]
+Iti multumim o Bunule Parinte
+Caci inspre noi cu mila vei privii
+Iar ruga ce o inaltam de aici spre Tine
+Raspuns prin harul tau noi vom primi
+
+[s5]
+Iar cand pe nori cu glorie si slava
+Cei reveni sa’ti iei ai Tai copii
+Cu toti vrem sa plecam cu tine’acasa
+In sfantul Tau locas din vesnicii
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

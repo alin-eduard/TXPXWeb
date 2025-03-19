@@ -1,0 +1,39 @@
+[s1]
+1. /:De ai nevoie de Isus
+Și azi ca orbu-L strigi mereu
+Tu strigă-l cheamă-l căci Isus
+Se va opri în dreptul tău:/
+1854. Fa m
+
+[r1]
+Cor: /:El n-a trecut nepăsător
+Nicicând pe lângă un sărman
+Necazuri multe de-ai avea
+Isus le poate rezolva.:/
+
+[s2]
+2. /:De cumva nu L-ai întâlnit
+Și-n casa ta Isus n-a fost
+Tu du-te iute ca Zacheu
+Și caută-L să-L întâlnești.:/
+
+[s3]
+3./:De ești setos și-ai vrea să bei
+Din apa fericirii Lui
+El te așteaptă bucuros
+Și azi să bei îți dă Hristos.:/
+
+[s4]
+4. /:De pace n-ai în viața ta
+Ți-o poate da Isus Hristos
+Tu strig-acum ca Bartimeu
+Isus se-oprește-n dreptul tău.:/
+
+[s5]
+5. /:De vrei s-ajungi cu El în cer
+Tu înapoi să nu privești
+Dezleagă-te de tot ce-i rău
+Și cerul o să-l moștenești.:/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

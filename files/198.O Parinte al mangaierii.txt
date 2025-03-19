@@ -1,0 +1,39 @@
+[s1]
+1. O Părinte al mângâierii
+Vezi-mă din cerul sfânt
+/:Căci în braţele durerii
+Şi-n suspine mă frământ.:/
+198. Re
+
+[s2]
+2. Întinde-ţi mâna Ta cea dulce
+Spre al vieţii mele chin
+/:Mâna care poate aduce
+Suferinţelor alin.:/
+
+[s3]
+3. Şi-mi pogoară-n suflet iară
+Pacea mângâierii azi
+/:Căci mi-e inima amară
+Şi-mi curg lacrimi pe obraz.:/
+
+[s4]
+4. Nopţi întregi de taină plină
+Stau în rugă şi veghez
+/:Şi Te chem să vii la mine
+Căci de Tine însetez.:/
+
+[s5]
+5. Zile-ntregi Te strig Părinte
+Şi Te chem mereu plângând
+/:Te aştept cu dor fierbinte
+Căci de Tine sunt flămând.:/
+
+[s6]
+6. O Părinte al mângâierii
+Vezi suspinul meu când gem
+/:Căci din braţele durerii
+Azi pe Tine doar Te chem.:/
+
+[order]
+s1,s2,s3,s4,s5,s6

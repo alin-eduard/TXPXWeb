@@ -1,0 +1,41 @@
+[s1]
+Pe Domnul voiesti
+să-L vezi când vine?
+Oare petru El lucrezi acuma?
+Păcatele le-ai lăsat
+si te afli acum salvat?
+Să te afle El curat când vine!
+
+[r1]
+Când vine-n slava Sa,
+Toti, o, ce bucurie vom avea!
+Noi pe Domnul pretuim
+de trăim sau murim,
+Si în glorie dorim ca să fim!
+
+[s2]
+Aflate-va-n adevăr, El atunci,
+Privind cu ochii spre cer,
+tot mereu?
+Pregătit-ai în ascuns,
+candela cu-ulei de-ajuns,
+Ca să-ntâmpini pe Mire,
+când vine?
+
+[s3]
+Aflate-va El curat, oare-atunci?
+Esti curătit de păcat, chiar acum?
+Adevărul, credinta,
+mila, pacea, iubirea
+Duhul Sfânt e-averea ta, acum?
+
+[s4]
+O, ce durere va fi, când vine!
+Multi la stânga s-or trezi,
+când vine;
+De trăim făr` Dumnezeu, păcătuind tot mereu
+Vom ajunge-n chinul greu,
+când vine!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

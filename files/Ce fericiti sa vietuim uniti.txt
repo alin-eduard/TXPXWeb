@@ -1,0 +1,31 @@
+[s1]
+Ce fericiţi să vieţuim uniţi
+Şi să muncim, Domnului să-I slujim.
+Plată primim în cer cînd ne suim
+Fericiţi noi vom fi, de grijuri nu vom şti.
+
+[r1]
+Nu stăm, ci harnici lucrăm
+La strîns snopi toţi ajutăm
+Plată noi vom căpăta
+Cînd în cer noi vom intra.
+Domnul Isus ne va da
+Chiar cu sfînta mînă-a Sa
+Mană, ascunse comori
+Lauri din veşnice flori.
+
+[s2]
+Ce fericiţi să vieţuim uniţi
+Dînd ajutor, munca să aibă spor
+Din zori lucrăm, suflete să salvăm
+Să strigăm către cer, căci mii sînt în jur ce pier !
+
+[s3]
+Ce fericiţi să vieţuim uniţi
+Se va-ntîmpla în cer cînd vom intra
+Pentru veci noi nu ne vom despărţi
+Cît de mult vreau şi eu să fiu lîngă
+Domnul meu!
+
+[order]
+s1,r1,s2,r1,s3,r1

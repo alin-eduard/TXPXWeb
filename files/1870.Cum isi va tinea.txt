@@ -1,0 +1,26 @@
+[s1]
+1870
+1. Cum își va ținea
+Tânărul curată cărarea
+Îndreptându-se
+După cuvântul Tău
+
+[r1]
+Cor: /:Te caut din toată inima mea
+Nu mă lăsa să mă abat
+De la poruncile Tale:/
+
+[s2]
+2. Mâinile Tale
+M-au făcut și m-au întocmit
+Dă-mi pricepere
+Să învăț căile Tale
+
+[s3]
+3. Strâng cuvântul Tău
+În inima mea
+Ca să nu păcătuiesc
+Împotriva Ta.
+
+[order]
+s1,r1,s2,r1,s3,r1

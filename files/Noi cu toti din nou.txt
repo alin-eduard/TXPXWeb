@@ -1,0 +1,31 @@
+[s1]
+Noi cu toţi, din nou
+Aici ne­am adunat,
+Pentru că avem mereu de învăţat
+Din Cuvântul Domnului
+Ce s­a citit,
+Ce ne este scump şi preaiubit.
+
+[r1]
+Ne ajută, Doamne, tot ce învăţăm
+Să transformăm în trai,
+Ca să vadă lumea­ntreagă
+Ce copii Tu ai.
+
+[s2]
+Pentru studiul Bibliei ne pregătim
+Să­Ţi cunoaştem voia
+Şi s­o împlinim,
+Să primim în inimă tot ce ne dai
+Astăzi, iarăşi, prin al Tău sfânt grai.
+
+[s3]
+La sfârşit, când lecţia vom încheia,
+După ce Cuvântul Tău
+Vom asculta,
+Să ne­ajuţi să fim mai buni
+Şi­ascultători,
+Cum era al nostru Salvator.
+
+[order]
+s1,r1,s2,r1,s3,r1

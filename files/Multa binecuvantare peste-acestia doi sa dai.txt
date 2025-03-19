@@ -1,0 +1,20 @@
+[s1]
+Multă binecuvântare
+Peste-aceştia doi să dai,
+Luminează-a lor cărare
+Sub privirea Ta să-i ai.
+
+[r1]
+O, Doamne Sfânt, ce eşti în ceruri
+Tu mâna-ţi sfântă să le-ntinzi,
+Şi când vin ispite grele
+Tu-n braţe să-i cuprinzi.
+
+[s2]
+Fă ca viaţa lor întreagă
+Să rămână credinciosi,
+Şi în toate să-mplinească
+Numai voia lui Hristos.
+
+[order]
+s1,r1,s2,r1

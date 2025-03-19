@@ -1,0 +1,33 @@
+[s1]
+1849
+1.Încă puțin mai este din neagra noapte
+Și zorii vor veni
+Când trâmbița măiastră, va răsuna în zare:
+,,Veniți ai mei copii!”
+Cor: /:Isus vine cu slavă, ce bucurie
+Apre Mirele, vine pe nori
+Vine cu slavă mare, cu mii de îngeri
+Osana Aleluia, o Rege al regilor:/
+
+[s2]
+2.O clipă mai așteaptă, ridică-ți ochii
+Vegează nu ațipi
+Și s-a sfârși durerea și amarul
+Când Domnul va veni.
+Cor: /:Isus vine cu slavă, ce bucurie
+Apre Mirele, vine pe nori
+Vine cu slavă mare, cu mii de îngeri
+Osana Aleluia, o Rege al regilor:/
+
+[s3]
+3.În candelă mai arde uleiul astazi?
+Iubirea nu s-a stins?
+Căci toate trei vor arde, doar dragostea rămâne
+Ea duce-n Paradis.
+Cor: /:Isus vine cu slavă, ce bucurie
+Apre Mirele, vine pe nori
+Vine cu slavă mare, cu mii de îngeri
+Osana Aleluia, o Rege al regilor:/
+
+[order]
+s1,s2,s3

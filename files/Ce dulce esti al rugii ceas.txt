@@ -1,0 +1,39 @@
+[s1]
+Ce dulce eşti al rugii ceas
+Când cu lacrime pe obraz
+Stau la Tronul lui Dumnezeu
+Şi-mi pot plânge necazul meu
+Ori când durerea e mare
+ISUS îmi dă iar scăpare
+
+[s2]
+/: La mine slab ia aminte
+Când Lui mă rog eu fierbinte :/
+
+[s3]
+Al rugii ceas ce dulce eşti
+Când Domnului mărturiseşti
+Păcatu-ntreg, amarul tot,
+Şi spui: “ISUSE nu mai pot!”
+El zice: “Mie vă rugaţi
+Cu-al Meu Cuvânt
+vă mângâiaţi”
+
+[s4]
+/: Tot ce m-apasă-I voi spune
+În timpul de rugăciune :/
+
+[s5]
+Al rugii ceas ce dulce-mi eşti,
+În orice zi mă linişteşti;
+Cât timp aici călătoresc
+Eu către cer cu drag privesc,
+Când acest corp de pe pământ
+Îl voi depune în mormânt
+
+[s6]
+/: Atunci în veci voi fi voios
+Că m-am rugat aicea jos. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

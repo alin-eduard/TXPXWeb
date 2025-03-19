@@ -1,0 +1,39 @@
+[s1]
+1859
+1. Voi părinți ce m-ați crescut
+De mine grijă ați avut
+Dar acuma eu vă spun
+Vreau să-mi iau un rămas bun
+
+[r1]
+Cor: Tot ce voi v-ați ostenit
+Și tot ce mi-ați oferit
+Dumnezeu va răsplăti
+Când pe nori El va veni.
+
+[s2]
+2. Azi Dumnezeu a rânduit,
+O zi în care noi am vrut
+Cu pași timizi ca să pășim
+Pe-un drum ce dă surprize noi.
+
+[s3]
+3. Dorim să mergem înainte
+Prin dragostea ce El ne-a dat
+Și într-o zi să ne-ntâlnim
+Acolo-n marele palat.
+
+[s4]
+4. Dacă-am fost un fiu mai rău
+Și v-am întristat mereu
+Vreau acum să-mi cer iertare
+Ca să-i plac lui Dumnezeu.
+
+[s5]
+Iar când Isus va veni
+Ca să-nceapă nunta Sa
+Îmbrăcați în alb să fim
+Pentru-a fi mireasa Sa.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5

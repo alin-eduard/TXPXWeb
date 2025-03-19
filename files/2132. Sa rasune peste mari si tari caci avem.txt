@@ -1,0 +1,32 @@
+[s1]
+2132.
+1.	Să răsune peste mări şi ţări Căci avem un Dumnezeu măreţ
+/: Numele Lui fie lăudat
+Și în veci de veci glorificat :/.
+
+[s2]
+2. Zi de zi ne poartă-n carul Său
+Ne conduce pe-al vieţii drum
+/: El Isus e cel mai minunat
+Și în veci de veci glorificat :/.
+
+[s3]
+3.	 Ne ajută când povara-i grea Și ne ia de mână când cădem
+/: Ne ridică de jos sarcina
+Ne dă noi puteri spre-a-nainta:/
+
+[s4]
+4. Nu ne temem de-ar
+veni furtuni
+Și dacă marea se va tulbura
+/: Căci la cârmă e Isus Hristos Soarta noastră este-n
+mâna Sa:/.
+
+[s5]
+5. A promis că pe ai Săi, Nicicând, niciodată nu
+îi va lăsa
+/: Pe acei ce nu dau înapoi,
+Îi va duce în patria Sa :/.
+
+[order]
+s1,s2,s3,s4,s5

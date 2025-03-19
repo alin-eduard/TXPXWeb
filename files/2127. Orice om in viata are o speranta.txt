@@ -1,0 +1,46 @@
+[s1]
+2127
+1. Orice om în viață are o speranță
+Se luptă să ajungă oriunde
+și-a propus
+Se zbate se frământă de preț
+nu mai discută
+Prin orice metodă vrea
+să ajungă sus.
+
+[r1]
+Cor: /: Vreau s-ajung în rai la Tine
+O, iubit Stăpâne, Domnul
+meu Isus
+Am ales ce este bine,
+mi-ai dat mântuire
+În slava Ta de sus (1)
+Vreau s-ajung la Tine în raiul Tău de sus (2) :/.
+
+[s2]
+2. Orice om și-alege pe ce drum va merge
+Dar mulți în nepăsare de mult
+au adormit
+Descurajați de viață nu au nici
+o speranță
+Se încred în soarta oarbă și merg pe un drum greșit.
+
+[s3]
+3. Spune cum ți-e viața care
+ți-e speranța
+Ce, poți să numeri anii
+care ți s-au dus
+S-a dus tinerețea, chiar și frumusețea
+Adevărata viață o afli în Isus.
+
+[s4]
+4. Ascultă ce e bine,
+primește înțelepciune
+Pornește spre Acela care
+te-a creat
+Isus Hristos e viața, în El
+pune speranța
+Că doar în al Său nume poți să fii și tu iertat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

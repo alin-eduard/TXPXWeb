@@ -1,0 +1,33 @@
+[s1]
+Mă încred în El
+Orice s-ar întâmpla
+Pe drumul meu
+Sau în viaţa mea,
+Fie ce-o fi, în orice zi
+Cerescul Tată m-a călăuzi.
+
+[r1]
+/: Mă încred în El,
+El ştie soarta mea,
+Pe stâncă sus
+Sau în adânc de văi,
+Lovit de val, ajung la mal,
+Cerescul Tată m-a călăuzi. :/
+
+[s2]
+Mă încred în El,
+Oriunde aş fi dus
+Chiar în cuptor de foc
+De aş fi pus,
+În suferinţi sau bucurii
+Cerescul Tată m-a călăuzi.
+
+[s3]
+Mă încred în El
+Chiar şi când nu înţeleg,
+Eu voia Lui întotdeauna aleg,
+Căci doar aşa în slava Sa
+Cerescul Tată m-a călăuzi.
+
+[order]
+s1,r1,s2,r1,s3,r1

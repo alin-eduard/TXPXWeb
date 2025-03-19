@@ -1,0 +1,31 @@
+[s1]
+O, frunte­nsângerată
+Şi demnă­n al Tău chin,
+O, frunte chinuită
+Sub ramura de spini,
+O, frunte­mpodobită
+Cu har dumnezeiesc,
+Eşti azi dispreţuită,
+Eu, însă, Te slăvesc.
+
+[s2]
+Întreaga Ta durere
+M­apasă astăzi greu
+De mult ce îndurat-ai,
+De vină­s numai eu.
+Îndură-Te de mine,
+O, nu Te mânia.
+Îndură-Te, împarte­mi
+Milostivirea Ta.
+
+[s3]
+Ce mare bucurie, ce har nepreţuit
+Să mă cufund, o, Doamne,
+În chinul Tău cumplit.
+De s­ar putea chiar viaţa,
+Chiar viaţa mea Ţi­aş da.
+Ce sfântă bucurie
+Să mor la crucea Ta!
+
+[order]
+s1,s2,s3

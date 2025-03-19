@@ -1,0 +1,20 @@
+[s1]
+Roagă-te dimineaţa,
+Roagă-te şi la prânz
+/: Roagă-te pe-nserate,
+Roagă-te orişicând :/
+
+[s2]
+Ascultă-L dimineaţa,
+Ascultă-L şi la prânz
+/: Ascultă-L pe-nserate,
+Ascultă-L orişicând :/
+
+[s3]
+Dă-I slavă dimineaţa,
+Dă-I slavă şi la prânz
+/: Dă-I slavă pe-nserate,
+Dă-I slavă orişicând :/
+
+[order]
+s1,s2,s3

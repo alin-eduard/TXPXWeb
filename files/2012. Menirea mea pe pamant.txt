@@ -1,0 +1,30 @@
+[s1]
+2012
+1. /: Menirea mea pe pământ :/
+Să seamăn Doamne-al Tău Cuvânt
+Prin trai, prin vorbă și prin gând
+Prin tot ce am, prin tot ce sunt
+Prin toate să Te vezi Tu sfânt.
+
+[r1]
+Cor: /: În urma mea să fie,
+Izvoare de-apă vie
+Din Tine Isuse țâșnite
+Spre Tine să curgă-nmulțite. :/
+
+[s2]
+2. /: Menirea mea cea de-acum :/
+Să fiu la cei din jur un drum
+Spre Tine ca să vadă cum
+M-ai mântuit din văi și fum
+Să-Ți cânt curat și nu oricum.
+
+[s3]
+3. /: Menirea mea eu o știu :/
+Să apăr Adevărul sfânt
+Pe-al lumii  înghețat pustiu
+Cât timpul încă nu-i târziu
+Spre slava Ta Isus să fiu.
+
+[order]
+s1,r1,s2,r1,s3,r1

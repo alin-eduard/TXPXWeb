@@ -1,0 +1,30 @@
+[s1]
+Atâta am în astă lume:
+Un nume dulce, scump şi drag
+/: Cu care-n orice strâmtorare
+Eu nu mă tem de-al morţii prag. :/
+
+[s2]
+Chiar de mi-ar sta duşmanii-n faţă,
+În şir, cu sutele de mii,
+/: Eu cânt şi merg tot înainte.
+învins de ei, eu nu voi fi! :/
+
+[s3]
+Îmi stă doar fâlfâind la dreapta
+Drapelul care l-am primit
+/: Şi-i scris pe el un falnic nume,
+Al lui Isus cel răstignit. :/
+
+[s4]
+Şi azi plutesc, pe-ntinsul mării, Cu tot ce mi s-a-ncredinţat;
+/: Şi nicicând nu voi da uitării Talantul ce l-am căpătat. :/
+
+[s5]
+Eu nu-l îngrop, ci-l schimb întruna
+Şi fac cu el negoţ mereu,
+/: Să fiu găsit o slugă bună
+Când va veni Stăpânul meu. :/
+
+[order]
+s1,s2,s3,s4,s5

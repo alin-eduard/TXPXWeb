@@ -1,0 +1,20 @@
+[s1]
+/: În Betleem azi :/
+E o mare minune.
+
+[r1]
+/: Hristos se naşte, Domnul coboară
+Îngerii cântă, magii îl adoră
+Păstorii aleargă, ieslea o-nconjoară
+Mari minuni se întâmplară. :/
+
+[s2]
+/: Îngeri şi oameni :/
+Îi cântă împreună.
+
+[s3]
+/: Toţi să-i dăm loc dar :/
+În inimi să se nască.
+
+[order]
+s1,r1,s2,r1,s3,r1

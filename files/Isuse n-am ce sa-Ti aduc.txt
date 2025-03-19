@@ -1,0 +1,32 @@
+[s1]
+Isuse n-am ce să-Ţi aduc
+Decât ticăloşia mea
+/: Şi fără Tine sunt pierdut
+Căci n-am nici o putere.:/
+
+[r1]
+Primeşte-mă cum sunt
+N-am nici un ajutor
+/: Primeşte-mă aşa cum sunt
+O fie-ţi milă Doamne. :/
+
+[s2]
+Călcat-am Doamne voia Ta
+Păcatu-n mine e stăpân
+/: În mine nu-i nimica bun
+Sunt plin tot de păcate. :/
+
+[s3]
+Dar sângele Tu ţi-ai vărsat
+Cu el imi speli păcatul meu
+/: Şi Duhul Tău cel Sfânt îmi dă
+Putere ca să birui. :/
+
+[s4]
+Eu vreau acum să fiu al Tău
+În suflet vreau să stăpâneşti
+/: Şi inima vreau să ţi-o dau
+Mi-ajunge-atâta trudă. :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

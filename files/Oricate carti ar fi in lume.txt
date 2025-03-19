@@ -1,0 +1,51 @@
+[s1]
+Oricate carti ar fi in lume
+Tu niciodata nu-I afla
+O alta carte cu renume ,
+La fel cum este Biblia!
+
+[s2]
+Tu, Biblie, esti sfant tezaur
+Nepieritor si pretios
+Al tau cuvant etern, de aur
+La fel, cum este Biblia!
+
+[s3]
+Tu ai ajuns prin mari prigoane,
+Dar niciodata n-ai tacut!
+Au vrut Cuvantul sa-ti rastoarne
+Prin vremuri multi,
+dar au trecut…
+
+[s4]
+Oricate carti ar fi in lume
+Tu niciodata nu-I afla
+O alta carte cu renume,
+La fel cum este Biblia!
+
+[s5]
+Tu esti oglinda vietii noastre,
+Indrumatorul pentru cer
+Ne daruiesti doar zari albastre
+Si bogatii ce-n veci nu pier!
+
+[s6]
+Tu ai schimbat vieti pacatoase
+Tu ai schimbat popoare-ntregi
+Ai inverzit pustiuri arse
+Prin ale tale sfinte legi…
+
+[s7]
+Pamantul, cerul se vor trece
+Nu vor mai fi, caci ai prezis
+Apoi uitarea grea si rece
+Se va asterne ca un vis.
+
+[s8]
+Cuvantul tau ramane vesnic
+E insusi Domnul Dumnezeu!
+Marire, Doamne! Tu esti vrednic
+Ca sa domnesti, in veci mereu!
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

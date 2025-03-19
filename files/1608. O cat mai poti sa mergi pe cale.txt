@@ -1,0 +1,45 @@
+[s1]
+1608.     Do m
+1.O cât mai poţi să mergi pe cale
+O biet creştin cu crucea grea
+Atât cât vei păşi înainte
+Isus îţi stă alăturea
+
+[r1]
+Cor:Priveşte mereu înainte
+Atunci vei fii biruitor
+Nainte măi frate, nainte
+Isus Îţi vine-n ajutor
+
+[s2]
+2. Cu Dumnezeu crucea-i uşoară
+Şi luminează calea ta
+Nu-ţi pierde niciodat nădejdea
+Isus îţi stă alăturea
+
+[s3]
+3.Iar dacă mergi plângând pe cale
+Tu urcă crucea până sus
+Şi atunci când greul îţi este mare
+Îţi stă alăturea Isus
+
+[s4]
+4. Când simţi în inimă durerea
+Şi sufletul ţi-i întristat
+Nu-ţi pierde niciodat nădejdea
+Tu de Isus eşti mângâiat
+
+[s5]
+5. Şi-n groapă dacă ai fi cu leii
+Şi în cuptor cu foc incins
+Să nu uiţi niciodată frate
+Căci Isus moartea a învins
+
+[s6]
+6. Şi acum poporule iubit
+De vrei ca tu să fii răpit
+Priveşte acum cu ochii în sus
+Spre Canaan şi spre Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

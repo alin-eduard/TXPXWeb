@@ -1,0 +1,40 @@
+[s1]
+432.
+La b
+1.O, Isuse, a mea cruce
+Să-mi ajuţi a o purta.
+Orice-ar fi să mi-o pot duce
+Ascultând de voia Ta.
+
+[s2]
+Să-ţi urmez, Isuse, Ţie
+Pân` la capăt orice-ar fi
+Toţi de-ar fi să mă condamne,
+Tu nu mă vei părăsi.
+
+[s3]
+2.Eu voiesc la fel ca Tine
+Să fiu mort la orice rău.
+Ţine-mă de mână bine,
+Ispitit când sunt mereu.
+
+[s4]
+Părăsit şi de prieteni
+Tu-mi rămâi prieten bun;
+Ştiu că-ncrederea nu-mi clatin,
+Eu nădejdea-n Tine-mi pun.
+
+[s5]
+3.Prin furtunile vieţii,
+Călăuză Tu îmi eşti,
+Chiar şi norii întristării,
+Prin Cuvântu-Ţi risipeşti.
+
+[s6]
+Cine poate-a mă desparte,
+De iubirea Ta, Isus,
+De necazuri când am parte,
+Numai Tu îmi eşti de-ajuns.
+
+[order]
+s1,s2,s3,s4,s5,s6

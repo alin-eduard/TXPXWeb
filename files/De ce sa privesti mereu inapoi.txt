@@ -1,0 +1,30 @@
+[s1]
+De ce sa privesti mereu inapoi
+Cand dorul spre zare te poarta
+De ce stai murdar in sange suvoi
+Te spala te curata de-orice noroi
+/: Si orice pacat El iti iarta :/
+
+[s2]
+De ce sa stai gol fara haina de fiu
+Cand haina cea alba te-asteapta
+De ce sa fii mort cand poti sa fii viu
+De ce nu vrei Cerul ci doar un pustiu
+/:De ce sa nu schimbi a ta soarta:/
+
+[s3]
+De ce sa mai porti pe umeri poveri
+Cand Tatal tau vrea a le duce
+De ce sa mai plangi de ce sa disperi
+De ce mai aduni si-acum la taceri
+/:Cand iata esti chiar langa cruce:/
+
+[s4]
+De ce sa amai daca ziua de azi
+I-a ta dar nu stii despre maine
+De ce sa mai ai lacrimi pe-obraz
+De ce sa aduni comori de necaz
+/:Cand ceru-I deschis pentru tine:/
+
+[order]
+s1,s2,s3,s4

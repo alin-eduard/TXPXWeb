@@ -1,0 +1,52 @@
+[s1]
+Anii trec ca norii;
+Perii-ncărunţesc;
+Vremurile-s altfel,
+Totul e-n schimbare;
+Zilnic se preface
+Tot ce-i pământesc
+/: Numai adevărul
+E acelaşi soare. :/
+
+[s2]
+Vara arzi în soare;
+iarna arzi în ger;
+Ce te-ncântă astăzi,
+mâine ţi-e povară;
+Toate-apasă duhul,
+toate-l strâng ca-n fier
+/: Numai conştiinţa
+sfântă e uşoară. :/
+
+[s3]
+Toţi sunt ca şi tine:
+slabi şi schimbători;
+Cei aproape,
+astăzi sunt departe mâine;
+Oamenii-s ca norii
+aburi trecători
+/: Numai Domnul singur
+neschimbat rămane... :/
+
+[s4]
+Iarba se usucă,
+frunza cade iar;
+Apa-şi face vaduri,
+altele întruna;
+Peste toate-n lume,
+plânsul e-n zadar:
+/: Numai în iubire
+cântu-i totdeauna. :/
+
+[s5]
+Nu-ţi lega de nimeni
+inima acum,
+Ca să nu ţi-o smulgă
+ruperea ce vine!
+Leagă-ţi-o de Domnul!...
+lumea-i vis şi fum
+/: Singur El rămâne,
+veşnic lângă tine. :/
+
+[order]
+s1,s2,s3,s4,s5

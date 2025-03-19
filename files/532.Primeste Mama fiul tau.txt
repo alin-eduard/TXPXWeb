@@ -1,0 +1,79 @@
+[s1]
+1.	Primeşte Mamă fiul Tău
+Din căile deşarte
+Destul de mult a pribegit
+De casa Ta departe.
+2.	Primeşte Mamă fiul Tău
+Din calea cea pustie
+Primeşte sufletul zdrobit
+Cu mila Ta-l mângâie.
+532.
+
+[s2]
+3.	Deschide-i uşa Ta cu drag
+O, mamă-ndurerată
+Cu lacrimi Te aşteaptă-n prag
+Mai iartă-l încă o dată.
+4.	Căci inima de Mamă nu-i
+În lumea asta mare
+Când vine fiul Său plângând
+Eu să nu-i dau iertare.
+
+[s3]
+5.	Primeşte Mamă fiul Tău
+Căci rana-i este mare
+Căci nimeni n-o poate lega
+Şi nici să-i dea iertare.
+6.	Primiţi voi fraţi, primiţi surori
+Pe cei căzuţi din cale
+Întoarce-ţi-i din drumul rău
+O, şi le daţi iertare.
+
+[s4]
+7.	O, Tu Samaritean milos
+Cobori şi azi prin vale
+Care de când trântiţi stau jos
+Nu-s primiţi în adunare.
+8.	Căci numai Tu vei mai putea
+Să-i scoli din groapa adâncă
+Să-ţi chemi pe nume oaia Ta
+Căzută de pe stâncă.
+
+[s5]
+9.	Căci harul Tău nu s-a sfârşit
+Şi nici a Ta-ndurare
+Mai iartă-l iar pe cel greşit
+Şi adu-l în adunare.
+10.	Biserica primeşte-ţi azi
+Fiul plin de-ntristare
+I-ajunge cît e de zdrobit
+Căci rana-i este mare.
+
+[s6]
+11.	I-ajunge cât s-a tânguit
+Mâhnit sub apăsare
+O, nu-L lăsa tot întristat
+În lume şi-n pierzare.
+12.	Iar cel rău nu va câştiga
+Un suflet pe vecie
+De-L vei primi în sânul Tău
+O, biserică vie.
+
+[s7]
+13.	Primeşte Mamă fiul Tău
+Din căile deşarte
+Destul de mult a pribegit
+De casa Ta departe.
+14.	Primeşte Mama fiul Tău
+Şi iartă-i vina toată
+Căci seamăn Tu pe lume n-ai
+În dragoste curată.
+
+[s8]
+15.	Deschis e cerul Tău cu drag
+O, şterge a lui faţă
+Cu lacrimi aşteaptă-l în prag
+Mai iartă-l încă o dată.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

@@ -1,0 +1,51 @@
+[s1]
+1. Te aşteaptă în veghere
+Mireasa Ta cea în durere
+Copii Tăi răscumpăraţi
+Ce cu sânge i-ai câştigat
+Cu sânge de Miel înjunghiat
+Cel mai scump şi nepătat, o, Isuse.
+640.
+
+[s2]
+2. Isus Domnul în mărire
+Ne aşteaptă cu iubire
+Îşi aşteaptă rodul Lui
+Blândeţea porumbelului
+Poporului de legământ
+Câştigat de pe pământ, o, Isuse.
+
+[s3]
+3. O, Isuse fie-Ţi milă
+De cei care îşi plâng a lor vină
+De cei ce strigă însetaţi
+Spre cer privind înlăcrimaţi
+Tu prin vocea Ta cea blândă
+Dă-le o mângâiere sfântă, o, Isuse.
+
+[s4]
+4. O, Isuse fie-Ţi milă
+De bolnavi care suspină
+De cei ce-s cu boli sufleteşti
+Şi a lor inimi sunt mai reci
+Dă-le şi lor liberarea
+Şi la suflet schimbă starea, o, Isuse.
+
+[s5]
+5. Ai milă Isuse dulce
+De cei ce duc o mai grea cruce
+Ce pentru numele Tău
+Sunt alungaţi şi priviţi rău
+Tu mai treci şi pe la ei
+Toarnă-n candelă ulei, o, Isuse.
+
+[s6]
+6. Te rog cu lacrimi fierbinţi
+Pentru cei ce n-au părinţi
+De orfani care-n durere
+N-au pe lume mângâiere
+Te rog să fii mama lor
+Pune-i în al Tău ogor, o, Isuse.
+
+[order]
+s1,s2,s3,s4,s5,s6

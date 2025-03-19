@@ -1,0 +1,42 @@
+[s1]
+A-nviat Isus Hristos!
+Slavă Lui, Aleluia!
+A ieşit victorios!
+Slavă Lui, Aleluia!
+Cel pe cruce răstignit
+Slavă, Aleluia
+Boldul morţii-a biruit!
+Slavă Lui, Aleluia!
+
+[s2]
+Domnul nostru S-a-nălţat!
+Slavă Lui, Aleluia!
+Mare Preot şi-Împărat!
+Slavă Lui, Aleluia!
+Moartea doua suferind!
+Slavă, Aleluia!
+Păcătoşii mântuind!
+Slavă Lui, Aleluia!
+
+[s3]
+Suferinţa ne-a purtat!
+Slavă Lui, Aleluia!
+Sufletul ne-a vindecat!
+Slavă Lui, Aleluia!
+Mântuiţii cântă-n cor!
+Slavă, Aleluia
+Domnului oştirilor!
+Slavă Lui, Aleluia!
+
+[s4]
+Slavă Celui înviat!
+Slavă Lui, Aleluia!
+El cu Tatăl ne-a-mpăcat!
+Slavă Lui, Aleluia!
+Fie înălţat în cânt!
+Slavă, Aleluia
+Tatăl, Fiul, Duhul Sfânt!
+Slavă Lui, Aleluia!
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,31 @@
+[s1]
+2148
+1.Tu mă îndemni la rugăciune, Căci prin ea eu sunt în cer
+Însă, Doamne, de la Tine Duhul rugăciunii-l cer!
+Cor:	 /: O, Doamne, o, Doamne! :/.
+
+[s2]
+2.	 Tu mă-ndemni să am iubire, Căci prin ea trăiesc în rai
+Însă, Doamne, daru-acesta Numai Tu poți să mi-l dai!
+Cor:	 /: O, Doamne, o, Doamne! :/.
+
+[s3]
+3. Tu mă-ndemni s-ascult Cuvântul,
+Căci prin el mă aflu-n har
+Însă, Doamne, Tu îmi dărui, Duh de ascultare-n jar!
+Cor:	 /: O, Doamne, o, Doamne! :/.
+
+[s4]
+4. 	Tu mă-ndemni să fiu ca Tine, Căci așa pot să-Ți slujesc
+Însă, Doamne, starea asta
+De la Tine o primesc!
+Cor:	 /: O, Doamne, o, Doamne! :/.
+
+[s5]
+5. Tot ce-i bun, din Tine-mi vine,
+Și să-mi dai, mereu Tu vrei
+Doamne ajută-mă-n credință Ca să mă deschid, cum ceri!
+Cor:	 /: O, Doamne, o, Doamne! :/.
+
+[order]
+s1,s2,s3,s4,s5

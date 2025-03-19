@@ -1,0 +1,32 @@
+[s1]
+Iată, mirele vine, miezul nopţii a sosit
+Fii pentru-întâmpinare, pregătit !
+Aprinde candela ta, ia uleiul cu tine
+Şi du-te-naintea Sa, căci vine !
+
+[r1]
+Isus, eu Te iubesc mereu
+Te întâmpin, eu ştiu bine, pe Tine;
+Aleluia, eu Îţi cânt slavă Ţie, Doamne Sfânt,
+Căci venirea Ta va fi în curând !
+
+[s2]
+Fecioare fericite ce tot priveghind aţi stat
+Pe mirele-ntruna aţi aşteptat;
+Voi la nuntă-acum intraţi
+cu Mirele vostru sfânt
+Şi pe veci vă bucuraţi,
+Lui cântând
+
+[s3]
+Fecioarele ce-au dormit
+au primit osândă,
+Căci Domnul nu le-a primit
+la nuntă;
+Fraţilor să ne silim
+să fim gata orişicând
+Căci în curând va veni
+Cel preasfânt !
+
+[order]
+s1,r1,s2,r1,s3,r1

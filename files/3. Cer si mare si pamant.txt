@@ -1,0 +1,6 @@
+[s1]
+Cer si mare si pamant
+Lauda pe Domnul Sfant
+
+[order]
+s1

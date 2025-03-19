@@ -1,0 +1,36 @@
+[s1]
+Ce fericire de-a-L cunoaşte
+Pe Isus, Păstorul minunat
+Ce cu blândeţe turma-Şi paşte
+Şi-o apără neâncetat.
+Sol M
+
+[r1]
+/: Lui să-I cântăm, (4 x)
+/: El pentru noi :/
+/:Viaţa Şi-a dat; :/
+/: Acum şi noi :/
+/: Viaţa să-I dăm, :/
+/: Să-I fim urmaşi :/
+/: Ai lui Isus. :/
+
+[s2]
+Cu toţii-am mers pe căi deşarte,
+În pofte rele şi-n păcat,
+Dar El veni şi, de la moarte,
+În viaţ-eternă ne-a mutat.
+
+[s3]
+Ca nişte oi pe calea lată,
+Mergeam spre veşnicul abis,
+Dar El ne-a şters a vinei pată
+Şi-acum păşim spre Paradis.
+
+[s4]
+Să-naintăm dar, fără frică
+Şi fără grijă, neântinaţi,
+Căci azi suntem o ceată mică,
+O ceată de răscumpăraţi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

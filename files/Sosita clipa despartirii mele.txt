@@ -1,0 +1,50 @@
+[s1]
+Sosit-a clipa despărţirii mele
+De scumpul meu cămin unde am crescut
+Şi las pe faţă lacrimi să prelingă
+Căci clipa despărţirii a sosit.
+
+[s2]
+De a mea mamă de al meu părinte
+De fraţii mei ce i-am iubit
+Plânge cu lacrimi cu mari suspine
+Căci mult pe dânşii i-am iubit.
+
+[s3]
+Iar dintre toate cele ce-mi dă viaţă
+E harul Domnului din viaţa mea
+E şi aceea ce ar vrea şi cerul
+S-o am pe aceea ce mi-a dat viaţă.
+
+[s4]
+Căci, eu,mă duc, o, mamă scumpă
+Şi iartă-mă de ţi-am greşit
+Căci niciodată a sa iubire
+În viaţă nu m-a părăsit.
+
+[s5]
+Eu voi pleca acum de la tine
+De azi viata mea se va schimba
+Aş vrea să simt pe veci a ta iubire
+Să fii aproape de fiinţa mea.
+
+[s6]
+Căci mamă scumpă a ta iubire
+Eu pentru veci n-o pot uita
+Cu ce căldură şi bucurie
+Te-ai îngrijit de viaţa mea.
+
+[s7]
+Iar dacă va veni şi ziua aceea
+Când dorurile ni se vor uni
+Vom fi-mpreună-n slava Lui cea mare
+Şi gândurile ni se vor sfârşi.
+
+[s8]
+Să ai credinţă, o, mamă scumpă
+Căci Domnul te va ajuta
+Să crezi puternic, vom fi-mpreună
+Cu toţii sus la nunta Sa.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

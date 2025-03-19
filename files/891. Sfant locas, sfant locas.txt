@@ -1,0 +1,33 @@
+[s1]
+891.
+1.  Sfânt locaş, sfânt locaş
+Dulce Paradis
+Din inimă eu te doresc
+Fii mie tu deschis
+Nu lumea este ţara mea
+A mea e acolo sus
+De mult inima mea în ea
+Cu totul mi s-a dus.
+
+[s2]
+2.  /: În Tine dulce Rai
+Văd iubiţii mei
+Cum duc în cer un vesel trai
+Doresc să fiu cu ei :/
+E greu aici ca să luptăm
+În lumea de minciuni
+În ea mereu întâmpinăm
+Dureri şi amărăciuni.
+
+[s3]
+3.  /: Doar nu mult va dura
+Traiul trecător
+Şi apoi în veci voi triumfa
+Cu al meu Mântuitor :/
+Ce n-a putut vreun ochi vedea
+Sau omul auzi
+Acolo veşnic voi avea
+Şi fericit voi fi.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,112 @@
+[s1]
+Casa lui Iacov păcătuise
+Iar Domnul slavei S-a mâniat
+Şi-a întins mâna a lovit ţara
+O vai ce jale i-a-mpresurat
+1.
+1247
+Cor:  Ierusalime ce-ntunecime
+Ce jale mare e peste tine
+Din cer azvârle Ierusalime
+A ta podoabă o vai de tine Ierusalime
+
+[s2]
+Căci fără de milă Domnul din ceruri
+El nimiceşte locaşul Lui
+Dărâmătura fiica lui Iuda
+Eşti prăvălită din temelii
+2.
+Cor:  Ierusalime ce-ntunecime
+Ce jale mare e peste tine
+Din cer azvârle Ierusalime
+A ta podoabă o vai de tine Ierusalime
+
+[s3]
+Urgia-i mare şi e aprinsă
+Spre fiica mândră a Sionului
+Căci chiar El Domnul îi pregăteşte
+Prăpădul fiicei poporului
+3.
+Cor: Ierusalime ce-ntunecime
+Ce jale mare e peste tine
+Din cer azvârle Ierusalime
+A ta podoabă o vai de tine Ierusalime
+
+[s4]
+Şi-ncordat arcul şi-a vărsat focul
+Spre cortul fiicei Sionului
+O tu grădină eşti părăsită
+Ah adunare a Domnului
+Cor: Ierusalime ce-ntunecime
+Ce jale mare e peste tine
+Din cer azvârle Ierusalime
+A ta podoabă o vai de tine Ierusalime
+4.
+
+[s5]
+Nu-i sărbătoare şi nici sabatul
+El nimiceşte chiar pe preoţi
+O ce palate dar şi ce ziduri
+Vrăjmaşul toate le-a prăbuşit
+5.
+Cor: 	Ierusalime ce-ntunecime
+Ce jale mare e peste tine
+Din cer azvârle Ierusalime
+A ta podoabă o vai de tine Ierusalime
+
+[s6]
+Jalea se-ntinde şi le cuprinde
+Căci împăratul lege-a uitat
+Chiar şi prorocii nu au vedenii
+Pentru că Domnul nu le-a mai dat
+6.
+Cor: 	Ierusalime ce-ntunecime
+Ce jale mare e peste tine
+Din cer azvârle Ierusalime
+A ta podoabă o vai de tine Ierusalime
+
+[s7]
+Căci toţi bătrânii îşi pleacă capul
+Ei văd prăpădul care-a venit
+O vai copii tăi mor pe drumuri
+Şi lacrimile nu sunt de-ajuns
+7.
+Cor: 	Ierusalime ce-ntunecime
+Ce jale mare e peste tine
+Din cer azvârle Ierusalime
+A ta podoabă o vai de tine Ierusalime
+
+[s8]
+Rana ta-i mare Ierusalime
+Cum să te poată îmbărbăta
+Nici chiar prorocii cu a lor vedenii
+Amăgitoare ei n-au ce-ţi da
+8.
+Cor: 	Ierusalime ce-ntunecime
+Ce jale mare e peste tine
+Din cer azvârle Ierusalime
+A ta podoabă o vai de tine Ierusalime
+
+[s9]
+Nelegiuirea a fost ascunsă
+Şi văzătorii te-au înşelat
+Şi toţi vrăjmaşii tăi râd de tine
+Ierusalime pedeapsa-i grea
+9.
+Cor: 	Ierusalime ce-ntunecime
+Ce jale mare e peste tine
+Din cer azvârle Ierusalime
+A ta podoabă o vai de tine Ierusalime
+
+[s10]
+10.Căci Ieremia plângea poporul
+Domnul din ceruri spre el privea
+Şi rămăşiţa El o-ntăreşte
+Şi rana fiicei o va lega.
+Cor:	      Ierusalime ce-ntunecime
+Ce jale mare e peste tine
+Din cer azvârle Ierusalime
+A ta podoabă o vai de tine Ierusalime
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

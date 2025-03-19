@@ -1,0 +1,16 @@
+[s1]
+Tatăl nostru care ne ești în ceruri
+/: Sfințească-se numele Tău :/
+Vie-mparația Ta, facăse voia Ta
+/: Precum în cer și pe pământ :/
+
+[s2]
+/: Pâinea noastră cea de toate zilele :/
+Dă-ne-o nouă astăzi
+Și ne iartă greșelile noastre
+Precum și noi iertăm greșiților noștri
+Și nu ne duce pe noi în ispită
+/: Ci ne mântuiește :/ de cel rău.
+
+[order]
+s1,s2

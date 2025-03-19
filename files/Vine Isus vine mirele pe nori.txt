@@ -1,0 +1,38 @@
+[s1]
+E lumea în mişcare
+ceva se prevesteşte
+Pământul e-n mişcare,
+pluteşte un mister
+Răspunsul la-ntrebare:
+Isus soseşte
+Cu-alai de sărbătoare,
+cu oastea Sa din cer.
+
+[r1]
+Vine Isus, vine Mirele pe nori
+Sunteţi gata voi fecioare
+Staţi mereu în aşteptare
+Gata pentru-ntâmpinare.
+
+[s2]
+E pregătire mare,
+mireasa este gata
+Aşteaptă doar semnalul,
+stă gata pentru zbor
+Se-aude-n duh strigarea:
+O Maranata
+O vino, vino Isus
+te aşteptăm cu dor.
+
+[s3]
+Că semnele ne-arată,
+că mult nu este
+Curând se-arată zorii,
+iar noaptea s-a sfârşit
+Pe nori cu slava mare,
+Isus soseşte
+În mii şi mii de stoluri,
+cu El ne-om  întâlni.
+
+[order]
+s1,r1,s2,r1,s3,r1

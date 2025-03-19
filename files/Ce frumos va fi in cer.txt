@@ -1,0 +1,30 @@
+[s1]
+Ce frumos va fi în cer,
+Unde vreau s-ajung şi eu,
+Unde n-or mai fi dureri,
+Ci eterne mângăieri.
+
+[r1]
+Ce glorie, ce frum-seţe
+Este-n jur de tronul Lui
+Splendoarea-aceasta măreaţă,
+Nimeni s-o descrie nu-i.
+Lipsă acolo nu-i de soare.
+Noapte-acolo nicicând nu-i, nicicând nu-i,
+Cântă toţi sfinţii-n splendoare,
+Glorie fie Mielului.
+
+[s2]
+Cântă îngeri din chitară,
+Cântă mii de melodii,
+Nu-nţeleg a lor cântare,
+Numai cei din înălţimi.
+
+[s3]
+Când în cer ne vom vedea,
+Doamne în mărirea Ta,
+Lângă tronul lui ISUS,
+Ne vom bucura nespus.
+
+[order]
+s1,r1,s2,r1,s3,r1

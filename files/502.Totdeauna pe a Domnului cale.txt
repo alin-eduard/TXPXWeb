@@ -1,0 +1,39 @@
+[s1]
+1. Totdeauna pe a Domnului cale
+Au fost lupte şi au fost spini destui
+Dar acei ce au urmat voii Sale
+Trebuie să se asemene Lui.
+2. N-au iubit lumea, nu, niciodată
+Toţi acei ce au urmat pe Hristos
+Ci cu-o ură mereu ne-mpăcată
+I-a hulit, i-a lovit, i-a zdrobit.
+502.
+
+[s2]
+3.	Dar cu ochii ţintiţi la răsplată
+Din răbdarea Golgotei primind
+N-au cârtit cei aleşi niciodată
+Ci au trăit şi au murit biruind.
+4.	Nu-i la toţi într-un fel încercarea
+Nici nu-i vreme la toţi într-un fel
+Însă toţi într-un fel au chemarea
+La un preţ de dureri pentru El.
+
+[s3]
+5.	Cei ce fug sunt fricoşi la-ncercare
+Au lăsat, l-au vândut pe Isus
+Ruşinaţi s-or întoarce-n uitare
+Alungaţi de blestemul de sus.
+6.	Tu fi tare în ziua încercării
+În alegerea ta pentru har
+Strălucit eşti în haina ocării
+Răbdător când te urci pe Calvar.
+
+[s4]
+7.	Şi prin moarte umil vei culege
+Răsplătirea cerescului miel
+Căci mereu Domnul azi îşi alege
+Pe acei ce sunt vrednici de El.
+
+[order]
+s1,s2,s3,s4

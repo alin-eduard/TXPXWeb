@@ -1,0 +1,20 @@
+[s1]
+Cânt slavă-n veci lui Dumnezeu,
+Cânt slavă-n veci lui Dumnezeu.
+Cânt aleluia, cânt aleluia,
+Cânt slavă-n veci lui Dumnezeu.
+
+[s2]
+Cânt slavă singurului Fiu,
+Cânt slavă singurului Fiu.
+Cânt aleluia, cânt aleluia,
+Cânt slavă singurului Fiu.
+
+[s3]
+Cânt slavă Duhului Preasfânt,
+Cânt slavă Duhului Preasfânt.
+Cânt aleluia, Cânt aleluia,
+Cânt slavă Duhului Preasfânt.
+
+[order]
+s1,s2,s3

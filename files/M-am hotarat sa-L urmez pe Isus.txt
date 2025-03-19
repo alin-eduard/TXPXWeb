@@ -1,0 +1,22 @@
+[s1]
+M-am hotărât să-L urmez pe Isus X3
+Si inapoi eu nu voi da,
+Si inapoi eu nu voi da!
+
+[s2]
+Nimic nu mă va clinti pe cale X3
+Si inapoi eu nu voi da,
+Si inapoi eu nu voi da!
+
+[s3]
+În urmă-i lumea, ‘nainte-i Isus X3
+Si inapoi eu nu voi da,
+Si inapoi eu nu voi da!
+
+[s4]
+Renunţ la lume, dar nu la Isus X3
+Si inapoi eu nu voi da,
+Si inapoi eu nu voi da!
+
+[order]
+s1,s2,s3,s4

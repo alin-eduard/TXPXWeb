@@ -1,0 +1,26 @@
+[s1]
+/:Asa vorbeste Domnul
+cel ce te-a facut
+Dumnezeul Mare
+ce te-a intocmit. :/
+
+[r1]
+Nu te teme, nu te teme,
+Eu te izbavesc.
+Nu te teme, nu te teme,
+Eu te orotesc.
+
+[s2]
+/: Prin ape de vei trece,
+cu tine eu voi fi
+Chiar si din foc
+te voi izbavi. :/
+
+[s3]
+/: Esti de mare pret
+si ai o valoare
+Pentru tine Israel
+eu dau popoare. :/
+
+[order]
+s1,r1,s2,r1,s3,r1

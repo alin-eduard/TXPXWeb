@@ -1,0 +1,62 @@
+[s1]
+Biruitorul va primi să guste
+Din pomul vieţii cel din Paradis
+La cel’lalt capăt al cărării-nguste
+Uimit va zice:-aevea e, sau vis?…
+Căci o mărire afar’ din fire
+(:Drept moştenire ‘l-aşteaptă sus:)
+
+[s2]
+Biruitorul n-are să se teamă
+De-a doua moarte – plata celor răi,
+Căci Domnul vieţii bucuros îl cheamă Ca să urmeze veşnic paşii Săi,
+Prin suferinţă, din biruinţă
+La biruinţă mereu condus.
+
+[s3]
+Biruitorul va mânca din mana,
+Din pâinea vieţii-ascunse în Hristos,
+Şi-acei a căror asta le e hrana
+Primi-vor şi un nume nou, frumos.
+Ăst nume care e-o taină mare
+Îl ştie-oricare numai pe-al său.
+
+[s4]
+Biruitorul stând până la urmă
+În săvârşiri de fapte ce nu pier
+Stăpân pe neamuri tocmai ca pe-o turmă
+El le va paşte cu toiag de fier!
+Căci sfărâmate vor fi cu toate
+Aste regate, slugi celui rău!
+
+[s5]
+Biruitorul va primi veşminte
+Cu totul albe-n care poate sta
+La nunta slavei cu-alte feţe sfinte
+A celor scrişi de Miel în cartea Sa.
+Isus va pune ca să-i adune
+Să-i încunune atunci pe toţi.
+
+[s6]
+Biruitoru-ajunge-va să fie
+Un stâlp în templul sfânt, unde sosim,
+Şi-atunci pe el trei nume se vor scrie: Tatăl, Isus, şi-un nou Ierusalim.
+O, ce bogată, sfântă răsplată
+Primeşte-ndată intrând pe porţi!
+
+[s7]
+Biruitorul va şedea-n mărire
+Pe-acelaşi tron cu-Isus la dreapta Lui
+Precum şi Domnul tot prin pătimire A-nvins şi stă la dreapta Tatălui!
+A lui domnie are să fie
+O veşnicie de mângâieri!
+
+[s8]
+O, Doamne-ajută-mi Tu spre biruinţă,
+Vrăjmaşii-s mulţi, iar eu slăbit de tot!
+Satana, lumea, multa suferinţă
+M-au copleşit, grăbeşte, nu mai pot!
+Mi-ajuţi, ştiu bine, Tu eşti cu mine Înving prin Tine, Tu-mi dai puteri!
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

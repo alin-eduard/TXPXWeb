@@ -1,0 +1,28 @@
+[s1]
+/:Fraţi: Opreşte-te!
+Surori: Opreşte-te!:/
+Şi uită-te o clipă-n urma ta.
+/:Fraţi: Opreşte-te!
+Surori: Opreşte-te!:/
+Mai fă un singur pas şi vei cădea!
+/:De ce nu vrei s-asculţi chemarea,
+Şi să primeşti acum iertarea Domnului?:/
+
+[r1]
+/:„Vino la Mine” zice El,
+Căci anii tăi se vor sfârşi curând.
+Ca tine sunt atâţia care pier.
+Opreşte-te şi-ntoarce-te din drum.:/
+
+[s2]
+/:Fraţi: Opreşte-te!
+Surori: Opreşte-te!:/
+Naintea ta e laţul celui rău.
+/:Fraţi: Întoarce-te!
+Surori: Întoarce-te!:/
+Întoarce-te acum la Dumnezeu.
+/:El te aşteptă cu-ndurare,
+Îţi dă pace şi iertare, azi de vii!:/
+
+[order]
+s1,r1,s2,r1

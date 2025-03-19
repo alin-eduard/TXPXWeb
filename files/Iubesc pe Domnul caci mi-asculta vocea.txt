@@ -1,0 +1,20 @@
+[r1]
+Iubesc pe Domnul
+caci mi-asculta vocea
+Iubesc pe Domnul
+caci mi-asculta plansul
+Iubesc pe Domnul
+caci mi-asculta ruga
+/: Il chem mereu in orice greu :/
+
+[r2]
+/: Cheama-L si tu in viata ta
+Cheama-L mereu
+si-ai sa-i vezi puterea Sa :/
+/: Caci El este mare,
+de-aceea il iubesc,
+Caci El este mare,
+de-aceea il slujesc :/
+
+[order]
+r1,r2,r1,r2

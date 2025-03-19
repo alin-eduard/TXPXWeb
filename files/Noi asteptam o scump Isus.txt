@@ -1,0 +1,29 @@
+[s1]
+Noi aşteptăm o, scump Isus
+Cu dor, a Ta venire,
+Ca să ne iei la Tine  sus
+În sfântă nemurire.
+/: Cei ce-L aşteaptă pe Hristos :/
+Îi ies spre-ntâmpinare
+Cu bucurie mare.
+
+[s2]
+De-i viaţa grea aici la noi,
+Răbdând toţi o vom duce,
+Ne mângâiem căci pentru noi
+Ai suferit pe cruce...
+/:Cu Tine trecem noaptea grea:/
+Prin suferinţi amare
+Căci Tu ne eşti salvare!
+
+[s3]
+Te aşteptăm căci vii curând
+Şi timp mult nu mai este,
+Tresaltă inima cântând
+Această dulce veste...
+/:Şi ce va fi când Te-om vedea?:/
+Cânta-vom în mărire
+Nespusa Ta iubire.
+
+[order]
+s1,s2,s3

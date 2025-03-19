@@ -1,0 +1,41 @@
+[s1]
+1.	În cartea sfântă am citit
+Căci pe pământ a trăit
+Un om care făcea minuni
+Şi numai bine întregii lumi
+Mulţimea îl înconjura
+El cu blândeţe le vorbea
+Vestind mereu cuvântul Lui
+De o patrie cum alta nu-i.
+1375.  Do
+
+[r1]
+Cor: Era un om cum alţii nu-s
+Era un om din cer de sus
+Era un om c-o înfăţişare de nespus
+Şi oamenii la El veneau
+Şi pe bolnavi îi vindeca
+Plini de credinţă pe Isus ei îl urmau.
+
+[s2]
+2.	Isus cheama pe cei trudiţi
+Pe cei de patimi chinuiţi
+Din trup El boala le alunga
+Şi-n suflet pace le lăsa
+Vedere orbilor le-a dat
+Iertându-le a lor păcat
+Putere celor slăbănogi
+Şi vindecare la ologi.
+
+[s3]
+3.	Şi azi Isus ca şi-n trecut
+Lucrează poate chiar mai mult
+Mi-a vindecat sufletul meu
+M-a curăţit de tot ce-i rău
+Dar nu mai e jos pe pământ
+La dreapta Tatălui cel Sfânt
+S-a înălţat şi ne-a promis
+Căci ne v-a duce-n Paradis.
+
+[order]
+s1,r1,s2,r1,s3,r1

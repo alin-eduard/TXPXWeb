@@ -1,0 +1,46 @@
+[s1]
+2043
+Capul când te doare,
+cântă o cântare
+Și-ai să vezi cum te vei ușura
+Ia medicamentul,
+Biblia Testamentul
+Și citește-n ea neîncetat.
+
+[r1]
+Cor: /: Mai ridică-ți privirile-n sus
+Și privește la Domnul Isus
+Care-a stat și-a răbdat pe Calvar
+Să ne-aducă iertarea în dar :/
+
+[s2]
+2. Fă ca și ologul ca și slăbănogul
+Care prin credință a privit
+Domnul cu-ndurare
+Le-a dat vindecare
+S-a-ndurat de ei, i-a mântuit.
+
+[s3]
+3. Orice slăbiciune,
+orice amărăciune
+Care îți apasă trupul tău
+Roagă-te și cere Doamne
+dă-mi putere
+Strigă neîncetat la Dumnezeu.
+
+[s4]
+4. Rabdă încercarea,
+cere îndurarea
+Căci la urmă te vei bucura
+După ce căldura îți topește zgura
+Domnul te va binecuvânta.
+
+[s5]
+5. Domnu-i lângă tine,
+brațul Lui te ține
+Să te rogi mai mult să stăruiești
+Orice încercare cât ar fi de mare
+Prin Isus Hristos o biruiești!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

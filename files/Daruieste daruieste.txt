@@ -1,0 +1,29 @@
+[s1]
+Uneori un prieten vrea prea multe
+Crede că lui toate îi apartin
+Nu-i frumos să fii zgârcit
+sau lacom
+Isus ne-a învătat să împărtim.
+
+[r1]
+Dăruieste, dăruieste
+Mult mai bine e să dai
+Decât să primesti
+Dăruieste, dăruiste
+Bucurii vei avea când dăruiesti.
+
+[s2]
+Ti se pare greu să-mparti cu altii
+Dulciuri, jucării, hainute noi
+Tatăl meu ceresc împarte totul
+Tot ce are El poate fi si-al tău.
+
+[s3]
+Nimic din ce ai tu nu-ti apartine
+Toate le-ai primit
+de la Dumnezeu
+Deci învată si tu să fii darnic
+Vei fi răsplătit în Cerul Său.
+
+[order]
+s1,r1,s2,r1,s3,r1

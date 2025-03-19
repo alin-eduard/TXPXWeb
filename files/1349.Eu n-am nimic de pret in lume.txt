@@ -1,0 +1,33 @@
+[s1]
+1349.
+1.  Eu n-am nimic de preţ pe lume
+Numai o cruce şi un nume
+O cruce şi un nume sfânt
+Ce-l port în inimă plângând.
+Cor:Aş vrea să mă-ntâlnesc cu Tine
+Să plâng şi să-ţi spun numai Ţie
+Ce mă apasă şi mă doare
+Iar Tu să îmi dai alinare.
+
+[s2]
+2.  Aş vrea să-ţi văd eu rănile
+Să mă ating de ele Doamne
+Să-ţi văd şi coasta găurită
+Şi faţa Ta cea pălmuită.
+Cor:Aş vrea să mă-ntâlnesc cu Tine
+Să plâng şi să-ţi spun numai Ţie
+Ce mă apasă şi mă doare
+Iar Tu să îmi dai alinare.
+
+[s3]
+3.  S-aud iar vocea `ceia care
+În Ghetsimani s-a rugat
+Căci Tu eşti bun cu-adevărat
+Şi pe mine m-ai salvat.
+Cor:Aş vrea să mă-ntâlnesc cu Tine
+Să plâng şi să-ţi spun numai Ţie
+Ce mă apasă şi mă doare
+Iar Tu să îmi dai alinare.
+
+[order]
+s1,s2,s3

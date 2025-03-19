@@ -1,0 +1,51 @@
+[s1]
+1549.
+1. Te chem să vii de atâta vreme
+Să laşi pământul de aici
+Căci cerul întreg te aşteaptă
+Să nu-l pierzi când Eu voi veni.
+Cor: Au să vină multe valuri
+Şi multe-n tine au să bată
+Cu Mine nu te teme-n luptă
+Că-n luptă nu ai să cazi
+De împlineşti cuvântul vieţii
+Şi eşti cu Mine azi.
+
+[s2]
+2. De ce a ta privire astăzi
+Ţi-e-ndreptată numa-n jos
+Când Eu sunt deasupra voastră
+Şi vreau la voi să mă cobor.
+Cor: Au să vină multe valuri
+Şi multe-n tine au să bată
+Cu Mine nu te teme-n luptă
+Că-n luptă nu ai să cazi
+De împlineşti cuvântul vieţii
+Şi eşti cu Mine azi.
+
+[s3]
+3. Dezbracă-te de orice mânie
+Iuţime-n viaţa ta să n-ai
+Fii blând smerit aşa ca Mine
+Şi aşa tu n-ai să cazi.
+Cor: Au să vină multe valuri
+Şi multe-n tine au să bată
+Cu Mine nu te teme-n luptă
+Că-n luptă nu ai să cazi
+De împlineşti cuvântul vieţii
+Şi eşti cu Mine azi.
+
+[s4]
+4. Dezbracă-te de orice lucru
+Ce vremea ţi-o răpeşte acum
+Şi nu poţi fi mai sfânt în totul
+Când timpul este aşa târziu.
+Cor: Au să vină multe valuri
+Şi multe-n tine au să bată
+Cu Mine nu te teme-n luptă
+Că-n luptă nu ai să cazi
+De împlineşti cuvântul vieţii
+Şi eşti cu Mine azi.
+
+[order]
+s1,s2,s3,s4

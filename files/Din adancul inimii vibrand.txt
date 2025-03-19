@@ -1,0 +1,32 @@
+[s1]
+Din adâncul inimii vibrând
+O cântare Ţi-aduc murmurând
+În dar pe altarul Tău Sfânt.
+O vino Doamne şi mistui-acum
+Jertfa care nainte Ţi-o pun
+E tot ce am în mine mai bun.
+Şi lasă Duhul Tău Sfânt
+Să m-ating-acum.
+
+[r1]
+Vreau ca şi Maria,
+Să Ţi-aduc ce am mai bun.
+Din a mea viaţă,
+Al iubirii scump acum.
+În ochii Tăi blânzi,
+Vreau acum să privesc.
+Şi să-Ţi şoptesc:
+„O! Isuse te iubesc!”
+
+[s2]
+În palma Ta mâna-mi pun acum,
+Să fiu alături cu Tine pe drum,
+Să-Ţi cânt Isus că m-ai salvat.
+Îţi mulţumesc că Tu-ai şi iertat
+Cu mila Ta cumplitu-mi păcat
+O! Doamne cât e de-adevărat.
+Că Tu eşti drept, credincios
+minunat.
+
+[order]
+s1,r1,s2,r1

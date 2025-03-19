@@ -1,0 +1,27 @@
+[s1]
+Esti intristat si greu apastat?
+In credinta esti incercat?
+Inalta ochii spre ajutor
+E Isus al tau salvator!
+
+[s2]
+/: Ridica-te esti salvat prin Isus
+Tu poti sa fii fericit,
+Ridica-te esti salvat prin Isus
+Mantuirea ti-a oferit :/
+
+[s3]
+Poti prin credinta la El sa vii,
+Cu drag Isus te va primi
+El va raspunde cand vei striga
+Isus te va elibera!
+
+[s4]
+/: Ridica-te esti salvat prin Isus
+Tu poti sa fii fericit,
+Ridica-te esti salvat prin Isus
+Mantuirea ti-a oferit :/
+Te ridica esti salvat prin Isus
+
+[order]
+s1,s2,s3,s4

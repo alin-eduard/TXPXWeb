@@ -1,0 +1,38 @@
+[s1]
+Apostolul Pavel vorbeşte,
+Al său sfât se-ndreaptă spre Tit;
+Pe Tit, Pavel îl sfătuieşte
+Ca pe-al său copil preaiubit:
+
+[s2]
+Tu, dă-te pe tine exemplu,
+Să fii un exemplu model
+În vorbe, în fapte, şi-n templu
+Să umbli ca Domnul, la fel!
+
+[s3]
+Căci darul cel fără de plată
+Şi harul ce s-a arătat
+Ne cheamă la viaţă curată,
+La viaţa fără de păcat.
+
+[s4]
+Învaţă să ştie şi alţii
+Că Domnul pe Sine S-a dat;
+Tu spune, să ştie toţi fraţii
+Că Domnul ne-a răscumpărat!
+
+[s5]
+Învaţă şi mustră şi spune:
+„În evlavie să trăiţi!
+De poftele ce sunt în lume,
+De pofte, cu toţi să fugiţi!"
+
+[s6]
+Trăiţi sentimentul cel mare,
+Nădejdea slavitei veniri!
+Staţi gata, staţi în aşteptare
+Şi-n hainele sfinte-i iubiri."
+
+[order]
+s1,s2,s3,s4,s5,s6

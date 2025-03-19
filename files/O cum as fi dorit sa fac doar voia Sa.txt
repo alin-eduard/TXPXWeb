@@ -1,0 +1,31 @@
+[s1]
+O, cum aş fi dorit
+să fac doar voia Sa
+Cu banul meu, cu timpul meu,
+cu viaţa mea!
+Dar atunci eu, doar eu
+eram zeul meu
+Nu puteam să cred
+atunci de Dumnezeu.
+
+[r1]
+Cu mainile goale
+iată cum El m-a dorit!
+El e Stăpînul,
+naintea Lui am părăsit
+Căile mele, tot ce-i al meu
+Viaţa El mi-a umplut
+apoi cu Duhul Său.
+
+[s2]
+Cu noi El a trăit,
+dar averi El n-a dorit
+Chiar şi viaţa El Şi-a dat
+pentru ai Săi.
+Şi tot ce noi I-am dat în schimb
+a fost o cruce grea
+Piroane mari în mîini,
+moartea pe Golgota.
+
+[order]
+s1,r1,s2,r1

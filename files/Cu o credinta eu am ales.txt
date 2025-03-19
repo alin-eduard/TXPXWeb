@@ -1,0 +1,24 @@
+[s1]
+Cu o credinţă eu am ales
+Un drum ce duce în cerul de veci.
+Într-o credinţă eu mi-am găsit
+Mântuitorul meu.
+
+[r1]
+/: Credinţa-n Domnul meu Isus
+E-o preţuire de nespus
+Cuvântul Lui m-a luminat
+Cu Dumnezeu m-a împăcat. :/
+
+[s2]
+În Cartea Vieţii e numele meu
+Şi-n veşnicie voi fi şi eu.
+Mântuitorul meu personal
+Salvare El mi-a dat.
+Cu haină albă m-a îmbrăcat
+Şi în Hristos eu m-am botezat.
+C-o viaţă nouă eu m-am ales
+De azi şi până-n veci.
+
+[order]
+s1,r1,s2,r1

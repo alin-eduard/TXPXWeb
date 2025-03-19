@@ -1,0 +1,46 @@
+[s1]
+Sol
+1. Isuse-al meu prieten scump,
+Din zorii tinereţii,
+/:Cu Tine eu călătoresc,
+Pân’ la sfârşitul vieţii.:/
+159.
+
+[s2]
+2.Din zori de zi, când mă trezesc,
+Smerit m-aplec sub cruce,
+/:Că-n toată lumea asta n-am
+Un scut mai bun şi dulce. :/
+
+[s3]
+3. Când merg pe-un drum îndepărtat
+Isuse, eşti cu mine.
+/:Să fie drumul cât de greu,
+E-aşa uşor cu Tine.:/
+
+[s4]
+4.Când am de suferit un chin
+Tu, Doamne,-mi dai putere;
+/:Şi fie amarul cât de greu
+Eu simt o mângâiere!:/
+
+[s5]
+5. Şi nu mă tem că voi pieri
+În marea de păcate,
+/:Căci Tu, preabunul meu Isus
+Mă izbăveşti din toate.:/
+
+[s6]
+6. Tu-mi eşti comoara care-a fost
+De mine mult căutată
+/:Și-acum eu nu Te-aş mai lăsa
+Nici pentru lumea toată.:/
+
+[s7]
+7. Căci Tu-mi eşti frate de pribeag,
+De cânt şi de suspine.
+/:Isuse, al meu prieten drag,
+Ce bine-i lângă Tine!	:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

@@ -1,0 +1,24 @@
+[s1]
+Eu am nădejdea că vine-o zi,
+Când pacea în Isus o voi afla.
+Când lumea-n urmă cu tot ce este-al ei,
+Eu voi lăsa spre ceruri voi zbura.
+
+[r1]
+/: Merg către Ţara de sus,
+Ţinta mea e Isus.
+Dureri, probleme-ncercări
+sunt trepte pe care urc.
+Un singur dor am în pieptul meu.
+Lacrimi curg şi îmi este greu.
+Merg către Ţara de sus,
+Ţinta mea e Isus. :/
+
+[s2]
+Eu am nădejdea că sufletul,
+Va ancora-n odihna Mielului.
+Şi-atunci iubirea ce fără de sfârşit,
+Va mângâia drumeţul obosit.
+
+[order]
+s1,r1,s2,r1

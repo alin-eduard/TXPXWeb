@@ -1,0 +1,43 @@
+[s1]
+1950
+1. Mai lasă-mă Stăpâne
+Aş vrea să mă ascund
+La crucea Ta divină
+Aş vrea din nou s-ajung
+/: A Ta mână străpunsă
+Aş vrea să o ating
+Şi-n taină atunci Stăpâne
+Acolo jos să plâng :/.
+
+[s2]
+2. Rabunii ca Maria
+Aş vrea din nou să-ţi spun
+Şi şoapta Ta divină
+Aş vrea din nou s-aud
+/: Aicea unde sfinţii
+Din lume se adun
+Miresmele iubirii
+La crucea Ta se adun :/.
+
+[s3]
+3. Mai lasă-mă Stăpâne
+Din nou chipul să-ţi văd
+Alungă de la mine
+Mahrama, negru văl
+/: Şi raza de lumină
+În rugă azi îţi cer
+S-o laşi să ne pătrundă
+Ca să vedem în cer :/.
+
+[s4]
+4. Să îţi vedem domnia
+Şi fericitul rai
+Ce sfinţilor din lume
+Le-ai spus că-n dar le dai
+/: O lasă-mă Stăpâne
+Şi eu pe noul plai
+Să-ţi cânt noua cântare
+În slava ce o ai :/.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,27 @@
+[s1]
+Astăzi este-o zi de sărbătoare, eşti invitat şi tu la ea.
+Sărbătoritul în curând apare, şi va aduce şi iertarea ta.
+Tu poţi să o accepţi sau poţi respinge,
+Aici depinde doar de voia ta.
+E-o şansă care azi ţi se deschide,
+Şi te îndemn tu nu o refuza.
+
+[r1]
+Iertat!
+Iertat şi-o nouă viaţă,
+Iertat!
+Iertat şi-un nou destin.
+Isus!
+Isus îţi dă o şansă,
+Te rog grăbeşte şi acuma vin’.
+
+[s2]
+Isus e-Acela care dă iertare, vino azi nu amâna!
+El iartă păcătoşii care se recunosc şi vin în faţa Sa.
+Fii înţelept şi recunoaşte-ţi vina,
+El poate azi a te salva.
+Şi poţi acum şi pentru totdeauna,
+Să-L ai pe El stăpân în viaţa ta.
+
+[order]
+s1,r1,s2,r1

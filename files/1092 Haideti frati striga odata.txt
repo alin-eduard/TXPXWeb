@@ -1,0 +1,51 @@
+[s1]
+Haideţi fraţi striga odată
+De pe ziduri Neemia,
+/ : Să privim lucrarea sfântă
+Cu ciocanul şi mistria. : /
+Pentru toţi cei dragi ai voştri
+Haideţi sus pe schela-naltă,
+/ : Cu povoara într-o mână
+Şi cu suliţa-n cealaltă. : /
+1.
+2.
+1092.Mi
+
+[s2]
+Haideţi fraţi căci vremea zboară
+N-ascultaţi a lumii vrajă
+/ : Ziua să lucrăm pe ziduri
+Noaptea să veghem de strajă. : /
+Toţi acei ce stau deoparte
+Când e vremea ţării sfinte
+/ : N-or avea nici drept nici parte
+Nici de-aducere aminte. : /
+3.
+4.
+
+[s3]
+Azi lucrarea e întinsă
+Şi zidirea nu-i uşoară
+/ : Totuşi nimeni să nu iasă
+Din Ierusalim afară : /
+Puneţi piatră lângă piatră
+Să răsune-n inimi strune
+/ : Iar când trâmbiţa vă cheamă
+Toţi în luptă să fiţi una : /
+5.
+6.
+
+[s4]
+Haideţi fraţi să spunem astăzi
+Mai voioşi ca Neemia
+/ : Căci acum zidim cetatea
+Ce-o străbate veşnicia : /
+Iar când zidul va fi gata
+Însuşi Meşterul cel mare
+/ : Ne va duce sus în slavă
+Pentru marea sărbătoare : /
+7.
+8.
+
+[order]
+s1,s2,s3,s4

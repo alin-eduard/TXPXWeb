@@ -1,0 +1,51 @@
+[s1]
+1582 re m
+1. Pe calea vietii tale iubite călător
+Prin valea umbrei
+Morții cu suspine
+De ce oftezi adesea
+În deznădejde cazi
+Și crezi că izbăvirea nu mai vine.
+
+[r1]
+Cor: Să nu spui niciodată
+Sunt uitat
+Căci Domnul înspre
+Tine El privește
+/: Când urlă valul înfuriat
+Și ai obrazul înlăcrimat
+El mâna întinde
+Și te izbăvește :/
+
+[s2]
+2. Când treci o lupta grea
+Și alta vine în loc
+Și-ți pierzi puterea
+Ce-o aveai în tine
+Când cel rău îți șoptește
+Acuma ești învins
+Încrede-te în Domnul
+O, creștine!
+
+[s3]
+3. Privește în urma ta
+Cum El te-a izbăvit
+De atâtea ori
+Din clipe de durere
+Isus Hristos e același
+Și ieri și azi și în veci
+Mai crede încă-o dată-n
+a Sa putere.
+
+[s4]
+4. Mai este doar puțin
+Și toate s-or sfârși
+Și lacrimi și dureri,
+Și clipe amare
+Mai rabdă încă un ceas
+Isus vine în curând
+Să-i ia pe ai Săi
+În veșnică splendoare.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,26 @@
+[r1]
+M-am depărtat de Domnul meu
+Îmi plîng păcatul şi vina mea.
+Să-mi dai iertare azi Te rog
+E rugăciunea din noaptea grea.
+
+[s1]
+Vin aşa cum sînt, azi
+naintea Ta şi mă închin
+Gol mi-e sufletul,
+dar mă mai iubeşti şi mai sper.
+
+[s2]
+Văd lăuntrul meu
+şi mă cercetez, şi mă-ngrozesc
+Vin aşa cum sînt,
+sînt un păcătos, iartă-mă!
+
+[s3]
+Dulce Ţi-e iubirea, vreau s-o simt
+din nou în viaţa mea
+Ştiu că mă iubeşti şi că mai
+primeşti un fiu pierdut.
+
+[order]
+r1,s1,r1,s2,r1,s3,r1

@@ -1,0 +1,43 @@
+[s1]
+1558.
+Mai rabdă o mai rabdă
+Mai rabdă nu te clătina
+De ce-ai uitat de jurământul
+Ce-ai spus că nu te vei lăsa
+/: Cum poate-o mamă ca să-şi uite
+Copilul ce l-a alăptat
+Şi chiar și dacă ea îl uită
+Eu nici atunci nu te-oi uita :/
+
+[s2]
+2. Cel ce rabdă şi iubeşte
+Cuvântul Meu cu răbdare
+Şi Eu îl voi păzi atuncea
+În ceasul de încercare
+/: Păstrează dar întotdeauna
+Veghează asupra ta oricând
+Ca nimeni să nu-ţi ia cununa
+Căci iată că Eu vin curând :/
+
+[s3]
+3. Fii gata dar în orice vreme
+Mijlocul să-ţi fie încins
+Îmbracă-te-n podoabe Sfinte
+Focul să nu-ţi fie stins
+/: Scut şi pavăză este Domnul
+Un adăpost din veşnicii
+Şi acel ce rabdă şi veghează
+La umbra Lui s-a odihni :/
+
+[s4]
+4. Curând şi ziua ta soseşte
+Și noaptea neagră s-a sfârşi
+De suferinţă şi durere
+Acolo te vei odihni
+/: Acel ce rabdă şi veghează
+Va birui pân’ la sfârşit
+El va purta a lui cunună
+Un nume nou necontenit :/
+
+[order]
+s1,s2,s3,s4

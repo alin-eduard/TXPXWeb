@@ -1,0 +1,37 @@
+[s1]
+Sună Biblia-n glas tare,
+Pe uscat ca şi pe mare
+V-adunaţi toţi laolaltă
+Cercetaţi scriptura toată,
+voi, voi, voi, fraţilor!
+
+[s2]
+Scriptura e cartea sfânta
+De profeţi alcătuita
+Câte naţii sunt pe lume
+Vin la El, la toţi le spune
+Eu, Eu, Eu, Acel sfânt
+
+[s3]
+Veniţi fraţilor cu mine!
+Eu acela ce fac bine
+Pentru voi, Eu m-am jertfit
+Sus pe cruce răstignit
+Eu, Eu, Eu, Acel Sfânt
+
+[s4]
+Cine-n calea mea va umbla
+în intuneric nu va sta
+Eu sunt calea şi-adevărul,
+Eu sunt Lumina din ceruri
+Eu, Eu, Eu, Acel sfânt.
+
+[s5]
+Eu sunt alfa şi omega
+începutul si sfarşitul
+Eu sunt piatra unghiulară,
+Dintre vechile hotare.
+Eu, Eu, Eu, Acel sfânt
+
+[order]
+s1,s2,s3,s4,s5

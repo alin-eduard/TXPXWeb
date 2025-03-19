@@ -1,0 +1,18 @@
+[s1]
+O, fă-mă un instrument
+Un instrument de laudă
+Isuse, eu laudă să-Ţi cânt.
+O, fă-mă o harfă
+O, harfă de laudă
+Isuse, să Te proslăvesc.
+
+[s2]
+O, dă-ne iubirea
+Iubirea ce-ai vrut-o
+Isuse, să fie-ntre noi.
+Cânta-voi un cânt nou
+Un cânt nou de laudă
+Iubirii ce ne-ai dăruit.
+
+[order]
+s1,s2

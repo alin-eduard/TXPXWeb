@@ -1,0 +1,23 @@
+[s1]
+/: Aleluia :/
+Cânt lui Hristos, El ne va elibera
+Va reveni, iar în Slavă
+Şi viaţă venişcă, ne va dărui
+/: Aleluia :/
+
+[s2]
+/: Aleluia :/
+Cânt lui Hristos, El ne va reînflori
+Orice speranţă pierdută
+Toată fiinţa, în El va reînvia
+/: Aleluia :/
+
+[s3]
+/: Aleluia :/
+Cânt lui Hristos, intr-o zi va reveni
+La toţi cei care-L aşteaptă
+Va fi lumină, în Cer şi pe pământ
+/: Aleluia :/
+
+[order]
+s1,s2,s3

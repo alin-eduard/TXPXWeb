@@ -1,0 +1,38 @@
+[s1]
+De ce ades` mi-e dat pe cale
+Să-ndur dureri în fel şi fel;
+De ce-s lipsit adesea oare?
+Eu nu-nţeleg, dar ştie El!
+
+[s2]
+Din pâinea mea am dat altora
+Făr`să mă tem că mă înşel,
+Răsplata? M-am ales cu piatra.
+De ce-i aşa? O ştie El!
+
+[s3]
+Când moartea luptă pe-ndelete
+Să rupă-al dragostei inel,
+Rămân copii sărmani pe drumuri.
+De ce-i aşa? O ştie El!
+
+[s4]
+Când m-am luptat cu valul vieţii
+Şi când era s-ajung la ţel,
+Mă văd cu barca sfărâmată,
+De ce-i aşa? O ştie El!
+
+[s5]
+Eu nu-nţeleg dar ţin întruna,
+Crezând cu patimă şi zel,
+Că multe din ce mi se-ntâmplă
+Eu nu pricep, dar ştie El.
+
+[s6]
+Şi când trezi-mă-voi în ceruri,
+Cu EL în marele castel;
+Mă voi mira cum de-s acolo
+Eu nu-nţeleg, dar ştie El!
+
+[order]
+s1,s2,s3,s4,s5,s6

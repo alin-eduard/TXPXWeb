@@ -1,0 +1,26 @@
+[s1]
+Vino la Isus, nu-ntârzia,
+Acceptă-n totul doar voia Sa;
+El este gata sprijin aţi da,
+Deci lasă tot şi vin’!
+
+[r1]
+Ce plăcut va fi şi minunat
+Când, scăpaţi de tot ce e păcat,
+Vom fi cu Domnul neîncetat.
+O, Doamne, iată vin!
+
+[s2]
+Vino, ascultă de-al Lui cuvânt,
+Inima dă-I-o numaidecât
+El este scutul tău orişicând,
+Deci lasă tot şi vin’!
+
+[s3]
+O, crede numai, nu te-ndoi,
+Cu siguranţă te va primi .
+Şi pentru tine El Se jertfi,
+Eşti păcătos, deci vin’!
+
+[order]
+s1,r1,s2,r1,s3,r1

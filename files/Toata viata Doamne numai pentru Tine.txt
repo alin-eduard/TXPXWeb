@@ -1,0 +1,61 @@
+[s1]
+Toată viata,
+Doamne, numai
+Pentru Tine
+As cânta, as cânta,
+As cânta cu toate
+Strunele din mine,
+Ca si David as cânta.
+
+[s2]
+As cânta, as cânta,
+Ca si David as cânta
+As cânta, as cânta,
+Toată viata as cânta!
+
+[s3]
+Toată viata
+Pentru acei de
+Lângă mine
+M-as ruga, m-as ruga,
+Să se întoarcă, să Te caute pe Tine,
+Ca si Moise m-as ruga.
+
+[s4]
+M-as ruga, m-as ruga,
+Ca si Moise m-as ruga.
+M-as ruga, m-as ruga
+Toată viata m-as ruga!
+
+[s5]
+Toata viata,
+Doamne as privi la Tine,
+As privi, as privi
+Frumusetea Ta
+P-o pot aduce-n mine,
+Ca Ioan Te-as tot privi.
+
+[s6]
+Te-as privi, Te-as privi
+Ca Ioan Te-as tot privi.
+Te-as privi, Te-as privi
+Toată viata Te-as privi!
+
+[s7]
+Pune Doamne,
+Duhul Tău
+Cel Sfânt în mine,
+Să pot plânge,
+Să pot plânge
+Pentru lumea
+Care piere fără Tine,
+Să pot plânge ca Isus.
+
+[s8]
+/: Să pot plânge :/
+Să pot plânge ca Isus.
+/: Să pot plânge :/
+După Tine scump Isus!
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

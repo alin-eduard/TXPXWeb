@@ -1,0 +1,50 @@
+[s1]
+1. Va veni Domnul
+Când nici nu o să ştii
+Şi vei zbura
+Sus în cer spre veşnicii
+839. Fa
+
+[s2]
+Te-ai pregătit ca să zbori
+Cu Duhul Sfânt?
+Ai încheiat tu cu cerul legământ?
+
+[r1]
+Ref: Ziua nu-i departe
+Ia aminte soră, frate
+Ziua aceea-i mai aproape
+Azi ca oricând
+
+[r2]
+Dumnezeu aşteaptă
+Şi răsplata-ţi va fi dreaptă
+Nu uitaţi de mântuirea
+Voastră-acum
+
+[s3]
+2. Domnul iubeşte
+Pe cei neprihăniţi
+Veniţi cu toţi
+Azi la El fiţi fericiţi
+
+[s4]
+Domnul păzeşte
+Pe toţi cei ce-L iubesc.
+El dă viaţă
+În cerul cel de veci
+
+[s5]
+3. Zilele trec ca şi
+gându-n veşnicii
+Şi Dumnezeu
+Te aşteaptă ca să vii
+
+[s6]
+Ziua de mâine
+Poate nu-i a ta
+Întoarce-te la credinţă,
+Nu uita!
+
+[order]
+s1,s2,r1,r2,s3,s4,r1,r2,s5,s6,r1,r2

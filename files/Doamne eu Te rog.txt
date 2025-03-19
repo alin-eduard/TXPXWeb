@@ -1,0 +1,19 @@
+[s1]
+Doamne, eu Te rog,
+Ascultă glasul meu
+Din adânc Te chem
+Chiar de la marginea lumii.
+
+[s2]
+Şi-atunci când inima mi-e grea
+Du-mă pe stânca
+Ce n-o pot urca!
+
+[s3]
+Doamne, vreau s-alerg
+Sub aripile Tale
+Tu-mi eşti adăpost
+Şi turnul meu de scăpare.
+
+[order]
+s1,s2,s3

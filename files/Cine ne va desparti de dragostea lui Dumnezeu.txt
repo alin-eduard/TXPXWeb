@@ -1,0 +1,40 @@
+[r1]
+Cine ne va despărţi
+de dragostea lui Dumnezeu
+Pe care ne-a arătat-o El
+prin Isus, Fiul Său ?
+Nimeni nu ne va despărţi
+de dragostea lui Dumnezeu
+Pe care ne-a arătat-o El
+prin Isus, Fiul Său !
+
+[s1]
+Nici necazul, nici stramtoarea
+Nici prigoana şi nici foamea
+Nici primejdia şi nici sabia
+Nici viaţa şi nici moartea.
+
+[s2]
+Nici prezentul şi nici viitorul
+Nici adîncimea şi nici înălţimea
+Nici stăpînirea, nici vreun înger
+Nici vreo altă fiinţă.
+
+[s3]
+Cine ne va despărţi
+de dragostea lui Dumnezeu
+Pe care ne-a arătat-o El
+prin Isus, Fiul Său?
+Nimeni nu ne va despărţi
+de dragostea lui Dumnezeu
+Pe care ne-a arătat-o El
+prin Isus, Fiul Său!
+
+[s4]
+Căci ştim bine: toate lucrează
+Înspre binele celor care
+Îl iubesc pe Dumnezeu
+Ca să reflecte chipul Său.
+
+[order]
+r1,s1,r1,s2,s3,s4

@@ -1,0 +1,39 @@
+[s1]
+1228
+Din Sion un glas porneşte
+Şi ne cheamă la Isus
+Veniţi astăzi cu grăbire
+De unde Satan ne-a dus
+Vine ziua judecăţii
+Când tot omul va vedea
+Ce vor moşteni nedrepţii
+Amarul şi durerea
+1.
+2.
+
+[s2]
+Ce veţi face în ziua aceea
+Atunci când veţi învia
+Voi ce n-aveţi Duhul vieţii
+Veţi plânge şi veţi ofta
+Dacă Duhul voi Îl cereţi
+Domnul nu întârzie a da
+Dar cu El voi ce veţi face
+Mereu Îl veţi întrista
+3.
+4.
+
+[s3]
+De-L veţi întrista întruna
+Domnul iarăşi va lua
+Vai de voi va fi atunci
+Că nu-L veţi mai căpăta
+Nu iubiţi faptele lumii
+Lumea nu-şi poartă crucea
+Ea îi face numai semnul
+Dar a suferi nu vrea
+5.
+6.
+
+[order]
+s1,s2,s3

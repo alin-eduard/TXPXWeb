@@ -1,0 +1,49 @@
+[s1]
+1.	A venit demult de sus
+Păstorul cel blând Isus
+/: Şi prin lume a umblat
+Oi pierdute a căutat :/.
+2.	Să le ducă la izvoare
+Ca de sete să nu moară
+/:Uşa le-a deschis să iasă
+La păşunea cea aleasă:/.
+775.Re b m
+
+[s2]
+3.	Dar oile n-ascultau
+Cu capul se repezeau
+/:Cu coarnele L-au împuns
+Şi în coastă L-au străpuns:/.
+4.	De a curs apă şi mult sânge
+Cerul a-nceput a plânge
+/:Soarele s-a întunecat
+Luna-n sânge s-a schimbat:/.
+
+[s3]
+5.	Acum El e dus din lume
+Să afle la oi păşune
+/:Şi poruncă a lăsat
+Oilor ce au păşunat:/.
+6.	Ca oile cele bune
+Laolaltă să se adune
+/:Lupul să nu le mănânce
+Tâlharii să nu le strice:/.
+
+[s4]
+7.	Păstorul cel blând şi bun
+În ceruri e dus acum
+/:Dar peste puţină vreme
+Vine iară să le cheme:/.
+8.	Să le ducă-ntr-o grădină
+Unde vor avea odihnă
+/:Acolo-n pace vor fi
+Mai mult n-or mai flămânzi:/.
+
+[s5]
+9.	Nici nu vor mai rătăci
+Căci Domnul le va păzi
+/:Şi va fi în viitor
+Iar o turmă şi un păstor:/.
+
+[order]
+s1,s2,s3,s4,s5

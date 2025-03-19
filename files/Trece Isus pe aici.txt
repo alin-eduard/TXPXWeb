@@ -1,0 +1,31 @@
+[s1]
+De eşti trudit şi ţi-e grea povara
+N-ai vrea tu astăzi să te ridici?
+Astăzi e clipa hotărâtoare
+Trece Isus pe aici.
+
+[r1]
+/:Trece Isus pe-aici:/
+Cheamă-L şi cere-I îndurare
+Trece Isus pe-aici.
+
+[s2]
+Vei refuza marea Sa iubire
+Sau vei veni după har să strigi?
+Iată alţii găsesc salvare
+Trece Isus pe-aici !
+
+[s3]
+Ce vrei să-ţi fac azi Isus te-ntreabă
+Ţi-a auzit tristul tău oftat,
+Vino şi spune-I ce te-apasă
+Să fii eliberat.
+
+[s4]
+Trece Isus azi prin adunare
+Nu vrei de haina Lui să te-atingi?
+Are putere de vindecare
+Trece Isus pe-aici!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

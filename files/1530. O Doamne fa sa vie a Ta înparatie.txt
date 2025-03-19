@@ -1,0 +1,81 @@
+[s1]
+1.  O Doamne fă să vie a Ta împărăţie
+Şi voia Ta să fie
+De acum pe acest pământ
+Ne iarta Tu de toate
+De orisice păcat
+Şi dă-ne libertate
+Prin Duhul Tău cel Sfânt
+1530 Re
+
+[r1]
+Cor: Precum în cer şi pe pământ
+Am vrea o Doamne  Tată Sfânt
+Ca să se facă voia Ta
+Să nu mai fie lumea rea
+Să fie numai oameni buni
+Să fie cânt şi rugăciuni
+Să fie dragoste-n cuvânt
+Precum în cer şi pe pământ
+
+[s2]
+2. Căci voia Ta o Tată
+Am vrea în lumea toată
+Să fie arătată
+Şi toţi s-o înplinim
+Să nu mai fie ură în lume şi natură
+Şi toţi după scriptură
+De-acum să trăim
+
+[s3]
+3. O Doamne fă să crească
+Iubirea Ta cerească
+Pe toţi să ne sfinţească
+Căci Doamne Tu eşti sfânt
+În numele Tău mare să aibă fiecare
+Şi pâine de mâncare
+Şi hrană din cuvânt
+
+[s4]
+4. Când lumea ne invită
+Pe calea rătăcită
+Ne scapă de ispită
+Şi dă-ne harul Tău
+C-a Ta e-mpărăţia şi slava, veşnicia
+O dă-ne bucuria
+Căci Tu eşti Dumnezeu
+
+[s5]
+5. Să nu ne biruiască
+Dorinţa cea lumească
+Iubirea Ta cerească
+Revars-o în şuvoi
+Precum în ceruri sfinte
+Am vrea şi noi Părinte
+Ca să-ţi aduci aminte
+O Doamne şi de noi
+
+[s6]
+6. Ajută-ne o Tată ca viaţa noastră toată
+Să fie nepătată
+Doar Ţie să-ţi slujim
+O iartă-ne greşală păcatul îndoiala
+Şi vindecă-ne boala
+De care suferim
+
+[s7]
+7. Iubirea Ta cea mare
+Să schimbe orice stare
+Să dăm şi noi iertare
+La cei ce ne-au greşit
+Când lumea ne-ameninţă
+Tu dă-ne biruinţă
+Să-nvingem prin credinţă
+Necazuri şi-ncercări
+Căci mila biruieşte
+O Doamne ne fereşte
+De ura care creşte
+Şi face dezbinări
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1

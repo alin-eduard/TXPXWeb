@@ -1,0 +1,49 @@
+[s1]
+1. De Hristos eu sunt trimis
+Şi Duhul Sfânt mă numesc
+Ca să pregătesc poporul
+/: Şi să-l duc în cer la Domnul :/
+2. Mireasa mea, scumpă mireasă
+Ah, demult te-aştept acasă
+În palatul strălucit
+/: Care ţi l-am pregătit :/
+697.
+
+[s2]
+3. Eu ţi-am pregătit o haină
+Cu care te-oi îmbrăca
+Haină albă şi subţire
+/: Fapte de neprihănire :/
+4. Şi ţesută la gherghef
+Cât de mult eu te aştept
+O, mireasa mea iubită
+/: Care-n cer vei fi răpită :/
+
+[s3]
+5. Şi ţi-oi şterge lacrima
+Şi apoi te-oi cununa
+Cu Fiul lui Dumnezeu
+/: Ce-a murit în locul tău :/
+6. Isuse de ce-ntârzii
+Că te-aşteaptă ai Tăi copii
+Doamne de ce zăboveşti
+/: Că de mult eu Te aştept :/
+
+[s4]
+7. Cu ochii privesc în sus
+Te aştept cu drag Isus
+Tu să ne iei sarcina
+/: Şi să ne dai cununa :/
+8. Doamne am o rugăminte
+Şi te rog foarte fierbinte
+Nu ne lăsa aţipind
+/: Până te-om vedea venind :/
+
+[s5]
+9. Însoţiţi de slavă mare
+Să-ţi ieşim întâmpinare
+Să te-ntâmpinăm cu dor
+/: Scumpul nost' Mântuitor :/.
+
+[order]
+s1,s2,s3,s4,s5

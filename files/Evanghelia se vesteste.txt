@@ -1,0 +1,32 @@
+[s1]
+Evanghelia se vesteşte
+Omule te pocăieşte
+/: Şi vino :/ La Domnul Sfînt!
+
+[s2]
+Astăzi eşti în libertate
+Şi tu mergi pe căi stricate
+/: N-aştepta :/ Nu-ntîrzia !
+
+[s3]
+Căci răul cel blestemat
+Te ţine-n cursă legat
+/: Şi rîde :/ Că te-a-nşelat.
+
+[s4]
+De nu vii la pocăinţă
+Vei avea mare căinţă!
+/: N-amîna :/ Nu-ntîrzia!
+
+[s5]
+Deschide-ţi inima, frate
+Şi vino la libertate!
+/: Ca să ai :/ Mîntuire.
+
+[s6]
+Astăzi Hristos te primeşte
+Plînge şi te pocăieşte!
+/: Ca să ai :/ Mîntuire.
+
+[order]
+s1,s2,s3,s4,s5,s6

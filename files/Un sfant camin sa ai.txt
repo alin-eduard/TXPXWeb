@@ -1,0 +1,35 @@
+[s1]
+Un sfânt camin să ai
+şi-un drum frumos
+Un trai curat şi-un mers sfânt in Hristos.
+
+[s2]
+/: O cale numai flori
+O noapte numai zori
+Așa-ti dorim, așa
+La nunta ta ! :/
+
+[s3]
+Să ai un trai senin,
+frumos şi lin
+Să treci prin orice greu
+cu chip senin.
+
+[s4]
+/: Cu suflet fericit
+Cu duhul linistit
+Asa-ti dorim, asa
+La nunta ta ! :/
+
+[s5]
+Mai binecuvântat să fii mereu
+Mai drept şi credincios lui Dumnezeu.
+
+[s6]
+/: In jurul tau să poti
+Să fericesti pe toti
+Şi să-i îndrepti mereu
+Spre Dumnezeu. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

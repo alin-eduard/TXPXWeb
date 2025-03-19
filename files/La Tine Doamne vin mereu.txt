@@ -1,0 +1,40 @@
+[s1]
+La Tine, Doamne, vin mereu
+Mîntuitorul meu
+Cu sufletul, cu inima
+Şi cu viaţa mea.
+Tu rugăciunea mi-o asculţi
+În fiecare zi
+Iar drept răspuns Tu-mi dăruieşti
+Nespuse bucurii.
+
+[r1]
+Doamne, Tu îmi eşti izvorul meu
+de bucurii
+Tu eşti Soarele iubirii mele, zi de zi.
+Doamne, Tu îmi eşti viaţa
+şi lumina mea
+Tu mă ocroteşti întruna prin iubirea Ta.
+
+[s2]
+Mi-ajunge numai să rostesc
+Numele Tău, Isus
+Cu Duhul Sfînt Tu mă-nconjori
+Şi mă-ocroteşti de sus.
+Cînd Soarele răsare-n zori
+Cu dragoste Tu mă-mbii
+Cu raza lui Tu-mi dăruieşti
+Nespuse bucurii.
+
+[s3]
+La Tine, Doamne, vin mereu
+Mîntuitorul meu
+Tu eşti alesul inimii
+Şi-aşa mereu vei fi.
+Te simt prezent în viaţa mea
+În fiecare zi
+De-aceea, Doamne, Tu rămîi
+Izvor de bucurii.
+
+[order]
+s1,r1,s2,r1,s3,r1

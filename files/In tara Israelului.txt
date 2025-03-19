@@ -1,0 +1,28 @@
+[s1]
+În ţara Israelului
+Acuma-s două mii de ani
+Trăia un om ce se numea
+Isus, Mântuitorul sfânt.
+În ţara Israel trăi
+Isus treizeci şi trei de ani
+Făcea minuni şi vindeca
+Pe oameni învăţa.
+
+[r1]
+Îţi cântăm, Te lăudăm
+Isus, eşti minunat !
+Viaţă veşnică ne-ai dat
+Ce har, ce har, ce har minunat!
+
+[s2]
+Cu gloate au venit preoţi
+Cărturari şi farisei
+Să-L urce ca pe un tâlhar
+La moarte pe Calvar.
+Vândut a fost şi chinuit
+Aşa nevinovat
+Pe cruce El muri străpuns
+Pentru al meu păcat.
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,50 @@
+[s1]
+Dumnezeu a săddit o grădină
+/: În Eden :/
+Aşezându-l pe om cu iubire
+/: În Eden :/
+
+[s2]
+/: Fericit :/ pe deplin fericit
+În Eden omul trăia
+/: Fericit :/ pe deplin fericit
+În Edenul minunat.
+
+[s3]
+În Eden s-a născut fericirea
+/: Pentru om :/
+Dumnezeu dăruind nemurirea
+/: Pentru om :/
+
+[s4]
+Dumnezeu i-a făcut o femeie
+/: Ajutor potrivit :/
+Ca să îl ajute în viaţă,
+/: Ajutor potrivit :/
+
+[s5]
+Să păzească grădina i-a spus
+/: În Eden :/
+Dar Satan a intrat în grădină
+/: În Eden :/
+
+[s6]
+/: Ce păcat :/ că Satan a intrat
+Şi pe ei i-a înşelat,
+/: Ce păcat :/ că ei n-au ascultat
+Şi Satan i-a înşelat.
+
+[s7]
+Izgoniţi au fost din grădină
+/: Afară :/
+Să lucreze acum pământul
+/: Afară :/
+
+[s8]
+Acum să veniţi cu căinţă
+/: La Isus :/
+Să ne dea pacea prin credinţă
+/: El Isus :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

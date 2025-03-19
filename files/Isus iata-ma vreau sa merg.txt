@@ -1,0 +1,19 @@
+[r1]
+Isus iată-mă vreau să merg
+Pentru Tine trăiesc, cu Tine merg.
+Isus iată-mă vreau să merg.
+
+[s1]
+Azi Isus te cheamă să-i fii de folos.
+Cine este curajos?
+Cine vesteşte dragostea din cer
+Cine este mesager?
+
+[s2]
+Azi chemarea sfântă nu poţi neglija.
+Te hotărăşte, spune: Da
+Dă-ţi toată viaţa ca o jertfă Lui
+Şi atunci tu poţi să-I spui.
+
+[order]
+r1,s1,r1,s2,r1

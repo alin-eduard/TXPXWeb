@@ -1,0 +1,40 @@
+[s1]
+Frumos e să lăudăm
+Doamne sfânt numele Tău
+Toată ziua bunătatea Ta vestim
+Căci Tu ne înveseleşti
+cu lucrările Tale
+Dându-ne libertate Tă te lăudăm
+
+[r1]
+/: Ce frumos este a cânta
+Doamne spre mărirea Ta
+Pentru bunătatea Ta
+Cât de bine este Doamne, a lăuda Numele Tău este frumos :/
+
+[s2]
+Dacă cei răi înverzesc
+Ca şi iarba de pe câmp
+Este numai ca să fie nimiciţi
+Căci Tu Doamne eşti 'nălţat
+De mărire-nconjurat
+Şi toţi cei ce fac răul sunt nimiciţi
+
+[s3]
+Ochiul meu isi va vedea
+implinita dorinta
+Fara de vrajmasii care vor cauta
+Punand in cale crucea,
+sa ne-ncerce credinta
+Dar Tu, la ai Tai, le dai biruinta!
+
+[s4]
+Cei sădiţi în casa Ta
+Sunt ca cedrii din Liban
+Inverzesc inchisi in curtile Tale
+Cu untdelemn ii stropesti,
+Puteri noi le daruiesti
+Ca sa lupte contra celor pamantesti
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

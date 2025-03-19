@@ -1,0 +1,29 @@
+[s1]
+1877 Si m
+1. Cu Tine vreau să fiu în lume-aceasta
+În necaz sau bucurii
+Cu Tine , doar cu Tine Domnul meu
+Și aici și-n veșnicii
+
+[r1]
+Cor:
+/:Nu mă-nspăimântă încercarea mare
+Nici valurile care mă lovesc
+Eu stau cu ochii îndreptați în zare
+Și vreau să spun Isus că te iubesc:/
+
+[s2]
+2. În Tine mă încred Isuse Doamne
+Tu-mi ești pavăză mereu
+Doar cu Tine voi putea învinge
+Ispitele oricât ar fi de greu
+
+[s3]
+3. Nu vreau să mă despart
+Nicicând de Tine
+Să fim uniți pân' la sfârșit
+Speranțe noi se nasc mereu în mine
+Când Te am Isus iubit.
+
+[order]
+s1,r1,s2,r1,s3,r1

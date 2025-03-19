@@ -1,0 +1,33 @@
+[s1]
+1799.
+1. “Turmă mică, turmă blândă
+Pradă lesne de-nghiţit
+Două mii de ani,
+Cum oare, n-ai pierit?
+/:Prin străvechile pustiuri
+Leii cei cu coama-n vânt
+Cum de nu ţi-au şters
+Şi urma pe pământ?:/
+
+[s2]
+2. Ai tu oare, turmă blândă
+Corn de taur, dinţi de lup
+Colţi de viperă sau gheare
+Care rup?”
+/:”Noi n-avem nici colţi,
+Nici gheare nici venin otrăvitor
+Dar avem cu noi o taină:
+Un Păstor!:/
+
+[s3]
+3. Prin străvechile pustiuri,
+El, Păstorul înţelept
+Şi-a purtat pe umeri mieii,
+Şi la piept
+/:Şi de-aceea nu ni-i frică
+Chiar de-am fi ca fulgu-n zbor
+Căci suntem o turmă mică
+Dar o turmă şi-un Păstor:/
+
+[order]
+s1,s2,s3

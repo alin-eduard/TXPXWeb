@@ -1,0 +1,51 @@
+[s1]
+423.
+1.Doamne Tu m-ai deşteptat
+Şi la Tine m-ai chemat
+M-ai chemat la mântuire
+Şi la mare fericire.
+
+[s2]
+2.Eu dormeam în nesimţire
+Făr' avea de Tine ştire
+Tu adesea m-ai chemat
+Dar eu nu te-am ascultat.
+
+[s3]
+3.N-am cunoscut calea Ta
+În sălbăticia mea
+Ori şi unde mă duceam
+Numai tot păcătuiam.
+
+[s4]
+4.Dar Tu Doamne n-ai voit
+Moartea celui ce-a greşit
+Ci ai voit să Te cunoască
+Pe Tine să Te slăvească.
+
+[s5]
+5.Prin aceasta viu să fie
+În a Ta Împărăţie
+Ai trimis pe Duhul Sfânt
+Să sufle pe acest pământ.
+
+[s6]
+6.Peste mine ai suflat
+Şi din somn m-ai deşteptat
+Abia atunci am văzut
+Câte rele am făcut.
+
+[s7]
+7.Vin acum cu umilinţă
+Şi cu lacrimi de căinţă
+Spre a-ţi aduce mulţumire
+Pentru a Ta bună-n voire.
+
+[s8]
+8.De acum Părinte Sfinte
+Spre al Tău glas luând aminte
+Fă cu mine ce voieşti
+Că singur puternic eşti.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

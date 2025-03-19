@@ -1,0 +1,40 @@
+[s1]
+1. Totul ce este în lume
+Este un vis trecător
+Cât ai căuta amice
+Nu vei găsi ajutor.
+330. 								Sol
+
+[r1]
+Cor:
+/:O /:azi:/
+de ce nu vii?:/
+Vino la Domnul tău.:/
+
+[s2]
+2. Fragedă-ţi mai este viaţa
+Şi nu ştii cum s-o trăieşti
+Zile una după alta
+Au trecut  dar şi tu treci.
+
+[s3]
+3. Nu mai sta în nepăsare
+Şoapta rea să n-o primeşti
+Azi prin a Lui bunătate
+Fericirea dobândeşti.
+
+[s4]
+4. Te-ai gândit
+ce-ţi stă în faţă
+Seama de toate vei da
+După faptele făcute
+Plata tu o vei lua.
+
+[s5]
+5. Ştii ce-nseamnă fericirea
+Să te-mpaci cu Dumnezeu
+El îţi este Creatorul
+Fiinţei sufletului Tău.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

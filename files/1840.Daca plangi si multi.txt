@@ -1,0 +1,28 @@
+[s1]
+1.Dacă plângi şi mulţi n-aud
+Eşti sărman cu lipsuri multe
+/:Nu te teme:/Domnul Isus e cel ce vede
+2.De ce plânge inimioara
+Când apasă încercarea
+/:Nu te teme:/Domnul îţi va da răsplata
+1840.
+
+[s2]
+3. Dacă suferi pentru bine
+Numai aşa simţi când vine
+/:Nu te teme:/ Saltă Duhul Sfânt în tine
+4.De-ar cădea în neputinţă
+Mii şi mii din pocăinţă
+/:Nu te teme:/Luptă-te şi mergi ‘nainte
+
+[s3]
+5.Nencetat să urci pe drumul
+Dacă esti născut din Duhul
+/:Nu te teme:/Suferă tu azi ca Domnul
+6.Aşa-I drumul către ceruri
+Cu necazuri şi suspine
+/:Nu te teme:/Domnul Sfânt va fi cu tine
+/:Nu te teme:/Vei mânca din pomul vieţii]
+
+[order]
+s1,s2,s3

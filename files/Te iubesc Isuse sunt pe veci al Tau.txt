@@ -1,0 +1,35 @@
+[s1]
+Te iubesc Isuse, sânt pe veci al Tău
+Căci prin jertfa sfântă
+M-ai scăpat de rău.
+O, ce bucurie, Tu mi-ai dăruit
+Te iubesc Isuse, căci Tu m-ai iubit
+
+[s2]
+Te iubesc ca spinii,
+fruntea Ţi-au rănit
+Ca să mă răscumperi
+Pe cruce-ai murit.
+Te iubesc in viaţă-n
+moarte Te iubesc,
+Pentru Tine totul
+vreau ca să jertfesc.
+
+[s3]
+Când sudoarea morţii mă v-acoperi
+Şi mai mult Isuse eu Te voi iubi.
+Ale Tale braţe întinzind cu dor,
+Să mă iei la Tine scump Mântuitor.
+
+[s4]
+Când în faţa slavei,
+tronului ceresc
+Eu cu Tine, Doamne,
+o să mă găsesc,
+Al meu suflet fi-va
+veşnic fericit,
+Căci pe Tine-n viaţă
+Mult eu Te-am iubit!
+
+[order]
+s1,s2,s3,s4

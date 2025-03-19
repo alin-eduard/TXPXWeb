@@ -1,0 +1,54 @@
+[s1]
+1. Timpul cel din urmă
+A sosit acuma,
+Fraţilor, ca să ne pocăim.
+Firea pământească
+Vrea să ne robească
+Dar cu toţi din somn să ne trezim.
+395								    Fa m
+
+[r1]
+Cor: Iată Domnul, frate,
+La inimă-ţi bate
+Deschide-I şi nu Îl refuza,
+Lumea şi trufia,
+Pofta şi mândria,
+Alungă-le din inima ta.
+
+[s2]
+2. Domnul cercetează
+Şi apoi lucrează
+În fiii Săi cari I se supun,
+Cari se umileşte şi se pocăieşte
+Îl conduce pe-al vieţii drum.
+
+[s3]
+3. Dar să ştii amice,
+Cel rău vrea să strice
+Credinţa ta ca să dai ’napoi.
+Dar te roagă tare cu credinţă mare și strigă:
+„Ah, Doamne fii cu noi! ”
+
+[s4]
+4. Azi se profeţeşte
+Că-n curând soseşte,
+Al lumii mare Judecător,
+Biblia arată că Cel fără pată,
+Va fi cu scumpul Mântuitor.
+
+[s5]
+5. Azi mulţi se-nspăimântă
+De lucrarea sfântă
+Zicând că nu-i lucru-adevărat.
+Auzind vorbire-n alte limbi străine
+Pe cel ce-i cu Duh Sfânt botezat.
+
+[s6]
+6. Dar Ioel arată vestea adevărată
+Lucru mare, clar şi lămurit.
+Despre profeţie
+Şi de limbi străine,
+Care azi cu toţi le-am auzit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

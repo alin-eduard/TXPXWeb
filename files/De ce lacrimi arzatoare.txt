@@ -1,0 +1,32 @@
+[s1]
+De ce lacrimi arzătoare,
+De ce plâns de-amar şi dor?
+De ce griji chinuitoare
+Când avem Mântuitor?…
+Numai Lui în rău şi-n bine
+Credincios de-I vei urma
+El cu braţul Său te ţine
+Orişice s-ar întâmpla.
+
+[s2]
+Lasă tot ce te-nconjoară,
+Vino dar la Tatăl sfânt
+Viaţa fără El e-amară,
+Dar cu El, rai pe pământ.
+Vino, vezi-L doar o dată,
+Un cuvânt de ţi-ar vorbi,
+Şi te-asigur, viaţa toată,
+De El nu te-ai despărţi!
+
+[s3]
+Tot avântul şi puterea
+Să le pui în slujba Sa,
+El îţi vindecă durerea,
+El îţi şterge lacrima…
+Când Isus făgăduieşte,
+Nu te va-nşela defel!
+O, învaţă de-L iubeşte
+Tot cum te-a iubit şi El.
+
+[order]
+s1,s2,s3

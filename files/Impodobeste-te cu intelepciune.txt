@@ -1,0 +1,34 @@
+[s1]
+Împodobește-te cu-nţelepciune
+Căci tu, prin ea, vei fi biruitor!
+Deosebeşte lucrurile bune
+Şi te învaţă să fii răbdător!
+Si m
+
+[r1]
+/: Căci nu-i mare erou
+Decât cel care rabdă încercarea;
+In faţa lui Dumnezeu,
+Nu e mai mare erou
+Decât cel ce trăieşte răbdarea.:/
+
+[s2]
+Şi dacă vrei ca să moşteneşti cerul
+Să locuieşti în cerul minunat,
+Tu nu uita: acolo, lângă Domnul,
+Vor sta numai aceia ce-au răbdat!
+
+[s3]
+Pe-o piatră albă, vei purta un nume;
+Un nume nou, pe veci, vei moşteni,
+De vei răbda durerile din lume.
+De vei răbda, atunci vei birui!
+
+[s4]
+Tu dar, să ai îndelungă răbdare
+Şi-atunci când cerul, parcă, te-a uitat
+Căci Dumnezeu te pune la-ncercare:
+Tu rabdă şi nu fi descurajat!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

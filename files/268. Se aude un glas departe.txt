@@ -1,0 +1,93 @@
+[s1]
+1. Se aude un glas departe
+De prin văile stâncoase
+Este glasul porumbiţei
+Care cere biruinţă.
+268.
+
+[s2]
+2. Oare-i glas de porumbiţă
+Strigă parcă-i biruită
+Ieşi Tu Mire din cămară
+Că proorocii stau să piară.
+
+[s3]
+3. Strigă astăzi Izabela
+Cu o voce de prigoană
+Ilie cu ai săi prooroci
+Ca să piară dintre toţi.
+
+[s4]
+4. Nu mai este loc în lume
+De proorocii Tăi Stăpâne
+Că Izabela vrea să-şi poarte
+Fiii ei pe locuri-nalte.
+
+[s5]
+5. Multe ape sunt stricate
+Şi altare dărâmate
+Şi izvoarele-s secate
+De la-nvăţături stricate.
+
+[s6]
+6. Nu te teme azi în lume
+Semnele ce-au fost cu tine
+Să vedem prin Duhul Sfânt
+Cum lucrezi tu pe pământ.
+
+[s7]
+7. O biserică lăsată
+Fără prooroci este moartă
+Că mărturia lui Hristos
+Este Duhul de prooroc.
+
+[s8]
+8. Astăzi este-o vânătoare
+Nu de lupi, ci de mioare
+Trage-ntruna în prooroci
+Ca să-i omoare pe toţi.
+
+[s9]
+9. Un prooroc în adunare
+Are slujba gurii Tale
+Are slujba cea mai grea
+Descoperind starea ta.
+
+[s10]
+10. Nu mai e-n biserici frică
+De-a păcatului ruină
+Strigă astăzi la amvoane
+Izabela-n gura mare.
+
+[s11]
+11.Când un prooroc proroceşte
+Cu cântări înăbuşeşte
+Căci Izabela e tare
+Parcă-i Goliat în zale.
+
+[s12]
+12. Ieşi-ne Doamne în faţă
+Ia-ne şi ne du acasă
+Strămută-ne-n cerul Tău
+Că ne-am săturat de rău.
+
+[s13]
+13. Dacă ne-ar prigoni lumea
+Noi prin stânci ne vom ascunde.
+Dar acei ce ne cunosc
+Sunt mai răi de multe ori.
+
+[s14]
+14. De la Abel pân'  la Domnul
+S-au ucis fraţii de-o mamă
+Nici un prooroc n-a pierit
+Omorât de cel străin.
+
+[s15]
+15. Nu ne lăsa pe-o mâncare
+Să vindem darul cel mare
+Duhul Sfânt noi îl iubim
+Şi cu El ne-nveselim.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12,s13,s14,s15

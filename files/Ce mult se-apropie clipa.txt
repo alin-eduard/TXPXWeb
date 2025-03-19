@@ -1,0 +1,28 @@
+[s1]
+Ce mult se-apropie clipa
+Cand Isus va reveni
+Cand pe nori de slava
+Mireasa-si va rapi
+Te-ai pregatit sa-ntampini
+Pe-al tau Creator
+/:Vine Isus:/
+N-auzi tu al sau popor
+
+[r1]
+/:Isus vine:/ Ce faci tu?
+Te-ai pregatit sa zbori
+Tu prieten, dar tu frate?
+Faci ce-i scris in Sfanta Carte.
+
+[s2]
+Privesc multimi ce nu le pasa
+Ca Domnul vine in curand
+Esti tu acela care lasa
+Pe maine sau nu stii pe cand.
+Scriptura Cartea Sfanta zice:
+“Pe-acel ce-i pregatit il iau.”
+Hai vino nu lasa pe maine
+caci maine nu-i, vei regreta.
+
+[order]
+s1,r1,s2,r1

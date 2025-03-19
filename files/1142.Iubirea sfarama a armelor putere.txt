@@ -1,0 +1,63 @@
+[s1]
+R:Iubirea sfarmă-a
+Armelor putere
+Şi le transformă-n
+Fiare pentru plug
+Iubirea-i veşnică
+Ea-n veci nu piere
+Ea va zdrobi al urii veşnic jug.
+1142
+
+[s2]
+1.Iubirea va suda întreg pământul
+Între popoare pacea va domni
+Căci Împăratul lumii va fi Domnul
+Al nostru Domn Isus din veşnicii.
+
+[r1]
+R:Iubirea sfarmă-a
+Armelor putere
+Şi le transformă-n
+Fiare pentru plug
+Iubirea-i veşnică
+Ea-n veci nu piere
+Ea va zdrobi al urii veşnic jug.
+
+[s3]
+2.Şi-atunci pe pământ
+Va fi ca în rai
+Pacea va domni şi
+Nu va mai fi război
+Săbiile lor se vor sfărâma
+Şi atunci peste tot,
+Va domni dragostea.
+
+[s4]
+3.O mie de ani va fi pace
+Pe pământ
+Când Mirele va veni
+Mirele cel Sfânt
+Satana va fi legat o mie de ani
+În al lui Isus regat
+N-or mai fi duşmani.
+
+[s5]
+4.Lupul va sta lângă miel
+Și se vor juca
+Leul va mânca la fel iarbă ca vita
+Nici un rău nu va mai fi
+Pe muntele sfânt
+Căci Domnul va-mpărăţi
+Pe întreg pământ.
+
+[s6]
+5.Din pământ
+Va răsări neprihănirea
+Din cer jos va coborî dumnezeirea
+Dumnezeu va fi cu noi
+O, ce minunat!
+Şi nu va mai fi război
+Căci s-a terminat
+
+[order]
+s1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

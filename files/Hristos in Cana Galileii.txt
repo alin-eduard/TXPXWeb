@@ -1,0 +1,47 @@
+[s1]
+Hristos în Cana Galileii
+La nuntă ai fost invitat
+Şi pentru prima oară Doamne
+Puterea Tu Ţi-ai arătat.
+5
+
+[s2]
+O, Doamne Tu
+Vino acum, cu-a Ta binecuvântare
+O, Doamne Tu, vino acum
+Şi-apoi rămâi cu noi!
+Ref:
+4
+
+[s3]
+Şi astăzi Te rugăm Isuse
+Pe noi Tu să ne vizitezi
+Împarte fericiri nespuse,
+Acestor doi cari se unesc.
+3
+
+[s4]
+O, Doamne Tu
+Vino acum, cu-a Ta binecuvântare
+O, Doamne Tu, vino acum
+Şi-apoi rămâi cu noi!
+Ref:
+2
+
+[s5]
+În Tine Doamne credincioşii
+Pe Mirele lor şi-au găsit
+Ai mântuit pe păcătoşii
+Mireasă Tu Ţi-ai dobândit.
+1
+
+[s6]
+O, Doamne Tu
+Vino acum, cu-a Ta binecuvântare
+O, Doamne Tu, vino acum
+Şi-apoi rămâi cu noi!
+Ref:
+0
+
+[order]
+s1,s2,s3,s4,s5,s6

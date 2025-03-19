@@ -1,0 +1,26 @@
+[s1]
+Sus în casa Tatălui sînt multe locuri
+E şi-al meu acolo sus în slava Sa.
+Isus a plecat de mult să-l pregătească
+Şi revine ca acolo să ne ia.
+
+[r1]
+Pentru veci vom fi cu Domnul împreună
+Pentru veci vom străluci în bucurii !
+Nu doreşti şi tu cu noi să vii acolo ? -
+Dacă vrei, de-acuma poţi şi tu să vii !
+
+[s2]
+Isus cu iubire a murit pe cruce
+Să ne mîntuiască de al nost, păcat.
+Pe cei mîntuiţi apoi El îi va duce
+În mărire, în al gloriei palat.
+
+[s3]
+Călători sîntem în lume, nu statornici
+Ţara noastră e la Isus în vecii
+Drumul e adesea aşa de plin de lacrimi
+Fericiţi vom fi acolo de-om sosi!
+
+[order]
+s1,r1,s2,r1,s3,r1

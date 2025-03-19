@@ -1,0 +1,28 @@
+[s1]
+Veniţi că totu-i pregătit
+la marea sărbătoare,
+Prin porţi deschise-a năvălit
+lumina Lui de soare,
+O, suflete priveşte-n sus
+la slava blândului Isus,
+Găseşte-ţi mângâierea.
+
+[s2]
+De ce să rătăceşti pribeag
+pe-atâtea căi străine
+Şi sufletul să-l chinuieşti
+cu-n foc ce arde-n tine?!
+Gândeşte-te la starea ta,
+apleacă-te smerit şi bea
+Din limpede fântână.
+
+[s3]
+O, Doamne, cum să mai amân cereasca Ta-ndurare
+Şi mila şi răbdarea Ta,
+şi blânda Ta chemare?!
+Cu sufletul împovărat,
+cu-ntregul cuget aplecat,
+Mă-nchin de-a pururi Ţie!
+
+[order]
+s1,s2,s3

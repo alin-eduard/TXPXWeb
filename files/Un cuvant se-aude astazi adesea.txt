@@ -1,0 +1,64 @@
+[s1]
+Un cuvant se-aude astăzi adesea
+<Să păstrezi ceea ce ţi s-a dat !>
+Şi să ştii de unde vine-adesea
+Este Duhul care strigă-ntristat.
+
+[s2]
+<Grijă, grijă să ai
+Că doar o viaţă ţi s-a dat !>
+Şi să ştii de unde vine aceasta
+Este Duhul care strigă-ntristat.
+
+[s3]
+Nu privi prea mult în această lume
+N-asculta la tot ce este în jur.
+Duhul spune că e deşertăciune
+Tot ce vezi şi tot ce-auzi împrejur.
+
+[s4]
+Ochii să ţi-i închizi
+Urechile să-ţi înfunzi
+Duhul spune că e deşertăciune
+Tot ce vezi şi tot ce-auzi împrejur.
+
+[s5]
+Duhul spune ca să mergi în lucrare
+Duhul vrea ca tu să fii rîvnitor
+Duhul spune cît de mare-i lucrarea
+Şi puţini, şi ce puţini lucrători !
+
+[s6]
+Duhul, Duhul Sfînt vrea
+Să nu mai stai adormit
+Duhul spune cît de mare-i lucrarea
+Şi puţini, şi ce puţini lucrători.
+
+[s7]
+Judecaţi ce trebuie-n viaţă
+S-ascultăm şi să ne temem mai mult
+Duhul spune, şi-mi dă o povaţă
+Ca mult mai mult
+pe Dumnezeu să-L ascult.
+
+[s8]
+Glasul, glasul ceresc
+Sunt îndemnat să-L ascult
+Duhul spune şi-mi dă o povaţă
+Ca mai mult
+pe Dumnezeu să-L ascult.
+
+[s9]
+Fără luptă nu există cunună
+Fără muncă n-o să fim răsplătiţi
+Fără dragoste şi îngăduinţă
+Fără ele vom fi nişte-amăgiţi.
+
+[s10]
+Luptă, luptă mereu
+Nădăjduieşte-n Dumnezeu
+Fără dragoste şi-ngăduinţă
+Fără ele vom fi nişte-amăgiţi.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

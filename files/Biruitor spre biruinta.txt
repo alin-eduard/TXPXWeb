@@ -1,0 +1,32 @@
+[s1]
+Biruitor, spre biruinta
+La lupta Domnul s-a dus
+Si il urmeaza cu credinta
+Multimea sfanta supus.
+Iata-I cum trec printre randuri
+Ca un suvoi luminos
+Si canta glorie, slava,
+Biruitor e Hristos!
+
+[s2]
+Biruitor spre biruinta
+Cine-I acest Domnitor?
+Cine-s ostenii fara numar
+Slavitul mare popor?
+El este Domnul pastorul,
+Mantuitorul iubit,
+Si toti ai Lui straluci-vor
+In cerul impodobit!
+
+[s3]
+Biruitor spre biruinta
+Isus e vesnic Stapan
+A lumii tronuri si regate
+Uitate-n umbra raman.
+Insa poporul Tau Doamne
+In veci de veci va trai
+Si in slavite locasuri,
+Biruitor va sosi!
+
+[order]
+s1,s2,s3

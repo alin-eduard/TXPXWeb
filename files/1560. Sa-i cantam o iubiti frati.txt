@@ -1,0 +1,45 @@
+[s1]
+1560.
+Să-I cântăm o iubiţi frați
+Un cântec Domnului
+Şi să mergem tot cântând
+Sus mai sus mai sus
+Ca şi Moise acela blând sus mai sus.
+
+[s2]
+2. Israel când a scăpat
+Cântare nouă a cântat
+Aşa şi noi fraţi iubiţi
+Sus mai sus mai sus
+Şi de Domnul mântuiţi sus mai sus.
+
+[s3]
+3. Noi în timpul din trecut
+Mult păcat am mai făcut
+Ne îmbătăm şi înjurăm
+Tot mereu mereu
+Sufletu-l ni-l chinuim tot mereu.
+
+[s4]
+4. Dar acuma am scăpat
+De pericol şi păcat
+Şi în loc de-njurătură
+Sus mai sus mai sus
+Cântăm imnuri din scriptură sus mai sus.
+
+[s5]
+5. Să mergem cu paşi frumoşi
+Spre Domnul Isus Hristos
+Spre a lui împărăţie
+Sus mai sus mai sus
+Care rămâne-n vecie sus mai sus.
+
+[s6]
+6. Să-I cântăm cu bucurie
+Pentru a noastră mântuire
+Cum şi Moise a cântat
+Sus mai sus mai sus
+Când din mare a scăpat sus mai sus.
+
+[order]
+s1,s2,s3,s4,s5,s6

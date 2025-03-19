@@ -1,0 +1,29 @@
+[s1]
+/: Ce mare eşti
+Şi ce mari minuni faci Tu
+Şi ca Tine altul nu-i,
+Şi ca Tine altul nu-i :/
+/: Ţie îţi dăm slavă şi onoare
+Ridicăm mâinile noastre
+Înălţăm Numele Tău :/
+
+[s2]
+/: Ce mare eşti
+Şi ce mari minuni faci Tu
+Şi ca Tine altul nu-i,
+Şi ca Tine altul nu-i:/
+Vrem sa spunem lumii despre tine
+Cum prin moartea Ta pe cruce
+Tuturor ai aratat...
+
+[s3]
+/:Ce mare eşti
+Şi ce mari minuni faci Tu
+Şi ca Tine altul nu-i,
+Şi ca Tine altul nu-i:/
+/:Ţie îţi dăm slavă şi onoare
+Ridicăm mâinile noastre
+Înălţăm Numele Tău :/
+
+[order]
+s1,s2,s3

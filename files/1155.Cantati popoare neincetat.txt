@@ -1,0 +1,43 @@
+[s1]
+1.      Cântaţi popoare ne-ncetat
+Un imn de sărbătoare
+Cântaţi Celui ce-i adorat
+Domnului nost’ cel mare
+/: Cântaţi Celui ce ne-a salvat
+Celui ce-i veşnic Împărat
+Celui ce ne-a răscumpărat
+Din moarte şi pierzare :/
+1155.
+
+[s2]
+2.        El locuieşte sus în cer
+Acolo-n strălucire
+Dar e şi aici cu acei ce-l cer
+Şi azi ca şi-n vechime
+/: El a-nălţat pe Daniel
+Şi la condus pe Israel
+Cei ce s-au încrezut în El
+N-au fost daţi de ruşine :/
+
+[s3]
+3.       Tu Cel ce stai pe heruvimi
+Înveşmântat de glorii
+Cu faţa albă ca de crini
+Şi-ţi cântă mii de coruri
+/: Îţi cântă azi ai Tăi copii
+Atâtea sfinte melodii
+Tu Cel ce-ai fost eşti şi vei fi
+Domn pe pământ şi-n ceruri :/
+
+[s4]
+4. Lângă acei ce Te slăvesc
+M-apropii şi eu Tată
+Slăvind cu întregul univers
+Din inimă curată
+/: Chiar dacă nu voi mai putea
+Şi buzele-mi vor înceta
+Doar suspinând Te-oi lăuda
+O Doamne până la moarte :/
+
+[order]
+s1,s2,s3,s4

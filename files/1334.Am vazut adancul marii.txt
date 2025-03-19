@@ -1,0 +1,63 @@
+[s1]
+1334.
+1.  Am văzut adâncul mării
+Şi atunci m-am îngrozit
+Am crezut că-s dat uitării
+Şi Domnul m-a părăsit.
+Cor:  	Dar am zis în disperare
+Isuse nu mă lăsa
+Doamne-n mila Ta cea mare
+Eu te rog nu mi-o lua.
+
+[s2]
+2.  Când ziceam că-i sfărâmată
+Barca iar eu sunt pierdut
+Văd o mână că-i întinsă
+Al credinţei veşnic scut.
+Cor:  	Dar am zis în disperare
+Isuse nu mă lăsa
+Doamne-n mila Ta cea mare
+Eu te rog nu mi-o lua.
+
+[s3]
+3.  Şi-am strigat atunci ca Iona
+Din fundul adâncului
+Doamne Doamne întinde mâna
+Împotriva valului.
+Cor:  	Dar am zis în disperare
+Isuse nu mă lăsa
+Doamne-n mila Ta cea mare
+Eu te rog nu mi-o lua.
+
+[s4]
+4.  S-a întunecat şi cerul
+Şi văzduhul plin de nori
+Peste mine a trecut valul
+Cu al morţii reci fiori.
+Cor:  	Dar am zis în disperare
+Isuse nu mă lăsa
+Doamne-n mila Ta cea mare
+Eu te rog nu mi-o lua.
+
+[s5]
+5.  Cel ce-a potolit furtuna
+Este Isus cel iubit
+Înspre mine şi-a întins mâna
+Şi din val m-a izbăvit.
+Cor:  	Dar am zis în disperare
+Isuse nu mă lăsa
+Doamne-n mila Ta cea mare
+Eu te rog nu mi-o lua.
+
+[s6]
+6.  De-aş putea să scot din pieptu-mi
+Inima-n versuri s-o pun
+C-a să arăt la fiecare
+Cât a fost Domnul de bun.
+Cor:  	Dar am zis în disperare
+Isuse nu mă lăsa
+Doamne-n mila Ta cea mare
+Eu te rog nu mi-o lua.
+
+[order]
+s1,s2,s3,s4,s5,s6

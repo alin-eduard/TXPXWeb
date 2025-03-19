@@ -1,0 +1,20 @@
+[s1]
+De mic copil Te-am cunoscut
+Şi mi-ai şoptit să Te ascult
+Căci biruinţă voi avea
+În viaţa mea din mîna Ta.
+
+[r1]
+/: N-am să uit, Aleluia ! -
+Nu am să uit, Isus, iubirea Ta !
+N-am să uit, Aleluia ! -
+Nu am să uit nicicînd iubirea Ta ! :/
+
+[s2]
+Aşa cum sînt, Tu mă primeşti
+Isuse scump, şi-Ţi mulţumesc !
+Prin jertfa Ta eu sînt salvat
+Şi mîntuire am aflat.
+
+[order]
+s1,r1,s2,r1

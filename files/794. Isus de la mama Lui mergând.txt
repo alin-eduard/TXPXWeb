@@ -1,0 +1,57 @@
+[s1]
+1. Isus de la mama Lui mergând
+Timpul durerii începând
+/:Maica Domnului suspinând
+Şi-ntristată îl întrebă:/.
+794.
+2. Isuse Fiul meu iubit
+Duminica unde vei fi
+/:Atunci voi fi rege-n măriri
+Cu flori în cale m-or primi:/.
+
+[s2]
+3. Isuse Fiul meu iubit
+În ziua de Luni ce vei fi
+/:Atunci Eu călător voi fi
+Şi nimeni nu mă v-a primi:/.
+4. Isuse Fiul meu iubit
+În ziua de Marţi ce vei fi
+/:Profetul lumii Eu mă fac
+Vestesc pieirea acestui veac:/.
+
+[s3]
+5. Isuse Fiul meu iubit
+Dar Miercurea unde vei fi
+/:Atunci foarte nevăzut sunt
+Vândut pentru 30 de arginţi:/.
+6. Isuse Fiul meu iubit
+Dar Joia Tu unde vei fi
+/:Jale mare ce pe la prânz
+Un mieluşel Eu însuşi sunt:/.
+
+[s4]
+7. Isuse Fiul meu iubit
+Dar Vinerea unde vei fi
+/:O, maică dulce, maica mea
+De s-ar ascunde această zi:/.
+8. Vinerea scumpă maica mea
+Pe cruce atârnat voi sta
+/:Piroane-n mâini sunt bătute
+Sfârşitul este tot dulce:/.
+
+[s5]
+9. Isuse Fiul meu iubit
+Dar Sâmbăta unde vei fi
+/:Bobul de grâu atunci eu sunt
+Şi voi fi pus într-un mormânt:/.
+
+[s6]
+10. Isuse Fiul meu iubit
+Duminica unde vei fi
+Duminică, o, maica mea
+Din morţi atunci voi învia
+/:Eu moartea atunci voi birui
+Purtând steagul de-nvingere:/.
+
+[order]
+s1,s2,s3,s4,s5,s6

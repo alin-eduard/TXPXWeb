@@ -1,0 +1,9 @@
+[s1]
+/: Rege al regilor,
+Domn al domnilor,
+Glorie – Aleluia ! :/
+/: Isus, Prinţ al păcii,
+Glorie – Aleluia ! :/
+
+[order]
+s1

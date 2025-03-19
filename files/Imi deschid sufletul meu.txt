@@ -1,0 +1,22 @@
+[s1]
+Îmi deschid sufletul meu
+Ca să-L simt pe Dumnezeu
+Îmi deschid şi inima
+Să pătrundă El în ea.
+/: Tu, prieten Dumnezeu
+Lîngă Tin, voi sta mereu.
+În orice zi şi-n orice ceas
+Eu de Tine nu mă las. :/
+
+[s2]
+Căci acum, cînd sînt cu Tine
+Eu mă simt cu mult mai bine
+Şi de-aceea Te-aş ruga
+Să lucrezi Tu-n viaţa mea.
+/: Tu, prieten Dumnezeu
+Lîngă Tin, voi sta mereu.
+În orice zi şi-n orice ceas
+Eu de Tine nu mă las. :/
+
+[order]
+s1,s2

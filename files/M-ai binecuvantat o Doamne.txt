@@ -1,0 +1,27 @@
+[s1]
+M-ai binecuvantat, o Doamne
+Cuvantul Tau, cu mine ai implinit
+/: Mi-ai dat si mie harul jertfei Tale
+Sa fiu rascumparat si mantuit :/
+
+[s2]
+Esti cetatuia mea si medic
+Privirea Ta o ai asupra mea
+/: Te ingrijesti de mine bun stapane
+Cum nimeni niciodata n-ar putea :/
+
+[s3]
+Te laud, te slavesc o Doamne
+In casa mea, minuni ai faptuit
+/: Cand Te-am chemat,
+cu bratul Tau de Tata
+Intodeauna, Tu ne-ai izbavit :/
+
+[s4]
+Te voi urma Isuse Doamne
+In ascultare voia-ti implini
+/:Ca ucenic mereu, smerit slujindu-ti
+Glorificat sa fii Isus iubit:/
+
+[order]
+s1,s2,s3,s4

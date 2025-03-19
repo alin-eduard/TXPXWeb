@@ -1,0 +1,32 @@
+[s1]
+Nu ştiu de ce sunt ispite­adesea
+Şi încercări vin în orice zi
+Când lângă noi sunt atâţia alţii
+Ce hărţuiţi ei nu par a fi.
+
+[r1]
+Mereu ’nainte şi vei învinge,
+Mereu ’nainte, nu dispera!
+Te­ncurajează, mergi în lumină,
+Vei înţelege de ce­i aşa!
+
+[s2]
+Când fără veste moartea loveşte
+Şi-mi ia din casă pe cel iubit
+Nu înţeleg cum cei răi au parte
+De fericire necontenit.
+
+[s3]
+Fii credincios dar până la moarte,
+Curând necazul se va sfârşi;
+Toată durerea va fi uitată,
+Cununa vieţii când vei primi.
+
+[s4]
+Noi ştim că Domnul pe nori
+Cu slavă în strălucire va reveni
+Şi vom ieşi în întâmpinare,
+Şi-o veşnicie cu El vom fi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,51 @@
+[s1]
+1. O ţara mea, o Domnul meu
+O veşnicule Dumnezeu
+Prea sfântă-mpărăţia Ta
+/:Doresc să fie ţara mea:/.
+215.
+
+[s2]
+2. O ţara mea mult te iubesc
+Ca şi-un ostaş Ție-ţi slujesc
+Domnul Isus mi-a pregătit
+/: În tine loc prea fericit :/
+
+[s3]
+3. O ţara mea te voi iubi
+Cât pe pământ eu voi trăi
+De Domnul eu voi asculta
+/:Căci Domnul e iubirea mea:/.
+
+[s4]
+4. Sunt un străin pe-acest pământ
+Însă al Domnului cuvânt
+M-asigură că o să vie
+/:A Tatălui Împărăţie:/.
+
+[s5]
+5. O ţara mea locaş iubit
+În tine voi intra-n curând
+Şi acolo ne vom bucura
+/:Şi de necazuri vom uita:/.
+
+[s6]
+6. Vom uita că pe acest pământ
+Am suferit atât de mult
+Şi ne va şterge lacrima
+/:El chiar Isus cu mâna Sa:/.
+
+[s7]
+7. Ajută-ne Isus iubit
+Ca să fim gata orişicând
+Şi-atunci când Tu vei apărea
+/:Să ne iei sus în slava Ta:/.
+
+[s8]
+8. Isuse Doamne nu uita
+Trimite har prin mila Ta
+Şi-ajută-ne ca să-Ţi slujim
+/:Cu Tine-n ceruri toţi să fim:/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

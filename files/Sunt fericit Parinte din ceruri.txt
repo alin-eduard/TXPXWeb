@@ -1,0 +1,32 @@
+[s1]
+Sunt fericit Părinte din ceruri,
+Că viaţa mi-ai schimbat,
+Tot ce-i mai nobil şi sfânt pe lume,
+În Tine am aflat.
+
+[r1]
+Azi alerg la Tine,
+O, Domnul meu iubit,
+Plin de mulţumire
+Şi mă închin smerit.
+
+[s2]
+Sunt fericit că am mântuire,
+Din bezna nopţii grea,
+Azi mă întorc cu lacrimi la Tine,
+Să-mi dai din pacea Ta.
+
+[s3]
+Sunt fericit că am moştenire,
+În ţara cea de sus,
+Unde cu îngeri în adorare,
+ÎŢi voi cânta Isus.
+
+[s4]
+Sunt fericit că viaţa-i schimbată,
+Din vechiul ei veşmânt,
+Şi cu o haină nouă curată,
+Eu merg spre cerul sfânt.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

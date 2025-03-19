@@ -1,0 +1,30 @@
+[s1]
+Isus a făcut tot ce a promis,
+Mergi, mergi cu Isus.
+Aşa a trăit precum a şi zis
+Mergi, mergi cu Isus.
+
+[r1]
+/: Mergi cu Isus :/
+Mergi în lumina Sa.
+
+[s2]
+Isus a răbdat şi a biruit
+Mergi, mergi cu Isus.
+Eşti liber, păcatul El a plătit,
+Mergi, mergi cu Isus.
+
+[s3]
+Isus a venit şi ne-a mântuit
+Mergi, mergi cu Isus.
+Pe Sine S-a dat şi ne-a izbăvit
+Mergi, mergi cu Isus.
+
+[s4]
+În sfântă iubire să mergem acum
+Mergi, mergi cu Isus.
+Căci El te aşteaptă chiar pe drum
+Mergi, mergi cu Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

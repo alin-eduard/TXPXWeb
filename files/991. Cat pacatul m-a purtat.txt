@@ -1,0 +1,39 @@
+[s1]
+991.
+1. Cât păcatul m-a purtat
+După placul lumii
+Toţi mereu m-au lăudat
+Nimeni nu m-a supărat
+Nimeni Doamne.
+
+[s2]
+2. Cât la cel rău am slujit
+După placul lumii
+Orice rău aş fi făcut
+Nimeni nu m-a cunoscut
+Nimeni Doamne.
+
+[s3]
+3. Cât eram rob la păcat
+După placul lumii
+Nimeni nu mi-a stat în drum
+Să mă-ntrebe ca acum
+Nimeni Doamne.
+
+[s4]
+4. Dar de când mă port să-Ţi plac
+Ţie scump Isuse
+Nimănui necaz nu-i fac
+Şi tot nu mă au pe plac
+Nimeni Doamne.
+
+[s5]
+5. Şi de-aş fi acum pribeag
+Toată viaţa aceasta
+Ura tuturor s-o trag
+Nu-i de ajuns
+Cât mi-eşti de drag
+Auzi Doamne.
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,46 @@
+[s1]
+1519.  Re b
+1. Nu mai sta în nepăsare
+O poporul meu iubit
+/: Căci corabia de salvare
+Este gata de plecare
+Şi tu nu eşti pregătit :/
+2. În curând vânturi şi valuri
+Vor veni în contra ta
+/: Şi vei plânge cu suspine
+Că nu-i Domnul lângă tine
+Valuri te vor îneca :/
+
+[s2]
+3. Azi din nou te cercetează
+Nu mai sta nepăsător
+/: Ca să poţi sta în picioare
+Să n-ajungi necazul mare
+Şi să fii răpit pe nori :/
+4. Nu iubi lumea deşartă
+Că vei trece ca un fulg
+/: Căci cel rău de mult pândeşte
+Şi mereu te amăgeşte
+Să te poticneşti în drum :/
+
+[s3]
+5. Nu trăi în amăgire
+Căci timpul e pe sfârşit
+/: Căci dacă asculţi de fire
+Nu eşti gata de răpire
+Şi rămâi nemântuit :/
+6. Căci Isus de mult te aşteaptă
+Să te-ntorci din drumul Tău
+/: Să laşi pofta şi mândria
+Şi să vii la-mpărăţia
+Fiului lui Dumnezeu :/
+
+[s4]
+7. Te vei întâlni cu sfinţii
+Ce-naintea  ta s-au dus
+/: În cetatea cea de aur
+Unde Dumnezeu tronează
+Iar făclia e Isus :/
+
+[order]
+s1,s2,s3,s4

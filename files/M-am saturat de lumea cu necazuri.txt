@@ -1,0 +1,32 @@
+[s1]
+M-am saturat de lumea cu necazuri
+Te chem sa ma ajuti sa imi petrec
+Ce-a mai ramas din ale ei ragazuri,
+Caci zilele asa de iute trec!
+
+[r1]
+Tot ce doresc acuma, Doamne sfinte,
+E sa Te-apleci, sa pot sa-Ti spun
+C-atata vreau: de-acum, mereu ‘nainte:
+Sa-mi fii Prietenul meu bun…
+
+[s2]
+Mereu alaturi, pe a mea carare,
+Voi spune desirat amaru-ntreg,
+Iar cand veni-vor zile cu furtune,
+Pe drumul Tau, ‘nainte o sa merg.
+
+[s3]
+Nu-mi mai pun increderea in oameni,
+Caci omu-I trecator si schimbator,
+Iar gura mea n-a lauda pe nimeni
+Decat pe Tine, bunul Salvator!
+
+[s4]
+Doresc sa te slujesc cu daruire
+S-apoi, cu Tine-n veci, sa mostenesc!
+Tu vei domni, cu mare stralucire.
+Slavit sa fii, Mantuitor ceresc!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

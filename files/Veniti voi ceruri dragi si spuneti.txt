@@ -1,0 +1,36 @@
+[s1]
+Veniţi, voi, ceruri dragi, şi spuneţi
+Acelor ce nu cred în noi
+Cine v-a-ntins peste adîncuri
+Şi cine-i mai presus de voi ?
+
+[r1]
+/: Şi spuneţi, şi spuneţi mereu
+E-un sfînt şi etern Dumnezeu ! :/
+
+[s2]
+Veniţi, voi, ape mari, şi spuneţi
+A cui putere v-a făcut ?
+Şi cine v-a schimbat hotarul
+Şi ţărmurile în trecut ?
+
+[s3]
+Veniţi, voi, tunete şi vînturi
+Şi spuneţi şi voi tuturor
+A cui puteri vă duc pe-ntinsuri
+Şi cui se-nalţă-al vostru cor ?
+
+[s4]
+Veniţi, voi, morţii fără număr
+Şi spuneţi toţi cutremuraţi
+A cui e legea ce vă-nchide
+În locul unde aşteptaţi ?
+
+[s5]
+Veniţi, voi, stele şi morminte
+De după care nu ştim ce-i
+Şi spuneţi, să cunoască lumea
+Că Dumnezeu e Tatăl lor !
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,32 @@
+[s1]
+Iată, vestea ce-a venit din cer
+Jos la noi pe Pământ:
+Mântuire să primească-n dar
+Cei ce cred!
+
+[r1]
+/: Aleluia, Slavă Ţie,
+Îţi cântăm, Aleluia!
+Siguranţa salvării noastre
+e Isus Hristos! :/
+
+[s2]
+Lumea aceasta frământată e
+De al ei păcat
+Cei născuţi întrânsa
+Cu păcate s-au îmbrăcat.
+
+[s3]
+Toţi cei apăsaţi
+Priviţi la sângele vărsat!
+Voi, nemulţumiţi şi singuri
+Crucea v-a salvat!
+
+[s4]
+Când vom bate-n poarta
+Noului Ierusalim,
+Deschizând-o vom începe
+Să ne-nveselim.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

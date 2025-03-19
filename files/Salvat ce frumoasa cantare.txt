@@ -1,0 +1,20 @@
+[s1]
+Salvat! Ce frumoasă cântare!
+Salvat prin sfânt sângele Său,
+Salvat prin a Sa milă mare,
+Pe veci sunt copilul Său!
+
+[r1]
+Salvat, salvat, salvat
+Prin sângele Său!
+Salvat prin a Sa milă mare,
+Pe veci sunt copilul Său!
+
+[s2]
+Nu-i grai ce-ar putea să cuprindă
+Pacea din sufletul meu,
+Căci slava prezenţei Sale,
+O port în mine mereu!
+
+[order]
+s1,r1,s2,r1

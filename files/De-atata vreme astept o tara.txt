@@ -1,0 +1,28 @@
+[s1]
+De-atata vreme-astept o Tara
+Si tot privesc, spre rasarit...
+/: E dorul care ma doboara,
+Dar stiu ca vii, locas iubit... :/
+De-atata vreme-astept un Mire
+Si tot ma uit la cer plangand...
+/: Astept mareata Sa venire,
+Dar stiu ca va sosi, curand... :/
+
+[s2]
+De-atata vreme-astept o lume
+Far' de razboi, boli si dusmani...
+/: Cand va veni, va fi un nume:
+Isus Hristos, o mie de-ani! :/
+De-atata vreme-astept cetatea,
+Ierusalimul stralucind...
+/: Doresc sa mostenesc in partea
+Celor salvati de pe pamant. :/
+
+[s3]
+Te-astept cu dor, de-aici de jos,
+Si timpu-i pe sfarsit, n-amurg;
+/: In zi sau miez intunecos,
+Tu vei veni, Te-astept plangand.:/
+
+[order]
+s1,s2,s3

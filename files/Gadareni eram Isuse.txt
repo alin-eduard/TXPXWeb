@@ -1,0 +1,37 @@
+[s1]
+Gadareni eram Isuse
+Plini de patimi şi nevoi
+/: Suntem inimi nesupuse
+Te-am gonit o, dar Isuse,
+/: Nu Te duce de la noi. :/ O !
+
+[s2]
+Plini suntem de fapte rele
+Şi-a păcatului dureri
+/: Gemem în necazuri grele
+Nu ne părăsi în ele
+/: Nu Te duce de la noi. :/ O !
+
+[s3]
+N-asculta pe-aceia care
+Azi Te-alungă iar ’napoi
+/: Arde-un dor de vindecare
+Plâng atâtea răni amare
+/: Nu Te duce de la noi. :/ O !
+
+[s4]
+Mii de inimi chinuite
+Varsă lacrime şuvoi
+/: Cer cuvintele iubite
+Vor să fie mântuite
+/: Nu Te duce de la noi. :/ O !
+
+[s5]
+Doamne, coasta Ta umilă
+Duce greutăţi puhoi
+/: Ne vom duce-n ţara sfântă
+Dar ascultă-ne, ai milă
+/: Nu Te duce de la noi. :/ O !
+
+[order]
+s1,s2,s3,s4,s5

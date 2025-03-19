@@ -1,0 +1,34 @@
+[s1]
+Numele Tău e mare,
+Numele Tău e sfânt
+Numele Tău a-nvins orice luptă
+Numele Tău Îl cânt.
+
+[s2]
+Numele Tău e forţă
+El răul a supus,
+Numele Tău slăvit fie pururi,
+Numele Tău Isus.
+
+[s3]
+Numele Tău e viaţă
+Dragoste pe pământ,
+Numele Tău, Isus e lumină
+Numele Tău Îl cânt.
+
+[s4]
+Numele Tău e veşnic
+Toate supuse-I sunt,
+Numele Tău, Isus mântuieşte
+Numele Tău Îl cânt.
+
+[s5]
+Numele Tău e mare
+Numele Tău e sfânt,
+Numele Tău a-nvins orice luptă
+Numele Tău Îl cânt.
+Numele Tău, ISUS.
+Numele Tău, ISUS.
+
+[order]
+s1,s2,s3,s4,s5

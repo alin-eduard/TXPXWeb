@@ -1,0 +1,22 @@
+[s1]
+Am văzut cu ochii noştri mântuirea Ta
+Şi-ntru slavă ne-am unit spre-a Te cânta
+N-am adus bogate daruri, nici vorbe prea frumoase
+Ci inimile noastre Îţi vom da
+Şi de-a Ta speranţă-n suflet ce ne-a răsărit
+Cu iubire Tu pe toţi ne-ai fericit,
+Ne mai lasă lângă Tine, uimiţi de-atâta bine,
+Că azi Isusse Te-am găsit!
+
+[s2]
+Am văzut cu ochii noştri mântuirea Ta
+Şi nimic nu vrem Isus altceva,
+Numai dragostea cerească în inimi să ne crească
+Şi tot mai mult cu Tine-a semăna,
+Şi de-atâta har ce peste noi ai revărsat
+Că-n adânc de lume Tu ne-ai căutat,
+Îţi aducem închinare, şi jertfă, şi cântare
+Că ne-ai iubit şi ne-ai salvat!
+
+[order]
+s1,s2

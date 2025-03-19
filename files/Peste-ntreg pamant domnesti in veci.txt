@@ -1,0 +1,32 @@
+[s1]
+Peste-ntreg pământ domneşti în veci
+Cerul în amurg munţii stăpâneşti
+Dar mai mult de-atât Doamne eu doresc
+Ca Tu în mine să domneşti
+
+[r1]
+/: Tu să domneşti, în viaţa mea
+Vreau să fiu umplut de Puterea Ta
+Căci tot ce am Tu stăpâneşti
+Şi vreau ca-n mine să domneşti. :/
+
+[s2]
+Peste orice gând sau cuvânt rostit
+Să se vadă aş vrea Frumuseţea Ta
+Şi cu Tine-n veci să rămân Isus
+Şi viaţa mea Tu s-o conduci.
+
+[s3]
+Iar când vei veni să ne iei la Tin
+Dragostea Ta-n veci o vom stăpâni
+Şi-n iubirea Ta veşnic vom cânta
+Un Aleluia, Osana.
+
+[s4]
+/:Tu să domneşti, în viaţa mea
+Vreau să fiu umplut de Puterea Ta
+Căci tot ce am Tu stăpâneşti
+Şi vreau ca-n mine să domneşti.:/
+
+[order]
+s1,r1,s2,r1,s3,s4

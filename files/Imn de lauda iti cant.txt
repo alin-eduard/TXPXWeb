@@ -1,0 +1,40 @@
+[s1]
+Imn de laudă Îţi cînt,
+Dumnezeul meu
+Un fior mai nou, mai sfînt,
+Dumnezeul meu!
+
+[r1]
+Binecuvîntat să fii
+Dumnezeul celor vii
+Azi Îţi cînt, mîine şi-n veşnicii !
+Numele Tău minunat
+Peste toate înălţat
+Fie veşnic binecuvîntat !
+
+[s2]
+Imn de dragoste-Ţi aprind,
+Dumnezeul meu
+Cît pot astăzi să cuprind,
+Dumnezeul meu.
+
+[s3]
+Imn de adorare-Ţi spun,
+Dumnezeul meu
+Cu tot ce mi-ai dat mai bun,
+Dumnezeul meu.
+
+[s4]
+Imn de Soare şi de dor,
+Dumnezeul meu
+Îţi aduc în duh, în zbor,
+Dumnezeul meu.
+
+[s5]
+Imn de slavă, neobosit,
+Dumnezeu meu
+Cînt, că-mi eşti cel mai iubit,
+Dumnezeul meu !
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

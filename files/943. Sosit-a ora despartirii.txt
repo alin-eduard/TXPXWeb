@@ -1,0 +1,43 @@
+[s1]
+943.
+1.  Sosit-a ora despărţirii
+Sosit-a clipa să plecăm
+Şi nu ştiu dacă vom ajunge
+De acuma să ne mai vedem.
+2.  Rămâneţi fraţilor iubiţi
+Cu pacea Domnului Isus
+Şi bucuraţi-vă întru El
+Mergând spre patria de sus.
+
+[s2]
+3.  Ah, scumpă este clipa asta
+Şi poate ultima va fi
+Căci ca un abur este viaţa
+Şi nu ştiu de ne-om mai vedea.
+4.  Ah, jalnică e despărţirea
+Şi tot am sta parcă mereu
+Ca să mai plângem împreună
+Cântând slavă lui Dumnezeu.
+
+[s3]
+5.  Întindeţi mâna cu iubire
+Zicându-vă cu glas duios
+Rămâneţi fraţi cu bucurie
+Rămâneţi cu Domnul Hristos.
+6.  Noi vom pleca dar clipa asta
+Inimi şi-n suflet să ne doară
+Gândindu-ne căci poate asta
+Ne este cea din urmă oară.
+
+[s4]
+7.  Dar tot nădăjduim odată
+Ne vom vedea în ceruri sus
+Dac-om avea credinţă tare
+Şi vom păzi al Său cuvânt.
+8.  Ajută-ne O Doamne sfinte
+Ca să ne putem revedea
+Acolo-n scumpa împărăţie
+În veci să-ţi cântăm slavă Ţie.
+
+[order]
+s1,s2,s3,s4

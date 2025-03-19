@@ -1,0 +1,20 @@
+[s1]
+Înalţ vocea mea, către tin’ rege-al gloriei
+Ridic mâinile către Cel ce e vrednic
+Tânjesc după Tine
+Atinge-mi Doamne inima.
+
+[r1]
+Umple Doamne şi viaţa mea
+Cu prezenţa-ţi divină, Tu eşti dorinţa mea
+Revarsă Duhul Sfânt azi din nou
+Tânjesc după Tine, Tu eşti dorinţa mea
+
+[s2]
+Tânjesc să mă speli în voia milei Tale
+Tânjesc să m-aprinzi cu focul gloriei Tale
+Şi inima mea
+Să simtă mângâierea Ta
+
+[order]
+s1,r1,s2,r1

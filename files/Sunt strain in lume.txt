@@ -1,0 +1,28 @@
+[s1]
+Sunt străin în lume,
+Isuse Domnul meu,
+Sunt un călător,
+ce răzbesc din greu;
+Prăpăstii mă aşteaptă,
+şi locuri de netrecut,
+Dar te chem pe Tine,
+Tu să îmi fii scut.
+
+[r1]
+Vreau mereu Isuse,
+Tu să mergi ‘naintea mea,
+Iar eu smerit pe cale,
+să păşesc in urma Ta.
+
+[s2]
+Sunt ca şi cocorul,
+ce caută o ţară,
+Unde nu e iarnă,
+ci este vară;
+Doresc s-ajung acolo,
+în ţara de sus,
+Dar nu voi putea,
+decât cu Tine Isus.
+
+[order]
+s1,r1,s2,r1

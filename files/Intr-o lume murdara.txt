@@ -1,0 +1,27 @@
+[s1]
+Într-o lume murdară
+Am aflat pe Dumnezeu
+Viaţa El mi-a schimbat-o
+Iar acum sunt fiul Său.
+
+[r1]
+/: Fii curat într-o lume murdară
+Fii curat că El te va ajuta
+Fii curat într-o lume murdară
+Domnul te va ajuta :/
+
+[s2]
+Când eram pierdut în lume
+Tu Isuse m-ai salvat
+Dar prin jertfa glorioasă
+Viaţa veşnică mi-ai dat.
+
+[s3]
+Doar prin El poţi invinge păcatul
+Prin Isus poţi sa fii curat,prin El
+Doar cu El poţi păsi prin credintă
+Să ramâi învingator si să fii victorios
+Ca să fii curat prin El.
+
+[order]
+s1,r1,s2,r1,s3,r1

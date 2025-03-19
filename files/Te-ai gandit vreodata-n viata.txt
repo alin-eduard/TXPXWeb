@@ -1,0 +1,39 @@
+[s1]
+Te-ai gândit vreodată-n viaţă,
+Ca tot ce-ai agonisit,
+Se va spulbera odată,
+Ca o clipa-n infinit.
+
+[r1]
+Dar tu ia seama acum,
+Ulei ia pe-al vieţii drum,
+Că-n curând Isus El vine,
+Şi te va-ntreba creştine,
+Ce-ai lucrat cu darul ce ţi-am dat.
+
+[s2]
+Tu te-ai întrebat vreodată,
+E Isus Păstorul tău,
+Sau în inima de gheaţa,
+El şi azi bate mereu.
+
+[s3]
+Te-ai gândit aici vreodată,
+Că viaţa e un vis,
+Dar a ta cărare frate,
+Ai pazit-o cum e scris?
+
+[s4]
+Nu te-ngrijora căci toate,
+Domnul Isus le-a purtat,
+De te-ncrezi in El o frate,
+Şi în braţul Lui slăvit.
+
+[s5]
+Când credinţa ta s-o-ncerce,
+Vremuri grele an de an,
+De vei birui te-a duce,
+El Isus in Cannan.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

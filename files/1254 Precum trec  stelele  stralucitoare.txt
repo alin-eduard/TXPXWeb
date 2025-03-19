@@ -1,0 +1,44 @@
+[s1]
+1.Precum trec stelele Strălucitoare,
+La raza soarelui dimineaţa
+Aşa vei trece
+De-aici lăsând toate,
+Dar, ce lui Isus ai făcut, va sta!
+1254							    DoM
+
+[r1]
+Asta rămâne, nu vestejeşte
+Ce pentru Isus
+Ai făcut, va sta!
+Căci tu vei trece
+De-aici, lăsând toate
+Dar, ce lui Isus ai făcut, va sta.
+
+[s2]
+2.De lucrul tău
+Altul se va bucura
+Pe tine-uitarea te va aştepta
+Chiar de-ai semănat,
+Tu nu vei secera,
+Dar, ce lui Isus ai făcut, va sta
+
+[s3]
+3.Serv credincios
+Cel ce bine ai luptat,
+Sub grele sarcini
+Tu nu te-ai lăsat.
+Te vei repauza,
+Dar ceea ce-ai plantat
+În veci, va sta,
+Ce-n iubire-ai lucrat.
+
+[s4]
+4.Plata cerească,
+Cea nemăsurată,
+Vor primi servii de la Împărat
+Niciun credincios
+N-a rămâne-afară
+N-a fi uitat ce aici ai lucrat!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

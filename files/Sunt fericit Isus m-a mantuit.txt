@@ -1,0 +1,17 @@
+[s1]
+/: Sunt fericit Isus m-a mântuit :/
+Îi cânt glorie aleluia
+Isus m-a mântuit
+
+[s2]
+/: Satan m-a legat Isus m-a eliberat :/
+Îi cânt glorie aleluia
+Isus m-a eliberat.
+
+[s3]
+/:Astăzi eu sunt liber de păcat iertat:/
+Îi cânt glorie aleluia
+Isus m-a eliberat.
+
+[order]
+s1,s2,s3

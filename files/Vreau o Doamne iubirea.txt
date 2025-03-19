@@ -1,0 +1,20 @@
+[s1]
+Vreau o Doamne iubirea
+Tu sa fii in viata mea
+Vreau o Doamne puterea
+Tu sa fii in viata mea
+
+[r1]
+Si Te voi preamari cu inima mea
+Si Te voi preamari cu viata mea
+Si Te voi preamari in toata lumea
+Caci esti Dumnezeu,esti D-l meu
+
+[s2]
+Vreau o Doamne iubirea
+Tu sa domnesti in viata mea
+Vreau o Doamne sfintirea
+S-o reversi in viata mea
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,43 @@
+[s1]
+1. Ia-mă, Doamne-n slujba Ta
+Şi tot în slujba Ta mă ţine,
+Să n-am nimic în astă lume,
+Decât Doamne, numai pe Tine
+217							           Fa m
+
+[s2]
+2.Ia-mi mâinile
+Și-a lor lucrare,
+Picioarele şi-a lor umblare;
+Ia-mi inima din pieptul meu
+S-o curăţeşti de orice rău.
+
+[s3]
+3. Ia-mi gura şi-a ei vorbire
+Să nu mai fie spre pieire
+Ia-mi ochii şi privirea lor
+Să-L văd pe-al meu Mântuitor.
+
+[s4]
+4. Ia-mi banii
+Pentru lucrul Tău
+Şi fă din mine un Zacheu.
+Şi-apoi intră în casa mea,
+Şi fă-Te Tu stăpân pe ea.
+
+[s5]
+5. Ajută-mi Doamne
+Să-mplinesc
+Ca Zacheu să mă umilesc
+Să mă cobor îndată jos,
+La glasul Tău, Isus Hristos.
+
+[s6]
+6.Să fiu ‘nălţat în ziua Ta,
+Când Tu pe nori
+Mă vei chema,
+Când trâmbiţa va răsuna,
+Să ies la-ntâmpinarea Ta.
+
+[order]
+s1,s2,s3,s4,s5,s6

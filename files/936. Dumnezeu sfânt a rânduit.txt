@@ -1,0 +1,42 @@
+[s1]
+936.
+1.  Dumnezeu sfânt a rânduit
+Deci El să fie preamărit,
+De-acum şi până-n veşnicie!
+Cor:	Vă mulţumim că ne-aţi chemat
+La nunta binecuvântată
+Şi-apoi în cerul minunat
+Cu toţi să ne vedem odată.
+
+[s2]
+2.	Iar ţie, mire, eu îţi spun
+Să-ţi ocroteşti pe veci aleasa
+Isus să fie-n viaţa ta,
+Să-ţi binecuvânteze casa.
+Cor:	Vă mulţumim că ne-aţi chemat
+La nunta binecuvântată
+Şi-apoi în cerul minunat
+Cu toţi să ne vedem odată.
+
+[s3]
+3.	În clipa sfântă ce-o trăim,
+Un sfat să-i dăm şi la mireasă
+“Alesul tău să-L preţuieşti
+Şi-n veci să-I fii credincioasă!”
+Cor:	Vă mulţumim că ne-aţi chemat
+La nunta binecuvântată
+Şi-apoi în cerul minunat
+Cu toţi să ne vedem odată.
+
+[s4]
+Iar la-ncheiere, miri iubiţi,
+Noi vă dorim doar fericire
+Cu Isus voi pe veci să fiţi
+Şi să vă ducă-n nemurire.
+Cor:	Vă mulţumim că ne-aţi chemat
+La nunta binecuvântată
+Şi-apoi în cerul minunat
+Cu toţi să ne vedem odată.
+
+[order]
+s1,s2,s3,s4

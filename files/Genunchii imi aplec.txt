@@ -1,0 +1,33 @@
+[s1]
+Genunchii îmi aplec
+Smerit ’naintea Ta
+În rugăciune mă închin
+Cuvinte n-am deajuns,
+Să pot să-Ţi mulţumesc
+Să-Ţi spun Isus cât te iubesc.
+
+[r1]
+/: Astăzi vin şi Te slăvesc
+Pentru harul Tău ceresc
+Pentru mântuire-n dar
+Primeste lauda, din toata inima,
+Primeşte multumirea mea :/
+
+[s2]
+M-ai binecuvântat,
+cum nici nu am visat
+Cu cei iubiţi din jurul meu
+Prin darul căpătat,
+Isus Tu ai lucrat
+N-am meritat, Tu fii laudat.
+
+[s3]
+Mi-eşti medic şi-adăpost,
+Eşti totu-n viaţa mea
+Făr’ de Tine n-aş putea.
+Traiesc să Te slujesc şi
+Cred că într-o zi
+Te voi vedea cu Tine’oi fi.
+
+[order]
+s1,r1,s2,r1,s3,r1

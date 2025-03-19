@@ -1,0 +1,24 @@
+[s1]
+/:Esti nadejdea mea, bucuria mea
+Numai Tu, Isus
+Fie cat de grea ziua, noaptea grea
+Grija Tu mi-o porti Isus.:/
+
+[r1]
+/: Nu pleca, nu pleca din viata mea
+Isuse drag. :/
+
+[s2]
+/:Valuri de-or veni, eu ma tin de Tin’
+Nu te las Isus
+Orice vijelii, cat de mari ar fi
+Numai Tu le poti opri.:/
+
+[s3]
+/:Am un ajutor, un izbavitor
+Nimeni nu-i ca El
+Orisiunde-as fi, unde m-as gasi
+Nu ma las nicicand de El.:/
+
+[order]
+s1,r1,s2,r1,s3,r1

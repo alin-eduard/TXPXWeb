@@ -1,0 +1,32 @@
+[s1]
+Ora e trecută, lecţia-am isprăvit,
+Tatăl, Fiul, Duhul fie proslăvit,
+Căci din Cartea Sfânta noi am învăţat,
+Iarăsi de iubirea Tatălui Înalt.
+
+[r1]
+Laudă şi mărire Domnului cântăm,
+Inimile noastre Lui i le predăm.
+Sarea şi lumina noi le răspândim,
+Tinereţea noastră Domnului jerfim.
+
+[s2]
+Din iubire sfântă Fiul a venit,
+Şi pe noi sărmanii, El ne-a mântuit
+Dându-ne iertare, fericirea Sa,
+Şi ne va conduce sus în ţara Sa.
+
+[s3]
+Noi primim putere de la Duhul Sfânt,
+Să conducem viaţa dup-al Său Cuvânt
+Diavolul şi lumea când ne-or ispiti.
+Prin a Sa putere, le vom birui
+
+[s4]
+Iată-ne Părinte, cum ne-am adunat,
+Binecuvinteaza tot ce-am învaţat
+Dă-ne inimi bune ca să Te mărim,
+Şi de altă dată iarăşi să venim.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

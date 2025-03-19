@@ -1,0 +1,27 @@
+[s1]
+2153
+1. Rugăciunea e o luptă mai întâi cu vechiul eu,
+Și cu diavolul ce pune piedici înspre Dumnezeu.
+
+[r1]
+Cor:	/: Isus Biruitorul, prin jertfa Lui divină
+În rugă, El ne-aduce o
+biruință plină,
+De-L credem, de-L primim și-n inimi Îl sfințim! :/.
+
+[s2]
+2. Lupta sfânt-a rugăciunii
+Nu e-nfrântă-n nici un fel,
+De-o păstrăm prin stăruință Și-alergăm cu ea spre țel!
+
+[s3]
+3.	Toate se-ntăresc prin rugă, Ea e-un har ce-atrage har.
+Și credință și iubire sunt cu rod, nu-s în zadar!
+
+[s4]
+4. Dacă rugăciunea-i vie,
+Viu e adevăru-n noi
+Înspre Dumnezeu atuncea Laudele-s vii și noi!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

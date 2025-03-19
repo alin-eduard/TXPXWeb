@@ -1,0 +1,38 @@
+[s1]
+De multe ori am alergat
+Am obosit am pribegit în vale
+Dar numai Tu m-ai ridicat
+Și ochii mei ai pironit în zare
+În mâna Ta Tu m-ai ținut
+Cu brațul Tău Tu m-ai cuprins Isuse
+Oricât a fost de grea
+Și neagră noaptea mea
+Mi-ai dat puteri nespuse
+
+[s2]
+/: Îți mulțumesc că m-ai iubit
+Pe cruce viața Tu mi-ai dăruit
+Păcatul meu Tu l-ai iertat
+Viața veșnică mi-ai dat
+Prin jertfa Ta sunt mântuit :/
+
+[s3]
+Astăzi sunt copilul Tău
+Sunt un fiu de Dumnezeu știu bine
+Pot cânta neîncetat
+Domnului ce s-a atins de mine
+Sunt săpat în palma Ta
+Nimeni nu mă va putea desparte
+De Domnul meu iubit
+La crucea Lui smerit
+Primit-am bunătate!
+
+[s4]
+/: Îți mulțumesc că m-ai iubit
+Pe cruce viața Tu mi-ai dăruit
+Păcatul meu Tu l-ai iertat
+Viață veșnică mi-ai dat
+Prin jertfa Ta sunt mântuit :/
+
+[order]
+s1,s2,s3,s4

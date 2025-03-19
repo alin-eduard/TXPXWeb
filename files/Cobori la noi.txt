@@ -1,0 +1,35 @@
+[r1]
+/: Cobori la noi / cobori la noi
+Sa te vedem / Sa te vedem,
+Isus Hristos / Isus Hristos
+Ce mare esti!!!
+Esti minunat / esti minunat,
+Esti nume sfant / Esti nume sfant
+Esti cel mai frumos!
+
+[s1]
+Tu esti Dumnezeul nostru
+care ne-ai scapat
+De la moarte si pacat
+Se cuvine: cinstea, slava,
+gloria in veci
+Tie Domn Preainalt
+
+[s2]
+In Tine ne-am pus speranta
+pentru vesnicii
+Si-n Tine ne incredem
+Doar Tu esti speranta noastra,
+Te-asteptam sa vii
+Sa lucrezi cu noi!
+
+[s3]
+Te chemam Isuse Doamne
+la noi sa cobori
+Si sa lasi puterea Ta
+Duhul Sfant sa ne-nsoteasca
+pe noi zi de zi
+Pan te vom vedea
+
+[order]
+r1,s1,r1,s2,r1,s3,r1

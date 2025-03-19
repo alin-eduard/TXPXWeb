@@ -1,0 +1,44 @@
+[s1]
+1194.
+1.   Nu  vă-ngroziţi de vremea încercării
+Să nu fugiţi când sunteţi încolţiţi
+Martirii Mei în clipa torturării
+Mureau cântând dar n-au fost biruiţi.
+2.    Veţi fi loviţi cu vorbe de ocară
+Privelişte veţi fi pe-acest pământ
+Să nu vă fie crucea o povară
+Ci stăruiţi şi cereţi Duhul Sfânt.
+
+[s2]
+3.    Să nu cădeţi acum de oboseală
+Şi-n rugăciune mereu să privegheaţi
+Plângeţi cu Mine via Mea e bolnavă
+Măcar un ceas cu Mine să vegheaţi.
+4.    Căci tulburarea va fi mare-n lume
+Veghează tu să arzi în templul Meu
+Cereţi cu toţi putere şi al Meu nume
+Vă va-ntări că Eu sunt Dumnezeu.
+
+[s3]
+5.    Nu v-am chemat la glorie şi slavă
+Şi nici la cinste nu veţi fi ’nălţaţi
+Aici în lume veţi avea necazuri
+Pe cale voi să nu descurajaţi.
+6.    Mulţi m-au vândut pe-arginţi
+De-a lungul vremii
+Şi cei ce vând sunt astăzi printre voi
+Dar voi să fiţi precum Samaritenii
+S-aveţi bănuţii Mei mereu la voi.
+
+[s4]
+7.    Sunt mulţi acei ce i-am chemat la nuntă
+Iar cei aleşi sunt foarte puţini
+Tu porumbiţă dă-Mi slavă şi cinste
+Ne vom vedea-n Ierusalimul nou.
+8.    Şi vei cânta pe veci atunci cântarea
+Ce n-o cunoşti doar o vei şti atunci
+Că nu-ţi va fi zadarnica aşteptare
+Şi vei ieşi din cuibul dintre stânci.
+
+[order]
+s1,s2,s3,s4

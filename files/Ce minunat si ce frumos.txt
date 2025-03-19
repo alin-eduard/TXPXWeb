@@ -1,0 +1,62 @@
+[s1]
+„Ce minunat şi ce frumos,
+Să fii bun credincios!"
+Aşa-mi spunea mămica mea.
+Din Biblie-mi citea,
+Ea se ruga pentru noi toţi,
+Despre Isus vorbea
+Din dragostea lui Dumnezeu
+adeseori cânta.
+
+[s2]
+/: Ce fericire nespusă va fi,
+Când noi toţi ne-om vedea sus în cer!...
+Mamă şi tată şi soră şi frate,
+Vom fi împreună mereu.
+Mama se bucura, inima-şi alina;
+Mama cânta aşa frumos,
+Cerul o asculta, lacrima-i dispărea:
+Ferice să fii bun credincios. :/
+
+[s3]
+Mama-n cântec, ea îmi povestea
+Despre Isus, despre Golgota.
+Cu credinţă mama se ruga
+Şi în rugă ea spunea aşa:
+Binecuvântă, Doamne, copilaşii mei!
+Tată bun, plin de mila, fii Tu pentru ei!
+
+[s4]
+/: Ce fericire nespusă va fi,
+Când noi toţi ne-om vedea sus în cer!...
+Mamă şi tată şi soră şi frate,
+Vom fi împreună mereu.
+Mama se bucura, inima-si alina;
+Mama cânta aşa frumos,
+Cerul o asculta, lacrima-i disparea:
+Ferice să fii bun credincios. :/
+
+[s5]
+Îmi aduc şi-acum aminte
+Ruga mamei câtre cer -
+/: Ce iubire fără margini,
+Pentru copilaşii ei! :/
+
+[r1]
+/: Ce fericire nespusă va fi,
+Când noi toţi ne-om vedea sus în cer!...
+Mamă şi tată şi soră şi frate,
+Vom fi împreună mereu.
+Mama se bucura, inima-şi alina;
+Mama cânta aşa frumos,
+Cerul o asculta, lacrima-i disparea:
+Ferice să fii bun credincios. :/
+
+[s6]
+Urmăriţi s-aveţi credinţă
+Mamei din cântecul meu!
+Stăruiţi în rugăciune!
+Lăudaţi pe Dumnezeu!
+
+[order]
+s1,s2,s3,s4,s5,r1,s6,r1

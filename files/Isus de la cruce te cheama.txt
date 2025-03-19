@@ -1,0 +1,26 @@
+[s1]
+Isus de la cruce te cheamă cu dor,
+El n-ar vrea ca tu să te pierzi;
+Te-mbie al tău iubitor Salvator:
+Priveşte spre El ca să crezi.
+
+[r1]
+Isus de la cruce te cheamă cu dor:
+Te-opreşte, ascult’al Său glas;
+Duios te mai roagă al tău Salvator,
+Spre El ca să faci doar un pas.
+
+[s2]
+Şi mâinile Sale, străpunse pe lemn,
+Vestesc harul ce ni s-a dat;
+Ia seama acum l’al iubirii îndemn,
+Căci El pentru tine-a răbdat.
+
+[s3]
+E timpul să crezi azi în Domnul Isus,
+Să laşi lumea cu-a ei plăceri;
+Doar El poate da bucurii de nespus
+Ce’nving orice chin şi dureri.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,63 @@
+[s1]
+1. Te-am născut în suferinţă
+Poporaşul meu
+Şi te-adun cum cloşca puii
+Şi-adună mereu
+289.
+
+[s2]
+/:Când mă uit înspre popor
+Ce l-am născut cu drag
+Şi-i văd starea decăzută
+Nu ştiu ce să fac:/.
+
+[s3]
+2. De ce stai nepăsător
+Chiar la sfârşit de drum
+Când semnele venirii Lui
+Se împlinesc de-acum.
+
+[s4]
+/:Unde-i dragostea de Mine
+Poporaşul meu
+De ce vă urâţi într-una
+Şi vă vorbiţi de rău:/.
+
+[s5]
+3. Nu ştiţi că dezbinările
+Nu-s din Duhul Meu
+Certurile clevetirea
+Vin de la cel rău.
+
+[s6]
+/:Între voi să fie pace
+Când vă adunaţi
+Că sunteţi născuţi de-o mamă
+Şi toţi sunteţi fraţi:/.
+
+[s7]
+4. Eu v-am învăţat într-una
+Ca să vă iubiţi
+Pe pământ lumină sfântă
+Voi să răspândiţi.
+
+[s8]
+/:Cine umblă în lumină
+Va fi luminat
+Şi de focul veşniciei
+El va fi salvat:/.
+
+[s9]
+5. Să cunoaşteţi vremurile
+Când vă cercetez
+Căci lucrarea Mea e mare
+Şi vreau să lucrez.
+
+[s10]
+/:Vreau să lucrez pe pământ
+Prin puterea Mea
+Să vestesc al Meu cuvânt
+În toată lumea:/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

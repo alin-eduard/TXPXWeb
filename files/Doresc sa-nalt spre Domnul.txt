@@ -1,0 +1,33 @@
+[s1]
+Doresc sa’nalt spre Domnul o cantare
+Sa’l preamaresc pe Dumnezeul meu
+Prin jertfa Lui mi’a dat eliberare
+Si mi’a iertat pe veci pacatul meu
+Toti cei ce sunt rascumparati de Domnul
+In lupta pe pamant nu obositi
+V’asteapta sus in cer Mantuitorul
+Rasplata pentru toate sa primiti
+
+[r1]
+Veniti sa laudam pe Domnul slavei
+Sa laudam cu toti numele Lui
+Cu credinciosii azi din lumea’ntreaga
+Veniti sa ne’nchinam azi Domnului
+Viata’ti daruim pentru vecie
+Si vrem sa ne’nchinam
+Prin Duhul Sfant
+Isuse te slujim cu bucurie
+Cat vom trai aicea pe pamant
+
+[s2]
+Ce dulce este harul Tau ceresc
+Si pacea Ta imi umple inima
+Atuncea bucuriile imi cresc
+Cand stiu ca viata mea e’n Mana Ta
+Veniti sa ne luptam toti cu nadejde
+De grijuri multe Domnul ne’a scapat
+Cu totii noi in El ne vom increde
+Ca ne va duce’n cerul minunat
+
+[order]
+s1,r1,s2,r1

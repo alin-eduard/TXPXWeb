@@ -1,0 +1,38 @@
+[s1]
+2223
+1. Vor trece anii noştri care
+Ei tot adună-n calea lor
+Dar sus în ceruri ne aşteaptă
+Oraşul sfânt, locaş Ierusalim.
+
+[s2]
+Cor:	/: Cu suflet mă grăbesc
+Acolo să sosesc
+Să-ajung acasă eu doresc
+Necazuri voi uita
+Spre ceruri voi zbura
+Pământule de tine voi uita :/.
+
+[s3]
+2. Isus e Împărat şi Preot
+Prin El lumina am primit
+Acum sunt liber de robie
+Păşesc acum
+spre ţărmul fericit.
+
+[r1]
+Cor:	/: Cu suflet mă grăbesc
+Acolo să sosesc
+Să ajung acasă eu doresc
+Necazuri voi uita
+Spre ceruri voi zbura
+Pământule de tine voi uita :/.
+
+[s4]
+3. Acolo sus e frumuseţe
+Iar imnuri cântă heruvimi
+Pe străzile ce sunt de aur
+Oraşul sfânt locaş Ierusalim.
+
+[order]
+s1,s2,s3,r1,s4,r1

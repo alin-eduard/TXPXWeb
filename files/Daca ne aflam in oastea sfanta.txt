@@ -1,0 +1,34 @@
+[s1]
+Dacă ne aflăm în oastea sfântă
+Să luptăm pân’ la sfârşit
+Domnul azi ne dă în dar credinţă
+Şi puteri de neclintit
+/:De la El primim cununa
+Că în lupt-am biruit:/
+
+[r1]
+Te ‘nălţăm, Te ‘nălţăm
+Căci doar prin harul Tău,
+azi în picioare stăm
+Te slăvim, Te slăvim
+Salvaţi de braţul Tău cel tare,
+noi trăim
+
+[s2]
+Merită să mergi pe drumul crucii
+Şi să cânţi voios cântări
+Chiar dacă-i ades’ cu spini şi lacrimi
+Şi e plin cu încercări
+/:Drumul duce-n cer şi este
+Plin de binecuvântări:/
+
+[s3]
+Nicidecum nu vom pierde speranţa
+Căci cu noi e Dumnezeu
+De la El primim în dar viaţa
+Şi al vieţii sfânt trofeu
+/:Când ne-om prezenta în faţa
+Tronului lui Dumnezeu:/
+
+[order]
+s1,r1,s2,r1,s3,r1

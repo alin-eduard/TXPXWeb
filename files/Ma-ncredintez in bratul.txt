@@ -1,0 +1,27 @@
+[s1]
+Mă-ncredinţez în braţul Domnului;
+Nădăjduiesc să fiu, pe veci, al Lui!
+În inimă eu L-am primit pe El
+Şi viaţa mea Îi aparţine Lui.
+
+[r1]
+Fiindc-atât de mult
+A iubit Dumnezeu lumea
+Că a dat pe singurul lui Fiu,
+Ca oricine crede-n El să nu piară,
+Ci să aibă viaţă veşnică!
+
+[s2]
+Ştiu: Domnul meu, El e-ngăduitor;
+Ştiu: Domnul meu, El este răbdător;
+Ştiu: Domnul meu, El e Prietenul
+Binevoitor, El e nespus de bun.
+
+[s3]
+Acum este momentul potrivit.
+Întoarceţi-vă, ca să fiţi primiţi!
+Veniţi la Domnul, in El vă-ncredeţi!
+Alegeţi-vă viaţa veşnică!
+
+[order]
+s1,r1,s2,r1,s3,r1

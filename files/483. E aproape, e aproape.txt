@@ -1,0 +1,41 @@
+[s1]
+1.	/: E aproape :/
+Da, Isus e foarte aproape!
+/: Vrei să simţi a Sa prezenţă?
+Crede-n El în permanenţă,
+Căci Isus e foarte-aproape. :/
+2.	/: Vin’ degrabă! :/
+Doamne, vino Tu degrabă!
+/: Duhul Sfânt revarsă-n mine
+Să vorbesc în limbi străine
+Doamne, vino Tu degrabă! :/
+483.            Sol
+
+[s2]
+/: Dimineaţa :/
+Zorii zilei se revarsă
+/: Când Isus va apărea
+Cu puteri şi slavă mare
+Strălucindu-I faţa tare :/.
+
+[s3]
+4.	/: Domnul vine! :/
+La-mplinirea vremii vine.
+/: Pe satan ca să-l zdrobească
+Lucrul său să-l nimicească
+Şi pe sfinţi să-i ia la Sine. :/
+5.	/: Mântuire :/
+Minunată mântuire!
+/: Ieri pierdut în umilinţă,
+Azi salvat în biruinţă,
+Mâine-n cer în fericire. :/
+
+[s4]
+6.	/: Prin credinţă :/
+Înainte prin credinţă!
+/: Când te afli-n slăbiciune
+Stăruieşte-n rugăciune
+Şi-ntăreşte-te-n credinţă. :/
+
+[order]
+s1,s2,s3,s4

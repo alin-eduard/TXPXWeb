@@ -1,0 +1,39 @@
+[s1]
+1. Astăzi este ziua scumpe suflete
+Când Domnul te cheamă
+La mântuire
+Azi te-ntoarce la Domnul,
+Nu-L amâna
+Căci mâine se poate
+Nu vei mai putea.
+378.
+
+[s2]
+2. Azi e timpul când poţi
+Să fii mântuit
+Vino la El ca să nu fii osândit
+Căci toţi cei ce pe Domnul
+Nu-L primesc
+În chinul cel veşnic
+Ei se chinuiesc.
+
+[s3]
+3. Căci va veni timpul
+Foarte însemnat
+Când harul de la neamuri
+Va fi luat
+Împlinindu-se numărul sfinţilor
+Atunci s-a închide uşa
+Neamurilor.
+
+[s4]
+4. Dacă ai primit pe Domnul
+Chiar acum
+Stai lângă El
+Şi nu te abate din drum
+Stai că Isus Hristos
+Un loc ţi-a gătit
+În care în veci să poţi fi tu fericit.
+
+[order]
+s1,s2,s3,s4

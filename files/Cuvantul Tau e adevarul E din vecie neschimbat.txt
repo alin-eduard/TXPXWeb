@@ -1,0 +1,36 @@
+[s1]
+Cuvantul Tau e adevarul,
+E din vecie neschimbat!
+Chiar mai inainte de-a fi cerul
+A fost Cuvantul Tau curat!
+Re M
+
+[s2]
+Cuvantul Tau nu-i ras nici glume
+Nici vorbe fara capataii!
+Cuvantul Tau e-ntelepciune
+Si-n toate el a fost intai
+Cuvantul Tau a fost intai
+
+[s3]
+Cuvantul Tau e mangaiere,
+E bunatate, e prinos!
+Cuvantul Tau e o putere!
+Cuvantul Tau e glorios!
+Cuvantul Tau e glorios!
+
+[s4]
+Cuvantul Tau e-un rau de pace,
+Este credinta, este Har!
+Cuvantul Tau, oricui va place
+Primeste mantuire-n dar!
+
+[s5]
+Cuvantul Tau cine-l rosteste
+Sa stea departe de ce-i rau
+Cuvantul Tau marturiseste
+Caci Tu esti Domn, esti Dumnezeu
+Caci Tu esti Domn, esti Dumnezeu
+
+[order]
+s1,s2,s3,s4,s5

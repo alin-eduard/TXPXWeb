@@ -1,0 +1,37 @@
+[s1]
+Cum sa-i cant Domnului in orice vreme?
+Cum sa-i cant? Cum sa-i cant?
+De nimic in lumea asta nu m-as teme
+Nu m-as teme, nu m-as teme
+
+[r1]
+Ca Domnul este stanca mea,
+Mana Lui ma va tinea, intodeauna
+Domnul estea-a mea tarie
+Voi canta cu bucurie
+Numele Lui sfant si mare voi nalta.
+La domnul imi e speranta
+Si in El am siguranta
+Glorie in veci, Aleluia
+O, Glorie in veci, Aleluia.
+
+[s2]
+Cum sa-i cant Domnului mei sa ii placa?
+Cum sa-i cant? Cum sa-i cant?
+Imi voi smeri inima si fiinta toata
+Imi voi smeri, imi voi smeri.
+
+[s3]
+Voi canta in casa pribegiei mele
+Voi canta, voi cant
+In tovarasia celor far prihana
+Intre ei, intre ei.
+
+[s4]
+Voi canta cantarea cea de izbavire
+Voi canta, voi canta
+Incantarea mea, va fi doar preamarire
+Numele vesnic sfant
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,r1

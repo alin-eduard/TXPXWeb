@@ -1,0 +1,26 @@
+[s1]
+Sfinte Isuse, eşti Stăpân al vieţii,
+Tu, Fiu de om şi Dumnezeu!
+Cât mi­e de dragă a Ta voinţă,
+Eşti viaţa mea, eşti dorul meu!
+
+[s2]
+Lunca­i frumoasă, e la fel pădurea
+Cu­al primăverii strai de flori;
+Isus, n­ai seamăn în frumuseţe,
+Cobori cu­a cerului splendori!
+
+[s3]
+Sunt minunate: soare, lună, stele
+Cu bogăţia de lumini;
+În strălucire întreci Isuse
+Chiar îngerii din înălţimi!
+
+[s4]
+Eşti Salvatorul, Rege­al omenirii,
+Tu, Fiu de Dumnezeu, preasfânt!
+Onoare Ţie şi închinare,
+Etern în cer şi pe pământ!
+
+[order]
+s1,s2,s3,s4

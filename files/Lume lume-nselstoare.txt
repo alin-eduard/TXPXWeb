@@ -1,0 +1,38 @@
+[s1]
+Lume, lume-nşelătoare
+Nu mai încerca-n zadar
+Prin chemări amăgitoare
+Să mă-ntorci la tine iar.
+
+[r1]
+Cînd ţi-aud chemarea, lume
+Faţa-n palme mi-o ascund.
+În zadar mă chemi pe nume -
+Nu mai vreau să îţi răspund !
+
+[s2]
+În zadar întinzi spre mine
+Al plăcerilor pahar -
+Nu mai beau, căci ştiu prea bine
+Că e veninos şi-amar.
+
+[s3]
+Ţi-am băut paharul, lume
+Dar amar a fost la fund
+Oricît m-ai chema pe nume
+Nu mai vreau să îţi răspund !
+
+[s4]
+Azi, cînd tu-mi întinzi paharul
+Şi mă chemi să mi-l oferi
+Mi-amintesc de tot amarul
+Din paharul cel de ieri.
+
+[s5]
+Am băut acum din harul
+Bunului Mîntuitor
+Lume, nu-ţi mai beau paharul
+Chiar dacă ar fi să mor !
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,25 @@
+[s1]
+Am sânge pe uşa vieţii
+E sângele Mielului Sfânt
+Nu-i putere s-o poată deschide
+Căci e păzita de sângele sfânt.
+
+[s2]
+Satan va veni să mă acuze
+Dar eu mă hrănesc din Cuvânt
+Ştiu că nu mai e condamnare
+Căci mă aflu sub sângele sfânt.
+
+[s3]
+/: Mă aflu sub sângele sfânt
+Ce-acoperă al meu trecut
+Doar prin Harul de Sus
+Am parte şi eu cu Isus.
+Mă aflu sub sângele sfânt
+În toiul furtunii
+Sunt în braţul sfânt
+Nu-i nicio armă în care să-mi stea
+Căci mă aflu sub sângele sfânt :/
+
+[order]
+s1,s2,s3

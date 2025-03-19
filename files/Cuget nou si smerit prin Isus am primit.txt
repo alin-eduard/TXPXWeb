@@ -1,0 +1,36 @@
+[s1]
+Cuget nou şi smerit,
+prin Isus am primit
+De când El viaţa mi-a curăţit,
+mi-a curăţit
+Omul meu învechit,
+Isus l-a înnoit,
+Şi de-atunci eu Îi cânt fericit.
+
+[r1]
+Fii slăvit, fii slăvit
+Cel ce m-ai mântuit, Fii slăvit,
+Aleluia-Ţi cânt mereu:
+Fii slăvit, Domnul meu, fii slăvit
+Cel ce m-ai mântuit, fii slăvit!
+
+[s2]
+Voi cânta ne-ncetat
+că Isus m-a salvat,
+Voi cânta că nespus
+m-a iubit, m-a iubit
+Voi vesti tuturor despre-al
+meu Salvator,
+Căci prin El astăzi
+sunt mântuit.
+
+[s3]
+Imnul meu va suna
+numai spre slava Sa
+Pe pământ şi în cer pururea,
+Pururi Lui Îi voi fi supus,
+Mielului sfânt, Isus,
+Veşnic în străluciri de nespus.
+
+[order]
+s1,r1,s2,r1,s3,r1

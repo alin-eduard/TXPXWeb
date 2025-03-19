@@ -1,0 +1,34 @@
+[s1]
+1. Din Tine am venit, Iubire
+Şi tot prin Tine merg mereu.
+Frum’seţe şi desăvârşire
+Doar Tu dai sufletului meu.
+172.
+
+[r1]
+Cor:
+/:O, Iubire, o ,Iubire!
+Har etern venit de sus!
+Mântuire, mântuire
+Prin Golgota ne-ai adus!:/
+
+[s2]
+2. Deşi întruna eşti cu mine
+Şi necurmat mă fericeşti,
+Mă arde dorul după Tine
+Să Te pătrund aşa cum eşti.
+
+[s3]
+3. Fă-mi clipele vieţii mele
+Izvoare proaspete de har
+Ca să ţâşneşti doar Tu din ele
+Îmbelşugat pe-orice hotar.
+
+[s4]
+4. Din Tine am venit, Iubire
+Şi merg spre Tine necurmat
+Că-n binecuvântata-Ţi fire
+E Dumnezeu cu-adevărat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

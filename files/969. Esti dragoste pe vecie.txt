@@ -1,0 +1,41 @@
+[s1]
+969.
+1. Eşti dragoste pe vecie
+Tu mi-ai dat Isuse mie.
+Cor:	/: La Tine eu vin,
+La Tine eu vin :/.
+2. Cununa nevestejită
+Să pot fi eu mântuită.
+
+[s2]
+3. Isuse, Isuse dragă
+Du-mă la Tine mai de grabă.
+Cor:	/: La Tine eu vin,
+La Tine eu vin :/.
+4. Ca să fiu nevinovată
+Şi pe veci eu mântuită.
+
+[s3]
+5. O, Isuse Domnul meu
+Ajută-mă să-Ţi cânt mereu.
+Cor:	/: La Tine eu vin,
+La Tine eu vin :/.
+6. Spre slava Numelui Tău
+Să merg cu Tine mereu.
+
+[s4]
+7. Ca s-alerg la Tine acasă
+În grădina cea frumoasă.
+Cor:	/: La Tine eu vin,
+La Tine eu vin :/
+8. Unde mă voi bucura
+Cu îngerii-ntotdeauna.
+
+[s5]
+9.  Eu Ţie îţi voi cânta
+Osana Aleluia.
+Cor:	/: La Tine eu vin,
+La Tine eu vin :/.
+
+[order]
+s1,s2,s3,s4,s5

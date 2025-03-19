@@ -1,0 +1,25 @@
+[s1]
+Doamne mare fii slăvit!
+Preamărim a Ta putere!
+Te slăvesc necontenit:
+/: Căci eşti singur neschimbat
+Doamne-n toate-ai triumfat!:/
+
+[s2]
+Heruvimi şi Serafimi
+Laudă a Ta mărire,
+Îngerii în cor sublim
+Cântă-n mare strălucire,
+/: Toţi Îţi cântă tot mereu:
+Sfânt, Sfânt, Sfânt e Dumnezeu! :/
+
+[s3]
+Tu priveşti îndurător
+La întreaga creatură
+Şi conduci biruitor
+Pe cei ce-s a Ta făptură
+/: Când Isus va apărea
+Vom privi toţi faţa Sa :/
+
+[order]
+s1,s2,s3

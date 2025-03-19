@@ -1,0 +1,47 @@
+[s1]
+A mai trecut un an
+Stăpânul vine-n vie
+Rod în smochin, El
+Iarăși va căuta,
+Dar ca și altădată
+El roade nu găsește
+Taie-l, nu-l voi mai lasa.
+
+[s2]
+/: Nu-l voi mai lăsa,
+Nu-l voi mai ierta
+De trei ani eu roadă nu găsesc.
+Taie-l nu mai sta, nu mai amâna
+În smochin, Eu roadă nu gasesc:/
+
+[s3]
+Mai lasă-l înc-un an
+Și e de-ajuns Stăpâne
+De el de-aproape
+Mă voi ocupa,
+La rădăcină apă iarăși
+Eu îi voi pune
+Iar dacă nu rodește-L vei tăia.
+
+[s4]
+/:Poate într-o zi iarăși va rodi
+Acest smochin ce-aproape s-a uscat
+Și când vei veni, roada-i vei găsi
+Mai lasă-l, o, Stapane minunat:/
+
+[s5]
+De-atâta vreme Domnul,
+Mai caută roadă-n tine
+Ce va găsi când iarăși va veni?
+Să ai nădejde frate,
+C-atunci el în mărire
+Pe-acel care rodește-l va răpi.
+
+[s6]
+/:Stăpânul va veni, cum te va găsi?
+Dacă tu nu vrei să mai rodești
+Și în veșnicii tu cu El vei fi,
+Dacă pe pământ o să-L slujești. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

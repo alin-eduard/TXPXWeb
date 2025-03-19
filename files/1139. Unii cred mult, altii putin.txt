@@ -1,0 +1,53 @@
+[s1]
+1.	Unii cred mult, alţii puţin
+Dar sunt atâţi care nu cred nimic
+Eu te întreb prietene
+Spune-mi ce crezi tu.
+Cor:	/: A lui Dumnezeu suntem
+Şi noi am fost salvaţi prin har
+Astăzi poţi veni şi tu
+Primind viaţă-n dar. :/
+1139. Sol b
+
+[s2]
+2.	Unii pornesc, alţii se-opresc
+Dar sunt atâţia ce rătăcesc
+Gândeşte-te prietene
+Încotro mergi tu.
+Cor:	/: A lui Dumnezeu suntem
+Şi noi am fost salvaţi prin har
+Astăzi poţi veni şi tu
+Primind viaţă-n dar. :/
+
+[s3]
+3.	Unii iubesc, alţii urăsc
+Dar sunt atâţia ce-s schimbători
+Întreabă-te prietene
+Oare cum eşti tu.
+Cor:	/: A lui Dumnezeu suntem
+Şi noi am fost salvaţi prin har
+Astăzi poţi veni şi tu
+Primind viaţă-n dar. :/
+
+[s4]
+4.	Anii trec iute în viaţa ta
+Şi zi cu zi tu vei observa
+Căci ai rămas fără de Hristos
+Şi-atunci vei regreta.
+Cor:	/: A lui Dumnezeu suntem
+Şi noi am fost salvaţi prin har
+Astăzi poţi veni şi tu
+Primind viaţă-n dar. :/
+
+[s5]
+5.	Te îndemn acum prietene
+Schimbă-ţi tu azi viaţa ta
+La Dumnezeu întoarce-te
+Şi pace vei afla.
+Cor:	/: A lui Dumnezeu suntem
+Şi noi am fost salvaţi prin har
+Astăzi poţi veni şi tu
+Primind viaţă-n dar. :/
+
+[order]
+s1,s2,s3,s4,s5

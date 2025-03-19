@@ -1,0 +1,33 @@
+[s1]
+1430. Fa m
+1.Iehova Elohim,eternul Creator
+Iehova Adonai ,Domnul puternic
+El e Iehova Shur ,stanca veacurilor
+El e Iehova Atotputernic Domn
+
+[r1]
+Cant aleluia ,cant aleluia
+Canta aleluia ,cant aleluia
+El e Iehova ,Domnul puternic
+El e Iehova Domnul ce m-a iubit
+
+[s2]
+2.E marele ‘’ÉU SUNT’’Tatal lui Avraam
+Iehova Shalom, Domnul e pacea
+Iehova Rohi,Domnul Pastorul meu
+El e Iehova ,Singurul Dumnezeu
+
+[s3]
+3.Iehova Irie ,poarta de grija
+Iehova Rafa,Domnul ma vindeca
+Iehova Nissi, Domnul e steagul meu
+Iehova Shama,Aici e Dumnezeu
+
+[s4]
+4.Iehova Țidkenu,dreptul Judecator
+Iehova Savaot ,Domnul ostirilor
+Iehova ,Hoshenu,al nostru Creator
+El e Iehova al nostru Salvator
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

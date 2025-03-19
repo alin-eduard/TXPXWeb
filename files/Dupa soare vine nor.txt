@@ -1,0 +1,32 @@
+[s1]
+După Soare vine nor,
+după nor iar vine Soare
+După bine vine rău,
+după greu, zile uşoare.
+Când e greu, să ne rugăm,
+ca în zilele cu Soare
+Rugăciunea orişicând
+poate-aduce rezolvare.
+
+[r1]
+Când la cârma vieţii e
+Zi de zi numai Isus
+Nu ne clătinăm defel
+Nu ne poticnim pe cale!
+Căci la timp şi ne la timp
+Noi să ridicăm altare
+Presărându-le mereu
+Zi de zi pe-a noastră cale!
+
+[s2]
+Omul bun şi-n zile grele
+e tot bun ca-n zile bune
+Faţa lui e tot senină,
+când e Soare sau furtună.
+Fiindcă temelia lui
+nu-i zidită pe nisip
+Nu se clatină defel,
+el pe stâncă e zidit.
+
+[order]
+s1,r1,s2,r1

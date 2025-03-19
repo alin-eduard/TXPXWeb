@@ -1,0 +1,32 @@
+[s1]
+N-am să uit vreodată
+Ziua minunată
+Cînd El m-a întrebat :
+<Vrei să-ţi iau povara
+Vrei ca să te scap ?>
+<Da !>, şi eu am fost salvat.
+
+[r1]
+/: /: Născut din nou :/
+El m-a născut din nou!
+Slavă Îi dau Domnului meu
+Căci m-a născut din nou! :/
+
+[s2]
+Nu te-ngrijora
+De ziua ce-o veni
+Căci El te va păzi.
+Vrei, amice drag
+Ca să fii salvat ? -
+Vino, şi vei fi iertat !
+
+[s3]
+Isus stă şi bate
+La inima ta
+Deschide-I, nu-L refuza!
+Zile, nopţi întruna
+Toată viaţa ta
+Bucuros Îi vei cînta.
+
+[order]
+s1,r1,s2,r1,s3,r1

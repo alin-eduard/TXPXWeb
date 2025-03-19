@@ -1,0 +1,57 @@
+[s1]
+128.
+1. Aş vrea Isuse scumpul meu
+Să-ţi văd Ierusalimul nou
+Ca s-ajung în slava Ta
+Cu sfinţii a mă bucura.
+
+[s2]
+2. Când pe nori vei apărea
+Să Te pot întâmpina
+De aceea Isus iubit
+Eu te rog necontenit.
+
+[s3]
+3. Când vin valuri de cădere
+Tu să fii ca mângâiere
+Orice valuri vor veni
+Eu atunci le-oi birui.
+
+[s4]
+4. Doamne auzi suspinul meu
+Cât e de amar şi greu
+Dacă Tu mă vei lăsa
+Valurile mă vor 'neca.
+
+[s5]
+5. Valurile de păcat
+Ce se luptă azi grozav
+Ca să nu putem lupta
+Pentru-mpărăţia Ta.
+
+[s6]
+6. O, Isuse al meu iubit
+Îmbracă-mă cu Duhul Sfânt
+Astă haină de-aş avea
+Te-oi putea întâmpina.
+
+[s7]
+7. Când pe nori Tu vei veni
+La sunetul trâmbiţei
+Când morţii se vor trezi
+Mare jale atunci va fi.
+
+[s8]
+8. Mulţi vor plânge cu amar
+Dar atunci va fi-n zadar
+Pentru că n-au ascultat
+De Tatăl adevărat.
+
+[s9]
+9. De aceea iubit popor
+Nu mai sta nepăsător
+Căci de-ţi pare lupta grea
+Canaan nu vei intra.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

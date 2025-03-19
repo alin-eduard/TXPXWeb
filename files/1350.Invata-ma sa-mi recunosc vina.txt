@@ -1,0 +1,39 @@
+[s1]
+1350.       Re
+1.  Învaţă-mă să-mi recunosc eu vina
+Tot ce-am făcut şi tot ce fac în viaţa mea
+/: Nimic să nu caut Doamne a ascunde
+Căci Tu-mi cunoşti prea bine viaţa mea:/
+2.  Învaţă-mă să-mi recunosc umblarea
+Şi orice pas ce am făcut greşit
+/: Şi-apoi să plâng Isuse drag cu lacrimi
+Când de la calea Ta m-am rătăcit:/
+
+[s2]
+3.  Învaţă-mă să-mi recunosc privirea
+Dacă cu ochii Doamne ţi-am greşit
+/: Şi-apoi să plâng Isuse drag cu lacrimi
+Dac-am privit unde nu-mi era-ngăduit:/
+4.  Învaţă-mă să-mi recunosc vorbirea
+Şi-orice cuvânt ce n-a fost potrivit
+/: Şi-apoi să plâng Isuse drag cu lacrimi
+Căci şi prin vorbe multe ţi-am greşit:/
+
+[s3]
+5.  Învaţă-mă să-mi recunosc eu truda
+Ce-o am de dus pe-acest pământ străin
+/: Prea mult a fost pe-cale oboseala
+Şi prea puţin în lucrul Tău cel sfânt:/
+6.  Învaţă-mă să-mi recunosc eu timpul
+Ce mi l-ai dat Tu mie să-ţi slujesc
+/: De multe ori  l-am risipit Isuse
+Pe lucruri care pier şi putrezesc:/
+
+[s4]
+7.  Învaţă-mă să-mi recunosc Isuse
+Că sunt prea mic şi slab în faţa Ta
+/: Şi că mai sunt e mila Ta Stăpâne
+Ce-o mai păstrez pentru viaţa mea:/
+
+[order]
+s1,s2,s3,s4

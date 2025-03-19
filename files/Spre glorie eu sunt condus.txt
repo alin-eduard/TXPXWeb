@@ -1,0 +1,26 @@
+[s1]
+Spre glorie eu sunt condus
+De Salvatorul meu Isus!
+Oriunde-aş fi, orice-aş lucra
+Condus eu sunt de mâna Sa!
+
+[r1]
+El m-ajută, mă conduce,
+Cu mâna Sa puternică.
+Voi fi cu El biruitor,
+Prin scumpul meu Mântuitor.
+
+[s2]
+De multe ori cărarea mea,
+Golgota iarăşi va sui;
+Atunci privindu-L voi putea,
+Mai mult de-atâta îndrăgi.
+
+[s3]
+Te rog ia mâna mea-n a Ta,
+Nicicând Tu nu mă poţi uita!
+Condu-mă cu-al Tău braţ, Isus
+S-ajung la Tine-n ceruri sus!
+
+[order]
+s1,r1,s2,r1,s3,r1

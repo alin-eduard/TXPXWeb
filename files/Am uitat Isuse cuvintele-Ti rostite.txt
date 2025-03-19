@@ -1,0 +1,35 @@
+[s1]
+Am uitat Isuse cuvintele-Ti rostite
+Tot ce mi-ai promis candva
+E doar un sunet stins
+Indoiala ma cuprinde
+Azi ratacesc in lume
+Imi iarta necredinta mea
+Vreau sa traiesc din nou
+
+[r1]
+/:Fie-Ti mila Domnul nostru
+Fie-Ti mila de noi:/
+
+[s2]
+Am construit altarul
+Pentru lucruri trecatoare
+Am umblat pe calea
+Care duce spre infern
+Ma intorc la Tine
+Sa primesc a Ta-ndurare
+Iarta-mi vina astazi
+Pe Tine Te iubesc
+
+[s3]
+Mi-am dorit o Doamne
+Sa Te cunosc de-aproape
+Si sa inteleg iubirea
+Care nu are sfarsit
+Inchin a mea fiinta
+In prezenta Ta divina
+Ce straluceste vesnic
+Ca un far in noaptea grea
+
+[order]
+s1,r1,s2,r1,s3,r1

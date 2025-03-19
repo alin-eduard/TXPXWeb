@@ -1,0 +1,32 @@
+[s1]
+Leac de vrei pentru durerea
+Ce-ţi loveşte inima
+Vino la Isus acuma
+Starea El Ţi-o va schimba
+
+[r1]
+/: Prin credinţă totul e posibil
+Prin credinţă El e vizibil
+Prin credinţă poţi şi tu
+Spune da sau nu :/
+
+[s2]
+Când durerea te apasă
+Şi-ncercarea nu te lasă
+Cere-I pacea Lui Hristos
+Care-ţi este de folos.
+
+[s3]
+Când în lupta cu Satan
+Ai pierdut că-i mai viclean
+Strigă doar plin de nădejde
+La Isus ce te priveşte.
+
+[s4]
+A Lui arme sunt cereşti
+Bune în lupte duhovniceşti
+Bune pentru starea ta
+Să obţii victoria.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

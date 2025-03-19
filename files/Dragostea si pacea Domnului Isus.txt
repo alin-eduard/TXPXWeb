@@ -1,0 +1,28 @@
+[s1]
+Dragostea si pacea Domnului Isus
+Astazi se coboara peste voi de sus
+In a voastra casa fie El mereu
+Atat la bine insa si la greu
+Impreuna astazi voi porniti la drum
+Si tot impreuna astazi sa-i slujiti
+Nu uitati nicicand de legamantul sfant
+Ca pe veci sa fiti nedespartiti
+
+[r1]
+Sa fiti uniti in orice timp
+Si dragostea mereu sa va insoteasca
+Isus Hristos, cu mana Lui
+Caminul vost' cu drag oricand sa-l sfinteasca
+
+[s2]
+Cand furtuni si valuri vor veni spre voi
+Impreuna sa priviti sus in doi
+Barca voastra va pluti atunci usor
+Daca-n ea se va afla Isus
+Mire si mireasa astazi nu uita
+Voi simbolizati un legamant ceresc
+Legamantul nostru cu Isus Hristos
+Pana vom ajunge-n cerul sfant.
+
+[order]
+s1,r1,s2,r1

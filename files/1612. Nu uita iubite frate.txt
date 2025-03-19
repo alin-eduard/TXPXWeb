@@ -1,0 +1,32 @@
+[s1]
+1612.
+1. Nu uita iubite frate
+Nu uita nicicând
+Azi te cheamă Salvatorul
+Vino la El plângând
+
+[r1]
+Cor: Aleluia, Aleluia
+Aleluia slavă Lui
+Slavă Domnului
+
+[s2]
+2. Isus vrea neîncetat
+Să iubeşti mereu
+Să ai dragoste fierbinte
+De aproapele tău
+
+[s3]
+3. Nu uita iubite frate
+Nu uita nicicând
+Să iubeşti tu azi mereu
+Pe aproapele tău
+
+[s4]
+4.Cu toţi s-ascultăm de Domnul
+Mirele cel sfânt
+Că-n curând vine din slavă
+Să ne ia zburând.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

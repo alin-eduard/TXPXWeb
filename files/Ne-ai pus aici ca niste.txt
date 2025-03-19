@@ -1,0 +1,36 @@
+[s1]
+Ne-ai pus aici ca nişte
+facle-n bezna grea
+Şi ca uriaşi ce pe pigmei vor ajuta
+Ne-ai pus aici ca trandafirii printre spini
+Ce-şi răspîndesc parfumul
+printre mărăcini.
+
+[r1]
+Noi fără Tine nu putea-vom lumina
+De-aceea, Doamne, dă-ne din lumina Ta
+Şi nici sărmanii, Doamne, nu-i vom ajuta
+De-om fi lipsiţi în viaţă de puterea Ta.
+
+[s2]
+Ne-ai pus aici ca mesageri
+ai altei ţări
+Să povestim ce este
+după aceste zări
+Să-mbărbătăm pe cei
+ce şchioapătă mereu
+Şi au uitat că şi ei sînt
+din Dumnezeu.
+
+[s3]
+Ne-ai pus aici
+ca o speranţă-n viitor
+Ca să luptăm cu-ngrijorarea
+din popor
+Să fim senini chiar şi atunci
+cînd s-a-nnorat
+Şi-ncrezători cînd totul
+este-nvolburat.
+
+[order]
+s1,r1,s2,r1,s3,r1

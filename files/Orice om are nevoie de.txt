@@ -1,0 +1,37 @@
+[s1]
+Orice om are nevoie de
+iubire şi-a iubi
+Orice viaţă, fără ea,
+n-are destin
+Nu se poate viaţa mea
+fără de iubirea Ta!
+Oare cine şi ce este iubirea?
+
+[r1]
+/:Cineva sus în Cer mă iubeşte,
+Cineva mă păzeşte mereu.
+Eu sunt sigur că-n orice vreme,
+Sunt iubit de Însuşi Dumnezeu.:/
+
+[s2]
+De nu m-ar iubi în lume
+nici copii şi nici părinţi,
+Nici un om nu-mi
+dovedeşte-a mă iubi;
+Dacă ura mă loveşte
+şi este greu chinul meu,
+Va veni o zi în care
+mă va scăpa Dumnezeu !
+
+[s3]
+Spuneţi dar, la orşicine:
+”Dumnezeu e dragoste!”
+De iubeşti, tu ai putere
+să iubeşti pe-altcineva.
+Toţi cei ce-L iubesc pe Isus,
+îi iubesc şi pe vrăjmaşi…
+Dumnezeu, l-aşa iubire,
+ne-a chemat să fim părtaşi.
+
+[order]
+s1,r1,s2,r1,s3,r1

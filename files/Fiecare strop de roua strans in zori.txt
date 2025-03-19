@@ -1,0 +1,37 @@
+[s1]
+Fiecare strop de rouă strîns în zori
+În potirele gingaşe de la flori
+/: Este-o lacrimă ce s-a prelins
+odată pe-un obraz
+Şi-a lăsat pe chip paloare de topaz. :/
+
+[s2]
+E uitată gingăşia mamelor
+Şi-i trădată năzuinţa fraţilor
+/: Spulberate sînt nădejdile
+clădite-n suferinţi
+Şi-s călcate juruinţele fierbinţi. :/
+
+[s3]
+Numai Tu, Isuse dulce, ne răsari
+Cu lumina şi splendoarea dinspre rai
+/: Fruntea ne-o putem pleca
+la sînul Tău în linişte
+Să ne mîngîi Tu, divină dragoste. :/
+
+[s4]
+Dacă-un prieten nefăţarnic te-a-nsoţit
+Dacă-o inimă de mamă te-a iubit
+/: Dacă-o gură de prieten
+ţi-a vorbit să mergi în sus
+Prin acestea toate ţi-a vorbit Isus. :/
+
+[s5]
+Nu schimba iubirea sfîntă pe-un fior
+Nu-ţi risipi veşnicia pentru-un dor !
+/: Nu schimba zîmbetul mamei
+în al lacrimii suspin
+Nu trăda onoarea Mirelui Divin ! :/
+
+[order]
+s1,s2,s3,s4,s5

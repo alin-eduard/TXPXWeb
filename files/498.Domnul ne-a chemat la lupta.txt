@@ -1,0 +1,44 @@
+[s1]
+1.	Domnul ne-a chemat la luptă
+Noi urmăm al Său cuvânt
+/: Şi pornim acum cu toţii
+La războiul Lui cel sfânt:/.
+2.	Nu ne-nfricoşează moartea
+De s-ar cere să murim
+/ : Pentru Domnul suntem gata
+Orişicând să ne jertfim :/.
+498.
+
+[s2]
+3.	De duşmani noi nu ne temem
+Orişicâtă-i ura lor
+/: Căci în fruntea
+Noastră-i Domnul
+Scumpul nostru ajutor:/.
+4.	El se luptă, El învinge
+El biruitor va fi
+/: Şi pe cei răi cu suflarea
+Gurii Sale-i va zdrobi :/.
+
+[s3]
+5.	Cei cu inima-mpărţită
+Cei ce n-au nici un temei
+/: Cei fricoşi să plece acasă
+Nu-i războiul pentru ei :/.
+6.	Sus la Comandantul nostru
+Toţi privirea s-o avem
+/ : În prigoană şi-n furtună
+Sus dreptatea s-o ţinem :/.
+
+[s4]
+7.	Catacombe sunt destule
+Temniţe destule sunt
+/: Şi le vom umplea pe toate
+Pentru al Domnului Cuvânt:/.
+8.	Noi cântăm în faţa morţii
+Când s-a cere să murim
+Pentru Domnul vom fi gata
+Orişicând să ne jertfim.
+
+[order]
+s1,s2,s3,s4

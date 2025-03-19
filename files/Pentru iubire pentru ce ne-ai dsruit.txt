@@ -1,0 +1,32 @@
+[s1]
+Pentru iubire, pentru ce ne-ai dăruit,
+Astăzi noi venim, Să-Ti multumim.
+Pentru salvare, si-a Ta iertare,
+Noi cu toti venim, Să-Ti multumim.
+
+[r1]
+Astăzi noi venim, ‘naintea fetei Tale,
+Vrem să-Ti multumim,
+pentru tot ce ne-ai dat;
+Pace si iubire, în inimi ai revărsat,
+Te lăudăm într-una
+Doamne Preaînalt,
+Te lăudăm într-una fii glorificat.
+
+[s2]
+Stiu că în suflet,
+mi-ai dăruit din dragostea Ta,
+Cum să mă port? Mi-ai arătat…
+În loc de ură, si de minciună,
+Mi-ai asezat iubirea Ta.
+
+[s3]
+N-avem cuvinte,
+Doamne să-Ti multumim,
+Pentru tot ce Tu ne-ai dăruit.
+Dar îti aducem,
+pentru toate ce primim,
+Inima ca dar…si multumiri!
+
+[order]
+s1,r1,s2,r1,s3,r1

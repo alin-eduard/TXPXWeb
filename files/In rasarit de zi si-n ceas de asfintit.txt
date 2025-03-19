@@ -1,0 +1,22 @@
+[s1]
+În răsărit de zi şi-n ceas de asfinţit
+Mama despre Domnul ne şopteşte (şopteşte)
+ŞI ruga ne-mplpetim din zori şi în apus
+Către Ţara sfântă de lumină (lumină)
+Mă cheamă lângă ea şi-o văd plângând de dor
+De dorul unei lumi de mult promise (promise)
+
+[s2]
+În răsărit de zi şi-n ceas de asfinţit
+Mama este jertfă şi iubire (iubire)
+Şi tot ce-avem de spus în zori şi în apus
+E o rugă de speranţă plină (e plină)
+Mă cheamă lângă ea
+şi-o văd privind spre cer,
+Spre casa noastră-n stele pregătită (gătită)
+Şi tot mereu cântăm şi-n taină-L aşteptăm
+L-aşteptăm pe Domnul ca să vină
+Să vină!
+
+[order]
+s1,s2

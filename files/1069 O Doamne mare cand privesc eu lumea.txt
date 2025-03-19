@@ -1,0 +1,44 @@
+[s1]
+1.O, Doamne, mare, când privesc eu lumea
+Ce ai creat-o prin al Tău Cuvânt
+Şi fiinţele ce-mpodobesc natura
+Cum le-ntreţii cu braţul Tău cel Sfânt.
+1069.                                                         Si b
+
+[r1]
+/:Atunci Îţi cânt
+Măreţ Stăpânitor
+Ce mare eşti,
+Ce mare eşti! :/
+
+[s2]
+2.Privirea când mi-o-nalţ şi văd minunea
+Mulţimea astrelor ce sunt pe cer
+Măreţul soare cât şi blânda lună
+Ca mingi de aur plutind prin etern
+
+[s3]
+3.Când întâlnesc pe Domnu-n Cartea Sfântă
+Şi când zăresc mulţimea de-ndurări
+Pe-ai Săi aleşi cum i-a iubit întruna
+Şi i-a condus spre binecuvântări.
+
+[s4]
+4. Şi-L văd pe Isus pe pământu- acesta
+Ca serv dar plin de dragoste şi har
+Zăresc în duh amara-I suferinţă
+Şi mântuirea ce mi-o dă în dar.
+
+[s5]
+5.Când mă apasă sarcini mari şi grele
+Când sufletul mi-e trist pân' la mormânt
+El se apleacă plin de mângâiere         Şi-mi ia tot chinu-n care mă frământ.
+
+[s6]
+6.Când Domnul Isus m-a chema la Sine
+Şi când voi sta uimit în faţa Sa
+Privind pe Domnul Sfânt al veşniciei
+Căzând la tronu-I mă voi închina.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

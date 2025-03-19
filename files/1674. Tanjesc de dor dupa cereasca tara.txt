@@ -1,0 +1,39 @@
+[s1]
+1674.Re m
+1. Tânjesc de dor după cereasca ţară
+Şi după locul ce mi l-ai promis
+Te aştept Isuse vino mai degrabă,
+Mi-e dor , mi-e dor de paradis.
+Cor:	Mi-e dor, mi-e dor o,scump Isuse
+Mi-e dor de locul ce l-ai pregătit
+Mi-e dor, mi-e dor de ţara sfântă
+Mi-e dor de Tine
+Domnul meu iubit.
+
+[s2]
+2. Aş vrea să zbor
+Să las aici pământul
+Căci al meu suflet de cer e legat
+Nu mai e mult, voi auzi strigarea
+Mă voi-nălţa spre marele Împărat.
+Cor:	Mi-e dor, mi-e dor o,scump Isuse
+Mi-e dor de locul ce l-ai pregătit
+Mi-e dor, mi-e dor de ţara sfântă
+Mi-e dor de Tine
+Domnul meu iubit.
+
+[s3]
+3. Mi-e dor, mi-e dor
+De marea sărbătoare
+Mi-e dor să stau la masă cu Isus
+Mi-e dor, mi-e dor de slava viitoare
+Ah,vino Doamne
+Aşa precum mi-ai spus.
+Cor:	Mi-e dor, mi-e dor o,scump Isuse
+Mi-e dor de locul ce l-ai pregătit
+Mi-e dor, mi-e dor de ţara sfântă
+Mi-e dor de Tine
+Domnul meu iubit.
+
+[order]
+s1,s2,s3

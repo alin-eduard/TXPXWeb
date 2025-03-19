@@ -1,0 +1,44 @@
+[s1]
+Unii cred mult, alţii puţin
+Şi sunt atâţi ce nu cred nimic
+Eu te întreb, prietene
+Oare ce crezi tu?
+
+[r1]
+/: Ai lui Dumnezeu suntem
+Şi noi am fost salvaţi prin har.
+Astăzi poţi veni şi tu
+Primind iertare-n dar! :/
+
+[s2]
+Unii pornesc, alţii se-opresc
+Şi sunt atâţia ce rătăcesc.
+Gândeşte-te, prietene
+încotro mergi tu?
+
+[s3]
+Unii iubesc, alţii urăsc
+Şi sunt atâţia ce-s schimbători.
+Gândeşte-te, prietene
+Oare cum eşti tu?
+
+[s4]
+Unii sunt mari, dar se văd mici
+Alţii ce-s mici se cred cei mari.
+Eu te întreb, prietene
+Tu oare cum te crezi?
+
+[s5]
+Anii trec iute în viaţa ta
+Şi zi cu zi vei observa
+Că ai rămas fără Hristos
+Şi-atunci vei regreta.
+
+[s6]
+/: Te îndemn, prietene
+Schimbă-ţi tu azi viaţa ta!
+La Dumnezeu întoarce-te
+Şi pace vei afla! :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,s6

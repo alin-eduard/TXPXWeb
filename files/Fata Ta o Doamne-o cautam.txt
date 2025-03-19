@@ -1,0 +1,27 @@
+[s1]
+Faţa Ta, o, Doamne o căutăm,
+Pentru-a noastră ţară ne rugăm,
+Trezeşte-ne, o, Doamne, inima
+Şi toţi din jur pe Tin' Te vor vedea.
+
+[r1]
+/:Înălţăm numele Tău,
+În unitate ne-nchinăm,
+Laudele vor răsuna,
+Ţara o vei transforma!:/
+
+[s2]
+Niciodată nu vom da 'napoi,
+Cu credinţă noi înaintăm,
+Când, cu lacrimi,
+Noi vom semăna,
+Recoltă din belşug vom secera.
+
+[s3]
+/:Vrem trezire,
+Vrem trezire,
+Vrem trezire
+În noi.:/(x5)
+
+[order]
+s1,r1,s2,r1,s3

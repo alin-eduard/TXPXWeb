@@ -1,0 +1,42 @@
+[s1]
+Nu mă trece cu vederea,
+O, Isus Hristos,
+Tu eşti Cel ce scapi de moarte
+Pe cel păcătos.
+Doamne, Doamne,
+Pleacă-Ţi faţa Ta,
+Nu mă trece cu vederea,
+Nu mă lepăda!
+
+[s2]
+Vina mea la tronul milei
+Ţi-o mărturisesc,
+Pe genunchi plecat în rugă
+Pacea să-mi găsesc!
+Doamne, Doamne,
+Pleacă-Ţi faţa Ta,
+Nu mă trece cu vederea,
+Nu mă lepăda!
+
+[s3]
+Cu întreaga mea povară
+Vin la crucea Ta,
+În puterea milei Tale
+Pun speranţa mea!
+Doamne, Doamne,
+Pleacă-Ţi faţa Ta,
+Nu mă trece cu vederea,
+Nu mă lepăda!
+
+[s4]
+Sfânt izvor al mângâierii,
+Sânge preţios,
+Spală-mi tot ce nu-i pe voia
+Lui Isus Hristos!
+Doamne, Doamne,
+Pleacă-Ţi faţa Ta,
+Nu mă trece cu vederea,
+Nu mă lepăda!
+
+[order]
+s1,s2,s3,s4

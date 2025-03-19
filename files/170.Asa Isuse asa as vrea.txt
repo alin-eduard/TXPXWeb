@@ -1,0 +1,59 @@
+[s1]
+170.
+Do
+1. Aşa Isuse aşa aş vrea
+Cântarea mea să fie
+Din cântecele lumii-ntregi
+Să poţi simţirea-mi să culegi
+Să-mi fie-ntregul dor de ea
+Aşa Isuse aşa aş vrea
+Cântarea mea să fie
+
+[s2]
+2. Aşa Isuse aşa aş vrea
+Credinţa mea să fie
+Aceiaşi cum a fost întâi
+Şi-n ea statornic să rămân
+Curat în veac să pot avea
+Aşa Isuse aşa aş vrea
+Credinţa mea să fie.
+
+[s3]
+3. Aşa Isuse aşa aş vrea
+Nădejdea mea să fie
+Ispita fie cât de grea
+Să cred să-nving
+Când lupt cu ea
+Să ajung la biruinţa Ta
+Aşa Isuse aşa aş vrea
+Nădejdea mea să fie.
+
+[s4]
+4. Aşa Isuse aşa aş vrea
+Iubirea mea să fie
+Senină ca un cer senin
+Duioasă ca un sfânt alin
+Precum a fost iubirea Ta
+Aşa Isuse aşa aş vrea
+Iubirea mea să fie.
+
+[s5]
+5. Aşa Isuse aşa aş vrea
+Răbdarea mea să fie
+Să simt că nu-s neliniştit
+Şi nici condus fiind silit
+Că-i paşnică precum e a Ta
+Aşa Isuse aşa aş vrea
+Răbdarea mea să fie.
+
+[s6]
+6. Aşa de mult Isuse aş vrea
+În tot să-ţi seamăn Ție
+Să simt, să recunosc că sunt
+Un strop din viul Tău cuvânt
+O rază din fiinţa Ta
+Şi să rămân Isuse aşa
+Întreaga veşnicie.
+
+[order]
+s1,s2,s3,s4,s5,s6

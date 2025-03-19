@@ -1,0 +1,38 @@
+[s1]
+Colindând întreaga lume,
+Orişicât vei merge-n ea,
+Vei vedea că-s nişte semne
+Care îţi vor spune-aşa:
+
+[r1]
+/: Vine! El vine! El vine!
+Iată, Isus iarăşi vine!
+Pământul şi timpul o spune:
+Se-arată, se-aude că vine!:/
+
+[s2]
+Peste tot iubirea scade;
+Lumea merge înspre rău
+Când, în nepăsare şade.
+Pacea scade tot mereu...
+
+[s3]
+/: Vine! El vine! El vine!
+Iată, Isus iarăşi vine!
+Pământul şi timpul o spune:
+Se-arată, se-aude ca vine!:/
+
+[s4]
+Semnele ne-nştiinţeaza,
+Nu vom spune că... n-au fost!
+Azi, când harul mai lucrează,
+S-aşteptăm pe Domnul nost'.
+
+[s5]
+Noi, văzând aceste semne,
+Ochii-n sus să ridicăm!
+Vine Isus! Vremea spune:
+„Vine!" Să-L întâmpinăm!
+
+[order]
+s1,r1,s2,s3,s4,r1,s5,r1

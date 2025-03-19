@@ -1,0 +1,39 @@
+[s1]
+1. La şcoala de Duminică
+Ne strângeam bucuroşi,
+Despre Isus noi ascultăm
+Din inimă voioşi,
+Din cartea sfântă: Biblia
+Noi învăţăm cum să iubim
+Pe frate, soră şi părinţi
+Pe toţi să-i preţuim.
+25.
+
+[r1]
+Cor: Să răsune cântarea
+În cer s-audă cântare
+Cu Osana, Aleluia
+Glorie să-i fie Mielului
+
+[s2]
+2. Din inimă noi mulţumim
+Cu toţi lui Dumnezeu,
+De mici noi îl iubim pe El
+Urmându-i glasul Său
+Şi când vom creşte oameni mari
+Lucrând, luptând pe-acest pământ
+Tot Isus să ne conducă,
+Până la al nost‘ mormânt.
+
+[s3]
+3. Cât de frumos e să priveşti
+Sus la al tău Isus,
+Ca nişte miei conduşi de El
+Păstorul bun nespus,
+Noi Îi cunoaştem vocea Lui
+Citim, cântăm şi ne rugăm
+În cer cât va fi de frumos
+O, Doamne, să intrăm.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,63 @@
+[s1]
+/: Să ne rugăm! :/
+Să-I cerem să ne-mbrace cu putere,
+Căci zilele vor fi nespus de rele.
+Să-I cerem să ne-mbrace cu putere!
+Mână cu mână, toţi împreună,
+Să ne rugăm, fraţilor!
+Prin rugăciune, noi vom invinge
+Tainele ispitelor.
+Do M
+
+[s2]
+/: Să ne rugăm! :/
+Aşa cum s-a rugat şi Ezechia
+Să ne rugăm aşa ca şi Maria!
+Să ne rugăm la fel ca Ieremia!
+Mână cu mână, toţi împreună,
+Să ne rugăm, fraţilor!
+Prin rugăciune, noi vom invinge
+Tainele ispitelor.
+
+[s3]
+/: Să ne rugăm! :/
+Ca Iona din adâncurile mării;
+Ca Daniel în taina aşteptării;
+Ca Israel în ziua liberării.
+Mână cu mână, toţi împreună,
+Să ne rugăm, fraţilor!
+Prin rugăciune, noi vom invinge
+Tainele ispitelor.
+
+[s4]
+/: Să ne rugăm! :/
+Ca Iosua, în lupta lui cea mare,
+Să se oprească minunatul soare;
+Ca şi Estera cea biruitoare.
+Mână cu mână, toţi împreună,
+Să ne rugăm, fraţilor!
+Prin rugăciune, noi vom invinge
+Tainele ispitelor.
+
+[s5]
+/: Să ne rugăm! :/
+Ca Moise în marea călătorie,
+Pe muntele cel mare din pustie;
+Să ne rugăm ca Moise şi Ilie!
+Mână cu mână, toţi împreună,
+Să ne rugăm, fraţilor!
+Prin rugăciune, noi vom invinge
+Tainele ispitelor.
+
+[s6]
+Să ne rugăm şi să cântăm
+Ca David, Solomon şi ca Debora,
+Ca să-l biruim şi noi pe Sisera!
+Să biruim că cei ce-s scrişi în Tora.
+Mână cu mână, toţi împreună,
+Să ne rugăm, fraţilor!
+Prin rugăciune, noi vom invinge
+Tainele ispitelor.
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,38 @@
+[s1]
+Să nu merg dup-un străin,
+Doamne, niciodată!
+/: Chiar de-aş fi silit prin chin,
+Ori pe-un drum cu flori de crin
+Să nu merg dup-un străin,
+Ci s-aleg deplin, deplin
+Voia Ta curată!:/
+
+[s2]
+Să-nţeleg chemarea Ta,
+Pururea prin lume!
+/: Zilnic să pot asculta
+Şi să nu m-abat din ea;
+Să-nţeleg chemarea Ta,
+Ca să pot mereu 'nalţă,
+Doamne, sfântu-Ţi Nume!:/
+
+[s3]
+Să n-aduc, pe-altarul sfânt,
+Foc străin de Tine!
+/: Ci, sfinţit de-al Tău Cuvânt,
+Vreau să ard cu tot ce sunt;
+Să n-aduc, pe-altarul sfânt,
+Un amestec de pământ,
+Ci, sfinţit, pe mine!:/
+
+[s4]
+Doamne, să mă-ncred deplin,
+în cereasca-Ţi milă!
+/: Mă păzeşte de străin,
+Ochii-n ochii Tăi să-i ţin,
+Paşi-mi calce mai deplin
+Şi, pe drumul Tău divin,
+Veşnic să rămână!:/
+
+[order]
+s1,s2,s3,s4

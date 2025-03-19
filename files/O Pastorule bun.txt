@@ -1,0 +1,42 @@
+[s1]
+O, Păstorule bun,
+Paşte sufletul meu ostenit,
+Căci pe dulcea Ta păşune
+Sunt atât de fericit;
+Doar acolo este hrana
+Care viaţă dă din plin,
+Şi pe cale, în ispite,
+Întărit sunt pe deplin.
+
+[s2]
+Ştiu că sunt în lumea largă
+Şi­alte feluri de păşuni,
+Însă toate­s veninoase,
+Pline de deşertăciuni;
+Chiar în jurul meu, oriunde,
+Eu le pot găsi uşor,
+Dar ce ele îmi oferă
+E amar şi trecător.
+
+[s3]
+Am trăit o vreme­acolo,
+Pe­ale lumii largi păşuni,
+Neştiind că sunt departe de tot
+Ce e sfânt şi bun;
+Multe pofte şi păcate
+Viaţa mi­au împovărat,
+De­adevăr şi fericire
+Ele m­au îndepărtat.
+
+[s4]
+Dar Tu ai venit la mine,
+Pe păşunea Ta m­ai pus,
+M­ai adus din nou la viaţă,
+Bunule Păstor, Isus;
+Cu aleşii Tăi pe cale
+Din Cuvânt eu mă hrănesc
+Şi cu Tine împreună
+Către cer călătoresc.
+
+[order]
+s1,s2,s3,s4

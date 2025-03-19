@@ -1,0 +1,26 @@
+[s1]
+Doamne noi la tine venim
+Şi pe Tine Te mărim
+Cuvântul Tău îl ascultăm
+Şi Ţie mărire-Ţi dăm
+
+[r1]
+O, Tu Doamne mare şi Sfânt
+Lasă că al Tău Cuvânt
+În inimi cu drag să Îl primim
+Şi în veac să Te mărim
+
+[s2]
+Doamne, noi toţi ne bucurăm
+Că putem să Te-ascultăm
+Când din Scriptură ne vorbeşti
+Cuvinte sfinte, cereşti
+
+[s3]
+Nu ne lăsa, Doamne mare
+S-ascultăm cu uitare
+Ci fă-ne Tu-nţelegători
+Să-Ţi putem fi următori
+
+[order]
+s1,r1,s2,r1,s3,r1

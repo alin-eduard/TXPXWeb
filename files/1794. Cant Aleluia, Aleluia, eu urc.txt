@@ -1,0 +1,31 @@
+[s1]
+1794
+1. Cânt Aleluia, Aleluia
+Eu urc pe muntele Tău sfânt
+Căci harul Tău îmi dă tăria
+Oriunde-i țelul meu ne-nfrânt.
+
+[r1]
+Cor: /: Aleluia :/ cânt
+Cu sufletul meu
+plin Doamne
+Cânt solia harului
+În veci Amin.
+
+[s2]
+2. Lucrarea începută-n mine
+Doar Tu o duci la bun sfârșit
+Din cânt în cânt eu urc
+spre Tine
+O Tată sfânt nemărginit.
+
+[s3]
+3. Și-Ți cânt o nouă,
+nouă cântare
+O cânt acum și-n veșnicii
+Din psalm în psalm
+Eu urc spre soare
+Ca să mă-nchin cu imnuri vii.
+
+[order]
+s1,r1,s2,r1,s3,r1

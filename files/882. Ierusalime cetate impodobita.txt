@@ -1,0 +1,38 @@
+[s1]
+882.                                                                           Fa m
+1. Ierusalime, cetate împodobită
+Cu străzi de aur,
+De-argint şi de cristal
+De pe pământ dorul meu se ridică
+S-ajung la tine să scap de orice val.
+
+[r1]
+Aş vrea s-ajung la Tine
+Să scap de orice suspine
+Şi să mă uit la frumuseţea Ta
+Căci tot ce-i pe pământ
+E goană după vânt
+Şi nu pot să-mi găsesc fericirea.
+
+[s2]
+2.Aş vrea să-ţi văd porţile ferecate
+Ce n-au asemănare pe pământ
+Şi-n ziua-n care vor fi descuiate
+Să intre pe ele poporul cel sfânt.
+
+[s3]
+3.   Aş vrea să-ţi văd
+pomul vieţii care
+Cu atâtea roade e împodobit
+Şi râul vieţii cu apele limpezi
+De-a lungul cetăţii curge liniştit.
+
+[s4]
+4. Aş vrea să-ţi văd
+Pururi a Ta splendoare
+Să umblu pe-ntinsul Tău minunat
+Şi apoi să rămân în Tine pe vecie
+Privind totdeauna pe-al Tău Împărat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

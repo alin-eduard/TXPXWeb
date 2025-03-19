@@ -1,0 +1,32 @@
+[s1]
+1. Cine vrea să vină
+E primit de Domnul
+Şi El nu va fi respins
+Nu dispreţuieşte o inimă mâhnită
+Şi care-i adânc zdrobită.
+561.
+Cor:  /: Isus Isus :/
+Vindecă inimi frânte (3 ori)
+Isus numai El.
+
+[s2]
+2. Tu cel obosit şi ostenit pe cale
+Tu ce chinuit eşti de păcatul tău
+Vino aşa cum eşti
+La Domnul tău de grabă
+Şi El te va scăpa.
+Cor:  /: Isus Isus :/
+Vindecă inimi frânte (3 ori)
+Isus numai El.
+
+[s3]
+3. El te cheamă ca să vii la El de grabă
+Să te arunci în braţul său izbăvitor
+Vrea să-ţi dea în suflet eliberarea
+Cel ce e blândul Păstor.
+Cor:  /: Isus Isus :/
+Vindecă inimi frânte (3 ori)
+Isus numai El.
+
+[order]
+s1,s2,s3

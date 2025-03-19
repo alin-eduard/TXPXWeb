@@ -1,0 +1,43 @@
+[s1]
+O unde esti iubire dintai de la inceput
+De ce nu este pace ca-n vremea cea trecut
+Cand fratii cu caldura in suflet se aduna
+Si c-o nadejde vie pe Domnul laudau
+1.
+1533.   Mi m
+
+[r1]
+Cor: Aşa de grea e starea
+Ne-a cuprins disperarea
+Şi a noastră inimi s-au înpetrit
+O vino-n adunare
+Mai fă o cercetare
+Să te simţim ca şi la-nceput
+
+[s2]
+2. O unde e cuvantul cel insotit de har
+Vestit cu greutate curat si plin de jar
+O Doamne unde-s fratii care stateau     									veghind
+Mergand drept pe carare cuvantul Tau  								pastrand
+
+[s3]
+3. O unde e bolnavul stigand m-a vindecat
+De ce nu mai sunt semne
+De ce noi ne-am schimbat
+O unde e Betesta cu cele cinci pridvoare
+Sa se arunce fratii bolnavi in scaldatoare.
+
+[s4]
+4. O unde e prorocul ca sa vorbeasca drept
+Ca Samuel ca Mica ca cel ce-i intelept
+Poporul sa asculte Al Domnului cuvant
+Sa nu dispretuiasca Puterea-Duhului Sfant
+
+[s5]
+5. Veniti cu staruinta sa cerem noi putere
+Cu lacrimi de cainta veniti frati si surori
+Caci Domnul bun din slava ne va inviora
+Si ploaia cea tarzie din plin va revarsa.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,33 @@
+[s1]
+Mă-nchin Domnului, cânt glorie Lui
+Eu îî dau slavă lăudând,
+cu îngerii, în cor cântând.
+
+[s2]
+Cu toţi să-I dăm slavă,
+astăzi pe pământ
+Căci viata-n El am primit
+Pe Cruce m-a salvat
+şi m-a răscumpărat
+Prin El,eu sunt salvat.
+
+[s3]
+Astăzi, eu sunt liber, de păcat iertat
+Astăzi cânt într-una, cânt neîncetat
+Căci viaţa, El, mie mi-a dat
+Acolo sus pe deal la Golgota.
+
+[s4]
+Ma închin, Domnului,
+slăvind Numele Lui
+Căci El e veşnic Împărat
+pământ şi mare a creat.
+
+[s5]
+Mă închin, Tatălui meu,
+căci El e Dumnezeu
+El de păcate, m-a iertat
+Şi viată noua mi-a dat.
+
+[order]
+s1,s2,s3,s4,s5

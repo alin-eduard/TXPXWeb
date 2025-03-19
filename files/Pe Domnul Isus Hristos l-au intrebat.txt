@@ -1,0 +1,25 @@
+[r1]
+„70 de ori câte 7” (x3)
+A spus Isus.
+/: Cu toţi să vă iertaţi,
+de aceea sunteţi fraţi.
+Cât trăiţi pe-acest pământ
+să v-ajutaţi. :/
+
+[s1]
+Pe Domnul Isus Hristos l-au întrebat:
+„Omul de câte ori poate fi iertat?”
+/: Petru a spus „de şapte ori”
+Dar Tu eşti învăţător
+„Domnul meu de câte ori
+eu pot să iert?” :/
+
+[s2]
+Atuncea lui Petru Domnul i-a răspuns:
+„Să ierţi pân la şapte ori nu e de-ajuns ”
+/:Dacă vrei ca să trăieşti,
+Moştenire să primeşti.
+Roagă-te lui Dumnezeu să poţi să ierţi.:/
+
+[order]
+r1,s1,r1,s2,r1

@@ -1,0 +1,26 @@
+[s1]
+Nu pot, o, Doamne, să­nţeleg;
+E mult prea mare Dragostea!
+Ai suferit în locul meu
+La Golgota pe­o cruce grea.
+
+[r1]
+Cum să­nţeleg iubirea Ta,
+Ai şters la cruce vina mea!
+Tu, Cel Preasfânt şi Dumnezeu!
+Te­ai dat la moarte­n locul meu!
+
+[s2]
+Ai părăsit cerescul tron,
+Şi ce adânc Te­ai umilit!
+Te­ai dezbrăcat de glorie
+Să porţi păcatul meu cumplit.
+
+[s3]
+De condamnare nu mă tem
+Căci sunt al Tău, Tu m­ai salvat!
+Prin Tine fericit trăiesc,
+În harul Tău m­ai îmbrăcat.
+
+[order]
+s1,r1,s2,r1,s3,r1

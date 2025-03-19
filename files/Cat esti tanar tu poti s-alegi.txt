@@ -1,0 +1,46 @@
+[s1]
+Cât eşti tânăr tu poţi s-alegi
+Cum vrei să trăieşti
+Pasii vieţii să-i îndrepti
+Înspre ce iubeşti
+Poţi necazul din inima ta
+Să îl goneşti
+Doar bucurie poţi căuta
+Şi tot ce-ţi doreşti
+
+[r1]
+Bucură-te tinere în tinereţea ta
+Umblă-n căile alese de inima ta
+Şi plăcute ochilor tăi dar nu uita
+Că pentru toate Dumnezeu te va judeca.
+
+[s2]
+Da fericirea ce poti avea
+trece în zbor
+Anii tăi şi viaţa ta se duc aşa usor
+Tot ce lumea îţi poate da
+este trecător
+Fără speranţă tu vei pleca
+înspre viitor.
+
+[s3]
+Adu-ţi aminte că eşti doar om,
+om muritor,
+Că doar Isus îţi poate fi Domn
+si Mântuitor
+Primeşte-L azi în viaţa ta,
+pace-ţi va da
+Pe căile Lui de vei umbla
+te vei bucura.
+
+[s4]
+Bucură-te tinere în tinereţea ta
+Umblă-n căile Domnului
+în lumina Sa
+Fii plăcut doar Domnului,
+vesel vei cânta
+Când pentru ţara cea de sus
+El te va chema.
+
+[order]
+s1,r1,s2,r1,s3,s4

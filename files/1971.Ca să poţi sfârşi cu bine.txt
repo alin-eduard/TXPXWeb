@@ -1,0 +1,51 @@
+[s1]
+1971
+1. Ca să poţi sfârşi cu bine
+A credinţei alergare
+Ţi se cere până la capăt
+Stăruinţă şi răbdare.
+
+[s2]
+2. Ca să porţi izbândă-n luptă
+Adevărului cea mare
+Să-ţi aduni în suflet zilnic
+Stăruinţă şi răbdare.
+
+[s3]
+3. Ca să nu te copleşească
+Vremurile de-ncercare
+Întăreşte-te-n credinţă
+Stăruinţă şi răbdare.
+
+[s4]
+4. Când îţi simţi pe-al vieţii umăr
+Crucea mai apăsătoare
+Cere-i Domnului să-ţi deie
+Stăruinţă şi răbdare.
+
+[s5]
+5. Când iubirea ta şi mila
+Trec prin încercări amare
+Nu uita c-atunci se cere
+Stăruinţă şi răbdare.
+
+[s6]
+6. Ca să-ţi crească viaţa nouă
+În Hristos mai arzătoare
+Nu se poate decât dacă
+Stăruieşti şi ai răbdare.
+
+[s7]
+7. Dacă vrei cuvântul vieţii
+Să-l trăieşti în ascultare
+Vei putea doar prin veghere
+Stăruinţă şi răbdare.
+
+[s8]
+8. Toate harurile sfinte
+A nădejdii viitoare
+Nu se pot păstra decât prin
+Stăruinţă şi răbdare.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

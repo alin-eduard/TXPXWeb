@@ -1,0 +1,30 @@
+[r1]
+Eu sunt voios, căci Dumnezeu
+Iubeşte mult sufletul meu
+
+[s1]
+Iubirea Lui e veşnică
+Îl voi urma făr’ de frică
+Isus e-al meu mântuitor
+Cu El rămân învingător
+Parcă Îl văd că-mi vorbeşte
+În inimă El trăieşte
+
+[s2]
+Iubirea Lui e veşnică
+Îl voi urma făr’ de frică
+De vin furtuni asupra mea,
+Am pe Domnul mă va ţinea
+Ce m-apasă El o ştie,
+Mă scapă din primejdie.
+
+[s3]
+Iubirea Lui e veşnică
+Îl voi urma făr’ de frică
+Iar lumea când m-ar prigoni,
+Satana când m-ar ispiti
+Cu-al meu Isus nu-s temător,
+Cu El rămân învingător.
+
+[order]
+r1,s1,r1,s2,r1,s3

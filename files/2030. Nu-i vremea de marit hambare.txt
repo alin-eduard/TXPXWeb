@@ -1,0 +1,55 @@
+[s1]
+2030
+1. Nu-i vremea de mărit hambare
+Nici de-nălțat arhitecturi
+E timpul de zidit altare
+Și de-a trăi după Scripturi
+Nu-i vremea de privit în lume
+Când mulți acum se-mbogățesc
+Iar cei ce caută pe Domnul
+Puțini mai sunt căci se răresc.
+
+[r1]
+Cor: /:De Cel ce vina ne-a iertat
+De Cel ce mângâieri ne-a dat
+De Domnul nostru minunat
+Noi fraților ne-am depărtat:/
+
+[s2]
+2. O cum ne înșelăm amarnic
+Și zi de zi ne amăgim
+C-avem o formă de credință
+Dar noi ca frați nu ne iubim
+E timpul să ne-ntoarcem astăzi
+L-acea credință din trecut
+Să fim ca frații de altădată
+Ce pentru Domnul s-au jertfit.
+
+[s3]
+3. E vremea când ne cheamă Domnul
+Să ne-ndreptăm privirea-n sus
+Căci izbăvirea noastră vine
+Numai din mâna lui Isus
+Acum când stricăciunea-i mare
+Și mulți în pofte stăruiesc
+Acei ce așteaptă împărăția
+Pe cale se anevoiesc.
+
+[s4]
+4. Privind spre ceruri spre cunună
+Spre locul unde-om debarca
+Lăsați cei trecător în urmă
+Domnul plata ne va da
+E vremea ca să strângem astăzi
+Uleiul sfânt folositor
+Iar când vom auzi strigarea
+Să fim ai Domnului popor.
+
+[s5]
+Cor: /:Părinți copii, bunici și frați
+Să fim la ceruri ridicați
+Să avem parte cu Isus
+Acolo unde lacrimi nu-s:/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5

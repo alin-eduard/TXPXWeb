@@ -1,0 +1,38 @@
+[s1]
+Peste tot pe unde mergem
+Noi vestim despre Isus
+Şi vom ajunge acolo
+Unde el s-a dus
+
+[r1]
+/: Şi: dacă vrei să vii cu noi haide
+Haide! Ce mai stai
+Azi renunţă la păcat
+Şi vei merge în rai :/
+
+[s2]
+Hai învaţă pocăinţa
+Că nu este grea
+Recunoaşte-L pe Mesia
+În inima ta.
+
+[s3]
+Pocăinţa este calea
+Ce ne duce la Isus
+Ce ne-a pregătit o ţară
+Cum nu s-a văzut.
+
+[s4]
+Tu nu vrei s-ajungi acolo
+Unde-i Mesia
+Şi cu îngerii în coruti
+Veşnic vom cânta.
+
+[s5]
+Ne vom revedea odată
+Acolo în ceruri sus
+Cu acel ce ne e Tată
+Şi cu-al nost’ Isus
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

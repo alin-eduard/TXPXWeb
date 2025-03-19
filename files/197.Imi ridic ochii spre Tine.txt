@@ -1,0 +1,45 @@
+[s1]
+1. Îmi ridic ochii spre Tine
+Şi Te chem Isus să vii
+Să cobori acum la mine
+Să-mi alini al meu suspin.
+197.
+
+[s2]
+Cor:Te chem,Te chem Isus,Te chem
+Te chem căci Te iubesc, Te chem
+Te chem, Te chem Isus Te chem
+În sufletul meu eu Te chem.
+
+[s3]
+2. Eu Te chem căci pentru mine
+La Golgota ai răbdat
+Ca să am parte cu Tine
+Ai murit crucificat.
+
+[r1]
+Cor:Te chem,Te chem Isus Te chem
+Te chem căci Te iubesc, Te chem
+Te chem, Te chem Isus Te chem
+În sufletul meu eu Te chem.
+
+[s4]
+3. Eu Te chem să-mi dai iertare
+Pentru tot ce am greşit
+Să priveşti cu îndurare
+Să îmi ierţi al meu trecut.
+
+[s5]
+4. Eu Te chem în suferinţă
+În necaz şi în dureri
+Căci Tu îmi dai biruinţă
+Şi nespuse mângâieri.
+
+[s6]
+5. Eu Te rog rămâi cu mine
+Orişicând pe acest pământ
+Ca să pot s-ajung cu bine
+Sus în raiul cel dorit.
+
+[order]
+s1,s2,s3,r1,s4,r1,s5,r1,s6,r1

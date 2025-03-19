@@ -1,0 +1,26 @@
+[s1]
+Ce poate fi mai minunat
+Ca harul sfânt ce ni s-a dat
+Prin jertfa Domnului Isus
+Mielul trimis de sus
+
+[r1]
+El să fie preamărit
+Căci pe noi ne-a mântuit
+Şi ne-a dat iertare-n dar
+Sus pe cruce la Calvar
+
+[s2]
+El ne-a ales din lumea rea
+Să fim părtaşi la Slava Sa
+Cu preţul vieţii ne-a salvat
+Din marea de păcat
+
+[s3]
+O, cât mă simt de fericit
+Căci mântuire am primit
+Şi Îl urmez neâncetat
+Pe cel ce m-a salvat.
+
+[order]
+s1,r1,s2,r1,s3,r1

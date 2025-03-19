@@ -1,0 +1,26 @@
+[s1]
+Dacă mai ai şi tu în lume-o mamă
+Încă mai poţi să te numeşti copil.
+Dacă mai ai părinţi în viaţă
+Mai poţi să simţi că tot mai eşti copil.
+
+[s2]
+Dacă ai harul să-ţi trăiască mama
+S-o preţuieşti şi vei fi fericit.
+Dacă-ţi trăiesc chiar amândoi părinţii
+Ai cui să plângi atunci când eşti mâhnit.
+
+[s3]
+Când capul ţi-aşezai la sânul mamei
+Întregul suflet ţi l-a mângâiat
+Şi când fierbinţi au fost lacrimile tale
+Îndată sufletul ţi l-a înviorat.
+
+[s4]
+Astăzi tu poţi să le mai duci o floare
+C-un zâmbet dulce te vor întâmpina.
+Părinţilor mai treceţi pragul casei
+Şi duhul lor se va înviora.
+
+[order]
+s1,s2,s3,s4

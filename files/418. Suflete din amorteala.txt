@@ -1,0 +1,39 @@
+[s1]
+418.
+1.Suflete din amorţeală
+Hai te scoală nu mai sta
+Căci Isus plin de iubire
+Te primeşte-n slujba Sa.
+
+[s2]
+2.Vino suflete curând
+La Isus Mirele blând
+Vino suflete acum
+Cât mai eşti pe-al vieţii drum.
+
+[s3]
+3.Suflete să ştii prea bine
+Căci Isus blândul Păstor
+Te tot cheamă să-ţi aline
+Ranele care te dor.
+
+[s4]
+4.Suflete auzi cum bate
+La uşa ta Domnul Sfânt
+Deschide-i căci mâine poate
+Nu vei fi pe acest pământ.
+
+[s5]
+5.Suflete oricât de grele
+Păcate-ai înfăptuit
+Domnul te-a spălat de rele
+Prin sângele Lui jertfit.
+
+[s6]
+6.Suflete eu cred c-ajunge
+Cât ai stat lângă cel rău
+Isus pentru tine plânge
+Vino azi la Dumnezeu.
+
+[order]
+s1,s2,s3,s4,s5,s6

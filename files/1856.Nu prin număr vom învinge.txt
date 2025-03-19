@@ -1,0 +1,34 @@
+[s1]
+1856.
+1. /:Nu prin număr vom învinge
+Scopul nu ni'l vom atinge
+Dacă Domnul nu e cu noi
+Biruința este dată
+Celor ce smeriți Îl caută
+Și se 'ncred în El la nevoi:/
+
+[r1]
+Cor: /:Nu prin forță, se câștigă
+Nu greși privind înapoi
+Dacă noi vrem
+Și noi credem
+Domnul va lupta pentru noi:/
+
+[s2]
+2. /:Cheia este ascultarea
+Pe uscat vom trece marea
+Apele se dau înapoi
+Și vrășmașul vrea să treacă
+Dar nu poate, se înneacă
+Apele se 'adună șuvoi:/
+
+[s3]
+3. /:Noaptea vine și se lasă
+Poporule, te deșteaptă
+Luminează Stâlpul de Foc
+Printre rânduri sfințenie
+Nespusă credincioșie
+Alergați și nu dați ‘napoi!:/
+
+[order]
+s1,r1,s2,r1,s3,r1

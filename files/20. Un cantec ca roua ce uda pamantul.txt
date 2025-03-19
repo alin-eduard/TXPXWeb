@@ -1,0 +1,57 @@
+[s1]
+1. Un cântec ca roua
+Ce udă pământul
+Şi zorile-albastrelor zări
+Frumoasă-i cântarea
+Ce zboară întruna
+Departe, departe de nori.
+20.
+
+[r1]
+Cor: O, harfa lui David
+Răsună ne-ncetat
+O, harfa lui David
+Ea cântă minunat.
+
+[s2]
+2. Se-ntinde pe ape
+Pe mări şi oceane
+Spre ceruri se-nalţă mereu
+Un cântec ce David
+Îl cântă cu harfa
+Spre lauda lui Dumnezeu.
+
+[s3]
+3. O mână se plimbă
+Pe harfă, coboară
+Dând tonuri plăcute mereu
+Frumoasă-i cântarea
+Ce-o cântă la harfă
+Cuvintele lui Dumnezeu.
+
+[s4]
+4. La curtea lui Saul
+Chemat e să cânte
+Un tânăr cu părul bălai
+E tânărul David
+Venit de la staul
+Atât de iubit de Isai.
+
+[s5]
+5. E vesel şi cântă
+El ştie să cânte
+Pe Domnul să-L laude mereu
+Cântarea ce-o cântă
+E-atâta de sfântă,
+Spre lauda lui Dumnezeu.
+
+[s6]
+6. Prin Duh cântă David
+C-aşa-i obiceiul,
+Să cânte din suflet senin.
+Din inimă cântă,
+Pe Domnul îl laudă,
+Pe Domnul din cerul divin.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

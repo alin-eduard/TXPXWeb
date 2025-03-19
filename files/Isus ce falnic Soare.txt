@@ -1,0 +1,28 @@
+[s1]
+Isus, ce falnic Soare
+O, Îţi cînt, Doamne, căci m-ai iubit.
+Isus, îmi eşti bucuria, promisiunea
+Ce s-a împlinit.
+
+[r1]
+Isus, nostalgia m-apasă
+Isus, dor de zori cu mister
+Isus, nostalgia de casă
+Isus, dor de Tine, de cer !
+
+[s2]
+Isus, doresc putere
+Şi mângâiere, căci sunt prea slab.
+Isus, cu ochii-n lacrimi,
+cu grele sarcini
+Te aştept în prag.
+
+[s3]
+Isus, în strălucire
+Şi în mărire doresc s-ajung.
+Isus, cu doru-n suflet,
+cu Tine-n umblet
+Pe drumul lung.
+
+[order]
+s1,r1,s2,r1,s3,r1

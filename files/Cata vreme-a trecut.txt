@@ -1,0 +1,29 @@
+[s1]
+Câtă vreme-a trecut?
+Câtă vreme-a rămas?
+Între noapte și zi, între drum și popas.
+Ne mințim zi de zi, ca am fost, că vom fi
+Și uităm mult prea des să mai fim
+Vrem să avem cât mai mult
+Ca și cum n-am mai știi,
+Ce săraci lumea vom părăsi.
+
+[r1]
+/: Spune de ce tot alergi!
+Spune ce vrei să culegi!
+Pierzi rătăcind ani întregi in neștire!
+Mâine la capăt de drum.
+Tu vei afla că oricum.
+Fără Isus toate sunt amăgire! :/
+
+[s2]
+Ce iluzii s-au dus? Ce iluzii mai sunt?
+Clipe care ne trec ca o umbră pe drum.
+Alergăm dupa nori, alergăm dupa vânt.
+Și deschidem târziu pumnii goi...
+Vrem un nou început,
+Însă timpul pierdut
+Nu se întoarce nicicând înapoi!
+
+[order]
+s1,r1,s2,r1

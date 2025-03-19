@@ -1,0 +1,30 @@
+[s1]
+O, tu, popor al Domnului, grăbeşte
+Şi spune lumii de iubirea Sa,
+Cum Dumnezeu prin mila Sa doreşte
+Harul salvării omului să­i dea.
+
+[r1]
+Lumii vesteşte despre Isus,
+El mântuirea din ceruri a adus.
+
+[s2]
+Mulţi oameni încă rătăcesc departe,
+În lanţuri grele, prinşi de­al lor păcat
+Şi nu e nimeni care să le spună
+Cum a murit Hristos şi­a înviat.
+
+[s3]
+Pe fiii tăi îndeamnă­i să vestească
+Sfântul Cuvânt măreţ şi glorios
+Şi mijloceşte pentru ei în rugă
+Să­şi dea viaţa­n slujba lui Hristos.
+
+[s4]
+El vine iar, Biserică, fii gata;
+Dă­n ştire harul Său mântuitor
+Ca toţi să­I iasă în întâmpinare
+Când va veni pe nori biruitor.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

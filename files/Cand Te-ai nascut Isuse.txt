@@ -1,0 +1,42 @@
+[s1]
+Când te-ai născut, Isuse,
+Și îngerii de sus
+Vestirea minunată
+a păcii ne-au adus,
+S-a-nfiorat pământul;
+de mii de ani dorea
+Să vină, să-l cuprindă
+odată pacea ta!
+
+[s2]
+Au vrut-o munţii;
+câmpul şi apele-o cereau
+Și toate de pe lume
+cu dor o aşteptau.
+Iar Tatăl o trimise
+prin fiul Său plăcut;
+Și îngerii-o vestiră,
+dar oamenii n-au vrut.
+
+[s3]
+N-au vrut să o primească
+şi n-au vrut a-l urma
+Pe Domnul păcii care
+le-ar fi putut-o da.
+Ci mult se învrăjbiră
+şi mult s-au tulburat,
+La porţi închise,
+pacea îndurerată-a stat.
+
+[s4]
+Iar azi, ca niciodată,
+Isuse, însetăm
+De pacea Ta, de pacea
+pe care-o aşteptăm.
+O, dă-ne-o Tu, Isuse,
+aşa precum ne-au spus
+Odată îngeraşii,
+când coborau de sus.
+
+[order]
+s1,s2,s3,s4

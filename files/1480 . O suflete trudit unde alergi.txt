@@ -1,0 +1,33 @@
+[s1]
+1480     Fa
+1.     O suflete trudit unde alergi
+Cu povara ta
+Unde te duci cu greutatea ta
+Când vine ziua grea
+/: Vino la Isus cu-a ta durere
+El rana grea ţi-o va lega
+Şi mângâiere îţi va da
+Domnul Dumnezeul tău :/
+
+[s2]
+2.  Unde alergi când eşti dispreţuit
+Şi de toţi uitat
+Te`ncrede în Celce atunci când ţi-a  							fost greu
+Nici când nu te-a  lăsat
+/:Crede ne-ncetat în Cel ce poate
+Să-ţi ia tristeţea cea mai grea
+Să poarte El povara ta
+Crede-n Domnul Dumnezeu:/
+
+[s3]
+3.   De 7 ori de cazi sub greul tău
+Nu descuraja
+El ce-a promis va ţine negreşit
+Şi te va ridica
+/:Crede ne-ncetat în Domnul frate
+De faci din El tăria ta
+Nimic nu te va clătina
+Crede în biruinţa Sa:/
+
+[order]
+s1,s2,s3

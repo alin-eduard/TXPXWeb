@@ -1,0 +1,43 @@
+[s1]
+1818.
+1. Când harfa ta îţi amuţeşte
+O, cântăreţule, să ştii
+Eşti biruit şi te pândeşte
+Cumplitul gol din nopţi pustii
+Eşti ca fântâna fără apă
+Şi ca statuia-nţepenit
+La tine nu se mai adapă
+Cel ars de sete şi trudit
+
+[s2]
+2. Nu-şi mai găseşte alinare
+Cel săgetat de suferinţi
+Nici mângâieri, nici uşurare
+În scrâşnetele lui de dinţi
+Tu eşti înfrânt, o, cântăreţe
+Când glasul tău a amuţit
+Şi-atrăgătoarea frumuseţe
+De ochii tăi s-a despărţit
+
+[s3]
+3. Căci viaţa ta e doar cântarea
+Ea-i darul ce ţi-a fost adus
+Prin ea tu ţi-ai făcut intrarea
+În slujba Domnului Isus
+O, dacă taci, trăieşti înfrângeri
+Şi chinuri de neîndurat
+În suflet totdeauna sângeri
+Şi trupu-n neguri ţi-e-mbrăcat
+
+[s4]
+4. Când harfa ta îşi curmă cântul
+O, cântăreţule, eşti stins
+Zdrobit ţi-e duhul de pământul
+Ce te-a atras şi te-a cuprins
+Cântând îţi vei păstra puterea
+Şi sufletul în veci frumos
+Ducând în cântec mângâierea
+Eşti mângâiat tu, de Hristos.
+
+[order]
+s1,s2,s3,s4

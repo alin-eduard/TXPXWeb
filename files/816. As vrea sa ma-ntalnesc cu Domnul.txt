@@ -1,0 +1,44 @@
+[s1]
+816.
+1. Aş vrea să mă-ntâlnesc cu Domnul
+Să-I spun a mea dorinţă
+Ce inima atâta îmi frământă
+Ah, oare când Isus
+M-oi întâlni cu Tine
+Şi-Ţi voi putea tot dorul a Ți-l spune
+
+[s2]
+2. Aş vrea să mă-ntâlnesc cu Domnul
+Să-I spun a mea durere
+Sub care inima adesea-mi geme
+Mai este oare mult
+Din zilele durerii
+Când vei aduce ceasul mângâierii.
+
+[s3]
+3. Aş vrea să mă-ntâlnesc cu Domnul
+Să-I cer o alinare
+Şi să-mi scurteze zilele amare
+Ah, cât de multe-au fost
+Ispite mari şi grele
+Dar numai Tu m-ai izbăvit din ele.
+
+[s4]
+4. Ne e-atât de dor
+Isuse dragă, de ziua întâlnirii
+Ce-o vom serba
+Pe-a Tale plaiuri sfinte
+Ah, cât ne e de dor
+Să Te vedem pe Tine
+Şi să privim splendoarea Ţării Sfinte.
+
+[s5]
+5. Mi-e inima atrasă către Tine
+Şi ochii către zările senine
+De unde aşteptăm o izbăvire
+Ah, cât de mult doresc
+Să vină mai de grabă
+O izbăvire pe vecie dată.
+
+[order]
+s1,s2,s3,s4,s5

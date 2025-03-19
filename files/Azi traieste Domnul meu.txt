@@ -1,0 +1,30 @@
+[s1]
+Azi trăieşte Domnul meu
+Aleluia, amin
+Dar se luptă şi cel rău
+Impotriva noastră
+Sfânt popor, nu dispera
+Orişicât el ar turba
+
+[r1]
+Căci Isus trăieşte-n veci
+Aleluia, amin
+
+[s2]
+Tu urmaş al lui Hristos
+Ca să lupţi te cheamă
+Drumul e croit demult
+Să te-avânţi făr’ teamă
+Harul Său îţi e de-ajuns
+Si apoi cum am mai spus:
+
+[s3]
+Stăruieşte a lupta
+Ceasul vine-n grabă
+Când Isus te va chema
+Sus la El în slavă
+Lupta ta se va sfârşi
+Vei cânta în veşnicii:
+
+[order]
+s1,r1,s2,r1,s3,r1

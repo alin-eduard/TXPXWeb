@@ -1,0 +1,27 @@
+[r4]
+/: E putere, e putere
+E putere-n sangele lui Isus Hristos. :/
+
+[r1]
+Nici dusmanul, nici dusmanul
+Nu poate sa-mi strice viata
+De ce? Pentru ca, pentru ca
+In sangele lui Isus Hristos este putere
+
+[r2]
+Azi te cheama Dumnezeu
+Vrea sa fii copilul Sau
+Cat traiesti pe-acest pamant
+Calauzit de Duhul Sfant
+
+[r3]
+Noi suntem biserica fratilor, fratilor
+Noi suntem biserica fratilor, fratilor
+fratilor
+
+[s1]
+/: Plin de duh, plin de duh
+Plin de duh, plin de putere e Isus :/
+
+[order]
+r4,r1,r2,r3,s1,r1,r2,r3,r4,r1

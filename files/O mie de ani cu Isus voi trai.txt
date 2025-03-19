@@ -1,0 +1,33 @@
+[s1]
+O mie de ani cu Isus voi trăi,
+De-aceea sunt vesel mereu,
+Vegherea-mi tăcută curând s-a sfârşi,
+Şi plânsul ce-l ştiu numai eu.
+
+[r1]
+Sunt vesel la bine şi rău,
+Sunt vesel cu Isus mereu;
+Cărarea-mi spinoasă curând s-a sfârşi,
+Cărarea ce-o ştiu numai eu.
+
+[s2]
+Cu Isus în toate eu voi birui,
+Pe drumul ce duce spre cer;
+Chiar singur când sunt,
+Am pe Domnul cel bun,
+De-aceea sunt vesel şi cânt.
+
+[s3]
+Doresc să ajung la Isus mai curând,
+Cu El împreună să fiu;
+Viaţa-mi tânjeşte de doru-I nespus
+Şi-L chem zi şi noapte mereu !
+
+[s4]
+De-aceea sunt vesel prin greu şi suspin,
+Aici, pe pământul străin.
+O, mult, mai mult vesel voi fi în cer sus,
+Cu mult preaiubitul Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

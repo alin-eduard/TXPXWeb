@@ -1,0 +1,23 @@
+[s1]
+Un nume bun e mai de dorit
+Decat o mare bogatie
+A fi iubit de Dumnezeu
+E cea mai mare implinire
+
+[r1]
+/: Mai mult decat orice
+Mai mult de orice culm
+In viata poti s-aduci
+Valoarea care-ntrece
+Orisice valori
+E puterea de-a umbla
+Invingator :/
+
+[s2]
+Omul milos, si cel ce se-ndura
+Poarta nestemate de mare valoare
+Credinta-n Isus, Mantuitorul
+Aduce in suflet eliberare
+
+[order]
+s1,r1,s2,r1

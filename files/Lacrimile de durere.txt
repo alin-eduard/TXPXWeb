@@ -1,0 +1,35 @@
+[s1]
+Lacrimile de durere,
+când se vor sfârşi?
+O, poporul Meu,
+liber când vei fi?
+Lanţu-i sfărâmat, să zbor
+Ca si un şoim aş vrea,
+S-ajung în ţara mea!
+
+[r1]
+Inima, inima zboară spre ceruri,
+Dorul se-avântă, se-avântă departe
+Dorul se-avântă departe:
+Acolo-i ţara mea!
+
+[s2]
+Oare-atâta zbucium trist,
+când se va sfârşi?
+Oare pentru noi
+dreptatea va-nflori?
+Lanţu-i sfărâmat, să zbor
+Ca si un şoim aş vrea,
+S-ajung în ţara mea!
+
+[s3]
+Oare o, Isus, pe nori,
+când vei reveni?
+Atunci fericiţi,
+cu toţii noi vom fi;
+Lanţu-i sfărâmat, să zbor
+ca si un şoim aş vrea,
+S-ajung în ţara mea!
+
+[order]
+s1,r1,s2,r1,s3,r1

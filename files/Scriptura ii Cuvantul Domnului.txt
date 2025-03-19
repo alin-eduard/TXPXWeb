@@ -1,0 +1,32 @@
+[s1]
+Scriptura e Cuvântul Sfânt
+Ce starea poate îndrepta
+Deschisă si trăită-aici,
+Ea fericirea poate da.
+
+[r1]
+O, Sfânt Cuvânt, mesaj ceresc,
+Tu luminează pe pământ,
+Ca multi din cei ce rătăcesc
+Să-ajungă sus, în locul sfânt.
+
+[s2]
+Pe paginile ei găsim
+Iubirea, mila Tatălui,
+Si cei pierduti prin ea se-ntorc
+Pe căile plăcute Lui.
+
+[s3]
+Ne-arată viata lui Isus,
+Cum a murit si-a înviat;
+Suprema jertfă a depus
+Si viata vesnică ne-a dat.
+
+[s4]
+Scriptura sfântă El ne-a dat
+Si e izvor de fericiri.
+Când noaptea mortii va sosi,
+Lumina ei va străluci.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

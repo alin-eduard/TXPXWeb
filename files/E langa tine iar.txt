@@ -1,0 +1,29 @@
+[s1]
+/: E lângă tine iar :/
+Îi simţi atingerea divină
+Cu un cărbune-aprins
+atinge gura ta
+Şi ochii tăi i-a uns cu tină.
+
+[s2]
+Atinge-ne din nou, Isus
+Şi cu puterea Ta divină
+Revarsă-n noi din Duhul Tău
+Şi fă-ne acum lumină
+
+[s3]
+/: E lângă tine iar :/
+Isus se-aproprie de tine
+Blândul Samaritean
+îţi leagă rana iar
+Şi nu te lasă-n drum, străine.
+
+[s4]
+/: E lângă tine iar :/
+Îi simţi atingerea divină
+Cu un cărbune-aprins
+atinge gura ta
+Şi ochii tăi ia uns cu tină.
+
+[order]
+s1,s2,s3,s4

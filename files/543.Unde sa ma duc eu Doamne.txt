@@ -1,0 +1,34 @@
+[s1]
+1.Unde să mă duc eu Doamne
+Când mi-e sufletul zdrobit
+Şi când inima mea varsă
+Plânsul cel mai chinuit.
+543.							       Mi
+
+[r1]
+Cor:
+Unde Doamne să apuc?
+N-am la cine să mă duc
+Numai Ţie Domnul meu
+Pot să-ţi spun necazul meu.
+
+[s2]
+2.	Unde pot să aflu milă
+Şi dreptate şi alin
+Când nu-i nimeni să-mi asculte
+Greul inimii suspin.
+
+[s3]
+3.Unde pot să-mi cer iertare
+Când văd parcă-n viaţa mea
+Cine altul decât Tine
+Mă mai poate ajuta.
+
+[s4]
+4.Unde să mă duc când toate
+Uşile mi se închid
+Şi când cel de mai aproape
+E mai rece ca un zid.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,32 @@
+[s1]
+Rămâi cu a Ta milă
+La noi Isus Hristos
+Să nu ne ispitească
+Vrăjmaşul mânios.
+
+[s2]
+Rămâi cu-a Ta lumină
+O, scump Mântuitor,
+Şi pururi adevărul
+Ne vie-n ajutor.
+
+[s3]
+Rămâi, Isus, Preasfinte,
+La noi cu-al Tău Cuvânt
+Ca în credinţă tare
+Să trecem pe pământ.
+
+[s4]
+Rămâi cu-a Ta iubire
+Isus Hristos la noi
+Ca să avem răbdare
+În păsuri şi-n nevoi.
+
+[s5]
+Cu binecuvântarea-Ţi
+Deasupră-ne să treci,
+Ca să-aşteptăm în pace
+Viaţa cea de veci.
+
+[order]
+s1,s2,s3,s4,s5

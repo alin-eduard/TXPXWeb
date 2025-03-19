@@ -1,0 +1,26 @@
+[s1]
+În zbuciumul vieţii,
+Odihnă cine-mi dă ?
+În suflet cine-mi toarnă
+Din viaţa veşnică.
+/: Hristos numai El :/
+Îţi dă viaţă veşnică!
+
+[s2]
+Înconjurat de grijuri,
+Aproape disperat !
+În drumul lung al vieţii,
+Fericiri n-am aflat.
+/: Hristos numai El :/
+Dă fericire veşnică!
+
+[s3]
+Păcate mari şi grele,
+Mereu mă îngrozesc.
+Nu ştiu unde scăparea
+S-o caut ca s-o găsesc ?
+/: Numai în Hristos :/
+Amice tu te mântuieşti!
+
+[order]
+s1,s2,s3

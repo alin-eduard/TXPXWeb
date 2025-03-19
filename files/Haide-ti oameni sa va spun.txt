@@ -1,0 +1,30 @@
+[s1]
+Haide-ţi oameni să vă spun
+De povestea de demult
+Cum în iesle-n Betleem
+Domnul slavei s-a născut
+
+[r1]
+/: Aleluia, aleluia
+S-a născut Isus
+Domnul a venit
+Şi pace ne-a adus
+Aleluia, aleluia
+Noi Îl lăudăm
+Pruncului de sus
+Lui ne închinăm. :/
+
+[s2]
+Peste tot răsună vestea
+Ce aduce veselie
+Ca păstorii de la oi
+Mă închin cu bucurie
+
+[s3]
+A fost o noapte glorioasă
+Cum n-a mai fost niciodată
+A fost atât de luminoasă
+Că nu mai poate fi uitată
+
+[order]
+s1,r1,s2,r1,s3,r1

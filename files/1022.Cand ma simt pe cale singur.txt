@@ -1,0 +1,33 @@
+[s1]
+1.      Când mă simt pe cale
+Singur, descumpănit
+Nu uit că-n cer e un Tată
+Ce nu m-a părăsit.
+Cor:   Eu cânt în lumină şi-n noapte
+Căci Domnului eu m-am supus
+Şi nu pot să tac, ci voi spune
+Cum Domnul m-a condus.
+1022.
+
+[s2]
+2.	  Soare de dimineaţă
+Văd noaptea cum înfrunţi
+Astfel mă simt de Tatăl
+Condus prin taine adânci.
+Cor:   Eu cânt în lumină şi-n noapte
+Căci Domnului eu m-am supus
+Şi nu pot să tac ci voi spune
+Cum Domnul m-a condus.
+
+[s3]
+3.       Strălucitoare ziuă
+Ce nici cândva n-a fost
+Ce a decis să ducă
+Tatăl conduce tot.
+Cor:   Eu cânt în lumină şi-n noapte
+Căci Domnului eu m-am supus
+Şi nu pot să tac ci voi spune
+Cum Domnul m-a condus.
+
+[order]
+s1,s2,s3

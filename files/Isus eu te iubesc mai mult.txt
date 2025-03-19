@@ -1,0 +1,20 @@
+[s1]
+Isus eu te iubesc mai mult
+Decat iubesc orice pe-acest pamant
+Esti tot ce-mi doresc
+/:Ei toata viata mea ti-o-nchin:/
+Cu tot ce sunt pe Tine te slavesc
+Eu te slavesc
+
+[s2]
+/:Si ingerii te adora
+Copiii tai te lauda:/
+
+[s3]
+/:Esti tot ce am, esti Domnul meu
+Ma-ncredintez in bratul tau
+Esti tot ce am esti tatal meu
+Tu nu poti fi inlocuit:/
+
+[order]
+s1,s2,s3

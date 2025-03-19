@@ -1,0 +1,37 @@
+[s1]
+2271.
+Re
+Trairea prin credinta aduce biruinta
+Cu Domnul frate poti vedea minuni
+E vremea incercari dar Domnul indurarii
+Nu-i paraseste pe copiii Lui
+
+[r1]
+Ref:
+Sa nu va temeti caci Domnul va veghea
+Prin bratul Lui belsug vom capata
+Iar painea noastra de fiecare zi
+Nu va lipsi pe masa la copii
+
+[s2]
+2.
+Sunt clipe de-ncercare cand multi din adunare
+Si-au parasit increderea-n Isus
+Cum de-ati uitat voi oare de a Sa putere mare
+Cand prin pustiu poporul si-a condus
+
+[s3]
+3.
+La fel ca pe Ilie poporul tot sa stie
+Ne va hrani al nostru Dumnezeu
+Iar vaduva si orfanul, strainu si sarmanul
+Sa se increada-n bratul sau mereu
+
+[s4]
+Fiti plini de bucurie aduceti multumire
+Si binecuvantati numele Sau
+Caci Domnul se-ngrijeste de cel ce ii slujeste
+Si-l scapa din necazul cel mai greu
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

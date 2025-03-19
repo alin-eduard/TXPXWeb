@@ -1,0 +1,42 @@
+[s1]
+Am văzut un copac ce creştea
+Puternic pe maluri de rîu
+În orice zi el mai sus se înălţa
+Din Soare puteri îşi lua.
+Cum vrei puternic să fii ca un copac
+Ce creşte pe maluri de rîu
+Cînd însetat vei cădea-n pustiu
+Uscat.
+
+[s2]
+Dacă inima ta e curată
+Şi viaţa ţi-o vrei nepătată
+Cînd furtuni se abat vei sta
+Neclintit.
+Dacă stai tot mereu sus pe malul
+Unui rîu nesecat, chiar dacă
+Un nor negru lumina ţi-o ia,
+va lumina, lumina Sa.
+
+[s3]
+Am privit cum lovită era
+De valuri o stîncă mereu
+Dar risipite în stropi ne-ncetat
+Învinse-napoi se retrăgeau.
+Cum vrei să fii neclintit în încercări
+La fel ca o stîncă în val
+Cînd suferinţa cu dragoste s-o alini
+Nu vrei ?
+
+[s4]
+Dacă inima ta e curată
+Şi viaţa ţi-o vrei nepătată
+Cînd furtuni se abat vei sta
+Neclintit.
+Ca să fii neclintit ca o stîncă
+Să n-ai teamă de apa adîncă
+Doar în sus priveşte acum,
+te va-ajuta, puterea Sa.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,34 @@
+[s1]
+Să ne iei în stăpânire,
+Duh preasfânt, mângâietor
+Şi cu flăcări de iubire
+Ne cuprinde-ndurător!
+
+[r1]
+O, vino, Duh preasfânt,
+Vrem din nou să te simţim,
+Îmbracă-ne cu-a Ta putere
+Şi botează-ne cu foc!
+O, Duh preasfânt,
+vino peste noi acum!
+
+[s2]
+Sfinte Duh al mângâierii
+Care ne-ai pecetluit,
+Ne descoperă comoara
+Ce în cer ne-ai pregătit!
+
+[s3]
+Sfinte Duh trimis de Tatăl,
+Ajutor ne dă de sus
+Să fim martorii-nvierii
+Şi-ai iubirii lui Isus!
+
+[s4]
+Duh de viaţă şi de slavă,
+Ne condu la Tatăl sfânt
+Din mărire în mărire,
+Chiar de-aici de pe pământ!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

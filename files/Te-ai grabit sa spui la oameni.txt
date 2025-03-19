@@ -1,0 +1,26 @@
+[s1]
+Te-­ai grăbit să spui la oameni
+De iubirea lui Isus,
+Să-­i ajuţi apoi să crească-n
+Harul Său venit de sus?
+
+[r1]
+Să se vadă-­n a ta viaţă
+Din iubirea lui Isus,
+Fii scrisoare sfântă, scrisă
+Chiar de mâna dulce­ a lui Isus!
+
+[s2]
+Calea dulce­-a mântuirii
+Arătat-­ai tu cuiva
+Ca la Tatăl să se­-ntoarcă,
+Prin Isus a se­-mpăca?
+
+[s3]
+Oare darurile tale
+Sunt în slujba lui Isus?
+Te­-ai jertfit pe tine însuţi
+Dăruindu-te supus?
+
+[order]
+s1,r1,s2,r1,s3,r1

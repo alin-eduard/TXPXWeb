@@ -1,0 +1,43 @@
+[s1]
+1. Sărac şi fără vază-n lume
+Isus trăi pe acest pământ
+/: N-avea nici chip, nici strălucire
+Ce răspândea în cerul sfânt :/
+2. Mărirea Lui şi-a dezbrăcat-o
+Cel care totul a făcut
+/: Şi un chip de rob El a luat
+Şi într-un staul s-a născut :/
+766.     La b
+
+[s2]
+3. Ce viaţă fără de prihană
+Pe Dumnezeu El a slăvit
+/: A Lui cuvânt fără-ncetare
+Lumină mare a răspândit :/
+4. Iubire fără asemănare
+Pe păcătoşi i-a căutat
+/: Şi prin bogata Sa-ndurare
+Pe mulţi bolnavi a vindecat :/
+
+[s3]
+5. Viaţa Lui era iubirea
+Numai iubire şi sfânt har
+/: Dar lumea în a ei orbire
+I-a dat să bea pahar amar :/
+6. El pentru noi a pătimit
+Neînţeles dispreţuit
+/: Cu duşmănie asuprit
+A fost pe cruce răstignit :/
+
+[s4]
+7. De bună voie a mers la moarte
+Să poarte al nostru greu păcat
+/: Cu Tatăl nemaiavând parte
+Atunci cu groază a strigat :/
+8. De ce m-ai părăsit, o, Doamne
+Şi Duhul apoi şi L-a dat
+/: El a trecut prin grea durere
+Dar noi iertare am căpătat :/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,27 @@
+[s1]
+/: Dincolo de cer dincolo de mare
+Dincolo de tot ce exista sub soare
+Exista speranta exista Dumnezeu
+El e Creatorul sufletului meu :/
+Mai sus de galaxii din Tara eterna
+Ca roua diminetii coboara pe pamant
+Cele mai placute raze de speranta
+Omul si natura izbucnesc in cant
+
+[r1]
+Vrednic esti de slava
+Vrednic esti, vrednic esti
+Osana Glorie Aleluia.
+
+[s2]
+/: Dincolo de fapte dincolo de gandire
+Isus ne-a promis eterna fericire
+Exista speranta pentru univers
+Numai prin Isus viata are sens :/
+Mai sus de galaxii din Tara eterna
+Ca roua diminetii coboara pe Pamant
+Cele mai placute raze de speranta
+Omul si natura izbucnesc in cant
+
+[order]
+s1,r1,s2,r1

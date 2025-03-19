@@ -1,0 +1,53 @@
+[s1]
+2195
+1. /: O, Isuse, Domn slăvit
+Fost-ai cu amar lovit
+Ca să fie mântuit
+Orișice suflet trudit :/
+/: O, ce învinuiri amare
+Și dureri fără hotare
+Ai avut pe acest pământ
+Să salvezi un suflet frânt :/
+
+[s2]
+2. /: O, Isuse preaiubit
+Cât de mult ai pătimit
+Ca să fie dezrobit
+Orice suflet chinuit :/
+/: O, ce lovituri de sânge
+Ai primit pentru a strânge
+Într-un trup pe fiii tăi
+Risipiți prin munți și văi :/
+
+[s3]
+3. /: O, Isuse proslăvit
+Toți ai Tăi Te-au părăsit
+Când acel nelegiuit
+Cu ură Te-a prigonit :/
+/: O, ce hule către Tine
+Aruncau fără rușine
+Ca să fie mai amar
+Tot întregul Tău calvar :/
+
+[s4]
+4. /: O, Isuse preaiubit
+Tu din milă ai murit
+Pentru omul izgonit
+Din Edenul Tău slăvit :/
+/: Sângele Tău Tu Ți-ai vărsat
+Ca să fie răscumpărat
+Din robia celui rău
+Pentru a fi din nou al Tău :/
+
+[s5]
+5. /: Dar după ce ai pătimit
+Tatăl sfânt Te-a proslăvit
+Căci mormântu-ai părăsit
+Și ai înviat slăvit :/
+/: O, ce mare bucurie
+Simte viața-mi pe vecie
+Căci prin Tine în cer voi fi
+Când ziua Ta va veni :/
+
+[order]
+s1,s2,s3,s4,s5

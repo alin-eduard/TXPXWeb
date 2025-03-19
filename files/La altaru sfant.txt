@@ -1,0 +1,41 @@
+[s1]
+La altarul sfant,
+Azi un legamant,
+Acesti doi il fac plini de iubire.
+Inaintea Ta, in todeauna
+Tine-I Doamne sub a Ta privire.
+
+[s2]
+/: O mireasa si un mire
+Stau acum naintea Ta,
+Vino Isus din marire
+Pentru-ai binecuvanta. :/
+
+[s3]
+Ca roua din zori,
+Si-aroma din flori,
+Pentru cei din jur sa fie-ntruna.
+Pana-i vei lua,sus in tara Ta,
+Sa le pui cu mana Ta cununa.
+
+[s4]
+/: Ca si-n Cana Galileea
+Esti Isuse invitat,
+Ca si-atunci, la nunt-aceea
+Sa lucrezi iar minunat. :/
+
+[s5]
+In lucrarea Ta, cand te vor chema.
+Sa le dai din Duhul Sfant putere.
+Iar cand s-or ruga,
+cand Te vor chema,
+Fa-i sa simta a Ta mangaiere.
+
+[s6]
+/: Mana-n mana cu iubire
+Si la bine si la greu,
+Sa ramana in unire
+Te rugam sfant Dumnezeu. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

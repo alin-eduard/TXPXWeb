@@ -1,0 +1,65 @@
+[r1]
+Dumnezeu e steagul meu!
+Dumnezeu e steagul meu!
+Aleluia! Aleluia! Aleluia!
+
+[s1]
+El mi-e Steag (El mi-e steag)
+Si El mi-e soarta (El Isus)
+Eu il port (eu il port)
+Dar El ma poarta (El Isus)
+
+[s2]
+Cu cat vantu-I mai semet
+Cu-atat Steagu-I mai maret
+Mic si slab stegar sunt eu
+/: Insa steagu-I Dumnezeu!:/
+Aleluia, Aleluia
+
+[s3]
+Iata Steagul (El mi-e steag)
+In valtoare (El Isus)
+Plini de rani (Plin de rani)
+Si de onoare (El Isus)
+
+[s4]
+Plini de spinii lui Cezar,
+plin de stropi de pe Calvar!
+Scrum si pilbere sunt eu,
+/: Insa Steagu-I Dumnzeu :/
+Aleluia, Aleluia
+
+[s5]
+Sase mii (sase mii)
+De ani in lume (El Isus)
+S-a luptat (S-a luptat)
+Ca sa ne-adune (El Isus)
+
+[s6]
+Cand cu marea-n clocot viu
+cand cu serpii in pustiu
+Cand cu flacari, cand cu lei
+Cand cu oameni, cand cu zei,
+Cand cu insisi pasii mei
+Aleluia, Aleluia
+
+[s7]
+Dumnezeu steagul meu!
+Dumnezeu steagul meu!
+Aleluia! Aleluia! Aleluia!
+
+[s8]
+Daca tu (daca tu)
+Ai ochi sa vada (ochi deschisi)
+Daca tu (daca tu)
+Ai duh sa creada (In Isus)
+
+[s9]
+Iata Steagul! Altu-i nu-i!
+Pleaca fruntea-n fata Lui
+Tu esti lut si lut sunt eu
+/: Insa Steagu-I Dumnzeu :/
+Aleluia, Aleluia
+
+[order]
+r1,s1,s2,r1,s3,s4,r1,s5,s6,s7,s8,s9

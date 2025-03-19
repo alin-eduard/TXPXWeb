@@ -1,0 +1,37 @@
+[s1]
+Fa m
+1. Bunătatea Ta eternă
+Doamne Dumnezeul meu
+Ea mi-e cea mai dulce pernă
+De odihnă când mi-e greu
+Ea mă scapă de povară
+Când mi-e sufletu-apăsat
+Şi mă uşurează iară
+/:Ca s-alerg mai avântat.:/
+Cor: /:Bunătatea Ta, bunătatea Ta!:/
+388.
+
+[s2]
+2. Bunătatea Ta mă-ndeamnă
+Grabnic să mă pocăiesc
+Ca să ştiu adânc ce-nseamnă
+Răul care-l săvârşesc
+Ea mă-ndeamnă înspre cruce
+Spre Isus Cel răstignit
+Să-nţeleg că El aduce
+/:Pace-n duhul meu trudit.:/
+Cor: /:Bunătatea Ta, bunătatea Ta!:/
+
+[s3]
+3. Bunătatea Ta-mi găteşte
+Un prea dulce viitor
+Căci ea zilnic se ’noieşte
+Şi când urc şi când cobor
+Laudă şi închinare
+Pentru bunătatea Ta
+Îţi aduc cu-nflăcărare
+/:Doamne-acum şi-n veac aşa. :/
+Cor: /:Bunătatea Ta, bunătatea Ta!:/
+
+[order]
+s1,s2,s3

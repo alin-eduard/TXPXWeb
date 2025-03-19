@@ -1,0 +1,52 @@
+[s1]
+1. La nunta din veşnicie
+Oricine poate să vină
+/: Cine e sfinţit, curat
+Şi cu Duh Sfânt botezat
+Va fi mare la-mpărat :/
+708.								   Fa
+
+[s2]
+2. Numai haina alb-curată
+Mireasa la nuntă poartă
+/: Şi-o păstrează ca să fie
+Vrednică de-mpărăţie
+Pe plac Mirelui să-i fie :/
+
+[s3]
+3. Cei care-au ascuns talanţii
+Punând Duhul Sfânt deoparte
+/: Vor fi goi şi dezbrăcaţi
+Şi de Isus întrebaţi
+Unde-i haina ce-ați purtat? :/
+
+[s4]
+4. La nunta din veşnicie
+Vei purta cununa vie
+/: Scris va fi pe fruntea ta
+Nume nou ce îţi va da
+C-ai lucrat în via Sa :/
+
+[s5]
+5. La mulţi este haina ruptă
+Dragostea dintâi pierdută
+/: Dacă cel neprihănit
+Greu în cer va fi primit
+Dar cu tine ce va fi :/
+
+[s6]
+6. La nuntă vei fi Mireasă
+Cerul va fi a ta casă
+/: Lacrimi n-or mai fi-n cer sus
+Grijile toate s-au dus
+Ţine-te azi de Isus :/
+
+[s7]
+7. Dacă vrei să fii mireasă
+Haina păstreaz-o curată
+/: Să n-ai ură, duşmănie
+Şi nici duhul de mândrie
+Luptă-te cu a ta fire :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

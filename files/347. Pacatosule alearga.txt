@@ -1,0 +1,33 @@
+[s1]
+1. Păcătosule aleargă
+De Isus tu eşti chemat
+Ca să vii la El te-aşteaptă
+Te iubeşte ne-ncetat.
+347.
+
+[r1]
+Cor:
+Tu eşti lânced după pace
+N-ai iertare rătăceşti neîncetat
+Vin' la El să fii iertat.
+
+[s2]
+2. Orice pofte şi păcate
+Adu-le la crucea Lui
+Şi-ţi va răsări în suflet
+Strălucirea Domnului.
+
+[s3]
+3. Mulţi în rănile lui Isus
+Vindecarea şi-au găsit
+Pe bogat, sărac voieşte
+Să îl facă fericit.
+
+[s4]
+4. Şi-acum ce aştepţi amice
+Stând mereu nepăsător
+Scoală vino azi la Isus
+El e-al tău Mântuitor.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

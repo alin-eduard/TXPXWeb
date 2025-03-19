@@ -1,0 +1,24 @@
+[s1]
+Omule ce-n lume astazi te trudesti
+El ti-a dat pamantul ca sa il muncesti
+Cu sudoarea fruntii ziua o sfarsesti
+Ai uitat ca toate in dar tu le primesti.
+
+[r1]
+/: Hai, hai, hai sa-i multumim
+/: Pentru toate :/ ce in dar primim :/
+
+[s2]
+Daca azi in viata inca tu mai esti
+Este bunatatea Tatalui ceresc
+Daca azi ogorul poti sa ti-l lucrezi
+Este indurarea Tatalui ceresc.
+
+[s3]
+Sa nu uiti crestine cand holdele se coc,
+Ca un Soare dulce pe pamant a fost
+Strugurii in vie gem de grei ce sunt
+Sa nu uiti vierul, El e Tatal Sfant.
+
+[order]
+s1,r1,s2,r1,s3,r1

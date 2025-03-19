@@ -1,0 +1,22 @@
+[s1]
+Fii cu mine, acum s-a înserat
+Poartă-mi de grijă că s-a-ntunecat
+Pe Tine Te am Domnul meu iubit
+Şi lângă Tine mă simt fericit
+Fa M
+
+[s2]
+Doamne când Tu
+Îmi porţi a mea grijă
+Pe mine nimic nu mă-nfrică
+Pe braţul Tău eu am odihnă
+Şi siguranţă-n a Ta mână
+
+[s3]
+Fii cu mine aicea cat sunt
+Nu mă lăsa să alunec nicicând
+Al meu suflet lângă Tine-l pune
+Ca laudă-n veci să-Ţi răsune
+
+[order]
+s1,s2,s3

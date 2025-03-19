@@ -1,0 +1,33 @@
+[s1]
+1. Unde-i Domnul, al meu soare
+Eu îl caut neîncetat
+Unde s-o fi dus El oare
+Unde poate fi aflat.
+348.
+
+[s2]
+2. Inima mi-e întristată
+De păcat şi supărări
+Pe Isus veşnic îl caută
+Între cele patru zări.
+
+[s3]
+3. Strig de frică şi durere
+Unde e al meu Isus
+Sufletul în mine cere
+Ca' la Domnul să fiu dus.
+
+[s4]
+4. El alungă orice frică
+Orice chin, orice păcat
+Inima ce se despică
+Doar prin El s-a vindecat.
+
+[s5]
+5. Mult iubitule Isuse
+Lasă-Te să fii găsit
+Căci păcatele-mi nespuse
+Numai Tu le-ai ispăşit.
+
+[order]
+s1,s2,s3,s4,s5

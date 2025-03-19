@@ -1,0 +1,26 @@
+[s1]
+Isus e cel mai bun Prieten
+El e mereu la dreapta mea;
+Prin orice greu cu El aş trece
+Eu ştiu că nu mă va lăsa!
+De-aceea-mi place tot să spun:
+“Isus e-al meu Prieten bun!”
+
+[s2]
+În nimeni nu mă pot încrede,
+Prieteni buni sunt mult prea rari,
+Şi nimeni nu m-ar înţelege
+Când mă ajung necazuri mari…
+De-aceea-mi place tot să spun:
+“Isus e-al meu Prieten bun!”
+
+[s3]
+Iubirea Lui e-aşa de mare
+El pentru mine S-a jertfit,
+Mi-a pus în gură o cântare
+Şi-n mâini un steag nebiruit.
+De-aceea-mi place tot să spun:
+“Isus e-al meu Prieten bun!”
+
+[order]
+s1,s2,s3

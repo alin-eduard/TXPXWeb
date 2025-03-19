@@ -1,0 +1,26 @@
+[s1]
+Vreau glasul să-mi înalţ voios
+Acum e timpul priincios
+Pe Dumnezeu vreau să-L măresc,
+Cu laude să-I mulţumesc.
+
+[s2]
+Lui cântă oştile cereşti
+Frumoase versuri îngereşti
+Cu “sfânt”,  “sfânt” veşnic lăudând
+Pe Tatăl, Fiul, Duhul Sfânt.
+
+[s3]
+Prin Tine mântuit eu sunt,
+Tu mă faci vesel ca să-Ţi cânt;
+Din ‘naltul Tău ceresc altar
+Binecuvântă-ne cu har.
+
+[s4]
+Plineşte ce-ai făgăduit
+Şi fii cu noi pân-la sfârşit
+Cântarea noastră s-o primeşti
+Şi să ne-ndrepţi pe căi cereşti.
+
+[order]
+s1,s2,s3,s4

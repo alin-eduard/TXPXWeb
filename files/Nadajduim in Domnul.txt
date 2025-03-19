@@ -1,0 +1,32 @@
+[s1]
+Nădăjduind în Domnul
+Usor ne este drumul,
+Nădăjduind in Isus.
+Pe bratele lui esti dus.
+Speranta ne-nsoteste
+Pe căile-nguste
+Lacrimile chiar si ele
+Ne duc aproape de cer.
+
+[s2]
+Bunătatea Domnului
+Nicidecum nu s-a sfârsit
+Si îndurările Lui
+Nu au ajuns la capăt.
+Si toate lucrurile
+Merg înspre binele
+Acelora care-L iubesc
+Si în El nădăjduiesc.
+
+[s3]
+Nădăjduisten-n Domnul
+Si frumos va fi drumul,
+Nădăjduieste si când
+Necazul te-a lovit.
+Căci toate lucrurile
+Merg înspre binele
+Acelor care-L iubesc
+Si în El nădăjduiesc.
+
+[order]
+s1,s2,s3

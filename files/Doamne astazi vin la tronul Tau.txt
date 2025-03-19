@@ -1,0 +1,48 @@
+[s1]
+Doamne, astăzi vin la tronul Tău,
+Si recunoscând păcatul meu,
+Simt în suflet multă vină,
+Ah grăbeşte de-o alină.
+Să priveşti la mine-ndurător,
+Eşti unicul meu Mântuitor,
+Ştiu că vrei să-mi vii în ajutor,
+N-ai să mă laşi!
+
+[r1]
+Har e din belşug să fiu salvat,
+Sânge preţios să fiu spălat,
+Ca astfel ajuns nevinovat
+Să Te măresc.
+
+[s2]
+Harul Tău mă-ndeamnă azi să viu,
+Azi cât încă nu e prea târziu.
+Ne-nţeles de-această lume
+Dar mergând pe-a Tale urme,
+Drumul meu spre cruce îl îndrept,
+Inima zdrobită o deşert,
+Doritor s-aud şi să repet
+Că sunt iertat
+
+[s3]
+Dar de ce să tremur?
+Nu ai dat Viaţa Ta să fiu răscumpărat?
+Inimii încrezătoare
+Nu dai binecuvântare?
+Pentru mila Ta şi harul Tău,
+Pentru dragostea lui Dumnezeu,
+‘Ncerzător ‘ngenunchi la tronul Tău
+Ca să m-ajuţi
+
+[s4]
+Harul Tău eu azi întreg îl cer;
+Tot ce ai promis eu cred şi sper.
+Faţa Ta să mă lumine
+Să mă simt legat de Tine.
+Fă să fiu de-acum eliberat,
+Domn eşti peste moarte şi păcat.
+Fă să ştiu cum poate fi salvat
+Un păcătos
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

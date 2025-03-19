@@ -1,0 +1,37 @@
+[s1]
+Cînd eram copil, Isuse,
+gata-n lume să mă duc
+Şi din două căi opuse,
+una trebuia s-apuc
+M-ai chemat să vin la Tine,
+eu că vin Ţi-am spus smerit
+Dar m-am dus pe căi străine,
+n-am venit.
+
+[s2]
+M-ai oprit odată-n cale
+şi duios mi-ai arătat
+Ce prăpastie e-n vale,
+ce drum rău am apucat.
+Şi mi-ai spus să-ntorc cu Tine
+pe-al Tău drum spre răsărit
+Dar n-am vrut să-ntorc cu Tine,
+n-am venit.
+
+[s3]
+M-ai chemat să vin la Tine,
+eu că vin Ţi-am spus smerit
+Dar m-am dus pe căi străine,
+n-am venit.
+
+[s4]
+Şi-am ajuns deasupra gropii,
+însă cînd era să cad
+Te-am simţit că te apropii
+şi m-ai izbăvit de iad.
+/: Ah, de-atunci pe totdeauna
+Te slăvesc, Isus iubit
+Fă curat să fiu întruna, fiu smerit. :/
+
+[order]
+s1,s2,s3,s4

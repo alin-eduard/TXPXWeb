@@ -1,0 +1,39 @@
+[s1]
+1462.
+O turmă sfântă a fost odată
+O turmă aleasă şi un Păstor
+/:Dar ca atunci El niciodată
+N-a mai avut turma curată
+Iar El era Isus Păstorul lor:/
+A fost Păstorul fără plată
+Şi-n jar iubirea Lui ardea
+/:Dar turma Lui azi e pătată
+De frământări împresurată
+Îndură-Te Isuse Tu de ea:/
+
+[s2]
+O turmă unde ţi-e Păstorul
+Unde-i lumina Ta prin vremi
+/:De ce-ai respins Mângâietorul
+Căci ai respins astăzi Păstorul
+De aceea plângi acum de aceea gemi:/
+Isuse turma-i risipită
+Prin văi prin munţi şi prin câmpii
+/:De dezbinări e hărţuită
+De formalism e lovită
+Prin Duhul te rugăm la ea să vii:/
+
+[s3]
+Eu voi veni turmă-ncurând
+Dar nu voi veni ca Păstor
+Se va-mplini Sfântul Cuvânt
+Vorbeşte astăzi Duhul Sfânt
+Voi veni dar ca şi Judecător
+A fost Isus Păstor milos
+A fost Păstorul celor mulţi
+/:Şi pentru noi muri Hristos
+El Păstorul cel mai milos
+O turmă tu de ce nu-l mai asculţi:/
+
+[order]
+s1,s2,s3

@@ -1,0 +1,30 @@
+[s1]
+Raportul bun am primit
+Aleluia Mielului!
+În locul sfânt am păşit
+Mărire Tatălui!
+De partea lui Isus sunt
+Pe-altarul Său sfinţit
+Păcatului am murit
+Aleluia Mielului!
+La M
+
+[r1]
+/: Aleluia! :/
+Prin credinţă am intrat
+Unde pace am aflat
+/: Aleluia! :/ laudă lui Isus fie
+Căci m-a salvat!
+
+[s2]
+Prin sângele cel sfânt scurs
+Aleluia Mielului!
+Sunt preot al lui Isus
+Mărire Tatălui!
+Prin lumina Duhului
+Eu trăiesc spre slava Lui
+Fiind predat Domnului
+Aleluia Mielului!
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,33 @@
+[s1]
+Vin, la Isus, n-aştepta,
+o, prietene iubit
+Căci preţul pentru tine Isus a plătit!
+Şi-a dat în dar viaţa,
+pe-o cruce răstignit
+Ca un miel, crucificat, El S-a jertfit.
+
+[r1]
+Dacă azi renunţi la tot, păcatu-ţi va ierta
+Bucurii nespuse Domnul îţi va da !
+Viaţa cu Isus alături vei împărtăşi
+Şi vei sta cu El pe tron în veşnicii !
+
+[s2]
+Fără teamă vin,
+acum la Cel ce te-a salvat!
+De mult Isus te-a aşteptat,
+dar tu L-ai refuzat.
+El a murit pe-o cruce
+şi sîngele Şi-a dat
+Vin, la El şi vei fi liber de păcat!
+
+[s3]
+Vin, la Isus chiar acum,
+predă-te în braţul Lui
+Căci El pe tine te-a chemat să fii copilul Lui!
+Şi-a dat în dar viaţa,
+pe-o cruce răstignit
+Ca să fii pe veci salvat şi fericit.
+
+[order]
+s1,r1,s2,r1,s3,r1

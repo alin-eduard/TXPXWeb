@@ -1,0 +1,31 @@
+[s1]
+Spre zare, spre nori
+Se-ndreaptă un ecou,
+E-atât de-aproape venirea.
+Azi Domnul ne cheamă,
+Ne cheamă din nou,
+Curând începe răpirea.
+
+[r1]
+/:Treziţi-vă azi cât timp mai e har,
+La noapte se poate să vină.
+Trezirea târzie va fi în zadar,
+Acum eşti chemat la lumină.:/
+
+[s2]
+Cetăţile lumii sunt gata să cadă,
+Cel rău loveşte mereu.
+Popoarele-ntregi au căzut
+Sub osândă,
+Păcatul i-apasă din greu.
+
+[s3]
+Mândria minciuna
+Domneşte acum,
+Satan pregăteşte pieirea.
+Dar Domnul te cheamă:
+„Opreşte din drum!”
+Veniţi, e-aproape răpirea.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,33 @@
+[s1]
+Batjocorit, batjocorit, în locul meu
+Domnul a fost zdrobit.
+El a purtat vina mea umilit
+Căci pentru mine a fost El zdrobit.
+
+[s2]
+El a murit, El a murit, în locul meu
+Domnul meu a murit.
+Prin moartea Lui
+Eu sunt azi mântuit
+Pentrucă­n locul meu El a murit.
+
+[s3]
+A înviat, a înviat,
+Domnul Isus pentru mine­a­nviat.
+Prin învierea Lui viaţă mi­a dat,
+El pentru mine din morţi a­nviat.
+
+[s4]
+Acum e viu, acum e viu,
+El sus în cer pentru mine e viu.
+Ce fericire e astăzi să ştiu
+Că pentru mine în cer El e viu.
+
+[s5]
+El va veni, El va veni, curând
+Pe nori Domnul meu va veni.
+Faţa Lui sfântă atunci voi zări,
+El pentru mine pe nori va veni.
+
+[order]
+s1,s2,s3,s4,s5

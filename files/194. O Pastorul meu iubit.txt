@@ -1,0 +1,90 @@
+[s1]
+1. O Păstorul meu iubit o Isuse
+Eu la Tine am venit, o iartă-mă
+194.
+
+[s2]
+/: De la Tine niciodată
+Doamne eu nu voi pleca
+Deci primeşte-mă la Tine acuma:/
+
+[s3]
+2. Tu m-ai scăpat
+De la moarte o Doamne
+Şi Ţi-ai arătat de mine dragoste
+
+[s4]
+/:De aceea niciodată
+N-oi uita ce mi-ai făcut
+Căci pe mine
+Păcătosul m-ai iubit:/
+
+[s5]
+3. Iar în vremea ce-mi rămâne,
+O Doamne
+Vreau să fiu
+Întotdeauna cu Tine
+
+[s6]
+/: Să privesc a Ta lucrare
+Ce-ai lăsat-o-n adunare
+Pentru acei ce i-ai iubit
+Ca şi pe mine :/
+
+[s7]
+4. Dar îndură-Te de mine,
+O, Părinte
+Pentru vremea
+Ce-mi rămâne înainte
+
+[s8]
+/:Să ajung la masa Ta
+Unde se vor bucura
+Copilaşii Tăi cu toţii atuncea:/
+
+[s9]
+5. Vremuri grele de-or veni
+Pe calea mea
+Şi nori grei de vor veni
+Pe deasupra
+
+[s10]
+/:Doamne-ndură-Te de mine
+Dă-mi putere de la Tine
+Ca să nu rămân
+În lume de ruşine :/
+
+[s11]
+6. Pune-mi Tu pe mâna dreaptă
+O pecete
+Nu uita căci ai murit
+Şi pentru mine
+
+[s12]
+/: Sus pe vârful dealului
+Deasupra Calvarului
+Răstignit ai fost pe cruce
+O Doamne :/
+
+[s13]
+7. Moartea Ta Isuse drag
+O preţuiesc
+Şi mai mult ca orişicând
+Azi te iubesc
+
+[s14]
+/: Tu m-ai scăpat de la moarte
+Şi m-ai iertat de păcate
+De aceea eu îţi dau viaţa toată:/
+
+[s15]
+8. Iar acum închei a mea cântare eu
+Cu dorinţa să ajung la Tine-n cer
+
+[s16]
+/: Acolo cu cei aleşi
+Ce de-aici vor fi culeşi
+În cereasca-mpărăţie pururea :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12,s13,s14,s15,s16

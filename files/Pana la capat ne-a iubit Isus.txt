@@ -1,0 +1,14 @@
+[s1]
+/: Pînă la capăt ne-a iubit Isus
+Şi ne-a răscumpărat
+De-aceea noi Îi  mulţumim nespus
+Căci salvare doar Isus ne-a dat. :/
+
+[s2]
+/: Slavă să-I dăm, slavă lui Isus !
+Slavă în veci noi să-I dăm !
+Slavă în veci cîntăm doar pentru Isus
+Pentru că ne-a iubit ! :/
+
+[order]
+s1,s2

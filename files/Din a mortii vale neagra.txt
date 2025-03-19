@@ -1,0 +1,43 @@
+[s1]
+Din a mortii vale neagra,
+Sus cu toti sa ne sculam,
+Si sa mergem catre Tara
+Pregatita de Hristos.
+
+[s2]
+In drumul nost’ intampinam razboi
+Dar Dumnezeu e langa noi!
+Vom birui Hristos ne v-ajuta,
+Si-n slabiciuni, vom triumfa.
+Noi vom zdrobi ostirea celui rau
+Si ajutor ne va veni
+Si-un cor maret din ingeri mii
+Ne va canta in vesnicii!
+
+[s3]
+/:O, tara:/ Mult esti tu frumoasa
+In tine se vede pacea ta cereasca,
+Imnuri marete acolo se inalta
+Spre bucuria celor mantuiti!
+Acolo nu este nicio suferinta
+Nu e durere, niciun fel de ispita
+Nu e furtuna, nici viscol si nici moarte
+Ci pace si fericire in veci!
+
+[s4]
+Sa mergem dar, toti catre tara frumoasa
+In care Isus sade cu ai Sai.
+Sa mergem dar, toti catre tara mareata
+Unde-om gusta in numai bucurie
+Doamne ia-ma Tu acum si ma condu
+Inainte mereu Domnul ne conduce
+Eu sunt slab neputincios condu-ma Tu
+Sus cu toti va sculati, p Isus urmati!
+
+[s5]
+Fi-ti voiosi! Viu e Isus!
+Urmatii Lui, catre Sion
+Toti cu El, Aliluia!
+
+[order]
+s1,s2,s3,s4,s5

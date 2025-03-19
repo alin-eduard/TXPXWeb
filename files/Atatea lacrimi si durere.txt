@@ -1,0 +1,30 @@
+[s1]
+Atatea lacrimi si durere,
+Atata lipsa de mangaiere
+Vad la orice pas, in tara mea.
+Atatea familii destramate,
+Atatia copii fara mama si tata,
+Stau si ma intreb, de ce-i asa.
+Si ma doare, ma doare inima
+Cand ma gandesc,
+Cand ma gandesc, la tara mea.
+
+[r1]
+Romania, ai nevoie de Dumnezeu
+Romania, ai nevoie de Fiul Sau,
+Romania, acum e timpul sa te trezesti,
+Sa te intorci cu-adevarat la Dumnezeu
+
+[s2]
+Atata freamat si-ncordare,
+Atata lipsa de alinare,
+Vad acum in tara mea.
+Atata hula si minciuna,
+Pacatul se-nalta, a ajuns la culme,
+Stau si ma intreb, de ce-i asa.
+Si ma doare, ma doare inima,
+Cand ma gandesc,
+Cand ma gandesc, la tara mea.
+
+[order]
+s1,r1,s2,r1

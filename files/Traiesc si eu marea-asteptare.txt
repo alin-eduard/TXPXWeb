@@ -1,0 +1,60 @@
+[s1]
+Trăiesc şi eu marea-aşteptare,
+în ea sunt şi eu implicat
+Sfârşitul e-aproape, natura
+şi oamenii ştiu, au aflat.
+Se poate ca ultima noapte
+să fie acuma pe drum
+Haina e albă, candela e-aprinsă
+de-acum.
+
+[r1]
+Vino, Isuse, vino, acasă mă ia!
+De luptă sătul sunt,
+atât eu doresc ţara Ta!
+Vino, Isuse, vino cu-un ceas
+mai curând!
+Sfinţii Te-aşteaptă privind
+către ceruri plângând!
+
+[s2]
+Stricată ne e societatea:
+la filme, la cărţi se gândesc
+Alcoolul, tutunul şi drogul
+pe oameni robesc, stăpânesc!
+Vulgară mai este vorbirea
+şi gândul e-atât de stricat!
+Vino şi-opreşte potopul acest, blestemat!
+
+[s3]
+Biserica-i fărâmiţată,
+sunt sute de <-isme> acum
+Păreri, şi tradiţii, şi dogme
+împrăştie zarva pe drum.
+Sunt mulţi Iuda printre apostoli,
+şi Petru, şi Toma sunt mulţi
+Puţini mai sunt sfinţii,
+dar Tu în curând îi asculţi!
+
+[s4]
+Trăim generaţia răpirii - nu-i mit,
+nici poveste ce spun
+Cuvântul ne spune că Isus
+acuma-i aproape, pe drum!
+Cuvântul acesta e veşnic
+şi cer, şi Pământ s-or sfârşi
+Cuvântul rămâne,
+de El eu voi sta, m-oi lipi!
+
+[s5]
+Trezeşte-te din buimăceală,
+acela ce-ai fost cândva fiu!
+Îţi lasă şi porcii şi roşcovele,
+până nu-i prea târziu!
+Ţi-ajunge, poate-ntotdeauna
+mesajul vieţii-ai respins!
+Întoarce-te astăzi,
+căci harul aproape s-a stins!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

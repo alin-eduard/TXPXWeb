@@ -1,0 +1,65 @@
+[s1]
+1602.
+1. Atâtea zile din viaţă eu am pierdut
+Şi n-am lucrat în via Sa
+Cum aş fi vrut
+Dar eu vă spun
+Căci mie aşa de rău îmi pare
+Căci n-am lucrat
+Atunci mai mult când s-a putut
+
+[s2]
+Cor:	Aşa trecut-au anii unul după altul
+Şi noi /: am stat :/ nepăsători
+Iar fiecare an
+Ne apropie de Domnul
+Şi noi /: mai stăm :/ nepăsători
+
+[s3]
+2. De această zi aş vrea
+Ca toţi să-şi amintească
+Căci zile ca acestea n-or mai fi
+Iar celor ce-au venit
+Ca să se pocăiască
+De această zi
+Aş vrea mereu a aminti
+
+[s4]
+Cor:  E poate ziua
+Cea din urmă a chemării
+Şi tu /: mai stai :/ nepăsător
+Tu ştii că se va-nchide
+Uşa îndurării
+Atunci /: de ce :/
+Mai stai nepăsător
+
+[s5]
+3. Acolo-n ceruri
+Când se va deschide cartea
+Când numele celor sfinţi
+Se vor citi
+Şi fiecare dintre ei îşi va lua partea
+Acolo aş vrea Isuse sfinte
+Şi eu a fi
+
+[r1]
+Cor: E poate ziua
+Cea din urmă a chemării
+Şi tu /: mai stai :/ nepăsător
+Tu ştii că se va-nchide
+Uşa îndurării
+Atunci /: de ce :/
+Mai stai nepăsător
+
+[s6]
+4. Şi ce frumoasă
+Fi-va atunci amintirea
+Acelor ce au lucrat
+Aici pe acest pământ
+Iar partea lor cea bună
+Va fi fericirea
+De a sta în cer mereu
+În veci cu Domnul Sfânt
+
+[order]
+s1,s2,s3,s4,s5,r1,s6,r1

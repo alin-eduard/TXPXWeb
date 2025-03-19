@@ -1,0 +1,40 @@
+[s1]
+2176
+1. Timpu-i pe sfârşit,
+Puţini lucrători care mai lucrează pe ogor cu spor
+S-au retras la umbră
+căci arşiţa-i grea,
+aşteptând, Stăpânul
+să le dea plata.
+
+[r1]
+Cor: /: Azi Isus suspină
+şi plânge cu amar
+Căci pe-ntreg pământul
+fără de hotar
+Lucrătorii viei mulți au aţipit, N-aruncă sămânţa
+care dă venit :/.
+
+[s2]
+2. Timpu-i pe sfârşit,
+vine în curând, când vine Stăpânul te va găsi lucrând
+Sau găsi-va locul tău
+ca un pustiu, plin de-amărăcine, fără pic de grâu.
+
+[s3]
+3. Timpu-i pe sfârşit,
+unde ai lucrat, te-ntreabă Stăpânul, căci nu e timp de stat
+Du-te şi lucrează, că puţin va fi, La sfârşit de lucru,
+plata vei primi.
+
+[s4]
+4. Timpu-i pe sfârşit,
+voi să vă treziți,
+ca Isus când vine, plata să primiţi
+Să lucraţi de-acuma
+cât ziuă va fi,
+iar când vine noaptea lucrul
+s-a sfârşi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

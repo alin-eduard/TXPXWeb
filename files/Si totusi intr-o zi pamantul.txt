@@ -1,0 +1,32 @@
+[s1]
+Si totusi, intr-o zi, pamantul
+Va-ntimpina un Print ceresc!
+Si ce putini asteapta ziua,
+Cind azi atatea prevestesc!
+
+[r1]
+Dar Printul sfint ca Mire vine,
+Cel mai iubit si asteptat!
+Isus Hristos e Domnul pacii!
+Sa fie-n veci glorificat!
+
+[s2]
+Si eschimosii din nordul rece,
+Din orice colt de pe pamint,
+Si albi si galbeni, cit si negri,
+Il vor vedea pe nor venind.
+
+[s3]
+Va fi o zi infricosata,
+A celor cari vor ramanea
+Dar ea e ziua minunata
+A celor care vor pleca.
+
+[s4]
+Va fi o zi neintilnita,
+Va fi o realitate grea;
+De vrei sa zbori spre tara sfinta,
+Asculta-l, crede-n jertfa Sa.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

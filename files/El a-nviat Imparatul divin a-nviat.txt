@@ -1,0 +1,20 @@
+[s1]
+El a-nviat, Imparatul divin a-nviat,
+Il voi lauda
+El a-nviat, Imparatul divin a-nviat
+Si -L voi lauda
+
+[r1]
+El este Domn, doar El adevarul e
+Cer si pamant se-nchina in fata Lui
+El a-nviat, Imparatul divin a-nviat
+El a-nviat, Imparatul divin a-nviat
+
+[s2]
+El e-naltat Imparatul divin e-naltat
+Il voi lauda
+El e-naltat Imparatul divin e-naltat
+Si il laud
+
+[order]
+s1,r1,s2,r1

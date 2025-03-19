@@ -1,0 +1,20 @@
+[s1]
+Isus pe cruce a murit
+Pentru păcatul meu.
+/: Păcatul trebuia plătit
+Deci şi păcatul tău! :/
+
+[s2]
+El a murit fără păcat
+Ca sfînt pîn, la sfîrşit.
+/: Barbar cu Isus ne-am purtat
+Deşi El ne-a iubit! :/
+
+[s3]
+Din noaptea neagră de păcat
+Te cheamă azi Isus
+/: Nu-L refuza, căci vine iar
+Pe nori, Aleluia! :/
+
+[order]
+s1,s2,s3

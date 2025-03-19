@@ -1,0 +1,59 @@
+[s1]
+Eram un copil, Isuse,
+Glasul cand Ti-am inteles,
+/: Drumul crucii, drumul crucii, Suferinta mi-am ales... :/
+La-nceput era o pace,
+Calea plina de popor;
+/: Drumul crucii, drumul crucii
+Era dulce si usor. :/
+
+[s2]
+Dar cand a venit furtuna
+Si prigoana mai tarziu,
+/: Drumul crucii, drumul crucii Ramasese mai pustiu... :/
+Si cu cat mergeam, si crucea
+Tot mai greu mi se parea;
+/: Drumul crucii, drumul crucii
+Tot mai sus, mai sus urca... :/
+
+[s3]
+Crucea, grea era, si spinii
+Si-nmultindu-se amar,
+/: Drumul crucii, drumul crucii Ajunsesem la Calvar. :/
+Am cazut in mana-Ti dulce,
+Ridicatu-m-ai in sus;
+/: Drumul crucii, drumul crucii
+Ma-ntalnisem cu Isus... :/
+
+[s4]
+El mi-a aratat Golgota,
+Mi-a spus chinurile Lui:
+/„Drumul crucii, drumul crucii,
+Pan-acolo-n varf sa-l sui!" :/
+Crucea grea, dar ce inseamna?
+Caci sunt mic si nu-nteleg
+/: Drumul crucii, drumul crucii
+Nici acum eu nu-nteleg :/
+
+[s5]
+Dar Isus, Mantuitorul,
+Imi arata crucea Lui:
+/: „Drumul crucii, drumul crucii,
+Pan-acolo-n varf sa-l sui!" :/
+Si in suferinta, frate,
+Nu vei da nicicand 'napoi,
+/: Caci Isus, Mantuitorul,
+El e vesnic langa noi! :/
+
+[s6]
+Si, in scumpa Ta cetate,
+Unde Tu loc mi-ai gatit,
+/: Vom veni si noi atuncea,
+Cand pe nume ne-i chema... :/
+Iar in zilele din urma,
+Cand pe nume ne-i chema,
+/: Vom veni cu bucurie
+Si cununa vom lua!... :/
+
+[order]
+s1,s2,s3,s4,s5,s6

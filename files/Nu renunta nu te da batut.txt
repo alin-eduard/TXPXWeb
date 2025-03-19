@@ -1,0 +1,54 @@
+[s1]
+Ştiu că nu-i uşor
+când cerul e întunecat
+Să vezi lumina
+care străluceşte după nor.
+Când valul vieţii te-ncearcă
+fără rost,
+Când ai căzut şi soarta
+te-a lovit necruţător,
+
+[s2]
+E timpul să începi să lupţi!
+Să nu te dai deloc bătut!
+Nu renunţa aşa uşor,
+Soarele va răsări din nou… !
+
+[s3]
+Hai luptă, luptă înc-o zi,
+Prin dragoste vei birui,
+Vei auzi cum Dumnezeu
+Strigă mereu în gândul tău:
+
+[r1]
+/: Nu renunţa, nu te da bătut
+Prietene îţi spun,
+dacă lupţi vei caştiga!
+Nu renunţa, nu te da bătut,
+Lasă dragostea
+să străluceasca-n viaţa ta :/
+
+[s4]
+În viaţă deseori
+durerea te-a pătruns,
+Şi-n inima zdrobită
+multe lacrimi ai ascuns
+Dar dacă vei lupta
+hai luptă înc-o zi,
+Şi-ai să vezi cum soarele
+în viaţa ta va rasări.
+
+[s5]
+Şi orice drum ai apuca
+Mai târziu tu vei vedea,
+Căci toate după planul Său
+Au fost în avantajul tău…!
+
+[s6]
+Chiar dacă nu-nţelegi acum,
+Continuă al vieţii drum,
+Iubirea Lui te va-ntări
+Şi-ntr-o zi răspunsul vei gasi.
+
+[order]
+s1,s2,s3,r1,s4,s5,s6,r1

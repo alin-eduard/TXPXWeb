@@ -1,0 +1,28 @@
+[s1]
+2209.
+1. Aș vrea să zbor mai sus de nori
+Mai sus de zări, mai sus de stele
+Aș vrea s-ajung la Domnul meu
+În țara dorurilor mele.
+
+[r1]
+Cor: /: Ierusalime :/
+Aș vrea să locuiesc
+În tine Ierusalime, oraș frumos
+Domnește-n tine Isus Hristos.
+
+[s2]
+2. Mă arde-un dor, mă arde
+un gând
+Un dor fierbinte m-a cuprins
+Să părăsesc acest pământ
+S-ajung în cer în paradis.
+
+[s3]
+3. Acolo nu vor mai fi lacrimi
+Dureri și plâns și-amenințări
+Acolo sus domnește o pace
+Și-n locul sfânt sunt desfătări.
+
+[order]
+s1,r1,s2,r1,s3,r1

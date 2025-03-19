@@ -1,0 +1,43 @@
+[s1]
+1482.
+Haideţi fraţi într-o unire
+Toţi în slujba Domnului
+Fiecare precum poate
+Însuşi cu talantul lui
+2.  Unul ştie să vorbească
+Într-un chip cât mai frumos
+Să vorbească şi la altul
+Numai de Isus Hristos
+
+[s2]
+3.  Altul ştie ca să cânte
+Minunat cu glasul său
+Să cânte deci cu plăcere
+Spre slava lui Dumnezeu
+4.  Altul înzestrat cu daruri
+Ca să fie scriitor
+Bine este când se scrie
+De Isus blândul Păstor
+
+[s3]
+5.  Altul ştie să-ntocmească
+Cântece şi poezii
+Să fie tot pentru Domnul
+Nu glume proaste a zis
+6.  Şi la altul i-a dat Domnul
+Multe bogăţii şi bani
+Ce frumos când el ajută
+Pe săraci şi pe orfani
+
+[s4]
+7.  Altul ştie ca să facă
+Cărţi creştine de folos
+Toate acestea sunt în slujba
+Spre onoarea lui Hristos
+8.  Deci aşa făcând cu toţii
+Zi cu zi să tot sporiţi
+Şi în ceruri o comoara
+De preţ mare pregătit
+
+[order]
+s1,s2,s3,s4

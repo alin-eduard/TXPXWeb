@@ -1,0 +1,50 @@
+[s1]
+Dragă prieten care stai
+Vesel în credinţă
+Fii tu prieten cu Isus
+Şi la suferinţă.
+
+[s2]
+/: Dacă-n ceasul de temut
+Vrei să fii la dreapta
+Când Isus e trist acum
+Mângăie-l cu fapta. :/
+
+[s3]
+Dă-i acum din pâinea ta
+Foamea să-şi aline
+Căci în cer în veci de veci
+Nu-i va mai fi foame.
+
+[s4]
+/: Dă-i acum din stropii reci
+Setea să-şi aline
+Căci aşa pribeag în veci
+Ţie nu-ţi mai vine. :/
+
+[s5]
+Dă-i acuma haina ta
+Când e rupt veşmântul
+Căci în cer în veci de veci
+Nu-l va bate vântul.
+
+[s6]
+/: Dă-i acuma la bolnavi
+Mângâierea toata
+Căci bolnav nu va mai fi
+Domnul niciodată. :/
+
+[s7]
+Ia-l acum în casa ta
+Să-şi aline somnul
+Azi e un sărac in drum
+Mâine va fi Domnul.
+
+[s8]
+/: Iată anii ni se duc
+Zilele ca spuma
+Fii tu prieten cu Isus
+Nu uita niciuna. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

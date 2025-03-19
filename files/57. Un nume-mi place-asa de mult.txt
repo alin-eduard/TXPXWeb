@@ -1,0 +1,25 @@
+[s1]
+1. Un nume-mi place să ascult,
+De El aş vrea să cânt;
+Să-mi plac-un nume aşa de mult
+Nu-i altul pe pământ.
+57                                                                                                   			                        FA
+
+[r1]
+Cor:  /: Îl iubesc pe Isus :/
+Că-ntâi El m-a iubit .
+
+[s2]
+2. Îmi spune-acest Nume iubit
+Despre un Salvator
+Ce pentru mine S-a jertfit
+Ca-n veci eu să nu mor.
+
+[s3]
+3. Îmi spune că iubirea Lui
+M-ajută-n întristări
+Și că puterea Domnului
+Mă scapă de poveri.
+
+[order]
+s1,r1,s2,r1,s3,r1

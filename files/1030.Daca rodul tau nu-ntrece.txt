@@ -1,0 +1,33 @@
+[s1]
+1.	      Dacă rodul tău nu-ntrece
+Vremea-n care ai trăit
+/: Gol vei merge-n veşnicie
+Greu îţi va fi la sfârşit :/.
+2.            Dacă plânsul tău nu-ntrece
+Plânsul celui vinovat
+/: Calea ta-i tot sub osândă
+Şi trecutu-i neuitat :/.
+1030.
+
+[s2]
+3.        Dacă ruga ta nu-ntrece
+De-nălţimea ta mai sus
+/: În zadar ţi-e osteneala
+Gol te-ntorci cum te-ai şi dus :/.
+4.         Dacă fapta ta nu-ntrece
+Mila unui fariseu
+/: N-ai să vezi împărăţia
+Cerului lui Dumnezeu :/.
+
+[s3]
+5.             Dacă mila ta nu-ntrece
+Cu ceva al tău cuvânt
+/: Fapta ta-i deşertăciune
+Şi alergarea-i după vânt :/.
+6.	       Dacă viaţa ta nu-ntrece
+A celui necredincios
+/: Tu nu mergi spre bucuria
+Ci spre ocara lui Hristos :/.
+
+[order]
+s1,s2,s3

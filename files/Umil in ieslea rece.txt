@@ -1,0 +1,18 @@
+[s1]
+Umil în ieslea rece,
+Doamne, Te­ai născut
+Şi nimeni nu Te­a aşteptat,
+Doar zări înalte, coruri minunate
+/: Cântau spre slava Ta, Isuse,
+Imnuri îngereşti, măreţe. :/
+
+[s2]
+Din dragoste curată,
+Doamne­ai coborât
+Lăsând a cerului splendori,
+Ai venit în lume aducând cu Tine
+/: Mult har şi pace sfântă­n inimi,
+Sfinte bucurii, iertare. :/
+
+[order]
+s1,s2

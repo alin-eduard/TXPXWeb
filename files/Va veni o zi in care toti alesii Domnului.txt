@@ -1,0 +1,31 @@
+[s1]
+Va veni o zi în care toţi aleşii Domnului
+Vor cânta un imn de slavă Mielului.
+Ziua-aceea nu-i departe,
+Pregătiţi-vă acum
+Nu uitaţi că ziua-aceea e pe drum.
+
+[r1]
+Ce minune va fi când Domnul va veni
+Toţi aleşii Domnului cu El vor fi!
+Vei fi şi tu acol’ la masa Domnului
+Pregăteşte-te, că ziua e pe drum!
+
+[s2]
+După toată alergarea,
+fericit vei fi şi tu
+Vei primi cununa slavei lui Isus.
+Pregăteşte-te acuma,
+Până încă mai e har!
+Nu lăsa să treacă timpul în zadar!
+
+[s3]
+Pregătit fii pentru ceruri,
+Pentru aceea mare zi
+Când Isus pe nori, cu slavă va veni.
+Să fii gata de plecare,
+Oricând să fii pregătit
+Căci ce-a promis El va face negreşit.
+
+[order]
+s1,r1,s2,r1,s3,r1

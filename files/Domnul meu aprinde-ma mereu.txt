@@ -1,0 +1,26 @@
+[s1]
+Domnul meu, aprinde-mă mereu
+Să pot cu foc să-Ti cânt,
+C-un duh întreg şi sfânt!
+Isuse slava Ta,
+Curat s-o pot ‘nălţa
+C-un trai tot mai senin
+Prin harul Tău divin.
+
+[r1]
+Te slăvesc şi-adânc Iti mulţumesc
+Că mi-ai dat un har aşa bogat
+Isuse preaiubit, să fii slăvit, slăvit
+Prin cântec înnoit, şi azi şi-n nesfârşit.
+
+[s2]
+Mire drag, sunt astăzi un pribeag
+Pe drum de adevăr,
+Călătorind spre cer.
+Isuse Tu ne-ai spus,
+Atunci când Tu Te-ai dus
+Că vei veni pe nori,
+Noi Te-aşteptăm cu dor.
+
+[order]
+s1,r1,s2,r1

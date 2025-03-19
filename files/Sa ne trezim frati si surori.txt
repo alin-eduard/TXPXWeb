@@ -1,0 +1,32 @@
+[s1]
+Să ne trezim frati si surori,
+Să nu ne prindă somnul,
+Căci au sosit ai zilei zori,
+/: Curînd soseste Domnul :/
+
+[s2]
+Curînd, curînd, El va veni,
+Să-si ia mireasa sfîntă.
+Pe care o va-mpodobi,
+/: Cu haina cea de nuntă :/
+
+[s3]
+Îngrijorări să n-ai defel,
+Căci Domnul te iubeste.
+Tu poartă-ti crucea ca si El,
+/: Isus te întăreste :/
+
+[s4]
+Chiar toti de-ar fi împotriva ta,
+Cu hule si ocare.
+Tu, frate, nu descuraja,
+/: Căci plata-n cer ti-e mare :/
+
+[s5]
+Să preamărim cerescul Miel,
+Nădejdea noastră vie
+Ferice-acei alesi de El
+/: Cu El în cer să fie :/
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,32 @@
+[s1]
+Până la moarte, slujim cu credinţă,
+Isuse, Doamne, al nostru Împărat!
+Sub al Tău steag, vom avea biruinţă
+Lupta-vom dârz, bărbăţie ne-ai dat.
+
+[r1]
+Pâna la moarte, pe Isus urmăm noi
+Şi nici un pas înapoi nu vom da!
+Pâna la moarte, sub steagul de luptă
+Ce, la Golgota, Isus l-a'nălţat.
+
+[s2]
+Până la moarte, supuşi voii Tale!
+L-al Tău cuvânt noi plecaţi vrem să fim
+Cât de frumoasă ne pare-astă cale!
+Pentru Isus, viaţa să ne jertfim.
+
+[s3]
+Până la moarte, pe urmele Tale!
+De-i voia Ta, noi trăim, sau murim!
+Tu, chiar la cruce, ai dat ascultare;
+Pe-a-Tale urme, noi vrem să paşim.
+
+[s4]
+Flacăra Duhului Tău să aprindă
+A noastre inimi, umili să-Ţi slujim,
+Dragostea Ta tot mai mult să cuprindă
+Inima celor ce văd cum trăim.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

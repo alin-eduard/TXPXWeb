@@ -1,0 +1,30 @@
+[s1]
+2100
+1. Domnul e lumina
+Și mântuirea mea
+De cine să mă tem
+Când pe Domnul Îl chem
+Domnul e lumina și izbăvirea mea
+Nicicând cu El nu mă voi clătina.
+
+[r1]
+Cor: /: Inima îmi zice
+Doamne din partea Ta
+Caută Fața mea :/
+
+[s2]
+2. Nu-mi ascunde Doamne
+Fața Ta
+De la Tine nu mă îndepărta
+Tu ești ajutorul meu nu mă lăsa
+Ca să pot să-Ți cânt Aleluia.
+
+[s3]
+3. Un lucru-Ți cer o Doamne
+Și pentru veci aș vrea
+Să locuiesc mereu în casa Ta
+Ca să privesc eu frumusețea Ta
+Și să cânt laude întotdeauna.
+
+[order]
+s1,r1,s2,r1,s3,r1

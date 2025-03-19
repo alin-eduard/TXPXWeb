@@ -1,0 +1,32 @@
+[s1]
+Inima ne fie plină
+De cântări şi mulţumiri,
+Căci ai săi fii ne numeşte
+Tatăl Sfânt din străluciri.
+
+[r1]
+Cu iubire, cu iubire,
+La Isus să alergăm,
+In prezenţa Lui acum pe cale
+Pe deplin ne bucurăm.
+
+[s2]
+Dumnezeu cu mână tare
+Ne păzeşte pas cu pas;
+El prin har şi îndurare
+Ne-ntăreşte ceas cu ceas.
+
+[s3]
+Cei curaţi primesc putere
+Si pe cale înfloresc;
+Toţi îi cântă-n adorare:
+„Slavă Tatălui ceresc!”
+
+[s4]
+Dacă-l părăsim pe Domnul,
+Noaptea ne va-nconjura,
+De ne-ntoarcem iar în grabă
+Si-L rugăm, ne va ierta.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

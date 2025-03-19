@@ -1,0 +1,32 @@
+[s1]
+Lui mă voi încredinţa,
+Nimeni nu mă va­-nşela,
+Domnul mă va apăra,
+El îmi umple inima.
+
+[r1]
+Eu mă-­ncred în Domnul meu,
+Vreau să fiu cu El mereu.
+Orice grijuri de­-ar veni,
+Domnul mă va izbăvi.
+
+[s2]
+Din înaltul cerului
+Mi­-a trimis lumina Lui.
+Ea­-mi arată drumul bun;
+În Isus nădejdea­-mi pun.
+
+[s3]
+Dacă-­n El nădăjduieşti,
+Negreşit în rai soseşti.
+Dacă fericire n­ai
+Inima să I­-o predai.
+
+[s4]
+Eu mă­-ncred în Domnul meu,
+Vreau să fiu cu El mereu.
+Orice grijuri de­-ar veni,
+Domnul mă va izbăvi.
+
+[order]
+s1,r1,s2,r1,s3,s4

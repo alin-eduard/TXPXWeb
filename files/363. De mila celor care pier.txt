@@ -1,0 +1,51 @@
+[s1]
+1. De mila celor care pier
+Departe de-al Tău nume
+Tu ai dat tot ce aveai în cer
+Şi tot ce aveai pe lume.
+363.
+
+[s2]
+2. Tu Cel prin care s-au făcut
+Toţi aştrii spre a-i conduce
+În umil staul Te-ai născut
+Şi ai murit pe-o cruce.
+
+[s3]
+3. Vândut ai fost pe preţ de argint
+De unul dintre ai Tăi
+Tu Fiul cerului preasfânt
+Vândut ai fost de cei răi.
+
+[s4]
+4.Cu crucea-n spate te-au purtat
+Urcând cu trudă dealul
+Şi nimeni nu Te-a ajutat
+Când greu urcai Calvarul.
+
+[s5]
+5. Dar s-a găsit un om milos
+Atunci şi pentru Tine
+Cum mai târziu ai fost Hristos
+În greu şi pentru mine.
+
+[s6]
+6. Atunci pe cruce ţintuit
+Te-au răstignit Isuse
+Şi ucenicul Tău iubit
+Într-un mormânt te puse.
+
+[s7]
+7. Dar piatra ce Ţi-a fost mormânt
+Era şi ea străină
+Şi n-a mai fost în cer cuvânt
+Nici pe pământ lumină.
+
+[s8]
+8. Aşa ai vrut Tu să plăteşti
+Să cumperi lumea-ntreagă
+Dar Tu pe nimeni nu sileşti
+Ci-i laşi pe toţi s-aleagă.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

@@ -1,0 +1,33 @@
+[s1]
+1. De-aş fi o privighetoare
+Să am aripi zburătoare
+/: Aş zbura ca vântul iute
+Pân' la Golgota pe munte :/
+2. Să văd pe Domnul cum moare
+Palidă-i faţa de soare
+/: Să-i vezi ochii umezi şi blânzi
+Care pentru mine au plâns :/
+749.Re m
+
+[s2]
+3. Să-i văd corpul perforat
+Cununa de spini pe cap
+/: Cât l-o fi durut de rău
+Pe Domnul păcatul meu :/
+4. Gândeşte-te soră şi frate
+La marea Lui bunătate
+/: Cât de mult El ne-a iubit
+Pentru noi a şi murit :/
+
+[s3]
+5. Hai cu toţii să mergem
+La Golgota să-L vedem
+/: Să plângem şi noi cu amar
+Sus la jertfa din Calvar :/
+6. Cu amar şi cu suspine
+Domnul nostru a stat în chinuri
+/: Domnul nostru cel divin
+Slavă-i fie-n veci Amin :/
+
+[order]
+s1,s2,s3

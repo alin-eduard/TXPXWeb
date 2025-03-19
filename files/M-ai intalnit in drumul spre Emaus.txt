@@ -1,0 +1,38 @@
+[s1]
+M-ai intâlnit in drumul spre Emaus
+Când coboram rãpus, dezamãgit;
+Nu-nţelegeam de ce aflam repaos
+Din graiul Tãu, in sufletu-mi trudit.
+
+[s2]
+/: Ştiai cã mi s-au stins sperante sfinte
+Stiai ca indoiala m-a cuprins,
+De-aceea mi-ai redat iar zel fierbinte
+Şi iar luminã dalbã mi-ai aprins. :/
+
+[s3]
+Erau momente calde si divine
+Şi retrãiam iar stãrile dintâi.
+Când ajungând, vãzând cã pleci strãine
+Ţi-am zis in casa mea sã mai rãmâi.
+
+[s4]
+/: Ai acceptat şi ai cinat cu mine
+Când in sfârsit Isus Te-am cunoscut
+Mi-ai fost strãin, acum imi e ruşine
+C-atâta drum nu Te-am recunoscut. :/
+
+[s5]
+Din calea deznadejdii ce coboara
+Iar spre Ierusalim m-am reântors
+Sã spun la toţi, cu-aceasi grea povoara
+Cum m-ai gãsit, slãvitul meu Hristos.
+
+[s6]
+/: De mergi şi tu dezamãgit la vale
+O voce blânda te va asalta,
+Deschide-ţi inima, e Domnul frate
+Cãci sigur va intra si va cina. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

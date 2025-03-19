@@ -1,0 +1,48 @@
+[s1]
+Viata-I ca un tren de munte
+Cu-n mecanic iscusit
+Drumu-ncepe de la leagan
+Si are la mormant sfarsit
+Pe semnale si tunele
+Pana-n jos calatoresc
+Tine mana strans pe frana
+Drumul vezi sa nu-l gresesti
+
+[r1]
+O! Isuse Tu condune
+Pan’ la locul fericit
+Unde ingerii ne-asteapta
+Sa-Ti cantam Isus iubit
+
+[s2]
+Peste vai, prapastii,
+Poduri lungi vei tranversa
+Dar Isus sta si pazeste
+Calea care-I viata ta
+Fii atent la avalanse
+Datoria sa-mplinesti
+Tine mana strans pe frana
+Drumul vezi sa nu-l gresesti
+
+[s3]
+Iar cand linia-I blocata
+Vanturi si furtuni se-abat
+La semnal sau intr-o gara
+Trenul tie amenintat
+Te increde doar in Domnul
+Curajos calatoresti
+Tine mana strans pe frana
+Drumul vezi sa nu-l gresesti
+
+[s4]
+Cand cu bine-ajungi la mal
+Si-apoi treci peste Iordan
+Vezi o gara impodobita
+E cerescul Canaan
+Aici trenul se opreste
+Tu cobori, esti fericit
+Domnul Isus iti vorbeste
+Calator bine-ai venit
+
+[order]
+s1,r1,s2,s3,r1,s4,r1

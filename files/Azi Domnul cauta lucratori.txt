@@ -1,0 +1,32 @@
+[s1]
+Azi Domnul caută lucrători,
+Să lucre’ pentru cer,
+Să fie buni semănători,
+Cât şi plugari, la fel.
+
+[r1]
+Azi să lucrăm cu-nflăcarare,
+Pana cand nu se face noapte,
+Căci secerişul este mare...
+Să lucrăm cât ţine ziua!
+
+[s2]
+Pământul bun şi cel pustiu,
+S-audă Biblia,
+Azi, să-i chemăm, pân' nu-i târziu,
+La mântuirea Sa.
+
+[s3]
+Să-l semănăm la mii şi mii
+Şi una, toţi să fim!
+Ca stelele vom străluci,
+Sus în Ierusalim.
+
+[s4]
+Coboar-amurgul peste plăi...
+Lucrătorii viei
+Aşteaptă leul să le dai,
+Plata veşniciei.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

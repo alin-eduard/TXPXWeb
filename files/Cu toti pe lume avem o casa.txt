@@ -1,0 +1,38 @@
+[s1]
+Cu toţi pe lume
+avem o casă, fiecare
+Dar orice-ai spune,
+să ştii că odată-o vei lăsa.
+Doar o întrebare:
+Te-ai gîndit tu la cea din ceruri?
+Că-n ziua mare
+cu toţi de-aicea vom pleca.
+
+[r1]
+O, ce splendoare vrea să-ţi dea Tatăl
+Un loc cu Soare în veşnicii !
+Şi cum Îl doare! Priveşte, iată
+Tu-n sărbătoare amîi să vii !
+
+[s2]
+Puţini sînt anii pe care-aici
+îi vom petrece
+Şi tu mai zăboveşti
+spune-mi, unde e casa ta ?
+Pămîntul acesta va arde
+in imn de jale
+Căci totul trece,
+şi-n veşnicii ne-om deştepta.
+
+[s3]
+Isus pe cruce plăti
+un preţ să fii în slavă
+El te va duce în veşnicii
+de-L vei urma.
+Nici o zăbavă de-acum
+să nu mai ai în viaţă
+Te-ntoarce-n grabă,
+de vrei în cer să ai casa ta !
+
+[order]
+s1,r1,s2,r1,s3,r1

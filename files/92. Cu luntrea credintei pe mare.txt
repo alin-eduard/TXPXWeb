@@ -1,0 +1,51 @@
+[s1]
+92.                  Re m
+1. Cu luntrea credinţei pe mare
+Plutind azi făr de ajutor
+Şi marea se-agită întruna
+Ah, unde ai plecat Salvator.
+
+[r1]
+Cor: Te chem ca să vii azi la cârmă
+Căci valul stă tot ridicat
+O, vino degrabă Isuse
+Sunt singur, o, unde-ai plecat.
+
+[s2]
+2. E greu ca să lupţi prin furtună
+Şi-n luptă doar singur să fii
+E grea încercarea credinţei
+Isuse de ce nu mai vii.
+
+[s3]
+3. N-ajuns oare ruga la Tine
+De nu vii şi mai zăboveşti
+Nu sunt ascultat, o, Isuse
+Şi-amarnic mă tot chinuiesc.
+
+[s4]
+4. Se luptă Satana într-una
+Ca vâsla credinţei s-o pierd
+Şi apoi îndoieli fără margini
+Şi-n groază ca în val să pier.
+
+[s5]
+5. Mai vino şi acum, o, Isuse
+Opreşte valul furios
+Căci gata stă luntrea să piară
+Speranţa aproape s-a dus.
+
+[s6]
+6. Dar într-o lumină apare
+La luntre se opreşte Hristos
+La cârmă voi sta Eu de-acuma
+Oprind orice val furios.
+
+[s7]
+7. Eu pace-ţi grăiesc acum ţie
+Fii tare şi nu dispera
+Căci toate supuse sunt Mie
+Deci crede că Eu te-oi salva.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1

@@ -1,0 +1,26 @@
+[s1]
+Nu voi uita o, Doamne, niciodată
+Iubirea Ta cu care m-ai iubit.
+/:Şi n-am să uit că-n viaţa mea pribeagă
+Mi-ai spus că-mi ierţi păcatul cel cumplit:/
+
+[s2]
+Mi-ai spus să vin la Tine-ntotdeauna,
+Că mă primeşti ca pe copilul Tău,
+/:Că jugul Tău şi sarcina-i uşoară
+Şi mă ajuţi în chinul cel mai greu:/
+
+[s3]
+În orice greu îmi dai Tu biruinţă,
+Când nu găsesc la nimeni ajutor.
+/:Vreau să păşesc la Tine-n umilinţă
+Să pot ajunge la al vieţii izvor:/
+
+[s4]
+Un dor mai am acuma, scump Isuse,
+Când vei veni, să ies ‘naintea Ta.
+/:Să fiu cu-acei ce sunt în haine albe,
+Ce vor ieşi spre-ntâmpinarea Ta:/
+
+[order]
+s1,s2,s3,s4

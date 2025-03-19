@@ -1,0 +1,26 @@
+[s1]
+/: Omul din Galilea,
+E azi printre noi :/
+Isus e astăzi printre noi
+/: Lasă-L să te atingă :/
+Şi vei fi eliberat
+Vei fi binecuvântat
+
+[s2]
+/: În nici un alt nume nu-I
+Mântuirea nu :/
+Isus e astăzi printre noi
+/: Lasă-L să te atingă :/
+Şi vei fi eliberat
+Vei fi binecuvântat
+
+[s3]
+/: Ne vom petrece
+Veşnicia cu Isus :/
+Cântându-I osanale, Aleluia
+/: Lasă-L să te atingă :/
+Şi vei fi eliberat
+Vei fi binecuvântat
+
+[order]
+s1,s2,s3

@@ -1,0 +1,26 @@
+[s1]
+Cu sufletul prea plin de dor
+Mă plec ‘naintea Ta!
+Te rog, iubit Mântuitor,
+Coboarã-n viaţa mea!
+
+[s2]
+Pierdut în lumea de păcat,
+Ispite m-au învins,
+Iar chipul Tău frumos, curat
+Din suflet mi s-a stins.
+
+[s3]
+Ca Mare preot, bun, milos,
+Slujeşti în Sanctuar,
+Chemând pe orice păcătos
+La tronul Tău de har.
+
+[s4]
+Privind uimit iubirea Ta
+Şi jertfa ce-ai adus
+Să fiu pe veci cu Tine-aş vrea,
+Iubitul meu Isus!
+
+[order]
+s1,s2,s3,s4

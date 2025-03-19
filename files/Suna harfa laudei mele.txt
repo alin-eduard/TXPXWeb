@@ -1,0 +1,34 @@
+[s1]
+Sună harfa laudei mele
+Numai pentru Dumnezeu
+La nevoi şi la durere
+Aleluia îi cânt eu.
+/: Toată viaţa cât trăiesc
+Pe Isus îl preamăresc :/
+
+[s2]
+A creat tot universul
+Domnul, prin al Său cuvânt
+Pe bolnavi îi vindecase
+Cât trăise pe pământ
+/: Şi pe mine m-a creat,
+Mântuire-apoi mi-a dat :/
+
+[s3]
+Fericit e cine are
+Pe Isus în ajutor,
+Cine Lui i se supune
+Şi îi e ascultător.
+/: Fie bine, fie rău,
+Domnul este scutul său :/
+
+[s4]
+Aleluia! Aleluia!
+Să răsune ne-ncetat
+Până Domnul vine-n slavă,
+Astfel cum a cuvântat.
+/: Să îi cânte inima
+Până când Îl va vedea :/
+
+[order]
+s1,s2,s3,s4

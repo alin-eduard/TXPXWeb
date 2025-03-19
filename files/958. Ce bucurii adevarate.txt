@@ -1,0 +1,35 @@
+[s1]
+958.
+1. Ce bucurii adevărate
+Ne-a dăruit acest pământ
+Uşor de tot sunt dărâmate
+Zidirile-i când bate vânt
+Aşa-i de grea povara lui
+Şi nu dă roade nimănui.
+
+[s2]
+2. O luptă nefolositoare
+Un lung război fără sfârşit
+Visări şi munci ostenitoare
+Dureri ce vin necontenit
+Un somn ce nu-i odihnitor
+O zvârcolire fără spor.
+
+[s3]
+3. Cu tot belşugul ţi se pare
+Că sufletul ţi s-a golit
+Şi după lungă desfătare
+În inimă te simţi scârbit
+Mănânci şi nu te-ai săturat
+Odihnă n-ai de te-ai culcat.
+
+[s4]
+4. Şi de-ai trăit cu nepăsare
+De tot ce-i har şi Dumnezeu
+Atunci moartea îţi apare
+Strivindu-te cu pumnul greu
+Iar sufletul ce abia îl ştii
+E dincolo în veşnicii.
+
+[order]
+s1,s2,s3,s4

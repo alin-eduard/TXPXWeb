@@ -1,0 +1,32 @@
+[s1]
+În mine azi a răsărit
+Lumina cea de sus
+Ce-ntrece soarele pe cer,
+E darul lui Isus.
+
+[r1]
+Ea-i lumină sufletească,
+Mii de inimi se vor lumina
+Doar dacă faţa lui Isus
+În noi se va arăta.
+
+[s2]
+O rază-n inima mea azi
+Din ceruri a venit,
+Această rază m-a făcut
+Să cânt de fericit.
+
+[s3]
+Voioasă-i inima mea azi
+Că pacea e în ea,
+Credinţa şi nădejdea-mi dau
+Lumină-n viaţa mea.
+
+[s4]
+În mine primăvară-i azi,
+Mă bucur în Isus,
+Am viaţă prin iubirea Sa,
+Mă-nalţă tot mai sus!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,23 @@
+[s1]
+Vino suflete la cruce cu povara ta,
+Ne­ncetat Isus te-aşteaptă,
+Nu mai sta!
+
+[s2]
+Nu­L vezi cum Se chinuieşte,
+Stând în locul tău?
+Şi pe cruce Se jertfeşte Domnul tău?
+
+[s3]
+Sus pe lemn,
+Neprihănitul poartă­al tău păcat.
+Dumnezeu pe însuşi
+Fiul n­a cruţat.
+
+[s4]
+Pace, viaţă, bucurie curg
+Din crucea Lui.
+Slavă­acum şi­n veşnicie Domnului!
+
+[order]
+s1,s2,s3,s4

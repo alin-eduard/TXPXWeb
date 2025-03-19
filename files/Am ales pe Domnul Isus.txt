@@ -1,0 +1,85 @@
+[s1]
+Am ales pe Domnul Isus   LA
+Al meu bun Păstor!
+Cu El, sigur, voi ajunge
+Sus învingător!
+Sus în cer, în strălucire,
+Vreau să fiu şi eu.
+Sus în cer, în nemurire,
+Sus cu Domnul meu.
+
+[s2]
+2
+/: Un izvor de fericire
+Am găsit în Domnul meu;
+Un izvor de apă vie este El!
+Vino, prietene, aleargă!
+La izvorul mult dorit!
+Este loc şi pentru tine!
+Vino, să fii fericit!... :/
+
+[s3]
+3
+Seara când răsare luna,
+Cheamă-L pe Isus!
+Spune-I Lui, în rugăciune,
+Tot ce ai de spus!
+El te-ascultă, te iubeşte
+Ca pe fiul Său
+Şi îți dă în dar iertarea
+Sufletului tău.
+
+[s4]
+4
+/: Un izvor de fericire
+Am găsit în Domnul meu;
+Un izvor de apă vie este El!
+Vino, prietene, aleargă!
+La izvorul mult dorit!
+Este loc şi pentru tine!
+Vino, să fii fericit!... :/
+
+[s5]
+5
+Iar când zorii se arată,
+Pe cerul senin
+Rugăciunea ţi-o înalţă
+Domnului divin!
+Mulţumește-I, cu iubire!
+Fii încrezător!
+Singur, nicicând nu te lasă:
+El e-Ocrotitor!...
+
+[s6]
+6
+/: Un izvor de fericire
+Am găsit în Domnul meu;
+Un izvor de apă vie este El!
+Vino, prietene, aleargă!
+La izvorul mult dorit!
+Este loc şi pentru tine!
+Vino, să fii fericit!... :/
+
+[s7]
+7
+La izvorul fericirii
+Stă un bun Păstor,
+El cu dragoste te cheamă
+Să-ţi de-a ajutor.
+Nu uita că trece viaţa treci
+Și tu cu ea,
+La izvorul fericirii
+Vino nu mai sta.
+
+[s8]
+8
+/: Un izvor de fericire
+Am găsit în Domnul meu;
+Un izvor de apă vie este El!
+Vino, prietene, aleargă!
+La izvorul mult dorit!
+Este loc şi pentru tine!
+Vino, să fii fericit!... :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

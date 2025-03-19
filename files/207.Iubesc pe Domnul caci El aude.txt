@@ -1,0 +1,60 @@
+[s1]
+1. Iubesc pe Domnul căci El aude
+Şi cererea şi glasul meu
+El şi-a plecat spre mine urechea
+De aceea îl voi chema mereu.
+207. Mi b
+
+[s2]
+2. Mă-nfăşuraseră a morţii teamă
+Şi a mormântului sudori
+Eram a necazului pradă
+Legat am fost de atâtea ori.
+
+[s3]
+3. Dar am chemat
+Al Domnului nume
+Şi-am zis în strâmtorarea mea
+O Doamne, o Doamne
+Mântuieşte-mi sufletul
+Şi viaţa mea.
+
+[s4]
+4. Dar Domnul milostiv şi bun
+Şi în veci de îndurare plin
+Pe a Lui neprihăniţi îi scapă
+Pe mine m-a scăpat de chin.
+
+[s5]
+5. Întoarce-te suflete-n odihnă
+Căci Domnul bine ţi-a făcut
+Dar Tu m-ai mântuit o Doamne
+Din moarte sufletul pierdut.
+
+[s6]
+6. Picioarele de la cădere
+Din ochi lacrimi Tu mi-ai şters
+Înaintea Domnului umbla-voi
+Pe acelor vii pământ curat.
+
+[s7]
+7. Aveam dreptate când ziceam
+Că-nenorocire am să mor
+În neliniştea mea grăitam
+Că orice om e-nşelător.
+
+[s8]
+8.Dar cum voi răsplăti eu Doamne
+Că bine mie mi-ai făcut
+'Nălţând paharul izbăvirii
+Chema-voi numele plăcut.
+
+[s9]
+9. Eu împlini-voi juruinţa
+Făcută-n faţă la ai Săi
+Ce scumpă-i
+Pentru Domnul moartea
+Acelor prea iubiţi ai Săi.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

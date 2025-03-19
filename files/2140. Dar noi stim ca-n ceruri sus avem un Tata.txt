@@ -1,0 +1,43 @@
+[s1]
+2140
+Cor: /: Dar noi știm că-n ceruri sus avem un Tată
+Care pentru El ne vrea cu orice preț
+Ne punem azi în El nădejdea noastră toată
+La adăpost vor fi a
+noastre vieți :/.
+
+[s2]
+1. Zi de zi privim spre cer
+cu nerăbdare
+Privirile spre nori le ațintim
+Înserarea peste noi adânc coboară
+Și soarele-i aproape
+de asfințit.
+
+[r1]
+Cor: /: Dar noi știm că-n ceruri sus avem un Tată
+Care pentru El ne vrea cu orice preț
+Ne punem azi în El nădejdea noastră toată
+La adăpost vor fi a
+noastre vieți :/.
+
+[s3]
+2. Cei ce astăzi au a lor
+candele goale
+Să-și cumpere ulei cât
+mai e timp
+Când Dumnezeu va-nchide a raiului poartă
+Să o deschizi nicicum nu
+vei putea.
+
+[s4]
+3. Astăzi Domnul încă iartă orice vină
+Să vii acum la El cât mai
+e timp
+Nu mai sta că timpul este
+pe sfârșite
+Întoarce-te chiar azi din al
+tău drum.
+
+[order]
+s1,s2,r1,s3,r1,s4,r1

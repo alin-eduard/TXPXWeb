@@ -1,0 +1,32 @@
+[r1]
+/: El poate, El poate,
+Eu ştiu că poate,
+Eu ştiu că Domnul
+Poate a mă duce în cer :/
+
+[s1]
+El inimi vindecat-a,
+Captivi eliberând,
+A dat vedere orbilor,
+Bolnavii vindecând.
+
+[s2]
+A dat la ai Săi putere
+Să îi fie martori vii,
+Prin Duhul Său cel Sfânt
+Le-a dat şi multe bucurii.
+
+[s3]
+Deci suflet te grăbeşte
+Şi vino la Isus,
+Caci bunul tău păstor Isus
+Te duce în ceruri sus.
+
+[s4]
+Şi-acolo-n veşnicie
+Cu Dumnezeu vei sta,
+Daca-ai facut în viata ta
+Ce spune Biblia.
+
+[order]
+r1,s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,32 @@
+[s1]
+Doamne, viaţa mea Ţi-o dau,
+Pe deplin eu mă predau;
+Mă condu Tu pas cu pas,
+Ziua, noaptea,-n orice ceas.
+
+[r1]
+Cu întreagă fiinţa mea,
+Mă predau în slujba Ta.
+Umple-mi inima de foc,
+Asta, Doamne, eu Te rog.
+
+[s2]
+Ale mele mâini le ia,
+Să lucreze-n via Ta,
+Şi picioarele, la fel,
+Să-Ţi urmeze ca un miel.
+
+[s3]
+Glasul meu să îl sfinţeşti
+Să-Ţi servească cum doreşti.
+Limpezeşte-l, fă-l curat,
+Ca să-Ţi cânte ne-ncetat.
+
+[s4]
+Libertatea-mi Ţi-o jertfesc,
+Ce mi-e scump Îţi dăruiesc.
+Gândul îmi va fi mereu
+Îndreptat spre lucrul Tău.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

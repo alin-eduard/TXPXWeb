@@ -1,0 +1,32 @@
+[s1]
+Oare n-aţi aflat voi încă?
+Domnu-i blând şi iubitor,
+El de mii de ani încoace
+Face bine tuturor.
+Azi cu dragoste vă cheamă
+Înspre El necontenit;
+Ah, chemarea-I părintească
+Ascultaţi-o în sfârşit!
+
+[s2]
+Binecuvântând poporul
+Stă de-a pururea-ntre voi,
+El v-ascultă rugăciunea
+Şi vă scapă din nevoi.
+Dacă toţi, cu mic, cu mare
+Înspre Domnul veţi privi,
+Orice chin, orice durere,
+Orice rele vor pieri.
+
+[s3]
+Precum florile se-ndreaptă
+Către soarele de sus,
+Aşa sufletele voastre
+Să să-ndrepte spre Isus.
+El, mai mult decât o mamă
+Vă primeşte cu mult dor,
+Ascultaţi-L cum vă cheamă
+El e-al vostru Salvator.
+
+[order]
+s1,s2,s3

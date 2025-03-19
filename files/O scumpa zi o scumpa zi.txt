@@ -1,0 +1,28 @@
+[s1]
+O scumpă zi, o scumpă zi,
+Când pe Isus eu L-am primit,
+Inima mea I-am dat-o Lui,
+Cu totul sunt al Domnului.
+
+[r1]
+/: Sunt al Lui :/
+Nu sunt al meu ci-al Domnului
+Prin sânge sfânt rãscumpãrat,
+De tot pãcatul sunt spãlat
+/: Sunt al Lui :/
+Nu sunt al meu ci-al Domnului
+
+[s2]
+O scumpă zi, o, ceas frumos
+Când am aflat eu pe Hristos,
+Prin al Său har sunt renăscut
+Şi-acuma ştiu că nu-s pierdut.
+
+[s3]
+Eu stau lipit lângă Isus
+Ce mântuire mi-a adus,
+De la Isus eu nu m-abat
+Căci pace numai El mi-a dat.
+
+[order]
+s1,r1,s2,r1,s3,r1

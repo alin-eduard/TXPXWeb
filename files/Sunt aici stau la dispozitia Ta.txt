@@ -1,0 +1,32 @@
+[s1]
+Stiu ca tu nu vrei nici jertfe
+si nici daruri
+Stiu ca Tu privesti
+Doar la inima mea
+Si doresti sa vezi
+O inima intreaga
+Daruita pe deplin
+In slujba Ta
+
+[s2]
+As dori ca viata mea sa fie
+Pusa-n slujba Ta cu tot ce fac
+Sa ascult chemarea Ta divina
+Sa urmez in totul voia Ta.
+
+[r1]
+Sunt aici, stau la dispozitia Ta
+Sunt aici dorind sa fac
+doar voia Ta
+Sunt aici si vreau
+Chemarea sa-Ti urmez
+Iata-ma, sunt aici
+
+[s3]
+Tu ai pus cuvantul Sfant in mine
+Calauza-n drumul vietii pe pamant
+Sa traiesc in voia Ta, sa Te urmez
+Si in inima sa fii tu Domnul meu.
+
+[order]
+s1,s2,r1,s3,r1

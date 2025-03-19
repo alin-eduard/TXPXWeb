@@ -1,0 +1,47 @@
+[s1]
+1783.         Mi
+1. În disperarea ta,
+Când durerea te-apasă
+Şi n-ai cui să îi spui,
+Necazul tău din casă
+/:Tu vino la Isus,
+Durerea ta i-o spune
+El te va asculta,
+Şi-n taină-ţi va răspunde:/
+
+[s2]
+2. Când plângi pentru cei dragi,
+Şi-ai vrea să-i ai cu tine
+Şi când genunchii tăi,
+Slăbesc în rugăciune
+/:Să nu te-opreşti din drum,
+În ajutor îţi vine
+Chiar crucea de e grea,
+El mâna ţi-o întinde:/
+
+[s3]
+3. Pe mâna Lui găseşti,
+Balsam şi alinare
+Şi-n rugăciunea ta,
+Primi-vei rezolvare
+/:Şi vei vedea atunci,
+Cum El, Isus din slavă
+Va coborî milos,
+La inima ce-L  cheamă:/
+
+[s4]
+4. Te va-ntreba duios,
+Ce să fac pentru tine
+O, Doamne eu aş vrea
+Ca să rămâi cu mine
+/:Şi-atunci când vei veni,
+Să-Ţi iei a Ta mireasă
+Cu Tine să mă `nalţ,
+Şi să mă duci acasă
+Şi voi uita pe veci,
+De lacrimi şi necazuri
+Şi mă voi bucura,
+Pe-a tale sfinte plaiuri:/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,47 @@
+[s1]
+Cu slava imbracat domneste-n vesnicii
+Si laudele cerului maresc
+Pe-al meu D-zeu prea sfant ce tot pacatul mi-a iertat
+Slava Lui doar D-lui
+Slava numelui Lui,slava doar Lui
+
+[s2]
+Ce dragoste cat m-a iubit
+Iubire-adanca ce pe cruce
+Te-ai jertfit
+Si din moarte Tu m-ai scos,
+prin moartea Ta
+Iubire jertfitoare,Tu m-ai salvat
+
+[s3]
+Cand privesc spre toata bunatate
+Domnului
+Cand vad iubirea lui in viata mea
+Al meu suflet se inalta plin
+de-ncredere spre cer
+Slava Lui doar Domnului
+/: Slava Lui :/ slava doar Lui
+
+[s4]
+Ce dragoste cat m-a iubit
+Tu viata mi-ai schimbat
+si m-ai eliberat
+De tot trecutul meu murdar
+si-ntunecat
+Iubire jertfitoare Tu m-ai salvat
+
+[s5]
+/: Doamne Tu esti :/
+/: Tot ce-am mai bun :/
+/: Ce-am mai de pret :/,
+/: Esti viata mea :/
+
+[s6]
+Ce dragoste cat m-ai iubit
+Minunea harului ce viata mi-ai schimbat
+Si-ai fost iubire vesnica in viata mea
+Ce dragoste,iubire vesnica
+/: Cat m-ai iubit :/
+
+[order]
+s1,s2,s3,s4,s5,s6

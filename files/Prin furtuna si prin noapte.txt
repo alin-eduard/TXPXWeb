@@ -1,0 +1,26 @@
+[s1]
+Prin furtună si prin noapte
+Asa-i calea lui Isus
+/: Dar sfârseste-n cer departe,
+Unde-i soare făr-apus.:/
+
+[s2]
+Dacă suferim aicea
+Tot noroiul de dureri,
+/: Vom avea, pe totdeauna,
+Albe flori de mângâieri.:/
+
+[s3]
+Căci din noaptea grea si plină
+De fum, ceată si de nori,
+/: Vom păsi-ntr-o zi senină,
+Insotiti de albe zări.:/
+
+[s4]
+Si-om uni cântarea noastră
+Cu al îngerilor cor;
+/: Vom cânta cântare nouă,
+Preamărind pe Salvator.:/
+
+[order]
+s1,s2,s3,s4

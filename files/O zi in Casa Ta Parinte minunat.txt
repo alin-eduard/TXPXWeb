@@ -1,0 +1,24 @@
+[s1]
+O zi în Casa Ta, Părinte minunat,
+Eu mii de ani n-aş da
+în cel mai scump palat.
+Voi sta cu Tine-n veşnicii
+/: Şi fericit în veci voi fi voi fi! :/
+
+[s2]
+Din Sfintele Scripturi
+povaţă când primesc,
+Ispitei pot atunci să mă împotrivesc.
+Şi nu cunosc alt loc mai bun
+/: Să pot al meu necaz să-l spun. :/
+
+[s3]
+O zi în casa Ta,
+la Sfântul Tău Cuvânt,
+E pentru viaţa mea
+balsamul cel mai sfânt.
+Şi mii de ani şi zeci de mii
+/: Cu Tine, Doamne i-aş trăi! :/
+
+[order]
+s1,s2,s3

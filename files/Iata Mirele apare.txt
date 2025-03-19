@@ -1,0 +1,44 @@
+[s1]
+Iată, Mirele apare
+Să ieşiţi spre-ntâmpinare !
+Cu candela voastră plină
+Mirele are să vină
+Pregătiţi-vă, fecioare, cu iubire !
+
+[r1]
+Mirele a venit şi le-a întâmpinat
+Pe acele cinci le-a răpit
+/: În al Său palat El le-a ridicat
+Iar pe urmă uşa s-a-ncuiat. :/
+
+[r2]
+Cinci fecioare înţelepte
+Au ştiut cum să-L aştepte -
+Vegheatoare, mulţumite
+Pentru nuntă pregătite
+Înţeleptele fecioare, vegheatoare.
+
+[r3]
+Iar la uşa încuiată
+Au venit atunci să bată
+Celelalte în zadar.
+Însă nu mai este har
+Cele cinci nechibzuite, adormite.
+
+[s2]
+Ia uleiul, chibzuinţa !
+Până nu se dă sentinţa :
+<Domnul nu v-a cunoscut !
+Niciodată n-aţi cerut
+Duhul Sfânt mângâietor, făgăduinţa !>
+
+[s3]
+Iată-aşa va fi atunci
+Răsunând prin văi şi munţi
+Glasul minunat de sus :
+<Vine Regele Isus
+Să ieşiţi spre-ntâmpinare,
+voi, fecioare !>
+
+[order]
+s1,r1,r2,r1,r3,r1,r2,r1,r3,r1,s2,r1,s3,r1

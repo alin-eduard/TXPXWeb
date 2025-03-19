@@ -1,0 +1,30 @@
+[s1]
+Aştept pe Domnul
+după cum mi-a promis,
+Aştept pe Isus precum a zis,
+Aştept stăruind
+ca azi să primesc
+Duhul Domnului ceresc!
+
+[r1]
+/: Puterea :/
+mă curăţă să-nving orice păcat,
+/: Puterea :/
+ce la Rusalii s-a vărsat!
+
+[s2]
+Aştept pe Domnul
+căci Lui eu m-am predat,
+Aştept pe Isus să-mi deie sfat,
+Aştept gloria Duhului cel Sfânt
+Să mă-nveţe a fi blând.
+
+[s3]
+Aştept pe Domnul
+mai aproape să-I fiu;
+Aştept pe Isus al meu cel viu;
+Aştept arvuna Sfântului Spirit
+Să pot fi tot umilit.
+
+[order]
+s1,r1,s2,r1,s3,r1

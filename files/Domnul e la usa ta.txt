@@ -1,0 +1,32 @@
+[s1]
+Domnul e la uşa ta,
+Să­-L primeşti!
+Vrea cu tine a cina,
+Să-­L primeşti!
+E al tău Mântuitor
+Şi aşteaptă răbdător,
+Vrea să fie­-al tău Păstor,
+Să­-L primeşti pe El!
+
+[s2]
+Nu auzi tu glasul Lui?
+Să­-L primeşti!
+Nu vezi tu iubirea Lui?
+Să­-L primeşti!
+El ţi­-aduce bucurii
+Când la masa ta va fi,
+Vrea pe veci al Lui să fii!
+Să­-L primeşti!
+
+[s3]
+Pentru tine a răbdat,
+Să-­L primeşti!
+Vrei să plece întristat?
+Să­-L primeşti!
+O, primeşte­-L, nu-­L lăsa,
+El păcatu­ţi va ierta,
+Viaţă veşnică-ţi va da,
+Să­-L primeşti!
+
+[order]
+s1,s2,s3

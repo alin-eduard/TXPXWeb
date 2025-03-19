@@ -1,0 +1,22 @@
+[r1]
+Iartă-mă Doamne pentru că încă ţin
+la lucrurile pe care Tu vrei să le schimbi.
+Mi-e aşa de greu să renunţ la păcat
+Vreau să-mi înalţ mâinile spre Tine.
+Doamne dar mi-e aşa de teamă
+Că vei vedea toată mocirla
+în care m-am complăcut.
+
+[r2]
+Vreau să mă dăruiesc
+Ţie cu toata fiinţa mea.
+Mâinile mele, mintea mea,
+inima mea, toata fiinţa mea
+Vreau sa trăiesc pentru Tine
+pe vecie cu toata fiinţa mea
+Îngăduie-mi să stau înaintea ta sfinţit.
+Nu este mult  dar iţi dăruiesc
+toata fiinţa mea.
+
+[order]
+r1,r2,r1,r2,r2

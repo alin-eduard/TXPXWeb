@@ -1,0 +1,42 @@
+[s1]
+1876                 Re m
+1. Odată la răscruci de drumuri
+În cumpănă pe talere sta pus
+Păcatul mult și greu al lumii
+Pe celălalt era , era Isus.
+Când nimeni nu putea-nțelege
+Zbuciumul ce era-n sufletul Său
+/:Doi ochi mai calzi mai plini de lacrimi            Plângeau atunci pentru păcatul meu:/
+
+[r1]
+Cor: Dragostea lui Dumnezeu
+Dragostea Tatălui meu
+M-a primit m-a curățit
+Şi azi sunt fericit
+Lângă cruce am aflat ,
+În Isus izvor curat
+Sufletul El mi-a salvat
+/:Slavă Lui:/ Slavă Lui neîncetat.
+
+[s2]
+2. Căci drumul spre grădina Ghetsimani
+Și rugăciunea Ta din noaptea grea
+Îmi amintesc atunci printre dușmani
+Străin de Tine Doamne mă aflam.
+Și foșnetul din frunza de măslin
+Cu-n jalnic glas el spune tuturor
+/:Paharu-amar , de amaruri plin
+I-am dat cu toții fără ca să știm.:/
+
+[s3]
+3. Nu vom găsi iubire mai adâncă
+Ca și iubirea Ta iubit Isus
+Nu te-a putut învinge noaptea crudă
+Căci Tu de mult erai erai de Sus
+Un fir de praf din bulgărul de tină
+Nimic am fost dar Tu m-ai prețuit
+/:Isuse Tu m-ai scos din tină
+Și viață din viața Ta-am primit:/.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,51 @@
+[s1]
+1935
+1. Doamne ne-ai chemat din lume
+Să-ți slujim cu adevărat
+Să călcăm pe a Tale urme
+Și pe drumul cel curat.
+
+[s2]
+2. Pe unii din tinerețe
+Pe alții cum ai voit
+Ne-ai chemat să cântăm imnul
+Căci așa ne-ai rânduit.
+
+[s3]
+3. Am întâmpinat de-atuncea
+Noi obstacole pe drum
+Dar noi nu te-am dat uitării
+Niciodată  nicidecum.
+
+[s4]
+4. Azi simțim pe urma sfântă
+Căci Tu har ne-ai dăruit
+Și cu orice greu cu Tine
+Prin credință biruim.
+
+[s5]
+5. Valuri mari se ridicară
+Să ne apese apoi din drum
+Dar puterea Ta slăvită
+Le-a îndepărtat oricum.
+
+[s6]
+6. Te-am urmat și prin furtună
+Peste vremea aceia grea
+Căci a Tale sfinte urme
+Nu voiam să le pierdem.
+
+[s7]
+7. Voi slăvi cerescul Nume
+Că e Nume minunat
+Și mereu îți cânt Părinte
+Căci așa ne-ai învățat.
+
+[s8]
+8. Nu te vinde pe nimicuri
+Nu te vinde pe comori
+Noi îți respectăm cuvântul
+O Isuse ești cu noi.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

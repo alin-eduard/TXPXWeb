@@ -1,0 +1,20 @@
+[s1]
+Isus te cheamă azi,
+nu refuza chemarea!
+Isus nu vrea ca să te pierzi
+ascultă ruga Sa!
+
+[r1]
+/: Deci vino, vino acum,
+vino şi lasă totul!
+Pornind pe noul drum,
+eşti ocrotit de Domnul. :/
+
+[s2]
+Tu ştii că eşti murdar,
+vino şi spală-ţi haina!
+Te cheamă Isus iar,
+El vrea salvarea ta!
+
+[order]
+s1,r1,s2,r1

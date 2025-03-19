@@ -1,0 +1,26 @@
+[s1]
+/: Tu meriţi toată lauda
+Căci Tu eşti totul în tot
+Ca Tu din veşnicie
+Eşti Domnul Savaot. :/
+
+[r1]
+/: În soare, în lună în stele şi-n nori
+Stă scris Doamne numele Tău
+În mări şi oceane şi râuri şi flori
+Toate spun că eşti bun Dumnezeu :/
+
+[s2]
+/: Tu meriţi slava, cinstea,
+Că eşti cel mai frumos
+Tu ne-ai adus la viaţă,
+Prin Fiul Tău Hristos. :/
+
+[s3]
+/: Ţi-aducem cu iubire
+De-aici de pe pământ
+Cântări de proslăvire,
+Părinte drag si Sfânt. :/
+
+[order]
+s1,r1,s2,r1,s3,r1

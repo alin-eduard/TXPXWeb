@@ -1,0 +1,26 @@
+[s1]
+Când problemele vieţii m-apasă
+Şi când sufletul mi-e obosit
+Eu suspin după pacea Ta sfântă
+Vino, Doamne, în inima mea !
+
+[r1]
+/: Scump Isus, Domnul meu
+Fii aproape de mine mereu!
+Zi de zi, ceas de ceas
+Luminează viaţa mea! :/
+
+[s2]
+Când Te chem, Doamne, în rugăciune
+Ia aminte la strigătul meu!
+Tu apleacă-Ţi urechea spre mine
+Eu în Tine mă-ncred, Domnul meu.
+
+[s3]
+Ştiu că eu mai greşesc câteodată
+Ştiu că nu sunt aşa cum doreşti.
+Te rog, Doamne, sfinţeşte-mi viaţa
+Credincios Ţie vreau să-Ţi slujesc.
+
+[order]
+s1,r1,s2,r1,s3,r1

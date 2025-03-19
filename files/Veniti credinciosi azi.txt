@@ -1,0 +1,21 @@
+[s1]
+Veniti credinciosi
+azi plini de bucurie
+Veniti, o veniti toti azi la Betleem
+Iata-L in paie, Regele iubirii
+
+[s2]
+/: Veniti sa ne-nchinam Lui, :/ x3
+El este domn :/
+
+[s3]
+Voi coruri de ingeri, glorie aduceti
+Cantati Domnului, cete ingeresti
+Slava lui Dumnezeu, in inaltime
+
+[s4]
+/: Veniti sa ne-nchinam Lui, :/ x3
+El este Domn :/
+
+[order]
+s1,s2,s3,s4

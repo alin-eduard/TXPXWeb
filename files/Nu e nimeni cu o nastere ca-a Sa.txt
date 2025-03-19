@@ -1,0 +1,44 @@
+[s1]
+Nu e nimeni cu o naştere ca-a Sa
+Pentru nimeni cor de îngeri
+n-a cântat
+Pentru nimeni steaua
+n-a mai apărut
+Nu e nimeni cu o naştere
+ca a Domnului Isus !
+
+[r1]
+/: Pentru nimeni :/
+Steaua n-a mai apărut !
+Nu e nimeni cu o naştere
+ca a Domnului Isus !
+
+[s2]
+Nu e nimeni cu o viaţă ca a Sa
+Despre nimeni
+nu s-a proorocit aşa
+Cu nimeni Dumnezeu
+n-a lucrat aşa
+Nu e nimeni cu o viaţă
+ca a Domnului Isus !
+
+[s3]
+Nu e nimeni ca să poată învia
+Pentru nimeni
+n-a fost la mormânt aşa!
+Pentru nimeni teamă
+nu-i că va-nvia
+Nu e nimeni cu o moarte
+ca a Domnului Isus !
+
+[s4]
+Nu e nimeni cu o lege ca a Sa
+Pentru nimeni
+nu s-a mai trăit aşa
+Pentru nimeni
+nu s-a mai murit aşa
+Nu e nimeni cu o Lege
+ca a Domnului Isus !
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

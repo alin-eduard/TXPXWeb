@@ -1,0 +1,52 @@
+[s1]
+Nu pe braţul meu mă bizui,  DO
+Braţul meu e-atât de slab
+Că vrăjmaşul m-ar învinge
+Şi m-ar nimici degrab'.
+Eu mă bizui doar pe Tine,
+Cel deplin şi credincios!
+Numai Tu mă ţii puternic,
+Domnul meu, Isus Hristos!
+
+[s2]
+Nici pe ajutorul sorții
+Nu mă bizui nicidecum,
+Când m-aș crede tot mai tare.
+M-aș vedea căzut în drum
+Eu mă bizui doar pe Tine,
+Cel deplin şi credincios!
+Numai Tu mă ţii puternic,
+Domnul meu, Isus Hristos!
+
+[s3]
+Nu pe firea mea cea slabă
+Nu mă bizui nicidecum
+Căci, chiar când te crezi mai sigur
+Cazi zdrobit în praf în drum.
+Eu mă bizui doar pe Tine,
+Cel deplin şi credincios!
+Numai Tu mă ţii puternic,
+Domnul meu, Isus Hristos!
+
+[s4]
+Nu mă bizui nici pe oameni,
+Nici pe-a-lumii promisiuni,
+Nici pe slava cea de-o clipă
+Toate-s umbre şi minciuni.
+Eu mă bizui doar pe Tine,
+Cel deplin şi credincios!
+Numai Tu mă ţii puternic,
+Domnul meu, Isus Hristos!
+
+[s5]
+Dar mă bizui doar pe Tine,
+Dulcele meu Dumnezeu
+Care singur eşti în stare
+Să-mi ţii fruntea sus mereu.
+Eu mă bizui doar pe Tine,
+Cel deplin şi credincios!
+Numai Tu mă ţii puternic,
+Domnul meu, Isus Hristos!
+
+[order]
+s1,s2,s3,s4,s5

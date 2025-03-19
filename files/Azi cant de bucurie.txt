@@ -1,0 +1,48 @@
+[s1]
+Azi cânt de bucurie,
+Dau slavă-n veşnicie
+Căci Isus m-a salvat
+Necazuri vin şi pleacă,
+Cu Isus toate-au să treacă,
+Cu Tatăl minunat.
+
+[r1]
+/:El totul mi-e, El totul mi-e mie
+El totul mi-e, Isus Hristos mie,
+Mi-e tată, mamă, soră, frate,
+El totul mi-e mie.:/
+
+[s2]
+Cînt plin de mulţumire,
+dau slavă-n veşnicie
+Căci Isus a-nviat.
+Speranţa-n El îmi este,
+Isus mă mîntuieşte
+Pe veci El a-nviat
+
+[s3]
+Azi cânt de bucurie,
+Dau slavă-n veşnicie
+Căci Isus m-a sfinţit,
+M-a spălat de păcate,
+Mi-a dat haine curate,
+Mi-a dat din Duhul Sfânt.
+
+[s4]
+Azi cânt de bucurie,
+Dau slavă-n veşnicie
+Căci Isus m-a iertat
+Greşeli, păcate, toate
+Mi le-a iertat pe toate,
+El totul mi-a iertat.
+
+[s5]
+Azi cânt de bucurie,
+Dau slavă numai Ţie
+Căci Isus m-a primit
+Nu sunt orfan pe lume
+Că port al Său sfânt nume
+De Tatăl sunt primit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

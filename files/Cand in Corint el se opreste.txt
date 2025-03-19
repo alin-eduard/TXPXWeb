@@ -1,0 +1,44 @@
+[s1]
+Când, în Corint, el se opreşte
+Pavel cel viteaz,
+Şi când de Duhul Sfânt le vorbeşte,
+Cu lacrimi pe obraz:
+
+[r1]
+/: Fraţilor, stăruiţi
+Duhul Sfânt sa-L primiţi!
+Dar ceresc, dar măreţ,
+Darul sfânt dumnezeiesc.:/
+
+[s2]
+Căci cine vorbeşte-n altă limbă,
+Nu-şi vorbeşte lui,
+Pentru cel ce-i fără de credinţă,
+Ci, chiar Domnului!
+
+[s3]
+Stăruiţi şi asupra prorociei!
+O, ce har bogat!
+Căci, prin ea, Biserica învie,
+Creşte neîncetat.
+
+[s4]
+Căci, în corp, sunt multe mădulare
+Şi toate-s din el;
+Unu-i cap, iar altul e picioare.
+Cu ele mergem.
+
+[s5]
+Cu mâinile, facem milostenii,
+Pentru cei săraci,
+Dar Isus de sus El ne vede
+Dacă judecaţi.
+
+[s6]
+„Aţi primit voi Duhul Sfânt,
+atuncea când v-aţi botezat?“
+Pavel pe nişte ucenici întreabă
+Şi ei s-au mirat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

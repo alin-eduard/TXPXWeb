@@ -1,0 +1,37 @@
+[s1]
+Las' să merg, las' să merg,
+Pe Isus doresc să-L văd,
+De Cuvântul Său curat
+Sufletul mi-e însetat,
+/:Lângă tronu-I vreau să şed:/
+
+[s2]
+Ce frumos, ce frumos
+E în Ţara lui Hristos!
+Aripi, aripi de-aş avea,
+Peste zări tot aş zbura,
+/:Pân-la tronu-I maiestuos:/
+
+[s3]
+Cum va fi, cum va fi
+Colo sus când voi sosi,
+În oraşul cel de aur,
+Al lui Dumnezeu tezaur,
+/:Unde-n veci voi locui:/
+
+[s4]
+Paradis, Paradis,
+Porţile tu mi-ai deschis
+Ce splendoare e în tine,
+Cine poate spune, cine?
+/:Doamne, parcă e un vis!:/
+
+[s5]
+Soare sfânt, soare sfânt,
+Ce străbaţi întreg pământ,
+Ochiul Tu mi l-ai deschis
+Ca să văd ce mi-ai promis,
+/:Veşnic numai Ţie-Ţi cânt.:/
+
+[order]
+s1,s2,s3,s4,s5

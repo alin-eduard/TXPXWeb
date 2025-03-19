@@ -1,0 +1,43 @@
+[s1]
+1794.
+1. Regele vieţii, Domnul meu
+Fii în veci glorificat
+Şi să nu uit coroana Ta
+Du-mă la Golgota
+Cor:	/:Ca să nu uit de Ghetsimani
+Şi nici de agonia grea
+Ca să nu uit Iubirea Ta
+Du-mă la Golgota:/
+
+[s2]
+2. Lângă mormântul unde-ai stat
+Când alţii Te jeleau
+Îngerii Tăi au coborât
+Somnul, ei Ţi-l păzeau
+Cor:	/:Ca să nu uit de Ghetsimani
+Şi nici de agonia grea
+Ca să nu uit Iubirea Ta
+Du-mă la Golgota:/
+
+[s3]
+3. Şi ca Maria-n zori de zi
+Să vin `naintea Ta
+Arată-mi Tu mormântul gol
+Du-mă la Golgota
+Cor:	/:Ca să nu uit de Ghetsimani
+Şi nici de agonia grea
+Ca să nu uit Iubirea Ta
+Du-mă la Golgota:/
+
+[s4]
+4. Doamne, ajută-mă să port
+Crucea Ta zi de zi
+Şi chiar paharul Tău să beau
+Gata a suferi.
+Cor:	/:Ca să nu uit de Ghetsimani
+Şi nici de agonia grea
+Ca să nu uit Iubirea Ta
+Du-mă la Golgota:/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,43 @@
+[s1]
+1.Să mergi pe calea-ngustă
+E-un har,un har nespus
+Deşi pe ea e luptă
+Ea duce la Isus
+Deşi-s dureri şi lacrimi
+Şi urcuşu-i tot mai greu
+La capăt ne aşteaptă
+Pe tron El Dumnezeu.
+1420
+
+[s2]
+2. Pe această poartă strâmtă
+Puţini se nevoiesc
+Dar calea aceasta sfântă
+Eu-n drum dumnezeiesc
+Au mers pe ea martirii
+Privind mereu în sus
+Cu dorul întâlnirii
+Cu Mirele Isus.
+
+[s3]
+3. Au mers pe ea profeţii
+Şi regi şi împăraţi
+Toţi sfinţi şi toţi drepţii
+De-a celaş dor mânaţi
+Au mers plini de iubire
+Şi David şi Avraam
+Privind spre răsplătire
+Spre noul Canaan.
+
+[s4]
+4. Pe calea acesta-ngustă
+Nu-s pofte nici plăceri
+Pe ea sunt multe piedici
+Şi-atâtea încercări
+Pe ea sunt nori şi neguri
+Şi cer întunecos
+Dar e şi-adesea soare
+Căci Soarele-i Hristos.
+
+[order]
+s1,s2,s3,s4

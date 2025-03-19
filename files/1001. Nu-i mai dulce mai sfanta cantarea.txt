@@ -1,0 +1,62 @@
+[s1]
+1001.                                                                                                                 Re m
+1.Nu-i mai dulce,
+Mai sfântă cântarea
+Ca şi-atunci când ai fost încercat
+Stând pe braţul Lui sfânt
+Priveşti marea
+Şi furtuna din care ai scăpat
+
+[s2]
+/: El Și-a-ntins
+Braţul sfânt după tine
+Când din val tu strigai disperat
+O, Isuse, priveşte spre mine
+Sunt al Tău scapă-mă de păcat. :/
+
+[s3]
+2. Aş dori ca să-nalţ către Tine
+Mulţumiri, mii de mii ne-ncetat
+Căci prin Tine exist eu pe lume
+Şi trăiesc
+Căci doar Tu m-ai salvat
+
+[s4]
+/: Vremuri grele
+Şi vânturi de-or bate
+Tulburat de voi  fi eu vreodat’
+Nu lăsa ca să uit eu de Tine
+Şi de crucea
+Prin care m-ai salvat. :/
+
+[s5]
+3. Strălucind
+În splendoarea ce vine
+Vei apare pe nori de îndat’
+Eu Te rog să mă iei
+Și pe mine
+Sus la locul dorit şi aşteptat.
+
+[s6]
+/: Şi din cei ce-s salvaţi
+Doar prin Tine
+Tu pe braţul Tău sfânt i-ai purtat
+Să nu-i laşi nicidecum
+Nici pe unul
+Să nu-i laşi nicidecum niciodat’:/
+
+[s7]
+4. Căci dorim sus în cer
+Lângă Tine
+Toţi dorim sus la Tine să fim
+Braţul Tău ne va ţine întruna
+De pe cale să nu rătăcim.
+
+[s8]
+/: În nădejde, în credinţă şi-n iubire
+Să ne ţii treji pe cale aşteptând
+Ziua-aceia-i aproape şi vine
+Şi vom fi lângă Tine în curând. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

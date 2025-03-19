@@ -1,0 +1,51 @@
+[s1]
+1.Numai frunză şi nici un rod
+Căci viaţa-i fără rod
+Cugetul doarme neîncetat
+Iar legământul e călcat
+Căci tu aduci neîncetat
+Numai frunză şi nici un rod.
+1041.
+
+[s2]
+2.Numai frunză şi nici un rod
+Din spicul plin de rod
+Ai semănat sămânţa-n spini
+E câmpul plin de mărăcini
+Iar azi la seceriş aduni
+Numai frunză şi nici un rod.
+
+[s3]
+3.Numai frunză şi nici un rod
+Te apasă căci n-ai rod
+Pe drumul ce ai străbătut
+Şi-n anii care au trecut
+Vezi că n-ai adus decât
+Numai frunză şi nici un rod.
+
+[s4]
+4.Numai frunză Duhul e trist
+Căci viaţa-i fără rod
+Cum vei putea în faţa Sa
+Să stai când El va judeca
+Şi-n faţa ta se va vedea
+Numai frunză şi nici un rod.
+
+[s5]
+5.Numai frunză cât e de trist
+Să stai tu fără rod
+Când Domnul viaţa Lui şi-a dat
+Ca să te scape din păcat
+Cum poţi s-aduci neîncetat
+Numai frunză şi nici un rod.
+
+[s6]
+6.Numai frunză Duhul e trist
+Când vede căci n-ai rod
+Te-a pus aici ca să rodeşti
+În lume să-L mărturiseşti
+Tu vezi că îţi agoniseşti
+Numai frunză şi nici un rod.
+
+[order]
+s1,s2,s3,s4,s5,s6

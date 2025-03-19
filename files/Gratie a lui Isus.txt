@@ -1,0 +1,31 @@
+[s1]
+Graţie a lui Isus
+Cum pot să te descriu
+Am fost mort în păcate
+Dar azi prin har sunt viu
+Tu mi-ai luat povara
+Şi m-ai eliberat
+Minunată iubire Isus mi-a arătat.
+
+[r1]
+Minunată graţia lui Isus
+Mai adâncă decât marea eşti
+Mai înaltă ca munţii,
+Eşti podoaba crucii
+Îndeajuns pentru a ma salva
+Mai cuprinzătore decât mintea
+Eşti mai mare ca păcatul meu
+O! Laudă minunatul nume Isus
+Slavă Lui.
+
+[s2]
+Graţie a lui Isus
+Fost-am prin ea iertat
+Lanţurile au fost rupte
+Iar eu eliberat
+Dragostea Sa nespusă
+Multe comori mi-a dat
+Minunată iubire Isus mi-a aratat.
+
+[order]
+s1,r1,s2,r1

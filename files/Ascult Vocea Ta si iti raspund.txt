@@ -1,0 +1,22 @@
+[r1]
+Ascult vocea Ta şi îţi răspund
+Stând pe genunchi alerg acum
+Ca să mă rog smerit
+Nu dau înapoi, preţul plătesc
+Viaţa şi inima-mi jertfesc
+Ca să mă rog smerit
+
+[r2]
+Mă voi ruga ‘naintea Ta
+Închinarea mea te-atinge
+Mă voi ruga ‘naintea Ta
+Când Te-ating puterea curge
+În suflet mă unge
+
+[s1]
+Ascult vocea Ta si îţi răspund
+Stând pe genunchi, alerg acum
+/: Ca să mă rog smerit :/
+
+[order]
+r1,r2,r1,r2,s1

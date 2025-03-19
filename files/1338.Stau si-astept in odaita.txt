@@ -1,0 +1,43 @@
+[s1]
+1338.
+1.  Stau şi-aştept în odăiţă
+De mult timp răspunsul Tău
+Şi Te rog fără-ncetare
+Să te-nduri o Domnul meu.
+/: Ţi-am greşit în multe rânduri
+Dar acum îmi pare rău
+Şi te rog să scrii iertare
+Doamne şi în dreptul meu :/.
+
+[s2]
+2.  Tu-ai rămas mereu acelaşi
+Bun milos şi îndurat
+Binevoitor cu omul
+Care sincer te-a căutat.
+/: Şi când din nenorocire
+Către Tine am strigat
+L-ai primit plin de iubire
+Tată bun şi îndurat :/.
+
+[s3]
+3.  Eu nădăjduiesc în Tine
+Chiar dacă acum mie greu
+Şi te laud o Stăpâne
+Şi puternic Dumnezeu.
+/: Căci în dreapta-ţi judecată
+De mult aş fi fost uitat
+Dar în mila Ta de Tată
+Mai iubit şi m-ai iertat :/.
+
+[s4]
+4.  Când în ziua încercării
+Cruce-ai tot mai grea de dus
+Vin la tronul îndurării
+În numele lui Isus.
+/: Şi te rog, te rog fierbinte
+Nu-ţi întoarce faţa Ta
+Tată bun şi i-a aminte
+Azi la rugăciunea mea :/.
+
+[order]
+s1,s2,s3,s4

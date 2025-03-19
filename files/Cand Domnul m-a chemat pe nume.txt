@@ -1,0 +1,50 @@
+[s1]
+Când Domnul m-a chemat pe nume
+Să-I fiu cu viaţa, ucenic,
+Spre ceruri, pe cărarea sfântă,
+Să nu mă-mpiedic de nimic.
+
+[s2]
+/: N-am vrut să Îi resping chemarea
+Când El, pe nume, m-a strigat.
+Şi-n urma ascultării mele,
+Isus m-a binecuvântat. :/
+
+[s3]
+N-am vrut să fiu acela care
+Să-I spună: „Nu te vreau nicicând!",
+Când El mi-a zis că mă ajută
+Să-I duc solia, pe pământ.
+
+[s4]
+/: Iar sufletul şi-a mea inima,
+Mi le-a spălat cu sânge sfânt,
+Şi mi-a promis că mă va duce,
+Cu Sine, pe noul pământ. :/
+
+[s5]
+Acum, eu cânt şi n-am cuvinte
+Ca să Îl laud îndeajuns,
+Şi să vestesc la orişicine
+Iubirea sfânt-a lui Isus.
+
+[s6]
+/: Îmi dărui viaţa, pe vecie,
+Doar Lui, şi nu m-oi clătina,
+Şi-atunci când va veni în slavă,
+La Sine-n cer, mă va lua. :/
+
+[s7]
+Nu vrei şi tu, amice,-acuma
+Să Îi asculţi chemarea Lui?
+Inima, sufletul şi gândul,
+Să I le dărui Domnului?
+
+[s8]
+/: El te primeşte şi te iartă!
+Iubirea Lui nu s-a gatat!
+Şi-n clipa revenirii Sale,
+Cu Sine-n cer te va lua. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

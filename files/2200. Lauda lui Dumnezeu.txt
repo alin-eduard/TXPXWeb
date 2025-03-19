@@ -1,0 +1,39 @@
+[s1]
+2200
+1.  /: Laudă :/ lui Dumnezeu
+Să-L preamărim cu toți pe Fiul Său
+Să-L lăudăm acum pe Duhul Sfânt
+Precum în cer așa și pe pământ
+/: Vrednic ești Doamne și
+Dumnezeul nostru
+Să primești slava, cinstea
+și puterea :/
+
+[s2]
+2. Căci Tu ai făcut toate lucrurile
+Și prin voia Ta stau în ființă
+Și au fost făcute
+/: Vrednic este Mielul care
+a fost junghiat
+Să primească puterea,
+bogăția, înțelepciunea
+Tăria, cinstea, slava și lauda :/
+
+[s3]
+3. A Dumnezeului nostru să fie lauda
+Slava, înțelepciunea, mulțumirile
+Cinstea, puterea și tăria
+În vecii veciilor, Amin
+/: Laudă :/ lui Dumnezeu
+Să-L preamărim cu toți pe Fiul Său
+Să-L lăudam acum pe Duhul Sfânt
+Precum în cer așa și pe pământ
+
+[s4]
+/: Vrednic ești Doamne și
+Dumnezeul nostru
+Să primești slava, cinstea
+și puterea :/.
+
+[order]
+s1,s2,s3,s4

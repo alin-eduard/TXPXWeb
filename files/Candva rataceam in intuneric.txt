@@ -1,0 +1,27 @@
+[s1]
+Candva rataceam in intuneric umblam
+Dar Domnul mi-a dat o lumina
+Ca un singur raspuns mi l-a dat pe Isus
+Sa moara pentru mine, si m-a salvat
+
+[r1]
+Poarta-ti crucea pan’ la urma
+Si atuncea vei vedea
+Fericire si splendoare
+Atunci fii sigur vei avea
+
+[s2]
+Ca un singur raspuns ti l-a dat pe Isus
+Sa moara pentru tine
+Tu nu te lasa si nu te lepada
+/: De Dumnezeul tau :/
+
+[s3]
+Ca niste copii cu zel sa-l slujim
+pe Dumnezeul nost’
+Nadejde credinta iubire sa ai
+Si Domnul te va duce-n rai
+Cum ti-a promis
+
+[order]
+s1,r1,s2,r1,s3,r1

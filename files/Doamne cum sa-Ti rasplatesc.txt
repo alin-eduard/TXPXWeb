@@ -1,0 +1,37 @@
+[s1]
+Doamne cum sa-Ti rasplatesc
+Pentru marea-Ti bunatate,
+M-ai facut al Tau copil
+Si m-ai scapat de la moarte.
+Mi-ai iertat al meu pacat
+Si cu sange m-ai spalat,
+Si m-ai ridicat de jos
+Tu, samaritean milos.
+
+[r1]
+/: Prieten bun :/ ai fost Isus
+Prieten bun,
+/: Prieten bun :/ esti Tu Isus
+Prieten bun.
+
+[s2]
+Cand am fost mai intristat
+Coplesit sub grea povara,
+Ai venit, m-ai mangaiat
+Mi-ai turnat balsam pe rana.
+Cand cei dragi m-au parasit
+Langa mine ai venit,
+Mi-ai vorbit bland si duios
+Tu samaritean milos.
+
+[s3]
+Prieten bun ramai Isus
+Prieten bun ca si un frate,
+Eu as vrea ca sa raman
+Langa Tine pan’ la moarte.
+Si cu Tine-as vrea sa fiu
+Sus in cer o vesnicie,
+Sa nu ne mai despartim
+
+[order]
+s1,r1,s2,r1,s3,r1

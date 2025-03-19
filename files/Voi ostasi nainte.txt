@@ -1,0 +1,40 @@
+[s1]
+Voi ostaşi, ‘nainte!
+Mergeţi cu Hristos,
+Platoşa cea sfântǎ
+s-o-mbrǎcaţi voios.
+Domnul vǎ conduce
+Marele-mpǎrat,
+Deci cu drag urmaţi-L,
+cǎci El v-a salvat.
+
+[r1]
+Sus la luptǎ sfântǎ,
+Al Domnului popor,
+Cǎtre biruinţǎ cu al tǎu Pǎstor!
+
+[s2]
+Oastea Lui cea sfântǎ e Biserica.
+Arma e Scriptura ce va triumfa,
+Şi uniţi cu toţii,
+noi un Domn avem,
+Toţi printr-o credinţǎ
+un popor suntem.
+
+[s3]
+Tu, popor,
+‘nainte mergi necontenit,
+Cu-ndrǎznealǎ-n luptǎ
+pânǎ la sfârşit.
+Iar când vei învinge,
+veşnic vei cânta
+Laudǎ şi mǎrire în onoarea Sa!
+
+[s4]
+Ale lumii tronuri se vor dǎrâma.
+Scumpe diademe în praf vor cǎdea,
+Însǎ tronul slavei nu se va clinti,
+Regele mǎririi veşnic va domni!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,42 @@
+[s1]
+Chiar dacă valuri vin mereu
+si cruce-i grea pe cale,
+Tu nu uita că Dumnezeu
+e-n barca vietii tale.
+/: Chiar dacă vânturi grele bat
+si suferinta-i mare,
+Nu dispera! La Cel Prea-nalt,
+găsi-vei alinare :/
+
+[s2]
+Chiar dacă încercări la rând
+ti-au vestejit culoarea,
+Tu nu uita că, în curând,
+sosi-va primăvara.
+/: Isus, încercarea grea,
+te vrea cu gelozie
+Să birui! Doar asa-i putea
+să cânti o vesnicie! :/
+
+[s3]
+Asa e calea către cer,
+e-o luptă-nversunată!
+Azi n-o-ntelege, ea-i un mister,
+dar vei pricepe-odată…
+/: Vei întelege pe deplin,
+când lupta-ti va fi gata,
+Când El va sterge-al tău suspin
+si vei primi răsplata. :/
+
+[s4]
+Îl vei vedea pe-al tău Isus,
+prim-vei o cunună,
+Pe-a Sale urme de-i păsi,
+luptând lupta cea bună.
+/: Înaintează, deci, cântând!
+E greu să urci calvarul…
+Dar nu uita că în curând,
+se va sfârsi amarul… :/
+
+[order]
+s1,s2,s3,s4

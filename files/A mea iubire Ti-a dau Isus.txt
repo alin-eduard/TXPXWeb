@@ -1,0 +1,32 @@
+[s1]
+A mea iubire Ţi-o dau Isus,
+Cerească fire să-mi dai de sus.
+În curăţie să mă păstrez,
+Inima Ţie Ţi-o datorez.
+
+[r1]
+/:Binecuvântă inima mea,
+O casă sfântă să-Ţi faci din ea.
+Cu-a Ta iubire s-o-mpodobeşti,
+Ca-n ea de-a pururi să locuieşti.:/
+
+[s2]
+Mă luminează cu faţa Ta,
+Şi mintea trează s-o pot avea.
+În umilinţă să propăşesc,
+De-a Ta fiinţă să m-alipesc.
+
+[s3]
+Cu bunătate Tu să mă-mbraci,
+De-adânci păcate să mă desfaci.
+Priviri senine mereu, mereu,
+Să nalţ spre Tine Stăpânul meu.
+
+[s4]
+Cu dor fierbinte, azi pe pământ,
+S-alerg nainte, spre ţelul sfânt.
+Vestind în lume iubirea Ta,
+Slăvitu-Ţi nume să pot cânta.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

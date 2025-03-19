@@ -1,0 +1,26 @@
+[s1]
+În cetatea Ierihonului trăia
+Un popor ce nu se temea,
+De Domnul, şi el a trebuit
+Ca să fie nimicit.
+/: Zidurile-nalte de la Ierihon X3
+Nu se vor zidi din nou. :/
+
+[s2]
+Israel nu s-a luptat
+Într-un glas cu toţii au strigat
+Iar în Domnul ei s-au încrezut,
+Şi zidurile-au căzut.
+/: Zidurile-nalte de la Ierihon X3
+Nu se vor zidi din nou. :/
+
+[s3]
+N-am dărâmat noi zidurile
+Şi nici n-am luptat.
+Am strigat cu toţii : “Doamne !”
+Şi Domnul ne-a ajutat!
+/: Zidurile-nalte de la Ierihon
+Nu se vor zidi din nou. :/
+
+[order]
+s1,s2,s3

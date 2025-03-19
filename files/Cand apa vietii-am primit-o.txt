@@ -1,0 +1,38 @@
+[s1]
+Când apa vieţii-am primit-o,
+Cătuşe şi lanţuri s-au frânt
+Căci moartea navalnic lovit-a
+O, apa, tu, râule sfânt!
+
+[r1]
+/: O apă vie mi s-a dat
+Din harul sfânt şi minunat!
+Isus, Izvor de mângâieri,
+Din zi în zi, ne dai puteri. :/
+
+[s2]
+Ai rupt în talazuri robia,
+Ai pus o pecete în noi,
+Iar dragostea fost-a întâia
+Petala din crinii de soi.
+
+[s3]
+Puterea de viaţă mi-ai dat-o
+Şi ochii murdari mi-ai spălat,
+Iar azi mi-e privirea purtată,
+Spre cerul măret, minunat.
+
+[s4]
+O apa vie ne umple
+Cu tainice doruri în piept
+Şi-n locuri tăcute, dar scumpe,
+Prin Tine, mi-e drumul mai drept.
+
+[s5]
+Cănd apa vieţii-am primit-o,
+Măsură în har n-am avut,
+Căci pacea ce-n piept am simţit-o,
+Părtaş cu Isus m-a făcut.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,27 @@
+[s1]
+Curând Domnul iar va veni – Eşti gata?
+Cu drag în cer te va primi – Eşti gata?
+/ :  Eşti gata : / să intri-n cer sus – Eşti gata?
+Oare te-a mântuit Isus?
+1.
+1086.
+Curând ceasul greu va suna – Eşti gata?
+Când moartea în faţă-ţi va sta –Eşti gata?
+/ :  Eşti gata : / să intri-n cer sus – Eşti gata?
+Oare te-a mântuit Isus?
+2.
+
+[s2]
+Cuvântul Său e tăios – Eşti gata?
+Vei fi judecat de Hristos – Eşti gata?
+/ : Eşti gata : / să intri-n cer sus – Eşti gata?
+Ca să fii cu Domnul Isus.
+3.
+Fericiţi sunt cei mântuiţi – Eşti gata?
+Căci de Hristos vor fi slăviţi – Eşti gata?
+/ : Eşti gata : / să intri-n cer sus – Eşti gata?
+Ca să fii cu Domnul Isus.
+4.
+
+[order]
+s1,s2

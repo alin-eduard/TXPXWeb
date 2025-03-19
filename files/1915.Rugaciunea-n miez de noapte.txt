@@ -1,0 +1,35 @@
+[s1]
+1915    Sol
+1. Rugăciunea-n miez de noapte
+O înalț spre Tine Doamne
+/: Când în nopțile târzii
+Dorul meu Tu mi-l alini
+Tu adesea mă mângâi
+Nu e mult și iarăș vii :/.
+
+[s2]
+2. Rugăciunea-n miez de noapte
+O înalț spre Tine Doamne
+/: Greul meu n-am cui să-i spun
+Că sunt singurel pe drum
+Toți ai mei m-au părăsit
+Dar Tu la mine-ai venit :/.
+
+[s3]
+3. Rugăciunea-n miez de noapte
+Ai înălțat-o și Tu Doamne
+/: Pentru noi în Ghetsimani
+Unde-ai plâns cu greu și amar
+Când în cuie te-au străpuns
+Și pe cruce ai fost pus :/.
+
+[s4]
+4. Rugăciunea-n miez de noapte
+O înalț spre Tine Doamne
+/: Te aștept veghind cu dor
+Poate vei veni pe nori
+Pe noi azi să ne ridici
+Să zburăm cu toți de aici :/.
+
+[order]
+s1,s2,s3,s4

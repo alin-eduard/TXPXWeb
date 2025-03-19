@@ -1,0 +1,51 @@
+[s1]
+1. În grădina cu măslini
+Seara după ce-ai cinat
+/:Te-ai dus Doamne să-Ți alini
+Sufletul Tău întristat  :/
+761.
+
+[s2]
+2.Nu păcatul Tău Isuse
+Ţi-a fost greu căci n-ai avut
+/: Dar al nost' păcat Isuse
+Pentru lume Te-a durut :/
+
+[s3]
+3. Ai plâns Doamne şi-ai oftat
+În grădina Ghetsimani
+/: Doamne n-ai avut păcat
+Dar avut-ai mulţi duşmani :/
+
+[s4]
+4. Crucea-Ți sta lângă picioare
+Cuiele Tu le simțeai.
+/: Undeva-n cetatea mare
+Iuda Te vindea pe-arginţi :/
+
+[s5]
+5. Să vegheze lângă Tine
+Ucenicii n-au putut
+/: Şi-ai plâns Doamne cu suspine
+Rămas singur şi vândut :/
+
+[s6]
+6. Lacrima-Ți era ca sânge
+Când cereai puteri de sus
+/: Câte nu spunea atunci
+Plânsul Tău Isus, Isus :/
+
+[s7]
+7. În grădina cu măslini
+Doamne pentru noi ai plâns
+/: Căci în loc s-adunăm crini
+Noi în suflet spini am strâns :/
+
+[s8]
+8. În grădina cu măslini
+Vin, Isuse, eu să plâng
+/: Sufletul să mi-l alini
+Flori în suflet ca să strâng :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

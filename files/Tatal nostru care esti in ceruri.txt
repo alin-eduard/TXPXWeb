@@ -1,0 +1,45 @@
+[s1]
+Tatăl nostru care eşti în ceruri
+Sfinţească-se numele Tău
+Vie-mpărăţia Ta, facă-se voia Ta
+Precum în cer şi pe pământ
+În toate Doamne fie aşa.
+
+[s2]
+Pâinea cea de toate zilele
+Dă-ne-o astăzi Te rugăm
+Să ne ierţi precum şi noi
+Greşiţilor noştri iertăm
+Şi nu ne lăsa duşi în ispită
+Şi izbăveşte-ne de cel rău.
+
+[s3]
+/: Că a Ta e-mpărăţia
+A Ta e puterea, a Ta este slava
+În veci de veci :/
+
+[s4]
+A Ta  e-mpărăţia
+Sfinţească-se numele Tău
+A Ta e şi puterea
+Sfinţească-se numele Tău
+A Ta este slava
+Sfinţească-se numele Tău
+A Ta e-mpărăţia
+
+[s5]
+A Ta este puterea
+A Ta este slava Gloria
+A Ta e-mpărăţia, si puterea
+A ta este puterea doar a Ta
+A Ta este slava.
+
+[s6]
+Tatăl nostru care eşti în ceruri
+Sfinţească-se numele Tău
+Vie-mpărăţia Ta facă-se voia Ta
+Precum în cer şi pe pământ
+În toate Doamne fie aşa.
+
+[order]
+s1,s2,s3,s4,s5,s6

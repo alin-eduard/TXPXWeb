@@ -1,0 +1,36 @@
+[s1]
+Să sfinţim pe Dumnezeu,
+să slăvim Numele Său
+Să privim spre Lumina Lui de sus
+Să aducem mulţumiri
+pentru Jertfa lui Isus
+Să avem parte de Gloria Lui.
+
+[r1]
+Pentru că Isus Hristos, El este Domnul
+Mântuitorul jertfit pe cruce
+Pentru că Isus Hristos e Dumnezeul
+Adevărat, din Dumnezeu adevărat
+Pentru că Isus Hristos, El e lumina
+Tăria noastră şi pacea noastră
+Pentru că Isus Hristos, El e iubire
+În El găsim înţelepciunea lui Dumnezeu
+
+[s2]
+Să citim tot mai mult
+din cuvântul Lui
+Să vestim bunătatea Lui
+Să lăudăm Numele Lui
+prin credinţă şi prin cânt
+Să trezim lumea din păcat.
+
+[s3]
+Să chemăm din pierzare
+azi pe toţi cei rătăciţi
+La lumină, la sfântul adevăr
+Să ascultăm de Hristos,
+singurul Mântuitor
+Să-I predăm viaţa noastră Lui.
+
+[order]
+s1,r1,s2,r1,s3,r1

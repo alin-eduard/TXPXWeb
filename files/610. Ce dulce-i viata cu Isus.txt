@@ -1,0 +1,39 @@
+[s1]
+1. /:Ce dulce-i viaţa cu Isus
+Sub jertfa Lui când te apleci
+Ai vrea cu Domnul să rămâi
+În veci de veci./:
+610.Mi
+
+[s2]
+3. /: De stai într-un bordei sărac
+Prin mii de greutăţi să treci
+De-L ai pe Domnul eşti bogat
+În veci de veci :/.
+2. /: Să-nduri oricâte lovituri
+Prin mii de prigoniri să treci
+Cu Isus tu eşti fericit
+În veci de veci :/.
+
+[s3]
+4. /: Când rătăceşti nefericit
+Şi-n chinuri viaţa ţi-o petreci
+De-L chemi pe El îţi dă alin
+Pe veci de veci :/ .
+5. /: Poţi să pierzi averi şi ranguri
+Tot bogăţii şi onoruri mari
+Dacă n-ai pierdut credinţa
+Încă n-ai pierdut nimic :/.
+
+[s4]
+6. /: După chip cunoşti o floare
+Şi-o pasăre după cânt
+Aurul după culoare
+Şi omul după cuvânt :/.
+7. /: Isus e fericirea mea
+O, suflete ce-n plâns petreci
+El bucurie îţi va da
+Pe veci de veci :/.
+
+[order]
+s1,s2,s3,s4

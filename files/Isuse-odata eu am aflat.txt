@@ -1,0 +1,29 @@
+[s1]
+Isuse-odată eu am aflat
+Că pentru mine viaţa Ţi-ai dat.
+Dureri, necazuri, Tu tot ai biruit
+Căci mult, o, Doamne, Tu m-ai iubit !
+
+[r1]
+/: Aştept, Isuse, să vii pe Pământ
+Şi să mă iei cu Tine sus în cerul sfânt!:/
+
+[s2]
+Puteri avut-am, dar toţi m-au părăsit
+Şi pentru Tine ei m-au dispreţuit.
+Atunci, Doamne, când am aflat credinţa mea
+Cu multă ură mă batjocoreau.
+
+[s3]
+Acum, Isuse, Te-aştept cu dor să vii
+Să-mi dai şi mie a Tale bucurii.
+Fiinţa să-mi umpli cu-al Tău dor mărit
+O, Doamne Isuse, ce mult eu Te iubesc
+
+[s4]
+/: Când vei veni după noi pe Pământ
+Noi Te vom aştepta
+şi cu drag Te vom urma ! :/
+
+[order]
+s1,r1,s2,r1,s3,s4

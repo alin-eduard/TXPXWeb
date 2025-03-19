@@ -1,0 +1,18 @@
+[s1]
+Doamne vino astăzi prin puterea Ta,
+Te dorim din toată inima
+Să ne vindeci naţiunea,
+Doamne, te rugăm trezeşte-ne!
+
+[r1]
+/: Schimbă ţara mea, :/
+Trimite duhul sfânt în ea.
+
+[s2]
+Doamne te simţim că eşti aproape,
+Duhul Tău lucrează intre noi.
+La dreptate şi iertare,
+Doamne, te rugăm trezeşte-ne!
+
+[order]
+s1,r1,s2,r1

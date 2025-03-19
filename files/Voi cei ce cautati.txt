@@ -1,0 +1,38 @@
+[s1]
+Voi, cei ce căutaţi
+Cetatea cea de sus,
+Veniţi acum cu noi în rând,
+Aceleaşi flamuri fluturând!
+Veniţi pe­-acelaşi drum
+Spre­ acelaşi Soare Sfânt!
+
+[s2]
+Noi mergem spre ceruri,
+Mergem cântând spre Sion,
+Vedea-vom pe­-al slavei Rege
+Domnind pe cerescul Său tron!
+
+[s3]
+Voi, toţi cei ce iubiţi
+Pe Domnul Dumnezeu,
+Veniţi cu noi, veniţi acum,
+Căci toţi avem acelaşi drum
+Şi-­acelaşi sânge sfânt
+Ne poartă­-n Har mereu!
+
+[r1]
+Noi mergem spre ceruri,
+Mergem cântând spre Sion,
+Vedea-vom pe-­al slavei Rege
+Domnind pe cerescul Său tron!
+
+[s4]
+Prieteni, toţi acei ce­-aveţi
+Acelaşi gând,
+Veniţi cu noi în pas voios şi toţi,
+Cu suflet luminos,
+Slăvindu­-L pe Hristos
+Să mergem spre Sion!
+
+[order]
+s1,s2,s3,r1,s4,r1

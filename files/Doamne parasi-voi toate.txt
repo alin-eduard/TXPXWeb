@@ -1,0 +1,32 @@
+[s1]
+Doamne părăsi-voi toate,
+Numai Ţie-Ţi voi urma.
+Slab şi prigonit pe cale,
+Crucea mea o voi purta.
+Tot ce e firesc în lume
+Piară ce al meu gând rău;
+Să-mi rămână bucuria
+Că Te am şi eşti al meu.
+
+[s2]
+Ştiu că lumea mă urăşte:
+L-a urât şi pe Hristos.
+Dacă ea mă părăseşte,
+Domnul este credincios.
+Când lumina slavei  Sale
+Din belşug va străluci,
+Orice rău va fi spre bine,
+Noaptea se va face zi.
+
+[s3]
+Poartă deci armură sfântă
+Şi veghează ne-ncetat;
+Răul, pofta le învinge
+Şi vei fi încununat.
+Domnul vine, e aproape,
+Luptă-te ca bun creştin;
+Te aşteaptă o răsplată
+În locaşul Său divin.
+
+[order]
+s1,s2,s3

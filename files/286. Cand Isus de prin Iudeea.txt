@@ -1,0 +1,87 @@
+[s1]
+1. Când Isus de prin ludeea
+S-a întors în Galileea
+/:Domnul înspre ţara sa
+Prin Samaria trecea:/.
+286.
+
+[s2]
+2. Prin Sihar când s-a pornit
+În Samaria s-a oprit
+/:Lângă-un drum lângă-o fântână
+Pentru un ceas de odihnă:/
+
+[s3]
+3. Atunci a venit să-şi ieie
+Apă în vas o femeie
+/:Vasul plin când ea l-a scos
+Dă-mi să beau i-a zis Hristos:/.
+
+[s4]
+4. Ea-L priveşte cu mirare
+Cum de-mi ceri tu apă oare
+/:Tu fiind de neam iudeu
+Iar samariteancă-s eu:/.
+
+[s5]
+5. Femeie de-ai fi ştiut
+De băut cin’ ţi-a cerut
+/:Tu cereai dar el şi ţie
+Îţi va da şi apă vie:/.
+
+[s6]
+6. Fântâna-i adâncă tare
+Nu ştiu cum ai fi în stare
+/:Apă vie ca să-mi dai
+Ori puteri mai mari tu ai:/.
+
+[s7]
+7. Decât Iacov cel bogat
+Ce fântână ne-a lăsat
+/:Dintre care; apă beau
+Şi-ai lui fii pe când trăiau:/.
+
+[s8]
+8. Cine bea apă din ea
+Niciodată n-a-nseta
+/:Ea se face un izvor
+De viaţă curgător:/
+
+[s9]
+9. Dar zice atunci femeia
+Dă-mi şi mie apa aceea
+/:Ca să nu alerg mereu
+Şi să scot de-aici cu greu:/.
+
+[s10]
+10. Iar Isus i-a cuvântat
+Vino cu al tău bărbat
+/:N-am bărbat, dânsa i-a spus
+Ştiu i-a zis Domnul Isus:/.
+
+[s11]
+11. Cinci avu-i pe care-l ai
+Nu-i bărbatul tău aşa-i
+/:Doamne cum le potriveşti
+Tu pe semne prooroc eşti:/
+
+[s12]
+12. Ştiu că va veni în lume
+Mesia Isus anume
+/:Care mult ne-a învăţa
+Nu eşti tu Isus cumva?:/
+
+[s13]
+13. Isus blând la ea priveşte
+Eu sunt Cel ce îţi vorbeşte
+/:Atunci vasul şi-a lăsat
+Şi-n cetate-a alergat:/.
+
+[s14]
+14. Pe toţi câţi îi întâlnea
+Despre Isus le vorbea
+/:Doamne dă-ne apa Ta
+Dă-ne împărăţia Ta:/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12,s13,s14

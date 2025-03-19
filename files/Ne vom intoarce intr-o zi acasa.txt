@@ -1,0 +1,39 @@
+[s1]
+Ne vom intoarce intr-o zi acasa,
+Te-om parasi pamantule, pamant,
+Si vom uita de tine poate maine,
+Ca te-am calcat si te-am lucrat, plangand.
+
+[s2]
+In tine zac si mortii in tarana
+I-ai inghitit flamand cum tu ai fost,
+Si ai lasat atata jale-n urma
+Pamantule, acestea au un rost.
+
+[s3]
+Vei da afara lacrimile multe,
+Ce zac de vremi in tine in ascuns,
+Cei ce au plans s-or intalni cu Domnul
+Pamantule, pamantu' tie de-ajuns.
+
+[s4]
+Cand toti acei ce sfasiati de fiare
+Sau arsi pe rug, ei au sfarsit cantand,
+Se vor 'nalta de pe-a tale hotare,
+Pe Mirele lor drag intampinand.
+
+[s5]
+Veni-va clipa cand cu toti, deodata,
+Parinti si frati,
+spre alte zari zburand,
+Sa ne-ndreptam spre tara minunata,
+Sa te uitam, pamantule, pamant.
+
+[s6]
+Isus ne va intinde mana-I calda,
+Si fericiti vom sta la pieptul Sau
+Si vom uita, c-am fost odata-n tine,
+Cand fi-vom vesnic, fi-vom doar cu El.
+
+[order]
+s1,s2,s3,s4,s5,s6

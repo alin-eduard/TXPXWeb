@@ -1,0 +1,60 @@
+[s1]
+807.        											  Do m
+Ziua aşteptată-a
+Celor drepţi va fi
+Vestea cercetării va veni
+Când cu slavă mare
+Domnul va veni
+Dar pe tine cum te va găsi.
+
+[s2]
+Cor:
+Pregăteşte-te, pregăteşte-te
+Ca să-L întâlneşti pe Dumnezeu
+Strigă Duhul Sfânt pregăteşte-te
+Istraele tu poporul meu .
+
+[s3]
+2. Prin Amos-prorocul
+Domnul a vorbit
+Poporului Său pe care l-a iubit
+Când pe căi deşarte încă rătăceau
+Şi Cuvântul Sfânt nesocoteau.
+
+[s4]
+3. Căci acelaşi glas
+Azi strigă ne-ncetat
+Omule mai stai azi în păcat?
+Ziua răsplătirii vezi s-a apropiat
+Când nimeni nu va mai fi cruţat.
+
+[s5]
+4. Căci s-a apropiat a judecăţii zi
+Când pământul, cerul vor pieri
+Că sunt ca cenuşa
+Din al tău trecut
+Ce-ai să spui atuncea fiu pierdut.
+
+[s6]
+5. Apa, munţii, câmpul
+Ce El le-a întocmit
+La judecată martori vor fi
+După a ta umblare şi al tău destin
+Vei fi-n rai sau în eternul chin.
+
+[s7]
+6. Înţelege acuma Israel iubit
+Vocea ce strigă necontenit
+Nu sta-n nepăsare
+C-adevărul Sfânt
+El doar el în veci se va-mplini.
+
+[s8]
+7. Domnul azi te vrea
+El nu vrea moartea ta
+Înţelege azi şi nu mai sta
+El vrea slava Sa in viaţa ta
+Şi să fii pe veci la nunta sa.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

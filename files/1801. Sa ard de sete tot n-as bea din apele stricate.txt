@@ -1,0 +1,39 @@
+[s1]
+1801.Re m
+1. Să ard de sete,
+Tot n-aş bea din apele stricate
+Ce le-ntâlnesc în calea mea,
+Prin lumea de păcate
+Să mor de foame,
+Tot n-ating mâncăruri otrăvite
+Spre care ne-ncetat mă-mping
+Păcate şi ispite.
+
+[r1]
+/: Mai bine plîng acum un ceas
+Cu Domnu-n părtășie
+Decât fără Hristos rămas
+Să plîng o veșnicie :/
+
+[s2]
+2. Să mor de frig,
+Nu mă-ncălzesc la focuri vinovate
+Pe unde slugile pândesc,
+Iubiri îndurerate
+Să mor în drum,
+Tot n-aş intra în casa ruinata
+Ce ar zdrobi şi-ar ruina
+Iubirea mea curată.
+
+[s3]
+3. Să umblu gol, tot n-am să-mbrac
+Ce Diavolu-mi întinde
+Să zac în şanţ, să mor sărac,
+Pe Domnul nu-L voi vinde
+Mai bine plâng acum un ceas,
+Cu Domnu-n părtăşie
+Decât, fără Hristos rămas,
+Să plâng o veşnicie.
+
+[order]
+s1,r1,s2,r1,s3,r1

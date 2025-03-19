@@ -1,0 +1,33 @@
+[s1]
+În stânca înaltă,
+Păzit de­orice rău,
+Ascunde, o, Doamne,
+Şi sufletul meu.
+Acolo odihnă în veci voi găsi,
+Scutit de­orice val
+Doar în Tine voi fi.
+
+[r1]
+În încercări şi vreme grea
+Ascunde-mă­n Tine, Isus,
+Stânca mea!
+
+[s2]
+De grele ispite mereu copleşit,
+De valuri înalte adesea lovit,
+Spre veşnica Stâncă
+Cu dor eu privesc
+Căci numai acolo
+Scăpare găsesc.
+
+[s3]
+Când plin de necazuri
+La Tine­am venit,
+De braţul Tău tare
+Am fost izbăvit.
+Tu, veşnică Stâncă,
+Isus, Domnul meu,
+Ascunde în Tine şi sufletul meu!
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,31 @@
+[s1]
+2242
+1. E ziua mântuirii, prietene iubit Dar ziua-i pe sfârșite,
+tu nu ești mântuit
+Tu stai și-amâi, dar mâine
+Ești sigur c-ai să vii?
+Poate e cea din urmă
+Chemare-n veșnicii.
+
+[r1]
+Cor: E ziua mântuirii,
+dar ea e azi, acum
+Nu amâna pe mâine,
+nu știi al vieții drum
+/: Eu am primit ieri harul,
+tu azi îl poți primi
+Dar mâine nu te-asigur,
+că alții vor veni :/.
+
+[s2]
+2. Acum te poți decide,
+tu fă cum vei dori
+În față-i veșnicia,
+mult timp nu va mai fi
+Fii sincer dar cu tine,
+deci unde-ai s-o petreci
+Cu Dumnezeu iubirea,
+Isus și Duhul Sfânt.
+
+[order]
+s1,r1,s2,r1

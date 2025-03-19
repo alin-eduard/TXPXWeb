@@ -1,0 +1,43 @@
+[s1]
+Tu mi-ai fost si-mi esti scaparea,
+Pururi Tu, Isuse-al meu!
+Nimeni altul nu-mi cunoaste
+Dorul si necazul meu.
+
+[r1]
+/: Unde sa ma duc?... :/
+Eu nu ma duc, Isuse drag,
+Ci Te-astept plangand in prag...
+
+[s2]
+Unde sa alerg, Isuse,
+Cand sunt singur, parasit?
+Toti cei dragi se duc, Tu singur
+Esti mereu nedespartit!
+
+[s3]
+O, de cand Te am pe Tine,
+Sufletul intreg mi-e plin.
+Mana Ta-n viata-mi lasa
+Pace, si belsug, si-alin.
+
+[s4]
+O, ramai, ramai cu mine,
+Ca sa fii pe veci al meu,
+Iar ca rob supus si umil,
+Sa raman al Tau mereu!
+
+[s5]
+Fa sa-Ti cant o vesnicie,
+Stand la pieptul Tau dorit
+Dupa care-am plans atata
+Si pe care l-am iubit!
+
+[s6]
+O, ramai in veci cu mine,
+Rascumparatorul meu,
+Si ma tine-n veci cu Tine,
+Drag copil si rob al Tau!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

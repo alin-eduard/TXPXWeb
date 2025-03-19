@@ -1,0 +1,32 @@
+[s1]
+Viata mea cu Tine-I bucurie
+Doamne Tu esti tot ce mi-a ramas
+Vanturi daca vor bate
+Ploi de vor veni
+Doamne Tu esti tot ce mi-a ramas
+Viata mea cu Tine este pace
+Nimeni nu ne poate desparti
+Foametea sau lipsa
+Daca vor veni
+Nimeni nu ne poate desparti
+
+[r1]
+Viata mea e-n mana Ta
+Nimeni n-o va lua
+Orice vremuri de-or veni
+Vesnic Te voi iubi
+
+[s2]
+Viata mea cu Tine este pace
+Nimeni nu ne poate desparti
+Foametea sau lipsa
+Daca vor veni
+Nimeni nu ne poate desparti
+Viata mea cu Tine-I bucurie
+Doamne Tu esti tot ce mi-a ramas
+Vanturi daca vor bate
+Ploi de vor veni
+Doamne Tu esti tot ce mi-a ramas
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,45 @@
+[s1]
+2068
+1. Voi ce viața cu tărie
+O zidiți pe sfânt temei
+Să iubiți mai mult pe Domnul
+Și cuvântul Bibliei
+Pregătiți-vă de acuma
+Strigă astăzi Duhul Sfânt
+Tot ce-aveți aici rămâne
+Părăsind acest pământ
+
+[s2]
+Cor: /: O Aleluia /: Maranata :/
+Oare-L poți întâmpina
+Vine Domnul cu răsplata
+Să Își ia Biserica :/
+
+[s3]
+2. Toate ai să le pierzi odată
+Una astăzi alta mâine
+Lângă Tine pe vecie
+Numai dragostea rămâne
+Orice crezi frumos din suflet
+Timpul uită vremea-l duce
+Veșnic este numai prețul
+Mântuirii de pe cruce
+
+[r1]
+Cor: /: O Aleluia /: Maranata :/
+Oare-L poți întâmpina
+Vine Domnul cu răsplata
+Să își ia Biserica :/
+
+[s4]
+3. Toate-s schimbătoare-n viață
+Orice neam și orice limbă
+Vremea schimbă totul numai
+Adevărul nu se schimbă
+Orice om e nestatornic
+Azi e-nslavă mâine-ntină
+Veșnic va rămâne numai
+Cel ce umblă în lumină.
+
+[order]
+s1,s2,s3,r1,s4,r1

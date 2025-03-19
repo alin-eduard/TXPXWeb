@@ -1,0 +1,46 @@
+[s1]
+Suntem doar o răsuflare
+Abur spulberat de soare
+Simple adieri de vânt
+/: Si o mână de pământ :/
+
+[s2]
+Suntem mici dar tu eşti mare
+Doamne căci în strâmtorare
+Doar prin tine existăm
+/: De aceea te lăudăm :/
+
+[s3]
+De nu ne-ai fi întins mâna
+Ne-ar fi înghiţit ţărâna
+Dat Tu şti Doamne aşa
+/: Nu cei morţi Te pot lăuda :/
+
+[s4]
+Si de sus din zare-albastră
+Ai privit în barca noastră
+Ne-ai scăpat de toţi cei răi
+/: Că Tu-i aperi pe ai tăi :/
+
+[s5]
+Când zăceam în neputinţă
+Ne-ai fost steag de biruinţă
+Ne-a călăuzit mereu
+/: Dreapta Ta de Dumnezeu :/
+
+[s6]
+Să ştie întreaga lume
+Că sub cer e doar un nume
+Doar un Nume glorios
+/: Numele Isus Hristos :/
+
+[s7]
+Si în orice-mprejurare
+Ai fost a noastră scăpare
+Si-n primejdii şi nevoi
+Doamne ai fost lângă noi
+Te lăudăm cu-al nostru cânt
+/: Tată, Fiu şi Duh prea Sfânt :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

@@ -1,0 +1,26 @@
+[s1]
+Pe acest pământ, Isuse,
+Eu sunt ca şi un străin,
+Iar durerile-mi nespuse,
+/: Mă apasă pe deplin. :/
+
+[r1]
+Nimeni în afară de Tine, Isuse,
+Nu mă poate izbăvi,
+Nimeni în afară de Tine, Isuse,
+Nu mă poate linişti.
+
+[s2]
+Doamne, când eşti lângă mine
+Nu-i nimic mai frumos,
+Eu mă rog mereu la Tine
+/: Să-mi faci viaţa cu folos. :/
+
+[s3]
+Ce frumoasă-i tinereţea
+Petrecută cu Isus
+Şi în ţara mult dorită
+/: Ne vom bucura nespus. :/
+
+[order]
+s1,r1,s2,r1,s3,r1

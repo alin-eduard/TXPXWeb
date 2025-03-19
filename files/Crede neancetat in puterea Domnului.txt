@@ -1,0 +1,36 @@
+[s1]
+Crede neîncetat
+in puterea Domnului,
+Ai oricând nădejde
+în al Său Cuvânt;
+Dumnezeu te va-ndruma
+pas cu pas prin mâna Sa.
+Mergi pe calea-ngustă
+spre cerul sfânt.
+
+[r1]
+Crede-n El, crede-n El,
+În al Său braţ atotsalvator.
+Pentru slava Domnului
+şi Împărăţia Lui,
+Crede-n El, Dumnezeu e cu noi.
+
+[s2]
+Fii mereu îmbrăcat
+cu armura Domnului,
+Steagul Său ridică-l zi de zi
+mai sus.
+Mărturie ai de-adus despre
+harul Său nespus,
+Cu tărie crede-n Domnul Isus.
+
+[s3]
+Te încrede mereu
+în Cuvântul Domnului;
+Peste veacuri el rămâne neclintit,
+Dumnezeu te va-ntări
+şi lumina ta va fi;
+El să fie-n veci de veci preamărit.
+
+[order]
+s1,r1,s2,r1,s3,r1

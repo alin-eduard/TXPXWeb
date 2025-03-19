@@ -1,0 +1,30 @@
+[s1]
+1047.
+1.         Vai de cei nepăsători în Sion
+Vai de cei ce dorm în jug
+Până dă rugina-n plug
+Şi-aduc foame nu belşug în Sion
+Vai de cei ce strâng grămezi
+Şi din câmp şi din livezi
+Iar la sapă nu-i mai vezi în Sion.
+
+[s2]
+2.       Vai de cei nepăsători în Sion
+Vai de cei cu gâtul lung
+Ce cu mir de preţ se ung
+Iar pe fraţii lor împung în Sion
+Vai de cei care-şi închid
+Uşa inimii cu zid
+Şi-apoi cîntă ca David în Sion.
+
+[s3]
+3.        Vai de cei nepăsători în Sion
+Vai de cei care se ascund
+Să-şi bea cupa pân' la fund
+Iar la urmă mulg şi tund
+Vai de cei cu perne moi
+Care sunt în piei de oi
+Nu, ei nu vor fi cu noi în Sion.
+
+[order]
+s1,s2,s3

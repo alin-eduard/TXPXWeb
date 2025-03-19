@@ -1,0 +1,53 @@
+[s1]
+1387
+1. Când norii grei deasupra-ți vin
+Și negură aduc
+Și mersul tău tu nu-l mai vezi
+Să calci pe-al vieții drum
+S-aștepți atunci un cer senin
+Soare strălucitor
+Și chiar de norii iar apar
+Să știi că trec cum vin
+
+[s2]
+Cor: Atunci înalță ruga ta
+Spre Cel ce te-a salvat
+Cu mâna Sa te-a ajutat
+Hristos cel minunat
+Vei ști atunci să-I mulțumești
+Cu toată viața Ta
+Pe veci să I te dăruiești
+S-ajungi în slava Sa.
+
+[s3]
+2. Când valuri bat în barca ta
+Și tu ești disperat
+O frate nu descuraja
+Tu cere-i mila Sa
+Pe Cel ce marea a făcut
+O poate liniști
+Când El întinde mâna Sa
+Furtuna s-a opri.
+
+[r1]
+Cor: Atunci înalță ruga ta
+Spre Cel ce te-a salvat
+Cu mâna Sa te-a ajutat
+Hristos cel minunat
+Vei ști atunci să-I mulțumești
+Cu toată viața Ta
+Pe veci să i te dăruiești
+S-ajungi în slava Sa.
+
+[s4]
+3. Și dacă crezi că Cel ce-i sfânt
+Întinde mâna Sa
+Și norii trec ca și un gând
+Tu cum te vei purta
+Să știi atunci să-I mulțumești
+Să cazi în fața Sa
+Și să îi spui atunci plângând
+Tu ești iubirea mea.
+
+[order]
+s1,s2,s3,r1,s4,r1

@@ -1,0 +1,26 @@
+[s1]
+Întoarce-te, o, fiu pierdut
+La Tatăl tău, din cer,
+Destul dar, cât te-ai abătut
+Înstrăinat de El!
+
+[s2]
+Întoarce-te aşa cum eşti,
+Flămând şi zdrenţăros,
+Vei fi primit cum nu gândeşti,
+Ca Fiul Său, Hristos.
+
+[s3]
+Întoarce-te, copila mea,
+Plângând la Dumnezeu
+Cămin mai dulce n-ai afla
+Decât la Tatăl tău!
+
+[s4]
+Întoarceţi-vă, fii pierduţi,
+Şi fiice-a’ nimănui,
+Când s-au întins atâtea punţi
+Spre casa Tatălui!
+
+[order]
+s1,s2,s3,s4

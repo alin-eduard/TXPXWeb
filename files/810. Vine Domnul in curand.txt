@@ -1,0 +1,33 @@
+[s1]
+810. Mi
+1.  Vine Domnul /: în curând :/
+Pentru ai Lui de pe pământ
+Vine Domnul cu grăbire
+Ca s-aducă răsplătire.
+2. Dar nu vine /: pentru toţi :/
+Numai pentru credincioşi
+Car` pentru El au răbdat
+Şi mereu L-au aşteptat.
+
+[s2]
+3. Dar nu vine /: pe pământ :/
+Ci se opreşte în văzduh
+Şi pe noi ne va răpi
+La sunetul trâmbiţei.
+4. Trâmbiţa lui /: Dumnezeu :/
+Şi apoi cu strigătul Său
+Va-nvia-ntâi pe cei morţi
+Care au murit în Hristos.
+
+[s3]
+5. Şi împreună /: cu cei vii :/
+Sus pe nori ne-om întâlni
+Şi apoi mereu cu Domnul
+Vom fi în vecii vecilor.
+6. De aceea /: fraţi surori :/
+Ce uitaţi de multe ori
+Să ţinem privirea sus
+Căci vine Domnul Isus.
+
+[order]
+s1,s2,s3

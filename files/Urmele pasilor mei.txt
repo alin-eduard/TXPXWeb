@@ -1,0 +1,33 @@
+[s1]
+Urmele pasilor mei vreau sa fie bune De urmat, pentru altii
+Pentru cei din jurul meu
+Urmele pasilor mei vreau sa fie Urmele Tale, Doamne, Isuse
+Urmele Tale
+
+[s2]
+Nu stiu ce m-asteapta urmatoarea Rrascruce cand va fi
+Insa stiu ca Tu ma vei calauzi
+Nu stiu cum voi merge, vreme buna Voi prinde sau vor fi nori
+Insa stiu ca Tu, Doamne ma-nconjori
+
+[s3]
+Ca o mireasma placuta vreau
+Sa fie alergarea mea
+Pentru Domnul, si pentru oameni
+Ca o mireasma placuta
+Vreau sa fie umblarea mea
+Doamne, Isuse, pe urmele Tale
+
+[s4]
+Chiar de voi trece prin ape,
+Chiar de voi trece prin foc
+Nu ma vei lasa, nu ma vei uita
+In al noptii loc
+Ochii Tai ma vegheaza,
+Chem bunatatea Ta
+Toate stau marturie,
+Orice are sa vie,
+Vei fi de partea mea
+
+[order]
+s1,s2,s3,s4

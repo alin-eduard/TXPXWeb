@@ -1,0 +1,29 @@
+[s1]
+Aici Te astept azi
+Locuieste-n min’ te rog
+Tânjesc dupa Tine din nou
+M-ascunzi în iubirea-Ti
+Du-mă pe genunchi
+Să Te cunosc vreau tot mai mult
+
+[r1]
+Traieşte-n min’ viaţa mea inund-o
+Respiri în min’ să mă ‘nalţ pe aripi spre Tin’
+
+[s2]
+Aici Te astept azi
+Recunosc greseala mea
+Si nu mai sunt vrednic de Tin’
+Ma-ntorc către Tine,
+Te rog primeşte-mă
+Iţi voi sluji din inima.
+
+[s3]
+Aici Te astept azi
+Cerând smerenia Ta
+Pune Tu în mine dragostea
+Fă ca să rodeasca Roada Duhului
+Şi fă-mă asemeni Ţie.
+
+[order]
+s1,r1,s2,r1,s3,r1

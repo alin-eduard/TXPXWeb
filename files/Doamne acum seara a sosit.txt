@@ -1,0 +1,23 @@
+[s1]
+Doamne acum seara a sosit
+Ţie ne adresăm:
+Lucrul zilei am împlinit
+Laudă-Ţi aducem!
+2
+
+[s2]
+De vezi cumva că am greşit
+Prin vorbe sau fapte
+O, Domnul nostru bun, iubit
+Ne iartă de toate.
+1
+
+[s3]
+Şi ne-ajută mai departe
+Să nu păcătuim,
+Să facem tot bune fapte
+Până în veci, amin!
+0
+
+[order]
+s1,s2,s3

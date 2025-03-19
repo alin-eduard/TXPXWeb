@@ -1,0 +1,26 @@
+[s1]
+Ce frumoase vorbe aud eu
+De-un locaş Dumnezeiesc
+Din Cuvîntul Sfînt ce cred eu
+Şi cu dragoste-l rostesc.
+
+[s2]
+Zidit pe eterna stîncă
+Ce te va putea clinti ?
+/: Fericirea te aşteaptă
+Mîntuit în veci vei fi ! :/
+
+[s3]
+În Sionul cel ceresc
+Prin har membru sfînt făcut
+Prin Hristos mă-nveselesc
+Şi-L slăvesc că mi-e plăcut.
+
+[s4]
+Viaţa-aceasta-i trecătoare
+Cu toată mărirea ei.
+În Sion e sărbătoare
+Vino şi tu dacă vrei !
+
+[order]
+s1,s2,s3,s4

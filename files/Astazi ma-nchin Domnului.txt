@@ -1,0 +1,33 @@
+[r1]
+Astăzi mă-nchin Domnului
+Şi-i cânt slavă căci
+El mult bine mi-a făcut,
+Când eram în strâmtorare,
+către El eu am strigat
+Şi El mâna şi-a întins
+şi m-a salvat.
+
+[s1]
+Mi-amintesc de ziua-n care,
+Dumnezeu m-a cercetat.
+A fost ziua-n care Domnul
+De-l iubesc ma întrebat.
+A fost o zi deosebită,
+abia atunci am înţeles
+Că Isus mult ma iubit,
+Şi prin moartea Sa
+pe cruce ma ales.
+
+[s2]
+Încercările vin valuri
+dar le birui prin Isus,
+Doar în El mi-am pus nadejdea
+Ca s-ăjung în ceruri sus.
+Încercările să vină,
+prin ele mă voi oţeli
+Şi-ntr-o zi, pe nori cu slavă,
+Printre miile de sfinţi
+Şi eu voi fi.
+
+[order]
+r1,s1,r1,s2,r1

@@ -1,0 +1,44 @@
+[s1]
+Când va începe nunta noastră
+În dimineaţa fără nori
+O, când va-ncepe nunta noastră
+Întreaga-ntindere albastră
+/:Va fi lumină şi splendori:/
+
+[s2]
+Când faţa Ta strălucitoare
+Isuse drag se va ivi
+De faţa Ta strălucitoare
+S-or stinge stele, Luna, Soare
+/:Lumina Ta le-a copleşi:/
+
+[s3]
+Noi, îmbrăcaţi în alb şi soare,
+Uimiţi de cerul Tău slăvit,
+Străluminaţi de-un veşnic Soare,
+Cântând, Ţi-om pune la picioare,
+/:Cununa harului primit.:/
+
+[s4]
+Când vom zbura spre cer Isuse
+aleşii Tăi de pe pământ
+Când sus în ceruri, o, Isuse
+Vom sta în slăvile nespuse
+/:La masa Ta, o, Mire sfânt:/
+
+[s5]
+Ah! Bucuriile-ntâlnirii
+Ce-n suflet, Doamne, vom simţi!
+Ca bucuriile-ntâlnirii
+Şi fericirea fericirii
+/: N-a fost şi nici nu va mai fi!:/
+
+[s6]
+O, adu clipa aşteptată
+Când vom pluti strălucitori!
+Adu-ntâlnirea aşteptată
+Şi nunta noastră minunată,
+/:Din dimineaţa fără nori!”/
+
+[order]
+s1,s2,s3,s4,s5,s6

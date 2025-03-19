@@ -1,0 +1,43 @@
+[s1]
+2095
+1. Zece legi deosebite
+Prin al Domnului viu grai
+Spre popor coboară Moise
+De pe muntele Sinai
+Să iubești pe Domnul Isus
+Să nu ai alți dumnezei
+Chip cioplit nicicând nu-ți face
+Nici să nu te-nchini la ei.
+
+[s2]
+2. Nu lua în deșert vreodată
+Numele lui Dumnezeu
+Căci pentru această faptă
+Vei fi pedepsit mereu
+Să lucrezi doar 6 zile
+Iar a șaptea s-o sfințești
+E ziua Domnului frate
+Cu El să te odihnești.
+
+[s3]
+3. Să cinstești cu drag părinții
+Ca să poți fi fericit
+În țara făgăduinței
+Sus în cer vei fi primit
+Să nu ucizi e-o altă lege
+Nici cu fapta nici în gând
+Căci cu Domnul se-nțelege
+Ai făcut un legământ
+
+[s4]
+4. Alte legi frumos te-nvață
+Strâmb să nu mărturisești
+Să fii om corect în viață
+Să nu furi, să nu poftești
+Toate acestea de păzi-vei
+Mântuire vei avea
+În țara făgăduinței
+În Împărăția Sa.
+
+[order]
+s1,s2,s3,s4

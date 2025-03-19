@@ -1,0 +1,26 @@
+[s1]
+Când eşti aproape de Dumnezeu
+Nimic în viaţă nu-ţi este greu.
+Când ai pe Isus totu-i frumos
+Căci El e viaţa, Isus Hristos!
+
+[r1]
+Nu vei avea din fericiri cu Dumnezeu
+Dacă nu stai mereu cu El, pe calea Sa
+Dacă-i aşa, întoarce-te şi nu pleca,
+Isus iubeşte fiinţa ta, nu uita!
+
+[s2]
+Azi se mai poate, mai este har,
+Încă iertarea se dă în dar.
+Priveşte, jertfa la Golgota
+Îţi dă iertarea prin moartea Sa.
+
+[s3]
+Nu te opri, gândeşte-te la tot ce eşti
+Isus te-ndeamnă să păşeşti pe calea Sa!
+El vine iar, şi vei uita de-acest Pământ
+Te vei înălţa la Cel Preasfânt în curând.
+
+[order]
+s1,r1,s2,r1,s3,r1

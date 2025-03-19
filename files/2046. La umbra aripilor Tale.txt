@@ -1,0 +1,49 @@
+[s1]
+2046
+1. La umbra aripilor Tale
+Copiii Tăi se întâlnesc
+La ceas de plâns amar și jale,
+Ei sufletul și-l răcoresc,
+Ce bine-i, Doamne, lângă Tine
+Ce bine e sub al Tău nor
+La umbra Ta sunt ape line,
+Ce curg din veșnicul izvor.
+
+[r1]
+Cor: Ce bine e cu Tine,
+Ce bine-i sub al Tău umbrar,
+Ce bine-i lângă Tine,
+Ce bine e sub har.
+
+[s2]
+2. La umbra aripilor Tale,
+O, Doamne Dumnezeul nost′
+Toți cei ce merg pe a Ta cale
+Găsesc oricând un adăpost
+Aicea poate orișicine
+O veșnicie ca să stea
+Nu-i nicăieri atât de bine
+O, Doamne ca la umbra Ta.
+
+[s3]
+3. La umbra aripilor Tale
+Se-adăpostește-al Tău popor
+Să-Ți cânte Ție osanale,
+Tu, râu de viață dătător.
+Sleiți de arșița pustiei,
+De soarele dogoritor
+Veniți la oaza bucuriei
+Veniți, fiii oamenilor
+
+[s4]
+4. Voi cei trudiți de drum și cale
+De sarcini grele-mpovărați
+Voi cei răpuși de chin și jale
+Aici veți fi eliberați.
+Veniți la Domnul, El e aproape
+Voi cei ce greul v-a răpus
+Veniți acum, veniți la ape
+Stânca vieții, la Isus
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,35 @@
+[s1]
+Amare lacrimi sunt,
+aici jos pe pământ,
+Durere suferinţă şi amar
+Atât de mulţi sărmani
+şi foarte mulţi orfani
+Isuse Tu de toţi îndură-Te.
+
+[r1]
+Căci Te chemăm cu dor
+şi ne uităm în zări
+De unde izbăvirea va veni?
+Căci Doamne ne-ai promis
+În Biblie stă scris
+Că suferinţa noastră s-a sfarşi.
+
+[s2]
+Priveşte-n Casa Ta
+şi vezi că lupta-i grea
+Păzaşte-Ţi astăzi Tu Biserica
+Să nu dăm înapoi,
+Isuse fii cu noi
+Ne dă puteri din Duhul Tău Cel Sfânt
+
+[s3]
+De toţi să te înduri,
+la ceruri să ne sui
+Cu toţi cei dragi, Isus,
+ce ni i-ai dat
+Şi-apoi în ţara Ta
+pe veci vom rămânea
+Şi bucuria nu va înceta.
+
+[order]
+s1,r1,s2,r1,s3,r1

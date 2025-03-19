@@ -1,0 +1,55 @@
+[r1]
+Mireasa Mea, bătută de furtună, nemângâiată, vino! Vino!...
+
+[s1]
+Ai început să bâjbâi,
+Prin negrul întuneric,
+Ai început să murmuri,
+În suferinţa grea;
+Ziceai că s-a dus totul,
+Nimic nu-i pentru tine,
+Iar crucea ce ţi-am dat-o,
+Îţi pare atât de grea.
+
+[s2]
+Uitat-ai de nădejde
+Şi ce spune Cuvântul.
+Uitat-ai tu de toate,
+Până şi legământul.
+Ai început să murmuri,
+Să mergi strâmb pe cărare,
+Uitând făgăduinţa,
+Cerească îndurare.
+
+[s3]
+Uitat-ai ce-a zis Domnul:
+Că-n noaptea cea amară,
+Ca fulgul pe ceruri Isus o
+să apară.
+Descurajarea-ţi mare,
+La ceruri, a ajuns;
+Cu lacrime, la Tatăl,
+Iar mijloceşte Isus:
+
+[s4]
+„Vezi, Tată? Vezi copiii ce
+Mi I-ai dat în lume:
+Se pierd în valuri grele,
+Loviţi sunt de durere;
+Azi masa este gata,
+Odaia-i pregătită...
+Mă duc, Mă duc, o, Tată,
+Ca să-i aduc la nuntă."
+
+[s5]
+Acolo, vei gusta din
+fructe hrănitoare;
+Vei bea din apa vie ce
+e răcoritoare.
+Acolo, eşti scutită de vânt
+şi vijelie.
+„Amin!", Mireasa strigă.
+„Amin, Isuse, Ţie!"
+
+[order]
+r1,s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

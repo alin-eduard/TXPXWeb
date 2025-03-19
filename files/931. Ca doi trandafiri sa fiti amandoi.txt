@@ -1,0 +1,33 @@
+[s1]
+931.                                                                             Re
+1.  Ca doi trandafiri să fiţi amândoi
+În sfânta grădină a Domnului Sfânt
+Mereu să-nfloriţi şi să răspândiţi
+Parfumul iubirii, parfumul dorit.
+
+[r1]
+E mai bine-n doi chiar şi la nevoi
+Funia-mpletită in trei mult mai tare e
+Mult ai de luptat, Mult ai de lucrat
+Dar în rugăciune vei fi ascultat.
+
+[s2]
+2.  Să fiţi un buchet cu flori de migdal
+Cu roade ca roua ce curge-n Saron
+Să stai lângă râu, pe al vieţii mal
+La râul ce curge din noul ocean.
+
+[s3]
+3.  Să fiţi un potir cu parfumul de nard
+Înspre Tatăl Sfânt mereu să udaţi
+Cu lacrimi fierbinţi, cu lacrimi ce ard
+Prin sfânta credinţă voi să vă rugaţi.
+
+[s4]
+4.  Şi noi vă urăm cu toţi vă dorim
+În noua cărare pe care aţi plecat
+Să mergeţi spre cer cu El ne-ncetat
+Cu Domnul iubirii-n noul Ierusalim
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

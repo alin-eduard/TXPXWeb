@@ -1,0 +1,31 @@
+[s1]
+1630
+1. Cât ușa mântuirii e deschisă
+Întoarce-te acum la Domnul Tău
+E încă salvator și te mai cheamă
+Nu amâna să vii la Dumnezeu.
+
+[r1]
+Cor: /: Vino :/ azi te cheamă El
+Domnul Tatăl Tău din cer
+Vino de pe căi pustii
+Vino mântuit să fii.
+
+[s2]
+2. O prieten drag
+Auzi cum El te cheamă
+Primește-L cât mai e Mântuitor mai este har
+Isus e plin de milă
+Dar în curând
+Va fi jucecător.
+
+[s3]
+3. În ceruri este mare Bucurie când la Isus
+Se-ntoarce un păcătos
+N-ai vrea să locuiești
+Cu El în slavă
+Să fii mireasă
+Scumpă lui Hristos
+
+[order]
+s1,r1,s2,r1,s3,r1

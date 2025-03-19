@@ -1,0 +1,63 @@
+[s1]
+1078.Re
+Din Egipt către Sinai
+A pornit poporul sfânt
+El mergea cu mare alai
+Protejat de cel Preasfânt
+1.
+Cor:      Ziua-n val de nor
+Noaptea-n stâlp de foc
+Domnul i-a condus din loc în loc
+Ani de zile tot mergând
+S-ajungă-n pământul sfânt
+
+[s2]
+Dar la Sinai s-a oprit
+Domnul legea le-a citit
+Şi le-a zis de-ţi asculta
+Canaanul vi-l voi da
+Cor:      Ziua-n val de nor
+Noaptea-n stâlp de foc
+Domnul i-a condus din loc în loc
+Ani de zile tot mergând
+S-ajungă-n pământul sfânt
+2.
+
+[s3]
+Ei de acolo au pornit
+Cortul Sfânt i-a însoţit
+Sabatul sărbătoreau
+Şi cu mană se hrăneau
+Cor:      Ziua-n val de nor
+Noaptea-n stâlp de foc
+Domnul i-a condus din loc în loc
+Ani de zile tot mergând
+S-ajungă-n pământul sfânt
+3.
+
+[s4]
+Dar Satana i-a cernut
+Mulţi în pustiu au căzut
+Rămăşiţa la Iordan
+Au intrat în Canaan
+Cor:      Ziua-n val de nor
+Noaptea-n stâlp de foc
+Domnul i-a condus din loc în loc
+Ani de zile tot mergând
+S-ajungă-n pământul sfânt
+4.
+
+[s5]
+Astfel Israelul Sfânt
+Are un nou legământ
+Mergem către-un nou Canaan
+Şi suntem chiar la Iordan.
+Cor:     Ziua-n val de nor
+Noaptea-n stâlp de foc
+Domnul i-a condus din loc în loc
+Ani de zile tot mergând
+S-ajungă-n pământul sfânt
+5.
+
+[order]
+s1,s2,s3,s4,s5

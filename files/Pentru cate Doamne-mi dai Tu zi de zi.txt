@@ -1,0 +1,39 @@
+[s1]
+Pentru cate Doamne-mi dai Tu zi de zi
+Pentru cata grija porti de-ai Tai copii
+/:Pentru cate Doamne-n viata ma pazesti
+Eu Te laud Te slavesc si-Ti multumesc:/
+
+[s2]
+Pentru paine, apa si-al Tau adapost
+Pentru prieteni, frati, surori chiar pentru toti
+/:Pentru dragostea ce-o am eu pentru ei
+Te iubesc si-Ti multumesc:/
+
+[s3]
+Pentru ca in orice zi primesc de sus
+Binecuvantari ceresti precum mi-ai spus
+/: Zilnic Tu Isuse grija-mi daruiesti
+Pentru toate-aceastea eu Iti multumesc:/
+
+[s4]
+Pentru dulcea ta iubire din Calvar
+Care m-a facut un fiu din rob fugar
+/:Pentru fiecare palma ce-ai primit
+Multumesc o Doamne mare si iubit:/
+
+[s5]
+Pentru harul Tau divin din Golgota
+Pentru c-ai purtat pe umeri crucea grea
+/:pentru-al meu pacat ce l-ai iertat deplin
+Te iubesc si-ti multumesc o Miel divin:/
+
+[s6]
+N-ar fi deajuns o viata-n multumiri
+Pentru harul Tau divin din nemuriri
+/:De aceea Doamne ma aplec in jos
+si Iti spun din suflet
+Multumesc frumos:/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,26 @@
+[s1]
+Intinde-ti Doamne mainile spre mine
+Spre neputinta ce m-apasa greu
+Indreapta-mi cugetul spre zari senine
+De unde vei veni ca Dumnezeu
+
+[r1]
+De-aceea Doamne ruga mea te cheama
+Cu mana Ta sa ma-nsotesti de-acum
+Si sa-mi alungi din sulfet orice teama
+Ce ma pandeste ca un leu in drum.
+
+[s2]
+Sa Te slavesc cu psalmi de sarbatoare
+In orice zi cu drag din viata mea
+Si notele din nou a mea cantare
+S-aprinda-n multe inimi cate-o stea
+
+[s3]
+Intinde-ti Doamne mana cu iubire
+Ca un milos si bun samaritean
+Spre cei pierduti in neagra pribegire
+Ca sa-i aduci din nou pe toti la har.
+
+[order]
+s1,r1,s2,r1,s3,r1

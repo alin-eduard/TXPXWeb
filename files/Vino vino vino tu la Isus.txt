@@ -1,0 +1,33 @@
+[s1]
+Vino, vino, vino tu la Isus
+Vino tu acum
+Vino, vino şi să fii tu supus
+Domnului cel bun
+La M
+
+[r1]
+O, vino Eu te chem
+Şi astăzi te îndemn
+Căci noaptea va veni
+Când nu-i putea să intri!
+
+[s2]
+Vino, vino printre suferinţe
+Lasă tu lumea
+Căci în lume nu-i nici o căinţă
+Numai pieirea
+
+[s3]
+Vino, vino acum Spirit iubit
+Condu-mă mai sus
+Până voi fi de Dumnezeu sfinţit
+În sânge-a lui Isus
+
+[s4]
+Vino, vino, îţi voi da viaţă
+Vino suflete
+Eu sunt Isus şi la Mine-n braţe
+Este linişte!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

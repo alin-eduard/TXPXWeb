@@ -1,0 +1,27 @@
+[s1]
+Printre munţi şi dealuri,
+Simt pe Dumnezeu,
+Ape cristaline murmură mereu.
+/: Murmur, murmur: Domnul este bun! :/
+
+[s2]
+Soarele se-nalţă maiestuos
+pe cer
+Şi aruncă raze dulci,
+care nu pier.
+/: Dulce, dulce: Domnul este bun! :/
+
+[s3]
+Prin păduri şi lanuri
+Cântece răsun,
+Preamărind pe Domnul, pentrucă e bun
+/: Cântă, cântă: Domnul este bun! :/
+
+[s4]
+Domnul plin de milă, veşnic este bun
+Cântă şi tu suflet:
+Domnul este bun!
+/: Veşnic, veşnic: Domnul este bun! :/
+
+[order]
+s1,s2,s3,s4

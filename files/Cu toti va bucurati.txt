@@ -1,0 +1,30 @@
+[s1]
+Cu toţi vă bucuraţi,
+Isus e Împărat,
+Veniţi cu mulţumire
+Şi cu gând curat!
+
+[r1]
+Vă ridicaţi! Cu laudă
+Ale voastre glasuri înălţaţi!
+
+[s2]
+Al nostru Salvator
+E drept şi-ndurător,
+El ne-a eliberat,
+Suntem al Său popor.
+
+[s3]
+Întregul Univers
+Ascultă-al Său cuvânt,
+El ţine toate­n cer
+Şi toate pe pământ.
+
+[s4]
+Cu toţi vă bucuraţi,
+El sigur va veni
+Şi­i va lua cu El pe nori
+Pe­ai Săi copii.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

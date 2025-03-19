@@ -1,0 +1,32 @@
+[r1]
+/: Veghează, veghează, veghează
+Că vine Domnul Slavei în curând
+Nu te opri, mereu înaintează
+De partea ta să ştii e Duhul Sfânt :/
+
+[s1]
+E încă an de îndurare astăzi
+Biserică cu sufletul zdrobit
+În crăpătura stâncii tu aşteaptă
+Că noaptea-ntunecoasă ia sfârşit
+
+[s2]
+Am stat mereu alaturea de tine
+Mireasă porumbiţo te iubesc,
+Pe braţe te-am purtat, te port şi astăzi
+Prin viscol şi furtuni Eu te păzesc
+
+[s3]
+Acum Eu îţi mai spun încă odată
+Căci locuri minunate ţi-am gătit
+Mireasă porumbiţo fii voioasă
+E cerul pentru tine pregătit
+
+[s4]
+Aştept doar un cuvânt să spună Tatăl
+Şi înspre tine-n dată voi pleca
+Mai sunt secunde, clipe, mai veghează
+Vei fi mireasă-n veci de veci a Mea.
+
+[order]
+r1,s1,r1,s2,r1,s3,r1,s4,r1

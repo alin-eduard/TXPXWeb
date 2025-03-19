@@ -1,0 +1,43 @@
+[s1]
+1.	Cântarea măreaţă
+Cea de mii de zile
+De mulţi e cântată
+Spre a ta mărire.
+2.	Mulţi spre condamnare
+Te mai aminteşte
+Şi-n toată umblarea
+Te tăgăduieşte.
+1000.
+
+[s2]
+3.    Zicând doar din gură
+Că iubesc pe Domnul
+Iar fratelui ura
+Îi arată boldul.
+4.    S-a răcit iubirea
+Cea dintâi primită
+Bântuie răcoarea
+Ce-n Scriptură stă scrisă.
+
+[s3]
+5.    O, scumpul meu frate
+Şi iubită soră
+Mare a fi durerea
+La ziua din urmă.
+6.    Când Mântuitorul
+Se va arăta
+Şi la judecată
+El ne va chema.
+
+[s4]
+7.    Doamne a Ta îndurare
+Revarsă spre mine
+Ca să am intrare
+La a Ta răpire.
+8.    Deşi eu nu merit
+Dar dragostea-Ţi mare
+Şi ai urcat Calvarul
+Şi ne-ai dat iertare.
+
+[order]
+s1,s2,s3,s4

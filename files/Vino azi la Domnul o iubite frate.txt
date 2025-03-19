@@ -1,0 +1,26 @@
+[s1]
+Vino azi la Domnul, o, iubite frate
+Căci El îţi poate da libertate !
+Vino azi la Domnul, o, iubite frate
+Şi vei avea cu El în cer parte !
+
+[s2]
+Vino pînă e timp, nu amîna deloc
+Ca tu să nu ajungi în foc !
+Vino pînă e timp, nu amîna deloc
+Să poţi fi scăpat ca Lot !
+
+[s3]
+Predă-te chiar acum în braţul Domnului
+Ca tu să guşti din roada pomului !
+Predă-te chiar acum în braţul Domnului
+Şi să trăieşti îndemnul Duhului !
+
+[s4]
+Odată ce-ai primit din harul lui Isus
+Păcatului nu-i vei mai fi supus !
+Odată ce-ai primit din harul lui Isus
+Tu vei avea parte în ceruri sus !
+
+[order]
+s1,s2,s3,s4

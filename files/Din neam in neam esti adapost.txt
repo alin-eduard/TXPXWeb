@@ -1,0 +1,28 @@
+[s1]
+Din neam in neam esti adapost
+Celor ce se incred in Tine
+Tu vietii mele scut ai fost
+Cand vanturi au batut in mine
+
+[r1]
+Tu esti cetatuia mea
+Tu esti adapostul meu
+O lumina in noaptea grea
+Tu o Doamne
+Imi esti scapare-nceasul greu
+Zidul tare din jurul meu
+
+[s2]
+O mie cada in dreapta mea
+Si zeci de mii pot chiar sa vie
+Raman sub ocrotirea Ta
+Din Tine fac nadejde vie
+
+[s3]
+Eu niciodata nu ma tem
+De groaza noptii ce-o sa vie
+Nici de sageata celui rau
+Si nici de-aprinsa lui urgie
+
+[order]
+s1,r1,s2,r1,s3,r1

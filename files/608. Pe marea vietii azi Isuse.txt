@@ -1,0 +1,46 @@
+[s1]
+1. Pe marea vieţii azi Isuse
+Cu greu călătoresc
+Şi-n luntrea vieţii
+Valuri mari
+Mereu, mereu lovesc.
+608							    Re m
+
+[r1]
+Cor:
+/: Condu-ne Tu, Isuse,
+În portul minunat
+Acolo unde-i pacea
+Iar Isus, Împărat. :/
+
+[s2]
+2. Furtună mare s-a întins
+Pe-al mării-ntreg cuprins
+Şi luntrea mea la luptă azi
+Cu valuri s-a încins.
+
+[s3]
+3.Mai mult ca
+Orişicând acum
+Dureri şi necaz greu
+Şi drumul tot mai nevoios
+În luntrea mea de azi.
+
+[s4]
+4. Şi singur
+De mă laşi, Isuse
+Pe valul furtunos
+Eu cum să pot
+Ajunge sus
+În portul Tău frumos?
+
+[s5]
+5. De-aceea azi
+Plângând te rog
+Să vii în luntrea mea
+La luptă azi
+Să mă conduci
+Acolo-n ţara Ta.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

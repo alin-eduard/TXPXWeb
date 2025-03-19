@@ -1,0 +1,23 @@
+[s1]
+Totu-i goană după vânt
+Astăzi râd iar mâine plâng
+Viaţa pentru mine nu-I decât in cer
+Astăzi sunt dar mâine pier
+Totul este trecător
+Iţi aduni aici comori
+Dar va veni o vreme
+Când Tu vei pleca
+Si-un străin le va lua.
+
+[s2]
+Astăzi poţi fi mulţumit
+Că o viaţa ai trăit
+Însă dincolo de toate vei afla
+Care este soarta ta
+Cât trăieşti pe-acest pământ
+Totu-i goană după vânt
+Dacă mai presus de suflet tu alegi
+În păcat să trăieşti.
+
+[order]
+s1,s2

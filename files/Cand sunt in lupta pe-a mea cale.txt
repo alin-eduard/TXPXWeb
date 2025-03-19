@@ -1,0 +1,47 @@
+[s1]
+Când sunt în luptă pe-a mea cale
+Înconjurat de rău eu sunt
+Când simt că nu mai am speranţă
+Mă uit în sfântul Tău Cuvânt
+Vrăşmaşul caută să lovească
+În sufletul ce Îl iubeşti
+Atunci eu strig:
+„Lăudat fii, Doamne“
+Şi Tu de rău mă izbăveşti
+
+[r1]
+Să strigăm: lăudat să fie Domnul
+Să-L chemăm pe singuru-mpărat
+Să strigăm către Cel Atotputernic
+Că El ne va da biruinţa Sa
+Să strigăm cu toţii să strigăm
+
+[r2]
+Eu ştiu că vor veni ispite
+Şi cred că nu va fi uşor
+Dar eu când mă încred în Domnul
+În toate sunt biruitor
+Acum eu pot fi fericit
+Că Isus m-a eliberat
+Mi-a dat din Duhul său cel sfânt
+Putere nouă El mi-a dat.
+
+[s2]
+Când sunt în luptă pe-a mea cale
+Înconjurat de rău eu sunt
+Când simt că nu mai am speranţă
+Mă uit în sfântul Tău Cuvânt
+Vrăşmaşul caută să lovească
+În sufletul ce Îl iubeşti
+Atunci eu strig: „Lăudat fii Doamne“
+Şi Tu de rău mă izbăveşti
+
+[s3]
+Să strigăm: lăudat să fie Domnul
+Să-L chemăm pe singuru-mpărat
+Să strigăm către cel atotputernic
+Că El ne va da biruinţa Sa
+Să strigăm cu toţii să strigăm
+
+[order]
+s1,r1,r2,r1,s2,r1,r2,s3

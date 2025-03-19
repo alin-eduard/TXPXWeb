@@ -1,0 +1,39 @@
+[s1]
+1. Ce-ai semănat cu lacrimi
+Ai să culegi cântând
+Oricât de lung e drumul
+Sfârşi-va în curând.
+305.
+
+[s2]
+/:Nu plânge după anii
+Ce trec şi nu mai vin
+Fii răbdător în chinuri
+Nu-i cerul tot senin:/.
+
+[s3]
+2. Nu pierde adevărul
+Mărturisit şi viu
+El nu e niciodată
+Zadarnic şi pustiu.
+
+[s4]
+/:Nici plânsul rugăciunii
+Nici micul milei dar
+Nici jertfa adusă-n taină
+Nimic nu-i în zadar:/.
+
+[s5]
+3. Alege în durere
+Adâncul ei folos
+Doar ea îţi dă puterea
+Răbdării lui Hristos.
+
+[s6]
+/:Căci orice pom rodeşte
+Şi totul vine-n rând
+Ce-ai semănat cu lacrimi
+Ai să culegi cântând:/.
+
+[order]
+s1,s2,s3,s4,s5,s6

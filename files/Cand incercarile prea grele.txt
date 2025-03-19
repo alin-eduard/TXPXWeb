@@ -1,0 +1,38 @@
+[s1]
+Când încercările
+Prea grele ni se par
+Şi zilele prea lungi,
+Poverile prea mari
+Ne mângâie Hristos,
+El se va arăta
+Să-si ia pe nori mireasa,
+Să-i şteargă lacrima.
+
+[r1]
+Când vom vedea pe nori faţa lui Isus
+Necazul greu de-aici îl vom uita
+Şi doar privirea Lui atunci va lumina
+Deci, luptător, fii brav, nu dispera!
+
+[s2]
+Sub cerul furtunos,
+Când rănile mă dor
+De valuri încercat,
+Când stau făr-ajutor
+E Cineva în cer
+Ce ştie chinul meu
+El vine printre valuri
+Să-si scape fiul Său.
+
+[s3]
+Curând se va sfârşi
+Al vieţii greu suspin
+Vom trece peste râu
+În ţara de lumini.
+Acolo vom gusta
+Din slava lui Hristos
+Ispita va dispare,
+Vom pune crucea jos.
+
+[order]
+s1,r1,s2,r1,s3,r1

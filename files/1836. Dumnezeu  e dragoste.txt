@@ -1,0 +1,42 @@
+[s1]
+1.Dumnezeu e dragoste
+În inimă pace e
+Dumnezeu e dragoste
+Aleluia pace e
+/:Aleluia Osana
+Dumnezeu e dragoste
+Slavă Lui căci pururea
+Nu se va schimba:/
+1836    Sol
+
+[s2]
+2.Dumnezeu e-n viaţa mea
+Viu este-n inima mea
+Dumnezeu e-n viaţa mea
+Glorie Aleluia
+/:Aleluia Osana
+Dumnezeu e-n viaţa mea
+Niciodată nu L-aş da
+Orişicât mi-ar da:/
+
+[s3]
+3.Isus e bucuria El îmi e desfătarea
+Isus e bucuria
+Glorie Aleluia
+/:Glorie glorie Osana
+Isus mie bucurie
+Prin toate-I voi mulţumi
+Şi-L voi proslăvi:/
+
+[s4]
+4.Isus va veni-n curând
+Să ne ia de pe pământ
+Şi de-a pururi voi cânta
+În cer veşnic slava Sa
+/:Maranata Aleluia
+În cer veşnic voi cânta
+Glorie glorie Osana
+Când îl voi vedea:/
+
+[order]
+s1,s2,s3,s4

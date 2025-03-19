@@ -1,0 +1,32 @@
+[s1]
+Tu, Iubire fără seamăn
+Ce din cer Te-ai coborât,
+Vino în fiinţa noastră,
+Dă-ne harul Tău cel Sfânt.
+Tu eşti milostiv, o, Doamne,
+Mare e iubirea Ta,
+Ne cuprinde viaţa-ntreagă,
+Dă-ne mântuirea Ta!
+
+[s2]
+Prin al Tău Duh Sfânt alină
+Orice suflet întristat,
+De la Tine să primească
+Pace sfântă, har bogat.
+Ia din noi, o, Doamne sfinte,
+Orice rău ce ne-a robit
+Şi zideşte cu iubire
+Chipul Tău neprihănit.
+
+[s3]
+Dă-ne Doamne, izbăvire!
+Al Tău har vrem să-l gustăm.
+Ne întoarce către Tine,
+Cu credinţă să-Ţi urmăm.
+Vrem să Te slujim, o, Doamne,
+Cum în ceruri eşti slujit,
+Să-Ţi aducem închinare Ţie,
+Tată preaiubit!
+
+[order]
+s1,s2,s3

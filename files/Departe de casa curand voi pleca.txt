@@ -1,0 +1,26 @@
+[s1]
+Departe de casă curînd voi pleca
+Durerea o ştie doar inima mea
+/: Şi chiar de-o mai simte o inimă chiar
+E inima mamei, e inima sa. :/
+
+[s2]
+E inima mamei ce plînge cu-amar
+Căci trebuie să plec, mă duc de la ea.
+/: La pat mi-a vegheat ea întotdeauna
+La pat lîngă mine mereu ea veghea. :/
+
+[s3]
+Să nu uit, Isuse, ajută-mi mereu
+O, ştii Tu prea bine, Părintele meu ! -
+/: În braţe întruna purtatu-m-a ea
+La pat lîngă mine mereu ea veghea. :/
+
+[s4]
+În rugă întruna, mereu mă-nălţa
+Cu ochii în lacrimi aşa se ruga -
+/: Cînd fi-voi eu mare de Tine s-ascult
+Şi |ie, Isuse, eu totul să-ti spun. :/
+
+[order]
+s1,s2,s3,s4

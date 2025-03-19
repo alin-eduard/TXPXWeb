@@ -1,0 +1,60 @@
+[s1]
+/: Israele încrede-te în Domnul :/
+Așa vorbește Domnul,
+Cel care te-a făcut
+Israele încrede-te (în Domnul)
+
+[s2]
+Caci Dumnezeu ce te-a creat
+Israele e Domnul tau,
+Te chem pe nume, esti al Meu
+Te izbavesc Eu Dumnezeu
+Caci te iubesc Israele
+Si legamantul innoiesc
+Si pentru tine dau popoare
+Viata sa ti-o izbavesc
+(Israel increde-te in Domnul)
+
+[s3]
+Si cand vei trece prin (ape adanci)
+Voi fi cu tine si (te voi pazi)
+Si raurile mari nu te vor inneca
+Caci Eu sunt Domnul
+Sunt la dreapta ta
+
+[s4]
+Si chiar prin flacari de va fi sa treci
+(cand ai sa treci)
+Israele cu tine sunt in veci
+(in veci de veci)
+Si focul cel aprins nu te va-nspaimnta
+Caci Eu sunt Domnul
+Sunt la dreapta ta
+
+[s5]
+Israele poporul Meu,
+increde-te in Dumnezeu
+Te chem pe nume, esti al Meu
+Caci Eu sunt Creatorul tau
+Israele cu Dumnezeu,
+Tu vei invinge orice rau
+Asa vorbeste Domnul Tau
+/: Increde-te in Dumnezeu :/
+
+[s6]
+Caci Domnul e izbavitor
+E singurul Mantuitor
+Alege-L dar ca Domn al tau
+Si fericit vei fi mereu
+
+[s7]
+Alege-L azi pe Dumnezeu
+Sa fie si Stapanul tau
+Sa fie al tau Mantuitor
+Primeste-L azi ca Salvator
+Si fericit vei fi mereu
+Fericit vei fi mereu
+Fericit cu Dumnezeu
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

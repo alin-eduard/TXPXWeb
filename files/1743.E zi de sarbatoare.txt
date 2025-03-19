@@ -1,0 +1,45 @@
+[s1]
+1. E zi de sărbătoare
+Amin Aleluia,
+Daţi Domnului onoare
+Amin Aleluia.
+Cor: /:Aleluia, Amin Aleluia:/
+1743.   Re
+
+[s2]
+2. Să cânte tot poporul
+Amin Aleluia
+Lui Isus Biruitorul
+Amin Aleluia.
+Cor: /:Aleluia, Amin Aleluia:/
+
+[s3]
+3. Viaţa Lui s-o dăm
+Amin Aleluia
+Şi Lui să ne-nchinăm
+Amin Aleluia.
+Cor: /:Aleluia, Amin Aleluia:/
+
+[s4]
+4.El ne-a adus mântuire
+Amin Aleluia
+Ne-a dat-o prin jertfire
+Amin Aleluia.
+Cor: /:Aleluia, Amin Aleluia:/
+
+[s5]
+5. Isus este iubire
+Amin Aleluia
+El este mântuire
+Amin Aleluia.
+Cor: /:Aleluia, Amin Aleluia:/
+
+[s6]
+6. Curând vine răpirea
+Amin Aleluia
+Ne vine izbăvirea
+Amin Aleluia.
+Cor: /:Aleluia,Amin Aleluia:/
+
+[order]
+s1,s2,s3,s4,s5,s6

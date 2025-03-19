@@ -1,0 +1,26 @@
+[s1]
+Să privim spre veşnicie
+înspre ţara cea de sus
+Şi mergând cu bucurie,
+să trăim doar cu Isus.
+
+[r1]
+Căci a Domnului cetate
+străluceşte glorios,
+Al meu suflet mult doreşte
+veşnicia cu Hristos.
+
+[s2]
+O, atâţi iubiţi de-ai noştri
+sus în cer demult s-au dus,
+Calea noastră când sfârşeşte
+vom ajunge-acolo sus.
+
+[s3]
+Să privim dar cu nădejde
+înspre ţara cea de sus
+Căci acolo când ajungem
+vom trăi doar cu Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1

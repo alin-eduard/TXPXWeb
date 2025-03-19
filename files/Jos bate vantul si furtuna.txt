@@ -1,0 +1,44 @@
+[s1]
+Jos bate vîntul şi furtuna
+Isuse scump din veşnicii !
+Se-ascunde Soarele şi Luna
+O, vino azi, de ce nu vii ?
+
+[s2]
+E drumul greu, e grea şi crucea
+Mi-e dor nespus de veşnicii.
+Mai este mult pînă atuncea
+Cînd plînsul ni-l vei răsplăti ?
+
+[s3]
+Cu bucurii ce nu vor trece
+Şi nici nu poţi să le descrii
+Atunci şi noi toţi vom petrece
+În schimbul plînsului de-aici.
+
+[s4]
+Atunci cînd vei servi la masă
+Cum nimeni altul nu va şti
+Cînd vei servi întreaga casă
+Cu vinul sfînt din veşnicii.
+
+[s5]
+Cînd mîna proslăvită care
+Făcut-a omul pe Pămînt
+Va şterge lacrima, sudoarea
+Şi fruntea noastră în curînd.
+
+[s6]
+Dorim ca să-Ţi ieşim în cale
+Pe nori, Isus, cînd vei veni
+Cîntîndu-Ţi veşnic osanale
+Şi nu ne vom mai despărţi !
+
+[s7]
+Jos bate vîntul şi furtuna
+Şi trec atîtea vijelii
+Copiii Tăi Te cheamă-ntr-una
+O, vino azi, de ce nu vii ?
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

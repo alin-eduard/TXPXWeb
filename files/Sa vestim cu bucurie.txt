@@ -1,0 +1,26 @@
+[s1]
+Să vestim cu bucurie:
+Dumnezeu e dragoste.
+Cer, pământ, întreaga fire
+Spun aceasta-n linişte.
+
+[r1]
+Ce măreţ e adevărul,
+Cât de drag mi-e să-l vestesc:
+Dumnezeu mult ne iubeşte,
+El în veci e dragoste!
+
+[s2]
+Spuneţi azi că pentru lume,
+Dumnezeu cel îndurat
+Şi-a dat Fiul ca să moară;
+Astfel ne-a răscumpărat.
+
+[s3]
+Cine crede şi se-nchină
+Domnului în veci slăvit,
+E salvat de la pieire,
+Mântuit şi fericit!
+
+[order]
+s1,r1,s2,r1,s3,r1

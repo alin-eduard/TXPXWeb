@@ -1,0 +1,37 @@
+[s1]
+El e-aici, El merge printre noi
+El e-aici, ţi-ascultă inima
+El e-aici, aşa cum ne-a promis
+/:Unde sunt doi sau trei azi strânsi
+Voi fi si Eu:/
+
+[s2]
+El e-aici, să-ţi ierte păcatul tău
+Cel ce-a murit pe cruce atârnat
+El ce-a strigat “o Tată bun iartă"
+/:E prezent aici, vin` la Isus
+Glorie Lui :/
+
+[s3]
+El e-aici, dacă Îl vei chema
+Îl vei simţi că El şi-a dat viaţa
+E aici, iubindu-ne pe toţi
+/:Deschide-ţi inima
+Să intre-ea Isus Hristos:/
+
+[s4]
+El e-aici, spune-i durerea ta
+El e-aici, ţi-ascultă inima
+El e-aici, spune-i necazul tău
+/:O, Domnul meu te rog să intri
+În cortul meu:/
+
+[s5]
+El e-aici, nu poţi să te ascunzi
+El e-aici, priveşte-n ochii tăi
+El e-aici, să-ţi ierte-al tău păcat
+/:Poti spune-atât
+O, Domnul meu, Tu m-ai iertat:/
+
+[order]
+s1,s2,s3,s4,s5

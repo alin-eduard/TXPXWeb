@@ -1,0 +1,46 @@
+[s1]
+1
+O, ce bucurie am
+Că păcatul mi-e spălat
+Când întruna însetam
+Apa vie am aflat.
+Am aflat apa vie
+O, cât sunt de fericit
+Astăzi cânt cu tărie
+Că Isus m-a mântuit.
+
+[s2]
+2
+Prin Hristos crucificat
+Merg pe calea Domnului.
+Haru-I sfânt doar El mi-a dat,
+Slavă-I cânt azi: Slavă Lui!
+Am aflat apa vie
+O, cât sunt de fericit
+Astăzi cânt cu tărie
+Că Isus m-a mântuit.
+
+[s3]
+3
+Stau pe braţul lui Isus
+Pân-necazurile trec,
+Eu prin harul Lui de sus
+Doar cu El am să petrec.
+Am aflat apa vie
+O, cât sunt de fericit
+Astăzi cânt cu tărie
+Că Isus m-a mântuit.
+
+[s4]
+4
+Bucuros sunt azi, aici,
+Că ajuns-am mântuit
+Şi în cer ai să mă faci
+Tu, Isuse, fericit.
+Am aflat apa vie
+O, cât sunt de fericit
+Astăzi cânt cu tărie
+Că Isus m-a mântuit.
+
+[order]
+s1,s2,s3,s4

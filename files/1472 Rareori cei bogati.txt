@@ -1,0 +1,67 @@
+[s1]
+1472.
+1.  Rareori cei bogaţi
+Stau la masa Domnului
+Ei iubesc bani şi averi
+Nu cuvântului Domnului
+Nu-l iubesc pe Isus
+Căci Isus i-a învăţat
+Ca să nu strângeţi comori
+Ci pe Mine mă urmaţi
+
+[s2]
+O ce veţi face voi bogaţi
+O când veţi şti căci veţi fi voi judecaţi
+O aţi uitat de Cel ce era sărac
+O aţi oprit plata celui necăjit
+
+[s3]
+2 .   Lăcomia de bani
+Strică ochiul omului
+Vai de cei care aleargă
+După mersul veacului
+Vai de cei care au
+Legământul cu Isus
+Care umblă după avere
+Nu după cele de sus
+
+[s4]
+O Prigonire ce ai venit între creştini
+O lăcomie ce-ai rupt dragostea dintâi
+O lume largă ce-ai făcut din credincioşi
+I-ai despărţit de Isus şi le-ai dat şi haina jos
+
+[s5]
+3.  Nu lăsaţi ca Satan
+Să vă ia mântuirea
+Căci Isus de săraci
+Se-ngrijeşte totdeauna
+Nu gândiţi ce mâncaţi
+Sau cu ce vă îmbrăcaţi
+Căci copii Domnului
+Nu la asta sunt chemaţi
+
+[s6]
+O căutaţi împărăţia Domnului
+Nu vă potriviţi după chipul veacului
+O mai întâi căutaţi-l pe Isus
+O fraţi surori nu întristaţi pe cel de sus
+
+[s7]
+4.   Vine ziua aşteptată
+Când vine Mirele Sfânt
+Vine ca să-şi ia mireasa
+S-o ducă în cerul sfânt
+Nunta este pregătită
+Chiar de Mirele Isus
+Din dragoste pentru El
+Ne cheamă să fim supuşi
+
+[s8]
+O haină albă tare pătată mai eşti
+O suflet suflet ce adânc mai aţipeşti
+O vino Doamne trezeşte al tău popor
+O dă-i putere să fie mai veghetor
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

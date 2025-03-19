@@ -1,0 +1,49 @@
+[s1]
+1363
+1. Înalț glasul spre Tine
+Părinte al meu divin
+Te rog Tu mă învață
+Ca Ție să mă-nchin mereu
+în odăiță
+Să mă rog în ascuns
+Să stau în stăruință
+Pân′ voi primi răspuns.
+
+[r1]
+Cor: Căci Tu ești mare Doamne
+Și nu mă lași nicicând
+A Ta să fie slava
+În cer și pe pământ.
+
+[s2]
+2. Înalț glasul spre Tine
+Părinte al meu ceresc
+Te rog Tu mă învață
+Pe frați cum să-i iubesc
+În dragoste o, Doamne
+Să fiu mai arzător
+Nu cumva să fiu
+Chimval zăngănitor.
+
+[s3]
+3. Înalț glasul spre Tine
+Părinte-al meu iubit
+Te rog Tu mă învață
+Ca să trăiesc smerit
+Oricât ar cere eul
+În mine să troneze
+Făcând cu umilință
+Să mă încoroneze.
+
+[s4]
+4. Înalț glasul spre Tine
+Părinte îndurător
+Te rog Tu mă învață
+Să fiu mai vegheator
+Cu candela aprinsă
+Să Te aștept mereu
+Chiar și în miez de noapte
+O, scump Mirele meu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

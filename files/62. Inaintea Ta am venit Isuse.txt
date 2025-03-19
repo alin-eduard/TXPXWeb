@@ -1,0 +1,29 @@
+[s1]
+62.                            Mi m
+1. Înaintea Ta am venit Isuse
+Să Te lăudăm
+Înaintea Ta plini de bucurie
+Să Te înălţăm
+
+[r1]
+Cor: Tu eşti Dumnezeu
+Eşti mare eşti Mântuitor
+Înaintea Ta este sărbătoare
+Pentru al Tău popor
+
+[s2]
+2. Inima din noi cântă Aleluia
+Slavă Domnului
+Plini de Duhul Sfânt vrem
+Să-I dăm mărire, înaintea Lui.
+
+[s3]
+3. Iată ce plăcut
+şi ce dulce este
+Să ne întâlnim
+Să-L glorificăm
+pe Mântuitorul
+Şi Să-L preamărim.
+
+[order]
+s1,r1,s2,r1,s3,r1

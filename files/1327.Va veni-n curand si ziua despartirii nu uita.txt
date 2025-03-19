@@ -1,0 +1,33 @@
+[s1]
+1327.
+1.  Va veni-n curând şi ziua despărţirii nu uita
+Nu-ţi lega inima frate de nimic nu ţi-o lega
+Ca să nu plângi veşnic greu şi dureros
+Inima ţi-o leagă numai de Hristos.
+2.  Va veni-n curând un altul
+Să-ţi ia locul care-l ai
+De nu-nvingi prin bine răul
+N-ai s-ajungi nicicând în Rai.
+
+[s2]
+3.  Va veni-n curând răsplata
+Pentru fapta fiecărui
+Ţine seama fii cu grijă
+De orice vorbă care-o spui.
+4.  Va veni-n curând ruina
+Casei care ţi-o zideşti
+Nu uita de locuinţă
+Care o ai când nu mai eşti.
+
+[s3]
+5.  Va veni-n curând trezirea
+La o poartă dintr-un vis
+Fericit vei fi aflându-ţi
+Cerul aşteptând deschis.
+6.  Va veni-n curând şi clipa
+Reîntâlnirii cu Hristos
+Fericit vei fi văzându-l
+Că te-aşteaptă bucuros.
+
+[order]
+s1,s2,s3

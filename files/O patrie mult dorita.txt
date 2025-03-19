@@ -1,0 +1,72 @@
+[s1]
+1
+O, patrie mult dorită
+O, când voi fi în tine
+Dorită cetate sfântă
+Ce-aprinzi nădejdea-n mine.
+
+[s2]
+2
+Noi privim spre cer plangand:
+‘’Vino azi, nu-ntârzia!’’
+Te chemăm de pe pământ
+De dor ne arde inima.
+
+[s3]
+3
+De multe ori privesc in sus,
+La cerul plin de stele;
+Să vii Tu azi, Isus, Isus,
+Si să zburăm spre ele.
+
+[s4]
+4
+Noi privim spre cer plangand:
+‘’Vino azi, nu-ntârzia!’’
+Te chemăm de pe pământ
+De dor ne arde inima.
+
+[s5]
+5
+De tara cea din vesnicii,
+De tara minunată,
+De locul plin de bucurii
+Dorim să fim odată.
+
+[s6]
+6
+Noi privim spre cer plangand:
+‘’Vino azi, nu-ntârzia!’’
+Te chemăm de pe pământ
+De dor ne arde inima.
+
+[s7]
+7
+De Isus, Mirele iubit,
+Steaua strălucitoare,
+De Cel ce-a fost chiar răstignit
+Ni-e dor, azi să coboare.
+
+[s8]
+8
+Noi privim spre cer plangand:
+‘’Vino azi, nu-ntârzia!’’
+Te chemăm de pe pământ
+De dor ne arde inima.
+
+[s9]
+9
+Căci Te-asteaptă ai Tăi copii
+Veghind mereu, privind in sus
+Al nost’ iubit, Isus, să vii,
+Si să ne duci în ceruri, sus.
+
+[s10]
+10
+Noi privim spre cer plangand:
+‘’Vino azi, nu-ntârzia!’’
+Te chemăm de pe pământ
+De dor ne arde inima.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

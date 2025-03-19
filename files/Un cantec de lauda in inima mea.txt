@@ -1,0 +1,24 @@
+[r1]
+Un cântec de lauda în inima mea
+Un cântec ce Tu l-ai pus
+Mi-ai dat libertate
+ca sa pot cânta din nou,
+Ai rupt întunericul din viata mea
+Mi-ai dat bucuria Ta
+Acum eu sunt liber
+ca sa pot cânta din nou.
+
+[r2]
+/: Isus Tu m-ai rascumparat,
+Duhul Tau Sfânt m-a eliberat.
+Dragostea Ta imi da curaj
+Sa alerg catre tinta nencetat
+Doar Tu esti Domnul meu
+te voi binecuvânta,
+Isus esti fericirea mea
+eu cânt de bucurie în fata Ta
+Doar Tu esti Domnul meu
+te voi binecuvânta. :/
+
+[order]
+r1,r2,r1,r2

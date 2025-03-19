@@ -1,0 +1,51 @@
+[s1]
+94.              miﻁ m
+1. Doamne iar îmi plec genunchii
+Şi cu lacrime in  gene
+Eu te rog ascultă plânsul
+Unei alte Magdalene.
+
+[s2]
+2. Că-n cuptorul suferinţei
+Mi-arde inima ca focul
+Astăzi cât doresc Isuse
+Lângă Tine să-mi ştiu locul
+
+[s3]
+3. Şi să pot trăi iertarea
+Ce-ai dăruit-o, Isuse
+Când Ţi se băteau piroane
+Şi pe cruce sus Te puse.
+
+[s4]
+4. Când e secetă o floare
+Ce suspină pe câmpie
+Din oceanul de viaţă
+Cere un strop de apă vie.
+
+[s5]
+5. Floarea vieţii mele Doamne
+E în zori de dimineaţă
+Dă-i măcar un strop de ploaie
+Dătătoare de viaţă.
+
+[s6]
+6. Lasă iar a mele braţe
+Poala crucii să Ţi-o strângă
+Şi-a iubirii calde lacrimi
+Isus ochii mei să plângă.
+
+[s7]
+7. Şi chiar dacă a mele braţe
+Vor slăbi de greul foc
+Fericit să stau cu Tine
+Căci în cer mi-ai gătit loc.
+
+[s8]
+8. Fă din lacrima iubirii
+Azi un strop de dor în gene
+O, ascultă iarăşi Doamne
+Plânsul unei Magdalene.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

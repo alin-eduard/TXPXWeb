@@ -1,0 +1,41 @@
+[s1]
+Drumul vieţii am găsit
+şi cu Isus călătoresc
+Nu mi-e frică niciodată că greşesc
+El conduce pasul meu
+şi mă păzeşte de-orice rău
+Dacă inima întreagă-I dăruiesc.
+
+[r1]
+Sînt fericit, iubirea sfîntă m-a cuprins
+Şi-n inimă odihnă-aici eu am găsit !
+Îi voi cînta cu dor aprins pîn,
+voi ajunge-n Paradis
+Căci numai El sufletul meu l-a mîntuit !
+
+[s2]
+În zadar ar încerca
+o lume-ntreagă ne-ncetat
+Să-mi ia dorul care-mi umple inima.
+Eu mă simt în orice clipă tare,
+fără nici o frică
+El, Isus, duşmanul meu îl va-nfrunta.
+
+[s3]
+Nimic nu poate fi iubit
+ca dorul sfînt ce mi-a sădit
+Isus, cînd slăvile din cer
+mi le-a promis.
+Speranţa nu-mi este-n vînt,
+căci nici un om de pe Pămînt
+Nu va schimba o vorbă ce Isus a zis.
+
+[s4]
+Sînt fericit, iubirea sfîntă m-a cuprins
+Şi-n inimă odihnă-aici eu am găsit !
+Îi voi cînta cu dor aprins pîn,
+voi ajunge-n Paradis
+Căci numai El sufletul meu l-a mîntuit!
+
+[order]
+s1,r1,s2,r1,s3,s4

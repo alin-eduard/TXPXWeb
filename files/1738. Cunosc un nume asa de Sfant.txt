@@ -1,0 +1,30 @@
+[s1]
+1. Cunosc un Nume-aşa de Sfânt
+Nu-i altul pe acest pământ
+În care eu mă-ncred oricând
+În orice greu şi-n orice vânt
+1738.       Sol m
+
+[r1]
+Cor:	O mie să cadă alături de tine
+Şi zece mii la dreapta ta
+Doar vei vedea minunea
+Şi vei privi cu ochii
+De tine nu se va apropia
+
+[s2]
+2. Cunosc un Nume
+Atât de scump
+În El mă-ncred
+Pe-acest pământ
+Prin valea morţii de-aş umbla
+Isus este scăparea mea
+
+[s3]
+3. Cunosc un nume bun nespus
+Numele-acesta e Isus
+Sufletul meu se-ncrede-n El
+Căci El este Emanuel
+
+[order]
+s1,r1,s2,r1,s3,r1

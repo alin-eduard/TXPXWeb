@@ -1,0 +1,41 @@
+[s1]
+1. Pe un deal departe
+Stă o cruce veche
+Ca un semn al suferinţelor
+Şi iubesc eu pe cel
+Ce a murit pe cruce
+E Isus, e al meu Mântuitor.
+750.
+
+[r1]
+Cor:	Voi iubi cel ce a stat pe cruce
+Pân' sfârşesc viaţa umană
+Şi suferinţa mea va trece
+Şi mi-o va schimba-ntr-o
+coroană.
+
+[s2]
+2. O, acea cruce de lume urâtă
+Mă atrage pe mine la ea
+Căci Mielul blând Isus
+Lăsând gloria sus
+A urcat crucea sus pa Calvar
+
+[s3]
+3. În crucea lui Isus,
+Stropită cu sânge
+E glorioasa mea salvare
+Căci de bunăvoie
+Pe ea murind Isus
+Din păcat mi-a făcut salvare.
+
+[s4]
+4. Purtând crucea lui Isus
+Eu voi fi credincios
+Şi orice suferinţi voi răbda
+Căci cândva m-a chema
+La locaşul ceresc
+Unde-n glorie mă voi schimba.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,40 @@
+[s1]
+/: Un cântec de mulţumire-TI cânt
+Spre lauda Ta o Domn Preasfânt
+Căci dragostea Ta m-a copleşit
+Nimeni ca Tine n-a iubit. :/
+
+[r1]
+Răscumpărat eu sunt  în faţa Ta,
+Tu mă ridici să-Ţi văd iubirea Ta,
+Cum să-Ţi spun ce fericit sunt azi
+Când harul Tău din nou mi-ai arătat?
+Slavă Ţie, Domnul meu preasfânt!
+Veşnic să răsune pe pământ
+Cântul meu din toată inima
+Ce laudă iar bunătatea Ta!
+
+[s2]
+/: Prin valea umbrei morţii când eu trec
+Speranţele în mine le găsesc
+Şi caut chiar şi-atunci când norii vin
+Chipul tău sfânt şi divin. :/
+
+[s3]
+/: Un cântec de slavă voi cânta
+Şi-n cer lângă tine când voi sta
+Miraţi, ochii mei când vor vedea
+Că sunt şi eu acum la dreapta Ta :/
+
+[s4]
+/: Răscumpărat eu sunt  în faţa Ta,
+Tu mă ridici să-Ţi văd iubirea Ta,
+Cum să-Ţi spun ce fericit sunt azi
+Când harul Tău din nou mi-ai arătat?
+Slavă Ţie, Domnul meu preasfânt!
+Veşnic să răsune pe pământ
+Cântul meu din toată inima
+Ce laudă iar bunătatea Ta! :/
+
+[order]
+s1,r1,s2,r1,s3,s4

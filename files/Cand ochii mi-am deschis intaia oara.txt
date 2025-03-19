@@ -1,0 +1,48 @@
+[s1]
+Când ochii mi-am deschis întâia oarã
+Vãzut-am chipu-ti blând si iubitor,
+Simtit-am adierea ta usoarã
+Eram în bratul tãu ocrotitor.
+Priveam spre tine ca printr-o mahrama
+Si nu puteam rosti nici un cuvânt,
+Dar te simteam cã tu esti a mea mamã
+Ce Domnul mi te-a dat pe-acest pãmânt.
+
+[r1]
+/: O mama mea, o mama mea
+Eu niciodatã n-as putea,
+Sã-ti rãsplãtesc iubirea ta
+Iubitã mamã, mama mea. :/
+
+[s2]
+M-ai legãnat din noapte pânã-n noapte
+Si mi-ai cântat din zori pânã-n apus,
+M-ai alintat mereu în calde soapte
+Si mi-ai vorbit cu drag despre Isus.
+M-ai îngrijit si m-ai crescut cu lacrimi
+Si fãrã încetare m-ai iubit,
+M-ai învãtat sã fiu om între oameni
+Si m-ai iertat mereu când ti-am gresit.
+
+[s3]
+M-ai mângâiat la ceas de suferintã
+M-ai învãtat sã rabd, s-astept, sã sper,
+Mi-ai inspirat a Domnului credintã
+Si-n tainã pasii mi-ndreptai spre cer.
+Îti multumesc o mama pentru toate
+Si-l rog pe Domnul viatã sã-ti mai dea,
+Sã-ti dea putere, zel si sãnãtate
+Ca sã te am alãturi mama mea.
+
+[s4]
+Ca sã mã cresti ti-ai dat întreaga vlagã
+Cu zâmbetul tãu cald m-ai însotit,
+O, cum sã nu te-ador mãmico dragã
+Când stiu cu ce iubire te-ai jertfit.
+Sã nu mã lasi o mama, niciodatã
+Cãci mângâiere fãrã tine nu-I,
+Iar de va fi sã pleci in cer odatã
+Sã mã astepti pe plaiul cerului.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

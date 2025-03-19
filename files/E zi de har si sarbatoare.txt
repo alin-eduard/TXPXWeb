@@ -1,0 +1,33 @@
+[s1]
+E zi de har şi sărbătoare
+Voi aţi pornit pe-o nouă cale
+În doi totul e mai frumos
+Dacă-L luaţi şi pe Hristos.
+
+[r1]
+/: Te rugăm binecuvântă-i,
+Doamne pe-a lor cale
+De mână Tu să-i ţii mereu
+şi să-i veghezi
+Azi fii prezent, Te rog,
+la a lor sărbătoare
+Şi zi de zi cu drag
+să-i binecuvintezi. :/
+
+[s2]
+Noi vă dorim zile cu soare
+Mulţi ani în viaţă să vă iubiţi
+Şi chiar probleme de vor apare
+Voi cu Isus să biruiti.
+
+[s3]
+/: Te rugăm binecuvântă-i
+Doamne pe-a lor cale
+Diamantul fericirii să le dăruieşti
+Tot ceea ce ei îşi doresc
+pe-a lor cărare
+Te rugăm cu dragoste
+azi să le împlineşti. :/
+
+[order]
+s1,r1,s2,s3,r1

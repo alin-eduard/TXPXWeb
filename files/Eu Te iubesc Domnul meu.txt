@@ -1,0 +1,28 @@
+[s1]
+Eu Te iubesc, Domnul meu
+Eu Te iubesc din toata inima
+Eu Te Iubesc Domnul meu
+Eu Te iubesc din tot sufletul meu
+
+[s2]
+Tu, Domnul meu esti S tanca mea
+In care ma ascund
+Unde dusmanii mei nicicand
+Acolo nu patrund.
+Tu, Doamne esti puterea mea
+Cetate tare-n vreme rea
+Ispite grele de-ar veni
+Prin Tine eu salvat voi fi!
+
+[s3]
+Cand am fost in stramtorare
+Eu pe Domnul L-am chemat
+Cu bratul Sau cel puternic
+El din toate m-a scapat!
+Eu acum sunt fericit
+Ca Domnul m-a mantuit
+E pe mine m-a iubit
+Fie-n veci de veci slavit!
+
+[order]
+s1,s2,s3

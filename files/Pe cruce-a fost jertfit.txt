@@ -1,0 +1,28 @@
+[s1]
+Pe cruce-a fost jertfit
+Al nostru Domn iubit.
+Şi-ntr-un mormânt L-au pus
+Pe regele Isus.
+
+[r1]
+Din morţi a înviat
+şi-n slavă S-a-nălţat,
+În veac de veac El va trăi!
+Să-I dăm mărire Lui,
+mărire Domnului;
+E viu şi-n veac El viu va fi!
+
+[s2]
+Cei scumpi ai Lui s-au strâns
+Şi întristaţi au plâns.
+Dar mult s-au bucurat
+Aflând că a-nviat.
+
+[s3]
+Hristos a înviat
+La ceruri S-a-nălţat;
+El moarte-a biruit,
+Pe noi ne-a mântuit!
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,28 @@
+[s1]
+Zi de zi, din fântâna mântuirii
+Am să-nalţ fericit un cântec nou.
+Şi slavă Îţi voi da, căci m-ai salvat
+Şi din dureri şi iad m-ai salvat.
+
+[r1]
+Domn al iubirii, Mântuitor slăvit,
+Tu eşti viaţa mea, Adevărul
+Calea către veşnicii.
+Tu ţii în mână mersul istoriei,
+Domn al cerului,Tu Luceafăr viu
+Peste tot Tu vei domni.
+
+[s2]
+Vreau să spun că păcatele-s iertate
+Să vorbesc despre cugetul curat,
+De sângele preasfânt, de crucea Ta
+De boldul morţii frânt vreau să cânt !
+
+[s3]
+Vrednic eşti! Voi cânta în veşnicie
+Tu, Isus, Mielul cel neprihănit.
+Cu miile de mii Te voi slăvi
+În sfinte şi cereşti armonii.
+
+[order]
+s1,r1,s2,r1,s3,r1

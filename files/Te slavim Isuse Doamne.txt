@@ -1,0 +1,32 @@
+[s1]
+Te slăvim Isuse, Doamne,
+Cel ce-ai fost dispreţuit,
+Pentru noi, ca Miel de jertfă,
+Chin şi moarte-ai suferit.
+Te slăvim că sus pe cruce
+Vina noastră ai purtat;
+Tu eşti Domnul, Salvatorul,
+Cel ce ne-ai răscumpărat!
+
+[s2]
+O, ce mare Ţi-e iubirea,
+Miel Divin, crucificat
+Pentru noi, pe lemnul crucii
+Tu ai fost făcut păcat;
+Şi murind în locul nostru
+Cerul Tu ni l-ai deschis,
+Ne-ai adus în dar iertare,
+Duhul Sfânt ni L-ai trimis.
+
+[s3]
+Laudă, cinste şi-nchinare
+Se cuvine să primeşti
+Cântul miilor de îngeri
+Şi al oştilor cereşti;
+Rodul jertfei Tale sfinte
+Te slăveşte pe pământ,
+Tu, Profet, Preot şi Rege,
+Eşti al nostru Domn preasfânt!
+
+[order]
+s1,s2,s3

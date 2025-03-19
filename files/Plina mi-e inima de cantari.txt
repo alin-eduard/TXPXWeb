@@ -1,0 +1,20 @@
+[s1]
+Plină mi-e inima azi de cântări.
+Isus conduce-al meu suflet spre zări
+Până ajung pe-ale vieţii cărări,
+Tot mai aproape de cer.
+
+[r1]
+Tot mai aproape de cer mă simt eu,
+Tot mai aproape de Isus mereu,
+Mai multă slavă cerească, lumină,
+Sunt tot mai aproape de cer.
+
+[s2]
+Isus cu glorie m-a-nvălit.
+El e al meu zi de zi neclintit,
+Drumul meu duce spre ţărmu-nsorit,
+Tot mai aproape de cer.
+
+[order]
+s1,r1,s2,r1

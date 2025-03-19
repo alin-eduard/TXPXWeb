@@ -1,0 +1,63 @@
+[s1]
+1322.
+1.  Erau doi fraţi dar nu din fire
+Ce si-au jurat să fie fraţi
+Dar nu oricum ci-adevăraţi
+Chiar până la jertfire.
+Cor:	O David şi Ionatan
+A voastră iubire
+Învinge pe duşmani
+Chiar şi a lor gândire.
+
+[s2]
+2.  Cu inimi de iubire pline
+Se-adunau cei doi pribegi
+Când filistenii înspre ei
+Şi-ndreptau ţintele.
+Cor:	O David şi Ionatan
+A voastră iubire
+Învinge pe duşmani
+Chiar şi a lor gândire.
+
+[s3]
+3.  Si fiind ameninţaţi mereu
+De lepădatul rege chiar
+Un prieten ocrotit la greu
+O dragoste ce har.
+Cor:	O David şi Ionatan
+A voastră iubire
+Învinge pe duşmani
+Chiar şi a lor gândire.
+
+[s4]
+4.  Când cade Ionatan răpus
+De sabia duşmană
+Iar David nu putea de plâns
+Văzând adâncă-i rana.
+Cor:	O David şi Ionatan
+A voastră iubire
+Învinge pe duşmani
+Chiar şi a lor gândire.
+
+[s5]
+5.  Se prăpădeau de plâns sarmanii
+Că filistencile râdeau
+Că-n luptă a căzut Ionatan
+Ba chiar şi-n sus săreau.
+Cor:	O David şi Ionatan
+A voastră iubire
+Învinge pe duşmani
+Chiar şi a lor gândire.
+
+[s6]
+6.  Fii şi tu unul ca cei doi
+Sa-ti ajuţi fratele-n nevoi
+Când e căzut şi chiar răpus
+Roagăte lui Isus.
+Cor:	O David şi Ionatan
+A voastră iubire
+Învinge pe duşmani
+Chiar şi a lor gândire.
+
+[order]
+s1,s2,s3,s4,s5,s6

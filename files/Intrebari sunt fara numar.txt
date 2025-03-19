@@ -1,0 +1,22 @@
+[s1]
+Întrebări sînt fără număr
+Multe au răspuns aici.
+Ce vei fi, unde vei merge?
+Te-ai întrebat? Şi ce-ai răspuns?
+/: Isus e răspunsul
+Tuturor ce-l cer!
+Isus este calea
+Ce duce spre cer! :/
+
+[s2]
+Ştii acum, şi poţi alege
+Drum spre cer, sau drum spre iad ?
+Nu uita, la judecată
+Vei fi-ntrebat cum ai umblat!
+/: Isus e răspunsul
+Tuturor ce-l cer!
+Isus este calea
+Ce duce spre cer! :/
+
+[order]
+s1,s2

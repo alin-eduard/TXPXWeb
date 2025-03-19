@@ -1,0 +1,51 @@
+[s1]
+1.Într-o zi pe Ieremia
+Domnul îl înştiinţează
+La olar să meargă-n casă
+Ca să vadă cum lucrează
+1169. 			Ieremia 18           				    Re
+
+[s2]
+El s-a dus,
+Văzând pe roată
+Vasul ce nu-i izbutise,
+Și luând o altă formă
+Un alt vas din el făcuse.
+
+[r1]
+Ref:Tot la fel,
+Noi suntem lutul,
+Însă Domnul e Olarul
+Să-L lăsăm să prelucreze
+Vasul, ca să curgă harul.
+
+[s3]
+2.În castele şi-n palate
+Nu sunt vase
+Doar de aur.
+Sunt de-argint,
+De lemn, ţărână
+Ce nu-s toate din tezaur
+
+[s4]
+Întrebuinţate-s toate
+Dar nu în aceleaşi zile
+Sunt de cinste de ocară
+Lăudate sau umile..
+
+[s5]
+3.Dacă-un vas se curăţeşte
+Domnu-l face
+Vas de cinste
+Îl albeşte, îl sfinţeşte,
+Spre-a fi de foloase sfinte.
+
+[s6]
+Vasul nu întreabă-olarul
+Cum e prelucrat
+Să-i spună.
+Domnu-l face vas destoinic
+Pentru o lucrare bună.
+
+[order]
+s1,s2,r1,s3,s4,r1,s5,s6,r1

@@ -1,0 +1,14 @@
+[s1]
+Sus la Tatăl Sfânt eu doresc s-ajung
+În mărire, cu Isus să fiu curând.
+
+[s2]
+O, acest pământ, nu-i ca locul sfânt
+Căci aici viaţa trece ca un gând.
+
+[s3]
+Doamne, mult aş vrea să te pot vedea
+Bucuros să mă închin ‘naintea Ta.
+
+[order]
+s1,s2,s3

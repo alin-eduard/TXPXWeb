@@ -1,0 +1,24 @@
+[s1]
+Sfântă e noaptea de har,
+Totul e calm şi clar,
+Numai sfinţii părinţi stau veghind
+Lângă Pruncul
+Ce doarme zâmbind;
+/: Dormi Copile divin. :/
+
+[s2]
+Sfântă e noaptea de har,
+Cerul tresaltă iar;
+Cântă corul ceresc minunat,
+Prinţul slavei acum s­a­ntrupat:
+/: Salvatorul Isus. :/
+
+[s3]
+Sfântă e noaptea de har,
+Fiul trimis în dar
+Mântuire din cer ne­a adus,
+Împăcare cu Tatăl de sus;
+/: Azi Hristos S­a născut. :/
+
+[order]
+s1,s2,s3

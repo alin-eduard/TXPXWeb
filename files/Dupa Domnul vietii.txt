@@ -1,0 +1,32 @@
+[s1]
+După Domnul vieţii
+Vreau să merg cântând
+Chiar pe căi spinoase
+Crucea Lui purtând;
+Pe-ale Sale urme
+Merg spre cer smerit,
+În sălaşul păcii
+Fi-voi fericit!
+
+[s2]
+După Domnul vieţii,
+Vreau să merg mereu!
+Chiar de-ar fi să sufăr,
+Am tot harul Său!
+Merg pe căi stâncoase
+După-al Său Cuvânt
+Până voi ajunge
+La oraşul sfânt.
+
+[s3]
+După Domnul vieţii
+Până la sfârşit
+Către biruinţă
+Merg necontenit!
+Iată Domnul vine
+Vine pe alb nor
+Să mă ia la Sine
+Ca biruitor!
+
+[order]
+s1,s2,s3

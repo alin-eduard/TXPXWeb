@@ -1,0 +1,31 @@
+[s1]
+Cerul se va strânge ca un sul
+Cu tunet, fulgere şi fum
+Oştile cereşti se vor clătina
+În zilele acelea.
+
+[r1]
+Omenirea se va opri din mers
+Se va opri întregul univers
+Când ştiinţa va atinge culmi de nedescris
+Ştiinţa Celui Sfânt va frânge orice vis.
+Da! Omenirea se va opri din mers
+Se va opri întregul univers
+Stăpânul, Regele se va ivi
+Să-i judecce pe cei morţi şi vii
+Isus va reveni, Isus va reveni.
+
+[s2]
+Cu câtă dragoste ai fost rugat
+Cu trudă şi lacrimi Te-au chemat
+Atâtea întâmplări, atâţia slujitori
+Dar Tu i-ai respins de-atâtea ori.
+
+[s3]
+Din tot ce strângi în viaţa de aici
+Ce vei lua cu tine-n veşnicii
+Duhul Sfânt acum te cercetează
+Primeşte-L pe Isus şi apoi urmează-L.
+
+[order]
+s1,r1,s2,r1,s3,r1

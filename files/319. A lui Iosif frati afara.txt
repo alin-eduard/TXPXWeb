@@ -1,0 +1,87 @@
+[s1]
+1. A lui Iosif fraţi afară
+Sta cu turmele într-o vară
+Pe o câmpie îndepărtată
+Iacov deci grăi odată.
+319.
+
+[s2]
+2. Du-te Iosif pe câmpie
+Să-mi aduci de-acolo mie
+Vestea de la fraţii tăi
+Iosif merse şi când ei.
+
+[s3]
+3. Îşi văzură frăţiorul
+Iată vine visătorul
+Hai să-l omorâm strigară
+Spunem că l-a ucis o fiară.
+
+[s4]
+4. Şi-om vedea la ce s-arată
+A lui vise ce-s visate
+Ruben zise cum voi fraţi
+Sânge vreţi ca să vărsaţi.
+
+[s5]
+5. El i-a sfătuit aşa
+Pentru ca să-l scape vrea
+Şi să-l ducă mai apoi
+Iar la tatăl său înapoi.
+
+[s6]
+6. Vesel Iosif cum soseşte
+Fraţii sar pe el hoţeşte
+Haina lui cea pestriţată
+De pe el o rup îndată.
+
+[s7]
+7. Şi îl trase apoi de-o mână
+Mai la vale într-o fântână
+Unde apă nu era
+Şi-l rostogoli în ea.
+
+[s8]
+8. Fraţii-n urmă se aşează
+Să mănânce de amiază
+Pe cămile apoi la rând
+Negustori pe drum trecând.
+
+[s9]
+9. Spre a Egiptului ţinut
+Cu miresme de vândut
+Iuda atunci vorbeşte tare
+Ce vom câştiga noi oare.
+
+[s10]
+10. Omorându-l pe băiat
+Ne-ncărcăm de un greu păcat
+Hai fraţi ascultaţi de mine
+Hai să-l dăm pe bani mai bine.
+
+[s11]
+11. Şi-l strigă cu toţi în glas
+Şi din groapă afară au tras
+Şi-l vându pe Iosif deci
+Cu arginţi vreo douăzeci.
+
+[s12]
+12. Fraţii-n urmă un ied tăiară
+Haina-n sânge i-o muiară
+Şi-o trimise de curând
+Iar la tatăl lor zicând.
+
+[s13]
+13. Am găsit-o-n câmp la vale
+Nu e a odraslei tale
+Ba e asta, eu o ştiu
+Haina scumpului meu fiu.
+
+[s14]
+14. Fraţi şi rude se-adunară
+Să-l mângâie încercară
+Tot plângând eu am să mor
+Pentru al meu fiu iubitor.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12,s13,s14

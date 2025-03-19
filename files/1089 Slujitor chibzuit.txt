@@ -1,0 +1,36 @@
+[s1]
+Slujitor chibzuit
+Doamne ’ntruna Tu mă vrei
+Să nu fac negoţ pripit
+Risipind talanţii grei
+/ : Să nu schimb valori de sus
+Pentru cele mici de jos
+Care par valori dar nu-s
+Ispitind prin trai frumos : /
+1.
+1089.
+
+[s2]
+Slujitor luminat
+Doamne să m’ajuţi să fiu
+Adevărul Tău curat
+Să nu-l seamăn în pustiu
+/ : Şi sămânţa prin negoţ
+Să cunosc prin Duhul Tău
+Şi în faţa tuturor
+S-aleg binele nu rău : /
+2.
+
+[s3]
+Slujitor credincios
+Doamne să-Ţi rămân mereu
+Să m-avânt mai credincios
+În vărtejul luptei greu
+/ : Steagul Tău să-l înalţi în timp
+Să-l cunoască toţi deplin
+Fiindcă-n toate am biruit
+Pentru slava Ta amin : /
+3.
+
+[order]
+s1,s2,s3

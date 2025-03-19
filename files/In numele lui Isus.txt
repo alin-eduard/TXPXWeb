@@ -1,0 +1,45 @@
+[s1]
+In numele lui Isus
+Noi aici ne-am adunat
+Sa-L slavim sa-L inaltam
+Pe Cel ce este imparat
+In numele lui Isus
+Dumnezeule din cer
+Te rugam sa lucrezi
+Multe inimi sa transformi
+
+[r1]
+In numele in numele Lui
+In numele lui Isus
+Tata noi te rugam sa ne asculti
+Si-orice suflet prezent aici
+Te rugam sa-l eliberezi
+De-orice boala slabiciune
+De-orice duh necurat
+In numele in numele Lui
+In numele lui Isus
+Tata iti multumim ca vei lucra
+
+[s2]
+In numele lui Isus
+Tata noi e rugam
+Biserica s-o curatesti
+De tot ce e rau in ea
+Si-orice duh de clevetire
+De minciuna ssau de ura
+De-orice lupa de partide
+Te rugam sa o feresti
+
+[s3]
+In numele, in numele Lui
+In numele lui Isus
+Tata noi te rugam sa ne asculti acum
+Si uniti prin duhul Tau
+Sa-Ti puem lauda maretia
+Si puterea Ta de Dumnezeu
+In numele, in numele Lui
+In numele lui Isus
+/: Tata iti multumim ca vei lucra :/ x3
+
+[order]
+s1,r1,s2,s3,r1

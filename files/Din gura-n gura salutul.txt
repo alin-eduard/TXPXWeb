@@ -1,0 +1,22 @@
+[s1]
+Din gura-n gura salutul:
+Hristos a inviat!
+„Adevarat ca Hristos a inviat!“
+Invaluise pamantul
+c-un zambet voios
+Mareata veste ca viu e Hristos!
+
+[r1]
+Deci sa ne bucuram acuma si noi!
+Deci sa va bucurati acuma si voi!
+Murind, puterea mortii El nimici:
+De-aceea, ne vom veseli!
+
+[s2]
+De-acum, Biruitorul nostru e viu!
+Cu ani ce trec, eu tot mai bine o stiu;
+Si ce promise Domnul va-mplini:
+De-aceea, ne vom veseli!
+
+[order]
+s1,r1,s2,r1

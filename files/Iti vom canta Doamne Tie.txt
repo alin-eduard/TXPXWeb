@@ -1,0 +1,29 @@
+[s1]
+Îţi vom cânta Doamne Ţie
+Că meriţi lăudat x3
+Îţi vom cânta Doamne Ţie
+Că meriţi lăudat
+Când ne vom întălni
+Şi împreună-Ţi vom cânta
+Te vom lăuda, toţi te vom lăuda
+
+[s2]
+Vom îmbrăca haine albe
+La râul minunat x3
+Vom îmbrăca haine albe
+La râul minunat
+Când ne vom întâlni
+Şi împreună-Ţi vom cânta
+Te vom lăuda, toţi te vom lăuda
+
+[s3]
+Şi vom cina împreună
+La masa Mirelui x3
+Şi vom cina împreună
+La masa Mirelui
+Când ne vom întâlni
+Şi împreună-Ţi vom cânta
+Te vom lăuda, toţi te vom lăuda
+
+[order]
+s1,s2,s3

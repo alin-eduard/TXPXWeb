@@ -1,0 +1,33 @@
+[s1]
+1. Plâng şi cânt de bucurie
+Căci azi l-am aflat
+/: Cum Hristos şi-a dat viaţă
+Ne-a răscumpărat :/
+780.
+2. El pe cruce la Golgota
+A fost răstignit
+Şi prin jertfa Lui cea sfântă
+Am fost mântuit.
+
+[s2]
+3. De aceea azi cu lacrimi
+Şi mult mă gândesc
+Ce-aş putea să-ţi fac Isuse
+Cum să-ţi mulţumesc.
+4. Dar Tu nu ceri de la mine
+Ca să-ti dau nimic
+Decât să-mplinesc cuvântul
+Să stau umilit.
+
+[s3]
+5. Şi apoi cu credinţă mare
+În numele Tău
+Hotărât să lupt Isuse
+Cu păcatul rău.
+6. Isuse cred cu tărie
+Că sângele Tău
+A şters păcatele lumii
+Şi păcatul meu.
+
+[order]
+s1,s2,s3

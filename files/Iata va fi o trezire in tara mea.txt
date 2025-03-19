@@ -1,0 +1,8 @@
+[s1]
+Iată, va fi o trezire în ţara mea
+Iată, va fi o trezire în ţara mea
+De la Nord, Sud, Est şi Vest
+Iată, va fi o trezire în ţara mea
+
+[order]
+s1

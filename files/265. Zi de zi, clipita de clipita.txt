@@ -1,0 +1,35 @@
+[s1]
+1. Zi de zi, clipită de clipită
+Eu primesc sfinte puteri de sus
+Să înving mereu orice ispită
+Fiind condus
+De-al meu iubit Isus.
+265
+Re
+
+[r1]
+Cor:
+El ce-ntrece orice bunătate
+Îmi dă zilnic tot ce-are mai bun
+Sunt convins
+Că Domnul ştie toate
+Lui mă-nchin şi mă supun.
+
+[s2]
+2. Mă ajută-n orice încercare
+Să mă-ncred ferm
+În Cuvântul Său
+Ca să nu pierd
+Dulcea mângâiere
+Ce-o primesc
+Mereu la sânul Său.
+
+[s3]
+3. Mă ajută ca orice durere
+S-o primesc ca şi din mâna Sa
+Ceas cu ceas
+Purtat de-a Sa putere
+Pân-ajung în ţara mea.
+
+[order]
+s1,r1,s2,r1,s3,r1

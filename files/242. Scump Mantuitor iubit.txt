@@ -1,0 +1,27 @@
+[s1]
+1. Scump Mântuitor iubit
+Comoara ce am moştenit
+/:Chiar viaţa de mi-aş da
+Nu Te voi putea uita:/
+242.
+
+[s2]
+2. Tu de toate m-ai scăpat
+De osândă şi de iad
+/:Tu şi multele-mi dureri
+Le-ai schimbat în mângâieri:/
+
+[s3]
+3. Bucurii mi-ai dat din plin
+Şi mi-ai stins orice suspin
+/:De la moarte m-ai scăpat
+Cu Duh Sfânt m-ai sigilat:/
+
+[s4]
+4. O, de-acuma Domnul meu
+Ruga mea va fi mereu
+/: Dă-mi puteri pân' la sfârşit
+Să păstrez ce am primit :/
+
+[order]
+s1,s2,s3,s4

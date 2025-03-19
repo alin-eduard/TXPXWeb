@@ -1,0 +1,43 @@
+[s1]
+Venit din cer, un Copil,
+De slava Lui
+S-­a dezbrăcat
+Şi nu slujit, ci slujind
+Viaţa pentru noi Şi­a dat.
+
+[s2]
+E-al nostru Domn,
+Serv-Împărat
+Şi El ne cheamă să­I urmăm;
+Să-i dăm viaţa jertfă zi de zi,
+Spre slava Lui să o­nchinăm!
+
+[s3]
+În Ghetsimani, părăsit,
+Purtând povara
+Noastră grea,
+Lui Dumnezeu S-a rugat:
+„Nu voia Mea, ci voia Ta!“
+
+[r1]
+E-al nostru Domn, Serv-Împărat
+Şi El ne cheamă să­I urmăm;
+Să-i dăm viaţa jertfă zi de zi,
+Spre slava Lui să o­nchinăm!
+
+[s4]
+Priveşte rănile Lui
+Cum ne vorbesc
+De jertfa Sa;
+Cât de adânc S-a smerit
+Să ne arate dragostea.
+
+[s5]
+Deci să-­nvăţăm să slujim
+Făcându-­L Domn
+În temple vii;
+Slujind ca robi tuturor,
+Prin toate Lui să Îi vom servi.
+
+[order]
+s1,s2,s3,r1,s4,r1,s5,r1

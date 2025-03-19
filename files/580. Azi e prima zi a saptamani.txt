@@ -1,0 +1,55 @@
+[s1]
+1. Azi e prima zi a săptămânii
+Şi venim să te rugăm Stăpâne
+/: Să-Ţi întinzi Tu mâna tare
+Peste această adunare
+Şi să laşi o binecuvântare :/.
+580.     Mi b
+
+[s2]
+2. Astăzi trăim zilele din urmă
+Toarnă Tu dragostea Ta în turmă
+/: O, îmbracă-ţi Tu păstorul
+Ca să înveţe poporul
+Dragoste voieşti
+Mai mult ca jertfă :/.
+
+[s3]
+3. Ne-au slăbit puterile de tot
+Şi privim ca soţia lui Lot
+/: Ne-am întoarce înapoi
+Dar în urmă e război
+O, vino Doamne şi ne du acasă :/.
+
+[s4]
+4. Suferinţa ne-a răpit puterea
+Nu mai simt în suflet mângâierea
+/ : Măreşte-mi Doamne credinţa
+Ca să câştig biruinţa
+Şi să pot şi eu s-ajung la Tine :/.
+
+[s5]
+5. Mulţi săraci stau astăzi la răscruce
+Şi nu ştiu încotro s-apuce
+/: Ieşi-le Doamne în cale
+Şi adu-i în adunare
+Fă-le şi lor parte de iertare :/.
+
+[s6]
+6. Voi acei ce staţi în adunare
+Dumnezeu va ocrotit de boale
+/: Strigaţi azi cu voce tare
+Pentru acei ce-s în spitale
+Dumnezeu le va da vindecare :/.
+
+[s7]
+7. Cei ce sunt bolnavi de ani de zile
+Nu le trebuie
+Nici haine şi nici pâine
+/: Lor le trebuie sănătate
+Şi iertare de păcate
+Şi astea numai Dumnezeu
+Le poate :/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

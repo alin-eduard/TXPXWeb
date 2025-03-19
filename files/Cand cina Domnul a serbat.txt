@@ -1,0 +1,20 @@
+[s1]
+Când Cina Domnul a serbat,
+El atunci pâine a luat;
+A mulţumit şi s-a rugat,
+/:Şi la învăţăcei le-a dat:/
+
+[s2]
+Zicându-le cu graiul Său:
+“Luaţi şi mâncaţi corpul Meu”
+Pe care îl dau pentru voi,
+/:Numai să Îmi fiţi următori:/
+
+[s3]
+Apoi, El potirul luând,
+Şi Părintelui mulţumind,
+“Beţi toţi” a zis El, Domnul meu,
+/:Că e sângele ce-L vărs Eu:/
+
+[order]
+s1,s2,s3

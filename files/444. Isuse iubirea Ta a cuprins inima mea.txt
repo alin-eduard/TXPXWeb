@@ -1,0 +1,68 @@
+[s1]
+444.
+1.Isuse iubirea Ta
+A cuprins inima mea
+Eu de Tine nu m-aş mai putea lăsa
+Nu e-n stare nimeni
+Să-mi răpească dragostea
+Eu de Tine Isuse nu mă voi lăsa
+
+[s2]
+2.Când pe cruce Te-ai jertfit
+Pe mine M-ai mântuit
+Şi viaţa veşnică Mi-ai dăruit
+Cu Tatăl M-ai împăcat,
+Viaţă veşnică Mi-ai dat
+Dumnezeu în veci să fie lăudat.
+
+[s3]
+3.Isuse eu Te iubesc
+Şi vreau ca să Te urmez
+Poruncile Tale vreau să le păzesc
+Viaţa ţi-o dăruiesc
+Fă cu mine ce voieşti
+Pentru Tine vreau Isuse să trăiesc
+
+[s4]
+4.Diavolul şi cu lumea
+Îmi promit fericirea
+Dar fericirea lumii e pierzarea mea
+De mi-ar da toată lumea
+Toată fericirea sa
+Nici atunci Isuse nu Te voi lăsa.
+
+[s5]
+5.Diavolul şi cu lumea
+Îmi promit onoarea sa
+Dar onoarea lumii e căderea mea
+Vreau în lume cât trăiesc
+Ca Isus să mă smeresc
+Slava lui Isus
+Eu vreau ca să o privesc.
+
+[s6]
+6.Diavolul şi cu lumea
+Îmi promit închinarea
+Dar de Tine eu nu m-aş putea lăsa
+Lumea mă poate urî,
+Mă poate şi prigoni
+Dar pe Tine Isuse nu Te voi părăsi.
+
+[s7]
+7.Diavolul şi cu lumea
+Vor să-mi ia viaţa mea
+Dar de Tine nu m-aş mai putea lăsa
+Eu vreau în Domnul
+Să mor scumpul meu Mântuitor
+Şi voi învia în ziua de apoi.
+
+[s8]
+8.Isuse când vei veni
+Din mormânt mă vei trezi
+Sus în cer la Tine Tu mă vei răpi
+Şi în raiul cel ceresc
+Voi slăvi pe Dumnezeu
+Ca iubit un păcătos cum sunt şi eu.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

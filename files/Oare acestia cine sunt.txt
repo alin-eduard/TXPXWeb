@@ -1,0 +1,38 @@
+[s1]
+Oare-aceştia cine sunt
+Care au pe cap cununi?
+Botezaţi cu Duhul Sfînt
+Ei fac semne şi minuni!
+
+[r1]
+Ei mîinile peste bolnavi şi-au aşezat
+Şi cei bolnavi la ruga lor s-au vindecat
+/: Ei au luat în mînă şerpii veninoşi
+Aceştia-au fost adevăraţii credincioşi. :/
+
+[s2]
+Noi suntem cu ei părtaşi
+La acelaşi har slăvit
+Domnul la ai Lui urmaşi
+Duhul Sfînt le-a dăruit.
+
+[s3]
+Ei şi morţi au înviat
+În Numele lui Isus
+Uşile le-au descuiat
+Cînd în temniţi au fost puşi.
+
+[s4]
+Ei din lanţuri şi butuci
+Au privit spre cer cîntînd
+Şi-au murit ucişi pe cruci
+Pentru Domnul triumfînd.
+
+[s5]
+Domnul Dumnezeul lor
+E acelaşi neschimbat
+El e bun şi-ndurător
+El e sfînt şi minunat!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

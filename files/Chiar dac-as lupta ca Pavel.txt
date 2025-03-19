@@ -1,0 +1,41 @@
+[s1]
+Chiar dac-as lupta ca Pavel
+în temnită când era,
+/: Era greu lantul pe mână
+dar pe Domnul lăuda :/
+
+[s2]
+Era greu lega în lanturi
+Si butuci erau grei,
+/: Nu-i păsa de-a lui viată
+Că-L slăvea pe Dumnezeu. :/
+
+[s3]
+Într-un timp, la miezul noptii,
+o cântare a cântat,
+/: Lanturile si butucii de pe el,
+jos au picat. :/
+
+[s4]
+Astazi Domnul, cel ce sade
+pe scaun de domnie,
+/: Sfarama pietre, rupe lanturi, scapa oameni din robie. :/
+
+[s5]
+Multi martiri de-ai nostri, Doamne ,, varsa lacrimi pe altar,
+/: Asteptand ziua-ntalnirii cu Tine, in Canaan. :/
+
+[s6]
+Vezi copii Tăi de astăzi
+cum te-aşteaptă ca să vii,
+/: Vino, scapă-I din necazuri,
+du-I cu Tine-n veşnicii. :/
+
+[s7]
+Iar, prin valurile grele,
+să nu-şi piardă credinţa,
+/: Vino Tu, Isuse dragă,
+să ne dai biruinţa. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

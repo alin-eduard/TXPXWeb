@@ -1,0 +1,26 @@
+[s1]
+În mreaja vieţii de păcat
+Trăit-am, Doamne îndurat
+Acum la Tine vin cu dor
+O, scump şi dulce Salvator
+
+[r1]
+Isus, la crucea Ta eu vin
+Şi vreau viaţa să Ţi-o-nchin
+/: Primeşte, Doamne, ruga mea
+Şi dă-mi în dar iertarea Ta :/
+
+[s2]
+În valuri şi-n ispite-am fost
+Trăit-am viaţa fără rost
+De fărdelegi împresurat
+O, Doamne, vin să fiu iertat
+
+[s3]
+În dragostea-Ţi m-ă chemi-acum
+Cu Tine voi merge pe-un drum
+Şi cânt voios şi-s fericit
+Isus, în veci să fii slăvit
+
+[order]
+s1,r1,s2,r1,s3,r1

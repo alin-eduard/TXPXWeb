@@ -1,0 +1,23 @@
+[s1]
+Da, vreau să cred şi să mă-ncred,
+Pe mine m-a primit aşa cum sunt,
+Al Său Cuvânt azi mi-a adeverit
+
+[r1]
+Credinţa mea în jertfa Sa
+Primind, am fost primit,
+Sunt liniştit, sunt fericit,
+De Domnul sunt iubit!
+
+[s2]
+Şi tu să ştii: oricând poţi fi
+De El aşa primit, şi liniştit,
+Şi fericit, de El mereu iubit!
+
+[s3]
+Isus în dar, cu al Său har,
+Îmbie orişicând, ca să-L primim,
+Ca să-L iubim, din inimă şi gând
+
+[order]
+s1,r1,s2,r1,s3,r1

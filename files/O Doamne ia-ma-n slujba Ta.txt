@@ -1,0 +1,33 @@
+[s1]
+O, Doamne ia-mă-n slujba Ta
+Cu viaţa mea, cu tot ce am
+Şi clipele, şi zilele
+Să fie ale Tale.
+
+[r1]
+Ia-mă pe mine însumi,
+Fii Tu stăpân pe mine;
+Ia-mă cu tot ce am, o, Doamne,
+Şi fă ce vrei cu mine.
+
+[s2]
+Ia-mi gura, Doamne-n slujba Ta
+Să îţi vestească dragostea
+Şi buzele dreptatea Ta
+Să o mărturisească.
+
+[s3]
+Ia-mi glasul meu
+să cânte doar mărirea Ta
+Şi-al Tău scump har,
+Să laude aşa cum Tu
+Doreşti cereasca îndurare!
+
+[s4]
+Smerit mă plec ‘naintea Ta
+Şi Îţi supun voinţa mea.
+Te rog să-mi umpli inima
+Cu dragoste de Tine!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

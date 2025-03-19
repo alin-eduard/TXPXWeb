@@ -1,0 +1,27 @@
+[s1]
+De mult profeţii-au profeţit
+Că se va naşte El
+Mesiaa cel mult aşteptat
+Numit Emanuel.
+
+[r1]
+Azi s-a născut în Betleem
+Un salvator minunat
+Cântaţi, cântaţi, vă bucuraţi,
+Căci s-a născut în Betleem
+Cu-adevărat.
+
+[s2]
+Din cer un înger e trimis
+Să spună tuturor
+De evestea bună de Isus
+De harul salvator.
+
+[s3]
+Se bucură acum iar
+Creştinii pe pământ
+Din inimă din nou răsar
+Nădejdi ce dau avânt.
+
+[order]
+s1,r1,s2,r1,s3,r1

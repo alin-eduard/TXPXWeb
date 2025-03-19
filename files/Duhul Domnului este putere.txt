@@ -1,0 +1,14 @@
+[r1]
+Duhul Domnului, este putere
+Duhul Domnului e tăria mea.
+Duhul Domnului, este putere
+El îmi dă victoria.
+
+[r2]
+Cel ce e în noi e mai tare,
+Decât duhul veacului.
+Suntem mai mult decât biruitori,
+Prin puterea Domnului...
+
+[order]
+r1,r2,r1,r2,r1

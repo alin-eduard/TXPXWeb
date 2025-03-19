@@ -1,0 +1,68 @@
+[s1]
+Când, Joi-seara după Cină,
+S-a dus Isus în grădină,
+Şi-a luat cu Sine trei
+Dintre ucenicii Săi,
+
+[s2]
+Şi El S-a dus mai în sus,
+Plângând, pe genunchi S-a pus
+Şi-a zis: „Părinte! Părinte,
+De se poate, ia aminte
+
+[s3]
+Să nu beau acest pahar
+Căci, vai, cât e de amar!..."
+Atunci un înger de sus
+Mângâiere I-a adus.
+
+[s4]
+Apoi S-a-ntors la ai Săi,
+I-a găsit dormind toţi trei
+Şi le-a zis: „Cum, nu puteţi
+Cu Mine să privegheaţi?"
+
+[s5]
+Atunci au venit ostaşi,
+Înarmaţi ca şi arcaşi,
+Şi Iuda era cu ei
+Trimis de arhierei.
+
+[s6]
+Iar Isus, cu glasul blând,
+I-a-ntrebat aşa zicând:
+„Ce sunteţi aşa-narmaţi
+Şi pe cine căutaţi?"
+
+[s7]
+Iar cohorta I-a răspuns:
+„Noi căutam pe Isus..."
+Atunci mâinile Hristos
+La un loc le-a pus frumos
+
+[s8]
+Şi-a răspuns cu glasul blând:
+„De Mă căutaţi, Eu sunt!"
+Ei L-au prins şi L-au legat
+Şi la chinuri au plecat.
+
+[s9]
+Şi L-au dus pe-ngusta cale,
+La Golgota, loc de jale.
+Crucea jos Îl apăsa
+Iar Isus o ridica.
+
+[s10]
+Şi Îl împingeau 'nainte
+El zicea: „Iartă-i, Parinte!"
+O, Fiul lui Dumnezeu,
+Mult ai suferit şi greu,
+
+[s11]
+Pentru sfânta Ta dreptate
+Ei Te-au judecat la moarte.
+Cunună de spini I-au pus
+La scumpul nostru Isus.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11

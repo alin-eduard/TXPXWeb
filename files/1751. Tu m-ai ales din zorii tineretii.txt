@@ -1,0 +1,33 @@
+[s1]
+1751.
+1. Tu m-ai ales din zorii tinereţii
+Tu m-ai chemat Isuse drag la Tin`
+/:Tu m-ai chemat
+Să-mi dai apa vieţii
+Tu m-ai chemat
+Să Te urmez pe Tin`:/
+
+[s2]
+2. Tu m-ai ales căci m-ai iubit în lume
+Şi dragostea Ta Tu mi-ai dăruit
+/:Mi-ai dăruit iertarea-n
+Sfântul Nume
+A Domnului Isus cel proslăvit:/
+
+[s3]
+3. Ce-aş fi făcut de nu erai cu mine
+Prin suferinţă şi tot ce-am avut
+/:De nu erai o, Doamne lângă mine
+Ce-aş fi făcut
+De nu-mi erai Tu scut:/
+
+[s4]
+4. Eu nu ştiu Doamne
+Ce-mi stă înainte
+Dar ştiu c-ai Tăi cu Tine-au biruit
+/:Rămâi cu min`
+Pân` la sfârşitul vieţii
+Să pot şi eu cu Tine birui:/
+
+[order]
+s1,s2,s3,s4

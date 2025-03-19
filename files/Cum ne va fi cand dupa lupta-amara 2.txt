@@ -1,0 +1,51 @@
+[s1]
+Do major
+Cum ne va fi când, dup-o luptă-amară
+Şi dup-un trai în loc întunecos,
+/: Din străinătaţi, ne-ntoarcem la cea ţară
+Ce-i pregătită nouă de Hristos?! :/
+
+[s2]
+Când scuturam praful de pe picioare,
+Ne luam adio de la suferinţi;
+/: De lacrimi ştergem faţa, de sudoare,
+Căci moştenim sfinte făgăduinţi. :/
+
+[s3]
+Cum ne va fi, când râuri de lumină
+Se varsă-n valuri peste noi în veac
+/: Şi când, curaţi de oricine ne-ntină,
+Vom fi mereu lui Dumnezeu pe plac?:/
+
+[s4]
+Când nu mai e nimic să ne apese,
+Nimic ce face pe om slab, sfios,
+/: Ca cetăţeni ai unei ţări alese,
+Vom fii, cu toţi, ai casei lui Hristos. :/
+
+[s5]
+Cum ne va fi când, cu cântări măreţe,
+Ne-a-ntâmpină în slăvi venind de sus,
+/: În cete, mii de îngeri, sfinte feţe,
+Triumfători ai casei lui Isus?! :/
+
+[s6]
+Când transformaţi de sfânta bucurie,
+Va trebui să intonăm şi noi
+/: Acea cântare ce nimeni n-o ştie,
+Decât aleşii Mielului eroi?! :/
+
+[s7]
+Cum ne va fi când, de aici-nainte,
+Nimic şi nimeni nu ne-a mai opri
+/: De-a ne lăsa prada iubirii sfinte,
+Cu care Tatăl, Fiul ne-a iubit?! :/
+
+[s8]
+Când, de pe ochi, ne cad solzii credinţei
+Cum piere ceata-n soare arzător,
+/: Şi vom vedea,-n plinătatea fiinţei,
+Fiul pe tron, ca Rege-al regilor?! :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

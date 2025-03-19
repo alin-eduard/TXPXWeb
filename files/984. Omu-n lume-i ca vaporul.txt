@@ -1,0 +1,42 @@
+[s1]
+984.
+1. Omu-n lume-i ca vaporul
+Are lipsă de-ajutor
+Dacă n-are cârmaci bun
+Vaporul merge-n adânc.
+
+[r1]
+Cor:
+/: Fii gata :/ întotdeauna
+Candela să-ţi fie plină (de lumină)
+Haina să-ţi fie curată şi spălată
+Şi să n-aibă nicio pată niciodată
+Candela să-ţi ardă întruna(una, una)
+Până vei primi cununa.
+
+[s2]
+2. Omu-n lume-i ca o vie
+Viaţa i-o călătorie
+Aşa a zis Mântuitorul
+Eu sunt Calea şi Adevărul.
+
+[s3]
+3. Eu sunt Calea şi Viaţa
+Aşa Scriptura ne-nvaţă
+Sunt pe lume două căi
+Poţi să mergi pe care vrei.
+
+[s4]
+4.La urmă vei fi întrebat
+Pe ce cale ai umblat.
+De-ai umblat pe calea dreaptă
+Domnul Isus te aşteaptă.
+
+[s5]
+5. De-ai umblat pe calea rea
+N-ai să vezi fericirea
+Şi atunci te va-ntreba
+Ce-ai făcut în viaţa ta.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,72 @@
+[s1]
+1. Căci Domnul nu doreşte
+Moartea păcătosului
+Ci-ar vrea să se întoarcă
+Din calea lui cea rea
+399								   Re m
+
+[s2]
+Să vină la lumină
+Şi să fie mântuit
+Căci vremea îndurării
+E-aproape de sfârşit.
+
+[r1]
+Cor: /:Căutaţi pe Domnul
+Câtă vreme se poate găsi
+Să chemăm Numele Lui
+Cel mare
+Care poate şi azi mântui.:/
+
+[s3]
+2.Căci Dumnezeu
+nu ţine-n seamă
+Al tău murdar trecut,
+A ta necunoştinţă
+În care te-ai zbătut
+
+[s4]
+El ţi-a deschis o poartă sus
+Pe care poţi veni
+E poarta mântuirii,
+Deci nu mai zăbovi!
+
+[s5]
+3. Căci Domnul
+pentru tine
+Pe o cruce a murit
+Acolo la Golgota
+Ca să fii mântuit
+
+[s6]
+Iar Tatăl în mărire
+Din mormânt L-a înviat
+Şi-n marea Lui iubire
+Poţi fi şi tu iertat.
+
+[s7]
+4. Deci vino la izvorul
+Care curge neîncetat
+Şi bea din apa vie
+Tu suflet însetat
+
+[s8]
+Căci mâine se prea poate
+Ca să fie prea târziu
+Deci vino azi la Domnul
+Din moarte şi pustiu.
+
+[s9]
+5. În cer e sărbătoare
+Pentru omul păcătos
+Când el de la pierzare
+Se-ntoarce la Hristos
+
+[s10]
+N-ai vrea să fii acela
+O, amicul meu iubit
+Întoarce-te la Domnul
+Ca să fii mântuit.
+
+[order]
+s1,s2,r1,s3,s4,r1,s5,s6,r1,s7,s8,r1,s9,s10,r1

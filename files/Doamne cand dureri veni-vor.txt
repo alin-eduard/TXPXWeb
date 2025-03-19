@@ -1,0 +1,26 @@
+[s1]
+Doamne, când dureri veni-vor,
+Când cel tare­abia va sta,
+Liniştit voi fi cu totul,
+Sunt păzit de mâna Ta.
+
+[r1]
+Mă păzeşte, mă păzeşte,
+De-orice rău mă ocroteşte,
+Mă păzeşte, mă păzeşte,
+Doamne, sfântă mâna Ta!
+
+[s2]
+Când ispita mă­nconjoară
+Şi văd lupta celui rău,
+Cu putere mă ridică
+Şi mă scapă braţul Tău.
+
+[s3]
+Las’ să vină dar furtuna,
+Orice val de m­ar lovi,
+Ştiu că doar privind la Tine
+Izbăvire voi primi.
+
+[order]
+s1,r1,s2,r1,s3,r1

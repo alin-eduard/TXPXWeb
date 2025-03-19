@@ -1,0 +1,32 @@
+[s1]
+Păstraţi legătura frăţească
+Şi părtăşia sfântă prin har
+Făclia fie-vă mereu aprinsă
+Urmând mereu pe Domnul la Calvar
+
+[r1]
+/:Să fim lumini, să fim sare
+Să fim epistole vii
+Căci în curand ISUS apare
+Şi vom fi cu EL în veşnicii:/
+
+[s2]
+Păstraţi legătura în rugăciune
+Şi umplerea cu Duhul Său cel Sfânt
+Să ducem Evanghelia în lume
+S-o ducem pan' la margini de pământ
+
+[s3]
+Veniţi să depunem mărturie
+Cu viaţa noastră până la Calvar
+Căci Dumnezeu ne-a dat o-mpărăţie
+Şi lupta noastră nu va fi-n zadar
+
+[s4]
+Slujiiţi cu bucurie lucrarea
+O clipă să nu staţi neroditori
+Să vină har să vină îndurarea
+Chemaţi-i la ISUS pe-ascultători
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

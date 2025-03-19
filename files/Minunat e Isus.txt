@@ -1,0 +1,34 @@
+[s1]
+Minunat e Isus,
+Domnul meu cel de sus,
+Pe pământ nimeni nu e ca El!
+E văzut şi­auzit
+Prin Cuvântul Său vestit,
+Minunat, minunat e Isus!
+
+[r1]
+Ce plăcut, ce frumos
+E să fii cu Hristos,
+Să mergi cu El pe cale,
+Minunat e Isus,
+Domnul meu cel de sus,
+Minunat, minunat e Isus!
+
+[s2]
+Minunat e Isus,
+Domnul meu cel de sus,
+Pe pământ nimeni nu e ca El!
+Pentru mine­a murit,
+De păcat m­a curăţit,
+Minunat, minunate Isus!
+
+[s3]
+Minunat e Isus,
+Domnul meu cel de sus,
+Pe pământ nimeni nu e ca El!
+El îmi umple mereu
+Tot mai mult lăuntrul meu,
+Minunat, minunat e Isus!
+
+[order]
+s1,r1,s2,r1,s3,r1

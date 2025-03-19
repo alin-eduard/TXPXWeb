@@ -1,0 +1,47 @@
+[s1]
+806.											     Sol
+1. E lumea în mişcare
+Ceva se prevesteşte?
+Pământul e-n mişcare
+Pluteşte un mister
+
+[s2]
+Răspunsul la întrebare:
+Isus soseşte
+Cu alai de sărbătoare
+Cu oastea cea din cer.
+
+[r1]
+Cor:
+Vine Isus
+Vine Mirele pe nori
+Sunteţi gata voi fecioare
+Staţi mereu în aşteptare
+Gata pentru-ntâmpinare.
+
+[s3]
+2. E pregătire mare
+Mireasa este gata
+Aşteaptă doar semnalul
+Stă gata pentru zbor
+
+[s4]
+Se aude-n cer strigarea:
+”O, Maranata”
+O, vino, vino Isus
+Te aşteptăm cu dor.
+
+[s5]
+3. Căci semnele ne-arată
+Că mult nu este
+Curând se-arată zorii
+Iar noaptea s-a sfârşit
+
+[s6]
+Din cer cu slavă mare
+Isus soseşte
+Din mii şi mii de stoluri
+Cu El ne-om întâlni.
+
+[order]
+s1,s2,r1,s3,s4,r1,s5,s6,r1

@@ -1,0 +1,40 @@
+[s1]
+Veniţi la Mine,
+voi trudiţi şi-mpovăraţi
+Odihnă veţi afla
+Veniţi la Mine, luaţi jugul Meu
+Căci el nu este greu.
+
+[r1]
+/: De ce mai amâi, da, de ce?
+Sfîrşitul e-aproape, nu amîna!
+De ce mai amai?
+Poate la noapte Isus va veni,
+unde vei fi? Nu amîna! :/
+
+[s2]
+Te cheamă azi al tău Mantuitor
+Să-ţi dea El ajutor
+Căci sarcina ta este foarte grea
+Nu poţi merge aşa.
+
+[s3]
+Isus te cheamă azi să vii la El
+Să fii şi tu un miel
+Căci El este Păstorul tuturor
+Şi-ţi vine-n ajutor.
+
+[s4]
+Isus te cheamă şi pe tine azi
+Să scapi de-orice necaz
+Ţi-a pregătit un loc frumos nespus
+Acolo în cer sus.
+
+[s5]
+Din lume eşti chemat să vii la El
+La blîndul mieluşel.
+Grăbeşte-te, nu-ntîrzia deloc
+Să scapi de iad şi foc!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

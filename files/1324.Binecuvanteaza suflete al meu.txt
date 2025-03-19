@@ -1,0 +1,63 @@
+[s1]
+Psalmul 104           1324.   Mi b
+1.  Binecuvintează suflete al meu
+Binecuvintează-n veci pe Dumnezeu
+Doamne Tu eşti mare şi nemăsurat
+Stai în strălucire şi eşti înveşmântat.
+2.     Cu lumina ca-ntr-o haină Te-nveleşti
+Cerul ca un cort întinzi şi străluceşti
+Faci din ape vârful locului Tău Sfânt                                                                                      	 Din nori îţi faci carul
+Şi umbli pe aripi de vânt.
+
+[s2]
+3.  Din vânt îţi faci solii Tăi acei iubiţi
+Şi din flăcări slujitorii Tăi temuţi
+Tu aşezi pământu-n temelia Sa
+Şi el niciodată nu s-a clătina.
+4.  Tu-l acoperisei cu pământ atunci
+Ca şi cu o haină care o arunci
+Apele stăteau pe munţi şi aşa
+Au pornit să fugă de mânia Ta.
+
+[s3]
+5.  La-l Tău glas de tunet Doamne au fugit
+Peste munţi şi văi şi nu s-au mai oprit
+Până-n locul care ele apoi stăteau
+Până-n locul care hotărâta-i Tu.
+6.  Margini Tu le-ai pus şi ele vor păzi
+Să nu se întoarcă lume acoperind
+Tu faci să ţâşnească râurile-n văi
+În ele curg toate printre munţi şi văi.
+
+[s4]
+7. Tu adăpi la ele toate fiarele
+Îi astâmpăr setea Dumnezeule
+Păsările cântă înspre slava Ta
+Minunat eşti Doamne în lucrarea Ta.
+8.  Tu faci ca să crească iarba pe pământ
+Îi hrăneşti pe oameni prin al Tău cuvânt
+Ai făcut şi luna soare ai făcut
+Cu înţelepciune pământul L-ai umplut.
+
+[s5]
+9.  Le dai Doamne hrană ele o primesc
+Când deschizi Tu mâna află bunătăţi
+Îţi ascunzi Tu faţa ele atunci mor
+Se întorc cu toate în ţărăna lor.
+10.  Îţi trimiţi suflarea ele se zidesc
+Tot pământu-atunci Tu îl înoieşti
+În veci ca să ţină slava Domnului
+Ce mare lucrare e lucrarea Lui.
+
+[s6]
+11.  De priveşti pământul el s-a cutremurat
+De atingi Tu munţii ei vor fmega
+Domnului canta-voi cât voi mai trăi
+Voi slăvi pe Domnul eu cât voi mai fi
+12.  Binecuvintează suflete al meu
+Binecuvinteaz-n veci pe Dumnezeu
+Lăudaţi pe Domnul toţi aleşi Lui
+Laudaţi pe Domnul si numele Lui
+
+[order]
+s1,s2,s3,s4,s5,s6

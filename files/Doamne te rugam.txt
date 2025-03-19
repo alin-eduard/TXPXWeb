@@ -1,0 +1,12 @@
+[s1]
+Doamne te rugăm
+Revarsă din harul Tău
+Pentru Mila Ta mare
+Dă-ne din harul Tău.
+
+[s2]
+/: Stăm şi-aşteptăm
+Să torni Duhul Tău.:/
+
+[order]
+s1,s2

@@ -1,0 +1,32 @@
+[s1]
+Vezi cum zilele se duc
+Şi anii trec,
+Vezi cum clipe se topesc
+Repede in vânt.
+Vreau să-ţi spun acum omule
+Să te opreşti,
+La trecutul tău cel rău
+Chiar azi să te gândeşti.
+
+[r1]
+/: Căci va fi în curând
+răsplata celor drepţi,
+Dumnezeu te va-ntreba
+cum ai trăit aici.
+Şi dacă viaţa ta
+pe pământ se va schimba,
+Să ştii că Salvatorul
+pe veci te va ierta. :/
+
+[s2]
+Dumnezeu s-a arătat
+Prin Isus,
+L-ai respins L-ai răstignit
+Pe Calvar.
+Sânge-a curs pentru păcatul meu
+Şi-al tău,
+Nu-L respinge crede-n El
+Şi vei fi salvat.
+
+[order]
+s1,r1,s2,r1

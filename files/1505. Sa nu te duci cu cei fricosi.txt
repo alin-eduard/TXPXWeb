@@ -1,0 +1,32 @@
+[s1]
+Să nu te duci cu cei fricoşi                                                                        Nici să lucrezi şi nici să stai
+Căci mulţi au fost de frică		                                        scoşi Din moştenire şi din rai
+1505
+1.
+
+[s2]
+2.   Să nu te încrezi în cei pripiţi
+Nici să-i urmezi nici să-i asculţi
+Căci mulţi au fost de ei zdrobiţi  Şi înşelaţi atât de mulţi.
+3.Să te fereşti de cel flecar
+În orice loc s-ar fi urcat
+Căci mulţi s-au despărţit de har
+Atraşi de acest plăcut păcat.
+
+[s3]
+4. Să nu primeşti pe cel viclean
+Oricât ţi-ar cuvânta frumos
+Căci mulţi sunt duşi lngă Satan
+De acest vrăşmaş al lui Hristos
+5. Să nu însoţeşti pe cel viclean
+Oricine ar fi şi orice ar vrea
+De păcate-s plini toţi cei ce au          stat
+Şi au mers în casa lor cea rea.
+
+[s4]
+6.  Să nu laşi ne-mplinit vreun gând                  Din tot cuvântul care-l ai
+Căci mulţi au mers la iad spunând
+La alţii cum se merge-n rai.
+
+[order]
+s1,s2,s3,s4

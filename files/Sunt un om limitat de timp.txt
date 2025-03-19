@@ -1,0 +1,40 @@
+[s1]
+Sunt un om limitat de timp
+Sunt om limitat de ceea ce simt
+Dar in rugaciune cand stau naintea Ta
+Doamne limita mea e puterea Ta
+Cand ma rog cu credinta eu stiu Tatal meu
+Rugaciunea mea va fi-n potirul Tau
+Cand ma plec pe genunchi eu stiu Domnul meu
+Ca cerul e martor la gandul meu
+De aceea indrept rugaciunea mea
+Spre acei ce sufar in inchisoare grea
+Pentru locuri in lume in care mai sunt
+Crestini prigoniti pentru numele sfant
+
+[s2]
+Eu stiu, stiu Doamne ca-i iubesti
+Ca ei sunt cei spre care privesti
+Si vreau sa-Ti multumesc Domnul meu
+Ca Tu vei sta langa ei mereu
+
+[s3]
+Dar simt acum in inima mea
+Si vreau sa ma rog pentru tara mea
+Sa strig spre Tine sa strig nencetat
+Ca-n tara mea e atata pacat
+Copii ce-aduc durere-n parinti
+Parinti ce parasesc pe copii
+Crestini ce-ti fac un nume urat
+Si nu recunosc ca Tu vii in curand
+Pentru ei ma rog lasa duhul Tau
+Sa schimbe ce-i rau in poporul meu
+
+[s4]
+Doamne stiu este voia Ta
+Sa ne-nchinam cu toata inima
+Si in curand pe nori Tu vei veni
+Vei lua la cer pe ai Tai copii
+
+[order]
+s1,s2,s3,s4

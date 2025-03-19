@@ -1,0 +1,32 @@
+[s1]
+Ştiu că­-ntr-­o zi cântarea mea
+Pe­acest pământ va înceta;
+Dar bucuros, în veşnicii
+Pe Domnul meu Îl voi slăvi.
+
+[r1]
+Şi faţă-­n faţă­-L voi vedea,
+Căci m­a salvat prin jertfa Sa,
+Îi voi cânta preafericit,
+Prin harul Său m­-a mântuit!
+
+[s2]
+Va fi o zi când voi pleca,
+Pământu­-acesta voi lăsa,
+Dar ştiu că Domnul meu iubit
+O casă­-n cer mi-­a pregătit.
+
+[s3]
+Iar la al vieţii asfinţit,
+Când lupta grea am isprăvit
+Isus cu drag mă va chema
+Să intru în odihna Sa.
+
+[s4]
+Dar până-­atunci voi priveghea,
+Voi aştepta chemarea Sa;
+Spre Domnul meu privesc cu dor,
+Biruitor spre cer să zbor.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

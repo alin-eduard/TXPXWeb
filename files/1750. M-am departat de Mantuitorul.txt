@@ -1,0 +1,43 @@
+[s1]
+1750.
+1. M-am depărtat de Mântuitorul
+Ce m-a salvat
+Plângând Te caut
+Isuse Doamne îndurerat
+/:Întinde-ţi o, Doamne sfinte
+Tu Mâna Ta
+Şi mă ridică iar la lumină
+Din noaptea grea:/
+
+[s2]
+2. Redă-mi Isuse dragostea-aprinsă
+Ce-aveam întâi
+Şi-apoi cu mine în veşnicie
+Tu să rămâi
+/:Puterea şi sufletul meu
+Şi inima
+Doresc să fie pe veşnicie
+În slujba Ta:/
+
+[s3]
+3. La incheiere o rugă sfântă
+Înalţ în sus
+Prin jertfa sfântă de pe Golgota
+Înspre Isus
+/:Dă-mi Doamne Isuse sfinte
+Ceea ce-ţi cer
+Să pot să fiu eu pe veşnicie
+Cu Tine-n cer:/
+
+[s4]
+4. Iar pe poporul care Te cheamă
+De pe pământ
+Ascultă-i ruga ce şi-o ridică
+Spre tronul sfânt
+/:Revarsă cu prisosinţă
+Din al Tău har
+Dă-i bucurie şi veşnicie
+Viaţă-n dar:/
+
+[order]
+s1,s2,s3,s4

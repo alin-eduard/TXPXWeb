@@ -1,0 +1,35 @@
+[s1]
+1048.
+1.   Vorbea azi noapte încet ca gândul
+Eu vorba lor o-nţelegeam
+(: Vorbea cerul şi cu pământul
+De vorba lor mă-nspăimântam :).
+
+[s2]
+2.      Aş vrea să-ţi spun o vorbă frate
+Ce ne aşteaptă pe-amândoi
+(: Noi suntem condamnaţi la moarte
+Din cauza lumii dintre noi.:)
+3.      Eu m-oi preface-n sul de piele
+Când Domnul se va arăta
+(:Mă voi topi cu-a mele stele
+Şi-n lac de foc mă voi schimba :).
+
+[s3]
+4.         Iar tu când mă vei vedea aşa
+Cu groază te-i cutremura
+(: Pe tine-atunci mă voi revărsa
+Şi-n lac de foc ne vom schimba :).
+5.         Şi dac-aşa ne e sfârşitul
+Să plângem cerule amândoi
+(: Pe omul mult nesocotitul
+Care va arde-n foc cu noi :).
+
+[s4]
+6.         Tu ai dat ploaie şi căldură
+Eu hrană pentru-a Sa făptură
+( : Dar omul tot n-a cunoscut
+Pe Domnul care l-a făcut : ).
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,34 @@
+[s1]
+/: Dumnezeu este tăria
+Domnul este stânca mea
+Îl voi preamări într-una
+Îl voi binecuvânta :/
+
+[r1]
+Să cântăm cu bucurie
+Să strigăm trăiască Domnul
+Căci din ceruri mântuirea
+A venit prin El Shadai
+Laudă, slavă şi mărire
+El a izbăvit Sionul
+Să-I aducem toată viaţa
+Glorie lui Adonai.
+
+[s2]
+/: Dumnezeu mă izbăveşte
+Când mă aflu-nconjurat
+De vrăjmaşul ce răcneşte
+Domnul fie lăudat :/
+
+[s3]
+/: Când străbat prin întuneric Domnul e lumina mea
+El îmi întăreşte paşii
+Ca să merg pe calea Sa :/
+
+[s4]
+/: Chiar de trec prin valea morţii Nu mă tem nu mă-ngrozesc
+Eu la Domnul am salvarea
+Eu pe Domnul îl iubesc :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,32 @@
+[s1]
+Doar lângă Tine aflu pacea,
+când totu-n jurul meu e plâns
+Doar Tu îmi mângâi zbuciumarea
+când sufletul mie-n chinuri strâns
+Doar lângă Tine aflu-alinul
+când plânge inima amar
+si ochii-ntunecati de lacrimi,
+Tu-i readuci seninul iar.
+
+[s2]
+Doar lângă Tine aflu odihna
+când marea urlă în jurul meu
+Vânturi urâte si cumplite
+si-n ceasul ispitirii greu
+Doar Tu împrăstii nori negri
+si-nlături trăsnetul cumplit
+Tu-mi rupi zăvoarele de-aramă
+spre loc curat si linistit.
+
+[s3]
+Adânc în fata Ta-mi răsare
+si glasul tău îmi spune blând
+Poti stinge marea frământare
+o pace-adâncă aducând
+Doar Tu-mi poti linisti furtuna
+si valurile ce ne zbat
+Când noaptea grea de mult ne-apasă
+si sufletul ni-e prea-ncercat.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,45 @@
+[s1]
+1286.              Fa m
+1. E mare judecată la Gabata
+Se judecă un Miel nevinovat
+La moarte strigă-nfierbântată gloata
+La răstignire fie condamnat
+Eu nu găsesc în acest om vreo vină
+Deci daţi-mi apă mâinile să-mi spăl
+Privea Pilat la faţa cea senină
+/  : Eu n-am nimic eu n-am nimic cu El : /
+Cor:      Golgota locul Căpăţânii
+Golgota loc de plâns amar
+Golgota unde cresc doar spini
+O Golgota o calvar
+
+[s2]
+Cor: 	Golgota locul Căpăţânii
+Golgota loc de plâns amar
+Golgota unde cresc doar spini
+O Golgota o calvar
+2. Privea Maria într-un trecut de-o parte
+Cu-n foc şi-o văpaie în priviri
+O cum să fie condamnat la moarte
+O cum să uite atâtea amintiri
+Minuni cu pâini şi peşti şi apă vie
+Şi binecuvântări de copilaşi
+Credeam c-o să rămâi o veşnicie
+/:O Doamne oare astazi cui ne lasi:/ .
+
+[s3]
+Cor: 	Golgota locul Căpăţânii
+Golgota loc de plâns amar
+Golgota unde cresc doar spini
+O Golgota o calvar
+3. O nu mă plângeţi le şopteşte Domnul
+Plângeţi-vă copii şi pe voi
+Căci iată Eu voi izbăvi Sionul
+Mă voi întoarce-n vremea de apoi
+Vom fi împreună iar o veşnicie
+Şi toată suferinţa vom uita
+Va fi iar pace pe această glie
+/:Şi pentru veci noi ne vom bucura:/
+
+[order]
+s1,s2,s3

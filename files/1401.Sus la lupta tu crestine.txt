@@ -1,0 +1,73 @@
+[s1]
+1401.
+1.  Sus la luptă tu creştine
+Sus mai sus mai sus
+Şi să ai mereu în tine
+Dragostea de sus.
+/: Biruinţa este ţelul
+Celui care-i credincios
+Şi în luptă nu eşti singur
+Că eşti cu Hristos./:
+
+[s2]
+2.  Birui-vei, birui-vei
+Dacă lupţi mereu
+Şi învinge-vei în viaţă
+Chiar pe eul tău.
+/: Urmăreşte în viaţă
+Pacea sfântă să o ai
+Şi-n sfinţenie curată
+Ca s-ajungi în rai/:.
+
+[s3]
+3.  Raiul ţara fericirii
+Celui ostenit
+Care rabdă şi veghează
+Până la sfârşit.
+/: Iată partea ceea bună
+Vino alege şi tu azi
+Şi aşa cu siguranţă
+Vei scăpa de iad/:
+
+[s4]
+4.  Orice poftă şi plăcere
+Dacă ai refuzat
+Vino şi te-nchină frate
+Domnului Isus.
+/:Nici un împărat din lume
+Nu a fost născut aşa
+Într-un staul într-o iesle
+Ca şi Mesia/: .
+
+[s5]
+5.  Deci cobori şi vezi fiinţa
+Domnului Isus
+Şi aşa viaţa-ntreagă
+Lui să-i fii supus.
+/:Poartă-ţi crucea cu credinţă
+Viaţa până la sfârşit
+Şi aşa îţi zice Domnul
+Vei fi mântuit/: .
+
+[s6]
+6.    Nu alege fericirea
+Aici pe pământ
+De plăcerile deşarte
+Să fii biruit.
+/:Nici un credincios din lume
+Nu trăieşte în plăceri
+Să nu uiţi că în viaţă
+Ai un Tată-n cer/: .
+
+[s7]
+7.   Pildă vrednică de crezut
+Aici să trăieşti
+Şi spre ţărmul fericirii
+Tu ai să păşeşti
+/:Hai la luptă să-ţi scapi viaţa
+Sus la muntele cel sfânt
+Căci e nunta pregătită
+Chiar de Domnul Sfânt/: .
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

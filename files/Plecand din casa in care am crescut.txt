@@ -1,0 +1,31 @@
+[s1]
+Plecînd din casa în care am crescut
+Am zis „Suflete roagă-L pe Domnul”
+,Naintea plecării să mai văd am vrut
+Pe aceea ce cu drag m-a crescut.
+
+[r1]
+Şi de-oi pleca eu, mamă, de la tine
+La geamul tău vor bate mii de şoapte line
+Tu să le-asculţi şi să le iei în seamă
+Căci ele fi-vor dorurile mele, mamă !
+
+[s2]
+Iar tu, tăticul meu, şi voi, fraţilor
+Vă las în urma mea tot trecutul meu.
+În ale voastre gînduri tainic mă purtaţi
+Şi pe mine, scumpii mei, să nu mă uitaţi!
+Căci eu mă duc pe veci din casa voastră
+La care inima şi gîndul îmi răma	se.
+
+[s3]
+Plecînd din adunarea-n care-am petrecut
+Vă zic: Bun rămas, surori şi fraţi iubiţi.
+Şi tuturor, plecînd, eu cu Dumnezeu
+Spre amintirea mea las tot trecutul meu.
+Păstraţi-l dar în ale voastre gînduri
+Căci ele fi-vor martorii acestor rînduri.
+Cîntări de despărţire
+
+[order]
+s1,r1,s2,r1,s3,r1

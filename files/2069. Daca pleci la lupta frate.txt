@@ -1,0 +1,39 @@
+[s1]
+2069 										 Re m
+1.Dacă pleci la luptă, frate
+Uită-te pe scutul tău
+Vezi pe el dacă mai este
+Numele lui Dumnezeu!
+Ca în ziua bătăliei
+Să nu fii aşa de slab
+Să nu fii ucis în luptă
+Cum a fost ucis Ahab
+
+[r1]
+Pe munţii din Ghilboa,
+Doamne, fă să cadă roua
+Şi pe scuturile noastre,
+Tu mai toarnă untdelemn.
+
+[s2]
+2. Dacă pleci la luptă, frate,
+Vezi de mai eşti îmbrăcat
+Cu putere şi credinţă,
+Să-l învingi pe Goliat!
+Şi un steag de biruinţă să înalţi
+Când ţi-e mai greu
+Să te bizui totdeauna
+Pe numele lui Dumnezeu!
+
+[s3]
+3. Când adesea filistenii
+Biruiau pe Israel
+Îl duceau în robie
+Și vedea cât e de greu.
+Ionatan din greu se luptă,
+Însă, oare, ce folos?
+Poţi pieri la fel ca Saul
+Dacă nu-L ai pe Hristos!
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,12 @@
+[s1]
+Eu voi lăuda pe Domnul meu
+Din toată inima
+Voi spune minunile Lui
+Voi cânta spre slava Sa.
+Eu voi lăuda pe Domnul meu
+Din toată inima
+Mă bucur mult în prezenţa Sa
+Aleluia !
+
+[order]
+s1

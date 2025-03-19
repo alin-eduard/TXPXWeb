@@ -1,0 +1,26 @@
+[s1]
+O, cum s-aud al îngerilor cânturi!
+Zboară uşor cântarea lor pe plai
+Şi-n suflet îmi aprinde noi avânturi
+De-o viaţă fericită ca în rai!
+
+[r1]
+Cântaţi, cântaţi, imnuri de proslăvire!
+Cu îngerii ce cântă-n străluciri
+Să-I aducem prinos de mulţumire
+Slăvindu-L în eterne fericiri.
+
+[s2]
+Noi te urmăm chemare minunată
+Cerul ne-arăţi şi pacea tu ne-o dai
+Pe calea vieţii când e-nvolburată
+Liman ne eşti şi călăuză-n rai.
+
+[s3]
+Când vom ajunge cu El în mărire
+ÎL vom slăvi cu îngerii în cor
+Vom intona un imn de proslăvire
+Pentru Hristos : Domn şi Mântuitor.
+
+[order]
+s1,r1,s2,r1,s3,r1

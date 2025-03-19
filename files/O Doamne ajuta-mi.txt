@@ -1,0 +1,10 @@
+[s1]
+O Doamne ajută-mi
+Credinţa să-mi păstrez
+În suflet liniştea sfântă
+De tot ce-i vremelnic
+Să mă dezlegi
+Şi spulberă ce mă frământă
+
+[order]
+s1

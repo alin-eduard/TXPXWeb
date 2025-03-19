@@ -1,0 +1,26 @@
+[s1]
+O, vino, Doamne bun,
+afară nu mai sta,
+Să potoleşti al meu suspin,
+s-alungi durerea mea;
+Sărac şi orb eu sunt,
+de frică-s chinuit,
+Tu, îndurat, bogat şi sfânt;
+cu Tine-s fericit.
+
+[r1]
+Te chem acum, pe altul nu-l primesc.
+Te chem acum, ce mult eu Te doresc!
+
+[s2]
+O, vino, Doamne bun,
+cu adevărul Tău,
+A Ta-ndurare s-o cunosc
+şi s-o doresc mereu.
+Vreau bine să-nţeleg
+preasfântă legea Ta
+Ce judecă al meu păcat;
+Tu dă-mi iertarea Ta!
+
+[order]
+s1,r1,s2,r1

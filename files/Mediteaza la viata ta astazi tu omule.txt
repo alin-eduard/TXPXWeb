@@ -1,0 +1,34 @@
+[s1]
+Meditează la viaţa ta,
+astăzi, tu omule
+Scoală-te din păcat,
+cercetează-ţi viaţa ta
+Cine eşti, ce doreşti,
+cum trăieşti, fără de Dumnezeu
+Nu te pierde aşa de uşor,
+încredete-n El.
+
+[r1]
+Pocăieşte-te omule,
+ca să nu-ţi pierzi sufletul
+Ridică-ţi privirea-n sus,
+stai de vorbă cu Isus
+Pocăieşte-te omule, până încă nu-i târziu
+Până încă mai e har,
+şi totul primeşti în dar
+După moarte va fi prea târziu şi vei regreta
+Vin’ la Isus acum să-ţi dea
+El mântuirea Lui.
+
+[s2]
+Meditează la viaţa ta,
+astăzi, tu omule
+Eul tău, omule, frînge-ţi-l,
+pocăieşte-te
+N-amîna că nu-i timp de pierdut,
+tu nu ştii cît trăieşti
+Vin’ la Isus acum ca să fii
+mîntuit pe veci!
+
+[order]
+s1,r1,s2,r1

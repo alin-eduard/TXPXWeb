@@ -1,0 +1,41 @@
+[s1]
+Am fost strain si singur,
+fara de Dumnezeu.
+Am fost fara Isus,
+fara de Tatal meu.
+Am fost strain si singur
+si toti m-au alungat;
+Traiam fara credinta,
+traiam doar in pacat.
+
+[r1]
+/: Dar acum ma-ntorc
+din drumul meu
+Eu vin la Dumnezeu,
+eu vin la Tatal meu!
+Nu mai vreau sa traiesc
+singur mereu,
+Fara de Dumnezeu! :/
+
+[s2]
+Am fost sarac si singur,
+departe de Hristos.
+Traiam fara de Isus,
+traiam fara de rost.
+Am fost strain pe lume,
+fara de Dumnezeu,
+Si trista amagire
+era-n sufletu meu.
+
+[s3]
+Am fost pierdut de Isus,
+Dar El azi m-a gasit,
+Mi-a intins a Sa mana,
+ca sa fiu fericit.
+Eu azi primesc pe Domnul,
+in toata viata mea,
+Si Lui ii dau inima
+pentru totdeauna.
+
+[order]
+s1,r1,s2,r1,s3,r1

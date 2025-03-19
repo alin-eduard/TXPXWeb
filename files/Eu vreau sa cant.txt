@@ -1,0 +1,43 @@
+[r1]
+Eu voi cânta până când
+Orice suflet plângând ce v’auzi se va’nsenina
+Si vreau să spun orisicui să’I dea laudă Lui
+Ca’n Isus e mântuirea
+Când sufletul mi’e rănit si sunt dezămăgit
+Doar mâna Lui mă va ridica
+Si prin cântecul meu eu il laud mereu
+Ii dau toată Gloria.
+
+[s1]
+Prin întunericul acestei lumi
+alergam făr’ de folos.
+Nici speranta n’aveam fără tel pribegeam
+Fericire eu nu găseam
+Dar spre Domnul’am strigat
+El m’a ascultat
+De păcat m’a eliberat
+Si vreau să îi cânt cât voi fi pe pământ
+Să’I dau slavă ne’ncetat..
+
+[s2]
+Nu voi uita să’L vestesc pe Isus
+Chiar si’atunci când îmi va fi greu.
+De necaz nu mă tem, eu mă’ncred în El
+Stiu că mă va ajuta mereu
+De aceea Îi cânt si’L urmez doar pe El
+Lumea nu mă va schimba
+Si în slavă voi sta si’L voi lăuda
+Pe regele Emanuel.
+
+[s3]
+/: Eu voi cânta până când
+Orice suflet plângând ce v’auzi se va’nsenina
+Si vreau să spun orisicui să’I dea laudă Lui
+Ca’n Isus e mântuirea
+Când sufletul mi’e rănit si sunt dezămăgit
+Doar mâna Lui mă va ridica
+Si prin cântecul meu eu il laud mereu
+Ii dau toată Gloria :/
+
+[order]
+r1,s1,r1,s2,s3

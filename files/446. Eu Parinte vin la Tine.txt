@@ -1,0 +1,39 @@
+[s1]
+446.
+1.Eu Părinte vin la Tine
+Să mă fac copilul Tău
+Lăsând lumea la o parte
+Care zace în cel rău.
+
+[s2]
+2.Vreau de astăzi înainte
+Ţie Doamne să-ţi slujesc
+Ca în viaţă cât trăiesc
+De azi să mă pocăiesc.
+
+[s3]
+3.Când cu slavă şi mărire
+Fiul Tău va străluci
+O ce mare bucurie
+Pentru credincioşi va fi.
+
+[s4]
+4.Însă vai de aceia care
+Stau încă nepăsători
+Ei vor fi acolo unde
+Când auzi te înfiori.
+
+[s5]
+5.O tu suflete iubite
+Care stai încă-n păcat
+Cum de nu-l auzi tu oare
+Când El bate ne-ncetat.
+
+[s6]
+6.E Isus te-aşteaptă frate
+Poate cea din urmă dată
+Vezi deschide pân' nu vine
+Moartea cea înfricoşată.
+
+[order]
+s1,s2,s3,s4,s5,s6

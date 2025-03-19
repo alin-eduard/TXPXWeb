@@ -1,0 +1,42 @@
+[s1]
+1. Strigă Domnul după tine
+Suflete iubit
+De ce amâi de azi pe mâine
+/:Şi alergi sărman în lume rătăcit:/
+367.
+
+[s2]
+2. Nu vezi suflete deşarte
+Cum te-a copleşit şi se stinge
+Viaţa frate /: cum se stinge
+În vânt departe un chibrit :/
+
+[s3]
+3. Iată strigă Domnul iară suflet iubit
+Ce te duci şi nu ştii oare
+/:Ca-i să mergi
+La judecată nemântuit:/
+
+[s4]
+4. Va veni ziua dreptăţii
+Va veni în curând
+Şi în faţa Lui cu toţii
+/:Veţi sta îngălbeniţi
+Ca morţii, tremurând:/.
+
+[s5]
+5. Cete mari de îngeri frate
+Atunci vor veni
+De prin ţări îndepărtate
+/:Se vor strânge gloate,
+Gloate: v-or osândi:/.
+
+[s6]
+6. Ne vom despărţi cu jale
+Copii de părinţi
+Unii pe-a Iadului vale
+/:Iar alţii cântând
+Pe cale cu cei sfinţi:/
+
+[order]
+s1,s2,s3,s4,s5,s6

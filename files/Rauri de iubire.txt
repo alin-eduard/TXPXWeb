@@ -1,0 +1,30 @@
+[s1]
+Doamne vin aşa cum sunt
+în faţa Ta
+Să mă închin cu tot ce am,
+cu viaţa mea
+Am fost rănit,
+Dar frământarea
+Tu mi-o poţi lua
+
+[r1]
+Când Tu mă înconjori
+cu râuri de iubire
+Sunt vindecat,
+sorbind din pacea Ta
+La Pieptul Tău găsesc
+atâta fericire
+Eu sunt aici,
+şi nu mai pot pleca
+
+[s2]
+Ai adus întregul cer
+în viaţa mea
+Si mi-ai pus balsamul Tău
+pe rana grea
+Sunt fericit,
+Că Tu rămâi mereu
+de partea mea
+
+[order]
+s1,r1,s2,r1

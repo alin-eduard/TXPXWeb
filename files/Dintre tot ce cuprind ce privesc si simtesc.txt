@@ -1,0 +1,57 @@
+[s1]
+Dintre tot ce cuprind,
+Ce privesc si ce simt,
+Vreau un lucru să spun: că-L iubesc
+Pe Acel necuprins
+Care bratul si-a-ntins
+Ca din nou înspre Rai să privesc.
+
+[r1]
+/: Vreau să cânt întotdeauna Îndurarea Domnului
+Si nespusa-I bunătate
+Ce mă tine-n harul Lui. :/
+
+[s2]
+Când am fost apăsat
+De dureri si păcat,
+El, Isus a rostit: “Îl iubesc”
+Spinii, crucea cea grea
+Pentru el le-am purtat
+Tată vreau azi să fie salvat.
+
+[s3]
+Sunt acum izbăvit
+De Cel ce m-a iubit
+Vreau viata de El să-mi lipesc.
+Si-n furtuna cea grea
+Si-n prigoana cea grea
+Ocrotirea mai mult să-I doresc.
+
+[s4]
+Când la El voi privi,
+Fata mea va străluci
+De lumina ce eu o privesc.
+Prin Cuvânt, rugăciuni,
+Tot mai mult să-I cinstim
+Cât trăiesc tot mai mult să-L iubesc.
+
+[s5]
+Voi ce frati vă chemati,
+Viata v-o cercetati
+Nu rămâneti pe drum, alergati
+Ca-n curând Domnul Sfânt
+Va lua de pe pământ
+Cu putere pe cei sigilati.
+
+[s6]
+/: Să chemăm întotdeauna
+Îndurarea Domnului
+Sa ramanem in picioare
+Pana la venirea Lui
+Să ne-ncredem totdeauna
+În Cuvântul Domnului
+Să rămânem în picioare
+Până la venirea Lui. :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,s6

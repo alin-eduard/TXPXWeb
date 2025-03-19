@@ -1,0 +1,54 @@
+[s1]
+981.
+1. Suflete pribeag ce stai în lume
+Printre norii ca de fum
+Ce se urcă tot mai sus spre culme
+Abătându-se din drum.
+Cor:	Nu uita că toate lucrurile-n viaţă
+Pân' la urmă nu au nici un rost
+Ce-ai zidit în Isus stă de faţă
+Veşnicia ţi-e folos.
+
+[s2]
+2. Uită-te în urma ta în vale
+Chiar în margini de cărări
+Lumea umblă-n pasul de pierzare
+Trăind numai în desfătări.
+Cor:	Nu uita că toate lucrurile-n viaţă
+Pân' la urmă nu au nici un rost
+Ce-ai zidit în Isus stă de faţă
+Veşnicia ţi-e folos.
+
+[s3]
+3. Chiar pământu-ntreg
+Cu totul verde
+Chiar dacă l-ai stăpâni
+Dacă sufletul tu ţi l-ai pierdut
+La nimic n-ar folosi.
+Cor:	Nu uita că toate lucrurile-n viaţă
+Pân' la urmă nu au nici un rost
+Ce-ai zidit în Isus stă de faţă
+Veşnicia ţi-e folos.
+
+[s4]
+4. Nu uita că Isus pentru tine
+La moarte a fost osândit
+El vede totul şi acuma
+Căci pentru noi a murit.
+Cor:	Nu uita că toate lucrurile-n viaţă
+Pân' la urmă nu au nici un rost
+Ce-ai zidit în Isus stă de faţă
+Veşnicia ţi-e folos.
+
+[s5]
+5. Ai grijă la ceasul cel din urmă
+Ca să fii tu deşteptat
+Că va fi o mare groază
+Tu veghează neîncetat.
+Cor:	Nu uita că toate lucrurile-n viaţă
+Pân' la urmă nu au nici un rost
+Ce-ai zidit în Isus stă de faţă
+Veşnicia ţi-e folos.
+
+[order]
+s1,s2,s3,s4,s5

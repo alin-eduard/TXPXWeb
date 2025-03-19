@@ -1,0 +1,32 @@
+[s1]
+O, Iubire, cîntec dulce
+Ce răsari peste vecii
+Pace-n suflete tu semeni
+Şi nespuse, şi nespuse bucurii.
+Toate trec pe lumea asta
+Numai singur Tu rămîi
+Tu eşti cîntecul meu dulce
+De la Domnul, plin de dragostea dintîi.
+
+[r1]
+Mă încred în Tine, Doamne
+Scump Mîntuitorul meu
+Şi sînt plin de bucurie
+C-ai salvat sufletul meu !
+Tu mi-ai dat cîntări pe buze
+Dragostea Ta-Ţi cînt mereu
+Tu eşti preţul mîntuirii
+Veşnic sufletului meu.
+
+[s2]
+Nici un cîntec nu-i mai dulce
+Ca iubirea Domnului.
+Bunătatea Lui te-ndeamnă
+Să dai slavă, să dai slavă Mielului.
+Toţi acei ce nu au pace
+Pot găsi-o în Hristos
+El este izvorul vieţii
+Pentru tine, pentru orice păcătos.
+
+[order]
+s1,r1,s2,r1

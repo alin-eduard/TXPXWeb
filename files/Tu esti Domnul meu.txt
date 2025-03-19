@@ -1,0 +1,22 @@
+[s1]
+Doamne Isuse, eu la Tine vin
+Cu viaţa mea să mă închin
+Tu eşti iubirea vieţii mele
+Şi eu pe Tine Te slăvesc.
+
+[r1]
+/: Tu eşti Domnul meu
+Eşti ajutorul meu
+În mâna Ta mă-ncredinţez
+Eşti bucuria mea
+Şi eşti speranţa mea
+Tu eşti totul pentru mine :/
+
+[s2]
+Doamne Isuse, ce mult Te iubesc
+Şi inima-mi Ti-o dăruiesc
+Tu eşti păstorul cel minunat
+Şi eu în Tine mă încred.
+
+[order]
+s1,r1,s2,r1

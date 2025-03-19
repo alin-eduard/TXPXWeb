@@ -1,0 +1,26 @@
+[r1]
+“Da” şi “nu”, “nu” şi “da”
+nu se pot înmănunchea!
+Nu poţi fi cum vrei tu,
+nu poţi fi şi “da” şi “nu”!
+
+[s1]
+Când iubirea zice : “Hai !”
+lenea spune să mai stai
+Când Isus vrea să lucrezi,
+lenea-ţi spune să mai şezi.
+
+[s2]
+Bun şi rău, rău şi bun,
+când se-adună, se opun
+Nu poţi da braţul tău
+Celui bun şi celui rău.
+
+[s3]
+Domnul vrea copii cuminţi,
+iar Satan vrea ca să minţi
+Domnul vrea să fii în har,
+iar Satan să fii murdar.
+
+[order]
+r1,s1,r1,s2,r1,s3,r1

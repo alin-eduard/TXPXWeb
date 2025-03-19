@@ -1,0 +1,32 @@
+[s1]
+S-a supărat Stăpânul pe natură
+Pe fiinţele pe care le-a creat
+Căci zi şi noapte blastămă şi-njură
+De-atâta răutate şi păcat.
+
+[r1]
+Tot Pământul va fi zguduit
+Căci păcatele s-au înmulţit
+Da, tot Pământul va fi clătinat
+Căci sfârşitul s-a apropiat.
+
+[s2]
+De groaza mării munţii-şi vor da duhul
+Când apele din mare vor ieşi.
+Când El va veni, se va înnegri văzduhul
+Atunci mulţi în tăcere vor fugi.
+
+[s3]
+Cum vor căuta în gropi să se ascundă
+Să scoată-afară morţii din mormânt
+De faţa Sa să se ascundă
+Vor încerca acei de pe Pământ.
+
+[s4]
+Acestea sunt doar avertismente
+Să ne trezim din moarte şi păcat
+Căci vor fi mult mai mari avertismente
+De care nimeni nu va fi scăpat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

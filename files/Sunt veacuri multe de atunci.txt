@@ -1,0 +1,41 @@
+[s1]
+Sunt veacuri multe de
+atunci şi ani şi ani s-au dus
+De când la cer s-a înălţat Mântuitorul nostru Isus
+/: Dar vremurile s-au scurtat
+şi timpul nu mai este
+Căci tot ce-i scris e adevărat
+scriptura se-mplineşte :/
+
+[s2]
+Privirea mea se-ndreaptă-n
+sus spre tronul de-ndurare
+Stau umilit şi-aştept în sus
+să-i văd a Lui lucrare
+/: Aştept cu dor şi mă silesc
+chiar dacă lupta-i mare
+Să pot pe nori să-l întâlnesc
+în marea sărbătoare :/
+
+[s3]
+Eu sunt sărac şi n-am ce-i da
+şi adesea cad pe cărare
+Dar Domnul meu e minunat
+eu stau sub mâna-i tare
+/: Chiar de-s lovit şi prigonit
+şi adesea mă lupt pe cale
+Nădăjduiesc să ajung pe
+sus în ţara cea cu soare :/
+
+[s4]
+Oricât mai e de aşteptat
+vreau să stau în iubire
+Chiar dacă mulţi s-au depărtat
+eu l-aştept pe-al meu Mire
+/: Să-L văd pe nori înconjurat
+de-a cerului oştire
+În sfânt veşmânt de împărat
+în slavă şi-n mărire :/
+
+[order]
+s1,s2,s3,s4

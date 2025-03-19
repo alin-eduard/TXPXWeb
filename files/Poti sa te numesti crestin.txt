@@ -1,0 +1,27 @@
+[s1]
+Poţi să te numeşti creştin,
+Dar nu-i de ajuns un nume.
+Poţi să fii evlavios fără de Hristos.
+Nu-i de-ajuns să porţi o cruce,
+Nu-i de-ajuns să faci un semn.
+Nu-s de-ajuns doar ritualuri,
+fără Dumnezeu.
+
+[r1]
+Mântuire ai dar
+Prin credinţă-n Dumnezeu.
+Când domneşte în viaţa ta,
+Isus, totdeauna.
+
+[s2]
+Viaţa de creştin e una
+Si e scrisă-n Cartea Sfântă
+Să-l iubeşti pe Dumnezeu,
+Pe-aproapele tău.
+De păcat să stai departe,
+Prin duh sfânt să-l biruieşti.
+În cunoaşterea Scripturii,
+Astfel să trăieşti.
+
+[order]
+s1,r1,s2,r1

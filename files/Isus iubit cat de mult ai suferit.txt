@@ -1,0 +1,20 @@
+[s1]
+Isus iubit, cît de mult ai suferit
+În locul meu pe cruce ai murit !
+Iubirea Ta mi-a zdrobit inima
+Şi viaţa mea pe veci va fi a Ta.
+
+[r1]
+De n-ai fi fost Tu să mă cerţi
+De n-ai fi fost Tu să mă ierţi
+Ce mare osîndă aş avea
+De nu credeam în jertfa Ta !
+
+[s2]
+Cum aş putea să uit eu dragostea
+Ce m-a iertat şi-apoi m-a mîngîiat
+Îţi voi cînta din toată inima
+Toţi să-nţeleagă marea jertfă-a Ta
+
+[order]
+s1,r1,s2,r1

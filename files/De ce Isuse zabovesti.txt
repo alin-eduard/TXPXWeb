@@ -1,0 +1,54 @@
+[s1]
+De ce, Isuse, zabovesti
+Venind pe nori sa Te ivesti?
+Biserica Ta sa Ti-o iei,
+De ce, sa Te intorci, nu vrei?
+
+[r1]
+De ce? De ce?
+In ceruri voi afla;
+Raspuns la toate-oi capata!
+
+[s2]
+De ce pe unii ii feresti,
+Cu nici un rau nu ii lovesti, Iar altii sufera din greu?!
+De ce-i aceasta, Domnul meu?
+
+[s3]
+De ce bogati sunt unii azi,
+Feriti de orisice necaz,
+Iar altii, multi, in lipsuri zac?!
+De ce acestea toate-Ti plac?
+
+[s4]
+De ce atati bolnavi, in pat?
+De ce, in suferinti, se zbat?
+De ce atati orfani pe drum?
+De ce aceasta, bun Stapan?
+
+[s5]
+De ce sunt ispitit, Isus,
+Cand dorul meu intreg e-n sus?
+Si-n incercari, adeseori,
+De ce sunt frant, de-atatea ori?
+
+[s6]
+De ce atatia ma urasc,
+Cand eu, pe toti, vreau sa-i iubesc
+Si multe vorbe rele-aud?!
+De ce la toate sa stau mut?
+
+[s7]
+De ce? De ce? ne intrebam.
+Raspunsul astazi nu-l aflam.
+O, Tu, Cel ce putere ai,
+De ce nu-l dai? De ce nu-l dai?
+
+[s8]
+Iar cand, in ceruri, voi intra,
+Durerile-mi vor inceta;
+El imi va sterge lacrima.
+Isus raspunsul imi va da.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1,s8,r1

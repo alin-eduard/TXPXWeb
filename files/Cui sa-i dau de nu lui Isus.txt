@@ -1,0 +1,50 @@
+[s1]
+Cui să-i dau de nu lui Isus
+Toată inimioara mea
+Cu cine-aş sta nopţi de veghe
+Dacă nu cu Mesia
+
+[s2]
+Cui să-i spun a mea durere,
+Ce m-apasă aşa de greu,
+Când eu ştiu aşa de bine,
+C-am în cer un Dumnezeu.
+
+[s3]
+Cui să-i spun că-n astă lume,
+Omul este-aşa de rău,
+Când în ceruri, ştiu prea bine,
+Am un aşa Dumnezeu.
+
+[s4]
+Care ştie-atât de bine,
+Să-mi aline durerea,
+Ca să urc cu a mea cruce,
+Până sus la Golgota.
+
+[s5]
+Cui să-i spun c’-a mea inimă,
+Arde de iubirea Lui,
+Ce să fac să-L văd pe Domnul,
+Sus pe bolta cerului.
+
+[s6]
+Asta îmi rămâne mie,
+Să-i slujesc Lui devotat,
+Şi să stau umil sub cruce,
+Până când îl voi vedea.
+
+[s7]
+Multă vreme până-atuncea
+Nu mai este, dragul meu,
+Ne desparte inima rea,
+Necredincioasă mereu.
+
+[s8]
+Zorii zilei se arată,
+Domnul Isus e pe drum,
+Fii gata să te răpească,
+Cu sfinţii Lui in văzduh.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

@@ -1,0 +1,38 @@
+[s1]
+V-aţi rugat să vină clipa
+Naintea Domnului să fiţi
+Fericiţi să vă daţi mâna
+Prin iubire vă uniţi
+Domnul binecuvântării
+Peste voi va revărsa
+Roua păcii si-a iubirii
+Vă inunde inima.
+
+[r1]
+/: Cu Domnul calea s-o porniţi
+Pe braţul său vă sprijiniţi
+Iar dragostea vă va uni
+Şi fericirea va domni :/
+
+[s2]
+Iar acum la sărbătoare
+Cu toţii ne-am adunat
+Bucuroşi că ziua mare
+Pentru voi s-a arătat
+Ne rugăm ca Domnul slavei
+Să coboare peste voi
+Cu putere şi răbdare
+Şi nădejde în nevoi.
+
+[s3]
+Când momente de-ncercare
+În viaţă se vor ivi
+Doar la Domnul e-alinare
+Mâna Lui vă va-ntări
+Voi să-i mulţumiţi în toate
+De e soare, de sunt nori
+Căci numai la EL se poate
+Preschimba spinii în flori.
+
+[order]
+s1,r1,s2,r1,s3,r1

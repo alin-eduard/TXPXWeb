@@ -1,0 +1,22 @@
+[r1]
+Al meu Domn, Părinte,
+Nimeni ca Tine nu e!
+Cât voi trăi, eu voi vesti
+Lucrarea mâinilor Tale!
+Refugiu, scăpare
+În braţul Tău eu găsesc.
+Cu viaţa mea, cu tot ce am,
+Întotdeauna laudă-Ţi voi da!
+
+[r2]
+Strig către Tine, o, Doamne, Te caut!
+Tu eşti Împăratul! Puterea Ţi-o laud!
+Munţii se pleacă şi mările tac
+Când rostim Numele Tău.
+Tot ce-ai creat în splendoare azi stă.
+Eu veşnic mă-nchin şi Îţi dau laudă!
+Prin Tine exist şi prin harul Tău sfânt
+Eu sunt.
+
+[order]
+r1,r2,r1,r2,r2

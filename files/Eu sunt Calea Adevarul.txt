@@ -1,0 +1,48 @@
+[s1]
+Eu sunt Calea, Adevărul
+Şi viaţa tuturor
+Mi-am dat Însumi a Mea viaţa
+Să fiu al vost’ salvator
+Cine astăzi, înainte
+Eu vă chem pe calea Mea
+Şi la cap’ de drum cu toţii
+Veţi afla mântuirea.
+
+[r1]
+/: Veniţi, veniţi azi la Isus
+Veniţi, veniţi, vă iubeşte nespus
+Veniţi, veniţi ,veniţi pe calea Sa
+Veniţi, veniţi El pacea v-o va da :/
+
+[s2]
+Mai aveţi puţin pe cale
+Înapoi să nu priviţi
+Voi sunteţi lumini în lume
+De Mine călăuziţi
+Chiar de veţi avea probleme
+Voi să nu descurajaţi
+Duhul Sfant e Călăuza
+Pentru cei împovaraţi.
+
+[s3]
+În curând în lumea toată
+Trambiţa va răsuna
+Pregatiţi-vă de-acuma
+Asta e chemarea Mea
+Nu mai staţi în nepăsare
+Şi veniţi la adunări
+Ascultaţi Chemarea Sfântă
+Pe-al vostru Salvator.
+
+[s4]
+Să veniţi cât mai degrabă
+Nu e timp să amânaţi
+Orice va veni prin lume
+De Isus nu vă lăsaţi
+Atunci când va fi Răpirea
+Şi spre Cer ne-om înalţa
+Şi pe nori,Isuse Doamne
+Cu toţi te-om întâmpina.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

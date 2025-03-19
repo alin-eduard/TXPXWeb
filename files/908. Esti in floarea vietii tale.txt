@@ -1,0 +1,53 @@
+[s1]
+908.
+1.  Eşti în floarea vieţii tale
+Fă ceva pentru Hristos
+Ca să poţi odată spune
+Că i-ai fost Lui de folos.
+Cor:	Tinere te cheamă Domnul
+Să priveşti la crucea Lui
+Lasă lumea la o parte
+Vino şi fă voia Lui.
+
+[s2]
+2.  Fraţi, surori, Hristos vă cheamă
+Azi e timpul să luptăm
+Să mergem spre biruinţă
+Cununa s-o câştigăm.
+Cor:	Tinere te cheamă Domnul
+Să priveşti la crucea Lui
+Lasă lumea la o parte
+Vino şi fă voia Lui.
+
+[s3]
+3.  Tinere porneşte odată
+Înrolează-te voios
+Intră în ceata care luptă
+Spre onoarea lui Hristos.
+Cor:	Tinere te cheamă Domnul
+Să priveşti la crucea Lui
+Lasă lumea la o parte
+Vino şi fă voia Lui.
+
+[s4]
+4.	Vino astăzi cât eşti tânăr
+Şi dă-ţi viaţa lui Hristos
+Lasă lumea trecătoare
+Că nu-ţi este de folos.
+Cor:	Tinere te cheamă Domnul
+Să priveşti la crucea Lui
+Lasă lumea la o parte
+Vino şi fă voia Lui.
+
+[s5]
+5.	Părăseşte-le pe toate
+Să-ţi câştigi sufletul tău
+Luptă frate pân' la moarte
+Fă voia lui Dumnezeu.
+Cor:	Tinere te cheamă Domnul
+Să priveşti la crucea Lui
+Lasă lumea la o parte
+Vino şi fă voia Lui.
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,32 @@
+[s1]
+Doamne da-mi Cuvant pe buze
+Limpede si cristalin,
+Esti Fantana si Izvorul
+La care setos eu vin.
+
+[r1]
+/: Nici chiar picurul de miere
+Ce din faguri e luat,
+N-are el dulceata care
+In Cuvant eu am aflat. :/
+
+[s2]
+Am atata bucurie
+Cand traiesc Cuvantul Tau,
+El ma apropie de Tine
+Si ma fereste de rau.
+
+[s3]
+Tine-mi inima deschisa
+Dumnezeul meu iubit,
+Sa vad masa Ta intinsa
+Tot ce Tu ne-ai pregatit.
+
+[s4]
+Pacea Ta inunda totul
+Locul dimprejurul meu,
+Harul care se coboara
+De la Tine, Domnul meu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

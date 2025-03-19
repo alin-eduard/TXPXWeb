@@ -1,0 +1,22 @@
+[s1]
+Tu-mi dai putere-n slabiciuni
+A mea comoara in ascuns,
+Tu esti tot ce-mi doresc
+Doamne esti tot ce-am cautat,
+Intreaga-mi viata nencetat
+Tu esti tot ce-mi doresc.
+
+[r1]
+Isus Miel divin
+Laud numele Tau
+
+[s2]
+Inima mea Tu ai spalat
+Al meu pacat Tu l-ai iertat,
+Tu esti tot ce-mi doresc
+Cand sunt cazut Tu ma ridici,
+Si-n slabiciuni Tu ma sustii
+Tu esti tot ce-mi doresc.
+
+[order]
+s1,r1,s2,r1

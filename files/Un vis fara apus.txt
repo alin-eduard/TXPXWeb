@@ -1,0 +1,43 @@
+[s1]
+Un vis fără apus ,
+Va fi în clipa când va reveni Isus
+Un vis va dăinui …
+În clipa când Isus pe nori va reveni
+Vom uita viaţa amara, de lacrimi şi dureri,
+Vom uita de suferinţă, de chinuri şi-ndoieli
+Lacrima ne va fi ştearsă de mâna Domnului
+Şi vom cânta un cântec nou,
+un imn spre slava Mielului.
+
+[s2]
+Un vis fără apus ,
+Va fi când se va împlini cuvântul spus
+Un vis va dăinui
+În clipa când Isus pe nori va reveni
+Tot ce-a fost frumos în viaţă,
+se-ndreapta spre apus
+Peste timpuri dăinuieşte,
+doar iubirea Ta-n ascuns,
+Toate visele frumoase,
+devreme se sfârşesc
+Dar ce-ai clădit în Dumnezeu
+sunt vise care dăinuiesc.
+
+[s3]
+Ce vis de ne’nţeles trăiesc,
+Cănd tot sub ochii tăi prinde de viaţă
+Nădejdile’mplinite,
+Pe toate-n ceruri le-ntâlneşti.
+
+[s4]
+Un vis se va-mplini,
+Când D-l sfânt în cer, la El ne va primi
+Un vis va dăinui
+În clipa când Isus pe nori va reveni
+Când oştirile de îngeri, în ceruri vor cânta,
+Când cei răscumpăraţi, haina albă vor purta
+Cand Isus cu braţe-ntinse, la El ne va primi,
+Numai atunci al nostru vis, numai atunci se va-mplini.
+
+[order]
+s1,s2,s3,s4

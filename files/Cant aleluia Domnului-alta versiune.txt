@@ -1,0 +1,20 @@
+[s1]
+Cânt aleluia Domnului
+Cânt aleluia Domnului
+Cânt aleluia, cânt aleluia
+Cânt aleluia Domnului.
+
+[s2]
+Isus e domn în viaţa mea
+Isus e domn în viaţa mea
+Cânt aleluia, cânt aleluia
+Isus e domn în viaţa mea
+
+[s3]
+Isus e prezent printre noi
+Isus e prezent printre noi
+Cânt aleluia, cânt aleluia
+Isus e prezent printre noi
+
+[order]
+s1,s2,s3

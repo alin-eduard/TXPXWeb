@@ -1,0 +1,26 @@
+[s1]
+Plecăm pe căi necunoscute
+În marea lucrare a Domnului.
+Ca să vestin solia sfântă
+A revederii Lui.
+
+[r1]
+Astăzi urmăm calea lui Isus
+Ştim că-n curând va veni de sus.
+Ştim că Isus va veni de sus,
+Ca să ne ia la El.
+
+[s2]
+Plecăm, plecăm cu voie bună
+Pe calea cea sfântă a Domnului.
+Ca să vestim solia sfântă
+A revenirii Lui.
+
+[s3]
+Plecăm să arătăm în lume
+Iubirea cea mare a Domnului.
+Şi să vestim solia sfântă
+A revenirii Lui.
+
+[order]
+s1,r1,s2,r1,s3,r1

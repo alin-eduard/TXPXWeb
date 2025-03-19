@@ -1,0 +1,26 @@
+[s1]
+O schimbare în viaţa mea s-a făcut,
+Întrând Isus în inimă.
+În suflet am lumina dorită de mult.
+Întrând Isus în inimă.
+
+[r1]
+Întrând Isus în inimă.
+Întrând Isus în inimă.
+Râuri de bucurii curg din inima mea,
+Întrând Isus în inimă.
+
+[s2]
+Prin calea rătăcirii eu am însetat,
+Întrând Isus în inimă.
+Şi păcatele mele multe s-au spălat,
+Întrând Isus în inimă.
+
+[s3]
+În cetatea cerească eu voi locui,
+Întrând Isus în inimă.
+Şi voi fi fericit când Acasă voi fi,
+Întrând Isus în inimă.
+
+[order]
+s1,r1,s2,r1,s3,r1

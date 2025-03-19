@@ -1,0 +1,30 @@
+[s1]
+Tot pământul este astăzi
+într-o mare frământare,
+Căci sunt zile din urmă
+şi păcatu-i tot mai mare.
+În această lume tristă
+de teroare şi păcat,
+Eu la Domnul am salvarea
+ce nici unde n-am aflat.
+
+[s2]
+Dacă noaptea va veni
+nicidecum nu m-oi clinti,
+Lângă mine El va fi şi voi birui.
+Când furtuni se vor ivi
+doar Isus mă va păzi,
+Domnul lângă min’
+va fi pentru vecii.
+
+[s3]
+Pentru ce să mă frământ
+tulburat de-ngrijorare,
+Când eu am pe-acest pământ
+un Părinte-aşa de mare.
+Liniştit în orice vreme,
+eu rămân încrezător,
+Chiar dacă-ncercarea-i mare, Domnul e biruitor.
+
+[order]
+s1,s2,s3

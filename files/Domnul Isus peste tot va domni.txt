@@ -1,0 +1,14 @@
+[s1]
+Domnul Isus peste tot va domni
+În universul infinit.
+Şi pacea Lui va stăpâni
+Peste pământul înnoit.
+
+[s2]
+Şi voi, popoare, veniţi să cântaţi
+Numele­I sfânt şi glorios;
+Mireasma Lui voi o purtaţi,
+Mărturisindu­L pe Hristos.
+
+[order]
+s1,s2

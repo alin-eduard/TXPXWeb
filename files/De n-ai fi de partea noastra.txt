@@ -1,0 +1,38 @@
+[s1]
+De n-ai fi de partea noastra
+Preaiubitul nostru-Isus
+Cand strigam spre bolta-albastra
+Cand necazul ne-a rapus
+
+[s2]
+/: N-am putea trece-ncercarea
+Si usor ne-am clatina
+N-am putea traii rabdarea
+Si nici nu te-am lauda :/
+
+[s3]
+Dar tu esti mereu acolo
+Unde cinste ti se da
+Te prezinti cu brat puternic
+Si spui oricand iata-Ma
+
+[s4]
+/: Cand din slavile divine
+Intre noi Tu poposesti
+Si sfarsesc orice suspine
+Si-orice boli tamaduiesti :/
+
+[s5]
+Tu nu dai peste masura
+Ci doar cat putem rabda
+Caci vrei aur fara zgura
+Vrednici de lucrarea Ta
+
+[s6]
+/: Si-n cuptor de suferinta
+Si-n noian de incercari
+Ne treci Doamne in credinta
+Ca sa fim ai Tai strajeri :/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,32 @@
+[r1]
+O vino Mesia, o vino Mesia
+Căci Te-aşteptăm şi astăzi suspinând
+O vino Mesia, o vino Mesia
+Ca să ne duci pe toţi în cerul sfânt.
+
+[s1]
+Nu vrem Isuse să ne dai – x3
+Nimic pe-acest pământ
+Ne este de ajuns aici - x3
+Cuvântul tău cel sfânt.
+
+[s2]
+Voi care poate nu-L simţiţi
+Nu vă-ntrebaţi de ce?
+Sau poate oare v-a cuprins
+Lumea cu-a ei plăceri.
+
+[s3]
+Noi altă ţară aşteptăm
+Dar nu pe-acest pământ
+Căci cât de bine-ar fi aici
+Lacrimi, dureri tot sunt.
+
+[s4]
+Căci vine Mesia, căci vine Mesia
+Să ne găsească-n dragoste crescând
+Căci vine Mesia, căci vine Mesia
+Să nu rămânem jos pe-acest pământ.
+
+[order]
+r1,s1,r1,s2,r1,s3,s4

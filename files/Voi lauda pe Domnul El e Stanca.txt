@@ -1,0 +1,10 @@
+[s1]
+1
+/: Voi lăuda pe Domnul :/
+El e stânca, El e cetatea
+Eliberatorul
+În El mă voi încrede
+Voi lăuda pe Domnul.
+
+[order]
+s1

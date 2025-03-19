@@ -1,0 +1,18 @@
+[s1]
+Azi dă-ne nouă pacea Ta
+Revarsă-Ţi harul peste noi
+Şi binecuvîntă lucrarea Ta!
+Azi, Domne Tu vorbeşte-ne
+Prin Duhul Sfînt lucrează Tu
+Tu luminează-ne cu-al Tău Cuvînt!
+
+[s2]
+Tu ne cunoşti, Doamne,
+doar Tu toate le ştii.
+Ţie ne-ncredinţăm, primeşte-ne!
+În Numele Tău Sfînt
+îţi mulţumim, Doamne
+Pentru că ne iubeşti atît de mult.
+
+[order]
+s1,s2

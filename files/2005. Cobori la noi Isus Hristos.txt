@@ -1,0 +1,37 @@
+[s1]
+2005
+Cor: Cobori la noi Isus Hristos
+Să Te vedem ce mare ești
+Eşti minunat, eşti cel mai Sfânt
+Eşti cel mai frumos
+
+[s2]
+1. Tu eşti Dumnezeul nostru
+Care ne-a scăpat
+De la moarte şi păcat
+Se cuvine cinstea slava
+Gloria în veci
+Ţie Domn Preaînalt
+
+[s3]
+Cor: Cobori la noi Isus Hristos
+Să Te vedem ce mare ești
+Eşti minunat, eşti cel mai Sfânt
+Eşti cel mai frumos
+
+[s4]
+2. În Tine ne-am pus speranţa
+Pentru veşnicii
+Şi în Tine ne-ncredem
+Doar Tu eşti speranţa noastră
+Te aşteptăm să vii
+Să cinezi cu noi.
+
+[s5]
+Cor: Cobori la noi Isus Hristos
+Să Te vedem ce mare ești
+Eşti minunat, eşti cel mai Sfânt
+Eşti cel mai frumos.
+
+[order]
+s1,s2,s3,s4,s5

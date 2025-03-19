@@ -1,0 +1,32 @@
+[s1]
+Doamne, Ti-asteptam venirea,
+La ivirea zorilor;
+Imbracati in haine albe,
+Vrem „Osana!" sa-Ti cantam.
+
+[s2]
+Intr-o zi insorita de dimineata,
+Vom sta cu Tine fata-n fata,
+Cu Tine, cu-Avraam,
+cu Isaac si cu ingerii.
+Sarbatoare divina si glorioasa
+Va fi, in ziua aceea mareata,
+Pentru poporul ales al Domnului.
+
+[s3]
+Nu nesocoti iubirea
+Si Cuvantul Domnului,
+Caci se-apropie venirea,
+Ziua mare-a Mielului.
+
+[s4]
+Daca astazi, prin har,
+poti primi mantuirea,
+Nu sta-n zadar, ridica-ti privirea!
+Om pacatos, vino azi sa fii salvat!
+Daca azi, prin har, auzi iar Cuvantul,
+Fii fericit si fa legamantul
+Cu Domnul tau, ce te-a rascumparat!
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,39 @@
+[s1]
+1470.
+1.  Privesc de multe ori Isuse
+De aici jos de pe pământ
+/: Privesc spre cerul plin de stele
+Poate te văd Isus venind :/
+2.  Te aştept cântând cu alăuta
+În rugăciune şi oftând
+Şi în răcoarea nopţii Doamne
+Să ştii că eu te aştept plângând
+
+[s2]
+3.  Suspin adesea ori cu lacrimi
+Căci sunt orfan şi părăsit
+Eu n-am pe nimeni să-mi ajute
+Şi sunt lovit de multe ori
+Eu sunt lovit adesea Doamne
+Trecut mereu prin încercări
+Căci valuri multe sunt pe mare
+Şi-n barca mea lovesc mereu
+
+[s3]
+5.  Te am numai pe Tine Doamne
+În orice ceas şi clipă grea
+Şi plâng cu lacrime mărunte
+Mi-e dor mi-e dor a Te vedea
+6.  Aş vrea să-ţi văd odată chipul
+Şi ochii tăi care au plâns
+Şi palmele Tale curate
+Ce pentru mine au străpuns
+
+[s4]
+7.   Să şti că eu te aştept Isuse
+Că soarele e la apus
+În noaptea grea şi-ntunecoasă
+Să şti că eu te aştept Isus
+
+[order]
+s1,s2,s3,s4

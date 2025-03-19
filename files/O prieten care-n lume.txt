@@ -1,0 +1,39 @@
+[s1]
+O prieten care-n lume
+Mai zaci azi în păcat
+Un lucru-ţi spun eu astăzi
+De Isus eşti căutat.
+
+[r1]
+Să vii, să vii la Isus
+El nu te-a refuza
+/: Căci clipa-i aproape
+Puţin e din noapte
+Şi Domnul te-aşteaptă să vii. :/
+
+[s2]
+De-ai înţelege astăzi
+Ce preţ a fost plătit
+Iar tu-n schimb preţui lumea
+Şi lucruri de nimic.
+
+[s3]
+Va fi o zi în care
+Tu vei fi judecat
+Vedea-vei tu atuncea
+Jos ce ţi-ai adunat.
+
+[s4]
+Căci ziua cea de mâine
+Nu mai ştii de-i a ta
+Isus e-acum la uşă
+E-acum la poarta ta.
+
+[s5]
+Tu singur poţi alege,
+El ţi-a dat acest har
+Vino la Cel ce poate
+Să te ducă în rai.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

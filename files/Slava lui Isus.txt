@@ -1,0 +1,22 @@
+[s1]
+/: Slavă lui Isus! :/
+Slavă lui Isus, sus în cer!
+/: Aleluia! :/
+Slavă lui Isus, sus în cer!
+/: El a biruit! :/
+El a biruit pe Satan!
+/: Aleluia! :/
+El a biruit pe Satan!
+
+[s2]
+/: Sângele Lui sfânt, :/
+Sângele Lui sfânt m-a spălat!
+/: Aleluia! :/
+Sângele Lui sfânt m-a spălat!
+/: Şi m-a sigilat, :/
+Şi m-a sigilat cu Duh Sfânt!
+/: Aleluia! :/
+Şi m-a sigilat cu Duh Sfânt!
+
+[order]
+s1,s2

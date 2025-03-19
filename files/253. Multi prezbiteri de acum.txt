@@ -1,0 +1,39 @@
+[s1]
+1. Mulţi prezbiteri de acum
+Nu merg pe-a lui Pavel drum
+Judecă fără cruţare
+Lasă suflete-n pierzare.
+253.
+
+[s2]
+2. Fraţii când păcătuiau
+Surorile când greşeau
+Lui Pavel ochii lăcrima
+Şi inima îi ardea.
+
+[s3]
+3. El pe fraţi îi sfătuia
+Pe surori le mângâia
+Scumpă surioara mea
+Nu te descuraja.
+
+[s4]
+4. Căci şi eu sunt vinovat
+Fac greşeli neîncetat
+Dar mă plec pe genunchi jos
+Plângând strig către Hristos.
+
+[s5]
+5. A Lui sânge scump vărsat
+Spală orişice păcat
+De este păcatul mare
+Nu vrea moarte nici pierzare.
+
+[s6]
+6. El Părinte credincios
+Şi Samaritean milos
+Nu oboseşte a ierta
+Nici îndurare a da.
+
+[order]
+s1,s2,s3,s4,s5,s6

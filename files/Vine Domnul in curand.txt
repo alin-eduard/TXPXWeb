@@ -1,0 +1,44 @@
+[s1]
+Vine Domnul /: în curând :/
+Pentru-ai Lui de pe pământ
+Vine Domnul cu grăbire
+/: Ca s-aducă răsplătire :/
+
+[s2]
+Dar nu vine /: pentru toți :/
+Numai pentru credinciosi
+Ce pentru El au răbdat
+/: Și mereu L-au așteptat :/
+
+[s3]
+Dar nu vine /: pe pământ :/
+Ci se-oprește în văzduh
+Și pe nori ne va răpi
+/: La sunetul trâmbiții :/
+
+[s4]
+Trâmbița lui /: Dumnezeu :/
+Și chiar cu străjerul Său
+Și va-nvia pe cei morți
+/: Care-au murit în Cristos :/
+
+[s5]
+Și-mpreună /: cu cei vii :/
+Sus pe nori ne-om întâlni
+Și-apoi mereu cu Domnul
+/: Vom fi-n vecii vecilor :/
+
+[s6]
+De aceea /: frați surori :/
+Ne luptăm de-atâtea ori
+Să ținem privirea-n sus
+/: Căci vine Domnul Isus :/
+
+[s7]
+El ne duce-n /: vesnicii :/
+Unde-s numai bucurii
+Acolo și noi vom fi
+/: Dacă ne vom pocăi :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

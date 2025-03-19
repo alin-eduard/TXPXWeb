@@ -1,0 +1,59 @@
+[s1]
+1. Strigă astăzi Duhul Sfânt
+Prin biserici pe pământ
+Iată vine Mirele-n curând
+/: Noaptea se va termina
+Zorile vor apărea
+Isus vine după aleasa Sa :/
+698.Fa
+
+[s2]
+2. Te-ntreabă eşti pregătit
+Spre cer ca să fii răpit
+Frate hainele ţi le-ai albit
+/: Eşti tu gata ca să zbori
+Cu Isus mai sus de nori
+Sau rămâi aici nepregătit :/
+
+[s3]
+3. Haideţi fraţi să ne unim
+Cu toţi să ne pregătim
+Gata pentru cer oricând să fim
+/: Când trâmbiţa va suna
+Să fim cu toţii gata
+Pe Isus pentru a-L întâmpina :/
+
+[s4]
+4. Ca să fim cu cei aleşi
+Ce de aici vor fi culeşi
+Şi apoi cu Isus vom fi în veci
+/: În haine de in schimbat
+Numai în alb îmbrăcaţi
+La clipeală vom fi transformaţi :/
+
+[s5]
+5. La nunta din veşnicii
+Vom fi cu zecile de mii
+Acolo vor fi doar bucurii
+/: Mirele Emanuel
+Ne va servi la masă El
+O, ce minunat va fi în cer :/
+
+[s6]
+6. Vom pluti pe aripi de vis
+Cu Isus spre Paradis
+Unde-s bucurii de nedescris
+/: Mirele Emanuel
+Ne va servi la masă El
+O, ce minunat va fi cu El :/
+
+[s7]
+7. Vino azi iubitul meu
+Lasă tu drumul cel rău
+Întoarce-te acum la Dumnezeu
+/: Vino nu mai amâna
+Curând uşa s-a-ncuia
+Şi atunci degeaba vei striga :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

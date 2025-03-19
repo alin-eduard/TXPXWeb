@@ -1,0 +1,53 @@
+[s1]
+1410.
+1.  Ei s-au luptat cu fiara cea grozavă
+Şi-au biruit întregul ei alai
+De aceea sus în minunata slavă
+Ei strălucesc ca soarele în rai
+Cor:	 Biruitorii pe marea de sticlă
+Cu alautele lui Dumnezeu
+Ei stau în slavă şi n-au nici o frică
+Căci au învins pe balaurul cel rău.
+
+[s2]
+Ei s-au luptat cu fiara din pustie
+Şi-au biruit-o fiindcă n-au lăsat
+Pe frunte sau pe mână să le puie
+Acel simbol robie şi păcat.
+Cor:	 Biruitorii pe marea de sticlă
+Cu alautele lui Dumnezeu
+Ei stau în slavă şi n-au nici o frică
+Căci au învins pe balaurul cel rău.
+
+[s3]
+Ei s-au luptat şi-n lupta lor cea mare
+Au biruit prin sângele cel sfânt
+Isus Hristos în noaptea de salvare
+Cu îngerii i-au strâns de pe pământ.
+Cor:	 Biruitorii pe marea de sticlă
+Cu alautele lui Dumnezeu
+Ei stau în slavă şi n-au nici o frică
+Căci au învins pe balaurul cel rău.
+
+[s4]
+4.  Ei sau luptat cu fiara prin credinţă
+Şi-au fost învinşi în cele pământeşti
+Dar moartea lor i-a dus la biruinţă
+În răsplătiri mai mari Dumnezeieşti.
+Cor:	 Biruitorii pe marea de sticlă
+Cu alautele lui Dumnezeu
+Ei stau în slavă şi n-au nici o frică
+Căci au învins pe balaurul cel rău.
+
+[s5]
+5.  Pe-ntinderea de sticlă străvezie
+În valuri ca de foc scântietor
+Biruitorii plini de bucurie
+Îl preamăresc pe Mielul Salvator.
+Cor:	 Biruitorii pe marea de sticlă
+Cu alautele lui Dumnezeu
+Ei stau în slavă şi n-au nici o frică
+Căci au învins pe balaurul cel rău.
+
+[order]
+s1,s2,s3,s4,s5

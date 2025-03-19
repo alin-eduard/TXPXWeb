@@ -1,0 +1,44 @@
+[s1]
+Când veghezi, in toi de noapte,
+Şi suspini cu greu,
+Domnul bate, bate, bate;
+Bate tot mereu.
+
+[s2]
+Să nu spui că-s fleacuri toate
+Căci, vorbind, greşeşti;
+Domnul spune şi tot bate!
+Tu te pierzi pe veci.
+
+[s3]
+Domnul suspinând,
+Se-ntoarce de la casa ta,
+Iar tu, suflet fără pace,
+Vei tot suspina.
+
+[s4]
+Când, la poarta Lui, vei bate
+Şi te vei ruga,
+Ai s-auzi, iubite frate:
+„Tu nu poţi intra!"
+
+[s5]
+Lacrimi, plânset şi suspine
+Te vor năpădi,
+Iar la porţile divine,
+Te vor osândi.
+
+[s6]
+Hai, deschide-I, până-i vreme,
+Domnului Isus!
+Vezi că sufletul, greu, geme
+De păcat răpus.
+
+[s7]
+Spune-I Lui ce te apasă,
+Tot mărturisind!
+El te invita la masă,
+Fericit zâmbind.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

@@ -1,0 +1,39 @@
+[s1]
+O, călător, o, suflet
+Ce pribegeşti mereu
+Să-ţi afli ajutorul
+Numai în Dumnezeu.
+Sol M
+
+[r1]
+/: Încrede-te în Domnul
+În viaţa de pribeag
+Şi El să-ţi fie-ntruna
+Stăpânul tău cel drag. :/
+
+[s2]
+Când valul cel năpraznic
+Te-a dărâmat cumplit
+Ai plâns, ţi-ai plâns amarul
+Şi nimeni n-a venit.
+
+[s3]
+De-atâtea ori pe cale
+În cel mai greu necaz
+Doar Domnul ţi-a şters fruntea
+Şi lacrima pe-obraz.
+
+[s4]
+Şi ai văzut atuncea
+Că cel ce-i muritor
+Nu te-a văzut în chinuri
+Să-ţi deie ajutor.
+
+[s5]
+De-i asculta îndemnul
+Şi-i fi ascultător
+Va fi mereu cu tine
+În vecii vecilor.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

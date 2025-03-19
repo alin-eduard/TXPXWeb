@@ -1,0 +1,48 @@
+[s1]
+1465
+1. Venit-am să mă-nchin
+În fața Ta Stăpâne
+Venit-am cu povara mea
+Ce pacea îmi tot alunga
+M-am prăbușit înaintea Ta
+Să-Ți cer o Doamne îndurarea.
+
+[r1]
+Cor: Tu ai privit spre mine
+Înspre sufletul meu
+Te-ai ridicat în grabă
+Chiar de pe tronul Tău
+M-ai apucat de mână
+La pieptul Tău m-ai strâns
+Mi-ai mângâiat obrazul
+Mereu udat de plâns.
+
+[s2]
+2. Atunci Isus mi-ai spus
+Să nu fiu întristat
+Căci greul ce mă apăsa
+Tu l-ai purtat pe Golgota
+Ca eu acel ce Te primesc
+Să pot alin ca să găsesc.
+
+[s3]
+3. De-atunci eu cât doresc
+Isus să Te-ntâlnesc
+Să scap de orice dureri
+și chin
+De cupa plină de pelin
+Să simt iar mângâierea Ta
+Să pot în veci de veci cânta
+
+[s4]
+Cor: Te înconjoară slava
+Îngeri cântă-n cor
+Îți cântă  îndurarea
+O, Domn al domnilor
+Te voi lăuda și eu
+Alăturea de ei
+Căci Tu-mi ești Dumnezeu
+Ce vei domni în veci.
+
+[order]
+s1,r1,s2,r1,s3,s4

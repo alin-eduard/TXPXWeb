@@ -1,0 +1,31 @@
+[s1]
+Valea umbrei morţii nu va mai fi
+Când Isus pe-un nor alb se va ivi.
+Valea umbrei morţii nu va mai fi -
+Acasă vom reveni !
+
+[r1]
+/: Cu drag El ne va privi :/
+Chiar şi cântul nostru se va-noi
+Când Domnul va reveni.
+
+[s2]
+Spaima şi-ntristarea nu vor mai fi
+Când Isus pe-un nor alb se va ivi
+Veselia ne va împrejmui -
+Acasă vom reveni !
+
+[s3]
+Plânsul şi necazul nu vor mai fi
+Când Isus pe-un nor alb se va ivi
+Veselia ne va împrejmui -
+Acasă vom reveni !
+
+[s4]
+Vor fi cântări, vor fi şi bucurii
+Când Isus pe-un nor alb se va ivi
+Pe meleaguri sfinte noi toţi vom fi
+Şi pacea ne va-nsoţi !
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

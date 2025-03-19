@@ -1,0 +1,55 @@
+[s1]
+De la pământ la cer
+Este-o scară
+Îngeri pe ea urcă şi coboară
+De la pământ la cer
+Este-o scară
+La cer s-ajungă!
+1213.       							  Re
+
+[s2]
+1.Treapta-ntâia
+Este credinţa-n Isus,
+Treapta-a doua
+Cunoaşterea lui Isus
+Treapta-a treia,
+E stăpânirea ta
+Urcă şi tu pe ea!
+
+[r1]
+De la pământ la cer
+Este-o scară,
+Îngeri pe ea urcă şi coboară
+De la pământ la cer
+Este-o scară,
+La cer s-ajungă!
+
+[s3]
+2.Treapta-a patra
+Răbdarea cu oamenii
+Treapta-a cincea
+Evlavia inimii
+Treapta-a şasea
+Dragostea pentru surori
+Şi pentru toţi fraţii.
+
+[s4]
+3.Treapta a şaptea
+Iubirea pentru oameni,
+Treapta-a șaptea
+Iubirea să o semeni,
+Treapta-a șaptea
+Cu Isus să te asemeni
+Iubind şi pe semeni.
+
+[s5]
+4.Mai sus, mai sus
+Urcă încă o treaptă
+Mai sus, mai sus
+Îngerii te aşteaptă
+Mai sus, mai sus
+Aproape de Isus
+Și-apoi cu Isus!
+
+[order]
+s1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,40 @@
+[s1]
+Floarea care înfloreşte
+Soarele pe cer lucind
+Tot ce-i bun se-asemuieşte
+Cu-a lui Isus veşnic cânt.
+
+[r1]
+/: Lângă Tine nu-i tristeţe
+Nu e nor, doar cer senin!
+Lîngă Tine-a mea durere o alin!
+Lîngă Tine, mama mea
+Stau mereu alături
+Lângă Tine fericirea mi-o găsesc!:/
+
+[s2]
+Fost-a viaţa Ta jertfită
+Trupul Tău de răni înfrânt.
+Că sunt fiu al mântuirii
+De aceea azi Îţi cânt.
+
+[s3]
+Când inima mi-e-ntristată
+Şi n-am cu ce-o mângâia
+Atunci mila Lui de Tată
+Străluceşte-n viaţa mea.
+
+[s4]
+Te-am visat, Isuse Doamne
+Cum pe braţe mă ţineai
+Şi cu vocea Ta cea blândă
+Durerea mi-o alinai.
+
+[s5]
+Astăzi noi printr-o credinţă
+Neclintită în Isus
+Dobîndi-vom biruinţa
+În Numele lui Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

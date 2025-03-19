@@ -1,0 +1,26 @@
+[s1]
+Să nu te temi, ci-ntruna să veghezi,
+În braţul Domnului să te încrezi
+Speranţă şi curaj primeşti de sus
+Când tu priveşti în ochii lui Isus
+
+[r1]
+Dacă nu ai putere să poţi birui
+Prin jertfa Lui  astăzi tu te poţi sfinţi
+Roagă-te-acum şi cere-n dar din mâna Lui
+Putere, în prezenţa Domnului
+
+[s2]
+De eşti slăbit când valuri te lovesc
+Şi fraţii tăi cei dragi te părăsesc
+Azi Domnul te încearcă-n acest fel
+Ca tu să-ţi pui nădejdea doar în El
+
+[s3]
+Când dragostea e-un lucru tot mai greu
+Şi simţi că L-ai pierdut pe Dumnezeu
+Tu poţi să fi din nou un fiu al Său,
+Să poţi iubi chiar pe dujmanul tău
+
+[order]
+s1,r1,s2,r1,s3,r1

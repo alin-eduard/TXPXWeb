@@ -1,0 +1,24 @@
+[s1]
+Inima mea cânt-acum
+Căci Isus e-al meu stăpân
+Bucurie pace-mi dă
+Şi-o viaţă veşnică
+
+[r1]
+/: Cerul şi marea să-L laude pe El
+Toată suflarea pământul întreg :/
+
+[s2]
+Pot să spun sunt fericit
+Pe Isus eu L-am găsit
+Prin credinţă azi eu cred
+Că-n curând eu am să-L văd
+
+[s3]
+E atât de minunat
+Să fii binecuvântat
+Cu-a Lui binecuvântări
+Ce inundă ţări şi mări.
+
+[order]
+s1,r1,s2,r1,s3,r1

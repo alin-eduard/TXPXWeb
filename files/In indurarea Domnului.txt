@@ -1,0 +1,32 @@
+[s1]
+În îndurarea Domnului
+Cum am ajuns nu ştiu
+Răscumpărat pentru ce sânt
+Care mult am greşit
+
+[s2]
+Dar ştiu bine, în cine mă-ncred
+Nu mă va desparţi nimic de El ;
+Îmi va da partea veşnică
+Când va fi să vină El
+
+[s3]
+Eu nu ştiu mie Dumnezeu
+Credinţă cum mi-a dat
+Durerile sufletului
+Nu ştiu cum a-ncetat
+
+[r1]
+Dar ştiu bine, în cine mă-ncred
+Nu mă va desparţi nimic de El;
+Îmi va da partea veşnică
+Când va fi să vină El
+
+[s4]
+Eu nu ştiu cum Duhul cel Sfânt
+Îmi da convingere
+Pe Isus măreşte-n mine
+Şi-mi da stâmpărare
+
+[order]
+s1,s2,s3,r1,s4,r1

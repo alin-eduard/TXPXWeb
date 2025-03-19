@@ -1,0 +1,38 @@
+[s1]
+Ai rătăcit pe-ntunecate căi
+Şi ţi-a plăcut să râzi printre cei răi
+Dar oricât eşti de rău şi păcătos,
+Şi pentru tine a murit Hristos!
+
+[s2]
+/: Nu-ţi făuri din eul tău mereu
+Un unic şi tiranic dumnezeu!
+Dar cât de idolatru şi fălos,
+Şi pentru tine a murit Hristos! :/
+
+[s3]
+Când nedreptatea te-a izbit în piept,
+Ai devenit mai crud şi mai nedrept;
+Dar orişicât ai fi căzut de jos,
+Şi pentru tine a murit Hristos!
+
+[s4]
+/: Agoniseşti în viaţă, nesătul,
+Şi niciodată nu îţi e destul;
+Dar oricât eşti de-avar şi ticălos,
+Şi pentru tine a murit Hristos! :/
+
+[s5]
+Când cineva ţi-a pus sub ochi oglinzi,
+Vreo pată pe obrazul tău s-aprinzi,
+Te-ai mâniat! Dar, cât de mânios
+Şi pentru tine a murit Hristos!
+
+[s6]
+/: E vremea! Ştii că toate au sfârşit?
+De nu te-ntorci, nu scapi nepedepsit!
+O, vin-acum, cât eşti de păcătos!
+Vei fi primit prin jertfa lui Hristos! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,43 @@
+[s1]
+1180.
+1.         Cu ce rămâi din toate
+Din câte-n lume alegi
+Când vine veşnicia
+Ce ai să duci când pleci.
+2.         Cu ce rămâi din banii
+Pe care-i strângi zgârcit
+Când moartea o să-ntrebe
+Tu pentru ce-ai trăit.
+
+[s2]
+3.          Cu ce rămâi din câte
+Podoabe cauţi să-mbraci
+Când mulţi erau în zdrenţe
+Şi tremurau săraci.
+4.           Cu ce rămâi din slava
+Înaltă ce ţi-ai strâns
+Când o să vină focul
+Tu mult ai să mai plângi.
+
+[s3]
+5.       Cu ce rămâi în urma
+Cumplitului pârjol
+Când toate adânc s-or face
+Sărac rămâi şi gol.
+6.        Ce faci când vine Domnul
+Că tot deşert vorbeşti
+Căci o să vină moartea
+Şi tot pierdut trăieşti.
+
+[s4]
+7.        Căci vine învierea
+Şi nu te-ai pregătit
+Căci vine judecata
+Şi nu te-ai pocăit.
+8.        Căci vine veşnicia
+Cu focul inamic
+Iar plânsul pocăinţei
+Nu l-ai avut nimic.
+
+[order]
+s1,s2,s3,s4

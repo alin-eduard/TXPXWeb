@@ -1,0 +1,48 @@
+[s1]
+1. Iată ceasul vremii azi e pe sfârşit
+O, treziţi-vă acei ce-aţi adormit
+/: Nu mai staţi în aţipire
+Să vă prindă a Sa venire
+Căci curând vine al nostru Mire :/
+684.
+
+[s2]
+2. Înţeleaptă azi mireasă tu să fii
+Ca atunci să poţi pleca
+Spre veşnicii,
+/: Cu al nostru Mire iubit
+Ce în cer ne-a pregătit
+Bucurii şi fericiri fără sfârşit :/
+
+[s3]
+3. Acolo sus ne-om întâlni
+Cu ai noştri fraţi
+Cu toţi acei de pe pământ
+Răscumpăraţi
+/: O, cântare minunată
+Atunci de noi va fi cântată
+Proslăvindu-l pe cerescul Tată :/
+
+[s4]
+4. În cerul sfânt nu va mai fi necaz
+Isus va şterge
+Orice lacrimă pe obraz
+/: Şi vor dispare pe vecii
+Şi suferinţe şi urgii:
+De aceea Te aşteptăm
+Doamne să vii :/
+
+[s5]
+5. N-ai vrea să vii şi tu
+În cerul minunat
+Tu care până azi
+Încă nu eşti salvat
+/: Să ştii pe dealul Golgota
+El şi-a jertfit viaţa Sa
+Iertându-mi vina mea şi a ta
+Şi ne-a promis că o să fim
+În cerul sfânt care-l dorim
+Slavă Ţie Doamne-n veci amin :/.
+
+[order]
+s1,s2,s3,s4,s5

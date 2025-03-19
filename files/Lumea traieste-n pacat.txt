@@ -1,0 +1,32 @@
+[s1]
+Lumea trăieşte-n păcat
+Văd răul ce-nvinge mereu
+Mă întreb „De ce e aşa, Doamne?
+Cum poţi să ne ierţi tot mereu?”
+Eu vreau să trăiesc pentru Tine,
+Lumea mă trage `napoi
+Ajută-mă tu, o, Isuse
+Prin Duhul Tău sfânt să prosper.
+
+[r1]
+Doamne, Tu îmi eşti speranţa
+În Tine mă-ncred şi eu
+Pe cărarea mântuirii
+Tu mă ţii, Doamne, mereu
+Tu ştii, sunt izbânzi în viaţă
+Dar sunt Doamne şi căderi
+Cu Tine le-nving pe toate
+Şi primesc din nou puteri
+
+[s2]
+Ce mari bucurii am în suflet
+Primite prin Duhul Tău sfânt
+În dragostea-Ţi ce mă-nconjoară
+Din inimă laudă-Ţi cânt
+Aş vrea dar, cu toţii s-audă
+Să ştie de dragostea Ta
+Cu toţii la Tine să vină
+Şi glorie, cinste să-Ţi dea.
+
+[order]
+s1,r1,s2,r1

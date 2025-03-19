@@ -1,0 +1,26 @@
+[s1]
+Nu sîntem noi calea sfîntă
+Calea care duce-n sus
+/: Noi sîntem doar călătorii
+Însă calea e Isus. :/
+
+[s2]
+Nu-i în vorbe adevărul
+Nici în litere nu-i pus
+/: Adevărul e-o fiinţă -
+Adevărul e Isus. :/
+
+[s3]
+Nu aceasta ne e viaţa -
+Firul ce e dat pe fus.
+/: Viaţa noastră e-o lumină
+Iar lumina e Isus. :/
+
+[s4]
+<Eu sînt Calea şi-Adevărul>
+Domnul nostru-aşa a spus.
+/: Calea, Adevărul, Viaţa
+Toate-acestea e Isus. :/
+
+[order]
+s1,s2,s3,s4

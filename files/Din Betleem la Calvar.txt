@@ -1,0 +1,26 @@
+[s1]
+/: Din Betleem la Calvar,
+De la iesle pan’ la har,
+Pana la salvarea mea
+Nu e decat Isus. :/
+
+[r1]
+/: Isus, iubirea Ta, iubirea Ta, Isus
+Mi-a umplut toata inima mea;
+Isus, iubirea Ta, iubirea Ta, Isus
+Mi-a adus deplin fericirea. :/
+
+[s2]
+/:Prin iubirea ce s-a dat
+Poti sa fii si tu salvat
+Nu vrei tu sa Il urmam
+Si sa Ii cantam? :/
+
+[s3]
+/: Sus pe cruce la Calvar
+Am primit iertare-n dar
+Si de-atunci in viata mea
+Nu e decat Isus. :/
+
+[order]
+s1,r1,s2,r1,s3,r1

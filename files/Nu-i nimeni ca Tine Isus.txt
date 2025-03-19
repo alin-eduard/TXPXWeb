@@ -1,0 +1,31 @@
+[s1]
+/: Nu-i nimeni ca Tine Isus :/
+Prin nopti de durere
+Sa dai mangaiere
+Nu-i nimeni ca Tine Isus.
+
+[s2]
+/: Nu-i nimeni ca Tine Isus :/
+Nu-i nimeni ca Tine
+Sa stearga suspine
+Nu-i nimeni ca Tine Isus.
+
+[s3]
+/: Nu-i nimeni ca Tine Isus :/
+S-aduca iertare si eliberare
+Nu-i nimeni ca Tine Isus.
+
+[s4]
+/: Nu-i nimeni ca Tine Isus :/
+S-aduca credinta
+Sa dea biruinta
+Nu-i nimeni ca Tine Isus.
+
+[s5]
+/: Nu-i nimeni ca Tine Isus :/
+S-aduca lumina
+Sa mustre furtuna
+Nu-i nimeni ca Tine Isus.
+
+[order]
+s1,s2,s3,s4,s5

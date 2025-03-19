@@ -1,0 +1,41 @@
+[s1]
+1. Sunaţi din trâmbiţi
+Sunaţi din Sion
+Şi daţi de ştire
+Că Isus e Domn.
+29.                   Fa
+
+[r1]
+Cor: Ferice acela, fericit va fi
+Cel ce cunoaşte glasul trâmbiţei
+Şi umblă-n lumina Lui Dumnezeu
+Lăudând, mărind
+Preasfânt numele Său
+
+[s2]
+2. La rând cu goarna
+Voi o să cântaţi
+Şi-n luptă-n marş
+Cu cei răscumpăraţi.
+
+[s3]
+3.Căci Domnul cheamă
+Lumea la cuvânt
+Şi luptă tare
+Prin al Său cuvânt.
+
+[s4]
+4. Nu pierde timpul
+Tu om păcătos
+Ci vino-n grabă
+La Isus Hristos.
+
+[s5]
+Cor:  Ferice acela, fericit va fi
+Cel ce cunoaşte glasul trâmbiţei
+Şi umblă-n lumina Lui Dumnezeu
+Lăudând, mărind
+Preasfânt numele Său
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5

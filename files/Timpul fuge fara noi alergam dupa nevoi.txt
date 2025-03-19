@@ -1,0 +1,30 @@
+[s1]
+Timpul fuge fara noi,
+Alergam dupa nevoi fara rost
+Nu mai stim cine suntem,
+Unde mergem, sau ce vrem,
+Cu ce rost?
+Am uitat ca noi suntem fii nascuti din Dumnezeu Preînalt
+Suntem prea obisnuiti,
+Suntem poate prea robiti de ce-avem
+
+[s2]
+Vine Isus, cine-i gata de plecare,
+Se uita-n sus
+Vede slava Lui cea mare
+Şi de va cadea, se va ridica
+Fiindca-i e predata toata inima
+
+[s3]
+Pe Isus noi îl iubim,
+însa inima-mpartim, ne-nselam
+Spunem raului ca-i bun,
+si-l luam cu noi la drum, ratacind
+Pentru Isus ce lasam?
+am promis, dar noi uitam!
+Pâna când?
+Oare cum ne va gasi? Vom trai, sau vom muri?
+Ce va fi?
+
+[order]
+s1,s2,s3

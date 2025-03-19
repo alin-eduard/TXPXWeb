@@ -1,0 +1,47 @@
+[s1]
+2067
+1. Pe drumul care urcă
+Spre tronul preaînalt
+Nu-s stavile zidite
+Din ciment și bazalt
+Nici nori ce-aduc furtuna
+Nici vânturi nici stihii
+De-i soarea sau înghețul
+Nu sunt spre a le topi.
+
+[r1]
+Cor: Cu dorul mântuirii
+Urca-vom tot mai sus
+Ne dă puteri chemarea
+Iubirii lui Isus.
+
+[s2]
+2. Spre locul veșniciei
+Din cerul minunat
+Nu sunt poteci ascunse
+Mai lesne de urcat
+Nici cărăuși de sarcini
+Plătiți nu-i de aflat
+Căci fiecare-și poartă
+Cu greu povara sa.
+
+[s3]
+3. O lume întunecată
+De norii grei și reci
+Nu căuta plăcere
+În alte patimi seci
+Căci mult mai minunată
+E calea Domnulu
+Că o cunună-i viața
+Trăită-n legea Lui
+
+[s4]
+4. Vei ști că nu zadarnic
+Urmat-ai calea Sa
+Căci ce-a fost viața-n față
+Întinsei veșnicii
+O clipă de zăbavă
+Ce dăinuie-n copii.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

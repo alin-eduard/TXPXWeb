@@ -1,0 +1,19 @@
+[s1]
+Credincios Dumnezeu
+Dragoste şi har reverşi mereu
+Pământu-ntreg nu e de-ajuns
+Să umple viaţa mea,
+Ca iubirea Ta.
+
+[s2]
+/:Căci pentru Tine
+Tu m-ai creat
+Nu-mi aparţin
+M-ai răscumpărat
+Şi-n ceruri pentru veşnicii
+Lângă Isus eu voi locui
+Cu Tine mereu voi fi
+A mea comoară.:/
+
+[order]
+s1,s2

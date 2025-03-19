@@ -1,0 +1,26 @@
+[s1]
+Tot mai frumoasă esti iubire
+Din zi în zi, din ceas în ceas
+/: Si dulcea-a ochilor privire :/
+Mai limpezi ti-a rămas :/
+
+[s2]
+Ce trecătoare-s toate, toate
+Si oameni si-asezări, si legi.
+/:Nimic din ce-acum, nu poate
+Să tină veacurile-ntregi.:/
+
+[s3]
+Doar tu iubire tu ai viată
+În vesnicii neprinse-n gând
+/:Si tot mai tânără ti-e fata
+Cu cât trec vecii rând pe rând:/
+
+[s4]
+Tot mai frumoasă esti iubire
+Si fii tăi asa-s mereu;
+/:Eu nu stiu altă fericire
+Dar stiu că Tu esti Dumnezeu:/
+
+[order]
+s1,s2,s3,s4

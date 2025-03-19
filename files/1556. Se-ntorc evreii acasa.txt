@@ -1,0 +1,39 @@
+[s1]
+1556.
+1. Se întorc evreii acasă
+În Scriptură-i arătat
+Dumnezeu pe braţe-i poartă
+Sfântul împărat.
+
+[r1]
+Cor:Se întoarce Israelul
+La slăvitul Domn Emanuel
+La Ieşua iubitului Miel
+Ne rugăm pentru Israel.
+
+[s2]
+2. Te întoarce Israele
+Că e timpul tău să ştii
+Dumnezeu te cheamă acasă
+Iar la bucurii.
+
+[s3]
+3. Se-mplineşte prorocia
+Că pustia va-nflori
+Să ne-ntoarcem la Ieşua
+Ne vom mântui.
+
+[s4]
+Cor:Se întoarce Israelul
+La slăvitul Domn Emanuel
+Ieşua iubitului Miel
+Ne rugăm pentru Israel.
+
+[s5]
+4. Noi ne bucurăm că Domnul
+Se îndură de evrei
+Duhul Sfânt îi cercetează
+Se întorc şi ei.
+
+[order]
+s1,r1,s2,r1,s3,s4,s5,r1

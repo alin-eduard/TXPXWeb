@@ -1,0 +1,26 @@
+[s1]
+Din depărtările nemărginite
+Isus a venit azi nunta voastră
+Să va-aducă-n inimi cântec şi speranţă
+O iubire sfântă, o veşnică podoabă.
+
+[r1]
+Noi toţi vă dorim în ziua aceasta
+Să rămâneţi credincioşi acestui legământ
+Pe care voi amândoi îl veţi spune azi
+În faţa celui Sfânt.
+
+[s2]
+El a pregătit acum o sărbătoare
+Să-aducă din cer binecuvântare
+Să vă sfinţească astăzi inimile voastre
+Să fiţi ca o mireasmă să fiţi plăcuţi în toate.
+
+[s3]
+Când furtunile se vor ivi în viaţa
+Atunci voi să ştiţi că singuri nu veţi fi
+Chiar Dumnezeu va fi la cârma voastră
+Se va îngriji de toate şi vă va sprijini.
+
+[order]
+s1,r1,s2,r1,s3,r1

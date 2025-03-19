@@ -1,0 +1,44 @@
+[s1]
+Azi e timpul pentru cercetare!
+Vine Domnul, în curând!
+Să ne cercetăm viaţa fiecare,
+Gata să fim asteptând!
+Vine Mirele Isus să-Şi ia mireasa
+Pe care-o va pregăti
+Cu miresme-n hâine albe;
+Acolo şi noi vom fi.
+
+[s2]
+/: În cer, în cer, în cer...
+Aleluia! Amin!
+Cu Isus, acolo ne vom întâlni,
+Sus in cer. Aleluia! Amin! :/
+
+[s3]
+Rugăciunea este arma pocăinţei
+Ne'ncetat să ne rugăm!
+Vine Domnul, în curând, cu slavă mare.
+Cu toţii să-L aşteptăm!
+Să ne îndemnăm mereu la fapte bune,
+În iubirea Lui uniţi!
+Aşteptând a Sa venire,
+La Isus, cu toţi, veniţi!
+
+[r1]
+/: În cer, în cer, în cer
+Aleluia! Amin!
+Cu Isus, acolo ne vom întâlni,
+Sus in cer. Aleluia! Amin! :/
+
+[s4]
+O, ce har bogat ne-a dat şi slavă mare
+Ne aşteaptă, sus în cer;
+Pregătiţi sunt cei veniţi din orice vreme;
+Ne vom întalni cu El
+Şi ne va servi la masa Sa bogată,
+Bucuroşi cu toţi vom fi!
+În gloria Sa măreaţă,
+Acolo noi ne vom întâlni!...
+
+[order]
+s1,s2,s3,r1,s4,r1

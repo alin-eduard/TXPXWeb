@@ -1,0 +1,26 @@
+[s1]
+Ce bine e cand Doamne-sti langa mine
+Si-n incercarea grea imi esti ajutor
+Chiar lacrimi de curg pe-obraz in noapte
+Tu Te prezinti ca mangaietor
+
+[s2]
+Ce-as fi daca Tu Doamne m-ai parasi
+Si Ti-ai intoarce privirea de la mine
+Un fir de praf spulberat in vant
+Nici suflare n-as avea de n-ai fi cu mine
+
+[s3]
+Mi-e sufletul insetat dupa Tine
+Am alergat pe alte cai ratacind
+Asa cum sunt acum,eu vin la Tine
+Primeste-ma din nou la pieptu-Ti sa ma strangi
+
+[s4]
+Mi-e dor de-a Ta imbratisare
+Sa simt ca m-ai iertat si ma primesti
+Stiu ca nu merit nimic o Doamne
+Primeste-ma din nou sa-Ti cad la piept
+
+[order]
+s1,s2,s3,s4

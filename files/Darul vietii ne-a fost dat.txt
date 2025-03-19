@@ -1,0 +1,18 @@
+[s1]
+Darul vieţii ne-a fost dat tuturor
+Să-l păstrăm, neîntinat
+De păcat necurat, vinovat.
+/: Vino cu mine prietene
+Amândoi vom reuşi :/
+
+[s2]
+Dumnezeu vrea să-mplinim planul Său Fraţi, ai tuturor să fim
+Să iubim, să jertfim, să slujim.
+/: Vino cu mine prietene
+Amândoi vom reuşi :/
+
+[s3]
+/: Tu şi eu, împreuna pentru ei :/
+
+[order]
+s1,s2,s3

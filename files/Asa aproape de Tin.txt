@@ -1,0 +1,27 @@
+[r1]
+Aşa aproape de Tin’
+Simt cum Te bucuri sau suspini
+Strâns legat sunt de inima Ta
+Aproape de ea.
+
+[s1]
+Mă gândesc acum la vremea în care
+Cu braţul Tău Tu m-ai ridicat
+Planurile Tale-acuma-mi sunt clare
+Căci prin har viaţa mi-ai schimbat
+
+[s2]
+Acum când inimile noastre
+bat împreună
+Şi iubirea Ta străpunge viaţa mea
+Privesc prin ochii Tăi şi văd mila Ta
+Căci sunt aşa aproape de Tin’
+
+[s3]
+Aşa aproape de Tin’
+Simt cum Te bucuri sau suspini
+Pacea Ta mă inundă deplin
+Aproape de Tin’
+
+[order]
+r1,s1,r1,s2,s3

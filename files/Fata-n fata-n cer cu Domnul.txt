@@ -1,0 +1,26 @@
+[s1]
+Faţă-n faţă-n cer cu Domnul,
+Faţă-n faţă cum va fi,
+Când pe Cel jertfit
+Pe cruce glorios Îl voi privi?
+
+[r1]
+Faţă-n faţă-L voi vedea
+Eu peste cerul înstelat;
+Faţă-n faţă-atunci în slavă
+Cu El voi fi ne-ncetat!
+
+[s2]
+Îl privesc doar prin credinţă
+Aşteptându-L zi de zi,
+Dar va fi o clipă-n care
+El pe nori va reveni!
+
+[s3]
+O, ce mare bucurie
+Când vom fi-n prezenţa Lui!
+Când durerea va apune
+Şi-n lumina Lui vom sta!
+
+[order]
+s1,r1,s2,r1,s3,r1

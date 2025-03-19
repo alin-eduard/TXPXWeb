@@ -1,0 +1,43 @@
+[s1]
+Mireasa sfântă porumbiţă
+O cât de mult Eu te doresc
+Privirea ta Mă copleşeşte
+Eu sunt gata să te iau
+1562
+
+[r1]
+Cor: Eu sunt gata tu eşti gata
+Aleluia Maranata
+Eu sunt gata să te iau
+
+[s2]
+2. Tu eşti mai albă decât zăpada
+Căci te-am spălat prin sânge sfânt
+Când sus pe cruce Mi-am dat viaţa
+Eu sunt gata să te iau
+
+[s3]
+3. Cu tine voi lumina lumina lumii
+Când voi apare ca Mire
+Tot ceru fi-va-n sărbătoare
+Când tu vei fi lângă Mine
+
+[s4]
+4. Vei fii-mbrăcată cu multă slavă
+În cer îngerii iţi vor cânta
+În cer eu am gătit locul
+Porumbiţă eşti a Mea
+
+[s5]
+5. Dorinţa Mea e-nflăcărată
+Ca să te iau la Mine sus
+Pe aripile dragostei Sfinte
+Eu sunt gata să te iau
+
+[s6]
+Cor: Eu sunt gata tu eşti gata
+Aleluia Maranata
+Eu sunt gata să te iau.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,s6

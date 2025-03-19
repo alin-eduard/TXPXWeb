@@ -1,0 +1,45 @@
+[s1]
+Măriţi pe Domnul
+căci El peste regi este Rege
+El vi-e Părinte şi El
+păsul vi-l înţelege…
+Vă adunaţi, trâmbiţi şi harpe luaţi
+În Israel asta-I lege!
+
+[s2]
+Măriţi pe Domnul,
+El e care totul conduce!
+El ca pe aripi de vultur
+v-a dus şi vă duce…
+El v-a ţinut, pentru că-aşa
+I-a plăcut…
+Spre voi El Faţa-Şi străluce.
+
+[s3]
+Măriţi pe Domnul,
+El corp vă zidi de minune,
+El sănătate vă dă,
+El vă dă-nţelepciune,
+Şi din păcat, de câte ori v-a salvat?
+Cine-ar putea oare spune?
+
+[s4]
+Măriţi pe Domnul,
+El este iubirea cea mare
+De care nimeni a ne despărţi
+nu e-n stare.
+Când Dumnezeu a dat
+chiar pe Fiul Său,
+Ce scumpi Îi suntem noi oare!…
+
+[s5]
+Măriţi pe Domnul
+prin imnuri cu voce curată!
+Cât ne-a iubit de mult,
+oare-om pricepe vreodată?…
+Tată, dorim şi-acu
+şi-n veac să mărim
+Dragostea Ta minunată!
+
+[order]
+s1,s2,s3,s4,s5

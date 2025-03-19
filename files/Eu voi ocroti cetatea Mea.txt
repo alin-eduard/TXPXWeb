@@ -1,0 +1,26 @@
+[s1]
+Eu voi ocroti cetatea Mea
+Şi-o voi întări neîncetat
+Dragostea cerească pentru ea
+Ce-a avut mai scump şi sfânt a dat.
+
+[r1]
+Vă voi ocroti mereu, mereu
+Eu, puternic Dumnezeu!
+V-am purtat pe-a Mele mâini necontenit
+Şi vă voi purta aşa pân, la sfârşit.
+
+[s2]
+Şi va înflori cetatea Mea
+Să rodească zilnic până sus.
+Biruinţă sfântă va avea
+Din pricina numelui Isus.
+
+[s3]
+Şi voi lumina cetatea Mea
+Cu-al iubirii Soare-n veşnicii.
+Faţa Mea va străluci în ea
+De acum şi până în vecii.
+
+[order]
+s1,r1,s2,r1,s3,r1

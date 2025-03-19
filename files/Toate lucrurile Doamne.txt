@@ -1,0 +1,19 @@
+[s1]
+/: Toate lucrurile, Doamne
+Doar prin Tine s-au făcut
+Stau prin voia Ta-n fiinţă
+Le-ai dat legi de la-nceput :/
+
+[r1]
+/: Vrednic eşti, vrednic eşti,
+Slava cinstea şi puterea
+Doamne să primeşti :/
+
+[s2]
+/:Cântu-acesta-n veci va răsuna
+Imprejurul tronului
+Când bătrânii se închină
+Inaintea Domnului:/
+
+[order]
+s1,r1,s2,r1

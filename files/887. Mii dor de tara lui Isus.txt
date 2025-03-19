@@ -1,0 +1,33 @@
+[s1]
+887.
+1.   Mi-i dor de ţara lui Isus
+Şi imnul ei îl cânt
+Cânta-voi şi mai bucuros
+Umblând pe al ei pământ.
+2.  În cer sunt numai melodii
+De harfe şi de cor
+Cântând mereu în veşnicii
+Mărind pe Creator.
+
+[s2]
+3.  Acolo-i vocea lui Isus
+S-aude în măriri
+Şi câmpul este împodobit
+Cu flori aşa frumos.
+4.  Cântarea patriei de sus
+O cânt pe drum mergând
+Şi când termin cuvântul sfânt
+Mă pomenesc oftând.
+
+[s3]
+5.  Aşa o ţară nu găsesc
+Decât acolo sus
+Şi dacă vrei să locuieşti
+Urmează-L pe Isus.
+O ţară sfântă te doresc
+Şi-ţi cânt un imn de dor
+În tine vreau să locuiesc
+Cu bunul meu Păstor.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,33 @@
+[s1]
+847.
+1. Plânge-n inimi sfâşierea
+Dorului nemărginit
+/: Depărtare, depărtare
+Unde-i oare al tău sfârşit :/
+2. Nu cârtim nici unul Doamne
+Dar Tu ştii cât e de greu
+/: Aşteptare, aşteptare
+Să ne chemi în cerul tău :/
+
+[s2]
+3. Până când Isuse dragă?
+Până când vom aştepta
+/: S-ajungem odat-acasă
+Unde n-om mai suspina :/
+4. Arde flacăra dorinţei
+Arde inima de jar
+/: Întâlnire, întâlnire
+Oare când veni-vei iar? :/
+
+[s3]
+5. Unde-i oare clipa aceea
+Din a veşniciei zi
+/: Fericire, fericire
+Oare unde voi găsi? :/
+6. Dorim s-ajungem acasă
+Cu Isus şi-L vom vedea
+/: Dar cei ce-au pierdut credinţa
+Nădejdea şi dragostea? :/
+
+[order]
+s1,s2,s3

@@ -1,0 +1,34 @@
+[s1]
+2198.
+1. Multe neamuri și popoare
+Vor veni din depărtări
+Vor veni ca să se-nchine
+Chiar din cele patru zări.
+
+[r1]
+Cor: Ierusalime, orașul sfânt
+Ești bucuria întregului pământ
+Ierusalime vei străluci
+Când chiar Isus
+În tine va domni.
+
+[s2]
+2. Vor veni ca să învețe
+Neamurile calea Ta
+Să umble pe a Ta cărare
+Să cunoască slava Ta.
+
+[s3]
+3. Cu toiagul judecății
+Domnul le va păstori
+Și adevărata față
+Prin Isus va înflori.
+
+[s4]
+4. Ziua aceia nu-i departe
+Și deplin se va-mplini
+Tot ce este scris în carte
+Cu atâtea profeții.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

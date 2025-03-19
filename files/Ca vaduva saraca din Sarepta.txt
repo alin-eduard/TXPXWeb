@@ -1,0 +1,38 @@
+[s1]
+Ca văduva săracă din Sarepta
+Decurge uneori viaţa ta
+Când scade untdelemnul şi făina
+Atunci ţi-e încercată credinţa .
+Chiar dacă plânsul ţi-e mai lung pe cale
+Şi n-ai primit răspunsul aşteptat
+Te roagă ca Ilie a şaptea oara
+Şi vei primi răspuns ne-ntârziat.
+
+[r1]
+Nu te-ngrijora nicicând pe a ta cale
+Roagă-te mereu ca să ai răbdare
+Nu te-ngrijora de valurile vieţii
+În curând apar şi zorii dimineţii.
+
+[s2]
+Atunci când încercarea este mare
+Se vede ce ai tu din Dumnezeu
+Şi chiar de cazi o clipă-n disperare
+El nu te lasă singur, eşti al Său.
+În fiecare zi, El miliarde
+De oameni îi hrăneşte ne-ncetat
+Oare cum de te-ar putea uita Stăpânul
+Căci El e Domn şi toate le-a creat.
+
+[s3]
+Încredinţiază-ţi soarta-n Mâna-i Sfânta
+Vei birui a-ncercărilor ocean
+Prin Cel care-I mai presus de stele
+În cer şi pe pământ e Suveran.
+Arunc-asupra Lui îngrijorarea
+Orice povară, astăzi, dăi-o Lui
+Deschide-ţi inima şi crede-n Domnul
+Căci El poartă povara orişicui.
+
+[order]
+s1,r1,s2,r1,s3,r1

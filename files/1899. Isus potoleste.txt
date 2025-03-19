@@ -1,0 +1,33 @@
+[s1]
+1. Isus potoleşte furtuna
+Când valuri vor veni
+Când Domnul îşi va-ntinde mâna
+Furtuna se va linişti
+1899.               Mi
+
+[r1]
+/: El trece şi-acuma pe mare
+El vindecă răni în popor
+La El vei găsi alinare
+La El vei găsi ajutor:/
+
+[s2]
+2. Când valurile se ridică
+Când mii de-ncercări năvălesc
+De valuri să nu-ţi fie frică,
+Tu strigă-L pe Tatăl ceresc.
+
+[s3]
+3. Şi Iona era jos în mare
+Şi Petru în val înfundat
+Şi Pavel în grea încercare
+Dar Domnul pe toţi i-a salvat
+
+[s4]
+4. Cu El şi în foc şi în apă
+Poţi fi fericit cu Isus
+De moarte orcând El te scapă
+De eşti credincios şi supus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

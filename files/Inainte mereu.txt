@@ -1,0 +1,32 @@
+[s1]
+În al Domnului Nume Sfânt:
+Înainte! Mai sus mereu!
+Spuneţi lumii al Său Cuvânt,
+Înainte mereu!
+
+[r1]
+Şi haine albe vom purta,
+Cu îngerii vom străluci;
+Coroană, casă vom avea
+În cer când vom sosi!
+
+[s2]
+Când duşmanul ne va lovi:
+Înainte! Mai sus mereu!
+Cu Isus noi vom birui:
+Înainte mereu!
+
+[s3]
+Chiar de suntem batjocoriţi:
+Înainte! Mai sus mereu!
+Cu Isus suntem fericiţi:
+Înainte mereu!
+
+[s4]
+Flamurile desfăşuraţi:
+Înainte! Mai sus mereu!
+Pe Hristos lumii arătaţi:
+Înainte mereu!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

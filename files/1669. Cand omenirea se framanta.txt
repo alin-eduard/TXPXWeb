@@ -1,0 +1,33 @@
+[s1]
+1669.
+1. Când omenirea se frământă
+Şi-n întuneric rătăcesc
+Inima Isuse-ţi cântă
+Căci Tu eşti tot ce îmi doresc.
+Cor:	/:Isus, Isus, speranţa mea
+În Tine mă voi bucura,
+Prin imnuri Te voi înălţa
+Fii lăudat Aleluia:/
+
+[s2]
+2. Când, ispitit mai cad pe cale
+Şi-n drumul meu mă poticnesc
+Eu nu mă las ci, osanale
+Îţi cânt cu-acei ce Te iubesc.
+Cor:	/:Isus, Isus, speranţa mea
+În Tine mă voi bucura,
+Prin imnuri Te voi înălţa
+Fii lăudat Aleluia:/
+
+[s3]
+3. Către a Ta împărăţie
+Ajută-mă să mă silesc
+Să-Ţi pot cânta o veşnicie
+Isus, Isus eu Te iubesc.
+Cor:	/:Isus, Isus, speranţa mea
+În Tine mă voi bucura,
+Prin imnuri Te voi înălţa
+Fii lăudat Aleluia:/
+
+[order]
+s1,s2,s3

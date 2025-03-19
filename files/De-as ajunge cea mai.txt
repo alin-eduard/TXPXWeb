@@ -1,0 +1,42 @@
+[s1]
+De-aş ajunge cea mai mare
+Slavă pământească,
+Ce folos, dacă mi-aş pierde
+Slava cea cerească
+/: Ce folos, ce folos:
+Slavă, fără de Hristos? :/
+
+[s2]
+De-aş avea toţi banii lumii
+Să-mi stea-n vraf arginţii,
+În zadar, dacă-mi lipseşte
+Aurul credinţei!
+/: Ce folos, ce folos:
+Aur, fără de Hristos? :/
+
+[s3]
+De-aş şti toată-nţelepciunea
+Care e sub soare,
+În zadar, dacă-mi lipseşte
+Cea mântuitoare!
+/: Ce folos, ce folos:
+Minte, fără de Hristos? :/
+
+[s4]
+De-aş fi omul cel mai tare
+De pe lumea toată,
+În zadar, dacă mă-nvinge
+Pofta desfrânată!
+/: Ce folos, ce folos:
+Tânăr, fără de Hristos? :/
+
+[s5]
+De-aş cuprinde tot pământul,
+Tot al meu să fie,
+În zadar, dacă-mi pierd viaţa
+Cea din veşnicie!
+/: Ce folos, ce folos,
+Dacă mori fără Hristos? :/
+
+[order]
+s1,s2,s3,s4,s5

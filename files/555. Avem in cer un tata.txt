@@ -1,0 +1,42 @@
+[s1]
+555.
+1.   Avem în cer un Tată
+Un scump Mântuitor
+Mereu grija ne-o poartă
+E bun și ocrotitor
+/: Viața ne-o conduce în fiecare zi
+Păziți suntem de Domnul
+Orșice-ar veni
+
+[s2]
+2. Noi suntem o familie
+Suntem un neam ales
+Avem origini sfinte
+Și rădăcini cerești
+/: Iubirea Lui divină
+Pe veci ne-a înfrățit
+Ne ține împreună
+Suntem nedespărțiți:/
+
+[s3]
+3. Frumos e viitorul
+Spre care ne-ndreptăm
+Nădejdea și iubirea
+În suflet le purtăm
+/: Nebănuită slavă
+Ne-așteaptă acolo sus
+Cununa veșniciei
+Răsplata lui Isus:/
+
+[s4]
+4. Frumoasă ne e viața
+Și traiul cu folos
+Și pavăză ne este
+Iubirea lui Hristos
+/: Mai mare fericire
+Și har pe lume nu-i
+Decât să fii cu Domnul
+Să știi că ești al Lui:/     Amin.
+
+[order]
+s1,s2,s3,s4

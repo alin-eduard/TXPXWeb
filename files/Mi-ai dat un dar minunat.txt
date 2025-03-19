@@ -1,0 +1,32 @@
+[s1]
+N-am cuvinte Doamne indeajuns
+Sa iti multumesc pentru ce mi-ai dat
+/:Sa iti multumesc pentru harul Tau
+Ce-n viata mea l-ai aratat:/
+Tot aurul din lume de-as avea
+Nu e de-ajuns ca sa te rasplatesc
+Si inc-o viata Doamne de-as avea
+Nu mi’ar ajunge ca sa-Ti multumesc
+
+[r1]
+Mi-ai dat un dar minunat
+Ce niciodata nu l-as fi visat
+Mi-ai dat un dar minunat
+Ce niciodata n-as fi meritat
+
+[s2]
+De nu Te-ai fi gandit la mine
+As fi fost o umbra pe pamant
+/:As fi fost o floare ofilita
+As fi fost un praf purtat de vant:/
+Ce-as putea sa-Ti daruiesc o Doamne
+Ca cerul si pamantul este-al Tau
+Ce-as putea sa-Ti daruiesc o Doamne
+Doar inima din pieptul meu.
+
+[s3]
+Iti multumesc, Te preamaresc
+Si vreau sa stii ca te iubesc
+
+[order]
+s1,r1,s2,r1,s3,r1

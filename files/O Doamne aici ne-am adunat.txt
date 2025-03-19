@@ -1,0 +1,26 @@
+[s1]
+O, Doamne, aici ne-am adunat
+Ca fii ‘naintea Ta;
+Cuvântul Tău, ce ni L-ai dat,
+Cu drag vom asculta.
+
+[s2]
+Urechi şi inimi să deschizi
+Atunci când ne vorbeşti,
+La noi, Isuse, vrem să vii
+Cu bucurii cereşti.
+
+[s3]
+Smeriţi noi aşteptăm acum,
+Divinul Tău Cuvânt,
+Dorim ca Tu să Îl sădeşti
+În inimi pe pământ.
+
+[s4]
+Rămâi cu noi, Păstor Iubit,
+În clipe de vegheri,
+S-ajungem ceasul mult dorit
+Al sfintei învieri.
+
+[order]
+s1,s2,s3,s4

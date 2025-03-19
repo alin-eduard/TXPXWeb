@@ -1,0 +1,38 @@
+[s1]
+Inima ta de piatra o lasa sfarâmata
+Va rasari-n lumina o inima divina
+Inima ta de piatra o lasa sfarâmata
+Va rasari-n splendoare
+Inima iubitoare
+
+[s2]
+Cheama-ti mintea
+S-asculte de poruncile Lui
+Stai pe-a vietii punte adevarul sa spui
+Nu raspunde cu ura
+Când pe nedrept esti batjocorit
+Fii smerit si îndura,
+Nu încerca sa te scoti pripit
+
+[s3]
+Cheama-ti Duhul
+Sa cânte pentru gloria Lui
+Cerul sta sa asculte
+Ce urmeaza sa spui
+Lasa ca prin cuvinte
+Inima Ta sa-si croiasca drum
+Printre zarile sfinte,
+Spre Dumnezeu Tatal, chiar acum
+
+[s4]
+Cheama-ti gândul
+La viata cheama inima ta
+Sparge sloiul de gheata
+Ce se-ntinde în ea
+Lasa blânda lumina
+S-ajunga-n locul întunecat
+În adâncul de inima
+Unde se cere sa fii schimbat
+
+[order]
+s1,s2,s3,s4

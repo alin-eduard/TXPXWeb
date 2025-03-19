@@ -1,0 +1,52 @@
+[s1]
+Primeşte Tu, Doamne,
+a mea închinare
+Şi-alungă tristeţea
+şi-ngrijorarea mea!
+Ridică-mă, Doamne,
+şi dă-mi îndurare
+Căci fără Tine azi ştiu,
+nu sunt nimic!
+
+[s2]
+/: Vreau să fiu şi eu salvat
+Din starea mea de păcat
+Astăzi vin la crucea Ta
+Ca să las povara grea.
+Pentru că Tu Te-ai jertfit
+Vreau să-Ţi fiu rodul dorit
+Te rog să-mi sfinţeşti viaţa
+Ca să pot fii mântuit. :/
+
+[s3]
+Anii mei dragi i-am
+pierdut în păcate
+Şi în via Ta, Doamne,
+nimic nu am lucrat.
+Ridică-mă, Doamne,
+şi dă-mi îndurare
+Căci fără de Tine n-aş fi,
+nu sunt nimic.
+
+[r1]
+/: Sfinţeşte-mă, Domnul meu
+Spală-mă-n sângele Tău
+Ca să mă pot prezenta
+În împărăţia Ta.
+Pentru că Tu Te-ai jertfit
+Vreau să-Ţi fiu rodul dorit
+Mă încred în Tine, Doamne
+Jertfa Ta m-a mântuit. :/
+
+[s4]
+Sfinţeşte-mă, Domnul meu
+Spală-mă-n sîngele Tău
+Ca să mă pot prezenta
+În împărăţia Ta.
+Pentru că Tu Te-ai jertfit
+Vreau să-Ţi fiu rodul dorit
+Mă încred în Tine, Doamne
+Jertfa Ta m-a mîntuit.
+
+[order]
+s1,s2,s3,r1,s4,r1

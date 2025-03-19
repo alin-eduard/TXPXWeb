@@ -1,0 +1,48 @@
+[s1]
+Să-ţi rămână-ntotdeuna
+Amintirile frumoase
+Ce-ţi păstrează-n suflet pace
+Şi clipe mai bucuroase.
+
+[r1]
+Cu Domnul mi-a rămas
+Al dimineţii ceas
+Cu Domnul mi-au rămas
+Şi clipele de-amiaz
+Cu Domnul mi-a rămas
+Şi-al serii tainic ceas
+În Domnul Mi-am păstrat
+Tot harul minunat.
+
+[s2]
+Să-ţi rămână-ntotdeauna
+Dulce-al rugii ceas fierbinte
+Numai el păstra-va seva
+Rugăciunii tale sfinte.
+
+[s3]
+Să-ţi rămână-ntotdeauna
+Amintirile iubirii
+Ce păstrează floarea vieţii
+Şi petala pregătirii.
+
+[s4]
+Să-ţi rămână-ntotdeauna
+Fapte bune şi nu rele
+Căci numai ele salva-vor
+Viaţa ta din chinuri grele.
+
+[s5]
+Răsplătirile-s la Domnul
+Numai El în orice ceas
+Ia în rugăciuni şi fapte
+Perla sfântă de pe-obraz.
+
+[s6]
+Şi atuncea tu vedea-vei
+Cât de sfânt al rugii ceas
+Fost-a pe pământu-acesta
+Chiar la greu şi la necaz.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

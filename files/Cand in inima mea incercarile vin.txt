@@ -1,0 +1,22 @@
+[s1]
+Cand in inima mea incercarile vin
+Siguranta eu am in Isus
+Imi ajunge sa-I spun grijurile dispar
+Caci asa este iubirea Domnului
+
+[r1]
+/:Am nadejdea-n Isus
+Harul lui e minunat
+El poarta grija mea la orice pas
+Am nadejdea-n Isus
+Caci de El eu sunt iubit
+Si-n iubirea Lui pe veci sunt mantuit:/
+
+[s2]
+Cand pe cerul senin norii grei vor veni
+Siguranta eu am in Isus
+Domnul ma va-nsoti orisiunde voi fi
+Caci asa este iubirea Domnului
+
+[order]
+s1,r1,s2,r1

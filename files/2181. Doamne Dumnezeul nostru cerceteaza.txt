@@ -1,0 +1,41 @@
+[s1]
+2181
+1. Doamne Dumnezeul nostru cercetează al Tău popor
+Dă-ne mană sfântă astăzi,
+apă din al Tău izvor
+/: Căci suntem, o, Domne sfinte
+şi flămânzi şi însetaţi
+Dup-a Ta neprihănire
+vrem ca slava să-Ţi arăţi :/.
+
+[s2]
+2. Toarnă harul Tău, Stăpâne
+şi revarsă Duhul Sfânt
+Peste cel ce ne slujeste
+şi vesteşte-al Tău cuvânt
+/: Doamne dă-ne-nviorare, vindecare, mângâieri
+Mântuieşte, o, Stăpâne
+căci la fel eşti azi ca ieri :/.
+
+[s3]
+3. Dacă Tu găseşti cu cale
+să ne mustri, Te rugăm
+Dă-ne sfântă înţelepciune,
+să putem să ne-ndreptăm
+/: Să trăim curaţi în lume
+Chiar când vin furtuni şi ploi
+Să nu aibă niciodată
+cel viclean nimic în noi :/.
+
+[s4]
+4. Doamne binecuvintează
+sfântul Tău cuvânt de sus
+Doamne binecuvintează
+slujitorul Tău supus
+/: Căci la tronul îndurării
+ruga noastră o înălţăm
+Doamne azi deschide cerul
+ne vorbeşte Te rugăm :/.
+
+[order]
+s1,s2,s3,s4

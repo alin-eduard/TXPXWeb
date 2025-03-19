@@ -1,0 +1,26 @@
+[s1]
+O ce veste îmbucurătoare
+Care îngerii ne-au adus
+Vestea despre marea îndurare
+Care Dumnezeu ne-a trimis de sus
+
+[r1]
+Iată s-a născut Isus
+Mântuire ne-a adus
+El ne scapă de nevoi
+Dumnezeu este cu noi
+
+[s2]
+O ce veste îmbucurătoare
+Cântăm toţi cu-nsufletire
+Să vestească deci buzele noastre
+Domnul ne-a dăruit mântuire
+
+[s3]
+O ce veste îmbucurătoare
+Ea stămpara orice dureri
+Domnul de sus la noi se coboară
+Cel Sfânt ca să ne ridice la cer
+
+[order]
+s1,r1,s2,r1,s3,r1

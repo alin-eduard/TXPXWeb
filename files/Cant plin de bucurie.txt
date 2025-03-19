@@ -1,0 +1,33 @@
+[s1]
+Cânt plin de bucurie,
+dau slavă pe vecie.
+Căci Domnul m-a salvat;
+Necazuri vin şi pleacă,
+Cu Isus toate-au să treacă,
+În veci voi fi salvat.
+Mi M
+
+[r1]
+/: El totul mi-e, El totul mi-e mie!
+El totul mi-e, Isus Hristos, mie
+Mi-e tată, mamă, soră, frate
+El, totul mi-e mie! :/
+
+[s2]
+Dar când vor veni zile
+cu nori şi umbre pline,
+Domnul mă va ajuta;
+Da, Domnul meu e-n stare
+de-a mă ajuta pe cale,
+Când crucea-mi va fi grea.
+
+[s3]
+Cuvântul mi-e lumină,
+De jertfa Lui îmi spune,
+De harul lui Isus,
+Cum pot să merg pe cale,
+urcând plin de răbdare,
+S-ajung in ceruri sus.
+
+[order]
+s1,r1,s2,r1,s3,r1

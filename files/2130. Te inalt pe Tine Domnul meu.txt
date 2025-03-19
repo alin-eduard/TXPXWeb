@@ -1,0 +1,30 @@
+[s1]
+2130            Mi m
+1. Te înalț pe Tine Domnul meu
+A mea inimă cântă mereu
+/: Tu ești veșnic puterea
+Ți-e mare
+Întreg pământul
+Ți-aduce onoare :/.
+
+[r1]
+Cor: /: Celui Sfânt /: Aleluia :/ Slavă Lui
+Celui veșnic multă slavă
+Să Îl slăvim în veci de veci :/.
+
+[s2]
+2. Te slăvesc pe Tine
+Domnul meu
+Cu credință cânt eu mereu
+/: Creat-ai pământul, cerul și vântul
+Ești Împărat, spune cuvântul:/.
+
+[s3]
+3. Te înalț pe Tine Domnul meu
+A mea inimă cântă mereu
+/: Tu ești vrednic de cinste
+și slavă
+Ești /: minunat :/ Dumnezeu :/.
+
+[order]
+s1,r1,s2,r1,s3,r1

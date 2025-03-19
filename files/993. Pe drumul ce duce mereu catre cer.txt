@@ -1,0 +1,42 @@
+[s1]
+993. Fa m
+1.	Pe drumul ce duce
+Mereu către cer
+Adesea Isuse disper
+Când valul şi lupta
+Mereu e mai grea
+Eu te rog astăzi nu mă lăsa.
+
+[r1]
+Să-mi torni din adânc
+Al Tău sfânt cuvânt
+Când valul greu mă va lovi
+Nicicând, niciodat’
+Isuse să nu cad
+Când cel rău mă va ispiti.
+
+[s2]
+2. Pe drumul ce urcă
+La Tine Isus
+Pe el şi martirii s-au dus
+Au fost prigoniţi,
+Au fost şi jertfiţi
+Dar nu ca şi Tine Isus.
+
+[s3]
+3. Deci urcă mereu
+Aici când ţi-e greu
+Pe genunchi rugăciuni fă mereu
+Şi vei izbuti la El vei sosi
+Dar, nu, înapoi Nu privi.
+
+[s4]
+4. Mai sus către ţintă,
+Mai sus la Isus
+În cer fraţii noştri s-au dus
+Acolo vrem Doamne
+S-ajungem şi noi
+Şi atunci vom scăpa de nevoi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

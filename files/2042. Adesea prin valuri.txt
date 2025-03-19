@@ -1,0 +1,40 @@
+[s1]
+2042
+1. Adesea prin valuri adesea lovit
+Ades prin necazuri adesea huliți
+Ades în primejdii și ades prigoniți
+Prin vânt și furtuni
+Și a lumii stricăciuni
+Așa-i slujba-n care-am pornit.
+
+[s2]
+Cor: Dar Doamne ajutorul atotputernic
+Al dreptei Tale mereu Îl cer
+Să pot fi și eu ne-ncetat pe-a Ta cale
+Un bun slujbaș și un bun mesager
+
+[s3]
+2. Când lumea îmi spune
+Să plec dintre ei
+Că a lor căi sunt bune, iar noi suntem răi
+Mi-e greu și-anevoie,
+Pătrund printre ei
+Dar nu pot să tac, căci voia vreau să-Ți fac
+Așa-i printre lupi, câini și lei.
+
+[r1]
+Cor: Dar Doamne ajutorul atotputernic
+Al dreptei Tale mereu îți cer
+Să pot fi și eu ne-ncetat pe-a Ta cale
+Un bun slujbaș și un bun mesager
+
+[s4]
+3. Eu știu ce e bine,
+Și știu ce mi-ai spus
+De aceea pe Tine Te laud Isus,
+Chiar dacă am piedici ades
+Și de la frați
+Și-n veci numele Ți-L preamăresc.
+
+[order]
+s1,s2,s3,r1,s4,r1

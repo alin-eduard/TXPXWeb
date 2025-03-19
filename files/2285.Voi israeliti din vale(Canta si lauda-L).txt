@@ -1,0 +1,48 @@
+[s1]
+Cântă și laudă-L
+Pe Domnul neîncetat
+Brațu-I puternic
+Din groapă ne-a scăpat
+Salvat de la moarte,
+Tu ești acum iertat
+Azi cântă și lauda-L
+Pe Domnul Minunat!
+2285         						      Do
+
+[r1]
+R: Voi Israeliți din vale, haideți să-I cântăm!
+Cu cântări, cu Osanale să Îl adorăm!
+Mare este Domnul nostru, nimeni nu-I ca El!
+Lăudați cu bucurie pe Emanuel!
+
+[s2]
+2. Cântă-I și laudă-L
+Pe Cel ce S-a jertfit
+Domnul din moarte
+Pe noi ne-a mântuit!
+Cântă-I cu suflet
+Și strigă neîncetat
+Căci mare e Domnul
+Și vrednic de Lăudat!
+
+[s3]
+3. Cântă cu mine, nu sta nepăsător!
+El este Domnul viteaz triumfător!
+Cântă azi frate și fii dar bucuros
+Căci bucuria e darul lui Hristos!
+
+[s4]
+4. De ai în suflet din pacea lui Isus
+Cântă cu mine și grijile s-au dus!
+Nu te apese nimic de pe pământ
+Căci vine Domnul,
+Te ia în cerul sfânt!
+
+[s5]
+R: /: Voi Israeliți din vale, haideți să-I cântăm!
+Cu cântări, cu Osanale să Îl adorăm!
+Mare este Domnul nostru, nimeni nu-I ca El!
+Lăudați cu bucurie pe Emanuel! :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5

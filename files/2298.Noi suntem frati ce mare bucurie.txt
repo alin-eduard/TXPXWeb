@@ -1,0 +1,37 @@
+[s1]
+1.Noi suntem frați!
+Ce mare bucurie!
+Să ai în lume frați asemeni ție
+/: Având un Domn
+Și-un Tată credincios
+Noi suntem frați
+În trupul lui Hristos.:/
+2298                                                                                                               Re M
+
+[s2]
+2.Noi suntem frați
+Salvați prin Sfântul Sânge
+Ne întristăm
+Când cel de-alături plânge
+Ne bucurăm cu cel ce-i bucuros
+Noi suntem frați
+În trupul lui Hristos.:/
+
+[s3]
+3.Noi suntem frați,
+Familie unită,
+Care-mpreună este fericită.
+Și toți alături viețuim frumos
+Noi sunte frați
+În trupul lui Hristos
+
+[s4]
+4.Noi suntem frați
+Și-avem un Frate Mare
+Ce ne-a gătit un loc la fiecare
+Cu El vom sta în cerul glorios
+Noi suntem frați
+În trupul lui Hristos.:/
+
+[order]
+s1,s2,s3,s4

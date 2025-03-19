@@ -1,0 +1,31 @@
+[s1]
+Pe un deal depărtat
+un crin alb sângerat
+Suspina intre spini plin de dor
+Însa El nimănui nu-I
+spunea taina Lui
+Ca El viaţa-şi dădea tuturor
+
+[r1]
+Ştii tu oare, prieten drag,
+că Isus crinul frânt între spini
+A murit pe-acest deal depărtat
+ca şi tu sa fii crin între crini
+
+[s2]
+Pe un deal ca de iad,
+sub o cruce de brad,
+O măicuţa veghea lacrimând.
+Dar Isus, fiul ei între inimi de lei,
+Se ruga si plângea pentru ei.
+
+[s3]
+Pe un nor ca pe-un gând
+va veni in curând
+Crinul alb ce plângea plin de dor
+Şi noi toţi, vechii spini,
+ce prin El suntem crini
+Vom zbura lânga El, sus pe nor!
+
+[order]
+s1,r1,s2,r1,s3,r1

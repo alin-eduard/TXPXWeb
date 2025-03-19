@@ -1,0 +1,31 @@
+[s1]
+Vreau să-ţi spun, amice,
+totul despre Isus;
+Cum în El aflat-am Prieten minunat.
+Vreau să-ţi spun cum Isus
+Viaţa mi-o salvase,
+Şi-a lucrat în chip atât de minunat.
+
+[r1]
+/: Nu există prieten ca şi Isus;
+Numai El păcatul mi-a spălat.
+Chiar durerea mea
+cea mare mi-o luase,
+O! Ce prieten minunat! :/
+
+[s2]
+Păcătos am fost când Isus mă găsise,
+Chinuit nespus de falsele-mi plăceri,
+Dar Isus întinse mâna-I salvatoare,
+Arătându-mi noul
+drum ce duce-n cer.
+
+[s3]
+Bucurii nespuse zilnic vin mulţime,
+Şi iubirea-I tot mai mult o înţeleg,
+Dar de ce S-a coborât să mă salveze
+Nu pot şti, dar sus
+în cer am să-L întreb.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,29 @@
+[s1]
+Singur eram în această lume
+Nu ştiam anume de păcat.
+Singur credeam că se poate-nvinge
+Orişice te-mpinge doar înspre iad.
+Dar până când un copil în viaţă
+Mi-a dat o povaţă, vrând-nevrând
+Şi mi-a vorbit de Mântuitorul
+Atotcreatorul - mi-a rămas în gând.
+
+[r1]
+/: Şi-atunci mă-ntreb neîncetat
+De ce oare tu, amice, ai uitat
+Că eşti nimic sub Soare?
+Hai la Isus! Viaţa îţi lungeşte
+Şi te curăţeşte azi Domnul Isus! :/
+
+[s2]
+Azi, cu Isus, printre munţi şi codri
+Prin furtuni şi neguri, nu mă tem!
+Azi, cu Isus, viaţa e frumoasă
+Calea-i luminoasă, haideţi să-L urmăm!
+El ne dă tot, şi belşug şi pâine
+Ape cristaline, de izvor.
+El ştie tot, când e rău sau bine
+Viaţa El ne-o ţine cu aprig dor.
+
+[order]
+s1,r1,s2,r1

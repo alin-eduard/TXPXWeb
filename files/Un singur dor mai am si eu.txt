@@ -1,0 +1,26 @@
+[s1]
+Un singur dor mai am şi eu
+Acela de-a sluji mereu,
+/: Lui Dumnezeu cel bun şi sfânt
+Cât voi trăi pe-acest pământ :/
+
+[s2]
+Acesta-i singurul meu dor
+Şi cred că pentr-un muritor
+/: Nu este un alt dor mai sfânt,
+Nici mai frumos pe-acest pământ :/
+
+[s3]
+O, Dumnezeule ceresc,
+Tu ştii prea bine ce doresc.
+/: Tu ştii că eu doresc să-Ţi cânt
+Cât voi trăi pe-acest pământ :/
+
+[s4]
+Iar din lume când voi pleca
+O, Doamne, eu te-aş mai ruga
+/: Să mă învredniceşti să-Ţi cânt
+Şi-acolo-n cerul Tău preasfânt :/
+
+[order]
+s1,s2,s3,s4

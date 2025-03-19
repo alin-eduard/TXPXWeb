@@ -1,0 +1,34 @@
+[s1]
+1.	Gadareni suntem Isuse
+Plini de patimi şi nevoi
+/: Suntem inimi nesupuse
+Te-am gonit, dar o Isuse,
+/: Nu Te duce de la noi. :/
+1527.                    Re m
+
+[s2]
+2.	Plini suntem de fapte rele
+Şi-a păcatului nevoi
+/: Gemem în necazuri grele
+Nu ne părăsi în ele
+/: Nu Te duce de la noi. :/
+3.	N-asculta pe-aceia care
+Si azi Te-alungă ’napoi
+/: Arde-un dor de vindecare
+Plâng atâtea răni amare
+/: Nu Te duce de la noi. :/
+
+[s3]
+4.	Mii de inimi chinuite
+Varsă lacrime şuvoi
+/: Cer cuvintele iubite
+Nu le parasi zdrobite
+/: Nu Te duce de la noi. :/
+5.	Doamne, pe ai nostri umeri
+Ducem greutăţi puhoi
+/: Le vom duce fara sila
+Dar ascultă-ne, ai milă
+/: Nu Te duce de la noi. :/
+
+[order]
+s1,s2,s3

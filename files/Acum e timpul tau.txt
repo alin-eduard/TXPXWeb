@@ -1,0 +1,42 @@
+[s1]
+A trecut înc-o zi
+Şi tu eşti tot departe
+Rătăcit prin pustiu,
+Fiu pierdut
+Mai alergi şi acum
+Tot mai singur în noapte
+Pe un drum fără sens,neştiut.
+
+[s2]
+Copile rătăcit,
+Ai plecat de acasă
+Pe un drum efemer
+Copile rătăcit,
+Oare chiar nu-ţi mai pasă
+Ca-i s-ajungi nicăieri.
+
+[r1]
+Vino din drumul tău pustiu
+Este timpul să spui minciunii: NU
+Vino, te aşteaptă Dumnezeu
+Este timpul să guşti din harul Său
+Acum e timpul tău
+
+[s3]
+Prea mult timp ai pierdut,
+Hoinărind spre o ţintă
+În alurii noia de noroiri.
+
+[s4]
+Este vremea să ştii
+Că iubirea există
+Este vremea să vii in amori
+Copil rătăcit
+Ceru-ntreg azi te cheamă
+Este timpul să mori
+Întoarce-te ‘napoi, chiar acum
+Fără teamă, n-are rost
+Să refuzi
+
+[order]
+s1,s2,r1,s3,s4,r1

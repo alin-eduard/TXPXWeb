@@ -1,0 +1,35 @@
+[s1]
+405.
+1.Auzi cum Domnul Te cheamă
+Te scoală suflet iubit
+Ascultă cum Te îndeamnă
+Şi vrea să fii mântuit.
+Cor:/:Vin’ la El nu mai sta
+Ascultă-I chemarea:/
+
+[s2]
+2.E destul de atâta vreme
+De când nu vrei să-L asculţi
+Nu-L lăsa să Te tot cheme
+Vino să te pocăieşti.
+Cor:/:Vin’ la El nu mai sta
+Ascultă-I chemarea:/
+
+[s3]
+3.El astăzi vine, Te ascultă
+O inimă nouă îţi dă
+Pacea Lui neîntrecută
+Te face să-I cânţi laudă.
+Cor:/:Vin’ la El nu mai sta
+Ascultă-I chemarea:/
+
+[s4]
+4.Domnul acum îţi vorbeşte
+Dar curând va înceta
+O grăbeşte de-L primeşte
+Înainte de-a pleca.
+Cor:/:Vin’ la El nu mai sta
+Ascultă-I chemarea:/
+
+[order]
+s1,s2,s3,s4

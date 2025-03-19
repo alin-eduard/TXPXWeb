@@ -1,0 +1,19 @@
+[s1]
+Rege-al regilor
+Esti Tu Doamne pe vecie
+Slava Ta intrece orice slava,
+Domn al Domnilor
+Ai ramas di vesnicie,
+Peste cer si peste lumea-ntreaga
+
+[s2]
+/:Orsiunde noi privim,
+Doar pe Tine te zarim,
+Esti stapan si Domn in univers
+Stam cu toti naintea Ta,
+Si dorim a iti canta
+O, Doamne mare,
+mare este slava Ta :/
+
+[order]
+s1,s2

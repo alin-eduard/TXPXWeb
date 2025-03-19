@@ -1,0 +1,29 @@
+[s1]
+1663
+1. Doamne eu te-aş m-ai ruga
+Să vii azi în casa mea
+Să-ţi laşi Doamne pacea Ta
+Să-mi salvezi familia.
+2. Vino Doamne şi mă ia
+Şi mă pune-n slujba Ta
+Ca să fiu  mereu cu Tine
+Şi să fii Tu lîngă mine.
+
+[s2]
+3. Căci durerea şi necazul
+Mă apasă foarte greu
+Dă-mi putere de la Tine
+Nu mă lăsa de ruşine.
+4. Căci nu mai pot suporta
+Unii sunt împotriva mea
+Mă vorbeşte mă urăşte
+Numai Isus mă iubeşte.
+
+[s3]
+5. Ai milă de-ai mei părinţi
+De surori şi ai mei fraţi
+Pune-i Doamne în mişcare
+Să vină la adunare.
+
+[order]
+s1,s2,s3

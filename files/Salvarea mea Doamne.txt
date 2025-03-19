@@ -1,0 +1,29 @@
+[s1]
+Salvarea mea Doamne-n Tine o caut,
+Să nu fiu dat de ruşine.
+Îţi pleacă urechea
+Spre mine când strig,
+Tu eşti a mea izbăvire.
+
+[r1]
+/:Aleluia, aleluia,
+Tu eşti a mea cetăţuie.
+Aleluia, aleluia,
+Eşti stâncă din veci pentru mine.:/
+
+[s2]
+În Tine o Doamne
+Nădejdea mi-am pus,
+Îţi dăruiesc tinereţea.
+Şi gura mi-e plină de lauda Ta,
+Te laud fără-ncetare.
+
+[s3]
+Când slab eu voi fi
+Tu nu mă părăseşti,
+Cei răi să nu poată râdă.
+Departe de mine nicicând să nu pleci,
+Vreau să-Ţi vestesc măreţia.
+
+[order]
+s1,r1,s2,r1,s3,r1

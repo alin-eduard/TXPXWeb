@@ -1,0 +1,36 @@
+[s1]
+De ce-s doar lacrimi si durere
+De ce-s doar grijuri si nevoie,
+De ce-i atata dezbinare si certuri multe printre noi
+De ce cand vrei sa mergi pe cale dupa cuvantul din Scripturi,
+Ai parte doar de plans si jale
+si-atat de multe lovituri.
+
+[r1]
+/: De ce-I asa o stie El
+Isus Hristos Emanuel,
+Raspuns aici de n-om avea
+Odata in ceruri vom afla
+De ce-I asa o stie El. :/
+
+[s2]
+De ce azi glasul porumbitei
+se-aude parca tot mai stins
+Si de cand usa odaitei
+in taina nu s-a mai inchis,
+De ce nu-i dres cu har si sare cuvantul multor ce slujesc,
+De ce nu ard jertfe pe-altare
+si atatea oi se risipesc.
+
+[s3]
+De ce-n biserici osanale
+se-aud din ce in ce mai rar
+De ce-s atatia prin spitale,
+De ce-s cantari fara de har
+De ce-i asa o stie Unul
+Ce-odata-n ceruri s-a suit,
+Acela ce iubeste omul
+si-a fost pe cruce rastignit.
+
+[order]
+s1,r1,s2,r1,s3,r1

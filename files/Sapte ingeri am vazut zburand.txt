@@ -1,0 +1,74 @@
+[s1]
+/: Şapte îngeri :/ am văzut zburând
+/: De la tronul :/ Tatălui Cel Sfânt
+/: Spre pământ :/ toți s-au îndreptat
+Si cu-al lor trambiti de aur ei au rasunat.
+
+[r1]
+/: Deşteptare, deşteptare,
+Sună glasul trâmbiţele îngerilor sfinţi
+Deşteptare, deşteptare
+Deşteptaţi-vă creştini,
+Până când dormiţi! :/
+
+[s2]
+/: Dumnezeul :/ Cel înfricoşat
+/: La îngeri :/ ordin El le-a dat
+/: Să răsune :/ pe întreg pământ
+/: Deşteptare :/ la poporul sfânt!
+
+[s3]
+/: Primul înger :/ când a răsunat
+/: Foc şi piatră :/ din cer a plouat
+/: Toţi copacii toata iarba verde
+de pe câmp
+A fost arsă-a treia parte
+în acelaşi timp.
+
+[s4]
+/: Apa mării :/ în sânge s-a schimbat
+Când al doilea înger a sunat
+Şi atunci un munte mare de foc a căzut
+Peste munţi şi peste stânci și le-a prăbuşit
+
+[s5]
+Peste-ntinderea de apă a căzut venin
+/: O stea mare :/ numită Pelin
+Cine bea din apa mării şi el va muri
+Căci va curge-n orice ţară în aceeaşi zi.
+
+[s6]
+Şi în lună şi în soare şi în stele sus
+A treia parte din ele lumina şi-au stins
+Căci al patrulea răsunet a venit din cer
+Vocea lui părea de tunet, voce de înger.
+
+[s7]
+Şi al cincilea înger când a răsunat
+/: Tot văzduhul :/ s-a întunecat
+/: Mii de cară :/ cai şi călăreţi,
+/: Se sculară :/ foarte îndrăzneţi.
+
+[s8]
+/: Patru îngeri :/ au fost dezlegaţi
+Când al şaselea înger din cer a sunat
+De la o margine la alta pân’la Eufrat
+Cu-a lor trâmbiţe de aur ei au răsunat.
+
+[s9]
+Cu al şaptelea înger, taina s-a sfârşit
+Taina-ascunsă cea de veacuri
+acum s-a-mplinit
+Peste-ntreaga omenire,
+peste-ntreg pământ
+Domneste imparatul slavei ,Imparatul sfant!
+
+[s10]
+/: Deşteptare, deşteptare,
+Sună glasul trâmbiţele îngerilor sfinţi
+Deşteptare, deşteptare
+Deşteptaţi-vă creştini,
+pana cand dormiti :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1,s8,r1,s9,s10

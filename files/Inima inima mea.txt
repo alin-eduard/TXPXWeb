@@ -1,0 +1,35 @@
+[s1]
+Inima (inima),
+Inima mea (inima mea)
+Te cheamă, Doamne,
+şi te vrea doar pe Tine !
+Sufletul (sufletul),
+Sufletul meu (sufletul meu)
+Tânjeşte, Doamne,
+tot mereu, de dorul tău !
+
+[r1]
+Inima îmi zice din partea Ta
+« Caută, caută faţa mea ! »
+Si faţa Ta o caut, Doamne !
+
+[s2]
+Stau aşteptând (stau aşteptând)
+cu Tine-n gând (cu tine-n gând)
+Si aştept, Isus,
+Să vii pe nori de slavă!
+Voi aştepta (voi aştepta)
+Venirea Ta (venirea Ta),
+Ca Tu să vii şi să-ţi ridici biserica!
+
+[s3]
+Nu te-ntrista (nu te-ntrista),
+Predă-ţi chiar astăzi
+Inima lui Dumnezeu !
+Nu te opri (nu te opri),
+Nu te-mpietri (nu te-mpietri),
+Ci spune:
+« Doamne, chiar acum te voi primi ! »
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,32 @@
+[s1]
+De păcat ce m­ar spăla?
+Doar Isus prin sfântu­I sânge!
+Cine mă va vindeca?
+Doar Isus prin sfântu­I sânge!
+
+[r1]
+O, fluviu minunat
+Ce spală de păcat;
+Cu Tatăl m­a-mpăcat
+Doar Isus prin sfântu­I sânge!
+
+[s2]
+Cine mă va curăţi?
+Doar Isus prin sfântu­I sânge!
+Viaţa mi­o va înnoi,
+Doar Isus prin sfântu­I sânge!
+
+[s3]
+Cine vina­mi va ierta?
+Doar Isus prin sfântu­I sânge!
+Şi necazul cine­mi ia?
+Doar Isus prin sfântu­I sânge!
+
+[s4]
+Cine mă va-ndreptăţi?
+Doar Isus prin sfântu-I sânge!
+Tatălui plăcut a fi?
+Doar Isus prin sfântu-I sânge!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

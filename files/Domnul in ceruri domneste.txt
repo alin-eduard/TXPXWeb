@@ -1,0 +1,21 @@
+[s1]
+Domnul în ceruri domneşte
+Pe tronu-I aşezat
+Plin de mărire
+Şi-n slavă e îmbrăcat
+Noi toţi, cu sfinte podoabe
+Stăm în prezenţa Sa
+Şi-n timp ce îi vom cânta
+Slava Lui vom vedea
+
+[s2]
+/: Căci Domnu-i bun
+El în veci iubeşte
+Îndurarea Lui nu se va sfârşi
+Spre-ai săi copii,
+El, cu drag, priveşte
+Şi-n mijlocul laudelor noastre
+El va domni :/
+
+[order]
+s1,s2

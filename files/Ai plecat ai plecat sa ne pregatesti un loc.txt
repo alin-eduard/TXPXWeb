@@ -1,0 +1,30 @@
+[s1]
+Ai plecat, ai plecat
+să ne pregăteşti un loc
+Şi-ai lăsat, şi-ai lăsat
+Duhul Tău cel minunat.
+Şi ai spus, şi ai spus
+<Cum Mă-nalţ, voi reveni
+Ca să-i iau, ca să-i iau
+pe cei sfinţi, ai Mei copii.>
+
+[r1]
+Au trecut toţi anii-n zbor
+Trece timpul ca un nor
+Este vremea ca să vii !
+Se-mplineşte rând pe rând
+Tot ce scrie în Cuvânt.
+Te aşteptăm !
+
+[s2]
+Domnul meu, Domnul meu,
+n-am cuvânt să-Ţi mulţumesc
+Sânt cuprins, sânt cuprins
+in harul Tău, şi azi trăiesc.
+Şi aştept, şi aştept
+dimineaţa fără-apus
+Să Te văd, să Te văd
+şi să ne bucurăm, Isus !
+
+[order]
+s1,r1,s2,r1

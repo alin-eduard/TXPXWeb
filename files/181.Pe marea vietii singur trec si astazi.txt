@@ -1,0 +1,57 @@
+[s1]
+1. Pe marea vieţii singur trec şi astăzi
+Şi urlă valurile ne-ncetat
+Sunt singur azi în mijlocul furtunii
+Isuse scump, ah, unde ai plecat?
+181.
+
+[s2]
+2. E marea vieţii atât de fioroasă
+Şi valurile mă izbesc din greu
+Mă chinuie amarnic necredinţa
+Şi-n mare încep
+Să mă scufund mereu
+
+[s3]
+3. O Doamne încercarea
+Îmi este mare
+Botezul focului e-ngrozitor
+Aştept s-apară-n faţă o salvare
+Ah, unde eşti Al meu izbăvitor.
+
+[s4]
+4. O îndoială Doamne mă cuprinde
+Şi mângâiere-n lume nu găsesc
+Degeaba vreau să fug
+La prietenii mei
+Sunt slabi şi ei cu toţi mă părăsesc
+
+[s5]
+5. De mă iubeşti
+Mai fie-Ţi milă Doamne
+Întinde-Ţi braţul Tău izbăvitor
+De nu mă scapi Isuse drag acum
+La cine voi fugi dup-ajutor.
+
+[s6]
+6. Tocmai acum în timpul de pe urmă
+Când valurile straşnic năvălesc
+O vino-ndată scumpul nostru Isus
+Şi luptă Tu cu cei ce ne urăsc.
+
+[s7]
+7. Isuse scump din ţara minunată
+Te chem mereu, o vino, vino azi
+Nu mă lăsa pe marea vieţii singur
+Te chem mereu
+Cu lacrimi pe obraz.
+
+[s8]
+8. Poporul Tău smerit
+Se roagă-ntr-una
+Şi zi, şi noapte te-aşteaptă cu dor
+În zilele de-apoi Tu eşti salvarea
+O scumpul nostru drag Mântuitor.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

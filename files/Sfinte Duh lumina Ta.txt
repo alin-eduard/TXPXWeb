@@ -1,0 +1,26 @@
+[s1]
+Sfinte Duh, lumina Ta
+Lumineze calea mea,
+Umbra nopţii s­o alungi,
+Zorii zilei să­i aduci!
+
+[s2]
+Sfinte Duh, puterea Ta
+Să­ntărească viaţa mea,
+În ispite­n orice rău
+Fă-mă­nvingător mereu!
+
+[s3]
+Sfinte Duh, iubirea Ta
+Să­mi inunde inima
+Şi în loc de întristări
+Pune sfinte mângâieri!
+
+[s4]
+Sfinte Duh, prezenţa Ta
+Să mă umple, eu aş vrea,
+Scoate tot ce e străin
+Şi domneşte pe deplin!
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,42 @@
+[s1]
+Ce har, ce har să poţi să crezi,
+ce har, ce har!
+Ce har pe Domnul să-L urmezi,
+ce har, ce har!
+Ce har, deplin să te predai,
+ce har, ce har!
+Ce har s-o rupi cu-al lumii trai,
+ce har, ce har!
+
+[s2]
+Ce har să poţi să spui mereu,
+ce har ce har!
+Isus, Mântuitorul meu,
+ce har ce har!
+Ce har să poţi s-asculţi de El,
+ce har ce har!
+Să ai blândeţea Lui de Miel,
+ce har, ce har!
+
+[s3]
+Ce har, ce har să poţi iubi,
+ce har, ce har!
+Cuvântul sfânt să-L poţi trăi,
+ce har ce har
+Ce har să poţi să fii smerit,
+ce har ce har!
+Şi-n suferinţă liniştit
+ce har, ce har!
+
+[s4]
+Ce har să mergi pe calea Sa,
+ce har, ce har!
+Ce har curat să-L poţi cânta,
+ce har, ce har!
+Ce har să fii umplut deplin,
+cu har , cu har!
+Viaţa s-o trăieşti senin,
+în har, în har!
+
+[order]
+s1,s2,s3,s4

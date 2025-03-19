@@ -1,0 +1,39 @@
+[s1]
+1925
+1. Domnul Slavei azi te cheamă
+Să te-ntorci la El
+Lasă calea rătăcirii
+Vino către cer
+Numai sta pribeag în lume
+Numai sta-n păcat
+Azi întoarce-te la El
+Și vei salvat
+
+[r1]
+Cor: Vino azi vino la Calvar
+Vino azi cât mai este har
+Vin acum să primești în dar
+Pe Isus în viața ta o ce mare har
+
+[s2]
+2. Bogății nenumărate
+Domnul îți va da
+Și vei fi cu El deapururi
+Sus în slava Sa
+Viață nouă și curată
+Domnul îți va da
+Vino astăzi nu mai sta
+Nu mai amâna
+
+[s3]
+3. Fericiri în astă lume
+Nimeni n-a găsit
+Nici odihnă sufletească
+Nimeni n-a primit
+Domnul Isus te așteaptă
+Să te-ntorci din drum
+Nu mai sta-n păcatul tău
+Vino chiar acum
+
+[order]
+s1,r1,s2,r1,s3,r1

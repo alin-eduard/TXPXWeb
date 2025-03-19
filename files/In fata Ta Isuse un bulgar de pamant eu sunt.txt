@@ -1,0 +1,56 @@
+[s1]
+În faţa Ta, Isuse,
+un bulgăr de pământ eu sunt
+Şi totuşi uit adesea
+crezând că sunt mai mult.
+Când ruga-mi ’nalţ spre ceruri
+Răspunsul Tău aştept curând
+Uitând cât Te-ai rugat Tu,
+când erai pe pământ.
+Mi m
+
+[s2]
+/: Cum să mă rog?
+Aş vrea să-mi spui
+şi ce să fac ca să mă ierţi
+Cât să mă rog?
+Să simt puterea Ta că m-a cuprins
+Şi că m-asculţi. :/
+
+[s3]
+Ca jertfă pentru mine
+Te-ai dat şi-n cuie-ai suferit.
+De ce-ai făcut-o oare?
+Da!.. ştiu că m-ai iubit.
+Mă simt dator cu viaţa
+când mă gândesc la jertfa ta
+Şi totuşi eu adesea
+nu-ţi dau dragostea mea.
+
+[s4]
+/: Cât să iubesc?
+Să pot s-arăt şi eu la fel iubirea Ta.
+Cum să iubesc?
+Să ştiu că nu îmi va
+lipsi nicicând dragostea Ta. :/
+
+[s5]
+E prea puţin o viaţă
+să stau plângând îngenunchiat,
+Să cred că am plătit
+eu tot ce ţi-am datorat.
+Dar ştiu că Tu, Isuse
+Nu-mi ceri mai mult decât pot eu,
+De-aceea pot fi sigur
+că voi fi-n cerul Tău.
+
+[s6]
+/: Cum să-Ţi mulţumesc?
+Şi nici nu ştiu ce pot
+să-Ţi dau ca să primeşti
+Inima mea
+Ţi-o dau şi vreau în ea,
+Isus, pe veci să locuieşti. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

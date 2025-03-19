@@ -1,0 +1,45 @@
+[s1]
+1. Haideţi spre patria cerească
+Haideţi creştini spre Canaan
+Lăsaţi şi grija cea lumească
+Fugiţi din drumul lui Satan.
+352.
+
+[s2]
+2. Mulţi fraţi de-ai noştri sunt departe
+Abia se mai zăresc pe drum
+Dar voi cu-nşelăciuni deşarte
+Vai n-aţi plecat nici până acum.
+
+[s3]
+3. Haideţi creştini Domnul vă cheamă
+Cu glasul Lui ceresc şi blând
+Ne spune ca o scumpă mamă
+Veniţi copii, veniţi curând.
+
+[s4]
+4. Veniţi cei osteniţi la Mine
+Veniţi de luaţi jugul Meu
+Şi veţi vedea cât e de bine
+Aici unde mă aflu Eu.
+
+[s5]
+5. Intraţi şi voi pe poarta strâmtă
+Căci numai cei ce trec prin ea
+Ajung la patria cea sfântă
+Şi moartea nu vor mai vedea.
+
+[s6]
+6. Veniţi dar nu mai staţi pe gânduri
+Fugiţi din drumul lui Satan
+Veniţi, veniţi în rânduri, rânduri
+Veniţi creştini spre Canaan.
+
+[s7]
+7. Auzi tu dragă frăţioare
+Ce dulci cuvinte ni s-a spus
+De ce să n-ascultăm noi oare
+De glasul Domnului Isus.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

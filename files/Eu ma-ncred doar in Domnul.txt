@@ -1,0 +1,40 @@
+[s1]
+/: Eu ma-ncred doar in Domnul
+Eu ma-ncred doar in El
+Caci ce a promis isi tine
+E credincios mereu :/
+
+[r1]
+/: Poate sa sufle vantul
+Si valuri de-ar veni
+Isuse da-mi credinta
+Prin Tin’ voi birui
+Poate sa urle marea
+Sa spumege mereu
+Al meu Domn e puternic
+E singur Dumnezeu :/
+
+[s2]
+/: Credinta de-mi slabeste
+Eu strig dupa ajutor
+O Tata da-mi putere
+Sa fiu biruitor :/
+
+[s3]
+/: Cuvantul Sau ma tine
+Imi da avant mereu
+In El gasesc nadejde
+Oricat mi-ar fi de greu :/
+
+[s4]
+/:Poate sa sufle vantul
+Si valuri de-ar veni
+Isuse da-mi credinta
+Prin Tin’ voi birui
+Poate sa urle marea
+Sa spumege mereu
+Al meu Domn e puternic
+E singur Dumnezeu:/
+
+[order]
+s1,r1,s2,r1,s3,s4

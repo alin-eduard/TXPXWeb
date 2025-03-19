@@ -1,0 +1,32 @@
+[s1]
+Cântă corul îngeresc:
+„Slavă Tatălui ceresc!
+Pace fie pe pământ!“
+S­a născut Copilul Sfânt.
+Fiul sfânt demult promis a venit,
+De sus trimis.
+/: Cântă corul îngeresc:
+„Slavă Tatălui ceresc!“ :/
+
+[s2]
+Cel din cerul minunat,
+Preamărit şi înălţat,
+Pe pământ jos a venit
+Şi ca noi trup a primit.
+S­a jertfit, a pătimit,
+Chiar şi moarte­a suferit,
+/: De păcate ne­a spălat,
+Viaţă nouă El ne­a dat. :/
+
+[s3]
+Totul noi avem în El,
+Dumnezeu Emanuel;
+Bucuros El vrea să dea pacea
+Şi iertarea Sa;
+Cerul Său cel strălucit
+Chiar de El e pregătit
+/: Pentru cei răscumpăraţi
+Şi cei binecuvântaţi. :/
+
+[order]
+s1,s2,s3

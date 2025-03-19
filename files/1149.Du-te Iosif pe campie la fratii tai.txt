@@ -1,0 +1,76 @@
+[s1]
+1149.
+1.       Du-te Iosif pe câmp la fraţii tăi
+Ca să-mi aduci ceva veste de la ei
+Dacă-s bine sănătoşi de mai trăiesc
+Vreau să ştiu copiii mei cum se găsesc
+Aşa Iacov către Iosif a grăit
+Că mii dor de Iuda şi de Isahar
+De Neftali, Zabulon şi de Ruben.
+Fraţii mei o fraţii mei
+Unde-i pot găsi pe ei
+Am să-i caut până-i găsesc
+Câmpu-n lung de-l ocolesc
+S-aduc ştire de la ei
+Înapoi la tatăl meu.
+
+[s2]
+2.       Fraţii lui Iosif cu oile erau
+A lui Iacov oi cu toţii ei le păşteau
+Pe câmp jos în vale la Sihem
+Lângă ape din ţinutul lui Dotan
+Iată vine visătorul ce-a visat
+Unul dintre fraţii lui iată a strigat
+Să-l omoare între ei s-au hotărât
+Şi să-i spună că o fiară l-a ucis.
+Fraţii mei, o fraţii mei zisa Iosif către ei
+Atât de mult v-am căutat
+Până când eu v-am aflat
+Pe câmpie am rătăcit
+Până când eu v-am găsit.
+
+[s3]
+3. Fără milă ei atunci l-au dezbrăcat
+Şi într-o fântână ei l-au aruncat
+Atunci Dumnezeu pe Iuda l-a trezit
+Căci Iosif de la moarte a fost păzit
+Mai bine sa-l vindem la Ismaeliţi
+Şi-atunci l-au dat cu douăzeci de arginţi
+Bietul Iosif vai copilul meu iubit
+E vândut de fraţii săi rob în Egipt
+Fraţii mei, o fraţii mei ce sunteţi aşa de răi
+Ce va zice tatăl meu
+Când lipsi-voi dintre voi
+Vai părinţii mei iubiţi  nu ştiu de mă mai vedeţi
+
+[s4]
+4.   Dumnezeu cu Iosif are un mare plan
+El ajunge în ţara lui Faraon
+Însă Iacov plânge foarte amărât
+Crezând ca Iosif fiul său a murit
+Văzând cămaşa lui Iosif toată ruptă
+Şi muiată şi stropită în sânge
+Atunci Iacov cu durere se lupta
+Foarte amărât şi continuu plângea
+Fiul meu, o fiul meu de-aş putea să mor şi eu
+Să plec de pe-acest pământ
+Iosif e la-l tău mormânt
+Chipul tău să-l mai privesc
+Şi apoi să mă răcoresc.
+
+[s5]
+5.   Dumnezeul lui Avraam cel minunat
+Durerile lui Iacov El le-a legat
+Mai înainte ca să intre în mormânt
+El cu Iosif se întâlneşte pe pământ
+El cu fii lui pleacă din Canaan
+Şi se duce în faţa lui Faraon
+Unde se găseşte Iosif fiul său
+Sprijinit şi ocrotit de Dumnezeu
+Fiul meu, o fiul meu mare este Dumnezeu
+Nu credeam că mai trăieşti
+Iosife oare tu eşti să mor de-acuma liniştit
+Căci pe tine te-am găsit.
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,56 @@
+[s1]
+Cu potop de stricăciuni,
+cu păcate şi-urâciuni,
+S-a-ntinat acest pământ. (toţi)
+Doamne cine ar putea
+să ajungă-n Ţara Ta,
+Când Tu eşti atât de sfânt.
+
+[s2]
+Din mijlocu-acestei lumi,
+Te chemăm în rugăciuni.
+Suntem răi nu suntem buni,
+dar strigăm spre Tine.
+Doamne ştim suntem greşiţi,
+şi am fost nesocotiţi.
+Dar venim acum smeriţi,
+iartă-ne stăpâne.
+
+[s3]
+Suntem căldicei şi goi,
+cu Satan în crunt război.
+Doamne-ndură-Te de noi.
+După curăţia Ta
+nu puteam în Cer intra.
+De n-ar fi fost Golgota.
+
+[s4]
+Cine-ar fi fost mântuit,
+şi de moarte izbăvit.
+Dacă nu ne-ai fi iubit,
+în dragostea-Ţi mare.
+N-ar fi stat în faţa Ta,
+în picioare nimeni.
+De n-ar fi fost jertfa Ta,
+Jertfă de Salvare.
+
+[s5]
+Dacă-n seamă ne-ai ţinea,
+a noastră purtare rea.
+Negreşit ne-ai nimici.
+Dar Tu Doamne doar ne cerţi,
+ne primeşti şi iar ne ierţi.
+Căci ne vrei în veşnicii.
+
+[s6]
+De aceea-Ţi mulţumim,
+şi de toate ne căim.
+Şi pentru tot ce greşim,
+îţi cerem îndurare.
+La al Tău tron ne-aplecăm,
+şi-un cuvânt doar aşteptăm.
+Spune-l Doamne, te rugăm,
+doar atât: „Iertare!”
+
+[order]
+s1,s2,s3,s4,s5,s6

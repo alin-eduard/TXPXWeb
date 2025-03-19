@@ -1,0 +1,63 @@
+[s1]
+1. M-ai trecut
+Prin valuri grele,
+Prin furtuni şi prin cuptor
+Am strigat spre cer,
+Spre stele
+Te-am chemat în ajutor.
+1223     								  RE
+
+[s2]
+Am crezut că m-ai lăsat,
+Am crezut că m-ai uitat,
+Dar Tu, Doamne,
+M-ai vegheat
+Căci m-ai vrut aur curat.
+
+[s3]
+2.Iar atunci
+Când disperarea
+Inima îmi chinuia
+Tu mi-ai adus vindecarea
+Arătându-Ți slava Ta.
+
+[s4]
+Mi-ai vorbit
+Cu voce blândă
+Şi m-ai mângâiat duios
+M-ai scăpat
+De grea osândă
+Medic bun, Isus Hristos.
+
+[s5]
+3.Azi eu stau
+La umbra crucii
+Şi Îţi mulţumesc frumos
+Căci din noaptea
+Rece-a morţii
+Numai Tu,Doamne,
+M-ai scos.
+
+[s6]
+M-ai luat de mâna dreaptă,
+M-ai scăpat de câinii răi,
+M-ai urcat treaptă cu treaptă
+Căci m-ai vrut printre ai Tăi
+
+[s7]
+4.Vreau de-acuma
+Să Te laud,
+Vreau de-acum
+Să Te slăvesc!
+Până voi ajunge-n ceruri
+Printre sfinţi să strălucesc.
+
+[s8]
+Să Îţi cânt o veşnicie,
+Veşnicule Împărat!
+Cu Enoh şi cu Ilie
+Şi cu-acei
+Ce Te-au urmat.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

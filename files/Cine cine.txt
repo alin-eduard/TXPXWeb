@@ -1,0 +1,48 @@
+[s1]
+/:Cine? Cine?:/
+vrea sa simta azi pe Domnul
+/:Cine? Cine?:/
+vrea sa bea din apa Sa
+/:Cine? Cine?:/
+vrea sa simta bucuria
+/:Cine? Cine?:/
+sa-si deschida inima
+
+[r1]
+/: Sa-i cantam, cantari de bucurie
+Sa-I cantam cu totii Domnului Isus
+Sa-si reverse-o binecuvantare
+Astazi peste toata Casa Lui :/
+
+[s2]
+/: Cine? Cine? :/
+are astazi o povara
+/: Cine? Cine? :/
+este astazi intristat
+/: Poate, Poate :/
+sa vina astazi cu povara
+/: La cel, care :/
+crucea noastra a purtat
+
+[s3]
+/: Daca, daca :/
+vrei o binecuvantare
+/: Domnul, Domnul :/
+pe vecie ti-o va da
+/: Daca, daca :/
+Vei canta in adunare
+/: Si tu, te vei :/
+bucura, Aleluia
+
+[s4]
+/: Cine? Cine? :/
+vrea sa steie langa Domnul
+/: Cine? Cine? :/
+sa nu dea nicand ‘napoi
+/: Cine? Cine? :/
+asculta a Lui chemare
+/: Cine? Cine? :/
+sa cante acum cu noi
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

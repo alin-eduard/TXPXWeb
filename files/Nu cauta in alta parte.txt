@@ -1,0 +1,30 @@
+[s1]
+Nu căuta în altă parte
+Un loc mai bun, mai fericit !
+/: Nimeni în lumea-aceasta
+Nu-i mai bun decît Tin,, Isuse!
+Pe nimeni noi mai bun nu vom găsi. :/
+
+[s2]
+Tot ce lumea azi ne-oferă
+Toate sînt nişte-amăgiri.
+/: Nimeni în lumea-aceasta
+Nu-i mai bun decît Tin,, Isuse!
+Pe nimeni noi mai bun nu vom găsi. :/
+
+[s3]
+Cel rău vrea ca să ne-atragă
+Noi nicidecum nu-i vom ceda !
+/: Nimeni în lumea-aceasta
+Nu-i mai bun decît Tin,, Isuse!
+Pe nimeni noi mai bun nu vom găsi. :/
+
+[s4]
+Noi vom rămîne lîngă Tine
+Vrem pentru Tine să trăim !
+/: Nimeni în lumea-aceasta
+Nu-i mai bun decît Tin,, Isuse!
+Pe nimeni noi mai bun nu vom găsi. :/
+
+[order]
+s1,s2,s3,s4

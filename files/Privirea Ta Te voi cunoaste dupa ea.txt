@@ -1,0 +1,36 @@
+[s1]
+Privirea Ta - Te voi cunoaşte după ea
+În mine am un suflet însetat.
+Mâinile mai poartă şi azi semnele
+E mult de-atunci, dar nu s-au vindecat.
+Însă vine-o zi
+Te voi vedea, Isus !
+
+[r1]
+Te voi vedea în lumina Ta !
+Şi îngenuncheat
+Prin sângele Tău
+Iertat şi salvat !
+Din inimă voi cânta
+Când, sus în cer
+Când credinţa mea
+Se va împlini !
+
+[s2]
+Iubirea Ta - Te voi cunoaşte după ea
+Te voi slăvi cu cei răscumpăraţi !
+Te voi vedea, faţă în faţă voi vedea
+Atît de-aproape cum nici n-am visat !
+Ştiu că vine-o zi
+Te voi vedea, Isus !
+
+[s3]
+Cu Tin, voi fi
+Viaţa voi împlini !
+Speranţa mea
+Un foc ce arde nestins
+Nu va muri
+Pînă cînd vine Isus !
+
+[order]
+s1,r1,s2,r1,s3,r1

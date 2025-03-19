@@ -1,0 +1,51 @@
+[s1]
+1. Străină-a fost viaţa mea
+Şi plânsul m-a-nsoţit în ea
+/: A fost o viaţă de amar
+Şi de dureri fără hotar :/
+767.
+
+[s2]
+2. Târziu de tot am întâlnit
+Un Om pe care L-am iubit
+/: Eram pe lume singurel
+Şi sprijin am aflat în El. :/
+
+[s3]
+3. În seara când L-am întâlnit
+Zăcea sub cruce chinuit
+/: De greutăţi şi de amar
+Şi de dureri fără hotar :/
+
+[s4]
+4. O clipă am stat şi am privit
+Spre cel pe cruce răstignit
+/: Şi abia atunci văzui şi eu
+Câte a-ndurat Stăpânul meu :/
+
+[s5]
+5. Eu sufăr c-am păcătuit,
+Dar El de ce a suferit?
+/: Eu port a mele fărădelegi
+El a purtat a lumii-ntregi. :/
+
+[s6]
+6. Eu strig când sunt nedreptăţit
+El s-a rugat şi răstignit
+/: Eu pe duşmani i-am duşmănit
+El totdeauna i-a iubit :/
+
+[s7]
+7. Şi stând mereu privind la cuie
+Am plâns la umbra crucii Lui
+/: Am plâns mereu pierdut şi dus
+La umbra crucii lui Isus :/
+
+[s8]
+8. De atunci în sufletu-mi pustiu
+Eu L-am iubit fără să ştiu
+/: Căci am văzut în gândul meu
+Ce a făcut El şi ce fac eu :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

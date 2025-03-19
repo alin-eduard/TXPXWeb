@@ -1,0 +1,63 @@
+[s1]
+1483.
+Isus Isus cel răstignit
+El vrea ca să fii fericit
+O vin la El suflet pribeag
+Isus te aşteaptă azi cu drag
+Cor:    O de-ai cunoaşte pacea lui
+Şi harul jertfei Domnului
+O vin pe calea către cer
+Că-n lume toţi ca fumul pier
+
+[s2]
+El Mielul de pe Golgota
+A dus durerea mea şi-a ta
+Şi-a dat viaţa-n chinul greu
+Şi ne-a scăpat pe noi de rău
+Cor:    O de-ai cunoaşte pacea lui
+Şi harul jertfei Domnului
+O vin pe calea către cer
+Că-n lume toţi ca fumul pier
+
+[s3]
+3.  O nu te doare rana lui
+Căci pentru tine a stat în cui
+Şi pentru tine a sângerat
+Ca să te scape de păcat
+Cor:    O de-ai cunoaşte pacea lui
+Şi harul jertfei Domnului
+O vin pe calea către cer
+Că-n lume toţi ca fumul pier
+
+[s4]
+4.  O vino acuma nu mai sta
+Predă-ţi viaţa în slujba Sa
+Cu suflet frânt şi umilit
+Ca azi să poţi fi mântuit
+Cor:    O de-ai cunoaşte pacea lui
+Şi harul jertfei Domnului
+O vin pe calea către cer
+Că-n lume toţi ca fumul pier
+
+[s5]
+5.  Căci pe pământ şi-n ceruri sus
+În nici un nume nu s-a spus
+Că vom putea fi mântuiţi
+Ci doar prin El suntem primiţi
+Cor:    O de-ai cunoaşte pacea lui
+Şi harul jertfei Domnului
+O vin pe calea către cer
+Că-n lume toţi ca fumul pier
+
+[s6]
+6.  Deci vino nu mai sta pe gând
+Isus te cheamă cu glas blând
+Să nu respingi chemarea Lui
+Vino-n poporul Domnului
+Cor:    O de-ai cunoaşte pacea lui
+Şi harul jertfei Domnului
+O vin pe calea către cer
+Că-n lume toţi ca fumul pier
+
+[order]
+s1,s2,s3,s4,s5,s6

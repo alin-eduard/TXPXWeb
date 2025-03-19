@@ -1,0 +1,37 @@
+[s1]
+/: Sfînt eşti, Doamne ! :/
+Atotputernic !
+Înălţăm a noastre inimi
+Doamne, înaintea Ta
+/: Sfînt eşti, Doamne ! :/
+
+[s2]
+/: Bun Părinte :/
+Fericiţi ca fii Îţi sîntem
+Mîini curate către Tine
+Doamne, astăzi înălţăm
+/: Bun Părinte ! :/
+
+[s3]
+/: Scump Isuse :/
+Ne-ai salvat prin al Tău sînge!
+Izbăviţi, a noastre mîini
+Spre Tine azi ridicăm
+/: Scump Isuse ! :/
+
+[s4]
+/: Sfinte Spirit :/
+Umple azi a noastre inimi
+Călăuză ne rămîi
+În viaţa noastră pe Pămînt
+/: Sfinte Spirit ! :/
+
+[s5]
+/: Aleluia ! :/
+Slavă pe vecie-Ţi dăm
+Dumnezeu atotputernic
+Noi pe Tine Te mărim
+/: Aleluia ! :/
+
+[order]
+s1,s2,s3,s4,s5

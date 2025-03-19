@@ -1,0 +1,29 @@
+[s1]
+1. Ogoarele sunt gata de recoltă
+Dar lucrătorii sunt aşa puţini
+Mă dăruiesc o Doamne-n întregime
+Ca să culeg recolta dintre spini.
+241								        FA
+
+[r1]
+Cor:
+/:Sunt aici la dispoziţia Ta
+Cheamă-mă Te voi asculta.:/
+
+[s2]
+2. E timpul potrivit pentru popoare
+Mai sunt în lume încă mari nevoi
+Isus mai cheamă
+Oameni în lucrare
+Ca să culeagă grâul dintre spini.
+
+[s3]
+3. Suntem noi sare
+Pentru lumea aceasta?
+În întuneric suntem noi lumini?
+Trăim ca Domnul
+În vorbe şi în fapte?
+Să ştie lumea că suntem creştini.
+
+[order]
+s1,r1,s2,r1,s3,r1

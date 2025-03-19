@@ -1,0 +1,74 @@
+[s1]
+2238
+1. E noapte-n Ghetsimani,
+o noapte grea și-adâncă
+Nici stele nu-s pe cer
+și totu-i un mister
+Totul e amorțit,
+numai o șoaptă frântă
+Se-aude suspinând,
+în noapte implorând.
+
+[s2]
+/: O, Tată bun din cer
+E tare greu acum,
+Dar dacă-i voia Ta,
+Eu Ție mă supun :/.
+
+[s3]
+2. Ostașii L-au legat,
+L-au dus la marii preoți
+Apoi și la Pilat să fie judecat
+Din spini au împletit cunună
+pe-a Lui frunte
+Și L-au batjocorit,
+adânc L-au umilit.
+
+[s4]
+Pilat, tu n-ai avea putere
+asupra Mea, de nu ți s-ar fi dat Din cerul preaînalt
+De unde am venit
+Și v-am mărturisit
+tot ce-i adevărat
+Și vrednic de urmat.
+
+[s5]
+Calvarul l-a suit
+cu crucea grea pe umăr
+Hulit și istovit,
+în praf s-a prăbușit
+Apoi L-au răstignit
+să moară ca tâlharii,
+Iar El însângerat la Tatăl a strigat.
+
+[s6]
+O, Tată preaînalt
+de ce Tu M-ai lăsat,
+De ce M-ai părăsit
+Părinte preaiubit?
+O, iartă-i Tu pe ei,
+pe cei ce Mă lovesc,
+Căci astăzi ei nu știu
+Pe cine răstignesc.
+
+[s7]
+4. Și noi L-am răstignit
+adeseori pe cale,
+Și noi L-am umilit
+Și L-am batjocorit
+Dar blând și iubitor, El ne-a chemat pe nume
+Să fim a Lui popor
+pe veci nemuritor.
+
+[s8]
+Este adevărat,
+azi vouă Eu vă zic,
+la Tatăl preaînalt,
+Locul v-am pregătit
+Veniți voi cei trudiți
+Și greu împovărați,
+În casa Tatălui
+/: voi sunteți așteptați :/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

@@ -1,0 +1,29 @@
+[s1]
+Ce mare bucurie!
+Eu am un prieten bun
+Ce poartă grija mea mereu
+Şi mă iubeşte mult,
+Eu n-aş putea fi fără El,
+Îl port în pieptul meu,
+Trăim în părtăşie: Isus şi eu.
+
+[s2]
+El bine mă cunoaşte
+Şi ştie că-L iubesc,
+De-a Lui iubire îndeajuns
+Eu nu pot să vorbesc.
+O, cât de minunat e El,
+Mântuitorul meu,
+Trăim în legătură: Isus şi eu.
+
+[s3]
+Când eu Îi spun necazul
+Şi-ngrijorarea mea
+Şi Îi arăt durerea mea
+Şi suferinţa-mi grea
+El mă învaţă ce să fac
+Şi sfat îmi dă mereu,
+Aşa 'nainte mergem: Isus şi eu.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,32 @@
+[s1]
+Cel mai scump cuvant de pe pamant
+Cel dintai suflu, cel din urma cant
+Legamant divin, pace si alin
+Esti iubirea Tu Isus
+Speranta da cand e totul pierdut
+Credinta sa ma prostern pe genunchi
+Numai dragostea va da forta de-a lupta
+
+[r1]
+Si-acum eu stiu
+A iubi inseamna sa jertfesti
+bucuros ce ai sa daruiesti
+Si-acum eu stiu
+Dragostea-i suras dar si suspin
+iar motivul de-a incepe-o noua zi
+E dragostea Ta
+
+[s2]
+Cand iubesti renunti fara sa regreti
+Si incurajezi chiar de slab te simti
+Cand ti-e greu si plangi sa biruiesti
+cu iertare peste ura sa treci
+Sa fii smerit cand mereu esti ranit
+sa multumesti pentru tot ce-ai primit
+Numai dragostea va da forta de-a lupta
+Ce-i din jur vor afla
+ce-nseamna dragostea
+Doar privind atent viata ta
+
+[order]
+s1,r1,s2,r1

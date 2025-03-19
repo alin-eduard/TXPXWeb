@@ -1,0 +1,40 @@
+[s1]
+1983
+1. Ești necuprins de timp și spațiu
+De orice gândire mai pe sus
+Ești pretutindenea în toate
+Și totuși cât de nepătruns
+Deasupra tuturor o Doamne
+Cu măreție strălucești
+Cu-nțelepciunea-Ți fără margini
+În orice clipă mă uimești.
+
+[r1]
+Cor: Doamne din veşnicie eşti acelaşi
+Iehova e numele tău
+Splendori cereşti te înconjoară
+Din veşnicie-n veşnicie eşti mereu
+Iehova Dumnezeu.
+
+[s2]
+2. Eşti Dumnezeu din veşnicie
+Izvorul tainicei lumini
+În cer Ţi-e tronul de domnie
+Înconjurat de heruvimi
+Eşti Tatăl nostru bun şi mare
+Ce ne dai pâine zi de zi
+Şi adunarea-n sărbătoare
+Îţi cântă sfinte melodii.
+
+[s3]
+3. În faţa măreţiei Tale
+Se-nchină orice muritor
+Ţi se înalţă osanale
+Atotputernic Creator
+În toate voia Ta să fie
+Sfinţească-se Numele Tău
+Vie a Ta împărăţie
+Preasfânt şi mare Dumnezeu.
+
+[order]
+s1,r1,s2,r1,s3,r1

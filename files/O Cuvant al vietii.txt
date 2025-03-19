@@ -1,0 +1,33 @@
+[s1]
+O, Cuvânt al vieţii,
+dătător de har,
+Răscoleşte bezna nopţii grele iar!
+Zboară, spre-orizonturi,
+cu lumina Ta
+Dar şi-n viaţa noastră
+să-Ţi reverşi din ea?
+
+[r1]
+/: Este vremea să ne ridicăm,
+Flacăra credinţei să-nălţăm!
+Ochii să ne fie ridicaţi în sus!
+În curând, cu slavă, va veni Isus :/
+
+[s2]
+O, Cuvânt al vieţii,
+sfânt izvor ceresc,
+Stinge flacăra păcatelor ce cresc!
+Udă înc-o dată via lui Isus!
+Binecuvântată-i ploaia Sa de sus.
+
+[s3]
+O, Cuvânt al vieţii,
+toate-om părăsi;
+Pe-a uitării cale, se vor risipi
+Peste toate-n lume,
+veşnic, vei şedea.
+De la început ai fost,
+în veci vei sta.
+
+[order]
+s1,r1,s2,r1,s3,r1

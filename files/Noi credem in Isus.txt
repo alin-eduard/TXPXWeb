@@ -1,0 +1,26 @@
+[s1]
+Noi credem în Isus şi-n jertfa sfântă
+În mântuirea dată prin Hristos
+Noi credem că Isus binecuvântă
+Cu Duhul Sfânt pe orice credincios
+
+[r1]
+Credinţa, o, credinţa
+E puterea ce creştinii toţi o cer
+Credinţa, o, credinţa
+E puterea ce ne duce sus în cer
+
+[s2]
+S-avem în noi credinţa tot mai vie
+În vremea scurtă care ne-a rămas
+Să ne-nsoţească cu puterea-i vie
+Când vom străbate-al încercării ceas
+
+[s3]
+Veniţi ca să luptăm pentru credinţa
+Ce Isus a lăsat la-nvăţăcei
+Şi chiar prin greutăţi şi prin prigoane
+Să nu slăbim nicicând stindardul ei
+
+[order]
+s1,r1,s2,r1,s3,r1

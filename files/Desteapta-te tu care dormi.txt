@@ -1,0 +1,34 @@
+[s1]
+Deşteaptă-te tu care dormi
+Şi nu veghezi în noapte
+Ridică-te, ridică-te,
+Căci zorii sunt aproape.
+Căci aţipirea ta de-acum
+Te poate costa viaţa
+Dacă nu eşti din Sfântul Izvor
+Îţi pierzi toată răsplata.
+
+[s2]
+Căci timpul e pe sfârsit
+Şi vesnicia-i lungă
+Tu poti cu Isus ca să fii
+Sau în infern în umbra.
+
+[s3]
+E drept că-i greu de-naintat
+Când mulţi adorm pe cale
+Dar dacă crezi şi dacă lupţi
+Tot răul va dispare
+Daca nu stii de-ai aţipit
+Şi nu-ntelegi ce-i somnul
+Întreabă-te dacă rodeşti
+Rodul care-L vrea Domnul.
+
+[s4]
+De-ai observat c-ai aţipit
+Apucă-n grabă mare
+Cuvântul, postul, rugăciunea
+Şi vei primi iertare.
+
+[order]
+s1,s2,s3,s4

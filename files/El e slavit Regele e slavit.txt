@@ -1,0 +1,15 @@
+[r1]
+El e slăvit, Regele e slăvit
+Sus în cer şi eu Îl slăvesc.
+El e slăvit, Regele e slăvit
+Sus în cer şi eu Îi cânt.
+
+[r2]
+El este Domn,
+Adevărul Său veşnic e
+Cer şi Pământ
+Se bucură-n Numele-I Sfânt.
+El e slăvit, Regele e slăvit Sus în cer.
+
+[order]
+r1,r2,r1,r2,r1,r2

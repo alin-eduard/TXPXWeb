@@ -1,0 +1,42 @@
+[s1]
+1677.      Re m
+1. Biserică păstreză ce-ai primit
+Căci mântuire
+Prin Golgota ai găsit
+/:Chiar de suspini
+O, porumbiţa mea
+Nu mai e mult
+Şi-n sus tu vei zbura:/
+
+[s2]
+2. Întoarce-te la faptele dintâi
+Înflăcărată şi aprinsă-n
+Duhul Sfânt
+/:Să-ţi ardă-ntruna
+Al dragostei sfânt jar
+Şi jertfa necurmată pe altar:/
+
+[s3]
+3. De ce te pleci şi spui c-ai obosit
+Şi dragostea din piept ţi s-a răcit
+/:De ce suspini
+Şi zici că-ţi este greu
+Când mai presus de toate-i
+Dumnezeu:/
+
+[s4]
+4. E negură şi ceaţă pe pământ
+Păcatul e mai mult ca orişicând
+/:Au aţipit fecioarele-n Sion
+Mulţi au rămas
+Deci robi în Babilon:/
+
+[s5]
+5. A vremii semne azi ne prevestesc
+Revine Isus Mirele ceresc,
+/:Biserică fii gata orişicând
+Rămâi veghind
+Pe Mire aşteptând:/
+
+[order]
+s1,s2,s3,s4,s5

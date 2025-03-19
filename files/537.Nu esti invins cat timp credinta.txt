@@ -1,0 +1,45 @@
+[s1]
+1.Nu eşti învins cât timp credinţa
+Nu ţi-ai schimbat şi nu ţi-ai stins
+/: Credinţa iarăşi te ridică
+Poţi fi căzut, dar nu învins. :/
+537
+
+[s2]
+2.Nu eşti înfrânt cât ai nădejde
+Şi ţelul ei îţi este sfânt
+/: Nădejdea iarăşi te-ntăreşte
+Poţi fi trântit, dar nu înfrânt. :/
+
+[s3]
+3.Nu eşti zdrobit cât ai iubire
+Curată şi de neclintit
+/: Iubirea iarăşi te înalţă
+Poţi fi călcat, dar nu zdrobit. :/
+
+[s4]
+4.Nu eşti departe până Duhul
+Şi rugăciunea nu ţi-s reci
+/: Prin ele eşti mereu aproape,
+Dar fără ele dus pe veci. :/
+
+[s5]
+5.Nu rătăceşti cât timp ţi-e gândul
+Şi inima la ce-ai primit
+/: Când inima ţi-e-n altă parte,
+Chiar stând cu ai tăi eşti rătăcit. :/
+
+[s6]
+6.Nu mori când inima-ncetează
+Ci când de cer ai ochii rupţi
+/: Când nu mai arzi și nu mai sângeri
+Când nu mai plângi și nu mai lupţi. :/
+
+[s7]
+7.Biruitori, eroi şi vrednici
+Sunt numai cei ce neclintit
+/: Duc legământul pân' la moarte
+Şi luptă până la sfârşit. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

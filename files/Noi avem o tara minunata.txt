@@ -1,0 +1,26 @@
+[s1]
+Noi avem o ţară minunată
+Ţara noastră nu-i de pe Pământ,
+E acolo-n slava nevisată
+În Ierusalimul nou şi sfânt.
+
+[r1]
+/: Ierusalim cu temelii de iaspis
+O, ce dor sfânt de tine ne-a legat
+Noi despre tin' cântăm şi noaptea în vis
+Ierusalime sfânt şi minunat. :/
+
+[s2]
+Către tine în continuu zboară
+Dorul nostru fără de sfârşit,
+Ah, mi-e dor de tine-a noastră ţară
+De Ierusalimul pregătit.
+
+[s3]
+Adă Doamne ziua minunată
+Când acas' la Tine vom sosi,
+Să privim cetatea mult visată
+Pe care Tu ne-o vei dărui.
+
+[order]
+s1,r1,s2,r1,s3,r1

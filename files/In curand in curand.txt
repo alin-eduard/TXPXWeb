@@ -1,0 +1,22 @@
+[s1]
+În curând, în curând
+Vom da seama rând pe rând:
+Tu, păstor, tu, ucenic,
+Unde-s boabele din spic?
+Tu, plugar, tu, învăţat
+Câtă miere-ai adunat?
+/: Ce-ai făcut, ce-ai făcut/
+Cu talantul ce ţi-am dat? :/
+
+[s2]
+Doamne Sfânt, Doamne Sfânt,
+N-am fost mare pe pământ.
+Tu Stăpânul meu prea-nalt,
+Mi-ai dat mie un talant.
+Eu prin griji şi prin nevoi,
+Ţi-am adus acuma doi.
+/: ,,Aşa da! Aşa da! /
+O cetate-acum e-a ta!”:/
+
+[order]
+s1,s2

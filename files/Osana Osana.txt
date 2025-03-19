@@ -1,0 +1,18 @@
+[s1]
+Osana, Osana,
+Osana sus în înălţimi x2
+Tu eşti rege şi Domn
+În putere domneşti
+Slava Ta se va descoperi
+Osana sus în înălţimi. x2
+
+[s2]
+Glorie, Glorie,
+Glorie regelui Isus x2
+Pentru mine a răbdat
+Viaţa şi-a dat
+Dragostea-I cea mare m-a cuprins
+Glorie pentru cel ce-a învins
+
+[order]
+s1,s2

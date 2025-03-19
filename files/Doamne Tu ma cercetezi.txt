@@ -1,0 +1,25 @@
+[s1]
+Doamne Tu ma cercetezi
+De aproape si ma cunosti,
+Stii cand stau jos, stii si cand ma scol
+Stii cand umblu, stii si cand ma culc
+Imi cunosti toate caile
+Imi patrunzi toate gandurile
+
+[r1]
+Cerceteaza-ma Dumnezeule
+si cunoaste-mi inima.
+Vezi daca sunt pe o cale rea,
+si du-ma pe calea vesniciei.
+
+[s2]
+Tu ma inconjori pe dinapoi
+si pe dinainte,
+Si-Ti pui mana peste mine.
+Unde ma voi duce
+departe de Duhul Tau
+Si unde voi fugi
+departe de fata Ta
+
+[order]
+s1,r1,s2,r1

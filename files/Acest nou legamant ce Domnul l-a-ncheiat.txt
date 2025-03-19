@@ -1,0 +1,20 @@
+[s1]
+Acest nou legământ,
+ce Domnul l-a-ncheiat
+Cu noi în preaiubitul Fiu,
+e tare şi pe veac!
+
+[r1]
+/: Iar când ne adunăm
+‘naintea Tatălui,
+În orice timp, în orice loc,
+e spre plăcerea Lui :/
+
+[s2]
+Povara celui slab
+cu drag noi o purtăm,
+Si lacrimi de iertare-atunci
+noi bucurosi vărsăm.
+
+[order]
+s1,r1,s2,r1

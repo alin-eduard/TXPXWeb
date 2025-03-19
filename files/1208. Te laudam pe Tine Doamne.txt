@@ -1,0 +1,28 @@
+[s1]
+1208
+1. Te lăudăm pe Tine, Doamne
+O, Te lăudăm în cor pe Tine
+Și ne-nchinăm, cu bucurie
+O, din inimi de credință pline.
+
+[r1]
+Cor: /: Te lăudăm,(6 x)
+Pe Tine, Doamne!
+/: Te lăudăm, :/
+/: Ne-nchinăm, :/
+/: Te lăudăm! :/ (3 x)
+
+[s2]
+2. Te lăudăm pe Tine, Doamne O, slăvitul ziditor a toate,
+Căci Tu ne faci
+A noastre inimi
+O, ascultătoare și curate.
+
+[s3]
+3. Te lăudăm pe Tine, Doamne
+O, cu gânduri de iubire pline!
+Cu laudele gurii noastre
+O, în veci Te lăudăm pe Tine!
+
+[order]
+s1,r1,s2,r1,s3,r1

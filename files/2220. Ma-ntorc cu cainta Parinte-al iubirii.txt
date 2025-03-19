@@ -1,0 +1,53 @@
+[s1]
+2220
+1. Mă-ntorc cu căință
+Părinte-al iubirii
+Și-Ți cer azi iertare
+pentru-al meu trecut
+Tu mi-ai dat viața ca preț
+al mântuirii
+Când eu rătăceam
+ca și fiul pierdut
+
+[s2]
+/: Departe de casă
+în bezna pierzării
+În poftele rele adânc cufundat
+Setos de plăcere
+eu am dat uitării
+Palatul iubirii din care-am plecat:/
+
+[s3]
+2. Am ajuns în tină
+călcat în picioare
+În țara robiei cumplit umilit
+N-am fost pentru nimeni
+Isuse valoare
+Am fost pe vecie pierzării sortit
+
+[s4]
+/: Viața ce-n dar
+Tu Isuse mi-ai dat-o
+În mânile tale deplin Ți-o predau
+Am zdrobit-o-n cioburi
+și-apoi fără milă
+Eu am risipit-o în praful de jos :/.
+
+[s5]
+3. Dar Tu coborât-ai
+aici jos în tină
+În praful acela-n genunchi
+Te-ai plecat
+Și ciob lânga ciob cu iubire divină
+Ai pus laolaltă acel vas sfărâmat.
+
+[s6]
+/:De-aceea Isuse viața-mi întreagă
+În mâinile Tale deplin Ți-o predau
+Și orice mi-ai cere ajută-mi,
+O, Doamne
+Cu inimă largă
+să pot ca să-Ți dau :/.
+
+[order]
+s1,s2,s3,s4,s5,s6

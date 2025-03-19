@@ -1,0 +1,39 @@
+[s1]
+1. Mă duc la Golgota,
+s-aud ce vorbeşte,
+Să-L văd pe Domnul meu,
+cum moare pe cruce.
+2. Ce mare durere
+pe El  L-a apăsat!
+El strigă: “Părinte!
+Pentru ce M-ai lăsat? ”
+763.
+
+[s2]
+3. El nu se răzbună;
+L-aud cum S-a rugat:
+“Părinte iartă-le,
+căci ei nu ştiu ce fac! ”
+4. Maria cum plânge,
+mângâind-o zice:
+“Vezi mamă, fiul tău.
+Păzeşte-o amice! ”
+
+[s3]
+5. Iar pe acel tâlhar,
+aşa îl mângâie:
+“Încă astăzi în rai,
+vei fi tu cu Mine! ”
+6. “Setos sunt! ” El strigă,
+durerile sunt mari!
+Prietenul cel Sfânt,
+pe cruce chin răbdând.
+
+[s4]
+7. Plecând capul zice:
+“Toate sfârşitu-s-au!
+Părinte-n mâna Ta,
+sufletul Meu Ţi-l dau! ”
+
+[order]
+s1,s2,s3,s4

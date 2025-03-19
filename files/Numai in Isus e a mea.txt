@@ -1,0 +1,29 @@
+[s1]
+Numai în Isus e a mea plăcere
+Nu în lume şi avere
+Cu Domnul Isus
+Eu sunt foarte bogat
+Cu El eu nu voi fi sărac
+/:Sunt vesel cu Isus singur:/
+Sărac eram dar în Cristos sunt bogat
+Totul în El am câştigat
+
+[s2]
+Când am căzut rău şi am fost disperat
+Isus însuşi El m-a luat
+În cer moştenire El mi-a pregătit
+Un locaş frumos, aurit.
+/:Sunt vesel cu Isus singur:/
+Sărac eram dar în Cristos sunt bogat
+Totul în El am câştigat
+
+[s3]
+Isus m-a chemat, calea mi-a arătat
+Şi m-a mântuit de păcat
+Tot El m-a-ndemnat la rugăciune Să fac numai fapte bune
+/:Sunt vesel cu Isus singur:/
+Sărac eram dar în Cristos sunt bogat
+Totul în El am câştigat
+
+[order]
+s1,s2,s3

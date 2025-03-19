@@ -1,0 +1,32 @@
+[s1]
+Cum sa-Ti Multumesc
+Pentru tot ce mi-ai daruit
+Eu n-am meritat
+Ca sa ma iubesti asa de mult
+Tot cerul n-ar putea sa-Ti spuna
+Deplin recunostinta mea
+Ca tot ce sunt si ce voi fi de-a pururi
+E darul Tau divin.
+
+[s2]
+Slavit fie Domnul!
+Slavit fie Domnul!
+Slavit fie Domnul!
+Pentru tot ce mi-a dat!
+M-a spalat al Sau sange
+M-a-naltat Bratu-I tare
+Slavit fie Domnul!
+Pentru tot ce mi-a dat!
+
+[s3]
+As vrea sa-Ti fiu pe plac
+Cu viata mea cu tot ce am!
+Si gandul meu, ruga mea
+Sa inalt mereu spre Golgota!
+M-a spalat al Sau sange
+M-a-naltat Bratu-I tare
+Slavit fie Domnul!
+Pentru tot ce mi-a dat!
+
+[order]
+s1,s2,s3

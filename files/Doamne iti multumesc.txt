@@ -1,0 +1,35 @@
+[s1]
+Doamne, îţi mulţumesc
+Pentru tot ce îmi dai
+Pentru încercări,
+Bucurii şi întristări.
+
+[r1]
+/: Tată, Te slăvesc că eşti cu mine,
+La orice pas că mă conduci
+Prin biruinţi, în orice ceas
+Îţi mulţumesc că eşti în mine :/
+
+[s2]
+Doamne, lucrează Tu
+În viaţa mea, în inima mea
+Şi să-mi dai iertarea
+Şi eliberarea,din întuneric.
+
+[s3]
+Doamne, Îţi mulţumesc
+Pentru soare şi lumină
+Şi cât Te iubesc şi Te doresc
+În a mea fiinţă.
+
+[s4]
+/: Eşti o stâncă tare,
+În vreme bună şi în furtună
+Eu la Tine vin cu viaţa mea
+să mă închin
+Îţi mulţumesc, pentru lumină :/
+Doamne îţi mulţumesc
+Pentru ce îmi dai.
+
+[order]
+s1,r1,s2,r1,s3,s4

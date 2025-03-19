@@ -1,0 +1,25 @@
+[r1]
+Toţi: o stea pe cer se arată
+Să ne-nchinăm venim îndată
+Inima în dar să-i dăm
+Regelui Emanuel!
+
+[s1]
+Fete: un copil ni s-a născut
+Băieţi: o stea pe cer se-arată
+Fete: fiu de rege ni s-a dat
+Băieţi: să ne-nchinăm, venim îndată
+Toti: îl vor numi cel minunat
+Sfetnic, Domn şi împărat
+Mesia cel aşteptat
+
+[s2]
+Băieţi: ca şi magii îl căutăm
+Fete: o stea pe cer se-arată
+Băieţi: într-o iesle să-l aflăm
+Fete: să ne-nchinăm, venim îndată
+Toţi: pe Isus pruncul cel sfânt
+Mântuire pe pământ bucurie îi colindăm
+
+[order]
+r1,s1,r1,s2

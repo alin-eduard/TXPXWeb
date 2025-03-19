@@ -1,0 +1,48 @@
+[s1]
+Un singur lucru
+este ramane si va fi.
+Nadejdea va apune,
+credinta s-a sfarsi.
+Ca toate-s trecatoare
+in lumea asta rea,
+Chiar viata de-ar dispare,
+ea tot va ramanea.
+
+[s2]
+Dragostea nicicand
+nu va pieri.
+Cunostinta va dispare,
+proorociile-or sfarsi.
+Chiar vorbirea-n limbi
+va trece pana Isus va veni.
+Insa una va ramane:
+dragostea va dainui!
+
+[s3]
+Staruiti in rugaciune
+si smeriti sa va purtati,
+In sarguinta fara preget,
+ca pe toti sa ajutati.
+Alipiti-va de bine
+si de rau sa va feriti
+Prin Isus, lumina vietii,
+dragostea s-o mosteniti.
+
+[r1]
+/: Dragostea nicicand
+nu va pieri.
+Cunostinta va dispare,
+proorociile-or sfarsi.
+Chiar vorbirea-n limbi
+va trece pana Isus va veni.
+Insa una va ramane:
+dragostea va dainui! :/
+
+[s4]
+Dragostea aduce viata,
+dragostea-I din Dumnezeu,
+Dragostea invinge totul,
+e putere cand ti-e greu.
+
+[order]
+s1,s2,s3,r1,s4,r1

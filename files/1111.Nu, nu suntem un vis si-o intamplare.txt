@@ -1,0 +1,85 @@
+[s1]
+1.Nu, nu suntem
+Un vis şi-o întâmplare
+Un lut de sine
+Însuşi frământat
+1111                                                          Re m
+
+[s2]
+/:Ci ne-a zidit
+O mână creatoare
+O-nţelepciune
+Fără de hotare
+/:Există Dumnezeu :/
+Cu-adevărat :/
+
+[s3]
+2.Nu, nu suntem
+Jivine-ntunecate
+Gonite de un bici
+Ne-nduplecat
+
+[s4]
+/:Căci noi avem
+Un Duh şi-o libertate
+Şi-o inimă
+Ce pentru ceruri bate
+/: Există Dumnezeu :/
+Cu-adevărat :/
+
+[s5]
+3.N-ar fi simţit
+În veci de veci Țărâna
+Surâsul unui crin
+Imaculat
+
+[s6]
+/: De n-ar fi-ntins atunci
+Stăpânul mâna
+Să umple-n noi
+De simţământ fântâna
+/: Există Dumnezeu :/
+Cu-adevărat :/
+
+[s7]
+Da, e cu noi
+Scriptura ca dovadă
+Avem minuni
+Și semne ne-ncetat
+
+[s8]
+/: Şi cine vrea
+Pe Dumnezeu să-L vadă
+Să stea în faţa Lui
+Pe baricadă
+/: Există Dumnezeu :/
+Cu-adevărat :/
+
+[s9]
+5.Nu-i calea noastră Veşnic însorită.
+Nu-i viaţa
+Totdeauna un palat,
+
+[s10]
+/: Dar o trăim
+Căci merită trăită
+Căci peste lumea
+Asta mărginită
+/: Există Dumnezeu:/
+Cu-adevărat:/
+
+[s11]
+6.Nu, nu suntem neant! Ce fericire!
+Supremul Adevăr
+S-a revelat.
+
+[s12]
+/:Isus e-n noi
+Lumină și iubire
+Iar moartea-i doar
+Un zbor spre nemurire
+/: Există Dumnezeu! :/
+Ce minunat! :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12

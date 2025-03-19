@@ -1,0 +1,27 @@
+[s1]
+76.                                                   Mi
+1. Mulţumim noi Doamne
+Scump cuvântul Tău
+Inima o deschide
+Şi o sfinţeşte.
+
+[s2]
+2. În veci nu înceta
+A ne milui
+Dă inimei hrană
+Păstorul turmei.
+
+[s3]
+3. Şi acum noi Doamne
+La Tine am venit
+Dă-ne nouă partea
+Care ne-ai gătit.
+
+[s4]
+4. Din Sfânta Scriptură
+Noi am auzit
+Că viaţa de veci
+Nouă ne-ai gătit.
+
+[order]
+s1,s2,s3,s4

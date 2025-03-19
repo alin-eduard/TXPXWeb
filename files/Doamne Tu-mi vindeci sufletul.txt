@@ -1,0 +1,22 @@
+[s1]
+Doamne Tu-mi vindeci sufletul,
+Doamne Tu-mi vindeci şi trupul,
+Tu eşti Domnul.
+Doamne Tu mă eliberezi,
+Doamne Tu mă şi cercetezi,
+Tu eşti Domnul.
+
+[s2]
+Şi Te voi lăuda, da eu Te voi lăuda.
+Te voi iubi cu toată inima.
+Şi Te voi lăuda, da eu Te voi lăuda.
+Te voi iubi cu inima.
+
+[s3]
+Tu eşti Alfa şi Omega,
+Început şi sfârşit eşti.
+Tu eşti ajutorul meu,
+Totdeauna lângă Tine voi fi.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,15 @@
+[r1]
+Nimeni nu e ca Tine
+Nimeni n-a putut viaţa-mi schimba
+Oricât de mult aş căuta, n-aş găsi
+Nimeni nu-i ca Tin’
+
+[r2]
+Dragostea-Ţi fără de margini
+Inima mi-a copleşit
+Sunt în siguranţă
+Sub braţul Tău sfânt
+Nimeni nu-i ca Tin’
+
+[order]
+r1,r2,r1,r2,r1,r2,r1

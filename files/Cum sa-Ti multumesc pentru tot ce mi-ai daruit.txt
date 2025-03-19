@@ -1,0 +1,25 @@
+[s1]
+Cum să-Ţi mulţumesc
+pentru tot ce mi-ai dăruit ?
+Acum înţeleg dragostea
+ce mi-ai arătat !
+Nici corul a mii de îngeri
+n-ar exprima tot ce gândesc
+Căci Tu mi-ai dat odihnă-n suflet, de-aceea am să cânt :
+
+[r1]
+/: Dau Domnului slavă :/ (3x)
+Pentru tot ce-a făcut !
+La Calvar El m-a mântuit
+Pentru min, moartea-a suferit !
+Dau Domnului slavă
+Pentru tot ce-a făcut !
+
+[s2]
+Da, vreau să cânt mereu
+Să Te slăvesc, o, Domnul meu
+Şi viaţa-ntreagă să Ţi-o-nchin
+Căci numai Tu eşti Domn în veci !
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,32 @@
+[s1]
+Isuse scump, la Tine, vin
+Sa-Ti spun tot ce m-apas-amar;
+De-atatea ori m-ai ascultat,
+Umplandu-mi sufletul de har.
+
+[r1]
+/: In Tine am :/ sperante vii,
+In Tine eu nadajduiesc;
+De-aceea tot necazul meu,
+Isuse, Ti-l marturisesc! :/
+
+[s2]
+La Tine vin si vreau, Isus,
+Sa-Ti spun ce altuia nu-I spun,
+Sa stiu ca Tu, ca altadat’,
+Ai sa m-asculti, Isuse bun.
+
+[s3]
+Mi-e somnul-atat de tulburat!
+Dar eu la Tine iarasi vin
+Si-atat de mult Te rog, Isus,
+Sa ma atingi cu-al Tau alin…
+
+[s4]
+Isuse scump, Iti multumesc!
+Tu esti Acel ce ma iubesti
+Si, ca acum, iubirea mea
+As vrea, cand vii, sa o gasesti…
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,21 @@
+[s1]
+Cerul se va strange ca un sul
+Cu tunet, fulgere si fum
+Ostile ceresti se vor clatina
+In zilele acelea
+
+[r1]
+Omenirea se va opri din mers
+Se va opri intregul univers
+Stapanul, regele se va ivi
+Sa-I judece pe cei morti si vii
+/: Isus va reveni :/
+
+[s2]
+Cu cata dragoste ai fost rugat
+Cu truda cu lacrimi te-au chemat
+Atatea intamplari atatia slujitori
+Dar tu i-ai respins de-atatea ori
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,33 @@
+[s1]
+1.	Când Te am pe Tine Doamne
+De nimica nu mă tem
+/: În necazurile vieţii
+Zi şi noapte eu Te chem :/
+2.	Ochii Tăi sunt plini de milă
+Şi sfântă ajutorare
+/: Jugul vieţii când m-apasă
+Eu la Tine am scăpare :/.
+507.
+
+[s2]
+3.	De am mulţi duşmani pe lume
+Care mă vorbesc de rău
+Nu îmi pasă ci-n credinţă
+Preamăresc pe Dumnezeu.
+4.	Iar când fraţii mei din casă
+Ori părinţii mă hulesc
+Eu spre Tine îmi plec genunchii
+Şi prin rugă mă-ntăresc.
+
+[s3]
+5.	Sunt copilul tău Isuse
+În cuvântul Tău ai spus
+Să nu mai privesc în lume
+Ci mereu spre Tine sus.
+6.	Vreau deci viaţa mea întreagă
+Numai Ţie să-ţi slujesc
+Adevărul Tău Isuse
+Fără frică să-l vestesc.
+
+[order]
+s1,s2,s3

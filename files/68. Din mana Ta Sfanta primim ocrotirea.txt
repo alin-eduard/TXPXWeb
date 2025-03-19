@@ -1,0 +1,75 @@
+[s1]
+68.                     Sol
+1. Din mâna Ta Sfântă
+Primim ocrotirea,
+Din orice necazuri
+Tu ne izbăveşti!
+
+[s2]
+/: Eşti Stânca de veacuri,
+Ce dai nemurirea..
+Când toate se strică
+Tu-n veci dăinuieşti! :/.
+
+[s3]
+2. Din mâna Ta Sfântă
+Primim ocrotirea,
+Când răul ne-nfruntă
+Cu răcnet de leu.
+
+[s4]
+/: Când el ne vrea moartea,
+Tu dai nemurirea.
+Căci Tu eşti viaţa,
+Eşti viu Dumnezeu! :/
+
+[s5]
+3. Prin mâna Ta sfântă
+Primim ocrotirea,
+Când vine mânia
+Cu chinu-i amar.
+
+[s6]
+/: Venit-ai din ceruri
+S-aduci mântuirea,
+Să mângâi, să-ndrepţi,
+Şi să mori pe Calvar. :/
+
+[s7]
+4. Din mâna Ta Sfântă
+Primim ocrotirea,
+Când dragostea-n lume
+Cu greu o găseşti...
+
+[s8]
+/: În inimi smerite
+Purtăm sfânt iubirea!
+Schimbând totul
+În cântec de pace sublim. :/
+
+[s9]
+5. Din mâna Ta sfântă
+Primim ocrotirea,
+Chiar lutul acesta
+De s-ar destrăma!..
+
+[s10]
+/: Trecându-l prin moarte
+Tu-i dai strălucirea,
+În clipa învierii
+Avea-vom cândva. :/
+
+[s11]
+6. Din mâna Ta Sfântă
+Primim ocrotirea.
+Tu faci să rodească
+Întregul pământ.
+
+[s12]
+/: Ţi-aducem, din inimi,
+Pe veci mulţumire!
+O, Tată, Isuse,
+Şi Duhule Sfânt. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12

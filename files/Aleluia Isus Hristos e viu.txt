@@ -1,0 +1,26 @@
+[r1]
+Aleluia, Isus Hristos e viu
+Moartea nu l-a tinut
+Si mormantul este gol
+Isus e viu in veci
+/:El e viu:/
+
+[s1]
+/:El e Alfa si Omega
+Inceput si sfarsit e
+Blestemul la zdrobit
+Pe noi liberi ne-a facut
+Mielul lui Dumnezeu,
+Este viu, El e viu:/
+
+[s2]
+/:El e Alfa si Omega
+Inceput si sfarsit e
+Blestemul la zdrobit
+Pe noi liberi ne-a facut
+Mielul lui Dumnezeu,
+Este viu, El e viu:/
+Aleluia Isus Hristos e viu
+
+[order]
+r1,s1,r1,s2

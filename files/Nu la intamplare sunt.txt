@@ -1,0 +1,20 @@
+[s1]
+Nu la întâmplare sunt,
+Domnul m-a creat! X2
+Eu sunt cu voi în orice zi X3
+Mi-a spus Isus.
+
+[s2]
+Singur, trist şi părăsit
+Nu mai vreau să fiu! X2
+Eu sunt cu voi în orice zi X3
+Mi-a spus Isus.
+
+[s3]
+De aceea cânt voios
+Lui ISUS Cristos X2
+Eu sunt cu voi în orice zi X3
+Mi-a spus Isus.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,23 @@
+[s1]
+O, noapte preasfinţită!
+Toate-s în odihnă
+Toţi dorm numai părinţii sfinţi
+Stau veghind lângă al lor iubit
+/: Pruncul Sfânt priveghind. :/
+
+[s2]
+O, noapte preasfinţită,
+Îngeresc glas sună.
+Auzi din cer: Aleluia!
+Acest cuvânt, o, cum răsună.
+/: Hristos ne mântuie. :/
+
+[s3]
+O, noapte preasfinţită!
+Saltă deci inimă!
+Acum Fiul lui Dumnezeu
+Te mângâie prin harul Său.
+/: Vezi, Hristos s-a născut! :/
+
+[order]
+s1,s2,s3

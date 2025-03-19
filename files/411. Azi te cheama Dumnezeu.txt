@@ -1,0 +1,51 @@
+[s1]
+411.
+1.Azi te cheamă Dumnezeu
+Să-ţi împartă harul Său
+Fericirea să ţi-o dea
+Numai de vei asculta.
+
+[r1]
+Cor:Dacă vrei să scapi
+De iadul întunecat
+Şi vrei să trăieşti
+Să te pocăieşti.
+
+[s2]
+2.Azi întoarce-te iubite
+La cerescul tău Părinte
+El te cheamă cu mult dor
+Ca să-ţi fie Salvator.
+
+[s3]
+3.Astăzi sună glasul Meu
+Dă năvală scumpul meu
+N-asculta nici pe un om
+Ci pe-adevăratul Domn.
+
+[s4]
+4.Căci în altul nimeni nu-i
+Salvarea sufletului
+Decât în Hristos Isus
+Care jertfă s-a adus.
+
+[s5]
+5.Nu lăsa inima ta
+Să-ţi şoptească: nu-i aşa
+Ce-ai făcut El tot te iartă
+Intră pe cereasca poartă.
+
+[s6]
+6.Azi dezbracă-te de rele
+De păcat şi chinuri grele
+Azi primeşte harul Lui
+Harul sfânt al Domnului.
+
+[s7]
+7.Ascultă azi vocea Lui
+Primeşte sfatul Domnului
+Căci la noapte poţi să mori
+Fără har şi Salvator.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1

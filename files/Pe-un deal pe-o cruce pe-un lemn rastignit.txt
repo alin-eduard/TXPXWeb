@@ -1,0 +1,41 @@
+[s1]
+Pe-un deal, pe-o cruce,
+pe-un lemn rastignit,
+A ales Domnul vietii sa moara.
+S-a lasat în piroane batut, tintuit,
+Purtând a noastra ocara.
+
+[r1]
+/: Se sfârsea Domnul meu
+pe-o cruce de chin,
+Murea în cumplita durere.
+Ochii plansi,
+fruntea încoronata cu spini,
+Murea Isus în tacere. :/
+
+[s2]
+Deseori ma gândesc la Golgota si azi,
+La chinul, la moartea cumplita.
+La sângele ce îi curgea pe obraz,
+La sulita-n coasta înfipta.
+
+[s3]
+A lasat cerul sfânt si sublimul locas,
+A murit pe crucea murdara.
+Sa traiesc si sa fiu unul dintre urmasi,
+Pregâtindu-mi în ceruri comoara.
+
+[s4]
+Azi Isus este viu, a-nviat dintre morti,
+Domneste în cer în marire.
+A deschis pentru mine a cerului porti,
+A deschis ceru-ntreg pentru tine.
+
+[s5]
+Este viu boldul Isus l-a înfrânt,
+Este viu Împaratul vietii.
+Va veni sa ne ia, va veni în curând,
+Sa ne duca-n locasul cel Sfânt.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

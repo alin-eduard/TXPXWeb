@@ -1,0 +1,27 @@
+[s1]
+În această lume sunt multe drumuri
+Dar numai unul duce spre cer
+/: Şi acest drum pe la Golgota trece
+Nu mergi pe el vei fi pierdut :/
+
+[r1]
+Departe de stele, departe de lume
+Acolo-i ţara mea, ai auzit de ea?
+Departe de stele, e o lume nouă
+Acolo-i ţara mea
+Ce prin credinţă moştenesc
+
+[s2]
+În această lume sunt multe drumuri
+Şi fiecare are un sfârşit
+/: Şi acest timp aşa iute trece
+Şi unde mergem se-ntreabă mulţi :/
+
+[s3]
+Din aceasta lume pleacă fiecare
+Şi în curând vei pleca şi tu
+/: Ai auzit această veste minunata
+Acas` te-asteaptă în vesnicii :/
+
+[order]
+s1,r1,s2,r1,s3,r1

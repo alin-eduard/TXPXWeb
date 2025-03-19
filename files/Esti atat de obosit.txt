@@ -1,0 +1,34 @@
+[s1]
+Eşti atât de obosit, iubite călător
+Ai umblat pe căi murdare,
+fiu rătăcitor.
+/: Ai cutreierat Pământul
+Şi-ai cules ca roadă vântul.
+Chinuit ai fost de rău
+Dar acum te iartă sfântul
+Bunul Dumnezeu. :/
+
+[s2]
+Ostenită-ţi e privirea,
+capul ţi-e plecat
+Toată truda-ai cunoscut-o,
+fiu nemângâiat!
+/: Că ai vrut să-ţi afli calea
+Unde-i plânsul, unde-i jalea!
+N-ai ştiut de Cel de sus?
+N-auzi cum răsună valea
+Numai de Isus? :/
+
+[s3]
+Îţi trimite astăzi Domnul
+un cuvânt de har
+Că îţi dă cununa vieţii
+ca mărgăritar.
+/: Inima să-ţi fie plină
+De a Domnului lumină!
+Te fereşte de păcat
+Să nu fii în grâu neghină -
+Domnul te-a iertat! :/
+
+[order]
+s1,s2,s3

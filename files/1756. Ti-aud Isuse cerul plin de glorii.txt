@@ -1,0 +1,26 @@
+[s1]
+1756.
+1. Ţi-aud Isuse cerul plin de glorii
+Mai e puţin să nu te laşi răpus
+Să nu-ţi pierzi frate
+Premiul alergării
+Curând e întâlnirea cu Isus
+/:Când negura menită în zare
+Şi cerul e mereu întunecat
+Chiar dacă urlă marea cu turbare
+Destinul tău e binecuvântat:/
+
+[s2]
+2. Mă lupt cu fiecare ceas ce trece
+Să `nalţ pe culmi
+Al dragostei stindard
+În clocot sunt
+Nici căldicel nici rece
+Şi-n Duhul Sfânt /:mereu:/ să arzi
+Când se vor termina acestea toate
+Şi mirele cât va mai zabovi
+Eu nu ştiu dacă nu va fi la noapte
+Dar ştiu ca Cel ce vine va veni
+
+[order]
+s1,s2

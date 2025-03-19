@@ -1,0 +1,29 @@
+[s1]
+1. Parcă Te văd Doamne Isuse,
+Cum soborul Te leagă
+Cum Te-au hulit şi Te-au lovit,
+Pe faţa Ta cea dragă.
+795.
+2. Parcă Te văd Doamne Isuse
+Pe cruce, plin de sânge
+Iar mama Ta la Golgota
+Îngenunchiată plânge
+
+[s2]
+3. Parcă Te văd Doamne Isuse
+Cum ai golit paharul
+Din Ghetsimani, unde-ai gustat
+Şi crucea şi calvarul
+4. Parcă Te văd Doamne Isuse
+Cum ai strigat: « Mi-e sete!»
+Şi-n loc de apă, oţet Ţi-au dat
+Cu fiere să Te-mbete!
+
+[s3]
+5. Parcă Te văd Doamne Isuse,
+Cum ai vorbit pe cruce,
+«În Raiul Meu, chiar azi îţi spun
+Prin Mine te voi duce!»
+
+[order]
+s1,s2,s3

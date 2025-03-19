@@ -1,0 +1,39 @@
+[s1]
+1972
+1. Când iubirea-i arzătoare
+Dorul mic îl creşte mare
+Şi-l înalţă luminând
+Ca să-l vadă toţi oricând.
+
+[s2]
+2. Când iubirea este plină
+Orice inimă-nsenină
+Focul ei strălucitor
+Nimiceşte orice nor.
+
+[s3]
+3. Când iubirea este trează
+Nu vorbeşte ci lucrează
+Şi nu fuge când e greu
+Ci-şi dă viaţa ei mereu.
+
+[s4]
+4. Când iubirea este-ntreagă
+Nu robeşte ci dezleagă
+Ea nu cere nimănui
+Dar dă tot şi dă oricui.
+
+[s5]
+5. Când iubirea-i luminoasă
+Pentru toţi ea are casă
+Harul ei mângâietor
+Şi-l revarsă tuturor.
+
+[s6]
+6. Când iubirea e curată
+Adevărul pururi caută
+Şi conduce nendoios
+Pe oricare  la Hristos.
+
+[order]
+s1,s2,s3,s4,s5,s6

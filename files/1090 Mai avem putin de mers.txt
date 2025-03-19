@@ -1,0 +1,27 @@
+[s1]
+Mai avem puţin de mers
+Pân’ la ţinta mult dorită
+/ : Plânsul nostru va fi şters
+De lumina veşniciei : /
+Mai avem puţin de stat
+Pe pământul fără pace
+1.
+2.
+1090.
+/ : Şi în cerul minunat
+Un etern popas vom face : /
+
+[s2]
+Mai avem puţin de dus
+Crucea suferinţei noastre
+/ : Şi zbura-vom mult mai sus
+Decât zările albastre : /
+Mai avem puţin, puţin
+Pân’ la sfânta întâlnire
+/ : În văzduhul cristalin
+Cu Isus cerescul Mire : /
+3.
+4.
+
+[order]
+s1,s2

@@ -1,0 +1,49 @@
+[s1]
+1777.     Re m
+1. Mai adu-ţi, adu-ţi aminte,
+Câte lacrimi ai vărsat
+Cum strigai cu zel fierbinte
+Domnului când te-ai rugat
+Alergai la stăruinţă
+Şi îmbărbătai pe fraţi
+Cu iubire şi credinţă
+Către Domnul toţi strigaţi.
+
+[r1]
+Cor:	/:Aşa cum ai fost altădată,
+Aşa să rămâi tot mereu
+În dragostea cea adevărată,
+În dragostea lui Dumnezeu:/
+
+[s2]
+2. Ce plăcută amintire
+Oare cum de ai uitat
+Cu a Domnului iubire
+Duhul Sfânt ne-a cercetat
+Fiecare rugăciune
+Aducea descoperiri
+Nu era amărăciune,
+Nu erau împotriviri.
+
+[s3]
+3. Numai lacrime pe feţe
+Doamne ce surori şi fraţi
+Duhul Sfânt dădea poveţe
+Pentru cei îndureraţi
+Clocotea de foc altarul
+De cântări şi bucurii
+Căci iubirea era jarul
+În ai Domnului copii.
+
+[s4]
+4. Vremuri de înviorare
+Ca şi atuncea vrem la fel
+Haideţi fraţi cu mic cu mare
+Să ne-ntoarcem azi la El
+Rugăciune, pocăinţă,
+La aceleaşi vechi cărări
+Să ne-ntoarcem azi la Domnul
+Din a noastre mari căderi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

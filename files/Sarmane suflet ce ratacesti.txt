@@ -1,0 +1,34 @@
+[s1]
+Sărmane suflet ce rătăceşti,
+Fără de Dumnezeu;
+Te lupţi mereu şi nu izbuteşti,
+Să scapi de chinul tău!
+
+[r1]
+Numai la Isus,
+ce-a venit de sus,
+Pacea ta la El găseşti;
+El te cheamă azi,
+dulce cu-al Său glas,
+Vino dar la El.
+
+[s2]
+Zadarnic vrei tu un ajutor,
+La oameni, că te-nşeli;
+Când şi ei sunt sărmani muritori,
+Şi fac mereu greşeli.
+
+[s3]
+Când sufletul tău este rănit,
+Cin’te va vindeca?
+Un prieten oricât l-ai fi iubit,
+Salvare nu-ţi va da.
+
+[s4]
+Întoarce-te dar la Dumnezeu,
+Oricât ai fi greşit;
+El a jertfit chiar pe Fiul Său,
+Să fii tu mântuit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

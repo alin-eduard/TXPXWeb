@@ -1,0 +1,31 @@
+[s1]
+Veniti să cântăm lăudând pe Isus
+Si să ne-nchinăm
+mărindu-L nespus.
+Să-I dăm Lui onoare
+si toti să-L slăvim,
+În sfânta-I splendoare
+pe El să-L mărim
+
+[s2]
+Vorbiti de-al Său har,
+vestiti mila Sa
+Si cum pe Calvar
+Si-a dat viata Sa
+Pe noi să ne scape
+de vesnicul chin,
+Făcându-ne parte
+de harul divin.
+
+[s3]
+O, Doamne-ndurat,
+noi Te lăudăm,
+Din cuget curat
+mereu Îti cântăm;
+Căci marea-Ti iubire,
+suprem legământ,
+Crează-nfrătire
+prin Duhul Sfânt.
+
+[order]
+s1,s2,s3

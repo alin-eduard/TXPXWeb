@@ -1,0 +1,15 @@
+[r1]
+Sărbătoresc şi voi cânta,
+Vreau să bat din palme-n
+ritmul laudei
+,,Isus domneşte”, voi striga
+Stânca mântuirii şi a laudei
+
+[r2]
+Domn al domnilor, Rege al regilor
+El domneşte-n veci de veci
+M-a eliberat, în mine e viu
+Şi trăişte-n inima mea.
+
+[order]
+r1,r2,r1,r2

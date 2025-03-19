@@ -1,0 +1,28 @@
+[s1]
+1485          									 Mi
+Aşa cum sunt la Tine vin
+Putere n-am, Tu-mi fii spijin
+Mă spală-n sângele-Ți divin
+O, Mielule, eu vin, eu vin!
+
+[s2]
+De îndoieli sunt apăsat
+De ispitiri împresurat
+Slăbit de valuri mult purtat
+O, Mielule, eu vin, eu vin!
+
+[s3]
+Aşa cum sunt de rătăcit
+La Tine vin să fiu scutit
+Să fiu bogat şi fericit
+O, Mielule, eu vin, eu vin!
+
+[s4]
+Aşa cum sunt,
+Tu mă primeşti
+Păcatul nici nu-mi aminteşti
+Crezând Ţie, mă mântuiești
+O, Mielule, eu vin, eu vin!
+
+[order]
+s1,s2,s3,s4

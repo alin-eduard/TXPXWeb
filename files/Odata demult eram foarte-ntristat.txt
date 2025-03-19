@@ -1,0 +1,32 @@
+[s1]
+Odată demult eram foarte-ntristat
+Fiind apăsat de păcate
+Puternic doream ca să fiu liberat
+Dar oamenii n-au ajutat.
+
+[r1]
+Atunci am venit la Isus şi-am aflat
+Căci El pentru mine-a răbdat.
+Cu lacrimi în braţul cel sfînt m-am predat
+Şi pace din cer El mi-a dat.
+
+[s2]
+Mi-a spus cum pe cruce în chin a murit
+Pentru ca să fiu mîntuit
+Cum răbda şi-aştepta să fie primit
+De omul ce atît l-a iubit.
+
+[s3]
+Ajunge că eu am fost foarte-amăgit -
+Pe alţii voiesc să-i scutesc
+De-aceea, salvarea de cînd am primit
+La alţii cu drag o vestesc.
+
+[s4]
+Te-ntoarce chiar azi din păcatul scîrbos
+Renunţă la ce-i păcătos !
+Salvare găsi-vei şi tu la Hristos
+Renunţă la ce-i păcătos !
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

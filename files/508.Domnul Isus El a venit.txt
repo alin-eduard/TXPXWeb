@@ -1,0 +1,35 @@
+[s1]
+1.	Domnul Isus El a venit
+A rupt lanţul ne-a mântuit
+Scăpare e-n sângele Său
+Priveşte sus la Dumnezeu.
+Cor:  ‘Nainte dar, 'nainte dar
+Stai tare prin al Său sfânt har.
+508.
+
+[s2]
+2.	Cel rău luptă-n contra noastră
+Sufletul să-l murdărească
+Dar noi privim la Dumnezeu
+El ne ţine prin harul Său.
+Cor:  ‘Nainte dar, 'nainte dar
+Stai tare prin al Său sfânt har.
+
+[s3]
+3.	Mergi 'nainte pe drumul sfânt
+Aruncă-i Lui orişice gând
+Să-i ieşi în cale fii gata
+Cântând laudă-ntotdeauna.
+Cor:  ‘Nainte dar, 'nainte dar
+Stai tare prin al Său sfânt har.
+
+[s4]
+4.	Domnul Isus te-a ridicat
+Să-i cânţi laudă Lui neîncetat
+Orişiunde te vei afla
+Cântă-i laudă-ntotdeauna.
+Cor:  ‘Nainte dar, 'nainte dar
+Stai tare prin al Său sfânt har.
+
+[order]
+s1,s2,s3,s4

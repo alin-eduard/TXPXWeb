@@ -1,0 +1,36 @@
+[s1]
+1.Doar o colibă
+Aici jos îmi ajunge
+Argint şi aur n-am în casa mea
+Dar în locaşul
+Strălucirii divine
+Numai în aur eu voi umbla.
+1134
+
+[r1]
+Eu am locaşul
+Dincolo-n mărire
+În strălucirea ce n-o pot visa
+Cândva acolo
+Voi sfârşi alergarea
+Pe străzi de aur, în slava Sa
+
+[s2]
+2.Când vreo ispită
+Îmi chinue gândul
+Şi ca profetul pe piatră adorm
+Eu ştiu că-n slavă,
+Dincolo-n mărire
+Voi sta la masă
+Cu al meu Domn!
+
+[s3]
+3.Să nu mă credeţi
+Sărac şi nici singur
+Sufletul meu e de ceruri legat
+Sunt călătorul
+Ce-şi caută Ţara,
+Unde lumină e ne-ncetat.
+
+[order]
+s1,r1,s2,r1,s3,r1

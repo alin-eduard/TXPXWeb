@@ -1,0 +1,31 @@
+[s1]
+Au trecut vremi si soroace
+De cand Isus s-a inaltat
+Si de-atunci urmasi cu vremea
+Mai multi s-au ridicat
+Tineri, batrani, copii si frati
+La poala crucii s-au plecat
+Isus i-a luat cu dragoste
+I-a curatit de pacat
+
+[r1]
+/:Isus mai poate astazi sa ierte vina ta
+El este neschimbat si astazi
+Te-asteapta sus la cruce
+Iti va da iertare
+Dar tu sa crezi in jertfa Sa
+Vino smerit la cruce
+Daruieste-I azi inima ta:/
+
+[s2]
+Au trecut zile si luni
+De cand pe Isus l-ai primit
+In inima el locuia
+Du dragoste te coplesea
+Atunci cand haina ti-ai patat
+Usor Isus s-a indepartat
+Dar astazi sta aici
+Daruieste-i din nou inima ta
+
+[order]
+s1,r1,s2,r1

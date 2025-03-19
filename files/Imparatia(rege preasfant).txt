@@ -1,0 +1,23 @@
+[s1]
+Împărăţia, şi puterea şi mărirea
+În veci Îţi aparţin
+Cer şi pământ se-nchină în Numnele Tău Sfânt.
+Deschis e Cerul şi prin slava-Ţi
+Boldul morţii pe veci Tu L-ai frânt
+Nimic nu poate sta împotriva
+Numelui Tău.
+
+[s2]
+Rege Preasfânt,
+Peste tot se-aude un cânt
+Veşnic Dumnezeu,
+Tu eşti minunat, Tu eşti minunat
+Strigăm peste-ntreg pământ
+Doar laudă, Daomne veşnic
+Iar Tu vei străluci
+Prin Numele-Ţi minunat
+Toata slava este a Ta
+Doamne veşnic,toată slava este a Ta
+
+[order]
+s1,s2

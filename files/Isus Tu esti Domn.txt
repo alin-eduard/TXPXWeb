@@ -1,0 +1,28 @@
+[s1]
+Isus, Tu eşti Domn,
+Isus, Tu eşti Sfânt.
+Isus, Tu eşti Domn,
+Isus, tu eşti Sfânt.
+
+[s2]
+Îţi laud numele Tău,
+Îţi laud numele Tău,
+/: Pentru că Tu eşti Domn,
+Tu eşti Domn. :/
+
+[s3]
+O, Isuse scump
+Lasă duhul Tău.
+O, Isuse scump
+Lasă Duhul Tău.
+
+[s4]
+Îţi voi mulţumi,
+Îţi voi mulţumi,
+Pentru că Tu eşti Domn,
+Tu eşti Domn.
+/: Pentru că Tu eşti Domn,
+Tu eşti Domn. :/
+
+[order]
+s1,s2,s3,s4

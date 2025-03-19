@@ -1,0 +1,39 @@
+[s1]
+1. 'Nainte noi păşim Isuse
+Tu să-mi fii în tot locul mângâietor.
+Cor: Vino acum, vino acum
+Când sufletul te vrea
+Isuse fii Domn în inima mea
+189.
+
+[s2]
+2. Tu să-mi conduci viaţa pe pământ
+Condu-mă cu Duhul Sfânt pe mine.
+Cor: Vino acum, vino acum
+Când sufletul te vrea
+Isuse fii Domn în inima mea
+
+[s3]
+3. Şi dacă prin tufiş de spini eu trec
+Ajutorul din mâna Ta aştept.
+Cor: Vino acum, vino acum
+Când sufletul te vrea
+Isuse fii Domn în inima mea
+
+[s4]
+4. Rănile mele Tu să mi le legi
+Cu scump sânge
+Să-mi speli sufletul meu.
+Cor: Vino acum, vino acum
+Când sufletul te vrea
+Isuse fii Domn în inima mea
+
+[s5]
+5. Căci viaţa mea-i tristă pe pământ
+Tu spre ceruri să mă călăuzeşti.
+Cor: Vino acum, vino acum
+Când sufletul te vrea
+Isuse fii Domn în inima mea
+
+[order]
+s1,s2,s3,s4,s5

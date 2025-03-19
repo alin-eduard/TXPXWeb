@@ -1,0 +1,50 @@
+[s1]
+Cu mâinile spre Tine-ntinse
+În harul Tău măret.
+Se-ndreaptă azi privirea noastră
+Cerându-Ti îndrăznet.
+
+[r1]
+Haina Ta curată, fără nici o pată
+Să ne-mbrace azi pe toti
+Si-n sfântă iubire, sfântă mostenire
+Să ne unească, în Hristos.
+
+[s2]
+O rugă-n viată mi se-ndreapt
+Spre Tin' la infinit.
+Am vrea iertarea înteleaptă
+S-o dai la cei truditi.
+
+[r2]
+Căci numai la Tine Doamne izbăvire
+Prin nespuse suferinti.
+Jertfa Ta curată, fără nici o pat
+Si prin sânge sfânt, albiti.
+
+[s3]
+Spre harul Tău se-ndreaptă privirea
+Spre tărmul însorit.
+E stânca vietii, izbăvirea
+Ce mult noi Te-am iubit.
+
+[r3]
+Chiar dacă furtuna va bate într-una
+Iubirea nu va pierii.
+Nu va fii zdrobită, că-i de El zidită
+Si-n dragoste ne-a unit.
+
+[s4]
+Să ne-mpresoare azi iubirea
+Si sfântul Tău cuvânt
+Căci jertfa Ta e mântuirea
+Întregului Pământ.
+
+[s5]
+Chiar dacă va trece viscolul cel rece
+Iubirea nu va pierii.
+Nu va fi zdrobită, că-i din Tin' zidită
+Si-n dragoste ne-a unit.
+
+[order]
+s1,r1,s2,r2,s3,r3,s4,r1,r2,r3,s5

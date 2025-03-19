@@ -1,0 +1,32 @@
+[s1]
+Cat timp mai vrei să fii-ndemnat?
+Cu Domnul cînd vei fi-mpăcat?
+Isus te cheamă tot mereu
+Predă-I tot păcatul, chinul tău!
+
+[r1]
+Vino acum la Isus
+Predă-I Lui inima pe deplin !
+El pe Golgota
+Pe tine-n veci a te mîntui !
+
+[s2]
+Cît timp mai vrei să fii-ndemnat?
+Odihnă, pace n-ai căpătat.
+Cu toată lupta-n viaţa ta
+Încă n-ai găsit mîntuirea.
+
+[s3]
+Cat timp mai vrei să fii-ndemnat?
+Acum e timpul să fii salvat!
+Priveşte, totu-i pregătit -
+Cînd vrei să fii tu mîntuit?
+
+[s4]
+Cît timp mai vrei să fii-ndemnat
+Şi de Isus mereu aşteptat ?
+Aleargă-n grabă la Isus
+Şi-n veci fericit vei fi nespus !
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

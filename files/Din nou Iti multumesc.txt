@@ -1,0 +1,28 @@
+[s1]
+Doamne, eu, când mă gândesc
+La jertfa Ta, sunt copleşit
+De dragostea Ta
+Zi de zi, mă minnunez de darul Tău
+/: Şi vin la Cruce, din nou :/
+
+[r1]
+/: Din nou privesc la Crucea Ta
+Unde-ai murit
+Mă smeresc în mila Ta
+Şi adânc sunt zdrobit
+Din nou Îţi mulţumesc
+Din nou viaţa Îţi dăruiesc :/
+
+[s2]
+Astăzi eşti mai sus de orice înmulţiri
+Înger din Ceruri, doar Ţie mă-nchin
+Sunt uimit de jertfa şi de Harul Tău
+/: Şi vreau să Te laud Din nou :/
+
+[s3]
+/: Mulţumesc Isus :/
+Pentru Crucea Ta,
+Îţi mulţumesc.
+
+[order]
+s1,r1,s2,r1,s3

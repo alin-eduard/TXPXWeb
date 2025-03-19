@@ -1,0 +1,47 @@
+[s1]
+O, cât de mult Isuse
+O, cât de mult dorim
+A noastră alergare
+Cu bine s-o sfârşim.
+/:Ajută-ne prin valuri
+Cu bine să răzbim
+Şi în cereşti limanuri
+La Tine să sosim :/
+1.
+1060.
+
+[s2]
+O, chiar şi-n suferinţă
+Doamne nu disperăm
+Eşti steag de biruinţă
+Pe Tine Te urmăm.
+/:Pe a Tale urme sfinte
+De-a pururi vom călca
+Orice ne-ar sta înainte
+‘Napoi un pas n-am da:/
+2.
+
+[s3]
+În nici o încercare
+Nu vom fi părăsiţi
+Căci Tu ne eşti scăparea
+În orice suferinţi.
+/:Cântăm în strâmtorare
+Răbdăm orice necaz
+Ne porţi pe al Tău braţ tare
+Pe culmi de biruinţi:/.
+3.
+
+[s4]
+O, cât de mult Isuse
+O, cît de mult dorim
+La Tine sus în slavă
+Cu bine să sosim.
+/:Acolo sus cu fraţii
+În jurul Tău să fim
+De-a pururea cu sfinţii
+În veci să Te slăvim:/
+4.
+
+[order]
+s1,s2,s3,s4

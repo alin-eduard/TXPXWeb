@@ -1,0 +1,31 @@
+[s1]
+Te du în lume şi spune,
+De iubirea lui Dumnezeu,
+Ce-a trimis din cer pe Fiul;
+Te du şi spune mereu.
+
+[r1]
+/: Te du şi spune mereu :/
+De dragostea Lui minunată,
+Te du şi spune mereu.
+
+[s2]
+Te du în lume şi spune,
+De iubirea Fiului Său,
+El din cer la noi venise;
+Te du şi spune mereu.
+
+[s3]
+Te du în lume şi spune,
+Că Isus muri-n locul meu,
+A-nviat şi azi domneşte;
+Te du şi spune mereu.
+
+[s4]
+Te du în lume şi spune,
+Orice om oricât e de rău,
+În Isus se mântuieşte;
+Te du şi spune mereu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

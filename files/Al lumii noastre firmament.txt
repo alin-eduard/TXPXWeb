@@ -1,0 +1,32 @@
+[s1]
+Al lumii noastre firmament
+Cu aştrii săi ce-n veci nu pier,
+Şi-al stelelor Lui regiment
+Măresc pe Dumnezeu din cer.
+În mersul său, neobosit,
+Din zori de zi pân-la asfinţit
+Proclamă soarele-nfocat
+Pe Creatorul adorat.
+
+[s2]
+Când noaptea-ntinde umbra ei
+Plăcut răsare luna iar…
+Cu ochiul poţi vedea scântei
+Cum pe întinsul cer apar…
+La cei pioşi ei spun smerit:
+Pe noi chiar Domnul ne-a zidit!
+Lui cântă cetele cereşti
+Un imn de slavă-n veci de veci.
+
+[s3]
+Cu cerul ne unim şi noi
+Înţelepciunea-Ţi a slăvi,
+Şi până-n ziua de apoi
+Dorim cu toţii a-Ţi servi.
+Primeşte-al nostru imn sfinţit
+Şi pentru binele primit
+Mărit fii, Doamne Savaot,
+Acum şi-n veci de toţi şi-n tot.
+
+[order]
+s1,s2,s3

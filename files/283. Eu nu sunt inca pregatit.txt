@@ -1,0 +1,35 @@
+[s1]
+1. Eu nu sunt încă pregătit,
+Am deschis Biblia
+Şi, dintre toate ce-am citit,
+Iată ce mai scria:
+283.
+
+[r1]
+Cor:
+/:În dragoste, supuneţi-vă!
+În pace să trăiţi!
+Cu adevărat, iubiţi-vă!
+De rău să vă feriţi :/
+
+[s2]
+2. Nu faceţi certuri, dezbinări!
+Nu ţine ura ta,
+Căci Domnul
+ne-a-nfrăţit pe toţi,
+Pe dealul Golgota.
+
+[s3]
+3. Simţiţi cu toţi, căci sunteţi fraţi.
+Răscumpăraţi, uniţi!
+Căci sunteţi toţi de-acelaşi neam
+Şi toţi spre cer porniţi.
+
+[s4]
+4. E-atât de greu de-naintat,
+Suntem cu toţi loviţi,
+Strângeţi dar rândurile-acum,
+Căci mult e de luptat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

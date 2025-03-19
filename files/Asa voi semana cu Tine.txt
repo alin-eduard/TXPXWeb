@@ -1,0 +1,31 @@
+[s1]
+Ca nimbul dragostei aprinse,
+Fă-mi Doamne sufletul din mine,
+Și-mbracă-l cu veșminte ninse.
+
+[r1]
+Așa voi semăna cu Tine,
+Așa voi semăna cu Tine.
+
+[s2]
+Ca adevărul sfânt și tare,
+Fă-mi vorbele de flăcări pline,
+Arzând de-o fermă-ncredințare.
+
+[s3]
+Ca bunătatea nesfârșită,
+Fă-mi inima să nu suspine,
+Să fie blândă și smerită.
+
+[s4]
+Ca stânca pururi nemișcată,
+Credința mea pe veci o ține,
+Aceeași simplă, devotată.
+
+[s5]
+Ca raza candelei curate,
+Fă-mi rugile tot mai senine,
+Fierbinți și sincere, în toate.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

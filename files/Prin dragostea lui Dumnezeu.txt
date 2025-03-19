@@ -1,0 +1,41 @@
+[s1]
+/: Prin dragostea lui Dumnezeu
+ai fost în har primit
+Şi dragoste ţi s-a cerut
+la El cînd ai venit. :/
+/: Să-ţi faci harfă din inimă
+spre a-L lăuda
+Pe-al Său altar să-Ţi daiâ
+chiar viaţa Ta. :/
+
+[r1]
+Prin dragoste Domnul nost,
+Pe cruce a murit.
+Prin dragoste Domnul
+Viaţa Şi-a jertfit.
+Prin dragoste cu Isus
+Noi vom împărţi.
+Prin dragoste în ceruri
+Noi vom fi.!
+
+[s2]
+/: Prin dragostea Lui Dumnezeu primit-ai flăcări vii
+Ce au cuprins lăuntrul tău
+cu dor de veşnicii. :/
+/: Prin jertfa Lui, Isus,
+iubiri ţi-a dăruit
+Schimbînd ce-i trecător
+în tine-acum. :/
+
+[s3]
+/: Cînd dragostea lui Dumnezeu
+te cheamă să revii
+Din drumurile tale s-alergi,
+să nu-ntîrzii ! :/
+/: Să te ascunzi în El
+cînd va veni cel rău
+Şi să rămai cu El
+în drumul tău ! :/
+
+[order]
+s1,r1,s2,r1,s3,r1

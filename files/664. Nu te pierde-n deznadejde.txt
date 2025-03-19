@@ -1,0 +1,42 @@
+[s1]
+1.	Nu te pierde-n deznădejde
+Când te-ncearcă vreo urgie
+Domnul va preface-n tine
+Întristarea-n bucurie.
+664.    								  Fa
+
+[r1]
+Cor:
+/:Domnul :/
+E nădejdea mea şi-a ta ,
+E scăparea mea şi-a ta
+Întristarea-n bucurie-ţi
+Va schimba.:/
+
+[s2]
+2.	Nu privi la slăbiciune,
+Nici la viaţa ta pustie
+Vin la Domnul, El preface
+Întristarea-n bucurie.
+
+[s3]
+3.Nu deschide poarta minţii
+Gânduri negre ca să vie
+Crede-n Domnul
+căci El schimbă
+Întristarea-n bucurie.
+
+[s4]
+4.	Nu te îndoi-n credinţă
+Domnul este-a ta tărie
+Şi El îţi preschimbă-ndată
+Întristarea-n bucurie.
+
+[s5]
+5.	Cântă-I Domnului întruna
+Mulţumeşte-I că El ştie
+Ca să schimbe-ntotdeauna
+Întristarea-n bucurie.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

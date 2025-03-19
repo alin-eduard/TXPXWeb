@@ -1,0 +1,42 @@
+[s1]
+În jurul nostru piere azi
+O lume în păcat,
+Ne strigă inimi din necaz,
+Şi le simţim cum bat.
+Re-nvie Tu Biserica,
+E ceasul crucial,
+Trezeşte azi Biserica
+Şi­aprinde­o cu sfânt jar.
+
+[s2]
+Atâţi păgâni au încă zei,
+De Dumnezeu nu ştiu,
+Mulţi oameni nu ascultă azi
+Cuvântul Celui Viu.
+Ridică­Ţi Tu Biserica
+Să­şi vadă ţelul iar,
+Cu dragoste s­o înzestrezi
+Şi să o creşti în har.
+
+[s3]
+Azi când păcatul pe pământ
+Se­ntinde ne­ncetat,
+Fă să străbată­al Tău Cuvânt
+Pământu­n lung şi­n lat.
+O, Doamne, întăreşte-ne
+Cu harul Tău cel sfânt!
+Ne dă curaj să Te vestim
+Oriunde şi oricând.
+
+[s4]
+Se-apropie cu paşi grăbiţi
+Al judecăţii ceas,
+În jurul nostru, în păcat
+ce mulţi au mai rămas.
+Îndeamnă-Ţi Tu Biserica
+Să ducă vestea Ta
+Şi-ncepe, Doamne, lucrul sfânt
+Chiar în viaţa mea!
+
+[order]
+s1,s2,s3,s4

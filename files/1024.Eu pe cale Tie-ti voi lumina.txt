@@ -1,0 +1,33 @@
+[s1]
+1.	Eu pe cale Ţie-ţi voi lumina
+Locul strâmb înainte-Ţi voi îndrepta
+Eu sunt Isus cel ce fac fapte mari
+Umilesc pe ai tăi contrari.
+Cor:Când mergi pe cale Eu te ocrotesc
+Cu bunătăţi sufletul tău hrănesc
+O locuinţă în cer ţi-am pregătit
+Numai să fii umilit.
+1024.
+
+[s2]
+2.    Satan în mânia lui te-ar prăda
+Multe curse pune în calea ta
+Eu până în sfârşit sunt al Tău Hristos
+Numai să fii credincios.
+Cor: Când mergi pe cale Eu te ocrotesc
+Cu bunătăţi sufletul tău hrănesc
+O locuinţă în cer ţi-am pregătit
+Numai să fii umilit.
+
+[s3]
+3.     Eu noaptea-n lumină voi schimba
+Ce e strâmb înainte voi îndrepta
+Sub aripile Mele te voi scuti
+De umilit vei trăi.
+Cor: Când mergi pe cale Eu te ocrotesc
+Cu bunătăţi sufletul tău hrănesc
+O locuinţă în cer ţi-am pregătit
+Numai să fii umilit.
+
+[order]
+s1,s2,s3

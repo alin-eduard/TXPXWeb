@@ -1,0 +1,40 @@
+[s1]
+Domnul vrea
+Să binecuvânteze­ acum,
+Oamenii să-­i lumineze
+Pe­-al Său drum;
+Uşa şi ferestrele deschide-le,
+Las’ să intre Soarele!
+
+[r1]
+Las’ să intre Soarele,
+Las’ să intre Soarele,
+Uşa inimii deschide­-o tot mai mult,
+Las’ să intre­n ea Isus!
+
+[s2]
+Pentru tine a murit şi-­a înviat
+Ca să fii de­-al tău păcat eliberat;
+Uşa şi ferestrele deschide-le,
+Las’ să intre Soarele!
+
+[s3]
+De eşti rătăcit şi Calea n-­o zăreşti,
+În Isus acum salvarea o găseşti;
+Uşa şi ferestrele deschide-le,
+Las’ să intre Soarele!
+
+[s4]
+Las’ să intre Soarele,
+Las’ să intre Soarele,
+Uşa inimii deschide-­o tot mai mult,
+Las’ să intre­n ea Isus!
+
+[s5]
+Cel ce viaţa Domnului şi-­a dăruit
+Şi­-L iubeşte ne-­ncetat, e fericit;
+Uşa şi ferestrele deschide-le,
+Las’ să intre Soarele!
+
+[order]
+s1,r1,s2,r1,s3,s4,s5,r1

@@ -1,0 +1,20 @@
+[s1]
+/: Ai grijă gură mică ce vorbești :/
+Căci părintele cel Sfânt
+Vede tot ce-I pe pământ
+Ai grijă gură mică ce vorbești.
+
+[s2]
+/: Ai grijă ochișor unde privești :/
+Căci părintele cel Sfânt
+Vede tot ce-I pe pământ
+Ai grijă ochișor unde privești.
+
+[s3]
+/: Ai grijă picioruș unde te duci :/
+Căci părintele cel Sfânt
+Vede tot ce-I pe pământ
+Ai grijă picioruș unde te duci.
+
+[order]
+s1,s2,s3

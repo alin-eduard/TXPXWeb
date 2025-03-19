@@ -1,0 +1,47 @@
+[s1]
+1. Împodobeşte-te cu-nţelepciune
+Căci prin ea vei fi biruitor
+Deosebeşte lucrurile bune
+Şi te învaţă să fi mai răbdător.
+Cor: /: Căci nu-i mai mare erou
+Decât cel care rabdă-ncercarea
+În faţa lui Dumnezeu
+Nu e mai mare erou
+Decât cel ce trăieşte răbdare :/.
+597 Do m
+
+[s2]
+2. Dacă vrei să moşteneşti tu cerul
+Să locuieşti în cerul minunat
+Tu nu uita că acolo lângă Domnul
+Vor sta numai acei ce au răbdat.
+Cor: /: Căci nu-i mai mare erou
+Decât cel care rabdă-ncercarea
+În faţa lui Dumnezeu
+Nu e mai mare erou
+Decât cel ce trăieşte răbdare :/.
+
+[s3]
+3. Pe-o piatră albă vei purta un nume
+Un nume nou ce-n veci vei moşteni
+De vei răbda durerile din lume
+De vei răbda atunci vei birui.
+Cor: /: Căci nu-i mai mare erou
+Decât cel care rabdă-ncercarea
+În faţa lui Dumnezeu
+Nu e mai mare erou
+Decât cel ce trăieşte răbdare :/.
+
+[s4]
+4. Deci să ai îndelunga sa răbdare
+Chiar dacă cerul parcă te-a uitat
+Căci Dumnezeu te pune la-ncercare
+Tu rabdă şi nu fi descurajat.
+Cor: /: Căci nu-i mai mare erou
+Decât cel care rabdă-ncercarea
+În faţa lui Dumnezeu
+Nu e mai mare erou
+Decât cel ce trăieşte răbdare :/.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,42 @@
+[s1]
+917.
+Voi copilaşii Mei din lume
+Ce vă-ncălziţi la focul sfânt
+Voi care mă căutaţi pe Mine
+Dar fraţii voştri unde sunt.
+2.  Sau numai pentru voi sunt oare
+Şi cer şi soare şi pământ
+Sau numai voi sunteţi în lume
+Dar fraţii voştri unde sunt.
+
+[s2]
+3. Copiii Mei ce aveţi viaţă
+Ca îndreptar al Meu cuvânt
+Sau numai voi primiţi lumina
+Dar fraţii voştri unde sunt.
+4.  Eu pentru toţi răscumpărare
+M-am dat să fiu pe cruce pus
+Sau numai voi vă mântuiţi
+Dar fraţii voştri unde-s duşi.
+
+[s3]
+5.  Eu pentru toţi răbdat-am spini                                Bătăi şi cuie şi mormânt
+Şi numai voi veniţi la Mine
+Dar fraţii voştri unde sunt.
+A lumii suferinţe multe
+Le-am alinat cu al meu cuvânt
+Şi numai voi vă vindecaţi
+Dar fraţii voştri unde sunt.
+
+[s4]
+7.	Ah, unde-i lumea pentru care
+Şi azi o chem cu glasul blând
+Şi numai voi veniţi la Mine
+Dar fraţii voştri unde sunt.
+8.  Copii Mei ce staţi sub cruce
+Chemând al vieţii cuvânt
+Eu pentru toţi mi-am dat viaţa
+Dar fraţii voştri unde sunt.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,36 @@
+[s1]
+Dragostea e din Dumnezeu
+Şi ne-a arătat-o prin Fiul Său
+Ce s-a jertfit şi s-a dăruit
+Pentru noi, aşa să faceţi şi voi.
+
+[s2]
+Unul pe altul vă ajutaţi
+La fapte bune să vă îndemnaţi
+Şi atunci veţi vedea ce-i iubirea
+De Domnul Sfânt să ascultaţi
+Pe calea-ngustă să umblaţi
+Şi aşa veţi avea fericirea.
+
+[s3]
+Iubirea să vă fie scut
+În viaţă să mergeţi cu avânt
+Dacă veţi vrea să aveţi
+Fericire, să rămâneţi în iubire.
+
+[r1]
+/: Unul pe altul vă ajutaţi
+La fapte bune să vă îndemnaţi
+Şi atunci veţi vedea ce-i iubirea
+De Domnul Sfânt să ascultaţi
+Pe calea-ngustă să umblaţi
+Şi aşa veţi avea fericirea. :/
+
+[s4]
+Dragostea adevărată
+În unitate este arătată
+Pe genunchi în rugăciune
+Cu Dumnezeu să fiţi la bine şi greu.
+
+[order]
+s1,s2,s3,r1,s4,r1

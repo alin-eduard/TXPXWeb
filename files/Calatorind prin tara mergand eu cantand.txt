@@ -1,0 +1,46 @@
+[s1]
+Calatorind prin tara,
+mergand eu cantand,
+Indreptand sufletele
+catre cerul sfant,
+Multe dureri m-au strapuns
+in sufletul meu,
+Dar Domnul ma conduce,
+si-n toate inving eu.
+
+[r1]
+As dori sa-L vad si-n fata sa-L privesc
+Si sa-I cant in etern, din harul ceresc
+Pe strazile gloriei, eu voi rasuna
+Necazurile-or trece si-n cer voi canta
+
+[s2]
+Fiind in serviciul Lui,
+crucea-mi va fi grea,
+Dar stand aproape de El,
+ma va ajuta;
+Satan, sa ma atace, zilnic va-ncerca,
+Dar Domnul ma conduce,
+orice s-ar intampla.
+
+[s3]
+Cand ajung, in vai adanci,
+inspre cer privesc
+Unde-L vad pe Domnul sfant,
+Mielul cel ceresc,
+Si-I vad bratul Lui,
+intins spre mine-n vale,
+Conducand El pasii mei pe a Sa cale
+
+[s4]
+Cand valuri se ridica,
+pe marea vietii,
+Domnul nu ma va lasa
+sa fiu dat mortii;
+El, frumos, ma conduce
+pe mine-aici jos.
+Ah! Cat Il iubesc pe El,
+pe Isus Hristos
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

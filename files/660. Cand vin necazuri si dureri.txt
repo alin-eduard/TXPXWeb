@@ -1,0 +1,49 @@
+[s1]
+1. Când vin necazuri şi dureri
+Când vin ispite şi-ncercări
+Ai răbdare nu dispera
+Domnu-ncearcă credinţa ta.
+660.
+2. Satan pârâşul acela vechi
+El vrea viaţa să ţi-o pierzi
+Să faci nedrept pe Dumnezeu
+Fericind pe omul cel rău.
+
+[s2]
+3. Iar scumpul meu Mântuitor
+El vrea să fii tu răbdător
+Să cugeţi sus la Golgota
+Unde viaţa şi-o frângea.
+4. Isus iar zice suflete
+Nu e prea grea a ta cruce
+După puţină răbdare
+Bucuria-ţi va fi mare.
+
+[s3]
+5. Iar noi copii ai Tatălui
+A noastră-i viaţa veacului
+Acolo dureri n-or mai fi
+Şi-n veci de veci ne-om odihni.
+6. Răbdare şi iar răbdare
+Sunt cu voi la încercare
+Cum să vă uit în durere
+Rodul suferinţei Mele.
+
+[s4]
+7. În ceruri toţi cântă aşa
+Slavă, Amin, Aleluia
+Doamne toţi fii Tăi din lume
+Toţi aici o să-i adun
+8. Şi împreună îţi vom cânta
+Slavă, Amin, Aleluia
+Aşteptând cu bucurie
+Ziua cea de întâlnire.
+
+[s5]
+9. Ascultă tu popor iubit
+Gata eşti pentru a fi răpit
+Te-aşteaptă îngerii în cer
+Şi Raiul plin de mângâieri.
+
+[order]
+s1,s2,s3,s4,s5

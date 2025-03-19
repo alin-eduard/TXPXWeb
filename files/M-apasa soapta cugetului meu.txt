@@ -1,0 +1,38 @@
+[s1]
+M-apasă şoapta cugetului meu
+Că nu-L iubesc deplin pe Dumnezeu
+M-apasă faptele ce săvârşesc
+În sulul carţii când mă oglindesc.
+
+[s2]
+/: Mi-atât de greu să ‘nalţ privire-n sus
+Când văd din nou că roadă n-am adus
+M-alung ne-mpliniţele prunci
+Toate m-apasă, oare Tu m-alungi? :/
+
+[s3]
+Sunt zile de când tot îmi iau avânt
+Dar istovit cad iarăşi la pământ
+Neputinţele greu mă copleşesc
+Sunt iar căzut şi deznădăjduiesc.
+
+[s4]
+/: Azi vin în faţa Ta cu pumnii goi
+Şi nu m-ai vreau să privesc înapoi
+La firea ce mă trage la pământ
+Vino ia-mi mâna şi-mi dă Tu avânt. :/
+
+[s5]
+Îmi ridic faţa către Tine mut
+Şi te aştept să vii atât de mult
+Am obosit crezând că ceva sunt
+Dar astăzi văd că nu-s decât pământ.
+
+[s6]
+/: Isuse i-a totul de la-nceput
+Da-mi ochi sa vada cum n-au mai vazut
+Am obosit sa tot mai privesc la min’
+Stiu sunt nimic dar ma incred in Tin’:/
+
+[order]
+s1,s2,s3,s4,s5,s6

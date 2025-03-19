@@ -1,0 +1,53 @@
+[s1]
+1. Poporaşul Meu din lume
+Ia ascultă ce-ţi voi spune.
+Ascultă de al meu cuvânt
+Ce-ţi vorbesc din cerul sfânt
+Aici jos pe-acest pământ.
+699.
+
+[s2]
+2. Ascultă de vocea Mea
+Şi deschide-ţi inima.
+Ascultă ce îţi vorbesc
+Caut cum să te trezesc
+Căci vreau să te mântuiesc.
+
+[s3]
+3. Căci sunt gata de venit
+Şi tu nu te-ai pregătit.
+Veşmântul tu l-ai pătat
+Candela ţi s-a uscat
+Nu eşti gata de plecat.
+4. Până când mai zăboveşti
+Şi nu te mai pregăteşti.
+Ia schimbă-ţi al tău veşmânt
+Să trăieşti după cuvânt
+Să rămâi în legământ.
+
+[s4]
+5. Haina ta să fie albită
+Şi candela pregătită.
+Hainele de in subţire
+Fapte de neprihănire
+Fii gata pentru răpire.
+6. O, iubita mea mireasă
+Ce din lume eşti aleasă.
+Te-am ales de pe pământ
+Te-am chemat la legământ
+Căci pe tine te vreau sfânt.
+
+[s5]
+7. Fii gata pentru răpire
+Căci sunt gata de venire.
+Miezul nopţii va suna
+Străjerul cu trâmbiţa
+Tu să te poţi deştepta.
+8. Cel ce nu se pregăteşte
+Pe Domnul nu-L întâlneşte.
+Ci va rămâne în chin
+În durere şi suspin
+Până-n veci de veci amin.
+
+[order]
+s1,s2,s3,s4,s5

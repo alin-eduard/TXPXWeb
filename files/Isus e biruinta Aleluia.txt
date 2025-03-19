@@ -1,0 +1,16 @@
+[s1]
+/: Isus e biruinţa, Aleluia! :/
+/: Spre cer El ne conduce, Aleluia! :/
+/: El vindecă bolnavii, Aleluia! :/
+/: Isus scoate demonii, Aleluia! :/
+Re major
+
+[s2]
+/: El binecuvântează, Aleluia! :/
+/: Cu Duhul Sfânt botează, Aleluia! :/
+/:Pe străzi de aur vom cânta, Aleluia! :/
+/: Glorie lui Isus, Aleluia! :/
+/: Isus Hristos e Domnul, Aleluia! :/
+
+[order]
+s1,s2

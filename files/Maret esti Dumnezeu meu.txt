@@ -1,0 +1,21 @@
+[s1]
+Măret esti Dumnezeu meu
+Al meu suflet se bucura de-a Ta prezenta
+Maret esti Dumnezeul meu
+Al meu suflet te lauda mereu
+In maretia Ta pe noi ne-ai cuprins
+In al Sau nume Hristos moartea a invins
+Indurarea Ta-I peste noi mereu
+/: Maret esti Dumnezeu :/
+
+[s2]
+Maret esti Dumnezeul meu
+Dragostea Ta Doamne voi canta mereu
+Maret esti Dumnezeul meu
+Totdeauna te voi inalta
+Voi vesti ce ai lucrat in viata mea
+Indurarea Ta-I peste min mereu
+/: Maret esti Dumnezeu :/
+
+[order]
+s1,s2

@@ -1,0 +1,24 @@
+[s1]
+645    							  Re m
+1. /: Omul din Galileea
+E azi printre noi :/ x3
+Isus e astăzi printre noi.
+
+[r1]
+Cor:
+/: Lasă-l să te-atingă :/
+Şi vei fi eliberat
+/: Lasă-l să te-atingă :/ Vei fi binecuvântat.
+
+[s2]
+2. /: În niciun alt nume
+Nu-i mântuirea nu, nu:/x3
+Isus e astăzi printre noi.
+
+[s3]
+3. /: Ne vom petrece veşnicia cu Isus :/ x3
+Cu El cânta-vom
+În cer sus.
+
+[order]
+s1,r1,s2,r1,s3,r1

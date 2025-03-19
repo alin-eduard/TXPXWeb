@@ -1,0 +1,31 @@
+[s1]
+Din umblarea-mi sfântă
+nu voi fi clintit
+Din umblarea-mi sfântă
+nu voi fi clintit
+
+[r1]
+Eu sunt un pom sădit pe malul apei
+Şi nu voi fi clintit
+/: Eu nu voi fi, nu voi fi clintit :/
+
+[s2]
+Isus e-al meu Rege,
+nu voi fi clintit!
+Când în El voi crede,
+nu voi fi clintit!
+
+[s3]
+Din iubirea-I dulce,
+nu voi fi clintit!
+El necazu-mi duce,
+nu voi fi clintit!
+
+[s4]
+Din a mea credinţă,
+nu voi fi clintit!
+Isus nu mă lasă
+ca să fiu clintit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

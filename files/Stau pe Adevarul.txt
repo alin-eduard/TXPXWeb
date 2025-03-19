@@ -1,0 +1,26 @@
+[s1]
+Stau pe Adevărul care-a fost rostit,
+Cred Cuvântul Celui care m-a iubit;
+Neclintit, în Stânca Vieţii stau ascuns
+Stau pe Adevărul lui Isus!
+
+[r1]
+Stau pe Stâncă,
+Şi aştept cu dor făgăduinţa scumpă,
+Stau pe Stâncă,
+Eu stau pe Adevărul lui Isus!
+
+[s2]
+Stânca mea e Domnul, Cel de neclintit,
+Orişicâte valuri, crâncen, au lovit;
+Stau pe Adevăr, de El mă las condus,
+Stau pe Adevărul lui Isus!
+
+[s3]
+Nu plec nicăieri din mâna Domnului,
+Stau legat cu funia iubirii Lui,
+Toată slava şi nădejdea-n El mi-am pus,
+Stau pe Adevărul lui Isus!
+
+[order]
+s1,r1,s2,r1,s3,r1

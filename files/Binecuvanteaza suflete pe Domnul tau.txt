@@ -1,0 +1,12 @@
+[s1]
+Binecuvântează suflete
+Pe Domnul tău,
+Şi nu uita nici una
+Din binefacerile Lui.
+Că El îţi iartă fărdelegea ta,
+Vindecare-n dar îţi dă,
+Şi-n veci mântuirea.
+Binecuvântează suflete pe Domnul tău!
+
+[order]
+s1

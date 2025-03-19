@@ -1,0 +1,25 @@
+[s1]
+Scoală-te Sioane şi luminează
+Ca lumina ta toţi să o vadă;
+Ridică-ţi ochii şi priveşte,
+Ziua Domnului azi soseşte.
+
+[r1]
+/: Domnul în curând va veni :/
+Pentru adevăr luptă vitejeşte,
+Căci ziua Domnului soseşte.
+
+[s2]
+Scoală-te, şi luminează pe tot omul,
+Căci în curând soseşte Domnul;
+`Nainte în luptă pentru dreptate,
+Şi vei avea cu Hristos parte.
+
+[s3]
+Scoală-te, spune ca lumea să ştie.
+Că Domnul curând o să vie,
+În viaţă arată tu pe Hristos
+Pe Isus aşteaptă-L azi voios.
+
+[order]
+s1,r1,s2,r1,s3,r1

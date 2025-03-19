@@ -1,0 +1,34 @@
+[s1]
+753.
+1. De la staul la Golgota
+Cât amar şi suflet trist
+Trist priveai pe cruce bolta
+Norii grei porneau revolta
+/: clocotind :/.
+2. De la staul la Golgota
+Calea Tu Ţi-ai cunoscut
+Ce elan, ce milă dulce
+Te-a putut din cer aduce
+/: pe pământ :/.
+
+[s2]
+3. De la fân şi până-n cuie
+Numai răni şi vânătăi
+Ce cuvinte pot să spuie
+Cum plângeai pe-o cărăruie
+/: pentru-ai Tăi :/.
+4. Din Egipt în Gheţismani
+Numai drum şi privegheri
+Te pândeau mereu duşmanii
+Până n-au mai fost strădanii
+/: nicăieri :/
+
+[s3]
+5. De la iesle pân’ la mine
+Câte lacrimi, câţi martiri
+Unde-aş mai găsi suspine
+Doamne să-Ţi aduc mai bine
+/: mulţumiri :/.
+
+[order]
+s1,s2,s3

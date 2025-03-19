@@ -1,0 +1,48 @@
+[s1]
+Sus la lucru, sculaţi
+Şi pe Domnul urmaţi,
+Voi ai Săi slujitori,
+Plini de râvnă lucraţi,
+În al vieţii vârtej,
+Domnul e lângă voi,
+Deci intraţi, vă­nrolaţi
+Şi nu daţi înapoi!
+
+[r1]
+Pentru El să lucraţi
+Bucuroşi şi voioşi,
+Pentru El să lucraţi
+Şi să­I rămâneţi credincioşi!
+
+[s2]
+Sus la lucru, sculaţi!
+Pâinea vieţii s­o daţi
+Celor ce sunt flămânzi
+Şi­n păcat scufundaţi;
+La Isus să priviţi
+Când lucrarea e grea,
+E onoare şi har
+A purta crucea Sa!
+
+[s3]
+Sus la lucru, sculaţi!
+Nu e vreme să staţi,
+Nu­i odihnă, repaus
+Pentru cei devotaţi;
+Spuneţi celor pierduţi
+Că Isus i­a iubit
+Şi murind la Calvar,
+Pentru ei S­a jertfit!
+
+[s4]
+Sus la lucru, sculaţi!
+Priveghiaţi, vă rugaţi!
+Nu­i duşman neînvins
+Când cu Domnul lucraţi;
+Pentru cei credincioşi
+Domnul a pregătit
+O coroană în cer,
+La al vieţii sfârşit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

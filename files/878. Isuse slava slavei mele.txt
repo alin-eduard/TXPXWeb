@@ -1,0 +1,33 @@
+[s1]
+878.
+1.  Isuse slava slavei mele
+Izvor ascuns în Dumnezeu
+O, cât de mare fericire
+Gătit-ai sufletului meu.
+2.  Atâtor înălţimi de slavă
+Stăpân pe veci ne-ai hărăzit
+Te aştept cu ochii plini de lacrimi
+Al veşniciei răsărit.
+
+[s2]
+2.  O, pentru această moştenire
+Şi-un viitor aşa măreţ
+Nimic nu e prea mult pe lume
+Şi nu-i prea mare nici un preţ.
+3.  Dar n-am decât o viaţă Doamne
+Şi-un singur suflet pământesc
+Ca-n schimbul acelei fericiri
+Împărăţii să-Ţi dăruiesc.
+
+[s3]
+4.  Şi-i prea puţin pe-o strălucire
+Şi-un viitor aşa măreţ
+Dac-aş avea Isuse Doamne
+Ţi-aş da o mie de vieţi.
+5.  Dar nu le am şi plâng Isuse
+Azi când osânda mi-o aştept
+Nu pentru că-mi jertfesc o viaţă
+Ci pentru că nu pot mai mult.
+
+[order]
+s1,s2,s3

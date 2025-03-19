@@ -1,0 +1,43 @@
+[s1]
+A lui Hristos venire
+Curând se apropie
+Ce bucurie ne-aduce
+Milioane-n jur suspină
+După măreaţa clipă
+Grăbeşte-Ţi venirea, Doamne!
+1133.  								    Si
+
+[r1]
+Isus vine-n curând
+Noi ştim că El
+Vine să-şi ia Mireasa Sa
+Cu inima senină
+Îl aşteptăm să vină
+Grăbeşte-Ţi venirea, Doamne!
+
+[s2]
+2.Durerea şi păcatul
+Domină-ntreg pământul
+Lumea în moarte se zbate,
+Dar în ziua măreaţă
+Îți vom sta faţă-n faţă
+Grăbeşte-Ți venirea, Doamne!
+
+[s3]
+3.El astăzi te îndeamnă
+Să priveghezi în rugă
+Nu ştim nici ziua, nici ora.
+Să-ţi pregăteşti sufletul
+Să ai curat veşmântul
+Spălat în sânge pe Calvar.
+
+[s4]
+4.Când trâmbiţa suna-va
+Şi din cer coborî-va
+Mireasa sfântă s-o ia sus,
+Ce bucurie mare,
+Zbura-vom către Soare!
+Grăbeşte-Ţi venirea, Doamne !
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

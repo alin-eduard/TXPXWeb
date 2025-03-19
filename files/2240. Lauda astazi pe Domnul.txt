@@ -1,0 +1,35 @@
+[s1]
+2240										   Re m
+1.Laudă astăzi pe Domnul
+Suflet zdrobit de patimi!
+Laudă-L printre suspine,
+Laudă-L printre lacrimi!
+
+[r1]
+Drumul slavei
+Trece și pe la cruce.
+Credincioșii
+Știu în genunchi
+Să-l urce.
+
+[s2]
+2.Mare să-ți fie credința
+Roagă-te și fii tare!
+Nu ocoli suferința!
+Ea îți va da răbdare.
+
+[s3]
+3. Domnu-ți
+Întinde aproape
+Mâinile Sale sfinte
+Scumpe-s oftările toate
+Spuse în rugăciune.
+
+[s4]
+4.Nu e spre cer altă cale
+Mergi cu Isus întruna!
+Numai pe urmele Sale
+Poți dobândi cununa.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

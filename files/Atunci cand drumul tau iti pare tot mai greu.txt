@@ -1,0 +1,24 @@
+[s1]
+Atunci cand drumul
+tau iti pare tot mai greu
+Frate nu dispera
+Cand valul furtunos loveste furios priveste sus la golgota
+Priveste la Isus doar El iti poate da
+In graba ajutor
+El te va intari si te izbavi
+Tu sa ramai increzator
+
+[s2]
+Sa nu te temi chiar daca marea ar spumega-mpotriva ta
+Cheama-L pe Isus si El iti vine in ajutor cand cruce-ai grea
+
+[s3]
+Cand simti ca esti lovit
+aproape ca sa cazi
+Sa nu privesti napoi
+La Isus sa pricveasti
+nainte sa pasesti
+De vrei  rasplata s-o primesti.
+
+[order]
+s1,s2,s3

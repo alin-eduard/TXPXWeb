@@ -1,0 +1,28 @@
+[s1]
+Îmi pun astăzi întrebarea:
+Sunt eu pregătit?
+Pot să îi aştept venirea
+Mirelui meu drag iubit?
+
+[r1]
+/: Ziua e aproape,
+poate chiar la noapte
+Domnul Isus va veni !
+Universul spune:
+Domnul Isus vine!
+Oare cum ne va găsi ? :/
+
+[s2]
+Stăruind în rugăciune,
+Zi de zi veghind
+Aşteptatul nostru mire
+Nu ne va găsi dormind.
+
+[s3]
+Lucrători în via sfântă
+De am fost mereu
+Ne-aşteaptă răsplata sfântă
+De la Domnul Dumnezeu.
+
+[order]
+s1,r1,s2,r1,s3,r1

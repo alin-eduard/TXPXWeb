@@ -1,0 +1,48 @@
+[s1]
+1.    La glasul trâmbiţei
+Noi ne vom deştepta
+Şi în văzduh pe Domnul
+Îl vom întâmpina
+Ca crinii câmpului
+Domnul ne va înflori
+Şi-n starea vieţii ne vom înveseli.
+1027.
+
+[s2]
+2.      La glasul trâmbiţei
+Noi ne vom deştepta
+Uita-vom necazul şi suferinţa
+Războiul cel sfânt noi
+Îl vom termina
+Şi-n văzduh pe Domnul
+De-a pururi vom vedea.
+
+[s3]
+3.      În cer e fericiri şi
+Sfinte mângâieri
+Uita-vom atunci
+De multele dureri
+Atunci glasul nostru
+Acesta mic şi slab
+Va răsuna tare
+Pe-al veşniciei larg.
+
+[s4]
+4. 	Aici jos e partea ca să suferim
+Nu vrem în Iad ci în Rai
+Dorim cu El să fim
+Să auzim noi vocea blândului Păstor
+La glasul noii trâmbiţi
+Când ne-a chema pe nori
+
+[s5]
+5.	De aceea noi năvală
+Trebuie să dăm
+Să câştigăm viaţa,
+De moarte să scăpăm
+De flăcări de iubire
+De fi-vom noi cuprinşi
+De vom păzi credinţa şi-al                                                                                   	Domnului cuvânt.
+
+[order]
+s1,s2,s3,s4,s5

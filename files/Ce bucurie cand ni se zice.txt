@@ -1,0 +1,28 @@
+[s1]
+Ce bucurie cand ni se zice
+Veniti cu toti la Casa Domnului
+In dragoste si in partasie
+Sa inaltam cu toti Numele Lui
+
+[r1]
+/:Sa se bucure cei ce Te iubesc
+Ce te lauda si Te preamaresc
+Pacea Ta sa ramana
+Peste noi mereu
+Prin prezenta Ta,
+Sfant Dumnezeu:/
+
+[s2]
+Rugaciunea si cantarea
+Se inalta-n inimi tot mai sus
+Spre onoarea si iubirea
+Ce Iti daruim Tie Isus
+
+[s3]
+Iar cand norii vor apare
+Noi spre Tine, Doamne, sa privim
+Tu vei fi un vesnic Soare,
+Luminos, puternic si Divin.
+
+[order]
+s1,r1,s2,r1,s3,r1

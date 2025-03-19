@@ -1,0 +1,32 @@
+[s1]
+Crede frate-n orice zi,
+Crede, nu te tângui!
+Crede, chiar când vremea-i rea,
+Domnul e scăparea ta!
+Lui Isus mă-nchin cu drag
+Pân’-oi trece-al gropii prag,
+Până când va reveni
+Ne-ntrerupt Îl voi iubi!
+
+[s2]
+Raza Spiritului Său
+A pătruns în pieptul meu,
+De păcat m-a curăţit,
+Şi om nou am devenit.
+Lui Isus mă-nchin cu drag
+Pân’-oi trece-al gropii prag,
+Până când va reveni
+Ne-ntrerupt Îl voi iubi!
+
+[s3]
+Vesel merg sub al Lui steag,
+Nu mai sunt copil pribeag;
+Cine mă va clătina?
+Domnul e tăria mea!
+Lui Isus mă-nchin cu drag
+Pân’-oi trece-al gropii prag,
+Până când va reveni
+Ne-ntrerupt Îl voi iubi!
+
+[order]
+s1,s2,s3

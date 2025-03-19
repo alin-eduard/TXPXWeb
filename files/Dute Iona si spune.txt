@@ -1,0 +1,39 @@
+[r1]
+Dute, Iona, şi spune,
+Dute, Iona, şi spune,
+Dute, Iona, şi spune.
+/: Poate se vor pocăi... :/
+10
+
+[s1]
+Domnul i-a vorbit zicând:
+„Iona, nu mai zăbovi
+Ci vesteşte-le la toţi,
+Poate se vor pocăi..."
+
+[s2]
+Dar prorocul a fugit,
+Peste ape a plecat;
+Dumnezeu l-a urmărit
+Şi de-acolo l-a chemat.
+
+[s3]
+Ninivenii s-au smerit,
+La al Domnului cuvânt,
+Şi, cu toţi, s-au pocăit
+Stând cu faţa la pământ.
+
+[s4]
+Frate, şi tu eşti trimis
+La niniveni să le spui,
+Să le spui ce este scris
+În al Domnului cuvânt.
+
+[s5]
+Dumnezeu a numărat
+Câte zile vor mai fi,
+Şi-atunci cu adevărat
+Tot pământul va pieri.
+
+[order]
+r1,s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

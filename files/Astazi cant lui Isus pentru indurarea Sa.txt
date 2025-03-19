@@ -1,0 +1,37 @@
+[s1]
+Astăzi cînt lui Isus
+pentru îndurarea Sa
+M-a luat pe braţe şi m-a curăţit.
+Tot ce pot, Lui Îi dau,
+inima I-o predau
+Şi doresc să intre El în ea!
+
+[s2]
+Pe Isus eu urmez,
+lăsandu-mi grija mea
+Şi langă El trăiesc,
+purtand povara grea.
+Ajută-mă, Te rog, Isus,
+o, nu mă lăsa!
+Să cad, să pier,
+să mor eu nu aş vrea!
+
+[s3]
+Astăzi cant lui Isus pentru îndurarea Sa
+M-a luat pe braţe şi m-a curăţit.
+Tot ce pot, Lui Îi dau,
+inima I-o predau
+Şi doresc să intre El în ea!
+
+[s4]
+Din inimă, Isus,
+Te onorez acum
+Şi Te urmez în veci,
+lăsând al meu drum!
+Pe Tine Te aştept mereu
+să vii să mă ajuţi
+Să cânt, să rabd,
+s-ajung în cerul sfânt!
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,63 @@
+[s1]
+1601.
+1.Veniţi toţi cei din Adam
+Şi copii ai lui Avraam
+Să-i cântăm versuri de jale
+Pentru a lui Adam greşeală
+
+[s2]
+2. Jalnicul din rai gonit
+Adam pentru ce-ai greşit
+Domnul din rai te-a gonit
+Pe pământ jos ai venit
+
+[s3]
+3.În poarta raiului a pus
+Văpaia de foc nestins
+Şi către Eva ziceai
+O Eva cum n-ascultai
+
+[s4]
+4. Sfânta poruncă ai călcat
+De Domnul te-ai lepădat
+Căci călca-i porunca lui
+Şi căzu-i din Slava lui
+
+[s5]
+5. Raiule scumpă grădină
+Du-te Adam de la mine
+Eşti lipsit de al meu bine
+Şi de frumuseţea din mine
+
+[s6]
+6. Raiule grădină dulce
+De la tine nu m-aş duce
+De mirosul florilor
+De zgomotul albinelor
+
+[s7]
+7. De glasul îngerilor
+De dulceaţa pomilor
+Dar în rai nu locuiesc
+Cei ce în păcat trăiesc
+
+[s8]
+8. O cum mă bucuram
+În grădină când stăteam
+Când cu îngerii cântam
+Laolaltă petreceam
+
+[s9]
+9. O voi curate izvoare
+Cu ape răcoritoare
+O ce loc de odihnă
+Dumnezeu cu voi rămână
+
+[s10]
+10. Hai rai să ne împăcam
+Ca în tine să intrăm
+De acum până la judecată
+Nu ne-om vedea niciodată
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

@@ -1,0 +1,49 @@
+[s1]
+973.
+1. O, Doamne Isuse blând
+Eu merg calea spre mormânt
+Spre sfârşitul meu din lume
+Se scurtează a mele zile.
+2. Viaţa mea când s-a sfârşi
+Numai Tu Doamne vei şti
+Te rog Doamne umilit
+Înainte de-a intra-n mormânt.
+
+[s2]
+3. Să călătoreşti cu mine
+Ca să aflu mântuire
+De la moarte să mă scoţi
+Cu-nvierea Ta din morţi.
+4. Mă simt foarte păcătos
+Domnul meu Isus Hristos
+N-am unde să mai alerg
+Numai la Tine să merg.
+
+[s3]
+5. Să aleg cărare dreaptă
+Care-i de Tine aleasă
+Ca să fiu eu fericit
+Şi de Tine mântuit.
+6. Nu mă lăsa Doamne Sfânt
+Uitat pe acest pământ
+Că făptura Ta mi-ai dat
+Să-ţi servească ne-ncetat.
+
+[s4]
+7. O, Doamne ceresc Părinte
+Luminează a mea minte
+Pe Tine a Te iubi
+În lume cât voi trăi.
+8. Doamne când va fi să trec
+Din lumea care trăiesc
+Să mă simt nădăjduit
+Că pe Tine Te-am iubit.
+
+[s5]
+9. Ca să nu rămân plângând
+Uitat pe acest pământ
+Ca s-aud când vei striga
+Vin' la Mine sluga Mea.
+
+[order]
+s1,s2,s3,s4,s5

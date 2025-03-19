@@ -1,0 +1,20 @@
+[r1]
+Credincios eşti să ne conduci
+Numai Tu poţi să ne ajuţi
+Tu-mi luminezi calea şi viaţa mea,
+Vrednic să ne conduci
+
+[s1]
+Ne-ai scos din noaptea păcatului
+Mâna Ta ne-a ocrotit
+Loc pentru noi Tu ne-ai pregătit
+Nu dăm-napoi.
+
+[s2]
+Lumina Ta vrem s-o răspândim
+Numele să-Ţi înălţăm,
+Împărăţia Ta va veni,
+Vino, Domneşti!
+
+[order]
+r1,s1,r1,s2,r1

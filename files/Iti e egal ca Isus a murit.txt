@@ -1,0 +1,32 @@
+[s1]
+Îţi e egal că Isus a murit
+Purtînd şi-al tău păcat
+Pe cruce-ntins, în cuie pironit
+Ca tu să poţi fi salvat?
+
+[r1]
+Tu nu-L vezi cum stă plîngînd
+Ca tu să te întorci din drum?
+Azi Isus te cheamă blînd
+Un pas să faci chiar acum!
+
+[s2]
+Cum poţi să vii, s-asculţi şi să refuzi
+Cînd viaţa El şi-a dat?
+Nu vezi, n-auzi, nu vrei tu ca să crezi
+Căci pentru tine-a răbdat?
+
+[s3]
+Şi chiar nepăsător şi rău cum eşti
+Isus te va iubi
+El răbdător va fi să te căieşti
+Şi prieten ca tu să-I fii.
+
+[s4]
+Nu refuza chemarea lui Isus
+Căci viaţă vrea să-ţi dea!
+Iubirea Lui duioasă e de-ajuns
+Să-ţi schimbe starea cea rea.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

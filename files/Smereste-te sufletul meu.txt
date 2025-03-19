@@ -1,0 +1,32 @@
+[s1]
+Smereşte-te sufletul meu,
+Întoarce-te la Dumnezeu
+Să-ţi dea iubire, dragoste,
+Să te binecuvinteze.
+Smereşte-te sufletul meu,
+Încrede-te în Dumnezeu
+Căci Isus te-a răscumpărat,
+Întoarce-te azi la Domnul.
+Fa m
+
+[r1]
+/: Dacă roade nu dai,
+tu eşti un simplu pai
+Boabe nu sunt nimic,
+unde-i rodul din spic?
+În păcate trăieşti,
+fericiri nu găseşti
+Întoarce-te azi la Domnul. :/
+
+[s2]
+Smereşte-te sufletul meu,
+Priveşte sus la Dumnezeu
+Căci tu eşti doar un trecător
+Opreşte-te din goana ta
+Fără de Domnul eşti pierdut
+Şi poate tu nici n-ai ştiut,
+Nici veşnicie n-o să ai
+De nu te-ntorci la Domnul.
+
+[order]
+s1,r1,s2,r1

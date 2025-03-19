@@ -1,0 +1,19 @@
+[s1]
+Eu am pace deplină (x3) cu Isus
+Eu am pace deplină (x3) cu Isus
+
+[s2]
+Eu sunt vesel pe cale (x3) cu Isus
+Eu sunt vesel pe cale (x3) cu Isus
+
+[s3]
+Eu sunt plin de iubire (x3) lui Isus
+Eu sunt plin de iubire (x3) lui Isus
+
+[s4]
+Eu am pace deplină
+Eu sunt vesel pe cale
+Şi sunt plin de iubirea lui Isus
+
+[order]
+s1,s2,s3,s4

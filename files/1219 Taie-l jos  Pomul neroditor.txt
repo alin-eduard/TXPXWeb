@@ -1,0 +1,34 @@
+[s1]
+1219
+/ : Taie-l jos : / Pomul neroditor
+Numa-n zadar stă aicea
+Nici un folos nu-mi aduce
+Luând securea nu-l cruţă / : taie-l jos : /
+/ : Mai lasă-l : / Să mai stea un an
+Priveşte ramurile-i vezi
+De el nădejdea-ţi să n-o pierzi
+Dar dacă va rodi să vezi / : Mai lasă-l : /
+1.
+2.
+
+[s2]
+/ : Taie-l jos : / Că nu-i nici de-un folos
+În grădina mea n-are loc
+Aşa pom ce nu face rod
+Deci taie-l şi-l aruncă-n foc / : taie-l jos : /
+/ : Mai lasă-l : / Să mai stea un an
+Îl voi griji şi-l voi săpa
+Doar poate se va îndrepta
+Iar dacă nu îl poţi tăia / : Mai lasă-l : /
+3.
+4.
+
+[s3]
+/ : Şi acum stă : / Pomul fără roadă
+Stăpânul dacă va sosi
+Căutând pe el rod n-a găsi
+Atunci desigur va spune / : taie-l jos : /
+5.
+
+[order]
+s1,s2,s3

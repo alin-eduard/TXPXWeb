@@ -1,0 +1,26 @@
+[s1]
+Isus păcatul mi-a iertat,
+cu haină albă m-a-mbrăcat.
+Palat în cer mi-e pregătit,
+de-aceea-I cânt şi-s fericit.
+
+[r1]
+Căci Isus este Domnul meu, care m-a iubit
+Murind la Calvar pentru mine!
+Azi pe drumul către cer
+merg voios cântând
+De mână cu drag El mă ţine.
+Da, cu Domnul eu merg voios spre cer
+Eu merg voios spre cer,
+eu merg voios spre cer!
+Da, cu Domnul eu merg voios spre cer
+Eu merg voios cu Domnul Isus!
+
+[s2]
+O haină albă, gând curat,
+Isus şi astăzi dă oricui.
+Nu vrei şi tu, cu-al tău păcat,
+să vii smerit la crucea Lui ?
+
+[order]
+s1,r1,s2,r1

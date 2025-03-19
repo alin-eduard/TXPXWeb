@@ -1,0 +1,21 @@
+[s1]
+1866
+1.Când tristă-ți este calea , și ești uitat de frați
+Și parcă încercarea , lovește cu-al său braț.
+/:Tu nu cădea sub cruce , și mergi ca Domnul tău
+Căci a purtat păcatul , în locul tău și-al meu.:/
+
+[s2]
+2.Când simți că-ți pierzi puterea , ce o aveai cândva
+Și chiar de ai dorință , nu poți înainta.
+/:Mai strânge-ți azi curajul , și nu te da bătut
+C-așa făcut-au sfinții , și-ajuns-au în cer sus.:/
+
+[s3]
+3.Când simți că trece viața , că n-ai avut cândva
+Nici bogății nici ranguri , avere sau palat.
+/:Să-ți amintești c-aicea , tu ești doar călător
+Dar în împărăție , ești fiu de domnitor.:/
+
+[order]
+s1,s2,s3

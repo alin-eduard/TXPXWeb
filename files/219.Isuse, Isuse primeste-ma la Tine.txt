@@ -1,0 +1,30 @@
+[s1]
+1. Isuse, Isuse primeşte-mă la Tine
+Căci eu vin din dureri şi suspin.
+219.                          Fam
+
+[r1]
+Cor: La Tine, la Tine Isuse eu voi veni
+Şi pe braţul Tău mă voi odihni.
+
+[s2]
+2. Iartă-mă, iartă-mă
+Isuse al meu iubit
+Iartă-mă că eu mult ţi-am greşit.
+
+[s3]
+3. Vin dar încrezător
+Scumpul meu Mântuitor
+Să-mi legi rănile care mă dor.
+
+[s4]
+4. Isuse, Isuse
+Pieptul Tău fă-l căpătâi
+Şi cu mâna Ta să mă mângâi.
+
+[s5]
+5. Slavă şi mărire Ţie scumpe Isuse
+Căci Tu-mi dai bucurii nespuse.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,20 @@
+[s1]
+Atâtea-n lume exclamă mulţimea
+Oameni cu faimă, oameni avuţi
+Totu-i deşert, aşa e lumea
+Dar mulţi nu ştiu că sunt pierduţi
+
+[r1]
+N-am să privesc înspre ţărână
+Ea nu este de folos
+/:În nimeni altul nu este iertare
+Decât în Numele lui Hristos:/
+
+[s2]
+Oamenii se închină
+La muritori de pe pământ
+Fără să ştie că-n Ţara Divină
+E un Domn Etern şi Sfânt
+
+[order]
+s1,r1,s2,r1

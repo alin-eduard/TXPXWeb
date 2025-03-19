@@ -1,0 +1,35 @@
+[s1]
+Mă-ntreb ades, când toţi suntem ai Lui
+Când pentru toţi deopotrivă
+a suferit Crucea Grea
+Mă-ntreb de ce ‘nălţăm
+ziduri de resentimente ?
+Şi raceala între noi ?
+
+[s2]
+A Sa înviere a pus în noi acelaşi Duh
+Şi uniţi în El suntem
+oricum ne-am numi
+Având acelaşi Domn şi împărat
+Suntem chemaţi să fim:
+o inima şi-un gând pentru Slava Lui.
+
+[r1]
+Da!!!
+Toţi o inima şi-un gând stăm
+Uniţi în jertfa Lui
+Luptând pentru
+împărăţia Slavei Lui
+Nu-i duşman să poată frânge toată oastea Domnului
+Atunci când stăm uniţi
+în puterea Lui.
+
+[s3]
+Vom fi curând în faţa mielului
+Şi-n frumuseţea gloriei Lui
+Vom sta toţi ce-au fost ai Lui
+Veniţi acum să uităm tot ce-i vremelnic
+Şi uniţi să fim pentru Gloria Lui.
+
+[order]
+s1,s2,r1,s3,r1

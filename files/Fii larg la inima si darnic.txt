@@ -1,0 +1,58 @@
+[s1]
+Fii larg la inimă şi darnic,
+fă binele cu pas tăcut;
+/: Că n-ai făcut, vei plânge odată,
+Dar n-ai să plângi c-ai prea făcut :/
+Dar n-ai să plângi,
+dar n-ai să plângi c-ai prea făcut.
+
+[s2]
+Ascultă sfatul şi-ndrumarea,
+îndreaptă-te când eşti mustrat;
+/:Că nu asculţi vei plânge odată,
+Dar n-ai să plângi c-ai ascultat. :/
+Dar n-ai să plângi,
+dar n-ai să plângi c-ai ascultat.
+
+[s3]
+Mergi fericit în orice vreme,
+oriunde te-ar mâna Isus;
+/:Că nu te-ai dus, vei plânge odată,
+Dar n-ai să plângi că prea te-ai dus.:/
+Dar n-ai să plângi,
+dar n-ai să plângi că prea te-ai dus.
+
+[s4]
+Fii răbdător până la moarte,
+oricât de-adânc ai fi brăzdat;
+/: Că n-ai răbdat, vei plânge odată,
+Dar n-ai să plângi c-ai prea răbdat. :/
+Dar n-ai să plângi,
+dar n-ai să plângi c-ai prea răbdat.
+
+[s5]
+Iubeşte cald, întotdeauna,
+chiar şi pe-acel ce te-a zdrobit;
+/:Că n-ai iubit, vei plânge odată,
+Dar n-ai să plângi c-ai prea iubit. :/
+Dar n-ai să plângi,
+dar n-ai să plângi c-ai prea iubit.
+
+[s6]
+Şi iartă plin de bunătate tot răul
+pe nedrept purtat;
+/: Că n-ai iertat, vei plânge odată,
+Dar n-ai să plângi c-ai prea iertat. :/
+Dar n-ai să plângi,
+dar n-ai să plângi c-ai prea iertat.
+
+[s7]
+Din ce-ai văzut, să ai credinţă
+spre tot ce încă n-ai văzut;
+/:Că n-ai crezut, vei plânge odată,
+Dar n-ai să plângi c-ai prea crezut.:/
+Dar n-ai să plângi,
+dar n-ai să plângi c-ai prea crezut.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

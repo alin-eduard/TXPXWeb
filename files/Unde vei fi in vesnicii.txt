@@ -1,0 +1,38 @@
+[s1]
+Unde vei fi în veşnicii,
+Tu ce de Domnul eşti creat?
+Unde vei fi în veşnicii?
+El sufletul viu ţi-a insuflat.
+/: Răspunde azi! :/
+Unde vei fi în veşnicii?
+
+[s2]
+Unde vei fi în veşnicii,
+Tu, care în păcat trăieşti?
+Unde vei fi în veşnicii,
+Tu care viaţa risipeşti?
+/: Răspunde azi! :/
+Unde vei fi în veşnicii?
+
+[s3]
+Unde vei fi în veşnicii?
+Tu, pentru care Crist muri.
+Unde vei fi în veşnicii?
+El pentru tine pătimi.
+/: Răspunde azi! :/
+Unde vei fi în veşnicii?
+
+[s4]
+Unde vei fi în veşnicii?
+La Isus azi de vei veni!
+În suflet îţi va răsări
+În loc de groază, bucurii.
+/: Răspunde azi! :/
+Unde vei fi în veşnicii?
+
+[s5]
+Dar ce-i mai scump,
+E că vei fi, lângă Isus în veşnicii
+
+[order]
+s1,s2,s3,s4,s5

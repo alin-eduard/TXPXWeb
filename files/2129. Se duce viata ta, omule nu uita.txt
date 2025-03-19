@@ -1,0 +1,32 @@
+[s1]
+2129
+1. /: Se duce viața ta
+Omule nu uita
+Mai e încă puțin
+Spre cer tu vei pleca :/.
+
+[r1]
+Cor: /: Tot ce aici ai adunat
+Ce-ai trudit, ce ai lucrat
+Totul se va spulbera
+De aicea vei pleca :/.
+
+[s2]
+2. /: Se duce viața ta
+Suflete iubit
+Cât din timpul tău
+Domnului ai slujit :/.
+
+[s3]
+3. /: Se duce viața ta și ziua cea de mâine
+Nu mai e a ta
+Ce, a cui va rămâne :/.
+
+[s4]
+Cor:  /: Pe pământ ce-ai adunat
+Într-o zi totul va arde
+Dar pentru cer ce ai făcut
+Răsplata-ți va fi mare :/.
+
+[order]
+s1,r1,s2,r1,s3,s4

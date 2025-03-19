@@ -1,0 +1,38 @@
+[s1]
+În Ghetsimani, Isus
+În noapte-ngenuncheat
+Se roagă-n chin nespus
+Şi strigă-ndurerat
+
+[r1]
+Tată, paharul e amar
+/: Cât de-amar ! :/
+Dacă se poate, să nu-L beau -
+Totuâi, nu cum Eu vreau.
+
+[s2]
+Paharul de venin
+Nu e îndepărtat
+Asa cum este, plin
+La gură e purtat.
+
+[s3]
+Şi iată, Domnul bea
+Paharul de venin
+Să mântuie El vrea
+Pe om din orice chin.
+
+[s4]
+O, Doamne, Te mărim
+În veci Te adorăm
+Iubirea Ta vestim
+Şi pilda Ta urmăm !
+
+[s5]
+Tată, paharul e amar
+/: Cât de-amar ! :/
+Pe deplin sunt gata să-l beau
+Cum vrei Tu, îi eu vreau !
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5

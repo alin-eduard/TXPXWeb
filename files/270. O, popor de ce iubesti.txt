@@ -1,0 +1,67 @@
+[s1]
+1. O, popor de ce iubeşti
+Lucrurile pământeşti
+Că din casă şi avere
+Ţi-ai făcut idoli din ele
+Şi din lume ţi-ai luat
+Tot ce e spurcat.
+270.
+
+[s2]
+2. Şi îţi mai zici tu în sine
+Nu este nimeni ca tine
+Am de toate-n astă lume
+Nu-mi mai trebuie pe nimeni
+Să mă-nveţe ce să fac
+Că eu sunt bogat.
+
+[s3]
+3. Haine scumpe tu îţi faci
+După modă te îmbraci
+Vorbe rele şi minciună
+Ce-s oprite din Scriptură
+Dar tu la Cuvânt te uiţi
+Şi nu îl asculţi.
+
+[s4]
+4. Domnul când ţi-a dat un sfat
+Cu picioru-n el ai dat
+Dar curând te va-ntreba
+Ce-ai făcut în viaţa ta
+Aici jos pe-acest pământ
+Cât tu ai trăit.
+
+[s5]
+5. Judecata-i apropiată
+Cum n-a mai fost niciodată
+Deci te-ntoarce-n graba mare
+La cuvânt şi ascultare
+Dacă nu vei rămânea
+Aici pururea.
+
+[s6]
+6. Vai popor de ce n-asculţi
+Că Domnul de mult ţi-a spus
+Te-au strigat prin vase vii
+Nu poţi zice că nu ştii
+Dar tu nu te mai trezeşti
+Că-n păcat trăieşti.
+
+[s7]
+7. Te-ai pornit deodată la rău
+Nu-ţi place cu Dumnezeu
+Domnul vine în curând
+După ai Săi de pe pământ
+Şi atunci vei rămânea
+Plângând pururea.
+
+[s8]
+8. Cercetează-te azi bine
+Să nu fii dat de ruşine
+Căci aici pe pământ
+N-ai ascultat de cuvânt
+Şi-ntristare ai adus
+Duhului de sus.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

@@ -1,0 +1,40 @@
+[s1]
+Vad Doamne chipul Tau stralucitor,
+Si-n stele sus si-n soare si in nor,
+Dar chipul Tau si omul l-a purtat,
+In vremea cand era nevinovat,
+Caci dupa chipul Tau Tu l-ai creat,
+Sa fie sfant si fara de pacat.
+
+[r1]
+/: Omule nu intamplarea,
+Ti-a dat chipul minunat,
+Dumnezeu cu indurarea,
+El te-a binecuvantat. :/
+
+[s2]
+Vad Doamne mana Ta de Creator,
+In vai adanci si-n varful muntilor,
+In piatra care scapara scantei
+Si in parfumul florilor de tei
+Si-n fagurul ce picura din roi,
+Ce le-ai creat pe toate pentru noi.
+
+[s3]
+Vad Doamne chipul Tau in adunari,
+Prin Duhul Sfant cu dar de vindecari,
+Tu locuiesti in cerul stralucit
+Dar vii si langa omul umilit,
+Ca sa-L ridici din umilinta lui
+Si-n carul mantuirii sa il sui.
+
+[s4]
+Vad mana Ta in fiecare zi,
+Si-n rasarit si-n marele apus,
+Si-n stropul cel de roua cristalin,
+Si-n norii care plini de apa vin,
+Sa cada peste lutul framantat,
+Sa creasca rodul binecuvantat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

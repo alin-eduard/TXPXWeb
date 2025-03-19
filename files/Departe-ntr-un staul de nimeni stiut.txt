@@ -1,0 +1,20 @@
+[s1]
+Departe­-ntr­-un staul de nimeni ştiut,
+La vremea­-mplinită, Isus s­-a născut,
+Şi stele pe ceruri luciră mai viu,
+Şi îngeri cântară pe dealul pustiu.
+
+[s2]
+Departe de Tatăl, de tronul ceresc,
+Culcat într­-o iesle, păstorii­-L găsesc;
+Să vadă copilul născut ca-­mpărat
+Adus-au şi magii prinos de­-nchinat.
+
+[s3]
+Ca ieslea săracă e inima mea,
+Dar vino, Isuse, Te naşte în ea,
+S­-aud cor de îngeri la mine sosit
+Cu vestea cea bună, că sunt mântuit.
+
+[order]
+s1,s2,s3

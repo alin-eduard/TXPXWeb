@@ -1,0 +1,68 @@
+[s1]
+/: Pe zidurile tale Ierusalime :/
+Am pus niste strajeri x3
+Care nu vor tacea niciodata
+Nu vor tacea nici zi nici noapte
+
+[s2]
+Nu vor tacea! x4
+nici zi, nici noapte
+Niciodata ei
+/:nu vor tacea:/
+
+[s3]
+Iata glasul strajerilor Tai
+iata cum rasuna:
+/: /:Trezeste-te:/ Sioane,
+imbracate-n podoaba ta Sioane:/
+
+[s4]
+Ierusalim, Ierusalim, pregateste
+Ca Isus vine-n curand
+/:In noaptea grea:/ sa fii gasit veghind,
+Ierusalim,Ierusalim te pregateste
+Ca Isus vine-n curand.
+
+[s5]
+Ierusalim, Ierusalim in noaptea grea
+sa fi gasit veghind!
+Strajerule, strajerule
+/:mai este mult din noapte?:/
+Strajerule, strajerule
+cat mai este din noapte?
+
+[s6]
+Popor Sfant al Domnului
+Glasul strajerilor rasuna!
+Puneti haine de sarbatoare
+Cetate sfanta Ierusalim
+Cetate cautata si neparasita.
+
+[s7]
+Imbracate-n podoaba ta Sioane,
+Iata Mantuitorul tau vine!
+/:Strigati:/ de bucurie,
+/:Strigati:/ voi cei eliberati
+/:Strigati:/  ca se sfarseste noaptea
+Veti fi eliberati!
+
+[s8]
+Se vede-n departare
+O stea lucind devine tot mai mare
+Ea zorii prevestind, rasare Aurora
+Acel ce-L asteptati apare dimineata!
+
+[s9]
+Celor rascumparati /:glorie:/
+Al nostru Imparat slava Tie
+Al nostru Domn in veci glorie, aliluia
+Tu Rege glorios!
+
+[s10]
+/:Aliluia:/ Cel mult asteptat!
+Glorie, Aliluia al nostru Rege
+Slava, Glorie, Aliluia, Aliluia
+Stapan al vesniciei Domn si Imparat!
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

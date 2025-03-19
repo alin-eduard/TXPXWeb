@@ -1,0 +1,38 @@
+[s1]
+Să nu urăşti când poţi iubi
+Nu amăgi pe nimenea
+Mai bine leagă, nu rănii
+Aşa precum Isus făcea.
+
+[r1]
+Să ţinem pocăinţa
+Aşa cum ne-a fost dată
+Pe Domnul să-L slujim
+Cu inima curată.
+
+[s2]
+Tu nu lua când poţi să dai
+Celui lipsit din pâinea ta
+Nu fi zgârcit de vrei să ai
+Un colţ de rai în casa ta.
+
+[s3]
+Nu te-nşela uitând că Domnul
+Iţi ştie gândul inimii
+Rănind pe fraţi chiar c-o privire
+Pe Dumnezeu nu-L poţi iubi.
+
+[s4]
+Să nu rămâi nepăsător
+Când altii luptă-n rugăciuni
+Şi să nu fi un cârtitor
+Cănd nu vezi semne şi minuni.
+
+[s5]
+Nu murmura când dai de greu
+Aceasta este crucea ta
+Rămâi smerit cu Dumnezeu
+Aşa precum Isus făcea.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

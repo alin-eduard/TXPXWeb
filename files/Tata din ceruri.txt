@@ -1,0 +1,14 @@
+[s1]
+Tată din ceruri, da, noi Te iubim,
+Şi Îţi cântăm mărire Ţie,
+Fie lauda primită înaintea Ta,
+Noi, copiii Tăi, vestim lucrarea Ta.
+
+[s2]
+Binecuvântat fii, o, Doamne,
+Ce-ai fost, exişti şi vei mai fi,
+Binecuvântat fii, o, Doamne,
+Ce-mpărăţeşti în veci.
+
+[order]
+s1,s2

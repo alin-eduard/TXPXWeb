@@ -1,0 +1,49 @@
+[s1]
+874.
+1. Aş vrea să zbor in zori ca porumbelul
+În spaţiul planetar din alte zări
+Să nu mai văd necazuri de tot felul
+Şi nici spitale pline de dureri.
+2. Aş vrea să merg şi eu în ţara aceea
+Unde-i cetatea sfântă Paradis
+Şi unde suferinţa nu se vede
+Ci numai fericire de nespus.
+
+[s2]
+3. Aş vrea să văd şi eu apartamentul
+În locul construit acolo sus
+Aşa cum scrie chiar şi Testamentul
+În locul pregătit de al meu Isus.
+4. Aş vrea să văd cum este temelia
+Cu 12 Apostoli scrişi pe ea
+Şi cum este făcută zidăria
+E meşter Dumnezeu cu mâna Sa.
+
+[s3]
+5. Acolo tâmplăria nu se vede
+Căci porţile sunt de mărgăritar
+Şi uliţa cetăţii e de aur
+Cum este sticla străvezie clar.
+6. Acolo porţile nu se închid
+Că nu mai este noapte numai zi
+De soare nici nu mai este nevoie
+Căci Tatăl luminează pe cei vii.
+
+[s4]
+7. Acolo nu se plăteşte chirie
+E totul ca să vrei să te înscrii
+Rămâi moştenitor pentru vecie
+Căci Tatăl plăti pentru ai săi fii.
+8. El a plătit cu preţul cel mai mare
+Cu sângele iubitului său Fiu
+Şi cine vrea să stea-n aşa clădire
+Să se înscrie cât nu-i prea târziu.
+
+[s5]
+9. De aceea să renunţi şi tu la toate
+Ce te mai ţine ca să zăboveşti
+Să nu mai duci o viaţă de păcate
+Ca-n locul acel de veci să locuieşti.
+
+[order]
+s1,s2,s3,s4,s5

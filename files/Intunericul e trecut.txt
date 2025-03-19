@@ -1,0 +1,33 @@
+[s1]
+Întunericul e trecut acum,
+Zorii zilei se ivesc;
+Iar în suflete lumni pătrund
+Ce pe noi ne zdrobesc.
+
+[r1]
+Scoală-te! Scoală-te!
+Şi aleargă la Isus.
+El te cheamă, vrea
+Să-ţi dea pacea Sa
+Deci, vino acum la Isus.
+
+[s2]
+Pofta te-amăgit, şi apoi ţi-a răpit
+Tot ce-i mai bun din viaţa ta
+Rătăceşti pribeag fără de leac,
+Care este soarta ta?
+
+[s3]
+Numai la cruce, unde sângele
+Lui Hristos s-a revărsat.
+Este locul sfânt pe acest pământ
+Ce ne scapă de păcat.
+
+[s4]
+Am venit şi eu cu păcatul meu,
+La acest Mântuitor.
+El m-a uşurat şi apoi mi-a dat,
+Viaţă din al său izvor.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

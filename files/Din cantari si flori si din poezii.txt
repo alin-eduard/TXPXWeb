@@ -1,0 +1,20 @@
+[s1]
+Din cântări şi flori şi din poezii
+Împletim buchete de bucurii
+Mamă, Ţie, cu dragoste să-ţi dăruim,
+Ca să ştii cât te iubim!
+
+[s2]
+Este visul tău, visul cel mai sfânt,
+Să ne ştii salvaţi de pe-acest pământ;
+Dumnezeu e cu noi, şi în veci El va fi
+Bucuria cea dintâi!
+
+[s3]
+Pentru fruntea ta, Domnul cel iubit,
+O coroană de-aur a pregătit,
+Strălucind de iubire tot ne vei purta,
+Stele în coroana ta!
+
+[order]
+s1,s2,s3

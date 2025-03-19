@@ -1,0 +1,35 @@
+[s1]
+Cand ma simt strain si obosit
+Inspre cer privirea mi-o ridic
+Catre Tine Domnul meu Isus
+Izbavire numai tu mi-aduci
+
+[s2]
+/: Doamne-o zi traita langa tine
+Binecuvantare pentru tine
+Dupa toate pacea-n suflet a patruns :/
+
+[s3]
+Cand furtuna baca-mi spulbera
+Singura speranta ce-o avea
+Tu faci sa rasara iar in zori
+Soarele mai falnic dupa nori
+
+[s4]
+/:Doamne-o zi traita langa tine
+Binecuvantare pentru tine
+Dupa toate pacea-n suflet a patruns:/
+
+[s5]
+Vreau sa cant, sa cant cu toti acum
+Marea bunatate-a Domnului
+Ce-o revarsa peste noi la fel
+Nu iubeste nimenea ca El
+
+[s6]
+/:Doamne-o zi traita langa tine
+Binecuvantare pentru mine
+Dupa toate pacea-n suflet a patruns:/
+
+[order]
+s1,s2,s3,s4,s5,s6

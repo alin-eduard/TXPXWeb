@@ -1,0 +1,41 @@
+[s1]
+1706.
+1. Doamne am necazuri multe
+N-are cine să m-ajute
+Din necaz merg în durere
+Nimeni nu-mi dă mângâiere
+2. Numai Tu poţi mângâia
+Rana din inima mea
+Necazul Doamne când vine
+Nu se mai lasă de mine
+
+[s2]
+3. Eram pe patul de moarte
+Ai venit în vis de noapte
+Ai venit m-ai mângâiat
+Sufletul mi l-ai salvat
+4. Când omu-i la suferinţă
+Atunci crede-n pocăinţă
+Şi strigă la Dumnezeu
+Vino Doamne că mi-e greu
+E amar sufletul meu
+
+[s3]
+5. Doamne câţi fraţi am în lume
+Nu vine unul la mine
+Nici un frate nu e frate
+Că-i prea multă răutate
+6. Doamne n-am pe nimenea
+Să-mi aline durerea
+Doamne să fii lăudat
+C-ai venit m-ai mângâiat
+Sufletul mi l-ai salvat
+
+[s4]
+7. Ai venit la patul meu
+Doamne când mi-a fost mai greu
+Doamne eu îţi mulţumesc
+Pentru harul Tău ceresc
+
+[order]
+s1,s2,s3,s4

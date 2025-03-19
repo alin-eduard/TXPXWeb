@@ -1,0 +1,29 @@
+[s1]
+1174.
+1.       Nimeni nu poate spune
+Câte zile vom trăi
+Nici măcar ce aduce ziua
+Care mâine va veni.
+2.        Încrede-te în Dumnezeu
+Să fii ferit de orice rău
+Credinţa în El te va păzi
+Şi orice necazuri vei birui.
+
+[s2]
+3.       Balsam de mângâiere
+Prin Isus Tatăl ne-ai dat
+Stăruieşte în rugăciune
+Ca să poţi fi mângâiat.
+4.       Dacă uneori în suflet
+Grijuri te-au năpădit
+Puneţi tu în El nădejdea
+Ca să poţi fi liniştit.
+
+[s3]
+5.       Deschide-ţi ochii şi vină
+Să poţi să vezi lucrarea Sa
+Adu-ţi aminte omule şi nu uita
+Isus îţi poartă grija ta.
+
+[order]
+s1,s2,s3

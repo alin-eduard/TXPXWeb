@@ -1,0 +1,24 @@
+[s1]
+Smeriţi la Tine Doamne
+Cu toţii venim
+Cu tot ce avem şi suntem
+Noi dorim să Îţi slujim
+Tinereţea noastră pe altar o aşezăm
+Doar Ţie Isuse glorie vrem să-ţi dăm
+
+[r1]
+/:Tu meriţi toată slava
+Tu meriţi onoarea
+Tu meriţi gloria în veci de veci:/
+
+[s2]
+Prin jertfa Ta cea sfântă
+Viața ne-ai redat
+Şi sufletele noastre
+le-ai umplut de har bogat
+Ești Dumnezeul nostru
+și în inimi te păstrăm
+Vrem toată veșnicia glorie să Ți dăm
+
+[order]
+s1,r1,s2,r1

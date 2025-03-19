@@ -1,0 +1,30 @@
+[s1]
+Tara mea iubita, care te doresc
+Mult as vrea, in tine, eu sa locuiesc
+/: Sa ma scapi de locu-acesta dureros
+Care ma-mpresoara-aici,
+pe pamant jos. :/
+
+[s2]
+Tara, sfanta tara, noi te adoram
+Si dorim, in tine, curand sa intram.
+/: Fa sa vina ziua ceea mai curand
+Cand ne vom lua zborul
+toti de pe pamant! :/
+
+[s3]
+Stoluri dupa stoluri,
+noi ne vom-nalta;
+Pe Isus, in slava,-L vom intampina.
+/: Vom canta cantarea celor fericiti
+Care, pe pamant jos,
+fost-au prigoniti. :/
+
+[s4]
+Mireasa iubita, stai cu ochii-n sus!
+Stai, sa vina-n graba Mirele Isus,
+/: Sa ne duc-acolo-n tara cea de sus
+Unde guverneaza Mirele Isus. :/
+
+[order]
+s1,s2,s3,s4

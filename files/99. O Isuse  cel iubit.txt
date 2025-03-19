@@ -1,0 +1,43 @@
+[s1]
+99.
+1. O Isuse cel iubit
+Care faci minuni
+Vino astăzi între noi
+Ca să ne bucuri
+Pleacă-Ți  sfântă fața Ta
+Și ne ascultă
+Și așa cum ne aflăm
+Ne binecuvântă
+
+[r1]
+Cor: Sunt fericit că Te simt
+În inima mea
+Vreau cu Tine să rămân
+Orice s-a-ntâmpla
+Urle cel rău cât o vrea
+Eu n-am grija lui
+Știu că sunt răscumpărat
+Serv al Domnului
+
+[s2]
+2. Trei credincioși de demult
+Satana i-a prins
+Vrut-a să-i ardă în foc
+În cuptor aprins
+Dar Tu Doamne i-ai scăpat
+Lângă ei ai fost
+Și-ai scăpat pe servii Tăi
+Ce-au fost credincioși
+
+[s3]
+3. Daniel înflăcărat
+Pentru Dumnezeu
+La lei a fost aruncat
+Dar el e al Tău
+Și-a trimis ingerul Său
+Gura le-a închis
+Și-a păzit pe robul Său
+După cum stă scris
+
+[order]
+s1,r1,s2,r1,s3,r1

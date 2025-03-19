@@ -1,0 +1,39 @@
+[s1]
+2091
+1. /: Isus este iubirea
+În dar dă mântuirea
+Și toții ce se încred în El
+Vor fi mereu cu El :/
+
+[s2]
+Cor:  /: El a venit în lume
+Pentru mine și tine
+Să ne-aducă în dar
+Mântuire și har :/
+
+[s3]
+2. /: De crezi azi în Isus
+Că viață ți-a adus
+Tu vei fi mântuit
+Și veșnic fericit :/
+
+[s4]
+Cor:/: El a venit în lume
+Pentru mine și tine
+Să ne-aducă în dar
+Mântuire și har :/
+
+[s5]
+3. /: Azi va fi bucurie
+În ceruri pentru tine
+C-ai acceptat în dar
+Mântuire și har. :/
+
+[s6]
+Cor: /: El a venit în lume
+Pentru mine și tine
+Să ne-aducă în dar
+Mântuire și har :/
+
+[order]
+s1,s2,s3,s4,s5,s6

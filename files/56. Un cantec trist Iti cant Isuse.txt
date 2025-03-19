@@ -1,0 +1,33 @@
+[s1]
+56.
+1. Un cântec trist îţi cânt Isus
+Un cântec trist şi cu amar
+Cântarea lacrimilor puse
+Pe drumurile de calvar.
+
+[s2]
+2. Îţi cânt încet, îţi cânt în şoapte
+Cu sufletul sfâşietor
+Acordurile prinse-n noapte
+Şi melodiile cu dor.
+
+[s3]
+3. Mai cânt de dorul feţei Tale
+Neobosit şi fără rând
+Oriunde şi oricând pe cale
+Te cânt Isuse lăcrimând.
+
+[s4]
+4. De când îţi cânt mi-aduc aminte
+Că-n templul meu am pus suspin
+Durerile-mi sunt visuri sfinte
+Şi lacrimile un alin.
+
+[s5]
+5. Eu nu ştiu altă fericire
+Eu nu ştiu altă bucurie
+Decât să-Ţi cânt doar din iubire
+Şi aceasta numai Tu o ştii.
+
+[order]
+s1,s2,s3,s4,s5

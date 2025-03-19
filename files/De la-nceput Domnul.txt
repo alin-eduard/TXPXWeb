@@ -1,0 +1,28 @@
+[s1]
+De la-nceput Domnul
+a binecuvântat acest pământ.
+Şi a lăsat ca o lumină peste el,
+al Său Cuvânt.
+
+[r1]
+Doamne fii cu noi,
+tu să ne păzeşti.
+Dă-ne din lumina sfântă,
+de noi te-ndură.
+Doamne fii cu noi,
+tu să ne păzeşti.
+Dă-ne din lumina sfântă
+si pacea Ta cerească.
+
+[s2]
+De la-nceput Domnul
+a binecuvântat pâine şi vin.
+Şi ne-a promis că ne va ocroti
+pe drum dacă-I slujim.
+
+[s3]
+De la-nceput o binecuvântare-a fost Isus Christos.
+Că Tatăl l-a trimis pe crucea Golgotei în locul nost’.
+
+[order]
+s1,r1,s2,r1,s3,r1

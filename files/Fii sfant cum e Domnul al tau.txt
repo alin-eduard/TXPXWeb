@@ -1,0 +1,20 @@
+[s1]
+Fii sfânt cum e Domnul, al tău Dumnezeu,
+Sufletu-ţi hrăneşti din Cuvântul Său.
+La săraci împarte chiar din pâinea ta,
+Binecuvântare, pace vei avea.
+
+[s2]
+Fii sfânt cum e Domnul, fă ce-ţi spune El.
+Stai în rugăciune sincer, cu mult zel!
+Când rămâi în Duhul, ca şi El vei fi,
+Prin a ta viaţă El Se va slăvi.
+
+[s3]
+Fii sfânt cum e Domnul, în umblarea ta.
+Fie-ţi bucuria în a-L asculta,
+Ne-ncetat urmează sfânt Cuvântul Lui,
+Crede şi te roagă, cântă-I Domnului.
+
+[order]
+s1,s2,s3

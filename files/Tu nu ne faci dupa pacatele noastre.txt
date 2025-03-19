@@ -1,0 +1,36 @@
+[s1]
+Tu nu ne faci după păcatele noastre -
+Şi zi de zi ne dai
+Din pîinea Ta ne dai
+Ne săturăm că aruncăm
+Ce minunat eşti Tu, Isuse Doamne !
+
+[s2]
+Tu nu ne faci după păcatele noastre -
+O casă ne-am zidit
+Da-n multe-am locuit
+Un Soare cald un har înalt
+Ce minunat eşti Tu, Isuse Doamne !
+
+[s3]
+Tu nu ne faci după păcatele noastre -
+Şi apă şi cămin si pace şi alin
+Sînt mulţumit Isus iubit
+Ce minunat eşti Tu, Isuse Doamne !
+
+[s4]
+Tu nu ne faci după păcatele noastre -
+Iertarea Ta de preţ
+E darul Tău măreţ
+Sînt mîntuit si-s fericit
+Ce minunat eşti Tu, Isuse Doamne !
+
+[s5]
+Tu nu ne faci după păcatele noastre -
+Cu-nchinăciuni venim
+,Nainte-Ţi ne-umilim
+Îţi mulţumim si Te slăvim
+Ce minunat eşti Tu, Isuse Doamne !
+
+[order]
+s1,s2,s3,s4,s5

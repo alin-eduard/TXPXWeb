@@ -1,0 +1,30 @@
+[s1]
+Doamne vreau sa fiu
+In stare sa-nteleg cum esti
+Care-i calea ta, ca sa merg pe ea
+Si din pacea Ta, in suflet
+sa-mi reversi un strop
+Ca cei din jur sa bea,
+si sa stea, in iubirea Ta
+
+[r1]
+Cheama-ma si voi veni la tine
+Cand sunt slab fii de partea mea
+Ca vulturul spre cer ma voi inalta
+Si vesnic voi trai, mereu voi locui,
+in iubirea Ta
+
+[s2]
+Doamne astazi vin in fata Ta
+sa ma inchin
+Umple-ma, te rog, cu har divin
+Prin lumina Ta as vrea mai mult
+Sa imi cunosc slabiciunile
+Si sa cresc in iubirea Ta
+
+[s3]
+/: Si vesnic voi trai, mereu voi locui,
+In iubirea Ta:/  x3
+
+[order]
+s1,r1,s2,r1,s3

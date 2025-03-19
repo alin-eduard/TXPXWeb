@@ -1,0 +1,42 @@
+[s1]
+Preasfinte duh de viată darnic,
+Preasfinte-mpărtitor de har;
+În fata Ta îngenunchează
+A noastră rugăciune iar.
+/: Căci Tu ai dat vietii noastre
+Botezul minunat de foc,
+Ce-a-ncununat în noi durerea
+Cu fericirea la un loc! :/
+
+[s2]
+Ai răsărit în fata noastră,
+Lumina altei noi vieti,
+Ca să ne-arăti atâtea sfinte
+Si negrăite frumuseti.
+/: În inimi ai aprins scânteia
+Si focul altei noi iubiri,
+Ca să-Ti aducem Tie jertfa
+Deplinei noastre dăriuri :/
+
+[s3]
+Făcut-ai sufletele noatre
+Potir de aur minunat
+Si darnic le-ai umplut adâncul
+Cu harul Tău îmbelsugat.
+/: Deschisu-ne-ai de-acum usa
+Slăvitului Ierusalim,
+Si fericirii fără margini
+Părtasi făcutu-ne-ai să fim. :/
+
+[s4]
+Să fie a ta jertfă sfântă
+De noi slăvită cât trăim,
+Că ai aprins în ea lumina
+În care astăzi vietuim.
+/: De-atât noian de fericire,
+Mi-e pălin al inimii pahar.
+Fii binecuvântat de-apururi,
+Preasfânt Împărtitor de har! :/
+
+[order]
+s1,s2,s3,s4

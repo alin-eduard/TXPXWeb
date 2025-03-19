@@ -1,0 +1,72 @@
+[s1]
+Mergând, spre Golgota,
+Cu crucea în spate,
+Cu rana de spini ce amar
+Îl durea,
+/: El urcă-nspre culme,
+Cu-a-mele păcate,
+Şi sarcina lumii era
+foarte grea.:/
+Mi minor
+
+[s2]
+Fugit-au cu toţii din sfânta
+Lui faţă,
+Căci toţi cei din jurul
+Lui erau străini.
+/: Şiroaie de sânge-L
+brăzdează pe faţă...
+Pe frunte, El poart-o
+cunună de spini. :/
+
+[s3]
+Din câţi vindecat-a,
+Nici unul nu-i astăzi;
+Fugit-au cu toţii,
+Cu toţii s-au dus;
+/: Dar, fără cârtire,
+El urcă-n tăcere...
+El urcă...El urcă...
+spre Golgota sus. :/
+
+[s4]
+Pe câţi întâlnit-a-n
+a lumii pustie
+El apa vieţii le-o dete în dar,
+/: Iar astăzi nu-i nimenea
+să-I astâmpere setea
+I-au dat un burete atât
+de amar... :/
+
+[s5]
+Pe câţi în viaţă,
+În mii de suspine,
+Din lanţurile grele,
+I-a izbăvit!
+Iar azi, ca răsplată,
+Şi mâini şi picioare
+Şi corpul întreg în
+cuie-i ţintuit. :/
+
+[s6]
+Aşa se sfârşeşte
+a lumii salvare:
+Pe culmea Golgotei,
+Pe vârful ei, sus.
+/: Prin toate acestea,
+Ne dete iertarea
+Şi Cel ce ne-o dete,
+Se cheamă Isus. :/
+
+[s7]
+Deci, tu, om ce-n lume
+mai stai în adormire,
+Credinţa ta las-o
+să urce mai sus,
+/: Să poţi avea parte de
+ceasul răpirii
+Căci Cel ce-i salvare,
+Se cheamă Isus!:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

@@ -1,0 +1,28 @@
+[s1]
+Astăzi eu Isuse vin la crucea Ta,
+Cu povara mea,
+primeste-mă cum sunt.
+Isuse eu Te rog
+vino-n viata mea,
+Dă-mi tu pacea Ta,
+o iartă-mă, Te rog.
+
+[r1]
+/:Cercetează-mă o Doamne
+cunoaste-mi inima,
+Vezi de sunt pe-o cale rea.
+Pune-mi Tu piciorul
+pe calea Ta Isuse,
+Să Te urmez de-a pururea.:/
+
+[s2]
+Îti multumesc Isuse,
+stiu că mă iubesti,
+Tu mă călăuzesti zi de zi mereu.
+Viata mea întreagă,
+de astăzi este-a Ta,
+Fii slăvit în veci
+o Domnul meu Isus.
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,27 @@
+[s1]
+Cântarea mea e numai despre Isus,
+Cerescul Fiu al Tatălui slăvit;
+El a venit păcatul să mi-l şteargă
+Când la Calvar pe cruce a murit.
+Do M
+
+[r1]
+/: Cântarea mea e numai despre Isus
+Ce-n locul meu pedeapsa a purtat;
+Şi-n versul ei, cântarea mea va spune,
+Ce fericiri şi bogăţii mi-ai dat! :/
+
+[s2]
+Cămaşa Lui, stropită-n sfântul sânge,
+Crucea şi spinii şi păcatul greu,
+Mormântul gol, speranţa revederii
+Despre acestea voi cânta mereu.
+
+[s3]
+Cântarea mea va fi doar despre Isus
+Chiar peste râu, odată-n veşnicii;
+Cu imnul sfânt al miilor de îngeri
+Cântarea mea atunci se va uni.
+
+[order]
+s1,r1,s2,r1,s3,r1

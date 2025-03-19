@@ -1,0 +1,43 @@
+[s1]
+1.	Merge-voi cu mâna goală
+Înaintea Domnului?
+Suflete nu-i pot aduce
+Nici un singur snop măcar?
+Cor: 	Merge-voi cu mâna goală
+Înaintea Domnului?
+Suflete nu-i pot aduce
+Nici un singur snop măcar?
+1038.
+
+[s2]
+2.	Da, Isus m-a răscumpărat
+De moarte nu am frică!
+Dar să merg cu mâna goală
+Asta-i ce mă supără.
+Cor: 	Merge-voi cu mâna goală
+Înaintea Domnului?
+Suflete nu-i pot aduce
+Nici un singur snop măcar?
+
+[s3]
+3.	Anii mei pe care i-am pierdut
+Încă o dată de-ar veni
+Să pot lucra pentru Isus
+Cât aş fi de fericit.
+Cor: 	Merge-voi cu mâna goală
+Înaintea Domnului?
+Suflete nu-i pot aduce
+Nici un singur snop măcar?
+
+[s4]
+4.	Voi, creştini lucraţi cu râvnă!
+Tot înainte vă zoriţi!
+Aduceţi pe mulţi la Isus
+Atât timp cât mai trăiţi!
+Cor: 	Merge-voi cu mâna goală
+Înaintea Domnului?
+Suflete nu-i pot aduce
+Nici un singur snop măcar?
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,63 @@
+[s1]
+930.
+1. Te cheamă Doamne
+Astăzi lucrătorii
+Te cheamă să-i ajuți
+În slujba Ta.
+
+[s2]
+/: Să-i întărești pe toți
+În astă vreme
+Să-ți împlinească
+Evanghelia :/
+
+[s3]
+2. Te cheamă Doamne
+Astăzi și orfani
+Ca să le fii Tu
+Sprijin și ajutor.
+
+[s4]
+/: Ca să le asiguri
+Doamne-n astă vreme
+O pâine caldă
+Și în casa lor:/
+
+[s5]
+3. Te cheamă Doamne
+Astăzi slăbănogii
+Fii și pentru ei
+Astăzi Salvator.
+
+[s6]
+/:Te cheamă astăzi
+Doamne și ologii
+Fii sănătate Tu
+În trupul lor :/
+
+[s7]
+4. Te cheamă astăzi
+Doamne copilașii
+Să binecuvintezi
+Pe-a lor părinții.
+
+[s8]
+/: Să se întoarcă
+Din această lume
+Să fie și ei
+Doamne mântuiți :/
+
+[s9]
+5. Te cheamă Doamne
+Astăzi tot poporul
+Ca să-l ridici
+Acum din starea sa.
+
+[s10]
+/: Să ierți Doamne
+Isus orce vină
+Răpește Tu
+La cer Biserica:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

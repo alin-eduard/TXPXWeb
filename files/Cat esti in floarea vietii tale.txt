@@ -1,0 +1,26 @@
+[s1]
+Cât eşti în floarea vieţii tale,
+Fă ceva pentru Hristos!
+/: Ca să-I poţi odată spune
+Că I-ai fost Lui de folos. :/
+
+[s2]
+Căci vine timpul bătrâneţii,
+Când slăbeşte văzul tău;
+/: Ţi se-ncrucisează mersul,
+Chinuindu-te mereu. :/
+
+[s3]
+Vezi, se apropie sfârşitul,
+Timpul trece ca şi-n zbor;
+/: Deci, lucrează până-i timpul,
+Ca apoi să te bucuri. :/
+
+[s4]
+De aceea, cât mai eşti tânăr
+Predă-I viaţa lui Hristos!
+/: Lasă lumea trecătoare,
+Căci nu-ţi este de folos. :/
+
+[order]
+s1,s2,s3,s4

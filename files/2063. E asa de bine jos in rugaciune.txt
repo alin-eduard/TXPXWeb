@@ -1,0 +1,34 @@
+[s1]
+2063
+1. E așa de bine
+Jos în rugăciune
+În prezența /: Domnului :/
+Duhul Sfânt pătrunde
+Inima îți aprinde
+Să te rogi lui /: Dumnezeu :/
+
+[s2]
+2. Duhul Sfânt coboară
+Și ne înfășoară
+Toată slava /: lui Isus :/
+Duhul ne aprinde
+Pe toți ne cuprinde
+Dragostea lui /: Dumnezeu :/
+
+[s3]
+3. Duhul cercetează
+Ne înviorează
+Pe genunchi când /:ne rugăm:/
+Duhul mijlocește
+Și ne întărește
+Să-i slujim lui /: Dumnezeu :/
+
+[s4]
+4. Către Tine Tată
+Ruga-i înălțată
+Prin Duhul Sfânt noi ne rugăm
+Glorie mărire îți aducem
+Ție sfinte Dumnezeu.
+
+[order]
+s1,s2,s3,s4

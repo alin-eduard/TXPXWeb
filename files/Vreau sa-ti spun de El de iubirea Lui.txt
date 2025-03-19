@@ -1,0 +1,31 @@
+[s1]
+Vreau să-ţi spun de El de iubirea Lui,
+Vreau să-ţi spun cum pentru tine a murit.
+Vreau să-ţi spun de El de iubirea Lui,
+Cum în locul tău pe cruce s-a jertfit.
+Poate-ţi trec prin minte şoapte ce va fi cu viaţa ta,
+Când în jurul tău e ceaţă şi te temi.
+Totul e cenuşă foc şi fum,
+Eşti singur şi noaptea-i pe drum.
+
+[r1]
+/: Dar vino la Domnul,
+lumină-n viaţa ta va fi,
+Vino la Domnul şi fericit atunci vei fi.
+Dar vino la El
+nu amâna chemarea Sa,
+Poate mâine nu vei mai fi. :/
+Vino în familia Sa
+
+[s2]
+Lasă haina ta ce o porţi de mult,
+Tu nu vezi că e murdară şi s-a rupt.
+El îţi poate da una chiar de in,
+Iar în deget un inel de aur fin.
+Nu ştii câtă bucurie poţi să ai în viaţa ta,
+Când acest mod rău de viaţă-l vei lăsa.
+Pace mântuire poţi să ai,
+Şi viaţă cu Domnul în Rai.
+
+[order]
+s1,r1,s2,r1

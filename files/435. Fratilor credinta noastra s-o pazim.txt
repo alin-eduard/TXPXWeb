@@ -1,0 +1,75 @@
+[s1]
+1.Fraţilor credinţa
+Noastră s-o păzim!
+De pe drumul crucii
+Să nu rătăcim,
+435									Mi m
+
+[s2]
+De pe drumul păcii
+Să nu dăm ’napoi
+Facă Domnul Slavei
+Ce va vrea cu noi.
+
+[r1]
+Cor:Să fim gata
+Ca să ne jertfim!
+Pentru Domnul Isus
+Să murim!
+
+[r2]
+/:A noastră cetate
+Nu-i de pe pământ
+Este sus în ceruri,
+E la Tatăl sfânt.:/
+
+[s3]
+2.Noi nu ne vom teme
+De nici un duşman
+Mergem cu credinţă
+Înspre Canaan.
+
+[s4]
+Pe-a noastră credinţă
+Noi stăm neclintiţi
+Ca Petru şi Pavel
+Ai noştri iubiţi.
+
+[s5]
+3.Chiar dacă ne-ncearcă
+Ca pe Daniel
+Ne va scăpa Domnul
+Nost’, Emanuel.
+
+[s6]
+Căci în strâmtorare
+El va fi cu noi
+Ne va da scăpare
+Din orice nevoi.
+
+[s7]
+4.Când duşmanul vine
+Isus e cu noi
+El ne dă scăpare
+Din orice nevoi
+
+[s8]
+Fraţilor ‘nainte
+Veseli să păşim
+Cu credinţă tare
+Noi spre El pornim.
+
+[s9]
+5.Neclintiţi în Domnul
+Aici pe pământ
+Cu credinţă tare
+Până la mormânt
+
+[s10]
+Iar când vom ajunge
+Sus în slava Sa
+Cu cununi de aur
+Ne va-ncununa.
+
+[order]
+s1,s2,r1,r2,s3,s4,r1,r2,s5,s6,r1,r2,s7,s8,r1,r2,s9,s10,r1,r2

@@ -1,0 +1,52 @@
+[s1]
+Rămai mereu cu fraţii tăi
+Şi nu te duce la cel răi.
+Ai vrut iubire doar un ceas
+Şi-acum eşti fără de răgaz
+Te-ai înşelat cînd ai iubit
+Pe cel ce azi te-a părăsit.
+/: Întreabă-te măcar odat,
+În lume ce ai cîştigat ? :/
+
+[s2]
+Rămai mereu cu fraţii tăi
+Şi nu te duce la cei răi.
+În prieteni tu te-ai încrezut
+Şi te-au furat şi te-au bătut.
+Cum poţi la poarta lor să stai
+Cînd ca să intri şansă n-ai ?
+/: Întreabă-te măcar odat,
+În lume ce ai cîştigat ? :/
+
+[s3]
+Rămai mereu cu fraţii tăi
+Şi nu te duce la cei răi.
+Ai căutat să-ţi faci un rost
+Şi-acum eşti fără adăpost.
+În aur tu te-ai încrezut
+Mergînd mereu pe-un drum pierdut.
+/: Întreabă-te măcar odat,
+În lume ce ai cîştigat ? :/
+
+[s4]
+Rămai mereu cu fraţii tăi
+Şi nu te duce la cei răi
+Dincolo de acest Pămînt
+Credeai că este numai vînt
+Închipuire şi pustiu
+Nu ştiai că Isus e viu
+/: Întreabă-te măcar odat,
+În lume ce ai cîştigat ? :/
+
+[s5]
+Rămai mereu cu fraţii tăi
+Şi nu te duce la cei răi.
+Tu ai un prieten mai presus
+Ce te aşteaptă-n ceruri sus
+El moştenire-ţi va lăsa
+Întreagă-mpărăţia Sa.
+/: Pe Isus dacă-L vei urma
+Un loc în cer vei cîştiga. :/
+
+[order]
+s1,s2,s3,s4,s5

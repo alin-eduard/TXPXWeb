@@ -1,0 +1,39 @@
+[s1]
+Rămai, rămai, frate iubit
+Nu-ţi părăsi chemarea.
+/: Rămîi în dragostea dintîi
+Cu toată adunarea ! :/
+
+[s2]
+Cum poţi să uiţi iubirea Lui
+Şi-a lui Isus chemare
+/: Şi tot atîtea mîngaieri
+Cît flori de primăvară!? :/
+
+[s3]
+Sau poate dorul ţi s-a stins
+Şi tu te-ai dus, o, frate
+/: Păcatul sigur te-a învins
+El sigur te desparte. :/
+
+[s4]
+O, nu-i uita pe fraţii tăi
+Cu care-ai plîns odată
+/: Cu care-ai plîns
+şi-ai mers pe drum
+Cu faţa-nlăcrimată. :/
+
+[s5]
+Mai stai puţin, că nu e mult
+Cu plata vine Domnul
+/: Să fii şi tu mireasa Lui
+Atunci cînd vine Domnul. :/
+
+[s6]
+Rămai, rămai unde eşti pus
+În locul adunării
+/: Căci plata îţi va da Isus
+Cînd va veni El, Domnul. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

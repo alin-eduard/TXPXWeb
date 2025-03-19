@@ -1,0 +1,51 @@
+[s1]
+Ce dulce este mesajul
+pentru tin' ce treci
+Că Isus este acelaşi
+ieri şi azi şi-n veci
+El e gata să primească
+şi pe cel mai rău
+Preaslăvit în veci să fie
+Sfânt Numele Său
+
+[r1]
+Da, Isus este acelaşi
+ieri şi azi şi-n veci
+Toate pot să se înschimbe,
+El rămâne-n veci
+Slavă Domnului, Slavă numai Lui
+Toate pier, dar El rămâne,
+Slavă numai Lui!
+
+[s2]
+Cel ce l-a iertat pe Petru
+când s-a lepădat
+Şi lui Toma ca să creadă
+I s-a arătat
+M-a primi chiar şi pe mine,
+un biet păcătos,
+Căci şi azi El este-acelaşi:
+bun, sfânt şi milos
+
+[s3]
+El, care-a păşit pe ape,
+în noaptea cea grea
+Poate linişti furtuna
+şi din viaţa mea
+El, care în Gheţimani
+a plâns şi s-a rugat
+Oare nu mă va-nţelege
+când sunt întristat?
+
+[s4]
+După cum atunci
+pe cale spre Emaus
+S-a dus poate şi az
+să ne-nsoţească pân' ajungem sus
+Chiar şi-n moarte
+te ajută liniştit să treci
+Şi să vezi că El e-acelaşi
+ieri şi azi şi-n veci
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

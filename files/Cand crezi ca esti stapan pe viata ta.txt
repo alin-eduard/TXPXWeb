@@ -1,0 +1,33 @@
+[s1]
+Cînd crezi că eşti stăpîn pe viaţa ta
+Cînd crezi că nimănui nu-i eşti dator
+Şi crezi că totul e în mîna ta.
+Cînd crezi că orice-ar fi, n-ai de pierdut
+Şi crezi că nu mai poţi fi-oprit din drum
+Atunci vei pierde toţi ce ai
+Ca să-ţi deschizi ochii spre rai.
+
+[s2]
+/: Dar vino, încă nu-i tîrziu
+Isus mai plînge pentru tine sus !
+Dar vino, poarta nu s-a-nchis
+Soarele încă n-a apus ! :/
+
+[s3]
+De cîte ori ai să greşeşti
+Isus te va atinge, ochii să-i deschizi.
+De-ai să te-ntrebi de ce-i aşa
+Răspuns la Isus vei avea.
+
+[s4]
+El a murit ca tu să fii
+Copil al Tatălui din veşnicii.
+El te iubeşte şi te vrea
+S-ajungi în veci la dreapta Sa.
+Dar vino, încă nu-i tîrziu
+Isus mai plînge pentru tine sus !
+Dar vino, poarta nu s-a-nchis
+Soarele încă n-a apus !
+
+[order]
+s1,s2,s3,s4

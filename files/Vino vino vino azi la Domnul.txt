@@ -1,0 +1,26 @@
+[s1]
+Vino, vino, vino azi la Domnul,
+Fiu rătăcitor,
+Vino, vino, iată că te cheamă
+Tatăl iubitor.
+
+[r1]
+O, vino chiar acum
+Şi nu întârzia,
+În dar El îţi va da astăzi
+Mântuirea Sa!
+
+[s2]
+Vino, vino, te întoarce­acasă,
+Lasă lumea rea
+Căci acolo nu e mântuire
+Ci pierzarea ta.
+
+[s3]
+Vino, vino, Tatăl te aşteaptă
+Să te­ntorci din drum;
+Vino, vino: vrea să­ţi dea iertare,
+Vino chiar acum!
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,50 @@
+[s1]
+Pe Golgota, pe culme sus
+Atâtea flori au răsărit
+Căci al Tău sânge cald, Isus
+Pământul aspru a stropit.
+Şi pământul sterp îi rece
+Ce niciodată n-a rodit
+Belsug de pâine, pâinea vieţii
+Întregii lumi a dăruit.
+
+[s2]
+/: Iar omenirii întristate
+Ce-n întunerec se zbătea
+Isus, din ochii Săi cei limpezi
+Îi dărui lumina Sa. :/
+
+[s3]
+Dar El în schimb a suferit
+Şi sângele si l-a vărsat
+Şi toate lacrimile Sale
+Atât de multe-au picurat !
+Şi cât de mare-I fu durerea
+Când dragostea-I nemărginită
+Ce cuprindea întreaga lume
+De oameni fu nesocotită.
+
+[s4]
+/: Căci omenirea rea îi oarbă
+De dragul cărei El venise
+Respinse dragostea fierbinte
+Pe care El i-o dăruise. :/
+
+[s5]
+Dar vai, întreaga omenire
+Era pierdută în păcat
+Şi-a trebuit un miel de jertfă
+Fără de pată, ne-ntinat.
+Atuncea El de bunăvoie
+Ca să răscumpere-a primit
+Căci cine mai era ca Dânsul -
+Fără cusur, desăvârâit ?
+
+[s6]
+/: Iar eu acuma ce pot face ? -
+Decât mereu să-L preamăresc
+Să-ngenunchez în faţa crucii
+Să plâng, îi mai mult să-L iubesc.:/
+
+[order]
+s1,s2,s3,s4,s5,s6

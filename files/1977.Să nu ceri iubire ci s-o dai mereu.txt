@@ -1,0 +1,36 @@
+[s1]
+1977
+1. Să nu ceri iubire ci s-o dai mereu
+Tuturor pe cale ca şi Dumnezeu
+Căci atunci te asemeni
+Lui cu adevărat
+Când ca El în toate
+Te grăbeşti la dat.
+
+[s2]
+2. Dela alţii pace să n-aştepţi nicicând
+Ci la toţi curată dăle-o-n primul rând
+Căci acesta-i semnul naşterii de sus
+Când mireasma păci o mprăştii cu Isus.
+
+[s3]
+3. Bine de la nimeni tu să nu pretinzi
+Dar spre orşicine darul tău să-ntinzi
+Căci aşa oriunde dovedeşti frumos
+Că păşeşti pe urma
+Domnului Hristos.
+
+[s4]
+4. Către tine-n lume nimeni nu-i dator
+Dar tu ai datorie-n toate tuturor
+Căci atunci ca Domnul eşti izvor sfinţit
+Ce n-aşteaptă-n veac să fie răsplătit.
+
+[s5]
+5. Cu cât dai la alţii tot ce ai şi eşti
+Cresc în tine daruri mai dumnezeieşti
+Căci iubirea-i focul care aprins mereu
+Se măreşte veşnic ca şi Dumnezeu.
+
+[order]
+s1,s2,s3,s4,s5

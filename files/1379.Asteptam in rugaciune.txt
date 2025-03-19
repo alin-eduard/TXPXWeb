@@ -1,0 +1,33 @@
+[s1]
+1379.
+1.  Aşteptăm în rugăciune
+Roua Duhului cel Sfânt
+Doamne să ne-nvioreze
+Cât suntem pe acest pământ.
+Cor:  O ridică-ne Isuse
+Umple-ne cu Duhul Sfânt
+Untdelemnul păcii sfinte
+Toarnă-l-n vasele de lut.
+
+[s2]
+2.  Stăruind în rugăciune
+Să fim plini de Duhul Sfânt
+Să păstrăm făr’ încetare
+Sfântul nostru legământ.
+Cor:  O ridică-ne Isuse
+Umple-ne cu Duhul Sfânt
+Untdelemnul păcii sfinte
+Toarnă-l-n vasele de lut.
+
+[s3]
+3. Duhul Sfânt unde domneşte
+Biruinţe sunt mereu
+Harul din popor va creşte
+Lăudând pe Dumnezeu.
+Cor:  O ridică-ne Isuse
+Umple-ne cu Duhul Sfânt
+Untdelemnul păcii sfinte
+Toarnă-l-n vasele de lut.
+
+[order]
+s1,s2,s3

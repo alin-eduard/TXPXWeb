@@ -1,0 +1,18 @@
+[r1]
+/: Veniti sa-I cantam :/ x3
+Un Prunc noua ni s-a dat
+
+[s1]
+/: El a trimis Fiul Sau in lume
+In ieslea din Betleem
+Ne-a dat iertare si un nou nume
+Veniti cu totii sa-I cantam. :/
+
+[s2]
+/: Ce bucurie Il am pe Isus
+Ca si Stapan in viata mea
+Muri la Golgota pentru mine
+Si-apoi a inviat. :/
+
+[order]
+r1,s1,r1,s2,r1

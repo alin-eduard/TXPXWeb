@@ -1,0 +1,61 @@
+[s1]
+La al trâmbiţei răsunet
+/:Când va fi:/
+Şi când Tu cu mare slavă
+/:Vei veni:/
+862.
+
+[s2]
+Cei ce-s astăzi
+În morminte
+/:S-or scula:/
+Şi în faţa Ta, Isuse,
+/:Toţi vor sta:/
+
+[r1]
+Adă, Doamne, ziua-aceea
+/: Mai curând :/
+Ziua sfântă-a noului
+/: Aşezământ :/
+
+[s3]
+2.Ce plăcut
+Va fi atunci și
+/: Ce frumos!:/
+Când domnia va fi dată
+/: Lui Hristos :/
+
+[s4]
+El e soarele dreptăţii,
+/: El, Isus :/
+Soarele ce străluceşte
+/: Făr’ apus :/.
+
+[s5]
+3.Noaptea de
+Păcat, amară
+/:S-a sfârşi:/
+Când dreptatea lui Isus
+/:Va străluci:/
+
+[s6]
+El va şterge lacrimile
+/: Cu-n cuvânt :/
+Aducând o pace sfântă
+/: Pe pământ :/.
+
+[s7]
+4. Fi-va Doamne
+Tot cuprinsul
+/:Un Betel:/
+Va tânji orice făptură
+/:După El:/
+
+[s8]
+Toţi uniţi într-o simţire
+/: Vom servi :/
+Preamărind a Ta iubire
+/: Ţi-om sluji :/.
+
+[order]
+s1,s2,r1,s3,s4,r1,s5,s6,r1,s7,s8,r1

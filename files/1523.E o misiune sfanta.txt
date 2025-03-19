@@ -1,0 +1,53 @@
+[s1]
+1523.
+1. E o misiune sfântă
+În luptă să fii stegar
+Şi mereu să fii în frunte
+Ca lumina unui far
+/: Ca să dai avânt în luptă
+Celor slabi făr de puteri
+Întristaţilor speranţă
+Curaj celor sub poveri :/
+
+[s2]
+2. Şi în luptă cu păcatul
+Dragul meu e tot la fel
+Dacă eşti în oastea sfântă
+Lupta este unic ţel
+/: Viaţa acesta-i câmpul luptei
+Iar credinţa foc încins
+Dar în lupta aceasta frate
+Ori învingi ori eşti învins :/
+
+[s3]
+3. Dacă lupţi cu dăruire
+Prin furtuni sau prin viscol
+În vâltoarea luptei frate
+Când ţi-e steagul în pericol
+/: Vezi că-i scris pe el un nume
+Împăratul Sfânt Isus
+El te umple de putere
+Să-l ridici mereu mai sus :/
+
+[s4]
+4. Voi stegari ai oastei sfinte
+Să nu daţi nicicând napoi
+Nu cedaţi în focul luptei
+Până-n ţara de apoi
+/: Căci pe poarta larg deschisă
+Cu îngerii ce vor cânta
+În coloane nesfârşite
+Veţi intra-n cetatea Sa :/
+
+[s5]
+5. În cetatea de lumină
+Unde domneşte Hristos
+Lângă tronul cel de soare
+Veţi depune steagul jos
+/: Te vei bucura de toate
+Căci în luptă ai triumfat
+C-ai rămas credincios celui
+Ce-n luptă te-a înrolat  :/
+
+[order]
+s1,s2,s3,s4,s5

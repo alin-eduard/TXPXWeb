@@ -1,0 +1,45 @@
+[s1]
+1. Adeseori cărarea mea
+E-o cale de durere
+/: E o cale de-ncercare grea
+Dar am şi mângâieri pe ea
+Căci Domnul îmi dă putere :/
+609.       							  Fa
+
+[s2]
+2. Şi orişicât de trist aş fi
+Când simt a Lui putere
+/:Eu nu mă tem de nici un rău
+Căci ştiu că Dumnezeul meu
+Mi-alină a mea durere :/
+
+[s3]
+3.Când grijuri rele mă răpun
+Şi nu am mângâiere
+/: Necazul oare cui să-l spun
+Căci nu găsesc pe nimeni bun
+Să-mi ia a mea durere :/
+
+[s4]
+4.Atunci când toţi m-au părăsit
+Chiar prietenii pe cale
+/: Eu m-am rugat lui Dumnezeu
+Să mă ajute tot mereu
+Şi să îmi dea răbdare :/
+
+[s5]
+5.Să pot să iert şi să iubesc
+Vrăjmaşii întotdeauna
+/: Căci doar aşa voi birui
+Şi pentru tot ce-oi suferi
+Eu voi primi cununa :/
+
+[s6]
+6.Un singur prieten mi-a rămas
+Chiar la necaz un frate
+/: Eu Lui îi spun amarul meu
+Căci El e Fiu de Dumnezeu
+Şi m-a scăpat de moarte :/
+
+[order]
+s1,s2,s3,s4,s5,s6

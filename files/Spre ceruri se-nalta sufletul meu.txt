@@ -1,0 +1,20 @@
+[s1]
+Spre ceruri se-nalţă sufletul meu,
+Cu dor de-a ajunge la tronul Tău;
+Că dragostea Ta mă atrage în sus,
+Spre ţinta supremă, spre Domnul Isus.
+
+[s2]
+Din clipa în care Te-am întâlnit,
+Iubirea-Ţi divină m-a copleşit;
+În Tine-am aflat pe al meu Salvator,
+La Tine întruna, găsesc ajutor.
+
+[s3]
+Ajută-mă, Doamne, să Te vestesc,
+Cu viaţa mea-ntreagă să Te slăvesc;
+Să spun tuturora că m-ai mântuit,
+Şi numai prin Tine-am ajuns fericit.
+
+[order]
+s1,s2,s3

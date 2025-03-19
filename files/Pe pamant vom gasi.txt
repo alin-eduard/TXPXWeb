@@ -1,0 +1,29 @@
+[s1]
+Pe pământ vom găsi
+şi lacrimi şi spini
+Dar cu Domnul vom fi fericiţi,
+El e-aproape de noi
+când suntem în nevoi,
+Ne şopteşte: ”Eu n-am să vă las!”
+
+[r1]
+/: O, vino azi la Domnul nu amâna,
+Cu tine El va fi
+Şi dragostea Sa atunci o vei vedea
+Vino azi nu amâna :/
+
+[s2]
+Toţi cei păcătoşi pot să vina la El
+Căci Isus a murit şi-n locul lor.
+El bate şi acum la inima ta
+Şi aşteaptă ca tu să-i deschizi.
+
+[s3]
+În sufletul tău te întrebui ce să faci,
+Tu nu vrei să renunţi la păcat.
+Prieten drag, te îndemn:
+vino azi la Isus
+Şi vei fi ferucit în cer sus.
+
+[order]
+s1,r1,s2,r1,s3,r1

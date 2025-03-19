@@ -1,0 +1,47 @@
+[s1]
+1. Pentru ce te zbaţi
+În patimi şi-n păcat
+Vin la Isus cel răstignit şi înviat
+Să-l primeşti că El e mare
+Şi e bun cu fiecare,
+El e blând
+Şi te cheamă din pierzare
+Vin curând.
+385.
+
+[s2]
+2. De ce fugi de jertfa sfântă
+Tot mereu
+Când ea poate-a te-mpăca
+Cu Dumnezeu
+Tu nu ştii de pocăinţă
+Şi te zbaţi
+În necredinţă amăgit
+De Satana pierzătorul cel cumplit.
+
+[s3]
+3.Tu nu ştii de rugăciune Şi de post
+Si de locul adunării cel frumos
+Tu nu vezi că viaţa trece,
+Vine moartea, groapa-i rece
+Iadu’ adânc, vin la Domnul
+Suflet drag mai curând.
+
+[s4]
+4.Vino şi-ţi înalţă glasul tot mai sus
+Şi ia jugul Sfânt şi bun al lui Isus
+Fă-ţi alegerea cea bună
+Şi vei câştiga cununa negreşit
+Şi vei fi în veşnicie fericit.
+
+[s5]
+5. Toată lumea asta trece
+Cum n-a fost
+Şi se va schimba odată
+Al vieţii rost
+Fiecare îşi va lua plata
+Când va veni judecata dragul meu
+Peste toate împărăţi-va Dumnezeu.
+
+[order]
+s1,s2,s3,s4,s5

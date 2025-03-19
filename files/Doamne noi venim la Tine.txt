@@ -1,0 +1,42 @@
+[s1]
+Doamne, noi venim la Tine
+'N-orice loc si orisicand
+Si, de-aceea, asta data,
+Te-asteptam cu-acelasi gand.
+Tu esti binecuvantare
+si putere si alin;
+Te chemam sa vii la nunta,
+Caci, cu Tine, toate vin.
+
+[s2]
+Tu esti dincolo de toate,
+Tu strabati-a lumii vremi,
+De aceea, asta data,
+Cu credinta Te cerem.
+In a-Tale maini strapunse,
+Scrie-i pe acestia doi
+Si, pe calea lor, in viata,
+Da-le bucurii suvoi!
+
+[s3]
+Pretuiti aceste clipe
+si aminte sa luati:
+Orice sfat si-orice povata
+Sa primiti, sa ascultati!
+Nu uitati de juruinta
+Ce-ati facut-o lui Isus,
+Pan' la moarte sa ramaneti
+Ca un fiu smerit, supus
+
+[s4]
+Pentru drumul dinainte
+Ce va sta, necunoscut,
+Fiti intruna in veghere!
+Duhul Sfant fie-va scut!
+Ca fecioare intelepte,
+Pe Isus, sa-L asteptati
+Si, la nunta Lui din slava,
+Si voi sa va bucurati.
+
+[order]
+s1,s2,s3,s4

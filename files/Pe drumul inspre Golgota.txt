@@ -1,0 +1,30 @@
+[s1]
+Pe drumul înspre Golgota
+Ce greu Îsi duce crucea
+Isus, cu spini pe frunte îi rănit.
+Maria-n urmă-I merge
+Şi plânge cu durere
+Văzându-și fiul ei greu chinuit.
+
+[s2]
+Şi picături de sânge cad
+Brăzdată-i faţa
+E obosit, chinuit, frânt
+Dar El vorbeste blând.
+
+[s3]
+Dar drumul se sfârșește
+Călăii-L îmbrâncesc
+Şi braţele în cuie I le străpung.
+Durerea este mare
+Isus grăieâte tare :
+<Ah ! Tată, iată, totul s-a sfârsit !>
+
+[s4]
+El pentru noi jos a venit
+Să pătimească
+E obosit, chinuit, frânt
+Dar El vorbește blând.
+
+[order]
+s1,s2,s3,s4

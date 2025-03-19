@@ -1,0 +1,26 @@
+[s1]
+1. Pe calea îngustă e luptă.
+Plăceri, deșertăciuni pe ea nu-s.
+Nu-i împodobită, da-i dreaptă
+Și e bună, căci duce în sus.
+980                                                                                                                        Fa
+
+[r1]
+Ref:
+/: Drept la cer conduce,
+A lupta este bine pe ea. :/
+
+[s2]
+2. Viața-aceasta nu ține-așa mult,
+Deci n-o pierde fără folos!
+Mergi pe calea-aceasta cu avânt,
+Căci ea te duce pân' la Hristos.
+
+[s3]
+3. Chin, dureri vei afla uneori,
+Piedici multe vei întâmpina,
+Dar vei fi însoțit de Isus
+Și vei merge spre cer parcă-n zbor.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,36 @@
+[s1]
+Deşi nu ştim când,
+În ce ceas Hristos vine,
+Dar tot ştim atât
+Că sunt semne mulţime,
+Vestind pe curând
+Arătarea-n 'nălţime,
+În ce ceas, nu ştim când!
+
+[r1]
+Va veni - Privegheaţi deci în rugă,
+Va veni - Aleluia
+Aleluia, Domnul vine pe nori
+Îmbrăcat în mărire
+În ce ceas, nu ştim când!
+
+[s2]
+Lumina-a ieşit
+Şi-nţeleptu-o găseşte,
+Stătea proorocit
+Tot ce azi se vesteşte,
+Că totu-i sfârşit
+Deci ce-alegi hotărăşte
+Că nu-i timp de gândit!
+
+[s3]
+În rugă vegheaţi,
+Ţineţi candela plină,
+Şi grabnic lucraţi
+Cât mai este lumină,
+Mult n-o să-aşteptaţi,
+Căci Isus stă să vină
+Privegheaţi, vă rugaţi!
+
+[order]
+s1,r1,s2,r1,s3,r1

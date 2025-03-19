@@ -1,0 +1,27 @@
+[s1]
+Rămâi cu noi, că iată, vine seara,
+Ziua s-a dus de parcă a zburat;
+Iar fără Tine, Doamne, ce ne-am face
+Pe marea vieţii când s-a-ntunecat?
+Rămâi cu noi, rămâi cu noi,
+Da, rămâi cu noi!
+
+[s2]
+Tu, Cel ce-atunci
+pe drumul spre Emaus
+Ai tâlcuit Scriptura celor doi,
+Deschide azi a noastre inimi, Doamne,
+Şi frânge pâinea sfântă şi cu noi.
+Rămâi cu noi, rămâi cu noi,
+Da, rămâi cu noi!
+
+[s3]
+Ce bine e la inima Ta, Doamne,
+Îngrijorări dispar din faţa Ta;
+Fiind cu noi se duc dureri amare,
+Primim în schimb din mângâierea Ta.
+Rămâi cu noi, rămâi cu noi,
+Da, rămâi cu noi!
+
+[order]
+s1,s2,s3

@@ -1,0 +1,37 @@
+[s1]
+Suflete ce te gandesti
+/: Spune cand te hotarasti :/
+/: Pe Isus sa il urmezi.:/
+
+[s2]
+Isus in inima ta
+El doreste a intra
+Daca il vei refuza
+/: Sigur tu regreta :/
+
+[s3]
+Daca esti un pacatos
+Te iarta caci e milos
+Iar de ramai credincios
+/: Partea Ta va fi Hristos :/
+
+[s4]
+Isus va veni pe nor
+Ca mare judecator
+De nu-L ai aparator
+/: Vei fi condamnat sa mori. :/
+
+[s5]
+Apoi vei fi condamnat
+Pentru ca n-ai ascultat
+Da, ai sa fii condamnat
+/: Ca in seama n-ai luat :/
+
+[s6]
+Azi e timpul de trezit
+Nu e vremea de dormit
+Vino prietene iubit
+/: Sa nu mori nemantuit :/
+
+[order]
+s1,s2,s3,s4,s5,s6

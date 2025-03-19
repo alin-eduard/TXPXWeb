@@ -1,0 +1,30 @@
+[s1]
+Harul Tău mă sprijinește
+/: În cădere-adâncă :/
+Și mă-nalță iarași, Doamne
+/: Din necaz pe stâncă :/
+/: Și-mi dă iarăși bucuria
+/: Mântuirii Tale :/
+
+[s2]
+Harul Tău mă-nviorează
+/: Cu-a vieții apa :/
+Și, din orice cursă-ntinsă
+/: Pe deplin mă scapă :/
+/: Ca să pot oricând,destoinic
+/: Împlini lucrarea :/
+Unde Tu, cu bunătate
+/: Mi-ai trimis chemarea :/
+
+[s3]
+Harul Tău îmi pregătește
+/: Un prea dulce mâine
+Unde nu mai sunt înfrângeri
+/: Si nici căi străine :/
+/: Doamne, pentru harul vieții
+/: Ți-aduc închinare :/
+Căci prin el,in orice clipă
+/: Tu mă duci spre soare. :/
+
+[order]
+s1,s2,s3

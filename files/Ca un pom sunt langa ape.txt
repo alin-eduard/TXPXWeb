@@ -1,0 +1,42 @@
+[s1]
+Ca un pom sunt lângă ape,
+Salvatorul m-a sădit.
+Voi aduce mereu roade,
+Tot la timpul potrivit!
+/: Fericit e omul care
+E sădit de Dumnezeu.
+Plini de roadă fiecare
+Să-L slujim, şi tu, şi eu! :/
+
+[s2]
+El doreşte roade-ntruna
+Şi le caută ne-ncetat.
+Eşti tu verde totdeauna,
+Sau de mult te-ai şi uscat?
+/: Fericit e omul care
+E sădit de Dumnezeu
+Plini de roadă fiecare,
+Să-L slujim, şi tu, şi eu! :/
+
+[s3]
+Fapte bune cu credinţă,
+Să rodeşti neîncetat!
+Doar la pace, umilinţă
+Isus Domnul te-a chemat.
+/:Fericit e omul care
+E sădit de Dumnezeu
+Plini de roadă fiecare,
+Să-L slujim, şi tu, şi eu!:/
+
+[s4]
+Să iubeşti pe orişicine
+Cu iubirea cea dintâi!
+Astfel, pom sădit la ape
+Pentru veşnicii, rămâi!
+/:Fericit e omul care
+E sădit de Dumnezeu
+Plini de roada fiecare,
+Să-L slujim, şi tu, şi eu!:/
+
+[order]
+s1,s2,s3,s4

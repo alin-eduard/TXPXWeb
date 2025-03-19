@@ -1,0 +1,47 @@
+[s1]
+1885  Fa m
+1. De tânăr m-ai chemat
+În via Ta ca să lucrez, să fiu un slujitor
+Şi numele să-ți preamăresc
+Doresc să fiu curat
+Neîncetat să mă întreb
+Dacă viața mea , este cum vrei
+În fiecare zi , trăiesc înalte bucurii
+De când la cârma vieții
+Hristos îmi e stăpân
+doresc s-ajung acolo
+În cer unde ai promis , să stau cu îngerii
+Mereu să-ți cânt
+
+[r1]
+Cor: /:În Tine-i bucuria
+În Tine-i armonia
+Când sufletul înfrânt
+De suferință zdrobit
+În fiecare zi
+Frumoase melodii
+Vreau ca să-Ți cânt
+Vreau ca să-Ți cânt
+Jos la altar:/
+
+[s2]
+2. La Tine am scăpare
+Când valuri 'nalte mă lovesc
+În Tine-i alinarea
+Când zile negre întâlnesc
+În Tine-i bucuria
+Când în necaz mă chinuiesc
+Doar fericire în Tine eu găsesc
+
+[s3]
+3. În fiecare zi
+Trăiesc înalte bucurii
+De când la cârma vieții
+Hristos îmi e stăpân
+Doresc s-ajung acolo
+În cer unde ai promis
+Să stau cu îngerii
+Mereu să-ți cânt
+
+[order]
+s1,r1,s2,r1,s3,r1

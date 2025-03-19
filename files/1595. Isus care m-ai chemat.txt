@@ -1,0 +1,50 @@
+[s1]
+1 595
+1.Isus care m-ai chemat
+De pe drumul pierzărilor
+Tu la Tine m-ai chemat
+Ca să-ţi fiu un slujitor
+
+[s2]
+2.Şi ai zis de nu voi lăsa
+Mamă tată şi casă
+Nu voi putea ca să-ţi fiu
+Al tău un predat copil
+
+[s3]
+3.Eu toate le-am părăsit
+Şi la Tine am venit
+Eu cu Tine am făcut                    Pe pământ un legământ
+
+[s4]
+4.O ce fericire când
+Voi fi cu Mirele sfânt
+Cu haina de in curat
+Voi fi atunci îmbrăcat
+
+[s5]
+5.Şi o coroană de Împărat
+Voi purta atunci pe cap
+Atunci îl voi lăuda
+Pe Miel Şi-l voi onora
+
+[s6]
+6.De aceea El m-a dus
+Peste trei cerui mai sus
+Şi în ceruri când vom fi duşi
+Toţi la Isus vom privi
+
+[s7]
+7.În noul zis Ierusalim
+Unde numai este chin
+Nici durere nici suspin
+Cu bucurie deplin
+
+[s8]
+8.Voi vedea eu pe Avram
+Pe Moise şi pe Iacov
+Şi faţa lui Dumnezeu
+În care azi mă încred eu
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

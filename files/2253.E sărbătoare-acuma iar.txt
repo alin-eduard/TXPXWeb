@@ -1,0 +1,33 @@
+[s1]
+2253
+/:E bucurie-acuma iar,
+Ca și la-nceput.
+Munți și văi a străbătut
+Vestea:” S-a născut”.:/
+
+[s2]
+/: /:Mesia:/, ești nădejdea             			vieții noastre
+În lumea cea rea.:/
+
+[s3]
+/: 	N-avem daruri ca să-I   dăm
+Ce-ar putea primi?
+Dar în loc de daruri vrem
+veșnic a-I sluji.:/
+
+[s4]
+/:/:Mesia:/, ești nădejdea             			vieții noastre
+În lumea cea rea.:/
+
+[s5]
+/: Azi din inimă-I cântăm
+Precum îngerii.
+Mic și mare să-L lăudăm
+Din cer a venit.:/
+
+[s6]
+/: /:Mesia:/, ești nădejdea             			 vieții noastre
+În lumea cea rea.:/
+
+[order]
+s1,s2,s3,s4,s5,s6

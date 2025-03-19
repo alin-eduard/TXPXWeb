@@ -1,0 +1,27 @@
+[s1]
+Ne-om scutura ca pomii primăverii
+Ca albe flori cădea-vom la pământ
+/ : Vasul de lut purta-va ceaţa serii
+Iar sufletul va fi la cel Preasfânt
+Ne-om odihni sub razele de soare
+Ca grâu-n holde proaspăt secerat
+/ : Va putrezi ţărâna trecătoare
+Doar grâul vei păstra Părinte-nalt : /
+1232
+1.
+2.
+
+[s2]
+Căci vom zbura ca păsările toamna
+Şi frunzele cădea-vor pe cărări
+/ : Trup ostenit uita-vei ce e teama
+Când sufletul pleca-va spre alte zări
+Şi vom dormi ca grâul sub zăpadă
+Ne-om linişti de tot ce-am suferit
+/ : Nădejdea noastră e desăvârşită
+Vom învia ca primii ghiocei : /
+3.
+4.
+
+[order]
+s1,s2

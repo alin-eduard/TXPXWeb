@@ -1,0 +1,26 @@
+[s1]
+Isus, esti prietenul meu
+Tata, prin har sunt al Tau
+Duh Sfant, Tu ma indrumi mereu
+Isus, prin tot ce-ai creat
+Tie lauda Ti-aduc ne-ncetat
+Spre Tine gandu-mi indrept
+Te laud
+
+[r1]
+/: Tot cerul declara:”Esti Domn”
+Chiar muntii Te-adora
+Si marea canta:”Aleluia”
+Iti cantam Tie-n cor
+Acest cant al dragostei :/
+
+[s2]
+Isus, de necomparat
+Imi esti prieten Sfant, Minunat
+Ma-nchin azi si-Ti multumesc mereu
+Isus, esti dragostea mea
+Tata, esti minunat
+Toate Iti lauda Tie-n cor.
+
+[order]
+s1,r1,s2,r1

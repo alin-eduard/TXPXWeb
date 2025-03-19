@@ -1,0 +1,32 @@
+[s1]
+O, ce dulce nume
+Este numele Isus Hristos!
+Pace, bucurie­aduce
+Sufletului credincios.
+
+[r1]
+Ce frumos, ce frumos
+Despre El să cânţi voios,
+Ce frumos, ce frumos
+E să­L lauzi pe Hristos!
+
+[s2]
+Ce iubit şi dulce nume:
+El ne face fericiţi,
+Cei ce L­au primit Îi cântă
+Bucuroşi că­s mântuiţi!
+
+[s3]
+Cu Isus şi-­n al Său nume
+Noi să mergem zi de zi,
+Doar aşa în lupta vieţii
+Pe cel rău vom birui.
+
+[s4]
+Vă plecaţi în al Său nume,
+La picioare­I vă­nchinaţi
+Până când în cer cu sfinţii
+Vom cânta încoronaţi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

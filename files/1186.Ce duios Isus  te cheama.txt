@@ -1,0 +1,46 @@
+[s1]
+1. Ce duios Isus te cheamă
+Călător ce-n lume treci
+/:De atâţi ani te-aşteaptă
+Să-I deschizi a vieţii poartă
+Ca să nu te pierzi pe veci.:/
+1186	    							        Sol
+
+[s2]
+/: Vino azi:/ nu-ntârzia
+Dacă-ţi plângi viaţa ta
+Dumnezeu te va ierta
+Fericire îţi va da
+Viaţă-n veci tu vei avea.
+
+[s3]
+2.Cât de greu îţi va fi plânsul
+Când vei auzi cu-amar
+/:  A fost har şi pentru tine
+Dar n-ai vrut ţi-a fost ruşine
+Şi-ai respins măreţul har. :/
+
+[r1]
+Vino azi nu-ntârzia
+Dacă-ţi plângi viaţa ta
+Dumnezeu te va ierta
+Fericire îţi va da
+Viaţă-n veci tu vei avea.
+
+[s4]
+3. Azi e vremea ta, amice
+Mâine alţii vor veni
+/:N-amâna în pragul nopţii
+Vei dori în ceasul morţii
+Dar atunci va fi târziu. :/
+
+[s5]
+4.Dar de-L vei primi
+Chiar astăzi
+Vei fi fericit mereu
+/:Vei pleca la Domnu-acasă,
+Sus în ţara glorioasă,
+La tronul lui Dumnezeu. :/
+
+[order]
+s1,s2,s3,r1,s4,r1,s5,r1

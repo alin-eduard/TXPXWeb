@@ -1,0 +1,51 @@
+[s1]
+1886     Re m
+1. Nu e nici un om în lume fără de păcat
+Numai Unul care a venit și ne-a salvat
+Pentru noi Acesta va rămâne ca model
+Să ne-ncredem și să mergem
+Zilnic după El
+
+[r1]
+Cor: /:Caut un om:/
+A strigat un glas ceresc de sus
+/:Caut un om:/
+Și s-a prezentat Domnul Isus.
+
+[s2]
+2. E nevoie ca să stea acolo în spărturi
+Cu viața și a Lui cerești învățături
+Să refacă zidurile ce s-au dărâmat
+Și să izbăvească
+Lumea-ntreagă din păcat.
+
+[s3]
+3. Numai una dintre
+Câte stele-au strălucit
+Despre Omul mântuirii a vorbit
+Uite-acolo în grădină
+Uite-L la Pilat
+Care spune:
+,,Iată Omul cel nevinovat!”
+
+[s4]
+4. Spune frate dacă nu L-ai întâlnit
+Pe Acela care de la Tatăl a venit
+El de multă vreme caută oameni întristați
+Ca să fie pentru veci ai Lui răscumpărați.
+
+[s5]
+5. Dar din ziua când
+Şi noi am fost răscumpărați
+Tatăl nostru caută oamenii adevărați
+Ca să steie în spărtura zidului stricat
+Să ridice pe aceia ce cad în păcat.
+
+[s6]
+6. Fiul Omului în lume va veni
+După toți aceia care Lui îi vor sluji
+După toți aceia care Domnul le-a zidit
+Zidurile și cu Duhul Lui i-a înnoit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

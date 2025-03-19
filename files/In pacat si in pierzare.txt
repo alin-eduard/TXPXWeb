@@ -1,0 +1,45 @@
+[s1]
+In pacat si in pierzare
+Multi traiesc pe-acest pamant
+Multi nu stiu de dragostea
+ce ni s-a dat.
+Intr-o lume-ntunecata,
+Ce traieste in pacat
+Isus e raspunsul lumii, singur El
+
+[s2]
+Numele Lui e un raspuns,
+Un început si un sfarsit
+El este drumul
+si-ntelepciunea lui Dumnezeu
+Puterea Lui lumina e
+Precum si marea-I dragoste
+E Adevar, e un raspuns Isus Hristos
+
+[s3]
+Într-o lume-mpovarata
+Cu probleme si necaz
+Într-o lume cu caderi si-amenintari
+El este nădejdea noastra,
+Pace doar la El gasim
+Mângâierea și salvarea noastră e!
+
+[r1]
+Numele Lui e un raspuns,
+Un inceput si un sfarsit
+El este drumul
+si-ntelepciunea lui Dumnezeu
+Puterea Lui lumina e
+Precum si marea-I dragoste
+E Adevar, e un raspuns Isus Hristos
+
+[s4]
+Dragostea si-ntelepcunea
+Dumnezeu n-a aratat
+Prin Isus s-avem viata vesnica.
+I s-a dat toata puterea sus in cer
+Si pe pamant
+El e singurul raspuns al lumii-ntregi
+
+[order]
+s1,s2,s3,r1,s4,r1

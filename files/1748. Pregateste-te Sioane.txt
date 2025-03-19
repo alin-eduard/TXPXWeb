@@ -1,0 +1,43 @@
+[s1]
+1748.
+1. Pregăteşte-te Sioane
+Pe Domnul a-L întâlni
+Mai este puţin din noapte
+Şi din nou va reveni
+Va reveni să ia cu Sine
+Mireasa ce s-a pregătit
+/:Te-ntreabă azi iubit creştine
+Dacă eşti gata pregătit:/
+
+[s2]
+2. Te îmbracă-n armătura
+Duhului Sfânt cel ceresc
+Ca să poţi primi arvuna
+Moştenirii cea de veci
+Priveşte sus rămâi statornic
+În ceea ce ţi-a-ncredinţat
+/:Te luptă ca să fii un sfeşnic
+Al Dumnezeului prea-nalt:/
+
+[s3]
+3. Priveşte-n spre răsplătire
+Spre cununa ce-n curând
+Va fi pusă pe-a ta frunte
+Chiar de Dumnezeul sfânt
+Mai rabdă-o clipă şi fii tare
+Cu crucea ta te du în sus
+/:Fii plin acum de-ncredinţare
+Căci te aşteaptă-al tău Isus:/
+
+[s4]
+4. Ia-ţi ulei-n a ta candelă
+Vasul tău să fie plin
+Ca să-L poti vedea pe Domnul
+Sus pe marea de rubin
+Să stai pe tronul cel de aur
+În raiul sfânt împodobit
+/:Pentru că ai fost un tezaur
+Şi-a Lui cuvânt l-ai împlinit:/
+
+[order]
+s1,s2,s3,s4

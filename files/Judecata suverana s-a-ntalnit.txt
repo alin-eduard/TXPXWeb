@@ -1,0 +1,39 @@
+[s1]
+Judecata suverană s-a-ntâlnit
+Cu iubirea dragostei far’ de sfirşit
+Pe o cruce într-o jertfă de Sfânt Miel
+Să pot alege-al meu destin pentru etern.
+
+[s2]
+/: Ai ales piroane şi spini
+Să mori pe cruce-n durere şi chin
+Să pot alege şi eu acum
+Între cer şi iad :/
+
+[s3]
+Omule eşti liber cui vrei să-I slujeşti
+Păcatului şi celui rău sau să primeşti
+Pe Isus şi viaţa veşnica în dar
+Dragostea lui Dumnezeu far’ de hotar.
+
+[r1]
+/:Ai ales piroane şi spini
+Să mori pe cruce în durere şi chin
+Să pot alege şi eu acum
+Între cer şi iad:/
+
+[s4]
+Decât să trăieşti fără Mine
+În cerul Tău minunat
+Ai ales să mori pentru mine
+Dar a treia zi, ai înviat
+Ai înviat, ai înviat.
+
+[s5]
+Hai alege chiar acum
+cerul Său minunat
+Da alege chiar acum
+cerul Său minunat.
+
+[order]
+s1,s2,s3,r1,s4,r1,s5

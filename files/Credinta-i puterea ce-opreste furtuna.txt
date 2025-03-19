@@ -1,0 +1,64 @@
+[r1]
+Credinţa-i puterea ce-opreşte furtuna
+Şi valul şi norii şi vântul grozav;
+Credinţa-i puterea ce vindec-acuma
+Pe-acela ce este Oricât de bolnav.
+
+[s1]
+Poate ai in casa ta,
+Grav bolnav pe cineva;
+Tu crede cu-adevărat,
+Că el va fi vindecat!
+Ia-l exemplu pe sutaş!
+Mai pe jos, să nu te laşi!
+Crede şi nu te-ndoi,
+Oricât de bolnav ar fi!
+
+[s2]
+Poate şi tu ai un fiu,
+O fiică sau un tătic;
+Acasă sau în spital,
+Sau bolnav spiritual.
+Roagă-te şi pentru el,
+Ca şi sutaşul la fel,
+Chiar dacă-i pe moarte dus,
+Îl va vindeca Isus!
+
+[s3]
+Prin credinţă, eşti iertat,
+De al tău cumplit păcat.
+Eşti iertat şi mântuit
+Şi în cer vei fi primit.
+Prin credinţă, vei trăi,
+Cerul îl vei moşteni,
+Paradisul plin cu flori,
+Raiul cel fără de nori.
+
+[s4]
+Ca sutaşul ne'ncetat
+Tu să te vezi vinovat,
+Starea să ţi-o recunoşti!
+La Isus, să vii cum eşti!
+Spune-I Lui tot ce doreşti!...
+De păcat să te fereşti,
+Căci Isus te va primi,
+Credincios dacă vei fi.
+
+[s5]
+Credinţa-i puterea ce-opreşte furtuna
+Şi valul şi norii şi vântul grozav;
+Credinţa-i puterea ce vindec-acuma
+Pe-acela ce este oricât de bolnav.
+
+[s6]
+Spune-I Lui necazul tău,
+Fiului lui Dumnezeu!
+Să-l aduci sarcina ta
+Şi El te va uşura.
+Isus te va vindeca,
+Rana ta o va lega,
+Căci Isus, în veci, va fi:
+Ieri şi azi şi-n veşnicii!
+
+[order]
+r1,s1,r1,s2,r1,s3,r1,s4,s5,s6,r1

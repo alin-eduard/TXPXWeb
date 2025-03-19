@@ -1,0 +1,44 @@
+[s1]
+Cu spini pe fruntea Sa
+Ţintuit pe-o cruce
+Plângea pentru lume,
+Plângea pentru tine.
+El s-a jertfit, ca tu să-nţelegi.
+Cum poţi să spui ,,NU”
+Acestui Domn minunat?
+
+[r1]
+/: Cum poţi să priveşti,
+În ochii Lui înlăcrimaţi,
+Ştind că El la tine se gândeşte?
+Poţi să spui că nu eşti gata,
+Să Îl laşi în viaţa ta?
+Poţi să spui că n-ai nevoie
+De dragostea Sa? :/
+
+[s2]
+Dacă Cristos ar sta acum, aici
+Cu faţa plină de glorie,
+Şi ochii plini de lacrimi?
+Cu braţele întinse
+Şi mâinile străpunse
+Cum poţi să spui ,,NU”
+Acestui Domn minunat?
+
+[s3]
+Isus e aici cu braţe larg deschise
+Cum poţi să-L respingi,
+Când e chiar lângă tine?
+E decizia ta,
+El a făcut tot ce-a promis
+Cum poţi să spui ,,NU”
+Acestui Domn minunat?
+
+[s4]
+Cu spini pe fruntea Lui
+Viaţa ta în mâna Sa
+Mai poţi tu oare să spui ,,NU”
+Acestui Domn?
+
+[order]
+s1,r1,s2,r1,s3,r1,s4

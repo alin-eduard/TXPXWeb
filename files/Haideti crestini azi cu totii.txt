@@ -1,0 +1,61 @@
+[s1]
+Haideti crestini azi cu toti
+În jur să privim
+Care e timpul şi locul
+În care trăim.
+Orisiunde privim,
+Azi întâlnim semne vii,
+Toate ne spun că Isus va veni.
+
+[s2]
+/: Milioane de oameni
+asteaptă să vină Isus
+Acel ce prin cruce,
+în lume, viata-a adus
+Ca şi un rege cu slavă
+pe nori va veni
+Cum ne-a promis,
+Isus din nou va veni. :/
+
+[s3]
+Astăzi, în ţări cari deloc
+Nu vorbeau de Isus,
+Pe străzi, în parcuri, în şcoli
+Credinţa a ajuns.
+Suntem acum în preajma
+Venirii Lui,
+Toate ne spun că
+Din nou va veni.
+
+[s4]
+/: Milioane de oameni
+aşteaptă să vină Isus
+Acel ce prin cruce,
+în lume, viaţa-a adus
+Ca şi un rege cu slavă
+pe nori va veni
+Cum ne-a promis,
+Isus din nou va veni. :/
+
+[s5]
+Chiar şi păcatul în lume
+La culme-a ajuns,
+Cei depravaţi în locuri
+De frunte-au pătruns.
+Ca pe vremea lui Lot,
+Pământu-i robit de cel rău,
+E-aproape să vină pe nori
+Al nost’ Dumnezeu.
+
+[s6]
+/: Milioane de oameni
+asteaptă să vină Isus
+Acel ce prin cruce,
+în lume, viata-a adus
+Ca si un rege cu
+slavă pe nori va veni
+Cum ne-a promis,
+Isus din nou va veni. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

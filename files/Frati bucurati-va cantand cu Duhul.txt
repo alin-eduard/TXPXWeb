@@ -1,0 +1,20 @@
+[s1]
+Fraţi, bucuraţi-vă cântând cu Duhul,
+Mărire, cinste, să-I daţi lui Hristos!
+/: El pe noi, toţi, din păcat ne-a mântuit
+Şi din noapte-ntunecoasă ne-a scos:/
+
+[s2]
+Iubirea Lui sfântă, mântuitoare,
+Ne-a dat El nouă aici, pe pământ,
+/: Şi ne conduce-n orice împrejurare
+Şi va fi cu noi, până la mormânt. :/
+
+[s3]
+Prin pocăinţă şi viaţă sfântă,
+În pace veşnică noi vom fi duşi;
+/: Domnul ne dă viaţă fericită
+Şi-n raiul cel sfânt, noi toţi vom fi puşi. :/
+
+[order]
+s1,s2,s3

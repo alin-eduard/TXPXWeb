@@ -1,0 +1,35 @@
+[s1]
+De dragul meu Isus a venit
+In locul meu El a murit
+Sa ia pacatul lumii
+/:Sa-L duca la calvar
+/:Ce mare har:/
+
+[s2]
+/:Golgota:/ Loc de chin si suferinta
+/:Golgota:/ Acolo a fost biruinta
+
+[s3]
+De dragul tau Isus S-a jertfit
+Pentru tine ceru-a parasit
+/:Sa-Ti dea in dar
+iertare si viata vesnica
+Ce mare har:/
+
+[s4]
+/:Golgota:/ Loc de chin si suferinta
+/:Golgota:/ Acolo a fost biruinta:/
+
+[s5]
+Povoara omenirii Hristos a purtat
+Din palme a curs sangele nevinovat
+Hristos a murit a fost crucificat
+Dar a treia zi a inviat
+
+[s6]
+/:Golgota:/ Loc de chin si suferinta
+/:Golgota:/ Acolo a fost biruinta:/
+Acolo a fost biruinta
+
+[order]
+s1,s2,s3,s4,s5,s6

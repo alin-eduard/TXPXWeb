@@ -1,0 +1,14 @@
+[s1]
+/: Râul cel Sfânt :/
+Curge lin peste pământ
+Râul cel Sfânt, râu Divin
+
+[s2]
+Peste munti înalti
+Si prin văi adânci
+Peste oceane mări
+Al trezirii val duce către mal
+Natiuni întregi
+
+[order]
+s1,s2

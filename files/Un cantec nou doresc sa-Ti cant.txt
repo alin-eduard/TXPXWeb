@@ -1,0 +1,16 @@
+[s1]
+Un cântec nou doresc să-Ţi cânt
+De iubire, Domnul meu
+Să-Ţi mulţumesc de ce-ai făcut
+Dându-mi viaţă şi iertare.
+
+[s2]
+Sunt fericit că acum sunt al Tău
+Şi nicăieri n-aş vrea să fiu
+Decât la pieptul Tău
+Doar la pieptul  Tău
+Ţine-mă strâns, să nu mai plec
+De la pieptul Tău
+
+[order]
+s1,s2

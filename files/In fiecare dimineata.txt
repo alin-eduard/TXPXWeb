@@ -1,0 +1,34 @@
+[s1]
+/: În fiecare dimineaţă, :/
+Când este cerul luminos,
+/: Mi-e inima de cântec plină :/
+Şi-s fericit că sunt al lui Hristos...
+Mi major
+
+[r1]
+/: Şi-s fericit, :/
+Şi-s fericit că sunt al lui Hristos...
+
+[s2]
+/: În fiecare zi senină, :/
+Când mii de flori aduc prinos,
+/: Mi-e inima de cântec plină :/
+Şi-s fericit că sunt al lui Hristos...
+
+[s3]
+/: În fiecare clipă sfântă, :/
+Când bate vântul mângâios,
+/: Întregu-mi dor spre zări
+se-avântă :/
+Şi-s fericit că sunt al lui Hristos...
+
+[s4]
+/:Chiar dacă anii vieţii zboară :/
+Şi cer senin de-a pururi nu-i,
+/: La Domnul meu
+e-o primăvară :/
+Când, fericit,
+voi fi pe veci al Lui...
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

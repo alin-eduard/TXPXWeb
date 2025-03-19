@@ -1,0 +1,32 @@
+[s1]
+Priveşte sus la cruce,
+priveşte la Isus
+/: Să-L vezi cum El îşi duce
+păcatul tău supus :/
+
+[s2]
+A Sa iubire mare,
+Îl face neclintit
+/: Pe cruce când El moare,
+de toţi fiind părăsit :/
+
+[s3]
+Priveliştea-i grozavă
+să-L vezi pe Domnul tău
+/: Cum dezbrăcat de slavă
+El moare-n locul tău :/
+
+[s4]
+A ta nelegiuire
+L-a dus acolo sus
+/: Să-ţi dea azi mântuirea
+doar El poate Isus :/
+
+[s5]
+O, vino cu căinţă
+la tronul Său de har
+/: Primeşte cu credinţă
+iertarea Lui în dar :/
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,26 @@
+[s1]
+Cu Tine vreau sa fiu in lume-aceasta
+In necaz sau bucurii
+Cu Tine doar cu Tine Domnul meu
+Si aici si-n vesnicii
+
+[r1]
+/:Nu ma-nspaimanta incercari amare
+Nici valurile care ma lovesc
+Eu stau cu ochii indreptati in zare
+si vreau sa-Ti spun Isus ca Te iubesc:/
+
+[s2]
+In Tine ma incred Isuse Doamne
+Tu-mi esti pavaza mereu
+Doar cu Tine voi putea invinge
+Ispitele oricat ar fi de greu
+
+[s3]
+Nu vreau sa ma despart nicicand de Tine
+Sa fim uniti pan’ la sfarsit
+Sperante noi se nasc mereu in mine
+Cand Te am Isus iubit
+
+[order]
+s1,r1,s2,r1,s3,r1

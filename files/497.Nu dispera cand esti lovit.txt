@@ -1,0 +1,52 @@
+[s1]
+1.	Nu dispera când eşti lovit
+Şi mergi plângând pe cale
+Ţi-e sufletul îndurerat
+Şi verşi lacrimi amare
+497.
+
+[s2]
+/: Nu dispera o frate drag
+Oricât de mare-i greul
+Dispreţuit şi părăsit
+Ca tine-a fost şi Domnul:/
+
+[s3]
+2.De-ţi este drumu-anevoios
+Mergi frate mergi ’nainte
+Hristos ţi-e pavăză şi scut
+Păstor, preabun Părinte
+
+[s4]
+/: E mângâiere-n ceasul greu
+Ţi-e turnul de scăpare
+Încrede-te căci Dumnezeu
+Îţi trimite Salvare :/.
+
+[s5]
+3.	Mai e puţin s-a termina
+Necazul şi-ncercarea
+Când Domnul vieţii va veni
+Vom sfârşi alergarea
+
+[s6]
+/: Dureri şi lacrimi n-or mai fi
+Nici plâns nici tânguire
+Vor fi eterne fericiri
+Cu Domnul în mărire :/.
+
+[s7]
+De semeni lacrimi
+Pe-al tău drum
+Vei strânge bucurie
+Cununa îţi va străluci
+În semn de răsplătire
+
+[s8]
+/: Ce bucurii atunci vor fi
+Când vom atinge ţelul
+La nunta cea din veşnicii
+Cu Mirele cu Domnul :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

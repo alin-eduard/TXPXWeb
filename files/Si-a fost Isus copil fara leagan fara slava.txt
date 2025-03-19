@@ -1,0 +1,48 @@
+[s1]
+Si-a fost Isus copil,
+fără leagan, fără slavă
+Şi-n fiinţa Lui firavă,
+au pătruns fiori de ger
+Şi-a fost Isus copil,
+ca să aibă toţi copii
+Ca să aibă toţi copii Tată-n cer.
+
+[s2]
+Şi-a fost Isus sărac,
+se uitau cu milă bacii
+Cum i-ardeau pe faţă macii,
+cel mai trist dintre copii
+Şi-a fost Isus sărac
+ca să aibă toţii săracii
+Ca să aiba toţi săracii bogăţii.
+
+[s3]
+Şi-a fost Isus flămând,
+şi plângea din albul pânzii
+Cum plâng mieii-n zori
+plăpânzii cu-a lor ochi inrouraţi
+Şi-a fost Isus flămând
+ca să fie toţi flămânzii
+Ca să fie toţi flămânzii săturaţi.
+
+[s4]
+Şi-a fost Isus un miel,
+ce-l pândeau afară leii
+Şi în culmile iudeii
+şi-n pustiul arzător
+Şi-a fost Isus un Miel Isus,
+ca să aiba-n El toţi mieii
+Ca să aibă-n El toţi mieii un Păstor.
+
+[s5]
+Şi-a fost un rob Isus
+sus slujind împărăţia
+Jos lui Iosif şi Maria,
+lumii-ntregi s-a dat răpus
+Şi-a fost Fiu şi rob supus
+ca s-avem şi noi robia
+Ca s-avem şi noi robia
+şi-nfierea Lui Isus.
+
+[order]
+s1,s2,s3,s4,s5

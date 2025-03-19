@@ -1,0 +1,26 @@
+[s1]
+Bunătatea e cununa
+celui drept şi credincios,
+Ce păstrează-n el statornic
+frumuseţea lui Hristos!
+
+[r1]
+Bunătatea, bunătatea,
+roada Duhului Presfânt,
+Doamne, creşte-ne-o deplină
+în trăire şi-n cuvânt!
+
+[s2]
+Bunătatea-i ca lumina
+ce se dăruie deplin,
+Orişicând, la orşicine,
+la al tău şi la străin!
+
+[s3]
+Dumnezeul bunătăţii,
+fă-ne ca să-Ti semănăm,
+Să fim necurmat ca Tine:
+bunătatea s-o-nălţăm!
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,18 @@
+[s1]
+În faţa tronului de milă
+Se-adună spre-a Te lăuda
+A Ta biserică umilă
+Dă-i binecuvântarea Ta.
+Tu eşti adevărata pâine
+Din care viaţa ne-o hrănim
+Veşnic în viaţă vom rămâne
+Cu Tine de ne-mpărtăşim.
+
+[s2]
+Da, fericiţi vom fi-mpreună
+Când trâmbiţa va răsuna
+Primind a vieţii cunună
+Te vom slăvi, Te vom lăuda.
+
+[order]
+s1,s2

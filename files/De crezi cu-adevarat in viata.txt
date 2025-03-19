@@ -1,0 +1,32 @@
+[s1]
+De crezi cu-adevărat în viaţa
+Pe veci promisă de Hristos
+De ai cu-adevărat în faţă
+Un viitor pe veci frumos
+/: Atunci dă-ţi timpul şi iubirea
+Privind spre moarte ca spre-un steag
+Şi-mbrăţişează-ţi pătimirea
+Cum ţi-l săruţi pe cel mai drag. :/
+
+[s2]
+De crezi cu-adevărat în plata
+Ce se găseşte la Isus
+De crezi că-n ceruri te aşteaptă
+Ce nu-i pe lume grai de spus
+/: Atunci primeşte-orice sudalmă
+Cum ai primi un mir plăcut
+Şi-ntinde-ţi faţa către palme
+Cum ai întinde-o spre-un sărut. :/
+
+[s3]
+De crezi cu-adevărat Cuvîntul
+Lui Dumnezeu netrecător
+Atunci jertfeşte-te purtîndu-L
+Înflăcărat şi-ncrezător.
+/: Atunci ocările duşmane
+Primeşte-le-n al slavei schimb
+Şi-nalţă-ţi fruntea către rane
+Cum ai nălţa-o către-un nimb. :/
+
+[order]
+s1,s2,s3

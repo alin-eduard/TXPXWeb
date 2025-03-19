@@ -1,0 +1,24 @@
+[s1]
+La Golgota, Tu ai murit
+Şi m-ai iubit, Isus, pe mine
+La Golgota, Tu Te-ai jertfit
+Ca eu să pot fi mântuit.
+
+[r1]
+/: La Golgota a curs mult sânge
+Pentru păcatul meu şi-al tău
+La Golgota, Isus se stinge
+Ca să poţi fi şi tu salvat
+Golgota, loc de chin
+De salvare pentru mine
+Golgota, loc de vis
+De iertare pentru mine :/
+
+[s2]
+La Golgota, Isus s-a dat
+Pentru al meu şi-al tău păcat
+La Golgota, El s-a jertfit
+Ca noi să fim, azi fericiţi.
+
+[order]
+s1,r1,s2,r1

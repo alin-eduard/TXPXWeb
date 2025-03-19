@@ -1,0 +1,20 @@
+[r1]
+Glorie, Glorie, Aleluia
+Domnul Isus m-a salvat!
+Glorie, Glorie, Aleluia
+Sunt prin El răscumpărat!
+
+[s1]
+Eu am pace, multă pace
+De când Isus m-a salvat.
+Eu am pace, multă pace
+Sunt prin El răscumpărat
+
+[s2]
+Am nădejde şi bucurie
+De când Isus m-a salvat
+Am nădejde şi bucurie
+Sunt prin El răscumpărat.
+
+[order]
+r1,s1,r1,s2,r1

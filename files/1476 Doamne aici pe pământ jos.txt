@@ -1,0 +1,35 @@
+[s1]
+1476.
+Doamne aici pe pământ jos
+Ai trăit şi Tu Hristos
+Ai fost şi Tu om ca mine
+Lumea Te-a urât Stăpâne
+Cor:    Tu eşti uşa prin Tine vom intra
+Tu eşti Păstor al nostru al tuturor
+
+[s2]
+Când voi ajunge la Tine
+Acolo ştiu că e bine
+Voi uita de suferinţă
+Împlineşte a mea dorinţă
+Cor:    Tu eşti uşa prin Tine vom intra
+Tu eşti Păstor al nostru al tuturor
+
+[s3]
+3.  Vreau s-ajung la Tine-n cer
+Unde lacrimile pier
+Acolo e a mea dorinţă
+Unde nu e suferinţă
+Cor:    Tu eşti uşa prin Tine vom intra
+Tu eşti Păstor al nostru al tuturor
+
+[s4]
+4.  Vreau să fiu cu Tine odată
+În iubire adevărată
+Şi să fiu iubit nespus
+Mângâiat chiar de Isus
+Cor:    Tu eşti uşa prin Tine vom intra
+Tu eşti Păstor al nostru al tuturor
+
+[order]
+s1,s2,s3,s4

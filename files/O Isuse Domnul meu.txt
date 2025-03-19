@@ -1,0 +1,42 @@
+[s1]
+O, Isuse, Domnul meu,
+Ai murit în locul meu;
+Pentru mine-un păcătos,
+Ai murit Hristos;
+Ai băut paharul plin
+Cu păcate şi venin,
+Ca să mori, în locul meu,
+Fiu de Dumnezeu...
+
+[r1]
+Cum să-Ţi răsplătesc?
+Ce să-Ţi dăruiesc,
+Isus, Domnul meu,
+Pentru harul Tău?
+Viaţa mea Îţi dau,
+Ţie mă predau,
+Căci m-ai mântuit...
+Fii, în veci, slăvit!
+
+[s2]
+Drumul crucii n-a fost greu
+Când căzut-ai, Domnul meu,
+Cum a fost şi mult mai greu
+Tot păcatul meu...
+Răni pe frunte n-ai avut,
+De la spinii ce i-au dus,
+Rănile făcut-am eu,
+cu păcatul meu...
+
+[s3]
+Iartă-mă, primeşte-mă
+Şi, în sânge, spală-mă!...
+Vreau să fiu curat deplin,
+Domnul meu divin;
+Jertfa Ta să o slăvesc
+Prin viaţa ce-o trăiesc.
+Veşnic, Doamne, Te iubesc,
+Domnul meu ceresc!
+
+[order]
+s1,r1,s2,r1,s3,r1

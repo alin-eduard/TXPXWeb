@@ -1,0 +1,13 @@
+[s1]
+Bunătăţile Domnului
+Nu se sfârşesc, niciodată!
+Îndurările Lui
+Nu sunt la capăt, niciodată!
+Ci-n fiecare dimineaţă se-nnoiesc!
+
+[s2]
+/: Mare este credincioşia Ta :/
+Mare este credincioşia Ta!
+
+[order]
+s1,s2

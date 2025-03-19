@@ -1,0 +1,39 @@
+[s1]
+2182.
+1. Dacă iubirea lui Hristos
+Nu frânge ura-n tine
+/: La ce folos :/
+Trăirea ta-i rușine.
+
+[s2]
+2. Dacă blândețea lui Hristos
+Nu-ți biruie asprimea
+/: La ce folos :/
+Te va urâ mulțimea.
+
+[s3]
+3. Dacă jertfirea lui Hristos
+Zgârcenia nu-ți frânge
+/: La ce folos :/
+Te lasă cel ce plânge.
+
+[s4]
+4. Dacă-nfrângerea lui Hristos
+Nu-nvinge pofta-n tine
+/: La ce folos :/
+Să mori ar fi mai bine.
+
+[s5]
+5. Dacă încrederea-n Hristos
+De frică nu te scapă
+/: La ce folos :/
+Curând ajungi la groapă.
+
+[s6]
+6.  Dar dacă-n harul lui Hristos
+Le-nvingi pe-aceste toate
+/: O, ce folos :/
+Ești soare pentru toate.
+
+[order]
+s1,s2,s3,s4,s5,s6

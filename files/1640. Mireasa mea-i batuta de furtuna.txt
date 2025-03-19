@@ -1,0 +1,77 @@
+[s1]
+1640.
+Cor:/: Mireasa Mea-i bătută
+De furtună
+Nemângâiat-o, vino, vino! :/
+Câteva clipe Te-am părăsit
+Să-ți văd a ta credinţă
+Dar te-ai clătinat...
+
+[s2]
+1. Ai început să bâjbâi
+Prin negrul întuneric
+Ai început să murmuri
+În suferinţa grea
+Ziceai că s-a dus totul
+Nimic nu-i pentru tine
+Iar crucea ce ţi-am dat-o
+Îţi pare-atât de grea.
+
+[r1]
+Cor: /: Mireasa Mea-i bătută
+De furtună
+Nemângâiat-o, vino, vino! :/
+Câteva clipe te-am părăsit
+Să-ţi văd a ta credinţă
+Dar te-ai clătinat...
+
+[s3]
+2. Uitat-ai de nădejdea
+Şi ce spune Cuvântul
+Uitat-ai tu de toate
+Până şi legământul
+Ai început să murmuri
+Să mergi strâmb pe cărare
+Uitând făgăduinţa
+Cereasca îndurare.
+
+[s4]
+3. Uitat-ai ce-a zis Domnul,
+Că-n noaptea cea amară,
+Ca fulgerul pe ceruri,
+Isus o să apară.
+Descurajarea-i mare.
+La ceruri a ajuns,
+Cu lacrime la Tatăl
+Mijloceşte Isus.
+
+[s5]
+4. Vezi Tată, vezi copii
+Ce mi i-ai dat din lume!
+În valurile grele
+Loviţi sunt de durere!
+Azi masa este gata,
+Odaia-i pregătită,
+Mă duc. Mă duc, o, Tată,
+Ca să-i aduc la nuntă!
+
+[s6]
+5. Acolo vei mânca
+Din fructe hrănitoare.
+Vei bea din apa vieţii
+Ce e răcoritoare.
+Acolo eşti scutită
+De vânturi, vijelie,
+“Amin” mireasa strigă,
+“Amin”, Isuse Ţie!
+
+[s7]
+Cor: /: Mireasa Mea-i bătută
+De furtună
+Nemângâiat-o, vino, vino! :/
+Câteva clipe te-am părăsit
+Să-ţi văd a ta credinţă
+Dar te-ai clătinat…
+
+[order]
+s1,s2,r1,s3,r1,s4,r1,s5,r1,s6,s7

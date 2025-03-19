@@ -1,0 +1,36 @@
+[s1]
+Minunat este Dumnezeu,
+Minunat, minunat,
+În iubirea Sa, în dreptatea Sa
+si în jertfa Sa
+Dumnezeu este minunat!
+
+[r1]
+În tot ce ne-a dat e El arătat
+În slavă-mbrăcat, Etern Împărat.
+Dumnezeu, Dumnezeu minunat,
+Fie-n veci, fie-n vaci lăudat!
+
+[s2]
+Minunat este Dumnezeu,
+Minunat, minunat,
+În lucrarea Lui, în puterea Lui
+si în harul Lui
+Dumnezeu este minunat!
+
+[s3]
+Minunat este Dumnezeu,
+Minunat, minunat,
+Între sfintii Săi, în ale Sale căi, si pe munti, si-n văi
+Dumnezeu este minunat!
+
+[s4]
+Minunat este Dumnezeu,
+Minunat, minunat,
+Si-n trecutu-apus,
+si-n prezentu-adus,
+si-n mâinele spus
+Dumnezeu este minunat!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

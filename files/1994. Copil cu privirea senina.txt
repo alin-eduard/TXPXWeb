@@ -1,0 +1,21 @@
+[s1]
+1. Copil cu privirea senină
+Isus înspre tine-a privit
+Pe braţul Lui tu să ai pace
+Aceasta e tot ce-am dorit
+1994.                 La b
+
+[r1]
+Cor: /: Domnul să te binecuvânteze
+Şi să te păzească-n braţul Lui
+Să îți de-a pacea şi a Sa-ndurare
+Binecuvâtarea Lui :/
+
+[s2]
+2. Aşa cum pe cer mii de stele
+Lucesc până-n zori chiar de-I zi
+Deşi nu le vezi, ocrotire
+Isus pentru tine v-a fi.
+
+[order]
+s1,r1,s2,r1

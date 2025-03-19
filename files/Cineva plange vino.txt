@@ -1,0 +1,50 @@
+[s1]
+Cineva plânge, vino acum (3x)
+/: O, Doamne, vino acum :/
+
+[s2]
+Cineva se roagă, vino acum (3x)
+/: O, Doamne, vino acum :/
+
+[s3]
+Vino-acum o, Doamne, vino acum (3x)
+/: O, Doamne, vino acum :/
+
+[s4]
+/: Mă încred în Tine Doamne
+Orişice s-ar întâmpla
+Toata viaţa mea Isuse
+Te voi binecuvânta :/
+
+[s5]
+Ce mult te doresc eu Isuse
+O, vino în inima mea
+Când grija lumii m-apasă
+La Tine-mi găsesc liniştea
+
+[s6]
+/: Fericit eu voi fi cu Tine Isus
+Zi de zi, pas cu pas
+Când voi fi în necaz
+La bine şi la greu
+Tu mă vei ridica
+Eu Te voi lăuda
+Pentru dragostea Ta :/
+
+[s7]
+Ia-mi inima mea zbuciumată
+Şi umple-mi Tu golul din ea
+Condu-mi paşii pe calea dreaptă
+Căci Tu îmi cunoşti inima
+
+[s8]
+/: Fericit eu voi fi cu Tine Isus
+Zi de zi, pas cu pas
+Când voi fi încercat
+La bine şi la greu
+Tu mă vei ridica
+Eu Te voi lăuda
+Pentru dragostea Ta :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

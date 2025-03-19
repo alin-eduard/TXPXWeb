@@ -1,0 +1,32 @@
+[s1]
+Inimă nouă în dar am primit,
+Care Isus mie mi-a dăruit.
+Poftele vechi ale trupului meu,
+Toate-s distruse în sîngele Său.
+
+[r1]
+Tot ce-i bun,
+Domnul mi-a dat,
+Inimă nouă,
+În mine Isus a creat.
+
+[s2]
+Gînduri curate de-a Domnului sfînt,
+Simţuri curate din al Său cuvînt.
+Psalmi, bucurii chiar şi ele sînt noi,
+Toate acestea le am în nevoi.
+
+[s3]
+În ore grele de chin şi de vai,
+În întuneric cînd sprijin nu ai,
+Inima mea şi-atunci are-ajutor,
+Într-însa este un Mîntuitor.
+
+[s4]
+Trupul meu singur la fel a rămas,
+Mult nu va trece şi vine-acel ceas.
+Cînd putrezeşte şi-un altul în loc,
+Cu roade veşnice îşi face loc.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

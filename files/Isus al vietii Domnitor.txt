@@ -1,0 +1,42 @@
+[s1]
+Isus, al vieţii Domnitor,
+Cel ce pe cruce a murit,
+Ca să-Şi adune-al Său popor
+El vine negreşit!
+Va veni, va veni,
+Va veni curând pe albul nor,
+Aleluia! Aleluia!
+Să-Şi adune-al Său popor.
+
+[s2]
+Azi multe semne prevestesc
+Şi se-nmulţesc din zi în zi,
+Isus al nostru Domn ceresc
+Pe nori va reveni
+Va veni, va veni,
+Va veni curând pe albul nor,
+Aleluia! Aleluia!
+Să-Şi adune-al Său popor.
+
+[s3]
+Aşteaptă lumea în zadar
+Al păcii neclintit regat
+Căci peste-al raiului hotar
+Nu trec cei cu păcat.
+Va veni, va veni,
+Va veni curând pe albul nor,
+Aleluia! Aleluia!
+Să-Şi adune-al Său popor.
+
+[s4]
+Pământul nou, cel mult dorit
+Se dă ca fericit sălaş
+Acelui ce s-a-nvrednicit
+A fi al Lui urmaş!
+Va veni, va veni,
+Va veni curând pe albul nor,
+Aleluia! Aleluia!
+Să-Şi adune-al Său popor.
+
+[order]
+s1,s2,s3,s4

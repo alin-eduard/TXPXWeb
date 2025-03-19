@@ -1,0 +1,70 @@
+[s1]
+Dacă valul te-a luat
+Ca să fii nefericit
+Rîzi şi spune orişicui
+Numai de Isus.
+
+[s2]
+Numai de Isus
+Numai de Isus
+Să spui dar orişicui
+Numai de Isus!
+
+[s3]
+Dacă plouă cînd nu vrei
+Tu găseşte alt temei
+După Soare aleargă
+Care-i chiar Isus.
+
+[s4]
+/: Soarele-i Isus ! :/
+Viaţa îţi va lumina
+Soarele Isus.
+
+[s5]
+Dacă ai pornit la drum
+Să nu te-ntorci nicidecum
+Tu să urci Calvaru-n sus
+Ca şi Isus.
+
+[s6]
+/: Ca şi Isus ! :/
+Tu să urci Calvarul greu
+Ca şi Isus.
+
+[s7]
+Căci Isus mult ne-a iubit
+Chiar viaţa Şi-a jertfit.
+Pentru noi El a murit
+Căci mult ne-a iubit.
+
+[s8]
+El ne-a iubit
+El ne-a mîntuit
+El loc în ceruri sus
+Nouă ne-a gătit.
+
+[s9]
+Drumul spre cer este bun
+Dar să nu cobori nicicum
+Dacă vrei, poţi să ajungi
+Chiar lîngă Isus.
+
+[s10]
+/: Chiar lîngă Isus :/
+Tu poţi ca să ajungi
+Chiar lîngă Isus.
+
+[s11]
+Dar tu spune tuturor
+Drumul spre cer nu-i uşor
+Dacă nu ţi-e drumul drept
+Nu-L ai pe Isus.
+
+[s12]
+/: Nu-L ai pe Isus :/
+Dacă drumul nu ţi-e drept
+Nu-L ai pe Isus.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12

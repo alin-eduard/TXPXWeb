@@ -1,0 +1,43 @@
+[s1]
+Rămâi cu noi, căci e spre seară
+noi te rugăm, Isus iubit
+Ca ucenicii odinioară când
+spre Emaus Te-au întâlnit.
+
+[r1]
+/: Rămâi cu noi, rămâi cu noi,
+spre Tine, dorul nostru zboară
+Rămâi cu noi, rămâi cu noi,
+rămâi cu noi căci e spre seară. :/
+
+[s2]
+Ne arde-n piept si astăzi dorul
+când ne iubesti si ne vorbesti
+Si-n inimă simtim fiorul
+când tainele le tâlcuiesti.
+
+[s3]
+Rămâi cu-acei ce-s prin spitale
+cu-acei ce lumea i-a uitat
+Rămâi balsam de vindecare
+Isuse, medic minunat.
+
+[s4]
+Rămâi cu noi în adunare
+când valuri vin si vânturi bat
+Si-n bucurii si-n strâmtorare
+si nu mai pleci niciodată.
+
+[s5]
+Rămâi cu noi, Isus pe cale întotdeauna ne-ncetat
+De noi în a plângerii vale
+să fi Isuse lăudat.
+
+[s6]
+Rămâi cu noi sfântă iubire
+Te cheam-acum al Tău popor
+Rămâi cu noi la despărtire
+rămâi cu noi iubit Păstor.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

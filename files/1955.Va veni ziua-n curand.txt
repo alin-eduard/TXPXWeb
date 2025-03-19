@@ -1,0 +1,27 @@
+[s1]
+1955
+1. /: Va veni ziua-n curând
+Să plecăm spre cer cântând
+Unde este Domnul nostru sfânt :/
+/: Domnul nost' cel minunat
+Pe care l-am lăudat
+Şi de care noi am ascultat :/.
+
+[s2]
+2. /: Domnul meu cel minunat
+Este turnul meu preanalt
+Ma păzit şi mereu m-a vegheat :/
+/: Cât am fost înconjurat
+De talazuri care bat
+El pe braţul Lui sfânt m-a purtat:/.
+
+[s3]
+3. /:Căci şi azi şi-n viitor
+Domnul e al meu Păstor
+Mă adapă din sfântul izvor :/
+/: Am cuvântu-i pe pământ
+Ce-mi dă har îmi dă avânt
+Zi de zi să fiu curat şi sfânt :/.
+
+[order]
+s1,s2,s3

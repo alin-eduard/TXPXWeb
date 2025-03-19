@@ -1,0 +1,30 @@
+[s1]
+Minunat e Domnul meu
+Văd iubirea sa mereu
+Valea mortii reci o trec cu El
+Aud blândele-I chemări
+Stiu nespusele-I tăceri
+Mâna Lui mă poartă către zări.
+
+[s2]
+/: Vom fi mereu împreună
+Eu si Domnul meu
+Mă va-nsoti totdeauna
+Ca si cand mie greu :/
+
+[s3]
+Cântă muntii-n depărtări
+Vin ecouri dinspre mări
+Domnul Slavei cheamă pe ai Săi
+Se adună cei răniti
+Vin încet cei obositi
+Peste o clipă doar vom fi cu ei.
+
+[s4]
+/: Vom fi mereu împreună
+Eu si Domnul meu
+Ne va-nsoti-totdeauna
+Tainic pe cer o stea. :/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,42 @@
+[s1]
+Neputincioşi privim
+Cu se scurg pe rând,
+Devin simple amintiri,
+Ani zile şi nopţi în şir.
+Prea ocupaţi să adunăm,
+Ce-i mai de preţ ades uităm,
+Căci doar comorile
+Ce-s strânse-n Cer nu pier.
+
+[r1]
+Îţi mulţumesc Isuse
+pentru că exist,
+Îţi mulţumesc, O, Doamne
+pentru ce sunt.
+Şi cât mai am suflare
+Să laşi iubirea ta,
+Să ardă ca un soare
+Pe cărarea mea.
+
+[s2]
+În urmă-s ani,
+Cu lacrimi şi încercări.
+Cu zâmbet şi mângâieri,
+Cu iarnă şi primăveri.
+De câte ori ne-am prăbuşit
+Doar braţul Tău ne-a sprijinit,
+De-a Tale aripi sfinte
+Fost-am ocrotit.
+
+[s3]
+Privind peste ani văd
+Chipul Tău tot mai clar,
+Dincolo pe-un alt hotar
+Trecând marea de cristal.
+Eu ştiu, o, Doamne că-ntr-o zi
+Ochii uimiţi te vor privi,
+Când orice lacrimă din ei
+Se va topi.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,27 @@
+[s1]
+1927
+1. Să fii mireasma păcii sfinte
+Oriunde umblă pașii tăi
+Iar mersul să ți-l ai-nainte
+Ca raza peste munți și văi
+
+[s2]
+2. Să fii un cer senin de vară
+Spre omul ce-l vei întâlni
+Călcând pământul să nu-l doară
+Ca roua lină-n zori de zi
+
+[s3]
+3. Să fii izvorul care adapă
+Cu dărnicie pe-nserat
+Și c-o netulburată apă
+Tu să te dărui nencetat.
+
+[s4]
+4. Să fii cântare care alină
+Durerile la toți deplin
+Atunci ești mărturie plină
+A lui Hristos și ești creștin.
+
+[order]
+s1,s2,s3,s4

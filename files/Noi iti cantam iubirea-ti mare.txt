@@ -1,0 +1,29 @@
+[s1]
+Noi iti cantam iubirea-ti mare
+atat de mult tu ne ai iubit!
+Ne-ai izbavit pe fiecare
+prin Fiul Tau ce L-ai jertfit
+
+[r1]
+Noi iti cantam iubirea,
+Doamne neincetat!
+Te laudam caci Tu
+esti vrednic de laudat!
+Slavita, preamarita fie puterea Ta!
+Cat vom avea suflare
+Doamne iti vom canta!
+
+[s2]
+Noi Iti cantam puterea-Ti sfanta,
+Prin care toate ai creat
+Te adoram!Spre cer se-avanta
+Cantarea noastra, necurmat!
+
+[s3]
+Noi Iti cantam minuni si semne!
+Acum canta…din efemer…
+Cand jos tacerea se v-asterne
+Te-om lauda pe veci in cer!
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,14 @@
+[s1]
+Pentru că Pămîntul e-n mîna Lui
+Pentru că şi eu sînt în mîna Lui
+De-aceea-I cînt Domnului.
+Îl laud că-s fără grijă-n mîna Lui
+
+[s2]
+/: Întreg Pămîntul e în mîna Lui
+Şi eu şi tu sîntem în mîna Lui
+De nimic nu ni-e teamă
+Cînd sîntem în mîna caldă-a Tatălui :/
+
+[order]
+s1,s2

@@ -1,0 +1,30 @@
+[s1]
+Noi cântăm, noi cântăm
+în Numele Domnului
+Noi cântăm pentru proslăvirea Lui
+Slavă Lui, slavă Lui,
+slavă numai Domnului
+Pentru dragostea Lui care ne-a salvat.
+
+[s2]
+/: Ne-a slavat, ne-a salvat
+De păcatele murdare ne-a iertat
+Îţi cântăm, Îţi cântăm
+Numele Tău Sfânt ca steag Îl înălţăm :/
+
+[s3]
+Pe pământ şi sus in cer
+nu e Nume mai frumos
+Nu e Nume-atât de dulce ca Hristos
+Salvator ce dai putere,
+şi-ajutor celui zdrobit
+Îti cântăm să fii in veci de veci slăvit.
+
+[s4]
+/: Te slăvim, Te slăvim
+Prin viaţa noastră vrem să-Ţi mulţumim
+Îţi cântăm, Îti cântăm
+Numele Tău Sfânt ca steag Îl înălţăm. :/
+
+[order]
+s1,s2,s3,s4

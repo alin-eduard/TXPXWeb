@@ -1,0 +1,42 @@
+[s1]
+Ţie-Ţi cânt, Dumnezeul meu,
+Ţie-Ţi cânt, Dumnezeul meu,
+Pentru bunătatea Ta,
+Pentru harul Tău cel mare,
+Te voi binecuvânta
+Şi în şoaptă, şi-n strigare!
+/: /: Te voi binecuvânta:/
+Şi în şoaptă, şi-n strigare! :/
+
+[s2]
+Ţie-Ţi cânt, Dumnezeul meu,
+Ţie-Ţi cânt, Dumnezeul meu,
+Pentru toate ce mi-ai dat,
+Pentru dulcea Ta-ngrijire,
+Pentru tot ce mi-ai luat,
+Mă închin cu mulţumire.
+/: /: Pentru tot ce mi-ai luat :/
+Mă închin cu mulţumire. :/
+
+[s3]
+Ţie-Ţi cânt, Dumnezeul meu,
+Ţie-Ţi cânt, Dumnezeul meu,
+Şi nu vorbe vreau să spun,
+Ci cântarea mea să-Ţi ardă,
+Ţie, Bunul cel mai bun,
+Şi-n iubire să se piardă,
+/: /: Ţie, Bunul cel mai bun :/
+Şi-n iubire să se piardă. :/
+
+[s4]
+Ţie-Ţi cânt, Dumnezeul meu,
+Ţie-Ţi cânt, Dumnezeul meu,
+Nu că eu aş şti să cânt
+Sau că am vreo vrednicie,
+Dar iubirea-mi dă avânt
+Ca să cânt „Mărire Ţie!”
+/: /: Dar iubirea-mi dă avânt :/
+Ca să cânt „Mărire Ţie!” :/
+
+[order]
+s1,s2,s3,s4

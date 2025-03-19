@@ -1,0 +1,36 @@
+[s1]
+În prezenţa slavei tale
+Pe-ale laudei porţi când trec,
+Templul se deschide
+Şi eu faţa Ţi-o zăresc,
+
+[r1]
+Şi-n a Ta înfăţişare
+Când văd măreţul har divin,
+Pot doar să mă închin
+Spunând:
+
+[r2]
+Eşti măreţ in acest loc,
+Domnul meu, eşti măreţ
+În acest loc, Ava Tată,
+
+[r3]
+Vrednic eşti să fii slăvit,
+Veşnic preamărit, eşti măreţ
+În acest loc, Domnul meu.
+
+[s2]
+În prezenţa slavei tale
+Pe-ale laudei porţi când trec,
+Templul se deschide
+Si eu faţa Ti-o zăresc,
+
+[s3]
+Vrednic eşti să fii slăvit,
+Veşnic preamărit,
+/: Eşti măreţ în acest loc,
+Domnul meu. :/
+
+[order]
+s1,r1,r2,r3,s2,r1,r2,r3,r2,s3

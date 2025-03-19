@@ -1,0 +1,60 @@
+[s1]
+1. Pentru ce carele Tale
+Vin aşa de-ncet
+Pentru ce carele Tale
+Doamne zăbovesc
+Azi când lupta-i mare
+Şi jugul greu tare
+Pentru ce carele Tale
+Doamne zăbovesc.
+600.
+
+[s2]
+2. Pentru ce, o, Doamne sfinte
+Nu ne aperi azi
+Când lupta este în toi
+Tu dă-ne ajutor
+Azi când lupta-i mare
+Crucea apasă tare
+Pentru ce carele Tale
+Doamne vin încet.
+
+[s3]
+3. Doamne deschide-ne ochii
+Ca şi lui Ghehazi
+Să-ţi vedem oştirea sfântă
+Ce o ai Tu azi
+Azi când lupta-i mare
+Negura e mare
+Mulţi îţi zic:
+"O, vino Doamne Isuse iubit".
+
+[s4]
+4. Şi acest cuvânt,
+O, Doamne tot mai viu sună
+Şi-n văzduh se-nalţă
+A Lui chemare sfântă
+Mireasa e aceea care vrea venirea
+Şi al ei glas pe Tine
+Doamne te cheamă mereu.
+
+[s5]
+5. O, vino, O, vino repede iubitule
+O, vino, O, vino repede iubitule
+Strigă dintre stânci,
+Dintre văi adânci
+Dintre crăpături
+Grăbind venirea lui Isus.
+
+[s6]
+6. O, Isuse mult iubitul
+Sufletului meu
+Pentru ce să nu-ţi descoperi
+Astăzi glasul Tău
+Azi când lupta-i mare
+Şi-n turmă e jale
+Pentru ce carele Tale
+Doamne vin încet.
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,34 @@
+[s1]
+Prin tot ce fac, prin tot ce sînt
+Să fiu o candelă-a iubirii
+Şi-n trecerea mea pe Pămînt
+Să dau tărie strălucirii.
+Harul Tău mă facă cum Tu ai vrea
+/: Isuse, să-Ţi placă viaţa mea ! :/
+
+[s2]
+În mîna Ta m-ai liniştit
+Isuse, să rămîn oriunde
+Prin Tine m-ai desăvîrşit
+În suflete să pot pătrunde.
+Harul Tău mă facă cum Tu ai vrea
+/: Isuse, să-Ţi placă viaţa mea ! :/
+
+[s3]
+Comoara harului frumos
+S-o port deplin tot mai curată
+Prin straiul meu, mai luminos
+S-arăt pe calea-Ţi minunată.
+Harul Tău mă facă cum Tu ai vrea
+/: Isuse, să-Ţi placă viaţa mea ! :/
+
+[s4]
+Cu litere de foc mereu
+Să scriu pe viaţa mea <iubire>
+E chipul Tău de Dumnezeu
+Prin care-mi dai desăvîrşire.
+Harul Tău mă facă cum Tu ai vrea
+/: Isuse, să-Ţi placă viaţa mea ! :/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,20 @@
+[s1]
+Multă binecuvântare
+Peste-acest copil să dai,
+Luminează-a lui cărare
+Sub privirea Ta să-l ai.
+
+[r1]
+O, Doamne Sfânt, ce eşti în ceruri
+Tu mâna-ţi sfântă să i-o-ntinzi,
+Şi când vin ispite grele
+Tu-n braţe să-l cuprinzi.
+
+[s2]
+Fă ca viaţa lui întreagă
+Să rămână credincios,
+Şi în toate să-mplinească
+Numai voia lui Hristos.
+
+[order]
+s1,r1,s2,r1

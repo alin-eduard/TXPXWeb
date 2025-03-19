@@ -1,0 +1,24 @@
+[s1]
+2171
+1. Noi ştim că Domnul va veni Ca un hoţ la miezul nopţii
+/: Când nimeni nu s-a  aştepta, Atunci va apărea :/.
+
+[r1]
+/: Deşteptare :/
+Azi treziţi-vă fecioare
+//:	Deşteptare :/
+În curând Isus apare :/.
+
+[s2]
+2. Din somn treziţi-vă acum Căci Mirele este pe drum
+/: Și toţi acei ce-s pregătiţi
+De El vor fi răpiţi :/.
+
+[s3]
+3. Şi vreme-aceia nu-i departe Aşa ne spune sfânta carte
+/: Când vom vedea
+Pe-al nostru Mire
+În slavă şi mărire :/
+
+[order]
+s1,r1,s2,r1,s3,r1

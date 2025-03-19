@@ -1,0 +1,29 @@
+[s1]
+/: Mă uit la tine, tu eşti oare :/
+Ţi-e haina plină de pământ,
+Ţi-e sufletul mâhnit şi frânt
+De-abia poţi merge pe picioare
+Mă uit la Tine şi mă doare,
+Căci viaţa mea e trecătoare,
+/:Şi-i prea murdar al tău veşmânt:/
+
+[s2]
+/: În căutarea unui bine :/
+Priveşti în jos, priveşti în sus
+Ai vrea un leac, dar leacuri nu-s
+Să scapi de pete şi ruşine
+Nu alerga la porţi străine
+Neputinciose ca şi tine
+/: Tu vino-n şcoala lui Isus :/
+
+[s3]
+/: Că cel mai minunat burete :/
+E sângele ce-a curs pe lemn
+Din sfântul dragostei îndemn
+Când Fiul a strigat Mi-e sete
+E sângele ce pe-ndelete
+Te curăţă de orice pete
+/:Şi-ţi şterge cel mai negru semn:/
+
+[order]
+s1,s2,s3

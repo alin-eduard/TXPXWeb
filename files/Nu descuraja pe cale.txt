@@ -1,0 +1,62 @@
+[s1]
+Nu descuraja pe cale,
+Ostaş obosit,
+Căci e vremea de pe urmă;
+Timpu-i pe sfârşit.
+
+[s2]
+/: Este vremea de cântare,
+Vremea marii sărbători;
+E vremea de-ntâmpinare
+A Mirelui pe nori. :/
+
+[s3]
+Dac-aici rămas-ai singur,
+Toţi te-au părăsit,
+Chiar şi-acei mai dragi din casă
+Ce mult te-au iubit,
+
+[s4]
+/: Dacă fraţi azi râd de tine
+Şi-şi bat joc de starea ta,
+Nu uita că ai un Frate
+Sus, pe Golgota... :/
+
+[s5]
+Câte nopţi şi câte zile,
+Poate,-ai suspinat!
+Câte lacrime amare
+Ochii ţi-au vărsat!
+
+[s6]
+/: Câte răni în trup şi-n suflet
+Luni şi ani, la rând, le-ai pus!
+Dar ţi le-a lua odată
+Medicul Isus. :/
+
+[s7]
+Să te-ntorci smerit la Domnul
+Este-un gest frumos;
+Dacă zici: „O, Doamne, sunt rău,
+Sunt un păcătos".
+
+[s8]
+/: Dacă crezi în a Lui jertfă,
+În izvorul sfânt de har,
+Binecuvântări primi-vei
+Mântuirea-n dar. :/
+
+[s9]
+Nu mai este mult, dar rabdă,
+Frate credincios!
+În curând, se va-mplini
+Tot ce-a spus Hristos.
+
+[s10]
+/: Pregăteşte-ţi, astăzi, haina
+Căci tu eşti Mireasa Sa
+Să intri-n odaia nunţii,
+Când te va chema... :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

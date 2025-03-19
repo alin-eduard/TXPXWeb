@@ -1,0 +1,20 @@
+[s1]
+Dreptatea şi-­al Lui sânge sfânt
+Haina de glorie îmi sunt;
+Eram la moarte osândit
+Dar azi spre cer merg fericit.
+
+[s2]
+În faţa Ta când voi sosi
+Nimeni nu mă va osândi;
+Iertarea Tu, Isus mi­ai dat,
+De teama morţii sunt salvat.
+
+[s3]
+Isus, măritul Salvator
+E azi în cer Mijlocitor,
+Oferă încă al Său har
+Prin sângele de pe Calvar.
+
+[order]
+s1,s2,s3

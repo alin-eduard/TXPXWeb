@@ -1,0 +1,42 @@
+[s1]
+Azi cântă frate /: că tu eşti salvat:/
+Domnul pe tine /: te-a răscumpărat:/
+/: Cântece să răsune,
+Să se ducă vestea-n lume
+Că Domnul e Mântuitorul tău;
+El te călăuzeşte,
+Zi şi noapte te-nsoţeşte
+Stai, dar acum, o, stai pe braţul Său! :/
+
+[s2]
+Azi cântă frate /: şi fii bucuros:/
+Căci ai aflat prin /: har pace-n Hristos :/
+/: Cântece să răsune,
+Să se ducă vestea-n lume
+Că Domnul e Mântuitorul tău;
+El te călăuzeşte,
+Zi şi noapte te-nsoţeşte
+Stai, dar acum, o, stai pe braţul Său! :/
+
+[s3]
+Azi cântă frate /: şi nu te-ntrista :/
+Căci Domnul Isus /: nu te va lăsa. :/
+/: Cântece să răsune,
+Să se ducă vestea-n lume
+Că Domnul e Mântuitorul tău;
+El te călăuzeşte,
+Zi şi noapte te-nsoţeşte
+Stai, dar acum, o, stai pe braţul Său! :/
+
+[s4]
+Azi cântă frate /: dar cântă aşa :/
+Plin de credinţă /: de dragostea Sa.:/
+/: Cântece să răsune,
+Să se ducă vestea-n lume
+Că Domnul e Mântuitorul tău;
+El te călăuzeşte,
+Zi şi noapte te-nsoţeşte
+Stai, dar acum, o, stai pe braţul Său! :/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,41 @@
+[s1]
+1. Încă mai este loc la cruce
+Şi pentru tine dragul meu
+Şi pentru tine la Golgota
+Muri Fiul lui Dumnezeu.
+339.
+
+[r1]
+Cor:
+O, vino azi, o, vino azi
+Te cheamă azi o voce dulce
+Încă mai este loc la cruce
+O, vino azi, o, vino azi.
+
+[s2]
+2. Oare n-auzi tu
+şoapta-I blândă:
+Întoarce-te biet păcătos
+Să scapi de iad şi de osândă
+Te cheamă glasul lui Hristos.
+
+[s3]
+3. Cât vei mai sta în nepăsare
+Câte ai făcut nu ţi-e de ajuns?
+Vor curge iar lacrimi amare
+Din ochii blânzi ai lui Isus?
+
+[s4]
+4. Nu mai e timp de amânare
+Grăbeşte-te amicul meu
+E poate ultima strigare
+Împacă-te cu Dumnezeu.
+
+[s5]
+5. E poate ultima chemare
+E poate chiar salvarea ta
+Încă mai este loc la cruce
+Şi pentru tine nu uita.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

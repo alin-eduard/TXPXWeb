@@ -1,0 +1,27 @@
+[s1]
+1. Oare la uşă cine e
+Şi ce-o fi aşteptând
+Azi iarăşi ocoli-vei
+Pe Cel ce-l vezi bătând
+375. 								Fa
+
+[r1]
+Cor: Dulce răsună afară
+Lasă-mă-n casa ta
+Te rog a câta oară
+Spre fericirea ta.
+
+[s2]
+2. O, ce pustiu e-n mine
+Fără de Dumnezeu
+Sunt un orfan pe lume
+Unde e Tatăl meu?
+
+[s3]
+3. O, chiar acum degrabă
+Uşa-ţi deschide larg
+Hai nu mai sta afară
+Calcă al casei prag.
+
+[order]
+s1,r1,s2,r1,s3,r1

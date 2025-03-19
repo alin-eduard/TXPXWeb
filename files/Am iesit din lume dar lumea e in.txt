@@ -1,0 +1,38 @@
+[s1]
+Am iesit din lume dar lumea e in noi,
+Iubim mai mult pacatul
+am strans mai mult gunoi.
+Pacatu-i tot mai mare,
+mai mult il pretuim,
+Lumea e in noi, cu tot cu ea pierim.
+
+[r1]
+/: Sa iasa lumea din noi acum,
+dati la o parte tot ce nu-i bun,
+Sa aruncam gunoaiele,
+sa nu ardem ca paiele.
+Iesiti din lume fiti pocaiti
+si cu pacatul sa nu glumiti,
+Caci vine o zi, cand v-om pleca
+si Domnul ne va judeca. :/
+
+[s2]
+Am iesit din lume dar tot privim inapoi,
+In inima ta frate se da mare razboi.
+Se lupta Duhul Sfant cu tot ce e firesc,
+Dar tu dai inapoi la lume iar privesti.
+
+[s3]
+Am iesit din lume dar tot la ea privim,
+Stam tolaniti in casa Scriptura nu citim.
+Stam la televizoarre cu ochii pironiti,
+Ore in sir dearandul, dar suntem pocaiti.
+
+[s4]
+Ai iesit din lume, fi frate credincios!
+Asa cum la inceput pe cale tu ai fost.
+Nu-L vinde pe Isus pe-un lucru de nimic,
+Ramai dar credincios sa poti fi mantuit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

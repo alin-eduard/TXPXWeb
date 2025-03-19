@@ -1,0 +1,18 @@
+[r1]
+Voi slăvi pe Mielul Gloriei
+Regelui regilor mă-nchin
+Voi slăvi pe Mielul Gloriei
+Regelui eu mă-nchin!
+
+[r2]
+/:Şi mâinile mi le-nalţ
+Şi ’naintea Ta vin,
+Mâinile mi le-nalţ
+Şi mă bucur în Tin’
+Îmi înalţ mâinile către cer
+Lumea-ntreabă „De ce ”
+Eu le spun că-mi iubesc Regele
+Eu le spun că-mi iubesc Regele:/
+
+[order]
+r1,r2,r1,r2

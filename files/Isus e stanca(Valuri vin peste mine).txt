@@ -1,0 +1,27 @@
+[s1]
+Isus e Stânca
+În care mă-ncred
+În El am pace, bucurie
+Chiar dacă trec prin moarte
+Nu mă tem,
+Că el îmi dă a Sa tărie
+
+[s2]
+Valuri vin peste mine
+Încercările-s multe
+Vântul suflă năpraznic
+Moarte-ai tot mai adâncă
+Mă îndrep către Ceruri
+E de-ajuns să înalţ
+/: Şi-a Sa mână
+Mă scoate din a lumii necaz :/
+
+[s3]
+Cu El pe cale
+Nicicând nu-i prea greu
+De te predai pe braţul Său
+Ale Tale poveri, El va ridica
+Şi-ţi curăţeşte inima
+
+[order]
+s1,s2,s3

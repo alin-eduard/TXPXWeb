@@ -1,0 +1,32 @@
+[s1]
+Suflete, scoală din amorţeală
+Şi cântă Celui ce te-a salvat.
+Lanţuri zdrobit-a, duh dăruit-a,
+Pace în Isus eu am aflat.
+/: Astăzi eu cânt că sunt mântuit
+Şi de Isus mereu ocrotit;
+Chinul, ispita nu mă-nspăimântă
+Să-L las pe-al meu Isus. :/
+
+[s2]
+Colo-n mărire nu e durere
+Ci numai bucurii, fericiri;
+Urmez lumina cu toată râvna
+Ce mă conduce în străluciri.
+/: Ah, ce deşertăciune simţim
+În lumea-ntreagă noi întâlnim,
+Numai Isus e care împarte
+Din fericirea Sa. :/
+
+[s3]
+Toate trec iute ca nişte clipe
+Numai acolo sunt veşnicii,
+Uşa-i deschisă, moartea-i învinsă
+De Isus ce pe cruce-a murit.
+/: Mult nu va trece şi-n cer vom fi
+Unde pe Isus Îl vom privi;
+Atunci înalţ cântarea
+Înspre onoarea lui Isus. :/
+
+[order]
+s1,s2,s3

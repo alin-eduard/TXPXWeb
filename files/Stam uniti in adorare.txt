@@ -1,0 +1,16 @@
+[s1]
+Stăm uniţi în adorare
+În prezenţa Domnului
+Înălţăm laudele noastre
+Dându-I glorie numai Lui
+
+[s2]
+Îţi cântăm: vrednic de laudă
+Eşti deasupra tuturor
+Azi Biserica îţi cîntă
+Tu eşti vrednic,
+Mielul lui Dumnezeu.
+Vrednic eşti doar Tu.
+
+[order]
+s1,s2

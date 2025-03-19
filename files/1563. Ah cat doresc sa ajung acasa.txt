@@ -1,0 +1,33 @@
+[s1]
+Ah, cât doresc s-ajung acasă
+Acolo-n cerul minunat!
+Când Tu îi vei deschide o casă
+Poporului răscumpărat
+S-ajung în cerul minunat
+Căci pe Tine Te-am aşteptat
+La Tine voi fi fericit
+C-aici am fost tot necăjit
+1563.
+
+[s2]
+2. N-am plâns că mă urăşte lumea
+Nici după averi mârşav câştig
+Am plâns că m-a ajuns mâhnirea
+Că  nu am fost desăvârșit
+Printre cei mici dacă voi fi
+Şi acolo Doamne Te-oi slăvi
+La Tine voi fi fericit
+C-aici am fost tot necăjit
+
+[s3]
+3.N-oi vedea moartea niciodată
+Nici ne-nţelegeri mari şi mici
+Nici cugetul haina pătată
+Ci voi fi-nconjurat de sfinţi
+Voi spune adio la necaz
+Ce zi de zi m-a ispitit
+La suferinţă şi talaz
+Ce vor veni pe acest pământ
+
+[order]
+s1,s2,s3

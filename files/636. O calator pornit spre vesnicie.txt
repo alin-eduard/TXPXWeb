@@ -1,0 +1,57 @@
+[s1]
+1. O, călător pornit spre veşnicie
+O, drumul este parcă tot mai greu
+/: Nu dispera, ci luptă-te-nainte
+Căci înainte merge Dumnezeu. :/
+636.     								   Fa
+
+[r1]
+Cor:
+/: Drum bun :/
+O, călător pornit spre veşnicie
+/: Drum bun :/
+Nu dispera, Isus este cu tine.
+
+[s2]
+2. Chiar dacă
+vântul bate tot mai tare
+Şi furtuni se abat în jurul tău
+/: Tu nu uita că ajutor îţi vine
+De sus, din ceruri,
+De la Dumnezeu. :/
+
+[s3]
+3. Şi-atunci când lăcrimând
+Tu mergi pe cale
+Şi pâinea ţi-o mănânci
+Ades plângând
+/: Din cerul veşniciilor sublime
+Te mângâie stăpânul orişicând. :/
+
+[s4]
+4. Şoptindu-ţi dulce:
+”Suflet nu te teme
+Pe cale sunt cu tine tot mereu”
+/: Şi-atunci când încercarea
+Este mare
+Din toate te salvează Dumnezeu. :/
+
+[s5]
+5. Tu doar
+păstrează-te curat-ntruna
+Cu inima curată pe pământ
+/: Şi să nu uiţi nicicând
+Trecând prin lume
+Cu Domnul ai făcut un legământ.
+
+[s6]
+6. De vei păstra
+cu grijă-a ta credinţă
+Şi vei trăi curat aşa ca El
+/: Isus te va primi
+la El în slavă
+Şi pentru veci
+vei fi în cer cu El :/.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

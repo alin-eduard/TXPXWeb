@@ -1,0 +1,26 @@
+[s1]
+Din aleluia-n aleluia
+Eu urc pe Muntele Cel Sfânt
+Căci Harul Tău îmi dă taria
+O, Dumnezeul meu neînfrânt.
+
+[r1]
+/: Aleluia, aleluia
+Cânt cu sufletul meu plin
+Doamne-Ţi înalţăm Solia
+Harului, în veci, amin :/
+
+[s2]
+Lucrarea începută-n mine
+Doar Tu o duci la bun sfârşit
+Din când, în când, eu urc spre Tine
+O,Tată sfânt, nemărginit.
+
+[s3]
+Şi-Ţi cânt mai tânara cântare
+Purtând parfum din veşnicii
+Din salt în salt, eu urc spre Soare
+Ca să mă-nchin cu imnuri vii
+
+[order]
+s1,r1,s2,r1,s3,r1

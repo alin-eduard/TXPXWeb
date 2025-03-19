@@ -1,0 +1,42 @@
+[s1]
+1438.  Mi
+Tu mi-ai fost mereu aproape
+Când mi-era Doamne mai greu
+Si-am  simţit atunci in toate Dreapta Ta de Dumnezeu
+/:Mi-ai fost barca de salvare
+Când vâsleam neputiincios
+Mi-ai fost Stânca de ancorare
+Stânca mea Isus Hristos:/
+
+[s2]
+Mi-ai fost sprijin pe cărare
+Când  eram mai obosit
+Şi-n amară încercare
+Doar Tu Doamne m-ai iubit
+/:Mi-ai fost tată mi-ai fost mamă
+Mi-ai fost frate iubitor
+Iar pentru a mea grea rană
+Ai fost leac alinător:/
+
+[s3]
+Mi-ai dat din Duh Sfânt putere
+Şi mereu m-ai întărit
+Ai fost a mea mângâiere
+Nicicând nu m-ai părăsit
+/:Doamne n-am ce-Ţi da din lume
+Ce-aş putea să-ţi dăruiesc
+Vreau doar neîncetat a spune
+Te iubesc şi îţi mulţumesc:/
+
+[s4]
+Lângă mine totdeauna
+Te-am simţit Doamne mereu
+Până ce-a trecut furtuna
+Preaputernic Dumnezeu
+/:Doamne n-am ce-Ţi da din lume
+Căci sunt toate-n mâna Ta
+Doar atâta pot a spune
+Fii slăvit Aleluia:/
+
+[order]
+s1,s2,s3,s4

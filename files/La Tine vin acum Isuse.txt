@@ -1,0 +1,30 @@
+[s1]
+La Tine vin acum, Isuse
+Aş vrea să-Ţi mulţumesc, să-Ţi cînt
+/: Primeşte pe-altar, Doamne,
+azi a mea inimă
+Şi-n viaţa mea fii oricînd ! :/
+
+[s2]
+Sînt fericit cînd eşti cu mine
+Mi-ai dat atîta soare-n priviri
+/: Ce har minunat m-a cuprins
+cu iubire
+Şi ce adînci mulţumiri ! :/
+
+[s3]
+La Tine vreau să vin, Isuse
+Nicicînd să nu mă laşi eu Te rog
+/: Primeşte-mi Te rog
+pentru veci a mea inimă
+Şi fii al meu bun Păstor. :/
+
+[s4]
+Să laşi ca sfîntul Tău Nume
+Să-L port cu drag, să-L ador
+/: Şi dragostea Ta, Doamne,
+las, s-aline
+Pe veci de veci al meu dor ! :/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,32 @@
+[s1]
+Pleacă-Ţi urechea,
+Doamne la rugăciunea mea
+I-a aminte la glasul cererilor mele
+/: Te chem în ziua necazului
+Căci ştiu că mă asculţi
+Nimeni nu este ca Tine
+Între dumnezei :/
+
+[s2]
+/: Toate neamurile pe care Le-ai facut
+Vor veni să se închine,
+Înaintea Ta, Doamne
+Să de-a slavă numelui Tău, cel Sfânt
+Căci Tu eşti mare şi faci minuni :/
+
+[s3]
+Învaţă-mă căile Tale Doamne
+Şi voi umbla în adevărul Tău
+/: Voi preamări
+Numele Tău cel Sfânt şi drept
+Te voi lăuda din toata inima :/
+
+[s4]
+/: Bunătatea Ta este nemărginită
+În min’ slaveşti sufletul,
+Din adâncul morţii
+Doar Tu eşti milostiv şi îndurător
+Căci m-ai iubit nespus de mult :/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,33 @@
+[s1]
+1807.fa#
+1. După soare vine nor,
+După nor iar vine soare
+După bine vine rău,
+După ploi zile uşoare.
+Când e greu să ne rugăm
+Ca în zilele cu soare
+Rugăciunea orişicând
+Poate-aduce rezolvare.
+
+[r1]
+Cor:	/:Când la cârma vieţii
+E zi de zi numai Isus
+Nu ne clătinăm de fel,
+Nu ne poticnim pe cale.
+Căci la timp şi ne la timp
+Noi să ridicăm altare
+Presărându-le mereu zi de zi
+Pe-a noastră cale:/
+
+[s2]
+2. Omul bun şi-n zile rele
+E tot bun ca-n zile bune
+Faţa lui e tot senină,
+De e ploaie sau furtună.
+Fiindcă temelia lui
+Nu-i zidită pe minciună
+Nu se clatină de fel,
+Ea pe stâncă e zidită.
+
+[order]
+s1,r1,s2,r1

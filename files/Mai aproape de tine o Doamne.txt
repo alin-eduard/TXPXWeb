@@ -1,0 +1,26 @@
+[s1]
+Mai aproape de Tine o Doamne
+In zori de zi
+Mai aproape de Tine Doamne
+Doresc sa fiu
+La umbra aripilor Tale
+Sa ma odihnesc
+Sa-ti cant cu ingerii
+Sa-ti spun ca te iubesc
+
+[r1]
+/: Aleluia, Mielule Divin
+Aleluia, numai Tie ma-nchin :/
+
+[s2]
+Mai aproape de Tine o Doamne
+In fiecare zi
+Mai aproape de Tine o Doamne
+Doresc sa fiu
+Revarsa-ti tu azi bunatatea
+Din plin peste noi
+Ca tot ce-I in mine
+Sa-Ti cante laude
+
+[order]
+s1,r1,s2,r1

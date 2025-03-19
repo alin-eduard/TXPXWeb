@@ -1,0 +1,51 @@
+[s1]
+1124.
+1.  Cu-a Lui împărăţie El ne-a asemănat
+Cu o frumoasă vie a unui om bogat
+Ce-n zori de dimineaţă
+Şi aşa de mai multe ori
+El se ducea în piaţă să caute lucrători.
+Cor:    De lucru e iar plata veţi primi
+Atunci de ce nu vreţi a vă tocmi
+În via Lui să mergeţi să lucraţi
+Şi fără lucru voi să nu mai staţi.
+
+[s2]
+2.  În ceasul tinereţii copile şi copii
+Din ora dimineţii
+Au fost chemaţi în vii
+Cu mâinile amândouă
+Pe cruce când a stat
+Când ceasul era nouă
+Pe tineri I-a chemat.
+Cor:	De lucru e iar plata veţi primi
+Atunci de ce nu vreţi a vă tocmi
+În via Lui să mergeţi să lucraţi
+Şi fără lucru voi să nu mai staţi.
+
+[s3]
+3.  Cea din urmă filă şi cel din urmă ceas
+Când Domnul plin de milă
+Pe vârstnici I-a atras
+Să meargă în lucrare
+Şi perii cei cărunţi
+Căci via Lui e mare
+Prin dealuri, văi şi munţi.
+Cor:	De lucru e iar plata veţi primi
+Atunci de ce nu vreţi a vă tocmi
+În via Lui să mergeţi să lucraţi
+Şi fără lucru voi să nu mai staţi.
+
+[s4]
+4.  Căci iată înserarea pe boltă s-a ivit
+În via Lui lucrarea i-aproape de sfârşit
+Când lucrul va fi gata
+Fiul lui Dumnezeu
+El ne va da răsplata a veşniciei leu.
+Cor:	De lucru e iar plata veţi primii
+Atunci de ce nu vreţi a vă tocmi
+În via Lui să mergeţi să lucraţi
+Şi fără lucru voi să nu mai staţi
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,27 @@
+[s1]
+1792.
+1. Duh de viaţă nouă să cobori
+Focul sfânt, eu te rog cu dor
+Şi o viaţă sfântă Tu-mi vei da
+Azi şi pururea
+Cor:	/:Prin puterea Ta eu biruiesc
+Clipe fericite eu trăiesc
+De Hristos îmi amintesc mereu
+Să-L port în pieptul meu
+Roada Ta bogată, pururea
+Umple viaţa mea:/
+
+[s2]
+2. Pentru suflet eşti mângâietor
+Pentru viaţă îndrumător
+Inima şi duhu-nflăcărezi
+Ţie să-Ţi lucrez
+Cor:	/:Prin puterea Ta eu biruiesc
+Clipe fericite eu trăiesc
+De Hristos îmi amintesc mereu
+Să-L port în pieptul meu
+Roada Ta bogată, pururea
+Umple viaţa mea:/
+
+[order]
+s1,s2

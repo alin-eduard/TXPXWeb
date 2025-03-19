@@ -1,0 +1,29 @@
+[s1]
+1. Ca să fim eroi
+Doamne fii cu noi
+/: Noi vom merge după Tine
+Şi vom face tot cei bine
+În ţara de sus du-ne Tu Isus :/
+652.  Fa m
+
+[s2]
+2. Chiar de mergem greu
+Să ne ajuţi mereu
+Chiar în zilele mai grele
+Să nu murmurăm în ele
+Căci prin strâmtorări
+Vom ajunge-n cer.
+3. Suntem în dureri şi în încercări
+Şi de alţii mult ne doare
+Dă-ne multa Ta răbdare
+Să gândim mereu la sfârşitul Tău.
+
+[s3]
+4. Doamne-n mâna Ta
+Îmi dau viaţa mea
+O, condu-mă pe căi grele
+Şi ai grijă de ale mele
+Până voi pleca sus în ţara Ta.
+
+[order]
+s1,s2,s3

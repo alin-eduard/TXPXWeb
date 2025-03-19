@@ -1,0 +1,30 @@
+[s1]
+Tu ai lasat atata maretie
+Caci m-ai dorit mereu asa cum sunt
+Si intr-o iesle prunc cu chip de rege
+Te-ai coborat din ceruri pe pamant
+Atatea lacrimi grijuri si suspine
+M-au apasat si m-au zdrobit
+Dar Tu vazandu-mi starea-n asta lume
+Jos ai venit fiindca m-ai iubit
+Tu m-ai iubit
+
+[r1]
+Tu m-ai iubit fara-ncetare
+Din groapa mortii m-ai ridicat
+Rege divin Dumnezeu vesnic
+Astazi iti cant caci Tu m-ai iubit
+Tu m-ai iubit
+
+[s2]
+Atatea inimi se framanta-n noapte
+Si-atatea suflete se odihnesc
+Dar prin venirea Ta in asta lume
+Cu totii am primit un dar ceresc
+Cantarea noptii s-a ivit lumina
+Cu stralucirea din infinit
+E-atata pace inlauntrul nostru
+Caci dragoste in inima am primit
+
+[order]
+s1,r1,s2,r1

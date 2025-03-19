@@ -1,0 +1,39 @@
+[s1]
+2139
+1. În umblarea-ți pe pământ
+N-ai știut de Acel ce-i sfânt
+N-ai crezut în El
+Și-n sfântul Său cuvânt
+Te-a robit păcatul tău
+Și te-a înșelat cel rău
+Azi te cheamă înc-o dată Dumnezeu.
+
+[r1]
+Cor: /: Haide nu mai amâna
+Te așteaptă Mesia
+Te iubește și dorește viața ta
+Haide nu mai zăbovi
+El Isus te va primi
+Și cu El te vrea să fii în veșnicii :/.
+
+[s2]
+2. Sus pe cruce, în Ghetsimani
+După atâtea mii de ani
+Glasul Lui încă mai
+cheamă pământeni
+Ești copilul Meu iubit
+Pentru tine am murit
+Ca să-ți iert păcatul care
+te-a robit.
+
+[s3]
+3. Astăzi bat la ușa ta
+Să primești chemarea Mea
+Dar se poate ca să fie ultima
+Lasă lumea de nevoi
+Vino-n turmă înapoi
+Hai dă-mi brațul și să
+mergem amândoi.
+
+[order]
+s1,r1,s2,r1,s3,r1

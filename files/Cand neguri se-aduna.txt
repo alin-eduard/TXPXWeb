@@ -1,0 +1,32 @@
+[s1]
+Când neguri se-adună
+şi vântul se zbate
+Aproape e Domnul,
+din valuri ne scoate!
+
+[s2]
+De cine ne-om teme?
+El mustră furtuna
+Şi-i place să fie
+cu noi totdeauna!
+
+[s3]
+Pluti-vom spre casă,
+Isuse, cu Tine,
+Pe braţul Tău tare,
+o, cât e de bine!
+
+[s4]
+Şi dacă furtuna,
+mugind, ne-ameninţă
+Noi mergem 'nainte,
+trăim prin credinţă!
+
+[s5]
+Prin bezna cercării,
+când paşii se-nclină,
+Doar dragostea-Ţi mare
+ne fie lumină!
+
+[order]
+s1,s2,s3,s4,s5

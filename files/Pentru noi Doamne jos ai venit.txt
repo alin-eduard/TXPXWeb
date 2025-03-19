@@ -1,0 +1,20 @@
+[s1]
+Pentru noi Doamne jos ai venit,
+Pentru noi Doamne cerul ai părăsit
+Pentru noi Doamne aici ai locuit
+Pentru că atât Tu ne-ai iubit.
+
+[s2]
+Pentru noi Doamne Tu te-ai jertfit
+Pentru noi Doamne pe cruce ai suferit
+Pentru noi Doamne ai fost batjocorit
+Pentru că atât Tu ne-ai iubit.
+
+[s3]
+Doamne Sfânt noi te lăudăm
+Şi te slăvim, din inimă-Ţi cântăm,
+Tu eşti tot ce avem mai scump
+Îţi mulţumim că ai murit, pentru noi.
+
+[order]
+s1,s2,s3

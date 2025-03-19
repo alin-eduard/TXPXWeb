@@ -1,0 +1,38 @@
+[s1]
+Tu eşti a mea nădejde
+Isuse Domnul meu
+În ceasul de primejdii
+Şi în necazul greu.
+
+[s2]
+/: În Tine aflu viaţă
+Odihna Tu mi-o dai
+Cu Tine faţă-n faţă
+Voi fi mereu în rai :/
+
+[s3]
+De trec prin suferinţă
+Te rog să-mi dai puteri
+Te rog să-mi dai răbdare
+Prin lupte şi dureri.
+
+[s4]
+/: Tu nu ceri niciodată
+Ce-i mai presus de noi
+Crezând ne-ajuţi îndată
+În grelele nevoi :/
+
+[s5]
+De-i calea-ntunecată
+Aici pe-acest pământ
+De Tine-i luminată
+Spre tronul Tău cel Sfânt.
+
+[s6]
+/: Acolo-i locuinţa
+În veci de veci eu ştiu
+Acolo mi-e dorinţa
+Cu Tine-n rai să fiu :/
+
+[order]
+s1,s2,s3,s4,s5,s6

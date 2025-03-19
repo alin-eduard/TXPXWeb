@@ -1,0 +1,25 @@
+[s1]
+Ai fost o floare între flori,
+parfum suav ce dă
+Dar cineva te-a smuls frumos,
+să fii tu floarea sa
+
+[r1]
+Eşti trandafir, sau eşti un crin?
+Să dai parfumul cel mai fin!
+În viata ta să fii model
+Caci şi Hristos a fost la fel!
+
+[s2]
+Aţi fost frumoşi ca două flori,
+doi trandafiri gingaşi
+De-acum în veci să fiţi uniţi,
+ca nişte îngeraşi.
+
+[s3]
+Dar totdeauna voi să fiţi alături de Isus
+Căci şigur El v-a pregătit
+un loc în ceruri sus.
+
+[order]
+s1,r1,s2,r1,s3,r1

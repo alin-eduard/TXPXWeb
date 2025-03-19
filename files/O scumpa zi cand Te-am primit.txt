@@ -1,0 +1,34 @@
+[s1]
+O, scumpă zi, când Te-am primit
+Isuse, Salvatorul meu;
+Sunt bucuros şi fericit
+C-am fost primit să fiu al Tău.
+
+[r1]
+Scumpă zi, scumpă zi,
+Când Isus şterse-al meu păcat;
+Voi priveghea, mă voi ruga,
+În Tine mă voi bucura;
+Scumpă zi, scumpă zi,
+Când Isus şterse-al meu păcat.
+
+[s2]
+Prin Duhul sunt născut din nou,
+Isus e-al meu, iar eu al Său;
+Îmi este Domn şi-L voi urma
+Mărturisindu-L tot mereu.
+
+[s3]
+Cu Tine sunt în legământ
+Pecetluit cu Duhul Sfânt;
+Isuse, ştiu că mă conduci
+Pe cale, până la sfârşit.
+
+[s4]
+Privesc spre cer încrezător
+În bunul meu Mântuitor;
+De Domnul nu mă voi lăsa
+Şi-n slava Lui cu El voi sta.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,43 @@
+[s1]
+1. Celui ce călătoreşte
+Către cer sus pe drum greu
+Un cuvânt dulce grăieşte
+"Te conduce Ochiul Meu".
+Cor: /: Te conduce, te conduce,
+Te conduce ochiul Meu
+Un cuvânt dulce-i grăieşte
+Te conduce ochiul Meu. :/
+599.
+
+[s2]
+Cor: /: Te conduce, te conduce,
+Te conduce ochiul Meu
+Un cuvânt dulce-i grăieşte
+Te conduce ochiul Meu. :/
+2. Când păcatul şi ispita
+Te-ar urmări tot mereu
+Nu uita făgăduinţa
+Te conduce ochiul meu.
+
+[s3]
+3. Când dorinţele secrete
+Chinuiesc sufletul tău
+Promisiunea scrisă este
+Te conduce ochiul Meu.
+Cor: /: Te conduce, te conduce,
+Te conduce ochiul Meu
+Un cuvânt dulce-i grăieşte
+Te conduce ochiul Meu. :/
+
+[s4]
+4. Când s-a întuneca viaţa
+De-ar sosi sfârşitul tău
+De-a lui mângâiere ascultă
+Te conduce ochiul Meu.
+Cor: /: Te conduce, te conduce,
+Te conduce ochiul Meu
+Un cuvânt dulce-i grăieşte
+Te conduce ochiul Meu. :/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,39 @@
+[s1]
+1. Obrazul tău întoarce-l către palme
+Şi lasă-l ca să fie lovit
+Cămaşa dă-o cui vrea să-ţi ia haina
+Şi n-aştepta ca să fii răsplătit.
+324.                                          Fa M
+
+[r1]
+Cor: Căci eu vă spun
+Nu ură pentru ură
+Căci eu vă spun
+Nu ochi pentru ochi
+Căci eu vă spun
+Nu dinte pentru dinte
+Ci fii ai iubirii să fiţi toţi.
+
+[s2]
+2. Celui ce-ţi cere
+dă-i fără cârtire
+Şi mergi o milă două dacă vrea
+Şi împrumută-i din a ta avere
+Cu dragoste arată-ţi fapta ta.
+
+[s3]
+3. Iubeşte pe vrăjmaş ca şi un frate
+Binecuvântă-l când eşti blestemat
+Fă bine, roagă-te cu cel de aproape
+Căci Domnul ploaie
+Pentru toţi a dat.
+
+[s4]
+4. Desăvârşeşte-ţi
+dragostea-n trăire
+Fii bun când eşti la bine sau la greu
+Să ştii că prin umblarea în iubire
+Primeşti răsplata de la Dumnezeu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

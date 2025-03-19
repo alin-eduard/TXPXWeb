@@ -1,0 +1,38 @@
+[s1]
+Isus e stânca mea
+Din cer care m-a mântuit
+Prin El iertare am găsit
+Si viată am primit
+El mi-a zidit în inimă
+Cuvântul Său cel Sfânt
+Si vreau să-I cânt din dragoste
+Cât sunt pe-acest pământ
+
+[r1]
+Să-i cântăm, să-I cântăm azi de bucurie
+Să-i cântăm, să-L slăvim glorie-aleluia
+Să cântăm, să cântăm Doamne slavă Ție
+Căci Tu esti si vei fi Isuse stânca mea
+
+[s2]
+Isus e stânca mea
+Din cer care viata si-a dat
+Să fiu iertat si mântuit
+Păcatul mi-a spălat
+M-a curătit de tot ce-i rău
+Plătind în locul meu
+De-aceea-i cânt
+Si-l voi slăvi cât voi trăi mereu
+
+[s3]
+Isus e salvatorul meu
+Ce m-a iubit nespus
+Si pentru toată
+Lume-aceasta-o cruce grea a dus
+Pe ea atârn-atât de greu
+Păcatul tuturor
+De-aceea eu îi cânt mereu:
+”esti salvatorul meu!”.
+
+[order]
+s1,r1,s2,r1,s3,r1

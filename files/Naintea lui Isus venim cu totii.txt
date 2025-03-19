@@ -1,0 +1,38 @@
+[s1]
+‘Naintea lui Isus, venim cu totii
+S-aducem jertfa de un bun miros;
+‘Naintea Lui, asa cum el ne spune,
+Venim ca sa-L slujim azi lui Hristos.
+
+[s2]
+/: Dar inimile noastre sa ne fie
+Curate, sa-I cantam: ,,Aleluia!’’
+Celui ce, prin iubirea Lui cea mare,
+In viata noastra, ne va ajuta. :/
+
+[s3]
+Deci, suflete, ce-n fata Lui acuma
+Cu inima-mpartita de mai stai,
+Alinga orice gand, orice durere!
+Fii drept, de vrei s-ajungi la El in rai.
+
+[s4]
+/: Caci numai cei ce-n inimi cu iubirea
+Lui Isus vor canta: ,,Aleluia!’’
+Atunci cand va veni pe nori cu slava
+Ca sa-I stramute in patria Sa. :/
+
+[s5]
+Fii pregatit cu viata-n orice clipa
+Si proslaveste-L pe Domnul Isus!
+Nu face din Cuvantul Lui risipa!
+Iubeste-L, caci El te-a iubit nespus.
+
+[s6]
+/: Apoi, in suflet, El iti va da pace
+Si dragoste frateasca iti va da,
+Dar trebuie ca inima curata
+Sa-ti fie, ca sa-I canti: ,,Aleluia!’’
+
+[order]
+s1,s2,s3,s4,s5,s6

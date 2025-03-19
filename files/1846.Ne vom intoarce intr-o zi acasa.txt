@@ -1,0 +1,33 @@
+[s1]
+1846  Re m
+1.Ne vom întorce într-o zi acasă,
+Te-om părăsi pământule, pământ,
+/:Și vom uita de tine poate mâine,
+Că te-am călcat și te-am lucrat, plângând:/
+Cor: /:În tine zac și morții în țărână
+I-ai înghițit flămând cum tu ai fost
+Și ai lăsat atâta jale-n urmă,
+Pământule acestea au un rost:/
+
+[s2]
+2.Vei da afară lacrimile multe,
+Ce zac de vremi în tine în ascuns,
+/:Cei ce au plâns s-or Întâlni cu Domnul
+Pământule, pământu’ ți-e de-ajuns:/
+Cor: /:Când toți acei ce sfâșiați de fiare
+Sau arși pe rug, ei au sfârșit cântând,
+Se vor ‘nălța de pe-a tale hotare,
+Pe mirelelor drag întâmpinând:/
+
+[s3]
+3.Veni-va clipa când cu toți, deodată,
+Părinți și frați, spre alte zări zburând,
+/:Să ne-ndreptăm spre țara minunată,
+Să te uităm, pământule, pământ:/
+Cor: /:Isus ne va întinde mâna-I caldă,
+Și fericiți vom sta la pieptul Său
+Și vom uita, c-am fost odată-n tine,
+Când fi-vom veșnic, fi-vom doar cu El:/
+
+[order]
+s1,s2,s3

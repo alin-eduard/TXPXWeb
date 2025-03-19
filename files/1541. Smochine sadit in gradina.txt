@@ -1,0 +1,46 @@
+[s1]
+1541.
+1. Smochine sădit în grădină
+În care cu rost fosta-ai pus
+Să creşti să-nfloreşti pentru Domnul
+Şi roade alese s-aduci
+Roade s-aduci.
+2. Degeaba tu stai în grădină
+Şi atât de frumos ai crescut
+De când te sădise Stăpânul
+Tu nici un folos n-ai adus
+Decât frunze.
+
+[s2]
+3. Degeaba aleargă Stăpânul
+Să afle la tine vreun rod
+Căci tu nici în anul acesta
+Tu n-ai adus nici un folos
+Decât frunze.
+4. Degeaba-i crescut în grădină
+Şi crengile ţi-ai răspândit
+La ce-ţi foloseşte înălţimea
+Dacă numai frunze ai adus
+Ani la rând.
+
+[s3]
+5. Tu fosta-ai sădit în grădină
+Şi cu atâta grijă păstrat
+Cu trudă lucrat-a vierul
+Dar nici un folos n-ai lăsat
+Ah nici un rod.
+6. Degeaba ţii umbră-n grădină
+Căci dacă roadă nu aduci
+Vei blestemat tu smochine
+Şi atunci pe loc te usuci
+Ce trist ce trist.
+
+[s4]
+7. Şi securea fără de milă
+Dacă numai frunze ai adus
+Va fi-nfiptă la rădăcină
+Şi astfel vei fi pentru veci
+Păstrat pentru foc.
+
+[order]
+s1,s2,s3,s4

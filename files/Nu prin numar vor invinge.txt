@@ -1,0 +1,32 @@
+[s1]
+Nu prin numar vom învinge,
+Scopul nu ni-l vom atinge
+Daca Domnul nu e cu noi
+Biruinta este data
+Celor ce smeriti Îl cauta
+Si se-ncred în El la nevoi
+
+[r1]
+Nu prin forta se câstiga
+Nu gresi privind înapoi
+Daca chiar vrem, daca credem
+Domnul va lupta pentru noi
+
+[s2]
+Cheia este ascultarea
+Pe uscat vom trece marea
+Apele se dau înapoi.
+Si vrajmasul vrea sa treaca
+Dar nu poate, se îneaca
+Apele se-aduna suvoi.
+
+[s3]
+Noapte vine si se lasa
+Dar poporului nu-i pasa,
+Lumineaza stâlpul de foc,
+Printre rânduri veselie,
+O nespusa bucurie,
+Sarbatoare, cântec si joc.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,26 @@
+[s1]
+Acum noi stăm în faţa Domnului,
+Privind pe cei doi fericiţi,
+Ei vor să îşi unească viaţa
+Înaintea Domnului.
+
+[r1]
+/: Doamne, binecuvântează-i Tu
+Cu a Ta călăuzire,
+Să trăiască-n pace şi iubire
+Până la venirea Ta. :/
+
+[s2]
+Noi vă dorim să fiţi mereu uniţi,
+În fapt, în simţuri şi în gând
+Şi chiar în cea mai grea-ncercare
+Voi mereu să vă iubiţi.
+
+[s3]
+Şi multe binecuvântări am vrea
+Să umple-a voastră inimă
+Şi vrem ca Dumnezeul nostru
+Să-mplinească Voia Sa.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,32 @@
+[s1]
+Dorul meu se avântă
+spre patria mea
+Unde eu în curând voi intra,
+Cu al meu Salvator
+faţă-n faţă voi sta,
+Voi trăi veşnic în slava Sa.
+
+[r1]
+Ce frumoasă cunună atunci voi primi
+Când în patria mea voi sosi!
+Glorioasă va fi, veşnic va străluci,
+Însuşi Domnul mi-o va-mpodobi!
+
+[s2]
+Cât mai sunt pe pământ
+şi de el sunt legat,
+Credincios lucrul
+vreau să-l sfârşesc.
+Am dorinţa să spun
+tuturor de Isus,
+Ca răsplată apoi să primesc.
+
+[s3]
+Încă am de lucrat,
+nu mă tem că e greu,
+Lângă mine e Domnul mereu.
+Mă aşteaptă cununa vieţii de-apoi
+Chiar din mâna Stăpânului meu.
+
+[order]
+s1,r1,s2,r1,s3,r1

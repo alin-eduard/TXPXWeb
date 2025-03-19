@@ -1,0 +1,26 @@
+[s1]
+Cred în jertfa de pe cruce
+Cred în sângele vărsat
+Cred în dragostea Lui dulce
+În Isus ce m-a iertat.
+
+[s2]
+Cred că în orişice floare
+E un strop de har ceresc
+Iar ma sus de stele, soare
+E un loc Dumnezeiesc.
+
+[s3]
+Cred în slăvile divine
+Şi-n pământul ce va fi
+Căci curând Isus iar vine
+Să domnească-n veşnicii
+
+[s4]
+Cred că Dumnezeu e-n tine
+Iar tu eşti în Dumnezeu
+Viaţa de la El îţi vine
+Depărtează-te de rău.
+
+[order]
+s1,s2,s3,s4

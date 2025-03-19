@@ -1,0 +1,56 @@
+[s1]
+Nu te mai plânge creștine
+Si nu fi nemulțumit,
+/: Căci avere ca și tine
+N-are nimeni pe pământ. :/
+
+[s2]
+Comoara ta e acolo unde
+N-o roade molia,
+/: Unde n-o mâncă rugina
+Si hoții n-o pot fura. :/
+
+[s3]
+Tu ai sus în cer o casă
+Pregătită de Isus,
+/: În curând primi-vei dreptul
+în locașul cel de sus. :/
+
+[s4]
+Pentru c-ai crezut în Domnul
+El te-a binecuvântat,
+/: Și pentru că te iubește
+Duhul Sfânt L-ai căpătat. :/
+
+[s5]
+Duhul Sfânt este comoara
+Cea mai scumpă pe pământ,
+/: Dacă L-ai primit măi frate
+Tu esti cel mai fericit. :/
+
+[s6]
+Cine poate să primească
+Ungerea din partea Lui,
+/: Bucura-se-va odată
+În patria Mielului. :/
+
+[s7]
+Duhul Sfânt este arvuna
+Mostenirea cea de veci,
+/: Ea te-nvată limbi străine
+Cu Dumnezeu să vorbesti. :/
+
+[s8]
+Însă nu uita crestine
+Căci vei sta la masa Lui,
+/: Dacă tu vei avea parte
+De Cuvântul Domnului. :/
+
+[s9]
+De păcate, te fereste
+Ca să nu fii amăgit,
+/: În curând sosește Domnul
+Si tu vei fi mântuit. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

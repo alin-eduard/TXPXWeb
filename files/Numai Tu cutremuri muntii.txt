@@ -1,0 +1,22 @@
+[s1]
+Numai Tu cutremuri muntii
+Numai Tu calmezi oceane
+Numai Tu poti tine lumea
+Doar în palma Ta.
+
+[s2]
+Doamne, Tu privesti în mine
+Doamne, Tu mă cureti bine
+Iubirea Ta e asa de mare
+Încât nu înteleg, numai Tu.
+
+[s3]
+Cu-n cuvânt Tu
+ai creat acest pământ
+Stelele si tot ce este-n jur
+Ce e omul să-l atingi cu harul Tău
+Si cine sunt, o Doamne
+ca să-mi stii numele?
+
+[order]
+s1,s2,s3

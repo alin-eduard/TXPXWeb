@@ -1,0 +1,29 @@
+[s1]
+Mă-ncred în Tine, Domnul meu,
+Tu eşti a mea salvare;
+Pe Tine Te privesc mereu
+În sfântă adorare.
+Prin orice vorbă ce rosteşti,
+Prin orice faptă ce-mplineşti,
+Tu mă atragi mai tare.
+
+[s2]
+Mă-ncred în Tine, Domnul meu,
+Şi Te urmez în toate
+Mă schimbă după chipul Tău
+Să-Ţi semăn în dreptate.
+Chiar dacă nu pot să-nţeleg
+Misterul harului întreg,
+Vreau să-Ţi slujesc de-aproape.
+
+[s3]
+Mă-ncred în Tine, Domnul meu,
+Şi-n faptele-Ţi divine.
+Căci chiar în ceasul cel mai greu
+Eu simt că eşti cu mine.
+Mi-ajunge dacă-n lupta mea
+Pot sta mai lângă crucea Ta
+Şi răstignit cu Tine.
+
+[order]
+s1,s2,s3

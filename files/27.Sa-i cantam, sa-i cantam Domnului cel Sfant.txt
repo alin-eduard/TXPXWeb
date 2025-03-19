@@ -1,0 +1,99 @@
+[s1]
+1. Să-I cântăm, să-I cântăm
+Domnului cel Sfânt
+Căci a pus o temelie
+Pe acest pământ
+27.
+
+[s2]
+/: Iată după cum a spus
+Proorocii de demult
+Iată azi s-a împlinit
+Pe acest pământ :/
+
+[s3]
+2. Să-i cântăm, să-i cântăm
+Domnului Isus
+Căci ne-a adus mântuirea
+Din ceruri de sus
+
+[s4]
+/: A venit, a venit
+Isus cel vestit
+Ce proorocii despre El
+Toţi au proorocit :/.
+
+[s5]
+3. Să-i cântăm, să-i cântăm
+Tatălui cel Sfânt
+Căci a pus o temelie
+Pe acest pământ
+
+[s6]
+/: Harul este adevărul
+Şi El a venit
+Şi pe noi cei păcătoşi
+El ne-a mântuit :/.
+
+[s7]
+4. Să-i cântăm, să-i cântăm
+Că aşa e scris
+În psalmul 113
+După cum e scris
+
+[s8]
+/: Să-i cântăm, să-i cântăm,
+Să-i cântăm şi noi
+Ca şi-n psalmul 100
+Cu versetul 2 :/.
+
+[s9]
+5. Să-i cântăm, să-i cântăm
+Să ne veselim
+Şi Scripturile toate
+Să le împlinim
+
+[s10]
+/: Să-i cântăm, să-i cântăm
+Tatălui cel Sfânt
+Că ne-a dat şi o lumină
+Pe acest pământ :/.
+
+[s11]
+6. Să-i cântăm, să-i cântăm
+Pe acest pământ
+Cum apostolii au scris
+Prin Duhul cel Sfânt
+
+[s12]
+/: C-a venit :/
+Domnul nostru Hristos
+Şi-a adus mântuirea
+Celui păcătos :/.
+
+[s13]
+7. Să lucrăm, să lucrăm,
+Să lucrăm şi noi
+La zidirea templului
+Să nu dăm înapoi
+
+[s14]
+/: Căci această temelie
+Pusă pe pământ
+De apostoli şi prooroci
+Prin Duhul cel Sfânt :/.
+
+[s15]
+8. Să luptăm, să luptăm
+Pe acest pământ
+Să fim tare închegaţi
+Prin Duhul cel Sfânt
+
+[s16]
+/: Harul este mântuire
+Că El a venit
+Şi pe noi cei păcătoşi
+El ne-a mântuit :/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12,s13,s14,s15,s16

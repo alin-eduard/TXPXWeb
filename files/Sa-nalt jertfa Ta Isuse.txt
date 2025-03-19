@@ -1,0 +1,26 @@
+[s1]
+Să-nalţ jertfa Ta, Isuse,    FAm
+Mai întâi şi mai deplin,
+Harurile ei aduse
+Şi comorile-i nespuse,
+Iată ce doresc, iată ce doresc,
+Iată ce doresc, Amin!
+
+[s2]
+Să spun despre crucea-ţi Sfântă,
+Despre darul ei divin,
+Azi când lumea se frământă
+Şi pe-a morţii căi se-avântă,
+Iată ce doresc, iată ce doresc,
+Iată ce doresc, Amin!
+
+[s3]
+Să cânt Golgota măreţă
+Într-un cântec mai senin,
+Spre-o eternă dimineaţă;
+Doamne-aprinde-a mea viaţă,
+Iată ce doresc, iată ce doresc,
+Iată ce doresc, Amin!
+
+[order]
+s1,s2,s3

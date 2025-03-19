@@ -1,0 +1,33 @@
+[s1]
+1990   Re m
+1. Către Tine sfinte Doamne
+Strig mereu
+Mă ascultă o Isuse, Domnul meu
+/: Că nu-i nimeni să-mi ajute
+Şi să-mi lege rana mea
+Mă atinge o Isus cu mâna Ta :/.
+
+[s2]
+2. N-am la cine să mă duc
+Cu boala mea
+Numai Tu Isuse mă poţi vindeca
+/: Nici o mână omenească
+Nu mă poate ajuta
+Dar mă-ncred Isus în bunătatea Ta :/.
+
+[s3]
+3. Îmi aduc aminte o Isus al meu
+Cum l-ai vindecat pe orbul Bartimeu
+/: O îndură-te de mine
+Spune numai un cuvânt
+Ca să nu mă bage boala în mormânt:/.
+
+[s4]
+4. Plâng Isuse și mă rog în fața Ta
+Iartă-mi tot ce am greșit în viața mea
+/: Iartă-mă dă-mi vindecare
+Și rămâi Tu Domnul meu
+Ca să fiu un mântuit în raiul Tău :/.
+
+[order]
+s1,s2,s3,s4

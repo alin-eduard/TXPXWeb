@@ -1,0 +1,74 @@
+[s1]
+E timpul să te pregăteşti
+Căci Mirele te-aşteaptă
+Şi dacă nu te hotărăşti
+Vei sta la judecată.
+/: Biserică, biserică,
+biserică apostolică ! :/
+
+[s2]
+De-aceea drumu-i foarte greu
+Şi crucea te apasă
+Priveşte sus la Domnul tău
+Căci El te duce-acasă.
+/: Biserică, biserică,
+biserică apostolică ! :/
+
+[s3]
+Priveşte sus la Golgota
+La Isus, Creatorul
+El a răbdat moartea cu greu
+Să fii tu fericită.
+/: Biserică, biserică,
+biserică apostolică ! :/
+
+[s4]
+Pentru tine El a răbdat
+Dureri şi chinuri grele
+Căci te-a umplut cu Duhul Sfînt
+Ţi-a dat o mîngîiere.
+/: Biserică, biserică,
+biserică apostolică ! :/
+
+[s5]
+Tu te poţi bucura în har
+Să cînţi în limbi străine
+Isus a murit pe Calvar
+Murit-a pentru tine.
+/: Biserică, biserică,
+biserică apostolică ! :/
+
+[s6]
+El nici acum nu-i odihnit
+Mereu te cercetează
+Că-ntotdeauna te-a iubit
+Şi-acum te-nştiinţează.
+/: Biserică, biserică,
+biserică apostolică ! :/
+
+[s7]
+Credinţa ta de la-nceput
+Şi dragostea dintîi
+Acestea dacă le-ai pierdut
+Ce greu are să-ţi fie !
+/: Biserică, biserică,
+biserică apostolică ! :/
+
+[s8]
+Întoarce-te, întoarce-te
+La dragostea dintîi
+Şi vei avea, şi vei avea
+O mare bucurie.
+/: Biserică, biserică,
+biserică apostolică ! :/
+
+[s9]
+Iar dacă nu, iar dacă nu
+Vei fi tu pedepsită
+Nu vei intra, nu vei intra
+În ţara mult dorită.
+/: Biserică, biserică,
+biserică apostolică ! :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

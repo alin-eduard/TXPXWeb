@@ -1,0 +1,26 @@
+[s1]
+1593
+1.Doamne ce-ai văzut în mine
+De Tu m-ai chemat pe nume
+Din lume şi din păcat                       Să mă faci aur curat
+
+[s2]
+2.Tu din ceruri ai venit           Pe Golgota Te-ai jertfit         Sus pe cruce pe calvar                   Ca să-mi dai iertare-n dar
+
+[s3]
+3.Şi acum iată vin la Tine
+Ca să faci ce vrei cu mine
+Să mă îmbraci în alb veşmânt      Să îţi slujesc pân la mormânt
+
+[s4]
+4.Să-ţi fiu martor credincios
+Să-ţi fiu Ţie de folos
+Şi la bine şi la rău                         Împlinind cuvântul Tău
+
+[s5]
+5.Prin necazuri m-ai trecut
+În suferinţă mi-ai fost scut
+Dar în toate Tu mi-ai fost                Şi sprijin şi adăpost
+
+[order]
+s1,s2,s3,s4,s5

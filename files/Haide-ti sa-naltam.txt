@@ -1,0 +1,38 @@
+[s1]
+Pe pământ, în lume aceasta
+Eu sunt un străin
+Călător spre Cer, spre veşnicii
+Nu e mult şi voi ajunge
+Sus în Cerul Sfânt
+Unde voi cânta cu îngerii.
+
+[r1]
+/: Haide-ţi să înăltăm
+Pe Isus Hristos  din inimă
+Pe al nostru Domn şi Mântuitor
+Să-L lăudăm :/
+
+[s2]
+Haide-ţi azi cu toţi
+Să-I cântăm un imn de laudă
+Zi de zi eu vreau Isuse
+Să păşesc mereu către Tine Doamne,
+Prin Harul Tău, să fiu mai aproape,
+De Tine doresc, căci Tu mi-eşti Scut,
+Eşti Domnul meu.
+
+[s3]
+Vântul şi furtuna nu mă vor opri
+Ştiu că întotdeauna cu mine vei fi
+Oricât El le-ar bate nu mai pot opri
+Tu piciorul, Doamne, îmi vei sprijini.
+
+[s4]
+În curând,eu voi ajunge
+Sus în veşnicii
+Unde Dumnezeu ne-a pregătit
+Şi pe străzi de aur voi cânta mereu
+De aceea îî cânt azi Domnului meu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

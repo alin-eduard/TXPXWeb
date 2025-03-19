@@ -1,0 +1,33 @@
+[s1]
+2188
+1. /: Tu ești Doamne Sfântul dar
+Coborât prin mare har :/
+/: Tu ești darul cel mai mare
+Darul cel mai minunat
+Ești izvorul sfânt de viață
+Râul binecuvântat :/
+
+[s2]
+2. /: Tu ești Doamne Stânca mea
+Nicicând nu mă voi clătina :/
+/: Tu ești Stânca mea cea tare
+Tu ești cetățuia mea
+Tu ești zid de apărare
+Tu ești tot ce pot avea :/
+
+[s3]
+3. /: Tu ești bucuria mea
+Îmi tresaltă inima :/
+/: Tu-mi ești Doamne bucuria
+Ce-mi inundă inima
+Sufletu-mi se odihnește
+Numai în prezența Ta :/
+
+[s4]
+4. Tu ești darul
+Tu ești stânca
+/: Tu ești bucuria mea
+Dumnezeul meu în care mă încred și voi scăpa :/
+
+[order]
+s1,s2,s3,s4

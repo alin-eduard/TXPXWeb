@@ -1,0 +1,53 @@
+[s1]
+1625.                              Mim
+1. Să-ţi rămână-ntotdeauna
+Amintirile frumoase
+/:Ce-ţi aduc în suflet pace
+Şi clipe mai bucuroase! :/
+
+[r1]
+Cor:  Cu Domnul mi-a rămas,
+Al dimineţii ceas.
+Cu Domnul mi-a rămas,
+Şi clipele de amiaz’.
+Cu Domnul mi-a rămas,
+Al serii tainic ceas.
+În Domnul mi-am păstrat,
+Tot harul minunat.
+
+[s2]
+2. Să-ţi rămână-ntotdeauna,
+Dulce-al rugii ceas fierbinte!
+/:Numai El păstra-va seva
+Rugăciunii tale sfinte. :/
+
+[s3]
+Cor:  Cu Domnul mi-a rămas,
+Al dimineţii ceas.
+Cu Domnul mi-a rămas,
+Şi clipele de amiaz.
+Cu Domnul mi-a rămas,
+Al serii tainic ceas.
+În Domnul mi-am păstrat,
+Tot harul minunat.
+
+[s4]
+3. Să-ți rămână-ntotdeauna
+Amintirile iubirii,
+/:Ce-ţi păstrează floarea vieţii
+Şi petala pregătirii! :/
+
+[s5]
+4. Să-ţi rămână-n amintire
+Fapte bune şi nu rele!
+/:Căci numai ele salva-vor
+Viaţa ta din chinuri grele. :/
+
+[s6]
+5. Şi atuncea tu vedea-vei,
+Cât de sfânt al rugii ceas
+/:Fost-a pe pământu-acesta
+Chiar la greu şi la necaz. :/
+
+[order]
+s1,r1,s2,s3,s4,r1,s5,r1,s6,r1

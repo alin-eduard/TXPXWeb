@@ -1,0 +1,32 @@
+[s1]
+Isus cu noi slăvit fie El,
+Ce minunat este Emanuel,
+Lăsaţi să curgă cântarea-n şuvoi,
+Mântuitorul e astăzi cu noi!
+
+[r1]
+Isus cu noi ce har minunat,
+Să-I mulţumim pentru tot ce ne-a dat,
+El ne trimite-ale harului ploi,
+Învăţătorul e astăzi cu noi.
+
+[s2]
+Isus cu noi cântaţi slava Sa,
+Prezenţa Lui ne va înviora,
+Pe căi de munte, prin vânturi şi ploi,
+Învăţătorul e astăzi cu noi!
+
+[s3]
+Isus cu noi, Păstorul divin,
+Ne dă azi dragostea Sa pe deplin,
+Ca bun păstor se-ngrijeşte de oi,
+Ocrotitorul e astăzi cu noi!
+
+[s4]
+Isus cu noi, El e Dumnezeu,
+Pe calea Lui ne conduce mereu,
+Cu El dispar greutăţi şi nevoi,
+Biruitorul e astăzi cu noi!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

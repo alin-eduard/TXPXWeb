@@ -1,0 +1,35 @@
+[s1]
+Sa nu ucid lumina
+În mine să iau seama
+/: Prin fapte-ntunecate,
+nici prin momeli sau teama :/
+
+[s2]
+Lumina lumina, Isus e lumina
+Ca Tine Tu ne-ai asezat
+Lumina-n toate neincetat
+
+[s3]
+Aceasta e menirea
+în lumea cea de tină
+/: Să-mi fie viata sfesnic
+si-a Domnului lumina :/
+
+[s4]
+Lumină lumină, Isus e lumină
+Ca Tine Tu ne-ai asezat
+Lumina-n toate neincetat
+
+[s5]
+Si vreau Isuse Doamne,
+sa-ti fiu in mana sfanta
+/: Spre slava Ta-n vecie,
+lumina care-ti canta :/
+
+[s6]
+Lumină lumină, Isus e lumina
+Ca Tine Tu ne-ai asezat
+Lumina-n toate neincetat
+
+[order]
+s1,s2,s3,s4,s5,s6

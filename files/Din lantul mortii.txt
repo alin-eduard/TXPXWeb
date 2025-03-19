@@ -1,0 +1,32 @@
+[s1]
+Din lanţul morţii şi mormânt
+Hristos a înviat!
+Prin moarte moartea biruind,
+Hristos a înviat!
+Trăieşte El, Cel răstignit,
+Ce moartea-n veci a biruit.
+Slăviţi-L ne-ncetat,
+Hristos a înviat!
+
+[s2]
+Maria vine-n zori
+cu sufletu-ntristat.
+Mormântu-i gol;
+Ce poate fi? Hristos a înviat!
+Şi îngerii în ceruri sus
+Îi cântă slavă lui Isus;
+Slăviţi-L ne-ncetat,
+Hristos a înviat!
+
+[s3]
+Prin moartea Lui în greul chin,
+cu Tatăl ne-a-mpăcat.
+Prin viaţa Lui acum trăim;
+Hristos a înviat!
+Ce har măreţ ne-a dăruit!
+Credinţa-n El ne-a mântuit.
+Slăviţi-L ne-ncetat,
+Hristos a înviat!
+
+[order]
+s1,s2,s3

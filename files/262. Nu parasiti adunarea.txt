@@ -1,0 +1,46 @@
+[s1]
+1. Nu părăsiţi adunarea
+Aşa scrie la Evrei
+Nu părăsiţi adunarea
+Cum au unii obicei.
+262.
+
+[r1]
+Cor:
+Fraţi, surori cu toţi de-aici
+Adunarea s-o iubiţi
+Cuvântul voi ascultaţi
+Înapoi să nu vă daţi.
+
+[s2]
+2. Când intraţi în adunare
+V-aşezaţi cu toţi la loc
+Nu vorbiţi de ale lumii
+În al Domnului sfânt loc.
+
+[s3]
+3. Când se predică Cuvântul
+Aveţi grijă nu dormiţi
+C-atunci voi astfel de Domnul
+Veţi fi aspru pedepsiţi.
+
+[s4]
+4. Vai de cel care trăieşte
+Fără grijă în Sion
+Când se citeşte Cuvântul
+Ei sunt liniştiţi şi dorm.
+
+[s5]
+5. Când plecaţi din adunare
+Mergeţi cu toţi liniştiţi
+Ca oricine să cunoască
+Că voi sunteţi mântuiţi.
+
+[s6]
+6. Pocăinţa să se vadă
+Cât în viaţă veţi trăi
+Pân' ce Domnul o să vină
+Şi în slavă v-o răpi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

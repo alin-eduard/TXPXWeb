@@ -1,0 +1,37 @@
+[s1]
+Pentru hrana ce-­o avem,
+Pentru apa ce o bem,
+Pentru lanul cel cu rod,
+Pentru viaţa ce­i în bob,
+
+[r1]
+Pentru toate ce primim,
+Doamne Ţie­-Ţi mulţumim,
+Ţie slavă, în veci, Amin!
+
+[s2]
+Pentru pace cu vecini,
+Pentru răni ce le alini,
+Pentru nori şi curcubeu
+Ce ne spun de Dumnezeu,
+
+[s3]
+Pentru harul dovedit,
+Pentru raiul pregătit,
+Pentru jertfa lui Isus
+Nu­-s cuvinte îndeajuns,
+
+[s4]
+Pentru soare, pentru ploi,
+Pentru Duhul Tău din noi
+Nu se poate mulţumi,
+Mii de vieţi de am trăi,
+
+[s5]
+Pentru Sfântul Tău Cuvânt,
+Pentru Duhul Tău cel Sfânt,
+Pentru viaţa ce ne­-ai dat,
+Doamne fii i­n veci lăudat!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

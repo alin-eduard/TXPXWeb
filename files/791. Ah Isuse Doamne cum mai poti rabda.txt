@@ -1,0 +1,58 @@
+[s1]
+1. Ah, Isuse Doamne
+Cum mai poţi răbda
+Forma de credinţă
+Ce-nşeală lumea
+791.
+2. Cum mai poţi răbda
+Scumpul nostru Domn
+Durerea şi amarul
+La oricare om
+
+[s2]
+3. Ah, Isuse Doamne
+Cum Te-au mai bătut
+Acei farisei ca nişte călăi
+4. Dar Tu ai răbdat
+Pe acei haini
+Când Ţi-au pus cununa
+Aceea de spini.
+
+[s3]
+5. Crucea Ţi-a fost grea
+Până la mormânt
+Să poţi da iertare
+Celui amărât
+6. Iar voi fraţilor
+Ce vă depărtaţi
+De la Domnul sfânt
+De lângă cuvânt.
+
+[s4]
+7. O să vă căiţi
+De tot ce aţi făcut
+Căci vă bateţi joc
+De cuvântul sfânt
+8. Şi nu vrei s-asculţi
+Te-mpietreşti şi stai
+Iubind numai lumea
+Dar vei zice vai.
+
+[s5]
+9. Dumnezeu te cheamă
+La El ca să vii
+Rupe-o cu păcatul
+Şi predă-te Lui.
+10. El plin de iubire
+Te aşteaptă să vii
+Şi alături de dânsul
+Să stai în veşnicii
+
+[s6]
+11. Căci toate or pieri,
+Plânsul n-a mai fi
+Sfântă bucurie
+Va fi pururea.
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,38 @@
+[s1]
+Pocainta este calea
+Care duce la izvor,
+Unde curge apa vie
+Pentru orice muritor.
+Pocainta este calea,
+Cea mai buna dintre cai
+Care-ndreapta, spre izbanda,
+Pasii celor buni si rai.
+
+[r1]
+/: Azi, sa te predai!
+Azi, ridica mana sus!
+Nu-nalta castel de pai,
+Stai pe stanca lui Isus! :/
+
+[s2]
+Pocainta este calea
+Care duce spre Isus;
+Ea ne-a scos din groapa mortii
+Si la viata ne-a adus.
+Pocainta este calea
+Din atatea mii si mii,
+Cea mai dreapta cale
+Care ne va duce-n vesnicii.
+
+[s3]
+Pocainta este calea
+Ce te poarta-n gand curat
+Si te-nvata sa te lepezi,
+Pe vecie, de pacat.
+Pocainta te desparte
+De pacate si de rau
+Si te-ndreapta, dupa fapte,
+Spre Isus, spre Dumnezeu.
+
+[order]
+s1,r1,s2,r1,s3,r1

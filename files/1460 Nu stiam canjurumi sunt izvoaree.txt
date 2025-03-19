@@ -1,0 +1,29 @@
+[s1]
+1460.    Re M
+Nu ştiam că-njuru-mi sunt izvoare
+Nu ştiam de oaza din pustiu
+/:Aşteptam să vină corbi în zare
+Aşteptam sfârşitul meu târziu:/
+Mi-am plimbat privirea peste dune
+Şi-am văzut pustiul gol şi sterp
+/:Am simţit fiorul morţii-n mine
+Tot mai mult mă apăsa în piept:/
+
+[s2]
+Chinuit de arşiţa toridă
+Copleşti de-al morţii evantai
+/:M-am trezit la vocea Ta cea blândă
+Tocmai Tu o tocmai Tu erai:/
+N-am ştiut Isuse că din Tine
+Curg izvoare limpezi de cristal
+/:N-am ştiut că setea arsă-n mine
+Numai Tu ai stins-o cu al Tău har:/
+
+[s3]
+Dacă vrei şi tu amice dragă
+Focul inimii din piept să-l stingi
+El îţi vindecă fiinţa-ntreagă
+Vin la El la pieptu-i drag să plângi.
+
+[order]
+s1,s2,s3

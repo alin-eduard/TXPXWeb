@@ -1,0 +1,20 @@
+[s1]
+Pentru Domnul, iară, slavă si mărire
+toti copiii vom cânta
+Clopotei de soapte despre-a ei iubire
+îi vom face osana!
+
+[r1]
+Cântăm frumos, mereu tot mai frumos,
+Bun Isus iubirea Ta,
+Clopotei de soapte, inimile noastre
+Azi le facem Osana.
+
+[s2]
+Pentru Domnul, iară, sună-n inimi,
+sună glasul unei dulci iubiri
+Adunăm în grabă gânduri de lumină
+în buchet de străluciri
+
+[order]
+s1,r1,s2,r1

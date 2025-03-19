@@ -1,0 +1,33 @@
+[s1]
+1. Cu tot întregul meu amar,
+Cu multele-mi suspine,
+Cu plânsul fără de hotar,
+Isuse vin la Tine.
+137.                  Re m
+
+[r1]
+Cor:/: Primeşte-mă cum sunt,
+Cu multele-mi greşeli;
+Şi spală-mă, Isuse scump
+În jertfa milei Tale. :/
+
+[s2]
+2. În faţa Ta îngenunchez
+Cu lacrimile-amare.
+Te rog, Isuse, îndurat,
+Să-mi dai şi-acum iertare.
+
+[s3]
+3.Sunt păcătos, sunt vinovat,
+Sunt plin de fapte rele,
+Dar vin, Isuse-ndurerat
+Sub crucea Ta cu ele.
+
+[s4]
+4. Primeşte-mi toată viaţa mea
+Și-n slujba Ta mă Ține,
+Ca-n clipa când mă vei chema
+Să pot veni la Tine.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,26 @@
+[s1]
+Toată viaţa am căutat
+Un prieten adevărat
+Şi orişiunde am umblat
+Pe Isus L-am aflat.
+
+[r1]
+/: Am nevoie de Isus
+Am nevoie de dragostea Sa
+Am nevoie de Isus
+Numai El mă poate ajuta :/
+
+[s2]
+Când eu nu mă aflu-n suferinţi
+La Isus mă gândesc
+Şi-n rugăciunile fierbinţi
+Prin El mă întăresc.
+
+[s3]
+Pe Isus eu doresc să-L am
+În inimă mereu.
+Viaţa-ntreagă ne-ncetat
+Să umblu doar cu El.
+
+[order]
+s1,r1,s2,r1,s3,r1

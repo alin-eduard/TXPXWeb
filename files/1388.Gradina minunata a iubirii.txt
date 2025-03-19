@@ -1,0 +1,74 @@
+[s1]
+1388.
+1.  Grădina minunată a iubirii
+Grădină Sfântă a Lui Isus
+E iar săracă, roade nu-s
+Si grădinaru-şi plânge trandafirii
+Curg lacrimi azi din ochii Lui Isus.
+Cor:   Unde eşti, unde eşti
+Unde eşti grădina Mea
+Unde e, unde e sfinţenia ta
+Unde e podoaba ta.
+
+[s2]
+Sa scuturat în ea sămânţa firii
+Şi-au crescut ramuri ce aduc doar spini
+Şi poartă nume de creştin
+Şi grădinaru-şi plânge trandafirii
+Înăbuşiţi de umbra celor spini.
+Cor:   Unde eşti, unde eşti
+Unde eşti grădina Mea
+Unde e, unde e sfinţenia ta
+Unde e podoaba ta.
+
+[s3]
+/: De ce nu :/ rodiţi frumos
+/: De ce staţi :/ fără folos
+De ce staţi plecaţi în jos.
+Cor:   Unde eşti, unde eşti
+Unde eşti grădina Mea
+Unde e, unde e sfinţenia ta
+Unde e podoaba ta.
+
+[s4]
+Petale multe pradă nimicirii
+Au căzut jos s-au vestejit
+N-am adus roadă potrivit
+Şi grădinaru-şi plânge trandafirii
+Căci florile din nou  s-au vestejit.
+Cor:   Unde eşti, unde eşti
+Unde eşti grădina Mea
+Unde e, unde e sfinţenia ta
+Unde e podoaba ta.
+
+[s5]
+5.  /: Fără rod :/  nu poţi să fii
+/ Cu ai  Lui /  domnului copii
+Sus în Rai în veşnicie.
+Cor:   Unde eşti, unde eşti
+Unde eşti grădina Mea
+Unde e, unde e sfinţenia ta
+Unde e podoaba ta.
+
+[s6]
+Tu trandafir pe calea mântuirii
+E timpul azi ca să rodeşti
+De vrei ca-n slăvile cereşti
+Să fii sădit în ziua minunată
+Şi casa Lui Isus s-o împodobeşti.
+Cor:   Unde eşti, unde eşti
+Unde eşti grădina Mea
+Unde e, unde e sfinţenia ta
+Unde e podoaba ta.
+
+[s7]
+7.  /: Dacă vrei :/ să ajungi în Rai
+/: Urcă azi :/ la Golgota
+Domnul îţi va ajuta.
+Cor:   Unde eşti, unde eşti
+Unde eşti grădina Mea
+Unde e, unde e sfinţenia ta
+Unde e podoaba ta.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

@@ -1,0 +1,15 @@
+[s1]
+Iubiţi pe vrăjmașii voştri
+Faceţi bine când vă urăsc
+Binecuvântații cand vă blastămă
+Rugaţi-vă pentru cei pierduţi
+Rugaţi-vă pentru cei căzuţi.
+
+[s2]
+/: Roagă-te, Tatăl te va asculta
+Roagă-te, cu Isus poţi răbda
+Roagă-te, Duhul Sfânt te va-ndruma
+Roagă-te, credinţa ta te va salva. :/
+
+[order]
+s1,s2

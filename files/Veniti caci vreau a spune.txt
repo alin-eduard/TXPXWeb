@@ -1,0 +1,37 @@
+[s1]
+Veniţi căci vreau a spune
+Ce face Dumnezeu
+Voi, sufletelor bune
+Cântaţi cum cânt şi eu,
+V-o spun cu bucurie,
+Azi am Mântuitor,
+Şi ce mi-a dat El mie
+El dat-a tuturor.
+
+[r1]
+Veniţi căci vreau a spune
+Ce face Dumnezeu
+Voi, sufletelor bune
+Cântaţi cum cânt şi eu!
+
+[s2]
+Nu poate fi mai mare
+Minune jos, nici sus,
+Decât că fiecare
+Trăieşte prin Isus,
+Eram pierdut, şi morţii
+Ne dasem tu şi eu,
+Azi renăscuţi cu toţii
+Mărim pe Dumnezeu!
+
+[s3]
+O spun şi-mi place-a spune
+Şi n-aş mai termina,
+Cântarea-mi să răsune,
+S-audă cine vrea,
+Şi cine auzi-va întoarcă-se 'napoi
+Odihnă el găsi-va
+De va cânta cu noi!
+
+[order]
+s1,r1,s2,r1,s3,r1

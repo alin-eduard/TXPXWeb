@@ -1,0 +1,38 @@
+[s1]
+1.Într-o iesle din Iudeea
+S-a născut Mântuitorul
+Aşa cum a spus Isaia
+Se va naşte Salvatorul
+1093.
+
+[s2]
+Numele Lui e ISUS
+Care viaţă ne-a adus
+Cel ce este Împărat
+Veşnic să fie lăudat
+
+[s3]
+2.Nişte magi din depărtare
+Au zărit pe cer o stea
+Au pornit cu toţi pe cale
+Să-L caute pe Mesia
+
+[s4]
+Până-n Betleem, la staul
+Steaua i-a călăuzit
+Să-şi aducă a lor daruri
+Celui care S-a născut.
+
+[s5]
+3.Aur, smirnă şi tămâie
+Pruncului ei I-au adus
+Şi s-au închinat îndată
+Regelui Cel Sfânt, Isus
+
+[s6]
+Haideţi de acum şi noi
+Să ne închinăm mereu
+Celui care ne-a salvat       Mulţumind lui Dumnezeu
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,52 @@
+[s1]
+1. Pregătire strigă Duhul Sfânt
+O, poporul meu de legământ
+/:Pregătire, pregătire
+Că nu-i mult şi Domnul vine
+Pregătire strigă Duhul Sfânt.:/
+700.   								   Re
+
+[s2]
+2. Pregătire strigă Duhul Sfânt
+O, biserică de pe pământ
+/:Pregăteşte-te mereu,
+Să-ntâlneşti pe Dumnezeu
+Pregătire strigă Duhul Sfânt.:/
+
+[s3]
+3. Pregătire strigă Duhul Sfânt
+O, mireasa mea de pe pământ
+/:Pregăteşte-te mereu
+Să-ntâlneşti pe Dumnezeu
+Pregătire strigă Duhul Sfânt.:/
+
+[s4]
+4. Pregătire că Isus pe nori
+Va apare ca Judecător
+/:Ca să judece lumea
+Pe cei ce n-or asculta
+Şi nu au crezut în jertfa Sa.:/
+
+[s5]
+5. O, popor ce-ai fost răscumpărat
+Prin sângele lui Isus vărsat
+/:Deşteptare, deşteptare
+Căci curând Domnul apare
+Deşteptare strigă Duhul Sfânt.:/
+
+[s6]
+6. Ziua Domnului vine-n curând
+Aşa strigă astăzi Duhul Sfânt
+/:Şi atunci Domnul îşi va lua
+Sus la El Mireasa Sa
+Şi cu El în veci ne-om bucura.:/
+
+[s7]
+7. Ce frumos va fi în ceruri sus
+Când vom fi la masă cu Isus
+/:Ce frumos atunci va fi
+Când Isus ne va servi
+Şi de El nu ne-om mai despărţi.:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

@@ -1,0 +1,33 @@
+[s1]
+861.
+A noastre inimi se ridică
+Mai sus de norul de fum
+O clipă dar o turmă mică
+Şi apoi sfârşi-vom greul drum.
+La capăt Tu ne aştepţi Isuse
+Să ne ridici orice dureri
+Şi a noastre suferinţi nespuse
+Se vor preface în mângâieri.
+
+[s2]
+3.  Şi vom sfârşi pentru totdeauna
+Cu lupta de pe acest pământ
+Şi ne vei da atunci cununa
+Ce ne-ai păstrat-o în cerul sfânt.
+4.  O, ce nespuse bucurii
+În cer cu îngerii mii de mii
+Ne vom uni într-o simţire
+Cânta-vom sfinte melodii.
+
+[s3]
+5.   La nesfârşita sărbătoare
+O lume întreagă va privi
+Isus ca Mire şi ca soare
+Pe veci de veci va străluci.
+6.  Dar până-n ziua Ta cea mare
+Când toate acestea s-or schimba
+Tu să ne fii în veci scăparea
+Căci lumea este foarte rea.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,36 @@
+[s1]
+Haideţi, să cântăm
+Cu veselie Domnului
+Şi să strigăm de bucurie
+Către stânca mântuirii noastre !
+Înaintea Lui
+Să mergem toţi cu laude
+/:Cântaţi-I cântece:/
+Cântaţi-I cântece, o,
+În cinstea Lui !:/
+
+[s2]
+Domnul este-un mare Împărat
+Marea şi uscatul le-a creat !
+Domnul este-un mare Dumnezeu
+Numai El e Creatorul meu !
+
+[s3]
+Haideţi, să cântăm
+Cu veselie Domnului
+Şi să strigăm de bucurie
+Către stânca mântuirii noastre !
+Înaintea Lui
+Să mergem toţi cu laude
+/:Cântaţi-I cântece:/
+Cântaţi-I cântece, o,
+În cinstea Lui !
+
+[s4]
+Să ne închinăm, să ne smerim
+Să plecăm genunchii, să-L slăvim !
+Noi suntem poporul Domnului
+Nu putem fi smulşi din mâna Lui !
+
+[order]
+s1,s2,s3,s4

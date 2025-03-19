@@ -1,0 +1,24 @@
+[r1]
+/: Venim să-L adorăm
+Pe Isus, aici prezent
+Venim să-L adorăm
+În Preasfântul Sacrament :/
+
+[s1]
+Tu lumină, în suflet
+Şi putere îmi dai
+Mă conduci pe drumul drept
+Şi când vin slabiciunile
+Am cazut, în păcat
+Tu mă ajuţi să mă ndrept.
+
+[s2]
+Tu, prezent între oameni
+Ai rămas şi mereu
+Tu ne chemi, în Casa Ta
+Că aici, impreună
+Mai puternici, să fim
+Rugăciuni vom înalta.
+
+[order]
+r1,s1,r1,s2,r1

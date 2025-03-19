@@ -1,0 +1,38 @@
+[s1]
+Nimic nu sunt, un strop de tină
+În care-ai pus un bob de grâu
+Un ciob în care-aprinzi lumină
+Un spin din care scoţi un râu
+
+[s2]
+Nimic nu sunt, o trestie frântă
+Din care faci toiag de fier
+O luminiţă fumegândă
+Ce mâine fi-va stea pe cer
+
+[s3]
+Nimic nu sunt, un rob netrebnic
+Chemat ca jugul Tău să port
+Să dau deoparte piatra rece
+Când Tu dai viaţă celui mort
+
+[s4]
+Nimic nu sunt, o cupă spartă
+Din care faci un heruvim,
+Sunt omul care Te-am dat la moarte
+Fără să-mi pese de-al Tău suspin.
+
+[s5]
+Nimic nu sunt, dar Tu eşti totul
+Şi Tu Te-ai dat ca preţ al meu
+Făcând din pieptul meu chivotul
+Ce poartă-n el pe Dumnezeu
+
+[s6]
+Nimic nu sunt, nimic sub Soare
+Dar Tu-ai dat pentru nimic
+În veci să fii mereu mai mare
+Iar eu în veci mereu mai mic
+
+[order]
+s1,s2,s3,s4,s5,s6

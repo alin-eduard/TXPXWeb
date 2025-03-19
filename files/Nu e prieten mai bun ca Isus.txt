@@ -1,0 +1,32 @@
+[s1]
+Nu e prieten mai bun ca Isus,
+Nimeni nu­i ca Isus.
+Nu este medic mai bun ca Isus,
+Nimeni nu­i ca Isus.
+
+[r1]
+Doar Isus ştie viaţa mea,
+Numai El poate ajuta!
+Nu­i alt prieten mai bun ca Isus,
+Nimeni nu­i ca Isus.
+
+[s2]
+Nu­i sfânt, nu­i tare cum este Isus,
+Nimeni nu­i ca Isus.
+Nu­i mai aproape de noi ca Isus,
+Nimeni nu­i ca Isus.
+
+[s3]
+Nu e statornic cum este Isus,
+Nimeni nu­i ca Isus.
+Nici nu iubeşte aşa ca Isus,
+Nimeni nu­i ca Isus.
+
+[s4]
+Pe­ai Săi aleşi i­a lăsat El cândva?
+Nicicând nu, nicicând nu.
+A scos afară El pe cineva?
+Nicicând nu, nicicând nu!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

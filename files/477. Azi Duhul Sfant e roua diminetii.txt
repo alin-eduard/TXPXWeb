@@ -1,0 +1,43 @@
+[s1]
+1. Azi Duhul Sfânt e roua dimineţii
+Peste poporul cel răscumpărat,
+E aurora, bucuria vieţii,
+Puterea Celui ce ne-a mângâiat.
+477              								     Mi
+
+[r1]
+Cor:
+Azi Duhul Sfânt e-o binecuvântare
+A mângâierilor de la Rusalii;
+E-o ploaie mai târzie pe ogoare
+Care ne dă speranţe
+tot mai mari.
+
+[s2]
+2. Azi Duhul Sfânt
+aprinde-n noi lumina,
+Ne lămureşte scopul jertfei Lui,
+Ne curăţeşte, să primim arvuna,
+Cununa slavei, haina Mielului.
+
+[s3]
+3. Azi Duhul Sfânt
+ne-nflăcărează dorul
+Să-L preamărim pe Răscumpărător;
+Ne umple de putere Creatorul,
+Putere din izvor mângâietor!
+
+[s4]
+4. Azi Duhul Sfânt ne este Călăuză
+Pe calea care duce către cer
+Ne este şi Mângâietorul nostru
+În griji, necaz, suspine şi dureri!
+
+[s5]
+5. Azi Duhul Sfânt lucrează cu putere
+În poporul cel Sfânt şi credincios
+Şi ne dă din darurile Sale
+Celor ce-s predaţi lui Isus!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

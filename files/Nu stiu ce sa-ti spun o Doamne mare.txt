@@ -1,0 +1,37 @@
+[s1]
+Nu ştiu ce să-Ţi spun, o Doamne mare
+Pe genunchi eu mă pun
+Şi stau până doare.
+Şi ganduri adun în mintea mea plină
+Şi lacrimi îmi curg, şi vocea-mi suspină.
+Ştiu greşeli ce-am făcut
+Şi ştiu că Te doare
+Vreau să lupt zi de zi
+Dar parcă firea nu moare
+Aş zbura de aici către bolta senină
+Vreau să merg spre lumină.
+
+[r1]
+Privesc spre ceruri zi de zi
+Ce am în inimă Tu ştii
+Vrei Tu, o, Doamne să mă ierţi
+O, ţine-mă la piept cum ştii,
+Ridică-mă între cei vii,
+Leagă-mi Tu rănile ce dor.
+
+[s2]
+Nu mă duc nicăieri,
+Eu Te am doar pe Tine
+Doamne Tu m-ai creat
+Tu eşti Cel ce mă ţine.
+Nu lăsa Tu nimic Doamne să ne despartă
+Vreau să-Ţi dau viaţa toată
+Vreau să-Ţi dau viaţa toată.
+
+[s3]
+Eşti Domnul meu
+mă-nchin doar Ţie,
+Mă leg de Tine pe vecie.
+
+[order]
+s1,r1,s2,r1,s3

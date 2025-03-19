@@ -1,0 +1,35 @@
+[s1]
+Pentru soare și ploaie,
+răsărit si amurg
+Zâmbet și lacrimi,
+pentru tot ce primim
+Îti multumim, îti multumim.
+Pentru dulcea chemare
+si harul primit
+Clipe sublime ce-n veci n-au șfârșit
+Îti multumim, îti multumim.
+Mi b
+
+[r1]
+Îti multumim , Te lăudăm
+Harul iertării și viața-am primit.
+Cerul ni L-ai deschis, în veci fii slăvit
+Îti multumim, Te lăudăm.
+
+[s2]
+Pentru focul sfințirii si dulce cuvânt
+Vina iertată si sfânt legământ
+Îti multumim, îti multumim.
+Pentru buna povață și albul vesmant
+Drumul spre glorii
+si drumul spre mormant
+Îti multumim, îti multumim
+
+[s3]
+Îti multumim, Te lăudăm
+Recunostință din inmă-Ți dăm,
+Vrednic ești și vei fii, în veci fii slăvit.
+Țti multumim, o Doamne-n vecii. /2x
+
+[order]
+s1,r1,s2,r1,s3

@@ -1,0 +1,43 @@
+[s1]
+1342.
+1.  Rămân cu Tine Domnul meu
+În orice împrejurare
+Păstrează-mi inima mereu
+În har încrezătoare.
+Cor: Rămân, rămân iubit stăpân
+În Tine-ascuns pe veci rămân
+Când trec prin greu la sânul Tău
+Sunt ocrotit şi-s fericit.
+
+[s2]
+Rămân cu sfântul adevăr
+Când gust a vieţii cale
+Nu las nicicând un fir de păr
+Din cartea vieţii Tale.
+Cor: Rămân, rămân iubit stăpân
+În Tine-ascuns pe veci rămân
+Când trec prin greu la sânul Tău
+Sunt ocrotit şi-s fericit.
+
+[s3]
+3.  Rămân cu Tine liniştit
+Rămân până la moarte
+În cerul Tău ce mi-ai gătit
+Să am şi eu o parte.
+Cor: Rămân, rămân iubit stăpân
+În Tine-ascuns pe veci rămân
+Când trec prin greu la sânul Tău
+Sunt ocrotit şi-s fericit.
+
+[s4]
+4.  Rămân cu Tine căci Tu-mi eşti
+Iubirea ce mă ţine
+Stăpân al slăvilor cereşti
+Rămân, rămân cu Tine.
+Cor: Rămân, rămân iubit stăpân
+În Tine-ascuns pe veci rămân
+Când trec prin greu la sânul Tău
+Sunt ocrotit şi-s fericit.
+
+[order]
+s1,s2,s3,s4

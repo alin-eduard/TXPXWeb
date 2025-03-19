@@ -1,0 +1,20 @@
+[s1]
+Este un vânt ce-adie
+Vine din înalt
+Ca o mângâiere, suflă peste noi.
+
+[r1]
+E Duhul Domnului
+A fost făgăduit
+Şi a fost trimis.
+/: El e aici lângă tine
+Poţi să-l atingi. :/
+
+[s2]
+Ploia care vine
+De la Dumnezeu
+Curge peste Tine,
+Belşug din Harul Său.
+
+[order]
+s1,r1,s2,r1

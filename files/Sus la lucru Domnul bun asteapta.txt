@@ -1,0 +1,33 @@
+[s1]
+Sus la lucru, Domnul bun aşteaptă
+Din averea ta să dăruieşti,
+Partea Lui să n-o opreşti vreodată
+Cu-ale tale daruri să-L cinsteşti.
+
+[r1]
+Azi dăruieşte şi fii bucuros
+Că al tău prinos
+Comori de slavă
+Strânge-n ceruri la Hristos!
+
+[s2]
+Nu uita că-n pragul
+Tău chiar Domnul
+A venit prin cei săraci şi goi.
+Cât ar vrea să îţi alunge somnul
+Şi s-ajuţi pe cei ce-s în nevoi.
+
+[s3]
+El îţi umple de belşug căminul
+Când din pâinea ta cu drag împarţi,
+Când alini durerea şi suspinul
+Şi sărmanii lumii îţi sunt fraţi.
+
+[s4]
+Poţi să dai ce ai mai scump în viaţă
+Celui ce viaţa Lui ţi-a dat?
+Poţi să Îl priveşti pe Domnu-n faţă
+Şi să-i spui că totul I-ai predat?
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

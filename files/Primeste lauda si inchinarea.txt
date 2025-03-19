@@ -1,0 +1,15 @@
+[s1]
+/: Primeşte lauda şi închinarea
+Tată din ceruri Te slăvim :/
+
+[s2]
+Cu tot ce avem ne inchinăm
+In faţa Ta stapâne
+Onoare şi mărire Ţie îţi dăm
+Prin Duhul Sfânt să lucrezi
+Fă-Ţi numele de slavă
+Prezenţa Ta s-o vadă
+Toţi cei ce cred.
+
+[order]
+s1,s2

@@ -1,0 +1,27 @@
+[s1]
+1054                                                               re m
+Pe pământ avem de toate
+Și mai bune și mai rele
+Dar în cer avem un frate
+Dincolo de stele
+
+[r1]
+El e Calea,Adevărul
+El dă pace, bucurie
+El a dat morţilor viaţă
+Şi mi-a dat şi mie
+
+[s2]
+2.N-am ştiut că am un frate
+Ce a îndurat crucea cumplită
+Şi ne-a dat prin a Lui moarte
+Viaţă nesfârşită
+
+[s3]
+3.Mi-a vorbit cu vocea-I blândă:
+Dacă vrei să-ţi fie bine
+Poartă-ţi şi tu a ta cruce
+Vino după Mine.
+
+[order]
+s1,r1,s2,r1,s3,r1

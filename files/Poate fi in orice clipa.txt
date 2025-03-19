@@ -1,0 +1,62 @@
+[s1]
+Poate fi în orice clipă
+Revenirea lui Isus
+S-ar putea să fie noaptea
+Când va coborî de sus
+S-ar putea să te surprindă
+Când Îl vei vedea venind
+De aceea să fii gata
+Să-L întâmpini orişicând
+
+[s2]
+Eu aştept în orice clipă
+Glasul trâmbiţei de sus
+Când trompetele răsună
+Universul e supus
+Fericit voi fi atunci
+Când va fi să vină iar
+Când voi sta faţă în faţă
+Transformat voi fi prin har
+
+[s3]
+S-ar putea în orice clipă
+Să revină printre nori
+Să ai viaţa pregătită
+Nu numai de sărbători
+Deci în lupta cu păcatul
+Ţine garda tot mai sus
+Crede că va fi aievea
+Revenirea lui Isus
+
+[s4]
+Te-aşteptăm în orice clipă
+Vino Doamne mai curând
+Când trompetele răsună
+Judecata anunţând
+Vom fi fericiţi de-a pururi
+În viaţa de apoi
+Să formăm a Ta Mireasă
+Vino Doamne iar la noi
+
+[s5]
+Noi vom părăsi pământul
+Cu cei sfinţi vom fi răpiţi
+Şi vom fi cu El în slavă
+Sus în ceruri răsplătiţi
+Toată truda şi durerea
+Pentru noi se va topi
+Va rămâne bucuria
+Cu Isus în veşnicii
+
+[s6]
+Ce frumoasă va fi ziua
+Când Isus va reveni
+Când trompetele răsună
+Toţi cei sfinţi cu El vor fi
+Faţa-I binecuvântată
+Bucuroşi o vom vedea
+Când pe nori Mântuitorul
+Va răpi Biserica
+
+[order]
+s1,s2,s3,s4,s5,s6

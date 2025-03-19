@@ -1,0 +1,49 @@
+[s1]
+1391.
+1.   Betleeme, Betleeme
+De ce n-ai primit în tine
+Pe fecioara Maria
+Să nască pe Mesia.
+2.   N-ai ştiut tu Betleeme
+Cu cătă dragoste vine
+Cea mai sfântă-ntre fecioare
+A Domnului născătoare.
+
+[s2]
+În casele tale bune
+N-ai avut loc Betleeme
+Să-i dai un micuţ sălaş
+Celui mai Sfânt copilaş.
+4.  Ieslea cea mai friguroasă
+A fost a Domnului casă
+La venirea Lui  în lume
+De ziua ta Betleeme.
+
+[s3]
+Tu singur nu l-ai primit
+Pe Isus când a venit
+Pat moale şi scutece
+I-a fost ieslea vitelor.
+6.  Iar în ieslea vitelor
+S-a născut Blândul Păstor
+În apropierea Sa
+Păstorii oi îşi păzea.
+
+[s4]
+Dar iată-naintea lor
+Un Înger strălucitor
+Şi-o lumină strălucitoare
+A pus păstorii-n mirare.
+8.  Nu vă temeţi ce o să fie
+Vă vestesc o bucurie
+Mare pentru-ntreg poporul
+S-a născut Mântuitorul.
+
+[s5]
+9.  Azi şi noi toţi împreună
+Vă aducem vestea bună
+S-a născut Isus Hristos
+Fie-ne de mult folos.
+
+[order]
+s1,s2,s3,s4,s5

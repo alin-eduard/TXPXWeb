@@ -1,0 +1,32 @@
+[s1]
+1715.   								  Do m
+1.Suntem trecători
+Suntem călători
+Porniţi înspre ţara de vis
+Oriunde am fi
+Oriunde ne-am găsi
+Nu va fi nicicând ca-n Paradis
+
+[r1]
+Cor:
+/:Acolo ne este ţara
+Promisă de Isus
+Cerul sfânt patria dorită
+Ţara cea de sus:/
+
+[s2]
+2. Suntem trecători
+Suntem călători
+Mai avem puţin de mers
+Şi în curând de pe pământ
+Vom pleca spre univers
+
+[s3]
+3. Suntem trecători
+Suntem călători
+Şi cântecul acesta s-a sfârşi
+Când înspre nori în splendori
+Dumnezeu ne va răpi
+
+[order]
+s1,r1,s2,r1,s3,r1

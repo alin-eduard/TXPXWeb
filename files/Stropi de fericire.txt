@@ -1,0 +1,28 @@
+[s1]
+Stropi de fericire, lacrimi de iubire
+Astazi noi sarbatorim
+Nunta minunata, binecuvantata
+Doamne! Ce mareata zi
+Mire ai aleasa, alba si frumoasa
+Floare dalba printre flori
+Lacrimi de iubire, stropi de fericire
+Cer cu Soare fara nori
+
+[r1]
+/:Doar fericire in calea voastra sa aveti
+Rau de iubire sa inunde-ale voastre vieti
+De bucurie s-aveti parte neincetat
+Cu Salvatorul si Mantuitorul nostru Minunat:/
+
+[s2]
+Draga mea mireasa, alba si frumoasa
+Ai ajuns n-aceasta zi
+Zi de sarbatoare, unica sub Soare
+Plina doar de bucurii
+Sa traiesti smerita, sa fii fericita
+Caci El este Domnul tau
+Si in Vesnicie, plini de bucurie
+Veti fi langa Dumnezeu
+
+[order]
+s1,r1,s2,r1

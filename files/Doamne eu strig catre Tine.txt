@@ -1,0 +1,28 @@
+[s1]
+Doamne, eu strig către Tine
+Tu eşti Dumnezeul meu.
+Tu eşti adevăr şi lumină
+În Tine eu mă încred.
+Eu strig : <Lăudat fie Domnul !>
+Din toată inima mea.
+Şi-atunci El mă ocroteşte
+Şi El îmi dă iubirea Sa.
+
+[r1]
+Lăudaţi pe Domnul din inimă
+Lăudaţi pe veci Numele Lui !
+Lăudaţi pe Domnul prin credinţă
+Şi El vă va da iubirea Lui !
+
+[s2]
+Doamne, acum vin la Tine
+Tu eşti Dumnezeu meu.
+Tu eşti adevăr şi lumină
+În Tine eu mă încred.
+Tu, suflete fără credinţă
+Întoarce-te din drum !
+Isus e a ta biruinţă -
+Laudă-L şi tu pe El acum !
+
+[order]
+s1,r1,s2,r1

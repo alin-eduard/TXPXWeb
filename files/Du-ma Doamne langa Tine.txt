@@ -1,0 +1,30 @@
+[s1]
+Du-mă Doamne lângă Tine,
+ah, mi-e dor!
+În grădina Ta cu flori
+du-mă-n zbor !
+Ierusalime, cel sfânt,
+/: În curând porţile tale,
+La glasul Domniei Sale,
+Se vor deschide, în curând :/
+
+[s2]
+Ia-mă ca mireasa Ta, o, Isuse,
+Mântuieşte-mi, o, Te rog,
+al meu suflet !
+Ierusalime, cel drag,
+/: Tu eşti casa sfinţilor
+Ce-au ajunşi biruitori
+Prin Isus Mântuitorul :/
+
+[s3]
+Tu eşti al meu mire sfânt orişicând.
+Altul nu este ca Tine
+pe pământ.
+Tu-mi eşti mamă şi tată
+/: Mamă, tată, m-or părăsi
+Dar cu mine-n veci vei fi
+Ah, mult mi-e dor de Tine ! :/
+
+[order]
+s1,s2,s3

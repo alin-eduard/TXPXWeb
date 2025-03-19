@@ -1,0 +1,26 @@
+[s1]
+Te inalt pe Tine Domnul meu
+A mea inima canta mereu
+/: Tu esti vesnic, puterea Ti-e mare
+Intreg pamantul Ti-aduce onoare :/
+
+[r1]
+Celui Sfant Aleluia,
+Aleluia slava Lui
+/: Celui vesnic multa slava
+Sa Il slavim in veci de veci :/
+
+[s2]
+Te slavesc pe Tine Domnul meu
+Cu credinta cant mereu
+/: Creat-ai pamantul, cerul si vantul
+Esti Imparat, spune Cuvantul :/
+
+[s3]
+Te inalt pe Tine Domnul meu
+A mea inima canta mereu
+/: Tu esti vrednic de cinste si slava
+Esti minunat, minunat Dumnezeu :/
+
+[order]
+s1,r1,s2,r1,s3,r1

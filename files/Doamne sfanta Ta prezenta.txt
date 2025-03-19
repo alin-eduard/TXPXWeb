@@ -1,0 +1,32 @@
+[s1]
+Doamne, sfânta Ta prezenţă
+Mi­e un nesecat izvor
+De putere, biruinţă
+Prin furtuni şi orice nor.
+
+[r1]
+O, ridică­-Ţi peste mine faţa Ta,
+O, Fiu divin!
+Locu-­mi este lângă Tine
+Unde cerul e senin!
+
+[s2]
+Sufletu­-mi la Tine zboară,
+Să Te întâlnească vrea;
+Tu eşti singura­-mi comoară,
+Eşti a vieţii mele stea!
+
+[s3]
+Vreau să văd slăvita-­Ţi faţă,
+Vreau să fiu copilul Tău;
+Căci Tu eşti a mea viaţă,
+Tu mă scapi de orice rău!
+
+[s4]
+Când pe norii plini de slavă,
+Doamne, Te vei arăta,
+Îmbrăcat cu-a Ta dreptate,
+Vesel Te­-oi întâmpina!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

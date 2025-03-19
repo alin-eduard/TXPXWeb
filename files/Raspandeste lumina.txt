@@ -1,0 +1,35 @@
+[s1]
+Răspândeşte lumină
+Oriunde te-ai găsi
+Căci cei din jurul tău bine
+Te vor privi!
+Să vorbeşti numai
+Lucrurile de folos
+Aşa cum te-a învăţat Hristos.
+
+[r1]
+/: Fii plăcut Domnului,
+Fii plăcut numai Lui!
+Lui Satan nu-i da nimic,
+Dă-I lui Isus, că El te-a iubit!:/
+
+[s2]
+Pe aproapele tău
+Nu-l lăsa întristat
+Tu arată-i totdeauna
+Că l-ai iertat.
+Fii exemplu cum
+Domnul Isus te-a-nvăţat,
+Că prin asta tu l-ai câştigat.
+
+[s3]
+De eşti sare curată,
+De folos poţi fi
+Cu prieteni şi fraţi
+Oriunde te-ai găsi.
+Vorba ta s-aducă
+Cuvânt roditor
+Ca sămânţa bună pe ogor.
+
+[order]
+s1,r1,s2,r1,s3,r1

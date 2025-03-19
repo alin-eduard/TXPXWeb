@@ -1,0 +1,60 @@
+[s1]
+Cât de bine mă simt
+Cu aleşii Domnului
+Poporul minunat!
+O, ce bine mă simt
+Cu aleşii Domnului
+Poporul minunat!
+
+[r1]
+Strălucesc feţele,
+Cântă adunarea
+Cerul stă şi-ascultă cântarea.
+O, ce bine mă simt
+Cu aleşii Domnului
+O, ce popor, ce popor minunat!
+
+[s2]
+Ce plăcut şi ce frumos
+E poporul lui Hristos
+Când pe Domnul
+Ei Îl laudă voios!
+Nu e loc mai fericit
+Ca acel unde-am găsit
+Pe toţi sfinţii
+Ce-mpreună s-au unit.
+
+[s3]
+Cât de bine mă simt
+Cu aleşii Domnului
+Poporul minunat!
+O, ce bine mă simt
+Cu aleşii Domnului
+Poporul minunat !
+
+[s4]
+Strălucesc feţele,
+Cântă adunarea
+Cerul stă şi-ascultă cântarea
+O, ce bine mă simt
+Cu aleşii Domnului
+O, ce popor, ce popor minunat!
+
+[s5]
+O, ce zi atunci va fi
+Când pe nori El va veni
+Şi în slava Lui pe veci ne va uni!
+Lângă El ne-om aduna
+Şi plângând Îi vom cânta
+Împreună fericiţi cu El vom sta!
+
+[s6]
+Cât de bine mă simt
+Cu aleşii Domnului
+Poporul minunat !
+O, ce bine mă simt
+Cu aleşii Domnului
+Poporul minunat !
+
+[order]
+s1,r1,s2,s3,s4,s5,s6,r1

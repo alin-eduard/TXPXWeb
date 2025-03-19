@@ -1,0 +1,32 @@
+[s1]
+/: Cerul şi Pământul :/
+În cântec răsună.
+/: Îngeri şi oameni :/
+Cântă împreună.
+
+[r1]
+Hristos se naşte, Duhul Sfânt coboară
+Îngerii cântă, magii Îl adoră !
+Păstorii-aleargă, ieslea o-înconjoară -
+Mari minuni se întâmplară !
+
+[s2]
+/: Din Betleem :/
+Ce mare minune !
+/: Vergură curată :/
+Fiu născu ân lume.
+
+[s3]
+/: Din Răsărit vin :/
+Magi cu bucurie.
+/: Cu dar de smirnă :/
+Aur şi tămâie.
+
+[s4]
+/: Hristos se naşte :/
+Veniţi la-nchinare !
+/: Cu vesel suflet :/
+Veselă cântare.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,33 @@
+[s1]
+1.	Simplu crezând zi de zi
+Chiar furtuna de ar veni
+Crede de-ar veni noaptea
+Isus zice crezi numai.
+Cor: Vreau să cred o Domnul meu
+Cred ferm pân la moarte eu
+Până în cer voi intra
+Isus zice crezi numai.
+467.
+
+[s2]
+2.	Cum luceşte Duhul Sfânt
+În inima mea intrând
+Deci mă-ncred în mâna Sa
+Isus zice crezi numai.
+Cor: Vreau să cred o Domnul meu
+Cred ferm pân la moarte eu
+Până în cer voi intra
+Isus zice crezi numai.
+
+[s3]
+3.	Merg voios prin lumină
+Şi noaptea rugându-mă
+Nimic nu mă înfrică
+Isus zice crezi numai.
+Cor: Vreau să cred o Domnul meu
+Cred ferm pân la moarte eu
+Până în cer voi intra
+Isus zice crezi numai.
+
+[order]
+s1,s2,s3

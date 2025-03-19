@@ -1,0 +1,30 @@
+[s1]
+/: Scoală suflete ce faci?
+În mocirlă stai și zaci
+Rătăcind în lumea rea,
+Refunzând chemarea Sa.:/
+
+[r1]
+Ai pribegit destul
+În lumea de păcate
+Dar de-I asculți chemarea
+Te scapă de la moarte;
+Un simplu “Da” tu spune
+Primește a Lui chemare
+Și el prin jertfa-I sfântă
+Te scapă de pierzare.
+
+[s2]
+/: Venind în lume S-a jertfit
+Ca Tu să fii mântuit
+Isus Hristos a suferit
+Cât de mult El te-a iubit :/
+
+[s3]
+/: M-am hotărât să te urmez,
+Doar Tu poți să mă măntuiești
+Renunț la tot din viața mea
+Accept acum chemarea Ta :/
+
+[order]
+s1,r1,s2,r1,s3,r1

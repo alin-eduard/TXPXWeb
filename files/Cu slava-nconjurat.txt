@@ -1,0 +1,37 @@
+[s1]
+Cu slava-n conjurat
+La cer te-ai înalțat la Dumnezeu
+Pe-acest pământ purtatai ce-a fost greu
+De dragul nostru Tu te-ai jertfit
+Dar ne-ai promis
+Vei fi cu noi pân la sfârșit
+
+[s2]
+Noi te vom urma
+Orice s-ar întâmpla
+Ție-ți vom sluji
+Cât vom trăi
+/:Vom fi ca umbra:/
+/:Tot mereu:/
+:/Unde vei fi tu voi fi si eu:/
+
+[s3]
+Cand ziua va veni
+Cand soarele se va ivi
+Domnul dreptatii
+Isus astrul diminetii
+De gragul nostru tu te-ai jertit
+Dar ne-ai promis voi fi cu voi
+Pan la sfarsit.
+
+[s4]
+Noi te vom urma
+Orice s-ar intampla
+Tie-ti vom sluji
+Cat vom trai
+/:Vom fi ca umbra:/
+/:Tot mereu:/
+:/Unde vei fi tu voi fi si eu:/
+
+[order]
+s1,s2,s3,s4

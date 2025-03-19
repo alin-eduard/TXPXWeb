@@ -1,0 +1,26 @@
+[s1]
+Iată cum veni la noi Domnul Isus,
+Pruncul sfânt venit de sus.
+Cum Fiul lui Dumnezeu s-a coborât
+Ca să ne salveze de iad.
+
+[r1]
+El s-a născut la miezul nopţii
+Aducând cu el lumina
+El a venit ca zorii zilei
+Întuneric risipind.
+
+[s2]
+Păstoraşii l-au căutat si l-au găsit
+Şi la iesle s-au închinat.
+Şi de-atunci cine pe Domnul
+L-a căutat, aşa de uşor l-a găsit.
+
+[s3]
+Magii au venit călăuziţi de-o stea
+Şi cu daruri s-au închinat
+Şi noi azi venim Lui să ne închinăm
+Vieţile să i le predăm.
+
+[order]
+s1,r1,s2,r1,s3,r1

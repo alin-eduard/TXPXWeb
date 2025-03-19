@@ -1,0 +1,42 @@
+[s1]
+Revedea-ne-vom odată
+În lumina cea de sus,
+Unde-i viaţa minunată
+Unde e Hristos Isus.
+Ne-om vedea, ne-om vedea
+Da, ne vom vedea odată
+În lumina cea de sus
+Unde e Hristos Isus.
+
+[s2]
+Vom vedea pe fraţii noştri
+După-a vieţii luptă grea
+Colo sus la masa obştii
+Sub al vieţii pom vom sta!
+Ne-om vedea, ne-om vedea
+Da, ne vom vedea odată
+În lumina cea de sus
+Unde e Hristos Isus.
+
+[s3]
+Vom vedea cetatea sfântă
+Cu-al ei fluviu de cristal
+Vom cânta cu cei ce cântă
+La ospăţul cel regal.
+Ne-om vedea, ne-om vedea
+Da, ne vom vedea odată
+În lumina cea de sus
+Unde e Hristos Isus.
+
+[s4]
+Însă inima ne doare
+La cei dragi când ne gândim,
+Fi-vor toţi acolo oare,
+Cu Isus să ne-ntâlnim?
+Ne-om vedea, ne-om vedea
+Da, ne vom vedea odată
+În lumina cea de sus
+Unde e Hristos Isus.
+
+[order]
+s1,s2,s3,s4

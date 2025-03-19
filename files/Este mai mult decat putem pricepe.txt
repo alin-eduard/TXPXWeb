@@ -1,0 +1,24 @@
+[s1]
+Este mai mult decât putem pricepe
+Minunea despre care auzim
+Isus se va-ntoarce iar din ceruri
+Şi eu cred precum scris găsim.
+
+[r1]
+/: Maranata, Maranata ! -
+Isus Se-ntoarce, vine-n curând ! :/
+
+[s2]
+Să spui la cei ce nu pot înţelege
+Minunea despre care auzim
+Însă o va vesti pe norii slavei
+Isus, când se va-ntoarce după-ai Săi.
+
+[s3]
+Fericită va fi ziua revenirii
+Când trâmbiţa pe sfinţi îi va chema !
+Astăzi, când e aproape izbăvirea
+Să privim spre cer cântând aşa :
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,51 @@
+[s1]
+1. Când ridic ochii spre Tine
+Şi când văd cât eşti de bun
+Mă-ngrozesc, mă-ngrozesc
+Domnul meu când Te privesc.
+109.
+
+[s2]
+2. Căci Tu eşti sus în mărire
+Iar eu aici pe pământ
+Domnul meu,Domnul meu
+Dă-mi ajutorul Tău.
+
+[s3]
+3. Mă întreb Isuse Doamne
+Mă întreb şi mă gândesc
+Ce-ai găsit, ce-ai găsit
+Doamne de mai mântuit.
+
+[s4]
+4. Căci eu rătăceam în lume
+Făcând voia celui rău
+Domnul meu, Domnul meu
+Vrăjmaş al numelui Tău.
+
+[s5]
+5. Şi astăzi cănd văd în mine
+Locuieşte  Duhul Sfânt
+Te iubesc, Te iubesc
+O, Isuse Domn Ceresc.
+
+[s6]
+6. Duhul Sfânt îl simt în mine
+Şi când îl simt mă gândesc
+Căci sunt slab, căci sunt slab
+Tu mă ştii Isuse drag.
+
+[s7]
+7. Dă-mi putere de la Tine
+Ca eu să Te pot urma
+Şi la bine şi la rău
+Ca şi Tine Domnul meu.
+
+[s8]
+8. Să nu uit că pentru mine
+Domnul meu Te-au răstignit
+Şi-ai murit, şi-ai murit
+Ca să fiu eu mântuit.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

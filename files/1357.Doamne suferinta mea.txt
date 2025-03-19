@@ -1,0 +1,66 @@
+[s1]
+1357.
+1.  Doamne suferinţa mea
+Nu mi-o ştie nimenea
+/: Doar mama mea Isus iubit
+Ce pentru mine s-a jertfit
+O cât de mult a suferit :/
+
+[s2]
+Te rog Isus mântuitor
+În aşternut să te cobori
+/: Să ştergi lacrima de pe obraz
+Să mă sprijineşti în necaz
+O izbăveşte-mă Tu azi :/
+
+[s3]
+Când valurile vin pe cale
+Şi când vântul bate mai tare
+/: Te rog să vii în barca mea
+Oricât ar fi noaptea de grea
+Dă-mi credinţa lui Iosua :/
+
+[s4]
+Când eram în disperare
+Mi-a ieşit Isus în cale
+/: Mi-a ridicat povara grea
+Şi mi-a dat mângâierea Sa
+Ce dulce a fost chemarea Sa. :/
+
+[s5]
+El e singurul pe lume
+Şi nu e ruşine cu mine
+/: Nu s-a uitat la faţa mea
+Ci mi-a cerut doar inima
+Cu Duhul Sfânt de-a o umplea. :/
+
+[s6]
+În Ghetsimani când S-a rugat
+Obrazu-n lacrimi şi-a udat
+/: Cununi de spini pe cap i-au pus
+Cu suliţa-n coastă l-au străpuns
+Povara lumii întregi a dus. :/
+
+[s7]
+Doamne mai am o dorinţă
+Şi te rog cu umilinţă
+/: Să m-ajuţi mereu să-ţi cânt
+Cât voi trăi pe acest pământ
+Şi apoi în cerul Tău preasfânt.:/
+
+[s8]
+Şi pe nori Tu vei reveni
+Ca să-i strângi pe-ai Tăi copii
+/:Ca să-ţi ridici mireasa Ta
+Ca să îi deschizi Tu uşa
+Şi să intru la nunta Ta. :/
+
+[s9]
+9.  Să-mi albeşti haina de nuntă
+Şi după mine te uită
+/: Eu te rog până atuncea
+Să îmi umpli candela mea
+Să nu fie-n zadar lupta.:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

@@ -1,0 +1,26 @@
+[s1]
+Te-ai coborât în ieslea cea săracă
+Isuse prunc divin
+Iar corul îngerilor cântă
+Pace lumii vestind
+
+[r1]
+O iesle sfântă, tron divin
+O lume-Ți cântă ne-ncetat
+C-ai încălzit în noaptea sfântă
+Pe Fiul celui Preaînalt
+
+[s2]
+Un cor măret de mii si mii de îngeri
+Vestesc venirea Ta
+Păstorii duc a lor vestire
+Mărind puterea Ta
+
+[s3]
+Noi te chemăm să vii în casa noastră
+Și să domnesti în ea
+Ascultă Tu cântarea noastră
+Ti-o închinăm acum
+
+[order]
+s1,r1,s2,r1,s3,r1

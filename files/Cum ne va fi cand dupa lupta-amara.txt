@@ -1,0 +1,32 @@
+[s1]
+Cum ne va fi când după luptă-amară
+Şi după-un trai aşa împovărat,
+Vom moşteni o minunată ţară,
+Pământul nou, atât de aşteptat?...
+Când praful scuturând de pe picioare
+Ne luăm adio de la suferinţi,
+Atunci ne-om şterge faţa de sudoare
+Căci moştenim aşa făgăduinţi...
+
+[s2]
+Cum ne va fi când peste zări albastre,
+De îngeri sfinţi vom fi întâmpinaţi,
+Şi ajungând la ţinta vieţii noastre,
+Vom tresălta, pe veci eliberaţi?...
+Acolo-n veci e numai tinereţe,
+Ai vremii dinţi nimic nu au de ros...
+Un cântec nou oricine o să-nveţe
+Să laude iubirea lui Hristos.
+
+[s3]
+Cum ne va fi când vom vedea pe Domnul,
+Şi ochii Săi cei buni şi iubitori,
+Şi-acele răni din care se vărsară
+Mulţimi de stropi de sânge salvator?...
+'Nainte deci, 'nainte pe cărare,
+Chiar orişicât ar fi să suferim,
+Răsplata e de mii de ori mai mare,
+Decât ce-am şti chiar noi să ne dorim!...
+
+[order]
+s1,s2,s3

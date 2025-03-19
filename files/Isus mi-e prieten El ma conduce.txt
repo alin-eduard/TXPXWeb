@@ -1,0 +1,26 @@
+[s1]
+Isus mi-e prieten, El mă conduce
+Pe netezi căi, la bun liman;
+El mă ajută şi-mi dă putere
+Atunci când simt că lupt din greu.
+
+[r1]
+Fără credinţă nu-i cu putinţă
+Să fii plăcut lui Dumnezeu;
+Căci prin credinţă ai biruinţă
+Chiar şi în ceasul cel mai greu.
+
+[s2]
+Nici o durere nu mă întristează
+Că sunt voios şi-s fericit;
+Isus mi-e calea, El mă conduce
+Cu El sunt veşnic fericit
+
+[s3]
+O, Doamne ajută-mi să fiu statornic,
+Să-nving întruna pe cel rău;
+Tu ştii, o, Doamne cât sunt de dornic
+Ca să păzesc Cuvântul Tău
+
+[order]
+s1,r1,s2,r1,s3,r1

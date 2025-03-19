@@ -1,0 +1,28 @@
+[s1]
+O lacrimă, pentru Tine a curs
+Pe faţa Lui senină
+O lacrimă, venită de Sus
+Să cureţe a Ta vină.
+
+[r1]
+Şi astăzi plânge,
+bătând la pieptul tău
+El Isus, plin de milă
+/: Şi te aşteaptă, să vii la El
+Căci lacrima-I pentru tine :/
+
+[s2]
+Din Cerul Sfânt,
+cobori pe pământ
+Să fie Lumină
+La cei trudiţi şi la cei loviţi
+El să le dea odihnă.
+
+[s3]
+În Biblie, de mult stă scris,
+căci cine va crede
+Va fi cu Isus pe veci fericit
+Şi plin de a Lui putere.
+
+[order]
+s1,r1,s2,r1,s3,r1,r1

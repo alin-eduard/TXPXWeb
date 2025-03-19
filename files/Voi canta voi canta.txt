@@ -1,0 +1,21 @@
+[s1]
+/: Voi cînta, voi cînta
+Spre lauda Domnului. :/
+Aleluia, Isus este Domn !
+
+[r1]
+/: Aleluia, Isus este Domn :/
+Aleluia, Isus este Domn.
+
+[s2]
+/: Cînd Isus e cu noi
+Sîntem biruitori. :/
+Aleluia, Isus este Domn !
+
+[s3]
+/: Cînd Isus va veni
+Ne va lua la El. :/
+Aleluia, Isus este Domn !
+
+[order]
+s1,r1,s2,r1,s3,r1

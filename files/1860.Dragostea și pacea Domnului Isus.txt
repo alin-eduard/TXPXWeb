@@ -1,0 +1,30 @@
+[s1]
+1860
+1. Dragostea și pacea Domnului Isus
+Astăzi să coboare peste voi de sus
+În a voastră casă fie El mereu
+Atât la bine însă și la greu.
+Împreună astăzi voi porniți la drum
+Și tot împreună astfel să sfârșiți
+Nu uitați nicicând de legământul sfânt
+Ca pe veci să fiți nedespărțiți.
+
+[r1]
+Cor: Să fiți uniți , în orice timp
+Și dragostea mereu să vă însoțească
+Isus Hristos cu mâna Sa
+Căminul vost’
+Cu dragoste să-l sfințească.
+
+[s2]
+2. Când furtuni și valuri vor veni spre voi
+Împreună să priviți sus în doi
+Barca voastră va pluti atunci ușor
+Dacă-n ea se va afla Isus.
+Mire și mireasă astăzi nu uitați
+Voi simbolizți un legământ ceresc
+Legământul vostru cu Isus Hristos
+Până ve-ți ajunge-n ceruri sus.
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,29 @@
+[s1]
+Pentru tine-un pacatos
+Pentru mine-un ticalos
+Pentru noi iubite suflet
+A murit Isus Hristos
+A murit pe lemnul crucii
+Ca noi doi sa fim salvati
+De-ale noastre pacate
+
+[r1]
+/: Este greu, da este greu
+Sa traiesti far’ Dumnezeu
+Dar te rog nu te uita
+La viata ta cea grea
+Uita-te doar la Isus
+Ce la cruce El s-a dus
+Ca sa moara pentru tine. :/
+
+[s2]
+Deci acum cand tu doresti
+Pe Isus ca sa-I primesti
+Tu in dragoste sa stai
+Ca in lume sa nu te pierzi
+Si in vesnica iubire
+Cu Isus sa fii mereu
+Doar o lumina vie.
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,35 @@
+[s1]
+La luptă fraţi, vă înrolaţi
+În slujba lui Isus,
+Armura Duhului purtaţi,
+Stindardul ţineţi sus.
+
+[r1]
+El le dă victorie, le va da şi glorie
+Celor ce se­-ncred în El,
+În divinul Miel.
+O, ce frumos când eşti un fiu
+Al Dumnezeului cel viu,
+Spălat de orişice păcat
+Prin sângele vărsat.
+
+[s2]
+Cu dragoste El ne­-a-­ndemnat
+Pe oameni să­-i căutăm,
+Din lumea plină de păcat
+La Domnul să-­i chemăm.
+
+[s3]
+Avem un lucru de­-mplinit
+Ce îngerii-­l privesc;
+Ei sunt voioşi de negrăit
+Când mulţi se pocăiesc.
+
+[s4]
+Mai sunt nemântuiţi destui,
+Străini de Tatăl sfânt.
+Vestiţi iubirea Domnului
+La toţi de pe pământ.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

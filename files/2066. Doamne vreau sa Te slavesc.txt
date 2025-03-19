@@ -1,0 +1,32 @@
+[s1]
+2066
+1. Doamne vreau să Te slăvesc
+Pentru harul Tău ceresc
+Pentru al Tău Hristos iubit
+Care-n lume a venit
+Și-a purtat povara grea
+Pentru mântuirea mea.
+
+[r1]
+Cor: /: Te laud :/ Te laud mereu
+Domnul meu și
+Dumnezeul meu
+
+[s2]
+2. Știu că-n alergarea mea
+Multe sunt cum Tu n-ai vrea
+Dar prin ochii lui Isus
+Tu mă vezi curat supus
+Și îmi umpli inima
+Zilnic de iubirea Ta.
+
+[s3]
+3. Doamne dă-mi Te rog avânt
+În credință, în cuvânt
+Și în rugăciunea mea
+Vreau să simt puterea Ta
+Să Îți cânt să-Ți mulțumesc
+Tot mai mult să Te iubesc
+
+[order]
+s1,r1,s2,r1,s3,r1

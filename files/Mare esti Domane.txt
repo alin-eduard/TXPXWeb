@@ -1,0 +1,23 @@
+[s1]
+Mare eşti, Doamne,
+Mare şi bun de-a Ta iubire
+Toate le spun
+/:Cerul, pământul, Tu le-ai creat
+Cu-nţelepciune, Le-ai aşezat:/
+
+[s2]
+Cerul, pământul, Tu Le-ai creat,
+Cu-nţelepciune, ne-ai aşezat
+Eu îti dau Slavă, căci sunt salvat
+În grea robie, nu mai lăsat
+/:Sus la Golgota, în chinul greu
+A murit Domnul, în locul meu:/
+
+[s3]
+Sub Crucea Sfântă vreau, eu a sta
+Întreagă viaţa, a te urma.
+/:Tu fii cu mine, la orice pas
+Când  veni-va, al morţii ceas:/
+
+[order]
+s1,s2,s3

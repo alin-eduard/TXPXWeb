@@ -1,0 +1,32 @@
+[s1]
+Ce dulce eşti Isuse,
+Ce dulce eşti şi bun
+Spun stelele şi Luna,
+Şi cerurile spun
+/: Şi-ntreg Pământul spune
+Ce dulce eşti şi bun. :/
+
+[r1]
+/: O, ce bun, o, ce bun ! :/
+
+[s2]
+Când  bucurii divine
+În inimă le-adun
+Eu gust mereu din Tine
+Şi-mi eşti mereu mai bun
+/: Că nu găsesc cuvinte
+Să pot să ştiu să-Ţi spun :/
+
+[s3]
+/: Că eşti bun, că eşti bun. :/
+
+[s4]
+O, de mi-ar sta-n putinţă
+Ca lumea s-o adun
+De multa-Ţi bunătate
+Plângând aş sta să spun
+/: Să pot să-i fac să guste
+Ce dulce eşti şi bun. :/
+
+[order]
+s1,r1,s2,s3,s4,r1

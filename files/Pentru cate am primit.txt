@@ -1,0 +1,38 @@
+[s1]
+Pentru cate am primit,
+Pentru cate Tu mi-ai dat,
+Vreau /:sa-ti cant:/
+Cat traiesc pe-acest pamant.
+Sa iti cant, neincetat,
+/: Numai Tie, pe vecie,
+Cel mai sfant si minunat! :/
+
+[s2]
+Pentru cate am primit,
+Pentru cate Tu mi-ai dat,
+Vreau /: sa plang, :/
+Totu-n inima sa strang.
+Sa-Ti slujesc neincetat,
+/: Numai Tie, pe vecie,
+Cel mai sfant si minunat! :/
+
+[s3]
+Pentru cate am primit,
+Pentru cate Tu mi-ai dat
+Slava-Ti dau mereu-mereu
+Tie, Tie, Dumnezeu
+Tata sfant, adevarat!
+/: Numai Tie, pe vecie,
+Cel mai sfant si minunat! :/
+
+[s4]
+Rob netrebnic, stiu ca sunt,
+Dar ca rob eu vreau sa-Ti cant,
+Sa Te laud, drept Stapan,
+Rob intruna sa-Ti raman.
+Fie ploaie, fie vant,
+Numai Tie, pe vecie,
+Cel mai sfant pe aceast pamant!
+
+[order]
+s1,s2,s3,s4

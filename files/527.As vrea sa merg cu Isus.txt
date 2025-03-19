@@ -1,0 +1,63 @@
+[s1]
+1.	Aş vrea să merg cu Isus
+În ţara glorioasă
+Prin ori şi ce necazuri
+El îmi dă bucurie.
+2.	Aş vrea să merg cu Isus
+În a mea călătorie
+Ajută-mă Isuse
+Ajută-mă, o, Doamne.
+527.
+
+[s2]
+3.	Aş vrea Isuse dragă
+Să fii mereu cu mine
+Căci viaţa mea e slabă
+Şi plină de suspine.
+4.	În timpul cel din urmă
+Necazurile vin
+Nădejdea noastră Doamne
+O avem numai în Tine.
+
+[s3]
+5.	Poporul Tău Isuse
+Se luptă în valuri grele
+O, Domnul nostru vino
+Şi scapă-ne de ele.
+6.	Căci diavolul se luptă
+Poporul Tău slăbeşte
+O, Doamne ne ajută
+Căci El ne biruieşte.
+
+[s4]
+7.	Nu ne lăsa la o parte
+Pentru a noastre fapte
+Prin mila ta cea mare
+O, fă-ne tu scăpare.
+8.	Fecioarele aţipite
+O, Doamne le trezeşte
+O, fă-le să se scoale
+Că-s candelele goale.
+
+[s5]
+9.	Fecioare vă sculaţi
+Ulei vă cumpăraţi
+Până găsiţi ulei
+Căci trece la evrei.
+10.	Azi Israelul vine
+Din ţările străine
+Căci Domnul îi aduce
+Cu jertfa de pe cruce.
+
+[s6]
+11.	Azi Israelul cântă
+Cântarea cea mai scumpă
+Ce n-a mai fost cântată
+Pe pământ niciodată.
+12.	Ce bucurie mare
+În Israel răsare
+Isus îi cercetează
+Şi binecuvântează.
+
+[order]
+s1,s2,s3,s4,s5,s6

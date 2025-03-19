@@ -1,0 +1,26 @@
+[s1]
+O, creşte-mi iubirea in inima mea,
+Isuse, Isuse, mereu Te-aş ruga.
+/: Îmi umple cu dorul pe care-l aştept,
+Şi ochii şi glasul si inima-n piept. :/
+
+[s2]
+O, creşte-mi iubirea, Isuse iubit,
+Să fiu de-a ei haruri, mereu copleşit.
+/: Să-mi intre în suflet, ca val după val,
+Ca râul ce creşte si dă peste mal. :/
+
+[s3]
+O, creşte-mi iubirea, iubite Isus,
+În starea şi harul, în care m-ai pus.
+/: Să port pretutindeni, belşugul de har,
+Şi-a ei revărsare, să n-aibă hotar. :/
+
+[s4]
+O, creşte-mi iubirea, cu focul sfinţit,
+Şi chiar de m-ar arde să fiu mistuit.
+/: Flămând de iubire, mereu Te-oi ruga,
+O, creşte-mi iubirea in inima mea. :/
+
+[order]
+s1,s2,s3,s4

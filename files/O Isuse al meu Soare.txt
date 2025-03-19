@@ -1,0 +1,26 @@
+[s1]
+O, Isuse, al meu Soare
+Ce viaţa Ţi-ai jertfit
+Fă să pot privi întruna
+Locul unde ai murit
+
+[s2]
+/: De trecutul meu cel negru
+Sunt pe veci eliberat
+Şi privind a Tale rane
+Prin credinţă-s vindecat :/
+
+[s3]
+Fă-mă ca să-Ţi simt iubirea
+Să rămân sub crucea Ta
+Ca furtuna, vijelia
+Nu mă poată dărâma
+
+[s4]
+/: Sângele-Ţi mă ocrotească
+Să nu biruie cel rău
+Şi apoi mă du Isuse
+Lângă bunul Dumnezeu :/
+
+[order]
+s1,s2,s3,s4

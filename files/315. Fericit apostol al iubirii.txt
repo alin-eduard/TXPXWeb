@@ -1,0 +1,53 @@
+[s1]
+1. Fericit apostol al iubirii
+Care în seara cinei ţi-ai culcat
+Capul greu de dor şi duioşie
+Pe sânul cel mai alb şi minunat.
+315.
+
+[s2]
+2. Oare ce-ai putut simţi atuncia
+Că apoi tu cât ai mai trăit
+Numai despre dor şi fericire
+Şi numai despre dragoste ai vorbit.
+
+[s3]
+3. În străfundurile vieţii tale
+Oare ce izvor s-a deşteptat
+Căci de-atunci
+De mii de ani tot curge
+Şi nici pân' astăzi încă n-a'ncetat.
+
+[s4]
+4. Ce foc tainic oare a fost acela
+Care inima atunci ţi-a încins
+Căci de-atunci
+De mii de ani tot arde
+Şi astăzi este parcă mai aprins.
+
+[s5]
+5. Ce poveri ai dus atunci în suflet
+De ţi-au fost de-a pururi ochii grei
+De-ai purtat atâta strălucire
+Atâta dor şi dragoste în ei.
+
+[s6]
+6. Azi iubiţi apostoli ai iubirii
+Inima îi numai dor şi jar
+Căci întregul suflet mi se scaldă
+În mări de fericire şi de har.
+
+[s7]
+7. Stând culcat pe-acelaşi sân ca tine
+Dus mai sus pe-al cerurilor prag
+Sunt cu ochii plini de strălucire
+Şi grei de-atâta dragoste şi har.
+
+[s8]
+8. Astăzi sfânt apostol al iubirii
+Te înţeleg de ce pân' la sfârşit
+Numai despre dor şi fericire
+Şi numai despre dragoste-ai vorbit.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

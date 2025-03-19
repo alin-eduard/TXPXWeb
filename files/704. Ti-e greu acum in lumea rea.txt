@@ -1,0 +1,33 @@
+[s1]
+1. Ţi-e greu acum în lumea rea
+Ţi-i greu acum ştiu bine
+Dar nu e mult Mireasa Mea
+Eu vin curând la tine.
+2. De plâns ţi-i sufletul tău plin
+În gemete, suspine
+Aşteaptă, aşteaptă mai puţin
+Eu vin curând la tine.
+704.
+
+[s2]
+3. O, câtă vreme s-a lungit
+Răcoarea nopţii vine
+E-aproape ceasul mult dorit
+Eu vin curând la tine.
+4. Pe frunte Tu vei aşeza
+Aceleaşi scumpi lumine
+Să fii pe veci asemenea
+Tu vii curând la mine.
+
+[s3]
+5. Voi şterge atunci din ochii tăi
+Tristeţe, plâns, suspine
+Pe-a slavei fericite căi
+Eu vin curând la tine.
+6. Ţi-e greu acum în lumea rea
+Aşa de greu ştiu bine
+Dar nu e mult Mireasa Mea
+Eu vin curând la tine.
+
+[order]
+s1,s2,s3

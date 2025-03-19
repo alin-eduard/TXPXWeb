@@ -1,0 +1,45 @@
+[s1]
+447.
+1.Doamne, eşti a mea iubire
+Tu eşti tot ce mi-a rămas
+/:Vie orice prigonire
+Eu de Tine, nu mă las!:/.
+
+[s2]
+2.Doamne, Tu le ştii pe toate
+Gândul inimii mi-l ştii
+/:Sufletul mereu îmi cântă
+Plin de-a Tale bucurii:/.
+
+[s3]
+3.Când mă uit şi-mi văd frăţia
+Cu care-s născut de sus
+/:Ah mii dor de-mpărăţia
+Pregătită de Isus:/.
+
+[s4]
+4.Nu te am decât pe Tine
+Bunul meu Stăpân ceresc
+/:Fericirea vieţii mele
+Eu din suflet te iubesc:/.
+
+[s5]
+5.A mea inimă aprinsă
+Ţie vreau să ţi-o predau
+/:Pune-o Tu, Isuse dulce,
+Pân' la moarte-n slujba Ta:/.
+
+[s6]
+6.Fă mereu ca ea să-Ţi cânte
+Şi să duc un trai curat
+/:Rămânând mereu cu Tine
+Nepătat de orice păcat:/.
+
+[s7]
+7.Tu mi-ai fost mereu scăparea
+Prin necazuri cât am tras
+/:Vie orice prigonire
+Eu de Tine nu mă las:/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

@@ -1,0 +1,32 @@
+[s1]
+Sfânt e, sfânt e, sfânt e Dumnezeu!
+Veşnic popoare, daţi-I onoare!
+Munţi şi mare vă cutremuraţi,
+Şi voi dealuri strigaţi-I: Amin!
+Ce milostiv şi atotputernic
+Este Iehova, slăvitul Domn!
+Sfânt e, sfânt e, sfânt e Dumnezeu,
+Şi voi, dealuri, strigaţi-I: Amin!
+
+[s2]
+Laudă, cinste Domnului să daţi
+Voi, slujitori sfinţi, vestea să duceţi,
+Focul sfânt al Duhului purtaţi,
+Şi iubirea-n inimi aprindeţi!
+Lăudaţi-L îngeri mari şi puternici,
+Fără de număr Lui vă-nchinaţi.
+Sfânt e, sfânt e, sfânt e Dumnezeu,
+Şi voi, dealuri, strigaţi-I: Amin!
+
+[s3]
+Sfânt e, sfânt e şi va fi în veci;
+Hristos e Domnul, nu este altul;
+Cu al Său braţ în veci biruitor
+El zdrobeşte moartea şi iadul.
+Iar la-nviere, la înălţare,
+În strălucire Îi vom cânta:
+Sfânt e, sfânt e, sfânt e Dumnezeu,
+Şi voi, dealuri, strigaţi-I: Amin!
+
+[order]
+s1,s2,s3

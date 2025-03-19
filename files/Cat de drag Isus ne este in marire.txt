@@ -1,0 +1,32 @@
+[s1]
+Cât de drag Isus ne este
+în mărire înălţat;
+El la Tatăl mijloceşte
+pentru noi neîncetat.
+Poate cineva să spună
+câtă pierdere avem
+Când spre El nu ne întoarcem
+şi-ncetăm să ne rugăm?!
+
+[s2]
+Când vrăjmaşul ne apasă
+şi-n necazuri ne aflăm,
+Către Cel ce nu ne lasă,
+rugăciune să-ndreptăm,
+Căci atunci a Lui iubire
+pururea va fi cu noi;
+El ne-ascultă rugăciunea
+şi ne scapă din nevoi.
+
+[s3]
+Când ne-atacă gânduri rele,
+doar la El să alergăm!
+Domnul mâna ne întinde
+cu credinţă de-L strigăm.
+Părăsiţi fiind de prieteni
+şi cu sufletu-ntristat,
+O, atunci Isus ne este
+ajutorul aşteptat.
+
+[order]
+s1,s2,s3

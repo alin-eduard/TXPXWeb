@@ -1,0 +1,71 @@
+[s1]
+1746.
+1. Deseori eu mă gândesc departe
+Peste munţi
+Şi văile ce ne desparte
+/:Ştiu c-acolo locuieşti
+Şi la noi mereu gândeşti
+O, mamă, o mamă.
+
+[s2]
+2. Au trecut aşa de iute anii
+Lacrimi multe ţi-au brăzdat
+De-atunci obrajii
+/:De când mamă am plecat
+Şi în urmă ai rămas
+Cu dorul nemângâiat, o, mamă:/
+
+[s3]
+3. Ne-ai crescut cu greu
+`N-această lume
+Deşi niciodată
+Nu ai spus la nimeni
+/:Dar noi ştim cum te rugai
+Şi lui Isus îi spuneai
+Căci pe nimeni-n lume n-ai,
+O mamă, o mamă.
+
+[s4]
+4. Zilnic viaţa era tot mai grea
+Într-o zi şi tatăl nostru a plecat
+/:Am rămas copii orfani
+Şi în lume alungaţi
+Şi mereu nemângâiaţi, o, mamă:/
+
+[s5]
+5. Cât de mult în viaţă-am fi dorit
+Ca o vorbă dulce,
+Un sfat să primim
+/:Dar n-am aflat nicăieri
+Vorbe dulci sau mângâieri
+Ci ades numai dureri, o, mamă:/
+
+[s6]
+6. Singură de noi te-ai îngrijit
+Şi de dragostea lui Isus
+Ne-ai vorbit
+/:Sfatul tău l-am ascultat
+Şi pe Isus l-am urmat
+Pace-n suflet am aflat, o, mamă:/
+
+[s7]
+7. Am crescut
+Şi-acum suntem părinţi
+Şi-nţelegem rostul lacrimii fierbinţi
+/:Ştiu de ce te bucurai
+Când acasă ne strângeam
+Şi pe Domnul lăudam , o, mamă:/
+
+[s8]
+8. Deseori eu mă gândesc departe
+Peste munţi
+Şi văile ce ne desparte
+/:Ştiu că-acolo locuieşti
+Şi-n rugă ne pomeneşti
+Şi de dor mereu oftezi, o, mamă
+Şi noi zilnic ne rugăm
+Lui Isus te-ncredinţăm
+Şi de dorul tău oftăm, o, mamă:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

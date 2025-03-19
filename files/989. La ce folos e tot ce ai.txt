@@ -1,0 +1,44 @@
+[s1]
+989.             Re m
+1. La ce folos e tot ce ai
+Când paşii morţii vin
+Dacă n-ai dat şi la săraci
+Când în viaţă aveai din plin
+/: Vei vrea atunci ca să-ţi împarţi
+Chiar toată averea ta
+Dar ce folos când mâna ta
+Nu ţi-o vei mai mişca :/.
+
+[s2]
+2. La ce folos ţie jertfa ta
+Pe căile credinţei
+Dacă la capăt ţi-ai pierdut
+Tot gustul pocăinţei
+/: Vei vrea şi tu să fii chemat
+Cu sfinţii într-o parte
+Dar ce folos dacă n-ai fost
+Creştin până la moarte :/.
+
+[s3]
+3. La ce folos ţi-e c-ai gustat
+Din Duhul mângâierii
+Dacă te-ntorci să faci din nou
+Faptele pierzării
+/: Vei spune şi tu c-ai făcut
+Multe minuni şi semne
+Dar ce folos dacă ai lucrat
+Şi fărădelege :/.
+
+[s4]
+4. Folos în toate ai atunci
+Când mergi smerit în viaţă
+Călcând pe urma lui Isus
+Primind a lui povaţă
+/: Vei spune
+Doamne-Ţi mulţumesc
+Că m-ai condus prin har
+Pe treptele neprihănirii
+În a Raiului hotar :/.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,44 @@
+[s1]
+Roua binecuvantarii
+Cu belsug de roade sfinte,
+Peste voi sa Si-o reverse
+Preaputernicul Parinte!
+
+[r1]
+/: Sa va-nsoteasca iubirea
+Ce v-a legat!
+Prin ea, traiti fericirea,
+Cu-adevarat :/
+
+[s2]
+Proaspata si intarita
+Sa va fie oricand credinta!
+De vin vanturi si talazuri,
+Ea v-aduce biruinta.
+
+[s3]
+In unirea voastra sfanta
+Izvorata din iubire,
+S-aveti nunta minunata
+Cu belsug de fericire!
+
+[s4]
+Odihniti-va pe bratul
+Dragostei si milei Sale
+Si nimic n-o sa va-nfranga
+Viata, pe-a Lui sfanta cale.
+
+[s5]
+Veti trai, si azi si maine
+In iubirea cea curata,
+Nezarind a ei sfarsire
+Niciodata…niciodata.
+
+[s6]
+Nu priviti la voi intruna!
+Ochii vostri sa va fie
+Spre Acel ce poate totul,
+Spre Isus ce-adanc va stie.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

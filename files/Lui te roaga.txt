@@ -1,0 +1,32 @@
+[s1]
+Lui te roagă,
+El ţine ce-a promis
+Lui te roagă
+Şi nu te da învins
+/:Stai şi-aşteaptă,
+Răspunsul vine-acum
+Stai şi asteaptă
+Căci Domnul este bun:/
+
+[s2]
+Cere-ntruna
+Şi Domnul îţi va da
+Cere-ntruna
+El nu te va lăsa
+/:Doar răbdare
+Şi roagă-te mereu
+Doar răbdare
+Lucrează Dumnezeu:/
+
+[s3]
+Lui te roagă,
+Când vine-al morţii ceas
+Lui te roagă
+Când singur ai rămas
+/:Stai şi crede,
+Rămâi îngenunchiat
+Domnul vede,
+Eşti binecuvântat:/
+
+[order]
+s1,s2,s3

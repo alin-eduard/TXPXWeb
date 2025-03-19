@@ -1,0 +1,32 @@
+[s1]
+1. Nu sunt în ceruri
+Lacrimi şi grijuri
+Glorie pe veci în cer va fi
+Nu e tristeţe, nici bătrâneţe
+Ci numai veşnici bucurii.
+863.                                                                                                                      Sol M
+
+[r1]
+Cor
+/: Lacrimi în ceruri nu-s :/
+Jale, dureri de orice fel
+/: Lacrimi în ceruri nu-s :/
+Căci le purtase sfântul Miel.
+
+[s2]
+2. Slava ne-aşteaptă
+Buna răsplată
+Pentru acela credincios.
+Iar Salvatorul
+Cheamă poporul
+Părtaş la slavă bucuros.
+
+[s3]
+3. Nu vor fi zile scrise în file
+Timpu-ncetează
+A mai conta,
+Vechea zidire şi nemurirea.
+În veci iubirea va trona.
+
+[order]
+s1,r1,s2,r1,s3,r1

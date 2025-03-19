@@ -1,0 +1,26 @@
+[s1]
+A-nviat Domnul, nu e in mormant,
+Femeile afara, privesc si plang;
+O gradinare, unde L-ai pus ?
+Noi vrem sa-L vedem, ni-e drag Isus.
+
+[s2]
+Dar gradinarul era chiar Isus,
+Femeile se bucurau nespus;
+O, o Marie nu Ma tinea
+Caci trebuie sa merg in tara Mea.
+
+[s3]
+In Galileea mergi neaparat,
+La fratii Mei spune, c-am inviat;
+Invins-am in lupta, ale mortii dureri,
+Spuneti-i lui Petru sa vina si el.
+
+[s4]
+Pe toti ca o mama, El ne-a mangaiat,
+Si-n inima franta, El pace ne-a dat;
+Ce bucurie, ce har minunat,
+Isus traieste, a inviat!
+
+[order]
+s1,s2,s3,s4

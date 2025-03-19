@@ -1,0 +1,52 @@
+[s1]
+1.Aşa vorbeşte Domnul,
+Care te-a-ntocmit,
+Sfântul lui Israel,
+Care-a biruit.
+1253  							   Fa m
+
+[s2]
+Prin ape, de vei trece,
+Eu te voi salva
+Focul nu te-a arde
+Când lupta este grea.
+
+[r1]
+Te-am purtat pe braţe
+Şi vreau să te mai port
+Aşa vorbeşte Domnul,
+Puternic Savaot!
+Refren:
+
+[r2]
+De-ar veni furtuna
+Şi vânturi de-ar urla.
+Eu îţi sunt salvarea,
+Când lupta este grea.
+
+[s3]
+2.Aşa vorbeşte Domnul
+Marele-mpărat
+Puternicul lui Iacov
+Cel glorificat
+
+[s4]
+Oameni şi popoare
+Dau pentru viaţa ta,
+Pentru răscumpărarea
+Şi izbăvirea ta.
+
+[s5]
+3.Acum, rămâi statornic,
+Israel iubit!
+Căci ziua e aproape
+Şi timpu-i pe sfârşit.
+
+[s6]
+Când vom cânta cântarea
+De biruitori,
+Când trâmbiţa suna-va
+Şi va veni pe nori.
+
+[order]
+s1,s2,r1,r2,s3,s4,r1,r2,s5,s6,r1,r2

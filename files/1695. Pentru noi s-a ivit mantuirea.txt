@@ -1,0 +1,23 @@
+[s1]
+1695.  Fa
+1. Pentru noi s-a ivit mântuirea
+Pentru noi Cel de sus a murit
+Pentru noi s-a ivit izbăvirea
+Pentru noi Cel de sus S-a jertfit
+Cor:	Lăsaţi Duhul Sfânt să lucreze
+Să ne elibereze de blestem şi păcat
+Lăsaţi pe pământ fericirea
+Dragostea şi iubirea ce Isus le-a lăsat
+
+[s2]
+2. Cu Isus vom zbura către stele
+Cu Isus spre o lume de vis
+Cu Isus trec ispitele grele
+Cu Isus vom zbura-n Paradis
+Cor:	Lăsaţi Duhul Sfânt să lucreze
+Să ne elibereze de blestem şi păcat
+Lăsaţi pe pământ fericirea
+Dragostea şi iubirea ce Isus le-a lăsat
+
+[order]
+s1,s2

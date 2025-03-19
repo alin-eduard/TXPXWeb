@@ -1,0 +1,30 @@
+[s1]
+Vorbeşte-mi, Doamne, că sunt rob
+Şi robul Tău ascultă !
+/: Mai toarnă-mi iar ulei în ciob
+Mai dă-mi din grâul Tău un bob
+Şi dragoste mai multă ! :/
+
+[s2]
+Vorbeşte-mi, Doamne, că sunt gol
+Şi-mi bate-n suflet vântul !
+/: Mulţimi de corbi îmi dau ocol
+De când pe-al inimii pristol
+Ţi-ai aşezat Cuvântul. :/
+
+[s3]
+Vorbeşte-mi, Doamne, că în piept
+Mi-e inima firavă !
+/: Nebun mă face-orice-nţelept
+Dar eu cu mai mult dor Te-aştept
+în vreme de zăbavă. :/
+
+[s4]
+Mai dă-mi din pâinea Ta un drob
+Şi flacără mai multă !
+/: Chiar dacă-s fiu şi nu sunt ciob
+Dar eu din dragoste sunt rob
+Şi robul Tău ascultă ! :/
+
+[order]
+s1,s2,s3,s4

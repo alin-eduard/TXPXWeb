@@ -1,0 +1,41 @@
+[r1]
+Pot să se mute munţii,
+pot să se clatine dealurile,
+Dar dragostea Sa,
+nu se v-a-ndepărta de la tine
+Pot să vină furtuni,
+pot să urle valurile,
+Nu te-ngrijora,
+de viaţa căci e cu tine.
+
+[s1]
+Încredete în Dumnezeu,
+El te v-a ajuta,
+Cu braţul Său
+când ţi-e greu, pe tine.
+Încrede-te-n Cuvântul Său,
+El te v-a apăra,
+Cu braţul Său
+de orice rău, pe tine
+
+[s2]
+Când treci prin încercări,
+ispite s-au dureri,
+Nu descuraja
+căci El îţi v-a da, pace!
+Când sufletul ţi-e întristat,
+El te v-a mângâia
+În viaţa ta v-a turna, pace!
+
+[s3]
+Încrede-te în Dumnezeu,
+El te v-a ajuta,
+Cu braţul Său
+când ţi-e greu, pe tine…
+Încrede-te-n Cuvântul Său,
+El te v-a apăra,
+Cu braţul Său de orice rău,
+pe tine
+
+[order]
+r1,s1,r1,s2,r1,s3,r1

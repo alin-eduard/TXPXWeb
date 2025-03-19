@@ -1,0 +1,43 @@
+[s1]
+1332.
+1.  La cine să plecăm
+Pustiu urât e lumea
+/: Sub cârma lui Satan
+E lanţ amăgitor:/
+2.  Zidi-vom oare pe nisip
+A noastră  casă
+/: Rămânem lângă Tine
+Scump Mântuitor:/
+
+[s2]
+La cine să plecăm
+După izvorul vieţii
+/: Cuvintele luminii
+Ape vii din cer:/
+4.  Mie sufletu-n setat
+După izvorul vieţii
+/: Rămânem lângă Tine
+Scump Mântuitor:/
+
+[s3]
+La cine să plecăm
+Cine ar putea ca Tine
+/: În încercări necazuri
+Mângâieri să dea:/
+6. Tu legi a noastre răni
+Le potoleşti durerea
+/: Rămânem lângă Tine
+Scump Mântuitor:/
+
+[s4]
+7.  La cine să plecăm
+Ca tine nimeni altul
+/: De noi nu se-ngrijeşte
+O cât ne iubeşti:/
+8.  În inimă ne porţi
+Pe viaţă şi pe moarte
+/: Rămânem lângă Tine
+Scump Mântuitor:/
+
+[order]
+s1,s2,s3,s4

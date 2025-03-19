@@ -1,0 +1,59 @@
+[s1]
+1. Isuse pe calea Ta
+Sunt spini mulţi şi calea-i grea
+Pe unii îi istovesc
+Cad pe ea, se obosesc
+Se duc şi Te părăsesc.
+111.
+
+[s2]
+2. Te părăsesc fără temei
+Cred că-i bine cum fac ei
+Însă firea pământească
+A-nceput ca să-i robească
+Nu mai pot să te iubească.
+
+[s3]
+3. Şi acum în vremea de-apoi
+Vino Isuse la noi
+Unii slăbesc în credinţă
+Nu mai au nici o căinţă
+Îs plictisiţi de pocăinţă.
+
+[s4]
+4. Iubire ce ne-ai lăsat
+De mulţi s-a înstrăinat
+Iar dragostea aceia mare
+Este mică-n fiecare
+Toate s-au răcit pe cale.
+
+[s5]
+5. O, Isuse Salvator
+Mielule biruitor
+Vino la poporul Tău
+Nu-l lăsa să piară-n rău
+Că-i ales de Dumnezeu.
+
+[s6]
+6. Vin la El prin Duhul Sfânt
+Dă-i putere pe pământ
+Să poată crucea urca
+Până sus la Golgota
+Să primească cununa.
+
+[s7]
+7. Cununa nevestejită
+Pentru credincioşi gătită
+Pentru toţi aceia care
+La cea mai mare-ncercare
+Nu te-au părăsit pe cale.
+
+[s8]
+8. Te rugăm stăruitor
+Isuse când vii pe nori
+Să avem parte de răpire
+În veşnica fericire
+Să trăim în veci cu Tine.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

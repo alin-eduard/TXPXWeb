@@ -1,0 +1,50 @@
+[s1]
+817.       										  Re m
+1. Filadelfia iubită nu mai suspina
+/: Că-n curând soseşte clipa
+Şi întinde-Mi-voi aripa
+Şi-n văzduh cu multă slavă
+Te voi ridica. :/
+
+[s2]
+2. Aşa zice Cel ce-i veşnic
+Ce te-a pus pe zid
+/: Ţi-am pus o uşă deschisă
+Tu veghează, fii ne-nvinsă
+Fii mereu în aşteptare
+Spre a Mă-ntâmpina :/
+
+[s3]
+3. Eu îţi ştiu a tale fapte
+Şi răbdarea ta
+/: Cu a ta mică putere
+Stai întruna în veghere
+Că-n curând vin după tine
+Şi te voi lua :/
+
+[s4]
+4. Nu te obosi pe cale
+Fii cu ochii-n sus
+/: Că-n curând te duc acasă
+O, iubita Mea mireasă
+Ca să fii pe totdeauna
+Sus în Casa Mea :/
+
+[s5]
+5. Dar păstrează-te curată
+Cu veşmânt curat
+/: Fii mereu tare-n credinţă
+Te îmbracă-n umilinţă
+Ca în ziua mult dorită
+Să Mă poţi vedea :/
+
+[s6]
+6. Pentru c-ai păzit Cuvântul
+Şi Eu te-oi păzi
+/:Când groaznic sufla-va vântul
+Ca să-ncerce tot pământul
+Eu veni-voi după tine
+Şi te voi răpi. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

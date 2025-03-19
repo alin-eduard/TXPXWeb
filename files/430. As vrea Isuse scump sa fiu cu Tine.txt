@@ -1,0 +1,29 @@
+[s1]
+1.Aş vrea Isuse scump să fiu ca Tine
+În pribegia mea pe acest pământ
+De atâtea ori când grea ispita-mi vine
+S-o biruiesc prin sfântul Tău Cuvânt.
+430 							       Fa
+
+[r1]
+Cor:
+Aş vrea Isuse scump, a Ta comoară
+De mângâieri pe veci să-mi dăruieşti
+/: Aş vrea ca-n mine
+Tot ce-i vechi să moară
+Ca Tu să faci din mine ce doreşti.:/
+
+[s2]
+2.Aş vrea Isuse scump a Ta viaţă
+Să se oglindească pururi în a mea
+Şi să dispară negura de ceaţă
+Ce-mpiedică să-Ţi văd mărirea Ta.
+
+[s3]
+3.Şi câte n-aş mai vrea o, scump Isuse
+În pribegia mea pe acest pământ
+Dorinţele ce îmi rămân nespuse
+Le împlineşte sfântul Tău Cuvânt.
+
+[order]
+s1,r1,s2,r1,s3,r1

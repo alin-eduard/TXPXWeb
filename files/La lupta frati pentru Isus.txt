@@ -1,0 +1,29 @@
+[s1]
+La luptă fraţi, pentru Isus!
+La Sfantul Său război!
+Drapelul Său să-L ţinem sus!
+Victoria-i cu noi!
+
+[r1]
+/:El ne dă victorii, El ne dă şi glorii
+Celor ce se-ntorc la El,
+La cerescul Miel!
+O, ce frumos când eşti un fiu
+Al Dumnezeului cel viu,
+Spălat de orişice păcat,
+Prin sângele vărsat. :/
+
+[s2]
+Cu dragoste, să îndrăzniţi!
+Pe toţi să-i îndemnaţi!
+Vorbind, pe uliţi, cu drumeţi,
+La Domnul să-i chemaţi!
+
+[s3]
+Avem un lucru de-mplinit
+Ce îngeri-l privesc;
+Ei sunt voioşi de necrezut,
+Când mulţi se pocăiesc.
+
+[order]
+s1,r1,s2,r1,s3,r1

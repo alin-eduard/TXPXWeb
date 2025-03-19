@@ -1,0 +1,39 @@
+[s1]
+133.                  Fa #
+1. Să se îndrepteze
+Rugăciunea mea,
+Ca tămâia, Doamne,
+Înaintea Ta.
+
+[s2]
+2.  Ţie Îţi voi spune
+Tot necazul meu,
+O, primeşte-mi ruga
+Către tronul Tău!
+
+[s3]
+3.	Scapă-mă, Părinte,
+Tată Sfânt de sus!
+Pentru jertfa crucii
+Domnului Isus!
+
+[s4]
+4. Nimeni, vai, nu poate
+Să-mi dea ajutor!
+Numai Tu, Stăpâne,
+Scump Mântuitor!
+
+[s5]
+5.	M-ai chemat adesea
+Dar n-am auzit.
+Şi-mi cunosc păcatul,
+Văd că Ți-am greşit !
+
+[s6]
+6. În genunchi la Tine,
+Eu mă rog mereu!
+Nu mă lăsa, Doamne,
+Pradă celui rău!
+
+[order]
+s1,s2,s3,s4,s5,s6

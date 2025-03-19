@@ -1,0 +1,44 @@
+[s1]
+Tu-mi esti stanca neclintita
+Tu-mi esti pacea-vesnicita
+Tu Isus Tu Isus.
+
+[s2]
+/: Bata vanturile bata
+Urle marea-nfuriata
+Sa-si ridice valurile mai sus
+Dar eu stiu ca niciodata
+Sa ma-nfranga n-o sa poata
+Caci nadejdea mea
+in Tin’ mi-am pus:/
+
+[s3]
+Tu-mi esti vesnica lumina
+Tu-mi esti dulcea mea odihna
+Tu Isus Tu Isus.
+
+[s4]
+/: Fie cat de grea noaptea
+Cu-nspaimantatoare soapte
+Si primejdii grele de nespus
+Dar eu stiu ca-n nici o parte
+Cel vrajmas n-o sa ma poarte
+Caci nadejdea mea
+in Tin’ mi-am pus:/
+
+[s5]
+Tu-mi esti sfanta bucurie
+Tu-mi esti totul pe vecie
+Tu Isus Tu Isus.
+
+[s6]
+/: Astazi merg pe-a crucii cale
+Prin a lumi-amara cale
+Si prin stari de umilinta dus
+Dar eu stiu ca vine vine
+Fericitu’ vesnic Mire
+Caci nadejdea mea
+in Tin mi-am pus:/
+
+[order]
+s1,s2,s3,s4,s5,s6

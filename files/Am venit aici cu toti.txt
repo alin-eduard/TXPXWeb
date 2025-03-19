@@ -1,0 +1,40 @@
+[s1]
+/: Am venit cu toţi aici
+În numele Lui
+Să-L preamărim :/ (3x)
+Pe El preamărim
+Pe Isus ca Domn.
+
+[s2]
+/: Să uităm de tot de noi
+Să gândim la El
+Să-L preamărim :/ (3x)
+Pe El preamărim
+Pe Isus ca Domn.
+
+[s3]
+/: El este dragostea mea
+Mă încred în El
+Şi-L preamăresc :/ (3x)
+Pe El preamărim
+Pe Isus ca Domn.
+
+[s4]
+/: Să venim ‘naintea Lui
+Smeriţi şi umiliţi
+Să-i mulţumim :/ (3x)
+Din nou, spune-ţi
+Cum să-I mulţumim.
+
+[s5]
+Lumea-ntreagă de mi-ar da
+Tot aurul din ea, nu-mi trebuie.
+Căci în Isus am găsit comori
+De ne descris – un nume sfânt.
+Azi în casa Tatălui,
+Eu sunt un fiu iubit
+De Dumnezeu din cer
+O, o spuneţi cum să-I mulţumim.
+
+[order]
+s1,s2,s3,s4,s5

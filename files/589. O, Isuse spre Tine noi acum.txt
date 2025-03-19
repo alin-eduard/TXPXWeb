@@ -1,0 +1,63 @@
+[s1]
+1. O, Isuse spre Tine noi acuma
+Înălţăm rugile noastre spre cer
+Chiar din inimile noastre zdrobite
+La altarul Tău sfânt să le iei.
+/: Să le mângâi la toţi azi necazul
+Să te avem lângă suflet pe Tine
+Căci ca mila Ta nu e niciuna
+Ca să mângâi aşa de minunat. :/
+589.      Re m
+
+[s2]
+2. O, vino Tu acuma, o, Isuse
+Ne vorbeşte prin Duhul Tău cel sfânt
+Căci mi-i dor să-ţi aud a Ta voce
+Mirele nost' iubit şi scump Isus.
+/: Să mă bagi Tu acum în scăldătoare
+Să mă vindeci şi să mă faci curat
+Căci fără Tine sufletul meu moare
+Şi acuma aşa-i de întristat. :/
+
+[s3]
+3. O, câte suflete Te cheamă acuma
+Ca să vii Tu la paturile lor
+Să-i atingi cu mâna Ta ceia sfântă
+Căci în suferinţă ei nu mai pot.
+/: Căci spre Tine strigăm ca şi orbul
+Fie-ţi milă de mine, o, Domnul meu
+Mila Ta întrece orice milă
+Orice dragoste ce o cunosc eu. :/
+
+[s4]
+4. O, Isuse nu îţi aduce aminte
+De păcatele noastre din trecut
+Ci adu-ţi aminte Tu acuma
+De dragostea pe care ai avut.
+/: Te rugăm ca să uiţi Tu acuma
+Orice greş pân' la adânci bătrâneţi
+Să ne faci pe toţi ca Tine una
+Ca în zilele din tinereţi. :/
+
+[s5]
+5.	Pe bătrâni îi fă Tu o, Isuse
+Să nădăjduiască mereu în Tin`
+Pe noi tineri ne ajută, o, Isuse
+Să Te slăvim cu toţi din inimă.
+/: Ca odată când cerul şi marea
+Cu trosnete vor trece în curând
+Iar Tu atunci ne vei da deşteptarea
+Să te putem întâmpina Isus. :/
+
+[s6]
+6.	Dă-mi Tu dragoste precum lui David
+Binecuvântare i-ai dat deplin
+Să-ţi slăvim al Tău nume cu harfa
+Cu talanţii pe care Tu ne-ai dat.
+/: Dă-mi ulei în candelă să ardă
+Să veghem s-aşteptăm priveghind
+Că nu ştim ziua, clipa nici ceasul
+Când la Tine ne vei chema Isus. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

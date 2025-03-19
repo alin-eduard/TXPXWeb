@@ -1,0 +1,52 @@
+[s1]
+Cei ce se încred
+În Cel Atotputernic,
+Cei ce-si pun nădejdea
+În Cel ce este vesnic,
+Cei ce se încred
+În Domnul Dumnezeu,
+Nu vor fi lăsati
+În voia celui rău.
+
+[s2]
+/: În Tine mă încred
+Orice s-ar întâmpla
+Chiar de pământul
+Rodul nu-si va da
+Chiar de nu va fi
+Ploaie pe câmpie
+Tu îmi trimiti ajutorul
+Ca lui Ilie :/.
+
+[s3]
+Cei ce-n orice zi spre
+Domnul se îndreaptă,
+Nu vor duce lipsă
+De pâine si apă,
+Care înspre El
+Se îndreapta cu rugăciune,
+Nu vor duce lipsă
+De nici un bine.
+
+[r1]
+/: În Tine mă încred
+Orice s-ar întâmpla
+Chiar de pământul
+Rodul nu-si va da
+Chiar de nu va fi
+Ploaie pe câmpie
+Tu îmi trimiti ajutorul
+Ca lui Ilie :/
+
+[s4]
+Uită-te pe geam,
+Priveste la vrăbioară,
+Cât e de voioasă,
+Ce frumos zboară,
+Ea nu seamănă
+Domnul o îngrijeste
+Cât mai mult pe tine
+Domnul te păzeste.
+
+[order]
+s1,s2,s3,r1,s4,r1

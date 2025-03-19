@@ -1,0 +1,42 @@
+[s1]
+O lume întreagă stă în nepăsare
+Şi caută adăpost
+când vine o-ncercare
+Dar eu nu mă tem, dar eu nu mă tem
+În ceasul cel bun
+ea-i stăpână pe toate
+Când Domnul îi vorbeşte
+nu-i frică de moarte
+Dar eu nu mă tem, dar eu nu mă tem
+
+[r1]
+Dar eu nu mă tem
+Chiar dacă cei din jur mă părăsesc
+Dar eu nu mă tem orice-ar veni
+Viaţa mea
+e-n mâna Celui ce-a murit pe lemn
+Cu mine Îl chem şi eu nu mă tem
+
+[s2]
+Ades vine-ncercarea
+năvalnic ca marea
+Şi nori negri grabnic întunecă zarea
+Dar eu nu mă tem, dar eu nu mă tem
+Se spulberă gândul şi orice speranţă
+Şi nici măcar o clipă nu ai siguranţă
+Dar eu nu mă tem, dar eu nu mă tem
+
+[s3]
+Şi oamenii cei răi
+mă-nconjuară cu ură
+Din cupa lor să-mi dea
+să beau o picătură
+Dar eu nu mă tem, dar eu nu mă tem
+Cu Domnul meu
+eu trec biruitor prin toate
+Din apă şi din foc
+să mă scape El poate
+Şi eu nu mă tem, şi eu nu mă tem
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,30 @@
+[s1]
+De-atata timp Tu m-ai chemat
+Si cu rabdare-ai asteptat,
+Sa inteleg chemarea Ta
+Si sa-mi deschid inima mea.
+
+[r1]
+/: Cred intr-unul Dumnezeu
+Cred in Isus, Fiul Sau,
+Cred in Duhul Sau cel Sfant
+Cred in noul legamant.
+Cred ca azi mai este har
+Si mantuire am in dar,
+Cred ca Isus a murit
+Si pe noi ne-a mantuit. :/
+
+[s2]
+Am inteles chemarea Ta
+Si am deschis eu inima,
+Atata pace-ai pus in ea
+Cum nimenea nu-I poate da.
+
+[s3]
+Am acceptat chemarea Ta
+Si-am hotarat sa spun “Da”!
+Nu, inapoi eu nu voi da
+Ci inainte-I tinta mea.
+
+[order]
+s1,r1,s2,r1,s3,r1

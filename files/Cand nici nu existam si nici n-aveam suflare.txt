@@ -1,0 +1,44 @@
+[s1]
+Când nici nu existam
+şi nici n-aveam suflare,
+Din cer înca de-atuncea mă vedeai
+Când nici chip nu aveam
+şi nici vreo zi sub soare,
+În cartea vieţii numele-mi scria.
+
+[r1]
+/:Te laud:/
+Căci ai iubit sufletul meu
+Eşti sfânt, Eşti drept,
+Eşti bun, Eşti mare
+Te laud că numai
+Tu eşti Dumnezeu.:/
+
+[s2]
+Mă cercetezi n-ascuns
+M-acoperi cu-ndurare,
+Şi esti cu mine atunci
+când mă trezesc.
+O cât de nepătruns
+Eşti în a Ta lucrare,
+De-aceea Doamne
+numele-Ţi slăvesc.
+
+[s3]
+Oriunde aş pleca
+Tu eşti mereu cu mine,
+Cu Tine chiar şi noaptea este zi.
+Cu Tine nu voi fi
+Nicicând dat de ruşine,
+Căci mâna Ta mă va călăuzi.
+
+[s4]
+/:Te laud:/
+Căci ai iubit sufletul meu
+Eşti sfânt, Eşti drept,
+Eşti bun, Eşti mare
+Te laud că numai
+Tu eşti Dumnezeu. :/
+
+[order]
+s1,r1,s2,r1,s3,s4

@@ -1,0 +1,30 @@
+[s1]
+Doamne vin
+Și-ngenunchez,
+Ție Îți mărturisesc:
+”Fără Tine aș cădea,
+Doar Tu ești odihna mea.”
+2277.                                                                                                                                           Do M
+
+[r1]
+Ref:
+/: Eu de Tine am nevoie
+Am nevoie mare
+Tu ești neprihănirea mea
+Și-a mea apărare. :/
+
+[s2]
+2. Acolo unde e păcat,
+E încă har nemăsurat
+Hristos în mine, asta e,
+Prin Harul Său: sfințenie!
+
+[s3]
+3. Să mă-nveți
+cântări să-nalț,
+Când ispite-n cale vin
+Mă las, Isus, pe al Tău braț,
+Ești speranță și alin.
+
+[order]
+s1,r1,s2,r1,s3,r1

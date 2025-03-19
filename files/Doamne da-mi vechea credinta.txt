@@ -1,0 +1,24 @@
+[r1]
+/:Doamne, dă-mi vechea credinţă:/(3x)
+În ea vreau să cred şi eu.
+
+[s1]
+A crezut în ea şi Moise
+A crezut în ea şi David
+Au crezut în ea profeţii
+În ea vreau să cred şi eu.
+
+[s2]
+A crezut în ea şi mama
+A crezut în ea şi tata
+Au crezut în ea toţi fraţii
+În ea vreau să cred şi eu.
+
+[s3]
+A crezut în ea şi Pavel
+A crezut în ea şi Sila
+Au crezut în ea toţi sfinţii
+În ea vreau să cred şi eu.
+
+[order]
+r1,s1,r1,s2,r1,s3,r1

@@ -1,0 +1,33 @@
+[s1]
+1622.
+1. /:Dă-mi dragostea:/ Ta, Isuse!
+Osana, Aleluia!
+Dă-mi Isuse, dragostea Ta!
+De acum şi până-n veci, Aleluia!
+
+[s2]
+2. /:Dă-mi iubirea:/ Ta, Isuse!
+Osana, Aleluia!
+Dă-mi Isus, iubirea Ta!
+De acum şi până-n veci Aleluia!
+
+[s3]
+3. /:Dă-mi credinţa:/ Ta, Isuse!
+Osana, Aleluia!
+Dă-mi Isus credinţa Ta!
+De acum şi până-n veci Aleluia!
+
+[s4]
+4. /:Dă-mi smerenia:/ Ta, Isuse!
+Osana, Aleluia!
+Dă-mi Isus smerenia Ta!
+De acum şi până-n veci Aleluia!
+
+[s5]
+5. Golgota /:O, Golgota:/
+De sus de la Golgota
+Ne vine izbăvirea!
+De acum şi până-n veci Aleluia!
+
+[order]
+s1,s2,s3,s4,s5

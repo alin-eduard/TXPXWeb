@@ -1,0 +1,47 @@
+[s1]
+Domnul mult bine mi-a făcut
+Întotdeauna Îl voi iubi
+El e conducătorul meu
+Eu întotdeauna Îl voi iubi
+Cor:	Eu întotdeauna Îl voi iubi
+Pe Domnul pe Isus
+Eu întotdeauna Îl voi iubi
+Căci mult bine mi-a făcut
+1.
+1226
+
+[s2]
+Toată ziua-i lângă mine
+Eu totdeauna Îl voi iubi
+Căci Isus e mai bun prieten
+Eu totdeauna Îl voi iubi
+2.
+Cor:	Eu întotdeauna Îl voi iubi
+Pe Domnul pe Isus
+Eu întotdeauna Îl voi iubi
+Căci mult bine mi-a făcut
+
+[s3]
+Dacă lumea Îl uită pe El
+Eu totdeauna Îl voi iubi
+Căci Isus e mai bun prieten
+Eu totdeauna Îl voi iubi
+3.
+Cor:	Eu întotdeauna Îl voi iubi
+Pe Domnul pe Isus
+Eu întotdeauna Îl voi iubi
+Căci mult bine mi-a făcut
+
+[s4]
+În valea întunericului
+Eu totdeauna Îl voi iubi
+Şi acolo sus în cerul sfânt
+Eu totdeauna Îl voi iubi
+Cor:	Eu întotdeauna Îl voi iubi
+Pe Domnul pe Isus
+Eu întotdeauna Îl voi iubi
+Căci mult bine mi-a făcut
+4.
+
+[order]
+s1,s2,s3,s4

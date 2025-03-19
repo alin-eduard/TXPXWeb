@@ -1,0 +1,40 @@
+[s1]
+Locaş ceresc eu am aflat,
+Isus, prin jertfa mi l-a dat;
+Acolo veşnic este zi,
+acolo noapte nu va fi.
+
+[r1]
+O, sfânt locaş, al meu sălaş,
+la ţărmul tău mă aflu eu;
+Privesc 'nainte peste mări,
+locaş frumos eu văd în zări
+Cu străzi de aur ce nu trec,
+e ţara mea spre care merg.
+
+[s2]
+Cu mine e mereu Isus
+şi fericit mă simt nespus,
+Condus de mâna Sa spre cer,
+spre locuri sfinte ce nu pier.
+
+[s3]
+Acolo pomii înfloresc,
+parfumul lor îl răspândesc
+Şi apele mereu sunt vii
+şi mii de flori sunt pe câmpii.
+
+[s4]
+Acolo vântul suflă lin,
+nu se aude vreun suspin;
+Se-aud doar îngeri mii în cor
+slăvind pe-al lumii Salvator.
+
+[s5]
+Şi eu acolo când voi fi
+cu cei aleşi ÎI voi slăvi
+Pe-al meu Mântuitor iubit
+ce pentru mine S-a jertfit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

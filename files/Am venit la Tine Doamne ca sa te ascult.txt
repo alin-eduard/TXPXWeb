@@ -1,0 +1,51 @@
+[s1]
+Am venit la Tine Doamne
+ca să Te ascult,
+Inima Tu să mi-o cureţi
+de orice tumult,
+Să-mi torni linişte deplina
+Şi putere de la Tine
+Ca să mă încred în Tine,
+/:Doamne, cât mai mult.:/
+
+[s2]
+Pasul meu când va fi
+Doamne a se clătina
+Rugăciune-ndrept spre Tine
+pentru-a mă ierta,
+Mă ridică din păcate
+Şi din cea mai neagră noapte
+Orice rău din mine scoate
+/:Cu dragostea Ta.:/
+
+[s3]
+Când petalele iubirii-ncep
+a se usca,
+În potirele inimii rog a îmi turna
+Roua sfântă-a dimineţii
+Şi din ceruri apa vieţii
+Pune-mi foc în locul gheţii
+/:Şi nu mă lăsa.:/
+
+[s4]
+Când va fi ispita lumii
+să mă-ncerce iar
+Strălucirea-i trecătoare
+fă-o în zadar
+Cu al Tău duh de veghere
+Să duc răul la tăcere
+Sufla-mi praful din unghere
+/:Dă-mi cerescul har.:/
+
+[s5]
+Mulţumesc acuma, Doamne,
+pentru tot ce-mi dai,
+Că la poarta strâmtă, Doamne,
+încă Tu mai stai
+Viaţă veşnică să-mi dărui
+Planul celui rău să-l nărui
+Iată-n ruga mea eu stărui
+/:Să mă iei în rai.:/
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,36 @@
+[s1]
+Minunat si frumos e-n cer,
+Să ajung vreau acolo sus,
+După lupta cea grea,
+Eu în cer voi intra
+Unde-L pot vedea pe Isus.
+
+[r1]
+Cât de dulce e a spera
+Că eu în rai voi intra,
+Acolo Isus loc mi-a pregătit
+Si de-acum sunt fericit!
+
+[s2]
+Minunat si frumos e în cer
+Unde moartea nu va intra,
+Noapte nu va mai fi,
+Ci o vesnică zi;
+O, ce loc frumos vom vedea!
+
+[s3]
+Minunat si frumos e-n cer,
+Locul vesniciei armonii,
+Frati pe frati se iubesc,
+În lumină trăiesc
+Si cu Domnul ei vor domni.
+
+[s4]
+Minunat si frumos e-n cer,
+Ne-ncetat eu mă voi ruga,
+Vreau să fiu pregătit,
+Pe deplin curătit
+Când în slavă eu voi intra
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,50 @@
+[s1]
+1.Acum cât încă se mai poate,
+Lucrează, frate, cu folos,
+Căci nu-i mai prețios din toate
+Decât ce faci pentru Hristos.
+
+[s2]
+Cât încă ai suflare-n tine
+Mai poți ofrande să-I aduci,
+Căci s-ar putea ziua de mâine,
+Amicul meu, să n-o apuci
+
+[r1]
+R:   Fă-ți timp pentru El, fă-ți timp pentru cer,
+Din toate aceasta-i mai presus.
+Fă-ți timp să iubești, fă-ți timp să te jertfești,
+Fă-ți timp astăzi pentru Isus!
+
+[s3]
+2.Fă-ți timp pentru acei ce-n lume
+Aleargă din rău spre mai rău
+Nu obosi, ci spune, spune
+De dragostea lui Dumnezeu.
+
+[s4]
+Fă-ți timp și mergi fără cârtire
+La patul celor suferinzi,
+Căci ei așteaptă cu iubire
+Măcar o mână să le-ntinzi!
+
+[s5]
+3.Fă-ți timp pentru copiii care
+Rămas-au fără de părinți,
+Să dai o simplă sărutare
+Și-o clipă doar să îi alinți
+
+[s6]
+Cât încă ai suflare-n tine
+Lucrează frate cu folos,
+Căci ce faci pentru El rămâne,
+Fă-ți astăzi timp pentru HRISTOS!
+
+[s7]
+R:   Fă-ți timp pentru El, fă-ți timp pentru cer,
+Din toate aceasta-i mai presus.
+Fă-ți timp să iubești, fă-ți timp să te jertfești,
+Fă-ți timp astăzi pentru Isus!                Amin.
+
+[order]
+s1,s2,r1,s3,s4,r1,s5,s6,s7

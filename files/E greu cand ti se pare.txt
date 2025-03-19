@@ -1,0 +1,42 @@
+[s1]
+E greu când ti se pare,
+Că singur si străin,
+Rămas-ai pe-a ta cale,
+Si n-ai niciun sprijin.
+Că lacrima din geană,
+Si plânsul năbusit,
+Si-amarul greu din suflet,
+Intreg te-a coplesit.
+
+[r1]
+Nu spune-n deznădejde,
+nimic nechibzuit,
+Căci Cel ce totul vede,
+Spre tine a privit.
+Doar El îti poartă grija,
+Si stie rana ta,
+In clipa hotărâtă,
+/: Doar El ţi-o va lega :/
+
+[s2]
+E greu în suferinţă,
+E greu prin încercări,
+E greu în deznădejde,
+Să crezi în vindecări.
+E greu la strâmtorare,
+E greu când eşti lovit,
+Să ţii credinţa tare,
+Si-atunci când eşti hulit.
+
+[s3]
+E greu când întristarea,
+In suflet te-a lovit,
+Când drag nu-ţi mai apare
+fiinţa ce-ai dorit.
+E greu când disperarea
+îsi pune-amprenta sa,
+Lăsând în casă jalea,
+Intrebi : « de ce-i asa ? ».
+
+[order]
+s1,r1,s2,r1,s3,r1

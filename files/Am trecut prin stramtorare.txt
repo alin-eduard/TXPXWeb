@@ -1,0 +1,32 @@
+[s1]
+Am trecut prin stramtorare
+Am trecut prin greu cuptor,
+Cand era focul mai mare
+Mi-ai venit in ajutor.
+
+[r1]
+/: Când treceam prin încercare
+Spre mine Doamne ai privit
+În bunatatea Ta cea mare
+La mine Te-ai gândit. :/
+
+[s2]
+Am trecut prin suferintă
+Boala m-a răpus la pat
+Dar Tu mi-ai dat biruita
+Din necazuri m-ai salvat.
+
+[s3]
+Multe valuri au lovit
+În casuta mea de lut
+Doamne tu m-ai izbavit
+Mi-ai fost pavăză si scut.
+
+[s4]
+Vreau cuvântul să-ti ascult
+Fiindcă Tu-mi doresti doar bine
+Doamne nu îti cer mai mult
+Decât să rămâi cu mine.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

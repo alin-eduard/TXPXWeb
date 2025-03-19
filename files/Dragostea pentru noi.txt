@@ -1,0 +1,30 @@
+[s1]
+1. Dragostea pentru noi pan' la moarte
+Te-a condus pentru-a noastre pacate
+Ai murit rastignit
+Cuie-n maini ti-au batut pentru mine
+Ai murit in prea mare suspine
+Dar a treia zi ai inviat.
+
+[r1]
+R:  Mielule, oare cum sa-Ti multumesc?
+Caci prin jertfa de pe cruce astazi eu traiesc
+Eliberat, al Tau sange m-a spalat
+Speranta mantuirii Tu mi-ai dat.
+
+[s2]
+2. Chinuit pe un lemn pentru mine
+Pentru noi, pentru toti, pentru tine
+Ai murit rastignit
+Dezbracat de-a Sa slava cereasca
+S-a smerit lumea sa mantuiasca
+Sa fie-a Lui in veci de veci.
+
+[s3]
+C: Prin trairea mea astazi vreau sa-Ti multumesc
+Si zi de zi spre ceruri sa inaintez
+Pasind frumos vreau sa merg pe calea Ta
+Facand doar voia Ta, nu voia mea.
+
+[order]
+s1,r1,s2,r1,s3

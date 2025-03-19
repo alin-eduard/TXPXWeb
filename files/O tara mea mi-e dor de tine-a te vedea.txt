@@ -1,0 +1,42 @@
+[s1]
+O, ţara mea,
+Mi-e dor de tine-a te vedea
+Cămin ceresc
+/: Pentru tine eu trăiesc
+Zi şi noapte mă gândesc
+Pe-al Tău plai curând ca să sosesc:/
+Re M
+
+[r1]
+Vino, vino, o, Doamne
+Vino, vino, Isuse!
+/: Lângă Tine vreau să fiu,
+Pe-al Tău braţ vreau să mă ştiu
+Tu eşti toată mângăierea mea :/
+
+[s2]
+O, sfant camin,
+Pentru tine eu suspin.
+La sanul tau
+/: Dorul meu vreau sa-l alin,
+Viata mea vreau sa mi-o-nchin
+Tatalui, prin Fiul Sau divin! :/
+
+[s3]
+O, Doamne, vreau
+Langa Tine sa raman!
+O, Doamne, vreau
+/: Langa Tine sa traiesc,
+Pacea Ta s-o cuceresc,
+O, Isuse, Domnul meu ceresc! :/
+
+[s4]
+Fii lăudat!
+Tu Părinte bun şi sfânt
+Fii lăudat!
+/: Pentru jertfa lui Isus
+Pentru sângele ce-a curs
+Pentru ţara noastră cea de sus :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

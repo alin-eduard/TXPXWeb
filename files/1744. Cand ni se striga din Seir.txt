@@ -1,0 +1,47 @@
+[s1]
+1. Când ni se strigă din Seir
+Mai e puţin din noapte
+Străjerule ce stai pe zid
+Mai este mult din noapte
+/:Vine dimineaţa
+Chiar dacă noapte e
+Cuvântu-aşa ne spune
+Se-arată zorile:/
+1744.
+
+[s2]
+2. Mireasă mai rabdă puţin
+Căci noaptea va dispare
+Şi soarele va străluci
+Isus Domnul cel mare
+/:Vine dimineaţa
+Şi vom pleca spre cer
+Cântând cântarea nouă
+Isus Emanuel:/
+
+[s3]
+3. Rămâi pe zidul ce te-a pus
+Domnul cel puternic
+Privirea să ţi-o-ndrepţi în sus
+Spre Dumnezeu cel veşnic
+Vine dimineaţa şi vom pleca spre cer
+Cântând cântarea nouă
+Isus Emanuel
+Luceafărul cel veşnic
+Atunci va străluci
+În zorii dimineţii pe El îl vom slăvi
+
+[s4]
+4. Cu lacrimile-n ochi privim
+Spre zările senine
+Ne-atât de dor şi Te dorim
+Ca să ne iei la Tine
+Şi-atuncea vom cânta
+Cântarea biruinţei
+Cu harfa şi-alăuta Ţara făgăduinţei
+Şi Mirele iubit ne va servi la masă
+Vom fi mireasa Lui
+Mireasa Lui aleasă
+
+[order]
+s1,s2,s3,s4

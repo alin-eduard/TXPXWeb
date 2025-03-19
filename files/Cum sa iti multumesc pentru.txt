@@ -1,0 +1,33 @@
+[s1]
+Cum să-Ţi mulţumesc
+pentru tot ce mi-ai daruit
+Eu n-am meritat
+ca să mă iubeşti aşa de mult
+Tot cerul n-ar putea să-Ţi spună
+Deplin recunoştinţa mea
+Că tot ce sunt şi ce voi fi
+de-a pururi
+E darul tău divin.
+
+[s2]
+Slăvit fie Domnul,
+slăvit fie Domnul,
+Slăvit fie Domnul
+pentru tot ce mi-a dat
+M-a spălat al Său sânge
+M-a’nălţat braţu-I tare
+Slăvit fie Domnul
+pentru tot ce mi-a dat.
+
+[s3]
+Aş vrea să-Ţi fiu pe plac
+cu viaţa mea, cu tot ce am
+Şi gândul meu, ruga mea,
+să înalţ mereu spre Golgota
+M-a spălat al Său sânge,
+m-a’nălţat braţu-I tare,
+Slăvit fie Domnul
+pentru tot ce mi-a dat.
+
+[order]
+s1,s2,s3

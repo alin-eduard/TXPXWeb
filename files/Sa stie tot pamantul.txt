@@ -1,0 +1,28 @@
+[s1]
+/: Să ştie tot pământul
+Că are un Stăpân
+Să ştie-ntreaga lume
+Că are-un Creator. :/
+
+[r1]
+Şi acest Stăpân este Dumnezeu
+Care toate le-a creat,
+Cu puterea Sa.
+Şi acest Stăpân este Dumnezeu
+De aceea Lui mă-nchin,
+Şi Îl preamăresc.
+
+[s2]
+/: Să ştii chiar şi tu, omule
+Că ai un Creator
+Şi grija ta îţi poartă
+Şi-ţi vine-n ajutor. :/
+
+[s3]
+/: Îi mulţumeşti oare-ndeajuns
+Acestui bun Stăpân
+Prin viaţa ta Îi dovedeşti
+Că Îl iubeşti şi tu. :/
+
+[order]
+s1,r1,s2,r1,s3,r1

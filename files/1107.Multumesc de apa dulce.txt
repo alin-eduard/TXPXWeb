@@ -1,0 +1,33 @@
+[s1]
+1107.                                                            Mi
+1.Mulţumesc de apa dulce
+De izvor din care beau
+Cer iertare pentru apa
+Tulburată făr’ să vreau.
+
+[r1]
+/:Doamne, Te rog ţine minte
+Ce-am făcut pe placul Tău
+Dar nu-Ți mai adu aminte
+De nimic din ce-a fost rău.
+
+[s2]
+2 Mulţumesc de pâinea care
+M-ai hrănit, flămând fiind.
+Cer iertare pentru pâinea
+Ce-am călcat-o neştiind.
+
+[s3]
+3 Mulţumesc de rugăciunea
+Înălţată prin Duh Sfânt
+Cer iertare rugăciunii
+Înălţată dormitând
+
+[s4]
+4  Mulţumesc de ziua plină
+Folosită cu Hristos
+Cer iertare pentru ziua
+Ce-am pierdut fără folos.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

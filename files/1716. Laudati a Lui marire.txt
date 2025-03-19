@@ -1,0 +1,50 @@
+[s1]
+1716.
+1. Lăudaţi a Lui tărie
+Ceruri sfinte şi genuni
+Cedrii falnici din câmpie
+Vânt şi valuri şi furtuni
+Îngeri şi oştiri de stele
+Şi oştiri de pe pământ
+Binecuvântaţi pe Domnul
+Dumnezeul nostru sfânt
+
+[r1]
+Cor:	/:Lăudaţi-L soare lună
+Nori şi stele şi furtună
+Credincioşii când se adună
+Să laude numele său
+Lăudaţi pe Dumnezeu:/
+
+[s2]
+2. El a poruncit să vină
+Una după alta-n mers
+Nori şi ape şi lumină
+Strălucind în univers
+Stele sfinte luminoase
+Care strălucesc mereu
+Ceruri multe glorioase
+Lăudaţi pe Dumnezeu
+
+[s3]
+3. Lăudaţi-L munţi şi dealuri
+Şi voi pomii roditori
+Ape mari furtuni şi dealuri
+Şi voi oameni muritori
+Să unim şi noi cântarea
+Cu oştirile cereşti
+Să răsune toată zarea
+De cântări Dumnezeieşti
+
+[s4]
+4. Oameni şi voi zburătoare
+Lăudaţi pe Dumnezeu
+Oameni şi vieţuitoare
+Lăudaţi numele Său
+Peştii mării şi balauri
+Şi adâncuri şi uscat
+Lăudaţi pe Ziditorul
+Dumnezeul minunat
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

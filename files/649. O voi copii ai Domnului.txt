@@ -1,0 +1,33 @@
+[s1]
+1. O voi copii ai Domnului
+Voi ştiţi ce bun e Dânsul
+Căci pâinea şi cu apa Lui
+Vă alinară plânsul
+649.
+2. De mult de harul nesecat
+Cu pâine şi cu apă
+Al vostru suflet ne-ncetat
+Mănâncă şi se adapă
+
+[s2]
+3. Dar nu uitaţi că vă-nconjoară
+Şi inimi multe, multe
+Ce n-au putut în viaţa lor
+Pe Domnul să-l asculte
+4. Necazurile vieţii cresc
+Că lumea e pustie
+Atâtea suflete cerşesc
+Un strop de apă vie
+
+[s3]
+5. Daţi apă celor însetaţi
+Celor flămânzi mâncare
+Sunt mulţi aici nemângâiaţi
+Că lumea este mare
+6. Copii ai Domnului chemaţi
+Din lumea cea pustie
+Din dar aveţi în dar să daţi
+Pâine şi apă vie.
+
+[order]
+s1,s2,s3

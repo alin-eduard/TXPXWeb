@@ -1,0 +1,16 @@
+[s1]
+2147
+1. Focul rugăciunii ține-mi-l aprins, Doamne să nu-mi fie nici o clipă stins!
+Căci prin rugăciune simt că viețuiesc, și prin ea, iubirea mea Ți-o dăruiesc!
+
+[s2]
+2. Firul rugăciunii să nu-mi fie rupt, căci prin ea izbândă am deplin când lupt!
+Să-nțeleg că-n viață n-am
+vre-un căpătâi, dacă rugăciunea nu-i pe locu-ntâi!
+
+[s3]
+3. Pentru Tine, Doamne, fie ruga mea Tu să ai folosul sfânt și-ntreg din ea
+Toate-a-mele toate, mii foloase, mii Doamne, sunt din Tine, azi și-n veșnicii!
+
+[order]
+s1,s2,s3

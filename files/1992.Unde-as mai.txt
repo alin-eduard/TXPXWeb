@@ -1,0 +1,43 @@
+[s1]
+1992
+1. Unde-aș mai găsi o Doamne
+Fericire și cântare
+Ca în casa Ta deschisă
+Pentru binecuvântare
+Când în clipa rugăciunii
+Vii să ne mângâi duios
+Să ne arăți că printre lacrimi
+Cerul e mai luminos.
+
+[s2]
+Unde-aș mai găsi o Doamne
+Bucurii ca ale Tale
+Ca atunci când ești cu turma
+Și-o călăuzești pe cale
+Ca atunci când ne ridică
+Mâna Ta de prin noroi
+/: Ca atunci când ești la masă
+Și frângi pâinea pentru noi :/.
+
+[s3]
+2. Unde-aș mai găsi o Doamne
+Dragoste așa duioasă
+Ca-n îmbrățișarea dată
+Celui ce se- ntoarce acasă
+Când ne vezi în haine rupte
+Și cu lacrimi pe obraz
+Când ne ieși pe drum nainte
+Și ne cazi peste grumaz .
+
+[s4]
+Unde-aș mai găsi o Doamne
+Mângâiere ca la Tine
+Când lumina bucuriei
+Șterge norul cu suspine
+Unde mai sunt diamante
+Cu sclipire de cleștar
+/: Ca îmbrățișarea dulce
+A iubirilor cu har :/.
+
+[order]
+s1,s2,s3,s4

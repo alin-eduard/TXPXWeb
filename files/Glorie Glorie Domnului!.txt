@@ -1,0 +1,36 @@
+[s1]
+Gorie! Glorie Domnului!
+El domneste din vesnicii
+Glorie! Este regatul Sau
+Sta neclintit tron de lumini
+Sus pe-naltimi
+
+[s2]
+Deci veniti sa-L preamarim
+Pe Domnul nostru
+Pe Isus ce pentru noi
+E singurul Domn
+
+[s3]
+Glorie! Domnului glorie!
+Peste pamant si peste cer
+El este Domn
+
+[s4]
+Sfant esti! Sfant esti! Sfant esti!
+Dumnezeu puternic
+Tu esti pretutindeni
+de-aceea Te laudam
+
+[s5]
+Slava Lui! Veniti sa-nenchinam
+Lui Isus ce mantuire ne-a daruit
+(Sfant esti! Sfant esti! Sfant esti!
+Dumnezeu puternic
+In Trinitate binecuvantat)
+Slava Lui! Veniti sa Ii cantam
+/: El este Domn al gloriei
+in veci de veci :/
+
+[order]
+s1,s2,s3,s4,s5

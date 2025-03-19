@@ -1,0 +1,30 @@
+[s1]
+Frumoasa zi de bucurii
+La noi iar a sosit,
+În corul sfânt cu îngerii
+Cântarea ne­-am unit.
+
+[s2]
+Slavă lui Dumnezeu cântăm,
+Regelui nostru ne-­nchinăm;
+Pace fie pe pământ: Sfânt!
+
+[s3]
+Când întunericul domnea,
+Lumina a venit,
+Căci Dumnezeu ne oferea
+Un dar nepreţuit.
+
+[r1]
+Slavă lui Dumnezeu cântăm,
+Regelui nostru ne­-nchinăm;
+Pace fie pe pământ: Sfânt!
+
+[s4]
+Acum la iesle noi venim,
+La Cel glorificat,
+Umilul Prunc ce azi privim
+E Domn şi Împărat!
+
+[order]
+s1,s2,s3,r1,s4,r1

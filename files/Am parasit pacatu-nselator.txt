@@ -1,0 +1,26 @@
+[s1]
+Am părărsit păcatu-nşelător,
+Nu-l mai doresc, mă simt biruitor.
+Am fost salvat prin graţia de sus
+Si sunt curat prin sfântul sânge-al lui Isus.
+
+[r1]
+Îl iubesc, îl iubesc că-ntâi
+El m-a iubit
+Si pentru mine
+sus pe cruce S-a jertfit.
+
+[s2]
+Am fost pierdut în pofte şi păcat,
+De îndoieli mereu împresurat.
+Am înfruntat mânia Domnului
+Dar m-a eliberat pe veci iubirea Lui.
+
+[s3]
+Am fost legat, El m-a eliberat.
+Am fost orbit, lumina El mi-a dat.
+Am fost ca mort, dar în Hristos trăiesc
+Ca pacea Lui întregii lumi să o vestesc.
+
+[order]
+s1,r1,s2,r1,s3,r1

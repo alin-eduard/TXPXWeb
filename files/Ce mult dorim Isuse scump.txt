@@ -1,0 +1,38 @@
+[s1]
+Ce mult dorim, Isuse scump,
+Să scuturi iarăşi norii Tăi
+Din Duhul Tău ceresc şi sfânt
+Să torni peste copiii Tăi.
+Să se aud-un vâjâit,
+Cum fost-a, Doamne, la-nceput
+Prin Duhul Tău ceresc şi sfânt
+Să Te aflăm Isuse scump
+
+[r1]
+/: Iar limbi de foc ca la Rusali
+Trimite, Doamne peste noi
+Ca toţi, Osana să strigăm
+Prin Duhul Sfânt să Te lăudăm :/
+
+[s2]
+Din untdelemnul Tău cel sfânt
+Mai toarnă astăzi peste noi
+Iar ploaia, Duhului Tău Sfânt
+Să curgă peste noi şuvoi
+Mai lasă Doamne, al Tău foc
+Ca-n ziua-ntâia de Rusali
+Să zguduie casa din loc
+Să fie-o zi de bucurii
+
+[s3]
+Să se ridice azi proroci
+Care de mult nu mai vorbesc
+Să se ridice văzători
+Care prin Duhul Sfânt vestesc
+La toţi acei ce sunt bolnavi
+Să faci Isus o scăldătoare
+Să fie astăzi vindecaţi
+Prin Duhul Sfânt eliberaţi
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,26 @@
+[s1]
+Naintea noastra o pereche sta
+Pe care-o-mbratisam cu dragoste
+Mire, mireasa, facind legamant,
+Iubire sfanta in inimi avand.
+
+[r1]
+Tu ai dat Doamne casatoria
+Fericiti prin Tine vor fi numai
+Doamne Tie ne rugam acuma,
+Da-le lor binecuvintarea Ta!
+
+[s2]
+Perechea aceasta paseste pe-un drum
+Condu-i pe ei catre scopul cel bun
+Ca sa alerge ei nedespartiti
+Spre Tine sa fie-n veci fericiti.
+
+[s3]
+Da, Doamne harul Tau pe-acesti iubiti
+Sa fie credinciosi pan’ la sfarsit
+In rau, in bine-n orice ispita
+Sa aiba un cuget, simt si-o inima.
+
+[order]
+s1,r1,s2,r1,s3,r1

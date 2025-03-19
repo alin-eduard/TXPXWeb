@@ -1,0 +1,20 @@
+[r1]
+Întinde-ţi mâna, Isus nu mă lăsa
+Întinde-ţi mâna, şi ia-mă in dreapta Ta
+Întinde-ţi mâna, când valul m-a luat
+Şi-n mâna Ta, speranţă am aflat
+
+[s1]
+Ca şi Petru, când pe ape
+Păşesc să vin spre Tine,
+Un pas şi-ncetul mă las în ape
+Si-atunci, încep să strig
+
+[s2]
+Când credinţa-mi slabă Doamne
+Adesea m-am clătinat
+Crezând că singur păşesc pe ape
+Şi-atunci m-am scufundat
+
+[order]
+r1,s1,r1,s2,r1

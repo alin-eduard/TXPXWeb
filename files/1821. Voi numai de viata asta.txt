@@ -1,0 +1,35 @@
+[s1]
+1821.
+1. Voi numai de viaţa asta
+Vă-ngrijoraţi şi vă vedeţi
+De parcă numai viaţa este
+/:Voi moarte, oare, nu aveţi:/
+/:Treziţi-vă, treziţi-vă!
+Voi, moarte, oare nu aveţi?:/
+
+[s2]
+2. Acestei clipe cereţi totul
+Ei vă jertfiţi şi ei vă cereţi
+De parcă numai astăzi este
+/:Voi veşnicie nu aveţi?:/
+/:Treziţi-vă, treziţi-vă!
+Voi, veşnicie nu aveţi?:/
+
+[s3]
+3. Doar trupu-acesta vă robeşte
+Pe el puneţi întregul preţ
+De parcă sunteţi numai trupul
+/:Voi. Suflet, oare nu aveţi?:/
+/:Treziţi-vă, treziţi-vă!
+Voi, suflet, oare nu aveţi?:/
+
+[s4]
+4. Urziţi la planuri vinovate
+Cutezători şi îndrăzneţi
+De parcă nu este-o răsplată
+/:Voi, oare, Dumnezeu n-aveţi?:/
+/:Treziţi-vă, treziţi-vă!
+Voi, oare, Dumnezeu n-aveţi?:/
+
+[order]
+s1,s2,s3,s4

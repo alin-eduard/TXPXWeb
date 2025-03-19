@@ -1,0 +1,53 @@
+[s1]
+1163.
+1.        Din zorii zilei mele
+În lanul Tău m-am dus
+Culegător de spice
+Aşa precum mi-ai spus
+2.         Cântau secerătorii
+Când îi urmam tăcut
+Sfios şi singuratic
+Şi lăcrimând ca Rut
+
+[s2]
+3.         În tot văzduhul zilei
+Sub soarele arzând
+Cu fruntea aplecată
+M-am ostenit tăcând
+4.         Dorind când vine seara
+Să-ţi pot aduce-n prag
+Cu dragoste fierbinte
+Toţi snopii strânşi grămadă
+
+[s3]
+5.          Stăpâne, vine seara
+Se-ntinde peste văi
+Pe rând se-ntorc acasă
+Toţi lucrătorii Tăi
+6.          În urma tuturora
+Mă-ntorc şi eu tăcut
+Sfios şi singuratic
+Şi lăcrimând ca Rut
+
+[s4]
+7.          Mă ruşinez de rodul
+Puţin agonisit
+Dar Tu-mi cunoşti arşiţa
+Prin care m-am trudit
+8.           O, iată vine seara
+Îţi cer un adăpost
+S-adorm cu aceia care
+În lanul Tău am fost
+
+[s5]
+9.         Întinde-ţi peste mine
+Veşmântul Tău plăcut
+La sfintele-ţi picioare
+S-adorm şi eu ca Rut
+10         Iar mâine dimineaţă
+Mă scoală fericit
+Să-ntâmpin bucuria
+Spre care am năzuit
+
+[order]
+s1,s2,s3,s4,s5

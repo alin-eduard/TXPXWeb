@@ -1,0 +1,27 @@
+[s1]
+Azi e sarbatoare sufletul imi canta
+Inima-mi tresare bucurie sfanta
+Ca in casa Domnului cu drag venire
+La altar prin jertfa sa Ii multumim
+
+[r1]
+/:Aleluia canta sufletul meu iar
+Pentru pretul crucii
+Ce l-ai dat pe calvar
+Pentru mantuirea ce mi-ai daruit
+Fii slavit Isuse ca mult m-ai iubit:/
+
+[s2]
+Bucurie sfantaHar si mangaiere
+Dragoste curata lacrimi multa putere
+Pace fericire noi primim acum
+De la Domnul slavei care este bun
+
+[s3]
+Cantati voi popoare omenirea intreaga
+Ne-a salvat de moarte ne-a adus la viata
+Si ne-a dat un nume mai presus de toate
+Pentru ca iubire slava si dreptate
+
+[order]
+s1,r1,s2,r1,s3,r1

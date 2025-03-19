@@ -1,0 +1,36 @@
+[s1]
+N-am cuvinte ca sa-Ti spun
+Cat esti Tu Doamne de bun
+Te-ai plecat spre min’, m-ai mantuit
+Mi-ai luat povara grea
+Mi-ai dus-o la Golgota
+Si mi-ai dat in schimb pacea Ta
+
+[r1]
+Tu esti cel mai minunat
+Esti al lumii Imparat
+De aceea eu iti cant
+Slava neincetat
+Dai lumina zorilor
+Stralucire stelelor
+Nimeni in lume nu-i ca Tine
+Puternic Dumnezeu
+
+[s2]
+Fericit eu am sa-Ti cant
+Cat voi trai pe pamant
+De iubirea ce mi-ai aratat
+Niciodata singur nu-s
+Sunt pe bratul Tau Isus
+M-ai luat pe veci in mana Ta
+
+[s3]
+Isuse inaintea Ta
+Imi aduc azi inima
+Fa de acum, ce vrei, Doamne cu ea
+Esti izbavitorul meu
+Unic fiu de Dumnezeu
+Tie am sa-ti cant Doamne mereu
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,23 @@
+[s1]
+1.	Hulit ai fost şi chinuit Isus
+Pentru păcatul meu cumplit Isus
+Băui al morţii greu pahar
+/ : Atât de amar :/ Isus.
+2.	Plătit-ai preţ nemăsurat Isus
+Ca eu să fiu răscumpărat Isus
+Din veşnicii iubirea Ta
+/: Mă căuta :/ Isus.
+772.
+
+[s2]
+3.	Şi m-ai găsit căzut adânc Isus
+Acolo jos prin văi pierdut Isus
+M-ai ridicat atât de blând
+/: Şi lăcrimând :/ Isus.
+4.	Îţi mulţumesc şi mă închin Isus
+De tot ce Tu ai îndurat Isus
+Prin jertfa Ta m-ai mântuit
+/: Desăvârşit :/ Isus.
+
+[order]
+s1,s2

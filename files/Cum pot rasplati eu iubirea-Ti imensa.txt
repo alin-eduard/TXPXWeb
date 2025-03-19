@@ -1,0 +1,24 @@
+[s1]
+Cum pot răsplăti eu, iubirea-Ţi imensă
+Când Tu ţi-ai dat viaţa pentr-un păcătos
+În schimb, o primeşte, umilă ofranda.
+/: Umilă ofranda, Isuse Hristoase
+Din inima mea...  :/
+
+[s2]
+Când negura nopţii-şi, întinde mantaua
+Privesc printre lacrimi spre Tine-a căuta
+Dincolo de stele, eu ştiu că există.
+/: Un Tată puternic,
+Ce asupra-mi veghează
+Cu dragostea Sa.  :/
+
+[s3]
+Nu pot răsplăti eu, cu argint sau cu aur,
+Măreţ sacrificiul şi dragostea Ta.
+De aceea, o Doamne, Te rog azi primeşte,
+/: Primeşte cântarea, scăldată în lacrimi
+Şi inima mea.  :/
+
+[order]
+s1,s2,s3

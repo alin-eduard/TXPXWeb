@@ -1,0 +1,52 @@
+[s1]
+1. Când mergeai cu crucea-n spate
+Scump Mântuitor
+/: Celor ce veneau în urmă
+Te-ai întors privind cu milă
+Zicându-le lor :/.
+776.
+
+[s2]
+2. Nu mă plângeţi cu-ntristare
+Sărmane femei
+Ci vă plângeţi fiecare
+Căci vine o durere mare
+Pe ai voştri copii.
+
+[s3]
+3. Atunci în zilele acelea
+Va fi fericit
+De acelea ce-n viaţă
+Niciodată pe-a lor braţe
+N-au purtat copii.
+4. Şi veţi zice munţilor
+Cădeţi peste noi
+Dealurile acoperiţi-ne
+De faţa Celui ce vine
+În ziua de apoi.
+
+[s4]
+5. Dacă cu lemnul cel verde
+Astfel s-a făcut
+Ce veţi face voi odată
+În ziua de judecată
+Lemnul cel uscat.
+6. Dacă azi în libertate
+Tu nu te sileşti
+Va veni ziua cea mare
+Şi nu va mai fi scăpare
+Să te pocăieşti.
+
+[s5]
+7. Şi atunci veţi alerga
+Istoviţi căutând
+De la apus la răsărit
+Şi nu va mai fi găsit
+Al Domnului cuvânt.
+8. Când harul se va lua
+Al neamurilor se va lua de la voi
+Şi se va-ntoarce înapoi
+La al Său popor.
+
+[order]
+s1,s2,s3,s4,s5

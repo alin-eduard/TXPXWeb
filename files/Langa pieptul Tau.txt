@@ -1,0 +1,22 @@
+[s1]
+Lângă tronul Tău,
+Ne-nchinăm smeriţi
+Numele-Ţi chemăm, în cainţă
+Vrem să ne îmbraci in sfinţenie
+Reaprinde-n noi focul Tău Sfânt.
+
+[r1]
+Vindecări şi iertare,
+Lângă Tine căutăm
+Ne-ntoarcem să-Ţi slujim
+Căci doar pe Tine Te dorim
+Pe Tine Te dorim
+
+[s2]
+Doamne, umple-ne cu prezenţa Ta
+Să simţim din nou bucurie
+Vrem să ne îmbraci, în sfinţenie
+Reaprinde-n noi focul Tău Sfânt.
+
+[order]
+s1,r1,s2,r1

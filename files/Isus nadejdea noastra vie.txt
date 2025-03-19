@@ -1,0 +1,26 @@
+[s1]
+Isus nadejdea noastra vie
+Tu vei veni azi sa ne iei
+/:Noi vom lasa a noastra vie
+Vom fi cu Tine sus in cer:/
+
+[s2]
+Ne-am saturat de-acest pamant
+De plans si de durere
+/:Isuse vino si ne ia
+In tara unde-i mangaiere:/
+
+[s3]
+Ne dor de clipa minunata
+Ne dor de tine mire scump
+/:O ada ziua asteptata
+Te asteptam cu toti cantand:/
+
+[s4]
+Nu vrem ceva sa ne mai tina
+Plecati de-acest pamant strain
+/:Vrem sa ne duci sus in lumina
+Si sa uitam orce suspin:/
+
+[order]
+s1,s2,s3,s4

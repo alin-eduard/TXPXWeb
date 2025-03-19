@@ -1,0 +1,53 @@
+[s1]
+1.	Suflă vântul contra noastră
+Suflă ne-ncetat
+Să ne-ntoarcă de pe drumul
+Cel adevărat.
+2.	Să ne ducă iar la moarte
+Şi spre Iad-napoi
+Te rugăm Isuse Doamne
+Fii mereu cu noi.
+520.
+
+[s2]
+3.	Vino-n luntrea vieţii noastre
+Stai la cârma ei
+Şi condu-ne Tu cu bine
+Printre norii grei.
+4.	Nu vrei să opreşti furtuna
+Care s-a pornit
+Dar rămâi în luntrea noastră
+Până la sfârşit.
+
+[s3]
+5.	Şi când vântul e mai mare
+Noi privim în sus
+Şi-L chemăm pe-acela care
+Se cheamă Isus.
+6.	Să ajungem toţi cu pace
+Isuse iubit
+Sus la ţărmul fericirii
+Ce ne-ai pregătit.
+
+[s4]
+7.	Suflă vântul stai pe stâncă
+Nu privi în jos
+Vântul o să sufle frate
+Mult mai furtunos.
+8.	Stai cu candela aprinsă
+Să nu dormitezi
+Vântul suflă să ţi-o stingă
+Şi apoi să te pierzi.
+
+[s5]
+9.	Vino turma mea iubită
+Vin' pe calea Mea
+L-adăpost când vin' furtune
+Lângă jertfa Mea.
+10.	Lasă luntrea pe a mea seamă
+Nu vă-ngrijoraţi
+Sufletul vostru trăieşte
+Numai de ascultaţi.
+
+[order]
+s1,s2,s3,s4,s5

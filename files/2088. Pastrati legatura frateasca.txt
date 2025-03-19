@@ -1,0 +1,40 @@
+[s1]
+2088                                                      Mi m
+1.Păstraţi legătura frăţească
+Şi părtăşia sfântă prin har
+/:Făclia fie-vă mereu aprinsă
+Urmând pe Domnul Isus
+La Calvar :/
+
+[r1]
+Să fim lumini să fim sare
+Să fim epistole vii
+Căci în curând Isus apare
+Şi vom fi cu El în veşnicii :/
+
+[s2]
+2.Păstraţi legătura-n rugăciune
+Şi umplerea cu
+Duhul Lui cel Sfânt
+/:Să ducem Evanghelia în lume
+S-o ducem
+Pân′ la margini de pămînt :/
+
+[s3]
+3. Veniţi să depunem mărturie
+Cu viaţa noastră pân’ la Calvar
+/: Căci Dumnezeu
+Ne-a dat o-mpărăţie
+Şi lupta noastră
+Nu va fi-n zadar :/
+
+[s4]
+4.Slujiţi cu bucurie-n lucrare
+O clipă să nu staţi neroditori
+/: Să vină har,
+Să vină îndurare
+Chemaţi-i la Isus
+Pe-ascultători. :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

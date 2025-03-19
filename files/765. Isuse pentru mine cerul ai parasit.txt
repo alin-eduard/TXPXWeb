@@ -1,0 +1,51 @@
+[s1]
+Isuse pentru mine
+Cerul ai părăsit
+De străluciri măreţe
+DoamneTe-ai despărţit.
+765.
+
+[s2]
+Cor:
+În locul meu,
+( locul meu, Isuse )
+Pe cruce ai murit.
+Tu, Domnul meu,
+( Domnul meu, Isuse )
+În veci să fii slăvit.
+
+[s3]
+2. Isuse pentru mine
+Sărac Tu ai trăit
+În Tine orişicine
+Refugiu şi-a găsit.
+
+[r1]
+Cor:
+În locul meu,
+( locul meu, Isuse )
+Pe cruce ai murit
+Tu, Domnul meu,
+( Domnul meu, Isuse )
+În veci să fii slăvit.
+
+[s4]
+3. Isuse Tu-mi eşti dulce
+Iubirea Ta m-a prins
+Unit să fiu cu Tine
+Înseamnă Paradis.
+
+[s5]
+4. Isuse Salvatorul
+Prin Tine-s mântuit
+De când trăieşti în mine
+Mă simt preafericit.
+
+[s6]
+5. Vreau să-Ţi cânt numai Ţie
+La bine şi la rău
+Tu-mi eşti Mântuitorul
+Iar eu copilul Tău.
+
+[order]
+s1,s2,s3,r1,s4,r1,s5,r1,s6,r1

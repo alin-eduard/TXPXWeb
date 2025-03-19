@@ -1,0 +1,52 @@
+[s1]
+Ştie Domnul în ce noapte
+A venit spre răsărit
+Ştie şi din ce necazuri
+Mâna Lui m-a izbăvit.
+/:Ştie Domnul câte lacrimi
+Şi dureri mi-a alinat
+Ştie că în ceasuri grele
+Numai Domnul mi-a vegheat.:/
+
+[s2]
+Ştie Domnul suferinţa,
+Ştie cât am plâns cu-amar
+Dacă face să răsară
+O lumină nouă iar.
+/:Ştie Domnul şi cunoaşte
+Dorul sufletului meu
+Şi ocara ce-am purtat-o
+Când trăiam Cuvântul Său.:/
+
+[s3]
+Ştie Domnul şi ce luptă duc
+Să mă păstrez curat
+Nici un picur de sudoare
+Nu va fi de El uitat.
+/:Suferă şi taci şi luptă
+Suflete-n lăuntrul meu
+Căci ce faci pentru iubire
+nu te uită Dumnezeu.:/
+
+[s4]
+Fraţi, surori să ştiţi cu toţii
+Domnul nu ne va uita
+Rănile care sunt multe
+Isus le va vindeca.
+/:Cât de slab ar fi un suflet
+Şi-n credinţă mititel
+Orice miel şi orice oaie
+vindecă Emanuel.:/
+
+[s5]
+Tu veghează şi te luptă
+Cu credinţa care-o ai
+Căci va veni ceasu-n
+Care socoteală ai să dai.
+/:Ştie Domnul să plătească
+Celor ce se ostenesc
+Căci din cea mai grea-ncercare-i
+mută-n raiul ceresc.:/
+
+[order]
+s1,s2,s3,s4,s5

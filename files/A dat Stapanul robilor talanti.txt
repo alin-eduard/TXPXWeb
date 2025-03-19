@@ -1,0 +1,26 @@
+[s1]
+A dat Stăpânul, robilor, talanţi
+După puterea ce-o au la lucrat.
+Şi i-a chemat la El, când S-a întors,
+Să cunoască cine-i robul credincios.
+
+[r1]
+/: Nu-ţi înveli talantul în prosop!
+Stăpânul vrea să-I fii de bun folos!
+Lucrează azi, cât înca mai e zi!
+Mâine nu se ştie dacă vei mai fi! :/
+
+[s2]
+Cel ce-a muncit, a fost şi răsplătit;
+Talanţi Stăpânul iar i-a dăruit.
+Dar cel ce-a fost un rob necredincios,
+Fără de talant, afară, a fost scos.
+
+[s3]
+Veniţi, cu toţi, în via Domnului,
+Robi credincioşi, să fim în Casa Lui!
+Vom fi ferice, dacă vom munci;
+În Împărăţia cerului vom fi!
+
+[order]
+s1,r1,s2,r1,s3,r1

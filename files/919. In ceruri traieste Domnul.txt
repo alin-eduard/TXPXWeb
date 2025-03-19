@@ -1,0 +1,38 @@
+[s1]
+919.
+1.În ceruri trăiește Domnul
+În ceruri stă Dumnezeu
+De veacuri Îi este domnia
+Și veșnic domnește mereu.
+
+[r1]
+Cor:
+Ceru-ntreg I se închină lui Dumnezeu
+Chiar universu-I cântă Numele Său :/
+
+[s2]
+2. Lumina Lui strălucește
+Ca soarele în plină zi
+Din mâna Lui pornesc raze
+Și noaptea nu poate umbri.
+
+[s3]
+3. `nainte Îi merge slava
+Și gloria-I pe urmele Lui
+Fulgere și tunetul și luna
+Implinesc Cuvântul Lui.
+
+[s4]
+4. Cu ochiul măsoară pământul
+Căci mâna Lui tot a creat
+Munți chiar și dealuri se sfărâmă
+Când vine al vieți Împărat.
+
+[s5]
+5. În fața cerului ce-I veșnic
+Curând cu toți vom sta
+Ferice de acela ce astăzi
+Traiește, făcând voia Sa.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

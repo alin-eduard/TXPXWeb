@@ -1,0 +1,18 @@
+[s1]
+Eu mă-ndrept spre cer
+tot mai sus alerg,
+Chiar prin noaptea grea
+Tu mă sprijineşti.
+Isus mă conduci.
+Eşti cu mine-n plâns
+eşti şi-n bucurii,
+Sunt legat de cer pentru veşnicii.
+
+[s2]
+/: Chiar de trec prin văi adânci
+eu nu am teamă,
+Căci necazul îmi înfrângi
+în Tine mă încred. :/
+
+[order]
+s1,s2

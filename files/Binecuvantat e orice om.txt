@@ -1,0 +1,25 @@
+[s1]
+/: Binecuvantat e orice om
+Ce se-ncrede-n Dumnezeu :/
+Mi m
+
+[r1]
+/: Caci El va fi ca un pom
+Sadit pe malul apei
+Ce la timp aduce rod :/
+
+[r2]
+/: Chiar de arsita e mare
+Frunzele-I raman tot verzi :/
+
+[s2]
+/: Binecuvantat e orice om
+Ce se-ncrede-n Dumnezeu :/
+
+[s3]
+/: Caci El va fi ca un pom
+Sadit pe malul apei
+Ce la timp aduce rod. :/
+
+[order]
+s1,r1,r2,r1,s2,r1,r2,s3

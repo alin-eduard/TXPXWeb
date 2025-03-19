@@ -1,0 +1,16 @@
+[r1]
+ISUS, Nume scris veşnic,
+Dumnezeu Tare,
+Părinte-al veşniciei.
+Emanuel, Domnul e cu noi,
+Minunat Sfetnic, al păcii Domn.
+
+[s1]
+ISUS, Cel mai Sfânt Nume,
+Mântuitor Sfânt,
+Domn glorios,
+Emanuel, Domnul e cu noi,
+Biruitorul, Cel înviat.
+
+[order]
+r1,s1,r1

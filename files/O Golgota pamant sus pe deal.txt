@@ -1,0 +1,61 @@
+[s1]
+O, Golgota, pământ sus pe deal,
+fără flori
+Hărăzită ai fost tu cândva
+/: Ca pe-a tale colini
+să se urce mulţimi
+Pe Isus spre a-L crucifica. :/
+
+[s2]
+Parcă-L văd cum din ochi
+lacrimi se prelingeau
+Pe obraz îi pe barbă în jos
+/: Căci pe umerii Săi lemnul
+pus de călăi
+Apăsa, apăsa dureros. :/
+
+[s3]
+Istovit de puteri,
+pe-al tău vârf, Golgota
+În sfârșit, plin de răni, a ajuns.
+/: Oameni răi îi haini,
+cu priviri ca de câini
+Pentru-al lumii păcat
+L-au străpuns. :/
+
+[s4]
+Între cer îi Pământ pe lemn fu ridicat
+Ca tâlhar între alţi doi tâlhari.
+/: Lumea oarbă stătea,
+cu dispreţ Îl privea
+Chiar îi cei mai semeţi cărturari. :/
+
+[s5]
+Prin văzduhul cernit
+norii negri zburau
+Ducând vestea cea sumbră în zări.
+/: Setea-n piept Îl ardea,
+nimeni apă nu-I da
+Şi încet se stingea în dureri. :/
+
+[s6]
+În bătaie de joc pe o trestie i-au dat
+Un burete-nmuiat în oţet
+/: Când din rănile Lui,
+pentru vina oricui
+Curgea sânge de mare Profet. :/
+
+[s7]
+Stejar înalt cu umbră deasă
+Eu nu aş vrea să fiu văzut
+/: Prefer să fiu cireş cu roadă
+Trăind smerit doar cu Isus. :/
+
+[s8]
+M-aş mulţumi să fiu chiar numai
+Atom în Cosmosul imens
+/: Şi să trăiesc eu pentru alţii
+În orice zi tot mai intens. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

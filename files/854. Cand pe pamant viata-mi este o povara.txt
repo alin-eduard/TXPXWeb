@@ -1,0 +1,42 @@
+[s1]
+854.          Mi m
+Când pe pământ
+Viaţa-mi este o povară
+Şi când dureri de nesfârşit
+M-apasă greu
+Când n-am pe nimeni
+Să-mi aducă mângâiere
+Privirea îmi înalţ spre Dumnezeu.
+
+[r1]
+Cor: Mi-e dor de patrie, mi-e dor
+Mi-e dor de îngeri
+Şi de Isus cel preaiubit
+Mi-e dor de patrie, mi-e dor
+Mi-e dor de sfinţii
+Ce pe pământ au suferit
+
+[s2]
+2.  Când fierb duşmanii
+În jurul meu şi mă-mpresoară
+Şi n-am pe nimeni
+Ca să-mi deie ajutor
+Îl chem pe Isus
+Ca să-mi deie el putere
+Să mă conducă-n ţara zorilor.
+
+[s3]
+3.  Când apăsat mă simt
+Şi sufletul mă doare
+De tot ce am trecut şi-am suferit
+De bucuriile ce clocoteau în inimi
+De dragostea ce acuma s-a răcit.
+
+[s4]
+4. Ridică-ne, o, Doamne apăsarea
+Şi fă-ne demni a Te urma pe Tine
+Revarsă peste noi înviorarea
+Cu-n încredere pe cale să păşim.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

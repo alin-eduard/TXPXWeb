@@ -1,0 +1,32 @@
+[s1]
+Ce Prieten eşti, Isuse!
+Când pe Tine Te avem,
+Bucurii ne dai nespuse,
+Ne ajuţi când ne rugăm.
+Cine poate să ne spună
+Câtă pierdere-am avea
+Când, la glasu-I ce ne-adună,
+N-am veni a-l asculta?
+
+[s2]
+Când vrăjmaşul ne apasă
+Şi-n nevoie ne aflăm,
+Către Cel ce nu ne lasă,
+Noi fierbinte ne rugăm.
+El ne dă promisiunea
+Că e pururea cu noi,
+Ne-ascultă rugăciunea
+Şi ne scapă din nevoi.
+
+[s3]
+Iar când vin ispite grele,
+Noi nicicând să nu cedăm,
+Căci scăpăm curând din ele,
+Prin credinţă de-L rugăm.
+Şi de ai vreo tristă veste,
+Toate de îţi merg încet,
+O, atunci Isus ne este
+Preot, Mire şi Profet.
+
+[order]
+s1,s2,s3

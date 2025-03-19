@@ -1,0 +1,48 @@
+[s1]
+1678.        Re
+1. Prin chinuri şi necazuri grele
+E drumul nostru către stele,
+E drumul înspre veşnicie
+Prin necaz şi bucurie
+Spre cereasca împărăţie.
+
+[r1]
+Cor:	Necaz şi bucurii
+Mereu vom întâlni
+Pe drumul ingust şi greu
+Spre cer, spre Dumnezeu
+Dar nu descurajaţi
+Nicicând surori şi fraţi,
+Oricât ar fi de greu
+Cu noi e Dumnezeu.
+
+[s2]
+2. Prin chinuri şi amărăciune
+E calea către cele bune
+E calea înspre izbăvire
+Unde-i numai fericire
+Lângă Domnul în mărire
+
+[s3]
+3. Prin chinuri şi prin mari talazuri
+E calea noastră prin necazuri
+Dar la sfârşit şi la apus
+Ne aşteaptă răsplătirea sus
+Ne va-ncununa Isus
+
+[s4]
+4. Prin suferinţe şi prin valuri
+Noi vom ajunge sus la maluri
+La tărâmul binecuvântat,
+Unde Isus i-a aşteptat
+Pe cei care-au luptat.
+
+[s5]
+5. Prin chinuri şi prin încercare
+E calea noastră spre salvare
+De aceea rabdă, nu cârti
+Răsplătirea vei primi
+Acolo sus în veşnicii.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

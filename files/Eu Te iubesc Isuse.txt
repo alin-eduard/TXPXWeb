@@ -1,0 +1,8 @@
+[r1]
+Eu Te iubesc Isuse,
+Domn şi Rege veşnic
+Cânt mărire, laudă Glorie, aleluia.
+/: Aleluia :/
+
+[order]
+r1,r1,r1

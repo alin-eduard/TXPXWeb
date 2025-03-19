@@ -1,0 +1,38 @@
+[s1]
+Cu-atâta dor aştept
+şi voi mai aştepta
+Iubitu-mi să revină,
+acasă să mă ia.
+Cu murmure de dor,
+cu ceru-I voi cânta
+Domnul va reveni
+Maranata !
+
+[r1]
+Curând, curând acasă vom sosi
+Nu bombe aşteptăm, nici anul 2000
+Şi nici alinieri de astre care pier
+Ci-un Mire drag ce ne va lua la cer !
+
+[s2]
+S-au stins privind la cer
+pleiade de martiri
+Cu zâmbete smerite
+ca flori de trandafiri
+Şi-aşteaptă-nlăcrimaţi
+de sfinte bucurii
+Mii de mii mântuiţii
+văii plângerii.
+
+[s3]
+Şi-n veci de veci uniţi
+privi-vom minunaţi
+Cununile de vis
+ce-mpodobesc pe fraţi
+Sfârşiţi de drag nespus,
+pe cerul luminos
+Privi-vom cu uimire
+la faţa lui Hristos.
+
+[order]
+s1,r1,s2,r1,s3,r1

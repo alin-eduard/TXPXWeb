@@ -1,0 +1,41 @@
+[s1]
+Câti ne-am atins de Domnul
+Şi El ne-a vindecat,
+/: Datori suntem, datori suntem, :/
+Să spunem aceasta ne'ncetat.
+
+[r1]
+/: Să spunem :/ mereu
+Ce mult ne-a iubit Dumnezeu!
+Să spunem mereu,
+Da, mereu şi mereu,
+Noi şi voi - tu şi eu
+/: Cât de mult, :/
+ne-a iubit Dumnezeu...
+
+[s2]
+Toţi câţi zăceam în moarte
+Şi El ne-a înviat,
+/: Datori suntem :/ să spunem
+Aceasta ne'ncetat.
+
+[s3]
+Toţi câţi eram în lanţuri
+Şi El ne-a eliberat,
+/: Datori suntem :/ să spunem
+Aceasta ne'ncetat.
+
+[s4]
+Toţi câţi am fost robi lumii
+Şi El ne-a înfiat,
+/: Datori suntem :/ să spunem
+Aceasta ne'ncetat.
+
+[s5]
+Recunoştinţa noastră
+Să strige-n lung şi-n lat;
+/: Cu slava Lui, :/ să umplem
+Pământul ne'ncetat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

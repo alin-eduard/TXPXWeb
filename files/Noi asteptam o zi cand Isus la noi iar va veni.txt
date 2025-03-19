@@ -1,0 +1,30 @@
+[s1]
+Noi aşteptăm o zi
+când Isus la noi iar va veni
+Va fi o zi de mare slavă
+când El va reveni.
+
+[r1]
+El va veni-n curând
+Ne spune-al Său Cuvânt
+Azi schimbă-ţi al tău gând
+Şi vino la Cel Sfânt !
+Căci mult nu va mai fi
+Şi El va reveni !
+Deci azi întoarce-te la El
+Şi nu mai zăbovi !
+
+[s2]
+Măreaţa zi se apropie
+când toţi Îl vom serba
+Pornită nunta-n veşnicie
+cu dor în slava Sa.
+
+[s3]
+Cu Isus veşnic vom petrece
+toţi acei mântuiţi
+Cei ce-au luat pe umeri
+crucea în valea plângerii.
+
+[order]
+s1,r1,s2,r1,s3,r1

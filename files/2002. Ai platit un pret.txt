@@ -1,0 +1,35 @@
+[s1]
+2002                La
+1. Ai plătit un preț
+Să-mi dai viaţa
+Să trăiesc prin har azi mântuit
+N-am cuvinte Doamne
+Să pot spune
+Cât de drag îmi eşti și-s fericit
+
+[r1]
+Cor: /: Voia Ta, nu voia mea
+Să se facă Doamne-n viaţa mea
+Să trăiesc cum Tu doreşti
+O, Domnul meu
+Toată roada Duhului cel Sfânt
+Zi de zi s-o am pe-acest pământ
+Lumină să răspândesc mereu
+În jurul meu :/
+
+[s2]
+2. Numele mi-e scris în cartea vieţii
+Şi doresc Isus cu orice preţ
+Să rămân statornic în credinţă
+Să Te laud și să Te slăvesc
+
+[s3]
+3. Pacea Ta ce-ntrece
+Orice lucru
+Cunoştinţa-ntregului pământ
+S-o reverşi în inimă Stăpâne
+Orice-ar fi să pot
+Mereu să-Ţi cânt.
+
+[order]
+s1,r1,s2,r1,s3,r1

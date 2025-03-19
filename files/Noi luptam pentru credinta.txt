@@ -1,0 +1,32 @@
+[s1]
+Noi luptam pentru credinta
+Ce-am gasit-o in Isus!
+Induram chiar uferinta,
+Cand ne-o da Domnul Isus.
+
+[r1]
+Mantuiti de-un singur sange,
+O familie formam;
+Cu Isus noi vom invinge,
+Credinciosi de Il urmam
+
+[s2]
+Lupta e inversunata,
+Caci cu spirite luptam;
+Biruinta-I castigata
+De Isus, de il urmam.
+
+[s3]
+Lumea sta nepasatoare;
+Isus e dispretuit.
+Strange-ti randurile tale
+Tu, popor cel mantuit!
+
+[s4]
+Evanghelia cereasca
+Si credinta-n Cel de sus
+Sa-ntalnimiubirea sfanta,
+Indreptata in Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

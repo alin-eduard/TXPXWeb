@@ -1,0 +1,34 @@
+[s1]
+În adâncul iernii grele,
+primăvara o aud
+Deşi timpul pare atât de lung
+Ştiu că soarele luceşte,
+deci nu văd decât nori
+Şi mă-ntreb, oare cât va mai fi
+
+[r1]
+/:Ochii îmi ridic şi mă uit către cer
+El va veni, Isus salvatorul
+Nu mai este mult
+Şi semnele sunt tot mai clare
+El va veni, El va veni:/
+
+[s2]
+Oceanul oglindeşte,
+licărirea zorilor
+Şi eu văd că ziua va veni
+Simt cum soarele-ncălzeşte
+în pofida vremilor
+Clipa aceea când va veni
+
+[s3]
+Când privesc întreg pământul,
+pot să spun
+Nu mai e mult, fiindcă timpul
+s-a apropiat
+Peste tot în jur e foame,
+auzi doar despre război
+Şi spui Doamne oare când vii la noi
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,31 @@
+[s1]
+Venim înaintea Ta,
+Să ne bucurăm.
+De harul Tău nespus,
+Ce pe cruce l-ai adus.
+Prin Isus Hristos Mesia,
+Fiul Tău preamărit.
+Îţi vom cânta o veşnicie,
+Că pe cruce Te-ai jertfit.
+
+[r1]
+Să fii slavit şi glorificat,
+Să fii preamărit şi pe veci onorat.
+Ne-ai adus din lumea rea,
+Să fim doar ai Tăi.
+Schimbă-ne inima,
+innoieşte-ne din nou,
+O! din nou.
+
+[s2]
+Cum am putea să răsplătim,
+Pentru tot ce ai făcut.
+În viaţa noastră Doamne,
+Lanţuri grele Tu ai rupt.
+Totdeauna ne-ai iubit,
+Şi atunci când Te-am scuipat.
+Tu ne-ai arătat iubire,
+Tu pe cruce ne-ai salvat.
+
+[order]
+s1,r1,s2,r1

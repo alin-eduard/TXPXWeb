@@ -1,0 +1,42 @@
+[s1]
+Dintre florile ce-mbracă
+plaiurile firii,
+Am ales de nunta
+voastră florile iubirii
+Şi-am ţesut covor din
+ele pe a voastră cale
+Presărând sclipiri de stele
+peste-a lor petale.
+
+[r1]
+Flori frumoase, flori de nuntă
+Mii şi mii de flori
+Fericire, pace sfântă
+Veşnice comori
+Flori de nuntă, flori alese
+Flori de-albastre zări
+Domnul peste voi reverse
+Binecuvântări.
+
+[s2]
+Răsări-vor poate spinii
+pe cărarea voastră
+Şi acoperi-vor norii
+bolta cea albastră
+Nu uitaţi, în valul vieţii,
+florile iubirii
+Vor aduce-n calea
+voastră zorii fericirii.
+
+[s3]
+Spre-ale cerurilor plaiuri,
+pentru veşnicie
+Fără grijuri, fără valuri,
+soarta voastră fie
+Dintre imnuri veţi alege
+imnul fericirii
+Şi din mii de flori frumoase,
+florile iubirii.
+
+[order]
+s1,r1,s2,r1,s3,r1

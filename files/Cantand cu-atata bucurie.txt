@@ -1,0 +1,42 @@
+[s1]
+Cîntînd cu-atîta bucurie
+Cu ochii-aşa strălucitori
+/: De unde aţi venit şi unde
+Vă duceţi voi, dragi călători? :/
+Noi mergem către ţara sfîntă
+Spre locul plin de bucurii
+/: Acolo unde îngeri cîntă -
+Tu, suflet drag, de ce nu vii? :/
+
+[s2]
+Ce ţară este ţara-aceea?
+Ce bucurii vor fi în ea?
+/: Cîţi oare vor ajunge-acolo
+Şi cine-o va putea vedea? :/
+Acolo-i ţara minunată
+Şi viaţa veşnică de-apoi
+/: Păstorul bun spre ea ne-ndreaptă
+O, hai şi tu, o, hai cu noi! :/
+
+[s3]
+Dragi călători, ce preţ se cere
+Să pot şi eu în ea intra?
+/: Eu n-am o haină ca a voastră
+O, cine-mi va putea-o da? :/
+Domnul Isus plătit-a preţul
+Cu jertfa Lui de pe Calvar
+/: Ne-a dat o haină - cea mai scumpă
+Şi a spălat al nost, păcat! :/
+
+[s4]
+Domnul Isus azi te primeşte
+Cu-al tău păcat, cu-al tău necaz!
+/: Te va ierta, căci te iubeşte
+O, vin la El, o, vino azi! :/
+Dragi călători, v-ascult chemarea
+Şi merg şi eu pe-al vieţii drum
+/: Primeşte-mă, Isuse dulce
+Să fiu şi eu al Tău de-acum ! :/
+
+[order]
+s1,s2,s3,s4

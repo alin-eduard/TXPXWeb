@@ -1,0 +1,20 @@
+[s1]
+Când zăceam sub grea povară
+Şi simţeam că­s vinovat
+Mâna lui Isus m­atinse
+De­al meu păcat m­a eliberat.
+
+[r1]
+Isuse, o, Isuse,
+Iubirea Ta m­a copleşit;
+Viaţa toată mi s­a-nnoit,
+Cu Domnul sunt fericit.
+
+[s2]
+Pentru că mi­a dat salvarea,
+Sufletul mi l­a spălat;
+Îl voi lăuda pe Domnul
+Aici şi­n cer când voi fi chemat.
+
+[order]
+s1,r1,s2,r1

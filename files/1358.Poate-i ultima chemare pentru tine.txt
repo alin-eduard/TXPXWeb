@@ -1,0 +1,44 @@
+[s1]
+1358.
+1.  Poate-i ultima chemare pentru tine
+Eşti chemat să ai salvare la Isus
+Poate-i ultima chemare nu ştii mâine
+Dacă vei mai fi în viaţă prieten drag.
+Cor: Acum te-ntoarce la Isus
+Întoarce-te la Dumnezeu
+Să fii iertat şi mântuit (n-ai vrea)
+De azi să fii copilul Său.
+
+[s2]
+Cât de scurtă este viaţa omenească
+Eşti o umbră, eşti un abur pe pământ
+Călător spre veşnicia ce te-aşteaptă
+Unde vei pleca tu prieten în curând.
+Cor: Acum te-ntoarce la Isus
+Întoarce-te la Dumnezeu
+Să fii iertat şi mântuit (n-ai vrea)
+De azi să fii copilul Său.
+
+[s3]
+Evanghelia te cheamă azi pe tine
+Din pierzare să-te-ntorci la Dumnezeu
+Nu pleca nemântuit în veşnicie
+O te rog primeşte-L azi pe Fiul Său.
+Cor: Acum te-ntoarce la Isus
+Întoarce-te la Dumnezeu
+Să fii iertat şi mântuit (n-ai vrea)
+De azi să fii copilul Său.
+
+[s4]
+4.  O ascultă azi cu inima chemarea
+Ce ţi-o face Dumnezeu ce te-a creat
+Vino prieten chiar acum
+Primeşti iertarea
+Vino să-L primeşti pe Domnul minunat.
+Cor: Acum te-ntoarce la Isus
+Întoarce-te la Dumnezeu
+Să fii iertat şi mântuit (n-ai vrea)
+De azi să fii copilul Său.
+
+[order]
+s1,s2,s3,s4

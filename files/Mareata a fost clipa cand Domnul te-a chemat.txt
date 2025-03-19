@@ -1,0 +1,52 @@
+[s1]
+Măreaţă a fost clipa
+cînd Domnul te-a chemat
+O, suflete iubite, din lumea de păcat !
+Măreaţă-a fost chemarea
+ce Domnul ţi-a făcut !
+Prin jertfa Lui cea mare
+A tale mădulare le-a curăţit,
+şi-n urmă
+Cu Duhu-I te-a umplut.
+
+[s2]
+Dar suflete, azi stai nepăsător
+Nevrînd ca să-nţelegi
+Puterile cereşti !
+O, suflete, azi stai nepăsător
+/: Şi-n loc să-ţi plîngi de milă
+Mereu păcătuieşti ! :/
+
+[s3]
+Gîndeşte-te, iubite, l-al tău Mîntuitor
+Şi prin al Său scump sînge vei fi biruitor
+Nu şovăi pe cale, oricît ar fi de greu
+Căieşte-te, şi iarăşi vei fi cu El tovarăş
+Şi cu Isus vei merge
+Pe drumul tău mereu.
+
+[s4]
+Deci suflete, nu fii ne-ncrezător
+Ascultă vocea Sa
+Şi te vei lumina !
+O, suflete, nu sta nepăsător
+/: Munceşte dar ogorul
+Şi te vei bucura ! :/
+
+[s5]
+Măreaţă va fi ziua cînd Domnul va veni
+De vei munci, El însuşi atunci îţi va plăti
+Iar dacă te va prinde aşa nepăsător
+O, vai va fi de tine şi vai va fi de lume
+Căci El, din bun prieten, va fi Judecător.
+
+[s6]
+Deci suflete, ce stai nepăsător
+Revino, nu mai sta
+Şi-ascultă vocea Sa !
+A lui Isus, nu fii nepăsător.
+/: Cîndva El pentru tine
+Muri pe Golgota ! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

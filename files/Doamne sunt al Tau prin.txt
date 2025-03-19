@@ -1,0 +1,30 @@
+[s1]
+Doamne, sunt al Tău,
+Prin cuvânt eu ştiu
+Că păcatul mi-e iertat,
+Dar doresc, ISUS, de fiinţa Ta
+Să m-apropii ne-ncetat!
+
+[r1]
+Du-mă, Doamne, du-mă
+lângă crucea Ta,
+Să-nţeleg cât ai răbdat!
+Du-mă, Doamne, du-mă
+lângă crucea Ta,
+O, ISUSE, Miel junghiat!
+
+[s2]
+O, sfinţeşte-mă,
+prin al Tău Duh Sfânt
+Să-mi port crucea zi de zi.
+Pentru Tine toate de voi lăsa,
+Fericit atunci voi fi!
+
+[s3]
+O, aprinde iar, focul inimii,
+În iubire să trăiesc
+Şi-n sfinţenie, cu tot ce-i în ea,
+Ţie, Doamne, să-Ţi slujesc!
+
+[order]
+s1,r1,s2,r1,s3,r1

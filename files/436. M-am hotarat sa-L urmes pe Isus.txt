@@ -1,0 +1,28 @@
+[s1]
+1./:M-am hotărât
+Să-L urmez pe Isus:/
+/:Şi înapoi:/
+/:Eu nu voi da:/.
+436									 Mi b
+
+[s2]
+2./:Nimic nu mă va
+Clinti pe cale:/
+/:Şi înapoi:/
+/:Eu nu voi da:/.
+
+[s3]
+3.În urmă-i lumea, ’nainte-i  crucea.
+În urmă-i lumea, ’nainte-i cerul.
+În urmă-i lumea, ’nainte-i ISUS.
+/:Şi înapoi:/
+/:Eu nu voi da:/.
+
+[s4]
+4./:Renunţ la lume,
+Dar nu la Isus:/
+/:Căci nu voiesc:/
+/:Să dau ’napoi:/.
+
+[order]
+s1,s2,s3,s4

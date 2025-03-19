@@ -1,0 +1,41 @@
+[s1]
+2183.
+1. Frumos este să lăudăm
+pe Domnul
+Și să mărim numele Tău preaînalte
+/: Să vestim dimineața
+bunătatea Ta
+Și noaptea credincioșia Ta :/
+
+[s2]
+2. Veniți să ne-nchinăm
+Și să ne smerim
+Să ne plecăm genunchiul
+/: Înaintea Domnului
+Făcătorului nostru :/
+
+[s3]
+3. Cât de plăcute sunt
+locașurile Tale
+Doamne al oștirilor
+/: Ferice de cei ce locuiesc în casa Ta
+Căci ei tot mai pot să Te laude :/
+
+[s4]
+4. Ridicați-vă mâinile spre
+Sfântul locaș
+Și binecuvântați pe Domnul
+Veniți să ne-nchinăm
+Și să ne smerim
+Să ne plecăm genunchiul
+/: Înaintea Domnului :/
+Făcătorului nostru.
+
+[s5]
+5.  /: Binecuvântat să fie Domnul
+Dumnezeul lui Israel
+/: Din veșnicie în veșnicie
+Și tot poporul să zică Amin :/
+
+[order]
+s1,s2,s3,s4,s5

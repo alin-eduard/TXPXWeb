@@ -1,0 +1,31 @@
+[s1]
+2076
+1. Să vă iubiți vă spune astăzi Domnul
+Căci în iubire voi de veți trăi
+Orice obstacol vă v-a sta înainte
+Doar cu Isus, cu El veți birui
+Să vă iubiți și să-L lăudați întruna
+Prin viața voastră fie proslăvit
+Căci la sfârșit El vă v-a da cununa
+Ce pentru voi cu drag a pregătit.
+
+[r1]
+Cor: Să vă iubiți cât veți trăi în lume
+Nici o fărâmă de ură-ntre voi
+Dragostea-i soare ce-n
+Veci nu va apune
+Fie Hristos iubirea în voi.
+
+[s2]
+2. Să vă iubiți cu-o dragoste
+prea sfântă
+Și s-ascultați tot ce s-a spus
+Să nu uitați că ați primit poruncă
+Să vă iubiți cum v-a iubit Isus
+Să vă iubiți cu-o dragoste fierbinte
+Să vadă lumea-n voi pe Salvator
+Să poată spune toți din jurul nostru
+Aceasta-i calea bucuriilor.
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,56 @@
+[s1]
+1.	Când după bucurii
+Apar şi întristări
+Tu nu descuraja ţine-ţi credinţa ta
+Şi dacă atunci Satan
+Prin planul său mişel
+Îţi vrea pieirea ta tu nu descuraja.
+1019.
+
+[r1]
+Cor:	Azi tu nu dispera şi nu descuraja
+Căci Domnul e cu tine,
+E chiar la dreapta ta
+Tu cere-L pe Hristos
+Că-ţi este de folos
+La bine şi la rău
+Să-L chemi pe Dumnezeu.
+
+[s2]
+2.	Să crezi în Cel ce-i sfânt
+Căci El e pe pământ
+A fost mult prigonit
+Şi chiar dispreţuit
+De preoţi, de Satan
+C-a fost al Său duşman
+Care L-a ispitit până L-a răstignit.
+
+[s3]
+3.	Toţi împrejurul tău
+De te-ar vorbi de rău
+Şi dacă ar murmura
+Toţi împotriva ta
+Tu mergi cu fruntea sus,
+Priveşte la Isus
+Înapoi nu te uita şi nu descuraja.
+
+[s4]
+4.	Şi dacă-n întristări
+Vin vremuri de dureri
+Ce se vor strecura
+Chiar în familia ta
+Lăsând ai tăi copii
+Sau chiar soţia ta
+Priveşte numai sus şi nu descuraja.
+
+[s5]
+5.	În orice zi şi ceas,
+În clipe de necaz
+Înapoi nu te uita şi nu descuraja
+Căci va veni-n curând
+Acel din cerul sfânt
+Să-şi ia mireasa Sa
+Care-o va cununa.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

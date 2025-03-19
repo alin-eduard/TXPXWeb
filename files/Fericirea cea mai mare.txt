@@ -1,0 +1,54 @@
+[s1]
+Fericirea cea mai mare
+pentru mine pe pamant
+E cand stau in partasie
+in prezenta Celui Sfant
+Cand eu stau in partasie
+cu Isus si fratii mei
+Trec usor prin incercare
+cand pe bolta-s norii grei
+
+[s2]
+Fericirea mea e Isus
+pe acest pamant strain
+Lui ii cant intotdeaua
+/: ca El este-al meu sprijin :/
+Fericirea mea e Isus
+pe acest pamant strain
+Iar apoi o vesnicie
+/: voi fi fericit deplin :/
+
+[s3]
+Prieten drag ce alergi prin lume
+zi de zi tot mai grabit
+Cautand fericirea
+Ai ramas dezamagit
+Cauti zilnic implinirea
+In placeri traind mereu
+In a lumii ape tulburi
+vrei sa-ti umplii golul tau
+
+[s4]
+Nu cauta in asta lume
+fericirea in placeri
+La sfarsit te-alegi straine
+/: Impovarat cu remuscari :/
+Fericirea-n asta lume
+O gasesti doar in Isus
+El ti-o da astazi si tie
+Daca-l vei urma supus
+Vei fi fericit nespus
+
+[s5]
+Fericirea mea e Isus
+pe acest pamant strain
+Lui ii cant intotdeauna
+/: Ca El este al meu sprijin :/
+Fericirea mea e Isus
+pe acest pamant strain
+Iar apoi o vesnicie
+voi fi fericit deplin
+Cu al meu Isus amin:/
+
+[order]
+s1,s2,s3,s4,s5

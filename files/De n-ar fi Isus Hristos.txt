@@ -1,0 +1,32 @@
+[s1]
+De n-ar fi Isus Hristos,
+dimineaţă n-ar fi
+Şi în noaptea fără nori
+stelele n-ar străluci.
+De n-ar fi Isus Hristos, frumuseţe n-ar fi
+Pe acest Pământ străin
+Soarele n-ar încălzi.
+Dacă n-ar fi fost Isus, frumuseţe n-ar fi
+În păduri şi pe câmpii
+farmec azi nu am găsi.
+
+[r1]
+Dar El există, dar El există !
+În viaţa ta, în viaţa mea
+În tot ce văd, în tot ce-aud !
+Munţii Îl laudă, mările-I cântă
+Tot ce e viu se-nchină lui Dumnezeu
+Dumnezeu, Dumnezeu, Dumnezeu !
+
+[s2]
+Dacă n-ar fi fost Isus,
+lacrimi azi nu am avea
+Bucuria nu-ntâlneam,
+nu ştiam ce-i dragostea.
+Fără pace rătăceam,
+fără mântuire-n dar
+Fără jertfa lui Isus,
+fără minunatu-I har.
+
+[order]
+s1,r1,s2,r1

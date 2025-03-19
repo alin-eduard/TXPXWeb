@@ -1,0 +1,63 @@
+[s1]
+1303.
+1.  O Isuse, o Isuse
+Sunt îndurerat
+C-am greşit în multe feluri
+Şi te-am întristat.
+/: Întristarea cea mai mare
+Care inima mă doare
+E că n-am avut răbdare
+Ca să birui tot :/.
+
+[s2]
+2. Însă aceea ce mă doare
+Spre căinţa mea
+Că în lucruri prea uşoare
+N-am putut veghea.
+/: N-am avut de ajuns credinţă
+Ca în orişice privinţă
+Să rezist în suferinţă
+O cât sunt de întristat :/.
+
+[s3]
+3.  Şi de ne-a lipsit răbdarea
+Şi nu am fost treaz
+Nu ne-am înţeles chemarea
+Şi nu am vegheat.
+/: Căci Domnul întruna cere
+Pocăinţă şi veghere
+După cum cuvântul cere
+Să fiu veghetor :/.
+
+[s4]
+4.  Dar frica cea de Domnul
+Este dragul meu
+Şi credinţă şi puterea
+Este tot ce vrei.
+/: De-ţi lipseşte această frică
+N-ai să poţi să faci nimic
+Împietrirea ta te strică
+Te duce la rău :/.
+
+[s5]
+5. Pentru a mele fapte rele
+Stau şi mă căiesc
+O ajută-mă Isuse
+Să mă pocăiesc.
+/: Până nu se strică vasul
+Până  nu-mi soseşte ceasul
+Până nu-mi coboară pasul
+Jos într-un mormânt :/.
+
+[s6]
+6.  De-ar fi fost greul prea mare
+Care l-am trecut
+Dacă aş fi avut de ajuns putere
+Domnul ar fi ştiut.
+/: Nici un greu nici o ispită
+Nu va fi îngăduită
+Să nu fie cântărită
+Potrivit cu noi :/.
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,45 @@
+[s1]
+1. Ieşind Isus din cetate
+Şi mergând după El gloate
+Ucenicii cu grăbire
+Veniră şi îi grăiră.
+235.
+
+[s2]
+2. Spune-ne nouă de toate
+Ce semne o să se arate
+Când va fi a Ta venire
+Când vei veni în mărire.
+
+[s3]
+3. Şi auzind Isus îndată
+El începe şi le-arată
+El începe şi le spune
+Ce va fi atunci în lume.
+
+[s4]
+4. Când templul se va dărâma
+Şi zidurile vor cădea
+N-a mai sta piatră pe piatră
+Să nu fie dărâmată.
+
+[s5]
+5. Păcatul se va-nmulţi
+Războaie şi certuri vor fi
+Foametea şi ciuma neagră
+Va bântui-n lumea întreagă.
+
+[s6]
+6. Atunci va răci iubirea
+Va creşte nelegiuirea
+Şi fratele pe-al său frate
+Îl va da chiar şi la moarte.
+
+[s7]
+7. Cine va răbda mereu
+Suferind chinul cel greu
+Va fi de Domnul mântuit
+Şi va fi pe veci fericit.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

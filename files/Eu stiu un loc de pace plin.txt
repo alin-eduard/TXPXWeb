@@ -1,0 +1,29 @@
+[s1]
+Eu ştiu un loc de pace plin
+În care nu-i durere, chin
+Şi negrăit e de frumos
+Având ca soare pe Hristos.
+Mi m
+
+[r1]
+E ţara mea, e ţara mea
+Ca mâine voi intra în ea,
+Şi dus de-al fericirii val
+Să cânt pe marea de cristal
+Slăvind pe Domnul meu iubit
+Ce loc sublim mi-a pregătit
+
+[s2]
+În faţa lui Isus voi sta
+Cu ochii mei Îl voi vedea
+Şi glasul Lui voi auzi
+Când taina va descoperi.
+
+[s3]
+Cu toţi ai cerului copii
+Vom şti atâtea melodii
+Şi nu voi obosi nicicând
+Spre slava Lui cântând.
+
+[order]
+s1,r1,s2,r1,s3,r1

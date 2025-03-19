@@ -1,0 +1,32 @@
+[s1]
+1587
+1.La o clipeală se vor transforma
+Acei ce-au stat în aşteptarea Sa
+/: Când trâmbiţa din cer va răsuna
+Şi din etern Mirele va apărea :/
+
+[s2]
+2.La o clipeală se vor transforma
+Acei ce-au stat în aşteptarea Sa
+/: Când trâmbiţa din cer va răsuna
+Şi din etern Mirele va apărea :/
+
+[s3]
+3.Ferice fi-va dacă ai fost curat
+Şi haina-n sânge sfânt tu ţi-ai spălat
+/: Dacă aici jos pentru El ai lucrat
+Vei fi pe nume de Isus chemat :/
+
+[s4]
+4.Ce bucurii vor fi când l-om vedea
+Când ne va strânge din ochi lacrima /:Cu vocea-i calmă blând ne va chema
+O vino slugă bună-n casa mea :/
+
+[s5]
+5.O frate eşti tu gata de plecat
+Eşti pentru cer cu totul devotat
+/: De eşti încă cu lumea încurcat
+Aruncă tot şi aşteaptă-L necurmat:/
+
+[order]
+s1,s2,s3,s4,s5

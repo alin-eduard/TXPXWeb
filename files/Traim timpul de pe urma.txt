@@ -1,0 +1,38 @@
+[s1]
+Traim timpul de pe urma,
+Toate spun ca intr-o zi
+Isus Hristos o sa revina,
+Oare cum ne va gasi?
+Va gasi El unitate,
+Credinta oare va mai fi
+In poporul care azi,
+Vrea sa ajunga-n vesnicii.
+
+[r1]
+/: Veniti sa ne unim,
+Veniti sa ne iubim
+Si cu ochii plini de ura
+Sa nu ne mai privim
+O lume vrem sa vada
+Ca inca noi mai stim
+Ca fratii in iubire
+În lume sa traim :/
+
+[s2]
+/: Haideti frati, sa dam azi mana
+Sa nu ne mai vorbim de rau
+Daca vrem toti impreuna
+Sa fim in raiul lui Dumnezeu :/
+
+[s3]
+/: Au fost atatea lucruri
+Care ne-au unit
+De ce ne amintim acum
+Doar de ce ne-a despartit
+Acei care vreti cerul,
+Lasati toti arma jos
+Sa luam cu toti exemplul,
+Domnului Hristos :/
+
+[order]
+s1,r1,s2,s3,r1

@@ -1,0 +1,50 @@
+[s1]
+Ce multe sunt ce nu-nţeleg
+Ce multe-există ce nici nu văd
+Dar una ştiu, sunt sigur eu
+Isus e-aici, El e aproape oriunde sunt.
+
+[s2]
+Isus e viu, în mine-i viu
+Isus e viu, prin jertfa Lui m-a câştigat!
+Mă iubeşte, sunt fericit
+M-a liberat, Isus e viu, ce minunat !
+
+[s3]
+Ce multe sunt ce nu-nţeleg
+De ce Isus m-a liberat prin jertfa Sa?
+Sunt fericit că mă iubeşte
+El a murit, dar a-nviat, şi-n mine-i viu!
+
+[r1]
+Isus e viu, în mine-i viu
+Isus e viu, prin jertfa Lui m-a câştigat!
+Mă iubeşte, sunt fericit
+M-a liberat, Isus e viu, ce minunat!
+
+[s4]
+Orice-ndoieli care m-apasă
+Le-a ridicat, făcându-mă un serv al Lui.
+Sunt fericit, şi-n încercare
+M-a ridicat Isus al meu pe braţul Lui.
+
+[s5]
+Orice păcat şi vină grea
+El mi-a luat prin jertfa Sa de pe Calvar.
+Şi-atunci mi-a zis: “Sărmane suflet
+Tu vino azi, nu refuza chemarea Mea !”
+
+[s6]
+Mulţi sunt pierduţi şi-ngrijoraţi
+Şi gem pe drum în deznădejdi
+Eu sunt voios cu mine-i El
+In încercări El îmi spune: Cu tine-s Eu!
+
+[s7]
+Şi dacă vrei să-L ai şi tu
+Mântuitor în viaţa ta
+Să vii la El, aşa cum eşti
+Te va primi, te va iubi în veci de veci
+
+[order]
+s1,s2,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1

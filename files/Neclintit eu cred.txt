@@ -1,0 +1,33 @@
+[s1]
+Neclintit eu cred
+În ce­a promis Hristos,
+Laudă Îi aduc
+Prin cântul meu frumos;
+Slava şi mărirea Lui o cânt voios,
+Neclintit eu cred în Domnul meu!
+
+[r1]
+Cred în Domnul,
+Cred ce Domnul
+Prin Cuvântul Său promite!
+Cred în Domnul,
+Eu mă încred în tot ce a promis!
+
+[s2]
+Neclintit eu cred
+În ce­a promis Hristos,
+Pot fi liniştit când ceru­i furtunos!
+Prin Cuvântul Lui
+Eu sunt victorios,
+Neclintit eu cred în Domnul meu!
+
+[s3]
+Neclintit eu cred
+În ce­a promis Hristos,
+Ştiu că mă iubeşte
+El şi sunt voios!
+Spada Duhului mă face glorios,
+Neclintit eu cred în Domnul meu!
+
+[order]
+s1,r1,s2,r1,s3,r1

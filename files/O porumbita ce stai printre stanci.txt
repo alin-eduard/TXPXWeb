@@ -1,0 +1,40 @@
+[s1]
+O, porumbiţă ce stai printre stînci
+Ascunsă-n scobiturile adînci
+/: Ridică-ţi mahrama
+şi glasul să-ţi ascult
+Căci caut prin munţi şi peşteri,
+de ce nu-Mi răspunzi ? :/
+
+[s2]
+O, vino, ieşi afară ca să îţi vorbesc
+Căci florile în cîmp miros frumos răspîndesc
+/: Se pîrguiesc roadele în smochin
+Iar via e în floare, miroase din plin. :/
+
+[s3]
+De ce mai plîngi,
+cînd tu eşti aceea de preţ
+Vreau să te duc în casa de ospăţ
+/: Dar pîn-atunci, înviorează-te
+Cu turtele de struguri întăreşte-te. :/
+
+[s4]
+O, vino, ieşi afară, zorii se ivesc
+Tu eşti a Mea, şi Eu la tine vin
+/: Dar vedem munţii
+care ne despart
+Căci tu eşti singura
+ce o am mai cu drag. :/
+
+[s5]
+De-aceea Eu îţi zic, tu nu înceta
+Să-Mi cînţi cîntarea
+dragostei dintîi
+/: Căci în curînd vei fi dusă
+în casa Mea
+Scăpată-n veci de suferinţa
+cea grea. :/
+
+[order]
+s1,s2,s3,s4,s5

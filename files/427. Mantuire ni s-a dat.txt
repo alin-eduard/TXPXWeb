@@ -1,0 +1,39 @@
+[s1]
+1.Mântuire ni s-a dat
+Fără nici o plată
+Prin Isus crucificat
+Fără nici o plată
+427.								  Mi b
+
+[s2]
+Dar Hristos El ne-a iubit
+De păcat ne-a izbăvit
+Cât de mult El ne-a iubit
+Fără nici o plată.
+
+[s3]
+2.Curge un bogat izvor
+Fără nici o plată
+Veşnic şi mântuitor
+Fără nici o plată
+
+[s4]
+Orişicine care vrea
+Însetat din el să bea
+Mântuire va avea
+Fără nici o plată.
+
+[s5]
+3.De Isus tu eşti iubit
+Fără nici o plată
+Nu vrei să fii mântuit
+Fără nici o plată
+
+[s6]
+Inima Lui s-o predai
+Este tot ce poţi să-i dai
+Să ajungi la El în rai
+Fără nici o plată.
+
+[order]
+s1,s2,s3,s4,s5,s6

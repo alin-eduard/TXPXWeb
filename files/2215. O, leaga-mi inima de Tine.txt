@@ -1,0 +1,43 @@
+[s1]
+2215
+1. O, leagă-mi inima de Tine Preabunul meu Învățător
+/: O, leagă-mi inima de Tine
+Căci dacă nu, eu am să mor :/.
+
+[s2]
+2. Dezleagă-mi inima de dorul
+Din firea mea de a fi firesc
+/: Și dă-mi Tu dorul de izvorul
+Ce e sub tronul Tău ceresc :/.
+
+[s3]
+3. O, leagă-mi inima de Tine
+Căci eu sunt slab
+și n-am puteri
+/: Și-adesea vin și dau în mine Necazuri, teamă și dureri :/.
+
+[s4]
+4. O, leagă-mi inima de Tine
+Ca să-Ți slujesc mai liniștit
+/: Căci sunt neliniștit în mine
+Și sufletul mi-așa trudit :/.
+
+[s5]
+5. O, leagă-mi inima de Tine
+De locul ce l-ai pregătit
+/: Și-n dor s-ardă inima-n mine După Tine, Isus iubit :/.
+
+[s6]
+6. O, leagă-mi inima, Isuse
+De viața Ta și Ghetsimani
+/: Să gust din tainele-Ți divine
+Spre-a nu fi
+pradă la dușmani :/.
+
+[s7]
+7. O, leagă-mi inima de Tine
+Ca deslegat să fiu de tot
+/: Ce îmi rănește și îmi ține Sufletul meu între cei morți :/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

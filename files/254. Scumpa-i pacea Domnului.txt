@@ -1,0 +1,39 @@
+[s1]
+1. /:Scumpă-i pacea Domnului,
+Pacea Domnului
+Când este-n poporul lui,
+Pacea Domnului:/.
+254.
+
+[s2]
+2. /:Când e dragoste şi pace,
+Pacea Domnului
+Cel rău n-are ce ne face,
+Pacea Domnului:/.
+
+[s3]
+3. /:Când trăim în armonie,
+Pacea Domnului
+Avem mare bucurie,
+Pacea Domnului:/.
+
+[s4]
+4. /:Când e dragoste aprinsă,
+Pacea Domnului
+Duşmănia e învinsă,
+Pacea Domnului:/.
+
+[s5]
+5. /:Haideţi fraţi să ne unim,
+Pacea Domnului
+Pe Satan să-l biruim,
+Pacea Domnului:/.
+
+[s6]
+6. /:Haideţi fraţi să ne iubim,
+Pacea Domnului
+Şi ca fraţii să trăim,
+Pacea Domnului:/.
+
+[order]
+s1,s2,s3,s4,s5,s6

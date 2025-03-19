@@ -1,0 +1,25 @@
+[s1]
+1.Departe, departe acolo-i ţara mea
+O Isuse Doamne vreau s-ajung în ea.
+1211.
+2.Dă-ne Tu putere de-a putea zbura
+Când pe nori o Doamne, Tu vei apărea.
+3.Scapă-mă Isuse din acest necaz
+Tu priveşti la suflet şi nu la obraz.
+
+[s2]
+4.Dă-ne Duhul Slavei aici pe pământ
+Vin la noi o Doamne azi prin Duhul Sfânt
+5.		O iubit popor strigă Duhul Sfânt
+Cereţi tu iertare de la Tatăl Sfânt.
+6.	Iartă-mă Isuse  căci Tu ai suferit
+Pe dealul Golgotei, unde te-au jertfit.
+
+[s3]
+7.		O Isuse dragă vino azi la noi
+Dă-ne Duhul Slavei pururi fii cu noi.
+8.	Fii slăvit Isuse, Isuse iubit
+Căci pe noi toţi Tu ne-ai mântuit.
+
+[order]
+s1,s2,s3

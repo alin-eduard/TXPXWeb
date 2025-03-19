@@ -1,0 +1,52 @@
+[s1]
+Suflete pribeag, ce stai în lume
+Printre norii ca de fum
+Ei se urcă tot mai sus spre culme
+Abătîndu-se din drum.
+/: Nu uita că toate lucrurile-n viaţă
+Pîn, la urmă nu au nici un rost.
+Ce-ai zidit în Isus, stă de faţă
+Fericirea ţi-e-n folos. :/
+
+[s2]
+Uită-te că-n urma ta în zare
+Chiar pe margini de cărări
+Lumea umblă-n pasul de pierzare
+Trăind numa-n desfătări.
+/: Nu uita că toate lucrurile-n viaţă
+Pîn, la urmă nu au nici un rost.
+Ce-ai zidit în Isus, stă de faţă
+Fericirea ţi-e-n folos. :/
+
+[s3]
+Nu uita că Isus pentru tine
+La moarte-a fost condamnat.
+El ştia totul cum se cuvine
+Căci pentru noi a murit.
+/: Nu uita că toate lucrurile-n viaţă
+Pîn, la urmă nu au nici un rost.
+Ce-ai zidit în Isus, stă de faţă
+Fericirea ţi-e-n folos. :/
+
+[s4]
+Chiar Pămîntu-ntins cu totul verde
+Chiar dacă l-ai stăpîni
+Dacă sufletul tău ţi l-ai pierde
+La nimic n-ar folosi.
+/: Nu uita că toate lucrurile-n viaţă
+Pîn, la urmă nu au nici un rost.
+Ce-ai zidit în Isus, stă de faţă
+Fericirea ţi-e-n folos. :/
+
+[s5]
+Ai grijă în ceasul din urmă
+Ca tu să fii deşteptat!
+Căci vine-o zi cu furtună-ngrozitoare
+Tu veghează ne-ncetat!
+/: Nu uita că toate lucrurile-n viaţă
+Pîn, la urmă nu au nici un rost.
+Ce-ai zidit în Isus, stă de faţă
+Fericirea ţi-e-n folos. :/
+
+[order]
+s1,s2,s3,s4,s5

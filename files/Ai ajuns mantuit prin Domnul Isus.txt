@@ -1,0 +1,27 @@
+[s1]
+Ai ajuns mântuit prin Domnul Isus?
+Oare eşti în via sfântă altoit,
+Oare plină-ţi este inima de pace?
+Ai ajuns de Duhul Sfânt călăuzit?
+
+[r1]
+Eu te-ntreb, dacă ştii ce-i mântuirea,
+Dacă n-ai uitat că Isus a murit?
+Ai tu timp să meditezi,
+Să te rogi şi să lucrezi,
+Nu cumva îngrijorări te-au năpădit?
+
+[s2]
+Mai iubeşti pe Isus în tot momentul
+Şi plăcerile din lume le respingi?
+Ai uitat că iubirea e secretul,
+Harul tainicei puteri, cu care-nvingi?
+
+[s3]
+E un loc unde chemi a Lui prezenţă,
+Locul unde grija nu mai tulbură?
+Adunarea-i locul sfânt al împăcării,
+Unde-n duh şi-n adevăr te poţi ruga!
+
+[order]
+s1,r1,s2,r1,s3,r1

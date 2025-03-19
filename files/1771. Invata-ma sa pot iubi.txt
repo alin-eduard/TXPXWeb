@@ -1,0 +1,33 @@
+[s1]
+1771.Re
+1. Învaţă-mă să pot iubi
+Atunci când ura-mi stă în faţă
+Învaţă-mă să pot sluji
+Atunci când eu-l mă înalţă
+Cor:	/:Vreau să fiu al Tău
+Să te urmez pe tine
+Ajută-mă mereu
+Să fiu lumină-n lume:/
+
+[s2]
+2. Învaţă-mă să pot răbda
+Când alţii mă batjocoresc
+Să fac în toate voia Ta
+Şi numai Ţie să-Ţi slujesc
+Cor:	/:Vreau să fiu al Tău
+Să te urmez pe tine
+Ajută-mă mereu
+Să fiu lumină-n lume:/
+
+[s3]
+3. Învaţă-mă să pot umbla
+Pe calea care duce sus
+Învaţă-mă să Te urmez
+Pe Tine Domnul meu Isus
+Cor:	/:Vreau să fiu al Tău
+Să te urmez pe tine
+Ajută-mă mereu
+Să fiu lumină-n lume:/
+
+[order]
+s1,s2,s3

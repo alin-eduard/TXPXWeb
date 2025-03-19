@@ -1,0 +1,49 @@
+[s1]
+1456.
+Tu ostaş al lui Hristos
+Sfânta împărăţie
+Ridică sus capul şi vezi
+Evenimentele
+Priviţi lupta puternică
+Care se dă acum
+Adu-ţi aminte de acei
+Ce Scripturile spun
+
+[s2]
+Adu-ţi aminte de Daniel
+Cum el a refuzat
+Nevrând să se-nchine el
+L-al Persiei împărat
+Cei trei tineri la fel au zis
+Rege nu ne-nchinăm
+Hristos este al nostru Domn
+Noi de El ascultăm
+
+[s3]
+Focuri groaznice lei flămânzi
+Pe ei nu i-a-nfricat
+În a lor ferm devotament
+Nimic nu i-a stricat
+Poţi să răspunzi şi tu la fel
+Rege nu ne-nchinăm
+Hristos este al nostru Domn
+Noi de El ascultăm
+
+[s4]
+Încercarea se repetă
+În prezent pe deplin
+Pe credincioşii Domnului
+Astfel de-ncercări vin
+Tu fratele iubitul meu
+Să fii de tot atent
+Să nu te-nfrici să nu cedezi
+Nici măcar un moment
+
+[s5]
+Să stai ferm lângă Dumnezeu
+Şi chiar de vei muri
+Să fii sigur că Dumnezeu
+Mult îţi va răsplăti.
+
+[order]
+s1,s2,s3,s4,s5

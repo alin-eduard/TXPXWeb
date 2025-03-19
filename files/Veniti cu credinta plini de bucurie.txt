@@ -1,0 +1,35 @@
+[s1]
+Veniţi cu credinţă, plini de bucurie,
+Veniţi, o, veniţi, toţi la Betleem!
+Iată­-L în paie, Rege al măririi.
+
+[s2]
+Veniţi să ne­-nchinăm Lui,
+Veniţi să ne­-nchinăm Lui,
+Veniţi să ne­-nchinăm Lui,
+El e Domn!
+
+[s3]
+Voi, coruri de îngeri, glorie aduceţi
+Acelui ce­n iesle umil S­a născut;
+Slavă lui Dumnezeu în înălţime!
+
+[s4]
+Veniţi să ne­-nchinăm Lui,
+Veniţi să ne-­nchinăm Lui,
+Veniţi să ne-­nchinăm Lui,
+El e Domn!
+
+[s5]
+O, Doamne, Îţi spunem
+Bun venit în lume;
+Isuse, a Ta fie slava-­n veci!
+Tu eşti Cuvântul vieţii
+Printre oameni!
+
+[s6]
+Te adorăm, Isuse, Te adoram, Isuse,
+Te adorăm, Isuse, Tu eşti Domn!
+
+[order]
+s1,s2,s3,s4,s5,s6

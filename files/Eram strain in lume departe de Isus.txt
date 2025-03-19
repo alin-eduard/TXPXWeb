@@ -1,0 +1,26 @@
+[s1]
+Eram străin în lume,
+departe de Isus
+Dar, El cu-a Lui iubire,
+la Sine m-a adus.
+
+[r1]
+De acum eu slăvesc pe Isus
+El e prietenul minunat!
+Şi nu e nici un altul ca Isus
+La bine m-a adus!
+
+[s2]
+Eu pribegeam departe,
+străin de cel Preasfînt
+Dar El mi-a dat putere
+şi scut pe-acest Pămînt.
+
+[s3]
+Străin de-a Lui iubire,
+în marea-I putere
+Eu m-am predat lui Isus,
+m-a chemat la Sine.
+
+[order]
+s1,r1,s2,r1,s3,r1

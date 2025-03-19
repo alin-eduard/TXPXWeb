@@ -1,0 +1,28 @@
+[s1]
+Cânt Domnului că mi-a făcut bine,
+Lui Dumnezeu glorie.
+Mi se bucură inima-n mine,
+Lui Dumnezeu glorie.
+
+[r1]
+/: Cânt lui Dumnezeu glorie
+Şi tot pământul să-I cânte
+Lui Dumnezeu glorie.
+El mi-a adus mântuire
+De-aceea cânt pe vecie,
+Lui Dumnezeu glorie. :/
+
+[s2]
+Cu natura-ntreagă să cânt as vrea,
+Lui Dumnezeu glorie.
+Să-l slăvească munţii si apele,
+Lui Dumnezeu glorie.
+
+[s3]
+Cu cei ce-l iubesc în veci vom cânta,
+Lui Dumnezeu glorie.
+Şi-n nesfârşită viaţă vom intra,
+Lui Dumnezeu glorie.
+
+[order]
+s1,r1,s2,r1,s3,r1

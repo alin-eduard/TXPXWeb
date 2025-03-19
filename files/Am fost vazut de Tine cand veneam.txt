@@ -1,0 +1,35 @@
+[s1]
+Am fost vazut de Tine cand veneam
+In chip ciudat sa i-au fiinta-n lume
+Si din toate ce in fata mi-au aparut
+M-ai lasat ca eu s-aleg destinul meu in lume
+
+[s2]
+Scump Isus ca un bun pastor
+Cu iubire ai privit spre mine
+Scump Isus, din caile pagane
+Din pacat m-ai chemat la Tine
+
+[s3]
+Am fost vazut de Tine cand tradam
+Valorile Ceresti sadite-n mine
+Cu toate ca eram un fiu pierdut
+Ai ramas cu drag sa bati la usa cu iubire
+
+[s4]
+Scump Isus de cand Te-am intalnit
+La cruce sunt cel mai fericit
+Scump Isus privirea Ta senina
+Mi-a soptit ca sunt mantuit
+
+[s5]
+Ce minunat Isus Pastorul cel bun
+Parasind slava cereasca
+A venit in lumea noastra
+Ne-a cautat pe noi cei ce rataceam
+Ne-a izbabvit de povara
+Unei vieti lipsite de har
+Iar astazi putem spune « ce minunat »
+
+[order]
+s1,s2,s3,s4,s5

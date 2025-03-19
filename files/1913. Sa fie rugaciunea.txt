@@ -1,0 +1,41 @@
+[s1]
+1. Să fie rugăciunea ta
+O jertfă pentru slava Sa
+De laudă şi de adorare
+Când stai plecat înaintea Lui
+Dă-i mulţumire Domnului
+Şi spunei Doamne Tu eşti mare
+1913.                            Mi b
+
+[r1]
+Cor: Rugăciunea te poartă printre stele
+Te ajută frate în clipe grele
+Rugăciunea când treci prin încercare
+Te ridică şi vezi că Domnu-i mare
+
+[s2]
+2. Prin rugăciune tu gaseşti
+Alese bucurii cereşti
+Când vine Domnu-n cercetare
+Prin Duhul Sfânt tu mijloceşti
+Şi uiţi de cele pământeşti
+Cu Domnul Sfânt la rugăciune.
+
+[s3]
+3. Şi Domnul Isus s-a rugat
+Din chinuri grele a strigat
+O Tată iartă a lor vină
+Te roagă frate ca Isus
+Şi vei primi din cer răspuns
+Durerea Domnul ţi-o alină.
+
+[s4]
+4. Veniţi voi fraţi să ne rugăm
+Spre stânca vieţi să strigăm
+Doar El ne dă din apa vie
+Puţin mai e şi vom pleca
+Acolo nu ne-om mai ruga
+Ci vom cânta de bucurie.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

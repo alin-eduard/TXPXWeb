@@ -1,0 +1,26 @@
+[s1]
+O, pleacă-Ţi urechea la strigătul meu
+Ascultă-mi suspinul, Doamne!
+Te rog ia aminte la strigătul meu
+Căci către Tine eu mă rog.
+
+[r1]
+Doamne, auzi-mi glasul dimineaţa
+Spre Tine ruga îmi îndrept
+Doamne, auzi-mi glasul dimineaţa
+Răspunsul Tău sfînt îl aştept.
+
+[s2]
+Căci răul în preajma Ta nu are loc
+Şi fărădelegea urăşti
+Nebunii vor merge cu toţii în foc
+Tu nu poţi păcatul să-l priveşti.
+
+[s3]
+Căci cei ce se-ncred în Tine vor vedea
+O mîntuire veşnică.
+Cu Tine-mpreună ne vom bucura
+Cînd lacrimi şi chin vom uita.
+
+[order]
+s1,r1,s2,r1,s3,r1

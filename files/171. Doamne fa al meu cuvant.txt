@@ -1,0 +1,40 @@
+[s1]
+1. /:Doamne, fă al meu cuvânt
+Şi al minţii mele gând
+Ţie, Doamne, să le-nchin,
+Domnul meu.:/
+171.
+
+[r1]
+Cor:
+Stânca mea
+Tu eşti !
+Salvator pe veci !
+
+[s2]
+2. /:Doamne, fă viaţa mea
+Sfântă înaintea Ta,
+Ţie întreagă
+Să Ţi-o închin,
+Domnul meu!:/
+
+[s3]
+3. /:Doamne, rugăciunea mea
+Fă-o cum a fost a Ta,
+Totul Ţie să îţi spun,
+Domnul meu!:/
+
+[s4]
+4. /:Doamne, fă lumina mea
+A luci precum  o stea!
+Far în noapte Tu mă fă,
+Domnul meu!:/
+
+[s5]
+5. /:Doamne, fă iubirea mea
+Ca să fie ca a Ta!
+Toţi să fie prinşi în ea,
+Domnul meu!:/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5

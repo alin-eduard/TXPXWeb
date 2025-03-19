@@ -1,0 +1,37 @@
+[s1]
+Sfânt eşti Doamne
+(Sfânt eşti Doamne)
+Şi puternic (Şi puternic)
+Singur vrednic (Singur vrednic)
+De laudă (De laudă)
+Îţi dau cinste (Îţi dau cinste)
+Ascultare (Ascultare)
+Te voi iubi (Te voi iubi)
+Cât voi trăi (Cât voi trăi)
+
+[s2]
+O cântare (Domn al domnilor)
+De laudă (Rege-al regilor)
+Voi cânta pentru Isus
+(Domn puternic)
+Voi iubi pe-al (Eşti Emanuel)
+Meu Rege (Marele Eu Sunt)
+Ma închin azi (Eşti al păcii prinţ)
+În faţa Lui (Eşti Miel Preasfânt)
+
+[s3]
+O cântare (Veşnic Dumnezeu)
+De laudă (Al meu Mântuitor)
+Voi cânta pen- (Vei domni în veci)
+-tru Isus (Căci singur eşti necreat)
+Voi iubi pe-al (Tu eşti Alfa, Omega)
+Meu Rege (Început şi Sfârşit)
+Ma închin azi (Salvatorul, Mesia)
+În faţa Lui (Răscumpărător)
+
+[s4]
+Eşti al păcii prinţ
+Doar pentru Tine voi trăi.
+
+[order]
+s1,s2,s3,s4

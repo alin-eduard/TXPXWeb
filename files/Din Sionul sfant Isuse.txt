@@ -1,0 +1,75 @@
+[s1]
+Din Sionul sfânt, Isuse,
+Din al dragostei locaş
+Am dori să vii o clipă
+/: Şi iubirea să ne-o laşi. :/
+Do major
+
+[s2]
+Am dori ca odinioară,
+Când l-ai Tăi Te-ai arătat,
+Să Te-arăţi acuma, iară,
+/: În locaşul minunat. :/
+
+[s3]
+Unde vin cu-nflăcărare
+Preaiubiţii Tăi copii
+Să-Ţi ridice osanale,
+/: Dorindu-Te ca să vii. :/
+
+[s4]
+Vino şi să-Ţi vezi bolnavii,
+Cum suspină şi Te cheamă;
+Vino, mângâie durerea,
+/:Preaiubita noastră mamă! :/
+
+[s5]
+Şi prin ochii de credinţă,
+Se ridică înspre Tine
+Inimile-ndurerate,
+/:O, primeşte-le, Stăpâne!:/
+
+[s6]
+Unii vin şi cheamă pacea,
+Alţii strigă după har;
+Unii cheamă izbăvirea,
+/: Alţii-al dragostei hotar. :/
+
+[s7]
+Şi aşa Te rog, Isuse,
+Multe-aş mai avea de spus...
+Dar, Îţi spunem că ne arde
+/: Dorul de-a ne duce sus. :/
+
+[s8]
+Dorul după Ţara Sfântă
+Unde-i locul pregătit,
+Unde voi ajunge-odată,
+/: Lângă Tine Doamne sfânt. :/
+
+[s9]
+Unde nu vor mai fi lacrimi,
+Nici dureri, nici suferinţi;
+Unde nu va fi durerea
+/: Care este pe pământ. :/
+
+[s10]
+Te dorim, o, Ţară Sfântă!
+Te dorim locaş iubit!
+Te dorim şi-am vrea odată
+/: Să ajungem la sfârşit, :/
+
+[s11]
+Să ne terminăm suspinul
+Care parcă s-a înmulţit
+C-o să vin-odată ziua
+/: Ce profeţii au vestit. :/
+
+[s12]
+Te dorim, şi pân-atuncea,
+Te rugăm, Isus iubit,
+Să ne pregăteşti viaţa
+/: Pentru locul mult dorit. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12

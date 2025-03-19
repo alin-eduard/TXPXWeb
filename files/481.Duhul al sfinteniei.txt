@@ -1,0 +1,51 @@
+[s1]
+1.	Duhul al sfinţeniei
+Sfinţeşte-mă pe mine
+Că Domnul când va veni
+Să ne poată El răpi
+Domnul e cu noi.
+2.	Duhul Sfânt al dragostei
+Umple-ne de bucurii
+Pe părinţi să-i pot iubi
+Pe pământ cât voi trăi
+Domnul e cu noi.
+481.
+
+[s2]
+3.	Duhul adevărului
+Locuieşte în mine
+Să fie a mea viaţă
+Sfântă, dreaptă şi aleasă
+Domnul e cu noi.
+4.	Duhul Sfânt mi-i ajutor
+Mângâie inima mea
+Când mă vezi Tu întristat
+Nu mă lăsa apăsat
+Domnul e cu noi.
+
+[s3]
+5.	Duhul Sfânt Aleluia
+Luminează mintea mea
+Să-nţeleg eu a cânta
+Doamne Dumnezeule
+Domnul e cu noi.
+6.	Duhul Sfânt ce l-am primit
+Nu mă lăsa aţipit
+Pe vrăjmaş izgoneşte
+Care mă ispiteşte
+Domnul e cu noi.
+
+[s4]
+7.	Duhul Sfânt biruitor
+Cârmuieşte viaţa mea
+Ca pe Sfinţii din trecut
+Ce-n credinţă au adormit
+Domnul e cu noi.
+8.	Duhul Sfânt ce ne-a promis
+Că ne duce-n Paradis
+Pregăteşte-ne pe noi
+Pentru ziua de apoi
+Domnul e cu noi.
+
+[order]
+s1,s2,s3,s4

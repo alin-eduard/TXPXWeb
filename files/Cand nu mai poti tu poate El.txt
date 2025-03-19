@@ -1,0 +1,36 @@
+[r1]
+Când nu mai poti tu, poate EL
+Poate EL, poate El
+Când nu mai poti tu, poate El
+Poate El, Dumnezeu
+
+[s1]
+Tu trebuie să crezi,
+să crezi in Dumnezeu
+Tu trebuie să-l vezi, în ajutorul tău
+Dacă îl vei chema,nu te va refuza
+Căci dacă nu mai poți tu, poate El
+
+[s2]
+Cand crezi ca nu mai poti
+si esti descurajat
+Putere nu mai ai si esti ingrijorat
+Ridica-ti ochii-n sus
+si cheama-l pe Isus
+Caci daca nu mai poti tu poate El
+
+[s3]
+Cand nu mai poti tu, poate EL
+Poate EL, poate El
+Cand nu mai poti tu, poate El
+Poate El, Dumnezeu
+
+[s4]
+Tu nu descuraja, tu nu descuraja
+Tu nu descuraja,
+Domnu-i de partea ta
+Tu nu descuraja, pe calea aceasta
+Căci dacă nu mai poti tu poate El
+
+[order]
+r1,s1,r1,s2,s3,s4,r1

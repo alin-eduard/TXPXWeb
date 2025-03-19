@@ -1,0 +1,26 @@
+[s1]
+O, ce bine e, ce voios trăiesc
+Când mă las pe braţul Domnului
+Fericit mă simt, pace eu primesc
+Când mă las pe braţul Domnului.
+
+[r1]
+Eu sunt sigur, sunt ocrotit
+La pieptul Lui,
+Eu sunt sigur când mă las
+Pe braţul Domnului.
+
+[s2]
+Cât de dulce e călător să fiu
+Când mă las pe braţul Domnului,
+Mă conduce El, ţinta mea o ştiu
+Când mă las pe braţul Domnului.
+
+[s3]
+De ce să mă tem pe cărarea mea
+Când mă las pe braţul Domnului?
+El aproape e, am din pacea Sa
+Când mă las pe braţul Domnului!
+
+[order]
+s1,r1,s2,r1,s3,r1

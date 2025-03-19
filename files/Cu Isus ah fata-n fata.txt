@@ -1,0 +1,38 @@
+[s1]
+Cu Isus ah, faţă-n faţă
+Fericit mă voi simţi,
+Să privesc o veşnicie
+Pe Cel ce mă mântui
+
+[r1]
+Am să-L văd, da, faţă-n faţă,
+Să mă satur de privit,
+Sus cu Domnul pe vecie
+Am să-L văd necontenit.
+
+[s2]
+Ah, de multe ori greşit-am
+Tare-am mai păcătuit,
+Vreau să văd pe cel ce-mi zice:
+“Eşti iertat şi eşti primit!”
+
+[s3]
+El murit-a pentru mine,
+El mult bine mi-a făcut,
+Dar eu nicicând pân-acuma
+Faţa Lui nu am văzut.
+
+[s4]
+Te-am văzut dar ca-n oglindă,
+Scumpul meu Mântuitor,
+Dar să Te privesc în faţă
+Tare mult mi-e dor, mi-e dor!
+
+[s5]
+Cu Isus ah, faţă-n faţă,
+Ce-am să-I spun când L-oi vedea?
+Am să strig cu voce tare:
+“Mare e iubirea Ta!”
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,43 @@
+[s1]
+1.    Lacrimi azi îmi curg pe faţă
+Cu păreri de rău
+Supărat-am în viaţă
+Doamne chipul Tău.
+Cor:      Ţie Doamne-Ţi cer
+Nu mă lăsa să pier
+Tu poţi ca să dai iertare
+Celor care-ţi cer.
+1145.
+
+[s2]
+2.      Vin acum şi-ţi cer iertare
+Ia-mă-n braţul Tău
+Negreşit te-am dat uitării
+Doamne-mi pare rău.
+Cor:      Ţie Doamne-Ţi cer
+Nu mă lăsa să pier
+Tu poţi ca să dai iertare
+Celor care-ţi cer.
+
+[s3]
+3.      Nu-Ţi întoarce sfânta-ţi faţă
+Celui ce-a greşit
+I-ai dat dreptul la viaţă
+Fă-l şi fericit.
+Cor:      Ţie Doamne-Ţi cer
+Nu mă lăsa să pier
+Tu poţi ca să dai iertare
+Celor care-ţi cer.
+
+[s4]
+4.     Ai venit să mori pe cruce
+Şi ai suferit
+Şi ruşinea şi ocara
+Domnul meu iubit.
+Cor:      Ţie Doamne-ţi cer
+Nu mă lăsa să pier
+Tu poţi ca să dai iertare
+Celor care-ţi cer.
+
+[order]
+s1,s2,s3,s4

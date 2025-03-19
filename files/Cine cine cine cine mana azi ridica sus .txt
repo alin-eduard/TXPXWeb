@@ -1,0 +1,46 @@
+[s1]
+Cine, cine, cine, cine mîna azi ridică sus?
+Cine, cine, cine, cine vine la Isus?
+
+[s2]
+Cine lasă-n urmă toate,
+tot ce este pieritor
+Şi vine la Cel ce poate
+să vină pe nori ?
+
+[s3]
+Cine, cine, cine, cine vine azi la locul sfînt
+Şi renunţă la scanteia de pe-acest Pămînt ?
+
+[s4]
+Cine lasă jos arginţii,
+tot ce este efemer
+Şi se-alătură de sfinţii
+ce se află-n cer ?
+
+[s5]
+Cine, cine, cine, cine
+azi renunţă la pahar
+Şi vrea sincer să primească
+Duhul Sfînt în dar ?
+
+[s6]
+Cine lasă jos mîndria
+şi se-nalţă-n harul sfînt
+Are binecuvîntare-n
+cer şi pe Pămînt.
+
+[s7]
+Orişicne, orişicine, mare,
+mijlociu, sau mic
+Poate fi-n lucrarea sfîntă
+şi el ucenic.
+
+[s8]
+Doar credinţa să îi fie
+cît e bobul de muştar
+Cel ce vine, să îi toarne
+minunatul har.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

@@ -1,0 +1,36 @@
+[s1]
+Tată iubit, Tu L-ai trimis
+Pe Fiul Tău
+/: Să moară în locul meu. :/
+El s-a jertfit nevinovat
+Fiu de-Mpărat
+Pe păcătoşi i-a salvat.
+
+[r1]
+Numai Tu ştii să mă cerţi!
+Numai Tu ştii să mă ierţi!
+Numai Tu ştii să m-ajuţi!
+Numai Tu viaţa mi-o cruţi!
+Isuse, la Tine vin
+La Tine găsesc alin!
+Din tot ce ştiu pe Pămînt
+Eşti cel mai bun şi sfînt!
+
+[s2]
+Pe Golgota, El a purtat
+O cruce grea
+/: Isus purta crucea mea. :/
+Isus Hristos, fără păcat
+A suferit
+Atît de mult ne-a iubit.
+
+[s3]
+M-ajută Tu să-Ţi mulţumesc
+Şi-aş vrea să-Ţi cer
+/: Ca să mă iei sus în cer. :/
+Cînd va fi greu, Tu să Te-nduri
+Mîna să-mi dai
+Şi mă-nalţă sus în rai.
+
+[order]
+s1,r1,s2,r1,s3,r1

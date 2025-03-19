@@ -1,0 +1,27 @@
+[s1]
+Sîntem călători spre tot mai ,nalte zări
+Spre lumea de mai sus de nori.
+Zi de zi suim, în credinţă ne-ntărim
+În orice rău să biruim.
+
+[s2]
+Ceru-i aproape, vom fi împreună
+Lîngă Domnul nostru vom sta !
+Ceru-i aproape, vom sta laolaltă
+Toată vecia, Osana !
+
+[s3]
+Sîntem călători, a legii păzitori
+Popor de fraţi şi de surori.
+Crucea ne e steag, o vom purta cu drag
+Pînă în al veciei veac.
+
+[s4]
+Ceru-i aproape, vom fi împreună
+Lîngă Domnul nostru vom sta!
+Ceru-i aproape, vom sta laolaltă
+Toată vecia, Osana!
+Fraţi, surori, cu Domnul vom sta!
+
+[order]
+s1,s2,s3,s4

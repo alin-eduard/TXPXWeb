@@ -1,0 +1,27 @@
+[s1]
+O, cine este­acest Copil
+Ce stă culcat pe paie
+În timp ce îngerii din cer
+Îi cântă­n adorare?
+
+[r1]
+El e Hristos Isus,
+E Regele trimis de sus!
+Veniţi şi-L căutaţi
+Pe Cel născut în iesle!
+
+[s2]
+El doarme­n ieslea boilor
+Pe braţele Mariei;
+Păstori şi magi aduc cu ei
+Prinosul bucuriei.
+
+[s3]
+Veniţi la El,
+bogaţi, săraci,
+Cu daruri şi-nchinare
+Căci e nădejdea tuturor,
+La toţi ne e salvare!
+
+[order]
+s1,r1,s2,r1,s3,r1

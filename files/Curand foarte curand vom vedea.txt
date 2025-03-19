@@ -1,0 +1,20 @@
+[s1]
+/: Curand, foarte curand,
+vom vedea pe Mirele! :/
+Aleluia! Aleluia!
+Pe Mire Il vom vedea!
+
+[s2]
+/: Nu vom mai muri,
+vom vedea pe Mirele! :/
+Aleluia! Aleluia!
+Pe Mire Il vom vedea!
+
+[s3]
+/: Nu va mai fi plans,
+vom vedea pe Mirele! :/
+Aleluia! Aleluia!
+Pe Mire Il vom vedea!
+
+[order]
+s1,s2,s3

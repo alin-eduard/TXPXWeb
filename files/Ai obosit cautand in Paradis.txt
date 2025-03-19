@@ -1,0 +1,33 @@
+[s1]
+Ai obosit, cautând în Paradis
+Dar tu aceasta n-ai găsit
+Tu cauţi şi acum linişte
+în sufletul Tău
+Dar fară s-asculţi de Mine.
+
+[r1]
+/: Fără încetare, îţi zice Dumnezeu
+Ridică-te din tină, căci
+El Ţi-aşteaptă pasul Tău
+Să îţi ridice a ta vină. :/
+
+[s2]
+A ta avere ai risipit
+Gustând din lume şi plăcere
+Azi sufletul îţi este plin
+De lacrimi reci şi de durere.
+
+[s3]
+Acum te cheamă Isus să vii,
+Să ai în suflet odihnă
+Primeşte-L acum pe Tatăl Divin
+Ca medic ce alină.
+
+[s4]
+Îţi spun aceasta, prietenul meu drag
+Că-n ziua, care vine
+Te va-ntreba Slăvitul Dumnezeu
+Ce ai făcut, tu pentru Mine.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

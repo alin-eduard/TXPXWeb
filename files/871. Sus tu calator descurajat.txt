@@ -1,0 +1,43 @@
+[s1]
+871.
+1. Sus tu călător descurajat
+Timpul vine cel ce a murit
+Pentru tine pe lemn de cruce
+Va domni o mie de ani.
+Cor:	O mie de ani bucurii a fi
+Asta-i ziua demult s-a spus
+Ziua Sionului e asta
+Ce profeţii au profeţit.
+
+[s2]
+2. Vestiţi aceasta spuneţi la popor
+Că se apropie libertatea
+Bucuria care va ţine
+Într-o zi de-o mie de ani.
+Cor:	O mie de ani bucurii a fi
+Asta-i ziua demult s-a spus
+Ziua Sionului e asta
+Ce profeţii au profeţit.
+
+[s3]
+3. Precum zările de dimineaţă
+Se răspândesc peste pământ
+Aşa ziua Domnului va fi
+Strălucind o mie de ani.
+Cor:	O mie de ani bucurii a fi
+Asta-i ziua demult s-a spus
+Ziua Sionului e asta
+Ce profeţii au profeţit.
+
+[s4]
+4. Te aştept, Te aştept, o, scumpe Isus
+Când Te vei arăta şi eu
+Să mă aflu vrednic de Tine
+A domni o mie de ani.
+Cor:	O mie de ani bucurii a fi
+Asta-i ziua demult s-a spus
+Ziua Sionului e asta
+Ce profeţii au profeţit.
+
+[order]
+s1,s2,s3,s4

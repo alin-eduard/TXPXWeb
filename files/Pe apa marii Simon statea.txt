@@ -1,0 +1,32 @@
+[s1]
+Pe apa Mării Simon
+Stătea cu-al Său frate Andrei
+La fel si Iacov
+Si cu Ioan fiii lui Zebedei.
+
+[r1]
+O, Galileea, o, Galileea,
+în tine ucenicii s-au născut
+În Galileea, din Galileea
+De-acolo mântuirea a-nceput.
+
+[s2]
+În Galileea, Domnul Isus
+La mare S-a oprit
+Pe Simon Petru, El l-a chemat
+Si Petru a venit.
+
+[s3]
+De Galileea, Domnul Isus
+Era mai mult legat
+După-nviere la-i Lui S-a dus
+Si-apoi S-a înălțat.
+
+[s4]
+Și la Rusalii
+Tot ei erau acei ce s-au rugat
+Galileeni ei stăruiau
+Când Duhul Sfânt s-a dat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

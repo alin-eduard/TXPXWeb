@@ -1,0 +1,41 @@
+[s1]
+1911
+1. Adu-ți aminte tânăr drag
+De sfatul cel de acasă
+/: Când mama ta spunea mereu
+Tu ești creat de Dumnezeu
+Faci parte din poporul Său
+De ce oare nu-ți pasă :/.
+
+[r1]
+Cor:  Vino tinere pe calea dreaptă
+Vino chiar acum Isus te așteaptă
+De ce mai rătăcești printre coline
+Când cerul e deschis și pentru tine
+
+[s2]
+2. Când erai mic părinții tăi
+Te-au dus la casa sfântă
+/: Și pentru tine s-au rugat
+Isus te-a binecuvântat
+Dar ai crescut și ai plecat
+Tu n-ai rămas pe stâncă :/.
+
+[s3]
+3. Ai zis că vii din când în când
+Ca să mai simți iubirea
+/: Dar nu-i deajuns copilul meu
+Întoarcete la Dumnezeu
+Primește azi pe Fiul Său
+Primește mântuirea :/.
+
+[s4]
+4. Renunță acuma la păcat
+Trezește-te odată
+/: Încheie astăzi legământ
+Cu Dumnezeu cel pururi Sfânt
+Căci vom pleca curând curând
+În țara minunată :/.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

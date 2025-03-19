@@ -1,0 +1,29 @@
+[s1]
+1705.    Re m
+1. Pentru cine-ţi bate, bate
+Inima neîncetat
+Care doruri te frământă
+De cu zori până-n serat
+2. Pentru cine-ţi dai tu timpul
+Cu atâta foc, cu atât vânt
+Pentru ceasul cel de taină
+Sau te-aprinzi pentru pământ
+
+[s2]
+3. Pentru cine-ţi dai tu timpul
+Şi puterea ce o ai
+Pentru lumea trecătoare
+Sau pentru eternul rai
+4. Pentru cine-ţi arzi iubirea
+Doru acesta de nespus
+Pe-un altar zidit de oameni
+Sau pe-altarul lui Isus
+
+[s3]
+5. Cerceteză-te şi-ndreaptă
+Totul până nu-i târziu
+Fă să mişte a ta fiinţă
+Pentru Dumnezeul viu
+
+[order]
+s1,s2,s3

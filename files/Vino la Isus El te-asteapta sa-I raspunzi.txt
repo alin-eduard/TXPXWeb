@@ -1,0 +1,20 @@
+[s1]
+Vino la Isus, El te-aşteaptă să-I răspunzi,
+Inima să-I deschizi, vino chiar acum.
+Cercetează-te, recunoaşte-ţi starea ta
+Şi El Te va ierta, pace îţi va da.
+
+[s2]
+Vino la Isus, ştie că eşti întristat,
+Eşti căzut şi înfrânt de al tău păcat.
+El te cheam-acum să te-ntorci din al tău drum.
+Vino azi, nu mai sta, El te va salva.
+
+[s3]
+Vino la Isus, El te poate vindeca,
+Orice lacrimă-a ta El o va lua.
+Vrea să fii al Lui, un copil al Domnului
+Vindecat şi curat, şi pe veci salvat.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,29 @@
+[r1]
+/: Venim la poala crucii Tale
+Venim să-Ţi cerem îndurare
+Venim din beznă şi noroi
+Întindeţi mâna Doamne peste noi :/
+
+[r2]
+/: Cu fruntea la pământ
+Cu inima zdrobită
+Iţi cerem Doamne azi,
+putere înnoită :/
+
+[r3]
+Căci fără Duhul Tău
+Suntem tot pământeşti
+Ajută-ne ca să trăim
+aşa cum Tu doreşti
+Noi vrem cu cinste să purtăm
+În lume orişicând
+Chipul Tău iubirea Ta aici pe pământ
+
+[s1]
+/:Ce mare har s-avem in dar iertare
+Sa stim ca vina noastra ai platit
+In suflet ne aduci raza de soare
+O Doamne fii slavit:/
+
+[order]
+r1,r2,r3,r1,r2,r3,s1,r2,r3

@@ -1,0 +1,84 @@
+[s1]
+Rugăciune, rugăciune
+Esti-un dar Dumnezeiesc
+Care şi pe câmp de luptă
+Mă-ntăreşte când slăbesc.
+1248               						       Sol m
+
+[s2]
+/:Nopţi de-a rândul
+Nu dormeam
+Şi genunchii mi-i plecam
+Ruga să mi-o ’nalţ
+Spre Dumnezeu
+
+[s3]
+Mă ajută să nu cad
+Când puterile îmi scad
+Mă condu pe calea Ta,
+Spre cer. :/
+
+[s4]
+2.Vânt de îndoială bate,
+Vin ispite şi-ncercări.
+Inima mi se tot zbate
+Şi în suflet am dureri.
+
+[s5]
+/:Dar cu lacrimi
+M-am rugat
+Şi la Isus am strigat:
+Să m-ajute-n
+Clipe de nevoi!
+
+[s6]
+Doamne, numai Tu
+Mă vezi.
+Cum în suflet lăcrimez,
+Numai Tu
+Poţi să mă întăreşti! :/
+
+[s7]
+3.Domnul meu,
+‘N-această viaţă
+Fericirea n-o găsesc
+De mi-e drumul
+Plin de lacrimi
+Mă ajută să-l sfârşesc
+
+[s8]
+Una, Doamne, Îţi cer eu
+Mâna Ta
+S-o simt mereu
+Şi să-mi fii
+Tu ajutorul meu
+
+[s9]
+Când în luptă cad rănit
+Şi de toţi sunt părăsit
+Să mă mângâi
+Tu cu mâna Ta.
+
+[s10]
+4.Rugăciune, rugăciune
+Ard de mulţumire eu
+Şi-n adâncă umilință
+Vreau cu Domnul
+Să vorbesc
+
+[s11]
+Rugăciune, numai Tu
+M-ai salvat
+Pe-al vieţii drum
+Când puterile
+Mă părăseau
+
+[s12]
+Către bunul Dumnezeu,
+Mă-nălțam
+Mereu, mereu
+De la Domnul
+Pacea eu primeam!
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12

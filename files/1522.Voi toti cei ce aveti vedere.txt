@@ -1,0 +1,51 @@
+[s1]
+1522.
+1. Voi toţi acei ce aveţi vedere
+Dar nu deosebiţi
+Tot ce-i mai frumos şi mai plăcut
+La Isus să veniţi
+Nu staţi în bezna neagră
+Slujind celui rău
+Căci pentru tot ce aţi greşit
+Vă iartă Dumnezeu.
+
+[r1]
+Cor:	Acesta-i ziua împăcării
+Cu Dumnezeu ce te-a creat
+Prin sângele ce-a curs pe cruce
+De toate tu vei fi iertat
+Acesta-i anul de-ndurare
+Să te împaci cu Dumnezeu
+Ascultă-i ultima chemare
+Căci mai târziu îţi va fi mai greu.
+
+[s2]
+2. De-ai fi tu robul lui Isus
+Ce bine ar fi
+Viaţa aceasta nu-i a ta
+Eu cred că ştii
+Căci tot ce ai strâns şi ai adunat
+Pe acest pământ
+Se duc se pierd nu vor mai fi
+De ce nu vii.
+
+[s3]
+3. Căci Dumnezeu din cer
+A dat pe al său Fiu
+Să fii de al tău păcat
+Iertat de ce nu vii
+Vino nu sta nepăsător vei regreta
+Căci tot ce vezi e trecător
+Le vei lăsa.
+
+[s4]
+4. Ce fericiţi sunt cei ce
+Sunt cu Dumnezeu
+Orice ar veni şi orice ar fi
+Nu-ţi va fi greu
+Te va-nsoţi în lupta
+Grea cât vei trăi
+Şi prin credinţă dragoste vei birui.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

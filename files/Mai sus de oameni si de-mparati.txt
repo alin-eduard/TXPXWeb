@@ -1,0 +1,29 @@
+[s1]
+Mai sus de oameni şi de-mpăraţi
+Mai sus de toate pe care le-ai creat
+Mai sus de lume, mai sus de înţelepţi
+Tu ai fost, rămâi în veci de veci
+Mai sus de tronuri şi-mpărăţii
+Mai sus de-a lumii mari minunăţii
+Mai sus de aur şi tot ce-i valoros
+Tu rămâi în veci cel mai preţios
+
+[r1]
+Răstignit şi pus într-un mormânt
+Ca să mori venit-ai pe pământ
+Şi zdrobit ca un trandafir
+Tu ai căzut şi Te-ai gândit
+Doar la min`
+
+[s2]
+Mai sus de oameni şi de-mpăraţi
+Mai sus de toate pe care le-ai creat
+Mai sus de lume, mai sus de întelepţi
+Tu ai fost rămâi în veci de veci
+Mai sus de tronuri şi-mpărăţii
+Mai sus de-a lumii mari minunăţii
+Mai sus de aur şi tot ce-i valoros
+Tu rămâi în veci cel mai preţios
+
+[order]
+s1,r1,s2,r1

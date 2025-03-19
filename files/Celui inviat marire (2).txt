@@ -1,0 +1,36 @@
+[s1]
+„Celui înviat, mărire!“,
+Noi cântăm cu toţi în cor,
+El a­nvins tăria morţii,
+Înviind triumfător.
+Soare, Tu sol al dreptăţii,
+Cum răsari măreţ din nori!
+Bezna morţii se destramă
+Când Te urci strălucitor.
+
+[r1]
+Isus e viu, Isus e viu!
+Laudă şi onoare Lui!
+
+[s2]
+Isprăvit-ai Tu în groapă
+Greul Tău calvar şi sfânt,
+Multe lacrimi şi suspine
+Au sfinţit al Tău mormânt!
+Peste groapa Ta deschisă
+Trec toţi îngerii în zbor;
+Binecuvântând ei cântă
+Cu al învierii cor.
+
+[s3]
+Ce măreţ ai triumfat
+Tu peste toţi duşmanii Tăi,
+S­au distrus pe totdeauna
+Planurile celor răi.
+Doamne, Tu trăieşte­n mine,
+Eu prin Tine voi urca
+Biruind puterea morţii,
+Sus în cer, la dreapta Ta!
+
+[order]
+s1,r1,s2,r1,s3,r1

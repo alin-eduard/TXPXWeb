@@ -1,0 +1,69 @@
+[s1]
+1466.
+1.   Vâslesc din greu pe marea vieţii
+Şi vreau la ţărm ca să ajung
+Dar vânturile mă încearcă
+Şi uneori mă simt răpus
+Atâtea valuri bat în mine
+Atâtea gânduri de-nvins
+Şi luntrea greu îmi e lovită
+Sunt cu putere-n larg împins
+
+[s2]
+2.     Furtuna se-nteţeşte adesea
+Catargul meu e zdrenţuit
+Dar am un spijin şi-o nădejde
+În Tine Isus iubit
+Şi când apari în a mea cale
+Valurile s-au potolit
+Resimt în suflet primăvara
+Te laud şi sunt fericit
+
+[s3]
+Pe bolta cerului îndată
+Răsare soarele dorit
+Şi-n zare apare curcubeul
+E lucrul cel mai preţuit
+E semnul că Tu eşti cu mine
+E semnul că mă mai iubeşti
+Speranţa se porneşte-n mine
+Când valurilor porunceşti
+
+[s4]
+4.   Rămâi te rog în a mea barcă
+Rămâi la cârma ei mereu
+Să biruiesc oricând prin Tine
+Isus Fiu de Dumnezeu
+Eşti Suveran eşti Creatorul
+Pe Tine te vor asculta
+Vântul şi marea agitată
+Eu singur nu mă pot lupta
+
+[s5]
+5.   Aşa de grea e înaintarea
+Când vrei acasă să ajungi
+Şi tot mai lung parcă e drumul
+Şi tot mai greu e să învingi
+Aşa e calea către ceruri
+Aşa e drumul spre liman
+Vânturile bat cu furie
+Şi urmărit eşti de duşmani
+
+[s6]
+6.   Atâtea şoapte mă-mpresoară
+Şi-mi spun ca n-am să mai ajung
+Dar eu un lucru îl ştiu bine
+Că mă ajută Duhul Sfânt
+Oricât ar fi lupta de mare
+Eu înapoi nu vreau să dau
+Căci ţara mea e Canaanul
+Cu dor spre ea călătoresc
+
+[s7]
+7.   Nu e o ţară pământească
+E Canaanul cel ceresc
+Acolo vreau s-ajung odată
+Şi pe veci să mă odihnesc
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

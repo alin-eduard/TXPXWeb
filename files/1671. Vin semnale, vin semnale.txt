@@ -1,0 +1,65 @@
+[s1]
+1671.
+1. /:Vin semnale:/ sună desluşit
+Se-apropie ziua plecării
+Poporului iubit.
+/:Nu te-nşela tu singur
+Amânând mereu
+Căci nu ştii ziua când vine
+Fiul lui Dumnezeu:/
+Creştinii stau gata,
+Nu se dau învinşi
+Orice vijelii vor veni
+
+[s2]
+În frunte-i Mesia
+Ce-a învins vijelia
+Calvarul cumplit l-a urcat
+Crede profeţia ce-ţi dă bucuria
+De-nvingi jos nu vei fi lăsat.
+
+[s3]
+2. /:Pregătire:/ pregătire peste tot
+/:Lucrul tainic:/ dezleagă
+Domnul Savaot
+/:Lasă tot ce te mai leagă
+De acest pământ
+Dă năvală şi primeşte
+Darul Duhului cel Sfânt:/
+
+[r1]
+Cor:	În frunte-i Mesia
+Ce-a învins vijelia
+Calvarul cumplit l-a urcat
+Crede profeţia ce-ţi dă bucuria
+De-nvingi jos nu vei fi lăsat.
+
+[s4]
+3. /:Spală-ţi haina:/ chiar acum
+Că trâmbiţa este gata
+Să sune pe drum
+Ce te faci de nu eşti gata
+Ori rămâi stingher
+Mesia-i gata să-şi ducă
+Miresa Sa la cer .
+
+[s5]
+4. /:Deşteptare:/
+Deşteptare tot mereu
+În curând domni-va veşnic
+Al nostru mare Dumnezeu
+Până când se zice astăzi
+Nu-ţi impietri inima
+Tot ce ai din lumea aceasta
+Aici jos va rămânea.
+
+[s6]
+5. /:Vine Domnul:/ Maranata vine El
+Să fim gata-n orice clipă
+Căci vine Emanuel
+Aleluia, Osanale se vor auzi
+În ziua măreaţă sfântă
+Când pe nori va El va veni.
+
+[order]
+s1,s2,s3,r1,s4,r1,s5,r1,s6,r1

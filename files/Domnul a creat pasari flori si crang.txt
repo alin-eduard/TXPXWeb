@@ -1,0 +1,33 @@
+[s1]
+Domnul a creat, păsări, flori şi crâng
+Şi-acei crini ce frumos înfloresc;
+Ce parfum minunat Domnul a presărat!
+Când îl sorbi, îndată te înveseleşti;
+Iat-un ghiocel, creşte-ncetinel;
+De-l întrebi, îţi va spune şi el
+De-al său Creator Atotziditor
+Cum şi lui i-a dat Domnul viaţă la fel.
+
+[r1]
+/: Dar tu spune, omule, ce eşti trecător
+N-ar trebui să-L slăveşti pe Creator,
+/: Când eşti cea mai minunată făptură din toate? :/
+
+[s2]
+Păsările-n crâng cântă ne'ncetat
+Şi aduc slava Celui Prea'nalt,
+Că El a creat crângul minunat
+Şi izvoarele ce curg ne'ncetat.
+Curg rostogolind, încet şipotind,
+Despre-al lor Creator povestind
+Celor ce-n calea lor setea şi-o potolesc;
+Tot ce-i viaţă în jurul lor răcoresc.
+
+[s3]
+/: Sus pe cer se-aprind stele clipocind;
+Luna, soarele, spun ne'ncetat
+De puterea Sa, de marirea Sa,
+Cum pe cer Dumnezeu le-a asezat. :/
+
+[order]
+s1,r1,s2,r1,s3

@@ -1,0 +1,46 @@
+[s1]
+De ce te plangi tu, inimă,
+cu-atata grea povară?
+Nu vezi că nu-i totu-n zadar,
+că Domnul Tău e mare ?
+
+[s2]
+/: Te-ncrede-n El si numa-n El
+Şi spune-I a ta soartă
+Şi sarcinile-ţi poartă ! :/
+
+[s3]
+Priveşte crinii cîmpului,
+gătiţi cu-atata slavă
+Şi puişorii corbilor,
+hrăniţi fără zăbavă.
+
+[s4]
+/: El, numai El, El, numai El
+E-n stare să te poarte
+La viaţă şi la moarte. :/
+
+[s5]
+Spre cer înalţă-ţi ochii tăi,
+spre pulberea de stele
+Nu şti tu că aleşii Săi
+sunt mai de preţ ca ele?
+
+[s6]
+/: Tu, însă tu, tu, însă tu
+Nu eşti străin de lume
+Chemat vei fi pe nume. :/
+
+[s7]
+În jurul tău, fără să vezi,
+stau mii şi mii de îngeri
+Dar tu nicicînd să nu cedezi,
+vrăjmaşii vei învinge.
+
+[s8]
+/: Tu, însă tu, tu, însă tu
+Eşti ţinta multor lupte
+Chiar lanţurile-s rupte. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

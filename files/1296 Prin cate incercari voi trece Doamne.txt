@@ -1,0 +1,34 @@
+[s1]
+1296
+Prin câte încercări voi trece Doamne
+Şi câte valuri bat în barca mea
+Te rog Isuse treci înainte
+Căci numai Tu îmi eşti salvarea mea
+Întotdeauna Tu mi-ai fost nădejdea
+Şi în Tine eu m-am încrezut deplin
+Mai mângâiat când eram tristă
+Când mă aflam în cel mai groaznic chin
+1.
+2.
+
+[s2]
+Nu vreau aur, argint şi pietre scumpe
+Averi palate şi alte bogăţii
+Eu vreau Isuse mântuirea
+Şi pentru slava Ta Tu să mă  ţii
+Eu vreau să te slujesc întruna Doamne
+Atât cât voi trăi pe-acest pământ
+Căci în curând sosi-va clipa
+Când vom zbura spre Canaanul Sfânt
+3.
+4.
+
+[s3]
+Căci în curând veni-va zile grele
+Şi nu ştiu de voi putea rezista
+Dar eu te rog să-mi dai putere
+Şi ne-ncetat Isuse să pot veghea.
+5.
+
+[order]
+s1,s2,s3

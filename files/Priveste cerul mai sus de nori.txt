@@ -1,0 +1,37 @@
+[s1]
+Priveşte cerul, mai sus de nori
+Cu mii de stele ca nişte flori
+Ce cu-a lor raze dulce sclipesc
+Şi universul împodobesc.
+Mi b
+
+[r1]
+/: Acolo-i ţara mea...
+acolo-i viaţa...
+Acolo-i dorul meu...
+se-nalţă către cer!
+Departe de-orice chin,
+departe de dureri
+De unde Mielul blând
+revarsă mângâieri.:/
+
+[s2]
+De vrei să crezi, de vrei să ştii,
+Numai lui Isus tu-i poţi sluji
+Şi în mărire poţi vieţui
+Şi-a Lui iubire o poţi primi.
+
+[s3]
+O, ţară sfântă, când te-oi zări?
+Pe-a tale plaiuri când voi sosi?
+Pe-a ta câmpie-n aceea zi
+Toţi credincioşii s-or întâlni.
+
+[s4]
+Parcă se-aude din depărtări
+Un glas ce strigă:„Noi v-aşteptăm!
+În ţara sfântă, de-aur curat,
+Ce prin credinţă aţi câştigat!”
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

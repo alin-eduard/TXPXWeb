@@ -1,0 +1,30 @@
+[s1]
+Din ceata vremii, curg siraguri:
+Milenii, veacuri, ani in sir;
+In fata omului din larguri,
+Apare-o zi de maine-n fir.
+
+[r1]
+In mana Domnului, amice,
+O incredinteaza-ti soarta ta!
+Cu ziua ta de maine, vino o La El,
+Caci grija va purta
+Sa ne uitam - Isus ne-ndeamna
+O la pasarile cerului;
+Nu seamana si nici nu ara,
+O dar totusi, au belsugul Lui!
+
+[s2]
+Doar ziua de-astazi iti decide
+Cum fi-va ziua de apoi;
+Te poti salva sau, poate, pierde;
+Poti fi cazut, poti fi erou...
+
+[s3]
+Dorinta cea mai mare-n lupte
+Pe care-o are-un sfant ostas,
+E ca, prin toate, sa ajunga
+Victorios si viu, Acas'..
+
+[order]
+s1,r1,s2,r1,s3,r1

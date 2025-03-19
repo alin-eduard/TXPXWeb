@@ -1,0 +1,50 @@
+[s1]
+2098
+1. Eu strig cu glasul meu
+Trăiască Dumnezeu
+Trăiască Isus Salvatorul
+/: El pacea mi-a dat
+Calea mi-a arătat
+În veci fie El lăudat :/
+
+[s2]
+2. Eu strig cu glasul meu
+Trăiască Dumnezeu
+/:Trăiască:/ Mesia
+/: El viața Și-a dat
+Pentru al meu păcat
+În veci fie El lăudat :/
+
+[s3]
+3. Eu strig cu glasul meu
+Trăiască Dumnezeu
+Acel ce ne dă mântuirea
+/:Fiul Său Și-a trimis
+Să fim noi mântuiți
+În veci fie El preamărit :/
+
+[s4]
+4. Eu strig cu glasul meu
+Te aștept o Domnul meu
+Să vii să-Ți răpești
+a Ta mireasă
+/: Te aștept cu gând curat
+Te aștept neîncetat
+Să vii să ne duci
+la Tine acasă :/
+
+[s5]
+5. Eu strig cu glasul meu
+Trăiască Dumnezeu
+/:Trăiască:/ iubirea
+Din dragoste a venit
+Pe cruce S-a jertfit
+Să pot să fiu eu azi mântuit
+
+[s6]
+Din dragoste a venit
+În veci fie slăvit
+Acela ce moarte-a biruit.
+
+[order]
+s1,s2,s3,s4,s5,s6

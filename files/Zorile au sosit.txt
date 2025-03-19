@@ -1,0 +1,30 @@
+[s1]
+Zorile au sosit, trâmbiţa va suna,
+Ce e scris în Cuvânt s-a-mplinit
+Pentru cei pregătiţi
+ce-au vegheat pururea
+Şi aşteaptă pe Mirele iubit.
+
+[r1]
+/: Aleluia, Aleluia
+Cântă corul fericit şi mântuit
+Aleluia, Aleluia
+Cântă vesel că Isus i-a mântuit. :/
+
+[s2]
+Cei ce-aud trâmbiţa
+într-o clipă s-ar schimba
+Căci Isus pe nume îi va chema
+Şi-nspre cer vor zbura
+toţi în alb îmbrăcaţi.
+Va răpi Dumnezeu Biserica.
+
+[s3]
+Cei ce sunt sigilaţi şi-au fost
+plini de Duhul Sfânt,
+Hainele în sânge şi-au spălat
+Prin Isus au luptat pe satan biruind
+Şi cunună de aur li s-a dat.
+
+[order]
+s1,r1,s2,r1,s3,r1

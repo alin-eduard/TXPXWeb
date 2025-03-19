@@ -1,0 +1,70 @@
+[s1]
+Din Berşeba Iacov când pornise
+În călătoria lui spre Haran
+După cum Isac îi poruncise
+Să rămână la Padan Aram
+1.
+Dup-o zi de grea călătorie
+Seara se lăsase şi el se opri
+Căci lumina soarelui cea vie
+A coborât  spre asfinţit
+2.
+1264
+
+[s2]
+Iacov îşi luase-n grab-o piatră
+Şi şi-o puse-n dreptul capului
+O Doamne ce noapte minunată
+Să dorm în mijlocul pustiului
+3.
+Dar Domnul iată căci îi arată
+În curând din mreaja unui vis stingher
+El vede o scară minunată
+Pe pământ ce-ajungea la cer
+4.
+
+[s3]
+Dar pe-această scară minunată
+Se plimbau îngerii în sus şi-n jos
+Îngerii Dumnezeului mare
+Iată dragii mei ce vis frumos
+5.
+Iar Domnul sta privind deasupra scării
+Şi apoi lui Iacov îi cuvânta
+Pământul şi tot ce are suflare
+Seminţei tale îi voi da.
+6.
+
+[s4]
+Te vei întinde l-apus şi la răsărit
+La miază-noapte şi la miază-zi
+Toate seminţiile pământului
+Toate ţie ţi le voi dărui.
+7.
+Şi sculându-se de dimineaţă
+A luat piatra şi a pus-o în pământ
+Ca loc de aducere-aminte
+Pentru Dumnezeu acela Sfânt.
+8.
+
+[s5]
+Plin de frică Iacov îşi spuse
+Acesta-i un loc aşa de minunat
+Căci aici e casa lui Dumnezeu
+Şi poarta cerului înstelat
+9.
+Iar Iacov a făcut o juruinţă
+Căci dacă Domnu-n viaţă îl va ocroti
+Pământul şi ce are suflare
+Pe Domnul Dumnezeu îl voi mări
+10.
+
+[s6]
+Plin de frică Iacov atunci îi zise
+Aceasta-i un loc aşa de minunat
+Căci aici e casa lui Dumnezeu
+Şi poarta cerului înstelat.
+11.
+
+[order]
+s1,s2,s3,s4,s5,s6

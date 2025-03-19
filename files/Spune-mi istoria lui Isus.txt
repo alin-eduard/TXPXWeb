@@ -1,0 +1,32 @@
+[s1]
+Spune-mi istoria lui Isus
+Scri-o pe inima mea
+Spune-mi, că e mai măreaţă
+Decât tot ce s-a scris cândva !
+Spune-mi cum îngerii în cor
+Cântau Copilului sfânt :
+<Slavă lui Dumnezeu în cer
+Şi pace fie pe Pământ !>
+
+[s2]
+Spune-mi cum El, în pustie
+Mult S-a rugat îi-a postit
+Şi-apoi Satan să-L îmbie
+Veni, dar fost-a biruit.
+Spune-mi lucrarea-I slăvită
+Spune-mi ce chin a răbdat
+Cum faţa I-a fost lovită
+Pentru al meu grozav păcat.
+
+[s3]
+Spune-mi cum El, sus pe cruce
+Multe dureri a răbdat
+Spune-mi cum din groapa rece
+A treia zi a înviat.
+Ce dragoste minunată
+Mai clar ca oricând zăresc
+Şi plâng azi ca niciodată
+Pe veci eu vreau să Îl slăvesc !
+
+[order]
+s1,s2,s3

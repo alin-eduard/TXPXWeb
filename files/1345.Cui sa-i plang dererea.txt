@@ -1,0 +1,57 @@
+[s1]
+1345.
+1.  Cui să-mi plâng durerea
+Şi-ntristarea mea
+Cui să-mi plâng amarul
+Suferinţa grea.
+Cor: Fiecare-şi are greutatea sa
+Nimeni nu mă poate
+Doamne mângâia.
+
+[s2]
+2. Suspinând la Tine
+Vin împovărat
+Mângâie-mi Isuse
+Sufletul întristat.
+Cor: Fiecare-şi are greutatea sa
+Nimeni nu mă poate
+Doamne mângâia.
+
+[s3]
+Doamne-al mângâierii
+Isus iubit
+Mângâie-mi al meu
+Suflet trist şi obosit.
+Cor: Fiecare-şi are greutatea sa
+Nimeni nu mă poate
+Doamne mângâia.
+
+[s4]
+O Isuse dulce
+Tu ai mângâiat
+Pe oricare suflet
+Care te-a aflat.
+Cor: Fiecare-şi are greutatea sa
+Nimeni nu mă poate
+Doamne mângâia.
+
+[s5]
+Tu dai bucurie
+Fără de sfârşit
+Sufletului care
+Toate-a părăsit.
+Cor: Fiecare-şi are greutatea sa
+Nimeni nu mă poate
+Doamne mângâia.
+
+[s6]
+6.  Dă-mi şi mie pace,
+Mângâiere azi
+Şi-mi înseninează
+Plânsul pe obraz.
+Cor: Fiecare-şi are greutatea sa
+Nimeni nu mă poate
+Doamne mângâia.
+
+[order]
+s1,s2,s3,s4,s5,s6

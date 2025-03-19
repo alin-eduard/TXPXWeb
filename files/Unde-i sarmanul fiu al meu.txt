@@ -1,0 +1,32 @@
+[s1]
+Unde-i sărmanul fiu al meu?
+Iubitul inimii mele.
+Zilele bune au trecut
+Numai dureri am din ele.
+
+[r1]
+O, unde-i fiul meu?
+O, unde-i fiul meu?
+Mă doare, o, că nu ştiu unde e.
+Spuneţi unde e fiul meu.
+
+[s2]
+Odinioară ca tânăr
+Petrecea voios pe-al meu braţ.
+O, cât de dulce mă privea
+Şi Domnului  I se-nchina.
+
+[s3]
+Oare îl voi mai revedea
+Aşa blând cum atunci era?
+Fericită-ar fi casa mea
+Bucuria-n ea ar intra.
+
+[s4]
+Vă rog să mergeţi
+Să-l căutaţi
+Oricât de-adânc ar fi căzut
+La inimă-mi îl mai primesc.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

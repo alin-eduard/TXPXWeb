@@ -1,0 +1,32 @@
+[s1]
+Strigă din Nord şi din Sud
+Cântă din Est şi din Vest
+Domnul Isus e Stăpân
+Peste cer şi pământ...
+
+[s2]
+Hai ridică-te bărbat
+În credinţă îmbrăcat
+Tu eşti tare când eşti slab
+Ţine sus al luptei steag
+
+[s3]
+Sus femeie a lui Hristos
+Hai şi cântă-I Lui frumos
+El e Rege-al dragostei
+Vindecată să fii vrei?
+
+[s4]
+Sus biserică de-acum
+Că trezirea e pe drum
+Umple templul cu cântări
+Să-L lăudăm din patru zări
+
+[s5]
+Trecem prin apă, trecem prin foc
+Nu ne e teamă cu tine deloc
+Tot mai mult Doamne să Te iubim
+Mai mult să mărturisim...
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,28 @@
+[r1]
+Da, ziua cea mare
+Groaznica va fi,
+Cand toate popoarele vor
+Sta la judecata.
+
+[s1]
+/: Soti de sotii s-or desparti, :/
+Pe vecii vecilor.
+
+[s2]
+/: Frati de surori s-or desparti, :/
+Pe vecii vecilor.
+
+[s3]
+/: Neamuri de neamuri s-or desparti:/
+Pe vecii vecilor.
+
+[s4]
+/:Pastori de turme s-or desparti, :/
+Pe vecii vecilor.
+
+[s5]
+/: Ce-ai semanat, vei secera, :/
+Pe vecii vecilor.
+
+[order]
+r1,s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

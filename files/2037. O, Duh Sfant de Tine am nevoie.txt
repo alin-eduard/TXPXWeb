@@ -1,0 +1,30 @@
+[s1]
+2037  Fa # m
+1. O Duh Sfânt de Tine am nevoie
+O Duh Sfânt prin Tine eu trăiesc
+Tu îmi ești umplerea din suflet
+Și cu Tine eu trăiesc.
+
+[r1]
+Cor:	/:Duhul Sfânt e porumbelul
+Duhul Sfânt e foc, putere
+Duhul Sfânt în orice clipă
+E nădejde mângâiere :/
+
+[s2]
+2. O Duh Sfânt,
+Tu ești duh de-nfiere
+O Duh Sfânt prin Tine eu trăiesc
+O Duh Sfânt tu-mi dai
+Și azi putere
+Și cu Tine mă înveselesc.
+
+[s3]
+3. Duh preasfânt,
+Tu-mi ești tăria vieții
+În pribegia mea pe-acest pământ
+Tu mă pregătești pentru-ntâlnirea
+Cu Isus Mirele cel Sfânt.
+
+[order]
+s1,r1,s2,r1,s3,r1

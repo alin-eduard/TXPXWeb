@@ -1,0 +1,33 @@
+[s1]
+Doamne, Te rog acuma
+Să mă ajuţi Isus, să mă ridici
+Să pot sluji întotdeauna
+Să ajung cu Tine în veşnicii.
+
+[r1]
+/: La Tine, eu vin, o, Doamne
+Să te înalţ Isus, să mă închin
+Să-Ti cânt doar Ţie osanale
+Căci Tu eşti Domn în veci,
+Şi în veci vei fi :/
+
+[s2]
+Când Îti arăţi a Ta bunătate
+Pace primesc eu, numai din Tin’
+Să mă călăuzeşti cu mâna tare
+Şi viaţă primesc, pe deplin.
+
+[s3]
+Când sufletul, plin de durere
+De Tine mă simt copleşit
+Tu vii şi-mi dai alinare
+Mă umpli de har şi mă ridici.
+
+[s4]
+Astăzi, eu vreau să Te laud
+Că-n inină Tu îmi torni mereu
+Iubire şi dor să Te caut
+Să-Ţi pot cânta, Numelui Tău.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,45 @@
+[s1]
+401.   Mi
+1.Se aude în inimi un glas duios
+Este glasul cel sfânt a lui Hristos
+/:El începe a te-ntreba
+Ce-ai făcut în viaţa ta
+Că-n curând va veni judecata:/.
+
+[s2]
+2.A trecut încă un an din viaţa ta
+Te-ai gândit vreodată ce-ai făcut
+/:Pe un flămând l-ai săturat
+Sau mereu l-ai alungat
+Căci Tatăl ţie rod bogat ţi-a dat:/.
+
+[s3]
+3.Pe bolnavi oare tu i-ai cercetat
+Căci Tatăl sănătate ţie ţi-a dat
+/:El mereu te-a învăţat
+Pe bolnavi i-ai cercetat
+Şi să-i faci totdeauna voia Sa:/.
+
+[s4]
+4.Dacă cumva la tine a venit
+Vreun setos din lume şi obosit
+/:Apă vie tu i-ai dat
+Din cuvântul cel bogat
+Dacă tu eşti creştin cu adevărat:/.
+
+[s5]
+5.Dacă acestea toate nu le-ai făcut
+Securea la rădăcină s-a înfipt
+/:Şi orice pom va fi tăiat
+Care roadă nu a dat
+Căci destul în grădina mea a stat:/
+
+[s6]
+6.Însă noi mai avem Mijlocitor
+Şi Îl rog tot mereu pe Creator
+/:Să-l mai laşi un an aşa
+Şi-ngrăşăminte-i voi da
+Dacă rod nu aduce îl voi tăia:/.
+
+[order]
+s1,s2,s3,s4,s5,s6

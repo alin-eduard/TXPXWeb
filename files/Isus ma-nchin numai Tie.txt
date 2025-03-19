@@ -1,0 +1,23 @@
+[r1]
+Isus, mă-nchin numai Ție
+Cu, vesnică bucurie,
+Doar Tu imi dai adevărata fericire!
+Glasu-mi înalt către Tine
+Căci Te-ai jerfit pentru mine
+La Golgota mi-ai aratat a Ta iubire!
+
+[r2]
+Isuse, vin să–ti cant,
+doar Ție Domn divin
+Și ca o harfa de argint înalt cântarea mea!
+Inima mea doresc să fie doar a Ta
+Cu viața mea vreau sa-Ți slujesc
+/:De-a pururea:/
+
+[s1]
+Azi, Isuse vin, să-nalt spre cer cântarea mea
+Azi Isuse vin, vreau să-Ți slujesc
+/:De-a pururea:/
+
+[order]
+r1,r2,r1,r2,s1,r2

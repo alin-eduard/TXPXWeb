@@ -1,0 +1,38 @@
+[s1]
+1616.
+1.Pune Doamne dragoste-ntre fraţi!
+Să fim toţi ca o brăţară,
+Ca un brâu de piatră rară,
+Ca veşmântul Tău de in.
+Să nu poată a ne desparte
+Nici prăpastia, nici moartea
+Și cum scrie-n Sfânta carte
+Să fim una pe deplin,
+Ca veşmântul Tău de in.
+
+[s2]
+2.Pune Doamne dragoste-ntre fraţi!
+Când ne strângem la-nchinare
+Cât am fi de mulţi sub soare
+Doamne cu-ndurare
+O colibă si  nu trei.
+Nimeni să nu spună acolo
+Sunt cu Pavel sunt cu Apolo
+Si să fim de acum în colo
+Ca un stol de porumbei
+Să te bucuri Tu de ei.
+
+[s3]
+3.Pune Doamne dragoste-ntre fraţi!
+Fă-ne, Tu, o arfă vie,
+Ce sub mâna Ta mlădie!
+Să-nălţăm o melodie,
+Una cât am fi de mulţi.
+Duhul Tău ce-I azi în lume,
+Să lucreze, să ne spună!
+Strânge-ne-ntr-un Duh anume,
+Gata pentru-a fi luaţi!
+Pune Doamne dragoste-ntre fraţi!
+
+[order]
+s1,s2,s3

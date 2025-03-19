@@ -1,0 +1,26 @@
+[s1]
+Ne-om vedea în dimineaţa
+Când Mirele va sosi;
+Călătorule, fii gata
+Ca nu prea târziu să vii.
+
+[r1]
+/: Ne vom vedea :/
+La Isus în frumosul Paradis!
+/: Ne vom vedea :/
+Cu toţi cei ce-au ascultat ce El a zis.
+
+[s2]
+Candela aprins-o ţine,
+Pe Hristos Îl aşteaptă
+Căci El a promis că vine
+Deci, fii treaz şi te gată!
+
+[s3]
+Ce fericiţi noi o să fim,
+Şi cât va fi de frumos,
+Când cu toţi ne vom întâlni
+Sus la nunta lui Hristos.
+
+[order]
+s1,r1,s2,r1,s3,r1

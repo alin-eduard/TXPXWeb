@@ -1,0 +1,36 @@
+[s1]
+De cine să mă tem când
+Domnul e cu mine?
+Eu nu mă tem!
+De cine să mă tem când furtuna vine?
+Eu nu mă tem!
+
+[s2]
+Isus mi’e ajutor El e ocrotitor,
+M’ascultă când Îl chem,
+de’aceea nu mă tem!
+
+[s3]
+La cine să alerg când vin valuri?
+Doar la Dumnezeu!
+La cine să mă rog când am necazuri?
+Doar la Dumnezeu!
+
+[s4]
+Isus mi’e ajutor El e ocrotitor,
+Când valuri vin şi trec,
+doar la El alerg!
+
+[s5]
+Pe cine să Îl laud când e rău sau bine?
+Doar pe Dumnezeu!
+Pe cine să slăvesc în orice vreme?
+Doar pe Dumnezeu!
+
+[s6]
+Isus mi’e ajutor El e ocrotitor,
+Pe El Îl voi lăuda
+toată viaţa mea!
+
+[order]
+s1,s2,s3,s4,s5,s6

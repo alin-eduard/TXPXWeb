@@ -1,0 +1,84 @@
+[s1]
+2029
+1. Cu braț puternic din Egipt
+Poporul Meu te-am izbăvit
+Și jugul greu ce l-ai purtat
+Cu brațul Meu l-am sfărâmat
+Din grea robie te-am scăpat
+Puterea Mea ți-am arătat
+Când în Egipt am pedepsit
+Poporul ce te-a asuprit.
+
+[s2]
+2. Când către Mine ai strigat
+Din ceruri Eu te-am ascultat
+Și ți-am venit în ajutor
+Că ești al Meu iubit popor
+Marea Eu am despicat
+Pentru tine am luptat
+Pe Egipteni Eu i-am lovit
+Și marea i-a înghițit.
+
+[s3]
+3. Mereu te-am călăuzit
+De vrăjmași te-am izbăvit
+Mană din cer Eu ți-am dat
+Te-am hrănit, te-am îmbrăcat
+Eu prin pustie te-am purtat
+Și apă din stâncă ți-am dat
+Cu brațul Meu te-am ocrotit
+Și n-ai dus lipsă de nimic.
+
+[s4]
+4. Fii și fiice Eu ți-am dat
+Și te-am binecuvântat
+Ai crescut, te-ai înmulțit
+Că de Mine ești iubit
+De pe munte ți-am vorbit
+La Horeb te-am sfătuit
+Legea Mea să împlinești
+Pentru Mine să trăiești.
+
+[s5]
+5. Legea Mea te-am învățat
+Și porunci sfinte ți-am dat
+Să-ți sfințești viața ta
+Să poți face voia Mea
+Pe veci Eu vreau ca să-ți fiu Tată
+Și n-am să te las niciodată
+Dă-mi astăzi doar inima ta
+Căci vreau să locuiesc în ea.
+
+[s6]
+6. Căci nu sunt om
+Sunt Dumnezeu
+Și sfânt este Cuvântul Meu
+Din Duhul Sfânt Eu voi turna
+Ca să-ți umple inima ta
+N-am să te las cu nici un chip
+Că ești copilul Meu iubit
+Neîncetat Eu voi veghea
+Ca tu să faci doar voia Mea.
+
+[s7]
+7. Eu untdelemn sfânt voi turna
+Să-ți umple toată inima ta
+În lume tu vei lumina
+Și-n dragoste Mă vei urma
+Eu voi lua al Meu sfânt nume
+Și îl voi pune peste tine
+Și multă pace îți voi da
+Ca să-nțelegi dragostea Mea.
+
+[s8]
+8. Să nu mai privești spre Egipt
+Căci pentru tine am plătit
+Pe veci Eu te-am răscumpărat
+Prin legământ te-am înfiat
+În ceruri te voi strămuta
+Și-n veci tu te vei bucura
+Când îți voi șterge lacrima
+Ce-o să brăzdeze fața ta.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

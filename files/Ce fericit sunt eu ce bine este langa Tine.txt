@@ -1,0 +1,38 @@
+[s1]
+Ce fericit sunt eu,
+ce bine este lângă Tine
+Isus, Isuse drag,
+că mă primeşti dar şi pe mine!
+În suflet sânt bolnav,
+şi-s plin de multe fapte rele
+Te rog, Isuse scump,
+să faci ceva să scap de ele.
+
+[r1]
+De vrei să fii salvat
+De vrei în suflet să ai pace
+Primeşte-L pe Isus
+Să judeci ce e bine-a face !
+
+[s2]
+Am vrut să uit de tot
+şi să petrec în lumea asta
+Mă tem că voi muri
+şi că regretu-mi va fi partea.
+Simţesc adeseori,
+simţesc o tainică chemare
+Dar ca să înţeleg,
+pe cine să întreb eu oare?
+
+[s3]
+Într-adevăr, aş vrea să pot
+simţi o pace dulce
+Şi pentru linişte sunt gata
+orinde-a mă duce.
+Degeaba-i tot ce am,
+în suflet golul tot îmi creşte
+Nelinişte eu simt,
+ea nu îmi scade, ci-mi sporeşte.
+
+[order]
+s1,r1,s2,r1,s3,r1

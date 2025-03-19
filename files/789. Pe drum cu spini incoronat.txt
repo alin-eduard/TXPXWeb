@@ -1,0 +1,27 @@
+[s1]
+1. Pe drum cu spini încoronat
+Cu crucea-n spate nemâncat
+Isus azi trece iar.
+789.
+2. E cald şi crucea este grea
+Sudori se scurg din fruntea Sa
+Şi spinii-L dor amar.
+
+[s2]
+3. El în tăcere suie dealul
+El singur îşi goli paharul
+Ce dat i-a fost să bea.
+4. Priviţi-L cum se uită blând
+La cei ce îl hulesc scuipând
+În sfântă-i faţa Sa.
+
+[s3]
+5. Dar pentru cine a răbdat toate
+Gândeşte-te iubite frate
+Gândeşte-te cât eşti viu.
+6. Gândeşte-te că mâine poate
+Te va chema Dumnezeu frate
+Şi atunci va fi târziu.
+
+[order]
+s1,s2,s3

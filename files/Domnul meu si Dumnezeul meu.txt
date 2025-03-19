@@ -1,0 +1,45 @@
+[s1]
+Domnul meu şi Dumnezeul meu,
+În faţa Ta azi vin şi mă închin,
+Din cerul Tău, Te rog acum
+Cu îndurare să priveşti spre noi.
+Am vrea să-Ţi mulţumim că ne-ai creat
+Şi mântuire prin Isus ne-ai dat,
+De mici copii iubirea Ţi-am simţit,
+De-aceea vrem prin cânt să Te slăvim.
+
+[r1]
+Pentru iubirea Ta, pentru-ndurarea Ta,
+Pentru iertarea ce în viaţă ne-ai oferit,
+Pentru-ncercarea grea prin care ne formezi
+Pentru speranţa veşniciei vrem să Îţi mulţumim
+Să ştie ceru-ntreg şi universul tot
+Că Tu ne eşti Stăpân şi Tată şi-un prieten drag
+De-aceea Te rugăm, acum la acest altar,
+Dă-ne putere şi-nţelepciune, să ştim să-Ţi mulţumim.
+Dă-ne putere şi-nţelepciune să ştim să Te slujim!
+Dă-ne putere şi-nţelepciune să ştim să Te iubim.
+
+[s2]
+Domnul meu şi Dumnezeul meu,
+În faţa Ta azi vin şi mă închin,
+Din cerul Tău, Te rog acum
+Cu îndurare să priveşti spre noi.
+Am vrea să-Ţi mulţumim că ne-ai creat,
+Şi unul pentru altul ne doreşti,
+Ajută-ne ca voia-Ţi s-o-mplinim
+Şi prin al nostru cânt să-Ţi mulţumim.
+
+[s3]
+Părinte drag, aici suntem
+În faţa Ta şi-a cerului întreg,
+În faţa celor ce au dorit
+Şi la a noastră sărbătoare au venit
+Noi facem astăzi un sfânt legământ
+În dragostea-Ţi, uniţi, mereu să fim
+Cu Duhul Sfânt să ni-l pecetluieşti
+Şi viaţa-ntreagă, fericiţi,
+să-Ţi mulţumim.
+
+[order]
+s1,r1,s2,r1,s3,r1

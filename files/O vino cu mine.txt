@@ -1,0 +1,27 @@
+[s1]
+O, vino cu mine
+/:În casa sfântă:/ (3x)
+O vino cu mine în casa sfântă
+Unde e pace.
+Sol M
+
+[s2]
+Isus acolo-i Domn
+/:În casa sfântă:/ (3x)
+Isus acolo-i Domn în casa sfântă
+Unde e pace.
+
+[s3]
+Duh Sfânt e acolo
+/:În casa sfântă:/ (3x)
+Duh Sfânt e acolo în casa sfântă
+Unde e pace.
+
+[s4]
+Păcat nu-i acolo
+/:În casa sfântă:/ (3x)
+Păcat nu-i acolo în casa sfântă
+Unde e pace.
+
+[order]
+s1,s2,s3,s4

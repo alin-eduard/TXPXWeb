@@ -1,0 +1,43 @@
+[s1]
+1042.
+1.Doamne ce comoară scumpă
+Am aflat la Golgota
+Căci cu-al Tău sânge Isuse
+Mi-ai spălat viaţa mea.
+
+[s2]
+2.Nu pot ca să-Ţi uit iubirea
+Vocea blândă cu-al ei har
+Lacrimile şi durerea
+Când urcai sus la Calvar.
+
+[s3]
+3.Un pribeag ca toţi pribegii
+Eram eu nefericit
+Fără vreo speranţă-n lume
+Fără cerul mult dorit.
+
+[s4]
+4. Dar de când prin jertfa sfântă
+M-ai salvat Isus al meu
+Inima de dor îţi cântă
+Şi Te-aştept mereu, mereu.
+
+[s5]
+5.        Să mă duci la Tine-n slavă
+Împreună cu-ai mei fraţi
+Căci din patru zări ai lumii
+Vor fi Doamne adunaţi.
+
+[s6]
+6.            Ca o pasăre fugară
+Zilele se duc pe rând
+Şi mă uit privind spre ceruri
+Că mi-ai spus că vii curând.
+7.            Vino, vino mai de grabă
+Vino căci Te-aştept şi plâng
+Căci mi-i dor de Tine Mire
+La al meu piept ca să Te strâng.
+
+[order]
+s1,s2,s3,s4,s5,s6

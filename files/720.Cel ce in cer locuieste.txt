@@ -1,0 +1,79 @@
+[s1]
+1. Cel ce în cer locuieşte
+Pe pământu-ntreg priveşte
+/: La orice om şi a lui umblare
+Şi în inimă ce are :/
+2. Ca să vadă-n omenire
+Pe cei ce-s dezbrăcaţi de fire
+/: Şi au inima predată
+Domnului întreagă toată :/
+720.
+
+[s2]
+3. Privesc peste al Meu popor
+Ce îmi cere ajutor
+/: În lupta ce este mare
+Ca să le fiu Eu salvare :/
+4. Un Duh blând în voi s-aveţi
+Aceasta-i de mare preţ
+/: Sfinţii-n ţară e a Mea plăcere
+Lor le trimit mângâiere :/
+
+[s3]
+5. Cei ce mult se vor smeri
+Harul Meu îl vor primi
+/: De sunt vreodată întristaţi
+De Duhul Sfânt sunt mângâiaţi :/
+6. Toţi acei ce sunt smeriţi
+De lume-s dispreţuiţi
+/: Şi chiar de unii din popor
+E un lucru înjositor :/
+
+[s4]
+7. Dar Eu îi voi înălţa
+Şi la dreapta Mea vor sta
+/: Căci au mers pe-a Mea cărare
+Cuvântului Meu dând crezare :/
+8. Sunt Isus din Betleem
+Şi Eu mult vă tot îndemn
+/: Ca să luaţi crucea Mea
+Şi să nu iubiţi lumea :/
+
+[s5]
+9. Căci Eu am fost umilit
+Pe pământ când am venit
+/: Într-o iesle m-am născut
+Pildă Eu m-am dovedit :/
+10. Zile-ntregi am învăţat
+Multe nopţi Eu M-am rugat
+/: Deşi n-am avut păcat
+Rugăciunea n-a-ncetat :/
+
+[s6]
+11. Deşi am fost nevinovat
+Chinuri grele am răbdat
+/: Şi cu cuie pironit
+Pe o cruce răstignit :/
+12. Grea a fost a Mea durere
+Fără nici o mângâiere
+/: Toate Eu le-am suferit
+Pentru voi că v-am iubit :/
+
+[s7]
+13. Când sunteţi voi prigoniţi
+Aveţi răbdare suferiţi
+/: Căci toate se vor sfârşi
+Ce-am promis voi veţi primi :/
+14. Timpul este cel din urmă
+E durere-n a mea turmă
+/: Mulţi nu merg pe-a Mea cărare
+În smerenie şi răbdare :/
+
+[s8]
+15. Dar când timpul s-a-mplini
+Şi pe ai Mei îi voi răpi
+/: Durerea se va simţi
+Dar atunci târziu va fi :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

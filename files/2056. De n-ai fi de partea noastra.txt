@@ -1,0 +1,33 @@
+[s1]
+2056 fa m
+1. De n-ai fi de partea noastră
+Preaiubitul nost` Isus
+Când strigăm spre bolta albastră
+Când necazul ne-a răpus
+/: N-am putea trece-ncercarea
+Și ușor ne-am clătina
+N-am putea trăi răbdarea
+Și nici nu Te-am lăuda :/
+
+[s2]
+2. Dar Tu ești mereu acolo
+Unde cinste Ți se dă
+Te prezinți cu braț puternic
+Și spui oricând : ”Iată-Mă,,
+/: Când din slăvile divine
+Între noi Te proslăvești
+Se sfârșesc orice suspine
+Și orice răni tămăduiești :/
+
+[s3]
+3. Tu nu dai peste măsură
+Ci doar cât putem răbda
+Căci vrei aur fără zgură
+Vrednici de chemarea Ta
+/: Și-n cuptor de suferință
+Și-n noian de încercări
+Ne crești Doamne în credință
+Ca să-Ți fim ai Tăi străjeri :/
+
+[order]
+s1,s2,s3

@@ -1,0 +1,39 @@
+[s1]
+1445.   Sol
+Eu sunt calea a spus Domnul Isus
+Eu sunt calea care duce sus
+Să păşiţi cu-ncredere pe ea
+Chiar dacă adesea va fi grea
+Cor     /:Nu sunt numai flori pe cale
+Sunt şi lacrime amare
+Treci adesea şi prin încercări
+Ca s-ajungi la biruinţă
+Treci ades prin suferinţă
+Numai încercat ajungi în cer:/
+
+[s2]
+Pe această cale nu-s plăceri
+Nu e largă însă duce-n cer
+Piedici sunt adesea ori pe ea
+Dar ea duce în patria Sa.
+Cor     /:Nu sunt numai flori pe cale
+Sunt şi lacrime amare
+Treci adesea şi prin încercări
+Ca s-ajungi la biruinţă
+Treci ades prin suferinţă
+Numai încercat ajungi în cer:/
+
+[s3]
+Mai avem puţin crucea de dus
+Dar la capăt ne aşteaptă Isus
+S-a dus ca să pregătească-n cer
+Loc să fim de-a pururea cu El.
+Cor     /:  Ce frumos va fi odată
+Sus în slava minunată
+Cu Isus Mirele nost’ iubit
+Vom uita de plâns şi jale
+Şi de lacrimile amare
+Când vom fi cu El în infinit :\
+
+[order]
+s1,s2,s3

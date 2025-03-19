@@ -1,0 +1,32 @@
+[s1]
+Tu esti Creatorul
+Universului întreg,
+Tu esti început
+Si întregire tuturor
+Stelele si luna
+Glasul Tău îl înteleg
+Marea si pământul,
+Tot ce are viata
+Îti dedică existenta lor.
+
+[r1]
+/: Toate le-ai creat
+Pe toate Mâna Ta le tine,
+Toate spun că Tu esti Dumnezeu.
+Ai trimis suflarea Ta
+Si viată peste mine,
+Si mai mult de tot ce esti
+Tu esti Tatăl meu. :/
+
+[s2]
+Împărat al Slavei
+Tu luminii esti stăpân,
+Îngerii te laudă si ostirile ceresti.
+Vin cu bucurie
+Viata mea să Ti-o închin
+Vreau să-Ti simt prezenta,
+Să-Ti ascult Cuvântul
+Să te-aud soptind că mă iubesti.
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,26 @@
+[s1]
+In noaptea sfanta lin coboara
+Ingeri mii ce spun duios
+/: Crestine azi e sarbatoare
+S-a nascut Mesia :/
+
+[s2]
+Prunc preasfant venit din ceruri
+Atat de mult Tu Te-ai smerit
+/: In Betleem, in ieslea rece
+In paie jos noi Te-am primit :/
+
+[s3]
+Magi si Pastori si mii de ingeri
+Toti Te-au laudat, daruri Ti-au dat
+/: Si noi am vrea sa iti aduncem
+Ce-avem mai scump si mai curat :/
+
+[s4]
+Aur, smirna sau tamaie,
+Noi nu avem sa iti aducem
+/: Dar tot ce-avem chiar inima
+In dar o dam lui Mesia :/
+
+[order]
+s1,s2,s3,s4

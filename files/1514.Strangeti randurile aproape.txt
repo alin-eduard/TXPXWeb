@@ -1,0 +1,53 @@
+[s1]
+1514.
+1. Strângeţi rândurile aproape
+Vremea este pe sfârşit
+În curând se face noapte
+Secerişu-i pe sfârşit
+/:Unii astăzi nu veghează
+Cei ce am pus ca să vegheaţi
+Când vă veţi trezi pe cale
+Pentru Mine să lucraţi :/
+
+[s2]
+2. În curând o vijelie
+Va veni peste pământ
+Să aleagă pentru Mine
+Pe cei ce suferă şi plâng
+/: Cei ce aşteaptă zi şi noapte
+Să apar curând pe nori
+Şi s-au săturat de viaţă
+De necazuri şi dureri :/
+
+[s3]
+3. Cei ce vreau a mea viaţă
+Nu mai zăbovească azi
+Vino iată sunt aproape
+Să-ţi dau ajutorul Meu
+/: Nu te mai opri la oameni
+Nu mai asculta de ei
+Prinde-mă de mână bine
+Ca să nu rămâi aici :/
+
+[s4]
+4. Să trăieşti mai mult lumina
+Care-n multe părţi s-a stins
+Ridicaţi mai sus făclia
+Între cei ce-au obosit
+/: Nu-ţi întoarce azi privirea
+Înapoi în urma ta
+Nu mai răni păcat sau moarte
+Astea-n urmă vei vedea :/
+
+[s5]
+5. Să luaţi cu voi cuvântul
+Dragostea cu care Eu
+V-am chemat purtând de grijă
+De la început mereu
+/: Va veni o zi când lupta
+Va-nceta pentru vecie
+Nu va fi pământ nici cerul
+Tu să fii atunci cu mine :/
+
+[order]
+s1,s2,s3,s4,s5

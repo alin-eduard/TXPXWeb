@@ -1,0 +1,22 @@
+[s1]
+/: Şi vântul şopteşte şi norii zâmbesc
+Si zarea luceşte şi razele cresc
+Si frunzele cântă şi zorii doresc
+Si noaptea suspină Isus te iubesc
+Si inima-n mine suspină spre Tine :/
+
+[s2]
+Isus te iubesc şi iarăşi grădina
+Se uscă de jar şi inima arde
+de singură iar
+Si umbra-mi rămâne lipită de zid
+Si uşa iar singur Isus mi-o deschid
+
+[s3]
+Coboară-mi lumină din zorii târzii
+Deschide-Ti spre mine cărări aurii
+Să-mi umple cuprinsul cereşti simfonii
+E ceasul e clipa - Isuse - să vii
+
+[order]
+s1,s2,s3

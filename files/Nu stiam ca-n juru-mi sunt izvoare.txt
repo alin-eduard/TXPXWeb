@@ -1,0 +1,32 @@
+[s1]
+Nu ştiam că-n juru-mi sânt izvoare
+Nu ştiam de oaza din pustiu.
+/: Aşteptam să vină corbii-n zare
+Aşteptam sfârşitul meu târziu. :/
+
+[s2]
+Mi-am plimbat privirea peste dune
+Şi-am văzut pustiul gol şi sterp
+/: Am simţit fiorul morţii-n mine
+Tot mai mult mă apăsa în piept. :/
+
+[s3]
+Chinuit de arşiţa toridă,
+Copleşit de-al morţii evantai
+/: M-am trezit la vocea Ta cea blândă
+Tocmai Tu, o, tocmai Tu erai. :/
+
+[s4]
+N-am stiut, Isuse, ca din Tine,
+Curg izvoare limpezi de cristal
+/: N-am ştiut că setea arsă-n mine
+Numai Tu ai stins-o cu-al Tău dar. :/
+
+[s5]
+Dacă vrei şi tu, amice dragă,
+Focul inimii din piept să-l stingi
+/: El îţi vindecă fiinţa-ntregă
+Vin’ la El, la pieptu-I drag să plângi:/
+
+[order]
+s1,s2,s3,s4,s5

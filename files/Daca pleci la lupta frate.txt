@@ -1,0 +1,48 @@
+[s1]
+Dacă pleci la luptă frate
+Uita-te pe scutul tau
+Vezi pe el daca mai este
+Numele lui Dumnezeu
+/: Ca in ziua bataliei
+Sa nu fi asa de slab
+Sa nu fii ucis in lupta
+Cum a fost ucis Ahab. :/
+
+[r1]
+/: Pe muntii din Ghilboua
+Doamne fa sa cada roua
+Si pe scuturile noastre
+Tu mai toarna undelemn :/
+
+[s2]
+Daca pleci la lupta frate
+vezi de mai esti imbracat
+Cu putere si credinta
+Sa-l invingi pe Goliat
+/: Si un steag de biruinta
+Sa inalti cand ti-e mai greu
+Sa te bizuii totdeauna
+Pe numele lui Dumnezeu:/
+
+[s3]
+Cand adesea filistenii
+Biruiau pe Israel
+Erau dusi toti in robie
+Si vedeau cat e de greu
+/: Ionatan din greu se lupta
+Insa oare ce folos
+Poti sa pieri la fel ca Saul
+Daca nu-l ai pe Hristos. :/
+
+[s4]
+Dacă pleci la luptă frate
+Uita-te pe scutul tau
+Vezi pe el daca mai este
+Numele lui Dumnezeu
+/: Sa-l ai pe Isus sa-ti fie
+Totdeauna ajutor
+Caci El a murit pe cruce
+Si-a-nviat biruitor :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

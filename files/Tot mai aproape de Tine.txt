@@ -1,0 +1,26 @@
+[s1]
+Tot mai aproape de Tine
+Doamne, condu-mă mereu
+Că de eşti Tu lîngă mine
+Trec fericit orice greu.
+
+[s2]
+Tot mai aproape de Tine
+Tot mai aproape mereu
+Că de eşti Tu lîngă mine
+Pacea e-n sufletul meu.
+
+[s3]
+Tot mai aproape de Tine
+Doamne, doresc să rămîn.
+De trec prin rău sau prin bine
+Tu eşti a toate Stăpîn.
+
+[s4]
+Tot mai aproape de Tine
+Cîntul meu fie de-acum
+Vreau să vestesc la oricine
+Cum m-ai găsit la un drum.
+
+[order]
+s1,s2,s3,s4

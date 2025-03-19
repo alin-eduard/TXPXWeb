@@ -1,0 +1,31 @@
+[s1]
+Doamne când vreau să fac bine
+Răul stă lipit de mine
+De multe ori
+Ce nu vreau tocmai fac
+Mult mă doare
+Când nu-ti sunt pe plac.
+Mi m
+
+[r1]
+Doamne te rog înc-odată iartă-mă
+Si dă-mi din nou bucurie în inimă
+Dă-mi Tu putere să nu mai gresesc
+Fără prihană să trăiesc.
+
+[s2]
+Doamne doar Tu stii prea bine
+Ce-i mai de pret pentru mine
+Vreau să m-apropii
+de Tine mai mult
+Să-Ti slujesc doar Tie pe pământ.
+
+[s3]
+Doamne te rog mă-nvată
+Să traiesc frumos în viată
+Chiar la vrajmasi să pot bine să fac
+Vreau Isuse scump
+Să-Ti fiu pe plac.
+
+[order]
+s1,r1,s2,s3,r1

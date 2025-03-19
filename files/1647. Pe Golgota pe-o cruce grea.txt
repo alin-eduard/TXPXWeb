@@ -1,0 +1,45 @@
+[s1]
+1647.
+1. Pe Golgota pe-o cruce grea,
+A stat un om fără de vină.
+/: Şiroaie sângele-i curgea,
+Şi-atâta jale se citea
+Pe faţa Lui senină. :/
+
+[s2]
+2. Pe lemnul crucii atârnat,
+Cu părul smuls de mâini barbare
+/: Grozave chinuri a răbdat,
+Şi nimeni nu L-a mângâiat
+În patimile amare. :/
+
+[s3]
+3. Şi nimeni nu i-a scos un spin,
+Din fruntea Lui însângerată,
+/: El singur suspină străin,
+În ceasul greu şi plin de chin
+Pe-o cruce-nsângerată :/
+
+[s4]
+4. Sfârşi sub greul cât a dus
+Şi-a suferit acolo sus,
+/: De jalea celor ce s-au dus,
+Pribegind fără de Isus
+Pe-a lumii căi deşarte. :/
+
+[s5]
+5. Tu, omule ce treci fugar,
+Prin lumea asta de păcate,
+/: Ridică-ţi ochii spre Calvar,
+La Cel ce-a suferit amar,
+Necazurile toate!:/
+
+[s6]
+6. Căci Cel ce-atunci a fost scuipat
+Şi răstignit fără de vină,
+/: În locul tău a sângerat,
+Crezând în El vei fi-nălţat
+În ţara de lumină!:/
+
+[order]
+s1,s2,s3,s4,s5,s6

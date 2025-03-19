@@ -1,0 +1,39 @@
+[s1]
+410.
+1.Veniţi la adunare,
+O, fraţilor iubiţi
+Cu suflete pline
+De dragoste veniţi.
+
+[s2]
+2.Nimic nu vă oprească
+De-a alerga mereu
+Acolo unde-s doi
+Domnul a zis că sunt şi Eu.
+
+[s3]
+3.Veniţi acolo
+Unde copii Lui se strâng
+Şi-n jurul jertfei sale
+Se bucură şi plâng.
+
+[s4]
+4.Veniţi unde răsună
+Cuvântul Lui cel sfânt
+Căci nici un loc mai dulce
+Nu e pe-acest pământ.
+
+[s5]
+5.În Domnul să ne strângem,
+De El să ne-alipim
+Şi din cuvântu-i dulce
+Mereu să ne zidim.
+
+[s6]
+6.În jurul jertfei Sale
+Să ne-adunăm mereu
+Şi să-l slăvim de-a pururi
+Pe Domnul Dumnezeu.
+
+[order]
+s1,s2,s3,s4,s5,s6

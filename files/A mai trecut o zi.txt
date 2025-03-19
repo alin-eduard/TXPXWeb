@@ -1,0 +1,36 @@
+[s1]
+Te zbaţi într-una-n
+Viaţa asta frate dragă,
+Dar nu uita
+Că toate-s trecătoare.
+Ai azi prilejul
+Să Îi dai Lui inima
+Şi nu lăsa să treacă viaţa ta.
+
+[r1]
+/: Căci a trecut o zi, a trecut un an
+Te-ai gândit măcar o dată
+Ce ţi-a mai rămas din viaţă?
+A trecut o zi, a trecut un ceas
+Te-ai gândit măcar o dată
+Ce ţi-a mai rămas? :/
+
+[s2]
+Să nu te-ntorci 'napoi
+Din drumul care l-ai ales
+Ci să păşeşti încrezător pe cale.
+Căci Domnul îţi vorbeşte
+Astăzi în al Său Cuvânt
+Să-ţi aminteşti de noul legământ.
+
+[s3]
+Deci să ne punem azi
+Cu toţii întrebarea
+De am lucrat pentru Isus
+Pe acest pământ.
+De am păzit cu adevărat
+Cuvântul păcii
+Ce ne va duce-n ceruri sus.
+
+[order]
+s1,r1,s2,r1,s3,r1

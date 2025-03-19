@@ -1,0 +1,30 @@
+[s1]
+/: Cânt despre Isus ceva m-atinge :/
+E mâna bună a Lui
+Glorii, glorii, glorii
+El mă atinge
+Cu mâna bună a Lui.
+
+[s2]
+/: Mă rog lui Isus, El îmi răspunde :/
+Cu mâna bună a Lui
+Glorii, glorii, glorii
+El mă atinge
+Cu mâna bună a Lui.
+
+[s3]
+/: Suspin adesea, El mă mângăie, :/
+Cu mâna bună a Lui
+Glorii, glorii, glorii
+El mă atinge
+Cu mâna bună a Lui.
+
+[s4]
+/:Spun despre Isus, ceva mă-mpinge:/
+E mâna bună a Lui
+Glorii, glorii, glorii
+El mă atinge
+Cu mâna bună a Lui.
+
+[order]
+s1,s2,s3,s4

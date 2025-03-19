@@ -1,0 +1,43 @@
+[s1]
+Vreau sa iubesc pe fraţii mei
+Cu tot ce am în piept mai sfânt.
+Vreau să doresc tot ceru-n ei,
+Dar să-i iubesc, dar să-i iubesc.
+Aşa cum sunt, aşa cum sunt.
+
+[r1]
+Vreau să iubesc pe fraţii mei
+Cu care veşnic în lumina voi fi sus;
+/:Văzându-L pe Isus în ei,
+Să-L simt cu-adevărat în mine pe Isus!:/
+
+[s2]
+Vreau deopotrivă să adun
+Şi rodu-ntreg, şi spicul frânt,
+Căci şi Isus mă vrea mai bun,
+Dar mă iubeşte, mă iubeşte
+Aşa cum sunt, aşa cum sunt.
+
+[s3]
+Când fraţii mei au răni ce dor,
+Să-mi fie braţul mai sfios,
+Să nu apăs în rana lor,
+Căci nu eu vindec, nu eu vindec,
+Ci Hristos, Isus Hristos.
+
+[s4]
+Noi prin Isus am fost iertaţi
+Ca sa iertam, şi noi oricui;
+Dar daca nu iubim pe fraţi,
+N-avem în noi, n-avem în noi
+Iertarea Lui, Iertarea Lui.
+
+[s5]
+Şi daca azi umblăm stingher
+Şi nu avem un singur grai,
+Vom fi aşa şi sus în cer,
+Va fi un iad, va fi un iad
+Si nu un rai, si nu un rai.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

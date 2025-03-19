@@ -1,0 +1,32 @@
+[r1]
+/: Vino şi-n casa mea,
+Vino şi-n casa mea,
+Vino şi-n casa mea,
+Când furtuna este grea. :/
+
+[s1]
+Şi când spinii greu mă-mpung,
+Şi n-am unde să m-ascund,
+Când povara-i foarte grea,
+Vino Tu şi-n casa mea.
+
+[s2]
+Vânturile reci când bat,
+Peste ogorul cu răsad,
+Ca să-l rupă tot ar vrea,
+Vino Tu şi-n casa mea.
+
+[s3]
+Un val cheamă un alt val,
+Peste-al inimii hotar,
+Să mă-ntoarcă tot ar vrea,
+Vino Tu şi-n casa mea.
+
+[s4]
+Zi doar numai un cuvânt,
+Şi atunci tot ce-i sfânt,
+Capul sus işi va ţinea,
+Şi rămâi în casa mea.
+
+[order]
+r1,s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,53 @@
+[s1]
+2250
+1. Te-ascunzi în florile câmpiei
+Parfumul lor Te dovedește
+Tu ești splendoarea veșniciei Și ea în veci Îți dăinuiește.
+
+[s2]
+/:Te-ascunzi în ciripit de păsări
+Prin trilurile nesfârșite
+Nu-s simfonii, nici oratorii
+Cu armonii așa de sfinte :/.
+
+[s3]
+2. Te-ascunzi în adierea verii
+Când freamătă frunza-n răcoare
+În taină și-n susurul serii
+Te-ascunzi în murmur de izvoare
+
+[s4]
+/: Tu ești în liniștea adâncă
+Ce-n codrii-ntunecoși domnește
+Tu ești în tablele din stâncă
+În glasul vântului ce crește :/.
+
+[s5]
+3. Te-ascunzi în vijelii și-n ploaie În soarele ce-apoi surâde
+Te-ascunzi în plânset de pâraie
+În gângurit de prunc când râde.
+
+[s6]
+/: Tu ești în fulgii de zăpadă În viscolul ce răbufnește
+În norii ce seninul pradă
+În tunetul ce răscolește :/.
+
+[s7]
+4. Te-ascunzi, dar nu
+Te pot cuprinde
+Nici cerul, cerurile-ntinse
+Dar totuși Tu nemărginire
+Ești și în inimi sfânt aprinse.
+
+[s8]
+Vedem doar urmele-ți divine
+Din cari’ răsari blând, maiestos
+Speranță, viață, zări senine
+Căci Tu ești tot ce-i mai frumos.
+Noi Te-om vedea sus în mărire
+Dar nu cum ne-am închipuit
+Tu ești dincolo de gândire
+O, Doamne, fi în veci slăvit!
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

@@ -1,0 +1,39 @@
+[s1]
+Glasul Tău, Doamne,
+se aude curat din depărtări.
+Chemarea-Ţi sfântă ne îndeamnă să fim ascultători.
+Lasă dragoste, pace în inima mea
+Lasă har şi nădejde-n Isus!
+<Vin la Mine !>
+se aude vocea Ta murmurând
+<Căci în Mine găsi-vei adăpost.>
+
+[s2]
+Şi pentru neamuri,
+sângele pe lemnul crucii a curs
+Nespuse valuri încercat-au puterea-Ţi fără apus.
+Îndurarea şi pacea din inima Ta
+Revărsat-ai peste ai Tăi copii.
+Mântuirea în dar pregătită e sus
+Doar credinţă s-avem în Isus.
+
+[s3]
+Rămâi cu mine viaţa mea
+şi paşii mei să-i luminezi
+Laudă Ţie, căci în milă
+şi-ndurare, Doamne, lucrezi!
+Lasă dragoste, pace în inima mea
+Lasă har şi nădejde-n Isus!
+
+[s4]
+<Vin la Mine !>
+se aude vocea Ta murmurând
+<Căci în Mine găsi-vei adăpost !>
+Îndurare şi pace din inima Ta
+Revărsat-ai peste ai Tăi copii
+Mântuirea în dar pregătită e sus
+Doar credinţă s-avem
+în Dumnezeu.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,44 @@
+[s1]
+În veci Scriptura Sfântă
+eu nu voi părăsi
+În ea găsesc eu pacea
+şi numai bucurii
+
+[r1]
+Nicidecum, nicidecum,
+nu las eu Scriptura Sfântă
+Nicidecum, nicidecum,
+Cartea Domnului Preasfânt!
+
+[s2]
+În ea-ntâlnesc iubirea
+Părintelui ceresc
+În Isus, Salvatorul,
+Mielul dumnezeiesc
+
+[s3]
+Când am ispite grele
+şi sufletul mi-e trist
+Alerg la ea într-una
+le-nving toate prin Hristos
+
+[s4]
+Nicidecum, nicidecum,
+nu las eu Scriptura Sfăntă
+Nicidecum, nicidecum,
+Cartea Domnului Preasfânt!
+
+[s5]
+Când pierd a mea cărare
+de lume înşelat
+La Isus ea mă-ndreaptă
+şi iarăşi sunt salvat
+
+[s6]
+Ea e a mea lumină,
+dreptate, adevăr,
+Ca ea nu e nici una
+în lumea de dureri.
+
+[order]
+s1,r1,s2,r1,s3,s4,s5,r1,s6,r1

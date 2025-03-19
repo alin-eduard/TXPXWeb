@@ -1,0 +1,27 @@
+[s1]
+1378.
+1.  Un suflet Te cheamă să vii o  Isuse
+Un suflet în noapte aşteaptă mereu
+/ În grea încercare să-i dai alinare
+Se-ncrede în Tine că eşti Dumnezeu.
+
+[s2]
+2.  Un suflet se roagă să vii o Isuse
+Suspină şi plânge în ceasuri târzii
+/:În grea strâmtorare să-i dai vindecare
+Te-aşteaptă-n durere Isuse să vii. /
+
+[s3]
+3.  A lui rugăciune nu se mai opreşte
+Chiar dacă-i furtuna şi norii sunt grei
+/ El are credinţă că-i dai biruinţă
+O, vino, Isuse, povara să iei. /
+
+[s4]
+4.  Şi chiar dacă-ntârzii să-i dai ajutorul
+Cu toată credinţa se roagă mereu
+/ Spre ceruri priveşte şi nădăjduieşte
+Că-i dai izbăvire, o, sfânt Dumnezeu. /
+
+[order]
+s1,s2,s3,s4

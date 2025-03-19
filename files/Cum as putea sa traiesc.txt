@@ -1,0 +1,37 @@
+[s1]
+Stau şi mă-ntreb uneori
+Câtă dragoste ai avut
+Să vii şi să mori,
+Răstignit pentru mine,
+Pe Cruce,Tu Isus.
+
+[r1]
+Mă-ntreb cum aş putea
+Să trăiesc fără Tine
+Când mi-ai făcut
+Atât de mult bine
+Când ai lasat frumuseţea din Cer
+Să fiu liber acum.
+
+[r2]
+Sunt fericit şi Te laud mereu
+Că sunt liber pe veci
+Căci Tu m-ai iertat
+Şi m-ai primit lângă Tine,
+În Cer, pe veci.
+
+[s2]
+Tot ce n-am loc şi pierdut
+Şi  fără sperantă, lovit
+Ştiam că nu pot să exist
+Doar o singură clipă, rătăcit.
+
+[s3]
+Vine cel rău deseori
+Ca să lupte cu mine,
+Mă rog să fii lângă mine
+Să mă ţin strâns de Tine
+Mai mult, tot mai mult.
+
+[order]
+s1,r1,r2,s2,r1,r2,s3,r1,r2

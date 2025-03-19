@@ -1,0 +1,33 @@
+[s1]
+Am gasit o floare rupta,
+Fir de alb margaritar,
+Si l-am dus la mine-acasa
+Ca sa-l pun intr-un pahar.
+Mi-am lipit de el obrazul
+In suspinul de parfum:
+„Firicel de floare rupta,
+Cine te-a 'zvarlit in drum?"
+Do M
+
+[s2]
+Am gasit o floare rupta,
+Fir strivit si singurel,
+Si am inteles degraba
+Ca si eu am fost ca el.
+Ca si eu plangeam in tina,
+Fir de margarit rapus...
+Dar atunci, din calea lumii,
+M-a luat cu El, Isus.
+
+[s3]
+Am gasit o floare rupta,
+Si-s atat de fericit
+Ca nu-i nici un fir de floare
+Nestiut si negasit...
+Nici o floare, nici un suflet
+Nu se pierde pe vreun plai
+Caci Isus pe toti ne afla
+Si ne ia cu El in rai.
+
+[order]
+s1,s2,s3

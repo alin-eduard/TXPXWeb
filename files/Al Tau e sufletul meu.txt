@@ -1,0 +1,19 @@
+[s1]
+Al Tău e sufletul meu
+A Ta e inima mea
+Nimic nu-mi mai aparţine
+Şi-Ţi mulţumesc
+Căci Tu mai primit aşa cum sunt
+
+[s2]
+Acum trăiesc pentru Tine
+Şi sunt împlinit
+Doar Tu mă umpli de viaţă
+Mă faci fericit, Domnul meu..
+
+[s3]
+Aleluia, aleluia
+Tu eşti Domnul meu.
+
+[order]
+s1,s2,s3

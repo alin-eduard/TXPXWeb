@@ -1,0 +1,32 @@
+[s1]
+Dumnezeu este-adapost si sprijin
+Un ajutor ce nu lipseste
+Niciodata-n nevoi
+El este locul meu de scapare
+Si cetatuia mea, in care ma incred
+
+[r1]
+/: Esti cu mine mereu,
+Esti cu mine mereu
+Orice ar veni,
+Pe bratul Tau voi fi
+Esti cu mine mereu :/
+
+[s2]
+"Fiindca ma iubeste” zice Domnul
+Voi fi cu el in stramtorare,
+Îl voi izbavi
+Cand ma va chema,
+Îi voi raspunde
+Sunt Emanuel,
+Eu sunt Dumnezeu
+
+[s3]
+O mie sa cada alaturi de tine
+Si zece mii la dreapta ta
+Doar vei privi cu ochii
+Rasplatirea celor rai
+Dar de tine nu se va apropia
+
+[order]
+s1,r1,s2,r1,s3,r1

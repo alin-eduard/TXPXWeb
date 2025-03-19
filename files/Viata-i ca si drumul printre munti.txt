@@ -1,0 +1,68 @@
+[s1]
+Viaţa-i ca şi drumul printre munţi,
+iar Isus conducător.
+Dacă vrei să-nvingi tot greul
+şi să-I fii ascultător
+Printre dealuri şi coline
+curajul să nu ţi-l pierzi !
+Trece-vei uşor cu bine
+numai dacă priveghezi.
+
+[r1]
+/: Isus e conducător
+Pîn, ajungem în cer sus
+Unde toţi îngerii-n cor
+Cîntă slavă lui Isus. :/
+
+[s2]
+Încercări pe-această cale
+şi necazuri de-ar veni
+În Isus avem scăpare
+orişiunde noi vom fi.
+Fii dar treaz întotdeauna,
+datoria să-mplineşti
+În cîntări şi osanale
+către Isus să priveşti
+
+[s3]
+Cînd ajunge-voi
+în plaiul nesfîrşitei bucurii
+Cînd vedea-voi tot alaiul
+plin de slavă, cum va fi ?
+Va chema Isus pe nume,
+El, cu glasul Lui iubit :
+<Vino tu la dreapta Mea,
+tu, călător ostenit !>
+
+[s4]
+Peste văi prăpăstioase,
+poduri lungi voi traversa
+Dar Isus stă şi păzeşte
+calea care-i viaţa ta.
+Fii atent la avalanşe,
+datoria s-o-mplineşti !
+Ţine mîna strîns pe frînă,
+drumul vezi să nu-l greşeşti !
+
+[s5]
+Iar cînd linia-i blocată,
+vînturi şi furtuni se-abat
+La semnal sau într-o gară,
+trenul ţi-e ameninţat.
+Te încrede doar în Domnul,
+curajos călătoreşti !
+Ţine mîna strîns pe frînă,
+drumul vezi să nu-l greşeşti !
+
+[s6]
+Cînd cu bine-ajungi la maluri,
+şi-apoi treci peste Iordan
+Vezi o gară-mpodobită,
+e cerescul Canaan.
+Aici trenul se opreşte,
+tu cobori, eşti fericit
+Domnul Isus îţi vorbeş:
+<Călător, bine-ai venit !>
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

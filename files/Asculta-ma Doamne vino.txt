@@ -1,0 +1,19 @@
+[s1]
+Ascultă-mă Doamne
+Vino la ruga mea
+De la capătul lumii
+Strig către Tine
+
+[r1]
+Când inima mi-e mâhnită
+Du-mă pe stânca
+Ce-i prea înaltă
+Ce-i prea înaltă
+
+[s2]
+Căci Tu esti un adăpost
+Pentru mine turn înalt
+Doamne împotriva duşmanului
+
+[order]
+s1,r1,s2,r1

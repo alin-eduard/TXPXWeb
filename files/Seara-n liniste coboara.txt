@@ -1,0 +1,30 @@
+[s1]
+Seara-n linişte coboară,
+Ziua-n linişte-o sfârşim;
+La un loc cu toţii iară,
+Sfinte Tată-Ţi mulţumim.
+
+[r1]
+/: Mulţumim, mulţumim
+Sfinte Tată-Ţi mulţumim! :/
+
+[s2]
+Tu ne-ai dat puterea toată
+Munca noastră s-o-mplinim,
+Pentru mila Ta bogată,
+Sfinte Tată-Ţi mulţumim.
+
+[s3]
+Ai făcut cu-ndestulare
+Pâinea zilei s-o primim,
+Pentru grija-Ţi iubitoare
+Sfinte Tată-Ţi mulţumim.
+
+[s4]
+Somn cu pace, noapte bună,
+De la Tine noi dorim
+Şi-ncă-odată împreună
+Sfinte Tată-Ţi mulţumim.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

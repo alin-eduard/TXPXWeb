@@ -1,0 +1,17 @@
+[s1]
+86.
+1. O, Isus al /: meu iubit :/
+Mult pe lume /: am greşit :/.
+2. Până nu Te-am /: cunoscut :/
+Numai rele am /: făcut :/.
+3. Dar acuma /: vreau şi eu :/
+Să fiu cum vrea /: Dumnezeu :/.
+
+[s2]
+4. Trecutul meu /: păcătos :/
+Spală tot /: păcatul meu :/.
+5. Şi de-acum /:nu mă lăsa:/
+Să mai ies din /: voia Ta :/.
+
+[order]
+s1,s2

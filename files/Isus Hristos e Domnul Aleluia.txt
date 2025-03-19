@@ -1,0 +1,20 @@
+[s1]
+/:Isus Hristos e Domnul, Aleluia!:/ x4
+/: El e Mântuitorul, Aleluia:/ x4
+/: Isus Hristos e pacea, Aleluia! :/ x4
+/: Isus este iubirea, Aleluia! :/ x4
+
+[s2]
+/: El vindecă bolnavii, Aleluia ! :/ x4
+/:În Duhul Sfânt ne-om bucura, Aleluia!:/ x4
+/: Vom răspândi iubirea Sa, Aleluia! :/ x4
+/: Spre slava Lui noi vom cânta, Aleluia!:/ x4
+
+[s3]
+/: Isus e biruinţa, Aleluia! :/ x4
+/:Spre cer El ne conduce, Aleluia!:/x4
+/: Isus scoate demonii, Aleluia! :/ x4
+/: El binecuvântează, Aleluia! :/ x4
+
+[order]
+s1,s2,s3

@@ -1,0 +1,35 @@
+[s1]
+1
+Eu am pornit fericit pe cărare
+Cu Isus, bunul meu salvator.
+Deşi spinos, deseori drumul pare,
+Eu mă prind de Isus stăruitor.
+Braţul Său minunat mă conduce
+Zi de zi în încercări de orice fel.
+Harul Său minunat mă va duce,
+Prin credinţă, s-ajung sus în cer.
+
+[s2]
+2
+Eu am lăsat zdrobitoarea-mi povară
+Lui Isus şi-am luat-o pe-a Sa.
+Sunt fericit că-i aşa de uşoară.
+Voi purta-o pe Pământ cât voi sta.
+Braţul Său minunat mă conduce
+Zi de zi în încercări de orice fel.
+Harul Său minunat mă va duce,
+Prin credinţă, s-ajung sus în cer.
+
+[s3]
+3
+Lângă Isus am aflat fericirea.
+Sunt voios şi-L slăvesc ne-ncetat.
+Prin harul Său, voi primi nemurirea,
+Când intra-voi pe porţi de smarald.
+Braţul Său minunat mă conduce
+Zi de zi în încercări de orice fel.
+Harul Său minunat mă va duce,
+Prin credinţă, s-ajung sus în cer.
+
+[order]
+s1,s2,s3

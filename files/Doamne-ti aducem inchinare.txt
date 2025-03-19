@@ -1,0 +1,25 @@
+[s1]
+Doamne-ţi aducem închinare
+Dumnezeu puternic si sfânt
+Ţi-aducem slavă şi onoare
+Căci tu ai spus:
+Eu sunt acel ce sunt!
+la
+
+[r1]
+Numele Tău e minunat
+Numele Tău e-adevarat
+Numele Tău e tot ce se poate spune
+Numele Tău e minunat
+Numele Tău e adevarat
+Numele Tău e mai presus de orce nume
+Numele Tău
+
+[s2]
+În faţa Ta se pleacă toate
+Pământul şi cerul sublim
+Venim şi noi cu inimile noastre
+Să te preamărim, să-Ţi mulţumim.
+
+[order]
+s1,r1,s2,r1

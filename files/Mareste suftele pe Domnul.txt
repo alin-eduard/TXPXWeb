@@ -1,0 +1,27 @@
+[s1]
+Măreşte suflete-al
+Meu pe Domnul!
+Voiesc să-L măresc cât voi trăi
+Până când moartea
+Mi-aduce somnul
+Pe Domnu-ntr-una Îl voi mări
+Re M
+
+[s2]
+/: Căci El e-al lumii Creator
+Şi Domn Atotstăpânitor
+Aleluia, Aleluia!
+Mărire Lui, mărire Lui! :/
+
+[s3]
+Măriţi cu toţii dar al Său nume
+Pe Cel ce face multe minuni
+Toată suflarea din astă lume Proşterne-I-Se cu-nchinăciuni!
+
+[s4]
+/: Copii ai Lui, măriţi cântând
+Pe Tatăl, Fiul şi Duhul Sfânt! Aleluia, Aleluia!
+Mărire Lui, mărire Lui! :/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,43 @@
+[s1]
+1408.
+1.  Ascultaţi voi ucenici
+Voi pleca-n curând de aici
+Voi pleca de pe pământ
+/: Sus în cer la Tatăl Sfânt :/
+2.  Nu vă voi lăsa orfani
+Voi veghea să creşteţi mari
+/: Vă voi da din Duhul Sfânt
+Mângâiere pe pământ :/
+
+[s2]
+Să vegheaţi cu plâns şi post
+Nu ziceţi că n-are rost
+/: C-am promis că vă voi da
+Loc împărăţia mea :/
+4.  Duhul Sfânt dacă îl ai
+Cu El vei zbura spre rai
+/: Când va suna trâmbiţa
+Pe tine te-a ridica :/
+
+[s3]
+Dacă pâine tu doreşti
+Piatră-n loc n-ai să primeşti
+/: Peştele cu-n şarpe Eu
+Nu îl schimb că-s Dumnezeu :/
+6.  Pe deasupra tuturor
+Duhul Sfânt Mângâietor
+/: Te va ajuta-n necaz
+Nu te va lăsa să cazi :/
+
+[s4]
+7.  Poate zice cine vrea
+Căci acum nu este aşa
+/: Dar Eu nu m-am mai schimbat
+Lucrez cum am mai lucrat :/
+8.  Omul este schimbător
+Şi uşor amăgitor
+/: Dar făgăduinţa mea
+E din neam în neam aşa :/
+
+[order]
+s1,s2,s3,s4

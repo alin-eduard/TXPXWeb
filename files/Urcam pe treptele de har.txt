@@ -1,0 +1,62 @@
+[s1]
+Urcăm pe treptele de har,
+/: Cu Isus, cu Isus :/
+Privind pe-al cerului hotar,
+Zi de zi, ceas de ceas, tot mai sus.
+
+[s2]
+/:Isus ‘nainte, noi după El
+În urmă lumea lăsăm.
+Prin Duhul Sfânt, El aprinde zel
+Cu Domnul să-naintăm. :/
+
+[s3]
+Urcăm prin flăcări şi prin foc
+/: Cu Isus, cu Isus :/
+Nu ne oprim nicicând în loc,
+Ne avântăm tot mereu spre Isus.
+
+[s4]
+/: Căci viaţa Domnul ne-a dăruit
+Şi pacea ne-a dat-o El;
+Prin jertfa sfântă, ne-a mântuit
+Isus, Emanuel. :/
+
+[s5]
+Urcând mereu, neobosiţi
+/: Cu Isus, cu Isus :/
+Cu El vom fi nebiruiţi,
+Când vom fi în cer sus cu Isus.
+
+[s6]
+/: Când lupta-i mare şi drumu-i greu,
+Genunchii noi ni-i plecăm;
+Prin harul mare, primim mereu
+Puteri noi să-naintăm. :/
+
+[s7]
+Dar harul ce ne-a fos lăsat
+/: Prin Isus, prin Isus :/
+Ridică lumea din păcat
+Şi ne-avântă mereu tot mai sus.
+
+[s8]
+/: Isus, prin moartea de la Calvar
+Şi suferinţa cea grea,
+Aduce lumii cerescul har
+Şi dă iubirea Sa. :/
+
+[s9]
+Când harul aduce suferinţi
+/: Cu Isus, cu Isus :/
+Ascunde-n ele biruinţi
+Ce ne urcă mereu, tot mai sus.
+
+[s10]
+/: Dar suferinţa se va sfârşi
+Şi vechiul lumii suspin,
+Iar harul mare  va dăinui
+În veci de veci Amin! :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

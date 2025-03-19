@@ -1,0 +1,32 @@
+[s1]
+Nu mai cunosc o altă zi, ca ziua,
+Isus când lângă mine Te-ai oprit;
+Când ochii Tăi senini şi calzi privit-au
+Cu gingăşie ca să mă ridici.
+
+[r1]
+Ce pace, dragoste, iubire sfântă
+Intreaga mea fiinţă a primit;
+Când mâna Ta cea sfântă, perforată,
+Spre mine s-a-ndreptat şi m-a atins.
+
+[s2]
+Eram pierdut, uitat în deznădejde,
+Nu mai credeam salvare să mai am;
+Când valul era gata să mă-nghită,
+Tu l-ai mustrat şi-n barcă m-ai luat.
+
+[s3]
+Si mi-ai vorbit cu-atâta gingăşie,
+Atâta dragoste mi-ai arătat;
+În suflet mi-ai lăsat o pace sfântă,
+Cu Duhul Tău cel Sfânt m-ai îmbrăcat.
+
+[s4]
+De aceea vreau ca să-Ţi rămân aproape,
+Sub aripile Tale să mă ştiu;
+Pe stâncă să mă duci să trec prin noapte,
+Cu Tine Domnul meu în veci să fiu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

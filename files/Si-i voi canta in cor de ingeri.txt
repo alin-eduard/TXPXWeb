@@ -1,0 +1,20 @@
+[r1]
+/: Şi-i voi cânta în cor de îngeri
+Arhangeli şi cu serafimi
+Şi-i voi da slavă lui Isus
+Mireasa Lui în cer să fim. :/
+
+[s1]
+Eu voi zbura-n curând spre ceruri
+În faţa Lui să mă închin
+Şi voi mânca din pomul vieţii
+Voi bea din râul cristalin.
+
+[s2]
+Vom fi cu-Avram, Isaac şi Iacov
+Cu-ntreg poporul Israel
+Toţi ce-l urmează azi pe Isus
+Vor fi pe veci în cer cu El.
+
+[order]
+r1,s1,r1,s2,r1

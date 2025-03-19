@@ -1,0 +1,77 @@
+[s1]
+1
+Pregăteste-mi Tu, Isuse,
+Inima neîncetat.
+Să se desfăteze-n Tine
+Si-n Cuvântul Tău curat.
+
+[s2]
+2
+Bucuria mea, desfătarea mea
+Tu să-mi fii, Isuse!
+Fie noaptea grea, fie ziua rea
+/:Tu să-mi fii:/, Tu să-mi fii, Isuse,
+Desfătarea mea!
+
+[s3]
+3
+Să-mi aprinzi întruna focul,
+Dorului să Te-ascult.
+Si iubirea mea să ardă
+Pentru Tine tot mai mult.
+
+[s4]
+4
+Bucuria mea, desfătarea mea
+Tu să-mi fii, Isuse!
+Fie noaptea grea, fie ziua rea
+/:Tu să-mi fii:/, Tu să-mi fii, Isuse,
+Desfătarea mea!
+
+[s5]
+5
+Să nu-mi mai găsesc plăcere
+În nimic de pe pământ.
+Si picioarele să-mi tină
+Numai drumul Tău cel Sfânt
+
+[s6]
+6
+Bucuria mea, desfătarea mea
+Tu să-mi fii, Isuse!
+Fie noaptea grea, fie ziua rea
+/:Tu să-mi fii:/, Tu să-mi fii, Isuse,
+Desfătarea mea!
+
+[s7]
+7
+Bucuria vietii mele
+Tu să-mi fii necontenit
+Felul Tău întreg în mine
+Să-l arăt mai deslusit.
+
+[s8]
+8
+Bucuria mea, desfătarea mea
+Tu să-mi fii, Isuse!
+Fie noaptea grea, fie ziua rea
+/:Tu să-mi fii:/, Tu să-mi fii, Isuse,
+Desfătarea mea!
+
+[s9]
+9
+Pregăteste-mi Tu fiinta
+De cu zori până-n apus.
+Să-si găsească desfătarea
+Numa-n Tine, drag Isus.
+
+[s10]
+10
+Bucuria mea, desfătarea mea
+Tu să-mi fii Isuse
+Fie noaptea grea, fie ziua rea
+/:Tu să-mi fii:/ Tu să-mi fii Isuse
+Desfătarea mea
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

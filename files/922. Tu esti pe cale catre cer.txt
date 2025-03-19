@@ -1,0 +1,23 @@
+[s1]
+922.
+1.  Tu eşti pe cale către cer
+Dar copiii tăi unde-s?
+De ce nu sunt ei cu tine
+Vrei fericirea singur
+2.  O, părinţi, luaţi copiii
+Ce Domnul vi i-a dăruit
+Aduceţi-i toţi la Domnul
+Ca să fie mântuiţi.
+
+[s2]
+3.  De ce nu sunt ei cu tine
+Mamă, ai tăi, dragi copii?
+De ce îi laşi tu pe-afară
+Unde nu sunt bucurii?
+O, grăbeşte de îi strânge
+Şi îi adu la Isus
+Ca apoi în cerul dulce
+Să vă bucuraţi nespus!
+
+[order]
+s1,s2

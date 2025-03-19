@@ -1,0 +1,53 @@
+[s1]
+1. Cu toţii vrem să lucrăm
+În via lui Isus
+Mlădiţe roditoare
+Cu toţi vrem să fim
+/: Ajută-ne Isuse
+Să ’naintăm pe cale
+Zilele-s aproape,
+Timpu-i pe sfârşite. :/
+95.                     Fa
+
+[s2]
+2. Ajută-ne Părinte
+Să ne albim hainele
+Când pe nori vei apărea
+Să ne iei la Tine
+/: Nu ne lăsa aici jos
+Pe acest pământ spinos
+Zilele-s aproape
+Timpu-i pe sfârşite. :/
+
+[s3]
+3. Fă cu toţii să intrăm
+În odaia sfântă
+Tu să ne dai cununa
+Cea nevestejită
+/: Dă-ne ulei în candelă
+Lămpile să ne ardă
+Zilele-s aproape
+Timpu-i pe sfârşite. :/
+
+[s4]
+4. Căci Satana se luptă
+Cu toată puterea
+Să ne-ntoarcă din cale
+Să ne ia credinţa
+/: Te rugăm nu ne lăsa
+Să cădem din calea Ta
+Zilele-s aproape
+Timpu-i pe sfârşite. :/
+
+[s5]
+5. Ajută-ne să mergem
+Pe cale ‘nainte
+Cu răbdare să ducem
+Crucea fiecare
+/: Dă-ne Duh din Duhul Tău,
+Să cântăm când drumu-i greu
+Zilele-s aproape
+Timpu-i pe sfârşite. :/
+
+[order]
+s1,s2,s3,s4,s5

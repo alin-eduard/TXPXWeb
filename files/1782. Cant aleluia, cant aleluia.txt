@@ -1,0 +1,27 @@
+[s1]
+1782.      Re m
+1. Cânt Aleluia, cânt Aleluia
+Ţie, Dumnezeul meu slăvit
+Cânt Aleluia, cânt Aleluia
+Te iubesc căci Tu m-ai mântuit
+Cor:	/:Jertfa mulţumirii, ardă pe altar
+Tatălui iubirii, sfânt izvor de har:/
+
+[s2]
+2. Cânt cu credinţă, cânt cu credinţă
+Ţie, Dumnezeul credincios
+Cânt cu credinţă, cânt cu credinţă
+Fiului Tău sfânt Isus Hristos
+Cor:	/:Jertfa mulţumirii, ardă pe altar
+Tatălui iubirii, sfânt izvor de har:/
+
+[s3]
+3. /:Cânt cu-nchinare,:/
+Ţie, Dumnezeul minunat
+/:Cânt cu-nchinare:/
+Cânt cu focul care Tu mi-ai dat
+Cor:	/:Jertfa mulţumirii, ardă pe altar
+Tatălui iubirii, sfânt izvor de har:/
+
+[order]
+s1,s2,s3

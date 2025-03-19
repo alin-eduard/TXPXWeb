@@ -1,0 +1,28 @@
+[s1]
+Biruitorul va primi să guste
+Din lemnul vieţii cel din Paradis
+La cel’lalt capăt al cărării-nguste
+Uimit va zice:-aevea e, sau vis?
+Căci o mărire afar’ din fire
+(:Drept moştenire ‘l-aşteaptă sus:)
+
+[s2]
+Biruitorul n-are să se teamă
+De-a doua moarte – n chin a celor răi,
+Că-n veac de veac cânta-va dări de seama
+De felul cum a dus Isus pe-ai săi
+Prin suferinţă, din biruinţă
+La biruinţă El i-a condus.
+
+[s3]
+Ah, urletul  mãrii, la vorba Ta, stã smerit
+Când Tu porunceşti, fie orice-ar fi,
+Mânia furtunii nu poate lovi,
+Căci Tu stăpâneşti chiar şi val şi vânt,
+Şi fiare şi demoni printr-un Cuvânt!
+În Tine mă-ncred cât voi trăi,
+Domnul meu, preaiubit,
+Cu Tine Isuse, Stânca mea, sunt liniştit.
+
+[order]
+s1,s2,s3

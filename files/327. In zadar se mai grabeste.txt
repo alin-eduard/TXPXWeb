@@ -1,0 +1,40 @@
+[s1]
+Re
+1. În zadar se mai grăbeşte
+Cel ce pleacă prea târziu
+Alergarea lui sfârşeşte
+Ca un strigăt în pustiu.
+327.
+
+[r1]
+Cor: /:Pentru mântuirea ta
+Nu mai sta, nu mai sta
+Pentru cerul cel frumos
+Vin acum, vin acum la Hristos.:/
+
+[s2]
+2. În zadar se mai grăbeşte
+Cel ce n-a vrut când putea
+Mila şi iertarea sfântă
+Are vremea ei şi ea.
+
+[s3]
+3. În zadar se mai căieşte
+Cel ce-a râs şi n-a pus preţ
+Râsul clipei îl plăteşte
+Plânsul veşnicei vieţi.
+
+[s4]
+4. În zadar va plânge-odată
+Vremea harului de-acum
+Cel chemat cu-atâtea lacrimi
+Dar nu-i pasă nicidecum.
+
+[s5]
+5. Câtă vreme încă este
+Cale şi prilej de har
+Nu uita de toate-acestea
+Că-n curând va fi-n zadar.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

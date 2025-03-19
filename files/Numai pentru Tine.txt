@@ -1,0 +1,20 @@
+[r1]
+/: Numai pentru Tine :/
+Astăzi vreau Isuse
+/: Numai Ţie Doamne :/
+Să-Ţi aduc onoare.
+
+[s1]
+/: Căci Tu mai răscumpărat
+Din osândă şi păcat
+De aceea vreau să-Ţi cânt
+Cât mai sunt pe-acest Pământ:/
+
+[s2]
+/: Melodii, din Cer, de sus
+Tu Stăpâne Le-ai adus
+Să le cânt, cât mai trăiesc
+Pentru Tine, Domn Ceresc :/
+
+[order]
+r1,s1,r1,s2,r1

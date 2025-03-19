@@ -1,0 +1,33 @@
+[s1]
+2120
+1. Ochii mei Te vor vedea
+Chiar de-i așteptarea grea
+În credință neclintit
+Te aștept Isus și zic
+
+[r1]
+Cor:	/: Stânca mea :/
+Ești Isus de-a pururea
+/: Stânca mea :/
+Într-o zi Te voi vedea.
+
+[s2]
+2. Nici o clipă nu disper
+Ochii mei privesc spre cer
+Prin furtuni și vijelii
+Doamne Stânca mea să fii.
+
+[s3]
+3. Chipul Tău strălucitor
+Mi-e balsam vindecător
+Într-o zi blând m-ai privit
+Mi-ai vorbit, m-ai mântuit.
+
+[s4]
+4. De atunci mereu cu dor
+Te aștept o scump Păstor
+Te slăvesc prin cântul meu
+Stânca mea ești Dumnezeu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

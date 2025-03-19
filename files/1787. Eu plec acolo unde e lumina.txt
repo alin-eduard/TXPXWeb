@@ -1,0 +1,43 @@
+[s1]
+1787.
+1. Eu plec acolo unde e lumină
+Acolo unde nu-s dureri
+Unde domneşte liniştea deplină
+Şi unde-s numai mângâieri
+Cor:	/:De ce nu vrei să vii cu mine
+În ţara gloriei de sus
+Acolo e aşa de bine
+Că-mpărăţeşte-n veci Isus:/
+
+[s2]
+2. Acolo nu va mai fi întristare
+Şi nici mărunte-ngrijorări
+Căci bucuria noastră va fi mare
+Când vom pluti pe-albastre zări
+Cor:	/:De ce nu vrei să vii cu mine
+În ţara gloriei de sus
+Acolo e aşa de bine
+Că-mpărăţeşte-n veci Isus:/
+
+[s3]
+3. De crezi în Isus, vei primi iertare
+Şi viaţa-ţi va părea un vis
+Iar când aici sfârşi-vei alergarea
+Te vei muta în Paradis
+Cor:	/:De ce nu vrei să vii cu mine
+În ţara gloriei de sus
+Acolo e aşa de bine
+Că-mpărăţeşte-n veci Isus:/
+
+[s4]
+4. Nu refuza chemarea minunată
+Poate că mâine vei muri
+Nu aştepta cumplita judecată
+Grăbeşte-te, nu zăbovi
+Cor:	/:De ce nu vrei să vii cu mine
+În ţara gloriei de sus
+Acolo e aşa de bine
+Că-mpărăţeşte-n veci Isus:/
+
+[order]
+s1,s2,s3,s4

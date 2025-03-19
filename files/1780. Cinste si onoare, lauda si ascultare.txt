@@ -1,0 +1,40 @@
+[s1]
+1780.
+1. Cinste şi onoare
+Laudă şi-ascultare
+Lui i se cuvine
+Veşnic ne-ncetat
+Glorie, mărire
+Rugă, mulţumire
+Lui Isus Mesia
+Marele-mpărat
+
+[r1]
+Cor:	/:Să-I cântăm, să-I cântăm Aleluia
+Să-I slăvim Numele
+Cel mai presus
+Să-I cântăm, să-I cântăm Aleluia
+Fie-n veci preamărit, Isus!:/
+
+[s2]
+2. Sinceră credinţă
+Jertfă, pocăinţă
+Lacrimi de căinţă
+Lui Îi datorăm
+Pentru-a Sa iubire
+Pentru mântuire
+Din inimi curate
+Haideţi să-I cântăm
+
+[s3]
+3. Steag de biruinţă
+Pace, suferinţă
+Ţărm de izbăvire
+El ne-a fost mereu
+Sfântă adiere
+Har şi mângâiere
+Ne-a fost totdeauna
+Bunul Dumnezeu.
+
+[order]
+s1,r1,s2,r1,s3,r1

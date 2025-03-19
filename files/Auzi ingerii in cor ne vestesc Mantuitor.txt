@@ -1,0 +1,42 @@
+[s1]
+Auzi îngerii în cor,
+ne vestesc Mântuitor
+Şi proclamă cu-al lor cânt:
+Pace-n cer şi pe pământ!
+Voi popoare tresăltaţi,
+Şi cu îngerii cântaţi
+Pentru omul păcătos
+S-a născut Isus Hristos.
+
+[s2]
+Cel din veci cu Dumnezeu
+Preamărit ca Fiu al Său
+Într-un staul stă-nfăşat,
+O, ce lucru minunat!
+Bucurie proclamaţi
+Pentru toţi cei apăsaţi
+S-a născut Emanuel
+Dumnezeu cu noi e El!
+
+[s3]
+Umilit Hristos veni,
+Cel promis din veşnicii,
+Şi lumină ne-a adus
+De la tronul Său de sus!
+Azi coboară Cel slăvit
+La toţi cei ce L-au dorit,
+Orice suflet credincios
+Luminează prin Hristos.
+
+[s4]
+Doamne Ţie ne-nchinăm
+Şi-n credinţă Te-aşteptăm
+Să Te-arăţi ca Împărat
+Ca să-Ţi iei al Tău regat!
+Să ne-ajuţi să biruim,
+Să putem să Te primim
+Osana în ceruri sus
+Preamărire scump Isus!
+
+[order]
+s1,s2,s3,s4

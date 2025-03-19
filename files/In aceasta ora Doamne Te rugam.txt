@@ -1,0 +1,55 @@
+[s1]
+În această oră,
+Doamne, Te rugăm:
+Să iei parte Tu cu noi,
+Să ne-asculti,
+când Te chemăm
+Si Te lăudăm;
+Vrem să fii în veci cu noi...
+Re m
+
+[s2]
+Să nu ne laşi părăsiţi nicicând,
+Căci noi trăim cu Tine-ngând;
+Doar pe Tine Te avem
+Si-n Tine ne-ncredem.
+Tu eşti al nost‘ Mântuitor
+Minunat si bun Păstor;
+'Doar cu Tine vrem să fim în veci. Amin
+
+[s3]
+Când ispite mari apar
+în viaţa mea,
+N-am pe nimeni ajutor.
+Doar în Tine pururi
+Să ne-ncredem,
+Vesnice Ocrotitor.
+
+[s4]
+Să nu ne laşi părăsiţi nicicând,
+Căci noi trăim cu Tine-ngând;
+Doar pe Tine Te avem
+Şi-n Tine ne-ncredem.
+Tu eşti al nost‘ Mântuitor
+Minunat şi bun Păstor;
+'Doar cu Tine vrem să fim în veci. Amin
+
+[s5]
+Dar acuma, Doamne,
+noi îţi mulţumim
+Pentru bunătatea Ta.
+Pentru dragostea dintâi
+şi iubirea Ta,
+Vrem în veci să-Ţi mulţumim.
+
+[s6]
+Să nu ne laşi părăsiţi nicicând,
+Căci noi trăim cu Tine-ngând;
+Doar pe Tine Te avem
+Şi-n Tine ne-ncredem.
+Tu eşti al nost‘ Mântuitor
+Minunat şi bun Păstor;
+Doar cu Tine vrem să fim în veci. Amin
+
+[order]
+s1,s2,s3,s4,s5,s6

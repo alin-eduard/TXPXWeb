@@ -1,0 +1,103 @@
+[s1]
+1.	Poţi să ai chiar lumea-ntreagă
+Şi să fii bogat
+Dacă n-ai pe Domnul slavei
+Eşti cel mai sărac.
+Cor: 	Câtă bucurie-n lume
+Pe acest pământ
+Nu-i nici una dintre ele
+Ca în Duhul Sfânt.
+461. Do m
+
+[s2]
+2.	Orice suflet ce se întoarce
+La Isus Hristos
+Simte o bucurie mare
+C-a primit iertare.
+Cor: 	Câtă bucurie-n lume
+Pe acest pământ
+Nu-i nici una dintre ele
+Ca în Duhul Sfânt.
+
+[s3]
+3.	Bucurie nu-i în lume
+Pentru credincioşi
+Ei se bucură într-una
+În Isus Hristos.
+Cor: 	Câtă bucurie-n lume
+Pe acest pământ
+Nu-i nici una dintre ele
+Ca în Duhul Sfânt.
+
+[s4]
+4.	Spune suflete oricare
+Ce te leagă acum
+De nu vii la Domnul slavei
+Te opreşti pe drum.
+Cor: 	Câtă bucurie-n lume
+Pe acest pământ
+Nu-i nici una dintre ele
+Ca în Duhul Sfânt.
+
+[s5]
+5.	Astăzi poţi trăi în pace
+Suflete iubit
+Însă nu uita de Noe
+Cum fu izbăvit.
+Cor: 	Câtă bucurie-n lume
+Pe acest pământ
+Nu-i nici una dintre ele
+Ca în Duhul Sfânt.
+
+[s6]
+6.	Spune frate şi tu soră
+De ce ai uitat
+Că pe muntele Golgota
+Te-a răscumpărat.
+Cor: 	Câtă bucurie-n lume
+Pe acest pământ
+Nu-i nici una dintre ele
+Ca în Duhul Sfânt.
+
+[s7]
+7.	Nu te-ntoarce, ai ca pildă
+Nevasta lui Lot
+Să nu rămâi stâlp de sare
+Orişicând pe loc.
+Cor: 	Câtă bucurie-n lume
+Pe acest pământ
+Nu-i nici una dintre ele
+Ca în Duhul Sfânt.
+
+[s8]
+8.	Şi să nu-ţi iasă din minte
+Pe Lot cel curat
+Fă şi tu frate ca dânsul
+Ca să fii salvat.
+Cor: 	Câtă bucurie-n lume
+Pe acest pământ
+Nu-i nici una dintre ele
+Ca în Duhul Sfânt.
+
+[s9]
+9.	Uite frate şi la Lazăr
+Cel sărac şi gol
+Astăzi e cu Domnul slavei
+În vecii vecilor.
+Cor: 	Câtă bucurie-n lume
+Pe acest pământ
+Nu-i nici una dintre ele
+Ca în Duhul Sfânt.
+
+[s10]
+10.	Fă faptele lui Avraam
+Acel credincios
+Ca s-ajungi şi tu ca dânsul
+Unde e Hristos.
+Cor: 	Câtă bucurie-n lume
+Pe acest pământ
+Nu-i nici una dintre ele
+Ca în Duhul Sfânt.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

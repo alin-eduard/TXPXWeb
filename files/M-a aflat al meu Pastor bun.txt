@@ -1,0 +1,38 @@
+[s1]
+M-a aflat al meu Păstor bun
+Şi pe braţele-I m-a pus
+Din adânc unde zăceam eu
+La lumină m-a adus.
+
+[r1]
+/:Aleluia, aleluia
+Eu cânt azi salvarea mea
+Fie Domnului mărire
+Căci mi-a dat iertarea Sa.:/
+
+[s2]
+Doamne, Tu mi-ai dat iubire
+Şi m-ai pus pe calea Ta
+Simt cum mâna Ta mă poartă
+Fericit spre ţara Ta.
+
+[s3]
+Harul Tău mă va susţine
+Credincios pân` la sfârsit,
+Inima-mi rătăcitoare
+În Tine se va odihni.
+
+[s4]
+/:Aleluia, aleluia
+Eu cânt azi salvarea mea
+Fie Domnului mărire
+Căci mi-a dat iertarea Sa.:
+
+[s5]
+O, de-as şti cântări sublime
+Să înalt spre slava Ta
+Să-ţi aduc drept mulţumire
+Viaţa şi iubirea mea.
+
+[order]
+s1,r1,s2,r1,s3,s4,s5

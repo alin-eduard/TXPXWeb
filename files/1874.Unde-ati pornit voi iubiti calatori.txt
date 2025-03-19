@@ -1,0 +1,33 @@
+[s1]
+1874
+1. Unde-ați pornit voi iubiți călători
+Voi preaiubiți călători?
+Unde vă duceți cu pasul vioi?
+Grijă să nu vă rătăciți.
+
+[r1]
+Cor: /:Voi călători
+Voi preaiubiți
+Grijă s-aveți
+Pe drum să nu vă rătăciți.:/
+
+[s2]
+2. Voiți s-ajungeți la muntele Cel Sfânt?
+Voi călători de pe pământ
+Spre muntele Cel Sfânt toți ați pornit
+Grijă să nu vă rătăciți.
+
+[s3]
+3. Drumul pe care voiți să mergeți
+Nu este larg ci este-ngust
+Pe el sunt semne să nu vă rătăciți
+Ca să puteți ajunge Sus.
+
+[s4]
+4. Siliți-vă s-ajungeți mai curând
+voi călători de pe pământ
+Spre locu-acela unde ați pornit
+Grijă să nu vă rătăciți.
+
+[order]
+s1,r1,s2,s3,r1,s4,r1

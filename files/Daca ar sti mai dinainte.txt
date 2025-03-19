@@ -1,0 +1,42 @@
+[s1]
+Dacă ar ști mai dinainte
+oamenii ce ar păți
+Ar face tot ce-i posibil
+și de rău ei s-ar feri
+Dar așa-i viața aceasta
+se-ntămplă pe ne-așteptat
+/: Nu știi ceasul, nu știi clipa
+Când de-aicea ai plecat. :/
+
+[r1]
+Trece viața, trece omul
+și cu toți îmbătrânim
+Vine moartea, ne desparte
+mamă, tată de copil
+Trece viața, trece lumea
+Unii pleacă alții vin
+Nu poți sta-mpotriva morții
+Căci odată tot murim
+
+[s2]
+Daca-i știi iubit prieten
+dinainte c-ai muri
+Că-n curând te chemă Domnul
+pregătește-te să vii
+Tu n-ai vrut să fii vreodată
+credincios pe calea Lui
+/: N-ai umblat smerit pe cale
+cum îi place Domnului.:/
+
+[s3]
+Tu nu știi că veșnicia
+locul ce ți-ai pregătit
+De-ai trăit viața cu Domnul
+cu El vei fi fericit
+Iar dacă-n viața aceasta
+ai trăit cum ai vrut tu
+/: Pentru toate-a tale fapte
+vei fi aspru pedepsit.:/
+
+[order]
+s1,r1,s2,r1,s3,r1

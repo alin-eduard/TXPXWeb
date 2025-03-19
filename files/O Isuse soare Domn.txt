@@ -1,0 +1,29 @@
+[s1]
+/: O Isuse soare Domn
+Coborâta-I de pe tron
+Cel ce-ai fost, ce ne-ai slujit
+Mult popor ai mântuit. :/
+/: Aleluia, Glorie, Osana
+Aleluia, Gloria, Osana
+Aleluia, Gloria, Aleluia. :/
+
+[s2]
+/: Tu pe cruce ai suferit
+La Golgota răstignit
+Ca să fiu eu fericit
+O Isuse fii slăvit!. :/
+/: Aleluia, Glorie, Osana
+Aleluia, Gloria, Osana
+Aleluia, Gloria, Aleluia. :/
+
+[s3]
+/: Suflet drag nu te gândi
+Vin` la El nu zăbovi
+Căci Isus te va primi
+Şi-n curând El va veni. :/
+/: Aleluia, Glorie, Osana
+Aleluia, Gloria, Osana
+Aleluia, Gloria, Aleluia. :/
+
+[order]
+s1,s2,s3

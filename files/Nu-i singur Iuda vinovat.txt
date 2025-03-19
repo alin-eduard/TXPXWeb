@@ -1,0 +1,51 @@
+[s1]
+Nu-i singur Iuda vinovat
+De sângele ce se dădu
+/: Nici marii preoţi, nici Pilat,
+Ci lumea-ntreagă prin păcat.
+Şi eu şi tu, şi eu şi tu :/
+
+[s2]
+Nu drumul greu spre Golgota
+Nici biciul când Isus căzu
+/: Şi-atât nici crucea nu-L durea,
+Cât noi, povara cea mai grea.
+Şi eu şi tu, şi eu şi tu :/
+
+[s3]
+Nu patru cuie L-au împuns
+Când trupul silnic se zbătu,
+/: Ci noi în sufletul ascuns
+Cu mii de patimi L-am străpuns.
+Şi eu şi tu, şi eu şi tu :/
+
+[s4]
+Nu farisei sau cărturari
+Nu preoţii de frunte, nu!
+/: Ci noi am râs cu ochi murdari
+Şi noi suntem cei doi tâlhari.
+Şi eu şi tu, şi eu şi tu :/
+
+[s5]
+Şi nu ostaşilor prin sorţi
+Cămaşa albă şi-o dădu
+/: Ci tuturor, dar tu o porţi
+Şi fără ea suntem toţi morţi.
+Şi eu şi tu, şi eu şi tu :/
+
+[s6]
+Nu-n stâncă pentru lilieci
+Şi nu sub lespede zăcu
+/: L-am îngropat ca pentru veci
+Sub piatra unor forme reci
+Şi eu şi tu, şi eu şi tu :/
+
+[s7]
+Şi-acum Isus cel condamnat
+Azi El te-ntreabă, da ori nu?
+/: Eşti tu sau nu eşti vinovat?
+Eu am spus da, şi-am fost iertat.
+Dar tu, dar tu? Dar tu, dar tu? :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

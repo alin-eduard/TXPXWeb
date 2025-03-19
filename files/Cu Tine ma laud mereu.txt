@@ -1,0 +1,36 @@
+[s1]
+Cu Tine mă laud mereu,
+Cu Tine, Isuse, cu Tine, Isuse
+/: Pe drumul vieţii cel greu,
+Când greul îmi pare mai greu,
+Cu Tine mă laud mereu,
+Cu Tine, cu Tine, Isuse. :/
+382. Mi m
+Re m
+
+[s2]
+Cu Tine spre ceruri m-avânt,
+Cu Tine Isuse, cu Tine Isuse,
+/: Lumină mi-e sfântu-Ţi cuvânt,
+Oriunde şi-oricând pe pământ.
+Cu Tine spre ceruri m-avânt,
+Cu Tine, cu Tine, Isuse. :/
+
+[s3]
+De Tine mi-e sufletul plin,
+De Tine Isuse, de Tine Isuse.
+/: Tu-mi eşti adevărul deplin
+Şi pace când plec sau când vin.
+De Tine mi-e sufletul plin
+De Tine, de Tine Isuse. :/
+
+[s4]
+Cu Tine am har după har,
+Cu Tine Isuse, cu Tine Isuse.
+/: Mi-e inima templu şi-altar
+Şi jertfă pe-al dragostei jar,
+Cu Tine pe orice hotar,
+Cu Tine, cu Tine, Isuse. :/
+
+[order]
+s1,s2,s3,s4

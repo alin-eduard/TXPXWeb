@@ -1,0 +1,26 @@
+[s1]
+Spune-mi te-ai gândit, ai meditat,
+Sau poate vre-odată te-ai întrebat,
+Această problemă nu te-a frământat:
+De unde vii şi unde mergi ?
+
+[s2]
+Eu ştiu că Domnul m-a creat
+Şi viaţă veşnică mi-a dat
+O, dar tu, de unde vii
+Şi unde mergi ?
+
+[s3]
+Timpul trece-n zbor, trece viaţa ta
+Tinereţea noastră se duce şi ea
+Va veni sfârşitul ce se va-ntâmpla:
+De unde vii şi unde mergi ?
+
+[s4]
+La sfârşitul vieţii vei fi judecat
+Planurile tale ţi s-au spulberat
+Ceea ce e veşnic nu te-a frământat:
+Pe Dumnezeu tu l-ai uitat !
+
+[order]
+s1,s2,s3,s4

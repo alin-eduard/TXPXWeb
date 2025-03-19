@@ -1,0 +1,34 @@
+[s1]
+1. Multă vreme eu am rătăcit
+Neștiind că Isus a murit,
+Pentru mine că S-a răstignit
+Pe Golgota!
+2290                                                                                                     Do M
+
+[r1]
+R:
+Sus pe cruce al Său sânge-a curs
+Trupul, inima I le-au străpuns
+Dar pentru păcatul MEU muri
+Pe Golgota!
+
+[s2]
+2.Din Cuvântul Domnului cunosc
+Astăzi că eu sunt un păcătos.
+Și în locul meu muri Hristos
+Pe Golgota!
+
+[s3]
+3. Am venit la El și-am căpătat
+Mântuire, pe veci sunt salvat
+M-a făcut copilul Său bogat
+Pe Golgota!
+
+[s4]
+4. Domnului pe veci eu m-am predat
+Și în veci de El nu mă despart
+Al meu suflet Domnul mi-a salvat
+Pe Golgota!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

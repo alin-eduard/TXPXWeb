@@ -1,0 +1,47 @@
+[s1]
+Tu dar copilul meu
+întăreşte-te mereu
+Ca un ostaş viteaz
+devotat lui Dumnezeu
+Îndreaptă-ţi către cer
+totdeauna paşii tăi
+Şi-n slujbă plin de zel,
+veghează Timotei
+
+[r1]
+Luptă-te lupta cea bună
+Pentru care ai fost chemat
+Să fi vrednic de cunună
+Luptă-te lupta cea bună
+Şi păstrează-te curat
+
+[s2]
+Ca Alexandru-s mulţi
+şi ca Dima-n adunări
+Şi tineri şi adulţi
+apucând alte cărări
+Dar tu copilul meu
+fi lumină pentru ei
+Fi treaz şi înţelept,
+veghează Timotei
+
+[s3]
+Aşa îl învăţa un apostol credincios
+Ce Pavel se numea,
+rob şi-urmaş al lui Hristos
+Apleacă-ţi inima
+pentru tot ce-ai învăţat
+Şi evanghelia vesteşte-o ne-ncetat
+
+[s4]
+Fii gata-n orice ceas
+că sunt vremuri de sfârşit
+Şi-n timpul ce-a rămas
+să fi frate pregătit
+Nu fi părtaş nicicând
+la lucrarea celor răi
+Şi-n cuget şi-n cuvânt
+fi treaz ca Timotei.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,24 @@
+[s1]
+Şi mă voi închina cu inima mea.
+Şi mă voi închina cu mintea mea.
+Şi mă voi închina toată viaţa mea
+Căci Tu eşti Domn.
+
+[r1]
+/: Iubire, putere
+Mai mult Tu în viaţa mea. :/
+
+[s2]
+Şi Te voi lăuda cu inima mea.
+Şi Te voi lăuda cu mintea mea.
+Şi Te voi lăuda toată viaţa mea.
+Căci Tu eşti Domn.
+
+[s3]
+Şi Te voi căuta cu inima mea.
+Şi Te voi căuta cu mintea mea.
+Şi Te voi căuta toată viaţa mea.
+Căci Tu eşti Domn.
+
+[order]
+s1,r1,s2,r1,s3,r1

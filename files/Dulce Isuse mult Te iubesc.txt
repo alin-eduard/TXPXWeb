@@ -1,0 +1,30 @@
+[s1]
+Dulce Isuse, mult Te iubesc,
+Mai mult ca toate, Te preţuiesc;
+La pieptul Tău sfânt pace­-am găsit,
+Numai cu Tine sunt fericit!
+
+[r1]
+/: Dulce Isuse, mult Te iubesc,
+Mai mult ca toate Te preţuiesc! :/
+
+[s2]
+Dulce Isuse, mult Te iubesc,
+În orice clipă eu Te doresc;
+Lume-a­i amară, şi­-n lupta grea
+Alerg la Tine, scăparea mea!
+
+[s3]
+O, Doamne, Tu mă ierţi când greşesc,
+Rana o legi când eu mă lovesc;
+Mântuitorul meu mult iubit,
+Cu Tine-­n veci ştiu că sunt unit!
+
+[s4]
+Umple-mă, Doamne, cu Duhul Sfânt,
+Ca să trăiesc prin al Tău Cuvânt;
+Să Te glorific, Isuse­-aş vrea
+În viaţă-­n moarte şi­-n slava Ta!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

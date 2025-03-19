@@ -1,0 +1,50 @@
+[s1]
+La Horeb, muntele Domnului
+Ilie si-a gasit adapost
+El s-a ascuns in pestera Adul
+Obosit, flamând de drum si gol.
+
+[s2]
+/: Ce faci tu aici, Ilie?
+Atunci Domnul i-a vorbit.
+Pentru legea sfânta, vie
+De vrajmasi azi sunt urmarit. :/
+
+[s3]
+Din nou iarasi Dumnezeu i-a zis :
+Iesi si stai pe muntele cel sfânt !
+Domnul a trecut pe lânga el
+Si ,naintea Lui trecu un vânt.
+
+[s4]
+/: Iar vântul puternic sufla
+Muntii mari îi despica
+Si stâncile sfarâma -
+Dar în vânt Domnul nu era. :/
+
+[s5]
+Dupa vânt, cutremur de pamânt
+Dupa cutremur veni un foc
+Dar nici în cutremur, nici în foc
+Domnul nu era-n ele deloc.
+
+[s6]
+/: Un susur blând si subtire
+Dupa toate i-a vorbit :
+Ce faci tu aici Ilie ?
+Atunci Ilie a iesit. :/
+
+[s7]
+Când Domnul te cauta, amice
+La locul tau ca sa fii gasit
+Asculta de glasul ce-ti zice
+,Nainte, ca vei fi rasplatit !
+
+[s8]
+/: Fii tare în ziua luptei
+Urca-te sus din vale
+Prinde steagul biruintei
+Fii stâlp puternic pe cale ! :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

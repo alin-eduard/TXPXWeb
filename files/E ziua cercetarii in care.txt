@@ -1,0 +1,32 @@
+[s1]
+E ziua cercetării în care
+Din nou Isus îţi spune:
+Pentru tine am murit
+Căci te-am iubit, te-am iubit,
+Te-am creat să Mă slujeşti
+Dar tu-ai plecat de lângă Mine
+Te chem din nou,
+Te chem din nou să fii mântuit.
+
+[r1]
+Oricine-ai fi şi orice-ai face
+Sfârşi-vei totul într-o zi
+Neputincios, cu mâna goală
+Acest pământ vei părăsi
+Vei sta în faţa Celui care
+Întreaga lume a creat
+Şi cu dreptate, fără milă
+De toate fi-vei judecat.
+
+[s2]
+Cu glas de milă strig
+Oiţa pierdută-n văi pustii
+Vino-acum căci ziua
+Este pe sfârşit, pe sfârşit
+Poate eşti căzută şi vreau
+Pe braţul Meu să te ridic
+O, vino-acum, o vino-acum,
+Vino nu zăbovi!
+
+[order]
+s1,r1,s2,r1

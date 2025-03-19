@@ -1,0 +1,68 @@
+[s1]
+1. E timpul să te pregăteşti
+Căci Mirele te-aşteaptă
+Iar dacă nu te hotărăşti
+Vei sta la judecată.
+680.								 Sol
+
+[r1]
+Cor: Biserică, Biserică,
+Biseric-apostolică.
+
+[s2]
+2. Deşi e
+drumul foarte greu
+Şi crucea te apasă
+Priveşte sus la Domnul tău
+Căci El te duce acasă.
+
+[s3]
+3. Priveşte sus la Golgota
+La Isus Creatorul
+El a răbdat
+moartea cea grea
+Să fii tu fericită.
+
+[s4]
+4. Pentru tine a răbdat El mult
+Dureri şi chinuri grele
+Căci te-a umplut
+cu Duhul Sfânt
+Ţi-a dat o mângâiere.
+
+[s5]
+5. Tu te poţi bucura în har
+Să cânţi în limbi străine
+Isus a murit pe Calvar
+Murit-a pentru tine.
+
+[s6]
+6. El nici acum nu-i odihnit
+Mereu te cercetează
+El totdeauna te-a iubit
+Şi acum te înştiinţează.
+
+[s7]
+7. Credinţa ta de la-nceput
+Şi dragostea dintâi
+Acestea dacă le-ai pierdut
+Ce greu va fi de tine.
+
+[s8]
+8. Întoarce-te, întoarce-te
+La dragostea dintâi
+Şi vei vedea şi vei avea
+O mare bucurie.
+
+[s9]
+9. Iar dacă nu, iar dacă nu
+Vei fi rău pedepsită
+Că nu-i intra, că nu-i intra
+În ţara mult dorită.
+
+[s10]
+Cor: Trezește-te,      Trezește-te,
+Biseric-apostolică.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1,s8,r1,s9,s10

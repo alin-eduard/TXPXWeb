@@ -1,0 +1,50 @@
+[s1]
+Când, pe norul luminos,
+Va veni Isus Hristos,
+/: N-or fi luna, stele, soare,
+Ci numai o groază mare. :/
+
+[s2]
+Soarele s-a-ntunecă,
+luna-n Sânge s-a schimba;
+/: Lume-atuncea se va strânge
+Şi de groază toţi vor plânge. :/
+
+[s3]
+În valea lui Iosafat,
+totul va fi judecat!
+/: Judecata grea şi dreapta,
+Fiecărui după faptă. :/
+
+[s4]
+Vor veni săraci, bogaţi,
+Ofiţeri şi împăraţi,
+/: Boierii cu cerşetorii,
+Stăpânii cu servitorii. :/
+
+[s5]
+Mamele vor sta de faţă
+cu copiii lor în braţe,
+/: Pe care i-au omorât
+Când au stat jos pe pământ. :/
+
+[s6]
+Parinţii vor sta, la rând
+cu copiii lor, plângând,
+/: Cari n-au ascultat Cuvântul
+Ce-a sunat pe tot pământul. :/
+
+[s7]
+Acolo, s-or prezenta
+Si toţi cei ce-au învăţat
+/: Evanghelia, pentru plata!
+Pe toţi osânda i-aşteaptă! :/
+
+[s8]
+De aceea, fraţi iubiţi,
+voi să propovăduiţi,
+/: Aşa cum sunteţi chemaţi:
+În dar primiţi, în dar daţi! :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

@@ -1,0 +1,37 @@
+[s1]
+1449.          Mi
+/:Israele:/ aşa-ţi vorbeşte Domnul
+/:Să nu te temi să nu disperi
+Căci s-or sfârşi orice dureri
+Şi vei primi dulci mângâieri
+Când vin să-mi iau poporul:/
+
+[s2]
+/:Israele:/ nu-ţi pierde a ta speranţă
+/:Chiar dac-o mamă şi-ar uita
+Copilul care-l alăpta
+Cu nici un chip nu te-oi uita
+Şi te-oi lua pe braţe:/
+
+[s3]
+/:Israele:/ voi fi cu Tine-n lume
+/:Chiar dacă ai fost dispreţuit
+Hulit de toţi batjocorit
+Să ştii că nu te-am părăsit
+Căci te-am chemat pe nume:/
+
+[s4]
+4. /:Israele:/ din nou mă-ntorc la tine
+/:Cu dragoste ce altădat
+La ai tăi părinţi le-am arătat
+Căci Tu eşti binecuvântat
+Ca să mă-ndur de tine:/
+
+[s5]
+5.  /:Israele:/ cum cloşca-ţi strânge puii /:Am să te adun la pieptul meu
+Să uiţi de chin de ce a fost greu
+În veci de veci să fii mereu
+Cu mine-o veşnicie:/
+
+[order]
+s1,s2,s3,s4,s5

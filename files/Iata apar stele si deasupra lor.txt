@@ -1,0 +1,14 @@
+[s1]
+Iată, apar stele, şi deasupra lor
+Cerul plin de taine mă umple de dor
+Să fiu mai aproape de Tine, Doamne
+Fericirea mea, de Tine a mă apropia.
+
+[s2]
+Şi în orice seară, se prind stelele
+Într-un cor minunat, Domnului cîntînd.
+Dar eu ştiu prea bine, Domnul iubeşte
+Mai mult cîntarea copiilor de pe Pămînt.
+
+[order]
+s1,s2

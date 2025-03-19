@@ -1,0 +1,40 @@
+[s1]
+De păcat împovărat
+În lume pribegeam,
+Despre jertfa lui Isus
+Nimic eu nu ştiam,
+Dar Isus m-­a ridicat
+Şi m­-a răscumpărat;
+El mi­-a dat iertarea Sa
+Şi m­-a salvat.
+
+[r1]
+/: Dragostea Lui m­-a ridicat
+Din valul de păcat şi m-­a salvat! :/
+
+[s2]
+Pentru tot ce a făcut
+Domnul în viaţa mea
+Îi predau azi inima
+Să locuiască­-n ea.
+Jertfa şi iubirea Lui
+Mereu le voi cânta;
+El va fi întotdeauna
+Lauda mea.
+
+[s3]
+/: Dragostea Lui m­-a ridicat
+Din valul de păcat şi m­-a salvat! :/
+
+[s4]
+Vino şi tu la Isus,
+Suflete rătăcit,
+Lasă-te condus de El
+Şi vei fi fericit!
+Crede în Cuvântul Său,
+Urmează­-L negreşit
+Ca să fii deplin
+Iertat şi mântuit!
+
+[order]
+s1,r1,s2,s3,s4,r1

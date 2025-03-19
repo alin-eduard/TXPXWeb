@@ -1,0 +1,27 @@
+[s1]
+În orice suflet, e-un tainic loc
+Aprins în noapte, sau stins şi gol
+Dor de lumină de veşnicii
+Ascuns în inimi de Dumnezeu
+
+[r1]
+Poartă-ţi lumina prin întuneric
+În noaptea făr’ de nădejdi pe drum,
+Far neclintit să-ţi fie viaţa
+Paşi să-ndrepte pe drumul bun,
+Lasă-n inimi un dor de cer.
+
+[s2]
+Pe calea noastră se află aievea
+Lumini căzute şi stinse-n vânt,
+Şi mulţi încearcă să ţină aprinsă
+O amăgire, un foc străin.
+
+[s3]
+Să laşi în urmă ploi de lumină
+Pe drumul celor ce-au rătăcit,
+Arată calea, atinge inimi,
+Şi dă speranţă prin Duhul Sfânt.
+
+[order]
+s1,r1,s2,r1,s3,r1

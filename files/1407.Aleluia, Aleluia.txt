@@ -1,0 +1,73 @@
+[s1]
+1407.
+1.  Aleluia, Aleluia
+În curând va fi răpirea
+Cei ce vor fi pregătiţi
+Sus la cer vor fi răpiţi.
+2.  Cei ce au hainele albe
+Neîntinate nepătate
+Când îngerul va suna
+Zborul sus şi-l vor lua.
+
+[s2]
+Şi-or cânta cu bucurie
+În cereasca-n părăţie
+Unde se vor bucura
+Aleluia Osana.
+4.  Aleluia, Aleluia
+În curând va fi răpirea
+Trâmbiţa suna-va clar
+Nu dormiţi vă deşteptaţi.
+
+[s3]
+Deşteptare, deşteptare
+Trâmbiţa răsună tare
+Timpul este spre sfârşit
+Domnul Isus va veni.
+6.  Nu vă-n greunaţi în mers
+Cu poverile lumeşti
+Căci cei ce-or avea poveri
+N-or putea zbura spre cer.
+
+[s4]
+7.  Vrăjmaşu-a ieşit în cale
+Ieşind fuga-n graba mare
+Ca să prindă-n mreaja lui
+Pe copii Domnului.
+8.  Voi să fiţi cu-nţelepciune
+Nu vă tragă pofta-n lume
+Cei ce vor fi amăgiţi
+Pe veci vor fi osândiţi.
+
+[s5]
+9.  Voi ţineţi privirea-n sus
+Liberaţi de legături
+Trâmbiţa răsună tare
+Pentru mulţi verificare.
+10.  Nu staţi sub umbrele reci
+Că nu veţi ajunge-n cer
+Nici în locuri fără rost
+Ameninţate de foc.
+
+[s6]
+11.  Căci hotarul vi l-am pus
+Nu-l întreceţi pe Isus
+Staţi sub ocrotirea mea
+Căci curând vin să vă iau.
+12.  Voi ce staţi în nepăsare
+Şi cu hainele pătate
+Iată sunteţi adunaţi
+Vă treziţi vă curăţaţi.
+
+[s7]
+13.  Deci nu staţi la-ntunecime
+Nu priviţi la urâciune
+Că de nu vă deşteptaţi
+Pe veci veţi fi condamnaţi.
+14.  O ce aspră-i judecata
+De nu vă treziţi v-aşteaptă
+O pieire fără leac
+Fiindcă nu m-aţi asculat.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

@@ -1,0 +1,26 @@
+[s1]
+Ogoarele sunt gata de recoltă,
+Dar lucrătorii sunt aşa puţini,
+Mă dăruiesc o, Doamne-n întregime
+Ca să culeg recolta dintre spini.
+/: Sunt aici la dispoziţia Ta
+Cheamă-mă, Te voi asculta. :/
+
+[s2]
+E timpul potrivit pentru popoare
+Mai sunt în lume încă mari comori,
+Isus mai cheamă oameni in lucrare
+Să fie toţi cu El biruitori.
+/: Sunt aici la dispoziţia Ta
+Cheamă-mă, Te voi asculta. :/
+
+[s3]
+Suntem noi sare-n lumea asta?
+În întuneric suntem noi lumini?
+Trăim ca Domnu-n vorbe şi în fapte
+Să ştie lumea că suntem crestini?
+/: Sunt aici la dispoziţia Ta
+Cheamă-mă, Te voi asculta. :/
+
+[order]
+s1,s2,s3

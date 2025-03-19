@@ -1,0 +1,35 @@
+[s1]
+Vino în prezenţa Lui,
+Cu inima plină de mulţumiri.
+Vino în prezenţa Lui,
+Şi cântă-I laudă din inimă.
+Dă-I glorie, onoare,
+Puternic este El!
+Isus e Domn peste pământ.
+Vino în prezenţa Lui,
+Şi cântă-I laudă din inimă!
+
+[r1]
+Nu uita de binecuvântări,
+Mult mai multe decât încercări
+Nu uita de binecuvântări,
+Domnului să-I mulţumeşti
+azi prin cântări.
+
+[s2]
+Dacă eşti purtat de valul furios,
+Şi crezându-te pierdut devii fricos
+Ia în seamă binecuvântările
+Domnul ţi-a făcut parte şi din ele.
+
+[s3]
+Vino în prezenţa Lui,
+Cu inima plină de mulţumiri.
+Vino în prezenţa Lui,
+Şi cântă-I laudă din inimă.
+/: Dă-I glorie, onoare,
+Puternic este El!
+Isus e Domn peste pământ. :/
+
+[order]
+s1,r1,s2,r1,s3,r1

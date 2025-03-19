@@ -1,0 +1,47 @@
+[s1]
+Cinste si onoare
+Laudă si-ascultare
+Lui I se cuvine
+Veşnic neîncetat.
+Glorie, mărire
+Rugă, mulţumire
+Lui Isus Mesia
+Marele-mpărat
+
+[s2]
+/:Să-i cântăm :/ Aleluia
+Să-i slăvim Numele
+Cel mai presus
+/: Să-i cântăm :/ Aleluia
+Fii în veci lăudat Isus.
+
+[s3]
+Sinceră credintă
+Jertfă, pocăintă
+Lacrimi de căintă
+Noi Ii datorăm.
+Pentru a Sa iubire
+Pentru mântuire
+Din inimi curate
+Haide-ti să-I cântăm
+
+[r1]
+10.08.14
+/:Să-i cântăm :/ Aleluia
+Să-i slăvim Numele
+Cel mai presus
+/: Să-i cântăm :/ Aleluia
+Fii în veci lăudat Isus.
+
+[s4]
+Steag de biruintă
+Pace-n suferinţă
+Tărm de izbăvire
+El ne-a fost mereu.
+Sfântă adiere
+Har si mângâiere
+Ne-a fost todeauna
+Bunul Dumnezeu
+
+[order]
+s1,s2,s3,r1,s4,r1

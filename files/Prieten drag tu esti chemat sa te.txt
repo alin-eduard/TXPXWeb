@@ -1,0 +1,26 @@
+[s1]
+/: Prieten drag tu eşti chemat
+să te întorci cu-adevărat.
+La Cel ce te-a iubit mereu,
+întoarce-te la Dumnezeu. :/
+
+[r1]
+/: Nu pierde şansa de a fi
+cu Regele în veşnicii,
+Nu pierde şansa ce o ai
+să fii Dumnezeu în Rai. :/
+
+[s2]
+/: O şansă iată ţi s-a dat
+de azi să fii eliberat,
+Şi pe pământ cât mai trăieşti
+lui Dumnezeu să Îi slujeşti. :/
+
+[s3]
+/: Nu pierde şansa spune
+„Da! O Doamne schimbă viaţa mea,
+Eu vreau de-cum să fii mereu
+Isus Mântuitorul meu.” :/
+
+[order]
+s1,r1,s2,r1,s3,r1

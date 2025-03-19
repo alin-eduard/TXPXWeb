@@ -1,0 +1,26 @@
+[s1]
+Urmează-n toate lui Isus,
+Lasă calea acestei lumi.
+Nu mai rătăci prin lume,
+Nu umbla-n deşertăciuni.
+
+[r1]
+Urmează-n toate lui Isus
+Ziua, noaptea, ne-ncetat
+Pentru că a Lui sfânt sânge
+Pentru tine s-a vărsat.
+
+[s2]
+Cugetă că El S-a lăsat
+Să fie batjocorit,
+Fără vină crucificat,
+Ca să fii tu fericit!
+
+[s3]
+Ia, dar sus crucea lui Isus
+De ea nu te ruşina,
+Şi în cer când vei ajunge
+Fericire vei afla.
+
+[order]
+s1,r1,s2,r1,s3,r1

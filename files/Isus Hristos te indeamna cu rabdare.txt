@@ -1,0 +1,32 @@
+[s1]
+Isus Hristos, te îndeamnă cu răbdare
+Te cheamă blând să vii acum la El
+Nu lepăda a lui Isus chemare
+Ci fă un pas spre Dumnezeu
+
+[r1]
+/: Al tău păcat va fi iertat
+Isus îţi spune: Eu l-am purtat
+Acceptă acum, în dar, a mea iertare
+Şi te ridică din păcat :/
+
+[s2]
+Tu azi nu ştii când drumurile ţi sunt gata
+Şi nu ştii când Isus va reveni
+De aceea Îţi dau  cu drag încă o povaţă
+Mai fă un pas spre veşnicii.
+
+[s3]
+Încă un pas pe drumul vieţii,
+Incă un pas către Isus,
+Încă un pas şi vei ajunge
+Cu Dumnezeu, în ceruri,sus.
+
+[s4]
+Tu te întrebi, adesea cu mirare
+Şi nu-nţelegi de ce El te-a iubit,
+Să faci un pas, spre Cer, pe a ta cale
+Nu-I greu deloc, să ştii.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

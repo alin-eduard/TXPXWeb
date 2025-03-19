@@ -1,0 +1,31 @@
+[s1]
+1. /:Domnul e tăria mea
+Temeiul meu de laudă
+Voi cânta Domnului
+Căci și-a arătat slava.:/
+El e războinicul viteaz
+Dreapta își are tăria
+Cine e ca Tine Doamne
+Între dumnezei?
+Aleluia!
+1852           Do m
+
+[r1]
+Cor: /:El Shadai , Hacadosh
+Shalom Iehova Ire
+Dumnezeu Elohei
+Doar Ție îți dăm mărire.:/
+
+[s2]
+2. /:Cine e ca Tine Doamne
+Bogat în sfințenie
+Lăudat în ale Tale
+Fapte minunate.:/
+Ești Dumnezeul minunilor
+Vei împărăți în veac
+Să-I cântăm Domnului
+Căci și-a arătat slava!
+Aleluia!
+
+[order]
+s1,r1,s2,r1

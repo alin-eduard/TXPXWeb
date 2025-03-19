@@ -1,0 +1,33 @@
+[s1]
+1892                     Do m
+1. Este o zi de sărbătoare ,
+Cu toții noi am venit
+La locașul de-nchinare ,
+Căci dorim a Te sluji
+În ruga noastră înălțăm ,
+Privirea către ceruri sus
+Iar inimile ni le plecăm
+/:Căci dorim ca să ne-asculți:/
+
+[r1]
+Cor: Binecuvântă tineretul
+Binecuvântă și copii,
+Binecuvântă pe cei în vârstă,
+Binecuvântă biserica
+Binecuvântă adunarea
+Binecuvântă azi lucrarea
+Binecuvântă tot poporul
+Spre slava Ta.
+
+[s2]
+2. Îți mulțumim că ne iubești ,
+Când îți greșim Tu nu ne cerți
+Tu dragoste ades reverși ,
+O , Doamne cât de bun Tu ești
+Cu milă Tu mereu privești ,
+Povara grea Tu o  ridici
+Dai mângâiere-n ceasul greu
+/:Cu Tine vrem în veci să fim:/
+
+[order]
+s1,r1,s2,r1

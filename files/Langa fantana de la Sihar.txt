@@ -1,0 +1,36 @@
+[s1]
+Lângă fântâna de la Sihar,
+Sta Salvatorul şi-aşteapta iar.
+Soarele este spre asfinţit
+I-ai auzit glasul şi n-ai venit!
+/: Veniţi la ape! :/
+
+[r1]
+Voi, care-n arşiţă trăiţi,
+Destinul vostru e să vă scape;
+Fântâna este pe-aici, pe-aproape
+Veniţi la ape! Veniţi, veniţi!
+
+[s2]
+Răsună vestea, vestea cea bună
+„Isus Se află lângă fântână!"
+Şi cine vine, primeşte în dar
+Iubire sfântă, pace şi har.
+/: Veniţi la ape! :/
+
+[s3]
+Tu care-n nepăsare stai,
+Cu starea ta, nu intri-n Rai!
+Vino, primeşte-L, şi spune-apoi
+Celor ce caută izvoare noi:
+/: „Veniţi la ape!" :/
+
+[s4]
+Când apa vieţii tu ai primit,
+Cu-adevarat poţi fi fericit.
+Lucruri noi, sfinte nu vei afla
+Decât aici, în casa Sa.
+/: Veniţi la ape! :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

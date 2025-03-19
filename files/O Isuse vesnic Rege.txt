@@ -1,0 +1,32 @@
+[s1]
+O, Isuse, veşnic Rege,
+Preamărit Învingător,
+Cer, pământ Ţi se închină,
+Tu eşti Domnul tuturor.
+Cum să nu mă­nchin eu Ţie
+Plin de sfântă bucurie
+Dacă prin credinţa mea
+Pot primi puterea Ta?
+
+[s2]
+Când Te văd în cer la Tatăl,
+În mărire înălţat,
+Când Te văd slujit de îngeri,
+Lăudat, glorificat,
+Cum să nu mă­nchin eu Ţie
+Plin de sfântă bucurie,
+Când tresaltă ceru­ntins:
+Domnul meu în veci a­nvins!
+
+[s3]
+Raza Ta, o, sfinte Soare,
+Cu blândeţe m-a cuprins,
+Luminoasă şi fierbinte
+Ea fiinţa mi-a aprins!
+Eu mă­nchin de­acum doar Ţie,
+Domnul meu, cu bucurie,
+Slava mea doar Tu vei fi
+Şi aici şi­n veşnicii!
+
+[order]
+s1,s2,s3

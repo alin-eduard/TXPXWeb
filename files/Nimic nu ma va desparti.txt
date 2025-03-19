@@ -1,0 +1,32 @@
+[s1]
+Nimic nu mă va despărţi
+De dragostea lui Dumnezeu
+Căci la Golgota Fiul Său
+Muri pentru păcatul meu.
+Cum aş putea să răsplătesc
+Iubirea unui Fiu Ceresc?
+Viaţa mea Îi dăruiesc
+Şi-I cânt mereu că Îl iubesc.
+
+[r1]
+/: Nu-i nimic şi nimeni în lume
+Să ne poată despărţi
+Nu ne-nfrică iadul, nici moartea
+Pe Isus vrem să-L iubim.
+Nu-i nimic şi nimeni în lume
+Să ne poată despărţi
+Vrem cu Isus să fim în slavă
+Adă, Doamne, aceea zi! :/
+
+[s2]
+În viaţă cânt şi-s fericit
+Că-L am pe El şi-s mântuit
+El împlineşte ruga mea
+Mă ţine-n veci iubirea Sa.
+În viaţă-am fost împovorat
+Iubirea El mi-a arătat
+Povara, greul mi-a luat
+Isus, în veci fii lăudat.
+
+[order]
+s1,r1,s2,r1

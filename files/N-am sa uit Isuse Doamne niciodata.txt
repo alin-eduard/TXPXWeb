@@ -1,0 +1,30 @@
+[s1]
+N-am să uit Isuse Doamne, niciodată
+Din ce greu, prin ce minune m-ai scăpat;
+N-am să uit iubirea Ta nemăsurată,
+Dragostea şi grija Ta cea minunată,
+C-am fost mort şi din morţi m-ai înviat,
+Dintre morţi m-ai înviat.
+
+[s2]
+N-am să uit cum,
+când durerea era mare
+Şi-am strigat să nu mă laşi
+că nu mai pot,
+N-am să uit cum mi-ai răspuns,
+cu ce-ndurare,
+Cum în noaptea cea mai neagră
+de-ntristare,
+Mi-ai umplut de strălucire chipul tot,
+Strălucire – chipul tot.
+
+[s3]
+Astăzi am, Isuse Doamne, o primăvară
+Fără nori, şi fără plâns, şi fără chin;
+Să-ţi aduc a mulţumirii floare rară
+Revărsând întreaga inimii comoară
+Din potirul sfânt al rugăciunii, plin,
+Sfânt al rugăciunii, plin.
+
+[order]
+s1,s2,s3

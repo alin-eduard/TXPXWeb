@@ -1,0 +1,54 @@
+[s1]
+Mai fă un pas ‘nainte,
+creştine care azi,
+Eşti năpădit de gânduri,
+ce-ţi spun că o să cazi;
+Acum când tu te clatini,
+şi nu mai ai răspuns,
+Mai strânge-ţi azi puterea,
+şi cheamă-L pe Isus.
+
+[s2]
+Căci nici chiar pe tâlharul,
+La moarte condamnat,
+Când s-a căit pe cruce,
+/: Isus nu la lăsat. :/
+
+[s3]
+Mai fă un pas ‘nainte,
+chiar dacă eşti căzut,
+Şi vechii fraţi întruna,
+îţi spun că eşti pierdut;
+Acum când deznădejdea,
+te trage tot mai jos,
+Te chem ridică-ţi ochii,
+priveşte-L pe Hristos.
+
+[s4]
+Căci chiar şi pe Petru,
+Care s-a lepădat
+Când şi-a plâns păcatul,
+/: Isus nu la lăsat :/
+
+[s5]
+Mai fă un pas ‘nainte,
+o suflet disperat,
+Scriptura îţi şopteşte,
+că poţi să fii salvat;
+Atâta timp cât încă,
+te mai poţi pocăi,
+Scriptura vrea să-ţi spună,
+că tu nu vei muri.
+
+[s6]
+Căci orice om din lume,
+oricât de păcătos
+Dacă se pocăieşte,
+/: îl v-a primi Hristos :/
+Căci nici chiar pe tâlharul,
+la moarte condamnat
+Când s-a căit pe cruce,
+/: Isus nu la lăsat :/
+
+[order]
+s1,s2,s3,s4,s5,s6

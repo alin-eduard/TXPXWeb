@@ -1,0 +1,43 @@
+[s1]
+Cînd privesc Soarele, Luna, stelele
+Universul aşa de sublim
+Mă aşez pe genunchi,
+Domnului mă închin
+Şi-L proclam Creator sfînt, divin.
+Prin Cuvîntul Lui sfînt toate le-a creat
+Cu înţelepciune El
+Din viaţa Lui viaţă şi nouă ne-a dat
+Numele Lui fie-n veci lăudat.
+
+[r1]
+Tot Pămîntul să-L laude pe Domnul
+Neamurile să I se închine Lui !
+Pentru-a Sa minunată lucrare
+Căci în veac ţine îndurarea Lui
+Tot Pămîntul să cînte mărire
+Creatorului sfînt, mulţumire
+Pentru dragostea Lui fără de sfîrşit
+Căci în veac ţine îndurarea Lui !
+
+[s2]
+Lăudaţi pe Domnul, căci este bun
+Căci în veac ţine îndurarea Lui !
+Pe Cel ce singur face minuni
+Căci în veac ţine îndurarea Lui !
+Lăudaţi pe Dumnezeul dumnezeilor
+Căci în veac ţine îndurarea Lui !
+Pe Cel ce-a făcut cerurile mari
+Căci în veac ţine îndurarea Lui !
+
+[s3]
+Lăudaţi pe Domnul Domnilor
+Căci în veac ţine îndurarea Lui !
+Pe Cel ce-a întins pămîntul pe mări
+Căci în veac ţine îndurarea Lui !
+Lăudaţi pe Dumnezeul cerurilor
+Căci în veac ţine îndurarea Lui !
+Pe Cel ce dă hrană oricărei făpturi
+Căci în veac ţine îndurarea Lui !
+
+[order]
+s1,r1,s2,r1,s3

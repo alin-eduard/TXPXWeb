@@ -1,0 +1,51 @@
+[s1]
+2090
+Cor: Bucuria noastră sfântă
+Vine din cer de sus
+Ne alină suferința un dar de la Isus
+Ne-a dat-o tuturora numai
+să o primim
+Să arătăm la alții, c-a dat-o pe deplin
+
+[s2]
+1. /: Și-a revărsat iubirea
+Din locul veșniciei
+Ne-a arătat menirea
+Și rostul bucuriei.:/
+
+[r1]
+Cor: Bucuria noastră sfântă
+Vine din cer de sus
+Ne alină suferința un dar de la Isus
+Ne-a dat-o tuturora numai
+să o primim
+Să arătăm la alții, c-a dat-o pe deplin
+
+[s3]
+2. /:Ne-o dă chiar în necazuri
+Ca să nu disperăm
+Când El revarsă harul
+Cu toții ne bucurăm :/
+
+[s4]
+3. /: Când diavolul răcnește
+Cu-ntreaga lui furie
+Isus ne întărește
+Cu dulcea-i bucurie :/
+
+[s5]
+4. /: Promis-a chiar Isus
+Că El în veșnicie
+Ne-a da în ceruri Isus
+Deplină bucurie. :/
+
+[s6]
+Cor: Bucuria noastră sfântă
+Vine din cer de sus
+Ne alină suferința un dar de la Isus
+Ne-a dat-o tuturora numai
+să o primim
+Să arătăm la alții, c-a dat-o pe deplin.
+
+[order]
+s1,s2,r1,s3,r1,s4,r1,s5,s6

@@ -1,0 +1,67 @@
+[s1]
+1773.
+1. Azi  e zi mare, zi de sărbătoare
+Când la închinare
+Doi tineri au venit
+Ca-ntr-o grădină de buchete plină
+Într-o lumină doi crini s-au însoţit
+/:Fraţilor, surorilor,
+În rugăciune toţi să ne unim
+Fraţilor, surorilor, un gând,
+Un suflet şi un duh să fim:/
+
+[s2]
+2. Soră mireasă, tu să fii duioasă
+O floare-aleasă, o mamă-n Israel
+Să fii domniţă, albă porumbiţă
+Un rug de viaţă, cu rod bogat pe el
+/:Fraţilor, surorilor,
+În ascultare, toţi să ne unim
+Fiilor, iubiţilor un dor cu cântec
+Şi un duh să fim:/
+
+[s3]
+3. Tu surioară, fii o floare rară
+Ca odinioară, Sara cu gândul umil
+Ca Ana-n şoaptă,
+Ruga-n sus ţi-o-ndreaptă
+Şi înţeleaptă fii ca Abigail
+/:Fraţilor, surorilor,
+În umilinţă toţi să ne unim
+Fraţilor, părinţilor, un Domn,
+O turmă şi un duh să fim:/
+
+[s4]
+4. Tu, frate mire, poartă-te-n iubire
+Toţi să se mire de duhul tău supus
+Dragostea voastră,
+Să-nflorească-n glastră
+O floare albastră din raiul lui Isus
+/:Fraţilor, surorilor,
+În duioşie toţi să ne unim
+Fraţilor, bătrânilor, un crez,
+Un cuget şi un duh să fim:/
+
+[s5]
+5. Tu, frate, iată fii în viaţa toată
+Soţ bun şi tată
+Ca Iacov cel pribeag
+În încercare, ca Avraam cel tare
+Scut de-apărare, ca David la Ţiclag
+/:Fraţilor, surorilor,
+În lupta sfântă toţi să ne unim
+Mamelor, surorilor, un glas,
+O rugă si un duh să fim:/
+
+[s6]
+6. Voi, flori curate, binecuvântate
+Să fiţi în toate de Tatăl cel duios
+Ca o dovadă, cei ce vor să creadă
+În voi să vadă iubirea lui Hristos
+/:Fraţilor, surorilor,
+În mărturie toţi să ne unim
+Crinilor, iubiţilor,
+În toată lumea harul să-l vestim:/
+
+[order]
+s1,s2,s3,s4,s5,s6

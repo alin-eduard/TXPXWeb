@@ -1,0 +1,37 @@
+[r1]
+Iubirea sfarm-a armelor putere
+Si le transforma-n fiare pentru plug
+Iubirea-i vesnica ea-n veci nu piere
+Ea va zdrobi al urii vesnic jug!
+Iubirea va suda intreg pamintul;
+Intre popoare, pacea va domni,
+Caci imparatul lumii va fi Domnul,
+Al nostru domn Isus, din vesnicii!
+Si atunci pe pamint va fi ca in rai;
+Pacea va domni si nu va mai fi razboi
+Saviile lor se voi sfarima
+Si atunci peste tot va domni dragostea
+
+[s1]
+O mie de ani va fi pace pe pamint
+Cind mirele va veni, mirele cel sfint
+Satana va fi legat, o mie de ani;
+In al lui Isus regat, n-or mai fi dusmani!
+
+[s2]
+Lupul va sta linga miel si se vor juca;
+Leul va minca la fel iarba, ca vita.
+Nici un rau nu va mai fi,
+pe muntele sfint,
+Caci Domnul va-mparati,
+pe intreg pamint!
+
+[s3]
+Din pamint va rasari neprihanirea;
+Din ceruri, jos va veni dumnezeirea.
+Dumnezeu va fi cu noi!
+O, ce minunat!
+Si nu va mai fi razboi, caci s-a terminat!
+
+[order]
+r1,s1,r1,s2,r1,s3,r1

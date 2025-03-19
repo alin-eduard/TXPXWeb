@@ -1,0 +1,32 @@
+[s1]
+Cu voia ta, ţi-alegi în viaţă
+Tot ce îţi pare mai plăcut;
+De-alegere atârnă-n faţă
+Destinul veşnic ne'ntrerupt.
+
+[r1]
+/: Cu voia ta, ţi-alegi salvarea:
+Isus o are pe deplin!
+Crezând în El, primeşti iertarea,
+Eşti mântuit prin har divin. :/
+
+[s2]
+Cu voia ta iti poti alege
+Chiar azi a mantuirii zi
+Nu amana caci poti culege
+Cu-amar regretele tarzii
+
+[s3]
+Tu ai venit, în astă lume,
+Sărman şi fără voia ta;
+La fel pleca-vei, făr-a spune
+Că nu voieşti să pleci din ea.
+
+[s4]
+Cu voia ta, acum primeşte
+Chemarea Domnului slăvit!
+Doar singur El te mântuieşte!
+Doar El te face ferict!...
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

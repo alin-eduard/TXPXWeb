@@ -1,0 +1,47 @@
+[s1]
+1341.Fa
+1.  Ce mult aştept aceia zi
+Când Tu din slavă vei veni
+/: Cu Tine Doamne-n veci să fim
+Şi să nu ne mai despărţim:/.
+
+[s2]
+2.  Să ne-ntâlnim cu toţii-n nori
+Împreună fraţi şi surori
+/: Şi să zburăm spre veşnicii
+Către eterne bucurii:/.
+
+[s3]
+3.   O Doamne-adu aceia zori
+Acele veşnice splendori
+/: Aceia zi noi o dorim
+Şi de departe o privim
+Aceia zi noi o dorim
+Şi de departe o zărim:/.
+
+[s4]
+4.  Ajută-ne în încercări
+Stai lângă noi în întristări
+/: Să ne păstrăm Doamne curaţi
+Până la cer vom fi luaţi
+Să ne păstrăm Doamne curaţi
+Până la cer vom fi chemaţi:/.
+
+[s5]
+5.  Ierusalim locaş ceresc
+Locaş Preasfânt Dumnezeiesc
+/: Îmi arde doru-aprins în piept
+De câtă vreme te aştept
+Mi-aşa de dor, mi-aşa de dor
+Spre Tine-odată vreau să zbor:/
+
+[s6]
+6.  Aş vrea să zbor spre-acele zări
+Să uit de lacrimi şi dureri
+/: În strălucire de nespus
+Unde-n împărat va fi Isus
+Cu Daniel şi Avraam
+Cântând în noul Canaan : /
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,26 @@
+[s1]
+2174
+Cor: /: Noi vom cânta Domnului Vom slăvi doar pe El
+Vom înălţa numele Lui, Stânca lui Israel :/.
+1. El e vrednic să fie înălţat, El e vrednic să fie lăudat.
+
+[s2]
+Cor: /: Noi vom cânta Domnului Vom slăvi doar pe El
+Vom înălţa numele Lui, Stânca lui Israel :/.
+2. Toată slava e a Domnului, cinstea şi gloria sunt
+spre slava Lui.
+
+[s3]
+Cor: /: Noi vom cânta Domnului Vom slăvi doar pe El
+Vom înălţa numele Lui, Stânca lui Israel :/.
+3. Toată lauda pentru Dumnezeu
+Mărire şi înălţare
+doar numelui Său.
+
+[s4]
+Cor: /: El e vrednic să fie înălţat, El e vrednic să fie lăudat
+Toată slava e a Domnului, Cinstea şi gloria
+sunt spre slava Lui :/.
+
+[order]
+s1,s2,s3,s4

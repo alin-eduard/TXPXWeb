@@ -1,0 +1,28 @@
+[s1]
+/: Poporaşul Meu,
+poporaşul Meu, trezeşte-te :/
+Trezeşte-te nu dormi,
+iată, iată, vine Mirele
+
+[s2]
+/: Ia-ţi haina curată,
+Duhul cel din slavă, Duhul Sfânt :/
+Că de mult Eu tot aştept
+a Mea nuntă ca să încep
+
+[s3]
+/: Şi-am să stau la masă
+cu a Mea Mireasă, sus în cer :/
+Şi-am să-i cânt din harfe
+vii cele mai frumoase melodii
+
+[s4]
+Oastea cea din cer
+Va-ntreba pe Miel de unde vine,
+Iar El le va raspunde
+’’Vin de pe pamant, jos, din necaz
+Iar de-acuma, s-a terminat,
+Caci ei hainele si le-au spalat.’’
+
+[order]
+s1,s2,s3,s4

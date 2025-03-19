@@ -1,0 +1,38 @@
+[s1]
+S-a-nspăimîntat stăpînul lumii
+La glasul blîndului profet.
+/:Şi un duşman văzu în Fiul
+Dulgherului din Nazaret:/
+
+[s2]
+El n-a venit să răzvrătească,
+Nu vrea pieirea nimănui.
+/:Desculţ, pe jos, colindă lumea,
+Şi mulţi hulesc numele Lui:/
+
+[s3]
+Urască-L cei fără de lege,
+Ce-I pasă Lui de ura lor?
+/:El a venit s-aducă pace
+Şi înfrăţire tuturor:/
+
+[s4]
+Şi mulţi cu pietre Îl alungă,
+Şi zic de El c-ar fi-ndrăcit.
+/:Dar El zîmbeşte tuturora,
+Atotputernic şi smerit:/
+
+[s5]
+El orbilor le dă vedere,
+Şi muţilor le dă cuvânt.
+/:Pe cei bolnavi îi întăreşte,
+Pe morţi îi scoală din mormînt:/
+
+[s6]
+Iar voi ce-aţi plîns în întuneric,
+Şi nimeni nu v-a mîngîiat,
+/:Din lunga voastă zbuciumare,
+Sculaţi, Cristos a înviat!:/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,34 @@
+[s1]
+În cer s-a născut fericirea,
+/: în cer :/
+Tot acolo s-a născut şi iubirea,
+/: în cer :/
+
+[r1]
+/: Melodii, melodii, sfinte melodii
+Sunt în cerul minunat. :/
+
+[s2]
+Dar aici fericirea-i de-o clipă,
+/: e de-o clipă :/
+Iar în ceruri ea este veşnică,
+/: e veşnică. :/
+
+[s3]
+Nu uita că Hristos, din cer,
+/: din cer :/
+Ţi-a adus fericirea din cer,
+/: din cer. :/
+
+[s4]
+Dacă vrei să cânţi în cor minunat,
+/: în cer :/
+Fă ce Domnul ţie ţi-a ordonat,
+/: prin Scripturi. :/
+
+[s5]
+/: Şi atunci melodii, sfinte melodii,
+Vei cânta-n cor minunat.:/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5

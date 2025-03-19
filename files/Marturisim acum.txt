@@ -1,0 +1,23 @@
+[r1]
+Marturisim acum ca suntem slabi
+Asa de slabi dar Tu esti Domn
+Chiar daca n-avem nimic
+Sa-Ti oferim
+Venim si iti spunem:
+Doamne-ajutane!
+
+[r2]
+O inima care e zdrobita
+Nicicand n-o vei refuza
+Inima Ta bate plina de mila pentru noi
+Sa curga raul din Duhul Tau
+Doamne Te rugam
+
+[r3]
+/: Lasa mila Ta sa cada
+Sa curga mila Ta din cer
+E noua zi de zi
+O, lasa sa cada peste noi :/
+
+[order]
+r1,r2,r3,r1,r2,r3

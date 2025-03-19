@@ -1,0 +1,39 @@
+[s1]
+1502.
+1.Spune daca poţi tu astăzi
+Să marturiseşti aşa
+Tot trecutul tău lui Isus
+Cum Zacheu Lui ii spunea .
+
+[s2]
+2.  Spune daca poţi tu astăzi
+Ca sa spui adevărat
+Că in viaţa ta intreaga
+Pe nimeni n-ai inşelat .
+
+[s3]
+3.Spune dacă poţi acuma
+Ca să faci ca şi Zacheu
+Să nu ţii la avuţie
+Să-L iubeşti pe Dumnezeu .
+
+[s4]
+4.  Spune dacă poţi creştine
+Ca Zacheu sa zici aşa
+Doamne din a mea avere
+La săraci jumate-oi da .
+
+[s5]
+5.  El a spus că va intoarce
+De la sine impătrit
+Spune tu cat poţi creştine
+Să-i intorci celui lipsit .
+
+[s6]
+6.   La statură sa fii mare
+Iar la suflet ca Zacheu
+Să trăieşti in umilinţă
+Să-i slujeşti lui Dumnezeu .
+
+[order]
+s1,s2,s3,s4,s5,s6

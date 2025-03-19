@@ -1,0 +1,39 @@
+[s1]
+1555.
+1. De ce n-ai plâns când ți-am cântat
+De ce-ai plecat când te-am chemat
+/: Şi azi pe drum îndepărtat
+Tu rătăceşti de Mine :/
+
+[s2]
+2. De atâţia ani te-am sfătuit
+Te-am vindecat şi te-am lovit
+/: Să simţi aşa cum am simţit
+Pe cruce pentru Tine :/
+
+[s3]
+3. Îţi pregătesc un loc frumos
+În cerul sfânt şi luminos
+/: Dar ieşi din hanu-ntunecos
+Ieşi astăzi la lumină :/
+
+[s4]
+4. Tu inima Mi-ai dat în dar
+Să fac al templului altar
+/: Dar Mi-ai luat-o şi în dar
+Ai dat-o tuturor :/
+
+[s5]
+5. Poporul Meu atâta voi
+Să-Mi dai tu inima n-apoi
+/: Să vă unesc doi câte doi
+Aşa cum sunt cu Tatăl :/
+
+[s6]
+6. Căci vremea este pe sfârşit
+Vei fi bătut şi chinuit
+/: Şi alungat de pe pământ
+Tu unde ai să pleci :/
+
+[order]
+s1,s2,s3,s4,s5,s6

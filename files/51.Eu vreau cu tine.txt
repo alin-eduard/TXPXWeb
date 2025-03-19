@@ -1,0 +1,57 @@
+[s1]
+1. Eu vreau cu Tine
+Numai cu Tine
+Numai pe Tine
+Să te iubesc.
+51.               Mi m
+
+[r1]
+Cor: Inima-mi bate
+Sufletu-mi cântă
+De bucurii sunt plin
+Când sunt cu Tine.
+
+[s2]
+2. În întristare
+Cânt o cântare
+Ca să-L preamăresc
+Pe Domnul meu.
+
+[s3]
+3. Când sunt cu Tine
+Lacrimi suspine
+Grija-ntristarea
+Toate le uit
+
+[s4]
+4. A Ta blândeţe
+Şi frumuseţe
+A Ta iubire
+Scuturi îmi sunt
+
+[s5]
+5. Când sunt cu Tine
+În rugaciune
+Uit că trăiesc
+Pe acest pământ
+
+[s6]
+6. De-i zi sau seară
+Îmi-nalţ cântarea
+De-i întuneric
+Sau noapte grea
+
+[s7]
+7. De-i vânt, furtună
+Sau vreme bună
+De sunt dureri
+Sau apăsări
+
+[s8]
+8. Ah, nu mă satur
+De-ale Tale sfaturi
+Isuse al meu
+Cât eu Te iubesc.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1,s8,r1

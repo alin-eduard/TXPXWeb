@@ -1,0 +1,58 @@
+[s1]
+1521.
+1. Când credincioşii aceia s-au rugat
+Şi locul acela s-a cutremurat
+Ei au cerut atunci în rugăciuni
+Să facă Domnul semne şi minuni.
+Cor: Cu ajutorul Duhului Sfânt
+Biserica se înmulţea
+Şi tot mai  tare ea creştea
+Prin semne şi prim mărturii
+În fiecare zi.
+
+[s2]
+2. La poarta cea frumoasă când s-au dus
+Ei au chemat numele lui Isus
+Ologul în picioare a sărit
+Şi-n faţa lor el s-a tămăduit.
+Cor: Cu ajutorul Duhului Sfânt
+Biserica se înmulţea
+Şi tot mai  tare ea creştea
+Prin semne şi prim mărturii
+În fiecare zi.
+
+[s3]
+3. Isus Hristos i-a binecuvântat
+Şi mulţi bolnavi prin ei s-au vindecat
+Căci până şi prin umbra lor era
+Puterea şi tămăduirea Sa.
+Cor: Cu ajutorul Duhului Sfânt
+Biserica se înmulţea
+Şi tot mai  tare ea creştea
+Prin semne şi prim mărturii
+În fiecare zi.
+
+[s4]
+4. Prin Duhul Sfânt când Petru a predicat
+Trei mii de oameni atunci s-au predat
+Iar după aceia într-o altă zi
+Se mai predară încă două mii.
+Cor: Cu ajutorul Duhului Sfânt
+Biserica se înmulţea
+Şi tot mai  tare ea creştea
+Prin semne şi prim mărturii
+În fiecare zi.
+
+[s5]
+5. Iar când prigoana s-a dezlănţuit
+Ei prin cetăţi au mers şi au vestit
+Au străbătut pe ape şi pe uscat
+Şi la Hristos pe oameni i-a chemat.
+Cor: Cu ajutorul Duhului Sfânt
+Biserica se înmulţea
+Şi tot mai  tare ea creştea
+Prin semne şi prim mărturii
+În fiecare zi.
+
+[order]
+s1,s2,s3,s4,s5

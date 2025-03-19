@@ -1,0 +1,26 @@
+[s1]
+1.Astăzi aici mâine unde-i fi
+Nu ştii oare că tu vei muri   Nimeni în lume veste nu-ţi va da
+Când crunta moarte te-a căuta
+1597
+
+[s2]
+2.O cât este de nechibzuit
+Sufletul de nu e pregătit
+Căci atunci când nu s-aştepta
+Vine moartea şi-l va secera
+
+[s3]
+3.Pe acest pământ călători suntem
+Vine moartea când n-o aşteptăm
+Să ne-ntoarcem vreme n-om avea
+Vine Isus a ne judeca
+
+[s4]
+4.Tot sufletul de s-ar pocăi
+Pacea Domnului de ar primi
+O viaţă şi un loc glorios
+Va fi plata celui credincios
+
+[order]
+s1,s2,s3,s4

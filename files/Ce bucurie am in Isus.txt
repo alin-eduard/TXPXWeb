@@ -1,0 +1,26 @@
+[s1]
+Ce bucurie am în Isus!
+O viaţă nouă El mi-a adus.
+Ce moştenire mi-a dăruit,
+Şi pe vecie m-a mântuit.
+
+[r1]
+În veci cânta-voi că-s fericit:
+Isus pe cruce m-a mântuit!
+În veci aceasta eu voi cânta:
+“Te-ador, Isuse, eşti viaţa mea!”
+
+[s2]
+Cu bucurie inima mea
+Una cu Domnul să fie ar vrea.
+El pace sfântă imi dă din plin,
+Înviorat sunt prin har divin.
+
+[s3]
+Ce fericit sunt şi liniştit,
+Pe braţul Lui mă simt odihnit.
+Eu ştiu prea bine si spun mereu:
+“Domnul e viaţa si e al meu!”
+
+[order]
+s1,r1,s2,r1,s3,r1

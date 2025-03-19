@@ -1,0 +1,36 @@
+[s1]
+Un cântec nou cânt tuturor,
+De când am fost salvat
+El spune de-al meu Salvator
+Ce m-a răscumpărat.
+
+[r1]
+De când El m-a salvat,
+De când El m-a salvat
+Eu cânt neîncetat
+Că iertarea Sa mi-a dat.
+Isus e minunat,
+Isus e minunat,
+Îl slăvesc pe veci
+Şi-L preamăresc.
+
+[s2]
+Am viaţă nouă-n moartea Sa,
+De când am fost salvat
+Şi veselia-i partea mea
+Căci sunt răscumpărat.
+
+[s3]
+Acum sunt foarte mulţumit,
+De când am fost salvat
+Şi să-L ascult sunt mulţumit
+Căci totul El mi-a dat.
+
+[s4]
+O casă nouă am în cer,
+De când am fost salvat
+M-aşteaptă glorii ce nu pier
+Căci sunt pe veci iertat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

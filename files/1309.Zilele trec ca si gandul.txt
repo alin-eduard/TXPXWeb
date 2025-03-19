@@ -1,0 +1,43 @@
+[s1]
+1309.
+1.  Zilele trec ca şi gândul
+Anii vieţii trec în şir
+Dar pe plaiurile vieţii
+Zi de zi se ţese un fir.
+Pe războiul vieţii Tale
+Fire albe s-au urzit
+Hristos Domnul cu-a Lui mână
+Firul Tău la nividit.
+
+[s2]
+2.  Deci ai grijă şi veghează
+La orice faptă şi cuvânt
+Ca suveica mereu ţese
+În pânza vieţii rând pe rând.
+Când tu cercetezi săracul
+Şi un bine l-ai făcut
+Fire albe şi curate
+În pânza vieţii ai ţesut.
+
+[s3]
+3.  Pe cărarea vieţii sfinte
+Ţese-ntruna dragul meu
+Firele de rugăciune
+Şi cântări lui Dumnezeu.
+Pânza vieţii e o taină
+Ea cuprinde mersul tău
+Tot ce faci în lumea asta
+De faci bine, de faci rău.
+
+[s4]
+4.  Nu uita că mâine poate
+Firul vieţii s-a găta
+Din războiul vieţii tale
+Pânza ta se va lua.
+Vei vedea în veşnicie
+Ce ai lucrat jos pe pământ
+Pânza vieţii o să-ţi arate
+Orice faptă şi cuvânt.
+
+[order]
+s1,s2,s3,s4

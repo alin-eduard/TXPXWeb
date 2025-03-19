@@ -1,0 +1,37 @@
+[s1]
+Semnele cerului
+Pământului vestesc
+Că Isus vine în curând
+Oastea lui nenumărată îl aşteaptă  Pe Isus să vină în curând
+841.
+Cor: O vino Doamne, ia-mă la Tine
+Ca Tu să-mi schimbi viaţa
+Să-ţi pot vedea faţa
+Colo sus în slava sa.
+
+[s2]
+2. De aceea sus fraţilor
+Toţi cu o credinţă
+Isus vine în curând
+La semnele credinţei
+Candelele aprinse
+Isus vine în curând.
+Cor: O vino Doamne, ia-mă la Tine
+Ca Tu să-mi schimbi viaţa
+Să-ţi pot vedea faţa
+Colo sus în slava sa.
+
+[s3]
+3. La lucru sus fraţilor
+Nu fiţi nepăsători
+Isus vine în curând
+Mulţimea sufletească
+Să se pocăiască
+Isus din nou va veni.
+Cor: O vino Doamne, ia-mă la Tine
+Ca Tu să-mi schimbi viaţa
+Să-ţi pot vedea faţa
+Colo sus în slava sa.
+
+[order]
+s1,s2,s3

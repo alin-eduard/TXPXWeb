@@ -1,0 +1,25 @@
+[s1]
+Când seninul mi se stinge am speranţă
+Strig la Domnul meu din ceruri El dă viaţă
+Strig cu lacrimi către Isus când mi-e greu    Cu iubire mă mângâie, Domnul meu
+1.
+1256    Mi m
+Când pe trup eu am o rană dureroasă
+Domnul vine şi mi-o leagă, nu mă lasă
+Şi durerea mi-o alină el degrabă
+Domnul meu cu drag mângâie orice rană
+2.
+
+[s2]
+Al meu suflet când oftează de durere
+Ochii mei când lăcrimează el mi-i şterge
+Când pe calea mea îngustă cad în groapă
+Domnul vine cu iubire şi mă scapă
+3.
+Eu aştept şi am speranţă că El vine
+Va veni să-şi ia mireasa şi pe mine   O ce mare bucurie când pe norul
+Ne va duce-n cer acasă Salvatorul.
+4.
+
+[order]
+s1,s2

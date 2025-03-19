@@ -1,0 +1,16 @@
+[s1]
+1
+Condu pasii mei
+Să nu mai rătăcesc
+Condu pasii mei
+Să pot să te urmez (2x)
+
+[s2]
+2
+Inima-mi strigă spre Tine
+Râmăi lângă mine mereu
+O, Domnul meu
+Condu paşii mei
+
+[order]
+s1,s2

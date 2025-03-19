@@ -1,0 +1,37 @@
+[s1]
+Ai deschis cerul Tău, ai lăsat slava Ta
+Si-ai venit pentru mine un biet păcătos
+M-ai iubit aşa mult c-ai murit la calvar
+Să deschizi ochii mei să-nţeleg şi să te slăvesc.
+Do M
+
+[r1]
+/: Pentru cântec speranţă şi rază de soare
+Lumină şi pace pe-a mea cărare
+Pentru tot ce Tu îmi dai, mulţumesc.
+Pentru zâmbetul Tău înscris printre stele
+Mângâierea Ta în clipele grele
+Pentru dragostea Ta revărsată în mine
+Mă închin, recunosc că eşti Domn
+şi rostesc mulţumesc . :/
+
+[s2]
+Ce-aş putea să îţi dau
+pentru tot ce-ai făcut pentru min’
+Iţi dau toată inima mea
+Eu te laud îţi cânt că eşti rege suprem
+Si voi sta-n casa Ta până când voi muri!
+
+[s3]
+/: Pentru harul măreţ revărsat peste mine,
+Iubirea şi pacea oferite de Tine
+pentru tot ce Tu îmi dai, multumesc!
+Pentru Duhul Tău Sfânt
+ce l-ai pus peste mine
+Alinarea ce-mi dai când sunt lângă Tine
+Pentru jertfa Ta de răscumpărare
+Mă închin, recunosc că eşti Domn
+şi rostesc: „mulţumesc!”. :/
+
+[order]
+s1,r1,s2,s3,r1

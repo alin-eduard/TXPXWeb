@@ -1,0 +1,50 @@
+[s1]
+Pe marea vietii, singur trec si astazi;
+Si urla valurile ne-ncetat.
+/: Sunt singur azi in mijlocul furtunii:
+Isuse scump, ah, unde ai plecat? :/
+
+[s2]
+E marea vietii-atat de fioroasa
+Si valuri mari izbesc din nou;
+/: Ma chinuie amarnic necredinta
+Si-n mare-ncep sa ma scufund mereu :/
+
+[s3]
+O, Doamne, incercarea este mare.
+Botezul focului e-ngrozitor,
+/: Astept s-apara-n fata o salvare:
+Ah, unde esti, al meu Izbavitor? :/
+
+[s4]
+De ce-ai plecat, Isuse de la mine?
+De ce Ti-ai parasit copilul Tau?
+/: Te chem si azi cu ochi plini de lacrimi,
+Sa fiu curat, predat, pe veci al Tau! :/
+
+[s5]
+O indoiala ma cuprinde, doamne,
+Si mangaiere-n lume nu gasesc,
+/: Degeaba vreau s-alerga l-ai mei prieteni
+Sunt slabi si ei si toti ma parasesc :/
+
+[s6]
+De ce-ai plecat, Isuse, de la mine?
+O, pentru ce m-ai parasit de tot?
+/: As vrea sa-mi vars focul inimi mele:
+Ah, unde estei, al meu Mantuitor? :/
+
+[s7]
+De ma iubesti, mai fie-Ti mila, Doamne!
+Intinde-Ti bratul Tau izbavitor!
+/: De nu scapi, Isuse drag, acuma,
+La cine voi fugi dup-ajutor? :/
+
+[s8]
+Isuse scump, din tara-ndepartata,
+Te chem mereu: ,,O, vino, vino azi!
+/: Nu  ma lasa, pe marea vietii, singur!’’
+Te chem mereu, cu lacrimi pe obraz, :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

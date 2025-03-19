@@ -1,0 +1,26 @@
+[s1]
+De ce nu vii ca să ne iei la Tine,
+De ce nu vii cum ne-ai făgăduit,
+Sau mai aştepţi că poate tot mai vine,
+Vreun suflet ce mai e de mântuit!
+Sau mai aştepţi că poate tot mai vine,
+Vreun suflet ce mai e de mântuit!
+
+[s2]
+Da, Tu doreşti a lumii mântuire,
+Eşti milostiv şi-a toate răbdător,
+Căci Tu nu vrei să moară-n rătăcire
+Un singur suflet fără Salvator.
+Căci Tu nu vrei să moară-n rătăcire
+Un singur suflet fără Salvator.
+
+[s3]
+O, vino Doamne, cu a Ta mărire,
+O, vino iar cum ne-ai făgăduit,
+Să-ntemeiezi în pace şi iubire
+A Ta domnie fără de sfârşit!
+Să-ntemeiezi în pace şi iubire
+A Ta domnie fără de sfârşit!
+
+[order]
+s1,s2,s3

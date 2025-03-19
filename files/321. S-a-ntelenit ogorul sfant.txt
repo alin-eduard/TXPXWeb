@@ -1,0 +1,76 @@
+[s1]
+1. S-a-nţelenit ogorul sfânt
+E plin de pălămidă
+Cresc ierburi multe fel de fel
+Sămânţa-i năpădită
+321.
+Sol
+
+[s2]
+Ce faceţi voi care lucraţi
+De staţi în nepăsare
+Când se va cere ce aţi lucrat
+Ce veţi răspunde oare.
+
+[s3]
+2. E plină via Mea de spini
+Şi păzitori nu are
+Căci ei veghind au adormit
+Ah via struguri n-are
+
+[s4]
+De ce v-a pus El păzitori?
+Să staţi în adormire
+De ce nu vreţi ca să vegheaţi
+Iată că Domnul vine.
+
+[s5]
+3. Când în grădină iarăşi vin
+Să-mi număr pomii rodnici
+O vai, omida i-a umplut
+De roade nu sunt vrednici
+
+[s6]
+Ce faceţi voi care lucraţi
+O unde staţi acum
+De ce-s atâţia pomi uscaţi
+Şi roadă n-au niciunul.
+
+[s7]
+4. Mă doare pentru robul meu
+Că nu vrea să vegheze
+E timpul chiar din urmă acum
+Şi nu vrea să lucreze
+
+[s8]
+Fecioare unde sunteţi voi
+Cum de n-aţi stat de veghe
+Cum locul vi l-aţi părăsit
+Şi nu aveţi putere.
+
+[s9]
+5. Vă deşteptaţi voi ce dormiţi
+În somnul nepăsării
+Vă cercetaţi cât aţi lucrat
+E ceasul deşteptării
+
+[s10]
+De veţi lucra pân' la sfârşit
+Veghind în aşteptare
+Răsplata vă va da El sus
+Nu murmuraţi pe cale.
+
+[s11]
+6. Din somn treziţi-vă acum
+Vegheaţi făr' încetare
+Luptaţi, vegheaţi şi vă rugaţi
+Iată Isus apare
+
+[s12]
+Lucraţi cu râvnă-n via Sa
+Luptaţi lupta cea bună
+Răbdaţi prin vânturi şi furtuni
+Şi veţi primi cununa.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12

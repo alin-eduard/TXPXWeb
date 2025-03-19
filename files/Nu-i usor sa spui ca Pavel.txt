@@ -1,0 +1,32 @@
+[s1]
+Nu-I usor sa spui ca Pavel
+Mi-am sfarsit calatoria
+Ma asteapta o cununa
+Ma asteapta vesnicia
+Nu-I usor dar se merita
+Sa-I slujim cu daruire
+/:Caci la capat ne asteapta
+O frumoasa mostenire:/
+
+[s2]
+De-ai vedea ce ne asteapta
+Cand vom ajunge acasa
+De-ai vedea Ierusalimul
+Ce-I gatit ca o mireasa
+N-ai mai sta deloc pe ganduri
+N-ai mai sta pe la rascruce
+/:Ci ai porni inspre Golgota
+Pe unde-a calcat Isus;/
+
+[s3]
+Ce-ntalnire minunata
+Va fi in ziua glorioasa
+Ce primire-n vesnicie
+Pregatita de Isus
+Cerul e plin de osanale
+Indreptate spre Isus
+/:Vom canta de bucurie
+In a Lui Imparatie:/
+
+[order]
+s1,s2,s3

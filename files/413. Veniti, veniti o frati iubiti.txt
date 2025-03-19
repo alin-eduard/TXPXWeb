@@ -1,0 +1,50 @@
+[s1]
+413.
+1.Veniţi, veniţi o fraţi iubiţi,
+Veniţi, veniţi
+O viaţă nouă să trăiţi,
+Veniţi, veniţi
+
+[s2]
+Aşa cum Domnul ne-a învăţat,
+Veniţi, veniţi
+Când El prin lume a umblat,
+Veniţi, veniţi.
+
+[s3]
+2.Ne cheamă blândul nostru Miel,
+Veniţi, veniţi
+Cu toţi să mergem după El,
+Veniţi, veniţi
+
+[s4]
+Căci în necazuri şi dureri,
+Veniţi, veniţi
+La El găsim dulci mângâieri,
+Veniţi, veniţi.
+
+[s5]
+3.Veniţi cu toţi pe acest pământ,
+Veniţi, veniţi
+Urmaţi al Domnului cuvânt,
+Veniţi, veniţi
+
+[s6]
+Feriţi-vă de orice rău,
+Veniţi, veniţi
+Să nu-l mâhniţi pe Dumnezeu,
+Veniţi, veniţi.
+
+[s7]
+4.Că El pe noi mult ne-a iubit,
+Veniţi, veniţi
+Şi pentru noi a suferit, /: veniţi :/
+Veniţi, veniţi, iubiţii mei, /: veniţi :/
+
+[s8]
+Nu mergeţi tot pe rele căi, /: veniţi :/
+Veniţi la jertfa lui Isus, /: veniţi :/
+Să fiţi cu El în ceruri sus, /: veniţi :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

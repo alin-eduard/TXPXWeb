@@ -1,0 +1,53 @@
+[s1]
+1.	Mai sus, mai sus m-aş ridica
+Spre zările senine
+Şi tot mai tare aş striga
+Chemându-Te pe Tine.
+851.
+Cor: Mai sus, o Doamne peste nori
+Cântarea mea răsună
+Şi gândul meu de-atâtea ori
+Speranţa mi-o alină.
+
+[s2]
+2.	Descătuşat aş vrea să zbor
+În zori ca rândunica
+Şi să despart ce-i trecător
+Să nu mai ştiu nimic.
+Cor: Mai sus, o Doamne peste nori
+Cântarea mea răsună
+Şi gândul meu de-atâtea ori
+Speranţa mi-o alină.
+
+[s3]
+3.	În faţa Ta aş vrea să stau
+Cu fruntea ridicată
+Şi-n rugăciuni de-aş putea sta
+Tu să mă ierţi odată
+Cor: Mai sus, o Doamne peste nori
+Cântarea mea răsună
+Şi gândul meu de-atâtea ori
+Speranţa mi-o alină.
+
+[s4]
+4.	Cu milă să mă răsplăteşti
+Din mila Ta cea mare
+În cerul Tău să mă primeşti
+Să-mi dai a Ta iertare.
+Cor: Mai sus, o Doamne peste nori
+Cântarea mea răsună
+Şi gândul meu de-atâtea ori
+Speranţa mi-o alină.
+
+[s5]
+5.	Atunci capul meu ostenit
+Pe pieptul Tău voi pune
+Şi tot ce-n cale-am întâlnit
+Pe rând Ţi le voi spune.
+Cor: Mai sus, o Doamne peste nori
+Cântarea mea răsună
+Şi gândul meu de-atâtea ori
+Speranţa mi-o alină.
+
+[order]
+s1,s2,s3,s4,s5

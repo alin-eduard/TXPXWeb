@@ -1,0 +1,46 @@
+[s1]
+Increde-te Israel
+Încrede-te Israel, încrede-te mereu
+În stînca ta cea tare
+Te-ncrede-n Dumnezeu
+El te-a pazit în zori de zi
+Si-n ceas tîrziu
+/: Israele, aparatorul tau e viu :/
+
+[s2]
+Prin cîte lupte oare si valuri ai trecut
+Chiar si-n adînc de mare
+Doar Domnul ti-a fost scut
+El ti-a fost scut si-n zori de zi
+Si-n ceas tîrziu
+/: Israele, aparatorul tau e viu :/
+
+[s3]
+Prin negurile vremii, prin greul ce l-ai dus
+Doar prin minuni si semne
+El, Domnul te-a condus
+El te-a condus si-n zori de zi
+Si-n ceas tîrziu
+/: Israele, aparatorul tau e viu :/
+
+[s4]
+Chiar daca multa vreme
+Ai fost mereu lovit
+Israel nu te teme, Eu nu te-am parasit
+El te-a pazit si-n zori de zi
+Si-n ceas tîrziu
+/: Israele, aparatorul tau e viu :/
+
+[s5]
+Asa-ti vorbeste Domnul, Cel ce te-a întocmit
+Sa stie tot Sionul
+El vine negresit
+El te-a pazit în zori de zi
+Si-n ceas tîrziu
+Israele, aparatorul tau e viu
+El ti-a fost scut si-n zori de zi
+Si-n ceas tîrziu
+/: Israele, aparatorul tau e viu :/
+
+[order]
+s1,s2,s3,s4,s5

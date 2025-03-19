@@ -1,0 +1,68 @@
+[s1]
+1. Ai fost tu să-L vezi?
+Cum Se roagă-n grădină
+Cum plânge cu-amar,
+Cum Se roagă Isus
+798.      							  Fa
+
+[s2]
+Ai fost tu să-L vezi?
+Cât de greu El suspină
+/: Ce lacrimi au curs
+Ce grea-i crucea de dus
+Cum a dus-o Isus. :/
+
+[s3]
+2. Ai fost tu să plângi
+În grădina durerii?
+Să auzi cum Se roagă
+Cu strigăte mari
+
+[s4]
+Simţit-ai tu oare
+Fiorul iertării?
+/: Că şi tu ai fost
+Un biet păcătos
+Mântuit de Hristos. :/
+
+[s5]
+3. Ai fost tu să-L vezi?
+Cum Îşi urcă Calvarul
+Cum merge sub cruce
+În arşiţa grea
+
+[s6]
+Ai fost tu să-L vezi?
+Cum Îşi bea El paharul
+/: Pentru vina mea,
+Pentru vina ta
+Sus la Golgota. :/
+
+[s7]
+4. Ai fost tu să-L vezi?
+Cum străpuns e de cuie
+În mâini şi-n picioare
+Pe lemn atârnat
+
+[s8]
+Ce versuri vreodată?
+Putea-vor să spună
+/: Tot ce a-ndurat,
+Tot ce a răbdat
+Mielul nevinovat. :/
+
+[s9]
+5. Ai fost tu măcar
+Ce ai gânduri străine
+La cruce pe deal
+Să te pleci şi să plângi?
+
+[s10]
+Să-I spui rana ta
+Printre mii de suspine
+/: Să-I simţi mâna Sa,
+Mângâierea Sa
+Ce te poate salva. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

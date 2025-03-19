@@ -1,0 +1,43 @@
+[s1]
+1. O frunte-nsângerată
+Şi mândră-n al tău chin
+O frunte pângărită
+Sub ramura de spini
+2. O frunte împodobită
+Cu har Dumnezeiesc
+Şi azi dispreţuită
+În veci eu te slăvesc
+757.
+
+[s2]
+3. Tu faţă demnă sfântă
+De care s-a speriat
+Pământul tot şi cerul
+Ah cine te-a scuipat
+4. Ce palidă eşti astăzi
+Vai cine ţi-a luat
+Lumina ne-ntrecută
+A ochiului curat
+
+[s3]
+5. Întreaga ta durere
+M-apasă astăzi greu
+De mult ce îndurat-ai
+De vină-s numai eu
+6. Îndură-te de mine
+O nu te mânia
+Îndură-te împarte-mi
+Milostivirea Ta
+
+[s4]
+7. Ce sfântă bucurie
+Ce dar nepreţuit
+Să mă cufund o Doamne
+În chinul Tău cumplit
+8. De s-ar putea chiar viaţa
+Chiar viaţa mea ţi-aş da
+Ce sfântă bucurie
+Să mor la crucea Ta.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,61 @@
+[s1]
+1.Răsune a noastră cântare,
+Un imn de adânci mulţumiri
+Să fie şi-n ceruri serbare,
+Ca-n ziua de mari fericiri.
+1168
+
+[s2]
+Prin Duh înălţăm o cântare,
+Prin Duh să cinstim pe Isus,
+Căci slava ce-o are e mare
+În gloria unde-a ajuns.
+
+[r1]
+/:Osana, lui Isus:/x3
+De-acum
+Și până-n veac!
+
+[s3]
+2.Pe Isus Îl simţi în natură,
+Căci toate prin El s-au creat.
+Şi cine-i ca El în statură ?
+Nu-i nimeni
+C-al meu Împărat!
+
+[s4]
+Cinstiţi-L, ostroave şi ape,
+Cinstiţi-L, voi, mări şi uscat,
+Căci El a putut să adape
+Mulţimi de popor însetat.
+
+[s5]
+3.Prin câte puterea-I
+Se-arată,
+Prin câte dovezi Îl cunoşti
+Priveşte la ceruri şi, iată,
+În toate pe El recunoşti!
+
+[s6]
+Veniţi, voi, mulţimi
+De popoare,
+Să vină toţi cei păcătoşi
+Căci gloria Lui este mare,
+Iertare primiţi bucuroşi.
+
+[s7]
+4.Cu toţi ridicaţi-vă glasul,
+Un cor milioane formând
+Simţiţi, ce sublim fi-va ceasul
+Când toţi
+Vom fi una-n-curând?
+
+[s8]
+Mărire lui Isus în ceruri!
+Mărire şi slavă în veci!
+Cântaţi-I, voi,
+Astăzi şi pururi:
+Mărire şi slavă în veci!
+
+[order]
+s1,s2,r1,s3,s4,r1,s5,s6,r1,s7,s8,r1

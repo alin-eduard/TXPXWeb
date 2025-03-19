@@ -1,0 +1,26 @@
+[s1]
+Credinţa mea nu-i pe nisip
+Clădită-n forme seci
+Ci-n veşnicul meu Salvator
+Eu mă încred pe veci.
+
+[r1]
+Sângele Lui sfânt mi-e de-ajuns,
+Mai mult nu-mi trebuie
+Destul că a murit Isus,
+Jertfit pentru mine.
+
+[s2]
+Destul că Isus m-a iertat
+Frica se va sfârşi
+Aşa cum sunt, azi vin la El,
+El mă va primi.
+
+[s3]
+Mă-ncred în al Său minunat
+Şi neclintit Cuvânt.
+În numele Lui sunt salvat,
+Salvat prin sânge sfânt.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,30 @@
+[s1]
+Cu gândul la viaţa eternă
+Cu drag eu ades meditez
+E singurul lucru în viaţă
+Pe care doresc să-l păstrez
+Căci nu aş vrea niciodată
+Să mă despart de Isus
+Credinţa vieţii sfinte
+Vreau s-o păstrez până sus
+
+[r1]
+În ţara eternă, Paradis, ţară de vis
+Chiar clipe trăite cu Domnul
+Sunt momente de nedescris
+Splendori nemaivăzute
+Şi cântări fără sfârşit
+Ne vor uimi când vom sosi în veşnicii
+
+[s2]
+În lume-i atâta tristeţe,
+Căci oamenii nu pot vedea
+Negura grea de păcate,
+Nici iadul în care vor sta
+Viaţa de-aici e o şansă
+Depinde ce facem cu ea
+Vom pierde pe veci mântuirea
+Sau veşnic în rai vom sta
+
+[order]
+s1,r1,s2,r1

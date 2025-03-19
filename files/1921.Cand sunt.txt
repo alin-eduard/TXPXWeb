@@ -1,0 +1,31 @@
+[s1]
+1921             Do m
+1. Când sunt căzut când sunt bătut
+Doamne spre Tine caut
+Când sunt rănit și prigonit
+Strig către Cel Prea Înalt
+
+[r1]
+Cor: Ascultă-mă când Te chem
+E noapte-njur și mă tem
+Vâslesc din greu
+Dar sunt de valuri dus
+Ascultă-mă când Te strig
+Mă prind fiori și-mi este frig
+Am obosit și aproape sunt răpus
+Ascultă-mă Isus
+
+[s2]
+2. Valuri adânci furtuni și stânci
+Sunt doar în calea mea
+Privesc în sus doar Tu Isus
+Tu ești scăparea mea
+
+[s3]
+3. Aștept mereu o Domnul meu
+Chiar dacă zăbovești
+Te chem prin vânt cu dor arzând
+Doamne unde ești
+
+[order]
+s1,r1,s2,r1,s3,r1

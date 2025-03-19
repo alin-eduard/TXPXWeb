@@ -1,0 +1,62 @@
+[s1]
+/: Binecuvantat e orice om
+Ce se-ncrede-n Dumnezeu :/
+Mi m
+
+[s2]
+/: Caci El va fi ca un pom
+Sadit pe malul apei
+Ce la timp aduce rod :/
+
+[s3]
+/: Chiar de arsita e mare
+Frunzele-I raman tot verzi :/
+
+[s4]
+/: Caci El va fi ca un pom
+Sadit pe malul apei
+Ce la timp aduce rod. :/
+
+[s5]
+Când în zare se iveşte
+Solul celui necurat,
+Dumnezeu e tăria mea!
+Când armatele de duhuri
+Cerul l-au întunecat,
+Dumnezeu e tăria mea!
+mi
+
+[s6]
+Când tot iadul stă-n picioare
+Pregătit pentru război,
+Simt că sufletul se zbate
+Prins în cursa grea,
+Mă aplec în rugăciune
+Şi-aştept ajutorul Slavei,
+Dumnezeu e tăria mea!
+
+[r1]
+/:Dumnezeu e tăria mea,
+Adăpost pentru sufletul meu,
+Ajutor când povara e grea,
+Dumnezeu e tăria mea!:/
+
+[s7]
+Dumnezeu are putere
+Ca în cer şi pe pământ,
+Dumnezeu e tăria mea!
+Tot ce-n lume se întâmplă
+Este scris şi în Cuvânt,
+Dumnezeu e tăria mea!
+
+[s8]
+Încercarea cât de mare
+Şi se pare că mă-ngroapă,
+Întunericul e gros
+Şi nu mai pot vedea,
+Plec şi fruntea şi genunchii,
+Dar înalţ spre ceruri duhul,
+Dumnezeu e tăria mea!
+
+[order]
+s1,s2,s3,s4,s5,s6,r1,s7,s8,r1

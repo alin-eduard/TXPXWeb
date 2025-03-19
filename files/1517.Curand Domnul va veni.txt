@@ -1,0 +1,55 @@
+[s1]
+1517.
+1. Curând Domnul va veni
+Cum pe tine te va găsi
+/: Căci în zbor se duce viaţa ta :/
+Şi înaintea Domnului vei sta.
+Cor: Domnul nu te va-ntreba
+De păcatul altuia
+/: Vei răspunde pentru al tău păcat :/
+Când de Domnul vei fi întrebat
+Domnul nu te va-ntreba
+De păcatul altuia
+Vei răspunde pentru viaţa ta.
+
+[s2]
+2. Tu vezi cine a căzut
+Ce-a vorbit şi ce-a făcut
+/: Dar pe tine nu te vezi cum stai :/
+Şi nu vezi câte păcate ai.
+Cor: Domnul nu te va-ntreba
+De păcatul altuia
+/: Vei răspunde pentru al tău păcat :/
+Când de Domnul vei fi întrebat
+Domnul nu te va-ntreba
+De păcatul altuia
+Vei răspunde pentru viaţa ta.
+
+[s3]
+3. Verifică-te cum stai
+Şi vezi ce păcate ai
+/: Căci cu Domnul ai să te-ntâlneşti :/
+Chiar dacă tu asta nu doreşti.
+Cor: Domnul nu te va-ntreba
+De păcatul altuia
+/: Vei răspunde pentru al tău păcat :/
+Când de Domnul vei fi întrebat
+Domnul nu te va-ntreba
+De păcatul altuia
+Vei răspunde pentru viaţa ta.
+
+[s4]
+4. Curând Domnul va veni
+Şi la cer te va răpi
+/: Pregăteşte-ţi astăzi viaţa ta :/
+Ca să stai cu el în slava Sa.
+Cor: Domnul nu te va-ntreba
+De păcatul altuia
+/: Vei răspunde pentru al tău păcat :/
+Când de Domnul vei fi întrebat
+Domnul nu te va-ntreba
+De păcatul altuia
+Vei răspunde pentru viaţa ta.
+
+[order]
+s1,s2,s3,s4

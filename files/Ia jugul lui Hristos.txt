@@ -1,0 +1,38 @@
+[s1]
+Ia jugul lui Hristos pe umeri
+Şi trage lângă El arând
+Chiar dacă semeni numai lacrimi
+Şi umbli numai sângerând.
+
+[s2]
+/:Hristos cel Sfânt te va cunoaşte
+în sărăcie şi-n belşug
+Căci mulţi au stat cu El la masă
+Dar prea puţini au tras la jug. :/
+
+[s3]
+Ia jugul lui Hristos pe umeri
+Şi simte-l apăsând din greu.
+Cum vei putea răspunde-odată
+De tot ce are Dumnezeu?
+
+[s4]
+/: Hristos cel Sfânt te va cunoaşte
+Odată-n cerul Lui de sus.
+Nu după haina ce-ai purta-o,
+Ci după sarcina ce-ai dus. :/
+
+[s5]
+Ia sarcina şi mergi alături
+Tăcând şi mulţumind ca El
+Iubeşte, roagă-te şi iartă
+Urmând Dumnezeiescul fel.
+
+[s6]
+/: Hristos cel Sfânt te va cunoaşte
+Nu după numele ce-l spui
+Ci după rănile-ndurate
+Sub crucea ta, sub crucea Lui. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

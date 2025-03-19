@@ -1,0 +1,50 @@
+[s1]
+Mai mult decât asteaptă
+Străjerul dimineata,
+Noi asteptam, Isuse,
+Să-Ti vedem, Doamne, fata.
+
+[s2]
+/: Cum soarele răsare
+Si luminează-ntinsul,
+Asa ne umpli viata
+Isus, Tu, necuprinsul. :/
+
+[s3]
+Mai mult decât asteaptă
+Un mugur primăvara,
+Mai mult decât asteaptă
+Înstrăinatul tara.
+
+[s4]
+/: Mai mult decât asteaptă
+Ogorul ploaia lină,
+Dorim, Isuse, fata
+Si slava Ta să vină! :/
+
+[s5]
+Mai mult decât asteaptă
+Bolnavul vindecarea,
+Noi asteptăm Isuse,
+În slava Ta, intrarea;
+
+[s6]
+/: Mai mult decât asteaptă
+Logodnica pe mire,
+Dorim întâmpinarea
+Pe Mire, în mărire. :/
+
+[s7]
+Mai mult decat asteapta
+Robitii liberarea,
+Corăbierii portul,
+Truditii înserarea,
+
+[s8]
+/: Ostasii biruinta
+Si-n lupta lor cununa
+Noi te-asteptăm Isuse,
+Pe Tine-ntotdeauna! :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

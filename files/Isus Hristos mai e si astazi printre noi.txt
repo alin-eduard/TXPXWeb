@@ -1,0 +1,19 @@
+[s1]
+/: Isus Hristos mai e
+si astazi printre noi :/ x4
+
+[r1]
+/: Lasa-L sa te-atinga,
+Lasa-L sa te-atinga
+Lasa-L sa-atinga
+Si vei fi eliberat:/ x2
+
+[s2]
+/: Mormantul lui Isus
+si astazi este gol :/ x4
+
+[s3]
+/: Puterea lui Isus si astazi face minuni :/ x4
+
+[order]
+s1,r1,s2,r1,s3,r1

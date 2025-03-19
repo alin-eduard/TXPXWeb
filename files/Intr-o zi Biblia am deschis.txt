@@ -1,0 +1,25 @@
+[s1]
+Într-o zi Biblia am deschis
+Şi Domnul astfel mi-a vorbit :
+<Să nu te temi, chiar de va fi să treci
+Prin valea neagră a umbrei morţii !
+De cînd lucrul acesta am aflat
+Pe Domnul Isus eu am urmat
+Povara ce greu mă apăsa
+El, Domnul Isus, mi-a luat.
+
+[r1]
+Domnul meu, o, Domnul meu
+Crucea ce pe umeri ai purtat
+Era crucea mea cea grea
+N-a purtat-o nimenea
+/: Decît Tu, iubitul meu Isus. :/
+
+[s2]
+Aşteptarea noastră nu va fi-n zadar
+Căci dincolo de stele şi de nori
+Pe străzi de aur şi mărgăritar
+Cu Domnul nostru vom împărăţi.
+
+[order]
+s1,r1,s2,r1

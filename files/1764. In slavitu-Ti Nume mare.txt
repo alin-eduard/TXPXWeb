@@ -1,0 +1,43 @@
+[s1]
+1764.    Do m
+1. În slăvitu-Ţi Nume mare
+Încă ne mai adunăm
+Şi în rugă şi-n cântare
+Doamne ne mai bucurăm
+Când cobori în adunare
+Ne proşternem la pământ
+/:Şi-Ţi dăm cinste şi onoare
+Când cobori prin Duhul Sfânt:/
+
+[s2]
+2. În nemărginita-Ţi milă
+Isus vii la noi mereu
+Şi la inima umilă
+Te apleci o Domnul meu
+Când cobori la noi din slavă
+Şi în taină ne vorbeşti
+/:Chiar şi boala cea mai gravă
+C-un cuvânt tămăduieşti:/
+
+[s3]
+3. Vii să ne laşi mângâiere
+Să legi rănile ce dor
+Să alini orice durere
+Să laşi leac vindecător
+Când cobori la noi Isuse
+Tu Păstorule de oi
+/:Sunt doar bucurii nespuse
+Nu mai sunt griji nici nevoi:/
+
+[s4]
+4. În slăvitu-Ţi Nume mare
+Mai am trecere şi eu
+Tu m-ai scăpat de pierzare
+Bun şi veşnic Dumnezeu
+În iubirea-Ţi minunată
+Doamne încă mântuieşti
+/:Şi în braţul cald de Tată
+Doamne încă ne primeşti:/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,40 @@
+[s1]
+Doamne laudă-Ţi aducem
+Dar vrem lauda sa-Ţi fie
+Izvorâta din Lumina
+Avem Har şi bucurie
+Nu doar buzele să-Ţi cânte
+Ci iubirea şi credinţa
+Şi prin Duhul Tău fierbinte
+Să ne-nflăcărezi fiinţa.
+
+[r1]
+Te laudăm, Te laudăm
+Doamne-n veci Te laudăm
+
+[s2]
+Doamne laudele noastre
+Fie astăzi purtătoare
+De viaţă şi putere
+Şi de dulce sărbătoare
+Numele Tău să răsune
+Prin cântările ‘nălţate
+De la cei ce sunt aproape
+Pân’ la margini depărtate.
+
+[s3]
+Doamne laudă şi cinste
+Şi adâncă mulţumire
+Vreau să ardă pe altarul
+Inimii,fară oprire
+Tu să ne-ntăreşti într-una
+Să ne ţii înflăcărarea
+Într-u Slava Ta eternă
+Să trăim cum ni-I cântarea.
+
+[s4]
+Te laudăm,Te laudăm
+Doamne-n veci Te laudăm
+
+[order]
+s1,r1,s2,r1,s3,s4

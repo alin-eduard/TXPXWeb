@@ -1,0 +1,42 @@
+[s1]
+La Tine vin Isus,
+picioarele să-ţi plâng
+Trecutul să mi-l plâng,
+amar să-l plâng,
+Căci am greşit Isus,
+şi mare-i vina mea
+Cu mii de lacrimi eu,
+te rog a mi-o spăla.
+
+[r1]
+Cu-a Tale mângâieri,
+Tu mă mângâie iar,
+Şi-n viaţa plini de dureri,
+dă-mi scumpul har,
+Căci Doamne către Tin’,
+privirea mi-o îndrept
+Te chem cu glasu-mi stins,
+şi mila Ta aştept.
+
+[s2]
+Atâţia păcătoşi,
+s-au strâns de-atâţia ani
+Stropind cu lacrimi şi cu plâns,
+păcatul lor cel greu,
+I-ai ascultat pe toţi,
+pe vameşi şi pe hoţi
+Prin jertfa crucii i-ai spălat,
+şi i-ai iertat pe toţi.
+
+[s3]
+La Tine vin acum,
+picioarele să-ţi plâng,
+Căci Tu-mi cunoşti păcatul greu
+Şi ştii că eu mi-l plâng,
+La Tine glasul mi-l îndrept,
+şi mila Ta o cer
+O dă-mi iertarea ce-o aştept,
+nu mă lăsa să pier.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,21 @@
+[s1]
+Cine-mi poate spune?
+Cine poate stidaca e un maine,
+De-i o noua zi?
+Soarele rasare, dar apune iar
+Viata-i trecatoare, chiar de e un dar.
+
+[r1]
+Cat mai e zi, da-mi doar putere
+Doamne e tot ce imi doresc
+Si-n bucurii si-n clipele grele,
+Pana la cer, sa Te urmez.
+
+[s2]
+Orice om in lume, vine…dar e gol.
+Tot asa se duce, e doar calator.
+Timpul, se tot scurge, nu, nu sta in loc.
+Viata-i trecatoare, ca un lemn in foc.
+
+[order]
+s1,r1,s2,r1

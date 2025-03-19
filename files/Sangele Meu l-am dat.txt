@@ -1,0 +1,42 @@
+[s1]
+Sângele Meu l-am dat,
+Trupul Meu e rănit
+Ca tu, fiu din Adam
+Să poţi fi mântuit;
+Sângele Meu ţi-am dat,
+Tu Mie ce Îmi dai?
+
+[s2]
+Am fost sărac, umil,
+Pe-acest pământ umblând
+Să fii tu fericit,
+S-ajungi în cerul sfânt;
+Chiar viaţa Mea ţi-am dat,
+Tu Mie ce Îmi dai?
+
+[s3]
+Eu tronul Mi-am lăsat
+Şi slava Mea din cer,
+În schimb am îndurat
+Doar chinuri şi dureri;
+În locul tău M-am dat,
+Tu Mie ce Îmi dai?
+
+[s4]
+Din întuneric greu
+Prin Mine-ai fost salvat,
+De al Satanei lanţ
+Pe veci te-am dezlegat;
+Iertare Eu ţi-am dat,
+Tu Mie ce Îmi dai?
+
+[s5]
+Astăzi, din tot ce ai
+Dă Domnului Hristos,
+Dă-I totul pe deplin,
+Urmează-L credincios;
+Pentru El să trăieşti,
+În toate să-I serveşti!
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,27 @@
+[s1]
+1. Du-mă la izvorul unde
+Curge-a vieţii apă
+La Golgota unde trece
+Setea mea sufletească.
+264.
+
+[r1]
+Cor: Du-mă la izvorul
+La apa lui curată
+Sângele lui Isus
+Alb ca neaua mă spală.
+
+[s2]
+2. Du-mă la izvorul unde
+Poate pieri păcatul
+Şi de orice legătură
+Se mântuie sufletul.
+
+[s3]
+3. Du-mă la izvorul unde
+Şi eu mă voi curăţi
+În valul acestei ape
+De tot mă voi înnoi.
+
+[order]
+s1,r1,s2,r1,s3,r1

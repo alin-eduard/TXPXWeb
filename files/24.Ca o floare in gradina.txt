@@ -1,0 +1,45 @@
+[s1]
+24.                  Re
+1. Ca o floare în grădină
+Este Isus printre noi
+Duhul Sfânt ne luminează
+/: El ne scapă din nevoi :/
+
+[s2]
+2. Cum se bucură drumeţul
+La privirea unor flori
+Tot aşa mă simt de bine
+/: Cu al meu Mântuitor :/
+
+[s3]
+3. Şi averea cea mai scumpă
+În Isus eu o găsesc
+Orişiunde ea pătrunde
+/: Toate, toate se-noiesc :/
+
+[s4]
+4. Când privesc la Chipul care
+Stă pe cruce răstignit
+Cât de bun şi dulce-i Domnul
+/: Ah mă simt prea umilit :/
+
+[s5]
+5. Am văzut flori minunate
+Dar dacă privesc în sus
+Cea mai scumpă dintre ele
+/: Trandafirul scump Isus :/
+
+[s6]
+6. Ah rămâi, rămâi în mine
+Trandafir iubit de sus
+În grădina vieţii mele
+/: Trandafir iubit Isus :/
+
+[s7]
+8. Tu eşti totul pentru mine
+Isuse viaţa mea
+Şi voiesc întotdeauna
+/: Doamne a Te lăuda :/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

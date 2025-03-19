@@ -1,0 +1,21 @@
+[r1]
+Turnul de scăpare este Domnul
+Cetăţuie-n vreme grea,
+Sprijin şi-ajutor în încercare
+El e stânca mea
+
+[r2]
+Eu voi sta la umbra Sa,
+Eu voi sta la umbra Sa,
+Lângă Domnul eu voi sta,
+Domnul este stânca mea.
+
+[r3]
+Chiar zece mii
+la dreapta de vor cădea
+Şi alte mii alăturea,
+Nu mă tem de nici un rău
+Când am pe Dumnezeu.
+
+[order]
+r1,r2,r1,r2,r3,r2,r3,r2

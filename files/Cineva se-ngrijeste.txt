@@ -1,0 +1,31 @@
+[s1]
+Cineva se-ngrijeşte de mine mereu!
+Nu, o nu e-ntâmplare,
+E-al meu Dumnezeu.
+Zilnic toarnă asupra mea
+Daruri din plin
+Mulţumire-i aduc si mă-nchin.
+
+[r1]
+/: E cineva! Şi îi mulţumesc.
+E cineva! Este Tatăl ceresc
+Darul nespus e Domnul Isus.
+Ce măreţ e al meu Dumnezeu! :/
+
+[s2]
+Mulţi nu cred azi în Domnul,
+Slăvit creator,
+Nici nu văd al naturii si-al vieţii izvor
+O, ce inimi sărace in valul lumii,
+Pentru toate n-au cui mulţumi.
+
+[s3]
+Dintre daruri, cel mai sfânt
+Şi cel mai frumos,
+Este darul salvării prin Isus Hristos.
+N-am cuvinte şi versuri
+Să-i spun dragostea
+Ce e-n clocot in inima mea.
+
+[order]
+s1,r1,s2,r1,s3,r1

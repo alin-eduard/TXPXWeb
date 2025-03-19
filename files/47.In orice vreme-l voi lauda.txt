@@ -1,0 +1,62 @@
+[s1]
+47.           mi m
+1. În orice vreme-l voi lăuda
+Şi-L voi binecuvânta
+Pe buze-ntotdeauna
+Va fi Doamne lauda Ta.
+Sufletul şi inima
+Doamne Te vor înălţa
+Căci Tu până în vecie
+Ne sprijini cu dreapta Ta.
+
+[s2]
+2. Eu pe Domnul am căutat
+Şi răspuns Domnul mi-a dat
+Din temeri m-a izbăvit
+Sufletul l-a mântuit.
+Când spre Domnul privirea
+Suflete vei înălţa
+Nu te vei mai ruşina.
+
+[s3]
+3. Îngerii Domnului Sfânt
+Tăbărăsc pe acest pământ
+La ai Săi neprihăniţi
+Şi la cei ce sunt zdrobiţi.
+Gustaţi toţi şi veţi vedea
+Cum e bunătatea Sa
+Capătă fericirea
+Cel ce la Domnul vine.
+
+[s4]
+4. Dacă doreşti viaţa
+Înfrânează-ţi limba ta
+Şi-atunci zile fericite
+De la Domnul vei avea.
+Fereşte-ţi limba de rău
+Nu-ţi vorbi fratele tău
+Caută caută pacea Sa
+Şi aleargă după ea.
+
+[s5]
+5. Căci ochii Domnului Sfânt
+Sunt deschişi pe acest pământ
+Urechea Sa ascultă
+Pe cei cu viaţa sfântă.
+Depărtează-te de rău
+Şi fă binele mereu
+Şi atunci când vei striga
+Domnul te va asculta.
+
+[s6]
+6. Multe sunt necazurile
+Acelui neprihănit
+Însă când strigă la Domnul
+De Domnul e izbăvit.
+Domnul înalţă fii Săi
+Şi smereşte pe cei răi
+Al Său nume lăudat
+Fie binecuvântat.
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,44 @@
+[s1]
+1. Stăm lângă apa de viaţă
+Ce curge liniştit
+Hristos din inimă ne cheamă
+Ne zice bun venit.
+Cor: Stăm /:lângă apa de viaţă:/ (3x)
+Da suntem chiar la izvor
+301
+Fa
+
+[s2]
+2. Zdrobiţi de greaua noastră cale
+Aici ne odihnim
+Căci limpede ca şi cristalul
+E apa ce-o găsim.
+Cor: Stăm /:lângă apa de viaţă:/ (3x)
+Da suntem chiar la izvor
+
+[s3]
+3. Vin gustă din această apă
+Ce-i dată de Isus
+Căci e puterea mântuirii
+Şi a naşterii de sus.
+Cor: Stăm /:lângă apa de viaţă:/ (3x)
+Da suntem chiar la izvor
+
+[s4]
+4. Poţi bea şi tu cu-ndestulare
+Din 'ăst curat izvor
+Ce pe pământul nou va curge
+În veci şi tuturor.
+Cor: Stăm /:lângă apa de viaţă:/ (3x)
+Da suntem chiar la izvor
+
+[s5]
+5. Acolo pe ai săi conduce
+Mântuitorul chiar
+Şi-n veşnic rai de fericire
+Vom fi prin al Său har.
+Cor: Stăm /:lângă apa de viaţă:/ (3x)
+Da suntem chiar la izvor
+
+[order]
+s1,s2,s3,s4,s5

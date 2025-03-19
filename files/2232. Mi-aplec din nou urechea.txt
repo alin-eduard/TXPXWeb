@@ -1,0 +1,75 @@
+[s1]
+2232
+1. Mi-aplec din nou urechea
+să înțeleg cuvântul
+S-ascult ce spune ploaia
+și-apoi ce spune vântul
+Și dezlegându-mi mintea
+de gândurile rele
+Să înțeleg mesajul
+covorului de stele.
+
+[s2]
+/: Din nopțile de vară,
+cu miez de viață nouă,
+Cu dimineți frumoase
+parcă scăldate-n rouă
+Când vântul care suflă
+din ce în ce mai rece
+Îmi spune parcă-n taină,
+căci vara iarăși trece :/.
+
+[s3]
+2. Prin vâjâitul parcă din ce în ce mai tare
+Îmi amintește vântul căci vine gerul mare
+Ce stinge picătura de viață
+din natură
+Și va schimba pământul
+cu-ntreaga lui făptură.
+
+[s4]
+/:Însă între arșița din zilele de vară
+Și iarna-n care totul
+parcă-i sortit să moară
+Exist-o toamnă lungă,
+atât de minunată
+Ca o speranță-n lume
+de Dumnezeu lăsată :/.
+
+[s5]
+3. Toamna vei culege doar rodul muncii tale
+Cu plâns de bucurie
+sau lacrimi mari de jale
+Căci toamna-i foarte dreaptă,
+ea este rea sau bună
+Știind că omul toamna,
+ce-a semănat adună.
+
+[s6]
+/: Ce-i mulți cuprinși de groază, privesc bolta pustie
+Căci s-au trezit la lucru-ntr-o vreme prea târzie
+Au ochii plini de lacrimi
+și inima amară
+Privind la vremi pierdute
+din zilele de vară :/.
+
+[s7]
+4. Mi-aplec din nou urechea
+să înțeleg cuvântul
+S-ascult ce spune ploaia
+și-apoi ce spune vântul
+Și dezlegându-mi mintea
+de gândurile rele
+Să înțeleg mesajul covorului
+de stele.
+
+[s8]
+/:	Ți-ai pus vreodată-n taină măreața întrebare
+În toamna sufletească
+ce-aduni tu în hambare
+Căci universul are
+o lege neschimbată
+Ce semeni, vei culege în toamna ce te-așteaptă :/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

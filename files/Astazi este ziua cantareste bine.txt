@@ -1,0 +1,42 @@
+[s1]
+Astăzi este ziua, cântăreşte bine,
+Vezi cum stai cu Dumnezeu !
+Dacă ai uleiul, candela ţi-e plină
+Verifică, dragul meu !
+Haina ţi-e încinsă? Ai încălţămintea?
+Duhul Adevărului?
+Căci se-aud-n zare  lupte, zgomot mare
+Care prevestesc :
+
+[r1]
+/: Vine Isus ! :/
+Mai e puţin şi
+Zice-vom deplin :
+/: Vine Isus ! :/
+Şi vom zbura
+Spre-un cer senin !
+
+[s2]
+Domnul îţi vorbeşte:
+„Azi te pregăteşte,
+Ceasul este spre sfârşit,
+Stai în rugăciune, jertfe, fapte bune…
+Să fii aur curăţit…”
+Strânge în hambare lacrimi şi sudoare,
+Ce-ai lucrat pentru Isus!
+Căci se-aud în zare lupte,
+zgomot mare, care prevestesc :
+
+[s3]
+Priveghează turmă
+Că-n vremea din urmă
+Vor fi glasuri de-amăgire,
+Dacă-i cu putinţă să strice-n credinţă
+Chiar poporul cel ales.
+Cere, dar, putere, să ai înfiere
+Prin Duhul Sfânt cel promis,
+Stai în umilinţă, să ai biruinţă
+Căci vine Isus !
+
+[order]
+s1,r1,s2,r1,s3,r1

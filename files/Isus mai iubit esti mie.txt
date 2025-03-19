@@ -1,0 +1,32 @@
+[s1]
+Isus, mai iubit eşti mie,
+Decât toată lumea;
+De când eşti Tu Amicul meu,
+Am pace-n inimă
+
+[r1]
+Eu nici nu aş fi cugetat,
+Că aşa mă iubeşti;
+Eu nici nu aş fi cugetat,
+Că iertare-mi cinsteşti
+
+[s2]
+Iubesc Doamne, prietenii mei,
+Dar pe Tine mai mult
+Numele Tău aşa-mi sună
+Ca un cântec plăcut
+
+[s3]
+Cu Tine în inima mea,
+Bucuria-a intrat,
+Iubirea Ta de n-aş avea,
+Aş fi tot întristat
+
+[s4]
+O, Isus, iubit Isuse,
+Frumos e la Tine !
+Ce bucurie vom avea,
+Sus în înălţime
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

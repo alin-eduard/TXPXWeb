@@ -1,0 +1,33 @@
+[s1]
+Mi minor
+Când, la poarta vieţii tale-ţi bate
+Mai stăruitor in vremea grea,
+Când nădejdea-n suflet ţi se zbate,
+Sub povara chinului amar,
+/: Faţa ta ridic-o şi priveşte
+Mai adânc şi-ncrezător în sus!
+Printre nori, să vezi cum străluceşte
+Soarele cel fără de apus. :/
+
+[s2]
+Nu lăsa-ndoiala ca să-şi facă
+Cuib, în taină sufletului tău,
+Ci priveşte-n sus, şi fă să tacă
+Toate glasurile Celui Rău!
+/: Căci asupra ta mereu veghează
+Soarele cel fără de apus
+Şi, cu raza Lui, te-nviorează,
+Ca-i Mântuitorul tău, Isus! :/
+
+[s3]
+Să-ţi aduci mereu, mereu aminte
+Că tu eşti răscumpărat prin har!
+Cât ar fi durerea de fierbinte,
+Pentru tine, are un hotar.
+/: Nu te teme, ci mai mult te-ncrede
+În Acela Care-odat-a spus:
+„Eu cu tine sunt, în orice vreme;
+Eu, Mântuitorul tău, Isus! " :/
+
+[order]
+s1,s2,s3

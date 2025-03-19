@@ -1,0 +1,32 @@
+[s1]
+Nu lasa pe maine
+ce poti face azi
+Totul se rezuma
+la un singur pas
+
+[r1]
+Deci poti sa alegi ce vrei
+si apoi s-o iei
+Pe drumul care l-ai ales
+alege deci ce vrei
+
+[s2]
+Nu te-ncrede'n oameni
+ca te parasesc
+Cand ti-e lumea mai draga
+ei te amagesc
+
+[s3]
+Crede doar in Isus
+nu te va lasa
+Totul va fi bine
+daca-L vei urma
+
+[s4]
+Nu te-ncrede-n maine
+ce va fi, nu stii
+Orice vei alege
+te va urmarii
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

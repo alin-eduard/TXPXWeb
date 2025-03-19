@@ -1,0 +1,36 @@
+[s1]
+1.Mai e puțin,tot mai puțin
+Din timpul ce-a ma.i rămas
+Încă puțin, și voi pleca
+Spre țărmul celălalt.
+2257.
+Fa Major
+
+[s2]
+Ref:Mă-așteaptă frați, mă vor întâmpina
+Au sfârșit alergarea-naintea mea
+Pe cei dragi îi voi revedea
+Dar mai mult decât orișice altceva
+Isus mă va aștepta.
+
+[s3]
+2.Cât mi-am dorit,un bun sfârșit
+Al vieții pământești
+Încă alerg și mă îndrept
+Spre slăvile cerești.
+
+[r1]
+Ref:Mă-așteaptă frați, mă vor întâmpina
+Au sfârșit alergarea-naintea mea
+Pe cei dragi îi voi revedea
+Dar mai sus decât orișice altceva
+Isus mă va aștepta.
+
+[s4]
+3.Un singur gând, mi-a mai rămas
+Vreau să trăiesc frumos
+Prin tot ce sunt, prin tot ce fac
+Slăvindu-L pe Hristos
+
+[order]
+s1,s2,s3,r1,s4,r1

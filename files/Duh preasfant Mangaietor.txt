@@ -1,0 +1,32 @@
+[s1]
+Duh Presfânt, Mângăietor,
+Să ne fii ocrotitor,
+Din dureri şi din furtuni,
+spre Isus să ne îndrumi.
+Suntem slabi, dar fă-ne tari,
+suntem mici dar fă-ne mari,
+Ne şopteşte blând aşa:
+”Singuri nu vă voi lăsa!”
+
+[s2]
+Când vrăşmaşii ne supun,
+să ne fi prieten bun.
+În dureri şi-n stâmtorări,
+dă-ne binecuvântări;
+Fi cu noi la orice pas
+până vom ajunge-acas’.
+Ne şopteşte blând aşa:
+”Singuri nu vă voi lăsa!”
+
+[s3]
+Până toate s-or sfârşi,
+până Domnul va veni,
+Duh Preasfânt, să ne-ntăreşti,
+suflete să pregăteşti,
+Ca să treacă-al morţii prag
+în căminul nostru drag.
+Ne şopteşte blând aşa:
+”Singuri nu vă voi lăsa!”
+
+[order]
+s1,s2,s3

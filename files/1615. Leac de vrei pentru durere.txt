@@ -1,0 +1,53 @@
+[s1]
+1615.    Mi
+1. Leac de vrei pentru durere
+Ce-ţi zdrobeşte inima
+Vino la Isus acuma
+Starea El ţi-o va schimba
+Cor:	Prin credinţă totul e posibil
+Prin credinţă El este vizibil
+Prin credinţă poţi şi tu
+Spune da sau nu.
+
+[s2]
+2. Când durerea te apasă
+Şi-ncercarea nu te lasă
+Cere pacea lui Hristos
+Care-ţi este de folos
+Cor:	Prin credinţă totul e posibil
+Prin credinţă El este vizibil
+Prin credinţă poţi şi tu
+Spune da sau nu.
+
+[s3]
+3. Când în luptă cu satan
+A-i pierdut că-i mai viclean
+Strigă dar plin de nădejde
+La Isus ce te priveşte
+Cor:	Prin credinţă totul e posibil
+Prin credinţă El este vizibil
+Prin credinţă poţi şi tu
+Spune da sau nu.
+
+[s4]
+4. Când Isus  te va încinge
+Cu arme ce poţi învinge
+Pe oricare duşman
+Chiar şi pe Satan
+Cor:	Prin credinţă totul e posibil
+Prin credinţă El este vizibil
+Prin credinţă poţi şi tu
+Spune da sau nu.
+
+[s5]
+5. A Lui arme sunt cereşti
+Bune sunt duhovniceşti
+Bune pentru starea ta
+Să obţii victoria
+Cor:	Prin credinţă totul e posibil
+Prin credinţă El este vizibil
+Prin credinţă poţi şi tu
+Spune da sau nu.
+
+[order]
+s1,s2,s3,s4,s5

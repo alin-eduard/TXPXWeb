@@ -1,0 +1,27 @@
+[s1]
+Dumnezeu este dragostea mea. – 2x
+Dumnezeu cel veşnic, Domnul vieţii
+Dumnezeu este dragostea mea.
+
+[s2]
+Dumnezeu este lumina mea. – 2x
+Dumnezeu cel veşnic, Domnul vieţii
+Dumnezeu este lumina mea.
+
+[s3]
+Dumnezeu este tăria mea. – 2x
+Dumnezeu cel veşnic, Domnul vieţii
+Dumnezeu este tăria mea.
+
+[s4]
+Dumnezeu e-n inima mea. – 2x
+Dumnezeu cel veşnic, Domnul vieţii
+Dumnezeu e-n inima mea.
+
+[s5]
+În curând El vine pe nori – 2x
+Dumnezeu cel veşnic, Domnul vieţii
+În curând El vine pe nori.
+
+[order]
+s1,s2,s3,s4,s5

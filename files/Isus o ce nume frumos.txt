@@ -1,0 +1,32 @@
+[s1]
+Isus, o ce Nume frumos
+Fiu de om, de Dumnezeu,
+Mielul junghiat
+/: Bucurie, pace-mi da
+Si viata vesnica
+Isus, o ce Nume frumos :/
+Mi M
+
+[s2]
+Isus, o ce Nume frumos
+Adevar, revelat, Vindecator
+/: Libertate, dragoste,
+Cu El frica nu-mi mai e
+Isus, o ce Nume frumos :/
+
+[s3]
+Isus, o ce Nume frumos
+Sufletul mi-a salvat de la pacat
+/: Siguranta, sanatate
+Harul Lui imi da de toate
+Isus, o ce Nume frumos :/
+
+[s4]
+Isus, o ce Nume frumos
+Il astept, Il iubesc, Il preamaresc
+/: El mi-e Domn, mi-e Stapan
+Prietenul meu cel mai bun
+Isus, o ce Nume frumos :/
+
+[order]
+s1,s2,s3,s4

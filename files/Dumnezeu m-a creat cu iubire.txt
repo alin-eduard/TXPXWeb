@@ -1,0 +1,28 @@
+[s1]
+Dumnezeu m-a creat cu iubire
+Am în suflet iubire din El
+Mi-a dat viaţă şi înţelepciune
+Ca să pot să-L iubesc şi eu.
+
+[r1]
+/: Viaţa mea e legată de ceruri
+E zidită cu dragoste sfântă
+Harul Domnului meu
+mă-nsoţeşte mereu
+Prin iubirea lui Dumnezeu. :/
+
+[s2]
+Când eram rătăcit în păcate
+Dumnezeu m-a iubit chiar
+şi-atunci
+A trimis Fiul Lui să mă scape
+De la moarte şi din păcat.
+
+[s3]
+Mă încred în iubirea-I divină
+Mă încred în Cuvânt, în Isus
+El zideşte iubire în mine
+Până când voi ajunge-n cer sus.
+
+[order]
+s1,r1,s2,r1,s3,r1

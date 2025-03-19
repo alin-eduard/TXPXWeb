@@ -1,0 +1,50 @@
+[s1]
+E mult prea
+scumpa viata asta
+Ca s-o petreci nepasator
+/: E mult prea
+scumpa orice clipa
+s-o lasi sa treaca
+fara spor :/
+
+[s2]
+E mult prea scump cuvantul vietii
+sa-l poti uita
+si-un ceas macar
+/: E mult prea
+scumpa rugaciunea
+sa-i poti nesocoti vreun har
+
+[s3]
+E mult prea
+scumpa adunarea
+sa nu faci totul pentru ea
+/: E mult prea
+scumpa-mbratisarea
+sa-ti para
+vreo iertare grea :/
+
+[s4]
+E mult prea
+scumpa rasplatirea
+statorniciei la sfarsit
+/:Sa-ti par-acum prea grea-ncercarea pe        care-o ai de suferit :/
+
+[s5]
+E mult prea
+scumpa mantuirea
+sa nu-I dai
+totul pe pamant
+/: Si pacea inimii si slava
+statornicului legamant :/
+
+[s6]
+E mult prea
+scumpa vesnicia
+s-o dai pe-o
+umbra si pe-un fum
+/: E mult prea scump Hristos si raiul
+sa nu dai tot sa-l ai acum :/
+
+[order]
+s1,s2,s3,s4,s5,s6

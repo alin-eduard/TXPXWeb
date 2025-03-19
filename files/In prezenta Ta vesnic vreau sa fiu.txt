@@ -1,0 +1,21 @@
+[r1]
+În prezenţa Ta, veşnic vreau să fiu,
+În prezenţa Ta, Dumnezeul meu viu !
+În prezenţa Ta simt cum îmi vorbeşti,
+Sprijin îmi eşti, veşnic Stăpân,
+Doamne, vreau să rămân în prezenţa Ta.
+
+[s1]
+Vreau să rămân veşnic în prezenţa Ta,
+În casa Ta, Doamne, vreau să locuiesc.
+Azi, când te chem mă închin în faţa Ta,
+Îngenunchez, în prezenţa Ta...
+
+[s2]
+Doamne, doresc toată viaţa să-Ţi slujesc,
+În casa Ta, totdeauna să rămân.
+Azi Te slăvesc şi înalţ Numele Tău
+În viaţa mea, în prezenţa Ta...
+
+[order]
+r1,s1,r1,s2,r1

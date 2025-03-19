@@ -1,0 +1,63 @@
+[s1]
+1.După cum Scriptura scrie
+Timpu-i pe sfârşit
+Dragostea de Calea Sfântă
+La mulţi s-a răcit
+1079.
+
+[r1]
+A sosit timpul din urmă
+Şi afară şi în turmă
+Înainte de-a veni Isus
+Deci fii totdeauna gata
+Căci El vine cu răsplata
+Să ne ducă-n ceruri sus.
+
+[s2]
+2.Necredinţa cucereşte
+Întregul pământ
+A-nceput să se arate
+Și-n poporul sfânt
+
+[s3]
+A sosit timpul din urmă
+Şi afară, şi în turmă
+Înainte de-a veni Isus
+Deci, fii totdeauna gata
+Căci El vine cu răsplata
+Să ne ducă-n ceruri sus.
+
+[s4]
+3.Lumea-ntreagă e cuprinsă
+De-al plăcerii dor
+Iar mândria-şi face cuibul
+Chiar şi în popor
+
+[s5]
+4.Adormirea se întinde
+Pân’ la infinit
+Căci fecioarele-înţelepte
+Parcă-au aţipit
+
+[s6]
+5.Deci te scoală-n graba mare
+Tu, popor ales
+Căci s-au copt strugurii lumii
+Gata-s de cules.
+
+[s7]
+6.Fii mereu în aşteptare
+Și-n alb îmbrăcat
+Că-i copt secerişul lumii
+Bun de secerat
+
+[s8]
+Vine Mirele-n curând
+După ai săi de pe pământ
+Vine Mirele-n curând
+Deci fii totdeauna gata
+Căci El vine cu răsplata
+Să ne ducă-n ceruri sus.
+
+[order]
+s1,r1,s2,s3,s4,r1,s5,r1,s6,r1,s7,s8

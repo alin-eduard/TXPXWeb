@@ -1,0 +1,54 @@
+[s1]
+1
+Va veni Domnul când nici n-o să ştii
+Şi vei zbura sus în cer spre veşnicii.
+Te-ai pregătit ca să zbori
+cu Duhul Sfânt?
+Ai încheiat tu cu cerul legământ?
+
+[s2]
+2
+Ziua nu-i departe,
+Ia aminte soră, frate
+Ziua-aceia-i mai aproape-
+Azi ca oricând !
+Dumnezeu aşteaptă
+Şi răsplata va fi dreaptă
+Nu uitaţi de mântuirea voastră-acum!
+
+[s3]
+3
+Domnul iubeşte pe cei neprihăniţi
+Veniţi cu toţi azi la El, fiţi fericiţi!
+Domnul păzeşte pe toţi cei ce-L iubesc
+El le dă viaţă în cerul cel de veci.
+
+[s4]
+4
+Ziua nu-i departe,
+Ia aminte soră, frate
+Ziua-aceia-i mai aproape-
+Azi ca oricând!
+Dumnezeu aşteaptă
+Şi răsplata va fi dreaptă
+Nu uitaţi de mântuirea voastră-acum!
+
+[s5]
+5
+Zilele trec ca şi gându-n veşnicii
+Şi Dumnezeu te aşteaptă ca să vii.
+Ziua de mâine poate nu-i a ta
+Întoarce-te la credinţă, nu uita!
+
+[s6]
+6
+Ziua nu-i departe,
+Ia aminte soră, frate
+Ziua-aceia-i mai aproape-
+Azi ca oricând !
+Dumnezeu aşteaptă
+Şi răsplata va fi dreaptă
+Nu uitaţi de mântuirea voastră-acum!
+
+[order]
+s1,s2,s3,s4,s5,s6

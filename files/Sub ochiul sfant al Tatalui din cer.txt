@@ -1,0 +1,26 @@
+[s1]
+Sub ochiul sfînt al Tatălui din cer
+A ta umblare e pe-acest Pămînt
+Şi El te vede chiar cînd tu nu crezi
+Căci ochiul sfînt pătrunde în adînc.
+
+[s2]
+Da, e-n zadar cînd tăinuieşti ceva
+Cînd vrei s-ascunzi răul din viaţa ta
+Da, e-n zadar, căci Domnul ştie tot
+Oriunde-ai fi, El vede tot.
+
+[s3]
+Deci sfatul meu e sincer - să revii
+Oricine eşti şi orişiunde-ai fi
+Ca să-ţi păzeşti viaţa de cel rău
+Trăind mereu după Cuvîntul Său !
+
+[s4]
+Aceasta-i voia Tatălui din cer
+Aşa te vrea, aşa doreşte El
+De n-ai făcut aşa pînă acum
+Porneşte azi pe noul drum.
+
+[order]
+s1,s2,s3,s4

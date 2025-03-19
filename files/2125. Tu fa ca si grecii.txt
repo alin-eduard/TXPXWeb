@@ -1,0 +1,51 @@
+[s1]
+2125
+1. Tu fă ca și grecii
+Cum grecii au spus
+O, domnilor vrem să-L vedem pe Isus
+Ei tot căutară și-au tot întrebat
+Dar până la urmă ei tot L-au aflat
+Tu fă ca și grecii, întreabă mereu
+Și caută-L, și cheamă-L
+din sufletul tău
+Isus e aicea, aici Îl găsești
+Prin ochii credinței la El să privești.
+
+[r1]
+Cor:  //:Vrem să-L vedem
+pe Isus :/
+Nu doar programe și
+numai reclame
+/: Noi vrem să-L vedem
+pe Isus ://.
+
+[s2]
+2. Isus plin de milă spre ei a privit
+Căci El și pe neamuri pe toți
+ne-a iubit
+Și greci, și romani, și evrei, și păgâni
+Să vină la Domnul și frații români
+Tu fă ca și grecii, întreabă-i pe frați
+Pe Filip, pe Petru pe cei adunați
+Să-ți spună secretul, secretul de sus
+În care biserică-i Domnul Isus.
+
+[s3]
+3. Ascultă o, frate, ascultă să știi
+Căci oamenii care aici vor veni
+A lor apăsare cu dorul nespus
+Ei vor să-L găsească pe Domnul Isus
+Cu filozofia nu-i poți mântui
+Oricâtă știință tu ai răspândi
+Mulțimea e mare, sunt multe nevoi
+Ei vor ca să-L vadă pe Domnul cu noi
+
+[s4]
+4.Să cânte și corul, să facem program
+Dar haideți să cerem
+cerescul balsam
+Să vadă mulțimea pe Domnul lucrând
+Cu mare putere, bolnavi vindecând.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

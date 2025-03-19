@@ -1,0 +1,25 @@
+[s1]
+Isuse, cât ai trăit,
+pe mulţi Tu i-ai fericit
+Vin, şi astăzi,
+Te rugăm, căci din inimi
+Te chemăm!
+Tu în toate Te-ai smerit,
+pe mulţi Tu ai fericit
+Căci pe mulţi Tu ai iubit
+şi pe noi azi ne-ai mântuit.
+
+[r1]
+/: Tot ce-i sfânt şi mai curat
+E că-n inimi ai turnat
+Duhul Tău Sfânt, dragostea Ta  :/
+Din cer !
+
+[s2]
+Ne ajută în nevoi,
+în necazuri fii cu noi
+Când furtunile sunt mari,
+noi cu Tine suntem tari.
+
+[order]
+s1,r1,s2,r1

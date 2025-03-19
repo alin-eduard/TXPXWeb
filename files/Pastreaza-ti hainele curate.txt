@@ -1,0 +1,38 @@
+[s1]
+Păstrează-ţi hainele curate
+Călătorind printre străini
+Tu porţi veşminte pentru slavă
+Nu le păta când norii vin.
+
+[s2]
+Eşti pus deoparte pentru Domnul
+Ai fost chemat ca să fii sfânt
+/: Păstrează-ţi hainele curate
+Tot restul vieţii pe pământ. :/
+
+[s3]
+Păstrează-ţi hainele curate
+Când gânduri negre-n minte-ţi vin
+Nu te lăsa furat de vise
+Păstrează-ţi cugetul senin.
+
+[s4]
+Căci Domnul vede tot ce omul
+Cu ochiul nu poate vedea
+/: Mai vino la izvorul vieţii
+Şi curăţeşte-ţi pata ta. :/
+
+[s5]
+Păstrează-ţi hainele curate
+Când eşti chemat ca să urăşti
+Să-ţi fie pacea diamantul
+Pe care tu să îl doreşti.
+
+[s6]
+/: Şi dacă nu mai poţi învinge
+Ispitele din jurul tău
+/: Tu cere Duhul Sfânt, puterea
+Din ceruri de la Dumnezeu. ://
+
+[order]
+s1,s2,s3,s4,s5,s6

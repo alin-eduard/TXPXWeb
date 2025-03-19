@@ -1,0 +1,23 @@
+[s1]
+Eu nu ştiu cat va fi a mea rugă
+Dar ştiu atît, Isus va veni
+Şi-mi va şopti, O, vin a mea slugă
+Cu Mine-n cer vei moşteni !
+/: Eu vreau să fiu gata ! :/
+
+[s2]
+Eu nu pot să ştiu sigur
+Cînd Isus va veni
+Dar nu aceasta contează
+Cînd harul mă va mîntui.
+/: Eu vreau să fiu gata ! :/
+
+[s3]
+Eu simt, sfîrşitul e-aproape
+Cînd El la cer mă va lua.
+Şi ştiu, nu va mai fi moarte
+Şi-n veci mă voi bucura.
+/: Eu vreau să fiu gata ! :/
+
+[order]
+s1,s2,s3

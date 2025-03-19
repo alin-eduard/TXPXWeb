@@ -1,0 +1,59 @@
+[s1]
+1. Iată ziua de durere
+Tristă-i fără mângâiere
+Iată-L pe Domnul Isus
+Cum stă El pe cruce pus.
+2. Doamne mult ai mai lucrat
+Pe pământ cât ai umblat
+Pe bolnavi ai vindecat
+Şi pe morţi ai înviat.
+733.
+
+[s2]
+3. Orbilor le-ai dat lumină
+Când le-ai uns ochii cu tină
+Pe bolnavi ai vindecat
+Doamne mult ai mai lucrat.
+4. Dar la alţii le-ai luat
+Păcatele ce le-au purtat
+Şi le-ai dat Tu o poruncă
+Pe Tine să Te asculte.
+
+[s3]
+5. Dar omul neascultător
+Şi de rele făcător
+La moarte Te-au condamnat
+Şi au zis că eşti vinovat.
+6. Şi Ţi-au pus crucea în spate
+Crucea grea şi foarte mare
+Pe care ai biruit
+Ca să mori Tu chinuit.
+
+[s4]
+7. Şi pe drum când Tu mergeai
+Şi femeile boceau
+Te-ai întors ca să le spui
+Fiice ale Ierusalimului.
+8. De ce plângeţi pentru mine
+Plângeţi pentru voi mai bine
+Plângeţi pe-ai voştri copii
+Vin zile grele şi urgii.
+
+[s5]
+9. Când la Golgota ai ajuns
+Pe cruce atunci te-au pus
+Trei piroane ei Ţi-au dat
+Şi în coastă Te-au înţepat.
+10. O, lume nepăsătoare
+Cum pe tine nu te doare
+Cum pe tine nu te doare
+Să-L vezi pe Domnul cum moare.
+
+[s6]
+11. Când Isus Duhul şi-a dat
+Soarele s-a-ntunecat
+Numai inima din piatră
+A rămas tot încuiată.
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,63 @@
+[s1]
+1752.
+1. Mai mult ca niciodată
+Privirea o-ndreptăm
+Spre cer Isuse Doamne
+Şi-n rugă te chemăm
+/:Din valea cu suspine
+Strigăm mereu spre Tine
+Şi Te chemăm Isuse
+Cu lacrimi ca să vii:/
+
+[s2]
+2. Să vii că nepăsarea
+Pe mulţi azi ne-a cuprins
+Şi candelele noastre
+Aproape că s-au stins
+/:Prea lungă este noaptea
+Uleiul e puţin
+Şi lupta-i tot mai mare
+Şi valuri mereu vin:/
+
+[s3]
+3. Sunt mulţi care cărarea
+Ta o dispreţuiesc
+Sunt mulţi care chemarea
+Ta azi nesocotesc
+/:Sunt fraţi cu care-odată
+Am plâns în rugăciuni
+Însă de dragul lumii
+Au rătăcit pe drum:/
+
+[s4]
+4. Sunt mulţi ce fericirea
+Vieţii n-o găsesc
+Şi sufletul lor Doamne
+Amar şi-l chinuiesc
+/:Învaţă ocultisme
+Plătesc vrăjitorii
+Şi cred în horoscoape
+În lucruri de nimic:/
+
+[s5]
+5. Deci iată-ne o Doamne
+De ce privim spre cer
+De ce ai Tăi din lume
+Putere sfântă-ţi cer
+/:Că-s zilele din urmă
+Şi lupta-i tot mai grea
+Vrăjmaşul azi răcneşte
+Credinţa să ne-o ia:/
+
+[s6]
+6. Dar noi Isuse Doamne
+Cu dor Te aşteptăm
+Şi vrem credinţa sfântă
+Curată s-o păstrăm
+/:Ca la sfârşit de cale
+Când Tu ne vei chema
+În sfânta-mpărăţie
+Vrem a ne bucura:/
+
+[order]
+s1,s2,s3,s4,s5,s6

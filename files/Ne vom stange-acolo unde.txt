@@ -1,0 +1,26 @@
+[s1]
+Ne vom stânge-acolo, unde,
+Îngerii ne aşteaptă,
+Şi din tronul lui Dumnezeu,
+Curge apa cristală.
+
+[r1]
+Noi ne-om strânge toţi acolo,
+De unde curge apa vieţii,
+De unde curge apa vieţii,
+La tronul lui Dumnezeu.
+
+[s2]
+Acolo la malul apei,
+Unde valul se rupe,
+Vom intona toţi cu voie,
+Domnului o cântare!
+
+[s3]
+Încă ne-ajungând la apă,
+Vom depune sarcina,
+Şi vom primi ca răsplată,
+Veşmânt alb şi cunună.
+
+[order]
+s1,r1,s2,r1,s3,r1

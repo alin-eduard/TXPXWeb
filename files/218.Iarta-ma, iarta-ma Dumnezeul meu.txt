@@ -1,0 +1,35 @@
+[s1]
+1. /:Iartă-mă:/ ,iartă-mă
+Dumnezeul meu
+/:Pentru gândul nesfinţit
+Pentru patima-n priviri
+Pentru vorba fără har
+Doamne, iartă-mă Tu iar. :/
+218  								       Re m
+
+[s2]
+2. /:Iartă-mă:/, iartă-mă
+Dumnezeul meu
+/:Pentru timpul meu trecut
+Fără rodul ce L-ai vrut
+Fără dragostea cu har
+Doamne, iartă-mă Tu iar. :/
+
+[s3]
+3. /:Iartă-mă:/, iartă-mă
+Dumnezeul meu
+/:Pentru felul meu firesc
+Printre oameni cât trăiesc
+Pentru traiul în zadar
+Doamne, iartă-mă Tu iar. :/
+
+[s4]
+4. /:Iartă-mă:/, iartă-mă
+Dumnezeul meu
+/:Pentru nevegherea mea
+De-a rămâne-n voia Ta
+Pentru tot ce-a fost murdar
+Doamne, iartă-mă Tu iar. :/
+
+[order]
+s1,s2,s3,s4

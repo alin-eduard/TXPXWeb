@@ -1,0 +1,39 @@
+[s1]
+Tu-mi eşti lumina mea
+În lumea asta rea
+Pe Tine Te ador
+Din valul apelor
+1565.  Do # m
+
+[s2]
+Cor: Căci nimeni în lume
+Nu este ca Tine
+În dragoste sfântă
+Să-mi mângâi inima!
+
+[s3]
+2. Pe dealul Golgotei
+O, cât ai suferit!
+Să spună inima
+și câţi Te-au cunoscut!
+
+[r1]
+Cor: Căci nimeni în lume
+Nu este ca Tine
+În dragoste sfântă
+Să-mi mângâi inima
+
+[s4]
+3. O, trandafir din văi
+O, vino nu mai sta
+Luceafăr strălucit
+O, cât ai suferit!
+
+[s5]
+4. O, vino nu mai sta
+Te aşteaptă ai Tăi copii
+Cu lacrimile-n ochi
+Să-I duci la veşnicii.
+
+[order]
+s1,s2,s3,r1,s4,r1,s5,r1

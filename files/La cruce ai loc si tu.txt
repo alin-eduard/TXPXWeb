@@ -1,0 +1,25 @@
+[s1]
+Pe cruce Isus a murit,
+De păcate să fiu mântuit.
+Prin haru-I bogat
+Deplin m­a iertat!
+Ce dragoste sfântă,
+Ce har minunat!
+
+[r1]
+La cruce ai loc şi tu,
+La cruce ai loc şi tu!
+Mulţimi L-­au găsit;
+Şi tu eşti primit!
+Lângă cruce ai loc şi tu!
+
+[s2]
+Iubirea ­o simt ceas de ceas
+Şi pe braţu­-I puternic mă las!
+Trăiesc plin de­-avânt
+Şi vesel Îi cânt,
+Atât cât în viaţă
+Voi fi pe pământ.
+
+[order]
+s1,r1,s2,r1

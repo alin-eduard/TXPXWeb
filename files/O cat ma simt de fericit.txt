@@ -1,0 +1,31 @@
+[s1]
+O, cât mă simt de fericit
+Că am Mântuitor.
+Orfan, nici părăsit nu sunt
+Cu al meu Salvator.
+
+[r1]
+Slavă Mielului Preasfânt
+Ce pentru mine a murit!
+Aleluia, Aleluia, Aleluia, Amin!
+
+[s2]
+Mi-a spus Isus şi mi-a promis
+Prin sfântul Său Cuvânt:
+Se duce să-mi gătească loc
+În cer, la Tatăl Sfânt.
+
+[s3]
+Aici sunt numai călător
+Şi trec ca iarba-n câmp,
+În cer voi fi moştenitor
+Cu Mirele meu Sfânt!
+
+[s4]
+O, fraţi, surori, zărim voioşi
+Chiar de pe-acest pământ
+Lumini din ceruri unde noi
+Ajungem în curând!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

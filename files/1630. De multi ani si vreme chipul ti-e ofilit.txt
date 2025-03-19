@@ -1,0 +1,31 @@
+[s1]
+1630.
+1. De mulţi ani şi vreme
+Chipul ţi-e-ofilit.
+Pentru mine mamă,
+Eşti cel mai iubit!
+Blândă adiere, liniştit susurul
+O, mamă dragă, înger prea iubit!
+
+[r1]
+Cor:  Mama mea, mama mea
+Niciodată n-aş putea,
+Să te uit, să nu te-ascult
+Mama mea, mama mea!
+
+[s2]
+2. Cu suflarea-ţi caldă
+Fruntea-mi mângâiai
+Iar în grea durere, greul mi-alinai
+Aplecat în rugă te rugai mereu
+O,mamă dragă, dar din Dumnezeu!
+
+[s3]
+3. Astăzi eşti bătrână,
+Dar cântecul tău,
+Încă îmi răsună în sufletul meu.
+Sfaturile toate mi le amintesc
+O, mamă dragă, ce mult mă iubeşti!
+
+[order]
+s1,r1,s2,r1,s3,r1

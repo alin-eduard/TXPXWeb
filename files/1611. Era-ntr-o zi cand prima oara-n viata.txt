@@ -1,0 +1,47 @@
+[s1]
+1611.                Fa m
+1. Era-ntr-o zi
+Când prima oară-n viaţă
+Spre Domnul Isus paşii mă purtau
+Şi ca să scap
+De neagra morţii ceaţă
+M-am dus cu fraţii-n
+Rugăciuni să stau
+
+[r1]
+Cor: Doamne unde eşti
+Iartă-mă de vrei
+Şi vino să ne iei
+Doamne, vino Doamne
+Să vezi ce a mai rămas
+
+[s2]
+2. Cu ochii închişi,
+Cu mâini încătuşate
+Eram în ziua când Tu m-ai ales
+Şi să mă scapi
+Din lumea de păcate
+Prin harul sfânt,
+Tu vina mea ai şters
+
+[s3]
+3. Pe Golgota pe culmea îndurerată
+Acolo şi pe mine Tu m-ai dus
+Mi-ai arătat căci vina mi-ai spălat-o
+Cu sângele care  pe lemn  a curs
+
+[s4]
+4. Când omenirea ura şi-o aruncă
+Cu vorbe rele de nesuportat
+Tu dă-mi atunci iubire mai adâncă
+Cu-n suflet blând
+Mai bun şi mai curat
+
+[s5]
+5.În harul sfânt şi-a dragostei iubire
+În rugăciune Doamne tu m-ai dus
+Ca să-nţeleg că nu-i nimic pe lume
+Mai mult ca rugăciunea spre Isus
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

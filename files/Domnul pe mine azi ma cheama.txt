@@ -1,0 +1,32 @@
+[s1]
+Domnul pe mine azi mă cheamă
+Să mă-ntorc să-I slujesc neîncetat,
+Să fiu plin de iubire,
+În speranţa că  pot fi salvat.
+
+[r1]
+Domnul azi pe mine mă cheamă
+Şi doreşte cu-adevărat
+Să mă scape pe mine
+Din cumplitul păcat.
+
+[s2]
+Eu nu i-am dat ascultare
+Şi credeam că-i bine aşa
+N-am înţeles eu chemarea
+Ce cu dragoste mi-o făcea.
+
+[s3]
+Un glas divin azi mă cheamă:
+”Vino, azi, nu întârzia!”
+Fericire şi viaţă sfântă
+Cu Isus în Eden voi avea.
+
+[s4]
+În clipe fără speranţă
+Căutam să găsesc ajutor
+Nu am găsit la nici unul
+Mângâierea în sufletul meu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

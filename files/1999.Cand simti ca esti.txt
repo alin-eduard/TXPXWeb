@@ -1,0 +1,43 @@
+[s1]
+1999 fa m
+1. Când simți că ești prins ca pe roată
+Ca lutul plămădit de olar
+Te vezi transformat dintr-o dată
+De-o mână ce-ți dă formă prin har
+Uimit de această-ncercare
+Timpul se scurge încet
+Cuptorul e-ncins și îți arde
+Chiar parcă și suflarea din piept.
+
+[r1]
+Cor: /: Acesta-i cuptorul ce trece
+Astăzi prin viața ta
+El este menit să încerce
+Credința și dragostea ta
+Mai rabdă, mai rabdă, mai rabdă
+Acesta-i cuvântul rostit
+Că-n urmă primi-vei cununa
+Și tot ce a fost pregătit :/.
+
+[s2]
+2. Chiar parcă și ceasul îți trece
+Atâta de greu și de încet
+Și nu știi când totul va trece
+Și această durere din piept
+Ai vrea un sfârșit de se poate
+Curând ai dori să sfârșești
+Acest tratament greu din toate
+E groaznic și nu-l mai dorești.
+
+[s3]
+3. Te-ntrebi dar răspunsul nu vine
+Nu vine deși îl dorești
+Și iar în cuptor dintr-o dată
+Din nou iarăși tu te trezești
+Un aur curat Domnul poate
+Să scoată din zgura cea grea
+Căci Cel ce ți-a dat chipul frate
+Un vas plin de cinste te vrea.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,34 @@
+[s1]
+Stau în patul vechi de nuiele
+Praful mã cuprinde ca un fum
+Sunt uscat si nu mai am nici o putere
+Cãci picioarele slãbite-mi sunt.
+Si astept din zori ca norodul
+Milã sã îmi dea ca sã trãiesc
+N-am nici o sperantã, nimeni nu mã vede
+Dar cineva la mine s-a oprit...
+
+[r1]
+Ridicã-ti patul si umblã
+Mi-a soptit cu vocea-i blândã,
+Printre lacrime îl vãd
+Mâna sa o prind si cred,
+Pe picioare-ncep sã merg.
+Cine oare e strãinul
+Ce mi-a sters pe veci tot chinul?
+E Isus din Nazaret,
+Fiul Tatãlui ceresc;
+Oare cum sã-i multumesc
+
+[s2]
+Înspre casã m-a trimis Mesia;
+Merg sã spun la toti ce mi-a fãcut:
+El în neagra beznã mi-a adus luminã.
+Sunt fericit cã îl cunosc de-acum
+Sunt si astãzi multi ce zac în patimi,
+In pãcat, în boală si nevoi,
+N-au nici o sperantã, nimeni nu îi vede,
+Dar cineva la ei se va opri...
+
+[order]
+s1,r1,s2,r1

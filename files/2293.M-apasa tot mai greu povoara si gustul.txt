@@ -1,0 +1,43 @@
+[s1]
+1.M-apasa tot mai greu povara,
+Și gustul ei e prea amar
+Căci simt în piept cum suferinţa,
+Aprinde al durerii jar
+Privesc în zări şi în tăcere,
+Aştept să-mi vină un răspuns
+Căci Doamne Tu-mi cunoşti durerea,
+De Tine nu-i nimic ascuns.
+Mi
+
+[r1]
+Opreşte Doamne încercarea
+Căci parcă jugul mi-e prea greu
+Smerit te rog revarsă-ţi mila
+Căci numai Tu-mi eşti Dumnezeu
+La Tine vin în ceasuri grele
+Părinte şi Ocrotitor
+Când eu Îți simt apropierea
+Îmi este jugul mai uşor.
+
+[s2]
+2.Nu am la Tine nici un merit,
+Și recunosc dreptatea Ta
+Dar în genunchi Te rog ai mila,
+Și Îţi arată dragostea
+Îmi iartă tot trecutul Doamne,
+Căci nu Ţi-a fost Ţie plăcut
+Îţi mulţumesc pentru răbdarea,
+Ce pentru mine ai avut.
+
+[s3]
+3.Opreşte-odată Tu furtuna,
+Ce sufletul mi-l răscoleşte
+Căci Tu mi-ai fost dintotdeauna
+Părintele ce mă iubeşte
+Tu nu mă vei lăsa de pradă,
+Atacurilor celui rău
+Deşi nu-Ţi merit izbăvirea,
+Și eu sunt un copil al Tău.
+
+[order]
+s1,r1,s2,r1,s3,r1

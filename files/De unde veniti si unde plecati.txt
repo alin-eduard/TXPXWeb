@@ -1,0 +1,60 @@
+[s1]
+De unde veniti si unde plecati,
+iubiti călători minunati?
+Cu finici în mâini si-n alb
+Îmbrăcati spre ce
+comoară-acum alergati?
+
+[s2]
+Noi mergem că Isus
+ne-asteaptă pe nor,
+Noi mergem la scumpul nnost’Mântuitor
+Cu Isus n ceruri pe veci
+vom fi cu El ne vom veseli
+
+[s3]
+Dar hainele albe unde le-ati găsit si cu ce apă asa le-ati spălat?
+Asa strălucire noi am întâlnit,
+decât una-n ceruri, a marelui Print.
+
+[s4]
+Pe dealul Golgota,
+izvor am aflat
+Si hainele noatre,
+acolo le-am spălat
+În sângele Mielului nevinovat,
+În sângele nevinovat,
+în sângele Lui curat
+
+[s5]
+Măreata cântare ce o fredonati,
+În cinstea cărui domn voi cântati?
+Iar cununa sfântă din aur curat o, cine așa frumos v-a-mbrăcat?
+
+[s6]
+Acolo-n Calvar
+noi un Domn am aflat
+Cununa de spini,
+capul i-a încoronat
+Iar noi în shimb fiindcă
+L-am ascultat,
+Cununa de aur ne-a dat
+
+[s7]
+Nimic noi – am avut
+mai scump pe pământ
+Decât pe Isus ce-a fost în mormânt
+Cu lacrimi mereu,
+mereu noi neam hrănit
+De dorul iubitului nostru iubit.
+
+[s8]
+În al Său Cuvânt
+El asa ne-a promis
+Căci com fi cu totii
+cu El în Paradis
+Pe-acela Isus, noi Îl căutăm,
+căci vrem să Îl ascultăm.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

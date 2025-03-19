@@ -1,0 +1,26 @@
+[s1]
+Vreau să mă desprind de tot ce-i rău
+Vreau să îi slujesc Lui Dumnezeu
+/: Să mă nasc din nou cum El a spus
+Vreau să-L urmez pe Isus :/
+
+[s2]
+Vreau să port în mine chipul Lui
+Chipul blând, ceresc al Mielului
+/: Crucea să mi-o iau şi să mi-o port
+Spre veşnicii să mi-o urc :/
+
+[s3]
+Vino Doamne schimbă-mi inima
+Azi Te chem să vii în viaţa mea
+/: Schimbă-mă Isus ca să trăiesc
+Şi voia Ta să o împlinesc :/
+
+[s4]
+Tot ce am greşit în viaţa mea
+Cred Isus că doar Tu poţi ierta
+/: Cred că pe o cruce ai murit
+Să pot să fiu şi eu mântuit :/
+
+[order]
+s1,s2,s3,s4

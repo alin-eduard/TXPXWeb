@@ -1,0 +1,40 @@
+[s1]
+Îmi amintesc şi-acum cu drag
+De chipul ce-l priveam adesea în prag
+Şi fericit eu îi zâmbeam
+La sânul ei de rău ades m-adăposteam
+Cum mă strângea, mă alinta
+Căldura dragostei din piept mi-o dăruia
+De ea uita când mă privea
+Din mii si mii oricând pe ea o cunosteam.
+
+[r1]
+O, mama mea, nu te-oi uita
+Căci tu ai fost aceea
+Ce mi-ai dat viata
+Oriunde-aşi fi, mi-o aminti
+De-a ta iubire, de-al tău chip
+Ce l-am iubit.
+
+[s2]
+Când eu zăceam în neputinţi
+Pe obrazul său, a sale lacrime fierbinţi
+Se prelingeau şi înecau
+A rugii sale glas ce-n taină înalta
+Spre Dumnezeu, spre Tatăl meu
+Ce mă putea scapa prin mila Sa
+O Tata, cât de mult as vrea
+Ca cei din jur să vadă azi lucrarea Ta.
+
+[s3]
+Prin vremile ce au trecut
+De Dumnezeu m-a învăţat cum să ascult
+Cum să trăiesc, cum să-L iubesc
+Cuvântul Sfânt în inima să îl primesc
+De aceia vreau ca-n ţara Ta
+Isus să fiu cu tot cu mama mea
+Să pot şi-atunci să-i mulţumesc
+Căci tot ce voi avea doar ei îi datorez.
+
+[order]
+s1,r1,s2,r1,s3,r1

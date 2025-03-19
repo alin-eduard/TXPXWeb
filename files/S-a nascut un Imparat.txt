@@ -1,0 +1,26 @@
+[s1]
+S-a născut un Împărat
+Domn al păcii minunat
+S-a născut Mântuitor
+Domn al tuturor
+
+[r1]
+Aleluia, îngerii cântau
+Aleluia, toţi se bucurau
+Aleluia şi noi Îi cântăm
+Lui Mesia inima I-o dăm
+
+[s2]
+Cum profeţii-au profeţit
+Astăzi totul s-a-mplinit
+Cel fără de început
+Astăzi s-a născut
+
+[s3]
+Să răsune-n largul zării
+Vestea bun-a îndurării
+Întunericul s-a dus
+S-a născut Isus
+
+[order]
+s1,r1,s2,r1,s3,r1

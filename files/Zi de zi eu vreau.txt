@@ -1,0 +1,25 @@
+[s1]
+/:Zi de zi eu vreau,
+Sa respir Cuvantul Tau.
+Si ma rog Doamne,
+Tot mai mult sa Te cunosc.
+Conduma in fiecare
+Clipa ce-o traiesc.
+Zi de zi Doamne
+Vreau sa luminez mereu!:/
+
+[r1]
+/:Zi de zi
+In Tine eu traiesc.
+Zi de zi
+Pe Tine te urmez.
+Zi de zi
+Cu Tine eu pasesc.:/
+
+[s2]
+Eu vreau cu Tine sa traiesc.
+Eu vreau cu Tine sa traiesc.
+Eu vreau cu Tine sa traiesc.:/
+
+[order]
+s1,r1,s2,r1

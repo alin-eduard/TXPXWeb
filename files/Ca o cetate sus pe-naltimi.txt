@@ -1,0 +1,26 @@
+[s1]
+Ca o cetate sus pe-naltimi
+Sa luminezi pe cei ce-n noapte se plang
+Chiar si furtuna si vijelii
+Sa stea linistiti sus pe inaltimi
+
+[r1]
+Lumina Lui s-o raspandesti
+In zi de vapai sus pe-naltimi
+Nu ascunde slava Lui
+In miezul acestei nopti adanci
+
+[s2]
+Odata demult pe-o cruce sus
+Se mistui-n iubire Domnul Isus
+De-atunci flacari sfinte sus pe-naltimi
+Aprind vapai din dragostea de sus
+
+[s3]
+Multimi de vieti sus pe-naltimi
+Inalta spre cer al biruintei gand
+Prin noaptea lunga si de vapai
+Se-nalta drepte catre cer
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,38 @@
+[s1]
+Întru cât atârnă de voi,
+trăiţi în pace cu oricine!
+Preaiubiţilor, nu vă răzbunaţi,
+biruiţi răul prin bine!
+De-ai s-ajungi să fii ocărât,
+întoarce-te şi binecuvântă!
+Dacă lumea te va prigoni,
+încearcă răbdarea că-i sfântă!
+Suntem nebuni pentru Hristos!
+
+[s2]
+/: Nu ne lăsăm biruiţi de rău,
+biruim răul prin bine
+Dar lumea-n înţelepciunea ei ne
+numeşte <nebuni>făr’ de folos
+Suntem nebuni pentru Hristos! :/
+
+[s3]
+Nimeni să nu se înşele,
+înţelepciunea vine de sus
+Cât de greu ar lovi încercarea,
+răscumpăraţi suntem prin Isus.
+Vă îndemn dar, fraţilor, pentru
+Hristos să luptaţi împreună cu mine
+Vestind pe Hristos şi pe El răstignit
+ca tot ce-i firesc să se-nchine.
+Suntem nebuni pentru Hristos !
+
+[s4]
+Vestirea crucii e-o nebunie pentru cei
+ce sunt pe calea pierzării
+Dar pentru cei ce sunt pe calea
+mântuirii este puterea lui Dumnezeu
+Suntem nebuni pentru Hristos!
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,33 @@
+[s1]
+Te stiu, alergi
+Cand altii stau pe loc
+Te vad cum plangi,
+Cand oamenii nu pot
+Sa stea putin
+Sa`asculte vocea Mea
+
+[s2]
+Te vad cum strigi,
+Cand nu m-auzi deloc
+Dar Eu te-ascult,
+Chiar daca treci prin foc
+Nu te opri, asculta vocea Mea
+
+[s3]
+Te-aud, cu tine sunt, nu inceta,
+Fiecare clipa ce-o jerfesti,
+Pentru Mine stiu ca o traiesti.
+Nu inceta!
+
+[s4]
+Nu te-ndoii, ci crede-n voia Mea
+Vei fi placut, iar lumea va vedea
+Ca Eu sunt Sfant si sunt de partea ta
+
+[s5]
+Ma vor vedea, si se vor inchina
+In fata Mea, cu totii vor cadea
+Marturisind ca eu sunt Dumnezeu.
+
+[order]
+s1,s2,s3,s4,s5

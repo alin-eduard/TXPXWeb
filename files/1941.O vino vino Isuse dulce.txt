@@ -1,0 +1,27 @@
+[s1]
+1941
+1. O vino vino Isuse dulce
+Te cheamă astăzi iubirea mea
+/: Tot mai străină tot mai departe
+Mi-e lumea-n care străbat prin ea :/.
+
+[s2]
+2. O vino vino s-aduci cu Tine
+O stare nouă cu-n nou avânt
+/: Spre-o mai frumoasă și limpezită
+Iubire aprinsă din focul sfânt :/.
+
+[s3]
+3. O vino vino te-așteaptă-ntruna
+Iubirea-mi oarbă cu flori de jar
+/: Și sărbătoarea nemaisfârșită
+Vom fi-mpreună scăldați în har :/.
+
+[s4]
+4. O vino vino Isuse dulce
+Mie dor de Tine de ai  tăi mie dor
+Cu toți acasă pe veșnicie
+Cânta-vom slavă în veșnic cor.
+
+[order]
+s1,s2,s3,s4

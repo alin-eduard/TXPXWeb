@@ -1,0 +1,34 @@
+[s1]
+Eşti tu pregătit să întalneşti
+azi pe Domnul?
+O, spune-mi prietene,
+eşti pregătit?
+Ţi-e scris numele tău
+în Cartea Vieţii?
+Te-ntreb dacă eşti mîntuit.
+
+[r1]
+Judecata este-aproape,
+nu mai sta nepăsător!
+Grăbeşte la Isus
+de vrei să fii salvat!
+Pregăteşte-te să-L întîlneşti
+pe Dumnezeul tău acum!
+Încrede-te în El ca să fii mîntuit!
+
+[s2]
+Un strop de credinţă
+e o rază de Soare
+Ce în sufletul tău
+mereu va străluci.
+Primeşte viaţă, primeşte lumină
+Primeşte-L tu astăzi pe El!
+
+[s3]
+În jertfa lui Isus găseşti mîntuirea
+Prin sîngele Lui tu eşti răscumpărat.
+În nimenea altul nu este salvarea
+Ce Tatăl prin Fiul ne-a dat.
+
+[order]
+s1,r1,s2,r1,s3,r1

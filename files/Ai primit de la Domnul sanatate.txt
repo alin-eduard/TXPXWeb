@@ -1,0 +1,26 @@
+[s1]
+Ai primit de la Domnul sănătate
+Ai primit un trup minunat.
+Ești înconjurat cu bunătate
+Nu tăcea și cânta-I neîncetat.
+
+[r1]
+/: Lasă să curgă din inima ta
+Imnuri de slavă spre slava Sa
+Râuri de mărire din sufletul tău,
+Fluvii de iubire pentru Dumnezeu:/
+
+[s2]
+Te-a păzit de săgeata celui rău,
+Îngerii veghează asupra ta
+Ești sub aripa lui Dumnezeu,
+Laudă-L cu tot sufletul tău.
+
+[s3]
+A venit să moară pentru tine,
+Isus Hristos e Mântuitor
+Vino în Fața Lui cu mulțumire,
+Laudă-L pe al tău Creator.
+
+[order]
+s1,r1,s2,r1,s3,r1

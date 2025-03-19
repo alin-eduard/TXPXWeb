@@ -1,0 +1,42 @@
+[s1]
+Pe Dumnezeu rugaţi
+Din  suflet cu tărie
+Ca să ne dea şi azi
+Duh Sfânt în bogăţie!
+Aici şi-n orice loc
+Şi-n veci cu El să fim
+Poveţe să ne dea
+Şi voia-I să-mplinim.
+
+[s2]
+Pe Dumnezeu rugaţi
+Să fim păziţi de rele
+Prin Fiul Său iubit
+Păcatul să ni-l spele.
+Să vie în curând
+Împărăţia Sa
+Şi pe pământul nou
+Sălaşuri să ne dea.
+
+[s3]
+Cuvânt Tu de ne dai
+Avem înţelepciune
+De vrei să ne conduci
+Păşim pe drumuri bune,
+Tu eşti vindecător
+De orice rană rea;
+Pe-ai Tăi închinători
+De moarte poţi scăpa.
+
+[s4]
+Sfinţeşte-ne acum,
+Cu haru-Ţi ne-ocroteşte,
+De orice spirit rău,
+De tot ce ne mânjeşte,
+Cu foc din tronu-Ţi sfânt
+Un foc aprinde-n noi
+Ca veşnic luminaţi
+Să fim urmaşii Tăi!
+
+[order]
+s1,s2,s3,s4

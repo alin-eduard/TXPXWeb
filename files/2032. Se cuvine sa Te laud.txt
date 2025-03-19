@@ -1,0 +1,63 @@
+[s1]
+2032
+1. Se cuvine să Te laud
+Să mă-nchin cu mulțumire
+Să-mi plec inima și viața
+S-o sfințești pentru slujire.
+
+[s2]
+2. Căci m-ai scos din întuneric
+La lumina feței Tale
+Și ne-ai pregătit în ceruri
+Frumuseți nepieritoare.
+
+[s3]
+3. Și de câte ori vrășmașul
+M-a trântit cu-nverșunare
+Tu m-ai ridicat Isuse
+Prin puterea mâinii Tale.
+
+[s4]
+4. M-ai privit cu multă milă
+Și știai că sunt țărână
+Dar ai hotărât în ceruri
+Să mă faci să fiu fântână.
+
+[s5]
+5. Ca să izvorăsc din Tine
+Apă rece limpezită
+Pentru inima rănită
+Însetată și obosită.
+
+[s6]
+6. Luându-mi crucea ca și Tine
+Să pășesc spre sfânta țară
+Îndurând pe drum adesea
+Când batjocori, când ocară.
+
+[s7]
+7. Umple-mă cu Tine Doamne
+Ca să dau pe dinafară
+Și lumină și iubire
+Și parfum de floare rară.
+
+[s8]
+8. Umple-mă cu Tine Doamne
+Ca să pot s-aduc cu mine
+Prinșii de război ai țării
+Să-i faci liberi pentru Tine.
+
+[s9]
+9. Umple-mă cu Tine Doamne
+Ca să pot să știu ce-i mila
+Având dragoste din Tine
+Să-mi pot împlini menirea.
+
+[s10]
+10. Toarnă foc ceresc Isuse
+Ca să ard doar pentru Tine
+Căci se-aude-n cer strigarea
+Iată Mirele că vine.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

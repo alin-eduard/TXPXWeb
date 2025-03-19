@@ -1,0 +1,42 @@
+[s1]
+Pentru orice suflet
+Dumnezeu are răspuns
+Pentru orice încercare
+izbăvire îndeajuns
+Pentru orice suflet
+care încă zace în păcat
+Isus toarnă untdelemnul
+Isus cheamă ne-ncetat
+
+[s2]
+Vino, suflete-ndrăznește
+Pentru tine am murit…
+Hai si-ncearca sfantu-Mi sange
+Ce s-a scurs cand M-am jertfit
+Vino, suflete grabeste
+Vremea iata-I pe sfarsit
+Harul Meu indeajuns este
+Eu te vreau ca-Mi esti iubit
+
+[s3]
+Vino, suflete si cauta
+Adapost pe bratul Meu
+Pe-al Meu piept aseaza-ti capul
+Sa iti cant iubitul Meu
+Daca-n ochi vei avea lacrimi
+Le voi sterge si-am sa-Ti spun
+Doar cuvinte de iubire,
+Si-ai sa simti cat sunt de bun
+
+[s4]
+Vino, suflete-ndrazneste
+Pentru tine am murit…
+Hai si-ncearca sfantu-Mi sange
+Ce s-a scurs cand M-am jertfit
+Vino, suflete grabeste
+Vremea iata-I pe sfarsit
+Harul Meu indeajuns este
+Eu te vreau ca-Mi esti iubit
+
+[order]
+s1,s2,s3,s4

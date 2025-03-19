@@ -1,0 +1,22 @@
+[s1]
+Stau şi mă gândesc la Tine
+Cum ai murit
+În locul meu pe cruce
+Tu Te-ai jertfit
+
+[r1]
+/: Doamne Ţie îţi mulţumesc
+Pentru harul Tău ceresc
+Pentru Fiul ce-a murit pe cruce
+Doamne Ţie îţi mulţumesc
+Pentru Harul Tău ceresc
+Pentru jertfa de pe cruce :/
+
+[s2]
+Stau şi meditez în rugă
+Până la Mareaţa Zi
+Ca pe norul plin de slavă
+Tu,să mă poţi răpi.
+
+[order]
+s1,r1,s2,r1

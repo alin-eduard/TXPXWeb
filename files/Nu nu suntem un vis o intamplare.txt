@@ -1,0 +1,50 @@
+[s1]
+Nu, nu suntem un vis si-o întâmplare,
+Un lut de sine însuşi frământat,
+/: Ci ne-a zidit o minte creatoare,
+O-nţelepciune fără de hotare!
+/: Exista Dumnezeu :/ Ce minunat!
+(Cu-adevarat) :/
+
+[s2]
+Nu, nu suntem jivine-ntunecate,
+Gonite de un bici ne-nduplecat,
+/: Ci noi avem un duh şi-o libertate
+Şi-o inima ce pentru ceruri bate.
+/: Exista Dumnezeu :/ Ce minunat!
+(Cu-adevarat) :/
+
+[s3]
+N-ar fi simţit în veci de veci ţărâna
+Surâsul unui crin imaculat,
+De n-ar fi-ntins atunci Stapanul mâna
+Să umple-n noi de simţământ fântâna
+/: Exista Dumnezeu :/ Ce minunat!
+(Cu-adevarat) :/
+
+[s4]
+Avem cu noi Scriptura ca dovadă,
+Avem minuni şi semne-ndestulat,
+/: Si cine vrea pe Dumnezeu să-L vadă
+Să stea în faţa Lui pe baricadă!
+/: Exista Dumnezeu :/ Ce minunat!
+(Cu-adevarat) :/
+
+[s5]
+Nu-i calea noastră veşnic însorită,
+Nu-i viaţa totdeauna un palat,
+/: Dar o trăim, căci merită trăită,
+Caci peste lumea asta mărginită,
+/: Exista Dumnezeu :/ Ce minunat!
+(Cu-adevarat) :/
+
+[s6]
+Nu, nu suntem neant! Ce fericire!
+Supremul adevar s-a relevat!
+/: Isus e-n noi lumina si iubire,
+Iar moartea e un zbor spre nemurire.
+/: Exista Dumnezeu :/ Ce minunat!
+(Cu-adevarat) :/
+
+[order]
+s1,s2,s3,s4,s5,s6

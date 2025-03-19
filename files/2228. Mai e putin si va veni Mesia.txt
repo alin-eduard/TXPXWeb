@@ -1,0 +1,47 @@
+[s1]
+2228
+1. Mai e puțin și va veni Mesia
+Acel ce pentru noi
+pe cruce S-a jertfit
+De la-ntuneric ne-a scos
+la lumină
+O țară sfântă pentru noi
+a pregătit.
+
+[r1]
+Cor:	Va veni-n curând Isus,
+va veni
+Va veni-n curând Mesia
+Să ne ducă-n țara Sa
+Unde veșnic vom cânta.
+
+[s2]
+2. Și toți acei
+ce vreau să intre-acolo
+Acolo unde lacrimi
+nicicând n-or mai fi
+Ei au ieșit cu toți
+din lumea aceasta
+Și pentru țara Lui
+cu drag ne-a pregăti.
+
+[s3]
+3. N-ai vrea să fii
+și tu în țara aceea
+Unde cu îngerii în coruri
+vom cânta
+Căci toate lucrurile de aicea  Toate de noi, aici curând
+vor rămânea.
+
+[s4]
+4. Te-așteaptă-ai Tăi copii
+să vii, Isuse
+Ajută-ne o, Doamne
+să ne pregătim
+Căci Tu Te-ai dus
+să pregătești o țară
+Unde dorim și noi
+cu Tine acol’ să fim.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

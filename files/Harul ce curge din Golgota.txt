@@ -1,0 +1,26 @@
+[s1]
+Harul ce curge din Golgota
+M-a mântuit, m-a fericit.
+Aici, Isus a fost morţii dat.
+Păcatul meu, El l-a ispăşit.
+
+[r1]
+/: Harul :/
+Harul e darul nemeritat.
+/: Harul :/
+Pe veci cu Dumnezeu m-a-mpăcat.
+
+[s2]
+Am fost robit de al meu păcat,
+Ce m-a apăsat, m-a chinuit.
+Dar la Isus eu am alergat.
+El mi-a dat pace şi m-a-ntărit.
+
+[s3]
+Tu, dragul meu, astăzi eşti chemat
+La acest har, ce e în dar.
+Pleacă-ţi genunchii şi inima.
+Întinde-ţi mâna şi-L vei afla.
+
+[order]
+s1,r1,s2,r1,s3,r1

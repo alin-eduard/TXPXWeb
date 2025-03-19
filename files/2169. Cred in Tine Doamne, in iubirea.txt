@@ -1,0 +1,47 @@
+[s1]
+2169
+Cor: Cred în Tine Doamne
+În iubirea Ta,
+Cred în Tine Doamne în voinţa Ta
+Cred în Tine Doamne,
+Ajută-mă să cred.
+Din zori până-n noapte în Tine
+să mă-ncred
+
+[r1]
+Cred în Tine Doamne
+În ajutorul Tău
+Cred în Tine Doamne,
+Cred în harul Tău
+Cred în Tine Doamne,
+Ajută-mă să cred
+La greu şi la bine
+În Tine să mă-ncred.
+
+[s2]
+1. Sunt un sărac ce vin acum
+În faţa Ta, sufletul îmi este gol fără prezenţa Ta
+Tot ce am şi tot ce sunt
+E bunătatea Ta, Te rog fii cu mine Doamne nu mă lăsa.
+
+[r2]
+Cor: Cred în Tine Doamne
+În iubirea Ta,
+Cred în Tine Doamne în voinţa Ta
+Cred în Tine Doamne,
+Ajută-mă să cred.
+Din zori până-n noapte în Tine
+să mă-ncred
+
+[s3]
+2. Eu sunt un păcătos
+La Tine Doamne, primeşte-mă,
+Tu mă asculţi şi vezi și vezi
+al meu suspin
+Vreau să-Ți slujesc să fiu
+cu Tine în viaţa mea
+Fereşte-mă de rău Doamne
+nu mă lăsa.
+
+[order]
+s1,r1,s2,r2,r1,s3,r2,r1

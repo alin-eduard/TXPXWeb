@@ -1,0 +1,38 @@
+[s1]
+Fa major
+Chiar dacăa valuri bat,
+În luntrea mea, mereu,
+Credinţa nu mi-o pierd în Tine,
+Domnul meu;
+Chiar urlete prelungi de-aş auzi,
+eu şţiu
+Că mâna Ţi-o întinzi cu drag
+spre al Tău fiu.
+
+[r1]
+/: Aleluia! :/
+Salvarea mea e Isus!
+Speranţa ta este El?
+
+[s2]
+Chiar dacă mă lovesc
+Adesea vanturi reci,
+Eu ştiu că, şi prin vanturi,
+trebuie să trec;
+Spre-a mă salva degrab',
+Tu braţul mi-l întinzi
+Şi, lângă sânul Tău,
+Cu dor Tu mă cuprinzi...
+
+[s3]
+Chiar dacă luntrea mea
+Va fi mereu mai grea,
+Şi-adesea, sub povara ei,
+de-aş luneca,
+Tu poţi să mă ridici
+Ca-n glorie să-Ţi cânt
+Cântarea biruinţei,
+De pe-acest pământ.
+
+[order]
+s1,r1,s2,r1,s3,r1

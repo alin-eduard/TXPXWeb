@@ -1,0 +1,29 @@
+[s1]
+Conducator ai fost si m-ai ocrotit
+Ocrotitor de mine te-ai ingrijit
+M-ai cautat si m-ai gasit
+M-ai aparat cu bratul Tau
+De-acel dusman Tu m-ai pazit
+Nu imi va face niciun rau
+
+[s2]
+Tu salvator in minte
+mi-ai pus un gand
+Sa Te urmez mereu
+pe acest pamant
+Cu bratul sfant mai ridicat
+Pacatul intreg mi-ai spalat
+Cu bratul Tau m-ai inaltat
+Sa-Ti cant ca esti minunat
+
+[s3]
+Iti multumim
+ca de-acum Tu ai invins
+Si pentru noi o dragoste ai aprins
+Ne-ai cautat si ne-ai gasit
+Ne-ai aparat cu bratul Tau
+De-acel dusman tu ne-ai pazit
+Nu ne va face niciun rau
+
+[order]
+s1,s2,s3

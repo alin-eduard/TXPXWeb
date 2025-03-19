@@ -1,0 +1,20 @@
+[s1]
+Forţa Ta, dragostea Ta
+Prezenţa Ta e-n viaţa mea.
+
+[s2]
+De-aceea vreau să-Ţi cânt
+din toată inima
+Şi vreau să-Ţi mulţumesc
+prin viaţa mea
+Pe Tine să Te-nalţ
+ca Domn al meu
+Tu eşti DUMNEZEU,
+Tu Domnul meu.
+
+[s3]
+Forţa Ta, dragostea Ta,
+Speranţa Ta e-n viaţa mea.
+
+[order]
+s1,s2,s3

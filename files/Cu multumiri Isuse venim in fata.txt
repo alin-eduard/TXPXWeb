@@ -1,0 +1,32 @@
+[s1]
+Cu mulţumiri, Isuse,
+venim în faţa Ta
+Cântându-Ţi osanale
+şi-n veci: Aleluia!
+Şi bucuroşi de nedescris
+privim mereu spre cer.
+Îţi mulţumim, Isus iubit,
+zicând: “Eben-Ezer”.
+
+[s2]
+În semn de închinare
+îngenunchem smeriţi
+Că-n marea Ta-ndurare
+noi suntem fericiţi.
+Îţi dăruim tot ce avem
+şi-al inimii ungher,
+Şi-n drum spre cer azi ne-am oprit,
+zicând: “Eben-Ezer”.
+
+[s3]
+Slăvit să fii, Isuse,
+că-n harul Tău bogat,
+Cu mâna Ta cea sfântă
+ne-ai binecuvântat.
+Te onorăm şi preamărim
+scump Numele-Ţi divin,
+A Ta să fie gloria
+acum şi-n veci, Amin!
+
+[order]
+s1,s2,s3

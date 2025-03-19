@@ -1,0 +1,51 @@
+[s1]
+2077
+1. Numele Tău îl rostesc
+Că mi-e dor să Te-ntâlnesc
+O Isuse Domnul meu ceresc
+Sunt ca floarea de pe câmp
+Numai Tu mă ții
+cu-al Tău cuvânt.
+
+[r1]
+Cor: Domnul meu cel minunat
+De-al meu suflet ești lăudat
+Pentru harul care mi l-ai dat
+Pentru țara mea de sus
+Pentru darul ce mi-ai pus
+Ca în ea să fiu de Tine dus.
+
+[s2]
+2. Ține-mă mereu, mereu
+O, Isuse Domnul meu
+Ține-mă mereu la sânul Tău
+Zi de zi să fiu mai sfânt
+S-aduc roadă pe pământ
+În viață-n, faptă și-n cuvânt.
+
+[s3]
+3. Chiar dacă-s printre străini
+Eu văd ochii Tăi senini
+Când cobori l-a mele rugăciuni
+Doamne cât de mult aș vrea
+În prezența Ta a sta
+Ca să uit că sunt în lumea rea.
+
+[s4]
+4. Mă ajută pe pământ
+Să-Ți urmez pân` la mormânt
+Să am parte-n paradisul sfânt
+Să pot a Te lăuda
+Când în cer cu Tin` voi sta
+Cu cei ce sunt mireasa Ta.
+
+[s5]
+5. Numele Tău îl rostesc
+Până o să Te-ntâlnesc
+O Isuse Domnul meu ceresc
+Căci eu pe acest pământ
+Sunt ca floarea de pe câmp
+Dar trăiesc prin sfântul Tău cuvânt.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

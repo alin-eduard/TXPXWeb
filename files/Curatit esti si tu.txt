@@ -1,0 +1,32 @@
+[s1]
+Curăţit eşti prin Isus de-al tău păcat
+Şi spălat prin al Său sânge sfânt?
+Eşti născut din nou, de patimi izbăvit
+Şi spălat prin al Său sânge sfânt?
+
+[r1]
+Curăţit eşti şi tu
+prin sfânt sânge răscumpărător?
+E curată ca zăpada haina ta,
+Eşti spălat prin al Său sânge sfânt?
+
+[s2]
+Vei purta tu crucea zilnic credincios
+Şi spălat prin al Său sânge sfânt?
+Vei urma pe Domnul vieţii bucuros
+Şi spălat prin al Său sânge sfânt?
+
+[s3]
+De-ar veni azi Mirele, eşti pregătit
+Şi spălat prin al Său sânge sfânt?
+Porţi veşmântul alb de Domnul dăruit
+Şi spălat prin al Său sânge sfânt?
+
+[s4]
+Părăseşte-acum păcatul, suflete,
+Fii curat prin al Său sânge sfânt!
+La Izvorul care curge, spală-te,
+Fii curat prin al Său sânge sfânt!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

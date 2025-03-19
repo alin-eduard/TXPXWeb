@@ -1,0 +1,30 @@
+[s1]
+1206
+1. Doamne-n Tine eu
+mă-ncred
+În vremea de-ncercare
+Tu ești cetățuia mea
+Și stânca mea cea tare.
+
+[r1]
+Cor: Doamne ești nădejdea mea
+Ești totul pentru mine
+În lupta vieții cea mai grea
+Puterea Ta mă ține.
+
+[s2]
+2. Tu mă povățuiești mereu
+Pentru-al Tău nume mare
+Ești călăuză în drumul meu
+Lumină îmi ești pe cale.
+
+[s3]
+3. Tu știi că-i greu
+și-am obosit
+Puterea acum slăbește
+Ascultă glasul meu
+Când strig
+Din nou mă izbăvește.
+
+[order]
+s1,r1,s2,r1,s3,r1

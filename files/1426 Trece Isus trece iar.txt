@@ -1,0 +1,51 @@
+[s1]
+1426.           Sol
+Trece Isus trece iar
+Ca odată prin Sihar
+Trece pe la poarta ta
+Vrea să-i deschizi inima
+/:Se apropie uşor
+Bate-n poartă-ncetişor
+Nu forţează al tău zăvor
+Vrea din dragoste curată
+Să-i deschizi tu a ta poartă
+Domnul şi astăzi aşteaptă:/
+
+[s2]
+Trece Isus prin cetate
+Pe la uşile încuiate
+Vrea din nou din adunare
+Să se-audă osanale
+/:Poporul să se trezească
+Pe Domnul să-L preamărească
+Din inimă să-L slăvească
+Pentru vremea care vine
+Să trăiască în iubire
+Stând gata pentru răpire:/
+
+[s3]
+Trece Isus pe la tine
+Om bolnav de ani de zile
+Vrea să te faci sănătos
+În numele lui Hristos
+/: Vrea ca şi din gura ta
+Să se audă Osana
+Căci ţi-a vindecat boala
+Ca atunci la scăldătoare
+La acele cinci pridvoare
+Să stai şi tu în picioare:/
+
+[s4]
+Să poţi spune tuturor
+Despre Domnul Domnilor
+Căci şi astăzi El lucrează
+Şi cu Duhul Sfânt botează.
+/: El rămâne neschimbat
+Chiar de trece neobservat
+El lucrează minunat
+Lasă binecuvântări
+Peste a Sale adunări
+Prin minuni şi vindecări:/
+
+[order]
+s1,s2,s3,s4

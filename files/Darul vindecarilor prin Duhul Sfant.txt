@@ -1,0 +1,30 @@
+[s1]
+Darul vindecărilor
+prin Duhul Sfânt s-a dat
+Suflet inimă şi duh a vindecat.
+
+[r1]
+Darul vindecărilor
+in puterea Duhului divin
+Lasă pocăinţei har
+Iar în suflet pace şi alin.
+
+[s2]
+Darul vindecărilor
+revarsa mangaieri
+Pace, bucurie-n noi
+Bisericii puteri.
+
+[s3]
+Darul vindcarilor alina suferinti
+Toarna ungerea de sus
+Prin ruga celor sfinti
+
+[s4]
+Darul vindecărilor dă-l
+Doamne şi la noi
+Multe sunt de vindcat
+în lumea de nevoi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,27 @@
+[s1]
+1927
+1. Dumnezeul meu Cel Sfânt
+Călător sunt pe pământ
+Chiar de trec prin ploi și vânt
+Binecuvântare-ți cânt
+
+[r1]
+Cor: Binecuvântat să fii
+Doamne acum și-n veșnicii
+Toarnă-n mine melodii
+Pentru Tine tot mai vii
+
+[s2]
+2. Dumnezeul meu Sfânt
+Călător m-ai rânduit
+Chiar de alerg pe drum zorit
+Slavă-ți cânt necontenit
+
+[s3]
+3. Dumnezeul meu Cel Viu
+Călător m-ai pus să fiu
+Chiar de-i aspru acest pustiu
+Cântul Tău nenfrânt îl țin
+
+[order]
+s1,r1,s2,r1,s3,r1

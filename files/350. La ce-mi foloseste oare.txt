@@ -1,0 +1,51 @@
+[s1]
+1. La ce-mi foloseşte oare
+Viaţa asta trecătoare
+Dacă mi-o petrec în rău
+Departe de Dumnezeu.
+350.
+
+[s2]
+2. La ce-mi foloseşte mie
+Să am mare bogăţie
+Câtă vreme eu trăiesc
+Fără Tatăl cel ceresc.
+
+[s3]
+3. La ce-mi foloseşte frate
+Să am bani, să am de toate
+Căci nimic nu voi lua
+Din lume când voi pleca.
+
+[s4]
+4. De-aş avea toată ştiinţa
+Dacă îmi lipseşte credinţa
+În zadar m-am ostenit
+Şi nimic n-am folosit.
+
+[s5]
+5. De-aş şti numărul de stele
+De-aş cunoaşte toate cele
+Lumea-ntreagă de-aş avea
+Ce folos de viaţa mea.
+
+[s6]
+6. Ştiu însă că toate-s bune
+Atunci când prin rugăciune
+Mă apropii tot mereu
+De prea bunul Dumnezeu.
+
+[s7]
+7. Când am legătură vie
+Cu cereasca-mpărăţie
+Traiul meu este uşor
+Ca al păsărilor zbor.
+
+[s8]
+8. Când sălăşluieşte-n mine
+Duhul Sfânt de sus când vine
+Sunt omul cel mai bogat
+Şi duc viaţă de-mpărat.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

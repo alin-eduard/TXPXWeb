@@ -1,0 +1,31 @@
+[s1]
+Catre Tine strig Doamne bun
+Din adanc eu te chem, izbaveste-ma
+Indurarea Ta o astept
+Catre Tine strig Doamne bun!
+
+[s2]
+Catre Tine strig Doamne bun
+Din adanc eu Te chem izbaveste-ma
+Indurarea Ta o astept
+Catre Tine strig Doamne bun
+( O Doamne, o Doamne
+Te rog s-asculti ruga mea
+O Doamne bun)
+
+[s3]
+De pe-al morii drum sa ma-ntorci,
+Te rog iarta-mi vina mea
+oricat ar fi de grea
+In necazul meu, in durerea mea
+Eu ma rog si astept izbavirea Ta
+
+[s4]
+Voi canta in zori fericit,
+Voi canta fericit ca mai izbazit
+Pentru mine Tu ai murit
+Fiindc-atat de mult m-ai iubit
+(Aleluia)
+
+[order]
+s1,s2,s3,s4

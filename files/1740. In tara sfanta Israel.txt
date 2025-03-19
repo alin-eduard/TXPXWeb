@@ -1,0 +1,35 @@
+[s1]
+1. În ţara sfântă Israel
+De două mii de ani Mesia
+Născutu-s-a în Betleem
+Cum a prezis de mult Isaia
+/:E Domn al păcii
+Împărat Dumnezeu
+Tatăl minunat
+Părinte-al veşniciilor
+Cum a prezis de mult Isaia:/
+1740.
+
+[s2]
+2. Din casă-n casă a umblat
+În Betleem atunci Maria
+Un loc niciunde n-a aflat
+Să nască pe sfântul Mesia
+/:Afară-n staul într-un grajd
+A lumii veşnic Împărat
+Veni la noi umil sărman
+S-aducă mântuirea:/
+
+[s3]
+3. Răsună iar la mulţi sub geam
+Cuvântul sfânt buna vestire
+El va rămâne an de an
+Mereu, mereu în amintire
+/:Veniţi, cântaţi acum cu noi
+Cântaţi căci azi şi pentru noi
+El s-a născut în Betleem
+Precum ne-a spus
+De mult Isaia
+
+[order]
+s1,s2,s3

@@ -1,0 +1,26 @@
+[s1]
+Să strălucesc ca o rază
+A soarelui dorit
+Astfel Isus mă doreşte
+Ca să-I fiu de folos
+
+[r1]
+O rază de soare,
+Pentru Isus arzătoare;
+Ca raza de soare
+Să luminez eu doresc.
+
+[s2]
+Chiar cînd fac cel mai mic lucru
+Mereu mă vede El
+Deci vreau s-arăt a mea rază
+Ca soarele, la fel
+
+[s3]
+In viaţa mea să se vadă
+Lumina Lui de sus
+Ca cei din jur să cunoască
+Că sint al lui Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1

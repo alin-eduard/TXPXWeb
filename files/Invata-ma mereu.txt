@@ -1,0 +1,26 @@
+[s1]
+Învaţă-mă mereu
+Păstrează-mă curat,
+Să merg pe drumul Tău
+Slăvit şi-nsângerat.
+Pentru Numele Tău preasfânt,
+Învaţă-mă, învaţă-mă.
+
+[s2]
+Învaţă-mă s-ascult
+Al crucii Tale glas,
+În duh şi adevăr
+Condu-mi al rugii ceas.
+Pentru Numele Tău preasfânt,
+Învaţă-mă, învaţă-mă.
+
+[s3]
+Învaţă-mă să rabd
+Privind la jertfa Ta,
+S-aştept răspunsul Tău
+Chiar de-i ispita grea.
+Pentru Numele Tău preasfânt,
+Învaţă-mă, învaţă-mă.
+
+[order]
+s1,s2,s3

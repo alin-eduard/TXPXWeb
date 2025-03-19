@@ -1,0 +1,43 @@
+[s1]
+1.	Nu te mai plânge creştine
+De ce eşti nemulţumit
+Că avere ca şi tine
+N-are nimeni pe pământ.
+2.	Comoara ta e acolo
+Unde molia nu roade
+Unde n-o mânca rugina
+Şi hoţii n-o pot fura.
+454.
+
+[s2]
+3.	Tu ai sus în ceruri casă
+Pregătită de Isus
+În curând vei primi dreptul
+În locaşul cel de sus.
+4.	Pentru c-ai crezut în Domnul
+El te-a binecuvântat
+Şi pentru că te iubeşte
+Duhul Sfânt l-ai căpătat.
+
+[s3]
+5.	Duhul Sfânt este comoara
+Cea mai scumpă pe pământ
+Dacă l-ai primit măi frate
+Tu eşti cel mai fericit.
+6.	Cine poate să  primească
+Ungerea din partea lui
+Bucura-se-va odată
+În patria Domnului.
+
+[s4]
+7.	Duhul Sfânt este arvuna
+Moştenirea cea de veci
+El te învaţă în limbi străine
+Cu Dumnezeu să vorbeşti.
+8.	De păcate te păzeşte
+Ca să nu fii amăgit
+În curând soseşte Domnul
+Să te ia de pe pământ.
+
+[order]
+s1,s2,s3,s4

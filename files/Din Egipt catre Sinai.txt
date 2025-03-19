@@ -1,0 +1,39 @@
+[s1]
+Din Egipt catre Sinai,
+A pornit poporul Sfant
+El mergea cu mare-alai,
+Protejat de cel Preasfant.
+
+[s2]
+Ziua-n val de nor,
+Noaptea-n stalp de foc
+Domnul i-a condus din loc in loc
+/: Ani de zile tot mergand,
+S-ajunga-n pamantul Sfant :/
+
+[s3]
+Dar la Sinai s-a oprit,
+Domnul legea le-a citit
+Si le-a zis de-ti asculta,
+Canaanul vi-l voi da.
+
+[s4]
+Cand de ‘colo s-au pornit,
+Cu Duh Sfant i-a insotit
+Sabatul sarbatoreau,
+Si cu mana se hraneau
+
+[s5]
+Dar Satana i-a cernut,
+Multi in pustiu au cazut
+Ramasita din Iordan,
+Au intrat in Canaan
+
+[s6]
+Astfel Israelul sfant,
+Cere din nou legamant
+Mergand catre Canaan,
+Si suntem chiar la Iordan
+
+[order]
+s1,s2,s3,s4,s5,s6

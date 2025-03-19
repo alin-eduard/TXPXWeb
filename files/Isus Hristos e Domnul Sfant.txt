@@ -1,0 +1,10 @@
+[s1]
+/:Isus Hristos e Domnul Sfânt Aleluia:/
+/:Lasă-l să te-atingă si vei fi eliberat:/
+
+[s2]
+/:Isus din cer va reveni Aleluia:/
+/:Lasă-l să te-atingă si vei fi eliberat:/
+
+[order]
+s1,s2

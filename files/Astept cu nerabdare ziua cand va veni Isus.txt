@@ -1,0 +1,25 @@
+[s1]
+Aştept cu nerăbdare ziua
+când va veni Isus,
+Zi minunată! Zi minunată!
+În ceruri nu vor mai fi grijuri
+căci voi fi cu Isus,
+Zi minunată! Zi minunată!
+
+[r1]
+Zi minunată! Şi ce frumos va fi
+Când cu Isus eu în veci voi fi!
+Zi minunată şi fericită
+Va fi când după-ai Săi copii
+El va veni!
+
+[s2]
+Încoronaţi vor fi toţi sfinţii
+în slava cerului.
+Zi minunată! Zi minunată!
+O veşnicie-n adorare
+pe Domnul vom slăvi.
+Zi minunată! Zi minunată!
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,39 @@
+[s1]
+1. Prin silinţă, umilinţă
+Mă voi ferici
+Prin căire şi credinţă
+Harul voi primi.
+184.
+
+[s2]
+Şi grăbind spre ţinta mea
+Fericit voi alerga
+Pe căi sfinte înainte
+Şi voi izbândi.
+
+[s3]
+2. Înspre cruce mă voi duce
+Credincios pe drum
+Îţi cer Tată îndurare,
+Vin să mă supun
+
+[s4]
+Înapoi n-am să privesc,
+Ispitiri am să gonesc
+Înainte cu flori sfinte
+Vreau să mă-n cununi.
+
+[s5]
+3. Îţi voi cere dă-mi putere
+Bunule Stăpân
+Calea dreaptă mă îndreaptă
+Către caldu-Ţi sân
+
+[s6]
+Pasul meu Tu să-l conduci
+Forţe noi Tu să-mi aduci
+Şi prin Tine o Divine
+Mântuit rămân
+
+[order]
+s1,s2,s3,s4,s5,s6

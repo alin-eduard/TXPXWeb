@@ -1,0 +1,26 @@
+[s1]
+Turmă mică a lui Hristos
+De El eşti iubită,
+/: Tu porţi crucea aicea jos
+Şi eşti fericită! :/
+
+[s2]
+Bogaţi, nobili şi-nţelepţi,
+Cu tine nu sunt mulţi,
+/: Ci cei ce poartă-a Lui dispreţ
+Pe dealuri, văi şi munţi :/
+
+[s3]
+Dar fericită te simţeşti
+Condusă de Isus,
+/: Pe Dumnezeu tu Îl măreşti
+Aici jos şi-n cer sus :/
+
+[s4]
+Deci, de Numele Lui cel scump,
+Tu nu te ruşina,
+/: Căci nu peste mult vei primi
+Plata şi odihna! :/
+
+[order]
+s1,s2,s3,s4

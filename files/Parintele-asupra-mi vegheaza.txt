@@ -1,0 +1,38 @@
+[s1]
+Părintele-asupra-mi
+vegează din cer,
+El luntrea-mi conduce
+când stelele pier;
+Îmi dă multă pace
+când drumul e greu,
+Îmi dă biruinţă,
+căci eu sunt al Său.
+
+[r1]
+Da, eu sunt al Său,
+Eu sunt fiul Său ,
+De-aceea grija mea o poartă,
+Căci sunt fiul Său.
+
+[s2]
+De trec prin necazuri,
+ispite, dureri,
+Isus e cu mine,
+îmi dă noi puteri;
+“Nicicând nu te teme”
+îmi zice mereu,
+“Eu sunt lângă tine,
+Eu sunt Domnul tău”
+
+[s3]
+Adesea, când vin valuri
+şi nori mă cuprind
+Încât pe El nu-L văd,
+mă bucur deplin
+Că Domnul e-aproape,
+ce-n mine-I mereu,
+Nicicând nu mă lasă,
+pe veci sunt al Său.
+
+[order]
+s1,r1,s2,r1,s3,r1

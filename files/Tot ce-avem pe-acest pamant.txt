@@ -1,0 +1,32 @@
+[s1]
+Tot ce-avem pe-acest pământ,
+Şi-acest moment curat şi sfânt,
+O, Isuse, ştim acum căci Tu ne-ai dat.
+Totu-n dar noi am primit,
+Tu ne-ai dat, Isus iubit,
+Pentru toate azi venim şi-Ţi mulţumim.
+
+[r1]
+Venim acum cu mulţumire,
+La Tine noi venim,
+Ne-ai dat atâta fericire,
+Isuse, mulţumim.
+
+[s2]
+Eşti lumină-n drumul nost’
+Eşti al nostru adăpost,
+Tu eşti tot ce noi vreodată am dorit
+Doar la Tine noi privim
+Şi putere-n dar primim,
+Te slăvim şi pentru toate-Ţi mulţumim.
+
+[s3]
+Doar cu Tine vrem să fim,
+Tot mai mult să Te iubim
+Şi o veşnicie noi să Îţi cântăm
+Tu eşti dorul nostru sfânt
+Ce-l avem pe-acest pământ,
+Astăzi Ţie ne-nchinăm şi-Ţi mulţumim.
+
+[order]
+s1,r1,s2,r1,s3,r1

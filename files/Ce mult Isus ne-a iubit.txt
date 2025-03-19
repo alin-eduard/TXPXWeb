@@ -1,0 +1,28 @@
+[s1]
+Ce mult Isus ne-a iubit
+Ce mult Isus ne-a iubit
+Sus pe Calvar
+S-a jertfit Dumnezeu
+El m-a iubit mult
+El te-a iubit mult
+O,cât de mult ne-a iubit.
+
+[s2]
+Ce mult Isus ne-a iubit
+Ce mult Isus ne-a iubit
+Suntem salvaţi
+Prin al Său har divin
+El m-a iubit mult
+El te-a iubit mult
+O,cât de mult ne-a iubit.
+
+[s3]
+Ce mult Isus ne-a iubit
+Ce mult Isus ne-a iubit
+În slava Sa în curând vom intra
+El m-a iubit mult
+El te-a iubit mult
+O,cât de mult ne-a iubit.
+
+[order]
+s1,s2,s3

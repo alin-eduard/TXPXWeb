@@ -1,0 +1,32 @@
+[s1]
+Demult Isus Tu ai venit
+Pe'acest pamant Tu ne'ai gasit
+/: In lumea noastra de pacat
+Si-n dragoste Tu ne-ai salvat:/
+
+[s2]
+Sunt 2000 de ani de-atunci
+De cand in Betleem pe drum
+/: Pastorii-au auzit cantand
+Slava-n Cer si pe pamant :/
+
+[s3]
+O stea rasare-n rasarit
+Pe cei trei magi calauzind
+/: Unde e Pruncul Imparat
+In Betleemul-ndepartat:/
+
+[s4]
+Azi nu mai e in Betleem
+Traieste viu la Dumnezeu
+/: Dar se coboara pe pamant
+In inima omului frant :/
+
+[s5]
+De-l ai pe El, pe Dumnezeu
+Ce s-a nascut in Betleem
+/: Ai bogatia cerului
+In asteptarea Mirelui:/
+
+[order]
+s1,s2,s3,s4,s5

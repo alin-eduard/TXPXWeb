@@ -1,0 +1,18 @@
+[s1]
+O, Tu eşti Dumnezeu
+Şi veşnic Te voi lăuda
+O, Tu eşti Dumnezeu
+Şi vesnic Te voi lăuda
+Eu Te chem în zorii zilei
+Şi voi umbla pe calea Ta
+Iar Tu mă vei conduce
+În toate zilele Te voi urma.
+
+[s2]
+Aleluia! Te onorăm Isuse
+Totdeauna-Ţi vom cânta aleluia
+Căci numai Tu eşti vrednic
+Totdeauna-Ţi vom cânta aleluia...
+
+[order]
+s1,s2

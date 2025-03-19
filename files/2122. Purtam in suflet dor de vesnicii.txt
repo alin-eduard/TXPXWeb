@@ -1,0 +1,72 @@
+[s1]
+2122
+1. Purtăm în suflet dor de veșnicii
+Și-n orice clipă-am vrea să fim
+/: În țara păcii unde-s bucurii
+În țara noului Ierusalim :/
+
+[s2]
+Cor: /: Isus viața noastră ai aprins
+Pământu-ntreg și iadul ai învins
+În urma Ta învinge-vom și noi
+E aproape judecata zilei de apoi:/
+
+[s3]
+2. E mare noaptea-n care
+acum trăim
+E tare iadul pe pământ
+/: Dar trecem
+Peste toate și privim
+Spre țara noastră
+Cea din cerul sfânt :/
+
+[s4]
+Cor:  /: Isus viața noastră ai aprins
+Până-ntreg și iadul ai învins
+În urma Ta învinge-vom și noi
+E aproape judecata zilei de apoi:/
+
+[s5]
+3. Dureri atâtea sunt de alinat
+Și atâtea lacrimi sunt de șters
+/:E așa turbată marea de păcat
+Și atâta rătăcire-n univers :/
+
+[s6]
+Cor: /: Isus viața noastră ai aprins
+Până-ntreg și iadul ai învins
+În urma Ta învinge-vom și noi
+E aproape judecata zilei de apoi:/
+
+[s7]
+4. Mult nu mai este acum
+de așteptat
+Și zorii-ncep a se ivi
+/: Și val cu val
+Din marea de păcat
+La glasul sfânt
+Pe veci s-or potoli :/
+
+[s8]
+Cor: /: Isus viața noastră ai aprins
+Până-ntreg și iadul ai învins
+În urma Ta învinge-vom și noi
+E aproape judecata zilei de apoi :/
+
+[s9]
+5. Vom trece munți
+Și-ntunecate văi
+Cu acelaș vis neînplinit
+/: Dar vom scăpa
+Din lumea celor răi
+Speranțe-n suflet
+Tu ne-ai dăruit :/
+
+[s10]
+Cor:  /:Isus viața noastră ai aprins
+Până-ntreg și iadul ai învins
+În urma Ta învinge-vom și noi
+E aproape judecata zilei de apoi :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

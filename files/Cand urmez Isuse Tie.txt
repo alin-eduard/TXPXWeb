@@ -1,0 +1,31 @@
+[s1]
+Când urmez, Isuse, Ţie,
+Tu să nu mă laşi nicicând!
+Îndoieli când vor să-mi vie
+Tu să nu mă laşi nicicând!
+
+[r1]
+/: Tu să nu mă laşi, :/
+Eu în Tine mă încred!
+Tu să nu mă laşi!
+
+[s2]
+Când ispita mă munceşte,
+Tu să nu mă laşi nicicând!
+Când credinţa-mi sovăieşte,
+Tu să nu mă laşi nicicând!
+
+[s3]
+Când am clipe fericite,
+Tu să mă susţii mereu!
+Când mă aflu-n suferinţe,
+Tu să mă susţii mereu!
+
+[s4]
+Dacă noaptea mă cuprinde,
+Tu să mă susţii mereu!
+Când lumina mi se stinge,
+Tu să mă susţii mereu!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

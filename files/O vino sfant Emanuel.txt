@@ -1,0 +1,36 @@
+[s1]
+O, vino, sfânt Emanuel
+Salvând captivul Israel
+Ce geme în robia grea
+Şi­aşteaptă mântuirea Ta!
+
+[r1]
+Să vezi, să vezi, o, Israel
+Că vine­al tău Emanuel!
+
+[s2]
+O, vino, Fiul lui Isai,
+În faţa celui rău să stai,
+Să mori luând al nostru loc,
+Poporul să nu piară­n foc!
+
+[s3]
+O, vino, vino, Răsărit
+Precum profeţii au vestit,
+Ca bezna nopţii s­o străpungi
+Şi doliul nostru să­l alungi!
+
+[s4]
+O, vino, Tu, cel Înţelept
+Să ne înveţi în tot ce­i drept;
+Spre rai o cale să deschizi
+Şi iadul veşnic să­l închizi!
+
+[s5]
+O, vino, Rege proslăvit,
+Cuvântul sfânt din cer venit;
+O vino azi cu pacea Ta,
+Poporul Tău spre a­l salva!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

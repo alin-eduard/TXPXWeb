@@ -1,0 +1,21 @@
+[s1]
+Pe pământ viaţa-i plină de-ncercări
+Lupte suferinţi şi frământări
+Dar avem cu noi Speranţa cea de Sus
+E Domnul slavei e Regele Isus.
+
+[r1]
+Eu cânt Osana, cânt Aleluia
+Din inimă vreau să Te nalţ o Domnul meu
+Mă-nchin cu iubire Ţi-aduc mulţumire
+Căci eşti speranţă eşti ajutor în orice greu
+
+[s2]
+Ca -inimă să-Ţi dăm
+Viaţa-ntreagă Ţie să-Ţi predăm
+Multumindu-Ţi ne’ncetat
+Pentru slava ce va veni
+Că-n curând Te vom vedea în veşnicii.
+
+[order]
+s1,r1,s2,r1

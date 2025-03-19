@@ -1,0 +1,53 @@
+[s1]
+1. Într-o sâmbătă Isus
+La Ierusalim s-a dus
+/: Vede-acolo întâmplător
+Scăldătoarea oilor :/.
+2. În acea scăldătoare
+Se aflau cinci foişoare
+/: Zi şi noapte stau în ele
+Oameni chinuiţi de rele :/.
+591.    Fa
+
+[s2]
+3. Orbi, ologi, şchiopi şi uscaţi
+O mulţime adunaţi
+/: Aşteptând din când în când
+Un înger din cer venind :/.
+4. Drept în apă se lăsa
+Pân' la fund o tulbura
+/: Izbutind să te arunci
+Cel dintâi în apă atunci :/.
+
+[s3]
+5. Vindecat pe loc erai
+De orice boală sufereai
+/: Într-un colţ demult stătea
+Un bolnav ce pătimea :/.
+6. Treizecişiopt de ani săracul
+Îşi căuta degeaba leacul
+/: Atunci cuvântă Hristos
+Vrei să te faci sănătos :/.
+
+[s4]
+7. Cum n-aş vrea amar de mine
+Ce să fac că n-are cine
+/: Să mă bage-n scăldătoare
+După a apei tulburare :/.
+8. Cum a zis aşa Isus
+A sărit bolnavu-n sus
+/: Patul l-a luat în spate
+Mergea cu el prin cetate :/.
+
+[s5]
+9. Fariseii în gura mare
+Sâmbătă se poate oare
+/: Ca să duci patul în spate
+Să mergi cu el prin cetate :/.
+10. Dacă aşa a vrut Hristos
+Să mă facă sănătos
+/: Fie-i numele mărit
+Şi în veci de veci slăvit :/.
+
+[order]
+s1,s2,s3,s4,s5

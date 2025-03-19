@@ -1,0 +1,55 @@
+[s1]
+78                                                   Sol
+Cor: /: Mulţumim :/
+Ţie Părinte divin
+/: Mulţumim :/
+Azi şi pururea Amin!
+
+[s2]
+1. Pentru pâine, pentru apă,
+Pentru hrană îmbelşugată
+Pentru Sfântul Tău prinos
+Doamne-Ți mulţumim frumos
+Pentru pace pe pământ,
+Pentru Sfântul Tău cuvânt
+Pentru harul Tău bogat
+Doamne să fii lăudat.
+
+[r1]
+Cor: /: Mulţumim :/
+Ţie Părinte divin
+/: Mulţumim :/
+Azi şi pururea, Amin!
+
+[s3]
+2.Pentru flori şi pentru spini,
+Pentru nori şi cer senin,
+Pentru bine, pentru greu
+Fii lăudat Sfânt Dumnezeu!
+Pentru lacrimi şi dureri,
+Pentru sfinte mângâieri,
+Pentru locul pregătit,
+Doamne fii în veci slăvit!
+
+[s4]
+3. Pentru apa Ta cea vie,
+Pentru sfânta părtăşie,
+Pentru Fiul Tău jertfit
+Tată bun fii Preamărit!
+Pentru veşnica iubire,
+Pentru sfânta mântuire,
+Pentru ploaia cea târzie
+Slavă Ţie, Slavă Ţie!
+
+[s5]
+4. Pentru veşnica iertare,
+Pentru jertfa de-mpăcare,
+Pentru sângele vărsat,
+Doamne fii glorificat!
+Pentru minunata casă,
+Pentru haina de mireasă,
+Pentru toate Te slăvim
+Azi şi pururea amin!
+
+[order]
+s1,s2,r1,s3,r1,s4,r1,s5,r1

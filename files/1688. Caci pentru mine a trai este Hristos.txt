@@ -1,0 +1,39 @@
+[s1]
+1688.
+1. Căci pentru mine a trăi
+Este Hristos
+Iar  a muri, o da, e un câstig.
+Mă ia de mână ca să merg
+Cu El pe calea Lui.
+O, nu-i iubire ca iubirea Lui
+Mai mare bucurie nu-i
+Pentru copii Lui
+Decît să umble-n voia Domnului
+
+[s2]
+2. Cândva inima-mi
+Era plină de păcat
+L-am întâlnit pe Isus
+Şi m-a vindecat
+Zicându-mi vino la Mine,
+Purtând a Mea cruce.
+Căci fericit vei fi şi mântuit.
+Mânia, ura-au dispărut
+Iubirea-mi este scut
+Nu mă despart
+De-al meu iubit Isus
+
+[s3]
+3. Sunt multe lucruri
+Care încă nu le ştiu
+Doar de un lucru da
+De-acolo sunt sigur
+E că Acel ce m-a salvat
+Şi m-a răscumpărat
+El vrea la sine să mă ia curat.
+O, tu , popor al Domnului
+Să cânţi cântarea Lui
+Până vom intra la nunta Mielului
+
+[order]
+s1,s2,s3

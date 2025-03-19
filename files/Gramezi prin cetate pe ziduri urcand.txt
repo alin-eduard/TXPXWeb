@@ -1,0 +1,14 @@
+[s1]
+Grămezi prin cetate, pe ziduri urcând
+Marea oştire, a Domnului Sfânt
+Grămezi prin cetate, pe ziduri
+Ei împlinesc, doar al Său Cuvânt
+/: Atunci, Domnul îi dă poruncă oştirii :/
+
+[s2]
+/: Sunaţi din trâmbiţe în tot Sionul
+Sunaţi alarma pe Muntele-I Sfânt :/
+Vine Isus!!!
+
+[order]
+s1,s2

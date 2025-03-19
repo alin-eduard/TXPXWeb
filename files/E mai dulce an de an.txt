@@ -1,0 +1,39 @@
+[s1]
+De­-a lui Isus iubire
+Cu care m­a căutat,
+De­-o milă ce­i nespusă
+Prin care m­-a salvat,
+De­-adânca-­I îndurare
+Şi marele Său Dar
+Răsune­-a mea cântare
+Slăvind măreţu-­I har.
+
+[r1]
+E mai dulce an de an,
+E mai dulce an de an,
+Cât de minunată
+Este­-a Lui iubire,
+E mai dulce an de an.
+
+[s2]
+El a umblat în lume
+Având un trai plăcut,
+Chemând la El pe oameni
+Mult bine le­-a făcut.
+La orbi le-­a dat vedere,
+Bolnavi a vindecat,
+A pus în inimi pace,
+Pe toţi i­-a ajutat.
+
+[s3]
+Iubirea­-I minunată
+Ce mult a suferit!
+Purtând pedeapsa noastră
+Pe cruce a murit!
+Cu sfinţii împreună
+Noi glasul să-nălţăm,
+Cu cerul şi pământul
+Pe Domnul să­-L lăudăm!
+
+[order]
+s1,r1,s2,r1,s3,r1

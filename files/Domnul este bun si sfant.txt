@@ -1,0 +1,38 @@
+[s1]
+Domnul este bun şi sfânt,
+El lucrează pe pământ;
+Bunătatea Lui cea mare
+/: Să o simtă fiecare. :/
+
+[s2]
+Celor de pe calea Sa
+Le-a adus mântuirea.
+Pe bolnavi i-a vindecat,
+/: Morţilor viaţă le-a dat. :/
+
+[s3]
+Isus nouă ne-a promis
+Că ne duce-n Paradis
+Şi vom sta la masa sfântă
+/: Unde îngerii toţi cântă. :/
+
+[s4]
+El din nou va reveni
+Ca să-adune-ai Săi copii.
+Sus la El îi va lua
+/: Când va suna trâmbiţa. :/
+
+[s5]
+Deci cu toţii să-L slăvim
+Şi mereu să-I mulţumim
+Pentru marea Sa iubire
+/: Ce ne-a adus mântuire. :/
+
+[s6]
+Doamne sfinte-Ţi mulţumim,
+Pentru harul Tău divin
+Şi pentru a Ta lucrare
+/: Ce o faci în adunare :/
+
+[order]
+s1,s2,s3,s4,s5,s6

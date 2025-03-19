@@ -1,0 +1,38 @@
+[s1]
+Noi avem acolo-n cer un Tata
+Care tine-n larguri bolta instelata.
+Noi avem un Creator puternic,
+La a Lui porunca toate calsea-si tin
+
+[s2]
+Soare, luna, stele, marea-n valuri grele,
+Muntii-nalti si plopii falnici Iti dau slava.
+Tot ce-n zari cuvanta zi si noapte canta:
+‘’Aleluia Celui Sfant! Amin!’’
+
+[s3]
+Noi avem acolo-n cer un frate
+Ce-I nascut din Tatal di eternitate.
+Noi avem un Miel jertfit pe cruce,
+Miel de izbavire di eternul chin.
+
+[s4]
+Mii de inimi smulse din pacate-ascunse
+Sus in cer si jos in lume Ii dau slava.
+In vibrati de strune ceru-ntreg rasune:
+‘’Aleluia lui Isus! Amin!’’
+
+[s5]
+Noi avem acici cu noi in viata
+Pe Mangaietorul, Care ne invata.
+Noi avem pe Insusi Domnul slavei
+Ce nne da lumina, sprijin si alin.
+
+[s6]
+Inaltam, spre astre, glasurile noastre;
+faurim in orice zi un imn de slava;
+Preamarim pe Fiul, adoram pe Tatal
+Si traim prin duhul Sfant. Amin
+
+[order]
+s1,s2,s3,s4,s5,s6

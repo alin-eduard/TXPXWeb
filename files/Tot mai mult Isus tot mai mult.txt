@@ -1,0 +1,28 @@
+[r1]
+/: Tot mai mult, Isus, tot mai mult!
+Voia Ta s-o-mplinsc, tot mai mult!
+Tot mai mult
+să-nţeleg ce-mi vorbeşti
+Voia Ta s-o-mplinesc,
+Isus, tot mai mult!:/
+
+[s1]
+Tu esti al meu Domn şi Împărat
+Şi pentru mine Viaţa Tu Ţi-ai dat
+Ca să trăiesc şi să Îţi cânt în veci, Doamne!
+Tu eşti păstorul bun şi minunat!
+Viaţa-mi conduci
+cu-al Tău Cuvânt curat
+Vreau sa-Ţi slujesc,
+Doamne, tot mai mult!
+
+[s2]
+Ca Dumnezeu iubeşti copiii Tăi
+Si ca un Tată vezi cerinţe-n noi
+Nimeni nu este ca si Tine-n veci, Doamne!
+Tu eşti prieten veşnic, credincios
+Şi vezi dorinţa inimii în noi
+Tot mai mult, Doamne, tot mai mult !
+
+[order]
+r1,s1,r1,s2

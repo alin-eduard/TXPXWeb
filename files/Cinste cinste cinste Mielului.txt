@@ -1,0 +1,14 @@
+[s1]
+Cinste, cinste, cinste Mielului
+Cinste, cinste, cinste Mielului
+
+[s2]
+Pentru că slava Lui
+pământul a umplut
+Divinul Miel pe tron.
+În veci vestim
+că vrednic e de laudă
+Divinul Miel pe tron.
+
+[order]
+s1,s2

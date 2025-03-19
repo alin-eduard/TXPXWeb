@@ -1,0 +1,43 @@
+[s1]
+În Tine am găsit iubirea,
+când nimeni nu mi-o-mpărtăşea.
+Şi am citit în a Ta privire,
+Isuse Doamne – Dragostea.
+
+[s2]
+În Tine am găsit iubirea,
+Când cei din jur m-au părăsit.
+Şi-am înţeles că fericirea,
+Eşti numai tu, Isus iubit.
+În Tine am găsit iubire,
+Deci fii în veci de veci slăvit.
+
+[s3]
+În Tine am găsit iubire,
+când pe Gologota mă năştea-i.
+În Tine am eu mântuire,
+şi cale liberă spre Rai.
+
+[s4]
+În Tine am găsit iertare,
+Şi har ce nu l-am meritat.
+În Tine am găsit salvare,
+Isuse fii în veci lăudat.
+În tine am găsit eu pacea,
+Ce nimeni numi-a arătat.
+
+[s5]
+În Tine am găsit izvorul
+de sfinte binecuvântări.
+Şi-n încercări – Mângâietorul;
+şi bucurie-n întristări.
+
+[s6]
+În Tine am aflat Isus,
+Un Prieten bun şi-adevărat.
+În Tine am comori nespuse.
+În Tine-am bogăţii nespuse,
+Deci fii-n veci binecuvântat.
+
+[order]
+s1,s2,s3,s4,s5,s6

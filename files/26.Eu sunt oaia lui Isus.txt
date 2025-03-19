@@ -1,0 +1,27 @@
+[s1]
+26.
+1. Eu sunt oaia lui Isus
+Fericit mă simt nespus
+Sufletu-mi voios tresaltă
+Prins de-o bucurie-naltă
+Căci de Domnul sunt iubit
+Şi de Isus mântuit
+
+[s2]
+2. El Păstorul bun şi sfânt
+Îmi alege pe pământ
+O păşune minunată
+Ce nu piere niciodată
+Iar când de apă mi-e dor
+El mă duce la Izvor.
+
+[s3]
+3. Cum să nu mă veselesc
+Fericit dacă trăiesc
+Şi când ştiu, când ştiu prea bine
+Căci spre zările senine
+Îngerii m-or înălţa
+Şi la dreapta Lui voi sta.
+
+[order]
+s1,s2,s3

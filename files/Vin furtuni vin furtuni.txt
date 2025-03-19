@@ -1,0 +1,42 @@
+[s1]
+Vin furtuni, vin furtuni
+Tu ce faci de nu-ţi aduni
+Al păcii cuvânt măreţ
+Ce-ţi va fi de mare preţ.
+/:Vei căuta să le-nţelegi
+Şi vei plânge zile-ntregi
+Cel ce este-n ceruri viu
+Îţi va spune prea târziu.:/
+
+[s2]
+Vorbe neîntemeiate,
+Peste cei ce-au dreptate,
+Tu atunci vei arunca
+Ca să-ţi aperi vina ta.
+/:Dar dreptatea sa din cer,
+După al ei adevăr,
+Vina ţi-o va judeca
+Făr a fi de partea ta.:/
+
+[s3]
+Vin furtuni, vin furtuni
+Fără pace cum să treci?
+Căci tu ştii că, toţi cei răi,
+Pace n-au pe a lor căi.
+/:De vei fi fără de ea,
+Salvare nu vei avea
+Valuri grele te-or lovi
+Până te vor nimici.:/
+
+[s4]
+Ca un tată pe-al lui fiu
+Te-ndemn până nu-i târziu
+Vin cu lacrimi la Isus
+Şi-ţi va da pace de sus.
+/:Tu vei merge fericit
+Spre limanul însorit
+Pace sfântă de nu ai
+Ia-o acuma, ce mai stai?:/
+
+[order]
+s1,s2,s3,s4

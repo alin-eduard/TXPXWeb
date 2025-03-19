@@ -1,0 +1,45 @@
+[s1]
+Rugaciune, rugaciune
+Esti un dar dumnezeiesc,
+Care si pe camp de lupta
+Ma-ntareste cand slabesc.
+Sol minor
+
+[s2]
+/: Nopti intregi eu nu dormeam
+Pe genunchi ma aplecam,
+Ruga sa mi-o-nalt spre Dumnezeu.
+Ma ajuta sa nu cad
+Cand puterile imi scad
+Ma condu pe calea Ta spre cer. :/
+
+[s3]
+Vant de indoiala bate
+Prin ispite si-ncercari,
+Inima mi se tot zbate
+Si in suflet am dureri.
+
+[s4]
+/: Dar cu lacrimi m-am rugat
+Si la Domnul am strigat,
+Sa-mi ajute-n clipe de nevoi
+Doamne numai Tu ma vezi,
+Cand in suflet lacrimez
+Numai Tu poti sa ma-ntaresti.:/
+
+[s5]
+Domnul meu n-aceasta viata
+Fericire Tu-mi gasesti,
+Cand e drumul plin de lacrimi
+Eu mareata zi doresc.
+
+[s6]
+/: Una Doamne iti cer eu
+Mana Ta sa simt mereu
+Si sa-mi fii Tu ajutorul meu
+Cand in lume cad ranit
+Si de om sunt parasit
+Ma condu pe calea catre cer. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

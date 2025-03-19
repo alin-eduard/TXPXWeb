@@ -1,0 +1,38 @@
+[s1]
+E sărbătoare, azi e ziua învierii
+Vesel fiecare simte Duhul mângâierii.
+Domnul nostru Isus
+din mormânt se ridicase
+Domnul nostru Isus
+trup de slavă îmbrăcase.
+
+[r1]
+Slăvim acum pe Acel ce-a biruit
+E viu pe veci Cel ce moartea a zdrobit
+Slăvim acum pe Acel ce-a înviat
+E viu pe veci, lui Isus ne-am devotat
+Căci cu Tatăl ne-a-mpăcat
+Fie vesnic lăudat !
+
+[s2]
+După grele lupte,
+după chinul din grădină
+După lanţuri rupte,
+va fi slavă îi lumină.
+Domnul nostru Isus
+este Soarele iubirii
+Domnul nostru Isus
+este Cheia nemuririi.
+
+[s3]
+Lacrimi, suferinţe,
+câstigate-s pe vecie
+Câstig biruinţă,
+Domnul Cel bun ne învie
+Domnul nostru Isus
+este Cel ce mântuieste
+Domnul nostru Isus
+este Cel ce ne răpeste.
+
+[order]
+s1,r1,s2,r1,s3,r1

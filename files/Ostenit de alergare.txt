@@ -1,0 +1,28 @@
+[s1]
+Ostenit de alergare
+Şi de zbuciumul cel greu,
+Vei afla curând odihna
+Lângă Bunul Dumnezeu.
+
+[r1]
+/: El, putere îţi va da
+Braţul Său te va purta
+Roagă-L doar şi te va ajuta
+El cu slavă va veni
+Şi la cer ne va răpi
+Luptă deci şi-atunci vei birui. :/
+
+[s2]
+Nu dispreţui durerea,
+Nu lovi-n necazul tău
+Căci necazul şi durerea
+Sunt un drum spre Dumnezeu.
+
+[s3]
+Crucea ta e grea povară,
+E grea de purtat, de dus
+Du-o însă cu răbdare
+Cum a dus-o şi Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,64 @@
+[s1]
+Prin atâtea valuri grele
+Ce-am trecut
+Numai Tu Isuse Doamne
+Mi-ai fost scut
+635.             								          Fa
+
+[s2]
+/:Când ziceam
+că sunt pierdut
+Tu Isuse mi-ai fost scut
+Şi din toate
+Numai Tu m-ai izbăvit. :/
+
+[s3]
+2. Când furtuna s-abătut
+În jurul meu
+Tu-ai venit şi Te-ai luptat
+În locul meu
+
+[s4]
+/: Valurile le-ai mustrat
+Pe mine m-ai vindecat
+Azi Îţi cânt că pân’ aici
+M-ai ajutat. :/
+
+[s5]
+3. Rana mea era
+Isuse aşa grea
+Şi ziceam ca să rezist
+Nu voi putea
+
+[s6]
+/: Atunci Tu-ai venit Isus
+Şi-ochii mei umezi de plâns
+Au putut să vadă
+Strălucirea Ta. :/
+
+[s7]
+4. Ştiu Isuse că
+Acolo-n Casa Ta
+Mângâierea ce-am dorit
+Voi căpăta
+
+[s8]
+Tu-mi vei șterge lacrima
+Și-mi vei da cununa Ta
+Dac-aici eu lupta bună
+Voi purta
+
+[s9]
+5. Fiecare are
+Aici mult de luptat
+Lacrimile curg
+Din ochi neîncetat
+
+[s10]
+/: Iată vine-al nost’ Isus
+Să ne ducă-n ceruri sus
+Şi-om uita c-am fost cândva
+Pe-acest pământ.:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

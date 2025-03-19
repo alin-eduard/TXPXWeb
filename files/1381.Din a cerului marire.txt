@@ -1,0 +1,43 @@
+[s1]
+1.	Din a cerului mărire
+Pentru omul păcătos
+Să ne aduci mântuire
+Ai venit Isus Hristos.
+Cor:      Îţi aducem închinare
+Cu iubire Te lăudăm
+În această sărbătoare
+Rege Sfânt Te adorăm.
+1381.   Sol
+
+[s2]
+2.	N-avem smirnă nici tămâie
+Şi nici aur ca să-ţi dăm
+Dar dorim pentru vecie
+Mesia să îţi cântăm.
+Cor:      Îţi aducem închinare
+Cu iubire Te lăudăm
+În această sărbătoare
+Rege Sfânt Te adorăm.
+
+[s3]
+3.	Stea ce-ai răsărit odată
+Peste ţara Israel
+Ne sfinţeşte viaţa toată
+Mesia Emanuel.
+Cor:      Îţi aducem închinare
+Cu iubire Te lăudăm
+În această sărbătoare
+Rege Sfânt Te adorăm.
+
+[s4]
+4.	De aproape sau departe
+Tineri, vârstnici sau copii
+Te cheamă Isus ca frate
+Domn şi Rege să ne fii.
+Cor:      Îţi aducem închinare
+Cu iubire Te lăudăm
+În această sărbătoare
+Rege Sfânt Te adorăm.
+
+[order]
+s1,s2,s3,s4

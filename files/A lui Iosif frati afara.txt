@@ -1,0 +1,92 @@
+[s1]
+A lui Iosif fraţi afară
+stau cu turmele-ntr-o vară
+Pe-o câmpie-ndepartată;
+Iacov deci grăi odată:
+
+[s2]
+Du-te, Iosif, pe câmpie
+şi adu-mi de-acolo mie
+Veste de la fraţii tăi !
+Iosif merse, şi când ei
+
+[s3]
+Îşi văzură frăţiorul,
+Iată, vine visătorul !
+Hai să-l omorâm! strigară,
+Spunem că l-a prins o fiară
+
+[s4]
+Şi-om vedea la ce-o s-arate
+visele de el visate !
+Ruben zice, cum, voi, fraţi,
+sânge vreţi ca să vărsaţi ?
+
+[s5]
+Că o să vă pară rău !
+Hai să-l aruncăm, zic eu
+Ici în groapa asta goala,
+unde singur o să moară !
+
+[s6]
+El i-a sfătuit aşa
+pentru ca să-l scape vrea
+Şi să-l ducă mai apoi
+iar la tatăl lor ,napoi.
+
+[s7]
+Vesel Iosif când soseşte,
+fraţii sar pe el hoţeşte.
+Haina lui împestriţată
+de pe el o rup îndată.
+
+[s8]
+Şi-l trăsera-apoi de-o mână
+mai la vale-ntr-o fântână
+Care apă nu avea,
+şi îl aruncară-n ea.
+
+[s9]
+Fraţii-n urmă se asează
+să mănânce de amiază.
+Pe cămile-apoi la rând
+negustori ei văd trecând.
+
+[s10]
+Spre-a Egiptului ţinut,
+cu miresme de vândut.
+Iuda-atunci vorbeşte tare:
+Ce vom câştiga noi oare
+
+[s11]
+Omorându-l pe băiat ?
+Ne-ncărcăm cu-un greu păcat !
+Hai, fraţi, ascultaţi de mine,
+hai să-l dăm pe bani mai bine !
+
+[s12]
+Toţi îl strigă într-un glas
+şi din groapă-afară-i tras.
+L-au vândut pe Iosif deci
+cu arginţi vreo douăzeci.
+
+[s13]
+Fraţii-n urmă-un ied tăiara,
+haina-n sângele-i muiară
+Şi-au trimis-o în curând
+la al lor tată, zicând :
+
+[s14]
+Am găsit-o-n câmp la vale,
+nu e a odraslei tale ?
+Ba e asta, eu o ştiu,
+haina scumpului meu fiu !
+
+[s15]
+Fii şi rude se-adunară,
+să-l mângâie toţi căutară.
+Tot plângând am să cobor pân,
+la-al meu iubit fecior !
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12,s13,s14,s15

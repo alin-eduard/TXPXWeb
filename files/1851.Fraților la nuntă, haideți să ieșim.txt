@@ -1,0 +1,35 @@
+[s1]
+1. Fraților la nuntă
+Haideți să ieșim
+În luptă cu păcatul noi să biruim
+Răsplata ne așteptă, de vom birui
+Cununa măreață
+În slavă vom primi.
+1851.
+
+[r1]
+Cor: /:Fericiți noi vom cânta întruna
+Fericiți când vom primi cununa
+Cununa de împărat
+Pentru ce-am lucrat
+Cu Isus în cer la masa sfântă
+Vom cânta cântarea nostră sfântă
+Cântul cel mai minunat
+Ce-n veci nu s-a cântat.:/
+
+[s2]
+2. Ură și mânie nici să nu vorbim
+Ci plini de iubire haideți să trăim
+Pace și-armonie fie între noi
+Să mrgem ‘nainte să nu dăm ‘napoi.
+
+[s3]
+3. Dragostea de semeni
+Să nu o uităm
+Către calea vieții să îi îndrumăm
+Lumea care zace în amar păcat
+Să o îndreptăm
+Spre Cel ce ne-a salvat.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,38 @@
+[s1]
+1348.Mi m
+1.  Mi-e dor, mi-e dor de-acasă
+Mi-e dor de Domnul meu
+Mi-e dor de străzile de aur
+Mi-e dor de cel născut în staul
+Mi-e dor, mi-e dor de-acasă.
+
+[s2]
+2.  Mi-e dor Ierusalime
+Să locuiesc în tine
+Mi-e dor de porţile cu sfinţi
+Unde sunt ai Tăi ucenici
+Mi-e dor, mi-e dor de-acasă.
+
+[s3]
+3.  Mi-e dor, mi-e dor de Isus
+Mi-e dor de slava Lui
+Să-i văd faţa cum străluceşte
+Şi pe creştini cum îi iubeşte
+Mi-e dor, mi-e dor de acasă.
+
+[s4]
+4.  Mi-e dor de chipu-i blând
+Mi-e dor să-L văd curând
+Să-mi ştearg-al meu plâns de pe obraz
+Să uit de greu şi de necaz
+Mi-e dor, mi-e dor de acasă.
+
+[s5]
+5.  Mi-e dor, mi-e dor de-acasă
+Mi-e dor să stau la masă
+Să mă servească-al meu Isus
+În casa noastră cea de sus
+Mi-e dor, mi-e dor de-acasă.
+
+[order]
+s1,s2,s3,s4,s5

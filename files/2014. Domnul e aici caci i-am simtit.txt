@@ -1,0 +1,37 @@
+[s1]
+2014        Re
+1. Domnul e aici
+Căci i-am simţit fiorul
+Domnul e aici
+O simte tot poporul
+/:De la doi sau trei
+Dup-al Său cuvânt
+E prezent la noi
+Prin Duhul Sfânt:/
+
+[r1]
+Cor: /: Osana , cântă adunarea
+Osana să răsune zarea
+Osana , o ce har nespus
+E prezent la noi acum Isus :/
+
+[s2]
+2. Domnul e aici
+Exclama şi Iacov
+Când dormea fugar
+Pe-o piatră căpătâi
+/: Domnul e aici
+Azi în templul Lui
+Aici este scara cerului :/
+
+[s3]
+3. Crede că-i aici
+Frate cu tărie
+Mâna s-o ridici
+Pentru veșnicie
+/: Domnul te-a iubit
+Şi te-a mântuit
+Fie-I numele în veci slăvit :/
+
+[order]
+s1,r1,s2,r1,s3,r1

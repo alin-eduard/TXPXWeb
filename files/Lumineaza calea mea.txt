@@ -1,0 +1,68 @@
+[s1]
+Lumineaza calea mea
+Al iubirii multorat
+Cu lumina Duhului
+Sfant si-adevarat
+
+[s2]
+Raul dragostei ceresti
+Fa sa curga-n viata mea
+Sa iubesc intr-adevar
+Asa cum Tu ai vrea
+
+[s3]
+Lumina lumii
+Pe pamant a stralucit
+Si intunericu’ a invins
+A dat viata celor care au primit
+Sa creada in harul necuprins
+
+[s4]
+Acum e timpul
+Libertate sa primesc
+Sa nu mai fiu
+Rob al lumii de acum
+
+[s5]
+Spre-o alta lumea
+Fara teama sa pornesc
+Si sa inviu orce
+piedica pe drum
+
+[s6]
+Lumineaza calea mea
+Al iubirii multora
+Cu lumina Duhului
+Sfant si-adevarat
+In dragoste ceresti
+Fa sa curga viata mea
+Sa iubesc intr-adevar
+Asa cum Tu ai vrea
+
+[s7]
+In intuneric o lumina
+as vrea sa fiu
+O raza catre infinit
+O stea in calea
+Celor care nu mai stiu
+Sa aleaga drumul potrivit
+
+[s8]
+Sa fim mereu o faclie pe pamant
+In care jar de iubire sa pastrez
+Sa ai prezenta din
+negrul cel mai sfant
+Si asteptand cu rabdare sa veghezi
+
+[s9]
+Lumineaza calea mea
+Al iubirii multora
+Cu lumina Duhului
+Sfant si-adevadrat
+In dragoste ceresti
+Fa sa curga viata mea
+Sa iubesc intr-adevar
+Asa cum Tu ai vrea
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

@@ -1,0 +1,33 @@
+[r1]
+/: Pentru Tine vreau să trăiesc
+Să port Numele Tău în lume
+Lumina Ta s-o răspândesc
+Nimeni altul nu-I ca Tine :/
+
+[s1]
+Doar Tu mă poţi păzi,
+Mă poţi ocroti
+În orice ceas în orice zi,
+Isuse destinul mi-l conduci
+Şi-n cele mai mari răscruci
+Îmi dai biruinţă mereu,
+Tu eşti Domnul meu, Isuse
+
+[s2]
+Sunt foarte trecător,
+Aproape ca un nor
+Şi totuşi Doamne
+Tu mă ştii pe nume
+De unde vin şi merg Doamne
+Tu ştii mai bine
+Azi din nou te rog,
+O, Doamne ai mila de mine
+
+[s3]
+/: Pentru Tine vreau să trăiesc
+Să port Numele Tau în lume
+Lumina Ta s-o răspândesc
+Nimeni altul nu-I ca Tine :/
+
+[order]
+r1,s1,r1,s2,s3

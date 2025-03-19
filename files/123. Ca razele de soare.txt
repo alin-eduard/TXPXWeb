@@ -1,0 +1,53 @@
+[s1]
+123.                                Re
+1. Ca razele de soare
+Ce strălucesc frumos
+Aşa-i a Ta splendoare
+Slăvitul meu Hristos
+/:Vino, o, vino
+Iubitul meu Isus
+Te-aştept de dimineaţă
+Si până la apus. :/
+
+[s2]
+2. Când negura se-aşterne
+Sau când e norul gros
+Îşi pierde strălucirea
+Chiar soarele frumos
+/: Vino, o, vino
+Străbate printre nori
+E atâta strălucire
+Atunci când Tu cobori :/
+
+[s3]
+3. Şi azi ca ucenicii
+Ne clătinăm pe val
+Cuprinşi de duhul fricii
+Că n-ajungem la mal
+/: Vino, o, vino
+In faţă să răsari
+E atâta strălucire
+Atunci când Tu apari. :/
+
+[s4]
+4. Un cântec azi răsună
+Peste câmpii şi văi
+O, vino de-ţi adună
+Degrabă pe ai Tăi
+/: Vino, o, vino
+Răsună ne-ncetat
+În pieptul celor care
+Tu i-ai răscumpărat. :/
+
+[s5]
+5. Un strop de vindecare
+Pe rană să ne pui
+Cu barca de salvare
+La Tine să ne sui
+/: Vino, o, vino
+Pe aripa de nor
+S-ajung la Tine acasă
+Atât imi e de dor. :/
+
+[order]
+s1,s2,s3,s4,s5

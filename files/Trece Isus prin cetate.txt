@@ -1,0 +1,58 @@
+[s1]
+Trece Isus prin cetate,
+Tu nu-L vezi trecând,
+/: O, de ce iubite frate,
+Laşi credinţa la o parte,
+Şi aşa uşor primit-ai,
+Necredinţa-n gând. :/
+
+[s2]
+Trece Isus prin cetate,
+Tu nu-L vezi trecând,
+/: O, de ce iubite frate,
+Tu ţii drumul mai departe,
+Şi în loc sa-ţi schimbi viaţa,
+Tu te-mpotriveşti ? :/
+
+[s3]
+Cu minuni şi chiar cu semne,
+Domnul ar lucra,
+/: O, de ce iubite frate,
+Nu te laşi tu de păcate,
+Tu nu vezi ce urmă sfântă,
+Paşii au lăsat? :/
+
+[s4]
+Trece Isus prin cetate,
+Tu nu-L vezi trecând,
+/: O, de ce tu laşi ca firea,
+Sa-ţi răpească mântuirea,
+Tu nu vezi, e-aproape ziua,
+Ca să pleci curând? :/
+
+[s5]
+Trece Isus prin cetate,
+Trece suspinând,
+/: Nu-l lăsa şi azi afară,
+Suspinând a doua oară,
+Căci veni-va timpul poate,
+Ca să-l chemi plângând. :/
+
+[s6]
+O, Isuse treci şi astăzi,
+Iaraşi prin popor,
+/: Mai trezeşte-ne o dată,
+Ca în ziua minunată,
+Ce de-atâţia-i asteptată,
+Să zburăm spre nori. :/
+
+[s7]
+Unde-o veşnicie-ntreagă,
+Să primească alin
+Laudăt să fii Isuse
+Pentru pacea ce-ai adus-o
+Fii slăvit întotdeauna
+Până-n veci Amin!
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

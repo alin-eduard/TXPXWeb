@@ -1,0 +1,64 @@
+[s1]
+E noapte în Iudeea şi totu-i liniştit
+Iar Betleem oraşul întreg a adormit
+Afară din cetate în staulul de oi
+Mesia, Salvatorul a coborât la noi
+
+[r1]
+Osana, slavă-n ceruri
+şi pace pe Pământ
+Răsună tot văzduhul
+de cântu-acesta sfânt
+Cu îngerii din ceruri uniţi-vă şi voi
+Osana, Domnul slavei
+a coborât la noi
+
+[s2]
+Nu au ştiut preoţii
+nici marele-mpărat
+Căci îngerul din slavă
+în câmp s-a prezentat
+Păstorii din câmpie întâi au auzit
+Că s-a născut Mesia
+cum a fost profeţit
+
+[s3]
+El bate azi la uşă şi vrea sa intre-n ea
+Nu-L laşi ca să se nască şi în inima ta
+Uneşte-ţi şi tu glasul cu-al îngerilor cor
+Şi laudă-L pe Domnul Mesia, Salvator
+
+[s4]
+În oraşul Betleem
+Iosif cu sfânta Maria
+Osteniţi de-atâta drum
+Caută loc de găzduire
+Nimenea nu a dorit
+Să-i primescă-n casa lor
+Doar un staul au găsit
+Ca să nască pruncuşor
+
+[s5]
+/:Acolo în iesle jos
+S-a născut Isus Hristos
+Slavă Ţie Dumnezeu
+Căci avem pe Fiul Tău:/
+
+[s6]
+Sărbătoarea este mare
+Chiar şi azi sună colindul
+Vestea bună se aude
+De răsună-ntreg pământul
+Hai cu toţii să cântăm
+Slavă, slavă-n cerul sfânt
+Pruncului să ne-nchinăm
+Pace fie pe pământ
+
+[s7]
+/:Acolo în iesle jos
+S-a născut Isus Hristos
+Slava Ţie Dumnezeu
+Căci avem pe Fiul Tău:/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5,s6,s7

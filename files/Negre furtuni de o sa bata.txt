@@ -1,0 +1,23 @@
+[s1]
+Negre furtuni de o sa bata
+Sufletul meu spre a-l nimici
+Imi aflu refugiu la cerescul Tata
+El ma iubeste si m-a va ocroti
+Eu voi zbura pe-aripi de ruga
+Catre Isus preaslavitul meu Domn
+Isus m-asteaspta povara sa-mi ia
+Eu voi zbura catre Tatal meu
+
+[s2]
+Sunt fericit s-aud al Sau nume
+Al Lui cuvant si promisiuni
+El ma-ncurajeaza pe stanca ma pune
+Si ma ridica peste negre genunii
+/: Eu voi zbura pe-aripi de ruga
+Catre Isus preaslavitul meu Domn
+Isus m-asteaspta povara sa-mi ia
+Eu voi zbura catre Tatal meu:/
+(Sus peste cer inspre tara mea)
+
+[order]
+s1,s2

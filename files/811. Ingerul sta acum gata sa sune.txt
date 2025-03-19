@@ -1,0 +1,72 @@
+[s1]
+811.  Re m
+1. Îngerul stă acum gata să sune
+Să scoale Domnul
+Morţii din mormânt
+La glasul trâmbiţei toţi se adună
+Cei ce sunt botezaţi
+Cu Duhul Sfânt.
+
+[s2]
+/: Şi împreună cu cei vii în slavă
+Într-o clipeală
+Atunci vom fi schimbaţi
+Zburând spre ceruri
+Ca şi porumbeii
+Cei ce cu Duhul Sfânt
+Sunt botezaţi:/.
+
+[s3]
+2. Tu fete fără număr ai în lume
+Ţiitoare şi crăiese pe pământ
+Dar una singură Tu ai ales-o
+E porumbiţa botezată
+Cu Duh Sfânt.
+/:Atunci Ierusalimul cel de aur
+Pentru mireasă porţile a deschis
+Ce lui Isus i-a fost
+Un scump tezaur
+Să intre acum în noul Paradis:/.
+
+[s4]
+3. Atunci toate oştirile din ceruri
+Privesc la cei ce au pe cap cununi
+Cu haine albe şi podoabe sfinte
+Venind cu ramuri de finic în mâini.
+/: Atuncia cerurile şi pământul
+Vor sta uimite de lucrarea Lui
+Când vor vedea
+Gloate nenumărate
+Şi se va-ncepe nunta Mielului:/.
+
+[s5]
+4.  Atunci Mireasa-Ţi
+Va cânta cântarea
+Ce îngerii n-o ştiu
+Şi nici n-o pot cânta
+Cu osanale şi harfe de aur
+Slăvind pe Mire şi pe Împărat.
+
+[s6]
+/: Atuncia cerul va fi plin de slavă
+Căci s-a-mplinit
+Cuvântul Domnului
+Ospăţul mare stă gata să înceapă
+Căci face nuntă Prinţul cerului:/.
+
+[s7]
+5. Iubiţi prieteni veniţi azi la Domnul
+Deschisă-i încă uşa harului
+Căci la ospăţ Isus
+Cu drag te cheamă
+Să fiţi şi voi oaspeţi ai cerului.
+
+[s8]
+/:Şi vă veţi bucura o veşnicie
+În cer cu bucurii
+Ce-n veci nu pier
+Privind a cerului împărăţie
+De acum şi până-n vecii vecilor:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

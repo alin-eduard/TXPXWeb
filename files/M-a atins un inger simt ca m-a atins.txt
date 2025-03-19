@@ -1,0 +1,30 @@
+[s1]
+M-a atins un inger,
+simt ca m-a atins
+Lacrima sa-mi stearga
+Doamne l-ai trimis
+
+[s2]
+Tu stii Doamne-n ascuns ce se intampla
+Si toate-n taina vesnic le patrunzi
+Atunci cand nu m-astept esti langa mine
+Subt a Ta umbra D-ne ma ascunzi
+In ruga D-ne imi astern fiinta
+Si vreau ca-n toate un cuvant sa spui
+Cand cerurile se deschid in slava
+Cu sfiintii Tai in slava Tu ma sui
+
+[s3]
+De voi zidi Doamne-n pustiu altare
+Si-acolo dreapta Ta ma va pazi
+Lovi-vei stanci sa imi dai alinare
+Din apa proaspata ce va tâsni
+Cu foc din cer sa imi aprinzi tu jertfa
+Mană din ceruri Doamne sa imi dai
+Aceasta-i ruga mea ce se inalta
+Spre cerul Tau de pe al meu altar
+/: Si-un inger ai trimis atunci din ceruri
+Sa i-a la Tine toata jertfa mea :/
+
+[order]
+s1,s2,s3

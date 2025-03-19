@@ -1,0 +1,40 @@
+[s1]
+Zăresc o Ţară-n depărtări,
+E ţara mea
+Zăresc o Ţară-n depărtări,
+Mi-e dor de ea
+E un Loc Sfânt,
+De Domnul meu e pregătit
+Pentru ai Săi fii ce pe pământ,
+Ei L-au slujit.
+
+[s2]
+/: În Cer sus va dispărea
+moartea, chinul, durerea
+Deci vom fi pe veci lângă Isus
+Noi la masă în Cer vom sta
+Şi cu toţii vom cânta
+Şi vom spune ce mult,
+Tu ne-ai iubit :/
+
+[s3]
+Când pe pământ,
+Eu sunt lovit de încercare
+Când pe pământ,
+Am obosit pe a mea cale
+/: El mă ajută ca să trec
+Prin valea morţii ca să trec
+Şi la limanul Său Cel Sfânt,
+Eu să ajung :/
+
+[s4]
+/: În Cer  sus va dispărea
+moartea, chinul, durerea
+Deci vom fi pe veci lângă Isus
+Noi la masă în Cer vom sta
+Şi cu toţii vom cânta
+Şi vom spune ce mult,
+Tu ne-ai iubit :/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,32 @@
+[s1]
+Slăvesc pe El şi-I mulţumesc
+Pe Tatăl meu sfînt şi ceresc.
+Îi cînt mereu, căci m-a iubit
+Prin jertfa Sa m-a mîntuit.
+Veniţi cu toţi să-I mulţumim
+Căci harul Său noi Îl simţim!
+Şi să-I cîntăm neîncetat
+Căci bucurii din plin El ne-a dat!
+
+[s2]
+Povara mea, oricît de grea
+Eu vin cu ea la Golgota
+Şi uşurat mă simt la El
+Ce Tată bun, Emanuel!
+Veniţi cu toţi să-I mulţumim
+Căci harul Său noi Îl simţim!
+Şi să-I cîntăm neîncetat
+Căci bucurii din plin El ne-a dat!
+
+[s3]
+O, vin, şi tu, prieten drag
+Oricum ai fi, slab şi pribeag!
+Căci mîngîiat te vei simţi
+Şi fericit cu El vei fi!
+Veniţi cu toţi să-I mulţumim
+Căci harul Său noi Îl simţim!
+Şi să-I cîntăm neîncetat
+Căci bucurii din plin El ne-a dat!
+
+[order]
+s1,s2,s3

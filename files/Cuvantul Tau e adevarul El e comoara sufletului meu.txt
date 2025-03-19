@@ -1,0 +1,22 @@
+[s1]
+Cuvantul Tau e adevarul!
+El e comoara sufletului meu.
+Eu il primesc si-n viata mea intreaga,
+Vreau sa Te-ascult, caci sunt al Tau.
+Eu sunt al Tau, Tu esti al meu, Isuse;
+Te caut oricand si vreau sa Te slavesc
+Eu sunt al Tau si-n inima mea, Doamne,
+Cuvantul Tau, vreau sa-L primesc.
+
+[s2]
+Cuvantul Tau e adevarul!
+E candela pe calea mea spre cer
+Imi lumineaza pasii-ntotdeauna,
+Si-n raza lui ispitele pier.
+Cuvantul Tau ma mangaie, Isuse,
+Ma umple de preavesnicul Tau har;
+Eu il primesc si dragostea mea arde
+Ca sa-mplinesc al sau hotar.
+
+[order]
+s1,s2

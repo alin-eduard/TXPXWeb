@@ -1,0 +1,45 @@
+[s1]
+Daca intr-o zi ploaie nu va fi
+Daca-n loc de rod si floare
+Glas de cantec sau culoare
+Nori de praf in zari s-or ridica
+Daca intr-o zi norii vor veni
+Daca multi din jurul meu
+Nu vor fi cand imi va fi greu
+Si mereu voi spune, in zadar
+
+[s2]
+In Tine ma incred
+Ca vei fi langa mine
+Chiar daca zi de zi
+Imi e greu sau mi-e bine
+Si frica nu-mi va fi
+Cand Te stiu langa mine
+Daca intr-o zi greu va fi
+
+[s3]
+Daca intr-o zi anii vor fugi
+Lasand loc de griji sau boala
+Urme-adanci sau tampla alba
+Si nu stiu cand ziua s-a sfarsi
+
+[s4]
+In Tine ma incred
+Ca o mana intinsa
+Ma va feri de rau
+Sau de cursa intinsa
+Si nimeni nu va stinge
+O flacara aprinsa
+Daca intr-o zi…
+
+[s5]
+In Tine ma incred
+Ca vei fi langa mine
+Chiar daca zi de zi
+Imi e greu sau mi-e bine
+Si frica nu-mi va fi
+Cand Te stiu langa mine
+Daca intr-o zi greu va fi…
+
+[order]
+s1,s2,s3,s4,s5

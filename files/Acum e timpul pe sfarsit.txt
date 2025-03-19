@@ -1,0 +1,46 @@
+[s1]
+Acum e timpul pe sfârşit.
+Nu sta, suflet, nepregătit,
+Căci trece-aşa de iute-al zilelor şirag!
+Dar, totuşi, noi Îţi multumim,
+Deşi suntem printre străini
+Şi Te chemăm,
+Isuse-acum la noi să vii!
+Mi bemol
+
+[r1]
+/: Şi iubirea Ta nemărginită,
+să ne-o dai,
+Şi credinţa, pacea
+care tinde înspre rai;
+Fă să le-nsuşim,
+în viaţa noastră, pe pământ,
+Isus iubit, pân' la mormânt.:/
+
+[s2]
+Acum, noi viaţa să Ţi-o dăm
+Şi, din iubire,să lucrăm
+În via Ta, o, scumpul 'nost Mântuitor,
+Căci va veni o clipă când
+Vom sta, în fata Ta, cântând
+Şi vom primi răsplata toţi din mâna Ta.
+
+[s3]
+În timpu-acesta, ne-ncetat,
+Fă să rodim rod mai bogat,
+Ca şi sămânţa în pământu-al patrulea!
+Să nu dăm nici un pas 'napoi,
+Să nu fie ură-ntre noi,
+Şi, în necaz să zicem:
+„Doamne, fii cu noi!"
+
+[s4]
+O, Grădinar ceresc şi sfânt,
+Mai lasă pomul pe pământ!
+Căci, poate, anu-acesta va aduce rod...
+Îl voi uda şi-l voi săpa
+Şi, personal, M-oi ocupa,
+Iar dacă nu, în celălalt an îl voi tăia!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

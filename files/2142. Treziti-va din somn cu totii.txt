@@ -1,0 +1,37 @@
+[s1]
+2142
+1. Treziți-vă din somn cu toții
+Treziți-vă nu mai dormiți
+Curând apare Domnul slavei
+Nu vă găsește pregătiți.
+
+[r1]
+Cor: /: Va veni Isus pe nori
+El, Mirele sfinților
+Ce și-au pus nădejdea în El
+Niciodată ei nu pier
+Vor zbura pe aripi de vânt
+Cei ce au primit Duhul Sfânt
+Sus pe cer s-or înălța
+Glorie Aleluia :/.
+
+[s2]
+2. Nu vă lăsați furați în lume
+De pofte, vicii și plăceri
+Când va veni Isus, măi frate
+Nu poți să te ridici la cer.
+
+[s3]
+3. De vrei să nu rămâi jos frate
+De astăzi schimbă starea ta
+Tu nu mai simți putere sfântă
+Ce sus spre cer te va-nălța.
+
+[s4]
+4. Se aude glasul Apocalipsei
+Isus apare sus pe nori
+Să-Și ducă a Lui mireasă acasă
+Pe cei ce-au fost frați și surori.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

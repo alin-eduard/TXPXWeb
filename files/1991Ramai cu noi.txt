@@ -1,0 +1,46 @@
+[s1]
+1991
+1. Rămâi cu noi
+Căci soarele a coborât
+Ah vine noaptea singur mi-e urât
+Când toate trec pe ce m-aș sprijini
+Tu-mi ești nădejdea nu mă părăsi
+Dar harul Tău de nu-l am momentan
+Cum să înnăbuș ura lui Satan
+Când a-nceput furtuna a mugi
+Tu-mi ești nădejdea nu mă părăsi.
+
+[s2]
+2. Dar când Te am
+Să vină orice atunci
+Lacrimi amare mi se fac mai dulci
+Și-al morții bold tot nu mă va îngrozi
+Tu-mi ești nădejdea nu mă părăsi
+Ca și un vis petrecem viața noi
+Plăceri sunt rar mai des griji și nevoi
+Și apoi murind dar tot nu vom muri
+Tu-mi ești nădejdea nu mă părăsi.
+
+[s3]
+3. Locaș de chin pământul blestemat
+Ne oferă un trai amarnic câștigat
+Dar mila Ta viața ne-o-ndulci
+Tu-mi ești nădejdea nu mă părăsi
+Rămâi cu noi Tu doctor minunat
+Ca să ne vindeci pieptul de oftat
+Tu mângâiere-n orice am suferi
+Tu-mi ești nădejdea nu mă părăsi.
+
+[s4]
+4. Lângă al meu leagăn
+Tu zâmbind stătui
+Și când în mine-un fiu pierdut văzui
+O Tu cel bun grăbește a mă găsi
+Tu-mi ești nădejdea nu mă părăsi
+Și-n ceasul ultim când va fi să mor
+Să fii cu mine scump Mântuitor
+Suflarea să mi-o iei când vei veni
+Tu-mi ești nădejdea nu mă părăsi.
+
+[order]
+s1,s2,s3,s4

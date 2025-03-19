@@ -1,0 +1,36 @@
+[s1]
+Mergând prin astă lume,
+Omu-şi alege cărarea sa.
+Din fire i-e dat s-alerge,
+Să caute fericirea.
+
+[r1]
+/: La cine tu cauţi pacea?
+Şi cine ţi-o poate da?
+Numai Isus e-Acela
+Care te poate ajuta! :/
+
+[s2]
+Omul caută un mod de viaţă,
+Spre-a-şi desfăta inima sa.
+Dar iată, că vine vremea
+Cînd socoteală el va da.
+
+[s3]
+Te-ntreb acum amice-
+Tu pe ce drumuri mai rătăceşti?
+Oare ai găsit pacea
+Pe drumurile lumii întregi?
+
+[s4]
+/: La cine tu cauţi pacea?
+Şi cine ţi-o poate da?
+Numai Isus e-Acela
+Care te poate ajuta!
+La Isus vei găsi pace
+La Isus vei găsi ajutor!
+Numai El e Acela
+Care ajută tuturor! :/
+
+[order]
+s1,r1,s2,r1,s3,s4

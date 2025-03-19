@@ -1,0 +1,43 @@
+[s1]
+1. Când adeseori pe cale
+Vin dureri în fel de fel
+De ce stau trist adesea oare
+Eu nu-nţeleg dar ştie el
+650.
+2. Din pâinea mea am dat altora
+Făr' să mă tem că eu mă-nşel
+Răsplata mea a fost ocară
+De ce-i aşa, o ştie El
+
+[s2]
+3. Când moartea vine fără veste
+Să rup al dragostei inel
+Rămân copii orfani pe drumuri
+De ce-i aşa, o ştie El
+4. Când cunoscut-am adevărul
+Şi vrut-am să spun despre El
+Am fost silit să tac adesea
+De ce-i aşa, o ştie El
+
+[s3]
+5. Când m-am luptat cu valul vieţii
+Şi când credeam că sunt la ţărm
+Mă văd cu barca sfărâmată
+De ce-i aşa, o ştie El
+6. Descurajat privesc adesea
+Calvarul crucii şi pe Miel
+De ce curg lacrimi fără vină
+Eu nu-nţeleg dar ştie El
+
+[s4]
+7.Eu nu-nţeleg dar ţin într-una
+Căci când mă lupt cu mai mult zel
+Atâtea vin şi mi se-ntâmplă
+Eu nu-nţeleg dar ştie El.
+8. Dar când mă voi vedea în ceruri
+Cu Domnul în al Său castel
+Mă voi mira cum de-s acolo
+Dar asta mi-o va spune El.
+
+[order]
+s1,s2,s3,s4

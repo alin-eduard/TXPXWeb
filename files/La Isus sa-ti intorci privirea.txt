@@ -1,0 +1,32 @@
+[s1]
+La Isus să-ţi întorci privirea
+Al tău necaz El vrea să-l ia
+Predă-te Lui cu toată firea
+Şi greul tău îl va lua.
+E mîngaiere în ceasul greu
+E bucurie în cîntul tău
+/: Viaţa ta va lumina
+Atît timp cît cu El vei sta ! :/
+
+[s2]
+Un prieten bun Isus îţi este
+El ţi-a veni în ajutor.
+Doar cere-I Lui, căci El te vede
+Tu nu mai sta nepăsător !
+E mîngaiere în ceasul greu
+E bucurie în cîntul tău
+/: Viaţa ta va lumina
+Atît timp cît cu El vei sta ! :/
+
+[s3]
+Coroană chiar Isus îţi pune
+Te vei numi Mireasa Lui!
+Nu sta acum, cînd poţi alege
+Vei fi un fiu al cerului!
+E mîngaiere în ceasul greu
+E bucurie în cîntul tău
+/: Viaţa ta va lumina
+Atît timp cît cu El vei sta ! :/
+
+[order]
+s1,s2,s3

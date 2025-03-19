@@ -1,0 +1,26 @@
+[s1]
+Treziţi-vă fraţi, nu mai staţi în nepăsare!
+Nu ştiţi că Isus va veni?
+Suna-va atunci trâmbiţa deşteptare,
+Biserica o va răpi!
+
+[r1]
+/: Ce bine va fi sus în ceruri
+Cu Isus, Mirele iubit!
+Uita-vom pe veci orice durere
+Cu-acela ce sus ne-a răpi. :/
+
+[s2]
+Spălaţi-vă hainele să le-aveţi curate
+În alb să fiţi toţi îmbrăcaţi!
+Păstraţi-le să fie oricând nepătate,
+Spre ceruri să vă înălţaţi.
+
+[s3]
+Luaţi şi ulei în candelele voastre
+Rezervă s-aveţi într-un vas!
+Când Mirele va bate atunci la uşă
+Să fiţi gata în orice ceas!
+
+[order]
+s1,r1,s2,r1,s3,r1

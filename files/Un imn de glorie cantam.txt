@@ -1,0 +1,38 @@
+[s1]
+Un imn de glorie cântăm,
+Vrem toţi pe Domnul să­-L lăudăm,
+Aleluia, Aleluia,
+Hristos pe noi ne­-a mântuit,
+Şi iad şi moarte­a biruit,
+Aleluia, Aleluia, Aleluia,
+Aleluia, Aleluia.
+
+[s2]
+Din morţi Hristos a înviat,
+La ucenici S-­a arătat,
+Aleluia, Aleluia,
+Când L­-au văzut s­au bucurat,
+În faţa Lui s­au închinat,
+Aleluia, Aleluia, Aleluia,
+Aleluia, Aleluia.
+
+[s3]
+Sus pe un munte El i­-a dus,
+Să­-I fie martori El le­-a spus,
+Aleluia, Aleluia,
+Apoi i­-a binecuvântat,
+Şi sus în slavă S­-a ’nălţat,
+Aleluia, Aleluia, Aleluia,
+Aleluia, Aleluia.
+
+[s4]
+El a promis că va veni,
+Pe­-ai Săi iubiţi a­i proslăvi,
+Aleluia, Aleluia,
+De­-aceea noi voioşi cântăm,
+Pe Domnul Sfânt Îl aşteptăm,
+Aleluia, Aleluia, Aleluia,
+Aleluia, Aleluia.
+
+[order]
+s1,s2,s3,s4

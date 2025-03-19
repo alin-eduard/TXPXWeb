@@ -1,0 +1,32 @@
+[s1]
+Vezi cum dispar de pe cer mii de stele
+Când zorii zilei în zare apar,
+Eşti trecător pe pământ ca şi ele,
+Dar ce-ai făcut pentru Domnul va sta!
+
+[r1]
+Asta rămâne, nu veştejeşte,
+Ce ai făcut pentru Domnul va sta!
+Căci vei pleca, toate-aici vor rămâne,
+Dar ce-ai făcut pentru Domnul va sta!
+
+[s2]
+Tu vei lucra, altul va strânge rodul.
+Timpul va trece şi vei fi uitat.
+Vei semăna, altul va strânge snopul,
+Dar ce-ai făcut pentru Domnul va sta!
+
+[s3]
+Rob credincios, în măreaţa lucrare,
+Sub grele sarcini nicicând n-ai cedat.
+Tu vei primi sus în cer răsplătire,
+Veşnic va sta ce-n iubire-ai lucrat.
+
+[s4]
+Plata cerească cea nemăsurată
+Primi-vor robii de la Împărat.
+Cei credincioşi vor ajunge în slavă,
+Domnul nu uită ce ei au lucrat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,23 @@
+[s1]
+Doamne, cînd în inimă am dorinţe
+Şi sînt chiar după voia Ta
+Cu toate că am suferinţe
+Simt împrejur dragostea Ta.
+
+[r1]
+Tu mă laşi să cad în adîncime
+Ca să-mi dau seama cine sînt
+Nu mă laşi în întunecime
+Din nou mă conduci la Tine.
+/: Doamne, eşti cu mine
+Iar eu Îţi mulţumesc !
+Doamne, eşti aici ~ Aleluia ! :/
+
+[s2]
+Doamne, dacă din rîvnă şi dorinţă
+Nu pot să-nfăptuiesc nimic
+Totuşi mă vei conduce-acasă
+Pentru că Tu m-ai mîntuit.
+
+[order]
+s1,r1,s2,r1

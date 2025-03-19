@@ -1,0 +1,52 @@
+[s1]
+1770.   Mi m
+1. Vreau să iubesc pe fraţii mei
+Cu tot ce am în piept mai sfânt
+Vreau să doresc tot ceru-n ei
+/:Dar să-i iubesc:/ /:Aşa cum sunt:/
+Cor:	/:Vreau să iubesc pe fraţii mei
+Cu care veşnic
+În lumină voi fi sus
+Văzându-L pe Isus în ei
+Să-L simt cu-adevărat
+În mine pe Isus:/
+
+[s2]
+2. Vreau de-opotrivă să adun
+Şi rodu-ntreg şi spicul sfânt
+Căci şi Isus mă vrea mai bun
+Dar /:mă iubeşte:/ /:aşa cum sunt:/
+Cor:	/:Vreau să iubesc pe fraţii mei
+Cu care veşnic
+În lumină voi fi sus
+Văzându-L pe Isus în ei
+Să-L simt cu-adevărat
+În mine pe Isus:/
+
+[s3]
+3. Când fraţii mei au răni ce dor
+Să-mi fie braţul mai sfios
+Să nu apăs în rana lor
+Căci /:nu eu vindec:/
+Ci Hristos, Isus Hristos
+Cor:	/:Vreau să iubesc pe fraţii mei
+Cu care veşnic
+În lumină voi fi sus
+Văzându-L pe Isus în ei
+Să-L simt cu-adevărat
+În mine pe Isus:/
+
+[s4]
+4. Noi prin Isus am fost iertaţi
+Ca să iertăm şi noi oricui
+Dar dacă nu iubim pe fraţi
+/:N-avem în noi:/ /:iertarea Lui:/
+Cor:	/:Vreau să iubesc pe fraţii mei
+Cu care veşnic
+În lumină voi fi sus
+Văzându-L pe Isus în ei
+Să-L simt cu-adevărat
+În mine pe Isus:/
+
+[order]
+s1,s2,s3,s4

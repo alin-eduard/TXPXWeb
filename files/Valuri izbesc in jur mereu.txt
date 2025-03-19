@@ -1,0 +1,26 @@
+[s1]
+Valuri izbesc în jur mereu
+Dar nu mă tem cu Domnul meu.
+Eu pace am la infinit
+De la Isus, Domnul meu iubit.
+
+[s2]
+Conduce El şi vasul meu
+Deci liniştit pot fi mereu
+Şi nu mă tem cînd valuri vin
+Mă-ncred în Domnul pe deplin.
+
+[s3]
+Sînt multe stînci ce mă pîndesc
+Dar nu mă tem, eu tot vîslesc
+Încrezător şi liniştit -
+Sînt cu Isus, Domnul iubit.
+
+[s4]
+Furtunile izbesc şi trec
+Eu liniştit ,nainte merg.
+Oricît de mult voi fi lovit
+Sînt cu Isus, Domnul iubit.
+
+[order]
+s1,s2,s3,s4

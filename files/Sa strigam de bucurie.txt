@@ -1,0 +1,32 @@
+[s1]
+Sa strigam de bucurie
+Catre Dumnezeu
+Noi acei rascuparati
+Vestiti numele Sau
+
+[r1]
+Domnul este Dumnezeu
+Noi ai Lui suntem
+Veniti astazi sa-i cantam
+Lui sa ne inchinam
+
+[s2]
+Noi suntem al Sau popor
+Turma pasuni Lui
+Sa urmam cu bucurie
+Calea Domnului
+
+[s3]
+Sa intram pe a Sale porti
+In curtile Lui
+Cu cantari de bucurie
+In cinstea Domnului
+
+[s4]
+Vesnica e bunatatea
+Lui cu al Sau popor
+Credincios e Dumnezu
+In vecii vecilor
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

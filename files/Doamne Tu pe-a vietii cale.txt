@@ -1,0 +1,26 @@
+[s1]
+Doamne, Tu pe-a vietii cale
+In nevoi şi incercare
+Da-le-o binecuvântare
+Isuse, noi Te rugam.
+
+[r1]
+Ca şi Rebeca şi Isaac
+Să fiti exemplu de urmat
+Domnul va fi-n a vost, camin
+De-acum şi-n veci de veci, Amin !
+
+[s2]
+Doamne, fii in viata lor
+Ca un bun ocrotitor
+Da-le-o viata fericita
+Pâna-n vecii vecilor.
+
+[s3]
+Iar acum la despartire
+Tu, mireasă, şi tu, mire
+Voi de Domnul s-ascultati
+Ca Rebeca şi Isaac.
+
+[order]
+s1,r1,s2,r1,s3,r1

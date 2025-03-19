@@ -1,0 +1,30 @@
+[s1]
+Cand prin încercări paşii
+noştri trec ades
+Doar Domnul Isus este cu noi.
+El cu dragoste ne sprijineşte
+ne-ncetat
+Şi ne dă puteri ne-ntîrziat.
+
+[r1]
+/: Bucurii vor fi cînd Isus va veni
+Pe ai Săi copii iubiţi să-i ia acasă-n cer!
+Bucurii, bucuria mea şi-a ta
+Ce minunat e să fii mîntuit ! :/
+
+[s2]
+Azi cu iubire Îl aştept pe-al meu Isus
+Nu va trece mult şi va veni !
+Toţi oamenii ce vor trăi pe-acest Pămînt
+Pe Domnul Isus Îl vor vedea.
+
+[s3]
+Cînd sînt apăsat de păcatul
+ce m-a purtat
+Doar Domnul Isus mă mantuie.
+Ştiu că firea mea ar vrea
+să fiu un rob al ei
+Dar Stăpînul meu este Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1

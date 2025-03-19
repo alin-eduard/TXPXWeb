@@ -1,0 +1,43 @@
+[s1]
+Pe Isus dacă-L crezi
+Si în El meditezi
+Nici un rău nu va fi neînvins.
+Viaţa ta s-ar schimba,
+Sigur n-ai regreta
+Şi-ai sluji de atunci doar pe El.
+Re M
+
+[r1]
+Astăzi vino la El,
+Predă-ţi viaţa ta
+Si sigur vei fi mantuit
+El te cheamă acum,
+Te conduce pe drum
+Şi vei fi pururea fericit!
+
+[s2]
+Cei ce nu Îl primesc
+Si prin lume rătăcesc
+Viaţa lor în distracţii-şi petrec.
+Însă vine o zi
+Cînd cu toţi s-or trezi
+Dar atuncea va fi prea tîrziu!
+
+[s3]
+Dacă vrei să te-ntorci
+La Isus chiar acum
+Nu uita ca să faci tot ce-i bun.
+Lumea rea să o laşi
+Si cu El să te-mpaci
+Cu Acel ce se cheamă Isus!
+
+[s4]
+Deci acum dacă vrei,
+Haina ta să o speli
+Căci mai curge din sîngele Lui!
+Dar să nu mai amîi,
+In păcat să rămîi -
+Deci acum vino să te hotărăşti!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

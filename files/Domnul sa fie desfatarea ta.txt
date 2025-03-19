@@ -1,0 +1,26 @@
+[r1]
+Domnul sa fie desfatarea ta
+Si la El sa iti fie inima
+In caile Domnului sa ramai
+Si El iti va da bucurii
+
+[s1]
+/: Niciodata nu se vor sfarsi
+In Domnul Isus bucurii
+In caile Domnului sa ramai
+Si El iti va da bucurii :/
+
+[s2]
+Totdeauna vor fi cu Isus
+Noi bucurii, mereu vor fi
+In caile Domnului sa ramai
+Si El iti va da bucurii
+
+[r2]
+/: Niciodata nu se vor sfarsi
+In Domnul Isus anii tai
+In caile Domnului sa ramai
+Si viata nu se va sfarsi :/
+
+[order]
+r1,s1,s2,r2,r1,r2

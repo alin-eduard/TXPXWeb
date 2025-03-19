@@ -1,0 +1,53 @@
+[s1]
+1. Fericire mare-avem
+Aleluia
+Pământul sfânt îl vedem
+Laudă Lui!
+Din păcate am ieşit
+Aleluia
+Şi spre cer noi am pornit
+Laudă Lui!
+38.                                                          Re
+
+[s2]
+Cor: /: Fie crucea cât de grea,
+Jos nicicând n-o vom lăsa,
+Căci Isus ne v-ajuta laudă Lui:/
+
+[s3]
+2. Aici curg lapte, miere,
+Aleluia
+Noi gustăm cu plăcere,
+Laudă Lui
+E-un pământ îmbelşugat,
+Aleluia
+Şi e binecuvântat,
+Laudă Lui !
+
+[r1]
+Cor:  /: Fie crucea cât de grea,
+Jos nicicând n-o vom lăsa,
+Căci Isus ne v-ajuta laudă Lui:/
+
+[s4]
+3. Cetăţi ’nalte sunt aici,
+Aleluia,
+Din aur zidite sunt,
+Laudă Lui!
+Prin credinţă noi venim,
+Aleluia,
+Şi cu Domnul locuim,
+Laudă Lui!
+
+[s5]
+4. Scumpă ţară, sfântă eşti,
+Aleluia
+Sfinţii-n tine adăposteşti,
+Laudă Lui!
+De departe te privim,
+Aleluia,
+Şi mai mult noi te dorim,
+Laudă Lui!
+
+[order]
+s1,s2,s3,r1,s4,r1,s5,r1

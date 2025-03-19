@@ -1,0 +1,23 @@
+[s1]
+1439.
+Să nu disperi când grea e încercarea
+Să nu disperi când valuri grele bat
+Priveşte prin credinţă înainte
+Spre Cel ce este viu cu adevărat
+Când treci prin multe frământări tu adesea
+Şi te întrebi ce-o fi cu viaţa ta
+Încrede-te în Cel ce este viaţa
+Şi-n toate El de grija-ţi va purta
+
+[s2]
+Când candela e gata să se stingă
+De atâta chin şi suferinţă grea
+Hristos doar El e flacăra iubirii
+Şi chiamă-L să rămână în viaţa ta
+Doar dragostea credinţa şi nădejdea
+Prin harul său nicicând nu vor pieri
+Cuvântul Sfânt rămâne-n veci de-a pururi
+Şi pentru veci de veci El va domni
+
+[order]
+s1,s2

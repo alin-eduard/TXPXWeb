@@ -1,0 +1,27 @@
+[s1]
+Bunule Păstor, ia-mi viaţa sub control,
+Oriunde mă conduci, mă voi duce
+Eu vreau ne-ncetat de vocea Ta s-ascult
+Oriunde mă conduci voi umbla.
+
+[r1]
+La păşunea liniştită sau la pârâu domol
+Cu mine e mereu Păstorul blând.
+Pot să trec şi munţi năpraznici
+Chiar şi groaza-n văi adânci
+Cu mine e mereu Păstorul bun.
+
+[s2]
+Bunule Păstor, la masa Ta mă du
+Cu harul tău nespus mă hrănesc.
+Eu vreau ne-ncetat la masa Ta să fiu
+Cu harul Tău nespus mă hrănesc.
+
+[s3]
+Bunule Păstor, eu sunt în mâna Ta
+Şi lipsă de nimic eu nu duc.
+Eu vreau ne-ncetat doar lângă Tin’ să fiu
+Şi lipsă de nimic eu nu duc.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,26 @@
+[s1]
+Binecuvântări mă înconjoară
+Legea Ta cea sfântă o iubesc
+Cred în a lui Isus cunostinţă
+Şi-n Cuvântul sfânt Dumnezeesc.
+
+[r1]
+Iată ce sunt, iată ce am,
+Rege sunt, mă trag din Avraam
+Şi prin Hristos cel răstignit
+Viaţă nouă-n dar am dobândit
+
+[s2]
+Binecuvântări sunt în cetate
+Tot ce e al meu este sfinţit
+În credinţă sunt în sănătate
+Domnul Dumnezeu m-a-mbogăţit.
+
+[s3]
+Binecuvântări sus mă asteaptă
+Ce Tu pentru mine-ai pregătit
+Un locaş eu ştiu că am în slavă
+Cu cântări voi fi acol` primit
+
+[order]
+s1,r1,s2,r1,s3,r1

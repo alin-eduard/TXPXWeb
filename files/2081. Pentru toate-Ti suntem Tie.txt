@@ -1,0 +1,40 @@
+[s1]
+2081
+1. Pentru toate-Ți suntem Ție
+Doamne recunoscători
+Dar pentru cuvântul vieții
+Slavă de mii de ori.
+
+[r1]
+Cor: Sfânt cuvânt dumnezeiesc
+Te ador și Te slăvesc
+Dă-mi prea plinul Tău ceresc
+Fericit ca să trăiesc
+Sfânt cuvânt dumnezeiesc.
+
+[s2]
+2. Îți dăm zilnic slavă Doamne
+Pentru-al pâinii har primit
+Însă pentru pâinea vieții
+Slavă Ție înmiit.
+
+[s3]
+3. Îți aducem mulțumire
+Pentru apus și pentru zori
+Însă pentru lumina vieții
+Slavă de mii de ori.
+
+[s4]
+4. Îți aducem mulțumire
+Pentru-al apei dulci fiori
+Însă pentru izvorul vieții
+Slavă de mii de ori.
+
+[s5]
+5. Slavă Ție pentru toate
+Până-n veacul nesfârșit
+Însă pentru cuvântul vieții
+Slavă Ție înmiit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

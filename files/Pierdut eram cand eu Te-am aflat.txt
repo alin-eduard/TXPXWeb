@@ -1,0 +1,24 @@
+[s1]
+Pierdut eram cînd eu Te-am aflat
+Veşnic Te-oi slăvi căci Tu m-ai salvat!
+Te voi lăuda, veşnic voi cînta
+Toată viaţa mea slavă Îţi voi da !
+
+[r1]
+/: Domnul meu iubit, Tu m-ai mîntuit
+De aceea eu voi cînta mereu ! :/
+
+[s2]
+De cînd Te-am aflat şi viaţa Ţi-am dat
+Eu sînt fericit, căci Tu m-ai primit
+Nu voi înceta să spun altora
+Despre liniştea ce-i în viaţa mea.
+
+[s3]
+Harul Tău mi-ai dat, viaţa mi-ai spălat
+Tu m-ai mîntuit, şi sînt fericit
+Voi spune acum cît eşti Tu de bun
+Şi Te voi slăvi cît timp voi trăi !
+
+[order]
+s1,r1,s2,r1,s3,r1

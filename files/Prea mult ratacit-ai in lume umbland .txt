@@ -1,0 +1,21 @@
+[s1]
+Prea mult rătăcit-ai în lume umblînd Isus vrea să te scape din ea!
+Lasă tot şi urmează-L pe El cu avînt
+Vei primi pacea şi mila Sa!
+De vrei să ai pace, să fi fericit
+Viaţa ta să i-o dai lui Isus!
+El te cheamă şi astăzi, tu nu-L amîna
+Vei primi pacea şi mila Sa!
+
+[s2]
+Suflet singur, ce-n lume mult ai rătăcit
+Eşti chemat de Isus, dar nu ştii!
+Lasă totul şi urmează-L pe El cu avînt
+O, vino, de ce nu vrei să vii?
+De vrei să ai pace, să fi fericit
+Viaţa ta să i-o dai lui Isus!
+El te cheamă şi astăzi, tu nu-L amîna
+Vei primi pacea şi mila Sa!
+
+[order]
+s1,s2

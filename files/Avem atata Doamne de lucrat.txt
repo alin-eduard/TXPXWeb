@@ -1,0 +1,28 @@
+[s1]
+Avem atâta Doamne de luptat
+Ispitele lovesc neîncetat
+/: Alături de Tine Doamne
+vrem sa fim
+Stim ca doar aşa putem sa biruim:/
+
+[r1]
+/: Nu Te duce Domne de la Noi
+Fără de Tine suntem slabi si goi
+Domne sfinte nu ne părăsi
+Fără de Tine, Nu putem trai:/
+
+[s2]
+In Drumul spre Emaus ca cei doi
+Vrem Isuse sa ramai cu noi
+/: Iată vine seara, este spre apus
+/: Rămâi cu noi :/ Isus :/
+
+[s3]
+Pe calea care duce la viată
+Fii călăuză si povata
+/: Un far în bezna noptii
+si un ajutor
+Rămâi în toate scut, izbăvitor :/
+
+[order]
+s1,r1,s2,r1,s3,r1

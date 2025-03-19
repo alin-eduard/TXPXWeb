@@ -1,0 +1,38 @@
+[s1]
+2141
+1. Ridică-mă Doamne pe stâncă
+Eu singur nu mă pot ridica
+/: Te rog întărește-mi Tu pașii
+Ca să pot merge pe calea Ta :/.
+
+[r1]
+Cor: /: Din groapă Tu m-ai scos
+Sunt tare bucuros
+Mereu Te voi slăvi
+Isus Hristos :/.
+
+[s2]
+2. În gură mi-ai pus o cântare
+O laudă spre slava Ta
+/: Numai Tu m-ai scăpat
+de pierzare
+Tu mi-ai dat în dar mântuirea :/.
+
+[s3]
+3. Mă închin și cânt pentru Tine
+Domnul meu minunat și slăvit
+/: M-ai iubit și ai răbdat
+pentru mine
+Vina mea cu viața Ta,
+Tu ai plătit :/.
+
+[s4]
+4. Ridică-mă Doamne pe stâncă
+Ține-mă lângă Tine mereu
+/: Să nu cad de pe calea
+cea strâmtă
+Biruință să-mi dai când
+mi-e greu :/.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

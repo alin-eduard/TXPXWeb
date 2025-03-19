@@ -1,0 +1,26 @@
+[s1]
+Doamne bun,
+ascultă rugăciunea mea!
+/: Şi a mea strigare
+la Tine să ajungă! :/
+
+[r1]
+Doamne, eu Te rog acum
+Să Te-nduri şi să primeşti
+Ruga mea. Să n-o refuzi
+În ziua când am necaz.
+Cel ce ştii inima mea
+Fie-Ţi milă şi de ea,
+Curăţeşte-o Tu pe ea
+După sfântă voia Ta!
+
+[s2]
+Nu-ţi întoarce, o faţa
+În ziua când am necaz,
+Pleacă-ţi urechea de grab’
+Către mine, Doamne bun!...
+/: Către mine, bun stăpân
+Doamne bun! :/
+
+[order]
+s1,r1,s2,r1

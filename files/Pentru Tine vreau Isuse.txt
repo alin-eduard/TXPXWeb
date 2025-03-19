@@ -1,0 +1,32 @@
+[s1]
+Pentru Tine vreau Isuse
+Toată viaţa să trăiesc
+Adevărul Tău în lume
+Şi-al Tău nume să-L vestesc.
+
+[r1]
+Pentru Tine vreau Isuse
+Toată viaţa să mă lupt
+Până-n clipa sfântă care
+Lanţul tare fi-va rupt.
+
+[s2]
+Pentru Tine vreau Isuse
+Să-nving orice suferinţi
+Am ales a jertfei cale
+Pentru-a Tale biruinţi.
+
+[s3]
+Pentru Tine-aş vrea Isuse
+Să trăiesc, să cânt, să mor,
+Să vestesc a Tale sfinte
+Dulci cuvinte tuturor.
+
+[s4]
+Pentru Tine drag Isuse
+Tot ce am de mi-aş jertfi
+N-am să pot cu viaţa-mi toată
+Niciodată răsplăti.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,33 @@
+[s1]
+1590
+1. Plecând dintre ucenici Domnul
+O poruncă sfântă le-a dat
+De templu să nu se despartă
+Şi-n rugă să stea neîncetat
+
+[r1]
+Cor: Rusalii rusalii rusalii
+Acolo e inima mea
+La ziua cincizecimii
+Când Domnul le-a dat puterea
+
+[s2]
+2. Un vuiet puternic apare
+Norodul tot s-a-nspăimântat
+Şi-n ei a Duhului putere
+În inima lor a intrat
+
+[s3]
+3. Se întrebau şi unii si alţii
+Şi în alte limbi ei vorbeau
+Iar Petru fiind plin de putere
+Pe Domnul îl propovăduia
+
+[s4]
+Cor: Fă Doamne şi azi un Rusalii
+Aici în biserica Ta
+Botează şi azi ca atunci
+Şi umple de Duh inima
+
+[order]
+s1,r1,s2,r1,s3,s4

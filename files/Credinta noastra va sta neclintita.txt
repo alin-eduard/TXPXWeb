@@ -1,0 +1,27 @@
+[s1]
+Credinţa noastră va sta neclintită
+Chiar şi în valuri de mari prigoniri;
+Prin jertfa sfântă, de-a pururi sfinţită
+Ea ne conduce la mari străluciri.
+
+[r1]
+/: Pentru Isus Hristos,
+Stăm tari în credintă,
+Nu şovăim a-L urma pe Isus.
+Isus Hristos ne duce la biruinţă;
+Cununa ne va da... :/
+
+[s2]
+Inima noastră se bucură-n Domnul,
+Iar buzele noastre Îl preămaresc;
+Privirea noastră spre El ni-i-aţintită,
+Primim putere din tronul ceresc.
+
+[s3]
+Lângă Isus, întăriţi în credinţă,
+E al nostru măreţ Salvator;
+Cine-L urmează, fără şovăire,
+Pâna la moarte va fi biruitor.
+
+[order]
+s1,r1,s2,r1,s3,r1

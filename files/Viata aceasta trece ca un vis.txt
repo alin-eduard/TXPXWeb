@@ -1,0 +1,23 @@
+[s1]
+Viata aceasta trece ca un vis
+De grijuri si necazuri esti invins
+Da vezi in gandul tau
+Te intrebi de ce-i asa
+Ai vrea sa afli raspunsul daca ai putea
+
+[r1]
+Nu te lasa invins asa de usor
+Isus totdeauna vine in ajutor
+/:Chiar daca pe cale tu vei cadea
+Isus e acela ce te va ajuta
+Nu nici cand tu nu te lasa
+Domnul va fi de partea ta:/
+
+[s2]
+Chiar daca simti singur fara de viata
+Isus este acel ce-ti poate da speranta
+Visurile tale poate nu sau implinit
+Am o veste buna cu El esti fericit!
+
+[order]
+s1,r1,s2,r1

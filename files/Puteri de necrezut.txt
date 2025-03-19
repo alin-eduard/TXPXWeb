@@ -1,0 +1,32 @@
+[s1]
+Puteri de necrezut
+Cuprinde dragostea în ea.
+Înseninează frunţi şi voie bună
+Dă tot ea.
+Să rabzi, să te jertfeşti,
+Să ierţi când alţii îţi greşesc,
+Puteri de necrezut
+Cuprinde dragostea în ea.
+
+[s2]
+Iluzii multe, mari îşi face
+Dragostea mereu.
+Trăind, nădăjduind,
+Se-ncrede doar în Dumnezeu,
+Dar mulţi nu o cunosc,
+Şi­-n viaţa lor nu o primesc.
+Iluzii multe, mari îşi face
+Dragostea mereu.
+
+[s3]
+Credinţa s­a­-ncheia,
+Nădejdea va avea sfârşit,
+Dar dragostea va sta,
+Doar ea va fi necontenit.
+Iubire-a­i Dumnezeu
+Şi tot ce­i bun e de la El.
+Când toate s­-or sfârşi,
+Rămâne dragostea în veci.
+
+[order]
+s1,s2,s3

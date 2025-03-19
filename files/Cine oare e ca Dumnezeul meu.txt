@@ -1,0 +1,34 @@
+[s1]
+/: Cine oare e ca Dumnezeul meu? :/
+/: Cine e mereu cu mine,
+Cine-mi dă belşug de pâine,
+Cine îmi alină dorul cel mai greu? :/
+
+[r1]
+Cine oare e ca Tine Domnul meu?
+Eu Te laud şi-Ţi cânt glorie mereu
+/: Sus în cer şi jos în lume
+Nu e nimenea ca Tine
+Tu eşti veşnic mare Dumnezeu :/
+
+[s2]
+/: Cine oare e ca Dumnezeul meu? :/
+/: Cine îmi păzeşte paşii,
+Când mă urmăresc vrăjmaşii,
+Cine-mi luminează calea mea mereu?:/
+
+[s3]
+/: Cine oare e ca Dumnezeul meu? :/
+/: Cine-mi dă eliberare,
+De-s cuprins de-ngrijorare,
+Cine-mi dă puteri
+s-alerg spre cer, mereu? :/
+
+[s4]
+/:Cine oare e ca Dumnezeul meu? :/
+/: Cine-mi pregăteşte-o Ţară,
+În eternă primăvară,
+Ca să fiu în veci de veci cu EL, mereu? :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

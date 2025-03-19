@@ -1,0 +1,35 @@
+[s1]
+De ce stai mut cand iti vorbesc?
+Si nu ma mustrei cand gresesc?
+De ce mi-e cerul nepatruns?
+De ce de mine te-ai ascuns?
+De nu-mi dai, Doamne raspuns?
+
+[s2]
+O, unde esti, o unde esti?
+De ce nu poti sa ma privesti?
+Stiu c-am gresit, stiu ca sunt rau
+/: Dar stiu ca-i mare harul Tau :/
+
+[s3]
+De-atata vreme-s in cuptor
+Ard si n-am nici un ajutor
+Vrei oare sa ma curatesti
+Sau poate sa ma nimicesti
+Sau asa-mi spui ca ma iubesti?
+
+[r1]
+O, unde esti, o unde esti?
+De ce nu poti sa ma privesti?
+Stiu c-am gresit stiu ca sunt rau
+/: Dar stiu ca-i mare harul Tau :/
+
+[s4]
+Te rog frumos Stapanul meu
+Prea-Sfant si mare Dumnezeu
+Smerit plecat, umil, supus
+Vin, in numele lui Isus
+Fa ruga mea, s-ajunga sus.
+
+[order]
+s1,s2,s3,r1,s4,r1

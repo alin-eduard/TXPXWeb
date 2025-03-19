@@ -1,0 +1,26 @@
+[s1]
+Ocean de dragoste si de iubire
+Ocean ce nu se poate măsura
+Ocean fără de margini, fără tărmuri
+Ocean ce ai umplut si viata mea.
+
+[r1]
+Ocean Sfânt Izvor de pe Golgota
+Ce cursul Tău nimic nu l-a schimbat
+Tot cristalin la fel plin de viata
+Îngenuncheat eu vin în calea Ta.
+
+[s2]
+Să treacă peste mine sa mă spele
+Si să înece tot ce nu este sfânt
+Spălat, iertat să stau la suprafată
+Pe pluta alb-a Duhului Cel Sfânt.
+
+[r2]
+Si împreună să vâslim spre tara
+În care intr-o zi vom ancora
+Si când ajunsi vom fi acol’ odată
+Cerescul port pe veci se va-ncuia
+
+[order]
+s1,r1,s2,r1,r2,r1,r2,r1

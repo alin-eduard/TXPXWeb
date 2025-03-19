@@ -1,0 +1,24 @@
+[s1]
+Vine o zi când vom pleca de-aici
+Vine un timp
+când vom lasa ce-avem,
+Lacrimi, dureri
+atunci se vor sfârsi
+Gloria Lui noi toti o vom privi.
+
+[s2]
+Cerul ne spune domnia Lui
+Muntii vestesc puterea Lui,
+Tot pamantu-atunci îi va cânta.
+
+[s3]
+/: Orice ochi îl va vedea
+Orice om se va pleca
+În ziua când Isus va reveni,
+Universu-i va cânta
+Noi cu toti îl vom lauda
+Când Domnul nostru bun
+ne va primi :/
+
+[order]
+s1,s2,s3

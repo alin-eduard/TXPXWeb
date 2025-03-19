@@ -1,0 +1,32 @@
+[s1]
+Smeriţi venim, Doamne, la Tine,
+al Tău Cuvînt dorim.
+Tu, Doamne, dă-ne-nţelepciune
+prin harul Tău divin.
+Din întuneric şi păcate
+doar Tu ne poţi salva
+A Ta iubire n-are margini,
+azi vrem lumina Ta
+
+[r1]
+Îţi încredinţăm viaţa noastră Ţie
+Condu-ne Tu, scump Mîntuitor!
+Luminează Tu sufletele noastre
+În veci Tu fii cu noi!
+/: Păstrează-ne, Doamne în credinţă
+Păstrează-ne ca copii ai Tăi!
+În bucurii şi în necazuri
+O, Doamne, fii cu noi! :/
+
+[s2]
+Cuvîntul Tău e-nţelepciune
+şi veşnic este el
+Eşti începutul şi sfîrşitul
+şi Tu vei fi mereu.
+Numele Tău este viaţă
+şi veşnică e ea
+Biruitoare ne e credinţa
+şi mîntuirea Ta.
+
+[order]
+s1,r1,s2,r1

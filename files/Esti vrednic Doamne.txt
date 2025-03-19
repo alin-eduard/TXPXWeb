@@ -1,0 +1,30 @@
+[s1]
+Vrednic de slava si lauda
+Vrednic de cinste si glorie
+Demn de cantari
+Si de voci preamarit
+Vrednic de totul ce noi daruim
+
+[r1]
+Tu esti vrednic Tata din ceruri
+Tu esti vrednic tu Salvatorul
+Tu esti vrednic
+Sfanta-nchinare si slava
+Doar Tie sa-ti dam
+
+[s2]
+Vrednic de teama si dragoste
+Vrednic de-a noastra-nchinare
+Vrednic sa-mi plec
+Eu genunchiu-n pamant
+Vrednic de totul
+Esti Tu Doamne sfant
+
+[s3]
+Atotputernic Tata si Domn
+Rege al regilor Salvator
+Sfetnic Prieten si Mangaietor
+Tu, Mantuirea si-al vietii izvor
+
+[order]
+s1,r1,s2,r1,s3,r1

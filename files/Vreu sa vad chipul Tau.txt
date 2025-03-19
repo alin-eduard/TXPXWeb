@@ -1,0 +1,39 @@
+[s1]
+Dintre atâtea hotare,
+Care sunt pe pământ
+Ma îndrept către zare
+Căci, eu, Doamne
+Vreau să fiu sfânt
+Şi din mii de dorinţe
+Ce nasc şi apoi pier
+Numai una îmi rămâne
+Doamne, vreau să merg în Cer.
+
+[r1]
+Vreau să văd chipul Tău
+E dorinţa, ce o am pe pământ
+M-ai creat pentru Cer
+M-ai creat să fiu sfânt
+
+[s2]
+Cu dorinţa în suflet
+Să Te întâlnesc
+Cred cuvintele Tale
+Şi poruncile le primesc
+Sunt cu tine mereu
+,,Nu te teme”, mi-ai spus
+Şi atâtea prieteni
+Mă veghează de Sus.
+
+[s3]
+Până când va veni
+Ziua să Te întânesc
+Îndrăznesc să Te rog
+Nu lăsa să mă rătăcesc
+O făclie să faci,
+Din întreg trupul meu
+Şi de Duhul Tău Sfânt
+Să fiu locuit mereu.
+
+[order]
+s1,r1,s2,r1,s3,r1

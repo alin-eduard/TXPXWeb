@@ -1,0 +1,27 @@
+[s1]
+1. Suflete vino azi la Isus
+Aruncă-I sarcina ta
+El vrea să te nască de sus
+Şi să-ţi dea pacea Sa.
+361.
+
+[r1]
+Cor: Vino azi nu-ntârzia
+Auzi cum te cheamă El
+Caută-ţi mântuirea ta
+În braţe la Sfântul Miel.
+
+[s2]
+2. Astăzi glasul Lui răsună
+Şi cu drag cheamă pe toţi
+Ca să audă vestea bună
+Vino astăzi până poţi.
+
+[s3]
+3. Mâine poate s-a terminat
+Cu viaţa ce o trăieşti
+Şi atunci te vei ruşina
+Dacă nu te pocăieşti.
+
+[order]
+s1,r1,s2,r1,s3,r1

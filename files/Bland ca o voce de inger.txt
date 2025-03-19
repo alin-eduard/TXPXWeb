@@ -1,0 +1,42 @@
+[s1]
+Bland ca o voce de  inger
+Poate sa fie-auzit
+Printre suspine si plangeri
+Glasul sperantei soptit
+
+[s2]
+Stai pana trece furtuna
+Domnu-i pe valuri stapan
+Apele trec totdeauna,
+Stancile-n urma raman.
+
+[r1]
+Stai in credinta si nu dispera
+Cheama speranta in inima ta !
+
+[s3]
+Nu-ti fie frica de noapte
+Tu luminezi ca o stea
+Cel ce domneste in toate
+Domnul e-n inima ta.
+
+[s4]
+Stai si asculta speranta
+Las-o in sufletul tau
+Vine curand dimineata
+Nu va fi noapte mereu.
+
+[s5]
+Fii credincios pan’ la moarte
+Chiar daca lupta e grea.
+Domnul si astazi desparte
+Marea, s-o poti traversa.
+
+[s6]
+Stai si asculta-ti chemarea
+Lasa-i pe cei care pier
+Chiar de e-ngusta cararea
+Nu este alta spre cer.
+
+[order]
+s1,s2,r1,s3,s4,r1,s5,s6,r1

@@ -1,0 +1,32 @@
+[s1]
+Fa M                                                    O laudă e cântarea mea
+Un imn frumos de bucurie
+O laudă-mi cântă inima
+Mărit să fie Domnul pe vecie.
+
+[r1]
+/: Sfânt, sfânt, sfant e numele lui mare
+Sfânt, a fost și e din veșnici
+Sfânt și bun alin și desfătare
+Este Domnul pentru ai săi copii :/
+
+[s2]
+Căci Domnul e tăria mea
+Să știe azi întreaga lume
+Și-o viață-ntreagă voi cânta
+Mărească-i-se al Său Nume.
+
+[s3]
+Ostroave dealuri și câmpii
+Ce dați privirii încântare
+Spuneți oricui v-ar întâlni
+Că n-are Domnul asemănare.
+
+[s4]
+El e pricina laudelor
+Căci prin El toate-au fost create
+El este Domnul Domnilor,
+Prin El și pentru El sunt toate.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,51 @@
+[s1]
+Sosit-a ziua fraţilor
+Să ne deşteptăm din somn
+Să ne-ntoarcem din păcate
+La Părintele ceresc.
+Căci destul am petrecut noi
+În poftele acestea lumeşti
+Iubind poftele din lume
+Străin de Tatăl Ceresc
+1.
+2.
+1087.
+
+[s2]
+Căci Părintele nost ceresc
+Fiul Său nu L-a cruţat
+/ : Şi pentru a noastre păcate
+Pe El la moarte L-a dat : /
+Iubiţilor fraţi şi prieteni
+Lăsaţi faptele lumeşti
+/ : Căci trage sufletul nostru
+La focul nestins în veci : /
+3.
+4.
+
+[s3]
+Să ne-ntoarcem către Domnul
+Să ne plângem păcatul
+/ : Căci plata păcatului
+Este focul Iadului : /
+Priviţi voi dar la Golgota
+Unde Domnul a murit
+/ : Să ne scape din păcate
+Să ne facă fericiţi : /
+5.
+6.
+
+[s4]
+Lumea asta e orbită
+Şi nu vrea să-L cunoască
+/ : Să se-ntoarcă la credinţă
+De la pofta cea lumească : /
+Vine ziua judecăţii
+Peste cei necredincioşi
+/ : Atunci toţi ar vrea să creadă
+Dar atunci va fi târziu : /
+7.
+8.
+
+[order]
+s1,s2,s3,s4

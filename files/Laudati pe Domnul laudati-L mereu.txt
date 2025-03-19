@@ -1,0 +1,31 @@
+[s1]
+Lăudaţi pe Domnul,
+lăudaţi-L mereu.
+Lăudaţi pe Domnul,
+/: Sfântul lui Israel. :/
+/: Aleluia, aleluia. :/
+
+[s2]
+Preamăriţi pe Domnul
+care ne-a mântuit
+Suferind pe cruce,
+/: Fiindcă mult ne-a iubit. :/
+/: Aleluia, aleluia. :/
+
+[s3]
+Lăudaţi pe Domnul
+pe Acel ce-a-nviat.
+Biruind El moartea
+viaţă nouă ne-a dat,
+Mântuire ne-a dat.
+/: Aleluia, aleluia. :/
+
+[s4]
+Lăudaţi pe Domnul
+Ce va reveni.
+Să ne ducă-n slavă
+/: Domnul ne va răpi. :/
+/: Aleluia, aleluia. :/
+
+[order]
+s1,s2,s3,s4

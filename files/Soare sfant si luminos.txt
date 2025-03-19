@@ -1,0 +1,29 @@
+[r1]
+/: Soare sfânt şi luminos
+Domnul meu, Isus Hristos
+Va veni ca să mă ducă-n Cer
+Unde loc mi-a gătit, ca să fiu fericit
+Domnul meu, Dumnezeu :/
+
+[s1]
+E plin pământul de durere
+Necazul e la orice pas
+Dar Dumnezeu îmi dă putere
+Cu nici un chip, eu nu mă las
+Chiar de s-ar clătina pământul
+Şi marea de ar dispărea
+Eu ştiu în cine am nădejde
+E zi de zi tăria mea.
+
+[s2]
+Nespusă va fi bucuria
+Când faţă-n faţă voi vedea
+Toţi îmbrăcaţi, în haine albe
+Cântare nouă îî vom cânta
+Acolo nu va fi durere
+Nici lacrimi nu voi mai avea
+Pe cap, cununi strălucitoare
+Căci la urmă, toţi vor purta.
+
+[order]
+r1,s1,r1,s2,r1

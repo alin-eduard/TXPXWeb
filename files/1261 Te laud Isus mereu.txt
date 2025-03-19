@@ -1,0 +1,27 @@
+[s1]
+Te laud Isus mereu
+Te laud în gând şi în faptă
+C-atunci când mi-a fost mie greu
+M-ai întărit Tu, Domnul meu
+1.
+Te laud Isuse mereu
+Şi nu voi uita-n viaţa toată
+Ce clipe de pace şi har
+Mi-ai dăruit în vremea tulburată.
+2.
+1261
+
+[s2]
+Te laud Isuse mereu
+C-alături mi-ai fost la răscruce
+Când eu disperat gemeam greu
+Ţi-am auzit vocea-Ţi dulce
+3.
+Te laud Isuse mereu
+Şi nu voi uita niciodată
+Ce mare iubirea-i avut
+De mine în vremea-ncercată
+4.
+
+[order]
+s1,s2

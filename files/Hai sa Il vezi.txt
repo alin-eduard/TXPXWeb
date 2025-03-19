@@ -1,0 +1,32 @@
+[s1]
+Când sângele lui Isus a curs
+Pe lemnul din Calvar
+Al tău păcat a fost răpus
+Sa-ti dea viaţă în dar.
+
+[r1]
+Hai, hai să Îl vezi pe Împărat
+Că El pe tine te-a iertat
+Azi, tu renunţă la păcat
+Să moşteneşti al Lui Palat
+
+[s2]
+Din groapa rece, de păcat
+Pe toţi El ne-a salvat
+Şi din robie ne-a ridicat
+Să fim cu El neîncetat.
+
+[s3]
+Şi pentru Tine, a suferit
+Să fii aur curat
+Jos pe pământ, El a venit
+Ca tu să fii răscumpărat.
+
+[s4]
+Şi pentru Tine, sângele a curs
+Să spele al Tău păcat
+Pe-al tău duşman, El a răpus
+Să fii cu El în Canaan.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

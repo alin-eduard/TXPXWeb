@@ -1,0 +1,26 @@
+[s1]
+Acelasi nume toti purtam,
+Nu-i nimeni sus, nici jos;
+Iudeu sau grec, un trup suntem,
+Si capul e hristos.
+
+[s2]
+Noi nu avem de impartit
+Nimic pe-acest pamint,
+Ci mina-n mina am pornit
+Spre cerul nostru sfint.
+
+[s3]
+Hristos cu sine ne-a legat:
+Apus si rasarit,
+Popor sub cruce adunat,
+De lupta pregatit.
+
+[s4]
+Acelasi steag il vom purta
+Caci suntem un popor,
+Legati pe veci in slujba sa
+Prin harul salvator
+
+[order]
+s1,s2,s3,s4

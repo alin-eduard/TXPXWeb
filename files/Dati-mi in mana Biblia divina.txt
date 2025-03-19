@@ -1,0 +1,20 @@
+[s1]
+Daţi-mi în mână Biblia divină
+Altă carte asemenea ei nu-i
+Ea stâmpără durerea şi-o alină
+Şi mă-nvaţă să fiu al Domnului
+
+[r1]
+Lasă lucească raza ei cea sfântă
+În tot locul aici pe-acest Pământ
+Ca toţi aceia cu inima frântă
+Să se întoarcă la Domnul cel Sfânt
+
+[s2]
+Daţi-mi în mână Biblia divină
+Ea dă odihnă celor osteniţi
+În necaz mângăie a mea inimă
+Vindecă bolnavi şi orice suferinţi
+
+[order]
+s1,r1,s2,r1

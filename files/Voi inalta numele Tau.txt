@@ -1,0 +1,41 @@
+[s1]
+Numele Tau e’naltat
+printre neamuri e laudat
+Puterea Ta este vestita
+pe’ntreg pamant
+Vrednic de cinste esti Tu
+Se cuvine sa ne-nchinam inaintea Ta,
+in fata Ta Doamne
+
+[r1]
+Voi inalta numele Tau
+Voi proclama domnia-Ti pe pamant
+Voi arata puterea sangelui Tau sfant
+Dorinta mea va fi a Ta,
+voi face Doamne numai voia Ta
+Cat voi trai pe-acest pamant
+sa Te slujesc
+
+[s2]
+In glorie si-n slava-ntronat
+In splendoare esti imbracat
+Minunile Tale-s cantate
+din neam in neam,
+caci nimeni nu este ca Tin’
+Dumnezeule divin
+Creatia-ntreaga pe tine te lauda
+
+[s3]
+/: Numele Tau e sfant
+Numele Tau e drept
+Numele Tau e mare
+pe-ntreg pamant :/
+
+[s4]
+Numele Tau e sfant
+Numele Tau e drept
+Numele Tau e mare
+pe-ntreg pamant
+
+[order]
+s1,r1,s2,s3,r1,s4

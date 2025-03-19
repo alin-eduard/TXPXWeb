@@ -1,0 +1,29 @@
+[s1]
+2128
+1. Oxigenul rugăciunii să-l respir neîncetat,
+Ca prin lumea stricăciunii să mă pot păstra curat!
+
+[r1]
+Cor: /: Rugăciunea, rugăciunea, oxigenul meu,
+Ea-mi păstrează-nțelepciunea sfântă-n Dumnezeu! :/.
+
+[s2]
+2. Arzător în rugăciune, Doamne, ține-mi duhul meu
+Prin cereasca-nțelepciune să fiu neînfrânt mereu!
+
+[s3]
+3. Rugăciune-adevărată fie viața mea deplin,
+Și din stare-nflăcărată să pot Ție să mă-nchin!
+
+[s4]
+4. Legătură preasfințită am cu Tine, Cel preasfânt,
+Când mi-e ruga neoprită de frământări pe pământ!
+
+[s5]
+5. Oxigenul rugăciunii
+să-l respir,
+ca să trăiesc flacăra înțelepciunii
+Doamne-n duh tot mai ceresc!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

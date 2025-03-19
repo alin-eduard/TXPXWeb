@@ -1,0 +1,37 @@
+[s1]
+Iubirea mamei mele
+se-aseamănă, spun eu
+Cu iubirea eternă
+venind din Dumnezeu.
+Iubirea mamei mele
+e-un dor nemărginit
+Ce nu cunoaşte margini,
+mergând spre infinit.
+
+[r1]
+/: Iubirea, ocean ce se-adună an de an
+Din mări şi din fluvii
+Revărsând doar bucurii ! :/
+
+[s2]
+Iubirea mamei mele
+doresc s-o am mereu
+Ca prin a sa iubire
+să simt pe Dumnezeu.
+Iubirea mamei mele
+se-nalţă tot mereu
+Spre cea mai ,naltă culme,
+să-L văd pe Dumnezeu.
+
+[s3]
+Iubirea mamei mele
+e dorul meu aprins
+Îmi dă puteri întruna
+şi n-am să cad învins
+Când răul şi ispita
+cu mreaja stau întinsă
+Iubirea mamei mele
+e-o stâncă neatinsă.
+
+[order]
+s1,r1,s2,r1,s3,r1

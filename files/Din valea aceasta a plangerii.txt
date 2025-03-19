@@ -1,0 +1,38 @@
+[s1]
+Din valea-aceata-a plângerii
+Te cheamă azi ai tăi copii
+Te cheamă azi Mireasa Ta
+vino Isuse după ea.
+
+[r1]
+Vino Isuse! Vin mai degrabă,
+Vino căci Te asteptăm cu dor
+Vino si du-ne sus cu Tine-n slavă
+Să-Ti cântăm cu-al îngerilor cor
+
+[s2]
+Din întristări si din amar,
+Noi Te chemăm Isuse iar
+Vino din nou prin Duhul Sfânt
+la turma Ta de pe pământ.
+
+[s3]
+Atâtea răni sunt care dor,
+O, scump Isuse, o, bun Păstor.
+Samariteanule milos
+Cu-al Tău balsam vin’aici jos.
+
+[s4]
+Te-asteptăm si te dorim,
+Să-Ti spunem ce mult Te iubim
+Pe Tine soare fără apus,
+Mire iubit si drag Isus.
+
+[s5]
+Vino Isus, vino Mesia,
+strigă Duhul, strigă Mireasa
+Osana cântă azi răscumpăratii,
+vrem să vină Doamne ziua Ta
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5

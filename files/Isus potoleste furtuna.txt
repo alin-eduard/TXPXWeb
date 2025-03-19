@@ -1,0 +1,32 @@
+[s1]
+Isus potoleşte furtuna
+Cand valurile vor veni,
+Cand Domnul işi va-ntinde mana
+Furtuna se va potoli.
+
+[r1]
+/: El trece şi-acuma pe mare
+El vindeca rani in popor,
+La El vei gasi alinare
+La El vei gasi ajutor. :/
+
+[s2]
+Cand valurile se ridica
+Cand mii de-ncercari navalesc,
+De oamnei sa nu-ţi fie frica
+Tu cheama-l pe Tatal ceresc.
+
+[s3]
+Şi Iona era jos in mare
+Şi Petru in val scufundat,
+Şi Pavel in mare-ncercare
+Dar Domnul pe toţi i-a salvat.
+
+[s4]
+Cu El şi in foc si in apa
+Poţi fi liniştit cu Isus,
+Cu drag orişicand El te scapa
+Tu fii credincios şi supus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

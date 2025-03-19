@@ -1,0 +1,56 @@
+[s1]
+837
+1. Când Domnul va veni
+Pe glorie de nori
+Cu zecile de mii
+De îngeri şi splendori
+Atunci pământul va fi plin
+De heruvimi şi serafimi
+Arhanghelul cu toţi vor răsuna frumos
+Din trâmbiţă si din viori vor rasuna
+S-or transforma şi cer şi nori
+Când Domnul va veni
+Să-şi ia ai săi copii
+
+[s2]
+2. Atunci la dreapta Sa
+Pe Petru îl vom vedea
+Pe Iacov şi pe Ioan
+Pe tânărul Ştefan
+Ne-om întâlni cu Mihail
+Şi cu Arhanghelul Gavril
+Ce vestea  bună au adus
+Naşterea lui Isus
+În jurul tronului vom sta
+Bătrânii se vor închina
+Ne-om închina şi
+Noi împreună cu ei.
+
+[s3]
+3. Atunci îl vom vedea
+Pe micul Samuel
+Pe Adam şi pe Avraam
+Pe tânărul Daniel
+Ne-om întâlni cu ai noştri strămoşi
+Bătrâni şi tineri credincioşi
+La nuntă în veşnicii
+Cu toţi ne-om întâlni
+Atunci şi David va cânta
+Cum n-a cântat din harfa Sa
+Şi va cânta cu el fii lui Israel
+
+[s4]
+4. Atunci cei din mormânt
+Cu toţi vor învia
+Şi plini de Duhul Sfânt
+Spre ceruri vor zbura
+Şi în jurul tronului ceresc
+Va fi cortul Dumnezeiesc
+La râul cristalin,sus în Ierusalim
+Şi vom uita orice dureri
+La pomul vieţii sus în ceruri
+Noi vom fi vindecaţi
+De păcate iertaţi.
+
+[order]
+s1,s2,s3,s4

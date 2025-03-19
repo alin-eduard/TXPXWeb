@@ -1,0 +1,50 @@
+[s1]
+Mi-am luat prin soare
+crucea către cer.
+Undeva în urmă într-un orb noroi
+Rămînea trecutul, îmi luam din el
+Zborul, numai zborul
+fără-ntors ,napoi.
+
+[s2]
+Era primăvară şi frumos era
+Calea numai cîntec,
+mersul numai zbor
+Crucea numai raze, zarea scînteia
+Soare, numai Soare,
+fără pic de nor.
+
+[s3]
+Dar ce fără veste vîntul s-a stîrnit
+Cînd prea fără temeri
+şi prea gol eram
+Cîndva la trezire ne-nălţam răniţi
+Trunchiuri, numai trunchiuri
+fără pic de ram.
+
+[s4]
+Ani mi-am ars prin soare,
+m-am zbătut prin vînt
+Şi-nălţînd în rugă
+sinceri mulţumiri
+Dragoste şi jertfă, ţel şi legămînt
+Cruce, numai cîntec
+fără trandafiri.
+
+[s5]
+Primăvară dulce,
+drumu-i încă sloi
+Zarea-i încă-n umbră,
+mersu-i tot suiş
+Pînă unde-i oare încă pentru noi
+Noapte, numai noapte
+fără luminiş.
+
+[s6]
+Vine, vine, vine ziua de apoi
+Nunta fără capăt, har făr, asfinţit
+Crucea numai raze, zarea scînteia
+Slavă, numai slavă fără de sfîrşit !
+
+[order]
+s1,s2,s3,s4,s5,s6

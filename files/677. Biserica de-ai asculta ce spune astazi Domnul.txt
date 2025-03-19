@@ -1,0 +1,52 @@
+[s1]
+1. Biserică de-ai asculta
+Ce spune astăzi Domnul
+Iertare dau prin Duhul Sfânt
+Să-mi mângâi azi poporul.
+677.								  Fa
+
+[s2]
+/: Nu mai e mult,
+nu mai e mult
+Curând pe nori de slavă
+Voi ridica, voi ridica
+Mireasa Mea cea dragă. :/
+
+[s3]
+2. Când ştiu că eşti în suferinţi
+Eu îţi cunosc durerea
+Când ştiu că nu mai poţi răbda
+Şi-ţi slăbeşte puterea.
+
+[s4]
+/: Mai rabdă că puţin de tot
+Mai e din neagra noapte
+Când Tatăl îmi va da răspuns
+Să-mi strâng roadele coapte. :/
+
+[s5]
+3. Când ştiu că pentru mine porţi
+Poveri de amărăciune
+Când eşti vorbit numai de rău
+Tu stai în rugăciune.
+
+[s6]
+Mai rabdă că nimic nu pierzi
+Trecând prin încercare
+Căci în cuptorul cel cu foc
+Trimis-a îndurare.
+
+[s7]
+4. Ca mângâiere pe pământ
+Pe Duhul Sfânt trimis-am
+Să-ţi fie îndreptar pe drum
+Să nu-ţi slăbeşti credinţa.
+
+[s8]
+Puţină vreme a mai rămas
+Arhanghelul să sune
+Ca toţi răscumpăraţii Mei
+Din lume să-i adune.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

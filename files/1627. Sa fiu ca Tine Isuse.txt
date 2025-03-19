@@ -1,0 +1,39 @@
+[s1]
+1627.                Re
+1.Să fiu ca Tine  Isuse,
+Să fiu ca Tine Isuse mereu,
+Oricât e încercarea de mare,
+Să fiu ca Tine Domnul meu!
+
+[s2]
+Cor:/: Să fiu ca şi Tine :/
+Smerit blând şi curat!
+/: Să fiu ca şi Tine :/
+Isuse să fiu neîncetat!
+
+[s3]
+2.Să fiu ca Tine Isuse,
+S-ascult al vieţii Cuvânt,
+Să fiu iubitor ca şi Tine,
+Să fiu ca Tine oricând!
+
+[s4]
+Cor: /: Să fiu ca şi Tine :/
+Smerit blând şi curat!
+/: Să fiu ca şi Tine :/
+Isuse să fiu neîncetat!
+
+[s5]
+3.Curând s-a sfârşi alergarea.
+Şi dacă aici pe pământ
+Trăit-am la fel ca şi Tine
+Cu Tine voi fi-n cerul sfânt.
+
+[s6]
+Cor:/: Să fiu ca şi Tine :/
+Smerit blând şi curat
+Să fiu ca şi Tine
+Isuse să fiu neîncetat
+
+[order]
+s1,s2,s3,s4,s5,s6

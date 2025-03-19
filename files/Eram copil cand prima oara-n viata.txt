@@ -1,0 +1,34 @@
+[s1]
+Eram copil cînd prima oară-n viaţă
+Spre Domnul Isus paşii mă purtau
+/: Şi ca să scap de neagra nopţii ceaţă
+M-am dus cu fraţii-n rugăciuni să stau:/
+
+[r1]
+/: Doamne, unde eşti?
+Iartă-mă de vrei
+Şi vino să mă iei!
+Doamne, vino, Doamne
+Să vezi ce-a mai rămas
+Din oameni! :/
+
+[s2]
+Cu ochii-nchişi, cu mîini încătuşate
+Eram în clipa cînd Tu m-ai ales.
+/: Ca să mă speli, Isuse, de păcate
+Prin harul sfînt Tu vina mea ai şters.:/
+
+[s3]
+La Golgota pe culmea-ndurerată
+Acolo şi pe mine Tu m-ai dus.
+/: Mi-ai arătat că vina mea-i spălată
+Prin sîngele care pe lemn a curs. :/
+
+[s4]
+Căci harul sfînt şi-a dragostei iubire
+În rugăciune, Doamne, mi-a adus
+/: Ca să-nţeleg că nu-i nimic pe lume
+Mai mult ca rugăciunea spre Isus. :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

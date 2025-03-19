@@ -1,0 +1,45 @@
+[s1]
+1. Rătăcit eram în lume
+Făr' să ştiu despre Isus
+Şi în schimbul fericirii
+Chin aveam nespus
+365.
+
+[s2]
+Iar în locul păcii sfinte
+Tulburarea m-apăsa
+Până când gusta-i la Domnul
+Mare-I mila Sa.
+
+[r1]
+Cor:Astăzi când servesc pe Domnul
+Mă simt foarte fericit
+De Isus Mântuitorul
+Eu sunt mântuit.
+
+[s3]
+2. Îmi urmez Mântuitorul
+Orişiunde merge El
+Isus e Păstorul dulce
+Eu sunt al Său miel
+
+[s4]
+La păşune El mă duce
+Tot ce vreau în El găsesc
+Niciodată nu mă lasă
+Ca să disperez.
+
+[s5]
+3. Vino, vino azi la Domnul
+Căci de El tu eşti chemat
+Lasă lumea şi păcatul
+Ca să fii salvat
+
+[s6]
+Căci Isus lăsă chiar cerul
+Şi pe cruce El muri
+Fă un pas şi tu
+Cu sigur te vei mântui.
+
+[order]
+s1,s2,r1,s3,s4,r1,s5,s6,r1

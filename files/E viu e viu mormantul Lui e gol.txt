@@ -1,0 +1,22 @@
+[r1]
+E viu, e viu, mormântul Lui e gol!
+E viu, e viu, a-nviat Domnul meu!
+E viu, e viu în toată strălucirea.
+Ne duce la fericire.
+
+[s1]
+Maria, ucenicii grăbesc, alerg la El.
+În zori de dimineaţă, le zice îngerul:
+„Duceţi, vestiţi tuturor
+- Din morţi El a-nviat –
+Credeţi şi vă bucuraţi!”
+
+[s2]
+Maria stă şi plânge.
+Ar vrea să ştie ce-i.
+Dar, iată o minune: ISUS ’naintea ei!
+Ce mare fericire! „Rabuni”, zice ea.
+Şi noi, în cer, Îi vom vedea.
+
+[order]
+r1,s1,r1,s2,r1

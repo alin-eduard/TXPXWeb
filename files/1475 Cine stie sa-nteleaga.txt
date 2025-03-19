@@ -1,0 +1,53 @@
+[s1]
+1475.  Mi b
+Cine ştie să-nţeleagă
+Să fii azi copil orfan
+Să fii singur fără sprijin
+Şi în lipsuri an de an
+Cor:       Dar El e tatăl orfanilor
+Apărătorul văduvelor
+El îţi dă pâinea pe masă
+Şi-ţi trimite bani în casă
+
+[s2]
+2.  Cine ştie ce înseamnă
+Să-mbraci haina de orfan
+Alţii să aibă mamă tată
+Iar tu pe nimeni an de an
+Cor:       Dar El e tatăl orfanilor
+Apărătorul văduvelor
+El îţi dă pâinea pe masă
+Şi-ţi trimite bani în casă
+
+[s3]
+3.   Cine ştia suferinţa
+Văduvei nemângâiate
+Toţi să o părăsească
+Când se află în etate
+Cor:       Dar El e tatăl orfanilor
+Apărătorul văduvelor
+El îţi dă pâinea pe masă
+Şi-ţi trimite bani în casă
+
+[s4]
+4.  Tot ce-i bun să vă spun astăzi
+Pe deplin încredinţat
+Căci Isus e mamă tată
+Pentru cel nemângâiat
+Cor:       Dar El e tatăl orfanilor
+Apărătorul văduvelor
+El îţi dă pâinea pe masă
+Şi-ţi trimite bani în casă
+
+[s5]
+5.  Chiar de n-am pe pământ tată
+Care să mă sprijinească
+Dumnezeul meu din ceruri
+Îmi dă hrană şi povaţă
+Cor:       Dar El e tatăl orfanilor
+Apărătorul văduvelor
+El îţi dă pâinea pe masă
+Şi-ţi trimite bani în casă
+
+[order]
+s1,s2,s3,s4,s5

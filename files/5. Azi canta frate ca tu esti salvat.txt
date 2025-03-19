@@ -1,0 +1,45 @@
+[s1]
+1. Azi cântă frate,
+/: Căci tu eşti salvat :/.
+Domnul pe tine
+/: Te-a răscumpărat. :/
+5.                                                            Mi b
+
+[r1]
+Cor: Cântece să răsune,
+Să se ducă vestea-n lume
+Că Domnul e Mântuitorul tău
+Şi-al meu. El te călăuzeşte,
+Zi şi noapte te-nsoţeşte.
+Stai dar acum, o,
+Stai pe braţul Său!
+
+[s2]
+2.Azi cântă, frate
+/: Și fii bucuros :/.
+Căci ai aflat, prin
+/:Har, pace-n Hristos.:/
+
+[s3]
+3. Azi cântă, frate
+/: Și nu te-ntrista :/.
+Căci Domnul Isus
+/: Nu te va lăsa. :/
+
+[s4]
+4. Azi cântă, frate
+/: Dar cântă aşa :/.
+Plin de credinţă ,
+/: De dragostea Sa :/!
+
+[s5]
+Cor: Cântece să răsune,
+Să se ducă vestea-n lume
+Că Domnul e Mântuitorul tău
+Şi-al meu. El te călăuzeşte,
+Zi şi noapte te-nsoţeşte.
+Stai dar acum, o,
+Stai pe braţul Său!             Amin
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5

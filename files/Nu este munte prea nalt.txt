@@ -1,0 +1,28 @@
+[s1]
+Nu este munte prea înalt
+Ca El să nu-l mişte,
+Nu e durere prea grea
+Să n-o aline,
+Nu e furtună prea grea
+Să n-o liniştească,
+Nu e problemă prea grea
+Să n-o rezolve.
+
+[r1]
+/:El purtat-a pe umerii Săi
+Povara lumii,
+El poate lua chiar acum
+Povara ta:/
+
+[s2]
+Pune-ti nadejdea-n Isus
+In incercare
+Vino ‘naintea Celui
+Ce da rezolvare
+Stai neclintit in Isus
+Caci El te asculta
+Nu da ‘napoi ci mereu
+Mereu te lupta
+
+[order]
+s1,r1,s2,r1

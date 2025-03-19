@@ -1,0 +1,26 @@
+[s1]
+Tânăr plin de farmec şi viaţă
+Tânără a casei podoabă
+/: Te bucură în tinereţea ta
+Mergi pe calea ce-o vrea inima ta! :/
+
+[r1]
+/: Prietenul meu să-ţi aminteşti
+Isus doreşte inima ta
+Iluzie frântă-i viaţa ta
+Fără Isus, fără Isus. :/
+
+[s2]
+De vrei ca să fii fericit
+În Isus te-ncrede-n orice clipă
+/: Numai în Isus găseşti bucurii
+Şi planurile toate-ţi izbutesc. :/
+
+[s3]
+Inima ta o tânăr plin de jar
+O locuinţă e în orice clipă
+/: Deci strajă pune inimii tale
+Fiindcă este-un leu ce răcneşte. :/
+
+[order]
+s1,r1,s2,r1,s3,r1

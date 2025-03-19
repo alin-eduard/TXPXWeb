@@ -1,0 +1,41 @@
+[s1]
+1974
+1. Stăruiţi până la capăt
+În iubire şi-n credinţă
+Au comoara mântuirii
+Doar cei tari în stăruinţă
+Stăruiţi stăruiţi
+Pân’ la capăt stăruiţi.
+
+[s2]
+2. Stăruiţi în orice vreme
+Focu-acesta să vă ardă
+Cei ce stăruiesc în bine
+Harul vieţii n-o să-l piardă.
+
+[s3]
+3. Stăruiţi în alergare
+Cu voinţă mai fierbinte
+Gheaţa morţii nu se prinde
+De cei ce zoresc înainte.
+
+[s4]
+4. Stăruiţi în rugăciune
+Şi-n veghere şi-n lucrare
+Unde nu e stăruinţă
+Nu-i nici binecuvântare.
+
+[s5]
+5. Stăruiţi în lupta sfântă
+Căci nu-i greu nici bătălie
+Peste care să nu treacă
+Cei cu stăruinţă vie.
+
+[s6]
+6. Domnul vă îndeamnă astăzi
+Stăruiţi în stăruinţă
+Toate harurile vieţii
+Doar aşa sunt cu putinţă.
+
+[order]
+s1,s2,s3,s4,s5,s6

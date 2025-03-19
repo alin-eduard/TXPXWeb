@@ -1,0 +1,39 @@
+[s1]
+1167.
+1.     /: Eu ştiu :/ că am în cer o casă
+Pe care nimeni nu mi-o ia
+Chiar dacă nedreptatea lumii
+M-alungă din căsuţa mea :/
+2.      /: Eu ştiu :/ că am o tinereţe
+Ne mai sfârşită la Isus
+Chiar dacă-n lume bătrâneţe
+Puterile din trup s-au dus .
+
+[s2]
+3.     /: Eu ştiu :/ că Răscumpărătorul
+Şi Dumnezeul meu e viu
+Chiar nimicit să-mi fie trupul
+Şi chiar urât de toţi să fiu .
+4.      /: Eu ştiu :/ că o să cânt odată
+Cu toţi cei dragi îmbrăţişaţi
+Chiar dacă azi trăiesc în lacrimi
+De cei iubiţi îndepărtaţi.
+
+[s3]
+5.     /: Eu ştiu :/ că voi vedea pe Domnul
+Şi El va fi răsplata mea
+Chiar grea să-mi fie viaţa-n lume
+Şi-mi va fi moartea cea mai grea.
+6.     /: Eu ştiu :/ că sunt a lui mireasă
+Şi el e mirele meu drag
+Chiar dacă lumea mă urăşte
+Şi pentru El voi fi pribeag.
+
+[s4]
+7.      /: Eu ştiu :/ că o să vină ziua
+Şi nunta cea din veşnicii
+Chiar dacă lumea vrea să spună
+Căci toate sunt si vis.
+
+[order]
+s1,s2,s3,s4

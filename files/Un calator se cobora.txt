@@ -1,0 +1,74 @@
+[s1]
+Un calator se cobora
+Spre Ierihon cu pas grabit
+Având cu el averea sa
+Cu oameni rai s-a intâlnit.
+
+[s2]
+Trecând padurea cu maslini
+L-au intâlnit niste straini
+Si l-au batut, l-au dezbracat
+/: Si-aproape mort ei l-au lasat. :/
+
+[s3]
+Trecând pe-acolo un Levit
+Pe-acelasi drum, intâmplator
+Spre cel lovit el a privit
+Indiferent, nepasator.
+
+[s4]
+Trecând la fel si un preot
+El a privit, si-atâta tot.
+Pe cel batut si dezbracat
+/: Sa moara-n drum el l-a lasat. :/
+
+[s5]
+Dar pe sub ramuri de maslin
+Pe-acelasi drum se cobora
+Un calator cu-al sau asin -
+El din Samaria era.
+
+[s6]
+Si când privi pe cel sarman
+Acel milos Samaritean
+El s-a oprit, l-a ridicat
+/: Si ranile i le-a legat. :/
+
+[s7]
+Si-atunci pe drumul cel pustiu
+Pâna la han, pân, la hangiu
+Pe spate la asin l-a pus
+Si-n casa pe cazut l-a dus.
+
+[s8]
+Ce pentru el a cheltuit
+Hangiului el a platit
+Samariteanul cel milos
+/: Era Isus, Isus Hristos. :/
+
+[s9]
+Povestea-aceasta e si-a ta -
+Si tu ai fost cazut asa.
+Si-atâti Leviti, atâti pastori
+Trecut-au ei nepasatori !
+
+[s10]
+Dar bunul tau Samaritean
+El te-a adus din nou la han
+Si ranile ti le-a legat
+/: Si de pacate te-a iertat. :/
+
+[s11]
+Trecând padurea de stejari
+Tu, frate, fii atent mereu !
+Ca valea-i plina de tâlhari
+Ce urmaresc sufletul tau.
+
+[s12]
+In jos sa nu cobori nicicind
+Chiar daca urci spre cer plângând
+Tu mergi cu crucea pâna sus
+/: Asa cum mers-a si Isus. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12

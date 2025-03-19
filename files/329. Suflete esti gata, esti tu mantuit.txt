@@ -1,0 +1,45 @@
+[s1]
+1. Suflete eşti gata,
+Eşti tu mântuit?
+Căci Isus din slavă
+Vine negreşit
+329. 								Sol
+
+[s2]
+/:Ţi-ai făcut o cercetare?
+Ca să-ţi vezi propria stare
+Cu care la Isus ai venit
+Ai tu haina ta curată
+Fără nici un pic de pată
+Haina ta cum ţi-ai păzit?:/
+
+[s3]
+2. Zilele sunt scurte,
+Nu te mai gândi
+A ta tinereţe
+Nu ţi-o risipi.
+
+[s4]
+/:De ce tot priveşti în lume
+Care e ocean în spume
+Şi e veşnic tulburat?
+Pentru scurt timp ai plăcere
+Iar la urmă ai durere
+Iată ce ai câştigat!:/
+
+[s5]
+3. În această lume
+Tu nu poţi găsi
+Pacea, fericirea
+Cea din veşnicii.
+
+[s6]
+/:Dacă rea îţi va fi fapta
+Isus vine cu răsplata
+Aspru vei fi judecat
+Deci mai bine lasă lumea
+Şi vei câştiga cununa
+În Ierusalimul nou.:/
+
+[order]
+s1,s2,s3,s4,s5,s6

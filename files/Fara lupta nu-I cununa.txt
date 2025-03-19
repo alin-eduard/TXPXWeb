@@ -1,0 +1,50 @@
+[s1]
+Fara lupta nu-i cununa,
+Fara fapte nu-i arvuna,
+Fara dragoste nu-i har,
+Le zidesti, dar in zadar.
+
+[s2]
+Caci credinta cere fapte,
+Iar dragostea cere roade,
+Bunatatea milostire,
+Bucuria-nduiosire.
+
+[s3]
+Dragostea cere iubire,
+Pacea cere linistire,
+Si rabdarea, blandete,
+Credinciosia pe fete.
+
+[s4]
+Infranarea nu sta-n pofte
+Ce e-n inimi e-n purtare
+Daca ai intelepciune,
+Vei vedea nu toate-s bune.
+
+[s5]
+Daca spui ca nu te mustra
+Constiinta ta vreodata,
+Poate e chiar ingropata
+De pacate e patata.
+
+[s6]
+Roaga-te chiar cu credinta
+Sa-ti dea Domnul biruinta
+Cunoscand ce-i bun si rau
+Implinind cuvantul Sau.
+
+[s7]
+Biruinta-i prin credinta
+Dragoste recunostinta,
+Pocainta e un har
+Nu traiesti tu in zadar.
+
+[s8]
+Daca toate aceste roade
+Se gasesc in pomul tau,
+Pururi tu o vesnicie
+Vei fi doar cu Dumnezeu.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

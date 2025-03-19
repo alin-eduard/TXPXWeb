@@ -1,0 +1,26 @@
+[s1]
+Scumpe Isus ţine-mă
+Lângă a Ta cruce,
+Căci acolo-i izvorul
+Ce salvare-aduce.
+
+[r1]
+Lauda mea fie
+In crucea lui Isus
+Până ce voi ajunge
+La odihna de sus
+
+[s2]
+Aproape de crucea Ta
+Iubirea m-a aflat,
+Si steaua dimineţii
+De sus m-a luminat
+
+[s3]
+Lângă cruce-oi priveghea
+Aşteptând ne-ncetat,
+Până ce la odihna
+De sus voi fi mutat
+
+[order]
+s1,r1,s2,r1,s3,r1

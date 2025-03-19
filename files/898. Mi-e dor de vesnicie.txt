@@ -1,0 +1,49 @@
+[s1]
+898.
+1.  Mi-e dor de veşnicie
+Ca rănii de balsam
+Şi-n inima-mi pustie
+Vreau pacea Ta s-o am
+
+[s2]
+Cor:	Tânjesc de dor, mi-e sete de izvor
+De aceea vreau să plec,
+Că toate trec în zbor;
+Departe-n zări pe-a veşnicei mări
+Cu barca vieţii vreau să mă predau.
+
+[s3]
+2.  Aşa-i din veci Calvarul
+Un drum de suferinţi
+Acolo unde-i harul
+E pace, ca-ntre sfinţi
+Cor:	Tânjesc de dor, mi-e sete de izvor
+De aceea vreau să plec,
+Că toate trec în zbor;
+Departe-n zări pe-a veşnicei mări
+Cu barca vieţii vreau să mă predau.
+
+[s4]
+3.  N-am patrie sub soare,
+N-am linişte sub nori;
+Te cheamă a mea simţire
+Cu sufletu-mi fiori
+Cor:	Tânjesc de dor, mi-e sete de izvor
+De aceea vreau să plec,
+Că toate trec în zbor;
+Departe-n zări pe-a veşnicei mări
+Cu barca vieţii vreau să mă predau.
+
+[s5]
+4.  Căci totuşi am o ţară,
+Un plai strălucitor
+Şi doru-mi creşte iară
+Spre ea, spre ea să zbor.
+Cor:	Tânjesc de dor, mi-e sete de izvor
+De aceea vreau să plec,
+Că toate trec în zbor;
+Departe-n zări pe-a veşnicei mări
+Cu barca vieţii vreau să mă predau.
+
+[order]
+s1,s2,s3,s4,s5

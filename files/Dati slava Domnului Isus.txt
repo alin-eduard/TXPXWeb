@@ -1,0 +1,20 @@
+[s1]
+Dati slavă Domnului Isus
+Si Lui vă închinati
+/: Voi cei de-aici si îngeri sus
+Lui imnuri înăltati :/
+
+[s2]
+Iar voi, martiri, de sub altar
+Cu toţi vă închinaţi
+/: Odrasla Lui s-ai lăudaţi
+Si îl încununaţi :/
+
+[s3]
+Voi, cei aleşi de Dumnezeu
+Toţi cei răscumpăraţi
+/: Lăudaţi-L pe Emanuel
+Si Il încununaţi :/
+
+[order]
+s1,s2,s3

@@ -1,0 +1,44 @@
+[s1]
+Noi n-avem aur pamantesc,
+Nici mosteniri ce se-nvechesc,
+Dar mai bogati pe lume nu-s:
+/: Comoara noastra e Isus :/
+/: E Isus :/ Comoara noastra e Isus :/
+
+[s2]
+Noi n-avem scuturi, nici sageti
+Sa apere-ale noastre vietii,
+Dar nu-I alt mers mai curajos:
+/: Nadejdea noastra e Hristos :/
+/:E Hristos:/  Nadejdea noastra e Hristos:/
+
+[s3]
+Noi n-avem sabii de razboi
+Si nici puteri lumesti cu noi,
+Dar nu-I tarie pe sus
+/: Puterea noastra e Isus :/
+/: E Isus, :/ Puterea noastra e Isus :/
+
+[s4]
+Noi n-avem nume laudat,
+Nici scaun-nalt, nici loc bogat,
+Dar nu-I alt chip mai luminos:
+/: Marirea noastra e Hristos :/
+/:E Hristos:/ Marirea noastra e Hristos:/
+
+[s5]
+Noi n-avem tinte sau dorinti
+Ce pun pe altii-n suferinti,
+Dar nu-I un Adevar mai sus:
+/: Solia noastra e Isus! :/
+/: E Isus, :/ Solia noastra e Isus ! :/
+
+[s6]
+Si pentru tot ce-am fi lucrat
+Mai bun si vrednic de urmat,
+Noi n-asteptam nici un folos:
+/: Rasplata noastra e Hristos! :/
+/:E Hristos,:/ Rasplata noastra e Hristos!:/
+
+[order]
+s1,s2,s3,s4,s5,s6

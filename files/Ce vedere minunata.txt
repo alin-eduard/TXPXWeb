@@ -1,0 +1,26 @@
+[s1]
+Ce vedere minunată
+Lângă Betleem se arată
+/: Cerul strălucea, îngerul venea
+Pe-o rază curată :/
+
+[s2]
+Păstorilor din câmpie
+Le vesteşte o bucurie
+/: Că-ntr-un mic sălaş din acel oraş
+S-a născut Mesia :/
+
+[s3]
+Păstorii cum auziră
+Spre locaşul sfânt porniră
+/: Unde au aflat Pruncul luminat
+Şi îl preamăriră :/
+
+[s4]
+E Isus Păstorul mare,
+Turmă ca El nimeni n-are
+/: Noi îl lăudăm si ne închinăm
+Cu credinţă mare :/
+
+[order]
+s1,s2,s3,s4

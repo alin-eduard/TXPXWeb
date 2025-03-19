@@ -1,0 +1,36 @@
+[s1]
+Ce-ai să-I spui de tine?
+Ce-aştepţi de la El?
+Va putea să-ţi dea atunci
+Alte noi porunci, sau nu?
+Va putea să-ţi spună
+C-al tău drum e bun?
+Ce-ai s-auzi de viaţa ta?
+Ce drum va urma?
+Ce-ai lăsat în urmă?
+
+[s2]
+/: Lasă drumul lumii-ntunecos
+Isus ţi-arătă-altul luminos!
+De ce refuzi din nou singurul ajutor?
+Ce vei avea la urmă? :/
+
+[s3]
+Ce-ai să-I spui cînd vine?
+Ce-ţi va putea da?
+Va mai fi cu tine-atunci
+Oare mîna Sa, sau nu?
+Cum ai să-ţi ţii fruntea
+Cînd va apărea?
+Vei roşi, sau vei zîmbi inaintea Sa?
+Ce-ai lăsat în urmă?
+
+[s4]
+Ce-ai să-I dai de-ţi cere
+Din al Său talant?
+Ce-ai făcut din ce ţi-a dat
+O ruină sau palat?
+Ce-ai lăsat în urmă?
+
+[order]
+s1,s2,s3,s4

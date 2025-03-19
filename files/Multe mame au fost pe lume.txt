@@ -1,0 +1,32 @@
+[s1]
+Multe mame au fost pe lume
+Multe mame sunt şi acum
+Însă mama cea mai scumpă
+E Isus Domnul cel bun.
+
+[r1]
+E Isus şi mama mea
+El ne dă mântuirea
+Şi o dă oricărui vrea
+Fără plată să o ia. :/
+
+[s2]
+Sigur, calea mântuirii
+E cu spini şi cu dureri
+Însă la sfârşit ea duce
+În eterne mângâieri.
+
+[s3]
+Nu uita creştine dragă
+De-a ta mamă, tu, nicicând
+Te gândeşte tot la ea
+Poart-o-n inimă şi-n gând.
+
+[s4]
+Căci Isus mântuitorul
+Este mama tuturor
+Care l-a primit ca medic,
+Ca mamă şi salvator.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

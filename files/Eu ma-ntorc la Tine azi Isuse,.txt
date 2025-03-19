@@ -1,0 +1,26 @@
+[s1]
+Eu mă-ntorc la Tine azi Isuse,
+Numai Tu îmi poţi da liniştea!
+Las de-acum plăcerile din lume,
+Eu mă-ntorc acum.
+
+[r1]
+Eu mă-ntorc, Isus, chiar acum,
+Vreau să merg cu Tine pe-al Tău drum,
+Eu accept chemarea Ta, o, Doamne,
+Deci mă-ntorc acum.
+
+[s2]
+Mulţi ani am trăit străin de Tine,
+Astăzi vin smerit la tronul Tău!
+Tu Ţi-ai dat viaţa pentru mine,
+Eu mă-ntorc acum.
+
+[s3]
+Mult rău mi-a făcut păcatu-n viaţă,
+De necazuri fost-am apăsat;
+Ca să pot privi slăvita-Ţi faţă
+Eu mă-ntorc acum.
+
+[order]
+s1,r1,s2,r1,s3,r1

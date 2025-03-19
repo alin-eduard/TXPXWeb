@@ -1,0 +1,74 @@
+[s1]
+1.	Mai înainte de înălţare
+Domnul Sfânt a cuvântat
+Bisericii lui alese
+Mireasa între Mirese.
+Rămâi tu biserică iubită
+Până când din cer Ţi-oi trimite
+Duhul Sfânt cu cele daruri sfinte
+Lumea să le poată cunoaşte.
+484.
+
+[s2]
+2.	Dacă ai ţinut Sfânta Carte
+Făr-adăuga sau scoate
+Voia sfânta tu vei face
+Şi Eu vă voi trimite.
+Cel mai preţios, o, dar din ceruri
+Duhul Sfânt ceresc mângâietor
+Duhul Sfânt cu acele semne sfinte
+Date daruri celor ce le vor.
+
+[s3]
+3.	În altă limbă vorbire
+Vedenii şi proorocii
+Dar de scoateri de demonii
+Tot felul de vindecări.
+Căci acestea sunt semnele sfinte
+Semne date de Duhul cel Sfânt
+Să cunoască biserica sfântă
+Dintre toate care-s pe pământ.
+
+[s4]
+4.	Biserici se află multe
+Una de alta-s despărţite
+C-aşa-i scris în Sfânta Carte
+De Biserici cum se-mpart.
+Dar Mireasa cea neprihănită
+Porumbiţa ascunsă-n crăpături
+Căci ea de Domnul e prea iubită
+E iubita fără de măsuri.
+
+[s5]
+5.	Din şaizeci de Împărătese
+Ea cea mai frumoasă este
+Din optzeci de ţiitoare
+Ea e cea mai de valoare.
+Din cele nenumărate fete
+Ea-i Mireasa pentru cel iubit
+E cea mai cumplită dintre fete
+Că e plină de Duhul cel Sfânt.
+
+[s6]
+6.	Ştim cu toţii că-s în lume
+Biserici cu multe nume
+După cum în Sfânta Carte
+Are fiecare parte
+Da dar una e neprihănită
+Una e Mireasa cerului
+Ea de Domnul e împodobită
+Cu Sfânta putere a cerului.
+
+[s7]
+7.	Cei ce ţin întreaga carte
+Cu o viaţă sfântă toate
+Făr-adăuga sau scoate
+Fără a lua numai parte.
+Ascultă biserică iubită
+Ce-a scris Domnul
+În sfintele Scripturi
+Să primeşti puterea preţioasă
+Ca răsplată fără de măsuri.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

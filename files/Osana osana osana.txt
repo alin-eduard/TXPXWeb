@@ -1,0 +1,26 @@
+[s1]
+Osana, osana, osana,
+Cântă îngerii în cor
+Preamărind pe Creator,
+Osana, osana, osana!
+
+[s2]
+Osana, osana,
+Mântuiţii cântã Lui
+Cântă harul Domnului,
+Osana, Osana, Osana!
+
+[s3]
+Osana, osana!
+Chiar cei răi se vor pleca
+Preamărind dreptatea Sa!
+Osana, osana, osana!
+
+[s4]
+Osana, osana!
+Cântă ceruri şi pământ
+Pentru slava Celui Sfânt!
+Osana, osana, osana!
+
+[order]
+s1,s2,s3,s4

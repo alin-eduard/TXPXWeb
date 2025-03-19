@@ -1,0 +1,39 @@
+[s1]
+Cum stăm noi aşa nepăsători
+Faţa de-o mântuire aşa de mare?
+Să lucrăm, pân' la ai zilei zori,
+Ca puterea Celui Rău să nu doboare!
+
+[s2]
+/: Doamne, pe altar ca jertfă
+Îmi aduc viaţa
+Şi vreau, Isuse, să mi-o primeşti!
+Fă-n ea să clocotească
+Dorinţa după locaşul care
+Mi-l pregăteşti!
+Sfinte Tată, fă ca în mine,
+Să se vadă chipul Tău! :/
+
+[s3]
+Nori negri se trag peste zenit,
+Aţipirea fecioarelor zoreşte;
+De păcate curăţiţi să fim
+Căci noi nu ştim ziua când soseşte.
+
+[r1]
+/: Doamne, pe altar ca jertfă
+Îmi aduc viaţa
+Şi vreau, Isuse, să mi-o primeşti!
+Fă-n ea să clocotească
+Dorinţa după locaşul care
+Mi-l pregăteşti!
+Sfinte Tată, fă ca în mine, Să se vadă chipul Tău! :/
+
+[s4]
+Se va trage o rază pe întins
+Şi va fi un semnal de deşteptare;
+Înspre ceruri, se va ridica
+O Mireasa, un rod plin de splendoare.
+
+[order]
+s1,s2,s3,r1,s4,r1

@@ -1,0 +1,31 @@
+[s1]
+Pacatosule, alearga!
+De Isus tu esti chemat;
+Ca sa vii la El, te-asteapta.
+Te iubeste ne'ncetat...
+
+[r1]
+Tu esti lânced dupa pace,
+N-ai iertare, ratacesti neincetat!
+Vin' la El sa fii iertat!
+
+[s2]
+Orice pofte si pacate
+Adu-le la crucea Lui!
+Si-ti va rasari, in suflet,
+Stralucirea Domnului.
+
+[s3]
+Multi, in ranile, lui Isus
+Vindecarea si-au gasit;
+Pe-orice om Isus voieste
+Sa il faca fericit.
+
+[s4]
+Si acum, ce-astepti, amice,
+Stand mereu nepasator?
+Scoala, vino azi la Isus!
+El e-al tau Mantuitor!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

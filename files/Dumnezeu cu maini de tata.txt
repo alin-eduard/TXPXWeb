@@ -1,0 +1,19 @@
+[s1]
+Dumnezeu cu mâini de tată
+Ne conduce zi de zi
+Iar în clipele mai grele
+Ştim că El ne va păzi
+
+[r1]
+Ce voioasă şi frumoasă
+Este viaţa de creştin
+Orice zi din viaţă-i luminoasă Fii slăvit, o, har divin
+
+[s2]
+Isus Hristos ne iubeşte
+Sus pe cruce s-a jertfit
+Viaţa El ne-o curăţeşte
+Fie Domnul preamărit
+
+[order]
+s1,r1,s2,r1

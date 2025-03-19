@@ -1,0 +1,28 @@
+[s1]
+1. O, ce valuri de-ndurare
+Curg din jertfa lui Isus
+O, ce jertfă minunată
+Este jertfa lui Isus
+1120
+
+[r1]
+COR:
+Curăţit în al Lui sânge
+Şi crezând în jertfa Lui
+Mă apropii fără teamă
+De preasfântul Dumnezeu
+
+[s2]
+2. Pretutindeni să se-ntindă
+Al iubirii val de sus
+Toată lumea să audă
+Despre jertfa lui Isus
+
+[s3]
+3. Orice suflet care zace
+În osândă şi-n păcat
+Să se-ntoarcă azi la Tatăl
+Şi să fie mântuit
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,30 @@
+[s1]
+Dumnezeul puternic
+ce-I cu tine pe culme,
+Zi de zi te-ntareste si nu vei cadea
+E cu tine si-n vale,
+Iti alunga durerea,
+Cel ce a creat ziua
+E Dumnezeu si noaptea.
+
+[r1]
+Mana Lui cea tare
+Ce te-a tinut sus pe munte,
+Tot ea te va tine
+Si-n vaile adanci.
+Dumnezeul ce-ti pune
+Bucurie-n suflet,
+Tot El iti va sterge
+Lacrima atunci cand plangi.
+
+[s2]
+Vorbim de credinta
+cand suntem sus pe munte,
+Pare usor cand necazuri nu-avem
+Insa vin clipe grele
+Cu incercari si ispite,
+Atunci Domnul vede
+Cat te-n crezi tu in El.
+
+[order]
+s1,r1,s2,r1

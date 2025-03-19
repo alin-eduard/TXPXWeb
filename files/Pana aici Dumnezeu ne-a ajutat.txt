@@ -1,0 +1,78 @@
+[s1]
+Pân-aici Dumnezeu ne-a ajutat
+Ne-a cinstit cu-atâta bine
+şi ne-a apărat
+Şi-a întins cu îndurare
+mâna sfântă peste noi
+Si ne-a-nconjurat pe dinainte
+si pe dinapoi.
+
+[s2]
+Ai simit si tu in viata ta iubirea Lui
+Poti si tu sa canti
+Osana Domnului?
+Poti sa spui cu mine astazi:
+“Cu adevarat, pan-aici
+Dumnezeu ne-a ajutat!”
+
+[s3]
+Pan-aici Dumnezeu ne-a ajuat
+Fie-I numele slavit,
+fie-I numele-onorat
+/:Daca ti-a facut mult bine,
+‘nalta glasul tau spre cer
+Si sa strigi din toata inima:
+“Eben-Ezer”:/
+
+[s4]
+Pan-aici Dumnezeu ne-a ajutat
+Si-a tinut promisiunea cu adevarat
+El ramane credincios,
+Cuvantul Lui se va-mplini
+Ce-a spus El in veci ramane,
+lumea-ntreaga de-ar pieri.
+
+[s5]
+Ai simit si tu in viata ta iubirea Lui
+Poti si tu sa canti Osana Domnului?
+Poti sa spui cu mine astazi:
+“Cu adevarat, pan-aici
+Dumnezeu ne-a ajutat!”
+
+[s6]
+Pan-aici Dumnezeu ne-a ajutat
+Fie-I numele slavit,
+fie-I numele-onorat
+/:Daca ti-a facut mult bine,
+‘nalta glasul tau spre cer
+Si sa strigi din toata inima:
+“Eben-Ezer”:/
+
+[s7]
+Pan-aici Dumnezeu ne-a ajutat,
+De te-ncrezi in El
+puternic vei fi aparat
+Si te vei adaposti
+la umbra aripilor Lui
+Caci in veac tine credinciosia,
+mila Domnului
+
+[s8]
+Pune-ti azi nadejdea-n
+harul ce va fi adus
+Si-atinteste-a ta privire la Isus
+Biruind in El vei spune:
+“Cu adevarat, pan-aici
+Dumnezeu ne-a ajutat!”
+
+[s9]
+Pan-aici Dumnezeu ne-a ajutat
+Fie-I numele slavit,
+fie-I numele-onorat
+/:Haideti toti intr-o suflare,
+sa-naltam glasul spre cer
+Sa strigam din toata inima:
+“Eben-Ezer”:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

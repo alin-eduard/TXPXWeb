@@ -1,0 +1,20 @@
+[s1]
+Stânca vremii,
+Tu eşti drept şi-adevărat
+Doar Tu poţi să faci tot ce ai spus.
+Stânca vremii,
+Tu eşti drept şi-adevărat,
+Mă încred în Tine tot mereu.
+
+[s2]
+Tu eşti scut în vreme de necaz,
+Un refugiu în furtună,
+Fortăreaţă-n timpul luptei,
+Turn în vreme de război.
+Mângăietorul în durere,
+Vindecător în timpul bolii,
+Sprijinitor în slăbiciune,
+Ajutor în nevoi.
+
+[order]
+s1,s2

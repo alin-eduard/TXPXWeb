@@ -1,0 +1,43 @@
+[s1]
+1. Acel ce pururi are grijă
+De orişicine în necaz
+Îţi numără şi ţie paşii
+Şi lacrimile pe obraz.
+%Să nu-ţi pierzi la necaz credinţa
+Şi nici nădejdea când ţi-e greu
+Nici dragostea când eşti la bine
+Că-n ele pierzi pe Dumnezeu  %
+560.     Re
+
+[s2]
+2. El ştie cât să-ţi lase lupta
+De greutăţi şi de-ndoieli
+La timp îţi va trimite harul
+Ca sufletul să nu ţi-l pierzi.
+%     Să nu-ţi pierzi la necaz credinţa
+Şi nici nădejdea când ţi-e greu
+Nici dragostea când eşti la bine
+Că-n ele pierzi pe Dumnezeu. %
+
+[s3]
+3. El ştie când e de mustrare
+Nevoie spre-a te îndrepta
+El ştie-n flacăra-ncercării
+Cât poţi să stai şi când s-o ia.
+%Să nu-ţi pierzi la necaz credinţa
+Şi nici nădejdea când ţi-e greu
+Nici dragostea când eşti la bine
+Că-n ele pierzi pe Dumnezeu. %
+
+[s4]
+4. Să-I mulţumeşti de tot ce Domnul
+Îţi dă în viaţă de-orice fel
+Pe El Îl ai când ai credinţă
+Nădejde şi credință-n El.
+% Să nu-ţi pierzi la necaz credinţa
+Şi nici nădejdea când ţi-e greu
+Nici dragostea când eşti la bine
+Că-n ele pierzi pe Dumnezeu. %
+
+[order]
+s1,s2,s3,s4

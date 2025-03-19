@@ -1,0 +1,53 @@
+[s1]
+1912             Re m
+1. Am ieșit din lume
+Dar lumea e în noi
+Iubim mai mult păcatul
+Atât de mult gunoi
+Păcatu-i tot mai mare
+Mai mult îl prețuim
+Căci lumea e în noi
+Cu toți în ea pierim
+
+[r1]
+Cor: Să iasă lumea din noi acum
+Dați laoparte tot ce nui bun
+Să aruncăm gunoaiele
+Să nu ardem ca paiele
+Ieșiți din lume fiți pocăiți
+Și cu păcatul să nu  glumiți
+Căci vine o zi când vom pleca
+Și Domnul ne va judeca
+
+[s2]
+2. Am ieșit din lume
+Dar tot privim înapoi
+Că-n inima ta frate
+Se dă mare război
+Când luptă Duhul Sfânt
+Cu tot ce e firesc
+Dar tu dai înapoi
+La lume iar privești
+
+[s3]
+3. Am ieșit din lume
+Dar tot la ea privim
+Stăm liniștiți acasă
+Scriptura n-o citim
+Stăm la televizoare
+Cu ochii pironiți
+Ore în șir dea rândul
+Dar suntem pocăiți.
+
+[s4]
+4. Dac-ai ieșit din lume
+Fii frate credincios
+Așa cum la-nceput
+Pe cale tu ai fost
+Nu-l vinde pe Isus
+Pe lucruri de nimic
+Rămâi frate credincios
+Să poți fi mântuit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

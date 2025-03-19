@@ -1,0 +1,74 @@
+[s1]
+Sus pe dealul capatanii
+Tintuit pe-al crucii lemn
+Se stinge-n dureri lumina lumii
+Isus soarele etern.
+
+[s2]
+Dealu-i jale, plange bolta
+Plange soarele pe cer
+E-ntuneric pe Golgota
+Toate plang pe blandul Miel.
+
+[s3]
+Fiindca omul un taciune
+Isi sacrifica stapanul
+Ingrozit tot cerul tace
+Privind lancia si spinul
+
+[s4]
+Dumnezeu si-a intors fata
+Cand vazu pe Fiul Sau
+In dureri cum isi da viata
+Chinuit de-atata rau
+
+[s5]
+Dupa ce il gazduira
+Intr-un grajd in Betleem
+Intr-un gand toti se unira
+Sa-l omoare sus pe lemn
+
+[s6]
+In pustiul ars de soare
+Langa marginea cetatii
+Cu cuvinte-njositoare
+Il batjocoreau drumeti.
+
+[s7]
+Tu faptura omeneasca
+Care-ai fost creat din lut
+Ai respins slava cereasca
+Ascultand de Belzebut
+
+[s8]
+Ai respins pe Creiatorul
+Atarnadu-l sus pe lemn
+El a toate ziditorul
+A-ndurat al tau blestem
+
+[s9]
+Fiul omului, durerii
+Unic print in slavi divine
+Ai platit pretul iertarii
+Dandu-ti viata pentru mine
+
+[s10]
+Te-ai lasat stapuns in cuie
+Pentru noi ca ne-ai iubit
+Sangele ti-a curs suvoaie
+Ceru-ntreg te-a parasit
+
+[s11]
+Puteai sa-Ti iei zborul grabnic
+Lasand gloatele puhoi
+Dar te-a pironit iubirea
+Te-a tinut legat de noi
+
+[s12]
+Meriti lauda-nchinarea
+Mielule ceresc divin
+Ne-ai adus in dar iertarea
+Fii slavit in veci amin.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12

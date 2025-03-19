@@ -1,0 +1,80 @@
+[s1]
+Azi din cerul Tău Isuse
+Eu te rog azi să vii la noi
+Ca să cercetezi copiii
+Să stai de vorbă cu ei
+Vino, vino Doamne azi la noi
+Că e de lipsă ca să vii
+Să vii Doamne să ne mângâi.
+1.
+Cor.
+1074.Mi m
+
+[s2]
+Că vei găsi Isuse Doamne
+Poporul Tău îndurerat
+Cu slăbiciuni şi lacrimi grele
+Şi de păcate împovărat.
+2.
+Vino, vino Doamne azi la noi
+Că e de lipsă ca să vii
+Să vii Doamne să ne mângâi.
+Cor.
+
+[s3]
+Că vei găsi Isuse dragă
+Mulţi orfani făr’ de părinţi
+Şi-ar vrea şi ei să aibă tată
+Să fie mângâiaţi şi-aici.
+3.
+Vino, vino Doamne azi la noi
+Că e de lipsă ca să vii
+Să vii Doamne să ne mângâi.
+Cor.
+
+[s4]
+Că vei găsi Isuse dragă
+Mulţi bolnavi făr’ de ajutor
+Şi-n patul lor de suferinţă
+Vărsând lacrimi cu mult dor.
+4.
+Vino, vino Doamne azi la noi
+Că e de lipsă ca să vii
+Să vii Doamne să ne mângâi.
+Cor.
+
+[s5]
+Că vei găsi Isuse dragă
+Copiii Tăi făr’ de-ajutor
+Şi-ar vrea şi ei a Ta iubire
+Şi-ar vrea şi ei al Tău ajutor.
+5.
+Vino, vino Doamne azi la noi
+Că e de lipsă ca să vii
+Să vii Doamne să ne mângâi.
+Cor.
+
+[s6]
+Iar pentru cei ce astăzi sunt
+Închişi pentru-al Tău cuvânt
+Dă-le Doamne o graţiere
+Că numai-n Tine e putere
+6.
+Vino, vino Doamne azi la noi
+Că e de lipsă ca să vii
+Să vii Doamne să ne mângâi.
+Cor.
+
+[s7]
+Şi-acum la încheiere îţi spun
+Lasă Doamne Duhul Sfânt
+Ca călăuză pe pământ
+De-aici şi până-n cerul sfânt.
+7.
+Vino, vino Doamne azi la noi
+Că e de lipsă ca să vii
+Să vii Doamne să ne mângâi.
+Cor.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

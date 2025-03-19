@@ -1,0 +1,21 @@
+[s1]
+În suferinţi sunt bucurii
+Pe care tu nici nu le ştii
+Decât prin ele tu când treci
+Le ştii folosul lor în veci
+La M
+
+[r1]
+Cu Dumnezeu tu de vei fi
+Orice furtuni vei birui
+/:El îţi trimite ajutor
+Scăpându-te şi din cuptor:/
+
+[s2]
+Deci niciodat-să nu disperi
+Un Tată bun ai tu în cer
+Să fii al Său copil curat
+Şi de necaz vei fi scăpat
+
+[order]
+s1,r1,s2,r1

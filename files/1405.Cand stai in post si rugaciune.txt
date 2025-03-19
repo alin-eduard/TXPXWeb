@@ -1,0 +1,43 @@
+[s1]
+1405.                  Fa
+1.  Când stai în post şi în rugăciune
+Domnul are milă de tine
+Dacă ai greşit în trecut
+Întoarce-te la Domnul Sfânt.
+Cor:  Când doctorii te dau acasă
+Şi nu mai au ce să-ţi mai facă
+Tu vino la Isus căci El te cheamă
+La poarta cea frumoasă.
+
+[s2]
+Şi apoi te aşteaptă ca să-i spui
+Durerea toată numai Lui
+Căci El vindecă fără bani
+Şi este Tată la orfani.
+Cor:  Când doctorii te dau acasă
+Şi nu mai au ce să-ţi mai facă
+Tu vino la Isus căci El te cheamă
+La poarta cea frumoasă.
+
+[s3]
+Nici odată n-a refuzat
+Cine a crezut s-a vindecat
+Acum Doamne te rog şi eu
+Mai treci şi pe la patul meu.
+Cor:  Când doctorii te dau acasă
+Şi nu mai au ce să-ţi mai facă
+Tu vino la Isus căci El te cheamă
+La poarta cea frumoasă.
+
+[s4]
+4.  Îţi mulţumesc o Domnul meu
+Căci ai trecut prin cortul meu
+Acum vin ca să Te slăvesc
+Slavă Ţie Fiu ceresc.
+Cor:  Când doctorii te dau acasă
+Şi nu mai au ce să-ţi mai facă
+Tu vino la Isus căci El te cheamă
+La poarta cea frumoasă.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,19 @@
+[s1]
+2151
+1.	Stăruință-n rugăciune e tărie și lumină
+/: E o umplere divină de cerească-nțelepciune! :/.
+
+[s2]
+2.	Rugăciunea cu credință 	E o ploaie pentru roadă,
+/: E cuvântul viu ca spadă Pentru sfânta biruință! :/.
+
+[s3]
+3. Rugăciunea cu-nchinare Este focul care-aprinde,
+/: Și puterea ce desprinde Viața de ispite-amare! :/.
+
+[s4]
+4. Rugăciunea cea fierbinte Crește-n suflet mulțumirea
+/: Toarnă-n inimă iubirea Pentru veșnicul Părinte!:/.
+
+[order]
+s1,s2,s3,s4

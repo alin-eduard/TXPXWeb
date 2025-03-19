@@ -1,0 +1,32 @@
+[s1]
+Sa nu ridici piatra, sa nu ma lovesti
+Chiar daca am gresit sau pacatuit
+Sa nu ridici piatra sa nu te grabesti
+Caci si tu esti om caci si tu gresesti
+/:Sa nu fii judecator
+Sa nu fii acuzator
+Mai degraba indurator
+Sau ca Domnul iertator:/
+
+[s2]
+Fii plin de iubire frate nu uita
+Cum fosta si Domnul sus la Golgota
+Cine nu-l iubeste si nu-i aproapele Sau
+Nu poate s-ajunga sus cu Dumnezeu
+/: Daca Domnul te-a iertat
+De cumplitul tau pacat
+Fa si tu acum la fel
+Si vei fi in cer cu El :/
+
+[s3]
+Sa n-apuna frate soarele nicicand
+Peste ura ta sau marirea ta
+Sa nu ridici piatra sa fii bun si bland
+Cum este si Domnul sfant de trei ori sfant
+/: Caci asa El ne-a invatat
+Daca ierti vei fi iertat
+Si prin Sine chiar ti-a dat
+Alt model de urmat :/
+
+[order]
+s1,s2,s3

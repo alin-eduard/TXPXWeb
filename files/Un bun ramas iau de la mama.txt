@@ -1,0 +1,34 @@
+[s1]
+Un bun rămas iau de la mamă
+Să-i mulţumesc căci m-a iertat
+de-atîtea ori
+Să îi promit că n-am să uit acele sfaturi
+Ce mi le da cînd mă aflam
+pe lîngă ea adeseori.
+
+[r1]
+/: Îţi cer iertare, mamă
+Poate că de adese ori te-am supărat.
+Nu mai ţinea în seamă
+A mele greşuri ce te-au întristat
+Şi uită-le, te rog. :/
+
+[s2]
+Eu voi pleca din casa-n
+care am crescut
+Dar n-oi uita locul unde-am copilărit
+Voi regreta doar anii tinereţii
+ce-au trecut
+Şi voi păstra doar amintiri frumoase care le-am trăit.
+
+[s3]
+Cu gînd senin aş vrea
+să le spun celor dragi
+Cu care fost-am împreună
+pînă acum
+Un bun rămas şi-un cald adio pentru toţi
+Şi-o rugăminte mamei
+care m-a crescut.
+
+[order]
+s1,r1,s2,r1,s3,r1

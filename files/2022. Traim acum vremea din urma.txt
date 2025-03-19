@@ -1,0 +1,45 @@
+[s1]
+2022
+1. Trăim acum vremea din urmă
+Așa ne spune Duhul Sfânt
+De veți deschide în Scriptură
+Ne-a spus Isus acest cuvânt.
+
+[r1]
+Cor: /: Fraților să ne trezim
+Să ne pocăim
+Dimineața va veni
+Zorii s-or ivi
+O ce mare sărbătoare
+Atuncea va fi :/
+
+[s2]
+2. Priviți dar mersul omenirii
+Cum merg cu toții-nspre păcat
+Spre urâciunea pustiirii
+Pe-acest pământ ce-i blestemat.
+
+[s3]
+3. Noi așteptăm să vină ziua
+Când Domnul va veni pe nori
+Încă puțin mai stai de veghe
+Pân` s-or ivi ai zilei zori
+
+[r2]
+Cor: /: Fraților cu toți vegheați
+Nu vă întinați
+Cu vreun luciu de aici jos
+Că nu-i de folos
+Totul este trecător
+Pe acest pământ
+Cum spune Eclesiastul
+Goană după vânt :/
+
+[s4]
+4. Ca o poruncă la-ncheiere
+Aș vrea să-ți las fratele meu
+Să nu-ți pierzi premiul alergării
+C-atunci va fi de tine greu
+
+[order]
+s1,r1,s2,r1,s3,r2,s4,r2

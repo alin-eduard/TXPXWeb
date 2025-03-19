@@ -1,0 +1,21 @@
+[s1]
+Do M
+Cum doreşte un cerb izvor de apă
+Așa eu Te doresc
+Tu eşti singura mea dorinţă
+Să Te laud eu doresc
+
+[r1]
+Tu eşti scut şi tăria mea
+Şi Ţie-ţi dau toată inima
+Tu eşti singura mea dorinţă
+Să Te laud eu doresc
+
+[s2]
+Sufletul meu Te caută zi şi noapte
+Eşti Dumnezeul viu
+Tu eşti singura mea iubire
+Doar al Tău eu vreau să fiu.
+
+[order]
+s1,r1,s2,r1

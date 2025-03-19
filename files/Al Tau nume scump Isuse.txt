@@ -1,0 +1,38 @@
+[s1]
+Al Tău nume scump, Isuse
+E-ntre toate cel mai sfânt,
+Ţie toate-ţi sunt supuse
+Sus în cer şi pe pământ...
+
+[s2]
+Nume ce vesteşti iubire
+Darul tău reverşi mereu,
+Lumii ‘ntregi îi dai de ştire
+Dragostea lui Dumnezeu.
+
+[s3]
+Dragoste desăvârşită
+De la Tatăl e-ai adus,
+O cunună pregătită
+Pentru cel ce-Ţi e supus...
+
+[s4]
+Înălţat prin suferinţă
+Pe pierduţi i-ai mântuit,
+O, câtă recunoştinţă
+Pentru numele-ţi mărit.
+
+[s5]
+Pentru cei în suferinţă
+Plânsa-i şi Te-ai umilit,
+Pentru cei fără credinţă
+Trupul sfânt a fost jertfit...
+
+[s6]
+Şi pe faţa Ta curată
+Sânge, lacrimi, s-au unit,
+Pe cel rău ca să-l abată
+De la drumul cel greşit.
+
+[order]
+s1,s2,s3,s4,s5,s6

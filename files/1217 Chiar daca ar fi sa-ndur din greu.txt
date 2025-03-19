@@ -1,0 +1,33 @@
+[s1]
+1217
+Chiar dacă ar fi să-ndur din greu
+Dureri şi lacrimi şi suspine
+Ajută-mi Dumnezeul meu
+Să nu pot să mă las de Tine
+Chiar dacă ar fi să fiu răpit
+Şi-n noapte dus de mâini haine
+Oricât închis şi chinuit
+Să nu pot să mă las de Tine
+1.
+2.
+
+[s2]
+Chiar dacă ar fi să ştiu că mor
+Departe dus în zări străine
+Tânjind de-al casei mele dor
+Să nu pot să mă las de Tine .
+Chiar dacă ar fi să fiu ucis
+De cei cu mâini de sânge pline
+Pân’ la sfârşit să spun deschis
+Că nu pot să mă las de Tine
+3.
+4.
+
+[s3]
+Dar pentru toate acestea Isus
+Tot ce doresc eu de la Tine
+E ca să văd atunci Isus
+Că nu Te laşi nici Tu de mine.
+
+[order]
+s1,s2,s3

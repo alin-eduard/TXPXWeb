@@ -1,0 +1,39 @@
+[s1]
+1.   Când viaţa ta-i senină
+Şi cerul înseninat
+Adesea frate dragă
+Poate c-ai uitat
+Să-i mulţumeşti lui Isus
+Priveşte-n jurul tău
+Te-a binecuvântat
+Şi te-a ferit de rău.
+1002.Mi
+
+[r1]
+Cor:	Căci zilele se duc ca vremea
+Care se schimbă tot mereu
+Dar Unul singur nu se schimbă
+Şi acesta este Dumnezeu.
+
+[s2]
+2.     Noi ne schimbăm adesea
+Când ne e puţin greu
+Dar izbăvit e acela
+Ce stă în Dumnezeu
+Chiar şi atunci când crucea
+Apasă zi de zi
+O zi sortită este
+Când Domnul va veni.
+
+[s3]
+3.	Sfârşit la toate fi-va
+Statornic să rămâi
+Din toate ce-or rămâne
+E dragostea dintâi
+Deci nu lăsa ca vremea
+Să schimbe viaţa ta
+Ci stai bazat pe Domnul
+Că El te va salva.
+
+[order]
+s1,r1,s2,r1,s3,r1

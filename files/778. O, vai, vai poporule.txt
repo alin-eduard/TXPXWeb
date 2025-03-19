@@ -1,0 +1,68 @@
+[s1]
+1. O, vai, vai, poporule
+Multe ai făcut omule
+/: Eu de toate te-am iertat
+Şi prin sânge te-am spălat
+O, vezi suflete
+Cum nu te gândeşti :/
+778.
+
+[s2]
+2. Te-am sfinţit şi te-am spălat
+Duhul Sfânt Eu ţi l-am dat
+Duhul Sfânt oftează greu
+Când păcătuieşti mereu
+O, vezi suflete
+Cum nu te gândeşti.
+
+[s3]
+3. De la casa lui Pilat
+Este-un drum îndelungat
+Mergea Isus cu crucea-n spate
+Şi cu lacrime vărsate
+O, vezi suflete cum am suferit.
+
+[s4]
+4. Când mergeam înspre Calvar
+Crucea era grea amar
+N-o fi greu lemnul acesta
+Ci-o fi greu păcatul vostru
+O, vezi suflete cum am suferit.
+
+[s5]
+5. Sus pe cruce la Calvar
+Uite-aşa între tâlhari
+Pe Mine M-a pironit
+Pe Mine M-a răstignit
+O, vezi suflete cum am suferit.
+
+[s6]
+6. De haine M-au dezbrăcat
+Între ei la sorţ au tras
+Cunună Mi-au pus pe cap
+Cu oţet M-au adăpat
+O, vezi suflete cum am suferit.
+
+[s7]
+7. Cu trestia Mă loveau
+Cu suliţa Mă-mpungeau
+Eu la ei blând Mă uitam
+Către Tatăl Mă rugam
+Tată iartă-le că nu ştiu ce fac.
+
+[s8]
+8. Călătorii cum treceau
+Către Mine aşa ziceau
+Dacă nu eşti păcătos
+Dă-Te de pe cruce jos
+Mântuieşte-Te dacă eşti Hristos.
+
+[s9]
+9. Grea povară am purtat
+Pentru-al lumii greu păcat
+Lumea tot nu se gândeşte
+Tot mai tare Mă huleşte
+O, vezi suflete cum am suferit.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

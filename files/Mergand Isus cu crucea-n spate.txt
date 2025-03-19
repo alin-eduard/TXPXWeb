@@ -1,0 +1,32 @@
+[s1]
+Mergând Isus cu crucea-n spate,
+Pe Golgota sus,
+Femeile îndurerate
+După El, au plâns.
+
+[r1]
+Isus a zis: „Nu mă plângeţi
+Pe Mine! Eu vă spun curat:
+Dacă cu pomul verde fac așa,
+Ce-o fi cu cel uscat?"
+
+[s2]
+Cădea mereu, sub greul crucii
+Care-L apăsa,
+Dar nici unul dintre mulţime
+Nu L-a ajutat...
+
+[s3]
+Iar când, la Golgota, ajuns-a,
+Pe-o cruce L-au întins;
+Cu piroane L-au ţintuit,
+Cu suliţa L-au împuns...
+
+[s4]
+Batjocorit şi plin de milă,
+Isus Se ruga
+Tată iartă-i de-a lor vină
+Căci ei nu ştiu ce fac.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,38 @@
+[s1]
+Agăţat de sfânta cruce
+Desnădejdei căutam leac,
+Ca-n păcat să nu m-apuce Rob,
+duşmanul cel din veac!
+Nu puteam şti, cum se face,
+Că-ndoiala tot venea:
+Ruga nu-mi aducea pace,
+Ci zadarnică părea.
+
+[r1]
+Ai răbdare! Nu-n zadar e,
+Când la cruce cazi zdrobit:
+Domnu-aude si-ţi răspunde,
+Dându-ţi pacea negreşit!
+
+[s2]
+N-am rămas mult lângă cruce
+Chinuit de îndoieli
+Prin credinţă îţi aduce
+Isus multe mângâieri.
+Numai cânt eu cu tristeţe,
+Când de cruce azi m-agăţ:
+Crucea poate să mă-nveţe,
+Ca-n Isus să mă răsfăţ!
+
+[s3]
+Sub povară fără tihnă,
+Când fricos mă îndoiam
+Eu grăbit, cătam odihnă,
+Pacea nu o cunoşteam.
+Dar azi ştiu ce fel se face,
+Că-ndoiala-i ia pe-ăi drepţi:
+Domnu-oricând ţi-aduce pace,
+De-ai răbdare să-L aştepţi!
+
+[order]
+s1,r1,s2,r1,s3,r1

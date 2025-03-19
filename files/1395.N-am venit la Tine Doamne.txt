@@ -1,0 +1,73 @@
+[s1]
+1395
+1.  N-am venit la Tine Doamne
+După aur şi argint
+Ci-am venit să-mi plâng trecutul
+Chiar cu lacrime fierbinţi.
+Cor: Oare ce-ai văzut la mine
+Căci sunt slab şi păcătos
+Ai plecat din înălţime
+Ca să vii la Mine jos.
+
+[s2]
+N-am venit să-mi dai veşminte
+Cum se află pe pământ
+Am venit să-mi dai Isuse
+Ungerea cu Duhul Sfânt.
+Cor: Oare ce-ai văzut la mine
+Căci sunt slab şi păcătos
+Ai plecat din înălţime
+Ca să vii la Mine jos.
+
+[s3]
+N-am venit să-mi dai putere
+Să mă laud cu ce-mi dai
+Fă-mă mic o Doamne astăzi
+Ca să pot ajunge-n rai.
+Cor: Oare ce-ai văzut la mine
+Căci sunt slab şi păcătos
+Ai plecat din înălţime
+Ca să vii la Mine jos.
+
+[s4]
+N-am venit să-mi dai izbândă
+Numai mie, eu doresc
+Fă dovada cea mai sfântă
+Că pe toţi  Tu ne iubeşti.
+Cor: Oare ce-ai văzut la mine
+Căci sunt slab şi păcătos
+Ai plecat din înălţime
+Ca să vii la Mine jos.
+
+[s5]
+N-am venit să-mi dai doar mie
+Altora să nu le spun
+Spune-mi doar unde-i cărarea
+Sus la Tine să-i îndrum.
+Cor: Oare ce-ai văzut la mine
+Căci sunt slab şi păcătos
+Ai plecat din înălţime
+Ca să vii la Mine jos.
+
+[s6]
+N-am venit la poarta strâmtă
+Mie doar să mi-o deschizi
+Vreau atât ca mâna sfântă
+Şi spre alţii s-o întinzi.
+Cor: Oare ce-ai văzut la mine
+Căci sunt slab şi păcătos
+Ai plecat din înălţime
+Ca să vii la Mine jos.
+
+[s7]
+7.  Înainte de-a fi lumea
+Mai întâi Tu mi l-ai scris
+Numele în cartea vieţii
+Spre a mă duce-n Paradis.
+Cor: Oare ce-ai văzut la mine
+Căci sunt slab şi păcătos
+Ai plecat din înălţime
+Ca să vii la Mine jos.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

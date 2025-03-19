@@ -1,0 +1,53 @@
+[s1]
+1101.                                                         Mi m
+1./: Domnul meu, de câte ori eu pot să iert?:/
+/:Doresc pe toţi să-i iert şi cu Tine să trăiesc
+Domnul meu, de câte ori eu pot să iert?:/
+
+[r1]
+/:Şaptezeci de ori câte şapte:/
+/:Şaptezeci de ori câte şapte-a spus Isus.
+Doresc pe toţi să-i iert,
+Și cu Tine să trăiesc
+Domnul meu de câte ori eu pot să iert?:/
+
+[s2]
+2./:Domnul meu, cât pot eu ca să iubesc?:/
+/:Pe toţi vreau să-i iubesc
+Și cu Tine să  trăiesc
+Domnul meu, cât pot eu ca să iubesc?:/
+
+[s3]
+3. Zi de zi să mă sfinţesc eu pe pământ
+Pe vrăşmaşi şi pe-ai mei fraţi să nu-i urăsc!
+/:Pe toţi vreau să-i iubesc
+Și cu Tine să trăiesc
+Domnul meu, cât pot eu ca să iubesc:/
+
+[s4]
+4.  /:Domnul nostru vreau să fim toţi mântuiţi:/
+/:Prin Tine să trăim
+Chiar de viaţa ne-o jertfim
+Domnul nostru vrem să fim toţi mântuiţi:/
+
+[s5]
+5. /:În a Ta împărăţie
+Vrem să fim:/
+/:Prin Tine să trăim
+Chiar de viaţa ne-o jertfim
+Domnul nostru vrem să fim toţi mântuiţi:/
+
+[s6]
+6./: Domnul meu, de câte ori eu pot să iert?:/
+/:Doresc pe toţi să-i iert şi cu Tine să trăiesc
+Domnul meu, de câte ori eu pot să iert?:/
+
+[s7]
+/:Şaptezeci de ori câte şapte:/
+/:Şaptezeci de ori câte şapte-a spus Isus.
+Doresc pe toţi să-i iert,
+Și cu Tine să trăiesc
+Domnul meu, de câte ori eu pot să iert?:/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,s7

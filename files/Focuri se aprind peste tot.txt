@@ -1,0 +1,28 @@
+[s1]
+Focuri se aprind peste tot
+Stele astazi ard si nu pot
+Sa mai stea undeva ascunse
+Ele ard pentru Tine Isuse
+Focul ce Tu l-ai prins
+In inimi nu mai poate fi stins
+Te-asteptam ca sa vii sa ne-atingi,
+O Isuse
+
+[r1]
+Revarsa acum din Duhul Tau
+Revarsa acum din iubirea Ta
+Revarsa ungerea Ta
+In casa Ta peste noi
+
+[s2]
+Noi toti Te asteptam sa revii
+Nu vrem sa ne-oprim zi de zi
+Ne uitam doar in sus la Tine
+Luminam calea Celui ce vine
+Dar stim intr-o zi vom zbura
+Dar stim intr-o zi noi vom sta
+Langa inima Ta, acasa la Tine
+Copii Tai Te cheama
+
+[order]
+s1,r1,s2,r1

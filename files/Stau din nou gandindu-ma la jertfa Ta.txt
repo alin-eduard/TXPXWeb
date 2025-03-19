@@ -1,0 +1,29 @@
+[s1]
+Stau din nou gandindu-ma
+la jertfa Ta
+Sangele-ţi curs, trupul strapuns
+În locul meu pedeapsa mortii ai luat
+Ce dar nemeritat,
+Doamne Tu m-ai salvat
+
+[r1]
+/: Privesc catre crucea unde ai suferit
+Smerit de-ndurarea ce mi-ai oferit
+Multumesc Isuse,
+viata noua mi-ai daruit. :/
+
+[s2]
+Acum esti inaltat in slava
+In fata Ta toti se vor pleca
+Pana atunci uimit
+fiind de harul Tau
+Inima-mi va canta
+Pe veci dragostea Ta
+
+[s3]
+Doamne iti multumesc
+pentru Golgota
+Viata iti daruiesc e a Ta.
+
+[order]
+s1,r1,s2,r1,s3,r1

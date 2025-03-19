@@ -1,0 +1,33 @@
+[s1]
+1929
+1. Grăbiți-vă că noaptea vine
+Și soarele va apune-nor
+Vegheați atunci ca să cunoașteți
+Voi brațul Blândului Păstor
+
+[r1]
+Cor: Zarea va fi înnegurată
+Vor bate vânturi fel de fel
+Fiți treji ca să aveți curată
+Mereu legătura cu El
+
+[s2]
+2. Veni-vor mulți ca să vă spună
+Veniți hristosul e aici
+Voi nu vă duceți ci rămâneți
+În locul unde v-am sădit
+
+[s3]
+3. Vegheați mereu în curăție
+În jurul meu să luminați
+Căci izbăvirea voastră vine
+Când Domnul sus va aștepta.
+
+[s4]
+4. Căci Cel ce va chemat la luptă
+Nu va lăsa nimeni răpus
+De astăzi inimile voastre
+Să fie îndreptate-n sus
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

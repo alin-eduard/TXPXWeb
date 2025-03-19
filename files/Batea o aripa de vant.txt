@@ -1,0 +1,44 @@
+[s1]
+Bătea o aripă de vânt
+Zăcea în recele mormânt Mântuitorul meu
+Ardeau pe boltă stele vii
+Plângea tot cerul în făclii durerea lor
+S-a stins lumina din vecii
+Izvorul apei cele vii azi nu mai curge
+E tristă floarea din câmpii
+Grădinile sunt azi pustii în zorii zilei
+
+[r1]
+Azi a-nviat Mantuitorul
+Canta marea, canta cerul
+Dintre morti S-a ridicat
+Rasuna-n departari cantarea
+Salta inima si zarea
+Isus Hristos a inviat.
+
+[s2]
+Mergea Maria la mormant
+Sa-l caute pe Cel Preasfant,
+pe-nvatatorul ei
+Dar piatra grea cine-o va da
+Sa poata iarasi a-L vedea ea se-ntreba
+De sus din ceruri Dumnezeu
+Trimise jos din cerul Sau:
+O, nu mai plange
+Mario-nvatatorul tau
+A inviat prin harul Sau si-n veci traieste.
+
+[s3]
+Prietene ce-alergi mereu
+Cautandu-L azi pe Dumnezeu
+nu mai privi-n mormant
+Mormantul Domnului e gol
+El nu mai este in Seol: a invita demult
+Primeste-L azi pe Fiul Sau
+Preda-ti viata-n bratul Sau,
+e Salvatorul tau
+El viata vesnica in dar
+Iertare, pace si mult har iti va aduce.
+
+[order]
+s1,r1,s2,r1,s3,r1

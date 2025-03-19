@@ -1,0 +1,33 @@
+[s1]
+1. O, biserică iubită
+În curând vei fi răpită
+/: Haina să-ţi păstrezi curată
+Sfântă albă fără pată :/.
+674.
+
+[r1]
+Cor: /: Ridicaţi-vă privirea
+În curând va fi răpirea
+Duhul strigă: "Maranata"
+O, biserică fii gata :/
+
+[s2]
+2. Să vegheaţi în timpul nopţii
+Întăriţi-vă cu toţii
+/: Plini de Duhul Sfânt într-una
+Luptă să primeşti cununa :/.
+
+[s3]
+3. Stăruiţi în rugăciune
+În credinţă fapte bune
+/: Şi în pace şi-n sfinţire
+Să ai parte de răpire :/.
+
+[s4]
+4. O, biserică iubită
+Să fii gata pregătită
+/: Fii lumină fără pată
+În curând vei fi chemată.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

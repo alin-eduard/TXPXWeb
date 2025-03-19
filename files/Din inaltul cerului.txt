@@ -1,0 +1,28 @@
+[s1]
+Din inaltul cerului, Isus te-ai coborat
+Ai venit la noi caci ne-ai iubit
+Intr-o iesle te-ai nascut, la Betleem
+Viata vesnica noi sa avem
+
+[r1]
+Slava ţie sus în cerul sfânt
+Pace fie jos pe pamant
+Cor de ingeri canta
+Te lauda mereu
+Tu esti singur fiu de Dumnezeu
+
+[s2]
+Magii cei din rasarit, daruri au adus
+Pruncului cel drag si scump Isus
+Jos cu fata la pamant,
+ei s-au inchinat
+Celui ce e vesnic imparat
+
+[s3]
+Sus la dreapta tatalui, astazi locuiesti
+Pentru omenire mijlocesti
+Sus in glorie cu tine, vrem sa fim
+Pentru vesnicii noi sa traim
+
+[order]
+s1,r1,s2,r1,s3,r1

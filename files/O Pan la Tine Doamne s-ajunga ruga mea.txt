@@ -1,0 +1,42 @@
+[s1]
+O! Pân’ la Tine Doamne
+s-ajungă ruga mea,
+Să-mi dai înţelepciune
+căci Tu ai spus aşa;
+/: S-ajungă a mele cereri
+la Tine-acolo sus,
+S-aduci Tu izbăvirea
+căci Tu aşa ai spus. :/
+
+[s2]
+A mele buze Doamne
+vestească slava Ta,
+C-atunci am bucuria
+sfântă de-a pururea;
+/: Să spună a mea limbă
+Cuvântul Tău cel sfânt,
+C-a Tale legi Stăpâne-n
+veci neclintite sunt. :/
+
+[s3]
+Să-mi fie a Ta mână
+un ajutor deplin,
+Că veşnic vreau Isus
+porunca Ta s-o ţin;
+/: Suspin după-ajutorul
+şi mântuirea Ta,
+Şi legea Ta-i plăcerea
+şi desfătarea mea. :/
+
+[s4]
+Slăvească-Te-al meu suflet,
+să-Ţi cânte pe-al Tău plac,
+Şi sfânta-Ţi judecată
+să mă susţie-n veac;
+/: Să nu mă pierd Isuse
+O! scapă-mă de rău,
+Că nu Îţi uit porunca
+respect Cuvântul Tău. :/
+
+[order]
+s1,s2,s3,s4

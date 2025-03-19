@@ -1,0 +1,44 @@
+[s1]
+Eram copil, trecea zăpada.
+Eu cu tristeţe-o petreceam.
+Mi se părea că iarna trece,
+Mi se părea, dar eu treceam.
+
+[s2]
+Când am crescut treceau cocorii.
+Mă-ndureram până-i vedeam.
+Mi se părea că vara trece,
+Mi se părea, dar eu treceam.
+
+[s3]
+Stăteam gândit pe malul apei,
+Cu unda eu la pas mergeam.
+Mi se părea că apa trece,
+Mi se părea, dar eu treceam.
+
+[s4]
+Priveam ades cum zboară norii
+Şi frunzele căzând cu drag.
+Mi se părea că ele zboară,
+Mi se părea, dar eu zburam.
+
+[s5]
+Stam ascultând cum bate ceasul,
+De graba lui, umblând grăbeam.
+Mi se părea că timpul trece,
+Mi se părea, dar eu treceam.
+
+[s6]
+Mi s-a părut, cândva, că alţii,
+Crezând se-nşeală, şi plângeam.
+Mi se părea că sunt pierduţi cu toţi.
+Mi se părea, dar eu eram.
+
+[s7]
+Azi recunosc cu-amar, Isuse,
+Îmi plâng trecutul meu târziu.
+Cât am pierdut în nepăsare...
+Cât am pierdut... oare-i târziu?
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

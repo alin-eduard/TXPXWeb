@@ -1,0 +1,50 @@
+[s1]
+Dacă-aş fi stăpân pe lumea-ntreagă
+Şi pe Domnul dacă n-aş avea
+Toate lucrurile-s pieritoare
+Fericirea n-aş putea afla.
+
+[s2]
+/: Pot avea orice, dar fără Domnul
+Pagubă e tot câştigul meu
+Nu-s aici plăceri să poată-ntrece
+Fericirea lângă Dumnezeu. :/
+
+[s3]
+Pot avea un nume plin de faimă
+Bogăţii ca nimeni pe Pământ
+Dacă n-am nădejdea altor ţărmuri
+Toate sunt atunci ca pleava-n vânt.
+
+[s4]
+/: Ce câştig ar fi să-L pierd pe Domnul
+Ce-a dus crucea grea în locul meu?
+Poate oare da Pământul pacea
+Ce-o găsesc doar lângă Dumnezeu? :/
+
+[s5]
+Câtă bucurie-i lângă Domnul
+Ce duios balsam vindecător
+El păcatul şterge fără urmă
+Şi durere-alină răbdător.
+
+[s6]
+/: Dacă-L am pe Isus, doar pe Isus
+Pot răbda să fiu dispreţuit
+El e slava mea, Mântuitorul
+Sunt cu El bogat şi fericit :/
+
+[s7]
+Ce tristete fara Salvatorul
+Prin atatea grele incercari
+Si ce-ntunecime-n vesnicie
+Plansete si amare remuscari
+
+[s8]
+/: Si de ce sa stau fara salvare?
+Cand salvarea El mi-o da in dar
+Fara El e atata intuneric
+Vesnicia-ntreaga e-un cosmar! :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

@@ -1,0 +1,26 @@
+[s1]
+Ştii tu cine este Isus
+Ştii de unde veni El
+Ştii al cui Fiu este El
+Ştii că Tatăl lui e Dumnezeu.
+
+[r1]
+Iubeşte-L, o iubeşte-L
+Căci pentru tine El mult s-a jertfit.
+Cere-i, şi-ţi va da viaţă în dar.
+Iubeşte-l să fii mântuit.
+
+[s2]
+Ştii tu cine este Isus,
+Cin’ de moarte te-a scăpat.
+Cine ţi-a dat Har şi ţie,
+Ca să fi al Lui răscumpărat.
+
+[s3]
+Ştii că îngerii din slavă,
+Sunt umiţi de jertfa Sa.
+Privind la crucea Golgotei,
+Vezi cum curge la toţi Harul Lui.
+
+[order]
+s1,r1,s2,r1,s3,r1

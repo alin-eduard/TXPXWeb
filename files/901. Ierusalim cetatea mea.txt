@@ -1,0 +1,35 @@
+[s1]
+901                                                                  Mi m
+1.Ierusalim cetatea mea
+Tot sufletu-mi suspină
+Când oare, când te voi vedea?
+Când oare-n tine voi intra?
+Să cânt cu drag iubirea Sa
+Pe marea cristalină.
+
+[s2]
+2.  Ierusalim sfânt, dar nestins
+Ce dulce va fi-n tine
+Când lungul zbucium va fi învins
+Când ţelul-ntreg va fi atins
+Iar plânsul şters uitat şi stins
+Şi zările senine.
+
+[s3]
+3.  O, Rai, cu ziduri de topaz
+Iubirea mea te cheamă
+Cu rugăciuni în orice ceas
+Cu râu de lacrimi pe obraz
+Cu dorul ce mă ţine treaz
+Spunându-ţi: Ia-mă, ia-mă.
+
+[s4]
+Dar până atunci, Ierusalim
+Trimite-ne din tine
+Arvuna harului sublim
+Pe care-l cerem şi-l dorim
+Biruitori să moştenim
+Comorile-ţi divine.
+
+[order]
+s1,s2,s3,s4

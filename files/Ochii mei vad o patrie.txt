@@ -1,0 +1,32 @@
+[s1]
+Ochii mei văd o patrie
+Tocmai ca prin vedenie,
+Şi-aud de-ai ei strălucire
+Că e plină de mărire.
+Ţară sfântă şi curată
+Mărirea ta nu se gată!
+Ne vom vedea la tine sus
+Când ne-a răpi Domnul Isus.
+
+[s2]
+Acolo zbucium nu va fi
+Ci odihnă şi bucurii,
+Isus Hristos va lumina
+Pe cei ce-acolo vor intra.
+Ţară sfântă şi curată
+Mărirea ta nu se gată!
+Ne vom vedea la tine sus
+Când ne-a răpi Domnul Isus.
+
+[s3]
+O, Doamne Isus iubit
+Cel ce ai fost batjocorit,
+Fă-mi un loc în cer şi mie
+Să fiu cu Tine-n vecie.
+Ţară sfântă şi curată
+Mărirea ta nu se gată!
+Ne vom vedea la tine sus
+Când ne-a răpi Domnul Isus.
+
+[order]
+s1,s2,s3

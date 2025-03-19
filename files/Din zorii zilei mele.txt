@@ -1,0 +1,62 @@
+[s1]
+Din zorii zilei mele,
+În lanul Tău m-am dus
+Culegător de spice,
+Aşa cum Tu ai spus.
+
+[s2]
+Cântau secerătorii;
+Eu îi urmam tăcut,
+Sfios şi singuratic
+Şi lăcrimând ca Rut.
+
+[s3]
+Prin tot zăduful zilei,
+Sub soarele arzând,
+Cu fruntea aplecată,
+Am ostenit lucrând.
+
+[s4]
+Dorind, când vine seara,
+Să-Ţi pot aduce-n prag,
+Cu dragoste smerită,
+Toţi snopii strânşi cu drag.
+
+[s5]
+Stăpâne, iată seara
+Se-ntinde peste văi,
+Când se întorc acasă
+Toţi lucrătorii Tăi.
+
+[s6]
+Pe urma tuturora,
+Mă-ntorc şi eu tăcut,
+Sfios şi singuratic
+Şi lăcrimând ca Rut.
+
+[s7]
+Mă ruşinez de rodul
+Puţin ce am găsit,
+Dar Tu-mi cunoşti arşiţa
+Prin care am slujit.
+
+[s8]
+O, iată, vine seara!
+Îţi cer un adăpost,
+Să dorm cu aceia care
+La munca Ta au fost...
+
+[s9]
+Întinde, peste mine,
+Veşmântul Tău plăcut,
+La sfintele-Ţi picioare,
+Să dorm şi eu, ca Rut,
+
+[s10]
+Iar mâine dimineaţă,
+Să mă scol fericit
+Să-ntâmpin bucuria
+Care mi-ai pregătit
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

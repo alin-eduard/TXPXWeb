@@ -1,0 +1,26 @@
+[s1]
+Vine Domnul ! Maranata !
+Vine Domnul în curând
+Umple cortul întâlnirii
+cu fiori din Duhul Sfânt.
+
+[r1]
+Vine Domnul, Maranata !
+Vine Domnul în curând !
+Umple cortul întâlnirii
+Cu fiori din Duhul Sfânt.
+
+[s2]
+Au cârtit israeliţii,
+dar noi oare nu cârtim ?
+Vine Domnul, Maranata !
+Dar noi când ne pocăim ?
+
+[s3]
+Verifică-te, Sioane!
+Ridicaţi-vă, străjeri!
+Azi în cortul întâlnirii
+Dumnezeu ne dă puteri!
+
+[order]
+s1,r1,s2,r1,s3,r1

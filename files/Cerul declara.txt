@@ -1,0 +1,26 @@
+[s1]
+Cerul declară
+Gloria Celui Înviat
+Cine se compară
+Cu frumuseţea Domnului?
+
+[r1]
+În veci de veci eşti Tu
+Divinul Miel pe tron
+Genunchii îmi aplec
+Şi Ţie mă închin.
+
+[s2]
+Voi proclama
+Gloria Celui Înviat
+Ce-a fost junghiat
+Să ne-mpace cu Dumnezeu.
+
+[s3]
+El va fi în veci
+Mielul de pe tron
+Fericit mă-nchin
+Isus este Domn.
+
+[order]
+s1,r1,s2,r1,s3

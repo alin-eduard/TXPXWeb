@@ -1,0 +1,38 @@
+[s1]
+Cum crinii înfloresc în zori sub cer
+Şi doar o zi trăiesc /: Şi pier. :/
+Aşa de călător e omul muritor
+Ca norul trecător, mai trecător.
+
+[s2]
+Ca umbre străvezii, grăbit trecînd
+Se duc mereu cei vii /: Pe rînd. :/
+Aşa de călător e omul muritor
+Ca norul trecător, mai trecător.
+
+[s3]
+Ca ceaţa de prin văi ce piere-n vînt
+Se fac a noastre căi /: Mormînt. :/
+Aşa de călător e omul muritor
+Ca norul trecător, mai trecător.
+
+[s4]
+Ca fumu-mprăştiat ce piere-n sus
+E bietul om luat /: Şi dus. :/
+Aşa de călător e omul muritor
+Ca norul trecător, mai trecător.
+
+[s5]
+Ca şopotul firav ce piere slab
+Aşa pier cei iubiţi /: Degrab. :/
+Aşa de călător e omul muritor
+Ca norul trecător, mai trecător.
+
+[s6]
+Întoarce-te acum la Domnul sfînt !
+Căci viaţa-i vînt şi fum /:Şi fum şi vînt.:/
+Aşa de călător e omul muritor
+Ca norul trecător, mai trecător.
+
+[order]
+s1,s2,s3,s4,s5,s6

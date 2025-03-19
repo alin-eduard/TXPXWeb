@@ -1,0 +1,30 @@
+[s1]
+Avem atâtea bucurii
+De când pe Isus L-avem
+În inimă, în inimă
+Avem atâtea bucurii
+De când pe Isus L-avem
+Glorie lui Isus.
+
+[r1]
+/: Ce fericire să fii cu Isus
+Să ai în inimă iubirea Lui. :/
+
+[s2]
+Când eşti născut din nou
+Ca Nicodim cânţi din inimă
+Din inimă, din inimă
+Când eşti născut din nou
+Ca Nicodim cânţi din inimă
+Glorie lui Isus.
+
+[s3]
+Eu ştiu că lui satan
+Nu-i place, dar cânt din inimă
+Din inimă, din inimă
+Eu ştiu că lui satan
+Nu-i place, dar cânt din inimă
+Glorie lui Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1

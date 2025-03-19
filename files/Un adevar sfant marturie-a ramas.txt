@@ -1,0 +1,26 @@
+[s1]
+Un adevăr sfînt mărturie-a rămas
+Aici pe Pămînt - Golgota.
+Un adevăr sfînt din dragostea lui Hristos
+Ce adevăr sfînt şi glorios !
+
+[r1]
+/: Dragostea lui Isus ne conduce
+Viaţă-aduce a Sa cruce.
+Prin credinţa-n El sus ne vom duce
+Ne vom duce sus în cer. :/
+
+[s2]
+Un adevăr sfînt, o credinţă, un botez
+Un singur Păstor mîntuitor
+Ne duce spre cer, spre lumină-n veşnici.
+Ce adevăr sfînt şi glorios !
+
+[s3]
+Un adevăr sfînt a rămas pe-acest Pămînt
+Credinţa în Domnul Isus.
+Noi ştim că-ntr-o zi printre noi va reveni
+Şi-n slavă cu El ne va răpi.
+
+[order]
+s1,r1,s2,r1,s3,r1

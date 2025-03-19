@@ -1,0 +1,52 @@
+[s1]
+Am auzit o veste
+Că Isus veni din slavă
+Şi la Golgota în locul meu
+A fost crucificat;
+El mi­-a luat povara
+Şi mi-­a dat în dar iertarea,
+Prin jertfa Lui victoria
+De-­acum am câştigat!
+
+[r1]
+Victoria în Isus,
+Mi-a dat azi salvarea,
+Cu sfântul Său sânge
+El m­-a răscumpărat;
+Întreaga mea iubire
+Doar Lui i se cuvine,
+În El am victoria,
+Spălat sunt de păcat!
+
+[s2]
+Am auzit de Domnul,
+De puterea Lui cea mare,
+Cum pe cei bolnavi i­-a vindecat,
+Pe morţi i­-a înviat;
+Eu am strigat: O, Doamne,
+Te îndură şi de mine!
+Şi­-n viaţa mea victoria
+Isus a câştigat!
+
+[s3]
+Am auzit că Domnul
+Mi­-a zidit o casă­-n ceruri
+Şi­-n acel locaş de străluciri
+La masa Lui vom sta;
+Cu îngerii în coruri
+În mărire­-I vom da slavă
+Şi cântecul victoriei
+Atunci îl vom cânta!
+
+[s4]
+Victoria în Isus,
+Mi-a dat azi salvarea,
+Cu sfântul Său sânge
+El m+­a răscumpărat;
+Întreaga mea iubire
+Doar Lui i se cuvine,
+În El am victoria,
+Spălat sunt de păcat!
+
+[order]
+s1,r1,s2,r1,s3,s4

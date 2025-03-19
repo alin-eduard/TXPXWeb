@@ -1,0 +1,38 @@
+[r1]
+/:Trompetele rasuna, rasuna tot mai tare
+O, iata-L vine, vine curand pe nori apare
+Trompetele rasuna, rasuna tot mai tare
+Biserica vegheaza si fii in asteptare:/
+
+[s1]
+Trompetele rasuna-n larg
+curand vine mirele drag
+Trompetele rasuna-n larg
+biserica vine cel drag
+El va veni pe nori de slava
+sa-si ia in cer mireasa-I draga
+Ca sa o duca-n stralucire
+in eterna fericire
+
+[s2]
+Ea va uita de-acest pamant
+Cand va vedea pe Cel Preasfant
+Ea va uita ce-a suferit
+cand va vedea pe Cel Iubit
+Ceru-ntreg va rasuna
+cand pe porti ei vor intra
+Caci splendoarea Celui Sfant
+ii va uni pe toti in cant
+
+[s3]
+Osana slava si marire
+canta-ntreaga Lui ostire
+Pentru cei ce-au biruit
+si in cer toti au sosit
+Sarbatoarea va incepe,
+ceru-n slava va petrece,
+Suflete esti pregatit,
+vine Mirele iubit
+
+[order]
+r1,s1,r1,s2,r1,s3,r1

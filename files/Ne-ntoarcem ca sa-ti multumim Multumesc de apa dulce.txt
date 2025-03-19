@@ -1,0 +1,88 @@
+[s1]
+Ne-ntoarcem ca să-ţi mulţumim
+Părinte veşnic şi divin
+Căci Tu prin haru-ţi minunat
+Mereu ne-ai binecuvântat.
+Îţi mulţumim, Îţi mulţumim,
+Căci Tu ne dai, iar noi primim,
+Îţi mulţumim, Îţi mulţumim
+Acum şi-n veci de veci, Amin!
+
+[s2]
+Ne-ntoarcem ca să-ţi mulţumim
+Căci de la Tine noi primim
+Viaţă din izvor ceresc,
+Lumina-n ochii ce privesc.
+Îţi mulţumim, Îţi mulţumim,
+Căci Tu ne dai, iar noi primim,
+Îţi mulţumim, Îţi mulţumim
+Acum şi-n veci de veci, Amin!
+
+[s3]
+Ne-ntoarcem ca să-ţi mulţumim
+Cu mic şi mare, toţi venim
+Ca-n fiecare ceas sau zi
+Cu mâna Ta, ne vei păzi.
+Îţi mulţumim, Îţi mulţumim,
+Căci Tu ne dai, iar noi primim,
+Îţi mulţumim, Îţi mulţumim
+Acum şi-n veci de veci, Amin!
+
+[s4]
+Ne-ntoarcem ca să-ţi mulţumim
+Căci ne iubeşti şi Te iubim;
+Tu singur Doamne,ne poţi da
+Ce lumea-ntreagă n-ar putea …
+Îţi mulţumim, Îţi mulţumim,
+Căci Tu ne dai, iar noi primim,
+Îţi mulţumim, Îţi mulţumim
+Acum şi-n veci de veci, Amin!
+
+[s5]
+Ne-ntoarcem ca să-ţi mulţumim
+Căci de la Tine noi primim
+Viaţă veşnica în dar
+Şi bucurii fără hotar…
+Îţi mulţumim, Îţi mulţumim,
+Căci Tu ne dai, iar noi primim,
+Îţi mulţumim, Îţi mulţumim
+Acum şi-n veci de veci, Amin!
+
+[s6]
+Mulţumesc de apa dulce
+De izvor din care beau,
+Cer iertare pentru apa
+Tulburată făr’ să vreau.
+
+[r1]
+/: Doamne, ţine  minte numai
+Ce-am făcut pe placul Tău,
+Dar nu-ţi mai aduce-aminte
+De nimic din ce-a fost rău. :/
+
+[s7]
+Mulţumesc de pâinea care
+M-a hrănit flămând fiind,
+Cer iertare pentru pâinea
+Ce-am călcat-o neştiind.
+
+[s8]
+Mulţumesc de rugăciunea
+Plânsă către cer arzând,
+Cer iertare rugăciunii
+Închinată dormitând.
+
+[s9]
+Mulţumesc de ziua plină
+Folosită spre Hristos,
+Cer iertare pentru ziua
+Ce-am pierdut fără folos.
+
+[s10]
+Mulţumesc de tot ce-n viaţă
+Pentru Domnul am făcut,
+Cer iertare pentru câte
+Nu i-am dat şi-am tot cerut.
+
+[order]
+s1,s2,s3,s4,s5,s6,r1,s7,r1,s8,r1,s9,r1,s10,r1

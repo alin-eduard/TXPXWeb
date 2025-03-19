@@ -1,0 +1,31 @@
+[s1]
+Spre Tine Doamne lauda mi-o înalţ,
+Şi-n zilele senine
+şi-n cele de nori pline,
+În orice timp şi-n orice ceas.
+Căci Tu-mi eşti bucuria mea,
+Şi a Ta bunătate o văd acum în toate,
+În orice zi în viaţa mea.
+
+[r1]
+/: Te voi lăuda mereu,
+Al nostru Dumnezeu.
+Şi voi mări în gând,
+Al Tău nume cel sfânt.
+Te voi lăuda mereu,
+Al nostru Dumnezeu. :/
+1.Şi voi slăvi mereu numele Tău
+2.Voi lăuda mereu numele Tău.
+
+[s2]
+Voi lăuda numele sfânt,
+Prin El am biruinţă
+şi-ntreaga mea fiinţă,
+E inundată de iubirea Ta.
+Prin Tine Doamne voi trăi mereu,
+De-i încercarea mare
+la Tine am scăpare,
+Şi sunt mereu păzit de mâna Ta.
+
+[order]
+s1,r1,s2,r1

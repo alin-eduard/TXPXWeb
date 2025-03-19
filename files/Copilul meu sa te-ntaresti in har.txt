@@ -1,0 +1,35 @@
+[s1]
+Copilul meu sa te-ntaresti in har
+Cand vei apune-n nopti de incercare
+De se vor stinge candele cu-amar
+Sub lacrimi peste-al inimii hotar
+
+[s2]
+/: Le voi aprinde zambet de-ndurare.:/
+De se vor stinge candele cu-amar
+
+[s3]
+Copilul meu sa te prosterni in rugi
+Cand vor batea pe cale vanturi grele
+Spre tarmuri de uitari de o sa fugi
+Din valuri de-ndoieli de-o sa ma strigi
+
+[s4]
+/:Te voi ascunde-n stanca pacii mele.:/
+Spre tarmuri de uitari de o sa fugi.
+
+[s5]
+Copilul meu sa te inalti in cant
+De ochii tai vor plange-a rastignire
+Pe cruci de haruri scris e-al meu cuvant
+Chiar azi vei fi cu mine-n cerul sfant
+
+[s6]
+/: Te-ai invia in zori de nemurire. :/
+Pe cruci de haruri scris e-al meu cuvant
+Le voi aprinde zambet de-ndurare
+Te voi ascunde-n stanca pacii mele
+/: Pe cruci de haruri scris E-al meu cuvant.:/
+
+[order]
+s1,s2,s3,s4,s5,s6

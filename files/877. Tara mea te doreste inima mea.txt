@@ -1,0 +1,30 @@
+[s1]
+877.
+1. Ţara mea te doreşte inima mea
+Ne-ncetat de Tine lâncezeşte ea
+Cămin fericit, o, ce frumos vis
+Dorul meu zboară-n Paradis.
+2.  Prin meleagurile Babilonului
+Ca străinii treceau fii Sionului
+Cu jale mare plângând în suspin
+Depărtaţi de a lor cămin.
+
+[s2]
+3. Ierusalime dacă eu te voi uita
+Dreapta mea să-şi uite iscusinţa sa
+Ierusalime de tine mi-i dor
+Aş vrea spre tine să zbor,
+4. Măreţ cămin cu mare dor te-oi aştepta
+Ce frumos când în tine mă voi vedea
+Oraşul sfânt al celor fericiţi
+Căminul celor mântuiţi.
+
+[s3]
+5. Ţara mea cu nici un chip
+Nu te voi uita
+O, prin ale tale porţi când voi intra
+Mi-i dor de acasă s-ajung la Isus
+Spre El mă-ndrept cu dor nespus.
+
+[order]
+s1,s2,s3

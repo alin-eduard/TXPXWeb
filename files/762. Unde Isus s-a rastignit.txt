@@ -1,0 +1,33 @@
+[s1]
+1. Unde Isus s-a răstignit
+Domnul mi s-a descoperit
+Pe Golgota sânge a vărsat
+Mântuirea acolo am aflat.
+Cor: O, Golgota loc de jale
+Unde a vărsat Isus sânge
+Tu-mi eşti loc de bucurie
+De unde-mi curge fericire.
+762.
+
+[s2]
+Cor: O, Golgota loc de jale
+Unde a vărsat Isus sânge
+Tu-mi eşti loc de bucurie
+De unde-mi curge fericire.
+2. Soarele s-a întunecat
+Pământul s-a cutremurat
+Murind Isus El a deschis
+Calea spre cer, spre Paradis.
+
+[s3]
+Cor: O, Golgota loc de jale
+Unde a vărsat Isus sânge
+Tu-mi eşti loc de bucurie
+De unde-mi curge fericire.
+3. O, Isuse cum să-nţeleg
+Durerea Ta cum s-o pricep
+Inima mea, o, nu uita
+Ce s-a-ntâmplat pe Golgota.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,35 @@
+[s1]
+1812.
+1. Isuse, Tu când Te-ai sculat
+De la sfântă Cina Ta
+Cu un ştergar Tu Te-ai încins
+Şi ai început a spăla
+Picioarele la-ai Tăi iubiţi
+Vrând pildă să le arăţi
+
+[s2]
+2. Când Domnul aceasta a sfârşit
+O întrebare le-a pus
+„Înţelegeţi voi ce v-am făcut Eu
+Domnul vostru Isus
+Cum Eu pe voi toţi v-am spălat
+Faceţi şi voi ne-ncetat”
+
+[s3]
+3. Ai dat pilda umilinţei
+Şi de-atunci, Isus al meu
+Calea-ngustă a credinţei
+Duce sus, la Dumnezeu
+Să iubim deci pe-oricine frate
+Totdeauna cu fapte
+
+[s4]
+4. Umiliţi să fiţi întruna
+Precum Domnul noastru-a fost
+Şi vegheaţi întotdeauna
+El e-al vieţii noastre rost!
+Toţi ca El să ne purtăm
+Pilda Lui noi s-o urmăm.
+
+[order]
+s1,s2,s3,s4

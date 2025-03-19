@@ -1,0 +1,27 @@
+[s1]
+Hai să vezi ce bun e Domnul
+Plin de dragoste şi har
+Hai şi cântă-I Osanale
+Viaţa el ţi-a dat-o în dar.
+
+[r1]
+Aleluia să răsune
+Inima în veci va spune /:Slavă:/
+Îngerii cu toţi să-I cânte
+Regelui să i se-nchine /:Slavă:/
+Slavă Celui ce e sfânt.
+
+[s2]
+Vă-nchinaţi în adorare
+Munţi şi ape şi uscat
+Lăudaţi puterea-I mare
+Care toate le-a creat.
+
+[s3]
+Domnitori şi voi popoare
+Daţi-I cinste Regelui
+Va proşterneţi ceruri toate
+Înaintea Domnului.
+
+[order]
+s1,r1,s2,r1,s3,r1

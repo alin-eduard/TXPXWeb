@@ -1,0 +1,27 @@
+[s1]
+2018
+1. La scăldătoarea din Betezda
+Din cer se cobora un înger
+Cu vindecarea cea cerească
+Pentru bolnavi ca să primească
+
+[r1]
+Cor: /: Mare Ți-e Doamne îndurarea
+Pentru acei ce au o boală
+Căci pentru ei Tu ești salvarea
+Și mila Ta care e mare. :/
+
+[s2]
+2. Sunt mulți Doamne în suferință
+Și biserica se roagă
+Adă Tu Doamne vindecare
+Pentru mulți frați, copii și mame.
+
+[s3]
+3. Fă Doamne aici o scăldătoare
+Prin harul Tău în adunare
+Din cerul Tău sfânt să coboare
+Ca să aducă vindecare.
+
+[order]
+s1,r1,s2,r1,s3,r1

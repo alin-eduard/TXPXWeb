@@ -1,0 +1,14 @@
+[s1]
+/: Umple-ne de prezenta Ta, o, Doamne, :/
+Umple-ne de prezenta Ta
+Mâini să ridicăm spre cer
+Si vieti aduse-n adorare ca o jertfă.
+
+[s2]
+/: Umple-ne de-a Ta frumusete, Doamne, :/
+De a Ta frumusete.
+Gândul si fapta Ti le-nchin
+Si tot ce am Îti dăruiesc deplin.
+
+[order]
+s1,s2

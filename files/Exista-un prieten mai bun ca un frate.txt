@@ -1,0 +1,27 @@
+[s1]
+Există-un prieten mai bun ca un frate
+Ce-a răspândit iubirea pe Pământ.
+Iubise că se duse chiar la moarte
+Isus Hristos e Numele cel sfânt.
+
+[r1]
+Eu ştiu că m-a iubit pân, la sfârşit
+Eu ştiu că sufletul mi-e ocrotit.
+Când vin furtuni în viaţă în Isus am speranţă
+Eu ştiu că m-a iubit pân, la sfârşit.
+
+[s2]
+Iubirea Ta-i lumină pe cărare
+Dureri, necazuri El va micşora
+Uşoară-n faţa crucii-i apăsarea
+În rugăciuni naintea Sa voi sta.
+
+[s3]
+În tot momentul El e lângă mine
+Prin Duhul Sfânt
+e chiar în viaţa mea
+Şi nimeni nu-i s-ofere-atâta bine
+Şi nimeni pace nu poate să dea.
+
+[order]
+s1,r1,s2,r1,s3,r1

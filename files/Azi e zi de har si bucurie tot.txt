@@ -1,0 +1,28 @@
+[s1]
+Azi e zi de har şi bucurie tot odat’ pe Isus
+L-am primit ca Domn şi împărat inima
+I-am predat inima toată şi sunt fericit
+Isus Hristos m-a mântuit.
+Am lăsat la poala crucii tot trecutul meu
+Tot amarul meu da tot păcatul meu
+Şi sunt convins că al meu Rege nu mă va lăsa
+Mă va lua în Ţara Sa.
+
+[r1]
+Isus lângă Tine vreau să fiu mereu,
+Isus e Numele ce-L strig din greu.
+Nu vreau de El să mă despart vreodat’.
+Doar prin Isus eu sunt salvat.
+
+[s2]
+Ce viaţă minunată mă aşteaptă-acum cu Isus
+Cu Isus al meu eu am pornit la drum lângă El
+Numai lângă-al meu Părinte eu voi sta pe veci
+Doar lângă El căci Îl iubesc.
+Ce viaţă minunată mă aşteptă-acum
+Cu Isus al meu eu am pornit la drum
+Numai lângă-al meu Părinte eu voi sta pe veci
+Doar lângă El căci Îl iubesc.
+
+[order]
+s1,r1,s2,r1

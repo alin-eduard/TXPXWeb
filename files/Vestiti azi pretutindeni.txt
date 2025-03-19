@@ -1,0 +1,29 @@
+[r1]
+Vestiţi azi pretutindeni,
+Duceţi cuvântul peste munţi;
+Vestiţi azi pretutindeni,
+Că Isus s-a născut
+
+[s1]
+VEGHEAU PĂSTORII TURMA
+SUB CERUL LINIŞTIT;
+DEODATĂ O LUMINĂ DIN CER A STRĂLUCIT
+Vegheau păstorii turma
+Sub cerul liniştit;
+Deodată o lumină
+Din cer a strălucit
+
+[s2]
+O veste minunată
+Azi îngerii-au adus,
+Că-n lumea-ntunecată
+S-a coborât Isus
+
+[s3]
+Sărac, umil în iesle,
+măreţul prunc veni;
+Pe cei morţi în păcate,
+să-i poată mântui
+
+[order]
+r1,s1,r1,s2,r1,s3,r1

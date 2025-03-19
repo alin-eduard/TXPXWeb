@@ -1,0 +1,25 @@
+[s1]
+Nu pot percepe lumea fara Tine
+Nu pot percepe existenta mea
+Nu pot percepe nici macar lumina
+Nu pot vedea in noapte nici o stea.
+Nu am speranta de nu esti in mine
+Ma simt strain uitat si abatut
+Si viata mea-ai fara un scop anume
+Pacatu-mi cere mult prea scump tribut
+
+[r1]
+Vreau o lume inundata de Tine
+Coboara Tu Viata-n viata mea
+Nu pot fi trist cand Tu traiesti in mine
+Inima mi-e plina de da peste ea
+
+[s2]
+Ma umplu de cuvantul ce-mi vorbeste
+Ca pot trai din plin si fericit
+Ca pot percepe si spera prin Tine
+Pot vedea lumina, pot vedea lumina,
+pot vedea lumina, pot fi mantuit.
+
+[order]
+s1,r1,s2,r1

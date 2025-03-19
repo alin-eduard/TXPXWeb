@@ -1,0 +1,36 @@
+[s1]
+1673
+1. /: Lăudați pe Domnul :/
+Din înălțimea cerului
+/: Lăudați pe Domnul :/
+Toate oștirile Lui.
+
+[r1]
+Cor:	Lăudați-L îngeri,
+Soare, lună, stele
+Pe al vostru Creator
+Lăudați-L oameni
+Lăudați popoare
+Pe Domnul Domnilor.
+
+[s2]
+2. /: Lăudați pe Domnul :/
+Cedri și pomi roditori
+/:Lăudați pe Domnul:/
+Dealuri și voi munților.
+
+[s3]
+3. /: Lăudați pe Domnul :/
+Tineri, bătrâni și copii
+/: Lăudați pe Domnul :/
+El e izvor de bucurii.
+
+[s4]
+4. /: Lăudați pe Domnul :/
+El tăria voastră a-nălțat
+Împărați ai lumii și
+popoare toate
+Lăudați pe marele Împărat
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

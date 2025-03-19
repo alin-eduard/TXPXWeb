@@ -1,0 +1,53 @@
+[s1]
+1606.
+1. Ungerea fraţilor ne învaţă
+Duhul Sfânt care noi l-am primit
+Ne dă har, bucurie, viaţă
+Duhul Sfânt untdelemnul slăvit
+După cum au fost unşi împăraţii
+Şi preoţi în vechiul credeu
+În biserici surorile, fraţii
+Au primit Duhul Lui Dumnezeu
+
+[r1]
+Cor:Untdelemn şi apă vie
+Pace sfântă bucurie
+Duhul Sfânt Isus ne-a dăruit
+Soră, frate, vino, cere
+Să primim şi noi putere
+Ca şi aceia care au stăruit
+Ca şi aceia care au primit
+
+[s2]
+2.Ce frumos ne învaţă, ne spune
+Ungerea care noi o primim
+Lucruri pline de înţelepciune
+Noi la Domnul Isus le găsim
+Însuşi Domnul Isus ne învaţă
+Unsul care la noi a venit
+De la El cine cere primeşte
+Duhul Sfânt untdelemnul slăvit
+
+[s3]
+3.Ai primit tu această putere
+Dacă nu roagă-te neîncetat
+Stăruieşte într-una şi cere
+Ca să fii mântuit, sigilat
+El ne-nvaţă, ne călăuzeşte
+Untdelemnul ce noi l-am primit
+Căci puterea de sus ce-nsoţeşte
+Domnul nostru ne-a făgăduit
+
+[s4]
+4. Ungerea este o mare minune
+Untdelemnul de la Dumnezeu
+Ne învaţă, ne dă înţelepciune
+Ne opreşte din drumul cel rău
+Untdelemnul să nu ne lipsească
+De pe frunte şi de pe veşmânt
+Cine-l are de El să îngrijească
+Să nu mai întristăm
+Duhul Sfânt
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

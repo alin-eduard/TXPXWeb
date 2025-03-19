@@ -1,0 +1,33 @@
+[s1]
+1307.Re
+1.  Tu mucul care fumegă nu-l stingi
+Nici trestia căzută nu o frângi
+Şi oricât ar fi căzut omul de jos
+Tu îl ridici prieten credincios.
+Cor:  Eşti ne-ntrecut în bunătate
+Ierţi greşuri, patimi şi păcate
+Ca Tine nu e nimenea
+O Miel iubit din Golgota.
+
+[s2]
+2.  Tu nu dispreţuieşti un duh zdrobit
+Nici inima mâhnită n-o răneşti
+Te apleci spre cei cu sufletul amărât
+Căci jertfe ca acestea Tu voieşti.
+Cor:	 Eşti ne-ntrecut în bunătate
+Ierţi greşuri, patimi şi păcate
+Ca Tine nu e nimenea
+O Miel iubit din Golgota.
+
+[s3]
+3.  Când strigă Doamne un nenorocit
+Chemându-te să vii în ajutor
+Tu iei aminte Doamne negreşit
+Şi-i scapi chiar şi din gura leilor.
+Cor:	 Eşti ne-ntrecut în bunătate
+Ierţi greşuri, patimi şi păcate
+Ca Tine nu e nimenea
+O Miel iubit din Golgota.
+
+[order]
+s1,s2,s3

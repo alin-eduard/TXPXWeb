@@ -1,0 +1,53 @@
+[s1]
+Vine o zi când vom pleca,
+Spre Canaan ne-om îndrepta
+Da, vine-o zi! Da, vine-o zi!
+O trâmbita va răsuna
+De pe pamant ne-om înălta,
+Noi vom zbura! Da, vom zbura!
+
+[s2]
+Ce sărbătoare-atunci va fi
+Când Mirele-si va întâlni
+Mireasa Lui pe nori
+De slavă în văzduh.
+Cu mintea nu poti a gândi
+Ce întalnire-atunci va fi.
+Vei fi acolo si tu sau nu vei fi?
+
+[s3]
+Tot Universul va privi
+Fără de număr galaxii
+Vor asculta, vor asculta.
+Cântarea celor mântuiti
+Iertati prin har, neprihăniti
+De Mielul sfânt, de Mielul sfânt.
+
+[s4]
+Ce sărbătoare-atunci va fi
+Când Mirele-si va întâlni
+Mireasa Lui pe nori
+De slavă în văzduh.
+Cu mintea nu poti a gândi
+Ce întâlnire-atunci va fi.
+Vei fi acolo si tu sau nu vei fi?
+
+[s5]
+Isus te cheamă-oricine esti
+Cu El în cer să locuiesti
+Mireasa Lui, mireasa Lui.
+Doar prin credintă poti acum
+Să ai o viată si-un nou drum
+Cu Dumnezeu, cu Dumnezeu.
+
+[s6]
+Ce sărbătoare-atunci va fi
+Cand Mirele-si va întâlni
+Mireasa Lui pe nori
+De slavă în văzduh.
+Cu mintea nu poti a gândi
+Ce întâlnire-atunci va fi.
+Vei fi acolo si tu sau nu vei fi?
+
+[order]
+s1,s2,s3,s4,s5,s6

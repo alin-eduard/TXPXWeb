@@ -1,0 +1,43 @@
+[s1]
+1495.
+Pe Golgota s-au întâlnit
+Dreptatea şi iubirea
+Căci zidul ce ne-a despărţit
+Acolo sus s-a prăbuşit
+Şi pentru veci ne-a mântuit
+Prin crucea de iubire
+
+[s2]
+2.   Pe Golgota s-au împăcat
+Stăpânul cu zidirea
+Căci blestemul pentru păcat
+Pe culmea ei s-a ridicat
+Isus când viaţa Lui şi-a dat
+Ca-n El s-avem unirea
+
+[s3]
+3.  Pe Golgota a fost răpus
+Satan cu a lui oştire
+Pământul întreg va fi supus
+Prin jertfa Domnului Isus
+Şi pentru veci va fi adus
+Cu cerul în unire
+
+[s4]
+4.   Pe Golgota dacă venim
+Privind în El mâhnirea
+Plăceri şi patimi părăsim
+Adâncul dragostei trăim
+Prin cruce totul biruim
+Şi avem deplin unirea
+
+[s5]
+5.  Deci suflete dacă doreşti
+Să afli mântuirea
+Întoarce-te din căi lumeşti
+La Golgota să te sileşti
+Să fii găsit ca să primeşti
+Cu Tatăl Sfânt unirea.
+
+[order]
+s1,s2,s3,s4,s5

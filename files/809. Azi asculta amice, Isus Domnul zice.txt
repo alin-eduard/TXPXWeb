@@ -1,0 +1,38 @@
+[s1]
+1. Azi ascultă amice
+Isus Domnul zice
+Căci tu lumea ai s-o părăseşti
+Şi pentru venire să fii în pregătire
+Că în curând tu ai să-L întâlneşti.
+/: Iată-L :/ vine Isus Domnul vine
+Ce răspunzi în faţa Sa
+Când te va întreba
+Câte fapte bune ai făcut în lume
+Pe săraci de câte ori i-ai dat înapoi.
+809.
+
+[s2]
+2. Dar să ştii creştine că atunci când vine
+Nu mai vine blând şi umilit
+Vine cu mărire să-ţi dea răsplătire
+Pentru tot ce tu ai săvârşit.
+/: Iată-L :/ vine Isus Domnul vine
+Cum vei sta în faţa Sa
+Când te va întreba unde-ţi este rodul
+Chiar azi tu eşti pomul
+Căci numai frunze ai dat
+Şi te-a blestemat.
+
+[s3]
+3. Dar te îndemn amice de azi înainte
+Eu te rog ca să te pocăieşti
+Căci această lume e deşertăciune
+Şi aicea n-ai să moşteneşti.
+Iată-L, iată-L vine Isus Domnul vine
+Şi nu te mai poţi scuza
+Când te va întreba
+Cuvântul din Biblie îţi va fi mărturie
+Pentru tot ce-ai auzit şi n-ai împlinit.
+
+[order]
+s1,s2,s3

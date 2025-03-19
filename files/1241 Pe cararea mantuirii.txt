@@ -1,0 +1,34 @@
+[s1]
+Pe cărarea mântuirii
+Munţi-s ’nalţi urcuşu-i lung
+/ : Calea-i strâmtă calea-i strâmtă
+Mulţi pornesc puţini ajung : /
+Pe cărarea mântuirii
+Vânturi mari şi nori te-ajung
+/ : Lupta-i cruntă lupta-i cruntă
+Mulţi încep puţini înving : /
+1.
+2.
+1241
+
+[s2]
+Pe cărarea mântuirii
+Crucea-i grea dar bine-i sus
+/ : Uşa-i strâmtă uşa-i strâmtă
+Ce răsplată-i la Isus : /
+Pe cărarea mântuirii
+Mersu-i greu dar trecător
+/ : Viaţa-i aspră viaţa-i aspră
+Dar ce har ai de-ajutor : /
+3.
+4.
+
+[s3]
+Pe cărarea mântuirii
+Mulţi pornesc puţini ajung
+/ : Fericiţi-s fericiţi-s
+Cei ce suie drumu-ntreg : /
+5.
+
+[order]
+s1,s2,s3

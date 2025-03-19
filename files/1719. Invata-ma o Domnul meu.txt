@@ -1,0 +1,43 @@
+[s1]
+Cor:	/:Ţi-am mulţumit de-atâtea ori
+Pentru frumosii trandafiri
+Dar niciodată îndeajuns
+Pentru jertfa Ta Isus:/
+1719.  Mi m
+1. Învaţă-mă o Domnul meu
+Arată-mi că urcând spre Tine
+Pe calea aceasta cu dureri
+I-atât de bine lângă Tine
+
+[s2]
+2. Dar Tu din lacrimile mele
+Mi-ai construit un curcubeu
+Un legământ plin de iubire
+Să-l pot vedea pe Dumnezeu
+Cor:	/:Ţi-am mulţumit de-atâtea ori
+Pentru frumosii trandafiri
+Dar niciodată îndeajuns
+Pentru jertfa Ta Isus:/
+
+[s3]
+3. Pentru ţepuşul meu din carne
+Prin care Tu m-ai cercetat
+Şi pentru aceasta o Isuse
+Să-Ţi mulţumesc eu am uitat
+Cor:	/:Ţi-am mulţumit de-atâtea ori
+Pentru frumosii trandafiri
+Dar niciodată îndeajuns
+Pentru jertfa Ta Isus:/
+
+[s4]
+4. Aştept o zi cu nerăbdare
+Când m-oi găsi-n odihna Ta
+Şi voi primi răsplata care
+Mi-ai pregătit-o-n slava Ta
+Cor:	/:Ţi-am mulţumit de-atâtea ori
+Pentru frumosii trandafiri
+Dar niciodată îndeajuns
+Pentru jertfa Ta Isus:/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,33 @@
+[s1]
+1141.
+1.       Dacă nu ştii cine-i Isus
+Şi ce-nseamnă iubirea Lui
+Îţi va spune crinul din văi
+Raza soarelui din apus
+Cor:      Isus e dragoste pace
+Este-ndurare şi dor
+Este blândeţe răbdare
+E tot ce-i nemuritor.
+
+[s2]
+2.      Dacă nu ştii cât e de bun
+Răsăritu-ţi va arăta
+Ţi-o va spune frunza din pom
+Totu-n jur e slava Ta.
+Cor:      Isus e dragoste pace
+Este-ndurare şi dor
+Este blândeţe răbdare
+E tot ce-i nemuritor.
+
+[s3]
+3.      Dacă nu-L ai Mântuitor
+Ziua de azi îţi este prilej
+El te cheamă stăruitor
+Azi la El să vii să alergi.
+Cor:      Isus e dragoste pace
+Este-ndurare şi dor
+Este blândeţe răbdare
+E tot ce-i nemuritor.
+
+[order]
+s1,s2,s3

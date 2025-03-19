@@ -1,0 +1,56 @@
+[s1]
+1.Cu ochii mei
+Privesc în sus
+Mai sus, mai sus de stele
+Aş vrea
+Să-L văd eu pe Isus
+Care-mi dă mângâiere.
+1246     							          Fa
+
+[s2]
+În faţa Lui aş vrea să stau
+Cu haina mea curată
+Iar păcatul care-l mai am
+Să-mi spună că mi-l iartă.
+
+[s3]
+2.Când mă gândesc
+Că-s fericit
+Ispita-mi iese-n cale
+Dar eu nu pot nicicând să uit
+Domnul e-a mea salvare!
+
+[s4]
+La Isus vin dup-ajutor
+Iar Duhul Sfânt îmi spune
+Să stau întruna priveghind
+În post şi-n rugăciune
+
+[s5]
+3.La rugăciune când m-aplec
+Acesta-mi este dorul:
+”Cât voi trăi pe acest pământ,
+Să fiu una cu Domnul.”
+
+[s6]
+Căci El m-ajută pe pământ
+În orişice necaz,
+Căci pentru mine a murit
+Şi-acum trăieşte iar.
+
+[s7]
+4.Pe urma Lui eu voi păşi
+În post şi-n umilinţă
+Iar calea mea
+Vreau s-o sfârşesc
+Cu-ntreaga biruinţă.
+
+[s8]
+Şi-apoi cu El
+Când vom intra
+În odaia de nuntă
+În veci noi ne vom bucura
+A Lui mireasă sfântă
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

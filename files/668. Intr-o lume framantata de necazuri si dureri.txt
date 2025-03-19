@@ -1,0 +1,41 @@
+[s1]
+1. Într-o lume frământata
+De necazuri şi dureri
+Doar Isus e speranţa
+Vieţii noastre
+Căci în fiecare zi
+Parcă e mai greu ca ieri
+Noi privim cu dor
+Spre zările albastre.
+668.
+
+[r1]
+Cor: Isus, Isus eşti speranţa noastră
+Într-o lume clătinată
+De atâtea suferinţi
+Isus Isus eşti tăria noastră
+Doar cu Tine
+Vom rămâne neclintiţi.
+
+[s2]
+2. Într-o vreme când păcatul
+E la culme pe pământ
+Ne ajută să rămânem
+În credinţă
+Ne încredem în puterea
+Ce ne-o dai prin Duhul Sfânt
+Căci cu Tine
+Vom avea doar biruinţă.
+
+[s3]
+3. Doar în Tine noi găsim
+Biruinţi de bucurii
+Mângâiere şi speranţă
+Întotdeauna
+Te aşteptăm în rugăciune
+Să ne duci în veşnicii
+Unde vom primi
+Din mâna Ta cununa.
+
+[order]
+s1,r1,s2,r1,s3,r1

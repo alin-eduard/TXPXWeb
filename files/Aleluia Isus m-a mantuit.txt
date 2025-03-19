@@ -1,0 +1,33 @@
+[r1]
+Aleluia, Isus m-a mîntuit !
+Aleluia, cu El sînt fericit !
+Aleluia, Isus e Domnul meu !
+Eu rămîn în credinţă
+Şi sînt copilul Său.
+
+[s1]
+Inima mi-o deschid Domnului
+Şi primesc azi Cuvîntul Lui
+Ştiu că Isus aşa mă vrea
+Să-I deschid inima.
+
+[s2]
+Cred în Isus că El este Domn
+Cred că El e Mîntuitor !
+Pentru mine viaţa Şi-a dat
+Să fiu eliberat.
+
+[s3]
+Viaţa mea de Isus mi-am legat
+Astăzi cînd de El am aflat.
+Vreau cu Isus să fiu mereu
+Ori e bine, ori greu.
+
+[s4]
+De Isus nu mă vor despărţi
+Nici prigoane, nici avuţii.
+Ştiu că Isus mi-a pregătit
+Loc în cer strălucit.
+
+[order]
+r1,s1,r1,s2,r1,s3,r1,s4

@@ -1,0 +1,24 @@
+[s1]
+O, Miel ceresc, o, sfînt izvor
+Dumnezeiesc Mîntuitor
+Prin jertfa Ta revarsă-n dar
+În viaţa mea belşug de har.
+
+[s2]
+Har a iubi, har a ierta
+Har a citi, har a cînta
+Har a munci şi-a mă ruga
+Har a simţi şi-a ajuta.
+Har a umbla cu orice pas
+Pe calea Ta în orice ceas
+Har a dori să Te ascult
+Har a iubi mereu mai mult.
+
+[s3]
+Ajută-mă să pot păstra
+Tot harul Tău în viaţa mea
+Pîn, la sfîrşit străin de rău
+Să pot păstra /: tot harul Tău. :/ (3x)
+
+[order]
+s1,s2,s3

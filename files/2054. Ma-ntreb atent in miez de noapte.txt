@@ -1,0 +1,39 @@
+[s1]
+2054
+Mă-ntreb atent
+în miez de noapte
+Mai e ceva ce mă mai leagă
+Mai e ceva ce m-ar reține
+Să zbor spre patria cea dragă.
+
+[r1]
+Cor:	/: Mai e vre-un colțișor uitat
+În care n-am făcut curat
+Mai e ceva ascuns în mine Ce-mi frânge dorul după Tine :/.
+
+[s2]
+2. Mai e vre-o șoaptă
+care-mi spune
+Că raiul e aici în lume
+Mai e vre-un lanț ce mă mai ține
+Să uit iubirea pentru Tine.
+
+[s3]
+Mai e vre-un glas
+ce mă mai cheamă
+Și îl ascult că-mi este teamă
+Mai e vre-un dor
+ce mă mai leagă
+Să uit de fața Ta cea dragă.
+
+[s4]
+Cor:	 Să uit cu câtă îndurare
+M-ai căutat în lumea mare
+Să uit ce preț ai pus pe mine  Atunci când m-ai chemat la Tine
+Trezește-mă Isuse Doamne
+Să nu fiu fiică ne-nțeleaptă
+Ci îmbrăcată-n in subțire
+Să fiu mireasa care așteaptă.
+
+[order]
+s1,r1,s2,r1,s3,s4

@@ -1,0 +1,29 @@
+[s1]
+Omule ce-n viaţa ta,
+Ai iubit mai mult lumea
+Ai trăit ca-un păcătos
+Şi creştin tu nici n-ai fost.
+
+[r1]
+/: Dar anii au trecut
+Şi tu ce-ai făcut?
+Ai îmbătrânit, părul ţi-a albit
+Nu mai poţi umbla,
+ce-i cu viata ta ?
+Tânăr nu mai eşti
+Spune-mi cine eşti? :/
+
+[s2]
+Ai umblat, te-ai bucurat
+Lumea toată ai agreat,
+Ai crezut c-aşa-i frumos
+Sa trăieşti fără Hristos.
+
+[s3]
+Azi Isus ţi-aduce în dar
+Mântuire şi mult har,
+El vrea să te pocăieşti
+Pace-n suflet să primeşti.
+
+[order]
+s1,r1,s2,r1,s3,r1

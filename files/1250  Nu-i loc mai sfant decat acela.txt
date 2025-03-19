@@ -1,0 +1,47 @@
+[s1]
+Nu-i loc mai sfânt decât acela
+Unde-i Hristos şi unde-s ai Săi
+Acolo-i Duhul Sfânt puterea
+Acolo-i dragostea văpâi
+Cuvântul sfânt acolo-i soare
+Credinţa-i umblet fericit
+Iar părtăşia sfinţitoare
+E avântul cel mai fericit
+1.
+1250
+
+[s2]
+Nu-s stări mai sfinte ca acelea
+De pe Taborul luminos
+Când e Hristos în toţi ce cântă
+Şi toţi ce cântă-s în Hristos
+Când de Hristos e plin Cuvântul
+Şi-n rugăciune-i plin de El
+Atunci şi afară şi-năuntru
+Hristos străluceşte-n orice fel
+2.
+
+[s3]
+Nu-i ceas mai sfânt decât acela
+În care-s fraţii adunaţi
+Şi inimi lângă inimi una
+În duh se roagă-ngenunchiaţi
+Când rugăciunea lor se nalţă
+Scăldată-n lacrimi prin Hristos
+Îngerii-s fraţi iar fraţii-s îngeri
+Pământu-i sus iar ceru-i jos
+3.
+
+[s4]
+Nu-i har mai sfânt decât acela
+Să fii cu Domnul şi cu ai Săi
+În rugăciune şi- cântare
+Şi-n lacrimi lângă fraţii tăi
+Oriunde-s ei fă tot şi du-te
+Oricâţi sunt ei fă tot şi stai
+Oricum sunt ei fă tot şi caută-i
+Căci unde-s ei e-un colţ de rai.
+4.
+
+[order]
+s1,s2,s3,s4

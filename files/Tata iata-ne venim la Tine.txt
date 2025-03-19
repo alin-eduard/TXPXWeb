@@ -1,0 +1,22 @@
+[s1]
+Tată, iată-ne, venim la Tine
+De ce? Tu ştii mai bine
+Vrem să Te-ascultăm,
+Vrem să Te urmăm
+Vrem să Te iubim.
+
+[r1]
+/: Numai cu Tine ne va fi bine
+Cu furtuna zilei de mâine
+Numai cu Tine ne va fi bine
+Vom fi soare, vom fi lumină
+Doar pentru Tine :/
+
+[s2]
+Nu vrem sa fim furtuna
+De soarele vom fi
+Astazi eu, maine tu,
+Vom straluci
+
+[order]
+s1,r1,s2,r1

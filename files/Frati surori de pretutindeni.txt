@@ -1,0 +1,53 @@
+[s1]
+Fraţi, surori de pretutindeni
+Sus privirea, sus.
+În curând nădejdea noastră
+Se va împlini.
+
+[s2]
+Din înaltul cer cu stele
+Unde Domnul S-a dus.
+Într-o zi, pe nori cu slavă
+Iarăşi va veni.
+
+[s3]
+Noi eram comoară-ascunsă
+În acest ogor,
+Pentru care Prinţul Vieţii
+Aici jos veni.
+
+[s4]
+4
+Nu eram nimic în lume,
+Astăzi suntem un popor,
+Plămădit prin jertfa-I sfântă,
+Care ne uni.
+
+[s5]
+Ce frumoasă eşti mireasă
+În veşmânt de in
+Cu podoabe nestemate
+De la Duhul Sfânt.
+
+[s6]
+6
+Nu pe îngeri, ci pe tine
+Te-a ales Cel Divin
+Să Îi fii cunună-n ceruri
+Templu pe pământ.
+
+[s7]
+Trâmbiţa-i gata să sune
+Pentru cei iubiţi,
+Pentru sfinţi ce dorm sub glie,
+Cât şi pentru cei vii.
+
+[s8]
+8
+Un semnal şi într-o clipă
+Toţi la cer vom fi răpiţi
+Într-un nor gigant de slavă
+Mii şi mii de mii.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

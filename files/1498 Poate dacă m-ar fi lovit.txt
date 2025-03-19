@@ -1,0 +1,83 @@
+[s1]
+1498.
+Poate dacă m-ar fi lovit
+Un străin sau un duşman
+Rana eu n-aş fi simţit-o
+Durerea eu n-o aveam
+Cor:	Dar vai mă doare greu
+Dar vai mă doare rău
+Căci m-a lovit şi m-a rănit
+Cel ce e fratele meu
+
+[s2]
+2.  El cu gura-mi zice pace
+Dar din fundul inimii război
+Sabia iute şi-o scoate
+Şi deodată mă lovi
+Cor:	Dar vai mă doare greu
+Dar vai mă doare rău
+Căci m-a lovit şi m-a rănit
+Cel ce e fratele meu
+
+[s3]
+3. Şi am luat-o ca mustrare
+Hotărâtă de Isus
+Deşi rana era mare
+Să mă ierte eu i-am spus
+Cor:	Dar vai mă doare greu
+Dar vai mă doare rău
+Căci m-a lovit şi m-a rănit
+Cel ce e fratele meu
+
+[s4]
+4. Mi-am adus atunci aminte
+De regele psalmilor de David
+Cum Saul îl urmărise
+În tot timpul vieţii lui
+Cor:	Dar vai mă doare greu
+Dar vai mă doare rău
+Căci m-a lovit şi m-a rănit
+Cel ce e fratele meu
+
+[s5]
+5. Mi-am adus atunci aminte
+Şi de Iosif cel iubit preaiubit
+Fraţii lui de acelaşi tată
+l-au vândut rob în Egipt
+Cor:	Dar vai mă doare greu
+Dar vai mă doare rău
+Căci m-a lovit şi m-a rănit
+Cel ce e fratele meu
+
+[s6]
+6.  Şi-am strigat atunci o Doamne
+Doamne leagă-mi rana mea
+O Doamne Doamne Isuse
+Vindecă-mi durerea mea
+Cor:	Dar vai mă doare greu
+Dar vai mă doare rău
+Căci m-a lovit şi m-a rănit
+Cel ce e fratele meu
+
+[s7]
+7.  Am strigat şi eu ca orbul
+Către Fiul lui David Isuse
+Şi slăvit să fie Domnul
+S-a oprit lângă mine
+Cor:	Dar vai mă doare greu
+Dar vai mă doare rău
+Căci m-a lovit şi m-a rănit
+Cel ce e fratele meu
+
+[s8]
+8.  Rana El mi-a vindecat-o
+Şi de atunci sunt sănătos
+Durerea mi-a îndepărtat-o
+Domnul meu Isus Hristos
+Cor:	Dar vai mă doare greu
+Dar vai mă doare rău
+Căci m-a lovit şi m-a rănit
+Cel ce e fratele meu
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

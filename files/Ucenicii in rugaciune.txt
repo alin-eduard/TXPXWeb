@@ -1,0 +1,26 @@
+[s1]
+Ucenicii-n rugăciune
+În odaia cea de sus,
+Aşteptau o promisiune
+Ea-I puterea cea de sus.
+/: O, Doamne, revars-o şi azi :/
+Şi umple-ne pe toţi!
+
+[s2]
+Tu puterea ai trimis-o
+Cu un vuiet mare-n jos
+Şi în limbi de foc ai dat-o
+Fiecărui credincios.
+/: O, Doamne, revars-o şi azi :/
+Şi umple-ne pe toţi!
+
+[s3]
+Duhul Sfânt ca altă dată
+Dă puterea cea dintâi.
+Domnul şi-astăzi o revarsă
+Că-I promisă la ai Săi.
+/: O, Doamne, revars-o şi azi :/
+Şi umple-ne pe toţi!
+
+[order]
+s1,s2,s3

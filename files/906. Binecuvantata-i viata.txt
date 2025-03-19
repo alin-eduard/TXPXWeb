@@ -1,0 +1,33 @@
+[s1]
+906.                                                                La b
+1.	Binecuvântată-i viaţa
+Împreună cu Isus
+Când îţi luminează faţa
+Pacea Domnului Isus.
+
+[r1]
+Pocăinţă, pocăinţă
+Tu ne-apropii către cer
+Unde dragostea-i deplină
+Şi-unde lacrimile pier
+
+[s2]
+2.  Nu este copilărie
+Mai plăcută Domnului
+Ca aceea unde pruncii-s
+Nelipsiţi din casa Lui.
+
+[s3]
+3.	Ce frumoasă-i tinereţea!
+Cu Isus să o trăieşti
+Şi prin El orice ispită
+Poţi mereu s-o biruieşti.
+
+[s4]
+4.	Când povara bătrâneţii
+Vrea să te apese-n jos
+Duhul Sfânt te-ntinereşte
+Şi-ţi dă aripi spre Hristos.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,52 @@
+[s1]
+1. Sună Scriptura-n glas tare
+Şi pe pământ şi pe mare
+/:V-adunaţi toţi laolaltă
+Cercetaţi Scriptura toată
+Veniţi voi fraţilor:/.
+259
+
+[s2]
+2. Scriptura-i o Carte Sfântă
+De profeţi alcătuită
+/:Cât popor este pe lume
+La toţi Scriptura le spune
+Veniţi voi fraţilor:/.
+
+[s3]
+3. Veniţi fraţilor la Mine
+Eu sunt Cela ce fac bine
+/:Sunt acela răstignit
+Cel ce lume-am biruit
+Veniţi voi fraţilor:/.
+
+[s4]
+4. Cartea Mea v-am dat-o vouă
+Scriptura i-o  lege nouă
+/:Pentru voi Eu M-am jertfit
+Sus pe cruce răstignit
+Veniţi voi fraţilor:/.
+
+[s5]
+5. Cartea Sfântă a lui Hristos
+La toţi ne spune frumos
+/:Ne spune cu glas duios
+Isus cel numit Hristos
+Veniţi voi fraţilor:/
+
+[s6]
+6. Eu sunt Alfa şi Omega
+Începutul şi sfârşitul
+/:Eu sunt Calea şi Adevărul
+Eu sunt Lumina din ceruri
+Veniţi voi fraţilor:/.
+
+[s7]
+7. Cine-n calea Mea umbla-va
+Întuneric n-a afla-va
+/:Eu sunt Piatra unghiulară
+Între vechile hotare
+Veniţi voi fraţilor:/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

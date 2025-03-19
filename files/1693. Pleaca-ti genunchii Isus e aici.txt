@@ -1,0 +1,29 @@
+[s1]
+1693.Si b
+1. Pleacă-ţi genunchii Isus e-aici
+Ridică mâini curate spre cer
+Tronul de mărire e-n faţa ta
+Slava se coboară din cer
+Îndrăzneşte de intră în locul sfânt
+Spălat în sângele Mielului
+Vino cu cântări de mărire
+Osana Mielului Preasfânt
+
+[r1]
+Cor:	Rege-al regilor,
+Domn al Domnilor
+Isus Isus, Isus Isus
+
+[s2]
+2. Vino cu povara din viaţa ta
+Durerea ce te-apasă mereu
+Mâna lui Isus poate vindeca
+Rana şi păcatul cel greu
+Pacea ce coboară din cerul sfânt
+Dragostea şi roadele ei
+Înţelepciunea şi credinţa
+De neclintit
+Totul poţi avea doar să vrei
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,26 @@
+[s1]
+Râul binecuvântării,
+Revarsă peste lume!
+Timpul păcii dă să vie,
+Inimile să le umple.
+
+[r1]
+Doamne, revarsă
+Duhul promis ca pe-un râu,
+Şi-un strop încă-i fericire,
+Dă-ne-n de-ajuns Duhul Tău!
+
+[s2]
+Râul binecuvântării,
+Vuieşte de departe;
+Vino-n inimi păcătoase;
+O, Duh Sfânt pogoară-Te!
+
+[s3]
+Râul binecuvântării,
+Peste noi azi revarsă;
+Acum când plecaţi, Te rugăm,
+Când inima-i deschisă.
+
+[order]
+s1,r1,s2,r1,s3,r1

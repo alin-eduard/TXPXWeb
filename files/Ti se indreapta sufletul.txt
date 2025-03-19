@@ -1,0 +1,27 @@
+[s1]
+Ti se indreapta sufletul
+pe carari straine
+Simti ca nu mai poti lupta
+ceva sa frant in tine
+Stai si astepti un raspuns
+dar parca nu mai vine
+Ai vrea sa intelegi
+doar un gand rasuna in tine
+
+[r1]
+Alege sa traiesti
+Alege sa iubesti
+Chiar daca iti este greu
+Langa tine e mereu Dumnezeu
+
+[s2]
+Oricat ai cauta tot nu gasesti fericire
+Te lupti te zbati si tot alergi,
+dar n-o gasesti la nimeni
+Fericirea e de sus
+e pregatita pentru tine
+E in mana lui Isus
+El ti-o poate da, ea vine...
+
+[order]
+s1,r1,s2,r1

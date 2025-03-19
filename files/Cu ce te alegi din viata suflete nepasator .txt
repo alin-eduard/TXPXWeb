@@ -1,0 +1,29 @@
+[s1]
+Cu ce te alegi din viaţă,
+suflete nepăsător?
+Dacă tu nu-L ai pe Domnul,
+eşti pierdut şi muritor!
+Viaţa ta este ca pleava
+şi tu eşti un spic pierdut
+Dacă tu nu-L ai pe Domnul
+în sufletul tău.
+
+[r1]
+Isus te iubeşte pe tine,
+Isus are har pentru tine
+Deschide-ţi Lui inima
+astăzi ca să fi fericit!
+Trăieşte-ţi viaţa cu Isus,
+în Numele Lui e puterea
+El poate să-ţi dea mîntuirea
+şi viaţa veşnică !
+
+[s2]
+Dacă tu n-ai siguranţa
+că vei fi în veşnicii
+Nu mai sta pe gînduri, vino!
+Poate mîine e tîrziu!
+Lui Isus astăzi te roagă să-ţi dea har să fii iertat Cu puterea Lui divină să fii îmbrăcat!
+
+[order]
+s1,r1,s2,r1

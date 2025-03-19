@@ -1,0 +1,16 @@
+[s1]
+926.                                                                  Fa
+Leagă-ne Doamne
+Pe toţi împreună cu lanţuri
+Ce nu pot fi rupte
+Leagă-ne Doamne pe toţi împreună
+O, leagă-ne în dragoste.
+
+[s2]
+Este un singur Domn
+Este un singur Fiu
+Este un singur Duh
+Şi Acela-I viu.
+
+[order]
+s1,s2

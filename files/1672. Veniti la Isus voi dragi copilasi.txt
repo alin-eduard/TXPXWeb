@@ -1,0 +1,52 @@
+[s1]
+1672.
+1. Veniţi la Isus voi dragi copilaşi
+Căci Isus pe toţi vă iubeşte
+Lui să vă-nchinaţi iubiţi îngeraşi
+Căci El ascultare doreşte.
+Cor:	Veniţi voi copii
+Căci Isus vă cheamă
+Săraci, orfani, oricine-ati fi
+Veniţi la Isus
+Că-n braţul sfânt de mamă
+Găsive-ţi sfinte bucurii.
+
+[s2]
+2. Ferice de acel ce are părinţi
+Şi cu-a lui purtare-i cinsteşte
+Ce-n rugă mereu
+Cu lacrimi fierbinţi
+Cu dragoste îi aminteşte.
+Cor:	Veniţi voi copii
+Căci Isus vă cheamă
+Săraci, orfani, oricine-ati fi
+Veniţi la Isus
+Că-n braţul sfânt de mamă
+Găsive-ţi sfinte bucurii.
+
+[s3]
+3. Ştiaţi voi copii că-n cer zi de zi
+Există un ochi ce veghează
+Un soare preasfânt ce din veşnicii
+Cu dragoste vă luminează.
+Cor:	Veniţi voi copii
+Căci Isus vă cheamă
+Săraci, orfani, oricine-ati fi
+Veniţi la Isus
+Că-n braţul sfânt de mamă
+Găsive-ţi sfinte bucurii.
+
+[s4]
+4. Şi Isus a fost ca şi voi copil
+Exemplu în vorbe şi-n purtare
+Supus ca un miel smerit şi umil
+Un sfânt model de ascultare.
+Cor:	Veniţi voi copii
+Căci Isus vă cheamă
+Săraci, orfani, oricine-ati fi
+Veniţi la Isus
+Că-n braţul sfânt de mamă
+Găsive-ţi sfinte bucurii.
+
+[order]
+s1,s2,s3,s4

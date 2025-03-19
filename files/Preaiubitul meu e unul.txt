@@ -1,0 +1,26 @@
+[s1]
+Preaiubitul meu e Unul
+Fără seamăn pe pământ.
+/: Glasul Lui e armonie
+Farmec e a Lui cuvânt :/
+
+[s2]
+Orice loc pe unde trece
+De miresme-alese-i plin.
+/: Câmpu-i mai frumos pe-acolo
+Cerul este mai senin :/
+
+[s3]
+Dulcea Lui înfăţişare
+E plină de farmec sfânt.
+/: Mii de primăveri vin ,parcă,
+Toate-odată pe pământ :/
+
+[s4]
+Preaiubitul meu e Isus,
+Nimenea asemeni nu-i.
+/: Cât aţi da de L-aţi conoaşte
+Ca să fiţi şi voi ai Lui :/
+
+[order]
+s1,s2,s3,s4

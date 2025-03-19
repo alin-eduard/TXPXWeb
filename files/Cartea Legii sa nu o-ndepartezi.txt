@@ -1,0 +1,28 @@
+[s1]
+Cartea Legii să nu o-ndepărtezi de gura ta
+Cugetînd asupra ei zi şi noapte!
+Cartea Legii să nu o-ndepărtezi de gura ta
+Căci atunci vei avea izbîndă!
+
+[r1]
+/: Strîng Cuvîntul Tău în inimă
+Ca să nu păcătuiesc împotriva Ta!
+Strîng Cuvîntul Tău în inimă
+Ca să nu greşesc, Domnul meu ! :/
+
+[s2]
+Cuvîntul e insuflat de Dumnezeu şi-i de folos
+Ca să-nveţe, să mustre
+şi să-ndrepte.
+Cuvîntul e insuflat de Dumnezeu şi-i de folos
+Ca să dea înţelepciune omului.
+
+[s3]
+Iar acum priviţi ţintă
+la Isus Hristos
+Care este a credinţei Căpetenie!
+El pe cruce a murit pentru păcatul meu şi-al tău
+Iar acum stă la dreapta Tatălui.
+
+[order]
+s1,r1,s2,r1,s3,r1

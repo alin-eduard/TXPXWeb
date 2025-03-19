@@ -1,0 +1,93 @@
+[s1]
+1.	Lui Daniel s-ampotrivit
+Oamenii cei răi
+Ca să fie aruncat
+În groapa cu lei.
+Cor: 	Deci rămâi ca Daniel
+Tare în Hristos
+Fii şi altora model
+De om credincios.
+503.
+
+[s2]
+2. 	El ferestrele a deschis
+Spre Ierusalim
+În genunchi striga mereu
+Către Dumnezeu.
+Cor: 	Deci rămâi ca Daniel
+Tare în Hristos
+Fii şi altora model
+De om credincios.
+
+[s3]
+3.	Vezi Daniel cum se ruga
+În odaia sa
+De trei ori pe zi striga
+Şi nu se temea.
+Cor: 	Deci rămâi ca Daniel
+Tare în Hristos
+Fii şi altora model
+De om credincios.
+
+[s4]
+4.	Dumnezeu l-a ascultat
+Şi cu drag I-a zis
+Că eşti scump şi preaiubit
+Şi te-am izbăvit.
+Cor: 	Deci rămâi ca Daniel
+Tare în Hristos
+Fii şi altora model
+De om credincios.
+
+[s5]
+5.	Vezi cei trei cu Daniel
+Pe pământ străin
+Nu se întină defel
+Cu cărnuri sau vin.
+Cor: 	Deci rămâi ca Daniel
+Tare în Hristos
+Fii şi altora model
+De om credincios.
+
+[s6]
+6.	Pentru Domnul mulţi eroi
+S-ar putea găsi
+Ca şi alţi tineri dintre noi
+Cu grijă s-or păzi.
+Cor: 	Deci rămâi ca Daniel
+Tare în Hristos
+Fii şi altora model
+De om credincios.
+
+[s7]
+7.	Foarte mulţi înfumuraţi
+Şi nu cred de fel
+Azi rămân ei ruşinaţi
+De un om ca Daniel.
+Cor: 	Deci rămâi ca Daniel
+Tare în Hristos
+Fii şi altora model
+De om credincios.
+
+[s8]
+8.	Ca Daniel să fiţi mereu
+Pildă de urmat
+Bine ştiţi cum Dumnezeu
+I-a binecuvântat.
+Cor: 	Deci rămâi ca Daniel
+Tare în Hristos
+Fii şi altora model
+De om credincios.
+
+[s9]
+9.	N-alţă steagul lui Hristos
+Prin lumina Sa
+Căci Satana e fricos
+Şi nu va rezista.
+Cor: 	Deci rămâi ca Daniel
+Tare în Hristos
+Fii şi altora model
+De om credincios.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

@@ -1,0 +1,34 @@
+[s1]
+Ziua cea mare e-atât de aproape,
+Cum poţi să dormi, moştenitor ceresc?
+Scoală de-acum, armătura ţi-o pune,
+Şi ieşi să-ntâmpini cortegiu-mpărătesc!
+
+[s2]
+Fiu al luminii, de ce să mai pregeţi
+O, cât te-mbie divinul Isus
+Deci scoală grabnic, căci Mirele vine
+Înconjurat de oştirile de sus.
+
+[s3]
+Vezi cum suspină o lume pierdută,
+Geme de-a teama de ce va urma,
+I-auzi se-aude al cerului vuiet,
+Grăbeşte, vino, şi nu întârzia!
+
+[s4]
+Fugi de dorinţele lumii deşarte
+Toate vor trece luate de vânt,
+Vezi, nu lăsa veşnicia să-ţi scape,
+Cu El să-nvingi fiara cea de pe pământ!
+
+[s5]
+Numai spre Domnul
+păstrează-ţi privirea
+Zilnic aştreaptă-L pe Cel înviat!
+Vezi cum se-aprinde
+lumina pe dealuri,
+Încă puţin şi vei fi eliberat!
+
+[order]
+s1,s2,s3,s4,s5

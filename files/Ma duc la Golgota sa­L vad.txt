@@ -1,0 +1,42 @@
+[s1]
+Mă duc la Golgota să-­L văd
+Pe­-al meu Isus,
+S-­aud ce-­mi spune El
+Murind pe cruce sus.
+
+[s2]
+Durere mare­-atunci Isus a suferit;
+Părinte strigă El,
+De ce M-­ai părăsit?
+
+[s3]
+El nu s-­a răzbunat,
+Aud cum s­-a rugat:
+„O, iartă­i-, Tată bun,
+Că ei nu ştiu ce fac!“
+
+[s4]
+„Vezi, mamă, fiul tău“,
+Mariei i­-a vorbit;
+„Ea este mama ta“,
+I­-a spus celui iubit.
+
+[s5]
+Tâlharului smerit, Isus aşa­-i grăi:
+„Prietene, chiar azi
+Cu mine-­n rai vei fi!“
+
+[s6]
+Durerile sunt mari
+În trupul Său zdrobit;
+„Mi­e sete!“ strigă El,
+Pe cruce chinuit.
+
+[s7]
+„Acum s-­a isprăvit!“
+Se­-aude glasul Său,
+„Părinte­-n mâna Ta
+Primeşte Duhul Meu!“
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

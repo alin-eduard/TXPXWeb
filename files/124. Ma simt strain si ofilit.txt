@@ -1,0 +1,46 @@
+[s1]
+124.
+1. Mă simt străin şi ofilit
+Dar cred că nu m-ai părăsit
+Isus Te rog să-mi dai răbdare
+Încă un an de îndurare.
+
+[s2]
+2. Şi-n anul acesta de-ndurare
+Isuse fă-Ţi a Ta lucrare
+Chiar de-oi răbda, de-oi suferi
+Dar să mă duci în veşnicii.
+
+[s3]
+3. Ştiu că-n curând Tu vei veni
+Şi pe ai Tăi îi vei răpi
+Îi vei lua şi-i vei cruţa
+O, Doamne-n odăiţa Ta.
+
+[s4]
+4. Căci strigă astăzi Duhul Sfânt
+Poporului de legământ
+Ce locuieşte acum sub soare
+Mai am un an de îndurare.
+
+[s5]
+5. Fă rânduială în popor
+Isuse Te aşteptăm cu dor
+Ridică-ţi grâul să se vadă
+Şi dă-ne Doamne a Ta răsplată.
+
+[s6]
+6. O, Doamne am păcătuit
+'Naintea Ta noi am greşit
+Dar noi dorim a Ta iertare
+În vremea asta
+de-ndurare.
+
+[s7]
+7. Fraţi, surori şi iubiţi prieteni
+Vă întăriţi să nu vă temeţi
+Căci Domnu-şi face a Sa lucrare
+În anu' acesta de-ndurare.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

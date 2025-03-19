@@ -1,0 +1,44 @@
+[s1]
+Am în cer căminul, deşi nicicând
+N-am avut o casă pe acest pământ
+Mi-a fost dată cheia
+De la un tâmplar din Galileea
+Pe’o cruce a plătit dobânda grea.
+
+[s2]
+Loc unde noapte nu’i
+Loc unde slava Lui
+Locul pe care l-am visat
+Cei dragi mă asteaptă’n prag
+Dar faţa Lui întâi
+Am s'o privesc cu drag
+Când sfârşi’voi alergarea merg acas’
+
+[s3]
+Ştiu ca mulţi visează
+La o nouă casă
+Nici chiar eu nu sunt excepţie,
+vreau să ştiţi
+Dar acas’nseamnă
+Mai mult decât un zid de piatră
+E’un zâmbet cald
+Şi’mbrăţişarea lui Isus.
+
+[s4]
+Loc unde noapte nu’i
+Loc unde slava Lui
+Locul pe care l-am visat
+Cei dragi mă asteaptă’n prag
+Dar faţa Lui întâi
+Am s'o privesc cu drag
+Când sfârşi’voi alergarea merg acas’
+Loc unde noapte nu’i
+Loc unde slava Lui
+Locul pe care l-am visat
+Cei dragi mă asteaptă’n prag
+Dar faţa Lui întâi
+Am s'o privesc cu drag
+Când sfârşi’voi alergarea merg acas’
+
+[order]
+s1,s2,s3,s4

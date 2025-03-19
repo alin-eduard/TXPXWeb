@@ -1,0 +1,30 @@
+[s1]
+Nădejdea mea e Dumnezeu
+Eterna fericire
+/: El e cu mine tot mereu
+Mă apără de orice greu
+Mi-e scut și izbăvire :/
+
+[s2]
+La brațul Lui sunt fericit
+Mereu mă ocrotește
+/: Cu El voi fi mereu păzit
+Și chiar de toți m-au părăsit
+El nu mă părăsește :/
+
+[s3]
+De-ar fi să fiu lovit sărac
+Hulit pentru credință
+/: Bolnav pe pat de-ar fi să zac
+Și nimănui să nu-i mai plac
+Eu cred în biruință :/
+
+[s4]
+De ce să plâng când crucea-I grea
+Isus, El mă conduce
+/: Rămâne El nădejdea mea
+Și veșnic mă voi îndrepta
+Spre jertfa de pe cruce :/
+
+[order]
+s1,s2,s3,s4

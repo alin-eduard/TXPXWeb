@@ -1,0 +1,42 @@
+[s1]
+Pe calea luminii eterne
+Noi azi călătorim
+Pe drum suferinţă se-aşterne
+Dar noi le biruim.
+/: Căci viaţa noastră-i plină
+De cel mai mare har,
+Isus, izvor de lumină
+Şi scump mărgăritar. :/
+
+[s2]
+Iubirea Lui astăzi ne cheamă
+Din lumea de dureri
+Dar drumul spre ţara cea dragă
+Ne dă dulci mângâieri.
+/: Căci viaţa noastră-i plină
+De cel mai mare har,
+Isus, izvor de lumină
+Şi scump mărgăritar. :/
+
+[s3]
+Frumoasă, frumoasă e ţara
+Ce El ne-a pregătit
+Eternă va fi primăvara
+În cerul fericit.
+/: Căci viaţa noastră-i plină
+De cel mai mare har,
+Isus, izvor de lumină
+Şi scump mărgăritar. :/
+
+[s4]
+De aceea privirea-mi se-ndreaptă
+Din lumea de dureri
+Spre unicul Domn ce ne-aşteaptă
+Isus cu mângâieri.
+/: Căci viaţa noastră-i plină
+De cel mai mare har,
+Isus, izvor de lumină
+Şi scump mărgăritar. :/
+
+[order]
+s1,s2,s3,s4

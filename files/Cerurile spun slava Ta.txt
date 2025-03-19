@@ -1,0 +1,22 @@
+[r1]
+/: Cerurile spun slava Ta
+Şi-ntinderea lor vesteşte
+Lucrarea mâinilor Tale
+Tu faci răsăritul să cânte
+Şi-apusul îndepărtat
+Lucrarea mâinilor Tale :/
+
+[s1]
+Judecăţile adevărate
+Sunt mai dulci decât Mierea
+Căile Tale sunt drepte
+Legea Ta-I desăvârşita.
+
+[s2]
+Primeşte Cuvintele Mele
+Pe care le cuget
+Doamne, Stânca mea,
+Salvatorul meu.
+
+[order]
+r1,s1,r1,s2,r1

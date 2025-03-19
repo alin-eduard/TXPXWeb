@@ -1,0 +1,38 @@
+[s1]
+„Ca şi nişte copilaşi
+Dragi, plăpânzi şi iertători,
+Blânzi, frumoşi şi drăgălaşi
+Şi de pace iubitori,
+Ca şi ei," - Isus a zis -
+„Trebuie şi voi să fiţi.
+Doar aşa în Paradis
+Veţi ajunge fericiţi."
+
+[r1]
+„Lăsaţi copilaşii să vie!"
+Isus la ucenici spunea...
+Şi azi, cu-aceeaşi bucurie,
+El vrea a-i binecuvânta.
+
+[s2]
+Doamne, pe aceşti copii
+De primejdii să-i fereşti!
+Dă-le binecuvântări,
+Din comorile cereşti!
+Pe părinţii lor, la fel,
+Să-i ajuţi, să-i crească mari
+Până când, o, Sfinte Miel,
+Sus pe nori o să apari...
+
+[s3]
+Fă-i să-Ţi fie sujitori,
+Credincioşi răscumpăraţi!
+Fă-i s-ajungă vestitori
+De Cuvânt înflăcăraţi!...
+Când vei reveni, pe nor,
+Să Te-ntâmpine, la fel,
+Pruncii cu părinţii lor,
+Sfinte Domn, Emanuel!"
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,37 @@
+[s1]
+Din cerul înalt răsună
+Cântări minunate,
+Ţie, Doamne, date.
+Cântări îngereşti răsună,
+Pentru lauda Domnului.
+
+[r1]
+Să-L încoronăm, dar,
+Pe Fiul lui David
+ca Domn al lumii!
+Să-L încoronăm, dar,
+pe Salvatorul lumii.
+
+[s2]
+Vestea îndurării sună,
+Sună în tot locul,
+s-audă tot omul,
+Să laude toţi pe Domnul
+Şi pe Isus, Fiul Său.
+
+[s3]
+Să-L încoronăm pe Isus
+Ca pe-un mare-mpărat
+care mult ne-a iubit,
+Care pentru noi, pe Sine
+S-a dat, de S-a răstignit.
+
+[s4]
+Pe Cel ce-a biruit moartea
+Şi-a înviat din morţi,
+puterea înfrângând,
+La fiii Săi viaţa le-a dat
+Şi-au venit la El cântând.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

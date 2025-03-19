@@ -1,0 +1,25 @@
+[s1]
+Cugetul tău suferit-a nespus
+Şi te-ai zbătut, dar în zadar
+Şi tu, de vrei, poţi afla în Isus
+Pace, în scumpul Său har
+
+[r1]
+Vino la El, vino la El,
+Vin’ la Isus şi urmează-L
+Apoi, cu mult zel
+
+[s2]
+Greu cu păcatul luptat-ai mereu,
+Ai suferit, te-ai chinuit,
+Dar izbăvire îţi dă Dumnezeu,
+Astăzi, prin Fiul iubit
+
+[s3]
+Viaţa ta va fi un nou răsărit,
+Căci fericit, reînnoit,
+Totul primi-vei prin El, Cel slăvit,
+Căci El totul a-mplinit
+
+[order]
+s1,r1,s2,r1,s3,r1

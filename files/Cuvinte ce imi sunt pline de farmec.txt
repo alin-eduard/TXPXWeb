@@ -1,0 +1,32 @@
+[s1]
+Cuvinte ce imi sunt pline de farmec
+In inima imi clocotesc
+Lucrarea mea de lauda este
+Pentru Imparatul cel ceresc
+
+[r1]
+/:Tu esti cel mai frumos dintre oameni
+Harul pe buze Ti-a fost turnat
+Tu esti Cel venit din vesnicie
+Caci Dumnezeu Te-a binecuvantat:/
+
+[s2]
+Atotputernic si viteaz in lupte
+Este al nostu Domn minunat
+A Lui sageti ce sunt trase si-s multe
+Apara pe popor si pe imparat
+
+[s3]
+Razboinic sfant si bun este in toate
+Biruitor e Domnul cel slavit
+El apara blandetea si dreptatea
+Neprihanirea celui mantuit
+
+[s4]
+Nimeni n-a iubit aici vreodata
+Cum Tu Doamne pe noi ne-ai iubit
+Iti vom canta viata noastra toata
+Si-Ti vom sluji pana la sfarsit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

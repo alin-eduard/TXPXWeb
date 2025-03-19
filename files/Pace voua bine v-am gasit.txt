@@ -1,0 +1,26 @@
+[s1]
+Pace voua, bine v-am gasit
+Am si eu ceva de povestit
+Pentru ca sunt foarte fericit
+In casa Domnului
+
+[r1]
+/: Toti copiii Lui sunt iubiti de El
+Si paziti ei sunt de Dumnezeu
+Cine e cinstit,creste fericit
+In casa Domnului :/
+
+[s2]
+Eu ma-ncred, ma-ncred in Domnul meu
+Si-l iubesc din tot sufletul meu
+Prin iubirea Lui traiesc mereu
+De El eu sunt iubit
+
+[s3]
+Prietenul meu bun este Isus
+El m-ajuta sa duc crucea sus
+Prin iubirea Lui traiesc mereu
+De El eu sunt iubit.
+
+[order]
+s1,r1,s2,r1,s3,r1

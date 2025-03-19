@@ -1,0 +1,32 @@
+[s1]
+Din slava Ta, Isuse,
+La noi Te­-ai coborât,
+Umil, sărac, Tu, Doamne,
+În iesle Te­-ai născut;
+Şi pentru noi, sărmanii,
+Tu cerul ai lăsat,
+Iubindu­-Ţi chiar duşmanii,
+De noi Te-­ai îndurat!
+
+[s2]
+Pe noi, Isuse dulce,
+Tu ne-­ai iubit nespus,
+În schimb noi prin păcate
+Te­-am întristat de-­ajuns;
+Deci, dă-ne nouă, Doamne,
+În ziua Ta acum
+O inimă curată,
+Un cuget sfânt şi bun.
+
+[s3]
+Pe Tine, niciodată
+Noi nu Te vom uita
+Şi faţa Ta curată
+Noi n­-o vom întrista;
+Ajută-ne, o, Doamne,
+Mereu să biruim,
+Ispita când ne-­apasă
+Să nu păcătuim!
+
+[order]
+s1,s2,s3

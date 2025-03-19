@@ -1,0 +1,26 @@
+[s1]
+Citind in Cartea Sfanta am aflat
+De-un Creator al Universului,
+Ce toate cu-ntelepciune le-a creat
+De aceea ma inchin inaintea Lui.
+
+[r1]
+/: Mai mult decat tot ce ma-nconjoara
+Mai mult decat aurul curat,
+Mai mult decat tot ce e in juru-mi
+Eu pretuiesc iubirea Ta. :/
+
+[s2]
+El a privit spre mine-n chip de lut
+Si a turnat din harul Sau divin,
+Peste fiinta mea caci asa a vrut
+Sa ma iubeasca pe deplin.
+
+[s3]
+Acum ai multumesc neincetat
+Pentru sublimul dar nemeritat,
+Fara de plata lumea L-a primit
+Fiindc-atat de mult ne-a iubit.
+
+[order]
+s1,r1,s2,r1,s3,r1

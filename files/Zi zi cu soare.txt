@@ -1,0 +1,43 @@
+[s1]
+Zi…
+zi cu soare si senina
+vad…
+insa nu-i nici o lumina.
+Totul e intunecat,
+norii parca s-au lasat
+si zi…
+Zi cu soare si senina, nu-i.
+
+[s2]
+Vreau,
+vreau un strop de fericire
+dar…
+unde este, cine stie?
+Omul cauta ne-ncetat,
+nu stiu daca l-a aflat,
+dar vreau,
+vreau un strop de fericire, da.
+
+[r1]
+Fericirea nu-I departe,
+Fericirea e de sus.
+Cel ce-o are, poartea numele Isus.
+
+[s3]
+Da,
+Omul vrea sa tot traiasca
+dar,…
+poftele nu il mai lasa;
+Se afunda in pacat,
+Totul e intunecat,
+Si zi…
+zi cu soare si senina, nu-i.
+
+[s4]
+Zi…
+zi cu soare si senina
+vad…
+insa nu-i nici o lumina, nu…
+
+[order]
+s1,s2,r1,s3,r1,s4

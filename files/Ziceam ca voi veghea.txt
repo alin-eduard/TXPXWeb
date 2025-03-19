@@ -1,0 +1,52 @@
+[s1]
+Ziceam că voi veghea
+mereu asupra căilor mele
+Dar făr, de Tine, Doamne,
+sufletu-mi este gol.
+Mă simt străin pe-acest Pămînt,
+mă clatin ca o frunză-n vînt.
+Inima-mi te vrea pe Tine,
+iubite Salvator !
+
+[r1]
+/: Doamne, azi eu Te rog
+să-mi cercetezi viaţa mea
+Ajuţă-mă, Doamne,
+să Te pot urma !
+Vreau să fiu ca Tine,
+smerit şi bun cu-adevărat
+Ajută-mă, Doamne,
+ţine-mă curat ! :/
+
+[s2]
+Mărturisesc îndurerat
+că am greşit de-atîtea ori
+Îmi deschid fiinţa Ţie,
+facă-se voia Ta.
+În rugăciune mă închin
+şi Îţi predau viaţa mea
+Îţi predau a mea fiinţă,
+facă-se voia Ta.
+
+[s3]
+Doamne, azi eu Te rog
+să-mi cercetezi viaţa mea
+Ajută-mă, Doamne,
+să Te pot urma !
+Vreau să fiu ca Tine,
+smerit şi bun cu-adevărat
+Ajută-mă, Doamne,
+ţine-mă curat !
+
+[s4]
+Doamne, azi eu Te rog
+să vii degrabă în viaţa mea
+Luminează-mi calea
+să Te pot urma.
+Azi eu îmi deschid inima Ţie,
+Isus iubit
+Ştiu că doar prin Tine
+voi fi fericit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

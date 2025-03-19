@@ -1,0 +1,43 @@
+[s1]
+1
+Dacă eşti purtat de valul furios
+Şi crezându-te pierdut devii fricos;
+Ia în seamă binecuvântările!
+Domnul ţi-a făcut parte şi din ele.
+
+[s2]
+2
+Ia în seamă şi darurile,
+Toate binecuvântările.
+Ia în seamă şi darurile,
+Domnul Ţi-a  făcut parte şi din ele.
+
+[s3]
+3
+De te-apasă grijuri multe şi crucea,
+Şi frică ţi-e că nu li-i putea purta,
+Ia în seamă binecuvântările
+Şi-atunci ţi se vor însenina zilele.
+
+[s4]
+4
+Ia în seamă şi darurile,
+Toate binecuvântările.
+Ia în seamă şi darurile,
+Domnul Ţi-a  făcut parte şi din ele.
+
+[s5]
+5
+Aşa cât timp tu aici vei mai lucra
+Domnul cu tine va fi! Nu dispera!
+Ia aminte-a Lui binecuvântare! Îngerii te vor petrece pe cale.
+
+[s6]
+6
+Ia în seamă şi darurile,
+Toate binecuvântările.
+Ia în seamă şi darurile,
+Domnul Ţi-a  făcut parte şi din ele.
+
+[order]
+s1,s2,s3,s4,s5,s6

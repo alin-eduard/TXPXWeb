@@ -1,0 +1,56 @@
+[s1]
+1. Adeseori eşti trist şi-ai vrea să afli
+Al suferinţei drum când s-a sfârşi
+Şi-ai vrea să ştii cea mai adâncă taină
+Când oare, când Isus te va chema.
+/: Să nu disperi, să nu disperi
+El va veni te-a duce-n cer
+Nu-ţi va uita suferinţa
+El fruntea ţi-o va-ncorona. :/
+574.              Fa m
+
+[s2]
+2. Părea adeseori că luntrea vieţii
+Nu va putea ajunge pân’ la mal
+Şi valurile păreau că îţi îneacă
+Credinţa, mântuirea ta prin har.
+/: Să nu mai crezi că eşti uitat
+Isus din valuri te-a salvat
+Tu te zbăteai ne-ncrezător
+Dar Domnul este-ndurător. :/
+
+[s3]
+3. Când ţintă-ai fost săgeţilor amare
+Pe drumul tău au răsărit doar spini
+Amarul ţi-a-ncolţit adesea-n cale
+Şi n-ai avut durerea cui să-i spui.
+/: Isus şi-atunci te-a înţeles
+Şi lacrimile ţi-a cules
+O, pace ţie, călător
+Cu Domnul eşti învingător. :/
+
+[s4]
+4. Dar în curând
+Se va sfârşi şi drumul
+Nu mai e mult
+Pe-acest pământ străin
+Nu-ţi va fi lupta ta o veşnicie
+Şi scurte-ţi vor fi zilele de chin.
+/: Ce vei primi în ceruri sus
+Nu sunt cuvinte-aici de spus
+Doar fericirea va ţinea
+Cu Isus vom fi pururea. :/
+
+[s5]
+5. Fii tare deci şi întăreşte-ţi pasul
+Pe-al veşniciei drum să-naintăm
+Îmbărbătează-ţi inima,
+Dar frate (soră)
+Şi tot mai mult pe Isus să-L urmezi.
+/: Şi-acum la încheiere-ţi spun
+Să nu te mai opreşti din drum
+Şi trist iubite să nu fii
+Domnul în curând va reveni. :/
+
+[order]
+s1,s2,s3,s4,s5

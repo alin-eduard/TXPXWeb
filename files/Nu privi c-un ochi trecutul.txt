@@ -1,0 +1,26 @@
+[s1]
+Nu privi c-un ochi trecutul,
+şi c-un ochi spre viitor.
+/: Nu fi jumătate-n soare,
+şi-altă jumătate-n nor. :/
+
+[s2]
+Nu păşi c-un pas nainte,
+şi cu altul înapoi.
+/: Nu-nota când în lumină,
+când în putredul noroi. :/
+
+[s3]
+Nu fi-n clipa asta gheaţă,
+şi-apoi peste-o clipă jar.
+/: Nu fi cu Hristos acum,
+şi-apoi cu Satana iar. :/
+
+[s4]
+Că pe toţi cei nestatornici,
+îi îneac-al morţii val.
+/: Şi nici unul nu ajunge,
+strălucitul vieţii mal. :/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,26 @@
+[s1]
+Noi Te iubim, Isus,
+eşti totul pentru noi,
+Tu liberi astăzi ne-ai făcut,
+de-orice nevoi.
+A noastre bogăţii,
+Tu libertate eşti.
+Noi Te iubim azi tot mai mult.
+
+[r1]
+Noi Te iubim, îţi mulţumim
+Şi azi Ţie ne dăruim
+Căci ne-ai scăpat de-orice păcat
+Şi-apoi ne-ai binecuvântat.
+
+[s2]
+Tu, calea sfântă nouă
+astăzi ne-ai deschis
+Şi liberi azi mergem
+cu toţi spre Paradis.
+Tu ai venit, Isus,
+viaţă să ne-aduci.
+Noi Te iubim azi tot mai mult.
+
+[order]
+s1,r1,s2,r1

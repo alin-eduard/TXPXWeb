@@ -1,0 +1,33 @@
+[s1]
+N-am Altul pe pământ
+Nu-I Altul sus în cer
+Domnul meu mi-e deajuns
+Fericirea mea e să m-apropii de El.
+
+[s2]
+/:Nu mi-e teamă să pierd totul
+Îmi râmâne El
+Dar să știu că mi-alături
+Și toate-s la fel
+Eu știu Domnul meu mi-e de-ajuns
+Fericirea mea e-a sa
+m-apropii de El:/
+
+[s3]
+El e plăcerea mea
+E tot ce moștenesc
+Singurul meu câștig
+Fericirea mea e să
+m-apropii de El.
+
+[s4]
+/:Nu mi-e teamă să pierd totul
+Îmi rămâne El
+Dar să știu că mi-alături
+Și toate-s la fel
+Eu știu Domnul meu mi-e de-ajuns
+Fericirea mea e sa
+m-apropii de El:/
+
+[order]
+s1,s2,s3,s4

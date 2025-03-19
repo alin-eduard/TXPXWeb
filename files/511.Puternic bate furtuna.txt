@@ -1,0 +1,51 @@
+[s1]
+1.	Puternic bate furtuna,
+Marea-i tulbură,
+Luntrea credinţei stând pe ea,
+Omul tremură.
+Cor:  Caută, caută sus la Isus,
+Auzi, auzi ce zice El
+Vino îndrăznind pe al Meu braţ
+Te-oi ajuta /: nu te teme :/
+Cu tine-oi fi în toate zilele
+Te-oi ajuta /: nu te teme :/.
+511.     Mi m
+
+[s2]
+2.	Luntrea noastră făr’ ajutor
+Luptă cu valuri,
+E aproape de pierzare
+Noi stăm pe gânduri.
+Cor:  Caută, caută sus la Isus
+Auzi, auzi ce zice El
+Vino îndrăznind pe al Meu braţ
+Te-oi ajuta /: nu te teme :/
+Cu tine-oi fi în toate zilele
+Te-oi ajuta /: nu te teme :/.
+
+[s3]
+3.	Stau corăbierii pe loc
+Nu au putinţă,
+Toţi la-Nvăţătorul strigă
+Domnul le ajută.
+Cor:  Caută, caută sus la Isus
+Auzi, auzi ce zice El
+Vino îndrăznind pe al Meu braţ
+Te-oi ajuta /: nu te teme :/
+Cu tine-oi fi în toate zilele
+Te-oi ajuta /: nu te teme :/.
+
+[s4]
+4.	În viaţă mari furtune
+Vin de multe ori,
+Vestea cea bună ne spune
+Despre ajutor.
+Cor:  Caută, caută sus la Isus
+Auzi, auzi ce zice El
+Vino îndrăznind pe al Meu braţ
+Te-oi ajuta /: nu te teme :/
+Cu tine-oi fi în toate zilele
+Te-oi ajuta /: nu te teme :/.
+
+[order]
+s1,s2,s3,s4

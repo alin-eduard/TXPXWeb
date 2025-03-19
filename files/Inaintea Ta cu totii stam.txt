@@ -1,0 +1,20 @@
+[r1]
+Inaintea Ta cu totii stam,
+prezenta Ta o onoram
+In fata Ta ne plecam,
+mainile le ridicam
+
+[r2]
+Vrednic esti sa fii laudat
+Vrednic esti sa fii-naltat.
+Proslavit vei fii mereu
+Sfinte Tata Dumnezeu.
+
+[s1]
+Meriti sa fii laudat
+Meriti sa fii inaltat
+Meriti sa fii preamarit
+Meriti sa fii proslavit.
+
+[order]
+r1,r2,r1,r2,s1

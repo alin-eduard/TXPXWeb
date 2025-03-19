@@ -1,0 +1,24 @@
+[s1]
+O poartă e deschisă
+S-ajungi în ceruri sus
+Numele ei e Golgota.
+De vrei să mergi spre Isus
+Să fii al Lui de-acum
+O, vino azi la Golgota!
+
+[r1]
+Mai este loc la cruce pentru tine!
+Mai este loc la cruce pentru oricine!
+Mai este loc pentru întreg Pămîntul!
+Mai este loc, mai este loc!
+
+[s2]
+Oricine-ai fi în lume
+Şi orice nume porţi
+Tu ai nevoie de Isus.
+Hai, vino şi primeşte-L
+La cruce stă şi-acum
+Te va primi, căci El e bun!
+
+[order]
+s1,r1,s2,r1

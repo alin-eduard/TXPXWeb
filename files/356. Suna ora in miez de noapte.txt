@@ -1,0 +1,71 @@
+[s1]
+Sună ora-n
+miez de noapte
+Scoală frate sus
+Căci nu mai e timpul frate,
+Timpul de pierdut.
+356.
+
+[r1]
+Cor: Sună ora, sună, sună,
+Căci Mirele va veni
+/:Şi atunci vai va fi:/
+Şi atunci vai de cei
+Ce nu s-or pocăi.
+
+[s2]
+2. Sună ora în miez de noapte
+Să te pregăteşti
+Căci vine Mirele frate
+Ca să-L întâlneşti.
+
+[s3]
+3. Sună ora în miez de noapte
+Ia-ţi candela ta
+Cu care pe Mire frate
+Vei întâmpina.
+
+[s4]
+4. Sună ora în miez de noapte
+Scoală frate sus
+Căci vine Stăpânul nostru
+Mirele Isus.
+
+[s5]
+5. Sună ora în miez de noapte
+Vino frate acum
+Nu mai sta în nepăsare
+În cale pe drum.
+
+[s6]
+6. Sună ora în miez de noapte
+Schimbă-ţi viaţa ta
+Şi vei fi încununat
+Cu însăşi mâna Sa.
+
+[s7]
+7. Sună ora în miez de noapte
+Nu mai zăbovi
+Vino chiar acuma frate
+Te vei mântui.
+
+[s8]
+8. Sună ora în miez de noapte
+Lasă-te de rău
+Şi de fapte ruşinoase
+Vin' la Dumnezeu.
+
+[s9]
+9. Sună ora în miez de noapte
+Nu te împietri
+Căci Isus acuma bate
+În uşa inimii.
+
+[s10]
+10. Sună ora în miez de noapte
+Te cheamă mereu
+Dacă laşi pe mâine frate
+Va fi prea târziu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1,s8,r1,s9,r1,s10,r1

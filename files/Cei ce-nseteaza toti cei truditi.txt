@@ -1,0 +1,25 @@
+[s1]
+Cei ce-nsetează, toţi cei trudiţi
+Să vină la ape,
+la izvorul lui Dumnezeu
+Dureri şi regrete se vor spăla
+Râul de mila,
+ce curge val cu val.
+
+[s2]
+Isus, Te chemăm x4
+
+[s3]
+Cei ce-nsetează, toti cei trudiţi
+Să vina la ape,
+la izvorul lui Dumnezeu
+Dureri şi regrete se vor spăla
+Râul de mila,
+ce curge val cu val.
+
+[s4]
+Isus, Te chemăm x4
+Duh Sfânt, Te chemăm x4
+
+[order]
+s1,s2,s3,s4

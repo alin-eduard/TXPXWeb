@@ -1,0 +1,32 @@
+[s1]
+1397.
+1.  Cu blândeţe şi drag Isus ne cheamă
+Pe tine şi pe mine
+La uşa inimii stă şi aşteaptă
+Pentru tine şi mine.
+Cor: Veniţi acas’ osteniţilor veniţi
+Cu blândeţe şi drag Isus te cheamă
+Păcătosule vino.
+
+[s2]
+2.  Ce să aşteptăm când Isus ne cheamă
+Pe tine şi pe mine
+De ce să nu primim a lui milă
+Pentru tine şi mine.
+Cor: Veniţi acas’ osteniţilor veniţi
+Cu blândeţe şi drag Isus te cheamă
+Păcătosule vino.
+
+[s3]
+3.  Timpul fuge, momentele iute trec
+De la tine şi mine
+Ora morţii durerile se ivesc
+Pentru tine şi mine
+El ne iartă chiar de am păcătuit
+Pe tine şi pe mine.
+Cor: Veniţi acas’ osteniţilor veniţi
+Cu blândeţe şi drag Isus te cheamă
+Păcătosule vino.
+
+[order]
+s1,s2,s3

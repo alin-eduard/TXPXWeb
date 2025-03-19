@@ -1,0 +1,35 @@
+[s1]
+Vedem in lume azi doar necaz si ura
+Tot ce-auzim in jur e murdar si e trist
+Sunt multi cei ce afirma:
+« Pamantul e aproape sfarsit »
+Caci tot ce-avem se sfarma-n zgura
+Ce-a fost bun a pierit.
+Pamantul are legi ce se cer vazute
+Dar noi uitam ades de legea din suflet
+Si incercam din greu o viata mai buna s-avem
+Dar nu vedem cat de departe suntem de adevar
+
+[s2]
+/: De-aceea vreau cu tot ce sunt
+Sa stau ferm in al Sau cuvant
+Sa-l urmez pe El intr-o lume-a disperarii
+As vrea sa las in urma mea
+Pentru cei ce-mi vor urma
+Drepte cai spre cer intr-o lume a pierzarii :/
+
+[s3]
+Ne spunem toti crestini si credem ca-i asa
+Dar D-zeu din noi e alungat de pacat
+Iar noi in singura-Ti stam
+Straini de el cu sufletul gol
+Cand El ar fi raspunsul lumii in nevoi
+
+[s4]
+Noi am fost chemati sa fim marturia
+Unei vieti traite pentru cer
+Ca cei ce maine vor veni
+Sa-si poarte pasii-n adevar
+
+[order]
+s1,s2,s3,s4

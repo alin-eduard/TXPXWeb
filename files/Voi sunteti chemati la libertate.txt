@@ -1,0 +1,38 @@
+[s1]
+Voi sunteţi chemaţi la libertate
+Într-o lume plină de mister
+Doamne, Tu eşti viaţă
+Şi noi vrem cu Tine să trăim.
+Voi sunteţi chemaţi la libertate
+Şi aici, misterul dezlegaţi
+Doamne, Tu eşti Tată
+Noi copii, în mâna Ta suntem.
+
+[r1]
+Tu ne spui, o, Doamne
+Tu eşti adevărul
+Ascultând de Tine
+Liberi vom fi
+
+[s2]
+Voi sunteţi chemaţi la libertate
+Nu mai staţi, închişi în colivii
+Hai, deschideţi poarta
+Să zburaţi în dorul de-a trăi
+Voi sunteţi chemaţi la libertate
+Nu mai staţi cu ochii înlăcrimaţi
+Hai, să Îmi beţi mai dulce
+Şi curaj, voi tuturor să daţi.
+
+[s3]
+Voi sunteţi chemaţi la libertate
+La o forţă de neînlocuit
+Ea ne dă speranţă
+De-am greşit, la Tine să venim
+Voi sunteţi chemaţi la libertate
+Şi senini, în braţe să paşiţi
+Pentru că-n lume,
+Îl aveţi alături pe Hristos.
+
+[order]
+s1,r1,s2,r1,s3,r1

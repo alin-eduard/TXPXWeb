@@ -1,0 +1,27 @@
+[s1]
+1.	N-am să uit vreodată ziua minunată
+Când Domnul m-a-ntrebat:
+Vrei să-ţi iau povara şi să fii salvat?
+1029.
+
+[r1]
+/: Născut din nou :/
+El m-a născut din nou
+Slavă Îi dau Domnului meu
+Căci m-a născut din nou.
+
+[s2]
+2.     Nu te-ngrijora de ziua ce-o veni
+Căci El te va păzi
+Vrei amice dragă ca să fii salvat
+Vino şi vei fi iertat.
+
+[s3]
+3. Isus stă şi bate
+La inima ta
+Deschide-I, nu-L refuza
+Fiind condus de Domnul
+Toată viaţa ta îi vei cânta.
+
+[order]
+s1,r1,s2,r1,s3,r1

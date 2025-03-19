@@ -1,0 +1,51 @@
+[s1]
+1. Vino tu la Isus prietene dragă
+Vino şi salvează-ţi viaţa din păcat
+Vino tu la Isus când auzi chemarea
+Vino mai degrabă ca să fii salvat.
+358.
+
+[s2]
+2. Isus te primeşte deschide-ţi inima
+Spune-i Lui necazul şi suferinţa ta
+Isus îţi dezleagă lanţul de păcat
+În care Satana te ţinea legat.
+
+[s3]
+3. Dă la o parte cearta,
+Minciuna şi înjuratul
+Că Satana îţi spune
+Ca să iubeşti păcatul
+
+[s4]
+4. Să-ţi pierzi mântuirea
+În Isus Hristos
+Să arzi şi tu ca dânsul
+În focul dureros.
+
+[s5]
+5. Dar tu deschide-ţi ochii
+Şi uită-te la Isus
+Căci pentru tine
+Viaţa pe Golgota şi-a pus
+
+[s6]
+6. Ca să ai viaţă
+Şi parte cu Isus
+Cu Avraam, Isaac şi Iacov
+În patria de sus.
+
+[s7]
+7. Cunună pe a ta frunte
+Isus El îţi va da
+Îţi şterge el sudoarea
+Şi orice lacrimă
+
+[s8]
+8. Vei moşteni tu raiul
+Cu sfinţi heruvimi
+Vei lăuda pe Domnul
+În veci de veci Amin.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

@@ -1,0 +1,51 @@
+[s1]
+1222
+În părtăşia dintre fraţi în Domnul
+Neveghind pe altul l-am lovit
+Cu glasul blând Isus îmi porunceşte
+Să-mi cer iertare şi să fiu smerit
+Cor: 	Iartă-mă frate (soră)
+Dacă ţi-am greşit
+Căci fără voie poate te-am lovit
+Întinde mâna, uită vina mea
+Şi pace sfântă Domnul ne va da
+1.
+
+[s2]
+În mărturia mea mă laud cu El
+Cu fericirea care El mi-a dat
+Dar pentru cel ce-şi duce greu povara
+Nu am prilej, nici timp de ajutat
+2.
+Cor: 	Iartă-mă frate (soră)
+Dacă ţi-am greşit
+Căci fără voie poate te-am lovit
+Întinde mâna, uită vina mea
+Şi pace sfântă Domnul ne va da
+
+[s3]
+Atunci când ochii mei nu îşi văd bârna
+Dar paie în al fraţilor zăresc
+Isus Hristos îmi luminează faţa
+Şi-mi spune-ndată să mă pocăiesc
+3.
+Cor: 	Iartă-mă frate (soră)
+Dacă ţi-am greşit
+Căci fără voie poate te-am lovit
+Întinde mâna, uită vina mea
+Şi pace sfântă Domnul ne va da
+
+[s4]
+Prin jertfa Sa Isus ne mântuieşte
+Doar dacă noi vom şti a ne ierta
+Căci mai presus de orice greş, iubirea
+Acoperă şi vina mea şi-a ta
+4.
+Cor: 	Iartă-mă frate (soră)
+Dacă ţi-am greşit
+Căci fără voie poate te-am lovit
+Întinde mâna, uită vina mea
+Şi pace sfântă Domnul ne va da
+
+[order]
+s1,s2,s3,s4

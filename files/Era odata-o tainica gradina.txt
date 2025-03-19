@@ -1,0 +1,32 @@
+[s1]
+Era odata-o tainica gradina
+In care Domnul se ruga plangand
+/: Si fata Lui cea plina de lumina
+Era-ntristata pana la mormant :/
+
+[s2]
+De multe ori, pe fata Lui, cazuse
+Si se ruga cu mult amar, nespus:
+/: Sa treaca Tata sa nu beau paharul!
+Paharul suferintei lui Isus! :/
+
+[s3]
+O, Ghetsimani, gradina suferintei,
+In tine plange Domnul cu amar
+/: Si-apoi se-mbraca-n haina umilintei
+Si-si pregateste drumul spre calvar.:/
+
+[s4]
+O, Ghetsimani, gradina neuitata,
+Tu ai vazut durerea lui Isus
+/: Si Iuda cand l-a sarutat odata
+pe Domnul stralucirilor de sus :/
+
+[s5]
+O, Ghetsimani, as vrea sa fiu in tine,
+Sa vad si locul unde El a plans
+/: Sa plang si eu, cu lacrimi si suspine
+Sa plang, caci pentru mine, El a plans :/
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,59 @@
+[s1]
+1
+Chemaţi, prin cântări bucuria!
+Chemaţi-o cu voi când lucraţi,
+Căci Tatăl vă dă-mpărăţia,
+Ca-n ea voi să vă bucuraţi.
+Re m
+
+[s2]
+2
+/: Lăsaţi bucuria să vină,
+Ea-ntrece comori şi averi,
+Aşa-i bucuria divină
+Te umple de sfinte puteri. :/
+
+[s3]
+3
+Trezeşte-te azi tu, ţărână!
+Şi suflet şi duh vă treziţi
+Şi arfă şi tu alăută,
+Cu toate-ntr-un glas vă uniţi!
+
+[s4]
+4
+/: Căci Tatăl găseşte plăcere
+În fiul ce-i vesel oricând,
+Ce greul şi multă durere
+Le duce pe umeri cântând. :/
+
+[s5]
+5
+Lăsaţi bucuria divină
+Să salte pe faţă şi-n duh!
+Cu El veţi putea voi străbate
+Pustiul cu-al lui greu zăduf.
+
+[s6]
+6
+/: Amarul şi îngrijorarea
+Fugi-vor de parcă n-au fost;
+Cântarea va pune pe fugă
+Întreg iadul cel fioros. :/
+
+[s7]
+7
+Mereu bucuraţi-vă-n toate
+Şi-n toate afla-veţi cântări,
+Şi-n El aripi ca să vă poarte
+Spre tot mai seninele zări.
+
+[s8]
+8
+/: Din ceruri pornită-i cântarea
+Şi-n ceruri se va-ntoarce iar,
+Păstraţi-i curată cărarea
+Ce duce spre marele har. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

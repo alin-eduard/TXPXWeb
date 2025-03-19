@@ -1,0 +1,32 @@
+[s1]
+Stii tu ce port în pieptul meu?
+Pace, fericire.
+Mi-e sters păcatul cel mai greu,
+Pace, fericire!
+
+[r1]
+Izvor de pace e Domnul
+Pace, pace, fericire.
+Tot mai sus îmi iau zborul,
+Către Domnul meu!
+
+[s2]
+De-ngrijorare sunt scăpat
+Pace, fericire,
+La Domnul am să fiu chemat
+Pace, fericire.
+
+[s3]
+Spre cer e drumul meu mereu
+Pace, fericire,
+S-ajung curând la Dumnezeu
+Pace, fericire.
+
+[s4]
+Acolo se sfârsesc dureri
+Pace, fericire.
+Sunt nesfârsite mângăieri
+Pace, fericire.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

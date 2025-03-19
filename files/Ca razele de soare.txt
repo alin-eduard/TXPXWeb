@@ -1,0 +1,52 @@
+[s1]
+Ca razele de soare
+Ce strălucesc frumos,
+Aşa-i a Ta splendoare,
+Iubitul meu Hristos.
+/: Vino! Vino!
+Iubitul meu Isus!
+Te-aştept de dimineaţă
+Şi până la apus. :/
+
+[s2]
+Când negura se-aşterne
+Şi când e norul gros,
+Îşi pierde strălucirea
+Chiar soarele frumos.
+/: Vino! Vino!
+Strabate printre nori,
+E-atata strălucire,
+Atunci când Tu cobori. :/
+
+[s3]
+Şi azi, ca ucenicii,
+Ne clătinăm în val,
+Cuprinşi de duhul fricii
+Ca n-ajungem la mal.
+/: Vino! Vino!
+În faţă ne răsari,
+E-atata strălucire,
+Atunci când Tu apari. :/
+
+[s4]
+Un cântec azi răsuna,
+Peste câmpii şi văi...
+O, vino, de-Ţi adună
+În grabă pe ai Tăi!
+/:Vino! Vino!
+Răsună ne'ncetat
+Din pieptu-acelor care,
+Tu i-ai răscumpărat. :/
+
+[s5]
+Un strop de vindecare
+Pe rane să ne pui!
+În barca de salvare,
+La Tine să ne sui!
+/:Vino! Vino!
+Pe aripa de nor,
+Să merg la Tine-acasă
+Atata mi-e de dor... :/
+
+[order]
+s1,s2,s3,s4,s5

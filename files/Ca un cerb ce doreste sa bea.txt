@@ -1,0 +1,20 @@
+[s1]
+/:Ca un cerb ce doreşte să bea
+Numai din izvor curat
+Tot aşa şi sufletul meu Te vrea
+Pe Tine Dumnezeu Prea’Nalt
+
+[s2]
+Eşti izvor de bucurie
+Eşti izvor de apă vie
+Care umple viaţa mea
+Numai de iubirea Ta
+Izvor curat
+Din veşnicie:/
+
+[s3]
+/:Curgi înspre noi:/x3
+Cu duh de viaţă
+
+[order]
+s1,s2,s3

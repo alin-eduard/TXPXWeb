@@ -1,0 +1,42 @@
+[s1]
+Aş vrea să fiu ca un înger,
+Curat şi nepătat;
+Coroană să am pe frunte,
+Şi harpă de cântat.
+Şi-apoi să-L laud pe Isus,
+Mântuitorul meu,
+În orice zi şi noapte,
+La bine şi la rău.
+
+[s2]
+Eu ştiu că am păcate,
+Dar Isus mi le ia;
+Eu văd copii mulţime
+În cer ‘naintea Sa.
+Isuse când muri-voi
+Şi fi-voi îngropat,
+Trimite ai Tăi îngeri,
+La Tin’ să fiu luat.
+
+[s3]
+Dureri şi oboseală
+Şi plâns acolo nu-s;
+Chiar grijurile toate
+Şi frica s-au distrus.
+Curat şi făr’ de pată
+Cu totul transformat,
+Încojurat de îngeri
+Stau l-al meu împărat.
+
+[s4]
+Atunci voi fi ca înger
+Curat şi nepătat;
+Coroană am pe frunte
+Şi harpă de cântat.
+Şi-atunci îl laud pe Isus
+Cu corul îngeresc,
+Mă-nchin în faţa Celui
+Ce-I Miel Dumnezeiesc.
+
+[order]
+s1,s2,s3,s4

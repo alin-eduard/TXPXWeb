@@ -1,0 +1,68 @@
+[s1]
+Eu am acasă o scumpă mamă
+Ce-o iubesc şi-o cinstesc cu mult dor
+/: Şi doresc ca mereu, inima mea
+Să o ţin tot aproape de ea :/
+
+[s2]
+Eu n-aş vrea să o supăr vre-o dată
+Ci să-i aduc bucurii zi de zi
+/: Să îi spun: te iubesc mamă dragă
+Şi vrem să fim în cer într-o zi :/
+
+[s3]
+I-aş aduce mamei flori gingaşe
+Şi i-aş strânge-n piept parfumul lor
+/: Aş vorbi vorbe dulci şi duioase
+Să-i zâmbesc totdeauna cu dor :/
+
+[s4]
+Dumnezeu mi-a dat un dar în lume
+Este mama, un dar scump şi sfânt
+/: Nu există mai preţios nume
+Cât aş căuta pe-ntreg pământ :/
+
+[s5]
+Jertfa mamei stă în miez de noapte
+Ca lumina soarelui, de zi
+/: Ea întotdeauna e străjerul
+Ce veghează pe a ei copii :/
+
+[s6]
+Când eşti trist, ea îţi dă mângâiere
+Când te zbuciumi îţi dă sfatul ei
+/: De-o asculţi, eşti fericit in viaţă
+Şi pe cale sunt drepţi paşii tăi :/
+
+[s7]
+Voi de mai aveţi astăzi o mamă
+Să nu o întristaţi nicidecum
+/: Să-i aduceţi mângâiere-n inimă
+Sa fiţi voi darul ei cel mai scump :/
+
+[s8]
+Să nu uiţi glasul mamei vre-o dată
+Ce-ţi vorbea-n clipe grele cu dor
+/: Să nu uiţi lacrima ei răzleaţă
+Când plângea pentru al ei odor :/
+
+[s9]
+Să nu uiţi zâmbetul scump de mamă
+Şi-ocrotirea ei în ceasul greu
+/: Să nu uiţi vorba ei cea duioasă
+Ce-alina durerea-n trupul tău :/
+
+[s10]
+Dar eu ştiu că într-o zi cu mama
+M-oi întâlni cu ea în cer, sus
+/: Că am ascultat de ea în viaţă
+Voi ajunge şi eu la Isus :/
+
+[s11]
+Şi când ceasul plecării se-apropie
+Să veghezi tu, atunci lângă ea
+/: S-o mângâi şi s-o săruţi pe frunte
+Să-i şopteşti: te iubesc, mama mea :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11

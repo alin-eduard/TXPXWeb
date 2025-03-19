@@ -1,0 +1,32 @@
+[s1]
+Într-o zi m-am desteptat,
+Pe genunchi m-am asezat
+Printre lacrimile Lui Isus
+Tot ce mă durea i-am spus
+Iartă-mi Doamne vina mea,
+Lumea aceasta mi-a luat
+Tot ce aveam m-ai scump
+Dar azi Tie mă predau.
+
+[r1]
+Viata mea e-n Mana Ta
+Dragostea va triumfa
+Pentru mine ai lăsat
+Chiar coroana de-mpărat
+Ai venit jos pe pământ
+Te-ai jertfit ca Miel Preasfant
+Cât de mult Tu m-ai iubit
+Viata Ta mi-ai daruit.
+
+[s2]
+Astazi recunoscător
+Mă închin cu mare dor
+După cerul Tău senin,
+După Harul Tău divin
+Stiu că Tu ai înviat,
+Si la cer Te-ai înăltat
+Să ne pregătesti loc sfânt,
+Unde vesnic o să-ti cânt.
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,40 @@
+[s1]
+Domnul e cu tine, Israel iubit!
+Ce-a promis, El duce până la sfârşit.
+/: Mâna Lui vedea-vei cum lucra-va azi.
+Mergi cu El 'nainte, mergi ca un viteaz! :/
+Fa major
+
+[s2]
+Ce putere poartă, sub pecetea Sa,
+Cuvântul ce-l spune sfântă Biblia!
+/:Dacă tu vei crede, pe deplin convins;
+Vei vedea pe Domnul, cel ce-i neînvins! :/
+
+[r1]
+Domnul e cu tine, Israel iubit!
+Ce-a promis, El duce până la sfârşit.
+/: Mâna Lui vedea-vei cum lucra-va azi.
+Mergi cu El 'nainte, mergi ca un viteaz! :/
+
+[s3]
+Prin furtuni, în viaţă oamenii-s învinşi
+Şi-n dureri şi grijuri lumea i-a cuprins;
+Cei ce sunt în lume, privesc disperaţi...
+Noi privim la Domnul şi suntem salvaţi.
+
+[s4]
+Bizuiţi pe Domnul, pe Cuvântul sfânt,
+Bazaţi pe credinţa-n sfântul legământ,
+Tot ce noi Îi cerem, El azi ne va da,
+Căci la El sunt toate, sunt în mâna Sa!
+
+[s5]
+Toţi să-mi stea-mpotrivă,
+marea-n spume chiar!
+Nu mă tem, căci astăzi sunt sub dreapta Sa!
+El mă ocroteşte, El mi-e ajutor,
+Tot El mă va scoate-n veci biruitor!
+
+[order]
+s1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,21 @@
+[s1]
+Hai şi laudă-L pe
+Domnul Sfânt, Aleluia!
+Laudă-L, pe El cântând Aleluia!
+/: /: Laudă-L :/ x4
+Laudă-L, pe El cântând, Aleluia!:/
+
+[s2]
+Cel născut la Betleem, Aleluia!
+Fiu de om, de Dumnezeu, Aleluia!
+/: /: El, Isus :/ x4
+Fiu de om, de Dumnezeu, Aleluia! :/
+
+[s3]
+Într-o zi vom fi cu El, Aleluia!
+Fericiţi în Raiul Său, Aleluia!
+/: /: Fericiţi :/ x4
+Fericiţi în Raiul Său, Aleluia! :/
+
+[order]
+s1,s2,s3

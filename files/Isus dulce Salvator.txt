@@ -1,0 +1,26 @@
+[r1]
+/: Isus, dulce Salvator
+Aş vrea să ştii că Te iubesc.
+Tu eşti un bun sfătuitor
+Şi Îţi mulţumesc. :/
+
+[s1]
+Isus e mângâierea mea
+şi un prieten minunat,
+În încercarea cea mai grea
+ajutor îmi este ne-ncetat.
+
+[s2]
+Isus este iubirea mea
+şi pacea sufletului meu
+Prin jertfa Sa de pe Calvar,
+m-a făcut fiu de Dumnezeu.
+
+[s3]
+Isus este tăria mea,
+o stâncă-n valul furios,
+Ca o fântână în pustiu,
+o speranţă e Isus Cristos.
+
+[order]
+r1,s1,r1,s2,r1,s3,r1

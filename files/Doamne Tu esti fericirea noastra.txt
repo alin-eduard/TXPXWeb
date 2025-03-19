@@ -1,0 +1,32 @@
+[s1]
+Doamne Tu eşti fericirea noastră,
+Noi pe Tine-n veci Te lăudăm
+Că ne umpli viaţa de lumină
+Şi de harul Tău ne bucurăm.
+
+[r1]
+Fii slăvit în veci, Isuse,
+Că pe noi ne-ai mântuit!
+Ne-ai scăpat de veşnica pedeapsă
+Preţul fericirii l-ai plătit.
+
+[s2]
+Când vrăşmaşul vrea să ne doboare
+Şi cu noi e-n luptă ne-ncetat,
+Ajutorul Tău ne e scăpare,
+Biruinţa ne-a înconjurat.
+
+[s3]
+Doamne-Ţi mulţumim pentru scânteia
+Dragostei, în inimi, ce ne-ai dat,
+Pentru multa binecuvântare
+Ce-n viaţa noastră-ai revărsat!
+
+[s4]
+Mulţumim, slăvit Isuse,
+Că din harul Tău ne-ai dat
+Şi dorim ca-n orice-mprejurare
+Fericiţi să-naintăm spre Rai.
+
+[order]
+s1,r1,s2,r1,s3,s4

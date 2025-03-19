@@ -1,0 +1,45 @@
+[s1]
+Tu te-ai întrebat vreodată,
+suflete nepăsător
+Cum vei sta la judecată,
+suflet, fără-apărător?
+Invitat ai fost la ceruri
+suflete, ce ai ales?
+Ai ales tu calea vieţii,
+ori pierzarea cea de veci?
+
+[r1]
+Cînd Domnul va veni pe nori
+Ca drept, măreţ Judecător
+Te-ai întrebat şi tu, unde vei fi?
+/:Nu te-nşela, amicul meu
+Că vei ajunge-n chinul greu
+Întoarce-te din pierzare astăzi la Isus:/
+
+[s2]
+Ce vei face-n ceasul morţii,
+cel înfricoşat şi drept
+Vei avea atunci putere, tu,
+vrăjmaş cu Dumnezeu?
+Vei fi alungat departe,
+căci tu nu L-ai cunoscut
+Toată slava lumii piere şi tu, suflet, eşti pierdut.
+
+[s3]
+Cînd Domnul va veni pe nori
+Ca drept, măreţ Judecător
+Te-ai întrebat şi tu, unde vei fi?
+Nu te-nşela, amicul meu
+Că vei ajunge-n chinul greu!
+Întoarce-te din pierzare astăzi la Isus!
+
+[s4]
+Cînd Domnul va veni pe nori
+Ca drept, măreţ Judecător
+Îi va lua pe toţi aleşii Lui.
+În fericirea cerului
+Cîntînd cîntarea Mielului
+Va răsuna atunci cîntarea-nvingerii !
+
+[order]
+s1,r1,s2,s3,s4,r1

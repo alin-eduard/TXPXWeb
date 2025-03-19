@@ -1,0 +1,33 @@
+[s1]
+Vino foc Divin arde tot ce-i rău
+Din inima mea
+Curătit deplin, cu-n argint curat,
+Vreau să fiu
+
+[r1]
+Tată ceresc, tot ce eu doresc,
+E să fiu sfânt să trăiesc pentru Tine
+Aleg să fiu sfânt,
+dedicat numai Tie Doamne,
+Gata să Te urmez
+
+[s2]
+Spală-mi inima si lăuntrul meu
+Să pot să fiu sfânt
+Vreau să fiu curat, ia păcatul meu
+Cu focul Tău
+
+[s3]
+Eu n-am meritat
+Cum sa-Ti multumesc,
+Ai luat păcatul meu cu focul Tău
+
+[s4]
+/: Tată ceresc, tot ce Tu doresti,
+E să fiu sfânt să trăiesc pentru Tine
+Aleg să fiu sfânt,
+dedicat numai Tie Doamne,
+Gata să Te urmez :/
+
+[order]
+s1,r1,s2,r1,s3,s4

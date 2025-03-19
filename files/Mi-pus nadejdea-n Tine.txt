@@ -1,0 +1,28 @@
+[s1]
+Mi-am pus nadejdea-n Tine
+Sa nu fiu dat de rusine
+Mi-am pus nadejnea-n Tine
+Vrăjmasii mei
+să nu se bucure de mine
+Sa nu se bucure de mine
+
+[r1]
+In Tine e nadejnea mea
+In Tine e speranta mea
+Doar prin Tine izbavire voi primi
+Cu Tine neincetat voi birui
+
+[s2]
+Steag de biruinta
+Esti steag de biruinta
+In lupta-nversunata
+Cu Tine lupta-i castigata
+
+[s3]
+Tu-mi esti stanca tare
+Ajutor cand imi este greu
+Tu-mi esti stanga tare
+Tu esti Dumnezeul meu
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,28 @@
+[s1]
+1336                  								  Re b m
+1. Sunt un pribeag fără de ţară
+Rătăcitor pe-un drum pustiu
+Dar am în ceruri o comoară
+Şi ţara mea-i în veşnicii.
+
+[r1]
+Cor:	Mă-ndrept spre cer
+Să-L văd pe Domnul
+Să nu mai fiu un peregrin
+Căci după ce-am să trec Iordanul
+Se va sfârși şi-al meu suspin.
+
+[s2]
+2.Tu vezi ce grea mi-e înaintarea
+Mă lupt să biruiesc mereu
+Un dor nespus mă cheam-acasă
+E dorul după Dumnezeu.
+
+[s3]
+3. Voi lepăda a mea povară
+Eliberat sub crucea Sa
+Nădejdea mea nu o să moară
+Şi voi intra-n odihna Sa.
+
+[order]
+s1,r1,s2,r1,s3,r1

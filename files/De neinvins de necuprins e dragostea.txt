@@ -1,0 +1,18 @@
+[s1]
+De neînvins, de necuprins e dragostea
+Şi peste mări şi peste zări străbate ea.
+/: Din cer de sus veni Isus şi Se jertfi
+Ca eu să ştiu că Dumnezeu,
+chiar Tatăl meu, e dragostea. :/
+
+[s2]
+De neînvins, de necuprins e dragostea
+Ea rabdă tot, ea crede tot
+şi-n veci va sta.
+/: Cînd e pustiu şi cînd sub cer
+mă simt stingher
+Şi-atunci eu ştiu că Dumnezeu,
+chiar Tatăl meu, e dragostea. :/
+
+[order]
+s1,s2

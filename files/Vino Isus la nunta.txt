@@ -1,0 +1,27 @@
+[s1]
+Vino Isus la nuntă
+Vino şi ia Tu parte
+Şi-o bucurie sfântă
+Vino de ne-mparte
+Do M
+
+[r1]
+Binecuvântă-i Doamne
+Noi Te rugăm acuma
+Fie uniţi de Tine
+Pentru totdeauna
+
+[s2]
+Uneşte-i Tu în viaţă
+Uneşte-i pân-la moarte
+Îndrumă-i Tu în viaţă
+Ca sfinţi să se poarte
+
+[s3]
+Mai este înc-o nuntă
+O nuntă minunată
+Căsătoria sfântă
+Ce-n veci nu se gată
+
+[order]
+s1,r1,s2,r1,s3,r1

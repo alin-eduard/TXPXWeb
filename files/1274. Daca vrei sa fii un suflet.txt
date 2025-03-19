@@ -1,0 +1,34 @@
+[s1]
+1274
+1. Dacă vrei să fii un suflet
+Prețuit de frații tăi
+Luptă-te să fii tu primul
+Ce slujește între ei
+
+[r1]
+Cor: Să fii rob, dar să fii fiu
+Să fii mort, dar să fii viu
+Să fii prinț, dar să nu fii
+Să fii sfânt,dar să nu știi
+
+[s2]
+2. Caută locul cel din urmă
+Fii smerit și cumpătat
+Mâna stângă să nu știe
+Dreapta ce și cui a dat.
+
+[s3]
+3. Caută mereu sfințirea
+Ne-ndoielnic fii in crez
+Toți să-ți vadă viața sfântă
+Numai tu să nu ți-o vezi.
+
+[s4]
+4. Frați să vadă-n
+tine-un înger
+Cum trăiești și cum lucrezi
+Toți să creadă-n neprihană
+Însă tu să nu te-ncrezi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

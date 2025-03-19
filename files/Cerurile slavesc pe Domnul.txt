@@ -1,0 +1,26 @@
+[s1]
+Cerurile slavesc pe Domnul
+Slavesc pe-a lumii creator
+Lucrarile Lui minunate
+Cu-ntelepciune le-a creat!
+Cantati popoare slava Sa
+In veci cantati, Aliluia!
+
+[s2]
+Soarele, luna, stelele,
+Vestesc prin stralucirea lor
+Intelepciunea Domnului.
+Maresc pe Bunul Creator!
+Marea vuieste spumegand
+Pamantu-i plin de slava Lui
+Munti, dealuri, rauri si campii
+Despre Domnul sunt martorii vii.
+
+[s3]
+Lauda si tu sufletul meu
+In orice zi, in tot locul!
+Lauda-L si nu uita nicicand
+pe Dumnezeu Tau
+
+[order]
+s1,s2,s3

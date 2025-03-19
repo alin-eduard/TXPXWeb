@@ -1,0 +1,49 @@
+[s1]
+1.	Doamne câtă fericire
+Câtă pace am simţit
+Câtă sfântă ocrotire
+De la Tine am primit.
+1066.      Do
+Cor: Cuvinte n-am de ajuns
+Să pot să-Ţi mulţumesc
+Că-n suflet mi-ai sădit
+Al Tău cuvânt
+
+[s2]
+Din grele strâmtorări
+Doar harul Tău ceresc
+M-a scos şi m-antărit
+Să pot să-ţi cânt.
+Când eram zdrobit pe cale
+Şi când toţi m-au părăsit
+Tu mi-ai fost a mea salvare
+Tu cu fapta m-ai iubit.
+2.
+
+[s3]
+Cor: Cuvinte n-am de ajuns
+Să pot să-Ţi mulţumesc
+Că-n suflet mi-ai sădit
+Al Tău cuvânt
+Din grele strâmtorări
+Doar harul Tău ceresc
+M-a scos şi m-antărit
+Să pot să-ţi cânt.
+
+[s4]
+Mâna Ta a fost cu mine
+Pretutindeni în nevoi
+M-a condus mereu cu bine
+Dându-mi iarăşi forţe noi.
+3.
+Cor: Cuvinte n-am de ajuns
+Să pot să-Ţi mulţumesc
+Că-n suflet mi-ai sădit
+Al Tău cuvânt
+Din grele strâmtorări
+Doar harul Tău ceresc
+M-a scos şi m-antărit
+Să pot să-ţi cânt.
+
+[order]
+s1,s2,s3,s4

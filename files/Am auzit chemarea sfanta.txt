@@ -1,0 +1,28 @@
+[s1]
+Am auzit chemarea sfîntă
+Noi vom merge înspre muntele cel sfînt.
+Acum am un Prieten în glorii
+Şi Lui singur mă rog de pe Pămînt.
+
+[r1]
+O, nici nu ştiu cum
+să spun cît e Domnul de bun
+Lacrima, grija mea,
+mi-a promis, le va purta.
+Da, eu ştiu, am un Prieten în glorii
+Şi Lui singur mă rog de pe Pămînt.
+
+[s2]
+Nu sînt mai mult decît ţărînă
+Dar Isus mă va ţine  în braţul Său
+Şi lacrimile-mi vor deschide
+Ochii, să Îl văd pe Isus, Domnul meu.
+
+[s3]
+Cuvîntul Sfînt dacă-L vom ţine
+Vom pleca spre ceruri sus cînd va veni
+Cununa de-aur ne va pune
+Şi vom fi toţi cu El în veşnicii.
+
+[order]
+s1,r1,s2,r1,s3,r1

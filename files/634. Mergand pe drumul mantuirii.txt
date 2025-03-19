@@ -1,0 +1,83 @@
+[s1]
+634.
+Cor: Aşa e drumul ce duce-n ceruri
+Prin suferinţă şi dureri
+Aşa e calea plină de lacrimi
+Aşa e drumul către cer.
+1. Mergând pe drumul mântuirii
+Eşti prigonit şi alungat
+Mai mult prin lacrimi şi suspine
+Şi adeseori eşti încercat.
+
+[s2]
+Cor: Aşa e drumul ce duce-n ceruri
+Prin suferinţă şi dureri
+Aşa e calea plină de lacrimi
+Aşa e drumul către cer.
+2. Abia ai ajuns şi vezi o rază
+Şi iar din nou s-antunecat
+Nu te-ntrista priveşte numai
+La Cel ce-n chinuri a răbdat.
+
+[s3]
+Cor: Aşa e drumul ce duce-n ceruri
+Prin suferinţă şi dureri
+Aşa e calea plină de lacrimi
+Aşa e drumul către cer.
+3. Pe drum înainte întâlneşti multe
+Iar fraţii tăi curse-ţi întind
+Eşti părăsit, lovit de oameni
+Aşa e drumul către cer.
+
+[s4]
+Cor: Aşa e drumul ce duce-n ceruri
+Prin suferinţă şi dureri
+Aşa e calea plină de lacrimi
+Aşa e drumul către cer.
+4. Te întăreşte şi mergi înainte
+C-atunci eşti fiu cu-adevărat
+Când eşti trecut prin încercare
+De Tine Domnul s-a bucurat.
+
+[s5]
+Cor: Aşa e drumul ce duce-n ceruri
+Prin suferinţă şi dureri
+Aşa e calea plină de lacrimi
+Aşa e drumul către cer.
+5. Prin foc şi grindină de-ai trece
+Nădejdea fie la Isus
+Căci plata ta va fi-mpătrită
+Căci ţi-o va da-o chiar Isus.
+
+[s6]
+Cor: Aşa e drumul ce duce-n ceruri
+Prin suferinţă şi dureri
+Aşa e calea plină de lacrimi
+Aşa e drumul către cer.
+6. Uita-vei plânsul şi clipe grele
+Ce amărăciune ţi-au adus
+Uita-vei spinii ce-nţepară
+Şi multe griji ce te-au cuprins.
+
+[s7]
+Cor: Aşa e drumul ce duce-n ceruri
+Prin suferinţă şi dureri
+Aşa e calea plină de lacrimi
+Aşa e drumul către cer.
+7. Iar dacă aici tu ai durere
+Şi adesea-n luptă cazi răpus
+Tu nu uita că-n ceruri este
+Biruitor doar El Isus.
+
+[s8]
+Cor: Aşa e drumul ce duce-n ceruri
+Prin suferinţă şi dureri
+Aşa e calea plină de lacrimi
+Aşa e drumul către cer.
+8. Acolo-n cer nu vor fi lacrimi
+Acolo nu va fi suspin
+Căci mângâierea noastră-i Domnul
+Cu El vom fi în veci. Amin
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

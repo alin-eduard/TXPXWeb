@@ -1,0 +1,47 @@
+[s1]
+2159
+1. Doamne unde voi pleca,
+Să m-ascund de fața Ta
+Și-n care parte, eu nu pot să știu
+De mă voi urca în cer,
+Sau n-al morții colț de fier
+Sau de mă voi preface-ntr-un pustiu.
+
+[r1]
+Cor: /: Doamne Tu mă cercetezi, De aproape și-mi cunoști
+Gândul meu și starea mea
+Știi când stau și când mă scol
+Iar când sufletul mi-e gol
+Eu primesc balsam din
+mâna Ta :/.
+
+[s2]
+2. Pe aripi de vultur chiar,
+Și așa va fi-n zadar
+De voi locui pe țărm de-ocean
+Și acolo dreapta Ta,  voi simți asupra mea
+Ce minunată e iubirea Ta.
+
+[s3]
+3. Va rămâne mai presus,
+Pentru meritul nespus
+Căci lumina mea este Isus
+Eu Te laud pe pământ, căci făptura care sunt
+Este aleasă pentru cerul sfânt.
+
+[s4]
+4. De aceea-Ți mulțumim, și pe Tine Te slăvim
+Alăturea de Tine vrem să fim
+Viața noastră Ți-o-nchinăm, noi pe Tine Te-nălțăm
+Și de aceea, noi Te lăudăm.
+
+[s5]
+Cor: /: Doamne Tu mă cercetezi, De aproape și-mi cunoști
+Gândul meu și starea mea
+Știi când stau și când mă scol
+Chiar când sufletul mi-e gol
+Eu primesc balsam din
+mâna Ta :/.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5

@@ -1,0 +1,45 @@
+[s1]
+1.	S-a-nţelenit ogoarele
+Şi-a dat buruiana-n vie
+Ce s-a făcut cu lucrătorii
+Căci amiaza nu mai vine.
+Cor:   / : Unde sunteţi voi lucrători : /
+1368.
+
+[s2]
+2.	Este timpul de lucrat
+Vase sunt destul de rare
+Toţi îşi văd de drumul lor
+Stau acasă fiecare.
+Cor:   / : Unde sunteţi voi lucrători : /
+
+[s3]
+3.	Iar ogoarele cu via
+Viţele stau la pământ
+Le-a copleşit buruiana
+Se ivesc din când în când.
+Cor:   / : Unde sunteţi voi lucrători : /
+
+[s4]
+4.	Când vine stăpânul viei
+Să vadă că-i înfrunzită
+Fără roadă o găseşte
+De iarbă e copleşită.
+Cor:   / : Unde sunteţi voi lucrători : /
+
+[s5]
+5.	Plânge stăpânul cu amar
+Că nu află nici o roadă
+Se plânge toată grădina
+Căci ea nu afost lucrată.
+Cor:   / : Unde sunteţi voi lucrători : /
+
+[s6]
+6.	Unde sunteţi voi lucrători
+Veniţi acum la Mine
+Să vă dau la fiecare
+Răsplata ce se cuvine.
+Cor:   / : Unde sunteţi voi lucrători : /
+
+[order]
+s1,s2,s3,s4,s5,s6

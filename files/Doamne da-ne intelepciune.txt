@@ -1,0 +1,31 @@
+[s1]
+Doamne da-ne intelepciune
+Si putere si iubire
+Doamne vrem sa ascultam Cuvantul Tau
+Azi venim in fata Ta
+Da-ne Doamne harul Tau
+Sa fim vii intru’ imparatia Ta,
+Trezeste-ne din nou.
+
+[r1]
+/: Doamne- atinge-ne din nou
+Peste noi Tu mana Ta s-o pui
+Si lumina Ta sa arda-n noi
+Prin puterea Duhului
+Pune-o dar nu pentru o zi
+Ci sa arda-n vesnicii in noi
+Cu adierea Duhului Tau Sfant
+Doamne atinge-ne din nou. :/
+
+[s2]
+Doamne multi au obosit
+Si in inimi sunt raniti
+Vindecarea lor
+E doar in mana Ta
+Sa ne atingi pe fiecare
+Cu puterea crucii Tale
+Sa fim vii intru imparatia Ta.
+Trezeste-ne din nou.
+
+[order]
+s1,r1,s2,r1

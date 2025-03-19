@@ -1,0 +1,48 @@
+[s1]
+Cerul si pamantul
+ne spune cuvantul vor pieri.
+Un lucru ramane
+peste timp si lume pe vecii.
+Ne-a fost daruita
+cu sange stropita la calvar.
+N-are asemanare
+sub intregul soare sau hotar.
+
+[r1]
+Evanghelia, Evanghelia,
+Evanghelia are putere.
+Evanghelia, Evanghelia,
+Evanghelia nicicand nu piere.
+
+[s2]
+Vremuri de prigoana
+Se strecoare-n goana, n-or lipsi
+temelia sfanta
+nu a fost zidita pe nisip.
+Unde-a fost vestita
+ea a fost primita ca un dar,
+in inimi pastrata
+si la altii data ca un jar.
+
+[s3]
+Cine-o implineste
+Fericit traieste tot mereu
+Si-n clipele grele
+Ii da mangaiere Dumnezeu.
+Ea ne este harul
+Ne-alunga amarul si ne da,
+Prin credinta-n Domnul,
+O viata-n ceruri vesnica.
+
+[s4]
+Ea mereu ne-nvaţă
+Si ne dă povaţă să trăim
+Calea ne arată
+Jertfa Domnului s-o preţuim
+Nu-i carte în lume
+Calea să ne-ndrume spre Isus
+Ea te luminează
+Si îţi dă viaţă-n cerul sfânt.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

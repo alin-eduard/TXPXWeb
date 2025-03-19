@@ -1,0 +1,38 @@
+[s1]
+Golgota, loc de durere;
+Golgota, o, nume trist,
+Eşti izvorul de putere
+Şi de viaţă-n Paradis.
+
+[s2]
+/: Golgotă, tu ne spui totul
+De Isus şi-al morţii chin,
+De-al Său sânge şi de cruce,
+De cununa Sa din spini. :/
+
+[s3]
+Simone de la Cirena,
+Doar tu ai putea să spui
+Cât de grea I-a fost Lui crucea,
+Când pe deal te-au pus s-o sui.
+
+[s4]
+/: Cât de mare I-a fost setea...
+Şi vedea cu ochii trişti...
+Îl dureau, vai, rău şi spinii...
+Rănile adânci din mâini... :/
+
+[s5]
+Aş dori s-ajung la cruce,
+Să mă plec şi să mă rog,
+Să Îi spun că-I dau inima
+Şi să-I spun că-s al Său rod;
+
+[s6]
+/: Să Îi spun: „Mi-e dor, Isuse,
+De Tine şi ţara Ta!"
+Să Îi las a mea povară:
+Numai El mi-o poate lua! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

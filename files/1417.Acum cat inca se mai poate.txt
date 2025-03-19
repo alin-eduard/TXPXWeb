@@ -1,0 +1,49 @@
+[s1]
+1.	Acum cât încă se mai poate
+Lucrează frate cu folos
+Căci nu-i mai preţios din toate
+Decât ce faci pentru Hristos
+Cât încă ai suflare-n tine
+Mai poţi ofrande să-i aduci
+Dar s-ar putea ziua de mâine
+Amicul meu să n-o apuci.
+1417.      La
+
+[r1]
+Cor:      Fă-ţi timp pentru El
+Fă-ţi timp pentru cer
+Din toate acestea-i mai pe sus
+Fă-ţi timp să iubeşti
+Fă-ţi timp să te jertfeşti
+Fă-ţi timp frate pentru Isus
+
+[s2]
+2.	Fă-ţi timp pentru acei ce-n lume
+Aleargă din rău spre mai rău
+Nu obosi ci spune spune
+De dragostea lui Dumnezeu
+Fă-ţi timp şi mergi fără cârtire
+La patul celor suferinzi
+Căci ei aşteaptă cu iubire
+Măcar o mână să-i întinzi.
+
+[s3]
+3.	Fă-ţi timp pentru copii care
+Rămas-au fără de părinţi
+Să-i daţi o simplă sărutare
+Şi-o clipă doar să îi alini
+Cât încă ai suflare-n tine
+Lucrează frate cu folos
+Căci ce faci pentru El rămâne
+Fă-ţi astăzi timp pentru Hristos.
+
+[s4]
+Cor:     Fă-ţi timp pentru El
+Fă-ţi timp pentru cer
+Din toate acestea-i mai pe sus
+Fă-ţi timp să iubeşti
+Fă-ţi timp să te jertfeşti
+Fă-ţi timp frate pentru Isus
+
+[order]
+s1,r1,s2,r1,s3,s4

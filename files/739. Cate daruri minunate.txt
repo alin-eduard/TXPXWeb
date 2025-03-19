@@ -1,0 +1,57 @@
+[s1]
+1.	Câte daruri minunate,
+Isuse, nouă ne-ai dat!
+Şi de câte ori căzut-am
+Mâna Ta ne-a ridicat...
+Cor:	     /: O, Domnul meu! :/
+Tu ai răbdat
+Şi ai murit pentru mine.
+739.                    Fa
+
+[s2]
+2.	Nici o jertfă de sub soare
+Nu-i mai scumpă ca a Ta,
+Când  suspini rănit, în cuie,
+Ai murit pe Golgota.
+Cor:	     /: O, Domnul meu! :/
+Tu ai răbdat
+Şi ai murit pentru mine.
+
+[s3]
+3.	Prea grea-i crucea pentru Tine
+Şi nu-s ucenicii Tăi,
+Că-i prea greu şi n-o poţi duce
+Să Ţi-o ia, s-o ducă ei.
+Cor:	     /: O, Domnul meu! :/
+Tu ai răbdat
+Şi ai murit pentru mine.
+
+[s4]
+4.	Mă gândesc s-ajung la cruce
+Să fac pentru El ce pot
+Să-I iau de pe cap cununa
+Ori piroanele să-I scot...
+Cor:	     /: O, Domnul meu! :/
+Tu ai răbdat
+Şi ai murit pentru mine.
+
+[s5]
+5.	Nu porţi flori pe fruntea sfântă
+Decât spinii cei mai răi
+Pentru cei ce-Ţi bat piroane
+Mergi ca să mori pentru ei.
+Cor:	     /: O, Domnul meu! :/
+Tu ai răbdat
+Şi ai murit pentru mine.
+
+[s6]
+6.	Simone de la Cirena
+Numai tu şi un tâlhar
+Ai stropit cu apă focul
+Când Se chinuia amar.
+Cor:	     /: O, Domnul meu! :/
+Tu ai răbdat
+Şi ai murit pentru mine.
+
+[order]
+s1,s2,s3,s4,s5,s6

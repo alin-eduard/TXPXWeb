@@ -1,0 +1,33 @@
+[s1]
+1.Nu pierde vremea degeaba
+Niciun ceas făr’ de-a lucra
+Căci vine seara degrabă
+Să lucrez nu-i mai putea.
+1192
+
+[r1]
+Cât e ziuă, lucră frate
+Nici un ceas nu mai zăbovi
+Căci sfârşitul e aproape
+Poate mâine vei muri.
+
+[s2]
+2.Să lucrezi, nu la ogoare,
+Ci în via lui Isus,
+Căci se-apropie sfârşitul
+Şi atunci, ce ai de spus?
+
+[s3]
+3.O, nu-l refuza pe Domnul,
+Care astăzi te-a chemat
+Să-L urmezi cu toată râvna,
+Că nu mai e timp de stat.
+
+[s4]
+4.Se apropie sfârşitul
+Poate-i chiar la uşa ta
+Când suna-va: Deşteptarea!
+Şi cei morţi vor învia.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

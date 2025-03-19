@@ -1,0 +1,48 @@
+[s1]
+Un Nume ca roua
+Coboară din ceruri
+Inundă Pămîntul
+Natura, mereu.
+În cîntec de păsări
+Culori şi parfumuri
+E Numele sacru -
+Din cer : Dumnezeu.
+
+[r1]
+Dumnezeu, Dumnezeu
+Dumnezeu cel minunat !
+Numele Său, Numele Său
+Răsună în lung şi-n lat !
+
+[s2]
+Măreţ Universul
+Cu stele şi astre
+Întreg necuprinsul
+De taine şi vis.
+Şi îngeri în ceruri
+În coruri măreţe
+Îl cîntă pe-Acela
+Ce stă-n Paradis.
+
+[s3]
+Natura-i uimită
+Murmură fiorul
+În mugur de floare
+În tainicul cînt
+De păsări mărunte
+Slăvind Creatorul
+În imnuri de slavă
+Aici pe Pămînt.
+
+[s4]
+Iar omul, ce este
+Măreaţă făptură
+Creată din lut
+Din ţărînă e.
+Să-I cînte din strune
+Cu-ntreaga natură
+Să-I cînte din suflet
+Cu rîvnă şi zel !
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

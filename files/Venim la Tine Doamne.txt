@@ -1,0 +1,46 @@
+[s1]
+1
+Venim la Tine Doamne
+O cântare să-Ţi cântăm,
+De laudă şi mărire
+Să Te binecuvântăm.
+Tu dai sens vieţii noastre
+Şi dragoste ne dai,
+Iar noi cu mulţumire
+Îţi dăm toată inima.
+
+[s2]
+2
+/: Tu eşti Creatorul nostru
+Divinul Miel pe tron,
+Tu eşti Cel ce-ai înviat
+Lăsând mormântul gol.
+Şi Tu ne-ai eliberat
+De păcate ne-ai iertat,
+De aceea Îţi cântăm
+Zi şi noapte Te lăudăm. :/
+
+[s3]
+3
+Venim la Tine Doamne
+O cântare să-Ţi cântăm,
+De laudă şi mărire
+Să Te binecuvântăm.
+Tu dai sens vieţii noastre
+Şi dragoste ne dai,
+Iar noi cu mulţumire
+Îţi dăm toată inima.
+
+[s4]
+4
+/: Tu eşti Creatorul nostru
+Divinul Miel pe tron,
+Tu eşti Cel ce-ai înviat
+Lăsând mormântul gol.
+Şi Tu ne-ai eliberat
+De păcate ne-ai iertat,
+De aceea Îţi cântăm
+Zi şi noapte Te lăudăm. :/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,29 @@
+[s1]
+Se-aude-un cant de gloate multe
+Ce canta-n cor lui Dumnezeu,
+/: Dar cine poate sa asculte
+Slavitul cant din Empireu? :/
+Veniti si ascultati cantarea,
+Iar daca nu o deslușiți,
+/:Zburati prin duh, strapungeti zarea
+Se-aude pentru cei smeriti. :/
+
+[r1]
+Esti Sfant, esti Sfant,
+esti Sfant si Vesnic!
+Etern Stapan, Sfant Creator!
+A Ta e lauda, slava, cinstea,
+/: Puterea-n vecii vecilor :/
+
+[s2]
+Se-aude-un cant de gloate multe
+Ce canta-n cor lui Dumnezeu
+/: Iar cine poate sa asculte
+Slavitul cant din Empireu? :/
+Veniti si voi, cu oastea sfanta,
+Sa laudam pe Dumnezeu!
+/: Nemuritorii slavei canta
+Neincetat cu har mereu :/
+
+[order]
+s1,r1,s2,r1

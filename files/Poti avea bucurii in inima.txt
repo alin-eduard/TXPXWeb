@@ -1,0 +1,21 @@
+[s1]
+Poţi avea bucurii în inima ta Pacea din inimă nu s-ă-ndepartă Umbla pe calea-ngustă
+Pentru Isus trăieşte
+El ţine bucurii în inima ta
+Sol M
+
+[r1]
+Bucurii în inimă
+Pace-n a ta inimă
+Ia-L pe Isus cu tine
+Ori şi unde vei merge
+El ţine bucurii în inima Ta
+
+[s2]
+Iubirea lui Isus tu vei cunoaşte
+Între vecinii tăi mergi şi vesteşte
+Vorbe bune, frumoase
+El ţine bucurii în inima ta
+
+[order]
+s1,r1,s2,r1

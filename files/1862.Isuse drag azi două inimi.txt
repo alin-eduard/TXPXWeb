@@ -1,0 +1,36 @@
+[s1]
+1862
+1. Isuse drag azi două inimi
+Din dragoste stau în prezența Ta
+Te rugăm o Doamne cu mâna Ta
+Peste-aceștia doi
+Să-ți reverși binecuvântarea
+
+[r1]
+Cor: /: Binecuvântă-i Doamne te rugăm
+Pe brațul Tău de Tată
+Acum noi îi lăsăm
+Dă-le putere să nădăjduiască-n Tin'
+Și-n dragoste să-i ții
+Pe veci de veci Amin.:/
+
+[s2]
+2. Dragă mireasă și tu mire iubit
+Să trăiți în sfințenie
+Așa cum Isus a trăit
+Să vă iubiți cum a iubit Isus
+Să păstrați dragostea
+Care El în voi a pus.
+
+[s3]
+3. Pe-al căsniciei  drum
+Amândoi acum porniți
+Mâna Ta să-i ocrotească mereu
+Dumnezeule ceresc
+Și în viața lor pe acest pământ
+Să nu uite niciodat’
+Să te pună pe Tine
+Primul bunule-Mpărat.
+
+[order]
+s1,r1,s2,r1,s3,r1

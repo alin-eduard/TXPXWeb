@@ -1,0 +1,43 @@
+[s1]
+/: A bătut la uşa ta cineva…
+Si n-a răspuns nimenea. :/
+/: În tăcerea negrei nopţi,
+Stă un om şi plânge…
+Faţa Lui e numai răni,
+Pieptul numai sânge. :/
+
+[s2]
+/: Cine eşti străin pribeag? Cine eşti?
+De-al cui dor, Tu pribegeşti? :/
+/: Pentru cine Te-au brăzdat
+Bice fără număr?
+Ce povoara Ti-a lăsat
+Rana de pe umăr? :/
+
+[s3]
+/: Eu sunt Robul ce slujesc tuturor,
+Un om al durerilor, :/
+/: Nimeni plată nu mi-a dat,
+Numai spini şi ură,
+Numai roşii trandafiri,
+Pieptul mi-l umplură! :/
+
+[s4]
+/: Eu sunt pâinea ce s-a frânt,
+lumii-ntregi,
+Si sunt vinul noii legi :/
+/: N-am venit să plâng în drum
+Răni usturătoare
+Plâng pe-acei ce pierd acum
+Ultima chemare! :/
+
+[s5]
+/: A bătut la uşa ta cineva,
+O, deschide-i nu mai sta! :/
+/: Nu-L lăsa să plece trist,
+Poate niciodată,
+mâna Lui la uşa ta
+N-are să mai bată! :/
+
+[order]
+s1,s2,s3,s4,s5

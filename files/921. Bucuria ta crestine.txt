@@ -1,0 +1,39 @@
+[s1]
+921.
+1. /: Bucuria ta creștine
+E să cânți mereu
+Nu uita c-acesta-I place
+/: Și Lui Dumnezeu ://
+
+[s2]
+2. /: Jertfa de-un miros plăcut
+Pe altarul Său
+Este atunci când mulțumirea
+/: O dai Lui Dumnezeu ://
+
+[s3]
+3. /: Chiar dacă e vreme bună
+Sau e timpul rău
+Tu-ți păstrezi nădejdea tare
+/: Tot în Dumnezeu ://
+
+[s4]
+4. /: Căci izvorul ei nu-i casa
+Sau averi de jos
+Ci e pentrucă-n viața
+/: Îl ai pe Hristos ://
+
+[s5]
+5. /: Și de ce-ai fi trist creștine
+Când în ceruri sus
+Sunt locașuri pregătite
+/: Tocmai de Isus ://
+
+[s6]
+6. /: Cerurile de sus frate
+Și tot ce e jos
+Fă să vadă că în toate
+/: Tu ești bucuros ://
+
+[order]
+s1,s2,s3,s4,s5,s6

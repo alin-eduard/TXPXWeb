@@ -1,0 +1,56 @@
+[s1]
+Sunt un copil sărman, uitat de lume
+Şi pribegesc hoinar pe-acest pământ,
+În căutarea unei lumi mai bune
+Pe care-aş vrea s-o aflu mai curând.
+/: Sunt călător şi n-am nimic pe lume
+Bucuriile toate mi se frâng.
+De-s amărât, nimeni nimic nu-mi spune
+Şi nimănui nu-i pasă că eu plâng. :/
+
+[s2]
+De-atâtea ori aştept o-ncurajare
+Să-mi îndulcesc amarul de pelin
+Şi-n sufletul pribeag să îmi strecoare
+O bucurie în eternul chin.
+/:De-atâtea ori sunt singur, n-am pe nimeni
+Şi n-are cin’ să-mi vină-n ajutor
+N-aud de nicăieri o vorbă bună,
+Să-mi răcorească pieptul plin de dor.:/
+
+[s3]
+Îmi plânge sufletul în vâlvătaie,
+Inima câte rane a primit,
+În lupta grea, în apriga bătaie
+În care deseori căzui lovit....
+/: Dar ţara mea o văd în depărtare
+Şi-adeseori deşi mă simt învins,
+Mă scol din nou şi-alerg tot într-acolo
+Căci ţara mea-i eternul paradis. :/
+
+[s4]
+Dar ţara mea e sus de tot, în zare
+Iar aici jos săgeţile mă-mpung
+Şi-adeseori mă clatin pe picioare
+Şi-mi pare că acolo n-am s-ajung.
+/: Dar chiar de-ar fi să cad în deznadejde
+Va apărea lângă mine Isus
+Şi m-a întreba-n susur blând şi subţire:
+„Ce faci tu, frate? N-ai vrea să vii sus?”:/
+
+[s5]
+Mă voi scula atunci plin de putere
+Şi voi zbura-mpreună cu Isus
+Cu El de mână m-oi plimba pe stele
+În ţara de cleştar, acolo sus.
+/: Acolo fericirea se aşterne
+Nu vor mai fi dureri pe-al ţării şes
+Ultima lacrimă ce-o am pe gene
+Şi-obrazul tot de plâns îmi va fi şters.
+Şi-orice jignire, suferinţă, rană
+Vor fi uitate parcă n-ar fi fost
+Căci Dumnezeu va-mpărăţi cu slavă
+Şi lângă El vom fi la adăpost. :/
+
+[order]
+s1,s2,s3,s4,s5

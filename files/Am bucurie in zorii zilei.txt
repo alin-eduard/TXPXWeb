@@ -1,0 +1,37 @@
+[s1]
+Am bucurie în zorii zilei
+Şi-al meu cântec de laudă
+Nimeni nu-l poate lua!
+
+[r1]
+Să cânte toţi cântâreţii
+Şi popoarele toate,
+Căci Domnul ne cheamă
+Azi pe toţi să Îi cântăm!
+Într-o singură voce,
+un cântec să poarte
+Mărire şi slavă,
+spre El, să înălţăm!
+
+[s2]
+O, Doamne, Tu-mi dai putere
+În zori, chiar bucurie,
+Şi-un cântec de slavă
+Ce nicicând nu s-a cântat!
+Este-un cântec ce-aduce
+La toţi mântuire,
+E-un cântec ce-n slavâ,
+Pe toţi, el ne-a-nălţa!
+
+[s3]
+De poţi şi tu să cânţi,
+Nu sta nepăsător,
+Căci poate ai şi tu ceva
+La Domnul să primeşti!
+Eu sunt aici ca să-ţi spun
+Că e Mântuitor,
+Care te-aşteaptă-n ceruri,
+Curând, ca să soseşti!
+
+[order]
+s1,r1,s2,r1,s3,r1

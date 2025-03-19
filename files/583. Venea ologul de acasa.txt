@@ -1,0 +1,69 @@
+[s1]
+1. Venea ologul de acasă
+Venea la poarta frumoasă
+/: Întotdeauna era dus
+Să cerşească era pus :/.
+2. Aşteaptă ca trecătorii
+Să-i arunce bănişorii
+/: Să poată trăi şi el
+Pentru că nu umbla defel :/.
+583.
+
+[s2]
+3. Venea Ioan şi cu Petru
+Să se închine în templu
+/: La templu când a ajuns
+Ologul mâna şi-a întins :/.
+4. Văzând că mâna şi-a întins
+Uită-te la noi i-a zis
+/: Dar ologul se uita
+Să vadă ce-o căpăta :/.
+
+[s3]
+5. Atunci Petru i-a vorbit
+N-am nici aur nici argint
+/: În numele lui Isus
+Acum ridică-te-n sus :/.
+6. De la poarta cea frumoasă
+Să mergi sănătos acasă
+/: În numele lui Hristos
+Fii tu astăzi sănătos :/.
+
+[s4]
+7. Şi de mână l-a apucat
+Şi-n picioare l-a sculat
+/: Gleznele s-au îndreptat
+Iar ologul a umblat :/.
+8. Iar poporul se mira
+Pentru că îl cunoştea
+/: Căci ologul a cerşit
+Până aproape a îmbătrânit :/.
+
+[s5]
+9. Iar tot poporul din templu
+Privea la Ioan şi Petru
+/: Căci ologul sărea-n sus
+Şi-l lăuda pe Isus :/.
+10. La poporul răzvrătit
+Atunci Petru a vorbit
+/: Pentru ce vă miraţi voi
+De lucru ce am făcut noi :/.
+
+[s6]
+11. Acest om s-a încrezut
+În Isus ce l-aţi vândut
+/: În Isus cel răstignit
+Vindecare a primit :/.
+12. De acum la poarta frumoasă
+Acest om n-o să cerşească
+/: Însă mântuire aveţi
+În Isus să vă încredeţi :/.
+
+[s7]
+13. În sângele lui Isus
+El se bucura nespus
+/: De voiţi să fiţi iertaţi
+Slavă lui Isus să-i daţi :/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

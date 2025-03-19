@@ -1,0 +1,41 @@
+[s1]
+Domnul meu a înviat,
+Aleluia, Amin.
+Peste moarte-a triumfat,
+Aleluia Amin.
+O, poporul Domnului,
+slăveşte Numele Lui.
+Domnul meu a-nviat,
+Aleluia, Amin.
+
+[s2]
+Prin credinţă tot mereu
+pentru El lucrează!
+Sigur fii că Dumnezeu binecuvintează!
+„Harul Meu îţi este de-ajuns”
+e al Domnului răspuns.
+Domnul meu a-nviat,
+Aleluia, Amin.
+
+[s3]
+Rabdă totul, nu uita,
+fără să ai frică
+Căci victoria-i a ta,
+scumpă turmă mică!
+Calea şi orice chin
+se sfârşesc curând Amin!
+Domnul meu a-nviat,
+Aleluia, Amin.
+
+[s4]
+Chiar când calea este grea
+să nu uiţi credinţa!
+Mâna Domnului-i-aici,
+uite biruinţa!
+Şi în slavă vei intra,
+cu Isus vei triumfa!
+Domnul meu a-nviat!
+Aleluia, Amin.
+
+[order]
+s1,s2,s3,s4

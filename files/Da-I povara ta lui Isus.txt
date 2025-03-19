@@ -1,0 +1,26 @@
+[s1]
+/: Dă-I povara ta lui Isus
+El o va purta :/
+/: Şi înalţă, tot mai sus înalţă
+Şi înalţă Numele lui Isus :/
+
+[s2]
+/: Vin’ la Isus cu căinţă
+El te va primi :/
+/: Şi înalţă, tot mai sus înalţă
+Şi înalţă Numele lui Isus :/
+
+[s3]
+/: Taie-I scara lui Satana
+Ca să cadă jos:/
+/: Şi înalţă, tot mai sus înalţă
+Şi înalţă Numele lui Isus :/
+
+[s4]
+/: Şi trăieşte prin credinţă
+Cum Isus a zis :/
+/: Şi înalţă, tot mai sus înalţă
+Şi înalţă Numele lui Isus :/
+
+[order]
+s1,s2,s3,s4

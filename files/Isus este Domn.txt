@@ -1,0 +1,28 @@
+[s1]
+/: Isus este Domn, pe El îl înalţ
+Vreau să-I cânt un imn de slavă :/
+
+[s2]
+/: Isus e Domn,
+Vreau să-I cânt un imn de slavă :/
+/: Aleluia, aleluia, aleluia,
+aleluia, aleluia, aleluia :/
+
+[s3]
+/: Isus ne-a salvat de orice păcat
+Să-I cântăm un imn de slavă :/
+
+[s4]
+/: Isus ne-a salvat
+Să-I cântăm un imn de slavă :/
+/: Aleluia, aleluia, aleluia,
+aleluia, aleluia, aleluia :/
+
+[s5]
+/: Isus va veni
+Ca să fim cu El în slavă :/
+/: Aleluia, aleluia, aleluia,
+aleluia, aleluia, aleluia :/
+
+[order]
+s1,s2,s3,s4,s5

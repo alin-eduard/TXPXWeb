@@ -1,0 +1,53 @@
+[s1]
+1520.
+1. O poporul meu iubit
+Nici acum nu te-ai trezit
+/: Aştept ziua care vine
+Să te iau în cer pe tine
+O de ce n-asculţi de mine :/
+
+[s2]
+2. De ce asculţi numai de fire
+Şi te laşi în amăgire
+/: Ascultă de glasul Meu
+Care strigă tot mereu
+Vino tu poporul meu :/
+3. Vino că te aştept cu drag
+Şi îţi ies nainte-n prag
+/: De cumva de te-oi vedea
+Liberat de firea ta
+Şi curată inima :/
+
+[s3]
+4. N-amâna de azi pe mâine
+Că nu ştii ziua când vine
+/: Te-i trezi când voi veni
+Dar atunci târziu va fi
+Cum atunci te voi găsi :/
+5. De te voi găsi dormind
+Tu vei rămânea plângând
+/: Şi atunci din mila Mea
+Nu o vei mai căpăta
+Şi aşa vei rămânea :/
+
+[s4]
+6. O popor trezeşte-te
+Astăzi întăreşte-te
+/: Pregăteşte-ţi hainele
+Şi umpleţi candelele
+Că iţi vine Mirele :/
+7. O fii gata de plecare
+Că de mult Eu te-am chemat
+/: Te-am chemat cu bucurie
+Ca să-ţi dau o fericire
+În cereasca împărăţie :/
+
+[s5]
+8. O popor şi iar popor
+De ce stai nepăsător
+/: O popor şi iar popor
+De mă vei chema cu dor
+Eu îţi vin în ajutor :/
+
+[order]
+s1,s2,s3,s4,s5

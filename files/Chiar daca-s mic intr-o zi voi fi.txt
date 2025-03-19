@@ -1,0 +1,31 @@
+[s1]
+Chiar daca-s mic, intr-o zi voi fi mare
+Si viata mea, Doamne,
+as vrea sa ti-o-nchin
+Cu-o inima smerita, iubitoare
+Dragostea, Isus, sa-Ti daruim.
+Cu glasul meu sa-Ti aduc osanale,
+Privirea-as vrea s-o ridic tot mai sus,
+Iar duhul Tau sa-mi fie-totdeauna
+Calauza si ocrotitor pe drum.
+
+[r1]
+Din inimi de copii iubirea Iti cantam
+Cu glasurile noastre azi, Isuse,
+slava-Ti dam.
+Pe veci sa fii slavit, de-a pururi laudat!
+Azi, Doamne-n fata Ta venim
+Sa-Ti spunem cat esti de minunat, minunat
+
+[s2]
+Ce har nespus sa te stii totdeauna
+Ferit de rau, in mana sfanta a lui Isus
+Sa cresc frumos in gradina bucuriei
+O floare alba pentru gloria de sus.
+Cu glasul meu sa-Ti aduc osanale,
+Privirea-as vrea s-o ridic tot mai sus,
+Iar Duhul Tau sa-mi fie-ntotdeauna
+Calauza si ocrotitor pe drum.
+
+[order]
+s1,r1,s2,r1

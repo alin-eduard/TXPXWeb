@@ -1,0 +1,52 @@
+[s1]
+Re
+1. Ridică-ţi ochii şi priveşte
+La tot ce este-n jurul tău
+Te copleşeşte bunătatea
+Şi dragostea lui Dumnezeu.
+391
+
+[s2]
+Pe Acela care-n fericire
+Îţi duce viaţa-n veşnicii
+Pe Cel ce sigur te iubeşte
+Tu nu-L asculţi de ce nu vii.
+
+[s3]
+2. Atâtea tainice adevăruri
+Răsar din tronul cel de sus
+Şi la-ntrebarea-nfiorată
+Ţi-apare limpede răspuns.
+
+[s4]
+Când mâna Domnului cea tare
+Te zguduie din temelii
+Căci va sosi-mplinirea vremii
+Tu nu-L asculţi de ce nu vii.
+
+[s5]
+3. Când se cutremură pământul
+Şi guri de spaimă se deschid
+Când şerpii plăgilor şi-a morţii
+Atâtea mii de vieţi închid.
+
+[s6]
+Din toate Dumnezeu te strigă
+Să te întorci din căi pustii
+Să vii la El să ai viaţă
+Tu nu-L asculţi de ce nu vii.
+
+[s7]
+4. Ce fericiţi sunt toţi aceia
+Ce Lui pe veci s-au dăruit
+Cu câtă bucurie aşteaptă
+Tărâmul cel făgăduit.
+
+[s8]
+La minunata fericire
+De ce nu vrei părtaş să fii
+E atât de bine lângă Domnul
+De ce nu vii, de ce nu vii?
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

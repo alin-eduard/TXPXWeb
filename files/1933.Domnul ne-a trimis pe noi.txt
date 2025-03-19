@@ -1,0 +1,43 @@
+[s1]
+1933
+1. Domnul ne-a trimis pe noi
+Cum trimiți pe niște oi
+Între lupi în lume
+/: Dar a spus că El va fi
+Cu noi și ne va păzi
+În al Lui sfânt nume :/.
+
+[s2]
+2. Înțelepți ca șerpi fiți
+Dar așa neprihăniți
+Ca și porumbeii
+/: Oamenii vă vor huli
+Și urâ și chinui
+Ca și lupii mieii :/.
+
+[s3]
+3. Pentru Domnul vom fi dați
+Și luați și judecați
+De mai marii țării
+/: Să răbdăm să suferim
+Mărturie să le fim
+Slavei sau  ocării :/.
+
+[s4]
+4. Însă nu vă-ngrijorați
+Căci chiar când vom fi-ntrebați
+Duhul Sfânt va face
+/: Să putem vorbi așa
+Plini de-nțelepciunea Sa
+Încât toți vor tace :/.
+
+[s5]
+5. Doamne fii mereu cu noi
+Ca Păstorul lângă oi
+Scapă-ne viața
+/: Până vom ajunge sus
+Să-l vedem pe veci Isus
+Fericită fața :/.
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,36 @@
+[s1]
+1. Isus e ţinta vieţii noastre
+Cu El vom fi biruitori
+/: El ne-a /:salvat:/
+azi din /: păcat:/
+Cu El vom fi biruitori :/.
+61                 						      Re m
+
+[s2]
+2. Cu El umblăm pe a Lui cale
+Călăuziţi de Duhul Sfânt
+/: Răscumpăraţi şi îmbrăcaţi
+Cu-a Lui putere pe pământ :/.
+
+[s3]
+3. Voioşi suntem pe a Lui cale
+Călăuziţi de Duhul Sfânt
+/: Luptăm /:mereu:/
+prin /: orice :/ greu
+Cu noi Isus cel răstignit :/.
+
+[s4]
+4. Sfârşitul nu mai e departe
+De-aceea noi stăm neclintiţi.
+/: Unde /: ne-a pus :/
+Domnul /: Isus :/
+Când de păcat ne-a izbăvit :/.
+
+[s5]
+5. Noi avem numai o ţintă
+Şi numai una vrem să ştim
+/: Isus :/ Isus numai /: Isus :/
+Numai de El noi vrem să ştim.
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,32 @@
+[s1]
+Mai mult decât aşteaptă
+un mugur primăvara,
+Mai mult decât aşteaptă
+înstrăinatul ţara,
+/: Să Te dorească, Doamne,
+tot sufletul din mine,
+Să nu pot nici o clipă
+trăi decat cu Tine! :/
+
+[s2]
+Mai mult decât recheama
+ogorul ploaia lină,
+Sau aripile zborul
+prin zarea larg senina,
+/: Mai mult decat asteapta
+bolnavul vindecare,
+Cel insetat - izvorul,
+cel departat -chemare… :/
+
+[s3]
+Cum straja – dimineata,
+inchisii – liberare,
+Corabierii – portul,
+flamanzii – ospatare,
+/: Cum luptatorii – slava
+si cei viteji – cununa
+Sa te doresc eu, Doamne,
+pe Tine totdeauna! :/
+
+[order]
+s1,s2,s3

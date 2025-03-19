@@ -1,0 +1,38 @@
+[s1]
+În viaţa mea păcatul greu
+Mi-apasă sufletu-n durere
+Nu-i nimeni pe acest pământ
+Să-mi poată da o mângâiere
+În noaptea grea doresc ceva
+Iar sufletul meu suspină,
+Spunându-mi că la uşa mea
+Stă cineva să-mi dea lumină.
+
+[r1]
+Iată Eu stau la uşă şi bat
+Dacă-aude cineva glasul Meu
+Şi deschide uşa voi intra la el
+Voi cina cu el şi el cu Mine.
+
+[s2]
+Glas duios mă cheamă blând
+În piept eu simt o tresăltare
+Mă iau fiori la glasul Său
+În suflet am o cercetare
+La uşa mea e cineva
+Iar glasul Lui mereu mă-ndeamnă
+,, Grăbeşte-te ca să-Mi deschizi
+Primeşte-Mă şi să n-ai teamă.”
+
+[s3]
+Mai fac un pas şi-o să-I deschid
+Şi-o să-L primesc cu drag în casă
+Lumina Lui va lumina
+A mea întunecată viaţă
+Acum deschid. Ce minunat
+O rază îmi pătrunde-n casă
+Şi se revarsă zorile
+În inimă e dimineaţă.
+
+[order]
+s1,r1,s2,r1,s3,r1

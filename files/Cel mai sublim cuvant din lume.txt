@@ -1,0 +1,30 @@
+[s1]
+Cel mai sublim cuvânt din lume
+Este mama
+Primul cuvânt,
+Pe care l-am putut rosti
+Doamne, fiinţa dragă
+Ce mult mă iubeşte
+Ea se jertfeşte pentru mine,
+Zi de zi.
+
+[r1]
+/: Mama, o dragă, mama
+Te-oi iubi cât voi trăi
+Pe-acest pământ
+Mamă, o dragă, mamă
+Binecuvântat să fii de
+Domnul Sfânt :/
+
+[s2]
+Când primii paşi, eu i-am făcut
+Ai fost cu mine
+M-ai învaţat ca să ascult
+De Dumnezeu
+În orice clipă, Tu mi-ai fost
+O mângâiere
+M-am bucurat, cu tine, mamă
+În orice greu.
+
+[order]
+s1,r1,s2,r1

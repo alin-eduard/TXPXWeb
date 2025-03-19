@@ -1,0 +1,27 @@
+[s1]
+1. Încă răsună neîncetat
+Omule pocăieşte-te
+Vin' la Isus azi te cheamă
+Lasă calea păcatului.
+349.
+
+[s2]
+2. Tot mai răsună chemarea
+Ce lipsă mare e de spus
+Vin' la Isus, grăbeşte-te
+La Cel ce bine-ţi voieşte.
+
+[s3]
+3.Plângând noi te rugăm din nou
+Mântuirea ca s-o primeşti
+Căci vine timpul cel mai greu
+S-o cauţi şi să n-o mai găseşti.
+
+[s4]
+4. Aici raiul, colo iadul
+De nu te pocăieşti, te pierzi
+Tare-i acest cuvânt şi sfânt
+Nu om, ci Domnul L-a grăit.
+
+[order]
+s1,s2,s3,s4

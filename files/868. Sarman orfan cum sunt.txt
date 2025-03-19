@@ -1,0 +1,34 @@
+[s1]
+868.
+1. Sărman, orfan cum sunt
+Ca omul pe pământ
+O, Doamne ajută-mi dar
+Să scap de acest amar
+Să fiu cu Tine în veci Isuse.
+
+[s2]
+2. Acolo în Paradis
+Necazuri n-or mai fi
+Ci strălucirea Ta
+Pe toţi ne-a înconjura
+Iubire sfântă şi curată.
+
+[s3]
+3. La glasul celui Sfânt
+Cei sfinţi de pe pământ
+Când aripi ne va da
+Spre ceruri vom zbura
+Bucurându-ne totdeauna.
+4.  Iar melodii nespus cântarea lui Isus
+Îngerii vor cânta pe cale atuncia
+Cântarea cea mai minunată.
+
+[s4]
+5. Că mult eu mă gândesc
+La Tine să sosesc
+Căci ard de dorul Tău
+Isuse scumpul meu
+Iubire sfântă şi curată.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,20 @@
+[s1]
+Ce te frămânţi inima mea,
+Singură şi pustie?
+Stai în credinţă, nu dispera:
+Toate Isus le ştie!
+
+[s2]
+Oamenii trec tot mai grăbiţi,
+N-au timp să te asculte;
+El ţi-e aproape şi-n suferinţi,
+Oricât ar fi de multe.
+
+[s3]
+Doamne auzi strigătul meu
+Nu mă lăsa pieirii,
+Fă ca să cânt pe cale mereu
+Cântecul mântuirii.
+
+[order]
+s1,s2,s3

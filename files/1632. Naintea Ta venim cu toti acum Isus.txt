@@ -1,0 +1,55 @@
+[s1]
+1632.
+1.’Naintea Ta venim.
+Cu toţi acum Isus.
+Când înc-un an din viaţa noastră
+Iar s-a scurs.
+/:Chiar de-am trecut prin încercări,
+Prin lupte grele şi-ntristări,
+Cu Tine Doamne biruinţă am avut!:/
+Vrem să rămânem lângă Tine,
+E tot ce ne dorim în noul an!
+
+[s2]
+Cor: Prin bucurii şi prin suspine,
+Prin clipe grele sau senine,
+Tu să rămâi,
+Stăpânul nostru-n noul an!
+
+[s3]
+2.Cu mulţumiri venim
+În faţa Ta acum,
+Că ne-ai condus cu braţul Tău
+Pe al vieţii drum.
+/:Îţi mulţumim Doamne de flori,
+De zile calde fără nori,
+Îţi mulţumim umil Isus
+Şi pentru spini!:/
+
+[s4]
+Vrem să rămânem lângă Tine E tot ce ne dorim în noul an
+/:În bucurii şi prin suspine,
+Prin clipe grele sau senine,
+Tu să rămâi,
+Stăpânul nostru-n noul an!:/
+
+[s5]
+3.Plin de mister
+Ne stă în faţă noul an
+Cu Tine Doamne,
+Vrem s-ajungem la liman!
+/:Ne-ncredinţăm în braţul Tău.
+Doar Tu ne poţi feri de rău.
+Şi să ne ţii curaţi
+Şi sfinţi pân’ la sfârşit!:/
+
+[s6]
+Cor:
+Vrem să rămânem lângă Tine E tot ce ne dorim în noul an
+/:Prin bucurii şi prin suspine,
+Prin clipe grele sau senine,
+Tu să rămâi,
+Stăpânul nostru-n noul an!:/
+
+[order]
+s1,s2,s3,s4,s5,s6

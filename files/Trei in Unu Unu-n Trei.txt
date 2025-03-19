@@ -1,0 +1,32 @@
+[s1]
+Trei în Unu, Unu­-n Trei,
+Sfânt, de trei ori sfânt Tu eşti,
+Tată, Fiu, Duh Sfânt lăudăm:
+Un Dumnezeu.
+
+[s2]
+Tu eşti singurul „Eu sunt“
+Domn etern, neschimbător,
+Necuprins şi nevăzut,
+Tată Dumnezeu.
+
+[s3]
+Tu, al nostru Creator,
+Cale, Viaţă şi ­Adevăr,
+Preot şi Mântuitor,
+Fiu, Dumnezeu.
+
+[s4]
+Tu ne eşti Mângâietor,
+Al puterii sfânt Izvor,
+Vrednic călăuzitor,
+Spirit, Dumnezeu.
+
+[s5]
+Trei în Unu, Unu­-n Trei, Sfânt,
+De trei ori sfânt Tu eşti,
+Tată, Fiu, Duh Sfânt lăudăm:
+Un Dumnezeu.
+
+[order]
+s1,s2,s3,s4,s5

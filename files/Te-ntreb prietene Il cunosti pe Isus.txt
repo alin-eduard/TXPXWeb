@@ -1,0 +1,33 @@
+[s1]
+Te-ntreb, prietene,
+Îl cunoşti pe Isus?
+Îl cunoşti pe al tău Mîntuitor?
+L-ai primit în inima Ta ca Păstor?
+Este El prea-alesul tău?
+Pe cărările vieţii alergi obosit
+Călătorule trist şi pribeag
+Înşelat, amăgit ai ajuns de cel rău
+Vino-mpacă-te cu Dumnezeu!
+
+[r1]
+Fericiţi sînt toţi aceia
+ce-L au pe Isus
+Cei ce şi-au spălat păcatul
+în sîngele Lui sfînt.
+Fericiţi sînt toţi aceia
+ce-L mărturisesc
+Şi prin viaţa lor cu cinste
+Domnului slujesc.
+
+[s2]
+De te simţi, păcătos,
+că eşti fiul pierdut
+Vino-acasă, vino la Isus!
+El te va lumina şi te va îmbrăca
+Îţi va da haina vieţii-n dar.
+Pe cărările vieţii alergi obosit
+Călătorule trist şi pribeag
+Înşelat, amăgit ai ajuns de cel rău Vino-mpacă-te cu Dumnezeu!
+
+[order]
+s1,r1,s2,r1

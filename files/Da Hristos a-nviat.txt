@@ -1,0 +1,27 @@
+[s1]
+Da, Hristos a-nviat
+Ca un veşnic Soare!
+Slavă Lui, El e viu, El ne dă salvare! El domneşte
+Pe pământ cu iubire mare
+Da, Hristos a-nviat, slavă şi-nchinare!
+
+[s2]
+Da, Hristos a-nviat
+Ne-a adus lumină,
+A-mplinit pe pământ
+Legea Lui divină.
+Azi priveşte bucuros
+Rodul muncii Sale,
+Da, Hristos a-nviat! Slavă, osanale!
+
+[s3]
+Da, Hristos a-nviat,
+Ne-a adus speranţă,
+Pentru veci morţii Lui
+Vor ieşi la viaţă.!
+El la Tatăl S-a-nălţat,
+El e Domn în toate,
+Da, Hristos a-nviat în eternitate!
+
+[order]
+s1,s2,s3

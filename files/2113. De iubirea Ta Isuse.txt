@@ -1,0 +1,28 @@
+[s1]
+2113
+1. De iubirea Ta Isuse
+Cât trăiesc la toți voi spune
+Căci iubire ca a Ta
+N-am văzut la nimenea
+
+[r1]
+Cor: /: Isus Te doresc nespus
+Tu pace-n suflet mi-ai adus
+Isus viața mi-ai schimbat
+Cu cerul sfânt
+m-ai împăcat :/
+
+[s2]
+2. Vreau să-Ți spun de Golgota
+Și de jertfa de pe ea
+Vreau să-Ți spun ce-ai suferit
+Ca eu să pot fi mântuit
+
+[s3]
+3. O Isuse Miel divin
+Așa cum sunt le Tine vin
+Îți aduc sufletul meu
+Ție Fiu de Dumnezeu
+
+[order]
+s1,r1,s2,r1,s3,r1

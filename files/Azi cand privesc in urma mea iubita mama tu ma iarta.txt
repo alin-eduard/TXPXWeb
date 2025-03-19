@@ -1,0 +1,28 @@
+[s1]
+Azi când privesc în urma mea,
+iubită mamă tu mă iartă.
+Am fost copilul tău iubit
+n-am să uit asta niciodată.
+
+[r1]
+Îmi pare că-i prea scurtă viaţa
+şi parcă prea mult suferim,
+Dar nu-i de noi făcută viaţa,
+ne naştem şi apoi murim.
+Ştiu că aceasta-i legea Doamne:
+că unii pleacă şi-alţii vin,
+Aş da şi zile de la mine,
+în viaţă mamă de-ai mai fi.
+
+[s2]
+Şi va veni aceea zi când
+moartea pe toţi ne desparte.
+Mamă de tată şi copii,
+şi vor rămâne de noi toate.
+
+[s3]
+Chiar şi de-acol din depărtări te chem mamă să-mi fii aproape.
+Aş spulbera în patru zări neantul care ne desparte.
+
+[order]
+s1,r1,s2,r1,s3,r1

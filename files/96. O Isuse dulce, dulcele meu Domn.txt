@@ -1,0 +1,73 @@
+[s1]
+96.
+1. O, Isuse dulce
+Dulcele meu Domn
+Ziua treaz şi noaptea
+Suspinând în somn
+Sufletul meu cheamă
+Chipul Tău cel blând
+Ziua treaz Isuse
+Noaptea suspinând.
+
+[s2]
+2. Fermecat de dorul
+Dulcelui Tău chip
+Pe-a chemării drumuri
+Tot mereu Te strig
+Şi în stropi de lacrimi
+Inima mi-o ard
+Să-Ţi aduc mireasma
+Mirului de nard.
+
+[s3]
+3. Pe-al Tău drum în calea
+Pasului curat
+Crinii cei mai albi
+Şi scumpi ai presărat
+Şi de-atâţia ani
+De seri şi dimineţi
+Te aştept, aştept
+Şi nu Te mai arăţi.
+
+[s4]
+4. O, doritul meu,
+O, Mire minunat
+Nu-i de-ajuns suspinul
+Cît am suspinat
+Nu ajunge oare
+Plânsul cât am plâns
+De nu-mi stâmperi încă
+Dorul cel nestins.
+
+[s5]
+5. Nu-s destul aprinse
+A dragostei dorinţi
+Oare nu-s destule
+Lacrime fierbinţi
+Oare nu-i de-ajuns
+De arsă inima
+De mai poţi să întârzii
+Şi mai poţi tăcea
+
+[s6]
+6. Nu-s de-ajuns de albi
+Ai sufletului crini
+Oare cei ce-aşteaptă
+Atâţia-s de puţini
+Că a lor chemări
+Şi lacrimi nu ajung
+De Ţi-i drumul parcă
+Zi de zi mai lung.
+
+[s7]
+7. O, Isuse dragă
+Mire minunat
+Dorul meu Te cheamă
+Noaptea neîncetat
+Sufletul meu ars
+Te cheamă noaptea-n somn
+O, ascultă, vino
+Dulcele meu Domn.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

@@ -1,0 +1,39 @@
+[s1]
+1. Cu crucea-n spate El era
+Mergând pe drum spre Golgota
+Cu mâinile-n piroane a fost
+Isus Hristos, Isus Hristos
+2. Cu mâinile-n cuie era
+Şi toţi de acolo Îl priveau
+Dar El pe cruce s-a rugat
+Să ierte Tata a lor păcat
+756.
+
+[s2]
+3. El plini de răni, de sânge plin
+Cine-auzit a Lui suspin
+Izvoare curg din jertfa Mea
+Nu vine nimeni ca să bea
+4. Eu sunt Păstorul cel ceresc
+Dar oamenii mă ocolesc
+Şi chem pe toţi, de toţi mi-i dor
+Eu sunt Păstorul tuturor
+
+[s3]
+5. Vreau ca să intru-n casa ta
+Deschide acum nu mă uita
+Eu sunt al lumii Împărat
+Cu coasta-nsângerată bat
+6. Deschide acum că anii fug
+Ia astăzi dulcele meu jug
+Că jugul meu este uşor
+Pe lume tu eşti călător
+
+[s4]
+7. Sunt viaţa, sunt lumina ta
+Deschide acum nu mă uita
+Căci apa vieţii îţi voi da eu
+Voi fi Mântuitorul tău.
+
+[order]
+s1,s2,s3,s4

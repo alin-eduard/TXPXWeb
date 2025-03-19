@@ -1,0 +1,39 @@
+[s1]
+1830                                                       La b
+1. O ce har să ştii
+Că Domnul te iubeşte
+O ce har să ştii
+Că eşti în braţul Său
+Chiar când simţi
+Că tot în jur se năruieşte
+Tu să ai pace-n inima ta mereu
+
+[r1]
+/:Să ai pace
+În mijlocul necazului tău
+Să ai pace
+Căci tu eşti fiu de Dumnezeu
+Când cei din jur te vor privi
+Cu pacea ta îi vei uimi
+Când plin de pace vei birui:/
+
+[s2]
+2. O ce har să ştii
+Că Domnul te iubeşte
+O ce har să ştii că Lui îi aparţii
+Şi să simţi în orice zi
+Că-ţi dăruieşte
+Când treci prin necaz
+Pace si bucurii
+
+[s3]
+3. O ce har să ştii
+Că Domnul te iubeşte
+O ce har să ştii
+Că eşti copilul său
+Zi de zi prezenţa Lui
+Te însoţeşte și-ţi dă pace
+În necazul cel mai greu
+
+[order]
+s1,r1,s2,r1,s3,r1

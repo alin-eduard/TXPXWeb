@@ -1,0 +1,47 @@
+[s1]
+De vrei să ştii amice
+religia curată
+Iubeşte adevărul
+şi pururea îl caută;
+De vrei să ştii, tu frate,
+religia bună
+Să ai credinţă şi fapte,
+să fugi de minciună.
+
+[r1]
+Aceasta este frate, religia curată
+Şi alta ca ea nu e pe pământ
+Plăcută Celui Sfânt.
+
+[s2]
+Iubeşte pe toţi fraţii
+că-i sfânta datorie
+Ca ei să-şi facă lucrul
+cu mare bucurie,
+Iar celor ce sunt bolnavi,
+prin suferinţe trec
+Tu dă-le sprijin frate,
+ajutorul tău întreg.
+
+[s3]
+De vrei să ştii tu suflet
+religia cea sfântă
+Dă ajutor la cel slab,
+să meargă către ţintă;
+De vrei să ştii mai multe
+Cuvântul să-mplineşti
+Cu inima ta întreagă
+pe Dumnezeu să-L iubeşti.
+
+[s4]
+Îndreaptă al tău suflet
+spre zările senine
+Şi caută în viaţă să faci
+ce este bine;
+Iar de nu ai în prezen
+credinţă în Isus
+O poţi primi într-un moment
+ca-n cer să fii dus!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

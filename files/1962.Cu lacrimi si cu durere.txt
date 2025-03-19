@@ -1,0 +1,39 @@
+[s1]
+1962    La b
+1. Cu lacrimi și cu durere
+Mă-ntrebam doar în tăcere
+Nu știam adesea ori
+Cei bun sau rău
+Dar în orice-mprejurare
+Tu mi-ai dat har și consolare
+Și-ncercarea ce-a venit
+M-a întărit.
+
+[r1]
+Cor: /: Da prin toate, da prin toate
+Mă-ncred în Domnul Isus
+Mă-ncred în Dumnezeu
+Da prin toate, da prin toate
+Învăț să depind de-al Său cuvânt :/
+
+[s2]
+2. Am fost în locuri prin lume
+Întâlnind oameni cu nume
+Dar tot timpul mă simțeam
+Tot mai singur
+Dar în ceasul încercării
+Acel ceas al disperării
+Tu Isus mi-ai spus o nu, eu nu te las
+
+[s3]
+3. Mulțumesc Lui pentru toate
+Pentru munți și văi umblate
+Și furtuni prin care
+Domnul m-a trecut
+Dacă n-ași fi avut necazuri
+Cine altul din talazuri
+M-ar fi scos cu braț puternic
+Prin cuvânt.
+
+[order]
+s1,r1,s2,r1,s3,r1

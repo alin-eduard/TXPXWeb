@@ -1,0 +1,38 @@
+[s1]
+Doamne, cine va locui
+În cortul Tău, Părinte?
+Şi pe-al Tău munte cin’ va sta
+Pe înălţini preasfinte?
+
+[r1]
+Acel ce umblă-n drum curat
+Şi voia Ta o face
+Acel ce spune-adevărat
+Şi-n suflet are pace.
+
+[s2]
+Acela nu vorbeşte rău
+Că limba e curată
+Nu ocăreşte-n drumul său
+Pe nimeni niciodată.
+
+[s3]
+Pe-acel ce-i vrednic de dispeţ
+De-asemenea-l priveşte
+Iar pe cei ce-n Domnul cred
+De-a pururea-i cinsteşte.
+
+[s4]
+El vorba lui nu şi-ar minţi
+Chiar pagubă de are
+Şi nici dobândă n-ar primi
+Când face-ajutoare.
+
+[s5]
+În contra celui bun nu ia
+El mită viaţa toată
+Acela ce se poartă-aşa
+Nu cade niciodată.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

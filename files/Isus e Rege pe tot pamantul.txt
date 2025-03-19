@@ -1,0 +1,14 @@
+[s1]
+/: Isus e Rege pe tot pământul
+Azi mă închin în faţa Lui :/
+/: Laud pe Domnul şi-L preamăresc,
+Laud pe Domnul căci Îl iubesc :/
+
+[s2]
+/: Isus e Rege pe tot pământul
+Azi mă închin în faţa Lui :/
+/: Toată viaţa Îi voi cânta,
+Căci vreau s-ajung în ţara Sa :/
+
+[order]
+s1,s2

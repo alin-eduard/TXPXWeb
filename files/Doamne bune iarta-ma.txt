@@ -1,0 +1,50 @@
+[s1]
+Doamne bune, iartă-mă
+De păcate spală-mă
+De păcatul meu murdar
+Iartă-mă, o, Tată, iar.
+
+[s2]
+/: Căci Tu, viaţa mea-ntinată
+M-am îndepărtat, o, Tată
+Nu Ţi-am ascultat Cuvântul
+Şi Te-am supărat :/
+
+[s3]
+Azi mă-ntorc cu pocăintă
+Şi te rog în umilinţă
+Iartă-mă, o, Tată, iar
+Azi prin jertfa din Calvar.
+
+[s4]
+/: Căci acolo, Fiul Tău
+A plătit păcatul meu
+Cu Sângele Lui curat
+A spălat al meu păcat :/
+
+[s5]
+Deci, Te rog, o, Tată mare
+Mă primeşte cu-ndurare
+Şi mă spală de pacăt
+Fă veşmântul iar curat.
+
+[s6]
+/: Doamne ştii, eu sunt pământ
+Tu eşti Dumnezeul Sfânt
+Iartă-mă, o, Daomne bun
+Spală-mă, o, iar acum :/
+
+[s7]
+Sufletu meu azi Îţi cere
+Umple-mă Tu cu putere
+În Duhul Tău, Cel curat
+Să fiu azi făr’ de păcat.
+
+[s8]
+/: Şi-am să-Ti cânt de bucurie
+Doamne veşnic, numai Ţie
+Căci cu sângele-Ti curat
+Veşmântul mi la-i spălat :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

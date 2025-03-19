@@ -1,0 +1,36 @@
+[s1]
+Haideţi să cântăm cu toţii
+Căci al nostru Salvator
+A învins şi boldul morţii
+Fiind biruitor
+Cor:	Haideţi să-l lăudăm popoare
+Pentru tot ce a făcut
+Cu cântări înălţătoare
+Pe Isus cel strălucit
+1.
+1293.
+
+[s2]
+Căci prin jertfa Ta pe cruce
+De păcate ne-ai iertat
+Mulţumire azi ţi-aducem
+Fii în veci glorificat
+2.
+Cor:	Haideţi să-l lăudăm popoare
+Pentru tot ce a făcut
+Cu cântări înălţătoare
+Pe Isus cel strălucit
+
+[s3]
+Ştim că vine cu răsplata
+În curând pe nori de slavă
+Haideţi fraţi ca să fim gata
+Aleluia Maranata.
+3.
+Cor:	Haideţi să-l lăudăm popoare
+Pentru tot ce a făcut
+Cu cântări înălţătoare
+Pe Isus cel strălucit
+
+[order]
+s1,s2,s3

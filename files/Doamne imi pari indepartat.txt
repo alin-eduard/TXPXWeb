@@ -1,0 +1,31 @@
+[s1]
+Doamne-mi pari îndepărtat
+Chiar ani lumina
+sau un mai lung drum
+Deşi credinţa mi-am păstrat
+Mărturisesc acum
+nu ma mai simt ascultat
+
+[r1]
+Dar nu ştiu ce să mai spun
+Şi nu ştiu a-nainta
+Însă harul ce-l primesc
+Îmi schimbă inima
+
+[r2]
+Voi cânta, te voi lăuda
+Chiar în ceasul cel mai rău
+Prin durere şi prin greu
+Voi cânta, te voi lăuda
+Mâinile le-am ridicat
+Fiindcă eşti adevărat
+Voi cânta.
+
+[s2]
+Nu pot să întrezăresc
+Gândul Tău şi-al Tău plan ceresc
+Doar în Tine am să mă-ncred
+Ştiind că ai murit să mă salvezi.
+
+[order]
+s1,r1,r2,s2,r1,r2

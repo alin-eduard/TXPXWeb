@@ -1,0 +1,16 @@
+[r1]
+Este un râu ce curge printre noi
+Vindecare el aduce pe pământ
+Totul ia fiinţă unde curge el
+Îmi alină setea sufletului meu.
+
+[r2]
+Curgi ca un râu de slavă
+Cu braţul Tău dezleagă
+Tu, cu putere, viaţa mea.
+În ceasul de pe urmă
+Vreau Duhul Tău să curgă
+Şi să inunde viaţa mea.
+
+[order]
+r1,r2,r1,r2

@@ -1,0 +1,32 @@
+[s1]
+A zis Isus că-n curând va veni
+Şi mult timp de-atunci n-a trecut.
+O lume-ntreagă aşteaptă acea zi
+Când Isus pe nori va veni.
+
+[r1]
+Treziţi-vă acum, că ziua-i pe drum!
+Fiţi gata, că Isus curând va veni
+Şă-Şi ducă cu El mireasa la cer!
+Fiţi gata, că Isus curând va veni!
+
+[s2]
+Păcatul în lume domneşte deplin
+E ultimul ceas de luptat
+Priviţi dar nainte prin sângele sfânt
+Satan va fi pe veci legat !
+
+[s3]
+Păstraţi-vă harul, voi, cei mântuiţi
+Umpleţi-vă candela azi !
+Cu Duhul Sfânt să fiţi pecetluiţi
+De vreţi cu Isus să fiţi fraţi.
+
+[s4]
+Te-ntoarce, amice, nu mai zăbovi
+Primeşte-L ca Mântuitor !
+Azi încă e har, mâine poate n-a fi -
+Grăbeşte-te astăzi să vii !
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,32 @@
+[s1]
+La Tine, Doamne, am strigat
+Să-mi dai Tu biruinţă !
+O, Doamne, Tu m-ai ascultat
+M-ai scos din suferinţă.
+
+[r1]
+Îţi mulţumesc că m-ai salvat
+Prin Fiul Tău m-ai înfiat !
+Eu Aleluia-Ţi voi cînta
+Căci viaţa mea e-n mîna Ta !
+
+[s2]
+Din întristare şi dureri
+M-ai scos, o, Doamne Isus
+Şi mi-ai dat binecuvîntări
+Ca să privesc la cer sus.
+
+[s3]
+Cu glasul sfînt Tu mi-ai şoptit
+Să nu mă las de Tine
+Căci în tot locul negreşit
+Vei fi atunci cu mine.
+
+[s4]
+Dar pe vrăşmaş Tu l-ai răpus
+Cu braţul Tău puternic
+Şi mîngîiere ai adus
+Unui suflet nevrednic.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

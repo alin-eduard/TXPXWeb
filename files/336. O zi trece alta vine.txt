@@ -1,0 +1,68 @@
+[s1]
+1. /:O zi trece alta vine :/
+Iar tu suflete ştii bine.
+Cor: Omule, Omule
+/:Sfârşitul tău se apropie:/
+Întoarce-te, întoarce-te
+Omule,Omule.
+336.
+
+[s2]
+2. /:Pe calea rea alergi mereu:/
+Tot mai străin de Dumnezeu.
+Cor: Omule, Omule
+/:Sfârşitul tău se apropie:/
+Întoarce-te, întoarce-te
+Omule,Omule.
+
+[s3]
+3. /:În tina negrului păcat:/
+Aproape tot te-ai cufundat.
+Cor: Omule, Omule
+/:Sfârşitul tău se apropie:/
+Întoarce-te, întoarce-te
+Omule,Omule.
+
+[s4]
+4. /:Din calea rea către apus:/
+Te cheamă glasul lui Isus.
+Cor: Omule, Omule
+/:Sfârşitul tău se apropie:/
+Întoarce-te, întoarce-te
+Omule,Omule.
+
+[s5]
+5. /:De ce urechile ţi-nfunzi:/
+La glasul Lui să nu răspunzi.
+Cor: Omule, Omule
+/:Sfârşitul tău se apropie:/
+Întoarce-te, întoarce-te
+Omule,Omule.
+
+[s6]
+6. /:De ce-ţi acoperi ochii tăi:/
+Şi rătăceşti pe rele căi.
+Cor: Omule, Omule
+/:Sfârşitul tău se apropie:/
+Întoarce-te, întoarce-te
+Omule,Omule.
+
+[s7]
+7. /:Întoarce-ţi paşii azi în sus:/
+Spre Golgota către Isus.
+Cor: Omule, Omule
+/:Sfârşitul tău se apropie:/
+Întoarce-te, întoarce-te
+Omule,Omule.
+
+[s8]
+8. /:Să-ţi plângi
+Sub crucea Lui mereu :/
+De-a pururea păcatul greu.
+Cor: Omule, Omule
+/:Sfârşitul tău se apropie:/
+Întoarce-te, întoarce-te
+Omule,Omule.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

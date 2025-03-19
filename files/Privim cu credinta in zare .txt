@@ -1,0 +1,33 @@
+[s1]
+Privim prin credinţă în zare,
+Pe bolta de aur strălucit,
+Un soare măreţ ce răsare
+Pe treptele vremii urcând.
+
+[r1]
+Ni-e dor tuturora s-apară aurora
+Pe bolta cerească, iar noi
+Zbura-vom printre stele
+Mai falnici decât ele
+Departe de-a lumii nevoi.
+
+[s2]
+Credinţa ne duce în zare
+Pe treptele lumii de vis.
+Ajunge-vom în sfânta cetate
+Intra-vom pe porţi de paradis.
+
+[s3]
+Tu suflet ce plângi în durere
+Departe de harul divin.
+O, vino primeşte credinţa,
+Ce-aduce iertare deplin!
+
+[s4]
+E-aproape ziua cea mare
+Şi-atunci împreună cu noi,
+Zbura-vei în marea splendoare,
+Departe de-a lumii nevoi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,34 @@
+[s1]
+Eu nu­-nţeleg cum miile de îngeri
+I se închină Celui Preaînalt,
+Dar una ştiu, că în iubirea-I mare,
+Ca bun Păstor, Isus ne-­a căutat.
+Şi ştim cu toţi că a venit în lume
+S­o izbăvească de păcatul greu,
+Să­-şi dea viaţa ca să ne salveze
+Şi să ne­-mpace
+Cu Preasfântul Dumnezeu.
+
+[s2]
+Nu pot descrie suferinţa-­I mare
+Ce sub povara crucii a­-ndurat;
+Când a Lui inimă a fost zdrobită
+Sub apăsarea greului păcat.
+Dar asta ştiu: că­ a dus până la capăt
+Osânda grea a celor vinovaţi,
+Purtând coroana cea de spini
+pe frunte
+Să ne prezinte-­n faţa Tatălui curaţi.
+
+[s3]
+Cum aş putea pricepe adevărul
+Cuprins în dragostea Lui pentru noi;
+Cum a iertat a lumii făr’delege
+Spălând a ei povară de noroi.
+Dar ştiu că-n cer e mare bucurie
+Căci Dumnezeu prin Fiul Său slăvit
+A biruit vrăjmaşul prin iubire
+Ca noi să fim în cer cu El necontenit.
+
+[order]
+s1,s2,s3

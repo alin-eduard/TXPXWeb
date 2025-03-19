@@ -1,0 +1,27 @@
+[s1]
+El ne-a iubit venind în lume,
+Ca noi pierduţi să fim salvaţi,
+Prin sângele vărsat pe cruce,
+La Golgota Isus Hristos ne-a mîntuit.
+Sol M
+
+[r1]
+/: Ştiind că-i viu pot învinge teama,
+Şi eu sunt viu că m-a salvat,
+Şi când ispita grea mă va ajunge,
+De braţul Său eu sunt mereu eliberat. :/
+
+[s2]
+Ca un copil ce se încrede
+În tatăl său pe-acest pământ,
+Aşa mă încred şi eu în Domnul,
+Şi de păcat descătuşat voios Îi cânt.
+
+[s3]
+Când voi pleca în veşnicie,
+Când lupta grea va înceta,
+Îl voi vedea pe tron de slavă,
+Pe Cel ce moartea a învins prin jertfa Sa.
+
+[order]
+s1,r1,s2,r1,s3,r1

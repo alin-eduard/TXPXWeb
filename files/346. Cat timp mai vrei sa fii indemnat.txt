@@ -1,0 +1,43 @@
+[s1]
+1. Cât timp mai vrei să fii îndemnat
+Cu Domnul când vei fi-mpăcat
+Isus Te cheamă, tu n-auzi?
+O, spune-mi când Lui îi urmezi.
+Cor: Vino acum la Mine
+Isus zice:"Vin' la mine“.
+346.
+
+[s2]
+2. Cât timp mai vrei să fii-ndemnat
+Acum e timp a fi scăpat
+Priveşte totu-i pregătit
+Când vrei să fii tu mântuit.
+Cor: Vino acum la Mine
+Isus zice:"Vin' la mine“.
+
+[s3]
+3.Cât timp mai vrei să fii-ndemnat
+Odihnă tot n-ai căpătat
+Cu toată lupta-n viaţa ta
+Tu n-ai găsit fericirea.
+Cor: Vino acum la Mine
+Isus zice:"Vin' la mine“.
+
+[s4]
+4. Cât timp mai vrei să fii-ndemnat
+De ce să stai tu în păcat
+Vezi, Isus bate tot mereu
+Predă-i păcatul, chinul tău.
+Cor: Vino acum la Mine
+Isus zice:"Vin' la mine“.
+
+[s5]
+5. Cât timp mai vrei să fii-ndemnat?
+Şi de Isus tot aşteptat
+Aleargă-n grabă la Isus
+Şi fericit vei fi nespus.
+Cor: Vino acum la Mine
+Isus zice:"Vin' la mine“.
+
+[order]
+s1,s2,s3,s4,s5

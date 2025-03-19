@@ -1,0 +1,23 @@
+[s1]
+2173
+1. Bezna nopţii s-a risipit
+Că lumina a venit
+S-a coborât din cerul sfânt Să vină pe pământ.
+
+[r1]
+Cor: /: Lumina lumii e Isus, Lumina ce-a venit de sus
+Lumina lumii e Isus,
+Lumina fără de apus :/.
+
+[s2]
+2. Greul şi amarul păcat
+De Isus a fost luat
+Oamenii ce văd lumina Sa Să vină la Golgota.
+
+[s3]
+3.Nu vom mai umbla prin noroi
+Căci Isus este cu noi
+Ne luminează calea către cer, Isus Hristos Emanuel.
+
+[order]
+s1,r1,s2,r1,s3,r1

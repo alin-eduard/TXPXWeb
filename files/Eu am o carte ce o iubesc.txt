@@ -1,0 +1,26 @@
+[s1]
+Eu am o carte ce o iubesc;
+Biblia-i cartea ce o citesc.
+Al ei cuvant ma-nvata mereu
+Ca sa-l iubesc pe-aproapele meu.
+
+[r1]
+Si, dintre cate carti am citit,
+Eu, nici o carte, n-am intalnit,
+Lumina, pace-n suflet sa-mi dea;
+Nu-i nici o carte ca Biblia!
+
+[s2]
+Eu, de cand Biblia o citesc,
+Odihna, pace-n suflet primesc.
+Ea, de Isus, mie mi-a vorbit
+Cum pe Golgota-a fost rastignit.
+
+[s3]
+In Cartea Sfanta eu am aflat
+Ca de pacate eu sunt iertat;
+Crezand in jertfa de pe Calvar,
+Eu - mantuirea o am in dar.
+
+[order]
+s1,r1,s2,r1,s3,r1

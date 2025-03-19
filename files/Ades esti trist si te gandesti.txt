@@ -1,0 +1,32 @@
+[s1]
+Ades eşti trist şi te gandeşti
+Cum să-ţi fie mai bine în viaţă.
+Nu te-nşela, căci nu pe flori
+Ţi se va împlini o speranţă.
+S-ajungi în cer trebuie să mergi
+Pe drumul ce duce la Calvar
+S-ajungi în cer trebuie să lupţi
+Să lupţi, căci şi Isus a luptat.
+
+[s2]
+Dacă eşti bun trebuie să dai
+Şi altora din a ta bunătate.
+Dacă eşti bun trebuie să-nfrunţi
+Minciuna din neagra noapte.
+S-ajungi în cer trebuie să mergi
+Pe drumul ce duce la Calvar
+S-ajungi în cer trebuie să lupţi
+Să lupţi, căci şi Isus a luptat.
+
+[s3]
+Păşeşte acum mai hotărît
+Că Isus e cu tine-n viaţă.
+Ca să ajungi sus trebuie să-nfrîngi
+Greul ce-ţi va sta în faţă.
+S-ajungi în cer trebuie să mergi
+Pe drumul ce duce la Calvar
+S-ajungi în cer trebuie să lupţi
+Să lupţi, căci şi Isus a luptat.
+
+[order]
+s1,s2,s3

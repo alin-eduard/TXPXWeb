@@ -1,0 +1,19 @@
+[s1]
+Un glas ceresc, astăzi cheamă de sus
+Pe orice om ce-n păcat e căzut
+Oricine eşti, chiar de mai rătăceşti Tu poţi să fii mântuit.
+
+[r1]
+Când viaţa Domnului i-o dai
+Face din ea, un colţ de Rai
+Nu mai eşti trist, ci fericit
+Pentru păcat, El s-a jertfit
+
+[s2]
+Jos pe pământ, nu e nimeni să dea
+Odihnă, în sufletul tău obosit
+Orice-ai avea, pe Isus de nu-L ai
+Nu ai nimic, dragul meu.
+
+[order]
+s1,r1,s2,r1

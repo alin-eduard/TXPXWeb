@@ -1,0 +1,29 @@
+[s1]
+Măriţi din suflet, măriţi pe Domnul,
+Vrem să-L mărim, cât vom trăi,
+Cât încă moartea n-aduce somnul,
+Pe Domnu-ntruna-L vom mări!
+El e al lumii Creator
+Şi Domn  atotstăpânitor;
+Aleluia, Aleluia, mărire Lui, mărire Lui!
+
+[s2]
+Ferice-acela, ferice foarte
+Ce ca şi Iacov credincios
+De rugăciune nu se desparte
+Ci speră în Isus Hristos.
+De crezi în Domnul  braţul Său
+Te scapă sigur de-orice rău;
+Aleluia, Aleluia, mărire Lui, mărire Lui!
+
+[s3]
+Măriţi cu toţii înaltul Nume
+Al Celui ce face minuni!
+Orice făptură din astă lume
+Prosterne-se cu-nchinăciuni!
+Copii ai Lui, măriţi cântând
+Pe Tatăl Fiul, Duhul Sfânt,
+Aleluia, Aleluia, mărire Lui, mărire Lui!
+
+[order]
+s1,s2,s3

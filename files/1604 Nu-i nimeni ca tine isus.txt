@@ -1,0 +1,44 @@
+[s1]
+1.Nu-i nimeni ca Tine Isus
+Nu-i nimeni ca Tine Isus
+/:Prin orice durere
+Tu dai mângâiere
+Nu-i nimeni ca Tine Isus:/
+1604.                  Fa
+
+[s2]
+2.Nu-i nimeni ca Tine Isus
+Nu-i nimeni ca Tine Isus
+/:Nu-i nimeni ca Tine
+Să şteargă suspine
+Nu-i nimeni ca Tine Isus:/.
+
+[s3]
+3.Nu-i nimeni ca Tine Isus
+Nu-i nimeni ca Tine Isus
+/:S-aducă iertare şi eliberare
+Nu-i nimeni ca Tine Isus:/.
+
+[s4]
+4.Nu-i nimeni ca Tine Isus
+Nu-i nimeni ca Tine Isus
+/:Să vindece boala
+Să ridice povara
+Nu-i nimeni ca Tine Isus:/.
+
+[s5]
+5.Nu-i nimeni ca Tine Isus
+Nu-i nimeni ca Tine Isus
+/:S-aducă lumină
+Să deie cununa
+Nu-i nimeni ca Tine Isus:/.
+
+[s6]
+6.Nu-i nimeni ca Tine Isus
+Nu-i nimeni ca Tine Isus
+/:S-aducă credinţă
+Să dea biruinţă
+Nu-i nimeni ca Tine Isus:/.
+
+[order]
+s1,s2,s3,s4,s5,s6

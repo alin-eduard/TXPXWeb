@@ -1,0 +1,26 @@
+[s1]
+Cand mi-e grea inima
+Tu-ti arati dragostea
+Si deschizi ochii mei
+Sa-nteleg planul Tau
+Cand nu vad drumul meu
+Sprijin pe bratul Tau
+/: Si deschizi ochii mei
+sa-nteleg planul Tau :/
+
+[r1]
+/: Mari se despart, neamuri vin
+La chemarea Ta Isus
+Viata mea Ti-o inchin
+In Tine speranta-mi pun :/
+
+[s2]
+Si de sufar acum
+Mila Ta e pe drum
+/: Si deschid ochii
+Mei sa-nteleg planul Tau :/
+Cand deschizi ochii mei
+Sa-nteleg planul Tau
+
+[order]
+s1,r1,s2,r1

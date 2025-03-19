@@ -1,0 +1,53 @@
+[s1]
+1.	Bunule Păstor, Tu singur
+În prăpăstii m-ai găsit
+Rătăcit am fost de turmă
+Dar Tu Doamne ai venit.
+Cor:	/: Ce iubire minunată,
+La Tine Doamne am văzut
+Toată viaţa, niciodată
+N-oi uita ce mi-ai făcut :/.
+550.               Re m
+
+[s2]
+2.	Ţi-auzeam vocea-ndurării
+Când pe nume mă chemai
+Nu m-ai vrut lăsat uitării,
+De aceea mă căutai.
+Cor:	/: Ce iubire minunată,
+La Tine Doamne am văzut
+Toată viaţa, niciodată
+N-oi uita ce mi-ai făcut :/.
+
+[s3]
+3.	Cu glasul sfânt, plin de milă
+Mă chemai dar n-auzeam
+Tu plângeai oiţa dragă
+Ţi-ai dat viaţa, tot ce-aveai.
+Cor:	/: Ce iubire minunată,
+La Tine Doamne am văzut
+Toată viaţa, niciodată
+N-oi uita ce mi-ai făcut :/.
+
+[s4]
+4.	Dar m-ai regăsit în vale,
+Sus pe umeri m-ai luat
+O, ce bucurie mare
+Am avut când te-am urmat.
+Cor:	/: Ce iubire minunată,
+La Tine Doamne am văzut
+Toată viaţa, niciodată
+N-oi uita ce mi-ai făcut :/.
+
+[s5]
+5.	Azi, când văd păstori pe dealuri
+Ce-şi duc turma la izvor
+Parcă Te zăresc pe Tine
+Blând Păstor, o, blând Păstor.
+Cor:	/: Ce iubire minunată,
+La Tine Doamne am văzut
+Toată viaţa, niciodată
+N-oi uita ce mi-ai făcut :/.
+
+[order]
+s1,s2,s3,s4,s5

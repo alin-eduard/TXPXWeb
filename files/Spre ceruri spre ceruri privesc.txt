@@ -1,0 +1,38 @@
+[s1]
+Spre ceruri, spre ceruri privesc
+Prin credinţă
+La Isus, la Isus
+Cu pocăinţă
+
+[s2]
+Căci viaţa fără Dumnezeu
+Înseamnă moarte
+Dar fericiţi sunt cei ce-s sfinţi
+De viaţă ei au parte
+
+[s3]
+Căci harul
+Puţină vreme
+Şi Domnul El va veni
+Pe-ai Lui să-i cheme
+
+[s4]
+Să-i fericească-n cerul său
+O veşnicie
+Pe cei ce-n viaţă-au cunoscut
+Trăirea-n sfinţenie
+
+[s5]
+Noi nu ştim un alt stăpîn
+În lumea-ntreagă
+Să scape, să scape de iad
+Pe cei ce-l cheamă
+
+[s6]
+Doar Dumnezeu prin Fiul Său
+Isus Hristos
+Salvează lumea din păcat
+Şi iadu-ntunecos
+
+[order]
+s1,s2,s3,s4,s5,s6

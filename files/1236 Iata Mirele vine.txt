@@ -1,0 +1,44 @@
+[s1]
+1236
+Iată Mirele vine
+Miezul nopţii a sosit
+Fii pentru întâmpinare pregătit
+Aprinde candela ta ia uleiul cu tine
+Şi du-te ’naintea Sa căci vine
+Cor: 	Isuse eu te iubesc mereu
+Te întâmpin eu ştiu bine pe Tine
+Aleluia eu îţi cânt
+Slavă Ţie Doamne Sfânt
+Căci venirea Ta va fi în curând
+1.
+
+[s2]
+Fecioare fericite
+Ce tot priveghind aţi stat
+Pe Mire-ntruna aţi aşteptat
+Voi la nuntă acum intraţi
+Cu Mirele vostru sfânt
+Şi pe veci vă bucuraţi Lui cântând
+2.
+Cor: 	Isuse eu te iubesc mereu
+Te întâmpin eu ştiu bine pe Tine
+Aleluia eu îţi cânt
+Slavă Ţie Doamne Sfânt
+Căci venirea Ta va fi în curând
+
+[s3]
+Fecioarele ce-au dormit
+Au primit o osândă
+Căci Domnul nu le-a primit la nuntă
+Fraţilor să ne silim
+Fiind gata orişicând
+Căci în curând va veni cel prea sfânt.
+3.
+Cor: 	Isuse eu te iubesc mereu
+Te întâmpin eu ştiu bine pe Tine
+Aleluia eu îţi cânt
+Slavă Ţie Doamne Sfânt
+Căci venirea Ta va fi în curând
+
+[order]
+s1,s2,s3

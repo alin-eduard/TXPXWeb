@@ -1,0 +1,61 @@
+[s1]
+Necazuri, suferinta,
+dureri si incercare
+Doar lacrimi si suspine
+mai ai in viata ta
+In lumea fara mila,
+ce-si cauta scapare,
+Alearga spre mai bine,
+nu are grija ta.
+
+[s2]
+/: O suflet fara pace,
+zdrobit de suferinta,
+Ajuns ca sa pazeasca
+chiar turmele de porci
+Gonit de multe pofte,
+pierdut in alergare
+Hranindu-se cu roscovi
+ce ii pareau gustosi. :/
+
+[s3]
+Si cand mi-aduc aminte
+candva ai fost copilul
+Cu suflet pur si tandru
+si fara de pacat.
+Aveai avere multa
+acasa la batranul Tau Tata
+De la care acuma ai plecat.
+
+[s4]
+/: Si chinul vietii aspre
+ti-a ruinat gandirea
+Iar fapte imorale
+ai savarsit mereu.
+Pierdut-ai tu toti banii,
+pierdut-ai fericirea
+Si ai uitat de Tatal,
+de Bunul Dumnezeu. :/
+
+[s5]
+Nu asta iti e scopul,
+nu asta ti-e menirea
+In lumea-aceasta mare
+si plina de pacat.
+Intoarce-te degraba,
+primeste mantuirea!
+Cu glasu-I bland de
+Tata vei fi iar alinat.
+
+[s6]
+/: Te va primi acasa
+Cel inalbit de zile
+La pieptu-I te va
+strange si te va saruta.
+O, fiu pierdut te-ntoarce,
+vino-ti acum in fire
+Caci maine poate
+nu va mai fi sansa ta. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

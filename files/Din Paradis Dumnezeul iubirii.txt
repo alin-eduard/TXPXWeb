@@ -1,0 +1,22 @@
+[s1]
+Din Paradis, Dumnezeul iubirii
+Ne-a dăruit un Sabat minunat!
+El l-a sfinţit şi l-a dat omenirii
+Ca un altar peste veacuri ‘nălţat.
+
+[r1]
+Te preamărim, Dumnezeule mare,
+Tu-mplineşti ale noastre nevoi,
+Chiar printre nori, ca o rază de soare,
+Sabat de Sabat cobori lângă noi.
+
+[s2]
+Purtând din zori gingăşie de floare, Dar şi tăria înalţilor munţi,
+Ca semn etern de curată-nchinare Sabatul sfânt vrem să-l scriem pe frunţi.
+
+[s3]
+Noi nu cedăm închinării păgâne
+Şi nu stricăm Legea Celui Preasfânt, Căci pentru veci ziua-a şaptea Rămâne Zi de-nchinat şi pe Noul Pământ.
+
+[order]
+s1,r1,s2,r1,s3,r1

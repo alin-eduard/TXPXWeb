@@ -1,0 +1,20 @@
+[s1]
+Căsătorie fără Tine nu-i!
+Vino, Isuse la noi!
+Noi Te rugăm, spre cer, Tu să îi sui
+În unire, pe-aceşti doi.
+
+[r1]
+/: Binecuvântă, binecuvântă
+Tinerii ce se unesc!
+Binecuvântă-i, binecuvântă-i,
+Căci au spus că Te iubesc! :/
+
+[s2]
+Binecuvântă tot acest popor
+Care strigă după Tine,
+Căci Tu ne dai a-cerului comori.
+Vino Isuse la noi
+
+[order]
+s1,r1,s2,r1

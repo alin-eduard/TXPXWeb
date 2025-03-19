@@ -1,0 +1,35 @@
+[s1]
+1. Zi de zi clipită de clipită
+Lângă Domnul meu trăiesc
+De e zi cu soare sau furtună
+Ochii mei spre cer privesc
+2224
+Mi
+
+[r1]
+Cor: /: Aleluia, Aleluia
+Isus m-a răscumpărat
+Aleluia, Aleluia
+Pace sfântă El mi-a dat :/.
+
+[s2]
+2.Când zăceam din greu
+În suferinţă
+Isus e mângâietor
+Niciodată nu mă lasă singur
+Când Îl chem în ajutor
+
+[s3]
+3.Cât de fericit mă simt în clipa
+Când ispit-am biruit
+Căci Isus în ceasul încercării
+Pasul mi-a călăuzit
+
+[s4]
+4.Traiul meu în lume fără Isus
+Ar fi doar un chin amar
+Aş fi rob sortit pierzării
+De n-aş fi salvat prin har
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

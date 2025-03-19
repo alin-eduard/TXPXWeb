@@ -1,0 +1,38 @@
+[s1]
+La poarta ta bat azi indurerate
+A dragostei aprinse staruinti
+Cu lacrima taceri-nduiosate
+Din ziua sfant-a primei nazuinti.
+
+[r1]
+Adu-ti aminte, o, adu-ti aminte
+De harul sfant al dragostei dintai
+De fericirea fara de cuvinte
+Ce-ti leaga al vietii capatai
+
+[s2]
+Cand usa ta mi-era mereu deschisa
+Cand rugaciunea ta veghea pe prag
+Si-n ochii tai neprihanirea scrisa
+Iti lumina privirile cu drag.
+
+[s3]
+Adu-ti aminte de clipele acelea
+Si uitat-te la starea ta de-acum,
+Cand stau si bat, cand lacrimile Mele
+La ppoarta ta inchisa cad in drum.
+
+[s4]
+Deschide-mi iar a inimi-ncapere
+A dragostei curate de demult
+Iubirea mea iubirea ta o cere
+O,fa-ma iar ca glasul sa-ti ascult.
+
+[s5]
+Deschide iara Domnului ce bate
+Deschide iara dragostei fierbinti
+Deschide-mpartasirilor curate,
+Din ziua sfint-a primei nazuinti
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,29 @@
+[s1]
+1. De-ai şti suflete cum Eu te iubesc
+Te-ai dezbrăca de omul pământesc
+Ţi-ai lua crucea zilnic Mi-ai urma
+În păcat o clipă n-ai mai sta.
+359.
+
+[r1]
+Cor: /:De-ai şti suflete:/
+De-ai şti suflete
+În ce loc eşti aşteptat
+/:N-ai mai sta o clipă în păcat:/.
+
+[s2]
+2. De-ai şti suflete cum Eu te-am iubit
+Mi-am dat viaţa să fii fericit
+Şi sus în ceruri raiul ţi-am deschis
+Ca să fii cu Mine-n paradis.
+
+[s3]
+3. De-ai şti suflete
+Cum morţii M-am dat
+Cum sângele pe cruce
+Mi-am vărsat
+Tu stai în rău şi dormi nepăsător
+Nu mă cunoşti ca pe-al tău Salvator.
+
+[order]
+s1,r1,s2,r1,s3,r1

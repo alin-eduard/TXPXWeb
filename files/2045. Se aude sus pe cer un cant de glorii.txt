@@ -1,0 +1,59 @@
+[s1]
+2045                                                                           Sol
+1. Se-aude sus pe cer un cânt de glorii
+Mai e puţin, să nu te laşi răpus,
+Să nu-ţi pierzi, frate, premiul alergării,
+Curând e întâlnirea cu Isus.
+
+[s2]
+Când negura-ameninţă în zare
+Şi cerul e mereu întunecat,
+Chiar dacă urlă marea cu turbare,
+Destinul tău e binecuvântat.
+
+[s3]
+2. Mă lupt cu fiecare ceas ce trece
+Să-nalţ pe culmi al dragostei stindard,
+În clocot doar, nu căldicel, nici rece
+Ci-n Duhul Tău mereu, mereu să ard
+
+[s4]
+Când se vor termina acestea toate
+Şi Mirele cât va mai zăbovi?
+Eu nu ştiu dacă nu va fi la noapte,
+Dar ştiu că Cel ce vine va veni.
+
+[s5]
+3. Cum se înalţă-n zboru-i ciocârlia
+În albe stoluri vom pleca şi noi,
+Vom părăsi pe totdeauna glia
+Purtând pe cap cunună de eroi.
+
+[s6]
+Suntem străjeri în veghe necurmată,
+Urcăm cu pasul nostru temerar,
+În sânge haina noastră e spălată,
+În sângele lui Isus la Calvar.
+
+[s7]
+4. Mai zăbovești Tu, oare, pentru mine
+Să calci al răzbunării crunt hotar
+Căci până când, o, până când, Stăpâne,
+Tot strigă mulți martiri de sub altar?
+
+[s8]
+Ref1:
+Tânjesc în aşteptarea țării mele,
+E năzuinţa mea de căpătâi
+Să las în urmă mii şi mii de stele,
+Pe frunte, drag Isus, să mă mângâi
+
+[s9]
+Ref2:
+Vreau să mă strângi la pieptul Tău,o, Tată
+Să uit tot greul ce l-am dus cândva,
+Să-mi spui cu vocea-Ţi binecuvântată:
+"O, vino, slugă bună-n casa mea!"
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

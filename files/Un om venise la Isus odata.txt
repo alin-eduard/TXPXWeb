@@ -1,0 +1,32 @@
+[s1]
+Un om venise la Isus odată
+Şi, sigur fiind pe sine, I-a vorbit:
+Cu Tine vreau să merg în lumea toată!
+Iar cei din jur cu multă stimă l-au privit.
+
+[s2]
+Dar Domnul cu dragoste astfel vorbi Că El n-are unde-odihni
+Că n-are-o casă, un loc stătător
+Că-n lume El e călător.
+Chiar fiarele cîmpului au vizuină
+Iar păsările cuib călduţ
+Dar cei ce-L urmează vor fi peregrini
+Uraţi orişicand sunt văzuţi.
+
+[s3]
+Precum venise-odată cărturarul
+Sunt mulţi acei ce astăzi fac la fel
+Iar cand în viaţă vine şi amarul
+Îl părăsesc, încet se leapădă de El.
+
+[s4]
+Dar dacă voieşti ca să mergi cu Isus
+Ascultă ce Domnul a spus
+Iubeşte ce Domnul ar iubi
+Priveşte ce El ar privi
+Păşeşte pe unde şi El ar păşi
+Vesteşte ce El ar vesti
+Trăieşte cum El ar trăi
+
+[order]
+s1,s2,s3,s4

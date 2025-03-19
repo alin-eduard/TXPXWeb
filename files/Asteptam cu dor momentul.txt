@@ -1,0 +1,38 @@
+[s1]
+Aşteptăm cu dor momentul
+La Isus iar să venim,
+Ca din gura Lui măiastră
+Sfaturi bune să primim.
+
+[s2]
+Fă ca-nvăţătura noastră
+Să nu fie în zadar,
+Scrie-ne vorbirea-Ţi sfântă
+Pe al inimii altar.
+
+[s3]
+La-ale Domnului picioare
+Toţi cu drag ne-am aşezat
+Să-ascultăm rostirea-I dulce
+Despre Fiul adorat.
+
+[s4]
+Tu ne-nvaţă scump Isuse,
+Cum putem fi mântuiţi,
+Cum putem obţine viaţa
+Fara griji si suferinti.
+
+[s5]
+Pune foc, pune iubire
+În puternicu-Ţi Cuvânt
+Şi cu forţă neînvinsă
+Să lucreze-n noi avânt.
+
+[s6]
+Să păstrăm şi noi întruna
+Ce ne-ai spus Tu arzător,
+Să dăm şi-altora in ştire
+Că Tu eşti al vieţii-izvor.
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,61 @@
+[s1]
+Gândindu-ma la tine-acum,
+o, sora mea iubita
+Caci tu de azi mergi pe alt drum,
+te rog să ai o clipa.
+
+[s2]
+Şi uita-te in urma ta la florile ramase
+Nu vezi cum plâng toate şi zic :
+<Te duci cu Domnu-n pace !
+
+[s3]
+Şi Domnul te va ajuta
+in arşita cea mare
+Să-ti duci usor povara ta
+ce tie ti-a fost data.
+
+[s4]
+Ai fost o floare pâna azi,
+frumoasă şi-nflorita
+Cu timpul, vei ajunge
+tu o floare vestejita.
+
+[s5]
+Dar nu descurajati,
+va spun, mireasă, şi tu, mire
+In calea voastră fi-vor flori,
+pace şi fericire.
+
+[s6]
+Nu plânge ca iti parasesti
+tu casa ta iubita
+Caci paşii tai s-or indrepta
+spre-o alta locuinta.
+
+[s7]
+Nu plânge ca o parasesti
+pe-a ta iubita mama
+Ea plânge, ca tu-n casă-ai fost
+a ei copila draga.
+
+[s8]
+Iar tie, mire, eu iti spun
+ca floarea care-ai rupt-o
+Să nu o laşi batuta-n drum
+de ploaie sau furtuna
+
+[s9]
+Scuteste-o tu cum vei putea
+şi cere-I ajutorul
+Acelui care-l poate da
+e Domnul, Salvatorul.
+
+[s10]
+Şi-acum din inima va zic,
+din suflet ca de frate
+In calea voastră numai flori,
+pace şi sănatate.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

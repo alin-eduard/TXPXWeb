@@ -1,0 +1,26 @@
+[s1]
+Desăvârşită e,
+Doamne, iubirea Ta,
+Umple-mă pe deplin cu ea,
+Să­mi ardă inima.
+
+[s2]
+Caldă ca soarele
+Să mă­nfăşoare­aş vrea,
+Călăuzit să fiu mereu
+Doar de iubirea Ta.
+
+[s3]
+Iar când vin încercări,
+Aspre furtuni ce gem,
+Sunt ancorat în dragoste,
+De­aceea nu mă tem.
+
+[s4]
+Inima mea acum cântă
+Un imn slăvit
+Dragostei mari, ce pe Calvar
+Murind, m­a mântuit.
+
+[order]
+s1,s2,s3,s4

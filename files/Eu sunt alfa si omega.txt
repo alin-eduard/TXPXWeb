@@ -1,0 +1,52 @@
+[s1]
+Eu sunt alfa şi omega,
+Eu sunt alfa şi omega:
+Domnul Isus a zis.
+Începutul şi sfârşitul este Dumnezeu;
+Nu e altul pe pământ şi-n cer.
+Eu sunt alfa şi omega,
+Eu sunt alfa şi omega:
+Domnul Isus a zis.
+
+[r1]
+„Iată, Eu vin curând” zice Domnul:
+„Iată, răsplata voastră e cu mine,
+Voi da la fiecare”
+Zice Domnul, „în curând, curând”
+„Iată, Eu vin curând” zice Domnul:
+„Iată, răsplata voastră e cu mine,
+Voi da la fiecare”
+Zice Domnul, „în curând, Eu vin”
+
+[s2]
+Cine-i sfânt să se sfinţească,
+cine-i sfânt să se sfinţească:
+Domnul Isus a zis.
+Că afară vor rămâne acei mincinoşi;
+Şi acei ce sunt necredincioşi.
+Cine-i sfânt să se sfinţească,
+cine-i sfânt să se sfinţească:
+Domnul Isus a zis.
+
+[s3]
+Cei setoşi să vină astăzi,
+cei setoşi să vină astăzi
+La Isus şi să bea.
+Hainele în sfântul sânge să vi le spălaţi;
+Apa vieţii în dar căpătaţi.
+Cei setoşi să vină astăzi,
+cei setoşi să vină astăzi
+La Isus şi să bea.
+
+[s4]
+Domnul vine: „Maranata”,
+Domnul vine: „Maranata”!
+Amin! Aleluia!
+Duhul şi mireasa strigă: Vino Isuse;
+Mântuiţii strigă: Glorie!
+Domnul vine: „Maranata”,
+Domnul vine: „Maranata”!
+Amin! Aleluia!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

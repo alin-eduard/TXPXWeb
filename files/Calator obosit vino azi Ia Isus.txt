@@ -1,0 +1,26 @@
+[s1]
+Călător obosit vino azi Ia Isus
+Sa îî dai toată inima ta
+Tu nu vezi că Satan
+Stă tot la călcâiul tău
+Şi-ţi şopteşte să faci numai rău.
+
+[r1]
+/: Vino azi la Isus
+Dacă vrei s-ajungi Sus
+Nu-L mai tine să bată mereu
+Deschide-ţi inima ca să intre in ea
+Şi să fie pe veci Domnul tău :/
+
+[s2]
+Drumul Tău este greu
+Fără de Dumnezeu
+Nu-ţi dai seama ce faci
+Tu acum
+Dacă nu îl primeşti
+Ai să te rătăceşti
+Şi n-ai să mai găseşti
+Un alt drum.
+
+[order]
+s1,r1,s2,r1

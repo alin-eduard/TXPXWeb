@@ -1,0 +1,20 @@
+[s1]
+Doamne, precum vrei aşa fă Tu
+Tu eşti Olarul, iar eu lutul
+/: Fă-mă ca să fiu pe placul Tău
+Acum când stau la Cuvântul Tău :/
+
+[s2]
+Doamne, precum vrei aşa fă Tu
+Cearcă-mi inima şi sufletul
+/: Mai alb ca neaua spală-m-acum
+Când înaintea Ta mă supun :/
+
+[s3]
+Doamne, precum vrei aşa fă Tu
+Rănit, obosit eu vin acum
+/: Toată puterea e la Tine
+Atinge-mă şi voi fi bine :/
+
+[order]
+s1,s2,s3

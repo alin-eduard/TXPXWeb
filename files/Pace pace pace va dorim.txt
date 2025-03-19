@@ -1,0 +1,30 @@
+[r1]
+Pace, pace, pace vă dorim!
+Pace, pace, pacea Domnului vă dorim!
+
+[s1]
+Nu pacea dintre două războaie
+Nu pacea cînd învinşi zăceţi
+Nu pacea cînd balanţa urii e mai greoaie
+Decît cea a dragostei.
+
+[s2]
+Nu resemnarea dinaintea morţii
+Acolo unde viaţa a-nflorit
+Nu încremenirea cînd zborul sorţii
+La mormînt s-a oprit.
+
+[s3]
+Pacea care orice pricepere întrece
+Şi-n viaţa noastră curge ca un rîu
+Pacea care orice rană ştie s-o lege
+Căci e pacea lui Dumnezeu.
+
+[s4]
+Pacea lui Dumnezeu în tine începe
+Şi în curînd tu vei vedea -
+Ceea ce Dumnezeu în tine pune
+Curge spre inima altora.
+
+[order]
+r1,s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,47 @@
+[s1]
+1103.                                                          La
+Aleluia!
+În tot timpul zilei binecuvântează-L!
+Aleluia!
+Pretutindeni orişicând
+
+[r1]
+Mie îmi place lauda, cântul.
+Domnului să le închin
+Mie îmi place lauda, cântul, ruga, toate
+Domnului să le închin.
+
+[s2]
+1.Eu vreau să spun de Isus
+/:Orişiunde sunt, da:/
+Orişiunde sunt
+Eu vreau să spun de Isus
+Orişiunde sunt,
+Adevărul proclamând.
+
+[r2]
+Aleluia!
+În tot timpul zilei binecuvântează-L!
+Aleluia!
+Pretutindeni orişicând
+
+[s3]
+2.Eu vreau să spun credinţa
+/:Orişiunde sunt, da:/
+Orişiunde sunt
+Eu vrea să spun credinţa
+Orişiunde sunt,
+Adevărul proclamând.
+
+[s4]
+3.Eu vreau să cânt iubirea
+/:Orişiunde sunt, da:/
+Orişiunde sunt
+Eu vrea să cânt iubirea
+Orişiunde sunt,
+Adevărul proclamând.
+!
+!
+
+[order]
+s1,r1,s2,r2,r1,s3,r2,r1,s4

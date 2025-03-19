@@ -1,0 +1,53 @@
+[s1]
+1945
+1. Lucruri nemaipomenite
+La răpire vom vedea
+Când din zarea cea albastră
+Domnul ne va aduna
+Întâlnire minunată
+Cu cei dragi care sau dus
+Bucurie fără margini
+Fi-va-n ceruri cu Isus.
+
+[r1]
+Cor: O răpire ce uimire
+Pentru sfinți atunci va fi
+Căci suspinul și durerea
+Pentru veci se vor sfârși
+Minunată sărbătoare
+Pentru cei răscumpărați
+Spre cetatea cea de aur
+Vom zbura surori și frați.
+
+[s2]
+2. Lucruri nemaipomenite
+La răpire vom vedea
+Când o trâmbiță cerească
+Va chema oștirea Sa
+Mirele Isus cu slavă
+În văzduh se va arăta
+Iar pe nori la o clipeală
+Duhul Sfânt ne va schimba.
+
+[s3]
+3. Fraților grăbiți venirea
+Așteptând cu mai mult dor
+Să strigăm o vino Doamne
+După sfântul tău popor
+Căci răpirea e aproape
+Mirele va reveni
+Promisiunile făcute
+Domnul le va împlini.
+
+[s4]
+4. Nu mai stați nicicând pe gânduri
+Alergați înspre Sion
+Lăudați mai mult pe Domnul
+Azi treziți-vă din somn
+Iată Mirele apare
+Hainele le pregătiți
+Fiți fecioare înțelepte
+Pașii către cer grăbiți.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

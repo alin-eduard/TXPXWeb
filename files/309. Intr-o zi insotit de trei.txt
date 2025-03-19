@@ -1,0 +1,70 @@
+[s1]
+Fa
+1. Într-o zi însoţit de trei
+Dintre ucenicii Săi
+Pe un munte 'nalt Isus
+Spre a se ruga s-a dus.
+309.
+
+[s2]
+2. Şi rugându-se-nfocat
+El la faţă s-a schimbat
+Şi era strălucitor
+Faţa ca luceafărul.
+
+[s3]
+3. Albă îmbrăcămintea toată
+Ca zăpada de curată
+Ucenicii văd miraţi
+Cum coboară doi bărbaţi.
+
+[s4]
+4. Din 'nălţimea viorie
+Erau Moise şi Ilie
+Cu Isus ei au vorbit
+Când de ei s-au despărţit.
+
+[s5]
+5. Doamne Petru glăsui
+Cât de bine este aici
+În acest loc dacă vrei
+Face-vom colibe trei.
+
+[s6]
+6. Câte una lui Ilie
+Şi lui Moise una Ţie
+Astfel dânsul când grăia
+Nouri mari se-nvăluia.
+
+[s7]
+7. Şi din norul luminat
+Glas ceresc a răsunat
+Glasul celui Preamărit
+Iată Fiul meu iubit.
+
+[s8]
+8. Câţi pe lume vă aflaţi
+De acesta s-ascultaţi
+Ucenicii lui Hristos
+Au căzut cu faţa-n jos.
+
+[s9]
+9. Când s-au ridicat toţi trei
+Numai El era cu ei
+Coborând le-a zis pe drum
+De vedenia de-acum.
+
+[s10]
+10. Ucenicii mei iubiţi
+Nimănui să nu vorbiţi
+Până după moartea Mea
+Când din morţi voi învia.
+
+[s11]
+11. Şi supuşi poruncii Lui
+Ucenicii Domnului
+Nu vorbiră nimănui
+Până după moartea Lui.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11

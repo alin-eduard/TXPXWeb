@@ -1,0 +1,31 @@
+[s1]
+Vreau să­ţi spun amice
+Totul despre Domnul
+Cum în El un bun prieten am aflat,
+Cum viaţa mi­a schimbat­o El,
+Cu totul
+Şi­a lucrat în chip atât de minunat!
+
+[r1]
+Ce prieten minunat există,
+E Isus ce vina mi­a iertat,
+Prin credinţă am viaţa înnoită,
+Ce prieten minunat!
+
+[s2]
+Păcătos am fost
+Când Domnul mă găsise,
+Chinuit nespus în falsele­mi plăceri;
+Dar cu dragoste El mâna îmi întinse
+Îndrumându-mă pe calea către cer.
+
+[s3]
+Bucuria mea în Domnu
+E nespusă
+Şi iubirea­I tot mai mult o preţuiesc;
+Pentru jertfa Lui
+Pe Golgota depusă,
+Cu întreaga mea fiinţă Îl iubesc!
+
+[order]
+s1,r1,s2,r1,s3,r1

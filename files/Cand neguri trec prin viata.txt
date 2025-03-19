@@ -1,0 +1,38 @@
+[s1]
+Când neguri trec prin viaţă,
+Te-ntrebi adeseori:
+„De ce-Şi ascunde Faţa
+Cel Sfânt, de-atâtea ori?"
+
+[s2]
+„Păcatul" e răspunsul.
+„E zidul înălţat.
+Te-a despărţit de Domnul
+Şi greu te-a condamnat."
+
+[s3]
+Numai credinţa vie
+În jertfa lui Isus
+Dărâmă, pe vecie,
+Tot zidul înterpus.
+
+[s4]
+Ce mare sărbătoare
+Va fi în cer prin cânt,
+Când vei dori iertare
+Din mâna Celui Sfânt!
+
+[s5]
+Cel Rău se va opune,
+Furtuni vor bântui,
+Dar tu, prin rugăciune,
+Mereu vei birui.
+
+[s6]
+În Faţa Celui Veşnic,
+Isus te-a prezenta
+Un bun urmaş ce-i vrednic
+Să intre-n slava Sa.
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,48 @@
+[s1]
+Binecuvântaţi părinţii
+Totdeauna pe pământ,
+E povaţa şi dorinţa
+Și porunca celui Sfânt
+E povaţa şi dorinţa
+Și porunca celui Sfânt.
+
+[r1]
+Fericiţi vor fi copiii
+Ce părinţii şi-i cinstesc,
+Fericiţi vor fi părinţii
+Ce copiii-n Domnu-şi cresc.
+
+[s2]
+Binecuvântaţi părinţii
+Și mereu să-i ascultaţi
+Căci aşa veţi fi de-a pururi
+Și voi binecuvântaţi!
+Căci aşa veţi fi de-a pururi
+Și voi binecuvântaţi!
+
+[s3]
+Binecuvântaţi părinţii chiar
+Și când vă este greu
+Căci oricând veţi face astfel,
+Ascultaţi de Dumnezeu!
+Căci oricând veţi face astfel,
+Ascultaţi de Dumnezeu!
+
+[s4]
+Binecuvântaţi părinţii
+Și deplin să-i ajutaţi,
+Căci oricât de mult le-aţi face,
+N-aţi plătit cât datoraţi!
+Căci oricât de mult le-aţi face,
+N-aţi plătit cât datoraţi!
+
+[s5]
+Binecuvântaţi părinţii chiar
+Și-atunci când nu mai sunt,
+Cu iubire şi cu lacrimi
+Nu uitaţi al lor mormânt!
+Cu iubire şi cu lacrimi
+Nu uitaţi al lor mormânt!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

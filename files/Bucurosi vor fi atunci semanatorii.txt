@@ -1,0 +1,26 @@
+[s1]
+Bucuroşi vor fi atunci semănătorii
+Când cu sfinte lacrimi pun sămânţa lor;
+Numai când puterea vine de la Domnul
+Ei de rodul muncii bucura-se-vor.
+
+[r1]
+Snopi aduce-vor, snopi aduce-vor
+Când cu sfinte lacrimi pun sămânţa lor,
+Snopi aduce-vor, snopi aduce-vor,
+Secerând cu râvnă, bucura-se-vor.
+
+[s2]
+Puneţi dimineaţa în ogor sămânţa,
+Nu-ncetaţi şi de-ar fi în amiaz’ de zi,
+Chiar şi-n faptul serii semănaţi cuvântul
+Că-n sfârşit un mare seceriş va fi.
+
+[s3]
+Chiar de e ogorul plin de spini şi pietre,
+Harnici, cu iubire voi să semănaţi,
+Căci cuvântul vieţii va găsi-mplinire
+Si de roade sfinte-apoi vă bucuraţi.
+
+[order]
+s1,r1,s2,r1,s3,r1

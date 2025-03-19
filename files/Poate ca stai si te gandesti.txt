@@ -1,0 +1,28 @@
+[s1]
+Poate ca stai si te gandesti
+daca exista rai
+Daca e viata dupa moarte
+Sau viata-aceasta o ai
+/: Poate ca nu stii care-i drumul
+Pe care sa apuci
+Eu te-ndemn sa vii la Isus
+Spre cer si tu sa urci. :/
+
+[r1]
+Vino azi la pocainta
+Caci tu nu stii cat vei mai trai
+Dumnezeu te iarta prin credinta
+Daca tu in fata Lui te vei smeri.
+
+[s2]
+Poate te-ntrebi care-i credinta
+Din multele pareri
+Ai vrea s-ajungi in vesnicie
+Dar nu stii cum sa crezi
+/: Poate ca nu mai ai exemple
+Spre care sa privesti
+Eu te-ndemn sa vii la Isus
+Spre El tu sa privesti. :/
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,26 @@
+[s1]
+A mea inimă suspină
+După cerescul cămin,
+Unde-i linişte deplină
+Grijuri nu-s şi nici un chin.
+
+[r1]
+/: Ah doresc, doresc o casă nouă,
+Un oraş strălucitor,
+Unde îngerii veghează
+Sus, deasupra porţilor. :/
+
+[s2]
+Acolo domneşte-o pace
+Care nu-i jos pe pământ,
+Chiar îngerilor le place
+S-o laude în a lor cânt.
+
+[s3]
+Mai domneşte-o bucurie
+Fără umbră, fără nor,
+Ce durează-n veşnicie
+Ca şi-al ei dăruitor.
+
+[order]
+s1,r1,s2,r1,s3,r1

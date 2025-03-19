@@ -1,0 +1,54 @@
+[s1]
+Cauti prin lume,
+si nu gasesti nimic,
+Slergi spre fericire,
+si esti neimplinit.
+Isus te cheama astazi,
+iertare sa iti dea
+Vino, te ‘ntoarce-acuma
+si nu vei regreta!
+
+[r1]
+/: Vino, vino la Isus,
+Iertare vei afla!
+Vino, vino la Isus,
+Si viata iti va da, hai!:/
+
+[s2]
+Astazi tu esti chemat,
+Pe Isus sa il primesti,
+Preda-i inima ta,
+In dar sa-i daruiesti!
+Isus mai da iertare,
+Prin sangele-i ce-a curs
+Pe lemnul din Golgota,
+Azi vino la Isus!
+
+[s3]
+Trece Isus prin Ierusalim,
+Trece sa-si vada al Sau popor,
+Strigati cu toti de bucurie,
+Cantati cu totii azi in cor!
+
+[r2]
+/: Cu ramuri de finic
+sa-l intampinam,
+Osana, aleluia sa strigam!
+El este Domn in cer,
+ca si pe pamant,
+Cantati-i celui vesnic sfant.:/
+
+[s4]
+Trece si azi in cercetare,
+Sa vindece pe fiecare,
+Roaga-te si nu te-ntrista,
+Isus cunoaste boala ta!
+
+[s5]
+E zi de har si bucurie,
+Suntem cu toti la partasie,
+Sa ne rugam si sa cantam,
+Marire lui Isus sa-i dam!
+
+[order]
+s1,r1,s2,r1,s3,r2,s4,r2,s5,r2

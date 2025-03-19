@@ -1,0 +1,36 @@
+[s1]
+Când umblăm cu Domnul
+Si-ascultăm cuvântul,
+Cât de glorioasă ni-e calea;
+Cât timp l-om asculta,
+Cu noi va rămânea,
+Si cu toţi cei ce fac voia Sa.
+
+[r1]
+Să ne-ncredem,
+S-ascultăm de Domnul.
+Si-om fi veseli în Isus,
+Răspândind cuvântul.
+
+[s2]
+Când nori se ridică
+Drumul ne-ntunecă,
+El cu a sa faţă senină,
+Frica şi durerea şi nemângâierea,
+Ne ia şi calea luminează.
+
+[s3]
+A plăti Domnului pentru iubirea Lui,
+Noi nicicând pe deplin nu putem,
+Până pe-al Său altar,
+Nu ne dăm Lui ca dar.
+Si-ntru toate-n El să ne-ncredem.
+
+[s4]
+Atunci cu iubire la ale Lui picioare,
+Noi privind, în faţa Lui vom sta,
+Si vom putea face, tot ce ne va zice,
+Dacă-n toate îl vom asculta.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

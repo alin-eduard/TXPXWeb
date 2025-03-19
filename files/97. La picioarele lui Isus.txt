@@ -1,0 +1,39 @@
+[s1]
+97.                Sol m
+1. La picioarele lui Isus
+E loc sfânt şi fericit
+Unde aud cuvântul sfânt
+Şi tot ce-am de păzit.
+
+[s2]
+2. Şezând la picioarele Lui
+Tot necazul s-a sfârşit
+Iubirea Lui graţioasă
+Eu acolo am dobândit.
+
+[s3]
+3. Şezând la picioarele Lui
+Binecuvântări adun
+Şi mereu m-apropii Doamne
+Întristarea mea să-Ţi spun.
+
+[s4]
+4. La picioarele-ţi Isuse
+O să stau eu ne-ncetat
+Să primesc iubire-adâncă
+Harul Tău cel Sfânt, bogat!
+
+[s5]
+5. Binecuvântă-mă Doamne
+Când înaintea Ta mă plec
+Mă ajută Tu prin lume
+Fericit cu Tin' să trec.
+
+[s6]
+6. Doamne dă-mi a Ta sfinţire
+Ca Isus doresc să fiu
+Şi mă-mbracă în iubire
+Până nu e prea târziu!
+
+[order]
+s1,s2,s3,s4,s5,s6

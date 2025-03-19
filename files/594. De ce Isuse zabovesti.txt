@@ -1,0 +1,74 @@
+[s1]
+1. De ce Isuse zăboveşti
+Venind pe nori să te iveşti?
+Biserica Ta să ţi-o iei
+De ce să Te întorci nu vrei?
+Cor: /: De ce? :/
+Acolo-n ceruri voi afla
+Răspuns la toate-oi căpăta!
+594.
+
+[s2]
+2. De ce pe unii îi fereşti
+Cu nici un rău nu îi loveşti?
+Iar alţii suferă din greu
+De ce-i aceasta, Domnul meu?
+Cor: /: De ce? :/
+Acolo-n ceruri voi afla
+Răspuns la toate-oi căpăta!
+
+[s3]
+3. De ce bogaţi sunt unii azi
+Feriţi de orişice necaz
+Iar alţii, mulţi în lipsuri zac
+De ce acestea toate îţi plac?
+Cor: /: De ce? :/
+Acolo-n ceruri voi afla
+Răspuns la toate-oi căpăta!
+
+[s4]
+4. De ce atâţi bolnavi în pat
+De ce în suferinţi se zbat?
+De ce atâţi orfani pe drum
+De ce aceasta bun Stăpân?
+Cor: /: De ce? :/
+Acolo-n ceruri voi afla
+Răspuns la toate-oi căpăta!
+
+[s5]
+5. De ce sunt ispitit Isus
+Când dorul meu întreg e-n sus?
+Şi-n încercări adeseori
+De ce sunt frânt de-atâtea ori?
+Cor: /: De ce? :/
+Acolo-n ceruri voi afla
+Răspuns la toate-oi căpăta!
+
+[s6]
+6. De ce atâţia mă urăsc
+Când eu pe toţi vreau să-i iubesc
+Şi multe vorbe rele aud
+De ce la toate să fiu surd?
+Cor:  /: De ce? :/
+Acolo-n ceruri voi afla
+Răspuns la toate-oi căpăta!
+
+[s7]
+7. De ce? De ce ne întrebăm
+Răspunsul astăzi nu-l aflăm
+O Tu Cel ce putere ai
+De ce nu-l dai? De ce nu-l dai?
+Cor: /: De ce? :/
+Acolo-n ceruri voi afla
+Răspuns la toate-oi căpăta!
+
+[s8]
+7. Iar când în ceruri voi intra
+Durerile-mi vor înceta
+El îmi va şterge lacrima
+Isus răspunsul îmi va da.
+Cor: /: În cer :/ În ceruri vom cânta
+În veci de veci, aleluia.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

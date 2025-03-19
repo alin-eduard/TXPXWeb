@@ -1,0 +1,14 @@
+[s1]
+În viaţa mea /: fii glorificat :/
+În viaţa mea fii glorificat, Doamne.
+
+[s2]
+În familie /: fii glorificat :/
+În familie fii glorificat, Doamne.
+
+[s3]
+În biserică /: fii glorificat :/
+În biserică fii glorificat, Doamne.
+
+[order]
+s1,s2,s3

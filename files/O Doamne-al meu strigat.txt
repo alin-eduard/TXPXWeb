@@ -1,0 +1,27 @@
+[s1]
+O, Doamne-al meu strigat,
+Tu l-ai ascultat
+Si-n suflet speranta si pace-ai lasat;
+/: Zilele triste si negre s-au dus,
+Un cintec de slava inchin lui Isus :/
+
+[s2]
+Imi salta de dragoste azi inima
+Si cinta un cintec, marind slava Ta.
+/: Ochii isi indreapta privirea in sus
+Si buzele-mi canta: "slavit fii Isus!" :/
+
+[s3]
+Doresc sa Te am linga mine mereu:
+Si-n zile cu soare, si-atunci cind e greu;
+/: Un pumn de tarina, nimica eu sunt,
+Dar birui pe cel rau in numele-Ti sfint:/
+
+[s4]
+Caci Tie, Isuse, cu tot m-am predat
+Si toate pe umerii Tai le-am lasat;
+/:Din toate puterile vreau sa-Ti slujesc
+Si numele-Ti sfint pina-n veci sa-i slavesc:/
+
+[order]
+s1,s2,s3,s4

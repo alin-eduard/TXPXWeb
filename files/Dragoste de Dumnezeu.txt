@@ -1,0 +1,28 @@
+[s1]
+Dragoste de Dumnezeu
+M-ai iubit când eram rău
+Harul binecuvântat
+m-a cuprins şi-am fost iertat
+Când era-I pe cruce sus
+prin iubirea Ta Isus
+Nici un pas n-ai dat ‘napoi
+şi Te-ai îndurat de noi.
+
+[r1]
+Doamne harul nepătruns
+La credinţă m-a adus
+Ochii mi i-ai luminat
+Şi cu drag eu Te-am urmat.
+
+[s2]
+Dragoste de Dumnezeu
+Aş vrea să pot să-Ţi cânt mereu
+Şi cu tot ce Tu mi-ai dat
+sa Îl laud ne-ncetat
+Dragoste de Dumnezeu
+Te rog să mă conduci mereu
+Înspre-mpărăţia Ta
+Până când Te voi vedea.
+
+[order]
+s1,r1,s2,r1

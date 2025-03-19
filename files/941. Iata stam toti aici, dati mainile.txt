@@ -1,0 +1,23 @@
+[s1]
+941.
+1.  Iată stăm toţi aici, daţi mâinile
+Ora despărţirii iată vine!
+Deşi ne despărţim, în Duh una suntem
+Cu dragoste zicem: Rămâi frate!
+2.  Domnul vă petreacă cu Harul Său
+Şi pe drumul păcii să umblaţi mereu
+Strălucească pururi gloria cerului
+Şi să vă conducă în ţara Lui.
+
+[s2]
+3.	Fie ora aceasta a Domnului
+Şi să trăim plăcuţi 'naintea Lui
+Inima, sufletul prin a Lui iubire
+Să ne ţină-ntruna pe vecie.
+4.  Pân' la revedere, rămâi frate
+Până-n sfârşit zicem: rămâi soră
+Pân' la revedere, până la odihnă
+Unde ne vom vedea totdeauna.
+
+[order]
+s1,s2

@@ -1,0 +1,29 @@
+[s1]
+1499.
+Calea-i netedă şi bună
+Pasu-i  lin pasu-i uşor
+Când cu Domnul împreună
+Pribegeşte un călător
+2.   Calea-i strâmtă şi spinoasă
+Pentru copilaşii tăi
+Totuşi este prea frumoasă
+Când eşti tu Isus cu ei
+
+[s2]
+3. Printre spini şi suferinţă
+Cu lacrimi în gene
+Nădejdea noastră va rămâne
+Scump Samaritene
+4.  Şi acolo îţi vom spune
+Tot ce în cale ne-a ieşit
+Lupte zbucium şi suspine
+Valuri mari ce s-au ivit
+
+[s3]
+5.   Asta-i calea care duce
+Înspre ţara ce-a de sus
+Cine o vrea pe ea s-apuce
+O să-l vadă pe Isus.
+
+[order]
+s1,s2,s3

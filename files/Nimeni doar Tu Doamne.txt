@@ -1,0 +1,14 @@
+[s1]
+Nimeni, doar Tu, Doamne
+Imi umpli inima cu pacea Ta
+Nimic nu pot fără Tine
+Vino, rămâi acum în viaţa mea
+
+[s2]
+Numai Tu cunoşti viaţa mea
+Numai Tu o poţi schimba
+Numai Tu îmi dai fericirea
+Numai Tu răspunzi la ruga mea
+
+[order]
+s1,s2

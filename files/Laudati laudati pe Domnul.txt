@@ -1,0 +1,26 @@
+[s1]
+Lăudaţi, lăudaţi pe Domnul
+Lăudaţi pe Dumnezeu
+În locaşul Lui cel sfânt
+Lăudaţi pe Dumnezeu
+Glorie Ţie, Părinte din ceruri
+Tu eşti Domn în veci de veci
+
+[s2]
+Tu eşti Doamne stânca mea
+Scutul meu în vreme rea
+Tu mă aperi de duşmani
+Şi-mi ridici povara grea
+Glorie Ţie, Părinte din ceruri
+Tu eşti Domn în veci de veci
+
+[s3]
+Voi lăuda pe Domnul meu
+Voi lăuda pe Dumnezeu
+În locaşul lui cel sfânt
+Voi lăuda pe Dumnezeu
+Glorie Ţie, Părinte din ceruri
+Tu eşti Domn în veci de veci
+
+[order]
+s1,s2,s3

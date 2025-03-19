@@ -1,0 +1,41 @@
+[s1]
+1316.
+1.  Străin am fost pe-acest pământ
+Lovit de valuri suspinând
+Pe Isus când nu-l cunoaştem
+Eram orfan şi nu ştiam
+De Isus, de Isus.
+
+[s2]
+2.  Eram un fiu risipitor
+Căutam la oameni ajutor
+De Tatăl meu iubit din cer
+Eram înstrăinat de el
+Nu-i cunoşteam iubirea Sa.
+3.  Din turma Tatălui iubit
+Am fost şi eu un rătăcit
+Am fost pierdut dar m-a găsit
+Păstorul meu Isus iubit.
+De Isus, de Isus
+
+[s3]
+4.  În drum stăteam ca Bartimeu
+Eram un orb cerşeam mereu
+Ai milă Doamne Dumnezeu
+De cei bolnavi în necaz greu.
+De mine, de mine,
+5.  Samariteanul cel milos
+E singurul Isus Hristos
+Cu mâna Lui m-a ridicat
+Şi rănile mi le-a legat
+Cu-al Său balsam m-a vindecat.
+
+[s4]
+6.  De vrei şi tu iubitul meu
+Să-l întâlneşti pe Dumnezeu
+Vino la Isus chiar acum
+Întoarce-te din al tău drum
+Nu amâna chemarea Sa.
+
+[order]
+s1,s2,s3,s4

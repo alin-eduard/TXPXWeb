@@ -1,0 +1,26 @@
+[s1]
+La-acele ţărmuri, dincol’ de râu,
+O, ce frumoase locuri văd eu:
+Sfinţii-n mărire cântă în cor,
+Ce minunat e cântecul lor!
+
+[r1]
+“Vino acasă, la Domnul Tău!”
+A lor chemare sună mereu.
+“În strălucire eşti aşteptat,
+Vino degrabă, fii mângâiat!”
+
+[s2]
+Ce bucurie când între sfinţi
+Vor fi copiii lângă părinţi;
+Ce revedere în slavă sus
+Cu Domnul vieţii, Hristos Isus!
+
+[s3]
+O, ţară scumpă, eu te doresc,
+Acolo unde toţi mă iubesc,
+Eu am în tine loc pregătit
+Prin harul care m-a mântuit!
+
+[order]
+s1,r1,s2,r1,s3,r1

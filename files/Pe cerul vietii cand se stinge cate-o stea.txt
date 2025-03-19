@@ -1,0 +1,26 @@
+[s1]
+Pe cerul vieţii cînd se stinge cîte-o stea
+Şi fără ajutor îngenunchez
+Cînd mîngîiere nu-i, durerea Tu mi-o ia
+Lîngă Cuvîntul Tău mă luminez.
+
+[r1]
+/: În orice clipă grea, aşa vrea El
+Chiar cînd povara-i grea, aşa vrea El
+Şi dacă Domnul vrea durerea partea mea
+Sînt fericit şi zic aşa vrea El ! :/
+
+[s2]
+Cînd cei iubiţi se duc chemaţi de Dumnezeu
+Dureri în inimă mă copleşesc
+Dar cînd eu am găsit un loc la Tatăl meu
+O, Paradis ceresc, cum te doresc !
+
+[s3]
+Iubirea Lui o port şi harul Său divin
+Nicicum nu mă despart de Domnul meu
+Şi-n suflet linişte şi pace am din plin
+Căci orice vreau găsesc la Dumnezeu.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,59 @@
+[s1]
+1396.
+1.  Fă-mă Doamne şi pe mine
+Fiul Tău iubit
+Să-mi găsesc plăcerea-n Tine
+Pe drumul sfinţit.
+/     Să doresc Stăpâne
+Zi de zi mai mult
+Să-mi adăp sufletul
+Din cuvântul sfânt.  /
+
+[s2]
+2.  Anii zboară viaţa trece
+Haru-i puţintel
+Nouă timpul ni-l răpeşte
+Lucruri fel de fel.
+/  Ne deschide ochii
+Ca lui Elisei
+Căci aproape-i timpul
+Poporul să-ţi iei.    /
+
+[s3]
+3. Vino adună-ţi Tu poporul
+Că-i fărâmiţat
+Iar vrăjmaşul în tot locul
+Iese câştigat.
+/   Aduce suspinuri
+Pâre fel de fel
+Şi l-a dus în starea
+Grea de căldicel.   /
+
+[s4]
+4. Căci spre Tine se îndreaptă
+Glasul disperat
+Duhul plânge şi suspină
+Că e întristat.
+/    Firea şi păcatul
+Saltă pe orice drum
+Iar puterea sfântă
+Micuţă-i acum.    /
+
+[s5]
+5. Ajutor cere Stăpâne
+Poporul tău mic
+Nu-l lăsa în starea lumii
+De nepregătit.
+/  Ca un fulger mare
+Până la apus
+Va apare-n slavă
+Mirele Isus. /
+
+[s6]
+/    Hai grăbeşte-ţi pasul
+Popor preaiubit
+Curând sună ceasul
+Sa fii pregatiti   /
+
+[order]
+s1,s2,s3,s4,s5,s6

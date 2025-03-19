@@ -1,0 +1,26 @@
+[r1]
+Stiu ca Isus m-a salvat
+Păcatul mi l-a spălat
+El e viu, El e viu
+
+[r2]
+De moarte El m-a scăpat
+Pe stâncă m-a ridicat
+El e viu, El e viu
+
+[r3]
+Eu îl slăvesc pe El
+Viaţa îi dăruiesc
+Domnul meu e viu! x4
+
+[s1]
+În clipe grele,
+Când n-aveam ajutor
+El mâna Şi-a întins spre mine
+Şi-n braţul Său m-a luat!
+
+[s2]
+Domnul meu e viu! x4
+
+[order]
+r1,r2,r3,r1,r2,r3,s1,s2

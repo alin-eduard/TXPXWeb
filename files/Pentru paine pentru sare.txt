@@ -1,0 +1,42 @@
+[s1]
+Pentru pâine, pentru sare,
+Pentru hrana ce-o primim,
+Cu întreaga adunare,
+Doamne noi Îţi mulţumim!
+Pentru darul vindecării,
+Pentru Duhul Tău cel Sfânt,
+Pentru strălucirea zării,
+Te slăvim cu-al nostru cânt !
+
+[r1]
+Cu toată adunarea,
+Pe Tine Te mărim!
+Cu toată adunarea,
+‘Naintea Ta venim!
+Cu toată adunarea,
+Cu tot poporul Tău,
+Noi Te slăvim o, Doamne,
+Căci Tu eşti Dumnezeu!
+
+[s2]
+Pentru fraţii care cântă,
+Pentru cei ce s-au rugat,
+Pentru cei ce se avântă
+Şi sunt gata de lucrat,
+Pentru ploaia cea târzie,
+Noi Îţi mulţumim frumos,
+Pentru marea bucurie
+Revărsată în Hristos !
+
+[s3]
+Pentru locul fericirii,
+Pentru Raiul minunat,
+Pentru Mirele iubirii,
+Noi cântăm neâncetat !
+Pentru Tatăl, pentru Fiul,
+Pentru Duhul Tău cel Sfânt,
+Îţi cântăm cu toţi:’’Osana!’’,
+Cât trăi-vom pe pământ !...
+
+[order]
+s1,r1,s2,r1,s3,r1

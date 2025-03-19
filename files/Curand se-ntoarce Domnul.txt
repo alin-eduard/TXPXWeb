@@ -1,0 +1,52 @@
+[s1]
+Curând se-ntoarce Domnul,
+chiar Regele Isus
+Biserica-şi răpeşte
+şi-o duce la El sus
+/: Săltaţi de-această veste,
+vă bucuraţi nespus
+Biserica-şi răpeşte
+şi-o duce la El sus :/
+
+[s2]
+Curând se-ntoarce Domnul,
+voi obosiţi sculaţi
+Vă părăsiţi, dar, plânsul;
+în alb vă îmbrăcaţi
+/: Nădejdea de salvare
+în El să v-o aflaţi
+Vă părăsiţi, dar, plânsul;
+în alb vă îmbrăcaţi :/
+
+[s3]
+Curând se-ntoarce Domnul,
+săraci în Duh, sculaţi
+Căci Isus e comoara,
+căutaţi să Îl aflaţi
+/: A voastră-i răsplătirea,
+cu toţi vă bucuraţi
+Căci Isus e comoara,
+căutaţi să Îl aflaţi :/
+
+[s4]
+Curând se-ntoarce Domnul,
+răsplata aducând,
+La cei ce în nădejde trăiesc
+cu El în gând.
+/: El este mângăierea
+ce vine în curând
+La cei ce în nădejde
+trăiesc cu El în gând :/
+
+[s5]
+Curând se-ntoarce Domnul,
+în slavă îmbrăcat
+Ferice de aceia ce-au stat
+şi-au aşteptat
+/: Spre cer s-aveţi privirea
+şi capul ridicat
+Ferice de aceia,
+ce-au stat şi-au aşteptat :/
+
+[order]
+s1,s2,s3,s4,s5

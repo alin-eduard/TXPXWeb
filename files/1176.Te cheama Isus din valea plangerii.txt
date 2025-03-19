@@ -1,0 +1,31 @@
+[s1]
+1176.          Mi
+1.   Te chemăm Isus din valea plângerii
+Te chemăm cu dor cât mai curând să vii
+Că lupta e mare, valuri vin mereu
+Dar nădejdea noastră-n Tine-i Dumnezeu.
+2.   Te chemăm pe Tine al nostru Păstor
+Tu eşti Adevărul Uşa oilor
+Tu Lumina lumii, Tu Pâinea din cer
+Tu speranţa noastră, Tu Emanuel.
+
+[s2]
+3.     Cu ochii în lacrimi, pironiţi în sus
+Te chemăm în rugă vino scump Isus
+Că durerea-i mare şi crucea e grea
+Vino şi ne-ajută s-o putem purta.
+4.     Te cheamă Mireasa suspinând cu dor
+Te cheamă în rugă noaptea în pridvor
+O Mire al iubirii bunule Isus
+Vino mai degrabă aşa cum ne-ai spus.
+
+[s3]
+5.    Căci ne-am săturat de acest pământ străin
+Pe care adesea cu lacrimi păşim
+Adă ziua sfântă Doamne mai curând
+Când pe nori de slavă vom zbura cântând
+Ca şi porumbeii înspre porumbar
+Vom păşi cu Tine pe marea de cristal.
+
+[order]
+s1,s2,s3

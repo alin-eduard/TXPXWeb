@@ -1,0 +1,45 @@
+[s1]
+1749.
+1. De câte ori în grea-ncercare
+Când erai trist şi părăsit
+Tu ai strigat spre Cel ce poate
+Durerea ta a linişti
+De câte ori în grea-ncercare
+Tu ai privit spre cer plângând
+Când părăsit ai fost de oameni
+Când valuri te-au acoperit
+
+[r1]
+Cor:	/:Domnul, Domnul
+Înspre tine a privit
+Domnul, Domnul
+În necaz te-a insoţit:/
+
+[s2]
+2. De câte ori înfrânt căzut-ai
+Plângând cu faţa la pământ
+Şi-n disperarea ta crezut-ai
+Căci tot ce ai tu ai pierdut
+Credinţa ta în încercare
+Nădejdea ce te-a însoţit
+Atâţia ani pe-a ta cărare
+Credeai că toate le-ai pierdut
+
+[s3]
+3. Când dezamăgit ai fost de oameni
+De prietenii ce i-ai iubit
+Şi în necazul tău cu toţii
+Pe tine-atunci te-au părăsit
+Dar Domnul care este veşnic
+Din cer de sus jos a privit
+Şi Mâna Şi-a întins spre tine
+El nicicând nu te-a părăsit
+
+[s4]
+Cor:	/:Domnul, Domnul
+Jos la tine a venit
+Domnul, Domnul
+În braţul Lui te-a primit:/
+
+[order]
+s1,r1,s2,r1,s3,s4

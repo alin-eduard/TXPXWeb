@@ -1,0 +1,50 @@
+[s1]
+Ajuta-ma ca sa-mi pastrez
+Credinta mea curata,
+Ajuta-ma sa-naintez
+S-ajung la Tine-odata.
+
+[s2]
+Prin bucurii si prin amar
+Pe marea viforoasa,
+Pastreaza-ma prin al Tau Har
+S-ajung la Tine-acasa.
+
+[s3]
+Ajuta-ma sa-naintez
+Mereu pe-a Tale urme,
+Ajuta-ma ca sa-mi pastrez
+Curajul chiar si-n lume.
+
+[s4]
+Prin orice val si-n orice necaz
+Ce-ar vrea sa ma doaboare,
+Ajuta-ma sa-naintez
+In orice stramtoare.
+
+[s5]
+Ajuta-ma sa staruiesc
+Mereu in rugaciune,
+Ajuta-ma sa ma sfintesc
+Sa pot veni la Tine.
+
+[s6]
+Ajuta-ma sa staruiesc
+Cand grea ispita vine,
+Ajuta-ma sa Te slavesc
+Ramanand langa Tine.
+
+[s7]
+Ajuta-ma ca sa-mi pastrez
+Credinta pan’ la capat,
+Ajuta-ma ca sa veghez
+Sa am haina curata.
+
+[s8]
+Ajuta-mi sa ma pregatesc
+Sa fiu al Tau Stapane
+Sa pot pe nori sa Te-ntalnesc
+Sa pot veni la Tine
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

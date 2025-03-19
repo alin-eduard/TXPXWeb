@@ -1,0 +1,63 @@
+[s1]
+1.	Ostenit de alergare
+Şi de zbuciumul cel greu,
+Vei avea curând odihna
+Lângă Bunul Dumnezeu
+El te-aşteaptă cu răsplata
+Te va răsplăti-n curând
+Pentru tot ce-ai dus aicea
+Crucea ta pe-acest pământ.
+637.            Fa m
+
+[s2]
+2.	Crucea ta e grea povară,
+E grea de purtat, de dus
+Du-o însă cu răbdare
+Cum a dus-o şi Isus.
+Dacă eşti rănit aicea
+Frate nu descuraja
+Vrăşmaşul nu biruieşte
+E Isus la dreapta ta.
+
+[s3]
+3.	După suferinţe grele
+După lacrimi şi dureri
+Cât de dulci vor fi atuncia
+Cereştile mângâieri
+De te simţi străin aicea
+Frate nu descuraja
+Doar Isus Mântuitorul
+Este mângâierea ta.
+
+[s4]
+4.	După lacrimi şi-ntristare
+Răsări-va-n drumul tău
+Floarea mândră a primăverii
+Floarea sufletului tău
+După lacrimi sarcini grele
+Ce-ai avut aici de dus
+Te vei bucura odată
+Pururi lâng-al tău Isus.
+
+[s5]
+5.	Drumul tău e doar durere
+Poate-i presărat cu spini
+Însă nu uita măi frate
+Duce drept în veşnicii
+Nu dispreţui durerea
+Nu lovi-n necazul tău
+Căci necazul şi durerea
+Este-un drum spre Dumnezeu.
+
+[s6]
+6.	O ajută-mă Isuse
+În călătoria mea
+Să călătoresc cu tine
+Pân-ajung în ţara Ta.
+Ţara Ta e minunată
+Raiul cu-a lui bogăţii
+Nu voi fi trist niciodată
+Acolo-n veşnicii.
+
+[order]
+s1,s2,s3,s4,s5,s6

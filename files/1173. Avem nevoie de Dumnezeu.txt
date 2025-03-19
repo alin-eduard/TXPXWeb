@@ -1,0 +1,49 @@
+[s1]
+/:Avem nevoie de Dumnezeu
+De Dumnezeu,
+Da, de Dumnezeu
+Avem nevoie de Dumnezeu
+Mai mult ca oricând. :/
+1173 								   Sol m
+
+[s2]
+1.Se minte, se fură,
+Se-njură, se bea
+Se fac  fapte urâte
+Aceasta e lumea
+Din ziua de azi
+Ne spune Sfânta Scriptură.
+
+[r1]
+/:Avem nevoie de Dumnezeu
+De Dumnezeu,
+Da, de Dumnezeu
+Avem nevoie de Dumnezeu
+Mai mult ca oricând. :/
+
+[s3]
+2.Nu se mai iubesc
+Fraţii ei între ei
+Şi ne-ntrebăm: De ce ?
+Soţia şi soţul
+Se ceartă mereu
+De ce? De ce? De ce?
+
+[s4]
+3.Părinţii se miră
+De ce-ai lor copii
+Se poartă atât de ciudat
+De ce nu-i ascultă,
+De ce se prefac
+Mereu că nu-i aud.
+
+[s5]
+4.Pătrunde, o ,Doamne
+Azi în inimă
+Şi curăţă tot ce-i rău
+O pildă să fiu
+Și lumină aş vrea
+Ca să arăt că-s al Tău.
+
+[order]
+s1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,65 @@
+[s1]
+Nu mai e mult si va veni
+Cel ce domneste-n vesnicii
+Isus Hristos va reveni
+Dar pana atunci nu dispera
+Ia-ti crucea nu taia din ea
+Rabda si tu, nu fii fricos
+Cum a rabdat Isus Hristos
+
+[s2]
+Nu mai e mult si s-or sfarsi
+Dureri si lacrimi n-or mai fi
+Cand Domnul Isus va veni
+Dar pana atuncea orce ar fi
+Iubite frate nu carti
+Rabda si tu pan la sfarsit
+De vrei ca sa fii mantuit
+
+[s3]
+Chiar daca valuri vor urla
+Si vor lovi in barca ta
+Tu frate nu descuraja
+Prin valurile acestei lumii
+Nu da-napoi chiar de-s furtuni
+Priveste farul luminos
+Acesta e Isus Hristos
+
+[s4]
+Acum e timpul pe sfarsit
+Nu sta suflet nepregatit
+Sa nu potii fi atunci rapit
+Nu strange paie pentru fum
+Averi ce ard si se fac scrum
+Aduna aur pretios
+Comori spre slava lui Hristos
+
+[s5]
+Nu stii nici ziua, nici noaptea
+Cand Domnul nost’ va aparea
+Ca sa-si rapeasca mireasa
+Dar stim ca ai Sai trimisi din cer
+Cand va veni Emanuel
+Va rasuna cu trambita
+Pe ai Sai alesi ii va aduna
+
+[s6]
+Isus ne-a spus sa adunam
+De la smochin sa invatam
+A lui pilda sa o luam
+Vedem cu totii a-nverzit
+Vara aproape a sosit
+De aceia sa ne pregatim
+Cu mijlocul incinsi sa fim
+
+[s7]
+O fratii surori sa ne grabim
+Viata sa ne-o pregatim
+Pentru Isus gata sa fim
+Sa aveti ulei in candela
+Facliile sa ne arda
+Ca sa putem zbura spre cer
+Cand va veni Emanuel
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

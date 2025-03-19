@@ -1,0 +1,27 @@
+[s1]
+De suferinţa ţie mare
+Nu şti-ncotro s-o apuci
+Adu-ţi aminte că mare
+E cel ce din lut te-a făcut.
+Mi m
+
+[r1]
+/: Nu e-ncercare prea mare
+Nu este nimic prea greu
+Vino, vino
+Vino acum la El. :/
+
+[s2]
+La rugăciune aleargă
+Lui Dumnezeu să îi spui
+Tot ce în suflet te-apasă
+El e salvarea oricui.
+
+[s3]
+Vino cu toată povara
+La crucea Lui să o pui
+El ia păcatul tău mare
+Şi vindecă rana oricui.
+
+[order]
+s1,r1,s2,r1,s3,r1

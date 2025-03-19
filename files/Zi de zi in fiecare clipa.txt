@@ -1,0 +1,38 @@
+[s1]
+Zi de zi, în fiecare clipă,
+Eu primesc puteri şi har de sus,
+Să înving mereu orice ispită,
+Fiind condus de-al meu iubit Isus.
+
+[s2]
+El ce-ntrece orice bunătate,
+Îmi dă zilnic tot ce e mai bun,
+Sunt convis că Domnul ştie toate,
+Lui mă-nchin şi mă supun.
+
+[s3]
+Zi de zi El Însuşi mă-nsoţeşte,
+Paşii-mi poartă în chip minunat
+Şi-astfel orice rău ce-asupra-mi vine
+Spre-al meu bine va fi preschimbat.
+
+[s4]
+Dumnezeul cel Atotputernic
+Mă păzeşte cu sfânt braţul Său.
+Mă-ncred în Cuvântul Său cel veşnic
+Şi-L urmez voios mereu.
+
+[s5]
+Mă ajută-n orice încercare,
+Să mă încred ferm în Cuvântul Tău,
+Ca să nu pierd dulcea mângâiere,
+Ce o primesc mereu la sânul Tău.
+
+[s6]
+Mă ajută ca orice durere,
+Să-o primesc ca şi din mâna Ta,
+Ceas de ceas, purtat de-a Ta putere,
+Până-ajung în Ţara mea.
+
+[order]
+s1,s2,s3,s4,s5,s6

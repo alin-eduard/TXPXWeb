@@ -1,0 +1,32 @@
+[s1]
+Din trupul sfânt al lui Isus,
+Izvor de sânge­a curs
+Şi cine­n El s­a curăţit,
+Pe veci e mântuit,
+Pe veci e mântuit,
+Pe veci e mântuit.
+Şi cine­n El s­a curăţit,
+Pe veci e mântuit.
+
+[s2]
+Acest izvor a fost găsit
+De­acel tâlhar smerit
+Şi cei ce sunt în el spălaţi,
+Pe veci vor fi curaţi,
+Pe veci vor fi curaţi,
+Pe veci vor fi curaţi.
+Şi cei ce sunt în el spălaţi,
+Pe veci vor fi curaţi.
+
+[s3]
+Din clipa­n care
+Am aflat izvorul minunat,
+Mă simt nespus de fericit
+Cu Domnul meu iubit,
+Cu Domnul meu iubit,
+Cu Domnul meu iubit.
+Mă simt nespus de fericit
+Cu Domnul meu iubit.
+
+[order]
+s1,s2,s3

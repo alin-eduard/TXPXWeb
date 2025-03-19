@@ -1,0 +1,33 @@
+[s1]
+1. Aveţi credinţă-n Dumnezeu
+Şi-aveţi credinţă-n Mine
+În casa Tatălui Meu
+Sunt multe locuinţe
+/:Dacă n-ar fi aşa
+Eu vouă v-aş fi spus
+Dar Eu mă duc să pregătesc
+Un loc spunea Isus:/
+1739.
+
+[s2]
+2. Şi după ce mă voi duce
+Şi vă voi pregăti un loc
+Mă voi întoarce iar la voi
+Ca să vă iau cu Mine
+/:Căci vreau ca acolo
+În cer unde sunt Eu
+Să fiţi şi voi cu Mine
+Spunea Domnul Isus:/
+
+[s3]
+3. Ajută-ne o Doamne
+Aici pe-acest pământ
+Să facem doar ce-i bine
+Ajungând la sfârşit
+/:Căci vrem ca acel loc
+Ce ni l-ai pregătit
+Să-l moştenim cu Tine
+Isuse preaiubit:/
+
+[order]
+s1,s2,s3

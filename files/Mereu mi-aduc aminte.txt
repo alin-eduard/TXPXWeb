@@ -1,0 +1,56 @@
+[s1]
+Mereu mi-aduc aminte
+de grădina Gheţimani
+Când Isus a fost părăsit,
+lăsat între duşmani.
+Îl văd legat, îl văd bătut
+şi sângerând din greu
+Şi mă-nfior când înţeleg
+că-ntre duşmani sunt şi eu,
+sunt şi eu!
+
+[s2]
+Acel ce l-a trădat sunt şi eu!
+Cel ce s-a lepădat sunt şi eu!
+Ce ce-a scuipat
+Şi cel ce-a strigat sunt şi eu!
+
+[s3]
+Îl văd urcat pe crucea grea
+stingându-Se încet
+Cu greu le cere ca să bea
+şi ei Îi dau oţet
+Pe cap I-au pus cununi de spini
+ce fruntea I-au străpuns
+Şi ochii blânzi ce mă privesc
+găsesc acest răspuns: Eşti şi tu!
+
+[s4]
+Copilul rătăcit eşti şi tu!
+Pribeag, de cer iubit eşti şi tu!
+Chemat acasă azi
+Poţi fi iertat, hai şi tu!
+
+[s5]
+Îţi pun deci înainte azi
+grădina Gheţimani
+Când Isus a fost părăsit,
+lăsat între duşmani
+Şi-L vezi legat, şi-L vezi bătut
+şi sângerând din greu
+Nu te-nfiori şi nu-nţelegi
+că-ntre duşmani eşti tu?
+Vrei să crezi?
+
+[s6]
+Acel ce l-a trădat sunt şi eu!
+Cel ce s-a lepădat sunt şi eu!
+Ce ce-a scuipat
+Şi cel ce-a strigat sunt şi eu!
+Copilul rătăcit eşti şi tu!
+Pribeag, de cer iubit eşti şi tu!
+Chemat acasă azi
+Poţi fi iertat, hai şi tu!
+
+[order]
+s1,s2,s3,s4,s5,s6

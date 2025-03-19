@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista Cântări</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; }
+        input { margin: 20px; padding: 10px; width: 80%; max-width: 400px; }
+        ul { list-style: none; padding: 0; }
+        li { display: flex; justify-content: space-between; align-items: center; padding: 10px; }
+        li:hover { background: #f0f0f0; }
+        .buttons { display: flex; gap: 10px; }
+        .icon { cursor: pointer; font-size: 20px; }
+    </style>
+</head>
+<body>
+    <h1>Lista Cântări</h1>
+    <input type="text" id="search" placeholder="Caută un fișier...">
+    <ul id="fileList"></ul>
+
+    <script>
+        async function loadFiles() {
+            const response = await fetch('files.json');
+            const files = await response.json();
+            const fileList = document.getElementById('fileList');
+            const searchBox = document.getElementById('search');
+
+            function displayFiles(filter = "") {
+                fileList.innerHTML = "";
+                files.filter(file => file.toLowerCase().includes(filter.toLowerCase()))
+                    .forEach(file => {
+                        const li = document.createElement("li");
+                        const fileName = document.createElement("span");
+                        fileName.textContent = file;
+                        
+                        const buttons = document.createElement("div");
+                        buttons.classList.add("buttons");
+                        
+                        const viewIcon = document.createElement("span");
+                        viewIcon.innerHTML = "👁";
+                        viewIcon.classList.add("icon");
+                        viewIcon.onclick = () => window.open(`files/${file}`, '_blank');
+                        
+                        const downloadIcon = document.createElement("span");
+                        downloadIcon.innerHTML = "⬇";
+                        downloadIcon.classList.add("icon");
+                        downloadIcon.onclick = () => {
+                            const link = document.createElement("a");
+                            link.href = `files/${file}`;
+                            link.download = file;
+                            document.body.appendChild(link);
+                            link.click();
+                            document.body.removeChild(link);
+                        };
+                        
+                        buttons.appendChild(viewIcon);
+                        buttons.appendChild(downloadIcon);
+                        
+                        li.appendChild(fileName);
+                        li.appendChild(buttons);
+                        
+                        fileList.appendChild(li);
+                    });
+            }
+            
+            searchBox.addEventListener("input", () => displayFiles(searchBox.value));
+            displayFiles();
+        }
+        
+        loadFiles();
+    </script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+[s1]
+Aşa cum sînt eu vin plîngînd,
+Mă-ntorc Isus la Tine.
+Cu sufletu-mi zdrobit şi-nfrînt
+Alerg, căci n-am la cine.
+
+[s2]
+/: În toată lumea am căutat
+Să-mi găsesc desfătare.
+Dar peste tot ce am aflat
+Au fost lacrimi amare. :/
+
+[s3]
+Mă-ntorc, primeşte-mă cum sînt,
+Zdrobit de răni ce doare.
+Prin sîngele de preţ şi sfînt
+Mă spală, dă-mi iertare.
+
+[s4]
+/: De toate cîte-am făptuit,
+Umblînd pe căi străine,
+Dar astăzi văd cît Ţi-am greşit
+Primeşte-mă la Tine. :/
+
+[s5]
+Eu nu sînt vrednic să-mi spui fiu,
+Pierdut am fost prin lume,
+În bezna nopţii, ceas tîrziu,
+Tu m-ai chemat pe nume.
+
+[s6]
+/: Te voi sluji cum n-am slujit
+Pe nimenea vreodată.
+Căci pot de-acum să-Ţi spun şi eu
+Din sufletul meu: Tată! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

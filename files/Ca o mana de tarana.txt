@@ -1,0 +1,32 @@
+[s1]
+Ca o mană de tărână
+Ca un fulg de nea
+Sunt eu în faţa lui Isus
+Doar prin Slava Sa.
+
+[r1]
+El e prezent în adunare
+În îndurarea Sa
+El se indura de toţi care-I
+Oferă inima
+
+[s2]
+Vreau să-I cântam glorie, osanale
+Impreună cu voi
+Să Îl chemam din Slava Mare
+Să vină azi la noi.
+
+[s3]
+Acum Te rog Isuse Doamne
+Îndură-Te de noi
+Şi ne ajută pe toţi Doamne
+Să nu privim ‘napoi.
+
+[s4]
+Revarsă-Ţi binecuvântarea
+Peste  ai Tăi copii
+Şi fă ca totdeuna în viaţă
+Harul Tău să-L simţim.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

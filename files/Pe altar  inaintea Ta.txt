@@ -1,0 +1,17 @@
+[s1]
+/: Pe altar, înaintea Ta
+Ţi-aduc mulţumirea mea
+L-ai dat pe Isus jertfă
+Ca să fiu iertat :/
+
+[s2]
+Prin El, de-s sărac, ba sunt bogat
+De-s flămând, sunt săturat
+De sunt pierdut,
+Prin Isus sunt salvat
+Prin El, de-s căzut, sunt ridicat
+De-s bolnav, sunt vindecat
+Cu Dumnezeu,Isus m-a împăcat.
+
+[order]
+s1,s2

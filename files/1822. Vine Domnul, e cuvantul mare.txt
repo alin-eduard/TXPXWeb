@@ -1,0 +1,48 @@
+[s1]
+1822.
+1. /:Vine Domnul:/
+E cuvântul mare
+Pentru cei ce Îi aşteaptă
+Sfânta revărsare
+Cor:	/:Vine Domnul! Vine!:/
+/:Suflete, te-ntreabă astăzi:
+„Ce va fi cu tine?”:/
+
+[s2]
+2. /:Vine Domnul:/
+Gata-i să sosească!
+Aurora dimineţii
+Prinde să mijească
+Cor:	/:Vine Domnul! Vine!:/
+/:Suflete, te-ntreabă astăzi:
+„Ce va fi cu tine?”:/
+
+[s3]
+3. /:Vine Domnul:/
+Sus s-avem privirea
+Căci, de-acolo ni se-aduce
+Nouă izbăvirea
+Cor:	/:Vine Domnul! Vine!:/
+/:Suflete, te-ntreabă astăzi:
+„Ce va fi cu tine?”:/
+
+[s4]
+4. /:Vine Domnul:/
+Iată-L se iveşte
+S-aruncăm orice povară
+Ce ne copleşeşte
+Cor:	/:Vine Domnul! Vine!:/
+/:Suflete, te-ntreabă astăzi:
+„Ce va fi cu tine?”:/
+
+[s5]
+5. /:Vine Domnul:/
+Suflete fecioare
+Să-i ieşim în haine albe
+În întâmpinare.
+Cor:	/:Vine Domnul! Vine!:/
+/:Suflete, te-ntreabă astăzi:
+„Ce va fi cu tine?”:/
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,41 @@
+[s1]
+Aş vrea, Isuse scump,
+să fiu ca Tine
+În pribegia mea
+pe-acest pământ;
+De-atâtea ori
+când grea ispită vine,
+S-o biruiesc
+prin sfântul Tău Cuvânt.
+
+[r1]
+/: Aş vrea, Isuse scump,
+a Ta comoară
+De mângâieri,
+pe veci să-mi dăruieşti
+Aş vrea ca-n mine
+tot ce-i vechi să moară
+Iar Tu să faci
+din mine ce doreşti. :/
+
+[s2]
+Şi-aş vrea, Isuse scump,
+a Ta viaţă
+Să se-oglindească
+pururi în a mea,
+Şi să dispară
+vălul greu de ceaţă
+Ce-mpiedică
+să-Ţi văd mărirea Ta.
+
+[s3]
+Şi câte n-aş mai vrea,
+o, scump, Isuse,
+În pribegia mea
+pe-acest pământ!
+Dorinţele ce îmi rămân nespuse
+Să le-mplineşti prin
+Sfântul Tău Cuvânt!
+
+[order]
+s1,r1,s2,r1,s3,r1

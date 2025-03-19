@@ -1,0 +1,52 @@
+[s1]
+Cu toţii vrem să lucrăm
+în via lui Isus
+Mlădiţe roditoare cu toţi
+vrem să fim
+/: Ajută-ne Isuse
+să ’naintăm pe cale
+Căci zilele-s aproape,
+timpu-i pe sfârşite. :/
+
+[s2]
+Ajută-ne Isuse
+să ne albim hainele
+Când pe nori vei apărea
+să ne iei la Tine
+/: Nu ne lăsa aici jos
+pe acest pământ spinos
+Căci zilele-s aproape
+timpu-i pe sfârşite. :/
+
+[s3]
+Fă cu toţii să intrăm
+în odaia sfântă
+Tu să ne dai cununa
+cea nevestejită
+/: Dă-ne-ulei în candelă
+lămpile să ne ardă
+Căci zilele-s aproape
+timpu-i pe sfârsite. :/
+
+[s4]
+Căci Satana se luptă
+cu toată puterea
+Să ne-ntoarcă din cale
+să ne ia credinţa
+/: Te rugăm nu ne lăsa
+să cădem din calea Ta
+Căci zilele-s aproape
+timpu-i pe sfârşite. :/
+
+[s5]
+Ajută-ne să mergem
+pe cale ‘nainte
+Cu răbdare să ducem
+crucea fiecare
+/: Dă-ne Tu din harul Tău,
+să cântăm când drumu-i greu
+Căci zilele-s aproape
+timpu-i pe sfârşite. :/
+
+[order]
+s1,s2,s3,s4,s5

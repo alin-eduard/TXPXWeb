@@ -1,0 +1,36 @@
+[s1]
+Dumnezeu de noi se-ngrijeşte,
+Îi mulţumim
+Pâinea El ne-o dăruieşte,
+Îi mulţumim, (O, Doamne)
+Tu ne dai şi sănătate,
+Îţi mulţumim
+Noi prin har avem de toate, da,
+Îţi mulţumim
+
+[r1]
+Îţi mulţumim/ 3X
+Noi Îţi mulţumim
+
+[s2]
+Dumnezeu de noi se-ngrijeşte,
+Îi mulţumim
+Fiindcă El mult ne iubeşte,
+Îi mulţumim, (O, Doamne)
+Pentru zilele senine,
+Îţi mulţumim
+Pentru rău şi pentru bine, da,
+Îţi mulţumim
+
+[s3]
+Dumnezeu de noi se-ngrijeşte,
+Îi mulţumim
+Fericiţi să fim doreşte,
+Îi mulţumim, (O, Doamne)
+Pentru-a Ta călăuzire,
+Îţi mulţumim
+Pentru rai şi nemurire, da,
+Îţi mulţumim.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,43 @@
+[s1]
+1. Când încercat eram de tot
+Pe-a vieţii mare furtunoasă
+N-aveam speranţă să mai pot
+Să scap de-a nopţii neagră ceaţă.
+/:N-aveam speranţă să privesc
+Iubirea Ta adevărată
+Când deodata Te zăresc
+Lângă luntrea-mi încercată:/
+602.           Re m
+
+[s2]
+2. Când valuri mari m-ameninţau
+Pierzând în val speranţa toată
+Când zbuciumat strigam în val
+O, vino Doamne şi mă scapă.
+/:Când am ajuns fără puteri
+Văzându-mi viaţa spulberată
+M-ai cercetat,m-ai strâns la piept
+Făr' să-nţeleg asta vreodată :/
+
+[s3]
+3. Cum mă strângea-i la pieptul Tău
+Minune mare întrezării
+Caci din furtună, din necaz
+Doar braţul Tău m-ai izbăvit.
+/: Isuse plâng la pieptul Tău
+Cu Tine să rămân mereu
+Să pot gusta dulceaţa Ta
+Chiar şi când viaţa-mi este grea :/
+
+[s4]
+4. Pe braţul Tău te rog să iei
+Pe toţi copiii Tăi iubiţi
+Din vânturile nopţii negre
+Atunci când sunt mai istoviţi
+/: Să dai la toţi Tu biruinţă
+Toţi cei ce luptă prin credinţă
+Să-i scapi din valuri, să nu-i laşi
+Pe cei ce-s slabi şi anevoiaşi :/
+
+[order]
+s1,s2,s3,s4

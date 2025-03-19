@@ -1,0 +1,52 @@
+[s1]
+Prin multe ţări frumoase,
+În viaţa, am trecut
+Şi-atâtea văi şi dealuri
+Frumoase am văzut;
+/: Dar nici un deal din lume
+Nu m-a atras aşa
+Ca dealul ce pe nume
+Se cheamă Golgota. :/
+
+[s2]
+Acesta nu se-nalță
+Cu vârful pan' la nori;
+Pe culmea lui,
+Zăpada nu cerne albe flori.
+/: Şi totuşi nici pe-un munte
+Nu m-am simţit aşa
+De Dumnezeu aproape
+Ca sus, pe Golgota. :/
+
+[s3]
+Nu-s brazi înalţi acolo,
+Nici iarbă verde jos,
+Dar este, sus pe munte,
+Un lucru preţios:
+/: E crucea răstignirii,
+Şi jertfa de pe ea
+Ne data mântuirea...
+Aceasta-i Golgota! :/
+
+[s4]
+Şi nu sunt nici izvoare
+pe dânsul când priveşti,
+Nici râuri curgătoare
+de ape pământeşti,
+/: Dar este, sus pe cruce,
+Izvorul minunat
+Ce greşurile lumii
+Le-a şters şi le-a spălat. :/
+
+[s5]
+De-acolo, şi tâlharul
+Se-ntoarce credincios;
+Şi mântuit se-ntoarce
+Căitul păcătos.
+/: Acolo, vezi pe Domnul
+Când plângi sub crucea Sa;
+Acolo-i bucuria:
+Veniţi, la Golgota! :/
+
+[order]
+s1,s2,s3,s4,s5

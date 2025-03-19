@@ -1,0 +1,26 @@
+[s1]
+Ne-om vedea la-acele ţărmuri
+unde nu mai sunt dureri,
+În Cetatea bucuriei
+unde-s numai mângâieri.
+
+[r1]
+Ne-om vedea, ne-om vedea,
+ne-om vedea la-acele ţărmuri,
+Ne-om vedea la-acele ţărmuri
+unde nu mai sunt dureri.
+
+[s2]
+La limanul fericirii
+alergarea vom sfârşi;
+Cu Păstorul ce ne-aşteaptă
+şi cu-ai Săi ne-om întâlni.
+
+[s3]
+Ce frumos va fi în ceruri,
+înaintea tronului!
+Vom purta cununi de glorii
+sus în slava Mielului!
+
+[order]
+s1,r1,s2,r1,s3,r1

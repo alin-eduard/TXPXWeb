@@ -1,0 +1,32 @@
+[s1]
+2019
+1. Ești vrednic de laudă
+Ești vrednic de cinste
+Ești vrednic să-Ți cânt
+Pe toată suflarea Domn Preaînalt
+Nu-i nimeni ca Tine
+Ești Rege-n mărire
+/: Tu ești Creatorul,
+Tu ești Salvatorul, fii lăudat :/
+
+[s2]
+2. Ești vrednic de laudă
+Ești vrednic de cinste
+Căci Tu ești alinul
+Și mângâierea celui trudit
+Ești sfânt și ești mare
+Trăiești în splendoare
+/: Dar ești plin de milă
+Cu cel ce suspină, nemângâiat :/
+
+[s3]
+3. Ești vrednic de laudă
+Ești vrednic de cinste
+Căci Tu ne-ai promis un loc
+Lângă Tine în țara de vis
+O vino Isuse, tânjim după Tine
+/ : Căci Tu ești lumina,
+Tu ești aurora din zorii de zi :/
+
+[order]
+s1,s2,s3

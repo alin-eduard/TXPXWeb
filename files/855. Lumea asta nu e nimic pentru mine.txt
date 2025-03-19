@@ -1,0 +1,45 @@
+[s1]
+855.
+Lumea aceasta
+Nu e nimic pentru mine
+Cu ochii credinţei privesc înainte;
+Domnul pe acest pământ
+Ne-a lăsat o cale
+Spre patria celor
+Cu multă răbdare.
+
+[s2]
+2.  Numai Ţie Doamne
+Nădăjduiesc tare
+Chiar de-ar fi prigoane
+Pe această cale
+Fie calea plină de amărăciune
+A mea e patria celor cu suspine.
+
+[s3]
+3.   Pentru mine nu mai faceţi
+Nici un plâns
+Căci această lume
+Eu nu mai iubesc
+Au murit aceste
+Toate pentru mine
+A mea e patria celor cu suspine.
+
+[s4]
+4.  Pe acest pământ
+Mă lupt cu multă râvnă
+Scrie-mi Tu numele în a ta inimă
+Cununa cerească dăruieşti-o mie
+A mea e patria celor cu suspine.
+
+[s5]
+În valea plângerii
+Merg cu bucurie
+Eu şi în ţărână te aştept pe tine
+Nu voi sta eu pururi
+În mormântul rece
+Căci această lume
+Cu totul va trece.
+
+[order]
+s1,s2,s3,s4,s5

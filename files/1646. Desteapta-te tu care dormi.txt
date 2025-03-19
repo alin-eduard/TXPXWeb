@@ -1,0 +1,39 @@
+[s1]
+1646.
+1.Deşteaptă-te tu care dormi
+Şi nu veghezi în noapte.
+Ridică-te în sus,
+Ridică-te căci zorii sunt aproape!
+
+[s2]
+2. Căci aţipirea ta de-acum,
+Te poate costa viaţa!
+Dacă tu ieşi din sfântul drum,
+Îţi pierzi toată răsplata!
+
+[s3]
+3.Căci timpul este pe sfârşit
+Şi veşnicia-i lungă!
+Tu poţi cu Isus ca să fii,
+Sau în infern şi-n umbră.
+
+[s4]
+4. E drept că-i greu de-naintat,
+Când mulţi adorm pe cale.
+Dar, dacă crezi şi dacă lupţi,
+Tot golul va dispare.
+
+[s5]
+5. Dacă nu ştii de-ai aţipit,
+Şi nu-nţelegi ce-i somnul,
+Întreabă-te dacă rodeşti,
+Rodul care-l vrea Domnul!
+
+[s6]
+6. De-ai observat c-ai aţipit
+Apucă-n graba mare
+Căinţa, postul, rugăciunea,
+Şi vei primi iertare.
+
+[order]
+s1,s2,s3,s4,s5,s6

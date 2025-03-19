@@ -1,0 +1,27 @@
+[r1]
+Dacă vântul bate peste a ta cărare
+E doar să te facă astfel şi mai tare
+/: Dacă bate vântul, crengile le-ndoaie
+E doar ca să stai cu Domnu-n odaie :/
+
+[s1]
+Dacă bate vântul peste a ta ţărână
+E doar ca să facă o roadă mai bună
+/: Dacă bate vântul frate şi mai tare
+Strigă tu la Domnul în a ta-ncercare :/
+
+[s2]
+Dacă bate vântul peste a ta barcă
+Tu strigă la Domnul să te izbăvească
+/: Dacă vântul bate, valurile vin
+Tu cheamă-L pe Domnul,
+credincios deplin :/
+
+[s3]
+/: Dacă bate vântul frate şi mai tare
+Strigă tu la Domnul în a ta-ncercare :/
+/: Dacă vântul bate, valurile vin
+Tu cheamă-L pe Domnul, credincios deplin :/
+
+[order]
+r1,s1,s2,r1,s3

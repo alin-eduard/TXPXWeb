@@ -1,0 +1,36 @@
+[s1]
+1
+Mulţumesc, Isuse, că m-ai mântuit
+Şi în Tine, am găsit tot ce am dorit.
+Nici un ocean din lume,
+cu valuri şi spume,
+Nu ar putea îndepărta
+dragostea mea de-a Ta.
+
+[s2]
+2
+O, vreau mai mult, să Te slăvesc
+Şi voia Ta s-o împlinesc.
+Vreau să fac doar voia Ta
+/: Şi să-Ţi cânt dragostea :/
+
+[s3]
+3
+Mulţumesc, Isuse,
+pentru Duhul Tău;
+Iubirea Ta şi Duhul Tău
+sunt tot ce-mi doresc eu.
+Nici un ocean din lume,
+cu valuri şi spume,
+Nu ar putea îndepărta
+dragostea mea de-a Ta.
+
+[s4]
+4
+O, vreau mai mult, să Te slăvesc
+Şi voia Ta s-o împlinesc.
+Vreau să fac doar voia Ta
+/: Şi să-Ţi cânt dragostea :/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,64 @@
+[s1]
+971.
+1.	Mântuitorul pe nori va veni
+Ca să răpească pe ai Săi copii
+Care cu mult dor ei L-au aşteptat
+Aşa cum odată
+Domnul i-a învăţat.
+
+[r1]
+Cor:	Încă mai răsună pe pământ
+Vestea că Isus
+Veni-va-n curând
+Deci noi toţi să strigăm
+Cu-n dor nespus
+Vin' Isuse să ne răpeşti
+La Tine sus.
+
+[s2]
+2. Aici pe pământ
+Dureri şi-ntristare
+Sus ne aşteaptă fericire mare
+De aceea noi pe Domnul
+Îl dorim
+Ca acolo unde e El şi noi să fim.
+
+[s3]
+3. Acolo-om vedea faţa Domnului
+Şi toţi vom fi conduşi
+De mâna Lui
+Şi vom vedea
+Frumuseţi de nespus
+Ah, ce fericire
+E să fim acolo sus.
+
+[s4]
+4. Veseli înainte
+Dar mergem mereu
+Spre tronul
+Gloriei lui Dumnezeu
+Că Isus pentru noi mijloceşte
+Şi loc sfinţilor
+Acolo pregăteşte.
+
+[s5]
+5. Veseli înainte
+Să mergem mereu
+Cântând voioşi
+Laudă lui Dumnezeu
+Imnuri de slavă
+În ceruri răsun
+Îngerii îl laudă
+Pe Domnul cel bun.
+
+[s6]
+6. Sus în mărire
+Tu Doamne ne-aştepţi
+Unde în juru-Ţi stau
+Numai cei drepţi
+Şi eu vin cu a Ta făgăduinţă
+Noi Te aşteptăm,
+Este a noastră credinţă.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

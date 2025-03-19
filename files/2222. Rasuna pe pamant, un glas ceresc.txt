@@ -1,0 +1,36 @@
+[s1]
+2222  Sol m
+1. Răsună pe pământ
+Un glas ceresc şi sfânt
+Prin semne şi cuvânt
+Prin cânt cu jar e glasul Lui Isus
+Ne cheamă blând nespus
+S-avem privirea-n sus
+căci vine iar.
+
+[r1]
+Cor:	 /: În har vă înfrăţiţi
+Copiii Mei iubiţi
+Când n-o să vă gândiţi voi apărea
+Pe-ai Mei îi voi lua
+Cu Mine-i voi-nălţa
+Și raiul le voi da-n iubirea Mea :/.
+
+[s2]
+2. Se-ntunecă spre zări
+La orizont vin nori
+Pe vechile cărări e mai pustiu
+Când noaptea e pe drum
+Vă-ntoarceţi toţi acum
+La dragostea dintâi
+Până nu-i târziu.
+
+[s3]
+3. Curând veţi auzi
+Trompeta va vesti
+Arhanghelii vor veni
+Şi vor striga, o, iată a venit  Eternul Prinţ slăvit
+Acel ce-i pregătit Îl va urma.
+
+[order]
+s1,r1,s2,r1,s3,r1

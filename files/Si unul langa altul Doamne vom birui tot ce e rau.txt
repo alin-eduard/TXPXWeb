@@ -1,0 +1,31 @@
+[s1]
+Iti multumesc, Isuse Doamne,
+caci astazi Tu mi-ai daruit
+Un ajutor de pret in viata
+cum deseori eu mi-am dorit.
+
+[r1]
+Sunt fericit, caci drumul vietii
+e mai usor de mers in doi
+Revarsă-Ti binecuvântarea
+cum stăm ,naintea-Ti amândoi.
+
+[s2]
+Şi unul lânga altul,
+Doamne, vom birui tot ce e rau
+Ca in caminul ce se-ncheaga
+să preamarim Numele Tau.
+
+[s3]
+In ziua grea şi de ispita,
+când toti cei dragi ne-or parasi
+Să nu uitam ca-avem un Tata,
+cu El noi singuri nu vom fi.
+
+[s4]
+Oricât de grea ar fi povara şi crucea care-o vom purta
+Noi nu ne mai lasăm de Tine pân,
+ajungem in tara Ta.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

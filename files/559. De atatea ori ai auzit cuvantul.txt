@@ -1,0 +1,30 @@
+[s1]
+1. De atâtea ori ai auzit Cuvântul
+De atâtea ori ai auzit un glas
+Ce te-a chemat să te întorci acasă
+Dar tu pribeag pe drumuri ai rămas.
+559.    								    La b
+
+[r1]
+Cor:
+O, fiu pierdut întoarce-te acasă
+Şi fericit vei fi cu Dumnezeu
+Întoarce-te, întoarce-te la Tatăl
+Întoarce-te la Dumnezeul tău.
+
+[s2]
+2. Aşa cum eşti lovit
+Cu-ale tale zdrenţe
+Aşa cum eşti trudit şi-mpovărat
+Vei fi primit cu dragoste în casă
+De Dumnezeul dragostei iertat.
+
+[s3]
+3. Toţi prietenii te-au părăsit deodată
+Nu te mai ştiu şi te-au lăsat uitat
+Dar Dumnezeu nu te-a uitat,
+Te aşteaptă
+Să vii la El, o, fiu nemângâiat.
+
+[order]
+s1,r1,s2,r1,s3,r1

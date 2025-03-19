@@ -1,0 +1,13 @@
+[r1]
+/: Eşti vrednic să fii lăudat, Isus
+Nu-i nimeni înălţat mai sus
+Toată slava şi mărirea Ţi-o cântăm :/
+
+[r2]
+/: Plin de glorie eşti doar Tu Isus
+Nu-i Nume înălţat mai sus
+In al Tău nume Sfât cu toţii ne-nchinam:/
+Toată slava şi mărirea ţi-o cântăm.
+
+[order]
+r1,r2,r1,r2

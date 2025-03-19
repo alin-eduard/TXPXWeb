@@ -1,0 +1,62 @@
+[s1]
+Cu timpane si-alaute
+sa cantam in adunari,
+Cine vine si asculta
+sa invete noi cantari.
+Cine canta biruieste
+norul intristarilor,
+Caci Isus ne daruieste
+harul bucuriilor.
+
+[s2]
+Vrem prin Duhul Sfant cu totii
+sa-naltam spre cer cantari,
+Si sa se coboare harul
+peste noi in adunari.
+Iar acei ce sunt bolnavi,
+toti sa fie vindecati
+Sa cantam acum din inimi,
+voi surori si iubiti frati
+
+[s3]
+Canta sora, canta frate,
+caci tu esti rascumparat
+Ale tale mari pacate
+Domnul Isus le-a iertat.
+Harfa noastra sa rasune
+ca si vantul pe campii,
+Sa-I uneasca, sa-I adunde
+pe ai Domnului copii.
+
+[s4]
+Dumnezeul nostru mare
+El ne-a binecuvantat,
+De aceea prin cantare
+sa-L slavim neincetat.
+Prin cantari, prin rugaciune,
+prin vestire din cuvant,
+Prin a noastre fapte bune
+sa-I slavim numele Sfant,
+
+[s5]
+Sa cantam si-n zori si seara
+si la miezul noptii chiar,
+Rugaciunea si cantarea sa
+le-aprindem pe altar.
+Canta frate si vesteste
+voi surori si voi copii,
+Caci Isus ne daruieste
+minunate bucurii.
+
+[s6]
+O cantare inteleapta sa cantam
+prin Duhul Sfant,
+Inspre cer spre calea dreapta
+sa umblam pe-acest pamant.
+Prin cantari de multumire
+sa privim mereu in sus,
+Sa vestim a Lui iubire
+in numele lui Isus.
+
+[order]
+s1,s2,s3,s4,s5,s6

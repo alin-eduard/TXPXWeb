@@ -1,0 +1,46 @@
+[s1]
+1.	Sus pe dealul înalt
+S-a zidit un palat
+Împrejur El strălucea
+Şi blândul Păstor hrănea
+O sută de oi avea.
+2.	Văzând Păstorul blând
+Că una nu-i în cârd
+Undeva s-a-mpiedicat
+Şi de oi s-a-ndepărtat
+Rătăcită era.
+538.                        Do m
+
+[s2]
+3.	Bietul, blândul Păstor
+Peste tot s-a uitat
+Undeva El auzea
+Parcă un glas tot gemea
+Dar oiţa o căuta.
+4.	Iar când noaptea a venit
+Păstorul n-a dormit
+El din greu mereu ofta
+Şi oiţa o căuta
+O jelea că o iubea.
+
+[s3]
+5.	În pustie El s-a dus
+Şi de jale mult a plâns
+Printre stânci El se lovea
+Foarte mult El suferea
+Dar oiţa o căuta.
+6.	Într-o noapte umblând
+El oiţa zări
+Fiara după ea fugea
+Şi mereu o amăgea
+S-o omoare voia.
+
+[s4]
+7.	Dar iubitul Păstor
+Nicidecum nu o lăsă
+El oiţa a luat-o
+Pe umeri a aşezat-o
+Şi-a adus-o înapoi.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,46 @@
+[s1]
+1
+Stăruieste-n rugăciune,
+roagă-te sufletul meu!
+Lasă-ti grijile deoparte,
+roagă-te lui Dumnezeu!
+Mai stăruieste-n rugăciune,
+zideste-te sufletul meu!
+în părtăsia ta cu Domnul
+te va întări mereu.
+
+[s2]
+2
+Mai roagă-te sufletul meu,
+încrede-te în Dumnezeu!
+Mai roagă-te sufletul meu,
+mai roagă-te!
+Zideste-te sufletul meu
+să fii plăcut lui Dumnezeu!
+Mai roagă-te sufletul meu,
+mai roagă-te!
+
+[s3]
+3
+Stăruieste-n rugăciune,
+închină-te sufletul meu!
+Uneste-te cu vesnicia,
+Laudă-L pe Dumnezeu!
+Mai stăruieste-n rugăciune,
+slăveste-L suflet pe Isus
+Si multumeste-I cu iubire
+pentru harul Lui cel sfânt!
+
+[s4]
+4
+Mai roagă-te sufletul meu,
+încrede-te în Dumnezeu!
+Mai roagă-te sufletul meu,
+mai roagă-te!
+Zideste-te sufletul meu
+să fii plăcut lui Dumnezeu!
+Mai roagă-te sufletul meu,
+mai roagă-te!
+
+[order]
+s1,s2,s3,s4

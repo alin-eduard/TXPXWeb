@@ -1,0 +1,22 @@
+[s1]
+Tot cerul spune
+Nemărginirea Regelui,
+Ce se compară
+Cu frumuseţea Domnului?
+În veci de veci domneşti
+Pe tron, o, Miel Divin,
+Genunchii îmi aplec
+Şi Ţie mă închin!
+
+[s2]
+Mereu voi spune
+Mărirea Celui înviat,
+Jertfit pe cruce,
+Cu Dumnezeu ne­a împăcat!
+În veci de veci domneşti
+Pe tron, o, Miel Divin,
+Genunchii îmi aplec
+Şi Ţie mă închin!
+
+[order]
+s1,s2

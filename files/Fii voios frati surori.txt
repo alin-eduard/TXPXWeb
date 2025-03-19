@@ -1,0 +1,27 @@
+[s1]
+Fiţi voioşi, fraţi, surori totdeauna,
+Lăudându-L pe Domnul mereu!
+De ne-ncredem puternic în Domnul,
+Nu ne-nvinge, nicicând, nici un rău!
+
+[r1]
+Nu-i furtună să clatine Stânca,
+Cea pe care suntem noi zidiţi!
+Fiţi voioşi, noi suntem totdeauna
+De Isus, de Cristos ocrotiţi!
+
+[s2]
+Fiţi voioşi, chiar
+şi-atunci când necazul
+Şi-ncercarea în voi va lovi!
+Mai frumoasă-i cântarea în lacrimi,
+Mai ceresc e, răbdând a zâmbi.
+
+[s3]
+Fiţi voioşi, că-n curând pe vecie,
+Veţi uita c-aţi mai plâns pe pământ!
+Fiţi voioşi, că-n curând cerul slavei
+Răsuna-va şi de-al vostru cânt!
+
+[order]
+s1,r1,s2,r1,s3,r1

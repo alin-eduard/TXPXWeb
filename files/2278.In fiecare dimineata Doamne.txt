@@ -1,0 +1,34 @@
+[s1]
+1.În fiecare dimineață
+Doamne-Ți înnoiești
+Bunătatea Ta și-ndurarea Ta.
+Sănătate, viață-mi dai,
+Zi de zi primesc.
+Doamne, Tatăl meu,
+Îți mulțumesc.
+
+[r1]
+Ref:
+Depind de Tine, Domnul meu
+Prin tot ce fac doresc să-nalț numele Tău.
+Tot ce am e-un dar primit din mâna Ta
+Te iubesc, mă închin și-Ți mulțumesc.
+
+[s2]
+2.Cu brațul Tău divin de Tată
+Tu mă ocrotești zi de zi mereu, Doamne Dumnezeu.
+De grijă-mi porți cum nimeni altul
+N-ar putea nicicând
+Domnul meu iubit,
+Credincios și sfânt.
+
+[s3]
+3.Atât cât voi avea suflare
+Te voi lauda
+Cu viața mea , prin purtarea mea.
+Calea către Tine Doamne,
+O voi mărturisi
+Și-ntr-o zi în cer, Tu mă vei primi.
+
+[order]
+s1,r1,s2,r1,s3,r1

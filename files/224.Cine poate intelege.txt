@@ -1,0 +1,123 @@
+[s1]
+1. Cine poate înţelege
+Ce înseamnă un Păstor
+Pe păşunele întinse
+Pentru viaţa oilor.
+224.
+
+[s2]
+Pentru hrana căutată
+Zilnic fără încetare
+Pentru apele curate
+Pentru tainice izvoare.
+
+[s3]
+2. Cine poate înţelege
+Ce înseamnă un Păstor
+Jos în văile vieţii
+Sus pe culmea munţilor.
+
+[s4]
+Pe coline în vâlcele
+Prin păduri în luminişuri
+Când atâtea guri aşteaptă
+Prada de după tufişuri.
+
+[s5]
+3. Cine poate înţelege
+Ce înseamnă un Păstor
+Pentru zilele noroase
+Pentru vremea ploilor.
+
+[s6]
+Pentru arşiţa cea mare
+În păşunile întinse
+Când sub seceta din lume
+Par câmpiile aprinse.
+
+[s7]
+4. Cine poate înţelege
+Ce înseamnă un Păstor
+Pentru oi, pentru oiţe
+Pentru viaţa mieilor.
+
+[s8]
+Pentru cele ostenite
+Gata să rămână-n urmă
+Cine poate înţelege
+Ce e un păstor în turmă.
+
+[s9]
+5. Cine poate cine oare
+Viaţa pentru oi să-şi pună
+Când în jur privesc tâlharii
+Pe păstor să îl răpună.
+
+[s10]
+Când 'nainte urlă lupii
+Când în spate un leu răcneşte
+Doamne cine oare cine
+Turmele le mai păzeşte.
+
+[s11]
+6. Şi un glas duios şi dulce
+Spintecă duios văzduhul,
+Eu mi-am împletit pe cale
+Bucuria cu durerea.
+
+[s12]
+Eu voi sta-naintea turmei
+Eu voi fi păstorul care
+Viaţa pentru oi să-şi pună
+Îngrijind de fiecare.
+
+[s13]
+7. Mi s-a umezit privirea
+În Isus vedem Păstorul
+Cu o rară gingăşie
+Mă chema Mântuitorul.
+
+[s14]
+Între braţele deschis
+M-a cuprins cu-a Lui iubire
+Doamne îmi aduc aminte
+De duioasa întâlnire.
+
+[s15]
+8. Astăzi înţeleg prea bine
+Ce înseamnă un Păstor
+Pe păşunile întinse
+Pentru viaţa oilor.
+
+[s16]
+Şi în văile adâncite
+Şi pe piscurile grele
+Pentru oi, pentru oiţe
+Pentru miei şi mieluşele.
+
+[s17]
+9. Doamne fă-ne a-nţelege
+Că-Ţi suntem turme pe cale
+Şi că ne-ai trimis în lume
+Fiul cerurilor Tale.
+
+[s18]
+Ne-ai vorbit cu gingăşie
+Ne-ai chemat cu îndurare
+Pe Isus ne-ai dat din ceruri
+Un Păstor şi bun şi mare
+
+[s19]
+10. Fă-ne să-Ţi cunoaştem glasul
+Minunatule Păstor
+Ce ne cheamă pe păşune
+Totdeauna iubitor
+
+[s20]
+Ce ne poartă la izvorul
+Apelor vindecătoare
+Până când îşi întregeşte
+Blânda turmă de sub soare
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12,s13,s14,s15,s16,s17,s18,s19,s20

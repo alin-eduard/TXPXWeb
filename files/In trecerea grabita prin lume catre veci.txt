@@ -1,0 +1,38 @@
+[s1]
+In trecerea grabita
+prin lume catre veci
+Fa- ti timp macar o clipa
+sa vezi pe unde treci.
+Fa- ti timp pentru adevaruri
+cu sufletul deschis
+Fa- ti timp pentru cantare,
+pentru Paradis.
+
+[r1]
+Viata trece, treci cu ea,
+omule nu uita
+Vino la Isus acum.
+De aici te pregatesti
+unde vrei sa locuiesti
+Vino azi pe drumul bun.
+
+[s2]
+E mult prea scumpa viata
+s-o treci nepasator
+E mult prea scumpa clipa
+sa treaca fara spor
+E mult prea scump Cuvantul
+sa-l uiti un ceas macar
+E mult prea scumpa ruga
+sa n-o faci cu har
+
+[s3]
+Cat mai este zi te poti pregati
+Cu haina curata pe Domnul
+a-L intalni
+De-i viata ta murdara
+vino la Calvar
+Isus te curateste o, ce mare har.
+
+[order]
+s1,r1,s2,r1,s3,r1

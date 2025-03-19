@@ -1,0 +1,28 @@
+[s1]
+Dimineaţa minunată
+la noi iarăşi a sosit;
+Să slujim toţi cu credinţă Domnului ce ne-a iubit.
+Tatăl nostru sfânt din ceruri,
+Te rugăm a ne-ajuta
+Să-mplinim cu bucurie astăzi numai voia Ta.
+
+[s2]
+Astăzi, dacă vin ispite
+şi furtuni oricât de mari,
+În primejdii, bun Părinte,
+prin credinţă fă-ne tari.
+În zadar va fi atunci chiar
+al Satanei greu atac.
+Noi vom fi sub ocrotirea lui Isus, azi şi în veac.
+
+[s3]
+O, Isus, Mântuitorul,
+ne condu cu mâna Ta,
+Numai Tu eşti ajutorul:
+biruinţă ne vei da.
+Când privirea rătăceşte şi-am putea oricând cădea,
+Luminează-ne-n tot locul;
+fii cu noi pe calea grea.
+
+[order]
+s1,s2,s3

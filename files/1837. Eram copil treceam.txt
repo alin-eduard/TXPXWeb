@@ -1,0 +1,33 @@
+[s1]
+Eram copil trecea zăpada
+Eu cu tristeşe o petreceam
+Mi se părea că iarna trece
+Mi se părea dar eu treceam.
+Eu am crescut treceau cocorii
+Mă-ndureram nu-i mai vedeam
+Mi se parea că vara trece
+Mi se parea, dar eu treceam
+1837.
+
+[s2]
+3. Stăteam gândind pe malul apei
+Cu unda ei la pas mergeam
+Mi se părea că apa trece
+Mi se părea dar eu treceam.
+4. Priveam ades cum zboară norii
+Şi frunzele zburân pribeag
+Mi se părea că ele zboară
+Mi se părea dar eu zburam
+
+[s3]
+5. Mi se părea cândva că alţii
+Crezând se-nşeală şi plângeam
+Mi se părea că-s ei pierduţi
+Mi se părea dar eu eram
+6. Azi văd cu amar Isuse tot harul
+Ce l-am pierdut când nu ascultam
+Dar azi Isuse Tu eşti cu mine
+Şi-s fericit că-n veci te am.
+
+[order]
+s1,s2,s3

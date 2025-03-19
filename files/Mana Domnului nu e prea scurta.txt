@@ -1,0 +1,26 @@
+[s1]
+Mana Domnului nu e prea scurta
+Si nici urechea Lui prea tare nu-i
+Pacatul pune-un zid de despartire
+Ne-ascunde fata Domnului
+
+[r1]
+De vrei sa-L vezi pe Domnul
+Renunta la pacat
+Privirea Lui e sfanta
+Si el Te vrea curat
+
+[s2]
+Stihii dezlantuise-vor pe cale
+Si voci straine te vor provoca
+Nu-ti apleca urechea stai deoparte
+Caci de Hristos le vor indeparta
+
+[s3]
+Nu te aventura cu cei din lume
+Esti prea firav pericolu-i imens
+Prudent sa fii alege dreapta cale
+Caci cu Isus viata are sens
+
+[order]
+s1,r1,s2,r1,s3,r1

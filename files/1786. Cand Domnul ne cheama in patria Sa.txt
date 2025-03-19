@@ -1,0 +1,85 @@
+[s1]
+1786.        Fa m
+1. Când Domnul ne cheamă
+În patria Sa
+El va veni în glorie
+Cu toată ceata îngerilor Săi
+Necazul, strâmtorarea de-acum
+S-au sfârşit căci va sosi Mirele
+Aleluia! Slavă să-I fie
+
+[s2]
+/:Iată vine Mirele,
+Aprindeţi candelele
+Iată vine cum a spus
+Domnul `nost Isus:/
+El va şterge sudoarea
+De pe fruntea ta si-a mea
+Şi va şterge lacrima
+Şi ne-a mângâia:/
+
+[s3]
+2. Popor ce-ai plâns
+În lume apăsat de cel rău
+Ascultă azi glasul Său
+Căci iată vin să-ţi iau suspinul tău
+De zecii de mii de glasuri
+Şi harfe cântând
+Aleluia! Glorie Domnului
+În cer şi pe pământ
+
+[s4]
+/:Cine zboară sus pe nori,
+Este Domnul Domnilor
+Coborând pe calul alb,
+Mire scump şi drag
+Cine zboară sus pe nori,
+Este oastea sfinţilor
+Urmărind pe Sfântul  Miel,
+Unde merge El:/
+
+[s5]
+3. Şarpele cel vechi
+Ce se cheamă Satan
+Va fi legat şi zdrobit
+Căci e destul de când ne-a chinuit
+Saltă tu Sioane şi fii bucuros
+Căci va sosi Mirele
+Cu îngerii din cerul glorios
+
+[s6]
+/:Bucurie este-n cer,
+Lângă  blândul nostru Miel
+Care lumea-a biruit,
+Pe cruce a murit
+Saltă tu popor iubit,
+Care moartea-ai biruit
+Prin acel Isus Hristos,
+Mielul glorios:/
+
+[s7]
+4. Trâmbiţa sună
+Din cerul preasfânt
+Sus fraţilor, nu dormiţi
+De vreţi la ceruri ca să fiţi răpiţi
+Haide te scoală
+Şi nu mai dormi
+Căci va sosi Mirele
+Şi dus vei fi de Mire-n glorie
+
+[s8]
+/:De-ai luat uleiul sfânt,
+Dus vei fi de pe pământ
+Sus la dreapta Tatălui,
+La mărirea Mielului
+Dacă frate-ai suferit,
+Sigur frate-ai biruit,
+Prin Acel Isus Hristos,
+Mielul glorios
+Dacă soră-ai suferit,
+Sigur soră-ai biruit,
+Prin Acel Isus Hristos,
+Mielul glorios:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

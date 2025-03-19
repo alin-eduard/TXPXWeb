@@ -1,0 +1,42 @@
+[s1]
+Salvare, salvare, salvare
+/: Domnul poate sa mi-o dea
+El este salvarea mea, salvare :/
+
+[s2]
+Salvare, salvare, salvare
+/: Domnul da celor iubiti
+Ca sa fie fericiti, salvare :/
+
+[s3]
+Salvare, salvare, salvare
+/: Domnu-i bucuria mea
+El imi e mangaierea, salvare :/
+
+[s4]
+Salvare, salvare, salvare
+/: Tatal bun prin Mielul Sfant
+Da salvare pe pamant, salvare :/
+
+[s5]
+Salvare, salvare, salvare
+/: Prin Mielul crucificat
+Sunt cu Tatal impacat, salvare :/
+
+[s6]
+Salvare, salvare, salvare
+/: Prin sangele Lui varsat
+Tot pacatul mi-a spalat, salvare :/
+
+[s7]
+Salvare, salvare, salvare
+/: Eu sunt foarte bucuros
+Ca mi-i salvator Hristos, salvare :/
+
+[s8]
+Salvare, salvare, salvare
+/: Eu sunt foarte fericit
+Ca de Domnul sunt iubit, salvare :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

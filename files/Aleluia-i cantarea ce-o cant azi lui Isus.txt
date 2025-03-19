@@ -1,0 +1,29 @@
+[s1]
+Aleluia-i cantarea ce-o cant
+azi lui Isus!
+Aleluia-i cantarea ce-mi place mult nespus!
+Aleluia-i cantarea ce-o cant
+azi lui Isus
+Aş vrea s-o cant şi-n ceruri sus!
+
+[r1]
+/: Aleluia, Aleluia, Aleluia ! :/
+
+[s2]
+Ascultă, popor, e glasul lui Isus
+Să ştiţi că de la noi
+n-avem nimic de spus.
+Nu aşteptăm cununa
+de-aici de pe pămant
+O aşteptăm din cerul sfant.
+
+[s3]
+Ascultă, popor, e glasul lui Isus
+Trezeşte-te acum
+să simţi prezenţa Lui.
+Oare-ai gandit vreodată
+că locu-acesta-i sfant?
+Ascultă deci al Său Cuvînt.
+
+[order]
+s1,r1,s2,r1,s3,r1

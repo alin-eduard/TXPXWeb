@@ -1,0 +1,29 @@
+[s1]
+Pe Isus eu vreau să-L cunosc
+Aproape vreau de El să fiu
+În El doresc să m-adîncesc
+Ca să devin al Său sfînt fiu.
+/: Mult mai mult despre Isus :/
+Mai mult pe El să-L preţuiesc
+În El mai mult să m-adîncesc.
+
+[s2]
+Mai sus, mai mult şi mai bogat
+Doar prin Isus pot să mă fac
+Aceasta este ruga mea
+O, dă-mi, Te rog, mîntuirea !
+/: Mult mai mult despre Isus :/
+Mai mult pe El să-L preţuiesc
+În El mai mult să m-adîncesc.
+
+[s3]
+Înţelepciunea s-o primesc
+Şi-n harul Său Dumnezeiesc
+Să cresc, să cresc mai mult mereu
+Pe plac să-I fac lui Dumnezeu.
+/: Mult mai mult despre Isus :/
+Mai mult pe El să-L preţuiesc
+În El mai mult să m-adîncesc.
+
+[order]
+s1,s2,s3

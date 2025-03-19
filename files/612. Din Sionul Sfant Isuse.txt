@@ -1,0 +1,76 @@
+[s1]
+1. Din Sionul Sfânt Isuse
+Din al dragostei locaş
+Am dori să vii o clipă
+/: Şi iubirea să mi-o laşi. :/
+612.             								      Mi b
+
+[s2]
+Am dori ca odinioară
+Cum la ai Tăi te-ai arătat
+Să te-arăţi acuma iară
+/: În locaşul minunat :/
+
+[s3]
+2. Unde vin cu-nflăcărare
+Prea iubiţii Tăi copii
+Să-Ţi ridice osanale
+/: Dorindu-te ca să vii. :/
+
+[s4]
+Vino şi îţi vezi bolnavii
+Cum suspină şi Te cheamă
+Vino mângâie durerea
+/: Prea iubita noastră mamă. :/
+
+[s5]
+3. Şi prin ochii de credinţă
+Se ridică către Tine
+Inimile-ndurerate
+/: O, primeşte-le la Tine. :/
+
+[s6]
+Unii gem şi cheamă pace
+Alţii strigă după har
+Unii cheamă izbăvirea
+/: Alţii al dragostei hotar. :/
+
+[s7]
+4. Şi aşa te rog Isuse
+Multe-aş mai avea de spus
+Dar îţi spunem că ne arde
+/: Dorul de-a ne duce-n sus.:/
+
+[s8]
+Dorul după Ţara Sfântă
+Unde-i locul pregătit
+Unde vom ajunge odată
+/: Lângă Tine, o,
+Doamne Sfânt. :/
+
+[s9]
+5. Unde nu vor mai fi lacrimi
+Nici dureri, nici suferinţă
+Unde nu va fi durerea
+/: Care este pe pământ. :/
+
+[s10]
+Te dorim, o, Ţară Sfântă
+Te dorim locaş iubit
+Te dorim şi-am vrea o dată
+/: Să ajungem la sfârşit. :/
+
+[s11]
+6. Să ne terminăm suspinul
+Care parcă s-a-nmulţit
+Ca să vină odată ziua
+/: Ce profeţii au vestit. :/
+
+[s12]
+Te dorim şi până atunci
+Te rugăm Isus iubit
+Să ne pregăteşti viaţa
+/: Pentru locul mult dorit. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12

@@ -1,0 +1,43 @@
+[s1]
+1392.
+1.  De mult ţi-am spus /: Isus :/
+Ca să mă duci în ceruri sus.
+Cor:	O vino, vino Isuse
+Scumpa mea comoară
+Căci sunt străin pe lume
+Chiar în a mea ţară.
+
+[s2]
+Din chinul greu /: Te chem :/
+Şi vreau pe veci să fiu al Tău.
+Cor:	O vino, vino Isuse
+Scumpa mea comoară
+Căci sunt străin pe lume
+Chiar în a mea ţară.
+
+[s3]
+Te-aştept mereu /: să vii :/
+Căci căile toate-s pustii.
+Cor:	O vino, vino Isuse
+Scumpa mea comoară
+Căci sunt străin pe lume
+Chiar în a mea ţară.
+
+[s4]
+4.  S-au copt şi viile /: târzii :/
+Te chem ca la cules să vii.
+Cor:	O vino, vino Isuse
+Scumpa mea comoară
+Căci sunt străin pe lume
+Chiar în a mea ţară.
+
+[s5]
+Pe Tine Doamne eu /: Te vreau :/
+S-ajung la Tine să stau.
+Cor:	O vino, vino Isuse
+Scumpa mea comoară
+Căci sunt străin pe lume
+Chiar în a mea ţară.
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,38 @@
+[s1]
+Voi, din pragul aşteptării,
+N-auziţi semnale noi?
+Ele strigă-n largul zării:
+„Vine ziua de apoi!"
+
+[r1]
+/: Aleluia! O, Maranata!
+Oare-L poţi întâmpina?
+Vine Domnul cu răsplata!
+Vine Mesia! :/
+
+[s2]
+Nu vedeţi că-n sfântu-I Nume
+Vin Hristoşi, spre-a se-nălţa?
+Voi vegheaţi! Ei sunt în lume
+Nu vă-nşele cineva!
+
+[s3]
+Se vor anunţa războaie,
+Dar voi nu vă-nspăimântaţi!
+Ciumi, cutremure, şuvoaie
+Vor lovi, dar voi vegheaţi!
+
+[s4]
+Daţi veţi fi, spre chin şi moarte,
+Şi veţi fi de toţi urâţi;
+Dac-au să se strice toate,
+Cum ar trebui să fiţi?
+
+[s5]
+Când? Nu ştim, dar lin mijeşte
+Aurora dulce-n zori...
+Voi vegheaţi! Isus soseşte!
+Va veni curând pe nori!...
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

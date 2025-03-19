@@ -1,0 +1,72 @@
+[s1]
+1. Dacă-L iubeşti tu pe Isus
+Tu păzeşte legea Sa
+Cu nimic nu te-ncurca
+Mergi înainte.
+306.
+
+[s2]
+2. Dacă ai luat arma-n mână
+Să te duci la oi la stână
+Dar să fii cu arma-n
+Mână ca păstor.
+
+[s3]
+3. Nu cruţa pe cei trufaşi
+Pe cei mici să-i iei pe braţ
+Cu iubire şi blândeţe în tot timpul.
+
+[s4]
+4. Dacă ai primit trâmbiţa
+Nu te opri sună din ea
+Căci ai mei te-or asculta
+Până-n ziuă.
+
+[s5]
+5. Când te duci în via mea
+Caută pe cei răniţi
+Mângâie-i pe cei zdrobiţi cu iubire.
+
+[s6]
+6. Căci mulţi sunt în lume azi
+Care hulesc lucrarea mea
+Dar răsplata
+Le-a fi grea foc şi chin.
+
+[s7]
+7. Iată din mulţime apar
+Dar sunt hoţi şi sunt tâlhari
+Căci prin altă parte sar
+Nu prin poartă.
+
+[s8]
+8. Cu sfaturi otrăvitoare
+Poporul ca să-l doboare
+L-ai zidit pe-o stâncă tare
+Şi nu-l pot.
+
+[s9]
+9. Căci Isus a spus aşa
+Ai mei după Mine vin
+Nu se duc după străin
+Că nu-l cunosc.
+
+[s10]
+10. Atunci când se va aşeza
+Urâciunea în templul meu
+Dându-se chiar Dumnezeu
+Să vegheaţi.
+
+[s11]
+11. Farisei şi cărturari
+Că sunt foarte înverşunaţi
+Şi nu se iubesc ca fraţi
+Nu-s ai mei.
+
+[s12]
+12. O, Isuse blând Păstor
+Tu eşti uşa oilor
+Ne conduci în viitor Slavă Ţie.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12

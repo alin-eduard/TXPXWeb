@@ -1,0 +1,44 @@
+[s1]
+Nu numai dorind izbândă,
+Vei ajunge s-o atingi,
+Ci luptând în ea cu fapta
+Şi cu lacrimi ai să-nvingi.
+
+[r1]
+O, Isuse, o, Isuse,
+fă-mă să-Ţi urmez cu dor,
+/: Să nu fiu numai cu vorba :/
+Ci cu fapta-mplinitor... :/
+
+[s2]
+Nu numai cântând credinţa,
+Dovedeşti c-o ai deplin,
+Ci trăind în ea cu fapta
+Şi cu sufletul creştin.
+
+[s3]
+Nume pot avea si cei răi
+Şi se pot făli că-l au,
+Însă, pildă şi trăirea
+Şi sfinţirea vieţii n-au.
+
+[s4]
+Dacă ştii că neascultarea
+E din primul nesupus,
+Ştii că ea blestemul morţii
+Şi osânda ţi-au adus.
+
+[s5]
+Dar al ascultării sfinte
+Ce osândă mi-ai luat,
+Duhul Sfânt, lăsat de Tine,
+Dă-ni-l dulce şi curat!
+
+[s6]
+Dă-ne darul ascultării
+Scump şi dulce şi smerit,
+Fără care niciodată
+N-a fost nimeni mântuit!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

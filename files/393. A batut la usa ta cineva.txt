@@ -1,0 +1,45 @@
+[s1]
+1. A bătut la uşa ta cineva
+Şi n-a răspuns nimenea
+În tăcerea negrei nopţi
+Stă un om şi plânge,
+/:Faţa Lui e numai răni,
+Pieptul numai sânge.:/
+393								    Re m
+
+[s2]
+2. “Cine eşti străin pribeag,
+Cine eşti?
+De-al cui dor Tu pribegeşti?
+Pentru cine Te-au brăzdat
+Bice fără număr,
+/:Ce povoară Ţi-a lăsat
+Rana de pe umăr?”:/
+
+[s3]
+3. Eu sunt robul ce slujesc tuturor
+Un om al durerilor
+Nimeni plată nu mi-a dat
+Numai spini şi ură,
+/:Numai răni şi tăieturi
+Pieptul mi-l umplură.:/
+
+[s4]
+4. Eu sunt pâinea ce s-a frânt
+Lumii-ntregi
+Şi sunt vinul noii legi
+N-am venit să plâng în drum
+Răni usturătoare,
+/:Plâng pe-acei ce pierd acum
+Ultima chemare!“:/
+
+[s5]
+5. A bătut la uşa ta cineva
+O, deschide-I nu mai sta!
+Nu-L lăsa să plece trist,
+Poate niciodată
+/:Mâna Lui la uşa ta,
+N-are să mai bată!:/
+
+[order]
+s1,s2,s3,s4,s5

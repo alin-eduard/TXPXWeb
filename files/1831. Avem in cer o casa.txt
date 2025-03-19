@@ -1,0 +1,37 @@
+[s1]
+Avem în cer o casă
+Mare luminoasă
+În curând plecăm să fim în ea
+În haine strălucitoare
+Vom fi în splendoare
+Cu Isus mereu ne-om bucura.
+1831.   Fa
+
+[r1]
+Cor: Ne-om bucura în Duhul Sfânt
+Şi vom uita de acest pământ
+O Isuse dragă vino mai degrabă
+Vino să ne duci la Tine-n cer
+
+[s2]
+2. Ce mare bucurie în rai o să fie
+Minunat va fi acolo sus
+Nu va fi tristeţe nici bătrâneţe
+Ci vom fi cu Domnul Sfânt Isus.
+
+[s3]
+3. O scumpă dimineaţă,
+Ne va sta în faţă
+Primăvara fără de sfârşit
+O lumină dulce
+Ce-ai murit pe cruce
+Pentru noi Isuse ai biruit.
+
+[s4]
+Cor: Ne-om bucura in Duhul Sfant
+Si vom uita de acest pamant
+O Isuse draga vino mai degraba
+Vino sa ne duci la Tine-n cer
+
+[order]
+s1,r1,s2,r1,s3,s4

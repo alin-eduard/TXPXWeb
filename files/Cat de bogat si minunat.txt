@@ -1,0 +1,32 @@
+[s1]
+Cât de bogat şi minunat
+Este acest cuvânt!
+Domnul iubirea Sa ne-a dat
+Prin noul legământ.
+
+[r1]
+În al iubirii tainic har,
+Prin Duhul, vă-ntăriţi!
+Mireasma sfântului calvar
+În lume răspândiţi!
+
+[s2]
+Să nu trăiţi în dezbinări,
+Nici în vorbiri de rău,
+Nu întristaţi pe Duhul Sfânt,
+Voi sunteţi rodul Său!
+
+[s3]
+Pe cel căzut să-l ridicaţi
+Cu dragoste şi har
+Şi-n bunătatea lui Hristos
+Să-l duceţi la calvar!
+
+[s4]
+Pe nori de slavă vor zbura
+Cu mirele iubit,
+Cei ce pe Domnul şi pe fraţi,
+La fel, au preţuit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

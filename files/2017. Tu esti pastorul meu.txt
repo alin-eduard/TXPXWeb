@@ -1,0 +1,38 @@
+[s1]
+2017 Fa M
+1. Tu eşti Păstorul meu
+Al sufletului meu
+Aşez viaţa mea
+Azi în mâna Ta
+Eu astăzi hotărăsc
+Cu Tine să trăiesc
+Şi-n fiecare zi al Tău voi fi.
+
+[s2]
+/: Nu mai vreau să rătăcesc
+Azi la cruce mă opresc
+Ţie pe deplin Isus mă dăruiesc
+Curăţeşte-mi inima
+Umple-o de prezenţa Ta
+Şi împărăţeşte Tu pe veci în ea
+
+[s3]
+2. Tu eşti Păstorul meu
+Al sufletului meu
+Aşez viaţa mea
+Azi în mâna Ta
+Eu astăzi hotărăsc
+Cu Tine să trăiesc
+Şi-n fiecare zi al Tău voi fi.
+
+[s4]
+/: Chiar de-ar fi prin valea morţii
+Sau prin încercări să trec
+Ştiu că El, Păstorul meu
+Mă va păzi
+Pot să-nfrunt orice ispită
+Orice val si orice greu căci Păstorul meu
+E însuşi Dumnezeu :/.
+
+[order]
+s1,s2,s3,s4

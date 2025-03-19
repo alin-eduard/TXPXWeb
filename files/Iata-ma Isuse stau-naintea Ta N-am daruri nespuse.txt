@@ -1,0 +1,42 @@
+[s1]
+Iată-mă, Isuse, stau-naintea Ta
+N-am daruri nespuse
+Dar vin să-Ţi dau inima mea
+N-am bogăţie nici avuţie
+Iată-mă Doamne aşa cum sunt
+Tu-mi eşti pe lume a mea bucurie
+Şi mi-e de-ajuns
+Doar numele sfânt.
+
+[s2]
+N-am bani n-am aur Tu-mi eşti tezaur
+Isuse dragă, eu Te ador
+Ştiu că odată pe Sfintele plaiuri
+În mii de stoluri cu Tine-am să zbor.
+
+[s3]
+Iată-mă, Isuse, mic şi ne-nsemnat
+N-am comori ascunse
+Dar sunt prin Tine, om bogat
+/: N-am nici palate nici nestemate
+Nici ranguri-nalte pe-acest pământ
+Te am pe Tine prieten şi frate
+Sunt fericit de aceea Te cânt. :/
+
+[s4]
+Iată-mă Isuse vin să fiu iertat
+Vin la a Ta cruce
+Mă spală Miel nevinovat
+Pentru vecie Doamne doar Ţie
+Viaţa mea-ntreagă Ţi-o dăruiesc
+Şi până-n Sfânta împărăţie
+Doar lângă Tine vreau să trăiesc.
+
+[s5]
+/: Numai cu Tine la greu şi la bine
+Până când iarăşi vei reveni
+Chiar prin durere şi prin suspine
+Nimic de Tine nu m-ar desparţi. :/
+
+[order]
+s1,s2,s3,s4,s5

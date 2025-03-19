@@ -1,0 +1,33 @@
+[s1]
+1463.   Fa
+Eu sunt Acel ce nu avea pe nimeni
+Atunci când la Betezda sufeream
+Pe patul meu bolnav de multă vreme
+Speranţă de mai bine nu aveam
+Zăceam plângând acolo la pridvoare
+De atâţia ani de toţi cei dragi uitaţi
+Aş fi intrat la tulburarea apei
+Să fiu şi eu de boală vindecat
+
+[s2]
+Dar cine oare să mă bage-n apă
+Eram de toată lumea ocolit
+Că nici doi bani nu s-ar fi dat pe mine
+O cât de mult aveam de suferit.
+Dar într-o zi un om veni la mine
+El m-a privit cu milă şi mi-a spus
+M-a întrebat de vreau să mă fac bine
+O Doamne n-am pe nimeni i-am răspuns.
+
+[s3]
+Scoală-te mi-a zis atunci Străinul
+Ridică-ţi patul, umblă mi-a mai zis
+Îndată sănătatea mă cuprinse
+Şi pe picioare iată am ajuns
+6.  Iar după aceea m-a găsit în templu
+Acel Străin şi mi-a vorbit duios
+M-a sfătuit să nu mai fac păcate
+Şi am aflat că e Isus Hristos
+
+[order]
+s1,s2,s3

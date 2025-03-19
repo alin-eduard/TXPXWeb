@@ -1,0 +1,27 @@
+[s1]
+Când te-­ai decis să mergi cu Isus
+Pe calea ce El ţi­-arată
+Ai lângă tine pe Cel ce ţine
+În mâini puterea toată.
+
+[r1]
+Nimeni să nu-­ţi dispreţuiască tinereţea,
+Fii dar o pildă pentru credincioşi;
+Fapta şi vorba
+să­-Ţi sporească frumuseţea
+Şi anii tăi vor fi frumoşi.
+
+[s2]
+Când vin ispite, adu­ţi aminte
+Ce­ a spus Mântuitorul,
+El singur poate să te ajute,
+El e Biruitorul.
+
+[s3]
+Tu ai pornit pe calea cea strâmtă,
+Ştii asta foarte bine;
+Mergi prin credinţă spre biruinţă,
+Domnul e lângă tine.
+
+[order]
+s1,r1,s2,r1,s3,r1

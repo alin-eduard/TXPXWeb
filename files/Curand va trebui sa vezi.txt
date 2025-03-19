@@ -1,0 +1,38 @@
+[s1]
+Curând va trebui să vezi tot
+ce nu vrei acum să crezi
+Căci moartea nu e un sfârşit,
+ci-un început nemărginit.
+Curând va trebui răspuns
+de tot ce ţii acum ascuns
+De tot trecutul dezgolit,
+ce va striga nepotolit.
+
+[r1]
+Şi ce uşor, şi ce uşor
+Puteai avea Mântuitor!
+Şi ce frumos, şi ce frumos
+Puteai fi-n veci lângă Hristos!
+
+[s2]
+Curând va trebui gustat
+veninul greului păcat
+Şi vei vedea cât e de-amar
+nestinsul conştiinţei far.
+Fiinţele ce le-ai ucis te vor
+împinge spre abis
+Sfinţenia ce-ai pângărit
+îţi va fi focul nesfârşit.
+
+[s3]
+Va trebui plătit din greu
+tot ce-ai lovit în Dumnezeu
+Nevinovaţii schingiuiţi
+îţi vor fi viermi neadormiţi.
+Curând va trebui, curând,
+să tot plăteşti în veci, gemând !
+Căci când El te-a chemat mereu,
+tu L-ai respins pe Dumnezeu.
+
+[order]
+s1,r1,s2,r1,s3,r1

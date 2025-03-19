@@ -1,0 +1,27 @@
+[s1]
+Isuse, Isuse, primeste-ma la Tine,
+Cand eu vin din dureri si suspin.
+
+[r1]
+La Tine! Doar la Tine, eu voi veni;
+Pe bratul Tau ma voi odihni.
+
+[s2]
+Isuse, Isuse, pieptul Tau fa-mi capatai
+Si cu mana Ta sa ma mangai!
+
+[s3]
+Iarta-ma, iarta-ma, Isuse, al meu iubit!
+Iarta-ma, caci eu mult Ti-am gresit…
+
+[s4]
+Astazi vin increzator,
+scumpul meu Mantuitor,
+Sa-mi legi ranile care ma dor.
+
+[s5]
+Slava si marire Tie, o, Isuse, Isuse,
+Caci Tu-mi dai bucurii nespuse.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

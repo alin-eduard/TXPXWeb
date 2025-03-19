@@ -1,0 +1,40 @@
+[s1]
+1. /:Isuse, viaţa mea,
+Scump tezaur eşti în ea,
+Scump tezaur eşti în viaţa mea:/ .
+192.
+
+[r1]
+Cor:
+/:O ,Doamne :/ primeşte-mă,
+/:De păcat :/ fereşte-mă!
+/:Ca să-mi ţin :/ legământul
+Du-mi în ceruri sufletul.
+
+[s2]
+2. /:În lume nu mă lăsa!
+Du-mă Doamne-n casa Ta!
+Du-mă, Doamne, sus în casa Ta!:/
+
+[s3]
+3. /:Din adâncime, Isus,
+Dorul meu se urcă-n sus.
+Dorul meu se urcă în cer sus.:/
+
+[s4]
+4. /:Ca un mire eşti frumos,
+Cu iubire şi milos,
+Cu iubire mare şi milos.:/
+
+[s5]
+5. /:Domnul zice că ne-a da,
+Noi pe El de-L vom urma,
+Bucurie mare-n Țara Sa.:/
+
+[s6]
+6. /: Noi, urmaşi ai lui Hristos
+Să-L servim mai bucuroşi
+Să-L servim noi, pe El, bucuroşi!:/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

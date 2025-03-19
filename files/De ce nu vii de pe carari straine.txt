@@ -1,0 +1,69 @@
+[s1]
+De ce nu vii,
+De pe cărări străine,
+Să-mi cazi la piept
+Ca un copil iertat?
+Eu n-am murit când,
+Numai pentru tine,
+Ca şi Isaac am fost
+Pe rug urcat.
+
+[s2]
+/: De ce nu vii? :/
+Ca şi Isaac am fost pe rug urcat.
+
+[s3]
+Mai mult de-atât,
+Ce jertfă de iubire
+Şi cui i-ar da mai mult
+De-atât prin gând?
+Un fiu pierdut să râdă în neştire
+Şi-un Dumnezeu să-l cheme Lăcrimând!
+
+[s4]
+/: De ce nu vii? :/
+Şi-un Dumnezeu
+Să-l cheme lăcrimând...
+
+[s5]
+De ce nu vii, cât încă
+Sunt aproape?
+De ce te-ascunzi când încă
+Te mai chem?
+De ce nu simţi lumina mea
+Pe pleoape,
+Când te primesc,
+Ca Salvator suprem?
+
+[s6]
+/: De ce nu vii? :/
+Când te primesc,
+Ca Salvator suprem
+
+[s7]
+De ce nu vrei să fii
+cu Mine-n slavă,
+Să colindăm alături ceru-ntreg?
+Din flori din rai,
+Din veşnica dumbravă,
+Cu mâna Mea cunună să-ţi aleg!
+
+[s8]
+/: De ce nu vii? :/
+Cu mâna Mea cunună să-ţi aleg.
+
+[s9]
+De ce nu vii, tu, suflet nestatornic
+Cât încă pot Mântuitor să-ţi fiu?
+Când vei striga,
+Va fi atunci zadarnic,
+Vei plânge-amar,
+Dar fi-va prea târziu.
+
+[s10]
+/: De ce nu vii? :/
+Vei plânge-amar,
+Dar fi-va prea târziu.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

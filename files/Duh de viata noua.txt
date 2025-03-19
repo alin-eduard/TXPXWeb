@@ -1,0 +1,50 @@
+[s1]
+1
+Duh de viaţă nouă, să cobori
+Focul sfânt, eu te rog cu dor!
+Şi o viaţa sfântă Tu-mi vei da
+Azi şi pururea.
+
+[s2]
+2
+Prin puterea Ta eu biruiesc,
+Clipe fericite eu trăiesc;
+De Hristos îmi amintesc mereu
+Să-L port în pieptul meu.
+Roada Ta bogată, pururea
+Umple viaţa mea.
+
+[s3]
+3
+Pentru suflet eşti mângâietor,
+Pentru viaţă-ndrumător
+Inima şi duhu-nflăcărezi
+Ţie să-Ţi lucrez.
+
+[s4]
+4
+Prin puterea Ta eu biruiesc,
+Clipe fericite eu trăiesc;
+De Hristos îmi amintesc mereu
+Să-L port în pieptul meu.
+Roada Ta bogată, pururea
+Umple viaţa mea.
+
+[s5]
+5
+Viaţa nouă şi cu roada sa
+Zi de zi sunt lucrarea Ta.
+Proslăveşti pe Domnul, jertfa Sa
+În inima mea.
+
+[s6]
+6
+Prin puterea Ta eu biruiesc,
+Clipe fericite eu trăiesc;
+De Hristos îmi amintesc mereu
+Să-L port în pieptul meu.
+Roada Ta bogată, pururea
+Umple viaţa mea.
+
+[order]
+s1,s2,s3,s4,s5,s6

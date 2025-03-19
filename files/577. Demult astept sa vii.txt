@@ -1,0 +1,63 @@
+[s1]
+1.	De mult aştept să vii,
+Să vii să ne mângâi
+Pe acest pământ străin.
+Nimeni nu-mi poate da
+O, mângâiere ca a Ta
+Pe acest pământ străin.
+Cor:  /: Vino, Isuse, vino, o, Doamne
+Vino să ne mângâi
+Vino, Isuse, vino, o, Doamne
+Noi te aşteptăm să vii. :/
+577
+
+[s2]
+2.	Vei vedea ologii,
+Cum te-aşteaptă orbii
+Ca să îi tămăduieşti.
+În cele cinci pridvoare
+De la scăldătoare
+Vei găsi, oh, mult popor.
+Cor:  /: Vino, Isuse, vino, o, Doamne
+Vino să ne mângâi
+Vino, Isuse, vino, o, Doamne
+Noi te aşteptăm să vii. :/
+
+[s3]
+3.	Vei găsi părinţii
+Cum îşi plâng copiii
+Ce-au fost smulşi din braţul lor.
+Vei găsi copiii
+Cum îşi plâng părinţii
+Căzuţi de Satan învinşi.
+Cor:  /: Vino, Isuse, vino, o, Doamne
+Vino să ne mângâi
+Vino, Isuse, vino, o, Doamne
+Noi te aşteptăm să vii. :/
+
+[s4]
+Vei găsi rănite,
+Slabe, fugărite
+Ale Tale oi Isus.
+Vei găsi plăpânde
+Setoase şi flămânde
+După Tine, scump Isus.
+Cor:  /: Vino, Isuse, vino, o, Doamne
+Vino să ne mângâi
+Vino, Isuse, vino, o, Doamne
+Noi te aşteptăm să vii. :/
+
+[s5]
+5.	Ia-le pe-al Tău umăr,
+Du-le-n a Ta turmă,
+Vindecă-le rănile.
+Du-le la păşune,
+La izvoare bune,
+O, păstorul nost’ Isus.
+Cor:  /: Vino, Isuse, vino, o, Doamne
+Vino să ne mângâi
+Vino, Isuse, vino, o, Doamne
+Noi te aşteptăm să vii. :/
+
+[order]
+s1,s2,s3,s4,s5

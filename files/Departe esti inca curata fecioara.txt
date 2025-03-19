@@ -1,0 +1,39 @@
+[s1]
+Departe eşti încă, curată fecioară;
+Şi ape şi codri şi munţi te-nconjoară
+Şi munca-ndelungă te ţine, te ţine...
+Şi dulcele Mire nu vine, nu vine.
+
+[r1]
+/: Mai coase, mai ţese,
+mai cântă, mai plânge,
+Mai încă puţine podoabe mai strânge;
+Puţine suspine, si tot mai puţine,
+Căci dulcele Mire grăbeşte spre tine. :/
+
+[s2]
+Departe eşti încă şi noaptea-i târzie.
+Şi candela-ţi arde în casa pustie...
+Şi grea-i aşteptarea şi lacrima-ţi vine,
+Dar dulcele Mire gândeşte la tine.
+
+[s3]
+Azi, orice iubire din urmă-ţi dispare.
+Doar una-i aprinsă şi scumpă şi mare.
+Şi zidul te-apasă şi lanţul te ţine,
+Iar dulcele Mire nu vine, nu vine.
+
+[s4]
+Mai greu trec, ca anii, azi clipele tale.
+Privesc, sus în zare departe, pe cale...
+Tresar, când se-aude un pas care vine.
+Dar dulcele Mire, gândeşte la tine.
+
+[s5]
+Aşteaptă, mai încă puţin-aşteptare.
+Puţină veghere, puţină răbdare...
+Dar până când oare acestea vor ţine
+Iar dulcele Mire nu vine, nu vine...
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

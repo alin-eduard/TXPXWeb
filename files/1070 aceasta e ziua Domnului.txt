@@ -1,0 +1,41 @@
+[s1]
+1.(:Aceasta e :)(: Ziua Domnului :)
+(:Veseli să fim:)
+(:Să ne bucurăm:)
+Aceasta e Ziua Domnului
+Veseli să fim să ne bucurăm!
+1070.
+
+[s2]
+2.(:El ne-a creat :)
+(: Şi ai Lui suntem :)
+(: Lui să ne-nchinăm :)
+(: Pe El îl slăvim :)
+El ne-a creat și ai Lui suntem
+Lui ne-nchinăm, pe El îl slăvim
+
+[s3]
+3. (: Noi rătăceam :)
+(: Dar El ne-a iubit :)
+(: Nu-L cunoşteam :)
+(: Dar El s-a jertfit :)
+Noi rătăceam, dar El ne-a iubit
+Nu-L cunoșteam, dar El S-a jertit
+
+[s4]
+(: Isus e Domn :)
+(: Vine în curând :)
+(: Vom moşteni : )
+(: Cu El cerul sfânt :)
+Isus e Domn, vine în curând
+Vom moșteni cu El cerul sfânt.
+
+[s5]
+(:Această zi:)
+A creat-o El, prin Emanuel
+Ca să-L slăvim,
+Ca să-L iubim
+(:Şi în har să fim:)
+
+[order]
+s1,s2,s3,s4,s5

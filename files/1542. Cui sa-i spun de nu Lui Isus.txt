@@ -1,0 +1,42 @@
+[s1]
+1542.         Mi
+1. Cui să-i spun de nu lui Isus
+Toată inimioara mea
+Cu cine aş sta nopţi de veghe
+Dacă nu cu Mesia
+/: Dar cui să-i spun eu de durerea
+Ce m-apasă /: aşa de greu:/
+De acuma doar lui Dumnezeu :/
+
+[s2]
+2. Cui să-i spun că-n astă lume
+Merge tot mai mult spre rău
+Când în ceruri ştiu prea bine
+Am un aşa Dumnezeu
+/: Care ştie aşa de bine
+Să-mi aline durerea, durerea mea
+Şi-mi ajută să duc crucea
+Sus la Golgota :/
+
+[s3]
+3. Cui să-i spun că inima mea
+Arde de iubirea lui
+Ce să fac să-l văd pe Domnul
+Sus în ceruri mai curând
+/: Asta îmi rămâne mie
+Să-i servesc eu devotat mai devotat
+Şi să stau la cruce
+Până îl voi vedea :/
+
+[s4]
+4. Multă vreme până atuncia
+Nu mai este dragul meu
+Ne desparte inima rea
+Necredincioasă de el
+/: Zorii zilei se arată
+Domnul Isus e pe drum vine acum,
+Fii gata să te-ntâlnească
+Treaz oricând :/
+
+[order]
+s1,s2,s3,s4

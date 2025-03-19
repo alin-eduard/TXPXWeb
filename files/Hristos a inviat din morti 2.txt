@@ -1,0 +1,26 @@
+[s1]
+Hristos a înviat din morţi,
+Hristos a înviat!
+/: Căzute-s ale morţii porţi,
+Hristos a înviat! :/
+
+[s2]
+Pământul-ntreg s-a zguduit;
+Hristos a înviat!
+/: Când El mormântul-a biruit;
+Hristos a înviat! :/
+
+[s3]
+Cântăm slăvitei învieri;
+Hristos a înviat!
+/: Izvorul unic de puteri;
+Hristos a înviat! :/
+
+[s4]
+Hristos, Hristos biruitor,
+Hristos a înviat!
+/: E singurul Mântuitor;
+Hristos a înviat! :/
+
+[order]
+s1,s2,s3,s4

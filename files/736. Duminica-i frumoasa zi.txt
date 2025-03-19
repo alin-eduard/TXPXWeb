@@ -1,0 +1,43 @@
+[s1]
+1. Duminica-i frumoasă zi
+Când Domnul a-nviat
+A săptămânii primă zi
+/: O-ncep cu cel prea înalt :/
+2. Şi luni mă simt aşa voios
+De nu-mi pot exprima
+De-i soare, ploaie, întunecos
+/: El e la dreapta mea :/
+736. Mi
+
+[s2]
+3. Nici marţi eu nu sunt apăsat
+De griji sau îndoieli
+Isus m-ajută minunat
+/: Eu mă încred în El :/
+4. Iar miercuri cerul de-i senin
+Sau de-i întunecat
+Eu tot cu Domnul meu divin
+/: Sunt vesel că-s salvat :/
+
+[s3]
+5. Când vine joi sunt bucuros
+Că ştim sunt mii de ani
+Când pentru al meu păcat Hristos
+/: A plâns în Ghetsimani :/
+6. Şi vineri iar am bucurii
+Ştiu El fu răstignit
+Şi pentru a ne face vii
+/: El moarte a primit :/
+
+[s4]
+7. Iar sâmbăta îmbălsămat
+Se odihnea-n mormânt
+Ca să mă scape de păcat
+/: Murind El moartea-nfrânt :/
+8. Deci zilnic eu mă veselesc
+Cu El sunt fericit
+În El odihna eu găsesc
+/: Prin El sunt mântuit :/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,38 @@
+[s1]
+Ades vine-ncercarea
+năvalnic ca marea
+Şi norii negri grabnic
+întunecă zarea
+/: Dar eu nu mă tem! :/
+
+[r1]
+Dar eu nu mă tem
+Chiar dacă toţi în jur mă părăsesc
+Dar eu nu mă tem, orice ar veni
+Viaţa mea e-n mîna
+Celui ce-a murit pe lemn
+Cu mine Îl chem, si eu nu mă tem.
+
+[s2]
+Îmi spulberă gîndul
+şi orice speranţă
+Şi nici măcar o clipă
+nu mai e-n siguranţă
+/: Dar eu nu mă tem ! :/
+
+[s3]
+Şi oamenii cei răi
+mă înconjoară cu ură
+Din cupa lor să-mi dea
+să beau o picătură
+/: Dar eu nu mă tem ! :/
+
+[s4]
+Cu Domnul meu
+eu trec biruitor peste toate
+Din ape şi din foc
+să mă scape El poate
+/: Şi eu nu mă tem ! :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

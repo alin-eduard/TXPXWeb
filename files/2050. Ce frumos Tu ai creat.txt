@@ -1,0 +1,33 @@
+[s1]
+2050
+1. Ce frumos Tu ai creat
+Doamne, universul
+În înțelepciunea-Ți mare
+Cât de minunat e tot necuprinsul
+Tot ce ai făcut Tu e o splendoare,
+
+[r1]
+Cor: Soare, luna, stelele
+Marea și izvoarele
+Toate-Ți cântă, toate-Ți cântă
+Pomi cu flori și cu verdeață
+Zorii dragi de dimineață
+Toate-Ți cântă, toate-Ți cântă
+
+[s2]
+2. Peste toate Tu domnești,
+Doamne, cu iubire
+Numele Tău e un turn tare
+Ești Atotstăpân
+peste nemărginire
+Împărat și Domn peste popoare.
+
+[s3]
+3. După chip și după a Ta
+sfântă chemare
+Ne-ai creat o sfinte Tată
+De aceea azi, în semn de adorare,
+Îți cântăm iubirea-Ți minunată.
+
+[order]
+s1,r1,s2,r1,s3,r1

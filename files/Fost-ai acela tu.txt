@@ -1,0 +1,26 @@
+[s1]
+Prin fapte bune,
+Cineva a fost exemplu altora,
+Cineva vesel a cântat
+Şi­o viaţă tristă­a­nseninat.
+Fost-ai acela tu?
+Fost-ai acela tu?
+
+[s2]
+Cineva bine a luptat,
+Pe mulţi la Domnul i­a­ndrumat,
+Cineva nobil a trăit,
+Mult pentru alţii s­a jertfit.
+Fost-ai acela tu?
+Fost-ai acela tu?
+
+[s3]
+Cineva prin lumina Sa
+A strălucit în lumea rea,
+Cineva pacea a iubit
+Şi mântuirea a vestit.
+Fost-ai acela tu?
+Fost-ai acela tu?
+
+[order]
+s1,s2,s3

@@ -1,0 +1,8 @@
+[s1]
+/: Păstrează-ne în harul Tău,
+Păstrează-ne în harul Tău,
+Păstrează-ne în harul Tău,
+Bunul nostru Dumnezeu! :/
+
+[order]
+s1

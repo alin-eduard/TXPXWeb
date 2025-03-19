@@ -1,0 +1,39 @@
+[s1]
+Tu ai fost mereu de partea mea
+O Domnul meu cel bun,
+Cetate de scapare
+In care sa m-ascund.
+In valea umbrei mortii reci
+fiinta imi chinuia,
+Schimbandu-mi cursul sortii
+Tu ai fost salvarea mea.
+
+[r1]
+/: De aceea te laud Domnul meu
+De aceea te voi slavi mereu,
+Esti mare, esti sfant
+Esti bun si minunat,
+O Domnul meu fii binecuvantat. :/
+
+[s2]
+Doar Tu ai fost de partea mea
+Cand toti m-au parasit,
+Cand calea disperarii
+Ma sfasia cumplit.
+In incercarea cea mai grea
+Doar Tu m-ai mangaiat,
+Si m-ai luat in brate
+Parinte indurat.
+
+[s3]
+De nu ar fi fost dragostea Ta
+Sa speli al meu pacat,
+Cu sange le Golgota
+O miel nevinovat.
+Eram pentru vecii pierdut
+Dar Tu m-ai cautat,
+Iubire minunata
+Fii vesnic laudat.
+
+[order]
+s1,r1,s2,r1,s3,r1

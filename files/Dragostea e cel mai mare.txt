@@ -1,0 +1,38 @@
+[s1]
+Dragostea e cea mai mare
+Dintre daruri pe pământ;
+/: Cu ea vieţuieşti în lume
+Şi nu vei cădea nicicând. :/
+
+[s2]
+Dragostea cine o are
+I se pare viaţa vis;
+/: Îi serveşte de-aripioare
+Pentru-a merge-n Paradis. :/
+
+[s3]
+Cine zice că iubeşte
+Pe Domnul Isus Hristos
+/: Şi pe-un frate il urăşte
+El este un mincinos. :/
+
+[s4]
+Dragostea nu pizmuieste
+Nici chiar pe vrajmasul sau,
+/: Ci, din contra, il iubeste;
+Nu se bucura de rau :/
+
+[s5]
+Dragostea e din Dumnezeu,
+Cu ea vom scăpa de rău;
+/: Cerul, pământul vor trece,
+Dragostea va ramânea. :/
+
+[s6]
+Dragostea e pretioasa;
+Prin ea, vom scapa de chin
+/: Si, in tara glorioasa,
+Noi vom fi, in veci , Amin :/
+
+[order]
+s1,s2,s3,s4,s5,s6

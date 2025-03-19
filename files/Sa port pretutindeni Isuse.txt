@@ -1,0 +1,32 @@
+[s1]
+Să port pretutindeni, Isuse
+Fiorul iubirii din Tine.
+/: Prin el să-Ţi aduc mai supuse
+Şi gînduri şi daruri din mine. :/
+
+[s2]
+Să-nalţ prin trăire curată
+A Ta frumuseţe divină
+/: Ca toţi rătăciţii să poată
+Veni mai uşor spre lumină. :/
+
+[s3]
+Să pot ca să-mprăştii într-una
+Mireasma sfinţeniei Tale.
+/: Oricine să vadă că-s una
+Credinţa cu-a cerului cale. :/
+
+[s4]
+S-arăt adevărul cum este
+Prin trai, prin cuvant, prin lucrare
+/: Să surp a-ndoielilor creste
+Şi piedici ascunse-n cărare. :/
+
+[s5]
+Isuse, oricand şi oriunde
+Să pot să Te-arăt doar pe Tine
+/: Înlătură tot ce-ar ascunde
+Lucrarea şi chipu-Ţi în mine. :/
+
+[order]
+s1,s2,s3,s4,s5

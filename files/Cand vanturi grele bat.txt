@@ -1,0 +1,32 @@
+[s1]
+Cand vanturi grele bat
+Si trec prin incercare
+Te chem Doamne sa vii
+Atunci sa-mi dai rabdare
+
+[r1]
+Umple-mi sufletul cu pace
+Chiar in juru-mi de-i razboi
+Impreun’om trece toate
+Tu ‘nainte eu ‘napoi.
+
+[s2]
+Eu vreau sa te iubesc
+In orice-mprejurare
+Ajuta-ma mereu
+Sa merg pe a Ta cale
+
+[s3]
+Eu sunt atat de mic
+M-ar spulbera furtuna
+Dar bunatatea Ta
+Ma ocroteste-ntruna
+
+[s4]
+Iti multumesc Isus
+Ca esti mereu cu mine
+Ajuta-ma sa fiu
+Si-n cerul sfant cu Tine
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

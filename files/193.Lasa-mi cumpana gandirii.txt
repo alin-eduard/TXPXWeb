@@ -1,0 +1,39 @@
+[s1]
+1. Lasă-mi cumpăna gândirii
+Mai-nainte de-a vorbi
+Şi puterea stăpânirii
+Adevăr să pot rosti
+193.
+
+[s2]
+/:Ştiu că Ţie-ţi voi da seama
+Pentru orişice am spus
+Şi mă umple Doamne teama
+Că-n osândă voi fi dus.:/
+
+[s3]
+2. Doamne-ndură-Te de mine
+Singur eu mă osândesc
+Când de voie fără voie
+Cu gura păcătuiesc
+
+[s4]
+/:Vrednic sunt de judecată
+O îndură-Te Isus
+Ca să nu aud odată
+Că gura mea greş a spus.:/
+
+[s5]
+3. Prin mustrarea Ta cu milă
+Înfrânează limba mea
+Căci uşor sau chiar în silă
+Lesne-n vină pot cădea
+
+[s6]
+/:E mai grea ca piatra-n praştii
+Vorba nestrunatei guri
+Doamne-nvaţă-mă măsura
+Cumpănită din scripturi.:/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,45 @@
+[s1]
+Este oare iertare
+Pentru tot ce am facut
+Doamne pot eu oare
+Sa vina asa cum sunt
+'Naintea Ta('naintea Ta),
+In fata Ta(in fata Ta)
+La m
+
+[s2]
+Stiu Domnul meu,
+Sunt un om asa rau
+Si Te-am intristat mereu
+Stiu domnul meu
+Te-am rastignit chiar eu
+Cand am spus:
+“Nu este Dumnezeu!”
+
+[s3]
+/:Oare ma poti ierta
+(ma poti ierta):/
+
+[s4]
+Cred ca este iertate
+Pentru orice am facut
+Cred ca acum e momentul
+S-o iau de la inceput
+'Naintea Ta('naintea Ta),
+In fata Ta(inaintea Ta)
+
+[s5]
+Stiu domnul meu
+Vei veni in curand
+Si pe norii cerului Vei sta
+Stiu Domnul meu
+Vei veni in curand
+Nu voi mai pleca din casa Ta
+/:Eu voi sta la dreapta Ta(la dreapta Ta):/
+
+[s6]
+/:Eu voi sta la dreapta Ta
+(la dreapta Ta):/
+
+[order]
+s1,s2,s3,s4,s5,s6

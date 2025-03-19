@@ -1,0 +1,38 @@
+[s1]
+În inimă-am un dor nespus
+Ce mă apasă-aşa de greu
+E dorul după Tin,, Isus
+Iehova sfînt, o, Domnul meu!
+
+[r1]
+Isus, Isus, când vei veni
+Să-Ţi iei mireasa-n veşnicii
+Adu-Ţi aminte şi de min,
+Că strig la Tine şi suspin!
+
+[s2]
+Vezi valuri grele cum se zbat
+Să mă doboare-n drumul meu
+Şi vânturi tari şi reci mă bat
+Nu mă lăsa, o, Domnul meu !
+
+[s3]
+Căci vreau să-Ţi fiu urmaş pe veci
+De lângă mine să nu pleci
+Ca să rămân sub crucea Ta
+Să mă-odihnesc la umbra sa!
+
+[s4]
+Iar când cerul s-a-ntunecat
+Şi norii grei se-ngrămădesc
+Să nu mă laşi din mâna Ta
+Căci eu pe Tine Te iubesc!
+
+[s5]
+Atunci, Isuse scump şi drag
+Aflându-mă-n măreţul prag
+Te rog ajută-mă a fi
+La masa Ta în veşnicii.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

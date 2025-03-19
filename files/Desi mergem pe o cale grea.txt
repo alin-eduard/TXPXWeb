@@ -1,0 +1,26 @@
+[s1]
+Deşi mergem pe o cale ce e grea
+Vom vedea pe Dumnezeu
+Doar atunci durerea n-a mai exista
+Vom vedea pe Dumnezeu
+
+[r1]
+Vom vedea pe Dumnezeu
+Vom cânta în glorie
+Când ne v-a chema în jurul tronului
+Vom vedea pe Dumnezeu
+
+[s2]
+După multe chinuri şi furtună grea
+Vom vedea pe Dumnezeu
+Pe vecie cu El ne vom bucura
+Vom vedea pe Dumnezeu
+
+[s3]
+După ce ispitele s-or isprăvi
+Vom vedea pe Dumnezeu
+După ce în luptă noi vom birui
+Vom vedea pe Dumnezeu
+
+[order]
+s1,r1,s2,r1,s3,r1

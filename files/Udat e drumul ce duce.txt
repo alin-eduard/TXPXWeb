@@ -1,0 +1,45 @@
+[s1]
+Udat e drumul
+ce duce la Hristos
+Cu lacrimi calde,
+şiroaie ce cad jos
+Din ochii celor
+ce-aici pe-acest pământ
+Nădăjduind odată
+s-ajungă–n cerul sfânt.
+
+[r1]
+/: Da stiu contează viaţa pe pământ
+Contează-n ceruri
+S-ajungem mai curând. :/
+
+[s2]
+Cad fraţii noştri
+adesea în genunchi
+Şi-n rugăciune
+s-adună în mănunchi
+Cu lacrimi calde udând
+pământul jos
+Nădăjduind ca-n pace
+s-ajungă la Hristos.
+
+[s3]
+Ce jale sfântă simţim
+în trupul sfânt
+Când boala vieţii
+încearcă pe pământ
+Să frângă doruri
+şi inimi ne-ncetat
+Să nu ajungem
+la Domnul nost’ prea ’nalt.
+
+[s4]
+Chiar dacă aicia simţim în inimă
+O jale sfântă cu fraţi în credinţă
+Durerea noastră
+sfârşi-se-va-n curând
+Când despărţi-ne-vom
+degrab de-acest pământ.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

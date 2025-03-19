@@ -1,0 +1,42 @@
+[s1]
+2231
+1. Pribegi ca Moise în pustie,
+De-un dor și-o țintă animați
+Călătorim spre veșnicie,
+Prin arșița și vânt purtați
+Ne-am săturat de grea robie,
+de boli, de moarte, de război
+Căutăm o altă-mpărăție,
+fără de grijuri și nevoi.
+
+[s2]
+Cor: /: Căutăm mereu,o țară
+dincolo de stele
+Un sfânt locaș precum demult profeții-au spus
+Un paradis fără de lacrimi și durere /: Unde-mpărat :/ este Isus :/.
+
+[s3]
+2. Un stâlp de nor ni-e călăuză și-n noapte o flacără de foc
+Poporu-ntreg parcă-i pe fugă, vrem strămutarea în alt loc
+Unde nici lapte și nici miere sau bogății de pe pământ
+Ci numai Doamne-a Ta putere
+și bucuria-n Duhul Sfânt.
+
+[r1]
+Cor: /: Căutăm mereu o țară
+dincolo de stele
+Un sfânt locaș precum demult profeții-au spus
+Un paradis fără de lacrimi și durere /: Unde-mpărat :/ este Isus :/.
+
+[s4]
+3. Nu străzi de aur ne încântă,
+nici frumuseți cum ni s-a spus
+Ci întâlnirea ceea sfântă
+și vocea blând-a lui Isus
+Pribegi ca Moise în pustie,
+dar nu spre-o patrie de jos
+Ci către-a cerului tărie,
+spre veșnicia cu Hristos.
+
+[order]
+s1,s2,s3,r1,s4,r1

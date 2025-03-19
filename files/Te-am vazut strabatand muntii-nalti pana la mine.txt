@@ -1,0 +1,38 @@
+[s1]
+Te-am vazut strabatând
+muntii-nalti pâna la mine
+Te-am simtit aproape atunci
+când mi-a fost greu
+Bucuriile de orice fel le-mpart
+cu Tine, Domnul meu
+Isuse, ma încred în Bratul Tau
+
+[s2]
+În încercari Tu ma veghezi,
+în întristari ma-nviorezi
+Tu esti lumina, esti mântuirea mea
+Balsamul Tau vindecator
+îl pui pe ranile ce dor
+Stai lânga mine, îmi îndrepti pasii,
+atunci când se clatina
+
+[s3]
+Când ma lupt cu multimi
+de-ntrebari îti pasa de mine
+Glasul Tau îl aud ca un
+susur în inima mea
+Numai Tu ma cunosti si auzi
+ale mele suspine,
+Isuse, îmi stergi lacrima
+
+[s4]
+Când rabdarea mi-o pierd
+si ma zbat în disperare
+Bratul Tau îl întinzi
+ca o punte spre inima mea
+Doamne, Tu îmi îndrepti
+sufletul pe a vietii carare
+Isuse, esti nadejdea mea
+
+[order]
+s1,s2,s3,s4

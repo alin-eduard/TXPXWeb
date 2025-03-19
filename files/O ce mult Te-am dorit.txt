@@ -1,0 +1,31 @@
+[s1]
+O, ce mult Te-am dorit
+Si ce mult Te dorim
+Sa vii, o, Isuse, la noi!
+Asa cum mereu, prin puterea sublima
+Te cobori si ne-ajuti in nevoi
+Din dragostea Ta,
+Astazi inc-un crampei
+O, ne da, ca astfel sa saltam
+Ducurosi ca si acum.
+Tu nu uiti de ai Tai;
+De-aceea noi cu drag Te laudam
+
+[r1]
+Salvator minunat
+Ce prin Tine am aflat
+mangaieri si iubiri de nespus1
+Onorat si slavit sa fii, Doamne iubit,
+Caci Stapan esti aici si-n cer sus.
+
+[s2]
+Sa ne cearna pe toti ca un grau,
+Insa Tu esti mai mult ca oricand
+Decat credeam ca esti
+Si de aceea noi nu ne temem,
+Orice ar fi, ce ar veni.
+Prin furtuni, ne croiesti
+Drum ca noi ne-atinsi sa mergem
+
+[order]
+s1,r1,s2,r1

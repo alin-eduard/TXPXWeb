@@ -1,0 +1,26 @@
+[s1]
+N-are nimeni ocrotire
+Ca-n a Domnului iubire,
+Nici o stea strălucitoare,
+Nici o pasăre sau floare.
+
+[s2]
+El pe-ai săi îi îngrijeşte
+Şi în Casa Lui îi creşte,
+Îi păstrează ca un Tată
+Şi pe braţul Lui îi poartă.
+
+[s3]
+Nici în viaţă, nici în moarte
+Pe ei nimeni nu-i desparte,
+Căci iubirea Lui divină
+Orice-ngrijorări alină.
+
+[s4]
+Turmă mică, n-avea teamă,
+El mereu te are-n seamă,
+Când răsare-al nostru Soare,
+Cad vrăjmaşii la picioare.
+
+[order]
+s1,s2,s3,s4

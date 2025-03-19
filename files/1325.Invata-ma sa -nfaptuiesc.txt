@@ -1,0 +1,42 @@
+[s1]
+1325.   Mi m
+1.  Învaţă-mă să-nfăptuiesc
+O Doamne voia Ta mereu
+Căci nu pot altfel să trăiesc
+Fără de Tine Domnul meu.
+Cor:	/:Voia Ta voia Ta
+Doamne-n veci voia Ta
+Să mă umple deplin
+Pentru Tine-n veci Amin.:/
+
+[s2]
+2.  Căci voia Ta e tot ce-i bun
+Şi azi şi mâine şi în veac
+Ajută-mă să mă supun
+Să pot să-ţi fiu oricând pe plac.
+Cor:		/:Voia Ta voia Ta
+Doamne-n veci voia Ta
+Să mă umple deplin
+Pentru Tine-n veci Amin.:/
+
+[s3]
+3.  Tu dai prin Duhul Tău cel Sfânt Nebănuite sfinte căi
+Şi ne înveţi pe-acest pământ
+Voinţa Ta şi paşii Tăi.
+Cor:		/:Voia Ta voia Ta
+Doamne-n veci voia Ta
+Să mă umple deplin
+Pentru Tine-n veci Amin.:/
+
+[s4]
+4.  Aceasta-i rugăciunea mea
+Spre Tine necurmat o-ndrept
+Şi-n orice-mprejurare grea
+Să-mi ardă voia Ta în piept.
+Cor:		/:Voia Ta voia Ta
+Doamne-n veci voia Ta
+Să mă umple deplin
+Pentru Tine-n veci Amin.:/
+
+[order]
+s1,s2,s3,s4

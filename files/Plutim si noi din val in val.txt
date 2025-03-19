@@ -1,0 +1,42 @@
+[s1]
+Plutim si noi, din val in val
+Cu barca vietii spre liman,
+Unde cu toti ne-om întâlni,
+Isuse scump, când vei veni.
+Cu Tine noi călătorim,
+Tu ne esti tinta ce-o dorim
+Căci Tu Isuse, ne-ai chemat
+Si mântuirea-n dar ne-ai dat.
+
+[r1]
+Corabia-i pe mare,
+Prin valuri noi vâslim;
+Dorim si noi, Isuse,
+La tărm să ne-ntâlnim;
+Isuse, o, Isuse,
+Mi-I dor de vesnicii,
+Acolo unde noapte
+Si plâns nu vor mai fi
+
+[s2]
+Si, fie noaptea cât de grea,
+Noi nu ne vom descuraja;
+Noaptea se va preface-n zi
+Când Tu, Isuse vei veni…
+Valurile de-or spumega,
+Noi peste ele vom zbura.
+Când Tu, Isuse, vei veni,
+Valurile s-or potoli.
+
+[s3]
+Tu valurile-ai potolit,
+La pestii mari Tu le-ai vorbit
+Si ne-ai sădit si ne-ai udat
+Si pe noi, Doamne, ne-ai chemat.
+Asupra noastră, Tu veghezi,
+Spre locuri sfinte ne îndrumi
+Si ne conduci spre tara Ta,
+Unde curând vom debarca.
+
+[order]
+s1,r1,s2,r1,s3,r1

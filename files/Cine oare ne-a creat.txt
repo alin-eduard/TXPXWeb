@@ -1,0 +1,31 @@
+[s1]
+Cine pomii a-mbrăcat?
+Cine-a presărat cu flori?
+Câmpul cu mii de culori?
+
+[r1]
+Domnul sfânt, Domnul sfânt,
+Creator pe pământ,
+Lăudat, lăudat,
+Fie binecuvântat!
+
+[s2]
+Păsări ce se-ntrec în zbor
+Ciripesc în graiul lor
+Iar pârâu-şi face loc
+Murmurând în al său joc.
+
+[s3]
+Stelele din depărtări
+Se-oglindesc sclipind în mări
+Zorile când s-au ivit
+Soarele e-n răsărit.
+
+[s4]
+Dumnezeu Cel bun şi sfânt
+A făcut cer şi pământ
+Şi frumos le-a-mpodobit,
+Minunat, ne-nchipuit!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

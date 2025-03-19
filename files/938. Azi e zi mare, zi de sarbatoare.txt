@@ -1,0 +1,37 @@
+[s1]
+938.Mi
+1.  /: Azi e zi mare, zi de sărbătoare
+Şi fiecare e vesel, mulţumit :/.
+Cor:	Fraţilor, surorilor
+/: Bine :/ Bine aţi venit la noi
+Fraţilor, surorilor
+/: Bine :/ Bine aţi venit :/.
+
+[s2]
+/: Din alte sate mai îndepărtate
+Ca la un frate
+Cu drag noi am venit :/
+Cor:	Fraţilor, surorilor
+/: Bine :/ Bine aţi venit la noi
+Fraţilor, surorilor
+/: Bine :/ Bine aţi venit :/.
+
+[s3]
+3.  /: De n-aveţi mese sau mâncări alese
+Pentru aceasta să nu vă-ngrijoraţi :/.
+Cor:	Fraţilor, surorilor
+/: Bine :/ Bine aţi venit la noi
+Fraţilor, surorilor
+/: Bine :/ Bine aţi venit :/.
+
+[s4]
+4.	/: Masa e cântul,
+Mâncarea-i Cuvântul	Şi Duhul Sfânt ne dă
+Tot ce dorim noi :/.
+Cor:	Fraţilor, surorilor
+/: Bine :/ Bine aţi venit la noi
+Fraţilor, surorilor
+/: Bine :/ Bine aţi venit :/.
+
+[order]
+s1,s2,s3,s4

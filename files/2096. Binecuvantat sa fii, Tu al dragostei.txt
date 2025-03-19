@@ -1,0 +1,39 @@
+[s1]
+2096
+1. Binecuvântat să fii
+Tu al dragostei izvor
+Domnul nostru din vecii
+Tu ești mare Creator.
+
+[r2]
+Cor: /: Te voi lăuda mereu
+Te voi binecuvânta
+Voi slăvi Numele Tău
+Cât suflare voi avea :/
+
+[s2]
+2. Binecuvântat să fii
+Pe vecie o, Isus
+Căci Tu ne-ai iubit întâi
+Și iertare ne-ai adus.
+
+[r1]
+Cor:  /: Te voi lăuda mereu
+Te voi binecuvânta
+Voi slăvi Numele Tău
+Cât suflare voi avea :/
+
+[s3]
+3. Binecuvântat să fii
+Pentru veci o, Duh Sfânt
+Doar Tu ne călăuzești
+Totdeauna pe pământ.
+
+[s4]
+4. Binecuvântări de sus
+Vom primi din mâna Ta
+Când pe Tine, drag Isus
+Pe nori Te vom revedea.
+
+[order]
+s1,r2,s2,r1,s3,r1,s4,r2

@@ -1,0 +1,68 @@
+[s1]
+1288.
+E secetă în ţară
+Şi ploaia nu mai vine
+E foamete şi boală
+Necaz în Israel
+Ilie nu se-arată
+Cu slujitoru-n grabă
+Să intre-n rugăciune
+Pe muntele Carmel
+1.
+
+[r1]
+Cor:	Trimite Doamne ploaia
+Prin al tău Cuvânt
+Şi umple tot poporul
+Acum cu Duhul Sfânt
+S-apară  acuma norul
+Pe care-l aşteptăm
+Să ude adunarea
+Şi să ne bucurăm
+
+[s2]
+Arată-Ți Doamne slava
+Prin a Ta lucrare
+Să ştie tot pământul
+Că Tu eşti Dumnezeu
+Mai lasă Doamne focul
+Şi-acum peste altare
+Şi ploaia cea târzie
+Peste poporul Tău
+2.
+
+[s3]
+Mi-e dor să Te-auzim
+La fel ca şi Ilie
+Cum îi vorbeai o Doamne
+Pe muntele Horeb
+Dorim să vină ploaia
+Să curgă apa vie
+Şi să strigăm cu toţii
+La fel ca Israel.
+3.
+
+[s4]
+Dărâmă Doamne Baalii
+Dărâmă Astarteea
+Să ştie tot pământul
+Că Tu eşti Dumnezeu
+Coboară Doamne astăzi
+La fel ca-n vremea ceea
+Şi fă trezirea sfântă
+Pentru poporul tău
+4.
+
+[s5]
+Trimite-ne mantaua
+O dă-ne iar puterea
+Ca să vestim cuvântul
+La fel ca Elisei
+Ridică-ţi lucrători
+Şi acum ca-n vremea aceea
+Şi ploaia cea târzie
+Să cadă peste ei
+5.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

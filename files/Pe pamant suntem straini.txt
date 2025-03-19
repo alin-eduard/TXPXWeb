@@ -1,0 +1,20 @@
+[s1]
+Pe pământ suntem străini,
+Suntem nişte peregrini,
+Pe Isus Hristos vestim,
+Il iubim şi Îl slujim.
+
+[r1]
+Da’ noi ştim că vine-o zi
+Când cu El ne-om întâlni
+Şi în slavă-I vom cânta cu toţi
+Glorie, Aleluia!
+
+[s2]
+Biblia-i Cuvântul sfânt,
+Călăuză pe pământ,
+Tot ce-i scris se va-mplini,
+El, Isus va reveni.
+
+[order]
+s1,r1,s2,r1

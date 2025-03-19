@@ -1,0 +1,27 @@
+[s1]
+1975
+1. Stăruieşte rabdă luptă
+Calea-i grea vrăşmaşii mulţi
+N-asculta chemarea lenei
+Eşti pierdut dac-o asculţi.
+
+[s2]
+2. Nu-nceta nu sta nu pierde
+Timpu-i scump să nu-n târzâi
+Nu cum eşti acum te uită
+Ci cum trebuie să fii.
+
+[s3]
+3. Ară, seamănă, pliveşte
+Câmpu-i mult plugari puţini
+Ca să strângi odată veşnic
+Seamănă cu pumnii plini.
+
+[s4]
+4. Nu e zi nu-i ceas nu-i clipă
+Să nu ai din cer vreun har
+Nici cuvânt nici pas nici jertfă
+Nu-ţi vor rămânea-n zadar.
+
+[order]
+s1,s2,s3,s4

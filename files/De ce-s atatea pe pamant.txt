@@ -1,0 +1,42 @@
+[s1]
+De ce-s atatea pe pamant,
+Si vorbe rele se aud?
+De ce la toate sa fiu surd? Isuse!
+De ce sunt frant de-atatea ori,
+Si biruit adeseori?
+Durerile nu contenesc nicicand.
+
+[r1]
+As vrea sa nu mai fie
+Nici lacrimi nici suspine
+Nici chin dureri
+si rani pe-acest pamant
+Dar cand Isus veni-va
+Uita-vom ce-i durerea
+Caci pentru veci cu El vom ramanea.
+
+[s2]
+De ce pe unii îi feresti ?
+Cu nici un rau nu ii lovesti
+Iar altii sufera din greu, Isuse !
+De ce bogati sunt unii azi,
+Scutiti de orisice necaz ?
+Iar alti-n lipsuri sunt lasati chiar azi
+
+[s3]
+Opreste-Te o clipa,
+Si vezi-mi starea mea,
+Durerea ce m-apasa tot mereu.
+Ridica-ma cand sunt batut, nu ma lasa pe jos batut,
+Prin Duhul Tau cel Sfant sa biruiesc.
+
+[s4]
+E cerul plin de slava,
+Curand Domnul coboara,
+Sa i-a pe cel ce sufera si rabda,
+Ce bucurie mare!
+Zbura-vom catre soare,
+Si vom trai pe veci de veci cu El.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

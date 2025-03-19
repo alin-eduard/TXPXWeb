@@ -1,0 +1,33 @@
+[s1]
+Lui Isus astăzi Îi cînt
+Că a venit pe Pămînt
+Mîntuirea cu El ne-a adus.
+Într-o iesle s-a născut
+Că alt loc El n-a avut
+O, Doamne, azi Îţi mulţumim !
+
+[r1]
+Doamne, Ţie, Ţie-Ţi mulţumim!
+Numele-Ţi sfînt proslăvim!
+Ţie vrem să ne-nchinăm
+Ţie laudă vrem să-Ţi dăm
+O, Doamne, laudă vrem să-Ţi dăm!
+
+[s2]
+Isuse, Tu Te-ai jertfit
+Pentru noi Te-ai dăruit
+Sîngele-Ţi sfînt păcatele ni le-a şters.
+Hainele ni le-ai spălat
+Ne-ai curăţit de păcat
+O, Doamne, azi Îţi mulţumim!
+
+[s3]
+Astăzi, Doamne, Îţi cîntăm
+Pentru tot ce ai făcut -
+Ne-ai adus la Tine să fim mîntuiţi!
+Ne-ai făcut copiii Tăi
+Inima Tu ne-ai schimbat
+O, Doamne, azi Îţi mulţumim !
+
+[order]
+s1,r1,s2,r1,s3,r1

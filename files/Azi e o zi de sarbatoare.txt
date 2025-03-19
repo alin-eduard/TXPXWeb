@@ -1,0 +1,30 @@
+[r1]
+Azi e o zi de sărbătoare
+Când cu toţi ne-am strâns
+La bucuria voastră o floare
+S-aducem şi noi.
+Toţi ne rugăm ca Domnul din ceruri
+Să fie prezent aici
+Să vă unească pentru vecie
+Prin sfântul legământ.
+
+[s1]
+Şi nimeni nici o dată în viaţă
+Să nu vă poată despărţi
+Să vă iubiţi cum Domnul Isus Hristos
+Şi-a iubit biserica Lui.
+
+[s2]
+Şi clipele de amărăciune
+Să nu uitaţi că amândoi
+Aveţi un sprijin pe Domnul slavei
+Ce este pururi lângă voi.
+
+[s3]
+Să nu uitaţi că rostul vostru
+În viaţa de pe-acest pământ
+Este să fiţi o mărturie
+A dragostei Lui Dumnezeu.
+
+[order]
+r1,s1,r1,s2,r1,s3,r1

@@ -1,0 +1,29 @@
+[s1]
+Tot ce are suflare
+Să laude pe Domnul
+Tot ce are viaţă
+Să-I cânte Lui
+Căci mare este bunătatea Lui
+faţă de noi
+Căci mare e credincioşia Lui
+
+[s2]
+Lăudaţi pe Domnul
+Căci în veac ţine-ndurarea Lui
+Lăudaţi pe Domnul
+Căci El e bun
+Căci mare este bunătatea Lui
+faţă de noi
+Căci mare e credincioşia Lui
+
+[s3]
+Mă încred în Domnul
+Căci în veac ţine-ndurarea Lui
+Mă încred în Domnul
+Căci El e bun
+Căci mare este bunătatea Lui
+faţă de noi
+Căci mare e credincioşia Lui
+
+[order]
+s1,s2,s3

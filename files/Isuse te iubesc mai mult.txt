@@ -1,0 +1,17 @@
+[s1]
+Isuse Te iubesc mai mult
+Decat iubesc orice pe-acest pamant
+Esti tot ce-mi doresc
+Si toata viata mea Ti-o-nchin
+Cu tot ce sunt pe Tine Te slavesc
+Eu Te slavesc, si ingerii Te adora
+Copii Tai te lauda
+
+[s2]
+Esti tot ce am, esti Domnul meu
+Ma-ncredintez in bratul Tau
+Esti Domnul meu, esti Tatal meu
+Tu nu poti fi inlocuit.
+
+[order]
+s1,s2

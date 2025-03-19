@@ -1,0 +1,15 @@
+[s1]
+Nici un alt nume decat al Lui Isus
+Nici un alt nume decat al D-lui
+Nici un alt nume decat a lui Isus
+El merita cinstea El merita slava
+El merita lauda tuturor.
+
+[s2]
+Doar numele Lui este inaltat
+Caci numele Lui este vesnic
+Doar numele Lui este inaltat
+Doar Lui ii dam slava cinste si marire.
+
+[order]
+s1,s2

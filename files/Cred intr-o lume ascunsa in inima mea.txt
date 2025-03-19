@@ -1,0 +1,29 @@
+[s1]
+Cred într-o lume-ascunsa-n
+inima mea
+Stiu ca exista desi n-o pot vedea
+Simt cum pulseaza
+viata-n orice cuvânt
+Mai aproape de Tine sunt
+
+[s2]
+Eu cred, desi nu pot vedea
+Legi, griji nu ma vor limita
+Eu vad planul Tau
+conturat adevarat
+
+[s3]
+Cred într-un cer si-ntr-un
+pamânt înoit
+Cred într-o viata ce nu are sfârsit
+Eu voi trai etern în locul sperat
+Nu-i un vis, e adevarul curat
+
+[s4]
+Cred intr-o zi ce vine cu glorie
+Mult asteptata clipa de dragoste
+Când voi sfârsi în bratele Domnului
+Sub aripa blânda a Duhului
+
+[order]
+s1,s2,s3,s4

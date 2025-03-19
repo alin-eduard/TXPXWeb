@@ -1,0 +1,32 @@
+[s1]
+/: Dumnezeu inseamna iubire
+Si iubirea de la El vine.
+El are iubirea-n privire
+Sa o dea celui ce la El vine. :/
+
+[s2]
+/: Pentru ca ne-a iubit,
+Pe Isus ni L-a dat. :/
+
+[s3]
+/: Dumnezeu este indurare,
+Indurare pentru-ntreaga lume;
+Vrea ca sa dea la orisicine
+Pretul vietii Lui, ca sa il ierte. :/
+
+[s4]
+/: Isus viata Si-a dat,
+Ca sa pot fi iertat. :/
+
+[s5]
+/: Dumnezeu inseamna viata
+Pentru cei care-n El au credinta.
+Cei care in El s-au increzut,
+Viata vesnica in dar au primit:
+
+[s6]
+/: Isus ne-a daruit
+Viata fara de sfarsit. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

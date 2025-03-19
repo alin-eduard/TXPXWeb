@@ -1,0 +1,26 @@
+[s1]
+Chiar mii de glasuri de-aş avea
+Tot n-aş putea să cânt
+Întreagă măreţia Ta,
+Stăpânul meu Preasfânt.
+
+[s2]
+Căci Tu, Cel Sfânt şi Preaînalt
+A toate Creator,
+Din moarte m-ai răscumpărat,
+De-aceea Te ador!
+
+[s3]
+Ce nume scump ai Tu, Isus!
+În sufletul trudit
+Aduci balsam din cer, de sus,
+Şi pacea Ta aduci.
+
+[s4]
+Ajută-mă, o, Domnul meu,
+Să pot să Te vestesc
+Celor pierduţi din jurul meu
+Şi să te preamăresc.
+
+[order]
+s1,s2,s3,s4

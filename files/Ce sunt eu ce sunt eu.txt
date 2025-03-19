@@ -1,0 +1,58 @@
+[s1]
+Ce sunt eu, ce sunt eu?
+Un fir de nisip în vânt,
+Sunt nimic pe pământ,
+Doar prin Tine sunt ce sunt.
+/: Eu nimic, Tu veşnicie,
+Eu sărac, Tu bogăţie.
+Ce sunt eu, ce sunt eu?
+Tu eşti totul Domnul meu. :/
+
+[s2]
+Ce sunt eu, ce sunt eu?
+O frunză purtată-n vânt,
+Sunt nimic pe pământ,
+Doar prin Tine sunt ce sunt.
+/: Eu, ţărână întinată
+Tu, a lumii jertfă dată,
+Ce sunt eu, ce sunt eu?
+Tu eşti totul Domnul meu. :/
+
+[s3]
+Ce sunt eu, ce sunt eu?
+O lumină pâlpâind,
+Sunt nimic pe pământ,
+Doar prin Tine sunt ce sunt.
+/: Eu, un păcătos din fire,
+Tu, a lumii mântuire,
+Ce sunt eu, ce sunt eu?
+Tu eşti totul Domnul meu. :/
+
+[s4]
+Ce sunt eu, ce sunt eu?
+O floare tăiată-n vânt,
+Sunt nimic pe pământ,
+Doar prin Tine sunt ce sunt.
+/: Eu – durere, chin și jale,
+Tu – o sfântă sărbătoare!,
+Ce sunt eu, ce sunt eu?
+Tu eşti totul Domnul meu. :/
+
+[s5]
+Așa-am fost, fără har,
+Fără jertfa din Calvar;
+Dar acum, sunt salvat!
+Prin sfânt sânge, sunt spălat!
+
+[s6]
+/: Îți aduc, azi, osanale,
+Că-s făptura mâinii Tale!
+Te slăvesc, Te măresc!
+Scump Isuse-Ți mulțumesc!
+Tu îmi ești a mea iubire,
+Partea mea de moștenire…
+Te slăvesc, Te măresc,
+Te slăvesc, Mire ceresc! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

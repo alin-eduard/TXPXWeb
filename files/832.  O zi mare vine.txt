@@ -1,0 +1,30 @@
+[s1]
+832.
+1. /: O zi mare vine :/
+Când Isus pe nori de slavă
+Se va arăta.
+
+[r1]
+Ref:	Eşti tu gata
+Pentru acea zi
+Eşti tu gata,
+Sunt eu gata?
+De judecată.
+
+[s2]
+2. /: O zi mare vine :/
+Când pământul se topeşte
+Văzând faţa Lui.
+
+[s3]
+3. /: O zi mare vine :/
+Când cei drepţi, de cei păcătoşi
+Se vor despărţi.
+
+[s4]
+4. /: O zi mare vine :/
+Te gândeşte frate,soră
+Unde-atunci vei fi?
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

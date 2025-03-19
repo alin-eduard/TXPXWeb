@@ -1,0 +1,33 @@
+[s1]
+1868
+1.Al păcii Domn slăvit și mare
+La nuntă azi ești invitat
+Să le dai binecuvântare
+Acestor doi car' s-au legat
+/:Unește Doamne-aceste inimi
+Unește-i astăzi pe-amândoi
+Să nu-i poată desparte nimeni
+Fă-i Doamne Tu un sfânt altoi:/
+
+[s2]
+2.În orice zi să-i ții de mână
+Și-ai lor pași să-i călăuzești
+Săi luminezi cu-a Ta lumină
+Și-n drumul lor să-i ocrotești
+/:Să le faci viața fericire
+De nori și valuri să-i ferești
+Să-i ții pe brațe cu iubire
+Și-n casa lor Tu să domnești:/
+
+[s3]
+3.Rămâi cu ei în căsnicie
+Și-ai lor urmași oricât de mulți
+Să-i binecuvintezi Isuse
+Și ruga lor să le-o asculți
+/:Păstrează-i Doamne a Ta mireasă
+Până când iar vei apărea
+Să faci din ei a Ta mireasă
+Când nunta-n cer o vom serba:/
+
+[order]
+s1,s2,s3

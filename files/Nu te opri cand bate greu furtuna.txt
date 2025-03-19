@@ -1,0 +1,26 @@
+[s1]
+Nu te opri cînd bate greu furtuna
+Şi cerul Tău e plin de nori
+Poţi să păstrezi în ochi oricînd lumina
+Ce ţi-au adus-o primi zori.
+
+[r1]
+Nu te opri nicicînd din drum
+Oricît ar fi aici de greu
+Nu te opri, nu te opri
+Nu-L părăsi pe Domnul tău.
+
+[s2]
+Să nu te-opreşti cînd neagră noapte vine
+Să te cuprindă-n mreaja ei
+Tu ţi-ai pierdut a inimi odihnă
+Şi lacrimi varsă ochii tăi.
+
+[s3]
+Să nu te-opreşti la sfatul crud al lumii
+Să nu renunţi cînd eşti lovit
+Nu te-nchina la stîncile genunii
+Şi nu uita cînd eşti iubit.
+
+[order]
+s1,r1,s2,r1,s3,r1

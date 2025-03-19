@@ -1,0 +1,32 @@
+[s1]
+Fii azi cu mine, Domnul meu,
+Să biruiesc prin orice greu
+Dă-mi Tu iubire cu prisos
+Să mă asemăn lui Hristos!
+
+[s2]
+De Tine când mă las condus
+Şi-n totul când Îţi sunt supus
+Atunci Tu eşti mai mult mărit
+Şi eu mă simt mai fericit.
+
+[s3]
+Inima Tu să-mi curăţeşti
+Şi voia Ta să-Ţi împlineşti
+Vreau să fiu plin de Duhul Tău
+În fapta mea şi-n gândul meu!
+
+[s4]
+Credinţa-ajută-mi să păstrez
+Pe drumul sfânt să Te urmez,
+În orice timp şi-n orice loc
+Eu să nu dau 'napoi deloc!
+
+[s5]
+Tot ce în noi ai început
+Fie prin har deplin făcut,
+Să Te slăvim, Părinte sfânt
+Ca oameni noi pe-un Nou Pământ!
+
+[order]
+s1,s2,s3,s4,s5

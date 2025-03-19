@@ -1,0 +1,50 @@
+[s1]
+In orasul Betleem
+Iosif cu sfanta Maria
+Osteniti de-atata drum
+Caut-un loc de gazduire
+Nimenea nu a dorit
+Sa-i primeasca-n casa lor
+Doar un staul au gasit
+Ca sa nasca pruncusor
+
+[s2]
+/: Acolo in iesle jos
+S-a nascut Isus Hristos
+Ingeri canta sus in cer
+S-a nascut Emanuel :/
+
+[s3]
+Dar de-odata pe pamant
+O lumina se iveste
+La pastorii de pe camp
+Ingerul le glasuieste
+Nu va temeti caci aduc
+Vestea buna in popor
+Astazi s-a nascut un prunc
+S-a nascut Mantuitor
+
+[s4]
+/: Acolo in iesle jos
+S-a nascut Isus Hristos
+Iar pastorii din campie
+Canta plini de bucurie. :/
+
+[s5]
+Sarbatoarea este mare
+Chiar si azi suna colindul
+Vestea buna se aude
+De rasuna-ntreg pamantul
+Hai cu totii sa cantam
+Slava slava-n cerul sfant
+Pruncului sa ne-nchinam
+Pace fie pe pamant
+
+[s6]
+/: Acolo in iesle jos
+S-a nascut Isus Hristos
+Slava Tie Dumnezeu
+Caci avem pe Fiul Tau :/
+
+[order]
+s1,s2,s3,s4,s5,s6

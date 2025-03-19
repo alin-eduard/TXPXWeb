@@ -1,0 +1,55 @@
+[s1]
+1. Cerul şi pământul,
+Ne spune Cuvântul vor, pieri
+Un lucru rămâne
+Peste timp şi lume pe vecii
+225. 							    Re m
+
+[s2]
+Ea a fost zidită
+Cu sânge stropită la Calvar
+N-are asemănare
+Sub întregul soare sau hotar.
+
+[r1]
+Cor: /:Evanghelia:/ are putere
+/:Evanghelia:/ nicicând nu piere.
+
+[s3]
+2. Vremuri de prigoană
+Se strecoară chiar spre ucenici
+Dar credinţa sfântă
+Nu a fost zidită pe nisip
+
+[s4]
+Ea a fost vestită
+Şi a fost primită ca un dar
+În inimi păstrată
+Iar de alţii dată ca un jar.
+
+[s5]
+3. Cine-o împlineşte
+Fericit trăieşte tot mereu
+Şi-n clipele grele
+Îţi dă mângâiere Dumnezeu
+
+[s6]
+Ea ne este harul
+Ne alină amarul şi ne dă
+Prin credinţă-n Domnul
+O viaţă-n ceruri veşnică.
+
+[s7]
+4. Jertfa Lui măreaţă
+Doar ea ne învaţă să trăim
+Calea ea ne-arată
+Jertfa Domnului s-o preţuim
+
+[s8]
+Nu-i cale în lume
+Care să ne ducă spre Isus
+Ea ne luminează
+Şi-o viaţă-n ceruri cu Isus.
+
+[order]
+s1,s2,r1,s3,s4,r1,s5,s6,r1,s7,s8,r1

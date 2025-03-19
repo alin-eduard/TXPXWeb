@@ -1,0 +1,35 @@
+[s1]
+Maria aleargă dis-de-dimineaţă
+Să-L vadă pe Domnul ei.
+Ea e-ndurerată îi plînge întruna
+Cînd vede doar mormîntul gol.
+Ea-îi pune-ntrebarea:
+<Dar unde e Domnul ?
+Oare cine, cine L-a luat ?>
+
+[s2]
+/: Privind în mormînt,
+iată, îngeri se-arată
+Şi îi spun Mariei: <Hristos a-nviat !
+Hristos a înviat !> :/
+
+[r1]
+/: O, ce mare fericire-a-avut Maria !
+O, ce mare bucurie-a-avut Maria !
+Bucură-te îi  tu astăzi ca Maria,
+căci Hristos a înviat ! :/
+
+[s3]
+Maria aleargă la-apostoli îi spune
+Că Domnul, El a înviat.
+Apostolii-n grabă la Domnul aleargă
+Să-L vadă îi ei pe Isus.
+O, ce fericire îi ce bucurie
+E pentru noi toţi c-a-nviat !
+Din groapa cea rece îi întunecoasă
+Regele măririi din morţi a-nviat !
+Isus Salvatorul, Regele măririi
+Răscumpărătorul, din morţi a înviat !
+
+[order]
+s1,s2,r1,s3,r1

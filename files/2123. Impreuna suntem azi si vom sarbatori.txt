@@ -1,0 +1,43 @@
+[s1]
+2123
+1. /: Împreună suntem azi
+Și vom sărbători
+Sărbătoarea vine
+Din adâncul inimii :/
+
+[s2]
+Cor:/: Vrem pentru Dumnezeu
+Să sărbătorim mereu
+Liberi ne-a făcut
+A dat tot ce a avut
+Vrem să ne închinăm
+Doar pe El să-L înălţăm:/
+
+[s3]
+2. /: Ştim că în mijlocul nostru
+E prezent Isus
+Şi-a ţinut promisiunea
+Aşa cum a spus :/
+
+[r1]
+Cor:/: Vrem pentru Dumnezeu
+Să sărbătorim mereu
+Liberi ne-a făcut
+A dat tot ce a avut
+Vrem să ne închinăm
+Doar pe El să-L înălţăm :/
+
+[s4]
+3. /: Vrem să ne unim în duh Le punem toate jos
+Teama şi îngrijorări
+La crucea lui Hristos :/
+
+[s5]
+4. /: Hai să dăm mână
+cu mână
+Lui să-I facem loc
+Duhul Sfânt va reaprinde
+Al inimilor foc :/
+
+[order]
+s1,s2,s3,r1,s4,r1,s5,r1

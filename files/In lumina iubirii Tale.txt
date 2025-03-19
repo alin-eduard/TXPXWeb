@@ -1,0 +1,31 @@
+[s1]
+In lumina iubirii Tale,
+Intunericul va dispare
+Tu lumina a lumii coboara,
+Peste noi adevarul Tau iara .
+/: Sa stralucesti :/
+
+[r1]
+Sa stralucesti
+Slava Tatalui umple tara,
+Duh ce-ncalzesti inimile cu foc,
+Curgi rau spre noi
+si inunda-ne har si pace
+Al Tau cuvant soare fa-L pe Pamant
+
+[s2]
+Prin lumina prezentei Tale,
+Stinge-mi umbrele de pe cale
+Prin sangele Tau ma curateste
+Incearca-mi inima si ma sfinteste
+/:Sa stralucesti:/
+
+[s3]
+Stralucirea-Ti atat de mare,
+Pe Pamant n-are asemanare,
+Chipul Tau oglindeste in mine .
+Schimba-ma sa ma aseman cu Tine
+/: Sa stralucesti:/
+
+[order]
+s1,r1,s2,r1,s3,r1

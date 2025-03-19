@@ -1,0 +1,62 @@
+[s1]
+Daca azi, pe drumul vietii,
+Esti lovit mereu,
+Daca esti, in incercari
+In suspin si-n greu,
+/: Daca-n luntrea vietii tale
+Bat vanturi fara-ncetare,
+Atunci cheama-n ajutor
+Pe al tau Mantuitor! :/
+
+[s2]
+Daca soarta vietii-apasa,
+Nu descuraja,
+Cand povara nu te lasa
+Si ti-e crucea grea...
+/: Chiar daca ai tai din casa
+Te hulesc si nu le pasa,
+Atunci cand nu-i mai putea,
+Domnu-i de partea ta. :/
+
+[s3]
+Daca esti in suferinta,
+Fara ajutor,
+Roaga-te, azi, cu credinta
+L-al tau Salvator!
+/: Roaga-te, fara-ncetare,
+Chiar daca durerea-i mare,
+Caci si Isus a rabdat,
+Cand L-au crucificat. :/
+
+[s4]
+Daca ochii-ti varsa lacrimi,
+De atatea ori,
+Cand furtuni lovesc in tine,
+Tu nu da-napoi!
+/: Roaga-te, fara-ncetare,
+Ca Isus in Ghetsimani!
+Dumnezeu te v-ajuta,
+Caci mare-i mila Sa. :/
+
+[s5]
+Mergi, frate, fara-ncetare!
+Urca tot mai sus!
+Urca pana la Golgota,
+Pana la Isus!
+/: Acolo povara, frate,
+Isus ti-o va lua din spate
+Si-ti va sterge lacrima,
+Caci mare-i mila Sa. :/
+
+[s6]
+Lupta-te lupta cea buna,
+Pe acest pamant,
+Ca sa poti primi cununa
+Sus, in cerul sfant.
+Cor: /: Rabda totul, in tacere,
+Chiar de-i mare-a ta durere!...
+Dumnezeu te v-ajuta,
+Caci mare-i mila Sa. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

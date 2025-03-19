@@ -1,0 +1,37 @@
+[s1]
+La o nunta esti chemat sa vii Isuse
+La o nunta unde nu vrem sa lipsesti
+Chiar aici te rog sa vii in adunare
+Daruindu-le iubire celor doi
+
+[r1]
+/: Vino Doamne (Vino Doamne),
+Cu iubire (Cu iubire)
+Sa le dai l-acesti doi miri dragostea Ta
+O iubire (O iubire),
+Ce ramane (ce ramane)
+Minunatul dar ce nu se va uita:/
+
+[s2]
+Invitat ai fost in Cana Galileei
+Si-ai facut prima minune pe Pamant
+Invitat esti si astazi l-aceasta nunta
+Caci-ai pregatit un dar frumos si sfant
+
+[s3]
+Vrem ca Domnul
+sa va dea doar bucurie
+Sa fiti mire si mireasa fericiti
+Noi cu totii va dorim intotdeauna
+In iubire voi de-acum sa traiti!
+
+[s4]
+/: Vino Doamne (Vino Doamne),
+Cu iubire (Cu iubire)
+Sa le dai l-acesti doi miri dragostea Ta
+O iubire (O iubire),
+Ce ramane (ce ramane)
+/:Minunatul dar ce nu se va uita:/
+
+[order]
+s1,r1,s2,r1,s3,s4

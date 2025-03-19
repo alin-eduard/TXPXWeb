@@ -1,0 +1,53 @@
+[s1]
+939.
+1. Bine aţi venit fraţilor
+Pe al muncii sfânt ogor
+Pacea Domnului cu voi
+Când vă-ntoarceţi înapoi.
+Cor:	Pacea Domnului cu voi
+/: Să vă scape :/ /: din nevoi :/
+/: Să vă fie :/ /: de ajutor :/
+/: Pe al muncii :/ sfânt ogor.
+
+[s2]
+2. Lucrători nu-ntârziaţi
+Vă grăbiţi de seceraţi
+Cât mai este timp de har
+Căci la urmă a fi-n zadar.
+Cor:	Pacea Domnului cu voi
+/: Să vă scape :/ /: din nevoi :/
+/: Să vă fie :/ /: de ajutor :/
+/: Pe al muncii :/ sfânt ogor.
+
+[s3]
+3. Noi vă zicem bun venit
+La toţi care aţi sosit
+Şi Tatăl nostru din cer
+Să vă răsplătească El.
+Cor:	Pacea Domnului cu voi
+/: Să vă scape :/ /: din nevoi :/
+/: Să vă fie :/ /: de ajutor :/
+/: Pe al muncii :/ sfânt ogor.
+
+[s4]
+4. Dumnezeul cerului
+Domnul secerişului
+Să trimită lucrători
+Şi mai mulţi secerători.
+Cor:	Pacea Domnului cu voi
+/: Să vă scape :/ /: din nevoi :/
+/: Să vă fie :/ /: de ajutor :/
+/: Pe al muncii :/ sfânt ogor.
+
+[s5]
+5. Vedeţi secerişul copt
+Pentru Domnul Savaot
+Strângeţi toate spicele
+Până harul mai ţine.
+Cor:	Pacea Domnului cu voi
+/: Să vă scape :/ /: din nevoi :/
+/: Să vă fie :/ /: de ajutor :/
+/: Pe al muncii :/ sfânt ogor.
+
+[order]
+s1,s2,s3,s4,s5

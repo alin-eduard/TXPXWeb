@@ -1,0 +1,28 @@
+[s1]
+Vine-o zi când de-aici noi vom pleca
+Sus la Isus, în patria Sa.
+Duhul Sfânt ce în noi a locuit
+Sus la cer, la Dumnezeu ne-a răpit.
+
+[r1]
+Vom cânta fericiţi
+Vom privi toţi uimiţi
+Splendoarea ce Isus ne-a pregătit
+Când la Isus vom sosi
+Nici dureri nu vor mai fi
+Căci vom fi pe deplin fericiţi.
+
+[s2]
+Te-ai gândit, dragă prietene, acum
+Ce vei face la capăt de drum ?
+Vei putea ca să vii în cer sus
+Să te bucuri cu aleşii lui Isus ?
+
+[s3]
+Vă îndemnaţi cu drag voi acum
+Nu uitaţi căci Dumnezeu încă e bun !
+Mâine poate va fi Judecător -
+El L-a trimis pe Isus ca Salvator.
+
+[order]
+s1,r1,s2,r1,s3,r1

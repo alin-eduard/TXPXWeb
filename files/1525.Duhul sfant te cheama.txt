@@ -1,0 +1,45 @@
+[s1]
+1525.    Do m
+1.Duhul Sfânt /: te cheamă :/ (3x)
+Duhul Sfânt te strigă ne-ncetat
+Vino azi /: la Domnul :/
+Dacă vrei să fii şi tu salvat
+Nu lăsa /: pe mâine :/
+Ce poţi face azi pentru Isus
+Vino azi /: la Domnul :/
+Şi rugându-te primeşti răspuns.
+
+[r1]
+Cor: Vino azi că mâine cine ştie
+Dacă vei mai fi pe acest pământ
+El vrea să te scape de la moarte
+Dacă închei cu Domnul legământ
+Azi deschide-ţi inima
+Ca să intre dragostea
+Căci Isus îţi lasă pacea Sa
+Să te-mpaci cu Dumnezeu
+Să-l urmezi pe Fiul Său
+Şi să intri în poporul Său.
+
+[s2]
+2. Duhul Sfânt /: azi strigă :/ (3x)
+În curând vine Domnul Isus
+El aşteaptă /: acuma :/
+Inima ta să îi dea răspuns
+Astăzi tu /: răspunde-i :/
+Că vrei să fii şi tu mântuit
+C-ai să laşi /: păcatul :/
+Să nu fii cu lumea osândit.
+
+[s3]
+3. Duhul Sfânt /: ţi-arată :/ (3x)
+Calea sfântă înspre veşnicii
+El Isus /: te aşteaptă :/
+Şi îţi spune să nu mai amâi
+Fără să ştie /: nimeni :/
+În curând pe nori va apărea
+Îşi va răpi /: mireasa :/
+Şi atunci va începe nunta Sa.
+
+[order]
+s1,r1,s2,r1,s3,r1

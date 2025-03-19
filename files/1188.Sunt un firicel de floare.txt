@@ -1,0 +1,34 @@
+[s1]
+1188.
+1.     Sunt un firicel de floare
+Lângă crucea cu piroane
+Floarea-i mică dealu-i mare
+Ce parfum să de-a o floare
+Dar ca mine Domnul are  milioane.
+
+[s2]
+2.       Sunt un fluier care-adună
+Rătăcite oi sărmane
+Când pe ceruri norii tună
+Cine aude o veste bună
+Dar ca mine-n văi răsună  milioane.
+3.       Sunt o rază din Golgota
+Lângă ţărmuri de oceane
+O scânteie-n vârf de stâncă
+Cine-o vede-noaptea adâncă
+Dar ca mine mai sunt încă  milioane.
+
+[s3]
+4.      Sunt un călător pe lume
+Străbătând meridiane
+Fraţii mei de trup şi nume
+Mă luară-n râs şi glume
+Dar eu am alţi fraţi în lume  milioane
+5.      Sunt un abur care adie
+Şi se pierde prin pustie
+Dar în ziua ce-a să vie
+Nu un om şi nu o mie
+Dar ca mine are să fie milioane.
+
+[order]
+s1,s2,s3

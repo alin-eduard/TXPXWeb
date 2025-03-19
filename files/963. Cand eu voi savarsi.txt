@@ -1,0 +1,33 @@
+[s1]
+963.
+1. Când eu voi săvârşi
+Când viaţa mea se va sfârşi
+Înaltul cerului
+Unde voi fi desăvârşit
+Ah cetatea vieţii
+Unde chinuri n-or mai fi
+Ci o viaţă făr' de moarte
+În veci va domni
+
+[s2]
+2. Umblarea pe mare
+E viaţa mea pe-acest pământ
+Nu mă lăsa Doamne
+Fii cu mine pân' la mormânt
+Iar dincolo de mormânt
+Cu tine la masă stând
+Cu Avraam, Isaac şi Iacov
+Eu vreau să-ţi cânt
+
+[s3]
+3. Prigonitorii mei
+Mă prigonesc din răsputeri
+Privesc la viaţa mea
+Ca eu să nu iau ce doresc
+Sufletul meu îndurerat
+Cum doresc a fi salvat
+Cum doresc să m-odihnesc
+La locul cel ceresc.
+
+[order]
+s1,s2,s3

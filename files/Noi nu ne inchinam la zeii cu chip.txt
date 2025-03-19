@@ -1,0 +1,38 @@
+[s1]
+Noi nu ne închinăm la zeii
+cu chip de-aramă sau de piatră;
+Cui ne-a creat I-aducem jertfe
+pe-a sufletelor noastre vatră.
+
+[s2]
+Noi ne-nchinăm, noine-nchinăm,
+Noi ne-achinăm lui Dumnezeu
+Şi-L lăudăm, îl lăudăm,
+îl lăudăm pe El mereu...
+
+[s3]
+Noi nu ne închinăm la idoli,
+nu-n faţa lor plecăm genunchii;
+Slăvim pe Cel Atotputernic
+ce-ncearcă inimi şi rărunchii...
+
+[r1]
+Noi ne-nchinăm, noine-nchinăm,
+noi ne-achinăm lui Dumnezeu
+Şi-L lăudăm, îl lăudăm,
+îl lăudăm pe El mereu...
+
+[s4]
+Noi nu ne închinăm făpturii,
+nici nu-i divinizăm simţirea,
+Ci-L preamărim pe Domnul vieţii,
+cântfindu-I mila si iubirea...
+
+[s5]
+Noi nu ne închinăm la îngeri,
+deşi puterea lor e mare;
+Pe Cine ţine-n mână totul
+îl adorăm cu ascultare...
+
+[order]
+s1,s2,s3,r1,s4,r1,s5,r1

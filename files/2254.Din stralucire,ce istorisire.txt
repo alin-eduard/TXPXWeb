@@ -1,0 +1,43 @@
+[s1]
+2254
+Din strălucire,
+Ce istorisire!
+Jos Domnul a venit;
+Isus El s-a numit.
+
+[s2]
+Născut în paie,
+În umile straie,
+Om al durerii
+Și, de chin, zdrobit.
+
+[s3]
+Ref: 	O, ce-ndurare!
+O, Doamne mare,
+Ești al meu Soare și Te iubesc!
+Tu-Creatorul,
+Esti Salvatorul!
+Cum pot, o, Doamne să-ți mulțumesc?
+
+[s4]
+2.Ce bunătate!
+M-a iertat de toate
+Și-n bezna nopții grea,
+Eu am lumina Sa!
+
+[s5]
+Să-mi dea iertarea,
+A lăsat splendoarea!
+A răbdat chinul,
+Pentru vina mea
+
+[s6]
+Ref: 	O, ce-ndurare!
+O, Doamne mare,
+Ești al meu Soare și Te iubesc!
+Tu-Creatorul,
+Esti Salvatorul!
+Cum pot, o, Doamne să-ți mulțumesc?                      Amin
+
+[order]
+s1,s2,s3,s4,s5,s6

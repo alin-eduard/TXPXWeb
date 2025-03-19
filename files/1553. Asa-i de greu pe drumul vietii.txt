@@ -1,0 +1,56 @@
+[s1]
+1553.
+1. Aşa-i de greu pe drumul vieţii
+Şi-atât de mult ai de luptat
+/: Tu fii cu inima voioasă
+Domnu-i războinic minunat :/
+
+[s2]
+2. Când trece-o luptă alta vine
+Mai mult prin plâns ca bucurii
+/: Să nu îţi pierzi nădejdea frate
+Curând vom fi în veşnicii :/
+
+[s3]
+3. Să fii ca o cetate pusă
+Pe înălţimile de sus
+/: Să-nalţi în sus drapelul falnic
+De biruinţă prin Isus :/
+
+[s4]
+4. O cercetează-te dar bine
+Nu cumva vasul s-a golit
+/: Nu cumva ţi s-a stins candela
+Şi untdelemnul a scăzut :/
+
+[s5]
+5. O vină Te aşteptăm Isuse
+Să ne ridici de pe pământ
+/: E vremea porumbiţei Tale Înstrăinată printre stânci :/
+
+[s6]
+6. Şi crăpăturile din stâncă
+Sunt păzite de lupi şi lei
+/: Ah,unde voi găsi odihnă
+Iubitul sufletului meu :/
+
+[s7]
+7. Te aşteptăm de-atâta vreme
+Privirea ne-o-nălţăm în sus
+/: Mai umple-ne azi cu putere
+Arată-Ți slava pe pământ :/
+
+[s8]
+8. Lucrarea Ta devine Tată
+Se dovedeşte pe pământ
+/: Căci în curând va veni clipa
+Să debarcăm pe Țărmul Sfânt :/
+
+[s9]
+9. Îţi mulţumim că ne-ai dat dreptul
+Să fim cu Tine-n veşnicii
+/: Îţi vom spune mai multe atunci
+La masa Ta când vom prânzi :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

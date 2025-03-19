@@ -1,0 +1,33 @@
+[s1]
+Te-am privit,
+O, Doamne, Te-am privit
+Eşti Luceafărul din zori de zi,
+Eşti lumina dulce,
+eşti lumina dulce
+Strălucind pe cerul inimii.
+
+[s2]
+Te-am privit,
+O, doamne, te-am privit
+Eşti parfumul crinilor din văi,
+Eşti o floare albă,
+eşti o floare albă
+Din grădina veşnicei iubiri.
+
+[s3]
+M-ai privit,
+O, Doamne, m-ai privit.
+Ca un şoim rănit in zbor eram,
+Mi-ai legat aripa,
+mi-ai legat aripa
+Cu blîndeţe Tu m-ai mângăiat.
+
+[s4]
+Şi de atunci în viaţa mea mereu,
+Îmi înalţ spre Tine cîntul meu.
+Te slăvesc, O, Doamne
+Te slăvesc, O, Doamne
+Şi în veci de veci Te voi slăvi.
+
+[order]
+s1,s2,s3,s4

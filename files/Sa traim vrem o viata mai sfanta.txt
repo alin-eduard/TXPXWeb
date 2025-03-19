@@ -1,0 +1,22 @@
+[s1]
+Să trăim vrem o viaţă mai sfantă
+Cu puteri dăruite de sus
+Să avem vrem o fire mai blandă
+Şi-n inimă pacea lui Isus.
+/: Dacă Duhul Său Sfant ne conduce
+Dacă plangem cu cei întristaţi
+Isus a promis că ne duce
+La Tatăl să fim mangaiaţi. :/
+
+[s2]
+Să trăim vrem o viaţă mai sfantă
+Lumii-ntregi vrem lumină să fim
+Vestea că Isus binecuvantă
+Pretudindeni vrem s-o-mpărtăşim.
+/: Dacă Duhul Său Sfant ne conduce
+Dacă plangem cu cei întristaţi
+Isus a promis că ne duce
+La Tatăl să fim mangaiaţi. :/
+
+[order]
+s1,s2

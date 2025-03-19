@@ -1,0 +1,26 @@
+[s1]
+Azi e timpul cel din urma
+Ce-a fost profeţit;
+Domnul vine, mică turma...
+E-aproape de sosit!
+
+[r1]
+O, Maranata! Vine Mesia!
+Vă pregătiţi acum de zbor!
+Să fim toţi gata a-L întâmpina,
+Când va apare... sus pe nor...
+
+[s2]
+Multe semne ne arată,
+Dar ceasul noi nu-l ştim;
+Când la uşă o să bată,
+Cu drag, să-L întâlnim...
+
+[s3]
+Ca un stol de păsărele,
+În drum spre ţara lor,
+Vom zbura, mai sus de stele,
+Cu-al nost Mântuitor!
+
+[order]
+s1,r1,s2,r1,s3,r1

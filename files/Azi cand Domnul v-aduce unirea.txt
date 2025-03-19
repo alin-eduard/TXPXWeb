@@ -1,0 +1,32 @@
+[s1]
+Azi când Domnul v-aduce unirea
+Am venit cu iubire-ntre voi
+/: Imnuri sfinte-naltând proslavirea
+Ca Isus e de fata-ntre noi. :/
+
+[s2]
+El să va împlinească dorinta
+Tot ce cereti şi-i bun, să va dea
+/: Va sporeasca mereu El credinta
+Şi in carul cel sfânt să va ia. :/
+
+[s3]
+Să va-nvete Isus ce-i jertfirea
+Cum unul pentru altul să fiti
+/: Ce-a putut săvârşi, când iubirea
+Pentru veci ne-a facut fericiti. :/
+
+[s4]
+Va dorim ca iubirea divina
+Să-ndulceasca al vietii greu jug
+/: Şi-n furtuna, ca-n ziua senina
+S-aveti pace şi har din belsug. :/
+
+[s5]
+Peste ani, când vom trece-odata
+Noi cu drag ne vom reîntâlni
+/: Salutând pe o mama şi-un tata
+Salutând cu caldura copii. :/
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,27 @@
+[s1]
+Ca Tine, Isuse,
+Nu-i nimeni jos pe pământ
+Vreau să te laud să-Ti mulţumesc
+Din toată inima să-ţi cânt
+
+[s2]
+Eşti scutul, nădejdea,
+Turnul şi scăparea mea,
+Tot ce am eu şi tot ce sunt
+Vreau să las in mâna Ta
+
+[s3]
+Cu bucurie te laudă pământul
+Şi eu vrea să-Ti spun
+Cât de mult Te iubesc
+Munţii se-nchină şi marea
+Te cântă, pe Tine Domn ceresc
+
+[s4]
+Florile-n câmp şi natura întreagă
+În mii de culor te adoră mereu
+Te proslăveşte
+Şi îţi mulţumeşte-n veci
+
+[order]
+s1,s2,s3,s4

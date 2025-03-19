@@ -1,0 +1,14 @@
+[s1]
+În veci să ţină slava Domnului
+Să se bucure El de lucrările Lui.
+/: Voi cânta Domnului cât voi trăi
+Voi lăuda pe Dumnezeu cât voi fi ! :/
+
+[s2]
+Mândriţi-vă cu Numele Lui cel Sfânt
+Bucuraţi-vă inimi pe Domnul căutând.
+/: Alergaţi la Domnul, la sprijinul Lui
+Căutaţi, căutaţi necurmat faţa Lui ! :/
+
+[order]
+s1,s2

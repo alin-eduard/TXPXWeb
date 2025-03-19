@@ -1,0 +1,28 @@
+[s1]
+Cît timp mai stai îndepărtat de casa
+În care Domnul e Isus ?
+De ce nu vrei să te gîndeşti la viaţa
+Pe care ţi-a promis-o sus ?
+
+[r1]
+Odihna ţi-o găseşti
+pe braţul Domnului
+El pacea ţie ţi-o va da!
+Şi chiar prin vijelii,
+furtuni mari de-ar veni
+Isus va fi scăparea ta!
+
+[s2]
+Povara ta, ce foarte greu te-apasă
+Adu-o azi la crucea Lui !
+Cu El, viaţa ta va fi frumoasă
+Predă-ţi viaţa Domnului !
+
+[s3]
+Priveşte-L azi, căci încă mai aşteaptă
+Un răbdător Mîntuitor!
+Şi uşa ta deschide-I cît mai largă
+Cît încă nu-i Judecător!
+
+[order]
+s1,r1,s2,r1,s3,r1

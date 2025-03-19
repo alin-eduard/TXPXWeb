@@ -1,0 +1,75 @@
+[s1]
+O suflete ce eşti trudit
+şi-ales de Domnul,
+Tu eşti chemat
+să fii lumină pe pământ.
+/: Să ştii că Domnul te-a păstrat,
+şi vrea să fii aur curat.
+Pe veci El te-a răscumpărat,
+prin Sânge Sfânt.:/
+
+[s2]
+Când încercarea din inimă te apasă,
+Şi suferinţa e din ce în ce mai grea.
+/: Tu pleacă-te pe genunchi jos,
+şi roagă-L pe Isus frumos.
+Să-ţi întărească inima, să poţi răbda.:/
+
+[s3]
+Tu simţi că boala ta
+din corp e tot mai mare,
+Şi alinare nimenea nu-ţi poate da.
+/: Isus e-Acel ce va putea,
+să îţi aline durerea.
+Şi pe deplin de vei
+credea chiar vindecat.:/
+
+[s4]
+Tu mamă care plângi
+şi chemi adesea fiii,
+Ce sunt plecaţi
+pe-ndepărtatele cărări.
+/: Să ştii că şi problema ta,
+Isus, El, ţi-o va rezolva.
+C-aşa ţi-a fost să treci prin greu,
+prin încercări.:/
+
+[s5]
+Iar tu copil ascultă azi de a ta mamă,
+Cât încă mai este cu tine pe pământ.
+/: Căci va veni şi clipa grea,
+când te vei despărţi de ea.
+Şi vei ajunge-n ceasul când,
+s-o chemi plângând.:/
+
+[s6]
+Iar pentru voi ce aţi rămas
+orfani pe lume,
+Nu! Nicăieri voi mamă
+n-o să mai aveţi.
+/: Cu ochii disperaţi spre nori,
+chemaţi al nost Mântuitor.
+Şi-n inimi dorul creşte
+iar s-o mai vedeţi.:/
+
+[s7]
+Să nu descurajaţi nicicând,
+nicicând pe cale.
+Şi-n inimă nădejdea vie să o purtaţi.
+/: În Ţara dincolo de nori,
+veţi fi cu-al Domnului popor.
+Şi-n veci o să vă bucuraţi
+cu-ai voştri fraţi.:/
+
+[s8]
+Iubiţii mei, haideţi
+cu toţi pân’ la Golgota.
+Să ne plecăm genunchiu-n
+rugăciune jos.
+/: Căci El e totul pentru noi,
+în suferinţă şi-n nevoi.
+Din bezna nopţii El ne-a scos,
+Isus Hristos :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

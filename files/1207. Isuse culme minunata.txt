@@ -1,0 +1,46 @@
+[s1]
+1207
+1. Isuse, culme minunată
+De unde-L văd pe Dumnezeu,
+/: Ce viață binecuvântată
+Adus-ai sufletului meu! :/
+
+[s2]
+2. E-atâta bunătate-n Tine
+Stăpâne-atât de scump și bun,
+/: Cât cu-al meu glas
+Printre suspine
+În veci eu n-am
+Să pot să spun! :/
+
+[s3]
+3. Atâta milă și iubire
+Isuse-n Tine am aflat,
+/: Cât n-o să poată niciodată
+Să spună-un păcătos iertat:/
+
+[s4]
+4. Atâta dragoste și pace
+Eu aflu-n Tine zi de zi;
+/: Mai mult decât
+Putut-am crede
+Sau mi-am putut închipui! :/
+
+[s5]
+5. Cu ce cuvinte-Ți voi da slavă
+Când Tu mă faci acum
+să am
+/: Atâta har cât altădată
+Nici să-mi închipui
+Nu-ndrăzneam! :/
+
+[s6]
+6. Primește jertfa
+unor lacrimi
+Și darul cântecului smuls
+/: Din taina unei inimi care
+Ți-ar da, dar n-are ce,
+mai mult!
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,42 @@
+[s1]
+Cântaţi o veste bună,
+Vestiţi lumii întregi:
+Isus Hristos trăieşte,
+Din morţi a înviat!
+
+[s2]
+Isus e viu,
+El dintre morţi a înviat
+Isus e viu,
+Pe tronul păcii s-a ‘nălţat!
+
+[s3]
+Cântaţi, vestiţi menirea Lui
+De răscumpărător
+Isus e viu, trăieşte
+El e biruitor.
+
+[s4]
+Isus e viu,
+El dintre morţi a înviat
+Isus e viu,
+Pe veci El ne-a răscumpărat!
+
+[s5]
+Fiţi tari în mărturie,
+Şi bucuraţi-vă,
+Că toţi acei ce cred în El
+Vor fi răscumpăraţi.
+
+[s6]
+Isus e viu,
+El dintre morţi a înviat
+Isus e viu,
+Pe tronul păcii s-a ‘nălţat!
+Isus e viu,
+Adevărat a înviat!
+Isus e viu,
+Pe veci El ne-a răscumpărat!
+
+[order]
+s1,s2,s3,s4,s5,s6

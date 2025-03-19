@@ -1,0 +1,21 @@
+[s1]
+/: Isus e-al meu Domn
+Si Salvatorul :/
+/: De-acum si pâna-n veac,
+Aleluia! :/
+
+[s2]
+Slavă Tie fiu etern
+Si sânge-al  Mielului,
+Rege-al regilor
+Domn în veac
+Sfântul lui Avraam, Aleluia!
+
+[s3]
+/: Isus este cel care
+Ne izbăveste :/
+/: Din păcat si moarte
+Aleluia! :/
+
+[order]
+s1,s2,s3

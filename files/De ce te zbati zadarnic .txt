@@ -1,0 +1,62 @@
+[s1]
+De ce te zbaţi zadarnic
+s-ajungi ce nu-i de-ajuns
+Să cauţi răspuns la taine
+ce-n lume n-au răspuns
+S-atingi ce nu se cade
+cînd anii sînt păreri?
+/: Crezutele cîştiguri
+sînt numai noi dureri ! :/
+
+[s2]
+Mai scurtă-i slava lumii
+ca visul cel din zori
+Răscumpărarea-n lacrimi
+i-o-ntorci de mii de ori
+Mai trecătoare-i vraja
+plăcerii pămînteşti
+/: Ca umbrele ; şi totuşi,
+ce veşnic o plăteşti ! :/
+
+[s3]
+Mai crîncen arde focul
+amarei remuşcări
+Ca orice foc ; şi totuşi,
+tu n-asculţi de mustrări !
+Ce preţ pui pe-ndrumarea
+cinstitei conştiinţi
+/: Cînd patima te-atrage
+cu mii de ochi fierbinţi?   :/
+
+[s4]
+De ce te zbaţi zadarnic,
+minţind să pari că eşti
+Aceea ce tu singur
+nu ştii şi nu doreşti ?
+Crezi oare că-nşeli pe alţii,
+că minţi pe Dumnezeu ?
+/: O, te înşeli pe tine
+din ce în ce mai greu ! :/
+
+[s5]
+Mai străvezii ca apa
+sînt gîndurile cui
+Îşi caută numai slava
+şi rosturile lui.
+Dintre tîlhari acela-i
+mai vinovat oricînd
+/: Ce binele îl uită
+şi vinde sărutînd. :/
+
+[s6]
+De ce te zbaţi zadarnic,
+sărmane călător ?
+Ce strîngi tu vin alţii
+şi-mprăştie de zor !
+Trudeşte pentru-avutul
+ce veacurile-l cresc
+/: Făcîndu-ţi drum şi prieteni
+spre cortul cel ceresc ! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

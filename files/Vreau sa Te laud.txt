@@ -1,0 +1,20 @@
+[s1]
+Vreau să Te laud,
+Dar mă simt mult prea slab.
+Dorinţa mi-e mare,
+Dar putere nu am.
+
+[r1]
+Aprinde-mi focu-n inimă!
+Sunt aici, ascultă-mă!
+Doamne, ştii unde am fost,
+Aprinde-mi focu-n inimă din nou!
+
+[s2]
+Îţi simt prezenţa
+În adierea de vânt.
+Mă umplii de viaţă
+Şi puterea Ţi-o simt.
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,34 @@
+[s1]
+Cînd te cheamă Domnul,
+vino, nu mai sta!
+Cînd auzi chemarea, vino tu la El!
+Glasul Lui este iubire,
+mîntuire şi jertfire
+Din pierzare Dumnezeu
+ne vrea salvaţi!
+
+[r1]
+/: Glasul Lui azi te cheamă
+şi-ţi bate la inimă, ascultă !
+Te cheamă mereu, suflet, Dumnezeu!
+El aşteaptă ca tu să-L primeşti
+cu fiinţa întreagă
+Să-ţi dea pacea Lui, slava cerului! :/
+
+[s2]
+Dumnezeu ne cercetează zi de zi
+Cu iubire ne-nconjoară sufletul.
+Prin Isus ne-a dat salvare,
+mîntuire şi iertare
+Din pierzare Dumnezeu
+ne vrea salvaţi!
+
+[s3]
+Firul vieţii se scurtează zi de zi
+S-ar putea ca tu să mori nemîntuit.
+Tu să ştii că firul vieţii
+poate fi tăiat de Domnul
+Vino azi, primeşte-n dar salvarea Sa!
+
+[order]
+s1,r1,s2,r1,s3,r1

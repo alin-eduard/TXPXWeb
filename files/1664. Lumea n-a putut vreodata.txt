@@ -1,0 +1,33 @@
+[s1]
+1.  Lumea n-a putut vreodată
+Să-mi aline inima
+Dar Isus într-o clipită
+Mi-a dat toată pacea Sa.
+Cor: Te cinsteşte te măreşte
+Scump Isus inima mea
+Şi cu lacrimi şi iubire
+Mulţumesc de jertfa Ta
+1664
+
+[s2]
+2. Sfânta-I calea pocăinţei
+Viaţa-ntreagă mi-a schimbat
+Fericire adevărată
+Prin Isus am căpătat.
+Cor: Te cinsteşte te măreşte
+Scump Isus inima mea
+Şi cu lacrimi şi iubire
+Mulţumesc de jertfa Ta
+
+[s3]
+3.  Nu mi-a fost prieten sincer
+Nimeni din câţi am avut
+Dar azi am prieten pe Domnul
+Iubitor cum n-am ştiut.
+Cor: Te cinsteşte te măreşte
+Scump Isus inima mea
+Şi cu lacrimi şi iubire
+Mulţumesc de jertfa Ta
+
+[order]
+s1,s2,s3

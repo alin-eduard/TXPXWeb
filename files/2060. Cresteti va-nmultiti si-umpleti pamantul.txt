@@ -1,0 +1,44 @@
+[s1]
+2060
+Creșteți vă-nmulțiți
+și-umpleți pământul
+Răsuna-n Eden porunca Sa
+Toate-i împlineau atunci Cuvântul
+De la început așa era
+/: Toate erau puse-n armonie
+Toate calea sfântă o urmau
+Creatoru-așa a vrut să fie
+Marele și Sfântul Dumnezeu. :/
+
+[s2]
+2. Atotziditorul cu iubire
+Chiar după asemănarea Sa
+L-a făcut pe om ființă vie
+Să-și arate în el slava Sa
+/:Și-al Său plan aici să dăinuiască
+Dumnezeu o coastă i-a luat
+O femeie să îi plămădească
+Căci El este-un Meșter minunat :/
+
+[s3]
+3. Să desăvârșească această taină
+L-a trimis pe Fiul Său Isus
+Să îmbrace-a suferinței haină
+Pe pământ să sufere nespus
+/: Să-și răscumpere de-aici mireasa
+Pentru nunta ce s-a pregătit
+Să-și prezinte cerului aleasa
+Pentru care atât a suferit :/
+
+[s4]
+4. Împlinind porunca cea Divină
+Astăzi cu iubire amândoi
+Ați venit în marea Lui grădină
+Facă-și El lucrarea Sa în voi
+/: Fie-vă căminul pân′ la moarte
+Colțul drag și raiul cel frumos
+Doar de bucurii să aveți parte
+De la Domnul nost′ Isus Hristos :/
+
+[order]
+s1,s2,s3,s4

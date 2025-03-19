@@ -1,0 +1,28 @@
+[s1]
+Eu mă încred în Domnul meu
+ce mă iubeşte,
+Mă încred în salvatorul
+meu dumnezeiesc.
+Şi atât de mult doresc să vie
+Eterna Lui Împărăţie,
+Atât de mult doresc.
+
+[s2]
+El m-a iubit cum nimeni
+nu ar fi în  stare,
+De dragul meu S-a dăruit
+ca Miel ceresc.
+Şi atât de mult doresc să îmi spuie
+Ce îi bun în mine şi ce nu e.
+Atât de mult doresc.
+
+[s3]
+Doresc să simt mereu
+prezenţa Lui în mine,
+Cuvântul Lui să îmi fie far duhovnicesc.
+Şi atât de mult, mai sus de fire,
+Doresc să Îl văd în strălucire,
+Atât de mult doresc.
+
+[order]
+s1,s2,s3

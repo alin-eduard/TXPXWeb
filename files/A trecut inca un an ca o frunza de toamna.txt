@@ -1,0 +1,34 @@
+[s1]
+A trecut încă un an
+ca o frunză de toamnă.
+Ca un trandafir ofilit.
+Şi cu orice petală,
+care cade la pământ.
+Ne vorbesc că toate
+au un sfârşit.
+
+[r1]
+/: Amintirea rămâne,
+zile grele, zile bune.
+Toate s-au dus ca un vis.
+Ce-ai făcut vei avea, e alegerea ta.
+De a fi în iad sau Paradis. :/
+
+[s2]
+A trecut încă un an
+ca şi roua de pe câmp.
+Ca un foc din vreascuri făcut.
+Ca şi apa ce uşor
+printre degete se scurge.
+Anii grei toţi au trecut.
+
+[s3]
+A trecut încă un an
+şi un altul ne aşteaptă.
+Nu ştim cât ni-e dat de sus.
+Poate unii-l vom sfârşi,
+poate alţi vor rămâne.
+Dar dorim să fim cu Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1

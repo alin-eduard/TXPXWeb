@@ -1,0 +1,36 @@
+[s1]
+Nu doresc bogăţie,
+nici onoruri lumeşti,
+Dorul meu îndreptat
+e către cele cereşti;
+Tot ce vreau eu de-acuma
+e să văd pe Isus
+Şi în Cartea vieţii
+să-mi ştiu numele pus!
+
+[r1]
+Fericit eşti de-aştepţi Paradisul promis
+Când în Cartea vieţii îţi ştii numele scris
+
+[s2]
+De păcate-o povară
+m-apăsa foarte greu
+Câte rele-s în lume,
+toate le-am făcut eu
+În al Mielului sânge
+curăţire-am găsit
+Şi păcatele roşii
+ca zăpada-au albit.
+
+[s3]
+Sfânt oraş de lumină,
+dulce Ierusalim,
+Pacea dragostei tale
+cât de mult o dorim!
+Fericit cine-ajunge
+în oraşul promis
+Şi în Cartea vieţii
+şi-are numele scris!
+
+[order]
+s1,r1,s2,r1,s3,r1

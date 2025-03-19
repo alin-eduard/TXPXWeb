@@ -1,0 +1,43 @@
+[s1]
+1. Demult profeţit au profeţit
+Că se va naşte El
+Mesia cel mult aşteptat
+Isus Emanuel.
+Cor: În Betleem azi s-a născut
+Un Salvator ce minunat
+Cântaţi cu toţi vă bucuraţi
+În Betleem cu adevărat.
+727.
+
+[s2]
+Cor: În Betleem azi s-a născut
+Un Salvator ce minunat
+Cântaţi cu toţi vă bucuraţi
+În Betleem cu adevărat.
+2. Cerul îngerii au trimis
+Să spună tuturor
+De vestea bună de Isus
+De harul Salvator.
+
+[s3]
+Cor: În Betleem azi s-a născut
+Un Salvator ce minunat
+Cântaţi cu toţi vă bucuraţi
+În Betleem cu adevărat.
+3. Se bucură acuma iar
+Creştinii pe pământ
+În inimă din nou răsar
+Acei ce dau avânt.
+
+[s4]
+Cor: În Betleem azi s-a născut
+Un Salvator ce minunat
+Cântaţi cu toţi vă bucuraţi
+În Betleem cu adevărat.
+4. Şi vestea anilor şirag
+Ecou a străbătut
+Răsună tot mai larg
+Mesia s-a născut.
+
+[order]
+s1,s2,s3,s4

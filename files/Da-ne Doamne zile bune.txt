@@ -1,0 +1,38 @@
+[s1]
+Dă-ne, Doamne, zile bune
+În viaţă pe pământ,
+Luminaţi să fim în Tine
+Şi de Sfântul Tău Cuvânt.
+
+[r1]
+Eşti izvor de viaţă, Doamne!
+Fericirea pentru noi!
+Salvatorul tuturora!
+Osanale să-Ţi cântăm.
+
+[s2]
+Aprinde în noi, Isuse
+Bucuria cerului,
+Focul dragostei să ardă,
+Scumpule Mântuitor!
+
+[s3]
+Călători suntem pe cale
+Aici jos, pe-acest pământ;
+Dar ne-ai spus, o, Tu, Isuse,
+Căci Tu vei veni-n curând.
+
+[s4]
+O, nu ne lăsa, o, Doamne,
+Părasiţi de harul Tău,
+În necazuri şi-n durere
+Să uităm de brătul Tău...
+
+[s5]
+Să mergem mereu 'nainte,
+Bucuroşi noi să cântăm!
+Cu Isus, El, Salvatorul,
+Vom ieşi biruitori!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

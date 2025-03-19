@@ -1,0 +1,60 @@
+[s1]
+1275
+1.Te-ai sfărâmat
+Tu, vasule-ncercat
+De parcă tu, de mâna Lui,
+Nicicând n-ai fost lucrat.
+Dar totu-i minunat
+Când eşti în al Său har
+În casa vaselor de preţ
+În casa Marelui Olar
+
+[s2]
+Noi nu suntem, să știe toți,
+Noi nu suntem doar tină,
+Ci un pământ
+Ce-i frământat
+Cu apă şi lumină.
+
+[s3]
+Și-acest pământ
+Ce-i încercat
+Aur să devină
+Nu poate fi, noi nu putem fi
+Lucrați de-o altă mână.
+
+[s4]
+Olari în lume-s mulţi
+Dar toţi sunt ca şi lutul
+Nu seamănă nici unul, nu
+Cu Cel ce-i începutul
+Olarule de sus
+Tu m-ai purtat în mână
+De-atunci rămasu-mi-a în piept
+Căldura Ta cea sfântă
+2.
+
+[r1]
+Cor:
+Noi nu suntem, să știe toți,
+Noi nu suntem doar tină
+Ci un pământ ce-i frământat
+Cu apă şi lumină
+Și-acest pământ ce-i încercat
+Aur să devină
+Nu poate fi, noi nu putem fi
+Lucrați de-o altă mână.
+
+[s5]
+Tu om oricine eşti
+Tu nu eşti o întâmplare
+Priveşte adânc fiinţa ta
+Tu eşti o taină mare
+Tu vii de undeva
+Din slăvi nemuritoare
+O lasă-te lucrat de Cel
+Ce te-a adus sub soare
+3.
+
+[order]
+s1,s2,s3,s4,r1,s5,r1

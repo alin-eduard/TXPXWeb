@@ -1,0 +1,36 @@
+[s1]
+Pe Pamant sunt doua feluri,
+De pomi roditori.
+Unii au roade bune, altii sunt daunatori,
+Unii sunt plini de fire,
+n-au nimic bun nici sfant,
+Altii au roade bune, si aceste roade sunt:
+
+[r1]
+/: Dragostea bucuria pacea,
+Bunatatea si rabdarea sfintilor,
+Facerea de bine si credinciosia,
+Blandetea si-nfranarea poftelor. :/
+
+[s2]
+Frate drag ce-asculti cantarea,
+In cei soi esti altoit?
+Care-I roada ce-o aduci?
+In ce gradin-ai fost sadit?
+Care-ti este gradinarul?
+Cine iti culege rodul tau?
+Nu uita ca roada buna,
+O vrea Domnul Dumnezeu.
+
+[s3]
+Cel ce nu ai roade sfinte,
+Vino la Isus acum,
+Lasa calea de pacate,
+Vino pe noul drum.
+Roadele murdare vor pieri,
+De vii la Domnul Sfant,
+Vei aduce roade noi,
+Si aceste roade sunt:
+
+[order]
+s1,r1,s2,r1,s3,r1

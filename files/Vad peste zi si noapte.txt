@@ -1,0 +1,32 @@
+[s1]
+Văd peste zi şi noapte,
+Isuse chipul Tău,
+Şi-mi pune întrebarea:
+Ce fel de trai duc eu?
+
+[r1]
+O, Doamne-n întregime,
+Pe veci eu sunt al Tău,
+Nu pot trăi făr’ Tine,
+Mântuitorul meu!
+
+[s2]
+Plăcerile din lume
+Ca spuma le cunosc,
+Produc amărăciune
+Şi chin făr’ de folos.
+
+[s3]
+M-am tânguit adesea
+Când rele am făcut,
+Isus acuma însă,
+De pace m-a umplut.
+
+[s4]
+Mereu de-i zi sau noapte
+În mine-i chipul Tău,
+Şi vreau să spun oricărui,
+Ce fericit sunt eu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,36 @@
+[s1]
+Doamne ai mila de cei care Te chem
+Să vină pe urmele Tale
+/: Ajută-I în lupta din grelele vremi
+Nimic să nu-I frângă pe cale :/
+
+[s2]
+Ajută pe cel ce în urmă a lăsat
+Mari prietenii sau păcate
+Să nu-l mai întoarcă
+Din drumul curat
+Dorinţa spre cele lăsate
+Să nu-l mai întoarcă
+Din drumul curat
+Dorinţa spre cele lăsate.
+
+[s3]
+Ajută pe acel ce plecând lasă tot
+Pe veci să se rupă de toate
+/: Să n-ajungă stâlp ca femeia lui Lot,
+Privind blestemata cetate :/
+
+[s4]
+Ajută pe acel ce a ajuns la Altar
+Şi nu îî pregătit de junghiere
+/: Să nu piardă frica de al morţii hotar
+Pierind la un pas de înviere :/
+
+[s5]
+Ajută-I pe toţi cand e clipa cea grea
+Să biruie tot ce-I mai leagă
+/: Ca de lumea întreaga pe dragostea Ta
+Să afle a Ta dragoste întreagă :/
+
+[order]
+s1,s2,s3,s4,s5

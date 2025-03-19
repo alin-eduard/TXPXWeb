@@ -1,0 +1,28 @@
+[r1]
+/: Noi vom cânta Domnului,
+vom sluji doar pe e El,
+Vom înălţa numele Lui,
+Stânca lui Israel. :/
+
+[s1]
+/: El e vrednic, să fie înălţat
+El e vrednic, să fie lăudat. :/
+
+[s2]
+/: Toată slava e a Domnului,
+Cinstea şi gloria sunt spre slava Lui :/
+
+[s3]
+/: Toată lauda e pentru Dumnezeu
+Mărire şi‘nălţare doar numelui Său :/
+
+[s4]
+El e vrednic, să fie înălţat
+El e vrednic, să fie lăudat.
+
+[s5]
+Toată slava e a Domnului,
+Cinstea şi gloria sunt spre slava Lui.
+
+[order]
+r1,s1,r1,s2,s3,s4,s5

@@ -1,0 +1,41 @@
+[s1]
+2203   Do
+1. Nu ești singur frate
+în durerea ta
+Lângă tine e Isus
+Te îmbărbătează nu descuraja
+Lângă tine e Isus
+
+[r1]
+Cor: E singurul din lume
+Ce poate să aline
+Sufletul tău trist și zbuciumat
+În singurătate și în
+neagra noapte
+E prieten bun și adevărat.
+
+[s2]
+2. Chiar de lacrimi curg pe obrajii tăi
+Lângă tine e Isus
+Să nu-ți pierzi curajul
+Să nu dai înapoi
+Lângă tine e Isus.
+
+[s3]
+3. Uită întristarea și ascultă
+un glas
+El vorbește așa duios
+Singur nu te las, nu
+te părăsesc
+Ne-a promis Isus din cer.
+
+[s4]
+4. De te-ncrezi în Domnul
+După noapte grea
+Zorii vor miji frumos
+Haidem deci cu toții
+Să stăm lângă El
+Soarta noastră e Hristos.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

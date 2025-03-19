@@ -1,0 +1,33 @@
+[s1]
+Nu uita c-ai fost smuls din pierzare
+De Isus când viaţa şi-a dat
+/:Nu uita ce-a costat, ce preţ mare,
+Mântuirea din negrul păcat.:/
+Re m
+
+[s2]
+Nu uita că tu porţi sfântul nume
+Al vieţii şi-al harului sfânt
+/:Rânduit eşti să fii pentru lume
+Mărturie prin trai şi cuvânt.:/
+
+[s3]
+Nu uita, nu uita niciodată
+Că tu eşti pe pământ un străin,
+/:Nu uita că viaţa ţi-e dată
+Ca să-nalţi adevărul divin.:/
+
+[s4]
+Nu uita de chemarea cerească
+Şi de-alegerea ta pentru har
+/:Prin veghere s-o faci să lucească
+Dovedind că nu lupţi în zadar.:/
+
+[s5]
+Să-ţi aduci totdeauna aminte
+De Isus şi cuvântu-I nespus
+/:Propăşire şi viaţă fierbinte
+Vei avea când nu uiţi ce ţi-a spus.:/
+
+[order]
+s1,s2,s3,s4,s5

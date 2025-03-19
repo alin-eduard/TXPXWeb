@@ -1,0 +1,53 @@
+[s1]
+1046.
+1.	      Isus Hristos în veci va fi
+O stâncă tare în furtuni
+Şi oricât marea ar mugi
+El stâncă-i tare în furtuni.
+
+[s2]
+Cor:       În El vreau să mă încred
+Căci e stânca mea
+E stânca mea, e stânca mea
+În El vreau să mă-ncred
+Căci e stânca mea
+E stâncă tare în furtuni.
+
+[s3]
+2.        El ziua-i vânt răcoritor
+E stâncă tare în furtuni
+Iar noaptea-i far strălucitor
+O stâncă tare în furtuni.
+Cor: În El vreau să mă încred
+Căci e stânca mea
+E stânca mea, e stânca mea
+În El vreau să mă-ncred
+Căci e stânca mea
+E stâncă tare în furtuni.
+
+[s4]
+3.Eu sunt păzit de Domnul meu
+O stâncă tare în furtuni
+Se sfarmă valul cât de greu
+De-o stâncă tare în furtuni.
+Cor: În El vreau să mă încred
+Căci e stânca mea
+E stânca mea, e stânca mea
+În El vreau să mă-ncred
+Căci e stânca mea
+E stâncă tare în furtuni.
+
+[s5]
+4.        O, scump Mântuitor slăvit
+O stâncă tare în furtuni
+Tu care toate toate le-ai zidit
+La glasu-Ţi amuţesc furtuni.
+Cor:  În El vreau să mă încred
+Căci e stânca mea
+E stânca mea, e stânca mea
+În El vreau să mă-ncred
+Căci e stânca mea
+E stâncă tare în furtuni.
+
+[order]
+s1,s2,s3,s4,s5

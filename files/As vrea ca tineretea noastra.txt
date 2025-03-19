@@ -1,0 +1,32 @@
+[s1]
+Aş vrea ca tinereţea noastră
+Să fie-un crin mirositor
+Aroma-n juru-i să se-arate
+Spre-a fi şi eu folositor.
+În urma mea să las lumina
+Să fiu exemplu de urmat.
+Mă ţine, Doamne, cu-a Ta mînă
+Din calea Ta să nu m-abat.
+
+[s2]
+Să leg, să ung şi eu o rană
+Să fiu şi eu alături de-oropsiţi
+Să spun şi celor cu prihană
+Căci Domnul meu m-a mîntuit.
+În urma mea să las lumina
+Să fiu exemplu de urmat.
+Mă ţine, Doamne, cu-a Ta mînă
+Din calea Ta să nu m-abat.
+
+[s3]
+Aşa aş vrea să fiu, Isuse
+Dar iată că nu sînt nimic.
+Nădejde am în cele spuse
+Căci eu de Tine sînt iubit.
+În urma mea să las lumina
+Să fiu exemplu de urmat.
+Mă ţine, Doamne, cu-a Ta mînă
+Din calea Ta să nu m-abat.
+
+[order]
+s1,s2,s3

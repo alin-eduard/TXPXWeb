@@ -1,0 +1,38 @@
+[s1]
+Cu crucea-n spate trec şi-acum
+Însîngerat pe-al lumii drum.
+/: Cu mîinile-n piroane vin
+La uşi închise, şi suspin. :/
+Cu mîinile-n piroane bat
+La uşi închise de păcat.
+/: N-aude nimeni, şi pornesc
+Sub crucea grea mă prăbuşesc. :/
+
+[s2]
+Sînt plin de răni, de sînge-s plin
+N-aude nimeni cînd suspin.
+/: Izvoare curg din jertfa Mea
+Nu vine nimeni ca să bea. :/
+Eu sînt Păstorul cel ceresc
+Dar oamenii mă ocolesc.
+/: Şi-i chem pe toţi, de toţi mi-e dor
+Căci sînt Păstorul tuturor. :/
+
+[s3]
+Vreau ca să intru-n casa ta
+Deschide-Mi, nu Mă lepăda !
+/: Eu sînt al lumii Împărat
+Cu coasta-nsîngerată bat ! :/
+Deschide-acum, că anii fug
+Ia astăzi dulcele Meu jug !
+/: Căci jugul Meu este uşor
+Pe lume tu eşti călător. :/
+
+[s4]
+Deschide-acum, nu amîna
+Sînt viaţa şi lumina ta !
+/: Eu sînt Mîntuitorul tău
+Şi viaţa veşnică-ţi dau Eu ! :/
+
+[order]
+s1,s2,s3,s4

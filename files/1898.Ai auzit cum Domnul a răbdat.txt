@@ -1,0 +1,46 @@
+[s1]
+1898
+1. Ai auzit cum Domnul a răbdat
+A suferit un chin amar
+El moartea a-ndurat
+Ți-a dat o șansă să fii copilul Său
+Ți-a dat iertare te mai așteaptă
+Să vii în brațul Său
+
+[r1]
+Cor: Azi ești chemat primește șansa ta
+Ascultă și lasămă-n viața ta
+Întoarcete fă legământ
+Cu Domnul tău
+Nu amâna chemarea lui Isus
+El și pe tine vrea să te ducă sus
+O zi măreață e pentru tine
+Amicul meu
+
+[s2]
+2. Chemarea să îți umple inima
+N-auzi tu oare cuvântul
+Vino la El
+Mai deschide o poartă
+Te mai așteaptă îți dă și acum o șansă
+Și-ar vrea să simți
+Iubirea dulce de Dumnezeu
+
+[s3]
+3. N-ai vrea și tu să fii în slava Sa
+Predă-te azi cât mai e har
+Deschide-ți inima
+Ce bucurii vor fi în ceruri sus
+Vom fi deapururi la masa sfântă
+Cu mirele Isus
+
+[s4]
+4. Să fiu cu El e-un har nemărginit
+Să-i simți iubirea de Tată Sfânt
+Să fii iubit
+E sărbătoare cu îngerii din cer
+Întinde-i mâna spunei Tată
+Și vino azi la El.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

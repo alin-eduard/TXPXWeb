@@ -1,0 +1,40 @@
+[s1]
+Trăiam o viaţă-n păcate
+Şi fără să ştiu căci cîndva
+La uşă-ntr-o zi îmi va bate
+Necruţătoare, moartea.
+Aşa an de an a mea viaţă
+Mai rău, tot mai rău se scurgea
+Dar iată, Isus, Domnul vieţii
+Spre mine cu jale privea.
+
+[r1]
+Mare iubire Isus Şi-a arătat
+Din groaza morţii, pe nume
+La El, da, la El m-a chemat!
+Viaţă deplină prin El am primit
+Numai Isus, da, Isus m-a salvat
+Căci numai Isus m-a iubit!
+
+[s2]
+Cu jind toţi cei răi mă priviră
+Atunci cînd din cer, minunat
+Isus îmi dăduse salvarea
+Păzindu-mă neîncetat.
+O, cît ar fi vrut să mă-ntoarcă
+Cel rău înapoi în dispreţ!
+Zadarnică îi era lupta
+Căci Domnul lucrase măreţ.
+
+[s3]
+O mînă rănită adesea
+Pe creştet fierbinte-o simţeam
+Şi-n grele-ncercări, mîngîiere
+Prin mîna divină primeam.
+Isus, ca o mamă sublimă
+Veghea să nu cad în blestem.
+Amice, în cîntul meu astăzi
+Să vii la Isus eu te chem!
+
+[order]
+s1,r1,s2,r1,s3,r1

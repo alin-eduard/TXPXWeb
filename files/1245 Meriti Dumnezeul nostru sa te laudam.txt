@@ -1,0 +1,75 @@
+[s1]
+Meriţi Dumnezeul nostru să Te lăudăm
+Se cuvine aici şi-n ceruri
+Ţie să-ţi cântăm
+1.
+1245      Mi
+Tu ne-ai dat o izbăvire
+Ne-ai chemat la mântuire
+Ne-ai adus pace-n cămine
+/ : Orice-ar veni : / nu ne lăsăm de Tine
+
+[s2]
+2.    Meriţi Tu Isuse dragă
+Locul cel dintâi
+Poporul tău te doreşte
+La El ca să vii
+Ce minunate clipe când
+Te cobori prin Duhul Sfânt
+Îi mângâi pe fiecare
+/ : Iubirea Ta : / nu are asemănare
+
+[s3]
+3.Merită să vărsăm lacrimi
+Aici cât trăim
+Când venim la Tine Doamne
+Mila Ta primim
+Lupta este tot mai grea
+Luptă cu noi înşine
+Căci Tu eşti Biruitorul
+/ : Şi de-ocară : / Tu nu-Ţi laşi poporul
+
+[s4]
+4.Merită ca să-Ţi cântăm
+Din toată inima
+Să răsune tot pământul
+De lauda Sa
+Cântând îngerii cu noi
+Când vom trece prin nevoi
+Duhuri rele vor fugi
+Că / : Domnul Isus : / pe nori va străluci
+
+[s5]
+5.Merită să-Ţi mulţumim
+Şi pentru vindecări
+Izbăvire vom avea /
+Din grele încercări
+Ţi-ai arătat iubirea toată
+Ca o mamă adevărată
+Când cu lacrimi Te strigăm
+/ : De aceea azi : / cu drag Te lăudăm
+
+[s6]
+Merită să-Ţi pleci genunchii
+Prietene drag
+Te iubeşte şi pe tine
+Şi te-aşteaptă-n prag
+6.
+El ţi-a luat păcatul greu
+El Mântuitorul tău
+Şi pentru tine a murit
+/ : Pe Golgota : / El viaţa şi-a jertfit
+
+[s7]
+Merită să lăsăm lumea
+Isus va veni
+Orice lucru ar putea
+A ne despărţi
+7.
+Să lăsăm orice plăcere
+Să cerem din nou putere
+Că zilele-s foarte rele
+/ : Să fim răpiţi : / şi să scăpăm de ele
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

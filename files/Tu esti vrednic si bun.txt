@@ -1,0 +1,11 @@
+[r1]
+/: Tu eşti vrednic :/ şi bun
+Îţi aduc glorie, Îţi aduc slavă
+Cinste, onoare în veci
+Că eşti creatorul a tot ce-i viu
+Toate le ţine mâna Ta
+Toate Te laudă şi Ţi se închină
+Că Tu eşti vrednic şi bun
+
+[order]
+r1,r1,r1

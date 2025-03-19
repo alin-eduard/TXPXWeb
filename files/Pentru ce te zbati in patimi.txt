@@ -1,0 +1,42 @@
+[s1]
+1
+Pentru ce te zbati în patimi si-n păcat?
+Vin la-Acela răstignit si înviat!
+/: Să-L primesti, căci El e mare
+Si e bun cu fiecare, orisicând
+El te caută prin lume, suspinând. :/
+
+[s2]
+2
+De ce fugi de jertfa sfântă tot mereu?
+Căci El a spălat păcatul cel mai greu!
+/: Tu nu stii de rugăciune
+Si ce mare-nselăciune! Te-a mintit
+Si te-a-amăgit Satana cel smintit! :/
+
+[s3]
+3
+De ce fugi de rugăciune si de post
+Si de locul adunării cel frumos?
+/: Tu nu stii că viata trece
+Vine moartea, groapa rece si te-ai dus,
+Vino astăzi, frate dragă, la Isus! :/
+
+[s4]
+4
+Vino si înaltă-ti gândul tot mai sus
+Luptă-te lupta cea bună cu Isus!
+/: Luptă-te lupta cea bună
+Si vei câstiga cunună negresit
+Si vei fi în vesnicie fericit! :/
+
+[s5]
+5
+Toată lumea asta trece parcă-n zbor
+Si se va schimba odată-al vietii rost.
+/: Fiecare-si va lua plata
+Când veni-va judecata
+Dragul meu, peste toate-mpărăti-va Dumnezeu ! :/
+
+[order]
+s1,s2,s3,s4,s5

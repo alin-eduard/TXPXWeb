@@ -1,0 +1,27 @@
+[s1]
+1628.
+1.Opreşte-te, opreşte-te
+Şi uită-te o clipă-n urma ta!
+Opreşte-te, opreşte-te!
+Mai fă un singur pas şi vei cădea!
+/:De ce nu vrei să auzi chemarea
+Şi să primeşti acum,
+Iertarea Domnului?:/
+
+[r1]
+Cor: /:”Vino la Mine” zice El
+Căci anii tăi se vor sfârşi curând.
+Ca tine sunt atâţia care pier.
+Opreşte-te şi întoarce-te
+Din drum!:/
+
+[s2]
+2.Opreşte-te, opreşte-te!
+‘Naintea ta e lanţul celui rău
+Întoarce-te, întoarce-te!
+Întoarce-te acum la Dumnezeu!
+/:El te aşteaptă cu îndurare
+Îţi dă pace şi iertare azi de vii!:/
+
+[order]
+s1,r1,s2,r1

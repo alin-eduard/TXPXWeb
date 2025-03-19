@@ -1,0 +1,37 @@
+[s1]
+Isus preasfântul e mântuirea
+El ne iubeşte pe noi pe toţi.
+
+[s2]
+De aceea cânt mereu:
+Isus prea sfântul
+El ne iubeşte pe noi pe toţi
+
+[s3]
+Eram odată robit de patimi
+Dar harul Său m-a eliberat.
+
+[s4]
+De aceea cânt mereu:
+Isus preasfântul
+El ne iubeşte pe noi pe toţi.
+
+[s5]
+Isus slăvitul, Mântuitorul
+S-a dat ca jertfă în locul meu
+
+[r1]
+De aceea cânt mereu:
+Isus prea sfântul
+El ne iubeşte pe noi pe toţi.
+
+[s6]
+Iubirea este al mângăierii
+Al mântuirii izvor ceresc.
+
+[s7]
+Iubire sfântă, mărire slavă
+Osana Ţie în veci de veci.
+
+[order]
+s1,s2,s3,s4,s5,r1,s6,r1,s7,r1

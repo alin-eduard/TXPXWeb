@@ -1,0 +1,33 @@
+[s1]
+Lângă tronul sfânt veţi sta
+Haina sfântă a mântuirii
+Veniţi grabnici a-mbrăca.
+/:Singur Isus, singur Isus
+Poate astăzi să vi-o dea:/
+
+[s2]
+Voi ce numai în credinţă
+Vă petreceţi viaţa jos
+Tresăltaţi de bucurie
+Fiţi cu cugetul voioşi
+/:Căci în ceruri, căci în ceruri
+V-aşteaptă Isus Hristos:/
+
+[s3]
+Voi cei dornici de iubire
+Voi ce-n rugă suspinaţi
+Iată apare al vostru Mire
+Iată-vă  la El chemaţi
+/:Cu grăbire, cu grăbire
+Către El să alergaţi:/
+
+[s4]
+Pregătiţi-vă întruna
+Să intraţi în slava Sa
+Veţi purta în cer cununa
+Când acolo veţi intra
+/:Numai Isus, numai Isus
+Poate slava să vi-o dea:/
+
+[order]
+s1,s2,s3,s4

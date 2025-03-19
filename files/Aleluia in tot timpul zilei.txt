@@ -1,0 +1,32 @@
+[s1]
+Aleluia!
+În tot timpul zilei binecuvântare,
+Aleluia!
+Pretutindeni, orişicând.
+
+[r1]
+/: Mie îmi place lauda, cântul
+Domnului să le-nchin,
+Mie îmi place lauda, cântul, ruga,
+Toate Domnului să le-nchin. :/
+
+[s2]
+Eu vreau să spun de Isus,
+/: Orişiunde sunt :/
+Eu vreau să spun de Isus
+Orişiunde sunt adevărul proclamând
+
+[s3]
+Eu vreau să spun credinţa,
+/: Orişiunde sunt :/
+Eu vreau să spun credinţă,
+Orişiunde sunt adevărul proclamând
+
+[s4]
+Eu vreau să cânt iubirea,
+/: Orişiunde sunt :/
+Eu vreau să cânt iubirea,
+Orişiunde sunt adevărul proclamând
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

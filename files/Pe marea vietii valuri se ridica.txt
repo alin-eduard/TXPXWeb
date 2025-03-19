@@ -1,0 +1,50 @@
+[s1]
+Pe marea vieţii,
+Se ridică valuri tot mereu
+Şi vânturi bat fără-ncetare,
+În poporul Tău.
+
+[s2]
+/: Furtuna a venit acum
+Ca să lovească tot ce-i bun;
+Satan se luptă şi ar vrea
+Să stingă dragostea.:/
+
+[s3]
+Trudim mereu, ne zbuciumăm,
+Pe marea vieţii,
+Şi vrem în port să ancorăm
+Cu Tine, Isuse.
+
+[s4]
+/: Dar urcă Tu-n corabie,
+Potoleşte valurile!
+O, fii cu noi totdeauna,
+în lumea asta rea!:/
+
+[s5]
+E-aşa de greu de-naintat,
+Căci lupta-i tot mai grea:
+„Vino, Isuse-n ajutor!
+Vino, nu ne lăsa!"
+
+[s6]
+/: Condu-ne Tu neîncetat
+Ca pe Israel altădat';
+Satan se luptă şi ar vrea
+Să stingă dragostea. :/
+
+[s7]
+Suspină azi copiii Tăi
+Şi plâng nemângâiaţi;
+În lumea asta pribegesc,
+Străini şi alungaţi.
+
+[s8]
+/: Aţâţi bolnavi făr-ajutor
+Strigă să vii la patul lor
+Întinde-Ţi astăzi mâna Ta!
+Isuse, nu-i lăsa!...:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

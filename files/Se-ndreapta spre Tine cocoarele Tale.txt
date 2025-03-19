@@ -1,0 +1,42 @@
+[s1]
+Se-ndreaptă spre Tine cocoarele toate
+Spre ţara cea caldă de unde-au venit
+Se-ndreaptă biserica înspre viaţă
+Stă gata, stă gata de zborul dorit.
+
+[r1]
+/: Eu, da sunt gata, tu eşti oare gata
+Noi cu toţii gata să fim pregătiţi. :/
+
+[s2]
+Stă gata şi cerul şi stelele toate
+Şi soare şi lună pământu-i gătit
+Aşteaptă ’noirea uimite să vadă
+Pe Meşter la lucru aşa cum e scris.
+
+[s3]
+Un freamăt în toate se simte aproape
+Un zumzet se-aude tu stai pregătit
+Aripile-ntinse stau gata în noapte
+Se-apropie clipa şi ceasul dorit.
+
+[s4]
+Să nu te cuprindă a nopţii-ntuneric
+Deschide fereastra înspre răsărit
+Să vezi răsăritul din zori când apare
+Să-L vezi pe Isus cu alaiul gătit.
+
+[s5]
+Lăsaţi bucuria să-şi cânte cântarea
+Pe oameni chemaţi-i cu drag la Isus
+Popoarele-s gata, aşteaptă strigarea
+Pe oameni chemaţi-i spre ţara de sus.
+
+[s6]
+Mireasa aşteaptă cu haina de nuntă
+Şi firea aşteaptă a ei dezrobiri
+Pământul şi cerul unit în serbare
+Cânta-vor un cântec slăvind pe Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

@@ -1,0 +1,30 @@
+[s1]
+Oameni din lume, regi cu renume
+Timpul şi anii au şters -
+Lucruri măreţe, piscuri răzleţe
+Ce se-nalţă-n Univers
+Trec fără urmă, c-a mării spumă
+Şi vezi doar atît, că s-au dus.
+Dar este-o ţară unde-i primăvară
+Şi timpul nu zboară, că-i Rege Isus.
+
+[r1]
+Nu vrei şi tu azi cu mine să mergi ?
+Astăzi e timpul cînd poţi să alegi !
+Poarta cea strîmtă deschisă e încă
+Isus te mai cheamă şi-acum
+Şi-ţi dă putere să mergi pe-al Său drum.
+
+[s2]
+Poţi să laşi totul, să cîştigi locul
+Care în cer ţi-e promis.
+În urmă-s toate, chiar mamă şi frate
+Cum Domnul Isus a zis:
+<Voi să ştiţi bine, că vrednici de mine
+Sînt doar acei ce-au predat
+Inima toată şi fără de pată
+Pe calea cea dreaptă cu drag
+M-au urmat! >
+
+[order]
+s1,r1,s2,r1

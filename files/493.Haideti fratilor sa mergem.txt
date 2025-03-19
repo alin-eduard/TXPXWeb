@@ -1,0 +1,64 @@
+[s1]
+1.Haideţi fraţilor să mergem
+Cu paşi repezi spre Isus
+Să ne ţinem mână-n mână
+Până vom ajunge sus.
+493									   Re
+
+[s2]
+Haideți fraţilor 'nainte
+Cu Satan să ne luptăm
+Domnul Isus să ne-ajute
+Ca-n luptă să-naintăm.
+
+[s3]
+2.Căci lui Satan pe pământ
+Noi i-am declarat război
+Hai să ne luptăm cu toţii
+Căci Isus este cu noi.
+
+[s4]
+Să ne sprijinim în rugă
+Când suntem în încercări
+În Isus salvarea noastră
+Să ne găsim dezmierderi.
+
+[s5]
+3.	Astăzi trăim vremuri grele
+Şi nu e loc de glumit
+Hai să ne sfinţim mai tare
+Căci e timpul spre sfârşit.
+
+[s6]
+Domnul nostru
+E Domn mare
+Cu El nu putem glumi
+El va da cununa vieţii
+Celor ce vor birui.
+
+[s7]
+4.	Nici chiar moartea să nu poată
+De El a ne despărţi
+Cei ce-au murit pentru Domnul
+Cu El în ceruri vom fi.
+
+[s8]
+Şadrac, Meşac şi Abed-Nego
+L-au biruit pe cel rău
+Hai să facem toţi ca dânşii
+Căci cu noi e Dumnezeu.
+
+[s9]
+5.	Mulţi au suferit cu Domnul
+Ani de-a rândul pe pământ
+Dacă n-au vegheat o clipă
+Ei cununa şi-au pierdut.
+
+[s10]
+Poţi să-L pierzi pe Domnul Isus
+Dacă o clipă n-ai vegheat
+Şi atunci o veşnicie
+N-ai decât de regretat
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

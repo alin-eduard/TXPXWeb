@@ -1,0 +1,33 @@
+[s1]
+1. Stai pe loc priveşte crucea
+Vezi Isus e răstignit
+Ştii că El e pentru tine
+Biciuit batjocorit.
+2. Vezi  priveşte la Golgota
+Isus Domnul sângerând
+Moarte pentru tin pe cruce
+Moare îl auzi gemând.
+1665
+
+[s2]
+3. Ai pierdut destulă vreme
+Alergând în lung şi-n lat
+Din păcate şi desfrâuri
+De-a Lui jertfa ai uitat.
+4. Vezi pe crucea din Golgota
+Moare Domnul Domnul tău
+Pentru ce-I străpungi tu coasta
+Ţi-a făcut cândva vreun rău.
+
+[s3]
+5. Vezi la cruce a Lui iubire
+Braţele cum şi-a întins
+A Lui sânge sfânt iubire
+Pentru tine s-a prelins.
+6. Şi în marea Lui iubire
+Tatăl Fiul s-a jerfit
+Înţelegi amice dragă
+Cât de mult El te-a iubit.
+
+[order]
+s1,s2,s3

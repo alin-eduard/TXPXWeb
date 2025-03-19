@@ -1,0 +1,25 @@
+[s1]
+Luaţi cu toţii jugul Lui că este bun
+Şi sarcina uşoară ca a nimănui
+E doar a Lui, că :
+
+[r1]
+/: Domnul mă iubeşte,
+viaţă-mi dăruieşte
+Nu mă îngrijorez!
+Mi-a spălat păcatul,
+mi-a-nnoit şi duhul
+Eu pe El Îl iubesc! :/
+
+[s2]
+Isus e calea care duce înspre rai
+Şi-adevărata viaţă doar prin El o ai!
+De ce mai stai, că :
+
+[s3]
+Cîntaţi cu toţii dragostea lui Dumnezeu
+Şi tu, şi eu să preamărim Numele Său
+Cîntînd mereu că:
+
+[order]
+s1,r1,s2,r1,s3,r1

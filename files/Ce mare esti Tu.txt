@@ -1,0 +1,12 @@
+[s1]
+Ce mare eşti Tu, ce mare e mila Ta
+Ce mare e tot ce faci Tu pentru mine
+Ce mare eşti Tu şi bunătatea Ta
+Mă umple atunci când îţi cânt ce mare eşti Tu
+
+[s2]
+Căci dragostea Ta ajunge pân’ la ceruri
+Iar inima Ta m-a găsit si m-a salvat
+
+[order]
+s1,s2

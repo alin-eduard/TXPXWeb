@@ -1,0 +1,33 @@
+[s1]
+1803.
+1. Viaţa-i plină de întristări
+Grijuri vin zi de zi
+Isus ia toată povara ta
+El poate mântui
+Cor:	/:Isus ia toată povara ta
+La Calvar, la Calvar
+Isus ia toată povara ta
+El poate mântui:/
+
+[s2]
+2. Chinuit şi îngrijorat
+La El acum să vii
+Isus ia toată povara ta
+El poate mântui
+Cor:	/:Isus ia toată povara ta
+La Calvar, la Calvar
+Isus ia toată povara ta
+El poate mântui:/
+
+[s3]
+3. El ascultă suspinul tău
+Strigătul inimii
+Isus ia toată povara ta
+El poate mântui
+Cor:	/:Isus ia toată povara ta
+La Calvar, la Calvar
+Isus ia toată povara ta
+El poate mântui:/
+
+[order]
+s1,s2,s3

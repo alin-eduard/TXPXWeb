@@ -1,0 +1,22 @@
+[s1]
+Te­-am aflat pe Tine, Doamne,
+Şi aceasta mi­e de­-ajuns,
+Tu-­mi eşti dezlegarea-­ntreagă
+Şi­-a­-ntrebărilor răspuns;
+Tu eşti tot, Tu umpli totul,
+Fericit sunt pe pământ!
+//: Tot am dat, primit­-am totul,
+N-­am nimic şi rege sunt! ://
+
+[s2]
+Viaţă, suferinţă, moarte,
+Totul este­-n mâna Ta
+Şi în Tine, Doamne,
+Totul, am acum şi voi avea!
+Te-­am aflat pe Tine, Doamne
+Şi aceasta mi­e de­-ajuns,
+//: Tu eşti pacea vieţii mele
+Şi al tainelor răspuns! ://
+
+[order]
+s1,s2

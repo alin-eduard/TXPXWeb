@@ -1,0 +1,45 @@
+[s1]
+Viata, inima, sufletul
+Ca multumire ti le aduc
+Tu esti maret, Tu esti divin
+Din suflet azi ma inchin
+Nimeni Doamne n-ar putea
+Sa te scoata din viata mea
+Bucuria mea esti numai Tu
+Tie ti-am dat sufletul;
+
+[s2]
+/: Bucuria mea esti numai Tu
+Desfatarea sufletului meu
+Tie ma inchin, Tie Domn divin :/
+
+[s3]
+/: In fiecare zi cant glorie
+In fiecare zi Tie ma inchin
+Tu esti bucuria mea
+Domnul meu esti stanca mea :/
+
+[s4]
+În nimeni altul nu e mantuire
+Si-n nimeni nu-i tămăduire
+Numai in jertfa Lui
+În jertfa Mielului
+Prin ranile Lui suntem mantuiti
+Prin ranile Lui tamaduiti
+Cheama-L in sufletul tau
+Cheama-L cand iti este greu
+
+[s5]
+/: Ranile Lui ne-au mantuit
+Bratul Sau ne-a izbavit
+In El avem iertare
+In El avem vindecare :/
+
+[s6]
+/: Cheama-L in sufletul tau
+Cheama-L cand iti este greu
+El e bun si va veni
+Sufletul-ti va izbavi :/
+
+[order]
+s1,s2,s3,s4,s5,s6

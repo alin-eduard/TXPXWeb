@@ -1,0 +1,26 @@
+[s1]
+Fraţilor, credinţa noastră s-o păzim,
+De pe drumul crucii, să nu rătăcim!
+De pe calea sfântă, să nu dăm 'napoi,
+Facă Domnul ce-o vrea să facă cu noi
+
+[r1]
+Suntem gata ca să ne jertfim!
+Pentru Domnul, chiar să şi murim!
+/:A noastră cetate, nu e pe pământ
+Este sus în ceruri, e la Tatăl sfânt...:/
+
+[s2]
+Nu ne este frică de nici un duşman,
+Mergem cu-ndrăzneală, înspre Canaan!
+Şi-n credinţa noastră, sta-vom neclintiţi
+Cu-Avraam şi Iacov ai noştri părinţi.
+
+[s3]
+Dacă ne-ar închide, ca pe Daniel,
+Ne va scăpa Domnul sfânt, Emanuel;
+Chiar în strâmtorare, El va fi cu noi!
+Ne face scăpare din orice nevoi.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,30 @@
+[s1]
+Ce dar sufletesc minunat
+E dragostea sfântă-n Hristos!
+Când ştii să iubeşti ne-ncetat,
+Vei fi pe deplin bucuros.
+
+[r1]
+Să iubeşti, să iubeşti pe prieteni
+Şi chiar pe duşmani,
+Să iubeşti, să-L slăveşti
+Pe Tatăl ceresc.
+
+[s2]
+Iubirea stăpână de-ar fi,
+Credinţa, nădejde-am avea;
+În jertfă şi rugă-am trăi
+Şi calea spre cer n-ar fi grea.
+Iubirea stăpână de-ar fi,
+Credinţa, nădejde-am avea;
+În jertfă şi rugă-am trăi
+Şi calea spre cer n-ar fi grea.
+
+[s3]
+Priveşte smerit la Isus,
+La Cel ce în moarte S-a dat!
+Iubirea la jertfă L-a dus,
+Purtând greul nostru păcat.
+
+[order]
+s1,r1,s2,r1,s3,r1

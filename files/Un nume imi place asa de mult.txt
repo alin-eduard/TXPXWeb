@@ -1,0 +1,26 @@
+[s1]
+Un nume imi place asa de mult!
+Il pomenesc mereu.
+As vrea intruna sa-L ascult,
+Chiar cand drumul e greu.
+
+[r1]
+El e Isus Hristos,
+Pe El eu il iubesc
+E cel mai frumos
+E Mirele ceresc
+
+[s2]
+Cuvantul Lui spune asa
+Catre cel osandit
+Caci Isus, sus pe Golgota
+Pentru el S-a jertift.
+
+[s3]
+În Numele Lui, azi mă-nchin
+Si-L rog pe Tatăl Sfânt.
+Să-mi dea din Duhul Său divin,
+Aici pe-acest pământ.
+
+[order]
+s1,r1,s2,r1,s3,r1

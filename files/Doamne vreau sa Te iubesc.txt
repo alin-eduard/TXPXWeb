@@ -1,0 +1,14 @@
+[s1]
+Doamne, vreau să Te iubesc
+Tot mai mult să Te slujesc
+Pentru Tine să trăiesc,
+Doamne, vreau să Te iubesc.
+
+[s2]
+Vreau să Te iubesc mai mult,
+Tot mai mult să Te ascult,
+Unde vrei Tu să mă duc,
+Vreau să te iubesc mai mult.
+
+[order]
+s1,s2

@@ -1,0 +1,38 @@
+[s1]
+Ce dulce-i viata cu Isus!
+Sub jertfa Lui cand te apleci,
+Cu El ai vrea ca sa ramai,
+In veci de veci.
+
+[s2]
+De ratacesti nefericit
+Si viata-n chinuri ti-o petreci,
+/: De-L ai pe Domnu,-ti da alin,
+In veci de veci. :/
+
+[s3]
+De stai intr-un bordei sarac,
+Prin mii de greutati sa treci,
+De-L ai pe Domnul, esti bogat,
+In veci de veci.
+
+[s4]
+Poti sa pierzi averi si ranguri
+Bogatii cu rodu-n spic;
+/: Daca n-ai pierdut credinta,
+Inca n-ai pierdut nimic. :/
+
+[s5]
+Dupa chip, cunosti o floare;
+Pasarile - dupa cant;
+Aurul - dupa culoare
+Si pe om - dupa cuvant.
+
+[s6]
+Isus e fericirea ta!
+O, suflete, tu nu uita!
+/: El bucurie iti va da
+In veci de veci. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,43 @@
+[s1]
+1455.       Mi b
+Treziţi-vă fraţi nu mai staţi în nepăsare
+Nu ştiţi că Isus va veni
+Suna-va atunci trâmbiţa deşteptare
+Biserica o va răpi
+/: Ce bine va fi sus în ceruri
+Cu Isus Mirele iubit
+Uita-vom pe veci orice durere
+Cu-Acela ce sus ne-a răpi.
+
+[s2]
+2 .  Spălaţi-vă hainele să le aveţi curate
+În alb să fiţi toţi îmbrăcaţi
+Păstraţi-le să fie oricând nepătate
+Spre ceruri să vă înălţaţi
+/: Ce bine va fi sus în ceruri
+Cu Isus Mirele iubit
+Uita-vom pe veci orice durere
+Cu-Acela ce sus ne-a răpi.
+
+[s3]
+Luaţi şi ulei în candelele voastre
+Rezervă să aveţi în vas
+Când Mirele va bate la uşă frate
+Să fiţi gata în orice ceas.
+/: Ce bine va fi sus în ceruri
+Cu Isus Mirele iubit
+Uita-vom pe veci orice durere
+Cu-Acela ce sus ne-a răpi.
+
+[s4]
+Să nu adormiţi ca cele 5 fecioare
+Fără de grijă să nu staţi
+Suna-va atunci trâmbiţa deşteptare
+Fiţi gata cu toţi să săltaţi
+/: Ce bine va fi sus în ceruri
+Cu Isus Mirele iubit
+Uita-vom pe veci orice durere
+Cu-Acela ce sus ne-a răpi.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,40 @@
+[s1]
+Pe piatra aspră­ a vieţii
+Să laşi o dâră fină
+Din aurul virtuţii,
+Din sfânta lui lumină.
+
+[r1]
+Tu eşti chemat, tu eşti chemat
+Să fii creştin cu­-adevărat!
+
+[s2]
+Şi­n mâna ce­ţi loveşte
+A vieţii tale floare,
+Să laşi parfumul dulce,
+Ca dar spre­nviorare.
+
+[s3]
+Iar celui ce­ţi aruncă
+A clevetirii piatră,
+Dă­i pâinea rugăciunii
+Şi­a dragostei ce iartă.
+
+[s4]
+Căci numai când
+Cu bine răspunzi la rău în toate,
+Viaţa ta oriunde
+Să biruiască poate.
+
+[s5]
+Tu eşti chemat, tu eşti chemat
+Să fii creştin cu-­adevărat!
+
+[s6]
+Atunci duci mântuirea
+Cu­adevărat prin lume
+Şi vei purta cu cinste
+Al Domnului scump nume.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5,s6,r1

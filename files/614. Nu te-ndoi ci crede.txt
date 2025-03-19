@@ -1,0 +1,51 @@
+[s1]
+1. Nu te-ndoi, ci crede
+Că după orice nor
+E-un soare şi mai dulce
+Și mai strălucitor.
+614              								       La
+
+[s2]
+Nu norul este veşnic,
+Ci soarele-i acel
+Ce-nvinge şi rămâne
+Stăpân în urmă el.
+
+[s3]
+2. Nu te uita la tine
+Că eşti atât de slab,
+Nici la vrăjmaşul care
+Te-ar nimici degrab.
+
+[s4]
+Nu te uita la ziduri,
+La porţile de fier,
+La ura ce scrâşneşte,
+Ci uită-te la cer.
+
+[s5]
+3. Nu te-ndoi, ci crede
+Că dincolo de tot,
+Veghează Dumnezeul,
+Puternic Savaot.
+
+[s6]
+Că nici un păr nu-ţi cade
+Că nici o clipă nu-i,
+Că nu-i nici o-ncercare
+Decât prin voia Lui.
+
+[s7]
+4. Şi dacă crezi puternic
+Nimic nu e spre rău,
+Ci totul se va-ntoarce
+Spre-un şi mai bine-al tău.
+
+[s8]
+Nu te-ndoi, ci crede
+Că-n ceasul cel mai greu
+Clipită de clipită
+Veghează Dumnezeu!
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

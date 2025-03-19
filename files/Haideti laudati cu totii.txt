@@ -1,0 +1,19 @@
+[r1]
+/: Haideţi, lăudaţi cu toţii
+Pe Dumnezeul
+Sfânt al lui Israel :/
+/: Ridică-ţi mâinile,
+Şi cântă-I numele
+Căci Dumnezeu te-a ridicat :/
+
+[r2]
+Haideţi, haideţi
+Să urcăm pe muntele sfânt
+Unde-i veselie şi cânt
+Să strigăm în faţa Lui
+Să cântăm în faţa Lui
+El e Domn, sus în Cer
+Unde-i tronul Său.
+
+[order]
+r1,r2,r1,r2

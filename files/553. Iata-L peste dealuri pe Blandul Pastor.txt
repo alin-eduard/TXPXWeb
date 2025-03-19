@@ -1,0 +1,61 @@
+[s1]
+Iată-l peste dealuri
+Pe blândul Păstor
+Oaia rătăcită căutând cu dor.
+553.      Mi b m
+Cor: 	Pe tine te caută,
+Pe mine mă caută
+O, vezi suflete
+Pe mine mă caută,
+Pe tine te caută
+Chiar Isus din cer.
+
+[s2]
+2. Oaia rătăcită prin văi a căzut
+Şi cheamă cu lacrimi
+Şi cu glas scăzut.
+Cor: 	Pe tine te caută,
+Pe mine mă caută
+O, vezi suflete
+Pe mine mă caută,
+Pe tine te caută
+Chiar Isus din cer.
+
+[s3]
+3. Hai şi mai ridică
+Bunul meu Păstor
+Tu eşti mângâierea,
+Fără Tine mor.
+Cor: 	Pe tine te caută,
+Pe mine mă caută
+O, vezi suflete
+Pe mine mă caută,
+Pe tine te caută
+Chiar Isus din cer.
+
+[s4]
+4. Leagă a mele rane
+Ce mă dor cu amar
+Şi-mi dă Tu Isuse
+Prin cerescul har.
+Cor: 	Pe tine te caută,
+Pe mine mă caută
+O, vezi suflete
+Pe mine mă caută,
+Pe tine te caută
+Chiar Isus din cer.
+
+[s5]
+5. Iar în a Tale braţe
+Iubitor mă ia
+Şi mă du Isuse
+Iar în turma Ta.
+Cor: 	Pe tine te caută,
+Pe mine mă caută
+O, vezi suflete
+Pe mine mă caută,
+Pe tine te caută
+Chiar Isus din cer.
+
+[order]
+s1,s2,s3,s4,s5

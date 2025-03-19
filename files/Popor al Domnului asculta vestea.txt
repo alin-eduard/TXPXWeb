@@ -1,0 +1,33 @@
+[s1]
+Popor al Domnului, ascultă vestea,
+Întoarce-te la dragostea dintâi
+Cu post, cu lacrimi şi cu rugăciune
+Şi-n umilinţă pururi să rămâi.
+
+[r1]
+/: El nu vrea jertfe nici viţei pe-altare
+Nici hainele să vi le sfâşiaţi
+/: Dar inimile voastre, fiecare,
+Cu toţi jertfiţi pe-a Domnului altare
+Şi viaţa-ntreagă Lui să-i închinaţi. ://
+
+[s2]
+Nu datini strămoşeşti, nu obiceiuri
+Nici zile sorocite de la zei
+Căci doar acei cu inima curată,
+Ei, vor vedea curând pe Dumnezeu.
+
+[s3]
+Căci Domnul este plin de bunătate,
+Milos, îndurător, şi iertător
+Şi-n dragostea cea sfântă, iertătoare
+Va binecuvânta al Său popor.
+
+[s4]
+Vestiţi Sionului o sărbătoare
+Căci Domnul s-a-ndurat de-al Său popor
+Sunaţi din trâmbiţi şi cântaţi-I slavă
+Curând veni-va Mirele pe nori.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

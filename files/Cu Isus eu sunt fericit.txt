@@ -1,0 +1,26 @@
+[s1]
+Cu Isus eu sînt fericit
+Şi-n inimă am bucurii
+De cînd pe El eu L-am primit
+Am mîngîieri tu nu poţi şti.
+
+[s2]
+Isus pe noi jos ne-a trimis
+Ca ucenici pe-acest Pămînt
+Şi-apoi cu El în veşnicii
+Ne-om reîntoarce-n ceruri sus.
+
+[s3]
+Cu toţi cei dragi noi vom zbura
+Ne-om îndrepta spre patrie
+Unde Isus ne v-aştepta
+Ne va primi în glorie.
+
+[s4]
+Deşi dureri se mai ivesc
+Speranţe vii noi toţi avem
+Vom fi cu El în veşnicii
+Ne-om bucura toţi în etern.
+
+[order]
+s1,s2,s3,s4

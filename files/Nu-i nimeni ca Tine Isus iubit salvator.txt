@@ -1,0 +1,19 @@
+[r1]
+Nu-I nimeni ca Tine, Isus iubit salvator
+Cu viaţa mea Te preamăresc
+Şi vreau să-Ţi spun că Te iubesc
+Eşti pace, tărie, turn de scăpare şi alin.
+Sufletul meu şi trupul meu
+Numai Ţie Ţi le-nchin
+
+[r2]
+/: Să-I cânte pământul întreg Domnului
+Putere, mărire şi laudă, doar Lui
+Cu munţii şi marea noi toţi ne plecăm
+Înaintea numelui Tău
+Marile Tale lucrări le-oi cânta
+În dragoste, Doamne, pe veci eu voi sta.
+Nu se compară nimic cu iubirea Ta :/
+
+[order]
+r1,r2,r1,r2

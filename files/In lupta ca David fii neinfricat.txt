@@ -1,0 +1,32 @@
+[s1]
+În luptă, ca David, fii neînfricat
+Să nu te înfrice nici un Goliat
+Ia praştia-n mână, fii victorios
+/:Luptă-te:/ şi nu fi fricos!
+/: Prin credinţă şi răbdare
+David a înaintat
+Şi c-o praştie şi-o piatră
+L-a învins pe Goliat. :/
+
+[s2]
+Să nu-ţi fie frică ţie de satan
+Priveşte la David şi la filistean
+Dintr-o lovitură el l-a nimicit
+/: Goliat :/ a fost omorât.
+/: Prin credinţă şi răbdare
+David a înaintat
+Şi c-o praştie şi-o piatră
+L-a învins pe Goliat. :/
+
+[s3]
+Să nu te înfrice scuturile lui
+Suliţa şi spada filisteanului
+În numele Domnului vom birui
+/: Pe Goliat :/ îl vom nimici.
+/: Prin credinţă şi răbdare
+David a înaintat
+Şi c-o praştie şi-o piatră
+L-a învins pe Goliat. :/
+
+[order]
+s1,s2,s3

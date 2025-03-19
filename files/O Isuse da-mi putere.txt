@@ -1,0 +1,32 @@
+[s1]
+/: O, Isuse, dă-mi putere :/
+/: Să-mi duc crucea cu credinţă.
+Chiar cînd sînt în suferinţă
+Tu fii a mea biruinţă. :/
+
+[s2]
+/: O, Isuse, fii cu mine :/
+/: În dureri şi în suspine.
+Pe drumul cu-amărăciune
+Tu, Isuse, fii cu mine! :/
+
+[s3]
+/: O, Isuse, o, Isuse :/
+/: Inima mea e pătrunsă
+De iubirea Ta nespusă
+O, Isuse, o, Isuse! :/
+
+[s4]
+/: O, Isuse, vin la mine! :/
+/: Mă ajută, dă-mi putere
+Şi-n necazuri mîngîiere
+O, Isuse, vin la mine! :/
+
+[s5]
+/: Adă, Doamne, la lumină :/
+/: Partea care e străină
+Ca în sfînta-mpărăţie
+Să fim toţi o familie! :/
+
+[order]
+s1,s2,s3,s4,s5

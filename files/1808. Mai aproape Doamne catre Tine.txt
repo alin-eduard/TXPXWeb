@@ -1,0 +1,27 @@
+[s1]
+1808.
+1. Mai aproape, Doamne, către Tine
+Deşi e grea crucea pentru mine,
+Totuşi cântarea mea
+Este totdeauna
+Mai aproape Doamne, către Tine.
+2. Când soarele-apune, singur fiind
+Pe piatră-mi plec capul cel ostenit.
+În visul meu şi-atunci,
+O las ca să ajung
+Mai aproape Doamne, către Tine.
+
+[s2]
+3. Arată-mi scara ce duce la cer
+Mie-ndurarea Ta mult îmi face
+Trimişii Tăi mă strig,
+Spre Tine să alerg
+Mai aproape , Doamne, către Tine.
+4. Iar după vis vine dimineaţa
+Atunci eu cu ulei unge-voi piatra.
+Şi-aşa şi prin necaz,
+Spre Tin' eu sunt atras
+Mai aproape Doamne, către Tine.
+
+[order]
+s1,s2

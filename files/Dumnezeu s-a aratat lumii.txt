@@ -1,0 +1,40 @@
+[s1]
+Dumnezeu S-a arătat lumii
+Prin Fiul Său, Isus Hristos.
+Pe când eram noi încă păcătoşi
+Prin dragostea Lui ne-a salvat
+Pe veci El ne-a eliberat
+De sub puterea grea a păcatului.
+El ne-a iubit atât de mult
+Cu-o dragoste fără de sfârşit.
+Ne-a mântuit prin jertfă sfântă El,
+Murind pentru păcatul meu,
+Murind pentru păcatul tău
+El ne-a-mpăcat pe veci cu Dumnezeu.
+
+[r1]
+Tu, suflete ce-n păcat rătăceşti,
+vino la Isus!
+Lui predă-te azi, ca să fii salvat!
+Nu te juca cu viaţa ta!
+Tu, suflete, singur tu poţi
+să legi şi să hotărăşti
+Viaţa ta de veci,  pocăieşte-te!
+Primeşte har pentru viaţa ta!
+
+[s2]
+Ascultă, suflete, acum
+Mesajul sfânt al lui Isus
+Deschide-ţi astăzi uşa inimii !
+El te iubeşte ne-ncetat,
+Deşi mereu L-ai refuzat.
+El are milă pentru tine azi.
+Invită-L tu în viaţa ta
+Să-ţi curăţească inima.
+Mărturiseşte-I tu păcatul tău !
+El mântuieşte chiar acum
+Pe toţi acei ce vin la El
+Puterea Lui transformă oamenii.
+
+[order]
+s1,r1,s2,r1

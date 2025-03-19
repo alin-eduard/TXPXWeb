@@ -1,0 +1,32 @@
+[s1]
+În slujba Ta, Isuse,
+de tineri am pornit,
+Îndreaptă-ne Tu paşii
+pe drumul Tău slăvit.
+Cu-a Ta putere umple
+cuvântul ce-l purtăm,
+Lumină şi iubire mereu
+să semănăm.
+
+[s2]
+Să spunem tuturora
+de harul Tău bogat
+Să vină toţi să afle
+iertarea de păcat;
+Să ducem pân’ la moarte
+mărturisirea Ta
+În slujba mântuirii,
+învredniciţi de ea.
+
+[s3]
+C-o dragoste fierbinte
+şi-un suflet fericit
+Să-Ţi dăruim, Isuse,
+tot ce ne-ai dăruit;
+Ca la sfârşitul luptei,
+măreţ încununat
+Să moştenim răsplata
+spre care-am alergat.
+
+[order]
+s1,s2,s3

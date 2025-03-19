@@ -1,0 +1,26 @@
+[s1]
+Unii spun că nu poti fi gasit,
+Altii spun că nu poţi fi văzut,
+Dar ştiu că-n mine Doamne Tu trăieşti
+Şi-n inimă eu vreau să îmi vorbeşti
+
+[s2]
+/:Tu eşti bun şi iubirea Ta e-n mine
+Tu eşti bun şi iubirea Ta rămâne
+Tu eşti bun şi iubirea Ta e-n mine
+Tu eşti bun, Tu eşti bun! :/
+
+[s3]
+Vream pe Tin’ să Te cântăm Isus
+Pentru darul dragostei nespus
+In duh şi-n adevăr noi Te lăudăm
+Primeşte lauda noi Te rugăm
+
+[s4]
+/:Tu eşti bun şi iubirea Ta ne ţine
+Prin furtuni şi greu Te lăudăm pe Tine
+Căci ne-ai dat prin jertfa Ta o nouă viată
+Tu eşti bun, Tu eşti bun!:/
+
+[order]
+s1,s2,s3,s4

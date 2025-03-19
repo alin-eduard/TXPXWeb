@@ -1,0 +1,47 @@
+[s1]
+1
+Roagă-te cu râvnă
+Roagă-te cu mult zel,
+Urmându-L pe Isus.
+Căci El te va duce sus în patria Sa,
+În casa cea de sus.
+
+[s2]
+2
+Sus fraţilor, rugaţi-vă
+Vine Mirele !
+De ce mai dormiţi, deşteptaţi-vă,
+C-au sosit zorile.
+
+[s3]
+3
+Ce măreţ sus va fi
+La Domnul păcii,
+Unde n-o fi noapte,
+Ochii mei vor vredea în ceruri slava Sa,
+Acolo nu-i moarte.
+
+[s4]
+4
+Sus fraţilor, rugaţi-vă
+Vine Mirele !
+De ce mai dormiţi, deşteptaţi-vă,
+C-au sosit zorile.
+
+[s5]
+5
+Noaptea nu va mai fi
+Lumina va luci,
+Îngerii-or să cânte,
+Acolo vom intra şi ne vom bucura,
+În casa Lui sfântă.
+
+[s6]
+6
+Sus fraţilor, rugaţi-vă
+Vine Mirele !
+De ce mai dormiţi, deşteptaţi-vă,
+C-au sosit zorile.
+
+[order]
+s1,s2,s3,s4,s5,s6

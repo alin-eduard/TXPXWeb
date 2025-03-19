@@ -1,0 +1,43 @@
+[s1]
+1.	Am îmbătrânit de zile
+Şi-am văzut mari desfătări
+Dar n-am aflat nicicând unde
+Aşa mare mângâiere.
+2.	Ca-n casa lui Ioan Marcu
+Aproape de Ierusalim
+Acolo sunt fraţii noştri
+Adevăraţii creştini.
+455									Re
+
+[s2]
+3.	Acolo sunt bucurii
+Nu-s ca ‘cele pe pământ
+E comoara cea bogată
+Bucurii în Duhul Sfânt.
+4.	Haideţi fraţilor cu mine
+În casa lui Ioan Marcu
+Acolo vine şi Domnul
+În casa lui Ioan Marcu.
+
+[s3]
+5.	Doamne vin şi-n casa mea
+Deşi sunt aşa sărac
+Mi-aduce apă şi pâine
+Mă-n împrumută eşti bogat.
+6.	Sunt sărac dar n-am ce-I da
+N-am cu ce să-Ți răsplătesc
+Dar mă plec pe genunchi jos
+Şi-n suspine Te preamăresc.
+
+[s4]
+7.	Te măresc, o, Doamne Sfinte
+Dulce a mea mângâiere
+În Tine eu aflu totul
+Bogăţie şi avere.
+8.	Nu vreau bogăţie-n lume
+Nici comori de pe pământ
+Te rog să-mi dai mângâierea
+Din casa lui Ioan Marcu.
+
+[order]
+s1,s2,s3,s4

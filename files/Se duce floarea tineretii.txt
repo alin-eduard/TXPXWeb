@@ -1,0 +1,33 @@
+[s1]
+Se duce floarea tinereţii
+Se duc anii fără să ştii
+Cu fiecare ceas te-apropii
+Mai mult, mai mult de veşnicii
+Fa #m
+
+[r1]
+/: Se duc, se duc şi anii tăi
+Dar nu-i oricum ce faci cu ei
+Poţi să câştigi sau poţi să pierzi
+În ei comoara vieţii-ntregi. :/
+
+[s2]
+Se duce zâmbetul ca roua
+Cu el şi fericirea ta
+Şi-n urmă poate doar tristeţea
+Îţi umple anii, viaţa ta.
+
+[s3]
+Păşesc alăturea cu anii
+A tale fapte ce-ai făcut
+Şi-n noua zi a dimineţii
+Toţi anii tăi vor fi ştiuţi.
+
+[s4]
+Se duce glasul bucuriei
+Când te desparţi de toţi cei dragi
+Dar nu uita că despărţirea
+De Dumnezeu e cea mai grea.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

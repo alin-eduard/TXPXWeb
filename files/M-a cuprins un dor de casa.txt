@@ -1,0 +1,32 @@
+[s1]
+M-a cuprins un dor de casă,
+Dor de patria de sus,
+Inima-mi se simte-atrasă
+De iubirea lui Isus.
+Fericire mult visată,
+Cum să-ncapi în bietu-mi piept,
+Când voi moşteni odată
+Mult mai mult decât aştept!
+
+[s2]
+Lumea cu-ale ei ispite
+Nu mă poate ţine-n loc
+Căci spre cer îmi stau ţintite,
+Dor aprins, priviri de foc!
+O, nespusă bucurie,
+Trai măreţ, de nedescris
+Când Isus va fi să vie
+În mărire cum a zis.
+
+[s3]
+Azi când inima-mi suspină,
+Doru-mi zboară mângâios
+Către ţara de lumină,
+Ţara păcii lui Hristos.
+Şi-nfrunt orice suferinţă
+Amintindu-mi de-un cuvânt
+Din a lui făgăduinţă:
+Iată, zice, vin curând!
+
+[order]
+s1,s2,s3

@@ -1,0 +1,25 @@
+[s1]
+Sunt ca un copil, stingher si umil
+Ce se increde in Tatal sau deplin
+Cu ochii senini privesc fata lui
+Ma umple deplin dragostea lui
+
+[r1]
+Asa ma-ncred in Tine Isus
+Tu tii in mana-Ti tare viata mea
+Pornesc la drum si esti cu mine
+Simt cum mana Ta ma poarta-n zbor
+Spre cerul larg deschis
+
+[s2]
+Mereu Tu ma tii, imi dai bucurii
+Cu Tine inaintez pe-al vietii drum
+Pasesc prin pustii, ma lupt zi de zi
+Si fara Tine, Doamne, unde-as fi
+
+[s3]
+Sunt un copil, stingher si umil
+Ce se increde in Tatal sau deplin
+
+[order]
+s1,r1,s2,r1,s3

@@ -1,0 +1,32 @@
+[s1]
+Vine o zi, vine-n curand aceea zi
+Cand Cel ce-a inviat va reveni
+Orice popor, din orice neam
+Il vor vedea si-atunci se va trezi
+
+[s2]
+/: Isus Hristos, Luceafarul puternic
+Va rasari din nou pentru cei sfinti
+Si-atunci, acolo-n slava cea cereasca
+Ii va lua pe cei ce-s pregatiti :/
+
+[s3]
+N-a mai ramas decat putin
+Caci semnele acum ne prevestec
+Cuvantul Sfant se va-nplini
+Isus Hristos din nou va reveni
+
+[r1]
+/:Isus Hristos, Luceafarul puternic
+Va rasari din nou pentru cei sfinti
+Si-atunci, acolo-n slava cea cereasca
+Ii va lua pe cei ce-s pregatiti:/
+
+[s4]
+Astazi cu toti, va pregatiti
+Caci usa harului nu s-a inchis
+Mai este loc la nunta Sa
+Nu neglija c-atunci vei regreta
+
+[order]
+s1,s2,s3,r1,s4,r1

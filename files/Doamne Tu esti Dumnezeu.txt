@@ -1,0 +1,25 @@
+[s1]
+Doamne, Tu eşti Dumnezeu
+Şi vei domni în veci.
+Întreg pământul este plin de slava Ta
+Eşti creator desăvârşit
+Dreptatea Ta vedem
+Cum se-mlpineşte zi de zi
+pe-acest pământ
+
+[r1]
+/: Să fii înălţat :/
+Domn al dragostei,
+Împărat !
+
+[s2]
+Doamne, Tu eşti Dumnezeu
+Şi vei domni în veci.
+Întreg pământul este plin de slava Ta
+Mereu veghezi să-mplineşti
+Cuvântul Tău cel sfânt
+În dragoste să lucrezi
+Pe-acest Pământ
+
+[order]
+s1,r1,s2,r1

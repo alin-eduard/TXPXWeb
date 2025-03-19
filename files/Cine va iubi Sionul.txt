@@ -1,0 +1,36 @@
+[s1]
+Cine va iubi Sionul
+Şi va locui în el
+E iubit şi el de Domnul
+Şi va sta cu El în cer
+
+[s2]
+Căci locaşul unde slava
+Şi prezenţa Domnului
+Se coboară, este chiar în
+Cetatea Sionului
+
+[r1]
+/: Lăudaţi pe Domnul Slavei
+Al vieţii Împărat
+Să-nălţăm cântarea laudei
+În Sionul minunat
+Căci El va găsi plăcere
+În închinători curaţi
+Şi va întări pe cei ce
+Se păstrează ne-ntinaţi :/
+
+[s3]
+Da, ferice de poporul
+Ce Te are-n inimă
+Tu le eşti Mântuitorul
+Ei mereu Te laudă
+
+[s4]
+Le povăţuieşti cărarea
+Prin îndemnul Duhului
+Şi duc roade prin puterea
+Sfântă a Cuvântului.
+
+[order]
+s1,s2,r1,s3,s4,r1

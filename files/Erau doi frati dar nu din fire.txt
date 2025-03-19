@@ -1,0 +1,44 @@
+[s1]
+Erau doi fraţi, dar nu din fire
+Şi-au jurat să fie fraţi
+Dar nu oricum ci-adevărat
+Chiar pînă la jertfire.
+
+[r1]
+/: O, David şi Ionatan
+A voastră iubire
+Învinge pe duşmani
+Chiar şi a lor gîndire. :/
+
+[s2]
+Cu inimi de iubire pline
+Se ajutau cei doi pribegi
+Cînd filistenii înspre ei
+Şi-ndreptau ţintele.
+
+[s3]
+Fiind ameninţaţi mereu
+De lepădatul rege chiar
+Un prieten ocrotit la greu
+O dragoste, ce har.
+
+[s4]
+Cînd cade Ionatan răpus
+Cu sabia duşmană
+Un frate nu putea de plîns
+Văzînd adînca-i rană.
+
+[s5]
+Se prăpădeau de plîns, sărmanii
+Că filistencele radeau
+Că-n luptă a căzut Ionatan
+Ba chiar în sus săreau.
+
+[s6]
+Fii şi tu unul din cei doi
+S-ajuţi fratele la nevoi -
+Cînd e căzut şi chiar răpus
+Roagă-te lui Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

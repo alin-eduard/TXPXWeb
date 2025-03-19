@@ -1,0 +1,62 @@
+[s1]
+Un an acum am încheiat
+Un an de zbucium s-a gătat
+Un an de zbucium şi suspin
+Iar pentru alţii, an de chin.
+Şi totuşi noi Îţi mulţumim
+Umili la Tine-acum venim
+Pe braţul Tău Tu ne-ai purtat
+Şi-n încercări Tu ne-ai scăpat.
+
+[s2]
+Isuse, o, scump Isuse
+Ţine-măla crucea Ta !
+Suferinţi de-ar fi nespuse
+Ţine-măla crucea Ta !
+Cînd mădoboarădurerea
+Cînd n-am la cine alerga
+Cînd îmi slăbeşte puterea
+Mila Ta vin a-Ţi ruga.
+
+[s3]
+În noul an noi am intrat
+Căanul vechi s-a terminat
+Aş vrea mai buni Tu săne faci
+În Duhul Sfînt Tu săne-mbraci.
+Căci dorul nost, se-nalţăsus
+Mereu mai sus la Tin, Isus !
+În Canaanul cel ceresc
+Aş vrea mai grabnic săsosesc.
+
+[s4]
+Ţine-ne tare la Tine !
+Ţine-ne, nu ne lăsa !
+Iar încercarea cînd vine
+Ţine-ne, nu ne lăsa !
+N-avem pe nimeni în lume
+Sîntem ades prigoniţi
+Pentru al Tău Preasfînt Nume
+Mulţi sînt de aici urgisiţi.
+
+[s5]
+Avem un dor de mare preţ
+Un dor sublim, un dor măreţ
+Căvei veni, ne vei lua
+Acolo sus, în slava Ta.
+Dar pîn, atunci, păzeşte-ne
+Şi-n încercări căleşte-ne
+Nu ne lăsa sădăm  napoi
+Ci mai degrab, rămîi cu noi.
+
+[s6]
+Uită-Te Isuse-ndată
+Căci Te-aşteptăm toţi plîngînd !
+Vino, Isuse, degrabă!
+Vino c-un ceas mai curînd !
+Vezi dorul nostru, Preasfinte !
+Ia-ne de-aici din necaz !
+Ruga se-nalţăfierbinte
+Lacrimi ne curg pe obraji.
+
+[order]
+s1,s2,s3,s4,s5,s6

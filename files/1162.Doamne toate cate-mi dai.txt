@@ -1,0 +1,33 @@
+[s1]
+1.      Doamne toate câte-mi dai
+Dacă vrei poţi să le iei
+Numai dragostea să-mi laşi
+/:Însoţindu-mi orice pas :/
+/: Luminându-mi orice zări
+Fericindu-mi orice stări
+Căci dacă mi-o laşi pe ea
+/: N-am în lume ce mai vrea :/
+1162.
+
+[s2]
+2.        Doamne iată tot ce-mi ceri
+Poţi să-mi iei orice averi
+Să trăiesc în lume tot
+/: Fără multă avere pot :/
+/: Numai fără una nu
+Asta-mi eşti Isuse Tu
+Când eşti Tu averea mea
+/: N-am în lume ce mai vrea :/
+
+[s3]
+3.        Numai chipul Tău dorit
+Te rog Doamne lasă-mi-l
+Să pot trece neoprit
+/: Pragul cerului dorit :/
+/: Şi s-ajung în cer mai sus
+Pe genunchi lui Isus
+Şi cât vecii vor ţinea
+/:N-am în ceruri ce mai vrea :/
+
+[order]
+s1,s2,s3

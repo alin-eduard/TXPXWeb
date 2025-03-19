@@ -1,0 +1,26 @@
+[s1]
+Poate aşa ţi-e scris să suferi
+Doar lacrimile prietene-ţi sînt.
+Poate viaţa-i zbuciumată
+Şi-ntrebi: <Isuse, pînă cînd ?>
+
+[r1]
+Nu uita, şi pentru tine va fi Soare
+Dar să veghezi în orice ceas
+Greul să nu te doboare
+Hai, mai fă, mai fă încă un pas !
+
+[s2]
+Să învingi trebuie luptă
+Dar nu cu ură tu să lupţi
+Ci-n genunchi, în rugă sfîntă
+Cu dragoste vrăjmaşul să înfrunţi.
+
+[s3]
+Isus ştie ce-i amarul
+Durerea, chinul, lacrima
+A băut întreg paharul
+Luptă! Biruinţă îţi va da!
+
+[order]
+s1,r1,s2,r1,s3,r1

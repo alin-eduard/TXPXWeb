@@ -1,0 +1,11 @@
+[s1]
+1
+/: Lăudaţi pe Domnul toate neamurile
+Laudaţi-L toate popoarele :/
+Căci mare este bunătatea Lui
+faţă de noi
+Si credincioşia Lui ţine în veci
+Lăudaţi pe Domnul
+
+[order]
+s1

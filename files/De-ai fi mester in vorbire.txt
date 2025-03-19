@@ -1,0 +1,26 @@
+[s1]
+De-ai fi meşter în vorbire,
+de-ai cânta şi din psaltire
+De-ai avea chiar şi ştiinţa,
+de-ai avea chiar şi credinţa
+
+[s2]
+/: Dacă dragoste nu ai,
+n-ai nici pace, n-ai nici rai !
+Dacă dragoste nu ai,
+n-ai să poţi intra ân rai ! :/
+
+[s3]
+De-ai avea chiar daruri multe,
+de-ai fi un creştin de frunte
+De-ai fi chiar şi un prooroc,
+de-ai muta munţii din loc
+
+[s4]
+/: Dacă dragoste nu ai,
+n-ai nici pace, n-ai nici rai !
+Dacă dragoste nu ai,
+n-ai să poţi intra în rai ! :/
+
+[order]
+s1,s2,s3,s4

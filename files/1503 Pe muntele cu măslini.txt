@@ -1,0 +1,42 @@
+[s1]
+1503.
+1.  Pe muntele cu măslini îl înconjurau Ucenicii pe Domnul şi îl întrebau
+Te rugăm Rabune de vrei să ne spui
+Cum vom şti că-i vremea când Tu vei veni
+2.  Atunci Marele Profet când îi asculta Privind spre Ierusalim ochii lăcrima
+Şi-ncepu cu milă să-i îmbărbăteze
+Căci în vremea aceea mulţi no să vegheze
+Şi-ncepu cu milă timpul să le arate
+Căci în vremea aceea mulţi n-o să-l aştepte
+
+[s2]
+3.  S-or ridica în popor mulţi învăţători
+Mulţi proroci vor amăgi chiar şi pe păstori
+Cum nu va rămâne piaţă peste piatră
+Şi turma în noapte va fi destrămată
+Dar până atunci e propovăduită
+Şi la lumea-ntreagă Scriptura vestită
+4.   Copiii neascultători de fraţi sau părinţi
+Unii pe alţii s-or urî şi vor fi vânduţi
+Strâmtorări în lume boale şi durere
+Iar credinţa multor se stinge şi piere
+
+[s3]
+5.   Lumea ca o mare adâncă se va frământa Zvonuri multe felurite o vor înspăimânta
+Va fi urâciune păcatul la culme
+Iar neprihăniţii Mei urâţi în lume
+6.  Ah zile cu necazuri vă vor încerca
+Pe martirii de sub scaun mulţi îi veţi urma
+De aşa nedreptate ceru-ntreg va plânge
+Soarele şi luna s-or stinge
+
+[s4]
+7.  Apoi un glas de arhanghel cerul va brăzda
+Şi pe nori de foc în slavă El va apărea
+Va face dreptate şi va mângâia
+Pe toţi credincioşii sus în slava Sa
+Va face dreptate şi va răsplăti
+La cel ce aşteaptă până va veni
+
+[order]
+s1,s2,s3,s4

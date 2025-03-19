@@ -1,0 +1,33 @@
+[s1]
+1. Roagă-te dimineaţa,
+Roagă-te şi la prânz,
+/: Roagă-te pe-nserate,
+Roagă-te orişicând. :/
+88.                                                         Fa
+
+[s2]
+2. Citeşte dimineaţa,
+Citeşte şi la prânz,
+/: Citeşte pe înserate,
+Citeşte orişicând. :/
+
+[s3]
+3. Fă bine dimineaţa,
+Fă bine şi la prânz,
+/: Fă bine pe-nserate,
+Fă bine orişicând. :/
+
+[s4]
+4. Dă-I slavă dimineaţa,
+Dă-I slavă şi la prânz,
+/: Dă-I slavă pe-nserate,
+Dă-I slavă orişicând. :/
+
+[s5]
+5. Vino la ora nouă
+La Casa Domnului,
+/: Vino şi după-masă
+Vino şi orişicând. :/
+
+[order]
+s1,s2,s3,s4,s5

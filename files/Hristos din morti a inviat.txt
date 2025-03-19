@@ -1,0 +1,26 @@
+[s1]
+Hristos din morţi a înviat
+În slava Lui cerească!
+Viaţă nouă El ne­a dat
+Şi pace sufletească.
+
+[r1]
+A­nviat Hristos din morţi,
+A­nviat Hristos din morţi!
+Cântaţi, căci Hristos a­nviat
+Din morţi!
+
+[s2]
+Hristos din morţi a înviat
+Şi astfel mântuirea
+În veci de veci a câştigat;
+În El e nemurirea.
+
+[s3]
+Hristos din morţi a înviat
+Zdrobind tăria morţii!
+Şi eu prin El m­oi înălţa în cer,
+Să cânt cu sfinţii.
+
+[order]
+s1,r1,s2,r1,s3,r1

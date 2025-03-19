@@ -1,0 +1,39 @@
+[s1]
+Chiar in drum din Ierihon
+Poate astazi gasesti
+Tot iti pare pacat
+Iertare-ti doresti
+Mergi drept la Hristos
+Povara-ti va lua
+Chiar in drum din Ierihon
+El te va spala
+
+[r1]
+Drumul din Ierihon
+E foarte ingust
+Pot merge doar doi
+Doar tu si Isus
+Necazul in doi nu-I chiar asa greu
+Cand esti cu Isus
+Pazit esti de rau
+
+[s2]
+Chiar in drum din Ierihon
+Orbul Bartimeu sta
+Viata trista a dus, poveri a purtat
+Dar Isus veni dee el se-ngriji
+Chiar in drum din Ierihon
+Lumini darui
+
+[s3]
+Chiar in  drum din Ierihon
+Un mesaj iti voi da
+Sa te bucuri mereu
+Pe stanca voi sta
+Pacatul e-nfrant
+Prin Isus Hristos
+Vin acum din Ierihon
+Fii vesel, voios
+
+[order]
+s1,r1,s2,r1,s3,r1

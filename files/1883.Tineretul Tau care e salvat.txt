@@ -1,0 +1,39 @@
+[s1]
+1883           Mi
+1. Tineretul Tău care e salvat
+Tineretul Tău binecuvântat
+Fericirea mea este crucea Ta
+Ție îți înalț azi cântarea mea.
+
+[r1]
+Cor:  /:Ce frumoasă este viața
+Viața cu Isus
+Ce frumoasă este viața
+Fără de apus.:/
+
+[s2]
+2. Ziua asta e pentru Slava Ta
+Să primești Isus și cântarea mea
+Cununa de flori tineri-ți aduc
+Și mirosul lor este un parfum.
+
+[s3]
+3. Lasă harul Tău astăzi peste noi
+Duhul Tău Isus să curgă șuvoi
+De la crucea Ta harul noi primim
+Cu Tine Isus noi ne veselim.
+
+[s4]
+4. Cântul fie-n veci pentru Slava Ta
+Iată îți cântăm biserica Ta
+Îngerii de sus îți cântă și ei
+Noi cântăm aici cei mai mititei.
+
+[s5]
+5. Tineretul Tău grădină cu flori
+Via Ta Isus pomul pomilor
+Ceru-nălțător pământul de jos
+Azi cântăm și noi lui Isus Hristos.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,38 @@
+[s1]
+Voi cântăreţi iscusiţi
+Naintea Domnului veniţi
+Cu noi cântări în adunari
+Şi Domnului slujiţi
+Să cânte întregul lui popor
+Şi-acei din jur si-acei din cor
+Cu instrumente fel de fel
+Să-L lăudăm pe El.
+
+[r1]
+Cântaţi, cântaţi, cântaţi,
+Ca şi Asaf surori şi fraţi.
+Cântaţi, cântaţi, cântaţi,
+Ca şi David surori şi fraţi.
+
+[s2]
+Să cânte cei neprihaniţi
+Să cânte toţi cei mântuiţi
+Voi tineri şi bătrâni
+Veniţi şi slava Lui vestiţi
+Şi voi ostroave şi câmpii
+Şi nori şi ape şi pustii
+Şi voi popoare mii şi mii
+Cu sfinte melodii.
+
+[s3]
+Şi voi acei ce-L aşteptaţi
+Veniţi cu noi, veniţi cântaţi
+Căci Domnul vine în curând
+Să-L aşteptăm cântând
+Şi ingerii din cerul sfânt
+Şi oamenii de pe pământ
+Şi munţi şi mare şi uscat
+Să-I cânte ne-ncetat.
+
+[order]
+s1,r1,s2,r1,s3,r1

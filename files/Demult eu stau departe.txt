@@ -1,0 +1,38 @@
+[s1]
+/: Demult eu stau departe
+Căzut pe calea Ta
+Şi mă întreb eu oare
+Isus mă vei ierta. :/
+
+[r1]
+/: Răspunde-mi când strig
+Răspunde-mi când plâng
+Răspunde-mi când te chem
+Dumnezeul meu. :/
+
+[s2]
+/: Am fost un vas de cinste
+Curat în casa Ta
+Te foloseai de mine
+Dar azi sunt altceva. :/
+
+[s3]
+/: Mă văd pierdut dar totuşi
+Te ştiu aşa de bun
+Tu eşti samariteanul
+Cel Sfânt, milos şi blând :/
+
+[s4]
+/: Opreşte-te o clipă
+Doar un cuvânt să-ţi spun
+Te rog să-mi dai iertare
+Cu Tine vin de-acum. :/
+
+[s5]
+/: Ţi-am înţeles iubirea
+Când mâna mi-ai întins
+În palma Ta cu sânge
+Iertare era scris. :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,36 @@
+[s1]
+Doamne, în veci vei fi,
+Misterul ce-l voi iubi,
+Domn peste cer şi pământ,
+Dumnezeu minunat.
+Vino în lumina Ta,
+Îmbrăcat în onoarea Ta.
+Strigă acum inima:
+"Vino, Rege, din nou!“
+Şi toţi azi vor vedea
+Din ceruri gloria Ta.
+
+[r1]
+/:Adonai, Adonai
+Toţi genunchii astăzi se vor pleca.
+Adonai, Adonai
+Dumnezeu doar Tu eşti,
+Iar noi vom striga:
+Adonai!:/
+
+[s2]
+În Ierusalim stăm,
+laude-Ţi înălţăm
+Porţi deschise avem,
+ne e dor să revii.
+Şi tot Sionul cântă:
+"El este cu noi!"
+
+[s3]
+/:Tu eşti Domn
+peste-ntreg pământ,
+Tu eşti Domn
+peste-ntreg pământ.:/(x5)
+
+[order]
+s1,r1,s2,r1,s3,r1

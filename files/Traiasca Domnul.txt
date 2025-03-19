@@ -1,0 +1,40 @@
+[s1]
+Nu pot uita vreodată
+Iubirea arătată de Isus
+Ma-mbrăcat în haine albe
+A pus pe mine podoabele din cer
+El mi-a dat haină de nuntă
+Ce privirea o încântă orişicui
+Si în mine-ai pus o taină
+E iubirea arătată omului
+
+[r1]
+Trăiască Domnul
+El este stânca mea
+In care mă încred
+Trăiască Domnul
+El este stânca mea
+Si cetăţuia mea
+
+[s2]
+Şi timpul când va trece
+Nu vreau să-mi fie rece inima
+Eu vreau să-i simt iubirea
+La cel ce nemurirea-n dar mi-a dat
+Dumnezeu îmi dă tărie
+Ca să-i cânt cu bucurie numai Lui
+In necaz şi-n clipe grele
+Imi trimite mângâiere-n harul Lui
+
+[s3]
+Când vânători pe urme
+Goneau viaţa să-mi curme am zărit
+O cetate de scăpare,
+Ajutor şi alinare la necaz
+Din groapa cea adâncă
+M-a pus să stau pe stâncă-n mâna Lui
+Si în orice clipe grele
+In necaz şi în durere sunt al Lui
+
+[order]
+s1,r1,s2,r1,s3,r1

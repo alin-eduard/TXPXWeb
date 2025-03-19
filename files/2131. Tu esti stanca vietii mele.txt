@@ -1,0 +1,28 @@
+[s1]
+2131
+1. Tu ești stânca vieții mele
+Tu ești totul pe pământ
+//: Tu ești stânca :/ (3x)
+pe pământ :/.
+
+[s2]
+2. Totul este doar un nume
+Totul este trecător
+//: Totul este :/ (3x)
+trecător :/.
+
+[s3]
+3. Amintește-mi Doamne mie
+Căci azi sunt, dar mâine nu voi fi
+//: Amintește-mi :/
+căci azi sunt dar mâine nu poți ști :/.
+
+[s4]
+4. Doamne fă a mea credință, ce în mine
+s-a născut
+//: Tot să crească :/
+când cuvântul Tău
+l-ascult :/.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,21 @@
+[s1]
+Altarul acelor supuşi
+Noi nu-l surpăm,
+Ci-l suim sus.
+
+[r1]
+Dar vocea Lui se-aude sus,
+Mai sus, mai sus, la ceruri sus
+Căci ei vor sta lângă Isus,
+Căci pururea I-au fost supuşi.
+
+[s2]
+Veşmântul acelor curaţi
+Păstraţi fiind şi nepătaţi.
+
+[s3]
+Cu ramuri de finic în mâini
+Întâmpina-vom pe Isus!
+
+[order]
+s1,r1,s2,r1,s3,r1

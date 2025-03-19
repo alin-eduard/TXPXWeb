@@ -1,0 +1,79 @@
+[s1]
+1. Primiţi fraţi, primiţi ocara
+Fiţi ca miei-n toată ţara
+Şi-ţi vedea pe Domnul.
+258.
+
+[s2]
+2. Vă lipsiţi de orice plăcere
+Nu vă trebuiască avere
+Şi-ţi vedea pe Domnul.
+
+[s3]
+3. Căci Apocalipsa spune
+Nu iubiţi pe orişicine
+Şi-ţi vedea pe Domnul.
+
+[s4]
+4. Nu călcaţi cuvintele
+Suferiţi prigoanele
+Pildă aveţi pe Domnul.
+
+[s5]
+5. Precum fost-au sfinţii toţi
+Ce iubiră pe Hristos
+Şi-ţi vedea pe Domnul.
+
+[s6]
+6. Cum crezi tu frate creştine
+Iubeşti rău în loc de bine
+Supărând pe Domnul.
+
+[s7]
+7. Cel ce eşti negru la minte
+Tot mai rău ca mai 'nainte
+N-oi vedea Sionul.
+
+[s8]
+8. Cei ce-s scrişi în Sfânta Carte
+Prigoniţi pentru dreptate
+Vor vedea pe Domnul.
+
+[s9]
+9. Vor intra în cetatea sfântă
+Unde toţi îngerii cântă
+Şi-L slăvesc pe Domnul.
+
+[s10]
+10. Te rugăm Doamne
+Ai noştri fraţi
+De păcate fie iertaţi
+Păcătos e omul.
+
+[s11]
+11. Şi Te îndură a ierta
+După mare mila Ta
+Să vedem Sionul.
+
+[s12]
+12. Noi suntem pământ şi tină
+Toţi zidiţi de a Ta mână
+Fiu îţi este omul.
+
+[s13]
+13. Cel ce trăieşte în prihană
+El îşi ia partea vicleană
+N-a vedea Sionul.
+
+[s14]
+14. Şi pe Tine toţi Te-ar vrea
+Şi de rău nu s-ar lăsa
+Însă Sfânt e Domnul.
+
+[s15]
+15. Pleacă-te sub jertfa Sa
+Curăţeşte-ţi inima
+Şi-i vedea pe Domnul.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12,s13,s14,s15

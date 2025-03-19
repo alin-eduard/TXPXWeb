@@ -1,0 +1,42 @@
+[s1]
+Astăzi fraţilor să mergem,
+Intr-un suflet într-un gând,
+Să-nălţăm o rugăciune
+La Isus îngenunchind!
+Să cântăm un imn de slavă
+bunului Mântuitor,
+Ce pe inimile nostre
+varsă foc izbăvitor!
+
+[s2]
+Valga vieţii noastre toată,
+Domnului am închinat.
+În oştirea Lui divină,
+Credincioşi ne-am înrolat;
+Să-i jurăm cu dor credinţă:
+Am jurat şi ne-a supus,
+De vom şovăi vreodată,
+Să ne sprijini Tu, Isus!
+
+[s3]
+În iubire toţi să creştem,
+Precum şi El ne-a iubit,
+La cei doisprezece-apostoli,
+Să gândim necontenit;
+Să iubim până la jertfă,
+fără al răsplăţii gând.
+Căci aşa-a iubit şi Domnul,
+Când murea pe cruce – blând.
+
+[s4]
+O, Isuse, ne uneşte inimile
+la un loc,
+Si primeşte-le pe toate,
+Le-am călit în sfântul foc;
+Bisericii Tale scumpe
+Dă-i bogate-le-ţi comori…
+Duhul Tău, cel bun
+împarte-l la umilii slujitori.
+
+[order]
+s1,s2,s3,s4

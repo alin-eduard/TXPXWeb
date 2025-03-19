@@ -1,0 +1,26 @@
+[s1]
+Vin' cu sarcina-ţi la cruce,
+suflete pribeag,
+Ne-obosit Isus te-aşteaptă
+cu mult drag.
+
+[s2]
+Nu-L vezi cum Se chinuieşte,
+stând în locul tău?
+Şi pe cruce Se jertfeşte
+Domnul tău?
+
+[s3]
+Sus pe lemn, Neprihănitul
+poartă-al tău păcat.
+Dumnezeu pe însuşi
+Fiul n-a cruţat.
+
+[s4]
+Pace, viata, bucurie
+curg din crucea Lui.
+Slava-acum şi-n
+veşnicie Domnului!
+
+[order]
+s1,s2,s3,s4

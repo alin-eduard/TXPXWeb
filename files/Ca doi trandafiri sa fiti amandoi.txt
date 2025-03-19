@@ -1,0 +1,34 @@
+[s1]
+Ca doi trandafiri, să fiţi amândoi,
+În sfânta grădina a Duhului Sfânt!
+Mereu să-nfloriţi şi să răspândiţi
+Parfumul iubirii, parfumul dorit!
+
+[r1]
+E mai bine-n doi,
+Chiar şi la nevoi.
+Funia-mpletită mult mai tare e.
+Când ai de lucrat,
+Când ai de luptat,
+Chiar şi-n rugăciune vei fi ajutat.
+
+[s2]
+Să fiţi un buchet cu flori de migdal,
+Cu roade ca roua ce cade-n Saron!
+Să staţi lângă râu pe al vieţii mal,
+La râul care curge din noul Sion.
+
+[s3]
+Să fiţi un potir cu parfum de nard,
+În rugă, pe faţă, mereu să udaţi,
+Cu lacrimi fierbinţi, cu lacrimi ce ard;
+Prin sfânta credinţă, voi să va rugaţi.
+
+[s4]
+Şi noi vă urăm, cu toţi vă dorim
+Pe noua cărare pe care-aţi plecat,
+Să mergeţi cu El, spre cer ne'ncetat,
+Cu Domnul iubirii, în Ierusalim.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

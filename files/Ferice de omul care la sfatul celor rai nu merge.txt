@@ -1,0 +1,23 @@
+[s1]
+Ferice de omul care
+la sfatul celor răi nu merge.
+Pe calea păcătoşilor nu se opreşte.
+Cu batjocoritorii nu se uneşte.
+
+[r1]
+El e ca un pom sădit lângă izvor,
+Plin de viaţă şi roditor.
+El e ca un pom sădit lângă izvor,
+Plin de viaţă şi roditor, e roditor.
+/:Plăcerea îşi găseşte în legea Domnului,
+Zi şi noapte cugetă la legea Lui.:/
+
+[s2]
+Toţi cei răi sunt ca pleava
+spulberată-n vânt.
+Ei nu vor putea să stea
+în faţa Celui sfânt.
+Dar cel neprihănit va fi mântuit.
+
+[order]
+s1,r1,s2,r1

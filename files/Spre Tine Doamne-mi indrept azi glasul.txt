@@ -1,0 +1,27 @@
+[s1]
+Spre Tine Doamne-mi
+îndrept azi glasul
+Din drumul strâmt spinos şi greu
+Şi tot spre Tine-mi îndrept şi pasul
+Nedespărţiţi să fim mereu.
+
+[r1]
+Azi merg pe calea Ta Isuse
+Ea duce în slăvi, în Paradis
+Mi-ai pregătit comori nespuse
+Şi mă aştepţi că mi-ai promis
+
+[s2]
+Când viforul de încercare
+Pe calea mea s-au năpustit
+Tu ai venit cu îndurare
+M-ai ridicat, m-ai întărit.
+
+[s3]
+Curând va reveni ca Mire
+Atâtea semne sunt acum
+E foarte aproape a Ta venire
+Se aud lin paşii Tăi pe drum.
+
+[order]
+s1,r1,s2,r1,s3,r1

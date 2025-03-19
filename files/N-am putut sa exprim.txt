@@ -1,0 +1,21 @@
+[s1]
+N-am putut să exprim
+Nevoia de căldură
+Şi setea de dragoste
+N-am putut spune
+Că doream să-Ţi pese de mine.
+
+[s2]
+Dar braţele Tale
+Au fost deschise
+Tu m-ai primit
+Şi mi-ai văzut lacrimile.
+
+[s3]
+Ma-m tinut, strâns, lângă Tine
+Nu m-ai lăsat nici-o clipă
+Înainte de a fi singur
+Că pot să merg mai departe.
+
+[order]
+s1,s2,s3

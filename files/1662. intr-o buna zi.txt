@@ -1,0 +1,26 @@
+[s1]
+1. Într-o bună zi, calea-ţi vei sfârşi
+Soarele frumos nu va mai răsări
+Tu vei fi uitat că ai existat
+Doar ai tăi copii ş-or mai aminti.
+1662
+
+[r1]
+Veşnicia ta,
+Rai sau iad înseamnă ea?
+Omule iubit,
+Poate nici nu te-ai gândit
+COR: Nu mai sta aşa, ci gândeştete la ea
+Căci tu vei muri,
+Când şi unde tu nu ştii
+Şi tu vei pleca către veşnicia ta
+Rai sau iad înseamnă ea
+
+[s2]
+2.Cuvântul cel bun ce răsun-acum
+Este pentru tine ca să vii la Mine
+Eu sunt Domnul tău, Cel ce te-a creat
+Dar omule de Mine, te-ai îndepărtat .
+
+[order]
+s1,r1,s2,r1

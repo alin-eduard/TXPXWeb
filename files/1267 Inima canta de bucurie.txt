@@ -1,0 +1,54 @@
+[s1]
+1.Inima cântă de bucurie
+Sunt vesel fericit
+Căci Dumnezeu
+Pentru veșnicie
+Viaţă mi-a dăruit.
+1267							    Do M
+
+[s2]
+Mi-a dat credinţă,
+Și biruinţă, prin ea,
+Eu pot avea
+Şi-am mai primit
+Prin făgăduinţă
+Nădejdea şi dragostea
+
+[r1]
+/: O, Domnul meu :/
+Eu sunt al Tău,
+De-aceea-Ți
+Mulţumesc mereu
+
+[s3]
+2.M-a învăţat şi
+Mi-a dat putere,
+Prin al Său sfânt Cuvânt.
+Să pot oricând
+Și orice mi-ar cere,
+Cât voi fi pe pământ.
+
+[s4]
+Deci, printr-o viaţă
+De rugăciune
+Vreau să Îi mulţumesc
+Şi prin Cuvântu-I,
+Orice mi-ar spune,
+Vreau tot să împlinesc
+
+[s5]
+3.Atât credinţa,
+Cât şi nădejdea
+Mă vor călăuzi
+Jos, pe pământ,
+Și-n viaţa aceasta
+Atât cât voi trăi
+
+[s6]
+Mă va conduce în veşnicie
+Cu El voi fi mereu
+Dragostea care-i Nepieritoare
+Dragostea e Dumnezeu
+
+[order]
+s1,s2,r1,s3,s4,r1,s5,s6,r1

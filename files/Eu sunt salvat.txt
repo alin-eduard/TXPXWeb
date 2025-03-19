@@ -1,0 +1,26 @@
+[s1]
+/: Eu sînt salvat :/
+/: Prin sîngele sfînt :/
+Eu sînt salvat prin sîngele sfînt
+Pecetluit cu Duhul Sfînt
+Căci Isus a murit
+şi-acum sînt salvat !
+
+[s2]
+/: El e al meu :/
+/: Prieten bun :/
+El e al meu prieten bun
+Nimic nu mă desparte-acum
+Căci Isus a murit
+şi-acum eu sînt salvat !
+
+[s3]
+/: El vine iar :/
+/: Jos pe Pămînt :/
+El vine iar jos pe Pămînt
+Să dea balsam pe orice răni
+Căci Isus a murit
+şi-acum eu sînt salvat !
+
+[order]
+s1,s2,s3

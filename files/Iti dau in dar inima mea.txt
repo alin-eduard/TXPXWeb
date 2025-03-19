@@ -1,0 +1,35 @@
+[s1]
+Iti dau in dar inima mea
+Ca Tu sa locuiesti in ea Isus
+Iar cum o Doamne sunt al Tau
+Cant inspre slava Ta mereu mereu
+Spre Tine ochii imi indrept
+Caci Tu esti Dumnezeu si te astept
+Cu Tine eu vreau sa fiu
+Cu tine Doamne caci
+Esti viu Esti viu
+
+[r1]
+/:Iti cant mantuitorul meu
+Te lauda inima mereu
+Cu bucurie te slavesc
+Iti cant Mantuitotul meu
+Te lauda inima mereu
+Cu bucurie te slavesc
+Iti cant mantuitorul meu
+Te lauda inima mereu
+Prin duhul tau cel ceresc :/
+
+[s2]
+Doresc sa-ti cant al meu Isuse
+Sa-ti spun la toti ce mare Esti
+Caci locuiesti mai sus de stele
+Esti suveranul Doamne
+In veci de veci
+Sunt cercetat de harul Tau
+Iar eu te laud Isuse Domnul meu
+La orce pas de Duhul Sfant
+Calauzit voi fi pe-acest pamant
+
+[order]
+s1,r1,s2,r1

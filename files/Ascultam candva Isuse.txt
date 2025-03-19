@@ -1,0 +1,49 @@
+[s1]
+Ascultam cândva Isuse
+vocea Ta duioasă
+Şi de-atuncea nu-i cântare
+s-o mai simt frumoasă.
+Nu-i nici o cântare-n lume
+s-o mai simt frumoasă!
+
+[s2]
+Ţi-am văzut odată chipul
+alb ca de ninsoare
+Şi de-atuncea nu-mi mai
+pare albă nici o floare.
+Nu-mi mai pare-n lumea asta,
+albă, nici o floare!
+
+[s3]
+Însetat bău odată apa Ta cerească
+Şi de-atuncea nu-s izvoare
+să mă răcorească.
+Nu mai sunt izvoare-n lume
+să mă răcorească!
+
+[s4]
+Legănatu-m-a odată
+dorul de iubire
+Şi de-atuncea nu-i pe
+lume nici o fericire.
+Nu mai simt în lumea asta
+nici o fericire!
+
+[s5]
+Ţi-a simţit odată mâna,
+inima-mi sărmană,
+Şi de-atuncea nu-s pe lume
+mâini să lege-o rană.
+Nu mai sunt pe lumea asta
+mâini să lege-o rană!
+
+[s6]
+Şi mă-ntreb, de n-ar fi oare
+dragoste curată
+Cine-ar mai putea să aibă
+inimă-alintată?
+Cine-ar mai putea să aibă
+inimă-alintată?
+
+[order]
+s1,s2,s3,s4,s5,s6

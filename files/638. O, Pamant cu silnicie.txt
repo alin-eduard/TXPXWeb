@@ -1,0 +1,39 @@
+[s1]
+1. O, pământ cu silnicie
+Pe mulţi îi faci ca să suspine
+Ah, pământ îndurerat
+Multe lacrimi te-au udat.
+638.
+2. Pe tine mă zbat eu azi
+Şi-mi curg lacrimi pe obraz
+Aşteptând o izbăvire
+Care-i gata ca să vină.
+
+[s2]
+3. Căci iubirea lui Hristos
+Mă face să privesc sus
+Unde vântul suflă lin
+Nu sunt lacrimi nici suspin.
+4. Cel ce varsă lacrimi azi
+Izbăvit va fi de El
+Plata el va căpăta
+Când toate se vor schimba.
+
+[s3]
+5. Când veni-va iar Isus
+Să ne ia precum a spus
+Sus în ţara zorilor
+Unde îngerii cântă în cor.
+6. Şi-l slăvesc pe Dumnezeu
+Milioane în jurul Său
+Acolo şi tu vei fi
+Dacă te vei pocăi.
+
+[s4]
+7. Şi vei aştepta plângând
+Ca să vină mai curând
+Ziua să plecăm odată
+Sus în ţara minunată.
+
+[order]
+s1,s2,s3,s4

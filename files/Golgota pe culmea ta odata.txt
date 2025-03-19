@@ -1,0 +1,26 @@
+[s1]
+Golgota ! Pe culmea ta odată
+Au fost ridicate trei cruci mari
+/: Dintre ele una-i neuitată -
+Crucea lui Isus între tâlhari. :/
+
+[s2]
+Pe această cruce-n chinuri grele
+A murit din dragoste Hristos
+/: Ca prin sângele-I vărsat să spele
+De păcat pe orice păcătos. :/
+
+[s3]
+Prin acest sfânt sânge îi pe mine
+Domnul de păcat m-a curăţit
+/: Golgotă ! Isus, murind pe tine
+Mi-a deschis Edenul fericit ! :/
+
+[s4]
+Pentru jertfa Lui mântuitoare
+Ce-a adus-o sus pe culmea ta
+/: Nici în vesnicia viitoare
+Golgotă ! Eu nu te voi uita ! :/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,32 @@
+[s1]
+Fericit in orice zi,
+nicaieri nu poti sa fii
+Ca in Casa Domnului Isus
+Unde tinerii si batranii
+‘nalta sfinte rugaciuni
+Catre tronul Tatalui de sus
+
+[r1]
+Prin har, prin har El ne-a dat in dar,
+Dreptul de a-I fi copii.
+Prin har, prin har El ne-a dat in dar,
+Nesfarsite bucurii
+
+[s2]
+Toata stiinta de-ai avea,
+nicaieri nu vei afla
+Mangaieirea Sfantului Cuvant.
+Nici divine bucurii
+cum da Duhu-n partasii
+Ca in Casa Domnului nu sunt.
+
+[s3]
+Ce placut e si frumos
+in prezenta lui Hristos,
+Sa traiesti cu fratii-n Casa Lui
+Sa-I duci jertfa pe altar,
+toti talantii in dar
+Asteptand venirea Domnului.
+
+[order]
+s1,r1,s2,r1,s3,r1

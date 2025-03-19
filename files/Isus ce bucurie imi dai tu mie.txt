@@ -1,0 +1,15 @@
+[s1]
+Isus, ce bucurie îmi dai tu mie
+Eşti viu pe totdeauna
+Rabuni, stau la picioare-Ţi
+În adorare şi mă închin
+
+[s2]
+Doamne, nu mă desparte
+Nici plâns, nici moarte
+Eşti viu pe totdeauna
+Rabuni, eşti Viaţa vieţii
+Al dimineţii Luceafăr Sfânt
+
+[order]
+s1,s2

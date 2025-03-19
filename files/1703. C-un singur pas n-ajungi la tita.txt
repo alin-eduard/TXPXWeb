@@ -1,0 +1,43 @@
+[s1]
+1703.
+1. C-un singur pas n-ajungi la ţintă
+Înaintează nencetat
+Aceasta ţi-e chemarea sfântă
+Trăieşte-o cu adevărat
+Cor:	Urmaşi ai lui Hristos
+Sunt cei ce ne-ndoios
+/:Pe cale alergând:/ nu fac
+Popas, nu se opresc nicicând
+
+[s2]
+2. Pe calea ascultării întruna
+De Dumnezeu şi a Lui cuvânt
+Tu să alergi oricât furtuna
+Ţi-ar sta-mpotrivă pe pământ
+Cor:	Urmaşi ai lui Hristos
+Sunt cei ce ne-ndoios
+/:Pe cale alergând:/ nu fac
+Popas, nu se opresc nicicând
+
+[s3]
+3. Că nu-i furtună atât de mare
+Nici valuri ridicate-n sus
+Să poată în ţărână să coboare
+Pe cel ce crede în Isus
+Cor:	Urmaşi ai lui Hristos
+Sunt cei ce ne-ndoios
+/:Pe cale alergând:/ nu fac
+Popas, nu se opresc nicicând
+
+[s4]
+4. Aleargă nu mai e departe
+Lumina prinde a miji
+Puţină vreme ne desparte
+Şi Cel ce vine va veni
+Cor:	Urmaşi ai lui Hristos
+Sunt cei ce ne-ndoios
+/:Pe cale alergând:/ nu fac
+Popas, nu se opresc nicicând
+
+[order]
+s1,s2,s3,s4

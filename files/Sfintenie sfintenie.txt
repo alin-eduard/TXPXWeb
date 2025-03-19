@@ -1,0 +1,29 @@
+[s1]
+Sfinţenie, sfinţenie
+E ceea ce vreau!
+Sfinţenie e ce-mi doresc
+Sfinţenie, sfinţenie
+E ceea ce vrei Tu sa am
+
+[s2]
+Credincios, credincios
+Vreau sa fiu!
+Credincios faţa de Tine
+Credincios, credincios
+Aşa cum vrei Tu să fiu.
+
+[r1]
+Inima mea Tu schimbă
+Mintea mea transformă
+Voia mea să fie:
+Voia Ta, Voia Ta o, Doamne
+
+[s3]
+Neprihănit, neprihănit
+Vreau să fiu
+Neprihănit să fiu prin Tine
+Neprihănit, neprihănit
+Aşa cum vrei Tu să fiu.
+
+[order]
+s1,s2,r1,s3,r1

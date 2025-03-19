@@ -1,0 +1,32 @@
+[s1]
+N-aceasta zi frumoasa
+Aducem Lui Isus
+Cantarea noastra aleasa
+Caci il iubim nespus
+
+[r1]
+/:Slavim:/
+Pe-al nostru Imparat ceresc
+/:Slavim:/
+Pe Domnul adevarat
+
+[s2]
+El a iubit copiii
+Cat a fost pe pamant
+Si-acum desi e-nceruri
+Tot ne iubeste mult
+
+[s3]
+Ne place asa cantarea
+Si-am vrea s-o auzim
+Prin jertfa milei sale
+Ne face sa traim
+
+[s4]
+La tronul milei sale
+Acum ingenunchem
+Si-n sunet de cantare
+Viata iti predam
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,38 @@
+[s1]
+Demult, acum aproape două mii de ani
+La noi pe Pământ a venit
+Un om, un prunc, un om, un sfânt
+Un om deosebit.
+Lumină răspândea în jur, Lumină El fiind
+Pe oameni învăţa mereu
+Speranţă semănând.
+Spunea despre Sine că e Fiu de Dumnezeu
+Că a venit în lume să ne ducă sus în cer
+Şi toţi cei ce vor crede-n El vor fi primiţi de Dumnezeu
+Din moarte veşnică vor fi salvaţi !
+
+[r1]
+/: Isus e calea
+Către Dumnezeu !
+Adevărul şi viaţa
+E Isus, Fiul Său !
+Dacă vrei cu Dumnezeu
+În veci să trăieşti
+Crede-n Isus şi viaţa-ai să primeşti! :/
+
+[s2]
+Orice om, oricât de păcătos, poate veni la El
+Căci El, Isus, a plătit
+Orice păcat, oricât de greu.
+Sus pe cruce El muri, în locul meu şi-al tău
+Vina e plătită
+Curaj, pretenul meu !
+Uşa e deschisă, Dumnezeu te-aşteaptă-n prag
+E Tatăl tău ce te-a creat
+zâmbeşte-I azi cu drag!
+Isus te cheamă azi la El
+vin, acum, amicul meu !
+Cu mine viaţă veşnică găseşti !
+
+[order]
+s1,r1,s2,r1

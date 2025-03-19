@@ -1,0 +1,47 @@
+[s1]
+1.  De astăzi eu te vreau în inimă
+De astăzi eu te vreau Isus
+Eu cred că după moarte în veşnicii
+Cu tine Domnul meu voi fi.
+1262.Fa
+/ : Cu tine Domnul meu
+Voi fi în cer mereu
+Cu tine Domnul meu Isus
+Eşti Domnul meu iubit sunt tare fericit
+O Doamne că m-ai mântuit : /.
+
+[s2]
+2.	De astăzi eu te vreau Isuse drag
+Să fii mereu în viaţa mea
+În inimă să-mi torni din Duhul Tău
+Cu dragoste să-ţi cânt mereu.
+/ : Cu tine Domnul meu
+Voi fi în cer mereu
+Cu tine Domnul meu Isus
+Eşti Domnul meu iubit sunt tare fericit
+O Doamne că m-ai mântuit : /.
+
+[s3]
+3.	Îţi mulţumesc Isus din inimă
+Îţi mulţumesc că ne iubeşti
+În jertfa de pe cruce m-ai iertat
+În harul Tău mai îmbrăcat.
+/ : Cu tine Domnul meu
+Voi fi în cer mereu
+Cu tine Domnul meu Isus
+Eşti Domnul meu iubit sunt tare fericit
+O Doamne că m-ai mântuit : /.
+
+[s4]
+4.		Mereu îţi voi cânta o Domnul meu
+Că mântuire Tu mi-ai dat
+În suflet pacea Ta eu am primit
+Isuse Domnul meu iubit.
+/ : Cu tine Domnul meu
+Voi fi în cer mereu
+Cu tine Domnul meu Isus
+Eşti Domnul meu iubit sunt tare fericit
+O Doamne că m-ai mântuit : /.
+
+[order]
+s1,s2,s3,s4

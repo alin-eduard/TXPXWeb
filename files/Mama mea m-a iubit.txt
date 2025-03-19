@@ -1,0 +1,32 @@
+[s1]
+Mama mea m-a iubit
+Şi cu drag m-a-ngrijit
+Ca să nu mi se-ntâmple vreun rău.
+Îmi dădea tot ce-avea
+Iar în suflet purta
+Dor adânc pentru sufletul meu.
+
+[r1]
+Voi iubi mama mea ne-ncetat
+Căci prin ea, Domnul viaţă mi-a dat!
+Şi-mpreună, te rog, o, Doamne
+Fă să fim sus în cer la Tine!
+
+[s2]
+Ne-ncetat lângă pat
+Nopţi întregi a vegheat
+Când eu în suferinţi mă zbăteam.
+Nu mânca, nu dormea,
+Bucuros se jertfea
+Căci aşa m-a iubit mama mea.
+
+[s3]
+De Isus mi-a vorbit,
+Cum pe cruce-a murit
+Căci dorea să mă vadă salvat.
+Şi cu lacrimi fierbinţi
+Se topea-n rugăminţi
+Pân’ ce eu Domnului m-am predat.
+
+[order]
+s1,r1,s2,r1,s3,r1

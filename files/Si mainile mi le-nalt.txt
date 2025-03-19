@@ -1,0 +1,42 @@
+[s1]
+Şi mâinile mi le-nalţ
+Şi-naintea Ta vin
+Mâinile mi le-nalţ
+Şi mă bucur în Tin’
+Îmi înalţ mâinile către cer
+Lumea-ntreabă de ce?
+Eu le spun că-mi iubesc Regele
+
+[s2]
+Voi slăvi pe Mielul gloriei
+Regelui regilor mă-nchin
+Voi slăvi pe Mielul gloriei
+Regelui eu mă-nchin!
+
+[s3]
+Şi mâinile mi le-nalţ
+Şi-naintea Ta vin
+Mâinile mi le-nalţ
+Şi mă bucur în Tin’
+Îmi înalţ mâinile către cer
+Lumea întreabă de ce?
+Eu le spun că-mi iubesc Regele
+
+[r1]
+Voi slăvi pe Mielul gloriei
+Regelui regilor mă-nchin
+Voi slăvi pe Mielul gloriei
+Regelui eu mă-nchin
+
+[s4]
+Şi mâinile mi le-nalţ
+Şi-naintea Ta vin
+Mâinile mi le-nalţ
+Şi mă bucur în Tin’
+Îmi înalţ mâinile către cer
+Lumea întreabă de ce?
+Eu le spun că-mi iubesc Regele
+Eu le spun că-mi iubesc Regele
+
+[order]
+s1,s2,s3,r1,s4,r1

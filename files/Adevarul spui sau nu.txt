@@ -1,0 +1,57 @@
+[s1]
+Adevarul spui sau nu
+El stie, El stie,
+De gândesti bine sau rau
+El stie, El stie,
+Tot ce faci si unde mergi
+Când te rogi si când citesti
+De faci bine sau gresesti
+El stie
+
+[s2]
+De multe ori ma-ntreb si eu
+De ce m-a mântuit
+Sunt pacatos si totusi stiu
+Ca Isus m-a iubit
+El ma-nvata cum sa cresc
+Ma îndreapta când gresesc
+Pe drumul drept când pasesc el stie
+
+[s3]
+Nu pot face-un bob de grâu
+El poate El poate
+Nici hrani un corb flamând
+El poate El poate
+Nu pot face bine
+Un orb nici sa umble un olog
+Nu pot da grai unui mut el poate
+
+[s4]
+De multe ori ma-ntreb si eu
+De ce m-a mântuit
+Sunt pacatos si totusi stiu
+Ca Isus A murit
+Pentru mine a patimit
+Pe golgota s-a jertfit
+Sa ma scape de pacat el poate
+
+[s5]
+Minunat si bun si drept
+E Isus, E Isus
+Mare preot si-ntelept
+E Isus, E Isus
+El e Dumnezeu E sfânt
+Prin el toate sunt ce sunt
+Creatorul tuturor E isus
+
+[s6]
+Veniti cu toti sa ne-nchinam
+Pe Isus sa-l laudam
+Si cântecul din inima
+Lui sa-l închinam
+El e Dumnezeu E sfânt
+El da pacea pe pamânt
+Rascumparatorul Sfânt e Isus
+
+[order]
+s1,s2,s3,s4,s5,s6

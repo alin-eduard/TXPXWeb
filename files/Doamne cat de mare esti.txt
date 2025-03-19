@@ -1,0 +1,32 @@
+[r1]
+Doamne cât de mare eşti
+Doamne cât de mare eşti
+Doamne cât de mare eşti
+Şi cât ne iubeşti.
+
+[s1]
+Munţi înalţi, semeţi
+Cu brazi plini de nămeţi
+Vântul adia
+Şi parcă aşa spunea:
+
+[s2]
+Oceane-n depărtări
+Îşi poartă cântu-n zări
+Iar pescăruşii-n zbor
+Îngână-ncetişor:
+
+[s3]
+În adâncă noapte,
+Stele pline de şoapte
+În galaxia lor,
+Licăreau uşor:
+
+[s4]
+Eu m-alătur lor
+Şi-ntr-un mare cor
+Îţi cântăm cu dor
+Cât de mare eşti...
+
+[order]
+r1,s1,r1,s2,r1,s3,r1,s4,r1

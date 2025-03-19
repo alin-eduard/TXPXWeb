@@ -1,0 +1,39 @@
+[s1]
+1515.
+1. De la Ana la Caiafa
+Te-au purtat şi judecat
+Faţa Ta nevinovată
+Vinovaţii au scuipat.
+2. Te-au lovit în faţa legii
+Oamenii nelegiuiţi
+Şi Te-au osândit la moarte
+Doamne cei mai osândiţi.
+
+[s2]
+3. Cunună de spini Isuse
+Fruntea ţi-au încununat
+Şi tu cel mai fără vină
+Fost-ai cel mai vinovat.
+4. Cu întreg păcatul lumii
+Calea crucii ai suit
+Fărădelegea tuturora
+Ne-ai plătit-o răstignit.
+
+[s3]
+5. Jos la poala crucii tale
+Plâng cei dragi îndureraţi
+Plângem şi noi căci prin Tine
+Toţi am fost de iad scăpaţi.
+6. O te rog precum Isuse
+Pentru mine Tu ai murit
+Să mă ajuţi şi eu să sufăr
+Pentru tine fericit.
+
+[s4]
+7. Toată viaţa mea din lume
+Vreau să-ţi fiu copil supus
+Ca şi acolo-n cer cu Tine
+Să fiu şi eu fericit.
+
+[order]
+s1,s2,s3,s4

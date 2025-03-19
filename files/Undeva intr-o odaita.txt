@@ -1,0 +1,42 @@
+[s1]
+Undeva într-o odăiţă
+Lacrimile nu mai curg
+Undeva într-o odăiţă
+Cineva nu se mai roagă
+Nu mai stă-n genunchi şi-n taina
+Nu mai plânge în amurg
+Dragostea cândva fierbinte
+/:Nu-i curată nici întreagă:/
+
+[s2]
+Undeva nu se mai cântă
+Astăzi psalmii minunaţi
+Undeva sub praf uitată
+Zace Biblia iubită
+Împrejurul unei mese
+Nu se mai adună fraţi
+La o uşă încuiata
+/:Stă iubirea neprimită:/
+
+[s3]
+Nicicând nu credeam c-această
+Uşă va avea zăvor
+Nicicând nu credeam c-această casă
+Va ajunge mută
+C-o să ajungă sec de lacrimi
+Al iubirii cald izvor
+Focul stins,calea pustie
+Vatra rece şi tăcută
+
+[s4]
+Acel undeva Isuse
+Este chiar în viaţa mea
+Dar mă-ntorc in odăiţă
+Ţie îţi dau inima
+Să mă bucur să fiu liber
+Laudă să-Ţi înalţ mereu
+Şi in duh cu trup şi suflet
+/:Pe deplin să fiu al Tău:/
+
+[order]
+s1,s2,s3,s4

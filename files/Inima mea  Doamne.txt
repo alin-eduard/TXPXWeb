@@ -1,0 +1,20 @@
+[s1]
+Inima mea, Doamne
+Ţie ţi-o dăruiesc
+Să lucrezi, Tu în ea
+Ca să fie a Ta.
+
+[r1]
+Schimbă, Tu inima şi viaţa mea
+Curăteşte-mă prin voia Ta
+Lucrează Tu, azi cu mâna Ta
+Desavârşeşte-Ţi dragostea
+
+[s2]
+Viaţa mea e în mâna Ta
+Pe deplin, eu mă predau
+Să lucrezi Tu în ea,
+Ca să fie a Ta.
+
+[order]
+s1,r1,s2,r1

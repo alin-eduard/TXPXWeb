@@ -1,0 +1,38 @@
+[s1]
+Te iubesc şi-Ţi cânt din toată inima,
+Doamne, tăria mea Tu-mi eşti scutul,
+Tu-mi eşti izbăvirea mea,
+Cetate-n vreme rea.
+
+[s2]
+“Lăudat fie Domnul!”, am strigat,
+Şi pe loc toţi vrăşmaşii-au fugit.
+Te iubesc şi-Ţi cânt din toată inima,
+Doamne, tăria mea.
+
+[s3]
+Mâna Ţi-ai întins-o, Tu m-ai apucat,
+M-ai scos din ape mari,
+Şi cu glasul Tău din ceruri ai tunat,
+Şi s-au ascuns cei tari.
+
+[s4]
+Tu-mi aprinzi o lumină, Domnul meu,
+Şi-ntuneric şi frică dispar.
+Mâna Ţi-ai întins-o, Tu m-ai apucat,
+M-ai scos din ape mari.
+
+[s5]
+Dumnezeu mă-ncinge cu puterea Sa,
+M-aşează pe ‘nălţimi,
+Îmi deprinde braţul pentru lupta grea,
+Şi-mi pune arcu-n mâini.
+
+[s6]
+Viu e Domnul şi tare-i stânca mea,
+Şi prin El voi trăi-n veşnicii.
+Dumnezeu mă-ncinge cu puterea Sa,
+M-aşează pe ‘nălţimi.
+
+[order]
+s1,s2,s3,s4,s5,s6

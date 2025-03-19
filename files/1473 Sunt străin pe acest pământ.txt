@@ -1,0 +1,73 @@
+[s1]
+1473.
+1.  Sunt străin pe acest pământ
+Nimeni nu ştie cât plâng
+/: Toţi cei dragi m-au părăsit
+Dar de Isus sunt iubit :/
+2.  Sunt străin în lumea asta
+Fără mamă fără tată
+Fără fraţi fără surori
+Dar am pe Isus în cer
+
+[s2]
+3.  Pentru Tine scumpe Tată
+M-au urât ai mei din casă
+Cu care m-am bucurat
+Şi-mpreună ne-am rugat
+4.  Cei din casa Ta Isuse
+Cei cu buze prefăcute
+S-au făcut stăpâni pe mine
+M-asupresc fără ruşine
+
+[s3]
+5.  Nu se pot uita la mine
+Mă privesc ca pe un tăciune
+Şi când dau mâna cu mine
+Văd în ei făţărnicie
+6.  Mă sărută şi-mi zic frate
+Dar crucea-i gata la spate
+Pregătită de-ai mei fraţi
+Cu care m-am bucurat
+
+[s4]
+7.  Şi când doi se întâlnes
+Despre mine aşa vorbesc
+La nimic să nu iau parte
+Şi mă văd fără dreptate
+8.  Sunt în ziua îndurerată
+Sunt la culmea disperată
+Sunt pe patul de durere
+Şi n-am nici o mângâiere
+
+[s5]
+9.  O Isuse Domnul meu
+Te rog vezi necazul meu
+Inima şi ochii mei
+Plâng amar sub norii grei
+10. Tu-mi eşti Doamne biruinţa
+Tu-mi eşti Doamne şi credinţa
+Tu-mi ştii dragostea de Tine
+Te rog vino lângă mine
+
+[s6]
+11.  Doamne pentru jertfa Ta
+Port rană în inima mea
+Şi-o durere fără leac
+Că nu cruţ nici un păcat
+12.  Doamne nu mă las de Tine
+Daca-aş şti că mor chiar mâine
+Mâine dac-aş fi jertfit
+Nu te las Isus iubit
+
+[s7]
+13.  Doamne sunt şi eu în lume
+Ca un om în slăbiciune
+Dar te rog ajută-mă
+Şi de toate iartă-mă
+14. Doamne-ţi mulţumesc de toate
+Şi te rog până la moarte
+Credincios vreau să rămân
+Slavă Ţie în veci AMIN.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

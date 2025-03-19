@@ -1,0 +1,27 @@
+[s1]
+Toată slava fie-a Ta Isus
+Pentru toate câte ai făcut
+/:Te-ai jertfit Isus la Golgota
+Pentru viaţa mea:/
+
+[r1]
+Cum sa-Ti mulţumesc
+Pentru că sunt mântuit
+Viaţa mi-o predau
+de azi în mâna Ta
+Fă ce vrei de acum cu ea.
+
+[s2]
+Ai răbdat în locul tuturor
+Chin, dureri, ocara din popor
+/: Pentru vina ce noi o purtăm
+Şi o merităm :/
+
+[s3]
+Îmbrăcat ai fost în suferinţi
+Şi-ai luat pedeapsa celor mulţi
+/: Dar a treia zi ai înviat
+Căci eşti Împărat :/
+
+[order]
+s1,r1,s2,r1,s3,r1

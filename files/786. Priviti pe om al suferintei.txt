@@ -1,0 +1,53 @@
+[s1]
+1. Priviţi pe om al suferinţei
+Vândut ca rob fără de preţ
+Ascuns sub valul umilinţei
+Îl leapădă cu aşa dispreţ.
+786.
+2. Nu văd nici chip, nici frumuseţe
+Nimic să-L facă de dorit
+Un miel aşa plin de blândeţe
+De toţi e însă ocolit.
+
+[s2]
+3. Ostaşii vreau să-L răstignească
+În jurul Lui strângându-se
+Se-ntreb cum să-L batjocorească
+De-a regele jucându-se.
+4. În mâini îi pun trestia slabă
+În haină roşie L-a-mbrăcat
+Îl scuipă mult, privesc cu ură
+Iar fruntea-n spini i-a-ncoronat.
+
+[s3]
+5. Nici n-am putut să-i dăm crezare
+Nici n-am ştiut puterea Lui
+Mlădiţa slabă-n pământ tare
+Crescută-n paza Domnului.
+6. La cruce toţi se îngroziră
+Când l-au văzut aşa zdrobit
+Aud apoi ce n-auziră
+Cât este el de proslăvit.
+
+[s4]
+7. Întreaga oaste îngerească
+Se-nchină Lui în ceruri sus
+Pe veci în patria cerească
+E Domn al Domnilor Isus.
+8. Cu pieptul Lui sfărâmi popoare
+Şi-n inimi face cuceriri
+El totul va schimba sub soare
+Din spini va face trandafiri.
+
+[s5]
+9. Isus ca om al suferinţei
+Ne aduce slava sa din cer
+Ascuns sub valul suferinţei
+Dezvăluie orice mister.
+10. Nici chiar în veşnica lumină
+N-a fost mai strălucit gătit
+Când mantia de sânge plină
+Cu spini pe frunte-mpodobit.
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,63 @@
+[s1]
+1135.      Fa
+Freamătul din jur ne spune
+De venirea Lui curând
+Nu mai rătăci în lume
+Mântuirea neglijând
+Suflete iubit te-ntoarce
+Astăzi la Isus să vii
+N-amâna mereu a face
+Pasul ce te-ar mântui.
+Cor:      / : Eşti pregătit da
+Eşti pregătit : /
+
+[s2]
+2.        Patima ce te robeşte
+Domnul Isus îţi va lua
+El în sânge te sfinţeşte
+Mântuire îţi va da
+Orişiunde-ndrepţi privirea
+Nimeni nu te-ar sprijini
+Caută-ţi azi mântuirea
+Căci Isus va reveni.
+Cor:      /: Eşti pregătit da
+Eşti pregătit :/
+
+[s3]
+3.        Cine-ţi doreşte bine
+Cel ce Te-a adus aici
+Duhul Sfânt lucrează-n tine
+Vrea de rău să te desprinzi
+Duhul Sfânt mai bate-odată
+Şi apoi te va lăsa
+Astăzi încă te aşteaptă
+Spune-ţi hotărârea ta.
+Cor:      /: Eşti pregătit da
+Eşti pregătit :/
+
+[s4]
+4.       Haru-ncet ne părăseşte
+Bucurii sunt tot mai mici
+Vai de cel ce zăboveşte
+Să rămână-n al său vici
+Revenirea nu-i departe
+Dacă nu poţi să veghezi
+Însă după Sfânta Carte
+În curând tu ai să-L vezi.
+Cor:      /: Eşti pregătit da
+Eşti pregătit :/
+
+[s5]
+5.       Frate ce-ai făcut cu Domnul
+Legământ că-L vei urma
+Luptă şi învinge somnul
+Azi cât stai ’naintea Sa
+Un mesaj răsună-n lume
+Iată că Eu vin curând
+Tu un Aleluia spune
+Vino Doamne mai curând.
+Cor:      /: Eşti pregătit da
+Eşti pregătit : /
+
+[order]
+s1,s2,s3,s4,s5

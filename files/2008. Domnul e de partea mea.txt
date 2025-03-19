@@ -1,0 +1,27 @@
+[s1]
+2008
+1. Domnul e de partea mea
+Atunci când trec prin încercări
+/: Când lupta este tare grea
+Isus mi-aduce mângâieri :/
+
+[s2]
+2. Domnul e de partea mea
+Atunci când sunt batjocorit
+/: Și crucea-mi este tare grea
+M-ajută Domnul meu iubit :/
+
+[s3]
+3. Domnul e de partea mea
+Când valea morții o străbat
+/: Furtuni lovesc corabia
+Îl chem pe El și sunt salvat :/
+
+[s4]
+4. Doamne ești de partea mea
+Ești harul ce Te-ai dăruit
+/: Te laud toată viața mea
+Isuse că m-ai mântuit :/
+
+[order]
+s1,s2,s3,s4

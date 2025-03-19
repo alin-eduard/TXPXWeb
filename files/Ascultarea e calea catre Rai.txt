@@ -1,0 +1,40 @@
+[s1]
+Ascultarea e calea către Rai
+Ascultarea e tot ce poti să dai
+Pe tatăl si pe mama ta
+De îi asculti tu vei vedea
+Fericire-n viată vei avea
+
+[s2]
+Cand intrebat esti, să raspunzi frumos (frumos)
+Să spui ce-i drept
+să nu fii mincinos (nu,nu)
+De îi asculti pe-ai tăi părinti
+și te supui mereu
+Să știi tu Îl asculti pe Dumnezeu.
+
+[s3]
+Ascultarea e calea catre Rai
+Ascultarea e tot ce poti sa dai
+Pe tatal si pe mama ta
+De ii asculti tu vei vedea
+Fericire-n viata vei avea
+
+[s4]
+Cand mama la culcare
+te-a trimis (tu sa te duci)
+Si sa te rogi asa cum ai promis
+(si sa te culci)
+De ii asculti pe-ai tai parinti
+si te supui mereu
+Sa stii tu Il asculti pe Dumnezeu.
+
+[s5]
+Ascultarea e calea către Rai
+Ascultarea e tot ce poti sa dai
+Pe tatăl si pe mama ta
+De îi asculti tu vei vedea
+Fericire-n viata vei avea
+
+[order]
+s1,s2,s3,s4,s5

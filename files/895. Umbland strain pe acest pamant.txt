@@ -1,0 +1,47 @@
+[s1]
+895.
+1.  Umblând străin pe acest pământ
+Rostind al său cuvânt
+Domnul ne-a spus prin Duhul Sfânt
+Că ne-a răpi-n curând.
+Cor:	Doamne mult doresc acea zi
+Când pe nori la tine voi veni
+Ca să fim la aceeaşi masă
+Unde sunt bucate alese
+O Doamne la tine acasă.
+
+[s2]
+Cor:	Doamne mult doresc acea zi
+Când pe nori la tine voi veni
+Ca să fim la aceeaş masă
+Unde sunt bucate alese
+O Doamne la tine acasă.
+2.  Atunci voi gusta şi eu
+Din rodul viţei lui Isus
+Când a spus că nu-l va bea
+Cu noi până-n cer sus.
+
+[s3]
+3.  Cu Avraam, Isaac şi Iacov
+Vom fi împreună
+Lacrima va şterge El
+Cu a Sa mână.
+Cor:	Doamne mult doresc acea zi
+Când pe nori la tine voi veni
+Ca să fim la aceeaş masă
+Unde sunt bucate alese
+O Doamne la tine acasă.
+
+[s4]
+4.  Atunci voi gusta şi eu
+Din rodul viţei lui Isus
+Ca oaspete al Mielului
+La masa Tatălui.
+Cor:	Doamne mult doresc acea zi
+Când pe nori la tine voi veni
+Ca să fim la aceeaş masă
+Unde sunt bucate alese
+O Doamne la tine acasă.
+
+[order]
+s1,s2,s3,s4

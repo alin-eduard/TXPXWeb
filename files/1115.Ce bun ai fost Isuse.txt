@@ -1,0 +1,53 @@
+[s1]
+1.         Ce bun ai fost Isuse
+Căci pacea Tu mi-ai dat
+Şi veşnica viaţă
+Prin sângele-Ţi vărsat
+Asupra Ta dispreţul
+Batjocura şi chinul
+Ai murit pentru noi
+Spre a ne înnoi destinul
+1115 Mi m
+
+[r1]
+Cor:	Cum vom putea să-Ţi mulţumim
+Pentru acest bine ce-l primim
+Suntem săraci n-avem ce-Ţi da
+Isuse ştii prea bine
+/:Chiar dacă am plânge neîncetat
+Pe acest pământ înstrăinat
+Ce mii de lacrimi l-au udat
+Tot n-am fi demni de Tine : /
+
+[s2]
+2.             Ai îndurat ocara
+Şi bice fără număr
+Apoi Ţi-am dat şi crucea
+S-o duci pe al Tău umăr
+Cu fruntea-nsângerată
+Sub cununa de spini
+Urcai Isuse drumul
+Tăcut printre străini.
+
+[s3]
+3.            Zdrobit de suferinţă
+Pe lemn Te-au pironit
+Dar Tu spre ei Isuse
+Cu milă ai privit
+Te-ai dus astfel la moarte
+C-apoi să ne primeşti
+Şi prin al Tău scump sânge
+Tu să ne mântuieşti.
+
+[s4]
+Cor:    Nu suntem demni să Te urmăm
+Dar n-avem unde să plecăm
+Împovăraţi de-amar şi chin
+Suntem Tu ştii prea bine
+/:Dar prin a Ta milă Isus
+Tu să ne iei la Tine sus
+De pe-acest pământ străin
+Să locuim cu Tine : /
+
+[order]
+s1,r1,s2,r1,s3,s4

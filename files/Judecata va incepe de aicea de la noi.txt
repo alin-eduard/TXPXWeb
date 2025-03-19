@@ -1,0 +1,63 @@
+[s1]
+Judecata va începe
+de aicea de la noi
+Fraţilor cu toţi de astăzi
+să nu mai privim ´napoi
+Să căutăm ca să ne umplem
+candelele cu ulei
+În curând pe nori de slavă
+Domnul vine dup-ai Săi
+La M
+
+[r1]
+Aleluia! Maranata!
+Domnul vine ca să-şi ia
+Îmbrăcată-n in subţire,
+Mireasa Biserica
+Aleluia! Vino Doamne!
+Să strigâm toţi ce-L iubim
+Şi dorim în strălucire
+cu Isus sa ne-ntalnim.
+
+[s2]
+Suntem turma Lui iubita
+şi Isus ne e păstor
+Nu ne ducem după vocea
+oricărui învăţător
+Duhul ne călăuzeşte
+şi aşa ne bucurăm
+Vino Doamne mai degrabă!
+Cu totii Te aşteptăm.
+
+[s3]
+Suntem miei pe care
+Domnul în mijlocul lupilor
+Ne-a trimis să ducem vestea:
+Domnul e Mântuitor
+Să nu obosim în luptă
+Domnul ne va întări
+Şi prin braţul Lui puternic
+noi ştim că vom birui.
+
+[s4]
+Nu ne temem nu ne-e frică
+de armata celui rău
+Avem scut şi sprijin tare
+numele Lui Dumnezeu
+Şi de partea noastră luptă
+îngerii-n cară de foc
+Deci cu Domnul înainte
+nu ne-nspăimântăm deloc.
+
+[s5]
+Pocăinţă cere Domnul,
+Haideţi să ne pocăim
+Să ne-ntoarcem la scriptură
+şi cu toti să ne smerim
+Să luptăm lupta cea bună
+cum îi place Domnului
+Fluturând mai sus drapelul
+biruinţei Mielului.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,42 @@
+[s1]
+Vine-o zi cand s-or sfarsi
+necazuri si-ncercari
+Vine-o zi cand n-or mai fi dureri
+Vine-o zi cand n-or mai fi
+lacrimi si suspin
+Vine-o zi cand vom scapa de chin.
+
+[r1]
+/: Mai sus de nori, mai sus de astre
+Dincolo de zarile albastre
+este Paradisul minunat
+acolo vreau sa fiu si eu cu Isus,
+cu Domnul meu
+Unde-n veci domneste ca-mparat :/
+
+[s2]
+Vine-o zi cand vom fi
+cu Domnu-n vesnicie
+Vine o zi, o zi de veselie
+In curand de pe Pamant
+vom zbura spre cer
+Vom zvura spre Rai sa fim cu El
+
+[s3]
+/: Mai sus de nori, mai sus de astre
+Dincolo de zarile albastre
+este Paradisul minunat
+Acolo vreau sa fiu si eu cu Isus,
+cu Domnul meu
+Unde-n veci domneste ca-mparat :/
+
+[s4]
+Ce frumos, ce glorios
+va fi cand vom pleca
+Spre alte zari cu totii vom zbura
+Cu Isus ce ne-a promis
+ca ne va lua
+Sa fim pe veci Mireasa Sa
+
+[order]
+s1,r1,s2,s3,s4,r1

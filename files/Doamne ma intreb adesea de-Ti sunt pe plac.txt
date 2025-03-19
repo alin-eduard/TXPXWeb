@@ -1,0 +1,35 @@
+[s1]
+Doamne ma intreb adesea
+de-Ti sunt pe plac,
+De prin purtarea ce-o am in lume, voia Ta fac.
+Ma intreb adesea, de a mea vointa e si a Ta,
+De urma-Ti Sfanta si a Ta carare e azi a mea.
+
+[r1]
+/: Oare gasesti placere
+cand jos privesti
+Sau plangi ca-n mine
+rod nu gasesti. :/
+
+[s2]
+Doamne oare vesmantul
+imi e frumos,
+Oare gandirea imi e condusa de Tin' Hristos.
+Oar' vede lumea in Tine chipu-Ti stralucitor,
+Oar' recunoaste ca sunt din Tine scump Salvator.
+
+[s3]
+Doamne revarsa-Ti
+duhul in viata mea,
+Sa calc pe cale, pe-a Tale urme spre tara Ta.
+Si sa cunoasca intreaga lume ca Tata-mi esti,
+Iar cand din ceruri privesti placere, Tu sa gasesti.
+
+[s4]
+/: Vreau sa gasesti placere
+cand jos privesti
+Si-n viata-mpurur
+rod sa gasesti. :/
+
+[order]
+s1,r1,s2,r1,s3,s4

@@ -1,0 +1,36 @@
+[s1]
+Iubirea mă cheamă aproape
+Să fim amândoi
+Să iubim în viaţă noi toţi
+Suntem datori.
+
+[r1]
+Haideţi toţi să strigăm
+Pe Isus să-L-nălţăm
+Pentru El de azi să cântăm.
+//: Iubire, speranţă, nădejde
+În mine-ai aprins
+Cu Tine alături plutesc
+Într-o lume de vis
+Viaţa Tu mi-ai schimbat,
+Fericire în Tine-am aflat
+Zi de zi împreună,
+În viaţă, va fi minunat! ://
+
+[s2]
+Iubire divină, rămâi în mine mereu
+Elixirul iubirii cereşti în sufletul meu.
+Doar prin Tine exist
+Chiar şi-atunci când sunt trist
+Cu Tine, până-n Paradis.
+
+[s3]
+Alături de Isus în viaţă nu este greu
+Eu, grijuri, necazuri, ispite
+Cu Domnul înving cu Domnul
+Doar prin Tine exist
+Chiar şi-atunci când sunt trist
+Cu Tine până-n Paradis.
+
+[order]
+s1,r1,s2,r1,s3,r1

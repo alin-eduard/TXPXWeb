@@ -1,0 +1,66 @@
+[s1]
+2025
+1. Zidește astăzi un altar
+Din aur și din pietre scumpe
+Ridică-ți mâinile spre cer
+Și cheamă-Mă în rugăciune
+În rugăciuni stăruitoare
+Tu să Mă chemi neîncetat
+Căci te voi asculta din ceruri
+Când vei fi suflete-ncercat.
+
+[s2]
+2. Tu să mă strigi plin de credință
+În numele Fiului Meu
+Că-ți voi trimite biruință
+Căci Eu sunt Dumnezeul tău.
+Eu voi avea milă de tine
+Dacă tu Mă vei asculta
+Eu îți voi da înțelepciune
+Pe cale să Mă poți urma.
+
+[s3]
+3. Nu te uita la omul care
+Cu piatra azi lovește-n tine
+Pentru că iubești adevărul
+Și vrei să Mă slujești pe Mine
+Nădăjduiește azi în Mine
+Încrede-te în sfatul Meu
+Căci Eu voi lupta pentru tine
+Eu voi fi ajutorul tău.
+
+[s4]
+4. Să suferi cu multă răbdare
+Când ai să fii batjocorit
+Să nu te întristezi pe cale
+Că ești urât disprețuit
+Fii azi un vas plin de lumină
+Un vas sfințit folositor
+Și mână-n mână azi cu Mine
+Lucrează în al Meu popor.
+
+[s5]
+5. Tu cercetează azi Scriptura
+Și strânge-n inimă Cuvântul
+Trăiește azi doar pentru Mine
+Și întărește-ți legământul
+Să nu-ți lipsească untdelemnul
+Din candelă și vasul tău
+Fii plin de râvnă azi pe cale
+Căci ești născut din Dumnezeu.
+
+[s6]
+6. Să umbli îmbrăcat pe cale în haină
+Albă nepătată și faptele neprihănirii
+Să-ți umple inima curată
+Desăvârșit să fii în toate
+Mereu să faci doar voia Mea
+Și la sfârșit de alergare
+În ceruri te voi strămuta
+Cu toți acei ce-n astă lume
+Au împlinit cuvântul sfânt
+Tu te vei bucura în ceruri
+Cu Cel ce este veșnic sfânt.
+
+[order]
+s1,s2,s3,s4,s5,s6

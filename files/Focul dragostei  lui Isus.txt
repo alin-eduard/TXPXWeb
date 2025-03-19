@@ -1,0 +1,26 @@
+[s1]
+Focul dragostei lui Isus
+A cuprins poporul sfânt,
+Astfel şi el luminează
+Pretutindeni pe pământ.
+
+[r1]
+Deci aşa să luminaţi toţi,
+Înaintea tuturor
+Ca în ţara păcii sfinte
+Să ajungă mult popor!
+
+[s2]
+O, ce mare-ntunecime,
+Valul mării-i furios,
+Mulţi privesc cu nerăbdare
+După farul luminos.
+
+[s3]
+Felinarele vă umpleţi
+Cu-al iubirii sfânt ulei,
+Multe suflete pierdute,
+Calea vor afla prin voi!
+
+[order]
+s1,r1,s2,r1,s3,r1

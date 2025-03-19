@@ -1,0 +1,29 @@
+[s1]
+2047
+1. Nu sunt spre cer doar zile bune
+Nu-ntotdeauna e ușor
+Dar pot răzbi în astă lume
+Când Domnul mi-e îndrumător
+
+[r1]
+Cor: Eu nu mă tem, El e cu mine
+Isus mi-e sprijin și-ajutor
+În brațul Său mereu mă ține
+Cu El eu sunt mai mult biruitor
+
+[s2]
+2. Nu-i către cer doar bucurie
+Când ești pândit
+de-un crunt dușman
+Nu-s oaze multe în pustie
+Când vrei s-ajungi în Canaan.
+
+[s3]
+3. Spre cer e ceas de ceas
+doar luptă
+Doar cu Isus poți `nainta
+Căci calea-aceasta e îngustă
+Nu poți să faci ce vrei pe ea.
+
+[order]
+s1,r1,s2,r1,s3,r1

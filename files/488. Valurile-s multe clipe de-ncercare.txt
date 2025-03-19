@@ -1,0 +1,50 @@
+[s1]
+Valurile-s multe
+Clipe de-ncercare
+Ţinta noastră-i sus,
+Noi nu vom dispera
+Peste noi de-ar trece,
+El ne dă salvare
+Din valurile lumii El ne va scăpa.
+488.                							  Re m
+
+[r1]
+Cor:	/: Cu steagul către ţintă
+Hai cu toţi acum
+Cu toţii să pornim la drum
+Căci Domnul ne aşteaptă
+Să ne bucurăm
+În slava Lui
+Cu toţii să intrăm. :/
+
+[s2]
+2. Piedici cât de multe
+De-ar veni pe cale
+Ţinta noastră-i sus,
+Noi nu vom dispera
+Cu cât va fi mai greu,
+Cununa e mai mare
+Mult mai mult putere
+Noi vom căpăta.
+
+[s3]
+3. Să-ntărim cu toţii
+a dragostei cale
+Ţinta noastră-i sus,
+Noi nu vom dispera
+Cu cât noi vom iubi
+Ura va dispare
+Iar noi cu Isus ne vom bucura.
+
+[s4]
+4. Deci cu toţi să fim noi
+azi uniţi pe cale
+Ţinta noastră-i sus,
+Noi nu vom dispera
+Căci răsplata noastră-n
+Ceruri este mare
+Deci cu toţii astăzi
+Vă iubiţi ca fraţi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

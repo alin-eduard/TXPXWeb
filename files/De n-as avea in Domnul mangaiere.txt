@@ -1,0 +1,26 @@
+[s1]
+De n-aş avea în Domnul mângâiere
+Aici în valea umbrei morţii reci,
+Prin harul Lui de nu mi-ar da putere,
+N-ar fi scăpare-n veci.
+
+[s2]
+În noaptea lumii, fără de lumină,
+Plângând, zadarnic tot aş căuta,
+Căci n-aş găsi iubire-aşa deplină
+Cum e iubirea Sa!
+
+[s3]
+Cântarea mea spre Tine se înalţă
+Căci m-ai născut din nou prin legământ,
+Ca fiu al Tău Tu m-ai primit acasă
+Mi-ai dat un nou veşmânt…
+
+[s4]
+De Legea Ta ascult cu voioşie
+Până ce ochii mei Te vor vedea,
+Atunci voi fi cu Tine pe vecie
+În bucuria Ta!
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,25 @@
+[s1]
+În fie-ce lucru frumos de sub cer
+Un strop de lumină e pus
+Şi sufletul meu de-o minune e plin
+Că-ntr-o zi voi vedea pe Isus
+
+[r1]
+Într-o zi (într-o zi)
+Într-o zi (într-o zi)
+Într-o zi voi vedea pe Isus
+
+[s2]
+Privirea de-o nalţ in splendoarea de zori
+Genunchiul de-mi plec în apus
+Mireasmă cerească e-n inima mea
+Că-ntr-o zi voi vedea pe Isus
+
+[s3]
+Că nu ştiu cercări, cât de grele vor fi
+Povara de lacrimi de dus
+Nimic nu îmi stinge lumina din gând
+Că-ntr-o zi voi vedea pe Isus
+
+[order]
+s1,r1,s2,r1,s3,r1

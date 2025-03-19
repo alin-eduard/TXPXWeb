@@ -1,0 +1,38 @@
+[s1]
+Cu crucea-n spate El mergea
+În locul tău şi-al meu...
+Durerea morţii-a suferit
+Fiul lui Dumnezeu.
+
+[r1]
+/: Ah, cât a suferit
+Isus, când S-a jertfit
+În schimb, tu ce i-ai dat
+Că te-a răscumpărat? :/
+
+[s2]
+A fost bătut și-a fost scuipat,
+În locul tău şi-al meu...
+Cununa de spini a purtat
+Fiul lui Dumnezeu.
+
+[s3]
+In faţă mereu Îl băteau,
+În locul tău şi-al meu...
+Pe spate alţii-L biciuiau,
+Pentru păcatul meu.
+
+[s4]
+Şi-aşa urcând cu crucea grea,
+În locul tău şi-al meu,
+Pân-a ajuns, la Golgota,
+Fiul lui Dumnezeu.
+
+[s5]
+Nu vrei să ştii ce a făcut
+Isus, în locul tău?
+Muri pe cruce  la Calvar,
+Să fii scăpat de rău!...
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

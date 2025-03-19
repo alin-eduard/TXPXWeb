@@ -1,0 +1,36 @@
+[s1]
+Suntem straini pe-acest pamant
+Suntem pribegi in lumea aceasta
+Calatorind inspre Canaan
+Avem cu totii o nadejde
+Si stim ca vine ziua cand
+Ne vom vedea dincolo de Iordan
+
+[r1]
+/: Ne vom vedea acolo
+sus pe nori de Slava
+Ne-om intalni
+cand trambita va rasuna
+Ne vom vedea pe acele
+plaiuri minunate
+In Paradis in cerul sfant
+...ne vom vedea :/
+
+[s2]
+Din orice neam si orice popor
+Cei ce l-au slujit pe Domnul
+Vom fi atunci la marea sarbatoare
+Mai sus de cerul instelat
+Mai sus de galaxii si astre
+Ne vom vedea cu Domnul in ziua mare
+
+[s3]
+Si vom petrece vesnicia
+Vom fi in tara glorioasa
+Cu Isus ce ne-a rascumparat
+El ne-a promis ca ne va duce
+In locul pregatit de El
+Sa fim pe veci cu Domnul Preainalt
+
+[order]
+s1,r1,s2,r1,s3,r1

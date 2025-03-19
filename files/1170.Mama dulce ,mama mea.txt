@@ -1,0 +1,58 @@
+[s1]
+1170.
+1.      Mamă dulce mama mea
+Domnul harul Lui să-ţi dea
+Eu în veci voi mulţumi
+Că mult mai putut iubi
+Mamă dulce mama mea.
+
+[s2]
+2.     Viaţă-n lume când mi-ai dat
+Tu m-ai binecuvântat
+Rugându-te la Hristos
+Să mă facă credincios
+Mamă dulce mama mea.
+3.     Dar eu mamă cum creşteam
+De Hristos mă-nstrăinam
+Calea sfântă n-am iubit
+Vorba ţi-am nesocotit
+Mamă dulce mama mea.
+
+[s3]
+4.      Eu mergeam la rău cântând
+Tu în genunchi stăteai plângând
+Şi când noaptea mă întorceam
+Tot rugându-te te aflam
+Mamă dulce mama mea.
+5.      Eu râdeam spre lumea rea
+Ţie inima-ţi plângea
+Numai singur Dumnezeu
+Ştie cât ţi-a fost de greu
+Mamă dulce mama mea .
+
+[s4]
+6.     Dar când Domnul s-a îndurat
+Plânsul tău l-a ascultat
+A mea inimă s-a frânt
+Şi-am pus sfântul legământ
+Mamă dulce mama mea.
+7.      O ce mul te-ai bucurat
+Când la Domnul m-am predat
+Tu cu lacrimi mulţumeai
+Şi pe Domnul lăudai
+Mamă dulce mama mea.
+
+[s5]
+8.      Şi de-atunci şi azi mereu
+Te mai rogi la Dumnezeu
+Să mă ajuţi în lucrul sfânt
+Cum i-am pus eu legământ
+Mamă dulce mama mea.
+9.      Eu în veci îţi sunt dator
+Şi îţi voi mulţumi cu dor
+Domnul Dumnezeu să-ţi dea
+Dulce împărăţia Sa
+Mamă dulce mama mea .
+
+[order]
+s1,s2,s3,s4,s5

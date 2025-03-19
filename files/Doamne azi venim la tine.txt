@@ -1,0 +1,32 @@
+[s1]
+Doamne azi venim la Tine,
+cu acest copil iubit ,
+Ca să-l porţi pe mâini divine,
+In al Tău har nesfârşit
+
+[r1]
+Te rugăm azi bun părinte,
+Ca din slava Ta de sus,
+Să-l îmbraci cu daruri sfinte,
+In numele lui Isus
+
+[s2]
+Faţa Ta să lumineze,
+todeauna asupra sa,
+Si-al Tau spirit nu-nceteze,
+spre a-l binecuvânta.
+
+[s3]
+Mâna Ta ocrotitoare
+fie-n veci asupra lui,
+Ca în orice-mprejurare
+să fie al Domnului
+
+[s4]
+Viaţa lui să-Ti aparţină,
+ca un sfetnic credincios,
+Până-n ţara de lumină,
+unde soare e Hristos
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

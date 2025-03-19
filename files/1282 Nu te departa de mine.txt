@@ -1,0 +1,55 @@
+[s1]
+1282.
+Nu te depărta de mine
+Prea iubitul meu Isus
+/ : Că nu mai găsesc pe nimeni
+Să-mi fie de ajutor : /
+1.
+
+[s2]
+Tu eşti Martorul din cer
+Ce priveşte mereu spre mine
+/ : Eu nu pot să fac nimic
+Doamne despărţit de Tine : /
+Cor:	      Vreau să stau pe braţul Tău
+Să uit necazul meu
+Tu să-mi ştergi lacrima
+Isus cu mâna Ta
+Eu vreau să stau pe braţul Tău
+Să uit necazul meu
+Tu să-mi ştergi lacrima
+Isus cu mâna Ta
+2.
+
+[s3]
+Cor:	 Vreau să stau pe braţul Tău
+Să uit necazul meu
+Tu să-mi ştergi lacrima
+Isus cu mâna Ta
+Eu vreau să stau pe braţul Tău
+Să uit necazul meu
+Tu să-mi ştergi lacrima
+Isus cu mâna Ta
+Doamne Tu să-mi fii Păstor
+Şi eu oaia turmii Tale
+/ : Doar o vorbă să-Ţi mai spun
+Şi-mi vei fi de alinare : /
+3.
+
+[s4]
+Cor:	     Vreau să stau pe braţul Tău
+Să uit necazul meu
+Tu să-mi ştergi lacrima
+Isus cu mâna Ta
+Eu vreau să stau pe braţul Tău
+Să uit necazul meu
+Tu să-mi ştergi lacrima
+Isus cu mâna Ta
+Isuse Te-aştept mereu
+Care vrem să Te slăvim
+/ : Şi cu palma Ta străpunsă
+Inima să mi-o mângâi : /
+4.
+
+[order]
+s1,s2,s3,s4

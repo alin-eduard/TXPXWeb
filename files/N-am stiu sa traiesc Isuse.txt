@@ -1,0 +1,29 @@
+[s1]
+Nu am stiut sa traiesc Isuse
+Mult mai aproape de iubirea Ta
+Dar am vazut cum in clipe grele
+Tu m-ai purtat in mana Ta.
+
+[s2]
+/:Tot ce locuieste in mine
+Doamne azi iti apartine
+Vreau sa fiu mult mai aproape
+De dragostea Ta.
+Tot ce locuieste in mine
+Doamne azi iti apartine
+Vreau sa fiu mult mai aproape
+De inima Ta.:/
+
+[s3]
+N-am inteles ce inseamna iubirea
+Revarsata din Tin in fiinta mea
+Dar astazi simt, Tu esti langa mine
+Vreau sa traiesc in prezenta Ta.
+
+[s4]
+/:Fa-ma sa traiesc
+Langa inima ta
+Prin Dragostea ta :/
+
+[order]
+s1,s2,s3,s4

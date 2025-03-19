@@ -1,0 +1,40 @@
+[s1]
+El e pentru mine,
+El e pentru tine
+El Isus e dragostea,
+El e pentru mine,
+El e pentru tine
+El Isus e pacea mea.
+
+[r1]
+El e primavara,
+El deschide floarea,
+El este miscarea,
+El, El, El e primavara!
+
+[s2]
+El aduce ploaia,
+El aduce voia
+El Isus e viata mea,
+El da si arsita,
+El da si vointa
+El Isus poate-nvia.
+
+[s3]
+El face sa creasca,
+cîmpul sa-nverzeasca,
+Înoieste inima,
+El da si furtuna,
+El da si cununa,
+El învinge firea mea
+
+[s4]
+El cinsteste omul,
+El e Creatorul,
+Da suflare tuturor,
+El e viitorul
+Îti stîmpara dorul
+El este iubirea mea.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

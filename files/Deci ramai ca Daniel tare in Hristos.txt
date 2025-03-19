@@ -1,0 +1,41 @@
+[s1]
+Deci, ramai ca Daniel
+tare in Hristos!
+Fii si altora model
+de om credincios!
+Foarte multi, azi formalisti,
+ce nu cred defel
+Vor ramane rusinati,
+de nu-s ca Daniel.
+
+[s2]
+Lui Daniel s-au 'mpotrivit oamenii cei rai
+Si el a fost aruncat
+in groapa cu lei.
+El ferestrele-a deschis,
+spre Ierusalim,
+Si-n genunchi striga
+mereu catre Dumnezeu.
+
+[s3]
+Vezi, Daniel cum s-a rugat
+in odaia sa?
+De trei ori pe zi striga
+si nu se temea!
+Dumnezeu l-a ascultat
+si cu drag i-a zis,
+Ca: „esti scump si preaiubit
+si te-am izbavit".
+
+[s4]
+Ca Daniel sa fiti mereu
+pilda de urmat!
+Bine stiti cum Dumnezeu
+l-a binecuvantat.
+'Nalta steagul lui Hristos
+si Lumina Sa,
+Ca Satana e fricos
+si nu va rezista!
+
+[order]
+s1,s2,s3,s4

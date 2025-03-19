@@ -1,0 +1,44 @@
+[s1]
+1. Dintr-un izvor /: sânge curge :/
+Pentru cei păcătoşi
+Acest izvor /: minuni face :/
+Spală pe păcătos.
+Cor:Pentru mine încă a curs
+Credinţa mă ţine
+Ce mult bine mi-a dat Hristos
+Murind pentru mine.
+452. Si
+
+[s2]
+2. Acest izvor /: a fost aflat :/
+De tâlhar pe cruce
+Spălându-se /: în el acum :/
+Şade-n înălţime.
+Cor:Pentru mine încă a curs
+Credinţa mă ţine
+Ce mult bine mi-a dat Hristos
+Murind pentru mine.
+
+[s3]
+3. Mielule Sfânt, /: sângele tău :/
+Mai are putere,
+Varsă spre noi
+/: Duhul cel Sfânt :/
+Ce toate-noieşte.
+Cor:Pentru mine încă a curs
+Credinţa mă ţine
+Ce mult bine mi-a dat Hristos
+Murind pentru mine.
+
+[s4]
+4. În păcate /: zăceam şi eu :/
+Însă m-a vindecat
+Sângele Lui, /: la care eu :/
+Cuget neîncetat.
+Cor:Pentru mine încă a curs
+Credinţa mă ţine
+Ce mult bine mi-a dat Hristos
+Murind pentru mine.
+
+[order]
+s1,s2,s3,s4

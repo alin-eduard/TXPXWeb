@@ -1,0 +1,63 @@
+[s1]
+Amar Îţi era sufletul,
+O, Mielule divin
+Când ai intrat în Ghetismani,
+Să-L rogi pe Tatăl Sfânt;
+“De-i cu putinţă
+Ca paharul greu să treacă,
+Dar totuşi, voiaTa,
+O, scumpe Tată să se facă!”
+746.  Sol b M
+
+[r1]
+Cor:	O, du-mă Doamne
+Şi pe mine-n Ghetismani,
+Şi să-mi arăţi şi mie
+Unde Te-ai rugat,
+Du-mă la Golgota
+Pe sinistrul munte,
+Ca să plâng la cruce
+Unde ai răbdat!
+
+[s2]
+2. Noi nu-i cunoaştem preţul
+Şi nici nu-l vom şti nicicând
+Vându-tu-L-ai tu, Iudo
+Pentru cei treizeci de-arginţi
+Intrară în grădină
+O ceată mare de duşmani,
+Te prinseră şi te legară
+Ca pe un tâlhar.
+
+[s3]
+3. O, dimineaţă pustie,
+Şi noaptea dispăru,
+E învelită în misterul
+Albei dimineţi;
+Privighetoarea tristă
+Nu-şi mai cântă vechiul glas,
+Căci în grădina Ghetismani
+Doar lacrimi au rămas.
+
+[s4]
+4. Îngenunchiat cu crucea-n spate
+Şi cununi de spini,
+Fiul omului pe munte
+Rabdă-ntre străini
+Calvarul suferinţei
+Nemiloase a urcat,
+Trupul e atârnat pe cruce,
+Sângele-I vărsat.
+
+[s5]
+5. Mi-au străbătut cuiele carnea,
+Sângele-a curs văi
+“N-am făcut-o pentru Mine,
+Ci pentru voi cei răi.
+Şi dacă credeţi în mine
+Şi-n jertfa din Calvar,
+Vă dăruiesc, iertare,
+Viaţă veşnică în dar!”
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,61 @@
+[s1]
+Israel de demult cu sirienii
+Se-afla în luptă grea împresurat
+Sărmani apărători, samaritenii,
+De oşti duşmane erau puternic strâmtoraţi
+
+[s2]
+In lăuntru foametea îi mistuia
+Afară oastea cea duşmană îi pândea.
+Ei se vedeau pierduţi,
+cu moartea-n faţă
+Din nici o parte scăpare
+nimeni nu vedea.
+
+[s3]
+Iar împăratul lor, Ioram vorbeşte:
+,, De vină-I Dumnezeu că pătimim ”.
+Spre Elisei îl văd cum se grăbeşte
+Cu multă grijă;
+aşteaptă scena să privim.
+
+[s4]
+Şi vina a căzut pe Elisei
+Proorocu-i cauza
+pentru care suferă ei.
+Să îl ucidă vor,
+crezând c-atuncea
+Scăpaţi ei fi-vor
+de sirienii cei mişei.
+
+[s5]
+Proorocul Elisei ridică mâna
+Şi proorocind a spus ce va urma.
+Şi cum c-a doua zi va fi minunea
+Cănd fiecare, chiar din prisos,
+el va avea.
+
+[s6]
+Dar este greu să crezi;
+cum s-ar putea?
+Ferestre-n ceruri Domnul
+chiar de ar avea.
+Cu ochii vei vedea minune-aceasta
+Dar necredinţa te va opri
+să guşti din ea.
+
+[s7]
+De-atâtea ori şi azi prin necredinţă
+De harul Domnului noi ne lipsim.
+Cu mintea zicem că-i cu neputinţă,
+Căci la puterea lui Dumnezeu noi nu privim.
+
+[s8]
+De vrei să fii plăcut lui Dumnezeu
+Va trebui să crezi
+Cuvântul Său mereu.
+Cuvântul Domnului e ,,Da şi Amin”
+Deci te încrede deplin în Domnul Dumnezeu.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

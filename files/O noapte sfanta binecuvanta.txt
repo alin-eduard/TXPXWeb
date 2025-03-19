@@ -1,0 +1,44 @@
+[s1]
+O noapte sfanta binecuvantata
+Isus in iesle umil s’a nascut
+In lumea de pacate framantata
+Mantuitorul azi s’a coborat
+Speranta-n sufletul trudit rasare
+A zorilor, lumina straluceste
+
+[s2]
+Ingenunchiat
+E ceru’n sarbatoare
+/:Multimi de ingeri azi
+Il preamaresc:/
+
+[s3]
+Condusi de stea spre ieslea Lui saraca
+Si noi ca magii adanc ne smerim
+Vrem darul nostru, pruncului sa placa
+Intreaga viata Lui o daruim
+El Rege’al Regilor sta intr’o iesle
+Simtind din plin necazul nostru greu
+
+[s4]
+Glorie Lui
+El printre noi traieste
+/:Si chiar in iesle El,
+E Dumnezeu:/
+
+[s5]
+Ne’a aratat iubirea jerfitoare
+Cu pace El venit pe pamant,
+Nu vor fi robi, nici lanturile’amare
+Nici asuprire’n-al Sau Nume Sfant
+Cantari de multumire sa’I aducem
+Slavitul nume vesnic sa’L cinstim
+
+[s6]
+El este Domn
+Hristos in veci e Rege
+/:Iubirea, Slava Lui
+O preamarim:/
+
+[order]
+s1,s2,s3,s4,s5,s6

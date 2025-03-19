@@ -1,0 +1,30 @@
+[s1]
+Cînd am fost căzut pe drumuri
+Toţi m-au ocolit
+Dar Isus ce mă iubise a venit.
+M-a luat atunci de mînă, m-a ridicat
+Rănile de pe trup El le-a legat.
+
+[r1]
+Ce blîndeţe El atunci mi-a arătat !
+Bunăvoie ca să fiu salvat.
+Pentru tot ce-ai făcut
+Nu pot să-Ţi mulţumesc
+Viaţa mea Ţi-o dăruiesc.
+
+[s2]
+Cînd am fost lovit de soartă
+Toţi m-au părăsit
+Dar Isus ce mă iubise a venit.
+M-a luat atunci la Sine, m-a ridicat
+Pacea Lui în inimă El mi-a lăsat.
+
+[s3]
+Cînd am fost căzut pe drumuri
+Toţi m-au ocolit
+Dar Isus ce mă iubise a venit.
+M-a luat atunci de mînă, m-a ridicat
+Pacea Lui în inimă El mi-a lăsat.
+
+[order]
+s1,r1,s2,r1,s3,r1

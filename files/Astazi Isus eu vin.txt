@@ -1,0 +1,26 @@
+[s1]
+Azi, Isus, eu vin
+Ţie să mă-nchin;
+Ştiu că mă iubeşti
+Şi cu drag m-aştepţi.
+
+[r1]
+Numai la Tine, eu voi afla
+Mântuire-n jertfa de la Golgota;
+Numai la Tine eu voi găsi
+Veşnicul izvor de bucurii.
+
+[s2]
+Astăzi îţi deschid
+Uşa inimii.
+Intră Tu în ea!
+Lasă pacea Ta!
+
+[s3]
+Ştiu că, într-o zi,
+Tu vei reveni
+Şi Te voi vedea,
+Doamne,-n slava Ta.
+
+[order]
+s1,r1,s2,r1,s3,r1

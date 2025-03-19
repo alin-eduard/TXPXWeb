@@ -1,0 +1,51 @@
+[s1]
+Fii mereu cu ochii sus
+Tu a lui Hristos Mireasă
+/ : Căci aproape-i ziua când
+Să pleci sus la El acasă : /
+Verifică-ţi azi candela
+Untdelemn să ai în vas
+/ : Ca să nu rămâi afară
+Când vine-al răpirii ceas : /
+1.
+2.
+1252
+
+[s2]
+Nu umbla pe căi deşarte
+Ia seama mereu la tine
+/ : Că nu vei intra la nuntă
+Îmbrăcând haine străine : /
+Uită-te pe lângă tine
+Dacă haina ţi-e curată
+/ : Strigă la Isus şi roagă-l
+Ca s-o poţi păstra curată : /
+3.
+4.
+
+[s3]
+De-i pătată vino astăzi
+Roagă-te acum şi plânge
+/ : Strigă la Isus cu lacrimi
+Să ţi-o spele-n a Lui sânge : /
+Vino azi şi schimbă-ţi viaţa
+Dup-a lui Hristos cuvânt
+/ : Trăind în neprihănire
+Toată viaţa pe pământ : /
+5.
+6.
+
+[s4]
+Vei uita pe totdeauna
+Plânsul tău de-aici de jos
+/ :  Când te vei vedea odată
+Sus în Slavă cu Hristos : /
+Vino Doamne strigă astăzi
+Duhul şi a Ta Mireasă
+/ : Vino, vino mai degrabă
+Să ne duci la Tine acasă : /
+7.
+8.
+
+[order]
+s1,s2,s3,s4

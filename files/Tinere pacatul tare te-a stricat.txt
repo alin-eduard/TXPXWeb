@@ -1,0 +1,38 @@
+[s1]
+Tinere, păcatul tare
+te­-a stricat,
+Ieşi acum din noaptea
+Ce te-­a­-mpresurat;
+Lasă, lasă grabnic
+Cuibul de păcat,
+Iată­ aici un loc frumos
+Şi luminat!
+
+[r1]
+Vezi, Isus te caută, nu Îl refuza,
+Dă­-I degrabă viaţa ta, nu­-ntârzia,
+Tinere, urmează pe Isus Hristos,
+Viitorul tău atunci va fi frumos!
+
+[s2]
+Pentru ce iubeşti
+Plăcerile ce trec?
+Lasă locul unde
+Cei stricaţi petrec!
+Cel rău te cuprinde
+Şi te vrea legat
+Dar va râde-­odată
+Că te­-a înşelat!
+
+[s3]
+Vezi cum pentru tine
+Mama plânge­-acum,
+Fraţii tăi te roagă
+Să te­-ntorci din drum;
+De cei răi te lasă,
+Nu mai amâna,
+Mântuie­ţi degrabă
+tinereţea ta!
+
+[order]
+s1,r1,s2,r1,s3,r1

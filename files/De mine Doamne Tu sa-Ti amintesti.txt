@@ -1,0 +1,27 @@
+[s1]
+De mine, Doamne, Tu să-Ti amintesti
+Si iartă-mi gresurile tineresti!
+Iubirea Ta să fie-asupra mea,
+Mai mult să împlinesc eu voia Ta.
+
+[r1]
+/: Adu-Ti aminte de-a mea silintă
+Cum pentru cauza Evangheliei
+Am luptat si voi lupta!
+Am mers-nainte, cu sârguintă,
+Desi, am fost de încercări înconjurat.:/
+
+[s2]
+Asa precum Neemia a învins
+Atunci când mâna, Doamne, Ti-ai întins,
+Asa spre mine, Doamne, să privesti;
+Cu bratul Tău, Tu să mă izbăvesti.
+
+[s3]
+Astept ca într-o zi să izbutesc
+Încât eu Tie, să Îti multumesc;
+Să fii, Isuse, Doamne, îndurător
+Si să vadă întregul Tău popor.
+
+[order]
+s1,r1,s2,r1,s3,r1

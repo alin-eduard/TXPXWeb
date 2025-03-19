@@ -1,0 +1,42 @@
+[s1]
+O, iubitul meu Isus,
+Eu alerg la pieptul Tău
+Să nu fiu de valuri dus
+Când furtuni mă-ncearcă greu;
+Mă ascunde-n umbra Ta,
+Norii grei să-i risipeşti
+Iar în cer când voi intra
+Sufletul să mi-l primeşti!
+
+[s2]
+Alt refugiu nu găsesc,
+Încercări de vor veni,
+Chiar de toţi mă părăsesc,
+Mângâierea mea să fii!
+Mă încred în tot ce-ai spus,
+Tu eşti ajutorul meu,
+Sub aripa Ta ascuns,
+Ocrotit voi fi mereu!
+
+[s3]
+Tu-mi eşti cel mai scump avut,
+Tot ce-i bun îmi dăruieşti,
+Îl ridici pe cel căzut
+Şi pe orb călăuzeşti;
+În păcat eu sunt născut,
+Tu eşti Adevăr şi Har!
+Slab şi păcătos eu sunt,
+Tu, iertare-mi dai în dar!
+
+[s4]
+Har în Tine e din plin
+Ca să ierţi păcatul meu
+Şi prin Duhul Tău divin
+Mă păstrezi curat mereu;
+Eşti al vieţii sfânt izvor,
+Dă-mi să beau din Tine-n dar;
+Spre folosul tuturor,
+Curgă fără de hotar!
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,28 @@
+[s1]
+Tu să-i conduci pe cei ce se unesc,
+Părinte bun,
+Neprihăniţi-naintea Ta păşesc
+Pe-al vieţii drum.
+
+[r1]
+Pecetluieşte sfântul legământ
+Uniţi să fie până la mormânt.
+
+[s2]
+Din mâna Ta revarsă peste ei
+Părinte bun,
+Puterea Ta s-alunge norii grei
+Pe-al vieţii drum.
+
+[s3]
+Pace şi har să fie peste voi
+La orice pas,
+Şi credincioşi rămâneţi amândoi
+În orice ceas.
+
+[s4]
+Iar la sfârşit, când Domnul va veni,
+Să fim cu toţii sus în veşnicii.
+
+[order]
+s1,r1,s2,r1,s3,s4

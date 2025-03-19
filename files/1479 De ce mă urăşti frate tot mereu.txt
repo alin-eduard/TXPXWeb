@@ -1,0 +1,39 @@
+[s1]
+1479.
+1.  De ce mă urăşti frate tot mereu
+Nu ştii că avem acelaşi Dumnezeu
+Eu ţi-s frate tu-mi eşti frate
+Şi-n noi doi un suflet bate de creştin
+Iar în cer avem acelaşi bun Stăpân
+2.  De ce oare tu nu vrei să ne sfinţim
+Căci din veac după Isus suntem creştini
+Toţi creştinii laolaltă n-au avut
+Decât un tată sus în cer
+Iar în lume au avut un singur ţel
+
+[s2]
+3. Crezi tu frate că părinţii-s bucuroşi
+Când copii între ei sunt duşmănoşi
+Frăţioare ce-ai cu mine
+Că şi eu-s frate cu tine
+Nu ştii că duşmanul nu vrea pace-ntre copii
+4.  Când necazurile ne-au îngreunat
+Împreună noi la Domnul ne-am rugat
+Astăzi când e libertate
+Ne urâm frate pe frate fraţi creştini
+Să-ncercăm acum cu toţii mai buni să fim
+
+[s3]
+5.  În numele dragostei lui Dumnezeu
+Oare cum se poate face atâta rău
+Pentru-n licăr de necredinţă
+E atâta suferinţă dezbinări
+Între fraţi ce se iubeau până mai ieri
+6.   Stăpâniţi fraţilor de acelaşi dor
+S-avem toţi o turmă şi-un păstor
+Doamne sfinte şi-ndurate
+Dă-ne iarăşi pocăinţă cum a fost
+De când ne-am născut creştini după Hristos
+
+[order]
+s1,s2,s3

@@ -1,0 +1,43 @@
+[s1]
+1035.
+1    Fraţilor mi-au spus ai Cloei
+( : Despre voi : )
+Că în grădina iubirii aţi lăsat omida firii
+Să vă strice trandafirii din Eden
+Că din nou la voi în vale
+Toate crengile sunt goale
+Şi n-au mai rămas petale, nici polen.
+
+[s2]
+2.	 Fraţilor mi-au spus ai Cloei
+( : Despre voi : )
+Căci fecioare ne-nţelepte
+Nu mai stau cu drag s-aştepte
+Pribegind pe multe trepte ca surori
+Că mireasa de mâhnire
+Nu mai ţese in subţire
+Pentru a întâmpina pe Mire sus pe nori.
+
+[s3]
+3.        Fraţilor dar unde-i dragostea dintâi
+Cea dintâi
+( : Dacă azi aveţi mânie,
+Câţiva ani şi nu o mie
+Cum veţi sta o veşnicie sus în Rai
+Dacă aici nu aveţi răbdare,
+Veţi avea şi-n ceruri oare
+Câte-un Rai de fiecare, câte un Rai : )
+
+[s4]
+4.	 Fraţilor să ştiţi că vremea
+(: S-a scurtat : )
+Las' să fie holda plină
+Şi de grâu şi de neghină
+Grâul lângă grâu să ţină spicul plin
+Cine-i spin cu flori deşarte
+Spin să fie mai departe
+Cine-i sfânt, mai sfânt să-şi poarte
+Rodul sfânt.
+
+[order]
+s1,s2,s3,s4

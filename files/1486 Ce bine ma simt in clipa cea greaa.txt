@@ -1,0 +1,23 @@
+[s1]
+1486.       Si
+Ce bine mă simt în clipa cea grea
+Aud glasul Tău cum mă chemă
+O pune-mi în inimă liniştea Ta
+Şi scapă-mă Doamne de teamă
+2.  Apucă-mi Tu braţul Părinte şi ia-l
+Când marea mă-nvolbură-n spume
+Rămâi lângă mine in oricare val
+Şi scapă-mă Doamne de lume
+
+[s2]
+3. Ajută-mi privirea spre Tine s-o Tin
+Plecat închinării depline
+Aşterne o năframă pe sufletul meu
+Şi umple-mă-n totul de Tine
+4.  Ce bine mă simt în ceasul cel greu
+Văd liniştea-n piept cum revine
+O scapă-mă Doamne de tot ce-i al meu
+Şi umple-mă totul de Tine
+
+[order]
+s1,s2

@@ -1,0 +1,42 @@
+[s1]
+2245 Mi M
+1. Ne-ai arătat cum să trăim,
+Ne-ai învățat să ne iubim
+Și când ne e prea greu
+să ne-ndreptăm privirea către ceruri
+Și totuși Doamne ne e greu,
+Nu mai știm ce e bun sau rău
+Din tot ce-avem și știm
+Nu mai aflăm cărarea către ceruri.
+
+[r1]
+Cor: O, Te rugăm,
+mai dă-ne un semn,
+Un strop de har
+Și spune Doamne cum să trăim
+În lumea de acum
+Suntem ai Tăi și mari și mici
+și buni și răi
+Întinde brațul Tău și ne condu
+Pe-al nostru drum.
+
+[s2]
+2. Cu cât mai mult am descoperit, Mai complicați am devenit
+Dar am pierdut ceva
+din sensul vieții ce ai pus-o în noi
+Te căutăm în univers
+și vrem să știm al lumii mers
+Dar tot uităm să fim mai buni
+cu cei de lângă noi.
+
+[s3]
+3. De ne-am putea elibera, bariere, ziduri sfărâmă
+Am rămâne toți umili și simpli
+și adevărați
+Ne fi Tu Doamne singur țel
+și ne-am privi-ntre noi la fel
+Ne-am da mâinile și-am fi
+cu-adevărat cu toții frați.
+
+[order]
+s1,r1,s2,r1,s3,r1

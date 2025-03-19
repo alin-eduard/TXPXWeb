@@ -1,0 +1,38 @@
+[s1]
+Din zorii vieţii copil mic fiind
+Am crezut că Domnul e viu
+Am citit în Cuvânt despre dragostea Sa
+Şi durerea pentru vina mea
+Am simţit bucurii şi-am ales să-L slujesc
+Şi nicicând nu vreau să-L întristez
+Vom păsi impreună,vom ajunge la mal
+O, ce Sfântă Unire va fi.
+
+[r1]
+Dar acum, Sfinte Tată, eu ştiu preţul meu
+Suferinţa pentru al meu păcat
+Zi de zi in viată Te simt că eşti viu
+Veşnic dulcele meu Impărat.
+
+[s2]
+Sarcini grele în viaţă am purtat
+Lovituri nemiloase am primit
+Uneori istovit sub povar-am căzut
+Sub rana adânca am gemut
+Dar milosul Pastor Sa-ndurat şi a privit
+Şi rana adancă a atins
+Mâna Sfântă balsam peste rană a pus
+Şi spre cer Duhul Său m-a condus.
+
+[s3]
+Iubirea Lui mare se afla in noi
+Prin ea răul învingem oricând
+Lumea se luptă să ne vadă învinşi
+Sa înfrângă tot ce este Sfânt
+Pot să spun:Vina ta l-a durut pe Isus
+Dar El a murit pentru tin’
+Eşti preţul iubirii,pentru tin’ s-a jertfit
+Isus pentru tin’ a murit.
+
+[order]
+s1,r1,s2,r1,s3,r1

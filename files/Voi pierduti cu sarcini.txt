@@ -1,0 +1,30 @@
+[s1]
+Voi pierduti cu sarcini grele
+Sub osândă si păcat
+La Isus e mântuirea
+Si pe mine m-a salvat.
+
+[r1]
+/: Da eu stiu :/
+Sângele lui spală orişice păcat.
+
+[s2]
+Celui slab îi dă tărie
+Face drum prin vijelii
+Toarnă râuri în pustie
+Schimbă noaptea-n zori de zi.
+
+[s3]
+El a spus că niciodată
+Nu ne lasă părăsiti
+Poate iadul să se zbată
+Stăm cu Domnul neclintiti.
+
+[s4]
+În ispită stă aproape
+Ajutorul să ni-l dea
+Domnul poate să ne scape
+Brațul Lui nu va cădea.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

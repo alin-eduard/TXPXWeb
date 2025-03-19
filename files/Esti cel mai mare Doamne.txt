@@ -1,0 +1,24 @@
+[s1]
+/: Eşti cel mai mare Doamne
+Peste toate continentele
+Eşti cel mai mare peste toţi Dumnezeii :/
+/:Te slăvesc pe Tin’
+Te slăvesc pe Tin’
+Te slăvesc pe Tin’ Doamne :/
+
+[s2]
+Doamne Tu eşti Dumnezeu
+Şi vei domni în veci
+Întreg pământul este plin
+De slava Ta
+Mereu veghezi să împlineşti
+Cuvântul Tău cel sfânt
+Prin dragoste Tu ne conduci
+Pe-al vieţii drum
+
+[s3]
+/: Să fii înălţat, să fii înălţat
+Domn al dragostei, Împărat :/
+
+[order]
+s1,s2,s3

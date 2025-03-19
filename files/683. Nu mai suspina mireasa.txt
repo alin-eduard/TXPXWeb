@@ -1,0 +1,81 @@
+[s1]
+1.	Nu mai suspina mireasă
+Al tău piept e zbuciumat
+Ştiu că vrei să mergi acasă
+Mai aşteaptă tu mireasă
+Căci în ziua cea aleasă
+Domnul nu te va lăsa.
+Porumbiţă de pe stâncă
+Eu chiar astăzi aş veni
+Cu iubirea mea adâncă
+N-aş mai zăbovi eu încă
+Porumbiţă de pe stâncă
+Dacă gata tu ai fi.
+683.
+
+[s2]
+2. 	Vreau să fii împodobită
+Cu veşmânt de in curat
+Haina ta neprihănită
+Şi cunună strălucită
+Cum se cade a fi gătită
+Pentru un fiu de împărat.
+Tu eşti via mea sădită
+La izvorul cristalin
+Prinde orice vulpe mică
+Ce răsadul tău ţi-l strică
+Iar privirea ţi-o ridică
+Înspre Mirele Divin.
+
+[s3]
+3.	Tu grădina mea sfinţită
+Tu fântâna lui Isus
+Eşti tu oare pregătită
+Ca să fii acum răpită
+Tu ce eşti pecetluită
+Pentru nunta cea de sus.
+Tu eşti sora mea aleasă
+Trandafirul din Saron
+Tu bogată-mpărăteasă
+Eşti aleasa mea mireasă
+Tu eşti veşnica mea casă
+O, tu fiică din Sion.
+
+[s4]
+4. 	Tu cerboaica mea iubită
+Care paşte printre crini
+Din femei mai fericită
+Mai frumoasă, mai aleasă
+Eşti biserica sfinţită
+Mai pe sus de Heruvimi.
+Iată soarele răsare
+Sus pe cer nu-i nici un nor
+Azi e vremea de cântare
+Azi smochinul este-n floare
+Vă năltaţi scumpe fecioare
+Inima plină de dor.
+
+[s5]
+5. 	Tu Biserică străbună
+Ce de veacuri scânteieşti
+Duhul Sfânt îţi e arvună
+Şi dovada cea mai bună
+Că în cer vei fi stăpână
+Dacă inima-ţi păstrezi.
+Auzi trâmbiţa cum sună
+Vezi oştirea cea de sus
+E măreaţa săptămână
+
+[s6]
+6. Şi Arhanghelul adună
+Pe cei vrednici de cunună
+În slava fără de apus.
+Porumbiţă de pe stâncă
+Al tău Mire vine-n zori
+De ai dragoste adâncă
+Porumbiţă de pe stâncă
+Nu dormi, aşteaptă încă
+Cu al dragostei fior.
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,43 @@
+[s1]
+1.Trezeşte-te azi şi te ridică,
+O, poporul Meu iubit
+Căci secerişul este aproape
+Şi-al tău ceas iată-l sosit!
+/: O, Aleluia! :/
+Vino, Doamne Isuse!
+/: O, Aleluia! :/
+Vino, Doamne Isuse!
+1394.
+
+[s2]
+2.Căci prin cuptorul de suferinţă
+Pentru-o vreme te-am trecut
+Şi-n loc de-aramă vreau să-ţi dau aur
+Şi argint în loc de lut.
+/: O, Aleluia! :/
+Vino, Doamne Isuse!
+/: O, Aleluia! :/
+Vino, Doamne Isuse!
+
+[s3]
+3.Şi iată astăzi te chem la Mine
+Ca să nu mai rătăceşti
+Să-Mi fii poporul de sfinţi în lume
+Şi doar Mie să-Mi slujeşti!
+/: O, Aleluia! :/
+Vino, Doamne Isuse!
+/: O, Aleluia! :/
+Vino, Doamne Isuse!
+
+[s4]
+4.Eu te-am salvat prin al Meu sfânt sânge
+Şi mereu Te voi iubi.
+Acum e ceasul să vii acasă
+Că-ncurând te voi răpi.
+/: O, Maranata! :/
+Isus vine în curând!
+/: O, Maranata! :/
+Să ne ia de pe pământ!
+
+[order]
+s1,s2,s3,s4

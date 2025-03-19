@@ -1,0 +1,40 @@
+[s1]
+Dacă vrei s-ajungi mai sus
+Nu uita Sfiţenia
+Lasă-L pe Isus Hristos
+Să fie podoaba ta
+Dacă vrei lacrimi pe-obraz
+Nu sta clipe de răgaz
+Caută-L pe Dumnezeu
+Tot mereu.
+
+[r1]
+Vreau  să privesc la Isus
+Vreau să privesc  la Calvar
+Vreau să privesc doar la Tine
+Domnul meu.
+Vreau să privesc la Golgota
+Vreau ca să fiu vindecat
+Numai Tu, Tu Isuse m-ai salvat
+
+[s2]
+Dacă vrei s-ajungi mai sus
+Nu uita să înveti mereu
+Înaintea celorlalti
+Trebuie  să te miceşti
+Dacă vrei să fii iubit
+Trebuie ca să iubeşti
+Pe-aproapele tău tot mereu.
+
+[s3]
+Dacă vrei s-ajungi mai sus
+Singur nu te ridica
+Lasă-L pe Isus Hristos
+Să îşi facă voia Sa
+El ridică şi coboară
+El dă viaţă tuturor
+El este Împaratul Slavei
+E al meu scump Salvator.
+
+[order]
+s1,r1,s2,r1,s3,r1

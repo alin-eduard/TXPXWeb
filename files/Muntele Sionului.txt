@@ -1,0 +1,42 @@
+[s1]
+Muntele Sionului x3
+Va fi Casa /:Domnului:/
+/:Muntele Sionului:/
+Va fi Casa Domnului!
+
+[s2]
+Cat de placute sunt,
+Locasurile Tale Doamne,
+Sufletul meu tanjeste
+De dor dupa ele.
+La cortul Tau cel Sfant
+Inima-si gaseste placerea
+Pe muntele cel sfant
+Cu Domnul meu!
+
+[s3]
+Mai bine-o zi pe muntele cel sfant
+Mai bine o zi in Curtile Tale
+Mai bine-o zi in Templul Tau cel Sfant!
+Decat o mie-n alta parte
+
+[s4]
+Cat de placute sunt
+Locasurile Tale Doamne!
+Sufletul meu,
+tanjeste de dor dupa ele!
+La cortul Tau cel Sfant
+Inima-si gaseste placerea
+Pe muntele cel Sfant
+Cu Domnul meu!
+
+[s5]
+Vesnic eu voi sta
+in Casa Domnului x5
+/:Implineste Doamne:/
+Sfanta mea dorinta!
+/:Vreau pe munte sa fiu
+Vesnic cu Dumnezeu:/
+
+[order]
+s1,s2,s3,s4,s5

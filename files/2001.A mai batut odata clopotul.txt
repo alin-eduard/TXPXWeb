@@ -1,0 +1,31 @@
+[s1]
+2001
+1. A mai bătut odată clopotul
+Și omule ai auzit și tu
+El îți șoptește printr-un zăngănit
+Că pe pământ un om a mai murit
+
+[r1]
+Cor: Viața ta e ca o frunză-n vânt
+Repede ea cade la pământ
+Să nu te-ncrezi nicicând
+În viața ta
+Doar Dumnezeu
+Este Stăpân pe ea
+
+[s2]
+2. Se-aud sirene trece iar salvarea
+Și te întrebi ce s-a mai întâmplat
+Prin minte iute
+Gândurile-ți trec
+Căci poate înc-o viață a-ncetat
+
+[s3]
+3. Dragul meu se-aude o strigare
+Din glasul meu
+Și prin a mea cântare
+Oprește-te acum din drumul tău
+Ascultă cum te cheamă Dumnezeu.
+
+[order]
+s1,r1,s2,r1,s3,r1

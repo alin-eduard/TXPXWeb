@@ -1,0 +1,19 @@
+[s1]
+Mare Domnul şi de laudă
+El, în luptă mă-nsoţeşte
+El, victorie îmi dă
+Mare e Domnul ce
+domneşte-n dragoste
+Cetatea Lui se-nalţă-n Glorie
+La Tronu-I ne plecăm.
+
+[s2]
+O, Doamne, numele Îţi înalţăm
+Ţi-aducem mulţumire
+pentru jertfa Ta cea Sfântă
+Cu-a Ta iubire, veşnic ne-nconjori
+Ai fost şi eşti Stăpân în slavă
+Cerul şi pământul Te laudă.
+
+[order]
+s1,s2

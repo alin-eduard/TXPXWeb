@@ -1,0 +1,32 @@
+[s1]
+Purtăm în suflet dor de veşnicii
+Şi-n orice clipă Îl vestim,
+/:Suntem pe veci ai cerului sfinţi fii
+Şi pentru El oricând vrem să trăim.:/
+
+[r1]
+Isuse, viaţa noastră ai aprins,
+Pământu-ntreg şi iadul ai învis;
+Pe urma ta învinge-vom şi noi,
+E-aproape judecata sfântă de apoi.
+
+[s2]
+E mare noapte-n care vieţuim,
+E tare jugul pe pământ
+/:Dar noi suntem din sfânt Ierusalim
+Şi ţara nostră e peste mormânt.:/
+
+[s3]
+Dureri avem atât de alinat
+Şi-atâtea lacrimi sunt de şters,
+/:E-aşa  turbată marea de păcate
+Şi atâta rătăcire-n univers.:/
+
+[s4]
+Vom trece multe ‘ntunecate văi
+Cu-acelaşi dor de împlinit,
+/:Dar vom scăpa de lumea celor răi
+Speranţe-n suflet, Tu ne-ai dăruit.:/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

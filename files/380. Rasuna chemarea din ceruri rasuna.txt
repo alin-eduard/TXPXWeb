@@ -1,0 +1,31 @@
+[s1]
+1. Răsună chemarea
+Din ceruri răsună
+Te cheamă să fii mîntuit,
+O, prieten grăbit
+Primi-vei iertarea,
+Hristos vrea să fii fericit.
+380.
+
+[r1]
+Cor: /:Veniţi să primiţi mântuire
+Veniţi voi ce sunteţi trudiţi
+Hristos El vă dă fericirea
+O viaţă eternă primiţi:/.
+
+[s2]
+2. Iertare şi pace primi-vei îndată
+O, vino azi tu la Hristos
+Nu-i timp de amânare
+Sfârşitul e aproape
+De ce vrei să mori păcătos.
+
+[s3]
+3. Ascultă, o, lume ce mori în păcate
+Ascultă chemare din cer
+Isus Domnul meu
+Vă scapă de moarte,
+Dă viaţă acelor ce pier.
+
+[order]
+s1,r1,s2,r1,s3,r1

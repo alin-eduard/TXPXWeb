@@ -1,0 +1,20 @@
+[s1]
+“Eu vin la tine cum vine ziua
+Ce se-aşterne pe Pămînt
+Şi cum vin zorii cu-a lor lumină
+Eu vin la tine să Mă primeşti.”
+
+[r1]
+“Eu vin la tine, doar de va vrea
+Să Mă primească inima ta
+Să-ţi dărui pacea şi iubirea Mea!”
+Isus odată aşa-mi spunea.
+
+[s2]
+“Eu vin, şi-n Mine găseşte pace
+Şi fericire sufletul Meu.
+În zîmbet norul se va preface
+Pe drum lumină-ţi voi fi mereu.”
+
+[order]
+s1,r1,s2,r1

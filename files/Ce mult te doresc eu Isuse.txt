@@ -1,0 +1,34 @@
+[s1]
+Ce mult te doresc ,o, Isuse
+O, vino în inima mea
+Când grija lumii mă apasă
+La Tine-mi găsesc linistea
+La M
+
+[r1]
+Fericit eu voi fi cu Tine Isus
+Zi de zi, pas cu pas
+Când voi fi în necaz
+La bine şi la greu Tu mă vei ridica
+Eu te voi lăuda pentru dragostea Ta
+
+[s2]
+Ia-mi inima mea încercată
+Şi umple-mi Tu golul din ea
+Condu-mi pasii pe calea dreaptă
+Căci Tu îmi cunoşti inima
+
+[s3]
+Trăim prin a Ta îndurare
+Avem parte de jertfa Ta
+Condu-mi paşii pe calea vieţii
+Căci Tu îmi cunoşti inima
+
+[s4]
+Ajută-mă Tu o Isuse
+S-ajung în prezenţa Ta
+În cerurile Tale Sfinte
+Cu îngerii slavă-Ti voi da.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,69 @@
+[s1]
+98.
+1. Ziua strig şi noaptea iară
+Şi Te chem să vii Isuse
+Dimineaţa şi de seară
+Te strig şi Te chem Isus.
+
+[s2]
+2. Vreau să scap la libertate
+Vreau să scap de jugul greu
+Vreau să scap şi de păcate
+Şi de tot suspinul greu.
+
+[s3]
+3. Mă apasă greu străinul
+Rău îmi face din puteri
+Orişicând mă-nţeapă spinul
+Şi-s puţine mângâieri.
+
+[s4]
+4. Au trecut zilele grele
+Când ceva s-avem de-ajuns
+Şi-au venit zilele-n care
+Şi mai mult să fiu supus.
+
+[s5]
+5. Pasul meu mi se-ncovoaie
+Doamne oare nu vezi Tu
+Când va fi o zi cu soare
+Când Te vei întoarce Tu.
+
+[s6]
+6. Când va răsări lumina
+Pentru sufletul din noi
+Când se îngroaşă iar neghina
+Vino Tu să o despoi.
+
+[s7]
+7. Doamne ziua e spre seară
+Soarele va asfinţi
+Ah, să nu te strig de-afară
+Când pe nori Tu vei veni.
+
+[s8]
+8. Scurtează vorbirea-n care
+Sunt de multe apăsat
+Căci mă apasă o durere
+Şi-am ajuns descurajat.
+
+[s9]
+9. Căci mi-ntinde cel rău curse
+Să mă ducă în păcat
+Nu mă lăsa, O, Isuse
+Şi mai mult descurajat.
+
+[s10]
+10. Pe Tine Te vreau ca sprijin
+Să mă iei la sânul Tău
+Ca să n-aud zăngănitul
+Oamenilor celor răi.
+
+[s11]
+11. S-aud trâmbiţa Ta Doamne
+Dacă până atunci voi sta
+S-aud glasul Tău, O, Doamne
+Să mă iei la dreapta Ta.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11

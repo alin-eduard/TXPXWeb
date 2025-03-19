@@ -1,0 +1,61 @@
+[s1]
+996.   Fa
+1. Eram copil când m-ai chemat
+Şi dulce mi-ai vorbit
+În suflet dorul mi-ai lăsat
+Isus al meu iubit.
+
+[s2]
+/: De-atunci Te-aştept Isuse drag
+Cu lacrimi şi cu plâns
+Te-aşteaptă sufletul în prag
+Iar doru-i mai aprins
+Căci vei veni atunci mi-ai spus
+Căci nu mai este mult
+Noi Te-aşteptăm privind în sus
+Către locaşul sfânt. :/
+
+[s3]
+2. Ne arde inima în piept
+De-atâta drag şi dor
+Ne pare drumu’ aşa de lung
+Prin flăcări şi cuptor.
+/:Câte necazuri au trecut
+Şi valuri vin şuvoi
+Dureri şi boli ne-au încercat
+Dar Tu ai fost cu noi :/
+
+[s4]
+3. Ce fericiţi suntem acum
+Când toate ne-ai vegheat
+Cu cât a fost drumul mai greu
+Cu atât ne-ai ajutat.
+Apas-ades povara grea
+Vrăjmaşii mă-nconjor
+Dar Doamne tu nu mă lăsa
+Nicicând în mâna lor.
+
+[s5]
+/: Cu cât paharu-i mai amar
+Cu atât mai dulce-ţi cânt
+Ţi-aducem jertfă pe altar
+Isuse bun şi sfânt :/
+
+[s6]
+4. Câte necazuri vor veni
+De Tine nu mă las
+Eu nu dau lumii timpul meu
+Nu merg spre ea un pas.
+
+[s7]
+/: Şi doar Isuse Ţie-ţi dau
+Iubirea cu al meu glas
+Îţi dau dulce cântarea mea
+Şi-al umbletelor pas
+Nu-mi pasă nici de ura lor
+Când mă batjocoresc
+Îţi dau iubirea până mor
+Şi cântul cât trăiesc. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

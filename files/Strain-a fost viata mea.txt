@@ -1,0 +1,37 @@
+[s1]
+1
+Străin-a fost viata mea
+Si plânsul m-a-nsotit în ea
+/: A fost o viată de amar
+Si de dureri fără hotar :/
+
+[s2]
+2
+Târziu de tot am întâlnit
+Un Om pe cruce răstignit
+/: Eram pe lume singurel
+Si razimi am aflat în El :/
+
+[s3]
+3
+O clipă am stat si am privit
+La cel ce-a fost batjocorit
+/: Si abia atunci simtii si eu
+Câte-a-ndurat Stăpânul meu :/
+
+[s4]
+4
+Eu sufăr c-am păcătuit
+Dar El de ce a suferit?
+/: Eu port a mele  fărdelegi
+El a purtat a lumii-ntregi :/
+
+[s5]
+5
+De-atunci în sufletu-mi pustiu
+Eu l-am iubit fără să stiu
+/: Căci am văzut iubirea Lui
+Si haru-ntreg al Domnului :/
+
+[order]
+s1,s2,s3,s4,s5

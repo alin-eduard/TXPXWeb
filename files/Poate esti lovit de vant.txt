@@ -1,0 +1,29 @@
+[s1]
+Poate eşti lovit de vânt
+poate eşti lovit de ploi
+Şi crezi că nu mai ai un rost
+pe pământ
+Poate tu te rogi de mult
+şi aştepţi din cer răspuns
+Vreau să îţi spun că el
+acum e prezent
+Trebuie doar să-L atingi
+
+[r1]
+E prezent aici Fiul lui Dumnezeu
+E prezent şi vrea să-ţi dea mâna Sa
+E prezent aici Te aşteaptă iubind
+Trebuie doar să vrei să-i dai inima
+
+[s2]
+Dacă eşti căzut pe drum,
+dacă paşi-ţi rătăcesc
+Şi azi te-aşteaptă să vii, nu-i târziu
+Viaţa dacă vrei să-ţi schimbi
+şi să umbli-n adevăr
+Vreau să îţi spun că El
+acum e prezent
+Trebuie doar să-L atingi
+
+[order]
+s1,r1,s2,r1

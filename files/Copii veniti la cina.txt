@@ -1,0 +1,45 @@
+[s1]
+Şi mama ne chema pe toţi acasă
+Când noi, copii, afară ne jucam.
+Ne amintim de vocea ei duioasă
+Din vremea-aceea când copii eram.
+
+[r1]
+/: Copii, veniţi la cină
+Căci iată, seara a sosit!
+În casă e lumină
+Şi paturile vi le-am pregătit! :/
+
+[s2]
+Dar vremea-aceea a trecut şi iată
+Doar amintiri ne-au mai rămas
+de-atunci.
+A mamei noastre-atât de calde şoapte
+Şi-a ei atât de severe porunci.
+
+[s3]
+La fel vom auzi şi noi chemarea
+Chemarea Celui care ne-a iubit
+Cu vocea Lui atât de minunată:
+<Copii, veniţi, că totu-i pregătit!>
+
+[r2]
+/: Lumina e aprinsă
+În casa Tatălui de sus!
+Şi masa e întinsă
+Copii, veniţi la Regele Isus! :/
+
+[s4]
+Aici noi vom lăsa copilăria
+Şi jocurile-n care-am petrecut
+Acolo vom începe veşnicia
+în cerurile fără de sfârşit.
+
+[s5]
+Dacă auzi şi tu acum chemarea
+Copile, care-afară pribegeşti
+Priveşte, se coboară înserarea
+Şi tu în lume încă rătăceşti!
+
+[order]
+s1,r1,s2,r1,s3,r2,s4,r2,s5,r2

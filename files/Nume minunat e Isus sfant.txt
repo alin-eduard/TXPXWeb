@@ -1,0 +1,32 @@
+[s1]
+Nume minunat e Isus,
+Sfânt si înăltat e El,
+Toti cei ce-L slujesc
+Să cânte numai despre El;
+Lumea-ntreagă să cunoască
+Numele ce ni S-a dat,
+El din vesnicii
+rămâne binecuvântat!
+
+[s2]
+Isus poate da iertarea,
+Linistea în încercări,
+Numai El e fericirea
+pe-ale vietii căi,
+El vrea să-ti conducă
+Pasii dincolo de orice nor,
+Vesnic să trăiesti
+în slavă cu al tău Păstor.
+
+[s3]
+Lasă-te găsit de Isus,
+El te poate ajuta,
+Grija, dorul vietii tale
+El le va lua;
+Lasă astăzi calea largă,
+Lasă azi al lumii drum,
+Mergi spre cer cu
+Bucurie cu al vietii Domn.
+
+[order]
+s1,s2,s3

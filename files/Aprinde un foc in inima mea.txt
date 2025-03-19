@@ -1,0 +1,9 @@
+[s1]
+/:Aprinde un foc în inima mea
+Umple-o cu iubirea Ta:/
+Şi acest foc să mistuie
+Orişice durere grea
+Aprinde un foc adânc în inima mea.
+
+[order]
+s1

@@ -1,0 +1,36 @@
+[s1]
+1704.
+1. N-am să uit o Doamne niciodată
+Clipe când păcatul mi-ai iertat
+Şi nici ziua aceea minunată
+Când Isuse m-ai salvat
+Cor:	N-am să uit nici lacrimile Tale
+Nici Calvarul Tău amar şi greu
+Mi-ai schimbat
+Tot sensul vieţii mele
+O Isuse Domnul meu
+
+[s2]
+2. N-am să uit o Doamne niciodată
+A Ta dragoste fără hotar
+Ce pe Golgota a fost arătată
+A cerului măreţ har
+Cor:	N-am să uit nici lacrimile Tale
+Nici Calvarul Tău amar şi greu
+Mi-ai schimbat
+Tot sensul vieţii mele
+O Isuse Domnul meu
+
+[s3]
+3. N-am să uit o Doamne niciodată
+Dă-mi putere să nu pot uita
+Tot ce pentru mine în viaţă
+A făcut iubirea Ta
+Cor:	N-am să uit nici lacrimile Tale
+Nici Calvarul Tău amar şi greu
+Mi-ai schimbat
+Tot sensul vieţii mele
+O Isuse Domnul meu
+
+[order]
+s1,s2,s3

@@ -1,0 +1,22 @@
+[s1]
+Aproape convins că eşti păcătos
+Aproape să fii slavat de Hristos;
+Aproape de calea Sa poate ai păşit
+Dar încă rămas-ai nemântuit.
+
+[s2]
+Aproape convins de iertare
+Aproape erai de salvare,
+Aproape de cruce,
+de jertfă şi Calvar
+Grijă ca să nu fie în zadar.
+
+[s3]
+Când calea ta ici se va sfârşi,
+În veşnicii când vei păşi,
+De eşti doar aproape,
+Isus, El nu te vrea,
+De El, departe, rămâi pururea.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,33 @@
+[s1]
+1. Porumbiţă, porumbiţă
+Porumbiţă dintre munţi
+/: Ridică-ţi glasul spre mine
+Vine vremea să te-ascult :/
+2. Când ţi-i inima apăsată
+De durere tot mereu
+/: Vine ziua aşteptată
+Să-mi ridic poporul meu :/
+693.
+
+[s2]
+3. Nu vei mai geme atâta
+Şi nu vei mai suspina
+/: Îţi voi ridica povara
+Şi-ţi voi şterge lacrima :/
+4. Mai rabdă încă o clipă
+Să-mi împlinesc numărul
+/: Să-mi aduc pe toţi acasă
+Şi să stau cu ei la masă :/
+
+[s3]
+5. Voi ce staţi în nepăsare
+Vă îndeamnă Duhul Sfânt
+/: Ridicaţi-vă la lucru
+Căci am să vin în curând :/
+6. Să nu rămâneţi aicea
+Vă luptaţi cu mai mult zel
+/: Staţi de veghe totdeauna
+Şi veţi câştiga cununa :/
+
+[order]
+s1,s2,s3

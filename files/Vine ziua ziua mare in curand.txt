@@ -1,0 +1,44 @@
+[s1]
+Vine ziua, ziua mare in curand
+E-o zi mult asteptata pe pamant,
+Vom vedea pe Imparat
+Va fi o nunta la palat, cum n-a fost niciodat
+Vom vedea pe Imparat.
+
+[s2]
+/: Da Il vom vedea,
+Da Il vom vedea
+Vom vedea pe Imparat,
+Din morminte sculati,
+trompeta va suna
+Vom vedea pe Imparat. :/
+
+[s3]
+Daca astazi frate, nu esti pregatit
+Si haina nuntii de nu ti-ai albit,
+Asteapta rabdator,  Sa-ti fie salvator
+Doar s-accepti Mantuitor
+Judecata va apare nu e mult.
+Hristos revine-n slava pe pamant
+Arhangheli se vor aduna,
+Si cerul va serba
+Vom vedea pe Imparat.
+
+[s4]
+/: Da il vom vedea,
+da il vom vedea,
+Vom vedea pe Imparat
+Din morminte sculati
+trompeta va suna
+Vom vedea pe Imparat! :/
+
+[s5]
+Din morminte sculati
+trompeta va suna,
+Da Il vom vedea!
+Da Il vom vedea!
+Da Il vom vedea!
+Pe-mparat! Pe-mparat!
+
+[order]
+s1,s2,s3,s4,s5

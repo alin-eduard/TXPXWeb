@@ -1,0 +1,38 @@
+[s1]
+Într-o casă părăsită-acum
+Am văzut copii ce se jucau
+Am văzut o mamă pe genunchi
+Pentru ei rugându-se mereu.
+Am văzut în fiecare zi
+Cum un om acasă se-ntorcea
+Iar copiii-n jurul lui veneau
+Şi un tată bun îmbrăţişau.
+
+[s2]
+Dar, într-o zi zadarnic au-aşteptat
+În lung de drum
+privind mereu neîncetat.
+Copiii plâng, şi-aşteaptă iar
+Un tată bun, un tată bun
+Ce niciodată n-are să vină...
+
+[s3]
+Copii ce plângeţi, doar priviţi în sus
+Şi-L veţi vedea pe tatăl vostru
+Viu înconjurat de îngeri şi martiri
+Cum vă aşteaptă-acolo să veniţi!
+Să nu uitaţi, e-o moarte pentru toţi
+Dar şi-o coroană sus, în cerul sfânt!
+În chin în iadul fără de sfârşit
+Şi-n bucurie-s cei ce-au biruit.
+
+[s4]
+Iar, într-o zi un tată bun şi-un fiu
+S-or întâlni pe veci nedespărţiţi.
+Şi-apoi cu toţii vom cânta
+Un cântec nou
+Un cântec nou, ce niciodat
+Nu l-am cântat!
+
+[order]
+s1,s2,s3,s4

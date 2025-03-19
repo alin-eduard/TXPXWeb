@@ -1,0 +1,26 @@
+[s1]
+Cât timp Isus în noi va fi
+Vom creşte-n toate zi în zi.
+/: Aşa a fost, aşa va fi:
+Grădina vieţii va­nflori. :/
+
+[s2]
+Rămâne dar acest cuvânt
+Oriunde pururi drept şi sfânt
+/: Neprihănirea lui Hristos
+E haina celui credincios. :/
+
+[s3]
+Din toată inima vestim:
+Pe Domnul noi ne bizuim.
+/: Pământ şi cer s­or nărui
+Când Tu, Isuse, vei veni. :/
+
+[s4]
+Ai fost şi eşti şi­n veci rămâi!
+Tu călăuză să ne fii
+/: Speranţa inimii­n dureri
+Şi dătător de mângâieri. :/
+
+[order]
+s1,s2,s3,s4

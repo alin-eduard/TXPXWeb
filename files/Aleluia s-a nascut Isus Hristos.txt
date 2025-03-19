@@ -1,0 +1,38 @@
+[r1]
+/: Aleluia s-a nascut Hristos :/ x4
+
+[s1]
+Un Rege Sfant ni s-a nascut
+Azi sa nascut Isus Hristos
+E Rege-al Cerului slavit
+Azi sa nascut Isus Hristos
+Venit cu umilinta
+Azi sa nascut Isus Hristos
+
+[s2]
+Pastori uimiti in cant priveau
+Azi sa nascut Isus Hristos
+Cu ingerii din cer cantau
+Azi sa nascut Isus Hristos
+Si pruncului s-au inchinat
+Azi sa nascut Isus Hristos
+
+[s3]
+Trei magi veniti din departari
+Azi sa nascut Isus Hristos
+Condusi de steaua Regelui
+Azi sa nascut Isus Hristos
+Comori si daruri i-au adus
+Azi sa nascut Isus Hristos
+
+[s4]
+/: Aaleluia s-a nascut Hristos :/ x4
+
+[s5]
+Veniti acum sa ne-nchinam
+Veniti cu totii sa cantam
+A celui ce ne-a mantuit
+Si ceru’ntreg ni la deschis
+
+[order]
+r1,s1,r1,s2,r1,s3,s4,s5,r1

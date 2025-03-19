@@ -1,0 +1,31 @@
+[s1]
+Spre cetăţuia unde merg eu,
+e lumină
+Din depărtări zăresc
+lumina lui Isus
+Drumul e greu, dar nu mă las oprit de lume
+Căci vreau s-ajung
+în veşnicia cea de sus.
+
+[r1]
+Condus de El înaintez spre-a mea cetate
+Cu siguranţă voi ajunge la liman.
+Merg după El, căci Îi cunosc eu glasul dulce
+Mă-ncred în El, cu dragoste eu Îl urmez.
+/: Toată speranţa eu mi-am pus-o-n Domnul
+În ziua cînd I-am predat inima mea.
+Prezenţa Lui e-n dragostea ce-o am în suflet
+El e Păstorul meu cel drag ! :/
+
+[s2]
+Cu Domnul meu
+am siguranţa veşniciei
+Condus de El,
+eu nu mă mai îngrijorez.
+Singur nu sînt, că Domnul meu
+e lîngă mine
+Mă-ncred în El,
+cu dragoste eu Îl urmez.
+
+[order]
+s1,r1,s2,r1

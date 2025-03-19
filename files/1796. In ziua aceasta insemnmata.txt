@@ -1,0 +1,28 @@
+[s1]
+1796
+1. În ziua aceasta însemnată
+Isuse drag la Tine vin
+Să-Ți las făptura minunată
+Și-n fața Ta să mă închin.
+
+[r1]
+Cor:Tu mi-ai schimbat viața
+Prin harul Tău cel sfânt
+De aceea vreau Isuse
+Din inimă să-Ți cânt.
+
+[s2]
+2. Atâtea-Ți datorez Isuse
+Că binecuvântări îmi dai
+Iubire, pace, sănătate
+Și casa mi-o faci colț de rai
+
+[s3]
+3. Iar azi și-n ziua cea
+de mâine
+Când harul Tău îl am de-a mai trăi
+Doresc să-Ți mulțumesc Isuse
+Și să Te laud cu viața mea
+
+[order]
+s1,r1,s2,r1,s3,r1

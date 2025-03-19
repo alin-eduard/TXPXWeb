@@ -1,0 +1,17 @@
+[s1]
+Eu stau si astept sa se-ntample ceva
+Ceva sa schimbe azi viata mea
+Te vad cum cobori muntele
+Si toti vor sa se-atinga de haina ta
+Tu esti cel ce face minuni
+Si stiu raspunsul meu e-n mana ta
+Da vin mai apropii si ma inchin
+Si-n teama-ti spun cu vocea mea
+
+[s2]
+/:Doamne daca vrei Tu poti.:/ (x3)
+Sa m-atingi cu Mana Ta
+Sa atingi azi viata mea
+
+[order]
+s1,s2

@@ -1,0 +1,32 @@
+[s1]
+În tot locul mă conduce
+Domnul meu cu mâna Sa;
+Pot eu oare a Lui milă
+De la mine­a depărta?
+Pacea sfântă şi divină
+Al meu suflet a primit,
+//: Orice ar veni spre mine,
+Eu în toate­s fericit! ://
+
+[s2]
+În tot locul mă conduce
+Domnul prin iubirea Sa
+Şi din valea umbrei morţii
+Al meu suflet va scăpa;
+Chiar de pasu­mi şovăieşte
+Şi­al meu suflet e­nsetat
+//: Din a vieţii stâncă­mi vine
+Bucurie ne­ncetat! ://
+
+[s3]
+În tot locul mă conduce
+Prin iubire­al meu Isus,
+Îmi promite pace dulce
+În locaşul cel de sus;
+O, atunci în nemurire
+Al meu suflet va zbura,
+//: Îmbrăcat în fericire
+Lângă Domnul el va sta! ://
+
+[order]
+s1,s2,s3

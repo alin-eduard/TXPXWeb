@@ -1,0 +1,26 @@
+[s1]
+Atotputernice Domn peste fire
+Eşti din vecie
+Puternic şi sfânt;
+Milă ne­arată şi dă mântuire,
+Pace revarsă
+Pe­ntregul pământ.
+
+[s2]
+Eşti Dumnezeul drept,
+Fără schimbare,
+Al Tău Cuvânt e iubire şi har;
+Iartă-ne, Doamne
+Şi dă-ne scăpare,
+Pe drumul greu luminează-ne iar.
+
+[s3]
+Poporul Tău
+Acum Te preamăreşte,
+Toţi aşteptăm grabnic,
+Doamne, să vii;
+Gloria Ta peste noi străluceşte,
+Eşti Tatăl nostru iar noi ai Tăi fii.
+
+[order]
+s1,s2,s3

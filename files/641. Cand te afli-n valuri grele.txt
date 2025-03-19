@@ -1,0 +1,48 @@
+[s1]
+1. Când te afli-n valuri grele
+Nu cârti şi nu uita
+Cel ce-a liniştit furtuna
+Ştie de-ncercarea ta.
+641.    Re m
+Cor: Roagă-te şi crede,
+Roagă-te şi crede
+Cel ce totul vede /:nu te va lăsa:/
+
+[s2]
+2. Când îţi mor fiinţe scumpe
+Nu te teme, nu uita
+Cel ce morţii înviază
+Ştie de durerea ta.
+Cor: Roagă-te şi crede,
+Roagă-te şi crede
+Cel ce totul vede /:nu te va lăsa:/
+
+[s3]
+3. Când îţi vezi pierduţi copii
+Crede încă, nu uita
+Cel ce pe pierduţi îi află
+Ştie rugăciunea ta.
+Cor: Roagă-te şi crede,
+Roagă-te şi crede
+Cel ce totul vede /:nu te va lăsa:/
+
+[s4]
+4. Când ajungi în vremi de lipsă
+Ai nădejde, nu uita
+Cel ce pâinea înmulţeşte
+Ştie-ngrijorarea ta.
+Cor: Roagă-te şi crede,
+Roagă-te şi crede
+Cel ce totul vede /:nu te va lăsa:/
+
+[s5]
+5. Când te-nconjoară numai spaime
+Înalţă-ţi capul, nu uita
+Dumnezeu cel viu şi tare
+Va grăbi scăparea ta.
+Cor: Roagă-te şi crede,
+Roagă-te şi crede
+Cel ce totul vede /:nu te va lăsa:/
+
+[order]
+s1,s2,s3,s4,s5

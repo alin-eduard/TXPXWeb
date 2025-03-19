@@ -1,0 +1,55 @@
+[s1]
+2099
+1. Vino Isuse, vino cu mine
+Vino și spune-mi gândul Tău
+Vino Isuse, vino cu mine
+Să pot scăpa de orice rău
+Vino Isuse, vino cu mine
+Condu-mă Tu prin harul Tău
+
+[s2]
+2. Vino Isuse, vino cu mine
+În orice zi din viața mea
+Vino Isuse, vino cu mine
+Și Tu întărește-mi inima
+Vino Isuse, vino cu mine
+Doar Tu ești izbăvirea mea mereu
+Prin încercare eu nu pot trece
+Fără de Tine o, Domnul meu.
+
+[s3]
+3. Vino Isuse, vino cu mine
+Pe drumul care l-ai ales
+Vino Isuse, vino cu mine
+Vino și fă-Te înțeles
+Vino Isuse, vino cu mine
+Doar Tu îmi ești lumina mea mereu
+Vino Isuse, vino cu mine
+Să trec și greul cel mai greu.
+
+[s4]
+4. Vino Isuse, vino cu mine
+Și îmbracă-mă cu Duhul Sfânt
+Vino Isuse, vino cu mine
+Să pot intra în planul Tău
+Vino Isuse, vino cu mine
+Doar Tu îmi ești tăria mea mereu
+Vino Isuse, vino cu mine
+Și mă condu pe drumul greu.
+
+[s5]
+5. Vino Isuse, vino cu mine
+Și mă condu pe drumul greu
+Vino Isuse, vino cu mine
+Să pot lucra în via Ta
+Vino Isuse, vino cu mine
+Să biruiesc în lupta grea
+
+[s6]
+Vino Isuse, vino cu mine
+Numai cu Tine pot înainta
+Vino Isuse, vino cu mine
+Doar Tu ești biruința mea.
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,27 @@
+[s1]
+Sa Te urmez cu drag,Tu m-ai chemat
+Mi-ai spus, Isus : “Vino dupa Mine!”
+M-ai coplesit, si-ndata te-am urmat,
+Nimeni nu mi-a vorbit ca si Tine.
+
+[r1]
+/: Marturisesc,esti Domnul vietii mele
+Tu mi-ai iertat  pacatul la Calvar
+Eu sunt nascut din nou prin inviere
+Iti multumesc mi-ai dat si mie har :/
+
+[s2]
+Azi ma botez,si-n legamant iti spun:
+“Te voi urma Isus intodeauna.”
+Ca Tine nimeni nu-i asa de bun
+M-astepti in Cer sa-mi dai in dar cununa.
+
+[s3]
+/: Ma botez,ca mi-ai dat si mie har :/ x4
+/: Marturisesc,esti Domnul vietii mele
+Tu mi-ai iertat  pacatul la Calvar
+Eu sunt nascut din nou prin inviere
+Iti multumesc mi-ai dat si mie har :/
+
+[order]
+s1,r1,s2,r1,s3

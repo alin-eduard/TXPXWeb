@@ -1,0 +1,32 @@
+[s1]
+Acolo unde Duhul Sfânt
+Domneşte, pace e.
+Si fericire pe pământ
+Într-alt loc nu mai e.
+
+[r1]
+Iubirea Ta, o Doamne bun,
+Noi te rugăm, revars-acum
+Pe-acestia doi ce se unesc
+Să te urmeze cât trăiesc!
+
+[s2]
+Acolo unde dragostea
+Cerească e pe tron,
+Nu-s certuri şi nici dezbinări
+Căci Isus este Domn.
+
+[s3]
+Familia în care
+E iubirea lui Isus,
+Chiar dacă trece prin nevoi,
+Ferice e nespus.
+
+[s4]
+/: Iubirea Ta, o Doamne bun,
+Noi te rugăm, revars-acum
+Pe-acestia doi ce se unesc
+Să te urmeze cât trăiesc! :/
+
+[order]
+s1,r1,s2,r1,s3,s4

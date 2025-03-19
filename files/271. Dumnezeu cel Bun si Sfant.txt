@@ -1,0 +1,58 @@
+[s1]
+1. /:Dumnezeu cel bun şi Sfânt :/
+El dă ploaie pe pământ,
+Fraţilor iubiţi.
+271.
+
+[s2]
+2. /:Ca să crească grâul mare :/
+Să aibă lumea de mâncare,
+Fraţilor iubiţi.
+
+[s3]
+3. /:El ne ţine şi pe noi :/
+El vă ţine şi pe voi,
+Fraţilor iubiţi.
+
+[s4]
+4. /:Azi suntem străini pe lume :/
+Şi lipsiţi de fapte bune,
+Fraţilor iubiţi.
+
+[s5]
+5. /: De aceea vreau să zic :/
+Cât mai stau cu voi un pic,
+Fraţilor iubiţi.
+
+[s6]
+6. /: Să vă rugaţi tot mereu :/
+Să nu uitaţi de Dumnezeu,
+Fraţilor iubiţi.
+
+[s7]
+7. /:Când este mai grea furtuna:/
+Vine Domnul cu cununa,
+Fraţilor iubiţi.
+
+[s8]
+8. /:Şi acum la a mea plecare:/
+Vă salut pe fiecare,
+Fraţilor iubiţi.
+
+[s9]
+9. /:Până când ne vom vedea:/
+Ştie Domnul ce s-antâmpla,
+Fraţilor iubiţi.
+
+[s10]
+10. /:Dar de una nu uitaţi:/
+Că suntem cu toţii fraţi,
+Fraţilor iubiţi.
+
+[s11]
+11. /:Şi-ncereasca-mpărăţie:/
+Să formăm o familie,
+Fraţilor iubiţi.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11

@@ -1,0 +1,46 @@
+[s1]
+Pe Calvar, eu am aflat o salvare
+Fii lăudat, o, Doamne !
+/: Jertfa Ta, :/
+e balsam vindecător!
+Spală-mă,
+o, Doamne în al Tău izvor ! :/
+
+[s2]
+Prea mulţi ani am petrecut
+din viaţa mea
+Sub păcat, povară grea..
+/: Jertfa Ta, :/
+e balsam vindecător!
+Spală-mă,
+o, Doamne în al Tău izvor ! :/
+
+[s3]
+Singur rătăceam
+pierdut pe drumul greu,
+Străin, fără Dumnezeu !
+/: Jertfa Ta, :/
+e  balsam vindecător!
+Spală-mă,
+o, Doamne în al Tău izvor ! :/
+
+[s4]
+Dar Isus, văzându-mi
+starea mea de plâns,
+El la Sine m-a adus.
+/: Jertfa Ta, :/
+e balsam vindecător!
+Spală-mă,
+o, Doamne în al Tău izvor ! :/
+
+[s5]
+Şi-acum, iată:
+de Isus sunt mântuit!
+Pe-al Lui braţ sunt fericit !
+/: Jertfa Ta, :/
+e balsam vindecător!
+Spală-mă,
+o, Doamne în al Tău izvor ! :/
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,32 @@
+[s1]
+O nu respinge chemarea
+Nu refuza Harul cel sfânt
+Nu-ţi împietri inima ta
+Ci vino grăbit!
+
+[r1]
+De ce nu astazi?
+De ce nu astazi?
+Să fi salvat.
+De ce nu astazi?
+
+[s2]
+Mâine se poate e târziu
+Şi na’ fi loc pentru tine!
+Primeşte azi cuvântul Viu
+Şi vino grăbit!
+
+[s3]
+Astăzi eşti chemat în milă
+Primeşte-l nu-l refuza
+Mâine se poate de silă
+Căci tu vei muri!
+
+[s4]
+Domnul Isus a mântuit
+Pe cel cei aici la primit
+Azi primeşte cuvintul viu
+Şi-ţi va fi bine!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

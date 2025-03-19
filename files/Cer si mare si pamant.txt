@@ -1,0 +1,32 @@
+[s1]
+1
+Cer şi mare şi pământ
+Laudă pe Domnul Sfânt;
+Deci şi tu inima mea,
+Cântă astăzi slava Sa.
+Soarele strălucitor
+Dând lumină tuturor,
+Luna, stele ce lucesc,
+Despre El mărturisesc.
+Re M
+
+[s2]
+2
+Şi pământul rotunjit,
+Care-a fost împodobit
+Cu munţi, râuri şi câmpii,
+Despre El sunt martori vii.
+Vedeţi păsările-n zbor
+Cum se-nalţă ca un nor?
+
+[s3]
+3
+Tunet, trăsnet, ploaie, vânt
+Toate-a-lui Iehova sunt.
+Ce adânc şi minunat
+Mintea mea s-a luminat,
+Căci simt, Doamne Dumnezeu,
+Ce eşti Tu şi ce sunt eu!
+
+[order]
+s1,s2,s3

@@ -1,0 +1,32 @@
+[s1]
+O, noi ne-am bizuit pe Domnul,
+De-aceea nu ne-au biruit
+Nici vântul când vuia puternic,
+Nici valul când izbea cumplit.
+
+[r1]
+Bizuiţi-vă pe Domnul
+Toţi ai Lui, în orice fel,
+Căci în El au biruinţă
+Câţi se bizuie pe EL.
+
+[s2]
+O, noi ne-am bizuit pe Domnul,
+De-aceea când zdrobiţi păream,
+Spre fericita izbăvire
+Adânc încrezători priveam.
+
+[s3]
+O, noi ne-am bizuit pe Domnul,
+De-aceea-n nopţi de suferinţi
+Închişi, noi pregăteam în lanţuri
+Cântarea marii biruinţi.
+
+[s4]
+O, noi ne-am bizuit pe Domnul,
+De-aceea azi cântăm aşa,
+Din toată inima slăvindu-I
+Puterea şi iubirea Sa.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

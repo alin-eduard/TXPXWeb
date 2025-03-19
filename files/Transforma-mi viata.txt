@@ -1,0 +1,31 @@
+[s1]
+Transforma-mi viata Doamne
+Acelasi nu mai vreau fiu,
+Te rog pune Doamne
+dragostea Ta in mine.
+
+[s2]
+Gandurile mele si viata mea
+Pot fi schimbate
+doar prin dragostea Ta
+Schimba-ma o Doamne
+in asemanarea Ta
+Innoieste fiinta mea
+
+[s3]
+/: O inimă curată Doamne
+Este tot ce-mi doresc
+Din partea Ta :/
+
+[s4]
+O inimă în care
+Răutatea să nu stea,
+O inimă în care
+Să domneşti eu aş vrea,
+O inimă deschisă
+Pentru Tine Domnul meu,
+Să-Ţi înalţe osanale
+Către Tine cel mai mare Dumnezeu.
+
+[order]
+s1,s2,s3,s4

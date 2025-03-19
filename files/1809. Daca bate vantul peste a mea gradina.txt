@@ -1,0 +1,28 @@
+[s1]
+1809.
+1. /:Dacă bate vântul
+Peste-a mea grădină
+E doar ca s-o facă
+De roade mai plină:/
+2. /:Dacă bate vântul,
+Crengile-ţi îndoaie
+E doar ca mai falnic
+Să fii după ploaie:/
+
+[s2]
+3. /:Dacă bate vântul,
+Peste-a ta cărare
+E doar ca să-ntărească
+Paşii pe-a ta cale:/
+4. /:Dacă bate vântul,
+Vrând să te trântească
+Priveşte la Domnul
+Să te izbăvească:/
+
+[s3]
+5. /:Dacă bate vântul, tare şi mai tare
+Apleacă-ţi genunchii,
+Cere-I îndurare:/
+
+[order]
+s1,s2,s3

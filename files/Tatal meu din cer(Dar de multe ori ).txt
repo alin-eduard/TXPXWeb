@@ -1,0 +1,33 @@
+[s1]
+/: Tatăl meu din cer mă strigă
+cu-a Lui voce :
+Fiul Meu, să nu fii trist,
+căci pe tine te iubesc !:/
+
+[s2]
+Dar de multe ori singur m-am simţit
+Cînd oamenii au fugit tot mai departe.
+Singur alergam, fără nici un drum
+Dar iată c-am întîlnit pe Domnul Isus.
+
+[s3]
+/: El m-a sărutat,
+mi-a îngrijit şi rana
+Sufletul mi-a vindecat,
+şi-acum pot să merg cu El.:/
+
+[s4]
+Cînd sînt necăjit şi aş vrea să plîng
+Cînd totu-i parcă-n zadar,
+mă rog lui Isus.
+Cînd de mila mea trandafirii plîng
+Şi cerul s-a înnorat, urmînd să ploaie.
+
+[s5]
+/: Tatăl meu din cer mă strigă
+cu-a Lui voce:
+Fiul Meu, să nu fii trist,
+căci pe tine te iubesc !:/
+
+[order]
+s1,s2,s3,s4,s5

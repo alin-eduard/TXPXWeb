@@ -1,0 +1,30 @@
+[s1]
+Când omul vechi din noi
+se vrea stăpân,
+Când drumu-ngust
+ne pare prea stâncos,
+Avem la dreapta
+un Tovarăş bun:
+E Duhul Sfânt,
+Prieten credincios.
+
+[s2]
+Când îngeri par că slava
+şi-o retrag,
+Când nu ştim nici măcar
+a ne ruga,
+Avem la dreapta
+un Prieten drag:
+E Duhul Sfânt
+ce-i gata-a ne-a-ajuta.
+
+[s3]
+Când lumea-n noi
+îşi face iarăşi loc,
+Când nori acopăr cerul înstelat,
+Avem la dreapta noastră
+sacrul Foc:
+E Duhul Sfânt, prieten adorat.
+
+[order]
+s1,s2,s3

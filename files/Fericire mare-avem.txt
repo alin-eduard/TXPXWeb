@@ -1,0 +1,31 @@
+[s1]
+Fericire mare-avem, Aleluia,
+Pământul sfânt îl vedem, laudă Lui !
+Din păcate am ieşit, Aleluia,
+Şi spre cer noi am pornit, laudă Lui !
+
+[r1]
+/: Fie crucea cât de grea,
+Jos nicicând n-o vom lăsa,
+Căci Isus ne v-ajuta laudă Lui ! :/
+
+[s2]
+Aici curg lapte, miere, Aleluia,
+Noi gustăm cu plăcere, laudă Lui
+E-un pământ îmbelşugat, Aleluia
+Şi e binecuvântat, laudă Lui !
+
+[s3]
+Cetăţi ’nalte sunt aici, Aleluia,
+Din aur zidite sunt, laudă Lui !
+Prin credinţă noi venim, Aleluia,
+Şi cu Domnul locuim, laudă Lui !
+
+[s4]
+Scumpă ţară, sfântă eşti, Aleluia,
+Sfinţii-n tine adăposteşti, laudă Lui !
+De departe te privim, Aleluia,
+Şi mai mult noi te dorim, laudă Lui !
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

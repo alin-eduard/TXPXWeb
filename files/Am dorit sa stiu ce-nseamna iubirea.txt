@@ -1,0 +1,35 @@
+[s1]
+Am dorit să ştiu
+ce-nseamna iubirea
+Şi-am înţeles ca ea e din nemurire
+Caci poate să învingă
+vorba rea şi-a urii fapta
+Poate să alunge gindul
+ce-aduce cearta.
+
+[r1]
+Iubirea cea din Dumnezeu
+Să umple şi caminul tau!
+Şi vei avea doar bucurii
+Pace in suflet, şi cu Isus vei trai.
+
+[s2]
+Vrei, prietene,
+să ştii de taina iubirii
+Să vezi de ce ti-e dat şi tie a iubi?
+Să nu te-ntrebi
+de ce nu-i pace-n jurul tau
+Pentru ca tu nu-L cunoşti
+pe Dumnezeu.
+
+[s3]
+Iar voi, care porniti
+pe noul drum
+Luati cu voi iubirea
+ca prietenul cel bun
+Şi-atunci cind forta urii va sta
+in calea voastră
+Voi veti birui prin iubirea cereasca.
+
+[order]
+s1,r1,s2,r1,s3,r1

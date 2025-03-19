@@ -1,0 +1,87 @@
+[s1]
+1.	Mi-amintesc când eram
+Ca străin peste hotar
+Prin pustiu şi prin spini
+S-au prin peşteri fugar
+Dar de odată a venit
+La mine un străin
+Cu vestea cea de-atunci
+Mă face să tot suspin
+/ : Vestea ce mi-a adus
+Inima mi-a străpuns
+Stam mereu şi plângeam
+C-a murit Ionatan : /.
+1406.      Si m
+
+[s2]
+2.	Când eram amândoi
+La masă la împărat
+Prieteni pe vecie
+Noi în taină am jurat
+Nu mai am nici un prieten
+Ca tine nici un om
+Dar în ceruri mai am
+Un Păstor şi un Domn
+/ : Ionatan, Ionatan
+Mi-ai rupt sufletul meu
+Ah, mai bine muream
+Chiar eu în locul tău : /.
+
+[s3]
+3.	Fala ta Israel
+Zace-ntinsă prin văi
+Saul şi Ionatan
+Şi toţi vitejii tăi
+Prin Ascalon şi prin Gat
+Vestea să n-o răspândiţi
+Să nu ştie duşmanul
+Ce greu am fost loviţi
+/ : Ah, ce durere grea
+Ah şi cât de mult te iubeam
+O dragul meu Ionatan
+Te plâng cu lacrimi amar : /.
+
+[s4]
+4.	M-ai iubit te-am iubit
+Ca pe sufletul meu
+Prin tine m-a scăpat
+De la moarte Dumnezeu
+Când ai tras trei săgeţi
+Ca să mă înştiinţezi
+Nu ştiam că de-atunci
+Faţa n-o să mi-o mai vezi
+/ : Când ne-am îmbrăţişat
+Prieteni adevăraţi
+Atunci plângeam amândoi
+Acum plâng doar ochii mei : /.
+
+[s5]
+5.	De ştiam că tu eşti
+De duşmani urmărit
+Ca un şoim în ajutor
+Atunci ţi-aş fi venit
+Cât de mult mi s-a frânt
+Inima din al meu piept
+Şi zdrobit de-al meu dor
+Mă uit la Mefiboşet
+/ : Ionatan prieten bun
+N-am la cine să spun
+Nimeni oricine-ar fi
+Nu te poate-n locui : /.
+
+[s6]
+6.	Să-nveţe cântarea
+Am spus poporului
+Ea e scrisă de mine
+În cartea dreptului
+Ionatan, Ionatan
+E-o cântare de dor
+Şi-oi cânta-o mereu
+Până când am să mor
+/ : Prieteni adevăraţi
+Mai ceva decât fraţi
+Doar moartea cu a ei urgii
+Îi mai poate despărţi : /.
+
+[order]
+s1,s2,s3,s4,s5,s6

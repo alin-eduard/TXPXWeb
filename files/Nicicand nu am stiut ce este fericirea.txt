@@ -1,0 +1,48 @@
+[s1]
+Nicicând nu am ştiut
+ce este fericirea
+Dar astăzi Tu ne-ai
+dat Isuse mântuirea
+Cuvântul Tău cel dulce
+ce-n Biblie mi-l dai
+Deschide pentru mine
+doritul colţ de rai.
+
+[r1]
+/: Inima :/ gândul meu :/
+/: Sufletul :/ ţi le-nchin :/
+/: Acest cânt :/ e al Tău :/
+Aleluia, Osana, amin. :/
+
+[s2]
+Tu îmi vei fi Stăpân
+pe gândurile mele
+Iar eu voi străluci
+ca miile de stele
+Dar dacă în credinţă orice
+Doamne-ai să-mi dai
+Să-mi dai Doamne putere
+să nu intru-n păcat.
+
+[s3]
+Te-aştept cu ochii plini
+de lacrimi şi durere
+Să-mi ierţi tot ce-am greşit
+cu-o blândă mângâiere
+Să-ţi cânt un cânt de slavă
+cum eu acum îţi cânt
+Şi să-mi dai alinare
+în suflet şi în gând.
+
+[s4]
+Aş vrea să fiu de-acum
+cu-a Ta îngăduinţă
+Un frate între fraţi
+ce trece-n pocăinţă
+Şi dacă într-o barcă
+Isuse-ai să mă vezi
+Aflându-Te pe munte
+Tu barca să veghezi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

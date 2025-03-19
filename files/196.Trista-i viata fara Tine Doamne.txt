@@ -1,0 +1,27 @@
+[s1]
+1. Tristă-i viaţa fără Tine Doamne
+Atunci când păcatu-n mine doarme
+N-am în lume nici o mângâiere
+Şi într-însa nu-mi găsesc plăcere.
+196.
+
+[s2]
+2. Când Duhul Tău nu este în mine
+Am necazuri valuri şi suspine
+Şi la rugăciune nu mă-ndeamnă
+Iar inima mereu mă condamnă.
+
+[s3]
+3. Fără Duhul Sfânt iubite frate
+Inima nu-ţi poate fi curată
+Nu mai simţesc nici o bucurie
+E rămasă goală şi pustie.
+
+[s4]
+4. De aceea Doamne vin la Tine
+Şi Te rog mereu să fii cu mine
+Să-mi dai mângâieri şi bucurie
+Şi aici jos şi odată în veşnicie.
+
+[order]
+s1,s2,s3,s4

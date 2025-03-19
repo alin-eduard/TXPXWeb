@@ -1,0 +1,26 @@
+[s1]
+Smerit, la poala crucii Tale,
+Eu vin şi astăzi, ca să-Ţi cer
+Iertare, căci, pe a mea cale,
+Eu Ţi-am greşit, iertare-Ţi cer
+
+[r1]
+Povaţa, drept călăuzire,
+Mi-ai dat, pe calea către cer,
+Să dau dovada de iubire.
+Că n-am iubit, iertare-Ţi cer...
+
+[s2]
+Mi-ai dat unelte pentru mine,
+Dar stau uitate-ntr-un ungher...
+Şi mulţă muncă-i azi în vie...
+Că n-am lucrat, iertare-Ţi cer.
+
+[s3]
+Dar astăzi, vreau din nou, Isuse,
+Să cânt, să plâng, să lupt, să sper;
+Puterile-mi sunt neajunse...
+De-aceea eu, putere-Ţi cer...
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,58 @@
+[s1]
+Tu, cel fără pace-n suflet,
+Eşti chemat, eşti chemat
+La Isus Mântuitorul,
+Căci prin El poţi fi salvat
+
+[r1]
+/: Poţi să ai chiar lumea-ntreagă
+Lauri, glorii, bogăţii
+De nu-l ai pe Domnul Isus
+Eşti pierdut, pierdut pentru vecii :/
+
+[s2]
+Ai căutat, în lumea largă,
+/: Pacea ta, :/
+Făr’ să ştii c-ai în viaţă
+Pacea ta e... Golgota.
+
+[s3]
+Mulţi din cei ce-n lumea asta
+Fericirea-au căutat
+În plăcerile de-o clipă,
+Doar regretele-au urmat...
+
+[s4]
+Domnul astăzi te întreabă
+Dacă vrei, dacă vrei
+Să laşi lumea şi păcatul
+Să-L urmezi, să-L urmezi
+
+[r2]
+/: Nu-amâna de azi pe mâine
+Vino chiar acum la El
+Uşa încă-i tot deschisă
+Pentru mine, pentru tine
+Dragul  meu:/
+
+[s5]
+Poate-i ultima chemare
+Ce-o auzi astăzi din nou
+Şi pe urmă judecata,
+/: Cea de-apoi... :/
+
+[s6]
+Iar cei ce-au primit pe Domnul,
+/: Sunt salvaţi, :/
+Căci în trupuri noi de slavă-or
+Fi schimbaţi, vor fi schimbaţi.
+
+[s7]
+/: Şi cânta-vom în mărire
+Glorii Mielului preasfânt
+Osanale, osanale
+Celui sfânt, celui sfânt
+De trei ori sfânt :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r2,s5,r2,s6,s7

@@ -1,0 +1,63 @@
+[s1]
+1.Când Domnul
+Te-ncearcă
+Fii treaz, dragul meu!
+1126
+
+[s2]
+Veghează întruna
+Să nu-ţi pierzi cununa
+Oricât încercarea-i de grea!
+Cuptorul e-ncins,
+Tu stai neînvins,
+Credinţa-ţi păstrează oricând.
+
+[s3]
+2.Cuptorul e mare
+Și-ţi curăţă starea.
+
+[s4]
+Când arde în flăcări
+Nu te da în lături
+Va arde cât va curăţi
+Zgura e în aur
+Tu eşti un tezaur
+Isus te cere curat!
+
+[s5]
+3.Nu cârti în tine
+Că eşti prea lovit!
+
+[s6]
+Cel ce vede toate
+Îţi face dreptate.
+Nimic nu-i făr’ voia Lui.
+Când biruieşti toate,
+Eşti ca o cetate
+Zidită pe tari temelii.
+
+[s7]
+4.Tu fii ca străjerul
+La poarta cetăţii
+
+[s8]
+Să ai armătura
+Ce-o cere Scriptura
+Oricât e-ncercarea de grea
+Tu să fii în stare
+S-aştepţi cu răbdare
+Ivirea zorilor.
+
+[s9]
+5.Căci timpul soseşte,
+Isus îţi vorbeşte:
+
+[s10]
+Și-atunci o să spună:
+Vino slugă bună
+Ce credincios ai lucrat
+Ai fost treaz întruna Primeşte cununa
+Amin! S-a terminat!
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

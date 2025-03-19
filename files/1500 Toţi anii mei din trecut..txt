@@ -1,0 +1,48 @@
+[s1]
+1500.
+Toţi anii mei din trecut
+Fără Tine i-am trăit
+Dumnezeule iubit
+Cor:	 Dar acum eu ma întorc la Tine
+Cu dorinţa sufletului meu
+Şi te rog din inimă Stăpâne
+Ajută-mă să-ţi slujesc mereu
+
+[s2]
+2.  Îmi pare aşa de rău
+După anii ce-au trecut
+Pace-n suflet n-am avut
+Cor:	 Dar acum eu ma întorc la Tine
+Cu dorinţa sufletului meu
+Şi te rog din inimă Stăpâne
+Ajută-mă să-ţi slujesc mereu
+
+[s3]
+3. De acuma vreau mereu
+Să-mi trăiesc viaţa mea
+Căci Tu mi-ai dat liniştea
+Cor:	 Dar acum eu ma întorc la Tine
+Cu dorinţa sufletului meu
+Şi te rog din inimă Stăpâne
+Ajută-mă să-ţi slujesc mereu
+
+[s4]
+4.  Doamne eu îţi mulţumesc
+Pentru mine ce-ai făcut
+Ai salvat un om pierdut
+Cor:	 Dar acum eu ma întorc la Tine
+Cu dorinţa sufletului meu
+Şi te rog din inimă Stăpâne
+Ajută-mă să-ţi slujesc mereu
+
+[s5]
+5. Şi acuma la sfârşit
+Îmi înalţ cântarea mea
+Să te bucuri Tu de ea
+Cor:	 Dar acum eu ma întorc la Tine
+Cu dorinţa sufletului meu
+Şi te rog din inimă Stăpâne
+Ajută-mă să-ţi slujesc mereu
+
+[order]
+s1,s2,s3,s4,s5

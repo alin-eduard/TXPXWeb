@@ -1,0 +1,20 @@
+[s1]
+Într-un sat ne-nsemnat din Iudeea
+Într-o iesle din Betleem,
+S-a născut aşteptatul Mesia
+Să-I cântăm cu îngerii în cor!
+
+[r1]
+/: Cânt Osana, cânt Osana
+Cânt Osana, Rege-al regilor!
+Cânt Osana, cânt Osana
+Cânt Osana lui Isus! :/
+
+[s2]
+Părăsiţi turma voastră-n câmpie
+Alergaţi umiliţi la El!
+El este singura bucurie
+Pentru prinţ şi pentru cerşetor!
+
+[order]
+s1,r1,s2,r1

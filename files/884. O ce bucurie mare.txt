@@ -1,0 +1,33 @@
+[s1]
+884.
+1.  O ce bucurie mare
+Frate vom avea
+Când cu Avraam, Isaac şi Iacov
+În cer vom şedea.
+2.  Iar pe Isus plin de slavă
+În faţă Îl vom privi
+Prefăcându-ne cu toţi
+Ca şi El vom fi.
+
+[s2]
+3.  În jurul nostru va cânta
+Corul cel ceresc
+Îngerii cu trâmbiţa
+Vor cânta măreţ.
+4.  O ce bucurie mare
+Nu se şti grăi
+Nici de oameni, nici de îngeri
+Nu s-or plănui.
+
+[s3]
+5.  Ochi de om nici n-au văzut
+Nici nu vor vedea
+Miile de sfinţi şi îngeri
+Cum s-or bucura.
+6.  Cei cu inima curată
+Atunci vor vedea
+Pe Dumnezeu faţă-n faţă
+În veci pururea.
+
+[order]
+s1,s2,s3

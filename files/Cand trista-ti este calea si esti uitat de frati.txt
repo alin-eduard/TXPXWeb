@@ -1,0 +1,44 @@
+[s1]
+Când tristă-ţi este cale,
+şi eşti uitat de fraţi,
+Şi parcă încercarea,
+loveşte cu-al său braţ.
+
+[s2]
+/: Tu nu cădea sub cruce,
+şi mergi ca Domnul tău,
+Căci a purtat păcatul,
+în locul tău şi-al meu. :/
+
+[s3]
+Când simţi că-ţi pierzi puterea,
+ce o avea-i cândva,
+Şi chiar de ai voinţă,
+nu poţi înainta.
+
+[s4]
+/: Mai strânge-ţi iar curajul,
+şi nu te da bătut,
+C-aşa făcut-au sfinţii,
+şi-ajuns-au în cer sus. :/
+
+[s5]
+Când simţi că trece viaţa,
+şi n-ai avut în ea,
+Nici bucurii nici ranguri,
+avere sau palat.
+
+[s6]
+/: Să-ţi aminteşti, aicea,
+tu eşti doar călător,
+Dar în împărăţie,
+eşti fiu de Domnitor. :/
+
+[s7]
+Mai strânge-ţi iar curajul,
+şi nu te da bătut,
+C-aşa făcut-au sfinţii,
+şi-ajuns-au în cer sus.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

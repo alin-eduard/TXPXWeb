@@ -1,0 +1,38 @@
+[s1]
+Nu ne lăsa să ne-ndoim
+În crâncenă furtună
+Nu ne lăsa să ne-ngrozim
+Când fulgeră şi tună
+Nu ne lăsa să îngheţăm
+În crunta viscolire
+Nu ne lăsa să nu-nsetăm
+De cea dintâi iubire.
+
+[r1]
+/: Nu ne lăsa să ne-ndoim
+Isuse de izbândă
+Căci fără ţel ne prăbuşim
+În moarte şi-n osândă :/
+
+[s2]
+Nu ne lăsa îndepărtaţi
+De-a noastre legăminte
+Nu ne lăsa ne-nfioraţi
+De lacrima fierbinte
+Nu ne lăsa să fim împinşi
+Pe căi înşelătoare
+Nu ne lăsa să  fim învinşi
+Şi sfâşiaţi de fiare.
+
+[s3]
+Nu ne lăsa să părăsim
+Credinţa noastră bună
+Nu ne lăsa să despărţim
+Umblarea împreună
+Nu ne lăsa dormind nicicând
+În lene şi-n păcate
+Nu ne lăsa neînsetând
+De cinste şi dreptate.
+
+[order]
+s1,r1,s2,r1,s3,r1

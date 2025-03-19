@@ -1,0 +1,33 @@
+[s1]
+1. Doamne, Numele-Ți înalţ,
+Doamne laudă-Ți cânt Ţie.
+Fericit sunt că Te am
+Fericit de-a Ta iertare.
+16.
+
+[s2]
+Cor: Tu ai venit pe pământ
+Să ne salvezi,
+Sus pe cruce Te-ai jertfit
+Iertat să fiu,
+De pe cruce în mormânt ,
+Din mormânt sus la cer
+Să fii înălţat mereu.
+
+[s3]
+2. Isus mai vine o dată
+Nu pentr-o cruce
+Și-un mormânt
+El vine ca să-i ducă-n slavă
+Pe ai Lui de pe pământ
+
+[s4]
+Cor: El va veni în văzduh
+Să-i ducă-n cer
+Pe toți care au crezut
+Și cred în El
+Aleluia-s fericit că Isus m-a mântuit
+Mire drag, să fii slăvit.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,52 @@
+[s1]
+Cel ce legi rani care dor
+si tamaduiesti,
+Ce-n necaz vii in ajutor
+si ne izbavesti.
+
+[s2]
+/: Cel ce poti si stii a vindeca,
+Medic sfant de sus,
+Vino astazi si in casa mea
+Vino, drag, Isus! :/
+
+[s3]
+Mangaiere-n intristari,
+Har maret nespus,
+Biruinta-n incercari,
+Mi-ai fost Tu Isus.
+
+[s4]
+/: Stanca Tare, sprijin in nevoi,
+Frate minunat,
+Totdeauna-ai fost si esti cu noi
+Prieten adevarat. :/
+
+[s5]
+Cand eram de multi lovit,
+Urat si alungat
+Doar Tu Doamne m-ai iubit,
+Si m-ai ridicat.
+
+[s6]
+/: Au trecut si preoti si leviti,
+Dar m-au lasat jos,
+Doar Tu, Isus, singur Te-ai oprit
+Tu Samaritean Milos. :/
+
+[s7]
+Doamne in Numele Tau,
+Ma aplec smerit,
+Tu esti al Meu Dumnezeu
+Ce m-ai izbavit!
+
+[s8]
+/: Cand Tu Doamne
+Esti de partea mea,
+Ce-mi pot face cei rai,
+Caci sunt ocrotit
+Sub dreapta Ta
+Tu-i aperi pe ai Tai. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

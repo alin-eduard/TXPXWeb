@@ -1,0 +1,27 @@
+[s1]
+Isus ce nume sfânt şi minunat
+Te laud căci m-ai binecuvântat
+Cuvinte n-am să-Ţi mulţumesc îndeajuns
+Căci pentru mine, pe-o cruce Te-ai lăsat  străpuns...
+
+[s2]
+Am fost şi eu în lume, un fiu rătăcitor
+Dar m-a chemat pe nume al meu Mântuitor,
+M-ai scos din noapte-adâncă a negrului păcat,
+M-ai strâns la piept cu milă şi totul mi-ai iertat...
+
+[s3]
+Isus ce nume sfânt şi minunat
+Te laud căci m-ai binecuvântat
+Cuvinte n-am să-Ţi mulţumesc îndeajuns
+Căci pentru mine, pe-o cruce
+Te-ai lăsat  străpuns...
+
+[s4]
+Mă-ntorc acum la Tine plângând păcatul meu,
+Şi-Ţi mulţumesc Isuse, căci sunt copilul Tău,
+Din marea de păcate, Isuse m-ai salvat,
+Cu mâinile curate, Te-aştept neîncetat...
+
+[order]
+s1,s2,s3,s4

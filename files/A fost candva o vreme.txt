@@ -1,0 +1,50 @@
+[s1]
+A fost cândva o vreme
+Când cartea vieții mele
+Era umplută toată
+Cu zeci de mii de rele
+Și-aceste grele fapte
+Se înmulțeau mereu
+Iar eu căutam salvare
+Pentru păcatul meu.
+
+[r1]
+Prin Isus (prin jertfa Sa)
+Prin Isus (prin dragostea Sa)
+Tot trecutul mi’a fost rezolvat de mult
+De păcat am fost spălat
+Pentru veci a fost uitat
+Tot trecutul mi’a fost rezolvat de mult
+
+[s2]
+Isus mi-a dat viață
+Și m-a scăpat de moarte
+M’a curățit de rele
+Și mi le-a șters din carte
+Pe paginile albe
+Se scriu de-atunci mereu
+Doar imnuri de mărire
+Spre Salvatorul meu.
+
+[s3]
+În marea zi de glorii
+Când toți vor învia
+Voi fi chemat de Domnul
+Voi sta-naintea Sa
+Când va deschide cartea
+Voi plânge fericit
+Căci printre sfinți și îngeri
+Voi fi și eu primit.
+
+[s4]
+O scumpul meu prieten
+De vrei să fii salvat
+Întoarce-te la Domnul
+Renunță la păcat
+Primește mântuirea
+Ca cel mai nobil dar
+Isus vrea să-ți rezolve
+Și’al tău trecut murdar.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

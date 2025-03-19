@@ -1,0 +1,34 @@
+[s1]
+Când vom trece prin credintă
+Peste-al mortii trist Iordan
+Ni de va-mplini nădejdea:
+Vom ajunge-n Canaan;
+
+[s2]
+Strălucirea lui măreată
+Ne-ncetat o vom privi,
+Frică, griji, dureri, ispite,
+Toate-acolo vor pieri.
+
+[r1]
+Bucurie necurmată,
+Fericire pe deplin,
+Viată vesnică, odihnă
+Dup-al luptei greu suspin,
+O cunună-mpărătească
+Vom primi ca dar divin.
+
+[s3]
+Pe meleagurile sfinte
+Noi vom fi deplin schimbati,
+Îmbrăcati în nemurire,
+Gloriosi si minunati,
+
+[s4]
+Ca Isus vom fi în ceruri,
+Ca Isus vom străluci
+Si cu sfintii Săi în slavă
+Fericiti in veci vom fi!
+
+[order]
+s1,s2,r1,s3,s4,r1

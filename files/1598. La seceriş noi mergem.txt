@@ -1,0 +1,37 @@
+[s1]
+1598
+1.La seceriş noi mergem
+Cu drag astăzi să lucrăm
+S-aducem snopi aurii snopi
+Din zori până târziu seara          Punând toată silinţa
+S-aducem snopi aurii snopi
+
+[s2]
+Cor: S-aducem snopi aurii snopi
+Lăudat fie Domnul nostru           Că la seceriş ne-a scos
+S-aducem snopi aurii snopi
+
+[s3]
+2.Oriunde totdeauna
+Cu Domnul vom secera
+S-aducem snopi aurii snopi
+De oriunde vom lucra
+Nici când nu ne-om înfrica
+Aducând snopi auri snopi
+
+[r1]
+Cor: S-aducem snopi aurii snopi
+Lăudat fie Domnul nostru
+Că la seceriş ne-a scos
+S-aducem snopi aurii snopi
+
+[s4]
+3.Noi cântăm şi ne rugăm
+Pe Domnul nostru ascultăm
+Aducând snopi aurii snopi
+Mergând în pământ străin
+Ordinul  Lui împlinim
+Aducând snopi aurii snopi
+
+[order]
+s1,s2,s3,r1,s4,r1

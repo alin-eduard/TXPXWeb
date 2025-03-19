@@ -1,0 +1,57 @@
+[s1]
+1656.
+1. Poporul Meu de pe pământ
+Ce-aştepţi o mângâiere,
+Cunosc suspinul tău cel greu,
+Cunosc a ta durere.
+/: Dar în curând se va găta
+Durerea care-ţi pare grea,
+Mai rabdă înc-o clipă. :/
+
+[s2]
+2. Nu-i mult şi toate s-or sfârşi
+Şi plânsul şi durerea,
+Acei ce pentru Mine-au plâns,
+Găsi-vor mângâierea.
+/: Când trâmbiţa va răsuna
+Iar cei aleşi s-or înălţa,
+De pe pământ în slavă. :/
+
+[s3]
+3. Nu-i mult, şi cei ce-au suferit
+Căldura şi arşiţa
+Şi-au semănat plângând aici,
+Cu lacrime sămânţa.
+/: Vor secera cu bucurii,
+Când secerişul ca veni
+Acolo sus în ceruri. :/
+
+[s4]
+4. Nu-i mult şi cei ce-au suferit,
+Intra-vor în cetate,
+Din pomul vieţii vor mânca,
+Din ape să se-adape.
+/: Căci am să şterg Eu lacrima,
+Şi plânsul tău ţi-l vei uita,
+Şi chinul şi durerea. :/
+
+[s5]
+5. Nu-i mult şi cei ce-au plâns cândva
+Îşi vor cânta cântarea,
+Acesta-i Domnul nost’ cel sfânt,
+Ce ne-a adus iertarea.
+/: Acel pe care L-am dorit,
+Şi după care atât am plâns,
+Isus Hristos e Domnul :/
+
+[s6]
+6. Nu-i mult şi cei care-au luptat,
+Vor câştiga cununa,
+Pe capul lor o vor purta,
+Pe veci, întotdeauna.
+/: De bucurie vor striga,
+Spre slava şi mărirea Sa,
+A Tatălui din ceruri. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

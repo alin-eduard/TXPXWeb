@@ -1,0 +1,35 @@
+[s1]
+1. Ştii tu că El a murit
+Pentru tine pe cruce
+Domnul a murit şi a pătimit
+A băut El paharul pentru tine.
+2. Ai fost tu să-L vezi
+Cum se roagă-n grădină
+Să-L vezi cum plânge
+Când alţii dorm
+El strigă Tată e greu paharul
+Dar totuşi facă-se voia Ta.
+760.
+
+[s2]
+3. De ce, de ce mai stai
+Şi nu vii la Isus
+Spune-mi când vii
+O, nu întârzia.
+4. Când funia morţii
+A vrut să mă lege
+Strigat-am către El
+Atunci El mi-a venit în ajutor.
+
+[s3]
+5. Îl măresc căci El pe cruce
+Păcatul meu l-a iertat
+Pentru aceasta inima mea
+Lui Isus eu am predat.
+6. Nicicând n-am să uit că Isus
+Pentru mine a răbdat
+Şi în ceasul greu al morţii
+Pentru mine s-a rugat
+
+[order]
+s1,s2,s3

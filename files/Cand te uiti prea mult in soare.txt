@@ -1,0 +1,39 @@
+[s1]
+Când te uiţi prea mult în soare,
+Nu mai vezi pământul jos;
+Când te crezi prea multe-n stare,
+Uiţi de cel neputincios.
+
+[r1]
+Nu uita, nu uita, nu uita
+Că-i un vis şi viaţa ta,
+că-i un vis şi viaţa ta;
+În curând, în curând, în curând
+Parcă nici n-ai fost nicicând, nicicând!
+
+[s2]
+Când lumina-n tine scade,
+Cresc a umbrelor poveri;
+Când virtutea-n pofte-ţi cade,
+Pierzi cereşti puteri.
+
+[s3]
+Când îţi prea cald şi bine,
+Umbli singur, rupt de tot;
+Când ai zile prea senine,
+Nu mai cauţi pe fraţi şi soţi.
+
+[s4]
+Când de bine-ţi face ţie
+Dumnezeu când eşti fălos,
+Că te duce-n sărăcie
+Şi te-aruncă-n lacrimi jos.
+
+[s5]
+Ce cunună, ce cunună,
+Umblă Domnul ne-ncetat
+Şi pe capul tău s-o pună
+Dacă-ar fi mai aplecat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,43 @@
+[s1]
+1448.          Mi
+Să stai pe turn ca Habacuc
+În vremea cea târzie
+Să stai pe turn şi să veghezi
+Căci Domnul o să vie.
+Cor    /:Să stai pe turn:/
+Să semeni cu al tău Stăpân
+Rămâi statornic neclintit
+Fii tare acum
+
+[s2]
+Să stai pe turn ca un străjer
+Ce aşteaptă dimineaţa
+Când noaptea este pe sfârşit
+Şi când dispare ceaţa
+Cor    /:Să stai pe turn:/
+Să semeni cu al tău Stăpân
+Rămâi statornic neclintit
+Fii tare acum
+
+[s3]
+Să stai pe turn în vreme grea
+De-i ploaie sau furtună
+Să stai pe turn că iar va fi
+Soare şi vreme bună
+Cor    /:Să stai pe turn:/
+Să semeni cu al tău Stăpân
+Rămâi statornic neclintit
+Fii tare acum
+
+[s4]
+Să stai pe turn e rostul tău
+În vremea de pe urmă
+Fii treaz ca să poţi auzi
+Ce Domnul o să-ţi spună.
+Cor    /:Să stai pe turn:/
+Să semeni cu al tău Stăpân
+Rămâi statornic neclintit
+Fii tare acum
+
+[order]
+s1,s2,s3,s4

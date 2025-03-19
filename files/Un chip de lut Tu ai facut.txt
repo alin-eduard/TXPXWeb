@@ -1,0 +1,48 @@
+[s1]
+Un chip de lut Tu ai facut
+I-ai dat din frumusetea Ta
+Şi n-ai uitat de la-nceput
+Alaturi de suflarea să
+Să torni in el şi dragoSea.
+Tu ai Ştiut cind l-ai creat
+Ca-n viata nu e mai de pret
+Decit aceS dar minunat
+Ce-n sufletul indurerat
+Dă insorite dimineti.
+
+[r1]
+/: Iubirea să ramâna-n veac
+din partea Ta cadoul sfânt
+Isuse drag, spre Tine ruga noastra
+Astazi o-naltam !
+Tu singur poti in viata lor să dai
+belsug şi-n toate spor
+De-aceea noi pe bratul Tau vrem
+să-i lasăm ! :/
+
+[s2]
+Privind la omul ce-ai facut -
+Minune ce nu s-a vazut -
+Dar dincolo de cunoscut
+Iubirea Tu ai pus in noi
+Şi ea-i uneste pe acesti doi.
+Iubirea Ta i-a-mbratisat
+Pe-o cale-n viata i-a-ndreptat
+Şi nicicând nu le va fi greu
+Pasind in suflet darul Tau -
+Iubirea e din Dumnezeu.
+
+[s3]
+In om ai pus, fara cântar
+Multimi de daruri i-ai dat, iar
+Mai sus n-ai pus pe nimenea
+Şi-n constelatia-aceasta
+Iubirea-i cea mai mare stea.
+Am vrea iubitii care-acum
+O poarta-n suflet, nicidecum
+Să nu dea voie vreunui nor
+Să o ascunda-n drumul lor -
+Isuse, da-le ajutor !
+
+[order]
+s1,r1,s2,r1,s3,r1

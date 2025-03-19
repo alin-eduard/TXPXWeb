@@ -1,0 +1,32 @@
+[s1]
+Ierusalime, sfânt locaş,
+Tot sufletu-mi suspină:
+Când oare, când te voi vedea?
+Când oare-n tine voi intra,
+Să-ţi cânt şi eu iubirea ta,
+Pe marea cristalină?
+
+[r1]
+Isus iubit, Isuse drag,
+Te cheamă sufletul meu azi,
+/: Cu râu de lacrimi pe obraz: :/
+„O, vino, vino, vino azi
+Şi iată-mă sus la Tine!"
+
+[s2]
+Astfel, aici, aştept cu drag Măreaţa dimineaţă,
+Când Domnul Isus va veni
+Şi sus, pe veci, cu El vom fi,
+Pe veci de veci, cu El vom fi!
+Vedea-ne-om faţă-n faţă.
+
+[s3]
+Ierusalime, loc iubit
+Ah, când vom fi cu tine?
+Când lungul dor ce-aici l-am plâns
+Şi-amarul care-n piept l-am strâns
+Va fi uitat şi şters şi stins
+Şi n-or mai fi suspine?
+
+[order]
+s1,r1,s2,r1,s3,r1

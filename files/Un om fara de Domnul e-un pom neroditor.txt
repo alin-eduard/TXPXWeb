@@ -1,0 +1,49 @@
+[s1]
+Re b  Un om fără de Domnul
+e-un pom neroditor
+Sădit în lumea mare și far’ de ajutor
+Cand firea pamanteasca
+sufletul i-a-ngradit
+Inima lui suspina si e  nefericit.
+
+[r1]
+/:Nu cere de la oameni
+sa-ti dea fericirea
+Caci numai Domnul
+stie si poate sa ti-o dea
+Increde-te in Domnul
+si viata ta va fi
+Rodita si-mplinita
+cu mii de bucurii.:/
+
+[s2]
+Ce-i omul fara Domnul?
+E-un calator pribeag
+Ce alearga prin lume
+cu griji impovarat
+Trudeste-o viata-ntreaga,
+ii binecuvantat
+Si-n anii batranetii
+e-un trist insingurat.
+
+[s3]
+/:Nu cere de la oameni
+sa-ti dea fericirea
+Caci numai Domnul
+stie si poate sa ti-o dea
+Increde-te in Domnul
+si viata ta va fi
+Rodita si-mplinita cu mii de bucurii.:/
+
+[s4]
+Asa omule vino
+la Tatal Dumnezeu
+Caci El ti-a dat viata
+si totul este El
+Te pocaieste astazi
+cat timp tu mai traiesti
+Impaca-te cu Domnul
+sa ai viata-n veci.
+
+[order]
+s1,r1,s2,s3,s4,r1

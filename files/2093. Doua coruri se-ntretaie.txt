@@ -1,0 +1,33 @@
+[s1]
+2093
+1. Două coruri se-ntretaie
+Două coruri preamăresc
+Precum norii cei de ploaie
+De la Tatăl cel ceresc
+
+[s2]
+Cor:  /: Se aude un cor ceresc
+Ce cântă Aleluia
+Se aude și un cor omenesc
+Ce cântă slavă lui Isus :/
+
+[s3]
+2. Două ceruri tot așteaptă
+Ziua minunată
+Să se întâlnească odată
+În a Tatălui casă.
+
+[r1]
+Cor: /: Se aude un cor ceresc
+Ce cântă Aleluia
+Se aude și un cor omenesc
+Ce cântă slavă lui Isus :/
+
+[s4]
+3. Două coruri ne așteaptă
+Ca-mpreună și cu Tine
+În a cerului splendoare
+Strălucește o zi-n mărire.
+
+[order]
+s1,s2,s3,r1,s4,r1

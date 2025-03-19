@@ -1,0 +1,23 @@
+[r1]
+Domn, Isus Hristos e Domn
+Isus Hristos e Domn, să fie lăudat!
+Domn, Isus Hristos e Domn
+Din moarte a-nviat
+În veci să fie lăudat
+
+[s1]
+Isus este Domnul meu de-a pururi
+Eu Îl iubesc pentru iubirea Lui
+De moarte, din păcat
+Din grele chinuri El m-a salvat
+Şi azi trăiesc prin harul Lui.
+
+[s2]
+Dintre mii de căi în astă lume
+Eu am ales să merg pe calea Lui
+Şi pace, bucurii în orice vreme
+Prin har eu am şi astăzi,
+Cânt spre slava Lui.
+
+[order]
+r1,s1,r1,s2,r1

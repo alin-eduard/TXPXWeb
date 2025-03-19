@@ -1,0 +1,33 @@
+[s1]
+1.Toate darurile de-aş avea
+Să vorbesc în limbi, munţii de-aş muta
+Şi  averea să o-mpart aş vrea
+Fără dragoste, nimic nu sunt.
+1380.  Sol
+Cor:	/: Urmăriţi să aveţi dragoste
+Toate pier, în veci rămâne ea
+Urmăriţi să aveţi dragoste
+Fără ea nu primiţi cununa. :/
+
+[s2]
+2.Răbdătoare dragostea este
+Bunătate revarsă din plin
+Crede şi acoperă toate
+Îţi aduce-n viaţă doar alin.
+Cor:	/: Urmăriţi să aveţi dragoste
+Toate pier, în veci rămâne ea
+Urmăriţi să aveţi dragoste
+Fără ea nu primiţi cununa. :/
+
+[s3]
+3.Mai rămân doar trei sunt acestea:
+Credinţa, nădejdea, dragostea
+Dar mai mare întotdeauna
+Este şi rămâne dragostea.
+Cor:	/: Urmăriţi să aveţi dragoste
+Toate pier, în veci rămâne ea
+Urmăriţi să aveţi dragoste
+Fără ea nu primiţi cununa. :/
+
+[order]
+s1,s2,s3

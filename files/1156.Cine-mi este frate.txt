@@ -1,0 +1,19 @@
+[s1]
+1156.
+1.  Cine-mi este frate Cine-s ai mei veri
+Toţi cei ce fac voia Tatălui din cer.
+2.  Cei săraci cu duhul cei nemângâiaţi
+Toţi cei blânzi ca mieii îmi sunt veri şi fraţi.
+3.  Turma aceea mică cu glas iubitor
+Care ascultă vocea Blândului Păstor.
+
+[s2]
+4.  Toţi acei ce astăzi ce umblă umiliţi
+Şi trăiesc asemeni Celor ce-au fost Sfinţi.
+5.  Toţi acei ce astăzi sunt descurajaţi
+Dar care de domnul vor fi-ncoronaţi.
+6.  Ei sunt fraţi cu Mine cu ei mă-nrudesc
+Toţi sunt azi copiii Tatălui ceresc.
+
+[order]
+s1,s2

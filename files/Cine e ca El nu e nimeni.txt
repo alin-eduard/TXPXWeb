@@ -1,0 +1,20 @@
+[r1]
+Cine e ca El, nu e nimeni
+Cine e ca El, El e atotputernic
+Cine e ca El, El e vrednic
+(Hai) Vino şi laudă-L acum
+
+[r2]
+Slavă Lui, Slavă Lui
+El este vrednic de laudă
+De când soarele-i pe cer
+Şi până la apus
+Numele Lui Îl înălţăm ...
+
+[r3]
+Vino şi laudă-L
+şi dă-I toată gloria
+De laudă El este demn ...
+
+[order]
+r1,r2,r3,r1,r2,r3,r1,r2,r3

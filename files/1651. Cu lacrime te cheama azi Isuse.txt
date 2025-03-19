@@ -1,0 +1,54 @@
+[s1]
+1651.           Mi
+1. Cu lacrime te cheamă azi Isuse
+A ta mireasă ce-i bătută greu
+De vânturi reci de valuri de furtună
+O vino, vino-n ajutorul ei.
+Cor:	/:Vino:/, vino, coboară-n adunare
+Lacrimi să ştergi, răni să mai legi
+De fiecare să te-nduri
+Azi Doamne.
+
+[s2]
+2. Vrăşmaşul dă târcoale
+Astăzi turmei
+Ca să răpească pe cei mai slăbuţi
+Vino Tu veghează-n jurul turmei
+Cu toţi vrem ca să ajungem sus.
+Cor:	/:Vino:/, vino, coboară-n adunare
+Lacrimi să ştergi, răni să mai legi
+De fiecare să te-nduri
+Azi Doamne.
+
+[s3]
+3. Azi te cheamă cei bolnavi Isuse
+Unge-i cu balsamul Tău divin
+Mai deschide ochi, mai dă vedere
+Să vedem spre Tine să venim.
+Cor:	/:Vino:/, vino, coboară-n adunare
+Lacrimi să ştergi, răni să mai legi
+De fiecare să te-nduri
+Azi Doamne.
+
+[s4]
+4. Mai priveşte spre părinţi ce strigă
+Către Tine ca să îi asculţi
+Să cobori să intri-n a lor casă
+La copii salvare să aduci.
+Cor:	/:Vino:/, vino, coboară-n adunare
+Lacrimi să ştergi, răni să mai legi
+De fiecare să te-nduri
+Azi Doamne.
+
+[s5]
+5. Noi cu toţi de Tine avem nevoie
+Vino azi la noi nu mai pleca
+Şi când pleci ne ia cu Tine-n slavă
+Şi pe veci să stăm la masa Ta .
+Cor:	/:Vino:/, vino, coboară-n adunare
+Lacrimi să ştergi, răni să mai legi
+De fiecare să te-nduri
+Azi Doamne.
+
+[order]
+s1,s2,s3,s4,s5

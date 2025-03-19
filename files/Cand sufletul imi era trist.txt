@@ -1,0 +1,26 @@
+[s1]
+Cînd sufletul îmi era trist,
+Cînd inima-n mine gemea,
+Cînd durerile m-au cuprins
+Am alergat la mila lui Isus.
+
+[r1]
+/: Şi-am zis: “Stăpîne bun şi drag,
+Ascultă-mi ruga ce Ţi-o-nalţ;
+Trimite-mi ajutor din cerul Tău,
+O, nu mă mai lăsa să gem atît.” :/
+
+[s2]
+Cu barca vieţii cînd pluteam,
+Cînd încercarea m-a cuprins,
+Cînd valurile m-au lovit,
+Atunci am plîns am plîns am plîns
+
+[s3]
+Cînd am rămas eu părăsit
+De toţi acei ce m-au iubit,
+Am suspinat şi am cerut,
+Dar tot a fost zadarnic părăsit
+
+[order]
+s1,r1,s2,r1,s3,r1

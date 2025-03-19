@@ -1,0 +1,49 @@
+[s1]
+Muzica a-ncetat...
+Totu-i nemişcat...
+Doar eu vin spre Tin'
+Doamne m-a durut
+Tot ce n-am făcut
+Voia să-Ţi ascult
+
+[s2]
+Mai mult de un cântec Ţi-aduc
+Căci doar cântecul nu-i
+Ceea ce Tu ai fi vrut
+Tu cauţi mai mult, mai adânc
+Decât se poate vedea
+Te uiţi în inima mea
+
+[s3]
+Mă-ntorc la inima închinării
+Faţa să-Ţi caut,
+Faţa să-Ţi caut, Isus
+Îmi pare rău de amea greşeală:
+Că nu Te-am căutat
+Şi nu m-am închinat destul
+
+[s4]
+Oamenii nu pot întelege tot
+Ce Tu ai jertfit
+Tot ce am primit
+Tu ne-ai dăruit
+Doamne, prin Isus.
+
+[s5]
+Mai mult de un cântec Ţi-aduc
+Căci doar cântecul nu-i
+Ceea ce Tu ai fi vrut
+Tu cauţi mult mai adânc
+Decât se poate vedea
+Te uiţi în inima mea
+
+[s6]
+/: Mă-ntorc la inima închinării
+Faţa să-Ţi caut,
+Faţa să-Ţi caut, Isus
+Îmi pare rău de amea greşeală:
+Că nu Te-am căutat
+Şi nu m-am închinat destul :/
+
+[order]
+s1,s2,s3,s4,s5,s6

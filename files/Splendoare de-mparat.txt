@@ -1,0 +1,29 @@
+[s1]
+Splendoare de-mpărat
+Cu slava îmbrăcat
+/: Pământul va cânta :/
+Lumină-I haina Sa
+Şi noaptea nu va sta
+/: Fugind din faţa Sa :/
+
+[r1]
+Ce mare eşti Tu,
+Vom cânta ce mare eşti Tu
+Toţi vom vedea ce mare eşti
+Dumnezeu
+
+[s2]
+Chiar timpul a facut
+În mâna Lui se-ascund
+/: Sfârşit şi început :/
+Triunic Dumnezeu
+Tată , fiu si duh
+/: El este leu şi miel :/
+
+[s3]
+Numele Lui sfant,
+îl înălţăm cântând
+Ce mare e al meu Dumnezeu
+
+[order]
+s1,r1,s2,r1,s3,r1

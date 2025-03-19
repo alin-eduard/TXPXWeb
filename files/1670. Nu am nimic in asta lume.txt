@@ -1,0 +1,39 @@
+[s1]
+1670.Mi b
+1. Nu am nimic în astă lume
+Căci toate-s goană după vânt,
+Doar plâns, dureri şi-amărăciune
+M-am săturat de-acest pământ.
+Cor:	/:Aş vrea să zbor sus mai sus
+Mai sus de stele
+Aici sunt numai călător
+Aş vrea să zbor
+Către slăvile eterne
+Să Te-ntâlnesc Isus mi-e dor:/
+
+[s2]
+2. Aici sunt lacrimi şi necazuri
+Şi doar puţine bucurii,
+Dar ştiu că-n cer pe sfinte plaiuri
+Voi fi cu Tine-n veşnicii.
+Cor:	/:Aş vrea să zbor sus mai sus
+Mai sus de stele
+Aici sunt numai călător
+Aş vrea să zbor
+Către slăvile eterne
+Să Te-ntâlnesc Isus mi-e dor:/
+
+[s3]
+3. Eu stau mereu în aşteptare,
+Tu ai spus şi cred c-ai să revii.
+Tânjesc de dor privind în zare,
+Grăbeşte Doamne aceia zi.
+Cor:	/:Aş vrea să zbor sus, mai sus
+Mai sus de stele
+Spre ţara fără de apus,
+Aş vrea să zbor
+Către slăvile eterne
+Să Te-ntâlnesc al meu Isus:/
+
+[order]
+s1,s2,s3

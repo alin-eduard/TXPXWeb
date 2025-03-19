@@ -1,0 +1,74 @@
+[s1]
+1594
+1.Nu uita pe Creatorul
+Cât eşti tânăr şi frumos
+De Isus Mântuitorul
+Să-l asculţi fii credincios
+
+[s2]
+2.Trece timpul tinereţii
+Când laşi toate şi plăceri
+Vine toamna bătrâneţii
+Plin de lacrimi şi dureri
+
+[s3]
+3.Tinereţea-i ca şi o floarea
+Pentru un timp ce înfloreşte
+Tinereţea-i trecătoare                                Curând ea se vestejeşte
+
+[s4]
+4.Cum va ţinea drept curată
+Tânărul cărarea lui
+Când mintea va fi-ndreptată
+Spre cuvântul Domnului
+
+[s5]
+5.Dacă doreşti mântuire
+Spre a fi veşnic fericit
+Predă-i viaţa cu iubire
+Lui Isus ce te-a iubit
+
+[s6]
+6.El te va conduce-n toate
+Cu braţul puternic sfânt
+Credincios fii până la moarte
+Cât trăieşti pe acest pământ
+
+[s7]
+7.La sfârşit de cale odată
+Vei primi cununa vieţii
+De la Domnul ca răsplată
+Ziua mare-i judecăţi
+
+[s8]
+8.Dacă aşa răsplată aşteaptă
+Pentru un om ce-i credincios
+Lăsaţi plăceri fiecare
+Slujiţi Domnului Hristos
+
+[s9]
+9.Ce frumos e pentru tineri
+În slujba lui Isus să fii
+Ducând vestea mântuirii
+Pentru întreaga omenire
+
+[s10]
+10.Vestind ultima chemare
+Toţi să se pocăiască
+Domnul vine-n slavă mare
+Pe toţi să-i răsplătească
+
+[s11]
+11.Lângă Isus pe calea vieţii
+Tineri toţi veniţi grăbiţi
+Primăvara tinereţii
+Pentru Domnul s-o jertfeşti
+
+[s12]
+12.Învăţaţi drumul credinţei
+Păstraţi sfântul legământ
+Tinereţea veşniciei
+Veţi primi noul pământ
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12

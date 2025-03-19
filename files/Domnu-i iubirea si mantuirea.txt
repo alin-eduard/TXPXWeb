@@ -1,0 +1,58 @@
+[s1]
+Domnu-i iubirea şi mântuirea
+Domnu-i iubirea de-a pururea.
+Eu am să spun mereu:
+/: Domnu-i iubirea, :/
+Isus e-al meu !
+
+[s2]
+Eram departe, prins în păcate,
+Eram departe, dar m-a salvat.
+Eu am să spun mereu:
+/: Domnu-i iubirea, :/
+Isus e-al meu !
+
+[s3]
+Zăceam în moarte, legat de şarpe,
+Zăceam în moarte prin boldul ei.
+Eu am să spun mereu:
+/: Domnu-i iubirea, :/
+Isus e-al meu !
+
+[s4]
+Venit-a Domnul, lăsând El cerul,
+Venit-a Domnul jos pe pământ.
+Eu am să spun mereu:
+/: Domnu-i iubirea, :/
+Isus e-al meu !
+
+[s5]
+Tu-mi dai azi pace, ea mă reface,
+Tu-mi dai azi pace, că mă iubeşti.
+Eu am să spun mereu:
+/: Domnu-i iubirea, :/
+Isus e-al meu !
+
+[s6]
+Tu-mi iei durerea şi-mi dai puterea.
+Tu-mi iei durerea şi mă-ntăreşti.
+Eu am să spun mereu:
+/: Domnu-i iubirea, :/
+Isus e-al meu !
+
+[s7]
+Ce moştenire, în strălucire,
+Ce moştenire mi-ai pregătit !
+Eu am să spun mereu:
+/: Domnu-i iubirea, :/
+Isus e-al meu !
+
+[s8]
+Cânta-voi slavă, da, Ţie slavă,
+Cânta-voi slavă cât voi trăi !
+Eu am să spun mereu:
+/: Domnu-i iubirea, :/
+Isus e-al meu !
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

@@ -1,0 +1,42 @@
+[s1]
+Urmaţi-Mă, ne-a zis Hristos,
+Cel ce-i al meu să vină
+Să lase vechea fire jos,
+Să vină la lumină.
+Cei ce din moarte-aţi fost treziţi,
+Luaţi-Mi crucea şi veniţi!
+
+[s2]
+Eu pentru voi sunt ca un far
+Ce-n beznă luminează;
+Nu-l va zdrobi al nopţii val
+Pe-acela ce-mi urmează.
+Eu calea sunt, Mă căutaţi,
+Pe-această cale să umblaţi!
+
+[s3]
+Eu inima Mi-am dăruit,
+Sunt blând, făr’ de trufie;
+Pe cei trudiţi i-am ocrotit
+Ferindu-i de urgie
+Şi orice gând eu l-am supus
+Voinţei Tatălui de sus.
+
+[s4]
+Eu vă descopăr calea rea,
+Să treceţi pe alături
+Căci suflet liber veţi avea
+Urmând a Mele sfaturi;
+Sunt ancoră şi sunt catarg,
+Sunt port în al veciei larg.
+
+[s5]
+Ţi-e drumul greu, nu şovăi,
+Mergi şi voi fi cu tine,
+Eu calea ţi-o voi pregăti,
+Lupta-voi pentru tine;
+Nu-i vrednic cine dă ’napoi,
+’Nainte! Domnul e cu voi!
+
+[order]
+s1,s2,s3,s4,s5

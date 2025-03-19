@@ -1,0 +1,32 @@
+[s1]
+La cruce, unde-­a murit Hristos,
+Eu am venit ca un păcătos;
+El m-a primit şi sunt bucuros,
+Slavă lui Hristos!
+
+[r1]
+Slavă lui Hristos!
+Slavă lui Hristos!
+Sângele Lui sfânt m-a curăţit;
+Slavă lui Hristos!
+
+[s2]
+Ce minunat: sunt eliberat!
+Domnul pe cruce mult a răbdat,
+El mi­a dat harul de­a fi iertat.
+Slavă lui Hristos!
+
+[s3]
+Tu, sfânt izvor ce speli de păcat,
+Un loc mai bun eu nu am aflat;
+Numai la cruce pot fi salvat.
+Slavă lui Hristos!
+
+[s4]
+Vino şi bea din acest izvor,
+Te­-nchină bunului Salvator,
+Crede în El, fii ascultător.
+Slavă lui Hristos!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

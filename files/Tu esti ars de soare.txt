@@ -1,0 +1,20 @@
+[s1]
+Tu esti ars de soare, esti fără putere,
+Alergi la izvoare, ca să bei din ele.
+Multe sunt secate, altele amare.
+Vino la izvorul care dă iertare.
+
+[r1]
+Vino de bea din sfântul izvor,
+Dacă ti-e sete si dacă ti-e dor.
+Vino de bea dacă doresti,
+Isus este apa si poti s-o primesti.
+
+[s2]
+Prin furtuna vietii, prin desertăciune.
+Căutat-ai ape, ape pentru tine.
+Stat-ai în băltoace, băut-ai din ele.
+Vrei apă curată, vino azi si cere!
+
+[order]
+s1,r1,s2,r1

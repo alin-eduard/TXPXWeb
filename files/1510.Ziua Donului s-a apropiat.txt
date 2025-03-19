@@ -1,0 +1,51 @@
+[s1]
+1510.
+1. Ziua Domnului s-a apropiat
+Tot cuprinsul încă e-noptat
+/: Voi de lucru aţi încetat
+Să nu cădeţi în păcat
+De aceea v-am înştiinţat :/
+2. Semne se arată tot mereu
+Priviţi voi acum la Dumnezeu
+/: Cu post şi cu rugăciuni
+Să nu ziceţi că-i destul
+Că aveţi de mers încă pe drum :/
+
+[s2]
+3. De ce aţi lăsat armele jos
+Şi nu mai ascultaţi de Hristos
+/: Unde e lumina ta
+Să se vadă azi roada
+Aşa cum te-nvaţă Scriptura :/
+4. Biblia învăţãturi v-a dat
+Cum Pavel la Efeseni le-a dat
+/: În sfinţenie să fiţi
+Îmbrăcaţi neprihăniţi
+După chipul lui Dumnezeu :/
+
+[s3]
+5. Stai gata cu mijlocul încins
+În adevăr să nu te dai învins
+/: Tu râvnă mereu să ai
+Şi înapoi să nu dai
+Că la început tu cum luptai :/
+6. Acela care va birui
+Un stâlp în casa Domnului va fi
+/: Domnul pe el scris va fi
+Şi numele cetăţii
+Când Ierusalimul va coborî :/
+
+[s4]
+7. Nu te teme ce ai să suferi
+Satan va da pe unii-ntemniţă
+/: Ca să fie încercaţi
+Dacă sunt aur curat
+Şi în slujba Domnului predat :/
+8. După acele zile de dureri
+Luna nu va lumina la fel
+/: Soarele s-antuneca
+Şi stelele vor cădea
+Întregul cer va fi clătinat :/
+
+[order]
+s1,s2,s3,s4

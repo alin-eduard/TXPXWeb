@@ -1,0 +1,19 @@
+[s1]
+Laudă lui Dumnezeu în cer
+Cu bucurie să-I cîntăm
+Toată cinstea să-I aducem
+Căci El dăinuieşte în veci !
+
+[r1]
+/: Laudă Ţie, Doamne ! :/
+Glorie, onoare
+Să-Ţi fie /: în veci ! :/
+
+[s2]
+Tot Pămîntul să ridice
+Cîntarea Lui de laudă
+Toată lumea să audă
+Căci El dăinuieşte în veci.
+
+[order]
+s1,r1,s2,r1

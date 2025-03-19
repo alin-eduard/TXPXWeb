@@ -1,0 +1,6 @@
+[s1]
+Fiti binecuvântati, fiti binecuvântati,
+Fiti binecuvântati surori iubite si sfinti frati
+
+[order]
+s1

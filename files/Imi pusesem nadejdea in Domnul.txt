@@ -1,0 +1,20 @@
+[s1]
+Îmi pusesem nădejdea în Domnul
+El spre mine s-a plecat
+S-a plecat să-mi asculte strigarea
+Şi din groapă m-a scăpat
+
+[r1]
+/: Mi-a pus picioarele pe stâncă
+Şi paşii mei i-a întărit
+Şi o cântare minunată
+Pe buze El mi-a dăruit. :/
+
+[s2]
+Fericit este omul ce-n Domnul
+Se încrede ne-ncetat
+Paşii lui se îndreaptă spre ceruri
+Şi-are sufletul curat
+
+[order]
+s1,r1,s2,r1

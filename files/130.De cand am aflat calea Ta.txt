@@ -1,0 +1,61 @@
+[s1]
+1. De când am aflat calea Ta,
+Mereu, mereu te văd
+Pe crucea de la Golgota
+Şi dragostea vreau să-ţi arăt.
+130.                    Mim
+
+[s2]
+Cor: Eşti veşnic viu ,
+Eşti veşnic Sfânt!
+Cu Tine am  făcut legământ!
+Ajută-mă la crucea mea
+Să urc pe Golgota cu ea .
+
+[s3]
+2. De atâtea ori pe calea Ta,
+Ispite şi-ncercări,
+Dar cum să mă abat din ea
+Căci drum mai bun nu-i nicăieri.
+
+[s4]
+Cor: Eşti veşnic viu ,
+Eşti veşnic Sfânt!
+Cu Tine am  făcut legământ
+Ajută-mă la crucea mea,
+Să urc pe Golgota cu ea!
+
+[s5]
+3. Când vin ispite şi-ncercări,
+Atât de aproape vin
+Şi prin a Tale dulci chemări
+Ne scoţi dintre morţi între vii.
+
+[r1]
+Cor: Eşti veşnic viu ,
+Eşti veşnic Sfânt!
+Cu Tine am  făcut legământ!
+Ajută-mă la crucea mea
+Să urc pe Golgota cu ea!
+
+[s6]
+4. Iar când vreodată va scădea
+Puterea de crucea grea,
+Te rog întinde-Ţi mâna Ta,
+Căci Tu ai biruit lumea.
+
+[s7]
+5. Acum Isuse-Ți mulţumesc,
+Căci Tu mă luminezi.
+Şi mi-ai dat Duhul Tău cel Sfânt
+Să mă conducă pe pământ.
+
+[s8]
+Cor: Eşti veşnic viu,
+Eşti veşnic Sfânt!
+Cu Tine am  făcut legământ!
+Ajută-mă la crucea mea
+Să urc pe Golgota cu ea !
+
+[order]
+s1,s2,s3,s4,s5,r1,s6,r1,s7,s8

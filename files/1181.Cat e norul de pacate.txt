@@ -1,0 +1,62 @@
+[s1]
+1181.
+1.         Cât e norul de păcate
+Astăzi pe pământ
+Multe şi nenumărate
+Limba le-a făcut
+A vorbit aşa de mult şi-a păcătuit
+Însuşi Domnului pe cruce
+Gura i-a tăcut
+/:Limbă :/ ce juri şi vorbeşti
+Nu se iartă, nu se uită
+Până nu plăteşti.
+
+[s2]
+2.       Ai făcut să curgă lacrimi
+Case ai aprins
+Lângă alte mădulare
+Nu te-ai dat învins
+Pe mulţi îi vorbeşti de bine
+Când îi întâlneşti
+Dar la spate ştii prea bine
+Cât îi cleveteşti
+Limbă iute te-aprinzi ca un foc
+Când se-aprinde nu se stinge
+Până arde tot.
+
+[s3]
+3.     Când te-ntreabă oarecine
+Despre ce n-ai vrea
+Cel mai sfânt răspuns şi bine
+Este nu sau da
+Dar răspunsul ce-ocoleşte
+Adevărul drept
+Tot minciună se numeşte
+Oricât de înţelept
+Limbă mică nu acoperi tot
+Veghează că prin minciună
+Te duci tot în foc.
+
+[s4]
+4.  Dacă ai auzit o vorbă despre cineva
+Cum ai prins-o ai şi dus-o în gura altuia
+Poate să fie minciună
+Sau fapt împlinit
+Dar mai mult ca el ai grijă
+Tu cât ai vorbit
+/: Limba :/ dacă n-o opreşti
+La mulţi provoci suferinţă
+Şi ai să plăteşti.
+
+[s5]
+5.  Limba-i arma de sudalme, bici usturător
+Cu ce leagă şi blesteamă cel defăimător
+Tu fă-mă un dar de slavă
+Pentru Dumnezeu
+Slăveşte-L în rugăciune şi cântă-I mereu
+/: Limbă :/ să te pocăieşti
+Niciodată ce nu-i bine
+Să nu mai vorbeşti .
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,27 @@
+[s1]
+El m-a condus ce glorie,
+Cuvinte de mângăiere,
+Oriunde-aş fi, orice-aş face
+Mâna Domnului mă duce
+Sol M
+
+[r1]
+El mă duce, mă conduce.
+Cu braţele-I puternice;
+Lui voi urma cu credinţă
+Căci mâna Lui, mă conduce.
+
+[s2]
+Doamne-Ţi dau mâna mea-n a Ta
+Nici când nu mă voi întrista,
+Îţi mulţumesc pentru toate,
+Căci mâna Ta mă conduce
+
+[s3]
+Iar când al meu lucru sfârşesc
+Şi biruinţă dobândesc
+Nu mă tem nici chiar de moarte
+Căci mâna Ta mă conduce
+
+[order]
+s1,r1,s2,r1,s3,r1

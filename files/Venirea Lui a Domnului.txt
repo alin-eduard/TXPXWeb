@@ -1,0 +1,42 @@
+[s1]
+Venirea Lui, a Domnului
+/: e aproape :/
+O clipă mai este acum
+/: din noapte :/
+/: Zorile răsar, razele apar,
+Ziua minunată vine.
+Nu mai este mult plânsul cel amar
+A trecut şi Domnul vine. :/
+Mi M
+
+[s2]
+Din cer la noi l-a Sale oi
+/: El vine :/
+Să ne ducă în slava Sa
+/: la Sine :/
+/: Blândule păstor Te-aşteptăm cu dor
+Să ne duci în cer la Tine
+La izvoare reci scumpe Salvator
+Durerea să ni se-aline. :/
+
+[s3]
+Ne pregătim gata să fim
+cu haina curată
+În candelă neîncetat uleiul să ardă.
+/: Cu mijlocu-ncins arde-vom nestins
+Cu făcliile aprinse
+Negurile reci de pe-ntreg pământ
+Vor dispare toate-nvinse. :/
+
+[s4]
+Te aşteptăm, Te adorăm
+/: Isuse :/
+Păstor iubit du-ne acasă
+/: la Tine :/
+/: Când ai să răsuni popor să-Ţi aduni
+Scoală-ne din aţipire
+Cu toţi cei aleşi Doamne să ne pui
+La dreapta-Ţi iubite mire. :/
+
+[order]
+s1,s2,s3,s4

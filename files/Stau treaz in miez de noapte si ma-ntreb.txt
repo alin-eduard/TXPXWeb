@@ -1,0 +1,38 @@
+[s1]
+Stau treaz in miez de noapte si ma-ntreb
+Ce este viata in care eu alerg
+Ce este lumea in care eu traiesc
+Si ce sunt toate cate le privesc
+
+[s2]
+Si simt adanc in trupul meu stingher
+Cum toate merg pe-o cale rea si pier
+Nimica din cate vad si ce traiesc
+Nu poate fi etern si ma ingrozesc
+
+[s3]
+Dar ce v-am spune prin launtrul meu
+Nu sunt de-aici eu sunt din Dumnezeu
+Eu sunt de sus privesc spre galaxii
+Si vad atatea astre mii si mii
+
+[s4]
+C-o treapta as vrea mai sus sa ma inalt
+Intind o mana vreau sa ma agat
+De-un fir de raza sa ma-ntorc inapoi
+Sa scap de-atata truda si noroi
+
+[s5]
+Ce mult as vrea sa stralucesc pe cer
+Sa fiu acasa langa Tatal meu
+Dar ma trimis fiu aici jos
+Si sa traiesc o viata cu folos
+
+[s6]
+Sa stralucesc aici pe pamant
+Si-abia pe urma sus in cerul sfant
+Sa fiu o raza pentru cei din jur
+Si-apoi o stea pe bolta cerului
+
+[order]
+s1,s2,s3,s4,s5,s6

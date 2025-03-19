@@ -1,0 +1,33 @@
+[s1]
+Biblia mă-nvaţă că tot ce este rău
+Vine doar de la cel rău,
+de aceea, dragul meu
+Vorba rea ce îmi spui,
+în inimă n-o primesc
+Isus mi-a spus doar atît:
+să mă rog şi să te iubesc.
+
+[s2]
+Eu cînt în soare şi florile sărut
+Că în ele văd pe Isus iubit
+De-aceea-s fericit, şi cînd sînt jignit
+Eu zîmbesc şi mă rog şi iar sînt fericit.
+
+[s3]
+Pacea ce mi-a dat-o
+Domnul Isus al meu
+Învinge orice rău,
+eu sînt fericit mereu
+Vorbe rele aud chiar mii,
+dar eu mă rog
+Pentru cei ce le rostesc,
+că ei pe Domnul nu-L cunosc.
+
+[s4]
+Eu cînt cu florile şi cu zorile
+Şi cu razele şi cu stelele.
+Eu cînt şi-s fericit, că El m-a mîntuit.
+Şi-L aştept cu dor, căci va veni-n curand.
+
+[order]
+s1,s2,s3,s4

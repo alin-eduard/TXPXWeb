@@ -1,0 +1,20 @@
+[s1]
+Slavă, onoare, glorie, splendoare,
+Fie Celui din veşnicii,
+Orice naţiune, întreaga lume
+Cântă Celui din veşnicii
+Orice limbă-n cer, pe pământ
+Să-Ţi declare gloria,
+Orice fiinţă în faţa Ta, să cadă,
+Tu vei fi pe veci înălţat
+Şi vei împărăţi peste noi,
+Cel din veşnicii.
+
+[s2]
+Pământul aşteaptă venirea Ta
+Glorie Celui din veşnicii,
+Să fie văzută iar slava Ta,
+Glorie Celui din veşnicii.
+
+[order]
+s1,s2

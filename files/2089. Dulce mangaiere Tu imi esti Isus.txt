@@ -1,0 +1,40 @@
+[s1]
+2089
+1. Dulce mângâiere
+Tu îmi ești Isus mereu
+Sfântă adiere când drumul
+Vieții este greu
+
+[r1]
+Cor: /: Tu-mi ești :/
+Păstorul meu minunat
+/: Tu-mi ești :/
+Dumnezeu adevărat
+
+[s2]
+2. Aplecat în rugă
+Inima mea Ți-o deschid
+Și Te chem cu lacrimi
+Ca mai demult și David
+
+[s3]
+3. Dincolo de zare
+Dincolo de orice nor
+Cu Tine în splendoare
+Doamne de Tine
+îmi este dor.
+
+[r2]
+Cor: /: Tu-mi ești :/
+Păstorul meu minunat
+/: Tu-mi ești :/
+Dumnezeu adevărat.
+
+[s4]
+4. Dorul reîntâlnirii
+Îmi arde-n piept neîncetat
+Rege al iubirii
+Isuse Păstor minunat.
+
+[order]
+s1,r1,s2,r1,s3,r2,s4,r2

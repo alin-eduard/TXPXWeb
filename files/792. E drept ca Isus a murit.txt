@@ -1,0 +1,30 @@
+[s1]
+1. E drept că Isus a murit
+Purtând păcatul meu
+Pe cruce cum a suferit
+Fiul lui Dumnezeu.
+792.
+
+[r1]
+Cor:	Da crucea-i acel loc
+Unde m-am luminat
+Am fost orb,
+Vedere aici mi s-a dat
+Şi pe Isus în inimă am primit
+Cânt voios
+Pacea Lui am dobândit.
+
+[s2]
+2. Simt ale Fiului dureri
+Ce scumpă-i rana Lui
+Prin care înţeleg de-ajuns
+Iubirea Tatălui.
+
+[s3]
+3. Isuse datoria mea
+Cu plâns n-o pot plăti
+Aşa cum sunt primeşte-mă
+Şi-n toate îţi voi sluji.
+
+[order]
+s1,r1,s2,r1,s3,r1

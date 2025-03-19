@@ -1,0 +1,33 @@
+[s1]
+Se duce timpul de chemare
+Iar tu rămâi în stare grea,
+În zile de suspin şi jale
+‘Naintea Domnului vei sta.
+/:Căci totul trece-n astă lume
+Şi omul, da, omu-i trecător
+/:Dumnezeu în veci rămâne
+Ca Domn Atotstăpânitor.://
+Mi m
+
+[s2]
+Vei plânge viaţa ta trăită
+Trecutul tău întunecos
+Târzie va fi atunci căinţa,
+Vei rămânea pe pământ jos.
+/:Căci totul trece-n astă lume
+Şi omul, da, omu-i trecător
+/:Dumnezeu în veci rămâne
+Ca Domn Atotstăpânitor.://
+
+[s3]
+Răpi-va Domnul pe ai Săi
+În bucurii şi-n fericiri
+Cei ce l-au lăsat fără temei
+Vor plânge-n lacrimi şi-n suspin.
+/:Căci totul trece-n astă lume
+Şi omul, da, omu-i trecător
+/:Dumnezeu în veci rămâne
+Ca Domn Atotstăpânitor.:/
+
+[order]
+s1,s2,s3

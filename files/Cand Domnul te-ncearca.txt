@@ -1,0 +1,43 @@
+[s1]
+Când Domnul te-ncearcă,
+Fii treaz, dragul meu!
+Veghează întruna,
+Să nu-ţi pierzi cununa,
+Oricând încercarea e grea.
+Cuptorul e-ncins, tu stai, neînvins,
+Credinţa-ţi păstrezi oricând
+
+[s2]
+Cuptorul e mare şi-ţi curata starea;
+Când arde în flăcări,
+Nu te da în lături!
+Va arde, cât va curăţi zgura de aur.
+Tu eşti un tezaur
+Isus te cere curat.
+
+[s3]
+Nu cârti în tine că eşti prea lovit...
+Cel ce vede toate, iţi face dreptate;
+Nimic nu-i fără voia Lui.
+Când biruieşti toate, eşti ca o cetate
+Zidită pe tari temelii.
+
+[s4]
+Tu fii ca străjerul la poarta cetaţii!
+Să ai armătura ce-o cere Scriptura!
+Oricât e-ncercarea de grea,
+Tu să fii în stare s-aştepţi,
+cu răbdare, ivirea zorilor.
+
+[s5]
+Căci timpul soseşte,
+Isus îţi vorbeşte
+Şi-atuncea să-ţi spună:
+„Vino, slugă bună,
+Ce credincios ai lucrat!
+Ai fost treaz întruna;
+primeşte cununa!
+Amin, s-a terminat!"
+
+[order]
+s1,s2,s3,s4,s5

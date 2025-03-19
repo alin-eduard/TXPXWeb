@@ -1,0 +1,22 @@
+[s1]
+Aceasta mi-e dorinţa, să Te onorez
+Cu întreagă mea fiinţa să Te slăvesc,
+Te ador stăpâne şi mă închin
+Lauda şi onoarea Ţi se cuvin!
+
+[r1]
+/: Doamne-Ţi dau inima
+şi sufletul meu
+Pentru Tine eu trăiesc,
+Dimineata in zori,
+pana seara tarziu
+Doar voia Ta s-o fac. :/
+
+[s2]
+Vrednic eşti de cinste, fii lăudat
+Împărat al slavei fii înălţat,
+Alfa şi Omega de-a pururi viu
+Domn al veşniciei în veci amin!
+
+[order]
+s1,r1,s2,r1

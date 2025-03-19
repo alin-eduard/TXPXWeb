@@ -1,0 +1,73 @@
+[s1]
+1353.
+1.  Ziua judecăţii vine
+Oare noi cum te-aşteptăm
+Candelele ne sunt pline
+Suntem gata de răpire
+Să te-ntâmpinăm.
+/: Sau suntem în aţipire
+Aşteptăm a Ta venire
+Fără să veghem:/
+
+[s2]
+Căci cuvântul aşa ne spune
+Cu toţi să ne pregătim
+Bucurându-ne-n nădejde
+Prin suferinţă de-om trece
+Greul să-L răbdăm.
+/: Răbdători chiar şi-necaz
+Stăruind în rugăciune
+Cu lacrimi pe obraz:/
+
+[s3]
+Căci mâinile obosite
+Doamne Tu mi le-ntăreşti
+Şi genunchii slăbănogi
+Chiar şi pe cei ce-s ologi
+Tu nu-i părăseşti.
+/: Pentru că cel ce veghează
+Este Domnul ce lucrează
+Chiar şi prin minune:/
+
+[s4]
+Urmăriţi pacea cu toţii
+Şi sfinţiţi-vă prin ea
+Fără care nimenea
+Pe Domnul nu-L va vedea
+În mărirea Sa.
+/: Luaţi seama bine dar
+Nu vă depărtaţi de har
+Şi nici de cuvânt:/
+
+[s5]
+De muntele veşnic sfânt
+Cine s-a apropiat
+De cetatea lui Dumnezeu
+În ea veţi intra-n curând
+Şi toţi veţi cânta.
+/: În Ierusalimul sfânt
+Cei ce-au făcut legământ
+Cu-a Lui Duh preasfânt:/
+
+[s6]
+Fiindcă-am primit de la Domnul
+O împărăţie care
+Nu s-a clătinat vreodată
+Şi nicicând nu s-a schimbat
+Prin a Sa iubire.
+/: Fiindcă Domnul nostru este
+Este un foc mistuitor
+Sfântul sfinţilor:/ .
+
+[s7]
+7.  De aceea Doamne, Sfinte
+Eu te rog nu mă lăsa
+Dă-ne Tu puteri depline
+Să putem zbura spre Tine
+Când ne vei chema.
+/: Să ne bucurăm cu Tine
+Noi mireasă şi Tu, Mire
+În mărirea Ta:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

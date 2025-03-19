@@ -1,0 +1,33 @@
+[s1]
+Vrei să fii mai sfânt
+Şi pentru Domnul să trăieşti?
+Vrei cu El pe cale să călătoreşti?
+Vrei să­ţi poarte El
+Povara grijilor lumeşti?
+Ia­L cu tine pe Isus!
+
+[r1]
+Puterea Lui te poate întări,
+În sânge sfânt te poate curăţi,
+Iubirea Lui te poate­nsufleţi,
+Ce bine e cu Domnul tău să fii!
+
+[s2]
+Vrei să fii iertat
+Şi să­mplineşti al Său Cuvânt?
+Vrei să ai tu pacea
+Domnului preasfânt?
+Vrei să te conducă,
+El pe cale luminând?
+Ia­L cu tine pe Isus!
+
+[s3]
+Vrei să ai un loc în slavă,
+Sus în ţara Lui?
+Vrei tu să te laşi în grija Domnului?
+Vrei să fii găsit lucrând
+Pe­ogorul sfânt al Lui?
+Ia­L cu tine pe Isus!
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,45 @@
+[s1]
+1. Ziua Domnului soseşte
+Sionul se pregăteşte
+/: Cu haină de mireasă,
+Cu ulei în candelă
+Să întâmpinăm pe Mire când vine.
+814.      								    Sol
+
+[s2]
+2. O, ce clipă fericită
+Când mireasa e gătită
+/: În toată podoaba sa
+Ca să înceapă nunta
+Cu Mirele de împărat adorat :/
+
+[s3]
+3. Doamne de când e lumea
+N-a fost nuntă ca a Ta
+/:Ca-n sunet de trâmbiţă
+Să plutească în slavă
+Pe aripi de nori albiţi în veşnicie:/
+
+[s4]
+4. La această nuntă mare
+Bucurii nepieritoare
+/: Oştile cerurilor
+Toate vor cânta în cor
+Iar mireasa va cânta cântarea Sa:/
+
+[s5]
+5. Cântarea deosebită
+Ce n-a mai fost auzită
+/: Cântarea de salvare,
+De mare bucurie
+Ce îngerii n-o ştie, s-o cânte:/
+
+[s6]
+6. Sunetul cântărilor
+Umple nunta nunţilor
+/: Ca sunet de ape multe
+Se aud corurile multe
+Şi-L măresc pe Împărat ne-ncetat:/
+
+[order]
+s1,s2,s3,s4,s5,s6

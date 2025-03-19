@@ -1,0 +1,38 @@
+[s1]
+Priveşte, o, Doamne la mine,
+Căci eu Te chem din mari nevoi.
+/: Ascultă, ascultă-mi rugăciunea,
+Leagă-mi rănile care mă dor! :/
+
+[s2]
+Fă ca să capăt alinare
+Şi uşurare în necaz.
+/: O, adu-mi pacea Ta, Isuse,
+Şi mângâie-mi plânsul pe-obraz!:/
+
+[s3]
+De-am rătăcit pe căi străine
+Şi te-am pierdut, o, Domnul meu,
+/: Apari acum în a mea cale
+Şi mă-ndreaptă pe drumul Tău! :/
+
+[s4]
+Ca să nu cad de oboseală,
+Mă sprijineşte-o, Domnul meu,
+/: Căci sunt o mână de ţărână,
+Sunt doar un mic urmaş al Tău. :/
+
+[s5]
+Şi ca să lupt eu nu pot singur,
+O, vino-n ajutorul meu,
+/: Căci eu sunt slab, dulce Isuse,
+Şi drumu-i zi de zi mai greu! :/
+
+[s6]
+O, de vei asculta chemarea
+Şi plânsul meu, Doamne, nespus,
+/: Îţi voi cânta o veşnicie,
+De-aici şi până-n ceruri sus :/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,32 @@
+[s1]
+Vorbiţi, Isus în locul meu
+Pe cruce a murit
+Şi către-un pierdut cum sunt eu
+S-a-ntors căci m-a iubit.
+Şi în locul meu,
+Şi în locul tău!
+Murit-a Domnul pentru toţi
+Veniţi să-I mulţumim!
+
+[s2]
+Soarele se întunecă
+Ascunzând raza sa
+Când Isus rabdă pe cruce
+Luptând El cu moartea.
+Şi în locul meu,
+Şi în locul tău!
+Murit-a Domnul pentru toţi
+Veniţi să-I mulţumim!
+
+[s3]
+De aş ascunde faţa mea
+De ruşine pe veci
+Şi de aş plânge cât aş vrea
+Aşa să-I mulţumesc.
+Şi în locul meu,
+Şi în locul tău!
+Murit-a Domnul pentru toţi
+Veniţi să-I mulţumim!
+
+[order]
+s1,s2,s3

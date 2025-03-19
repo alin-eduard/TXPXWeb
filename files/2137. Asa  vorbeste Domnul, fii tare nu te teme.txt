@@ -1,0 +1,36 @@
+[s1]
+2137
+1. Așa vorbește Domnul
+fii tare nu te teme
+Bat vânturile morții și inima ta geme
+Se zguduie pământul, cuprins
+de îndoială
+Iubirea e o minciună, credința
+o spoială
+Aleargă răutatea pe străzi ca
+o furtună
+Se risipesc iluzii, tristețile se-adună.
+
+[s2]
+Cor: /: Dar tu rămâi pe stâncă
+să nu te temi, fii tare
+Căci Eu sunt Domnul slavei
+Cetatea de scăpare :/.
+
+[s3]
+2. Eu îți cunosc suspinul și lacrima și anii
+Și-s scrise-n cartea vieții, măruntele strădanii
+Mereu am stat de strajă și te-am chemat pe nume
+
+[s4]
+Izbăvitoarea mână te-a
+apărat în lume
+Și ți-am păstrat curată a sufletului floare
+De aceea nu te teme, ascultă-mă fii tare.
+
+[s5]
+Cor: /: Privește drept la cruce spre sfânta ei lumină
+Spre-acela ce te iartă, te mângâie și alină :/.
+
+[order]
+s1,s2,s3,s4,s5

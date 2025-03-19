@@ -1,0 +1,48 @@
+[s1]
+Ţie-Ţi înălţăm cântare
+Fiule-al lui Dumnezeu,
+Tu eşti pavăza cea tare
+Ce-ocroteşti poporul Tău.
+
+[r1]
+/: Lăudat fii Tu, Isus
+Lăudată mila Ta
+Căci ai iubit nespus biserica,
+Fii lăudat, în veci
+Cu al Tău nume sfânt
+În ceruri sus şi pe pământ. :/
+
+[s2]
+Tu eşti mântuirea noastră
+Viaţa pentru noi Ţi-ai dat,
+Noi în Tine-avem speranţă
+Pacea ne-ai asigurat.
+
+[s3]
+Fericit merge creştinul
+Cu pas repede spre cer,
+Ca un vultur ce-şi ia zborul
+Spre etern, gloriosul ţel.
+
+[s4]
+Prin Cuvântul Tău de viaţă
+Tu-l hrăneşti în orice zi,
+Şi-al Tău Duh îi dă povaţă
+Calea dreaptă a păzi.
+
+[s5]
+În curând, în sărbătoare
+Domnul iarăşi va veni,
+Cu puteri şi slavă mare
+În etern spre a domni.
+
+[s6]
+/: Lăudat fii Tu, Isus
+Lăudată mila Ta
+Căci ai iubit nespus bisericam,
+Fii lăudat, în veci
+Cu al Tău nume sfânt
+În ceruri sus şi pe pământ. :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,s6

@@ -1,0 +1,30 @@
+[s1]
+Când sunt căzut, când sunt bătut
+Doamne spre Tine caut.
+Când sunt gonit şi prigonit
+Strig către Cel Prea`nalt.
+
+[r1]
+/:Ascultă-mă când Te chem
+E noapte-n jur şi mă tem
+Vâslesc din greu
+Dar sunt de valuri dus
+Ascultă-mă când Te strig
+Mă prind fiori şi-mi este frig
+Am obosit şi-aprope sunt răpus
+Ascultă-mă! Isus. :/
+
+[s2]
+Valuri adânci, furtuni şi stânci
+Sunt doar în calea mea.
+Privesc în sus, doar Tu Isus
+Tu eşti scăparea mea.
+
+[s3]
+Te-aştept mereu o, Domnul meu
+Chiar dacă zăboveşti
+Te chem plângând, cu dor arzând
+O, Doamne unde eşti?.
+
+[order]
+s1,r1,s2,r1,s3,r1

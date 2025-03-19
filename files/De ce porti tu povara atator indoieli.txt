@@ -1,0 +1,62 @@
+[s1]
+De ce porti tu povara
+atâtor îndoieli?
+Cuvântul Meu e vesnic
+si pe pământ si-n cer;
+Eu pot să-ti dau credintă
+chiar dacă tu esti slab,
+Dar nu privi la tine
+copilul Meu cel drag.
+
+[s2]
+Eu pot să-ti dau putere,
+când tu esti în durere,
+Dar nu privi la valuri,
+ci cheamă-Mă degrab;
+Asteaptă cu credintă
+căci Eu dau biruintă,
+Da Eu si nimeni altul
+sunt izbavirea ta!
+
+[s3]
+De ce porti tu povara
+atâtor deznădejdi,
+De ce-ti pierzi tu răbdarea
+când stii că Eu veghez;
+O spune-Mi Mie totul
+si jos la crucea Mea,
+Te chem să-ti lasi povara,
+oricare ar fi ea!
+
+[s4]
+O! Vino în lumină,
+odihna Mea-I deplină
+Eu pot să-ti dau răbdare,
+Eu pot să te-ntăresc;
+Eu pot să-ti dau vedere
+si să revărs putere
+Iar tu cu bucurie
+ai să mă proslăvesti.
+
+[s5]
+De ce cazi tu adesea
+învins de-ngrijorări,
+Si temeri după temeri
+când treci prin încercări;
+Când Eu sunt peste toate
+si totul e al Meu,
+Când esti în a Mea mână
+iar Eu sunt Dumnezeu?
+
+[s6]
+Eu sunt Isus Mesia,
+Eu am învins robia,
+Eu am învins si moartea,
+Eu pot să te-ocrotesc
+Eu te-am ales din lume,
+Eu te-am chemat pe nume
+Si de rămâi în Mine,
+prin Mine biruiesti.
+
+[order]
+s1,s2,s3,s4,s5,s6

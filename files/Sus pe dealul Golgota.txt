@@ -1,0 +1,50 @@
+[s1]
+Sus, pe dealul Golgota
+A-nvins iubirea Sa
+Pe Sine Isus S-a dat
+Să fiu răscumpărat
+
+[s2]
+Dragostea Lui m-a salvat
+Prin sânge sunt iertat
+De-acum prin harul Său
+Sunt fericit mereu
+
+[r1]
+Nici o altă jertfă
+Nu ar putea ierta
+Păcatul greu al meu
+Decât iubirea Sa
+
+[s3]
+Ghetsimani, tu loc sfânt
+Pe Domnul L-ai primit
+Ai văzut bătălia
+Când El a biruit
+
+[s4]
+Unde eşti, tu moarte?
+Unde-ţi este boldul?
+Tu ai fost înfrântă
+Prin jertfa Lui sfântă
+
+[s5]
+Prin moartea Lui avem
+Salvarea din păcat
+Vom învia şi noi
+Că El a înviat
+
+[s6]
+Cu Isus 'nainte
+Învingători cântăm
+Prin tumulturi grele
+Noi pe Domnul urmăm
+
+[s7]
+Triumful Golgotei
+Şi peste veacuri stă
+Jertfa crucii sfântă
+Ne dă în dar viaţă
+
+[order]
+s1,s2,r1,s3,s4,s5,s6,s7,r1

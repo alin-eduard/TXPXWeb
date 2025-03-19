@@ -1,0 +1,41 @@
+[s1]
+987.
+1. Fraţi surori care aţi venit
+Şi-n inimă v-aţi gândit
+Că omul e muritor
+Ca străin şi călător
+Cântaţi toţi dar cu tărie
+Trista lui călătorie.
+2. Şi tu soare ce grăbeşti
+Şi ca noi călătoreşti
+După câteva minute
+Cu toţi v-om ieşi din curte
+
+[s2]
+3. Căci omul e din ţărână
+Se preface in pământ
+Numai după vreo trei zile
+El ajunge la mormânt
+4. Viaţa aceasta-I trecătoare
+La oameni aici sub soare
+Omul de aici n-ar pleca
+Dar moartea vine şi-l ia
+
+[s3]
+5. Că-i trimisă cu poruncă
+Sufletul ca să îl ducă
+În mâna lui Dumnezeu
+De unde l-am primit eu.
+6. Să fii floare luminoasă
+La Domnul Isus-acasă
+Să fii floare de lumină
+În a lui Isus grădină.
+
+[s4]
+7. Şi de acum până-n vecie
+Mila Domnului să fie
+Că ne-a scos de la robie
+Şi ne duce-n veşnicie.
+
+[order]
+s1,s2,s3,s4

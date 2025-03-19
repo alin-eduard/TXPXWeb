@@ -1,0 +1,59 @@
+[s1]
+O Doamne Isuse noi astăzi venim
+La poala crucii Tale să ne smerim
+/: Şi te rugăm fierbinte
+adu-ţi de noi aminte
+Revarsă-ţi harul Tău
+ca mai înainte. :/
+
+[s2]
+Cobori pe unda slavei
+Domn al iubirii
+Şi pune azi parfum
+în toţi trandafirii
+/:Să simtă fiecare c-aici în adunare
+Lucrează Dumnezeul nostru
+cel mare. :/
+
+[s3]
+Ascultă-ne strigarea
+o, Doamne mare
+Lucrează cu putere
+aici în adunare
+/: Să simtă fiecare,
+să strige-n gura mare
+Că l-a simţit pe Domnul
+aici în adunare. :/
+
+[s4]
+Mai vindecă o dată
+oaia cea rănită
+Mai mângâie
+pe cea căzută în ispită
+/: Să simtă fiecare
+c-aici în adunare
+S-a prezentat azi Domnul
+nostru cel mare. :/
+
+[s5]
+Mai strigă azi pe nume
+oaia cea rănită
+Că spini şi mărăcini
+în faţă stă s-o-nghită
+/: S-o iei pe braţ de mamă,
+să-i pui balsam pe rană
+Şi mângâiere sfântă
+să dai la cea bolnavă. :/
+
+[s6]
+Ascultă-ne strigarea
+o, Doamne mare
+Lucrează cu putere
+aici în adunare
+/: Să strige fiecare
+că-i har în adunare
+Trăiască Dumnezeul
+nostru cel mare. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,47 @@
+[s1]
+1285.
+Mireasă eşti pregătită
+În curând vei fi răpită
+Să te iau de pe pământ
+Să vezi faţa Celui Sfânt
+/ : Nu zice că-ţi este greu
+În curând vin să te iau
+Să te duc în a mea casă
+Să stai cu sfinţii la masă : /
+1.
+
+[s2]
+N-ai văzut şi nici nu ştii
+Ce este în veşnicii
+Încă ochiul n-a văzut
+Ceea ce ţi-am pregătit
+/ : Hai mai rabdă şi suspină
+Porumbiţa mea străină
+Glasul tău iată-l aud
+Şi sunt gata să-ţi răspund : /
+2.
+
+[s3]
+Azi mulţi au rătăcit pe cale
+Nu M-aşteaptă cu răbdare
+Nu mai au nădejdea sfântă
+Nu se pregătesc de nuntă
+/ : O ce lacrimi vor mai fi
+Căci nu-l vor mai auzi
+Glasul Blândului Păstor
+Care le-a dat ajutor : /
+3.
+
+[s4]
+Veniţi azi care-auziţi
+Să fim cu toţi pregătiţi
+Să veghem, să ne rugăm
+Lacrimi multe să vărsăm
+/ : Să căpătăm îndurare
+Să fim la nunta cea mare
+Pregătită pentru tine
+O mie de ani va ţine : /
+4.
+
+[order]
+s1,s2,s3,s4

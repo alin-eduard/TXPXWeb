@@ -1,0 +1,28 @@
+[s1]
+Totul se invecheste
+Totul este trecator
+Floarea se ofileste atat de usor
+Totul ce-i aici se va termina
+Dar Dumnezeu in veci va ramanea
+
+[r1]
+Puterea lui Dumnezeu este mare
+Cuvantul Domnului va dainui
+Totul in lume trece si dispare
+Dumnezeu in veci va domni!
+
+[s2]
+Se duce avutia repede ca gandul
+Se duce bogatia ca gandul
+Mai iute ca sageata anii au zburat
+Dar Dumnezeu ramane neschimbat
+
+[s3]
+Nu te bizui pe viata ce apune
+Nici pe placeri din lume
+Bazeaza-te pe Domnul
+Si leaga-te de El
+Ca Dumnezeu ramane la fel
+
+[order]
+s1,r1,s2,r1,s3,r1

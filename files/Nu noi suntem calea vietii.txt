@@ -1,0 +1,26 @@
+[s1]
+Nu noi suntem calea vieţii,
+Calea care duce-n sus.
+Noi suntem doar călătorii,
+Însă calea e Isus.
+
+[r1]
+Astfel calea-i pasul nostru,
+Adevăru-n noi e pus.
+Viaţa sfântă-i calea noastră,
+Dacă e în noi Isus.
+
+[s2]
+Nu-i o formă adevărul,
+Nici în litere nu-i pus.
+Adevărul i-o fiinţă,
+Adevărul e Isus.
+
+[s3]
+Nu din lut se naşte „Viaţa”,
+Viaţa fără de sfârşit.
+Cei din lut în lut se-ntoarce,
+Însă „Viaţa” e Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1

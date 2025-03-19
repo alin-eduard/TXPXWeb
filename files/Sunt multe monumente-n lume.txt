@@ -1,0 +1,28 @@
+[s1]
+Sunt multe monumente-n lume
+Ce-s ridicate către cer,
+Dar ca Golgota nu-i nici unul
+În Univers, în Israel.
+Al dragostei ce dăinuieşte
+Din veşnicii în veşnicii,
+E ancora credinţei vie
+Iertarea sfintei mântuiri.
+
+[r1]
+/: Iubire, iertare
+O viaţă nouă-i Golgota,
+E preţul pe care
+L-a plătit Isus pentru viaţa ta. :/
+
+[s2]
+Isus e jertfa ce-a fost dată
+Pentru omenire pe Pământ,
+E ce-a avut mai scump un Tată
+Pe singurul Său fiu cel sfânt.
+Şi astăzi în a Lui iubire
+El te primeşte aşa cum eşti,
+Prieten ca El n-ai pe nimeni
+Deschide-ţi inima ca să-L primeşti.
+
+[order]
+s1,r1,s2,r1

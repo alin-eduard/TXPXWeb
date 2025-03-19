@@ -1,0 +1,31 @@
+[s1]
+Am asteptat in intuneric
+E timpul sa ne pregatim
+In zori de zi lumina s-o-ntalnim
+Dar vom vedea in tara noastra
+Cum se-mplineste in curand
+Ce ne-am rugat cu toti atata timp
+
+[r1]
+Trezeste Doamne Romania
+Aprinde focu-n pragul Zilei de Apoi
+Trezeste Doamne Romania
+Si-ncepe cu noi
+
+[s2]
+Avem nevoie de o schimbare
+Azi inca nu e prea tarziu
+Biruitori la lupta sa pornim
+Sa transformam credinta-n fapte
+Si sa traim ce predicam
+Pentru trezire uniti sa ne rugam
+
+[s3]
+Nu suntem noi mai buni decat altii dar te rugam
+Sa ne umpli Doamne cu Duhul Tau
+Fa sa fim unelte in trezirea
+ce e pe drum
+Dar incepe-o din noi chiar acum
+
+[order]
+s1,r1,s2,r1,s3,r1

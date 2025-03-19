@@ -1,0 +1,43 @@
+[s1]
+1.Daruri ne dă şi azi Duhul Sfânt
+Şi-L  preamăresc pe Domnul Sfânt
+Har minunat Domnul ne-a dat
+Cu Duhul Sfânt ne-a botezat.
+Cor:  Când la Rusalii s-a vărsat
+Vorbirea-n limbi la toţi le-a dat
+Ei se rugau, harul vesteau
+În limbi străine-L  preamăreau.
+478.
+
+[s2]
+2.	Mulţimea oarbă în păcat
+Ziceau ei toţi s-au îmbătat
+Dar ei băură sfântul vin
+Ce curge din tronul divin.
+Cor:  Când la Rusalii s-a vărsat
+Vorbirea-n limbi la toţi le-a dat
+Ei se rugau, harul vesteau
+În limbi străine-L  preamăreau.
+
+[s3]
+3.	Unii cuvântul ascultau
+Când ucenicii le vorbeau
+Cei credincioşi se întăreau
+Când semnele îi însoţeau.
+Cor:  Când la Rusalii s-a vărsat
+Vorbirea-n limbi la toţi le-a dat
+Ei se rugau, harul vesteau
+În limbi străine-L  preamăreau.
+
+[s4]
+4.	Ceresc Părinte Te slăvim
+Şi harul Tău îl preamărim
+Că şi azi botezi cu Duhul Sfânt
+Şi-nalte limbi eu pot să-Ţi cânt.
+Cor:  Când la Rusalii s-a vărsat
+Vorbirea-n limbi la toţi le-a dat
+Ei se rugau, harul vesteau
+În limbi străine-L  preamăreau.
+
+[order]
+s1,s2,s3,s4

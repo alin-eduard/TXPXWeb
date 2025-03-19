@@ -1,0 +1,26 @@
+[s1]
+Ca blând Păstor, Isus veni,
+Pe mine a mă mântui
+Şi de ruşine şi păcat
+El m­-a eliberat.
+
+[r1]
+Din adâncimi m­-a ridicat,
+Cu-­al Său braţ tare m-­a scăpat,
+Din umbra morţii El m­-a scos,
+O, laudă Lui, El m-­a salvat!
+
+[s2]
+De multe ori El m­-a chemat,
+Nepăsător L-­am refuzat
+Dar când smerit L-­am ascultat,
+El m­-a eliberat.
+
+[s3]
+Pe frunte, spinii i-­a purtat,
+Pe lemn a fost crucificat,
+A fost hulit, a fost scuipat,
+Să fiu răscumpărat!
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,41 @@
+[s1]
+Cu gândul inspre ceruri
+azi noi vom canta
+Cântările credinţei
+din toată inima
+E timpul de-nchinare
+veniţi să ne unim
+Cântând cu bucurie
+pe Domnul să-L slăvim.
+
+[r1]
+Să ne ridicăm mâinile in sus
+Din inimă să il mărim
+Pe regele Isus
+Pământul si marea,
+Cât cuprinde zarea
+Toate-şi au cântarea,
+Pentru cel de sus.
+
+[s2]
+Când laude se-nalţă
+către Dumnezeu
+Prezenţa Lui o simte
+tot poporul Său
+Şi inima-mpietrită
+Şi Duhul intristat
+Îşi află fericirea
+când Domnul e-nălţat.
+
+[s3]
+Vino mai aproape,
+Nu te ruşina
+De crezi in Isus
+Azi te vei salva
+Şi dacă lumea-ceasta
+ti-a dat un gust amar
+Primeşte mântuirea,
+primeşte viaţa-n dar.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,39 @@
+[s1]
+2059
+1.Când îți întorci privirile spre Domnul
+Oricât ai fi de tare întristat
+Te luminezi de bucurie frate
+Că Domnul e Soare minunat
+Când cei fără prihană-n rugăciune
+Se roagă strigă către Dumnezeu
+Sunt izbăviți de-a lor amărăciune
+Sunt izbăviți de chinul lor cel greu.
+
+[r1]
+Cor: Veniți la El, priviți spre El
+Căci bunătatea Domnului e mare
+Te luminezi, te desfătezi
+De fața Domnului strălucitoare
+
+[s2]
+2. David era în mâinile păgâne
+Abimelec un împărat vestit
+L-a cercetat dar Domnul slavei
+Din mâna celor răi l-a izbăvit
+Atuncea el alcătui cântarea
+S-audă toți, și-acel nenorocit
+Căci Domnul îndepărtează întristarea
+Și El ne face iarăși fericiți
+
+[s3]
+3. Căci El a pus un înger să păzească
+Pe cel ales de Domnul temător
+Și zi și noapte mâna Lui cerească
+Ne vine frate, soră-n ajutor
+Căci ochii Lui privesc și iau aminte
+Când strigă un nenorocit pierdut
+Îl scapă din necaz și strâmtorare
+Și-i dă speranță de la început.
+
+[order]
+s1,r1,s2,r1,s3,r1

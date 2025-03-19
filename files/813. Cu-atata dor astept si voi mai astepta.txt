@@ -1,0 +1,38 @@
+[s1]
+813.
+1. Cu atâta dor aştept
+Şi voi mai aştepta
+Isus ca să revină acasă să ne ia
+Cu murmur de izvor
+Cu cerul voi cânta
+Domnul va reveni Maranata.
+
+[r1]
+Cor:	Curând, curând acasă vom sosi
+Nu bombe aşteptăm
+Şi nici anul 3000
+Şi nici alinieri de astre care pier
+Ci pe Mirele drag
+Să ne ia sus la cer.
+
+[s2]
+2. S-au stins privind spre cer
+Noianul de martiri
+Cu zâmbetul smerit
+Că mâine vor fi miri
+Şi aşteaptă înlăcrimaţi
+De sfinte bucurii
+Mii de mii mântuiţii văii plângerii.
+
+[s3]
+3. Şi-n veci de veci
+Privi-vom cât de minunat
+Cununile de vis
+Ce-mpodobesc pe fraţi
+Sfârşit de drag nespus
+În cerul luminos
+Ne-om topi toţi uimiţi
+În faţa lui Hristos.
+
+[order]
+s1,r1,s2,r1,s3,r1

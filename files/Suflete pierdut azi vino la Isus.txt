@@ -1,0 +1,32 @@
+[s1]
+Suflete pierdut, azi vino la Isus,
+Mâna Lui e întinsă, lasă-te condus.
+Însuşi El te cheamă să-L primeşti acum,
+Dacă stai pe gânduri, uite crucea Lui!
+Astăzi iertare poţi primi
+Şi prin credinţă poţi trăi!
+Vino degrabă la Isus.
+Ce bun e Domnul! Vin‘ la El!
+
+[s2]
+Sângele Lui spală fărădelegea ta
+De o nouă viaţă te vei bucura.
+Pentru tine, Domnul crucea a răbdat,
+Jertfa Lui primeşte-o şi zi-ncredinţat:
+Da, biruinţa-a mea va fi,
+Pentru Isus eu voi trăi!
+Domnul Mă cheamă, şi eu vin.
+Ce bun e Domnul! Vin‘ la El!
+
+[s3]
+De acum eu, Doamne, vreau să fiu al Tău;
+Tu să fii Păstorul şi-ajutorul meu;
+Singura-mi nădejde şi scăpare mea,
+Îmi eşti Tu Isuse, în furtuna grea.
+Numai aşa voi birui
+Şi pentru Tine voi trăi.
+Tu o cunună îmi vei da
+Când lupta vieţii va-nceta.
+
+[order]
+s1,s2,s3

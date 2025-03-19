@@ -1,0 +1,27 @@
+[s1]
+1./</: Eu te iubesc, Isuse :/
+Eu te iubesc,
+Isus din inimă>/
+Din inimă, din inimă
+Eu te iubesc
+Isuse drag din inimă.
+1177.  								Fa #
+
+[s2]
+/</:Te proslăvesc, Isuse:/
+Te proslăvesc,
+Isus din inimă>/
+Din inimă, din inimă
+Te proslăvesc, Isuse drag,
+Din inimă
+
+[s3]
+3./</: Îţi mulţumesc, Isuse :/
+Îţi mulţumesc,
+Isus din inimă>/
+Din inimă, din inimă
+Îţi mulţumesc Isuse
+Drag din inimă.
+
+[order]
+s1,s2,s3

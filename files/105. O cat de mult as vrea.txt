@@ -1,0 +1,43 @@
+[s1]
+1. O,cât de mult Isus aş vrea
+Doritu-Ţi chip să-L pot vedea
+Alinul Tău să-L simt mereu
+Înviorând sufletul meu
+Duiosul glas să Ţi-l ascult
+Atât de mult, atât de mult.
+105.                    Mi
+
+[s2]
+2. La piept picioarele să-Ţi strâng
+Mişcat şi fericit să plâng
+Şi pacea care mi-ai adus
+Să-Ţi cânt mereu Isus, Isus
+Cu faţa strânsă-n scumpul sân
+Iubit Stăpân, iubit Stăpân.
+
+[s3]
+3. Plecat cu capul în poala Ta
+Ţi-aş spune atunci durerea mea
+Ţi-aş spune atunci al meu suspin
+Din vremea când eram străin
+Cum n-am găsit odihna mea
+La nimenea, la nimenea.
+
+[s4]
+4. Ţi-aş spune că Isus i-aL meu
+Nu-i nimeni fericit ca eu
+De când odihnă am aflat
+În harul Tău imbelşugat
+Să-Ţi cânt în veci fără sfârşit
+Isus iubit, Isus iubit.
+
+[s5]
+5. Să fii cu noi dulce Isus
+Că mântuire ne-ai adus
+Ca să-Ti putem fi vegheatori
+De acum în vecii vecilor
+Acolo-n Paradisul nou
+Isus e Domn Isus e al meu.
+
+[order]
+s1,s2,s3,s4,s5

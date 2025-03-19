@@ -1,0 +1,99 @@
+[s1]
+1. Cu al meu suflet vreau să zbor
+Colo mai sus de stele
+În ţara Mirelui iubit
+Unde s’am mângâiere.
+131.                                                    Mi
+
+[s2]
+/: Să nu mai fiu pe-acest pământ
+În lumea de păcate
+Ci-aş vrea s-ajung cât mai curând
+Cu capul pe-a Lui braţe. :/
+
+[s3]
+2. Suspin mereu şi lăcrimez
+De dor după Isus
+Căci văd că toate se-mplinesc
+Aşa cum El le-a spus.
+
+[s4]
+/: O scumpul meu Mântuitor
+Păzeşte-mă de toate
+Căci valurile lovesc greu
+În copiii Tăi Doamne. :/
+
+[s5]
+3. Căci văd că oamenii de-acum
+Pe mine mă urăsc
+Şi vor să mă oprească-n drum
+Căci Ţie îţi slujesc.
+
+[s6]
+/: Căci în pofte şi în plăcere
+Unii-şi trăiesc viaţa
+Dar pentru toate acestea
+Veni-va judecata. :/
+
+[s7]
+4. Ai milă acum o, Domnul meu
+Ca Ţie să-Ţi slujesc
+Să te urmez cu ce mi-ai dat
+Din toată inima.
+
+[s8]
+/: Păzeşte-Ţi tineretul Tău
+Căci sunt florile Tale
+O vino-n ajutorul lor
+Cu barca de salvare :/
+
+[s9]
+5. Veni-va vremea din urmă
+Scriptura o declară
+Dar cine nu s-a pregătit
+Va rămânea afară
+
+[s10]
+/: Veniţi cu toţii la Domnul
+Cu glasul Lui vă cheamă
+La sânul Lui vă primeşte
+Mai mult ca şi o mamă :/.
+
+[s11]
+6. Coboară azi la noi Isus
+La noi în adunare
+Grăieşte pace tuturor
+Şi dă-ne a Ta iertare.
+
+[s12]
+/: Căci slabi suntem în faţa Ta
+Cu greşuri şi păcate
+Dar Tu Cel ce-ai făcut omul
+Tu le cunoşti pe toate :/.
+
+[s13]
+7. Revarsă-Ţi Duhul Tău acum
+Peste orice făptură
+Ca să fim cu toţii una
+Pân’ la aTa venire.
+
+[s14]
+/: Trezeşte-Ţi Tu al Tău popor
+Căci este-n adormire
+Fă-l ca să fie vegheator
+Când vei veni-n mărire :/.
+
+[s15]
+8. O, adă Doamne aceea zi
+Ziua revederii
+Ca să plecăm cu toţi de aici
+În țara mângâierii.
+
+[s16]
+/: Ca s-ajungem la masa Ta
+Cu toţii-n strălucire
+Şi-Ţi vom cânta Aleluia
+Şi-acum şi-n veşnicie :/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12,s13,s14,s15,s16

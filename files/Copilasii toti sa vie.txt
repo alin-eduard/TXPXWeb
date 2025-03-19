@@ -1,0 +1,32 @@
+[s1]
+“Copilaşii toţi să vie”
+Isuse dulce ai spus,
+Căci doar sub a Ta-ngrijire
+Vor ajunge-n ceruri sus.
+
+[s2]
+El iubeşte copilaşii
+O, iubirea Lui îi vrea,
+Şi micuţii şi golaşii
+Îi primeşte pururea.
+
+[s3]
+De aceea noi la Tine
+Am adus acest copil,
+O, Isuse, scump, divine,
+Binecuvintează-ni-l!
+
+[s4]
+Mâinile pe el le pune
+Varsă-Ţi îndurarea Ta
+Şi ajută-l ca prin Tine
+Să ajungă-n slava Ta.
+
+[s5]
+Ne ajută Tu şi nouă
+Copilaşi iubiţi să fim,
+Să ne iei odată-n braţe
+În Noul Ierusalim.
+
+[order]
+s1,s2,s3,s4,s5

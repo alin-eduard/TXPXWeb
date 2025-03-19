@@ -1,0 +1,22 @@
+[s1]
+Venim in a Ta prezenţa
+Cu toţi să iţi cântăm
+Un cântec de mărire
+Şi venim să ne-nchinăm
+Ne-ai dat o viaţă nouă
+Să putem să te iubim
+Venim cu mulţumire
+O Doamne te iubim.
+
+[s2]
+/: Tu eşti Tatăl creaţiuni
+Mielul sfânt ce-ai înviat
+Eşti singurul ce-ai biruit
+Şi mormântu-ai lepădat
+Tu pe toţi ne-ai eliberat
+De la moarte si ne-ai dat
+Libertate să venim
+Ca în prezenţa ta să fim :/
+
+[order]
+s1,s2

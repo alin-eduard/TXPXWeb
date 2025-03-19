@@ -1,0 +1,72 @@
+[s1]
+Ierusalim, cetatea mea
+Tot sufletu-mi suspina
+/: Cand oare, cand te voi vedea,
+Cand oare-n tine voi intra
+Sa cant in mantuirea ta
+Pe marea cristalina? :/
+
+[s2]
+Ierusalim, sfant dor nestins
+Ce dulce va fi-n tine
+/: Cand lungul zbucium va fi-nvins
+Cand telul drag va fi atins
+Iar plansul sters, uitat si stins
+Si zarile senine. :/
+
+[s3]
+O, rai cu ziduri de topaz
+Iubirea mea te cheama
+/: Cu rugaciunile-n extaz,
+Cu rau de lacrimi pe obraz,
+Cu dorul sa te vada azi
+Strigandu-ti: ia-ma, ia-ma! :/
+
+[s4]
+O, pan-atunci Ierusalim
+Trimite-ne din tine
+/: Arvuna harului sublim
+Pe care-l cerem si-l dorim
+Biruitori sa mostenim
+Comorile-ti divine. :/
+
+[r1]
+Vino Isus noi te dorim
+/: Adesea asteptarea invinsa-i
+De dorul sublim. :/
+
+[s5]
+Isus spre-aceea zi
+Privirea ne’ndreptata
+Mireasa asteapta-n prag
+Cu iubirea din piept ne-ntinata
+Cand Tu vei aparea
+Atunci la judecata intregul univers
+Va trebui sa Te priveasca in fata
+
+[s6]
+Acei ce si-au pastrat
+Curata a lor haina
+Spre ceruri vor zbura
+La randul cetelor
+Cand Tu ii vei chema
+Cu-acei ce vor pleca
+Isus spre noua tara
+Doresc sa plec si eu
+Scapat de-aici
+Spre noua primavara
+
+[s7]
+Astept o dimineata
+Si cred ca nu-i daparte
+Cand zori de vesnicii
+Vor implini speranta
+Celor mii de mii
+Scapati de-orice povara
+Purtati de duhul sfant
+Ajunge-vom acasa
+La tronul celui
+Vesnic sfant, prea sfant
+
+[order]
+s1,s2,s3,s4,r1,s5,r1,s6,r1,s7,r1

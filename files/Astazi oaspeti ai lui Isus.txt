@@ -1,0 +1,14 @@
+[s1]
+Astăzi, oaspeţi ai lui Isus,
+Noul legământ serbaţi.
+Cel ce-a fost jertfit pe cruce
+Spune-acum: “luaţi, mâncaţi!”
+
+[s2]
+Să luăm acum paharul
+Ca al mărturiei semn.
+Cel ce-a suferit calvarul
+Spune-acum: “beţi toţi din el!”
+
+[order]
+s1,s2

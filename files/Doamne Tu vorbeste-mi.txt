@@ -1,0 +1,26 @@
+[s1]
+Doamne, Tu, vorbeşte-mi
+Tainic liniştit.
+Inima când strigă
+Lasă-Te găsit.
+
+[s2]
+Bunule, Părinte,
+Fa din acest ceas
+Inimii trudite
+Un duios popas.
+
+[s3]
+Stele când pe bolta
+Clar vor răsări,
+Tu sa-mi torni în suflet
+Pace, bucurii.
+
+[s4]
+Pe cărarea vieţii
+Stâlp de foc şi nor
+Tu rămâi de-a pururi,
+Braţ ocrotitor.
+
+[order]
+s1,s2,s3,s4

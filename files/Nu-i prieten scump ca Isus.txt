@@ -1,0 +1,26 @@
+[s1]
+Nu-i prieten scump ca Isus
+Nimenea, nimenea, nimenea.
+Nimeni nu poate ca El vindeca,
+nimenea, nimenea!
+
+[r1]
+Isus ştie deplin viaţa mea,
+Numai El poate ajuta!
+Nu-i prieten scump ca Isus
+Nimenea, nimenea, nimenea!
+
+[s2]
+Nu-i sfânt, nu-i tare ca El
+Nimenea, nimenea, nimenea.
+Nu-i mai aproape ca El
+Nimenea, nimenea, nimenea!
+
+[s3]
+Pe-ai Săi aleşi i-a lăsat El cândva?
+Nicicând nu, nicicând nu.
+A scos afară El pe cineva?
+Nicicând nu, nicicând nu!
+
+[order]
+s1,r1,s2,r1,s3,r1

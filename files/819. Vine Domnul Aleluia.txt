@@ -1,0 +1,23 @@
+[s1]
+1. Vine Domnul Aleluia
+Vine Domnul pe pământ
+Umple cortul întâlnirii
+Cu fiori din Duhul Sfânt.
+2. Au cârtit Israeliţii
+Dar noi oare nu cârtim
+Vine Domnul Aleluia
+Dar noi când ne pocăim.
+819.Re m
+
+[s2]
+3. Verifică-te Sioane
+Ridicaţi-vă spre cer
+Azi în cortul întâlnirii
+Dumnezeu ne dă puteri.
+4. O, treziţi-vă de acuma
+Întoarceţi-vă la El
+Vine Domnul Alaluia
+Vine El Emanuel.
+
+[order]
+s1,s2

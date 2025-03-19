@@ -1,0 +1,37 @@
+[s1]
+2105
+1. La ce sunt bune toate-n viață
+Fără de Tine Doamne Sfânt
+De n-am trăirea și sfințirea
+De nu trăiesc așa cum cânt?
+La ce mi-ar folosi cântarea
+De n-am în ea, o, scump Isus
+Nici untdelemnul și nici sarea
+Din Duhul Sfânt, venit de sus?
+
+[s2]
+Cor: /: Fără de Tine,
+toate-s moarte
+Și viața n-are nici un cânt
+De n-am trăirea lângă Tine
+De n-am în mine Duhul Sfânt :/
+
+[s3]
+2. Îndepărtează de la mine
+Azi, tot ce nu-i pe placul Tău
+Să pot prin cânt mai mult de Tine
+Să mă apropii, Domnul meu.
+Da, recunosc, sunt plin de greșuri
+Și-adeseori mă văd înfrânt
+Cer îndurare de la Tine
+Și mai departe să Îți cânt.
+
+[s4]
+Cor: /: Să mă desprind de tot
+ce-n viață
+M-ar trage-n jos, către pământ
+Și leagă-mi ființa mea de Tine
+De voia Ta, de tot ce-i sfânt :/
+
+[order]
+s1,s2,s3,s4

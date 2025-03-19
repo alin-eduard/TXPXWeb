@@ -1,0 +1,59 @@
+[s1]
+2000.                 Mi m
+1. Două mii de ani trecură
+Pe al vremii calendar
+După spus-a din Scriptură
+Domnul nostru vine iar
+Două mii de ani zburară
+Ca și sunetul în vânt
+Domnul nostru vine iară
+Să domnească pe pământ.
+
+[r1]
+Cor: /: A treia zi, a treia zi
+Isus lucrarea-și va sfârși
+A treia zi, a treia zi
+Hristos cu sfinții vor domni :/.
+
+[s2]
+2. Două mii de ani pământul
+A fost evanghelizat
+Să audă toți cuvântul
+Care ni s-a predicat
+Două mii de ani cântarul
+Domnului a cântărit
+Mântuindu-ne prin harul
+Care ne-a fost dăruit.
+
+[s3]
+3. Două mii de ani puterea
+Pe pământ s-a revărsat
+Duhul Sfânt cu mângâierea
+Și cu daruri ne-a mbrăcat
+Două mii de ani cuvântul
+A tot răsunat mereu
+Să audă tot pământul
+Că există Dumnezeu.
+
+[s4]
+4. Două mii de ani lucrarea
+Cu minuni și vindecări
+A adeverit chemarea
+Peste tot prin adunări
+Două mii de ani făclia
+Care arde nencetat
+A condus împărăția
+Către locul minunat.
+
+[s5]
+5. Două mii de ani poporul
+Tot pe rând a suferit
+Dar Isus Mântuitorul
+Prin necaz i-a sprijinit
+Două mii de ani întruna
+Domnul ne-a făgăduit
+Că va fi pe totdeauna
+Cu ai Lui pân` la sfârșit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

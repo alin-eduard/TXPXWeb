@@ -1,0 +1,20 @@
+[s1]
+Când mă uit la perfecţiunea Ta,
+Când privesc la frumuseţea Ta,
+Şi când tot ce mă-mpresoară
+Dispare în lumina Ta.
+
+[r1]
+Eu Te slăvesc, eu Te slăvesc,
+De-aceea trăiesc, doar să Te slăvesc.
+Eu Te slăvesc, eu Te slăvesc,
+De-aceea trăiesc, doar să Te slăvesc.
+
+[s2]
+Când mă simt cuprins de pacea Ta,
+Când deasupra mea e mâna Ta,
+Şi când tot ce mă-mpresoară
+Dispare în lumina Ta.
+
+[order]
+s1,r1,s2,r1

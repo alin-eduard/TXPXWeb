@@ -1,0 +1,38 @@
+[s1]
+E noapte la Golgota
+Păcatul meu e-nvins
+E răstignit pe cruce
+În rana lui Isus.
+
+[s2]
+/: El suferă şi rabdă
+Păcatul meu cumplit
+Iar eu smerit sub cruce
+Îl văd greu suferind :/
+
+[s3]
+E noapte la Golgota
+Dar vai s-a-ntunecat
+Perdeaua cea din templu
+Deoparte s-a dat.
+
+[s4]
+/: E zidul greu al legii
+Ce astăzi a căzut
+Ca eu să am iertare
+Prin jertfa lui Isus :/
+
+[s5]
+E zi azi la Golgota
+Căci tatăl l-a-nălţat
+Ca împărat şi rege
+În cerul prea înalt.
+
+[s6]
+/: Păcatele adu-le
+La cruce lui Isus
+Căci pentru ele-odată
+Răbdat-a acolo sus :/
+
+[order]
+s1,s2,s3,s4,s5,s6

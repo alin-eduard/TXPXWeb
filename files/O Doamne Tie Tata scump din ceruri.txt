@@ -1,0 +1,20 @@
+[s1]
+O, Doamne Ţie, Tată scump din ceruri,
+Noi pentru toate-acum Îţi mulţumim,
+/: Căci ne-ncetat puterea Ta măreaţă
+Şi-al Tău Cuvânt ne-ajută să trăim. :/
+
+[s2]
+Isuse, Doamne, drag şi scump din ceruri
+Noi pentru toate-acum Te preamărim,
+/: Căci ne-ncetat iubirea Ta cea sfântă
+Ne-ajută-n veci cu Tin’ uniţi să fim. :/
+
+[s3]
+Pe Tine, sfinte Duh şi călăuză,
+Ce ne-ai umplut cu bunătăţi din plin,
+/: Te preamărim în veci sfântă Treime,
+Ţi-aducem laudă-n veci de veci, amin!:/
+
+[order]
+s1,s2,s3

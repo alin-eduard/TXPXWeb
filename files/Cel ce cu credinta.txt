@@ -1,0 +1,32 @@
+[s1]
+Cel ce cu credinţă­a privit la Isus
+A fost de păcat mântuit.
+Priveşte şi tu la Trimisul de sus;
+El şi­n locul tău a murit.
+
+[r1]
+Vezi! Vezi! Nu greşi!
+Doar cel ce­a crezut
+Şi­a privit la Isus
+A fost de păcat mântuit.
+
+[s2]
+Nu ştii că Isus a luat vina ta,
+În locul Tău El a răbdat?
+Nu vezi Sfântul sânge, nu vezi mila Sa
+Cu care de noi s­a­ndurat?
+
+[s3]
+Oricât ai dori ca prin tine să fii
+Cu Tatăl ceresc împăcat,
+Să ştii că doar sângele curs la Calvar
+Pe tine te face curat.
+
+[s4]
+O, vino la Domnul şi nu amâna,
+Ascultă şi crede în El!
+De crunta pedeapsă Isus te­-a scăpat;
+Salvare­ţi va da sfântul Miel!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

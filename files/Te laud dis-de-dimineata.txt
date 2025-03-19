@@ -1,0 +1,32 @@
+[s1]
+Te laud dis-de-dimineaţă
+Te laud, Doamne, Te laud
+Căci iar prin har mi-ai dat viaţă
+Te laud, Doamne, Te laud !
+
+[r1]
+Laudă, laudă Ţie-ţi cînt mereu
+Veşnic Dumnezeu !
+Laudă, laudă
+Veşnic Dumnezeu !
+
+[s2]
+Te laud ziua la amiază
+Te laud, Doamne, Te laud
+Căci dragostea Ta mă păstrează
+Te laud, Doamne, Te laud !
+
+[s3]
+Te laud seara la culcare
+Te laud, Doamne, Te laud
+Căci tot ce am e-a Ta-ndurare
+Te laud, Doamne, Te laud !
+
+[s4]
+Te laud orişicînd prin toate
+Te laud, Doamne, Te laud
+Şi astăzi şi-n eternitate
+Te laud, Doamne, Te laud.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,51 @@
+[s1]
+1584
+1. Prin arşiţa vremii
+Trecut-au milenii
+Şi glorii de mult apuse
+Dar noi ştim prea bine
+Astăzi sau mâine
+Vei reveni Isuse
+Reb m
+
+[s2]
+Cor : Revino Isuse revino din nou
+Te cheamă fecioara-nţeleaptă
+Revino al slavei ne-nfrant erou
+O vino mireasa te aşteaptă
+
+[s3]
+2. Prin goluri de stânci
+Și din văi adânci
+Din moarte şi ruine
+Din neguri şi valuri
+Din foc şi talazuri
+Strigăm  azi catre Tine
+
+[r1]
+Cor: Revino Isuse revino din nou
+Te cheamă fecioara-nţeleaptă
+Revino al slavei ne-nfrant erou
+O vino mireasa te aşteaptă
+
+[s4]
+3. Mai sunt încă patimi
+Mai sunt încă lacrimi
+În lumea blestemată                       Mai sunt încă paturi
+Și boli fără leacuri
+Dar s-or sfârşi odată
+
+[s5]
+Cor: Revino Isuse revino din nou   Te cheamă fecioara-nţeleaptă
+Revino al slavei ne-nfrant erou
+O vino mireasa te aşteaptă
+
+[s6]
+4. Rămas-au în urmă
+Dureri şi nevoi
+Şi palme şi ruşine                            Păstrăm doar speranţe
+Să vii iar la noi
+Şi dorul după Tine
+
+[order]
+s1,s2,s3,r1,s4,s5,s6,r1

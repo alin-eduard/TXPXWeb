@@ -1,0 +1,51 @@
+[s1]
+1. Tu vezi arzând a mea inimă
+De dorul după veşnicii
+Iar ochii mei privesc la ceruri
+De ce nu vii, de ce nu vii.
+110.               Mi b
+
+[s2]
+2. Tu vezi Isuse cum Te cheamă
+Ai Tăi răscumpăraţi copii
+Şi zi şi noapte Te aşteaptă
+De ce nu vii, de ce nu vii.
+
+[s3]
+3. Tu vezi a noastră viaţă amară
+C-avem puţine bucurii
+Aş vrea s-ajung în partea dreaptă
+Acolo sus în veşnicii.
+
+[s4]
+4. Tu vezi ai Tăi cum te aşteaptă
+Mereu să le dai bucurii
+Aş vrea să ajung în partea dreaptă
+Acolo sus în veşnicii.
+
+[s5]
+5. Te aşteptăm de-atâta vreme
+Şi vrem mereu cu noi să fii
+Mai trebuie multă veghere
+De ce nu vii, de ce nu vii.
+
+[s6]
+6. Dar vine ziua minunată
+S-auzim glasul trâmbiţei
+Să ieşim într-u întâmpinare
+De ce nu vii, de ce nu vii.
+
+[s7]
+7. Dorim ca să înceapă nunta
+A Mielului din veşnicii
+Grăbeşte a Ta venire Doamne
+De ce nu vii, de ce nu vii.
+
+[s8]
+8. Isuse,Tu te vei încinge
+La masă şi ne vei servi
+La nunta Ta cea minunată
+Acolo sus în veşnicii.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

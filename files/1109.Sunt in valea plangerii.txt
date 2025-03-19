@@ -1,0 +1,82 @@
+[s1]
+1109.                                                         Mi b
+1.Sunt în valea plângerii,
+Dar eu cânt şi-s bucuros
+Fiindcă merg
+Spre veşnicii
+Călăuză mi-e Hristos
+
+[s2]
+Nu mă tem că aş putea
+Să mă rătăcesc de-acum
+Căci Isus îmi este farul
+Şi tovarăşul de drum.
+
+[s3]
+2. El mă duce la izvoare
+Şi la grasele păşuni
+Mă călăuzeşte-ntruna
+Prin semne
+Și prin minuni
+
+[s4]
+Da, eu ştiu că mă iubeşte,
+Fiindcă spune prin Cuvânt
+Toţi acei ce Îl urmează
+Au sprijin pe Duhul Sfânt.
+
+[s5]
+3. Chiar de-ar fi
+Să se pornească
+Lumea toată contra mea
+Nu mă tem,
+Căci am pe Domnul
+El este salvarea mea
+
+[s6]
+Ca şi David spre Goliat,
+Merg contra duşmanului,
+Merg la luptă fără teamă,
+În Numele Domnului.
+
+[s7]
+4.Înarmat sunt
+Pentru luptă
+Credinţa îmi este scut
+Port în inimă pe Domnul
+Sabia Duhului Sfânt
+
+[s8]
+Încălţări am în picioare
+Râvna Evangheliei
+Iar în inimă Cuvântul
+Sfânt al Adevărului.
+
+[s9]
+5. Platoşa neprihănirii
+Eu atunci am îmbrăcat
+Pe cap coiful mântuirii
+Dat de Domnul minunat
+
+[s10]
+Deci, am toată armătura
+Împotriva celui rău
+Eu am sprijin şi nădejde
+Pe Slăvitul Dumnezeu.
+
+[s11]
+6.Cine poate
+Să mă-nvingă
+Când lui Isus m-am predat
+Când urmez
+Pe Domnul slavei
+Minunatul Împărat
+
+[s12]
+Aleluia, Aleluia
+Eu Îi cânt de pe pământ
+Binecuvântat să fie
+Tatăl ,Fiul,Duhul Sfânt.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12

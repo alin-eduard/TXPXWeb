@@ -1,0 +1,50 @@
+[s1]
+Doar în Hristos,
+Speranţa mea, eu îmi găsesc tăria.
+Isus Hristos e stânca mea,
+ce mă mai poate clătina?
+
+[s2]
+Furtuni şi frici nu mă opresc,
+Ca pacea Lui să o primesc.
+În toate El e al meu TOT,
+În dragostea Lui mă odihnesc.
+
+[s3]
+Doar în Hristos Cel întrupat,
+gloria din cer s-a arătat.
+Murind pe cruce răstignit,
+dreptatea divină sa-mplinit.
+
+[s4]
+În chip de om El s-a smerit,
+Făcut blestem dispreţuit.
+Iertare-acum pot să primesc,
+Prin jertfa lui Hristos trăiesc.
+
+[s5]
+Umbrita lumea-a doborât,
+în întuneric în mormânt.
+Prin moartea Sa Hristos a luat,
+orice blestem şi-orice păcat.
+
+[s6]
+Căci din mormânt El a-nviat,
+Puterea morţii a legat.
+Victoria Lui e şi a mea,
+Prin al Său sânge-n viaţa mea.
+
+[s7]
+O viaţă nouă am primit,
+în legământul harului.
+De la-nceput pân la sfârşit,
+al meu destin e-n mâna Lui.
+
+[s8]
+Nimic şi nimeni n-ar putea,
+Să-mi i-a vreodată dragostea Sa.
+Isus Hristos va reveni,
+Şi-n slava Lui mă va primi.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

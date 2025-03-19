@@ -1,0 +1,31 @@
+[s1]
+Azi, Isus îţi vorbeşte iar,
+Ce minunat Cuvânt!
+Şi-ţi vesteşte un mare dar,
+Ce minunat Cuvânt!
+Harul Său iartă toate ale Tale păcate
+/: Sfânt cuvânt, cât de scump!
+Ce minunat Cuvânt! :/
+
+[s2]
+El, chemarea şi-a înnoit,
+Ce minunat Cuvânt!
+Vino, fiule rătăcit,
+Ce minunat Cuvânt!
+Glasul Lui azi te cheamă,
+Vrei să-L iei tu în seamă?
+/: Sfântul Cuvânt, cât de scump!
+Ce minunat Cuvânt! :/
+
+[s3]
+Pentru toţi e chemarea Lui,
+Ce minunat Cuvânt!
+Glasul blând al Păstorului,
+Ce minunat Cuvânt!
+Sufletu-mi astăzi vine,
+O, Isuse, la Tine!
+/: Sfântul cuvânt, cât de scump!
+Ce minunat Cuvânt! :/
+
+[order]
+s1,s2,s3

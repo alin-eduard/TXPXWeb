@@ -1,0 +1,32 @@
+[s1]
+Se fură, se minte, se-njură, se bea
+Se fac doar fapte urâte
+Aceasta e lumea din ziua de azi
+Ne spune sfânta Scriptură.
+
+[r1]
+/: Avem nevoie de Dumnezeu
+De Dumnezeu, da, de Dumnezeu
+Avem nevoie de Dumnezeu
+Mai mult ca oricând. :/
+
+[s2]
+Nu se mai iubesc fraţii ei între ei
+Şi ne-ntrebăm, de ce ?
+Soţia şi soţul se ceartă mereu
+De ce? De ce? De ce?
+
+[s3]
+Părinţii se miră de ce-ai lor copii
+Se poartă atât de ciudat
+De ce nu-i ascultă, de ce se prefac
+Mereu că n-aud nimic.
+
+[s4]
+Pătrunde te rog, o Doamne în suflet
+Curăţă tot ce e rău
+O pildă să fiu şi-o făclie în lume
+Ca să arăt că-s al Tău.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,47 @@
+[s1]
+Barcă a salvării, liniştită
+În noapte, frig şi furtună eşti lovită.
+Tu ridici, cobori,
+pe creste mari de val
+Călători străini, purtaţi de doruri
+Ce se frâng în plâns,
+suspin şi chin şi-amar
+Să ajungă la visatul mal.
+
+[s2]
+Isus, nădejdea creştină
+El în calea lor să vină
+Lumina străpungând prin nor
+Prieten scump, alinător.
+
+[s3]
+Barca merge tot spre ţărm, departe
+Ah, dar lung e drumul ce desparte
+Călătorii arşi de dorul de acas, !
+La acest gând inima-n piept se zbate
+Şi rostesc un Nume sfânt
+privind în sus
+E-a lor Salvator - Isus.
+
+[s4]
+Isus, viteaz dezrobitor
+Prevestitor al zorilor
+Isus, sclipire de nespus
+Isus, ce Nume scump - Isus!
+
+[s5]
+Dar nu-i mult şi se zăresc semnale
+Că se termină şi-această cale.
+Călătorii, fremătând de bucurie
+Au uitat de chin şi de urgie.
+Dragostea ce-atât de tare-i leagă
+I-a purtat spre patria lor dragă.
+
+[s6]
+Isus e farul de nestins
+Isus - putere de ne-nvins
+Isus - viaţa de mult preţ
+Isus - nimic nu-i mai măreţ !
+
+[order]
+s1,s2,s3,s4,s5,s6

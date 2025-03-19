@@ -1,0 +1,63 @@
+[s1]
+412.
+1.Veniţi, veniţi voi cei trudiţi,
+Veniţi, veniţi
+Şi trupul lui Hristos primiţi,
+Veniţi, veniţi
+
+[s2]
+Căci la izvorul cel curat,
+Veniţi, veniţi
+Vă veţi spăla de orice păcat,
+Veniţi, veniţi
+
+[s3]
+2.Gustaţi, gustaţi voi cei smeriţi,
+Veniţi, veniţi
+Şi veşnic veţi fi fericiţi,
+Veniţi, veniţi
+
+[s4]
+Că bun e Domnul lăudat,
+Veniţi, veniţi
+Să fie-n veci de veci cântat,
+Veniţi, veniţi.
+
+[s5]
+3.Gustaţi, gustaţi vă-mpărtăşiţi,
+Veniţi, veniţi
+Cu Domnul slavei vă hrăniţi,
+Veniţi, veniţi
+
+[s6]
+Căci sufletul cel înarmat,
+Veniţi, veniţi
+Va birui orice păcat,
+Veniţi, veniţi.
+
+[s7]
+4.Când în vreo lipsă vă găsiţi,
+Veniţi, veniţi
+Şi într-o boală pătimiţi,
+Veniţi, veniţi
+
+[s8]
+Voi repede vă ridicaţi,
+Veniţi, veniţi
+Şi cu Hristos vă împăcaţi,
+Veniţi, veniţi.
+
+[s9]
+5.În casa noastră El e Domn,
+Veniţi, veniţi
+Şi ne veghează al nostru somn,
+Veniţi, veniţi
+
+[s10]
+În viaţa noastră El e far,
+Veniţi, veniţi
+Coboară pacea cu al Său dar,
+Veniţi, veniţi.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

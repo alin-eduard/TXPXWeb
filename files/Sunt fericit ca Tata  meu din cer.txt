@@ -1,0 +1,26 @@
+[s1]
+Sunt fericit că Tatăl  meu din cer
+Mi-a dat atâtea scumpe mângâieri!
+Multe minuni în Biblie-am găsit,
+Dar cea mai mare-i: Domnul m-a iubit!
+Sunt fericit, căci Domnul m-a iubit!
+Sunt fericit, căci Domnul m-a iubit!
+
+[s2]
+Chiar dacă-apoi de El m-am depărtat,
+Şi pe căi rele am alunecat
+M-a căutat cu dor şi m-a găsit,
+O, ce minune, Domnul m-a iubit!
+Sunt fericit, căci Domnul m-a iubit!
+Sunt fericit, căci Domnul m-a iubit!
+
+[s3]
+De-acum Isus e cântecul meu nou!
+Să-ajungă-n lume-acest sublim ecou!
+Ca orice om să strige fericit:
+O, ce minune, Domnul m-a iubit!
+Sunt fericit, căci Domnul m-a iubit!
+Sunt fericit, căci Domnul m-a iubit!
+
+[order]
+s1,s2,s3

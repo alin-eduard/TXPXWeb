@@ -1,0 +1,33 @@
+[s1]
+1.Zic Betleem,
+Zic şi Golgota
+Zic Ghetsimani şi mă-nfior
+/: Când zic Isus
+Inima-mi plânge
+Şi rănile-I parcă mă dor:/
+1121
+
+[r1]
+/: Pentru mine :/
+Ai răbdat
+/: Pentru mine :/ ai plâns
+/: Pentru mine :/ ai murit
+O, Isus Hristos.
+
+[s2]
+2.De merg la iesle
+Sau la cruce
+E-un drum cu lacrimi presărat
+/: Mă plec adânc cu umilinţă Spre Domnul care
+M-a salvat :/
+
+[s3]
+3.Tu ai venit de bunăvoie
+Să mă răscumperi din păcat
+/:Eu Te ador
+Și Îţi dau slavă,
+Căci Tu eşti
+Marele-Împărat :/
+
+[order]
+s1,r1,s2,r1,s3,r1

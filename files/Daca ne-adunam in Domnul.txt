@@ -1,0 +1,46 @@
+[s1]
+1
+Dacă ne-adunăm în Domnul,
+Dacă-avem al Lui Duh Sfânt,
+Dacă inimile noastre
+Una-n părtăşie sunt.
+/: Dacă-avem a Lui iubire,
+Dacă avem al Lui sfânt ţel,
+Atunci orişicând ne strângem,
+Este între noi şi El. :/
+
+[s2]
+2
+Astfel Tatăl ne ascultă
+Dorul nostru ne-mplinit,
+Astfel Fiul ne vorbeşte
+Prin Cuvântul Lui sfinţit.
+/: Astfel Duhul ne îndrumă
+În tot lucrul Său deplin
+Şi-ntre noi se vede rodul
+Mult şi dulce şi divin. :/
+
+[s3]
+3
+Dar când fără unitate
+Şi iubire ne-adunăm
+Când  nici dor, nici părtăşie
+Nu avem, nu căutăm.
+/: Când trăim păcate-ascunse,
+Când ni-e gândul mânios,
+În zadar atunci ne strângem:
+Ne-adunăm fără Hristos. :/
+
+[s4]
+4
+Dumnezeule, ai milă,
+Nu lăsa-ntre noi nicicând
+Lipsa Ta şi nelucrarea
+Duhului ceresc şi sfânt
+/: Nu lăsa-ntâlnirea noastră
+Fără dragoste şi har
+Ca să nu ne fie lupta
+Şi-alergarea în zadar. :/
+
+[order]
+s1,s2,s3,s4

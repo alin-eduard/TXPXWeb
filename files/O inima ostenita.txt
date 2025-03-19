@@ -1,0 +1,29 @@
+[s1]
+1
+O, inimă ostenită,
+După luptă te asteptă,
+Pe veci o odihnă dulce,
+Unde durerile-nceată.
+/: Numai rabdă fii linistită! :/
+Numai rabdă si fii linistită.
+
+[s2]
+2
+Calea ti-e grea, tu esti slabă,
+Crucea-ti se pare sarcină,
+O, caută sus, rai vei primi,
+Rabdă si fi linistită.
+/: Numai rabdă fii linistită!:/
+Numai rabdă si fii linistită.
+
+[s3]
+3
+Fii în pace noaptea trece,
+Vine-a ta zi strălucită,
+De departe-o poti privi,
+Rabdă si fii linistită.
+/: Numai rabdă fii linistită! :/
+Numai rabdă si fii linistită.
+
+[order]
+s1,s2,s3

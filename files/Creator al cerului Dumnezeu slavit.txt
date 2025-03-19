@@ -1,0 +1,28 @@
+[s1]
+Creator al cerului Dumnezeu slăvit,
+M-ai creat aşa de minunat.
+Îngerii Îţi cântă pentru tot ce Tu îmi dai,
+Dragoste eternă Tu mi-ai dat.
+
+[r1]
+/:În Tine Doamne mă încred neîncetat,
+N-am cuvinte să Îţi mulţumesc.
+Ţie Doamne Îţi cânt neîncetat,
+În faţa Ta eu stau şi mă închin.:/
+
+[s2]
+Creator al cerului Dumnezeu slăvit,
+Faţa Ta luminează în noaptea grea.
+De când Te-am cunoscut
+Te iubesc nespus de mult,
+Inima doreşte prezenţa Ta.
+
+[s3]
+Creator al cerului Dumnezeu slăvit,
+Glorie-Ţi cântăm Te mărim.
+Prin dragostea-Ţi eternă
+Ne-ai răscumpărat pe toţi,
+Şi crezând în Tin’ să te urmăm.
+
+[order]
+s1,r1,s2,r1,s3,r1

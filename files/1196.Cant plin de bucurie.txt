@@ -1,0 +1,59 @@
+[s1]
+1.Cânt plin de bucurie
+Dau slavă-n veşnicie,
+Căci Isus m-a salvat!
+Necazuri vin şi pleacă
+Cu Isus toate-au să treacă
+În veci voi fi salvat!
+1196    								  Mi b
+
+[r1]
+El totul mi-e,
+El totul mi-e mie
+El totul mi-e
+Isus Hristos mie
+Mi-e mamă, tată, soră, frate
+El totul mi-e mie!
+
+[s2]
+2.Cânt plin de bucurie
+Dau slavă-n veşnicie
+Căci Isus m-a iertat
+Greşeli, păcate, toate!
+El mi le-a iertat pe toate
+El, toate mi-a iertat!
+
+[s3]
+3.Cânt plin de bucurie
+Dau slavă-n veşnicie
+Că Isus m-a sfinţit!
+M-a spălat de păcate,
+Mi-a dat haină curată,
+Mi-a dat Duhul Său Sfânt!
+
+[s4]
+4.	Cânt plin de bucurie
+Dau slavă-n veşnicie,
+Căci Isus m-a primit.
+Nu sunt orfan pe lume
+Căci port Al Său Sfânt Nume
+De Tatăl sunt primit!
+
+[s5]
+5.Iar când vor veni zile
+Cu nori și umbre pline
+Domnul mă va-ajuta!
+Da, Domnul meu e-n stare
+De-a m-ajuta pe cale
+Când crucea-mi va fi grea!
+
+[s6]
+6.Cuvântul mi-e lumină
+De jertfa Lui îmi spune
+De harul lui Isus!
+Cum pot să merg pe cale
+Urcând plin de răbdare
+S-ajung în ceruri, sus!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

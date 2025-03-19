@@ -1,0 +1,38 @@
+[s1]
+Vine-o zi, vine-o zi
+Când dureri nu vor mai fi,
+Nu vor fi nori pe cer,
+Lacrimi ochii n-or umbri
+Va fi pace-n veci de veci
+Când în ceruri ai să pleci
+O, ce zi, ce glorioasă zi va fi!
+
+[r1]
+Oare-atunci cum va fi,
+Faţa Lui când vom privi
+Când pe Isus vom vedea,
+Cei salvaţi prin jertfa Sa?
+Când de mână ne va lua
+Şi ne va duce-n ţara Sa
+O, ce zi, ce glorioasă zi va fi!
+
+[s2]
+Nu vor fi, nu vor fi
+Greutăţi, dureri de dus
+Nici necaz de orice fel,
+Boli şi chin acolo nu-s!
+Va fi pace-n veci de veci
+Când în ceruri ai să pleci
+O, ce zi, ce glorioasă zi va fi!
+
+[s3]
+O, ce zi, o ce zi,
+Când Isus va reveni,
+Sus în slavă-L vom vedea,
+Când cu El ne va lua,
+Va fi cerul luminos,
+De prezenţa lui Hristos;
+O, ce zi, ce glorioasă zi va fi!
+
+[order]
+s1,r1,s2,r1,s3,r1

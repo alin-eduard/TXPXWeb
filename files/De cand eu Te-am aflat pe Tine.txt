@@ -1,0 +1,32 @@
+[s1]
+De când eu Te-am aflat pe Tine,
+Mă simt aşa de fericit!
+Şi când vin valurile grele,
+Tu mă ridici, Isus iubit.
+
+[s2]
+Vin valurile fără milă
+Şi izbesc în mine mereu;
+Atunci Te simt, Isuse dulce,
+Căci vii la căpătâiul meu.
+
+[s3]
+Şi când îmi vezi faţa udată
+De lacrimile care-mi curg,
+Atunci Tu plângi în rând cu mine
+Şi-mi zici încet că vii curând.
+
+[s4]
+Aud doar vocea Ta de Tată
+Care-mi vorbeşte ne'ncetat:
+„Veghează fiica mea, fii trează
+Căci în curând s-a terminat!
+
+[s5]
+Şi atunci durerea ce-ai avut-o
+Aicea jos pe-acest pământ
+Se va transforma-n bucurie,
+Când vei veni în Cerul sfânt."
+
+[order]
+s1,s2,s3,s4,s5

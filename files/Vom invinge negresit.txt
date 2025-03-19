@@ -1,0 +1,32 @@
+[s1]
+Dacă Domnul ne conduce
+Vom învinge negreşit!
+Nu ne-nfrică duhul lumii,
+Vom învinge negreşit!
+Chiar de lupta este grea
+Şi răniţi vom fi în ea,
+Cu Isus vom triumfa,
+Vom învinge negreşit!
+
+[s2]
+Prin a Duhului putere
+Vom învinge negreşit!
+Cu a Domnului iubire
+Vom învinge negreşit!
+Cu­adevărul îmbrăcaţi,
+Cu răbdare înarmaţi,
+Cât de mult am fi­ncercaţi
+Vom învinge negreşit!
+
+[s3]
+Înrolaţi în oastea sfântă
+Vom învinge negreşit!
+Prin credinţă­adevărată
+Vom învinge negreşit!
+Nu prin noi vom birui,
+Mâna Lui ne va­ntări,
+Doar prin El vom izbândi,
+Vom învinge negreşit!
+
+[order]
+s1,s2,s3

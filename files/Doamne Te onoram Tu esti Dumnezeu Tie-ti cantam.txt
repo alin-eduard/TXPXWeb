@@ -1,0 +1,17 @@
+[s1]
+Doamne, Te onorăm !
+Tu eşti Dumnezeu, Ţie-Ţi cântăm !
+/: Primeşte astăzi închinarea
+inimilor noastre şi cântarea !
+Te iubesc, Isuse, Domn minunat ! :/
+
+[s2]
+Doamne, Te onorăm !
+Tu eşti Dumnezeu, Ţie-Ţi cântăm !
+/: Primeşte astăzi închinarea
+inimilor noastre şi cântarea -
+Te iubesc, Isuse, Domn minunat ! :/
+Te iubesc, Isuse, Domn minunat
+
+[order]
+s1,s2

@@ -1,0 +1,42 @@
+[s1]
+Slujesc pe Salvatorul,
+pe Cel ce-a înviat.
+Eu ştiu că El trăieşte
+cu slavă îmbrăcat.
+Îi simt deschisă mâna
+şi glasul iubitor,
+Şi când Îl chem
+El vine în ajutor.
+
+[r1]
+E viu! E viu!
+Trăieşte Domnul meu.
+Cu mine merge şi-mi vorbeşte
+Chiar pe drumul greu.
+E viu! E Viu!
+Salvarea El mi-a dat
+Îl port în inimă mereu,
+E viu cu-adevărat!
+
+[s2]
+Privesc întreg pământul
+şi văd iubirea Sa.
+Şi chiar lovit de grijuri,
+eu nu voi dispera.
+El ştiu că mă conduce
+prin aspre vijelii,
+Şi-n ziua cea din urmă
+cu El voi fi.
+
+[s3]
+Strigaţi de bucurie,
+cântaţi cu glas duios,
+Un veşnic Aleluia,
+spre slava lui Hristos.
+Speranţa şi lumina
+celor întorşi la El
+Prin El e biruinţa,
+Emanuel!
+
+[order]
+s1,r1,s2,r1,s3,r1

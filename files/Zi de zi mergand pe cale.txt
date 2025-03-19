@@ -1,0 +1,62 @@
+[s1]
+1
+Zi de zi, mergând pe cale,
+Frate credincios,
+Cântă-I laude întruna,
+Domnului Hristos.
+Fii voios că-n oastea sfântă
+Eşti şi tu chemat;
+De aceea-ntotdeauna
+cântă-I ne'ncetat.
+
+[s2]
+2
+/: Cântă :/ ca David,
+/: Cântă :/ aşa!
+Tot iadul, când cânţi tu,
+Să se-nfioare,
+Să fugă vrăşmaşul
+cu toată-armata sa!
+
+[s3]
+3
+Nu înceta să-nalţi spre ceruri,
+Zi de zi, cântări,
+Chiar de treci prin clipe grele
+Şi prin încercări.
+Nu uita: “Pavel şi Sila
+au cântat şi-n greu,
+Şi, din ceruri, izbăvirea
+le-a dat Dumnezeu.”
+
+[s4]
+4
+/: Cântă :/ ca David,
+/: Cântă :/ aşa!
+Tot iadul, când cânţi tu,
+Să se-nfioare,
+Să fugă vrăşmaşul
+cu toată-armata sa!
+
+[s5]
+5
+Cântă, frate, cântă, soră!
+Să răsune-n zări
+Laude şi osanale,
+Până-n depărtări!
+Pentru Împăratul nostru,
+Care-a biruit,
+Să cântăm de bucurie,
+El ne-a mântuit.
+
+[s6]
+6
+/: Cântă :/ ca David,
+/: Cântă :/ aşa!
+Tot iadul, când cânţi tu,
+Să se-nfioare,
+Să fugă vrăşmaşul
+cu toată-armata sa!
+
+[order]
+s1,s2,s3,s4,s5,s6

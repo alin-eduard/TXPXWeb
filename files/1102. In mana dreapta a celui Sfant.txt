@@ -1,0 +1,63 @@
+[s1]
+1102.
+1. În mâna dreaptă a celui Sfânt
+Stă cartea s-o deschidă
+Pecetluită cu peceţi
+Pentru cel fără vină
+Dar nimeni nu a fost găsit
+Să ia în mână cartea
+Tăcerea cerul a cuprins
+Şi toată lumea asta.
+
+[r1]
+Cor: /:Şi Duhul şi mireasa zic
+Vino Doamne Isuse
+Să zică toţi care aud
+Vino Doamne Isuse:/
+/:Să zică şi cel însetat
+Vino Doamne Isuse
+Căci multă vreme n-a rămas
+Vino Doamne Isuse:/.
+
+[s2]
+2.Dar în picioare stă un Miel
+El este fără vină
+Numai din Iuda acest leu
+A îndrăznit să vină
+E înjunghiat dar şapte ochi
+Şi şapte coarne poartă
+El a îndraznit cartea s-o ia
+Peceţile să-i rupă.
+
+[s3]
+3.Atunci făpturile ce-s vii
+Bătrânii douăzeci şi patru
+Şi îngerii din cerul întreg
+În faţa Lui îţi pleacă capul
+Se închină cel de sub pământ
+Şi toată lumea I se închină
+Slăvit să fii Părinte Sfânt
+Ce prin Isus ne-ai dat lumină.
+
+[r2]
+Cor:/:Şi Duhul şi mireasa zic
+Vino Doamne Isuse
+Să zică toţi care aud
+Vino Doamne Isuse:/
+/:Să zică şi cel însetat
+Vino Doamne Isuse
+Căci multă vreme n-a rămas
+Vino Doamne Isuse:/.
+
+[s4]
+4.Ei au făcut din ei preoţi
+Şi-mpărăţia pentru Domnul
+A Ta e-nţelepciunea-n veci
+A Ta e slava, a Tale-s toate
+Şi bogăţia ce o ai
+Şi cinstea care se cuvine
+Să fii slăvit mereu Isus
+Din veşnicie în veşnicie.
+
+[order]
+s1,r1,s2,r1,s3,r2,s4,r2

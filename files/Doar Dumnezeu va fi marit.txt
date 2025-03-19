@@ -1,0 +1,29 @@
+[s1]
+Doar Dumnezeu va fi mărit
+Şi dragostea-I divină
+Căci de-orice rău ne-a izbăvit
+Mereu ne-a fost lumină.
+Curând al păcii sale sfat
+Se va-mplini-n chip minunat,
+Tresalte câţi suspină!
+
+[s2]
+Isuse, Tu, Întâi născut
+Şi Domn pe-ntreaga fire,
+Mântuitor care-ai făcut
+A noastră ispăşire,
+Ne-ascultă astăzi în nevoi
+Tu, Cel  mai mare-ntre eroi,
+Şi-a noastră mântuire!
+
+[s3]
+O, Spirit Sfânt, Tu, dar ceresc,
+În orice încercare
+Rămâi cu noi când norii cresc
+Şi dă-ne-mbărbătare.
+Îmbracă-ne cu-al Tău Cuvânt
+Să împlinim pe-acest pământ
+Lucrarea ta cea mare.
+
+[order]
+s1,s2,s3

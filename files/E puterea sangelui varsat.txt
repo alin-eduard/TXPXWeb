@@ -1,0 +1,34 @@
+[s1]
+Vrei tu să scapi
+De poveri şi păcat
+Prin Mielul divin
+Ce-­a fost străpuns?
+Vrei tu să-­nvingi răul
+Ce te-­a legat
+Prin sfânt sânge al lui Isus?
+
+[r1]
+E puterea sângelui vărsat,
+Sânge sfânt şi curat!
+E puterea sângelui vărsat
+Care spală al tău păcat!
+
+[s2]
+Vrei să fii liber
+De patimi, păcat,
+Prin Mielul divin
+Ce-­a fost străpuns?
+Azi la Calvar
+Poţi să fi vindecat
+Prin sfânt sânge al lui Isus.
+
+[s3]
+Vrei să fii alb,
+Mai curat ca un crin
+Prin Mielul divin
+Ce-­a fost străpuns?
+Vrei tu iertare, viaţă din plin
+În sfânt sânge al lui Isus?
+
+[order]
+s1,r1,s2,r1,s3,r1

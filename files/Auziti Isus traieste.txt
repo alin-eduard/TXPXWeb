@@ -1,0 +1,23 @@
+[s1]
+Auziţi, Isus trăieşte
+Din morţi a înviat
+Si în glas de bucurie
+Ai Lui încep toţi a cânta:
+/: Hristos a înviat :/
+
+[s2]
+Trăieşte El, cel răstignit
+Domn sfânt al măririi
+Cine la El vine-i iubit
+Să îi cânte azi fericit
+/: Hristos a înviat :/
+
+[s3]
+Trăieşte cel ce ne-a-mpăcat
+Cu Domnul cerului
+Veniţi că sânge a vărsat
+Să cântăm spre mărirea lui
+/: Hristos a înviat :/
+
+[order]
+s1,s2,s3

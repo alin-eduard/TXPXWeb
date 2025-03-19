@@ -1,0 +1,27 @@
+[s1]
+Multumim şi  laudăm pe Domnul
+Dătătorul Noii Legi de Har
+Priveghem să nu ne prindă Somnul
+Ci s-aducem jertfele pe-Altar
+
+[r1]
+/:Laudăm şi mulţumim
+Dumnezeului sublim
+El ni-e Tată bun şi Sfânt
+Şi în Cer şi pe pământ
+El ni-e Tată bun şi Sfânt:/
+
+[s2]
+Pe pământ ni-i dată o chemare
+Ca să fim poporul minunat
+Al lui Dumnezeu şi Slavei Mare
+S-o vestim oriunde neîncetat.
+
+[s3]
+Laudă şi adâncă mulţumire
+Tatălui I-aducem prin Hristos
+Care ne-a adus o mântuire veşnică
+Şi-un Har tot mai frumos.
+
+[order]
+s1,r1,s2,r1,s3,r1

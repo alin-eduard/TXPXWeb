@@ -1,0 +1,26 @@
+[s1]
+Auzi suflete chemarea
+Ce ţi-o face Domnul sfânt
+Vino azi fără zăbavă
+Să-ţi dea loc în paradis
+
+[r1]
+/:Şi dacă vrei să locuieşti
+Sus în slăvile cereşti
+Leapădă al tău păcat
+Să ai sufletul curat:/
+
+[s2]
+Bucuros El te primeşte
+Şi te duce-n slava Sa
+Şi ca semn că te iubeşte
+La masă cu El vei sta
+
+[s3]
+Şi să vezi ce bucurie
+E în ceruri cu Christos
+Nu se poate găsi-n lume
+Pe pământ, aicea jos
+
+[order]
+s1,r1,s2,r1,s3,r1

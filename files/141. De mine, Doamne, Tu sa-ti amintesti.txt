@@ -1,0 +1,31 @@
+[s1]
+1. De mine, Doamne,Tu să-Ţi aminteşti,
+Şi iartă-mi greşelile tinereşti.
+Iubirea Ta să fie asupra mea,
+Mai mult să împlinesc eu voia Ta.
+141.                                                        Sol b m
+
+[r1]
+Ref:
+Adu-Ți aminte de-a mea silință
+Când pentru cauza Evangheliei
+Am luptat și voi lupta
+Am mers ‘nainte cu sârguință
+Deși eram de încercări împresurat.
+
+[s2]
+2. Aşa precum Neemia a învins,
+Atunci când mâna,
+Doamne, Ţi-ai întins,
+Aşa spre mine,
+Doamne, să priveşti,
+Cu braţul Tău, Tu să mă izbăveşti.
+
+[s3]
+3. Aştept ca într-o zi să izbutesc
+Încât eu Ţie să Îţi mulţumesc,
+Să fii Isuse,Doamne-ndurător
+Şi să vadă întregul Tău popor.
+
+[order]
+s1,r1,s2,r1,s3,r1

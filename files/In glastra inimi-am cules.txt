@@ -1,0 +1,32 @@
+[s1]
+În glastra inimi-am cules
+Trei flori ce poartă nemurirea
+/: Trei flori din cer cu nume-ales
+Credinţa, nădejdea, iubirea :/
+
+[s2]
+Din stratul harului le-am rupt
+Isus când mi-ai schimbat privirea
+/: Să Ţi le dau întreg mă lupt
+Credinţa, nădejdea, iubirea :/
+
+[s3]
+Cu cât eu Ţi le dăruiesc
+Mai limpede li-e strălucirea
+/: Puteri mai noi din Tine-şi cresc
+Credinţa, nădejdea, iubirea :/
+
+[s4]
+Trei flori eu am cules cândva
+Mireasma lor mi-e fericirea
+/: Şi-avânt îmi dau pe calea ta
+Credinţa, nădejdea, iubirea :/
+
+[s5]
+Fii binecuvântat Isus
+În jertfa Ta am mântuirea
+/: În Tine pentru veci m-au dus
+Credinţa, nădejdea, iubirea :/
+
+[order]
+s1,s2,s3,s4,s5

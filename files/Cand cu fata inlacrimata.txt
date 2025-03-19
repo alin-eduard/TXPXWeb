@@ -1,0 +1,50 @@
+[s1]
+Când cu faţa înlăcrimată
+Caut spre zările cereşti
+/: Caut, c-acolo am nădejde
+O, Isuse, unde eşti? :/
+
+[s2]
+Tânăr sunt, dar n-am odihnă
+Între cele Pământeşti
+/: Glasul meu slăbit Te cheamă
+O, Isuse, unde eşti? :/
+
+[s3]
+N-am odihnă şi nici pace
+Nu ştiu de mă mai iubeşti
+/:Inima-mi plângând Te cheamă
+O, Isuse, unde eşti? :/
+
+[s4]
+Ochii-mi varsă numai lacrimi
+De ce nu Te mai iveşti?
+/: Plâng cu glasul tinereţii
+O, Isuse, unde eşti? :/
+
+[s5]
+Tinereţea mea Te cheamă
+Până când mai zăboveşti?
+/: Faţa mi se-ngălbeneşte
+O, Isuse, unde eşti? :/
+
+[s6]
+Sufletul în min, se stinge
+Căci în lume eu trăiesc.
+/: Scapă-mă de ceasul morţii!
+O, Isuse, unde eşti? :/
+
+[s7]
+Geme glasul meu în lacrimi
+Plâng de doruri îngereşti
+/: Tinereţea mea se stinge
+O, Isuse, unde eşti? :/
+
+[s8]
+Viaţa mea Te cheamă-ntr-una
+O, Isuse, unde eşti?
+/: Dă-mi dragoste şi credinţă
+Pe duşmani ca să-i iubesc! :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

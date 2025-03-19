@@ -1,0 +1,40 @@
+[s1]
+Domnul vrea ca să binecuvinteze
+Pe toţi oamenii ca să îi lumineze.
+Uşa şi ferestrele deschide-le
+Las’ să intre Soarele !
+
+[r1]
+/: Las’ să intre Soarele ! :/
+Uşa inimii deschide-o tot mai mult
+Ca să intre-n ea Isus !
+
+[s2]
+El veni, muri şi învie apoi
+Toate-acestea le făcu
+El pentru noi.
+Uşa şi ferestrele deschide-le!
+Las’ să intre Soarele !
+
+[s3]
+Rătăceşti tu prin pustiu
+căutând calea
+Sufletul să ţi-l salveze Isus vrea.
+Uşa şi ferestrele deschide-le
+Las’ să intre Soarele !
+
+[s4]
+Fericit e cel ce Domnului se dă
+Cine pe Isus iubeşte şi-L laudă.
+Uşa şi ferestrele deschide-le
+Las’ să intre Soarele !
+
+[s5]
+Chiar dacă Pământu-ntreg
+e-ntunecat
+Isus prin venirea Sa, l-a luminat.
+Uşa şi ferestrele deschide-le!
+Las’ să intre Soarele !
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,43 @@
+[s1]
+‘Naintea Domnului eu vin
+Cu viaţa mea să I-o închin,
+Eu calea Lui o pregătesc
+Cărările îi netezesc.
+
+[r1]
+/: Mai de preţ ca orice pe Pământ
+Este Calea Lui
+Voi merge pe ea toată viaţa mea!
+Pentru cer mă voi naşte din nou,
+Din apă şi Duh
+Pentru Dumnezeu pentru veşnicii:/
+
+[s2]
+Prin dragostea lui Dumnezeu
+Voi fi ferit de orice rău,
+Pe calea Lui eu voi găsi
+Un sfânt izvor de bucurii.
+
+[s3]
+Veniţi şi voi, prieteni buni
+Veniţi şi voi pe calea Lui!
+Nu-ntârziaţi, nu rătăciţi
+Căutaţi salvare să găsiţi!
+
+[s4]
+Căutaţi să aveţi o credinţă în inimă
+Pe Isus ca Domn şi Mântuitor!
+Căutaţi să vă naşteţi din nou,
+Din apă şi Duh
+Pentru Dumnezeu, pentru veşnicii!
+
+[s5]
+Mai de preţ ca orice pe Pământ
+Este Calea Lui
+Voi merge pe ea toată viaţa mea!
+Pentru cer mă voi naşte din nou,
+Din apă şi Duh
+Pentru Dumnezeu pentru veşnicii
+
+[order]
+s1,r1,s2,r1,s3,s4,s5

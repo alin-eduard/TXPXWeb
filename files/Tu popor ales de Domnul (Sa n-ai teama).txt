@@ -1,0 +1,32 @@
+[s1]
+Tu popor ales de Domnul
+Nu-ţi fă grijă pentru mâine
+Că şi astăzi ca-n pustie
+El se va-ngriji de tine.
+
+[r1]
+Să n-ai teamă niciodată
+Că te duce-n carul Său
+Ca să vezi cât eşti tare
+Cât rămâi cu Dumnezeu.
+
+[s2]
+E prezent şi când ţi-e sete
+Şi-ţi dă apă chiar din stâncă
+Ca să ştii că toate-ascultă
+Necurmat a Sa poruncă.
+
+[s3]
+El te-a dus chiar şi prin mare
+Prin minunea ce-o ştii bine
+Ca să vezi că Domnul slavei
+Nu te lasă de ruşine.
+
+[s4]
+El îţi pune înainte
+Stâlp de foc să lumineze
+Ca să vadă fiecare
+Calea dreaptă s-o păstreze.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

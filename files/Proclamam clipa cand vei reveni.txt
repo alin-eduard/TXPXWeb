@@ -1,0 +1,27 @@
+[s1]
+Proclamăm clipa când vei reveni,
+Insistăm pentru-aceasta zi de zi.
+O Isuse! Drag si scump Te asteptăm,
+Vino Doamne printre noi,
+azi Te chemăm.
+
+[r1]
+Te chemăm, ascultă-ne din cer.
+Răspunde Doamne rugăciunii noastre.
+Spală-ne de tot ce e mizer,
+Să putem zbura spre zările albastre.
+
+[s2]
+Vrem să fim asa cum Tu doresti,
+Inima Îti dăm, Tu s-o sfintesti.
+Lasă binecuvântare în popor,
+Si trimite-al Tău balsam vindecător.
+
+[s3]
+Dintr-o inimă curată vrem să-Ti dăm,
+Lauda si închinarea Ti-o predăm.
+Pe altarul rugăciunii, zi de zi,
+Te rugăm primeste Doamne-ai Tăi copii.
+
+[order]
+s1,r1,s2,r1,s3,r1

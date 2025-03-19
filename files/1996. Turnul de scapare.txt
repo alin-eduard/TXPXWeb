@@ -1,0 +1,21 @@
+[s1]
+1. Turnul de scăpare este Domnul
+Cetăţuie-n vreme grea
+Sprijin şi-ajutor în încercare
+El e stânca mea.
+1996.      Re m
+
+[r1]
+Cor: /: Eu voi sta la umbra Sa:/
+Lângă Domnul eu voi sta
+Domnul este stânca mea.
+
+[s2]
+2. Chiar zece mii  la dreapta
+De vor cădea
+Şi alte mii alăturea
+Nu mă tem de nici un rău
+Când am pe Dumnezeu.
+
+[order]
+s1,r1,s2,r1

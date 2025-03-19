@@ -1,0 +1,35 @@
+[s1]
+Te rog acum, Isuse,
+priveşte înspre mine!
+Călăuzeşte-mă
+pe drumul greu !
+Viaţa ce mi-ai dat-o
+ajută-mă, Isuse
+La crucea Ta
+eu vreau să o închin !
+
+[r1]
+/: Scump Isuse !
+Te laud aici jos pe-acest Pămînt !
+Scump Isuse !
+În cerul sfînt, acolo vreau
+Acolo vreau s-ajung ! :/
+
+[s2]
+Cînd calea înspre Tine
+îmi este o povară
+Învaţă-mă ce trebuie să fac !
+Aşa cum Tu pe cruce
+răbdat-ai pentru mine
+Ajută-mă să rabd şi eu la fel !
+
+[s3]
+Să fiu curat în viaţă,
+să capăt moştenire
+Împărăţia cerului cel sfînt !
+Prin focul curăţirii
+să trec cu umilinţă
+S-ajung la Tine sus aur curat !
+
+[order]
+s1,r1,s2,r1,s3,r1

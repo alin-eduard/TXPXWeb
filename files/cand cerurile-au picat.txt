@@ -1,0 +1,32 @@
+[s1]
+Cînd cerurile-au picurat din slavă,
+Pămîntul mărturia lui şi-a dat
+Iar norii au plouat neprihănirea
+/: Ascultă glasul Celui preaînalt. :/
+
+[s2]
+Eu şterg fărădelegile ca norul,
+Ca ceaţa şterg păcatul şi îl uit;
+Întoarce-te că Eu sînt Făcătorul
+/: Eu te-am răscumpărat prin Fiul Sfînt:/
+
+[s3]
+Căci voi turna peste pămînturi ape
+Şi rîuri pe pămîntul însetat.
+Turna-voi Duhul Meu pe-acel ce crede
+/: Va fi copilul binecuvîntat. :/
+
+[s4]
+Va răsări ca firele de iarbă
+Ca sălcile lîngă pîraie reci
+Aşa vorbeşte Cel dintîi şi urmă
+/: Acel ce-i Dumnezeu în veci de veci. :/
+
+[s5]
+Va zice unul, eu al Domnului sînt,
+Iar altul s-a numi chiar Israel,
+Iar altul se va scrie cu-a sa mînă
+/: Al Domnului sînt, şi-L slujesc pe El. :/
+
+[order]
+s1,s2,s3,s4,s5

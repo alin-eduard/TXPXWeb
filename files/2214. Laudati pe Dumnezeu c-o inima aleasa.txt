@@ -1,0 +1,25 @@
+[s1]
+2214
+1. Lăudați pe Dumnezeu
+c-o inimă aleasă
+Căci El și-n necazul greu bucurii ne lasă.
+
+[r1]
+Cor:	Lăudați pe Creator
+Pentru har, pentru fior
+/: Pentru toate ce primim
+De la El să-I mulțumim :/.
+
+[s2]
+2. Lăudați pe Dumnezeu
+c-o iubire sfântă
+Căci iubirea Lui mereu,
+inima încântă.
+
+[s3]
+3. Lăudați pe Salvator,
+pentru a Sa jertfire
+Pentru slujba de păstor, făcută în iubire.
+
+[order]
+s1,r1,s2,r1,s3,r1

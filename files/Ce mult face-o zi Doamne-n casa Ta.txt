@@ -1,0 +1,30 @@
+[s1]
+Ce mult face-o zi Doamne-n casa Ta
+Unde în linişte mă pot ruga
+Cu fraţii-mpreună Te laud şi eu
+Pe Tine, Isus, Domnul meu.
+În casa Ta, Doamne, sunt fericit
+Ascultând Cuvântul sunt liniştit
+Mai mult face-o zi Doamne în casa Ta
+Decât în alt loc pe pământ.
+Mi b M
+
+[r1]
+/: Sunt fericit :/
+că Te-am găsit Domnul meu
+/: Sunt fericit :/ cu Tine mereu
+/: Şi eu doresc :/ Doamne să locuiesc
+Toată viaţa mea în casa Ta.
+
+[s2]
+Priveşte spre mine cu-ndurarea Ta,
+Sfinţeşte-mi Tu, Doamne, viaţa mea
+Şi dă-mi Tu putere ca să Te slăvesc
+Pe Tine, Isus, Domn ceresc.
+Revarsă-ţi Tu, Doamne din pacea Ta
+Şi binecuvântă-Ţi biserica
+Îmbracă-ţi mireasa cu harul divin
+Cu Tine la masă să fim.
+
+[order]
+s1,r1,s2,r1

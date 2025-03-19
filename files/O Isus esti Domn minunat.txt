@@ -1,0 +1,20 @@
+[s1]
+O, Isus, eşti Domn minunat !
+Tu, Salvator îndurat
+Bunătatea Ta-i nespusă
+Unde domneşte odihnă.
+
+[r1]
+Laudă, laudă, laudă, laudă
+Să-I cîntăm lui Dumnezeu !
+Laudă, laudă, laudă, laudă
+Cîntaţi toţi cu glas tare !
+
+[s2]
+Inima în care Tu vii
+Cu lumina dreptăţii
+Ea păcatul părăseşte
+Se umple de bucurie.
+
+[order]
+s1,r1,s2,r1

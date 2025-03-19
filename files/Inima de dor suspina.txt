@@ -1,0 +1,39 @@
+[s1]
+Inima de dor suspină
+După Ţara cea de sus,
+După Ţara de lumină,
+După Mirele Isus.
+
+[r1]
+/: Ah, mi-e dor, :/
+Mi-e dor de-acasă,
+De căminul minunat
+/: Unde sfinţii :/ stau la masa
+Şi-al meu Mire e-Mpărat.:/
+
+[s2]
+Sus, acolo-i Ţara păcii,
+Ţara veşnicei iubiri,
+Ţara mângâierii mele
+Ţara dulcii fericiri.
+
+[s3]
+Cântecele tale sfinte,
+Ţara mea, locaş iubit,
+Şi de tine-atât cât astăzi
+Niciodată n-am dorit.
+
+[s4]
+Ţara dorurilor mele,
+Ţara Mirelui meu drag,
+Fă-mă să te văd mai iute
+Şi să-ţi trec doritul prag!
+
+[s5]
+Dă-mi, o clipă mai degrabă,
+Să-Ţi văd faţa de smarald
+Şi-al meu suflet, în oceanul
+Fericirii, să mi-l scald...
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,26 @@
+[s1]
+Prima bucurie, care-o ai de spus
+Primul ghiocel, din mâna Lui adus
+Prima zi cu soare, soare-adevărat
+/:A fost ziua când mi-a spus că m-a iertat:/
+
+[s2]
+Primul dar din ceruri care l-am avut
+N-a fost foc din cer nici apă din granit
+Prima bucurie cu-n etern ecou
+/:E că-n mine s-a născut un suflet nou:/
+
+[s3]
+Ce-a dintâi minune ce m-a renăscut
+N-a fost aur nici podoabe, ci un scut,
+Scut ce ne păzeşte sub talerul Său,
+/: De săgeţile-arzătoare a celui rău :/
+
+[s4]
+Ultima dorinţă care-o am de spus
+E să vină toată lumea la Isus
+Şi când El va duce pe poporul Său
+/:Vai, să nu rămână nimeni, dar nici eu!:/
+
+[order]
+s1,s2,s3,s4

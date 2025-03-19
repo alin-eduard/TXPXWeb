@@ -1,0 +1,32 @@
+[s1]
+Isus e Dragostea,
+Isus te poate vindeca
+Vino la El acum,
+nu rătăci pe drum!
+Isus e Dragostea,
+cu El în slavă tu vei sta
+Vino la El acum
+nu zăbovi pe drum!
+
+[r1]
+/: Vin la Isus! :/
+Vrei tu să fii azi spălat, vindecat
+De al tău păcat?
+Vin la Isus acum!
+El te primeşte şi te mîntuieşte
+De-al tău păcat
+Vin la Isus acum!
+/: Vin la Isus! :/
+
+[s2]
+Isus e Dragostea,
+Isus te poate vindeca
+Vino la El acum,
+nu rătăci pe drum!
+Isus e Dragostea,
+cu El în slavă tu vei sta
+Vino la El acum,
+nu zăbovi pe drum!
+
+[order]
+s1,r1,s2,r1

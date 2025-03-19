@@ -1,0 +1,33 @@
+[s1]
+1623.
+1.Vin la Tine încrezător,
+Scumpul meu Mântuitor,
+Ca să-mi legi ranele care mă dor!
+
+[r1]
+Cor:/:Iartă-mă:/ Isuse al meu iubit!
+Iartă-mă, căci eu mult Ți-am greşit!
+
+[s2]
+2.Nimenea nu-mi poate da
+Vindecare ca a Ta...
+O, Isuse numai mâna Ta!
+
+[s3]
+3.Tu-mi dai bucurii de sus,
+Mi le trimiţi, Tu Isus!
+Mi le trimiţi Doamne, Tu, Isus!
+
+[s4]
+4. Nu-s bucurii de pe pământ,
+Ci-s bucurii în Duhul Sfânt,
+Ci-s bucurii mari,
+În Duhul Tău cel Sfânt!
+
+[s5]
+5.Nimenea nu-mi poate da
+Mângâiere ca a Ta.
+O, Isuse, numai mâna Ta!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

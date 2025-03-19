@@ -1,0 +1,23 @@
+[s1]
+Mulţumesc Doamne că Tu m-ai creat.
+Mulţumesc Doamne că Tu m-ai salvat.
+/: Glorie mărire Ţie,
+Căci Tu mi-ai dat bucurie.
+Doamne fii în veci lăudat. :/
+
+[s2]
+Mulţumesc Doamne că Tu m-ai iubit.
+Pentru mine Fiul Ţi-ai jertfit.
+/:Glorie mărire Ţie,
+Căci Tu mi-ai dat bucurie.
+Doamne fii în veci lăudat.:/
+
+[s3]
+Te iubesc căci Tu m-ai iubit întâi.
+Mulţumesc că Tu neschimbat rămâi.
+/:Glorie mărire Ţie,
+Căci Tu mi-ai dat bucurie.
+Doamne fii în veci lăudat.:/
+
+[order]
+s1,s2,s3

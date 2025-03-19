@@ -1,0 +1,16 @@
+[r1]
+El e-n stare, da, e-n stare
+Să rezolve-ngrijorarea ce o am.
+El e-n stare, da, e-n stare
+Să-mi atingă inima
+Cu al Lui balsam.
+
+[r2]
+El e-n stare, da, e-n stare
+Să împlinească dincolo de orice vis
+El e-n stare, da, e-n stare
+Să îmi schimbe
+Astăzi viaţa ca prin vis.
+
+[order]
+r1,r2,r1,r2

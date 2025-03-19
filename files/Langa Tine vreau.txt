@@ -1,0 +1,19 @@
+[r1]
+Lângă Tine vreau,
+Să fiu aproape iar,
+Şi pentru prietenia Ta
+Renunţ la orice altceva.
+Eşti iubirea mea, cine-altcineva
+Tu nu poţi fi înlocuit
+Nici caldă-mbrăţişarea Ta.
+Adu-mă înapoi,
+Doamne lângă Tine !
+
+[r2]
+Eşti tot ce vreau,
+Tot ce-am dorit vreodată,
+Vreau să-nţeleg
+Cât de aproape-mi eşti.
+
+[order]
+r1,r2,r1,r2

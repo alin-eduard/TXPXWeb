@@ -1,0 +1,43 @@
+[s1]
+1314.      Sol
+1.  Sunt veacuri multe de atunci
+Şi ani şi ani s-au dus
+De când la cer s-a înălţat
+Mântuitorul nost-Isus.
+/: Dar vremurile s-au scurtat
+Şi timp mult nu mai este
+Căci tot ce-i scris e-adevărat
+Scriptura se-mplineşte:/
+
+[s2]
+2. Privirea mea se-ndreaptă-n sus
+Spre tronul de-ndurare
+Stau umilit şi-aştept supus
+Să-i văd a Lui lucrare.
+/: Aştept cu dor şi mă silesc
+Chiar dacă lupta-i mare
+Să pot pe nori să-L întâlnesc
+În marea sărbătoare:/
+
+[s3]
+3.  Dar eu sunt slab şi neînsemnat
+Şi adesea cad pe cale
+Dar Domnul meu e minunat
+Eu stau sub mâna-I tare.
+/: Chiar de-s lovit şi prigonit
+Şi adesea-s frânt pe cale
+Nădăjduiesc să ajung sus
+În ţara cea cu soare:/
+
+[s4]
+4.  Oricât mai e de aşteptat
+Vreau să stau în iubire
+Chiar dacă mulţi s-au depărtat
+Eu L-aştept pe-al meu Mire.
+/: Să-L văd pe nori înconjurat
+De-a cerului oştire
+În Sfânt veşmânt de Împărat
+În slavă şi-n mărire:/
+
+[order]
+s1,s2,s3,s4

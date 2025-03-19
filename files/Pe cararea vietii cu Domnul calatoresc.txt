@@ -1,0 +1,21 @@
+[s1]
+Pe cărarea vieţii cu Domnul călătoresc
+Sufletul mi-e plin de bucurii.
+Zi de zi am pace, mult binecuvîntări
+El este nădejdea mea oricînd.
+
+[r1]
+O, ce mare fericire am în suflet
+De cînd viaţa mi-am predat-o Domnului !
+Zi de zi Isus mă poartă în lumină
+Cînd Îl strig, El îmi ascultă glasul meu.
+
+[s2]
+Dacă-a mea cărare uneori se-ntunecă
+Şi lumină n-am în jurul meu
+Domnul mă-nconjoară
+şi mă ţine-n braţul Său
+El este lumina mea oricînd.
+
+[order]
+s1,r1,s2,r1

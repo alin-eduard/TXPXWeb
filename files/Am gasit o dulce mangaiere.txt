@@ -1,0 +1,20 @@
+[s1]
+Am găsit o dulce mângâiere,
+O speranţă-n multe încercări,
+Am găsit o dragoste fierbinte,
+O, Isus, pe Tine Te-am găsit.
+
+[r1]
+Mii de buze n-ar putea să spună
+Ce-am găsit în Tine Domnul meu,
+Căci sunt mic, doar un pumn de ţărână.
+Sunt nimic, dar sunt în harul Tău.
+
+[s2]
+Am găsit iubirea fără seamăn,
+Bunătatea ce-o ai numai Tu;
+Am găsit tot sensul vieţii mele
+Scris în Numele-Ţi preasfânt, Isus.
+
+[order]
+s1,r1,s2,r1

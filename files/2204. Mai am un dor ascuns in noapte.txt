@@ -1,0 +1,27 @@
+[s1]
+2204
+1. Mai am un dor ascuns în noapte
+Mai am un vis, mai am un țel
+Și am o inimă ce bate
+Pentru ceruri, pentru El.
+
+[r1]
+Cor: Mai am o inimă ce cântă
+Mai am un dor ce mă mai leagă
+Un singur gând mă mai frământă
+Să zbor spre țara mea cea dragă.
+
+[s2]
+2. Mai am un dor ce-l port în suflet
+Un dor ce numai Tu îl știi
+Aș vrea când vei veni Isuse
+Să zbor și eu spre veșnicii.
+
+[s3]
+3. Dincolo de orice ispită
+De orice luptă de orice greu
+Privesc prin ochii de credință
+Mi-i dor de Tine, Domnul meu.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,32 @@
+[s1]
+De păcat ce m-ar spăla
+Numai sângele lui Isus
+Şi unde m-aş vindeca
+Numa-n sângele lui Isus
+
+[r1]
+O fluviu minunat
+Ce spală de păcat,
+Aici sânt împăcat
+Prin sfânt sângele lui Isus
+
+[s2]
+Prin ce voi fi curăţit,
+Numa-n sângele lui Isus
+De părintele iubit,
+Numa-n sângele lui Isus
+
+[s3]
+Prin ce voi fi eu iertat,
+Numa-n sângele lui Isus
+Prin ce voi fi mângâiat,
+Numa-n sângele lui Isus
+
+[s4]
+Pe pacatos ce-ndreaptă
+Numai sângele lui Isus,
+Lui Dumnezeu să placă,
+Numai sângele lui Isus
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

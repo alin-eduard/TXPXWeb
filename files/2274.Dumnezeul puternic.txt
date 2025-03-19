@@ -1,0 +1,29 @@
+[s1]
+Re M
+1. Dumnezeul puternic, ce-i cu tine pe munte,
+Zi de zi te-ntăreşte, şi nu vei cădea.
+E cu tine şi-n vale, îţi alungă durerea.
+Cel ce a creat ziua, e Dumnezeu, şi noaptea.
+
+[s2]
+R: /: Mâna Lui cea tare, ce te-a ţinut sus pe munte.
+Tot ea te va ţine, şi-n văile adânci.
+Dumnezeul ce-ţi pune, bucurie în suflet.
+Tot El îţi va şterge, lacrima atunci când plângi :/
+
+[s3]
+introducere
+2. Vorbim de credinţă, când suntem sus pe stâncă
+Pare uşor, când necazuri n-avem.
+Însa vin clipe grele, cu-ncercări şi ispite.
+Atunci Domnul vede, cât te încrezi tu în El.
+
+[s4]
+R:
+/: Mâna Lui cea tare, ce te-a ţinut sus pe munte.
+Tot ea te va ţine, şi-n văile adânci.
+Dumnezeul ce-ţi pune, bucurie în suflet.
+Tot El îţi va şterge, lacrima atunci când plângi :/
+
+[order]
+s1,s2,s3,s4

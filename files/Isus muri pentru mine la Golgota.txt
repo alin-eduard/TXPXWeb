@@ -1,0 +1,21 @@
+[s1]
+Isus muri pentru mine la Golgota.
+Isus muri pentru mine, Aleluia!
+
+[r1]
+Mîna Lui Isus m-a scos din păcat
+Din nevoi tot Isus m-a scăpat
+Mîna Lui pe păcătoşi a salvat
+Fie Numele Lui binecuvîntat!
+
+[s2]
+La Golgota eu sunt scăpat
+prin jertfa Sa.
+Sunt mîntuit, eliberat, Aleluia!
+
+[s3]
+Isus e viu, El trăieşte in viaţa mea.
+Vino şi tu să-L întîlneşti la Golgota!
+
+[order]
+s1,r1,s2,r1,s3,r1

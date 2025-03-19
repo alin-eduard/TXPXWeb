@@ -1,0 +1,33 @@
+[r1]
+Caută-n lume adevărul
+dacă vrei ca să trăieşti !
+/: Caută harul de acuma,
+calea sfîntă care-i una
+Pînă viaţa nu sfîrşeşti ! :/
+
+[s1]
+Dintre multele cuvinte
+ce-s rostite fără teamă
+Omule, în cate oare
+adevărul stă-n picioare?
+
+[s2]
+Mii de ani, veacuri de-a rîndul
+ce-au acoperit trecutul
+Vorba, fapta, chiar şi gîndul,
+le va judeca-Adevărul.
+
+[s3]
+Om ce-ţi pui nădejdea-n
+lucruri care pier şi putrezesc
+Singur te înşeli pe tine,
+raiul pierzi pentru vecie.
+
+[s4]
+Unul singur e-Adevărul,
+Cel ce-a fost crucificat
+El e Calea şi Viaţa,
+Adevărul ce-ţi dă pacea.
+
+[order]
+r1,s1,r1,s2,r1,s3,r1,s4,r1

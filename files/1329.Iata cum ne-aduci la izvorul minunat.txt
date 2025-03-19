@@ -1,0 +1,42 @@
+[s1]
+1329.
+1.  Iată cum ne-aduci la izvorul minunat
+Unde sufletele ni le-adăpi neîncetat.
+/: La Tine vin şi-mi aduci mângâiere deplin
+Fiindcă sunt preţuit de Isus :/
+2.  Minunat e al Tău izvoraş cristalin
+Răcoreşte şi alină orice greu şi suspin.
+/: Fericiţi lângă Tine ca să fiu ne-ai chemat
+Dar îi strig pe cei dragi ne-ncetat:/
+
+[s2]
+3. Azi e timpul prietene dragă să priveşti
+Spre salvare-n Isus numai Lui să te smereşti
+/: Vasele-s numărate în care se vor umplea
+Şi izvorul de har va înceta:/
+4. Şi-apoi vei striga disperat obosit
+Căutând pe Isus cu adânc însetat
+/: Orice loc îl ştiai vei găsi tulburat
+Şi izvorul de har va seca:/
+
+[s3]
+5. Vei purta vasul gol căutând înlăcrimat
+Şi pe ei unde astăzi Isus te-a chemat
+/: Iar atunci într-un plâns
+Îţi vei aminti curat
+Că la El şi tu azi ai fost chemat:/
+6. Vei dori doar un strop din fântâna harului
+Să-ţi de-a milă Isus dar atunci nu va fi
+/: Părăsit vei fi de fraţi
+Căci toţi cei dragi s-au dus
+Cu dureri cerul vei privi cu plâns:/
+
+[s4]
+7. Vino azi la Isus să-ţi de-a mântuire-n dar
+Ca atunci să nu plângi remuşcări fără hotar
+/:Vezi acum cum se scurg
+Ultimile zile de har
+Nu uita că Isus vine iar:/
+
+[order]
+s1,s2,s3,s4

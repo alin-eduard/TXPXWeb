@@ -1,0 +1,43 @@
+[s1]
+1464.
+O Isus Lumina mea
+Numai Ţie-Ţi voi cânta
+Pentru Tine e cântarea
+Doamne căci mi-ai dat salvarea
+M-ai chemat să ies din lume
+Să trăiesc doar pentru Tine
+/:M-ai chemat mi-ai dat iertarea
+O ce bucurie mare:/
+
+[s2]
+O Isus Lumină dulce
+De la Tine nu m-aş duce
+Duhul Sfânt mă întăreşte
+Şi pe cale mă păzeşte
+Să rămân pe calea sfântă
+Şi să biruiesc în luptă
+/:Să mă lupt în umilinţă
+Să rămân în pocăinţă:/
+
+[s3]
+Eşti cu mine-n orice vreme
+De vrăjmaşi eu nu m-oi teme
+Fie vânt fie furtună
+Doamne Tu mă ţii de mână
+Fie cât o fi de greu.
+Tu eşti Dumnezeul meu
+/:Fie lupta cât de grea
+Doamne eşti tăria mea:/
+
+[s4]
+În curând Tu vei veni
+Să răpeşti ai Tăi copii
+Să răpeşti Biserica
+Colo sus în slava Ta
+Mulţumesc iubite Mire
+Că Te-ai îndurat de mine
+/:Al meu nume-i scris în carte
+Să am viaţă după moarte:/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,35 @@
+[s1]
+2218.re
+1. La Golgota zdrobit în cuie
+Pe lemnul crucii atârnat
+/: Lovit, hulit, scuipat de gloate
+Erai condamnat la moarte
+Isuse, Isus iubit :/.
+
+[s2]
+2. De ce atâta umilință
+Asupra Ta Tu ai luat
+/: Căci Tu n-ai meritat ocara Pentru mine să-Ți dai viața
+Isuse, Isus iubit :/.
+
+[s3]
+3. Când ai strigat că-Ți era sete Oțet și fiere amestecat
+/: Ei Ți-au întins cu un burete
+Și umilindu-Țe Îți dete
+Isuse, Isus iubit :/.
+
+[s4]
+4.Când coasta sulița străpunse
+Și-n chinuri sufletul Ți-ai dat
+/: Pe boltă soarele se stinse
+Biblia se împlinise
+Isuse, Isus iubit :/.
+
+[s5]
+5. În jerfa Ta era ascunsă
+O taină ce n-am înțeles
+/: Căci floarea albă era ruptă Mântuirea să aducă
+Isuse, Isus iubit :/.
+
+[order]
+s1,s2,s3,s4,s5

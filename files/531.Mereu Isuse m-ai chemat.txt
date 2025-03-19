@@ -1,0 +1,63 @@
+[s1]
+1.	Mereu Isuse m-ai chemat
+Din lumea de păcat
+Cu glasul Tău duios şi lin
+Dar nu te-am ascultat.
+2.	Am rătăcit ani mulţi în şir
+Prin depărtate căi
+Şi paşii mei au străbătut
+Întunecate căi.
+531.
+
+[s2]
+3.	Pe căile pustii
+Lipsit de bucurii
+Şi ani mulţi de atunci au fost
+O viaţă fără rost.
+4.	În harul minunat
+Cu drag Tu m-ai chemat
+M-ai urmărit mereu, mereu
+Isuse Domnul meu.
+
+[s3]
+5.	Şi m-ai găsit Isuse bun
+Căzut între tâlhari
+Ce trupul greu mi l-ai umplut
+De răni adânci şi mari.
+6.	Spre mine Tu Te-ai aplecat
+Cu drag m-ai căutat
+Şi untdelemn pe a mele răni
+Şi vin Tu ai turnat.
+
+[s4]
+7.	Pe asin apoi m-ai pus
+Şi la un han m-ai dus
+Hangiului doi lei i-ai dat
+Şi-n grijă m-ai lăsat.
+8.	Şi ai mai spus Isuse aşa
+Căci grijă vei avea
+Şi tot ce vei mai cheltui
+Te întorci şi vei plăti.
+
+[s5]
+9.	Dar astăzi sunt în casa Ta
+Cu cei răscumpăraţi
+Ne bucurăm în harul Tău
+Tot cu, surori şi fraţi.
+10.	În haine albe îmbrăcaţi
+Deşi nu meritam
+Ne bucurăm în harul Tău
+Mai mult decât gândeam.
+
+[s6]
+11.	Un singur dor mai am şi eu
+Acesta-i dorul meu
+Să Te aştept mereu în prag
+Isuse bun şi drag.
+12.	Ca atunci la venirea Ta
+Să pot şi eu intra
+Pe acest pământ să nu rămân
+O, bunul meu stăpân.
+
+[order]
+s1,s2,s3,s4,s5,s6

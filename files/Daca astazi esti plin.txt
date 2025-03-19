@@ -1,0 +1,26 @@
+[s1]
+Dacă astăzi eşti plin de bucurie
+Tare, sănătos, mâine cine ştie ..?
+Nu cunoşti nimic : clipa, ora, ceasul
+Când fără să ştii ţi se-opreşte pasul.
+
+[r1]
+Dacă astăzi ai aur şi palate
+Cine ţi le dă oare după moarte?
+Poate strângi comori pentru cine ştie ?
+Vino la Isus să-ţi dea apă vie !
+
+[s2]
+Astăzi Isus vrea să îţi dea cununa
+Vino azi la El pentru totdeauna !
+Veşnic tu cu El în împărăţie
+Vei cunoaşte-atunci sfânta bucurie !
+
+[s3]
+Dacă astăzi eşti păcătos şi rece
+Iată-L pe Isus, pe cărare trece !
+Ai prilejul azi să îţi spui durerea
+Pentru-o clipă doar leapădă tăcerea !
+
+[order]
+s1,r1,s2,r1,s3,r1

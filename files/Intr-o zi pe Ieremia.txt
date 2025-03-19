@@ -1,0 +1,38 @@
+[s1]
+Într-o zi pe Ieremia
+Domnul îl înştiinţează
+La olar să meargă-n casă
+Ca să-l vadă cum lucrează
+El s-a dus văzu pe roată
+Vasul ce nu izbutise
+Dar curând o altă formă
+Şi alt vas din el făcuse.
+
+[r1]
+Tot la fel noi suntem lutul
+Însă Domnul e olarul
+/:Să lăsăm să prelucreze
+Vasul ca să curgă harul./:
+
+[s2]
+În castele şi-n palate
+Nu sunt vase doar de aur
+Sunt de-argint, de lemn, ţărână
+Ce nu-s toate din tezaur
+Întrebuinţate-s toate
+Dar nu în aceleaşi zile
+Sunt de cinste de ocară
+Laudate sau umile
+
+[s3]
+Dac-un vas se curăţeşte
+Domnul face vas de cinste
+Îl albeşte Îl sfinţeşte
+Spre-a fi de foloase sfinte
+Vasul nu-ntreabă olarul
+Cum e prelucrat sa-i spună
+Domnul face vas destoinic
+Pentru o lucrare bună.
+
+[order]
+s1,r1,s2,r1,s3,r1

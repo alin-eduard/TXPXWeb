@@ -1,0 +1,56 @@
+[s1]
+Când din pragul deznădejdii
+către Tine strig şi gem
+/: Împlineşte-a mea dorinţă,
+când Ţi-o cer cu umilinţă,
+O, Isuse, o, Isuse! :/
+
+[s2]
+Când pe marea vieţii, Doamne, urlă valul ne-ncetat,
+/: Vino Tu la cârma vieţii
+ca să fim salvaţi cu toţi,
+O, Isuse, o, Isuse! :/
+
+[s3]
+Că-i aproape-a Ta venire
+iar noi stăm nepăsători,
+/: Treci la noi prin adunare
+să Te simtă fiecare,
+O, Isuse, o, Isuse! :/
+
+[s4]
+Pe cei slabi îi întăreşte,
+dă-le Tu Doamne puteri,
+/: Celor morţi le dă viaţă,
+pe cei mici iai Tu pe braţe,
+O, Isuse, O, Isuse! :/
+
+[s5]
+Cei ce n-au primit arvunaşi
+n-au încă Duhul Sfânt,
+/: Îi îmbracă-n umilinţă
+să Ţi-l ceară cu credinţă,
+O, Isuse, o, Isuse! :/
+
+[s6]
+Îi îmbracă cu puterea
+Duhului de la Rusalii,
+/: Cu vorbirea-n limbi străine
+să Te laude pe Tine,
+O, Isuse, o, Isuse! :/
+
+[s7]
+Iar în ziua minunată
+când veni-vei să ne iei,
+/: Să putem zbura cu toţii
+părăsind ţărâna morţii,
+O, Isuse, o, Isuse! :/
+
+[s8]
+Însă pân-atunci, Isuse, ne îmbracă-n Duhul Sfânt,
+/: Să putem striga cu toţii
+cum e scris în sulul cărţii
+Vino Doamne mai curând! :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

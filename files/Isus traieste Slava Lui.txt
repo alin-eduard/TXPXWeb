@@ -1,0 +1,30 @@
+[s1]
+Isus trăieşte, Slavă Lui!
+Din morţi a înviat!
+Veniţi, ai Lui răscumpăraţi,
+Cu bucurie voi strigaţi:
+/: Hristos a înviat! :/
+
+[s2]
+Traieşte El, Cel răstignit,
+Al cerului Domn sfânt.
+Oricine e de El iubit
+Să-I cânte astăzi fericit:
+/:Hristos a înviat!:/
+
+[s3]
+Trăieşte Cel ce ne-a-mpăcat
+Cu Domnul Dumnezeu
+Veniţi, că sânge a vărsat,
+Cântaţi pe Domnul înălţat:
+/:Hristos a înviat!:/
+
+[s4]
+Trăieşte-al nostru Salvator.
+El ne iubeşte mult!
+Unit în duh, al Său popor
+Să cânte ne-ncetat in cor:
+/:Hristos înviat!:/
+
+[order]
+s1,s2,s3,s4

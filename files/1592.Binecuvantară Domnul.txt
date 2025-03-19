@@ -1,0 +1,62 @@
+[s1]
+1592
+1.Binecuvântară Domnul
+Pe părintele Avraam
+Şi-i dădu la bătrâneţe
+Şi Sarei un băiat
+
+[s2]
+2.Mare i-a fost bucuria
+Când pe lume a venit
+Acel copilaş pe care
+Domnul l-a făgăduit
+
+[s3]
+3.Iată însă vine ziua
+Când Domnul l-a întristat
+Ca să ducă el ca  jertfă
+Unicul lui copilaş
+
+[s4]
+4.Se sculă de dimineaţă
+Şi-l luară pe Isac
+Trei zile călătorea
+Până în ţara Moria
+
+[s5]
+5.Îşi luă fiul de mână
+Şi îl urcă pe altar
+Şi cuţitul ridicase
+Să-l junghie pe Isac
+
+[s6]
+6.Dar Isac îl întrebară
+Pe tatăl său Avraam
+Tată văd că totul este            Unde-i mielul de-njunghiat
+
+[s7]
+7.Dar Avraam atunci îi zise
+Lui Isac îi porunci
+Hai fiule hai să mergem
+De asta Domnul s-a-ngriji
+
+[s8]
+8.Ajunseră sus pe munte
+La locul cel stabilit
+Şi făcu Avraam altarul
+Pentru jertfă l-a pregătit
+
+[s9]
+9.Dar o voce atunci îi zise
+Stai Avraame stai aşa
+Uite colo în desişuri
+Mielul pentru jertfa ta
+
+[s10]
+10.Prin această încercare
+Dumnezeu credinţa lui
+Şi îl binecuvântase
+Înmulţind sămânţa lui
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

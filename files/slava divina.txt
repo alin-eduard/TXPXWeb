@@ -1,0 +1,21 @@
+[s1]
+Slavă divină coboară peste noi
+Şi lasă-n inimi a iubirii Tale ploi
+Ooo! slavă din cer cu Tine-nvăluiţi
+Să căutăm eterne biruinţi.
+
+[r1]
+Al slavei Domn coboară peste noi
+În noi Tu să domneşti deplin
+Slăvite Domn sfinţeşte-ne acum
+Şi lin coboară-Ţi slava printre noi.
+
+[s2]
+Slavă divină a cerului sublim
+Odihnă-ţi găseşti
+doar în sufletul umil
+Ooo! slavă din cer cu Tine-nvăluiţi
+Să fim mereu a cerului biruinţi
+
+[order]
+s1,r1,s2,r1

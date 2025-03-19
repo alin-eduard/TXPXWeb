@@ -1,0 +1,33 @@
+[s1]
+1943			Re m
+1. Trăiască Domnul stânca vieții mele
+Ce s-a jertfit pe cruce la Calvar
+Venind din slava de dincolo de stele
+Ca să ne aducă mântuirea-n dar.
+
+[r1]
+Cor: Trăiască Domnul stânca mântuirii
+El e speranța sufletului meu
+Mă-ncred în El în Domnul nemuririi
+Și aștept cu dor să plec în cerul Său.
+
+[s2]
+2. Slăvit să fie Domnul nemuririi
+Ce m-a spălat în sângele Lui sfânt
+M-a așezat pe stânca mântuirii
+O viață-ntreagă numai Lui să-i cânt.
+
+[s3]
+3. Mărit să fie Cel ce mântuiește
+Îi cânt mereu prin Duhul Lui cel sfânt
+L-aștept cu dor căci iată se ivește
+Să mă răpească de pe acest pământ.
+
+[s4]
+4. Trăiască Domnul a mea sărbătoare
+Lumina vieți mele pe pământ
+Ca El nu-i nimeni Dumnezeu mai mare
+Ca Domnul meu nu-i nimenea mai Sfânt.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

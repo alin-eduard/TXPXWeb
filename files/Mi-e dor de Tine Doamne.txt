@@ -1,0 +1,32 @@
+[s1]
+Mi-e dor de Tine, Doamne,
+Stăpânul meu preasfânt.
+Ce-aş face fără Tine
+Pe-acest străin pământ?
+
+[r1]
+În orice zi şi clipă
+De Tine dornic sunt.
+Ce-aş face fără Tine
+Stăpânul meu preasfânt?
+
+[s2]
+În jurul meu ispite
+Sporesc neîncetat
+ŞI Tu mă aperi, Doamne,
+Stăpâne îndurat.
+
+[s3]
+În urletul furtunii,
+Sub trăsnete şi frig,
+Durerea mea şi spaima
+Cui aş putea s-o strig?
+
+[s4]
+Fiinţa Ta, o, Doamne,
+E pacea, viaţa mea,
+Ce-aş face fără Tine
+În noaptea vieţii grea?
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,24 @@
+[s1]
+Doamne, îti multumesc nespus
+Ca prin harul Tau
+Mi-ai adus speranta
+Si atatea comori din vesnie.
+
+[r1]
+Lumineaza-mi Tu gandul
+Sa stiu voia Ta
+Întăreste-mi Tu pasii
+Să pot înaita.
+Doamne te laud
+Cu toata fiinta mea
+Numai Tu esti Domn
+Si vei domni în vesnicie.
+
+[s2]
+Doamne, inunda-mi inima
+Cu iubirea Ta…
+Sfinteste-mi purtarea
+Te rog sa veghezi asupra mea.
+
+[order]
+s1,r1,s2,r1

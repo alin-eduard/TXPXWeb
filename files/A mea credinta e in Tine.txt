@@ -1,0 +1,33 @@
+[s1]
+A mea credinţă e în Tine,
+Isuse, scump Salvator
+Eu stau-naintea Ta,
+Predându-Ți inima,
+Te rog primeşte-mă,
+Să fiu al Tău.
+
+[r1]
+/:Las’ a Ta graţie,
+Tărie să-mi fie-n inima mea.
+Tu aşa m-ai iubit
+că pe cruce-ai murit,
+O, las’ să fiu scutit de mila Ta.:/
+
+[s2]
+Când vin valurile
+şi-aduc durerile,
+Fii farul meu,
+Tu fă din noapte zi,
+Ştergând lacrimile,
+Şi atunci ştiu
+că voi fi în harul Tău.
+
+[s3]
+Când viaţa-mi voi sfârşi,
+Şi moartea va veni peste mine.
+Atunci iubirea Ta
+să-mi departe frica,
+Si-atunci m-oi bucura lângă Tine.
+
+[order]
+s1,r1,s2,r1,s3,r1

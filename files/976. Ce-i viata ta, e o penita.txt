@@ -1,0 +1,53 @@
+[s1]
+976.                                                                                                                                                       Re m
+1. Ce-i viaţa ta? E o peniţă
+Cu care scrii mereu pe-un drum
+/: Şi-apoi la ultima portiţă
+Tot ce-ai scris tu ca pe-o tăbliţă
+Nu se mai şterge nicidecum. :/
+
+[s2]
+2. Şi vorbe-n vânt şi fapte rele
+Rămân pe veci ca-ntr-un album
+/: Păzit e scrisul tău de stele
+De-ai spune mării-ntregi să-l spele
+Nu se mai şterge nicidecum. :/
+
+[s3]
+3. Să nu te minţi că-n veşnicie
+Trecutul se preface-n scrum
+/: Căci Dumnezeu stă mărturie
+Că-n faţa Lui tot ce se scrie
+Nu se mai şterge nicidecum. :/
+
+[s4]
+4. În ceasul greu de judecată
+Îţi vei citi întregul drum
+/: Vei izbucni în plâns deodată
+Dar nicio slovă-nlăcrimată
+Nu se mai şterge nicidecum. :/
+
+[s5]
+5. Nu poate şterge decât sânge
+Dar sânge sfânt şi nu oricum
+/: Ce înger trupul şi-l va frânge
+Şi-astfel ce-ai scris
+Oricât ai plânge
+Nu se mai şterge nicidecum. :/
+
+[s6]
+6. Hai! Adu-ţi vina ta şi greşul
+Isus îţi şterge-al vieţii drum
+/: Cum trece pe nisip vârtejul
+Dar dacă azi nu-i prinzi prilejul
+Nu se mai şterge nicidecum. :/
+
+[s7]
+7. Isus pe lemn rabdă arşiţa
+Isus e preţul tău acum
+/: Te face alb ca lămâiţa
+Şi tot ce-a scris cândva peniţa
+Nu se mai vede nicidecum. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

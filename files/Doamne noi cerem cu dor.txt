@@ -1,0 +1,28 @@
+[s1]
+Doamne, noi cerem, cu dor,
+Nu un lucru pieritor,
+Nici desarte amagiri,
+Nici potrivnice simtiri.
+
+[r1]
+Iata, Doamne, ce dorim:
+Dupa Tine sa venim!
+Umple-ne cu Duhul Sfant,
+Sa-Ti slujim pan' la mormant!
+Sa ramai mereu cu noi,
+Sa nu dam nicicand-napoi!
+
+[s2]
+Duhul Sfant, nu firea mea,
+Stapaneasca-ma cum vrea!
+Sa-L ascult, cu drag, voiesc,
+Ca nicicand sa nu gresesc.
+
+[s3]
+De-astazi hotarasca El
+Lucrul nostru, de-orice fel!
+Fapte, vorbe, cuget chiar,
+Sa reflecte al Sau har!
+
+[order]
+s1,r1,s2,r1,s3,r1

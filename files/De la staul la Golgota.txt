@@ -1,0 +1,40 @@
+[s1]
+De la staul la Golgota
+Cât amar şi suflet trist
+Trist priveai pe cruce bolta
+Norii grei porneau revolta clocotind.
+
+[s2]
+De la staul la Golgota
+Numai răni şi vânătăi
+Te pândeau mereu duşmanii
+Până n-au mai fost strădanii nicăieri.
+
+[s3]
+De la staul la Golgota
+Calea cum să ţi-o cunosc?
+Ce elan, ce milă dulce
+Ai putut din cer aduce pe pământ.
+
+[s4]
+De pe fân şi până-n cuie
+Numai răni şi vânătăi
+Ce cuvinte pot să spună
+Cum plângeai pe-o
+cărăruie pentru-ai Tăi.
+
+[s5]
+Din Egipt în Gheţismani
+Numai drum şi privegheri
+Te pândeau mereu duşmanii
+Până n-au mai fost strădanii nicăieri.
+
+[s6]
+De la iesle pân’ la mine
+Câte lacrimi, câţi martiri
+Unde-aş mai găsi suspine
+Doamne să-Ţi aduc
+mai bine mulţumiri.
+
+[order]
+s1,s2,s3,s4,s5,s6

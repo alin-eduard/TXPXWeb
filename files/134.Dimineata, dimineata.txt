@@ -1,0 +1,33 @@
+[s1]
+134.
+1. Dimineaţa, dimineaţa
+Iarăşi ai sosit la noi
+În care toţi cu iubire
+Putem sluji Domnului
+Tatăl nostru scump din ceruri
+Binecuvântă ziua
+Ca în toate să împlinim
+Numai Sfântă voia Ta.
+
+[s2]
+2. De-ar veni şi azi ispite
+Şi vor bate iar furtuni
+Din toate primejdiile
+Lângă Tine să ne aduni!
+Vor lovi-n zadar atuncea
+Săgeţile Satanei
+Dacă sufletul e scutit
+Prin platoşa credinţei.
+
+[s3]
+3. Învingătorul  nostru Isus
+Cu mâna Ta condu-ne
+O fi cu noi în tot locul
+Pe cale îndreaptă-ne
+Dă-ne putere când slăbim
+Ca să nu ne rătăcim
+Cu ochii-ndreptaţi în sus
+Până vei veni Isus.
+
+[order]
+s1,s2,s3

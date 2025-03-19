@@ -1,0 +1,50 @@
+[s1]
+Tac şi privesc ochii adânci
+Care m-au descătuşat
+Când eram lovit de stânci.
+Azi sânt o lacrimă de foc
+Ce a curs din ochii Tăi
+Te iubesc, Domnul meu !
+
+[r1]
+Tu eşti iubirea mea dintâi
+Primul pas mi l-ai schimbat
+Într-un zbor adevărat.
+Eu vreau să fiu în palma Ta
+Perla care va cânta:
+<Te iubesc, Domnul meu !>
+
+[s2]
+Vreau flori de mai eu să presar
+Peste inima ce-acum
+Ţi-o dau cu iubire-n dar.
+Da, dragostea Ta ne-a unit
+Azi sânt cel mai fericit
+Te iubesc, Domnul meu!
+
+[s3]
+Iar când pe nori Te voi vedea
+Noaptea o voi birui
+Şi voi fi-n veci steaua Ta.
+Noi amândoi vom fi mereu
+Timpul nu va trece greu
+Te iubesc, Domnul meu !
+
+[s4]
+Vin şi Te rog ca să primeşti
+În grădinile cereşti
+Şi pe cel din faţa mea.
+Dacă o clipă Te-a iubit
+Vezi cât e de obosit
+Dă-i din dragostea Ta !
+
+[s5]
+Nu-l izgoni din harul Tău
+Umple-i inima mereu
+Cu iubire-n Dumnezeu.
+Şi fă-l să poată spune-n veci
+Chiar când vin umbrele reci :
+<Te iubesc, Domnul meu !> :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5

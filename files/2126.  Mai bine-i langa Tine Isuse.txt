@@ -1,0 +1,34 @@
+[s1]
+2126
+1. /: Mai bine-i lângă Tine Isuse
+Mai bine-i lângă crucea Ta
+Acolo mă-ntâlnesc cu Tine
+/: Acolo-mi iei povara mea :/
+Acolo-mi vindeci rana mea :/.
+
+[s2]
+2. Din câte locuri sunt și aș alege
+Nu-i nici un loc ca Golgota
+Acolo ceru-i mai aproape
+/: Acolo simt iubirea Ta :/.
+
+[s3]
+3. E așa de dulce părtășia
+Atunci când vin la Golgota
+Prezența Lui mă copleșește
+/: Și de acolo n-aș pleca :/.
+
+[s4]
+4. La cruce, la calvar Isuse
+Tu Te-ai jertfit căci m-ai iubit
+Acolo viața mea schimbată
+/: A fost când Tu m-ai întâlnit:/.
+
+[s5]
+5. Isuse Tu ești frumusețea
+Ce va răsfrânge la calvar
+Ea schimbă și-nnoiește viața
+/: Și celui păcătos dă har :/.
+
+[order]
+s1,s2,s3,s4,s5

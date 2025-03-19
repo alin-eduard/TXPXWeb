@@ -1,0 +1,30 @@
+[s1]
+De mult aş fi căzut
+sub grea povara mea.
+De n-ai fi fost Tu
+să-mi arăţi cât mă iubeşti.
+De când Tu m-ai găsit
+nimic nu e prea greu.
+Merg înainte şi mă-ncred
+în iubirea Ta.
+
+[r1]
+/: Da eu mă-ncred
+chiar dacă nu pot să-nţeleg.
+Mă încred când taine
+nu pot să dezleg.
+Mă încred chiar dacă
+trec prin încercări.
+Mă încred în El. :/
+
+[s2]
+Atunci când zorile
+îmi par departe,
+Şi bucuria mea
+în noapte-a dispărut.
+Continui să mă-ncred
+în Isus căci mi-a promis.
+Că voi vedea lumina Sa, dimineaţa.
+
+[order]
+s1,r1,s2,r1

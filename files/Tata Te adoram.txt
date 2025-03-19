@@ -1,0 +1,20 @@
+[s1]
+Tată, Te adorăm
+Tată, Te onorăm !
+Venim acum în prezenţa Ta
+Tată, Te onorăm !
+
+[s2]
+Isus, Te adorăm
+Isus, Te onorăm !
+Venim acum în prezenţa Ta
+Tată, Te onorăm !
+
+[s3]
+Duh Sfînt, Te adorăm
+Duh Sfînt, Te onorăm !
+Venim acum în prezenţa Ta
+Duh Sfînt, Te onorăm !
+
+[order]
+s1,s2,s3

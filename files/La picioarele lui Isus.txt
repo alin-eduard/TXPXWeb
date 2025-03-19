@@ -1,0 +1,32 @@
+[s1]
+La picioarele lui ISUS
+E loc sfânt şi fericit
+Unde aud Cuvântul sfânt
+Şi tot ce am de păzit!...
+Şezând la picioarele Lui,
+Tot necazul s-a sfârşit
+Căci iubirea-I graţioasă
+Eu acolo-am dobândit.
+
+[s2]
+La picioarele-Ţi ISUSE
+Binecuvântări adun
+Şi mereu m-apropii, Doamne
+Întristarea mea să-Ţi spun!
+La picioarele-Ţi ISUSE
+O să stau eu ne-ncetat
+Să-Ţi primesc iubire-adâncă
+Harul Tău sfânt şi bogat!
+
+[s3]
+Binecuvântă-mă Doamne
+Când ’naintea Ta mă plec,
+Mă ajută Tu pe-aicea
+Fericit cu Tin’ să trec...
+Tată, dă-mi a Ta sfinţire,
+Ca ISUS doresc să fiu
+Şi mă-mbracă în iubire
+Până nu e prea târziu!
+
+[order]
+s1,s2,s3

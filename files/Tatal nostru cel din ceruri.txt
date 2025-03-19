@@ -1,0 +1,26 @@
+[s1]
+Tatăl nostru cel din ceruri
+Azi aici ne-am adunat
+Spre-a-Ţi aduce ruga noastră
+Prin Isus cel adorat.
+Doamne, binecuvintează
+Şi păzeşte-ne pe noi.
+
+[s2]
+Fă să cadă-n abundenţă
+Ploaia Spiritului Tău,
+Curăţeşte viaţa noastră
+De păcat, de orice rău!
+Doamne, binecuvintează
+Şi păzeşte-ne pe noi.
+
+[s3]
+Fi-ne Doamne scut, povaţă,
+Şi prin Sfântul Tău Cuvânt
+Luminează calea noastră
+Cât vom sta pe-acest pământ!
+Doamne, binecuvintează
+Şi păzeşte-ne pe noi.
+
+[order]
+s1,s2,s3

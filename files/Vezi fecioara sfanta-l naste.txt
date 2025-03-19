@@ -1,0 +1,39 @@
+[s1]
+Vezi fecioara sfanta-l naste,
+într-un grajd mic și sărac.
+Lângă ea copilul doarme,
+într-un staul e culcat.
+El e întruparea milei,
+e prunc sfant si minunat.
+Blând fecioara ține-mbrațe,
+pe Mesia, pe-Mpărat.
+
+[s2]
+A venit păsind pe ape
+a schimbat apa în vin.
+El e binecuvântare,
+Miel prea sfânt, pruncul divin.
+Slava Tatalui din ceruri,
+ce prin Fiul a lucrat.
+Vino astazi si primeste-l.
+Pe Mesia pe Imparat.
+
+[r1]
+/: Aleluia. :/ X3
+El Mesia e-Mparat.
+
+[s3]
+A murit pentru omenire,
+a purtat al nost´ pacat.
+A-nviat sa ne salveze,
+si cu Tatal ne-a impacat.
+Slava pruncului din ceruri,
+slava harului bogat.
+Vino astazi si primeste-l ,
+pe Mesia Imparat.
+
+[s4]
+/: Glorie, Aleluia :/x6
+
+[order]
+s1,s2,r1,s3,r1,s4,r1

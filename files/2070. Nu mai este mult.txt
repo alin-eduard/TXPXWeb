@@ -1,0 +1,35 @@
+[s1]
+2070          mi m
+1. /: Nu mai este mult :/
+Şi Isus va apărea pe nori;
+/: Nu mai este mult :/
+Şi-L vom întâmpina biruitori.
+
+[r1]
+Cor: Isus revine să ne ia la El
+El este Mirele Emanuel
+El ne va duce în eternul rai
+Și cu toții vom cânta: Aleluia!
+
+[s2]
+2. /: Nu mai este mult :/
+Şi durerile se vor sfârşi
+/: Nu mai este mult :/
+Şi Isus Hristos va-mpărăţi.
+
+[s3]
+3. /: Nu mai este mult :/
+Când vom păşi pe
+marea de cristal
+/: Nu mai este mult :/
+Şi vom călca toţi pe aur curat.
+
+[s4]
+4. /: Nu mai este mult :/
+Dar pân-atunci trebuie
+să luptăm
+/: Nu mai este mult :/
+Cununa veşnică să o purtăm.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

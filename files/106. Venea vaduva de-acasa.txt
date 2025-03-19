@@ -1,0 +1,84 @@
+[s1]
+106.   Re m
+1. Venea văduva de-acasă
+Venea şi plângea
+La uşa de judecată
+Din zori aştepta.
+/: Să se deschidă pridvorul
+Să vie judecătorul
+Şi să-i spuie a sa durere
+Care o avea :/
+
+[s2]
+2. Fă-mi dreptate, fă-mi şi mie
+O, nu-n legea mea
+Faţă de al meu potrivnic
+Ce-mi face necaz.
+/: Care din a lui pricină
+Viaţa mea-i de chinuri plină
+Căci cel rău mă asupreşte
+Şi sunt văduvă :/.
+
+[s3]
+3. Mă condamnă cu asprime
+Să ies pe pridvor
+Chiar lângă a mea căsuţă
+Să stau nu mai pot.
+/: Am venit să-mi faci dreptate
+Chiar astăzi dacă se poate
+Căci cu lacrimi mănânc pâinea
+Fă-mi dreptate azi :/.
+
+[s4]
+4. Eu n-am timp
+Să stau de vorbă
+Cu nişte femei
+Du-te acasă mai degrabă
+Du-te unde vrei
+/: Vino mâine sau poimâine
+Vino peste o săptămână
+Şi-ţi voi face eu dreptate
+După cum voi vrea :/.
+
+[s5]
+5. Şi aşa mai multă vreme
+Văduva venea
+La uşa de judecată
+Cu amar plângea.
+/:Până când judecătorul
+I-a închis iarăşi pridvorul
+Du-te acasă şi mai mult
+Tu nu mă supăra :/.
+
+[s6]
+6. După un răstimp de vreme
+Văduva i-a zis
+Pentru ce nu-mi faci dreptate
+După cum mi-ai spus.
+/: Eşti nedrept şi fără milă
+Şi de oameni n-ai ruşine
+Şi de Dumnezeu Preasfântul
+Văd că nu te temi :/.
+
+[s7]
+7. Şi atunci judecătorul
+I-a vorbit aşa
+Eu de oameni n-am ruşine
+Precum zice ea.
+/: Şi de Dumnezeu n-am frică
+Şi nu mă tem de nimic
+Şi-i voi face eu dreptate
+Precum cere ea :/.
+
+[s8]
+8. Iată că Mântuitorul
+Aici a vorbit
+Ce-a făcut judecătorul
+Care a fost nedrept.
+/:Dar cu cât Dumnezeu , frate
+Dacă strigi Tu zi şi noapte
+Te ascultă şi dreptate
+Îţi face orişicând :/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

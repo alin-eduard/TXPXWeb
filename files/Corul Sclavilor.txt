@@ -1,0 +1,31 @@
+[s1]
+Tot mai sus se înalţă cântarea mea,
+Ea străbate văzduhul albastru,
+Preamărind şi slăvind Mântuirea,
+Ce prin Domnul Isus s-a coborât.
+
+[s2]
+Să-I cântăm lui Hristos Salvatorul
+Mult slăvitul în cer şi pe pământ,
+O veniţi toti cu laudele voastre,
+Fericiţi că El pe toţi ne-a mântuit.
+
+[s3]
+Să răsune pământul cu tot ce-i pe el,
+Căci din cer ne-a venit mântuirea,
+Aleluia întruna noi toţi Îţi cântăm.
+Şi-Ţi vestim numele pe pământ.
+
+[s4]
+Cântă harfă a noastră cântare,
+Nu-nceta să vesteşti tot mereu,
+Dragostea ce pe toţi ne cuprinde
+Şi ne duce spre limanul de sus.
+
+[s5]
+Unde-om fi tot mereu cu Isus,
+Unde-om fi tot mereu cu Isus
+Tot mereu cu Isus.
+
+[order]
+s1,s2,s3,s4,s5

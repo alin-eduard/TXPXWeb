@@ -1,0 +1,33 @@
+[s1]
+De ce-i atâta întristare
+Şi-atâtea dureri pe pământ
+Inima de ce mereu mă doare
+O,vino Isus căte-aşteptăm plângând
+
+[r1]
+Opreşte-te o clipă lângă mine
+Şi vezi-mi starea mea nu mă
+lăsa că-mi este greu
+Durerea ce m-apasă-mi este mare
+Şi nu mi-o ştie nimenea.
+
+[s2]
+De ce-s atâtea obstacole-n cale
+De ce-i atâta plânset şi oftat
+Inima de ce mereu mă doare
+O,vino Isuse minunat.
+
+[s3]
+Vei înţelege dar nu acuma
+De ce-s atâtea pe pământ
+Inima de ce mereu mă doare
+O,vino Isus mai curând.
+
+[s4]
+Când vom ajunge cu toţii în doare
+Pe Tine Mire te-om lăuda
+Vom uita c-am fost în chinuri grele
+Şi suferinţa n-a mai exista.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

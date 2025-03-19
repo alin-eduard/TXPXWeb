@@ -1,0 +1,45 @@
+[s1]
+1.Doamne, mai vreau Rusalii!
+Cu limbi de foc,
+Să le împrăştii, pe fiecare,
+Să ne atingi cu Duhul Tău!
+Doamne, vreau o trezire
+Și într-un gând şi o simţire
+Să fim cu toţii
+Şi să cantăm in limbi o mie!
+1626              Fa
+
+[s2]
+Cor: Tu faci cerul să coboare,
+Naşti în inimă izvoare.
+O, Duh Preasfânt, dă-ne Rusali!
+O, Duh Preasfânt!
+
+[s3]
+2.Doamne, dă-mi bucurie
+Şi să mă legi strâns în iubire!
+Doamne eu vreau,
+Vreau tot mai mult din Duhul Tău!
+Doamne, mai vreau sfinţire
+Şi un foc adânc să ardă-n mine!
+Pe veşnicii să fiu al Tău,
+În nemurire!
+
+[r1]
+Cor: Tu faci cerul să coboare,
+Naşti în inimă izvoare,
+O, Duh Preasfânt, dă-ne Rusali!
+O, Duh Preasfânt!
+
+[s4]
+3.Doamne, vreau o trezire
+Şi într-un gând şi o simţire!
+Să fim cu toţi
+Şi să cântăm in nemurire!
+Doamne, dă-mi bucurie
+Și să mă legi strâns în iubire
+Doamne, eu vreu,
+Vreau tot mai mult din Duhul Tău!
+
+[order]
+s1,s2,s3,r1,s4,r1

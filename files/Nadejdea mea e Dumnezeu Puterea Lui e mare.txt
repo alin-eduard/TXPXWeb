@@ -1,0 +1,50 @@
+[s1]
+Nădejdea mea e Dumnezeu,
+Puterea Lui e mare
+/: Prin dragoste şi harul Său
+Nădăjuiesc şi cânt mereu
+Căci a salvat sufletul meu din
+Veşnica pierzare. :/
+
+[s2]
+O licărire-n infinit
+E viaţa mea întreagă
+/: Dar pentru mine S-a jertfit,
+Isus din cer m-a mântuit
+Şi-o viaţă fără de sfârşit
+De veşnicii mă leagă. :/
+
+[s3]
+Ţărână trecătoare sunt,
+Dar cred în nemurire
+/: Căci Duhul Celui veşnic sfânt
+Îmi dă putere şi avânt
+Să pot pleca de pe pământ
+Dincolo-n strălucire. :/
+
+[s4]
+Sunt călător spre ţara mea,
+Cu Domnul am izbândă
+/: Mi-e călăuză dreapta Sa,
+O, Doamne, Tu nu vei lăsa
+Nicicând să cadă-n lupta grea
+Fiinţa mea plăpândă. :/
+
+[s5]
+În glas de ciocârlii duios
+Si-n vuietul de ape
+/: În flori și-n tot ce-i mai frumos
+În cei răscumpăraţi de jos
+Iubirea sfânt-a lui Hristos
+O simt tot mai aproape. :/
+
+[s6]
+Eu am aflat un Creator
+Si pacea și menirea
+/: Stăpân al vieții ziditor
+Tu mi-ai dat lacrima de dor
+Să Te iubesc, să te-ador
+Și să-Ţi aștept venirea. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

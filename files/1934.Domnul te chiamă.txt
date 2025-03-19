@@ -1,0 +1,45 @@
+[s1]
+1934
+1. Domnul te cheamă
+La ușă-ți bate
+Și greu suspină dar negrăit
+Te cheamă slava ce ți-a gătit-o
+În raiul sfânt ce ți-a pregătit
+O vino vino la Mine
+Fiu de departe fiu rătăcit
+O vino nu vezi cum strălucește
+Țara pe care ți-am pregătit.
+
+[s2]
+2. O vino vino cu a Tale fapte
+Plin de păcate ca un smerit
+Spre slăvi senine de aur pline
+Eu pentru tine am pregătit
+O vino vino vino la Mine
+Fiu de departe fiu rătăcit
+O vino vino tu nu vezi oare
+Dragostea cu care te-am iubit.
+
+[s3]
+3. Te cheamă astăzi cu stăruință
+Chiar de ispite te-ncearcă greu
+Și nu uita că și pentru tine
+Muri un Fiu Sfânt de Dumnezeu
+O vino vino vino la Mine
+Fiu de departe fiu rătăcit
+O vino vino tu nu vezi prețul
+Cu care Domnul te-a mântuit.
+
+[s4]
+4. Noi venim Doamne sfinte la Tine
+Căci Tu ne spui
+Doamne să-ndrăznim
+Căci vrem să-mpărțim cu Tine raiul
+Și nu lași Doamne ca să murim
+O vino vino fiu de departe
+Vino la Mine când ești chemat
+O vino vino tu nu vezi prețul
+Cu care Eu te-am răscumpărat.
+
+[order]
+s1,s2,s3,s4

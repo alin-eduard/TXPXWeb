@@ -1,0 +1,35 @@
+[s1]
+Doamne eu te-as mai ruga
+Sa vii azi in casa mea
+/: Sa-mi lasi Doamne pacea Ta
+Sa-mi salvezi familia. :/
+
+[s2]
+Caci durerea si necazul
+Ma apasa tot mereu
+/: Da-mi putere de la Tine
+Nu ma lasa in suspine. :/
+
+[s3]
+Vino Doamne si ma ia
+Si ma pune-n slujba Ta
+/: Ca sa fiu mereu cu Tine
+Tu sa fii in viata mea. :/
+
+[s4]
+/: Vino Doamne-n casa mea. :/
+Si ramai pe veci in ea
+
+[s5]
+Si cand spinii rai ma-npung
+Si n-am unde sa ma duc
+/: Cand furtuna-i tot mai grea
+Vino Doamne-n casa mea :/
+
+[s6]
+/: Dar n-am ce-ti da
+Isuse n-am ce-ti da
+Numai inima mea :/ X3
+
+[order]
+s1,s2,s3,s4,s5,s6

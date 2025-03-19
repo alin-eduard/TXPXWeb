@@ -1,0 +1,26 @@
+[s1]
+Voi cânta Domnului din tot sufletul
+Şi din toată inima voi cânta,
+Căci Domnul este mare.
+Eşti fericirea mea în orice zi,
+Tu eşti bucuria mea şi voi cânta,
+ALELUIA!
+
+[s2]
+Căci Tu îmi sprijineşti dreptatea mea
+Şi pricina mea Tu o asculţi,
+Tu eşti judecătorul.
+La vreme de necaz puterea Ta,
+Se arată înaintea omului,
+ALELUIA!
+
+[s3]
+Cei care Te cunosc ştiu că Tu eşti drept
+Şi judeci lumea cu dreptate,
+Şi cu nepărtinire.
+Pe cel rău nimiceşti şi-i ştergi numele,
+Cei care se-ncred în Tine biruiesc,
+ALELUIA!
+
+[order]
+s1,s2,s3

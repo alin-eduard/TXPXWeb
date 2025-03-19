@@ -1,0 +1,39 @@
+[s1]
+Plânge tot cerul
+Picături mari de ploaie cad pe faţa ta
+Şi lacrimi, lacrimi fierbinţi
+Brăzdează încet chipul tău
+
+[s2]
+Eşti singur în întuneric
+Şi-ai dori să fie cineva, să-i spui durerea ta
+Dar oamenii trec grăbiţi pe strada,
+Şi nu văd ce-i în inima ta, o nu uita.
+
+[s3]
+Nu, nu poti frânge durerea
+Şi nu poţi opri, plânsul tău
+E prea mult, e prea greu
+De ce? Doamne de ce ?
+Te-ntrebi mereu
+
+[s4]
+Ai vrea un răspuns dar cerul e mut
+Şi norii grei de plumb,
+albastru îl ascund
+Şi soarele pe cer nu îl mai vezi
+Strălucirea lui pe veci
+crezi că ai s-o pierzi
+
+[s5]
+Nu dipera Isus te mai iubeste
+Nu te întrista El ştie durerea ta
+Priveşte la El Isus te va ajuta
+Nu dispera
+Oricât de negru sufletul ţi-ar fi
+Cu multă dragoste El te va primi
+La crucea Lui orice păcat este spălat
+Incredete in El şi vei fi iertat.
+
+[order]
+s1,s2,s3,s4,s5

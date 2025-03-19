@@ -1,0 +1,40 @@
+[s1]
+1. În drumul Ghetsimanilor odată
+Treceam uşor pe sub măslini
+/: Şi-n şoapta lor de vânt purtată
+Am auzit atunci îndată
+Ce-a fost cândva-n
+Grădina cu măslini :/
+781.
+
+[s2]
+2. Şi frunzele mai poartă
+Astăzi şoapte
+Din frunză-n frunză de măslin
+/: Aceiaşi amintire minunată
+C-a plâns cândva stingher odată
+A plâns Isus amar
+Pe sub măslini :/.
+
+[s3]
+3. De treci cândva
+Grădina Ghetsimani
+De-ţi faci cumva
+Vreun drum pe aici
+/: Ai să-ntâlneşti aceleaşi şoapte
+Pe aripa vântului purtată
+C-a plâns amar
+Isus pe sub măslini :/.
+
+[s4]
+4. A plâns atunci
+De mila lumii moarte
+De a mea şi a ta pe sub măslini
+/: Ascultă şoapta
+Frunzelor purtată
+De vântul lin ce adesea bate
+În locul plâns
+Amar pe sub măslini :/.
+
+[order]
+s1,s2,s3,s4

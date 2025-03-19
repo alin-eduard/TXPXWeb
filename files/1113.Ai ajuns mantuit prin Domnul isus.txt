@@ -1,0 +1,36 @@
+[s1]
+1113.
+Ai ajuns mântuit prin Domnul Isus
+Oare eşti în via sfântă altoit ?
+Oare plină-ţi este inima de pace ?
+Ai ajuns de Duhul Sfânt călăuzit
+Cor: Eu te-ntreb dacă ştii ce-i mântuirea
+Dacă n-ai uitat că Isus a murit
+Ai tu timp să meditezi
+Să te rogi şi să lucrezi
+Nu cumva îngrijorările te-au năpădit.
+
+[s2]
+2.  Mai iubeşti pe Isus în tot momentul
+Şi plăcerile din lume le respingi
+Ai uitat că iubirea e secretul
+Harul tainicei puteri prin care-nvingi.
+Cor:  Eu te-ntreb dacă ştii ce-i mântuirea
+Dacă n-ai uitat că Isus a murit
+Ai tu timp să meditezi
+Să te rogi şi să lucrezi
+Nu cumva îngrijorări te-au năpădit.
+
+[s3]
+3.   Este un loc unde chemi a Lui prezenţă
+Locul unde grija nu te-a tulburat
+Adunarea-i locul de închinare
+Unde-n Duh şi Adevăr te poţi ruga.
+Cor:	Eu te-ntreb dacă ştii ce-i mântuirea
+Dacă n-ai uitat că Isus a murit
+Ai tu timp să meditezi
+Să te rogi şi să lucrezi
+Nu cumva îngrijorări te-au năpădit.
+
+[order]
+s1,s2,s3

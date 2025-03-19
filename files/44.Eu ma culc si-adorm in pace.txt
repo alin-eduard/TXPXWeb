@@ -1,0 +1,45 @@
+[s1]
+1. Eu mă culc şi-adorm în pace
+Căci Tu Doamne mă veghezi
+/: Când suspin în miez de noapte
+Şi-s cu lacrime sub pleoape
+Tu Isus mă cercetezi :/.
+44.                 La b
+
+[s2]
+2. Puii de lei strigă de foame
+Dar eu liniştit adorm
+/: Căci te am pe Tine Doamne
+Lângă mine-n orice vreme
+Şi-mi dai pâine ca prin somn:/.
+
+[s3]
+3. Mai presus de orice făptură
+Cu iubire m-ai creat
+/: Mi-ai dat sfântă învăţătură
+Şi-o cântare nouă-n gură
+Să Te laud ne-ncetat :/.
+
+[s4]
+4. Mi-ai dat slavă îngerească
+Mi-ai dat Duh din Duhul Tău
+/: Sunt a cerului Mireasă
+Preoţie împărătească
+Sunt din neam de Dumnezeu:/.
+
+[s5]
+5.Toţi cei ce se-ncred în Tine
+Şi se-ascund la umbra Ta
+/: Nu vor fi daţi de ruşine
+Vor avea belşug de pâine
+Tu de grijă-i vei purta :/.
+
+[s6]
+6. Fii lăudat o Doamne mare
+Din vecie înălţat
+/: Tu dai florilor culoare
+Tu dai câmpului splendoare
+Să fii binecuvântat :/.
+
+[order]
+s1,s2,s3,s4,s5,s6

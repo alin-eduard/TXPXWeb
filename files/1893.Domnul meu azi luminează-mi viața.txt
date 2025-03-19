@@ -1,0 +1,40 @@
+[s1]
+1893
+1. /:Domnul meu azi luminează-mi viața
+Să-nțeleg iubirea Ta
+Iar când greul îmi umbrește viața
+Fă și-atunci să pot cânta.:/
+
+[s2]
+/:Aș vrea să-ți cânt
+Chiar dacă moartea
+S-ar război cu trupul meu
+Numai să știu că-n ziua mare
+Voi fi numit copilul Tău.:/
+
+[s3]
+2. /:Domnul meu azi luminează-mi viața
+Să deslușesc cărarea Ta
+Iar miile de căi din lume
+Să nu le schimb nicicând cu a Ta.:/
+
+[s4]
+/:Aș vrea să merg pe calea sfântă
+Chiar de e-ngustă sau e grea
+Căci doar pe ea au mers toți sfinții
+Privind mereu la Golgota.:/
+
+[s5]
+3. /:Domnul meu azi luminează-mi viața
+Să nu urăsc pe nimenea
+Nici chiar vrăjmașii cei de moarte
+Căci și Tu ai făcut așa.:/
+
+[s6]
+/:Aș vrea ca să renunț în viață
+La tot ce-i rău și păcătos
+Și lângă crucea Ta Isuse
+Fă să rămân tot credincios.:/
+
+[order]
+s1,s2,s3,s4,s5,s6

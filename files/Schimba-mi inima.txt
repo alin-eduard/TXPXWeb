@@ -1,0 +1,14 @@
+[r1]
+Schimbă-mi inima
+Fă-mă mai curat;
+Mai real, mai sfânt
+Mai adevarat.
+
+[r2]
+Tu eşti Olarul
+Lutul sunt eu.
+O, modelează-mă
+după chipul Tău.
+
+[order]
+r1,r2,r1,r2

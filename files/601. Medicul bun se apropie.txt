@@ -1,0 +1,39 @@
+[s1]
+1. Medicul bun se apropie
+Preotul mare Isus
+Bucurie ne aduce
+Scăpare-i numa-n Isus.
+601.
+
+[r1]
+Cor: /: Auzi îngerii cântă
+O, ce glas dulce sună
+Cântă şi tu inimă
+Isus, Isus, Isus :/
+
+[s2]
+2. Cel ce şterge păcatele
+Acela-i numai Isus
+Care la cer ne conduce
+El ne-ncunună, Isus.
+
+[s3]
+3. Pentru mine ai răbdat cruce
+Laudă Ţie Isus
+Cred Miel Dumnezeiesc Ţie
+Eu Te iubesc, O, Isus.
+
+[s4]
+4. Voi fiilor cei mari şi mici
+Iubiţi numai pe Isus
+Pe calea Lui umblaţi aici
+Cu voi petrece Isus.
+
+[s5]
+5. Când în ceruri noi vom intra
+'Nainte ne-a sta Isus
+În jur de tron noi vom cânta
+Numelui sfânt lui Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

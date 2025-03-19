@@ -1,0 +1,36 @@
+[s1]
+Aştept pe Domnul
+După cum mi-a promis
+Aştept pe Domnul precum a zis
+Aştept stăruind ca eu să primesc
+Duhul Domnului ceresc.
+Cor: Puterea puterea mă curăţă
+Şi-nvinge orice păcat
+Puterea puterea
+Ce la Rusalii s-a vărsat.
+468.
+
+[s2]
+2. Aştept pe Domnul
+Căci eu Lui m-am predat
+Aştept pe Domnul să-mi deie sfat
+Aştept puterea a Duhului Sfânt
+Să mă înveţe a fi blând.
+Cor: Puterea puterea mă curăţă
+Şi-nvinge orice păcat
+Puterea puterea
+Ce la Rusalii s-a vărsat.
+
+[s3]
+3. Aştept pe Domnul
+Mai aproape să fiu
+Aştept pe Domnul Isus cel viu
+Aştept arvuna Sfântului Spirit
+Să pot fi tot umilit.
+Cor: Puterea puterea mă curăţă
+Şi-nvinge orice păcat
+Puterea puterea
+Ce la Rusalii s-a vărsat.
+
+[order]
+s1,s2,s3

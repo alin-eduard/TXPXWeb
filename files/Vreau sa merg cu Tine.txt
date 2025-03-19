@@ -1,0 +1,38 @@
+[s1]
+Vreau să merg cu Tine
+Doresc s-am mântuirea,
+Vreau să-ajung în ţara Ta
+Nu mă uita.
+Cer să mă călăuzeşti
+In fiecare clipă,
+Cer ocrotirea Ta
+Iubirea Ta s-o pot cânta.
+
+[s2]
+/: În Tine mă bucur :/ (x3)
+Şi-s fericit
+Este drept să Te lăudăm,
+Este drept să Îţi cîntăm,
+Este drept să Te iubim
+Eşti al nostru Dumnezeu.
+
+[s3]
+Te voi binecuvânta
+In orice timp şi vreme,
+Lauda Ta voi cînta
+Cât voi trăi.
+Când mă uit spre faţa Ta
+Simt gustul fericirii
+Şi în suflet eu primesc
+Bucuria mântuirii.
+
+[s4]
+/: În Tine mă bucur :/ (x3)
+Şi-s fericit
+Este drept să Te lăudăm,
+Este drept să Îţi cântăm,
+Este drept să Te iubim
+Eşti al nostru Dumnezeu.
+
+[order]
+s1,s2,s3,s4

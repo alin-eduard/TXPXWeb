@@ -1,0 +1,41 @@
+[s1]
+Se duce viaţa ca un vis
+Şi umbrele se duc şi vin
+Iar noi zburăm spre Paradis
+Spre viaţă sau spre chin.
+Spre slava cerului senin
+Sau spre adâncu-ntunecos
+Spre fericire, sus sau jos -
+Fără sfârşit.
+
+[r1]
+Eşti pregătit să zbori
+Când ceasul va suna?
+Eşti pregătit să zbori
+Când El te va chema?
+Eşti pregătit, sau nu?
+Acum e timpul potrivit
+Întoarce-te şi tu
+Ca să fii mântuit!
+
+[s2]
+Se duce viaţa ca un nor
+În marele necunoscut.
+Pe-oceanul veşniciilor
+Atâţia au trecut.
+Şi tu vei trece, nu uita
+Depinde cum te-ai pregătit
+Spre veşnicie vei zbura, in infinit.
+
+[s3]
+Şi iată, Domnul va veni
+Cu slavă veşnică pe nori
+Înconjurat cu zeci de mii
+Cu îngerii în zbor.
+Ca fulgerul la răsărit
+Şi orice ochi îl va vedea
+Şi-aceia ce L-au răstignit
+Îl vor vedea.
+
+[order]
+s1,r1,s2,r1,s3,r1

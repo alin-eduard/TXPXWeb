@@ -1,0 +1,45 @@
+[s1]
+1. De nu m-ai fi iubit Tu, Doamne,
+Ce s-alegea de viața mea?
+În ce-ntuneric fără margini
+Trăiam fără iubirea Ta.
+De nu mi-ai fi întins Tu mâna
+Ca să mă scoţi de unde-am fost,
+Eram pierdut fără nădejde,
+Trăiam viaţa fără rost!
+MiM
+
+[r1]
+Dar m-ai iubit şi m-ai salvat,
+M-ai curăţit de-orice păcat.
+Îţi voi cânta Isus din toată inima,
+Căci m-a salvat iubirea TA! (x1)
+
+[s2]
+2. Fără de Harul Mântuirii
+Rătăcitor eram şi-acum,
+Trăiam fără nicio speranţă,
+Tot rătăcind din drum în drum.
+De nu m-ai fi iubit Tu, Doamne,
+Eu în nenorocirea mea,
+N-aş fi ştiut ce este Pacea,
+N-aş fi ştiut ce-i Dragostea.
+
+[s3]
+3. Fără de Duhul Tău, Isuse,
+Căzut eram la orice pas,
+Şi n-aş fi biruit ispita
+În orice clipă-n orice ceas.
+Dacă mă părăseai Tu, Doamne
+De câte ori eu am căzut,
+Aş fi rămas în deznădejde,
+Şi pentru veci eram pierdut.
+
+[s4]
+Dar m-ai iubit şi m-ai salvat,
+M-ai curăţit de-orice păcat.
+Îţi voi cânta Isus din toată inima,
+Căci m-a salvat iubirea TA! (x2)
+
+[order]
+s1,r1,s2,r1,s3,s4

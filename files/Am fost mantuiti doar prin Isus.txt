@@ -1,0 +1,21 @@
+[s1]
+Am fost mântuiţi doar prin Isus,
+Si născuţi din nou, doar prin Isus,
+Si trimişi de El venim la voi
+Să fiţi salvaţi, cum am fost şi noi.
+
+[r1]
+Ne-a spus: “fără bani,
+fără bani, aţi fost iertaţi
+Fără bani vestea s-o daţi!
+Mergeţi şi spuneţi pe-ntregul pământ
+C-am înviat din mormânt!”
+
+[s2]
+Pe pământ şi-n cer, doar prin Isus,
+Suntem fericiţi, doar prin Isus
+Si trimişi de El venim la voi
+Să fiţi salvaţi, cum am fost şi noi.
+
+[order]
+s1,r1,s2,r1

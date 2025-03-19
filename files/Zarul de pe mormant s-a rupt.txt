@@ -1,0 +1,32 @@
+[s1]
+Zarul de pe mormânt s-a rupt
+Sfârşitu-s-a lupta cea grea.
+Moarte, puterea-ţi frântă e,
+A vieţii e-nvingerea.
+
+[r1]
+Laudă, laudă, a-nviat Isus,
+A-nviat, a-nviat, a-nviat!
+Domnul nostru a-nviat!
+Aleluia, Aleluia!
+
+[s2]
+Noi prin Adam raiul pierdeam
+Prin Isus îl dobândim iar.
+Prin Adam blestemaţi eram
+Isus vorbeşte despre har.
+
+[s3]
+Laudă, laudă a-nviat Isus,
+A-nviat, a-nviat, a-nviat!
+Domnul nostru a-nviat!
+Aleluia, Aleluia!
+
+[s4]
+Bine ne este-a şti asta
+De moarte nu avem frică.
+În Isus noi dacă trăim
+Avem viaţă veşnică.
+
+[order]
+s1,r1,s2,s3,s4,r1

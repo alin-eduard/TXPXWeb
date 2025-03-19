@@ -1,0 +1,41 @@
+[s1]
+După multe dureri
+Şi furtună grea
+Vom vedea pe Mirele
+Pe vecie cu El
+Ne vom bucura
+Vom vedea pe Mirele
+
+[s2]
+/: Vom vedea pe Mirele
+Vom cânta în mărire
+Când ne va chema
+În jurul tronului
+Vom vedea pe Mirele :/
+
+[s3]
+Freamătul din jur ne spune
+De venirea Lui curând
+Tu mai rătăceşti în lume
+Mântuirea neglijând
+Patima ce te robeşte
+Domnul Isus va lua
+El cu sânge te sfinţeşte
+Mântuire îţi va da
+
+[r1]
+/: Eşti pregătit
+Eşti pregătit? :/
+
+[s4]
+Duhul Sfânt mai bate-odată
+Şi apoi te va lăsa
+Astăzi încă te aşteaptă
+Spune-ţi hotărârea ta
+Un mesaj răsună-n lume
+Iată că Eu vin curând
+Tu un aleluia spune
+Doamne vino mai curând
+
+[order]
+s1,s2,s3,r1,s4,r1

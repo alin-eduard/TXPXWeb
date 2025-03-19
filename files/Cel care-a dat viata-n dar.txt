@@ -1,0 +1,34 @@
+[s1]
+Cel care-a dat viaţa-n dar
+Cărarea-ţi va veghea mereu
+Şi binecuvântări va da
+Caci te iubeşte, El Dragostea.
+Chiar dacă lupta va fi mai grea
+Mergi prin credinţă, te v-ajuta
+De il iubeşti numai pe El
+Învingător vei fi mereu
+
+[s2]
+/: El a promis prin Cuvântul Său
+Va fi cu tine prin orice rău
+Să-ţi aminteşti că îţi-e sprijin
+E credincios pan` la sfârşit :/
+
+[s3]
+Tu nu uita că dup-orice nor
+Mereu e-un soare strălucitor
+Raza lui caldă te mângâie
+Şi-ţi dă lumină, linişte
+Prin braţul Său vei fi ridicat
+În jertfa sfânta de la Calvar
+Cu El de mână tu biruieşti
+Şi viaţă veşnică primeşti
+
+[s4]
+/: El a promis prin Cuvântul Său
+Va fi cu tine prin orice rău
+Să-ţi aminteşti că îţi-e sprijin
+E credincios pân` la sfârşit :/
+
+[order]
+s1,s2,s3,s4

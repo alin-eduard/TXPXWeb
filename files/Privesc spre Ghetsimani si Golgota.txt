@@ -1,0 +1,28 @@
+[s1]
+Privesc spre Ghetsimani si Golgota
+Şi-L văd pe Domnul meu, Isus Hristos.
+Îl văd rugându-Se în chinul greu
+Înlăcrimat, plângând pentru mine.
+Ce mare har să fii iubit de Dumnezeu!
+Ce mare har să fii salvat prin Fiul Său!
+
+[r1]
+În grădina Ghetsimani
+pentru mine S-a rugat
+În grădina rugăciunii
+numai lacrimi au rămas.
+Pentru mine, pentru tine,
+a luat El crucea grea
+Jertfa mântuirii mele
+este scrisă-n Golgota.
+
+[s2]
+Pe dealul Golgotei Te-am răstignit
+Încoronat cu spini, batjocorit.
+Tu toate le-ai răbdat si-ai suferit
+Cerul ai părăsit pentru mine !
+Ce mare har să fii iubit de Dumnezeu!
+Ce mare har să fii iertat prin Fiul Său!
+
+[order]
+s1,r1,s2,r1

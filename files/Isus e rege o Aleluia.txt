@@ -1,0 +1,22 @@
+[s1]
+Isus e rege, o, Aleluia
+Satan e învins
+Isus e Domn în veci de veci
+O, Aleluia, Isus e rege
+El a învins
+E domn în veci de veci
+
+[r1]
+/: Aleluia :/
+Slavă lui Isus.
+
+[s2]
+El ne iubeşte, o, Aleluia
+Slavă lui Isus
+El ne iubeşte ne-ncetat
+O, Aleluia, El ne iubeşte,
+Prin jertfa Sa
+El ne-a răscumpărat.
+
+[order]
+s1,r1,s2,r1

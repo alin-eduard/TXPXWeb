@@ -1,0 +1,62 @@
+[s1]
+2109
+1. Cine sapă groapa
+la nevinovat
+Va cădea în groapă cel
+ce a săpat
+Nu întinde curse unui
+om smerit
+Căci și tu din cursă ai fost izbăvit
+
+[r1]
+Cor: Începutul înțelepciunii
+Prin puterea rugăciunii
+Ne înalță tot mai sus mereu
+Uite ce lumină mare
+Uite ce mărgăritare
+În cuvintele lui Dumnezeu
+
+[s2]
+2. Tot ce vrei
+Să-ți facă alții fă-le tu
+Când te cheamă Domnul
+Să nu zici că nu
+Seamănă iubire din iubirea Sa
+Căci iubire sfântă
+Tu vei secera.
+
+[s3]
+3. Cine osândește va fi osândit
+Dar acel ce iartă va fi mântuit
+Cine chibzuiește nu va regreta
+El nu se grăbește
+Și nu va cădea.
+
+[r2]
+Cor: Începutul înțelepciunii
+Prin puterea rugăciunii
+Ne înalță tot mai sus mereu
+Uite ce lumină mare
+Uite ce mărgăritare
+În cuvintele lui Dumnezeu.
+
+[s4]
+4. Răul niciodată
+Să nu-l faci nicicând
+Căci cei răi vor arde
+Veșnic pe pământ
+Dragoste cerească
+Tu să răspândești
+Dacă vrei cu Domnul
+Sus să locuiești.
+
+[s5]
+5. În Proverbe scrie
+Tu să le citești pentru veșnicie
+Să te pregătești
+Prețuiește sfatul
+Care-ți este dat din cuvântul
+Veșnic și adevărat.
+
+[order]
+s1,r1,s2,r1,s3,r2,s4,r2,s5,r2

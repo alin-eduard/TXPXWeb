@@ -1,0 +1,42 @@
+[s1]
+/: Am aflat pe Domnul
+şi-acum cînt voios :/
+/: O cîntare nouă
+Domnului Hristos. :/
+/: O viaţă-ntreagă
+eu L-am căutat :/
+/: Cînt de bucurie
+că azi L-am aflat !:/
+
+[s2]
+/: Cînd mă plec în rugă-I
+mulţumesc mereu :/
+/: C-am aflat pe Domnul,
+ajutorul meu. :/
+/: Azi, cînd sînt cu Domnul,
+traiul mi-e uşor :/
+/: El în orice clipă
+îmi dă ajutor. :/
+
+[s3]
+/: Am aflat pe Domnul
+şi-acum sînt voios :/
+/: Cînt de bucurie că-L
+am pe Hristos! :/
+/: Doamne, lîngă Tine
+ţine-mă legat :/
+/: Că de Tine, Doamne,
+nu mă mai despart ! :/
+
+[s4]
+/: Haideţi voi, prieteni,
+ce nu L-aţi aflat :/
+/: Să-L găsiţi pe Domnul
+cel adevărat ! :/
+/: El şi-acum la Dansul
+vă cheamă cu drag :/
+/: Să veniţi chiar astăzi,
+tot şirag, şirag ! :/
+
+[order]
+s1,s2,s3,s4

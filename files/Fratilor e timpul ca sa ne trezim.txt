@@ -1,0 +1,26 @@
+[s1]
+Fraţilor e timpul ca să ne trezim
+Şi orice necredinţă azi s-o risipim
+A prejudecăţii praf să scuturăm
+Şi în frică sfântă astazi să luptăm
+
+[r1]
+Cu iubire astăzi să păşim
+Biruinţă astfel dobândim
+/:Că-n curând veni-va Domnul, Mesia
+Noi de vom fi gata l-om întâmpina:/
+
+[s2]
+Fraţilor e timpul să luptăm cu zel
+Împotriva eului de orice fel
+N-unii împotriva altora să fim
+C-astfel singuri astazi noi ne nimicim.
+
+[s3]
+Fraţilor e timpul chiar să încetăm
+Să vorbim pe altii, noi să ne iertăm
+Ne-ntinaţi de lume toţi să ne păzim
+Să spălăm trecutul şi să ne iubim.
+
+[order]
+s1,r1,s2,r1,s3,r1

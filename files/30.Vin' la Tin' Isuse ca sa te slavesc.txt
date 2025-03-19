@@ -1,0 +1,62 @@
+[s1]
+30.
+1. Vin' la Tin' Isuse ca să Te slăvesc
+Şi viaţa-ntreagă să Te preamăresc
+/: Vreau să Te iubesc Isuse
+Că-mi dai bucurii nespuse
+M-ai făcut fratele Tău
+Şi m-ai scăpat de rău :/.
+
+[s2]
+2.Eu Isuse dragă
+pe pământul Tău
+Am trăit odată
+fără Dumnezeu
+/: Fără Dumnezeu în lume
+Nu ştiam de fapte bune
+Dar prin mare mila Ta
+Mi-ai arătat calea :/.
+
+[s3]
+3. Prin harul Tău mare
+M-ai răscumpărat
+Prin a Ta dragoste
+Sângele Ţi-ai dat
+/: Sângele nevinovat
+Pe pământ a picurat
+Lângă cruce aici jos
+Că sunt păcătos :/.
+
+[s4]
+4. Căci păcatul meu
+Pe care l-am avut
+A fost atât de mare
+de neîntrecut
+/: Dar Isus văzându-mi starea
+El şi-a început lucrarea
+A sunat cu trâmbiţa
+La urechea mea :/.
+
+[s5]
+5. Şi ca printr-un vis
+Mielul junghiat
+Hainele murdare
+mi le-a dezbrăcat
+/: Şi m-a îmbrăcat odată
+În haina Sa minunată
+Şi în haina Mielului
+Stă Duhul Domnului :/.
+
+[s6]
+6. De aceea Isuse
+Ţie vreau să-ţi cânt
+Chiar şi când voi fi
+În cerul Tău preasfânt
+/: Când voi fi-n lumină mare
+Ce nu are asemănare
+Vreau să-Ţi cânt
+cu glasul meu
+Tu s-asculţi mereu :/.
+
+[order]
+s1,s2,s3,s4,s5,s6

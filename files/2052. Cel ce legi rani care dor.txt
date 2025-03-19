@@ -1,0 +1,41 @@
+[s1]
+2052
+Cel ce legi răni care dor
+și tămăduiești
+Ce-n necaz vii-în ajutor
+și ne izbăvești,
+Cel ce poți și știi a vindeca,
+Medic sfânt de sus,
+Vino astăzi și în casa mea vino, drag, Isus!
+
+[s2]
+2. Mângâiere-n întristări,
+har măreț nespus,
+Biruința-n încercări, mi-ai fost
+Tu Isus.
+Stâncă Tare, sprijin în nevoi,
+frate minunat,
+Totdeauna-ai fost și ești cu noi,
+Prieten adevărat.
+
+[s3]
+3. Când eram de mulți lovit,
+urât și alungat
+Doar Tu Doamne m-ai iubit,
+și m-ai ridicat.
+Au trecut si preoți și leviți, dar m-au lăsat jos,
+Doar Tu, Isus, singur Te-ai oprit,
+Tu Samaritean Milos.
+
+[s4]
+4. Doamne în Numele Tău,
+mă aplec smerit,
+Tu ești al Meu Dumnezeu
+ce m-ai izbăvit!
+Când Tu Doame ești de partea mea,
+Ce-mi pot face cei răi,
+Căci sunt ocrotit sub dreapta Ta,
+Tu-i aperi pe ai Tăi.
+
+[order]
+s1,s2,s3,s4

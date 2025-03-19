@@ -1,0 +1,45 @@
+[s1]
+De ce zăboveşti, o, amice-a
+Veni la Isus chiar acum, o, de ce ?
+De ce tot mai stai pe-ale tale cărări
+Și nu vii, te întreb azi: De ce ?
+O, te-ntoarce şi vino grăbit
+Cât mai poţi să primeşti mîntuirea
+Prin har !
+Iar de nu, iar de nu în curând
+Tu vei plânge cu-amar!
+
+[r1]
+Ce minunat  (O, ce minunat)
+E să fii cu Isus !(În veşnicii !)
+Deci numai prin El
+(Da, numai prin El)
+Poţi fi azi salvat !(O, ce minunat !)
+Inima ta  (Da, inima ta)
+Predă-o acum (Lui pe deplin)
+Şi El va lucra (Cu inima ta)
+În lucrul divin ! (Da-n lucrul divin !)
+
+[s2]
+Căci Domnul vieţii a murit
+pentru tine
+Pe-o cruce între doi tâlhari
+Ca prin a Lui jertfă din negura morţii,
+amicul meu, azi să tresari
+Şi apoi din râul vieţii să bei liniştit,
+fericit de nespus
+/: Iar apoi, tot prin har,
+vei trăi în Eden cu Isus ! :/
+
+[s3]
+Ce chemare măreaţă te-ndeamnă,
+şi tu tot mai stai trist şi nepăsător !
+Ce bun este Domnul,
+căci tot te aşteaptă să vii ca să-ţi fie Păstor !
+Te căieşte, te smulge din lanţul
+Celui ce legat te-a ţinut pîn-acum !
+/: Fericit tu vei fi de-ai să mergi
+Cu Isus pe-al Său drum ! :/
+
+[order]
+s1,r1,s2,r1,s3,r1

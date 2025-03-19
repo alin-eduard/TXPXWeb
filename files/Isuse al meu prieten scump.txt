@@ -1,0 +1,32 @@
+[s1]
+Isuse-al meu prieten scump
+Din zorii tinereţii
+/: Cu Tine eu călătoresc
+Pîn-la sfârşitul vieţii :/
+
+[s2]
+Din zori de zi când mă trezesc
+Smerit m-aplec sub cruce,
+/: Că-n toată lumea asta n-am
+Un scut mai bun şi dulce :/
+
+[s3]
+Când merg pe drum îndepărtat
+Isuse, eşti cu mine;
+/: Să fie drumul cât de greu
+E-aşa uşor cu Tine :/
+
+[s4]
+Tu-mi eşti prietenul cel bun
+În boale şi-n suspine
+/: Isuse, mă-nsoţeşte-n drum
+Să fiu mereu cu Tine :/
+
+[s5]
+Tu-mi eşti comoara care-ai fost
+De mine mult căutată;
+/: Şi-acum eu nu Te-aş mai lăsa
+Nici pentru lumea toată :/
+
+[order]
+s1,s2,s3,s4,s5

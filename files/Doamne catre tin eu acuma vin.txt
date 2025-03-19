@@ -1,0 +1,28 @@
+[s1]
+Doamne, către Tin’ eu acum vin
+Să-mi cer iertare
+Curăţă-mi acum inima mea, inima…
+Re M
+
+[r1]
+/: Focul Divin, revarsă-l peste min’
+Eu vreau să fiu sfânt
+Ajută-mă Tu, Isuse,
+Eu vreau să fiu sfânt
+Să Te urmez doar pe Tine, o, Doamne
+Gata a Te sluji. :/
+
+[s2]
+Doamne, către Tin’ eu acum vin
+Cu fiinţa-mi întreagă
+Cercetează-mă
+Umple-mă Tu, cu Duhul Sfânt…
+
+[s3]
+Doamne, către Tin’ eu acum vin
+Să-Ţi dau viaţa
+Umple-mă cu har, cu pacea Ta
+Pacea Ta…
+
+[order]
+s1,r1,s2,r1,s3,r1

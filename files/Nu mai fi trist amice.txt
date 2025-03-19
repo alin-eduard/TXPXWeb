@@ -1,0 +1,31 @@
+[s1]
+Nu mai fi trist, amice,
+uită-ţi necazul greu
+Nădăjduieşte-n Domnul,
+în Salvatorul tău.
+Întoarce-ţi tu azi privirea
+spre Cel ce te-a creat
+/: Primeşte-L azi în suflet,
+să fii şi tu salvat ! :/
+
+[r1]
+Întoarce-te din pierzare,
+din lumea de păcat
+Primeşte mîntuirea,
+să fii şi tu salvat!
+Întoarce-te din pierzare
+la viaţa veşnică
+Numai în Domnul
+vei găsi pace, fericire!
+
+[s2]
+Nu-ţi pierde-a ta suflare,
+nu-ţi stinge zilele ! -
+Fără de mîntuire nu ai izbăvire.
+Un strop de fericire
+în suflet tu nu ai
+/: Dacă nu-L ai pe Domnul,
+nici pace tu nu ai. :/
+
+[order]
+s1,r1,s2,r1

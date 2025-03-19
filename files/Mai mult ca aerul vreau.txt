@@ -1,0 +1,38 @@
+[s1]
+Mai mult ca aerul
+vreau dragostea Ta,
+Mai mult decât cel
+flămând vrea hrana sa,
+Mai mult decât prin
+cuvânt pot exprima,
+Mai mult decât prin cântări,
+Te pot chema.
+
+[r1]
+Mai mult decât pot exprima
+Mai mult decât Îti pot cânta
+Eu te doresc, Isuse scump
+Eu te doresc mai mult.
+
+[s2]
+Mai mult decât un
+metal e-atras de magnet,
+Mai mult ca versul
+de dor dorit de poet,
+Mai mult decât
+primăveri si soare cald,
+Mai mult decât vrea
+un soim drum spre înalt.
+
+[s3]
+Mai mult ca focul
+aprins în nopti de ger,
+Mai mult decât vrea
+un pom lumina din cer,
+Mai mult ca valul spre
+tărm tânjind în sus,
+Mai mult decât tot
+ce-mi dai îmi esti drag Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1

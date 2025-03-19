@@ -1,0 +1,26 @@
+[s1]
+Vino suflete la Isus,
+Până nu e prea târziu;
+El te cheamă cu iubire,
+Să te scape de amar pustiu.
+
+[r1]
+Vino azi, nu amâna;
+Vin’acum la crucea Sa,
+/: Să te spele de păcatul tău murdar;
+Şi să-ţi dea iertare-n dar. :/
+
+[s2]
+Vino suflete la Isus,
+Şi predă-I viaţa ta,
+Să ţi-o-mbrace-n haine albe,
+Să-nţelegi pe veci iubirea Sa.
+
+[s3]
+Vino suflete la Isus,
+La izvorul Său de har;
+Lasă grijurile toate,
+Să le ia cu Sine la Calvar.
+
+[order]
+s1,r1,s2,r1,s3,r1

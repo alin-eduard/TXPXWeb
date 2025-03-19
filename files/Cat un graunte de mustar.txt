@@ -1,0 +1,26 @@
+[s1]
+Cât un grăunte de muştar
+Dacă-ai avea credinţă
+Un munte ai muta din loc
+Căci este cu putinţă.
+
+[r1]
+/: Ce adevăr de neclintit
+Ce sfântă-asemănare
+Credinţa cât de mică-ar fi
+E o putere mare. :/
+
+[s2]
+În calea ei nu poate sta
+Nimic din astă lume
+Căci biruinţă i s-a dat
+În a Lui Isus Nume.
+
+[s3]
+Deci nu mai spune tot mereu
+Nu pot lăsa păcatul
+Căci cu-ncredere-n Dumnezeu
+Vei birui şi iadul.
+
+[order]
+s1,r1,s2,r1,s3,r1

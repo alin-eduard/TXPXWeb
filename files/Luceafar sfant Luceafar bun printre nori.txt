@@ -1,0 +1,26 @@
+[s1]
+Luceafăr sfânt, Luceafăr bun, printre nori,
+Când toate pier, când toate-apun,
+Tu cobori.
+/:Isuse, Te-aşteptăm
+şi-n taină Te chemăm
+Credinţa şi iubirea noastră-şi dăm!:/
+
+[s2]
+Luceafăr viu, Luceafăr drag,
+când răsai
+Şirag de mângâieri, şirag Tu ne dai.
+/:Isuse, Te dorim, spre Tine năzuim,
+Credinţa şi iubirea-ţi dăruim!:/
+
+[s3]
+Luceafăr alb, Luceafăr plin,
+vino-acum
+Spre noi, din cerul cristalin,
+Tu fă-ţi drum;
+/:Isuse-al nostru dar,
+o, vino, vino iar,
+Credinţa şi iubirea noastră-I jar!:/
+
+[order]
+s1,s2,s3

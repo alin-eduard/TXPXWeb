@@ -1,0 +1,32 @@
+[s1]
+Caută-n Scriptură, Sfânta Scriptură,
+Să afli viaţa în Hristos,
+În ea stă dreapta învăţătură,
+Tot ce e-n ea e de folos.
+Caută-n Scriptură, Domnul zice,
+Te roagă Lui, cum El Ţi-a spus;
+Numai de-acela e ferice
+Care găsit-a pe Isus.
+
+[s2]
+Caută-n Scriptură, Sfânta Scriptură,
+Şi drumul mântuirii-l ia,
+Fereşte orice cotitură,
+Urmează calea spusă-n ea.
+Caută-n Scriptură, Domnul zice,
+Te roagă Lui, cum El Ţi-a spus;
+Numai de-acela e ferice
+Care găsit-a pe Isus.
+
+[s3]
+Caută-n Scriptură, Sfânta Scriptură
+Dar fă şi altor cunoscut
+Că-n ea stă dreapta învăţătură
+Ea spune tot ce-i de făcut.
+Caută-n Scriptură, Domnul zice,
+Te roagă Lui, cum El Ţi-a spus;
+Numai de-acela e ferice
+Care găsit-a pe Isus.
+
+[order]
+s1,s2,s3

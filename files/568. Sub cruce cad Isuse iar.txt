@@ -1,0 +1,43 @@
+[s1]
+1. Sub cruce cad Isuse iar
+Picioarele să-Ţi strâng
+Trecutul să mi-l plâng amar
+Păcatul să mi-l plâng.
+Căci am greşit Isuse bun
+Şi mare-i vina mea
+Dar mii de lacrimi vărs acum
+Să poţi a mă ierta.
+568.
+
+[s2]
+2. Atâţia păcătoşi s-au strâns
+De mii de ani mereu
+Stropind cu lacrimi şi cu plâns
+Păcatul lor cel greu.
+Iar Tu pe toţi i-ai ascultat
+Pe vameşi şi pe hoţi
+Tu mângâierea Ta le-ai dat
+Iertatu-i-ai pe toţi.
+
+[s3]
+3. De aceea cad sub cruce iar
+Picioarele să-Ţi strâng
+Tu singur ştii durerea mea
+Tu singur ştii cât plâng.
+Spre Tine glasul mi-l ridic
+Şi mila Ta o cer
+Căci ştii cât sunt de slab şi mic
+Şi n-ai să laşi să pier.
+
+[s4]
+4. Cu-a Tale Sfinte mângâieri
+Tu poţi să mângâi iar
+O viaţă plină de dureri
+Un suflet plin de amar.
+De aceea către Tine sus
+Privirea mi-o îndrept
+Strigând cu glasul stins Isus
+Eu mila Ta aştept.
+
+[order]
+s1,s2,s3,s4

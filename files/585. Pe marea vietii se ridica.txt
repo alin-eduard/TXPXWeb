@@ -1,0 +1,64 @@
+[s1]
+1. Pe marea vieţii se ridică
+Valuri tot mereu
+Şi vânturi bat fără-ncetare
+În poporul Tău
+585.    								  Fa
+
+[s2]
+/: Furtuna a venit acu
+Ca să lovească-n
+tot ce-i bun
+Satan se luptă şi ar vrea
+Să stingă dragostea. :/
+
+[s3]
+2. Plutim mereu ne zbuciumăm
+Pe marea vieţii
+Şi vrem în port să ancorăm
+Cu Tine Isuse
+
+[s4]
+/: Dar urcă Tu-n corabie
+Potoleşte valurile
+O, fii cu noi totdeauna
+În lumea asta rea :/.
+
+[s5]
+3. E-aşa de greu de-naintat
+Căci lupta-i tot mai grea
+Vino Isuse-n ajutor
+Vino nu ne lăsa
+
+[s6]
+/: Condu-ne Tu neîncetat
+Ca pe Israel altădat‘
+Fii Tu al nost ocrotitor
+O, bunule Păstor :/.
+
+[s7]
+4. Suspină azi copiii Tăi
+Şi plâng nemângâiaţi
+În lumea asta pribegesc
+Străini şi alungaţi
+
+[s8]
+/: Atâţi bolnavi fără ajutor
+Strigă să vii la patul lor
+Întinde-Ți astăzi mâna Ta
+Isuse nu-i lăsa :/.
+
+[s9]
+5. Atâtea răni sunt de legat
+Şi astăzi în popor
+Şi mulţi aşteaptă o mângâiere
+Şi tânjesc de dor
+
+[s10]
+/: Dar ştiu că va veni o zi
+Când Tu Isuse vei veni
+Să ne ridici de pe pământ
+Acolo-n cerul Sfânt :/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

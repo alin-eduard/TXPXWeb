@@ -1,0 +1,47 @@
+[s1]
+Să nu urăşti când poţi iubi
+Nu amăgi pe nimeni
+Mai bine leagă nu răni
+Aşa precum Isus făcea
+1.
+Cor: 	/ : Să ţinem pocăinţa
+Aşa cum ne-a fost dată
+Pe Domnul să-L slujim
+Cu inima curată : /
+1259
+
+[s2]
+Tu nu lua când poţi să dai
+Celui lipsit din pâinea ta
+Nu fi zgârcit de vrei să ai
+Un colţ de rai în casa ta.
+2.
+Cor: / : Să ţinem pocăinţa
+Aşa cum ne-a fost dată
+Pe Domnul să-L slujim
+Cu inima curată : /
+
+[s3]
+Să nu rămâi nepăsător
+Când alţii luptă-n rugăciuni
+Şi să nu fii un cârtitor
+Când nu vezi semne şi minuni
+3.
+Cor: / : Să ţinem pocăinţa
+Aşa cum ne-a fost dată
+Pe Domnul să-L slujim
+Cu inima curată : /
+
+[s4]
+Nu murmura când dai de greu
+Aceasta este crucea ta
+Rămâi smerit cu Dumnezeu
+Aşa precum Isus făcea.
+4.
+Cor: / : Să ţinem pocăinţa
+Aşa cum ne-a fost dată
+Pe Domnul să-L slujim
+Cu inima curată : /
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,45 @@
+[s1]
+Multa vreme a trecut
+de când Isus a plecat
+Despre al Sau Nume azi
+Unii spun ca s-a uitat.
+De ce mulţi se roaga azi
+Unui om care-a murit?
+Eu iţi vom raspunde-acum:
+“Isus va veni-n curind!”
+
+[s2]
+Cine vrea sa aiba viata-n vesnicii
+Spuna “Da”!
+Cine vrea pe strazi de aur a umbla,
+Spuna “Da”!
+Cine e trudit si-npovarat de-a lumii
+Viata grea
+Cine vrea sa aiba-n suflet fericirea,
+Spuna “Da”!
+2
+
+[s3]
+Isus sta si-asteapta azi,
+Poate vrei sa-L intilnesti
+Si in ochii Lui senini
+Bunatatea sa gasesti.
+Iar in mina ce ti-a-ntins,
+Semnul cuielor se vad
+Si atit va fi de-ajuns sa-ntelegi
+De ce-a murit.
+1
+
+[s4]
+Cine vrea sa aiba viata-n vesnicii
+Spuna “Da”!
+Cine vrea pe strazi de aur a umbla,
+Spuna “Da”!
+Cine e trudit si-npovarat de-a lumii
+Viata grea
+Cine vrea sa aiba-n suflet fericirea,
+Spuna “Da”!
+0
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,32 @@
+[s1]
+Tu n-ai cum sti ce-I Dolorosa
+Nici crucea ce grea e de dus
+N-ai cum sa sti ce e Golgota
+Tu n-ai rabdat ca si Isus
+
+[r1]
+Ce simti cand spui “Hristos a inviat”?
+Ce-nseamn-acest salut, te-ai intrebat?
+Ce simti cand spui “E viu, e-adevarat”?
+E sarbatoare azi, Hristos a inviat!
+
+[s2]
+Tu n-ai fost osandit la moarte
+Pentru al altora pacat
+Ce simti tu, sora, ce simti, frate,
+Cand spui ”Hristos a inviat!”
+
+[s3]
+De-ai sti ce grea-I crucificarea
+Sa mori cand esti nevinovat
+Ti s-ar opri chiar rasuflarea
+Cand zici “Hristos a inviat!”
+
+[s4]
+Acum Isus e-n stralucire
+E Rege sfant, e Imparat
+Nu-ti este dor de-a Lui venire
+Cand spui “Hristos a inviat?”
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

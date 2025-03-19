@@ -1,0 +1,33 @@
+[s1]
+Cu paşii mei departe-am rătăcit
+Gîndurile de mult le-am împărţit
+Inima mea răceala a cuprins
+Şi plîng de mult în cortu-mi părăsit.
+
+[r1]
+Nu am nimic, nimic nu am, Isus
+Tot ce mi-ai dat,
+pe drum eu am pierdut
+Şi am rămas străin şi călător
+Plîngînd cu-amar al veşniciei dor.
+
+[s2]
+La sfatul Tău am stat nepăsător
+Nu am fugit la muncă pe ogor
+Nu mi-am întins cu milă braţul meu
+La cel căzut care gemea din greu.
+
+[s3]
+Şi-acum eu plîng în locul tuturor
+Lacrimile-mi se scurg pe-obraz uşor
+Dar sper că vremea va veni-n curînd
+Cînd voi vedea pe Grădinarul sfînt.
+
+[s4]
+Şi-atunci în faţa Lui mă voi căi
+Durerea-mi Lui Îi voi destăinui.
+Iertare sfîntă voi primi în dar
+Şi voi simţi al bucuriei har.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

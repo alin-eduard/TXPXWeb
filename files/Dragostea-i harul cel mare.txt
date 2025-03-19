@@ -1,0 +1,52 @@
+[s1]
+Dragostea-i harul cel mare
+care la oameni s-a dat
+Este lumină şi viaţă
+e-un sentiment minunat.
+Dragostea-i şoaptă de taine,
+este cuvânt nerostit
+Dragostea-i cea ce te învaţă
+este un râu limpezit.
+
+[s2]
+Dragostea-i cântec pe buze,
+este nădejde şi teamă
+E-a munţilor împlinire,
+dragostea-i sfântul magnet
+Locul de-origine-i cerul,
+locul vădirii pe cruce
+Locul nădejdii de-acasă,
+locul unirii în văzduh.
+
+[s3]
+Dragostea-i o fericire,
+este ca cerul senin
+Dragostea-i scumpa arvună
+care-i prin Tine venită.
+Dragostea-i neprefăcută,
+sinceră ca nimeni e
+Este de mulţi neştiută,
+dragostea-i viaţă-n etern.
+
+[s4]
+Dragostea-i susur de pace,
+dragostea-i dor liniştit
+Este balsam pus pe rană,
+dragostea-i plâns fericit.
+Dragostea-i darul din ceruri,
+dar care nu-i preţuit
+Dragostea-i dor după Tatăl,
+este suspin liniştit.
+
+[s5]
+O, dacă dragostea-i viaţă
+inima mi-ar copleşi
+Dacă iubirea divină în suflet
+mi s-ar sădi.
+Ce minunată-ar fi viaţa
+şi fără nori şi furtuni
+Dacă zdrobită-ar fi ura,
+dragostea ar rămânea.
+
+[order]
+s1,s2,s3,s4,s5

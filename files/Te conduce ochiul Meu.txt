@@ -1,0 +1,32 @@
+[s1]
+Celui ce călătoreşte către cer,
+Pe drumul greu
+Îi şopteşte-o voce dulce:
+„Te conduce ochiul Meu!“
+
+[r1]
+Te conduce, te conduce,
+Te conduce ochiul Meu,
+Dulce­o voce îi şopteşte:
+„Te conduce ochiul Meu!“
+
+[s2]
+Când păcatul şi ispita
+Vin asupra ta mereu,
+Nu uita făgăduinţa:
+„Te conduce ochiul Meu!“
+
+[s3]
+Când dorinţele ascunse
+Chinuiesc lăuntrul tău
+Vocea dulce Îţi şopteşte:
+„Te conduce ochiul Meu!“
+
+[s4]
+La sfârşitul vieţii tale,
+Un cuvânt auzi din nou
+Ca o dulce mângâiere:
+„Te conduce ochiul Meu!“
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

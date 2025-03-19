@@ -1,0 +1,54 @@
+[s1]
+Bătranii care-aici mai sunt
+şi cei care-au murit
+Când veneau la rugăciune
+de-un foc erau cuprinşi.
+/:Pe pământ sau pe podele
+îşi plecau genunchii lor
+Şi din ochi izvor de lacrimi
+brazdau feţele lor. :/
+
+[r1]
+/: Dar noi unde nu găsim,
+credinţa cum o trăim?
+Nu cumva avem doar forma
+primilor creştini :/
+
+[s2]
+Un fior trecea prin inimi
+când numele lui Isus
+Era rostit în adunare
+şi înălţat nespus.
+/: Duhul Sfânt era în slujbă
+schimba inimi pe loc
+Lucruri pline de speranţă
+curgeau din a lor ochi :/
+
+[s3]
+Pace-adâncă ca din cer
+venea când pe pământ
+Imnuri sfinte se cântau
+spre Slava Celui Sfânt
+/: Numai “Amin” si “Aleluia”
+rasuna-n popor
+De credeai ca vin si ingeri
+sa cante in cor :/
+
+[s4]
+Deseori când se-întâlneau
+sau la despărţire
+Zâmbetul-npletit cu lacrimi
+era a lor iubire.
+/: Bucuroşi se cuprindeau
+toţi erau la fel
+Singuru-nălţat in inimi
+era Sfantul Miel :/
+
+[s5]
+/: Crestini veniţi să ne silim
+cu paşi, grabiţi să păşim.
+În credinţa ce-a fost dată
+primilor creştini :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5

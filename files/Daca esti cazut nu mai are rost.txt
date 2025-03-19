@@ -1,0 +1,37 @@
+[s1]
+Dacă eşti căzut, nu mai are rost
+Ca să te ascunzi,
+Dacă te prefaci că eşti fericit
+Singur te înşeli.
+Nu te mai amăgi, recunoaşte-ţi starea,
+Căci în curând vei pieri.
+Dacă te-ntorci chiar acum
+mai există-o şansă,
+Dacă te-ntorci vei trăi.
+
+[s2]
+/: Isus e-n stare să rupă lanţul
+Ce te ţine legat, legat de-al tău păcat.
+Dacă te rogi cu credinţă astăzi
+Te vei naşte din nou,
+din Tatăl Dumnezeu. :/
+
+[s3]
+Când eşti descurajat parcă nu mai crezi
+Că poţi fi scăpat.
+Dacă-n sufletul tău eşti împovărat
+De al tău păcat,
+Gândeşte-te la Isus care pentru tine
+Pe cruce a suferit.
+Îngenunchează acum, fă o rugăciune,
+El sigur te va auzi.
+
+[s4]
+/: Priveşte cum îţi întinde mâna,
+Ridică-te sus, este chiar Domnul Isus.
+El îţi oferă o nouă viaţă,
+Să trăieşti pentru El,
+să-L urmezi în orice zi. :/
+
+[order]
+s1,s2,s3,s4

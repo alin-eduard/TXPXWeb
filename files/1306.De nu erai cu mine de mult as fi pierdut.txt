@@ -1,0 +1,30 @@
+[s1]
+1306.
+1.  De nu erai cu mine de mult aş fi pierdut
+În necazuri numai Tu mai izbăvit
+Când eram în disperare
+Tu mi-ai fost a mea scăpare-ţi mulţumesc
+Vreau cu Tine sus în ceruri să trăieşti-
+.
+
+[s2]
+2.  În suferinţă Doamne Sfinte când eram
+Ai venit la mine şi m-ai mângâiat
+Mai mângâiat m-ai vindecat
+De păcate m-ai iertat îţi mulţumesc
+Vreau cu Tine sus în ceruri să trăiesc.
+3.  Mulţi copii orfani pe drumuri au rămas
+Mamă, Tu Isuse Doamne le-ai rămas
+M-ai ocrotit m-ai mântuit
+Viaţa Tu ne-ai dăruit îţi mulţumesc
+Vreau cu Tine Isus în ceruri să trăiesc.
+
+[s3]
+4.  Ajută-mă o Doamne aici pe pământ
+Să veghez să te urmez până la mormânt
+Să fim gata Tu Isus când vii
+Pe Tine să te-ntâlnim îţi mulţumim
+Vreau cu Tine sus în ceruri sa trăim
+
+[order]
+s1,s2,s3

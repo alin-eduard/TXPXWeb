@@ -1,0 +1,42 @@
+[s1]
+Ne-om intalni intr-o zi
+Pe strazi de aur curat
+Si vom canta fericiti
+Acelui ce ne-a salvat.
+Lacrima se va sfarsi
+Jalea de acum a apus
+In slava si bucurii
+Ne-om intalni cu Isus.
+
+[r1]
+/: Vino si canta cu noi
+Imnul ce urca la Cer
+Schimba nadejdi ce dispar
+Cu slavi ce in veci nu pier
+Pace din Cer vei primi
+Si fericire de sus
+Nu poate fi mai frumos
+Decat sa fii cu Isus :/
+
+[s2]
+Chinul de-aici il avem
+Nu poate alaturi sa stea
+De slava ce va veni
+Care Isus ne-o va da,
+Mai e putin de-astepat
+Ceasul curand va suna
+Cand noi pe Isus l-om vedea
+Si orice dureri v-om uita.
+
+[s3]
+Greul si jalea de-aici
+Le vom uita intr-o zi
+Cand Mirele cel iubit
+In slava ne va primi.
+Daca traim ca si fii
+In asteptare veghind
+Cand vine mireasa sa-si ia
+Sa nu se afle dormind.
+
+[order]
+s1,r1,s2,r1,s3,r1

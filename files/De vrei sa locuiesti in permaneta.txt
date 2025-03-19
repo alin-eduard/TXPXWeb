@@ -1,0 +1,32 @@
+[s1]
+De vrei să locuieşti în permanenţă
+Sub ocrotirea Celui Prea Înalt,
+Trăieşte-ţi viaţa sub a Sa prezenţă
+E unic adăpost cu-adevărat.
+
+[r1]
+/: Chiar dac-alături vor cădea o mie
+Iar zece mii, la dreapta de-or cădea,
+Nici moartea, boala şi nici o urgie,
+De tine nu se vor apropia. :/
+
+[s2]
+Proclamă ne-ncetat, mărturiseşte
+Că Dumnezeu e Turn ocrotitor,
+Te-ncrede-n El, mereu te odihneşte
+La umbra Lui, prin zborul anilor.
+
+[s3]
+Păzeşte-a Lui porunci cu adorare,
+Că doar aşa din inimă-L iubeşti
+Iubindu-L, îţi asigură scăpare,
+Cînd vreme de strîmtorare o să-ntîlneşti.
+
+[s4]
+Prin valurile vieţii, nu te teme!
+De-L ai pe Dumnezeu, îţi e deajuns.
+Te va acoperi cu-a Sale pene
+Sub aripile Lui vei fi ascuns.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

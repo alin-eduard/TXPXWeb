@@ -1,0 +1,37 @@
+[s1]
+Isus e Prietenul cel bun ce nu lipseşte
+De orişiunde, orişicând este chemat,
+El te ascultă, cu-ai Lui ochi
+El te priveşte
+Şi, zi de zi, pe braţul Lui tu eşti purtat.
+
+[r1]
+/: Ce fericire, când şoptesc:
+„Isus mi-e Prieten si-L iubesc!",
+Căci EI îmi vine-n ajutor,
+Când calea-i grea.
+Nimeni din lumenu-i la fel,
+In bunătate, ca si El
+Căci El e Soarele vieţii - Emanuel! :/
+
+[s2]
+Isus e Prietenul cel bun ce nu lipseşte,
+Când toată lumea
+se frământă-n jurul tău;
+Prin Duhul Sfânt, El ţie azi îţi dăruieşte
+Deplină pace izvorând din Dumnezeu.
+
+[s3]
+Isus e Prietenul cel bun ce nu lipseşte,
+Când cineva pe El îl caut-arzător,
+A Lui iubire orişiunde te-ntâlneşte,
+lţi schimbă totul şi în suflet pune-un dor.
+
+[s4]
+Isus e Prietenul cel bun ce va rămâne
+Când veacurile-n al lor curs se vor sfârşi;
+De-ţi vei trăi viaţa cu El şi El cu tine,
+Tu fericit II vei pnvi când va veni.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

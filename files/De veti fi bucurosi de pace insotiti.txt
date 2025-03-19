@@ -1,0 +1,22 @@
+[s1]
+De veţi fi bucuroşi, de pace însoţiţi
+Chiar munţii răsuna-vor
+,Naintea voastră cînd voi veţi cînta !
+Iar pomii aflaţi pe drum
+Din palme vor bătea !
+
+[r1]
+/: Şi-atuncea pomii din palme vor bătea
+Pomii din palme vor bătea
+Pomii din palme vor bătea
+Cînd vă veţi bucura ! :/
+
+[s2]
+Deschideţi inima cîntaţi-I laudă
+Şi preamăriţi cu toţii
+Pe Domnul slavei cînd voi veţi cînta !
+Iar pomii aflaţi pe drum
+Din palme vor bătea !
+
+[order]
+s1,r1,s2,r1

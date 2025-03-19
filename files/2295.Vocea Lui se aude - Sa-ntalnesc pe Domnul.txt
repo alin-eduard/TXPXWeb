@@ -1,0 +1,33 @@
+[s1]
+Mi M
+Vocea Lui se aude
+Ea îmi dă har deplin şi bucurii
+Este vocea care-mi dă siguranţă
+Şi o voi asculta zi de zi
+
+[s2]
+1.Să-ntâlnesc pe Domnul meu când am nevoie
+Pe genunchi în rugăciune-L voi căuta
+El prin Duhul Său cel Sfânt îmi va răspunde
+Şi oricând vocea Lui voi asculta.
+
+[r1]
+Vocea Lui se aude
+Ea îmi dă har deplin şi bucurii
+Este vocea care-mi dă siguranţă
+Şi o voi asculta zi de zi
+
+[s3]
+2.Vocea Lui e un turn mare şi puternic
+M-a desprins de tot ce e pământesc
+El vorbeşte vântului, mării-nvolburate
+Când aud vocea Lui mă liniştesc
+
+[s4]
+3.Vocea Lui ce încă vindecă bolnavii
+E şi un balsam pentru viaţa mea
+La vocea Lui şi din mormânt voi răspunde
+Ca o pasăre în zbor m-oi înălţa.
+
+[order]
+s1,s2,r1,s3,r1,s4,r1

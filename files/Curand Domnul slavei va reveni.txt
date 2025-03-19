@@ -1,0 +1,26 @@
+[s1]
+Curand Domnul slavei va reveni
+Cuvantul cel Sfant, se va-mplini
+Noi toti parasi-vom al vietii tumult
+Iti spun, sa fii gata ca nu mai e mult
+
+[r1]
+/: Sa cantam Maranata,
+Vino Doamne cat mai curand
+Sa cantam Maranata,
+Pana cand vom pleca de pe pamant :/
+
+[s2]
+Natiuni se revolta vedem neincetat
+Iar lumea se-afunda mai mult in pacat
+Vegheaza intruna pastreaza-te sfant
+Iti spun,fii gata ca nu mai e mult
+
+[s3]
+Sunt multe semnale ca ziua de-apoi
+E tot mai aproape, El vine pe nori
+Vegheaza si stai ca strajerul pe turn
+Iti spun sa fii gata ca nu mai e mult
+
+[order]
+s1,r1,s2,r1,s3,r1

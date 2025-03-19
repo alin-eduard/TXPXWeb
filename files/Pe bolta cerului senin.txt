@@ -1,0 +1,38 @@
+[s1]
+Pe bolta cerului senin
+Cântări au răsunat
+Când îngerii, duios şi lin
+Din harfe-au tremurat :
+
+[r1]
+<Slăvit să fie Dumnezeu
+Şi pace pe Pământ !> -
+Ascultă-ntregul Univers
+Al îngerilor cânt.
+
+[s2]
+Şi azi e cerul larg deschis
+Iar îngerii în zbor
+Din străluciri de nedescris
+Sublim ne cântă-n cor.
+
+[s3]
+Deasupra-ntinselor câmpii
+Se-apleacă cerul sfânt
+Să stingă freamătul şi azi
+Cu-al îngerilor cânt.
+
+[s4]
+Căci iată, clipele grăbesc
+Spre ceasul profeţit
+Când vremurile se opresc
+În prag de răsărit.
+
+[s5]
+Când cerul nou se va ivi
+Având un nou Pământ
+Atunci şi oamenii vor şti
+Al îngerilor cânt.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,33 @@
+[s1]
+Multi in jur suspina dupa ziua de apoi
+Cu dor adanc in suflet
+Te cheama ca sa vii
+Mare e durerea in inimi ce tanjesc
+Multi suspina-n taina
+de Tine-si amintesc
+Dar in curand vei reveni
+Cand cerul se deschide ne-om inalta
+
+[r1]
+Spre slava Ta noi vom zbura
+Spre slava Ta, Isus
+Vom declara maretia Ta
+Cand pe aripi de vant
+Spre cer ne-om inalta cantand
+
+[s2]
+Multi se-ntreaba-n taina
+ziua-aceea cand va fi
+Greul si durerea
+oare cand se vor sfarsi
+Inimile frante cine le va mangaia
+Cine intristarea o va indeparta?
+Dar in curand vei reveni
+Cand cerul se deschide
+ne-om inalta
+
+[s3]
+Spre cer ne-om inalta cantand
+
+[order]
+s1,r1,s2,r1,s3

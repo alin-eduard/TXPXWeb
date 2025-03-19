@@ -1,0 +1,34 @@
+[s1]
+Dintre miile de şoapte
+Ce străbat a vieţii noapte
+Dragul meu, mi-ai spus
+că-i greu s-alegi.
+Te frămîntă o-ntrebare:
+Care este calea oare
+Ce-ţi va da viaţa cea de veci?
+
+[r1]
+Aşa cum eşti, Isus te cheamă azi!
+Să laşi păcatul tău murdar
+Să rupi a lumii grele lanţuri
+Care te-au legat
+Şi în inimă simţi-vei sfîntul har!
+
+[s2]
+Ai gustat amarul lumii
+Făr, s-asculţi de ce spun unii
+De care ziceai că-s rătăciţi.
+Dar văzut-ai tu pe urmă -
+Ce ţi-au spus ei n-a fost glumă
+Ci chemarea celor mîntuiţi.
+
+[s3]
+Poate n-ai ştiut vreodată
+Că în ceruri ai un Tată
+Care te-a plătit cu sînge sfînt.
+Şi din robul celui rău
+Vrea să fii copilul Său
+Vino azi şi-mbracă-al Lui veşmînt
+
+[order]
+s1,r1,s2,r1,s3,r1

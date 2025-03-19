@@ -1,0 +1,49 @@
+[s1]
+1.	Apă rece dă-mi să beau
+Aceasta mi-i băutura
+Apă rece din izvor
+Cum a arătat şi Scriptura.
+2.	Apa este cea mai dulce
+Scumpă-i băutura mea
+Ce curge de pe Calvar
+Din coasta lui Mesia.
+453.
+
+[s2]
+3.	Eu beau apă din pârâu
+Din izvorul curgător
+Ce curge de pe un munte
+Muntele Măslinilor.
+4.	Apa dulce ca cristalul
+Nu-i ca ţuica îmbătătoare
+Cine bea din apa aceea
+În veci de veci nu mai moare.
+
+[s3]
+5.	Apa este cea mai dulce
+Ca izvorul cel curat
+Ce-mi spală rănile mele
+Şi mă spală de păcat.
+6.	Dă-mi apă ca să o beau
+Să-mi aline durerea
+Duhul Sfânt de la Rusalii
+Care mi-a dat putere.
+
+[s4]
+7.	Scriptura e cea mai dulce
+Nu-i ca vinul cel mai tare
+Puterea ce s-a vărsat
+Duhul Sfânt de la Rusalii.
+8.	Dă-mi tu apă din pârâu
+Ce curge de pe Calvar
+Cine bea din apa aceea
+Se-mbogăţeşte prin har.
+
+[s5]
+9.	Har şi pacea de la Domnul
+Să se verse pe pământ
+Băutura să ne fie
+Puterea Duhului Sfânt.
+
+[order]
+s1,s2,s3,s4,s5

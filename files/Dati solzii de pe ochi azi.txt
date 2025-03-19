@@ -1,0 +1,30 @@
+[s1]
+Da-ti solzii de pe ochi, azi, crestine,  Si ochii priveasca-n sus!
+Si nu lasa pleoapele sa se-nchida
+Si iar sa nu-L vezi pe Isus!
+
+[r1]
+El e Mesia, El e Lumina,
+El e Viata, e Dumnezeu!
+O, cat de bine-i sa-L ai pe Isus!
+O, cat de bine-i sa fii cu El!
+
+[s2]
+Voi, care vedeti lumina zilei, o Impacati-va cu Dumnezeu!
+Primiti-L in viata degraba,
+Acum, pana nu e prea greu!
+
+[s3]
+In El imi gasesc desfatarea,
+Caci El mantuirea mi-a dat;
+Desi am trait in intuneric,
+Prin El, lumina-am aflat.
+
+[s4]
+Ii simt in viata iubirea,
+De aceea, Il laud mereu!
+Din inima-I cant: „Aliluia"
+Si-un imn de slava, mereu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

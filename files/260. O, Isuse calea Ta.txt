@@ -1,0 +1,51 @@
+[s1]
+1. O, Isuse calea Ta
+De multe ori este grea
+Şi mulţi s-abat de pe ea
+Pentru că li-i crucea grea.
+260.
+
+[s2]
+2. Iar acei ce din iubire
+Te ascultă tot mereu
+Vor lua crucea plini de râvnă
+Să-Ţi urmeze-n drumul greu.
+
+[s3]
+3. Că şi Tu Doamne Isuse
+Amară cruce ai purtat
+Arătându-i cum s-o poarte
+Crucea şi ai Tăi urmaşi.
+
+[s4]
+4. Dar acum iubite frate
+Crucea jos nu-i timp de pus
+Ci sculându-te ia-ţi crucea
+Şi urmează pe Isus.
+
+[s5]
+5. Că vedem că-ngustă-i calea
+Care duce sus la cer
+Şi acei ce merg pe dânsa
+Întâlnesc multe dureri.
+
+[s6]
+6. Fericiţi veţi fi atunci
+Când veţi fi batjocoriţi
+Şi atunci când pentru Domnul
+De toţi veţi fi prigoniţi.
+
+[s7]
+7. Bucuraţi-vă atunci
+Şi săltaţi de bucurie
+Căci a voastră mare plată
+Sus în cer are să fie.
+
+[s8]
+8. Căci şi Domnul a răbdat
+Până ne-a răscumpărat
+Prin bătăi, batjocori multe
+Răni pe corp şi spini pe frunte.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

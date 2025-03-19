@@ -1,0 +1,20 @@
+[s1]
+Către cer tu mergi pe cale
+Dar ai tăi copii ce fac?
+/: Ei de ce nu sunt cu tine,
+Vrei să fii doar tu salvat? :/
+
+[s2]
+Cum de nu sunt ei cu tine,
+Mamă, scumpii tăi copii?
+/: Nu­i lăsa să stea în lume
+Unde nu sunt bucurii! :/
+
+[s3]
+Voi, părinţi, luaţi copiii
+Şi­i aduceţi la Isus
+/: Ca apoi o veşnicie
+Să vă bucuraţi nespus. :/
+
+[order]
+s1,s2,s3

@@ -1,0 +1,16 @@
+[s1]
+O inimă care e zdrobită
+Nicicând n-o vei refuza,
+Inima Ta bate plină
+De milă pentru noi.
+Să curgă râul din Duhul Tău
+Doamne te rugăm!
+
+[s2]
+/: Lasă mila Ta să cadă
+Să curgă mila Ta din cer
+E nouă zi de zi
+O, lasă să cadă peste noi :/
+
+[order]
+s1,s2

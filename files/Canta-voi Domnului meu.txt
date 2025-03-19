@@ -1,0 +1,26 @@
+[s1]
+Cânta-voi Domnului meu
+Cu glas de bucurie
+O nouă viaţă El mi-a dat
+Şi S-a îndurat de mine!
+
+[r1]
+Veniţi să-I mulţumim Lui
+De marea îndurare,
+Cântându-I bunătatea Lui,
+Lăudând iubirea-I mare!
+
+[s2]
+Cânta-voi Domnului meu
+Ce m-a scăpat de moarte
+Şi pentru mine-a suferit;
+Iertat sunt de păcate!
+
+[s3]
+Azi inima mi-e gata
+Să laude pe Domnul;
+Pe veci El m-a răscumpărat
+Şi sunt al Lui cu totul!
+
+[order]
+s1,r1,s2,r1,s3,r1

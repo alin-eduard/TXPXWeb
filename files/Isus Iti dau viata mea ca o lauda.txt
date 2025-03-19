@@ -1,0 +1,25 @@
+[r1]
+Isus, Îţi dau viaţa mea
+Ca o laudă
+Cum Tu ai dat-o pe-a Ta!
+Isus, Îţi dau viaţa mea
+Ca o laudă
+Căci Tu, Tu eşti mare şi bun!
+
+[s1]
+Eu ridic mîini curate spre ceruri
+Bucurie de viaţă mi-ai dat!
+Cînd alunec pe cărare
+Cu iubire mă ridici
+Întristarea Tu o schimbi în bucurii!
+Şi din nou Îţi cînt atunci:
+
+[s2]
+Eu ridic maini ce vor să lucreze
+Îl servesc pe al meu Împărat!
+Spun în lume despre cruce
+Cum la Isus conduce
+Vestea bună pentru lume aducînd Mîntuirea prin Cuvînt.
+
+[order]
+r1,s1,r1,s2,r1

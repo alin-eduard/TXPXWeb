@@ -1,0 +1,43 @@
+[s1]
+1. Ai mijlocul încins
+Şi făclia îţi arde
+Căci Domnul va veni
+Care-i starea ta frate
+/: Cerul şi pământul va trece
+Şi toate trec ca şi un vis
+Cuvântu-n veci de veci rămâne
+Acum aici şi-n Paradis :/
+1536.
+
+[s2]
+2. Mai ai încălţămintea?
+Râvna de altă dată
+Când ai primit pecetea
+Cu fraţii laolaltă
+/: Întoarce-te la dragostea dintâi
+Căci Mirele apare
+Să poţi intra în slava Sa
+Să ieşi în întâmpinare :/
+
+[s3]
+3. Mai ai mantaua sfânta?
+Ce ai primito-n dar
+Prin jertfa de pe cruce
+Să intri şi tu-n har
+/: Dacă haina ţi-e pătată
+Şi nu e aşa cum ai primit
+În dragostea Lui te iartă
+Ca şi tu să fii răpit :/
+
+[s4]
+4. Să veghem mai mult de acuma
+Să nu aţipim pe cale
+Căci mare va fi bucuria
+Când Domnul va apare
+/: În cuptorul cel de foc
+Îţi trimite alinare
+Căci Domnu-n veci de veci va fi
+În barca de salvare :/
+
+[order]
+s1,s2,s3,s4

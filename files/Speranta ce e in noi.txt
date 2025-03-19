@@ -1,0 +1,32 @@
+[s1]
+Speranta ce e in noi
+Primita de sus din cer
+Ne da avant in viata
+Ne-arata drumul spre cer
+Nimic din lumea-ceasta
+N-o poate sfarama
+Pe temelia-i Sfanta
+Mi-am pus increderea.
+
+[r1]
+/: O Isus, scumpe Isus
+Speranta Tu ne-ai dat
+In viata plina de lacrimi
+un zambet am aflat
+O Isus, scumpe Isus
+Ramai totdeauna
+Speranta ce ne poarta
+Pana cand ne-om vedea :/
+
+[s2]
+Esti speranta ce ne vorbeste
+O speranta ce ne da curaj
+Si-n vreme de furtuna
+Ea ne duce la liman
+Temelia credintei noastre
+Pe El sa o zidim
+Speranta este Isus
+Prin El noi biruim
+
+[order]
+s1,r1,s2,r1

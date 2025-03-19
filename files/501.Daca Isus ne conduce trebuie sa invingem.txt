@@ -1,0 +1,33 @@
+[s1]
+1. Dacă Isus ne conduce
+Trebuie să învingem
+Când stăm la luptă cu lumea
+Trebuie să învingem
+Deşi lupta e mare,
+De multe ori cu rane
+Asupra vrăjmaşului
+Trebuie să învingem.
+501.
+
+[s2]
+2. Cu a Duhului putere
+Trebuie să învingem
+Cu a Domnului iubire
+Trebuie să învingem
+Cu milă şi răbdare,
+Adevăr şi îndurare
+Prin greutăţi de-om
+Trece trebuie să învingem.
+
+[s3]
+3. Toţi ai Domnului ostaşi
+Trebuie să învingem
+Şi ca creştini adevăraţi
+Trebuie să învingem
+Nu cu puterea noastră
+Cu a Domnului mână
+Când ne vine-n ajutor,
+Trebuie să învingem.
+
+[order]
+s1,s2,s3

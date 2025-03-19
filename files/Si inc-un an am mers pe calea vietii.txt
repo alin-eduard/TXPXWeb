@@ -1,0 +1,39 @@
+[s1]
+Şi înc-un an am mers pe calea vieţii
+Cea care trece prin valea umbrei morţii.
+Şi-n timp ce mă gîndesc
+prin cîte lucruri am trecut
+Văd că dragostea Ta mi-a fost pază,
+mi-a fost scut.
+
+[r1]
+Da, pentru toate-acuma
+vreau să-Ţi mulţumesc
+Pentru minuni mari şi mărunte
+Pe care zilnic le trăiesc
+Dar ades, uit să-Ţi mulţumesc.
+
+[s2]
+Îţi mulţumesc că m-ai ferit de accidente
+De multe şi grele suferinţe.
+Îţi mulţumesc că-acuma ştiu ce este harul
+Pentru că ai urcat în locul meu Calvarul.
+
+[s3]
+Te laud că azi nu sunt
+pradă deznădejdii
+Că nu-l mai cred pe Tatăl minciunii.
+Îţi mulţumesc că Tu eşti
+Calea şi Adevărul
+Viaţa, pacea ce-mi inundă sufletul.
+
+[s4]
+Îţi mulţumesc pentru bucuriile Tale
+Îţi mulţumesc
+şi pentru clipele amare.
+Prin toate Tu mă-nveţi,
+de mîna Ta măprind
+De lucrurile lumii sămădesprind.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

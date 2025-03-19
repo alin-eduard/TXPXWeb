@@ -1,0 +1,47 @@
+[s1]
+1654.
+1. Toată slava pentru Tatăl
+Se cuvine să-nălţăm,
+/: Numai Lui închinăciunea,
+Şi mărirea toţi Să-i dăm.  :/
+Cor:	/:Slavă Lui:/, slavă numai Lui
+Sfânt e Domnul Savaot,
+/: Slava Lui cuprinde tot
+Nimenea asemeni nu-i,
+Slavă numai Lui. :/
+
+[s2]
+2. Toată slava pentru Tatăl,
+S-o aducem prin Hristos,
+/: El e chipul Lui cel veşnic,
+Sfânt, etern şi credincios. :/
+Cor:	/:Slavă Lui:/, slavă numai Lui
+Sfânt e Domnul Savaot,
+/: Slava Lui cuprinde tot
+Nimenea asemeni nu-i,
+Slavă numai Lui. :/
+
+[s3]
+3. Toată slava pentru Tatăl,
+Se-nalţă prin Duhul Sfânt
+/: Să se laude-al Său nume
+Cum în cer şi pe pământ. :/
+Cor:	/:Slavă Lui:/, slavă numai Lui
+Sfânt e Domnul Savaot,
+/: Slava Lui cuprinde tot
+Nimenea asemeni nu-i,
+Slavă numai Lui. :/
+
+[s4]
+4. Toată slava pentru Tatăl,
+Să se-nalţe pe deplin,
+/: De mărirea Lui să fie,
+Cerul şi pământul plin. :/
+Cor:	/:Slavă Lui:/, slavă numai Lui
+Sfânt e Domnul Savaot,
+/: Slava Lui cuprinde tot
+Nimenea asemeni nu-i,
+Slavă numai Lui. :/
+
+[order]
+s1,s2,s3,s4

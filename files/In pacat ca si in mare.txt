@@ -1,0 +1,32 @@
+[s1]
+În păcat ca şi în mare,
+De tot afundat eram.
+Şi despre această stare,
+Chiar nimic eu nu ştiam.
+
+[r1]
+Dar Isus Hristos m-a văzut,
+Şi din cer jos a venit
+În adâncime m-a căutat,
+Fie veşnic preamărit.
+
+[s2]
+În vârtejul de osândă,
+Era prins sufletul meu,
+În blestem şi-n-ntuneric
+Era să piară pe veci.
+
+[s3]
+Blestemul păcatului meu
+În adâncime m-a tras,
+Am căzut şi sufletul meu
+Condamnare şi-a atras.
+
+[s4]
+Isus a scris sus
+În cartea vieţii numele meu,
+Îmi dă pace bucurie,
+Mângăie sufletul meu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,36 @@
+[s1]
+2156
+1. Isus izvor de mângâiere
+La Tine vin încrezător
+Sunt copleșit de-o
+grea durere
+Și mistuit de-al ei fior.
+
+[r1]
+Cor:	 //: Isus :/ azi vin la Tine
+Cu-adânci suspine,
+La Tine vin
+Lumina Ta, să mă lumine
+Și să-mi aduc-al Tău alin :/.
+
+[s2]
+2. Isus izvor de bucurie
+Sunt întristat azi de vrăjmaș
+Să mă păzești,
+Să-mi dai tărie
+Și-n mâna lor să nu mă lași.
+
+[s3]
+Isus izvor de har și pace
+Adâncă pace Tu mi-ai dat
+Iar carnea de mi s-ar desface
+În duhul meu e cer, e rai.
+
+[s4]
+Ascunde viața mea în Tine
+Atunci când lupte grele vin
+O, numai Tu să fii în mine
+Izvorul harurilor vii.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

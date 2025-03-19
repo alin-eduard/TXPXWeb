@@ -1,0 +1,16 @@
+[s1]
+Îmi plec genunchii-n faţa Ta,
+Viaţa mea e-n mâna Ta,
+Un cânt de laudă vreau să-ţi cânt
+Pentru plăcerea Ta.
+Te caut pe Tine, Domnul meu
+Dorinţa mea e să te-nalţ
+Mai sus de tot ce-i pământesc
+Spre bucuria Ta.
+
+[s2]
+Aleluia, aleluia
+Aleluia slavă Mielului.
+
+[order]
+s1,s2

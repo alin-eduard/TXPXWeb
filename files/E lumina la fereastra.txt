@@ -1,0 +1,27 @@
+[s1]
+E lumină la fereastră
+şi e întinsă o masă
+Cineva m-aşteaptă acasă-n prag.
+Văd un râu cu apă vie,
+vreau acum o veşnicie
+Doamne, nicicând
+n-am dorit atât acas, !
+
+[r1]
+Şi aud chemări dinspre alte zări
+Şi Îl văd pe Tatăl cum mă aşteaptă !
+În lumea aceasta sunt străin
+Doresc să fiu liber deplin !
+Doamne, nicicând n-am dorit atât acas!
+
+[s2]
+Văd familia-mpreună,
+sunt plini de voie bună
+Nu mai sunt bătrâni şi nici bolnavi
+Când va fi aceea clipă
+să-mi întind a mea aripă ?
+Doamne, nicicând
+n-am dorit atât acas, !
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,36 @@
+[s1]
+1284.Mi m
+Am fost în multe locuri dragi
+Şi mulţi mi-au zis aici ţi-e bine
+Dar n-am ramas ci Te-am urmat
+Căci nicăieri nu-i ca la Tine
+Am auzit cuvinte mari
+Şi mulţi mi-au zis ce dulci-s ia-le
+Dar am tăcut şi Te-am urmat
+Nu-s altele ca ale Tale
+1.
+
+[s2]
+Am ascultat cântări de-argint
+Şi mulţi mi-au zis:Sunt raiul,iată!
+Dar n-am gustat o cum să pot
+Cand le-am simţit pe-a Tale odată
+Am cunoscut mulţi mari şi-aleşi
+Şi mulţi mi-au zis,ia-i prieteni tie
+Dar n-am putut și iar m-am dus
+La fraţii mei din pribegie
+2.
+
+[s3]
+Mi se-mbiau lumeşti cununi
+Şi mulţi mi-au zis,sunt strălucite
+Dar nu le-am vrut, nu semănau
+Cu-a Ta nici una prea-iubite
+Să spună toţi,nu vreau Isus
+Nimic din tot ce-mi iese-n cale
+Nimic nu e mai scump nimic
+Ca-mpărăţia slavei Tale
+3.
+
+[order]
+s1,s2,s3

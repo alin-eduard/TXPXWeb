@@ -1,0 +1,38 @@
+[s1]
+E-o lupta viata, E-o lupta
+Si noi ne luptam zi de zi
+Cu dor sa ajungem la tinta
+S-ajungem la Domnul Isus
+E-o lupta viata, E-o lupta
+Si-n lupta privim catre cer
+Luptam sa primim o cununa
+In cerul sfant la Dumnezeu
+
+[r1]
+/: Acolo la Domnul,
+La tarmul dincolo de rau
+Acolo e raiul,
+Acolo vrem si noi sa fim :/
+
+[s2]
+E-o lupta viata, E-o lupta
+Crestinii se lupta mereu
+Sa duca stindardul iubirii;
+Credinta sfanta-n Dumnezeu.
+De veacuri luptat-au crestinii,
+Si-n lupta ei au biruit
+Chiar daca-au fost arsi pe ruguri,
+Cantand, ei de-aici au trecut.
+
+[s3]
+E-o lupta viata, e-o lupta;
+E-o lupta si-n veacul de-acum
+cand in lume e-atata ura;
+Si dragostea rar o gasim.
+Luptam sa ramanem pe calea;
+Ce duce inspre Paradis
+Caci numai luptand vom ajunge;
+Acolo unde Isus s-a dus.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,31 @@
+[s1]
+Ca un tată cu copii
+Ca un păstor cu turma lui
+Dumnezeu călăuzeşte
+Pe ai săi, cu mâna Lui.
+Fie că avem de toate,
+Fie că avem mai nimic,
+Dumnezeu se îngrijeşte,
+N-avem lipsă de nimic.
+
+[r1]
+Ca un păstor ne-ngrijeşte
+Si cu drag ne iubeşte
+Chiar din zori şi până-n seară
+Si din nou până-n zori.
+Ca un păstor ne păzeşte
+Si cu drag ne hrăneşte.
+Dumnezeu este cu noi, e cu noi!
+
+[s2]
+Prin cuvânt ne întăreşte,
+Duhul Său l-a pus în noi.
+Îi simţim a Lui prezenţă
+Si-l marturisim ca Domn.
+Stăm la masa Lui cu toţii
+Dezmierdaţi de-al Lui cuvânt,
+Toţi, copii ai celui veşnic
+Cumpăraţi cu sânge Sfânt.
+
+[order]
+s1,r1,s2,r1

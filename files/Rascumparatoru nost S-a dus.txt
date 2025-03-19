@@ -1,0 +1,47 @@
+[s1]
+1
+Răscumpărătoru’ nost’ s-a dus
+Să ne pregătească un locaş sus.
+În curând acolo toţi
+sfinţii se vor odihni,
+În cer sus unde noapte n-a mai fi.
+
+[s2]
+2
+Ah, doresc odihna,
+Unde nu-i durerea!
+Ce frumos, când vom fi
+Unde Isus ne va străluci!
+
+[s3]
+3
+Nu am tezaur pe pământ jos,
+Unde este păcatul dureros.
+Averea mea este numai
+acolo în cer sus,
+Unde domneşte Regele Isus.
+
+[s4]
+4
+Ah, doresc odihna,
+Unde nu-i durerea!
+Ce frumos, când vom fi
+Unde Isus ne va străluci!
+
+[s5]
+5
+Voi cânta în casa cerească,
+Stând cu Isus la sfânta masă.
+Cântând cu cei sfinţi
+şi mântuiţi în locaşul sfânt,
+Pe veci răscumpăraţi de pe pământ.
+
+[s6]
+6
+Ah, doresc odihna,
+Unde nu-i durerea!
+Ce frumos, când vom fi
+Unde Isus ne va străluci!
+
+[order]
+s1,s2,s3,s4,s5,s6

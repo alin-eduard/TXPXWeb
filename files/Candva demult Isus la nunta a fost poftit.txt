@@ -1,0 +1,27 @@
+[s1]
+Cândva demult Isus
+la nunta a fost poftit
+Şi prima oara atunci
+minuni a săvârşit
+Alaturea de miri la masă El a stat
+Şi-apoi prin harul Său
+i-a binecuvântat.
+
+[r1]
+/: Ce minunata zi, de har şi bucurii
+De care şi-or aminti cât vor trai ! :/
+
+[s2]
+Naintea Domnului perechea aceasta azi
+Cu cerul in priviri şi soarele-n obraz
+Ca mirii de-alta data din Cana Galileii
+Care Isus a stat alaturea de ei.
+
+[s3]
+Şi nu vor azi nimic, decât prezenta Lui
+Şi nu-i cer altceva Mântuitorului
+Decât ca-n astă zi, ca şi Mântuitor
+Să verse har din plin şi peste nunta lor.
+
+[order]
+s1,r1,s2,r1,s3,r1

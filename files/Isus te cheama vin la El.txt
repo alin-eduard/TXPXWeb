@@ -1,0 +1,32 @@
+[s1]
+Isus te cheamă, vin’la El,
+Vino la pieptul Său,
+Nu-I nicăieri alt scut la fel
+Cum e la pieptul Său.
+Alungă orice teamă,
+Astăzi, din gândul tău,
+Isus mereu te cheamă,
+Vino la pieptul Său!
+
+[s2]
+Isus te cheamă, vin’la El,
+Vino la pieptul Său,
+Veşmânt de har şi scump inel
+Primeşti la pieptul Său,
+Isus e Pâinea vie,
+Calea spre Dumnezeu.
+Isus e veşnicie,
+Vino la pieptul Său!
+
+[s3]
+Isus te cheamă, vin’la El,
+Vino la pieptul Său,
+Aleargă-n zbor de porumbel
+Şi vin’la pieptul Său,
+Isus cel sfânt ţi-e frate,
+Sprijin în orice rău,
+Isus e libertate,
+Vino la pieptul Său!
+
+[order]
+s1,s2,s3

@@ -1,0 +1,73 @@
+[s1]
+2027
+1. Prin Moise Domnul a vorbit
+Către Israel în Egipt
+Ce de mulți ani era robit
+Și de munci grele obosit
+Ascultă astăzi fiul Meu
+Că Eu sunt Dumnezeul tău
+Cu braț puternic voi lupta
+Și slava Mea o vei vedea.
+
+[s2]
+2. Eu te voi scoate din robie
+Și te voi duce prin pustie
+Eu te voi duce-n Canaan
+Cum am jurat lui Avraam
+Căci Eu sunt Dumnezeul tău
+Și-Mi voi întinde brațul Meu
+Pe Faraon îl voi lovi
+Cu grele și cu mari urgii.
+
+[s3]
+3. Prin Moise Eu am dat porunci
+Ca mielul jertfă să-Mi aduci
+Cu azimi și ierburi amare
+De Paști la marea sărbătoare
+Cu sângele lui să stropești
+Casele din care ai să ieși
+Și înapoi să nu privești
+În grabă din Egipt să pleci.
+
+[s4]
+4. În pustie nu cârti
+Că sete dacă îți va fi
+Apă din stâncă îți voi da
+Să-ți arăt puterea Mea
+Să nu-ți pară drumul lung
+Hainele că nu-ți ajung
+Încălțămintea că-i rea
+Că de grijă-ți voi purta.
+
+[s5]
+5. Ziua la stâlpul de nor
+Să privești al Meu popor
+Și noaptea la cel de foc
+Când se va opri în loc.
+Că de acolo-ți voi vorbi
+Lui Moise voi porunci
+Moise te va învăța
+Legea pe care o voi da.
+
+[s6]
+6. Pe drum te voi călăuzi
+Spre țara cu mari bogății
+Cu case mari și cu măslini
+Cu vii bogate și smochini
+În țara unde vei ajunge
+Laptele pe munți va curge
+Cu miere te voi hrăni
+Fericit te vei numi.
+
+[s7]
+7. Țara-n care vei intra
+Toată ție ți-o voi da
+Popoare mari vei izgoni
+Peste ea vei stăpâni
+Te voi binecuvânta
+Pe brațe te voi purta
+Voi fi ajutorul tău
+Căci tu ești poporul Meu.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

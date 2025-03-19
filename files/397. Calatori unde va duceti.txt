@@ -1,0 +1,51 @@
+[s1]
+1. Călători unde vă duceţi
+În mâini cu toiegele
+Spre ce ţară vreţi să mergeţi
+Răbdând oboselile?
+397
+
+[s2]
+2. Înspre ţara mult dorită
+Vrem să mergem noi acum,
+Căci ne-a fost făgăduită
+Dacă cuvântul împlinim.
+
+[s3]
+3. Nu vi-i teamă oare, vouă
+Că sunteţi puţini şi slabi
+E vreun rege ce vă cheamă
+De vă ştiţi aşa de bravi?
+
+[s4]
+4. Nu ni-i teamă de nimic
+Căci avem Mântuitor
+Noi nu ştim ce este frica
+El ne-ajută tuturor.
+
+[s5]
+5. Dar în ţara mult dorită,
+Unde mergeţi voi acum
+Va fi lumea fericită
+De-ar pleca pe-al vostru drum.
+
+[s6]
+6. Dar şi multă fericire
+Vom avea acolo sus
+Vom privi cu bucurie
+Tronul Domnului Isus.
+
+[s7]
+7. Vrem, atunci şi noi să mergem
+Dacă vreţi să ne primiţi
+Şi ne hotărâm că trecem
+Prin oricâte suferinţi.
+
+[s8]
+8. Vă primim cu grabă mare
+Căci Hristos ne-a poruncit
+Să primim pe orişicare
+Dacă ei s-au pocăit.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

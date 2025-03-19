@@ -1,0 +1,27 @@
+[s1]
+1865
+1.Primul cuvânt când pe lume am venit
+A fost mama căci mult ea m-a iubit
+/:La pieptul ei mă legăna , pe frunte mă 									săruta
+Și Lui Dumnezeu mereu ea se ruga.:/
+
+[r1]
+Cor:/:O , mamă mamă mama mea , te iubesc și  							mult aș vrea
+Să te port în inimă și-n gândul meu
+Tu ești cel mai de preț cadou , pentru mine 							ești un erou
+Mama mea cât de mult eu te iubesc.:/
+
+[s2]
+2.Îi mulțumesc din inimă lui Dumnezeu
+Căci ți-a dat viață și te-a ferit de rău
+/:El te-a binecuvântat , sănătate-n dar 							ți-a dat
+Cum voi putea oare să îi răsplătesc?:/
+
+[s3]
+3.Azi de sus din cer te rog Isus
+Dă putere mamelor ce au plâns
+/:S-au rugat și au postit , și la Tine au 							venit
+Tu pe brațe le-ai luat și le-ai primit.:/
+
+[order]
+s1,r1,s2,r1,s3,r1

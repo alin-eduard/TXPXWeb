@@ -1,0 +1,35 @@
+[s1]
+1. Domnul îmi este adăpost,
+Cetate tare-n vreme rea!
+Deşi e valul furios,
+Îmi e scutită inima.
+35.                                                  Mi
+
+[r1]
+Cor:
+Da, eu mă-ncred în Domnul,
+Cetatea mea, cetatea mea!
+O, Isuse, eu Ţie mă-ncredinţez,
+Cetate tare-n vreme rea.
+
+[s2]
+2. Scut de arşiţa soarelui,
+Cetate tare-n vreme rea!
+E ca lumina farului,
+Ce străluceşte-n
+noaptea grea.
+
+[s3]
+3. Cu-al Tău cuvânt marea alini,
+Cetate tare-n vreme rea;
+Sufletu-mi l-acest scut să vii,
+Şi nici un rău nu s-a-ntâmpla.
+
+[s4]
+4. Tu eşti a mea mântuire,
+Cetate tare-n vreme rea!
+Tu-mi dai credinţă, iertare,
+M-aşteaptă-n cer fericirea.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

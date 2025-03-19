@@ -1,0 +1,34 @@
+[s1]
+Pierdut odată­-n lume,
+Însetam nespus,
+Fiinţa-­mi stâmpărare nu afla,
+Dar am venit smerit
+La crucea lui Isus
+Şi apă vie am găsit în ea.
+
+[r1]
+Apă din izvorul sfânt al vieţii
+Numai la Calvar la toţi
+Se dă în dar;
+Apă din izvorul sfânt al vieţii,
+Bogat şi minunat izvor de har!
+
+[s2]
+Azi dacă stâmpărare-n
+Suflet îţi doreşti
+Aleargă la acest izvor bogat;
+În el găsi-vei sfinte
+Bucurii cereşti,
+Cânta-vei Aleluia ne-­ncetat.
+
+[s3]
+De ce nu vii chiar azi
+La Domnul, la Calvar,
+Izvorul vieţii
+Şi tu să-­L găseşti?
+Al tău Mântuitor
+Te cheamă, vino, dar!
+Şi­n suflet fericirea o primeşti!
+
+[order]
+s1,r1,s2,r1,s3,r1

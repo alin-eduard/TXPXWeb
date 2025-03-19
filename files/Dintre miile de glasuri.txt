@@ -1,0 +1,37 @@
+[s1]
+Dintre miile de glasuri
+ce ma cheama spre pacat
+Eu aleg o voce Sfanta
+Care vrea sa fiu salvat
+Ca si susurul duios,
+Ce adie-atat de lin
+Eu aud mereu chemare
+Ce ma cheama ca sa vin
+
+[r1]
+E vocea Ta care schimba viata mea
+E vocea Ta, e glasul Tau
+Ce ma cheama la Dumnezeu
+
+[s2]
+Cand primejdii stau in cale
+Ce ma ameninta mereu
+La ureche imi soptesti
+Sa am grija-nceasul greu
+La orice pas esti aproape
+Ma indrumi cu a Ta povata
+Domnul meu scump Isus
+Tu imi esti a mea speranta
+
+[s3]
+Vocea Ta imi va ramane
+Dintre toate cea mai draga
+Si o voi iubi mereu
+Mai mult ca lumea intreaga
+Mereu o voi iubi
+Ca a fost de partea mea
+Si tot ea ma va primi
+In imparatia TA
+
+[order]
+s1,r1,s2,r1,s3,r1

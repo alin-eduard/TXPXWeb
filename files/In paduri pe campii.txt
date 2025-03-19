@@ -1,0 +1,26 @@
+[s1]
+În păduri, pe cîmpii
+În livezi şi în vii
+Se-aude-un cîntec de dor.
+Păsărelele-n crîng
+Pe sub ramuri se strîng
+Să-L laude pe Creator !
+
+[r1]
+Chiar natura aşa
+Ne-nvaţă pe noi :
+<Lăudaţi-L pe Cel din vecii !>
+Toată gloria Sa
+O revarsă-n şuvoi
+Prin cîntece şi bucurii.
+
+[s2]
+Bolta, cerul senin
+Şi văzduhul e plin
+De laudele lui Dumnezeu.
+Printre munţi, printre stînci
+Şi pe ape adînci
+Răsună-un cîntec mereu.
+
+[order]
+s1,r1,s2,r1

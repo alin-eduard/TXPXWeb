@@ -1,0 +1,34 @@
+[s1]
+Dorul meu ne-ncetat
+se avântă spre cer
+Unde-i locul promis de Isus
+/: Şi mă-ntreb îngrijorat
+de am dreptul să sper
+Că primesc răsplătiri ce nu pier? :/
+
+[s2]
+Voi primi eu cândva
+o cunună din cer
+O cunună ce Domnu-mi va da?
+/: De-aş ajunge la cer,
+pot eu oare să sper
+Că primesc răsplătiri ce nu pier? :/
+
+[s3]
+Lucru-i mult de făcut,
+nu pot zice că-i greu
+Am oricând ajutor cerul tot.
+/: Să fiu pildă la toţi
+că e bun Dumnezeu
+E uşor, e uşor de făcut! :/
+
+[s4]
+Lucru-i mult, şi Isus vrea
+să dea ajutor
+La oricine-i cuprins de păcat
+/: Şi atunci, ca un dar
+pregătit sfinţilor
+Între îngeri voi fi-ncoronat. :/
+
+[order]
+s1,s2,s3,s4

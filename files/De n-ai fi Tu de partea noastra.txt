@@ -1,0 +1,20 @@
+[s1]
+/: De n-ai fi Tu de partea noastră
+Am fi ca praful luat de vânt,
+Am fi o umbră fără viată
+Rătăcitoare pe pământ. :/
+
+[r1]
+/: Dar noi venim cu toti la Tine
+Si tot ce-avem Îti dăruim
+Căci nimeni, Doamne, nu-i ca Tine!
+Îngenunchem si ne smerim. :/
+
+[s2]
+/: Noi n-avem nici un merit, Tată
+E harul Tău că existăm.
+Isuse, Tu ne-ai dat viată
+Si toate Tie-Ti datorăm. :/
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,26 @@
+[s1]
+Fii cu noi, Emanuel,
+Şi în Anul Nou revarsă
+Râu de binecuvântări
+Ca oricine să cunoască
+Mila Ta de bun Păstor,
+Minunat Mântuitor.
+
+[s2]
+Binecuvintează Tu,
+Sufletul şi trupul nostru,
+Prin puterea Ta mereu
+Depărtează Tu necazul;
+Ne condu cu braţul Tău,
+Ne păzeşte de cel rău.
+
+[s3]
+Anul Nou, prin harul Tău,
+Îl începem cu credinţă,
+De acum pân’ la sfârşit,
+Te rugăm binecuvintează-l;
+Dă-ne har bogat de sus,
+Anul Nou e-al Tău, Isus!
+
+[order]
+s1,s2,s3

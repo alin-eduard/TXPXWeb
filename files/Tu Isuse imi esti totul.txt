@@ -1,0 +1,32 @@
+[s1]
+Tu, Isuse, îmi eşti totul,
+Veşnică e mila Ta;
+Tu mă ocroteşti pe cale,
+Mare­i bunătatea Ta.
+
+[r1]
+Doamne, Tu­mi eşti ocrotirea,
+Sufletul meu Te doreşte;
+Mă încred deplin în Tine,
+Totul, toate îmi eşti Tu!
+
+[s2]
+Tu, Isuse, îmi eşti totul,
+Prieten bun şi Salvator;
+Blând Păstor ce mă conduce,
+Şi un bun Ocrotitor.
+
+[s3]
+Tu, Isuse, îmi eşti totul,
+Ai murit în locul meu;
+Pentru jertfa de la cruce
+Te iubesc şi­Ţi cânt mereu.
+
+[s4]
+Tu, Isuse, îmi eşti totul,
+Sunt al Tău iar Tu al meu;
+Cu fiinţa mea întreagă
+Eu Te voi sluji mereu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

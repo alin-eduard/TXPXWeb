@@ -1,0 +1,38 @@
+[s1]
+Aşa cum, printre ţări străine,
+Îl curmă dorul pe-un pribeag
+Ce-aşteaptă a-şi vedea cu bine
+Ce-n ţara lui i-a fost mai drag,
+
+[r1]
+Aşa e dorul nost' ce cântă
+Dar e cu mult mai arzător
+Ca să-Ţi vedem toţi faţa blândă,
+/: Al vieţii noastre Răscumpărător. :/
+
+[s2]
+Aşa cum plânge ghiocelul,
+Când iarna nu mai ia sfârşit,
+Ca să zâmbească, mititelul,
+La Tatăl care l-a zidit,
+
+[s3]
+Precum doreşte ciocârlia
+Să se înalţe până-n nor,
+Ca să vestească veselia,
+Plugarul ca să aiba spor,
+
+[s4]
+Precum doreşte-un cerb izvorul
+Să-şi răcorească setea
+Şi, toamna, cum ar vrea cocorul
+Să-şi vadă iarăşi patria,
+
+[s5]
+Azi, doru-acesta vrea-mplinire;
+Născut e dintr-un zel sublim,
+Ca, la măreaţa Ta răpire,
+În carele de foc, să fim.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

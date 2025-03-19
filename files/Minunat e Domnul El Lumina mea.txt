@@ -1,0 +1,23 @@
+[s1]
+Minunat e Domnul, El, Lumina mea.
+Netărmurită-I dragostea
+Ce-a coplesit toată viata mea,
+Imnuri din cer eu voi cânta
+Despre Domnul meu.
+
+[s2]
+Eu sunt astăzi liber, Domnul m-a iertat,
+Din întuneric m-a scăpat
+Dându-mi în dar însăsi viata Sa;
+El mă va duce-n slava Sa,
+Isus, Domnul meu.
+
+[s3]
+Despre Domnul Isus vesnic voi cânta.
+Spune-voi la împovărati
+Cum pot fi liberi, răscumpărati;
+Tot ce-am primit voi folosi
+Pentru Domnul meu.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,26 @@
+[s1]
+Să-I cântăm de bucurie
+Am biruit prin braţul Domnului
+Dumnezeu ne-a scăpat prin credinţă
+Slava să fie doar a Lui. Glorie Lui !
+
+[r1]
+/: Am biruit în numele lui Isus
+Pân’ aici El ne-a ajutat
+Ne-ndreptăm privirea noastră-n sus
+Să-L slăvim pe-al nostru Împărat :/
+
+[s2]
+Vrem să nu uităm nicicând de Domnul
+Ne-ncetat doar bine ne-a făcut
+Ne-a scăpat şi de jugul robiei
+Slavă doar Regelui Sfânt. Glorie Lui !
+
+[s3]
+Ne-amintim de-atâtea momente
+Când firul vieţii ne-a mai fost lungit
+Pe când mulţi au parte de durere
+Dumnezeu pe noi ne-a păzit. Glorie Lui !
+
+[order]
+s1,r1,s2,r1,s3,r1

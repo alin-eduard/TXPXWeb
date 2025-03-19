@@ -1,0 +1,35 @@
+[s1]
+Dacă ochii-ţi-s trişti
+Plâng, îs obosiţi
+Dacă eşti rănit
+Strigă către Domnul
+Nori de vreme rea
+Gonesc în calea ta
+Sufletu-i mâhnit,
+Strigă către Domnul.
+
+[r1]
+/: Va cădea din Cer, roua din Etern
+Şi balsam pe El,
+Îţi va pune Domnul
+Har din harul Său
+Îţi va da mereu
+În genunchi, căzut
+Cheamă, tu, pe Domnul :/
+
+[s2]
+Unge-ţi aripa cu iubirea Sa
+Şi plângând, de dor
+Zboară către Domnul
+Lasă-n urma Ta,
+Din iubirea Sa
+Şi lucrând cu spor
+Seamănă ogorul.
+
+[s3]
+Am strigat şi eu, în necazul meu
+Din al morţii somn
+M-am trezit din nou.
+
+[order]
+s1,r1,s2,r1,s3

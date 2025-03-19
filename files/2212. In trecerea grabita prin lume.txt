@@ -1,0 +1,39 @@
+[s1]
+2212
+1. În trecerea grăbită,
+prin lume către veci
+Fă-ți timp măcar o clipă
+Să vezi pe unde treci
+Fă-ți timp pentru Adevărul
+Cu sufletul deschis
+Fă-ți timp pentru cântare,
+pentru paradis.
+
+[r1]
+Cor:	Viața trece, treci cu ea
+Omule nu uita
+Vino la Isus acum
+De aici te pregătești
+Unde vrei să locuiești
+Vino azi pe drumul bun.
+
+[s2]
+2. E mult prea scurtă viața
+S-o treci nepăsător
+E mult prea scumpă clipa
+Să treacă fără scop
+E mult prea scump Cuvântul
+Să-l uiți un ceas măcar
+E mult prea scumpă ruga
+Să nu o faci cu har.
+
+[s3]
+3. Cât mai este zi tu te poți pregăti
+Cu haina curată
+Pe Domnul a-L întâlni
+De-i viața ta murdară,
+vino la calvar
+Isus te curățește, o, ce mare har.
+
+[order]
+s1,r1,s2,r1,s3,r1

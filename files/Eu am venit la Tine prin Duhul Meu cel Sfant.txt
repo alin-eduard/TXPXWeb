@@ -1,0 +1,22 @@
+[s1]
+Eu am venit la Tine prin
+Duhul Meu cel Sfânt
+Şi locuinţă-n tine Mi-am făcut.
+
+[s2]
+Eu îţi cunosc viaţa-n prezent
+şi-n viitor
+Şi-ţi văd în inimă şi al tău dor.
+
+[s3]
+Eu vreau ca tu să afli
+toată slava Mea
+Căci ajutorul Meu nu va-ntârzia.
+
+[s4]
+Vreau să trăieşti, căci Eu trăiesc
+Plinătatea ţi-o doresc.
+Orice zi ca un dar s-o primeşti.
+
+[order]
+s1,s2,s3,s4

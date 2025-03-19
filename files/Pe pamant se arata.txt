@@ -1,0 +1,30 @@
+[s1]
+Pe pământ se arată
+Slava Ta neschimbată
+Nu e nimeni cum eşti Tu
+Nu e nimeni cum eşti Tu
+Munti înalţi şi popoare
+Azi Îţi cad la picioare
+Nu e nimeni cum eşti Tu
+Nu e nimeni cum eşti Tu.
+
+[r1]
+/: Să răsune-un cânt
+Peste-ntreg pământ
+Isus Regele-a-nviat
+Vom striga mereu
+Pentru Dumnezeu
+Toată lauda :/
+
+[s2]
+Peste noi luminează
+Peste noi luminează
+Slava Numelui Tău Sfânt
+Va domni pe-ntreg pământ.
+
+[s3]
+Mereu Doamne Îţi voi cânta
+Mereu Doamne Îţi voi cânta.
+
+[order]
+s1,r1,s2,r1,s3,r1

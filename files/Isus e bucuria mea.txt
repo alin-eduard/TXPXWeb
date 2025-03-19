@@ -1,0 +1,22 @@
+[s1]
+Isus e bucuria mea, Aleluia!
+Iubirea vine de la el, Aleluia!
+Isus e bucuria mea, Aleluia!
+El, totdeauna e fidel, Aleluia!
+El e pacea mea, Aleluia!
+Bucuria mea, Aleluia!
+Şi lumina mea, Aleluia!
+Lui îî vom cânta, Aleluia!
+
+[s2]
+Isus e bucuria mea, Aleluia!
+Iubirea vine de la el, Aleluia!
+Isus e bucuria mea, Aleluia!
+El, totdeauna e fidel, Aleluia!
+El e iertător, Aleluia!
+Şi îndurător, Aleluia!
+El e Domnul meu, Aleluia!
+Unic Dumnezeu, Aleluia!
+
+[order]
+s1,s2

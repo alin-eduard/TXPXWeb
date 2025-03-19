@@ -1,0 +1,53 @@
+[s1]
+1419
+1.Cât încă mai curge uleiul în vas
+Cât încă ard jertfe pe-altar
+Cât încă se-aude
+O,Doamne-al Tău glas
+Eu ştiu că mai este har
+/: Mai este har, mai este har. :/
+
+[s2]
+Cât încă mai curge
+Al vieţii râu
+Cât încă se strâng în grânar Snopi de grâu.
+/:Mai este har, mai este har:/
+
+[s3]
+2.Cât încă mai curge
+Al vieţii izvor
+Şi Jertfa mai este-n Calvar
+Cât încă se simte-al iubirii fior
+Eu ştiu că mai este har.
+/: Mai este har, mai este har :/
+
+[s4]
+Cât încă mai este
+Un Mântuitor
+Şi-n ceruri un Tată
+Bun şi iertător.
+/:Mai este har mai este har:/
+
+[s5]
+3.Cât încă ai viaţă,
+Iubit muritor
+Să n-o iroseşti în zadar
+Cât încă mai este Isus Salvator
+Să ştii că mai este Har.
+/: Mai este har, mai este har :/
+
+[s6]
+Ref1: Cât încă chemarea
+Răsună şi azi
+Smerit şi căit
+La picioare să-I cazi.
+Cât mai e har, cât mai e har
+
+[s7]
+Ref2: Cât încă iertarea
+Se capătă-n dar
+Albeşte-ţi acuma Veşmântul murdar
+/:Cât mai e har, cât mai e har :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

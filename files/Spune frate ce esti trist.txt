@@ -1,0 +1,50 @@
+[s1]
+Spune, frate, ce eşti trist
+ori nu mergi spre Paradis?
+/: Căci spre Paradis de mergi,
+nu face să te-ntristezi! :/
+
+[s2]
+Căci acolo-n Paradis
+Nu e nici un suflet trist.
+/: Acolo sînt bucurii
+Ce durează-n veşnicii. :/
+
+[s3]
+Acolo nu sînt dureri,
+nici lacrimi, nici întristări.
+/: Acolo este Isus
+şi-s bucurii de nespus. :/
+
+[s4]
+Pentru ce eşti supărat
+Dacă eşti răscumpărat?
+/: Pentru ce te întristezi
+Căci şi-aşa, tot ce vezi, pierzi:/
+
+[s5]
+Căci totul pe-acest Pămînt
+e doar goană după vînt
+/: Căci totul e trecător
+şi bietul om muritor. :/
+
+[s6]
+Şi-ntr-o zi tu vei fi
+Dus de-aici în veşnicii
+/: Şi toată averea ta
+Spune-mi, cui o vei lăsa ? :/
+
+[s7]
+Dar ce ochiul n-a văzut,
+urechea n-a auzit
+/: Astfel sînt lucrurile
+de Domnul pregătite. :/
+
+[s8]
+Aşa este-n Paradis
+Întocmai cum este scris
+/:Pentru cei ce-n Domnul cred
+Îl urmează şi-L slujesc. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

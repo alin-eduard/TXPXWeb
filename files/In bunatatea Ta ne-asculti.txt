@@ -1,0 +1,32 @@
+[s1]
+În bunătatea Ta ne-asculţi
+A noastră rugăciune
+Şi inima ne-o uşurezi
+De orice `amărăciune.
+/: Ne-ntorci privirile mereu
+Spre Tine Sfinte Tată
+Şi prin minuni Tu ne-ntăreşti
+De fiecare dată. :/
+
+[s2]
+Nădejdea Tu mi-o`mprospătezi
+Când vezi că se-ofileşte
+Şi nici o piedică pe drum
+Spre noi nu Te opreşte.
+/: Căci bunătatea Ta oricând
+/: Cu mult :/ întrece
+Căderea-n care-am fost târâţi
+Şi starea noastră rece. :/
+
+[s3]
+Eşti pentru vecii vecilor
+Izvorul mântuirii
+Şi peste noi mereu ţi-ntinzi
+Veşmintele iubirii.
+/: În bunătatea Ta răspunzi
+Cu-a harului comoară
+Nicicând Tu nu ne`ndepărtezi
+Şi nu ne scoţi afară. :/
+
+[order]
+s1,s2,s3

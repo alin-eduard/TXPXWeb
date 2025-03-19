@@ -1,0 +1,33 @@
+[s1]
+1. Prin furtună şi prin noapte
+Aşa-i calea lui Isus
+/: Dar sfârşeşte-n cer departe
+Unde-i soare făr’ apus :/.
+666.Re m
+2. Dacă suferim, aicea
+Tot noianul de dureri
+/: O s-avem pe totdeauna
+Albe flori de mângâieri :/.
+
+[s2]
+3. Căci din noaptea grea şi plină
+De-ntuneric, ceaţă, nori
+/: Vom păşi-ntr-o zi senină
+Luminaţi de albe zori :/.
+4. Şi-om uni cântarea noastră
+Cu al îngerilor cor
+/: Intonând-o mai măiastră
+Pentru scumpul Salvator :/.
+
+[s3]
+5. Lângă Domnul pe vecie
+Tot necazul va-nceta
+/:Căci cu mâna iubitoare
+Ne va şterge lacrima:/
+6. Pururi numai mângâiere
+Bucurii fără sfârşit
+/:Vom uita toată durerea
+Ce-am avut-o pe pământ:/
+
+[order]
+s1,s2,s3

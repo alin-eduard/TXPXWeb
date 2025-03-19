@@ -1,0 +1,40 @@
+[s1]
+Tu eşti copil al Lui Dumnezeu
+Şi-n viaţă nu vei fi scutit
+De lovituri din partea celui rău,
+Şi când te simţi ispitit,
+şi chiar aproape eşti să cazi
+Stai pe genunchi în faţa celui care te-a creat.
+
+[r1]
+/: Nu te îngrijora :/
+Dumnezeu e cel ce grija îţi va purta
+/: Nu te îngrijora :/
+Fii convins că nicidecum nu, nu te va lăsa
+Încrede-te în El din toată inima
+Şi glasul Domnului Cel Sfânt îţi va şopti
+Tu eşti al Meu copil şi tot ce am i-al Tău
+Deci ai nădejde în Mine şi nu,
+Nu te-ngrijora.
+
+[s2]
+Când vezi că cei din jurul tău
+Adesea nu te înţeleg
+Şi parcă simţi cum dragostea
+ţi-o pierzi,
+Să nu te laşi dezamăgit,
+e doar un gând rătăcitor
+Tu roagă-te şi pentru ei
+şi nu te-ngrijora.
+
+[s3]
+Sau poate grija zilei de mâine
+Te-apasă greu în inimă
+Şi te frămânţi iar pace nu găseşti,
+Tu nu uita de rugăciune,
+şi că în cer un Tată ai
+Ce grija ta o poartă deci nu,
+nu te-ngrijora.
+
+[order]
+s1,r1,s2,r1,s3,r1

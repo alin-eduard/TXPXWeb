@@ -1,0 +1,34 @@
+[s1]
+A venit un om la Domnul
+A venit cu jale grea.
+"Omule, de poţi a spune
+Cu ce foc vii tu la Mine?"
+"Doamne, am venit la Tine
+Fiindcă-mi este viaţa grea."
+
+[s2]
+A venit un om la Domnul
+A venit cu pas voios.
+"Omule cu brâie pline
+Cu ce gând vii tu la Mine?"
+"Doamne, vin că e mai bine
+Fiindcă e mai de folos."
+
+[s3]
+A venit un om la Domnul
+A venit din putregai.
+"Om departe de căinţă
+Cum vii astăzi la credinţă?"
+"Doamne, cu recunoştiinţă
+Pentru toate ce mi-ai dat."
+
+[s4]
+Şi a venit un om cu lacrimi
+Şi Isus a tresărit.
+"Doamne, într-o zi din viaţă
+Te-am privit pe cruce în faţă
+Şi am plâns de dimineaţă
+Şi-s nespus de fericit!"
+
+[order]
+s1,s2,s3,s4

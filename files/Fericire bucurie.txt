@@ -1,0 +1,23 @@
+[r1]
+Fericire, bucurie
+Ai în inimă mereu
+Fericire, bucurie
+Când te-ntorci la Dumnezeu
+Fericire, bucurie
+Când păcatul ţi-e spălat
+Isus pentru tine-a răbdat
+
+[s1]
+/: E scris pe calvar, iertare :/
+Isus crucificat
+Pentru al tău păcat
+A scris pe calvar, iertare
+
+[s2]
+/: E scris pe calvar mantuire :/
+Isus crucificat
+Pentru al tău păcat
+A scris pe calvar mantuire
+
+[order]
+r1,s1,r1,s2,r1

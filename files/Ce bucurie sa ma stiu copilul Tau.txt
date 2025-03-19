@@ -1,0 +1,25 @@
+[s1]
+Ce bucurie să mă ştiu copilul Tău
+Şi să fiu mereu păzit de mâna Ta
+Glorie Ţie, ai spălat păcatul meu
+Prin Isus, crucificat la Golgota.
+
+[r1]
+Tot ce este-n mine, Te glorifică
+Şi cu tot ce am Te preamăresc
+Viaţa mea Ţi-o dau
+în mâna Ta de Tată
+Şi-am să-Ţi cânt
+mereu cât Te iubesc
+
+[s2]
+Cu ce blândeţe
+mă  înveţi să Te urmez
+Zi de zi mă oglindesc în ochii Tăi
+Ce şoapte calde,
+când îmi spui că mă iubeşti
+Şi mă-ntreb cum
+aş putea să-Ţi mulţumesc
+
+[order]
+s1,r1,s2,r1

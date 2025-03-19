@@ -1,0 +1,32 @@
+[s1]
+Doamne, astazi ne incinge
+Cu bratara de iubire!
+Astfel, nimeni nu ne-a-nfrange,
+Caci manunchiul e-n unire.
+
+[r1]
+Dragostea dintai e tinta
+Faptele dintai din ea;
+Urmariti mult infratirea!
+Urmariti azi dragostea!
+
+[s2]
+Multe tinte inainte
+Ne aduc desavarsirea;
+Una singura, in urma
+Ne arata clar menirea.
+
+[s3]
+Fara dragoste, pe cale
+Esti chimval zanganitor;
+Dragostea ramane vesnic,
+E un cant nepieritor!
+
+[s4]
+Dragostea, mereu se cere...
+Azi mai mult ca orisicand...
+Daca dragoste avea-vom,
+Fi-vom fiii Celui Sfant.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

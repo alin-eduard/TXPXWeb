@@ -1,0 +1,32 @@
+[s1]
+Regele vieţii, Domnul meu,
+Fii-n veci glorificat
+Şi să nu uit coroana Ta,
+Du-mă la Golgota.
+
+[r1]
+Ca să nu uit de Ghetsimani,
+Şi nici de agonia grea,
+Ca să nu uit iubirea Ta,
+Du-mă la Golgota!
+
+[s2]
+Lângă mormântul unde-ai stat,
+Când alţii Te jeleau
+Îngerii Tăi au coborât,
+Somnul ei Ţi-L păzeau.
+
+[s3]
+Şi ca Maria-n zori de zi,
+Să vin’naintea Ta,
+Arată-mi Tu mormântul gol,
+Du-mă la Golgota.
+
+[s4]
+Doamne, ajută-mă să port,
+Cruce mea zi de zi.
+Şi chiar paharul Tău să beau,
+Gata a suferi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,14 @@
+[s1]
+/:Înţeleptul şi-a zidit casa pe stîncă :/
+Şi furtuna a venit.
+Ploaia cădea, si vîntul sufla
+Dar casa rezista.
+
+[s2]
+/: Nebunul şi-a zidit casa pe nisip :/
+Şi furtuna a venit.
+Ploaia cădea, si vîntul sufla
+Şi casa nu rezista.
+
+[order]
+s1,s2

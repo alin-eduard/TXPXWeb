@@ -1,0 +1,32 @@
+[s1]
+Mă-ntreb adesea de-am meritat,
+Harul salvării ce-n dar ni s-a dat.
+Greu a fost totul pân’ Te-am aflat,
+Laudă Tie astăzi sunt salvat.
+
+[r1]
+/:Esti Domnul meu, esti Domnul meu.
+De azi nainte nimic nu-i prea greu.
+În mine-i astăzi lumina Ta,
+Laudă-Ti fie că esti Domnul meu.:/
+
+[s2]
+Si pentru tine mai este har,
+Lumea s-o lasi că-i plină de-amar.
+Lasă păcatul ce te-a robit,
+Si cântă osana, tu esti mântuit.
+
+[s3]
+Isus e-aproape va reveni,
+Si vai de-acela ce-l va găsi.
+Fără uleiul din candelă,
+Pierdut, pe veci va fi nemântuit.
+
+[s4]
+Vino la Isus, vino degrabă.
+Si candela ta va fi plină.
+Si-n rugăciune să stăruim,
+Plini de credintă azi cu toti să fim.
+
+[order]
+s1,r1,s2,r1,s3,s4

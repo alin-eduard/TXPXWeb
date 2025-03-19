@@ -1,0 +1,23 @@
+[s1]
+Fii ai Domnului uniţi-vă
+Toţi în locul sfânt grăbiţi-vă
+Mergeţi vestiţi despre salvare
+În luptă staţi toţi tare
+Si M
+
+[r1]
+Aceasta vă fie preţios
+S-aduceţi suflete la Hristos
+Mergeţi, vestiţi dară
+acum în tot locul
+Mergeţi vestiţi dară
+cu voi este Domnul
+
+[s2]
+În rugăciune staţi ne-ncetat
+Feriţi-vă de orice păcat
+Lângă Hristos staţi toţi neclintiţi
+Căci pe duşmani biruiţi
+
+[order]
+s1,r1,s2,r1

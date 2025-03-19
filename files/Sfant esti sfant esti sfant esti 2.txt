@@ -1,0 +1,49 @@
+[s1]
+Sfînt eşti, sfînt eşti, sfînt eşti
+Dumnezeu puternic !
+Fiecare dimineaţă
+Te slăvesc şi-Ţi cînt !
+
+[s2]
+Sfînt eşti, sfînt eşti, sfînt eşti
+Milostiv şi darnic !
+Doamne cel veşnic,
+Tată, Fiu, Duh Sfînt !
+
+[s3]
+Sfînt eşti, sfînt eşti, sfînt eşti
+Sfinţii toţi Îţi cîntă !
+Şi-nainte cu coroană
+de învingere !
+
+[s4]
+Heruvimi şi îngeri
+Ţie se închină
+Cel Ce ai fost, eşti,
+şi vei fi în veci !
+
+[s5]
+Sfînt eşti, sfînt eşti, sfînt eşti
+Norul Te ascunde !
+Ochiul celui păcătos
+nu vede cine eşti !
+
+[s6]
+Numai singur sfînt eşti
+Singur Tu perfect eşti !
+A Ta-i puterea,
+iubitor Tu eşti !
+
+[s7]
+Sfînt eşti, sfînt eşti, sfînt eşti
+Domn atotputernic !
+Ale Tale mari lucrări slăvesc Numele-Ţi sfînt !
+
+[s8]
+Sfînt eşti, sfînt eşti, sfînt eşti
+Milostiv, puternic !
+Doamne cel veşnic,
+Tată, Fiu, Duh Sfînt.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

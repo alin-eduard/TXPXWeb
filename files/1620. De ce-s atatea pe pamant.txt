@@ -1,0 +1,67 @@
+[s1]
+1620.mim
+1.De ce-s atâtea pe pământ
+Şi vorbe rele se aud?
+De ce la toate să fiu surd Isuse?
+De ce-s înfrânt de-atâtea ori
+Şi biruit adeseori?
+Durerile nu contenesc nicicând...
+
+[r1]
+Cor:Aş vrea să nu mai fie
+Nici lacrimi, nici suspine,
+Nici chin dureri
+Şi răni pe-acest pământ!
+Dar, când Isus veni-va
+Uita-vom ce-i durerea.
+Căci, pentru veci
+Cu El vom rămânea!
+
+[s2]
+2.De ce pe unii îi fereşti,
+Cu nici un rău nu îi loveşti,
+Dar alţii suferă din greu Isuse?
+De ce bogaţi sunt unii azi,
+Feriţi de orişice necaz,
+Iar alţi-n lipsuri,
+Sunt lăsaţi chiar azi?
+
+[s3]
+Cor:Aş vrea să nu mai fie
+Nici lacrimi, nici suspine,
+Nici chin dureri
+Şi răni pe-acest pământ!
+Dar, când Isus veni-va
+Uita-vom ce-i durerea,
+Căci, pentru veci,
+Cu El vom rămânea!
+
+[s4]
+3.Opreşte-Te o clipă
+Şi vezi-mi starea mea,
+Durerea ce m-apasă tot mereu!
+Ridică-mă când sunt căzut!
+Nu mă lăsa pe jos pierdut!
+Prin Duhul Tău cel Sfânt,
+Să biruiesc!
+
+[s5]
+4.Din cerul plin de slavă,
+Curând Domnul coboară,
+Să ia pe cel ce suferă şi rabdă.
+Ce bucurie mare,
+Zbura-vom către soare
+Şi vom trăi-n etern cu El!
+
+[s6]
+Cor:Aş vrea să nu mai fie
+Nici lacrimi, nici suspine,
+Nici chin dureri
+Şi răni pe-acest pământ!
+Dar, când Isus veni-va
+Uita-vom ce-I durerea.
+Căci, pentru veci
+Cu El vom rămânea!
+
+[order]
+s1,r1,s2,s3,s4,r1,s5,s6

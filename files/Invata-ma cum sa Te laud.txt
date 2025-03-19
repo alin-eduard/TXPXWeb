@@ -1,0 +1,15 @@
+[s1]
+/: Învaţă-mă cum să Te laud
+Învaţă-mă cum să Te caut
+Învaţă-mă să slăvesc
+Numele Tău :/
+/: În veci de veci :/
+
+[s2]
+Caci este bun
+Si in veac tine indurarea Lui
+Il voi lauda toata viata mea
+/: Domnul este bun :/
+
+[order]
+s1,s2

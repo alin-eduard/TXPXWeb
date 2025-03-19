@@ -1,0 +1,25 @@
+[s1]
+Astăzi, Doamne, eu Te rog să intri
+În grădina Ta, ce-ai semănat
+Să uzi florile ce-s ofilite
+Cu petale jos ce s-au lasat
+
+[r1]
+Cântă, floare minunată,
+cântă neîncetat
+Astăzi Gradinarul te-a udat
+
+[s2]
+Grădinarul cu atata grijă
+Udă florile-n grădina Sa
+E Acela ce-a înviat din moarte
+E Isus Hristos din Golgota
+
+[s3]
+Dacă vrei să fii şi tu o floare
+În grădina Domnului Hristos
+Să-ţi păstrezi cu grijă a ta mireasma
+Să te ude Domnul cu folos
+
+[order]
+s1,r1,s2,r1,s3,r1

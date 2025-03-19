@@ -1,0 +1,39 @@
+[s1]
+1. Astăzi Domnul ne vorbeşte
+Chiar prin Duhul Sfânt
+/: Biserică te pregăteşte
+Căci, Eu vin curând :/
+2. De e ziuă, de e noapte
+Să te pregăteşti
+/: Să nu te-ntinezi cu lumea
+Căci atunci te pierzi :/
+705.Do
+
+[s2]
+3. Căci peste poporul Meu
+Pe care L-am ales
+/: Va veni mare-ncercare
+Ca să-l curăţesc :/
+4. Cei ce vor avea răbdare
+Şi vor suferi
+/: Vor trece prin grea încercare
+Şi vor birui :/
+
+[s3]
+5. Cei ce zic că sunt cu Mine
+Dar s-au întinat
+/: Nu vor mai vedea lumina
+Că s-au depărtat :/
+6. Dar acei ce se-ntinează
+Pe acest pământ
+/: Vor fi ca cele cinci fecioare
+Ce-au rămas plângând :/
+
+[s4]
+7. Astăzi mai avem o clipă
+Azi e clipa ta
+/: Mâine nu se poate ştie
+De vei mai intra :/.
+
+[order]
+s1,s2,s3,s4

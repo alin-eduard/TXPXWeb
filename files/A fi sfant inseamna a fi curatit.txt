@@ -1,0 +1,42 @@
+[s1]
+A fi sfânt înseamnă
+a fi curăţit si pus de-o parte,
+Pentru sfântul Dumnezeu
+care ne-a salvat de moarte.
+A fi sfânt înseamnă
+a fi o mireasmă si-o lumină,
+Pentru cei ce nu-L cunosc
+/: pe Isus, la El să vină. :/
+
+[s2]
+A fi sfânt înseamnă
+a fi plin de dragoste divină,
+Gata orişicând să ierţi
+răbdător şi plin de milă.
+A fi sfânt înseamnă
+a fi dragoste înmiresmată,
+Printre cei ce nu cunosc
+/: dragostea adevărată. :/
+
+[s3]
+A fi sfânt înseamnă
+a fi om al rugăciuni-ntr-una,
+Să respingi tot ce-i păcat,
+să primeşti în cer cununa.
+A fi sfânt înseamnă
+a fi inimă înflăcărată,
+Numai pentru Dumnezeu,
+/: în smerenie să bată. :/
+
+[s4]
+A fi sfânt înseamnă
+a fi cât mai multă asemănare,
+Cu Isus, iubitul Domn
+ce prin har ne-a dat salvare.
+A fi sfânt înseamnă a fi om
+ce-şi poartă crucea-ntruna,
+Să fii blând prin Duhul sfânt,
+/: când te va respinge lumea. :/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,38 @@
+[s1]
+Sa am tot ce privirea
+Mi-ar cere si-ar dori
+Si toata stralucirea
+Atator bogatii
+Sa fiu `n-orice privinta
+In viata implinit
+Si n-as avea credinta
+Sunt un nenorocit
+
+[r1]
+Isus, iubire curata
+Isus, comoara mea
+Eu nu te las, eu nu te las
+Nici pentru lumea toata
+
+[s2]
+De-as fi in lume sus pus,
+si-onoruri de-as avea
+Si nu te-as avea Isus,
+pierduta-I viata mea
+Ce-adun cu Tine creste,
+si-I binecuvantat
+Altfel se risipeste
+in marea de pacat
+
+[s3]
+Nimic nu-mi foloseste
+caci trec si-aicia pier
+Iar tot ce dainuieste
+e ce fac pentru cer
+Doar ce fac pentru Tine
+in veci va ramanea
+Si-odata-n slavi divine
+la masa Ta voi sta
+
+[order]
+s1,r1,s2,r1,s3,r1

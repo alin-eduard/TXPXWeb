@@ -1,0 +1,34 @@
+[s1]
+1. Când încă nu eram
+Te-ai gândit la mine
+Când nu existam Isus mă cunoşteai
+Pe dealul Golgotei pe via Dolorosa
+Purtai păcatul meu amar
+Pe cruce la Calvar.
+1993.
+
+[r1]
+/: Cuiele nu te-au ţinut pe cruce
+Puteai atât de lesne să cobori
+Dar dragostea  Ta pentru omenire
+Te-a pironit gândindute la noi :/.
+
+[s2]
+2. Nu te-am văzut
+Cum te-a văzut Maria
+Şi mâna nu mi-am pus în mâna Ta
+Ca pipăind să cred că eşti Isus Mesia
+Cred c-ai murit Şi-ai înviat
+Să fiu şi eu salvat.
+
+[s3]
+3. Prin dragoste prin jertfă
+M-ai mântuit
+Iertat sunt de păcate şi-s fericit
+Un legământ am spus
+Te voi urma în viaţă
+Isus,eşti Domnul meu ceresc
+Mă-nchin şi te iubesc.
+
+[order]
+s1,r1,s2,r1,s3,r1

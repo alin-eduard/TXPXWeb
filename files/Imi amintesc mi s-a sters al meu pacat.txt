@@ -1,0 +1,39 @@
+[s1]
+Îmi amintesc, mi s-a şters
+Al meu păcat
+Pe care l-am purtat eu ne-ncetat !
+Când la Golgota m-am dus,
+Când crezut-am în Isus,
+El păcatele mele mi le-a şters.
+
+[r1]
+/: Mi le-a şters, mi le-a şters,
+Fericit sunt, păcatele mi
+Le-a şters ! :/
+
+[s2]
+Îmi amintesc, când păcatul
+L-am simţit
+Frică-mi era că n-o să fiu primit.
+El Golgota mi-arătat
+Pentru mine c-a răbdat,
+Fericit sunt azi că El m-a iertat !
+
+[s3]
+Mai ţin minte când păcatul
+L-am privit,
+Când povara lui cumplită am simţit,
+Când strigat-am la Isus,
+Cerând mila Lui de sus
+Păcatul meu de tot a fost albit !
+
+[s4]
+Eu cânt vesel de când mila
+I-am primit,
+Prin Isus eu pace am dobândit.
+Glorie, deci, să-I fie
+Lui Isus, şi mărire
+El păcatul mi-a şters pe vecie !
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

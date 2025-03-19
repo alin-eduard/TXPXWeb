@@ -1,0 +1,24 @@
+[s1]
+Când uneori în viaţă, sunt întristat,
+Când uneori în viaţă, sunt descurajat Simt că sunt pierdut,
+la cine să caut adăpost …
+La cine s-alerg doar la al meu salvator si strig.
+
+[r1]
+/:Am nevoie de Tine Isus
+Am nevoie de dragostea Ta
+Am nevoie de Tine Isus :/
+
+[s2]
+Când trec prin încercarea grea
+Să fii lângă inima mea
+/: Aproape de ea să fii,
+Langa inima mea :/
+
+[s3]
+Ca un copil ce are nevoi de părinte,
+Ca o floare ce are nevoi de-nviorare Aşa şi eu am nevoi de Tine Isus
+Tu esti totul pentru mine şi strig.
+
+[order]
+s1,r1,s2,r1,s3,r1

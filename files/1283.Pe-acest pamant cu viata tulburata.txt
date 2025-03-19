@@ -1,0 +1,57 @@
+[s1]
+1.Pe-acest pământ cu viaţa tulburată
+Trăiam viaţa fără de Hristos
+Nu cunoşteam să fie o altă viaţă
+Dar viaţa am aflat-o în Hristos.
+Cor:    Ce dulce mângâiere m-a pătruns
+Ce dulce ce sfântă
+Ce fericire-n suflet mi-ai adus Isus.
+1283.Mi m
+
+[s2]
+2.În lume-aceasta rea şi pieritoare
+O fericire-am căutat mereu
+Dar într-o dimineaţă cu mult soare
+Mi-a dat o fericire Dumnezeu.
+Cor:    Ce dulce mângâiere m-a pătruns
+Ce dulce ce sfântă
+Ce fericire-n suflet mi-ai adus Isus.
+
+[s3]
+3.Îmi cântă inima de bucurie
+Tresaltă-n cântece necontenit
+O viaţă-ntreagă îţi cânt numai Ţie
+Prea scumpul meu Isus Hristos iubit.
+Cor:    Ce dulce mângâiere m-a pătruns
+Ce dulce ce sfântă
+Ce fericire-n suflet mi-ai adus Isus.
+
+[s4]
+4.Mi-e sufletul mereu în sărbătoare
+Căci L-am primit pe Domnul meu iubit
+Nu-i altă fericire atât de mare
+Ca fericirea să fii mântuit.
+Cor:    Ce dulce mângâiere m-a pătruns
+Ce dulce ce sfântă
+Ce fericire-n suflet mi-ai adus Isus.
+
+[s5]
+5.Ajută-mă Isus pe calea vieţii
+Şi Har în cântare să-mi dai mereu
+Să fiu curat ca roua dimineţii
+Când vei veni Mântuitorul meu.
+Cor:    Ce dulce mângâiere m-a pătruns
+Ce dulce ce sfântă
+Ce fericire-n suflet mi-ai adus Isus.
+
+[s6]
+6.Hai cântă prietene şi tu cântarea
+Cântarea întâlnirii cu Isus
+Cântând acum primeşti eliberarea
+Ce ţi-ai dorit-o tu atât de mult.
+Cor:    Ce dulce mângâiere m-a pătruns
+Ce dulce ce sfântă
+Ce fericire-n suflet mi-ai adus Isus.
+
+[order]
+s1,s2,s3,s4,s5,s6

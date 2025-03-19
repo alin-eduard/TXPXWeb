@@ -1,0 +1,31 @@
+[s1]
+In sufletul tau e-atata neliniste
+De tot ce vezi de tot ce-auzi in jurul tau
+In sufletul tau e-atata durere
+Nu-i nimeni sa-ti spuna o vorba buna
+Doar Dumnezeu
+
+[r1]
+Tu ai nevoie de pace
+Tu ai nevoie de dragoste
+Tu ai nevoie de lumina Domnului Isus
+Asculta cum El te cheama
+O vino cat mai degraba
+Isus te iubeste si doreste sa fii mantuit
+
+[s2]
+De-ai sti prietene ca Domnul te-asteapta
+Sa vii la El asa trudit si-mpovarat
+O nu refuza chemarea divina
+Isus te iubeste azi te primeste
+Sa fii salvat
+
+[s3]
+Acum inspre El te-ntoarce degraba
+Tot ce-ai gresit pacatele iti va ierta
+In numele Lui primesti mantuirea
+De lacrimi amare de la pierzare
+Te va salva
+
+[order]
+s1,r1,s2,r1,s3,r1

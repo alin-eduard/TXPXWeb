@@ -1,0 +1,38 @@
+[s1]
+/: Fericită să fii :/
+O pereche cum Domnul vă vrea
+
+[s2]
+/: Ne-ncetat, zi de zi :/
+Peste voi harul va revărsa
+
+[r1]
+/: Fericită să fii :/
+O pereche cum Domnul vă vrea :/
+
+[s3]
+/: Când necazuri vor fi :/
+În unire să staţi liniştiţi
+
+[s4]
+/: De veni-vor dureri :/
+Să Srigati amindoi catre cer. :/
+
+[s5]
+/: Căci El va birui :/
+Şi din noapte veţi fi izbăviţi
+
+[s6]
+/: O, cât e de frumos :/
+Ca în haina de nuntă să fiţi
+
+[s7]
+/: Dar vă cheamă Hristos :/
+Şi la nuntă-I să fiţi pregătiţi
+
+[s8]
+/: Acum noi va dorim :/
+Bucurii sfinte s-aveti din plin ! :/
+
+[order]
+s1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1,s8,r1

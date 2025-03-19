@@ -1,0 +1,26 @@
+[s1]
+Te-au aşteptat apostolii să vii,
+Şi au trecut de-atunci două milenii.
+Dar bine ştim că fiecare zi,
+Apropie momentul revenirii.
+
+[r1]
+Se-aude-un vuiet de gloate multe,
+Din cer auzi chemarea lor.
+/:O, Tată pe-al nost Domn trimite,
+Ne-atât de dor, de El ne este dor. :/
+
+[s2]
+Te aşteptăm şi noi ca să revii,
+Să-Ţi iei Mireasa să o duci acasă.
+Însufleţi-ţi de Duhul Tău cel sfânt,
+Strigăm: „Amin! Vino cât mai curând!”
+
+[s3]
+Ne-e dor să stăm la pieptul Tău Isus,
+Să Te vedem cântând de bucurie,
+Căci am ajuns la locul mult dorit,
+În Canaan cu Tine-o veşnicie.
+
+[order]
+s1,r1,s2,r1,s3,r1

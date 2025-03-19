@@ -1,0 +1,28 @@
+[s1]
+Aşa Te vreau, Isuse,
+la fel ca cerbul apa
+Aşa Te-aştept pe Tine
+ca mirele mireasa.
+A mea strigare, Doamne,
+la Tine vreau s-ajungă
+Tu eşti a mea scăpare,
+Cel ce greu-mi alungă.
+
+[r1]
+Aştept, Isuse, ziua
+Când iarăşi apărea-vei.
+/: Când în slava Ta
+Ne vom bucura. :/
+
+[s2]
+Tu mă păzeşti, Isuse,
+de cel rău în primejdie
+Şi în necazuri grele
+Tu eşti a mea nădejde.
+Eu ştiu că sus acasă
+voi locui cu Tine
+Voi fi a Ta mireasă,
+va fi atât de bine !
+
+[order]
+s1,r1,s2,r1

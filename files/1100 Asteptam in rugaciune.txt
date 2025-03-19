@@ -1,0 +1,38 @@
+[s1]
+Aşteptăm în rugăciune
+Să ne cercetezi Isuse
+Te-aşteaptă împovăraţii
+Şi acei greu încercaţi
+O Isuse, O Isuse.
+Te aşteaptă azi părinţii
+Şi acei ce-s asupriţi
+Pe cei dragi din a lor casă
+Crucea pe umăr le-apasă
+O Isuse, O Isuse
+1.
+2.
+1100. Mi m
+
+[s2]
+Te aşteaptă şi orfanii
+Să le fii tată şi mamă
+N-au pe nimeni pe pământ
+Doar pe Tine Tatăl Sfânt
+O Isuse, O Isuse
+Iar cei ce-s în suferinţă
+Mai au şi ei o dorinţă
+Să vii azi la patul lor
+Să Te-atingi de trupul lor
+O Isuse, O Isuse
+3.
+4.
+
+[s3]
+5. Când în slavă vei veni
+Doamne după ai Tăi copii
+Azi mi-e dor de-a Ta venire
+Vino, vino scumpe Mire
+O Isuse, O Isuse
+
+[order]
+s1,s2,s3

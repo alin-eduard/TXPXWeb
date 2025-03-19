@@ -1,0 +1,41 @@
+[s1]
+Colo sus pe deal, singură plângând,
+Doar o femeie mai era,
+Maria se numea, în zori ea tot plângea,
+Privind pe Cel ce Îl iubea.
+Cel crucificat, e cel fără păcat,
+Nădejdea şi iubirea ei.
+Bătut, însângerat, cu spini încoronat,
+Mare era durerea ei.
+
+[r1]
+/: O, Marie, nu mai plânge,
+O, Marie, nu ştii tu
+Ce Scriptura ne spunea,
+A treia zi El va-nvia. :/
+
+[s2]
+Dar a treia zi, chiar în zori de zi
+Înspre mormânt ea a plecat,
+Deodată a observat şi s-a speriat,
+Cineva piatra-a răsturnat.
+Plângea lângă mormânt,
+Dar lângă ea Cel sfânt,
+Când Îi rosteşte numele,
+Ea I s-a-nchinat şi s-a bucurat,
+Domnul ei drag a înviat.
+
+[s3]
+Apoi a auzit vocea lui Isus
+Pe când se întuneca,
+S-a isprăvit, apoi El a murit,
+Maria nu înţelegea.
+
+[s4]
+/:O, Marie, nu mai plânge,
+O, Marie, nu ştii tu
+Ce Scriptura ne spunea,
+A treia zi El va-nvia.:/
+
+[order]
+s1,r1,s2,r1,s3,s4

@@ -1,0 +1,63 @@
+[s1]
+1402.
+1.  Isuse iubirea Ta
+Mi-a răpit inima mea
+Poftele chiar şi lumea
+Nu au ce căuta-n ea.
+2.  În inimă s-a născut
+Tatăl Fiul Duhul Sfânt
+Fiindcă prea mult ne-a iubit
+Fie doară preamărit.
+
+[s2]
+Doamne-ţi dau inima mea
+Fă doar ce voieşti cu ea
+Toarnă-n inimă iubire
+Dragostea şi-nţelepciune.
+4.   Să iubesc pe-ai mei duşmani
+De mi-ar cere chiar şi bani
+Să ajut cum voi putea
+Chiar înapoi să nu mii dea.
+
+[s3]
+Cine-i bun şi credincios
+Are Duhul lui Hristos
+Prin răbdări şi umilinţă
+Va avea el biruinţă.
+6.  Cine-i rău şi arţăgos
+N-are Duhul lui Hristos
+Se lasă condus de fire
+Ca să n-aibă mântuire.
+
+[s4]
+Ascultă iubite frate
+Lasă firea la o parte
+Nu te lăsa frate-nvins
+Căci ştii bine cum e scris.
+8.  La Evrei cu doisprezece
+Bine cine înţelege
+Firea-i  voitor de rău
+Contra sufletului tău.
+
+[s5]
+9.  Cine are Duhul Sfânt
+Are roade pe pământ
+Este blând şi umilit
+El dă pâinea la flămânzi.
+10.  El din dragoste ascultă
+Pe săraci el îi ajută
+Vorba nu şi-o ia înapoi
+Îmbracă şi pe cei goi.
+
+[s6]
+11.  Rabdă şi sufere tot
+Pentru Domnul Savaot
+Căci toată iubirea ta
+Va vorbi-n toată lumea.
+12.  Şi faptele despre tine
+V-or duce vestea-n lume
+Ori eşti bun ori de eşti rău
+Plata e la Dumnezeu.
+
+[order]
+s1,s2,s3,s4,s5,s6

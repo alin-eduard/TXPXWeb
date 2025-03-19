@@ -1,0 +1,23 @@
+[s1]
+1605
+1.Am venit înaintea Domnului
+Cu ce am avut mai scump pe lume
+Iam dat sufletul şi inima Domnului Isus
+
+[s2]
+Cor: Da la Isus întoarcete omule
+Cât se mai zice astăzi
+Chiar acum întoarcete la Isus.
+
+[s3]
+2.Ai grijă omule că astăzi, lumea
+Te amăgeşte cu plăcerile-ei deoclipa
+Întoarcete la Isus chiar azi.
+
+[s4]
+Cor: Căci la Isus găseşti alinare
+Căci lumea îţi dă amar
+Întoarcete la Isus chiar acum
+
+[order]
+s1,s2,s3,s4

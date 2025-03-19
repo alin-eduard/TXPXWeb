@@ -1,0 +1,23 @@
+[s1]
+1. Vino Mire drag odată
+/: Vino şi ne ia :/
+Sus în slava Ta
+În grădina minunată.
+2. Căci ajunşi de-atâtea valuri
+/: Mire minunat :/
+Singur ne-ai lăsat
+Vin' de scoate-ne la maluri.
+846.
+
+[s2]
+3. Vin din slăvile senine
+/: Hai din sfinte zări :/
+Mii de sărbători
+Să ne-nveselim cu Tine.
+4. Căci de-atâţia ani te-aşteaptă
+/: Dorul meu aprins :/
+Viaţa mi-a cuprins
+Vino Mire drag odată.
+
+[order]
+s1,s2

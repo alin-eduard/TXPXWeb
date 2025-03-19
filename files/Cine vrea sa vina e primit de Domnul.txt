@@ -1,0 +1,18 @@
+[s1]
+Cine vrea să vină e primit de Domnul
+Cine vrea să vină e primit de El !
+Cine vrea să vină e primit de Domnul
+Şi nu va fi respins.
+
+[r1]
+/: Isus, Isus vindecă inimi frînte :/ (3x)
+Isus, numai El !
+
+[s2]
+Tu, cel apăsat şi obosit de viaţă
+Tu, cel chinuit azi de păcatul tău
+Vino-aşa cum eşti la Domnul tău, Isus
+Şi nu vei fi respins !
+
+[order]
+s1,r1,s2,r1

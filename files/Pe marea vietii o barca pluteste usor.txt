@@ -1,0 +1,38 @@
+[s1]
+Pe marea vieţii
+O barcă pluteşte uşor...
+E noapte-ntunecoasă
+Şi cerul e plin de nori.
+
+[r1]
+/: Te aşteptăm Isuse
+Să vii să stai lângă noi.
+E noapte-ntunecoasă
+Şi cerul e plin de nori. :/
+
+[s2]
+Odată pe mare
+Isus pe-nserate era
+Cu barca pe valuri
+Uşor se legăna.
+
+[s3]
+Dar atunci furtuna
+În barcă puternic lovi
+Şi toţi ucenicii
+S-au neliniştit.
+
+[s4]
+Isus cu blândeţe
+Furtuna îndat-a mustrat
+Căci El şi natura
+Conduce minunat.
+
+[s5]
+Răsare lumina,
+Oriunde vorbeşte Isus,
+În inima celui
+Ce-L ascultă supus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

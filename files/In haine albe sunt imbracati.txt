@@ -1,0 +1,26 @@
+[s1]
+În haine albe sunt îmbrăcaţi,
+Ca un mănunchi sfânt stau adunaţi;
+Sunt mărturia Mielului Sfânt,
+Şi au pe buze cerescul cânt.
+
+[r1]
+Sângele Mielului
+I-a spălat de păcat;
+Sunt pe veci înnoiţi
+De Isus, pentru El mântuiţi.
+
+[s2]
+Vin din necazuri, din strâmtorări,
+Şi-au spus un ”Amin” sfintei chemări;
+Ei sunt spălaţi în sânge Divin,
+Şi-I cântă: ” Slavă, Amin, Amin!”
+
+[s3]
+Din al lor număr, neam, seminţii
+De orice limbă, azi poţi să vii;
+Vino degrabă, tu eşti chemat,
+În haina albă poţi fi-mbrăcat.
+
+[order]
+s1,r1,s2,r1,s3,r1

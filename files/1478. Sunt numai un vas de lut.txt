@@ -1,0 +1,52 @@
+[s1]
+1478.   Mi b
+Sunt numai un vas de lut
+Dar de Dumnezeu făcut
+Sunt creat şi-s modelat
+De Dumnezeu  Preaînalt
+Toarnă-n mine untdelemnul
+Cu balsam vindecător
+Ia-mă pe-aripile Tale, Doamne
+Ca să-mi fie mai uşor
+
+[s2]
+2.  Sunt numai un trecător,
+Aici jos sunt călător
+Merg spre ţintă spre liman,	Vreau s-ajung în Canaan
+Toarnă-n mine untdelemnul
+Cu balsam vindecător
+Ia-mă pe-aripile Tale, Doamne
+Ca să-mi fie mai uşor
+
+[s3]
+3.  De multe ori sunt rănit
+De fraţii mei sunt hulit
+Duhuri Doamne mă urăsc
+Căci port chipul Tău ceresc
+Toarnă-n mine untdelemnul
+Cu balsam vindecător
+Ia-mă pe-aripile Tale, Doamne
+Ca să-mi fie mai uşor
+
+[s4]
+4.  Pe pământ nu am palate
+Sus în ceruri am un Frate
+Și-i bogat si noi vom fi
+Când pe nori ne-om întâlni
+Toarnă-n mine untdelemnul
+Cu balsam vindecător
+Ia-mă pe-aripile Tale, Doamne
+Ca să-mi fie mai uşor
+
+[s5]
+5. Doamne ţie-ţi mulţumesc
+Pentru harul Tău ceresc
+Cu Duh Sfânt m-ai botezat
+De păcate m-ai iertat.
+Toarnă-n mine untdelemnul
+Cu balsam vindecător
+Ia-mă pe-aripile Tale, Doamne
+Ca să-mi fie mai uşor
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,38 @@
+[s1]
+2166
+1. Îngenunchez, o, Domnul meu
+la Golgota
+Şi-mi amintesc de suferinţa Ta cea grea
+/: Şi Te privesc pe cruce sus în chinuri mari
+Răbdând ocara lumii-ntregi între tâlhari :/.
+
+[r1]
+Cor: /: Doamne Îţi mulţumesc pentru dragostea Ta
+Și Te preamăresc pentru
+jerfa Ta
+Pentru sângele vărsat, pentru
+chinul greu
+
+[r2]
+Doamne Îţi aducem slavă
+Te înălţăm mereu
+Mulţumim de mântuirea ce-am primit-o-n dar
+Doamne Te slăvim cu toţii pentru sfântu-Ți har :/.
+
+[s2]
+2. Îngenunchez aşa cum sunt primeşte-mă
+Păcatele m-apasă greu,
+O,iartă-mă
+/: Căci vreau să las a mea povară în mâna Ta
+La crucea Ta iertare-n dar să
+pot afla :/.
+
+[s3]
+3. De toţi ai fost dispreţuit
+şi părăsit
+Dar chiar şi atunci Isuse drag Tu ne-ai iubit
+/: De dragul meu şi-al lumii întregi Tu ai răbdat
+Prin moartea Ta cu Tatăl Sfânt ne-ai împăcat :/.
+
+[order]
+s1,r1,r2,s2,r1,r2,s3,r1,r2

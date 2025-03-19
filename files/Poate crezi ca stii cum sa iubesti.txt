@@ -1,0 +1,41 @@
+[s1]
+Poate crezi că ştii cum să iubeşti
+Şi e simplu să iubeşti cînd eşti iubit
+Dar Dumnezeu, cînd nu-L ştiam, muri
+El în locul meu, cu-adevărat iubind.
+
+[s2]
+Doamne, simt că totuşi mă iubeşti
+Iar eu pentru Tine n-am făcut nimic.
+Doamne, nu ştiu cum de mă iubeşti
+Şi iubirea-adevărată doar Tu eşti
+/: Doar Tu eşti ! :/
+
+[s3]
+Binecuvîntat să fii Tu, Doamne
+Şi dorinţa mea e ca să fii slăvit.
+Plin de dragoste şi bun Tu eşti
+Multe mi-ai promis prin al Tău Cuvînt.
+
+[s4]
+Doamne, simt că încă mă iubeşti
+Iar eu vremea am pierdut-o în zadar.
+Doamne, vreau de-acuma să lucrez
+Ajută-mi ca să rodesc prin al Tău har
+/: Al Tău har ! :/
+
+[s5]
+De chemarea Ta nu mă-ndoiesc
+Dar nu ştiu de ce mă vrei aşa de mult.
+N-am nimic bun să Îţi dăruiesc
+Oare nu vrei Tu pe cineva mai bun ?
+
+[s6]
+Totuşi vrei ca să mă foloseşti
+Şi eu vreau ca Ţie să Îţi fiu supus.
+Simt acum ce mult Tu mă iubeşti
+Şi mă vrei cu Tine-odată-n ceruri sus
+Cu Isus, cu Isus, în cer sus !
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,35 @@
+[s1]
+1. De ce nu vii la Isus
+De ce nu vrei să-L primeşti
+Oricine ai fi ai să mori
+Curând pe pământ nu mai eşti.
+332.
+
+[r1]
+Cor: /:Spune-i azi lui Isus Da Da:/
+Spune-i azi lui Isus
+/:Vino astăzi nu mai sta
+Vino azi la Mesia
+Vino acum nu-ntârzia
+Mâine nu-i ziua ta:/.
+
+[s2]
+2. De ce mai stai hai vino
+Nu întârzia nicicând
+Când viaţa ţi-e amară
+Spune-i Lui orişicând.
+
+[s3]
+3. Oriunde ai vrea să te ascunzi
+Şi-ai vrea să fii fericit
+Orice ai vrea ca să faci
+De ce ţi-e frică nu scapi.
+
+[s4]
+4. Ce nu poţi face tu
+Spune-i Isuse aş vrea
+Să las tot ce e rău
+Să merg pe calea Ta.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

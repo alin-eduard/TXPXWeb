@@ -1,0 +1,28 @@
+[s1]
+Romania timpul tau este aproape
+Domnul nostru isi revarsa ungerea,
+Ii auzi chemarea sfanta
+El sa te ridice vrea,
+Si sa duci in lumea-n-treaga dragostea Sa.
+
+[s2]
+/: Romania hai ridicate
+peste tine El straluceste,
+Romania timpul tau e-acum
+Te doreste Dumnezeu. :/
+
+[s3]
+Timpul tau biserica este aproape
+Domnul nostru isi revarsa ungerea,
+Ii auzi chemarea sfanta
+El sa te ridice vrea,
+Si sa duci in lumea-n-treaga dragostea Sa.
+
+[s4]
+/: Biserica hai ridicate
+peste tine El straluceste
+Biserica timpul tau e-acum
+/: Te doreste Dumnezeu :/
+
+[order]
+s1,s2,s3,s4

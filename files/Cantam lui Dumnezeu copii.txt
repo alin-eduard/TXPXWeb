@@ -1,0 +1,32 @@
+[s1]
+Cantam lui Dumnezeu, copii
+Cantari de lauda-n vecii,
+Caci El e Tatal nostru sfant
+Si sus in cer, si pe pamant.
+
+[r1]
+Preamarim, preamarim
+Pe Dumnezeul ce sublim
+Noi, copiii-L laudam,
+/: Lui smeriti ne inchinam. :/
+
+[s2]
+Cantam lui Dumnezeu cu foc
+In orice timp si-n orice loc,
+Caci El ni-I Tata minunat
+Sa-L laudam cu cant curat!
+
+[s3]
+Cantam lui Dumnezeu, Cel drept
+Cu flacara nestinsa-n piept.
+Caci El ni-I Tata preaiubit
+Ce prin Hristos ne-a mantuit.
+
+[s4]
+Cantam, cantam lui Dumnezeu
+Cantari de lauda mereu,
+Caci El e Tatal celor vii.
+Din El venim si noi, copii!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

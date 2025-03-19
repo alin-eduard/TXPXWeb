@@ -1,0 +1,31 @@
+[s1]
+1. Ostenită inima mea..
+Împovărată, grea
+Vin la mine zice Isus
+Să ai pace.
+2. Are ceva semne pe El
+Ca să-L cunoaştem
+Are pe mâini,
+Pe picioare tot rane.
+745.
+
+[s2]
+3. Ca împărat are pe cap
+Semnul învingerii
+O cunună grea,
+Amară tot de spini.
+4. Şi dacă eu îl voi urma
+Ce-mi va fi plată
+Strâmtoare, osteneală, lacrime.
+
+[s3]
+5. Iar credincios dacă voi fi
+Ce voi mai primi
+Bucurie şi odihnă vei găsi.
+6. Strigând ca să mă primească
+Oare zice-ar nu
+Mai degrabă trece
+Cerul, pământul.
+
+[order]
+s1,s2,s3

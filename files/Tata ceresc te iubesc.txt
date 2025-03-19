@@ -1,0 +1,23 @@
+[s1]
+Tată ceresc, Te iubesc
+Şi Te slăvesc,
+Fii glorificat în veci de veci!
+Fii glorificat, fii glorificat,
+Fii glorificat în veci de veci!
+
+[s2]
+Scumpe Isus, Te iubesc
+Şi Te slăvesc,
+Fii glorificat în veci de veci!
+Fii glorificat, fii glorificat,
+Fii glorificat în veci de veci!
+
+[s3]
+Duh Sfânt ceresc, Te iubesc
+Şi Te slăvesc,
+Fii glorificat în veci de veci!
+Fii glorificat, fii glorificat,
+Fii glorificat în veci de veci!
+
+[order]
+s1,s2,s3

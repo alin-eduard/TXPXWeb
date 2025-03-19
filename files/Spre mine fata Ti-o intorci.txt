@@ -1,0 +1,26 @@
+[s1]
+Roagă-te cu râvnă, roagă-te bine
+Urmându-L pe Isus
+Căci El te va duce în patria Sa
+În casa cea de sus.
+
+[r1]
+/: Sus fraţilor, rugaţi-vă
+Vine Mirele
+De ce mai adormiţi, deşteptaţi-vă
+C-au sosit zorile. :/
+
+[s2]
+Ce măreţ va fi la Domnul păcii
+Unde n-o fi noapte,
+Ochii mei vor vedea în ceruri slava Sa
+Acolo nu-i noapte.
+
+[s3]
+Noapte nu va mai fi, lumina va luci,
+Îngerii-o să cânte,
+Acolo vom intra şi ne-om bucura
+În casa Lui sfântă.
+
+[order]
+s1,r1,s2,r1,s3,r1

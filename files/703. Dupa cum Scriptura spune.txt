@@ -1,0 +1,60 @@
+[s1]
+1. După cum Scriptura spune
+Mărturie tuturor
+Că-n curând soseşte Domnul
+Ca să-şi ia al Său popor.
+703.
+
+[r1]
+Cor:  Fii gata întotdeauna
+Candela să-ţi fie plină
+Haina să-ţi fie curată şi spălată
+Şi să n-aibă nici o pată
+Niciodată
+Candela să-ţi ardă întruna (una 2x)
+Şi vei câştiga cununa.
+
+[s2]
+2. Întoarce-te la Hristos
+Până încă tu mai poţi
+Până când El te mai cheamă
+Până El te mai îndeamnă.
+
+[s3]
+3. Căci la urmă a fi târziu
+Uşa se va zăvorî
+Ai să strigi atunci plângând
+Nimeni nu te-a auzi.
+
+[s4]
+4. Pregăteşte astăzi haina
+Strigă acuma Duhul Sfânt
+Căci în vremea care vine
+S-auzi trâmbiţa sunând.
+
+[s5]
+5. Multă vreme până atunci
+Nu mai este dragul meu
+Strigătul pe munţi se aude
+Vino puiule de cerb.
+
+[s6]
+6. Doamne, zice Mireasa
+Duhul strigă acuma
+Vino şi ne du acasă
+Unde plânsul încetează.
+
+[s7]
+7. Şi ne du cu Tine-n slavă
+Toţi în jur la a Ta masă
+Cu martorii din vechime
+Cu Avraam şi cu Ilie.
+
+[s8]
+8. Mi-i dor de Tine să vii
+Te aşteaptă ai Tăi copii
+Răsari Luceafăr dorit
+Căci noaptea e pe sfârşit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1,s8,r1

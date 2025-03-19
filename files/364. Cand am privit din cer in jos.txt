@@ -1,0 +1,75 @@
+[s1]
+1. Când am privit din cer în jos
+Înspre omul păcătos
+Şi-am văzut că s-a pierdut
+Milă de el Mi s-a făcut.
+364.
+
+[r1]
+Cor: Ah, pune-ţi azi hotarul
+Schimbă-ţi astăzi planul
+Că atunci când am să vin
+Să te scap de chin.
+
+[s2]
+2. Am căutat să vin la tine
+Omule de pe pământ
+Să te scap din grea durere
+Şi să te fac mântuit.
+
+[s3]
+3. Eu te-am scos cu mila Mea
+Ca să-ţi dau mântuirea
+Dar tu nu te înturna
+Înapoi cu inima.
+
+[s4]
+4. Ca Israel în trecut
+Prin pustie au căzut
+Din aşa mulţime mare
+Numai doi aveau scăpare.
+
+[s5]
+5. Aşa zice chiar Hristos
+Uite de unde te-am scos
+Din mocirla cea mai groasă
+Şi din lumea păcătoasă.
+
+[s6]
+6. Nu te încurca cu lumea
+Şi încă stai tot pe loc
+Să nu vină ziua aceea
+Ca să te trimit în foc.
+
+[s7]
+7. Dorul meu arde şi azi
+Ca să te scap din necaz
+Dar tu dacă nu vrei
+Fericirea n-o să o ai.
+
+[s8]
+8. Suflete aceea ce faci
+Tu Mie nu poţi să-mi placi
+De nu faci ce Eu ţi-am spus
+Nu ajungi la Mine sus.
+
+[s9]
+9. Când bat Eu la uşa ta
+Te grăbeşti a încuia
+Dar când bate celălalt
+Te grăbeşti deschizi în larg.
+
+[s10]
+10. Dacă tot vei sta aşa
+Să nu crezi că vei scăpa
+Ca să scapi tu de păcat
+Ca să nu fii judecat.
+
+[s11]
+11. Eu acum mai stau puţin
+Şi apoi mă pornesc să vin
+Dar ziua când o să vie
+Nimenea nu poate ştie.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1,s8,r1,s9,r1,s10,r1,s11,r1

@@ -1,0 +1,20 @@
+[s1]
+Toate-s trecătoare pe acest Pămînt
+Numai Tu, Isuse, eşti etern şi sfînt.
+Singură-i iubirea ce va rămînea
+Sus pe lemnul crucii de la Golgota
+
+[s2]
+Toate-s trecătoare, toate-au un sfîrşit
+Bogăţii sau faimă, toate sînt nimic.
+Singura comoară ce o poţi avea
+Este mîntuirea pentru viaţa ta.
+
+[s3]
+Toate-s trecătoare fără Dumnezeu
+Toate se destramă fără harul Său.
+Singura speranţă ce îmi dă puteri
+E ca Se va-ntoarce să ne ducă-n cer
+
+[order]
+s1,s2,s3

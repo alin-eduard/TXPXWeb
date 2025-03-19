@@ -1,0 +1,72 @@
+[s1]
+E scris că harul
+de la neamuri se va ridica
+Şi uşa într-o zi se va-ncuia
+Se împlinesc cuvintele slăvitului Isus
+Aşa cum ucenicilor le-a spus
+Fa M
+6
+
+[s2]
+Biserică păstrează dar
+credinţa ce-ai primit
+Păstrează nostalgia
+cercetării ce-ai simţit
+Fecioară aşteptarea
+în curând se va sfârşi
+Vegează că-n curând
+El va veni
+5
+
+[s3]
+Smochinul, care două
+mii de ani a fost uscat
+Smochinul blestemat azi rod a dat
+Copacii de asemeni
+cu putere înfrunzesc
+Venirea primăverii o .
+4
+
+[s4]
+A naşterii dureri
+le simte omenirea iar
+Dar iarăşi fericirea
+vine dup-acest amar
+Fecioară aşteptarea
+în curând se va sfârşi
+Veghează că-n curând
+El va veni.
+3
+
+[s5]
+Uleiul şi candela
+să veghezi ca să le ai
+Şi doftorie pentru ochi să-ţi iei Fecioară îţi ridic-apoi
+privirea ta în sus
+Aşteaptă-n orice clipă pe Isus
+2
+
+[s6]
+Să-ţi pui apoi nădejde-n
+harul ce va fi adus
+Cu slavă când pe nori
+veni-va Mirele Isus
+Fecioară aşteptarea
+în curând se va sfârşi
+Veghează ca-n curând
+El va veni
+1
+
+[s7]
+Biserică păstrează dar
+credinţa ce-ai primit
+Păstrează nostalgia
+cercetării ce-ai simţit
+Fecioară aşteptarea
+în curând se va sfârşi
+Vegează că-n curând
+El va veni
+0
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

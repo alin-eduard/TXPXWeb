@@ -1,0 +1,75 @@
+[s1]
+Din Beer-Seba Iacov se pornise
+In calatoria sa inspre Haran
+Dupa cum Isaac ii poruncise
+Sa ramâna la Padan-Aram.
+Dupa-o zi de grea calatorie
+Seara se lasase si el s-a oprit
+Caci lumina Soarelui cea vie
+Coborâse catre asfintit.
+
+[s2]
+Iacov isi luase-n graba-o piatra
+Si o puse astfel sub capul lui.
+O, Doamne, ce noapte minunata
+Sa dormi in mijlocul pustiului !
+Iacov isi luase-n graba-o piatra
+Si o puse astfel sub capul lui.
+O, Doamne, ce noapte minunata
+Singur sa dormi in mijlocul pustiului
+
+[s3]
+Dar in somnu-i adinc el deodata
+E cuprins in vraja unui vis stingher
+El vede o scara rezemata
+De pamint, ce ajungea la cer.
+Iar pe-aceasta scara, fara-ncetare
+Se plimbau cind in sus si cind in jos
+Ingerii Dumnezeului cel mare -
+Iata, dragii mei, ce vis frumos !
+
+[s4]
+Iar Domnul sta privind
+deasupra scarii
+Si lui Iacov astfel ii cuvinta :
+Pamintul pe care dormi, Eu tie
+Si semintiei tale-l voi da !
+
+[s5]
+Te vei intinde la-apus si la rasarit
+La miazanoapte si pina la miazazi
+Si toate popoarele Pamintului
+Binecuvintate-n tine-or fi.
+Eu sint cu tine si te voi pazi
+Te voi aduce de unde vei merge iar
+Vei locui cu ai tai in pace
+Si iti voi largi al tau hotar.
+
+[s6]
+Plin de frica, Iacov atunci isi zise:
+Acest loc - cit e de minunat!
+Caci aici e casa lui Dumnezeu
+Si poarta cerului instelat!
+
+[s7]
+Si sculindu-se dis-de-dimineata
+A luat piatra si a-nfipt-o in pamint
+Punind-o ca stilp de aducere-aminte
+Pentru Cel ce este vesnic sfint.
+Iacov a facut o juruinta
+Ca daca Domnul in viata-l va ocroti
+Si ii va da tot ce are nevoie
+Domnul Dumnezeul lui va fi.
+
+[s8]
+El I-a dat de-atunci a zecea parte
+Din tot ce Domnu-n viata i-a dat
+De aceea Iacov pin, la moarte
+Sa-L slaveasca nu a incetat.
+El I-a dat de-atunci a zecea parte
+Din tot ce Domnu-n viata i-a dat
+De aceea Iacov pin, la moarte
+Sa-L proslaveasca pe Domnul el n-a incetat.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

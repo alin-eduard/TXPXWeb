@@ -1,0 +1,31 @@
+[s1]
+Salvatorul bun te cheamă,
+vino şi vezi!
+La ospăţ cu drag te-ndeamnă, vino şi vezi!
+
+[r1]
+Vestea peste tot să sune
+Deal şi vale să răsune
+Isus iartă pe oricine
+Vino şi vezi!
+
+[s2]
+Spune la mic şi la mare,
+vino şi vezi!
+Că primesc din cer iertare,
+vino şi vezi!
+
+[s3]
+Vino înaintea nopţii,
+vino şi vezi!
+Nu-amîna în clipa morţii,
+vino şi vezi!
+
+[s4]
+Vino la ospăţul nunţii,
+vino şi vezi!
+La un loc să cînţi cu sfinţii,
+vino şi vezi!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

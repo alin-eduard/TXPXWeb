@@ -1,0 +1,27 @@
+[s1]
+Cetate ce cobori din ceruri
+Ierusalime, te ador
+Împodobit cu străzi de aur
+Creat de Domnul Savaot.
+1094.                                                                                                                                                       Re m
+
+[r1]
+/: Ierusalime, cu dor te aşteptăm
+O, Doamne Isus, noi Te chemăm
+La Tin’ uita-vom de lacrimi pe obraz
+De chin, de moarte şi de necaz. :/
+
+[s2]
+Avem nădejde că odată
+Ne vom vedea acolo sus
+Acolo-n sfânta-mpărăţie
+Ierusalimul cel de sus.
+
+[s3]
+Doresc să-i văd pe toţi aceia
+Ce în credinţă-au adormit
+Şi să ne bucurăm întruna-n
+Ierusalimul fericit.
+
+[order]
+s1,r1,s2,r1,s3,r1

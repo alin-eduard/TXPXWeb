@@ -1,0 +1,30 @@
+[r1]
+Pe-ntregul pământ,
+Pe-ntregul pământ,
+Al Tău Duh lucrează,
+Pe-ntregul pământ.
+Râul Tău curge,
+Prezenţa Ta e-aici
+Al Tău Duh lucrează,
+Pe-ntregul pământ.
+
+[s1]
+Atingi naţiunile,
+Ţi-aduci dragostea,
+Al Tău Duh lucrează,
+Pe-ntregul pământ.
+
+[s2]
+Steagul Tău e-nălţat,
+lauda Ţi-e cântată,
+Al Tău Duh lucrează,
+pe-ntregul pământ.
+
+[s3]
+Dispar dezbinările,
+Tu ne uneşti,
+Al Tău Duh lucrează,
+Pe-ntregul pământ.
+
+[order]
+r1,s1,r1,s2,r1,s3

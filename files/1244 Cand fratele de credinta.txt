@@ -1,0 +1,47 @@
+[s1]
+Când fratele de credinţă
+De rău te vorbeşte
+Ia zile de jertfă
+Şi spre cer priveşte
+1.
+1244
+
+[s2]
+Cor: 	Dar să nu priveşti de rău
+Când te-ncearcă Dumnezeu
+Căci El vrea să-ţi dea ţie
+Viaţă pe vecie
+Nu cârti-n inima ta
+Când te-ncearcă Mesia
+Căci El vrea să stai mereu
+Lângă Dumnezeu
+Când te bate frate
+Şi haina ţi-o cere
+Dă jos şi cămaşa
+Dă-I-o cu plăcere
+2.
+
+[s3]
+Când orfanul plânge
+Că nu are pâine
+Vizitează-l frate
+C-ai să faci mult bine
+Cor: 	Dar să nu priveşti de rău
+Când te-ncearcă Dumnezeu
+Căci El vrea să-ţi dea ţie
+Viaţă pe vecie
+Poţi să fii credincios frate
+De la naştere la moarte
+Toate sunt deşărtăciune
+Fără fapte bune.
+3.
+
+[s4]
+Văduva te-aşteaptă
+Plânge cu amar
+Vizitează-o frate
+Nu-ţi va fi-n zadar
+4.
+
+[order]
+s1,s2,s3,s4

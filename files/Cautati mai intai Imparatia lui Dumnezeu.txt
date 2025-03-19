@@ -1,0 +1,24 @@
+[s1]
+Căutaţi mai întai
+Împărăţia lui Dumnezeu
+Şi neprihănirea Lui
+Şi toate-aceste lucruri vi se vor da
+Pe deasupra, Aleluia!
+/: Aleluia, Aleluia, Aleluia ! :/ (4x)
+
+[s2]
+Credeţi şi vi se va da;
+Căutaţi şi veţi găsi;
+Bateţi şi vi se va deschide.
+Aleluia, Aleluia !
+/: Aleluia, Aleluia, Aleluia ! :/ (4x)
+
+[s3]
+Omul nu trăieşte numai cu paine
+Ci şi cu orice cuvînt
+Care iese din gura lui Dumnezeu
+Aleluia, Aleluia!
+/: Aleluia, Aleluia, Aleluia ! :/ (4x)
+
+[order]
+s1,s2,s3

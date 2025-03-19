@@ -1,0 +1,38 @@
+[s1]
+1589
+1.În nemărginita-Ți milă
+Doamne oare poţi ierta
+Marea şi adânca-mi vină
+Şi păcatu-mi a-l uita
+
+[s2]
+Cor:Isus vin la Tine vin
+Aşa cum sunt la Tine vin
+Isus vin la Tine vin
+Aşa cum sunt azi vin
+
+[s3]
+2.Am trăit o viaţă tristă
+Înfruntând mânia Sa
+Inima-mi stătea închisă
+Când a Lui însângera
+
+[r1]
+Cor:Isus vin la Tine vin
+Aşa cum sunt la Tine vin                Isus vin la Tine vin
+Aşa cum sunt azi vin
+
+[s4]
+3.O Isus vreau din suflet
+Să mă dau ţie pe veci
+Luminează al meu suflet
+De la mine să nu pleci
+
+[s5]
+4.Aleluia slavă Ţie
+M-ai scăpat de jugul greu
+Înspre a ta împărăţie
+Duce de-astăzi drumul meu
+
+[order]
+s1,s2,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,10 @@
+[s1]
+Haide-ţi să-I aducem jertfe în templul sfânt
+Jertfe de laudă Numelui Său sfânt Cu buzele să-L slăvim
+Din inima să-L preamărim
+Să-I aducem jertfe sfinte
+Să-I aducem slavă
+În templul sfânt.
+
+[order]
+s1

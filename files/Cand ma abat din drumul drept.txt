@@ -1,0 +1,36 @@
+[s1]
+Când mă abat din drumul drept,
+Când nu mai pot tristeţea duce,
+Mă sui pe munte, sus la cruce,
+Şi-nvăţ să sufăr şi s-aştept,
+Chiar dacă drumul nu e drept.
+
+[r1]
+/: Mă sui pe munte,
+Mă duc la Golgota
+Şi-nvăţ să rabd,
+Din iubirea Ta... :/
+
+[s2]
+Când poftele din nou mă-nping
+Spre iad, spre gropile genunii,
+Te chem, prin duhul rugăciunii,
+Şi toate poftele le-nving,
+Şi pofta firii o resping.
+
+[s3]
+Când glasul firii e-n tumult,
+Când grija lumii e fierbinte,
+De jertfa Ta mi-aduc aminte,
+Şi-nvăţ, Isuse, să Te-ascult,
+Chiar dacă firea e-n tumult.
+
+[s4]
+Când bucuriile-nfloresc,
+În glastra inimii ascunsă,
+Mă uit la palma Ta, străpunsă,
+Şi-nvăţ mai mult să Te iubesc!
+Isuse, pot să Te iubesc!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

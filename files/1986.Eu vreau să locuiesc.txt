@@ -1,0 +1,37 @@
+[s1]
+1986
+1. Eu vreau să locuiesc
+În pragul casei Tale
+Şi să mă bucur de prezenţa Ta
+Să-ţi laud numele preasfânt şi mare
+Şi să te preamăresc totdeauna
+Eu vreau să simt iubirea Ta de Tată
+Să stau Doamne lângă al Tău izvor
+Să beau pe veci din apa Ta curată
+Şi să-mi alin sufletul meu arzător.
+
+[s2]
+2. Să pot vibra în Duh
+La vocea Ta duioasă
+Să strig Osana când Te simt trecând
+Să-mi spui din nou
+Că am în cer o casă
+Să mă inunde iar susurul blând
+Să mă ascund sub mantia de raze
+Şi să Te simt de mână cum mă ţii
+Să fiu purtat de ape vii şi oaze
+Care ţâşnesc spre Tine-n veşnicii.
+
+[s3]
+3. Iubirea Ta Isus
+Aş vrea să-mi ardă-n suflet
+Şi tuturor cu drag să o pot da
+Să fiu curat în cuget şi în umblet
+Şi pacea Ta pe veci s-o pot avea
+Lumina Ta să-mi fie călăuză
+În miez de noapte pe cărarea mea
+Iar când mai cad şi cel rău mă acuză
+Ajută-mă să merg la Golgota.
+
+[order]
+s1,s2,s3

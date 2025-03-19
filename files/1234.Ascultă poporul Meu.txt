@@ -1,0 +1,53 @@
+[s1]
+1.Ascultă poporul Meu
+Ce-Ţi vorbesc acum Eu
+Da Eu fiu de Dumnezeu
+Vorbesc în mijlocul tău.
+2.Şi să iei tu bine seama
+Ca să nu te umple teama
+Toţi acei ce s-au întinat
+Harul meu nu l-au păstrat
+1234.
+
+[s2]
+3.Dar Eu Mire glorios
+Vin pe cerul luminos
+Ca să-Mi iau poporul meu
+Şi să-L duc unde sunt Eu
+4.Toţi acei ce s-au păstrat
+Şi-n inimă m-au purtat
+Cu mine s-ar bucura
+Sus în cer la masa Mea
+
+[s3]
+5.Ascultă poporul meu
+Ce-ţi vorbesc acum Eu
+Te opreşte-n drumul tău
+Şi zici către bine rău
+6.Pe tine Te-am răscumpărat
+Prin sângele meu vărsat
+Pentru tine Eu suspin
+Că te duci în foc şi chin
+
+[s4]
+7.Cum mor Eu în locul tău
+Pe Calvar în chinul greu
+Te aştept în drumul meu
+Să ştii cei bine şi rău
+8.Şi-ţi pui firea înainte
+Şi spui că Duhul Meu minte
+Şi iar te-ai răzgândit
+Pe Mine M-ai răstignit
+
+[s5]
+9.Căci acei ce nu s-au păstrat
+De Domnul s-au lepădat
+A lor soartă grea va fi
+Căci în iad se vor munci
+10.Nu vrei să te umileşti
+Tot mai tare Mă huleşti
+Nu vrei să te pocăieşti
+Cu dragoste să-Mi slujeşti
+
+[order]
+s1,s2,s3,s4,s5

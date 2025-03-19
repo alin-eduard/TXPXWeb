@@ -1,0 +1,36 @@
+[s1]
+1281.
+E o lume păgână cea în care trăim
+E plină de dureri, de amar şi de chin
+Oricât de aproape-i sfârşit nu zărim
+Când spaimele nopţii cu toţi le trăim
+/ : Nu-s azi rugăciuni ca şi-atunci când au fost
+Nu-s nopţile-n veghe nici zile de post
+N-avem nici voinţă nici râvnă n-avem
+De Tine departe nu ştim că suntem : /
+1.
+
+[s2]
+Urăşti nepăsarea în care dormim
+Şi scurte sunt zilele-n care trăim
+Iar adevărul ne costă prea scump
+Atunci când în El căutăm un răspuns
+/ : Nu văd bine ochii atunci când privesc
+Inima-i judecă pe cei ce greşesc
+Vina o văd doar a fratelui meu
+Şi-atunci când greşesc şi de vină sunt eu : /
+2.
+
+[s3]
+Şi totuşi prin har mai suntem ce suntem
+Căci roade şi fapte puţine avem
+Prin harul acesta ajută-mi s-aleg
+Căci roada mântuirii doresc s-o culeg
+/ : Nu vreau ca furtună ce bate acum
+La capăt de veac la sfârşit de drum
+Să spulbere credinţa şi ce-a mai rămas
+În iureşul luptei să nu mă laşi : /
+3.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,26 @@
+[s1]
+Văd crucea lui Isus la Golgota,
+Izvorul de har minunat,
+Acolo Isus prin moartea Sa
+Un loc pe veci în cer ne-a dat.
+
+[r1]
+Scumpă Golgota, sfântă Golgota,
+Eu voi sta veşnic în umbra Ta!
+Scumpă Golgota, sfântă Golgota,
+Isus a plătit vina mea.
+
+[s2]
+Găsesc biruinţă în încercări,
+Primesc mângâiere şi har,
+La cruce povara mea o las,
+Şi pacea o primesc în dar.
+
+[s3]
+Speranţele întregii veşnicii,
+În crucea lui Isus le-am pus,
+Prin sângele Lui vărsat pe lemn
+Şi pot intra în ceruri sus.
+
+[order]
+s1,r1,s2,r1,s3,r1

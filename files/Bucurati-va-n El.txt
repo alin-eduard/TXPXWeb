@@ -1,0 +1,17 @@
+[r1]
+Bucuraţi-vă-n El,
+Bucuraţi-vă-n Domnul
+Lăudaţi numele Lui cel Sfânt
+Este-un râu care curge
+şi-aduce din ceruri
+Viaţa în sufletul meu.
+
+[r2]
+Onoare şi laudă să-I dăm
+Lui Isus noi să ne închinăm
+Hai să ne bucurăm,
+Numele să-I ‘nălţăm
+Şi cu ceru-mpreună să-I cântăm.
+
+[order]
+r1,r2,r1,r2,r1,r2

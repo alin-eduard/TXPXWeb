@@ -1,0 +1,58 @@
+[s1]
+1634.               Re m
+1.Tineret la Domnul vino azi!
+Cu inima curată El te vrea
+Numai El te scapă de necaz,
+O vino, vino acum şi nu mai sta!
+
+[s2]
+Cor:/:Osana Ție:/ Isuse-ți cântăm!
+Să ne /:binecuvânţi:/
+Noi te rugăm!
+/:Ca laudă:/ viaţa noi îţi dăm
+Ţie Domn sublim!
+
+[s3]
+2.Nu umbla pe căi rătăcite.
+Căci ele duc la moarte în curând.
+Pe calea ce Isus te duce,
+Vei merge cu bucurie cântând.
+
+[s4]
+Cor:/:Osana Ție:/ Isuse-ţi cântăm!
+Să ne /:binecuvânţi:/
+Noi te rugăm!
+/:Ca laudă:/ viaţa noi îţi dăm
+Ţie Domn sublim!
+
+[s5]
+3.Spulberă din inimă tot!
+Deschide-o lui Isus,
+Cât mai eşti viu!
+Mâine cine ştie de-ai să poţi?
+Se pare că să fie prea târziu.
+
+[s6]
+Cor:/:Osana Ție:/ Isuse-ţi cântăm
+Să ne /:binecuvânţi:/
+Noi te rugăm!
+/:Ca laudă:/ viaţa noi îţi dăm
+Ţie Domn sublim!
+
+[s7]
+4.Glasul Domnului tu să-l asculţi
+Şi-n inimă primeşte-L nu-l lasa!
+El te face slobod de păcat,
+O vino,vino acum şi nu-l lăsa!
+
+[s8]
+Cor: /:Privește azi:/
+Spre tineretul tău!
+/:Cu mâna ta:/
+Tu să-i fereşti de rău!
+/:Şi-n gura lor:/
+Tu să le pui cuvânt,
+Pe acest pământ!:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

@@ -1,0 +1,32 @@
+[s1]
+Insingurat, cautam
+ce in lume n-am gasit,
+Insingurat, cautam;
+Ca sa gasesc linistea, pacea fara sfarsit,
+Insingurat, cautam;
+Dar dragostea lui Isus,
+disperarea mi-a oprit,
+Doar dragostea lui Isus!
+Divina pace, acum, inima mi-a incalzit,
+Prin dragostea lui Isus
+
+[r1]
+/: Acum, cu El, sunt fericit!
+Acum, cu El, sunt mantuit!
+Numai cu El pot ajunge sus,
+Prin jertfa sfanta si prin harul lui Isus :/
+
+[s2]
+Privesc acum, fericit,
+vindecat de orice rau,
+Privesc acum, fericit;
+Murdaru-mi strai El, Isus,
+l-a spalat prin chinul Sau;
+Privesc acum, fericit…
+Cu mila Lui m-a cuprins,
+decazut si pacatos;
+O viata-ntreaga-am sa spun ca doar El, Isus Hristos,
+Cu mila Lui m-a cuprins!
+
+[order]
+s1,r1,s2,r1

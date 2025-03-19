@@ -1,0 +1,43 @@
+[s1]
+1. Inimi lângă inimi strângem
+S-avem pace pe pământ
+O, veniţi cu toţi din arfe
+Să cântăm pe drumul sfânt.
+671.
+2. Fruntea-i El, noi mădulare
+Soare-i El, noi raza Lui
+El izvorul şi e mare
+Iar noi unda râului.
+
+[s2]
+3. Fii ai Tatălui Preasfântul
+Legământul întăriţi
+Şi făgăduiţi Cuvântul
+Că din inimă-L iubiţi.
+4. A iubirii înţelepciune
+Lanţul ei de va slăbi
+Stăruiţi în rugăciune
+Căci Isus îl va întări.
+
+[s3]
+5. Fraţi pe fraţi să se iubească
+Din tot sufletul aşa
+Încât unul pentru altul
+Viaţa însăşi să şi-o dea.
+6. Astfel ne-a iubit la vreme
+Încât sângele şi-a dat
+Din noi unul de s-ar pierde
+Cât ar fi de întristat.
+
+[s4]
+7. Adă vânt de înfrăţire
+În poporul Tău iubit
+Şi-l topeşte-ntr-o simţire
+După cum Tu ai voit.
+8. Una fă-i cu adevărul
+Să-i uneşti prin Duhul Tău
+Şi văpaia ta să ardă
+De la cuget tot ce-i rău.
+
+[order]
+s1,s2,s3,s4

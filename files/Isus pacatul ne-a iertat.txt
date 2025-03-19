@@ -1,0 +1,31 @@
+[s1]
+Isus păcatul ne-a iertat
+Cu sânge sfant El ne-a spălat
+Inima nostră El a sfinţit
+Şi Duhul Sfânt ne-a dăruit.
+
+[r1]
+/: Toţi să vină astăzi la Isus :/
+Şi să-L primească în inima lor
+Căci Isus vine în curând. :/
+
+[s2]
+Şi când trecem prin suferinţă
+Prin El avem biruinţă
+Şi învăţăm totul a răbda
+Trăind astfel spre slava Sa.
+
+[s3]
+Deci să rămânem credincioşi
+Doar Lui să-I fim noi de folos
+Şi să trăim spre slava Sa
+Căci numai El ne v-ajuta.
+
+[s4]
+Deci,vino şi tu,suflete dragă
+Pe tine azi te cheamă El
+Predă-I şi tu viaţa-ntreaga!
+Urmeaza-l pe Emanuel!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

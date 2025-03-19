@@ -1,0 +1,26 @@
+[s1]
+De noi fii slăvit
+pentru-al Tău Fiu iubit
+Ce pe crucea Golgotei
+Ca Miel L-ai jertfit.
+Aleluia, slavă Ţie! Aleluia, amin!
+Aleluia, slavă Ţie! Părinte divin!
+
+[s2]
+De noi fii slăvit,
+Domnul nostru iubit,
+Căci prin jertfa-Ţi măreaţă
+Tu ne-ai mântuit.
+Aleluia, slavă Ţie! Aleluia, amin!
+Aleluia, slavă Ţie! Isus, Miel divin!
+
+[s3]
+De noi fii slăvit,
+Sfinte Duh preaiubit
+Că viaţa cea nouă
+Tu ne-ai dăruit.
+Aleluia, slavă Ţie! Aleluia, amin!
+Aleluia, slavă Ţie! Duh de viaţă plin!
+
+[order]
+s1,s2,s3

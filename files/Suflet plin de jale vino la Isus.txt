@@ -1,0 +1,30 @@
+[s1]
+Suflet plin de jale,
+vino la Isus
+Spune-a ta-ntristare
+privind drept în sus
+Spune ce te doare,
+Domnului Isus
+Spune-I fără teamă
+şi-ţi va da răspuns!
+
+[r1]
+Vino azi la Isus,
+Nu mai amâna
+Şi va fi totul
+Spre fericirea ta!
+
+[s2]
+Spune-acestui Doctor şi Prieten bun
+Orice amărăciune şi orice suspin
+Căci Isus iubeşte pe toţi cei trudiţi
+Şi dă pace sfântă celor necăjiţi.
+
+[s3]
+El te înţelege în durerea ta
+Şi bucuros îţi dă mângăierea Sa
+Lacrimile-ţi şterge că şi El a plâns
+Vino doar la Domnul şi-i primi răspuns.
+
+[order]
+s1,r1,s2,r1,s3,r1

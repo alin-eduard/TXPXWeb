@@ -1,0 +1,31 @@
+[s1]
+Cuvîntul Lui se-ndreaptă către tine
+Dorinţa-I e să-L lauzi ne-ncetat.
+Durerea ta El vrea să o aline
+El vrea în faţa Sa să fii curat.
+
+[s2]
+De-aceea, Doamne,
+vrem Cuvîntul Tău să-L trăim
+Viaţa noastră vrem să Ţi-o predăm!
+Căci vina şi povara noastră
+toată ne-ai luat-o
+Îţi mulţumim, căci Tu ne-ai mîntuit!
+/: Ne-ai mîntuit ! :/
+
+[s3]
+Caută-L, prietene, plin de nădejde
+Căci numai astfel poţi fi mîntuit !
+Să vii încredinţat, şi nu te pierde -
+Prin harul Său azi poţi fi fericit !
+
+[s4]
+Isus îţi dă iertare dacă tu Îl iubeşti
+Te duce la El sus în veşnicii.
+Primeşte-L azi pe Isus
+Salvator în viaţa ta!
+Cu dragoste El te va mîntui
+/: Te va mîntui ! :/
+
+[order]
+s1,s2,s3,s4

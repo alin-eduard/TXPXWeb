@@ -1,0 +1,33 @@
+[s1]
+De mergi înainte
+păşind cu Dumnezeu
+Nu ai motive să-ţi fie teamă
+În clipe grele, ti-ntinde braţul Său
+Nu ai motive să-ţi fie teamă.
+
+[r1]
+Căci teama e o cursă
+întinsă de cel rău
+Care doreşte moartea
+Pentru sufletul tău
+De mergi înainte
+păşind cu Dumnezeu
+Nu ai motive să-ţi fie teamă.
+
+[s2]
+De mergi înainte
+păşeşte-ncrezător
+Nu ai motive să-ţi fie teamă.
+Cât timp e cu tine
+vei fi biruitor
+Nu ai motive să-ţi fie teamă.
+
+[s3]
+De mergi înainte,
+înapoi nu te uita
+Nu ai motive să-ţi fie teamă
+Pe calea vieţii cu tine-i, numai El,
+Nu ai motive să-ţi fie teamă.
+
+[order]
+s1,r1,s2,r1,s3,r1

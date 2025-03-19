@@ -1,0 +1,41 @@
+[s1]
+1312.
+1. Iubiţi fraţi şi dragi surori
+Nu mai staţi nepăsători
+Nu mai staţi în nepăsare
+În a Domnului lucrare
+Fiţi mereu în aşteptare.
+
+[s2]
+2.  Nu mai staţi nepăsători
+În a Domnului Sion
+Cântaţi plini de veselie
+Chemaţi-l pe el să vie
+Să ne facă o bucurie.
+3.  Să treacă prin adunare
+Ca să simtă fiecare
+Cauzele ce le avem
+Ca să le rezolve El
+Mirele Emanuel.
+
+[s3]
+4.  Căci aicea în popor
+Sunt dureri ce tare dor
+Dar Isus cu mâna Sa
+Poate să lege rana
+Crede-n El şi vei vedea
+5.  Strigaţi la Domnul Isus
+Să vină din cer de sus
+Printre rânduri ca să treacă
+Lacrimile ca să şteargă
+La cei ce-s loviţi în soartă
+
+[s4]
+6.  Ce-i ce-aveţi copii departe
+Plecând pe căi deşarte
+Strigaţi la Isus aşa
+Să se-ndure să le dea
+În dar mântuirea Sa.
+
+[order]
+s1,s2,s3,s4

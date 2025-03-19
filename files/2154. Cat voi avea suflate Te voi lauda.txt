@@ -1,0 +1,47 @@
+[s1]
+2154
+1. Cât voi avea suflare Te
+voi lăuda
+Căci Tu-ai salvat Isuse drag
+viața mea
+În sânge sfânt, Tu m-ai spălat  Și ai iertat al meu păcat
+Păstorul meu iubit
+fii binecuvântat.
+
+[s2]
+2. Când pe cărări străine
+pași-mi pribegeau
+Și-n întuneric mâini haine
+mă țineau
+Mi-ai dăruit lumina Ta
+Și viața din viața Ta
+Și pentru veci m-ai luat Isus
+în mâna Ta.
+
+[s3]
+3.	Chiar dacă și-astăzi ape vin în calea mea
+Mă-ncred în Tine Doamne-orice s-ar întâmpla
+Tu stâncă-mi ești și ajutor
+Și-n suflet foc mistuitor
+Mă-nchin și Te slăvesc
+iubit Mântuitor.
+
+[s4]
+4.	Când totu-n jur se schimbă, Tu rămâi mereu
+Același veșnic, sfânt,
+puternic Dumnezeu
+Ce-adâncă e iubirea Ta
+Ce mare e-ndurarea Ta
+Mărirea, slava, cinstea-n veci să fie a Ta.
+
+[s5]
+5. Cât voi avea suflare,
+Te voi lăuda
+Și sufletul meu Te
+va binecuvânta
+Chiar dacă toate s-ar sfârși  Cuvântul Tău va dăinui
+Și știu că Tu Isuse drag
+vei reveni.
+
+[order]
+s1,s2,s3,s4,s5

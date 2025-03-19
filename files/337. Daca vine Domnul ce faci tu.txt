@@ -1,0 +1,32 @@
+[s1]
+1. /:Dacă vine Domnul
+Ce faci tu? :/ (3 ori)
+Ce faci suflete.
+337.
+
+[s2]
+2. /:Vin suflete dragă
+La Isus aleargă
+Timpul trece, trece
+Şi tu eşti tot rece:/.
+
+[s3]
+3. /:Ai candela plină
+Gata de plecat
+Faţa ta-i senină
+Sau eşti întristat?:/.
+
+[s4]
+4. /:Casa ţi-e păzită
+Este întărită
+Când vine furtuna
+Să zâmbeşti întruna:/.
+
+[s5]
+5. /:Isus vine, vine,
+Vine pentru tine
+Dar veghează-ntruna
+Să nu-ţi pierzi cununa:/.
+
+[order]
+s1,s2,s3,s4,s5

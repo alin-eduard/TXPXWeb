@@ -1,0 +1,20 @@
+[s1]
+Preasfinte Creator
+Ce viaţa zămisleşti,
+/: Tu eşti izvorul dătător
+De bunuri pământeşti :/
+
+[s2]
+De mâna Ta făcut,
+Tu viaţa încă-mi ţii;
+/: Întotdeauna Ţi-a plăcut
+Părinte bun să-mi fii :/
+
+[s3]
+Revarsă-Ţi mila Ta,
+Greşelile să-mi ierţi,
+/: Prin Spiritul Tău pururea
+La Tine să mă-ndrepţi :/
+
+[order]
+s1,s2,s3

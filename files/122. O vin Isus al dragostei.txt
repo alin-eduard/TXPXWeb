@@ -1,0 +1,100 @@
+[s1]
+122.
+1. O vin Isus al dragostei
+Din ţara de departe
+De Tine eu mereu suspin
+Când sunt pe înserate.
+/: E noapte-n viaţa tuturor
+Şi mulţi tăciuni se sting şi mor
+Atunci când inima
+De dor îmi bate.:/
+
+[s2]
+2. Un dor nespus şi călător
+Atâţia ani de-a rândul
+Spre Tine Isuse îndurător
+Şi inima şi gândul.
+Cu lacrimi mult Te-am căutat
+/: Am plâns mereu şi Te-am aflat
+De-atunci de când
+Ţi-am auzit cuvântul. :/
+
+[s3]
+3. Acum eu urc pe acelaşi drum
+Nădejdea nu-i departe
+Şi nu pot înţelege-acum
+O lume ne desparte.
+/: Te văd Isuse în ceruri dus
+Cu zâmbetul pe buze pus
+Dar eu spre Tine
+Mă avânt departe. :/
+
+[s4]
+4. Te văd lumină care arzi
+Să luminezi pământul
+Să schimbi privirea tuturor
+Şi inima şi gândul.
+/: Lumina cea din veşnicii
+A tot aprins sute şi mii
+Umplând cu lumină
+Întreg pământul. :/
+
+[s5]
+5. Venim cu lacrimi la Tine
+Că ne-ai chemat Isuse
+Din lumea de suspin acum
+La bucurii nespuse.
+/: Căci nu-i necazul aşa de greu
+Însă vrăjmaşul foarte rău
+Ca să ne ia din braţul Tău Isuse :/
+
+[s6]
+6. Cu ură fără de răgaz
+Ce clocoteşte în lume
+Ţie iţi aruncă în obraz
+Pe noi să ne sugrume.
+/: Dar din credinţa ce-o avem
+Noi nu ne abatem nici de fel
+Căci Tu ne-ai dat atâta zel Isuse. :/
+
+[s7]
+7. O zi odată va veni
+Vei fi Stăpân pe toate
+Vei judeca şi răsplăti
+Cu veşnică dreptate.
+/: Deci lăsăm toate-n grija Ta
+Căci nu-i nimeni ca Tine aşa
+Căci Tu ştii cui plăteşti
+Şi acum pe toate. :/
+
+[s8]
+8. Iar din ţara fără hotar
+Atunci cântăm de bine
+Ca să-Ţi cântăm cerescul har
+Cântări de pace pline.
+/: Căci azi din lume mulţi ar vrea
+Să-Ţi cânte-n veci cântarea Ta
+Ce mii de chinuri
+Ar putea s-aline. :/
+
+[s9]
+9. Cu dor nespus azi Te chemăm
+Isuse dulce vino
+Să schimbi viaţa tuturor
+Să faci din ea lumină.
+/: Căci sunt destui care Te hulesc
+Pe Tine Te tăgăduiesc
+O vino acum când,
+Te chemăm Isuse. :/
+
+[s10]
+10. Acum când tot am părăsit
+Să Te slujim pe Tine
+Noi Te chemăm şi Te rugăm
+Când valuri vin nespuse.
+/: Prin harul Tău dă-ne ajutor
+Să biruim al vieţii dor
+Că-n toate eşti biruitor Isuse. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

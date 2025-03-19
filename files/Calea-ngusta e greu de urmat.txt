@@ -1,0 +1,26 @@
+[s1]
+Calea­ngustă e greu de urmat,
+Desfătări şi plăceri pe ea nu­s,
+Încercări vei avea de­nfruntat,
+Dar e calea ce duce în sus.
+
+[r1]
+Către cer, către cer,
+Pe a Domnului cale luptăm!
+Către cer, către cer,
+Bucuroşi pe Isus Îl urmăm!
+
+[s2]
+Viaţa­aceasta nu ţine­aşa mult,
+N­o trăi fără nici un folos!
+Mergi ’nainte luptând cu avânt,
+Călăuză îţi este Hristos!
+
+[s3]
+Uneori mari poveri ai de dus,
+Piedici multe vei întâmpina,
+Dar vei fi însoţit de Isus
+Şi cu El către cer vei urca.
+
+[order]
+s1,r1,s2,r1,s3,r1

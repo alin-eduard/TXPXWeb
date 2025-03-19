@@ -1,0 +1,38 @@
+[s1]
+/: Mână cu mână, toţi împreună,
+Să ne rugăm fraţilor!
+Până la sânge şi vom învinge
+Tainele ispitelor. :/
+
+[s2]
+/: Să ne rugăm! :/
+Aşa cum s-a rugat şi Ezechia-
+Să ne rugăm aşa ca şi Maria
+Să ne rugăm la fel ca Ieremia!
+
+[r1]
+/:Mână cu mână, toţi împreună,
+Să ne rugăm fraţilor!
+Până la sânge şi vom învinge
+Tainele ispitelor. :/
+
+[s3]
+/: Să ne rugăm! :/
+Ca Iona din adâncurile mării;
+Ca Daniel în taina aşteptării
+Ca Israel în ziua liberării.
+
+[s4]
+/: Să ne rugăm! :/
+Ca Iosua în lupta lui cea mare,
+Să se oprească minunatul soare,
+Ca şi Estera cea biruitoare.
+
+[s5]
+/: Să ne rugăm! :/
+Ca Moise-n marea lui călătorie,
+Pe muntele cel mare din pustie,
+Să ne rugăm ca Moise şi Ilie!
+
+[order]
+s1,s2,r1,s3,r1,s4,r1,s5,r1

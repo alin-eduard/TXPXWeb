@@ -1,0 +1,53 @@
+[s1]
+1.Doamne, nu-i
+Pe lume piatră,
+Să nu poţi s-o sfermi odată
+Dac-o-ncerci
+În foc şi-n apă
+Vine ziua când se crapă
+1210
+
+[s2]
+Numai inima-împietrită
+Când o vezi, stă neclintită
+Cât o chemi, stă nesimţită
+Cât o uzi, stă nerodită
+
+[r1]
+Inimă ne-nduplecată,
+Când ai să te
+Frângi odată?
+De nu vrei, de Isus,
+Să fii astăzi vindecată.
+
+[s3]
+2.Şi nu-i fier
+Să nu se poată
+Încălzit, se rupe-odată
+Dacă focul tot izbeşte
+Vine-un ceas
+Când se topeşte.
+
+[s4]
+Numai inima greoaie
+An şi an nu se mai moaie
+Cât verşi lacrime şiroaie
+Şi ea tot nu se-ncovoaie.
+
+[s5]
+3.Inimă ne-nduplecată,
+Când ai să
+Te frângi odată?
+Fier şi piatra se tot moaie,
+Cu sudoare şi văpaie
+
+[s6]
+Dar pe tine, cât te-ar plânge
+Şi-n iubire, de te-ar strânge
+Cu-a Lui cruce
+Și-al Lui sânge,
+Doar Hristos
+Te poate frânge!
+
+[order]
+s1,s2,r1,s3,s4,r1,s5,s6,r1

@@ -1,0 +1,33 @@
+[s1]
+1. Când vei vedea în ziua ceea
+Că El a fost cel răstignit
+Ce-amar te vei căi că Domnul
+Te-a tot chemat, dar n-ai venit
+1723.
+Cor:	/:O, Dumnezeu să aibă milă
+Nu-ţi pierde sufletu-n pustiu
+Să plângi acum spre mântuire
+Şi nu atuncea, prea târziu:/
+
+[s2]
+2. Când vei vedea în ce-ntuneric
+Te duci pe veci nemântuit
+Ce-amar te vei căi că-n viaţă
+Ai auzit, dar n-ai primit
+Cor:	/:O, Dumnezeu să aibă milă
+Nu-ţi pierde sufletu-n pustiu
+Să plângi acum spre mântuire
+Şi nu atuncea, prea târziu:/
+
+[s3]
+3. Când vei vedea c-orice nădejde
+De mântuire ţi-ai pierdut
+Ce-amar te vei căi, zadarnic
+De tot ce vezi dar n-ai crezut
+Cor:	/:O, Dumnezeu să aibă milă
+Nu-ţi pierde sufletu-n pustiu
+Să plângi acum spre mântuire
+Şi nu atuncea, prea târziu:/
+
+[order]
+s1,s2,s3

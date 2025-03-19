@@ -1,0 +1,24 @@
+[s1]
+/: Un cor îngeresc
+din cer se-aude chemând
+O, păcătos, vino la El,
+Vino, vino ! :/
+
+[r1]
+/: Hai, hai la El! nu mai sta!
+Azi Isus te cheamă, vino, vino! :/
+
+[s2]
+/: Străin tu dacă eşti,
+de ce pribeag mai rătăceşti?
+N-auzi chemarea lui Isus:
+Vino, vino ! :/
+
+[s3]
+/: Urcând sus pe Calvar,
+Isus şi-a dat viaţa-n dar
+Deci, vino, astăzi la Isus,
+Vino, vino:/
+
+[order]
+s1,r1,s2,r1,s3,r1

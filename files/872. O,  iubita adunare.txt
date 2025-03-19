@@ -1,0 +1,43 @@
+[s1]
+872.
+1. O, iubită adunare
+Am o bucurie mare
+/: Am o mare bucurie
+Dă-mi-o Doamne pe vecie :/.
+2. Cum să nu mă bucur,frati
+Când pe lume am doi taţi
+/: Am doi taţi şi două mame
+Si d-aia ma bucur Doamne :/
+
+[s2]
+3. Am un tată pe pământ
+Iar altul în cerul sfânt
+/: Am o mamă, am surori
+Am una mai sus de nori :/
+4. Mama, tata mă iubesc
+Şi eu vreau să-i preţuiesc
+/: Dar mai am un tată-n cer
+Care mă iubeşte El :/.
+
+[s3]
+5. Am un tată minunat
+Fiindcă El e mai bogat
+/: Inima mea e voioasă
+Că mi-am făcut în cer casă :/
+6. Casa mea-i frumoasă tare
+Din credinţă şi răbdare
+/: Nu-i zidită pe nisip
+Ci-i zidită-n Duhul Sfânt :/.
+
+[s4]
+7. Casa mea e construită
+De acel ce s-a jertfit
+/: Când răbda pe Golgota
+El la casa mea lucra :/
+8. Multă vreme n-a mai fi
+Casa mea nu s-a clintit
+/: Orice vânturi vor sufla
+Casa mea nu s-a strica :/.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,75 @@
+[s1]
+1204
+Cum stăteau ei pe-nserate
+Tot cu uşile încuiate
+Teamă de Iudei având
+De Isus mereu spunând
+De-odată-n faţa lor
+Iată-l văd pe-Nvăţător
+S-au umplut de-o frică mare
+Se părea o arătare
+1.
+2.
+
+[s2]
+Dar Domnul le-a cuvântat
+Pentru ce v-aţi înfricat
+N-aveţi teamă ucenici
+Domnul vostru e aici
+Unde cuiele au pătruns
+Lancea unde m-a străpuns
+Şi le-arată mâini, picioare
+Coasta lui sângerătoare
+3.
+4.
+
+[s3]
+Ei priviră cu uimire
+Şi cu multă fericire
+Pace vouă apoi le-a zis
+Precum Tatăl l-a trimis
+Vă trimit iubiţii mei
+Duh a suflat peste ei
+Cu Duh Sfânt să izbăviţi
+De greşeli pe cei greşiţi
+5.
+6.
+
+[s4]
+Cei iertaţi de voi aici
+Şi-n cer sus iertaţi vor fi
+Cei de voi nedezlegaţi
+Nu vor fi nici sus iertaţi
+Unul dintre-nvăţăcei
+Toma nu era cu ei
+Auzind c-a fost Isus
+Către dânşii El a spus
+7.
+8.
+
+[s5]
+Până mâinile nu pui
+Ca să-i pipăi coasta Lui
+Palmele să-i cercetez
+Pân’ atuncia eu nu crez
+Nu trecu mult şi-ntr-o seară
+Tot cu uşa-nchisă iar
+Stau mai mulţi învăţăcei
+Toma se afla cu ei
+9.
+10.
+
+[s6]
+A venit din nou Isus
+Şi la Toma drept sa dus
+Toma adă-ţi palmele
+Ca să-mi pipăi ranele
+Toma tu acuma crezi
+Când cu ochii tăi mă vezi
+Fericiţi cei ce-au crezut
+Fără să mă fi văzut
+11.
+12.
+
+[order]
+s1,s2,s3,s4,s5,s6

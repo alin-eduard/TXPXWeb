@@ -1,0 +1,62 @@
+[s1]
+1467.
+1.    Suntem străini pe acest pământ
+Şi călători
+Căci Ţara noastră-i dincolo de nori
+/: Viaţa-i trecătoare
+Aicea jos sub soare
+Dar în cer nepieritoare :/
+
+[s2]
+2.    La orice pas ne întâlnim
+Numai suspin
+În lumea aceasta pace nu găsim
+/: Viaţa-i luptă mare
+Ades lacrimi amare
+Iar duşmanul dă târcoale :/
+
+[s3]
+3.   De aceia fraţi să ne grăbim
+Să ne silim
+Şi timpul nostru pentru cer să-l folosim
+/: Sus spre cer privirea
+Lăsaţi aţipirea
+Că-n curând va fi răpirea :/
+
+[s4]
+Şi oare cum ne va găsi
+Când va veni
+Căci Mirele mult nu va zăbovi
+/: Haina e curată
+Sfântă fără pată
+Sau de rău e întinată :/
+
+[s5]
+5.   Azi mai e timp să ne trezim
+Şi viaţa pentru Isus s-o trăim
+Să ne sfinţim
+/: Să cerem iertare
+Har şi îndurare
+Că-n curând pe nori apare :/
+
+[s6]
+6.   Pe calea Lui să-naintăm
+Şi să veghem
+Şi-n rugăciuni mai mult să ne luptăm
+/: Duhul e armura
+Luaţi şi armătura
+După cum spune Scriptura :/
+
+[s7]
+7.   Ca să putem cu toţii intra
+În slava Sa
+Când pe nume atunci ne va chema
+/: Ca să-i fim mireasă
+În ţara aleasă
+Şi să stăm cu El la masă :/
+Cu toţii Aleluia
+Cântând Mesia
+Căci El ne-a adus mântuirea
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

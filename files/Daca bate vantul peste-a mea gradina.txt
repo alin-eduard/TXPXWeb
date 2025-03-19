@@ -1,0 +1,32 @@
+[s1]
+/: Dacă bate vîntul
+peste-a mea grădină
+E doar ca s-o facă
+de roade mai plină. :/
+
+[s2]
+/: Dacă bate vîntul,
+crengile-ţi îndoaie
+E doar ca mai falnic
+să fii după ploaie. :/
+
+[s3]
+/: Dacă bate vîntul
+peste-a ta cărare
+E doar să-ntărească
+paşii pe-a ta cale. :/
+
+[s4]
+/: Dacă bate vîntul,
+vrînd să te trîntească
+Priveşte la Domnul,
+să te izbăvească. :/
+
+[s5]
+/: Dacă bate vantul
+tare şi mai tare
+Apleacă-ţi genunchii,
+cere-I îndurare. :/
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,41 @@
+[s1]
+Atatea suflete-n dureri
+La El au alergat
+Atati bolnavi mana-au intins
+Spre cer si l-au chemat
+Intreg trecutul despre El
+Marturisestedespre vremi
+Ca Isus e la fel
+
+[s2]
+/: Isus e la fel :/
+Puterea Lui e-aceeasi
+Doar sa te-ncrezi in El
+Isus ramane-n veci la fel
+
+[s3]
+Chiar din trecut pe-ai sa-i iubiti
+Cu mana Lui l-a scos
+Din incercari si-apoi veni
+Sa moara pentru toti
+Ca eu si tu sa fim salvati
+De-orice durere liberati
+Isus ramane-n veci la fel
+
+[r1]
+/:Isus e la fel:/
+Puterea Lui e-aceeasi
+Doar sa te-ncrezi in El
+Isus ramane-n veci la fel
+
+[s4]
+Atatea ori in deznadejde
+Simt ca sunt legat
+Un singur nume de rostesc
+Pe loc sunt dezlegat
+Un singur nume ne-a fost dar
+Sa smulga lumea din pacat
+Puterea-n Isus am aflat
+
+[order]
+s1,s2,s3,r1,s4,r1

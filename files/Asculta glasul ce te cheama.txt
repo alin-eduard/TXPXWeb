@@ -1,0 +1,26 @@
+[s1]
+Ascultă glasul ce te cheamă
+Predă-ţi viaţa Domnului!
+Ascultă glasul ce te-ndeamnă
+Supune-te azi cerului!
+
+[r1]
+Isus Hristos te vrea cu El în slavă
+Ziua de mâine nu-i a ta.
+De vrei să fii în veci cu Creatorul
+Ascultă-acum chemarea Sa!
+
+[s2]
+Ascultă glasul blând de Tată
+Până când ţi-e Mântuitor!
+Oricum Îl vei vedea odată
+În haina de judecător.
+
+[s3]
+Acum e timpul cel din urmă
+Când necredinţa ia avânt
+Dar tu alege calea bună
+Şi vei ajunge-n cerul sfânt.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,43 @@
+[s1]
+1427.
+Precum la cer Te-ai înălţat
+Din nou vei reveni
+Isuse Soare minuna
+Curând vei străluci.
+Cor   /: Te-aşteptăm cu dor
+Ca să revii pe nori
+Căci dorul nostru-i mai aprins
+De paradis de paradis.:/
+
+[s2]
+E taină pentru noi dar ştim
+Căci toate-n jur vestesc
+Căci Tu cu slavă vei veni
+O Mielule ceresc
+Cor   /: Te-aşteptăm cu dor
+Ca să revii pe nori
+Căci dorul nostru-i mai aprins
+De paradis de paradis.:/
+
+[s3]
+Ne dă puteri să Te-aşteptăm
+Stând gata pregătiţi
+Ca să ne duci în veşnicii
+La locul mult promis.
+Cor   /: Te-aşteptăm cu dor
+Ca să revii pe nori
+Căci dorul nostru-i mai aprins
+De paradis de paradis.:/
+
+[s4]
+Ne este dor de marea zi
+Când faţa-ţi vom vedea
+Şi pentru veci îţi vom cânta
+În cer Aleluia.
+Cor   /: Te-aşteptăm cu dor
+Ca să revii pe nori
+Căci dorul nostru-i mai aprins
+De paradis de paradis.:/
+
+[order]
+s1,s2,s3,s4

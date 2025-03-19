@@ -1,0 +1,58 @@
+[s1]
+Re m
+1. Când sfinţea Neemia zidul
+Tot Ierusalimul
+Asculta uimit cântarea
+Ce 'nălţa sublimul
+290.
+
+[s2]
+Corurile se uniră
+Cântul lor în parte
+Strigăte de bucurie
+Se-auzeau departe.
+
+[s3]
+/:Ei lucrau cu-nsufleţire
+Cu o mână toţi zideau
+Sabia ţineau cu alta
+Şi astfel zidul isprăveau:/
+
+[s4]
+2. Temelia noastră-i Isus
+Înălţăm sus zidul
+Să zidim deasupra astre
+Viitor, destinuri
+
+[s5]
+Pe această temelie
+Au zidit martirii
+Au cântat mergând spre moarte
+Imnul nemuririi.
+
+[s6]
+/:Să zidim argint şi aur
+Pietre scumpe pentru rai
+De-om zidi lemn fân şi trestii
+Numai focul va da grai:/
+
+[s7]
+3. Noi luptăm să avem cununa
+Cea nevestejită
+Lupta este tot mai grea
+Şi mai îndârjită
+
+[s8]
+Să luaţi cu toţi aminte
+Să staţi în picioare
+Ziua ceea grea va fi
+Dar biruitoare.
+
+[s9]
+/:Să luptăm cu armătura
+Ca-n vechime vom lăuda
+Coruri mii vor fi unite
+Şi-o cântare vom cânta:/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

@@ -1,0 +1,51 @@
+[s1]
+1825.    Re
+1. Ai fost mereu de partea mea
+O Domnul meu cel bun
+Cetate de scăpare
+În care să m-ascund
+În valea umbrei morţii reci
+Fiinţa-mi chinuiam
+Schimbându-mi cursul vietii
+Tu-ai fost salvarea mea
+
+[r1]
+Cor:
+/:De-aceea te laud Domnul meu
+De-aceea Te voi slăvi mereu
+Eşti mare, eşti sfânt,
+Eşti bun, eşti minunat
+O, Domnul meu,
+Fii binecuvântat:/
+
+[s2]
+2. Doar Tu ai fost de partea mea
+Când toţi m-au părăsit
+Când gheara disperării
+Mă sfâşia cumplit
+În încercarea cea mai grea
+Doar Tu m-ai mângâiat
+Şi m-ai luat în braţe
+Părinte minunat
+
+[s3]
+3. De n-ar fi fost dragostea Ta
+Să spele-al meu păcat
+Cu sânge la Golgota
+O, Miel nevinovat
+Eram  pentru vecii pierdut
+Dar Tu m-ai căutat
+Iubire minunată
+Fii veşnic lăudat.
+
+[s4]
+Cor:
+/:De-aceea te laud Domnul meu
+De-aceea Te voi slăvi mereu
+Eşti mare, eşti sfânt,
+Eşti bun, eşti minunat
+O, Domnul meu,
+Fii binecuvântat:/	           Amin
+
+[order]
+s1,r1,s2,r1,s3,s4

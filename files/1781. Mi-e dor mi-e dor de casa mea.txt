@@ -1,0 +1,63 @@
+[s1]
+Do
+1. Mi-e dor, mi-e dor de casa mea
+S-ajung acolo eu aş vrea
+Mi-e dor, mi-e dor de Tatăl meu
+Aş vrea să-l văd pe Fiul Său
+Cor:	/:Eu nu sunt de pe pământ
+Eu nu sunt de-aici de jos
+Ţara mea-i acolo sus
+Eu mă duc după Isus :/
+
+[s2]
+2. Aş vrea, aş vrea s-ajung degrab
+Să mă aplec la piept să-i cad
+Să-I spun atunci c-am biruit
+Să-I mulţumesc că m-a iubit
+Cor:	/:Eu nu sunt de pe pământ
+Eu nu sunt de-aici de jos
+Ţara mea-i acolo sus
+Eu mă duc după Isus :/
+
+[s3]
+3. Să plec, să plec de-aici de jos
+S-ajung în ţara lui Hristos
+Că eu aici am suspinat
+Acolo voi fi mângâiat
+Cor:	/:Eu nu sunt de pe pământ
+Eu nu sunt de-aici de jos
+Ţara mea-i acolo sus
+Eu mă duc după Isus :/
+
+[s4]
+4. Eu simt, eu simt pe Cineva
+E Domnul în inima mea
+Îi simt susurul Lui cel blând
+Îi simt susurul Lui cel sfânt
+Cor:	/:Eu nu sunt de pe pământ
+Eu nu sunt de-aici de jos
+Ţara mea-i acolo sus
+Eu mă duc după Isus :/
+
+[s5]
+5. Mai ai puţin, mai ai puţin
+Şi după tine o să vin
+Mai rabdă până s-a-mplini
+Cuvântul sfânt din prorocii
+Cor:	/:Eu nu sunt de pe pământ
+Eu nu sunt de-aici de jos
+Ţara mea-i acolo sus
+Eu mă duc după Isus :/
+
+[s6]
+6. Nu sunt, nu sunt de pe pământ
+Eu sunt din oastea celui sfânt
+Am ochii aţintiţi spre cer
+Şi de necazuri nu mă tem
+Cor:	/:Eu nu sunt de pe pământ
+Eu nu sunt de-aici de jos
+Ţara mea-i acolo sus
+Eu mă duc după Isus :/
+
+[order]
+s1,s2,s3,s4,s5,s6

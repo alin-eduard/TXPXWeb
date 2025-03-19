@@ -1,0 +1,41 @@
+[s1]
+Cânta-voi Domnului mărire:
+Cânta-voi Lui, cânta-voi Lui;
+Pentru deplina mântuire,
+Cânta-voi Lui, cânta-voi Lui.
+
+[s2]
+A mea cântare în sărbătoare
+O voi-nălţa spre mereu
+spre Slava Domnului;
+Cânta-voi Numele Său mare:
+Cânta-voi Lui, cânta-voi Lui!
+
+[s3]
+Cânta-voi dragostea divină:
+O voi cânta, o voi cânta;
+Căci mi-a adus a ei lumină,
+O voi cânta, o voi cânta.
+
+[s4]
+Cu stăruinţă şi cu credinţă,
+Iubirea-n cântec
+pururea o voi ‘nălţa;
+Cântarea ei e biruinţă:
+O voi cânta, o voi cânta!
+
+[s5]
+Cânta-voi jertfa preasfinţită;
+O voi cânta, o voi cânta;
+Prin ea mi-e viaţa-ndreptăţită,
+O voi cânta, o voi cânta.
+
+[s6]
+A mea-nfiere şi mângăiere,
+Mi-a căştigat-o Domnul
+sus pe Golgota;
+Cânta-voi marea Lui putere:
+O voi cânta, o voi cânta!
+
+[order]
+s1,s2,s3,s4,s5,s6

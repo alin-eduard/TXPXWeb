@@ -1,0 +1,26 @@
+[s1]
+Isuse, strig către Tine
+Ca să nu pier ajută-mă!
+O, fie-Ţi milă Domnul meu
+Cum sunt, primeşte-mă.
+Mi M
+
+[r1]
+Isuse iubit, eu Te rog smerit
+Tu să primeşti sufletul meu
+Sus în locaşul Tău.
+
+[s2]
+Sunt păcătos şi vinovat
+N-am nimic ce-i bun în mine
+Dar Tu eşti bun şi îndurat
+Cu mâna-Ţi mă ţine.
+
+[s3]
+Singur nu mă pot îndrepta
+Decât prin sângele Tău sfânt
+Ce L-ai vărsat pe Golgota
+Pacatele-mi purtând
+
+[order]
+s1,r1,s2,r1,s3,r1

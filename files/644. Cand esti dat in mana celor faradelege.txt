@@ -1,0 +1,56 @@
+[s1]
+644.
+1. Când eşti dat
+În mâna celor fărădelege
+Şi eşti pus în mâna
+Celor ce fac rău
+Credinciosule şi frate înţelege
+/: Tu n-ai voie altă cale a-ţi alege
+Decât calea ce-a ales-o
+Domnul tău :/
+
+[s2]
+2. În prea sfânta vieţii tale curăţie
+Revărsarea, răutatea, duhul rău
+Să ştii soră credincioasă
+Că nici ţie
+/: Nu ţi-e dată altă cale pe vecie
+Decât calea ce-a ales-o
+Domnul tău :/.
+
+[s3]
+3. Rabdă atunci ca blândul Miel
+Primind înjunghierea
+Cu tăcere neclintită spre cel rău
+Cât de grea şi pe nedrept
+Ţi-ar fi durerea
+/: Tu n-alege un alt drum
+Decât tăcerea
+Ce-a ales-o pe Golgota
+Domnul meu :/.
+
+[s4]
+4. Nu răspunde nici cruzimii
+Nici minciunii
+Nici o vorbă, nici de bine,
+Nici de rău
+Când te judecă stricaţii şi nebunii
+/: Taci senin şi nu răspunde
+La nici unul
+Cum nu le-a răspuns pe cruce
+Domnul tău :/.
+
+[s5]
+5. Taci senin şi treci
+Iertând Dumnezeieşte
+Prin tăcere mai presus
+De orice rău
+Fii smerit şi blând
+Ocara tu primeşte
+/: Şi-ai să vezi în veci
+Cum fruntea-ţi străluceşte
+În acelaşi chip ceresc
+Ca Domnul tău :/
+
+[order]
+s1,s2,s3,s4,s5

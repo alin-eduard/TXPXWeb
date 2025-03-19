@@ -1,0 +1,45 @@
+[s1]
+/: Nu-i nimeni aşa bun,
+nu-i nimeni aşa scump
+Nu-i nimeni pe Pământ
+ca mama mea. :/
+
+[s2]
+Ea-mi şterge ochii plânşi
+când greuri mă lovesc
+O, mamă, cât de mult eu te iubesc
+Mama mea !
+Mă mângâi şi-mi alini suspinul, durerea
+Doamne, în cer cu ea aş vrea
+Cu mama mea.
+
+[s3]
+/: Pe faţa mamei dragi
+apar lacrimi mereu
+Când ea se roagă des la Dumnezeu. :/
+
+[s4]
+Prin viscol şi furtuni
+puterile-i se sting
+O, mamă, pentru mine cât ai plâns
+Mama mea !
+De-aceea către cer înalţ eu ruga mea
+Doamne, eu în cer cu ea aş vrea
+Cu mama mea.
+
+[s5]
+/: Şi azi îmi amintesc
+la pat cum mă veghea
+Cu câtă dragoste mă ocrotea. :/
+
+[s6]
+Din valul lumii crunt
+m-ai smuls şi m-ai scăpat
+O, mamă, pentru mine ai răbdat
+Mama mea !
+De-aceea pe genunchi înalţ eu ruga mea
+Doamne, eu în cer să fiu aş vrea
+Cu mama mea.
+
+[order]
+s1,s2,s3,s4,s5,s6

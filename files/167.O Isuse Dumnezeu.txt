@@ -1,0 +1,57 @@
+[s1]
+1. O Isuse Dumnezeu
+Doamne auzi glasul meu
+/: Când strig cu lacrimi spre Tine
+Doamne ai milă de mine:/
+167.
+
+[s2]
+2. Luminează mintea mea
+Să cunoască jertfa Ta
+/:Sfinţeşte sufletul meu
+Cu harul sângelui Tău:/
+
+[s3]
+3. Gândul meu îl linişteşte
+Mintea mea înţelepţeşte.
+/:Şi cu Duhul Tău cel Sfânt
+Umple-mă cu al Tău cuvânt:/
+
+[s4]
+4. Pune strajă gurii mele
+Să nu mintă, să nu-nşele
+/:Şi un duh stăpânitor
+Împrejurul buzelor:/
+
+[s5]
+5. Fă ca urechile mele
+Să pot auzi cu ele
+/:Glasul Tău cel Sfânt şi dulce
+Despre jertfa Ta pe cruce:/
+
+[s6]
+6. Şi fă ca mâinile mele
+Eu să pot lucra cu ele
+/:Să pot da celui lipsit
+Şi orfan şi necăjit:/
+
+[s7]
+7. Fă ca ochii mei să vadă
+A Ta strălucită rază
+/:Şi nicicând să nu privească
+La petrecerea lumească:/
+
+[s8]
+8. Picioarele să-mi păşească
+Înspre patria cerească
+/:Toate poftele să-mi fie
+După Sfânta-mpărăţie:/.
+
+[s9]
+9. Doamne rugăciunea mea
+Primeşte-o înaintea Ta
+/:Şi auzi suspinul meu
+O, Isuse Dumnezeu:/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

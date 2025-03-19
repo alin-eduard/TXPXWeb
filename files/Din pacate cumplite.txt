@@ -1,0 +1,27 @@
+[s1]
+Din păcate cumplite,
+Domnul ne-a dezrobit
+Ne-a spălat cu-al Său sânge
+Viață ne-a dăruit /: dăruit :/
+Am aflat unde’i harul
+și al meu Salvator
+Plin de milă El mai cheamă
+pe cei făr’ ajutor
+
+[r1]
+/: Glasul Lui se aude,
+prin întinsul pustiu
+Și îi strigă pe-aceia,
+care au rătăcit /: rătăcit ://
+
+[s2]
+Tu acel care-n lume, de acas’ai plecat
+N-auzi glasul ce plânge:
+“Pentru tine-am răbdat,
+/: am răbdat :/”
+Vino te pocăiește, lasă lumea cu-a ei
+Vino să primești haina
+și inelul cel mai de preț.
+
+[order]
+s1,r1,s2,r1

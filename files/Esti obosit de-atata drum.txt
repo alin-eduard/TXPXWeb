@@ -1,0 +1,61 @@
+[s1]
+Eşti obosit de-atâta drum,
+străin în valea plângerii
+Şi cauţi, cauţi ne-ncetat,
+un vânzător de ai găsi
+
+[r1]
+De fericire şi alin
+Să scapi de greu, să scapi de chin.
+Dar nu găseşti, cât ai căuta
+Fericire la nimenea.
+
+[s2]
+Chiar de-ai străbate-n lung şi-n lat
+Pământu-ntreg neâncetat
+Tot n-ai găsi locul dorit
+de al tău suflet chinuit.
+
+[s3]
+Un singur Nume este sfânt în cer,
+pe ape, pe pământ
+E Fiul Tatălui de sus,
+e Numele iubit - Isus!
+
+[s4]
+E vânzătorul cel bogat,
+e Doctorul cel minunat
+E Cel ce ne vorbeşte iar
+cu dragoste prin al Său har
+
+[s5]
+“Veniţi, veniţi de cumpăraţi,
+toţi cei trudiţi şi-mpovăraţi!
+Veniţi la ape, de la chin
+la fericire şi alin!”
+
+[s6]
+Veniţi, popoare, la Isus,
+la Soarele fără apus!
+El vinde fericire-oricui
+care se-ncrede-n jertfa Lui.
+
+[s7]
+El nu vrea plată nici de-un fel,
+ci s-alergăm cu drag la El
+Dar totuşi, poate vrea ceva
+ca să-I predăm Lui inima.
+
+[s8]
+Isus e viţa, iar tu eşti mlădiţa
+care nu rodeşti
+Iar Tatăl Sfânt te curăţă,
+s-aduci roade-n pocăinţă.
+
+[s9]
+Te judecă neâncetat de eşti tu verde sau uscat
+Dacă aduci tu rod de-ajuns
+în via sfântă-a lui Isus!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1,s8,r1,s9,r1

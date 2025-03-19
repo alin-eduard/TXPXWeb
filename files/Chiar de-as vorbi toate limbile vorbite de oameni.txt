@@ -1,0 +1,29 @@
+[s1]
+Chiar de-aş vorbi toate
+limbile vorbite de oameni şi îngeri,
+Dacă nu am iubire sunt
+doar o aramă ce sună,
+Sau un chimval zăngănitor
+
+[r1]
+Iubind te dăruieşti
+cu tot ce-ţi aparţine,
+Iubind te dăruieşti
+şi uiţi orice măsură
+
+[s2]
+Chiar dacă aş profeţi
+şi-aş şti chiar misterele toate,
+Chiar de-aş avea o credinţă
+încât să mut munţii-n mare,
+Fără dragoste nu sunt nimic.
+
+[s3]
+Chiar dacă aş împărţi,
+săracilor, tot ce-i al meu,
+Chiar de mi-aş da trupul
+meu în flăcări să fie ars,
+Nu mi-ar folosi la nimic.
+
+[order]
+s1,r1,s2,r1,s3,r1

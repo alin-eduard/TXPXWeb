@@ -1,0 +1,26 @@
+[s1]
+În Cetatea unde merg eu
+străzi de aur strălucesc;
+Pomul vieţii-acolo creşte,
+florile nu veştejesc.
+
+[r1]
+Înfloresc aici o vreme
+dar curând se ofilesc;
+În Cetatea unde merg eu
+florile nu veştejesc.
+
+[s2]
+Multe lupte şi necazuri
+în viaţă întâlnesc;
+N-or mai fi în ţara unde
+florile nu veştejesc.
+
+[s3]
+Mulţi iubiţi s-au dus la Domnul
+şi în slavă strălucesc;
+Mă aşteaptă-acolo unde
+florile nu veştejesc.
+
+[order]
+s1,r1,s2,r1,s3,r1

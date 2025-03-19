@@ -1,0 +1,20 @@
+[s1]
+Mi-e drag, Isus, din Cartea-Ţi Sfîntă
+Cuvîntul Tău Sfînt să-L citesc
+/: Şi jertfa sfîntă a iubirii
+Cu dor în suflet s-o primesc. :/
+
+[s2]
+Mi-e drag, Isuse, mîngîierea-Ţi
+La cei trudiţi să o vestesc
+/: Şi vestea mare a iertării
+Pe chipul lor să o zăresc. :/
+
+[s3]
+Mi-e drag, Isus, din cartea-Ţi sfîntă
+Cuvîntul Tău sfînt să-L păzesc
+/: Şi cu o inimă înfrîntă
+Cu totul Ţie să-Ţi slujesc. :/
+
+[order]
+s1,s2,s3

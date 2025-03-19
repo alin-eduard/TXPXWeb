@@ -1,0 +1,30 @@
+[s1]
+8.                    Fa m
+1. Imnuri de slavă
+Spre Domnul din ceruri
+Fraţi şi surori
+Astăzi să-I înălţăm
+/:Sufletul şi viaţa noastră întreagă
+Cu bucurie să-I-o închinăm. :/
+
+[s2]
+2. Căci din păcate
+Ne-a scos Salvatorul
+Ne-a dat iertare
+Şi pace din plin
+/: Asupra noastră
+Revarsă iubirea
+Mântuitorul măreţ şi divin. :/
+
+[s3]
+3. El e cu noi
+Zilnic ne ocroteşte
+Mâna Lui Sfântă
+Ne poartă mereu
+/:Prin Duhul Sfânt
+El ne călăuzeşte
+Până ajunge-vom
+La tronul Său.:/            Amin.
+
+[order]
+s1,s2,s3

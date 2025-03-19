@@ -1,0 +1,39 @@
+[s1]
+1. In orice făptură
+Şi-orice creatură
+E toată mărirea Ta
+Întreaga natură
+Orice limbă şi gură
+Îţi cântă Aleluia
+1729.     Re
+
+[r1]
+Cor:	/:Osana:/ (3 ori)
+Eşti vrednic să fii lăudat
+/:Osana:/ (2 ori)
+Fii binecuvântat
+
+[s2]
+2. Privind tot Inaltul
+Ca Tine nu-i altul
+Preasfânt şi înălţat
+Să vadă oricine
+Ca nu-i nimeni ca Tine
+În veci fii lăudat
+
+[s3]
+Cor:	/:Osana:/ (3 ori)
+Eşti vrednic să fii lăudat
+/:Osana:/ (2ori)
+Fii binecuvântat
+
+[s4]
+3. Minuni si mistere
+Şi-o mare putere
+E-n tot ce-nfăptuieşti
+Ce planuri măreţe
+De noi ne-nţelese
+O Doamne întocmeşti
+
+[order]
+s1,r1,s2,s3,s4,r1

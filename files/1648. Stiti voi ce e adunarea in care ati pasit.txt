@@ -1,0 +1,83 @@
+[s1]
+1648.              Mim
+1.Ştiţi voi ce e adunarea,
+În care aţi păşit?
+E locaşul de închinare
+Locul cel slăvit!
+Ştiţi voi oare ce sunt fraţii,
+Din locaşul sfânt?
+Ei sunt rodul din Golgota
+Pe acest pământ!
+
+[s2]
+/: Aici ei se roagă,
+Inima şi-o leagă
+Şi-ntr-o singură simţire
+Ruga-nalţă-n sus,
+Cerul se deschide
+Şi cu drag priveşte
+Înspre cei născuţi de Domnul,
+Fraţii lui Isus :/
+
+[s3]
+2.Când trecem prin încercare
+Noi aici venim
+Suferinţa şi-ncercarea
+le împărtăşim,
+Când durerea e prea mare
+Iară noi slăbim,
+Atunci toată adunarea-i
+Într-un singur glas,
+
+[s4]
+/: Ne-adunăm toţi fraţii
+Şi-L chemăm pe Domnul
+Pe acela care poate
+Să dea ajutor,
+Dumnezeu coboară
+Ruga ne-ascultă
+Şi cu drag El cercetează
+Pe al Său popor. :/
+
+[s5]
+3.Eu trecând prin încercare
+M-am simțit obosit
+Atunci toată adunarea-n rugi
+M-a sprijinit,
+Când am fost în suferinţă
+Fraţii s-au rugat,
+Domnul le-a ascultat ruga
+Şi m-a vindecat!
+
+[s6]
+/: Eu am plâns cu fraţii
+Ne-am rugat cu toţii
+Şi pe Medicul cel bun
+Noi toţi L-am implorat,
+Boala şi durerea
+Şi toată întristarea
+Domnul cu a Sa îndurare
+Mi le-a îndepărtat! :/
+
+[s7]
+4.Acum noi suntem
+În casa cea de pe pământ
+Până vom ajunge-n ceruri
+În locaşul sfânt,
+Binecuvântaţi pe Domnul
+Cei iubiţi de El,
+Căci El ne poartă povara
+Şi ne duce în cer!
+
+[s8]
+/: Iar aici cu toţii,
+Să plângem cu fraţii,
+Să luptăm să ne-adunăm,
+Şi să ne mângâiem.
+Să-l chemăm pe Domnul,
+Dumnezeul slavei
+Să-i cinstim Numele Lui
+Cu toţi să-L lăudăm!:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

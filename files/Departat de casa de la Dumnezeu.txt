@@ -1,0 +1,85 @@
+[s1]
+Depărtat de casă,
+de la Dumnezeu
+In ceasul din urmă,
+iată, vin şi eu.
+Din somnul pierzării
+astăzi m-am trezit
+La a Ta chemare,
+Doamne, am venit.
+
+[s2]
+/: M-am trezit la viaţă
+din păcatul greu
+Ce mare-i minunea
+în sufletul meu!
+Din somnul pierzării
+astăzi m-am trezit
+Dulcea Ta chemare
+azi am auzit ! :/
+
+[s3]
+Gol, fără credinţă
+mi-a fost sufletul
+Tu ai avut milă,
+M-ai întors din drum.
+Cu psalmul lui David
+Tu m-ai mângâiat
+Tu mi-ai dat putere
+Când eu m-am rugat.
+
+[s4]
+4
+/: M-am trezit la viaţă
+din păcatul greu
+Ce mare-i minunea
+în sufletul meu!
+Din somnul pierzării
+astăzi m-am trezit
+Dulcea Ta chemare
+azi am auzit ! :/
+
+[s5]
+M-am trezit, o, Doamne,
+Şi-atunci m-am rugat
+Prin Cuvântul Tău Sfânt
+Tu m-ai luminat.
+Tu mi-ai dat putere,
+Salvator iubit.
+Astăzi vin la Tine
+să fiu mântuit.
+
+[s6]
+6
+/: M-am trezit la viaţă
+din păcatul greu
+Ce mare-i minunea
+în sufletul meu!
+Din somnul pierzării
+astăzi m-am trezit
+Dulcea Ta chemare
+azi am auzit ! :/
+
+[s7]
+Azi mă-ntorc acasă
+Şi n-am să mai plâng
+Voi sluji pe Domnul
+Cât sunt pe Pământ.
+Vreau ca să Îl laud
+din inima mea
+Îl iubesc pe Domnul
+Şi-I dau viaţa mea!
+
+[s8]
+8
+/: M-am trezit la viaţă
+din păcatul greu
+Ce mare-i minunea
+în sufletul meu!
+Din somnul pierzării
+astăzi m-am trezit
+Dulcea Ta chemare
+azi am auzit ! :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

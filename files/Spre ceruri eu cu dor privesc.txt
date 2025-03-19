@@ -1,0 +1,26 @@
+[s1]
+Spre ceruri eu cu dor privesc,
+O, Dumnezeul meu,
+Căci fără Tine să trăiesc
+E chinul cel mai greu.
+
+[s2]
+La Tine aflu ajutor eu,
+Praful de pământ;
+Tu eşti a toate Creator
+Iar eu nimic nu sunt.
+
+[s3]
+Tu paşii mei călăuzeşti,
+O, Doamne îndurat,
+Din cer viaţa mi­o păzeşti,
+Veghezi neîncetat.
+
+[s4]
+Tu eşti cu mine, Domnul meu,
+Mă sprijini când Te chem,
+Eşti umbra şi eşti scutul meu,
+De nimeni nu mă tem!
+
+[order]
+s1,s2,s3,s4

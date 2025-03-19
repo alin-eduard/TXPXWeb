@@ -1,0 +1,24 @@
+[s1]
+Tot ce este-n asta lume
+Este un vis trecator
+Oricat ai cauta straine
+Nu vei gasi ajutor.
+
+[r1]
+/: Azi, azi, de ce nu vii?:/
+Vino la Domnul tau!
+
+[s2]
+Stii ce-nseamna fericirea?
+Sa te-mpaci cu Dumnezeu
+El iti este Creatorul
+Fiintei sufletului tau!
+
+[s3]
+Tot ce este-n asta lume
+Este un vis trecator
+Oricat ai cauta straine
+Nu vei gasi ajutor
+
+[order]
+s1,r1,s2,r1,s3,r1

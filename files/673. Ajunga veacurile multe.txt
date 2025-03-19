@@ -1,0 +1,59 @@
+[s1]
+1. Ajungă veacurile multe
+În care fost-am despărţiţi
+Azi glasul lui Isus ne cheamă
+Creştini de ce nu vă uniţi
+2. Prea mult în ură, vrăjmăşie
+În cete fost-am despărţiţi
+Să ne trezim e ceasul ultim
+Să ne iubim să fim uniţi
+673.
+
+[s2]
+3. Lăsaţi de acuma vrăjmăşia
+Mândria, ura lepădaţi
+Urmaţi de-acum porunca sfântă
+Iubiţi-vă căci sunteţi fraţi
+4. Căci adevărul este unul
+Cum este unul şi Hristos
+De ce noi despărţiţi în cete
+Să ne luptăm fără folos
+
+[s3]
+5. Veniţi creştini de pretutindeni
+Să ne unim într-un Hristos
+În jurul jertfei Sale sfinte
+Ne cheamă glasul Lui duios
+6. Veniţi copii mei la Mine
+Şi vă-nfrăţiţi în jertfa Mea
+Eu pentru voi mi-am dat viaţa
+Şi m-am jertfit pe Golgota
+
+[s4]
+7. Veniţi să împlinim dorinţa
+Ce a arătat-o Domnul Sfânt
+În rugăciunea către Tatăl
+Ce ne-a lăsat-o legământ
+8. Veniţi creştini din lumea largă
+Din răsărit şi din apus
+Iubirea Golgotei ne cheamă
+Să ne unim întru Isus
+
+[s5]
+9. Căci vine în curând Stăpânul
+Să-şi cerceteze al Său popor
+Fiţi gata să ieşiţi înainte
+Cântându-i Slavă toţi în cor
+10. Lăsaţi în lături tot ce poate
+Să vă mai ţină despărţiţi
+Şi să rămână doar iubirea
+Cu care toţi să vă uniţi
+
+[s6]
+11. Veniţi creştini de pretutindeni
+De orice neam şi orice popor
+Să fim uniţi pe veci cu Domnul
+Să fim o turmă şi un păstor.
+
+[order]
+s1,s2,s3,s4,s5,s6

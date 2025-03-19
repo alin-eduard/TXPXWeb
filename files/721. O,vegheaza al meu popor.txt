@@ -1,0 +1,43 @@
+[s1]
+1. O, veghează al meu popor
+Căci Eu Domnul voi veni
+Cu tine a mă întâlni
+Pentru a călători.
+Cor: Căci corabia de salvare
+Este gata de plecare
+Dar de vei sta împietrit
+Vei rămâne suspinând.
+721.
+
+[s2]
+Cor: Căci corabia de salvare
+Este gata de plecare
+Dar de vei sta împietrit
+Vei rămâne suspinând.
+2. Unde nu vei mai putea
+Să găseşti fericirea
+Atunci vei plânge cu amar
+Dar totul va fi-n zadar.
+
+[s3]
+Cor: Căci corabia de salvare
+Este gata de plecare
+Dar de vei sta împietrit
+Vei rămâne suspinând.
+3. Aşa zice Duhul Sfânt
+Cu glas tare pe pământ
+O, poporul Meu iubit
+Gata eşti de a fi răpit.
+
+[s4]
+Cor: Căci corabia de salvare
+Este gata de plecare
+Dar de vei sta împietrit
+Vei rămâne suspinând.
+4. Haina ta este albită
+Şi de pete curăţită
+Candela îţi este plină
+Când Isus are să vină.
+
+[order]
+s1,s2,s3,s4

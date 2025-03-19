@@ -1,0 +1,62 @@
+[s1]
+Căci Mi-am lăsat turma
+Să-mi găsească urma
+Pribegind printre munţi şi prin văi
+Pe cărări spinoase văi întunecoase
+Alungată de vrăjmaşii mei.
+Simone spune-Mi tu
+Dacă Mă iubeşti
+Oile să Mi le păzeşti.
+
+[s2]
+Tu veghează-ntr-una
+Şi păzeşte-Mi turma
+Să nu piară nici una din oi
+Căci lupul pândeşte şi le urmăreşte
+Să doboare pe mulţi dintre voi.
+Simone spune-Mi tu
+Dacă Mă iubeşti
+Oile să Mi le păzeşti.
+
+[s3]
+Vezi la cea bolnavă
+Să te duci degrabă
+Ajutor cu iubire să-i dai
+Vezi-i suferinţa arată-i credinţa
+Şi s-o vindeci lângă ea să stai.
+Simone spune-Mi tu
+Dacă Mă iubeşti
+Oile să Mi le păzeşti.
+
+[s4]
+Vezi la cea rănită
+Căzută-n ispită
+Ce-n durere se zbate mereu
+Ia-o cu blândeţe pe-ale tale braţe
+S-o aduci iar în staulul Meu.
+Simone spune-Mi tu
+Dacă Mă iubeşti
+Oile să Mi le păzeşti.
+
+[s5]
+Iar pe oaia slabă
+N-o lăsa să moară
+C-am să-i cer viaţa din mâna ta
+Dă-i hrană bogată şi apă curată
+Ca să poată să meargă şi ea.
+Simone spune-Mi tu
+Dacă Mă iubeşti
+Oile să Mi le păzeşti.
+
+[s6]
+Tu să-mi aduci turma
+Pe deal la Golgota
+La păşune şi dulce izvor
+Vino turmă mică să nu-ţi fie frică
+Că ne-aşteaptă al nostru Păstor.
+Simone spune-Mi tu
+Dacă Mă iubeşti
+Oile să Mi le păzeşti.
+
+[order]
+s1,s2,s3,s4,s5,s6

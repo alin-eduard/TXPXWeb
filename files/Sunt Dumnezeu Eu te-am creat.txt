@@ -1,0 +1,14 @@
+[s1]
+Sunt Dumnezeu, Eu te-am creat
+Eu sunt acel ce vindec
+Orice ar fi,pot vindeca
+Eu sunt acel ce vindec.
+
+[s2]
+Tu eşti Acel ce m-ai creat
+Eşti Dumnzeu, Tu vindeci
+Spui un cuvânt, sunt vindecat
+Tu eşti Acel ce vindeci.
+
+[order]
+s1,s2

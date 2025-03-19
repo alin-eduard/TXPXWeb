@@ -1,0 +1,8 @@
+[s1]
+/: Vrednic este Mielul cel sacrificat
+Vrednic este Mielul să primească : :/
+/: Puterea, bogăţia, înţelepciunea
+Tăria, şi cinstea, şi slava, şi lauda ! :/
+
+[order]
+s1

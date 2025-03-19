@@ -1,0 +1,33 @@
+[s1]
+1. Când eram rătăcit, Isus m-a salvat
+Din păcat El m-a ridicat.
+Viaţa El mi-a schimbat,
+El m-a luminat
+Isus, Prietenul meu minunat .
+400									Sol
+
+[r1]
+Cor: Ce frumos, ce plăcut
+E să fii creştin,
+Să trăieşti prin credinţă mereu,
+Să te simţi un copil
+Al lui Dumnezeu
+Ce plăcut e să fii creştin!
+
+[s2]
+2. Zi de zi, ceas cu ceas,
+Eu mă simt iubit
+Am în sufletul meu pe Isus
+El mi-e Salvatorul, El m-a mântuit
+Şi doreşte să fiu fericit.
+
+[s3]
+3. Nu mai sta azi pe gânduri,
+Tu suflet pierdut!
+Vin’ la Isus, azi roagă-te Lui!
+Vin’ la viaţă creştină,
+Ridică-te sus!
+Fă un sfânt legământ cu Isus!
+
+[order]
+s1,r1,s2,r1,s3,r1

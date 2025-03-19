@@ -1,0 +1,27 @@
+[s1]
+1. Să-I spui lui Isus orice durere
+Ce câteodată m-apasă greu
+El mă ajută şi-mi dă scăpare
+El mă păzeşte de orice rău.
+149.                   Mi b
+
+[r1]
+Cor: /: Să-i spui Lui Isus :/
+Chinul meu singur nu-l pot purta
+/: Să-i spun Lui Isus :/
+Isus mă scapă de grija mea.
+
+[s2]
+2. Să-I spun Lui Isus oricâte griji
+El mi-e amicul cel mai îndurat
+Îmi dă scăpare când vin la Dânsul
+Şi mântuire de orice păcat.
+
+[s3]
+3. Lumea-ntreagă vrea să mă-nşele
+Să mă despartă de-al meu Isus
+Îi spun Lui Isus şi astă durere
+Şi-a Lui putere îmi e de-ajuns.
+
+[order]
+s1,r1,s2,r1,s3,r1

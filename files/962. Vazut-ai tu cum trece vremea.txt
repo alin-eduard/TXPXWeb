@@ -1,0 +1,47 @@
+[s1]
+962.
+1.Văzut-ai tu cum trece vremea
+În valuri repezi ne-ncetat
+Se duce-ntr-una ca scânteia
+Ca valul neînduplecat
+
+[r1]
+Cor:Se duce vremea,
+Se duce-ntruna
+Iar tu rămâi în stare rea
+Se duce vremea,
+Se duce-ntruna
+Deci foloseşte-te de ea
+
+[s2]
+2.Trecut-au veacuri ca o umbră
+Şi chiar popoare rând pe rând
+S-au dus şi toţi acei din urmă
+Într-un adânc fără de fund
+
+[s3]
+3.Dacă s-au dus acestea toate
+Mult nu va trece şi-n curând
+Te duci şi tu ca şi o noapte
+Şi vei intra într-un mormânt
+
+[s4]
+4.Să prinzi prilejul chiar acuma
+Predă-te azi lui Dumnezeu
+Căci El din ceruri jos trimis-a
+Mântuitor pe Fiul Său
+
+[s5]
+5. El în iubirea lui cea mare
+Nu s-a gândit la viaţa Sa
+De bunăvoie-a mers la moarte
+Pe cruce pentru vina mea
+
+[s6]
+6.Şi azi întinde cu blândeţe
+Isus străpunsă mâna Sa
+„Veniţi voi suflete pierdute
+Luaţi în dar iertarea Mea”
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

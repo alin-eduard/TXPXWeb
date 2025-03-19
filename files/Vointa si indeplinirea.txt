@@ -1,0 +1,26 @@
+[s1]
+Voinţa şi îndeplinirea
+Dă-mi-le Tu Părinte sfânt
+Şi dirijează-mi Tu pornirea
+Prin Duhul Tău şi-al Tău Cuvânt
+Ca-n toate să ajung să-Ţi plac
+Şi numai voia Ta s-o fac.
+
+[s2]
+Voinţa-mi stă mereu în cale
+Să nu fac ce mi-ai poruncit
+Şi pofta cărnii-nşelătoare
+Mă duce-ades’ pe-un drum greşit
+Am meritat de-atâtea ori
+Blestem, nu binecuvântări.
+
+[s3]
+Eu ştiu că mă conduci mai bine
+Decât eu însumi aş putea,
+De-aceea mã încred Tine
+Să stăpâneşti fiinţa mea;
+Aşa vreau să-Ţi urmez mereu,
+Ajută-mi Tu, Isuse-al meu.
+
+[order]
+s1,s2,s3

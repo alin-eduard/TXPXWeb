@@ -1,0 +1,32 @@
+[s1]
+Da, Domnul e Păstorul meu:
+El poartă grija mea;
+La ape limpezi, pajişti verzi
+Mă poartă mâna Sa.
+
+[s2]
+Înviorează sufletul
+Cu glasu-I minunat,
+Pe drepte căi al meu Păstor
+Mă duce ne­ncetat.
+
+[s3]
+Prin valea umbrei morţii
+Chiar de­aş merge, nu mă tem;
+Toiagul şi nuiaua Ta
+Sunt mângâieri, îndemn.
+
+[s4]
+Când oameni răi mă duşmănesc
+Păzit sunt pe deplin;
+Ungi capul meu cu untdelemn,
+Paharul meu e plin.
+
+[s5]
+Da, fericirea, mila Ta
+M­or însoţi mereu;
+Şi­n Casa Domnului
+Pe veci voi locui şi eu.
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,51 @@
+[s1]
+924.
+1. Semnele din urmă
+Stau să bată-n prag
+/:Tu veghează:/
+Când Isus va reveni pe nori
+/:Tu veghează:/
+
+[r1]
+Cor:
+/: Să poți să te-ntâlnești
+Cu Creatorul
+Sa poți să te-ntâlnești
+Cu Salvatorul
+Ce-n slavă va veni
+Să-Și ia la El poporul :/
+
+[s2]
+2. Astăzi necredința
+Bântuie-n popor
+/:Tu veghează:/
+Multe lucruri se fac
+Doar formal
+/:Tu veghează:/
+
+[s3]
+3. Dragostea din inimă
+Începe a se răci
+/: Tu veghează:/
+Căci fărădelegea
+Începe a se înmulți
+/: Tu vegheză:/
+
+[s4]
+4. Mereu se ridică
+Falși învățători
+/: Tu veghează :/
+Și prooroci
+Ce sunt amăgitori
+/: Tu vegheză :/
+
+[s5]
+5. Fii mereu tot treaz
+E-ndemnul din Scripturi
+/: Deci veghează :/
+Stăruind în post
+Și-n rugăciuni
+/: Tu veghează :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

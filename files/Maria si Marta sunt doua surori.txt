@@ -1,0 +1,26 @@
+[s1]
+Maria si Marta sunt doua surori
+Alese din lumea cea larga
+/: Maria-i credinta ce-nvata de zor
+Iar Marta-i credinta ce-alerga. :/
+
+[s2]
+Maria statea ascultând si simtea
+Cum ceru-si desfereca poarta
+/: Sa stau ca Maria întruna as vrea
+Dar Domnul iubea si pe Marta. :/
+
+[s3]
+Maria si Marta sunt doua surori
+Ce-n rai isi petrec vesnicia
+/: Dar eu pe Pamânt parc-as vrea uneori
+Când Marta sa fiu, când Maria. :/
+
+[s4]
+Isus pe-amândoua surori le iubea
+Si azi laolalta li-e soarta
+/: O, fa-ma, Isuse, in dragostea Ta
+Sa fiu si Maria, si Marta !:/
+
+[order]
+s1,s2,s3,s4

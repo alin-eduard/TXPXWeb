@@ -1,0 +1,42 @@
+[s1]
+/: Aceasta e :/
+/: Ziua Domnului! :/
+/: Veseli să fim :/
+/: Să ne bucurăm! :/
+Aceasta e Ziua Domnului
+Veseli să fim, să ne bucurăm!
+/: Aceasta e :/
+/: Ziua Domnului!:/
+
+[s2]
+/: El ne-a creat :/
+/: Şi ai Lui suntem! :/
+/: Lui ne-nchinăm :/
+/: Pe El Îl slavim! :/
+El ne-a creat şi ai Lui suntem
+Lui ne-nchinăm, pe El Îl slavim!
+/: El ne-a creat :/
+/: Si ai Lui suntem!:/
+
+[s3]
+/: Noi rătăceam :/
+/: Dar El ne-a iubit! :/
+/: Nu-L cunoşteam :/
+/: Dar El S-a jertfit! :/
+Noi rătăceam, dar El ne-a iubit
+Nu-L cunoşteam, dar El s-a jertfit!
+/: Noi rătăceam :/
+/: Dar El ne-a iubit! :/
+
+[s4]
+/: Isus e Domn :/
+/: Vine în curând! :/
+/: Vom moşteni :/
+/: Cu El cerul sfânt! :/
+Isus e Domn, vine în curând
+Vom moşteni cu El cerul sfânt!
+/: Isus e Domn :/
+/: Vine în curând! :/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,13 @@
+[s1]
+/:Nu este stanca nu e Domn ca al meu
+Nu este nume vrednic de lauda
+Stanca salvarii n-o poti muta
+S-a dovedit adevarata
+Nu este stanca nu e Domn ca al meu:/
+
+[s2]
+/:Stanca vietii, Isus e stanca mea:/x3
+Nu este stanca, nu e Domn ca al meu
+
+[order]
+s1,s2

@@ -1,0 +1,31 @@
+[s1]
+Cand val de durere se-nalta pan’ la cer
+Si nu stiu in cine sa sper
+Isus imi sopteste, prin El voi trai
+Pace-n suflet imi va darui
+
+[r1]
+Ca un rau-linistea
+Mi-a cuprins-inima
+Este pace in sufletul meu
+
+[s2]
+Desi incercari inca multe vor veni
+Neincredere-asterne cel rau
+De sfanta speranta e plin gandul meu
+Ca voi fi cu Isus intr-o zi.
+
+[s3]
+O Doamne, grabeste sa vina ziua Ta
+Cand trambiti prin slavi vor suna
+Alaiul regesc Doamne,
+vreau sa-L primesc
+Cu cei sfinti catre cer sa pornesc
+
+[s4]
+Si pe nori prea frumos
+Catre cer glorios
+Voi urca, voi canta, Osana!!
+
+[order]
+s1,r1,s2,r1,s3,s4

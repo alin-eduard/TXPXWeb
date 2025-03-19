@@ -1,0 +1,30 @@
+[s1]
+/: Noi asteptam
+pe Domnul Isus cind vine :/
+Noi asteptam pe Domnul,
+Ce ne-a gatit locul
+Si in marire ne va duce
+
+[s2]
+/: Noi mergem
+Inaintea lui Isus cind vine:/
+Noi mergem inainte,
+El bratu-si intinde,
+Si in locul promis ne duce
+
+[s3]
+/: Vedea-vom pe Isus
+Pe nori cind va veni :/
+Da, vedea-vor pe Isus
+Si cei ce l-au strapuns
+Si toti cei din lume vor plinge
+
+[s4]
+/: Pacatosule ce raspunzi
+Cand va veni :/
+O, ce va fi cu tine,
+Nu te-a scapa nimeni,
+Caci locul tau ti l-ai pregatit
+
+[order]
+s1,s2,s3,s4

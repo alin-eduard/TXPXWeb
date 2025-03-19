@@ -1,0 +1,50 @@
+[s1]
+Două mii de ani s-au împlinit
+De când Isus cheamă suflete
+Din robia negrului păcat
+La viaţă, mântuire-n dar.
+
+[s2]
+/: Isus cheamă şi azi cheamă
+Orice suflet care zace în păcat;
+Harul Său mila mai are
+Deci, te-ntoarce cât mai ţine al Său har! :/
+
+[s3]
+Ani pierduţi s-au scurs din viaţa ta
+Refuzând sfânta chemarea Lui;
+Glasul Său te cheamă azi să vii:
+„Vino astăzi, până nu-i târziu!..."
+
+[s4]
+/: Vino astăzi, vin' degrabă!
+Lui Isus închină-I toată viaţa ta!
+Crede-n jertfa de pe cruce,
+Jertfa sfântă care-ţi dă mântuirea :/
+
+[s5]
+Deci, primeşte tu sfânta chemare
+Ce ţi-o face azi sfântul Isus!
+Poate este ultima-aşteptare...
+Nu respinge glasul Său de sus!
+
+[s6]
+/: Lasă lumea şi păcatul
+Foloseşte-n grabă clipele de har,
+Căci e-aproape ziua groazei,
+Ziua-n care mulţi vor plânge cu amar! :/
+
+[s7]
+Fericiţi vor fi în veci de-a pururi
+Mântuiţii lui Isus Hristos
+Ce-au păstrat haina sfântă curată
+Şi-au dus crucea, n-au lăsat-o jos.
+
+[s8]
+/: Vom cânta cântarea nouă:
+Cântare lui Isus, Mielul cel divin!
+Vom umbla pe străzi de aur,
+Pe străzile noului Ierusalim :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

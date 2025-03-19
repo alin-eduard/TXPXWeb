@@ -1,0 +1,33 @@
+[s1]
+2184
+1. Duhul Sfânt aici coboară
+Și pe toți ne înfășoară
+Cu iubirea Lui divină
+Ne inundă cu lumină.
+
+[r1]
+Cor: Umple-mi Doamne candela
+Să ard pentru slava Ta
+O, inundă adunarea
+Să înceapă sărbătoarea.
+
+[s2]
+2. Ca și roua dimineața
+Duhul Sfânt ne-aduce viața
+Sufletul ne-nviorează
+Inima ne-o ține trează.
+
+[s3]
+3. El ne umple cu iubire
+Ne ajută în sfințire
+Când va fi la miezul nopții
+Să ne ia din valea morții.
+
+[s4]
+4. Spune-mi dacă ești tu gata
+Că se aude maranata
+Domnul nostru iată-L vine
+Va veni și pentru tine.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

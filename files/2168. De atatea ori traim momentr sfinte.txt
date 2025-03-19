@@ -1,0 +1,51 @@
+[s1]
+2168
+1. De atâtea ori trăim
+momente sfinte
+Când suntem strânşi în al
+iubirii foc
+Şi parcă am vrea ca Iosua
+să spunem
+Opreşte, Doamne, soarele în loc.
+
+[r1]
+Cor: Dar în curând veni-va
+ziua sfântă
+Când împreună toţi în cer vom fi
+Vom sta mereu în dulce părtăşie
+Și-n veci de veci nu ne-om
+mai despărţi.
+
+[s2]
+2. E aşa de bine când suntem
+cu toţii
+Și mult dorim să nu ne despărţim
+Să facem trei colibi am vrea
+ca Petru
+Să stăm aşa în harul ce-l simțim.
+
+[s3]
+3. E minunat în sfânta părtăşie
+Când stăruim cu toţi în rugăciuni
+Noi Te rugăm, o, Doamne
+întinde-Ți mâna
+Lucrează iar cu semne şi minuni.
+
+[s4]
+4. O, lasă Doamne în noi
+iubire sfântă,
+Să fim în clocot pentru slava Ta
+Ca într-un gând, un cuget
+şi-o simţire,
+S-avem izbândă-n lumea asta rea.
+
+[s5]
+Cor: /: Dar în curând Tu vei
+veni Isuse
+Și vom lăsa pe veci acest pământ
+În tainică şi dulce părtăşie
+Ne-om bucura cu Tine în
+cerul sfânt :/.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5

@@ -1,0 +1,46 @@
+[s1]
+1. Câte-or fi chemări pe lume
+Nu-i alt-asemenea ei
+Celei ce o face Domnul
+Să lucrezi în via Lui.
+231
+
+[r1]
+Cor:
+/:E cel mai minunat
+Cu Domnul de lucrat
+În ogorul sfânt
+Şi binecuvântat :/
+
+[s2]
+2. Timpul este pe sfârşite
+Lucrători mai sunt puţini
+Voi ce auziţi chemarea
+Bucuroşi cu toţi veniţi.
+
+[s3]
+3. Cel ce cheamă este-n ceruri
+Pentru ceruri El ne vrea
+Tuturor împarte milă
+După sfântă voia Sa.
+
+[s4]
+4. Nu vă temeţi de furtună
+Nu vă ascundeţi de zăduf
+El ne trimite ocrotire
+Şi ne umbreşte Duhul Sfânt.
+
+[s5]
+5. N-au fost vremi să nu le ştie
+Şi nu sunt de vor veni
+El cunoaşte viitorul
+Braţul Lui ne conduce.
+
+[s6]
+6. Fără luptă nu-i cunună
+Plata-i după cum lucrezi
+Deci cu inima voioasă
+Soră, frate să lucrezi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

@@ -1,0 +1,43 @@
+[s1]
+A înviat Isus Hristos,
+El, începutul vieţii!
+La dreapta Tatălui ceresc
+Sta azi, ca Prinţ al păcii!
+A înviat Isus Hristos,
+Cuvântul sfant ne spune!
+Mormântul gol si piatra grea
+Ne stau azi mărturie.
+
+[r1]
+/: E veselie pe pământ!
+Se bucura-omenirea
+Căci a-nviat Isus Hristos!
+Osana! Aleluia!
+Prin El suntem răscumpăraţi,
+Prin El avem iertare.
+Slăvim si binecuvântam
+Ziua-nvierii sale! :/
+
+[s2]
+A înviat Isus Hristos!
+Ce mare bucurie!
+De azi, prin har,
+Suntem chemaţi
+Cu toţi la mântuire!
+A înviat Isus Hristos
+in slava si putere!
+Veniţi, cântaţi cu noi in cor
+Despre a sa-nviere!
+
+[s3]
+A înviat Isus Hristos
+din moarte la viata!
+Va trece orice păcătos
+Prin jertfa Sa măreaţă.
+A înviat Isus Hristos,
+El boldul morţii frant-a!
+De astăzi, orice credincios
+In veci prin El trai-va!
+
+[order]
+s1,r1,s2,r1,s3,r1

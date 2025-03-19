@@ -1,0 +1,37 @@
+[s1]
+Tu, Cel mai sfânt şi preaînalt,
+O, Doamne Dumnezeu,
+Cel peste toate înălţat,
+Venim la Tronul Tău.
+Deşi simţim că slabi suntem,
+În Tine bucurie-avem,
+Că eşti măreţ şi glorios,
+Cuvântul Tău L'ascultă toţi;
+Primeşte-ne acum ’naintea Ta!
+
+[s2]
+Noi ştim că suntem păcătoşi,
+Ce mult Te-am întristat;
+Doar prin iubirea lui Hristos,
+Iertarea Ta ne-ai dat.
+Noi prin Isus am fost salvaţi,
+În sfântu-I nume stăm plecaţi.
+Cu cinste înaintea Ta,
+Voioşi, Părinte, vom cânta,
+O, Doamne, vrem pe veci
+Să fim ai Tăi!
+
+[s3]
+Noi suntem fericiţi, voioşi,
+Isus e azi pe Tron,
+Deşi dispreţuit de toţi,
+El e-al măririi Domn!
+E ziua biruinţei Lui,
+Nimic nu stă în calea Lui.
+Trimite, Doamne-al Tău Cuvânt
+Şi roada ia-Ţi de pe pământ!
+O, Doamne, vrem pe veci
+Să fim ai Tăi!
+
+[order]
+s1,s2,s3

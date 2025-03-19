@@ -1,0 +1,36 @@
+[s1]
+2170
+1. Când vântul bate sau treci
+prin noapte tu, frate nu te da-napoi
+Şi când furtuna loveşte întruna
+tu, frate nu te da-napoi
+Fii vegheator şi răbdător,
+rămâi în toate credincios
+Nu te opri şi nu slăbi
+căci ţinta ta este Hristos.
+
+[r1]
+Cor: /: Când pe Isus Îl ai în viaţă
+Barca ta va dăinui
+De-L ai pe El ca şi povaţă
+Prin orice greu vei birui :/.
+
+[s2]
+2. Când vântul bate sau treci prin noapte, statornic să rămâi mereu
+Şi când vin valuri ce aduc necazuri Tu să priveşti la Dumnezeu
+Spre ţara sfântă tu te avântă Privind la promisiunea dată
+Cum ai iertat şi ai lucrat,
+Aşa primi-vei o răsplată.
+
+[s3]
+3. Când vântul bate sau treci
+prin noapte, rămâi în post
+şi-n rugăciune
+Fii credincios şi de folos, făcând mereu doar fapte bune
+De faci aşa, tu vei avea
+răsplată de la Dumnezeu
+În cerul Său în slava Sa
+vei fi pe veci copilul Său.
+
+[order]
+s1,r1,s2,r1,s3,r1

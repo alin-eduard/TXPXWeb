@@ -1,0 +1,33 @@
+[s1]
+1453.                           Mi b
+Isuse scump a noastră mântuire
+Sub crucea Ta ca jertfă ţi-am adus
+O inimă ce arde în iubire
+Şi-un dor ce zboară tot mereu mai sus
+Cor  /:Mai sus mai sus pe aripi ca de vultur
+Conduce Domnul pe al Său popor
+Când se va şterge plânsul şi durerea
+Prea fericiţi vor fi cu Domnul lor:/
+
+[s2]
+Noi rătăceam ca nişte oi pierdute
+Lipsite de păşune şi izvor
+Dar Tu pe mine m-ai chemat pe nume
+Căci m-ai iubit o scumpul meu Păstor
+Cor  /:Mai sus mai sus pe aripi ca de vultur
+Conduce Domnul pe al Său popor
+Când se va şterge plânsul şi durerea
+Prea fericiţi vor fi cu Domnul lor:/
+
+[s3]
+Noi Te urmăm iubire minunată
+Trudiţi ne chemi şi pace Tu ne dai
+Şi-n noaptea vieţii cea întunecată
+Liman ne eşti şi călăuză-n rai
+Cor  /:Mai sus mai sus pe aripi ca de vultur
+Conduce Domnul pe al Său popor
+Când se va şterge plânsul şi durerea
+Prea fericiţi vor fi cu Domnul lor:/
+
+[order]
+s1,s2,s3

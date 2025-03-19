@@ -1,0 +1,39 @@
+[s1]
+1.	O ulcea cu flori frumoase
+A început mereu să crească
+În căsuţa cea de lut
+A-nceput să facă fruct.
+2.	Fructul ei un fruct frumos
+Umple casa de miros
+Ea răspândeşte parfum fin
+Ce miroase-a flori de crin.
+459.
+
+[s2]
+3.	Cât îmi este de iubită
+Floarea sfântă înflorită
+N-aş da-o din a mea casă
+Nici pe averea cea aleasă.
+4.	Nici pe aur nici pe argint
+Nici pe flori de pe pământ
+Îi sădită din Duh Sfânt
+Sădită-i din Duhul Sfânt.
+
+[s3]
+5.	Duhul Sfânt de la Rusalii
+De la sărbătoarea mare
+Cine vrea ca să iubească
+Să se roage să-L primească.
+6.	Când primeşti tu Duhul Sfânt
+În căsuţa de pământ
+În ulceaua ta sădeşte
+Floarea care nu vestejeşte.
+
+[s4]
+7.	Asta-i floarea minunată
+Cea mai sfântă şi curată,
+În inima mea s-a sădit
+Tatăl, Fiul şi Duhul Sfânt.
+
+[order]
+s1,s2,s3,s4

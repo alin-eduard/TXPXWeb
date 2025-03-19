@@ -1,0 +1,20 @@
+[s1]
+Astăzi sînt plin de fericire
+În cuvinte nu ştiu să spun.
+Căci am în Domnul meu mîntuire
+Aşa cum sînt, eu mă supun.
+
+[r1]
+/: Sînt salvat, sînt salvat !
+Azi de Domnul sînt eliberat ! :/
+
+[s2]
+Tot privind la Tine
+Cu încredere păşesc.
+Stai alăturea de mine
+Ca nicicînd să nu greşesc.
+Sînt fericit căci m-a iubit
+Şi m-a mîntuit !
+
+[order]
+s1,r1,s2,r1

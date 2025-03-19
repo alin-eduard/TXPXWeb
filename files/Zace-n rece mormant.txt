@@ -1,0 +1,31 @@
+[s1]
+Zace-n rece mormant, Mantuitorul
+Zi de-nviere vin’Doamne Isus.
+
+[s2]
+Luati piatra de pe mormant, s-a sculat!
+Caci Isus din morti a inviat!
+El fusese rastignit nevinovat
+Dar puterea mortii a surpat.
+/:A-nviat:/ Aleluia a-nviat!
+
+[s3]
+Mormantul sigilati o, Doamne Sfinte
+Pe rege-ntemnitati Doamne Isus.
+
+[r1]
+Luati piatra de pe mormant,
+s-a sculat!
+Caci Isus din morti a inviat!
+El fusese rastignit nevinovat
+Dar puterea mortii a surpat.
+/:A-nviat:/ Aleluia a-nviat!
+
+[s4]
+Al mortii bold ai frant,
+o Print al vietii
+Invinsai suferind,
+Doamne Isus.
+
+[order]
+s1,s2,s3,r1,s4,r1

@@ -1,0 +1,37 @@
+[s1]
+1. Ascultaţi voi astăzi, o popor ales
+Toţi aceia care sunteţi credincioşi
+Priviţi către Stânca
+Din care-aţi fost ciopliţi
+Şi înspre groapa
+Din care aţi fost scoşi
+1727.    Mi b m
+
+[r1]
+Cor:	/:Israel, Israel, Israel
+Domnul are milă de Sion
+Va zidi iar zidurile Tale
+Şi îl vei cunoaşte că e Domn
+Israel, Israel, Israel
+Pustia Ta va fi ca şi un rai
+Numai bucurie şi cântare
+Va fi în locu-n care astăzi stai:/
+
+[s2]
+2. Amintiţi-vă acum de Avraam
+Şi de Sara care pe voi v-a născut
+Când era doar singur
+I-a zis că-l va-nmulţi
+Şi Domnul l-a înmulţit
+Nespus de mult
+
+[s3]
+3. Dumnezeul slavei
+De noi s-a îndurat
+Din păcat şi moarte
+Ne-a răscumpărat
+Prin Isus Mesia viaţă El ne-a dat
+Orişicine crede poate fi salvat
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,43 @@
+[s1]
+1423.   Mi b
+Din valea aceasta a plângerii
+Te cheamă azi ai Tăi copii
+Te cheamă azi mireasa Ta
+Vino Isuse după ea.
+Cor  Vino Isuse, vino mai degrabă
+Vino căci Te aşteptăm cu dor
+Vino şi du-ne sus cu Tine-n slavă
+Să-Ţi cântăm cu-al îngerilor cor
+
+[s2]
+Din întristări şi din amar
+Noi te chemăm Isuse iar
+Vino din nou prin Duhul Sfânt
+La turma Ta de pe pământ
+Cor     Vino Isuse, vino mai degrabă
+Vino căci Te aşteptăm cu dor
+Vino şi du-ne sus cu Tine-n slavă
+Să-   Ţi cântăm cu-al îngerilor cor
+
+[s3]
+Atâtea răni sunt care dor
+O scump Isus o bun Păstor
+Samariteanule milos
+Cu-al Tău balsam vino aici jos.
+Cor     Vino Isuse, vino mai degrabă
+Vino căci Te aşteptăm cu dor
+Vino şi du-ne sus cu Tine-n slavă
+Să-   Ţi cântăm cu-al îngerilor cor
+
+[s4]
+Te-aşteptăm şi Te dorim
+Să spunem ce mult Te iubim
+Cu Tine-i soare făr-apus
+Mire iubit şi drag Isus
+Cor    /: Vino Isuse vino Mesia
+Strigă Duhul strigă mireasa
+Osana cântă azi răscumpăraţii
+Vrem să vină Doamne ziua Ta.
+
+[order]
+s1,s2,s3,s4

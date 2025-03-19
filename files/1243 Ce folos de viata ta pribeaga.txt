@@ -1,0 +1,44 @@
+[s1]
+1.Ce folos de
+Viaţa ta pribeagă
+Ai trăit-o fără Dumnezeu
+Ai crezut că Dumnezeu există,
+Dar nicicând
+Nu L-ai primit pe El.
+1243.   								   Fa
+
+[r1]
+Ce folos să ai de toate?
+Dacă nu ai mântuirea
+Dacă nu ai fericirea cu Isus?
+Tot ce-ai strâns în astă lume
+În curând le laşi pe toate.
+Poate vei pleca la noapte, Prieten drag!?
+
+[s2]
+2.Ce folos să spui
+Că ai credinţă?
+Ce folos să te numeşti creştin?
+Când mereu
+Ți-e inima aprinsă
+După lume cu al ei venin.
+
+[s3]
+3.Păcătos tu eşti
+În lumea-aceasta,
+Osândit eşti de păcatul tău
+Domnul tău, Isus Hristos,
+Te iartă
+Vino, să te-mpaci cu Dumnezeu.
+
+[s4]
+4.Domnul meu,
+Isus Hristos, te cheamă
+Să te-ntorci la El,
+Să te predai
+A ta inimă de azi să bată
+Pentru Domnul,
+Să ajungi în Rai.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

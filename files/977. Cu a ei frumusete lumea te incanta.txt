@@ -1,0 +1,29 @@
+[s1]
+977.
+1. Cu a ei frumuseţe
+Lumea te încântă
+Însă tu la dânsa
+Nu privi nicicând
+Căci cum piere ceaţa
+Şi cum fumul piere
+Tot aşa şi lumea
+Va pieri-n curând.
+
+[s2]
+2. Tu te-ncrede-n Domnul
+Şi pe El iubeşte
+Şi de-a pururi caută
+Să faci voia Lui
+Căci în astă lume
+E deşertăciune
+Pentru mine altă fericire nu-i.
+
+[s3]
+3. Vrei în cer o viaţă
+Ce sfârşit nu are
+Vrei o fericire fără de sfârşit
+În a ta credinţă, în a ta nădejde
+În a ta iubire fii desăvârşit.
+
+[order]
+s1,s2,s3

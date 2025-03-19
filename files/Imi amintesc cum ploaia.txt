@@ -1,0 +1,42 @@
+[s1]
+Îmi amintesc cum ploaia rece
+Curgea pe faţa mea
+Când singur rătăceam
+In noaptea grea
+Iar lacrimi reci priveaţi atunci Curgeau din ochii mei
+Şi toată disperarea
+Inima-mi ardea
+
+[s2]
+Îmi amintesc cum toamna lungă domnea în fiinţa mea
+Şi tot ce-aveam erau
+Doar frunze ce cădeau
+Dar am sperat ca primăvara
+Să vină-n viaţa mea
+Iubirea şi speranţa
+Din nou de voi avea
+
+[r1]
+Şi L-am auzit cum mă chema,
+Cu o iubire caldă îmi vorbea ...
+Şi am înteles că mă dorea,
+Cu Lumina Fetei Lui mă copleşea
+
+[s3]
+Daca eu aş îndrăzni
+Să privesc inima ta
+N-aş gasi nici un răspuns
+Pentru problema ta
+Dar este Unul Sus în Cer
+Ce te poate ajuta
+EL va aduce iar lumină-n viaţa ta
+
+[s4]
+Dumnezeu acum te cheama,
+Vino deci la Crucea Sa.
+EL a murit şi pentru tine,
+EL este viu
+Şi va domni în veci de veci
+
+[order]
+s1,s2,r1,s3,s4,r1

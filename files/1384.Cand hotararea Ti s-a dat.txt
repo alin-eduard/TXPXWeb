@@ -1,0 +1,59 @@
+[s1]
+1384.
+1.  Când hotărârea Ţi s-a dat
+În sala judecăţii
+Pilat pe mânuri s-a spălat
+Zicând că nu e vinovat
+O Isuse mult ai mai răbdat.
+
+[s2]
+Dar au venit pârâşii Tăi
+Cu gânduri tare rele
+Între Tine şi întemniţat
+Pe ultimul l-a preferat
+Cu Tine au strigat la răstignire.
+
+[s3]
+Lung a fost drumul spre calvar
+Presărat cu suspine
+Cu crucea-n spate Te-au purtat
+Pentru al lumii greu păcat
+O Isuse mult ai mai răbdat.
+
+[s4]
+Te-au răstignit între tâlhari
+Fără de nici-o vină
+Te-au pironit şi Te-au scuipat
+Fără de nici o milă
+O Isus mult ai mai răbdat.
+
+[s5]
+Acei care i-ai săturat
+Acei care i-ai vindecat
+Te-au părăsit fără temei
+Până şi ucenicii Tăi
+O Isus mult ai mai răbdat.
+
+[s6]
+Atunci când toţi Te-au părăsit
+Dar mama Ta Te-a însoţit
+Stătea şi ea sus pe calvar
+/: Plângând :/ cu mult amar
+O Isus mult ai mai răbdat.
+
+[s7]
+Afară s-a întunecat
+Când Duhul Tău Tu  ţi l-ai dat
+Pământul s-a cutremurat
+Asta spre mărturie
+Căci ai fost Fiul cel Preaînalt.
+
+[s8]
+8.  Sângele  Tău ce s-a  vărsat
+Spălând al lumii greu păcat
+Şi-un popor Tu ţi-ai format
+Să îl ridici în slavă
+O Isuse mult ai mai răbdat.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

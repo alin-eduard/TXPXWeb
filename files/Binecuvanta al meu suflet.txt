@@ -1,0 +1,19 @@
+[s1]
+Binecuvântă al meu suflet
+Pe Dumnezeu, pe-acest pământ
+În mine totul preamăreşte
+În veci, Numele Lui cel Sfânt.
+
+[r1]
+Binecuvântă, suflete al meu,
+Pe Domnul, Dumnezeul Cerului
+Şi nu uita nimic, din binefacerile Lui
+
+[s2]
+Căci El, îţi iartă făradelegea
+Şi rana Ţi-o va vindeca
+Din gropă, viaţa îţi izbăveşte
+Cu bunătaţi, te-a-ncununat.
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,39 @@
+[s1]
+Ca stropii de rouă
+Ce udă câmpul înverzit
+Ca norii din văzduh
+Ce-aleargă necontenit
+Ca raza de soare
+Ce umple văzduhul mereu
+/: Doresc Isuse să umpli
+Si sufletul meu. :/
+Sol M
+
+[s2]
+Cum cerbul doreşte izvorul cristalin
+Cum râul goneşte,
+Aleargă spumegând
+Alerg şi eu Doamne
+Spre Tine cu un dor sublim
+/: Să-mi dai din apa ce curge
+Din tronul divin. :/
+
+[s3]
+Cum stelele noaptea
+Pe cer eu le zăresc
+Oricât le-aş privi
+Frumos ele strălucesc
+Priveşte Isuse azi spre fiinţa mea
+/: Vino şi fă-mă să strălucesc
+Ca si o stea. :/
+
+[s4]
+Nu poţi găsi un loc mai bun
+Si mai frumos
+Decât lângă Tine să fiu mereu voios
+La Tine e harul, la Tine e pacea
+/: Toţi cei ce vin la Tine
+S-or repausa. :/
+
+[order]
+s1,s2,s3,s4

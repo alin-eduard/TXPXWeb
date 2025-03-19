@@ -1,0 +1,35 @@
+[s1]
+Al Tau sunt, Doamne,
+Cuvantu-mi zice
+Ca toate mi s-au iertat.
+Dar doresc a fi tot mai aproape,
+Sa nu raman departat.
+
+[r1]
+Du-mă, Doamne,
+du-mă tot mai aproape,
+La cruce unde-ai răbdat.
+Du-mă, Doamne,
+du-mă la Tine-aproape,
+O, Isuse, Miel junghiat.
+
+[s2]
+O sfinţeşte-mă prin al Tau Duh Sfânt
+Ca să pot purta crucea,
+Să pot lepăda tot pentru Tine
+Ca să am fericirea.
+
+[s3]
+Ce plăcut e când se adânceşte
+Inima în iubire
+Şi-n sfinţenie, cu tot ce are,
+Se predă, Doamne, Ţie.
+
+[s4]
+Iubire-adâncă, nemăsurată,
+La Tine Doamne este.
+Ce bucurie nemărginită
+Pe faţa Ta se vede.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

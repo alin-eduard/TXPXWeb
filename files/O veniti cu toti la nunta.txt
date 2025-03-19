@@ -1,0 +1,22 @@
+[s1]
+O, veniţi cu toţi la nuntă
+Căci uşa s-a deschis
+Cina este pregatită
+Deci, veniţi cu toţi, veniţi.
+Ai pe tine haina albă
+Să vii azi la masa Lui?
+Ai crezut la vremea potrivită
+În Cuvântul Domnului?
+
+[s2]
+Acela poate să aştepte
+Care-i nepăsător
+Altul locul îi va ţine
+La Mântuitor.
+Atăzi Domnul încă-aşteaptă
+Dar mult nu va mai sta,
+Uşa se va- nchide-ndată
+Vino acuma.
+
+[order]
+s1,s2

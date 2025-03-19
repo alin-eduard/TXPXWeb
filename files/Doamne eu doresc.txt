@@ -1,0 +1,31 @@
+[s1]
+Doamne, eu doresc
+să ştiu că-s mântuit
+Este ruga ce Te rog s-asculţi,
+Când aici sfârşesc o viaţă de trăit,
+Sufletul în aer îl ia,
+Te rog s-asculţi.
+
+[r1]
+De nu voi fi înfrânt
+şi bolnav pe acest pământ,
+Nu-i nimic, acolo toate trec
+Când aici sfârşesc o viaţă de trăit,
+Sufletu-mi în cer îl ia,
+Te rog s-asculţi.
+
+[s2]
+Întristări de vor fi pe acest pământ,
+Eu deşi nu le doresc defel
+De a mă zdrobi şi de voi fi înfrânt,
+Să nu-mi iei din inimă cerescul ţel.
+
+[s3]
+Doamne-Ţi mulţumesc
+că sunt pe veci al Tău
+Jertfa Ta pe mine m-a salvat,
+Când Tu vei veni în glorioasa zi
+Ia-mă sus să fiu pe veci în veşnicii.
+
+[order]
+s1,r1,s2,r1,s3,r1

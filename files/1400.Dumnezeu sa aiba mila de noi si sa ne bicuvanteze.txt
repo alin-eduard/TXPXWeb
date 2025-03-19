@@ -1,0 +1,37 @@
+[s1]
+Psalmul:67             1400.            Sol m
+1.  Dumnezeu să aibă milă de noi
+Şi să ne binecuvinteze
+Să facă să lumineze peste noi faţa Lui. Cor: /: Te laudă :/ popoarele Dumnezeule
+Toate popoarele Te laudă.
+
+[s2]
+Ca să se cunoască pe pământ calea Ta
+Şi printre toate neamurile
+Mântuirea Ta.
+Cor: /: Te laudă :/ popoarele Dumnezeule
+Toate popoarele Te laudă.
+
+[s3]
+Se bucură neamurile şi se veselesc
+Căci Tu judeci popoarele cu nepărtinire
+Şi povăţuieşti neamurile pe pământ.
+Cor: /: Te laudă :/ popoarele Dumnezeule
+Toate popoarele Te laudă.
+
+[s4]
+Pământul îşi dă roadele
+Dumnezeu Dumnezeul nostru
+Ne binecuvintează.
+Cor: /: Te laudă :/ popoarele Dumnezeule
+Toate popoarele Te laudă.
+
+[s5]
+5.  Dumnezeu ne binecuvintează
+Şi toate marginile pământului
+Se tem de El.
+Cor: /: Te laudă :/ popoarele Dumnezeule
+Toate popoarele Te laudă.
+
+[order]
+s1,s2,s3,s4,s5

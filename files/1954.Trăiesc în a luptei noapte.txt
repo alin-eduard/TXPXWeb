@@ -1,0 +1,33 @@
+[s1]
+1954
+1. Trăiesc în a luptei noapte
+Dar cu inima veghind
+Să aud a Tale şoapte
+Să alerg şi să-ţi deschid
+/: Căci în a mea cămăruţă
+Dorurile ce le-ascund
+Ţ-i le spun cu umilinţă
+Jos la crucea Ta le pun :/.
+
+[s2]
+2. Eu sunt Doamne doar ţărână
+Însă lupt ca să rămân
+Să fiu veşnic o lumină
+Vie pe acest pământ
+/: Binecuvântată mână
+Prinsă-n cuie pe calvar
+Zi de zi mereu mă-ndrumă
+Să trăiesc smerit în har :/.
+
+[s3]
+3. Numele ce mi-ai dat mie
+De copil răscumpărat
+Vreau să-l port să fiu ca Tine
+Domnul meu cel minunat
+/: De aceea zi sau noapte
+Te aştept neâncetat
+Ca fecioarele-nţelepte
+Stau veghind o Mire drag :/.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,33 @@
+[s1]
+1691.
+1. În lumea aceasta toate-s trecătoare
+Se duc într-una, toate vor pieri
+Şi lucruri cari fac inima să doară
+Acolo sus vor fi doar amintiri
+Dar pân-atunci voi lăuda pe Domnul
+Ruga mea,spre cer se va-drepta
+Până-n acea zi,când în cer voi ajunge
+În ziua când Il voi vedea.
+
+[s2]
+2. În lumea aceasta toate-s trecătoare
+Durerile-s doar trepte tot mai sus
+De-a lungul drumului ce mă conduce
+L-al meu Mântuitor, iubit Isus.
+Dar pân-atunci inima mea să cânte
+Pân-atunci cu drag eu voi aştepta
+Până-n acea zi când în cer voi ajunge
+În ziua când mă va chema.
+
+[s3]
+3. În lumea aceasta toate-s trecătoare
+Necazul meu de azi va fi cândva
+Cununa vieţii cea nemuritoare
+Ce Domnul în ceruri mie îmi va da
+Dar pân-atunci cu Domnul voi rămâne
+Viaţa voi trăi-o-n înălţimi
+Până-n acea zi când voi ajunge
+În ziua când L-oi întâlni.
+
+[order]
+s1,s2,s3

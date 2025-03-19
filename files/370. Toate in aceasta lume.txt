@@ -1,0 +1,51 @@
+[s1]
+1. Toate în această lume
+Toate sunt deşertăciune
+Aveam prieteni cu renume
+Am petrecut şi-am făcut glume
+Nu ştiam pe-acest pământ
+Că toate-s goană după vânt.
+370.
+
+[s2]
+2. Mergeam cu prietenii-mpreună
+La petreceri şi voie bună
+Şi iubeam tot ce-i frumos
+Nu cunoşteam pe Hristos
+Nu ştiam pe-acest pământ
+Că toate-s goană după vânt.
+
+[s3]
+3. Eram în lume la o nuntă
+Şi nu ştiam ce mi se-ntâmplă
+Eu aveam o cercetare
+Din a Domnului lucrare
+Nu ştiam pe-acest pământ
+Că toate-s goană după vânt.
+
+[s4]
+4. Am auzit şi-un viu grai
+Aici tu să nu mai stai
+Aşa-mi şoptise Dumnezeu
+Nu aici e locul tău
+Căci aici pe acest pământ
+E numai goană după vânt.
+
+[s5]
+5.Atunci Domnul m-a luat de mână
+Şi-a zis să mergem împreună
+De când ţi-am înţeles lucrarea
+Şi am ascultat chemarea
+Eu acuma am văzut
+Că toate-s goană după vânt.
+
+[s6]
+6. Fie vânt şi iarnă afară
+În inimă-i primăvară
+Fie vânt şi vreme rea
+Mie-mi saltă inima
+Eu de-acuma sunt salvat
+Domnul Isus m-a iertat.
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,43 @@
+[s1]
+Bucuraţi-vă de vestea bună
+Şi deschideţi-vă inima
+Faceţi şi voi azi din ea o iesle,
+Să se nască Domnul şi în ea
+Pregătiţi-I astăzi loc de cinste,
+Pruncului preasfânt venit de sus
+Aşteptaţi-L toţi cu bucurie,
+Pe Mesia, Domnul, pe Isus
+
+[r1]
+/: Slavă sus în cer, pace pe pământ,
+Cântă oastea sfânt-a Domnului
+Pace fie între oameni,
+Pace între-aceia plăcuţi Lui.
+Aleluia, aleluia,
+Să răsune slavă Domnului
+Aleluia, aleluia,
+Pace între-aceia plăcuţi Lui. :/
+
+[s2]
+Duceţi mai departe vestea bună,
+Că ni s-a născut Mântuitor
+Tot aşa cum îngerii din slavă,
+Vestea au adus păstorilor
+Daţi şi voi în dar cu bucurie,
+Inimi sfinte astăzi lui Isus
+Tot aşa cum magii din vechime,
+Daruri scumpe Pruncului
+I-au dus
+
+[s3]
+Să ne bucurăm că El trăieşte
+Şi ca viu în inimi Îl avem,
+Pe-mpăratul ce în umilinţă,
+S-a născut în iesle-n Betleem
+Să-I cântăm cu inimi bucuroase
+Slavă fie Celui ce-a venit
+Să ne mântuiască din pierzare,
+Domnul fie în veci preamărit.
+
+[order]
+s1,r1,s2,r1,s3,r1

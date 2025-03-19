@@ -1,0 +1,32 @@
+[s1]
+Lasă­-mi cumpăna gândirii,
+Mai ’nainte de­-a vorbi,
+Şi puterea stăpânirii,
+Adevăr să pot rosti.
+Ştiu că Ţie­-Ţi voi da seama
+Pentru orişice am spus,
+Şi mă umple, Doamne,
+Teama că osândei voi fi dus.
+
+[s2]
+Doamne­-ndură-Te de mine,
+Singur eu mă osândesc
+Când roastesc pripit cuvinte
+Şi vorbind, păcătuiesc!
+Vrednic sunt de judecată!
+O, îndură-Te, Isus,
+Ca să nu aud odată
+Câte vorbe rele­-am spus.
+
+[s3]
+Prin mustrarea Ta­-nţeleaptă
+Pune limbii mele frâu
+Căci uşor de-­a ei ispită
+Biruit eu pot să fiu.
+Cât de greu loveşte­-adesea
+Vorba ne-­nfrânatei guri!
+Doamne­-nvaţă-mă măsura
+Cumpănită din Scripturi!
+
+[order]
+s1,s2,s3

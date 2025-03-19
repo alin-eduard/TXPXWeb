@@ -1,0 +1,51 @@
+[s1]
+Re
+1. Dacă vrei să zbori pe muntele cel sfânt să locuieşti,
+Verifică-ţi azi viaţa
+Şi ia seama cum trăieşti.
+208.
+
+[s2]
+/: Căci acolo sus pe munte
+Nici un om nu va fi dus
+Din acei ce nu-şi trăiesc
+A lor viaţă cu Isus. :/
+
+[s3]
+2. Căci în Psalmul cincisprezece,
+Domnul ne spune aşa:
+Cel ce umblă în sfinţenie
+Şi-mplineşte voia Sa,
+
+[s4]
+/: Acela nu cleveteşte,
+Nimănui nu face rău,
+Dimpotrivă, face bine
+Chiar şi vrajmaşului său. :/
+
+[s5]
+3. Acei ce aşa se poartă,
+Nicicând nu s-or clătina,
+Ei vor merge pân’ la poartă
+Şi în curte vor intra.
+
+[s6]
+/: Şi vor locui în cortul
+De pe Muntele cel Sfânt
+Unde Domnul îi va strânge
+Pe ai săi de pe pământ. :/
+
+[s7]
+4. Acolo toţi împreună
+Pe Domnul vor lăuda
+Şi de Templul Lui cel Sfânt
+Veşnic se vor bucura.
+
+[s8]
+/: Căci va fi o slavă mare
+Ce nici unul n-a văzut
+Pregătită chiar de Domnul
+Pentru poporul cel sfânt. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

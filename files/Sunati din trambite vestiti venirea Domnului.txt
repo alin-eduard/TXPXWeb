@@ -1,0 +1,37 @@
+[s1]
+Sunaţi din trâmbiţe,
+vestiţi venirea Domnului
+În haine albe vă-mbrăcaţi,
+toţi cei aleşi ai Lui !
+Vestiţi lumii întregi
+să ştie de iubirea Sa
+Că Mirele vine-n curând
+să-Şi ia mireasa Sa !
+
+[r1]
+/: Cu Osana Domnului,
+lăudăm Numele Lui
+Fie binecuvântat
+Numele-I de Împărat!:/ (3x)
+
+[s2]
+Din depărtări vom auzi cântarea Mielului
+Triumfători şi îngerii
+cânta-vor slava Lui.
+Te-ai pregătit să-I cânţi
+şi tu cu îngerii în cor ?
+Dacă în El te-ai încrezut,
+vei fi biruitor !
+
+[s3]
+Covor de flori să-I presărăm,
+că ne-a răscumpărat
+Prin jertfa Lui ne-a mântuit
+din starea de păcat.
+Sunaţi din trâmbiţe,
+vestiţi venirea Domnului
+Căci ziua Lui se-apropie,
+lăudaţi Numele Lui !
+
+[order]
+s1,r1,s2,r1,s3,r1

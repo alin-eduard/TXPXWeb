@@ -1,0 +1,69 @@
+[s1]
+1. Când era Isus pe cruce
+A strigat cu glasul dulce
+A strigat că-i era sete
+L-au adăpat c-un burete
+2. Fiere amară şi oţet
+I-a fost băutura toată
+Şi cam trei ceasuri de vreme
+Soarele n-a dat vedere
+755.
+
+[s2]
+3. Luna stele s-au supus
+Şi de jale toate au plâns
+Nici un înger n-a cântat
+Văzând pe-a lor împărat
+4. Cununa neagră de spini
+Stând pe cruce-ntre străini
+Din Fiul lui Dumnezeu
+Curge sângele pârâu
+
+[s3]
+5. Din mâini, coaste şi picioare
+Curge sângele şiroaie
+Când eram pe cruce stând
+Am strigat cu glasul blând
+6. Când sub arşiţa de soare
+Mă zbat în chin şi-n durere
+Chinuit batjocorit
+De oameni sunt răstignit
+
+[s4]
+7. Rănile mă dureau rău
+M-a părăsit Tatăl Meu
+Mâinile mi-s ţintuite
+De ce m-ai lăsat Părinte
+8. Sunt singur şi n-am pe nimeni
+Ca să stea pe lângă Mine
+Ucenicii m-au lăsat
+Toţi de la mine au plecat
+
+[s5]
+9. Pe flămânzi i-am săturat
+Pe bolnavi i-am vindecat
+Dar acum nu am pe nimeni
+Ca să stea pe lângă Mine
+10. Am venit la voi lumină
+Pe cruce mi-aţi dat odihnă
+Viaţă-n lume am adus
+Şi ei pe cruce m-au pus
+
+[s6]
+11. În mâinile duşmanilor
+M-a dat Tatăl meu să mor
+Toţi în faţă m-au scuipat
+Şi cu pumnii mă loveau
+12. Cunună de spini pe frunte
+Crucea grea era în sânge
+Puterile îmi slăbeau
+Pe mine mă răstigneau
+
+[s7]
+13. Între tâlhari Tată dulce
+M-ai dat ca să mor pe cruce
+Vai de neamu-acesta rău
+Căci nu cred în Dumnezeu.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

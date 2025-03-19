@@ -1,0 +1,29 @@
+[s1]
+856.
+O, ţara mea, o, ţara mea
+Ce mult eu te doresc
+Din toată inima aş vrea
+S-ajung să te privesc.
+Către cer, către cer
+Îmi înalţ ochii mei
+De acolo va veni Hristos
+Şi îl aştept mereu.
+
+[s2]
+3.  O, ţara mea în lume nu-i
+E sus la Dumnezeu
+O, tu Canaan pământ promis
+De tine dornic sunt.
+4.  Amară-i lumea, tare-i amară
+Această lume rea
+Dar cum va fi eu n-am habar
+Aştept, o, ţara mea.
+
+[s3]
+5. Nu mai e, nu mai e
+Mult timp de aşteptat
+Şi-ndată-ndată va veni
+Pământul minunat.
+
+[order]
+s1,s2,s3

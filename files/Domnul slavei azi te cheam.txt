@@ -1,0 +1,32 @@
+[s1]
+Domnul slavei azi te cheamă,
+Vino şi vezi!
+La ospăţ cu drag te­ndeamnă,
+Vino şi vezi!
+
+[r1]
+Vestea peste tot să sune,
+Deal şi vale să răsune.
+Isus cheamă pe oricine,
+Vino şi vezi!
+
+[s2]
+Să audă mic şi mare,
+Vino şi vezi!
+Că primesc cu toţi iertare,
+Vino şi vezi!
+
+[s3]
+Vino înaintea nopţii!
+Vino şi vezi!
+Nu sta până-n clipa morţii!
+Vino şi vezi!
+
+[s4]
+Vino la ospăţul nunţii!
+Vino şi vezi!
+La un loc să cânţi cu sfinţii!
+Vino şi vezi!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

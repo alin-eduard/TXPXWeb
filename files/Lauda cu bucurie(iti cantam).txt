@@ -1,0 +1,26 @@
+[s1]
+Laudă cu bucurie
+Îţi aducem neîncetat
+Doamne Ţie, numai Ţie
+Căci eşti Sfânt şi Minunat.
+
+[r1]
+Îţi cântăm x2
+Numele Tău adorăm
+Fii slăvit x2
+Dumnezeu nemărginit
+
+[s2]
+Laudă cu închinare
+Îţi cântăm în Duh supus
+Adorare, adorare
+Ţie îţi dăm,aici şi sus.
+
+[s3]
+Laudă cu neoprire
+Îţi jertfim cu foc în gând
+Cu iubire,cu iubire
+Dumnezeul nostru sfânt.
+
+[order]
+s1,r1,s2,r1,s3,r1

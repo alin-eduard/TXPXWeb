@@ -1,0 +1,38 @@
+[s1]
+O, nu-I respinge chemarea
+Nu refuza harul cel sfânt,
+Nu-ţi împietri inima ta
+Ci vino grăbit!
+De ce nu astăzi?
+De ce nu astăzi?
+Să fii salvat, de ce nu astăzi?
+
+[s2]
+Vezi mâine fi-va prea târziu
+Nu va fi loc pentru tine,
+Azi primeşte Cuvântul viu
+Şi-ţi va fi bine.
+De ce nu astăzi?
+De ce nu astăzi?
+Să fii salvat, de ce nu astăzi?
+
+[s3]
+Astăzi, eşti chemat de Isus
+Ai grijă nu-L nesocoti
+Mâine se poate să fii dus
+De+aici în veşnicii.
+De ce nu astăzi?
+De ce nu astăzi?
+Să fii salvat, de ce nu astăzi?
+
+[s4]
+Domnul Isus a mântuit
+Niciodată n-a refuzat,
+Pe cei ce aici L-au primit
+Şi Lui i-au urmat.
+De ce nu astăzi?
+De ce nu astăzi?
+Să fii salvat, de ce nu astăzi?
+
+[order]
+s1,s2,s3,s4

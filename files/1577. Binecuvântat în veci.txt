@@ -1,0 +1,40 @@
+[s1]
+1577.
+1.Binecuvântat în veci
+Să fii Doamne stânca mea       Binefăcătorul meu
+În încercarea cea mai grea
+Scutul meu de adăpost
+Numai Tu Doamne mi-ai fost
+De aceea-ţi voi cânta
+Doamne cetăţuia mea
+
+[s2]
+2.Tu asupra mea veghezi
+Şi îmi ştii umblarea mea
+Zi de zi mă cercetezi
+Şi îmi cunoști inima
+Binecuvântat să fii
+Stânca mea din veşnicii
+Soare fără de apus
+Fii lăudat în veci Isus
+Să fii în veci glorificat
+Domnul meu cel minunat
+Soare blând şi luminos
+Fii slăvit Isus Hristos
+
+[s3]
+3.Gura mea te va lăuda
+Câtă viaţă voi avea
+Tu Izbăvitorul meu
+Sfânt şi mare Dumnezeu
+/: Înaintea Ta mă-nchin
+Salvatorul meu divin
+Pentru toate te slăvesc
+Te măresc şi-Ţi mulţumesc
+Lăudaţi-L şi cântaţi
+Voi fii ai Sionului
+Şi cu dragoste lucraţi
+Azi în via Domnului          Amin
+
+[order]
+s1,s2,s3

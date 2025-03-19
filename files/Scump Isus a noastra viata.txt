@@ -1,0 +1,21 @@
+[s1]
+Scump Isus, a noastră viaţă
+E în mâna Ta, fă ce vrei cu ea.
+Azi trăim cu o speranţă -
+În curând, Isus, noi Te vom vedea.
+
+[s2]
+Pe Pământ sunt semne clare
+Ele spun oricui : <Isus vine iar !>
+Vegheatori, în aşteptare
+Bucuroşi jertfim trupul pe altar.
+
+[s3]
+Nimeni şi nimic în lume
+Pe al nostru Domn nu ni-L va lua.
+Îl iubim, la toţi vom spune !
+/: Cântăm : <Glorie, Aleluia !> :/
+Aleluia !
+
+[order]
+s1,s2,s3

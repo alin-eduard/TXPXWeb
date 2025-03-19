@@ -1,0 +1,32 @@
+[s1]
+E-atat de bine la Isus,
+Sa fii copilul Sau mereu!
+Primesti o pace de nespus,
+Cand urci, prin haruri,
+tot mai sus, spre Dumnezeu.
+
+[r1]
+La Isus e pacea!
+Vino mai curand
+Astazi pana usa nu se va-ncuia
+Vino azi, caci intr-o zi
+vei vrea, plangand,
+Dar va fi tarziu,
+caci nu vei mai putea...
+
+[s2]
+Oriunde-n jur vei cauta
+Ca pace-n suflet sa gasesti,
+Cu-amaraciune vei vedea:
+N-ai s-o gasesti, la nimenea
+Ca s-o primesti.
+
+[s3]
+Tu stii ca, pentru tine, El
+A suferit, sa fii salvat;
+Sa scapi de vesnicul abis,
+Sa fii pe veci in Paradis
+Cu Cel Prea 'Nalt!
+
+[order]
+s1,r1,s2,r1,s3,r1

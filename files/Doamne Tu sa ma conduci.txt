@@ -1,0 +1,26 @@
+[s1]
+Doamne, Tu să mă conduci,
+Nu voi rătăci atunci,
+Rău cu Tine nu-mi va fi
+Orice-asupra-mi va veni.
+
+[r1]
+Doamne, Doamne,
+Du-mă sus în ţara Ta
+Chiar de calea-aici e grea,
+Tu rămâi nădejdea mea.
+
+[s2]
+Când cel rău mă va lovi
+Nu mă va putea clinti;
+Domnul este stânca mea,
+Lui mă voi încredinţa.
+
+[s3]
+La al vieţii mele-apus
+Ia-mă-n braţe, Tu, Isus,
+Ştiu că mă voi odihni
+Doar în cer vând voi sosi.
+
+[order]
+s1,r1,s2,r1,s3,r1

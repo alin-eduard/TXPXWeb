@@ -1,0 +1,38 @@
+[s1]
+/: Sa ai candela plina
+Si untdelemn in vas
+De miezul noptii frate
+Ne mai desparte-un ceas :/
+
+[s2]
+/: Sa nu atipim
+Sa nu adormim
+Treci in asteptare
+Spre cer sa privim .:/
+
+[s3]
+/: Se-aude iar strigarea
+Mirele va veni
+Faclia sa iti arda
+Pana in zori de zi. :/
+
+[s4]
+/: In glorie si slava
+Noi il vom vedea
+Pe al nostru Mire
+Cand va aparea. :/
+
+[s5]
+/: In post si-n rugaciune
+Tu frate sa veghezi
+In ziua glorioasa
+Sa poti sa-L intalnesti. :/
+
+[s6]
+/:Duhul si mireasa striga:
+„Te-asteptam”
+Pe nori cu slava mare
+Sa Te-ntampinam.:/
+
+[order]
+s1,s2,s3,s4,s5,s6

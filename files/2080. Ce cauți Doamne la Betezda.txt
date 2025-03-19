@@ -1,0 +1,33 @@
+[s1]
+2080
+1. Ce cauţi, Doamne, la Betezda,
+La scăldătoarea cu pridvoare,
+Printre bolnavii de pe lespezi
+Întinşi cu rănile la soare?
+
+[s2]
+Cor: Ce cauţi, Doamne, la Betezda
+Printre necazuri şi suspine
+Sau poate treci ultima oară,
+Şi ai venit chiar pentru mine?
+
+[s3]
+2. Ce cauţi, Doamne, la Betezda,
+Cu ochii pironiţi la apă,
+Printre sărmanii şi-oropsiţii
+Pe care nimeni nu-i mai scapă?
+
+[r1]
+Cor: Ce cauţi, Doamne, la Betezda,
+Printre necazuri şi suspine
+Sau poate treci ultima oară,
+Şi ai venit chiar pentru mine?
+
+[s4]
+3. Ce cauţi, Doamne, la Betezda,
+La poarta oilor pierdute,
+Lângă pridvoarele-ntristării,
+Şi a regretelor tăcute?
+
+[order]
+s1,s2,s3,r1,s4,r1

@@ -1,0 +1,37 @@
+[s1]
+Ce duios Isus te cheamă,
+Călător ce-n lume treci!...
+/: De atâţia ani te-aşteaptă,
+Să-I deschizi a vieţii poartă,
+Ca să nu te pierzi pe veci. :/
+
+[r1]
+/: Vino azi, :/ nu-ntârzia!
+Dacă plângi viaţa ta,
+Dumnezeu te va ierta,
+Fericire îţi va da;
+Viaţă-n veci, tu vei afla!...
+
+[s2]
+Cât de greu îţi va fi plânsul,
+Când vei auzi cu-amar:
+/: „Har a fost şi pentru tine,
+Dar n-ai vrut, ţi-a fost ruşine
+Şi-ai respins măretul har..." :/
+
+[s3]
+Azi, e vremea ta! Grăbeşte!
+Mâine alţii vor veni...
+/: N-amâna în pragul nopţii!
+Vei dori, în clipa morţii,
+Dar, atunci târziu va fi... :/
+
+[s4]
+Dar de-L vei primi chiar astăzi,
+Fi-vei fericit mereu.
+/: Vei pleca la Domnu-acasă,
+Sus, în ţara glorioasă,
+La tronul lui Dumnezeu... :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

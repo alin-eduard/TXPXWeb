@@ -1,0 +1,31 @@
+[s1]
+Daca vrei sa intri-n
+Cer la Dumnezeu,
+Numai Calea Crucii
+Duce-n Raiul Sau.
+Ea e Adevarul,
+Este-al Vietii drum.
+Suflete, azi intra!
+E deschis acum!
+
+[r1]
+Usa mantuirii e Isus!
+O, Doar prin El tu intri-n ceruri sus.
+Foloseste clipa spre-a intra!
+Dumnezeu va-nchide usa.
+Nu mai amana
+
+[s2]
+Domnul te invita, timpu-i pe sfarsit.
+Astazi e momentul cel mai potrivit.
+Prinde azi prilejul cel mai minunat,
+Gratia divina, harul ce s-a dat...
+
+[s3]
+Cand a Vietii usa se va incuia,
+Cei mai multi afara-n veci vor ramanea;
+In zadar vor bate, prea tarziu va fi.
+Au respins oferta Celui din vecii...
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,27 @@
+[s1]
+Pleacă-ţi genunchii, Isus e aici,
+Ridică mâini curate spre cer,
+Tronul de mărire e-n faţa ta,
+Slava se coboară din cer.
+Îndrăzneşte de intră în locul sfânt
+Spălat prin sângele Mielului.
+Vino cu cântări de mărire,
+Osana, Mielului prea Sfânt!
+
+[r1]
+Rege-al regilor
+Domn al domnilor
+/: Isus, Isus :/
+
+[s2]
+Vino cu povara din viaţa ta,
+Durerea ce te-apasă mereu,
+Mâna lui Isus poate vindeca
+Rana şi păcatul că-i greu.
+Pacea ce coboară din cerul sfânt,
+Dragostea şi roadele ei,
+Înţelepciunea şi credinţa de neclintit,
+Totul poţi avea doar să vrei.
+
+[order]
+s1,r1,s2,r1

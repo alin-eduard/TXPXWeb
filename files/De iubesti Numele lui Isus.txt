@@ -1,0 +1,42 @@
+[s1]
+De iubeşti Numele lui Isus,
+de iubeşti viaţa ce ţi-a dat
+De iubeşti puterea numeleui Său sfînt
+de iubeşti, de iubeşti...
+De visezi veşnicia cu Isus
+şi-ai vrea s-ajungi la dreapta Sa
+Deschide-ţi inima şi cu gand curat,
+să-L iubeşti, El te vrea.
+
+[r1]
+El e sfânt, sfânt, sfânt în veci,
+sfânt e Numele lui Isus!
+De-aceea-ţi spun de slava Sa,
+să ştii că-I sfânt!
+Păzeşte-ţi pasu-n casa Sa,
+predă-ţi viaţa-n mâna Sa
+Că Numele Său-i sfânt!
+
+[s2]
+De-ai venit să te-nchini lui Isus,
+de-ai venit să simţi puterea Sa
+De-ai venit în prezenţa Lui,
+să ştii că-i sfânt,
+Pleacă-te, eşti iertat.
+De-ai venit şi inima ţi-e grea,
+de speranţă de mult nu mai ai
+Adu-ţi povara azi la crucea Sa,
+să i-o dai, El o vrea.
+
+[s3]
+El a murit şi-a înviat,
+păcat în El n-a fost.
+Te vrea curat şi vindecat,
+iertat de-orice păcat.
+Ca El s-ajungi, curat şi sfânt,
+te vrea neîncetat.
+Smerit să fii ,naintea Lui,
+Isus e minunat! Pentru că...
+
+[order]
+s1,r1,s2,r1,s3,r1

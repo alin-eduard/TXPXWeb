@@ -1,0 +1,52 @@
+[s1]
+686.        								     Sol
+E scris că harul de la neamuri
+Se va ridica
+Şi uşa într-o zi se va-ncuia.
+Se împlinesc cuvintele slăvitului Isus
+Aşa cum ucenicilor le-a spus.
+
+[s2]
+Biserică păstrează
+Dar credinţa ce-ai primit;
+Păstrează nostalgia cercetării
+Ce-ai simţit.
+/:Fecioară, aşteptarea
+În curând se va sfârşi,
+Veghează că-n curând El va veni:/
+
+[s3]
+2. Smochinul care două mii de ani
+A fost uscat
+Smochinul blestemat azi rod a dat.
+Copacii de asemeni
+Cu putere înfloresc,
+Venirea primăverii o vestesc.
+
+[s4]
+A naşterii dureri le simte fiecare iar,
+Dar, iată, fericirea vine
+După-acest pahar
+/:Fecioară aşteptarea
+În curând se va sfârşi,
+Veghează că-n curând El va veni:/
+
+[s5]
+3. Uleiul şi candela
+Să veghezi ca să le ai
+Şi doctorie pentru ochi să-ţi iei.
+Fecioară îţi ridic-apoi
+Privirea ta în sus,
+Aşteaptă-n orice clipă pe Isus.
+
+[s6]
+Să-ţi pui apoi nădejdea-n harul
+Ce-ţi va fi adus,
+Cu slavă, când pe nor
+Veni-va Mirele Isus.
+/:Fecioară aşteptarea
+În curând se va sfârşi,
+Veghează că-n curând El va veni/
+
+[order]
+s1,s2,s3,s4,s5,s6

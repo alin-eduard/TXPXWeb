@@ -1,0 +1,20 @@
+[r1]
+Deschide-mi Tu ochii Doamne
+Deschide-mi Tu ochii Doamne
+Vreau să Te văd Isus
+Vreau să Te văd Isus.
+
+[r2]
+Să Te văd în slavă strălucind
+În lumina gloriei Tale
+Veşnic şi preamărit să-ţi cânt
+Sfânt eşti doar Tu Doamne.
+
+[r3]
+Sfânt eşti, sfânt eşti, sfânt eşti
+Sfânt eşti, sfânt eşti, sfânt eşti
+Sfânt eşti, sfânt eşti, sfânt eşti
+Vreau să Te văd Isus.
+
+[order]
+r1,r2,r3,r1,r2,r3

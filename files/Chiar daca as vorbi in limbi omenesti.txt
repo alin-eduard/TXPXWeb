@@ -1,0 +1,52 @@
+[s1]
+Chiar dacă as vorbi în limbi omenesti
+Si chiar dacă-as avea daruri multe
+Si chiar dacă as sti tainele îngeresti
+Si credinta mea să mute muntii
+/: Dar dacă eu nu am dragoste
+Nu sunt nimic :/
+
+[s2]
+Dragostea crede tot,
+Dragostea suferă totul
+Dragostea rabdă tot,
+În Hristos, în Dumnezeu
+Dragostea nu va pieri,
+Dragostea va fi în veci
+Ea e-un loc curat si sfânt,
+Ea e tot ce tu jertfesti
+Dragostea e tot ce tu poti
+
+[s3]
+Chiar de mi-as imparti toata averea
+Pentru hrana celor ce saraci sunt
+Chiar daca mi-as da trupul
+Ca sa fie ars
+Chinuit si biciuit o, de as fi...
+/: Dar daca eu nu am dragoste
+Nu sunt nimic :/
+
+[r1]
+/: Dragostea crede tot,
+Dragostea suferă totul
+Dragostea rabdă tot,
+În Hristos, în Dumnezeu
+Dragostea nu va pieri,
+Dragostea va fi în veci
+Ea e-un loc curat si sfânt,
+Ea e tot ce tu jertfesti
+Dragostea e tot ce tu poti
+Să-nduri pentru cei dragi
+Ea e-atunci când tu iubesti
+Chiar si pe dusmani
+Dragostea e Dumnezeu :/
+
+[s4]
+Dragostea e tot ce tu poti
+Să-nduri pentru cei dragi
+Ea e-atunci când tu iubesti
+Chiar si pe dusmani
+Dragostea e Dumnezeu
+
+[order]
+s1,s2,s3,r1,s4,r1

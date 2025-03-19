@@ -1,0 +1,21 @@
+[s1]
+În fata ta la altar
+Două inimi se unesc
+Eu spre Tine Ruga o înalt
+Tu să-i binecuvântezi
+
+[r1]
+În zile cu soare, în zile cu nori
+Tu să fii mereu cu ei
+Ei Te cheamă azi
+pe drumul ce pornesc
+Tu să-i însotesti
+
+[s2]
+Pentru voi ce astăzi vă uniti
+Vă dorim multe bucurii
+Chiar dacă vor fi si întristări
+Nu uitati Dumnezeu le-a rânduit.
+
+[order]
+s1,r1,s2,r1

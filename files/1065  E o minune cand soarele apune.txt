@@ -1,0 +1,28 @@
+[s1]
+1. E-o minune când soarele apune
+Minune din veşnicii
+Dar mai mare-i minunea din inimă
+E minunea că El m-a iubit
+1065.     							   Do
+
+[r1]
+Cor:
+Minunat e Domnul meu Isus
+Mai minunat e El Isus
+Decât orice pe pământ şi-n cer
+Minunat e Domnul meu.
+
+[s2]
+2. E o minune şi vara şi iarna
+Şi cerul înstelat
+Dar mai mare-i minunea din inimă
+E minunea că El m-a salvat.
+
+[s3]
+3. E o minune întreaga-mi făptură
+Minune din veşnicii
+Dar mai mare-i minunea din inimă
+E minunea că El va veni.
+
+[order]
+s1,r1,s2,r1,s3,r1

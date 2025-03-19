@@ -1,0 +1,31 @@
+[s1]
+Intra-n grădina cu măslini
+Isus îi Se ruga
+Paharul morţii-L apăsa
+îi ajutor cerea
+Dar Dumnezeu L-a părăsit
+pentru al meu păcat
+O moarte crudă a răbdat
+îi-n slavă S-a-nălţat.
+
+[r1]
+Acum stiu
+De ce-ai murit, Isus !
+Acum stiu -
+Salvare mi-ai adus !
+Acum stiu -
+Sunt mântuit prin har !
+Sunt fericit - Acum stiu !
+
+[s2]
+O, Doamne-acum Îţi mulţumesc
+căci vina mi-ai purtat
+Sunt doar un păcătos
+pierdut în lumea de păcat.
+Şi vin acum asa cum sunt,
+murdar, plin de păcat
+Căci sângele de pe Calvar
+mă poate curăţi !
+
+[order]
+s1,r1,s2,r1

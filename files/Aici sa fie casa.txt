@@ -1,0 +1,43 @@
+[s1]
+Aici să fie casa celui vesnic Sfânt
+Aici s-aducem lauda si-nchinare
+Acelui care este vesnic, viu si Sfânt
+Si merită doar cinste si onoare
+Aici să fie casa unde fraţii mei
+Cădea-vor în genunchi în fata Ta
+Cu mâinile întinse către ceruri ei
+Un legământ cu Tine vor avea
+
+[s2]
+/: Din cântare în cântare
+Să se-aprindă-n adunare,
+Jertfa laudei de-nchinare
+Ca pe muntele cel Sfânt.
+Să cunoască fiecare
+Că Tu esti în adunare,
+Şi-nsoteşti a Ta lucrare
+Cu puteri din Duhul Sfânt. :/
+
+[s3]
+Aici să fie casa unde ochii Tăi
+Zi si noapte, pururi vor privi
+Aici să fie casa unde fratii Tăi
+Cu rugăciuni, cu laude vor veni
+Atunci când va veni aici străinul
+Din pricina numelui Tău cel Sfânt
+Să fie ascultat, să-i dai alinul
+Căci Tu eşti Dumnezeu,
+că Tu eşti Sfânt.
+
+[s4]
+/: Din cântare în cântare
+Să se-aprindă-n adunare,
+Jertfa laudei de-nchinare
+Ca pe muntele cel Sfânt.
+Să cunoască fiecare
+Că Tu eşti în adunare,
+Şi-nsotesti a Ta lucrare
+Cu puteri din Duhul Sfânt. :/
+
+[order]
+s1,s2,s3,s4

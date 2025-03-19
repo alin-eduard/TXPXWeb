@@ -1,0 +1,26 @@
+[s1]
+De-ai şti tu cine este Isus,
+Ai veni degrab, la El
+Ţi-ar da bucurii nespuse
+Şi-ai fi fericit în veci.
+
+[r1]
+O, vino azi (vino azi)
+Nu amîna (nu amîna)
+Chemarea Sa! (chemarea Sa)
+Vino acum
+
+[s2]
+De-ai şti tu ce e iubirea
+Ce ţi-o dă Domnul Isus
+L-ai primi cu bucurie
+Şi-ai fi fericit nespus!
+
+[s3]
+De-ai şti tu ce-i fericirea
+Cînd trăieşti lîngă Isus
+Ai primi Cuvîntul astăzi
+Şi-ai fi bucuros nespus!
+
+[order]
+s1,r1,s2,r1,s3,r1

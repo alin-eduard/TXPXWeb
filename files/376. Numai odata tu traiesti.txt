@@ -1,0 +1,39 @@
+[s1]
+1. Numai o dată tu trăieşti
+Şi cui ai vrea ca să-i slujeşti
+/:Numai o inimă tu ai
+Şi cui ai vrea să o predai?:/
+376.	 								Fa
+
+[s2]
+2. O, de-ai sluji tu lui Isus
+Şi inima s–o-ndrepţi în sus,
+/:Isus ar fi Stăpânul tău,
+Iar tu ai fi copilul Său.:/
+
+[s3]
+3. El ţi-ar aduce bucurii,
+Pe care tu nici nu le ştii,
+/:Şi-n clipe grele de dureri,
+El ţi-ar aduce mângâieri.:/
+
+[s4]
+4. În suferinţa cea mai grea
+Ce pace-n suflet ţi-ar lăsa
+/:Căci El ar fi Stăpânul tău
+Iar tu ai fi copilul Său.:/
+
+[s5]
+5. Atunci întreagă viaţa ta
+Cu bucurie ai cânta
+/:Şi-ai spune pururea oricui
+Ce dulce-i fericirea Lui.:/
+
+[s6]
+6. Viaţa pururi ţi-ar păzi
+Şi voia Lui ai împlini
+/:Căci El va fi Stăpânul Tău
+Iar tu ai fi copilul Său.:/
+
+[order]
+s1,s2,s3,s4,s5,s6

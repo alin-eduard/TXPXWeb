@@ -1,0 +1,63 @@
+[s1]
+Azi e zi mare, zi de sarbatoare
+Cand la inchinare doi tineri au venit.
+Ca-ntr-o gradina, de buchete plina,
+Intr-o lumina doi crini s-au insotit.
+Fratilor, surorilor,
+in rugaciune toti sa ne unim!
+Fratilor, surorilor,
+un gand, un suflet si un duh sa fim!
+
+[s2]
+Sora mireasa, tu sa fii duioasa,
+O floare aleasa, o mama-n Israel.
+Sa fii domnita, alba porumbita,
+Sn rug de vita cu un rod bogat.
+Fratilor, surorilor,
+in ascultare toti sa ne unim!
+Fiilor, iubitilor
+un dor, un cantec si un duh sa fim!
+
+[s3]
+Tu, surioara, fii o floare rara,
+ca odinioara, Sarai cu gand umil.
+Ca Ana-n soapta ruga-n sus
+ti-o-indreapta
+si inteleapta fii ca Abigail.
+Fratilor, surorilor,
+in umilinti toti sa ne unim!
+Fratilor, parintilor,
+Un Domn, o turma si un Duh sa fim!
+
+[s4]
+Tu, frate mire, poarta-te-n iubire,
+Toti sa se mire de duhul tau supus.
+Dragostea voastra sa infloreasca-n glastra,
+O floare albastra din Raiul Lui Isus.
+Fratilor, surorilor,
+in duiosie toti sa ne unim!
+Fratilor, batranilor,
+un crez, un cuget si un duh sa fim.
+
+[s5]
+Tu, frate, iata, fii in viata toata,
+Sot bun si tata ca Iacov cel pribeag.
+In incercare, ca Avraam fii tare;
+Scut de aparare ca David la Ticlag.
+Fratilor, surorilor,
+in lupta sfanta toti sa ne unim!
+Mamelor, surorilor,
+un glas, o ruga si un duh sa fim!
+
+[s6]
+Voi, flori curate, binecuvantatae
+sa fiti, in toate, de Tatal duios
+ca o dovada, cei care vor sa creada,
+in voi sa vada iubirea Lui Hristos.
+Fratilor, surorilor,
+in marturie toti sa ne unim!
+Crinilor, iubitilor,
+in toata lumea Harul sa-l vestim!
+
+[order]
+s1,s2,s3,s4,s5,s6

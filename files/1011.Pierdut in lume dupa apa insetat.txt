@@ -1,0 +1,35 @@
+[s1]
+1.Pierdut în lume
+După apă însetat
+Şi n-am găsit la nimeni
+Să mi-o dea
+Dar am venit la Isus
+Aşa cum eram
+Şi apă am gustat la Golgota.
+1011.								  Fa
+
+[r1]
+Cor:
+Apă din izvorul sfânt al vieţii
+Numai la Calvar eu am găsit în dar
+Apă din izvorul sfânt al vieţii
+Ce minunat, bogat izvor de har.
+
+[s2]
+2. Şi tu dacă vrei
+Setea să ţi-o potoleşti
+Aleargă la acest bogat izvor
+Sufletul tău e
+Plin de bucurii cereşti
+Şi cântă Aleluia neîncetat.
+
+[s3]
+3. De ce nu vii chiar azi
+La Domnul, la Calvar
+Izvorul vieţii tu să îl găseşti
+Mântuitorul azi
+Te cheamă vino dar
+Şi-n suflet fericirea s-o primeşti.
+
+[order]
+s1,r1,s2,r1,s3,r1

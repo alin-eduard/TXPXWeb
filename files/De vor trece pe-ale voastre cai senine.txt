@@ -1,0 +1,30 @@
+[s1]
+/: De vor trece :/
+pe-ale voastre cai senine
+Ganduri ca de maracine
+Sa va-mbrace cu suspine...
+Si-n pacate sa va lege.
+
+[r1]
+Va-ndreptati mereu privirea
+Catre Cel ce va vegheaza
+Cel ce calea lumineaza
+care binecuvinteaza
+Si-mpliniveti fericirea.
+
+[s2]
+/: Tu mireasa :/
+sa-ti pastrezi inima sfanta
+Pana trambitele canta
+Spre Isus cu drag te-avanta
+Caci ai fost a Lui aleasa.
+
+[s3]
+/: Te-ngrijeste :/
+tu ce stai langa mireasa
+De acum de-a voastra casa
+Si de-a inimii aleasa...
+Pana ce Isus soseste
+
+[order]
+s1,r1,s2,r1,s3,r1

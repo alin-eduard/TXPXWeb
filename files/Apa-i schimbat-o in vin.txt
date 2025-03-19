@@ -1,0 +1,22 @@
+[r1]
+Apa-i schimbat-o in vin
+Ochi ai deschis orbilor
+Tu esti Domnul minunilor
+Si din cenusa ne scoti
+Nu e nimic ce nu poti
+Chiar si-n bezna stralucesti
+
+[r2]
+Tu Esti cel tare, esti cel mai mare
+Esti Dumnezeu fara-asemanare
+Esti Cel ce vindeci cu-a Ta putere
+Isus, Isus
+
+[r3]
+Cine ne sta-mpotriva
+Cine ne sta in cale
+Nimic nu ne doboara
+/: Cu noi e Dumnezeu :/
+
+[order]
+r1,r2,r3,r1,r2,r3

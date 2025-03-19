@@ -1,0 +1,44 @@
+[s1]
+/:Sunt copil al /:lui Hristos /:
+Și eu cânt pe cale
+Nu mi-e frică de nimic
+De Isus eu sunt păzit
+Domnul e nădejdea mea
+Şi eu cânt pe cale.
+1571.
+
+[s2]
+2. /: Merg spre ceruri /: fericit:/
+Şi eu cânt pe cale
+Spre oraşul minunat
+Cu lumină înbrăcat
+Spre Ierusalimul nou
+Şi eu cânt pe cale.
+
+[s3]
+3. /: Am plecat voios spre cer
+/:înspre cer:/
+Şi eu cânt pe cale
+Merg cântând în calea mea
+Până ţinta-mi voi vedea
+Casa tatălui ceresc
+Şi eu cânt pe cale.
+
+[s4]
+4. /: Calea-I grea prin/: suferinţi:/
+Dar eu cânt pe cale
+Suferinţa-i partea mea
+Până Domnul m-a chema
+Ca să-mi dea răsplata Sa
+Şi eu cânt pe cale.
+
+[s5]
+5. /: Pân la ţara/:cea de sus :/
+Voi cânta pe cale
+Cu Isus în veci voi fi
+Faţa Lui o voi privi
+Fericirea voi găsi
+Şi eu cânt pe cale.
+
+[order]
+s1,s2,s3,s4,s5

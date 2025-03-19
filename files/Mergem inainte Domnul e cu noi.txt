@@ -1,0 +1,26 @@
+[s1]
+Mergem înainte, Domnul e cu noi
+Niciodată-n luptă nu vom da ‘napoi!
+Răul sus pe cruce El l-a biruit,
+Drumul spre victorii El ne-a pregătit!
+Iată se zăreşte al măririi prag,
+Mergem înainte sub acelaşi steag!
+
+[s2]
+Mergem înainte spre acelaşi ţel,
+Noi suntem oştirea, Rege este El!
+În unire sfântă trecem zi de zi
+Una în durere, una-n bucurii…
+Iată se zăreşte al măririi prag,
+Mergem înainte sub acelaşi steag!
+
+[s3]
+Mergem înainte, lupta cât de grea,
+El ne sprijineşte, nu putem cădea!
+Ne-a promis o ţară, şi-o vom locui,
+Ne-a promis un nume, şi-l vom moşteni!
+Iată se zăreşte al măririi prag,
+Mergem înainte sub acelaşi steag!
+
+[order]
+s1,s2,s3

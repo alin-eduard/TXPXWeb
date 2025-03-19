@@ -1,0 +1,53 @@
+[s1]
+1.      Cine poate să vorbească
+De slava Tatălui ceresc
+Şi cine poate să găsească
+Cuvinte ca să-L preamărească
+De-ajuns pe-acest pământ.
+1023.
+
+[s2]
+2.         Căci ochii noştri cei de tină
+Nu pot vedea pe Dumnezeu
+Nu pot vedea slava senină
+Nu poţi privi cu-a lor lumină
+Sus, sus la tronul Său.
+3.         O, ce puternic, o, ce mare
+E Domnul nostru Cel ceresc
+Şi cât de multă îndurare
+Spre noi cei păcătoşi El are
+Spre neamul omenesc.
+
+[s3]
+4.         Când apelor le porunceşte
+Îşi schimbă-ndată mersul lor
+Şi soarele nu mai luceşte
+Şi munţii din loc îi urneşte
+Acest Stăpânitor.
+5.         Se zguduie intreg pământul
+Când se-aude glasul Lui
+Din patru părţi porneşte vântul
+O cât de mare e Prea Sfântul
+Ca Dânsul nimeni nu-i.
+
+[s4]
+6.         Şi eu fiinţa asta mică
+Că am curajul să-i vorbesc
+De cel ce munţii îi despică
+De cel ce norii îi ridică
+De Tatăl cel ceresc.
+7.         Eu nu sunt mare împărat
+Decât o pulbere din drum
+Căci zilele îmi sunt numărate
+Că mâine voi pleca departe
+Sau poate chiar acum.
+
+[s5]
+8.        Dar până atunci, o, scump Părinte
+Din înălţimile cereşti
+Te rog de mine ia aminte
+Eu vreu să-Ţi cânt tot înainte
+O, Doamne mare eşti.
+
+[order]
+s1,s2,s3,s4,s5

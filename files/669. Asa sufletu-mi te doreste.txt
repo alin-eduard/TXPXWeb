@@ -1,0 +1,61 @@
+[s1]
+1. Aşa sufletu-mi te doreşte
+Cum cerbul doreşte izvorul
+Sufletul meu însetează
+După Domnul al meu Mântuitor.
+Psalmul: 42          669.
+
+[s2]
+2. O, când va fi ziua cea mare
+Când voi vedea pe Domnul meu
+Cu lacrimi mereu mă hrănesc
+Zi şi noapte fără încetare
+Când mi se zice de cel rău
+Unde-ţi este Dumnezeul Tău.
+
+[s3]
+3. Mi-aduc aminte din trecut
+De focul inimii mele
+Când mă gândesc
+Cum mergeam eu
+Înconjurat de al Domnului popor
+Şi-naintam voios în fruntea Lui
+Mergeam cântând
+La Casa Domnului.
+
+[s4]
+4. Mulţimea era-n sărbătoare
+Lăuda pe Dumnezeul mare
+Pentru ce te mâhneşti tu suflet
+Şi gemi amar suspini
+'năuntrul meu
+Nădăjduieşte cu tărie
+Căci iarăşi vei lăuda
+Pe Dumnezeu.
+
+[s5]
+5. Căci Domnu-i mântuirea mea
+Din nou iarăşi voi lăuda
+Un val cheamă pe un alt val
+La glasul Tău cad apele Tale
+
+[s6]
+6. Ziua-mi dă Domnu-ndurare
+Noaptea-i cântam laudele Lui
+De aceea zic lui Dumnezeu
+O, stânca mea te rog nu mă lăsa
+Şi să nu umblu tot mâhnit
+Şi tot mereu cu sufletul amărât.
+
+[s7]
+7. Dar Tu mă vei înviora
+Iar eu te-oi binecuvânta
+Pentru ce te mâhneşti tu suflet
+Şi gemi amar suspini
+'năuntrul meu
+Nădăjduieşte cu tărie
+Căci iarăşi vei lăuda
+Pe Dumnezeu.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

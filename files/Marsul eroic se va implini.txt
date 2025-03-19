@@ -1,0 +1,50 @@
+[s1]
+Marşul eroic se va împlini
+Ca vuietul unui tunet va fi
+Cu glasul celor ce cântă frumos
+Cu alăuta slăvind pe Hristos.
+
+[s2]
+/: ,Naintea celor patru făpturi vii
+Şi-a bătrânilor se va auzi
+Cântarea cea nouă, ce va zgudui
+Universul cu-a lui galaxii. :/
+
+[s3]
+Căci Mielul stătea pe muntele sfânt
+Cu o sută patruzeci şi patru de mii
+Ce aveau pe frunţi scris Numele Său
+Şi-au biruit în luptă pe cel rău.
+
+[s4]
+/: Nimeni nu va şti să cânte cântarea
+Ce-atât de frumos cuprinde-va zarea
+Căci cel dintâi rod pentru Mielul Sfânt
+Martirii au fost pe Pământ. :/
+
+[s5]
+În gura lor nimic n-a fost găsit
+Minciuna, întinarea nu i-a-ademenit
+Căci sunt fără vină şi fără cusur
+Răbdând şi păstrând credinţa în Isus.
+
+[s6]
+/: Ei au fost aicea jos pe Pământ
+Necazuri amare, cumplite răbdând.
+Deci şi tu, frate, să fii credincios
+Doar Domnului nostru Isus Hristos! :/
+
+[s7]
+Fiindcă ai păzit cuvântul răbdării
+Eu te voi păzi în ceasul încercării
+Care o să vină peste lumea-ntreagă
+Pentru ca cei sfinţi să creadă.
+
+[s8]
+/: Temeţi-vă azi de Dumnezeu
+Şi daţi-I mărire doar Lui mereu
+Celui ce-a făcut cerul şi Pământul
+Izvoarele apelor şi vântul ! :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

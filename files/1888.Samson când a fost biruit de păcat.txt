@@ -1,0 +1,52 @@
+[s1]
+1888
+1. Samson când a fost biruit de păcat
+Dalila tăiatu-ia părul
+Atunci legământul cel Sfânt și-a călcat
+Și atunci și-a trădat adevărul
+
+[s2]
+/:Atunci vrășmașii l-au prin și i-au scos
+Și ochii plătindu-și desfrâul
+La râșnița lor într-o temniță jos
+L-au pus să le macine grâul:/
+
+[s3]
+2. În drumul credinței prin har nu ție greu
+Când ochii-ți privesc într-o parte
+Dalilele lumii te-apucă la piept
+Și viața ți-o-mping înspre moarte
+
+[s4]
+/:Te leagă cu funii mai strâns de pământ
+Tăindu-ți puterea cea sfântă
+Și calci în picioare un sfânt legământ
+Căci false iubiri te încântă:/
+
+[s5]
+3. Vrășmașii te-apucă și ochii ți-i scot
+Să nu poți vedea niciodată
+Frumos adevărul al cerului tău
+Din țara-n lumină îmbrăcată
+
+[s6]
+/:La râșnița lor te silesc să-nvârtești
+Să macini sămânța minciunii
+Mai crud te apasă când tu obosești
+N-au milă de tine niciunii:/
+
+[s7]
+4. Pieri-vei cu ele-n lumescul palat
+Când ora cea sfântă-o să vină
+De nu-L chemi pe Domnul cel Sfânt
+Şi-ndurat
+Căci vremea de har e târzie
+
+[s8]
+/:O Doamne ajută-mă ca să nu fiu
+Cuprins de-o Dalilă vicleană
+Iar drumul credinței mai drept să îl țin
+'Nălțându-Ți doar Ție Osana:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

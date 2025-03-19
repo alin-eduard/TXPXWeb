@@ -1,0 +1,26 @@
+[s1]
+De vrei sa ai fericirea in viata
+Vino la Isus
+Vino la El cu credinţa in suflet
+Preda-ţi viata Lui.
+
+[r1]
+/: Isus te iubeşte, Isus te primeşte
+El te mintuieşte, de orişice păcat
+Roagă-te lui astăzi, fii tare-n credinţă
+Doar prin pocăinţă, poţi fi fericit. :/
+
+[s2]
+De vrei sa al mantuire in viata
+Vino la Isus
+El s-a jertfit la calvar pentru tine
+Fiindcă te-a iubit.
+
+[s3]
+De vrei să al parte de veşnicie
+Vino la isus
+El iţi va da harul sfânt, veşnicia
+Sus in cerul sfânt.
+
+[order]
+s1,r1,s2,r1,s3,r1

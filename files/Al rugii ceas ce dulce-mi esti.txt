@@ -1,0 +1,41 @@
+[s1]
+Al rugii ceas, ce dulce-mi eşti!
+Aşa cum sînt, Tu mă primeşti!
+Şi mă conduci la Dumnezeu
+Să-I plînge Lui tot necazul meu.
+
+[s2]
+Şi când spre mine vin dureri,
+Isus mă scapă de poveri:
+El zice:”Faţa-mi căutaţi,
+Cu-al meu Cuvant,
+Vă mângâiaţi!”
+Ferit sînt de primejdie,
+În timpul rugii către cer
+
+[s3]
+Al rugii ceas, ce dulce-mi eşti
+Când Domnul din înălţimi cereşti
+Binecuvântă inima,
+Ce-n faţa Lui se va-n-china.
+
+[s4]
+El zice: ”Faţa-mi căutaţi,
+Cu-al meu cuvânt, vă mângâiaţi!”
+Deci Lui îi dau durerile,
+În timpul rugii către cer!
+
+[s5]
+Al rugii ceas, ce dulce-mi eşti
+Când sunt trist mângâi, linişteşti
+Cât timp aici călătoresc,
+Şi către cer cu dor privesc.
+
+[s6]
+Iar când acest cort de pământ,
+Va fi ascuns într-un mormânt.
+Dar chiar şi-n cer îmi amintesc
+De-al rugii ceas, un ceas ceresc.
+
+[order]
+s1,s2,s3,s4,s5,s6

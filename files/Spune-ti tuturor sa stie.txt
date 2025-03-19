@@ -1,0 +1,62 @@
+[s1]
+Spuneţi tuturor să ştie
+Spuneţi la surori şi fraţi
+Căci în numele lui Isus
+Pot să fie vindecaţi
+Numele Lui, numele Lui
+Numele Lui e minunat
+Prin Isus, Dumnezeu
+De la moarte ne-a salvat
+
+[s2]
+Spuneţi tuturor să ştie
+Şi la cei nefericiţi
+Căci în numele lui Isus
+Pot să fie mântuiţi
+Numele Lui, numele Lui
+Numele Lui e minunat
+Prin Isus, Dumnezeu
+De la moarte ne-a salvat
+
+[s3]
+Spuneţi tuturor să ştie
+Şi la fraţii lucrători
+Căci în numele lui Isus
+Vor ieşi biruitori
+Numele Lui, numele Lui
+Numele Lui e minunat
+Prin Isus Dumnezeu
+De la moarte ne-a salvat
+
+[s4]
+Spuneţi tuturor să ştie
+Şi la cei îndureraţi
+Căci în numele lui Isus
+Pot să fie alinaţi
+Numele lui, numele Lui
+Numele Lui e minunat
+Prin Isus Dumnezeu
+De la moarte ne-a salvat
+
+[s5]
+Spuneţi tuturor să ştie
+Şi la cei ce-s rătăciţi
+Căci în numele lui Isus
+Pot să fie regăsiţi
+Numele Lui, numele Lui
+Numele lui e minunat
+prin Isus Dumnezeu
+De la moarte ne-a salvat
+
+[s6]
+Spuneţi tururor să ştie
+Şi la cei cuprinşi de dor
+Căci în numele lui Isus
+Vor zbura mai sus de nor
+Numele Lui, numele Lui
+Numele Lui e minunat
+Prin Isus Dumnezeu
+De la moarte ne-a salvat
+
+[order]
+s1,s2,s3,s4,s5,s6

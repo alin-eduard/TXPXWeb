@@ -1,0 +1,26 @@
+[s1]
+Asculta, Doamne, la strigatul meu
+Si rugaciunea mea!
+Catre Tine strig din departari,
+Cu inima mahnita, si te rog:
+
+[r1]
+/: Du-ma Doamne pe stanca cea inalta
+Prea inalta ca sa o pot ajunge…
+Caci Tu esti un loc sigur pentru mine
+Si un Turn nepieritor. :/
+
+[s2]
+In cortul Tau as vrea sa locuiesc,
+Sa ma adapostesc;
+Sub aripile tale s-alerg,
+Caci Tu-mi stii toate juruintele
+
+[s3]
+Numele Tau ne-ncetat voi canta,
+Zilnic Te voi lauda
+Intotdeauna si-n tot locul
+Implini-voi, da, juruintele
+
+[order]
+s1,r1,s2,r1,s3,r1

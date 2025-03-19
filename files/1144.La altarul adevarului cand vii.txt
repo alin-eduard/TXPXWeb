@@ -1,0 +1,29 @@
+[s1]
+1144.
+1.     La altarul adevărului când vii
+Lasă-ţi darul tău-nainte
+/: Şi aleargă să-mplineşti întâi şi întâi
+Cele a iubirii sfinte :/
+2.     La altarul rugăciunii când păşeşti
+Darul lasaţi-l afară
+/: Şi te-ntoarce cu grăbire să-mplineşti
+Legea dragostei comoară :/
+
+[s2]
+3.    La altarul evangheliei când mergi
+S-aduci jertfa prin lucrare
+/: Lasă-ţi darul şi grăbit întâi s-alergi
+La iubire şi-mpăcare :/
+4.    Şi la orice-altare când vii să-ţi aduci
+Jertfele de mulţumire
+/: Cercetează-te şi-n viaţă întâi s-apuci
+Căile dinspre iubire :/
+
+[s3]
+5. Căci nu-i jertfa mai sfântă pe-acest pământ
+Nici altar, nici dărnicie
+/:  Ca iubirea cea de sus din Duhul sfânt
+Flacăra de-a pururi vie :/
+
+[order]
+s1,s2,s3

@@ -1,0 +1,27 @@
+[s1]
+108.
+1. Vai,cât sunt de păcătos
+Domnul meu Isus Hristos
+Nu-s vrednic să mă numesc
+Fiul Tău, Doamne ceresc
+
+[s2]
+2. Eram rău, eram tâlhar
+M-am înşelat vai amar
+Plâng cu lacrimi soarta mea
+Acum văd cât e de rea.
+
+[s3]
+3. Tu eşti însă îndurător
+Şi de oameni iubitori
+Iartă-mă, O, Domnul meu
+Iartă-mi tot păcatul meu.
+
+[s4]
+4. Nu vreau să mor neîmpăcat
+Ca a lui Satan argat
+Iartă-mă cât ţi-am greşit
+Ca un fiu nesocotit.
+
+[order]
+s1,s2,s3,s4

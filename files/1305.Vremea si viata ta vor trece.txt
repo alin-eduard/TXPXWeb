@@ -1,0 +1,33 @@
+[s1]
+1.		Vremea şi viaţa ta vor trece
+Şi pentru suflet ce-ai făcut
+Ai petrecut în lumea largă
+De suflet rău nu ţi-a părut
+N-ai dat la suflet alinare
+Şi hrană din cuvântul sfânt
+Căci orişicine ai fost în lume
+Vei ajunge un bulgăr de pământ.
+1305.
+
+[r1]
+Cor:	Timpul va trece nu mai sta
+Salvează-ţi viaţa
+Întoarce-te din calea rea
+Salvează-ţi viaţa
+Căci tot ce vezi e trecător
+Vor trece toate
+Ai să ajungi un om pierdut
+Şi condamnat la moarte.
+
+[s2]
+2.		Primeşte azi chemarea sfântă
+Viaţa din Isus Hristos
+Tot ce-ai greşit vor fi iertate
+Şi pentru suflet de folos
+Deci pregăteşte-te acum
+Nu sta pierdut şi părăsit
+Primeşte azi a Lui cuvânt
+Să nu rămâi nemântuit.
+
+[order]
+s1,r1,s2,r1

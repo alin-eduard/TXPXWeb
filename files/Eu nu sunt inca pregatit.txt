@@ -1,0 +1,33 @@
+[s1]
+Eu nu sunt încă pregătit.
+Am deschis Biblia.
+Prin toate cele ce-am citit
+Iată ce mai scria:
+
+[r1]
+În dragoste supuneţi-vă
+În pace să trăiţi,
+Cu-adevărat iubiţi-vă
+De rău să vă feriţi.
+
+[s2]
+Nu faceţi certuri, dezbinări
+Nu ţine ura ta
+Căci Domnul ne-a-nfrăţit pe toţi
+Pe dealul Golgota.
+
+[s3]
+Simti-ti că suntem fraţi
+Răscumpăraţi, iubiţi
+Căci suntem toţi
+de-acelaşi neam
+De Isus mântuiţi.
+
+[s4]
+E-atât de greu de-naintat
+Suntem cu toţii loviţi.
+Strângeţi dar rândurile-acum
+Caci greu e de luptat!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

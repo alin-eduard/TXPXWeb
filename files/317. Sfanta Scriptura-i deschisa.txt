@@ -1,0 +1,33 @@
+[s1]
+1. Sfânta Scriptură deschisă
+Ea poate îndrepta starea
+Prin ea oricine în lume
+Poate afla fericirea.
+317                                                        Fa M
+
+[r1]
+Cor: O sfânt Cuvânt rază din cer
+Luminează în tot locul
+Până când toţi s-or mântui
+S-a schimba-n zi-ntunericul.
+
+[s2]
+2. Iubirea-mila Tatălui
+Ea ne face cunoscută
+Sufletele rătăcite
+Le aduce la calea dreaptă.
+
+[s3]
+3. Ne spune moartea lui Isus
+Şi că El din morţi a înviat
+El plată mare a depus
+Şi nouă viaţă ne-a dat.
+
+[s4]
+Cor: O sfânt Cuvânt rază din cer
+Luminează în tot locul
+Până când toţi s-or mântui
+S-a schimba-n zi-ntunericul
+
+[order]
+s1,r1,s2,r1,s3,s4

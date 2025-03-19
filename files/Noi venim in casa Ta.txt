@@ -1,0 +1,14 @@
+[s1]
+Noi venim în casa Ta
+Să ne-nchinăm toţi acum,
+Noi venim în casa Ta
+Să ne-nchinăm Domnului.
+
+[s2]
+Îţi aducem mulţumiri
+Din inimă laudă, glorie
+Îţi aducem mulţumiri
+Din inimă laudă.
+
+[order]
+s1,s2

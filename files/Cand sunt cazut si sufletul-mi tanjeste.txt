@@ -1,0 +1,26 @@
+[s1]
+Cand sunt cazut si sufletul-mi tanjeste
+Probleme vin si inima mi-e grea
+Stau nemiscat, astept doar in tacere
+Ca Tu sa vii sa-mi stai alaturea
+
+[s2]
+/: Tu ma rdici, sa pot sa stau pe munte
+Tu ma ridici, sa pot umbla-n furtuni
+Pe-ai Tai umeri, Doamne, sunt puternic
+Caci ma ridici mai mult decat pot fi :/
+
+[s3]
+Nu este nici un suflet fara doruri
+Trudita, inima imi bate greu
+Dar cand Tu vii si sunt plin de mirare
+Ma vad pentru-un moment in vesnicii.
+
+[s4]
+/: Tu ma rdici, sa pot sa stau pe munte
+Tu ma ridici, sa pot umbla-n furtuni
+Pe-ai Tai umeri eu ma simt puternic
+Caci ma ridici mai mult decat pot fi :/
+
+[order]
+s1,s2,s3,s4

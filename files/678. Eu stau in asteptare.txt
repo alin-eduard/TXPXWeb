@@ -1,0 +1,43 @@
+[s1]
+Eu stau în aşteptare
+Privesc spre ceruri sus
+Şi te aştept întruna
+Căci vii aşa ne-ai spus.
+Inima mea suspină
+De dorul Tău Isus
+Duhul, Mireasa strigă
+Vino, vino Isus.
+678.
+
+[s2]
+Porumbiţa-i ascunsă
+În peşterile adânci
+Cu candela aprinsă
+Ea stă mereu veghind.
+Faţa-i arsă de soare
+Dar privirea-i în sus
+Ziua şi noaptea strigă
+Vino, vino Isus.
+
+[s3]
+Noaptea e pe sfârşite
+Se văd zorile acum
+O, vino mai de grabă
+Nu zăbovi pe drum.
+Cu ochii plini de lacrimi
+După Tine Isus
+Tu eşti nădejdea noastră
+Ce sus la cer Te-ai dus.
+
+[s4]
+Oricât de greu e drumul
+Noi Te vom aştepta
+Să ne alini Tu dorul
+În suferinţa grea.
+/: Vino, vino Isuse
+Te chemăm suspinând
+Cu făclia aprinsă
+Şi mijlocul încins :/.
+
+[order]
+s1,s2,s3,s4

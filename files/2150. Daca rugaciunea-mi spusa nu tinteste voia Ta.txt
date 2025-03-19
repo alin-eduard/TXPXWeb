@@ -1,0 +1,31 @@
+[s1]
+2150
+1. Dacă rugăciunea-mi spusă Nu țintește voia Ta,
+Orișicât ar fi de-aprinsă, Doamne, nu mi-o asculta.
+
+[s2]
+2. De nu-mi cer zdrobirea firii Ca să pot a Te sfinți,
+Cât de mult mi-ar plânge ochii, Doamne, ruga-mi n-o-mplini.
+
+[s3]
+3. De nu caut unitatea
+Cu toți fiii Tăi cei mulți
+Când la Tine vin cu cereri, Doamne, ruga-mi să n-asculți.
+
+[s4]
+4. De nu urmăresc frumusețea rânduirilor cerești
+Ruga, când mi-o-ndrept spre Tine, Doamne, Tu să
+n-o primești.
+
+[s5]
+5. De nu-s dezlegat de toate,
+De nu lepăd eul meu,
+Ruga nu mi-o ține-n seamă, Doamne, cât mi-ar fi de greu.
+
+[s6]
+6. Numai rugăciunea care
+Te sfințește pe deplin,
+Care-Ți caută voia sfântă, Doamne-ascultă-mi-o, Amin.
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,35 @@
+[s1]
+Ştim noi oare pentru cine lucrăm?
+Ştim noi oare cărui fapt datorăm
+Fericire în fapte şi-n cuvînt
+Pentr-o viaţă aici pe Pămînt?
+Ştim noi oare asta cui datorăm?
+Ştim noi oare, oare cui cîntăm?
+Pentru cine viaţa noi ne-o dăm?
+Pentru cine ne luptăm?
+
+[r1]
+/: Să nu ne facem o ţintă din jertfă
+Dar nu cumva să uităm de Isus!
+Să nu ne facem din slujire un idol
+Dar ţinta noastră să fie Isus! :/
+
+[s2]
+Ştim noi oare cît timp vom mai avea?
+Ştim noi oare cînd pe drum vom cădea?
+Dacă-n viaţă ştim sigur ce sîntem?
+Dacă bine sau rău credem?
+Ştim noi oare viaţa cît va dura?
+Cît timp lumea va rămînea?
+Oare viaţa, viaţa cui datorăm?
+Ştim noi oare pentru cine lucrăm?
+
+[s3]
+Ştim noi oare viaţa cît va dura?
+Fericire cît timp vom mai avea?
+Ştim noi oare, oare cît valorăm?
+Ştim noi oare pentru cine luptăm?
+/:Ştim noi oare pentru cine lucrăm?:/
+
+[order]
+s1,r1,s2,r1,s3,r1

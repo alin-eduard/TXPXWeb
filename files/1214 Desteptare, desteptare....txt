@@ -1,0 +1,58 @@
+[s1]
+1.Deşteptare, deşteptare
+Se aude, tot mai tare
+O, popor de pe pământ,
+Aşa strigă Duhul Sfânt:
+Vine Mirele-n curând!
+1214
+
+[s2]
+2.Scoală-te popor iubit,
+Botezat cu Duhul Sfânt
+Nu mai sta în nepăsare!
+Că-i vremea de aşteptare
+Și-n curând
+Mirele-apare.
+
+[s3]
+3.Paşii Lui se-aud mai clar
+Nu pierde
+Vremea-n zadar!
+O, popor răscumpărat
+Vine al tău Împărat,
+Ca să vadă ce-ai lucrat!
+
+[s4]
+4.Ce-ai să faci, popor iubit
+Dacă nu eşti pregătit?
+În ziua aceea mare
+Ce vei spune-atunci
+Tu oare?
+Vei primi o întrebare.
+
+[s5]
+5.Ce vei face, ce vei spune
+Când te va chema
+Pe nume?
+Şi de El vei fi-ntrebat:
+Ce-ai făcut cu-al tău talant
+Ai lucrat sau l-ai-ngropat?
+
+[s6]
+6.Fraţi, surori,
+Să ne trezim!
+Cu toţi să ne pocăim!
+Depărtându-ne de rău,
+Pregătindu-ne mereu,
+Trăind pentru Dumnezeu
+
+[s7]
+7.Pentru ziua Lui măreaţă
+Când  Îi vom sta faţă-n faţă
+Când va veni cu răsplata
+Domnul Isus,
+Să fim gata!
+Aleluia! lui Isus
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

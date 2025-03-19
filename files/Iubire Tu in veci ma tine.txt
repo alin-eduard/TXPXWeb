@@ -1,0 +1,30 @@
+[s1]
+Iubire, Tu în veci mă ţine,
+Fii sprijin sufletului meu,
+Şi stăpâneşte Tu în mine
+Să fii oceanul, iar în Tine,
+Valul să fiu eu.
+
+[s2]
+Lumină sfântă pe cărare
+Lumina­n suflet mi­ai aprins
+Să strălucească arzătoare
+Mai clar ca razele de soare
+Ca un rug nestins.
+
+[s3]
+Măreaţă, dulce bucurie
+Ce mă ridici peste dureri
+Şi­n încercări îmi dai tărie
+Să văd prin nori în veşnicie
+Sfinte mângâieri.
+
+[s4]
+O, Golgotă însângerată,
+Doar lângă tine eu voi sta,
+În praf arunc mândria toată
+Să poată străluci curată
+Doar iubirea Ta.
+
+[order]
+s1,s2,s3,s4

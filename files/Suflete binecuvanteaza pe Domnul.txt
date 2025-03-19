@@ -1,0 +1,26 @@
+[s1]
+Suflete, binecuvântează-L pe Domnul,
+Inima mea, numele Lui cel sfânt!
+Suflete, binecuvântează-L pe Domnul,
+Nici una din binefacerile Lui nu uita!
+
+[r1]
+El îţi iartă toate păcatele tale,
+Te vindecă de neputinţa ta.
+El îţi izbăveşte viaţa din groapă,
+Te-ncununează cu bunătatea Sa!
+
+[s2]
+Îndurător şi milostiv este Domnul,
+Răbdător îndelung, în bunătate bogat.
+El nu se ceartă fără încetare;
+Mânia El nu şi-o ţine în veac!
+
+[s3]
+Cerul, pământul cât sunt de-ndepărtate
+Nu pot cuprinde bunătatea Lui!
+Răsăritul, apusul sunt prea apropiate,
+Faţă de cât depărtează vina de la noi!
+
+[order]
+s1,r1,s2,r1,s3

@@ -1,0 +1,50 @@
+[s1]
+Iată ce vorbeşte Domnul
+Prin proorocul Său Ioel
+Pentru vremea de pe urma,
+Pentru noul Israel.
+
+[s2]
+Peste orişice făptură
+Slava Mea va străluci
+Şi atunci prin a lor gură
+Numele-Mi voi proslăvi.
+
+[s3]
+În zilele de pe urmă
+Voi turna din Duhul Meu
+Peste a Mea sfântă turmă
+Zice Domnul Dumnezeu.
+
+[s4]
+Fiicele şi fii voştri,
+Bătrânii şi tinerii
+Vor avea visuri, vedenii
+Şi chiar multi vor prooroci
+
+[s5]
+Peste robi şi peste roabe
+Din Duh Sfant Eu voi turna,
+Pe pământ şi sus în ceruri
+Semne mari s-or arăta.
+
+[s6]
+Adu Doamne Cincizecimea
+Azi în adunarea Ta
+Să strigăm toţi ,,MARANATA’’
+Vino, Doamne, Aleluia.
+
+[s7]
+Şi în cor de osanale
+Să-Ţi cântăm că vrednic eşti
+Să vorbim ca la Rusalii
+În limbi cereşti şi îngereşti.
+
+[s8]
+Ca pământul din pustie
+Noi te aşteptăm cu dor
+Să-aduci ploaia cea târzie
+Doamne peste-al Tău popor.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

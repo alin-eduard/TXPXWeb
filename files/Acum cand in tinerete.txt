@@ -1,0 +1,41 @@
+[s1]
+Acum când în tinereţe
+Bucurii ne-ncojoară,
+Să dăm inimile noastre
+Domnului ca jertfă.
+
+[s2]
+Pentru Numele lui Isus
+Să lucrăm până târziu;
+Viaţa noastră să nu treacă
+Până sfârşim lucrul Său.
+2
+
+[s3]
+De-L iubim pe Domnul Isus,
+Cu fapta s-o arătăm,
+Miluind şi făcând bine,
+Astfel sfatul Lui urmăm.
+
+[s4]
+Pentru Numele lui Isus
+Să lucrăm până târziu;
+Viaţa noastră să nu treacă
+Până sfârşim lucrul Său.
+4
+
+[s5]
+La Isus suflete-aducând
+Într-asta să ne silim.
+Timpul şi puterea noastră
+Domnului să le jertfim.
+
+[s6]
+Pentru Numele lui Isus
+Să lucrăm până târziu;
+Viaţa noastră să nu treacă
+Până sfârşim lucrul Său.
+6
+
+[order]
+s1,s2,s3,s4,s5,s6

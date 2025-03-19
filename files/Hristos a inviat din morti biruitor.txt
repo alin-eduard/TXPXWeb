@@ -1,0 +1,38 @@
+[s1]
+Hristos a înviat din morti /: biruitor :/
+Din însăşi viaţa Lui dând viaţă tuturor
+Şi-acum în rând cu noi ca Frate şi-mparat
+/: Trăieşte :/ /: e viu :/ cu-adevărat!
+
+[s2]
+/: Căci dacă-i drept să-nvie frunza iar
+Şi florile ce din pământ răsar
+Cu-atât mai mult Acel ce le-a creat
+/: Trăieşte :/ /: e viu :/ cu-adevărat! :/
+
+[s3]
+Hristos a înviat slăvit /: şi proslăvit :/
+Şi miile de fraţi cu toţii au pornit
+Spre cele patru zări ca martori au strigat:
+“/: Trăieşte :/ /: e viu :/ cu-adevărat!”
+
+[s4]
+/: Vin mii de flori şi frunze iar în crâng
+Vin primăveri ce iernile-au infrânt
+Azi toate spun că Cel crucificat
+/: Trăieşte :/ /: e viu :/ cu-adevărat! :/
+
+[s5]
+Hristos a înviat în trup /: de slavă plin :/
+Aşa cum vom trăi şi noi în har divin
+De două mii de ani în luptă ne-ncetat
+/: Trăieşte :/ /: e viu :/ cu-adevărat!
+
+[s6]
+/: Eu n-am văzut cum a-nviat Isus,
+Nici mâna-n răni ca Toma nu i-am pus
+Dar ştiu mereu că-n viaţa ce mi-a dat
+/: Trăieşte :/ /: e viu :/ cu-adevărat! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

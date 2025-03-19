@@ -1,0 +1,45 @@
+[s1]
+1. Să mergem fraţi cu toţi la lucru
+Prin munţi, prin dealuri şi prin văi
+Să nu ne temem de necazuri
+Căci Dumnezeu este cu noi
+276.
+
+[s2]
+2. V-aşteaptă fraţi din toată ţara
+De sarcini grele-npovăraţi
+Ca prin puterea ce-aţi primit-o
+Pe dânşii voi să-i ridicaţi
+
+[s3]
+3. V-aşteaptă mulţi flămânzi în lume
+Ca voi să mergeţi cu avânt
+Ca să vestiţi cu toţi de-a rândul
+A lui Isus Hristos cuvânt
+
+[s4]
+4. Vă mai aşteaptă o mulţime
+Ce stau în umbra morţii reci
+Ca voi să ridicaţi făclia
+Să vadă viaţa cea de veci.
+
+[s5]
+5. Va trebui ca să şi plângeţi
+De cele ce întâmpinaţi
+Dar ce să facem fraţii mei dragi
+Că la aceasta suntem chemaţi
+
+[s6]
+6. V-aşteaptă multă suferinţă
+Dar nicidecum nu daţi-napoi
+Ci credeţi, credeţi totdeauna
+Căci Dumnezeu, da, este cu noi
+
+[s7]
+7. Iar după lupta cea cumplită
+Veţi primi nume de eroi
+'Nainte dar să nu vă temeţi
+Căci Dumnezeu, da, este cu noi.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

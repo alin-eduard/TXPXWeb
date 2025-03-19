@@ -1,0 +1,23 @@
+[s1]
+1.	O Doamne aici ne-am adunat
+Ca fii ’naintea Ta
+Cuvântul Tău ce ni la-I dat
+Cu drag vom asculta.
+2.	Urechi şi inimi deschis e
+Ca Lidiei ne dă
+La noi vino o Isuse
+Ne binecuvântă.
+1235.
+
+[s2]
+3.	Noi aşteptăm să glăsuieşti
+Divinul Tău cuvânt
+Ca-n inimile deschise
+Să-L semeni pe pământ.
+4.	Rămâi cu noi Păstor iubit
+În clipe de veghere
+Până la ceasul cel dorit
+Al sfintei învieri.
+
+[order]
+s1,s2

@@ -1,0 +1,26 @@
+[s1]
+O, ce prieten am în Isus,
+Când mă rog lui Dumnezeu
+Mijloceşte pentru mine
+Şi eu stau pe braţul Său.
+
+[s2]
+/: Câtă dragoste-mi arată
+A plătit păcatul meu
+Şi spălat în a Lui sânge
+Pot să zbor şi eu spre cer :/
+
+[s3]
+Ce prezenţă minunată
+Umple tot sufletul meu
+Calea, adevărul, viaţa
+Le găsesc în Domnul meu.
+
+[s4]
+/: O, ce prieten bun e Isus,
+El e Salvatorul meu
+Schimbă inima mea, Doamne,
+Fă-mă după placul Tău :/
+
+[order]
+s1,s2,s3,s4

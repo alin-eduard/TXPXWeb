@@ -1,0 +1,39 @@
+[s1]
+1. Adunaţi cu toţi aicea
+După sfântul Tău Cuvânt
+/: Binecuvântează Doamne
+Pe toţi care aicea sunt. :/
+118.                  Mi m
+
+[s2]
+2. Şi priveşte cu-ndurare
+Spre amici-ascultători
+/: Binecuvântează Doamne
+Şi pe fraţi şi pe surori! :/
+
+[s3]
+3. Cu mai multă-nţelepciune
+Şi cu frică de Cuvânt
+Să-Ţi slujim de-acum ‘nainte
+Numai Ţie Domn Preasfânt.
+
+[s4]
+4. O, treci azi prin adunare
+Isus, Mielule divin !
+/: Ridică orice-ntristare
+Şi şterge orice suspin. :/
+
+[s5]
+5. În curând a Sa venire
+Se va arăta pe nori
+/: Pune-ţi astăzi întrebarea
+Cum aştepţi pe Creator? :/
+
+[s6]
+6. Dacă haina ţi-e murdară
+Sau pătată de păcat
+/: Spală-ţi-o astăzi, nu mâine
+Dacă vrei să fii salvat ! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

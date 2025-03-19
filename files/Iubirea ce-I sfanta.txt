@@ -1,0 +1,23 @@
+[s1]
+Iubirea ce-I sfântă,
+Ţi-aduce viaţă şi pace,
+Un zâmbet, când totul ţi-e greu …
+Ti-alungă tristeţea şi plânsul
+de sub pleoape,
+/: Senin e-n jurul tău :/
+
+[s2]
+Iubirea ce-I sfântă,
+Te-nvaţă cărarea spre ceruri,
+Să ierţi când alţii ţi-au greşit …
+Cu-a ta privire înspre ceruri
+S-ajuţi pe cel ce-l vezi lipsit …
+
+[s3]
+/:Domnească Ea Iubirea Sfântă
+Şi în iubire vom trăi,
+Chiar dacă viaţa se va şterge,
+Iubirea însă va domni :/
+
+[order]
+s1,s2,s3

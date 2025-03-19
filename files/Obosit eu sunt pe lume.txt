@@ -1,0 +1,32 @@
+[s1]
+Obosit eu sînt pe lume
+Liniştea n-o pot afla
+/: A mea scumpă mîngîiere
+E, Isus, la crucea Ta ! :/
+
+[s2]
+Am căutat scăpare-n lume
+Ca să pot fi fericit
+/: Şi în multa mea umblare
+Fericire n-am găsit. :/
+
+[s3]
+M-am luptat eu zi şi noapte
+Să cîştig un viitor.
+/: Dar am cîştigat în lume
+Numai lacrimi şi dureri. :/
+
+[s4]
+Am crezut că astă viaţă
+Are un scop fericit
+/: Dar acum, sărman de mine
+Văd că ea m-a amăgit. :/
+
+[s5]
+Dar acum mă bucur tare
+Căci uşa mi s-a deschis !
+/: Am ajuns ora frumoasă
+Să mă predau lui Isus ! :/
+
+[order]
+s1,s2,s3,s4,s5

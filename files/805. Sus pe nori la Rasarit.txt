@@ -1,0 +1,53 @@
+[s1]
+805.
+1. 	Sus pe nori la răsărit
+Domnul va veni
+Iar acei ce L-au iubit
+Merg a-L întâlni.
+2. 	Şi cântându-I slavă Lui
+Se vor veseli
+Din veci până-n veci
+Lângă El vom fi.
+
+[s2]
+3. 		Iar apoi cu al Său popor
+Domnul acel sfânt
+Va veni pe albi nori
+Aici pe pământ.
+4. 		Orice frământare atunci
+Se vor spulbera
+Căci la sfintele porunci
+Toate se vor schimba.
+
+[s3]
+5.	Zorii sfinte împărăţii
+Când se vor ivi
+Pace sfinte bucurii
+La toţi le-a împărţi.
+6. 	De la tronul cel ceresc
+Va curge un izvor
+Ce va face din pământ
+Rai vindecător.
+
+[s4]
+7.   E aproape ziua când
+El iar va veni
+Cei ce aşteaptă azi plângând
+Se vor veseli.
+8.   Iar Împărăţia Sa
+Va fi peste tot
+Toate neamurile vor cânta
+Domnul Savaot.
+
+[s5]
+9. Şi atunci pe-ntregul pământ
+Moarte n-a mai fi
+Căci va domni Domnul Sfânt
+Până în veşnicii.
+10. În etern noi vom trăi
+Cu Isus Hristos
+Mâncând din pomul vieţii
+În Raiul frumos.
+
+[order]
+s1,s2,s3,s4,s5

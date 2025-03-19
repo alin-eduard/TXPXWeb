@@ -1,0 +1,51 @@
+[s1]
+Dumnezeu a-ntipărit
+Omule în gândul tău veşnicia
+El te-a binecuvântat
+Cand din Duhul Lui ţi-a dat
+Si prin Fiul Lui ti-a dat nemurirea.
+1271
+1.
+Cor: 	De la El avem întipărirea
+Nu suntem noi doar o întâmplare
+El ne-a dat mişcarea şi gândirea
+El e Dumnezeul nostru mare
+
+[s2]
+Dumnezeu cand te-a creat
+După asemănarea Sa în grădină
+Te-a făcut superior
+Să fii rege tuturor
+Să ai chip strălucitor în lumină
+2.
+Cor: 	De la El avem întipărirea
+Nu suntem noi doar o întâmplare
+El ne-a dat mişcarea şi gândirea
+El e Dumnezeul nostru mare
+
+[s3]
+Dumnezeu e Creator
+Mâna Lui a întocmit Aurora
+Nesfârşite galaxii
+Stele mici şi zeci de mii
+El revarsă bucurii azi tuturora
+3.
+Cor: 	  De la El avem întipărirea
+Nu suntem noi doar o întâmplare
+El ne-a dat mişcarea şi gândirea
+El e Dumnezeul nostru mare
+
+[s4]
+Omule al tău destin
+Nu-i o groapă nu-i un mit putrezirea
+Tu ai fost creat să ştii
+Să ajungi în veşnicii
+Unde-n veci va străluci nemurirea
+4.
+Cor: 	De la El avem întipărirea
+Nu suntem noi doar o întâmplare
+El ne-a dat mişcarea şi gândirea
+El e Dumnezeul nostru mare
+
+[order]
+s1,s2,s3,s4

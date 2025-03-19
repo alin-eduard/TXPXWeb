@@ -1,0 +1,32 @@
+[s1]
+Lângă apă ca şi pomul
+Domnul vieţii m-a sădit,
+Voi trăi şi-mi voi da rodul
+Tot la timpul potrivit.
+
+[r1]
+Unde sunt sădit,
+eu stau neclintit,
+Pe temeiul mântuirii,
+eu stau neclintit.
+
+[s2]
+Când furtuna mă-nconjoară
+Numai la Isus privesc,
+Faţa Lui mă-nviorează,
+Pace de la El primesc.
+
+[s3]
+Când m-apasă grijuri multe
+Şi mi-e tristă inima,
+Câtă binecuvântare am
+În sfântă mila Ta.
+
+[s4]
+Când Îl voi privi în faţă
+Pe al meu Mântuitor
+Voi cânta o veşnicie
+Slava Lui cu-al Său popor!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

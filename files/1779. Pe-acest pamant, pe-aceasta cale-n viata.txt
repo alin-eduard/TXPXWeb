@@ -1,0 +1,47 @@
+[s1]
+1779.
+1. Pe-acest pământ
+Pe-această cale-n viaţă
+Cât ai trăit Isus şi-ai colindat
+Tu nici n-ai scris
+Şi nici nu ai spus vreodată
+Vreun vers sau
+Vreo cântare de cântat
+Dar tot ce-i scris în vers
+Sau prin cântare
+
+[s2]
+E scris să-ţi dea
+Doar slavă şi onoare
+Căci Tu-ai lucrat
+Şi-odihnă n-ai aflat
+Să pot şi eu un biet străin pribeag
+/:În Tine s-aflu blânda Ta iertare
+Cum m-ai cuprins
+În dragostea Ta cea mare:/
+
+[s3]
+2. Atâtea imnuri către cer se-nalţă
+Şi-atâtea glasuri cântă melodii
+Dar niciodată zarea cea albastră
+N-a fi străpunsă ca-n aceea zi
+Când Tu pe nori de slavă
+Şi-n putere
+Vei apărea să-Ţi iei mireasa Ta
+Acea cântare fi-va imnul care
+Cu-atâta drag mireasa-l va cânta
+
+[s4]
+/:Acea cântare aş vrea şi eu Isuse
+S-o cânt din pieptul meu
+Cât voi putea:/
+
+[s5]
+3. Eu ştiu c-atunci
+Nu vor mai fi pe lume
+Atâtea voci străine prefăcute
+În clipa aceea toţi vor şti să cânte
+Cântarea minunată pentru Tine
+
+[order]
+s1,s2,s3,s4,s5

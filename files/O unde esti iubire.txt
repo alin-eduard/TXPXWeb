@@ -1,0 +1,59 @@
+[s1]
+O unde esti iubire,
+dintai de la inceput?
+De ce nu este pace,
+ca-n vremea cea trecut
+Cand fratii cu caldura
+in suflet se adunau
+Si cu nadejde vie
+pe Domnul laudau
+
+[r1]
+Asa de grea e starea,
+ne-a cuprins disperarea
+Si a noastre inimi ni s-au impietrit
+O vino-n adunare
+mai fa o cercetare
+Sa Te simtim ca si la inceput .
+
+[s2]
+O unde e Cuvantul
+cel insotit de har ?
+Vestit cu greutate,
+curat si plin de jar.
+O Doamne unde-s fratii
+care stateau veghind
+Mergand drept pe carare cuvantul Tau pastrand.
+
+[s3]
+O unde e bolnavul,
+strigand m-a vindecat ?
+De ce nu mai sunt semne,
+de ce noi ne-am schimbat
+O unde e Betesda
+cu acele cinci pridvoare
+Sa se arunce fratii,
+bolnavii in scaldatoare .
+
+[s4]
+O unde e proroocul
+ca sa vorbeasca drept ?
+Ca Samuel, ca Mica,
+ca cel ce-i intelept.
+Poporul sa asculte
+al Domnului cuvant
+Sa nu dispretuiasca
+puterea Duhul Sfant.
+
+[s5]
+Veniti cu staruinta
+sa cerem noi puteri
+Ca lacrimi de cainta,
+veniti frati si surori
+Caci Domnul bun
+din slava ne va inviora
+Si ploaia cea tarzie
+din plin va revarsa.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

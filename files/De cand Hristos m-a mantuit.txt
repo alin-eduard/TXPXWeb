@@ -1,0 +1,26 @@
+[s1]
+De cînd Hristos m-a mîntuit
+Cu mine e necontenit
+Şi-n mijloc de-ntristări şi-n val
+Mă simt ferice ca în rai.
+
+[r1]
+Aleluia, sînt fericit !
+Mă simt ca-n cer, că-s mîntuit.
+Sînt fericit chiar pe Pămînt
+Căci unde-i El, e cerul sfînt !
+
+[s2]
+Ceru-mi părea îndepărtat
+Cînd în păcat stam cufundat
+Dar cînd pe Isus Îl primii
+Cerul în suflet îmi veni.
+
+[s3]
+Nu-i important unde aş fi
+În munţi sau văi pot locui
+În scump palat, sau într-un cort
+Căci ceru-ntreg în mine-l port.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,75 @@
+[s1]
+1. Doamne ai venit la mine
+Când eu Te-am chemat
+Ai venit în casa mea
+N-ai întârziat.
+173.
+
+[s2]
+Ţi-am deschis inima mea
+Ca să locuieşti
+Să rămâi stăpân pe ea
+Până-n veci de veci.
+
+[s3]
+2. Am avut multe păcate
+Tu mi le-ai iertat
+Când eram tare bolnav
+Tu m-ai vindecat.
+
+[s4]
+Ce bani mulţi am cheltuit
+Doamne până Te-am găsit
+Doamne mi-ai dat sănătate
+Ce mult m-ai iubit.
+
+[s5]
+3. Eu atâta cât trăiesc
+Pe acest pământ
+Am să-Ţi mulţumesc Isuse
+Până la mormânt.
+
+[s6]
+N-am cuvinte să mă-nchin
+Şi să-ţi mulţumesc
+Vreau să-ţi aduc roade-n vie
+Şi să te urmez.
+
+[s7]
+4. Dacă m-ai chemat la Tine
+Doamne-n via Ta
+Ajută-mă să aduc
+Doamne rod în ea.
+
+[s8]
+Dacă anu' acesta Doamne
+Roade nu voi da
+Tatăl sfânt te va trimite
+Dar nu mă tăia.
+
+[s9]
+5. Sapă-mă la rădăcină
+O Isuse scump
+În lume să fiu lumină
+Dă-mi îngrăşământ.
+
+[s10]
+Curăţeşte-mi crengile
+Care s-au uscat
+La anu' de vii Isuse
+Voi fi încărcat
+
+[s11]
+6. Dar mai am încă ceva
+Doamne să te rog
+Cheamă-ţi copilaşi-n vie
+Să-ţi aducă rod.
+
+[s12]
+Să-i primeşti la Tine Doamne
+O Isuse scump
+Când vei veni după ei
+Să-i iei de pe pământ.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12

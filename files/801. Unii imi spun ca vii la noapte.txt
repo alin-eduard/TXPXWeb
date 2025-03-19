@@ -1,0 +1,39 @@
+[s1]
+801.
+1. Unii îmi spun că vii la noapte
+Alţii îmi spun că mâine poate
+Dar eu Te-aştept cum Te-aş vedea
+Isuse-n aşteptarea mea.
+2. Unii îmi spun că prin milenii
+Atunci va fi sfârşitul vremii
+Dar eu îţi cânt că-n viaţa mea
+A intrat mântuirea Ta.
+
+[s2]
+3. Unii îmi spun că în zadar
+Să mai aştepţi să fie har
+Dar eu îţi cânt căci harul Tău
+Îmi umple sufletul mereu.
+4. Să spună oricine ar spune
+Eu Te-aştept numai pe Tine
+De aceea-Ţi cânt că-n viaţa  mea
+Ai bucurat inima mea.
+
+[s3]
+5. Eu ştiu că mult n-oi aştepta
+Până pe nori Te voi vedea
+Căci prin cuvânt Tu Doamne spui
+Că eşti aproape ca să vii.
+6. Pe acest pământ sunt doar dureri
+Necazuri, lacrimi şi-ncercări
+Dar când povara este grea
+Isuse Tu ne ajuţi la ea.
+
+[s4]
+7. Acolo sus în ţara mea
+O veşnicie voi cânta
+Şi, o, ce minunat va fi
+Când Domnul meu va-mpărăţi.
+
+[order]
+s1,s2,s3,s4

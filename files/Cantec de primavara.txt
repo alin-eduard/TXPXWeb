@@ -1,0 +1,35 @@
+[s1]
+Natura-mbracă-n straie de primăvară
+Totu-i frumos, şi învie iară
+Mii de culori inundă sufletul
+Păsările cântă Slavă Ţie
+Insectele din pământ învie
+Toate le-ai creat minunat.
+
+[r1]
+Cum să nu îţi cânt Dumnezeul meu,
+Cum să nu Te laud mereu
+Cum să nu îmi plec genunchii
+Cum să nu Îţi mulţumesc
+Mă închin smerit înaintea Ta
+Şi Te laud iar din toată inima
+Tu eşti Dumnezeu, Tatăl meu.
+
+[s2]
+Natura renaşte pentru-a câta oară
+Sufletul meu spre lumină zboară
+Viaţa este darul minunat
+Flori parfumate, mii şi mii de soiuri
+Albinele se adună-n roiuri
+Freamătă pământul ne-ncetat.
+
+[s3]
+Natura mă-nvaţă să mă-ncred în Tine
+După furtuni, iarăşi soare vine
+Norii grei de plumb se risipesc
+Din anotimpuri viaţa e formată
+Din noaptea grea, zorii se arată
+Dragostea triumfă-n viaţa mea.
+
+[order]
+s1,r1,s2,r1,s3,r1

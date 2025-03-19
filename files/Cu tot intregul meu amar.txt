@@ -1,0 +1,58 @@
+[s1]
+1
+Cu tot întregul meu amar,
+Cu multele-mi suspine,
+Cu plânsul fără de hotar,
+Isuse, vin la Tine.
+
+[s2]
+2
+/: Primeşte-mă cum sunt
+Cu multele-mi greşale
+Şi spală-mă, Isuse, scump
+Prin jertfa milei Tale :/
+
+[s3]
+3
+În faţa Ta îngenunchez
+Cu lacrime amare.
+Te rog, Isuse-ndurerat,
+Să-mi dai şi-acum iertare.
+
+[s4]
+4
+/: Primeşte-mă cum sunt
+Cu multele-mi greşale
+Şi spală-mă, Isuse, scump
+Prin jertfa milei Tale :/
+
+[s5]
+5
+Sunt păcătos, sunt vinovat,
+Sunt plin de fapte rele,
+Dar vin, Isuse-ndurerat,
+Sub crucea Ta cu ele.
+
+[s6]
+6
+/: Primeşte-mă cum sunt
+Cu multele-mi greşale
+Şi spală-mă, Isuse, scump
+Prin jertfa milei Tale :/
+
+[s7]
+7
+Primeşte-mi toată viaţa mea
+Şi-n slujba Ta mă ţine
+Ca-n clipa când mă vei chema
+Să pot veni la Tine
+
+[s8]
+8
+/: Primeşte-mă cum sunt
+Cu multele-mi greşale
+Şi spală-mă, Isuse, scump
+Prin jertfa milei Tale :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

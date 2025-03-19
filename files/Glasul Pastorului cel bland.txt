@@ -1,0 +1,26 @@
+[s1]
+Glasul Păstorului cel blând
+Sună prin munţi şi văi chemând
+Oaia, ce-acum s-a rătăcit
+Din turma Tatălui iubit.
+
+[r1]
+Să pornim a căuta
+Pe cei rătăciţi din turma Sa
+Că-s pierduţi în pustiu,
+Calea înapoi ei n-o ştiu.
+
+[s2]
+Oaia ce umblă rătăcind
+Plină de răni şi sângerând,
+Are nevoie de-ajutor
+S-ajungă la al ei Păstor.
+
+[s3]
+Domnul ne cheamă s-ajutăm
+Pe cei pierduţi să-i căutăm,
+Să îi aducem înapoi
+Din nou în turma Tatălui.
+
+[order]
+s1,r1,s2,r1,s3,r1

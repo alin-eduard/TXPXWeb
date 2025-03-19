@@ -1,0 +1,42 @@
+[s1]
+2234
+1. Pe aripi de credință
+Noi pășim mereu cântând
+Căci Domnul e-nainte
+Dorim să împlinim
+Tot ceea ce au spus
+A” lui Isus cuvinte.
+
+[r1]
+Cor:
+Niciodată să nu dăm ‘napoi
+Chiar dacă-i greu pe cale
+/: Isus Hristos ne va-ntări
+Și ne va da răbdare :/.
+
+[s2]
+2. Cununa pentru care
+Noi luptăm acum cu drag
+Nu este trecătoare
+Și în Împărăția
+În care sfinții vor intra
+Pe veci nimeni nu moare.
+
+[s3]
+3. Chiar dacă astăzi unii
+Din care-au învățat pe noi
+Au fost învinși în luptă
+Cu mic, cu mare-ntruna,
+Să ne-ncurajăm cu toți,
+Strigând: ”Tot înainte!”
+
+[s4]
+4. Cei care ne sunt pilde
+În Cuvântul cel citit
+Au mers pe-această cale
+În tot ne-au dat exemplu
+Ca și noi să biruim
+Căci toate-s trecătoare.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

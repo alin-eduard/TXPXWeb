@@ -1,0 +1,30 @@
+[s1]
+Cred în Domnul Isus,
+Şi în toate-L ascult,
+De lumină e plin drumul meu.
+Am o cruce de dus
+Prun al vieţii tumult,
+Dar nimic nu-i prea scump, nici prea greu!
+
+[r1]
+Cred şi-L ascult
+Şi-L iubesc tot mai mult…
+Lângă El este pace,
+Da , eu cred şi-L ascult!
+
+[s2]
+Nu zăresc nici un nor,
+Cerul mi-este senin
+Când pe Domnul în rugă îl chem… Suferinţi nu mă dor,
+În dureri nu suspin,
+Când ascult, n-am de ce să mă tem!
+
+[s3]
+Când îmi plec faţa mea,
+Mulţumirea să I spun,
+Printre îngeri acas’ parcă-aş fi Mântuirea să-mi dea,
+Fără margini de bun,
+El va fi Domnul meu şi-n vecii!
+
+[order]
+s1,r1,s2,r1,s3,r1

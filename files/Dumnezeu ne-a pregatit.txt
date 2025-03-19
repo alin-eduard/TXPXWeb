@@ -1,0 +1,33 @@
+[s1]
+Dumnezeu ne-a pregatit
+Loc in cerul Sau slavit
+Si ne cheama azi pe toți sa îi cantăm
+Noi vom sta la masa Sa
+Mană sfantă ne va da
+Si pe veci cu Domnul nostru vom cînta
+
+[r1]
+O venit Isus va cheama azi venit
+Catre cer pe calea sfanta va grabiti
+Orice suflet nechemat
+Usa harului bogat
+E deschisa azi dar maine sa-ncuia
+
+[s2]
+Ucenicii-au ascultat glasul Lui
+si l-au urmat
+Si in inimi pe Isus ei l-au primit
+Au vestit in orice loc
+Prin cuvinte ca de foc
+Si viata pentru El si-au daruit
+
+[s3]
+In curand divinul miel
+Ne va duce sus la EL
+Sa ne-mbrace pe vecie-nslava Sa
+Si cu ingerii-ntrun gand
+il vom lauda cu-avant
+Sarbatoarea nu va inceta nicicand
+
+[order]
+s1,r1,s2,r1,s3,r1

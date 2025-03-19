@@ -1,0 +1,43 @@
+[s1]
+Doamne mare, ruga Tu ne-ascultă
+Întăreşte-ne-n credinţă-acum!
+Dă-ne nouă pacea Ta cea sfântă
+pe acest Pământ.
+
+[s2]
+Din păcate Tu trezeşte lumea
+Nu ne lăsa, Doamne, să pierim
+Înviază sufletele noastre
+cu-al Tău har divin.
+
+[s3]
+Cercetează inimile noastre
+Dă-ne binecuvîntarea Ta
+Pe bolnavi Tu vindecă-i,
+o, Doamne cu iubirea Ta.
+
+[s4]
+Nu ne lăsa singuri niciodată
+Fii cu noi mereu la orice pas!
+Calea dreaptă, Doamne,
+Tu ne-arată, Te rugăm noi azi.
+
+[s5]
+Prin credinţă, Doamne, Tu condu-ne
+La izvorul harului Tău sfânt
+Tu ne-nvaţă să trăim,
+o, Doamne, după-al Tău Cuvînt.
+
+[s6]
+Zi de zi, o, Doamne, Tu veghează
+Noi să facem numai voia Ta
+Toată viaţa Tu ne ocroteşte
+cu iubirea Ta.
+
+[s7]
+Rugăciunea inimilor noastre
+Doamne mare, Ţie ţi-o nălţăm
+Tu ascult-o-n Numele lui Isus astăzi Te rugăm.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

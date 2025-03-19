@@ -1,0 +1,32 @@
+[s1]
+Navigăm pe oceanele lumii,
+Ţinta noastră e portul ceresc.
+Am pornit să ajungem acolo,
+Unde plânsul şi durerea se sfârşesc
+
+[r1]
+Pe catarg e drapelul speranţei,
+Că-ntr-o zi vom ajunge la mal.
+Dar nu cu busola ştiinţei,
+Ci doar cu al Domnului har.
+
+[s2]
+Navigăm pe întinsele ape,
+Dar spre cerul senin ne uităm.
+Pescăruşi vin în zbor mai aproape,
+Parcă spun: eşti aproape de ţărm.
+
+[s3]
+Am pornit spre o ţară departe,
+Ce-a fost greu pân-acum am uitat.
+Am trecut prin primejdii de moarte,
+Nu ne temem avem un Împărat.
+
+[s4]
+Hai acum să pornim cu credinţă,
+Spre cetatea cu străzi aurii.
+Nu auzi cum răsună chemarea,
+Dumnezeu te îmbie să vii.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,27 @@
+[s1]
+2007
+1. Dacă treci prin încercare
+Şi n-ai niciun ajutor
+/: Nu uita că-n cer Mesia
+Pentru veci ți-e Salvator :/
+
+[r1]
+Cor: /: Dacă-n barca vieţii tale
+Vânturi bat fără-ncetare
+Nu te teme căci Isus
+Întinde o mână de sus :/
+
+[s2]
+2. Dumnezeu îţi va trimite
+Ajutor un sol al Său
+/: El te va păzi de rele
+Îţi va fi ocrotitor :/
+
+[s3]
+3. Vine ziua când pe nori
+Mirele va apărea
+/: Şi în rai cu sfinţii-mpreună
+Să fim toţi în slava Sa :/
+
+[order]
+s1,r1,s2,r1,s3,r1

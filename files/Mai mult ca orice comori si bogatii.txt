@@ -1,0 +1,32 @@
+[r1]
+Mai mult ca orice comori si bogatii,
+Dincolo de orice vis
+E dragostea lui Isus, ce m-a gasit,
+Dragostea perfecta de sus.
+
+[s1]
+Orice trecut ai duce-n suflet,
+Oricat ai fi de neinsemnat,
+Iubirea ce ti se ofera
+E darul sfant al cerului.
+
+[s2]
+Cand oamenii-ti cer sacrificii
+Ca sa-ti dea din dragostea lor
+Vei ramane doar cu-o amagire,
+Cu un vis ranit si gol.
+
+[s3]
+Dumnezeu asteapta-n dragostea-I mare
+Sa-ti deschizi viata pentru cer.
+Privind in tine vei recunoaste
+Ce nevoie ai de El.
+
+[s4]
+Mai mult ca orice comori si bogatii,
+Dincolo de orice vis
+E dragostea lui Isus, ce m-a gasit,
+Dragostea perfecta de sus.(X3)
+
+[order]
+r1,s1,r1,s2,r1,s3,s4

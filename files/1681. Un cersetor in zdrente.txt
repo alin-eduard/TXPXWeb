@@ -1,0 +1,47 @@
+[s1]
+1681.    Mi
+1. Un cerşetor în zdrenţe
+Un orb în stare grea
+După Fiul lui Dumnezeu
+Prin Ierihon striga
+Cor:	Din marea mulţime
+Din grele suspine
+Striga disperat Bartimeu
+Isus se opreşte, cu milă priveşte
+Spre omul ce-L cheamă la greu
+
+[s2]
+2. De ani de zile viaţa
+În noapte îmi petrec
+Rabuni fie-ţi milă
+Vreau faţa să-Ţi privesc
+Cor:	Din marea mulţime
+Din grele suspine
+Striga disperat Bartimeu
+Isus se opreşte, cu milă priveşte
+Spre omul ce-L cheamă la greu
+
+[s3]
+3. Isus cu a Sa milă
+Spre el mâna şi-a întins
+Cu-a Sa putere sfântă
+El ochii i-a deschis
+Cor:	Din marea mulţime
+Din grele suspine
+Striga disperat Bartimeu
+Isus se opreşte, cu milă priveşte
+Spre omul ce-L cheamă la greu
+
+[s4]
+4. Isus şi astăzi poate
+Lumina să îţi dea
+Să simţi a Lui iubire
+Să-i vezi puterea Sa
+Cor:	Din marea mulţime
+Din grele suspine
+Striga disperat Bartimeu
+Isus se opreşte, cu milă priveşte
+Spre omul ce-L cheamă la greu
+
+[order]
+s1,s2,s3,s4

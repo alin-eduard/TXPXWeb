@@ -1,0 +1,37 @@
+[s1]
+Isuse, dintre toţi Te-aleg mereu,
+În orice zi, în orice clipă!
+Căci Tu eşti viaţa sufletului meu
+Şi harul care mă ridică.
+
+[r1]
+Te-aleg mereu! Te-aleg mereu,
+Isus, Mântuitorul meu!
+Te-aleg mereu! Te-aleg mereu!
+
+[s2]
+Isuse-aleg deplin cărarea Ta,
+Din miile de căi din lume,
+Şi vreau să merg pe ea, cât m-ar costa!
+Dă-mi Duhul Tău, să mă îndrume!
+
+[s3]
+lsuse-aleg Cuvântul Tău cel Sfânt,
+Căci numai El e Adevărul
+Ce-mi dă lumină lină pe pământ
+Şi-avânt să pot ajunge-n ceruri.
+
+[s4]
+Isuse-aleg iubirea Ta de jar,
+Din tot ce lumea îmi îmbie,
+Ca să-mi aprind al inimii altar,
+Să ard acum şi-n veşnicie.
+
+[s5]
+Isuse, din orice Te-aleg mereu
+Şi-n orice zi voi şti mai bine
+Că Tu eşti dragul sufletului meu
+Alt Domn nu vreau, decât pe Tine!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

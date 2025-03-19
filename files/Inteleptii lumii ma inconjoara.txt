@@ -1,0 +1,41 @@
+[s1]
+Înţelepţii lumii mă înconjoară
+Şi mă întreabă: „Cine-i Isus?”
+Pun la-ndoială a mea credinţă
+Şi spun că voi suferi nespus.
+
+[s2]
+/: De nimeni nu mă tem
+pe Tine când Te chem
+Numele Tău cu drag eu Îl rostesc.
+În faţa cui voi sta,
+nu mă voi clătina,
+Căci legea Ta eternă o păzesc. :/
+
+[s3]
+Privesc în zare, măreţul soare
+Ce străluceşte neîncetat...
+Pun o-ntrebare la fiecare:
+„Cine-l cunoaşte, cin’ l-a creat?”
+
+[s4]
+/: Şi dacă într-o zi soarele-ar zăbovi
+Cine-ar cunoaşte taina cerului?
+Ştiinţa omului cu-nţelepciunea lui
+Nu ar cunoaşte taina soarelui. :/
+
+[s5]
+Câmpii şi munţii, râuri şi marea
+Vestesc iubirea Celui Prea’nalt.
+Tot universul şi-ntreg pământul
+La glasul Lui s-au cutremurat.
+
+[s6]
+/: Şi toate florile-şi deschid petalele
+Pe-al câmpului covor nemărginit
+Căci tot ce ai creat
+Doar omului i-ai dat
+Fiindc-atât de mult Tu l-ai iubit! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

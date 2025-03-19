@@ -1,0 +1,38 @@
+[s1]
+1762                                                 Mi M
+1. Tu ne-ai fost tărie-n
+Vreme de nevoi
+Când s-au abătut
+Nori negri peste noi
+/:Ape mari şuvoaie când au năvălit
+Doar cu Tine, Doamne
+Noi am biruit:/
+
+[s2]
+2. Când fiorul morţii-n
+Noapte ne-a-ncercat
+Am simţit prezenţa Ta neîncetat
+/:Prin furtuni şi neguri
+Prin necazul greu
+Lângă noi ai stat,
+Tu, Mare Dumnezeu:/
+
+[s3]
+3. Barca Ta, Isuse-aici a ancorat
+Cu Tine la cârmă,Mare Împărat
+/:Pot să vină valuri
+Vânturi mari şi ploi
+Ştim că Tu, Isuse
+Eşti mereu cu noi:/
+
+[s4]
+4. Am simţit, Isuse
+Dulce ai Tăi paşi
+Căci cu nici un chip
+Tu singuri nu ne laşi
+/:Tot ce ne-ai promis azi
+S-a adeverit
+Din nenorocire,Tu ne-ai izbăvit:/
+
+[order]
+s1,s2,s3,s4

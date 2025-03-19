@@ -1,0 +1,39 @@
+[s1]
+1.	Doamne inima mea arde
+Când aud a Ta chemare
+Când Tu spui Isuse Doamne
+Că vei fi a mea salvare.
+2.	Când îmi dai putere sfântă
+Ce de sus din ceruri vine
+Când mă însoţeşti o Doamne
+Simt că eşti Tu lângă mine.
+451.
+
+[s2]
+3.	Căci aceasta-i o lucrare
+Ce-i promisă pe pământ
+Căci în timpul de pe urmă
+Vei turna din Duhul Sfânt.
+4.	Căci vedem în cartea vieţii
+Cu Elisei şi Ilie
+N-a cerut alte cuvinte
+Ci din putere să-i deie.
+
+[s3]
+5.	Dumnezeule din ceruri
+Dă-mi o sfântă sigilare
+Şi-ntăreşte-mă Părinte
+Pururi în a Ta lucrare.
+6.	Multe vânturi bat spre mine
+Încercând să mă doboare
+Dar eu am nadejde-n Tine
+Tu eşti stânca de scăpare.
+
+[s4]
+7.	Pentru toate aceste Doamne
+Îţi aduc ca mulţumire
+Toată energia sfântă
+Ce există azi în mine.
+
+[order]
+s1,s2,s3,s4

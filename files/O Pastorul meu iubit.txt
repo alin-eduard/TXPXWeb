@@ -1,0 +1,49 @@
+[s1]
+O, Păstorul meu iubit, o, Isuse!
+Eu la Tine am venit: o, iartă-mă!
+/: De la Tine niciodată,
+Doamne, nu voi mai pleca!
+Deci, primeşte-mă la Tine acuma!:/
+
+[s2]
+Tu m-ai scăpat de la moarte,
+O, Doamne,
+Şi Ţi-ai arătat în mine dragoste,
+/:De aceea, niciodată
+N-oi uita ce mi-ai făcut
+Căci pe mine, păcătosul, m-ai iubit.:/
+
+[s3]
+Dar în starea ce-mi rămâne,
+O, Doamne,
+Vreau să fiu întotdeauna cu Tine,
+/: Să primesc a Ta lucrare
+Ce-ai făcut-o în adunare
+Pentru acei ce i-ai iubit,
+Ca şi pe mine.:/
+
+[s4]
+Dar îndură-Te de mine, o, Părinte, Pentru vremea ce-mi rămâne înainte
+/: Să ajung la masa Ta,
+Unde se vor bucura
+Copilaşii Tăi cu toţii atuncea.:/
+
+[s5]
+Vremuri grele de-ar veni,
+În calea mea,
+Şi nori negrii de-ar veni pe deasupra,
+/: Doamne, îndură-Te de mine,
+Dă-mi putere de la Tine,
+Ca să nu rămân în lume de ruşine.:/
+
+[s6]
+Pune-mi Tu, pe mâna dreaptă,
+O pecete!
+Nu uita că ai murit şi pentru mine,
+/: Sus pe vârful dealului,
+Deasupra Calvarului!
+Răstignit pe cruce-ai fost
+Si pentru mine.:/
+
+[order]
+s1,s2,s3,s4,s5,s6

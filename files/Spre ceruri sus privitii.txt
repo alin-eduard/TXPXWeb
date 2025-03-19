@@ -1,0 +1,32 @@
+[s1]
+Spre ceruri sus priviţi într-una
+Voi ce aţi făcut un legământ
+/: Curând păstori-şi cheamă turma
+Pe-acei ce-s plinii de Duhul Sfânt :/
+
+[s2]
+Fecioara undelemn îţi cere
+Candela plină să o ai
+/: Mereu, mereu tot în veghere
+Şi-n asteptare tu să stai :/
+
+[s3]
+Cu toţi lucraţi în astă vie
+Lucraţi mereu c-un dar curat
+/: Căci iată El are să vie
+Şi-anunţă timpul de plecat :/
+
+[s4]
+V-am dat porunca mea din urmă
+Căci dragoste vreau între fraţi
+/: Să nu patrundă lupii-n turmă
+Să nu rămâneţi înşelaţi :/
+
+[s5]
+Şi mic şi mare-ntreg poporul
+Având în inimi dor ceresc
+/: Spre ceruri sus luându-şi zborul
+Uitând tot ce-a fost pământesc :/
+
+[order]
+s1,s2,s3,s4,s5

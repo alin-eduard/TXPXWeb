@@ -1,0 +1,50 @@
+[s1]
+Gustaţi şi vă convingeţi
+Ce bun e Domnul meu,
+Veniţi, de El v­atingeţi
+Şi fiţi pe placul Său!
+
+[r1]
+Isus e plin de dragoste,
+Mă­-nchin ’nainte­-I umilit
+Şi­-L măresc, şi­-L măresc
+Din inimă smerit.
+
+[s2]
+Pe cer mulţimi de stele
+Măresc pe Creator
+Iar noi, privind la ele,
+Ne sunt luminători.
+
+[s3]
+Ce vieţuieşte-­n lume
+Şi mişună prin mări
+Vesteşte al Său nume,
+Cel plin de îndurări.
+
+[s4]
+Cu mâinile-­I miloase
+Împarte daruri mari
+Ce­-s pline de foloase
+Şi ne-­ntrecut de mari.
+
+[s5]
+Dar cel mai scump din daruri
+Pe care le­a­-mpărţit
+E Fiul, Salvatorul,
+De Tatăl mult iubit.
+
+[s6]
+Drept preţ de împăcare
+Pe cruce­a suferit
+Şi­-n loc de răzbunare
+Iertare­a dăruit.
+
+[s7]
+Intrarea­-n raiul veşnic
+Deschisă­-i prin Hristos,
+Primit cu bucurie
+E­a-cel ce­i credincios.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1

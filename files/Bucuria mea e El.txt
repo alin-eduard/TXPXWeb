@@ -1,0 +1,27 @@
+[r1]
+Bucuria mea e El
+Numele-i Emanuel
+Întristare-a dispărut
+Când pe buze l-am avut.
+
+[s1]
+Am găsit un prieten bun
+Îmi este frate şi stăpân
+Când de mână m-a luat
+Viaţă nouă El mi-a dat
+Azi la toţi vreau să le spun
+Că Isus e prieten bun
+El povara îţi va lua
+Din inima ta.
+
+[s2]
+Chiar de eşti un păcătos
+Ai iertare la Hristos
+Tânăr sau bătrân de eşti
+Lui poţi să-i slujeşti
+El îţi iartă vina ta
+Mântuire îţi va da
+Fericire vei avea în inima ta
+
+[order]
+r1,s1,r1,s2,r1

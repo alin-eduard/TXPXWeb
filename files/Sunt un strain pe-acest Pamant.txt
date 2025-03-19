@@ -1,0 +1,27 @@
+[s1]
+Sînt un străin pe-acest Pămînt
+Unde-atîţia trupul şi-au lăsat
+Dar nu e mult şi ce s-a spus
+Sub văzul nostru s-a-mplini.
+Dumnezeu, El ne-a spus că atunci
+Sus în cer ne-om întîlni
+Cu acei ce-odată pe Pămînt au suferit.
+
+[r1]
+/: Vrei dar şi tu ca să vii la Isus?
+Anii se duc neobservaţi!
+Nu vrei tu oare ca să fii mîntuit
+Şi să fii pe veci fericit? :/
+
+[s2]
+Lacrimile ce-aici au curs
+Tot necazul ce l-aţi avut
+Boli şi-ntristări ce le-aţi suferit
+Toate vor fi şterse-acolo sus.
+Chiar El ne-a spus:
+<Cine-aici pe Pămînt
+Va păstra tot ce e scris
+Va primi cununa sfîntă sus în Paradis!>
+
+[order]
+s1,r1,s2,r1

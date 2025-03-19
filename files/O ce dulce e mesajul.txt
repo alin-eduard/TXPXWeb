@@ -1,0 +1,52 @@
+[s1]
+O, ce dulce e mesajul,
+Omule, ce treci,
+Că Isus Acelaşi este
+Ieri şi azi şi­n veci;
+El e gata să primească
+Pe cel păcătos,
+Preaslăvit în veci să fie
+Numele Hristos!
+
+[r1]
+Da, Isus Acelaşi este
+Ieri şi azi şi­n veci,
+Toate­aici sunt trecătoare,
+El rămâne­n veci.
+Slavă Domnului,
+Slavă numai Lui!
+Toate pier, dar El rămâne:
+Slavă numai Lui!
+
+[s2]
+Cel ce l­a iertat pe Petru
+Când s­a lepădat
+Şi lui Toma, ca să creadă,
+I s­a arătat;
+M­a primit chiar şi pe mine,
+Un biet păcătos
+Căci şi azi El e Acelaşi:
+Bun, sfânt şi milos.
+
+[s3]
+Cel ce a păşit pe ape
+După noaptea rea,
+Poate linişti furtuna
+Şi din viaţa mea;
+El, ce­atunci în Ghetsimani
+A plâns şi S­a rugat,
+Oare nu mă va­nţelege
+Când sunt întristat?
+
+[s4]
+După cum atunci pe cale
+Spre Emaus S­a dus,
+Poate azi să ne­nsoţească
+Să ajungem sus;
+Chiar şi­n moarte te ajută,
+Liniştit să treci,
+Şi să vezi că El e-Acelaşi,
+Ieri şi azi şi­n veci.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,21 @@
+[s1]
+Într-o iesle, într-un grajd din Betleem
+S-a născut al nost’ mântuitor,
+Îngeri şi păstorii cântă toţi în cor
+Slavă pe pământ şi sus în cer.
+La M
+
+[r1]
+/: Să-i cântăm şi noi pruncului Isus
+Care mântuire şi viaţă ne-a adus,
+Să-i cântăm Osana, slavă Lui în veci
+Căci prin El avem acum viaţă. :/
+
+[s2]
+Haideţi toţi la Betleem să ne-nchinăm
+Şi-ale noastre inimi să le dăm,
+Pruncului Isus, al nost’ mântuitor
+Să-i cântăm cu îngerii în cor.
+
+[order]
+s1,r1,s2,r1

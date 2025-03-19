@@ -1,0 +1,20 @@
+[s1]
+O, Doamne sfinte care m-ai creat
+Iată-mă la Tine am alergat;
+/: Gol sunt de la început, imbracă-mă;
+În sângele Tău cel sfânt, spală-mă :/
+
+[s2]
+Când prin mila Tavoi fi spălat
+Să-mi dai şi Duhul Tău cel sfânt, curat.
+/: Să mă conducă sus în casa Ta
+Cu Tine să mă pot eu bucura! :/
+
+[s3]
+O Sfinte Duh, doar Tu m-ai sigilat,
+Puterea Ta mă face sfânt, curat;
+/: Să pot intra în paradisul Lui,
+Să mă bucur cu sfinţii Domnului. :/
+
+[order]
+s1,s2,s3

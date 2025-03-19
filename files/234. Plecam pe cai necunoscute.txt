@@ -1,0 +1,31 @@
+[s1]
+1. Plecăm pe căi necunoscute
+În marea lucrare a Domnului
+Ca să vestim solia sfântă
+A revenirii Lui.
+234.
+
+[r1]
+Cor: Astăzi urmăm calea
+Lui Isus Hristos
+Ştim căci în curând
+El va veni de sus în jos
+Ştim că Domnul Isus
+Va veni-n curând
+Ca să ne ia la El.
+
+[s2]
+2. Plecăm să arătăm la lume
+Iubirea mare a Domnului
+Să-i preamărim
+Al Său Preasfânt nume
+Al Domnului Isus.
+
+[s3]
+3. Plecăm, plecăm cu voie bună
+Lucrăm în câmpul Domnului
+A lumii piedici şi păcate
+Nu ne va ţinea în loc.
+
+[order]
+s1,r1,s2,r1,s3,r1

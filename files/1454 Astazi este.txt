@@ -1,0 +1,54 @@
+[s1]
+1454.    Mi b
+Astăzi este ziua cântăreşte bine
+Vezi cum stai cu Dumnezeu
+Dacă ai uleiul candela ţi-e plină
+Verifică dragul meu
+
+[s2]
+Haina ţi-e încinsă
+Ai încălţămintea
+Duhul Adevărului
+Căci se-aud în zare Lupte, zgomot mare
+Care prevestesc
+
+[r1]
+/:Vine Isus:/
+Mai e puţin şi zice-vom deplin
+/:Vine Isus:/
+Şi vom pleca spre-un cer senin
+
+[s3]
+Domnul îţi vorbeşte
+Azi te pregăteşte
+Timpul este pe sfârşit
+Stai în rugăciune
+Jertfe, fapte bune
+Să fii aur curăţit
+
+[s4]
+Strânge în hambare
+Lacrimi şi sudoare
+Ce-ai lucrat pentru Isus
+Căci se-aud în zare
+Lupte, zgomot mare
+Care prevestesc
+
+[s5]
+Priveghează turmă
+că-n ziua din urmă
+Vor fi ceasuri de-amăgire
+Dacă-i cu putinţă
+Să strice-n credinţă
+Chiar poporul cel ales
+
+[s6]
+Cere dar puterea
+Să ai înfierea
+Prin Duhul cel Sfânt promis
+Stai în umilinţă
+Să ai biruinţă
+Căci vine Isus
+
+[order]
+s1,s2,r1,s3,s4,r1,s5,s6,r1

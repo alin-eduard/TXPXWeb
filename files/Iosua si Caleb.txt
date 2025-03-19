@@ -1,0 +1,39 @@
+[s1]
+Iosua, Caleb
+Şi zece dintre cei viteji au plecat,
+Trimişi de Moise în Canaan
+Pământul era plin de roade,
+Cum n-au mai văzut vreodat‘
+Dar când ochii de locuitori au dat
+Au îngheţat.
+
+[r1]
+/: Zece spun:
+,,Vrem să mergem înapoi”
+Doi spun:,,Hei!
+Dumnezeu este cu noi”
+Zece spun:
+,,Sunt uriaşi şi vom pieri”
+Doi spun:,,Hei!
+Dumnezeu va birui” :/
+
+[s2]
+Cât de repede au uitat
+Cum Dumnezeu i-a ajutat
+Când în Egipt erau ca robi
+Dar i-a scăpat.
+Cu nori mulţimea umbla ziua
+Noaptea în foc se prefăcea
+Mâna lui Iehova peste ei stătea,
+Dar au uitat.
+
+[s3]
+Patruzeci de ani s-au scurs
+Iar cei ce n-au crezut s-au dus
+Ţara a fost dată celor ce au crezut
+Cu Iosua şi Caleb, în frunte
+Spre victorie au pornit
+Dumezeu era cu ei şi au biruit.
+
+[order]
+s1,r1,s2,r1,s3,r1

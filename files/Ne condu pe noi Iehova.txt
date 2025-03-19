@@ -1,0 +1,26 @@
+[s1]
+Ne condu pe noi, Iehova,
+Prin al vieţii greu pustiu,
+Suntem slabi dar Tu eşti tare,
+Poartă-ne cu braţul Tău
+Şi cu mana Ta cerească
+Să hrăneşti poporul Tău!
+
+[s2]
+Stânca cea de veci deschide,
+Apă vie să ne dea,
+Stâlp de foc şi nor trimite,
+Dă-ne ocrotirea Ta,
+Mare Dumnezeu din ceruri,
+Ne condu cu mâna Ta!
+
+[s3]
+La Iordan când vom ajunge,
+Ne întinde mâna Ta
+Şi ajută-ne să trecem dincolo,
+În ţara Ta;
+Îţi vom mulţumi, o, Doamne
+Şi mărirea-Ţi vom cânta!
+
+[order]
+s1,s2,s3

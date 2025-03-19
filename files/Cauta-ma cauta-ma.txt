@@ -1,0 +1,20 @@
+[s1]
+“Caută-Mă, caută-Mă,
+Caută-Mă!” zice azi Dumnezeu
+“Caută-Mă, caută-Mă
+/: Şi ţie mă voi descoperi!”:/
+
+[s2]
+“Crede-Mă, crede-Mă,
+Crede-Mă!” zice azi Dumnezeu
+“Crede-Mă, crede-Mă
+/: Şi ţie mă voi descoperi”:/
+
+[s3]
+“Iubeşte-Mă, iubeşte-Mă,
+Iubeşte-Mă!” zice azi Dumnezeu
+“Iubeşte-Mă, iubeşte-Mă
+/: Şi ţie mă voi descoperi”:/
+
+[order]
+s1,s2,s3

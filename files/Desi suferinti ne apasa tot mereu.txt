@@ -1,0 +1,26 @@
+[s1]
+Deşi suferinţi ne apasă tot mereu
+Pe Isus noi nu-L vom lăsa
+Nici lanţuri, nici bice nu ne vor speria
+Isus ne va lua sarcina.
+
+[r1]
+/: Să nu fiţi trişti, Isus vine-n curând
+Să-i ducă pe ai Săi de pe Pământ ! :/
+
+[s2]
+Să fim treji mereu,
+să Îl aşteptăm pe El
+Curând va veni să ne ia.
+Chiar de vom adormi,
+trâmbiţa ne va trezi
+Spre ceruri noi vom pleca.
+
+[s3]
+Isus va fi Mire, iar noi mireasa Sa
+Un cântec pe buze vom avea !
+Şi haine de slavă cu toţi vom îmbrăca
+O, vino, Isus, nu amâna !
+
+[order]
+s1,r1,s2,r1,s3,r1

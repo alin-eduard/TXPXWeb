@@ -1,0 +1,24 @@
+[s1]
+Mai auzi tu vocea Sfanta
+Glasul Tatalui de sus
+Te mai insoteste atazi
+Sfatul Sfant dumnezeiesc
+
+[r1]
+/: Lasa-ti urechea s-auda
+mesajul din Scripturi
+O cat de bune si curate
+sunt sfintele invataturi :/
+
+[s2]
+Mai auzi mustrarea Sfanta
+Cand pe drumul rau pornesti
+Iti mai spune Duhul tie
+Cand sa mergi s-au sa te-opresti
+
+[s3]
+Mai auzi mustrarea Duhului,
+Isus vine, in curand
+
+[order]
+s1,r1,s2,r1,s3

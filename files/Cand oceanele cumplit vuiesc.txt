@@ -1,0 +1,16 @@
+[s1]
+Ţine-mă în mâna Ta
+Să m-ascunzi întinde-ţi aripa.
+
+[r1]
+Când oceanele cumplit vuiesc
+Doamne dă-mi puteri să biruiesc
+Tată ştiu că Tu eşti veghetor
+Stau liniştit ştiu că eşti Domn.
+
+[s2]
+Doar în Hristos mă odihnesc
+Pacea Lui în linişte o găsesc.
+
+[order]
+s1,r1,s2,r1

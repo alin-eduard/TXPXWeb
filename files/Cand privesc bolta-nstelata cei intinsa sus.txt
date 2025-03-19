@@ -1,0 +1,49 @@
+[s1]
+Cand privesc bolta-nstelata,
+Ce-i intinsa sus,
+Ma cuprinde-un dor sa
+Merg inspre Isus;
+Sunt ca Petru ce-a pornit
+Spre val, se scufunda
+Mana mea, vreau s-o tin,
+In mana Ta
+
+[r1]
+Mana Ta Doamne,
+M-a scapat din noapte grea
+Mana Ta Doamne,
+Ma pazeste-n noaptea grea
+/: Si poate fi valu’nalt
+Tu tii corabia mea
+Mana Ta Doamne, ma va purta. :/
+
+[s2]
+Cand suvoaiele-nspumate,
+Vin asupra mea
+Si cand vantul rau m-arunca,
+La pamant;
+Desi inima-mi se-opreste-n loc,
+Eu nu ma tem
+Mana mea vreau s-o tin,
+În mana Ta.
+
+[s3]
+Maine dincolo de noapte,
+În ai zorii zi
+Voi deschide ochii printre galaxii.
+Si-am sa strig:
+”Slavit sa fii si azi, si in vesnicii”
+Mana mea, vreau s-o
+Ţin in mana Ta.
+
+[s4]
+Mana Ta Doamne,
+Printre stele m-a purtat
+Mana Ta Doamne,
+Ma conduce-n Tara Ta
+/: Dar Mana Ta va aseza
+Pe cap coroana mea
+Mana Ta Doamne, ma va purta. :/
+
+[order]
+s1,r1,s2,r1,s3,s4,r1

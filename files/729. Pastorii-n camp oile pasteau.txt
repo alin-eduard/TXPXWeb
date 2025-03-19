@@ -1,0 +1,28 @@
+[s1]
+1. Păstorii-n câmp oile păşteau
+Lângă turma lor stătea
+Când deodată sus pe nor
+Îngerii se-arată-n cor.
+729.
+
+[r1]
+Cor:
+Mare bucurie a fost si este
+Peste tot răsună sfânta veste
+S-a născut Mesia Salvator
+Domnul Domnilor.
+
+[s2]
+2. Magii de la răsărit
+După steauă au pornit
+Pe Isus când au aflat
+Cu toţii s-au închinat.
+
+[s3]
+3.De vrei şi tu să te închini
+În faţa pruncului Divin
+Poţi să o faci chiar acum
+De vii pe sfântul drum.
+
+[order]
+s1,r1,s2,r1,s3,r1

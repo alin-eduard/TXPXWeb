@@ -1,0 +1,31 @@
+[s1]
+1. Prin câte valuri şi furtuni
+O, Doamne
+Trecut-am prin această lume rea
+Dar braţul Tău Divin
+M-a scos din toate
+Şi m-a ţinut mereu pe calea Ta.
+41.                 Sol
+
+[r1]
+Cor: Întinde-ţi mâna Ta acum
+Să ştie toţi că eşti Stăpân
+Să ştie chiar şi iadu-ntreg
+Să simtă toţi puterea Ta
+Că eşti viu Aleluia
+Glorificat să fii în veci.
+
+[s2]
+2. Am fost căzuţi în întuneric
+Dar mâna-Ţi Sfântă ne-a atins
+Ne-ai scos din groapa deznădejdii
+Şi cu putere ne-ai încins.
+
+[s3]
+3. Am vrea să ştie toţi de aici
+Chiar dacă valurile-s mii
+Că Tu lucrezi şi iar ridici
+Şi-n veci cu braţul Tău ne ţii.
+
+[order]
+s1,r1,s2,r1,s3,r1

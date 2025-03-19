@@ -1,0 +1,29 @@
+[s1]
+1.De am să port a mea cruce
+Domnul Isus mă conduce
+Nici grijă n-am, nici temere
+El m-ajută îmi dă putere.
+431.
+Fa M
+
+[r1]
+Cor:
+Eu sunt voios căci Dumnezeu
+Iubeşte mult sufletul meu
+Iubirea Lui e veşnică
+ÎI voi urma fără frică.
+
+[s2]
+2.Isus e-al meu Mântuitor
+'Nainte-mi e ca-nvăţător
+Parcă-L aud cum vorbeşte
+În inimă-mi El trăieşte.
+
+[s3]
+3.De vin furtuni asupra mea
+Am pe Domnul, El m-a ţinea
+Ce m-apasă El o ştie
+Mă scoate din primejdie.
+
+[order]
+s1,r1,s2,r1,s3,r1

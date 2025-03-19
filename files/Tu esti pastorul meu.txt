@@ -1,0 +1,25 @@
+[r1]
+Tu eşti Păstorul meu,
+Al sufletului meu,
+Aşez viaţa mea azi în mâna Ta.
+Astăzi hotărăsc cu Tine să trăiesc
+Şi vreau să Îţi spun:“Te iubesc!’’
+
+[s1]
+Nu mai vreau să rătăcesc
+Azi la cruce mă opresc,
+Ţie pe deplin Isus mă dăruiesc!
+Curăţeşte-mi inima,
+Umple-o de prezenţa Ta
+Şi-împărăţeşte Tu pe veci în ea!
+
+[s2]
+Chiar de-ar fi prin valea morţii
+Sau prin încercări să trec
+Ştiu că El, Păstorul meu, mă va păzi.
+Pot să-nfrunt orice munte
+Orice val şi orice greu
+Că Păstorul meu e Însuşi Dumnezeu.
+
+[order]
+r1,s1,r1,s2,r1

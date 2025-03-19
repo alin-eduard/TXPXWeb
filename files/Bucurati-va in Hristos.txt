@@ -1,0 +1,19 @@
+[r1]
+/: Bucuraţi-vă în Hristos :/ (x4)
+
+[s1]
+/: Boldul morţii :/
+La-I înfrânt şi-ai înviat
+Plin de slavă şi de cinste
+La dreapta Tatălui locul
+de cinste I s-a dat
+
+[s2]
+El e slava , El e glorie
+V-a domni în veci de veci
+Oastea sfântă Îl urmează
+N-ai vrea şi tu acum
+De partea Lui să treci
+
+[order]
+r1,s1,r1,s2,r1

@@ -1,0 +1,49 @@
+[s1]
+1. Când mergea înspre calvar
+A suferit un greu pahar
+O lume multă îl urma
+Isus mergea spre Golgota.
+2. Eu am crezut că ei se duc
+La vreo serbare sau la câmp
+Dar e cu totul altceva
+Isus mergea înspre Golgota.
+735.
+
+[s2]
+3. Înconjurat de un sobor
+De o mulţime de popor
+Isus oftând din greu, mergea
+Cu crucea-n sus spre Golgota.
+4. Şi nimănui nu-i era milă
+De cel ce n-avea nici o vină
+Ei îl băteau şi îl scuipau
+Cu trestia în cap îl loveau.
+
+[s3]
+5. Din gura lor se auzea
+Răstigneşte-L nu-L mai lăsa
+E vinovat de un păcat greu
+Căci a hulit pe Dumnezeu.
+6. Isuse Tu nu ai răspuns
+Contra celor ce te-au străpuns
+Ci te-ai rugat la Creator
+Să ierte păcatele lor..
+
+[s4]
+7. Şi pentru răsplătirea lor
+Ai băut al morţii pahar
+Şi pentru a noastră faptă rea
+Ai dus crucea la Golgota.
+8. Iar să-mi salvezi viaţa mea
+Ţi-ai arătat dragostea Ta
+Ai ascultat de Dumnezeu
+Jertfindu-te în locul meu.
+
+[s5]
+9. Şi acum ce ţi-aş putea eu da
+Pentru răscumpărarea mea
+O inimă îţi dăruiesc
+Cu totul Ţie mă jertfesc
+
+[order]
+s1,s2,s3,s4,s5

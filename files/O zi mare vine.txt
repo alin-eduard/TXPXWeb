@@ -1,0 +1,34 @@
+[s1]
+/: O zi mare vine :/
+Când Isus pe nori de flăcări
+Se va arăta.
+Eşti tu gata pentru acea zi
+Eşti tu gata, sunt eu gata
+De judecată.
+
+[s2]
+/: O zi mare vine :/
+Când pământul se topeşte
+Văzând faţa Lui.
+Eşti tu gata pentru acea zi
+Eşti tu gata, sunt eu gata
+De judecată.
+
+[s3]
+/: O zi mare vine :/
+Când cei drepţi de cei păcătoşi
+Se vor despărţi.
+Eşti tu gata pentru acea zi
+Eşti tu gata sunteu gata
+De judecată.
+
+[s4]
+/: O zi mare vine :/
+Te gândeşte dragă frate
+Unde atunci vei fi.
+Eşti tu gata pentru acea zi
+Eşti tu gata, sunt eu gata
+De judecată.
+
+[order]
+s1,s2,s3,s4

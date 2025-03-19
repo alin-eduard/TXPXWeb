@@ -1,0 +1,26 @@
+[s1]
+Sfânt şi tare e Domnul din Ceruri
+Minunat, îndurător, iubitor
+În El am orişicând biruinţă
+El dă sfinte binecuvântări.
+
+[r1]
+/: Lauda noastră, o meriţi azi,
+Pe deplin, Domn Divin
+Slavă Îţi dau popoarele
+Veşnic Împărat :/
+
+[s2]
+El revarsă deplină iubire
+Dimineaţa, la amiaz’, in amurg
+Chiar şi noaptea, pe noi ne păzeşte
+Avem pace cu El, oricând.
+
+[s3]
+Ce mareaţă e a Sa lucrare
+Ce prin Domnul Isus s-a făcut
+Din păcat ne-a adus la viaţă
+Al meu suflet, El l-a mântuit.
+
+[order]
+s1,r1,s2,r1,s3,r1

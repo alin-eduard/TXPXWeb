@@ -1,0 +1,35 @@
+[s1]
+Aş vrea să zbor, în zori,
+ca porumbelul,
+S-ajung mai sus,
+la Domnul meu iubit;
+/: Să nu mai fiu, în astă tristă viaţă,
+Să fiu mângâiat de Dumnezeu.:/
+
+[s2]
+Ajunge pentru mine-această viaţă
+In care eu m-am chinuit mereu!
+/: Aş vrea ca pururi
+să fiu lângă Domnul,
+Din instrument să-i cânt
+şi eu mereu. :/
+
+[s3]
+Să-mi stâmpăr inima
+ce mult suspină,                                                      De-atâta timp lovită de dureri;                                                                    /: Să-mi cânt mereu,
+din instrument, sfârşitul                                                       De zile cu necazuri şi dureri.:/
+
+[s4]
+Să-mi răcoresc a mea inimă tristă,                                       Cântând cu cei ce i-a răscumpărat;                                             /:Pe veci de veci,
+să fiu mereu cu Domnul,
+Cu-acei ce-n lume
+s-au iubit ca fraţi.:/
+
+[s5]
+Aş vrea să fiu unit cu-aceia care
+Cu sânge scump au fost răscumpăraţi,
+/: Ce şi-au primit cununa de viaţă
+Din mâna Domnului ce i-a salvat.:/
+
+[order]
+s1,s2,s3,s4,s5

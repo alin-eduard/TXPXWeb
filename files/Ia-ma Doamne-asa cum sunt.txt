@@ -1,0 +1,20 @@
+[r1]
+Ia-mă, Doamne-aşa cum sînt
+Ştiu că n-am nimica bun.
+Zi şi noapte mă frămînt
+Şi plin de suspine spun:
+
+[s1]
+Sunt ca fiul cel pierdut
+Trist, murdar, flămînd şi mut.
+Vin acas, într-un tîrziu
+/: Că sînt rob şi nu sînt fiu. :/
+
+[s2]
+Ceru-ntreg l-am întristat
+Cînd de-acasă am plecat.
+Azi mă-ntorc ca un străin
+/: Şi ,naintea Ta mă-nchin. :/
+
+[order]
+r1,s1,r1,s2

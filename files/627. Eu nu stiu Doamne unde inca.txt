@@ -1,0 +1,29 @@
+[s1]
+1. Eu nu ştiu Doamne unde încă
+Îmi vei duce paşii mei
+Dar ştiu că Tu poţi fi oriunde
+Lumina sfântă pentru ei.
+2. Eu nu ştiu câte noi primejdii
+M-aşteaptă-n calea mea de-acum
+Dar ştiu că Tu poţi fi ajutorul
+Şi pavăză pe orice drum.
+627.
+
+[s2]
+3. Eu nu ştiu câte lacrimi încă
+Au să mai verse ochii mei
+Dar ştiu că Tu-mi poţi fi alinul
+Şi mângâiere pentru ei
+4. Eu nu ştiu câte noi ispite
+Vor mai veni în calea mea
+Dar ştiu că-n Tine-i biruinţa
+Şi izbăvire pot avea.
+
+[s3]
+5. Eu nu ştiu Doamne viitorul
+Dar ştiu că el e-n mâna Ta
+Fă să nu uit niciodat-aceasta
+Ca liniştit să-Ţi pot urma.
+
+[order]
+s1,s2,s3

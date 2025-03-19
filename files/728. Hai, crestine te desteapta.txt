@@ -1,0 +1,26 @@
+[s1]
+1. Hai creştine te deşteaptă
+Lasă somnul cel de veci
+Mântuirea nu-i departe
+Şi tu numai în păcate
+Viaţa ţi-o petreci.
+2. Lasă grija de avere
+Lasă aur şi argint
+Lasă orişice plăcere
+Alte fapte ţi se cere aici pământ.
+728.
+
+[s2]
+3. Într-un staul, într-o iesle
+Hristos Domnul s-a născut
+Tu-ţi faci casă şi ogradă
+Haine scumpe de paradă
+Cum nu s-a văzut
+4. Câte pilde El ne spune
+Pentru a ne îndrepta
+Dar tu câte fapte bune
+Ai făcut creştine spune
+Toată viaţa ta.
+
+[order]
+s1,s2

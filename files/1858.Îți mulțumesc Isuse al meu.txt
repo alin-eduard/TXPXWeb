@@ -1,0 +1,29 @@
+[s1]
+1858
+1. Îți mulțumesc Isus al meu
+Căci Tu mi-ai dat din harul Tău
+Sunt bucuros , sunt cercetat
+Când Tu în inimă-ai lucrat.
+
+[r1]
+Cor: /:Cât de bun e Dumnezeu,
+Care-ndreaptă  pasul meu
+Să-L binecuvântați
+Și Lui să vă-nchinați
+/:Ascultă-ne când ne rugăm
+Și numele Tău îl chemăm.:/
+
+[s2]
+2. Îți mulțumesc Isus al meu
+Căci m-ai adus pe drumul Tău
+Tu pașii mei i-ai întărit
+În veci fii Doamne preamărit.
+
+[s3]
+3. Îți mulțumesc Isus al meu
+M-ai ajutat în ceasul greu
+Da , izbăvire Tu mi-ai dat
+În veci să fii Tu lăudat.
+
+[order]
+s1,r1,s2,r1,s3,r1

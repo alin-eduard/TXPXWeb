@@ -1,0 +1,39 @@
+[s1]
+1. Fraţi, surori cântaţi toţi
+Şi vă bucuraţi,
+Laudă şi mărire
+Domnului să-I daţi,
+Noi eram străini ieri
+Azi suntem amici,
+Ne-am apropiat
+Prin sângele lui Hristos.
+6.                 Mi m
+
+[r1]
+Cor: /: Să răsune Aleluia!
+Dumnezeu ne mântuie,
+Ale noastre nume-s scrise
+Pentru veci în cartea Lui. :/
+
+[s2]
+2. Ne-am apropiat toţi
+Dar nu de Sinai
+Pe noi nu ne-nfrică
+Nici un fel de grai
+Un cuvânt al milei
+Domnul ne-a vorbit
+Şi ne-a mântuit
+Prin sângele lui Hristos.
+
+[s3]
+3. Numai prin credinţă
+Noi acum trăim
+Şi-n iubire sfântă
+Către cer grăbim
+Inimile noastre
+Se înveselesc
+Vom trăi în veci
+Prin sângele lui Hristos.
+
+[order]
+s1,r1,s2,r1,s3,r1

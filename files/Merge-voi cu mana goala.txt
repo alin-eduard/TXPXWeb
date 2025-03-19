@@ -1,0 +1,32 @@
+[s1]
+Merge-voi cu mâna goală,
+Înaintea Domnului?
+Suflete nu-i pot aduce,
+Nici un singur snop măcar?
+
+[r1]
+Merge-voi cu mâna goală
+Înaintea Domnului?
+Suflete nu-i pot aduce
+Nici un singur snop măcar?
+
+[s2]
+Da, Isus m-a răscumpărat,
+De moarte nu am frică!
+Dar să merg cu mâna goală,
+Asta-i ce mă supără.
+
+[s3]
+Anii mei pe cari I-am pierdut
+Încă odată de-ar veni;
+Să pot lucra pentru Isus,
+Cât de fericit aş fi!
+
+[s4]
+Voi creştini, lucraţi cu râvnă!
+Tot-nainte să zoriţi!
+Aduceţi pe mulţi la Isus,
+Atât timp cât mai trăiţi!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

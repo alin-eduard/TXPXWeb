@@ -1,0 +1,39 @@
+[s1]
+1. Deşteptaţi-vă fecioare
+Să mergem spre întâmpinare
+Că Mirele nostru iubit
+Din odaie a pornit.
+2. Vine vremea să plecăm
+Pe Mire să-ntâmpinăm
+Fecioare vă pregătiţi
+Ca ulei destul s-aveţi.
+690.
+
+[s2]
+3. Nu cumva când veţi pleca
+Să se stingă candela
+Şi apoi să rămâneţi
+Şi să-ncepeţi să plângeţi.
+4. Ah, cum plâng fecioarele
+Că se sting candelele
+Plâng la uşă cu amar
+Domnul le zice-n zadar.
+
+[s3]
+5. Unde aţi fost ce-aţi căutat
+Ulei nu v-aţi cumpărat
+Şi acum n-aveţi lumină
+Şi nu veţi intra-n odihnă.
+6. Căci acuma aţi pierdut
+Dreptul de întâi născut
+Şi în milă nu veţi intra
+Şi nu veţi mai bucura.
+
+[s4]
+7. Asta-i o durere mare
+N-are-n lume asemănare
+Uşa-ncuiată va fi
+Mirele nu va primi.
+
+[order]
+s1,s2,s3,s4

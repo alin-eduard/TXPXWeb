@@ -1,0 +1,38 @@
+[s1]
+Cu Tine vreau sa fiu in
+Lumea-ceasta
+În necaz sau bucurii
+Cu Tine doar cu Tine Domnul meu
+Si aici si-n vesnicii
+
+[r1]
+Nu ma-nspaimanta incercarea mare
+Nici valurle,care ma lovesc
+Eu stau cu ochii
+Indreptati in zare
+Si vreau sa spun Isus
+Ca te iubesc
+
+[s2]
+In Tine ma incred Isuse Doamne
+Tu mi-esti pavaza mereu
+Doar cu Tine voi putea invinge
+Ispitele oricat ar fi de greu
+
+[s3]
+Nu vreau sa ma despart
+nicicand de Tine
+să fim uniti pan' la sfârșit
+speranțe noi se nasc mereu în mine
+când te caut Isus iubit
+
+[s4]
+Nu ma-nspaimanta incercarea mare
+nici valurile care ma lovesc
+eu stau cu ochii
+indreptati in zare
+si vreau sa spun isus
+ca te iubesc
+
+[order]
+s1,r1,s2,r1,s3,s4

@@ -1,0 +1,32 @@
+[s1]
+Să păzesc Isuse-nvaţă-mă
+Legea Ta, Legea Ta,
+Voia-Ţi sfântă vreau să-ndeplinesc,
+Tu-mi poţi ajuta!
+Vreau să fiu doar al Tău
+Legea Ta s-o împlinesc,
+Vreau în veci, Ţie-n veci,
+Numai Ţie să-Ţi servesc!
+
+[s2]
+Bani, mărire, nu mă fericesc,
+Ce folos, ce folos,
+Dacă-n viaţă n-am vrut să primesc
+Pe Isus Hristos!…
+Vreau să fiu doar al Tău
+Legea Ta s-o împlinesc,
+Vreau în veci, Ţie-n veci,
+Numai Ţie să-Ţi servesc!
+
+[s3]
+Am lăsat tot ce e trecător;
+Numai Tu, Numai Tu,
+Tu să-mi fii în toate Protector
+Şi Mângâietor!
+Vreau să fiu doar al Tău
+Legea Ta s-o împlinesc,
+Vreau în veci, Ţie-n veci,
+Numai Ţie să-Ţi servesc!
+
+[order]
+s1,s2,s3

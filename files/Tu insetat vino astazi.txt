@@ -1,0 +1,32 @@
+[s1]
+Tu, însetat, vino astăzi
+La al vieţii izvor,
+Isus îţi dă fără plată
+Din haru-I salvator.
+
+[r1]
+Vino degrabă la Isus,
+Vino şi nu mai sta,
+Vino căci El te aşteaptă,
+Nu amâna!
+
+[s2]
+Vezi cum Isus cu iubire
+La masa Lui ne-a chemat,
+Pe cei flămânzi îi hrăneşte
+Prin haru-I minunat.
+
+[s3]
+Poţi să-I refuzi tu chemarea,
+Poţi tu să-I spui: „Nu acum“?
+Inima ta o doreşte,
+Dă-I-o, căci El e bun!
+
+[s4]
+Încă răsună chemarea,
+Oricine poate veni,
+Va fi spălat de păcate
+Şi mântuit va fi!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

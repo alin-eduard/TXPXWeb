@@ -1,0 +1,75 @@
+[s1]
+1.  Când gândesc la Tine Doamne
+Inima-mi suspină
+Mi-i urât de această lume
+Vreau s-ajung la Tine
+Ah, mult doresc ziua aceea
+Să te văd pe Tine.
+1059.
+
+[s2]
+2.Dăruieşte-mi, o, Isuse
+Mai multă răbdare
+Ochii mei la Tine ţintă
+Să-mi fie pe cale
+Să te văd Isuse dulce
+La calvar pe cruce.
+
+[s3]
+3. Lacrimile-mi curg în valuri
+Când privesc la Tine
+Fruntea Ta însângerată
+Şi piroane-n mâini
+Ah, învaţă-mă Isuse
+Să rabd ca şi Tine
+
+[s4]
+4.   Arată-mi Isuse dulce
+Calea către Tine
+Când cad într-o suferinţă
+Vino lângă mine
+Căci fără de Tine Doamne
+Sunt doar o ţărână.
+
+[s5]
+5. Nu-i nimic în astă lume
+Nici tată, nici mamă
+Ca dragostea de părinte
+Cine o bagă în seamă
+Tu frate, tată şi mamă
+Îmi eşti Isuse Doamne.
+
+[s6]
+Inima abia mai bate
+Ochii abia mai plâng
+Glasul abia se mai aude
+Viaţa mi se stinge
+Ia-mă Tu Isuse dulce
+Şi-n braţe mă ţine.
+6.
+Ah, Isuse-n soare
+Semne se arată
+Ne vesteşte despre Tine
+Căci Tu vii îndată
+Ah, spală-mi a mea inimă
+Şi fă-mi-o curată.
+7.
+
+[s7]
+Dă-mi din Duhul Tău Isuse
+Din a Ta putere
+Lasă în a mea inimă
+Multă mângâiere
+Ah, învaţă-mă Isuse
+Spre Golgota a merge
+8.
+Printre spini şi suferinţe
+Cu lacrimi în gene
+Nu mă mai lăsa Isuse
+Scump Samaritene
+Ah, Tu în această lume
+Să-mi fii mângâiere.
+9.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

@@ -1,0 +1,33 @@
+[s1]
+1050.
+1.	  Strâmtă-i calea mântuirii
+Iar purtarea cruci-i grea
+Dac-ar fi uşor aceasta
+N-ar fi aşa puţini pe ea.
+2.       Mare-i lupta cu adevărul
+Pe pământul cu minciuni
+Dac-ar fi uşor aceasta
+N-ar fi aşa puţini cei buni.
+
+[s2]
+3.         Mare-i lupta cu-ndoiala
+Când priveşti spre ce nu vezi
+Dac-ar fi uşor aceasta
+N-ar fi aşa de greu să crezi
+4.         Multe-s relele vieţii
+Celui înfrânat şi-ales
+Dac-ar fi puţine acestea
+N-am fi aşa zdrobiţi ades.
+
+[s3]
+5.            Chinuit e drumul jertfei
+Pân’ la ţărmul strălucit
+Dac-ar fi uşor aceasta
+N-ar fi aşa de răsplătit.
+6.             Dar slăvită-i veşnicia
+Celui drag şi credincios
+Dacă n-ar fi aşa ne-ar spune
+Adevărul şi Hristos.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,24 @@
+[s1]
+Eu nu Te cunoşteam ISUS
+Nu ştiam că-n-astă lume
+Pentru mine cineva de mult muri
+Eu nu voiam ca să ascult
+De cuvântul vieţii Tale
+Care spune că:
+”ISUS mult m-a iubit”
+
+[r1]
+/:Dar mi-ai deschis ochii Doamne
+Şi lumina a intrat în viaţa mea
+Dar mi-ai deschis ochii Doamne
+Sunt mântuit şi eu prin Golgota:/
+
+[s2]
+O, Doamne cum să-ţi mulţumesc
+Pentru ce-ai făcut cu mine
+Pentru sângele ce-a curs pe Golgota
+O, Doamne ce-aş putea să-ţi dau
+Inima mea de azi e doar a Ta
+
+[order]
+s1,r1,s2,r1

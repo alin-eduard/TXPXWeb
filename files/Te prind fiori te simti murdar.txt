@@ -1,0 +1,45 @@
+[s1]
+Te prind fiori, te simţi murdar,
+Te-a prins păcatul la răscruce!
+/: Şi tu nu ştii, copil fugar,
+C-am fost lovit cu-atata amar
+/: Şi-am stat, în locul tau, pe cruce? :/
+Sol minor
+
+[s2]
+Te uiti la cer, te simţi zdrobit,
+Nu-i nimenea să te-nţeleagă!
+/: Şi tu nu ştii, n-ai auzit
+Că, pentru tot ce-ai săvârşit,
+/: Eu am plătit pedeapsa-ntreagă? :/
+
+[s3]
+O, cât ai vrea să fii curat
+Şi să incepi o viaţă nouă!
+/: Şi tu nu ştii, tu n-ai aflat
+Că, pentru tine, Mi-am lăsat
+/: Strapunse mâinile-amândouă? :/
+
+[s4]
+Ţi-a spus un duh neinţelept
+Că nu mai poţi găsi iubire...
+/: Şi tu nu ştii că tot ce-aştept
+E doar să vii, să-Mi cazi la piept
+/: Cu un cuvânt de multumire? :/
+
+[s5]
+Ce fericiți sunt frații mei
+Cei ce-s iertați de fapte rele
+Și tu nu știi, că tot ce-aștept,
+E doar să vii să-mi cazi la piept
+Cu un cuvânt de mulțumire.
+
+[s6]
+O, vino dar, te chem să vii.
+Să-ţi iei, din mâna Mea, cununa!
+/: Şi-atunci vei şti ce azi nu ştii:
+C-ai fost al Meu, din veşnicii,
+/: Şi eşti al Meu, pe totdeauna! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

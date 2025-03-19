@@ -1,0 +1,36 @@
+[s1]
+1712.  La
+1. Lăsaţi copilaşii să vină la Mine
+Isus aşa le spunea
+Ca ei vor fi cei
+Care fi-vor cu Mine.
+Cu ei Eu mă voi bucura
+Cor:	/:Noi astăzi aducem la Tine
+Pe braţe un mic copilaş
+Isus Tu să-i dai ocrotire
+Şi binecuvântări să-i laşi:/
+
+[s2]
+2. Din ceruri trimite-ne
+Doamne-ndurare
+Să-i creştem în casa Ta
+Să fie cuminţi să-Ţi dea ascultare
+C-aceasta e voia Ta
+Cor:	/:Noi astăzi aducem la Tine
+Pe braţe un mic copilaş
+Isus Tu să-i dai ocrotire
+Şi binecuvântări să-i laşi:/
+
+[s3]
+3. Ascultă-ne ruga să fie-mplinită
+Aceasta-i dorinţa ce-avem
+În cerul Tău sfânt
+Cu toată adunarea
+Poporul Tău să ajungem
+Cor:	/:Noi astăzi aducem la Tine
+Pe braţe un mic copilaş
+Isus Tu să-i dai ocrotire
+Şi binecuvântări să-i laşi:/
+
+[order]
+s1,s2,s3

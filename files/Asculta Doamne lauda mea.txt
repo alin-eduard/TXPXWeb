@@ -1,0 +1,18 @@
+[r1]
+Ascultă Doamne lauda mea
+Când mă gândesc la Tine-n ruga mea
+Te iubesc Doamne, Te iubesc
+Purtat pe aripi în prezenţa Ta
+Sufletu-mi cântă şi-n inima mea
+Te iubesc Doamne, Te iubesc
+
+[r2]
+Iar acum eu doresc
+Să mă-nchin întotdeauna
+În puterea Numelui Tău
+Îmi ridic mâinile
+Şi-mi înalţ vocea spre ceruri
+Că Tu eşti lumina mea.
+
+[order]
+r1,r2,r1,r2

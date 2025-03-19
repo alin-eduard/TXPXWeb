@@ -1,0 +1,30 @@
+[s1]
+În întuneric Tu ai coborât,
+M-ai luminat şi azi văd.
+Tot ce-ai creat
+Îmi vorbeşte de Tine,
+Totul mă-ndeamnă să cred,
+
+[r1]
+Iată, mă închin azi
+Şi mă plec ‘nainte-ţi,
+Doamne, tu eşti Dumnezeul meu,
+Îţi cânt cu adorare
+Eşti vrednic de-nchinare
+Fiindcă Tu eşti cel mai minunat
+
+[s2]
+Tu, împărat pe pământ şi în ceruri
+În veşnicii înălţat
+Smerit, la noi, pe pământ
+Te-ai născut
+Om ca şi noi Te-ai făcut,
+
+[s3]
+Eu niciodată nu voi şti,
+Pe cruce cât ai suferit,
+Păcatul meu Te-a răstiginit,
+În locul meu Tu ai murit.
+
+[order]
+s1,r1,s2,r1,s3,r1

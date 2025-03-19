@@ -1,0 +1,31 @@
+[s1]
+121.
+1. Dă-mi /: ulei în lampa mea :/
+Mă rog, Aleluia
+Dă-mi ulei în lampa mea
+Să lucească ca o stea
+Până la venirea Ta.
+
+[s2]
+2. Dă-mi /: putere-n viaţa mea :/
+Te rog Aleluia
+Dă-mi putere-n viaţa mea
+Pe Tine a Te lăuda
+Până la venirea Ta.
+
+[s3]
+3. Şi /: mă-nvaţă să iubesc :/
+Mă rog Aleluia
+Pe Isus să-L proslăvesc
+Cât în lume mai trăiesc
+Până când la El sosesc.
+
+[s4]
+4. Eu /: Te-aştept mereu de sus :/
+Mă rog Aleluia
+Tu-mi înalţă ochii-n sus
+Să Te-aştept cu dor nespus
+Până când revii Isus.
+
+[order]
+s1,s2,s3,s4

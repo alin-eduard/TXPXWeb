@@ -1,0 +1,39 @@
+[s1]
+1717.
+1. În planul măreţ şi divin
+S-a scris pe veci un destin
+Un loc pregătit cu Hristos
+Iar altul grozav, dureros
+E azi alegerea ta
+Spre ce loc te vei îndrepta
+Destinul tău azi ţi-l alegi
+E calea pe care tu mergi
+
+[r1]
+Cor:	/:Uimitoare e dragostea Sa
+Întoarce-te azi la ea
+Uimitoare e dragostea Sa
+Primeşte-o şi nu refuza:/
+
+[s2]
+2. E posibil ca om păcătos
+Să ai ispăşire-n Hristos
+Prin sângele Lui poţi avea
+Iertarea păcatelor dar
+Cum oare se poate aşa
+Uimitoare e dragostea Sa
+Să moară pe cruce străpuns
+Dragostea Lui e răspuns
+
+[s3]
+3. Tu ştii că Hrisos a plătit
+Un preţ valoros împlinit
+Să poţi tu să fii azi salvat
+Liberat vindecat şi iertat
+Dă-i un răspuns azi dragul meu
+Dragostei lui Dumnezeu
+Să alegi este planul divin
+Este clipa pentru al tău destin
+
+[order]
+s1,r1,s2,r1,s3,r1

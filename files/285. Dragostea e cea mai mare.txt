@@ -1,0 +1,41 @@
+[s1]
+1. Dragostea e cea mai mare
+Dintre daruri pe pământ;
+/:Cu ea vom ţinea în luptă
+Şi nu vom cădea nicicând.:/
+285.
+Sol
+
+[s2]
+2. Dragostea cine o are
+I se pare viaţa vis;
+/:Ea serveşte de-aripioare
+Pentru-a merge-n Paradis.:/
+
+[s3]
+3. Cine spune că iubeşte
+Pe Domnul Isus Hristos
+/:Şi pe un frate-l urăşte,
+El este un mincinos.:/
+
+[s4]
+4. Dragostea nu pizmuieşte,
+Nici chiar pe-un
+duşman al său;
+/:Ci din contră îl iubeşte
+Nu se bucură de rău:/
+
+[s5]
+5. Cine este de urăşte
+Pe un mic frate al său
+/:Moartea pe el îl va paşte
+Şi va merge-n chinul greu:/
+
+[s6]
+6. Dragostea e preţioasă
+Prin ea vom scăpa de chin
+/:Şi în ţara glorioasă
+Cu ea vom fi în veci amin:/.
+
+[order]
+s1,s2,s3,s4,s5,s6

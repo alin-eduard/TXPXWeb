@@ -1,0 +1,26 @@
+[s1]
+De ce atatea lacrimi,
+suspine si dureri?
+De ce atatea patimi
+si fara mangaieri?
+
+[r1]
+/: De ce tristetea mare
+In suflet ti-a intrat?
+Nu vrei sa-L ai pe Isus
+Sa spele-al tau pacat? :/
+
+[s2]
+Nici lacrimi, nici suspine,
+nu le poti mangaia
+Decat prin Domnul Isus,
+Care pe tin' te vrea!
+
+[s3]
+Cu Isus nu sunt lacrimi,
+tristete sau amar,
+Fara sa fie sterse la cruce,
+la Calvar.
+
+[order]
+s1,r1,s2,r1,s3,r1

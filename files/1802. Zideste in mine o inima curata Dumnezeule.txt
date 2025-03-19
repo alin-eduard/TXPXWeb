@@ -1,0 +1,30 @@
+[s1]
+1802.                Sol
+1. Zideşte în mine o inimă
+Curată, Dumnezeule
+Şi pune în mine un duh nou,
+Statornic, Dumnezeule
+
+[r1]
+Cor: /: Nu mă depărta de la faţa Ta
+Şi nu lua de la mine
+Duhul Tău cel Sfânt
+Dă-mi iarăşi bucuria
+Mântuirii Tale!
+Umple-mă
+Cu Duhul Tău cel Sfânt :/
+
+[s2]
+2. Zidește în mine iubirea Ta
+Mareață Dumnezeule
+Și pune în mine un cuget nou
+Statornic,Dumnezeule
+
+[s3]
+3.Zidește în mine iubirea Ta
+Curată Dumnezeule
+Și pune în mine un suflu nou
+Statornic,Dumnezeule
+
+[order]
+s1,r1,s2,r1,s3,r1

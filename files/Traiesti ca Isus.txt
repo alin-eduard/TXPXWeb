@@ -1,0 +1,26 @@
+[s1]
+/: Trăieşti ca Isus :/
+Te întrebi tu, trăieşti ca El?
+/: Nu doar de formă ci-n întregime
+Te întrebi tu, trăieşti ca El? :/
+
+[s2]
+/: Iubeşti ca Isus :/
+Te întrebi tu, iubeşti ca El?
+/: Nu doar de formă ci-n întregime
+Te întrebi tu, iubeşti ca El? :/
+
+[s3]
+/: Eşti blând ca Isus :/
+Te întrebi tu, eşti blând ca El?
+/: Nu doar de formă ci-n întregime
+Te întrebi tu, eşti blând ca El? :/
+
+[s4]
+/: Te rogi ca Isus :/
+Te întrebi tu, te rogi ca El
+/: Nu doar de formă ci-n întregime
+Te întrebi tu, te rogi ca El? :/
+
+[order]
+s1,s2,s3,s4

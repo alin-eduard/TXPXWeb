@@ -1,0 +1,62 @@
+[s1]
+1548.
+1. Strigă Duhul Sfânt prin vase
+Strigă ne-ncetat
+Trezeşte-te tu popor
+Ce-ai fost răscumpărat
+/: Cheamă-mă cu stăruinţă pe pământ
+V-am promis o zi în care
+Voi veni-n curând :/
+2. Vin să-Mi iau ce am promis prorocilor
+Vei zbura ca porumbeii înspre porumbar
+Veţi striga de bucurie spre Cel Sfânt
+Şi veţi zice vino Doamne mai curând.
+
+[s2]
+3. Tu pe străzile de aur atunci vei intra
+Lângă tronul de domnie te vei bucura
+/: Vei cânta cu alăuta ne-ncetat
+Vrednic eşti de mare cinste
+Miel înjunghiat :/
+4. Sus pe marea cea de sticlă
+Vei fi aşezat
+Căci la trâmbiţa din urmă
+Vei fi deşteptat
+/: Te-oi striga hai vino acasă
+Tu poporul Meu
+Să te scap de suferinţa necazului greu :/
+
+[s3]
+5. C-un toiag de fier
+Puternic vei fi cârmuit
+Spre cetatea cea de aur
+Spre noul pământ
+/: Deci ascultă astăzi glasul
+Ce strigă cu dor
+Sunt gata să vin la tine
+Să te iau pe nori :/
+
+[s4]
+6. Noi acelaşi dor
+O Doamne îl purtăm mereu
+Adă ziua transformării poporului Tău
+/: Înmulţeşte-ne uleiul
+Duhului cel Sfânt
+Să putem striga Osana
+Vino mai curând :/
+
+[s5]
+7. Vino puiule de cerb şi sari peste munţi
+A trecut iarna geroasă aproape s-a dus
+/: Pe câmpie se aude glasul lui Isus
+A venit vremea cântării poporului sfânt :/
+8. Te zăresc Isuse Doamne
+Ca prin crăpături
+Nu-ţi ascunde faţa o Doamne
+/: Scoală-te iubite frate
+Şi ridică-te în sus
+Se aude peste munţi
+Glasul lui Isus :/
+
+[order]
+s1,s2,s3,s4,s5

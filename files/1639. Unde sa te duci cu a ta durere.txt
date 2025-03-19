@@ -1,0 +1,27 @@
+[s1]
+1639. Re m
+1. Unde să te duci cu a ta durere,
+Oare cine te va mângâia?
+/: Numai Dumnezeu :/
+Şi de tine se va îndura!
+
+[s2]
+2.Unde să te ascunzi când e furtună,
+Cine oare te va ocroti?
+/: Numai Dumnezeu :/
+În iubirea Lui te va păzi!
+
+[s3]
+3.Când eşti părăsit şi plângi întruna,
+Că de tine toţi sau depărtat?
+/: Numai Dumnezeu :/
+Prieten îţi va fi cu adevărat!
+
+[s4]
+4.Când de la spital te-au dat acasă,
+Că e tare gravă boala ta,
+/: Numai Dumnezeu :/
+Poţi să crezi că El te-a vindecat!:/
+
+[order]
+s1,s2,s3,s4

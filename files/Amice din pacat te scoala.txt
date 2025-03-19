@@ -1,0 +1,58 @@
+[s1]
+1
+Amice, din păcat te scoală,
+Şi vino-n grabă la Isus.
+La inima ta bate-ntruna,
+Căci te iubeşte mult nespus.
+
+[s2]
+2
+Să nu-L respingi,
+El te iubeşte ne-ncetat,
+Ci să-I deschizi inima ta
+ne-ntârziat.
+
+[s3]
+3
+Ce veşnică iubire are,
+De tine bunul Salvator.
+Că pentru-a tale mari păcate
+Muri sfântul Mântuitor.
+
+[s4]
+4
+Să nu-L respingi,
+El te iubeşte ne-ncetat,
+Ci să-I deschizi inima ta
+ne-ntârziat.
+
+[s5]
+5
+Din trupul Său a curs mult sânge
+Păcatele a le spăla.
+În locul nostru se jertfise.
+Cum răsplătim noi jertfa Sa ?
+
+[s6]
+6
+Să nu-L respingi,
+El te iubeşte ne-ncetat,
+Ci să-I deschizi inima ta
+ne-ntârziat.
+
+[s7]
+7
+O, frate, vino l-acest sânge
+Iertare-n El tu vei afla.
+Şi sufletul ţi-l linişteşte,
+Când fericiri te vor umplea.
+
+[s8]
+8
+Să nu-L respingi,
+El te iubeşte ne-ncetat,
+Ci să-I deschizi inima ta
+ne-ntârziat.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

@@ -1,0 +1,31 @@
+[s1]
+Doamne, dăruieşte­-mi
+harul, pacea Ta
+Ca în umilinţă să Te pot urma;
+Dă­-mi credinţă multă
+Să pot priveghea
+Râvnă înţeleaptă,
+Mult să pot lucra!
+
+[s2]
+Doamne, vreau din suflet
+Să Îţi mulţumesc,
+Tu îmi eşti nădejdea,
+Ştii că Te iubesc;
+Pune­acum în mine
+Gândul Tău curat,
+Bun, milos ca Tine
+Să fiu ne­ncetat!
+
+[s3]
+Dă­mi gânduri curate
+Şi răbdarea Ta
+Să înving ispite
+Prin puterea Ta;
+Dă­mi în suflet dorul
+Cerului slăvit
+Şi multă lumină
+Prin Duhul Tău Sfânt!
+
+[order]
+s1,s2,s3

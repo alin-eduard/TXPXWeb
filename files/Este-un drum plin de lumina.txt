@@ -1,0 +1,46 @@
+[s1]
+Este-un drum plin de lumina
+Spre-un oras indepartat,
+Unde-i glorie, marire,
+Fericire, ne'ncetat.
+Zilnic merg pe drumu-acesta,
+Ca sa pot intra si eu,
+In orasul sfant din ceruri,
+La tronul lui Dumnezeu.
+
+[r1]
+/: Eu sunt calator, pe pamant strain,
+Inspre tara sfanta, pelerin. :/
+
+[s2]
+Azi, orasul este templu
+Pentru Dumnezeul sfant,
+Dar curand el se va umple
+Cu oameni de pe pamant.
+Si iubirea ce ne-o poarta
+Ne ajuta sa simtim
+Dorul pentru noua casa,
+Unde vrem si noi sa fim.
+
+[s3]
+Orasu-acesta e gata,
+Pregatita-i casa ta:
+Dumnezeu asteapta clipa
+Cand esti gata sa te ia.
+Deci, nu dispera pe cale,
+Si nu fii ingrijorat!
+Tu, doar lauda-L pe Isus
+Si iubeste-L ne'ncetat.
+
+[s4]
+Este-un drum plin de lumina
+Spre-un oras indepartat,
+Unde-i glorie, marire,
+Fericire, ne'ncetat.
+Haideti toti pe drumu-acesta
+Care duce-n ceruri sus!
+Vom trai o vesnicie,
+Impreuna cu Isus!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

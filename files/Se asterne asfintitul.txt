@@ -1,0 +1,26 @@
+[s1]
+Se asterne asfintitul
+Vremea harului se duce..
+Tu ce n-ai primit Cuvantul
+Si ai fost salvat, pe cruce,
+
+[r1]
+Grabeste-te, cat este timp si har
+Caci Domnul usa va-ncuia!
+Acum sa vii, caci maine e tarziu,
+Si neiertat vei ramanea..
+
+[s2]
+Iti dorim, pe veci, salvare
+Sa ajungi in fericire
+De respingi, ce remuscare
+Vei avea in nesfarsire
+
+[s3]
+Vino, mana iti intinde
+Cere-I astazi indurare!
+Mila Lui te va cuprinde
+Sa te scape din pierzare
+
+[order]
+s1,r1,s2,r1,s3,r1

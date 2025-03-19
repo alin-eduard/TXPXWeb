@@ -1,0 +1,29 @@
+[s1]
+Noi avem un mesaj să aducem
+Să-l cunoască-ntregul popor
+Din cer a venit salvarea,
+Isus e Mântuitor,
+Isus e Mântuitor!
+
+[r1]
+Noaptea se va schimba­n lumină
+Iar lumina­n amiaz de zi
+Şi­mpărăţia lui Dumnezeu
+Cu glorie va veni!
+
+[s2]
+Noi avem un mesaj de la Domnul,
+Cel Atotputernic şi sfânt,
+Pe Fiu L­a trimis să moară,
+Al nostru păcat purtând,
+Al nostru păcat purtând.
+
+[s3]
+Noi avem pe Hristos, Salvatorul,
+Ce pe calea grea a umblat,
+La Tatăl pe toţi să-nalţe
+La cer în al Său palat,
+La cer în al Său palat.
+
+[order]
+s1,r1,s2,r1,s3,r1

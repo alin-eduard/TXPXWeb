@@ -1,0 +1,32 @@
+[s1]
+Ca valul ce-a lovit în stancă,
+apoi s-a risipit
+Aşa te-ai destrămat în lume,
+suflet ostenit.
+/: În zadar ai alergat avand
+O himeră-n loc de ţelul sfant.
+Viaţa ta a strîns în palme vant
+Val de mare-n stancă frant. :/
+
+[s2]
+Ca pasărea cu aripi rupte
+te vei prăbuşi
+Şi-abisu-adanc în val
+de ceaţă te va înveli.
+/: Cum de vrei să mergi pe-acelaşi drum
+Ce ţi-a năruit viaţa-n fum?
+Tu în cer mai ai un Tată bun
+Care te-ar primi şi-acum. :/
+
+[s3]
+Pe drumul care duce-acasă
+vino azi smerit
+Afla-vei pace, mangaiere,
+tot ce ţi-ai dorit.
+/: Cum de vrei să mergi pe-acelaşi drum
+Ce ţi-a năruit viaţa-n fum?
+Tu în cer mai ai un Tată bun
+Care te-ar primi şi-acum. :/
+
+[order]
+s1,s2,s3

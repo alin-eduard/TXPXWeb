@@ -1,0 +1,23 @@
+[s1]
+Adoraţi pe Isus adoraţi pe Isus
+Îngenunchiaţi naintea lui
+Îngenunchiaţi naintea lui
+Sfânt e Dumnezeu
+Sfânt e dumnezeu
+
+[s2]
+Adorãm pe Isus adorãm pe Isus
+Îngenunchem naintea lui
+Îngenunchem naintea lui
+Sfânt e Dumnezeu
+Sfânt e Dumnezeu
+
+[s3]
+Eu te ador Isus eu te ador Isus
+Îngenunchez naintea ta
+Îngenunchez naintea ta
+Sfânt e Dumnezeu
+Sfânt e Dumnezeu
+
+[order]
+s1,s2,s3

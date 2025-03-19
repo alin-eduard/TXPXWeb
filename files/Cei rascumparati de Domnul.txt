@@ -1,0 +1,26 @@
+[s1]
+Cei răscumpăraţi de Domnul
+Laudă Numele Lui sfînt
+Căci în veac ţine îndurarea
+Domnului pe-acest Pămînt.
+
+[r1]
+/: Toţi răscumpăraţii
+cu laudă se-nchin
+Slavă ! Aleluia,
+Aleluia ! Amin ! :/
+
+[s2]
+Sufeream cu toţi de foame
+Setea cum ne-a chinuit !
+Nu aveam loc de odihnă
+Dar Isus ne-a dezrobit.
+
+[s3]
+O, de-ar lăuda pe Domnul
+Oamenii pe-acest Pămînt
+Pentru bunătatea-I mare
+Pentru harul Său cel sfînt !
+
+[order]
+s1,r1,s2,r1,s3,r1

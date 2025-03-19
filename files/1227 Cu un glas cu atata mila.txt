@@ -1,0 +1,75 @@
+[s1]
+Cu un glas cu atâta milă
+Domnul cheamă la odihnă
+Cu un glas cu atâta dor
+Domnul cheamă al Său popor
+Poporaş din văi şi lunci
+Ştii cum mă chema-i atunci
+Poporaş din văi ruine
+Azi Mă doare pentru tine
+1.
+2.
+1227
+
+[s2]
+Ţi-am croit un drum curat
+Dar voi unii L-aţi uitat
+Şi aţi găsit cărări străine
+Şi vă depărtaţi de Mine
+Pe la colţuri v-aţi predat
+Şi prin târguri v-aţi lăsat
+Bogăţia şi-o comoară
+Ce v-am dat odinioară
+3.
+4.
+
+[s3]
+O iubit poporul Meu
+Uită-te-n ogorul tău
+Spinii au crescut îndată
+Pălămida se arată
+Roada firii dă lăstar
+Chiar la cei ce se cred mari
+Şi-au schimbat în formă harul
+Uită c-au trecut hotarul
+5.
+6.
+
+[s4]
+Cântă porumbiţa în zbor
+Şi cheamă al Său popor
+Poporaş din văi ruine
+Domnul e la uşă vine
+Şi ne-a spus atunci la toţi
+Că El vine ca un hoţ
+Nu ştii la ce strajă vine
+Să te strige El pe tine
+7.
+8.
+
+[s5]
+Cu un glas de trâmbiţă
+Va suna El deşteptare
+De-i avea ulei în vas
+Vei zbura spre al Său locaş.
+Azi Domnul îţi spune ţie
+Să fii treaz că-ndată vine
+Îndreaptă-ţi privirea-n sus
+Către Mirele Isus
+9.
+10.
+
+[s6]
+De ţi-e drag de glasul Lui
+Vei avea curaj să spui
+La toţi care vreau să vie
+Să-L întâmpine pe Mire
+Porumbiţă îţi cunosc glasul
+Aşteaptă că-ţi vine ceasul
+Şi te-oi face ca să zbori
+Printre stele printre nori.
+11.
+12.
+
+[order]
+s1,s2,s3,s4,s5,s6

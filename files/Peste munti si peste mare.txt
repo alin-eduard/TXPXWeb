@@ -1,0 +1,26 @@
+[r1]
+Peste munti si peste mare
+Peste tot ce e sub soare
+Tu esti Rege, tu esti Domn,
+Tu esti vesnic Creator.
+
+[s1]
+Orice rau voi infrunta
+Sunt in mana Ta
+Tu ma vei pazi
+Zilnic vad in viata mea
+Indurarea Ta
+Simt cat ma iubesti
+Stiu ca Tu domnesti.
+
+[s2]
+Si oriunde-as alega
+N-am sa pot afla
+Mantuirea mea
+Nu exista pe pamant
+Niciun loc mai sfant
+Ca-n prezenta Ta
+Doar prezenta Ta.
+
+[order]
+r1,s1,r1,s2,r1

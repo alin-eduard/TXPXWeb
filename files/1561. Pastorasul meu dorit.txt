@@ -1,0 +1,58 @@
+[s1]
+1561.
+1. Păstoraşul meu dorit o Isuse
+Ce atât de mult m-ai iubit o Doamne
+/: Ţi-ai dat viaţa pentru mine
+Să mă scapi de sub ruine
+Şi-ai mei paşi i-ai îndreptat spre Tine :/
+
+[s2]
+2. Pentru al meu păcat Doamne
+Nu m-ai mustrat
+Când de la pământ strigam îndurerat
+/: Şi nu se îndurase nimeni
+Câţi treceau pe lângă mine
+Să mă scoale decât Tu Isuse drag :/
+
+[s3]
+3. Rănile cu untdelemn mi le-ai tratat
+Şi cu atâta milă Tu mi le-ai legat
+/: Pe un asin Doamne m-ai pus
+Şi la primul han m-ai dus
+Plătind doi bănuţi
+Când in grijă m-ai dat :/
+
+[s4]
+4. O ce dragoste mai mare ar fi în lume
+Decât asta ce-am văzut-o la Tine
+/: Ca Tu Fiu de Dumnezeu
+Să mori Doamne în locul meu
+Un păgân şi un păcătos
+Din cel mai rău :/
+
+[s5]
+5. Pentru a Ta iubire
+N-am mai scump ce-Ți da
+Dar ce pot să-Ți dau ştiu că şi Tu ai vrea
+/: Am o inimă pribeagă
+Şi Ţi-o dau Isuse întreagă
+Să faci Doamne Tu cu ea ce-i vrea :/
+
+[s6]
+6. Ajută-mă o Isuse să Te slujesc
+Şi a Ta dragoste să pot s-o preţuiesc
+/: Fă-mă lumină şi sare
+Dă-mi credinţă şi răbdare
+Să-Ți pot răspândi
+A Ta mireasmă Doamne :/
+
+[s7]
+7. Iar de vei îngădui să fiu cernut
+După cum ne spune Sfântul Tău cuvânt
+/: Nu mă lăsa spulberat
+Cât aş fi de vînturat
+Căci vreau să rămân
+În ciur un bob curat :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

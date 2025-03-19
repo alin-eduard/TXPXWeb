@@ -1,0 +1,18 @@
+[s1]
+Astăzi vin la Tine, Domnul meu,
+Sufletul mi-e plin de bucurie,
+Fiindcă m-ai făcut copilul Tău,
+Ca să pot trăi o veşnicie.
+Sunt atât de fericit,
+Domnul meu iubit,
+De minunea ce-ai
+făcut-o-n viaţa mea.
+
+[s2]
+Vreau să îţi cânt, vreau să Te laud,
+Să îţi mulţumesc că eşti în viaţa mea.
+Cu putere m-ai luat din întuneric
+Şi mi-ai arătat înţelepciunea Ta.
+
+[order]
+s1,s2

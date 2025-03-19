@@ -1,0 +1,27 @@
+[s1]
+1. Câte doruri îmi frământă viaţa
+Numai unul singur vreau să-l am
+Doamne luminează astăzi viaţa
+Şi pe rane Tu să-mi torni balsam.
+1905.         Mi m
+
+[r1]
+Cor: Vin acum şi-m cer iertare
+Pentru tot ce-am făcut rău
+Doamne-n bunătatea-ţi mare
+Fămă Tu copilul Tău.
+
+[s2]
+2. Te rog să-mi dai astăzi mângâiere
+Şi prin harul Tău să mă-ntăreşti
+Inima mea plină de durere
+Numai Tu poţi să mi-o-nlocueşti.
+
+[s3]
+3. Dă-mi din bucuriea mântuirii
+Cât mai stau aicea pe pământ
+Du-mă Tu pe culmea nemuriri
+În Ierusalimul nou şi sfânt.
+
+[order]
+s1,r1,s2,r1,s3,r1

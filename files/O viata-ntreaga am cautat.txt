@@ -1,0 +1,32 @@
+[s1]
+O viaţă-ntreagă am căutat
+Un prieten bun şi-adevărat
+Să-i spun durerea ce-o aveam
+Şi pacea care o doream.
+
+[r1]
+Isus, al meu prieten bun
+Fii cu mine pe-al vieţii drum !
+Să fiu al Tău şi Tu al meu
+Nedespărţiţi să fim mereu !
+
+[s2]
+Am căutat prin văi adînci
+Prin munţi, pe dealuri şi pe stînci
+Dar n-am găsit ce-am căutat -
+Un prieten bun şi-adevărat.
+
+[s3]
+Dar cineva mi-a spus aşa :
+<Prieten bun e Mesia !
+În toată lumea de-ai căuta
+Aşa prieten nu vei afla.>
+
+[s4]
+Iar cînd pe Tine Te-am aflat
+Eu m-am numit un om bogat !
+Şi sînt atît de fericit
+Căci Tu pe mine m-ai primit !
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,42 @@
+[s1]
+Am bucurie-n Domnul
+Izbăvitorul meu
+El mi-a dat iertarea Sa,
+a şters păcatul meu
+Pace am în inimă
+nădejde-n gândul meu
+Căci în curând îl voi vedea
+pe Dumnezeu.
+
+[r1]
+Curând El vine pe norii cerului
+Va începe o nouă zi
+pentru mireasa Lui,
+Ce bucurie pentru
+cel ce va putea intra,
+În Împărăţia Sa
+
+[s2]
+Domnul e Păstorul,
+n-am lipsă de nimic
+Ce-mi slujeşte la sfinţire,
+tot mi-a dăruit
+Eu nu mă mai tem acum
+de-a umbrei morţii văi
+Căci chiar din moarte-i
+scoate Domnul pe ai Săi
+
+[s3]
+Mă bucur mult în Domnul
+căci El m-a luminat
+Valea morţii-ntr-un izvor
+de viaţă-a preschimbat,
+Când valuri mari m-apasă,
+munţii de-ar cădea,
+Sunt sigur că şi-atunci El
+este-n preajma mea,
+Mângâieri în suferinţă am şi-n încercări,
+Căci în curând răsună trâmbiţa pe nori.
+
+[order]
+s1,r1,s2,r1,s3,r1

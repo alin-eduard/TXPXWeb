@@ -1,0 +1,20 @@
+[s1]
+Viaţa mea cu Tine este pace
+Nimeni nu ne poate despărţi
+Foametea sau lipsa, dacă vor veni
+Nimeni nu ne poate despărţi.
+
+[r1]
+Viaţa mea e-n mâna Ta
+Nimeni n-o va lua
+Orice vremuri vor veni
+Veşnic Te voi iubi.
+
+[s2]
+Viaţa mea cu Tine-i bucurie
+Doamne Tu eşti tot ce mi-a rămas
+Vânturi dacă vor bate, nori de vor veni
+Doamne Tu eşti tot ce mi-a rămas
+
+[order]
+s1,r1,s2,r1

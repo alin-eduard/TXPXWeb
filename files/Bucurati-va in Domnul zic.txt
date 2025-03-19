@@ -1,0 +1,20 @@
+[s1]
+Bucuraţi-vă în Domnul zic
+Iarăşi zic, bucuraţi-vă
+Bucuraţi-vă, bucuraţi-vă
+Iarăşi zic, bucuraţi-vă
+
+[s2]
+Bucuraţi-vă în Isus zic
+Iarăşi zic, bucuraţi-vă
+Bucuraţi-vă, bucuraţi-vă
+Iarăşi zic, bucuraţi-vă
+
+[s3]
+Bucuraţi-vă în Duhul zic
+Iarăşi zic, bucuraţi-vă
+Bucuraţi-vă, bucuraţi-vă
+Iarăşi zic, bucuraţi-vă
+
+[order]
+s1,s2,s3

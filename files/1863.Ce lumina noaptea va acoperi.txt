@@ -1,0 +1,33 @@
+[s1]
+1863
+1.Ce lumină noaptea va acoperi,
+Ce strălucire în Univers se va ivi
+Ce simfonii s-or auzi , Când Mirele va reveni
+Îngeri și sfinți vor însoți pe Salvator
+Arhanghelii și ceata serafimilor
+Vor striga , vor trâmbița , vine Isus , Maranata!
+/:Va fi sărbătoare-atuncea printre zări , aștrii vor    						cânta de bucurie
+Galaxii și îngeri vor cânta în cor: Vine Mirele!:/
+
+[s2]
+2.Și vom zbura printre stele spre-alte zări
+În mii de stoluri , cu Isus spre-alte cărări
+În haine albe vom zbura
+Spre veșnicii ne-om îndrepta.
+Și tot văzduhul de osanale va fi plin
+Întreg pământul se va clătina din temelii
+Trompetele vor anunța
+Pe-aripi de nori , venirea Sa.
+Va-ncepe nunta , nunta din mărire
+Cu Isus al nostru , Mire pe vecie
+Iar Tatăl ceresc , ne va da cununa
+O cunună pentru totdeauna
+
+[s3]
+/:Să ne bucurăm , să ne veselim
+Va începe marea sărbătoare
+Vom fi cu Isus în patria de sus
+/:Va începe nunta:/ x3
+
+[order]
+s1,s2,s3

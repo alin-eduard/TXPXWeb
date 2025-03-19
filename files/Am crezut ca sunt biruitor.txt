@@ -1,0 +1,33 @@
+[s1]
+Am crezut că sunt biruitor
+Că totu-mi vine-n ajutor.
+Aveam mulţi prieteni,
+în ei mă încredeam
+Şi totuşi, ce mult mă înşelam!
+Într-o zi, cand El a vrut să-mi fie
+Prietenul adevărat
+A venit, şi cand El mi-a vorbit
+Ştia cat sunt de disperat.
+
+[r1]
+Am respins adesea
+Un glas ce-l auzeam
+Şi pornit pe vise
+Mereu îl alungam.
+Dar mai am speranţa
+Că nu mă va uita
+Şi-ntr-o zi cu Soare
+Din nou mă va chema.
+
+[s2]
+El s-a dus, prietenul meu, sus
+Şi-n cer loc îmi va pregăti.
+Când prea des ispite-n cale-mi ies
+Biruitor cu El voi fi.
+Isus şi pe tine-acum te vrea
+O, vino azi la crucea Sa!
+Prieten bun şi tată îţi va fi
+Să ştii că într-o zi El va veni.
+
+[order]
+s1,r1,s2,r1

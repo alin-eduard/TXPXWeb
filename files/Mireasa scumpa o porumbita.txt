@@ -1,0 +1,36 @@
+[s1]
+Mireasă scumpă, o, porumbiţă
+O, cât de mult Eu te iubesc !
+Privirea ta Mă copleşeşte
+Eu sunt gata să te iau !
+
+[r1]
+/: Eu sunt gata, tu eşti gata
+Eu sunt gata să te iau ! :/
+
+[s2]
+Tu eşti mai albă ca zăpada
+Căci te-am spălat prin sânge sfânt
+Când sus pe cruce Mi-am dat viaţa.
+Eu sunt gata să te iau !
+
+[s3]
+Cu tine voi lumina lumea
+Când vei apărea la Mine !
+Tot cerul va fi-n sărbătoare
+Când vei fi-atunci lângă Mine !
+
+[s4]
+Deci ai grijă, o, porumbiţă
+Să fii gata-n orice moment !
+Să ne vedem cu toţii-n ceruri
+Eu sunt gata, vin curând !
+
+[s5]
+Vei fi-mbrăcată cu multă slavă
+În cer îngerii-ţi vor cânta
+În ceruri Eu gătit-am locul
+Porumbiţă, eşti a Mea !
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

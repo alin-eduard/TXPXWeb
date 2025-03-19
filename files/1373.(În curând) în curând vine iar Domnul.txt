@@ -1,0 +1,43 @@
+[s1]
+1373.
+1.  /: În curând :/ în curând vine iar Domnul
+/: În curând :/ vine să-şi ia poporul.
+Cor: Vine ziua minunată
+Ziua cea mult aşteptată
+Ziua binecuvântată
+Când Isus al nostru Mire
+Vine iarăşi în mărire
+Să ne ducă-n strălucire.
+
+[s2]
+2.  /: În curând :/ s-a sfârşi cu suferinţa
+/: Pentru acei :/ care şi-au păstrat credinţa.
+Cor: Vine ziua minunată
+Ziua cea mult aşteptată
+Ziua binecuvântată
+Când Isus al nostru Mire
+Vine iarăşi în mărire
+Să ne ducă-n strălucire.
+
+[s3]
+3.  /: În curând :/ va începe sărbătoarea
+/: Pentru acei :/ ce n-au părăsit cărarea.
+Cor: Vine ziua minunată
+Ziua cea mult aşteptată
+Ziua binecuvântată
+Când Isus al nostru Mire
+Vine iarăşi în mărire
+Să ne ducă-n strălucire.
+
+[s4]
+4.  /: În curând :/ mireasa îşi va lua zborul
+/: Când pe nori :/ va veni Mântuitorul.
+Cor: Vine ziua minunată
+Ziua cea mult aşteptată
+Ziua binecuvântată
+Când Isus al nostru Mire
+Vine iarăşi în mărire
+Să ne ducă-n strălucire.
+
+[order]
+s1,s2,s3,s4

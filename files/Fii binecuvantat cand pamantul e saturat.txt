@@ -1,0 +1,38 @@
+[s1]
+Fii binecuvântat,
+Când pământul e săturat,
+Când ploaia dă peste el
+Fii binecuvântat.
+Fii binecuvântat
+Când mă aflu pe pământ uscat,
+Şi păşesc singur prin pustiu
+Fii binecuvântat.
+
+[s2]
+Fiecare laudă Ţie Ţi-o dau
+Când noaptea se apropie,
+Te voi lăuda.
+/: Binecuvântat fie El, binecuvântat
+Binecuvântat fie El,
+Binecuvântăm Numele Său. :/
+
+[s3]
+Fii binecuvântat,
+Când soarele-i din nou pe cer,
+Când toate sunt cum le-ai creat
+Fii binecuvântat.
+Fii binecuvântat,
+În drumul plin de suferinţi,
+Iar dacă plâng şi-mi este greu
+Fii binecuvântat.
+
+[s4]
+Fiecare laudă Ţie Ţi-o dau
+Când noaptea se apropie,
+Te voi lăuda.
+/: Binecuvântat fie El, binecuvântat
+Binecuvântat fie El,
+Binecuvântăm Numele Său, :/
+
+[order]
+s1,s2,s3,s4

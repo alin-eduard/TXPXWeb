@@ -1,0 +1,35 @@
+[s1]
+Sfânt eşti, sfânt eşti, sfânt eşti, Dumnezeu puternic,
+Chiar din zorii dimineţii
+Te slăvesc şi-Ţi cânt;
+Sfânt eşti, sfânt eşti, sfânt eşti, Bun, milos şi darnic,
+Doamne, eşti veşnic:
+Tată, Fiu, Duh Sfânt.
+
+[s2]
+Sfânt eşti, sfânt eşti, sfânt eşti, Sfinţii toţi Îţi cântă
+Şi-nainte-Ţi pun
+Coroana de învingător;
+Heruvimi şi îngeri
+Ţie Ţi se-nchină:
+Ieri, azi şi veşnic eşti biruitor.
+
+[s3]
+Sfânt eşti, sfânt eşti, sfânt eşti, Norul Te ascunde;
+Ochiul păcătosului
+Nu poate-a Te vedea;
+Sfânt, Atotputernic,
+Eşti din veşnicie,
+Doamne, Iehova,
+Tu eşti dragostea.
+
+[s4]
+Sfânt eşti, sfânt eşti, sfânt eşti, Domn Atotputernic,
+Tot ce ai creat
+Te laudă-n cer şi pe pământ;
+Sfânt eşti, sfânt eşti, sfânt eşti, Bun, milos şi darnic,
+Doamne, eşti veşnic:
+Tată, Fiu, Duh Sfânt.
+
+[order]
+s1,s2,s3,s4

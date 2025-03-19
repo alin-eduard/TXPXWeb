@@ -1,0 +1,26 @@
+[s1]
+Chiar în ora dimineţii
+Sufletu-mi se-nalţă sus
+Ca pe marea vieţii
+Să plutească cu Isus.
+
+[r1]
+/: Ce fericit mă simtesc eu
+Când îi dau viaţa mea
+Bunului meu Dumnezeu
+Chiar acum dimineaţa. :/
+
+[s2]
+Dacă valuri şi ispite
+M-ar înconjura nespus
+Inima e liniştită
+Căci am dat-o lui Isus.
+
+[s3]
+Doamne, mâna Ta cea tare
+Mă conduce pe pământ
+Mă susţine pe-a Ta cale
+Ca să nu m-abat nicicând.
+
+[order]
+s1,r1,s2,r1,s3,r1

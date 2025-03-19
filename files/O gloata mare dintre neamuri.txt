@@ -1,0 +1,38 @@
+[s1]
+O gloată mare dintre neamuri,
+Cânta asa de glorios
+Că-n fruntea lor, e-apostol Pavel
+Călcând pe urma lui Hristos.
+
+[r1]
+Martirii, martirii
+Un imn de glorie cântau
+Martirii, martirii
+Pe Dumnezeu Îl proslăveau.
+
+[s2]
+Ei sunt încinsi cu adevărul
+În alb sunt toti desăvârsiti
+În mâini le fâlfâie drapelul
+Căci prin Hristos sunt mântuiti.
+
+[s3]
+Ei vin din Efes si din Smirna
+Din Tiatira si Pergam
+Din Roma vin în cete, cete
+Si toti sunt fii de-ai lui Avraam.
+
+[s4]
+Ei s-au luptat cu lei si fiare
+Chiar sângele si l-au vărsat
+În amfiteatre si arene
+Si de Isus nu s-au lăsat
+
+[s5]
+Ei cântau chiar în fata mortii,
+Căci în Hristos sunt îmbrăcati.
+Eroi din diferite neamuri,
+Dar în Isus cu toti sunt frati.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

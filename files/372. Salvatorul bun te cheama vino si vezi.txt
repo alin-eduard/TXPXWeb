@@ -1,0 +1,33 @@
+[s1]
+1. Salvatorul bun te cheamă
+Vino şi vezi
+La ospăţ cu drag
+Te-ndeamnă vino şi vezi
+372.
+
+[r1]
+Cor: Vestea peste tot să sune
+Deal şi vale să răsune
+Isus iartă pe oricine
+Vino şi vezi.
+
+[s2]
+2. Spune la mic şi la mare
+Vino şi vezi
+Că primesc pace iertare
+Vino şi vezi.
+
+[s3]
+3. Vino înaintea nopţii
+Vino şi vezi
+N-amâna în clipa morţii
+Vino şi vezi.
+
+[s4]
+4. Vino la ospăţul nunţii
+Vino şi vezi
+La un loc să cânţi
+Cu sfinţii vino şi vezi
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,26 @@
+[s1]
+De ce mergi tu pe calea larga?
+Si de ce traiesti in pacate?
+O, vino si primeste acum
+Darul Sfant pe Hristos cel Divin!
+
+[r1]
+/:Vin’ dar acum!:/
+La Hristos Isus, dar acum!
+Vin’ dar acum! Nu zabovi!
+Sa fi salvat tu de Isus!
+
+[s2]
+Tu priveste acum la Hristos
+Ce pentru tine-a dat sangele!
+Si a baut El paharul amar,
+Ca sa te scape de pierzare!
+
+[s3]
+Pentru Hristos viata sa-ti dai
+Ca sa fii fericit tu cu El!
+Sangele Lui Sfant te va spala,
+Si vei alb ca si zapada!
+
+[order]
+s1,r1,s2,r1,s3,r1

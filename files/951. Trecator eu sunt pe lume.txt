@@ -1,0 +1,43 @@
+[s1]
+951.
+1.	Trecător eu sunt pe lume
+Ca şi iarba de pe câmp
+Şi nu aflu bucurie
+În lume frate nicicând.
+/: Mult n-o fi, mult n-o fi
+Pământul l-oi părăsi :/.
+
+[s2]
+2. 	Căci viaţa-i trecătoare
+La tot omul ca un vis
+De nu te-ai pregătit frate
+Vei fi pe veci osândit.
+/: Să grăbeşti, să grăbeşti
+Pentru Domnul să trăieşti :/.
+
+[s3]
+3. 	Căci viaţa e urzită
+Pe mâna lui Dumnezeu
+Când firul vieţii se rupe
+Ai să pleci, o, scumpul meu
+/: Eşti gata, eşti gata
+Să primeşti în cer plata :/.
+
+[s4]
+4. 	Iar când ora morţii vine
+Şi pe pat vei sta-n dureri
+Şi moartea-ţi va grăi frate
+Ai să pleci dintre plăceri
+/: Te-ai gătit, te-ai gătit
+Pentru locul fericit :/.
+
+[s5]
+5. 	Eu te rog suflete dragă
+Te-ngrijeşte tot mereu
+Nu căuta lumea deşartă
+Căci vine sfârşitul tău
+/: Fii convins, fii convins
+Căci Raiul este deschis :/.
+
+[order]
+s1,s2,s3,s4,s5

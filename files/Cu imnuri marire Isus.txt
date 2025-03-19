@@ -1,0 +1,32 @@
+[s1]
+Cu imnuri mărire, Isus,
+Te aşteptăm
+Si inimile noastre acum
+Ti le predăm.
+Pe fân, în grajdul rece,
+La noi Tu ai venit.
+Să ne înveţi iubirea,
+Ce mult Te-ai umilit.
+
+[s2]
+Mântuitor şi Rege,
+Tu eşti al păcii prinţ.
+În dragostea Ta mare
+pe toţi Tu ne-ai cuprins;
+De-aceea ne-nchinăm
+Azi cu inimi de copii,
+Si-a noastră bucurie
+vrem numai Tu să fii.
+
+[s3]
+Din ceruri, o, Isuse,
+Eşti darul minunat,
+Eşti cel mai scump tezaur,
+în paie aşezat.
+Dă pacea Ta divină
+pământului robit,
+Si toţi să Te cunoscă,
+Mântuitor iubit!
+
+[order]
+s1,s2,s3

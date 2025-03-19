@@ -1,0 +1,38 @@
+[s1]
+In fiecare zi deschidem
+A-ludelor porti de cant,
+Din templele sfinte noi Ti-aducem
+A-noastre daruri, Doamne Sfant
+
+[s2]
+Esti vrednic, Doamne, de marire!
+Cat vom trai Iti vom canta…
+Si chiar in cer, in stralucire,
+Cantarea-n veci va triumfa!
+
+[s3]
+‘Nainte de orice, Isuse,
+Noi cantam in cinstea Ta
+In Tine-avem comori nespuse;
+Prin Tine cerul vom avea.
+
+[s4]
+In Tine-I Adevarul vesni;
+A-noastre temple il slavesc
+Avem cinstirea Ta ca sfesnic;
+Recunostinta-dar ceresc
+
+[s5]
+Intrand pe portile slavite,
+Gasim refugiu si alin;
+Momente sfinte, fericite
+Traim, Mantuitor divin.
+
+[s6]
+Tu, esti eterna bunatate,
+Izvor sublim de cant si har;
+Din cate noua ne-au fost date,
+Tu esti, o, Cel mai mare dar!
+
+[order]
+s1,s2,s3,s4,s5,s6

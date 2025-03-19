@@ -1,0 +1,26 @@
+[s1]
+Mi-a arătat râul vieţii cel lin
+Ca un cristal, limpede şi curat.
+El izvora chiar din tronul divin
+Pe care Mielul era întronat.
+
+[r1]
+Blesteme nu vor mai fi acolo
+Căci faţa-I sfântă va lumina.
+De pace fi-va împărăţită
+Şi dragostea Sa ne va lega.
+
+[s2]
+Noapte n-a fi, nici lumina de-aici
+Nici Soarele nu va mai lumina
+Căci Dumnezeu Însuşi va-mpărăţi
+Şi-n strălucirea cea sfântă vom sta.
+
+[s3]
+Iată-n curând pe Pământ va veni
+Isus Hristos pentru a ne lua !
+Ferice fi-va de cel ce-a citit
+Cuvântul Sfânt şi-apoi l-a împlinit.
+
+[order]
+s1,r1,s2,r1,s3,r1

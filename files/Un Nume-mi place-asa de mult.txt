@@ -1,0 +1,26 @@
+[s1]
+Un Nume-mi place-aşa de mult -
+Îl pomenesc mereu !
+Aş vrea întruna să-L ascult
+Chiar cînd drumul e greu !
+
+[r1]
+El e Isus Hristos
+Pe El eu Îl iubesc !
+El e cel mai frumos -
+E Mirele ceresc !
+
+[s2]
+Cuvîntul Lui spune aşa
+Către cel osîndit :
+Că Isus sus pe Golgota
+Pentru el S-a jertfit.
+
+[s3]
+În Numele Lui azi mă-nchin
+Şi-L rog pe Tatăl sfînt
+Să-mi dăruiască har din plin
+Aici pe-acest Pămînt !
+
+[order]
+s1,r1,s2,r1,s3,r1

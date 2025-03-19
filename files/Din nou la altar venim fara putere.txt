@@ -1,0 +1,22 @@
+[s1]
+Din nou la altar venim fără putere
+În suflete săraci să-ti cerem iertare.
+De-atâtea ori ti-am spus
+Că vom umbla-n lumină
+Dar azi din nou venim
+să-ti cerem milă.
+
+[r1]
+/: Iartă-ne, iartă-ne,
+Iartă-ne, Dumnezeule!
+Iartă-ne, iartă-ne,
+Iartă-ne, Dumnezeule! :/
+
+[s2]
+Din nou la altar te cheamă poporul
+Trimite-ne din nou pe Mângâietorul.
+Recunoastem azi că fără de Tine
+Suntem săraci si reci, ai milă Stăpâne
+
+[order]
+s1,r1,s2,r1

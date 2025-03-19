@@ -1,0 +1,16 @@
+[s1]
+Vino Duhule Sfânt
+Noi Te-aşteptăm
+Să vii să ne vorbeşti!
+Vino Duhule Sfânt
+Noi Te chemăm, să vii la noi!
+
+[s2]
+Căci Tu eşti speranţă
+Eşti izvor de viaţă,
+Duhule Sfânt, Duhule Sfânt!
+Tu eşti putere, eşti pace, mângăiere
+Duhule Sfânt, Duhule Sfânt!
+
+[order]
+s1,s2

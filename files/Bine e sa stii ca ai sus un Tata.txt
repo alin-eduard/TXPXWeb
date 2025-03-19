@@ -1,0 +1,26 @@
+[s1]
+Bine e să ştii că ai
+Sus în cer un tată!
+Ce în fiecare zi
+Grija ta o poartă.
+
+[r1]
+Eu astăzi cânt şi sunt voios
+Că Dumnezeu e Tatăl meu.
+Eu astăzi cânt şi sunt voios,
+Cu mine e mereu Hristos.
+
+[s2]
+Iar când mama, tatăl tău
+Pleacă-n veşnicie,
+Te încrede-n Dumnezeu:
+Toate El le ştie!
+
+[s3]
+Lângă Dumnezeul tău
+Sufletul să-ţi fie.
+Să-l iubeşti pe El
+Mereu cu credincioşie.
+
+[order]
+s1,r1,s2,r1,s3,r1

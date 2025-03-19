@@ -1,0 +1,26 @@
+[s1]
+Nu ţin s-ajung un Soare, Doamne
+Dar tot mai mult mă străduiesc
+/: Să fiu măcar o lumînare
+Şi luminînd să mă topesc. :/
+
+[s2]
+Nici fluviu cu bogate ape
+Pe lume nu vreau să mă ştiu
+/: Ci un izvor s-astîmpăr setea
+Drumeţului aş vrea să fiu. :/
+
+[s3]
+Stejar înalt cu umbră deasă
+Eu nu aş vrea să fiu văzut
+/: Prefer să fiu cireş cu roadă
+Trăind smerit doar cu Isus. :/
+
+[s4]
+M-aş mulţumi să fiu chiar numai
+Atom în Cosmosul imens
+/: Şi să trăiesc eu pentru alţii
+În orice zi tot mai intens. :/
+
+[order]
+s1,s2,s3,s4

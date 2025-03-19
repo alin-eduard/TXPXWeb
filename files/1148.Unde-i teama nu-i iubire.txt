@@ -1,0 +1,33 @@
+[s1]
+1148.
+1.        Unde-i teamă nu-i iubire
+Unde-i lege nu-i sfinţire
+Legea dă ce se cuvine
+/: Dragostea se dă pe sine
+Legea dă o zi din şapte
+Dragostea le dă pe toate : / Aleluia
+
+[s2]
+2.         Unde-i lege nu-i cunună
+Unde-s robi nu-i voie bună
+Legea dă viţei pe-altare
+/: Dragostea dă tot ce are
+Legea dă a zecea parte
+Dragostea le dă pe toate :/ Aleluia
+3.          Unde-i lege nu-i iertare
+Unde-i rug nu-i îndurare
+Legea iartă dar vrea sânge
+/: Dragostea nimic nu frânge
+Legea iartă prin dreptate
+Dragostea le iartă toate :/ Aleluia
+
+[s3]
+4.       Legea are zile sfinte
+Dragoste-ai mereu fierbinte
+Legea ţine slujbi divine
+/: Dragostea tot timpul ţine
+Legea-i slujbă de simbrie
+Dragostea-i împărăţie :/ Aleluia
+
+[order]
+s1,s2,s3

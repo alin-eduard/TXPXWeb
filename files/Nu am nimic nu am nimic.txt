@@ -1,0 +1,44 @@
+[s1]
+Nu am nimic, nu am nimic.
+Din tot ce este nimic,
+nimic nu pot lua
+Cînd voi pleca,
+că totul este trecător
+Dar fără moarte este Domnul, stînca mea!
+
+[s2]
+Şi-atuncea cum să nu urmez
+a Sa cărare
+Cînd să trăiesc în veci
+cu El mă va lăsa?
+Că toate azi sînt doar
+lucruri trecătoare
+Dar fără moarte este Domnul, stînca mea!
+
+[s3]
+Nici florile din poieniţe şi pădure
+Nu le pot rupe,
+căci îndată s-or usca.
+Că toate mor tăiate ca de o secure
+Dar fără moarte este Domnul, stînca mea!
+
+[s4]
+Să-l iau pe cel ce-mi este drag
+nu am putere
+Nu am răspuns,
+să mă gîndesc oricît aş sta
+Că mort e cel ce-aleargă azi
+după avere
+Dar fără moarte este Domnul, stînca mea!
+
+[s5]
+Şi-atuncea cum să nu iubesc
+pe Cel Ceresc
+Cînd mă va duce sus la El
+fără nimic?
+Iar El mă va primi cu drag, împărăteşte
+O, Doamne mare,
+fă-mă astăzi cît mai mic !
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,39 @@
+[s1]
+2157
+1. Aleargă omul, după fericire
+Dar n-o găsește în aur
+și argint
+De are bani, El
+tot se-ngrijorează
+Că bogăția, nu l-a împlinit.
+
+[r1]
+Cor: /: Adevărata fericire
+O afli doar la Dumnezeu
+Ea se numește mântuire
+Să fii în rai copilul Său :/.
+
+[s2]
+2. Aleargă lumea toată,
+se frământă
+Cum să trăiască pentru încă-o zi
+Orbită-n patimi, merge
+la pierzare
+Spre judecata care va veni.
+
+[s3]
+3. Mulțimi de oameni
+Aleargă spre osândă
+La judecată se vor duce goi
+Și vor vedea că tot ce-au strâns în viață
+A fost doar goană după
+vânt, gunoi.
+
+[s4]
+4. Aleargă omul, și nu
+vrea s-asculte
+Cuvântul vieții, care e vestit
+Mai mult dorește, farmecul plăcerii Vrășmașul vieții, care l-a orbit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

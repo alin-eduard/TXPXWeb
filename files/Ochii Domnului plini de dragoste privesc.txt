@@ -1,0 +1,18 @@
+[r1]
+Ochii Domnului plini de dragoste privesc
+Inimile tuturor care nu-L cunosc.
+Mâna Domnului întinsă e şi azi spre noi.
+Întinde mâna ta şi tu!
+Nu mai privi ‘napoi!
+Înapoi de mergi, nu mai ai ce întâlni,
+Doar viaţa plină de necaz.
+Întoarce-te la Domnul azi!
+
+[r2]
+Şopteşte-I:“Iartă-mă!
+Ia vina mea!”
+Isus e lângă tine!
+Vrea să intre-n viaţa ta!
+
+[order]
+r1,r2,r1,r2

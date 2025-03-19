@@ -1,0 +1,32 @@
+[s1]
+Slăvit să fie Dumnezeu,
+al lumii Împărat,
+El ne-a dat prin Fiul Său
+scăpare de păcat.
+
+[r1]
+Slavă să-I cântaţi, voi, copiii Lui,
+Lăudaţi-I numele sfânt!
+Slavă să-I cântaţi, voi, copiii Lui,
+Lăudaţi-I numele sfânt!
+
+[s2]
+Isus e veşnic preamărit
+de îngeri sus în ceruri,
+Glorios va locui
+la dreapta Tatălui.
+
+[s3]
+Mântuitor şi prieten bun,
+El ne-a adus iertarea,
+Jertfa Sa ne-a ridicat
+din starea de păcat.
+
+[s4]
+Isus e Sfetnic, Minunat,
+Părinte-al veşniciei,
+Domn al păcii, Salvator
+ce va domni în veci.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

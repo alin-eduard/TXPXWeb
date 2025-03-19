@@ -1,0 +1,32 @@
+[s1]
+Dacă ceas cu ceas, răul îl învingi
+Urci mereu spre cer
+nu rămâi pe loc
+Sfeşnicul de rugi,
+nicicând să nu-l stingi
+Ţine viu divinul foc.
+
+[r1]
+Biruinţa stă în rugăciune,
+Ai credinţă, săvârşeşti minuni,
+Al tău sfeşnic sfânt cu lumini cereşti
+Cu ardoare să-l păzeşti.
+
+[s2]
+Când ţi-e trupul frânt,
+sufletul zdrobit
+Şi în drum spre cerai slăbit şi cazi,
+Te mai roagă-un ceas,
+răsplătirea ta
+Prea aproape este azi.
+
+[s3]
+Când ţi-e dor de Hristos,
+de venirea Lui
+Şi în drum spre cer,
+mai aştepţi un semn
+Vezi însângerat cum se roagă El,
+Sus pe crucea cea de lemn.
+
+[order]
+s1,r1,s2,r1,s3,r1

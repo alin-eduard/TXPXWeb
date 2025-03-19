@@ -1,0 +1,21 @@
+[s1]
+2072
+1. Doar Isus te poate vindeca
+Doar Isus te poate mângâia
+Doar Isus îți șterge lacrima
+Vino și te va ierta.
+
+[s2]
+2. Doar Isus te poate asculta
+Doar Isus El poate a ierta
+Doar Isus povara-ți va lua
+Vino și te va ierta.
+
+[s3]
+3. Doar Isus a luat al Tău păcat
+Sus pe Calvar El crucea a răbdat
+Doar Isus te poate mântui
+Nu amâna, te rog să vii.
+
+[order]
+s1,s2,s3

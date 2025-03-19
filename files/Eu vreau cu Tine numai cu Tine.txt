@@ -1,0 +1,38 @@
+[s1]
+Eu vreau cu Tine, numai cu Tine,
+Numai pe Tine sa Te iubesc!
+
+[r1]
+Inima-mi bate, sufletu-mi canta,
+De bucurii sunt plin cand sunt cu Tine!
+
+[s2]
+In intristare, cant o cantare
+Ca sa-L preamaresc pe Domnul meu.
+
+[s3]
+Cand sunt cu Tine, lacrimi suspine
+Nici grija n-am, ci toate le uit.
+
+[s4]
+A Ta blandete si frumusete,
+A Ta iubire - scuturi imi sunt
+
+[s5]
+Cand sunt cu Tine, in rugaciune,
+Uit ca traiesc pe acest pamant.
+
+[s6]
+De-i ziua sau seara, imi inalt cantarea
+De-i intuneric sau noapte grea.
+
+[s7]
+De-i vant, furtuna sau vreme buna,
+De sunt dureri sau sunt apasari.
+
+[s8]
+Ah, nu ma satur de-a-Tale sfaturi!
+Isuse-al meu, cat Te iubesc!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1,s8,r1

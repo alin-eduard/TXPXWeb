@@ -1,0 +1,55 @@
+[s1]
+1. Dac-aş fi stăpân pe lumea-ntreagă
+Şi pe Domnul dacă n-aş avea
+Toate lucrurile trecătoare
+Fericire-n viaţă nu mi-ar da!
+294.
+Mi b
+
+[s2]
+/:Pot avea orice, dar fără Domnul
+Pagubă e tot câştigul meu
+Nu-s aici plăceri să poată-ntrece
+Fericirea lângă Dumnezeu:/.
+
+[s3]
+2. Pot avea un nume plin de faimă
+Bogăţii ca nimeni pe pământ
+Dacă n-am nădejdea altor ţărmuri
+Toate sunt atunci ca pleava-n vânt
+
+[s4]
+/:Ce câştig ar fi
+Să-L pierd pe Domnul
+Ce-a dus crucea grea,
+În locul meu?
+Poate oare da pământul pacea
+Ce-o găsesc
+Doar lângă Dumnezeu? :/
+
+[s5]
+3. Ce tristeţe fără Salvatorul
+Prin atâtea grele încercări!
+Şi ce-ntunecime-n veşnicie
+Plânsete şi-amare remuşcări
+
+[s6]
+/:Şi de ce să stau, fără salvare
+Când salvarea El mi-o dă în dar?
+Fără El, e-atâta întuneric
+Veşnicia-ntreagă e-un coşmar:/.
+
+[s7]
+4. Câtă fericire-i lângă Domnul!
+Ce duios balsam vindecător
+El păcatul şterge fără urmă
+Şi durere-alină răbdător
+
+[s8]
+/: Dacă-l am pe Isus, doar pe Isus
+Pot să rabd, să fiu dispreţuit
+El e slava mea, Mântuitorul
+Sunt cu El bogat şi fericit :/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

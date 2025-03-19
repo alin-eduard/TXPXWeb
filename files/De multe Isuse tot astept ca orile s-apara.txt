@@ -1,0 +1,62 @@
+[s1]
+De mult Isuse tot astept
+ca zorile s-apara
+Si-mi arde inima în piept
+dup-a Ta dulce tară.
+
+[s2]
+/: O, vino Tu Isuse
+suspinul meu Te cheamă.
+Copii Tăi azi te doresc
+mai mult ca si pe-o mamă. :/
+
+[s3]
+Când oare, când se va sfârsi
+prea lunga asteptare
+Ca să zburăm spre vesnicii
+departe sus în zare.
+
+[s4]
+/: O, vino Tu Isuse
+la cei ce în suspine
+Le arde inima de dor
+Isuse după Tine :/
+
+[s5]
+Cobori si azi Isus iubit
+la noi în adunare
+Ca să-Ti simtim fiorul sfânt
+din ziua de Rusalii.
+
+[s6]
+/: O, vino Tu Isuse
+la noi în adunare
+Trezeste-ne prin Duhul Sfânt
+să stăm în asteptare :/
+
+[s7]
+Căci bezna nopti-i tot mai grea
+candela aproape-i stinsă
+Fecioarele ce-au adormit
+vor rămânea învinse.
+
+[s8]
+/: O, vino Tu Isuse
+pe a iubirii treaptă
+Mai dă-le iarăsi untdelemn
+la cei ce Te asteaptă :/
+
+[s9]
+C-atuncea când veni-vei
+iar să dai la toti răsplata
+În haine albe îmbrăcati
+cu toti să fim gata.
+
+[s10]
+/: O, vino Tu Isuse
+la cei ce în suspine
+Le arde inima de dor
+ca să-i răpesti la Tine :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

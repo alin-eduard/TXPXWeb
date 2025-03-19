@@ -1,0 +1,43 @@
+[s1]
+1129.
+Vezi cum păsărelele spre toamnă
+Se adună şi se pregătesc
+Numai pentru zbor cu zori se-ndeamnă
+Doar un singur ţel împărtăşesc
+Cor:Să ne-nvăţăm să ne adunăm
+Vom zbura ca nişte păsărele
+Vom zbura în stol prin văzduh spre nor
+Cu Isus apoi mai sus, mai sus de stele
+
+[s2]
+2.    Vezi la noi credinţa-n zbor e vie
+Şi deşi noi suntem doar străini
+Prea puţini azi se desprind de glie
+Cei mai mulţi adânc prind rădăcini.
+Cor:  Să ne-nvăţăm să ne adunăm
+Vom zbura ca nişte păsărele
+Vom zbura în stol prin văzduh spre nor
+Cu Isus apoi mai sus, mai sus de stele.
+
+[s3]
+3.     N-auzi ? se aud mereu semnale
+Şi-n poarta vremii încă bat
+Ieşi şi strigă altora pe cale
+Că e clipa sfântă de plecat.
+Cor:  Să ne-nvăţăm să ne adunăm
+Vom zbura ca nişte păsărele
+Vom zbura în stol prin văzduh spre nor
+Cu Isus apoi mai sus, mai sus de stele.
+
+[s4]
+4.      Vom lăsa pământu-n jos şi nori
+Vom lăsa amarul în trecut
+Vom intra prin cânturi dulci de glorii
+Iar în Paradisul cel pierdut.
+Cor:  Să ne-nvăţăm să ne adunăm
+Vom zbura ca nişte păsărele
+Vom zbura în stol prin văzduh spre nor
+Cu Isus apoi mai sus, mai sus de stele.
+
+[order]
+s1,s2,s3,s4

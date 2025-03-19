@@ -1,0 +1,32 @@
+[s1]
+Fii tare ca să rabzi încercarea
+Căci răbdând vei luci ca o stea
+Fii înţelept nu lăsa întristarea
+Să pătrundă în inima ta.
+
+[r1]
+/: Cu barca vei pluti în zări
+Pe-oceanul liniştit
+Căci vei scăpa de încercări
+Când lupta s-a sfârşi. :/
+
+[s2]
+A răbda este-un dar foarte mare
+Făr` de care nu poţi fi salvat
+Mântuirea-i ascunsă-n răbdare
+Prin răbdare vei fi încercat.
+
+[s3]
+Să primeşti fericit suferinţa
+Căci prin ea eşti ales dragul meu
+Prin răbdare-ncercată-i credinţa
+Şi iubirea din sufletul tău.
+
+[s4]
+Dumnezeu te iubeşte fierbinte
+Şi te-ncearcă să fii lămurit
+De aceea tu mergi înainte
+Prin răbdare vei fi mântuit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

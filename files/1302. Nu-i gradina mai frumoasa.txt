@@ -1,0 +1,62 @@
+[s1]
+1302.
+1.  Nu-i grădină mai frumoasă
+Pe acest pământ
+Unde flori mai scumpe-n lume
+Nici nu sunt
+/: De la răsărit la apus
+Cred că în lume nici nu sunt
+Ca în locul unde
+Domnul meu a plâns :/
+
+[s2]
+Ghetismani tu ştii
+Durerea Lui Isus
+Tu cunoşti şi drumul
+Greu care l-ai dus
+/: Tu ai văzut şi chinul greu
+Ce la dus în locul meu
+Prin grelele dureri
+Până la Golgota sus :/
+
+[s3]
+3.  Şi prin ce sudori
+Şi lacrime de sus
+Până în deal la Golgota
+Pe munte sus
+/: Şi capul Ţi-ai aplecat
+Sub coroană de-mpărat
+Şi cu spinii cei mai răi
+Te-au înţepat :/
+
+[s4]
+4.  Şi eu Doamne te-am hulit
+Şi te-am scuipat
+Când în Ghetsimani ai plâns
+Pentru al meu păcat
+/: Şi eu te-am dispreţuit
+Pe cruce te-am pironit
+Nu ştiam Isuse
+Ce mult m-ai iubit :/
+
+[s5]
+5.  Şi când te-am privit Isuse
+Pe cruce încununat
+Am văzut pe a Ta faţă
+Al meu păcat
+/: Şi am strigat Doamne plângând
+Oare când pe-acest pământ
+Voi putea să-Ţi răsplătesc
+Sângele Sfânt :/
+
+[s6]
+6.  Doamne n-am în lumea asta
+Eu ce-ţi da
+Decât inima să locuieşti în ea
+/: Te rog spală al meu păcat
+Cu sângele Tău curat
+Că şi eu am fost
+Un cui  în palma Ta :/
+
+[order]
+s1,s2,s3,s4,s5,s6

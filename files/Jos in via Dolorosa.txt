@@ -1,0 +1,31 @@
+[s1]
+Jos în Via Dolorosa, Ierusalime uitat
+Pe străduţele înguste trec soldaţii
+Iar mulţimea îi urma
+Ca să-L vadă pe Isus
+cel condamnat.
+
+[s2]
+Jos în Via Dolorosa,
+drumul greu de suferinţi
+Ca un miel dus la junghiere pătimind
+A ales acest destin din dragoste
+pentru min’ şi tin’
+2
+
+[s3]
+Jos în Via Dolorosa,
+drumul greu de suferinţi.
+Şi sângele a curs, spălând păcatul meu
+Făurindu-mi un locaş în Noul Ierusalim.
+
+[s4]
+Jos în Via Dolorosa,
+drumul greu de suferinţi
+Ca un miel dus la junghiere pătimind
+A ales acest destin din dragoste
+pentru min’ şi tin’
+4
+
+[order]
+s1,s2,s3,s4

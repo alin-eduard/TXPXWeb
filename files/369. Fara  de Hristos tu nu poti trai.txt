@@ -1,0 +1,41 @@
+[s1]
+1. Fără de Hristos tu nu poţi trăi
+Fără Domnul meu tu nu poţi vieţui!
+Vei avea în lume-un chin obositor,
+Fără de Hristos în lume ai să mori.
+369. 								Do
+
+[r1]
+Cor: /:Nu poţi fi în lume fericit
+Dacă de El nu eşti mântuit!
+Viaţa ta e-un chin obositor
+Fără de Hristos
+În lume ai să mori!:/
+
+[s2]
+2. Poţi umbla cât vrei
+În lumea de păcat
+Dar să ştii: odată vei fi judecat!
+Plata-ţi vei primi
+Şi vei fi condamnat,
+Fără de Hristos
+În lume ai să mori!
+
+[s3]
+3. Poţi să spui ce vrei,
+Tu nu eşti mântuit
+Dacă nu-L urmezi,
+Pe veci tu eşti pierdut!
+Iadul e al tău, în chin obositor,
+Fără de Hristos
+În lume ai să mori!
+
+[s4]
+4. Dar dacă ascultaţi
+De Domnul meu Isus
+Viaţa ta va fi cu El în ceruri sus
+Bucurii nespuse acolo vei afla
+Glorie, mărire-n veci, aleluia.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

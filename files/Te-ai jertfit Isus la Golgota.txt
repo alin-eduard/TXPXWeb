@@ -1,0 +1,26 @@
+[s1]
+Te-ai jertfit Isus la Golgota,
+Mi-ai adus în dar mântuirea;
+/: Sângele Sfânt m-a spălat
+De păcate m-a iertat. :/
+
+[r1]
+/: Mulţumesc pentru iertarea Ta
+Mulţumesc că-n dealul Golgota
+Ai murit şi-ai îndurat
+Al lumii şi-al meu păcat. :/
+
+[s2]
+Trupul Tău a suferit cumplit,
+Ca eu astăzi să fiu mântuit;
+/: Deşi nu am meritat
+Dragostea Ţi-ai arătat. :/
+
+[s3]
+Niciodată nu v-a fi de-ajuns,
+Mulţumirea ce eu ţi-am adus;
+/: Toată viaţa vreau a-Ţi mulţumi
+Şi aceasta prea puţin va fi. :/
+
+[order]
+s1,r1,s2,r1,s3,r1

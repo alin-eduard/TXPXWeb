@@ -1,0 +1,55 @@
+[s1]
+Eram copil, şi-atâta bucurie
+Mă însoţea pe calea spre Hristos!
+Aveam fiorul sfânt de nostalgie,
+Când mici poveri mă apăsau în jos.
+
+[s2]
+/:În primăveri,
+treceam prin lungi zăvoaie
+Şi cânturi ascultam de ciocârlii;
+Vedeam seninul cald,
+chiar şi pe ploaie;
+Cântam pătruns de sfinte melodii. :/
+
+[s3]
+Dar mai apoi, fiind
+pribeag prin lume,
+Am fost atras de
+amăgiri mereu;
+Crezând că au şi slavă
+şi renume,
+Mi-au stins căutarea
+după Dumnezeu.
+
+[s4]
+/:Căutam mâhnit adesea fericirea
+Şi, când mi se părea că o găseam,
+Eram mai trist, era nefericirea
+Dezamăgit şi frânt iar rămâneam. :/
+
+[s5]
+Târziu am întâlnit
+un sfânt pe cale
+Şi eu i-am spus ce-n
+suflet am avut;
+M-a ascultat, apoi mi-a
+zis cu jale:
+„Întoarce-te de unde
+ai căzut!"
+
+[s6]
+/:Azi m-am întors,
+Imi pare rău de anii
+Ce i-am pierdut şi nu i-am folosit;
+Îmi plâng trecutul:
+„Doamne-Ţi cer iertare...
+Primeşte-mă din drumul rătăcit!
+Mai dă-mi, o, Doamne,
+Iar divinul cântec
+Ce mă-nsoţea când eu eram umil!
+Mai dă-mi seninul anilor de fraged
+Ca şi atunci când eu eram copil :/
+
+[order]
+s1,s2,s3,s4,s5,s6

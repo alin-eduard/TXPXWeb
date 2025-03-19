@@ -1,0 +1,87 @@
+[s1]
+1. Crud popor între popoare
+Ce greşitu-ţi-am eu oare
+De m-ai dat la moarte amară
+O, răspunde-mi acum doară
+O poporul meu.
+2. Din Egipt te-am scos odată
+Din robia blestemată
+Tu m-ai scos cu răutate
+Din iubita mea cetate
+O poporul meu.
+747.
+
+[s2]
+3. Şi apoi când te-am dat scăpării
+Făcui drum prin fundul mării
+Tu cu lancea cea duşmană
+Mi-ai deschis în piept o rană
+O poporul meu.
+4. În pustie ţi-am dat hrană
+Apă vie, sfântă, mană
+Tu m-ai hrănit spre ocară
+Cu oţet şi fiere amară
+O poporul meu.
+
+[s3]
+5. Eu te-am condus prin pustie
+Cu un stâlp de strălucire
+Tu m-ai dus cum duci nebunii
+Ca pe hoţi legaţi cu funii
+O poporul meu.
+6. Pe duşmanii tăi de moarte
+I-am lovit cu cruda soartă
+Tu m-ai biciuit pe mine
+Mi-ai scos sângele din vine
+O poporul meu.
+
+[s4]
+7. Chiar în anii de durere
+Datu-ţi-am în mâini putere
+Tu cu inimă păgână
+Lui Irod m-ai dat în mână
+O poporul meu.
+8. Eu cu multă vrednicie
+Te-am urcat la împărăţie
+Tu mi-ai dat haină nebună
+Şi din spini mi-ai dat cunună
+O poporul meu.
+
+[s5]
+9. Ţi-am dat Canaanu-n care
+Este un rai de îmbelşugare
+Tu mi-ai dat în schimb amarul
+Ca să urc cu greu Calvarul
+O poporul meu.
+10. Te-am ales aleasă vie
+Cu rod mult şi bogăţie
+Tu ţi-ai blestemat nepoţii
+Şi M-aţi răstignit cu toţii
+O poporul meu.
+
+[s6]
+11. Eu te-am înălţat odată
+Pân' la cer în slava toată
+Tu m-ai scos şi din cetate
+Şi m-ai condamnat la moarte
+O poporul meu.
+12. Crud popor între popoare
+Ce-am putut să fac eu oare
+Cu ce ţi-am greşit eu ţie
+O, răspunde-mi acum Mie
+O poporul meu
+
+[s7]
+13. Totuşi îţi zic nu te teme
+Ci întoarce-te şi plânge
+Plângi păcatul tău îndată
+Şi te întoarce acum iată
+O poporul meu.
+14. Eu îţi vreau doar îndurarea
+Şi-a păcatelor iertare
+Te primesc ca fiu cu bine
+De te întorci acum la Mine
+O poporul meu.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

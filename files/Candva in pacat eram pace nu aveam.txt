@@ -1,0 +1,32 @@
+[s1]
+Cîndva în păcat eram,
+pace nu aveam
+Sufletu-mi era greu apăsat
+Dar Isus veni şi mă mîntui
+O, ce bine e cu El acum!
+
+[r1]
+Eu sunt schimbat, sunt înnoit
+Viaţă-n dar de la Isus
+ştiu că am primit!
+Nu regret tot ce-am lăsat
+Sînt răscumpărat,
+şi tot cerul eu l-am cîştigat!
+
+[s2]
+Sînt atît de bucuros
+al meu e Hristos
+Iar al Său eu sînt pe veci!
+Fericit eu cînt Numelui Său sfînt
+Jos pe Pămînt şi în veşnicii.
+
+[s3]
+Prietene, tu nu doreşti
+să te mîntuieşti
+De păcatul tău să fii salvat?
+Isus cu-al Său har
+dă iertarea-n dar
+Cu-al Său sînge poţi fi curăţit!
+
+[order]
+s1,r1,s2,r1,s3,r1

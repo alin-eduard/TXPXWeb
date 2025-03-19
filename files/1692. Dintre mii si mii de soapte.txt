@@ -1,0 +1,27 @@
+[s1]
+1692.
+1. Dintre mii şi mii de şoapte
+Ce străbat a vieţii noapte
+Dragul meu mi-ai spus
+Că-I greu să alegi
+Te frământă o-ntrebare
+Care este calea oare
+Ce-ţi va da viaţa cea de veci
+
+[r1]
+Cor:	Aşa cum eşti Isus te cheamă azi
+Să laşi păcatul tău murdar
+Să rupi a lumii grele lanţuri
+Care te-au legat
+Şi-n inimă simţi-vei sfântul har
+
+[s2]
+2. Poate n-ai ştiut vreodată
+Că în ceruri ai un tată
+Care te-a plătit cu sânge sfânt
+Şi în locul celui rău
+Vrea să fii copilul său
+Vino azi şi poartă a lui veşmânt
+
+[order]
+s1,r1,s2,r1

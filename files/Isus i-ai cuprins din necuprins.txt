@@ -1,0 +1,26 @@
+[s1]
+Isus, i-ai cuprins din necuprins,
+Isus, Tu iubire le-ai aprins,
+Isus, i-ai iubit şi i-ai salvat,
+Să fii veşnic, veşnic lăudat.
+
+[s2]
+Astăzi două flori au înflorit,
+Astăzi două inimi s-au unit,
+Astăzi e un vis fermecător,
+Este însăşi ziua nunţii lor.
+
+[s3]
+Isus, pe-al lor drum Tu să-i conduci,
+Isus, pe-al lor drum Tu să-i ajuţi
+Isus, Tu în calea lor să fii,
+Să fii astăzi şi în veşnicii.
+
+[s4]
+Cântă ceru-ntreg şi îngerii,
+Tată, tu mereu cu ei să fii,
+Tată, ne-ai iubit şi mântuit,
+Să fii Doamne, Tată-n veci slăvit.
+
+[order]
+s1,s2,s3,s4

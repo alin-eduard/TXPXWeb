@@ -1,0 +1,33 @@
+[s1]
+1900.                  Re m
+1. Trecea Isus prin Galilea
+Să vindece pe cei bolnavi
+/:Trecea Isus în vremea aceea
+Să mângâie pe cei sărmani:/
+
+[s2]
+2. Trecea prin Ierihon odată
+Şi acolo orbul Bartimeu
+/:Primise harul ca să vadă
+Lumină de la Dumnezeu:/
+
+[s3]
+3. Iar altă dată o femeie
+Bolnavă s-a atins de El
+/:Tămăduire ea simţise
+O vindecă Emanuel:/
+
+[s4]
+4. Murise lui Iair fetiţa
+Ce jale-n casă mai era
+/:Trecea pe acolo Domnul vieţii
+Şi pe fetiţă o-nvia:/
+
+[s5]
+5. El are milă de-orişicine
+El şi de mine s-andurat
+/:Chemându-mă”Vino la Mine”
+Urmându-L viaţa El mi-a dat:/
+
+[order]
+s1,s2,s3,s4,s5

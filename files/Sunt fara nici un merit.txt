@@ -1,0 +1,28 @@
+[s1]
+Sînt fără nici un merit,
+n-am nici un drept în sus
+Dar dreptul mi-e Golgota,
+e jertfa lui Isus.
+Chiar dacă-s nori şi valuri
+şi încercări pe drum
+Eu nu mă tem de nici un greu
+cu mine-i Dumnezeu!
+
+[r1]
+/: Spune: Sînt cu Isus, sînt biruitor
+Izbăvire voi avea!
+Orice val în viaţă este trecător
+Isus e nădejdea mea! :/
+
+[s2]
+Nu zice niciodată:
+<Lupta e în zadar
+Valul e mult prea mare,
+şi nu văd nici un far!>
+Isus nu părăseşte
+pe-ai Săi copii nicicînd
+Tu nu uita, e-n luntrea ta,
+şi nu te va lăsa!
+
+[order]
+s1,r1,s2,r1

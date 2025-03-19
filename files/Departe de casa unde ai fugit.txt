@@ -1,0 +1,38 @@
+[s1]
+Departe de casă,
+Unde ai fugit,
+Auzi acest strigăt,
+Copilul meu.
+
+[r1]
+/: Dragostea de Tată,
+Braţul şi-a deschis,
+Tot trecutul iartă,
+Acas’ să vii. :/
+
+[s2]
+Oh, câtă durere,
+E-n sufletul tău.
+N-ai nici o mângâiere,
+Copilul meu.
+
+[s3]
+Păcatul plăteşte,
+Numai cu ce-i rău,
+Te dispreţuieşte,
+Copilul meu.
+
+[s4]
+Părăsit şi singur,
+Zaci în chinul tău;
+Pace vrei desigur,
+Copilul meu.
+
+[s5]
+Chiar de eşti departe,
+Totuşi eşti al Meu;
+Nu te dau uitării,
+Copilul meu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

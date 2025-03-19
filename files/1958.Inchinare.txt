@@ -1,0 +1,36 @@
+[s1]
+1958                        Do
+1. Închinare, mulțumire și-adorare
+Jertfa asta o aduc cu-nflăcărare
+Ție Dumnezeu și Tatăl meu prea sfânt
+Prin trăire, prin vorbire și prin cânt
+/: Ție Dumnezeu și Tatăl meu prea sfânt :/
+Prin trăire, prin vorbire și prin cânt .
+
+[s2]
+2. De la Tine am și harul și-adevărul
+Și prezentul mi-l gătești și viitorul
+De aceea Ție Dumnezeul meu
+Jertfa mulțumirii îți aduc mereu
+/: De aceea Ție Dumnezeul meu :/
+Jertfa mulțumirii îți aduc mereu.
+
+[s3]
+3. Mulțumesc de-al Tău cuvânt
+Ce-mi dă lumină
+Tu prin el mă-ndrepți pe calea Ta divină
+Prin el Te cunosc pe Tine-adevărat
+Și pe Fiul Tău ce m-a răscumpărat
+/: Prin el Te cunosc pe Tine-adevărat :/
+Și pe Fiul Tău ce m-a răscumpărat.
+
+[s4]
+4. Laudă Ți-aduc și-adâncă-nchinare
+Doamne necurmat pe-altar de rugăciune
+Te iubesc și vreau să Te ascult deplin
+Cum Tu mă înveți acum și-n veci amin
+/: Te iubesc și vreau să Te ascult deplin :/
+Cum Tu mă înveți acum și-n veci amin.
+
+[order]
+s1,s2,s3,s4

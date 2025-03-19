@@ -1,0 +1,30 @@
+[s1]
+Dacă sufletul ți-e apăsat
+De povara grea și de păcat
+Simți condamnare, dorești iertare;
+Dacă prin decizii ai dărâmat
+Din suflet pacea și credința’au plecat
+Lacrimi sunt multe, nădejdi pierdute.
+
+[r1]
+Ai valoare-n ochii lui Dumnezeu
+Pentru tine a murit Fiul Său
+Pe o cruce ca să fii mântuit
+Oricine-ai fi, de Dumnezeu ești iubit!
+
+[s2]
+De Mesia Petru s-a lepădat
+Niciodată Domnul nu l-a certat
+Prin pocăința El l-a iertat.
+Firmituri zdrobite Domnul și-acum
+În coșul dragostei ridică din drum.
+Cu îndurare îți dă iertare.
+
+[s3]
+Oricine-ai fi tu ai valoare!
+Oricine-ai fi primeşti iertare!
+Oricine-ai fi,
+tu ai valoare-n ochii Lui
+
+[order]
+s1,r1,s2,r1,r1,s3

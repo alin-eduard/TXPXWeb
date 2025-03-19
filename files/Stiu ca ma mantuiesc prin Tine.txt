@@ -1,0 +1,34 @@
+[s1]
+Ştiu că mă mântuiesc prin Tine,
+Fiu al lui Dumnezeu, Hristos,
+Ce locuieşti în slăvi senine,
+Şi-n sufletul de-amaruri, ros,
+Tu, bucuriilor izvor
+Şi singurul Mântuitor!
+
+[s2]
+M-a dat în grijă Tatăl Ţie,
+El vrea ca să mă mântuieşti,
+Şi peste-această garanţie,
+Ştiu că Tu Însuţi mă iubeşti…
+Voinţa Ţi se va-mplini
+Şi sigur sunt, nu voi pieri!
+
+[s3]
+Te-a răstignit a Ta dorinţă
+Ca să mă faci să-Ţi fiu pe plac,
+Ce-ai câştigat prin suferinţă
+Rămâne-al Tău în veac de veac.
+Din haru-acestei mari iubiri
+Nu cad prin mii de prigoniri!
+
+[s4]
+Fă Doamne să urmez în toate
+Ce zice sfânt Cuvântul Tău
+Căci ştiu că nimenea nu poate
+Să fugă singur de la rău!
+Dă-mi Spiritu-Ţi conducător
+Iubitul meu Mântuitor!
+
+[order]
+s1,s2,s3,s4

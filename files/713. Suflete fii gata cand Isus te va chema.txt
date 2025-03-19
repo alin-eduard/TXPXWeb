@@ -1,0 +1,67 @@
+[s1]
+1. Suflete fii gata
+Când Isus te va chema
+Duhul Sfânt azi te trezeşte
+Suflete te pregăteşte
+Suflete eşti gata
+Când va suna trâmbiţa.
+713.
+
+[s2]
+2. În curând vei părăsi
+Valea aceasta a plângerii
+Pofta şi plăcerile,
+Lumea şi averile
+Suflete eşti gata
+Când va suna trâmbiţa.
+
+[s3]
+3. În cortul acesta de lut
+Mult păcat am mai făcut
+Ne-am obişnuit la rău
+Şi am uitat de D-zeu
+Suflete eşti gata
+Când va suna trâmbiţa.
+
+[s4]
+4. Noi cu toţi să ne unim
+Pe Domnul să-L lăudăm
+Să plângem, să ne rugăm,
+Pe Domnul să-L lăudăm
+Suflete eşti gata
+Când va suna trâmbiţa.
+
+[s5]
+5. Dacă aici ne-am lupta,
+Cununa vom căpăta
+Şi în loc de chin şi plâns
+Vom trăi în Paradis
+Suflete eşti gata
+Când va suna trâmbiţa.
+
+[s6]
+6. Strigă azi până eşti viu
+Căci la moarte e târziu
+Te va însoţi fapta ta
+Când din lume vei pleca
+Suflete eşti gata
+Când va suna trâmbiţa.
+
+[s7]
+7. Domnul Isus v-a luminat
+Cu Duh Sfânt v-a botezat
+Dar unii îl dispreţuiesc
+Vorbesc de rău şi hulesc
+Suflete eşti gata
+Când va suna trâmbiţa.
+
+[s8]
+8. În curând vei fi întrebat
+Ce-ai făcut cu al tău talant
+L-ai schimbat, l-ai îngropat
+Sau de frică n-ai lucrat
+Suflete eşti gata
+Când va suna trâmbiţa.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

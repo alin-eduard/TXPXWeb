@@ -1,0 +1,20 @@
+[s1]
+Cunosc o ţară minunată
+ce Domnul nouă ne-a promis
+Acolo-i patria iubită,
+acolo-i Paradis.
+
+[r1]
+/: Ce frumos va fi :/
+Când cu toţi acolo ne vom întâlni !
+/: Ce frumos va fi :/
+Da, când acolo ne vom întâlni !
+
+[s2]
+În ţara-aceea minunată
+dureri şi chin nu vor mai fi
+Căci Isus în patria iubită,
+cunosc, cu toţi vom fi.
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,67 @@
+[s1]
+1. Curând vine o zi
+Eu ştiu că va veni
+Când Domnul va striga
+Vino mireasa mea
+Din văi şi din morminte
+Ieşi-vor trupuri sfinte
+Schimbate-n a lor straie
+Gătite-n sărbătoare.
+687.  								     Fa
+
+[s2]
+Lăsaţi-vă de toate
+De tot ce vă frământă
+Gătiţi-vă o haină
+Ce-o veţi purta la nuntă.
+
+[s3]
+2. Fecioară chibzuită
+Cu candela aprinsă
+Cu ochii înspre zări
+Privind în depărtări
+Cu untdelemn în vase
+Aşteaptă-n a lor case
+Să-i iasă-n întâmpinare
+Când mirele apare.
+
+[s4]
+Apropie-te frate
+Şi sora mea iubită
+În vremea cea din urmă
+Nu sta nechibzuită.
+
+[s5]
+3. Nu sta în aţipire
+Privind doar cu uimire
+Smochinul înfloreşte
+El vara prevesteşte
+Şi izbăvirea noastră
+Din zarea cea albastră
+Se apropie întruna
+Ca să ne dea cununa.
+
+[s6]
+Să dovedim în toate
+În viaţa noastră scurtă
+Lumină şi dreptate
+S-avem parte Ia nuntă.
+
+[s7]
+4. Căci cerul şi pământul
+Vor trece ca şi gândul
+Şi marea cea măreaţă
+Va trece ca o ceaţă
+Cuvântu-n veci rămâne
+Să fie ca o pâine
+Pe cel ce-l împlineşte
+Isus îl izbăveşte.
+
+[s8]
+Pe marea de cristal
+Să-i cântăm cu iubire
+Cu harfele în mână
+În semn de mulţumire.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

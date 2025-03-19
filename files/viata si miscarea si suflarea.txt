@@ -1,0 +1,16 @@
+[s1]
+Viata si miscarea si suflarea
+Sunt in tine Doamne
+Numai Tu esti sursa vietii mele
+Fiecare pas Tu mi-l conduci,
+Mi-l conduci pe cale
+Viata intreaga este-n mana Ta
+
+[s2]
+Harul si-ndurarea Ta
+Cand ma uit zaresc iubirea Ta
+Uimit de-a Ta iubire
+Te doresc Isus numai pe Tine
+
+[order]
+s1,s2

@@ -1,0 +1,32 @@
+[s1]
+O Biserica iubita
+În curând vei fi rapită
+Haina sâ-ţi pâstrezi curată
+Sfântă, albă fără pată
+
+[r1]
+Ridicaţi-vă privirea,
+În curând va fi rapirea
+Duhul strigă Maranata
+O Biserică fi gata
+
+[s2]
+Să vegeaţi şi-n timpul nopţii
+Întăriţi-vă cu toţii
+Plini de Duhul Sfânt într-una
+Luptă să primeşti cununa
+
+[s3]
+Staruiti in rugaciune
+In credinta, fapte bune
+Fii in pace si-n sfintire
+Sa ai parte de rapire.
+
+[s4]
+O, Biserica iubita
+Sa fi gata pregatita
+Fii lumina fara pata
+In curand vei fi chemata
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

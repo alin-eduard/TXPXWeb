@@ -1,0 +1,43 @@
+[s1]
+1. Un împărat face nuntă
+Fiului său prea iubit
+Ca poporul să se întoarcă
+De pe drumul rătăcit.
+2. Face nuntă, căci sosit-a
+Ceasul când va cununa
+Pe fiul său cu mireasa
+Ce din lume o va 'nălţa.
+1032.
+
+[s2]
+3. La această nuntă-i cheamă
+Pe toţi astăzi Biblia
+Să se pregătească-n grabă
+Căci nunta se va ţinea.
+4. Să-şi înmulţească untdelemnul
+Fapte bune tot mereu
+Cu lumină să-L aştepte
+Pe Fiul lui Dumnezeu.
+
+[s3]
+5. Să vegheze-n rugăciune
+Toată vremea pe pământ
+Să nu-i afle-n somnul morţii
+Ziua nunţii Celui Sfânt.
+6. Şi să-şi schimbe haina vieţii
+Alta nouă a îmbrăca
+Ca-n odaia ce-i de nuntă
+Să poată cu ea intra.
+
+[s4]
+7. Ajută-ne Doamne Sfinte
+Ca în ziua de apoi
+La a fiului Tău nuntă
+Să putem intra şi noi.
+8. Să ne veselim de-a pururi
+Doamne în veci la masa Ta
+Cu toţi cei ce-n bucurie
+Slavă Ţie-Ţi vor cânta.
+
+[order]
+s1,s2,s3,s4

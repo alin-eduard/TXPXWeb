@@ -1,0 +1,34 @@
+[s1]
+Veniţi, cântaţi lui Dumnezeu
+Lăudaţi Numele Lui !
+Daţi slavă şi onoare Lui
+Lăudaţi Numele Lui !
+Veniţi cântaţi cu toţi acum
+Cântaţi mărirea Sa
+Deschideţi-vă inima
+/: Cântaţi iubirea Sa ! :/
+
+[r1]
+Cine se încrede-n Isus
+Cu El sus în cer va sta.
+Cine aleargă la Isus
+Viaţă în veci va avea.
+Isus este mântuirea
+Isus este slava ta.
+/: Cântă, cântă cu iubire
+Glorie, Aleluia !:/
+
+[s2]
+Veniţi înaintea lui Dumnezeu
+Veniţi cu toţii acum
+Rugaţi-vă ca să nu pieriţi
+/: El va veni curând ! :/
+
+[s3]
+El e Mântuitorul tău
+El e tăria ta
+Ascultă-i glasul Lui acum
+/: Deschide-ţi inima ! :/
+
+[order]
+s1,r1,s2,r1,s3,r1

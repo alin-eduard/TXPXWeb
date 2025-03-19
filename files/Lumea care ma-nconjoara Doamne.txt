@@ -1,0 +1,26 @@
+[s1]
+Lumea care ma’nconjoara Doamne
+Nu ma’ndeamna bine ca sa fac
+/:Pasul ei ar vrea sa’l tin in viata
+Ca sa nu fiu dupa al Tau plac.:/
+
+[r1]
+/: Dar eu sunt sigur ca Isus
+Si pentru mine’a murit sus pe calvar
+Si pacatului I’am pus
+Piatra de hotar. :/
+
+[s2]
+Lumea care ma’nconjoara Doamne
+Este’njurul meu ca si un nor
+/:Si’al pacatului hotar din viata
+Vrea sa’l dea mai catre viitor.:/
+
+[s3]
+Lumea care ma’ncojoara Doamne
+Ai lasat’o sa pot lumina
+/:Ca’n bataia soarelui zadarnic
+O lumina’ai vrea ai aseza.:/
+
+[order]
+s1,r1,s2,r1,s3,r1

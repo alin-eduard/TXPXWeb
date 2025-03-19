@@ -1,0 +1,43 @@
+[s1]
+955.          Mi
+1. Un lung tren ne pare viaţa
+Ne trezim în el mergând
+Fără să ne mai dăm seama
+Unde ne-am suit şi când.
+2. Fericirile sunt halte
+Unde stăm câte-un minut
+Până să ne mai dăm seama
+Sună... pleacă... a trecut.
+
+[s2]
+3. Iar durerile sunt staţii
+Lungi, de nu se mai sfârşesc
+Şi, în ciuda noastră parcă
+Tot mai multe se ivesc.
+4. Arzători de nerăbdare
+Înainte tot privim
+Vrem s-ajungem tot mai iute
+La vreo gară ce-o dorim.
+
+[s3]
+5. Ne trec zilele, ne trec anii ...
+Clipe sfinte şi dureri
+Aşteptând, hrăniţi de visuri
+Noi momente de plăceri.
+6. Mulţi copii voioşi se urcă
+Câţi în tren ne-am întâlnit!
+Iar câte-un bătrân coboară
+Trist de forţă, istovit.
+
+[s4]
+7. Vine-ndată însă vremea
+Să ne coborâm şi noi
+Ce n-am da atunci, o clipă
+Să ne-ntoarcem înapoi?
+8. Căci pe când privim în urmă
+Plângem timpul ce-a trecut
+Sună gara veşniciei!
+Am trăit, dar n-am ştiut.
+
+[order]
+s1,s2,s3,s4

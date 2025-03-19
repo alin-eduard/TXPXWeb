@@ -1,0 +1,37 @@
+[s1]
+Dumnezeu Sfântul e mântuirea
+El ne iubeşte pe noi pe toţi.
+De-aceea zic iarăşi:
+Dumnezeu Sfântul,
+El ne iubeşte pe noi pe toţi.
+
+[s2]
+Eram odată legat puternic
+Dar, de păcate eram legat.
+De-aceea zic iarăşi:
+Dumnezeu Sfântul,
+El ne iubeşte  pe noi pe toţi.
+
+[s3]
+Isus Slăvitul Mântuitorul,
+S-a jertfit pentru a noastre vini.
+De-aceea zic iarăşi:
+Dumnezeu Sfântul,
+El ne iubeşte pe noi pe toţi.
+
+[s4]
+Dragostea este al mângâierii,
+Al mântuirii dulce izvor.
+De-aceea zic iarăşi:
+Dumnezeu Sfântul,
+El ne iubeşte pe noi pe toţi.
+
+[s5]
+Dragoste Sfântă, mărire, slavă,
+Laudă Ţie, în veci de veci.
+De-aceea zic iarăşi:
+Dumnezeu Sfântul,
+El ne iubeşte pe noi pe toţi.
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,26 @@
+[s1]
+Din suferinţă şi durere
+Curînd Isus mă va chema
+Uitate-or fi a mele grijuri
+Cînd voi vedea pe Salvator.
+
+[s2]
+El îmi va şterge-a mele lacrimi
+Şi bucuria nu va-nceta
+Din suferinţă şi durere
+Curînd Isus mă va chema.
+
+[s3]
+Şi viaţa ta pe-această lume
+Curînd şi ea se va sfîrşi
+Şi cum vei sta în faţa lui
+Isus, dacă nu l-ai ales ?
+
+[s4]
+Nu te cunosc! El îţi va spune
+Tu n-ai trăit pentru Mine!
+Şi viaţa ta pe-acest Pămînt
+Curînd o să se termine.
+
+[order]
+s1,s2,s3,s4

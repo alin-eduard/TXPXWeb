@@ -1,0 +1,41 @@
+[s1]
+2016
+1. Suntem străini pe-acest pământ
+Suntem pribegi în lumea aceasta
+Călătorind înspre Canaan
+Avem cu toţi o nădejde
+Şi ştim că vine ziua când
+Ne vom vedea
+Dincolo de Iordan.
+
+[r1]
+Cor: /: Ne vom vedea
+Acolo sus pe nori de slavă
+Ne-om întâlni
+Când trâmbiţa va răsuna
+Ne vom vedea
+Pe-acele plaiuri minunate
+În paradis
+În cerul sfânt ne vom vedea :/
+
+[s2]
+2. Din orice neam și orice popor
+Cu cei ce L-au slujit pe Domnul
+Vom fi atunci
+La marea sărbătoare
+Mai sus de cerul înstelat
+Mai sus de galaxii şi astre
+Ne vom vedea
+Cu Domnul în ziua mare.
+
+[s3]
+3. Şi vom petrece veşnicia
+Vom fi în ţara gloriei
+Cu Isus ce ne-a răscumpărat
+El  ne-a promis că ne va duce
+În locul pregătit de El
+Să fim pe veci
+Cu Domnul Preaînalt.
+
+[order]
+s1,r1,s2,r1,s3,r1

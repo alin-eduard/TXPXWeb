@@ -1,0 +1,46 @@
+[s1]
+Aş vrea să număr clipele
+Dar timpul trece-n grabă
+Minute ce-au trecut s-au irosit
+Am spus că sunt al lui Hristos
+Dar Domnul încă aşteaptă
+Să fiu al Lui cu totul dăruit
+Şi câte, Doamne, nu Ţi-am spus
+Şi câte nu Ţi-am promis?
+
+[s2]
+/: Dar ce voi spune când pe nori
+Tu vei veni în slavă învelit?
+Am fost un laş şi am fugit
+Mereu m-ai bincuvântat
+Şi totuşi doar la mine m-am gândit
+Şi te-am uitat şi m-am ferit :/
+
+[s3]
+O lume-ntreagă zace-n timp
+Tânjind după speranţă
+Dar cine oare le-o va oferi
+Cum pot să stau nepăsător
+Când eu am primit viaţă?
+Când  alţii mor cum poţi fi fericit?
+Tu ne iubeşti la fel pe toţi
+La cruce ai dovedit!
+
+[s4]
+/: Dar ce voi spune când pe nori
+Tu vei veni în slavă învelit?
+Am fost un laş şi am fugit
+Mereu m-ai binecuvântat
+Şi totuşi doar la mine m-am gândit
+Şi Te-am uitat şi m-am ferit :/
+
+[s5]
+Dar ce voi spune când pe nori
+Tu vei venit în slavă învelit?
+Am fost un laş şi am fugit
+/: Aş vrea să-mi spui când vei veni
+Că am făcut ce-a trebuit să fac
+O Doamne vreau să-Ţi fiu pe plac! :/
+
+[order]
+s1,s2,s3,s4,s5

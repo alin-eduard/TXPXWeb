@@ -1,0 +1,50 @@
+[s1]
+Te-am chemat de-atâtea ori în viaţă,
+Cu dragoste am vrut, să-ţi fiu povaţă.
+Să îţi spun că te iubesc ca nimeni,
+Dar tu n-ai vrut să mă cunoşti,
+nici sa auzi de Mine.
+
+[s2]
+Te-am chemat
+când toţi te-au părăsit,
+Când ai zis că eşti pierdut,
+şi-n viaţă  rătăcit.
+Când doar gânduri
+spre cer ţi-ai îndreptat
+Eu ţi-am fost Prieten
+şi te-am ajutat.
+
+[r1]
+Te-am chemat
+când Eu stateam pe cruce
+Şi plăteam păcatul tău
+In cer să poţi ajunge ,
+Incă te mai chem la Mine ,
+Să te-ntorci
+Ascultă-MI astăzi Glasul
+din miile de voci,
+La Mine să te-ntorci.
+
+[s3]
+Te-am chemat atunci
+când spaima morţii,
+ţi-a dat tarcoală-n suflet,
+să-ţi taie firul vietii.
+Când cu lacrimi
+spre Mine te-ai rugat,
+te-am ascultat şi iarasi,
+cu drag te-am ajutat.
+
+[s4]
+Te-am chemat
+când razele de soare ,
+Iţi străluceau în jur,
+ca-n zi de sărbătoare.
+De multe ori
+prin bine ţi-am vorbit,
+Dar n-aveai timp
+de Mine crede-ai că nu exist.
+
+[order]
+s1,s2,r1,s3,s4,r1

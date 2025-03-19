@@ -1,0 +1,50 @@
+[s1]
+/: Scoala suflete ce faci,
+in mocirla stai si zaci
+Ratacind in lumea rea,
+refunzand chemarea Sa.:/
+
+[s2]
+Ai pribegit destul
+in lumea de pacate
+Dar de-I asculti chemarea
+te scapa de la moarte
+Un simplu “DA”
+tu spune primeste a Lui chemare
+Si el prin jertfa-I sfanta
+te scapa de pierzare
+
+[s3]
+/: Venind in lume S-a jertfit
+ca Tu sa fii mantuit
+Isus Hristos a suferit
+cat de mult El te-a iubit :/
+
+[r1]
+Ai pribegit destul
+in lumea de pacate
+Dar de-I asculti chemarea
+te scapa de la moarte
+Un simplu “DA” tu spune
+primeste a Lui chemare
+Si el prin jertfa-I sfanta
+te scapa de pierzare
+
+[s4]
+/: M-am hotarat sa te urmez,
+doar Tu poti sa ma mantuiesti
+Renunt la tot din viata mea
+accept acum chemarea Ta :/
+
+[s5]
+Am pribegit destul
+in lumea de pacate
+Dar azi ma-ntorc acasa,
+primeste-ma o Doamne
+Azi vin la Tine Tata sa-Ti
+cer a Ta-ndurare
+Te rog acum fierbinte
+sa-Mi dai a Ta iertare
+
+[order]
+s1,s2,s3,r1,s4,s5,r1

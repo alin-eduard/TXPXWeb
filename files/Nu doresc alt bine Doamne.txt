@@ -1,0 +1,42 @@
+[s1]
+Nu doresc alt bine, Doamne
+Pe acest pământ,
+Căci atras mă simt spre ceruri
+Când la pieptu-Ţi sunt.
+Numai Tu, numai Tu
+Tu îmi eşti al vieţii vis
+Numai Tu, Tu să-mi fii
+Veşnic Paradis.
+
+[s2]
+Aur mult, amici, mărire,
+Lumea de-aş avea
+Ce mi-ar folosi aicea
+Fără pacea Ta?
+Numai Tu, numai Tu
+Tu îmi eşti al vieţii vis
+Numai Tu, Tu să-mi fii
+Veşnic Paradis.
+
+[s3]
+Cine-ar duce cu răbdare
+Al meu greu păcat?
+Al cui glas mi-ar zice dulce:
+“Crede, eşti iertat!”?
+Numai Tu, numai Tu
+Tu îmi eşti al vieţii vis
+Numai Tu, Tu să-mi fii
+Veşnic Paradis.
+
+[s4]
+N-aş schimba a mea speranţă,
+Orice mi s-ar da,
+Bogăţia mea e-n Tine,
+Tu eşti viaţa mea!
+Numai Tu, numai Tu
+Tu îmi eşti al vieţii vis
+Numai Tu, Tu să-mi fii
+Veşnic Paradis.
+
+[order]
+s1,s2,s3,s4

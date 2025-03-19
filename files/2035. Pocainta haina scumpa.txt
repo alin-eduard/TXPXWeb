@@ -1,0 +1,43 @@
+[s1]
+2035
+1. Pocăință haină scumpă
+Mulți te-aruncă la gunoi
+Și-și iau hotărâri în pripă
+Spre alte învățături mai noi
+Însă chiar dacă te-aruncă
+Astăzi omul cel firesc
+Eu sub tine nu am frică
+Pentru veci să mă-ncălzesc.
+
+[s2]
+2. O credință cale-ngustă
+Mulți te leapădă ușor
+Și-și aleg o cale largă
+După placul firii lor
+Însă chiar de-i lepădată
+De cei mai mulți din popor
+Eu doresc ca viața toată
+Să-mi fii drumul până mor.
+
+[s3]
+3. O Scriptură poartă strâmtă
+Cei mai mulți te ocolesc
+Căutând o altă poartă
+După dorul lor lumesc
+Însă chiar de-i ocolită
+De tot neamul omenesc
+Eu doresc să-mi fii iubită
+Și comoară cât trăiesc.
+
+[s4]
+4. O preasfântă-mpărăție
+Pregătită de Hristos
+Mulți azi nu vor să te știe
+Și se bucură doar jos
+Dar oricâți astăzi din minte
+Te scot neîndurător
+Eu te vreau și mai fierbinte
+Casa mea după ce mor.
+
+[order]
+s1,s2,s3,s4

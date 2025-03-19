@@ -1,0 +1,35 @@
+[s1]
+1. Omule ce rătăceşti pribeag
+Domnul bate azi în al tău prag
+Uşa inimii tu s-o deschizi
+Cerul întreg în ea să îl cuprinzi.
+338.
+
+[r1]
+Cor: /:Caută-l pe Dumnezeu
+Cât mai ţine harul Său
+Căci zilele tale trec pe rând
+Că-n curând te vei trezi
+Dar poate va fi târziu
+Harul de la neamuri s-o sfârşi:/.
+
+[s2]
+2. Astăzi Dumnezeu îţi poate da
+Pe deplin iertare de păcat
+Dar, să laşi a lumii cale rea
+Să-ţi ridici spre cer privirea ta.
+
+[s3]
+3. Nu uita că tu ești trecătort
+Pe pământ c-o moarte ești dator
+Veșnicia apoi vei îmbrăca
+După cum aici tu ai umblat.
+
+[s4]
+4. Eu te rog acum să meditezi
+Şi adânc viaţa să ţi-o cercetezi
+Cerul e de acum înaintea ta
+Poţi a-l pierde sau a-l câştiga.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

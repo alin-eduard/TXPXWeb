@@ -1,0 +1,39 @@
+[s1]
+1. De sunt vreodată întristat
+Şi-n inima mea disperat
+Pe când n-am ce să mă-ngrijesc
+De lucrul pământesc.
+199.
+
+[s2]
+2. Atunci strig către Dumnezeu
+Să astâmpere necazul meu
+Că grijile acestea lumeşti
+Nu sunt daruri cereşti
+
+[s3]
+3. Mi-aduc aminte de Isus
+De cel ce acesta ne-a spus
+Să nu avem grijuri mereu
+Că-n cer e Dumnezeu.
+
+[s4]
+4. Atunci aminte îmi aduc
+De-al meu cântec aşa plăcut
+Şi-ncep să cânt încet frumos
+Tot cu suflet duios.
+
+[s5]
+5. Din ce în ce cântarea mea
+Cu foc mai mare va suna
+Ceru-nourat se-nsenină
+De o rază-n inimă.
+
+[s6]
+6. Că-l văd pe al meu Mântuitor
+Pe al meu binevoitor
+Ş-aşa în loc de plâns suspin
+De bucurie-s plin.
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,26 @@
+[s1]
+Ţie-ţi lipseşte pacea
+şi mângâiere n-ai,
+Nimic bun nu poţi face
+cu starea ce o ai.
+
+[r1]
+/: Ah, de-ai vrea tu a crede
+Minuni mari ai vedea,
+Isus întotdeauna
+Cu drag te-ar ajuta! :/
+
+[s2]
+Numa-n Isus e pace,
+în El sunt mângâieri
+Căci lui Isus Îi place
+să vindece dureri!
+
+[s3]
+Degeaba cu păcatul
+te lupţi în orice zi,
+Nu poţi găsi în altul
+odihna ce-ai dori!
+
+[order]
+s1,r1,s2,r1,s3,r1

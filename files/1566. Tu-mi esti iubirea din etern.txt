@@ -1,0 +1,57 @@
+[s1]
+1.Tu-mi eşti iubirea din etern Tu viitorul ce-mi aşterni
+/: Tu ceru-mi pregăteşti       Tu-n lume mă-nsoţeşti
+Tu totul Tu îmi eşti Tu :/
+1566.
+
+[s2]
+2.Tu dai lumină zorilor
+Tu frumuseţe florilor
+/: Tu ploaie dăruieşti
+Tu pâine-n brazde creşti
+Tu totul Tu îmi eşti Tu :/
+
+[s3]
+3.Acolo unde nu e nor
+Tu porţi pecetea cuielor
+/: Veşnic să-mi aminteşti
+Că-n taină mă iubeşti
+Tu totul Tu îmi eşti Tu :/
+
+[s4]
+4. Tu îmi aduci din cer cântări
+Tu eşti cu mine-n încercări
+/: Chiar când mă părăseşti
+Tu-n taină mă-nsoţeşti
+Tu totul Tu îmi eşti Tu :/
+
+[s5]
+5. Tu eşti Învăţătorul meu
+A fiilor lui Dumnezeu
+/: Spre fericiri cereşti
+Din zi în zi mă creşti
+Tu totul Tu îmi eşti Tu :/
+
+[s6]
+6.Tu numai Tu m-ai câştigat
+Tu spini şi cuie ai răbdat
+/: Chiar dacă-n ochi lumeşti
+Nimic nu preţuieşti
+Dar mie totu-mi ești Tu :/
+
+[s7]
+7. Tu m-ai chemat din nevăzut
+Tu în chip tainic m-ai ţesut
+/: Tu mă curăţeşti
+Tu mă împodobeşti
+În mine să trăieşti Tu :/
+
+[s8]
+8.Tu, Tu ai cheia lui David
+Prin care toate se deschid
+/: În cea din urmă zi
+Deodată voi privi
+Şi-n faţa mea vei fi Tu :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

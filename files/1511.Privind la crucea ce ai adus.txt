@@ -1,0 +1,75 @@
+[s1]
+1511.
+1. Privind la crucea ce ai dus
+Învăţ ce e iubirea
+Învăţ că Tu ne-ai câştigat
+Prin moarte-i mântuirea
+Lăsat-ai slava pentru noi
+Şi viaţa pentru moarte
+Lăsat-ai ceru-ntreg de sus
+Lumină pentru noapte.
+
+[s2]
+2. Cu al tău sânge prea curat
+Fiinţa ne-ai răscumpărat
+Fii binecuvântat
+Ai dat ca jertfă viaţa ta
+Să pot simţi iubirea Ta
+Fii binecuvântat.
+
+[s3]
+3. Din Fiu de Dumnezeu ce-ai fost
+Păstor Tu te-ai făcut
+S-aduni Tu rătăcite oi
+Ce nu Te-au cunoscut
+Rătăcite în munţi şi văi
+Te-ai dus le-ai căutat
+Să faci o turmă pe pământ
+Din cei răscumpăraţi.
+
+[s4]
+4. Şi pentru oi viaţa Ţi-ai dat
+Şi mieii-n braţe i-ai purtat
+Fii binecuvântat
+Şi ca scăpare-n locul lor
+Te-ai dat în mâna lupilor
+Păstorul oilor.
+
+[s5]
+5. Ce mare preţ ai câştigat
+În ceru-ntreg Isus
+Noroade, neamuri şi preoţi
+Din lume ai adus
+Dar pe pământ cât ai umblat
+Preţ n-ai avut aici
+Vrăşmaşii Tăi Te-au socotit
+La treizeci de arginţi.
+
+[s6]
+6. Dar n-ai privit la preţul lor
+Şi ai murit în locul lor
+Fii binecuvântat
+Din moarte ne-ai adus la har
+Prin sângele de pe calvar
+Fii binecuvântat.
+
+[s7]
+7. Dar vine ceasul în curând
+Când Tu vei reveni
+Vrăşmaşii Tăi de pe pământ
+Cu toţii s-or îngrozi
+Şi toţi acei ce în păcat
+Viaţa au trăit
+Ce au ştiut de voia Ta
+Dar nu s-au pregătit.
+
+[s8]
+8. Şi în curând orice genunchi
+Din cer de aici de sub pământ
+Ţi se vor închina
+Şi toţi ce-au fost pentru Hristos
+De-s vii sau morţi vor învia
+Spre a Te întâmpina.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

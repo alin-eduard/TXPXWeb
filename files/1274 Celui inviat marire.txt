@@ -1,0 +1,42 @@
+[s1]
+Celui înviat mărire
+Noi strigăm cu toţi cântând
+El trezi din mormânt lumea
+Viaţă şi putere dând
+1274
+1.
+Soare Tu sol al dreptăţii
+Cum răsari măreţ din nori
+Bezna morţii risipit-ai
+Când te urci strălucitor
+Cor:	Isus e viu, Isus e viu
+Laudă şi onoare Lui! Amin
+
+[s2]
+Isprăvit-ai Tu îngroapă
+Greul Tău calvar şi sfânt
+Multe lacrimi şi suspine
+Sfinţind al Tău mormânt
+Peste groapa Ta deschisă
+Trec toţi îngerii în zbor
+Şi binecuvântând cântă
+Cu al îngerilor cor
+2.
+Cor:	Isus e viu, Isus e viu
+Laudă şi onoare Lui! Amin
+
+[s3]
+Ce măreţ ai izbăvit Tu
+Ce făceau duşmanii Tăi
+S-au distrus, s-au nimicit ei
+Ca să nu mai fie răi
+Doamne Tu trăieşte-n mine
+Eu prin Tine voi urca
+Doamne fă ca prin mormânt eu
+Să ajung la dreapta Ta
+3.
+Cor:	Isus e viu, Isus e viu
+Laudă şi onoare Lui! Amin
+
+[order]
+s1,s2,s3

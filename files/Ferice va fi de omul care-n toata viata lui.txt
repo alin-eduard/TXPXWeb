@@ -1,0 +1,50 @@
+[s1]
+Ferice va fi de omul
+care-n toată viaţa lui
+Cugetă ziua şi noaptea
+numa-n Legea Domnului.
+
+[s2]
+El de cei răi se fereşte
+şi de toţi cei păcătoşi
+La sfatul lor nu se duce,
+ştie că sînt mincinoşi.
+
+[s3]
+Cît de fericit în suflet
+este un astfel de om
+El se-aseamănă în totul
+cu un mîndru, frumos pom.
+
+[s4]
+Care la izvorul vieţii
+cineva l-a răsădit
+El îşi dă rodul la vreme
+şi umbră celui trudit.
+
+[s5]
+Nu aşa necredincioşii
+şi aceia ce fac rău
+Ei îşi vor lua pedeapsa
+de la dreptul Dumnezeu.
+
+[s6]
+Şi întocmai precum pleava
+este spulberată-n vînt
+Tot aşa necredincioşii
+vor fi şterşi de pe Pămînt.
+
+[s7]
+Iar la dreapta judecată
+vor plînge, s-or tîngui
+Dar va fi tîrziu atuncea
+şi-n zadar se vor căi.
+
+[s8]
+Iar cei drepţi, în haine albe
+vor primi cununa lor
+Şi vor merge sus în ceruri
+cu dreptul Judecător.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

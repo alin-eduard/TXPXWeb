@@ -1,0 +1,32 @@
+[s1]
+Trăim cel din urmă ceas
+Când venirea Lui e la porţi
+Este vremea când trebuie să ştii
+Timpul când să spunem tuturor.
+
+[r1]
+Că într-o zi, în curând va veni
+Pe pământ, Cel ce în noi a zidit
+Chipul Sfânt şi Făptura Sa
+Va veni ca la El să ne ia%
+
+[s2]
+Omenirea trăieşte în plăceri
+A uitat de al ei Salvator
+Insă cer şi pământ toate spun
+Despre Marele lor Creator.
+
+[s3]
+Generaţii creştine s-au dus
+Poate multe de acum vor pleca
+Dar un lucru se cere să ştim
+Şi nicicând n-avem voie a uita.
+
+[s4]
+Că într-o zi, în curând va veni
+Pe pământ, Cel ce în noi a zidit
+Chipul Sfânt şi Făptura Sa
+Va veni ca la El să ne ia
+
+[order]
+s1,r1,s2,r1,s3,s4

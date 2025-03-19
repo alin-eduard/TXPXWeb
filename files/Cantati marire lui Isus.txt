@@ -1,0 +1,24 @@
+[s1]
+Cântaţi mărire lui Isus!
+Cu cerul vă­nchinaţi,
+Cu cerul vă­nchinaţi!
+Pe Domnul să­L glorificaţi!
+
+[r1]
+Şi slavă, slavă, slavă,
+Slavă lui Dumnezeu să­I daţi!
+
+[s2]
+Vestiţi aceasta voi, martiri
+Ce pentru El v­aţi dat,
+Ce pentru El v­aţi dat.
+Odrasla lui Isai lăudaţi!
+
+[s3]
+Voi, oameni, toţi sunteţi chemaţi
+Pe Domnul să­L urmaţi,
+Pe Domnul să­L urmaţi.
+Veniţi popoare să cântaţi!
+
+[order]
+s1,r1,s2,r1,s3,r1

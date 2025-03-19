@@ -1,0 +1,42 @@
+[s1]
+În Domnul găsesc adăpost
+De lume, de iad şi păcat,
+Mereu Tu Isuse mi-ai fost
+Şi-mi eşti sigur loc de salvat!
+
+[r1]
+Salvat, salvat,
+pe veci cu Isus voi domni,
+Salvat, salvat,
+cânta-voi şi-L voi preamări!
+
+[s2]
+De spaimele nopţii nu ştiu,
+Zbor ziua săgeţi, nu mă tem,
+Isus mi-este scut, şi-am să fiu Salvat de-orice plăgi şi blestem!
+
+[s3]
+Chiar sute şi mii de-ar cădea
+În stânga şi-n dreapta mereu
+Eu tot în credinţă voi sta,
+Isus este sprijinul meu!
+
+[s4]
+Isuse-alor Tăi le promiţi
+Că îngeri trimiţi pentru ei
+Să-i scape când sunt năpădiţi
+De viperi, de draci sau de lei
+
+[s5]
+O, Doamne-adăpost umbritor Strigat-am în griji şi necaz
+Iar Tu mi-ai răspuns iubitor
+Te scap şi te-‘nalţ, nu te las!
+
+[s6]
+Deci vină orice strâmtorări
+Şi urle Satana turbat,
+Chiar munţii arunce-se-n mări,
+Eu ştiu că tot voi fi salvat!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

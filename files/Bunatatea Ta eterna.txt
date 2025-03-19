@@ -1,0 +1,36 @@
+[s1]
+Bunătatea Ta eternă
+Doamne Dumnezeul meu
+Ea mi-e cea mai bună pernă
+De odihnă când mi-e greu
+Ea mă scapă de povoară
+Când mi-e cugetu-apăsat
+Şi mă uşurează iar
+/: Ca s-alerg mai avântat. :/
+
+[r1]
+/: Bunătatea Ta,
+bunătatea Ta ! :/
+
+[s2]
+Bunătatea Ta mă-ndeamnă
+Grabnic să mă pocăiesc
+Ca să ştiu adânc ce-nseamnă
+Răul care-l săvârşesc
+Ea mă-ndeamnă înspre cruce
+Spre Isus cel răstignit
+Să-nţeleg că El aduce
+/: Pace-n duhul meu trudit. :/
+
+[s3]
+Bunătatea Ta-mi găteşte
+Un prea dulce viitor
+Căci ea zilnic se ’noieşte
+Şi când urc şi când cobor
+Laudă şi închinare
+Pentru bunătatea Ta
+Îţi aduc cu-nflăcărare
+/: Doamne-acum şi-n veac aşa. :/
+
+[order]
+s1,r1,s2,r1,s3,r1

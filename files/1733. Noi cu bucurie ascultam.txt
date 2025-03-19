@@ -1,0 +1,18 @@
+[s1]
+1. Noi cu bucurie ascultăm
+Cuvântul Lui Dumnezeu
+Şi tot ce avem
+Mai scump pe lume
+Toate Ţie îţi dăm
+1733.
+
+[s2]
+Cor:	/:Legea Ta ne-nveseleşte
+Cuvântul Tău ne-ntăreşte
+Ca să Te servim
+Şi ne dă înţelepciune
+Ca să facem fapte bune
+Cu bucurie:/
+
+[order]
+s1,s2

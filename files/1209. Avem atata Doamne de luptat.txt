@@ -1,0 +1,36 @@
+[s1]
+1209
+1. Avem atâta, Doamne, de luptat
+Ispitele lovesc neîncetat.
+Alături de Tine
+Doamne, vrem să fim
+Ştim că doar aşa putem să biruim
+
+[r1]
+Cor: Nu Te duce, Doamne,
+de la noi
+Făr' de Tine suntem slabi
+şi goi,
+Doamne sfinte nu ne părăsi
+Fără de Tine nu putem trăi.
+
+[s2]
+2. Pe drumul spre
+Emaus ca cei doi,
+Vrem Isuse să rămâi cu noi
+Iată vine seara,
+Este spre apus
+Rămâi cu noi,
+Rămâi cu noi, Isus.
+
+[s3]
+3. Pe calea care duce
+la viaţă
+Fii călăuză şi povaţă.
+Un far în bezna nopţii,
+Un ajutor
+Rămâi în toate
+Scut izbăvitor.
+
+[order]
+s1,r1,s2,r1,s3,r1

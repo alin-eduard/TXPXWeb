@@ -1,0 +1,32 @@
+[s1]
+Ascultă, Doamne, strigătele mele
+Şi ia aminte la rugăciunea mea!
+Căci de la capătul lumii strig la Tine
+Şi-mi plânge in mâhnire inima.
+
+[s2]
+Alerg la stânca ce n-o pot ajunge
+Căci e prea înaltă si singur nu răzbesc.
+Căci Tu eşti adăpostul meu cel tare
+În contra celor ce mă duşmănesc.
+
+[s3]
+Aş vrea să locuiesc pe veci cu Tine
+Sub aripile Tale-adăpostit.
+Căci Tu asculţi a-mele juruinţe
+Şi moşteniri pe veci mi-ai dăruit.
+
+[s4]
+Tu dai la imparatul zile multe,
+In veci, sa se lungeasca anii lui;
+In veci, sa stea pe scaun de domnie,
+In veci, sa stea-naintea Domnului
+
+[s5]
+Fă bunătatea şi credincioşia
+Mereu să privegheze asupra mea.
+Atunci primi-vei zilnic juruinţe
+Şi pururi sfântu-Ţi Nume voi cânta.
+
+[order]
+s1,s2,s3,s4,s5

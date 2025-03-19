@@ -1,0 +1,22 @@
+[s1]
+42.
+1. Măreşte suflete al meu pe Domnul
+Voiesc să-L măresc cât voi trăi
+Până când moartea
+Mi-aduce somnul
+Pe Domnul-ntr-una îl voi mări
+Căci El e-al lumii Creator
+Şi Domn Atotstăpânitor
+/:Aleluia:/ /:Mărire Lui:/.
+
+[s2]
+2. Măriţi cu toţii dar al Lui nume
+Pe Cel ce face multe minuni
+Toată suflarea din astă lume
+Proşterne-se cu-nchinăciuni
+Copii ai lui măriţi cântând
+Pe Tatăl, Fiu şi Duhul Sfânt
+/:Aleluia:/ /:Mărire Lui:/.
+
+[order]
+s1,s2

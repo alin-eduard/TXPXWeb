@@ -1,0 +1,43 @@
+[s1]
+1. Suferinţă şcoală sfântă
+Dar al Harului de sus
+Numai cei ce trec prin tine
+Semăna-vor cu Isus.
+2. Boaba lacrimei fierbinte
+Pe obrazul îndurerat
+Face sufletul mai vrednic
+Mai frumos şi mai curat.
+619.
+
+[s2]
+3. Suferinţă, taină adâncă
+Purtătoare de cununi
+Cei ce te-nţeleg pe tine
+Îi sfinţeşti, îi faci mai buni.
+4. Suferinţă, cale-ngustă
+Cu ocări cu spini şi cruci
+Câtă binecuvântare
+La copii tăi aduci.
+
+[s3]
+5. Îi încununezi cu cerul
+Şi le dai puteri de foc
+Câtă binecuvântare
+Le aduni Tu la un loc.
+6. Ce noian de bucurie
+Ce mărire pregăteşti
+Ce bucurie de lumină
+Pentru mine le-mplineşti
+
+[s4]
+7. Suferinţă, suferinţă
+Binecuvântată fii
+Pentru harurile tale
+Ce-n adâncul tău le ţii.
+8. Dă-mi răbdare şi putere
+Ca umblând pe drumul sfânt
+Să-mi port crucea suferinţei
+Fără murmur pe pământ.
+
+[order]
+s1,s2,s3,s4

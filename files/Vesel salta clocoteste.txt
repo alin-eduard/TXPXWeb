@@ -1,0 +1,35 @@
+[s1]
+Vesel saltă, clocoteşte,
+murmurând pe lângă stânci
+Şi iute se prăvăleşte
+pârâiaşu-n văi adânci.
+
+[r1]
+Mult îmi placi pârâu,
+pârâu de munte
+Apă rece din izvor curat,
+Pentru tine-nalţ, înalţ cântarea
+Slavă cui mi te-a creat!
+
+[s2]
+Vezi cum pasărea se-adapă
+din izvor răcoritor
+Şi deşi bea numai apă,
+cânt-aşa înveselitor.
+
+[s3]
+Hai, caută-ţi mantuirea
+Şi ieşi din amorţirea
+ce e-n viaţa ta!
+Căutaţi întai iubirea
+ce vă dă moştenirea
+Vieţii ascunse-n Dumnezeu!
+
+[s4]
+Apa mişcă lumea toată,
+iar celor ce beau din ea
+Le dă viaţă, sănătate
+apa-i băutura mea!
+
+[order]
+s1,r1,s2,s3,s4,r1

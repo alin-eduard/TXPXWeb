@@ -1,0 +1,27 @@
+[s1]
+Câtre Tine, Doamne, gândul mi-l îndrept
+Şi-n nădejde şi-n credinţă har aştept.
+Peste mine, vremuri grele au trecut;
+Tu mereu pe braţu-Ţi tare m-ai ţinut.
+
+[r1]
+Am trecut biruitor prin încercări;
+În ispite şi-n dureri mi-ai dat puteri.
+Astăzi, Doamne-Ţi mulţumesc
+Şi, plângând Te rog, Isuse, să mă ierţi
+Pasul meu mai sigur către cer să-ndrepţi.
+
+[s2]
+Anii au trecut de când Te-am cunoscut
+Prima dată, voia mi-ai descoperit.
+Ce uşoară cale-atunci mi s-a părut!
+Câte lupte, însă totuşi, am avut!
+
+[s3]
+Stau de multe ori gândind la voia Ta;
+Mă întreb de-i rea sau bună fapta mea
+Cât de mult cu firea eu mă războiesc!
+Numai Tu ştii, Doamne, cât de mult greşesc
+
+[order]
+s1,r1,s2,r1,s3,r1

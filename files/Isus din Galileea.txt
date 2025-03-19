@@ -1,0 +1,14 @@
+[s1]
+/: Isus din Galileea
+Este azi aici:/
+/: Lasă-L să te-atingă:/
+Şi vei fi eliberat!
+
+[s2]
+/: Ca la Rusalii Duhul Sfânt
+E azi aici:/
+/: Lasă-L să te-atingă:/
+Şi vei fi eliberat!
+
+[order]
+s1,s2

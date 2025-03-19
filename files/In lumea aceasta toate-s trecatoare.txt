@@ -1,0 +1,36 @@
+[s1]
+În lumea-aceasta toate-s trecătoare
+Se duc întruna, toate vor pieri
+Şi lucruri ce fac inima să doară
+Acolo sus vor fi doar amintiri.
+
+[s2]
+/: Dar pân-atunci,
+Voi lăuda pe Domnul!
+Ruga mea spre El se va-nălţa
+Până-n ‘cea zi
+Când în cer voi ajunge
+În ziua când Îl voi vedea! :/
+
+[s3]
+În lumea-aceasta toate-s trecătoare
+Durerile-s doar trepte tot mai sus.
+De-a lungul drumului ce mă conduce
+L-al meu Mântuitor iubit, Isus.
+
+[r1]
+/: Dar pân-atunci,
+Voi lăuda pe Domnul !
+Ruga mea spre El se va-nălţa
+Până-n ‘cea zi
+Când în cer voi ajunge
+În ziua când Îl voi vedea ! :/
+
+[s4]
+În lumea-aceasta toate-s trecătoare
+Necazul meu de azi va fi cândva.
+Cununa vieţii cea nemuritoare
+Ce Domnul în ceruri mie-mi va da.
+
+[order]
+s1,s2,s3,r1,s4,r1

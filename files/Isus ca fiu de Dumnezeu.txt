@@ -1,0 +1,31 @@
+[s1]
+Isus ca fiu de Dumnezeu,
+Purtându-mi crucea grea,
+Păcatul din adâncul meu
+Îl poate vindeca.
+De-alung de drum, în ceas durut, Aproape când Îl chem,
+Prin Duhul Sânt îmi este scut,
+De moarte nu mă tem.
+
+[s2]
+Spre-a nu rămâne-aşa cum sunt,
+O umbră pe pământ,
+El paşii mei purtaţi de vânt,
+I-a uns cu Spirit Sfânt!
+El pune har în lutul meu,
+El schimbă viaţa mea;
+Şi zilnic toarnă Duhul Său,
+Să-mi umple inima.
+
+[s3]
+Deşi eram un răzvrătit,
+Sunt azi învingător!
+Pe mine cerul m-a iubit,
+Şi m-a umplut de dor!
+Isus, Păstorul meu cel bun,
+Sus comoara mea!
+E tot ce astăzi pot să spun
+Şi alţii pot vedea.
+
+[order]
+s1,s2,s3

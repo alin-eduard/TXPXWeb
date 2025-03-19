@@ -1,0 +1,28 @@
+[s1]
+Cel care-a dat viata-n dar
+Cararea-ti va veghea mereu
+Si binecuvantari va da
+Caci te iubeste El dragostea
+Chiar daca lupta va fi mai grea
+Deci prin credinta te v-ajuta
+De Il iubesti numai pe El
+Invingator vei fi mereu
+
+[r1]
+El a promis prin Cuvantul Sau
+Va fi cu tine prin orice rau
+Sa-ti amintesti ca iti e sprijin
+E credinicios pan’ la sfarsit
+
+[s2]
+Tu nu uita ca dupa orice nor
+Mereu e-un soare stralucitor
+Raza lui calda te mangaie
+Si-ti da lumina, liniste
+Prin bratul Sau vei fi ridicat
+In jertfa sfanta de la Calvar
+Cu El de mana tu biruiesti
+Si viata vesnica primesti
+
+[order]
+s1,r1,s2,r1

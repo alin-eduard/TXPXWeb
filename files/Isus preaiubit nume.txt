@@ -1,0 +1,28 @@
+[s1]
+Isus, preaiubit nume
+Mântuitor Sfânt
+Din ceruri coborât
+Emanuel Fiul lui Dumnezeu
+Tu eşti Mesia eşti Domnul meu
+
+[s2]
+Isus ce bucurie
+Imi dai Tu mie
+Eşti viu pe totdeauna
+Rabuni stau la picioare
+In adorare şi mă închin
+
+[s3]
+Doamne nu mă desparte
+Nici plâns nici moarte
+Eşti viu pe totdeauna
+Rabuni eşti sursa vieţii
+Al dimineţii Lucafăr sfânt
+
+[s4]
+Isus, nume puternic minunat
+Salvator, triumfator Emanuel,
+Dumnezeu cu noi minunat Salvator, Cuvantul viu.
+
+[order]
+s1,s2,s3,s4

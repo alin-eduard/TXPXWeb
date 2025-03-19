@@ -1,0 +1,59 @@
+[s1]
+Cetate nouă,
+Cetate nouă
+Al cărei meşter ziditor
+Este Hristos
+849.
+DO minor
+
+[s2]
+/: Pe-această temelie au zidit
+Apostolii în şir şi martirii
+Prin faptele lor ei au dovedit
+Cu sângele lor zidul au stropit :/
+
+[s3]
+2. Cetate nouă,
+Locaş iubit
+A cărui lumină
+Este Hristos
+
+[s4]
+/: Şi ani de-a rândul
+De atunci s-au scurs
+Mereu prin lupte
+Tot zidim mai sus
+Până-n zilele noastre de acum
+Zidim şi noi mereu
+Pe-acelaşi drum :/
+
+[s5]
+3. Locaş iubit
+De noi dorit
+Din pietre vii
+E tare construit
+
+[s6]
+/:Chiar vânturi şi furtuni
+De ar lovi
+Această temelie n-or strivi
+Căci meşter ziditor
+Este Hristos
+Şi zidul este tare
+şi stâncos :/
+
+[s7]
+4. La muncă haideți
+Cu toţii astăzi
+Să zidim
+Ce mai este de zidit
+
+[s8]
+/: Când viaţa-aceasta
+Se va termina
+Acolo nunta noi o vom serba
+A meşterului nostru ziditor
+Isus Hristos al nost' Mântuitor :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

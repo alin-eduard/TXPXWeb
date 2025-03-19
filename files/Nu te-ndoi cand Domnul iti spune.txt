@@ -1,0 +1,38 @@
+[s1]
+Nu te-ndoi cînd Domnul îţi spune
+Căci biruinţă vei avea.
+Nu te-ndoi, căci El e cu tine
+Şi tu vei sta la dreapta Sa.
+/: Vei birui, vei birui
+Cînd Domnul e cu tine,
+nu te-ndoi! :/
+
+[s2]
+Nu te-ndoi cînd se ridică
+Culmi în contra ta
+De oameni să nu-ţi fie frică
+Căci Isus te va ajuta.
+/: Vei birui, vei birui
+Cînd Domnul e cu tine,
+nu te-ndoi! :/
+
+[s3]
+Nu te-ndoi cînd rugăciunea
+Nu-şi va primi răspuns pe loc
+Chiar dacă-ntîrzie minunea
+Tu roagă-te şi mai cu foc.
+/: Vei birui, vei birui
+Cînd Domnul e cu tine,
+nu te-ndoi! :/
+
+[s4]
+Nu te-ndoi cînd suferinţa
+Se pare fără de sfîrşit
+În urmă vine biruinţa
+Oricît ai fi de obosit.
+/: Vei birui, vei birui
+Cînd Domnul e cu tine,
+nu te-ndoi! :/
+
+[order]
+s1,s2,s3,s4

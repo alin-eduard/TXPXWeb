@@ -1,0 +1,39 @@
+[s1]
+Eu n-am ce-ţi da, ISUSE.
+Sunt săracă.
+N-am vas de albastru şi
+n-am nici parfum.
+Nici n-am curajul
+ca să-ţi spăl cu lacrimi
+Picioarele de praful de pe drum;
+ISUSE, praful de pe drum!
+
+[s2]
+Eu n-am nimic,
+nimic de preţ pe lume,
+Nimica scump,
+să pot să-ţi dăruiesc.
+Sunt o fiinţă tristă şi străină.
+Dar, o, ISUSE, ştii cât Te iubesc!
+ISUSE, ştii cât Te iubesc!
+
+[s3]
+Dac-aş putea din flori,
+să-Ţi fac cunună
+Să pot să Ţi-o aşez cu mâna mea
+Dac-aş putea din nori
+să-Ţi ţes o haină
+Şi, fericită, Ţie s-o pot da;
+ISUSE, Ţie s-o pot da.
+
+[s4]
+Ar fi puţin, ISUSE, pentru Tine,
+Cununi de flori şi chiar
+cununi de stele.
+Dar, n-am nimic,
+ci-Ţi dau numai atâta:
+Un şir de lacrimi; lacrimile mele ;
+ISUSE, lacrimile mele.
+
+[order]
+s1,s2,s3,s4

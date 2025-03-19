@@ -1,0 +1,68 @@
+[s1]
+1465.
+Stă măicuţa lângă Fiu
+/:Şi plânge necontenit:/
+Spune-mi Fiul meu iubit
+Pentru ce eşti necăjit
+Şi nu vrei ca să mănânci
+Căci de 40 de zile
+Mi-ai rupt inima în mine
+
+[s2]
+N-ai băut nici n-ai mâncat
+Numa-n rugăciuni ai stat
+Spune-mi Fiul meu iubit
+Luni şi Marţi ce-ai pătimit
+Îţi spun maică nu minţesc
+Luni şi Marţi mă pregătesc
+Eu mă pregătesc de moarte
+Să scap lumea de păcate.
+
+[s3]
+Spune-mi Fiul meu iubit
+Miercuri ce ai de părimit
+Îţi spun eu măicuţa mea
+De Miercuri nu mai vedea
+Mă duc Maică la Pilat
+Să scap lumea de păcat
+Mă duc să fiu răstignit
+Pentru lumea ce-a greşit
+
+[s4]
+Spune-mi Fiul meu iubit
+Joi ce ai de pătimit
+Joi sunt dat în judecată
+De Pilat şi a lui ceată
+Spune-mi Fiul meu iubit
+Vineri ce-ai de pătimit
+Îţi spun maică cu durere
+Că vineri sunt vremuri grele
+
+[s5]
+Când va fi chinul mai mare
+N-o fi lună şi nici soare
+Soarele s-antuneca
+Cu spini m-or încorona
+Spune-mi Fiul meu iubit
+Sâmbătă ce-ai de pătimit
+Îţi spun maică adevărat
+Sâmbătă voi fi-ngropat.
+
+[s6]
+11.  Spune-mi Fiul meu iubit
+Duminica ce ai de pătimit
+Eu îţi spun măicuţa mea
+Duminică voi învia
+12.  Şi vin cu putere mare
+Să scap lumea de pierzare
+Vai creştini de pe pământ
+Fiul meu ce-a suferit
+
+[s7]
+A suferit şi a răbdat
+Până v-am răscumpărat
+Şi acum voi Îl răstigniţi
+Prin păcatul ce-l greşiţi
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

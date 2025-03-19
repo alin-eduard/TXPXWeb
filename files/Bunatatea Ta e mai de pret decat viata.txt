@@ -1,0 +1,20 @@
+[s1]
+Bunătatea Ta e mai de preţ decît viaţa
+Buzele mele cîntă lauda Ta.
+Te voi binecuvînta, da, toată viaţa mea
+Şi în Numele Tău îmi ridic mîinile !
+E sufletul meu plin de veselie
+Şi zi şi noapte eu la Tine mă gîndesc.
+Aleluia, Aleluia, Aleluia, Aleluia !
+
+[s2]
+Eşti Dumnezeu, eu pe Tine te caut
+Vezi, sufletul meu este însetat
+Să-Ţi văd puterea şi sfînta Ta slavă
+Şi doar atunci lăuntrul meu e alinat.
+Şi cu un strigăt de bucurie
+/: Cînta-voi Ţie şi cu Tine mă voi făli ! :/
+Aleluia, Aleluia, Aleluia, Aleluia !
+
+[order]
+s1,s2

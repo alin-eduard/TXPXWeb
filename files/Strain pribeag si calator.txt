@@ -1,0 +1,37 @@
+[s1]
+Străin, pribeag şi călător
+Sunt eu pe-acest pământ;
+Călăuzit de-un singur dor,
+S-ajung în cerul sfânt.
+
+[r1]
+Împărăţia Ta, o, Doamne, o doresc,
+Şi cât aş vrea s-ajung în ea
+Acolo să trăiesc !
+
+[s2]
+Chiar drumul greu şi plin cu spini
+Se va sfârşi-n curând
+Şi-n ţara Ta, plină de crini
+M-oi odihni-n curând.
+
+[s3]
+Cu toţi acei ce Te-au urmat
+Prin lumea de dureri;
+Îţi vom cânta neîncetat,
+Frumoase, dulci cântări.
+
+[s4]
+Dar fă să vină mai curând
+Împărăţia Ta,
+Căci ard de dor tot aşteptând,
+Şi crucea-i tot mai grea.
+
+[s5]
+Ce frumuseţi de nedescris
+Acolo-n veci vor fi.
+Căci, Tu Isuse, drag şi scump,
+Tu, vei împărăţi !
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

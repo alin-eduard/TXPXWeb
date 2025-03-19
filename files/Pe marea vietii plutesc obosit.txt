@@ -1,0 +1,44 @@
+[s1]
+Pe marea vieţii plutesc obosit
+De valuri sînt ameninţat.
+N-am nici o şansă ca să fiu salvat
+Nu-i nimeni să-mi dea ajutor.
+
+[s2]
+Atunci eu strig către Isus,
+către al meu Mîntuitor
+El linişteşte mările pe loc !
+Cu-al Său Cuvînt măreţ şi sfînt El dirijează orice vînt
+/: Slăvit să fie Numele Lui Sfînt ! :/
+În veci de veci, da, să fie mărit !
+
+[s3]
+Cînd munţii-nalţi se cutremură toţi
+Atunci eu mă rog lui Isus.
+El mă ridică dar cu mîna Sa
+Şi mă ocroteşte cu ea.
+
+[s4]
+Atunci eu strig către Isus,
+către al meu Mîntuitor
+El linişteşte mările pe loc!
+Cu-al Său Cuvînt măreţ şi sfînt El dirijează orice vînt
+/: Slăvit să fie Numele Lui Sfînt! :/
+În veci de veci, da, să fie mărit!
+
+[s5]
+/: Printr-un cuvînt eu sînt salvat
+De cel ce m-a răscumpărat
+Numele Lui fie lăudat în veci ! :/
+Pe El Îl voi cînta mereu
+El e Mîntuitorul meu
+Numele Lui fie lăudat în veci !
+Printr-un cuvînt eu sînt salvat
+De cel ce m-a răscumpărat
+Numele Lui fie lăudat în veci !
+/: Slăvit să fie Numele Lui Sfînt !
+Slăvit să fie Numele Lui Sfînt !
+În veci de veci, da, să fie mărit ! :/
+
+[order]
+s1,s2,s3,s4,s5

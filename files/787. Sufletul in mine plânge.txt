@@ -1,0 +1,42 @@
+[s1]
+1. Sufletul în mine plânge
+Când se varsă al Său sânge
+Pentru sângele vărsat
+Pentru al meu şi al tău păcat.
+787.
+
+[r1]
+Cor:Ah, cum m-aş duce
+Până la cruce
+Să-I văd /: coroana Lui :/
+Să-I văd eu spinii
+Ce I-au pus păgânii
+Pe capul Domnului Isus,
+A lui Isus.
+
+[s2]
+2. Dar El tace şi nu plânge
+Deşi trupu-i plin de sânge
+Pentru mine, pentru tine
+A băut el greu pahar.
+
+[s3]
+3. Plânge soarele şi luna
+Că văd că-i prea grea cununa
+Sus pe cruce mâinile
+I-au străpuns picioarele.
+
+[s4]
+4. El ce mările-şi adapă
+Şi nu le ajunge apă
+Ei oţet i-au dat să bea
+Că apa nu le ajungea.
+
+[s5]
+5. Sus pe dealul Căpăţânii
+Ni l-au răstignit păgânii
+Sus pe cruce sus Isus
+Între doi tâlhari l-au pus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

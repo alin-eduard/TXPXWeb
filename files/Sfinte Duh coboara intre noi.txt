@@ -1,0 +1,20 @@
+[s1]
+Sfinte Duh coboară între noi
+Tu ne eşti mângâietor
+Şi al nostru ajutor,
+Sfinte Duh coboară între noi.
+
+[s2]
+Cu puterea Ta, cu prezenţa Ta
+Astăzi te rugăm
+Să ne schimbi inima,
+Duh Sfânt, vino.
+
+[s3]
+Tot ce vedem şi auzim
+Ceea ce ştim, din Tine primim.
+Deschide azi cerul căci suntem ai Tăi,
+Toarnă al iubirii belşug peste noi
+
+[order]
+s1,s2,s3

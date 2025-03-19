@@ -1,0 +1,33 @@
+[s1]
+1. Râul binecuvântării,
+Revarsă peste lume !
+Timpul ploii fă să vie,
+Locu-nsetat să-l ude.
+469.
+Cor: Doamne, revarsă !
+Duhul promis, ca pe-un râu,
+Şi-un strop încă-i fericire,
+Dă-ne-n de-ajuns Duhul Tău!
+
+[s2]
+2. Râul binecuvântării,
+Vuieşte de departe;
+Vino-n inimi păcătoase;
+O, Duh Sfânt pogoară-Te!
+Cor: Doamne, revarsă !
+Duhul promis, ca pe-un râu,
+Şi-un strop încă-i fericire,
+Dă-ne-n de-ajuns Duhul Tău!
+
+[s3]
+3. Râul binecuvântării,
+Peste noi azi revarsă;
+Acum noi plecaţi Te rugăm,
+Căci inima-i deschisă.
+Cor: Doamne, revarsă !
+Duhul promis, ca pe-un râu,
+Şi-un strop încă-i fericire,
+Dă-ne-n de-ajuns Duhul Tău!
+
+[order]
+s1,s2,s3

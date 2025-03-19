@@ -1,0 +1,36 @@
+[s1]
+Cu Tine-n gând, Te chem să vii
+Să-mi aperi viaţa de-orice cuget rău
+Te chem din zări de flori şi simfonii
+Cu îngeri albi plutind în jurul Tău.
+
+[r1]
+/: Cu Tine-n gând,
+viaţa e ca-n Paradis
+De-acum şi până-n
+cer când vom sosi. :/
+
+[s2]
+Cu Tine-n gând, Te chem sfios
+Privind sub pleoape cerul înstelat
+Cu Tine orice gând e-un vis frumos
+Şi orice vis frumos e-adevărat.
+
+[s3]
+Cu Tine-n gând, Isus, aş vrea
+Un psalm de har să fie viaţa mea
+Doar “Nu” să spun
+atunci când Tu spui “Nu”
+Şi “Da” să spun
+la orice spui Tu “Da”
+
+[s4]
+/: Cu Tine-n gând,
+viaţa e ca-n Paradis
+De-acum şi până-n cer când vom sosi.
+Cu Tine-n gând, zburăm
+şi azi spre căi de vis
+Şi iar cu Tine-n gând în zori de zi. :/
+
+[order]
+s1,r1,s2,r1,s3,s4

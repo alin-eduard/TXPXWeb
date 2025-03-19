@@ -1,0 +1,43 @@
+[s1]
+1437.
+Pentru mine la Golgota
+Merge Domnu-n locul meu
+Ca să moară sus pe cruce
+Ca să fiu salvat şi eu
+Toţi îşi vedeau de a lor treburi
+În robie întunecaţi
+/:Tatăl a făcut să cadă
+Peste El al meu păcat:/
+
+[s2]
+Urcă crucea pentru mine
+Din iubire a murit
+Şi cu palmele străpunse
+Sus o casă mi-a zidit
+Sângele curgea şiroaie
+Jos pe lemnul cel uscat
+/:Îi privea pe toţi cu milă
+Pentru noi viaţa Şi-a dat:/
+
+[s3]
+Omule azi te întoarce
+Lasă lumea cu ale ei
+Ei îşi zic că toate-s bune
+Şi spre iad cu avânt se duc
+Eşti un om şi în ţărână
+Vei fi mâine coborât
+/:Oamenii o să te uite
+Domnul însă El nicicând:/
+
+[s4]
+Cum s-a dus El ca să rabde
+Pe când eu de El râdeam
+Suspinând privea la mine
+Ochii Lui lacrimi vărsau
+Vreau şi eu sus la Golgota
+Pentru al meu păcat să plâng
+/: Să mă ierte şi pe mine
+Şi cu El vreau să rămân:/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,45 @@
+[s1]
+Doi tineri astazi pleaca
+pe-un drum necunoscut
+N-au stiut niciodata
+ce va fi la-nceput
+Şi-n drumul lor de-acuma
+condu-i mereu, mereu
+Să poarte ei cununa
+in Paradisul nou.
+
+[r1]
+/: Domnul să fie cu voi mereu,
+dorim ca să fie
+El să va dea din cer a Sa bucurie :/
+
+[s2]
+Pentru mireasă-acum
+avem doar un cuvânt
+Tu esti a lui aleasă
+de-acum pân, la mormânt.
+Tu ai o datorie să il iubesi mereu
+El pentru tine fie
+ca Sarei Avraam.
+
+[s3]
+Pentru mire acum
+avem ceva de spus
+Iubeste-ti, tu, mireasa
+precum a spus Isus.
+Totdeauna fiti una,
+nedespartiti mereu
+Şi veti primi cununa
+chiar de la Dumnezeu.
+
+[s4]
+Şi-acum la incheiere
+mai avem o dorinta:
+Când vor fi-n incercare,
+da-le biruinta.
+Coboara Tu din ceruri
+l-această pereche
+Tu astazi poti să le dai binecuvântare.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

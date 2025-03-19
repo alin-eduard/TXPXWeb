@@ -1,0 +1,26 @@
+[s1]
+Noi am păşit deja pe calea strîmtă
+Pentru Hristos la lume-am renunţat
+Nu renunţăm la-această cale sfîntă
+Căci pace-n suflet aici am aflat.
+
+[r1]
+/: Ce minunat să stai cu Domnul Isus
+La masa Sa bogat să te hrăneşti!
+Cînd eşti cu El, necazurile-s duse
+Şi chiar de-ar fi, prin El le biruieşti! :/
+
+[s2]
+La început a fost cam greu pe cale
+Căci patimi multe ne trăgeau în jos
+Dar am păşit ,nainte cu răbdare
+Şi am privit la ceruri spre Hristos.
+
+[s3]
+Am fost în lume, ştiu ce poate să-mi dea
+Nemulţumiri şi goană după vînt
+Se luptă toţi s-ajungă la-nălţime
+Nesocotind iubirea Celui Sfînt.
+
+[order]
+s1,r1,s2,r1,s3,r1

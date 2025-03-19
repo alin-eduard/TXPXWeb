@@ -1,0 +1,28 @@
+[s1]
+1. Două mii de ani se împlinesc
+De când Isus cheamă suflete
+Din mocirla vechiului păcat
+Care astăzi mântuire vrea.
+328.
+
+[r1]
+Cor: Isus cheamă şi azi cheamă
+Orice suflet care zace în păcat
+Harul Lui milă mai are
+Deci te-ntoarce
+Cât mai ţine al său har.
+
+[s2]
+2. Anii tăi s-au scurs din viaţa ta
+Refuzând sfânta chemarea Sa
+Glasul Lui te cheamă azi să vii
+Vino astăzi până nu-i târziu.
+
+[s3]
+3. Vino astăzi, vin degrabă
+Lui Isus închină-i viaţa ta
+Crede-n jertfa de pe cruce
+Jertfa sfântă care-ţi dă mântuirea.
+
+[order]
+s1,r1,s2,r1,s3,r1

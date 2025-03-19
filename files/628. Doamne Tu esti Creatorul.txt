@@ -1,0 +1,63 @@
+[s1]
+Doamne Tu eşti Creatorul
+Ajutorul meu cel bun
+Azi Te cheamă-ntreg poporul
+Să cobori la noi acum.
+La necaz şi strâmtorare
+Suferinţe, prigoniri
+Azi copii Tăi Te cheamă
+Ridicând a lor priviri.
+628.
+
+[s2]
+2.   Către Tine o Isuse
+Către tronul Tău divin
+Aşteptând clipa măreaţă
+Când Tu vii ca să ne iei
+Azi Te cheamă în durere
+La inima tuturor
+Zile-ntregi de amăgire
+Sunt peste întreg popor.
+
+[s3]
+Căci cu lacrimi cupa-i plină
+La atâţia de aici
+Chemându-Te din durere
+Doamne-n ajutor să vii
+Căci la capătul durerii
+Doamne mulţi Te vor chema
+Doamne umple-ne candela
+Cu putere şi cu har.
+
+[s4]
+Vino azi la scăldătoare
+Să vezi rănile ce dor
+Trimite azi mângâiere
+Medic bun şi iertător
+Întăreşte-ne credinţa
+Prin atâtea încercări
+Azi trimite-ne Salvarea
+Medic bun şi Salvator.
+
+[s5]
+Căci atâţia zac pe paturi
+Doamne Te-aşteptăm să vii
+Fie-Ţi milă de noi Doamne
+Căci suntem ai Tăi copii
+Căci Tu treci în cercetare
+La inima tuturor
+Orice suflet care strigă
+La Tine bun Salvator.
+
+[s6]
+Azi prin dulcele-ţi cuvinte
+Te rugăm la noi să vii
+Să torni Tu din Duhul Slavei
+Să ne faci mari bucurii
+Doamne ascultă-ne din ceruri
+Azi cu toţii Te rugăm
+Vino Mire-al îndurării
+Adu ziua ce-aşteptăm.
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,56 @@
+[s1]
+Domnul e aici, caci i-am simtit fiorul
+Domnul e aici il simte tot poporul
+/: De la doi sau trei in al Sau cuvant
+E prezent si El prin Duhul Sfant. :/
+
+[r1]
+/: Osana, canta adunarea
+Osana, sa rasune zarea,
+Osana, o ce har nespus
+E prezent la noi acum Isus. :/
+
+[s2]
+Domnul e aici a exclamat si Iacov
+Cand dormea fugar pe piatra capatai,
+/: Domnul e aici, azi in templul Lui
+aici e scara cerului. :/
+
+[s3]
+Crede ca e-aici frate cu tarie
+Mana s-o ridici pentru vesnicie
+/: Domnul te-a iubit si te-a mantuit
+Fie-I numele in veci slavit :/
+
+[s4]
+/: Prin orice făptură
+Şi-orice creatură,
+E toata mărirea Ta
+Întreaga natură,
+Orice limbă şi gură
+Îţi cântă aleluia. :/
+
+[r2]
+/: Osana :/
+Eşti vrednic să fii lăudat,
+/: Osana :/
+Fii binecuvântat.
+
+[s5]
+/: Privind tot înaltul,
+Ca Tine nu-I altul,
+Preasfânt si înălţat
+Să vadă oricine,
+Că nu-I nimeni ca Tine
+Deci Doamne fii lăudat. :/
+
+[s6]
+/: Minuni şi mistere
+Şi-o mare putere,
+E tot ce-nfăptuieşti
+Ce planuri măreţe,
+De noi ne-nţelese
+Tu Doamne le întocmeşti. :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r2,s5,r2,s6,r2

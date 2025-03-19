@@ -1,0 +1,32 @@
+[s1]
+Suflete, vino la Isus
+Predă-I lui sarcina ta!
+El vrea să te nasca de sus
+Si să-ţi dea pacea Sa.
+
+[s2]
+Vino nu-ntarzia!
+Auzi cum te cheama El;
+Caută mântuirea ta
+La Isus, la sfântul Miel!
+
+[s3]
+Auzi, glasul lui răsună
+şi te cheamă ne’ncetat;
+Vin’ la El acum,amice!
+Vino! Azi vei fi iertat.
+
+[r1]
+Vino nu-ntarzia!
+Auzi cum te cheamă El;
+Caută mântuirea ta
+La Isus, la sfântul Miel!.
+
+[s4]
+Maine poate-ntârzierea
+De azi, rău o s-o plăteşti
+Căci, doar astăzi încă-I milă
+Astăzi, să te pocăieşti
+
+[order]
+s1,s2,s3,r1,s4,r1

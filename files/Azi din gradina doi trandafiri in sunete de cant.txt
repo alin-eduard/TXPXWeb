@@ -1,0 +1,57 @@
+[s1]
+Azi, din grădină, doi trandafiri,
+în sunete de cânt,
+Păşesc 'nainte, înmiresmaţi,
+să facă legământ.
+Sunt smulşi uşor, la timpul lor,
+ca un buchet de flori;
+În Faţa Ta, o, Doamne,
+aşteaptă, bogatele-Ti comori.
+
+[s2]
+Chiar de vine vânt, furtună,
+să staţi neclintiţi.
+De ispite şi-ncercare, nu fiţi biruiţi!
+Înainte mergi, o,
+Doamne, soare sfânt le fi
+Şi, pe calea Ta păşească,
+plini de bucurii, până-n veşnicii!
+
+[s3]
+Voi faceţi legământ,
+păstraţi-l deplin, pan' la sfârşit!
+Să se-nnoiască, nu se-nvechească,
+rămână neclintit!
+În veşnicie ce o să vie,
+veţi fi mult răsplătiţi;
+Şi-aici, în viaţă, din suferinţe,
+veţi fi dar izbăviţi.
+
+[s4]
+În necazuri, Tu ascultă-i!
+Dă-le ajutor!
+Braful Tău să-i sprijinească,
+din al Tău Sion!
+Dă-le propăşire-n lucrurile ce rămân!
+Să primeşti si a-lor arderi, când ei Ţi le-ncnin, Preamărit Stăpân!
+
+[s5]
+La nunta voastră,
+chemăm acuma pe toţi acei care vor
+Să creadă-n Tine,
+să Te primească ca Sfânt Mântuitor,
+Tu vii din slavă, cu răsplătire,
+iar toţi cei mântuiţi
+Vor fi Mireasă, în Ţara Păcii,
+şi veşnic fericiţi!
+
+[s6]
+Nu e mult şi nunta sfântă vom sărbători;
+Mire, Tu vei fi, Isuse!
+Veşnic vom privi
+Tronul sfanţ cu strălucirea raiului de sus.
+Cât de minunat, în slavă,
+vei domni nespus, Preamărit Isus!
+
+[order]
+s1,s2,s3,s4,s5,s6

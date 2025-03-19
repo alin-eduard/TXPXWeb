@@ -1,0 +1,38 @@
+[s1]
+1. Tăria noastră fii mereu,
+Să trecem astăzi drumul greu!
+/: Şi-n clipe grele şi nevoi
+Revarsă /: pace :/
+Pace peste noi!:/
+148.                   Re m
+
+[s2]
+2. Ascultă-ne când ne rugăm!
+Răspunde-ne când Te chemăm!
+/: Şi dacă vom fi, Doamne, doi
+Revarsă /: pace :/
+Pace peste noi!:/
+
+[s3]
+3. Iubirea Ta de Dumnezeu
+Rămâne-n inimă mereu
+/: Şi până-n ziua de apoi
+Revarsă /: pace :/
+Pace peste noi!:/
+
+[s4]
+4. Aproape fii de cei sărmani!
+Fii mângâiere la orfani!
+/: Şi unde sunt lacrimi şi-amar,
+Revarsă /: pace :/, pace
+Și-al Tău har!:/
+
+[s5]
+5. Păstrează-ne sub scutul Tău!
+Noi Te rugăm în gand mereu
+/: Şi inima Ţie Ţi-o dăm
+Revarsă pace pace
+Pace să avem.:/
+
+[order]
+s1,s2,s3,s4,s5

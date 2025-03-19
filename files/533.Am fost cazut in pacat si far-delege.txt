@@ -1,0 +1,49 @@
+[s1]
+1.   Am fost căzut
+În păcat şi făr-delege
+Căzut, înfăşurat
+În groapa de păcat
+Am fost căzut
+Şi-nfăşurat în făr-delege
+/: Dar Dumnezeu :/
+El, m-a scăpat!
+533.      							 Re m
+
+[r1]
+Cor: Am zidit un altar în inima mea
+Fiindcă Domnul
+Mi-a dat mântuirea
+Şi acestui altar i-am pus nume eu
+/: Dumnezeu :/
+Dumnezeu e steagul meu!
+
+[s2]
+2. Am fost căzut
+Fără speranţe de scăpare
+De-a mai putea fi ridicat
+Şi vindecat
+Dar, Dumnezeu cu mâna Lui
+Sfântă şi tare
+/: El m-a atins :/ şi m-a salvat.
+
+[s3]
+3. Am fost căzut
+În noaptea lungă de-ntuneric
+Dar nimeni-n lumea asta
+Nu m-a ajutat
+Dar Dumnezeul meu cel viu,
+Veşnic şi mare
+/: Viaţă mi-a dat :/ şi m-a iertat.
+
+[s4]
+4. Eu voi privi
+La Domnul Isus totdeauna
+Căci a murit
+Pe cruce-n locul meu şi al tău
+Eu voi privi
+Şi voi striga la El întruna
+/: Căci Dumnezeu :/
+E steagul meu!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

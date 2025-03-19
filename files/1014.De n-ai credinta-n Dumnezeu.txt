@@ -1,0 +1,33 @@
+[s1]
+1.   De n-ai credinţă-n Dumnezeu
+Apoi să ştii fratele meu
+Căci orişicât te-ai osteni
+Tu fericit nu vei mai fi.
+2.   Chiar dacă ai fi un om bogat
+Să ai averi, să ai palat
+La ce folos, la ce folos
+Când n-ai pe Domnul Isus Hristos.
+1014.
+
+[s2]
+3.    Chiar dacă ai fi un om sărman
+Şi-n casa ta n-ar fi un ban
+Când ai pe Domnul Savaot
+Eşti fericit şi-ai găsit tot.
+4.     Vai, câţi sunt azi care se zbat
+Ca valul mării pe uscat
+Însă trăiesc cum e mai rău
+Fiindcă n-au pe Dumnezeu.
+
+[s3]
+5.          Să ne rugăm şi pentru ei
+Ca Dumnezeu iubiţii mei
+Prin Duhul Său ocrotitor
+Să lumineze mintea lor.
+6.          Să ne rugăm neîncetat
+Ca bunul nostru Împărat
+Pe toţi să-i scoată la liman
+Din cursa celui viclean.
+
+[order]
+s1,s2,s3

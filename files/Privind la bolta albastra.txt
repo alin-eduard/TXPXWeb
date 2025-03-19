@@ -1,0 +1,41 @@
+[s1]
+Privind la bolta albastra
+Nu pot sa nu slavesc
+Lucrarea Ta maiastra,
+o creator ceresc
+De-atata armonie
+eu grijile-mi destram
+Si plin de bucurie
+Eu fericit exlam
+
+[r1]
+/:Esti cel mai frumos
+si nimeni nu-I ca Tine
+Iti canta florile, Te-adora zorile
+Esti cel mai frumos
+Esti cel mai frumos, maret si inaltat
+Din tot ce-ai creat esti Doamne minunat
+Esti cel mai frumos:/
+
+[s2]
+De atata maretie sunt
+Doamne coplesit
+Si-Ti cant mereu doar Tie,
+o Tatal meu iubit
+Cand razele de soare,
+zambind imi bat in geam
+Ma-alint in a cea splendoare
+si fericit exclam
+
+[s3]
+Spre bolta cea senina,
+spre cerul infinit
+Un pumn firav de tina,
+de Tine plamadit
+M-avant dorind fierbinte
+sa pot sa Te-ntalnesc
+Pe Tine drag Parinte,
+si-n taina sa-Ti soptesc
+
+[order]
+s1,r1,s2,r1,s3,r1

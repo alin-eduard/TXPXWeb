@@ -1,0 +1,36 @@
+[s1]
+950.
+1.  De mult mă lupt şi mă trudesc
+De mult eu tot călătoresc
+Şi-abia aştept ca să sosesc
+Puţin cu voi să odihnesc în Domnul.
+2.  De când aici ne-am adunat
+Noi mult nu mai avem de stat
+Căci vom pleca în veşnicie
+De ne-om întâlni Domnul ştie,
+Numai Domnul.
+
+[s2]
+3.	Iar cei ce stau în stânga jos
+Plânset şi vaiet dureros
+Sunt toţi cei ce au tăgăduit
+Şi au respins pe Mielul Sfânt,
+Pe Domnul.
+4.	Isuse Doamne Tu cunoşti
+Cugetele fraţilor noştri
+Tu dă-ne nouă să gândim
+Şi Ţie Doamne să-Ţi slujim în veci.
+
+[s3]
+5.	Ah, fraţilor, surorilor
+Şi voi scumpi prietenilor
+Încât aici ne-am adunat
+Cântarea mea
+Eu am cântat de Domnul.
+6.  Însă acuma eu pornesc
+Şi de voi mă despărţesc
+Isus să fie preamărit
+Tatăl, Fiul şi Duhul Sfânt în Domnul.
+
+[order]
+s1,s2,s3

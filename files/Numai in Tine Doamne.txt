@@ -1,0 +1,34 @@
+[s1]
+Numai în Tine, Doamne,
+Eu voi nădăjdui,
+Nimeni sub cer, alt bine
+Nu şi­-ar putea dori.
+Dragostea şi lumina
+Ce­-n Tine le găsesc,
+Spre casa Ta divină
+Azi mă călăuzesc.
+
+[s2]
+Numai în Tine, Doamne,
+Eu voi nădăjdui,
+Nimeni sub cer alt bine
+Nu şi­-ar putea dori.
+
+[s3]
+Mi­-ai oferit salvare
+Prin sângele­-Ţi vărsat
+Ce şterge orice pată
+Şi spală de păcat.
+Tu, Dătător al vieţii,
+În locul meu Te­-ai dat,
+Tu mi­-ai iertat trecutul
+Şi m­ai răscumpărat.
+
+[s4]
+Numai în Tine, Doamne,
+Eu voi nădăjdui,
+Nimeni sub cer alt bine
+Nu şi-­ar putea dori.
+
+[order]
+s1,s2,s3,s4

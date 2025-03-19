@@ -1,0 +1,29 @@
+[s1]
+La b
+1. Sus la lucru amice creştine,
+Miluieşte şi fă tot bine
+Serveşte-L pe Domnul cu averea
+Nu-L înşela oprind partea Sa.
+228.
+
+[r1]
+Cor: Dacă dăruieşti,
+Tu în schimb primeşti
+Bunuri dulci cereşti,
+Isus, El îţî va da
+Pace în inima ta!
+
+[s2]
+2. Averea ta nicicând nu va scădea
+Când pe Domnul Îl vei ajuta,
+Căci El toate-ţi înmulţeşte ţie
+Ca şi pâinile în pustie.
+
+[s3]
+3. Dacă partea Domnului o opreşti
+Nicicând n-o să te îmbogăţeşti,
+Căci Domnul suflă ce agoniseşti
+Şi tu fericirea n-o găseşti.
+
+[order]
+s1,r1,s2,r1,s3,r1

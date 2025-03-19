@@ -1,0 +1,39 @@
+[s1]
+1
+Sufletul meu e cuprins
+De-o-ntristare de moarte.
+Rămâneţi aici şi vegheaţi
+Vegheaţi ca să nu mai cădeţi în ispită
+Şi-n rugă fierbinte-L chemaţi.
+
+[s2]
+2
+Chemaţi-L pe Cel
+Care stinge durerea
+Şi’ nalţă pe cel umilit
+/: Pe Cel ce trimite din cer izbăvirea
+Şi-ascultă suspinul
+Când te simţi părăsit :/
+
+[s3]
+3
+Ajută-mi, o Doamne,
+Şi dă-mi a Ta izbândă
+Legaţi cu funii jertfa
+Târâţi-o spre altar.
+Ah, cum voi bea paharul
+Cumplit al suferinţei
+Când voi cădea sub cruce
+Urcând al meu Calvar?
+
+[s4]
+4
+Dar Tu mi-ai dezlegat
+Mănunchiul meu de jale
+/: Cu bucurie m-ai încins,
+Păcatul, moartea, le-am învins
+Şi-n slăbiciuni de-am fost cuprins
+Tu mi-ai ieşit în cale. :/
+
+[order]
+s1,s2,s3,s4

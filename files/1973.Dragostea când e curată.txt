@@ -1,0 +1,45 @@
+[s1]
+1973
+1. Dragostea când e curată
+Nu lipseşte niciodată
+Nu-s nici ziduri nici poveri
+S-o oprească nicăieri.
+
+[s2]
+2. Dragostea când e fierbinte
+Arde-n ochi şi arde-n cuvinte
+Arde-n lacrimi şi cântări
+Slava fericitei  stări.
+
+[s3]
+3. Dragostea când e frumosasă
+E smerită şi duioasă
+Credincioasă rămânând
+Pân la moarte-n primul gând.
+
+[s4]
+4. Dragostea când e deplină
+E tăcută şi senină
+Şi-şi dă anii minunaţi
+Pentru cer şi pentru fraţi.
+
+[s5]
+5. Dragostea când este bună
+Poartă jugul împreună
+Duce până la sfârşit
+Crucea lângă cel iubit.
+
+[s6]
+6. Dragostea când e cerească
+Face sufletul să crească
+Pân’ ajunge luminos
+Una-n umblet cu Hristos.
+
+[s7]
+7. Dragostea când este-ntreagă
+De Hristos n-o mai dezleagă
+Nici tăcere nici cuvânt
+Nici viaţă nici mormânt.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

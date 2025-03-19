@@ -1,0 +1,23 @@
+[s1]
+Re M
+1.Tu ai venit pe pământ să ne înveți
+Ce înseamnă să ierți,
+Ne-ai dăruit viața Ta, să ne arăți
+Ce înseamnă dragostea.
+
+[r1]
+/:Pentru Tine lumea s-a schimbat,
+Ai fost Omul fără de păcat!
+Ești lumina și cuvântul Tatălui!
+Tu ești Fiul Celui Preaslăvit,
+Te-ai născut pentru a ne mântui
+Lăudat să fie Domnul, slavă Lui!:/
+
+[s2]
+2. Isuse Sfant, Te-ai născut și ai fost trimis
+Să suferi pe pământ.
+Nimeni, nimic, nu Te-a învins,
+Am crezut și cred în Tine zi de zi.
+
+[order]
+s1,r1,s2,r1

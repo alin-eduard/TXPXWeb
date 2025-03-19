@@ -1,0 +1,17 @@
+[s1]
+Ca un soare strălucind
+Mă înalţ pân’ la cer
+În sfântul Tău cuvânt
+Te ating şi iţi vorbesc
+Cântă inima mea
+Cănd vreau să rostesc
+
+[s2]
+/: Isus, prima iubire
+Pe nimeni nu pot iubi aşa
+Isus, mai mult vreau din Tine
+Mai mult din dragostea Ta
+În viata mea :/
+
+[order]
+s1,s2

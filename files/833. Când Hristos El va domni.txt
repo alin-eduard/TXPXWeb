@@ -1,0 +1,66 @@
+[s1]
+833.
+1. Când Hristos El va domni
+Atunci toate vor înflori
+Cor: Muntele Sionului
+Va fi casa Domnului
+Pe muntele Sionului
+
+[s2]
+2. El domni-va ca-mpărat
+Când Satan va fi legat
+Cor: Muntele Sionului
+Va fi casa Domnului
+Pe muntele Sionului
+
+[s3]
+3. Legat pe o mie de ani
+Să nu mai fie duşmani
+Cor: Muntele Sionului
+Va fi casa Domnului
+Pe muntele Sionului
+
+[s4]
+4. Căci duşmani au fost mereu
+În contra lui Dumnezeu
+Cor: Muntele Sionului
+Va fi casa Domnului
+Pe muntele Sionului
+
+[s5]
+5. Duşmănia v-a înceta
+Iar morţii vor învia
+Cor: Muntele Sionului
+Va fi casa Domnului
+Pe muntele Sionului
+
+[s6]
+6. Pe apă şi pe pământ
+Lăudaţi pe Domnul sfânt
+Cor: Muntele Sionului
+Va fi casa Domnului
+Pe muntele Sionului
+
+[s7]
+7. O mie de ani trăieşti
+Frate de te pocăieşti
+Cor: Muntele Sionului
+Va fi casa Domnului
+Pe muntele Sionului
+
+[s8]
+8. La dreapta de vrei să fii
+Cu Isus în veşnicii
+Cor: Muntele Sionului
+Va fi casa Domnului
+Pe muntele Sionului
+
+[s9]
+9. Căci la stânga-i mare jale
+Cu necaz şi strâmtorare
+Cor: Muntele Sionului
+Va fi casa Domnului
+Pe muntele Sionului
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

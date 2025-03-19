@@ -1,0 +1,26 @@
+[s1]
+Asa cum ai poruncit, o, Doamne
+Am adus pe-acesti doi la Tine
+Să-Ti întinzi mâna Ta peste dânşii
+Să le dai viata şi fericire-n ea.
+
+[r1]
+Binecuvânta-i, o, Doamne
+Binecuvânta-i acum !
+Binecuvântati să fie
+Servi in casă Ta oricând !
+
+[s2]
+Te rugam, din Sion, o, Isuse
+Să sărbatoresti astazi cu noi
+Să le dai celor doi bucurie
+Să le dai viata şi fericire-n ea.
+
+[s3]
+Noi uram celor doi fericire
+Nu putem însă noi a le-o da
+De aceea cerem de la Tine
+Da-le Tu viata şi fericire-n ea.
+
+[order]
+s1,r1,s2,r1,s3,r1

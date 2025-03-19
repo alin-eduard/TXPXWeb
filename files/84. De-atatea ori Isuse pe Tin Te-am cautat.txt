@@ -1,0 +1,53 @@
+[s1]
+1. De-atâtea ori Isuse
+Pe Tin’ Te-am căutat
+Ca să-mi alini Tu dorul
+Şi sufletu-ntristat
+/: Te-am căutat Isuse
+Ca pe-o comoară-aleasă
+Aşa cum ciocârlia
+Doreşte-o zi frumoasă. :/
+84.                                                     Mi
+
+[s2]
+2. Precum doreşte cerbul
+O apă de izvor
+Şi cum mireasa-aşteaptă
+Pe mire în pridvor
+/: Te-am căutat Isuse
+Cum numai eu ştiam
+Căci Te doream pe Tine,
+Iubirea o cautam. :/
+
+[s3]
+3. Cu inima-ntristată
+Mereu Te-am căutat
+Căci Tu erai acolo
+Şi-acolo Te-am aflat
+/: Şi-acum cu glasul dulce
+Îţi mulţumesc nespus
+Căci ai bătut la uşă
+Și atunci eu Ţi-am răspuns/
+
+[s4]
+4. Şi-acum te rog Isuse
+Cum nu Te-am mai rugat
+Să mă aştepţi o clipă
+Ca învins să nu cad
+/: Dar cum să-Ţi mulţumesc
+Isuse-al meu cel drag
+Căci Ţie Ţi-a fost milă,
+M-ai aşteptat în prag. :/
+
+[s5]
+5. Şi acum  iti mulţumesc
+Pentru iubirea Ta
+Care schimbase toată
+Tristă viaţa mea
+/: Rămâi cu mine iubite,
+O, Scumpul meu Isus
+Căci Te-oi iubi într-una
+Şi-ti voi cânta nespus. :/
+
+[order]
+s1,s2,s3,s4,s5

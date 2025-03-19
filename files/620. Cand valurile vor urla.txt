@@ -1,0 +1,53 @@
+[s1]
+1. Când valurile vor urla
+Eu voi veni te-oi ridica
+Când valurile vor izbi
+Eu voi veni te-oi izbăvi.
+2. Tu nu uita că te-am ales
+Să mă vesteşti Eu te-am trimis
+Să spui ce Eu ţi-oi arăta
+Să nu te temi de nimenea.
+620.
+
+[s2]
+3. Căci Eu nu stau ci vin curând
+Să fac dreptate pe pământ
+Pe cei ce Mă nesocotesc
+Să-i mustru şi să-i pedepsesc.
+4. Pe cei răniţi îi voi lega
+Pe cei bolnavi voi vindeca
+Iar cei ce stau încătuşaţi
+De Mine vor fi liberaţi.
+
+[s3]
+5. Iar ce plâng nemângâiaţi
+Cu Duh Sfânt vor fi botezaţi
+Iar cei ce stau nepăsători
+Îi va prinde groaza şi fiori.
+6. Tu nu uita căci Eu ţi-am spus
+Ca să priveşti la Mine sus
+Când valurile vor urla
+Eu voi veni, te-oi ajuta.
+
+[s4]
+7. Veghează şi ascultă doar
+Ce-ţi spune ţie Domnul iar
+Că cel rău se va ridica
+Să-ţi ponegrească calea ta.
+8. Dar Eu ţi-am spus că nu te las
+Pe tine singur nici un ceas
+Dacă te duci unde-ţi spun Eu
+Să împlineşti cuvântul Meu.
+
+[s5]
+9. Ascultă doar ce-ţi spun Eu
+Te-oi ajuta când ţi-a fi greu
+M-oi duce Eu înaintea ta
+Talazuri când s-or ridica.
+10. Iar când vrăjmaşi vor năvăli
+În faţa Ta voi străluci
+Să ştii atunci şi să crezi
+Pe Domnul tău care-L urmezi.
+
+[order]
+s1,s2,s3,s4,s5

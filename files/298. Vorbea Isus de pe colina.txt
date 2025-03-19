@@ -1,0 +1,53 @@
+[s1]
+Mi
+1. Vorbea Isus de pe colină
+Poporului ce sta pe jos
+Cu faţa plină de lumină
+Vorbea Isus de pe colină
+Cu glasul rar adânc duios.
+298.
+
+[s2]
+2. În lume ura ca o stâncă
+Apasă sufletul oricui
+Te închide-n noaptea ei adâncă
+Să fii ca piatra mai rău încă
+Să nu faci bine nimănui.
+
+[s3]
+3.Dar Eu vă spun de vezi pe moarte
+Duşmanul tău în drum căzut
+Tu lasă ura la o parte
+Şi dacă-ţi vezi duşmanu-n moarte
+Cu milă ajută-l pe căzut.
+
+[s4]
+4.Dac-un duşman bătut de soartă
+La uşa ta se va ivi
+Tu lasă ura la o parte
+Duşmanului bătut de soartă
+Tu dă-i ce poţi dar nu-l goni.
+
+[s5]
+5.Când un duşman în haine sparte
+La uşa ta va aştepta
+Tu lasă ura la o parte
+Duşmanului în haine sparte
+Tu dăruie-i cămaşa ta.
+
+[s6]
+6.Când chiar duşmanii cei de moarte
+Vor face-n contra ta sobor
+Tu lasă ura la o parte
+Şi chiar duşmanilor de moarte
+Le-ntinde mâna iubitor.
+
+[s7]
+7. Cu cei şi mai lipsiţi împarte
+Bucata pâinii pentru trai
+Cât ai chiar cu duşmanu-n parte
+Căci Dumnezeu îţi face parte
+Atunci şi ţie sus în rai.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

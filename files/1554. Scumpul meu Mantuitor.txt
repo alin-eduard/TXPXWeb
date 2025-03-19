@@ -1,0 +1,51 @@
+[s1]
+1554.
+1. Scumpul meu Mântuitor
+Eu Te chem în ajutor
+/: Să-mi ajuţi la crucea mea
+Să urc pe calvar cu ea :/
+
+[s2]
+2. Doamne eu suspin la Tine
+Şi Te rog foarte fierbinte
+/: Vino la poporul tău
+Întreabă-i necazul său :/
+
+[s3]
+3. Căci necazu-i foarte mare
+Şi suntem în strâmtoare
+/: Iar dacă Tu vei veni
+Necazul nu-l vom simţi :/
+
+[s4]
+4. Adă Doamne ziua-n care
+Vom uita necazul mare
+/: Şi vom merge sus la Tine
+Unde n-or mai fi suspine :/
+
+[s5]
+5. Căci poporul stă şi plânge
+Şi Te cheamă cu suspine
+/: Ca să vii Tu să le spui
+Că nu-i mult până ce vii :/
+
+[s6]
+6. De-ai vedea Isus iubit
+Poporaşul Tău mâhnit
+/: N-ai putea să nu rămâi
+O clipă să nu-l mângâi :/
+
+[s7]
+7. Vezi Tu că poporul Tău
+Suspină cu amar şi greu
+/: Şi Te cheamă cu mult dar
+Să le vii în ajutor :/
+
+[s8]
+8. Vino Doamne vino azi
+Şi mângâie al meu obraz
+/: Şi nu mă lăsa să mor
+Până n-oi zbura pe nori :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

@@ -1,0 +1,32 @@
+[s1]
+Popoarele lumii vor şti ce-i dreptatea
+Când spusele Sale se vor împlini
+Atunci pe Pământ va domni libertatea
+Atunci nedreptatea, ea, nu va mai fi.
+
+[r1]
+/: Popoarele toate vor fi adunate
+În valea cea mare a lui Iosafat.
+Cu multă dreptate vor fi judecate
+Căci Domnul Dreptăţii va fi Împărat! :/
+
+[s2]
+Priviţi uriaşii cum vin şi se-adună
+Vrăjmaşii lui Sem, lui Ham şi Iafet
+Acei ce de Domnul, ei n-aveau nevoie
+A lor locuinţă va fi-n chin mereu.
+
+[s3]
+Din satul Sodomei se-nalţă suspine
+O flacără mare din nori s-a aprins.
+Popoarele Romei şi Nero, păgânii -
+O groază de moarte pe toţi i-a cuprins.
+
+[s4]
+Atunci chiar ateul, şi el, se închină
+În faţa dreptăţii cu toţi se aştern
+Cerându-şi iertare de marea lor vină
+Şi sclavul, şi preot, şi omul modern.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

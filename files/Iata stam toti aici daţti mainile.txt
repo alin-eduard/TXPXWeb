@@ -1,0 +1,26 @@
+[s1]
+Iată, stăm toţi aici, daţi mâinile!
+Ora despărţirii, iată, vine!
+Deşi ne despărţim, în duh una suntem;
+Cu dragoste zicem: „Rămâi, frate!”
+
+[s2]
+Domnul vă petreacă în harul Său,
+Şi pe drumul păcii umblaţi mereu!
+Strălucească faţa voastră înaintea Lui
+Şi să vă conducă în ţara Lui!
+
+[s3]
+Fie ora aceasta a Domnului,
+Şi să trăiţi plăcuţi înaintea Lui!
+Inima, sufletul, prin a Lui iubire,
+Să ne lege întruna, pe vecie!
+
+[s4]
+Până la revedere: „Rămâi, frate!”
+Până la sfârşit, zicem:„Rămâi, soră!”
+Pănă la revedere, până la odihnă,
+Unde ne vom vedea totdeauna.
+
+[order]
+s1,s2,s3,s4

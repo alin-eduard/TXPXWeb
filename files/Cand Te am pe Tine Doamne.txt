@@ -1,0 +1,20 @@
+[s1]
+Când Te am pe Tine, Doamne,
+De nimica nu mă tem!
+/: În necazurile vieţii,
+Zi şi noapte, eu Te chem :/
+
+[s2]
+Ochii Tăi sunt plini de milă
+Şi de sfânt-ajutorare.
+/: Jugul vieţii, când m-apasă,
+Eu la Tine am scăpare. :/
+
+[s3]
+Vreau ca-ntreaga mea viaţă
+Numai Ţie să-Ţi slujesc;
+/: Adevărul Tău, Isuse,
+Ne'ncetat vreau să-l trăiesc... :/
+
+[order]
+s1,s2,s3

@@ -1,0 +1,26 @@
+[s1]
+Pribegim ca străini pentru-o vreme
+Trecând ades neobservaţi
+Într-o zi când răsplata se-aduce
+Cu slavă vom fi îmbrăcaţi.
+
+[r1]
+Străluci-vom ca stelele noaptea
+Cu Mielul cel crucificat !
+Feeria eternă ţi-e plata
+Chiar dacă treci neobservat !
+
+[s2]
+Poate nu vom avea bogăţie
+Nici faimă sau slavă aici
+Însă sfinţii vor fi pe vecie
+În ceruri cu Domnul uniţi.
+
+[s3]
+Poate-s unii ce-n cort sau baracă
+Trăiesc şi se sting singurei
+Într-o zi însă Tatăl le-arată
+Ce har a păstrat pentru ei.
+
+[order]
+s1,r1,s2,r1,s3,r1

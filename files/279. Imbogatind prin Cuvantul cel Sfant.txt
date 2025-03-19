@@ -1,0 +1,27 @@
+[s1]
+1. Îmbogăţind prin cuvântul cel sfânt
+Eu datoria mi-o fac pe pământ
+Sub ochiul scumpului meu Creator
+Ca să fiu neprihănit să nu mor.
+279.
+
+[s2]
+2. Ca şi un hoţ momentul va veni
+Şi biserica în cer îşi va răpi
+Atunci voi cânta eu încoronat
+Cu haine sfinte de aur îmbrăcat
+
+[s3]
+3. Atunci mare deosebire va fi
+Tatăl mânia îşi va descoperi
+Asupra oricărui suflet pătat
+Care ulei în vas nu şi-a luat
+
+[s4]
+4.Şi Duhului Sfânt crezare nu a dat
+Starea de fecioară nu şi-a păstrat
+Pentru necredinţă bătut va fi
+Până şi banul din urmă îl va plăti.
+
+[order]
+s1,s2,s3,s4

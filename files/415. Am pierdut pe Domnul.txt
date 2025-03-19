@@ -1,0 +1,45 @@
+[s1]
+415.
+1.Am pierdut pe Domnul
+Şi acum plâng amar
+Ah, vă rog să-mi spuneţi
+Cum să-L aflu iar.
+
+[s2]
+2.Caut zi şi noapte
+Bunul ce-am pierdut
+Plâng cu lacrimi grele
+Doamne ce-am făcut.
+
+[s3]
+3.Rătăcesc pe câmpuri
+Şi suspin mereu
+Am pierdut pe Domnul
+Ajutorul meu.
+
+[s4]
+4.Doamne fără Tine
+Traiul mi-e amar
+Lasă-mă Isuse
+Să Te aflu iar.
+
+[s5]
+5.Spune-ţi-mi voi prieteni
+Unde să-l găsesc
+Căci eu fără Domnul
+Nu pot să trăiesc.
+
+[s6]
+6.N-am vegheat cu grijă,
+Nu l-am preţuit
+L-am pierdut şi-amarnic
+Am păcătuit.
+
+[s7]
+7.Doamne fără Tine
+Nu pot să trăiesc
+Lasă-mă Isuse
+Iar să te găsesc.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

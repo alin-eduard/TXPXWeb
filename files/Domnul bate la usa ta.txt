@@ -1,0 +1,26 @@
+[s1]
+Domnul bate la uşa ta,
+Tu să-I deschizi, tu să-I deschizi,
+Azi primeşte-L, nu-L refuza,
+El vrea salvarea ta.
+
+[r1]
+Iată azi Eu stau şi bat la uşa ta,
+Azi prinde prilejul si nu refuza,
+Mâine se poate va fii târziu;
+Lasă lumea azi şi vin’.
+
+[s2]
+El aşteaptă nerăbdător
+Sa vii la El, să vii la El.
+Tu să nu stai nepăsător,
+El ţi-e Mântuitor.
+
+[s3]
+Mântuirea-n dar îţi va da
+Domnul Isus, Domnul Isus
+Şi la El tu-n veci vei avea
+Viaţă veşnică !
+
+[order]
+s1,r1,s2,r1,s3,r1

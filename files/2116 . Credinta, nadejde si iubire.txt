@@ -1,0 +1,28 @@
+[s1]
+2116 re m
+Cor: /: Credință, nădejde și iubire
+De ai în viața-aceasta,
+Nimic nu-ți mai lipsește
+Credință, nădejde și iubire
+De ai, e cea mai mare fericire :/.
+
+[s2]
+1. Isus înțelege tot, necazul, nevoi sunt pe cale
+Și chiar pe drumul spinos
+Ne dă El putere mai mare.
+
+[r1]
+Cor: /: Credință, nădejde și iubire
+De ai în viața-aceasta,
+Nimic nu-ți mai lipsește
+Credință, nădejde și iubire
+De ai, e cea mai mare fericire :/.
+
+[s3]
+2. Voios eu pășesc după El
+El Isus acum mă-nsoțește
+Abia lângă El mâna Lui
+Voi fi-n grija Domnului.
+
+[order]
+s1,s2,r1,s3,r1

@@ -1,0 +1,52 @@
+[s1]
+1599
+1.Doamne iubirea mea Tu eşti
+Cuvântul Tău este Adevăr
+Suflete poţi să iubeşti                          Pe Acela Binefăcător
+
+[s2]
+Cor:Mergând la Golgota să vezi          Izvorul acela frumos
+Ce curge din Domnul Isus
+Fiind El în coastă străpuns
+
+[s3]
+2.Isuse şi eu Te iubesc              Căci şi Tu prea mult m-ai iubit
+De azi tuturora vestesc                          Iubirea Ta fără sfârşit
+
+[r2]
+Cor:Mergând la Golgota să vezi          Izvorul acela frumos
+Ce curge din Domnul Isus                     Fiind El în coastă străpuns
+
+[s4]
+3.Tu cerul sfânt l-ai părăsit
+La oameni jos Te-ai pogorât
+Păcatul şi moartea Isuse                    Cu moartea Ta le-ai omorât
+
+[r1]
+Cor:Mergând la Golgota să vezi         Izvorul acela frumos
+Ce curge din Domnul Isus                      Fiind El în coastă străpuns
+
+[s5]
+4.În Gheţsimani când Tu aiplâns
+Cu lacrimi de sânge amar
+Băut-ai Isuse întregul pahar
+Durerile noastre la calvar
+
+[s6]
+Cor:Mergând la Golgota să vezi
+Izvorul acela frumos
+Ce curge din Domnul Isus
+Fiind El în coastă străpuns
+
+[s7]
+5.O scumpul meu Mântuitor
+Când moarte pe cruce ai răbdat
+Atunci păcatele lumii
+Cu sânge pe veci le-ai spălat
+
+[s8]
+6.Isuse Isuse iubit                       Prin jertfa Ta fă-ne curaţi
+Şi fă să rămânem de-a pururi                    Sub crucea Ta îngenunchiaţi
+
+[order]
+s1,s2,s3,r2,s4,r1,s5,s6,s7,r1,s8,r2

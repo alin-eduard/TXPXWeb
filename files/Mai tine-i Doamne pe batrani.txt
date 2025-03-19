@@ -1,0 +1,56 @@
+[s1]
+Mai ţine-i Doamne pe bătrâni
+Mai ţine-i perii albi şi rari
+/: I-ai pus sfătuitori şi buni
+Să cârmuiască ai Tăi lăstari. :/
+
+[s2]
+Sub mâna fraţilor bătrâni
+Să creştem drepţi ne-ai ocrotit
+/: Nici grindină şi nici furtuni
+Lăstarii Tăi nu ţi-au lovit. :/
+
+[s3]
+O tu copil a lui Isus
+În faţa perilor albiţi
+/: Ridică-te smerit în sus
+Respectă-i anii ofiliţi. :/
+
+[s4]
+Ia sfatul lui ca o lumina
+O candelă de împrumut
+/: Bătrânului ce ca stejarul
+Ani grei l-au petrecut. :/
+
+[s5]
+Tu încă nu cunoşti ce-i bruma
+Ce e prigoana nu gândeşti
+/: Lăstarul n-a văzut furtuna
+O cunoaşte din poveşti. :/
+
+[s6]
+Tu creşte mare în credinţă
+Du-ţi rădăcinile-n adânc
+/: Veni-vor vremi de suferinţă
+Şi prigoană pe pământ. :/
+
+[s7]
+Veni-vor vremi cu-a Ta coroană
+Pe alţii mici să-i ocroteşti
+/: Şi-n tine sufletul să goană
+Dar rănit să nu te-arăţi. :/
+
+[s8]
+Ajută-ţi Doamne tineretul
+Din seva Ta să îi hrăneşti
+/: Să semene cu Tine-n totul
+Pentru cer să-i pregăteşti. :/
+
+[s9]
+Ajută-i Doamne pe bătrâni
+Prin Duhul Sfânt să-i faci mai tari
+/: I-ai pus sfătuitori şi buni
+Să cârmuiască ai Tăi lăstari. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

@@ -1,0 +1,39 @@
+[s1]
+1637.     Fa m
+1. Se va cânta cântarea minunată,
+Mireasa-şi va cânta imnul dorit
+Şi se va începe nunta aşteptată
+Cu-acei ce-n lupte
+Şi prigoane-au biruit.
+
+[s2]
+Cor: Eroii Slavei vin acum acasă,
+Au biruit în marele necaz
+Şi ei vor sta
+Cu Domnul lor la masă!
+El Le va şterge
+Lacrima de pe obraz…
+
+[s3]
+2. Din orice neam din orice seminţie
+Din orice limbă din orice norod
+O mare gloată pentru-mpărăţie
+Isus va strânge al suferinţei rod.
+
+[r1]
+Cor: Eroii Slavei vin acum acasă.
+Au biruit în marele necaz
+Şi ei vor sta
+Cu Domnul lor la masă!
+El Le va şterge
+Lacrima de pe obraz…
+
+[s4]
+3. În faţa scaunului de domnie
+S-or arunca cu faţa la pământ
+Vor preamări vor lăuda pe Domnul
+Pe-acel ce este Sfânt
+de-a pururi Sfânt
+
+[order]
+s1,s2,s3,r1,s4,r1

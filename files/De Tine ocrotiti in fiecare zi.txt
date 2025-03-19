@@ -1,0 +1,38 @@
+[s1]
+De Tine ocrotiţi în fiecare zi
+Sunt paşii mei pe calea către cer
+Nimic din mâna Ta
+nu mă va clinti.
+Căci în Cuvântul Tău eu mă încred şi sper.
+
+[r1]
+În mâna Ta de Tată
+mi-am pus încrederea
+Pe-a Ta făgăduinţă
+sprijin viaţa mea
+În mâna Ta de Tată
+rămân eu pururea
+Iubire-Ţi minunată
+vesnic voi cânta.
+
+[s2]
+În clipe de încercări
+când toţi mă părăsesc
+Când cerul vieţii-i copleşit de nori
+Mă încred în braţul Tău
+şi atunci găsesc
+Putere din belşug,
+odihnă şi-adăpost.
+
+[s3]
+De aceea neclintit păsesc
+pe calea Ta
+Grăbind pân’ alergarea-mi
+s-a sfârsi
+Acesta-i gândul meu
+şi dorinţa mea
+S-ajung odată sus cu Tine
+în veşnicii.
+
+[order]
+s1,r1,s2,r1,s3,r1

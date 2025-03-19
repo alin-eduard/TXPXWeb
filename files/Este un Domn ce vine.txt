@@ -1,0 +1,21 @@
+[s1]
+/: Este-un Domn ce vine,
+Vine din înalt,
+Orice ochi sa-L vada
+Cat e de minunat :/
+
+[r1]
+Dar Duhul Domnului,
+Ce-a fost făgăduit
+Ne-a fost trimis.
+(: El e aici lângă tine,
+Poţi să-l atingi. :)
+
+[s2]
+/: Domnul care vine
+De la Dumnezeu
+Vine pentru mine
+Vine pentru noi. :/
+
+[order]
+s1,r1,s2,r1

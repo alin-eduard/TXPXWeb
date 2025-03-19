@@ -1,0 +1,52 @@
+[s1]
+Cu-al meu suflet vreau să zbor
+Colo mai sus de stele
+În ţara Mirelui iubit
+Unde s’am mângâiere.
+/: Să nu mai fiu pe-acest pământ
+În lumea de păcate
+Ci-aş vrea s-ajung cât mai curând
+Cu capul pe-a Lui braţe. :/
+
+[s2]
+Suspin mereu şi lăcrimez
+De dor după Isus
+Căci văd că toate se-mplinesc
+Aşa cum El le-a spus.
+/: O scumpul meu mântuitor
+Păzeşte-mă de toate
+Căci valurile lovesc greu
+În copiii Tăi Doamne. :/
+
+[s3]
+Căci văd că oamenii de-acum
+Pe mine mă urăsc
+Şi vor să mă oprească-n drum
+Căci Ţie îţi slujesc.
+/: Căci în pofte şi în plăceri
+Unii-şi petrec viaţa
+Dar pentru toate acestea
+Veni-va judecata. :/
+
+[s4]
+Trezeşte Tu al Tău popor
+Căci este-n aţipire
+Şi ca să fie vegheator
+Când vei veni-n mărire.
+/: Ca s-ajungem la masa Ta
+Cu toţii-n strălucire
+Şi-ţi voi cânta Aleluia
+Şi-acum şi-n veşnicie. :/
+
+[s5]
+Păzeşte tineretul Tău
+Căci sunt florile Tale
+O vino-n ajutorul lor
+Cu barca de salvare.
+/: Să nu mai fiu pe-acest pământ
+În lumea de păcate
+Ci-aş vrea s-ajung cât mai curând
+Cu capul pe-a Lui braţe. :/
+
+[order]
+s1,s2,s3,s4,s5

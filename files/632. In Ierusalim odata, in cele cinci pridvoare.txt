@@ -1,0 +1,68 @@
+[s1]
+1. În Ierusalim odată,
+În acele cinci pridvoare
+Lângă poarta oilor,
+Acolo e o scăldătoare
+O mulţime de bolnavi
+Orbi şi şchiopi uscaţi veneau
+Căci un înger când şi când
+Atunci apa tulburând.
+632.     La m
+
+[r1]
+Cor: Acel ce veghea şi se arunca
+Cel dintâi în scăldătoare
+Vindecat era.
+
+[s2]
+2. Acolo zăcea un om,
+Fără casă, fără bani
+Aştepta mişcarea apei
+De treizeci şi opt de ani
+Dar când l-a văzut Hristos
+Că-i bolnav de multă vreme
+N-ai vrea să fii sănătos
+Crede dar şi nu te teme.
+
+[s3]
+3. Doamne i-a răspuns bolnavul
+N-am pe nimeni să-mi ajute
+Şi până să mă duc eu,
+Trece altul înainte
+Scoală-te i-a zis Isus
+Ridică-ţi patul şi umblă
+Şi s-a făcut sănătos
+Alergând pe-a lui urmă.
+
+[s4]
+4. Este ziua de sabat,
+Şi nu-ţi este-ngăduit
+Ca să mergi cu patu-n spate
+Şi atât de fericit
+Acel ce m-a vindecat
+Mi-a zis să iau patu-n spate
+Şi să-l laud neîncetat
+Mergând mereu prin cetate.
+
+[s5]
+5. Cine este cel ce-a zis
+Ridicăţi patul şi umblă
+Nu ştia că e Isus,
+Şi puterea lui cea mare
+Duhul Sfânt venit din ceruri
+Chiar în chip de porumbel
+L-au luat atunci pe Isus
+Şi nu l-am văzut de fel.
+
+[s6]
+6. Când s-a întâlnit în templu
+Isus cu cel vindecat
+Vezi să nu păcătuieşti,
+Să nu rămâi vinovat
+Căci păcatul te pândeşte
+Rămâi tare-n Dumnezeu
+Tu veghează şi păzeşte
+Ca să nu păţeşti mai rău.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

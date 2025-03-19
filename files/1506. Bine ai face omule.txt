@@ -1,0 +1,44 @@
+[s1]
+1. Bine ai face omule                                                	        Să-ţi aduci azi aminte
+Să vezi din ce eşti făcut
+/: Esti o mana de pamant
+Si-ai sa sfarsesti in mormant
+Din pamant ai fost lat
+Side dmnezeu creat :/
+
+[s2]
+2.   Mult se lupta omu-n lume
+Tot mai multe sasi adune         Alearga se oboseste
+/:Toata ziua face drege
+La urma moartea culege            	     Omul e fara putere
+Cand Domnul sufletu-i cere :/
+
+[s3]
+3. Ai nevoe omule
+Sati stearga pacatele
+Caci omul este tarana
+/: Si pacatele se aduna
+Azi predate lui Isus
+Si sa-i fii doar lui supus
+Crede-n jerfa li Isus :/
+
+[s4]
+4. Omule ce esti facut
+Dintr-o mana de pamant
+Ziuatrece noaptea trece
+/: Si viata se sfarsste
+Intoarce-te la Isus
+Ce pe Golgota sus
+Crucea pentru tie-a dus :/
+
+[s5]
+5. Vin la Isus omule
+Ca sa-ti dea mantuire
+De el de vei asculta
+/: Viata vesnica-ti va da
+Domnul Isus te iubeste
+De pacat te curateste
+Sus la cer El te rapeste:/
+
+[order]
+s1,s2,s3,s4,s5

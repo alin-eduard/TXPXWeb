@@ -1,0 +1,63 @@
+[s1]
+1335.
+1.  Pentru ultima chemare
+Dumnezeu a revărsat
+O putere foarte mare
+Arătându-şi slava Sa
+Chiar în ziua de Rusalii
+Pe aripile de vânt
+Din mărirea slavei sale
+A trimis El Duhul Sfânt.
+
+[s2]
+Duhul Sfânt prin stăruinţă
+Se primeşte cu credinţă
+Cine vrea ca sa primeasca
+După El să stăruiască
+Pentru ultima chemare
+Domnul face o lucrare
+Duhul Sfânt Mântuitorul
+Îl revarsă în popor.
+
+[s3]
+2.  Cei bătrâni vor avea visuri
+Tinerii vor proroci
+Promisiunile făcute
+Domnul le va împlini
+Şchiopii orbii şi ologii
+Vor sări şi vor striga
+În mulţimea sinagogii
+Domnul îi va vindeca.
+
+[s4]
+Cor:  Şi prin dar de cunoştinţă
+Şi prin Duhul de credinţă
+Prin darul de vindecare
+Va lucra-n al său popor
+Şi prin dar de-nţelepciune
+Şi prin duh de rugăciune
+Prin al Duhului Sfânt dar
+Domnul va lucra şi azi.
+
+[s5]
+3.  Ploaia harului târzie
+Se va revărsa pe lan
+Şi va creşte pe câmpie
+Grâul ca şi-n Canaan
+Chiar în ziua de Rusalii
+Pe aripile de vânt
+Prin mărirea slavei Sale
+Va trimite Duhul Sfânt.
+
+[s6]
+Cor: Toţi acei ce stăruiesc
+Duhul Sfânt îi însoţeşte
+Cu al proroociei dar
+Duhul va lucra şi azi
+Prin puterea Sa cerească
+Pe cei răi să-i dezrobească
+Prin al Duhului Sfânt dar
+Domnul va lucra şi azi.
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,36 @@
+[s1]
+1747.
+1. Fraţi, surori, Biserică
+Aşa Duhul Sfânt strigă
+Vremea-acuma s-a scurtat
+/:Vine Cel ce-a înviat:/
+Vine Cel ce s-a-nălţat
+/:Ce la Tatăl a plecat:/
+
+[s2]
+2. Căci cum a plecat spre cer
+Va veni `napoi la fel
+Scoală frate nu mai sta
+/:Vine, vine Mesia:/
+Să nu fii găsit dormind
+/:Că rămâi jos pe pământ:/
+
+[s3]
+3. Ridică-ţi privirea-n sus
+Vine-al nost` iubit Isus
+Ferice va fi de-acel
+/:Care-i treaz când vine El:/
+Căci noaptea s-a termina
+/:Vine Cel ce-a înviat:/
+
+[s4]
+4. În curând El va veni
+Şi la cer ne va răpi
+Luptă frate ne-ncetat
+/:Vine-al nostru Împărat:/
+Şi ne duce-n veşnicii
+La un loc cu îngerii
+Unde-s numai bucurii
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,26 @@
+[s1]
+Cel ce în Tatăl se încrede
+Şi speră doar în El oricând
+Acela griji, nevoi, nu vede,
+Păzit va fi de Cel Preasfânt.
+Cel ce pe Tatăl L-a iubit
+Nu are casa pe nisip.
+
+[s2]
+Ai cugetul mereu spre ceruri
+În rugăciune şi cântări!
+Cu El putea-vei fi de-a pururi
+În multe binecuvântări.
+De Domnul care te-a iubit
+Vei fi puternic ocrotit.
+
+[s3]
+În Tine aflu fericirea
+Când împlinesc voinţa Ta!
+Tu singur, Tu mi-eşti mântuirea,
+Fără de Tine nu pot sta!
+Cel care-n Tine e zidit
+Nu e de nimenea lovit!
+
+[order]
+s1,s2,s3

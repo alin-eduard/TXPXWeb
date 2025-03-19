@@ -1,0 +1,45 @@
+[s1]
+Roagă-te fără-ncetare
+Roagă-te mereu
+Stai şi-aşteaptă cu răbdare
+Să-ţi vorbească DUMNEZEU
+Sol M
+
+[s2]
+/:Rugăciunea cu credinţă
+Îţi aduce biruinţă
+Când te rogi cu stăruinţă
+Rugăciunea-i ascultată
+Când de post e-ncununată
+Şi cu lacrimi e udată. :/
+
+[s3]
+Roagă-te soră şi frate
+Roagă-te mereu
+Căci acel ce totul poate
+Este singur DUMNEZEU
+
+[s4]
+/:Căci-şi de te rogi în şoaptă
+Pe genunchi stai şi aşteaptă
+Fii fecioară înţeleaptă
+Chiar dacă mai zăboveşte
+Ce-a promis El împlineşte
+Domnul nu te părăseşte. :/
+
+[s5]
+Rugăciunea este cheia
+Ce deschide Cerul Sfânt
+Este un har pentru aceia
+Ce trăiesc după cuvânt
+
+[s6]
+/:Rugăciunea-i mulţumire
+Rugăciunea e iubire
+Rugăciunea e jertfire
+Rugăciunea-i umilinţă
+Dragoste recunoştinţă
+Rugăciunea-i Pocăinţă. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

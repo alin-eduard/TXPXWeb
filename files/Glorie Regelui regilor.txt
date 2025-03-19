@@ -1,0 +1,18 @@
+[s1]
+Glorie, Regelui regilor!
+Maiestate, Isus e Rege şi Domn.
+Glorie, pace şi dragoste
+Din tronu-I curg înspre ai Săi.
+Daţi-I onor!
+
+[s2]
+/: Lăudaţi, ’nălţaţi mai sus
+Pe Domnul nostru!
+Îl măriţi, glorificaţi
+Pe Isus Cristos!
+Glorie, Regelui regilor!
+Cel ce-a murit şi-a înviat,
+Acum e Domn! :/
+
+[order]
+s1,s2

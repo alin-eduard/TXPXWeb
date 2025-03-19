@@ -1,0 +1,32 @@
+[s1]
+Un copil alearga fara nici o grija
+E prea fericit, stie ca-i iubit
+Chipul lui senin si blând se duce,
+nu întinerim
+Si furat de timpul care trece,
+parca a uitat
+Ca iubire nu gasesti de cumparat
+
+[s2]
+Toata lumea de-ai avea
+la nimic n-ar ajuta
+Nimeni nu te va-ntreba
+de-ai avut sau nu ceva
+Daca nu poti sa iubesti,
+o minciuna este viata ce-o traiesti
+Un nimic… e totul un nimic!
+
+[s3]
+“Sa iubesti” nu este-o vorba
+care-apoi s-a dus
+
+[s4]
+Nu-i un sentiment ce-i de mult apus
+Toata viata sa aduni, daca ai alerga
+Sa poti oferi, dar nu-i dragostea
+Ai fi doar o amagire
+Si as zice c-ai uitat ca iubire
+nu gasesti de cumparat
+
+[order]
+s1,s2,s3,s4

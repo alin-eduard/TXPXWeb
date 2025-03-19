@@ -1,0 +1,59 @@
+[s1]
+1. Nu mai spune a ta durere
+Frate nimănui
+Povesteşte tot necazul
+Numai Domnului
+N-alerga cu chinurile tale sufleteşti
+Nici la oameni nici la prieteni
+Să le povesteşti.
+663
+
+[s2]
+2. Oamenii nu pot s-aline
+Suferinţa ta
+Prietenii nu pot s-aline
+Orişicât ar vrea
+Însă Acel ce din vecie e binecuvântat
+A venit întotdeauna
+La câţi l-au chemat.
+
+[s3]
+3. De plângi astăzi şi te doare
+Mâine vei cânta
+Cel ce ştie a face rana
+O şi va lega
+Nu-ţi pierde nădejdea frate
+Şi nu te întrista
+Rana ta nu e spre moarte
+Ci spre slava Sa.
+
+[s4]
+4. Şi tu când vei înţelege
+Vei slăvi mereu pe cel ce se poartă
+Aspru cu copilul său
+Căci obrajii care în lacrimi
+Au fost adăpaţi
+Sus în veşnicia slavei
+Vor fi mângâiaţi.
+
+[s5]
+5. De te duci la Domnul frate
+El ţi-a vindeca rana ta
+Ceea de moarte o şi va lega
+Şi astfel vei fi de-a pururi
+De El uşurat
+Căci aşa cum El lucrează
+Nimeni n-a lucrat.
+
+[s6]
+6. Doamne, peste a noastre feţe
+Toarnă al Tău alin
+Peste ceaţa vieţii noastre
+Dă-ne al Tău alin
+Doamne varsă a Ta putere
+Mântuirea Ta
+Peste noi întinde-ţi braţul
+Dă-ne pacea Ta.
+
+[order]
+s1,s2,s3,s4,s5,s6

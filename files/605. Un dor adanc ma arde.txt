@@ -1,0 +1,83 @@
+[s1]
+1. Un dor adânc mă arde
+Un dor de ţara mea
+Ah, de-aş avea eu aripi
+Spre ceruri aş zbura.
+Cor: /: Căci nici o bucurie
+Aici nu-i pentru mine
+Şi mai degrabă aş vrea
+Ca să-mi sfârşesc cărarea :/.
+605.
+
+[s2]
+2. Un dor ce mă cuprinde
+De ţara cea de sus
+Să mă desprind de toate
+De toate aş vrea Isus.
+Cor: /: Căci nici o bucurie
+Aici nu-i pentru mine
+Şi mai degrabă aş vrea
+Ca să-mi sfârşesc cărarea :/.
+
+[s3]
+3. Suspine, lacrimi calde
+Câte din piept s-au scurs
+La Tine-s adunate
+În cupa Ta le-ai strâns.
+Cor: /: Căci nici o bucurie
+Aici nu-i pentru mine
+Şi mai degrabă aş vrea
+Ca să-mi sfârşesc cărarea :/.
+
+[s4]
+4. Acolo îţi voi spune
+Ce-n cale am întâlnit
+Durere, lupte, zbucium
+Şi valuri ce au lovit.
+Cor: /: Căci nici o bucurie
+Aici nu-i pentru mine
+Şi mai degrabă aş vrea
+Ca să-mi sfârşesc cărarea :/.
+
+[s5]
+5. Mi-i dor de Tine Doamne
+Mi-i dor de veşnicie
+Dorinţa mea e mare
+De-a cerului câmpie.
+Cor: /: Căci nici o bucurie
+Aici nu-i pentru mine
+Şi mai degrabă aş vrea
+Ca să-mi sfârşesc cărarea :/.
+
+[s6]
+6. Mi-i dor să scap de toate
+Câte m-a frământat
+De lanţurile toate
+În care am fost legat.
+Cor: /: Căci nici o bucurie
+Aici nu-i pentru mine
+Şi mai degrabă aş vrea
+Ca să-mi sfârşesc cărarea :/.
+
+[s7]
+7. Căci crucea îmi este mare
+M-apasă tot mai greu
+Mi-i dor, ah, doar de Tine
+Mântuitor iubit.
+Cor: /: Căci nici o bucurie
+Aici nu-i pentru mine
+Şi mai degrabă aş vrea
+Ca să-mi sfârşesc cărarea :/.
+
+[s8]
+8. Să zbor aş vrea Isuse
+Să scap de suferinţă
+Să Te întâlnesc Isuse
+E ultima dorinţă.
+Cor: /: Căci nici o bucurie
+Aici nu-i pentru mine
+Şi mai degrabă aş vrea
+Ca să-mi sfârşesc cărarea :/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

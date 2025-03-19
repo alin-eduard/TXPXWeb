@@ -1,0 +1,44 @@
+[s1]
+Doamne, adu-Ţi aminte,
+Te rog, o Bun Părinte,
+Vino şi dă-ne ajutor.
+Uite ce stricăciune şi ce amărăciune
+Este şi astăzi în popor.
+Semnul de la Rusale, al cercetării Tale,
+Este adesea lepădat.
+Goana e tot mai mare
+spre cele pieritoare,
+Lumea e plină de păcat.
+
+[r1]
+/: Vremuri grele, vremuri rele,
+Peste lumea-ntreagă s-au lăsat.
+Doamne scapă-ne din ele,
+Vrem să fim ai Tăi cu-adevărat. :/
+
+[s2]
+Nu se mai proroceşte,
+omul se-mpotriveşte,
+Totul e numai omenesc.
+Firea e-mpodobită, strigă şi se agită,
+Dar nu e harul Tău ceresc.
+Banii, învăţătura,
+răstălmăcesc Scriptura,
+Unde lipseşte Duhul Tău.
+Vai ce nenorocire, oamenii plini de fire,
+Ei zic:"suntem cu Dumnezeu".
+
+[s3]
+Sânt vremuri tot mai grele,
+când vin să ne înşele
+Oamenii fără de Hristos.
+Dar roada îi trădează,
+pe-acei ce nu veghează,
+Chiar dacă ei vorbesc frumos.
+Iată căci Domnul vine, ferice e de cine
+Luptă şi fuge de păcat.
+Vine o zi măreaţă, când vom sta faţă-n faţă
+Cu Cel ce ne-a răscumpărat.
+
+[order]
+s1,r1,s2,r1,s3,r1

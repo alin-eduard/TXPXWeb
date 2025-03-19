@@ -1,0 +1,53 @@
+[s1]
+959.
+1. Ce amar şi grea durere
+Ce plâns fără mângâiere
+Va cuprinde lumea toată
+La ziua de judecată.
+2. Când dreptul Judecător
+Se va arăta pe nor
+Va alege pe ai Săi
+Dintre cei iubiţi ai Săi.
+
+[s2]
+3. Celor răi plini de tristeţe
+Le va zice cu mânie
+Mergeţi cu Satan în Iad
+Că pe el îl ascultaţi.
+4. Iar celor buni le va spune
+Cu cuvinte dulci şi bune
+Veniţi fraţilor cu Mine
+De gustaţi cerescul bine.
+
+[s3]
+5. C-am fost flămând şi însetat
+Am fost gol şi dezbrăcat
+Am fost bolnav şi legat
+Şi de Mine n-aţi uitat.
+6. Ce plângeri vor fi atunci
+Ce suspine grele, munci
+Când ai Săi vor merge bieţii
+La osânda cea de veci.
+
+[s4]
+7. Şi ce bucurie mare
+Va fi la tot omul care
+Până ce-a trăit pe lume
+A făcut tot fapte bune.
+8. Caută omule şi vezi
+Nu cumva timpul să-l pierzi
+Şi de suflet să-ngrijeşti
+Ca să nu te osândeşti.
+
+[s5]
+9. Căci nu ştii când cruda moarte
+Te va despărţi de toate
+Şi atunci vei plânge amar
+Însă toate or fi în zadar.
+10. Plânge şi te pocăieşte
+Până moartea nu soseşte
+Şi te întoarce cât eşti viu
+Că la moarte e târziu.
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,23 @@
+[r1]
+Aleluia Aleluia Domn al slavei
+Rege-al veşniciilor
+Aleluia creator al dreptăţii
+Cu reverenţă mă-nchin în faţa Ta
+
+[s1]
+Ai coborât din gloria Ta în întuneric
+Ai îmbrăcat I de om şi Te-ai smerit
+Ai renunţat la cerul întreg,
+chiar pentru mine
+Şi de la moarte m-ai izbăvit Tu
+
+[s2]
+Ai ales să mori răstignit fără cârtire
+Cum aş putea iubirea TA s-o răsplătesc
+Pentru toate câte mi-ai dat,
+mie-mi rămâne
+Să Te slăvesc, să-Ţi mulţumesc,
+neîncetat
+
+[order]
+r1,s1,r1,s2,r1

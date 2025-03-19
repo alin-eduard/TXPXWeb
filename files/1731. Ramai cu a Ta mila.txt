@@ -1,0 +1,29 @@
+[s1]
+1. Rămâi cu a Ta milă
+La noi Isus Hristos
+Să nu ne ispitească
+Acel răutăcios
+1731.
+2. Rămâi cu a Ta lumină
+O scump Mântuitor
+Şi pururi adevărul
+Ne vie în ajutor
+
+[s2]
+3. Rămâi Isus Preasfinte
+La noi cu al Tău cuvânt
+Ca în credinţă tare
+Să trăim pe pământ
+4. Rămâi cu a Ta iubire
+Isus Hristos la noi
+Ca să avem răbdare
+În pasuri şi-n nevoi
+
+[s3]
+5. Cu binecuvântarea
+Deasupra să ne treci
+Ca s-aşteptăm în pace
+Viaţa cea de veci
+
+[order]
+s1,s2,s3

@@ -1,0 +1,26 @@
+[s1]
+Când viaţa ne pare lipsită de sens
+De ce nu privim la cel mai des
+Căci am putea, uniţi în rugăciune
+Să reclădim speranţa-n lume.
+
+[r1]
+/: Din suflet, Doamne azi să o risipim
+Şi încrezători în Dumnezeu
+Din dragoste să ne dăruim
+Şi fericiţi vom fi mereu :/
+
+[s2]
+Să alungăm norii de tristeţe
+Şi-atunci când ne va fi mai greu
+Bucuria să o menţinem în suflet
+Cerând-o de la Dumnezeu.
+
+[s3]
+Dorim să avem în noi Pacea divină
+Hai, să ne împărtăşim din Ea
+Să fie în noi Calea spre lumină
+Ce ne-ntăreşte credinţa.
+
+[order]
+s1,r1,s2,r1,s3,r1

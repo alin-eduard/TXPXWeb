@@ -1,0 +1,39 @@
+[s1]
+1. Să ieşi să părăseşti de tot
+Cum Avraam a ieşit
+În inimă fă-ţi astăzi vot
+Că-n toate-i vei sluji.
+381.
+
+[r1]
+Cor: O, vino suflete iubit
+La bunul Salvator
+Cu El vei fi tu fericit
+În vecii vecilor.
+
+[s2]
+2. Să ieşi să părăseşti acum
+Sodoma cu păcat
+Nici c-a lui Lot nevastă-n drum
+Să nu fii înşelat.
+
+[s3]
+3. Să ieşi să părăseşti îndat’
+A lumii dulci plăceri
+Să scapi de-a fi în ea înnecat
+În har ca să te ceri.
+
+[s4]
+4. Să ieşi, să ieşi nu merge azi
+Pe calea lată-n jos
+Căci astfel scapi de-al tău necaz
+Slujind lui Isus Hristos.
+
+[s5]
+5. Să ieşi, să ieşi din toate care
+Pe tine te împiedică
+Şi-n Canaan primeşti în dar
+Viaţa veşnică.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

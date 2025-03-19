@@ -1,0 +1,31 @@
+[s1]
+Ca şi vuietul de ape
+Mai aproape, mai aproape
+Răsunau cântările de pe pământ
+Dumnezeu Stăpânitorul,
+El a mântuit poporul
+Şi-l va duce-n marele nemărginit
+
+[r1]
+Nunta Mielului, nunta Mielului
+Nunta cea slăvită a sosit
+Să ne bucurăm şi să ne veselim
+Căci mireasa Lui s-a pregătit
+
+[s2]
+Ca şi tunetele mării,
+De pe bolta-ndepărtării
+Milioanele de îngeri au cântat
+Aleluia! Aleluia!Aleluia! Aleluia!
+Dumnezeul nost-e Sfânt şi minunat
+
+[s3]
+Dumnezeul nostru vine,
+Orice om să I se-nchine
+Şi să fie în continu-pregătit
+Să-şi adune astăzi inul,
+Dacă vrea să treacă chinul
+Şi să fie-n ziua-aceea mântuit
+
+[order]
+s1,r1,s2,r1,s3,r1

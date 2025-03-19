@@ -1,0 +1,33 @@
+[s1]
+/:Veniţi să Îi mulţumim
+Veniţi să Îl preamărim
+Pe El Atotputernic,
+Dumnezeu minunat!:/
+
+[s2]
+Când sunt slab, El e tare
+Când sunt mic, El e mare
+Zi de zi, prezenţa Lui
+o simt în viaţa mea
+
+[s3]
+3
+/:Haideti cu totii sa-i cantam
+Pe Domnul sa-l laudam
+Caci El e marele
+Imparat minunat:/
+
+[s4]
+De aceea acum să Îi cântăm
+Numele să-I înălţăm,
+Lui Isus să-I mulţumim cu toţi.
+
+[s5]
+5
+/:Veniţi să Îi mulţumim
+Veniţi să Îl preamărim
+Pe El Atotputernic,
+Dumnezeu minunat!:/
+
+[order]
+s1,s2,s3,s4,s5

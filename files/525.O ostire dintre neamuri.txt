@@ -1,0 +1,53 @@
+[s1]
+1.	O oştire dintre neamuri
+Sună aşa de glorios
+Că în fruntea lor Apostol Pavel
+Călcând pe urma lui Hristos.
+Cor: 	Martirii, martirii
+Un imn de glorie cântă
+Martirii, martirii
+Pe Dumnezeu îl proslăveau.
+525.
+
+[s2]
+2.	Ei sunt încinşi cu adevărul
+În alb sunt toţi desăvârşiţi
+În mâini le fâlfâie drapelul
+Căci prin Isus sunt mântuiţi.
+Cor: 	Martirii, martirii
+Un imn de glorie cântă
+Martirii, martirii
+Pe Dumnezeu îl proslăveau.
+
+[s3]
+3.	Ei vin din Efes şi din Smirna
+Din Tiatira şi Pergam
+Din Roma vin ei cete, cete
+Şi sunt fii ai lui Avraam.
+Cor: 	Martirii, martirii
+Un imn de glorie cântă
+Martirii, martirii
+Pe Dumnezeu îl proslăveau.
+
+[s4]
+4.	Ei s-au luptat cu lei şi fiare
+Chiar sângele şi l-au vărsat
+Prin amfiteatre şi arene
+Dar de Isus nu s-au lăsat.
+Cor: 	Martirii, martirii
+Un imn de glorie cântă
+Martirii, martirii
+Pe Dumnezeu îl proslăveau.
+
+[s5]
+5.	Şi cântau în faţa morţii
+Căci în Hristos sunt îmbrăcaţi
+Erau din diferite neamuri
+Dar prin Hristos cu toţi sunt fraţi.
+Cor: 	Martirii, martirii
+Un imn de glorie cântă
+Martirii, martirii
+Pe Dumnezeu îl proslăveau.
+
+[order]
+s1,s2,s3,s4,s5

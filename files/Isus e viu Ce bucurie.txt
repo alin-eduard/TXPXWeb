@@ -1,0 +1,26 @@
+[s1]
+Isus e viu! Ce bucurie!
+Isus trăieşte-adevărat!
+Întreaga lume azi să ştie:
+Isus Cristos a înviat!
+
+[r1]
+Piatra şi sigiliul care
+Fost-au puse pe mormânt
+S-au văzut că nu-s în stare
+Să-L ţină veşnic în mormânt
+
+[s2]
+Am înviat cu El şi noi
+Sperăm să înviem odată
+În ziua mare de apoi
+În ziua cea minunată
+
+[s3]
+Isus e viu, ce bucurie,
+Viaţă nouă El ne-a dat
+Cu El trăi-vom pe vecie
+Cu Cel din morţi care-a-nviat
+
+[order]
+s1,r1,s2,r1,s3,r1

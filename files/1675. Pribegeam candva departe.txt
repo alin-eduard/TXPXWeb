@@ -1,0 +1,42 @@
+[s1]
+1675.Sol
+1. Pribegeam cândva departe
+Rătăcind pe căi deşarte
+Dar Tu, Doamne, m-ai iubit
+M-ai scăpat de la moarte.
+Nu te cunoşteam prea bine
+Şi am ales cărări străine
+Dar Tu m-ai scos iubitor
+Din fum si din ruine.
+
+[r1]
+Cor:	Ce-ai găsit Doamne la mine,
+Ce-ai găsit bun şi frumos
+C-ai venit din înălţime
+Să salvezi un păcătos
+Ce-ai găsit Doamne la mine
+Că aşa mult m-ai iubit
+C-ai lăsat chiar slăvi divine
+Şi în braţe m-ai primit.
+
+[s2]
+2. Într-o zi, împins de gloate,
+Te-am văzut cu crucea-n spate.
+Şi-am strigat în rând cu toţi,
+Să fii dat la moarte.
+Când ceream cu ură osânda,
+De sub fruntea-ţi sângerândă,
+Mă chemau doi ochi senini
+Şi-o privire blândă.
+
+[s3]
+3. De atunci plâng şi mi-e ruşine
+Şi te caut în greu şi-n bine,
+Căci /:mi-e dor:/ Isus să mă iei la Tine
+N-aş putea o, Sfinte Tată,
+Să iţi răsplătesc vreodată
+Dragostea Ta, Doamne bun,
+Poate niciodată.
+
+[order]
+s1,r1,s2,r1,s3,r1

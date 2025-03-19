@@ -1,0 +1,71 @@
+[s1]
+Când va începe nunta noastră
+În dimineaţa fără nori;
+O, când va-ncepe nunta noastră,
+Pe-ntreaga întindere albastră
+/: Va fi lumină şi splendori. :/
+712.
+
+[s2]
+2.	Când faţa Ta strălucitoare,
+Isuse drag, se va ivi;
+De faţa Ta strălucitoare
+S-or stinge stele, lună, soare,
+/: Lumina Ta le-a copleşi. :/
+
+[s3]
+3. Noi îmbrăcaţi în alb şi soare,
+Uimiţi de cerul Tău slăvit
+Străluminaţi de-un veşnic soare
+Cântând Ţi-om pune la picioare
+/: Cununa harului primit. :/
+
+[s4]
+4. O, când se
+va-mplini Cuvântul
+Şi când cei morţi vor învia
+O, când se va-mplini Cuvântul
+De bucurie tot pământul
+/: S-a zgudui din temelii :/
+
+[s5]
+5. Când vom
+zbura spre cer Isuse
+Aleşii tăi de pe pământ,
+Când sus în ceruri o, Isuse,
+Vom sta în slăvile nespuse
+/: La masa Ta o, Mire sfânt. :/
+
+[s6]
+6. Când ne-om
+vedea în altă ţară
+Şi în alte corpuri transformaţi
+O, când vom fi în altă ţară
+O, când vom fi cu toţii iară
+/: Toţii fraţii cei răscumpăraţi.:/
+
+[s7]
+7. Când ne-om vedea
+Cu Avraam şi Iacov
+Cu Iosif şi cu fraţii lui
+Când cu Avraam, Isaac şi Iacov
+Vom sta la masa Ta din ceruri
+/: Vom tresălta de bucurii. :/
+
+[s8]
+8. Ah, bucuriile-ntâlnirii
+Ce-n suflet,
+Doamne, vom simţi,
+Ca bucuriile-ntâlnirii
+Şi fericirea fericirii
+/: N-a fost şi nici nu va mai fi. :/
+
+[s9]
+9. O, adă clipa aşteptată
+Din dimineaţa fără nori
+Când Tu din slăvi ai să cobori,
+Şi nunta noastră minunată
+/: Din dimineaţă fără nori. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

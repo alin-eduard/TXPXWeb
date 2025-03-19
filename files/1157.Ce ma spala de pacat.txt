@@ -1,0 +1,29 @@
+[s1]
+1.Ce mă spală de păcat?
+Numai sângele lui Isus.
+Ce mă poate vindeca?
+Numai sângele lui Isus.
+1157                                                                                                               Sol M
+
+[r1]
+Cor
+O, Fluviu minunat,
+Ce spală de - păcat.
+Iertare poate da
+Numai sângele lui Isus.
+
+[s2]
+2.Prin ce voi fi curățit?
+Numa-n sângele lui Isus.
+De Părintele iubit
+Numai sângele lui Isus.
+
+[s3]
+3.Ce mă-mpacă
+cu Domnul?
+Numai sângele lui Isus.
+Ce alungă necazul?
+Numai sângele lui Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1

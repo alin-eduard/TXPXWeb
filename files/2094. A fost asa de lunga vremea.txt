@@ -1,0 +1,50 @@
+[s1]
+2094
+1. A fost așa de lungă vremea
+În care nu Te-am cunoscut
+Dar n-aș dori fără de Tine
+Vreodată să am alt început.
+A fost așa de-amar paharul
+Fără de Tine Domnul meu
+Că n-aș mai vrea, să-l gust vreodată
+Mai bine însetat mereu.
+
+[s2]
+2. A fost așa de grea-ncercarea
+Și parcă nu se mai sfârșea
+Dar când cădeam sub greul crucii
+Simțeam adesea mâna Ta.
+Atunci priveam ades spre ceruri
+Și Duhul Sfânt mă întărea
+Știam că ești mereu la cârmă
+Deși nu Te puteam vedea.
+
+[s3]
+3. A fost așa de mare valul
+Încât nu Te puteam zări
+Dar am știut că ești acolo
+Și cu iubire mă mângâi.
+A fost așa de grea durerea
+Și numai Tu m-ai înțeles
+De aceia mi-ai dat mângâierea
+Și lacrimile mi le-ai șters.
+
+[s4]
+4. A fost așa de lungă vremea
+În care-am așteptat răspuns
+De nu mi-ai fi dat Tu nădejde
+Aș fi căzut de mult răpus.
+Dar am știut că ești acolo
+Și mă-ntărești prin harul Tău
+Și să-mplinești făgăduința
+Oricât se va lupta cel rău.
+
+[s5]
+Coda: Isus, Te slăvesc
+Și Îți mulțumesc
+Mărire și cinste-Ți dau Ție
+Tu, neprețuit, și rege iubit
+Osana, osana-Ți cânt Ție, Amin.
+
+[order]
+s1,s2,s3,s4,s5

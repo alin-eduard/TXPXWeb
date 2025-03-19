@@ -1,0 +1,28 @@
+[s1]
+Cine a crezut in ce ni se vestise
+Cine-a cunoscut bratul Domnului
+Cand priveai la fata Lui
+Te-ngrozeai de atata chin.
+
+[r1]
+Mii de ranii i-au facut,
+mii de ranii Mielului prea sfant
+Dispretuit si alungat
+Om al durerii, Miel curat
+Atat de mult El te-a iubit
+din dragoste s-a daruit
+Ti-a deschis usa spre cer,
+spre Dumnezeu, spre Raiul Sau.
+
+[s2]
+Sangele siroaie curgeau
+Cand strazile El le colinda
+La Golgota cand au ajuns
+Sus pe cruce ei L-au strapuns.
+
+[s3]
+El era Om, Om al durerii
+Si dispretuit de toti……..
+
+[order]
+s1,r1,s2,r1,s3

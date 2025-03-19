@@ -1,0 +1,53 @@
+[s1]
+852.
+1. Odat-om fi-ntr-o unire
+/: Nu-i prea mult :/
+Unde-i numai bucurie
+/: Nu-i prea mult :/
+Unde nu-i strâmtorare
+După luptă vom merge
+În mărire-om petrece
+/: Nu-i prea mult :/.
+
+[s2]
+2. Acolo sus împreună
+/: Nu-i prea mult :/
+Vom cânta cu toţii laudă
+/: Nu-i prea mult :/
+La Regele măririi,
+La soarele dreptăţii
+Care ne miluieşte
+/: Nu-i prea mult :/.
+
+[s3]
+3. O, ce glas sfânt s-auzi
+/: Nu-i prea mult :/
+"Veniţi voi cei blânzi ca mieii"
+/: Nu-i prea mult :/
+Cântare dulce va fi
+Ce nu toţi vor auzi
+Intonând-o îngerii
+/: Nu-i prea mult :/.
+
+[s4]
+4. Atunci la Isus vom cânta
+/: Nu-i prea mult :/
+’Naintea tronului vom sta
+/: Nu-i prea mult :/
+A îngerilor oaste
+Pe cale ne-o petrece
+Până sus vom ajunge
+/: Nu-i prea mult :/
+
+[s5]
+5. Lacrimile vor înceta
+/: Nu-i prea mult :/
+Ni s-a împlini dorinţa
+/: Nu-i prea mult :/
+Cu acei mulţi fericiţi,
+Care mai înainte-au sosit
+În cântări ne-om veseli
+/: Nu-i prea mult :/.
+
+[order]
+s1,s2,s3,s4,s5

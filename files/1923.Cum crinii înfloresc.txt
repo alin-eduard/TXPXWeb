@@ -1,0 +1,33 @@
+[s1]
+1923
+1. Cum crinii înfloresc
+În zori sub cer
+Și doar o zi trăiesc
+Iar seara pier
+
+[r1]
+Cor: Așa-i de trecător
+E omul muritor
+Ca norul călător
+Mai trecător
+
+[s2]
+2. Ca ceața de pe văi
+Ce piere-n vânt
+Se duc a noastre căi
+Către mormânt
+
+[s3]
+3. Ca umbre străvezii
+Spre zări trecând
+Se duc mereu cei vii
+Rând după rând
+
+[s4]
+4. Întoarce-te acum
+La Domnul sfânt
+Căci viața-i griji și fum
+Și nori și vânt
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

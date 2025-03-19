@@ -1,0 +1,14 @@
+[r1]
+/:Ce bine e să-I dăm laudă Domnului:/
+El captivi eliberează, inimi vindecă
+Binecuvântăm numele Lui.
+/:Vreau să-L slăvesc pe El:/
+
+[r2]
+Îţi mulţumim, eşti Salvatorul
+Cu inimi de recunoştinţă ne-nchinăm
+Îndurarea Ta va ţine veşnic
+Eu Te voi lăuda toată viaţa mea.
+
+[order]
+r1,r2,r1,r2,r1

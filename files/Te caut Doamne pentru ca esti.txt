@@ -1,0 +1,37 @@
+[s1]
+Te caut Doamne pentru ca esti Dumnezeul meu!
+Imi inseteaza sufletul meu tot mereu!
+Stau si privesc spre Tine,
+Doamne, esti imbracat in bunatate,
+si cu buzele mele iti dau lauda!
+
+[r1]
+/: Te voi binecuvinta
+dar toata viata mea,
+Si in numele Tau
+minile-mi voi ridica!
+Iar gura mea te lauda
+cu strigate, Doamne,
+In asternut cind ma gindesc
+la Tine! :/
+
+[s2]
+La umbra aripilor Tale
+stau si vesel cint,
+Iar cei ce vor sa-mi ia
+viata-aici jos pe pamint,
+De sabie sint nimiciti
+si de fiare sint striviti,
+Caci mina Ta imi este ajutor!
+
+[s3]
+Acum si noi ca David vrem,
+Doamne, sa-ti multumim,
+De dragostea si bunatatea
+care o primim,
+Caci in locasurile sfinte locuiesti,
+al nost parinte,
+Imbracat in slava si putere!
+
+[order]
+s1,r1,s2,r1,s3,r1

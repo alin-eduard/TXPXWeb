@@ -1,0 +1,34 @@
+[s1]
+2244
+1. Omule să știi
+că dacă nu te pocăiești
+Poate-o altă șansă
+tu nu ai să mai primești
+A trecut un timp,
+Stăpânul mult a așteptat
+Ai adus un rod sau vei fi tăiat.
+
+[r1]
+Cor:	 /: Și-n locul tău vor crește Alte ramuri de măslin
+Ai fost altoit și nu te-ai pocăit:/
+
+[s2]
+2. Omule să știi că vremea
+tare s-a scurtat
+Cel ce te-a sădit,
+în tine rod a căutat
+Ia aminte azi
+că dacă nu te pocăiești
+O judecată grea, să o aștepți.
+
+[s3]
+3. Privește-n viața ta,
+ai avut un timp de har
+Nu știi dacă mâine
+Isus ți-l dăruiește iar
+Dacă inima, mereu,
+mereu se va-mpietri
+Mântuirea ta greu o vei găsi.
+
+[order]
+s1,r1,s2,r1,s3,r1

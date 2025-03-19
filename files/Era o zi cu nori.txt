@@ -1,0 +1,42 @@
+[s1]
+Era o zi cu nori
+pământu-ntreg încremenit
+Privea un om plângând
+Pe cruce la calvar
+Fără păcat, nevinovat,
+Din dragoste purta osânda
+Ce noi toţi am meritat s-o fi purtat
+Suferind a zis:
+
+[s2]
+Iertare, căci ei nu ştiu ce fac
+Iertare, Eu vina le-am purtat
+Si-atunci noi am primit
+Prin jertfa mântuirii
+Iertare, şi-o cale către cer
+El ne-a deschis
+O, iertare.
+
+[s3]
+Şi preţul a plătit, El jertf-a devenit
+Si a băut întreg paharul,
+Chin, durere a răbdat
+Si ca să fiu iertat, El sângele şi-a dat
+Si printre lacrimi
+Parcă-l văd privind cu drag
+Spre cei din jurul său,
+Cerând lui Dumnezeu
+
+[s4]
+“Iertare, căci ei nu ştiu ce fac!
+Iertare, Eu vina le-am purtat! ”
+Şi-atunci noi am primit
+Prin jertfa mântuirii. Iertare
+Şi-o cale către cer El ne-a deschis!
+“O, iertare, Eu vina le-am purtat! ”
+Şi-atunci noi am primit
+Prin jertfa mântuirii. Iertare
+Şi-o cale către cer El ne-a deschis!
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,14 @@
+[s1]
+Prin Isus avem victorie
+Doar prin El avea-vom bucurii
+Si cu Isus învingem pe Satan,
+Căci e Domn.
+
+[s2]
+Prin El izbândă am primit
+Căci ne-a eliberat,
+Prin sângele Lui ne-a sfintit
+Iertându-ne de-orice păcat.
+
+[order]
+s1,s2

@@ -1,0 +1,43 @@
+[s1]
+2058
+1. Răpirea va fi când vrea Domnul
+Că El e atotștiutor
+Iar omul e doar o suflare
+Se trece, se stinge ușor
+Sfârșitul e-atât de aproape
+Sunt semne ce clar ne vorbesc
+Popoarele întregi se-nspăimântă
+Și oameni cu groază privesc.
+
+[s2]
+2. Deaceea acum cu grăbire
+Spre Domnul să strigăm
+La El vom găsi izbăvire
+Curând noi acasă plecăm
+Credința e tot ce rămâne
+Credința ne duce în sus
+Pământul acesta va arde
+Dar noi vom pleca la Isus
+
+[s3]
+3. Voi frați, voi surori, sus privirea
+Curând se aude un glas
+Când Mirele-și cheamă oștirea
+Să strângem uleiul în vas
+Deaceea trăiți așteptarea
+Momentul acela sublim
+E-atât de aproape să vină
+Cu Domnul la nuntă să fim.
+
+[s4]
+4. Răpirea va fi când vrea Domnul,
+Iar zarea se va lumina
+Acel ce-a învins pe Golgota,
+În slavă se va arăta
+Acei ce iubesc al Său nume,
+Acei care mult L-au iubit
+Porni-vor spre țara eternă,
+Spre locul de Tatăl gătit.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,53 @@
+[s1]
+1.	Străjerul cu goarna sună
+În cunoştinţă să ne pună
+Căci vrăjmaşul vrea să vie
+Să ne ducă în robie.
+2.	Strigătul străjerului
+Îi porunca Domnului
+Fiecăruia ne spune
+Ca să ne păzim de lume.
+523.   Mi m
+
+[s2]
+3.	Ia seama frate de tine
+De-ai lepădare de sine
+Firea ta cea pământească
+Vrea din nou să te robească.
+4.	Dacă vrei să lupţi mereu
+Împotriva celui rău
+Scoală azi nu întârzia
+Când auzi tu trâmbiţa.
+
+[s3]
+5.	Gândeşte-te ia bine seama
+Străjerul sună cu goarna
+Tot pentru binele tău
+Ca s-ajungi la Dumnezeu.
+6.	Străjerul a îndeplinit
+Tot ce Domnul a poruncit
+Rămâne să dovedeşti
+Dacă vrei să mai trăieşti.
+
+[s4]
+7.	Iar dacă vrei să mai trăieşti
+Trebuie să-ndeplineşti
+Tot ce Domnul a poruncit
+Şi-n scripturi se află scris.
+8.	Să trăieşti ca Domnul Sfânt
+Cât vei fi pe acest pământ
+Cum El n-a vrut strălucire
+Ca s-atragă vreo privire.
+
+[s5]
+9.	Şi-a fost tot umilit
+În suferinţă obişnuit
+De oameni dispreţuit
+Şi de Tatăl mult iubit.
+10.	Scumpul meu ia bine seama
+Străjerul sună cu goarna
+Deci ascultă sfatul Său
+Ca s-ajungi la Dumnezeu.
+
+[order]
+s1,s2,s3,s4,s5

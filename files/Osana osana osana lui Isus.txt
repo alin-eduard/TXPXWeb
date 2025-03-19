@@ -1,0 +1,26 @@
+[s1]
+/: Osana, osana, osana
+lui Isus în veci :/
+De moarte m-a scăpat,
+viaţa mi-a dat
+El e Domn e al meu păstor
+Osana Lui Isus în veci.
+
+[s2]
+/: Glorie, glorie, glorie
+pentru cel ce-a-nvins :/
+Pentru mine-a răbdat
+Din moarte a-nviat
+Dragostea lui mare m-a cuprins
+Glorie pentru cel ce-a-nvins.
+
+[s3]
+/: Slava, slava, slava
+lui Isus să-I dăm :/
+În curând va veni
+În cer cu El vom fi
+Fericiţi astăzi să-I cântăm
+Slavă lui Isus să-I dăm.
+
+[order]
+s1,s2,s3

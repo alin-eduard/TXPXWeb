@@ -1,0 +1,26 @@
+[s1]
+/: La Tine, Doamne, ia-mă pe nori
+Inima mi-e plină, plină de dor ! :/
+Tu eşti, Doamne, puterea mea
+Făr, Tine, Isus, viaţa e grea.
+/: Să rămîn în Tine-i bucuria mea.
+Şi Tu în mine - eşti viaţa mea ! :/
+
+[s2]
+/: La Tine, Doamne, ia-mă pe nori
+Inima mi-e plină, plină de dor! :/
+La toate, Doamne, pot renunţa
+Chiar dacă-aş pierde viaţa mea.
+/: La Tine, Isus, n-aş renunţa
+Căci singur Tu eşti fericirea mea! :/
+
+[s3]
+/: La Tine, Doamne, ia-mă pe nori
+Inima mi-e plină, plină de dor! :/
+Inima-aşteaptă venirea Ta
+Să ştergi din ochii mei lacrima.
+/: Vino, Isuse, nu-ntîrzia
+Cu Tine, Doamne, pe veci voi sta!:/
+
+[order]
+s1,s2,s3

@@ -1,0 +1,36 @@
+[s1]
+Mai sus de stele, mai sus de nori
+Eu merg spre Tara,
+vesnicei splendori
+Spre locul vesnic, de El promis
+Spre tara slavei, spre Paradis
+
+[r1]
+/: Acolo unde, nu sunt dureri
+Nici griji, nici lacrimi,
+ci-s sfinte mangaieri.
+Acolo unde e Imparat
+Isus Mesia, ce minunat! :/
+
+[s2]
+Dincolo  de zare, dincol de-apus
+E al meu soare, al meu drag Isus
+Plutind pe marea cea de clestar
+Voi fi cu Domnul, ce mare har!
+
+[s3]
+N-ai vrea si tu azi, amicul meu
+S-ajungi in ceruri
+sus la Dumnezeu
+La pomul vietii sa te gasesti
+In raiul slavei sa locuiesti
+
+[s4]
+Mai sus de stele, mai sus de nori
+Eu merg spre tara,
+vesnicei splendori
+Spre locul vesnic, de El promis
+Spre tara slavei, spre Paradis
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,63 @@
+[s1]
+1.	Veniţi şi mai aproape
+Voi cei apropiaţi
+Rugaţi-vă mai tare
+Voi cei ce vă rugaţi.
+Cor: 	Căci Domnul nostru vine
+Şi mare-i plata Sa
+Ferice de oricine
+Va fi găsit aşa.
+530.
+
+[s2]
+2.	Iubiţi şi mai fierbinte
+Voi cei care iubiţi
+Sfinţiţi-vă înainte voi
+Şi mai mult cei sfinţi.
+Cor: 	Căci Domnul nostru vine
+Şi mare-i plata Sa
+Ferice de oricine
+Va fi găsit aşa.
+
+[s3]
+3.	Cântaţi şi mai cu suflet
+Voi cântăreţi iubiţi
+Umblaţi mai fără vină
+Voi cei neprihăniţi.
+Cor: 	Căci Domnul nostru vine
+Şi mare-i plata Sa
+Ferice de oricine
+Va fi găsit aşa.
+
+[s4]
+4.	Trăiţi şi mai cu teamă
+Voi toţi cei vegheatori
+Şi faceţi mai mult bine
+Voi binevoitori.
+Cor: 	Căci Domnul nostru vine
+Şi mare-i plata Sa
+Ferice de oricine
+Va fi găsit aşa.
+
+[s5]
+5.	Luptaţi şi mai cu râvnă
+Voi luptători vestiţi
+Măriţi-vă credinţa
+Voi credincioşi iubiţi.
+Cor: 	Căci Domnul nostru vine
+Şi mare-i plata Sa
+Ferice de oricine
+Va fi găsit aşa.
+
+[s6]
+6.	Fiţi gata dar fiţi gata
+Voi cei ce aşteptaţi
+Căci toţi veţi fi odată
+În slavă îmbrăcaţi.
+Cor: 	Căci Domnul nostru vine
+Şi mare-i plata Sa
+Ferice de oricine
+Va fi găsit aşa.
+
+[order]
+s1,s2,s3,s4,s5,s6

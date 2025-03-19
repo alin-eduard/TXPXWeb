@@ -1,0 +1,46 @@
+[s1]
+Arcuri încordate,
+Fi-vor îndreptate
+Vârfuri ascuţite nu mă tem
+Piedici, bariere,
+Nu, nu au putere
+Când pe Domnul slavei
+Eu Îl chem
+1735.        							Mi m
+
+[r1]
+Cor:	Credincioasă slugă
+Mă aplec în rugă
+Şi Îl chem în ajutor mereu
+Şi de orişiunde
+Domnul îmi răspunde
+Căci El e acelaşi Dumnezeu
+
+[s2]
+2. Piedici pe cărare
+Ştiu că vor apare
+Dar de Domnul Isus nu mă las
+Lui Îi cer putere,
+Har şi mângâiere
+Să mă însoţească pas cu pas
+
+[s3]
+3. Zile-nourate
+Nu mă vor abate
+De la ţinta veşniciilor
+Ploaia şi furtuna,
+Toate împreună
+Le înfrunt
+Cu-al meu Mântuitor
+
+[s4]
+4. Doamne, Tu mă ţine
+Aproape de Tine
+Să mă simt
+La pieptul Tău ceresc
+Tu mă ţine Tată cu haina curată
+În credinţă
+Vreau smerit să cresc
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

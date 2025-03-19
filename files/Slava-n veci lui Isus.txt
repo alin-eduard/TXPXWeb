@@ -1,0 +1,18 @@
+[s1]
+Slavă-n veci lui Isus!
+Slavă şi mărire!
+El a biruit şi ne-a mântuit
+Prin moartea pe cruce!
+Astăzi sunt salvat
+De păcat iertat
+îl voi lăuda şi îi voi cânta
+Toată viaţa mea!
+
+[s2]
+El pentru mine a suferit.
+Pe lemnul crucii El S-a jertfit.
+Şi a şters în mine orice păcat
+îi dau mulţumire căci m-a salvat!
+
+[order]
+s1,s2

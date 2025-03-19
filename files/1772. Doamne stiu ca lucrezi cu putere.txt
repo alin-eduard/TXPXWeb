@@ -1,0 +1,44 @@
+[s1]
+1772. Re
+1. Doamne ştiu că lucrezi cu putere
+Ştiu că Tu eşti la toate în control
+Toate clipele vieţii mele
+Au o ţintă, au un scop, au un rol
+Am găsit mâna Ta ce ridică
+Sufletul întristat şi mâhnit
+Căci eu aflu-n cuvântul ce zice
+/:Eşti al Meu şi vei fi ocrotit:/
+
+[s2]
+2. Când privesc
+Lumea-aceasta cum cade
+Tot mai mult mai adânc în păcat
+Dar în suflet mă doare, mă arde
+Pentru cei care nu i-am salvat
+Nu doresc nepăsarea ce-aduce
+Somnul când alţii mor în păcat
+Pentru toţi ai murit Tu pe cruce
+/:Pentru toţi sângele l-ai vărsat:/
+
+[s3]
+3. Semnele toate spun şi ne-arată
+Eşti aproape, eşti gata să vii
+Până când El la uşă mai bate
+Nu-i târziu să-i deschizi şi să vii
+Până când El mai face chemarea
+La adevăr, la izvor prin Cuvânt
+Până când este har şi îndurare
+/:Nu-L lăsa ca să plece plângând:/
+
+[s4]
+4. Pune totul de-acuma deoparte
+Ura lumii, păcatul murdar
+Vino dar până milă se-mparte
+Azi la cruce iertarea-i în dar
+Căci trăirea sub cruce aduce
+Viaţă veşnică, tu nu uita
+Viaţa aceasta e scurtă, se duce
+/:Dă-i-o Lui şi cinsteşte-L cu ea:/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,18 @@
+[r1]
+/: Ziua, noaptea,
+Îngerii mă ocrotesc :/
+
+[s1]
+De necazuri ies în drum
+Îngerii mereu mă ocrotesc
+Ştiu că Dumnezeu e bun
+Îngerii Lui mă păzesc.
+
+[s2]
+Chiar de noaptea s-a lăsat
+Îngerii mereu mă ocrotesc
+Ştiu că în braţe m-a luat
+Îngerii ma ocrotesc.
+
+[order]
+r1,s1,r1,s2,r1

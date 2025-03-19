@@ -1,0 +1,41 @@
+[s1]
+Priveşte o lume,
+Creată din iubire
+Ascultă natura,
+Ce cântă pentru Tine
+Şi nu mai conteni
+Răspunde la chemare
+Răspunde la iubire.
+
+[r1]
+Spune: Da! Da! Da!
+Iubirea Domnului e a ta
+Primeşte-o în inimă
+Împarte-o tuturor
+Iubirea e şi a lor
+
+[s2]
+Sfinţenia, Ţie nobilă chemare
+Fii tare şi înfruntă
+Furtuna de pe cale
+Ia scutul rugăciunii
+Şi-n sufletul tău,mâine
+Va răsări un Soare.
+
+[s3]
+Hai, curaj, spune tuturor
+Decat păcatul, mai bine mori
+E libertatea ta, curajul,
+Cheia sa fii liber, spune: DA!
+
+[s4]
+Iubeşte,
+În iubire te-ai născut
+Zâmbeşte,
+Cu zâmbet ai crescut
+Iubeşte pe Tatăl,
+Al lumii Creator
+Zâmbeşte tuturor.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,33 @@
+[s1]
+Străinule ce-alergi așa de grăbit,
+Ești așa de obosit
+Și tot aduni, aduni mereu
+Lucruri în desagul tău.
+
+[r1]
+O, călător te gândește
+La ceea ce îți folosește,
+Ce strângi în traista vieții tale
+Comori de veci sau
+Lucruri pieritoare.
+
+[s2]
+Lumea te-mbie să iei tot ce vrei
+Ieftine sunt lucrurile ei,
+Și de-odată ajungi greoi
+Iar în desagă ai numai gunoi.
+
+[s3]
+Tu ești chemat s-aduni
+Doar lucrurile bune
+Cuvânt, post și rugăciune.
+Astfel vei locui cu Isus în veșnicii.
+
+[s4]
+Aceasta poate da valoare,
+Putere să stai în picioare
+În fața marelui Creator,
+Gândește-te străine călător.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

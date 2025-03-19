@@ -1,0 +1,43 @@
+[s1]
+966.
+1. Doamne ce comoară scumpă
+Am găsit la crucea Ta
+Alinare sufletească
+Pentru toată viaţa mea
+2. Când eram fără de Tine
+Eram trist şi apăsat
+De păcatul necredinţei
+Care mă ţinea legat
+
+[s2]
+3. Dar Isus văzându-mi starea
+Că-i din ce în ce mai grea
+El mi-a zis să vin la dânsul
+Căci mă poate mângâia
+4. Eu am ascultat chemarea
+Şi am venit cum El mi-a spus
+Şi am văzut că mângâierea
+Era-n mâna lui Isus
+
+[s3]
+5. Şi de-atuncea ah ce bine
+Mă simţesc la sânul Tău
+Nu aş mai pleca o clipă
+De la Tine Domnul meu.
+6. Căci de dorul Tău Isuse
+Las' şi rang, las' şi palat
+Şi de dragul Tău Isuse
+De lume m-am depărtat
+
+[s4]
+7. Numai asta-i mângâierea
+Anilor de-adânci dureri
+Ca să-mi plâng cu lacrimi calde
+Tot păcatul meu de ieri
+8. Căci din lumea asta mare
+Avuţie şi pământ
+Le laşi toate şi din ele
+Nimic nu duci în mormânt.
+
+[order]
+s1,s2,s3,s4

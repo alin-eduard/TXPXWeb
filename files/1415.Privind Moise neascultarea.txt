@@ -1,0 +1,67 @@
+[s1]
+1415.
+1.  Privind Moise neascultarea
+Israelului rătăcit
+S-a ’ntristat şi plin de jale
+Lui Dumnezeu i-a vorbit
+Până când să sufăr Doamne
+Ast popor pornit la rău
+Ce n-ascultă nici de mine
+Şi nici de cuvântul Tău.
+
+[s2]
+Oare i-am născut eu Doamne
+De mi-ai dat să-i port mereu
+Iar ei tot mă hărţuieşte
+Paşii lor merg înspre rău
+Dacă vrei o Doamne sfinte
+Să mă porţi în mila Ta
+Azi îmi şterge pomenirea
+Pentru veci din cartea Ta.
+
+[s3]
+Căci poporu-acesta Doamne
+Duhul meu mi l-a zdrobit
+Când îi văd că nu-mplineşti
+Cuvântul Tău profeţit
+Domnul însă îi răspunde
+Moise nu pe tine Eu
+Nu-ţi voi şterge pomenirea
+Nici de cum ci pe ce-l rău.
+
+[s4]
+Tot aşa se plâng şi astăzi
+Mulţi părinţi de fii lor
+Căci n-ascultă nici de Tine
+Şi nici de cuvântul lor
+Şi de multe ori adesea
+Tot plângând se istovesc
+Tot mai mulţi îşi pierd nădejdea
+Şi pe cale obosesc.
+
+[s5]
+Doamne Doamne fie-ţi milă
+De acei ce îmi sunt dragi
+Tu-i întoarce la lumină
+Şi din lume să-i atragi
+Doamne vin şi eu cu lacrimi
+Vin la Tine rugător
+O primeşte-a mea inimă
+Şi-nţelege al meu dor.
+
+[s6]
+6.  Doamne văd că-mi ceri întruna
+Pentru ei să-mă jertfesc
+Şi să mă topesc în lacrimi
+Pentru acei ce îi iubesc
+Doamne Doamne fie-ţi milă
+De acei ce i-am născut
+O întoarce-i la lumină
+În dragostea de la început
+Şi atunci Te-oi slăvi întruna
+Neîncetat îţi vom cânta
+Căci ai strâns a noastre lacrimi
+Şi-ai dat biruinţa Ta.
+
+[order]
+s1,s2,s3,s4,s5,s6

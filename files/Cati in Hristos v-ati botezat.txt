@@ -1,0 +1,7 @@
+[s1]
+Câţi în Hristos v-aţi botezat,
+Întru Hristos v-aţi şi-mbrăcat,
+Aleluia! Aleluia!
+
+[order]
+s1

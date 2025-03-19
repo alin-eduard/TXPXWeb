@@ -1,0 +1,37 @@
+[s1]
+Am uitat Isuse
+Cuvintele-Ti rostite
+Tot ce Ti-am promis candva
+E doar un sunet stins
+Dar acum mi-aduc aminte
+Ma-ntorc la Tine Doamne
+Imi iarta necredinta mea
+
+[r1]
+Doamne Tu esti indurare,
+Miel de jertfa pentru noi.
+Stam cu toti in adorare,
+Tie Doamne ne-inchinam.
+
+[s2]
+Mi-am dorit o Doamne
+Sa Te cunosc de aproape
+Sa inteleg iubirea care,
+Nu are sfarsit
+Inchin a mea fiinta
+In prezenta Ta divina
+Ce straluceste vesnic
+Ca un far in noaptea grea
+
+[s3]
+Doamne Ti-ai dat viata
+Pentru omenire
+Atat de mult Tu ne-ai iubit
+Pe o cruce Te-ai jertfit
+Dar murind Ti-ai dat viata
+Si-ai invins pacatul
+Ai inviat Te-ai inaltat
+Si ai sa revii Isus
+
+[order]
+s1,r1,s2,r1,s3,r1

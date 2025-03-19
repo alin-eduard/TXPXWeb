@@ -1,0 +1,50 @@
+[s1]
+Privind la valu-nspumegat,
+lovind fără cruţare
+M-am dus cu gîndul la Isus,
+pe-a Galileii mare.
+
+[s2]
+El dormea liniştit
+Cînd vîntul şi furtuna
+Şi-o noapte-n valul mării-adînci
+Îi ameninţau întruna.
+
+[s3]
+E-aşa de trist să te găseşti
+în noaptea-ntunecată
+Şi-n mica lume singur eşti
+pe marea furioasă.
+
+[s4]
+Privind în jurul tău
+Vezi doar pustiu şi groază
+Căci tu nu simţi, n-auzi,
+nu vezi o rază de speranţă.
+
+[s5]
+Ce fericire-n viaţa ta
+să ai cum ei avură
+Să-L ai pe Domnul şi-al ruga
+să strige la furtună.
+
+[s6]
+Să strige vîntului
+Şi marea El s-o certe
+Ca liniştită luntrea ta
+Spre ţintă să se-ndrepte.
+
+[s7]
+Sînt fericiţi toţi cei ce-L au
+în lume-ntotdeauna
+Plutesc pe mare-ncrezători
+chiar de-ar veni furtuna.
+
+[s8]
+Acolo unde-i El
+Nădejde-i şi speranţă
+Şi-n luntrea vieţii orişicui
+Isus e siguranţă.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

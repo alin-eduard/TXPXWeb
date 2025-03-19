@@ -1,0 +1,28 @@
+[s1]
+1. Dumnezeu ne este adăpost
+Sprijinul şi ajutorul nostru
+Care nu lipseşte niciodată
+În necazuri când este chemat.
+
+[r1]
+Ref
+/: Nu ne temem de s-ar clătina
+Munţii ’nalţi, pământul de-ar crăpa
+Marea-n valuri de ar spumega
+Eu știu că Domnul e de partea mea.:/
+
+[s2]
+2. Este-un râu din care noi vom bea
+Ne înveseleşte inima
+Râul sfânt de viaţă dătător
+Dă putere astăzi tuturor.
+
+[s3]
+3.
+Glasul Lui răsună pe pământ
+Domnul este astăzi cu cel Sfânt
+Turnul de scăpare în nevoi
+Dumnezeu este astăzi cu noi.
+
+[order]
+s1,r1,s2,r1,s3,r1

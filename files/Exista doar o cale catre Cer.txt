@@ -1,0 +1,22 @@
+[s1]
+Există doar o cale către Cer
+Ori mergi pe ea
+ori mergi pe-acelui rău
+Există şi viaţa cea de veci
+Şi numai Tu, Isuse poţi s-o dai.
+
+[r1]
+Numai Tu, da nu mai Tu
+Adevărul şi viaţa
+Eşti Calea care duce la Dumnezeu Numai Tu, Atotputernic
+Poţi schimba viaţa mea
+Într-o harfă ca să cânte slava Ta
+
+[s2]
+Isus poate trnsforma viaţa
+El poate să spele al Tău păcat
+Vin-o la El, predă-te acum degrabă
+Ca să poţi fi şi tu salvat, iertat.
+
+[order]
+s1,r1,s2,r1

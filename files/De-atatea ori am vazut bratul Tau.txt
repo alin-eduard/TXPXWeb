@@ -1,0 +1,41 @@
+[s1]
+De-atâtea am văzut braţul Tău
+Cum mă ţinea când îmi era mai greu
+Din groapă m-ai ridicat,
+să mor nu m-ai lăsat
+Mi-ai pus picioarele pe stâncă
+Doamne m-ai întărit
+când eram mai obosit
+Nu m-ai lăsat în groapa adâncă
+
+[r1]
+/: Eşti lângă mine
+mă îndrumi când sunt pierdut
+Doamne mă ridici
+când pe cale sunt căzut
+Mă întăreşti când lupta este grea
+Îmi dai puteri să pot înainta. :/
+
+[s2]
+De-atâtea ori am văzut
+puterea-Ți mare
+Cum m-ajuta în vreme de încercare
+Când duhul îmi era zdrobit,
+când eram mai necăjit
+Mâna Ți-ai întins spre mine
+Când speranţă nu aveam,
+când în beznă mă găseam
+M-ai luat lângă Tine
+
+[s3]
+Toată viaţa Te voi lăuda
+Pentru ce-ai lucrat în viaţa mea
+Pentru binecuvântări,
+chiar şi pentru încercări
+Vreau mereu să Te slujesc
+Pentru tot ce Tu mi-ai dat,
+pentru harul minunat
+Doamne vreau să-Ți mulţumesc
+
+[order]
+s1,r1,s2,r1,s3,r1

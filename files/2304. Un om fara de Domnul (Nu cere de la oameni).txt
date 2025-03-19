@@ -1,0 +1,42 @@
+[s1]
+2304
+Un om fără de Domnul
+E-un pom neroditor
+Sădit în lumea mare
+Și fără ajutor
+Când firea pământească
+Sufletul i-a-ngrădit
+Inima lui suspină și e nefericit.
+
+[r1]
+/:Nu cere de la oameni
+Să-ți dea fericirea
+Căci numai Domnul
+Știe și poate să ți-o dea
+Încrede-te în Domnul
+Și viața ta va fi
+Rodită și-mplinită
+Cu mii de bucurii.:/
+
+[s2]
+Ce-i omul fără Domnul?
+E-un călător pribeag,
+Ce-aleargă prin lume
+Cu griji împovărat.
+Trudește-o viață-ntreagă,
+Nu-i binecuvântat
+Și-n anii bătrâneții
+E-un trist însingurat.
+
+[s3]
+Așa, omule, vino!
+La Tatăl Dumnezeu
+Căci El ți-a dat viața
+Și totul este El
+Te pocăieste astăzi
+Cât timp tu mai trăiesti
+Împacă-te cu Domnul
+Să ai viață-n veci.
+
+[order]
+s1,r1,s2,r1,s3,r1

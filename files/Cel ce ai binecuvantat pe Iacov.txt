@@ -1,0 +1,25 @@
+[s1]
+Cel ce-ai binecuvintat pe Iacov
+Cand Ti-a cerut numele
+Priveste azi spre mine Dumnezeule
+
+[r1]
+/: Nu Te las pana nu ma binecuvintezi
+Te strig in ruga caci stiu ca veghezi
+Nu vei sta nepasator fata de mine
+Fiindca mi-am pus increderea in Tine :/
+
+[s2]
+Vorbeste-mi si invata-ma
+Cum sa lupt mai bine
+Ca sa ajung biruitor
+Cum a fost si Iacov cu Tine
+
+[s3]
+Nu sunt vrednic sa te privesc
+Dar Iti simt puterea
+Lucrarile-Ti ma clopesesc
+De-aceea-Ti astept venirea
+
+[order]
+s1,r1,s2,r1,s3,r1

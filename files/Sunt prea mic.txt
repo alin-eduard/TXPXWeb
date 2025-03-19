@@ -1,0 +1,26 @@
+[s1]
+Sunt prea mic
+Să fiu între luptători
+Sau printre trăgători
+Sau între-alergători,
+Sunt prea mic
+Să port arcul Domnului,
+Dar sunt în Armata Lui!
+
+[r1]
+Sunt în armata Lui,
+Armata Domnului!
+Sunt prea mic
+Să port arcul Domnului,
+Dar sunt în armata Lui!
+
+[s2]
+Nu-s prea mic să Îl laud ne-ncetat,
+Pe Cel ce m-a creeat,
+Singurul Împărat.
+Nu-s prea mic s-aduc
+Laude Domnului,
+Căci sunt în armata Lui!
+
+[order]
+s1,r1,s2,r1

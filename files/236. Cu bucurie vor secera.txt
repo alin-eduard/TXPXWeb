@@ -1,0 +1,47 @@
+[s1]
+1.Cu bucurie vor
+Secera aceia
+Cei ce cu lacrimi
+Seamănă sămânţa
+Dacă sămânţa o au
+De la Domnul Sfânt
+De seceriş se vor
+Bucura-n curând.
+236								     SOL
+
+[s2]
+/:Bucurii vor fi:/
+Când semănătorii
+Plata vor primi.
+/:Fericiți nespus:/
+În etern vor sta
+La dreapta lui Isus.
+
+[s3]
+2. Pune sămânţa
+Cea bună în tot timpul!
+Harnic mereu tu
+Să fii pentru Domnul.
+Să semeni și ziua
+Și noaptea de va fi.
+Până-i semănatul nu te odihni!
+
+[r1]
+/:Bucurii vor fi:/
+Când semănătorii
+Plata vor primi
+/:Fericiți nespus:/
+În etern vor sta
+La dreapta lui Isus.
+
+[s4]
+3.Aruncă sămânța
+Mereu pe ogoare!
+Aduce-va El sămânța-n lucrare
+El, Domnu-ngrijește
+De tot ce e al Lui.
+Ploaia-Și revarsă,
+Belșugul harului
+
+[order]
+s1,s2,s3,r1,s4,r1

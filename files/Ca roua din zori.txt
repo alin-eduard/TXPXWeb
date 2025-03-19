@@ -1,0 +1,34 @@
+[s1]
+Ca roua din zori ce coboară pe flori
+E dragostea lui Isus;
+O rază de cer ce mângâie-n dureri
+E dragostea lui Isus.
+În lume umblam fără rost
+Şi plin de-ntuneric am fost
+În sufletul meu străluciri au pătruns
+Din dragostea lui Isus.
+
+[s2]
+Cu mult mai presus decât falnicii munţi
+E dragostea lui Isus;
+Adâncă de-ajuns, un ocean nepătruns
+E dragostea lui Isus.
+Nu-i nimeni atât de căzut
+Să nu poată fi renăscut!
+Destul să te laşi prin credinţă condus
+De dragostea lui Isus!
+
+[s3]
+Nimic n-am mai sfânt
+pe întregul pământ
+Ca dragostea lui Isus;
+Oricât de trudit merg
+pe drum însorit
+De dragostea lui Isus.
+Tresalte întregul pământ,
+Şi lumile toate în cânt,
+Căci tot ce va fi preaslăvit în vecii
+E dragostea lui Isus!
+
+[order]
+s1,s2,s3

@@ -1,0 +1,47 @@
+[s1]
+1207.
+Darul vindecărilor
+Prin Duhul Sfânt s-a dat
+Suflet, inimă şi duh
+Hristos a vindecat
+Cor:	/ : Darul vindecărilor : /
+În puterea Duhului Divin
+Lasă pocăinţă, har
+Iar în suflet pace şi alin
+1.
+
+[s2]
+Darul vindecărilor
+Revarsă mângâieri
+Pace, bucurie-n noi
+Bisericii puteri
+2.
+Cor:	/ : Darul vindecărilor : /
+În puterea Duhului Divin
+Lasă pocăinţă, har
+Iar în suflet pace şi alin
+
+[s3]
+Darul vindecărilor
+Alină suferinţi
+Toarnă ungerea de sus
+Prin ruga celor sfinţi
+3.
+Cor:	/ : Darul vindecărilor : /
+În puterea Duhului Divin
+Lasă pocăinţă, har
+Iar în suflet pace şi alin
+
+[s4]
+Darul vindecărilor
+Dă-l Doamne şi la noi
+Multe sunt de vindecat
+În lumea de nevoi.
+4.
+Cor:	/ : Darul vindecărilor : /
+În puterea Duhului Divin
+Lasă pocăinţă, har
+Iar în suflet pace şi alin
+
+[order]
+s1,s2,s3,s4

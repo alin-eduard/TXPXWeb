@@ -1,0 +1,42 @@
+[s1]
+De acum Îţi dau viaţa Ţie,
+Domnul meu iubit,
+Ia-o Tu în stăpânire,
+Chiar acum sunt pregătit;
+Ale mele mari păcate
+Le aduc la crucea Ta
+Să mă speli în al Tău sânge
+Şi curat să­Ţi pot urma.
+
+[s2]
+În zadar mă lupt întruna
+Ca să birui firea mea,
+Tu cunoşti cu ce ispite
+Mă atrage lumea rea;
+Cu nespusa Ta putere
+Rupe lanţul celui rău
+Ca să fiu curat şi liber,
+Ascultând de glasul Tău.
+
+[s3]
+Mă predau cu totul Ţie
+Fără să păstrez nimic;
+Iată vin să fac în toate voia Ta,
+Isus iubit.
+Dă­mi un duh de ascultare
+Ca să fac ce Tu doreşti
+Şi să merg pe calea­ngustă
+După cum îmi porunceşti.
+
+[s4]
+Legământul Tău cu mine,
+Doamne, să-l pecetluieşti,
+Cu­al Tău sânge curs pe cruce
+Duhul meu să­l înnoieşti;
+Numai prin a mea putere
+Nu pot sta pe calea Ta
+Dar privind mereu la Tine
+Biruinţă voi avea.
+
+[order]
+s1,s2,s3,s4

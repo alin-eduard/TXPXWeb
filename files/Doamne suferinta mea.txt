@@ -1,0 +1,32 @@
+[s1]
+Doamne, suferinta mea
+Nu mi-o stie nimenea
+/: Doar mama mea, Isus iubit,
+Ce pentru mine s-a jertfit.
+O, cat de mult a suferit! :/
+
+[s2]
+Te rog, Isus, Mantuitor
+In asternut sa Te cobori,
+/: Sa-mi stergi lacrima de pe-obraz
+Si sa ma mangai in necaz!
+O, izbaveste-ma Tu, azi. :/
+
+[s3]
+Cand valurile vin pe cale
+Si cand bate vantul mai tare
+/: Te rog sa vii Tu-n barca mea,
+Oricat ar fi noaptea de grea;
+Da-mi credinta lui Iosua. :/
+
+[s4]
+Cand pe nori Tu vei veni,
+Ca sa Ii strangi pe-ai Tai copii,
+Ca sa-Ti ridici Mireasa Ta,
+Pana nu se-nchide usa,
+(Lasa-mi deschisa usa
+Sa intru eu la nunta Ta,
+Sa-Ti cant in veci: „Aleluia!"
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,26 @@
+[s1]
+Doamne Isuse, eu te chem
+Să mă ajuţi să pot să-nfrunt
+Necazul greu sub care gem
+La Tine vin cum sunt
+Fa M
+
+[r1]
+/:/: La Tine vin cum sunt (Doamne):/
+La Tine vin aşa cum sunt,
+La Tine vin cum sunt :/
+
+[s2]
+Eu sunt bolnav în stare grea
+Inima Tu-mi poţi vindeca
+Nimeni nu poate pace-a-mi da
+La Tine vin cum sunt
+
+[s3]
+Ce e firesc îndepărtez
+Ca îndreptare să primesc
+Prin al Tău har deci să lucrez
+La Tine vin cum sunt!
+
+[order]
+s1,r1,s2,r1,s3,r1

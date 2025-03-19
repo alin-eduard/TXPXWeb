@@ -1,0 +1,43 @@
+[s1]
+1513.
+1. O Golgota însângerată
+Privelişte adevărată
+/: Aici păcatele se iartă
+Cei ce cred din inima toată
+Căci mântuire şi salvare
+Nu este alta pe sub soare :/
+
+[s2]
+2. O Gheţismani grădină sfântă
+În tine inima mi-e frântă
+/: Gheţismani e loc de jale
+Unde-mi curg lacrimi la vale
+Sudoarea grea ce a căzut
+Ca sângele ea s-a făcut :/
+
+[s3]
+3. Ierusalime Ierusalime /
+Ce mult am plâns eu pentru tine
+/: Pe a tale străzi cu crucea-n spate
+Ai dus povara de păcate
+Ce urme sfinte ai lăsat
+Sânge ce-a curs nevinovat :/
+
+[s4]
+4. O neam ce eşti chemat în vie
+Să fii părtaș la moştenire
+/: Dar fruntea ta ţi-o încreţeşti
+Pe Mine nu mă mai iubeşti
+Alegi cărări ce duc la moarte
+Cu Mine să nu mai ai parte :/
+
+[s5]
+5. Cu drag să îmi asculţi chemarea
+Să mă cinsteşti cu ascultarea
+Să-ţi dau veşminte de mireasă
+Să fii moştenitor în casă
+Aicea să trăiţi ca mieii
+Şi veţi zbura ca porumbeii :/
+
+[order]
+s1,s2,s3,s4,s5

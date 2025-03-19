@@ -1,0 +1,53 @@
+[s1]
+1. Frate de simţi vreo durere
+De ai vreun necaz nespus
+Pune-ţi de grabă înainte
+Chinul Domnului Isus.
+2. Dacă ţi-a vorbit vecinul
+Un cuvânt poate de rău
+Aminteşte-ţi de ocara
+Lui Isus stăpânul tău.
+622.
+
+[s2]
+3. Dacă ţi-a furat averea
+Şi tu plângi neîncetat
+Uită-te şi tu la Domnul
+Şi cămaşa I-au luat.
+4. De eşti dat în judecată
+De vrăjmaşul tău mişel
+Să priveşti la Domnul ţintă
+Cum a fost judecat El.
+
+[s3]
+5. Dacă pe nedrept creştine
+Ai fost chiar şi osândit
+Să-ţi aduci atunci aminte
+De Isus cel răstignit.
+6. Şi-apoi pune-ţi întrebarea
+Dacă este chinul tău
+Tot aşa grozav şi mare
+De te plângi atât de rău.
+
+[s4]
+8. El a fost întins pe cruce
+Cu cel din urmă tâlhar
+Numai să ne scape frate
+Din Iadul cel prea amar.
+7. Poate tu iubite frate
+Tot eşti vinovat un pic
+Însă Domnul ştii prea bine
+Nu i S-a găsit nimic.
+
+[s5]
+9. Te opreşte dar creştine
+Şi nu te mai răzbuna
+Ci gândeşte-te la Stăpânul
+Cum pe toate le răbda.
+10. Şi de câte ori iubite
+Vei fi singur şi mâhnit
+Să-ţi aduci atunci aminte
+De Isus cel răstignit.
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,30 @@
+[s1]
+Ne-om scutura, ca pomii primăverii;
+Ca albe flori, cădea-vom la pământ.
+/: Vasul de lut gusta-va ceaţa serii,
+Iar sufletul va fi la cel Preasfânt. :/
+Re minor
+3
+
+[s2]
+Şi vom zbura, ca păsările toamna;
+Şi frunze vechi cădea-vor pe cărări.
+/: Trup ostenit, uita-vei ce e teama,
+Când sufletul pleca-va spre-alte zări! :/
+2
+
+[s3]
+Ne-om odihni, sub razele de soare,
+Ca grâu-n holde proaspăt secerat;
+/: Va putrezi ţărâna trecătoare,
+Dar grâul vei păstra, Părinte'nalt! :/
+1
+
+[s4]
+Şi vom dormi, ca grâul sub zăpadă;
+Ne-om odihni-n imaculatul ei.
+/: Nădejdea noastră-n El n-are să cadă!
+Vom învia ca primii ghiocei. :/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,20 @@
+[s1]
+Tu Doamne esti viata
+Tu imi esti speranta
+Tu esti mangaierea,
+cand grea mi-e durerea
+Tu esti bucuria, ce-alunga mania
+Tu-mi esti iubirea
+cand trista-i privirea
+Comori nepatrunse
+din cer Tu imi daruiesti
+
+[s2]
+In tine am pace chiar daca-i razboi
+Tu imi esti lumina chiar noptii in toi
+Tu esti fericire si-n vremi de necaz
+Esti cantecul dulce de-s lacrimi
+pe-obraz
+
+[order]
+s1,s2

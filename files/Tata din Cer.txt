@@ -1,0 +1,37 @@
+[s1]
+/: Tată din Cer, eşti fericit
+De ai Tăi copii :/
+/: Şi tot ce e bun şi desăvârşit
+E darul Tău :/
+Tată din Cer.
+
+[s2]
+/: Tată din Cer neschimbat
+Pentru vecie :/
+/: Şi tot ce e bun şi desăvârşit
+E darul Tău :/
+Tată din Cer.
+
+[s3]
+/: Tată din Cer, în veşnicii
+Vom fi cu Tine :/
+/: Şi tot ce e bun şi desăvârşit
+E darul Tău :/
+Tată din Cer.
+
+[s4]
+/: Tată din Cer, iubirea Ta
+Rămâne veşnic :/
+/: Şi tot ce e bun şi desăvârşit
+E darul Tău :/
+Tată din Cer.
+
+[s5]
+/: O, ce bun :/
+Tată din Cer
+/: Şi tot ce e bun şi desăvârşit
+E darul Tău :/
+Tată din Cer.
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,42 @@
+[s1]
+1. Cum să-I cânt Domnului meu
+În orice vreme
+Cum să-I cânt, cum să-I cânt
+De nimic în lumea asta
+Nu m-aş teme
+Nu m-aş teme, nu m-aş teme
+1722.Si m
+
+[r1]
+Cor: 	/:Căci Domnul este stânca mea
+Mâna Lui mă va ţinea 	Întotdeauna
+Domnul este a mea tărie
+Voi cânta cu bucurie
+Numele lui sfânt
+Şi mare-L voi înălţa
+La Domnul îmi e speranţa
+Şi în El am siguranţa
+Glorie în veci, Aleluia:/
+
+[s2]
+2. Cum să-I cânt Domnului meu
+Să îi placă
+Cum să-I cânt, cum să-I cânt
+Îmi voi smeri inima şi fiinţa toată
+Îmi voi smeri, îmi voi smeri
+
+[s3]
+3. Voi cânta în casa pribegiei mele
+Voi cânta, voi cânta
+În tovărăşia celor fără prihană
+Între ei, între ei
+
+[s4]
+4. Voi cânta cântarea cea de izbăvire
+Voi cânta, voi cânta
+În cântarea mea va fi
+Doar preamărire
+Numelui veşnic sfânt
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

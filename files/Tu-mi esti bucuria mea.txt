@@ -1,0 +1,37 @@
+[s1]
+/:Tu-mi esti bucuria mea
+Numai Tu, numai Tu:/
+/:C-ai murit pe Golgota
+Pentru mantuirea mea
+Numai Tu, Isuse numai Tu:/
+
+[s2]
+/:Tu esti paine-adevarata
+Numai Tu, numai Tu:/
+/:Ce-a din ceruri coborata
+La toti ai fost impartita
+Numai Tu, Isuse numai Tu:/
+
+[s3]
+/:Tu esti apa minunata
+Numai Tu numai Tu:/
+/:Cati din Tine se-adapa
+Nu-nseteaza niciodata
+Nicidecum, Isuse nicidecum:/
+
+[s4]
+/:Tu vei fi salvarea mea
+Numai Tu, numai Tu:/
+/:Cand pe nori vei aparea
+Casa-ti iei mireasa Ta
+Numai Tu, Isuse numai Tu:/
+
+[s5]
+/:Tu esti mantuirea mea
+Numai Tu, numai Tu:/
+/:Colo sus la dreapta Ta
+In imparatia Ta
+Numai Tu, Isuse numai Tu:/
+
+[order]
+s1,s2,s3,s4,s5

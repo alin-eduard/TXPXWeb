@@ -1,0 +1,69 @@
+[s1]
+Un călător se cobora
+Spre Ierihon pe drum grăbit
+Având cu el averea sa
+Cu oameni răi s-a întâlnit.
+Trecând pădurea de măslin
+L-au întâlnit nişte străini
+Şi l-au bătut l-au dezbrăcat
+Şi-aproape mort ei l-au lăsat.
+1.
+1098.
+
+[s2]
+Trecând pe-acolo un levit
+Pe-acelaşi drum întâmplător
+Spre cel căzut el a privit
+Indiferent, nepăsător
+Trecând la fel şi un preot
+Şi el privi şi-atâta tot
+Pe cel căzut şi dezbrăcat
+Să moară jos ei l-au lăsat.
+2.
+
+[s3]
+Dar pe sub ramuri de măslini
+Pe-acelaşi drum se cobora
+Un călător cu-al său asin
+Samaritean el se numea
+Şi când privi la cel sărman
+Acel milos Samaritean
+El s-a oprit l-a ridicat
+Şi rănile i le-a legat.
+3.
+
+[s4]
+Şi-atunci pe drumul de pustiu
+Până la han pân’ la hangiu
+Pe spate la asin l-a pus
+Şi-n casă pe căzut l-a dus
+Şi pentru el a cheltuit
+Hangiului El a plătit
+Samariteanul cel milos
+Era Isus, Isus Hristos.
+4.
+
+[s5]
+Şi tu la fel ca şi-acest om
+Mergeai în drum spre Ierihon
+Şi-atâţi leviţi şi-atâţi preoţi
+Trecut-au toţi nepăsători
+Dar bunul tău Samaritean
+El te-a adus din nou la han
+Şi rănile ţi le-a legat
+Şi de păcate te-a iertat.
+5.
+
+[s6]
+Trecând pădurea de stejari
+Tu frate fii mereu atent
+Că valea-i plină de tâlhari
+Ce-ţi urmăresc al tău suflet
+În jos să nu cobori nicicând
+Chiar dacă urci ades plângând
+Tu mergi cu crucea până sus
+Aşa cum mergea şi Isus.
+6.
+
+[order]
+s1,s2,s3,s4,s5,s6

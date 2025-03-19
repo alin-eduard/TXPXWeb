@@ -1,0 +1,33 @@
+[s1]
+Voi lăuda pe Domnul meu cât voi trăi!
+Voi lăuda pe Dumnezeu mereu,
+da, cât voi fi!
+Ferice de cine are ajutor
+pe Dumnezeul lui Iacov!
+Acela este fericit şi va trăi în veci.
+Ferice de cine se-ncrede-n El,
+în Dumnezeul său!
+Acela-i binecuvântat şi va trăi în veci.
+
+[s2]
+Nu vă-ncredeţi în cei mari,
+în fiii oamenilor.
+Suflarea lor va trece-ntr-o zi
+cu planurile lor.
+/: Încredeţi-vă-n Dumnezeu,
+El vă fereşte de-orice rău!
+Încredeţi-vă în Isus
+ce ne-a răscumpărat! :/
+
+[s3]
+Domnul deschide ochii orbilor,
+dă pâine celor flămânzi.
+Pe cei bolnavi îi vindecă
+prin credinţa lor în El.
+/: Încredeţi-vă-n Dumnezeu,
+El vă fereşte de-orice rău!
+Încredeţi-vă în Isus
+ce ne-a răscumpărat! :/
+
+[order]
+s1,s2,s3

@@ -1,0 +1,44 @@
+[s1]
+Din cer, de la Tatăl,
+Isus a venit
+Vestind mântuirea prin har.
+Dar n­-a fost primit,
+Ci mereu prigonit,
+Isus, cel trimis nouă-­n dar.
+
+[r1]
+Coroană de spini
+A purtat pe Calvar,
+L­-au scuipat
+Şi L­-au batjocorit.
+A murit suferind
+Pentru­-al lumii păcat,
+Da, El pentru noi a răbdat.
+
+[s2]
+Isus a trăit pe pământ,
+Printre noi,
+Dar loc de popas n-­a avut.
+Slujind şi­-ntărind,
+Ajutând în nevoi
+El multe minuni a făcut.
+
+[s3]
+Isus a venit la ai Săi,
+Plin de har,
+Dar ei pe o cruce L-­au pus.
+Azi Domnul Se­-apleacă
+Spre turma Lui iar
+Cu jarul iubirii de sus.
+
+[s4]
+Coroană de spini
+A purtat pe Calvar,
+L­-au scuipat
+Şi L-­au batjocorit.
+A murit suferind
+Pentru-­al lumii păcat,
+Da, El pentru noi a răbdat.
+
+[order]
+s1,r1,s2,r1,s3,s4

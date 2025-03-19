@@ -1,0 +1,38 @@
+[s1]
+Ma-nchin acum in fata Ta Isus
+Ma-ntorc la Tine-n durerat si plans
+/: Sunt o mana de pamant
+si-am trait prin ploi si vant
+Domnul meu primeste-ma cum sunt.:/
+
+[s2]
+Sunt un suflet osandit
+ce suspin necontenit
+Iarta-ma ca mult am ratacit.
+
+[s3]
+E minunat ca stau in Fata Ta
+Privirea Doamne n-o pot ridica
+/: Am privit ce e pacat,
+am atins ce-i necurat
+Iarta-ma mi-e sufletul patat. :/
+
+[s4]
+Cat de mult Tu ma iubesti
+Si cum sunt azi ma primesti
+Sufletul Isus mi-l mantuiesti.
+
+[s5]
+Imi pare rau de tot ce am gresit
+Ca Voia Ta Isuse n-am trait
+/: Ma intorc impovarat,
+si trudit de-al meu pacat
+Iarta-ma o Doamne-s vinovat.:/
+
+[s6]
+Azi pornesc pe calea Ta
+Si mereu Te-oi lauda
+Pana cand spre Cer m-oi ridica.
+
+[order]
+s1,s2,s3,s4,s5,s6

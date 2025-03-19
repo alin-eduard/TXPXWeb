@@ -1,0 +1,32 @@
+[s1]
+Ce jertfă de iubire pentru mine
+Pe cruce ai adus, o, Domnul meu !
+Ai renunţat la slăvile senine
+Primind în schimb, o, chinul cel mai greu
+Cu ochi senini şi plini de mîngîieri
+Priveai prin veacuri chipul meu de-acum
+Ai hotărît ca prin a Ta putere
+Să mă întorc de pe-al morţii drum.
+
+[r1]
+/: Afară :/
+Mi-ai spus că Tu nu mă vei arunca.
+La Tine, chiar la Tine
+În gloria cea veşnică voi sta.
+/: Afară :/
+Toţi cei ce vin la Tine nu vor fi.
+Afară, chiar afară
+Vor rămînea cei răi şi vor scrîşni.
+
+[s2]
+În noul Tău Ierusalim, Isuse
+Ca stîlp doresc a mă întemeia.
+Pecetea Ta pe frunţile multora
+Să strălucească înspre slava Ta.
+Căci al Tău Nume, Doamne, niciodată
+Nu se va şterge, ci va rămînea
+Pe a lor frunţi emblema nevisată
+Acolo sus, acolo-n ţara mea.
+
+[order]
+s1,r1,s2,r1

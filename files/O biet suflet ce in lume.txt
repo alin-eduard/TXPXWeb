@@ -1,0 +1,23 @@
+[s1]
+O, biet suflet ce în lume
+Ai necaz şi-amărăciuni
+Vin’ la Isus tot Îi spune
+Stăruind în rugăciuni.
+Vino dară, vin’ acuma
+Vin’ la Isus, l-al Său sân
+Cu blândeţe şi iubire
+Azi te cheamă Domnul bun.
+La M
+
+[s2]
+Vino astăzi, vin’ degrabă
+Astăzi încă mai e har
+Căci în Raiul plin de slavă
+Vei primi viaţă-n dar.
+Vino dară, vin’ acuma
+Vin’ la Isus, l-al Său sân
+Cu blândeţe şi iubire
+Azi te cheamă Domnul bun.
+
+[order]
+s1,s2

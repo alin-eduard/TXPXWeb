@@ -1,0 +1,46 @@
+[s1]
+1. Dumnezeu e adăpostul
+Și un sprijin pentru noi
+Ajutor ce nu lipsește
+Niciodată în nevoi.
+923
+
+[s2]
+Este-un râu, a lui izvoare
+Veselesc cetatea vie,
+Sfânt locașul locuinței
+Celui veșnic din vecie
+
+[r1]
+De aceea nu ne temem
+De-ar vui îngrozitor
+Tot pământu-ntreg
+Și munții
+În adâncul mărilor.
+
+[s3]
+2.Și în mijlocul cetății
+Este Domnul Dumnezeu
+Nu se clatină vreodată
+O ajută brațul Său.
+
+[s4]
+Domnu-oștirilor sublime
+E cu cei aleși mereu
+El e turnul de scăpare
+Ajutor în ceasul greu
+
+[s5]
+3. A pus capăt la războaie
+Pân` la margini de pământ
+Care de război sfărmat-a
+Arc și suliță a frânt.
+
+[s6]
+Vă opriți, să știți că Domnul
+Peste neamuri e stăpân
+Dumnezeu pe întreg pământul
+Pentru cei ce-n El rămân.
+
+[order]
+s1,s2,r1,s3,s4,r1,s5,s6,r1

@@ -1,0 +1,52 @@
+[s1]
+Mi m
+1. Duh de rugăciune,
+Doamne-n mine pune:
+/:Ca să pot să fiu,
+Pentru Tine, viu;
+Ca să pot cânta
+Pentru slava Ta.:/
+175.
+
+[s2]
+2. Duh de rugăciune,
+Doamne-n mine pune:
+/:Ca să zbor mai lin,
+Înspre-un cer senin,
+Ca să fiu ne-nfrânt
+De-al ispitei vânt:/.
+
+[s3]
+3. Duh de rugăciune,
+Doamne-n mine pune:
+/:Ca să am, deschis,
+Drum spre Paradis,
+Ca să înţeleg
+Adevăru-ntreg:/.
+
+[s4]
+4. Duh de rugăciune,
+Doamne-n mine pune:
+/:Ca să fiu un far,
+Cu-al iubirii jar;
+Ca să-mbrac ceresc
+Traiul pământesc.:/
+
+[s5]
+5. Duh de rugăciune,
+Doamne-n mine pune:
+/:Ca să pot s-ascult
+Voia Ta, mai mult,
+Ca să port curat
+Chipu-Ţi minunat! :/
+
+[s6]
+6. Duh de rugăciune,
+Doamne-n mine pune:
+/:De aceea-Ţi cer,
+Ca să-mi dai din cer,
+Fără timp şi loc
+Duh de rugă-n foc! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

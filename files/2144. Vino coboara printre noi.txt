@@ -1,0 +1,45 @@
+[s1]
+2144
+1. Vino coboară printre noi
+Lasă-Ți azi pacea Ta,
+o, Doamne
+Mângâie sprijinând pe toți.
+
+[r1]
+Cor: /: Vino coboară-n adunare
+Mângâie sufletul întristat
+Lasă acum balsam
+de vindecare
+Peste acei ce Te-au strigat:/
+
+[s2]
+2. Vino că Te așteptăm Isuse
+Lasă Duhul azi peste noi
+Să ne umple de putere
+Să strigăm Isus este cu noi.
+
+[s3]
+3. Unii au nevoie de lumină
+Alții ca să umble nu
+mai pot
+Noi știm că puterea-i
+de la Tine
+Tu ești Medic poți să vindeci tot.
+
+[s4]
+4. Dacă vrei să scapi de
+a ta povară
+Orișicât ar fi fost ea
+de grea
+Las-o azi la Isus la picioare
+Și pe loc te va vindeca.
+
+[s5]
+Cor: /: Vino coboară-n adunare
+Lasă al Tău balsam de vindecare
+Ca să plece astăzi toți bolnavii
+Vindecați de al lor
+Mântuitor :/.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5

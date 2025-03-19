@@ -1,0 +1,28 @@
+[s1]
+2055
+1. Secerișul este foarte aproape
+Lucrătorii sunt așa puțini
+Doamne Te rugăm să scoți chiar astăzi
+Oameni vrednici de putere plini
+
+[r1]
+Cor: /: Secerișu-i mare
+Lucrători-s puțini
+Haideți în lucrare
+Tineri și bătrâni :/
+
+[s2]
+2. Voi ce stați la umbră fără slujbă
+Socotind că arșița-i prea grea
+Va veni o zi de socoteală
+De ce n-ați lucrat va întreba.
+
+[s3]
+3. Nu mai sta pe gânduri
+când te cheamă
+Și răsplată poți a căpăta
+De nu vei cădea de oboseală
+Cu viața veșnică te-a-ncununa.
+
+[order]
+s1,r1,s2,r1,s3,r1

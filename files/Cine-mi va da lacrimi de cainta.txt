@@ -1,0 +1,40 @@
+[s1]
+Mi minor
+Cine-mi va da lacrimi de căinţă?
+Aş plânge noapte şi zi!
+/: Unde-aş găsi pace pentru suflet?
+Toata îndoiala ar fugi... :/
+
+[s2]
+Plânge, plânge împăratul David;
+Oare nu-i ajung arginţi?
+/: Dar el plânge pentru că el vede,
+Duhul Sfânt se duce de la el... :/
+
+[s3]
+Cine-mi va da lacrimi ca Mariei,
+Ce plângea lângă Isus
+/: Şi cu lacrimi Ii spăla picioarele?
+Pace pentru suflet şi-a găsit. :/
+
+[s4]
+Curg lacrimi la ucenicul Petru
+Care-şi plânge vina sa;
+/: Şi, pentru căinţa lui amară,
+Domnul toata vina i-a iertat. :./
+
+[s5]
+Să privim lacrimile lui Isus
+Care-au curs din ochii Lui,
+/: Pentru pacea Ierusalimului
+Şi pentru-a lumii mântuire.:/
+
+[s6]
+Să-mi dai, Doamne,
+lacrimi de acelea,
+Ca să fiu eu ascultat!
+/: Şi să nu plâng afara la uşă,
+Unde lacrimi n-or mai ajuta. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

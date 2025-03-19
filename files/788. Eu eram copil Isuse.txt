@@ -1,0 +1,73 @@
+[s1]
+1. Eu eram copil Isuse
+Glasul când ţi-am înţeles
+/: Drumul crucii, drumul crucii
+Suferinţa mi-am ales :/.
+788.
+2. La-nceput era o pace
+Calea plină de popor
+/: Drumul crucii, drumul crucii
+Era dulce şi uşor :/.
+
+[s2]
+3. Dar când a venit furtuna
+Şi prigoana mai târziu
+/: Drumul crucii, drumul crucii
+Rămăsese mai puţini :/.
+4. Şi din ce mergea şi crucea
+Tot mai greu mi se părea
+/: Drumul crucii, drumul crucii
+Tot mai sus, mai sus era :/.
+
+[s3]
+5. Crucea grea era şi spini
+Şi-nmulţindu-se amar
+/: Drumul crucii, drumul crucii
+Ajunsesem la Calvar :/.
+6. Am căzut în mâna-Ţi dulce
+Ridicându-mă în sus
+/: Drumul crucii, drumul crucii
+Mă-ntâlnisern cu Isus :/.
+
+[s4]
+7. El mi-a arătat Golgota
+Mi-a spus chinurile Lui
+/: Drumul crucii, drumul crucii
+Până acolo-n vârf să-l sui :/.
+8. Crucea grea dar ce-nsemnează
+Că sunt mic şi nu pricep
+/: Drumul crucii, drumul crucii
+Nici acum nu-l înţeleg :/.
+
+[s5]
+9. Dar Isus Mântuitorul
+Îmi arată crucea Lui
+/: Drumul crucii, drumul crucii
+Până acolo sus să-l sui :/.
+10. El m-a prins mereu de mână
+Şi mă sprijini când cad
+/: Drumul crucii, drumul crucii
+El mă ajută când sunt  slab :/.
+
+[s6]
+11. Asta-i floarea strânsă-n palme
+Şi-n mănunchi le-am adunat
+/: Drumul crucii, drumul crucii
+Suferind l-am învăţat :/.
+12. Şi în suferinţă frate
+Nu vei da nicicând napoi
+/: Că Isus Mântuitorul
+Este veşnic lângă noi :/.
+
+[s7]
+13. Şi în scumpa Ta cetate
+Unde Tu loc mi-ai gătit
+/: Vom veni şi noi atunci
+Când şi pe noi ne-i chema :/.
+14. Iar în zilele din urmă
+Când pe nume ne-i chema
+/: Vom veni cu bucurie
+Şi cununa vom lua :/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

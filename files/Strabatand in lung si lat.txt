@@ -1,0 +1,35 @@
+[s1]
+Strabatand in lung si-n lat
+Lumea toata-am cautat
+Un prieten si un frate-adevarat
+Dar zadarnic, n-am gasit
+Si-am ramas dezamagit
+Totusi intr-o zi un om am intalnit
+
+[r1]
+/: Isus, Isus,
+O ce nume minunat,
+Isus, Isus,
+prietenul adevarat. :/
+
+[s2]
+Oameni multi am cunoscut
+Si in multi m-am increzut
+Insa de-al lor drum
+Cu totii si-au vazut
+O ce crunt m-am inselat
+Toti sunt oameni slabi si cad
+Numai unul niciodat`
+nu m-a tradat
+
+[s3]
+Nu-ti doresti si tu acum
+Asa prieten scump la drum
+Cand toti cei din jur
+sunt abur, praf si scrum
+Poti sa-L ai daca ai vrea
+El e-aproape, zi doar “da”
+E Isus Hristos, omul din Golgota
+
+[order]
+s1,r1,s2,r1,s3,r1

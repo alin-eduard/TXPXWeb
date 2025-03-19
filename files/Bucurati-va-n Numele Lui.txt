@@ -1,0 +1,9 @@
+[s1]
+/: Bucuraţi-vă-n Numele Lui
+Voi, toţi servii Domnului !
+Ridicaţi mîinile şi Îl slăviţi
+Voi, toţi slujitorii Lui ! :/
+/: Eu mă voi bucura-n El ! :/ (4x)
+
+[order]
+s1

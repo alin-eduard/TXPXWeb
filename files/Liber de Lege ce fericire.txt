@@ -1,0 +1,20 @@
+[s1]
+Liber de Lege, ce fericire,
+Orice păcat e şters pe vecie;
+Spre mântuirea noastră-i de-ajuns
+Sângele scump al lui Isus.
+
+[r1]
+Păcătosule, o, înţelege:
+Domnul ne-a scăpat din făr’delege;
+Spre mântuirea noastră-i de-ajuns
+Sângele scump al lui Isus.
+
+[s2]
+În Domnul nostru nu-i condamnare,
+Făgăduinţa-I are valoare.
+,,Veniţi la Mine”, zice Isus;
+Cuvântul Lui nu e de-ajuns.
+
+[order]
+s1,r1,s2,r1

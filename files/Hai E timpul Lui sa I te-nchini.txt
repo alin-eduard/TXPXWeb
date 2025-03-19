@@ -1,0 +1,16 @@
+[s1]
+Hai! E timpul Lui să I te-nchini
+Hai! E timpul să-I dai inima
+Hai! Aşa cum eşti să I te-nchini
+Hai! Aşa cum eşti dă-I inima
+Hai!
+
+[s2]
+Într-o zi vor spune toţi
+Doar Tu eşti Domn
+Într-o zi toţi se vor pleca
+Comoară de preţ vei rămâne-n veci
+Celor ce Te-aleg!
+
+[order]
+s1,s2

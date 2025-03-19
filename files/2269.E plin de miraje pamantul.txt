@@ -1,0 +1,39 @@
+[s1]
+2269.              Re minor
+1.E plin de miraje pamantul
+De patimi ce-atrag in noroi;
+Muscam din pacat tot mai lacom,
+Si tot mai flamanzi si mai goi.
+
+[r1]
+Ref:    Dar sus la Golgota, pe cruce
+Cu pieptul de-o lance străpuns,
+La tainica vremii răscruce
+Ne-așteaptă, cu lacrimi, Isus.
+
+[s2]
+2.În ritm de stridente orchestre
+Perechile lumii petrec;
+Crezându-se domni peste clipă
+Alături cu clipele trec.
+
+[s3]
+3.Aleargă mașini pe artere
+Rachete zvâcnesc printre nori;
+Tresare Selena-n cratere
+Saturn e cuprins de fiori.
+
+[s4]
+4.Tu, rege al vremurilor noastre
+Tu, om, ce străbați prin stihii
+Tu știi să te-nalți printre astre
+Dar taina supremă n-o știi!
+
+[s5]
+Ref:    Tu nu știi că, sus pe Golgota
+Cu pieptul de-o lance străpuns
+Sub norii ce-ntunecă bolta
+Te-așteaptă, cu lacrimi, Isus!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5

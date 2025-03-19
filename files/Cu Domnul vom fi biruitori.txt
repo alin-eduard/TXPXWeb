@@ -1,0 +1,21 @@
+[s1]
+Cu Domnul vom fi biruitori
+El ne va veni în ajutor
+Deci să-L lăudăm
+pe-al nostru Salvator
+El e Domn !
+
+[r1]
+Căci Domnul, El, ne-a caştigat
+Şi ne-a eliberat
+Cuvîntul Lui viaţă ne-a dat
+Şi lumea va cunoaşte.
+
+[s2]
+Da, steagul biruinţei Lui
+Al Adevărului
+Vor înălţa copiii Lui
+Şi lumea va cunoaşte.
+
+[order]
+s1,r1,s2,r1

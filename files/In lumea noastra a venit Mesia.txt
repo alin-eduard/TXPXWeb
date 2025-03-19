@@ -1,0 +1,26 @@
+[s1]
+În lumea noastră a venit Mesia,
+De sus din ceruri de la Dumnezeu.
+El poate sa salveze omenirea,
+De chin durere şi de orice rău.
+
+[r1]
+În El ne este dată mântuirea,
+Cu toate bucuriile din har.
+În El avem de-a pururi fericirea,
+Isus ne este cel mai mare dar.
+
+[s2]
+Prin jertfa lui Isus avem iertare,
+Şi astăzi îl iubim că ne-a salvat.
+Atât la bine cât şi-n încercare,
+Dorim să-L lăudăm pe Cel prea-nalt.
+
+[s3]
+Dorim ca Isus să se oglindească,
+În viaţa noastră plină de nevoi.
+Căci anii trec iar Patria Cerească,
+Pe toţi ne-aşteaptă cu-ale Ei splendori.
+
+[order]
+s1,r1,s2,r1,s3,r1

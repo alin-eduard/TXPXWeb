@@ -1,0 +1,73 @@
+[s1]
+948.
+1.  Scump popor răscumpărat
+Grăbeşte-te de-a fi-mpăcat
+Căci corabia lui Isus
+Încă azi nu s-a închis.
+Cor:	Azi Isus cu drag te cheamă
+Îţi spune să-ţi dai pe seamă
+Căci la noapte poţi să treci
+Şi te duci în foc pe veci.
+
+[s2]
+2.	Uitaţi-vă la Israel
+Ca-nceput să fii creştin
+Omule tu ce gândeşti
+De azi nu te pocăieşti.
+Cor:	Azi Isus cu drag te cheamă
+Îţi spune să-ţi dai pe seamă
+Căci la noapte poţi să treci
+Şi te duci în foc pe veci.
+
+[s3]
+3.  Vino azi şi-ndreaptă traiul
+După scripturi şi vezi Raiul
+Căci dacă nu te-ai îndrepta
+Raiu-n veci nu vei vedea.
+Cor:	Azi Isus cu drag te cheamă
+Îţi spune să-ţi dai pe seamă
+Căci la noapte poţi să treci
+Şi te duci în foc pe veci.
+
+[s4]
+4.  Suflete cu trupul viu
+Nu zic că trăieşti cum ştiu
+Căci traiul cum tu l-ai prins
+În scripturi nu este scris.
+Cor:	Azi Isus cu drag te cheamă
+Îţi spune să-ţi dai pe seamă
+Căci la noapte poţi să treci
+Şi te duci în foc pe veci.
+
+[s5]
+5.  Dacă nu asculţi de ele
+Vei fi plin de amar şi jale
+Vai, în ziua cea de-atunci
+Suflete-ncotro s-apuci.
+Cor:	Azi Isus cu drag te cheamă
+Îţi spune să-ţi dai pe seamă
+Căci la noapte poţi să treci
+Şi te duci în foc pe veci.
+
+[s6]
+6.  Ştim că-n lume este o lege
+Că ţi-i drag a te petrece
+Iar după ce-ai murit
+Cine atunci te-a izbăvit.
+Cor:	Azi Isus cu drag te cheamă
+Îţi spune să-ţi dai pe seamă
+Căci la noapte poţi să treci
+Şi te duci în foc pe veci.
+
+[s7]
+7.	Să asculţi ce bine-ar fi
+Pe Isus azi nu mâine
+Şi oricând ar fi să pleci
+Tu să fii al Lui pe veci.
+Cor:	Azi Isus cu drag te cheamă
+Îţi spune să-ţi dai pe seamă
+Căci la noapte poţi să treci
+Şi te duci în foc pe veci.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

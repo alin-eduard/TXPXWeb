@@ -1,0 +1,34 @@
+[s1]
+Să cânte tot poporul:
+„Pace noi am primit,
+De la Mântuitorul
+Domnul Isus iubit!”
+
+[r1]
+Pace ne-a dat har minunat,
+El ne-a salvat fie lăudat.
+Shalom cântăm, Shalom cântăm,
+Shalom cântăm şi ne bucurăm.
+Shalom, shalom, pace Isus ne-a dat
+Shalom, shalom, să fie lăudat.
+
+[s2]
+Pace ne-a dat Mesia
+Fiul lui Dumnezeu.
+Pace avem şi-n luptă,
+pace şi-n raiul Său.
+
+[s3]
+Să cânte adunarea
+slavă lui Adonai.
+Celui Prea-Nalt osana,
+slavă lui El-Shadai.
+
+[s4]
+Domnul e pacea noastră
+în El ne bucurăm.
+Fie şi pacea voastră
+cu toţi să-L lăudăm.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

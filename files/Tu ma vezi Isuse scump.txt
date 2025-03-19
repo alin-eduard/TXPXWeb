@@ -1,0 +1,36 @@
+[s1]
+Tu mă vezi, Isuse scump
+De-atâtea ori că-s strâmtorat
+Nu pot să-nalţ decât un gând.
+/: Şi ştiu că vezi dorinţa mea
+Să scap din încercarea grea
+Prin Tine biruind. :/
+
+[r1]
+/: Lumea mă-ntreabă mereu
+De Tine şi cum Te simt eu
+Ea vede un lucru prea greu
+Când eu încep să-i vorbesc.
+Cuvinte, o, dă-mi s-o ajut
+Să poată pătrunde-n adânc
+Ajută-mi ca să nu stau mut
+Dă-mi har prin Duhul Tău Sfânt.:/
+
+[s2]
+Am căzut atuncea când
+Nu m-am supus îndeajuns
+Şi am văzut că sânt nimic.
+/: Dar braţul Tău m-a ajutat
+Când greul vieţii m-a apăsat
+Pe Tine Te-am simţit. :/
+
+[s3]
+Tu firul vieţii mele-l ţii
+Şi-l rupi când Tu doreşti.
+Dorinţa mea doar una e:
+/: Să fiu ales printre ai Tăi
+Să scap de oamenii cei răi
+Să ştiu că mă iubeşti. :/
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,42 @@
+[s1]
+2199											    Re
+1. Să beau din apa Ta
+E-un har așa de mare
+Atunci când curge lin
+Ca ploaia pe ogor
+/: Isuse, apa Ta e o binecuvântare
+Ea-mi umple inima
+Și sufletul de dor :/.
+
+[s2]
+2. Când beau din apa Ta
+În duh e o-nviorare
+Și-un susur blând și sfânt
+Mă-nvăluie ușor
+/: Isuse, apa Ta
+E o dulce împrospatare
+E o pace din Betel
+Și un zbor de porumbel :/.
+
+[s3]
+3. Dă-mi, Doamne, apa Ta
+Din ploaia cea târzie
+Să-mi spele rănile
+Și setea să-mi alin
+/: Să-mi dai din apa Ta
+Căci apa Ta e vie
+Ea curge chiar din cer
+De la tronul divin :/.
+
+[s4]
+4. Să-mi dai din apa Ta
+Să beau o veșnicie
+Să mă cufunzi în ea
+Și să mă faci curat
+/: Când Tu vei apărea
+Să-mi spui Isus și mie
+O, vino fiul Meu
+Trudit și-mpovărat :/.
+
+[order]
+s1,s2,s3,s4

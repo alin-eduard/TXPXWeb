@@ -1,0 +1,36 @@
+[s1]
+1800.
+1. Noi am păşit deja pe calea strâmtă
+Pentru Hristos
+La lume-am renunţat
+Nu renunţăm
+La-această cale sfântă
+Căci pace-n suflet aici am aflat
+
+[r1]
+Cor:	/:Ce minunat să stai
+Cu Domnul Isus
+La masa Lui,
+Bogat, să te hrăneşti!
+Când eşti cu El,
+Necazurile s-au dus
+Şi chiar de-ar fi,
+Prin El le biruieşti:/
+
+[s2]
+2. La început, a fost
+Cam greu pe cale
+Căci patimi multe
+Ne trăgeau în jos.
+Dar am păşit `nainte cu răbdare
+Şi am privit la ceruri spre Hristos
+
+[s3]
+3. Am fost în lume,
+Ştiu ce poate să-mi dea
+Nemulţumiri şi goană după vânt
+Se luptă toţi s-ajungă la-nălţime
+Nesocotind iubirea celui sfânt.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,29 @@
+[s1]
+Cine caută, găseşte fericire-n Dumnezeu
+Înaintea feţei Lui sînt bucurii
+Cea mai mare bucurie e să fii copilul Său
+Căci prin har vei moşteni
+iubirea Lui.
+
+[r1]
+/: Fericiţi sînt acei
+Ce-L slujesc pe Dumnezeu ! :/ (4x)
+
+[s2]
+Dacă sufletu-ţi doreşte
+să te-ntorci la Dumnezeu
+Nu-l opri, că tu în veci vei regreta
+Căci în clipe de-ntristare singur
+El poate-alina
+Singur El poate să-ţi dea salvarea ta!
+
+[s3]
+Dacă azi auzi chemarea
+şi mesajul dragostei
+Lasă-ţi inima deschisă-n faţa Lui!
+Lasă goana după vînt,
+căci vînt vei secera!
+Isus poate da astăzi fericirea!
+
+[order]
+s1,r1,s2,r1,s3,r1

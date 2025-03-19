@@ -1,0 +1,32 @@
+[s1]
+Lui Isus, lui Isus, inima
+şi tot ce noi avem sa-I dăm;
+Pentru El, pentru El,
+chiar şi vieţile cu drag să le riscăm!
+Să îndrăznim, să îndrăznim,
+pe-ale Sale urme sfinte să păşim:
+Oricât de greu ne pare drumul,
+Hai! Sa îndrăznim!
+
+[r1]
+Doar cel ce „caută şi caută şi caută”,
+Găseşte lumina divină de sus;
+Doar cel ce bate şi bate şi bate”,
+Primeşte un bun răspuns;
+Celui ce cheamă şi cheamă şi cheamă,
+I se răspunde cuvânt la cuvânt;
+Cel ce aşteaptă smerit
+îşi vede visu-mplinit
+
+[s2]
+Slavă Lui, slavă Lui,
+Domnul nostru este de-ndurare plin.
+Cu respect, cu respect,
+să venim la El cu toţi sa-I mulţumim.
+Să ne rugăm, să ne rugăm,
+în prezenţa Lui să ne dorim să stăm.
+Oricât de greu ne pare,
+totuşi hai să ne rugăm.
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,28 @@
+[s1]
+/: Îmi place Biblia :/
+Că mă-nvaţă să iubesc,
+De-o citesc şi-o împlinesc.
+/: Îmi place Biblia :/
+Da! Îmi place Biblia!
+
+[r1]
+/: Ne învaţă să iubim
+/:Când citim şi-o împlinim :/
+Ne învaţă să iubim
+În dreptate ca să fim
+După Biblie să trăim
+Da! Ne place Biblia! :/
+
+[s2]
+/: Biblia e cartea :/
+Ce te-nvaţă să iubeşti
+De-o citeşti şi-o împlinesc.
+/: Biblia e cartea :/
+Pe care-ai s-o iubeşti!
+
+[s3]
+/: Biblia e cartea :/
+Pe care s-o iubeşti!
+
+[order]
+s1,r1,s2,r1,s3

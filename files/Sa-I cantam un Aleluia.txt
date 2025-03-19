@@ -1,0 +1,33 @@
+[r1]
+Să-I cântăm un Aleluia
+Şi un: ”Mulţumesc frumos”!
+Căci lauda şi mulţumirea
+ÎL slăveşte pe Hristos.
+
+[s1]
+Pentru somnul liniştit,
+Pentru-al zilei răsărit,
+Pentru tot ce El ne-a dăruit.
+
+[s2]
+Pentu-al bucuriei har,
+Pentru al iubirii dar,
+Pentru tot ce-n El n-are hotar.
+
+[s3]
+Pentru că pe Golgota
+A murit pe cruce grea
+Ca viaţă veşnică să-mi dea.
+
+[s4]
+Pentru că a biruit
+Boldul morţii a zdrobit
+Şi prin Duhul Sfânt ne-a mântuit.
+
+[s5]
+Pentru că El este viu
+Şi cu mine-I, eu o ştiu
+Şi mă poartă ca pe al Său Fiu.
+
+[order]
+r1,s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,22 @@
+[s1]
+Un om înţelept lângă râu a venit
+Şi-o casă pe stâncă şi-a construit
+Curând dup-aceea ploaia-a venit
+Norii grei peste ea s-au oprit.
+Ploaia cădea şi râul creştea,
+Val dupa val în casă lovea,
+Dar stânca pe care casa era
+O păzea şi-n picioare-o ţinea.
+
+[s2]
+Un om ne-nţelept lângă râu a venit
+Şi-o casă pe plaja şi-a construit
+Curând dup-aceea ploaia-a venit
+Norii grei peste ea s-au oprit.
+Ploaia cadea şi râul creştea,
+Val dupa val în casă lovea,
+Îndată nisipul s-a sfărâmat
+Şi curând casa s-a dărâmat.
+
+[order]
+s1,s2

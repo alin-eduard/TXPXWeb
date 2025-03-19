@@ -1,0 +1,50 @@
+[s1]
+/: E putere, e putere
+E putere-n sangele lui Isus Hristos. :/
+
+[s2]
+Nici dusmanul, nici dusmanul
+Nu poate sa-mi strice viata
+De ce?
+Pentru ca, pentru ca
+In sangele lui Isus Hristos
+este putere
+
+[s3]
+Azi te cheama Dumnezeu
+Vrea sa fii copilul Sau
+Cat traiesti pe-acest pamant
+Calauzit de Duhul sfant
+
+[s4]
+Noi suntem biserica
+Fratilor, fratilor
+Noi suntem biserica
+Fratilor, fratilor, fratilor
+
+[s5]
+/: Isus e Domn, Isus e Domn
+Isus e Domn in viata mea. :/
+/: Osana, amin osana
+O aleluia, Maranata.:/
+
+[s6]
+/: El este viu, El este viu
+El este viu in viata mea.:/
+/: Osana, amin osana
+O aleluia, Maranata.:/
+
+[s7]
+/: El vine iar, El vine iar
+El vine iar pentru ai Sai. :/
+/: Osana, amin osana
+O aleluia, Maranata.:/
+
+[s8]
+/: Ne-a botezat, ne-a botezat
+Ne-a botezat cu Duhul sfant. :/
+/: Osana, amin osana
+O aleluia, Maranata.:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

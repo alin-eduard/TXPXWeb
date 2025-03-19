@@ -1,0 +1,25 @@
+[s1]
+Vino, la apa vieţii,
+Setos, ostenit şi slab!
+Vino, că nu în zadar vii!
+Aici vei afla repaus.
+
+[r1]
+Grabeste-te, nu-ntarzia!
+Viata vesnica-ti va fi plata.
+Aici e apa vietii, aici fie tinta ta!
+
+[s2]
+La acest izvor grabeste,
+Umple-te de credinta!
+Aici pacatul se sterge,
+Aici se-mparte mila.
+
+[s3]
+Vino la acest izvor sfant,
+Vindecare vei primi.
+Vezi, izvoraste viata,
+Bea, caci fericit vei fi.
+
+[order]
+s1,r1,s2,r1,s3,r1

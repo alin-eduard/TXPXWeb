@@ -1,0 +1,43 @@
+[s1]
+1.	Şi lumea toată va cunoaşte
+Că sunteţi ucenicii Mei
+Când pacea veţi avea-o pururi
+Şi va fi dragoste-ntre voi.
+2.	În lume veţi avea necazuri
+Dar îndrăzniţi necontenit
+Voi nu uitaţi că fii Îmi sunteţi
+Şi moartea Eu am biruit.
+494.       Re m
+
+[s2]
+3.	Aşa pe ucenici adesea
+Duios Isus îi învăţa
+Şi nu s-a auzit vreodată
+Mai blândă vocea ca a Sa.
+4.	De când de pe pământ la ceruri
+Stăpânul lumi s-a-nălţat
+Apostolii păşesc în lume
+Şi predică neîncetat.
+
+[s3]
+5.	Erau huliţi, scuipaţi în faţă
+Bătuţi sălbatic chinuiţi
+În temniţă aruncaţi la fiare
+Şi chiar de rude crunt loviţi.
+6.	Iar ei săraci puţini şi singuri
+Străini la toţi în lumea rea
+Din inimă rosteau cuvântul
+Cum Duhul Sfânt îi îndemna.
+
+[s4]
+7.	Dar azi popoare întregi urmează
+Învăţătura lui Isus
+Îngenunchind în faţa jertfei
+Ce mântuire ne-a adus.
+8.	Şi cântă pururea mărire
+Şi slavă biruinţei Lui
+Slăvit să fie totdeauna
+În veci numele Domnului.
+
+[order]
+s1,s2,s3,s4

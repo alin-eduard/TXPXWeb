@@ -1,0 +1,31 @@
+[s1]
+1.Îngeri mii în ceruri cântă
+Pe deasupra văilor
+Munții bucuroși repetă
+Armonia, cântul lor:
+R/:,,Glorie, S-a născut Mesia”/
+2255
+
+[s2]
+2.Ce-i cu bucuria voastră?
+Voi, păstori, ce auziți?
+Ce anunță coru-n slavă,
+Ce-ascultați așa uimiți?
+R/:,,Glorie, S-a născut Mesia”/
+
+[s3]
+3.Pruncul sfânt cu chip de soare
+E nespus de luminos
+Sfinți părinții cu ardoare
+Îl veghează pe Hristos
+R/:,,Glorie, S-a născut Mesia”/
+
+[s4]
+4.Vino azi la ieslea sfântă
+Laudă să-I aduci smerit,
+Viața ta doar Lui predată
+Pentru El e-un dar dorit.
+R/:,,Glorie, S-a născut Mesia”/             Amin
+
+[order]
+s1,s2,s3,s4

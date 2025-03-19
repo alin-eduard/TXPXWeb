@@ -1,0 +1,42 @@
+[r1]
+Tu esti mangaierea noastra
+Scumpul nostru Salvator
+Tu ne-alini orice durere
+Si ne vii in ajutor
+Tu ne pui balsam pe rana
+Si ne speli pacatul greu
+Ai purtat a noastra cruce
+Tu Fiul lui Dumnezeu
+
+[s1]
+Sa ne pregatim de-acum
+mai avem putin pe cale
+Duhul Sfant ne cerceteaza
+si ne da mereu rabdare
+Sa mergem numai ‘nainte
+sa nu dam nicicand napoi
+Intareste-ne Isuse,
+stai alaturea de noi
+
+[s2]
+Azi mai fa o cercetare,
+intra si prin casa mea
+Pregateste-ne Isuse
+ca sa te putem urma
+Sa putem striga o, Doamne
+cand pe nori vei aparea
+Vine Imparatul lumii
+Mielul Sfant din Golgota
+
+[s3]
+Lasa pacea Ta Isuse
+sa domneasca intre noi
+La venirea Ta o, Doamne
+sa te-ntampinam pe nori
+Sa strigam toti osanale
+Isus Mielule divin
+Ne-ai dat astazi libertate
+si ne duci in vesnicii
+
+[order]
+r1,s1,r1,s2,r1,s3,r1

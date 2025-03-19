@@ -1,0 +1,20 @@
+[s1]
+O raza cereasca in inimi aveti
+Ce va lumineaza drumu-acestei vieti
+Ca in zi şi noapte să-L serviti mereu
+Pe Isus intruna să-L iubiti cu zel.
+
+[r1]
+Viata fericita, trai imbelsugat
+Numai la Golgota se capata-n dar
+,Colo se da pace, iubire din cer
+Temei casniciei celor ce o cer.
+
+[s2]
+De aveti iubire in al vost, camin
+Aveti fericire şi pace din plin
+Ruga voastră fie mereu ne-ntrerupta
+Să aveti podoabe in Isus ne-ntrecute.
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,22 @@
+[s1]
+Cand ma aflu in prezenta Ta,
+pace gasesc
+Cand ma aflu in prezenta Ta,
+imi vezi nima.
+Cand ma aflu in prezenta Ta,
+pace gasesc
+Cand ma aflu in prezenta Ta,
+stiu ca Tu cunosti
+
+[s2]
+Tu-mi cunosti numele,
+Tu-mi cunosti viata mea
+Inca ma mai iubesti,
+inca-Ti pasa de mine.
+Eu sunt visul ce-l porti,
+ascuns in inima,
+Cand ma aflu in prezenta Ta,
+stiu ca tu cunosti.
+
+[order]
+s1,s2

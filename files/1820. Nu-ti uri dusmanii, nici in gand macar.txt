@@ -1,0 +1,35 @@
+[s1]
+1820.
+1. Nu-ţi urî duşmanii,
+Nici în gând măcar
+Nu-ntrista iubirea, cu nimic amar
+/:Numai bunătatea,
+Arma ta s-o faci
+Şi blândeţea punte,
+Când răspunzi sau taci:/
+
+[s2]
+2. Uşa niciodată, n-o-ncuia-n zăvor!
+Orişicând să intre, bietul călător!
+/:Câinii răi să-ţi fie
+Prietenoşi oricând
+Orişicui îţi vine,
+Dragoste-arătând:/
+
+[s3]
+3. Lampa fie-aprinsă, cum ai aştepta
+Cineva să-ţi vină, drag, de undeva
+/:Masa-mbelşugată, patul primitor
+Totul să se vadă, cald şi iubitor:/
+
+[s4]
+4. Când aşa vei face
+Dragostei părtaşi
+Vor pleca prieteni,
+Când îţi vin vrăjmaşi
+/:Şi-n a ta căsuţă, mereu, an de an
+Vei avea doar prieteni,
+Fără vreun duşman:/
+
+[order]
+s1,s2,s3,s4

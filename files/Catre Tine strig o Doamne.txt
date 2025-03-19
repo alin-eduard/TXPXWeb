@@ -1,0 +1,37 @@
+[s1]
+Către Tine strig, o Doamne
+Să-mi arăţi cărarea Ta
+Povatuieşte-mă mereu
+Calea Ta s-o pot urma
+Să nu rătăcesc nicicând
+Pe cărări întunecoase
+Cheamă-mă spre lumina
+Pe câmpiile mănoase!
+
+[r1]
+Vorbeşte-mi Doamne
+Vorbeşte-mi Doamne
+Glasul Tau e-atât de bun si duios!
+Vorbeşte-mi Doamne
+Vorbeşte-mi Doamne
+Tu eşti Dumnezeul meu:
+Isus Hristos!
+
+[s2]
+Cu iubire îmi vorbeşti
+Când sunt căzut la pământ
+La ureche îmi şopteşti
+Să pornesc iar cu avânt
+Bezna nopţii care vine
+Nu mă poate-nspăimânta
+E un susur ce mă ţine
+E glasul Tău, e vocea Ta!
+
+[s3]
+Vorbeşte-mi Doamne-n orice zi
+Urechea mea va auzi
+Şoapta Duhului Tău Sfânt
+Cuvântul Tău, Susurul blând
+
+[order]
+s1,r1,s2,s3,r1

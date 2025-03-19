@@ -1,0 +1,26 @@
+[s1]
+Suflet slab aşteaptă pe Dumnezeu
+Către El ţi-ndreaptă şi azi dorul tău!
+Scăparea ta nu va-ntârzia,
+Sigur primăvara iernii va urma...
+Vină, furtună, vină nevoi,
+Domnul totdeauna va fi cu noi!
+
+[s2]
+Suflet slab aşteaptă pe Dumnezeu,
+Către El ţi-ndreaptă şi azi dorul tău!
+Când toate pier,  nu ceda defel,
+Căci decât nevoia, mult mai mare-i El!
+Vină furtună, vină nevoi,
+Domnul totdeauna va fi cu noi!
+
+[s3]
+Suflet slab aşteaptă pe Dumnezeu,
+Către El ţi-ndreaptă şi azi dorul tău!
+Curând primim ce nădăjduim
+Ca pentru vecie cu Isus să fim!
+După durere, după nevoi,
+O, ce mângâiere: va fi cu noi!
+
+[order]
+s1,s2,s3

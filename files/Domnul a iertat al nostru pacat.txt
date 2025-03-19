@@ -1,0 +1,21 @@
+[s1]
+Domnul a iertat al nostru păcat
+Şi în al Lui sînge ne-a spălat.
+Noi sîntem pe veci eliberaţi
+Şi-n dragoste toţi îmbrăcaţi.
+
+[r1]
+Şi-a zis:
+Liberi, liberi voi toţi veţi fi
+Liberi de-Mi veţi sluji!
+În al Meu Nume cu toţii să veniţi
+Liberi, liberi fiţi!
+
+[s2]
+Domnul ne-a ales să fim ai Lui
+Fraţii lui Isus, ai Domnului.
+Ne-a chemat în vie să lucrăm
+Şi suflete noi să chemăm.
+
+[order]
+s1,r1,s2,r1

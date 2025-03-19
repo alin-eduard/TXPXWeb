@@ -1,0 +1,44 @@
+[s1]
+Se aude sus pe cer un cânt de glorii
+Mai e puțin să nu te lași răpus
+Să nu-ți pierzi frate premiul alergării
+Curând e întâlnire cu Isus
+
+[s2]
+/:Când negur-amenință în zare
+Și cerul e mereu întunecat
+Chiar dacă urlă marea cu turbare
+Destinul tău e binecuvântat.:/
+
+[s3]
+Mă lupt cu fiecare ceas ce trece
+Să-nalț pe culme
+Al dragostei stindard
+În clocot doar nu căldicel, nici rece
+Ci-n Duhul Tău mereu, mereu să ard
+
+[s4]
+/:Când se vor termina acestea toate
+Și Mirele cât va mai zăbovi
+Eu nu știu dacă nu va fi la noapte
+Dar știu că Cel ce vine va veni.:/
+
+[s5]
+Cum se înalță-n zboruri ciocârlia
+În albe stoluri vom pleca și noi
+Vom părăsi pe-ntotdeauna glia
+Purtând pe cap cununa de eroii
+Tânjesc în așteptarea Țării mele
+E năzuința mea de căpătâi
+Să las în urmă mii și mii de stele
+Pe frunte drag Isus să mă mângâi.
+
+[s6]
+/:Vreau să mă strângi la pieptul Tău,
+o Tată
+Să uit tot greul ce l-am dus cândva
+Să-mi spui cu vocea-Ți  binecuvântată
+O, vino slugă bună-n casa mea!:/
+
+[order]
+s1,s2,s3,s4,s5,s6

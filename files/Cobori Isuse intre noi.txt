@@ -1,0 +1,62 @@
+[s1]
+Cobori Isuse între noi,
+Cobori din slavi divine,
+Cobori ca lupta e în toi
+Si este greu far’ Tine.
+
+[s2]
+/: Cobori acum prin Duhul Sfânt
+Am obosit pe cale
+Batuti suntem de ploi si vânt
+De-atât amar si jale. :/
+
+[s3]
+Te cheama-al Tau popor plângând
+Veghind în asteptare
+Sa îi vorbesti prin Duhul Sfânt
+Sa strigi iar desteptare.
+
+[s4]
+/: O vino iar la el plângând
+Caci seara e aproape
+Iar focul vietii s-a aprins
+Si-afara este noapte :/
+
+[s5]
+Te-asteapta orbii c-alta dat’
+Si schiopii-n adunare
+Te-asteapta suflet de bolnav
+Sa le dai vindecare.
+
+[s6]
+/: Te-asteapta mamele plângând
+Si multi orfani pe drumuri
+Sa-i mângâi si la piept sa-i strângi
+Nicicând sa nu-i lasi singuri. :/
+
+[s7]
+Te-asteapta fratii-n staruinti
+Sa se deschida cerul
+Te-asteapta-n rugaciuni fierbinti
+Sa vina porumbelul
+
+[s8]
+/: Sa vii din nou cu limbi de foc
+Si vâjâit puternic
+Sa zgudui iar casa din loc
+Sa torni ulei în sfesnic :/
+
+[s9]
+Te-astept si eu un ne-nsemnat
+Si-n piept îmi arde dorul
+Când Tu pe nori vei aparea
+Cu Tine sa-mi iau zborul.
+
+[s10]
+/: Ajuta-ma sa pot rabda
+Sa stau în asteptare
+Sa pot s-ajung în tara Ta
+De dincolo de zare. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

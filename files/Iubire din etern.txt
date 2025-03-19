@@ -1,0 +1,28 @@
+[s1]
+Iubire din etern
+Tu viata-mi daruiesti
+Tu porti pecetea Isus cuielor
+Vesnic sa-mi amintesti
+Tu esti cu mine-n incercari
+Chiar cand sunt parasit
+Tu esti iubire din etern
+Tu totul Tu imi esti
+
+[r1]
+/:Un psalm un cantec nou de iubire
+Vom canta in slava,cand ne-o intalni
+Toate-s noi cele vechi se vor duce
+Si-n negura uitarii se vor topi pe veci:/
+
+[s2]
+Tu imi aduci din cer cantari
+Si-n lume ma-nsotesti
+Tu esti cu mine-n incercari
+Si-n taina ma pazesti
+Tu dai lumina zorilor
+Ce tainic ma iubesti
+Acolo unde nu esti Tu
+Nimica nu mai e.
+
+[order]
+s1,r1,s2,r1

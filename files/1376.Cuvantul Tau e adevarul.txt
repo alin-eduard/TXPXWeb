@@ -1,0 +1,29 @@
+[s1]
+1376.Mi b
+1.  Cuvântul Tău e adevărul
+Din vesnicie neschimbat
+Chiar mai înainte de a fi cerul
+/: A fost cuvântul Tău curat :/
+2.  Cuvântul Tău nu-i râs nici glume
+Nici vorbe fără căpătâi
+Cuvântul Tău e-nţelepciune
+/:Şi-n toate El a fost întâi.:/
+
+[s2]
+Cuvântul Tău e mângâiere
+E bunătate e prinos
+Cuvântul Tău e o putere
+/: Cuvântul Tău e glorios. :/
+4.  Cuvântul Tău e râu de pace
+Este credinţă este har
+Cuvântul Tău cine-L traieste
+/:Primeşte mântuirea-n dar.:/
+
+[s3]
+5.  Cuvântul Tău cine-l rosteşte
+Să stea departe de ce-i rău
+Cuvântul Tău mărturiseşte
+/: Că Tu eşti Domn eşti Dumnezeu. :/
+
+[order]
+s1,s2,s3

@@ -1,0 +1,27 @@
+[s1]
+Cel care judeci pe altul
+Vei fi judecat la fel
+Cel care dai cu piatra,
+Oare nu esti si tu ca el?
+
+[r1]
+Mai bine vegheaza
+Si te roaga cum spune in Scriptura
+Ridica-l cu iubire, nu-l lovi cu ura
+/: Daca tu crezi ca stai in picioare
+Vezi sa nu fi pierdut ziua cea mare :/
+
+[s2]
+De ce te grabesti sa-l lovesti
+Pe fratele tau mai mic,
+Totul de-ai implinit
+Esti doar un rob netrebnic
+
+[s3]
+Te chem ca sa indrepti
+Trestia cea franta
+In spirit de ridicare,
+Nicidecum spirit de lupta
+
+[order]
+s1,r1,s2,r1,s3,r1

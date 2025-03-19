@@ -1,0 +1,18 @@
+[s1]
+Isuse, noi venim ‘naintea Ta,
+Mâini curate ridicăm spre cer,
+Ne plecăm ‘naintea-Ţi,
+ridicând Numele Tău
+Fiindcă gloria Domnului e-aici;
+Noi vedem slava Ta umplând templul
+Şi simţim atingerea Stăpănului,
+Ştim că schimbare-n noi El face
+Şi nu vom mai fi la fel,
+Numele Lui îl înălţăm.
+
+[s2]
+Binecuvântăm, binecuvântăm
+Pe Tatăl, Fiul şi pe Duhul Sfânt
+
+[order]
+s1,s2

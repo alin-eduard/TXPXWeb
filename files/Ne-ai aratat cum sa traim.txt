@@ -1,0 +1,42 @@
+[s1]
+Ne-ai aratat cum sa traim
+Ne-ai invatat  sa ne iubim
+Si cand ne e prea greu
+Sa ne-ndreptam privirea catre ceruri
+Si totusi Doamne ne e greu
+Nu mai stim ce e bun sau rau
+Din tot ce-avem si stim
+Numai aflam cararea catre Ceruri
+
+[r1]
+O! Te rugam mai da-ne un semn
+Un strop de har
+Si spune Doamne cum
+Sa traim in lumea de acum
+Suntem aici si mari si mici
+Si buni si rai
+Intinde bratul Tau
+Si ne condu pe-al nostru drum
+
+[s2]
+Cu cat mai mult am descoperit
+Mai complicati am devenit
+Dar am pierdut ceva
+Din sensul vietii, ce ai pus-o-n noi
+Te cautam in univers
+Si vrem sa stim al lumii mers
+Dar tot uitam sa fim mai buni
+Cu cei de langa noi
+
+[s3]
+De ne-am putea elibera
+Bariere, ziduri sfarama
+Am ramane toti umili
+Si simpli si adevarati
+Ne-ai fi Tu Doamne singur tel
+Si ne-am privi intre noi la fel
+Ne-am da mainile
+Si am fi cu adevarat cu toti frati
+
+[order]
+s1,r1,s2,r1,s3,r1

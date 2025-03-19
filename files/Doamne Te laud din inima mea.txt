@@ -1,0 +1,20 @@
+[s1]
+Doamne, Te laud
+Din inima mea
+Căci Tu eşti minunat
+Slavă Ţie în veci şi lui Isus,
+binecuvîntat fii !
+
+[r1]
+/: Tu-mi eşti Domn, acum
+Şi eu Îţi sînt sclav.
+Vreau numai voia Ta
+S-o împlinesc. :/
+
+[s2]
+Te preamăresc in fiecare zi
+Să Te urmez, aş vrea să Te ascult
+Numai Ţie mă-nchin în fiecare zi.
+
+[order]
+s1,r1,s2,r1

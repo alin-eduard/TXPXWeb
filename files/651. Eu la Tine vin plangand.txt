@@ -1,0 +1,65 @@
+[s1]
+1. Eu la Tine vin plângând
+Lăcrimând şi suspinând
+651.
+Cor: O Doamne bun
+N-am necazul cui să-i spun
+2. Căci în astă lume rea
+Eu nu am pe nimenea
+
+[s2]
+3. N-am pe nimeni pe pământ
+Să-mi vorbească aşa de blând
+Cor: O Doamne bun
+N-am necazul cui să-i spun
+4. Căci nu-i mamă şi nici frate
+Să le ştie aşa pe toate
+
+[s3]
+5. Cum ştii tu Stăpân din cer
+Când cade din cap un păr
+Cor: O Doamne bun
+N-am necazul cui să-i spun
+6. N-am cui spune a mea durere
+Apăsarea vieţii mele.
+
+[s4]
+7. Când m-apasă îngrijorarea
+Necazul şi întristarea
+Cor: O Doamne bun
+N-am necazul cui să-i spun
+8. Când bate vântul mai tare
+Când mă rătăcesc pe cale
+
+[s5]
+9. Tu-mi dai doară sfatul Tău
+Că iubeşti sufletul meu
+Cor: O Doamne bun
+N-am necazul cui să-i spun
+10. Chiar toţi de m-ar părăsi
+Singur Tu mă vei iubi
+
+[s6]
+11. De multe greşelile mele
+Mă spală mâinile Tale
+Cor: O Doamne bun
+N-am necazul cui să-i spun
+12. Haina sufletului meu
+O spală-n sângele Tău
+
+[s7]
+13. Şi aşa trăiesc şi eu
+Prin mila lui Dumnezeu
+Cor: O Doamne bun
+Numai ţie pot să-ţi spun
+14. Orice suspin şi durere
+Tot dorul inimii mele.
+
+[s8]
+15. C-aşa bine ştii lega
+Rana din inima mea.
+Cor: O Doamne bun
+Numai ţie pot să-ţi spun
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

@@ -1,0 +1,29 @@
+[s1]
+1850
+1. Azi cântăm pe Domnul lăudăm
+Lui Hamasia cinste glorie îi dăm
+E împărat și în veci El va domni
+Baruth Ata Adonai ne va mântui.
+
+[s2]
+Cor: /:Cântăm azi Israel, cântăm Regelui  								Emanuel
+Cântăm lui Adonai, glorie în veci lui El  							Shadai:/
+
+[s3]
+2.Lăudați măriți pe Dumnezeu
+Cei ce iubiți azi poporul lui Israel
+În veac să țină îndurarea Lui
+În veac să țină îndurarea Domnului.
+Cor: /:Cântăm azi Israel, cântăm Regelui  							Emanuel
+Cântăm lui Adonai, glorie în veci 					         lui El Shadai:/
+
+[s4]
+3.Munții se topesc ‘naintea Lui
+Cerurile cântă slavă Domnului
+Strigați cântați măriți pe Dumnezeu
+Ne-a salvat azi chiar prin Fiul Său
+Cor: /:Cântăm azi Israel, cântăm  							Regelui Emanuel
+Cântăm lui Adonai, glorie în 				     veci lui El Shadai:/ (3x)
+
+[order]
+s1,s2,s3,s4

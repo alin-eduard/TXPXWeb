@@ -1,0 +1,43 @@
+[s1]
+2103
+Cor:	//:Vine Maranata:/
+Vine Maranata
+Isus vine iar :/
+
+[s2]
+1. /: Curând:/ se va-mplini
+Al Domnului cuvânt
+El a promis că va veni
+Din nou pe-acest pământ.
+
+[r1]
+Cor:	//:Vine Maranata:/
+Vine Maranata
+Isus vine iar :/
+
+[s3]
+2. Se apropie măreața zi
+O zi cum n-a mai fost
+Pe bolta albastră s-o ivi
+Isus Mirele nostru.
+
+[s4]
+3. Totul e gata pregătit
+Pentru mireasa Sa
+Isus pe nori va reveni
+Să-Și ia biserica.
+
+[s5]
+4. Vino Isuse Te chemăm
+Te aștept cu dor
+Spre Tine vrem cât
+mai curând
+Să ne înălțăm pe nori.
+
+[s6]
+Cor: //:Vine Maranata:/
+Te așteptăm
+cu dor :/
+
+[order]
+s1,s2,r1,s3,r1,s4,r1,s5,s6

@@ -1,0 +1,27 @@
+[s1]
+Suflet pierdut,
+Azi te cheamă Isus,
+Vino la El! Vino la El!
+Scoală din somnul
+Ce greu te­a răpus,
+Milă­Ţi va da blândul Miel!
+
+[r1]
+Vino acum, vino acum!
+El cu blândeţe te cheamă
+Să vii chiar acum!
+
+[s2]
+Celui ce vine, odihnă în dar
+Azi îi va da, azi îi va da,
+Crede şi spune­I al vieţii amar,
+El te va elibera!
+
+[s3]
+Suflete, vino, te­aşteaptă Isus,
+Vino chiar azi! Vino chiar azi
+Plânge­ţi păcatul şi vino supus,
+El îţi va da har de sus!
+
+[order]
+s1,r1,s2,r1,s3,r1

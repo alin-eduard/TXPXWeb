@@ -1,0 +1,36 @@
+[s1]
+Singur pe cerul vieţii
+Şoimul în zbor eu am fost.
+Aripile obosite,
+Spre tainice ţărmuri băteau
+Valurile înspumate,
+Vînturi şi aspre furtuni,
+Vruta-u ca să mă oprească
+Din drumul pe care-am pornit.
+
+[s2]
+Dar pe cer te-am zărit.
+Dulce lumină cu floare,
+Cu floare albastră de vis.
+Luceafăr de stele în visele mele
+Isuse pe veci Tu-mi rămîi.
+
+[s3]
+Doamne eşti soarele vieţii,
+Ţărmul e ţara de azur.
+Aripa mea e credinţa
+Şi dragostea-i dorul de sus.
+Astăzi  mi-e zborul spre soare,
+Cîntecul meu e senin.
+Ştiu că-n curând peste zare
+Pe ţărmul măririi voi fi.
+
+[s4]
+Şi mereu te-oi slăvi,
+Dulce lumină cu floare,
+Cu floare albastră de vis.
+Luceafăr de stele în nopţile grele
+Isuse pe veci tu-mi rămîi.
+
+[order]
+s1,s2,s3,s4

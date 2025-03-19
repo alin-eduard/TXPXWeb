@@ -1,0 +1,64 @@
+[s1]
+1193.
+1. Isusă dulce unde eşti
+Şi pe ce plaiuri locuieşti Isuse dulce
+Eu în Scriptură am aflat
+Căci Tu în cer eşti Împărat, O Domnul meu.
+2. Ajută-mă să-ţi pot urma
+Să las această lume rea, să vin la Tine
+Ce fericit eu m-aş simţi
+Să fiu la Tine-n veşnicii, Isuse dulce.
+
+[s2]
+3.   Căci m-am urât de acest pământ
+Pe care adeseori plângând în drumul meu
+Unde-aş putea să Te-ntâlnesc
+Necazul meu să-ţi povestesc care m-apasă.
+4.   Tu stai acolo-n cerul sfânt
+Şi priveşti pe-ntregul pământ,
+La cin’ Te cheamă
+Te laşi uşor descoperit
+De-a căror inimi eşti dorit, Isuse dulce.
+
+[s3]
+5. Când stau şi eu acum plângând
+Privind în sus spre cerul Sfânt, aş vrea să vii
+Numai Tu eşti nădejdea mea
+Ajută-mă să-Ţi pot urma, până-n vecii
+6.  Rămâne ca să-Ţi mulţumesc
+Pentru darul acel ceresc, ce-mi l-ai dat
+Atunci când goarna va suna
+Duhul Sfânt mă va ridica, spre cerul sfânt.
+
+[s4]
+.
+.
+7.   Şi-noaptea-n pat când mă trezesc
+Şi ochii spre cer îi ţintesc, aş vrea să vii
+Aş vrea Isuse Domnul meu
+Să văd Ierusalimul Tău, care m-aşteaptă
+8.   La noapte Tu daca-ai veni
+Doresc eu mult a Te-ntâlni, Isuse dulce
+Ştiu că Tu mă poţi pregăti
+Chiar într-o clipă dacă vii, O Domnul meu.
+
+[s5]
+9.   Căci Pavel când a fost răpit
+N-al treilea cer în locul Sfânt
+Eu nu pot să descriu ce-a spus
+Ce ne aşteaptă-n ceruri sus, pe cei aleşi.
+10.  Ah o Isuse Domnul meu
+Ce stai în Ierusalimul nou o Isuse
+Niciodată să nu cârtesc
+Când încercările lovesc, peste mine.
+
+[s6]
+11.      Scumpul meu Mântuitor
+Mai e mult să Te văd pe nori,
+În slăvi venind
+Că nu-n zadar m-am ostenit
+O Domnul meu cel bun şi Sfânt,
+Pe acest pământ.
+
+[order]
+s1,s2,s3,s4,s5,s6

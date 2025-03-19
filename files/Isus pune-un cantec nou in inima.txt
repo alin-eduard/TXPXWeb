@@ -1,0 +1,22 @@
+[s1]
+/: Isus pune-un cântec nou în inimă :/
+E un cântec nou ce nimeni nu mi-l ia
+Isus pune-un cântec nou în inimă!
+
+[s2]
+/: El ne-nvaţă să trăim în dragoste :/
+Cu iubirea ce ne-a dat să ne iubim
+El ne-nvaţă să trăim în dragoste
+
+[s3]
+/: O familie să fim El ne-a-nvăţat :/
+Tineri şi bătrâni sunt una-n Isus
+O familie să fim, El ne-a învăţat
+
+[s4]
+/:Întristarea ne-a schimbat-o-n bucurii!:/
+Lacrimele le-a schimbat în ape vii
+Întristarea ne-a schimbat-o-n bucurii!
+
+[order]
+s1,s2,s3,s4

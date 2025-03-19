@@ -1,0 +1,43 @@
+[s1]
+1684.
+1. Pe Isus dacă-L crezi
+Şi la El meditezi
+Nici un rău nu va fi neînvins
+Viaţa ta se va schimba
+Sigur nu vei regreta
+Cu Acel ce se cheamă Isus.
+
+[r1]
+Cor:	Astăzi vino la El
+Predăţi viaţa ta
+Şi sigur vei fi mântuit
+Azi te cheamă acum
+Te conduce pe drum
+Şi vei fi pururea fericit.
+
+[s2]
+2. Cei ce nu îl primesc
+Şi în lume rătăcesc
+Viaţa lor în distracţii-îşi petrec
+Însă vine o zi
+Când cu toţi se vor trezi
+Dar atuncea va fi prea târziu.
+
+[s3]
+3. Deci acum dacă vrei
+Haina ta să ţi-o speli
+Căci mai curge din sângele Lui
+Dar să nu mai amâi,
+Pe pământ să nu rămâi
+Deci acum vino să te hotărăşti.
+
+[s4]
+4. Dacă vrei să te-ntorci
+La Domnul chiar acum
+Nu uita să faci tot ce-i bun
+Lumea rea să o laşi
+Şi cu El să te-mpaci
+Cu Acel ce se cheamă Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

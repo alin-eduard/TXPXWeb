@@ -1,0 +1,43 @@
+[s1]
+1.	Ce nume scump ai Tu Isuse
+Iubitul sufletului meu
+Mireasma Ta de îmbietoare
+Îmi umple sufletul mereu.
+2.	N-am mirosit parfumuri scumpe
+De când la Tine m-am întors
+Eu ţi-am simţit atunci iubirea
+Şi pacea-n inimă s-a-ntors.
+486.   Mi
+
+[s2]
+3.	S-arate un suflet ce-ntâlneşte
+O bucurie-n calea Sa
+Mai este oare-n lumea-ntreagă
+Mireasmă ca mireasma Ta.
+4.	Să spună vântul ce-ntâlneşte
+Atâţia crini şi trandafiri
+Se aseamănă cu frumuseţea
+Cu ale Tale dulci priviri.
+
+[s3]
+5.	Eu spun cu atâta bucurie
+Pe calea-ngustă merg în sus
+Că nu-s în lume aşa cuvinte
+Cum sunt a Tale scump Isus.
+6.	Când învăţai în Galileia
+Să-şi pregătească calea lor
+Căci vei aduce Împărăţia
+Şi fericirea tuturor.
+
+[s4]
+7.	Când toţi cei mici şi mari din lume
+Se vor întoarce bucuroşi
+În Patria cea fericită
+A marelui Isus Hristos.
+8.	Atunci în ziua minunată
+Când Hristos va împărăţi
+Veni-va toată creatura
+Şi frumos se va umili.
+
+[order]
+s1,s2,s3,s4

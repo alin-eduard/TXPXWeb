@@ -1,0 +1,25 @@
+[s1]
+/: E Nasterea Domnului;
+Ca si la-nceput,
+Munti si vai a strabatut
+Vestea: „S-a nascut!":/
+
+[r1]
+/: Mesia, :/
+Esti nadejdea vietii noastre,
+In lumea cea rea! :/
+
+[s2]
+/: N-avem daruri ca sa-I dam:
+Ce-ar putea primi?
+Dar, in loc de daruri, vrem,
+Vesnic a-L sluji. :/
+
+[s3]
+/: Azi, din inima-I cantam,
+Precum ingerii;
+Mic si mare, sa-L laudam!
+Din cer a venit... :/
+
+[order]
+s1,r1,s2,r1,s3,r1

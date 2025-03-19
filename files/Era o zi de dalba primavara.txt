@@ -1,0 +1,62 @@
+[s1]
+Era o zi de dalbă primăvară
+Când pomii-s plini de mii de muguri
+Deşi era o zi când pe cărări ninsese
+Petale albe, floarea de cireş.
+
+[s2]
+Era un cer senin, senin albastru
+Şi-atâtea flori câmpia presărau
+Îşi legănau pe vârfuri  ‘nalte crinii
+Potirul alb frumos de catifea.
+
+[s3]
+Şi adia aşa uşor zefirul
+În umbra deasă a codrilor din deal
+Ascuns în iarbă îngâna izvorul
+Cu susur lin un cântec pe-a lui mal.
+
+[s4]
+Aşa era în ziua când, Isuse
+Pe Tine-ntâia oară Te-am văzut
+Aşa era o zi de primăvară
+Cu dalbe flori când eu Te-am cunoscut.
+
+[s5]
+Eram pe iarba de mătase-n luncă
+Şi lăcrămioare-mi adunam în braţ
+Tu ai trecut şi-n urma Ta, Isuse
+Te-a urmărit privirea-mi cu nesaţ.
+
+[s6]
+Erai frumos ca Soarele din ceruri
+Cu faţa albă, albă ca de crin
+În părul Tău lucea fior de raze
+Şi-Ţi era chipu-atâta de senin!
+
+[s7]
+Tu ai trecut şi-n urma Ta, Isuse
+Şi Soarele părea că a pălit
+Aşa-mi părea, Isuse, frumuseţea
+C-am stat în loc şi-n urmă Te-am privit.
+
+[s8]
+Şi-am strâns la pieptu-mi lăcrămioare
+Şi-am coborât pe-acelaşi deal de nea
+Treceam cu dor pe lângă pomii-n floare
+Iar vântu-n păr petale-mi scutura.
+
+[s9]
+Era de vină oare primăvara?
+Era de vină câmpul înverzit?
+Ce-a fost pe urmă nu-mi aduc aminte
+Dar ştiu, Isuse drag, că Te-am iubit.
+
+[s10]
+Atâta ştiu, că Tu-mi eşti Tatăl, Doamne
+Că Te-am dorit cu drag mereu de-atunci
+Şi că păstrez la pieptu-mi lăcrămioare
+Din ziua când Te-am cunoscut, Isus !
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

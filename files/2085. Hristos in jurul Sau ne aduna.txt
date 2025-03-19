@@ -1,0 +1,49 @@
+[s1]
+2085
+1. Hristos în jurul Său ne adună
+În veci credință Îi jurăm
+Luptăm, luptăm cu voie bună
+Pe Domnul Îl urmăm
+Cu toții rândurile strângem
+Isus e Căpitan
+Sub steagul Său învingem
+Și nu ne temem de dușman
+
+[r1]
+Cor: /: Noi suntem voioși :/
+Noi suntem voioși
+Că ne-a salvat
+/: Noi suntem voioși :/
+Noi suntem voioși
+Noi suntem învingători prin El
+
+[s2]
+2. Armura noastră e aleasă
+Cu Duhul ne luptăm mereu
+În cruntă luptă nu ne pasă
+Cu noi e Dumnezeu
+Viața, lupta și cuvântul
+Noi Domnului jertfim
+Puterea și cuvântul
+Atunci învingem sau murim
+
+[s3]
+3. Spre țintă ′naintăm întruna
+′Napoi noi nu dăm nici un pas
+Ne așteaptă sus în cer cununa
+Și-al îngerilor glas
+Atunci trudita noastră viață
+Odihnă va găsi
+Privind pe Domnu-n față
+În veci de veci Îl vom slăvi.
+
+[s4]
+Cor: /: Noi suntem voioși :/
+Noi suntem voioși
+Că ne-a salvat
+/: Noi suntem voioși :/
+Noi suntem voioși
+Noi suntem învingători prin El.
+
+[order]
+s1,r1,s2,r1,s3,s4

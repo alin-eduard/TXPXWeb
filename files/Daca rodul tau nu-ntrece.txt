@@ -1,0 +1,32 @@
+[s1]
+Daca rodul tau nu-ntrece
+Vremea-n care ai trait,
+Gol vei merge-n vesnicie,
+Greu vei plange la sfarsit.
+/: Daca plansul tau nu-ntrece
+Plansul celui vinovat,
+Starea ta-i tot sub osanda
+Si trecutul neiertat. :/
+
+[s2]
+Daca ruga ta nu trece
+De-naltimea ta mai sus,
+In zadar, ti-e osteneala:
+Gol te-ntorci, cum gol te-ai dus.
+/: Daca fapta ta nu-ntrece
+Cu ceva, al tau cuvant,
+Viata ta-i desertaciune
+Si-alergare dupa vant. :/
+
+[s3]
+Daca mila ta nu-ntrece
+Mila unui fariseu,
+N-ai sa-i vezi in veci lumina
+Cerului lui Dumnezeu.
+/: Daca viata ta n-o-ntrece
+Pe-a unui necredincios,
+Tu nu esti spre bucuria
+Ci spre-ocara lui Hristos. :/
+
+[order]
+s1,s2,s3

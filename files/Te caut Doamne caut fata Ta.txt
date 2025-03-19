@@ -1,0 +1,20 @@
+[s1]
+Te caut Doamne, caut faţa Ta,
+Te caut Doamne, caut voia Ta,
+Tu eşti stânca şi-ajutorul meu
+Mă-ncred în Tine, că Tu eşti Dumnezeu.
+
+[r1]
+/: Arată-mi slava Ta
+Arată-mi iubirea Ta
+Întinde-Ţi braţul Tău
+Căci sunt copilul Tău. :/
+
+[s2]
+Ascultă Doamne, rugăciunea mea
+Dă-mi izbăvire pentru slava Ta
+Dă-mi bucurie ca să pot cânta
+Alungă teama să te pot glorifica.
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,33 @@
+[s1]
+Ascultă-mă, Doamne, in zi de necaz!
+Ascultă-mi strigarea ce la Tine-o 'nalt!
+/: Ascultă-mă-n rugă, când Ţie mă-nchin,
+Cu-ale mele sarcini la Tine eu vin. :/
+
+[s2]
+Dacă-n lumea asta toţi m-ar părăsi,
+N-aş avea pe nimeni, singur aş trăi;
+/: Totuşi o scânteie-n mine licăreşte,
+Căci Isus Hristos nu mă părăseşte. :/
+
+[s3]
+El îmi este scutul sufletului meu,
+El îmi e scăpare in necazul greu,
+/: El îmi e nădejdea, disperat de-aş fi;
+Cu Isus e bine oriunde-aş trăi. :/
+
+[s4]
+O, ce bine este cu El de-a trăi!
+Niciodată-n viaţă nu l-aş părăsi.
+/: Chiar prin suferinţă,
+chiar şi prin dureri,
+El îmi e tovarăş până sus în cer. :/
+
+[s5]
+Viaţa mea întreagă Lui I-am închinat;
+El mă va conduce-n cerul minunat;
+/: El îmi va da pace-n sufletul pribeag,
+Până voi ajunge in cerul meu drag. :/
+
+[order]
+s1,s2,s3,s4,s5

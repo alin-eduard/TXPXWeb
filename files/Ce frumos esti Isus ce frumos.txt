@@ -1,0 +1,26 @@
+[s1]
+Ce frumos eşti, Isus, ce frumos !
+Îngerii-n ceruri cântă voios.
+/: Floare a Salemului iubită
+De Tine raiul se bucură ! :/
+
+[s2]
+Şi fiind păstori acolo-n câmp
+Noaptea-âmprejur turma lor păzind
+/: Veni un înger al Domnului
+Vestind la păstori naşterea Lui. :/
+
+[s3]
+Serafimii-Ţi cântă mărire
+Heruvimii-Ţi cântă iubire !
+/: Cât de frumos ! În ieslea cu boi
+Vine astăzi Dumnezeu la noi ! :/
+
+[s4]
+Şi-mpreună oastea cerească
+Lui Dumnezeu cântă laudă
+/: Lui Dumnezeu mărire-aducând
+Pace-ntre oameni jos pe Pământ. :/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,43 @@
+[s1]
+1172.
+1.    Multe dureri sunt în lume
+Însă una-i cea mai grea
+/: Când o mamă n-o să-şi vadă
+Toţi copii-n cer cu ea :/
+Cor:     O Isuse îi tare greu
+Să fii mamă cum sunt eu.
+Când copii nu te-ascultă
+Şi îţi fac durere multă.
+
+[s2]
+2.     Multe plânsuri sunt amare
+Dar suspinul îi mai cu vai
+/: Este a mamei cu copii
+Despărţiţi pe veci de rai :/
+Cor:     O Isuse îi tare greu
+Să fii mamă cum sunt eu.
+Când copii nu te-ascultă
+Şi îţi fac durere multă.
+
+[s3]
+3.       Chinul şi durerea arde
+Însă mai mistuitor
+/: Arde mama cu copii
+Făr’ a lor Mântuitor :/
+Cor:     O Isuse îi tare greu
+Să fii mamă cum sunt eu.
+Când copii nu te-ascultă
+Şi îţi fac durere multă.
+
+[s4]
+4.     Doamne ai milă de mine
+Asta-i rugăciunea mea
+/: Nu-mi lăsa pierduţi copii
+Dă-le mântuirea Ta :/
+Cor:     O Isuse îi tare greu
+Să fii mamă cum sunt eu.
+Când copii nu te-ascultă
+Şi îţi fac durere multă.
+
+[order]
+s1,s2,s3,s4

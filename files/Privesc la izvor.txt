@@ -1,0 +1,39 @@
+[s1]
+Privesc la izvor
+şi-l văd cum curge lin, voios
+Apă rece, cristal răcoritor.
+Printre stînci voios
+el cîntă slavă Domnului
+Că Dumnezeu l-a creat.
+
+[r1]
+În dis-de-dimineaţă cerbul din el se-adapă
+Şi păsărelele în zbor.
+Cu apa lui curată te-mbie fără plată
+Să bei, iubite trecător!
+Te laud, Domnul meu
+şi slavă-Ţi cînt mereu
+Pentru că toate le-ai creat aşa de minunat
+Mă-nchin naintea Ta cu toată fiinţa mea
+Pentru că toate le-ai creat aşa de minunat.
+
+[s2]
+Izvor minunat,
+la tine vin cei însetaţi
+Tu-i răcoreşti,
+pe toţi înveseleşti.
+Dă-mi să beau şi eu,
+să-mi răcoresc sufletul meu
+Să-I pot cînta Domnului.
+
+[s3]
+Prin munţii înalţi
+el se revarsă lin, voios
+Cheamă la viaţă
+pe toţi cei însetaţi.
+O, vino şi tu să bei
+din apa vieţii-n dar
+O, vino la Isus!
+
+[order]
+s1,r1,s2,r1,s3,r1

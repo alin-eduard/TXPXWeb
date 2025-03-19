@@ -1,0 +1,31 @@
+[s1]
+De-atâtea ori eu sunt uimit
+De planul Tău
+Cu oameni buni, cu oameni răi,
+Cu-mprejurări
+De harul Tău, de voia Ta,
+De tot ce faci
+N-ai fost dator cu nimic, cu nimic.
+
+[r1]
+N-ai fost dator să mă iubeşti
+N-ai fost dator să Te jertfeşti
+N-ai fost dator să-mi dai iertare
+Dar Tu mi-ai dat !
+N-ai fost dator cu nimic
+Dar totul în dar am primit
+Te laud, o, Doamne, mă-nchin
+Şi-Ţi mulţumesc !
+
+[s2]
+La ce-ai făcut,
+La tot ce faci e un răspuns
+Atât de mult El ne-a iubit
+Încât a spus:
+“Pe Fiul Meu Îl dau
+Să moară pentru voi
+Cine va crede, să nu piară
+Să aibă viaţă apoi!”
+
+[order]
+s1,r1,s2,r1

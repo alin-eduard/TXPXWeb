@@ -1,0 +1,25 @@
+[s1]
+2155
+1. Să nu ucid lumina
+Din mine, să iau seama
+/: Prin fapte-ntunecate,
+Nici prin monezi sau teamă :/.
+
+[r1]
+Cor:	 //:	Lumină :/ Isus e lumină  Ca Tine Tu ne-ai așezat
+Lumină-n toate ne-ncetat :/.
+
+[s2]
+2. Aceasta mi-e menirea
+În lumea cea de tină
+/: Să-mi fie viața sfeșnic
+A Domnului lumină :/.
+
+[s3]
+3. Și vreau Isuse Doamne
+Să-Ți fiu în mâna-Ți sfântă
+/: Spre slava Ta-n vecie
+Lumină care-Ți cântă :/.
+
+[order]
+s1,r1,s2,r1,s3,r1

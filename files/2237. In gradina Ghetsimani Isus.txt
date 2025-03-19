@@ -1,0 +1,30 @@
+[s1]
+2237
+1. În grădina Ghetsimani Isus Pentru toată omenirea ai plâns
+Ți-ai vărsat tot focul inimii
+Sulul cărții ca să-l poți opri
+Tatăl Meu dacă e cu putință, Depărtează Tu acest pahar
+Totuși voia Ta vreau să se facă, Voia Mea să nu se împlinească.
+
+[r1]
+Cor: /: Lacrimi Ți-au brăzdat, Isuse, fața Ta
+Tot ce-ai suferit,
+e pentru vina mea
+/:	Îți mulțumesc, Isus, totdeauna://
+
+[s2]
+2. Ți-ai luat cu Tine ucenicii, Lăsându-i deoparte adormiți
+N-au putut un ceas ca să vegheze Te-ai rugat singur și părăsit
+Chinuit ai fost ca și de moarte, Văzându-Ți sfârșitul cel cumplit
+Întristarea Ți-a pătruns în suflet, O, Isus, ce mult ai suferit.
+
+[s3]
+3. Iată rodul suferinței Tale,
+O, Isuse, eu sunt cel dintâi
+Sângele Tău ce-a curs de pe cruce M-a spălat și-acum sunt fericit
+Și oricine vine azi la Tine,
+Nu-l respingi ci îl vei mântui
+De-ar avea păcate cât nisipul, Sângele Tău sfânt va curăți.
+
+[order]
+s1,r1,s2,r1,s3,r1

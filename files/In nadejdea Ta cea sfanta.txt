@@ -1,0 +1,44 @@
+[s1]
+In nadejdea Ta cea sfanta
+Dumnezeul meu
+/:Am gasit mereu scapare
+In necazul meu:/
+
+[s2]
+Am trecut prin clipe grele
+Singur parasit
+/:Dar nadejdea Ta prin ele
+Doamne m-a-nsotit:/
+
+[s3]
+Am privit mereu spre Tine
+Cu credinta-n sus
+/:Si in cea mai grea-ncercare
+Pace mi-a adus:/
+
+[s4]
+Azi cand tu ma treci parinte
+iar prin greu necaz
+/:Mi se varsa iar fierbinte
+Plansul pe obraz:/
+
+[s5]
+Dar in suflet imi luceste
+Plin de mangaieri
+/:Soarele nadejdii sfinte
+Care-mi da puteri:/
+
+[s6]
+El imprastie durerea
+Plansul cel amar
+/:Si-mi aduce pace sfanta
+Fara de hotar:/
+
+[s7]
+O, mi-ncredintez in Tine
+Viata mea mereu
+/:Fericita mea nadejde
+Dumnezeul meu:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

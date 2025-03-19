@@ -1,0 +1,30 @@
+[s1]
+Nu sunt in stare sa’nteleg
+Al Dumnezeului plan drept
+Dar stiu ca sus la dreapta Lui
+Sta Isus Salvatorul
+Il cred pe El si’al Sau Cuvant
+Isus muri sa fiu eu sfant
+Vreau inima sa-i daruiesc
+Lui Isus Salvatorul
+
+[r1]
+El si’a lasat al Sau loc sfant
+Sa vina aici jos pe pamant
+Raspunsu’i simplu l’am gasit
+In Isus Salvatorul
+
+[r2]
+/:El este viu, El m’a iubit
+De’a pururi stanca mea va fi
+Domnul a fost, Domnul va fi
+Domnul meu vesnic va domni:/
+
+[s2]
+Traind murind as vrea sa’ti spun
+De Dumnezeul sfant si bun
+Cel ce traieste’n vesnicii
+Muri sa ma salveze
+
+[order]
+s1,r1,r2,s2,r1,r2

@@ -1,0 +1,29 @@
+[s1]
+E greu e greu aicia
+E greu pe acest pământ
+Dar vom ajunge odată
+Acolo-n ţara minunată
+Acolo-n cerul Său cel sfânt
+Unde-I Domnul meu iubit
+1835.
+
+[s2]
+2. E greu în încercare
+E greu când eşti lovit
+Când vezi că nimeni nu te ajută
+Copii nu te mai ascultă
+Tu ragă-te lui Dumnezeu
+El te ascultă tot mereu
+
+[s3]
+3. E greu fără de Isus
+Făra de Dumnezeu
+El te aşteaptă ca să vii
+Să fii cu el în veşnicii
+Acolo-n ţara minunată
+Cu El vom sta cu toţi la masa
+Acolo suferinţă nui
+În cerul sfânt al Domnului
+
+[order]
+s1,s2,s3

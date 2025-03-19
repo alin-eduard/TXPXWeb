@@ -1,0 +1,26 @@
+[s1]
+Pentru jertfa Ta Isus
+Pentru sangele ce-a curs
+/: Pentru harul Tau de sus
+Te iubesc si-ti cant Isus :/
+
+[s2]
+Pentru tot ce Tu mi-a dat
+Pentru tot ce mi-ai luat
+/: Pentru tot ce mi-ai iertat
+Te iubesc cu adevarat.:/
+
+[s3]
+Pentru tot ce-am intalnit
+Pentru tot ce mi-ai rostit
+/: Pentru darul Tau ceresc
+Ma inchin si-Ti multumesc.:/
+
+[s4]
+Pentru lacrimi pe obraz
+Pentru ceasul de necaz
+/: Pentru izbaviraea Ta
+Te iubesc si-Ti voi canta.:/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,39 @@
+[s1]
+/:Daca vrei, o numai daca tu vrei:/
+/: Omule trudit pe cale
+Sub povoara vietii tale
+La Isus tu azi odihna afla-vei! :/
+
+[s2]
+/: Daca vrei, o numai daca tu vrei :/
+/: Chiar de-ti va parea vreodata
+Ca e aspru si te cearta
+Cum te-ar mai sili
+sa poata catre-ai sai. :/
+
+[s3]
+/: Daca vrei, o numai daca tu vrei:/
+/: Chiar de-L doare pentru tine
+Si de-ar plange cu suspine
+Nu uita a Lui silire-i: daca vrei. :/
+
+[s4]
+/: Daca vrei, o numai daca tu vrei :/
+/: Asta-I ziua mult dorita
+Prin prooroci de mult vestita,
+Ziua cand te roaga cerul ca sa vrei. :/
+
+[s5]
+/:O de-ai vrea, o numai daca ai vrea:/
+/: Ar veni El Dumnezeu,
+Ti-ar lua de pe umar greul
+Si de-atunci ar fi cu tine tot mereu. :/
+
+[s6]
+/: Daca vrei, o numai daca ai vrea :/
+/: Ziua este pe sfarsite
+Strange-a cerului cuvinte
+Ca sa ai un adapost in noaptea grea. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

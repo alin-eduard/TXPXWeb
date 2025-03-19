@@ -1,0 +1,24 @@
+[s1]
+Binecuvâtarea iubirii
+Fie cântul meu,
+Veşnic Dumnezeu
+Azi şi-n vecii fericirii.
+
+[r1]
+Te binecuvintez x2
+Dumnezeul meu, te binecuvintez
+
+[s2]
+Binecuvântarea credinţei
+Fie orişicând
+Trai Cuvânt şi gând
+Ţie, Pavază fiinţei.
+
+[s3]
+Binecuvântarea nădejdii
+Ţie îţi cânt curat
+Tată minunat
+Domnul meu, când vin primejdii.
+
+[order]
+s1,r1,s2,r1,s3,r1

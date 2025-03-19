@@ -1,0 +1,40 @@
+[s1]
+Nu pot uita vreodata
+Iubirea aratata de Isus
+M-a-mbracat in haine albe
+A pus pe mine podoabele din cer
+El mi-a dat haina de nunta
+Ce privirea o incanta orsicui
+Si in mine-a pus o taina
+E iubirea aratata omului
+
+[r1]
+Traiasca Domnul
+El este stanca mea
+In care ma incred
+Traiasca Domnul
+El este stanca mea
+Si cetatuia mea
+
+[s2]
+Si viata cand va trece
+Nu vreau sa-mi fie rece inima
+Ca vreau sa-i cant iubirea
+La acel ce nemurirea-n dar mi-a dat
+Dumnezeu imi da tarie
+Sa ii cant cu bucurie, numai Lui
+In necaz si clipe grele
+Imi trimite mangaiere, harul Lui
+
+[s3]
+Iar cand cei rai pe urme
+Doreau sa-mi ia viata
+Am zarit o cetate de scapare
+Ajutor si alinare la necaz
+Din groapa cea adanca
+M-a pus sa stau pe stanca mana Lui
+Si in turnul de scapare
+Fericit cant o cantare Domnului
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,62 @@
+[s1]
+Ai milă Tu, Părinte scump
+Căci sunt un om al Tău
+Nu mă lăsa să cad acum
+Pe drumu-acesta greu.
+
+[s2]
+Te rog priveşte-acum, Isus
+La ochii mei de plans secaţi!
+Să nu mă laşi, Isuse bun
+Întinde-Ţi al Tău braţ!
+
+[s3]
+Doresc lumina Ta din cer
+S-o am în drumul meu
+Să stai aproape-acum de mine
+În valul cel mai greu.
+
+[s4]
+Trezeşte inima din piept
+Şi fă-o, Domnul meu
+Să simtă alinarea Ta
+Şi-atunci cînd este greu.
+
+[s5]
+Cu milă să priveşti din cer
+Spre tinereţea mea.
+Să nu mă laşi, Emanuel
+Să-mi piară dragostea.
+
+[s6]
+Să-mi piară dragostea din piept
+Aceasta n-o doresc
+Şi fă cu ea-n ţara de sus
+Hotaru-Ţi să-l păşesc.
+
+[s7]
+Păzeşte-mi sufletul de rău
+Căci lupt din răsputeri
+S-ajung la ţărmul minunat
+Cu frumoşi palmieri.
+
+[s8]
+Să scap pe veci de-acest Pămînt
+Ce-mi chinuieşte greu
+Şi sufletul şi inima
+Ajută-mă, Isus al meu.
+
+[s9]
+Doresc cu cei iubiţi de Tine
+Să zbor spre slăvi divine
+Să uit de tot ce mi-a fost greu
+Să mă-ntîlnesc cu Tine.
+
+[s10]
+Şi-atunci pe braţul Tău sublim
+Primi-voi alinare
+Căci despărţiţi vom fi de chin
+De groază şi-ntristare.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

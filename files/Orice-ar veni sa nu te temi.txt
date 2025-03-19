@@ -1,0 +1,26 @@
+[s1]
+Orice-ar veni să nu te temi,
+Domnul te va păzi!
+Te ocroteşte-n orice vremi,
+Domnul te va păzi!
+
+[r1]
+Domnul te va păzi,
+În orice loc, în orice zi,
+Domnul te va păzi,
+Domnul te va păzi!
+
+[s2]
+În zile pline de dureri,
+Domnul te va păzi!
+De ale iadului puteri,
+Domnul te va păzi!
+
+[s3]
+Stai liniştit în mâna Sa,
+Domnul te va păzi!
+El nu respinge ruga ta,
+Domnul te va păzi!
+
+[order]
+s1,r1,s2,r1,s3,r1

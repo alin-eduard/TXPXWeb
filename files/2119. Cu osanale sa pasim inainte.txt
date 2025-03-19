@@ -1,0 +1,50 @@
+[s1]
+2119
+1. Cu osanale să pășim înainte
+Să-ntâmpinăm pe
+Marele Împărat
+Sfințiți în inimi, plini
+de bucurie
+Mărire slavă Celui preaînalt
+
+[r1]
+Cor:  /: Cu osanale :/
+Să-ntâmpinăm
+Pe marele Împărat
+Cu Osanale și Aleluia
+Mărire Lui în veci de veci Amin
+
+[s2]
+2. Ne pregătim toți
+În podoabe sfinte din zi în zi
+Mai mult să stăruim
+În rugăciune,post și în veghere
+Să stăm de-acum și gata
+toți să fim.
+
+[s3]
+3. Cu dragoste
+Și în iubire sfântă
+Iubind pe toți în jur
+Și pe vrăjmași să așteptăm
+Al trâmbiței răsunet
+Cu ochii-n sus
+Privind înlăcrimați.
+
+[s4]
+4. Ce zi măreață
+Și ce sărbătoare
+Va fi atunci când El va apărea
+Isus Hristos pe nori
+Cu slavă mare Își va răpi
+de jos Biserica.
+
+[s5]
+Cor: Cu osanale și Aleluia
+Mireasa Sa Îl va întâmpina
+Cu osanale și Aleluia
+Mărire Lui în veci
+Îi voi cânta.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5

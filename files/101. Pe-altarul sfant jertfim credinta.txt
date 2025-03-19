@@ -1,0 +1,32 @@
+[s1]
+1. Pe-altarul sfânt jertfim credinţa,
+Viaţa noastră ne-ncetat,
+Purtăm nădejdea-n biruinţă
+Şi-al Domnului Cuvânt curat.
+101.                                       Sol
+
+[r1]
+Cor: /:Cântăm, cântăm şi ne rugăm :/
+Mărire Ţie! /: O, Doamne-n veci, :/
+Mărire Ţie! :/
+
+[s2]
+2. Dacă-n viaţa noastră-ntreagă
+Vom lupta şi vom birui,
+Cu osanale strălucite,
+Întregul cer ne va primi.
+
+[s3]
+3. Pe calea sfântă a credinţei,
+De-a pururi vom păşi mereu,
+Cu inima nevinovată,
+Să-L preamărim pe Dumnezeu.
+
+[s4]
+4. Pe-altarul sfânt jertfim credinţa
+și viaţa noastră ne-ncetat,
+Încoronaţi vom fi de Isus,
+Cerescul nostru Împărat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

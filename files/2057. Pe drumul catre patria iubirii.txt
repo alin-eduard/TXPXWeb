@@ -1,0 +1,41 @@
+[s1]
+2057 re m
+1. Pe drumul către patria iubirii
+Nu-s numai zile bune, fără nori
+/: Nu-i doar senin pe
+calea mântuirii
+Nici lauri, nici aplauze
+și nici flori :/
+
+[s2]
+2. Nu-i calea către cer
+destinul firii
+Nici soarta orșicărui muritor
+/: Ci doar trăirea în neprihănire
+Aceasta este șansa tuturor :/
+
+[s3]
+3. Nu-i gratuit chiar
+locul nemuririi
+De nu treci pe la Cel ce l-a plătit
+/: Să vezi cât costă prețul fericirii
+Să-i mulțumești măcar
+că te-a iubit:/
+
+[s4]
+4. Pe calea aceasta-i
+Ne-ncetat doar luptă
+Dar dacă nicicând nu vei obosi
+/: Vei fi chemat erou
+al slavei sfinte
+Și-răsplătit odată-n veșnicii :/
+
+[s5]
+5. Pe drumul către patria iubirii
+Nu-i greu de mers,
+nici crucea grea de dus
+/: Când știi că la sfârșitul alergării
+Te-așteaptă însuși regele Isus! :/
+
+[order]
+s1,s2,s3,s4,s5

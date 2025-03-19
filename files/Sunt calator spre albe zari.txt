@@ -1,0 +1,50 @@
+[s1]
+Sînt călător spre albe zări
+Din lumea rea spre cer
+Plutind pe-nvolburate mări
+Azi, Doamne, Ţie-Ţi cer.
+
+[s2]
+/: Putere-n luptă zi de zi
+Lumină-n orice ceas
+Prin bezna nopţilor pustii
+Ţi-aud divinu-Ţi glas. :/
+
+[s3]
+Cînd năvălesc în jurul meu
+Cel rău şi-ai lui mişei
+Să-mi dai puteri să cred mereu
+Şi să-i înving pe ei.
+
+[s4]
+/: De-a pururi paşii să mi-i ţii
+Pe singurul Tău drum
+Pe care cei ce Te iubesc
+Păşesc mereu şi-acum. :/
+
+[s5]
+Isuse-n braţul Tău duios
+Voiesc şi-acum s-ajung
+Dar sînt atîţi ce merg în jos
+Şi drumu-i tot mai lung.
+
+[s6]
+/: Întinde-Ţi mîna Ta, Isus
+Şi-ajută-mă mereu
+Mereu în orice zi mai sus
+S-ajung în braţul Tău. :/
+
+[s7]
+Acolo e comoara mea
+Şi inima-mi s-a dus
+Şi-mi arde dorul de-a pleca
+Chemarea să-Ţi ascult.
+
+[s8]
+/: Eu sînt un călător şi-acum
+Preabunul meu Isus
+O, fii cu mine-n lungul drum
+S-ajung cu bine sus ! :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

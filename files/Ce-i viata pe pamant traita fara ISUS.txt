@@ -1,0 +1,32 @@
+[s1]
+Ce-i viaţa pe pamânt
+Trăita fără Isus
+Alerg in stânga şi-n dreapta,
+Si nu ştii unde te duci
+Eşti singur şi cauţi fericirea,
+Dar nu ştii unde-o găseşti
+Timpul aproape-a trecut,
+Tu inca mai rătăceşti.
+
+[r1]
+Astazi ai o şansă,
+Sa fii si tu mântuit
+Priveşte inspre Isus,
+Vei fi şi tu fericit
+Primeşte-l in inima ta,
+Viaţa ţi-o poate schimba
+Cheamă numele Său
+Şi El Te va asculta.
+
+[s2]
+Când viaţa se va sfârşi
+Te-ai întrebat vreodat’
+Oare unde vei fi cand totul
+Se va termina
+Eşti singur si cauţi fericirea
+Dar nu ştii unde-o gaseşti
+Timpul aproape-a trecut
+Tu încă mai rătăceşti.
+
+[order]
+s1,r1,s2,r1

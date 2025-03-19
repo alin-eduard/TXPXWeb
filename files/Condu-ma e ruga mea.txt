@@ -1,0 +1,27 @@
+[r1]
+/: Condu-mă, e ruga mea,
+Prin toate necazurile-acestei lumi!
+Condu-mă, Doamne, noaptea,
+Condu-mă prin lumina Ta,
+Căci numai Tu
+poţi conduce viaţa mea! :/
+
+[s1]
+Am fost născut în păcat,
+Dar Isus pentru mine s-a dat.
+Viaţa mea de-acum e-n mîna Sa!
+Dar, pînă Îl voi vedea,
+Am nevoie de-ndurarea Sa,
+Căci mi-a promis
+să-mi conduca viaţa.
+
+[s2]
+Dumnezeu ne iubeşte mereu!
+Pentru noi a dat singurul Fiu,
+Ca noi să fim salvaţi din păcat!
+Deci, vino azi cu inima ta!
+De păcat El o va spăla
+Şi de azi El poate fi lumina ta!
+
+[order]
+r1,s1,r1,s2,r1

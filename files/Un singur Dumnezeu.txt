@@ -1,0 +1,17 @@
+[s1]
+Un singur Dumnezeu,
+Un singur Domnitor
+Un singur Împărat şi
+Creator vrem să avem.
+
+[s2]
+Pe nimeni altul nu dorim
+Pe nimeni altul nu vrem să ştim
+Doar pe Tine Dumnezeu
+Splendoarea şi măreţia Ta
+Nu se pot asemăna cu nimeni Dumnezeu.
+Eşti Domn al Domnilor
+Eşti rege al regilor.
+
+[order]
+s1,s2

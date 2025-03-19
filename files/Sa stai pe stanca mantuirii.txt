@@ -1,0 +1,37 @@
+[s1]
+Să stai pe stînca mîntuirii
+Senin, voios şi neclintit
+/: Chiar cînd stihiile naturii
+Pornite din adîncul firii
+Dezlănţui-se-vor cumplit. :/
+
+[r1]
+/: Să nu priveşti ,napoi,
+să mergi tot înainte !
+Isus va fi cu tin,
+prin greu şi printre nevoi
+Să nu te dai napoi ! :/
+
+[s2]
+Să stai în strînsă legătură
+Ca mădular din trupul Lui.
+/: În dragoste fără măsură
+Cu-a Duhului sfînt armătură
+Să lupţi ca fiu al cerului ! :/
+
+[s3]
+Să stai la umbra Celui veşnic
+Lumina Lui să-ţi fie scut !
+/: De vin văpăi, de-i întuneric
+De-ai fi trădat de cei puternici
+Să nu te uiţi la ce-ai pierdut ! :/
+
+[s4]
+Iar dacă tremuri în furtună
+În vînt şi-n val vijelios
+/: Deasupra ta stă-ntinsă-o mînă
+De cui străpunsă, da-i stăpînă -
+E mîna tare-a lui Hristos ! :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

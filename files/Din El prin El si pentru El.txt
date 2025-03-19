@@ -1,0 +1,21 @@
+[s1]
+/:Din El, prin El şi pentru El
+Sunt toate lucrurile:/
+Mi m
+
+[r1]
+/:A Lui să fie gloria
+A Lui să fie gloria
+A Lui să fie gloria
+În veci de veci, amin!:/
+
+[s2]
+/:El pentru noi a suferit
+Si astazi este viu:/
+
+[s3]
+/:Isus Hristos ramane Domn
+De-acum si pururea:/
+
+[order]
+s1,r1,s2,r1,s3,r1

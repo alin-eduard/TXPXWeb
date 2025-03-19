@@ -1,0 +1,26 @@
+[s1]
+/: Sângele Tău m-a curăţit
+Mi-a dat iertare de păcat
+Ca să fiu azi mântuit
+Sângele Tău m-a curăţit :/
+
+[s2]
+/: O, Isuse, sângele Tău
+Este puternic şi astăzi
+Spală, dar păcatul lumii-ntregi
+Şi să dea eliberare :/
+
+[s3]
+/: Iubrea Ta m-a cucerit
+Mi-a umplut viaţa mea
+De pacea Ta, cea divină
+Iubirea Ta m-a cucerit :/
+
+[s4]
+/: Iubirea Ta, o, Isuse
+Mi-a schimbat inima
+Şi marea ciar s-o iubeşti
+Chiar şi pe cei ce mă urăsc :/
+
+[order]
+s1,s2,s3,s4

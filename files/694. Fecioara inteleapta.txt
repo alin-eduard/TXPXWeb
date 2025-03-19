@@ -1,0 +1,82 @@
+[s1]
+1. Fecioară înţeleaptă
+Cu candela aprinsă
+Ce tot aştepţi întruna
+Pe Mirele iubit
+/: Coboară înserarea
+Pe faţa zilei stinsă
+Şi Mirele fecioară
+Nici astăzi n-a venit :/
+694.
+
+[s2]
+2. Pe-albastru cer se-arată
+Strălucitoare stele
+Strălucitori luceferi
+Răsar în lung şi-n lat
+/: Dar nici în seara asta,
+O, nu e printre ele
+Luceafărul, fecioară
+Ce mult L-ai aşteptat :/
+
+[s3]
+3. Se-ntinde, ca o mreajă,
+A somnului ispită
+Lumina să ţi-o stingă,
+Vegherea să ţi-o ia
+/: Cu suflet alb şi curat,
+Rămâi nebiruită
+Căci lunga priveghere
+Curând va fi gata :/
+
+[s4]
+4. Cu candela credinţei aprinsă,
+O, fecioară
+În râu de lacrimi sfinte
+Tu spală-te de somn
+/: Şi-n haina curăţiei,
+Aşteaptă-n prag afară
+Dorita arătare
+A scumpului tău Domn :/
+
+[s5]
+5. Nu-i nici o luminiţă în sat
+La nici o casă
+Căci nicăieri nu-i parcă
+Un singur suflet treaz
+/: Tu singură, fecioară,
+A cerului Mireasă
+Veghezi prin câte chinuri
+Cu lacrimi pe obraz :/
+
+[s6]
+6. Veghează, mai veghează,
+Mai suferă o clipă
+În candela sleită
+Mai toarnă untdelemn
+/: Vor trece toate acestea,
+Vor trece într-o clipă
+Cum n-a mai fost vreodată,
+Când El va face-un semn :/
+
+[s7]
+7. Dorm toţi? O, nu-i nimica!
+Tu rabdă şi veghează
+Plângi mult.... e grea vegherea
+Ştiu suflete cât plângi
+/: Dar iată, răsăritul
+Încet se luminează
+Şi obrazul tău cu lacrimi
+În slavă-ţi va fi şters :/
+
+[s8]
+8. Răsare faţa dulce a Mirelui ce vine
+Şi harul într-o clipă,
+Pe veci te-a mângâia
+/: Cu ce cununi măreţe
+De zori şi slavă pline
+Îţi va-mbrăca El faţa
+Ce-a plâns şi-a privegheat :/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

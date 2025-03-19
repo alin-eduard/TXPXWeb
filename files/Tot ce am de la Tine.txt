@@ -1,0 +1,14 @@
+[s1]
+Tot ce am o Doamne e-al Tău
+Tot ce am o Doamne
+Am primit de la Tin’
+Domnul meu inima mea este-a Ta
+
+[s2]
+Viaţă am primit…O, Doamne
+Pace am în sufletul meu
+De când,Te-am întâlnit
+Eu sunt al Domn de-atunci
+
+[order]
+s1,s2

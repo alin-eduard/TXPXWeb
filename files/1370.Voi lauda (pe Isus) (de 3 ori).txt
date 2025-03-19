@@ -1,0 +1,34 @@
+[s1]
+1370.
+1.  Voi lăuda / : pe Isus : / (de 3 ori)
+Voi lăuda pe Isus
+Căci El mult m-a iubit
+Voi lăuda / : pe Isus : / (de 3 ori)
+Voi lăuda pe Isus
+Căci El mult m-a mântuit.
+
+[r1]
+Cor: Voi lăuda totdeauna pe Isus
+Voi lăuda Numele Lui cel sfânt
+Voi lăuda totdeauna pe Isus
+Căci pentru mine Isus s-a jertfit.
+
+[s2]
+Voi lăuda / : pe Isus : /
+Căci numele în cartea vieţii
+El mi-a scris
+Voi lăuda / : pe Isus : /
+Căci mă va duce cu El
+În al său paradis.
+
+[s3]
+Eu cânt pe veci / : lui Isus : /
+Mă duc în a mea viaţă
+Ca să fac voia Lui
+El îmi va da putere
+S-alerg înainte
+Căci prin a Lui iubire
+Eu sunt al Domnului.
+
+[order]
+s1,r1,s2,r1,s3,r1

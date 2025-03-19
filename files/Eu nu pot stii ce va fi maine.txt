@@ -1,0 +1,20 @@
+[r1]
+/: Eu nu pot şti ce va fi mâine
+O, Doamne, eu nu pot afla
+Dar ştiu pe unul care ţine
+Viaţa mea în mâna Sa. :/
+
+[s1]
+Când văd ce-adâncă a fost valea
+Şi ce înalt muntele meu
+Eu mă gândesc ce-ngustă-i calea
+Şi cât de mare-i harul Său !
+
+[s2]
+Chiar dacă cei din jurul meu
+De multe ori nu mă-nţeleg
+Eu ştiu că Tu eşti Tatăl meu
+Cu Tine-n viaţă am să merg.
+
+[order]
+r1,s1,r1,s2,r1

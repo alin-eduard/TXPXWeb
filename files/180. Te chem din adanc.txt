@@ -1,0 +1,44 @@
+[s1]
+Fa
+1. Te chem din adânc,
+Doamne-auzi glasul meu
+Şi ascultă-mi cererea mea.
+Dacă Tu ai păstra
+Ale noastre greşeli,
+Oare cine-ar mai sta-n faţa Ta?
+180.
+
+[s2]
+Cor: /:Dar la Tine-i iertare
+Ca să fii de temut,
+Te slăvesc Domnul meu pururea!
+Nădejdea întreagă
+În Tine mi-o pun,
+Şi-aştept făgăduinţa Ta.:/
+
+[s3]
+2. Te-aşteaptă-al meu suflet
+O, Domnul meu drag
+Ca străjile a zilei zori
+Eu Te laud mereu
+Şi aştept acea zi
+Când vei veni pe nori.
+
+[r1]
+Cor: /:Dar la Tine-i iertare
+Ca să fii de temut,
+Te slăvesc Domnul meu pururea!
+Nădejdea întreagă
+În Tine mi-o pun
+Şi-aştept făgăduinţa Ta.:/
+
+[s4]
+3. Nădejdea ţi-o pune
+În Domnul mereu,
+Israele, o, nu te-ntrista
+Din a tale dureri
+Şi necazuri, Cel Sfânt,
+Te va răscumpăra.
+
+[order]
+s1,s2,s3,r1,s4,r1

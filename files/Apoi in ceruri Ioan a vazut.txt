@@ -1,0 +1,46 @@
+[s1]
+Apoi în ceruri Ioan a văzut
+Cetatea sfântă Ierusalim!
+Un tron de aur strălucind mereu,
+Sus pe el şedea Dumnezeu!
+În jur era marea de cristal
+Ce glorie de nedescris!
+Şi eu doresc să ajung să văd
+Noul Ierusalim!
+
+[r1]
+Ierusalim, vreau să
+păşesc pe străzile tale!
+Pe aur curat să alerg ne-ncetat!
+Ierusalim, cât te doresc,
+Lângă Râul vieţii,
+Sus la tronul lui Dumnezeu!
+
+[s2]
+Apoi în ceruri văzuse un Miel
+Părea înjunghiat, Mielul lui Dumnezeu!
+Era doar ziuă, noaptea a dispărut,
+Lumina lumii, Domnul Isus.
+Toţi se închinau, pe Miel Îl adorau
+Tu eşti vrednic, Mielul lui Dumenzeu!
+Şi eu doresc să ajung să văd
+Noul Ierusalim!
+
+[s3]
+Ierusalim, Ierusalim!
+Noaptea a dispărut!
+Osana în înălţime,
+Osana, mărire în veci de veci!
+
+[s4]
+Ierusalim, vreau să
+păşesc pe străzile tale!
+Pe aur curat să alerg ne-ncetat!
+Ierusalim, cât te doresc,
+Lângă Râul vieţii,
+Sus la tronul lui Dumnezeu!
+/: Ierusalim, cât te doresc :/
+Ierusalim, Ierusalim!
+
+[order]
+s1,r1,s2,r1,s3,s4

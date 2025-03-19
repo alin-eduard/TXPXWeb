@@ -1,0 +1,43 @@
+[s1]
+1. De ce stai nepăsător
+/: Popor iubit :/
+Căci vine al tău Păstor
+/: Popor iubit :/
+Din trâmbiţi va suna
+Şi tu cum tu vei afla.
+496.
+
+[s2]
+2. Candela ta cum va fi
+/: Popor iubit :/
+Ai untdelemn pregătit
+/: Popor iubit :/
+Miezul nopţii va veni
+Untdelemn nu vei găsi.
+
+[s3]
+3. Dacă Domnul va veni
+/: Popor iubit :/
+Oare cum te va găsi
+/: Popor iubit :/
+Poţi intra la nunta Sa
+Ori pe prag vei rămânea.
+
+[s4]
+4. O, ce bucurie va fi
+/: Popor iubit :/
+Când Domnul ne va găsi
+/: Popor iubit :/
+Lângă Domnul când vom sta
+Cu Avraam ne-om bucura.
+
+[s5]
+5. Vai ce jale va mai fi
+/: Popor iubit :/
+Atunci când vei auzi
+/: Popor iubit :/
+Mergi în focul nesfârşit
+Că Mie nu mi-aţi slujit.
+
+[order]
+s1,s2,s3,s4,s5

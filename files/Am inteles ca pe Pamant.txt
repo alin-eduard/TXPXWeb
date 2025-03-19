@@ -1,0 +1,26 @@
+[s1]
+Am înţeles că pe Pămînt
+Nu poate fi ca-n cer nicicînd.
+Şi cît de mult noi ne-om lupta
+Ce este-n cer nu vom afla.
+
+[r1]
+Hoinărind prin lume căutam
+Ideal în viaţă, nu găseam.
+Pînă cînd de-acolo, chiar de sus
+M-a chemat la viaţă El, Isus.
+
+[s2]
+Am cugetat în mintea mea
+Să înţeleg ce n-aş putea
+Dar fără viaţa prin Isus
+Nu poţi ajunge-n ceruri sus.
+
+[s3]
+Am tot privit în jurul meu
+Să văd ce-i simplu şi ce-i greu
+Dar cu Isus pe calea mea
+Tot greul voi îndepărta.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,52 @@
+[s1]
+Dupa cum Scriptura scrie,
+Timpu-i pe sfarsit
+Dragostea de calea sfanta
+La multi s-a racit.
+
+[r1]
+A sosit timpul din urma,
+Si afara si in turma,
+Inainte de-a veni Isus.
+Deci, fii totdeauna gata,
+Caci El vine cu rasplata
+Sa ne duca-n ceruri sus.
+
+[s2]
+Necredinta cucereste
+Intregul pamant;
+A-nceput sa se arate
+Si-n poporul sfant.
+
+[s3]
+Multi din cei spalati cu sange,
+Multi cu Duhul Sfant,
+Si-au ales alta carare
+Pe acest pamant.
+
+[s4]
+Lumea-ntreaga e cuprinsa
+De-al placerii dor,
+Iar mandria-si face cuibul
+Chiar si in popor.
+
+[s5]
+Adormirea se intinde
+Pan' la infinit;
+Chiar si fecioarele-ntelepte
+Parca au adormit.
+
+[s6]
+Deci, te scoala-n graba mare,
+Tu, popor ales,
+Caci s-au copt struguri-n vie,
+Gata de cules.
+
+[s7]
+Fii mereu in asteptare
+Si-n alb imbracat,
+Ca-i copt secerisul lumii,
+Bun de secerat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1

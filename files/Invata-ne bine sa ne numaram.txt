@@ -1,0 +1,34 @@
+[s1]
+Învaţă-ne bine să ne numărăm
+ai vieţii paşi
+Câţi în urmă-au fost
+şi caţi mai sînt rămaşi
+Ţie să ne dăruim şi mai deplin.
+Din Cuvînt a vieţii soartă să ne ştim
+Şi crescînd în harul Tău acum, Isus
+Către Tine să păşim în sus.
+
+[r1]
+Mai înţelepţi
+Cu inima să devenim, o, Doamne !
+Şi mai de preţ
+În toate să ne fie voia Ta !
+
+[s2]
+În faţa Ta ca o zi se numără suta de ani
+Căci eşti dincolo de vremuri şi de ani.
+Tu eşti veşnic locul nost, de adăpost
+Şi-n necaz a noastră izbăvire-ai fost
+Şi mai mult dorim Isus să preţuim
+Toate ce din mîna Ta simţim.
+
+[s3]
+În viitor satură-ne viaţa-n bunătatea Ta
+Şi în Tine, Doamne, ne vom bucura.
+Cîte zile-am fost ferit, înalţă-ne
+Şi de-ngrijorări, o, Doamne, scapă-ne !
+Sîntem robii Tăi, Isuse, slava Ta
+Te rugăm în viaţă a ne da !
+
+[order]
+s1,r1,s2,r1,s3,r1

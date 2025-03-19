@@ -1,0 +1,127 @@
+[s1]
+M-am depărtat de Mântuitorul
+Ce m-a salvat
+Plângând Te caut,
+Isuse Doamne, îndurerat.
+/: Întinde-Ţi o, Doamne Sfinte,
+Tu mâna Ta
+Şi mă ridică iar în lumină
+Din noaptea grea. :/
+
+[s2]
+În bezna nopţii,
+Nici o lumină eu nu zăresc;
+Cu răni în suflet şi
+În suspine, eu pribegesc.
+/: Ca orbul ce îl conduce
+Pe un alt orb,
+Paharul vieţii şi-amarul lumii
+Cu greu le sorb. :/
+
+[s3]
+Trimite, Doamne,
+O rază sfântă din cerul Tău,
+Ca mângâiere şi călăuză
+Pe drumul greu
+/: Ca ochii să îmi deschidă
+Lumina Ta
+Să văd cărarea ce mă
+Conduce spre Ţara Ta. :/
+
+[s4]
+O picătură din al Tău
+Sânge nevinovat
+Lasă-l să spele
+Un suflet negru, plin de păcat!
+/: O, Doamne, Te rog
+Din suflet, ajută-mă!
+Din chinul lumii şi din
+Suspine, Tu scapă-mă! :/
+
+[s5]
+Redă-mi, Isuse, dragostea
+Aprinsă ce-aveam întâi
+Şi-apoi cu mine în veşnicie,
+Tu să rămâi!
+/: Puterea şi sufletul meu
+Şi inima
+Doresc să fie pe veşnicie,
+În slujba Ta. :/
+
+[s6]
+Ca încheiere, o rugă
+Sfântă înalţ în sus
+Spre jertfa sfântă
+De pe Golgota, înspre Isus.
+/: Dă-mi, Doamne,
+Isuse sfinte, ceea ce-Ţi cer!...
+Să pot să fiu eu pe veşnicie
+Cu Tine-n cer. :/
+
+[s7]
+Iar pe poporul care
+Te cheamă de pe pământ,
+Ascultă-i ruga ce şi-o
+Ridică spre Tronul sfânt!
+/: Revarsă cu prisosinţă
+Din al Tău har!
+Dă-i bucurie şi-n veşnicie
+Viaţă-n dar! :/
+
+[s8]
+Doamne da-ne intelepciune
+Si putere si iubire
+Doamne vrem sa ascultam Cuvantul Tau
+Azi venim in fata Ta
+Da-ne Doamne harul Tau
+Sa fim vii intru’ imparatia Ta,
+Trezeste-ne din nou.
+
+[r1]
+/:Doamne- atinge-ne din nou
+Peste noi Tu mana Ta s-o pui
+Si lumina Ta sa arda-n noi
+Prin puterea Duhului
+Pune-o dar nu pentru o zi
+Ci sa arda-n vesnicii in noi
+Cu adierea Duhului Tau Sfant
+Doamne atinge-ne din nou.:/
+
+[s9]
+Doamne multi au obosit
+Si in inimi sunt raniti
+Vindecarea lor e doar in mana Ta
+Sa ne atingi pe fiecare
+Cu puterea crucii Tale
+Sa fim vii intru imparatia Ta.
+Trezeste-ne din nou.
+
+[s10]
+Când Isus Cristos m-a mântuit
+Har din Harul Său,
+El mi-a dăruit.
+Pacea Lui mă face fericit
+Şi mă-ndeamnă-ntruna să Îi cânt.
+
+[r2]
+/: Doamne, Te slăvesc
+Şi Îţi mulţumesc
+Pentru bunătatea-Ţi mare,
+Pentru încercări, binecuvântări,
+Doamne, azi Îţi mulţumesc! :/
+
+[s11]
+Viaţa mea-mpreună cu Isus
+E un cer senin, cer de soare plin.
+Frică, griji, nevoi eu nu cunosc
+Căci de toate de la El primesc.
+
+[s12]
+Vreau să ştie toţi că-s fericit
+Cu Isus al meu Ce m-a mântuit.
+Vreau de-acum
+doar Lui să Îi slujesc
+Prin viaţa mea să-I mulţumesc.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,r1,s9,r1,s10,r2,s11,r2,s12,r2

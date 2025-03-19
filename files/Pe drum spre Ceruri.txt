@@ -1,0 +1,28 @@
+[s1]
+Pe drum spre Ceruri sunt încercări
+Ades necazuri şi strâmtorări
+Chiar dacă munţii s-ar clătina,
+din temelii
+Mă rog la Domnul, El mă va izbăvi.
+
+[r1]
+/: Eu am pace, fericire
+Chiar când duhul meu
+E greu mă încred în Tine,
+Doamne, ajutorul meu :/
+
+[s2]
+Chiar dacă lacrimi îmi curg mereu
+Eu ştiu că Domnul e Dumnezeu
+Am mângâiere şi-aştept cu dor
+Aceea zi, când după lacrimi
+Vor fi doar bucurii.
+
+[s3]
+Multe în viaţă, eu nu-nţeleg
+Eu ştiu doar locul, spre care alerg
+Şi am speranţă, că într-o zi voi cu El
+Cu cel ce este Emanuel.
+
+[order]
+s1,r1,s2,r1,s3,r1

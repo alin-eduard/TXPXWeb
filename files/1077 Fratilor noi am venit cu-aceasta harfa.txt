@@ -1,0 +1,93 @@
+[s1]
+Fraţilor noi am venit cu-această harfă
+Şi vreau să-I cânt Domnului din inima toată
+Să vestim cu glasul nost a Lui bunătate
+Căci Isus ne-a mântuit
+Şi ne-a scăpat de moarte
+Şi să-I cânt de bucurie care va veni
+Ziua aceea minunată
+Când se va-mplini
+O nu permiteţi lucruri pământeşti
+Şi pentru aceea zi
+Să te pregăteşti.
+1077.
+1.
+
+[s2]
+Într-o zi înspre cer
+Noi cu toţii vom zbura
+Domnul Isus va veni
+Spre-a ne ridica
+Când al nostru Isus
+Slava îşi va arăta
+Şi pe-un nor luminos
+Ne va ridica.
+O, o, ce mare bucurie
+De pe-acum să ştiţi
+Când al nostru Salvator va zice veniţi
+2.
+
+[s3]
+O, o, ce mare bucurie
+Văzduhul e plin
+De cântări şi osanale
+Când ne întâlnim.
+Veseliţi-vă voi dar
+Căci mult nu mai e
+Preţuiţi vremea de har
+Care se scurge
+Cu cântări şi cu psalmi
+Să vă întăriţi
+Pe cuvântul din scripturi
+3.
+
+[s4]
+Totul să zidiţi.
+O, o ce mare bucurie de acum să ştiţi
+Când vom întâlni pe Domnul
+Îmbrăcaţi în sfinţi
+O, o ce mare bucurie
+Văzduhul e plin
+Cu cântări de bucurie
+Când ne întâlnim
+
+[s5]
+Pe cei slabi şi cei căzuţi
+Uitării să nu-i daţi
+Şi cu foc să stăruiţi
+Pe toţi să-i ridicaţi
+Tot pământul şi marea s-a cutremura
+Înviind sfinţii din morminte strigând Osana.
+O, o ce mare bucurie
+De pe-acum să ştiţi
+Când Isus din strălucire
+Va zice veniţi
+O, o ce mare bucurie
+4.
+
+[s6]
+Văzduhul e plin
+Cu cântări de bucurie
+Când îl întâlnim.
+Ziua-aceea va veni
+Chiar de n-o doresc cei răi
+Dar mai fericiţi vom fi
+De-ar merge şi ei
+Cei rămaşi vor alerga
+Risipiţi în sus şi-n jos
+Şi vor plânge cu amar
+5.
+
+[s7]
+dar fără folos.
+O, o ce grea nenorocire
+Atuncia va fi
+Copii de fraţi şi de părinţi
+Se vor despărţi
+O înălţarea lor spre ceruri
+Va fi ca un fum
+Se vor despărţi pe veci
+Fără rămas bun.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

@@ -1,0 +1,41 @@
+[s1]
+Dacă eşti cuprins de-ngrijorare
+Inima ţi-e plină de-ntristare
+Amară-i lacrima ta,
+e grea durerea ta
+Aici tu plângi mereu,
+te ştie Dumnezeu.
+
+[s2]
+Nu-i nimeni ca să-ţi ia
+/: Din piept durerea ta
+Doar Isus, doar Isus, doar Isus.:/
+
+[s3]
+Dacă eşti uitat în astă lume
+De durerea ta nu ai cui spune
+De n-ai cui să te plângi,
+Şi inima ţi-o frângi
+Ascultă dragul meu,
+te ştie Dumnezeu.
+
+[s4]
+Să-l chemi tu pe Isus
+/: Şi îţi va fi de-ajuns
+Doar Isus, doar Isus, doar Isus.:/
+
+[s5]
+Vino acum cu viaţa ta amară
+Vino la Isus cu-a ta povară
+Un har nemărginit
+e Domnul meu iubit,
+Şi crede dragul meu:
+există Dumnezeu.
+
+[s6]
+Povara-ţi va lua
+/: Isus te va ierta
+Doar Isus, doar Isus, doar Isus.:/
+
+[order]
+s1,s2,s3,s4,s5,s6

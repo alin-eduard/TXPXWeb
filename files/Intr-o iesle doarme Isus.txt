@@ -1,0 +1,35 @@
+[s1]
+Într-o iesle doarme Isus,
+Al Mariei scump odor,
+Şi cântându-i printre lacrimi,
+Ea Îl leagănă uşor.
+De la turma lor păstorii
+Către staul vin grăbiţi
+Să se-nchine umiliţi,
+să se-nchine umiliţi.
+2
+
+[s2]
+Din a cerului mărire
+Îngeri mii au coborât
+Cu a Pruncului vestire;
+,,Azi un Rege S-a născut“.
+Iar pastorii lasă turma,
+Preamărind şi ei in cor
+Pe slăvitul Pruncuşor,
+pe slăvitul Pruncuşor.
+1
+
+[s3]
+Într-o iesle, jos in paie,
+Cine stau îngenunchiaţi
+In umile rupte straie,
+Bucuroşi şi luminaţi?
+Sunt păstorii din câmpie,
+Prosternaţi `naintea Lui,
+Şi dau slavă Domnului,
+şi dau slavă Domnului.
+0
+
+[order]
+s1,s2,s3

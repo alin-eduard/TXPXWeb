@@ -1,0 +1,43 @@
+[s1]
+1. Zilele trec iar nopţile
+Întruna /: se duc :/
+Parcă sunt frunze de pom
+Toamna când  se /:  usuc :/
+/: Anii se duc şi rămâne
+Doar o amintire
+Viaţa aici pe pământ
+Eşti doar o sclipire :/
+1363.
+
+[s2]
+2. Tu copilaş care-n leagăn
+Cu Isus ai   /:adormit :/.
+Sub geana tremurătoare
+Vise sfinte ai  /: primit :/
+/: S-asculţi de-a mamei
+Şi-a tatălui poveţe sfinte
+Şi Lui Isus să-i slujeşti
+Cu iubire fierbinte : /
+
+[s3]
+3. Paşii cei porţi pe alei
+Către orele /: târzii :/
+Adu-i pe calea lui Isus
+Şi te vei bucura nespus
+/: Clipa n-o pierde căci
+Vine secunda, minutul
+Când vei ajunge la greu
+Isus îţi va fi scutul :/.
+
+[s4]
+4. Oricine-ai fi tu omule
+De oriunde de pe /: pământ :/
+Frate cu Isus să fii în credinţă
+În faptă /: şi-n gând :/
+/: El pregăteşte cununa
+Ce ne-o va da nouă
+Albită şi stropită
+Cu-a cerului rouă : /
+
+[order]
+s1,s2,s3,s4

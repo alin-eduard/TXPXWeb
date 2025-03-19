@@ -1,0 +1,48 @@
+[s1]
+Acolo la fântână,
+cu-a ei găleată-n mână
+Femeia cea străină,
+pe Domnu-a întâlnit.
+Când Domnul îi vorbeste,
+femeia se uimeste
+Căci El îi dovedeste,
+tot ce ea a gresit.
+
+[s2]
+Apa vie curge, curge ne-ncetat
+Cine vrea să vină, cine-i însetat
+Orice păcătoasă, orice păcătos
+Va găsi iertare în Isus Hristos!
+
+[s3]
+Apoi i-a spus să stie,
+căci dacă vrea să vina
+Să scoată apă vie,
+în veac nu v-anseta
+Femeia însetată,
+ea l-a privit îndată
+Si a crezut îndată
+si a-nceput să bea.
+
+[s4]
+A lui învătăminte,
+a Lui sfinte cuvinte
+Înseamnă apa vie,
+la toti cei însetati
+Femeia însetată,
+ea l-a privit mirată
+Si a crezut îndată
+si a-nceput să bea.
+
+[s5]
+Tu esti prooroc văd bine,
+dar când Hristosul vine
+Ne v-anvăta ca Tine,
+si toate le vom sti
+Atunci Isus îi spune,
+cu sfânta-ntelepciune
+Căci El este Hristosul,
+acela asteptat!
+
+[order]
+s1,s2,s3,s4,s5

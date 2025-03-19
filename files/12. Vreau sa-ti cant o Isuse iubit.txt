@@ -1,0 +1,38 @@
+[s1]
+12.                   Re m
+1. Vreau să-ţi cânt o Isuse iubit
+Pentru dragostea cu care m-ai iubit
+Pentru sângele care L-ai vărsat
+Când pe cruce Tu m-ai răscumpărat.
+
+[s2]
+2. Ai lăsat cerul cel înstelat
+Ai lăsat pe Tatăl care Te-a iubit
+Şi-ai venit umilit aicea jos
+Pentru mine un mare păcătos
+
+[s3]
+3.Vreau să-Ţi cânt
+Chiar atunci în dureri
+Voi avea Isuse
+Un loc de mângâieri
+Dă-mi te rog ajutor şi mult har
+Ca să pot urca cântând
+pân' la Calvar.
+
+[s4]
+4. Vreau să-Ţi cânt
+Chiar acolo în cer sus
+Unde aştept ca în curând eu să fiu dus
+Căci aştept ziua Ta cu mult dor
+Ca să-Ţi cânt o scumpul meu
+Mântuitor.
+
+[s5]
+5. Azi îţi cânt Isuse şi îţi mulţumesc
+Pentru harul Tău Atotdumnezeiesc
+Căci m-ai scos și pe mine din păcat
+Şi în haine albe Tu m-ai îmbrăcat.
+
+[order]
+s1,s2,s3,s4,s5

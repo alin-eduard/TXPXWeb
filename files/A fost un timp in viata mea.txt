@@ -1,0 +1,35 @@
+[s1]
+A fost un timp în viaţa mea
+Când am văzut ce lumea poate oferi
+În vraja ei m-a-nvăluit
+Dar am rămas şi mai nefericit
+Credeam că totul pentru mine s-a sfârşit
+Că nu există un nou început
+Dar mi-a ieşit în cale Dumnezeu
+Şi-I mulţumesc că mi-a
+dat vieţii un nou sens.
+
+[r1]
+Merită, merită, merită, merită
+Să trăieşti pentru Hristos
+Merită, merită, merită
+Să îţi dai viaţa în mâna Lui
+Merită, merită, merită, merită
+Să trăieşti pentru Hristos.
+Şi să fii ca El mereu
+Să-mplineşti Cuvântul Său
+Ştiu că merită să trăieşti pentru Hristos.
+
+[s2]
+A fost un timp şi-n viaţa ta
+Când ai văzut ce lumea poate oferi
+În vraja ei te-a-nvăluit
+Dar ai rămas şi mai nefericit
+Credeai că totul pentru tine s-a sfârşit
+Că nu există un nou început
+Dar viaţa ta şi fericirea
+sunt în Dumnezeu
+Şi le primeşti doar prin credinţa în Isus
+
+[order]
+s1,r1,s2,r1

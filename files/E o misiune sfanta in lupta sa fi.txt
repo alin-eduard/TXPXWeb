@@ -1,0 +1,52 @@
+[s1]
+E o misiune sfanta
+in lupta sa fi stegar,
+Tot mereu sa fi in frunte
+ca lumina unui far.
+/: Ca sa dai avant in lupta
+celor slabi far de puteri,
+Intristati-lor speranta,
+curaj celor sub poveri. :/
+
+[s2]
+Si in lupta cu pacatul
+dragul meu e tot la fel,
+Daca esti in oastea sfanta,
+lupta-ti este unic tel.
+/: Viata-ceasta-i campul luptei
+iar credinta foc incins,
+Iar in lupta cu pacatul
+ori invingi ori esti invins. :/
+
+[s3]
+Daca lupti cu daruire
+prin furtuni sau prin viscol,
+In valtoarea luptei frate
+cand steagul ti-e in pericol.
+/: Vezi ca-i scris pe el un nume,
+imparatul sfant Isus,
+El te umple de putere,
+sa-l ridici mereu mai sus. :/
+
+[s4]
+Voi stegari ai oastei sfinte
+sa nu dati nicicand ’napoi,
+Nu cedati in focul luptei
+pana-n tara de apoi.
+/: Caci pe poarta larg deschisa
+cu ingeri ce vor canta,
+In coloane nesfarsite
+veti intra-n cetatea Sa. :/
+
+[s5]
+In cetatea de lumina
+unde Domn este Hristos,
+Langa tronul cel de soare
+veti depune steagul jos.
+/: Te vei bucura de toate
+caci in lupta ai triumfat,
+C-ai ramas credincios
+Celui ce-n lupta te-a inrolat. :/
+
+[order]
+s1,s2,s3,s4,s5

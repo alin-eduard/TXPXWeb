@@ -1,0 +1,32 @@
+[s1]
+O, Sfinte Duh de viaţă darnic
+Ce inimile le-ncălzeşti
+Poporul Tău Te cheamă dornic
+Lumina Ta s-o dăruieşti!
+
+[r1]
+/: Noi Te rugăm revars-acuma
+Din stropii Tăi cei minunaţi
+Şi Te-om slăvi pe Tine-ntruna
+Până la cer vom fi luaţi! :/
+
+[s2]
+Coboară plin de roade sfinte,
+Cu haina Ta să ne îmbraci,
+Cu noi să mergi pe drum ‘nainte,
+Să miluieşti pe cei săraci!
+
+[s3]
+Cobori cu daruri şi putere
+Minuni să semeni din belşug,
+Înlătură orice durere
+Şi să zdrobeşti al firii jug!
+
+[s4]
+O, Sfinte Duh de viaţă nouă,
+În orice zi să ne-nsoţeşti
+Să ne vedem curând în ceruri
+Acolo unde locuieşti!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

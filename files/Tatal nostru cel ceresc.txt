@@ -1,0 +1,22 @@
+[s1]
+Tatăl nostru Cel Ceresc,
+Sfânt este Numele Tău,
+Vie-mpărăţia Ta,
+Facă-Ţi-se sfântă voia Ta.
+Precum în cer între sfinţi
+Aşa la noi pe pământ
+Pâinea noastră cea de zi
+Dă-ne-o nouă-n fiecare zi.
+
+[s2]
+Şi ne iartă păcatul
+Precum şi noi la altul
+Nu ne duce-n ispită
+Ci ne scapă de cel rău.
+C-a Ta e-mpărăţia
+Puterea şi mărirea.
+A Tatălui, Fiu, Duh Sfânt
+Aleluia-n veci de veci. Amin.
+
+[order]
+s1,s2

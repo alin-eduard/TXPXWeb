@@ -1,0 +1,32 @@
+[s1]
+În Domnul eu am adăpost
+Cetate tare-n vreme rea.
+Desi e valul furios
+În El găsesc scăparea mea.
+
+[r1]
+Da, eu mă-ncred în Domnul,
+Cetatea mea, cetatea mea, cetatea mea !
+Isuse, eu doar Tie mă-ncredintez,
+Cetate tare-n vreme grea.
+
+[s2]
+Scut de dogoarea soarelui,
+Cetate tare-n vreme rea.
+E ca lumina farului
+Ce străluceste-n noaptea grea.
+
+[s3]
+Cuvânt ce valuri potolesti,
+Cetate tare-n vreme rea.
+Tu sufletu-mi adăpostesti
+Si nici un rău nu s-a-ntâplat.
+
+[s4]
+Doar Tu esti mântuirea mea
+Cetate tare-n vreme rea.
+Tu-mi dai iertarea, pacea Ta,
+Si fericire voi avea!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

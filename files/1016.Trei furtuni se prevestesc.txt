@@ -1,0 +1,49 @@
+[s1]
+1.	Trei furtuni se vestesc
+Iadul moartea prevestesc
+Acolo nu-i odihnă
+Ci durere veşnică.
+2.	Munţi şi dealuri voi cădeţi
+Şi pe noi ne-acoperiţi
+De mânia Mielului
+Şi de judecata Lui.
+1016.
+
+[s2]
+3.            Când pe Domnul răstignea
+Pământul se cutremura
+Soarele s-a-ntunecat
+Şi mulţi morţi au înviat.
+4.            Ah, amar suflete amar
+Iubirea ta e-n zadar
+De laşi trupul înbuibării
+Şi-l slobozi în desfrânări.
+
+[s3]
+5.             Te faci ca şi Sodoma
+Şi azi ca şi Gomora
+Dar de faci ca Ninivea
+Unde Iona predica.
+6.              El pe stradă când mergea
+Din gura lui tot zicea
+Patruzeci de zile ar fi
+Şi Ninivea n-a mai fi.
+
+[s4]
+7.               Îndată s-au îmbrăcat
+Toţi în veşminte de sac
+În cămări s-au încuiat
+Lui Dumnezeu s-au rugat.
+8.               Dumnezeu i-a ascultat
+Păcatele le-a iertat
+Asemenea şi tu fă
+Te îmbracă în credinţă.
+
+[s5]
+9.         Te îmbracă în credinţă
+Şi vin' la pocăinţă
+Lasă lumea aceea rea
+Şi Dumnezeu te va ierta.
+
+[order]
+s1,s2,s3,s4,s5

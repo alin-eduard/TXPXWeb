@@ -1,0 +1,17 @@
+[s1]
+Am venit cu bucurie înaintea Domnului,
+Am venit cu mulţumire-n casa Lui;
+Aceasta-i ziua Domnului,
+Deci să ne bucurăm în ea,
+Cîntîndu-I glorie, Aleluia.
+/: Eu sînt fericit, eu sînt fericit,
+Sînt fericit căci El m-a mîntuit. :/
+
+[s2]
+/: Osana! Laudă Domnului!
+Laudă Domnului ce m-a salvat.
+Osana! Laudă Domnului!
+Laudă Domnului ce m-a salvat. :/
+
+[order]
+s1,s2

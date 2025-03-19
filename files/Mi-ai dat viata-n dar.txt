@@ -1,0 +1,34 @@
+[s1]
+Mi-ai dat viaţă-n dar
+şi speranţă Isus,
+Că voi fi cu Tine-n cer.
+Duhul Sfânt, pacea Ta,
+în mine-au venit,
+Ca nicicând aici jos să nu pier.
+
+[r1]
+În mâna Ta eu voi sta
+ocrotit toată viaţa mea,
+Voi fi biruitor prin Isus.
+Harul Tău tot mereu va-nsoţi
+Doamne sufletul meu,
+Şi la dreapta-Ţi voi sta cu Isus.
+
+[s2]
+Când eram rătăcit Domne
+Tu m-ai salvat,
+Şi m-i scos di păcatul meu.
+Viaţa mea ai schimbat
+şi de-atunci ne-ncetat.
+Eu te laud şi-Ţi cânt Domnul meu.
+
+[s3]
+Tu îmi dai Domne
+doar binecuvântări,
+Mă-ntăreşti în ceasul greu.
+Voi fi la masa Ta,
+Tu-mi fi Mire drag,
+Şi vom fi fericiţi Tu şi eu.
+
+[order]
+s1,r1,s2,r1,s3,r1

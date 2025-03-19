@@ -1,0 +1,25 @@
+[s1]
+S-a dus un an din viaţă.
+Ce multe- am întâlnit!
+Cu noi e Salvatorul
+Şi toate-am biruit!
+
+[r1]
+/: Prin Isus noi am învins! :/
+Cu Isus, dacă om trăi,
+Cu El vom birui!
+
+[s2]
+Anul care va veni
+Întreabă: "Eşti gata?"
+Căci în curând El vine
+Să-L poţi întâmpina!
+
+[s3]
+Cu toţi deci în lucrare,
+Cu Domnul să pornim;
+Veghind, noi, fiecare,
+Venirea Lui grăbim!
+
+[order]
+s1,r1,s2,r1,s3,r1

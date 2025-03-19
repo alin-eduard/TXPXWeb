@@ -1,0 +1,74 @@
+[s1]
+1. Greu e Doamne-n suferinţă
+Greu e Doamne în cuptor
+Eu Te rog să-mi dai credinţă
+Ca să trec prin toate eu biruitor.
+595.       Fa m
+Cor:	/: Arde focul încercării
+Vai ce tare şi puternic s-a aprins
+O Părinte al îndurării
+Fie-Ţi milă, fie-Ţi milă o, Isus. :/
+
+[s2]
+2. N-am pe nimenea sub soare
+Sunt sărman
+Şi n-am pe nimeni nicăieri
+Doamne nu mă da uitării
+Căci la cine să alerg cu al meu dor.
+Cor:	/: Arde focul încercării
+Vai ce tare şi puternic s-a aprins
+O Părinte al îndurării
+Fie-Ţi milă, fie-Ţi milă o, Isus. :/
+
+[s3]
+3. Sunt lovit de ai mei prieteni
+/: Cei pe care :/ îi iubesc
+Ce să fac că n-am un sprijin
+Sunt sărac în lumea asta şi orfan.
+Cor:	/: Arde focul încercării
+Vai ce tare şi puternic s-a aprins
+O Părinte al îndurării
+Fie-Ţi milă, fie-Ţi milă o, Isus. :/
+
+[s4]
+4. Ziua plâng nu aflu pace
+Oriunde alerg degeaba n-o găsesc
+Doamne nu ştiu ce voi face
+Căci în grele încercări eu mă găsesc.
+Cor:	/: Arde focul încercării
+Vai ce tare şi puternic s-a aprins
+O Părinte al îndurării
+Fie-Ţi milă, fie-Ţi milă o, Isus. :/
+
+[s5]
+5. Nu ştiu dacă-n ziua mare
+Voi fi piatră scumpă sau fi-voi fân
+Văd că focul arde tare
+Şi mi-i frică că-n picioare nu rămân
+Cor:	/: Arde focul încercării
+Vai ce tare şi puternic s-a aprins
+O Părinte al îndurării
+Fie-Ţi milă, fie-Ţi milă o, Isus. :/
+
+[s6]
+6. Fă-mă să fiu aur Doamne
+Curăţit de şapte ori prin cuptor
+Dă-mi credinţă şi răbdare
+Ca să pot ieşi prin toate învingător.
+Cor:	/: Arde focul încercării
+Vai ce tare şi puternic s-a aprins
+O Părinte al îndurării
+Fie-Ţi milă, fie-Ţi milă o, Isus. :/
+
+[s7]
+7. Fă să fie oţelită
+Temelia pe care eu o zidesc
+Pietre vii şi pietre scumpe
+Fă să fie-o temelie de granit.
+Cor:	/: Arde focul încercării
+Vai ce tare şi puternic s-a aprins
+O Părinte al îndurării
+Fie-Ţi milă, fie-Ţi milă o, Isus. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

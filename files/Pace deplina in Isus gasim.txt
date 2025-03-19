@@ -1,0 +1,24 @@
+[s1]
+Pace deplină în Isus găsim,
+În al Său sânge când ne curăţim,
+Pace deplină, chiar şi în dureri.
+Credinţa în Isus dă mângâieri.
+
+[r1]
+Pace deplină, noi în Isus găsim;
+La pieptul Lui cel sfânt, pace găsim.
+
+[s2]
+Pace avem când ne simţim străini,
+El ne îngrijeşte tocmai ca pe crini,
+Pace avem când ne simţim trudiţi,
+La pietul Său noi suntem liniştiţi
+
+[s3]
+Pace avem în clipa când murim,
+Căci cu Hristos în veci mereu trăim,
+Lupta amară când o vom sfârşi,
+Hristos la Sine, El ne va primi.
+
+[order]
+s1,r1,s2,r1,s3,r1

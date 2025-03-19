@@ -1,0 +1,20 @@
+[s1]
+Fiţi voioşi întotdeauna,
+mulţumind în bucurii
+Căci Părintele din ceruri
+ne numeşte-ai Săi copii.
+
+[r1]
+/: Ce voioasă, ce voioasă
+Este viaţa de creştin !
+Orice zi din viaţă-i luminoasă
+Fii slăvit, o, har divin ! :/
+
+[s2]
+Dumnezeu cu maini de tată
+ne conduce zi de zi
+Iar în luptele mai grele
+ştim că El ne va păzi.
+
+[order]
+s1,r1,s2,r1

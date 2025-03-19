@@ -1,0 +1,32 @@
+[s1]
+O arcă pluteşte prin nori şi furtună
+Şi valuri de ape mereu se adună
+Ea lasă furtuna şi se-nalţă într-una
+Plutind peste-al morţii ocean
+Corabia-i mare, corabia-i tare
+Căci Noe e-al său căpitan.
+
+[r1]
+Şi ziua, şi noaptea, fără-ncetare
+Văzduhul revarsă cascade mereu
+Adîncu-şi deschide a sale izvoare
+<Să vină potopul!> a zis Dumnezeu.
+
+[s2]
+Un astru se stinge, o lume dispare
+E lumea lui Noe, ce-a trăit sub Soare.
+Şi oameni, şi vite, oceanu-i înghite
+Căci apele s-au revărsat.
+Fiinţele toate au fost înecate
+Doar Noe cu-ai săi au scăpat.
+
+[s3]
+Păcatul e cauza în orice pierzare
+Credinţa-i corabia pentru salvare.
+Veniţi la credinţă şi la pocăinţă
+Veniţi, şi fugiţi de păcat !
+Sfîrşitul e-aproape, cel ce vrea să scape
+Să vină, să fie salvat !
+
+[order]
+s1,r1,s2,r1,s3,r1

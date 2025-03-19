@@ -1,0 +1,38 @@
+[s1]
+1795
+1. Doamne laudă Îți aducem
+Dar de laudă să-Ți fie
+Izvorâtă din iubire
+Adevăr și bucurie
+Nu doar buzele să-Ți cânte
+Ci iubirea și credința
+Și prin Duhul Tău fierbinte
+Să ne-nflăcărezi ființa
+
+[r1]
+Cor:	/: Te lăudăm :/
+Doamne-n veci
+Te lăudăm.
+
+[s2]
+2. Doamne laudele noastre
+Fie raze-aducătoare
+De mireasmă și putere
+Și de dulce sărbătoare
+Numele Tău să răsune
+Prin cântările înălțate
+De la cei ce sunt aproape
+Pân la margini depărtate.
+
+[s3]
+3. Doamne laudă și cinste
+Și adâncă mulțumire
+Vreau să-Ți ardă pe altarul
+Inimii fără cuvinte
+Tu să ne-ntâiești întruna
+Să ne ții înflăcărarea
+Pentru slava Ta eternă
+Să trăim umili în taină.
+
+[order]
+s1,r1,s2,r1,s3,r1

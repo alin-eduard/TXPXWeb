@@ -1,0 +1,52 @@
+[s1]
+100.
+1. Scumpul meu Mântuitor
+Inima-i plină de dor
+După Tine a Te vedea
+Ca să-mi plâng durerea mea
+O, Isuse al meu.
+
+[s2]
+2. Sufletul mi-e întristat
+Pieptul mi-i plin de oftat
+Şi n-am cui ca să-i vorbesc
+Sufletul să-mi răcoresc
+O, Isuse al meu
+
+[s3]
+3. Căci aicea pe pământ
+Multe răutăţi mai sunt
+Şi dacă nu le iubeşti
+Trebuie să pătimeşti
+O, Isuse al meu.
+
+[s4]
+4. De la rude, de la fraţi
+Şi de la cei învăţaţi
+De la soră, de la frate
+Căci le e credinţa în parte
+O, Isuse al meu.
+
+[s5]
+5. Şi n-au ochi a mă vedea
+Când le spun credinţa mea
+Cei din casă chiar cu ură
+Când le vorbesc din Scriptură
+O, Isuse al meu.
+
+[s6]
+6. Şi n-am unde să apuc
+Al meu necaz să mi-l plâng
+Eu la Tine vin smerit
+Domnul meu căci m-ai iubit
+O, Isuse al meu.
+
+[s7]
+7. Şi Te rog să-mi dai putere
+Sufletului mângâiere
+Cât voi fi pe acest pământ
+Să trăiesc al Tău cuvânt
+O, Isuse al meu.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

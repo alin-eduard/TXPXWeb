@@ -1,0 +1,31 @@
+[s1]
+Vreau să te fac /: pescar de om, :/
+Dacă Mă iubesti.
+/: Dacă Mă iubesti. :/
+Vreau să te fac pescar de om,
+Dacă Mă iubesti.
+
+[s2]
+O, Isuse, /: vreau să-Ti urmez! :/
+Stiu că mă primesti,
+Stiu că mă primesti,
+Stiu că mă iubesti.
+O, Isuse, vreau să-Ti urmez
+Stiu că mă primesti!
+
+[s3]
+Arunca-voi /: mreaja în râu :/
+La cuvântul Tău.
+/: Vom fi buni pescari, :/
+Dacă Tu ne vei da în dar
+Undita de har.
+
+[s4]
+Citeste Biblia /: în fiecare zi, :/
+Dacă vrei să cresti,
+/: Dacă vrei să cresti. :/
+Citeste Biblia în fiecare zi,
+Dacă vrei să cresti.
+
+[order]
+s1,s2,s3,s4

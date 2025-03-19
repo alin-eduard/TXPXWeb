@@ -1,0 +1,37 @@
+[s1]
+1414.
+1.  Viaţa de creştin este o luptă
+O luptă care nu s-a terminat
+/: Fără luptă ştim că nu-i cunună
+Isus Hristos la asta ne-a chemat :/
+
+[s2]
+Eu vin curând păstrează ce ai
+Ca nimeni să nu-ţi ia cununa
+Trebuie ca să-L vestim pe Isus
+Să nu ne ruşinăm nici când de El
+/: Vine ziua răsplătirii Sale
+Cum am făcut noi vom primi la fel :/
+
+[s3]
+3.  Viaţa cu Isus nu e uşoară
+Căci avem de luptă cu satan
+/: Dar în ajutorul nostru vine
+Cel ce este marele Împărat :/
+4.  Fraţilor noi ştim că Domnul vine
+Deci cu toţi să fim pregătiţi
+Căci nu ştim nici clipa şi nici ceasul
+Când vom pleca cu toţii-nveşnicii.
+
+[s4]
+5.  De aceea fraţilor trezire
+Nu mai este vremea de-amânare
+Hai cu toţii să plecăm genunchi
+Şi cu toţii să ne pocăim.
+Glorie lui Isus pentru toate
+Pentru tot ce El ne dă de sus
+Îi aducem slavă şi onoare
+Prin cântări noi vrem să-L preamărim.
+
+[order]
+s1,s2,s3,s4

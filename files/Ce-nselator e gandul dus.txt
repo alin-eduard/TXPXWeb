@@ -1,0 +1,37 @@
+[s1]
+Ce-nşelător e gîndul dus
+Nu către ceruri, spre Pămînt.
+/: Acestea parcă sînt, dar nu-s
+Acelea parcă nu-s, dar sînt
+/: Dar sînt. :/ :/
+
+[s2]
+Eşti înţelept de ţi-ai adus
+Ochiul spre cer, nu spre Pămînt.
+/: Aicea parcă sînt, dar nu-s
+Acolo parcă nu-s, dar sînt.
+/: Da, sînt. :/ :/
+
+[s3]
+De eşti încă legat acum
+N-ai nici în cer, nici pe Pămînt.
+/: Pe-acestea ţi le-ai strîns şi nu-s
+Pe-acelea nu le-ai strîns şi sînt.
+/: Da, sînt. :/ :/
+
+[s4]
+De-atîtea ori eşti îndemnat
+Dar tu priveşti doar spre Pămînt.
+/: Ce nu vezi azi tu crezi că nu-s
+Ce parcă vezi tu crezi că sînt.
+/: Că sînt. :/ :/
+
+[s5]
+O, cînd din faţa lui Isus
+Vei fi-alungat fără vreun gînd
+/: Cum vei vedea că-acestea nu-s
+Cum vei vedea că-acelea sînt.
+/: Da, sînt. :/ :/
+
+[order]
+s1,s2,s3,s4,s5

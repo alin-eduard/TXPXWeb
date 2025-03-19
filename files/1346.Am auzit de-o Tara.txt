@@ -1,0 +1,43 @@
+[s1]
+1346.       Re m
+1.  Am auzit de-o Ţară
+De Ţara lui Isus
+Şi că-i frumoasă tare
+Şi-aş vrea ca să fiu dus.
+/: Pe străzile de aur
+Să fiu cu Domnul meu
+Să-ţi spun ce grea-i durerea
+Şi cât îl iubesc eu:/
+
+[s2]
+M-am săturat de lume
+Străin să fiu mereu
+Căci n-am mamă şi tată
+Decât pe Dumnezeu.
+/:Aş vrea să zbor spre stele
+Odihnă să-mi găsesc
+Şi-n dulce primăvară
+Pe veci să locuiesc:/
+
+[s3]
+Te-aştept mereu într-una
+Dar văd că nu mai vii
+Te-aşteaptă şi martirii
+Isuse să revii.
+/:Acolo este Ţara şi
+Domnul meu Isus
+Şi ştiu că voi ajunge
+Când noi vom fi răpiţi:/
+
+[s4]
+Chiar dacă lupta-i mare
+Te aşteaptă ai Tăi copii
+Tot cu nădejde vie
+Isus că ai să vii.
+/: Am auzit de-o ţară
+Ce o doresc nespus
+Să las jos tot necazul
+Să fiu lângă Isus:/
+
+[order]
+s1,s2,s3,s4

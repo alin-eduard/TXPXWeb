@@ -1,0 +1,41 @@
+[s1]
+1.Isuse, eu Te rog să-mi fii
+Mereu a mea comoară
+Să Te iubesc şi să doresc
+Mereu sfânta Ta ţară.
+1273.
+
+[r1]
+/:Căci, nu am pe nimeni
+Ca să-mi aline
+Durerea mea şi dorul.
+Căci, numai prin Tine,
+A’ mele suspine
+Îşi află ajutorul : /
+
+[s2]
+2.Isuse, eu Te rog să-mi fii
+Lumină pe cărare.
+Şi izbăvirea să-mi aduci,
+În ziua de-ncercare.
+
+[s3]
+3.Isuse, eu Te rog să-mi fii
+Un scut când e furtună.
+Şi dacă vezi
+Că-mi pierd credinţa,
+Tu să mă iei de mână!
+
+[s4]
+4.Isuse, eu Te rog să-mi fii
+Stăpân şi Domn în viaţă     Ca eu să fiu un rob supus
+Urmând a Ta povoaţă
+
+[s5]
+5.Isuse, eu Te rog să-mi fii
+Totul, în tot şi-n toate
+Ca eu să nu mai fiu văzut,
+Ci Tu-n a’ mele fapte
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,33 @@
+[s1]
+1. Când duhul de trezire
+Lucrează plin de foc
+/: O ce mai fericire,
+Ce viaţă-n orice loc :/
+2. Mulţimea vine-n cete
+La Bun Mântuitor
+/: La Cel ce viaţa-şi dete
+La moarte-n locul lor. :/
+472.
+
+[s2]
+3. Când ici auzi pe unul
+Plângând al său păcat
+/: Dincolo cântă altul
+Pe Domnul c-a aflat. :/
+4. Când muţii strigă tare
+Şi şchiopii sar în sus,
+/: Ce fericire mare
+Pe servii lui Isus! :/
+
+[s3]
+5. Ajută Tu, Stăpâne
+Ca lanţul lui Satan
+/: Să cadă în fărâme
+Cu meşterul tiran :/
+6. Şi-a Ta Împărăţie
+Să crească ne-ncetat
+/: Iar Tu în veşnicie
+Să fii glorificat :/
+
+[order]
+s1,s2,s3

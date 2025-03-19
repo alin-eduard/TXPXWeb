@@ -1,0 +1,23 @@
+[s1]
+Sus deasupra stelelor, Aleluia, Amin !
+E mulţimea sfinţilor, Aleluia, Amin!
+Care-aici s-au ostenit,
+Care mult au suferit,
+Acolo s-or odihni, Aleluia, Amin !
+
+[s2]
+Acolo se-nveselesc, Aleluia, Amin !
+Pe Dumnezeu îl măresc, Aleluia, Amin !
+Cel pe care îl laudă,
+Duhul Său nouă ne dă,
+Care spre cer ne-ndreaptă, Aleluia, Amin !
+
+[s3]
+Cânt şi eu din inimă, Aleluia, Amin !
+Despre-a Domnului milă, Aleluia, Amin !
+O, Fiul lui Dumnezeu,
+Te laudă, sufletul meu,
+Ici, şi-odată-n cerul Tău, Aleluia, Amin !
+
+[order]
+s1,s2,s3

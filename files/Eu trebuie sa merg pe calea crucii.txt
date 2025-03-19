@@ -1,0 +1,24 @@
+[s1]
+Eu trebuie să merg pe calea crucii
+Că nu e altă cale
+N-oi putea vedea poarta luminii
+De voi greşi calea crucii.
+
+[r1]
+/: Calea crucii duce-n cer! :/
+Este dulce-a şti, bine-a călători Calea crucii duce-n cer!
+
+[s2]
+Eu trebuie să merg pe calea crucii
+Pe care a mers Domnul
+Dacă eu doresc locaşul ceresc
+Unde-i fericit sufletul.
+
+[s3]
+Acum dar voi lăsa calea lumii
+Nu voi mai umbla pe ea.
+Domnul îmi zice: <Vino acasă !>
+Unde El deschide uşa.
+
+[order]
+s1,r1,s2,r1,s3,r1

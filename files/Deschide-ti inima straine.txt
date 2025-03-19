@@ -1,0 +1,32 @@
+[s1]
+Deschide-ţi inima, străine,
+Deschide-ţi inima cu drag
+Că Isus s-a oprit la tine
+De când aşteptă El pe prag.
+
+[r1]
+Hai, vino la Isus, hai, vino.
+Hai, vino la Isus, hai, nu mai sta
+Hai, vino la Isus, hai, vino
+Hai, vino să-L primeşti în viaţa ta.
+
+[s2]
+De când te strigă El pe nume
+Deschide-I nu întârzia
+Hai lasă-ţi păcătoasa lume
+Şi fericiri tu vei afla.
+
+[s3]
+Ascultă-I tu cuvântul dulce
+Care-ţi mângâie inima
+În suflet fericiri Ţi-aduce
+Primeşte-L azi nu amâna.
+
+[s4]
+Te rog nu amâna pe mâine
+Că mâine nu e ziua ta.
+Nu poţi să ştii ce-o fi cu tine
+La Domnul este viaţa ta.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,35 @@
+[s1]
+1. Voi ce-n faţa judecăţii,
+Tremurând şi goi veţi sta
+Haina sfântă a dreptăţii,
+Veniţi grabnic a-mbrăca.
+/:Singur Isus, singur Isus,
+Poate astăzi să v-o dea.:/
+354.
+
+[s2]
+2. Voi ce-n jale şi-n durere
+Vă petreceţi viaţa jos
+Tresăltaţi de bucurie,
+Fiţi cu sufletul voios.
+/:Căci în ceruri, căci în ceruri,
+V-aşteaptă Isus Hristos.:/
+
+[s3]
+3. Voi trudiţi de remuşcare,
+Sau voi drepţi vă-nchipuiţi
+Recunoaşteţi deopotrivă
+Că sunteţi pierduţi, greşiţi.
+/:Cu grăbire, cu grăbire,
+Azi la Domnul să veniţi.:/
+
+[s4]
+4. Veniţi fără de zăbavă
+La Cel viu din veşnicii,
+El vă va-mbrăca în slavă,
+Numai dacă veţi veni.
+/:Pe cei grabnici la venire,
+El Isus îi va primi.:/
+
+[order]
+s1,s2,s3,s4

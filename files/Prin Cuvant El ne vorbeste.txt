@@ -1,0 +1,30 @@
+[s1]
+Prin Cuvînt El ne vorbeşte
+Să-nvăţăm a ne purta
+Biblia ne povăţuieşte
+Să privim la Golgota
+Cum răbdat-a El pe cruce
+Pentru-al meu şi-al tău păcat
+Pace-n inimă-mi aduce
+Şi de-aceea-I cînt neîncetat.
+
+[r1]
+Tată sfînt, Te rog ca să primeşti
+Slava, cinstea ce Ţi-o dăruiesc
+În viaţa mea vreau să-Ţi slujesc
+O, Isuse, Te rog să mă-ntăreşti !
+
+[s2]
+Cel ce Te-ai luptat cu moartea
+Boldul morţii ai înfrînt
+Ca să simt eu libertatea
+De-a lăuda, slăvi pe Cel Preasfînt.
+
+[s3]
+Ceru-ntreg Îţi cîntă slavă -
+Slavă vreau să-Ţi cînt şi eu !
+Tot Pămîntul slavă-Ţi cîntă
+Preaiubit eşti, Dumnezeu !
+
+[order]
+s1,r1,s2,r1,s3,r1

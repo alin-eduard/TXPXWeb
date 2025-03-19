@@ -1,0 +1,34 @@
+[s1]
+Am crezut un timp in viata
+Ca poate Domnul nu-mi vorbea
+Am crezut ca El m-a parasit
+Dar m-am inselat.
+
+[r1]
+/: Domnul ma tinea pe bratele Lui
+Dar eu nu-L vedeam si nu-ntelegeam,
+El imi  vorbea cu dragoste mereu
+Eu n-am stiut cum sa-l ascult atunci :/
+
+[s2]
+Asteptam semne si minuni
+In fiecare zi,
+El imi vorbea prin lucruri mici
+Dar ochii mi-erau inchisi.
+
+[s3]
+Imi lipsea ceva in viata mea
+Ceva ce spune-am ca am de mult
+Era credinta mea care s-a racit
+Si eu stateam nepasator.
+
+[s4]
+Doamne- Ți multumesc
+Ca m-ai invatat cum sa Te ascult
+Atunci cand Îmi vorbesti
+De-acum eu voi sti
+Ca Tu prezent vei fi
+Doar sa privesc in jurul meu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

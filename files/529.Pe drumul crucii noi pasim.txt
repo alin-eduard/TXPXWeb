@@ -1,0 +1,31 @@
+[s1]
+1.	Pe drumul crucii noi păşim
+Spre slava minunată
+Prin văi adânci şi strâmtorări
+În prigoniri şi în ocări
+Curând vom fi acasă.
+529.
+
+[s2]
+2.	Pe calea vieţii alergăm
+Rugându-te întruna
+Noi ştim că la sfârşit de drum
+Isus Hristos Păstorul blând
+În cer ne dă cununa.
+
+[s3]
+3.	Pe drumul care duce-n sus
+Nu sunt plăceri deşarte
+Doar bucurii în Duhul Sfânt
+Iar când plecăm de pe pământ
+E-o viaţă după moarte.
+
+[s4]
+4.	Călătorim înflăcăraţi
+Cu Duhul Sfânt pe cale
+Şi în curând vom fi luaţi
+Când de Isus vom fi chemaţi
+La marea sărbătoare.
+
+[order]
+s1,s2,s3,s4

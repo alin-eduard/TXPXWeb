@@ -1,0 +1,42 @@
+[s1]
+Cu degetele-i lungi pe harfă
+Privesc pe David cum cînta
+Cîntări din cer ce îl exaltă
+Şi-apoi transpus el povestea.
+Spunea în tainice cuvinte
+Cum Mesia va suferi
+Dar cui i-ar fi trecut prin minte
+Că ele s-or adeveri ?
+
+[s2]
+Din cînd în cînd se-oprea plîngînd
+Şi cugeta şi el.
+Nu-nţelegea cum s-ar putea
+Să răstigneşti un miel.
+Iar harfa sa îi lăcrima
+De mila Domnului
+Aşa cînta şi cugeta
+La suferinţa Lui.
+
+[s3]
+Răsună harfa cea vrăjită
+Cu David ea s-a contopit
+În bucurie nesfîrşită
+Sau suferind cu cel lovit.
+Aşa e harfa cea măiastră
+Prin ea e cerul pe Pămînt
+Sau, dacă am greşit, mă iartă
+Se poate, El e-n cerul sfînt.
+
+[s4]
+Aşa trecea şi-l asculta
+Chiar turma lui de oi
+Cînd povestea tot ce vedea
+În vremuri de apoi.
+Prin cîntul său, chiar duhul rău
+Pe Saul părăsea
+Aşa era cîntarea sa
+Încît pe toţi uimea.
+
+[order]
+s1,s2,s3,s4

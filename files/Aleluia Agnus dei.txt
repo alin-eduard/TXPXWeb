@@ -1,0 +1,18 @@
+[s1]
+Aleluia, Aleluia
+Domnul nostru domneşte în veci!
+Aleluia, Aleluia
+Domnul nostru domneşte în veci!
+Aleluia
+
+[s2]
+Eşti sfânt, eşti sfânt
+Domnul nostru din ceruri
+Vrednic eşti în veci, vrednic eşti în veci
+Căci Tu doar eşti sfânt, eşti sfânt
+Domnul nostru din ceruri
+Vrednic eşti în veci
+Vrednic eşti în veci, Amin
+
+[order]
+s1,s2

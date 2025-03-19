@@ -1,0 +1,26 @@
+[s1]
+Sfânt, sublim, e locul Doamne
+Unde toţi ne adunăm,
+Lasă-ne în prosternare
+Faţa Ta s-o căutăm!
+
+[r1]
+Depărtaţi de pofta lumii
+Ţie astăzi ne predăm
+Ca în mreaja-Ţi de iubire
+Fericirea s-o gustăm.
+
+[s2]
+Când aud cântarea dulce
+Şi Cuvântul Tău ceresc
+Îmi dispare-orice tristeţe,
+În credinţă mă-ntăresc!
+
+[s3]
+Când în ziua Ta cea mare
+Noi la cer ne vom ‘nălţa,
+Liberaţi de griji amare
+Veşnic Te vom lăuda!
+
+[order]
+s1,r1,s2,r1,s3,r1

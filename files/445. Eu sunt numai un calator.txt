@@ -1,0 +1,51 @@
+[s1]
+1.Eu sunt numai un călător
+Străin pe-acest pământ
+/:Călătoresc spre ţara mea
+De sus din cer de sus.:/
+445									Fa
+
+[s2]
+2.Cu Isus când
+m-am întâlnit
+Aşa blând mi-a vorbit
+/:Era la Golgota Isus
+Pe cruce răstignit.:/
+
+[s3]
+3.Am vrut să-I
+spun atunci ceva
+Dar jalea m-a cuprins
+/:A vrut să-mi
+spună ce-L durea
+Dar n-a putut de plâns.:/
+
+[s4]
+4.Atunci am început şi eu
+Să plâng de mila Lui
+/:Plângeam ca
+doi fraţi prigoniţi
+Orfani şi părăsiţi.:/
+
+[s5]
+5.Sub cruce am îngenunchiat
+Şi-am făcut legământ
+/:Şi I-am jurat că-L voi urma
+Chiar până la mormânt.:/
+
+[s6]
+6.Legământul a fost stropit
+Cu lacrimi şi sânge
+/:Când amândoi
+am plâns cu har
+Şi-aveam şi pentru ce.:/
+
+[s7]
+7.Sunt fericit până ajung
+În patria de sus
+/:Să fiu străin
+pe-acest pământ
+Dar frate cu Isus.:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

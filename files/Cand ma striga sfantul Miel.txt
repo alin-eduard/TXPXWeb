@@ -1,0 +1,42 @@
+[s1]
+Când mă strigă sfântul Miel,
+Mă prezint L-al Său apel.
+In ziua când El la Sine mă cheamă,
+Cum voi sta în Faţa Sa,
+Când roadele-mi va căuta
+Al meu Domn, şi eu - puţine, voi avea?
+
+[r1]
+/: Cât de mult eu am dorit
+Ca Salvatorul iubit
+Numele să-mi-l înscrie-n cartea Sa,
+Ca în luptă să nu cad,
+Ci s-ascult de al Său sfat:
+“Deci, munceşte, si cunună vei avea!:/
+
+[s2]
+Cu-al meu rod voi aştepta
+Pe El a-L întâmpina,
+Căci talanţii Domnului, i-am înmulţit...
+Dar cine nu va lucra
+Cu răbdare-n via Sa
+Ii va zice: „Du-te de la Faţa Mea!"
+
+[s3]
+Munca o voi termina
+Şi cu dor voi aştepta
+Când Isus va bate chiar la uşa mea:
+„Mulţi talanţi ai dobândit,
+Robule, cât ai slujit?
+Acum, vino, suflete-n odihna Mea?
+
+[s4]
+Binecuvântat să fii,
+Isuse, din veşnicii!
+Eu sunt gata ca să lupt pan' la sfârşit.
+Cununa voi căpăta
+Personal, din mâna Ta,
+Şi de servii Tăi, în veci, să fii slăvit!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

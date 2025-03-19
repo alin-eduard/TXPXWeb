@@ -1,0 +1,32 @@
+[s1]
+O, Duh din ceruri vino,
+Pătrunde inima!
+Ne binecuvântează
+Când stăm ‘naintea Ta.
+Revarsă stropi de slavă,
+Căci suntem osteniţi;
+Inund’ a noastre inimi
+Şi-aşa vom înflori.
+
+[s2]
+Tu dărui mângâiere,
+Îmbraci pe cei săraci;
+Tu dai înţelepciune,
+Doar bine Tu ne faci.
+Dai celui mut grăire,
+Vedere celui orb,
+Dai celui slab voinţă,
+Tărie şi-ajutor.
+
+[s3]
+În Tine noi ne-ncredem
+În fiecare zi!
+Puterea Ta cea mare
+De rău ne va păzi.
+Vrem, Doamne, împreună
+Cu Tine-n legământ
+Să fim pe veşnicie,
+O, Tată, Fiu, Fuh sfânt!
+
+[order]
+s1,s2,s3

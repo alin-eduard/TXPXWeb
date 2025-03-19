@@ -1,0 +1,69 @@
+[s1]
+1.Voi cânta în orice vreme
+Dumnezeul meu slăvit
+De nimic nu mă voi teme
+Căci, în toate, m-ai păzit.
+1257							       Fa m
+
+[s2]
+Cât de mare-ar fi furtuna
+De nimic eu nu mă tem
+Că Tu-mi eşti întotdeauna
+Salvatorul meu suprem.
+
+[r1]
+Voi cânta, voi cânta
+Te voi binecuvânta
+Cât de grea ar fi furtuna
+Voi cânta întotdeauna
+
+[r2]
+Căci, Tu Doamne,
+M-ai salvat
+Şi m-ai binecuvântat
+Voi cânta, voi cânta
+Veşnic te voi lăuda!
+
+[s3]
+2.Sunt atât de fericit
+Scump Isus,
+Îţi mulţumesc!
+Căci viaţa mi-e păzită
+Şi că Tu mă ocroteşti
+
+[s4]
+Valuri multe pot să vină
+Întuneric, cât de greu
+Ştiu că Tu îmi eşti lumină
+Tu eşti adăpostul meu.
+
+[s5]
+3.Doamne-aş vrea,
+Ca niciodată,
+Să nu te mai întristez.
+Viaţa să-mi păstrez curată
+Zilnic mai mult să veghez
+
+[s6]
+Să Te laud totdeauna
+Şi mai mult să Te slăvesc
+Cât de grea ar fi furtuna
+Vreau să pot
+Să-Ţi mulţumesc.
+
+[s7]
+4.Căci nimic
+Nu-i la-ntâmplare
+Pentru mine pe pământ
+Iar, când Tu,
+Cu slavă mare,
+Vei veni din cerul sfânt
+
+[s8]
+Voi uita c-a fost furtuna
+Voi uita c-am plâns cândva
+Vom fi iarăşi împreună
+Veşnic Te voi lăuda.
+
+[order]
+s1,s2,r1,r2,s3,s4,r1,r2,s5,s6,r1,r2,s7,s8,r1,r2

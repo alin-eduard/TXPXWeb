@@ -1,0 +1,32 @@
+[s1]
+De ce atâta întristare
+Atâta durere pe pământ,
+Inima de ce mereu mă doare
+O, vino Isuse căci te-aştept.
+
+[r1]
+/: Opreşte-te o clipă lângă mine
+Şi vezi-mi starea nu mă lăsa
+Durerea ce m-apasă este mare
+Şi nu mi-o ştie nimenea. :/
+
+[s2]
+De ce-s atâtea obstacole-n cale
+De ce-i atâta plâns şi oftat
+Inima de ce mereu mă doare
+O, vino Isuse căci te-aştept.
+
+[s3]
+Vei înţelege dar nu acuma
+De ce-s atâtea pe pământ
+Inima de ce mereu mă doare
+O, vino Isuse, căci te-aştept.
+
+[s4]
+Când vom ajunge cu toţii în slavă
+Pe Tine mire, Te-om lăuda
+Vom uita c-am stat în chinuri grele
+Şi lângă Tine vom rămânea.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

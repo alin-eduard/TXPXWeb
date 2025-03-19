@@ -1,0 +1,38 @@
+[s1]
+Şi-mpreună oastea cerească
+Lui Dumnezeu cântă laudă;
+/: Lui Dumnezeu mărire-nălţăm,
+Pace-ntre oameni jos pe pământ :/
+
+[r1]
+Hristos se naşte, Domnul coboară,
+Îngerii cântă, magii Îl adoră;
+Păstori aleargă, ieslea o-nconjoară,
+Mari minuni se întâmplară.
+
+[s2]
+Din cer Cuvântul, din cer Cuvântul
+În trup se arată,
+Noaptea din lume, noaptea din lume
+Zi se face-ndată.
+
+[r2]
+În Betleem azi, în Betleem azi
+E-o mare minune:
+Fecioara Maria, fecioara Maria
+Naşte pe Mesia.
+
+[r3]
+Din răsărit vin, din răsărit vin
+Magi cu bucurie
+Cu dar de aur, cu dar de aur
+Smirnă şi tămâie.
+
+[s3]
+Hristos se naşte, Hristos se naşte
+Veniţi la-nchinare
+Cu vesel cântec, cu vesel cântec,
+Veselă cântare.
+
+[order]
+s1,r1,s2,r1,r2,r1,r2,r1,r3,r1,r3,r1,s3,r1

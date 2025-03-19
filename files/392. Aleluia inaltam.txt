@@ -1,0 +1,29 @@
+[s1]
+392.
+Aleluia înălțăm
+Numele Tău mare
+/: Doamne imnuri
+Îți cântăm
+Pentru a Ta-ndurare:/
+
+[s2]
+2. Aleluia mulțumim
+Pentru haruri toate
+/: Doamne câte le primim
+Zilnic mai bogate:/
+
+[s3]
+3. Aleluia cântec sfânt
+O cântare vie
+/:Doamne Îți jertfim neînfrânt
+Astăzi și-n vecie:/
+
+[s4]
+4. Aleluia înălțăm
+Numele Tău mare
+/: Doamne imnuri
+Îți cântăm
+Pentru a Ta-ndurare/:
+
+[order]
+s1,s2,s3,s4

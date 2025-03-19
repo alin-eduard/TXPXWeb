@@ -1,0 +1,36 @@
+[s1]
+/: Venim sa-Ti multumim Dumnezeule
+Pentru tot ce Tu ne dai, iti multumim:/
+Tu ne dai din nou speranta,
+esti maret in Univers,
+Sadesti in inimi siguranta
+pentru Paradis
+
+[r1]
+/: Multumim, multumim
+Dumnezeului Divin,
+Multumim, multumim
+Doamne-n veci noi Te slavim. :/
+
+[s2]
+Pentru jertfa de pe cruce
+Noi venim sa-Ti multumim,
+Isus pacea ne aduce,
+Cu toti sa-L slavim.
+
+[s3]
+/: Venim sa-Ti multumim Dumnezeule
+Caci ai dat pe Fiul Tau, iti multumim:/
+Tu ne dai din nou speranta,
+esti maret in Univers,
+Sadesti in inimi siguranta
+pentru Paradis
+
+[s4]
+Pentru jertfa de pe cruce
+Noi venim sa-Ti multumim,
+Isus pacea ne aduce,
+Cu toti sa-l slavim.
+
+[order]
+s1,r1,s2,s3,r1,s4

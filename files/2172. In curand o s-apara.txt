@@ -1,0 +1,30 @@
+[s1]
+2172
+1. În curând o s-apară Domnul Știm cu toţi va reveni
+Să-și ridice tot poporul
+Și să-l ducă-n veşnicii.
+
+[r1]
+Cor: /: Ce frumos atunci va fi Când Isus va reveni
+Din ţara gloriei
+Când va veni :/.
+
+[s2]
+2. Îngerii sunt gata-n ceruri
+Ca să vadă aceia zi
+Când Mirele şi mireasa
+S-or vedea în veşnicii.
+
+[s3]
+3. Nici o nuntă în astă lume
+Nu va fi ca cea de sus
+Căci acolo ca şi Mire
+Va fi Domnul nost’ Isus.
+
+[s4]
+4. Poţi să vii la această nuntă Și tu prietene de vrei
+Doar la lume azi renunţă
+Și vei fi cu Dumnezeu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

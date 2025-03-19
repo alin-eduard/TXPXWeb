@@ -1,0 +1,28 @@
+[s1]
+1997
+1. Ades la altare privim întristaţi
+De locuri ce-s goale lăsate de frați
+/: Când Domnul ne spune
+Mai mult să vegheați
+Ulei în candelă acum adunați :/.
+
+[s2]
+2. Ades la altare privim suspinând
+Văzând tot mai mică credința având
+/: Văzând a lui Isus mireasă plângând
+Ades aplecată cu fruntea-n pământ :/.
+
+[s3]
+3. Ades la altare privim înspre zori
+Aproape-i sfârșitul și ziua de apoi
+/: Revine iar Domnul revine pe nori
+S-adune recolta din spini și noroi :/.
+
+[s4]
+4. Veniți la altare veniți înapoi
+Să facem prin Duhul o torță-ntre noi
+/: Și mână în mână să fim mai uniți
+Să dregem altare să fim tot mai sfinți :/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,30 @@
+[s1]
+Domnul păcii să fie cu tine
+În furtună sau zile senine,
+Din potirul divin
+Să-ti dea pace din plin.
+Harul Lui, pacea Lui peste tine.
+
+[s2]
+Domnul vietii cu tine să fie
+Dimineata si-n noapte târzie,
+Din izvorul divin
+Să-ti dea viată din plin.
+Viata Lui, viata Lui pe vecie.
+
+[s3]
+Domnul milei te aibă în pază
+În răcoare si-n caldă amiază,
+Ca pe drumul divin
+Să-I simti mila din plin.
+Mila Lui, mila Lui vesnic trează.
+
+[s4]
+Domnul slavei ti-ajute întruna
+Când mugeste sau tace furtuna,
+Iar în raiul divin
+Să-ti dea slavă din plin.
+Slava Lui, slava Lui ti-e cununa.
+
+[order]
+s1,s2,s3,s4

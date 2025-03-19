@@ -1,0 +1,75 @@
+[s1]
+Jos în valea umbrei morţii
+Sunt lovit de mari dureri
+Şi n-am pe pământ pe nimeni
+Să-mi aducă mângâieri
+Toţi mă urăsc fără temei
+Şi îmi zic că sunt nebun
+Ca să-mi spun a mea durere
+N-am la cine să i-o spun
+1.
+1057.
+2.
+
+[s2]
+Am un singur prieten dulce
+Nu-i aicea pe pământ
+Când îi spun a mea durere
+Cu El împreună plâng
+El plânge cu mine într-una
+Când îi spun al meu necaz
+Vine şi El lângă mine
+Şterge lacrimi de pe obraz
+4.
+5.
+
+[s3]
+Şi când stau cu El de vorbă
+Mă apasă un suspin
+Când îmi spune şi El mie
+Cum a stat pe cruce în chin
+Dar a mea durere mică
+Nu-i ca a Domnului de mare
+Nu se află nimeni în lume
+Să aibă a Lui răbdare
+5.
+6.
+
+[s4]
+Şi când stau cu El de vorbă
+Şi mă uit în faţa Lui
+Nici soarele de frumos
+Nu-i ca faţa Domnului
+Părul Lui e alb ca lâna
+Faţa lui e luminoasă
+Ochii lui ca porumbeii
+La izvoarele de apă
+7.
+8.
+
+[s5]
+Mâinile Lui ca de aur
+Ca un foc mare aprins
+Picioarele ca arama
+Şi cu brâu de aur încins
+Îmbracă-te şi tu frate
+Cu a Domnului veşmânt
+Pune-ţi coiful mântuirii
+Ia-ţi sabia Duhului Sfânt.
+9.
+10.
+
+[s6]
+Mergi înainte cu drapelul
+Cu stema de-nvingător
+Şi vesteşte tuturor
+Pe Isus biruitor
+Cunună împărătească
+Poartă al meu Mântuitor
+Şi sabia Duhului Sfânt
+Sabia de învingător.
+11.
+12.
+
+[order]
+s1,s2,s3,s4,s5,s6

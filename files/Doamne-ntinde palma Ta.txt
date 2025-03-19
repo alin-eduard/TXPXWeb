@@ -1,0 +1,32 @@
+[s1]
+Doamne-ntinde palma Ta,
+Şi ascunde-mă în ea!
+Până trece vremea grea
+Numai Tu eşti pacea mea,
+Ah, furtuni mă prind în  larg,
+Crunt lovesc al meu catarg,
+Mustră Tu al urii val
+Ca să-ating cerescul mal.
+
+[s2]
+Doamne-ntinde braţul Tău
+Şi m-acoperă mereu,
+Contra urii celui rău
+Numai Tu eşti scutul meu.
+Fără Tine sunt pierdut,
+Prin pustiuri neştiut,
+Doar prin har venit din cer,
+Pot să lupt şi pot să sper.
+
+[s3]
+Vino Tu, Prieten bun,
+Eu nădejdea-n Tine-mi pun;
+Tot ce fac şi tot ce spun
+Prin credinţă Îţi supun,
+Orice mi s-ar întâmpla,
+Ştiu că eşti la dreapta mea
+Dintre valuri Tu mă scoţi
+Şi pe-aripa Ta mă porţi.
+
+[order]
+s1,s2,s3

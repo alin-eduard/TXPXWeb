@@ -1,0 +1,48 @@
+[s1]
+În zile grele de-ncercări
+străbate-un tainic gînd
+O, ce gînd duios,
+speranţă aducînd!
+De mult te zbaţi tu în păcat
+nu vrei să fii salvat?
+O, ascultă astăzi
+şi-atunci vei fi salvat!
+
+[s2]
+Cunoşti tu vestea ? Isus te vrea
+Şi-al tău păcat greu îl va ierta!
+/: O, vino-acum naintea Sa
+Şi sîngele Său te va spăla! :/
+
+[s3]
+O, acest glas îţi spune azi
+să laşi al tău păcat:
+Las-al tău păcat, las-al tău păcat!
+Să te întorci la Dumnezeu,
+să laşi al tău păcat
+Să-I slujeşti doar Lui
+cu tot ce El ţi-a dat!
+
+[s4]
+Grăbeşte-te azi, nu-ntîrzia
+Nu ştii viaţa cît va ţinea !
+/: Căci mîine poate, cînd tu vei vrea
+Va fi tîrziu, şi-afar, vei sta ! :/
+
+[s5]
+Iar cînd necazuri şi-ncercări
+te vor înconjura
+Iar va răsuna şi te va-ncuraja.
+Spune-va El neîncetat
+că şi tu eşti salvat
+Căci prin jertfa sfîntă
+ai fost răscumpărat.
+
+[s6]
+Ascultă vestea, tu eşti salvat
+Că-n locul tău El mult a răbdat!
+/: Deci vin, degrabă ,naintea Sa
+Şi orice vină îţi va ierta! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

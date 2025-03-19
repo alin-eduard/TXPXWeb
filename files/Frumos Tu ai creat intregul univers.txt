@@ -1,0 +1,34 @@
+[s1]
+Frumos Tu ai creat, întregul univers,
+Păduri, câmpii, livezi,
+toate Te cheamă;
+Oceane, râuri, mări, planete, galaxii,
+Şi păsările-n zbor, şi apa din izvor Te preamăresc.
+
+[r1]
+O, Doamne mare Eşti,
+Preasfânt şi iubitor,
+Căci tot ce văd acum,
+cu ochii mei în jur e mâna Ta;
+O, Doamne mare Eşti,
+Preasfânt şi iubitor,
+Căci numai jertfa Ta,
+îmi poate azi ierta păcatul meu
+
+[s2]
+Frumos Tu ai creat, întregul univers,
+Şi stelele pe cer, ne spun că-i un mister lucrarea Ta;
+Şi soarele de sus şi luna dintre nori,
+Ne-ndeamnă să-Ţi cântăm şi să ne închinăm, în faţa Ta.
+
+[s3]
+Frumos Tu ai creat,
+întregul univers,
+Păduri, câmpii, livezi,
+toate Te cheamă;
+Oceane, râuri, mări, planete, galaxii,
+Şi păsările-n zbor,
+şi apa din izvor Te preamăresc
+
+[order]
+s1,r1,s2,r1,s3,r1

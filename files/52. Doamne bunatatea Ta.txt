@@ -1,0 +1,40 @@
+[s1]
+1. Doamne, bunătatea Ta
+Îmi cuprinde inima
+Şi mă face fericit,
+Domnul meu iubit;
+De cu zori până-n apus,
+Numai harul Tău, Isus,
+Îmi sfinţeşte inima şi viaţa mea.
+52.                  Fa
+
+[r1]
+Cor:  /: N-ai în lume-asemănare!
+Nu e nimenea sub soare,
+Nici în cer, nici pe pământ
+Cum eşti Tu de sfânt!
+Dragostea-Ţi mă copleşeşte,
+Pacea Ta mă linişteşte,
+Harul Tău îmi dă avânt,
+Tot mai mult să-Ţi cânt! :/
+
+[s2]
+2. Norii negrii când apar,
+Tu îmi eşti un veşnic far;
+Drumul mi-l călăuzeşti
+Şi mă ocroteşti.
+Şi prin arșiță Îți cânt
+Numai Ție, Doamne Sfânt, Că-n izvorul Tău ceresc sufletu-mi sfințesc.
+
+[s3]
+3. Doamne, pune-n gura mea
+Totdeauna lauda Ta
+Numai Ţie să Îţi cânt
+Pe acest pământ!
+Până-n zori, când vei veni,
+Numele Tău voi slăvi.
+Asta-i fericirea mea:
+Să-Ți cânt lauda Ta.
+
+[order]
+s1,r1,s2,r1,s3,r1

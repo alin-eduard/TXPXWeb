@@ -1,0 +1,32 @@
+[s1]
+Suflete cuprins de noapte,
+Chinuit de gândul rău,
+Dumnezeu vrea să te scape,
+Dându-ţi ajutorul Său.
+
+[r1]
+Nu te-abate-n ceasuri grele,
+De la sfântul Său cuvânt,
+Ce promite, El le ţine,
+Crede, crede, ne-ntrerupt.
+
+[s2]
+De-a satanei influenţă
+Te departă tot mereu,
+Lui Isus mâna ta dă-I-o
+Şi ascultă graiul Său.
+
+[s3]
+Dacă vrei să fii cu Isus,
+Eul tău să ţi-l omori,
+Iar în tine să se vadă,
+Blândul, bun Mântuitor.
+
+[s4]
+Şi deci lasă ca să piară,
+Toată îndoiala ta,
+Te încrede doar lui Isus,
+Toate bune El ţi-a da.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

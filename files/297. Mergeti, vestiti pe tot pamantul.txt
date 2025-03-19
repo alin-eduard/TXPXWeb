@@ -1,0 +1,35 @@
+[s1]
+Fa
+1.Mergeţi /:vestiţi:/ pe tot pământul
+Mergeţi vestiţi evanghelia
+Mergeţi vestiţi la orice făptură
+Căci Domnul dă mântuirea.
+297.
+
+[r1]
+Cor:Mergeţi vestiţi de a Lui îndurare
+Mergeţi vestiţi că ne dă salvare
+Prin rănile Lui avem iertare
+Şi viaţă veşnică.
+
+[s2]
+2. Mergeţi /:vestiţi:/ a Lui putere
+Minunile care le-a făcut
+Cerul, pământul, universul spune
+Căci Domnul Sfânt le-a întocmit.
+
+[s3]
+3. Mergeţi /:vestiţi:/ a Lui iubire
+Care ne cheamă pe toţi suspinând
+Ca să trăim o viaţă în iubire
+Cu Tatăl Fiul Duhul Sfânt.
+
+[s4]
+4. Mergeţi vestiţi trăiţi pocăinţa
+Umblaţi conduşi
+De Duhul Său cel Sfânt
+Să vadă lumea că trăiţi credinţa
+Şi că grăbiţi venirea Lui.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

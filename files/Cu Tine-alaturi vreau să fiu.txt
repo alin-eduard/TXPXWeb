@@ -1,0 +1,32 @@
+[s1]
+Cu Tine-alături vreau să fiu
+Isuse, pe Pămînt
+Căci ştiu că eşti de-a pururi viu
+Eşti cel mai bun şi sfînt.
+/: O, Doamne, ajută-ne
+Să Te glorificăm !
+Fii Tu cu noi pe acelaşi drum !
+Inima Ţie Ţi-o dăm ! :/
+
+[s2]
+Puterea iadului doresc
+Să pot s-o birui azi
+Prin Duhul Sfînt Dumnezeiesc
+Da, vreau s-o birui azi!
+/: O, Doamne, ajută-ne
+Să Te glorificăm!
+Fii Tu cu noi pe acelaşi drum!
+Inima Ţie Ţi-o dăm! :/
+
+[s3]
+Nu mă lăsa pe jos căzut
+Şi de Satan lovit.
+Ridică-mă cînd sînt bătut
+O, Domnul meu iubit!
+/: O, Doamne, ajută-ne
+Să Te glorificăm!
+Fii Tu cu noi pe acelaşi drum!
+Inima Ţie Ţi-o dăm! :/
+
+[order]
+s1,s2,s3

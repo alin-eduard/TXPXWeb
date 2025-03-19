@@ -1,0 +1,26 @@
+[s1]
+Tu faci minuni
+Şi noi credem în ele,
+Ne întăreşti
+Când vin zilele grele
+
+[r1]
+Eşti Dumnezeu din veşnicie
+Îmbrăcat în măreţie
+În prezenţa-Ți
+Mă cutremur şi mă-nchin.
+
+[s2]
+La glasul Tău
+Marea se linişteşte,
+La glasul Tău
+Satan se prăbuşeşte.
+
+[s3]
+Când Te-am chemat
+Mereu mi-ai fost aproape,
+Chiar şi atunci
+Când am trecut prin ape.
+
+[order]
+s1,r1,s2,r1,s3,r1

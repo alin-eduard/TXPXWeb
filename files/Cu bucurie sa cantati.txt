@@ -1,0 +1,26 @@
+[s1]
+Cu bucurie să cântaţi:
+Mesia s­a născut!
+Vă închinaţi, Îl lăudaţi,
+În cer şi pe pământ,
+În cer şi pe pământ.
+În cer, în cer şi pe pământ!
+
+[s2]
+Cu bucurie să primiţi
+Pe Regele de sus,
+Iar inima s­o pregătiţi
+Să intre­-n ea Isus,
+Să intre­-n ea Isus,
+În ea, să intre­-n ea Isus!
+
+[s3]
+Pe­-al Său popor cu dragoste
+El îl va cârmui.
+Cei mântuiţi cu glorie
+Pe El Îl vor slăvi,
+Pe El Îl vor slăvi,
+Pe El, pe El Îl vor slăvi!
+
+[order]
+s1,s2,s3

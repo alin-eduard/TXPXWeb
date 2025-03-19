@@ -1,0 +1,21 @@
+[s1]
+/: E-atât de greu :/
+Când peste Tine vine încercarea
+Nu dispera, amicul meu
+Pune-ţi nădejdea-n Dumnezeu.
+
+[r1]
+/: Biruieşte-n orice zi
+Şi să nu priveşti ‘napoi
+Te încrede, vei birui
+Domnul e cu noi :/
+
+[s2]
+/: El ne-a promis :/
+Că nu ne lasă singuri
+E-n nevoie
+Şi ne-a trimis, Duhul promis
+Duhul cel Sfânt, din cer venit.
+
+[order]
+s1,r1,s2,r1

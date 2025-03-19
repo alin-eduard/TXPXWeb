@@ -1,0 +1,26 @@
+[s1]
+Cu mulţumire adânc ne-­nchinăm
+Şi­-n umilinţă Te rugăm;
+Inimi curate să­-Ţi pună pe altar,
+Har şi putere dă-le­-n dar.
+
+[s2]
+Râu de iubire revarsă acum
+Peste cei doi pe-­al vieţii drum;
+Casa le fie lumină şi altar,
+Har şi putere de-le­-n dar.
+
+[s3]
+Mâini cu credinţă să­-ntindă spre cer,
+Valuri când vin, nădejdi când pier;
+Fruntea în palma Ta ţine-­o ne­-ncetat,
+Tu, Tată Sfânt şi minunat!
+
+[s4]
+Râu de iubire revarsă acum
+Peste cei doi pe­al vieţii drum;
+Casa le fie lumină şi altar,
+Har şi putere de-le­-n dar.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,32 @@
+[s1]
+Eu sunt înscris în Cartea vieţii
+Şi Tată am pe Dumnezeu
+Doar mulţumită bunătăţii
+Şi dragostei în Fiul Său.
+Mă odihnesc pe braţu-I tare
+Sub ochiul blând al lui Hristos
+Şi recunosc a Sa-ndurare
+Prin ce-a ajuns un păcătos.
+
+[s2]
+Când Dumnezeu e pentru mine
+Cine-ar putea fi contra mea?
+Sunt păcătos, o ştiu prea bine,
+Dar cred în îndurarea Sa!
+Cu cât îmi văd eu slăbiciunea
+Cu-atât mai mult îmi dă puteri,
+Mi-ascultă-ndată rugăciunea,
+Mi-alină orişice dureri.
+
+[s3]
+Nimic nu poate fi în stare
+Să mă despartă de Hristos!
+Necazuri, griji sau strâmtorare,
+Sau gândul lumii, păcătos!
+Iubirea Lui îmi dă putere
+La bine să mă las condus
+Să-mi fac lucrarea cu plăcere
+Tot mână-n mână cu Isus.
+
+[order]
+s1,s2,s3

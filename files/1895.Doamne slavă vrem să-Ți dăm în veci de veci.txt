@@ -1,0 +1,46 @@
+[s1]
+1895
+1. Doamne slavă vrem să-Ți dăm
+În veci de veci
+Slavă-n veci de veci
+Glorii , glorie-Ți cântăm
+În veci de veci
+Glorie-n veci de veci.
+
+[r1]
+Cor: /:De veacuri domnești
+Popoare cârmuiești
+Universul tot e-n mâna Ta
+Doamne slavă vrem să-Ți dăm
+În veci de veci
+Slavă-n veci de veci.:/
+
+[s2]
+2. Doamne Tu ești Împărat
+În veci de veci
+Împărat în veci de veci
+Puternic Domn minunat
+În veci de veci
+Minunat în veci de veci.
+
+[s3]
+3. Doamne cu toții ne-nchinăm
+În veci de veci
+Închinăm în veci de veci
+Cerul spune slava Ta
+Tot mereu
+Există Dumnezeu.
+
+[s4]
+Cor: /:De veacuri domnești
+Popoare cârmuiești
+Universul tot e-n mâna Ta
+Doamne slavă vrem să-Ți dăm
+În veci de veci
+Slavă-n veci de veci.:/
+Cerul spune slava Ta
+Tot mereu
+/:Există Dumnezeu.:/x3
+
+[order]
+s1,r1,s2,r1,s3,s4

@@ -1,0 +1,33 @@
+[s1]
+1880.
+Tu n-ai sub soare asemănare
+Ești necuprins ești nemărginit
+Privirea-ți sfântă e o splendoare
+Pe drept Isus Tu ești iubit.
+
+[r1]
+Tu ești iubirea mea
+Tu-mi ești comoara vieții
+Soarele meu frumos
+Din zorii dimineții.
+
+[s2]
+2. Îți cântă marea îți cântă cerul
+Și mii de aștri în a lor mers
+Caci tu ești calea și adevărul
+Ești cel mai frumos din univers
+
+[s3]
+3. Tu ești iubire neprihănire
+Pe a Tale buze e un râu de har
+Tu locuiești sus în strălucire
+Tu ești cel mai scump mărgăritar.
+
+[s4]
+4. Ești sprijin tare în încercare
+Ești ușurare în ceasul greu
+În strâmtorare Tu-mi dai scăpare
+Din veșnicie ești Dumnezeu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

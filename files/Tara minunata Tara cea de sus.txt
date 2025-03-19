@@ -1,0 +1,26 @@
+[s1]
+Ţara minunată, Ţara cea de sus,
+E promisă chiar de Isus.
+Celor ce vor crede în Cuvântul sfânt,
+Şi Îl vor sluji pe pământ.
+
+[r1]
+Ce frumos va fi cu Tine Doamne,
+Ce frumos va fi în veşnicii.
+În splendoare şi în măreţie,
+Unde-n veci de veci vei domni.
+
+[s2]
+Pe acest pământ suntem călători,
+În Ţara minunată vom fi noi.
+Cu Domnul vom avea doar bucurii,
+Şi lacrimi pe veci nu vor fi.
+
+[s3]
+Ajută-ne o Doamne să ne pregătim,
+Când vei reveni să Te-ntâlnim.
+Şi în vazduh cu Tine, Doamne să plecăm,
+Spre Paradis să zburăm.
+
+[order]
+s1,r1,s2,r1,s3,r1

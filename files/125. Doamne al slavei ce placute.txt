@@ -1,0 +1,89 @@
+[s1]
+125.                                                    Mi
+1. Doamne al slavei ce plăcute
+Sunt locaşurile Tale
+A mea inimă suspină
+Şi tânjeşte-n dor şi-n jale.
+Dup-a Tale curţi o Doamne
+Inima tânjeşte-n jale.
+
+[s2]
+2. Inima din piept îmi strigă
+Către Dumnezeul mare
+Că şi pasărea acolo
+Cuib la puişori îşi are
+Cuib în care rândunica
+Puişorii săi îşi are.
+
+[s3]
+3. Ah a Tale altare Doamne
+Domnul şi Împăratul meu
+Fericiţi aceia care
+Stau în casa Ta mereu
+Căci ei tot mai pot să-ţi cânte
+Stând în casa Ta mereu.
+
+[s4]
+4. Fericit e cel ce se-ncrede
+În puternica fiinţă
+Care în inima lui poartă
+A credinţei locuinţă
+A încrederii în Domnul
+Şi-a credinţei locuinţă.
+
+[s5]
+5. Şi pe-a plângerilor vale
+O fac loc plin de izvoare
+Unde ploaia timpurie
+Varsă binecuvântare
+Ploaia timpurie varsă
+Râu de binecuvântare.
+
+[s6]
+6. Din putere în putere
+Ei o să înainteze
+Şi-n Sionul sfânt la Domnul
+Au să se înfăţişeze
+Dumnezeului puternic
+Merg să I se înfăţişeze
+
+[s7]
+7. Doamne al oştirilor
+Rugăciunea mi-o ascultă
+Dumnezeule al lui Iacov
+Nu-mi uita strigarea multă.
+Ia aminte la rugăciunea
+Şi strigarea mea cea multă
+
+[s8]
+8. Tu  eşti ocrotirea noastră
+Doamne uită-te , priveşte
+Faţa Unsului Tău veşnic
+Cum în plâns se ofileşte
+Cum te cheamă, cum suspină
+Cum în plâns se ofileşte
+
+[s9]
+9. Căci mai mult o zi în curte
+Ca o mie-n altă parte
+Eu alerg şi stau în pragul
+Uşii Tale pân' la moarte
+Nu vreau corturile urii
+Ci a Ta casă pân' la moarte.
+
+[s10]
+10. Domnul e un scut şi un soare
+Şi a lui milă se arată
+Nu lipseşti de nici un bine
+Pe acei ce-s fără pată
+Pe acei ce duc o luptă
+Şi trăiesc fără prihană
+
+[s11]
+11. Doamne al oştirilor
+Slăvilor în veci senine
+/: Fericit e omul care
+Pururea se-ncrede în Tine. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11

@@ -1,0 +1,26 @@
+[s1]
+N-am pietre scumpe n-am nici palate
+Dar azi in mine inima-mi bate
+N-am bogatie nici nestemate
+Dar in Isus le am pe toate
+
+[r1]
+/:N-am aur:/ aici nici palate
+/:N-am aur :/ dar inima-mi bate
+/:N-am aur:/ aici nici palate
+Il am doar pe Isus si inima-mi bate
+
+[s2]
+N-am nume-alese si nici nu-mi pasa
+Doresc iubirea sa-mi clocoteasca
+Nu vreau marire nici loc la mese
+Doresc iubirea Celui din iesle
+
+[s3]
+Nu vreau cununa sa-mi vestejeasca
+Vreau bucuria sa-mi dainuiasca
+Nu-ti vreau argintul nici fala-ti nume
+Samaritene vino la mine
+
+[order]
+s1,r1,s2,r1,s3,r1

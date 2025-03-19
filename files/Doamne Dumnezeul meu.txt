@@ -1,0 +1,47 @@
+[s1]
+/: Doamne Dumnezeul  meu :/
+Tu să mă ajuţi la greu
+O, Isuse Doamne!
+
+[s2]
+/: Mi-ajută la crucea mea :/
+Până sus la Golgota
+O, Isuse Doamne!
+
+[s3]
+/: Din  pruncie  m-ai chemat :/
+Cu Duh Sfânt m-ai botezat
+O, Isuse Doamne!
+
+[s4]
+/: Fii slăvit Isus iubit :/
+Că pe noi ne-ai mîntuit
+O, Isuse Doamne!
+
+[s5]
+/: Şi  în  Cartea Ta m-ai scris :/
+Pentru-al Tău paradis
+O, Isuse Doamne!
+
+[s6]
+/: Cu toată familia :/
+În împărăţia Ta
+O, Isuse Doamne!
+
+[s7]
+/: Cu toţi în cer să fim :/
+La masa Ta să servim
+O, Isuse Doamne!
+
+[s8]
+/: Cu Avram, Iacov, Isaac :/
+Ce pe Tine Te-au urmat
+O, Isuse Doamne!
+
+[s9]
+/: Cu Enoh şi cu Ilie :/
+Să-Ţi cântăm o veşnicie
+O, Isuse Doamne!
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

@@ -1,0 +1,26 @@
+[s1]
+Ce bucurie, ce fericire!
+Isus a venit în viaţa mea!
+Ce bucurie, ce fericire!
+Din inima, mereu Îi voi cânta.
+
+[r1]
+O, slavă Ţie! Tu meriţi
+Să fii glorificat.
+O, slavă Ţie! Tu meriţi
+Să fii mereu 'nălţat.
+
+[s2]
+Ce bucurie, ce fericire!
+Căci de acum avem un Salvator.
+Ce bucurie, ce fericire!
+Şi hrană vie dă El, tuturor.
+
+[s3]
+Ce bucurie, ce fericire!
+Poarta vieţii, Domnul ne-a deschis,
+Ce bucurie, ce fericire!
+Căci ne grăbim, cu toţi spre paradis.
+
+[order]
+s1,r1,s2,r1,s3,r1

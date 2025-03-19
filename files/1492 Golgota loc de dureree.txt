@@ -1,0 +1,32 @@
+[s1]
+1492.
+Golgota loc de durere
+Golgota o nume trist
+Eşti izvorul de putere şi de viaţă-n paradis.
+Golgota tu ne spui totul
+De Isus şi al morţii chin
+De al Său sânge şi de cruce
+De cununa Sa de spini.
+
+[s2]
+2.   Simone de la Cirena
+Doar Tu ai putea să spui
+Cât de grea i-a fost Lui crucea
+Când pe deal te-au pus s-o sui.
+Cât de mare i-a fost setea
+Şi vedea cu ochii trişti
+Îl dureau vai rău şi spinii
+Rănile adânci din mâini
+
+[s3]
+3.   Aş dori s-ajung la cruce
+Să mă plec şi să mă rog
+Să îi spun că-i dau inima
+Şi să-i spus că-s al său rod
+Să îi spun mi-e dor Isuse.
+De Tine şi ţara Ta
+Să îi las a mea povară
+Numai El mi-o poate lua
+
+[order]
+s1,s2,s3

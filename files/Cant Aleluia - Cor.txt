@@ -1,0 +1,24 @@
+[s1]
+/: Cânt Aleluia :/
+Ţie, Dumnezeul meu slăvit!
+/: Cânt Aleluia, :/
+Te iubesc căci Tu m-ai mântuit!
+
+[r1]
+Jertfa mulţumirii ardă pe altar
+Tatălui Iubirii, Sfânt Izvor de har!
+
+[s2]
+/: Cânt cu credinţă :/
+Ţie, Dumnezeul credincios!
+/: Cânt cu credinţă :/ (Aleluia)
+Fiului Tău Sfânt, Isus Hristos!
+
+[s3]
+/: Cânt cu-nchinare :/ (Aleluia)
+Ţie, Dumnezeul minunat!
+/: Cânt cu-nchinare :/ (Aleluia)
+Cânt cu focul care Tu mi-ai dat!
+
+[order]
+s1,r1,s2,r1,s3,r1

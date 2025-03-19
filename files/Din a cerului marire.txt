@@ -1,0 +1,32 @@
+[s1]
+Din a cerului mărire
+Pentru omul păcătos
+Să ne aduci mântuire
+Ai venit Isus Hristos
+
+[r1]
+Îţi aducem închinare
+Cu iubire Te lăudăm
+În această sărbătoare
+/: Rege sfânt Te adorăm :/
+
+[s2]
+N-avem smirnă nici tămâie
+Şi nici aur ca să-Ţi dăm
+Dar dorim pentru vecie
+Mesia să îţi cântăm.
+
+[s3]
+Stea ce-ai răsărit odată
+Peste ţara Israel
+Ne sfinţeşte viaţa toată
+Mesia, Emanuel
+
+[s4]
+De aproape sau departe
+Tineri, vârstnici sau copii
+Te chemăm Isus ca frate
+Domn şi Rege să ne fii.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

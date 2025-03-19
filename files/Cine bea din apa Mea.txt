@@ -1,0 +1,44 @@
+[s1]
+Cine bea din apa Mea
+Niciodată na-nseta
+/: Ea se face într-un izvor
+De viaţă dătător :/
+
+[s2]
+Doamne a zis atunci femeia
+Dă-mi şi mie apa aceea
+/: Să nu mai alerg mereu
+Şi să scot de aici eu greu :/
+
+[s3]
+Iar Isus a cuvântat
+Vino cu al tău bărbat
+/: N-am bărbat dânsa I-a spus
+Ştiu I-a zis Domnul Isus :/
+
+[s4]
+Cinci aveai şi care-l ai
+Nu-i bărbatul tău aşa-i
+/: Doamne cum le nimereşti
+Tu pe semne proroc eşti :/
+
+[s5]
+Ştiu că v-a veni în lume
+Mesia Isus anume
+/: Care multe ne-a-nvăţat
+Nu eşti Tu Isus cumva? :/
+
+[s6]
+Domnul blând la ea priveşte
+Eu sunt cel care-ţi vorbeşte
+/: Atunci vasul şi-a luat
+Şi-n cetate-a alergat :/
+
+[s7]
+Pe toţi care-i întâlnea
+Despre Isus le vorbea
+/: Doamne dă-ne apa Ta
+Du-ne-npărăţia Ta :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

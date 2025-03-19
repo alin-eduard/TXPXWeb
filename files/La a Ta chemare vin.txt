@@ -1,0 +1,42 @@
+[s1]
+La a Ta chemare vin,
+‘Naintea Ta păşesc
+Şi-n sângele ce-odată-a curs
+Vreau să mă mântuiesc.
+La Tine vin cu drag
+Mântuitor iubit
+Mă spală-n sângele-Ţi ce-a curs
+Pe Golgota jertfit.
+
+[s2]
+Eu sunt aşa sărac…
+Tu totul vrei să-mi fii,
+În sângele-Ţi de-orice păcat
+Vrei a mă curăţi!
+La Tine vin cu drag
+Mântuitor iubit
+Mă spală-n sângele-Ţi ce-a curs
+Pe Golgota jertfit.
+
+[s3]
+Cuvântul Tău mi-ai dat
+Şi pace mi-ai promis,
+Atâtea bucurii cereşti
+Ca parte Tu mi-ai scris…
+La Tine vin cu drag
+Mântuitor iubit
+Mă spală-n sângele-Ţi ce-a curs
+Pe Golgota jertfit.
+
+[s4]
+Isuse, fii mărit,
+Lucrarea Ţi-ai sfârşit,
+Prin darul sângelui vărsat
+Pe noi ne-ai mântuit.
+La Tine vin cu drag
+Mântuitor iubit
+Mă spală-n sângele-Ţi ce-a curs
+Pe Golgota jertfit.
+
+[order]
+s1,s2,s3,s4

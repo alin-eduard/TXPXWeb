@@ -1,0 +1,32 @@
+[s1]
+Dacă eşti cuprins de noapte,
+Chinuit de gândul rău,
+Dumnezeu vrea să te scape,
+Îţi întinde braţul Său.
+
+[r1]
+Nu te­-abate­-n ceasuri grele
+De la sfântul Său cuvânt;
+Ce promite, împlineşte,
+Te încrede­-n Domnul Sfânt!
+
+[s2]
+De-­a Satanei influenţă
+Depărtează-te mereu,
+Lui Isus întinde­-I mâna
+Şi ascultă glasul Său!
+
+[s3]
+Dacă vrei să fii cu Domnul,
+Eul tău să-­l răstigneşti
+Iar în tine să se vadă
+Chipul Fiului ceresc.
+
+[s4]
+Îndoiala ta să piară,
+Te încrede în Isus,
+El îţi dă în suflet pace,
+Bucurie de nespus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

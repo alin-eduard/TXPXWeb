@@ -1,0 +1,40 @@
+[s1]
+1. Pregăteşte-mi Tu Isuse
+Inima neîncetat
+Să se desfăteze-n Tine
+Şi-n cuvântul Tău curat.
+103.                   Do m
+
+[r1]
+Cor:Bucuria mea desfătarea mea
+Tu să-mi fii Isuse
+Fie noaptea grea, fie ziua rea
+Tu să-mi fii Isuse
+/: Desfătarea mea :/
+
+[s2]
+2. Să-mi aprinzi într-una focul
+Dorul lui vreau să-L ascult
+Şi iubirea mea să ardă
+Pentru Tine tot mai mult.
+
+[s3]
+3. Să nu mai găsesc plăcerea
+În nimic de pe pământ
+Şi picioarele să-mi ţină
+Numai drumul Tău cel sfânt.
+
+[s4]
+4. Bucuria vieţii mele
+Tu să-mi fii necontenit
+Chipul Tău întreg în mine
+Să-L arăt mai desluşit.
+
+[s5]
+5. Pregăteşte-mi Tu fiinţa
+De cu zori până-n apus
+Să-şi găsească desfătarea
+Numa-n Tine drag Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

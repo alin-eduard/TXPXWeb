@@ -1,0 +1,35 @@
+[s1]
+2227                                                                          Re
+1. Anii trec, viața se duce
+Treci și tu cu ea
+Și la capăt te așteaptă
+Doar ce ți-ai adunat.
+
+[r1]
+Cor: /: De-ai semănat
+în câmpul tău numai neghină
+Nu aștepta la capăt
+să culegi grâu
+Căci doar umblarea ta
+cu Domnul în lumină
+Îți va aduce rodul cel mai bun:/
+
+[s2]
+2. Uită-te la tine, frate
+De ești născut din nou
+Sau trăiești tot pentru lume , făcând ce este rău.
+
+[s3]
+3. Dacă nu, te întoarce acuma
+Și schimbă-ți viața ta
+Prin cuvântul din Scriptură
+Care îți este dat.
+
+[s4]
+4. Orișice-ai făcut în viață
+Stă scris în ceruri sus
+Și răsplata-ți va fi dată
+După rodul adus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

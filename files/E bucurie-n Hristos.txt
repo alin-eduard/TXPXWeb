@@ -1,0 +1,24 @@
+[r1]
+/: E bucurie-n Hristos
+Este dragoste-n spirit
+E nadejde in credinta in El
+E-o fantana ce-o stiu
+Ce hraneste al meu suflet
+E cuvantul ce cuge din El :/
+
+[s1]
+Marirea si slava-I a lui
+Puterea si gloria’s a lui
+Sa lasam gura Lui
+Sa ne-nvete cantand
+Voia Lui s-mplinim pe pamant
+
+[s2]
+Marirea si slava-I a lui
+Puterea si gloria’s a lui
+Sa lasam gura Lui
+Sa ne-nvete cantand
+Voia Lui sa-mplinim pe pamant
+
+[order]
+r1,s1,r1,s2,r1

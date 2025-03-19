@@ -1,0 +1,48 @@
+[s1]
+Îmi spune lumea că sunt cam nebun
+Căci am pornit pe al credinţei drum.
+Isus îmi spune că-i bine aşa
+Resping ceea ce-mi spune lumea.
+îmi spune lumea că sunt cam bigot
+Că sunt redus şi-a gândi nu prea pot.
+Isus îmi spune că sunt mântuit
+Eu cred aceasta şi sunt fericit.
+
+[r1]
+/: Mă-ncred în Isus, în ce spune El
+Mă-ncred în Isus, mă-ncred
+Mă-ncred, mă-ncred în El! :/
+
+[s2]
+Îmi spune lumea:
+« Din maimuţă te tragi!
+Materie-i tot ce eşti şi ce faci! »
+Biblia-mi spune că în Dumnezeu
+Este originea chipului meu.
+Îmi spune lumea că nu este rai
+Doar pe Pământ şansa vieţii o ai.
+Isus îmi spune că-n cer a plecat
+Să-mi pregătească un loc minunat.
+
+[s3]
+Îmi spune lumea că ea a aflat
+O împlinire în ce e păcat
+În flirt, în bere şi în îmbuibări
+În meci, în filme şi-n destrăbălări.
+Isus îmi spune să las ce e rău
+Există în ceruri un sfânt Dumnezeu
+Lumea de toate socoteală va da
+În ziua când va fi judecata.
+
+[s4]
+Ce spui acuma, cel ce m-asculţi
+Cu lumea, sau cu Isus te lupţi?
+Spune acuma, cu cine porneşti
+Cine adevărul îl spune? Ce crezi?
+E sfatul meu ca să crezi în Isus
+Să-ţi schimbi viaţa şi să-I fii supus.
+Bagă de seamă şi nu te-nşela
+Nu asculta tu ce spune lumea!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

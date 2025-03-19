@@ -1,0 +1,39 @@
+[s1]
+90.                    Mi b
+1. Vino Doamne şi ascultă
+Doamne ascultă-mi ruga mea
+Căci s-a strâns durere multă
+Doamne cum s-o pot purta.
+
+[s2]
+/: Lasă-mă să Ţi-o spun Ţie
+În miez de noapte când mi-e greu
+Ca nimenea să nu mai ştie
+Greul sufletului meu. :/
+
+[s3]
+2. Lasă-mă să-Ţi plâng durerea
+Ce-a fost ruptă dintr-a Ta
+Jugul fie cum Ţi-e voia
+Ca pe-o comoară-l voi purta.
+
+[s4]
+/: Tot ce-ndur cu Tine Isuse
+Asta-mi e mângâierea
+Dar mai sunt lacrimi nespuse
+Şi-astea cum le voi purta. :/
+
+[s5]
+3. O, de mi-ai lăsa nădejdea
+Ca-ntr-o zi până-n apus
+Să-i aduci pe toţi aceia
+Ce cu lacrimi Ţi i-am spus.
+
+[s6]
+/: Nu doresc mai mare plata
+Decât mântuirea lor
+Şi de vrei ca o răsplată
+Să Te cânt nemuritor. : /
+
+[order]
+s1,s2,s3,s4,s5,s6

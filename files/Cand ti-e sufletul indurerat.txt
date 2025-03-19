@@ -1,0 +1,31 @@
+[s1]
+Cand ti-e sufletul indurereat
+Si pace nu gasesti
+Cheama, suflete, tu pe Isus,
+El te va mangaia
+
+[r1]
+El e pacea ta si taria ta,
+Nu te intrista, increde-te in El
+In Isus Hristos
+Tu ai sa gasesti o iubire vesnica.
+Primeste-L pe El,
+Asculta de El, Sfinteste-I mereu
+Numele Lui Sfant
+Ca fiu de Dumnezeu plin de adevar
+Singurul Mantuitor
+
+[s2]
+Cand ti-e sufletul indurerat
+Si tu te simti pierdut
+Lui te roaga si El
+Iti va da Lumina Lui in dar.
+
+[s3]
+Cand ti-e sufletul tau tulburat
+Cheama-L atunci pe El
+El e un izvor de bucurii,
+El te va bucura
+
+[order]
+s1,r1,s2,r1,s3,r1

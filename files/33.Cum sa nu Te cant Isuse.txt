@@ -1,0 +1,53 @@
+[s1]
+33.               Re
+1. Cum să nu Te cânt Isuse ?
+Cum să nu Îţi cânt?
+Cum să nu-Ţi slăvesc eu oare,
+Numele Tău Sfânt?
+
+[r1]
+Cor /: Am strigat :/
+Spre Tine, Doamne,Doamne!
+Şi m-ai ascultat;
+Bucuria şi lumina
+Mie mi le-ai dat.
+
+[s2]
+2. Cum să tac atunci când vine
+Lumii întregi să-i spun
+Cât de bun ai fost cu mine ,
+Ah, cât eşti de bun!
+
+[s3]
+3. De-aș plânge o veșnicie,
+Nu ar fi de-ajuns,
+Cât bine mi-ai făcut mie,
+Scumpul meu Isus.
+
+[s4]
+4. Până-n veci
+Voi spune, Doamne,
+Cât de-adevărat,
+Ce puternic e-al Tău Nume,
+Scump şi minunat.
+
+[s5]
+5. Fă să strig mereu, Isuse,
+Ție ne-ncetat,
+Să-mi aduc mereu aminte
+Că Tu m-ai salvat.
+
+[s6]
+6. Și m-ai scos
+Din astă lume,
+La lumina Ta
+Multe lacrimi pentru mine Au curs pe fața Ta.
+
+[s7]
+7.Când erai în chinuri grele,
+Isuse iubit,
+Atunci Tu cu multă jale
+Spre noi ai privit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1

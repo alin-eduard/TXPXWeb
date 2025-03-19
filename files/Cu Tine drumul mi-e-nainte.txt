@@ -1,0 +1,41 @@
+[s1]
+Cu Tine, drumul mi-e-nainte,
+o Isuse, cate-or mai veni;
+Am mai putina miazanoapte o
+/: Si tot mai multa miazazi. :/
+Lumina, Lumina! O
+/: Tu ai biruinta cea deplina! :/
+
+[s2]
+Desi mi-e crucea mai de piatra o
+Si vantul pare-a se-nteti,
+Am mai putina miazanoapte o
+/: Si tot mai multa miazazi. :/
+Lumina, Lumina! o
+/: Tu ai biruinta cea deplina! :/
+
+[s3]
+Vrajmasu-mi spune mai cu ura, o Sageata lui pare-a tinti;
+Dar mai putin e miazanoapte o
+/: Si-i tot mai multa miazazi. :/
+Lumina, Lumina! o
+/: Tu ai biruinta cea deplina! :/
+
+[s4]
+Cand, spre pustia lumii, norii o
+Vin tot mai negri zi de zi,
+E mai putina miazanoapte o
+/: Si tot mai multa miazazi. :/
+Lumina, Lumina! o
+/: Tu ai biruinta cea deplina! :/
+
+[s5]
+Caci, Tu, Isuse,-n orice clipa o
+Esti mai aici si vei sosi...
+Cu Tine miazanoaptea-i dusa o
+/: Si-n veci va fi o miazazi! :/
+Lumina, Lumina! o
+/: Tu ai biruinta cea deplina! :/
+
+[order]
+s1,s2,s3,s4,s5

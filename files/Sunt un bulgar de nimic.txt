@@ -1,0 +1,30 @@
+[s1]
+Sunt un bulgăr de nimic,
+Sunt un strop de rouă­-n soare,
+/: Dar cu cât mă văd mai mic,
+Cu­-atât Tu, cu-­atât Tu
+Te vezi mai mare. :/
+
+[s2]
+Doamne, dacă m­ai făcut
+O fereastră către Tine,
+/: Cu cât sunt mai nevăzut,
+Cu-­atât Tu, cu­-atât Tu
+Te vezi mai bine. :/
+
+[s3]
+Doamne, când suntem noi doi
+N­are cel viclean ce-­mi face,
+/: Şi cu cât îi port război
+Cu­-atât Tu, cu­-atât Tu
+mă­-mbraci cu pace. :/
+
+[s4]
+Şi din toate câte­-n rai
+Le găteşti Tu pentru mine,
+/: Nu mi­e dor de tot ce­-mi dai,
+Cât mi­e dor, Doamne,
+Cât mi­e dor de Tine. :/
+
+[order]
+s1,s2,s3,s4

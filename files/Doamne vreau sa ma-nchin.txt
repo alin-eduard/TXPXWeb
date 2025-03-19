@@ -1,0 +1,24 @@
+[s1]
+Doamne, vreau sa ma-nchin
+Si cu inima mea inaintea Ta vin
+Cand ma rog ma asculti
+De pacate ma ierti,
+Numai Tu ma-ntelegi
+
+[s2]
+Credincios imi raspunzi
+Iar sub aripa Ta de furtuni ma ascunzi
+Mana Ta ma atinge
+Si imi da libertatea prin har sa traiesc
+Nici nu pot sa exprim
+Cat Te doresc!
+
+[s3]
+/:Inima mea Iti spune iubire
+Inima mea Iti da multumire
+Inima mea pe Tine Te cauta
+Inima mea,
+Caci Tu esti cel mai minunat!:/
+
+[order]
+s1,s2,s3

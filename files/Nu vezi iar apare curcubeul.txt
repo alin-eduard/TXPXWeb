@@ -1,0 +1,23 @@
+[s1]
+Nu vezi, iar apare curcubeul
+El îşi soarbe fiinţa din lumini.
+Vei putea şi tu să cuprinzi tot cerul
+Viaţa ta lui Isus de o-nchini.
+
+[r1]
+Spune-I Lui, spune-I Lui,
+spune-I doar lui Isus!
+De dorinţe, suferinţe şi necaz.
+Spune-I Lui, spune-I Lui,
+spune-I doar lui Isus
+Spune-I doar lui Isus,
+spune-I Lui!
+
+[s2]
+De-ai străbate plaiuri însorite
+Paşii tăi de-ar trece prin furtuni
+Caută calea spre culmi de cer unite
+Şi cetatea eternelor cununi !
+
+[order]
+s1,r1,s2,r1

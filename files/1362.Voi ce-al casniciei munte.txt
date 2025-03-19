@@ -1,0 +1,51 @@
+[s1]
+1362.Sol
+1.  Voi ce-al căsniciei munte
+Azi începeţi să-l urcaţi
+Cu-a iubiri funii sfinte
+Zi de zi să vă ancoraţi
+
+[s2]
+/:Funia-mpletită în trei nu se rupe
+Tare-i ca şi stânca de granit
+Valurile vieţi n-au să vă astupe
+Drumul pe care voi aţi pornit:/
+
+[s3]
+Steag de biruinţă ţineţi
+Pe Isus la orice pas
+N-ascultaţi îndemnul firii
+N-ascultaţi de-al lumii glas
+
+[s4]
+/: Căsnicia-n Domnul dulce-i ca şi mierea
+Şi amărăciunea n-are loc
+De-i făcută-n Isus El îţi dă putere
+Şi o căleşte-n al iubirii foc:/
+
+[s5]
+Bucurie pace sfântă
+Casă-n Domnul de-o zidiţi
+Dintre toţi în lumea asta
+Veţi fi cei mai fericiţi
+
+[s6]
+/: Binecuvântarea stă-n trăirea vieţii
+Şi de vreţi s-aveţi un cer senin
+Aduce-ţi rugi sfinte-n zorii dimineţii
+Pe altarul Domnului divin:/
+
+[s7]
+4.  Binecuvântează Doamne
+Pe aceşti doi care s-au unit
+Sub altarul biruinţei
+Ţine-i Tu Isus iubit.
+
+[s8]
+/: Căsnicie sfântă har şi fericire
+Lasă tu din tronul tău acum
+Şi-n iubire sfântă în strânsă unire
+Să-i călăuzeşti pe noul drum:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

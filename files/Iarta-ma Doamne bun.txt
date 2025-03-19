@@ -1,0 +1,37 @@
+[s1]
+Iartă-mă, Doamne bun, Dumnezeul meu.
+/: Pentru gândul nesfinţit,
+Pentru patimă-n privit,
+Pentru vorba fără har,
+Doamne iartă-mă Tu iar. :/
+
+[s2]
+/: Pentru timpul meu trecut,
+Fără rodul ce l-ai vrut,
+Fără dragostea cu jar,
+Doamne iartă-mă Tu iar. :/
+Iartă-mă, Doamne bun, Dumnezeul meu.
+
+[s3]
+/: Pentru felul meu firesc,
+Printre oameni când păşesc,
+Pentru traiu-mi în zadar,
+Doamne iartă-mă Tu iar. :/
+Iartă-mă, Doamne bun, Dumnezeul meu.
+
+[s4]
+/: Pentru nevegherea mea
+De-a rămâne-n voia Ta,
+Pentru tot cea fost murdar,
+Doamne iartă-mă Tu iar. :/
+Iartă-mă, Doamne bun, Dumnezeul meu.
+
+[s5]
+/: Doar iertarea ce mi-o dai,
+Îmi păstrează-al păcii rai
+Şi mă zboară iar şi iar,
+Doamne-n veşnicu-Ţi hotar. :/
+Iartă-mă, Doamne bun, Dumnezeul meu.
+
+[order]
+s1,s2,s3,s4,s5

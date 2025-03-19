@@ -1,0 +1,36 @@
+[s1]
+Credița mea eu o zidesc
+Pe Cuvântul sfânt și ceresc.
+Altceva trece ca spuma;
+Hristos ca stânca-n veci va sta.
+
+[s2]
+/: Cine-n El se-ncrede
+Pe nisip nu mai zidește,
+Pe nisip nu mai zidește. :/
+
+[s3]
+Desi-i fata Lui ascunsa,
+Mila Lui ma-nconjoara.
+Poate veni orice vifor;
+Pe-aceasta stanca sunt sigur.
+
+[r1]
+/:Cine-n El se-ncrede
+Pe nisip nu mai zideste,
+Pe nisip nu mai zideste.:/
+
+[s4]
+Legamantul scump, sangele,
+Ma scuteste-n primejdie.
+Poate veni orice vifor;
+Pe-acesta sfanca sunt sigur.
+
+[s5]
+Iar cand Isus va judeca
+Si celor morti ,,Sus!’’ va striga,
+Dreptatea Lui mie-mi va fi
+Haina-n care voi luci.
+
+[order]
+s1,s2,s3,r1,s4,r1,s5,r1

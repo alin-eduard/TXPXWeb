@@ -1,0 +1,26 @@
+[r1]
+El e ‘nălţat
+Împăratul divin e ‘nălţat,
+Îl voi lăuda !
+El e ‘nălţat
+Împăratul divin e ‘nălţat,
+Şi-L voi lăuda !
+
+[s1]
+El este Domn,
+Da, El adevărul e !
+Cerul, pământul
+Tresaltă ’naintea Lui.
+El e’nălţat
+Împăratul divin e ’nălţat.
+
+[s2]
+El este Domn,
+Da, El adevărul e !
+Cerul, pământul
+Tresaltă ’naintea Lui.
+/ El e ’nălţat
+Împăratul divin e ’nălţat. /X2
+
+[order]
+r1,s1,r1,s2

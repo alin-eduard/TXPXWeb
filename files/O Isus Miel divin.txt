@@ -1,0 +1,31 @@
+[s1]
+O, Isus, Miel divin
+Ţie azi mă închin
+Îţi aduc jertfa mea pe altar.
+Vreau la Tine să vin
+Mă primeşte ca fiu
+Ca să gust din cerescul Tău har.
+
+[r1]
+/: Veşnic voi cînta
+Slavă vreau Ţie-a-Ţi da
+Să Te laud şi să-Ţi cînt zi de zi ! :/
+
+[s2]
+Chipul Tău minunat
+Îl zăresc ne-ncetat
+Printre flori şi culori Te-ntîlnesc.
+Sînt atît de uimit
+De tot ce ai zidit -
+Toate marea-Ţi putere slăvesc !
+
+[s3]
+Ne-ncetat dreapta Ta
+Ţine-o asupra mea
+Fără teamă să pot să păşesc.
+Fără teamă să spun :
+<Domnul meu este bun
+Îl iubesc, Îl doresc, Îl aştept !>
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,26 @@
+[s1]
+Semănătorul iese
+Sămânţa o semănase
+/: Într-un pământ lângă drum
+Dar păsările vin acum. :/
+
+[r1]
+Eşti un pământ, omule!
+Eşti un pământ, omule!
+Eşti un pământ, pământ eşti
+O, spune-mi, de ce nu rodeşti?
+
+[s2]
+Semănătoru-a trecut
+Sămânţa în văi a căzut
+/: Într-un pământ plin de spini
+O, spune-mi, de ce tot nu vii? :/
+
+[s3]
+Iată, sămânţa acum
+Cade-n pământul cel bun
+/: Unul aduce treizeci
+Iar altul o sută sau şaizeci. :/
+
+[order]
+s1,r1,s2,r1,s3,r1

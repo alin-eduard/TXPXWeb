@@ -1,0 +1,75 @@
+[s1]
+1. Dacă azi pe drumul vieţii
+Eşti lovit mereu
+Dacă eşti în încercări
+În suspin şi-n greu.
+665.
+
+[s2]
+/: Dacă-n luntrea vieţii tale
+Bat vânturi fără-ncetare
+Atunci cheamă-n ajutor
+Pe al tău Mântuitor. :/
+
+[s3]
+2.Dacă soarta vieţii apasă
+Nu descuraja
+Când povara nu te lasă
+Şi ţi-e grea crucea.
+
+[s4]
+/: Chiar dacă ai tăi din casă
+Te hulesc şi nu le pasă
+Atunci când nu-i mai putea
+Domnu-i de partea ta. :/
+
+[s5]
+3. Dacă eşti în suferinţă
+Fără ajutor
+Roagă-te azi cu credinţă
+La al tău Salvator.
+
+[s6]
+/: Roagă-te fără-ncetare
+Chiar dacă durerea-i mare
+Căci şi Isus a răbdat
+Când L-au crucificat. :/
+
+[s7]
+4. Dacă ochii-ţi varsă lacrimi
+De atâtea ori
+Când furtuni lovesc în tine
+Tu nu da înapoi!
+
+[s8]
+/: Roagă-te fără-ncetare
+Ca Isus în Ghetsimani
+Dumnezeu te v-ajuta
+Căci mare-i mila Sa :/.
+
+[s9]
+5. Mergi frate fără-ncetare
+Urcă tot mai sus
+Urcă pân' la Golgota
+Până la Isus.
+
+[s10]
+/: Acolo povara frate
+Isus ţi-o va lua din spate
+Şi-ţi va şterge lacrima
+Căci mare-i mila Sa :/.
+
+[s11]
+6. Luptă-te lupta cea bună
+Pe acest pământ
+Ca să poţi primi cununa
+Sus în cerul prea sfânt.
+
+[s12]
+/: Rabdă totul în tăcere
+Chiar de-i mare a ta durere.
+Dumnezeu te v-ajuta
+Căci mare-i mila Sa :/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12

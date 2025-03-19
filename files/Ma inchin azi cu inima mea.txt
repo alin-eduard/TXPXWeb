@@ -1,0 +1,20 @@
+[s1]
+Mă închin azi cu inima mea
+Tu eşti Domnul din viaţa mea
+Eu te caut in orice zi
+Te voi urma cât timp voi trăi.
+
+[s2]
+Tu eşti vrednic de-nchinare
+Te slăvesc cu a mea cântare
+Numai Tu eşti vrednic Doamne
+Să primeşti a mea-nchinare.
+
+[s3]
+Mă smeresc cu adorare
+Îţi înalţ a mea cântare,
+Te iubesc din suflet Doamne
+Sunt al Tău pentru vecie.
+
+[order]
+s1,s2,s3

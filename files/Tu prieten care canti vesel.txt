@@ -1,0 +1,50 @@
+[s1]
+Tu prieten care cânţi vesel
+în credinţă,
+Fii prieten cu Isus şi la suferinţă.
+Dacă-n ceasul de temut
+vrei să fii la dreapta,
+Când Isus stă trist tăcut
+mângâie-L cu fapta.
+
+[s2]
+Dă-I acum din pâinea ta
+foamea să-şi destrame,
+Căci în cer în veci de veci
+nu-I va mai fi foame.
+Dă-i acum să bea din vas
+când e ars ca vrejul,
+Căci în cer în veci de veci
+nu mai ai prilejul.
+
+[s3]
+Dă-i acuma haina ta
+când e rupt veşmântul,
+Căci în cer nu-I va fi frig,
+nu-L va bate vântul.
+Dă-I acum cât e bolnav
+grijă-nduioşată,
+Căci bolnav nu va mai fi
+Domnul niciodată.
+
+[s4]
+Ia-L în casa ta acum
+să-şi aline somnul,
+Azi e un sărac în drum
+dar în el e Domnul.
+Azi Isus e-n mii de fraţi,
+azi îţi vrea El fapta,
+Mâine toţi vom fi chemaţi
+tu vei fi la dreapta.
+
+[s5]
+Şi un glas de pe genunchi
+va striga spre stele,
+Îl cunosc şi din ani buni
+şi din zile grele.
+Iată anii-ntregi s-au dus,
+zilele-s ca spuma,
+Fii prieten cu Isus nu uita acum.
+
+[order]
+s1,s2,s3,s4,s5

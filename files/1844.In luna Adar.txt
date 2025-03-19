@@ -1,0 +1,40 @@
+[s1]
+1844
+1.În luna Adar s-a scris o poruncă
+Ca toți iudeii să fie umiliți
+Pe unde-ajungeau soliile triste
+Jale durere era peste tot
+Cu sac și cenușă posteau ,se rugau
+Cereau Domnului îndurare
+Stăpâne privește vine o zi
+Nu îți lăsa moștenirea
+
+[r1]
+Cor:
+/:Moartea și viața sunt în mâna Lui
+El controlează Universul
+Nu Ahașveroș ci Domnul Hristos
+Își întinde azi toiagul:/
+
+[s2]
+2.Dacă ce e veșnic pe tronu-i de slavă
+Privește vrășmașul și râde de El
+Haman plin de ură un laț pregătește
+Pentru poporul iubit Istrael
+Cu mâinile-ntinse spre cer zi și noapte
+Striga cu putere Mardoheu
+Striga și Estera strigau milioane
+Și ruga le-ajunge la cer
+
+[s3]
+3.Spune Estera și tu Mardoheu
+Povara cea grea ce te-apasă
+Tu n-ai azi un rege peste Medopersan
+Ci-un rege slăvit pe Isus
+Hai îndrăznește cu cererea ta
+Și vino cu ea la-mpăratul
+Tumim și Urim să-ți fie pe umeri
+Și El îți va-ntinde toiagul.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,42 @@
+[s1]
+1443.   Re
+Nu-i aici a noastră bucurie
+Lumea n-are pentru noi decât urgie
+Tot ce poate să ne dea-i zădărnicie
+S-o străbatem fraţi iubiţi ca pe-o pustie
+Nu-i aici o nu-i aici
+Nu-i aici a noastră bucurie.
+
+[s2]
+2.Nu-i aici a noastră alinare
+Pentru noi viaţa-i zbucium şi alergare
+E un drum lung de încercări si renunţare         S-o sfârşim cu stăruinţă în lucrare
+Nu-i aici o nu-i aici
+Nu-i aici a noastră alinare.
+
+[s3]
+Nu-i aici a noastră mângâiere
+Lumea n-are pentru noi decât durere
+Fraţi iubiti care priviţi spre înviere
+N-aşteptaţi aici decât oţet şi fiere
+Nu-i aici o nu-i aici
+Nu-i aici a noastră mângâiere
+
+[s4]
+Nu-i aici a noastră fericire
+Tot ce are lumea-i fum şi amăgire
+Fericirea-i doar în jertfă şi-n iubire
+Pe un drum lung de luptă şi de dăruire
+Nu-i aici o nu-i aici
+Nu-i aici a noastră fericire.
+
+[s5]
+Nu-i aici a noastră sărbătoare
+O priviţi înţelenitele ogoare
+Holdele ce aşteaptă mâini secerătoare
+Cine să muncească şi să lupte oare
+Nu-i aici o nu-i aici
+Nu-i aici a noastră sărbătoare.
+
+[order]
+s1,s2,s3,s4,s5

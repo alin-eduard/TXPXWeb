@@ -1,0 +1,28 @@
+[s1]
+Dragostea azi ne-a unit
+La un scop Dumnezeiesc
+Impreuna amandoi la altar
+Noi am venit
+Legamantul vostru de azi
+Impreuna sa il tineti
+Niciodata fara El sa nu fiti
+Toata viata cu Isus
+
+[r1]
+/: Doar impreuna, sa va iubiti
+Tot inainte, nu dati napoi
+Ca diamantul, va pretuiti
+Unul pe altul ajutand :/
+
+[s2]
+Cand incercari vor veni
+Spre Isus voi sa priviti
+Vocea voastra impreuna spre Cer
+O vom 'nalta
+Bucuria El sa va fie
+In caminul vostru mereu
+Dragostea sa nu lipseasca nicicand
+Cat veti trai pe pamant.
+
+[order]
+s1,r1,s2,r1

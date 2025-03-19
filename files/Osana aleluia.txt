@@ -1,0 +1,32 @@
+[s1]
+Cerul s-a deschis, îngerii cântau
+Osana în cer si pe pământ
+Fiul cel promis iată s-a născut
+Laudati-l pe Domnul prea sfânt
+
+[r1]
+/: Osana, aleluia
+Ingerii în cor cântau
+Osana aleluia
+pe Isus îl preamăreau.:/
+
+[s2]
+Luna de pe cer, si stelele-n cor
+Slăveau pe-al nostru creator
+Din noapte în zi totul s-a schimbat
+Osana îngerii au cântat
+
+[s3]
+Magii si păstori cu îngerii în cor
+Osana, osana ei cântau
+Iată s-a născut al lumii salvator
+Mesia al nost’ Mântuitor
+
+[s4]
+Astăzi într-un glas îl slăvim cu toti
+Pe cel ce s-a născut în Betleem
+In lume venit să moară răstignit
+Prin El viată am primit
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

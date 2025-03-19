@@ -1,0 +1,26 @@
+[s1]
+Ce pace si ce bucurie
+S-avem un asa Dumnezeu
+Uniti prin a crucii solie
+Vom trăi pentru numele Său.
+
+[r1]
+Chiar slabi, cu greseli si păcate
+Noi stăm lângă El, turma Lui!
+Să condamne cel rău Stim că poate,
+Dar o altă biserică nu-i!
+
+[s2]
+Nu-i cinste mai mare sub soare
+Decât cu Isus să ne stim,
+Simtind grija Lui iubitoare
+Si având adevărul divin!
+
+[s3]
+Iubirea mai tare ca moartea
+La viată din morti ne-a chemat,
+In veci cu Isus ne e partea
+Izbăviti de dureri di păcat!
+
+[order]
+s1,r1,s2,r1,s3,r1

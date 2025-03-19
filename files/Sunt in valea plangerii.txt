@@ -1,0 +1,74 @@
+[s1]
+Sunt în valea plângerii
+Dar eu cânt şi-s bucuros
+Fiindcă merg spre veşnicie
+Călăuză mi-e Hristos
+
+[s2]
+/: Nu mă tem că aş putea
+Să mă rătăcesc de-acum
+Căci Isus îmi este calea
+Şi tovarăşul de drum :/
+
+[s3]
+El mă duce la izvoare
+Şi la grasele păşuni
+Mă povăţuieşte într-una
+Prin semne şi prin minuni
+
+[s4]
+/: Şi eu ştiu că mă iubeşte
+Fiindcă spune prin Cuvânt
+Toţi acei ce îl urmează
+Au sprijin pe Duhul Sfânt :/
+
+[s5]
+Chiar de-ar fi să se pornească
+Lumea toată-n contra mea
+Nu mă tem, că-L am pe Domnul
+El este salvarea mea
+
+[s6]
+/: Ca şi David şi cu Goliat
+Merg contra duşmanului.
+Merg la luptă fără teamă
+În Numele Domnului! :/
+
+[s7]
+Înarmat sunt pentru luptă,
+Credinţa îmi este scut.
+Porţ în mână de la Domnul
+Sabia Duhului Sfânt.
+
+[s8]
+/: Încălţăminte în picioare
+Râvna Evangheliei,
+Şi în inimă – Cuvântul
+Sfânt al adevărului! :/
+
+[s9]
+Platoşa neprihănirii
+Eu acum am îmbrăcat.
+Pe cap coiful mântuirii
+Dat de Domnul minunat!
+
+[s10]
+/: Deci am toată armătura
+Împotriva celui rău
+Şi am sprijin şi nădejde
+Pe slăvitul Dumnezeu :/
+
+[s11]
+Cine poate să mă-nvingă
+Când lui Isus sunt predat?
+Îl urmez pe Domnul Slavei
+Minunatul Împărat!
+
+[s12]
+/: Aleluia!, Aleluia!
+Eu Îi cânt de pe pământ!
+Binecuvântat să fie
+Tatăl, Fiul, Duhul Sfânt ! :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12

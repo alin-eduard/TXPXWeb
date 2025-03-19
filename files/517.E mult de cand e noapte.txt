@@ -1,0 +1,73 @@
+[s1]
+1.	E mult de când e noapte
+Şi lumea-i bântuită
+De mii de duhuri rele
+Cu înşelătoare şoapte.
+/: Mi-i dor de dimineaţă
+În slavă răsăritul
+Străjerule, străjerule
+Mai este mult din noapte :/.
+517.
+
+[s2]
+2.	Atâţi din cei ce aşteaptă
+Sunt copleşiţi de jale
+Trântiţi sub greutate
+Ce inima le-a smuls.
+/: Mi-i toată aşteptarea
+La glasul veştii Tale
+Străjerule, străjerule
+Mai este oare mult :/.
+
+[s3]
+3.	Plâng inimi sfâşiate
+De lunga despărţire
+S-au ars atâtea doruri
+Şi am suferit atât.
+/: Şi aşteaptă îndurerată
+O clipă de iubire
+Străjerule, străjerule
+O, cât mai este, cât :/.
+
+[s4]
+4. 	E-atât de grea vegherea
+Cât noaptea se lungeşte
+Când inimile aşteaptă
+Şi-n suflet este jale.
+/: Când mistuie durerea
+Şi plânsul copleşeşte
+Străjerule, străjerule
+Ah, zorii nu răsar :/.
+
+[s5]
+5.	Mai este mult din noaptea
+Aceasta întunecoasă
+Departe-s oare zorii
+Seninei dimineţi.
+/: Se fierb în jur talazuri
+Şi marea-i furtunoasă
+Străjerule, străjerule
+Nu-i ceasul cel măreţ :/.
+
+[s6]
+6.	Ah, grea ne este starea
+Cum n-a fost niciodată
+Vin valuri mari şi grele
+Cum n-am mai întâlnit.
+/: Noi ştim c-a noastre inimi
+Curând n-o să mai bată
+Ah, sună răsăritul
+Străjerule iubit :/.
+
+[s7]
+7.	Ah, sună azi străjere
+Sfârşitul suferinţei
+Să rupi obezi şi stavili
+Din ţărână şi fier.
+/: Adu-ne sărbătoarea
+Dorita biruinţă
+Şi nunta-i aşteptată
+Cu Mirele din cer :/.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

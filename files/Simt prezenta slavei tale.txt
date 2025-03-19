@@ -1,0 +1,20 @@
+[s1]
+Simt prezenta slavei Tale,
+când vin ‘naintea Ta
+Cerul se coboară-n mine
+parca simt suflarea Ta
+Si tresalt când Dunul
+slavei peste mine s-a oprit
+Locu-acesta Doamne, e sfintit.
+
+[s2]
+Ce maret e-acest loc
+sfânt Domnul meu,
+Maretia Ta e-aici Ava Tată
+Vrednic esti să fii slăvit,
+vesnic preamărit
+Ce maret e-acest loc sfânt,
+Domnul meu.
+
+[order]
+s1,s2

@@ -1,0 +1,33 @@
+[s1]
+Domnul imaparateste imbract cu maretie
+Imbracat si incins cu putere
+De aceea-I nume tare,
+nu se clatina pe cale
+Fiindca Dumnezeul nostru-I mare.
+
+[r1]
+/:Dar mai puternic decat vuietul apelor mari
+Si mai puternic
+decat toti cei tari
+Si mai puternic decat
+valurile ce izbesc
+Este Domnul din
+locul sfant ceresc.:/
+
+[s2]
+Valuri mari multe si-nalte
+Raurile-apelor sale
+Apele se umfla cu putere
+Nu ne clatinam pe cale,
+Domnul e cu noi in mare
+Sa-naintam cu-n flacarare.
+
+[s3]
+Scaunul Tau de domnie este din vesnicie
+Asa o dreapta marturie
+Podoaba casei Tale,
+sfintenia-I pe cale
+Cat va tine vremea de-ndurare.
+
+[order]
+s1,r1,s2,r1,s3,r1

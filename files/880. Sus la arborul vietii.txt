@@ -1,0 +1,33 @@
+[s1]
+880.
+1.  Sus la arborul vieţii
+Lângă râul de cristal
+E Ţara călătorilor
+Mai sus cum stelele stau.
+2.  Unde cei fericiţi cântă
+Laudă Domnului Isus
+O, ce stare fericită
+Poate fi acolo sus.
+
+[s2]
+3.  Pe pământ nu am eu casă
+Ca străin călătoresc
+Patrie acolo sus am
+La Părintele ceresc.
+4.  Cum doreşte sufletul meu
+Sus la Domnul ne-ncetat
+Unde învingătorii trăiesc
+În veci fără de păcat.
+
+[s3]
+5.  	O, tot sufletul ostenit
+Şi de sarcini apăsat
+De-ar veni aici unde se află
+Locul acesta minunat.
+6.  Cel ce-n sângele lui Isus
+Prin credinţă s-a spălat
+Va primi în locul poverii
+Fericire ne-ncetat.
+
+[order]
+s1,s2,s3

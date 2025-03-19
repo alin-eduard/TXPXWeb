@@ -1,0 +1,37 @@
+[s1]
+Odata eram păcătos,
+îndepărtat de Hristos
+Dar Salvatorul mi-auzi plângerea
+Pe bratele Lui m-a luat,
+de păcate m-a iertat
+Şi acum trăiesc cântând aleluia
+
+[r1]
+O, glorie lui Isus;
+aleluia să-I cântăm
+Numele Lui cel sfânt
+noi să-L onorăm
+Eu lăuntrul meu îţi deschid
+Ţie Parinte ceresc
+Şi cântând aleluia, acum trăiesc
+
+[s2]
+Deşi lumea o întâlnesc,
+şi-mi strigă să o iubesc
+Dar eu pofta ei n-o
+ai doresc nicicând
+Inima mi-e-ndreptată-n sus,
+la dulcele meu Isus
+Şi acum trăiesc aleluia cântând
+
+[s3]
+Sus pe străzile gloriei, la
+ţărmuri când am ajuns
+După ce-mi va spune
+c-am luptat de-ajuns
+Domnul Isus m-a primi
+şi m-ă pune la dreapta Sa
+Unde voi trăi cântând aleluia
+
+[order]
+s1,r1,s2,r1,s3,r1

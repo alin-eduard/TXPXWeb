@@ -1,0 +1,32 @@
+[s1]
+Nu ceda ispitei, luptă tot mereu
+Coste biruinţa preţul cel mai greu
+Dacă chiar Satana ţi-ar porni război
+Spre Isus priveşte şi nu da ’napoi!
+
+[r1]
+Chiar zdrobit cu totul, luptă orice-ar fi
+Domnu-i lângă tine şi vei birui!
+
+[s2]
+Fugi de răi tovarăşi,
+ţine-te curat,
+Nu lăsa să-ţi piară
+teama de păcat!
+Chiar când în credinţă
+au rămas doar doi
+Spre Isus priveşte,
+şi nu da-napoi!
+
+[s3]
+Luptător al crucii,
+răsplătit vei fi
+Rabdă, chiar când lumea
+te-ar batjocori,
+Să nu-ţi pierzi curajul
+când vezi lupta-n toi,
+Spre Isus priveşte
+şi nu da ‘napoi!
+
+[order]
+s1,r1,s2,r1,s3,r1

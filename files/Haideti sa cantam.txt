@@ -1,0 +1,23 @@
+[r1]
+Haideţi să cântăm
+Cu veselie Domnului
+Şi să strigăm de bucurie
+Către stânca mântuirii noastre,
+Înaintea Lui să mergem toţi cu laude
+Cântaţi-I cântece, cântaţi-I cântece
+O, în cinstea Lui.
+
+[s1]
+Domnul este-un mare Împărat
+Marea şi uscatul le-a creat
+Domnul este-un mare  Dumnezeu
+Lui mă-nchin, e Creatorul meu.
+
+[s2]
+Să ne închinăm, să ne smerim
+Să plecăm genunchii, să-L slăvim
+Noi suntem poporul Domnului
+Nu putem fi smulşi din mâna Lui.
+
+[order]
+r1,s1,r1,s2,r1

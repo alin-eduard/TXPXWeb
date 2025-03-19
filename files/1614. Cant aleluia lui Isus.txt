@@ -1,0 +1,18 @@
+[s1]
+1614.                 Do m
+1. /:Cânt “Aleluia!” lui Isus:/
+2. /:Cinste-I aducem lui Isus!:/
+
+[s2]
+3. /:Glorie-I aducem lui Isus!:/
+4. /:Slavă-I aducem  lui Isus!:/
+
+[s3]
+5. /:Mărire lui Isus, Amin!:/
+6. /:Lui ne-nchinăm ne-ncetat:/
+
+[s4]
+7. /:Glorie-I aducem  lui Isus!:/
+
+[order]
+s1,s2,s3,s4

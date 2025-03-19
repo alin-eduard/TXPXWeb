@@ -1,0 +1,34 @@
+[s1]
+1.	Noi avem acolo-n cer un Tată
+Care ţine-n larguri bolta înstelată
+Noi avem un Creator puternic
+La a Lui poruncă toate calea-şi ţin.
+1073.      Mi b
+/:Soare, lună, stele, marea-n valuri grele
+Munţii înalţi şi plopii falnici îţi dau slavă
+Tot ce-n zări cuvântă zi şi noapte cântă
+Aleluia celui Sfânt Amin:/.
+
+[s2]
+2.	  Noi avem acolo-n cer un Frate
+Ce-i născut din Tatăl din eternitate
+Noi avem un Miel jertfit pe cruce
+Miel de izbăvire din eternul chin.
+/:Mii de inimi smulse din păcate ascunse
+Sus în cer şi jos în lume Îţi dau slavă
+În vibrări de strune ceru-ntreg răsună
+Aleluia lui Isus Amin:/.
+
+[s3]
+Noi avem aici cu noi în viaţă
+Pe Mângâietorul care ne învaţă
+Noi avem pe însuşi Domnul Slavei
+Ce ne dă lumină, sprijin şi alin.
+/:Înălţăm spre astre glasurile noastre
+Făurim în orice zi un imn de slavă
+Preamărim pe Fiul, adorăm pe Tatăl
+Şi trăim prin Duhul Sfânt Amin:/.
+3.
+
+[order]
+s1,s2,s3

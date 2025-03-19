@@ -1,0 +1,35 @@
+[s1]
+Cor:	/:Pacea Ta slava Ta a cuprins
+Zarea-ntreagă şi cerul întins
+De aceea eu nu pot ca să tac
+Vreau ca voia Ta sfântă s-o fac
+1720.      Mi m
+1. Te laud Isuse
+Cu lacrimi prin cânt
+Din cer e venită cântarea
+Prin arşiţa vremii
+Prin ploaie şi vânt
+Străbate slăvindu-Te zarea
+
+[s2]
+Cor:	/:Pacea Ta slava Ta a cuprins
+Zarea-ntreagă şi cerul întins
+De aceea eu nu pot ca să tac
+Vreau ca voia Ta sfântă s-o fac
+2. Te laud Isuse din sufletul meu
+Te laud cu fiinţa mea-ntreagă
+Căci Ţi se cuvine de-aceea şi eu
+Mă-nchin prin cântarea de laudă
+
+[s3]
+Cor:	/:Pacea Ta slava Ta a cuprins
+Zarea-ntreagă şi cerul întins
+De aceea eu nu pot ca să tac
+Vreau ca voia Ta sfântă s-o fac
+3. Te laud Isuse de-aicea de jos
+Te laudă întinderea-ntreagă
+Tu eşti Dumnezeu sfânt glorios
+Primeşte cântarea de laudă
+
+[order]
+s1,s2,s3

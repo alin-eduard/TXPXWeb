@@ -1,0 +1,31 @@
+[s1]
+Eu mă-ncred doar în Domnul,
+El m-ajută.
+Eu mă-ncred doar în Domnul,
+El e a mea stâncă.
+El e al meu scut spre care
+La necaz alerg.
+Eu mă-cred doar în Domnul,
+Ştiu că nu greşesc.
+
+[r1]
+Domnul îl slăvesc, ajutorul meu
+El e slava mea
+Şi când drumu-i greu
+Toate popoarele lumii,
+Să se-ncreadă-n El.
+Eu mă-cred doar în Domnul
+Ştiu că nu greşesc.
+
+[s2]
+Eu mă-cred doar în Domnul,
+E iubirea mea.
+Eu mă-cred doar în Domnul,
+E dragostea mea.
+Eu mă-ncred doar în Domnul,
+Fericire-mi dă.
+Eu mă-ncred doar în Domnul,
+Ştiu că nu greşesc.
+
+[order]
+s1,r1,s2,r1

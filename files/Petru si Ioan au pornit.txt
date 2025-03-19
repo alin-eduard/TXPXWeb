@@ -1,0 +1,18 @@
+[r1]
+Petru şi Ioan au pornit
+Spre templu cu pasul grăbit
+La poartă-un olog i-a oprit
+Vrând milă dar ei au vorbit:
+
+[r2]
+„Aur şi-argint nu avem
+Dar însă ce-avem vei primi
+În sfânt Numele lui Isus
+Hai umblă nu mai ologi”
+El sări şi umblând, lauda pe Isus
+Sări şi umblând, lăuda pe Isus
+În Sfânt Numele lui Isus
+Hai! umblă nu mai ologi.
+
+[order]
+r1,r2,r1,r2

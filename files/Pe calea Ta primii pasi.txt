@@ -1,0 +1,31 @@
+[s1]
+Pe calea Ta primii paşi
+i-am făcut de copil
+Pe atunci multe nu înţelegeam.
+Îndrăgeam casa Ta,
+voia Ta o-ndrăgeam
+În viaţă ca să fiu umil.
+
+[r1]
+Eram mic, dar Isus în mine creştea
+Şi Cuvîntul cel Sfînt viaţa îmi umplea
+/: Astăzi ştiu că El este-n viaţa mea
+Şi că El este pacea mea ! :/
+
+[s2]
+Pe calea Ta, eu, un tînăr,
+Îţi mulţumesc
+C-ai purtat paşii mei către cer.
+Sufletul mi-ai salvat
+şi eu Îţi mulţumesc
+Şi acum fericirea Ţi-o cer!
+
+[s3]
+Pe calea Ta mai e loc
+pentru un păcătos
+Să vină orice tînăr acum!
+El te vrea sus în cerul Său luminos
+Vino la Domnul nostru cel bun!
+
+[order]
+s1,r1,s2,r1,s3,r1

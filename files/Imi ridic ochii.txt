@@ -1,0 +1,18 @@
+[s1]
+Îmi ridic ochii
+Sus, către munte
+Să-mi vină ajutor.
+Şi ajutorul
+Mi-l dai Tu, Doamne,
+A toate Creator.
+
+[s2]
+Doamne, cât te iubesc!
+Spre Tine-acum privesc.
+Speranţa mea Tu eşti
+În Tine mă încred.
+O, Doamne, Te aştept
+Să vii să mă salvezi.
+
+[order]
+s1,s2

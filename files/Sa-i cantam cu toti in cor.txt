@@ -1,0 +1,26 @@
+[r1]
+Să-i cântăm cu toti în cor
+Noul Rege s-a născut
+Si viată El ne-a dăruit
+Isus cel sfânt si bun
+
+[s1]
+„Demult, demult in Betleem”
+Sfintele scripturi ne spun
+Maria a născut un prunc
+Fiul celui preanalt
+
+[s2]
+Si mii de îngeri s-au unit
+Cerul s-a înseninat
+Universul s-a umplut
+De slavă si cântări
+
+[s3]
+Păstorii s-au înfricosat
+Ceru-n cânt a izbucnit
+Si într-un gând au alergat
+Către Pruncul iubit
+
+[order]
+r1,s1,r1,s2,r1,s3,r1

@@ -1,0 +1,31 @@
+[s1]
+1.		Luptă Biserică
+Luptă nu da ’napoi
+Plină de Duhul Sfânt
+Înainte cu avânt.
+1277.            Mi
+
+[r1]
+Cor:	Luptaţi, luptaţi, rugaţi-vă
+De Duhul Sfânt umpleţi-vă
+Pe Domnul Isus aşteptaţi
+Cu dragoste vă îmbrăcaţi
+Luptaţi, vegheaţi, rugaţi-vă
+De Duhul Sfânt umpleţi-vă
+În Domnul azi vă întăriţi
+În rugăciune stăruiţi.
+
+[s2]
+2.		Luptă Biserică
+Prin vânt furtuni şi greu
+Isus este cu noi
+Nici un pas nu da ’napoi.
+
+[s3]
+3.		Luptă Biserică
+Spre cer mereu priviţi
+Iar dacă lupta-i grea
+Înapoi noi nu vom da.
+
+[order]
+s1,r1,s2,r1,s3,r1

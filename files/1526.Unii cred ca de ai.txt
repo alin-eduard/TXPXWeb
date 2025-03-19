@@ -1,0 +1,49 @@
+[s1]
+1526.
+1. Unii cred că de ai bani
+Poţi să trăieşti mai mulţi ani
+Sau cu bani să-ţi cumperi viaţa
+Minciună fără speranţă
+Eu cred că nu este aşa
+Viaţa n-o poţi cumpăra
+Nici cu aur nici palate
+Că rămâne de om toate
+
+[r1]
+Cor: Omul este ca o floare
+Dar nu stă e trecătoare
+Când vine iarna îngheaţă
+Ca omul când n-are viaţă.
+
+[s2]
+2. Cât ţi-e scris atât trăieşti
+N-ai cum să te-mpotriveşti
+Viaţa doar un sfârşit are
+Nu e marfă de vânzare
+Aţi văzut regi împăraţi
+Nici ei nu au fost iertaţi
+De-ar fi fost să facă piaţă
+N-ar fi murit niciodată.
+
+[s3]
+3. Omule care ai bani
+Degeaba îţi faci duşmani
+Că nu trăieşti cât pământul
+Şi ţie îţi vine rândul
+Cât trăieşti să fii om bun
+Că doar faptele rămân
+Mai târziu sau mai aproape
+Toţi suntem datori cu o moarte.
+
+[s4]
+4. Dar dacă ai o nădejde
+Măi omule nu ai ce pierde
+Comoara să-ţi fie sus
+Lângă Mirele Isus
+Ce ţi-ai dat cu mâna ta
+Doar asta te va urma
+De-ai făcut bine sau rău
+Va judeca Dumnezeu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

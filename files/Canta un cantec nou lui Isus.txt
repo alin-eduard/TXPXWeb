@@ -1,0 +1,14 @@
+[s1]
+Cântă-un cântec nou lui Isus
+Toată lumea cântă Domnului
+Cântă-un cântec nou lui Isus
+Toată lumea cântă Domnului
+
+[s2]
+Doar El e Dumnezeu
+Si demn de laudă
+Doar El e Dumnezeu
+Si demn de laudă
+
+[order]
+s1,s2

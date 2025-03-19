@@ -1,0 +1,51 @@
+[s1]
+448.
+1.Dacă ai hotărât Tu Doamne
+Să mergem pe drumul care
+Altădată, o, Isuse
+Era plin de amar şi jale.
+
+[r1]
+Cor:Să iubim dar să iubim
+Niciodat’ să nu urăm
+Pân' la moarte dacă-i cazul
+Şi viaţa ne-o jertfim.
+
+[s2]
+2.Dacă ai hotărât, o, Doamne
+Să zburăm ca porumbelul
+Te rugăm acum pe Tine
+Ia-ne şi ne dă drapelul.
+
+[s3]
+3.Dacă ţi-am sluji Părinte
+Astăzi mai mult ca înainte
+Izbăvire ne vei da
+Binecuvântarea Ta.
+
+[s4]
+4.Dacă Tu doreşti aşa
+Facă-ţi-se voia Ta
+Scapă-ne de duhuri rele
+Ca să nu aibă putere.
+
+[s5]
+5.Unii sunt numai de formă
+Pe Duhul Sfânt nu-l bagă în seamă
+Şi mai fac şi un lucru rău
+Urând pe aproapele său.
+
+[s6]
+6.Fă să-mi crească în piept iubirea
+Să iubim ca niciodată
+Şi să ne dăm şi viaţa
+Dacă asta ne aşteaptă.
+
+[s7]
+7.Şi astfel, o, Isuse Doamne
+Noi vom propăşi pe cale
+Aşa cum au făcut ei
+Doamne ucenicii Tăi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1

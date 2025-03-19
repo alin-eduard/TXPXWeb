@@ -1,0 +1,22 @@
+[s1]
+/: Leagă-ne, Doamne,
+pe toţi împreună
+Cu lanţuri ce nu pot fi rupte;
+Leagă-ne, Doamne,
+pe toţi împreună,
+O, leagă-ne prin dragoste. :/
+
+[s2]
+/: Este-un singur Domn,
+Este-un singur Fiu,
+Este-un singur Duh,
+De aceea-Ţi cântăm. :/
+
+[s3]
+/: Suntem din Dumnezeu
+Suntem ai Domnului!
+Suntem biruitori
+Căci suntem ai Lui. :/
+
+[order]
+s1,s2,s3

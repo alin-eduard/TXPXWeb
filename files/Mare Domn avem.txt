@@ -1,0 +1,20 @@
+[r2]
+Mare Domn avem,
+Mare Dumnezeu,
+Mare Împărat,
+/: Pe toate le-a creat! :/
+
+[r1]
+Numele Lui e
+Pe-ntreg pământul înălţat.
+Atotputernic
+El lumea întreagă a creat!
+
+[s1]
+Glorie Domnului,
+El e împărat,
+Glorie Domnului,
+/: Pe toate le-a creat! :/
+
+[order]
+r2,r1,s1,r1,r2

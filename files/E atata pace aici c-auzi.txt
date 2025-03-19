@@ -1,0 +1,66 @@
+[s1]
+E-atâta pace aici c-auzi
+Şi mersul stelelor cum cântă
+Şi roua de pe crinii uzi
+Cum picură-n tăcere sfântă
+
+[s2]
+Aşa-ntr-o linişte şi-un har
+Poate-ai să vii, Isuse, iar
+Când nimeni nu s-ar aştepta
+Atunci va fi venirea Ta
+
+[s3]
+E-atâta linişte de sus
+Şi-n toate curge-atâta pace
+De-aud cum mâna Ta, Isus,
+Lumina spicelor desface
+
+[s4]
+4
+Aşa-ntr-o linişte şi-un har
+Poate-ai să vii, Isuse, iar
+Când nimeni nu s-ar aştepta
+Atunci va fi venirea Ta
+
+[s5]
+E-atâta linişte aici
+De parcă-s toate-n aşteptare
+În taina unei sfinte frici
+Iubirea inimii tresare
+
+[s6]
+6
+Aşa-ntr-o linişte şi-un har
+Poate-ai să vii, Isuse, iar
+Când nimeni nu s-ar aştepta
+Atunci va fi venirea Ta
+
+[s7]
+E-atâta liniste că simt
+Cum duhul rugăciunii zboară
+Şi-n taina unei sfinte rugi
+O pace sfântă mă-nfăşoară
+
+[s8]
+8
+Aşa-ntr-o linişte şi-un har
+Poate-ai să vii, Isuse, iar
+Când nimeni nu s-ar aştepta
+Atunci va fi venirea Ta
+
+[s9]
+O, Doamne-acum, Te rog, să-mi ţii
+Fiinţa în veghere-ncinsă
+Ca-n orice strajă-ar fi să vii
+Să-mi afli candela aprinsă.
+
+[s10]
+10
+Aşa-ntr-o linişte şi-un har
+Poate-ai să vii, Isuse, iar
+Când nimeni nu s-ar aştepta
+Atunci va fi venirea Ta
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

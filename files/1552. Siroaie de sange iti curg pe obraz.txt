@@ -1,0 +1,33 @@
+[s1]
+1552.
+1. Şiroaie de sânge îţi curg pe obraz
+Şi-n ochii Tăi lacrimi se ascund
+Sub lemnul durerii Tu suferi şi-l duci
+Iar spinii în carne-Ţi pătrund.
+
+[r1]
+Cor: Adâncă-i durerea ce-n suflet o strângi
+Urcuşul Golgotei e greu
+/: Iar cel pentru care Tu suferi şi plângi
+Isuse Isuse sunt eu :/
+
+[s2]
+2. Sub ploaia cumplită a pumnilor grei
+Te rogi pentru cei ce Te bat
+Părinte ai milă de duşmanii mei
+Şi iartă-i că nu ştiu ce fac.
+
+[s3]
+3. Tu om al durerii de toţi părăsit
+Pe cruce Te stingi luminând
+A morţii putere prin moarte ai zdrobit
+În lume nădejde aducând.
+
+[s4]
+4. Isuse la Tine mă-ntorc azi căit
+Şi ştiu că Tu n-o să mă cerţi
+Eu omul cel josnic ce atunci Te-am lovit
+Plângând azi Te rog să mă ierţi.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

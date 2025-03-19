@@ -1,0 +1,22 @@
+[s1]
+Eu intru in sfanta prezenta,
+A Celui ce este Stapan.
+Stapan peste-ntreaga-mi fiinta
+Ii cant Il ador Il iubesc
+
+[r1]
+/: Doamne eu ma inchin
+Eu ma inchin :/
+/:Fiindca Tu esti sfant
+Tu esti sfant
+Fiindca Tu esti sfant
+Domnul meu.:/
+
+[s2]
+Esti mare-n intraga lume
+Esti mare si in viata mea.
+Cand mana-Ti intinzi Tu atuncea,
+Am pace in inima mea
+
+[order]
+s1,r1,s2,r1

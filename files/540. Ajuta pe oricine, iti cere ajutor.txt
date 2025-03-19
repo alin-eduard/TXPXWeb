@@ -1,0 +1,51 @@
+[s1]
+1. Ajută pe oricine, îţi cere ajutor
+Nu spune niciodată,
+Nu pot nu sunt dator
+Ajută pe oricine şi nu fă judecată
+Şi n-aştepta aicea,
+Să-ţi vină vreo răsplată.
+540.      Re
+
+[s2]
+2. Îmbracă-l şi hrăneşte-l
+Pe omul cel flămând
+Nicicând să nu pretinzi
+Răsplata pe pământ
+Zadarnică-i trudirea
+Zadarnică-i şi fapta
+De vrei în schimb iubirea
+De vrei în schimb răsplata.
+
+[s3]
+3. De-ai dat ceva tu dă
+Şi împlineşte-ţi fapta
+Să nu ştie şi stânga
+Ce a făcut şi dreapta
+Tu vei privi cu ochii
+La masa ta bogată
+Şi nu vei sta cerşind
+La poarta încuiată.
+
+[s4]
+4. Căci Domnul cel din ceruri
+Va îngriji să poţi
+Să dărui fără plată
+În inimă ce porţi
+Umplută-ţi va fi viaţa
+Cu cinste şi cu har
+Şi cerul pentru tine
+Nu va avea hotar.
+
+[s5]
+5. Te vei întâlni cu acestea
+La marea judecată
+Când pe cântar cu milă
+Va fi pusă a ta faptă
+Atunci vedea-vei totul
+Ce n-ai cuprins în minte
+Când Domnul îţi va da
+Răsplata ca Părinte.
+
+[order]
+s1,s2,s3,s4,s5

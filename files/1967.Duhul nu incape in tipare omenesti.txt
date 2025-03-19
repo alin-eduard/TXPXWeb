@@ -1,0 +1,23 @@
+[s1]
+1967
+1. Duhul nu încape în tipare omeneşti
+El aduce-n sine stările Dumnezeieşti
+/: Adevăru-i unic el coboară întreg şi lin
+În fiinţa care s-a născut din nou divin :/.
+
+[s2]
+2. Duhul nu-i din lume ea nu-l poate azi primi
+El e adevărul, ea-i minciună oricum ar fi
+/: Duhu-i mângâiere lumea-i desnădejde grea
+Starea lui e pacea, starea ei e tot mai rea :/.
+
+[s3]
+3. Duhul nu încape în tiparele de jos
+El renaşte-n inimi
+Chipul Domnului Hristos
+/: Să umblăm prin Duhul
+Toată vremea pe pământ
+Pentru bucuria Dumnezeului prea sfânt :/
+
+[order]
+s1,s2,s3

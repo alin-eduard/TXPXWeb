@@ -1,0 +1,34 @@
+[s1]
+1784.
+1. Strigaţi de bucurie către Domnul
+Toţi locuitorii pământului
+Slujiţi Domnului cu bucurie
+Veniţi cu veselie `naintea Lui
+Cor:	/:Aleluia, Aleluia, Aleluia
+Aleluia, Aleluia, Aleluia
+Voi cânta şi voi lăuda pe El:/
+
+[s2]
+2. Să ştiţi că Domnul este Dumnezeu
+El ne-a făcut, ai Lui suntem
+Noi suntem poporul Lui
+Şi turma păşunii Lui
+Intraţi cu laude pe porţile Lui
+Intraţi cu cântări în cinstea Lui
+Cor:	/:Aleluia, Aleluia, Aleluia
+Aleluia, Aleluia, Aleluia
+Voi cânta şi voi lăuda pe El:/
+
+[s3]
+3. Lăudaţi-L
+Şi binecuvântaţi-I numele Lui
+Căci Domnul este bun
+Bunătatea Lui ţine în veci
+Şi credincioşia Lui
+Din neam în neam
+Cor:	/:Aleluia, Aleluia, Aleluia
+Aleluia, Aleluia, Aleluia
+Voi cânta şi voi lăuda pe El:/
+
+[order]
+s1,s2,s3

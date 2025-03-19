@@ -1,0 +1,42 @@
+[s1]
+2086
+1. Pe acest pământ murdar
+Trăim prin al Tău har
+Trăim doar prin credință-n
+brațul Tău
+Doar în puterea Ta
+Ne-am pus încrederea
+Și ′naintăm oricât ar fi de greu...
+
+[r1]
+Cor: /: Cu Tine biruim :/
+Cu Tine biruim pe cel rău
+Și biruitori sus mai sus de nori
+Ne vom înălța învingători
+
+[s2]
+2. În această lume rea
+Trăim prin jertfa Ta
+Luptăm cu răul pentru slava Ta
+Luptăm pân′ la sfârșit
+Căci Tu ne-ai mântuit
+Din moarte și păcat ne-ai izbăvit.
+
+[s3]
+3. Cu Tine și prin greu
+Cu noi ești Dumnezeu
+Chiar dacă-i drumul greu
+și lumea rea
+Chiar dacă-n suferinți
+Noi vrem să nu cârtim
+Și pentru toate
+Ca să-Ți mulțumim.
+
+[s4]
+Cor: /: Cu Tine biruim :/
+Cu Tine biruim pe cel rău
+Și biruitori sus mai sus de nori
+Ne vom înălța învingători.
+
+[order]
+s1,r1,s2,r1,s3,s4

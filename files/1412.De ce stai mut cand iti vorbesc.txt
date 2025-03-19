@@ -1,0 +1,36 @@
+[s1]
+1.	De ce stai mut când îţi vorbesc
+Şi nu mă mustri când greşesc
+De ce mi-e cerul nepătruns
+De ce de mine te-ai ascuns
+De ce nu-mi dai Doamne răspuns.
+Cor:	O unde eşti o unde eşti
+De ce nu poţi să mă priveşti
+Ştiu c-am greşit şi-mi pare rău
+Dar ştiu că mare-i harul Tău.
+1412.
+
+[s2]
+2.	De atâta vreme-s în cuptor
+Ard şi n-am nici un ajutor
+Vrei oare să mă curăţeşti
+Sau poate să mă nimiceşti
+Sau aşa îmi spui că mă iubeşti.
+Cor:	O unde eşti o unde eşti
+De ce nu poţi să mă priveşti
+Ştiu c-am greşit şi-mi pare rău
+Dar ştiu că mare-i harul Tău.
+
+[s3]
+3.	Te rog frumos Stăpânul meu
+Prea Sfânt şi mare Dumnezeu
+Smerit plecat umil supus
+Vin în numele lui Isus
+Fă ruga mea s-ajungă sus.
+Cor:	O unde eşti o unde eşti
+De ce nu poţi să mă priveşti
+Ştiu c-am greşit şi-mi pare rău
+Dar ştiu că mare-i harul Tău.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,38 @@
+[s1]
+Se-apropie Lumina
+O, nu te da învins!
+/: Ai candela aprinsă
+şi mijlocul încins! :/
+
+[s2]
+Se-apropie izbânda
+O, nu cădea înfrânt!
+/: Tu porţi un nume mare
+şi ai un legământ. :/
+
+[s3]
+Se-apropie cununa
+Mai luptă-te puţin!
+/: Curând, vor trece norii
+şi-n veci va fi senin. :/
+
+[s4]
+Se-apropie-Ajutorul
+Întâmpină-L în drum!
+/: Veghează şi te roagă
+să nu cazi chiar acum! :/
+
+[s5]
+Se-apropie răsplata
+Lucrează mai cu spor!
+/: Se-apropie cununa
+s-o porţi biruitor! :/
+
+[s6]
+Se-apropie Stăpânul
+Să-L poţi întâmpina!
+/: Ferice robul care
+va fi găsit aşa. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,8 @@
+[s1]
+Vino Te cheamă Dumnezeu
+De dragostea ta s-a jertfit Fiul Său
+Vino El te-a răscumpărat
+Poţi să fii azi iertat
+
+[order]
+s1

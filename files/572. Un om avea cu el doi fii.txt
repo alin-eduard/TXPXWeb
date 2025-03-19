@@ -1,0 +1,116 @@
+[s1]
+1. Un om avea cu el doi fii
+În casa părintească, dar iată într-o zi
+Cel mic se hotărî, în lume să pornească.
+Iar tatălui i-a zis,
+Dă-mi tot ce mi-ai promis.
+Eu vreau să plec în lume
+Sunt mare pot trăi, ştiu bine a chibzui
+Eu plec azi de la tine.
+/: Vreau să fiu stăpân pe mine
+Să-mi petrec viaţa-n bine,
+Deci nu mă ţinea
+Căci eu nu voi sta de azi tată în casa ta.
+572.
+
+[s2]
+2. O, fiul meu tatăl i-a zis
+Tu pleci în ţări străine
+Şi când se va-ntâmpla,
+Să-ţi fie viaţa grea
+Să-ţi aminteşti de mine.
+Şi îndată de vei vrea, să vii în casa mea
+Nimic să te oprească, când tu vei reveni
+Odihnă vei găsi, în casa părintească.
+/: Căci mă doare fiul meu
+Că apuci pe drumul rău
+Ia-ţi deci avutul eu nu ţi-l opresc
+Dar să ştii că te iubesc. :/
+
+[s3]
+3. El a plecat precum a zis
+În lumea-ndepărtată
+Şi tot avutul sfânt, curând l-a risipit
+În viaţa cea stricată.
+Când totul a sfârşit, nimic ne mai având
+Atunci o foame mare
+În ţară a venit şi fu din greu lovit
+N-avea nimic mâncare.
+/: Strâmtorat din cale afară
+El era silit să moară
+Tare chinuit se văzu silit
+Ca porcar a fi primit. :/
+
+[s4]
+4. El ar fi vrut şi mult dorea
+Să-şi astâmpere foamea
+Cu roşcove măcar, dar nu mai rămânea
+Mărindu-şi mai mult foamea.
+Dar iată într-o zi, deodată se trezi
+El şi-a venit în fire, nici slugi la tatăl meu
+N-o duc aşa de greu,
+Ei au belşug de pâine.
+/: Ah, de dor mă prăpădesc
+După căminul ceresc
+Vreau chiar acum
+Spre el ca să pornesc
+Loc de slugă să-mi găsesc. :/
+
+[s5]
+5. Şi el a zis mă voi scula
+Să plec în a mea ţară
+Ah, şi cât aş vrea, şi dacă s-ar putea
+Să fiu reprimit iară.
+A zis şi hotărât, spre tatăl a pornit
+Într-un amurg de seară,
+Şi parcă nu credea
+Că-n felul cum era, c-ar fi reprimit iară.
+/: Când pe cale el mergea
+Nici prin gând lui nu-i trecea
+Căci tatăl său cu drag îl aştepta
+Gata a-l întâmpina. :/
+
+[s6]
+6. Pe când departe el era
+Nici să-i vie în minte
+Căci poate cineva era
+Deja gata să-i iasă înainte.
+Cu drag l-a îmbrăţişat,
+Sărutându-l fierbinte
+Zicând copilul meu, sunt încă tatăl tău
+O, iubit fiul meu, de ce n-ai fost cuminte
+/: În ziua când ai plecat
+Adânc am fost îndurerat
+Pierdut ai fost dar astăzi te-am aflat
+Eşti ca din morţi înviat. :/
+
+[s7]
+7. Sărmanul suflet amărât
+N-ar fi putut să creadă
+Chiar dacă i-ar fi spus, oricât de hotărât
+C-ar fi reprimit iară.
+Dar fu convins acum, că tatăl său e bun
+Adânc se înfioară
+Şi fără a se sfii adânc mărturisi
+La marea lui greşeală.
+/: Nu sunt bun Tată ceresc
+Fiul Tău să mă numesc
+Şi tot avutul meu
+L-am risipit în păcate pe pământ. :/
+
+[s8]
+8. Dar tatăl său nu l-a mustrat
+Nici n-a ţinut în seamă
+De-al fiului păcat, şi porunceşte îndată
+Aduceţi-mi degrabă.
+Veşmântul cel mai bun,
+Aduceţi-i ca să-i pun
+Şi ghete în picioare, tăiaţi imediat
+Viţelul îngrăşat să-i facem de mâncare.
+/: Astăzi să ne bucurăm
+Cu drag să ne îmbrăţişăm
+Căci fiul meu pierdut, astăzi s-a aflat
+E ca din morţi înviat. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

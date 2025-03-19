@@ -1,0 +1,53 @@
+[s1]
+812.
+Vine ziua de pe urmă fraţilor
+Vine, vine ziua răsplătirilor
+Când vom sta faţă în faţă
+Cu tot ce am făcut în viaţă
+Vine ziua răsplătirilor.
+
+[s2]
+2. În curând vine ziua Domnului
+Când va trebui
+Să stăm 'naintea Lui
+Când vom sta la judecată
+Pentru a noastra vorbă, faptă
+Oare cum vom sta 'naintea Lui.
+
+[s3]
+3. Ne-am ales să facem
+Voia Domnului
+Şi am umblat smeriţi
+după cuvântul Lui
+Vom auzi cu iubire
+Veniţi fiilor la Mine
+Vom auzi glasul Domnului
+
+[s4]
+4. Veniţi binecuvântaţii Tatălui
+Moşteniţi de acum Împărăţia Lui
+Care v-a fost pregătită
+De Domnul Isus promisă
+Pentru că aţi crezut în jertfa Lui.
+
+[s5]
+5. Vine ziua de pe urmă fraţilor
+Când cei sfinţi se vor înălţa
+spre Domnul lor
+Iar cei ce au respins chemarea
+Mielului ce dă salvarea
+Vor plânge în vecii vecilor.
+
+[s6]
+6. Veniţi fraţilor ca să ne pocăim
+Să avem parte de Domnul,
+Să-L întâlnim
+Când îşi va răpi mireasa
+Pentru El noi să fim gata
+Şi pe norul alb să-L întâlnim
+Şi cu cei dragi din morminte
+Să zburăm spre plaiuri sfinte
+Spre căminul pe care-l dorim.
+
+[order]
+s1,s2,s3,s4,s5,s6

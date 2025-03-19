@@ -1,0 +1,42 @@
+[s1]
+Un pribeag am fost cândva
+Pe un drum lung am rătăcit
+Nehotărât, însingurat
+Şi ostenit.
+Adeseori, prin ploi şi vânt
+Zdrobit cădeam sub poala lor
+Şi în zadar eu aşteptam
+Un Salvator.
+
+[r1]
+Dar Isus se arătă
+Şi toate pier în faţa Lui
+Şi stânci şi văi se netezesc
+Sub paşii Lui!
+Pe drumul întunecos
+Lumină sfântă am zărit
+Şi către El mai hotărât
+Eu am păşit.
+
+[s2]
+Prin nisipuri ce mişcau
+Sub soarele dogoritor
+Izvor de apă am zărit
+Amăgitor.
+Dar spini găseam în locul lui
+Şi pieptul însetat mi-era
+Izvorul care-l căutam
+Se-ndepărta.
+
+[s3]
+Vârtejul lumii m-a-amăgit
+Robit de patimi, subjugat
+Am pribegit mulţi ani în lumea
+De păcat.
+Căutam aici un Paradis
+Crezând că pot fi fericit
+Dar înşelat am fost de vis
+Şi amăgit.
+
+[order]
+s1,r1,s2,r1,s3,r1

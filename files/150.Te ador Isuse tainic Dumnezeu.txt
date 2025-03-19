@@ -1,0 +1,48 @@
+[s1]
+150
+1. Te ador Isuse tainic Dumnezeu
+Taina aceasta sfântă e locaşul meu.
+Inima întreagă Ţie ţi-o jertfesc
+Căci sub valul păcii
+Dornic Te privesc.
+
+[s2]
+2. Simţurile mele Tu le ştii acum
+Singura credinţă tainic m-a pătruns
+Cred tot ce mi-ai spus
+Tu Fiule întrupat
+Că Tu eşti cuvântul cel adevărat.
+
+[s3]
+3. Rănile ca Toma Doamne nu le văd
+Dar pe Tine Domn
+Și Dumnezeu Te cred
+O Isuse Doamne Miel însângerat
+Spală al meu suflet de orice păcat.
+
+[s4]
+4. Căci din al Tău sânge
+Chiar un singur strop
+Poate ca să spele rănile potop
+O Isuse Doamne,
+Domn şi Dumnezeu
+Împlineşte-mi dorul sufletului meu.
+
+[s5]
+5. Dă-mi credinţă vie
+Ţie să-Ţi slujesc
+Cu credinţă vie Ţie să-Ţi urmez
+O Isuse Doamne,
+Domn şi Dumnezeu
+Împlineşte-mi dorul
+Sufletului meu.
+
+[s6]
+6. Fă să cadă valul de pe faţa mea
+Şi în veşnicie să Te pot vedea
+Cred tot ce mi-ai spus
+Tu Fiule întrupat
+Căci Tu eşti cuvântul cel adevărat.
+
+[order]
+s1,s2,s3,s4,s5,s6

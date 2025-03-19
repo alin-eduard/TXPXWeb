@@ -1,0 +1,35 @@
+[s1]
+Mult aş vrea ca să ajung
+Mult aş vrea, cît mai curînd
+Clipa-aceea cînd pe El
+Îl voi vedea.
+Să-nţeleg de ce atît
+A iubit acest Pămînt
+Şi pe mine de ce m-a iubit aşa.
+
+[r1]
+/: Eu Te aştept, Isus
+Şi-Ţi pregătesc un dar frumos
+inima mea !
+Eu Te iubesc, Isus
+Din ziua cînd mi-ai dăruit
+dragostea Ta ! :/
+
+[s2]
+Aş vrea lumea s-o adun
+Despre Tine să le spun
+Că eşti dragoste şi harul minunat.
+Că-ai murit şi pentru ei
+Şi în ceruri Tu îi vrei
+Şi atunci vor înţelege slava Ta.
+
+[s3]
+Aş vrea cu Tine să fiu
+Lîngă Tine să mă ştiu
+Aici jos şi sus în ceruri, pururea.
+Aş vrea ca fiinţa mea
+Să mărească slava Ta
+Aici jos şi sus în ceruri, pururea.
+
+[order]
+s1,r1,s2,r1,s3,r1

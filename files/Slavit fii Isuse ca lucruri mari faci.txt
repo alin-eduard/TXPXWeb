@@ -1,0 +1,32 @@
+[s1]
+Slăvit fii Isuse, că lucruri mari faci!
+La Tine pe oameni cu drag îi atragi!
+Prin jertfa măreaţă, Tu viaţă ne-ai dat;
+Şi cerul Tău Doamne, ni l-ai descuiat.
+
+[r1]
+Îl slăviţi pe Isus, slava Lui o cântaţi!
+Îl slăviţi pe Isus, şi pe veci Lui vă daţi!
+La Tatăl veniţi prin Isus Fiul Său;
+Primiţi mântuirea, primind harul Său
+
+[s2]
+Ce mare salvare la toţi ni s-a dat!
+Şi ce mântuire, prin sânge vărsat!
+Să crezi în jertfirea lui Isus, găseşti
+Iertare şi pace: Pe veci le primeşti!
+
+[s3]
+Ce dragoste mare, venită de sus!
+Şi ce fericire să fii cu Isus!
+Dar cea mai slăvită din stări ne va fi:
+În cer pe Isus în veci Îl vom sluji.
+
+[s4]
+Îl slăviţi pe Isus, slava Lui o cântaţi!
+Îl slăviţi pe Isus, şi pe veci Lui vă daţi !
+La Tatăl veniţi prin Isus Fiul Său;
+Primiţi mântuirea, primind harul Său
+
+[order]
+s1,r1,s2,r1,s3,s4

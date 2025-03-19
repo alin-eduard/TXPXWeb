@@ -1,0 +1,52 @@
+[s1]
+2111
+1. /: Eu sunt Alfa şi Omega :/
+Domnul Isus a zis
+Începutul şi sfârşitul este Dumnezeu
+Nu e altul pe pământ şi în cer.
+/: Eu sunt Alfa şi Omega :/
+Domnul Isus a zis.
+
+[s2]
+Cor: Iată, Eu vin curând
+Zice Domnul,iată
+Răsplata voastră e cu Mine
+Voi da, la fiecare după plată
+În curând, curând.
+
+[s3]
+2. /:Cine-i sfânt, să se sfinţeasc :/
+Domnul Isus a zis.
+Căci afară vor rămâne
+Toţi cei mincinoşi
+Şi acei ce sunt necredincioşi.
+/: Cine-i sfânt, să se sfinţească :/
+Domnul Isus a zis.
+
+[r1]
+Cor: Iată, Eu vin curând
+Zice Domnul, iată
+Răsplata voastră e cu Mine
+Voi da, la fiecare după plată
+În curând, curând.
+
+[s4]
+3. /: Cei setoşi să vină astăzi :/
+La Isus şi să bea!
+Hainele în sfântul sânge
+Să vi le spălaţi,
+Apa vieţii în dar să căpătaţi!
+Cei setoşi să vină astăzi
+La Isus şi să bea
+
+[s5]
+4. /: Domnul vine, Maranata :/
+Amin, Aleluia!
+Duhul şi Mireasa strigă:
+Vino, Isuse!
+Mântuiţii strigă: Glorie!
+/: Domnul vine, Maranata :/
+Amin, Aleluia!
+
+[order]
+s1,s2,s3,r1,s4,r1,s5,r1

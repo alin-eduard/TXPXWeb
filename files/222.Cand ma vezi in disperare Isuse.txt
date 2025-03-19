@@ -1,0 +1,105 @@
+[s1]
+1.Când mă vezi în disperare Isuse
+Când puterea mea
+Şi corpul slăbeşte
+Valurile încep să cadă şi furtuna
+Ca să bată
+Luntrea vieţii mele iară tremură.
+222.
+
+[s2]
+2. Cel ce ai putere
+Mare-n ceruri sus
+Şi-al Tău nume onorat este Isus
+Zi numai dar cu cuvântul
+Şi alină marea şi vântul
+Ca să pot s-ajung
+Şi eu în ceruri sus.
+
+[s3]
+3. Malul se vede
+Cu flori în depărtări
+Gândul şi sufletul meu
+E către cer
+Dar prin valurile mării
+Se ivesc multe balene
+Inimioara mea fricoasă tremură.
+
+[s4]
+4.Măreşte-mi a mea nădejde Isuse
+Să nu mă-ndoiesc
+Ca Toma-n credinţă
+Căci Tu fericeşti pe acela
+Ce crede-n lucrurile scrise
+Pentru el uşa la ceruri
+S-a deschis.
+
+[s5]
+5.Calea-i plină de necazuri şi dureri
+Şerpi, balauri, lei sălbatici
+Câţi nu vrei
+Stau la pândă toţi grămadă
+Cum mă văd să se repeadă
+Isuse nu mă lăsa muşcat de ei.
+
+[s6]
+6.Dacă ne urăşte lumea azi pe noi
+Tu răbdata-i spini
+Şi cuie pentru noi
+Îţi ardea inima-n Tine
+Sus pe crucea răstignirii
+Ţi-a fost sete
+Şi ţi-a dat oţet să bei.
+
+[s7]
+7. Faţa ţi-a fost pălmuită de iudei
+Te-au bătut cu bice multe farisei
+Alţii te băteau cu pumnii
+Erai batjocura lumii
+Pentru mine-un rătăcit
+Şi-un păcătos.
+
+[s8]
+8. Uni-Ţi împleteau cununa Isuse
+Alţii Te legau cu funii de cruce
+Ai dus crucea Ta în spate
+Pentru a mele păcate
+Ţi-ai dat viaţa
+Şi-ai murit pe Golgota.
+
+[s9]
+9. Cum să-ţi mulţumesc
+Isuse ce-ai făcut
+Căci mi-ai dat Tu mângâierea
+Ce-am cerut
+Iată-ţi dau a mea inimă
+De Duh Sfânt Tu fă-o plină
+Să trăiesc în Templul Tău,
+Ah doresc eu.
+
+[s10]
+10. În Împărăţia Ta să mă strămuţi
+Şi Te rog Isuse drag să nu mă uiţi
+M-ai scăpat de la pierzare
+Fiindcă mult Tu m-ai iubit
+Şi pe cruce pentru mine ai murit.
+
+[s11]
+11. Ah Te rog de azi-nainte să m-ajuţi
+Şi cu ochii Tăi miloşi să te uiţi
+Să nu duc lipsă de pâine
+Să trăiesc de azi pe mâine
+Până ce-o s-ajung la Tine
+Mai curând.
+
+[s12]
+12. Fă-mă lumină şi sare pe pământ
+Că mi-i scurtă viaţa
+Până la mormânt
+Dă-mi Te rog haina de nuntă
+Şi după mine Te uită
+Căci uşor îmi pierd dreptul
+De întâi născut.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12

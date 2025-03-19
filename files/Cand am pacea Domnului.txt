@@ -1,0 +1,34 @@
+[s1]
+Când am pacea Domnului
+in viaţa mea
+De vifor eu nu sunt răpus.
+Iar inima mea tot aşa va cânta
+Bine e, bine e în Isus!
+
+[r1]
+Bine e în Isus!
+Bine e, bine e în Isus!
+
+[s2]
+Chiar dacă cel rău
+Să mă­nfrice ar vrea,
+Mă­ncred în Divinul cuvânt.
+Isus a plătit la Calvar vina mea
+Şi curat sunt prin sângele sfânt.
+
+[s3]
+Povara păcatului El mi­a luat,
+Din groapa pieirii m­a scos.
+Acum eu sunt liber,
+Prin har sunt iertat
+Şi­L slăvesc pe Isus bucuros.
+
+[s4]
+Aştept, Doamne,
+Ziua când vei reveni,
+Când trâmbiţa va răsuna;
+În slavă pe nori faţa Ta voi vedea
+Şi­al meu suflet atunci va cânta:
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

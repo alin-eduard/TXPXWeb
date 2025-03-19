@@ -1,0 +1,22 @@
+[s1]
+Tu eşti vrednic, Tu eşti vrednic,
+Slavă, cinste să-Ţi dăm!
+Tu eşti vrednic de-nchinare
+Şi Te adorăm!
+Căci Tu ai creat universul şi omul,
+Şi viaţă din Tine primim;
+Tu eşti vrednic să-Ţi dăm slavă
+Şi să-Ţi mulţumim!
+
+[s2]
+Tu eşti vrednic, Tu eşti vrednic,
+Slavă, cinste să-Ţi dăm!
+Tu eşti vrednic de-nchinare
+Şi Te adorăm!
+Căci Tu ai murit la Golgota pe cruce,
+Iertare deplină ne-ai dat;
+Tu eşti vrednic să-Ţi dăm slavă,
+Să fii adorat!
+
+[order]
+s1,s2

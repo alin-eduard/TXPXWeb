@@ -1,0 +1,31 @@
+[s1]
+Azi e ziua împlinirii
+Visului ce l-aţi primit
+Implinindu-se în viaţă
+Prin Isus cel care v-a unit
+Iar noi vă privim cu dragoste
+Si dorim să aveţi din plin
+unitate-n căsnicie
+Si zile doar cu cer senin
+
+[r1]
+Să păstraţi prietenia
+Dragostei ce-i din Hristos
+Si iubindu-vă în unire
+Să rămâne-ţi credincioşi
+In viaţă să aveţi
+Pacea dragostei cereşti
+In Isus Hristos să fiţi nedespărţiţi.
+
+[s2]
+Domnul dragostei sa fie
+Sprijin si-ajutor pe drum
+Si in orisice-ncercare
+El va fie Tata bun
+Iar cand crucea-i grea si-ati obosit
+Si genunchii v-au slabit
+Sa priviti in sus la Isus
+Si izbavirea veti primi
+
+[order]
+s1,r1,s2,r1

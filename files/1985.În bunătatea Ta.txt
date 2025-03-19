@@ -1,0 +1,34 @@
+[s1]
+1985
+1. În bunătatea Ta
+Faci să răsară soarele
+În bunătatea Ta
+Ne răcoresc izvoarele
+În bunătatea Ta
+Tu ne dai pâine zi de zi
+O Domnul nostru bun
+În veci de veci lăudat să fii.
+
+[s2]
+2. În bunătatea Ta
+Tu ne-ai dat pace pe pământ
+Şi ne-ai umplut de har
+Şi bucurii prin Duhul  Sfânt
+În bunătatea Ta
+Tu ne-ai iubit Doamne nespus
+Şi pentru a ne salva
+Ni l-ai trimis chiar pe Isus.
+
+[s3]
+3. În bunătatea Ta
+Aş vrea şi eu acum să spun
+Cum m-ai iertat
+Şi-ai fost cu mine atât de bun
+De bunătatea Ta
+Voi spune orişicui mereu
+Şi-o viaţă-ţi voi cânta
+Măreţ şi veşnic Dumnezeu
+Măreţ şi veşnic Dumnezeu.
+
+[order]
+s1,s2,s3

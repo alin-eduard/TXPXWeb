@@ -1,0 +1,27 @@
+[s1]
+Printre stele se iveste o sperantă,
+Ce coboară pe pământ, si-i plin de viată.
+/: Oamenii se îmbulzesc,
+bolnavi se tămăduiesc;
+Aleluia! Regelui ceresc. :/
+
+[s2]
+/:Isus, speranta vietii, Isus roua diminetii,
+Isus e rege pe pământ.
+Isus bucuria mea, Isus e nădejdea ta;
+Aleluia! Lui îi vom cânta. :/
+
+[s3]
+O sperantă pentru omul părăsit,
+Este Domnul care mult ne-a iubit
+/: Căci prin marea-I bunătate, sterge gresuri si păcate,
+Aleluia! Mielului Divin. :/
+
+[s4]
+/:Isus, speranta vietii, Isus roua diminetii,
+Isus e rege pe pământ.
+Isus bucuria mea, Isus e nădejdea ta;
+Aleluia! Lui îi vom cânta.:/
+
+[order]
+s1,s2,s3,s4

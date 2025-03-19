@@ -1,0 +1,54 @@
+[s1]
+În vis pare că mă vedeam eu stînd
+La marea ce lin murmura
+Văzui mulţime de popor urmînd
+Un străin din Galilea.
+Văzui cum omul ce orb s-a născut
+La moment primi vederea
+Iar pe bolnav sănătos l-a făcut
+Străinul din Galilea.
+
+[r1]
+Simţeam că-n etern L-aş fi iubit
+Aşa blînd şi bun era El !
+Şi-atunci ca Salvator L-am primit
+Pe acel Galilean.
+
+[s2]
+Blînda-I privire şi-a Lui iubire
+Neuitate vor rămînea
+Cînd mort în păcate acol, m-a aflat
+Străinul din Galilea.
+Mîinile străpunse mi le-a-arătat
+Zicînd: Pentru tine-am răbdat!
+Şi-atunci am căzut la picioarele
+Străinului Galilean.
+
+[s3]
+El pace grăi la valuri şi vînt
+Turbate ca pe un ocean
+Toate se supuseră la un cuvînt
+Străinului Galilean.
+O linişte şi pace deplină
+Acum e în inima mea
+Şi-a mea viaţă o ţine-n mînă
+Străinul din Galilea.
+
+[s4]
+Voi, cei goniţi şi de valuri mînaţi
+Veniţi şi vedeţi salvarea !
+Furtuna vieţii va linişti
+Străinul din Galilea.
+El mă trimite de ştire a da
+Binele ce tu-l vei avea
+Dacă vei lăsa în viaţa ta
+Străinul din Galilea.
+
+[s5]
+/: O, amice, nu L-ai iubi pe veci?
+Aşa blînd şi bun este El!
+Primeşte-L deci azi ca Salvator
+Pe acest Galilean! :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5

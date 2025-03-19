@@ -1,0 +1,37 @@
+[s1]
+Numai Tu, Doamne, poţi viaţă să dai
+Presară peste mine flori de Rai
+Să rodească-n mine jertfa
+Din Golgota
+Nimeni ca Tine n-a iubit mai mult
+Ţi-ai dat viaţa pentru-ntreg pământ
+Mâna Ta, iubite tată mă va purta.
+
+[r1]
+Nu voi putea-nţelege niciodată
+Cât de mult Tu m-ai iubit
+Cum din mărire-n mila Ta de Tată, Fiul Slavei ai jertfit
+Cum iubirea Ta mare revarsă
+Puterea de-a muri şi a învia
+Smerit eu voi cânta
+Pe veci iubirea Ta.
+
+[s2]
+Puterea Ta mă ține credincios
+Cuvîntul-mi face drumul luminos
+Zi de zi eşti lângă mine,
+De partea mea
+În încercare eşti cu mine mereu,
+Mă duci pe braţe când urcuşul e greu
+Biruinţă am deplină din Mâna Ta.
+
+[s3]
+Cine-i ca Tine Doamne-n univers
+Să lase pacea fără de-nţeles
+În inima zdrobită care Te va chema
+Eşti Singurul ce poate mântui
+Şi binecuvântări a dărui
+celui care vine sincer ‘naintea Ta.
+
+[order]
+s1,r1,s2,r1,s3,r1

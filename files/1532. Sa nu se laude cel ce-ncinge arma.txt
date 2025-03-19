@@ -1,0 +1,33 @@
+[s1]
+1. Să nu se laude cel ce-ncinge arma
+Nici cel ce-n toiul luptei n-oboseşte
+/:Căci de la Domnul noi primi-vom lauda
+Atunci când alergarea se sfârşeşte :/
+1532
+
+[r1]
+Cor: Ce faci, ce spui ?
+Oastea are preţ, da-n ochii cui ?
+Ce eşti, cum faci ?
+Gândeşte-te la cine vrei să placi :/
+
+[s2]
+2. Să nu se laude cel care veghează
+În nopţi târziu la postul ce-a primit
+/: Căci încă n-a trecut a patra strajă
+Când orce vegheator e istovit :/
+
+[s3]
+3. Să nu se laude cel ce cântă imnuri
+Său nălţaţi sus paharul de tămâie
+/: Că nu se ştie dacă-n orce timpuri
+În stare e să cânte nu se ştie :/
+
+[s4]
+4. Să nu te lauzi tu ce lucrezi în vie
+Căci într-o zi stăpânu va veni
+/: Şi ce va spune încă nu se ştie
+Nici ce răsplată atuncia vom primi :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

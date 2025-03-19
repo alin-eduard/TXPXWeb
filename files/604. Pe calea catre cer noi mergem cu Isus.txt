@@ -1,0 +1,51 @@
+[s1]
+1. Pe calea către cer
+Noi mergem cu Isus
+Dorinţa noastră e
+S-ajungem la El sus
+604.     								  Fa
+
+[s2]
+/: Orice s-ar ivi
+Plâns sau bucurii
+Cu Domnul Isus
+Prin El noi vom birui. :/
+
+[s3]
+2. Dar calea este grea
+Şi mare e lupta
+Tu nu descuraja
+Când eşti gata să cazi
+
+[s4]
+/: Strigă la Domnul
+Cere ajutor
+Şi vei putea ieşi
+Prin toate-nvingător.:/
+
+[s5]
+3. Locaşul cel ceresc
+Casa-aceea sfântă
+Ea e pregătită
+Pentru acei aleşi
+
+[s6]
+/: Curăţiţi, sfinţiţi
+Prin sângele Lui
+Noi vom putea intra
+La nunta Mielului. :/
+
+[s7]
+4. Cu ramuri de finic
+În mâini noi vom cânta
+Pe Domnul proslăvind
+Pe Isus Mesia
+
+[s8]
+/: Ce frumos va fi
+Când ne-om întâlni
+Cu Tatăl, cu Isus
+Şi îngerii din cer. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

@@ -1,0 +1,43 @@
+[s1]
+2102
+1. Frați surori porniți cu toți
+la luptă
+Să-L urmăm pe al nostru
+mare Domn
+Și nici unul să nu aibă teamă
+Hai treziți-vă din somn.
+
+[r1]
+Cor: /: Luptă-te întruna
+Sfântă adunare
+Cu Isus vom birui mereu
+Plini de Duhul Sfânt cu-nflăcărare
+Să-L urmăm pe Dumnezeu :/
+
+[s2]
+2. Îmbrăcați cu toată armătura
+Platoșa și râvna-n Dumnezeu
+Scutul coiful sabia în mână
+Mijlocul încins mereu.
+
+[s3]
+Cor: /: Luptă-te întruna
+Sfântă adunare
+Cu Isus vom birui mereu
+Plini de Duhul Sfânt cu-nflăcărare
+Să-l urmăm pe Dumnezeu :/
+
+[s4]
+3. În văzduh vrăjmașul ne atacă
+Leii furioși ne-ar înghiți
+Dar Isus El e tăria noastră
+Noi cu El vom birui
+
+[s5]
+4. Iată Domnul steagul biruinței
+E cu noi așa cum ne-a promis
+Luptă frate ține-te de Domnul
+Căci vrăjmașul e învins.
+
+[order]
+s1,r1,s2,s3,s4,r1,s5,r1

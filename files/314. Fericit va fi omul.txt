@@ -1,0 +1,52 @@
+[s1]
+Si b m
+1. Ferice va fi de omul
+Care toată viaţa lui
+Cugetă ziua şi noaptea
+Numai legea Domnului.
+314.
+
+[s2]
+2. El de cei răi se fereşte
+Şi de toţi cei păcătoşi
+La sfatul lor nu se duce
+Ştie că sunt mincinoşi.
+
+[s3]
+3. Cât de fericit în suflet
+Este un astfel de om,
+El se-aseamănă în totul
+Ca un mândru frumos pom.
+
+[s4]
+4. Care la izvorul apei
+Cineva la răsădit
+El îşi dă rodul la vreme
+Şi umbră celui trudit.
+
+[s5]
+5. Nu aşa necredincioşii
+Şi aceia ce fac rău
+Ei îşi vor lua pedeapsa
+De la bunul Dumnezeu.
+
+[s6]
+6. Căci întocmai precum pleava
+Este spulberată-n vânt
+Tot aşa necredincioşii
+Vor fi şterşi de pe pământ.
+
+[s7]
+7. Iar la dreapta judecată
+Vor plânge s-or tângui
+Dar va fi târziu atuncia
+Şi-n zadar se vor căi.
+
+[s8]
+8. Iar cei drepţi în haine albe
+Vor primi cununa lor
+Şi vor merge sus în ceruri
+Cu Dreptul Judecător.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

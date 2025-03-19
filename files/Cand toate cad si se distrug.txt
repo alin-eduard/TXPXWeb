@@ -1,0 +1,22 @@
+[s1]
+Cînd toate cad şi se distrug,
+Ai tăi iubiţi te las’ şi fug,
+Un sprijin sigur mai primeşti,
+Doar la Isus dacă priveşti.
+Privirea Sa îţi dă puteri,
+Te scapă sigur de poveri,
+/: Pe El mereu Îl voi slăvi,
+Pînă în cer mă voi sui. :/
+
+[s2]
+Ce bucurii să fii al Său,
+Spălat cu sînge de-orice rău;
+Şi tu pe Domnul dacă-L ai,
+Ai căpătat un colţ de rai.
+Din veşnicii El ne-a iubit
+Şi de aceea s-a jertfit.
+/: Noi vom cânta tot mai duios,
+Un imn de slavă lui Hristos. :/
+
+[order]
+s1,s2

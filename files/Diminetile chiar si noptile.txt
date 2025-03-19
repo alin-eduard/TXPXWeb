@@ -1,0 +1,35 @@
+[s1]
+Diminetile, chiar si noptile
+Tie ti le inchin Doamne pe deplin
+La Tine vreau sa vin
+Toate zilele, chiar si noptile
+Care sunt mereu in sufletul meu
+Vreau sa-ti cant mereu
+
+[s2]
+Esti comoara mea
+nimeni n-ar putea
+Sa te scoata din viata mea
+Esti taria mea lumea n-ar putea
+Sa te scoata din viata mea
+|:Din inima mea ,inima mea:|
+
+[s3]
+Toate viata mea,
+Doamne iti voi canta
+Te voi lauda ma voi inchina
+Inaintea ta
+In templul Tau cel sfant
+cuvantul Tau ascult
+Ma voi imbraca in sfintenia Ta
+Ma vei binecuvanta
+
+[s4]
+Comoara mea tu esti zi si noapte
+Comoara mea tu esti
+cand lumea e departe
+Comoara mea tu esti cand nimeni nu mai vrea
+|:Sa-mi arate ce e dragostea:|
+
+[order]
+s1,s2,s3,s4

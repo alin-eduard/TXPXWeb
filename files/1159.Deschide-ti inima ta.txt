@@ -1,0 +1,59 @@
+[s1]
+1. Deschide inima ta
+Să primeşti tăria
+Duhul Sfânt, marea putere
+În tine să fie
+/: Să-ţi deschidă inima
+Lacrima să-ţi curgă
+Dumnezeu te-a botezat
+Cu putere sfântă :/
+1159
+
+[s2]
+2.Duhul Sfânt îţi dă putere
+Ca să mergi pe cale
+În durere şi-n necazuri
+El îţi dă răbdare
+/: Roagă-te lui Dumnezeu
+Să-ţi umple candela
+Cât ar fi boala de grea
+Nu-i mai simţi durerea :/
+
+[s3]
+3. Cei ce n-au primit de sus
+Azi, încă, putere
+Dumnezeul nostru sfânt
+Le-o va da, de-or cere
+/: Când Isus va reveni
+Pe nori va apare
+Duhul Sfânt ne va lua
+Spre întâmpinare :/
+
+[s4]
+4. Când te simţi mai apăsat
+Şi ai vreo durere
+Simţi, deodată, Duhul Sfânt,
+Cum îţi dă putere
+/: Încălzindu-ţi inima
+Cu putere sfântă
+Şi deodată boala grea
+Nu te mai frământă :/
+
+[s5]
+5.Mai avem încă puţin
+Şi Isus apare
+Şi sculase-vor din somn
+La a Lui strigare
+
+[s6]
+/: Va lua pe-ai Săi copii
+Să-i ducă acasă
+El, Mirele Salvator,
+Şi-a ales Mireasă
+Şi-o va duce sus în cer
+Pentru veşnicie
+Căci puterea lui Isus
+Şi astăzi e vie :/
+
+[order]
+s1,s2,s3,s4,s5,s6

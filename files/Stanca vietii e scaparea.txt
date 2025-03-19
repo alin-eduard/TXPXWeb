@@ -1,0 +1,38 @@
+[s1]
+Stânca vieţii e scăparea
+Care-n lume s-a adus
+Pentru cei pierduţi în valuri,
+Pentru cei fără Isus.
+
+[r1]
+Stânca vieţii e Golgota,
+E Isus cel răstignit!
+/: El ne-a scos din valul lumii;
+Jertfa Lui ne-a mântuit. :/
+
+[s2]
+Urlă marea-nfuriată
+Zboară valurile-n sus
+Noi suntem pe Stânca Vieţii
+Şi ne apără Isus.
+
+[s3]
+E puternică furtuna,
+Adieri s-aud pe sus,
+Dar, noi stăm, pe Stânca Vieţii
+Şi ne apără Isus!
+
+[s4]
+„Voi, pe care valul lumii
+Încă tot nu v-a răpus:
+Apucaţi spre Stânca Vieţii!
+Apucaţi către Isus!
+
+[s5]
+Ridicaţi, spre El, privirea
+Din al vieţii trist apus,
+Căci în marea de păcate,
+Stânca noastră e Isus!"
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

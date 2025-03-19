@@ -1,0 +1,34 @@
+[s1]
+Sfant mereu, sfant mereu
+E tot ce vreau doar!
+Sfant mereu vreau sa fiu
+Sfant mereu, Sfant mereu
+Vreau sa fiu Domnul meu
+
+[r1]
+Ia-Mi inima si schimb-o
+Viata mea transform-o
+Mintea mea-noieste-o
+/:Fa-ma doar fa-ma doar al Tau:/
+
+[s2]
+Credincios, credincios
+E tot ce vreau doar
+Credincios, credincios
+Asa cum vrei Tu sa fiu.
+
+[s3]
+Ia-Mi inima si schimb-o
+Viata mea transform-o
+Mintea mea-noieste-o
+/:Fa-ma doar, fa-ma doar al Tau:/
+
+[s4]
+Neprihanit, neprihanit
+Vreau sa fiu
+Neprihanit sa fiu prin Tine
+Neprihanit, Neprihanit
+Asa cum vrei Tu sa fiu
+
+[order]
+s1,r1,s2,s3,s4,r1

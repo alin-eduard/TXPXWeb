@@ -1,0 +1,26 @@
+[s1]
+Plecaţi-vă lui Dumnezeu
+Popoare-oriunde vă găsiţi,
+El ni L-a dat pe Fiul Sãu
+Cunoaşteţi-L şi Îi serviţi.
+
+[s2]
+Veniţi ‘nainte-I mulţumind,
+El ne-a făcut, nu singuri, noi,
+Şi când umblam noi rătăcind
+La turma Lui ne-aduse-apoi.
+
+[s3]
+Suntem popor sub mâna Lui,
+Cu trup şi suflet siguri stăm,
+Dacă nu Lui, atuncea cui
+Cântarea noastră să-nălţăm?
+
+[s4]
+Cât lumea e cuprinsul Său,
+Statornic e-n cuvânt şi har!
+El este-al nostru Dumnezeu
+Şi dragoste fără hotar!
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,30 @@
+[s1]
+2236
+1. Isuse, vin ca să Îți mulțumesc
+Pentru mine viața Ți-ai dat
+Ai suferit o, Mielule ceresc
+Ca să fiu eu iertat de păcat.
+
+[r1]
+Cor: Nu mă lăsa nicicând,
+cu mine fii oricând
+În orice zi sau ceas
+de pe pământ
+Ia-mă în brațul Tău,
+condu-mă-n sus mereu
+Către cer unde e Dumnezeu.
+
+[s2]
+2. O, Domnul meu,
+Tu ești urât de mulți
+Pentru mine ești Salvator și azi
+Tu ai creat întregul univers
+Și ne mângâi în boli și-n necaz.
+
+[s3]
+3. Isuse, ajută-ne să fim Lucrători în ogorul Tău sfânt
+Trimite iubire, har deplin
+Ca lumină să fim pe pământ.
+
+[order]
+s1,r1,s2,r1,s3,r1

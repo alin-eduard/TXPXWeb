@@ -1,0 +1,29 @@
+[s1]
+1.  Isus a spus: deloc să nu vă temeți
+Eu sunt cu voi în fiecare zi
+S-aveți credință prin furtuni de treceți
+Să se oprească le voi porunci!
+
+[r1]
+/: Să nu dați-napoi
+Domnul e cu noi
+În curând va trece noaptea
+Ne vom vedea în zori
+Nu priviți-napoi, ci dincolo de nori
+Domnul vine, Maranata,
+Vine după noi! : / (x2)
+
+[s2]
+2. Fiți pregătiți lupta-i aproape gata
+Priviți, sunt coapte holdele pe câmp
+El va veni și vom primi răsplata
+Cum ne-a promis Isus va reveni!
+
+[s3]
+3.  Prin Duhul Sfânt noi vom primi putere,
+Prin Duhul Sfânt cu toți vom reuși,
+Prin Duhul Sfânt primi-vom mângâiere,
+Prin Duhul Sfânt cu toți vom birui!
+
+[order]
+s1,r1,s2,r1,s3,r1

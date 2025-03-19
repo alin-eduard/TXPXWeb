@@ -1,0 +1,38 @@
+[s1]
+O laudă mai înfocată
+Aprinde-n mine, Doamne, iar,
+Şi prin trăirea mea curată
+Să Te înalţ mai sus, mai clar.
+
+[r1]
+Lăudat, lăudat,
+Fie Numele Tău lăudat;
+Domnul meu minunat,
+Fii în veci, fii în veci lăudat.
+
+[s2]
+Nimic din lumea pământească
+Nu-mi poate pune stăvilar,
+Ca printr-o viaţă mai cerească
+Să Te înalţ mai sus, mai clar.
+
+[s3]
+Mai hotărât pe-a cruci cale
+Vreau să păşesc oricând prin har;
+Chiar şi pe munte şi în vale,
+Să Te înalţ mai sus, mai clar.
+
+[s4]
+Cu jarul dragostei din Tine
+Să-mi umpli-al inimii altar,
+Şi prin cântări de viaţă pline
+Să Te  înalţ mai sus, mai clar.
+
+[s5]
+Fii binecuvântat, Părinte,
+Ocean de har cu nehotar!
+Vreau c-o trăire mai fierbinte
+Să Te înalţ mai sus, mai clar.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

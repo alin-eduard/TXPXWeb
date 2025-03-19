@@ -1,0 +1,32 @@
+[s1]
+Preamăriţi pe Domnul, ceruri!
+Îngeri, daţi mărire Lui!
+Soare, lună, lumi de stele
+Daţi mărire Domnului!
+El vorbeşte, totul tace,
+Toate-ascultă vocea Sa;
+Legi eterne-a pus în toate,
+Nimeni nu le va schimba.
+
+[s2]
+Preamăriţi pe Domnul slavei,
+Ce-a promis El v-a-mplini;
+Din păcatul cel de moarte,
+Sigur ne va izbăvi.
+El e mântuirea nostră,
+Daţi mărire Celui Sfânt,
+Osanale să se-nalţe,
+Sus în cer şi pe Pământ!
+
+[s3]
+Ne-nchinăm, o, Doamne, Ţie,
+Viaţa noastră Ţi-o predăm;
+Marea noastră bucurie
+Către Tine o’nălţăm.
+Cum în ceruri Te adoră
+Sfinţii toţi, neîncetat,
+Pe pământ Îţi cântă laudă
+Cei pe care I-ai salvat.
+
+[order]
+s1,s2,s3

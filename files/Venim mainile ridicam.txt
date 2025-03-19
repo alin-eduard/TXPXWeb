@@ -1,0 +1,21 @@
+[r1]
+/: Tie lauda-Ti cantam
+Pe Tine Te adoram,
+Numele Tau inaltam :/
+
+[r2]
+In prezenta tronului plin de slava
+In prezenta Ta noi vrem sa stam.
+
+[r3]
+Venim, mainile ridicam
+Venim pe genunchi ne plecam,
+Venim Tie sa ne-nchinam,
+Inima sa-Ti dam.
+
+[s1]
+/: Inima si mintea mea
+Iti daruiesc toata viata mea :/
+
+[order]
+r1,r2,r3,r1,r2,r3,s1

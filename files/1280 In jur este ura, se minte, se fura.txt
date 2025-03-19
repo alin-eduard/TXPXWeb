@@ -1,0 +1,46 @@
+[s1]
+1.   În jur este ură, se minte, se fură
+Şi noaptea de-acum e mai grea
+Lumina-i călcată şi e alungată
+Şi-n lume nimeni n-o vrea
+/ : Pe ziduri străjerii vorbesc parcă-n somn
+La porţi vegheatorii şi ostaşii adorm
+Iar preoţi ca fii lui Eli apar
+Puterea lipseşte şi nu este har : /
+1.
+1280.
+
+[s2]
+Cuvântul se vorbeşte şi se răspândeşte
+Dar oamenii mor în păcat
+Se spune că-i pace, urechii îi place
+Vrăjmaşul încă e înarmat.
+/ : Pe ziduri străjerii vorbesc parcă-n somn
+La porţi vegheatorii şi ostaşii adorm
+Iar preoţi ca fii lui Eli apar
+Puterea lipseşte şi nu este har : /
+2.
+
+[s3]
+3.Mai mult se vorbeşte decât se trăieşte
+Şi totu-i aşa de pustiu
+Dar poate-ndurarea străpunge-va zarea
+Trezine-va Domnul cel viu
+/ : Să vină salvarea ca-n ziua de har
+Ce-a curs peste oameni fără de hotar
+Să strige bolnavii şi cei păcătoşi
+Căci de la robie cu toţi-au fost scoşi : /
+
+[s4]
+Isuse mai vino şi dă-ne lumină
+Şi leagă-ne rana la toţi
+Să fim fără vină şi-n pace deplină
+Când vei învia pe cei morţi
+/ : Şi veşnic în slavă cu Tine vom fi
+Dar fă-ne de-acum aleşi-Ţi copii
+Întoarce-ne Doamne şi noi vom veni
+Poporul păşunii Tale vom fi : /
+4.
+
+[order]
+s1,s2,s3,s4

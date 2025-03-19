@@ -1,0 +1,38 @@
+[s1]
+Când un păcătos se-ntoarce
+Către cale, dezrobit
+Şi cu lacrimi de căinţă
+Vine la Cel răstignit.
+
+[s2]
+/: Domnul îl primeşte-ndată
+Şi pe Braţul Său îl ia
+Îl primeşte cu iubire
+Şi îî iartă vina grea :/
+
+[s3]
+Ceru-ntreg e-n sărbătoare
+Pentru-acel ce s-a întors
+Şi cu bucurie mare
+Stă pe braţele Lui Hristos.
+
+[s4]
+/: Suflete, tu eşti iertat
+Şi cu Tatăl impăcat
+Căci pe Cruce a murit
+Şi cu sange te-a plătit :/
+
+[s5]
+Fiu de azi, fii bucuros
+Căci te-a înviat Hristos
+Fiu de azi, neîncetat
+Tu în Cer, eşti aşteptat.
+
+[s6]
+/: Insă cât mai eşti în lume
+Tuturora să le spui
+Căci Isus Mântuitorul
+Te-a salvat prin jertfa Lui :/
+
+[order]
+s1,s2,s3,s4,s5,s6

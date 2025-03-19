@@ -1,0 +1,93 @@
+[s1]
+1153.
+1.    Când Isus a plecat
+Iată un tânăr l-a întrebat
+Spre a putea intra în Rai
+Doamne ce povaţă-mi dai.
+Cor:      Vezi, vezi tânărule
+Căci Isus te caută
+Să-i dai viaţă tânără
+Vezi, vezi tânărule.
+
+[s2]
+2.      Vezi poruncile păzeşte
+Care tânărul glăsuieşte
+Nu ucide, nu fura
+Nu minţi în viaţa ta.
+Cor:      Vezi, vezi tânărule
+Căci Isus te caută
+Să-i dai viaţă tânără
+Vezi, vezi tânărule.
+
+[s3]
+3.     Cumpătat mereu să fii
+Pe părinţi iubeşte-ţii
+Să iubeşti ca şi pe tine
+Pe aproape şi mai bine.
+Cor:      Vezi, vezi tânărule
+Căci Isus te caută
+Să-i dai viaţă tânără
+Vezi, vezi tânărule.
+
+[s4]
+4.      Ii răspuns-a lui Isus
+Toate Doamne câte-ai spus
+Din pruncie le-am păzit
+Ce mai am de împlinit
+Cor:      Vezi, vezi tânărule
+Căci Isus te caută
+Să-i dai viaţă tânără
+Vezi, vezi tânărule.
+
+[s5]
+5.    Iar Isus a glăsuit
+Vrei să fii desăvârşit
+Iată ce mai ai să faci
+Dă-ţi averea la săraci.
+Cor:      Vezi, vezi tânărule
+Căci Isus te caută
+Să-i dai viaţă tânără
+Vezi, vezi tânărule.
+
+[s6]
+6.     Dacă asta vei împlini
+Vei avea în cer bucurii
+Tânărul plecă întristat
+Fiindcă el era bogat.
+Cor:     Vezi, vezi tânărule
+Căci Isus te caută
+Să-i dai viaţă tânără
+Vezi, vezi tânărule.
+
+[s7]
+7.      Când văzutu-ia mâhnirea
+Şi-a întors apoi privirea
+Către ai săi învăţăcei
+Şi le zise dragii mei.
+Cor:     Vezi, vezi tânărule
+Căci Isus te caută
+Să-i dai viaţă tânără
+Vezi, vezi tânărule.
+
+[s8]
+8.       Atunci Domnul i-a răspuns
+Anevoie va fi dus
+În împărăţia Mea
+Cu toată averea Sa.
+Cor:     Vezi, vezi tânărule
+Căci Isus te caută
+Să-i dai viaţă tânără
+Vezi, vezi tânărule.
+
+[s9]
+9.       Prin urechea acului
+O cămilă drept să spui
+Va intra mai lesne vai
+Decât un bogat în Rai.
+Cor:     Vezi, vezi tânărule
+Căci Isus te caută
+Să-i dai viaţă tânără
+Vezi, vezi tânărule.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

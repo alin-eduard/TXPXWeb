@@ -1,0 +1,32 @@
+[s1]
+Ce n-ai da tu, în clipa morţii,
+Să ai nădejdea ce-o am eu?
+Să ştii că, orice-ar fi să vie,
+Tu eşti, din clipa scrisă ţie,
+Cu Dumnezeu, în veşnicie,
+/: cu Dumnezeu.:/
+
+[s2]
+Ce n-ai da tu, să poţi odată Întoarce vremea înapoi?
+Zadarnic lupţi cu valu-n spume,
+Zadarnic strângi comori şi nume;
+Cu pumnii goi plecăm din lume,
+/: cu pumnii goi. :/
+
+[s3]
+Ce n-ai da tu, să fii ca mine,
+Când va veni, din cer, Isus?
+Pe când, spre zările înalte,
+Zbura-vom toţi cei scrişi în carte,
+Tu vei fi dus tot mai departe,
+/: tu vei fi dus... :/
+
+[s4]
+Ce n-ai da tu, în clipa morţii
+Să ai destinul ce am eu?
+Nu-l ai, să dai o lume-ntreagă, Dar vino, inimă pribeagă,
+Prin glasul meu, Isus te roagă,
+/: Prin glasul meu... :/
+
+[order]
+s1,s2,s3,s4

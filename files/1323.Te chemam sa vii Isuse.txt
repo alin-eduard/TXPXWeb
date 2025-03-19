@@ -1,0 +1,48 @@
+[s1]
+1323.
+1.  Te chemăm să vii Isuse
+Domnul nost’ cel Sfânt
+Să plecăm cu Tin’ spre
+Casă spre noul pământ
+Înspre Ţara Sfântă
+Care-i pregătită
+Pentru aleşi Săi de pe pământ.
+
+[r1]
+Cor: /: Vino Doamne vino
+Noi cu toţi azi te strigăm
+Vino Doamne vino
+Noi cu dor azi te chemăm
+E de-ajuns suspinul
+E de-ajuns şi plânsul
+Vino Doamne căci te aşteptăm:/
+
+[s2]
+2.  Milioane azi aşteaptă
+Şi privesc în sus
+Mâini întinse se ridică
+Înspre Tin’ Isuse
+Mii de daruri Sfinte
+Rugăciuni fierbinţi
+Aşteaptă chemarea cea de sus.
+
+[s3]
+3.  Duhul şi mireasa zice
+O vino mai curând
+Cel ce-aude şi veghează
+Cu dor aşteptând
+Va auzi glasul chemând
+Din necazuri
+Veniţi fiii Mei la Mine veniţi.
+
+[s4]
+4.  Tu iubitul meu
+Ce astăzi stai nepregătit
+Pentru tine Domnul Isus
+Vina a plătit
+Şi-astăzi te-aşteaptă
+Să te-ntorci degrabă
+Să te-ntorci şi să fii mântuit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

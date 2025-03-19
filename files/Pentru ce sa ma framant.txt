@@ -1,0 +1,32 @@
+[s1]
+Pentru ce să mă frământ,
+Tulburat de-ngrijorare,
+Când eu am pe-acest pământ
+Un Părinte-atât de mare ?
+
+[r1]
+Nu greşeşte-al meu păstor,
+Dreaptă e a Sa-ndurare
+Şi eu sunt încrezător
+În iubirea Lui cea mare !
+
+[s2]
+Fie calea cât de grea,
+Fie vânt fie vâltoare,
+El, Isus, îmi este stea,
+Far şi stâncă de scăpare !
+
+[s3]
+Colo sus la crucea Lui
+Regăsesc a mea tărie.
+Prin puterea Domnului
+Toate trec cu bucurie !
+
+[s4]
+Să iubesc pe-ai mei duşmani,
+Să mă rog spre a lor iertare;
+Să urmez cu mult elan
+Pe Isus, e-a mea chemare !
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

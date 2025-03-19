@@ -1,0 +1,38 @@
+[s1]
+Doamne, nu vreau comoară,
+Nici argint, nici aur
+Vreau poftele să-mi piară
+Şi-n veci să Te laud
+Sus în Cartea Vieţii.
+O,auzi, Domnul meu,
+Unde sunt scrişi toţi sfinţii
+Scrie numele meu.
+
+[r1]
+Al meu nume e scris
+În divina carte
+Precum Domnul a promis
+Eu am cu El parte.
+
+[s2]
+De păcate multe
+Ca nisipul mării,
+Sângele Tău le şterge
+Şi le dă uitării.
+Căci Tu, Doamne, ne-ai promis
+În sfânta carte-a Ta
+“ De-i păcatul roşu scris
+Va fi ca zăpada ! ”
+
+[s3]
+Ah, cetatea cea sfântă,
+Locaş strălucitor,
+Spre Tine toţi se-avântă
+Chemându-Te cu dor.
+În Tine nu e păcat,
+Nu-i nimic din lume,
+Acolo-i totul curat
+Scrieţi al meu nume?
+
+[order]
+s1,r1,s2,r1,s3,r1

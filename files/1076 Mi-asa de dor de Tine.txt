@@ -1,0 +1,63 @@
+[s1]
+1.Mi-aşa de dor de Tine,
+Stăpânul meu Cel drag!
+În  orice dimineaţă
+Te-aştept mereu în prag.
+1076.								  Re m
+
+[s2]
+/ : Privesc în depărtare
+Să Te zăresc pe nori
+De Țara cea cu soare
+Atât îmi e de dor : /
+
+[s3]
+2.M-am săturat de lume
+De-a ei ademeniri
+De-a ei plăceri de-o clipă
+Ce-s numai amăgiri
+
+[s4]
+/:M-am săturat de-amarul
+De multele-mi dureri
+Mi-e dor, mi-e dor, Isuse
+De-a Tale mângâieri :/
+
+[s5]
+3.De-atâta stricăciune
+Şi sete de păcat
+Dă-mi Doamne-nţelepciune
+Să mă păstrez curat
+
+[s6]
+/: Din tot cuprinsul zării
+Nimic nu aş mai vrea
+Doar premiul alergării
+Să-l iau din mâna Ta :/
+
+[s7]
+4.Privesc doar printre lacrimi
+Căci crucea-i tot mai grea
+Dar vin cu-a mele sarcini
+Isus, la crucea Ta
+
+[s8]
+/:Vin’ iar să-Ţi spun necazul
+Păstorule de oi
+Vin’ iar să-mi ştergi obrazul
+Să plângem amândoi : /
+
+[s9]
+5.Ajută-mă prin noapte
+Mereu să luminez
+Şi treaz în aşteptare
+La post eu să veghez
+
+[s10]
+/ : Să am candela plină
+Când Tu vei apărea
+Să fiu fără de vină
+Pentru-a Te-întâmpina : /
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

@@ -1,0 +1,21 @@
+[s1]
+O, prunc divin, slava Tu ai parasit,
+Si smerit intr-o iesle-ai fost gasit.
+De la rasarit, magi-n graba au venit,
+Sa se inchine Regelui de mult vestit
+
+[r1]
+Ai venit pe pamant
+Lumea-ntreaga schimband,
+Si la toti ne-ai daruit viata-n dar.
+Ce copil noua astazi ni s-a dat,
+Sa-I cantam sa-L slavim neincetat.
+
+[s2]
+In Betleem, intr-un sat neinsemnat,
+S-a nascut cel mai mare imparat.
+Slava din inalt, cor de ingeri au cantat,
+Cand Isus in miez de noapte s-a intrupat.
+
+[order]
+s1,r1,s2,r1

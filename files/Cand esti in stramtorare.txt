@@ -1,0 +1,32 @@
+[s1]
+Când eşti în strâmtorare,
+Când totul-n jur se năruie,
+Când nu mai ai pe nimeni,
+Aleargă la Isus.
+
+[r1]
+Vin’ la Isus, vin’ chiar acum!
+Nu te îndoi, ci crede în El.
+Păcatele îţi iartă
+Şi-odihnă El îţi dă .
+
+[s2]
+Povara când te apasă
+Şi-n faţa veşniciei stai,
+Văzând a ta osândă,
+Grăbeşte la Isus.
+
+[s3]
+Păcate mari şi grele
+Spălate sunt prin sânge scump.
+Chiar cei mai vinovaţi sunt
+De El răscumpăraţi.
+
+[s4]
+O, vino, azi, degrabă,
+Proşterne-te ‘naintea Lui.
+Primeşte-acum iertare,
+Iertarea lui Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

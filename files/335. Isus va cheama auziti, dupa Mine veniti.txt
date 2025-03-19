@@ -1,0 +1,48 @@
+[s1]
+1. Isus vă cheamă auziţi
+După Mine veniţi
+De mână vă conduc tot Eu
+Pe drumu-ngust şi greu
+335.
+
+[s2]
+O sufletelor grăbiţi dar
+Odihnă pace aveţi în dar
+Şi apoi acasă când sosiţi
+În veci vă-nveseliţi.
+
+[r1]
+Cor: O ce loc fericit
+/:O ce loc:/ O ce loc
+Fericit e la Isus a gătit
+Numărul sfinţilor de sus
+E foarte mare de nespus
+Şi toţi cântă:
+O, Mielule care-ai învins.
+
+[s3]
+2. În ceruri sus se cântă acum
+Dacă un păcătos
+Cu pocăinţă din păcat
+La Isus s-antors
+
+[s4]
+Toţi îngerii se bucură
+Cerească oaste tresaltă
+Că Isus pe cel păcatos
+La lumină l-a scos.
+
+[s5]
+3. În ziua judecăţii
+Când Isus ne va grăi
+Împărăţia moşteniţi
+Iubiţii Tatălui
+
+[s6]
+Nespusă bucurie a fi
+Cereasca oaste va rosti
+Aleluia lui Dumnezeu
+Că ne-a primit la El.
+
+[order]
+s1,s2,r1,s3,s4,r1,s5,s6,r1

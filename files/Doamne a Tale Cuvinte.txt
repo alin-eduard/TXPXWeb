@@ -1,0 +1,26 @@
+[s1]
+Doamne, a Tale Cuvinte
+Care s-au scris mai ‘nainte,
+S-a-mplinit precum le scrie
+Moise la cartea întâie,
+O, minune!
+2
+
+[s2]
+De la răsărit răsare
+O stea cu lumină mare,
+Razele îşi răspândeşte, pe
+Trei crai călăuzeşte.
+O, minune!
+1
+
+[s3]
+Steaua magilor vesteşte,
+Betleemul îi primeşte
+Şi dau proorocire rară,
+Pe Mesia Îl aflară!
+O, Minune!
+0
+
+[order]
+s1,s2,s3

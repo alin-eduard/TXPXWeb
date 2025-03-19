@@ -1,0 +1,33 @@
+[s1]
+1881
+1. Dacă ești împovărat de viață
+Și odihnă-n suflet n-ai aflat
+Am o veste bună , o speranță
+Prin Isus poți fi eliberat.
+
+[r1]
+Cor: /:Vino la Isus să ai iertare
+Vino azi la El așa cum ești
+Sângele Său Sfânt îți dă salvare
+Prin credința-n El te mântuiești:/
+
+[s2]
+2. Vino cu povara de păcate
+Cere-I astfel îndurarea Sa
+Doar la Golgota vor fi iertate
+Fericire sfântă vei avea.
+
+[s3]
+3. Nu există astfel de izbândă
+Cheamămă chiar acum mântuitor
+Tot păcatul care cere osândă
+Ți-l va șterge harul salvator.
+
+[s4]
+4. Vei păstra mereu în amintire
+Ziua întâlnirii cu Isus
+Vei păși de-atunci cu-nsuflețire
+Să ajungi în raiul Său nespus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

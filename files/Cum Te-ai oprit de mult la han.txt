@@ -1,0 +1,58 @@
+[s1]
+Cum Te-ai oprit de mult la han,
+Venind pe asin călare.
+Milos şi blând samaritean,
+În bunătatea-Ţi mare.
+
+[s2]
+Te-opreşte o clipă şi la noi,
+Suntem bătuţi trântiţi şi goi.
+Samariteanule milos,
+Mai leagă rănile ce dor,
+Mai toarnă alinător,
+Oh medic sfânt, Isus Hristos.
+
+[s3]
+Trecut-au preoţi şi leviţi,
+Spre Ierihon la vale.
+Nepăsători cu paşi grăbiţi
+Văzându-şi de-a lor cale.
+
+[s4]
+Doar Tu Isuse Te-ai oprit,
+La cel căzut, la cel lovit.
+Ce din durere Te-a chemat,
+I-ai pus pe răni ulei şi vin
+L-ai pus călare pe asin
+Isuse medic minunat.
+
+[s5]
+Acum aici în casa Ta,
+E-un han de poposire.
+Să intre orişicine vrea,
+Căci Tu-i dai mântuire.
+
+[s6]
+Şi cei săraci şi cei sărmani,
+Şi-ologi şi văduve şi-orfani.
+Căci braţul Tău e larg deschis,
+Şi-acei goniţi şi-acei huliţi,
+Şi-acei ce-n lume-s rătăciţi
+„Veniţi la Mine”, Tu ai zis.
+
+[s7]
+La margine de drum cândva,
+M-ai găsit şi pe mine.
+N-aveam atunci pe nimenea,
+Durerea să-mi aline.
+
+[s8]
+Spre mine-ncet Te-ai aplecat,
+Cu dragoste m-ai ridicat.
+Şi mi-ai vorbit blând şi duios,
+M-ai mângâiat m-ai îngrijit,
+Şi preţul meu Tu l-ai plătit.
+Prieten drag, Isus Hristos.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

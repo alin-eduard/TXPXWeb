@@ -1,0 +1,45 @@
+[s1]
+1351.
+Nu ţi-e dor scumpă mireasă
+De-al Tău Mire preaiubit
+De Acel ce-ţi dă viaţă
+Nu ţi-e dor să-L vezi în faţă
+Pe Acel ce te-a iubit
+
+[s2]
+2.  Nu ţi-e dor să laşi pământul
+Şi să zbori spre porumbar
+Să te-nalţi ca porumbeii
+Sus pe culmea fericirii
+Peste-al dragostei hotar.
+
+[s3]
+3.  Nu ţi-e dor scumpă mireasă
+Nu îţi arde inima
+De a Mirelui dorinţă
+Ce l-ai primit prin credinţă
+Învaţă să poţi veghea.
+
+[s4]
+4.  Nu ţi-e dor scumpă mireasă
+Spune-mi astăzi nu ţi-e dor
+Nu vrei să îţi schimbi viaţa
+Să dai hainelor albeaţa
+Într-un alb strălucitor.
+
+[s5]
+5.  Vino, Mire drag odată
+Vino, Tu Isus iubit
+Vino, mireasa te-aşteaptă
+Să o duci la Tine-acasă
+Lângă Fiul Tău iubit.
+
+[s6]
+6.  Adă mai degrabă clipa
+Adă ceasul mult dorit
+S-ajungem cu toţii acasă
+Şi să stăm cu drag la masă
+Cu Acel ce ne-a iubit.
+
+[order]
+s1,s2,s3,s4,s5,s6

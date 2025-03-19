@@ -1,0 +1,33 @@
+[s1]
+934.Mi b
+Ferice casa unde este Domnul
+Prietenul cel mai bine venit
+Acolo unde dintre toţi ce-s oaspeţi
+Tu, o, Isuse eşti cel mai iubit
+2.	Acolo toate inimile-Ţi bate
+Şi ochii către Tine sunt ţintiţi
+Acolo buzele îţi aduc slavă
+Şi toţi ai casei sunt prea fericiţi.
+
+[s2]
+3. Ferice casa unde soţ, soţie
+În al Tău spirit una sunt mereu
+Şi de iubirea Ta cuprinşi, ei, Ţie
+Alături stau la bine şi la rău
+4.  Când amândoi se sprijină pe Tine
+În orice timp, cât de primejdios
+Al lor iubire nu se micşorează
+Ci tot mai mult ei Te iubesc duios.
+
+[s3]
+5.  Ferice casa unde prunc şi servă
+Purtaţi sunt ei pe mâini de rugăciuni
+Iar ei în toate ca Domn Te observă
+Le eşti Păstorul ce-i duci la păşuni
+6.  Sunt voitori de Tine să asculte
+Umili, supuşi şi de credinţă plini
+La tronul Tău ei toate le împart
+Şi apoi cu Tine vor domni-n măriri.
+
+[order]
+s1,s2,s3

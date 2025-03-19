@@ -1,0 +1,48 @@
+[s1]
+1. În drum spre Golgota
+Mergea fiul durerii
+/: Pe noi ca să ne scape
+Din calea pierzării :/
+El mergea înainte
+Şi-n urma lui se ţin
+Iudeii cei răi şi soldaţi păgâni.
+779.
+
+[s2]
+2. Cununa de spini
+Îl apasă pe cap
+Soldaţii cu biciul
+Într-una îl bat.
+Din fruntea senină
+Îi picură sânge
+Şi maica cea sfântă
+Cu lacrimi îl plânge.
+
+[s3]
+3. O, frate iubite şi dragi ascultători
+Eu plâng cu amar şi mult mă-nfior.
+Gândindu-mă la crucea
+Din spatele Lui
+Sunt păcatele mele
+Şi ale oricui.
+
+[s4]
+4. Cu aceste păcate
+Şi noi îl loveam
+Pe Domnul cel Sfânt
+Chinurile-i sporeau.
+Dar frate iubite
+Şi dragi ascultători
+Pe Domnul acesta
+Păcatele îl dor.
+
+[s5]
+5. Căci El a venit în lume să ne ia
+Păcatele noastre şi sarcina grea.
+Pe Domnul îl doare
+Şi inima îi plânge
+De cei ce n-au primit
+Preasfântul Lui sânge.
+
+[order]
+s1,s2,s3,s4,s5

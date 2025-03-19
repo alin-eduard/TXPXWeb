@@ -1,0 +1,33 @@
+[s1]
+Fugi Petru, fugi!
+Fugi la mormânt!
+Fugi Petru, fugi !
+De nu crezi pe cuvânt!
+Fugi ca să vezi, că e-adevărat,
+Mormântul e gol,
+Hristos a-nviat !
+
+[r1]
+/: A-nviat! :/
+Mormântul e pustiu!
+/: A-nviat! :/
+Isus Hristos e viu!
+
+[s2]
+Fugi Petru, fugi!
+Spune la toţi!
+Că Isus Hristos,
+nu e între morţi!
+Fugi Petru, fugi!
+Să spui ce-ai aflat,
+Mormântul e gol,
+Hristos a-nviat!
+
+[s3]
+La fel ca şi Petru când s-a lepădat
+Şi astăzi sunt mulţi ce spun
+Pe-acest om eu nu-L cunosc
+Ca şi lui Petru şi ţie îţi spun!
+
+[order]
+s1,r1,s2,r1,s3,r1

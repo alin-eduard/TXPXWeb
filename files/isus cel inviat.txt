@@ -1,0 +1,23 @@
+[s1]
+Isus cel înviat e astăzi printre noi
+/: Lasă-L să te-atingă
+Şi vei fi eliberat.
+Lasă-L să te-atingă
+Vei fi binecuvântat. :/
+
+[s2]
+Mormântul lui Isus şi astăzi este gol
+/: Lasă-L să te-atingă
+Şi vei fi eliberat.
+Lasă-L să te-atingă
+Vei fi binecuvântat. :/
+
+[s3]
+Isus e viu în veci de veci, Aleluia
+/: Lasă-L să te-atingă
+Şi vei fi eliberat.
+Lasă-L să te-atingă
+Vei fi binecuvântat. :/
+
+[order]
+s1,s2,s3

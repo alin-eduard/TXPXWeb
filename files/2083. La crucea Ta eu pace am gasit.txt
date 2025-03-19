@@ -1,0 +1,53 @@
+[s1]
+2083
+1. La crucea Ta eu pace am găsit
+Și inima doar Tu mi-ai liniștit
+/: Isus Tu ești comoara mea
+Și pe nimic nu Te-aș schimba
+Rămâi Te rog
+rămâi în viața mea :/
+
+[s2]
+2. Pe brațul Tău mereu Tu
+m-ai purtat
+Și valul greu adesea l-ai mustrat
+/: Prin mare, drum Tu mi-ai făcut
+Și mi-ai fost pavăză și scut
+Și mâna Ta prin toate
+m-a trecut :/
+
+[s3]
+3. Eram așa de mic în palma Ta
+Și cunoșteam puțin cărarea Ta
+/: Când la răscruce am ajuns
+Lumina Ta mi-a fost de-ajuns
+De-aceea azi Îți mulțumesc Isus :/
+
+[s4]
+4. Încet, încet Isus Tu m-ai crescut
+Puterea Ta prin toate m-a trecut
+/: Deși mă văd la fel de mic
+M-ai învățat să mă ridic
+Și-n orice greu pe Tine
+să Te strig :/
+
+[s5]
+5. Deplin, deplin Ți-am dat
+inima mea
+Te rog să scoți tot ce e rău din ea
+/: Din lume nu mai vreau nimic
+Vreau doar să-Ți fiu mereu
+mai mic
+Ca Tu să crești în mine
+Isus iubit :/
+
+[s6]
+6. Și mai doresc să faci
+din viața mea
+O torță vie pentru slava Ta
+/: Să pot să Te înalț mereu
+Oricât ar fi drumul de greu
+Isus iubit Mântuitorul meu :/
+
+[order]
+s1,s2,s3,s4,s5,s6

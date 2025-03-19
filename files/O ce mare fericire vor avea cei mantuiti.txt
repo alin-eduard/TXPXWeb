@@ -1,0 +1,40 @@
+[s1]
+O, ce mare fericire
+vor avea cei mântuiţi!
+Cu Isus în veşnicie
+vor trăi nedespărţiţi.
+Sus pe străzile de aur
+cu Isus ei vor umbla
+Fericire negrăită noi vom avea.
+
+[r1]
+/: Toţi acei cei mântuiţi
+vor fi veşnic fericiţi
+Aşa cum Cuvântul Domnului
+ne-a spus.
+Lucrurile Domnului,
+prezentate omului
+Nici urechea şi nici ochiul
+n-au văzut. :/
+
+[s2]
+Toţi acei ce n-au pe Domnul
+pot să vină la Hristos
+Mântuirea-i gratuită
+pentru orice păcătos.
+Vezi ce grabnic trece timpul,
+anii trec ca frunza-n vânt
+Vis, deşertăciune-s toate aici pe Pământ.
+
+[s3]
+Binecuvântări alese
+Dumnezeu a pregătit
+Pentru toţi ce vor să vină
+ca să fie mântuiţi.
+Al tău este numai astăzi,
+de ce eşti nehotărât ?
+Mâine alţii o să vină,
+şi tu eşti pierdut !
+
+[order]
+s1,r1,s2,r1,s3,r1

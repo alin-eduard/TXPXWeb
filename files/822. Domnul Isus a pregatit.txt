@@ -1,0 +1,49 @@
+[s1]
+822.           									 Fa m
+1. Domnul Isus a pregătit
+O zi când va veni
+Pe sfinţii Lui de pe pământ
+În cer s-or întâlni
+Căci toţi răpiţi de Duhul Sfânt
+Mai sus de cer, mai sus
+Vedea-vor aşteptatul dor
+Pe Mirele Isus.
+
+[r1]
+Cor:
+Isus, Isus noi te aşteptăm
+Vino Doamne mai degrabă
+Noi azi Te chemăm.
+
+[s2]
+2. Căci inima din pieptul meu
+Suspină tot mereu
+În fiecare zi Te aştept
+Să vii, o, Domnul meu
+Să intri iar aîn casa mea
+Să simtă inima
+Să-mi dai Tu iarăşi liniştea
+Pace din pacea Ta.
+
+[s3]
+3. Tu ştii, o, Doamne c-aici jos
+Noi suntem în război
+Îţi cerem Doamne ajutor
+În luptă cu cel rău
+Să ducem steagul tot mai sus
+Chiar dacă Iadul-întreg
+În contra noastră s-ar porni
+Cu Tin’ vom birui.
+
+[s4]
+4. Crezând în sfântul Tău cuvânt
+Ce-n veci e da amin
+Mergem ‘nainte Isuse
+Răbdând dureri şi chin
+Căci cei ce au plâns ades-aici
+Acolo-n ţara Ta
+Uimiţi de ce ai pregătit
+Atunci vor rămânea.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

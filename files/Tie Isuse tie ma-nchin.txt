@@ -1,0 +1,38 @@
+[s1]
+Ţie, Isuse /: Ţie mă-nchin, :/
+Tu-mi eşti iubirea /: Tu pe deplin! :/
+Dragostea Ta m-a cuprins Isus
+Şi cu Tine-n cer pentru veci m-a dus.
+Dragostea mea eu Ţi-o dau Isus
+Şi-n adâncul meu
+pentru veci Te-am pus.
+
+[s2]
+Ţie, Isuse,  /:Ţie-ţi slujesc,:/
+Tu-mi eşti viaţa /: Mult te doresc!:/
+Dragostea Ta m-a cuprins Isus
+Şi cu Tine-n cer pentru veci m-a dus.
+Dragostea mea eu Ţi-o dau Isus
+Şi-n adâncul meu
+pentru veci Te-am pus.
+
+[s3]
+Ţie, Isuse, /: Ţie-s supus :/
+Viaţa mea, toată /: Eu Ţi-am adus! :/
+Dragostea Ta m-a cuprins Isus
+Şi cu Tine-n cer pentru veci m-a dus.
+Dragostea mea eu Ţi-o dau Isus
+Şi-n adâncul meu
+pentru veci Te-am pus.
+
+[s4]
+Pentru vecie /: Tu îmi rămâi, :/
+Dragostea vie /: Sfântă dintâi! :/
+Dragostea Ta m-a cuprins Isus
+Şi cu Tine-n cer pentru veci m-a dus.
+Dragostea mea eu Ţi-o dau Isus
+Şi-n adâncul meu
+pentru veci Te-am pus.
+
+[order]
+s1,s2,s3,s4

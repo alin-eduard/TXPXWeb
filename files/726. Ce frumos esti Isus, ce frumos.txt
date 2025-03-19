@@ -1,0 +1,30 @@
+[s1]
+1. Ce frumos eşti Isus, ce frumos
+Îngerii-n cor îţi cântă voios
+Floarea salemului iubită
+De Tine Raiul se bucură.
+2. Serafimii îţi cântă mărire
+Heruvimii îţi cântă iubire
+Cât de smerit în ieslea de oi
+Vine azi Domnul Isus la noi.
+726.Fa
+
+[s2]
+3. Şi fiind păstorii acolo în câmp
+Noaptea-mprejur
+Turme lor păscând
+Iată un înger al Domnului
+Vestind la păstori naşterea Lui.
+4. Ce frumos împrejur străluceşti
+Mărire Domnului pe pământ
+Floarea salemului iubită
+De Tine Raiul se bucură.
+
+[s3]
+5. Haideţi fraţilor să ne bucurăm
+De naşterea Lui Isus să cântăm
+Mărire să-I dăm azi Domnului
+Pace-ntre oamenii plăcuţi Lui.
+
+[order]
+s1,s2,s3

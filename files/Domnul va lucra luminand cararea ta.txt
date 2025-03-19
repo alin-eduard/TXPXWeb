@@ -1,0 +1,28 @@
+[r1]
+Domnul va lucra luminand cararea ta.
+Chiar daca Tu nu poti vedea,
+El va fi’naintea ta,
+Te va invata, cum sa mergi pe calea Sa
+Si in necaz, si-n bucurii
+Nu te lasa Domnul va lucra…
+
+[s1]
+Chiar in pustiu de-ai fi,
+El te conduce
+Din stanca, apa vietii iti va da!
+Toate de vor pieri,
+El mereu cu tin’ va fi
+Ti-a promis prin Cuvantul Sfant
+
+[s2]
+Tu sa crezi mereu,
+Sa te-ncrezi in bratul Sau,
+Iar cand cel rau vrea viata ta,
+Domnul nu te va lasa.
+Roaga-te mereu
+Catre Tatal Dumnezeu,
+Si prin Cuvant, Prin Duhul Sfant
+El te va ajuta pe cararea ta.
+
+[order]
+r1,s1,r1,s2,r1

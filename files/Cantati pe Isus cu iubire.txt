@@ -1,0 +1,32 @@
+[s1]
+Cântaţi pe Isus cu iubire,
+Căci El pentru noi a murit;
+Lăuda-ţi-L şi daţi-I mărire
+Căci El pentru noi S-a jertfit.
+
+[r1]
+Eu vreau să cânt
+Pe Mielul de Tatăl sfinţit;
+Să cânt, să cânt
+Pe Cel ce nespus ne-a iubit.
+
+[s2]
+Cântaţi toţi măreaţa-I putere,
+Păcatul cel greu El l-a frânt;
+Zdrobind moartea prin înviere,
+Intrat-a în locul preasfânt.
+
+[s3]
+Cântaţi plini de-avânt şi speranţă,
+Isus e mereu printre noi,
+Veghind să avem siguranţă,
+Păstoru-ngrijeşte de oi.
+
+[s4]
+Cântaţi pe Răscumpărătorul,
+Pe Cel ce e viu pururea,
+Pe Domnul şi Mântuitorul
+Ce veşnic ne va îndruma.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

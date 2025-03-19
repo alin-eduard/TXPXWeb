@@ -1,0 +1,28 @@
+[s1]
+Te laudă, pe Tine, Doamne
+Ale  Tale Sfinte lucrări
+Şi toate în felul lor înalţă
+Eterna slavă prin cântări.
+
+[r1]
+Te laud, te laud şi eu
+Părintele meu, Dumnezeu
+Te laud, te laud
+Prin grai şi prin cânt
+Şi astăzi şi mâine,
+În Cerul Preasfânt
+
+[s2]
+Te laudă şi zori şi stele
+Şi marea şi pământu-ntins
+Şi munţii falnici şi câmpia
+Îţi cântă, toate, vestind.
+
+[s3]
+Te laudă trecutul tainic
+Te laudă prezentul plin
+Şi viitorul de lumine
+Te laudă în veci, amin.
+
+[order]
+s1,r1,s2,r1,s3,r1

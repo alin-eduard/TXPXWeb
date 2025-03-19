@@ -1,0 +1,32 @@
+[s1]
+Adeseori ispite grele
+În calea vieţii mele vin.
+Zdrobind odihna nopţii mele
+Şi-al zilei liniştit senin.
+
+[r1]
+/: Atunci alerg la rugăciune
+Şi prin Hristos din nou primesc.
+Tărie să le-nving pe toate
+Şi iarăşi pacea-mi regăsesc. :/
+
+[s2]
+Adeseori, dureri amare
+Adânc încearcă viaţa mea.
+Şi dreapta-ncrederii cărare
+Aşa de greu o pot ţinea.
+
+[s3]
+O, sfânt liman al rugăciunii
+Ce scut nedespărţit îmi eşti.
+Ce liniştire, ce putere
+Şi ce-adăpost îmi dăruieşti !
+
+[s4]
+/:Atunci alerg la rugăciune
+Şi prin Hristos din nou primesc.
+Tărie să le-nving pe toate
+Şi pacea-n El o regăsesc.:/
+
+[order]
+s1,r1,s2,r1,s3,s4

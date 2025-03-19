@@ -1,0 +1,24 @@
+[s1]
+1195.
+O ce tristă mi-era viaţa fără Dumnezeu
+Bâjbâiam atunci în ceaţa păcatului rău
+Sufletul mi-l osândise patima cea grea
+Când nu cunoşteam Isuse Sfântă jertfa Ta.
+2.  Iar Tu mi-ai arătat şi m-ai luminat
+Ca pe orbul uns cu tină şi m-ai vindecat
+Braţul Tău atotputernic lanţul l-a zdrobit
+Lanţul de păcat şi moartea şi m-ai izbăvit.
+
+[s2]
+3.   Mântuire fericire Tu Isuse-mi eşti
+Prin a Ta călăuzire de rău mă fereşti
+Mă conduci pe drumul cel sfânt
+Prin cuvântul Tău
+În inim-ai pus cântarea pentru Dumnezeu.
+4.   Tu mi-ai dat odihnă, pace, vina mi-ai iertat
+Dragostea voios mă face, sunt îmbelşugat
+Dragostea Ta pentru mine nu va înceta
+De aceea eu pe Tine mult te-oi lăuda.
+
+[order]
+s1,s2

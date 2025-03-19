@@ -1,0 +1,59 @@
+[s1]
+Lumea de astăzi e descurajată
+Multe probleme n-au încă răspuns.
+Privind în jur, te întrebi câteodată :
+<Ce s-a-ntâmplat,
+până aici cum s-a ajuns ?>
+Dar ce ne-a promis Isus,
+păstrăm în inimă -
+Vine-n curând Emanuel!
+Noi aşteptăm o zi când El va veni
+Şi vom trăi etern cu El !
+
+[s2]
+Oricând inima ne e tristă
+Ne oprim şi ne amintim -
+Astăzi poate fi minunata zi
+Când Isus va reveni !
+Când speranţe nu-s, tu priveşte-n sus
+Poate azi vine Isus !
+
+[s3]
+Viaţa aduce vremuri  de încercare
+Timpuri pe care mulţi nu le-nţeleg.
+Printre necazuri e încurajare
+Când ştii că tot ce-a promis
+se va-mplini.
+Cuvintele Lui rămân în noi, în inimă
+Şi pentru veci cu El vom fi !
+
+[s4]
+Oricând inima ne e tristă
+Ne oprim şi ne amintim -
+/: Astăzi poate fi minunata zi
+Când Isus va reveni !
+Când speranţe nu-s, tu priveşte-n sus
+Poate azi vine Isus ! :/
+
+[s5]
+Chiar dacă suntem prigoniţi,
+noi nu suntem părăsiţi
+Şi Domnul este mereu cu noi,
+să ne scape din mari nevoi.
+Conduşi noi suntem de Duhul Sfânt
+Aici pe acest Pământ
+Până Domnul va veni
+El vine-n curând,
+cu El să ne ia-ntr-o zi !
+
+[s6]
+Oricând inima ne e tristă
+Ne oprim şi ne amintim -
+/: Astăzi poate fi minunata zi
+Când Isus va reveni !
+Când speranţe nu-s, tu priveşte-n sus
+Poate azi vine Isus ! :/ (4x)
+Poate vine azi !
+
+[order]
+s1,s2,s3,s4,s5,s6

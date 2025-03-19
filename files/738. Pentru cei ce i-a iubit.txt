@@ -1,0 +1,61 @@
+[s1]
+1. Pentru acei ce i-a iubit,
+Sus pe cruce răstignit,
+Între doi tâlhari Isus, a murit.
+Pentru cei treizeci de-arginţi,
+Fără lacrimi şi căinţi,
+M-aţi vândut preoţilor, ca să mor.
+738.  La M
+
+[r1]
+Cor:	Oile mele, ce v-am făcut eu vouă?
+În loc să veniţi,
+Crucea să-mi fi luat,
+Cunună de spini mi-aţi dat.
+Oile mele, ce v-am făcut eu vouă?
+M-aţi dus la Calvar,
+Ca să mor pentru voi,
+Să fiţi voi mântuiţi.
+
+[s2]
+2. Iudo, oişoara mea,
+Ca să-ţi umpli punga ta
+M-ai vândut tu la duşmani,
+Pentru bani
+Te-am nedreptăţit cândva?
+Sau ţi-am tras dragostea mea?
+Pentru bine ce ţi-am vrut,
+M-ai vândut.
+
+[s3]
+3. Când erai între călăi
+Te uitai la banii tăi
+Şi plângeai de ce-ai lucrat
+Că-i păcat
+Dat-ai banii la preoţi
+Celor mincinoşi şi hoţi
+Nu primesc ei banii tăi
+Că sunt răi.
+
+[s4]
+4. Cu banii care i-ai luat
+Tu nimic n-ai cumpărat
+Ai ajuns lumii de râs
+Cum stă scris
+E târziu să te căieşti
+După ce păcătuieşti
+Lacrimi de ar curge pârâu
+E târziu.
+
+[s5]
+5. Pe păşuni verzi v-am purtat,
+Şi la timp v-am adăpat.
+Şi-am umblat prin vânt şi ploi,
+Pentru voi.
+Ziua-ntreagă prin păduri,
+V-am păzit de lupi şi hoţi.
+Pentru bine ce v-am vrut,
+M-aţi vândut.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

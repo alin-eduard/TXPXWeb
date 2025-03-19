@@ -1,0 +1,43 @@
+[s1]
+2233
+1. Știind că robia sfârșește,
+un duh diabolic cumplit
+Pătrunde-n Egipt și stârnește ideea de-a fi nimicit
+Copilul ce-avea să dezlege tot lanțul robiei de fier
+Și astfel toți pruncii din Gosen se-aruncă în Nil nestingher.
+
+[s2]
+2. Prin el mișunau crocodilii,
+cu ochii flămânzi, prădători
+Nicicând nu făceau pe umilii, acum toți sunt îndurători
+Pe Nil micul Moise plutește
+într-un legănuț liniștit
+Pe valuri refugiu-și găsește, căci la Faraon n-a găsit.
+
+[s3]
+3. Dar valuri vibrânde,
+miloase l-au îmbrățișat pe copil
+Prin unde-i cântarea duioasă, cântări pentr-un leagăn umil
+Cu foșnet apoi palmierii,
+prin vânt în susur cristalin
+Prin freamăt și cocotierii,
+de păsări în cântec divin.
+
+[s4]
+4. Departe-n suspin surioara, privea spre al ei frățior
+Cântând dar spre el se-ndreaptă, un braț dulce mângâietor
+Iar Moise ajunge la mama,
+ce l-a alăptat cu mult dor
+Căci ochiul ce veșnic veghează, i-a fost chiar atunci salvator.
+
+[s5]
+5. Din leagăn ieșise copilul,
+prin el, Domnu-a scos din nevoi
+Din jugul robiei poporul,
+Celui ce ne-a scos și pe noi
+Sortiți fost-am și noi la moarte, dar din valul morții ne-a smuls
+Un Prinț care ceruri străbate
+și numele Lui e Isus.
+
+[order]
+s1,s2,s3,s4,s5

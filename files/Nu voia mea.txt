@@ -1,0 +1,38 @@
+[s1]
+Nu voia mea ci voia Ta
+In toate sa-mplinesc
+Orice-as plati cat m-ar costa
+Dar vreau sa fie voia Ta
+O, Tatal meu ceresc.
+Re m
+
+[s2]
+Nu voia mea ci voia Ta
+S-o-nalt oricand deplin
+Orice mi-s-ar putea-ntampla
+Dar vreau sa fie voia Ta
+O, Tatal meu divin.
+
+[s3]
+Nu voia mea ci voia Ta
+Sa fie-ntot ce simt
+Chiar singur dac-as ramanea
+Dar vreau sa fie voia Ta
+O, Tatal meu cel Sfant.
+
+[s4]
+Nu voia mea ci voia Ta
+Și-acum  și-n nesfârșit.
+Pe Tine sa Te pot-nalta
+Asa cum este voia Ta
+O, Tatal meu slavit .
+
+[s5]
+Caci voia Ta e viata mea
+E cat nu pot sa spun
+Ea-mi da imparatia Ta
+Cu haruri nemaispuse-n ea
+O, Tatal meu prea bun.
+
+[order]
+s1,s2,s3,s4,s5

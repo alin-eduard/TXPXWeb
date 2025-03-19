@@ -1,0 +1,56 @@
+[s1]
+La Tine, Doamne Sfinte,
+Noi azi venim,
+La poala crucii Tale, sa ne smerim;
+/: Si Te rugam fierbinte:
+Adu-Ti de noi aminte,
+Revarsa-Ti harul Tau
+Ca mai inainte! :/
+
+[s2]
+Cobori pe unda slavei,
+Domnul iubirii,
+Si uda-n asta seara toti trandafirii!
+/: Sa simta fiecare
+C-aici, in adunare,
+Lucreaza Dumnezeul
+Nostru cel mare. :/
+
+[s3]
+Asculta-nestrigarea,
+O, Doamne mare!
+Lucreaza cu putere, in adunare,
+/: Sa simta fiecare,
+Sa strige-n gura mare
+Ca L-a-ntalnit pe Domnul
+In adunare. :/
+
+[s4]
+Mai ridica o data
+Oaia ranita!
+Mai mangaie pe cea cazuta in ispita,
+/: Sa simta fiecare
+C-aici, in adunare
+S-a prezentat azi domnul
+Nostru cel mare. :/
+
+[s5]
+Mai striga iar pe nume
+Oaia pierduta,
+Ca spini si maracini sunt gata s-o inghita.
+/: S-o iei pe brat de mama,
+Sa-I torni balsam pe rana,
+Si mangaiere sfanta
+Sa-I dai la cea bolnava. :/
+
+[s6]
+Asculta-ne strigarea,
+O, Doamne mare!
+Lucreaza cu putere, in adunare,
+/: Sa strige fiecare
+Ca-I har in adunare!
+Traiasca Dumnezeul
+Nostru cel mare! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

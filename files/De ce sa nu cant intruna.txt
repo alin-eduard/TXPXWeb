@@ -1,0 +1,50 @@
+[s1]
+De ce să nu cânt întruna
+mulţumind lui Dumnezeu?
+Căci spre bine totdeauna
+mă conduce sfatul Său;
+Toate nu-s decât iubire
+câte de la Domnul vin,
+Câte ‘nalţă şi susţin
+printre stânci de prigonire…
+Toate pier şi praf se fac,
+dar iubirea Lui stă-n veac!
+
+[s2]
+Cum un vultur sub aripă
+îşi adună pe-ai săi pui,
+Aşa Domnu-n orice clipă
+m-apără cu braţul Lui.
+El veghea ca un Părinte
+peste mine chiar când eu
+Nu ştiam de harul Său,
+fiind copil fără de minte,
+Toate pier şi praf se fac,
+dar iubirea Lui stă-n veac!
+
+[s3]
+O, nespusă bunătate!
+El pe Fiul mi L-a dat
+Din păcat şi de la moarte
+al Său sânge m-a scăpat.
+Iar în inimă îmi pune
+al credinţei foc nestins
+Care dă curaj ne-nvins
+şi chiar iadul ţi-l supune!
+Toate pier şi praf se fac,
+dar iubirea Lui stă-n veac!
+
+[s4]
+El Îşi pleacă a Sa faţă
+şi mă scapă de-orice rău
+Iar în orice dimineaţă
+mă învaţă-un cântec nou…
+Dă-mi, o, Doamne-acum
+putere să pricep iubirea Ta
+Veşnic să rămân în ea
+împlinind tot ce-mi vei cere
+Şi-n cântări şi-n tot ce fac
+să te preamăresc în veac!
+
+[order]
+s1,s2,s3,s4

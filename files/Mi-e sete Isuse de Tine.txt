@@ -1,0 +1,32 @@
+[s1]
+Mi-e sete Isuse de Tine,
+Şi-alerg neîncetat la izvor,
+Prin lumea ce zace-n ruine,
+Precum e-un pustiu arzător,
+Eu simt cum chiar trupu-mi tânjeşte
+Umblând zi de zi pe pământ,
+Deşertul se-ntinde şi creşte,
+Şi eu în zadar mă frământ...
+
+[r1]
+Mi-e sete să-Ţi văd azi puterea
+Şi slava ce-o ai sus în cer,
+Te-aştept şi doresc mângâiere
+Ce-a plină de-atâta mister,
+Mai mult decât viaţa întreagă
+E-a Ta bunătate mereu,
+Şi lauda Ta ce mi-e dragă,
+Atunci când eu plâng şi mi-e greu.
+
+[s2]
+Mi-e sete de-a Ta-mpărăţie,
+Pe care-o visez şi-o trăiesc,
+Dă-mi iarăşi prin har bucurie,
+În Tine când eu m-odihnesc,
+Mi-e sete să stau lângă Tine,
+Înălţat cu al Tău sfânt popor,
+Să-Ţi spun de-aş putea prin suspine,
+Isuse ce mult Te ador...
+
+[order]
+s1,r1,s2,r1

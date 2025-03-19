@@ -1,0 +1,37 @@
+[s1]
+Mărturisind al meu păcat
+Domnului meu ce m-a iertat,
+Mă simt în suflet binecuvântat.
+Eu nu mai sunt acum legat,
+Ci sunt pe veci eliberat,
+Cu bucurie pot să cânt
+Căci sunt salvat.
+
+[r1]
+Aleluia, aleluia!
+Păcatul meu a fost iertat la Golgota.
+Aleluia, aleluia!
+Păcatul meu a fost iertat la Golgota.
+
+[s2]
+În bogăţia di-mprejur
+Şi strălucirea acestei lumi,
+În cel mai negru
+Întuneric eu trăiam.
+Eram mereu neliniştit,
+Şi niciodată fericit,
+Dar slavă Domnului,
+Că El m-a mântuit.
+
+[s3]
+De-acum viaţa mea-i a Ta,
+Isus, Tu eşti lumina mea,
+Nădejdea mea, o, Doamne,
+Veşnic Tu vei fi.
+Aştept acea măreaţă zi,
+Când noi cu toţi în cer vom fi
+Şi paradisul veşnic
+il vom moşteni.
+
+[order]
+s1,r1,s2,r1,s3,r1

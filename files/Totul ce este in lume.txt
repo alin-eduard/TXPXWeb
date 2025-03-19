@@ -1,0 +1,40 @@
+[s1]
+Totul ce este în lume
+Este un vis trecător
+Cât ai căuta străine
+Nu vei găsi ajutor.
+
+[s2]
+/: O /: azi :/ de ce nu vii? :/
+Vino la Domnul tău. :/
+
+[s3]
+Fragedă-ţi mai este viaţa
+Şi nu ştii cum s-o trăieşti
+Zile una după alta
+Au trecut  dar şi tu treci.
+
+[r1]
+/:O /: azi :/ de ce nu vii? :/
+Vino la Domnul tău. :/
+
+[s4]
+Nu mai sta în nepăsare
+Şoapta rea să n-o primeşti
+Azi prin a Lui bunătate
+Fericirea dobândeşti.
+
+[s5]
+Te-ai gândit ce-ţi stă în faţă
+Seama de toate vei da
+După faptele făcute
+Plata tu o vei primi.
+
+[s6]
+Ştii ce-nseamnă fericirea
+Să te-mpaci cu Dumnezeu
+El îţi este creatorul
+Fiinţei sufletului Tău.
+
+[order]
+s1,s2,s3,r1,s4,r1,s5,r1,s6,r1

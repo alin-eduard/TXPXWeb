@@ -1,0 +1,30 @@
+[s1]
+Mâna în mână, din cele patru zări venim
+Suntem copiii, suntem copiii acestui pământ
+Inimi curate şi ramuri albe de măslini,
+Plini de pace cristalini,
+Astăzi vrem să vă dăruim.
+Nu vrem partide, nici în politică să intrăm,
+Despre Isus doar, să ne daţi voie să cântăm,
+Pe tot pământul, Numele Lui să-L înălţăm,
+El este Domn, cu El votăm.
+
+[r1]
+/: Toţi copiii, toţi copiii lumii,
+Îl vor ca Rege doar pe Isus
+El e viaţă din veşnicie,
+El e soare fără apus.:/
+
+[s2]
+N-avem nevoie, de vorbe mari să ne minţiţi
+Vrem numai oameni, pacea în lume s-o dobândiţi
+Să spunem lumii în orice zi despre Isus
+Cum prin moartea Sa pe lemn
+El salvare ne-a adus.
+El este Rege şi va domni în veşnicii,
+În viaţa noastră mereu pe primul loc va fi,
+Împărăţia Sa, doar cei ca noi o vor primi,
+Şi-n veci de veci, va dăinui.
+
+[order]
+s1,r1,s2,r1

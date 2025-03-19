@@ -1,0 +1,53 @@
+[s1]
+Tu eşti, Doamne, /: dorul meu! :/ x3
+Vreau s-ajung /: cerul Tau! :/ x3
+/: Tu esti, Doamne, Stanca mea,
+Cine ma va clatina
+De pe temelia mea?
+Nimenea :/
+Sol major
+
+[s2]
+Tu esti pacea /: Ce-o doream :/ x3
+Si pe care /: N-o aveam. :/ x3
+/:Tu esti bucuria mea,
+Cine ma va intrista
+Cand Ii cant lui Mesia
+Din zori pana seara? :/
+
+[s3]
+Tu-mi dai bogatii de har,
+/: da, de har :/ x3
+Nu Te iubesc /: in zadar! :/ x3
+/: Caci toti cati Te-au cautat,
+Cu maini goale de la Tine
+Niciodata n-au plecat,
+N-au plecat, n-au plecat. :/
+
+[s4]
+Tu esti farul /: luminos! :/ x3
+Eu L-am gasit /: pe Hristos. :/ x3
+/: Tu esti bucuria mea!
+L-am gasit pe Mesia!
+Cine mi L-ar putea lua?
+Nu L-as da, nu L-as da... :/
+
+[s5]
+Tu din slavi ai /: coborat, :/ x3
+Caci pe mine /: m-ai iubit. :/ x3
+/: Tu esti Printul meu ceresc
+Si eu cum sa nu slavesc
+Pe Cel Care-atat de mult
+Il iubesc, Il iubesc! :/
+
+[s6]
+Am in suflet /: bucurii :/ x3
+Ele sunt atat de vii,
+Ca nu poti sa le descrii;
+/: Caci sunt bucurii de sus!
+Mi le trimite Isus,
+Caci ma iubeste nespus,
+El, Isus! El, Isus! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,27 @@
+[s1]
+1869
+1.Am căutat pe-acest pământ , bucurii și împliniri
+Am căutat pace și iubire
+Am căutat-o la prieteni , dar am fost dezamăgit
+Fiindcă ei s-au folosit de mine.
+
+[r1]
+Cor:/:La Tine Doamne am găsit izvor de viață
+La Tine am găsit fericirea
+La Tine Doamne am găsit iubire și speranță
+La Tine am găsit mântuirea:/
+
+[s2]
+2.Lumea vrea să îți ofere plăcerile de-o clipă
+Le aduce-n fața ta ca un dar
+Dacă vrei să guști din ele și vrei să le încerci
+Vei vedea că au un gust amar.
+
+[s3]
+3.Nu e loc mai plăcut ca prezența Lui Isus
+Nu e loc mai frumos și minunat.
+El m-ajută zi de zi până voi ajunge sus
+Isus Hristos e un prieten adevărat.
+
+[order]
+s1,r1,s2,r1,s3,r1

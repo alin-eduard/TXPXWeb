@@ -1,0 +1,32 @@
+[s1]
+Păcatul ne-a-nşelat amar,
+Am fost legaţi ani mulţi în lanţuri,
+De cer, nimic noi nu ştiam,
+Dar prin Isus primit-am harul.
+
+[r1]
+Ne-am despărţit de lumea rea,
+Pe Braţe ne-a luat Salvatorul.
+Cu toţi cânta-vom fericiţi,
+Că suntem liberi azi salvaţi de Domnul.
+
+[s2]
+Noi recunoaşte c-am greşit,
+Şi pe drept merităm pedeapsa.
+Dar Isus ne-a făgăduit,
+Căci El ne iartă ne dă viaţa.
+
+[s3]
+Cu Sânge sfânt am fost spălaţi,
+În inimi El a pus speranţa.
+Spre ceruri paşii i-a-ndreptat.
+Cu Duhul Sfânt ne-a umplut viaţa.
+
+[s4]
+De-aceea noi cântăm voioşi,
+Căci sus spre ceruri ne e ţinta.
+Pe care nu cădem nicicând,
+Cu domnul avem biruinţa.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

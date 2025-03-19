@@ -1,0 +1,32 @@
+[s1]
+Eşti obosit în suflet apăsat?
+Spune-i lui Isus, spune-i lui Isus
+Eşti trist c-a lumii plăceri te-au lăsat?
+Spune-i lui Isus singur.
+
+[r1]
+Spune-i lui Isus, spune-i lui Isus
+El e prietenul cel bun
+Nu găseşti mai bun prieten sau frate
+Spune-i lui Isus singur.
+
+[s2]
+E obrazul Tău de lacrimi brăzdat?
+Spune-i lui Isus, spune-i lui Isus;
+Ascuns-ai de lume vre-un păcat?
+Spune-i lui Isus singur.
+
+[s3]
+De ţi-e teamă că furtuna vine
+Spune-i lui Isus, spune-i lui Isus!
+Te-apasă grija zilei de mâine?
+Spune-i lui Isus singur.
+
+[s4]
+Gândul morţii te nelinişteşte?
+Spune-i lui Isus, spune-i lui Isus!
+De tot gândul rău El te scuteşte
+Spune-i lui Isus singur.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

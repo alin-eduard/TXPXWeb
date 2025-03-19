@@ -1,0 +1,63 @@
+[s1]
+Sus pe deal, în chip ciudat,
+supt de priveghere
+Iată-L  ţintuit pe lemn,
+omul de durere.
+/: Om deprins cu suferinţi
+voi întoarceţi faţa !
+Nu privi că te-nfiori
+I se scurge viaţa ! :/
+
+[s2]
+Numai sânge, numai răni !
+Ce păcate grele
+L-au adus între tâlhari ?
+Ce blestem să spele ?
+/: Cum nu văd cei pricepuţi,
+doctorii, soborul ?
+Preoţi, nu vedeţi în El
+Răscumpărătorul ? :/
+
+[s3]
+Azi, când Tatăl pentru noi
+Fiul Îsi jertfeste
+Nu se-aude nici un glas dintre voi:
+<Opreste !>
+/: Vai, Acel ce ne-a creat,
+să ne poarte vina!
+Orbi, voi nu strigaţi destul:
+<El ne-a dat lumina!> ?:/
+
+[s4]
+Voi, leprosi aţi îi uitat
+trupul plin de sânge ?
+Dacă voi nu veţi striga,
+pietrele-au să strige !
+/: Paturile-n care tristi
+au căzut ologii
+Colbu-n care asteptau
+orbii sinagogii! :/
+
+[s5]
+Cârjele rămase-n drum,
+pâinea în pustie
+Şi sicriele-au rămas
+goale în pustie.
+/: Cum, să moară chiar Isus,
+El, Cel fără pată ?
+Oare-a mai iubit ca El
+cineva vreodată ? :/
+
+[s6]
+Cui îi-au mai plecat
+atunci tâmpla ucenicii?
+Cui au pus vesminte-n drum
+fâlfâind finicii?
+/:Cui Maria a jertfit lacrimi la picioare?
+Înfioară-te, Pământ, stinge-ţi raza, Soare!
+<Eli, Eli, pentru ce i-ai întors privirea?
+Sânt un vierme, nu un om
+M-a ajuns pieirea !> :/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,39 @@
+[s1]
+1413.
+1.  Doamne ia-mă-n clasa Ta
+Să învăţ şi eu ceva
+N-am caiet n-am nici creion
+Dar scriu pe inima mea
+Vreau să-ncep cu alfabetu
+Şi poruncile dintâi
+Şi încetul cu încetul
+Ce învăţ să pot trăi.
+
+[s2]
+Sunt elev cu multe absenţe
+Deşi clasele am trecut
+Dar am multe corigenţe
+În viaţa de pocăit
+Uni sar în alte clase
+Alţii spun ca-u terminat
+Nu mai vor să bea şi lapte
+Vor bucate tari deodată.
+
+[s3]
+Zi de zi mai dăm lucrare
+Dăm control extemporal
+Din capitolul cel mare
+Luptă-n luptă cu satan
+Teoretic ştim de toate
+Ca  să practic pe teren
+Avem multe corigenţe
+În probleme fel de fel.
+
+[s4]
+4.  Fraţii noştri ştim prea bine
+Ce-am aflat de la început
+Trebuie să se ştie bine
+De-a fi frate pocăit.
+
+[order]
+s1,s2,s3,s4

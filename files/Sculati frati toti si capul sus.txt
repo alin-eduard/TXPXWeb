@@ -1,0 +1,32 @@
+[s1]
+Sculaţi fraţi toţi şi capul sus,
+Zoriţi în pregătire,
+Ca mâine va veni Isus
+În toată-a Sa mărire!
+
+[s2]
+El vine spre a-mpărăţi,
+Pe-ai Lui să-i libereze;
+Aşa cum le făgădui
+Vrea să-i încoroneze!
+
+[s3]
+O, mică turmă-n grele vremi,
+Iubită eşti de Tatăl,
+Să ai curaj, să nu te temi
+Căci vine Domnul, iată-L!
+
+[s4]
+Şi dacă lumea te-a urât,
+Ocara-i ţi-e onoare…
+Statornică să fii, şi-atât:
+Isus îţi e scăpare!
+
+[s5]
+Mărire lui Isus eu cânt,
+În El sper totdeauna;
+‘L-aştept să vină în curând
+Ca să-m primesc cununa!
+
+[order]
+s1,s2,s3,s4,s5

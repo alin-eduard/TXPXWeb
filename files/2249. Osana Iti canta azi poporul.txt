@@ -1,0 +1,31 @@
+[s1]
+2249
+1. Osana Îți cântă azi poporul Că Tu ești unicul Dumnezeu
+El Ție Ți se închin-acuma
+În Duh și numai în adevăr.
+
+[r1]
+Cor: Când Moise a urcat pe munte  I-a spus Domnul prin porunci
+Să nu ai alți dumnezei
+După care să te duci
+Să nu-ți faci vreo-nfățișare
+Nici în cer, nici pe pământ
+Să nu te-nchini-naintea lor
+Că Eu sunt Acel ce sunt.
+
+[s2]
+2. Israele, ascultă-I glasul
+Al tău Domn
+este Stăpân ceresc
+Duhul Sfânt, El cu gelozie
+Vrea pentru Domnul
+ca să trăiești.
+
+[s3]
+3. Viu este Domnul și El trăiește
+E Domnul Sfânt al lui Israel
+Dar și pe neamuri El le iubește
+Căci Și-a trimis jos pe fiul Său.
+
+[order]
+s1,r1,s2,r1,s3,r1

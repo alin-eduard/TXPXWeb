@@ -1,0 +1,23 @@
+[s1]
+1516.
+1. Tată din ceruri Doamne puternic
+Tu eşti al nostru Mântuitor
+/: Tu eşti în toate Părinte veşnic
+O fii cu noi azi al tău popor :/
+2. Tată izvorul de fericire
+Pe noi sărmanii nu ne uita
+/: O vino în ale noastre inimi
+Binecuvântă-ne în mila Ta :/
+
+[s2]
+3. Din bucuria Ta bun Părinte
+Dă-ne la toţi în case aceasta
+/: Ca noi cu inima şi cu mintea
+Să simţim astăzi lumina Ta :/
+4. Tată fereşte-ne de cădere
+Pune în noi frumuseţea Ta
+/: Ajută-ne în faptă şi-n cântare
+Să te slăvim în lumea aceasta :/
+
+[order]
+s1,s2

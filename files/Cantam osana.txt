@@ -1,0 +1,32 @@
+[s1]
+Din Tine primim dar de viaţă
+Din Tine primim azi bucurii
+Ne umpli sufletul de viaţă
+Şi ne numeşti ai Tăi copii.
+
+[r1]
+Cântăm osana, cântăm mărire
+Domnului de pe pământ
+Căntăm osana, cântăm mărire
+Mielului căci este sfânt
+
+[s2]
+În inimi, Domane Tu, eşti speranţă
+Pentru noi, răul ai biruit
+Prin harul Tău ne dai viaţă
+Şi ne ajuţi să fim ai Tăi copii.
+
+[s3]
+Inima îmi îndrept spre Tine acuma
+Să Te am în piept, atât aş vrea
+Să primesc din mâna Ta cununa
+Să fiu cu Tine în Paradis, în Ţara Ta.
+
+[s4]
+Ce bucurii vor fi în Glorii
+Ce bucurii de nedescris
+Cu îngerii, noi vom serba victorii
+Şi-L vom slăvi pe Cel ce a biruit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,40 @@
+[s1]
+72.
+1. O poartă-n ceruri s-a deschis
+Prin ea străbate-o rază
+O rază văd din paradis
+Şi ea mă luminează.
+
+[s2]
+Cor:
+Îti mulţumesc că mi-ai deschis
+O poartă-n cer şi paradis
+/: Deschis :/
+Tu poarta mi-ai deschis.
+
+[s3]
+2. Pe toţi îi vrea Păstorul bun
+În cer şi strălucire
+Şi turma Lui tot urcă-n slăvi
+Şi intră-n nemurire.
+
+[r1]
+Cor:  Îti mulţumesc că mi-ai deschis
+O poartă-n cer şi paradis
+/: Deschis :/
+Tu poarta mi-ai deschis.
+
+[s4]
+3. O, rază sfântă, vino azi
+Spre cer Tu ne conduce
+O, rază care te-ai desprins
+Din jertfa-I de pe cruce.
+
+[s5]
+4. O, poartă stai deschisă azi
+Să vin şi eu în slavă
+De atâta dor de când aştept
+Mi-e inima bolnavă.
+
+[order]
+s1,s2,s3,r1,s4,r1,s5,r1

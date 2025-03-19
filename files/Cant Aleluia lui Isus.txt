@@ -1,0 +1,13 @@
+[s1]
+Cant: „Aleluia!" lui Isus,
+Cant: „Aleluia! Aleluia!"
+Cant: „Aleluia!" lui Isus
+Cinste-I aducem lui Isus.
+Glorie cantam lui Isus.
+Slava-I aducem lui Isus.
+Marire lui Isus! Amin.
+Lui ne-nchinam ne'ncetat.
+Glorie lui Isus! Amin.
+
+[order]
+s1

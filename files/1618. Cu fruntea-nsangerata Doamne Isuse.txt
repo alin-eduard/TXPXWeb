@@ -1,0 +1,41 @@
+[s1]
+1618.
+1. Cu fruntea-nsângerată,
+Doamne Isuse,
+Urci către Golgota...
+Sub crucea grea,
+Bicele romane au rupt din Tine.
+O, iubit Stăpâne, pentru vina mea.
+
+[r1]
+Cor: O, ce durere moarte se cere!
+Tu, blând Isuse, mori în locul meu!
+
+[s2]
+2. Pentru noi Isuse te duci la moarte.
+Tu, cel fără vină, Mielule ceresc!
+Şi Te rogi Isuse cu atâta milă
+Pentru cei ce strigă
+Şi Te osândesc.
+
+[s3]
+3. În mâini şi picioare
+Ţi-au bătut Isuse,
+Cei ce nu au milă, cuiele de chin,
+Iar când Ţi-a fost sete,
+Colo sus pe cruce
+Ţi-au dat vin şi fiere Mielule Divin.
+
+[s4]
+Cor: O, ce durere moarte se cere!
+Tu, blând Isuse, mori în locul meu
+
+[s5]
+4. Sa-ntristat tot cerul, Doamne Isuse
+Şi întreg pământul s-a cutremurat,
+Iar în templu Doamne,
+S-a rupt perdeaua,
+Soarele pe boltă s-a întunecat.
+
+[order]
+s1,r1,s2,r1,s3,s4,s5,r1

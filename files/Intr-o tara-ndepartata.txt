@@ -1,0 +1,37 @@
+[s1]
+Intr-o tara-ndepartata
+O fecioara preacurata,
+Din Duh Sfant insarcinata
+pe nume Maria.
+Cauta-n loc cu-nfrigurare
+Caci se naste sfantul soare,
+O ce veste, ce har mare
+s-a nascut Mesia.
+
+[r1]
+Mesia, Mesia
+Ceru-ntreg e-n sarbatoare,
+Mesia, Mesia
+Ne-a adus salvare.
+
+[s2]
+DE LA TURME CU GRABIRE
+VIN PASTORII CU IUBIRE,
+CANT-A CERULUI OSTIRE
+SLAVA SI MARIRE.
+INTR-UN STAUL JOS IN PAIE
+IN UMILE RUPTE STRAIE,
+ALEGANDU-SI SARACIA
+S-A NASCUT MESIA.
+
+[s3]
+Sa salveze omenirea
+Parasind chiar stralucirea,
+Lasand cerul, bogatia
+S-a nascut Mesia.
+Sa cantam cu bucurie
+Intr-o sfanta partasie,
+Pace intre oameni fie pace pe vecie.
+
+[order]
+s1,r1,s2,r1,s3,r1

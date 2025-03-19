@@ -1,0 +1,50 @@
+[s1]
+Spune-mi povestea iubirii,
+Scrie-o pe inima mea
+Până ce zorii slujirii
+Tot povestind m-or afla.
+Fără de fast şi onoruri,
+Inimă, iesle şi stea
+
+[s2]
+Cântă cu îngerii-n coruri
+Tandru şi sfânt osana
+Spune-mi povestea iubirii,
+Scrie-o pe inima mea,
+Până ce zorii slujirii tot
+Povestind m-or afla
+
+[s3]
+Spune-mi cum El, Impăratul,
+Trece pustiu arzător,
+Singur purtând tot păcatul,
+Să pot fi biruitor.
+Spune-mi cum Domnul
+În toate plin de iubire-a lucrat
+
+[s4]
+Până simţi-voi în fapte
+Pilda ce-o am de urmat.
+Spune-mi cum El, Împăratul,
+Trece pustiu arzător,
+Singur purtând tot păcatul,
+Să pot fi biruitor.
+
+[s5]
+Spune-mi de jertfa de pe cruce,
+Spune-mi cum El a-nviat,
+Pân-oi simţi că-mi aduce
+Pace în suflet iertat.
+Spune-mi povestea iubirii,
+Nu te opri chiar de plâng,
+
+[s6]
+Vreau de pe drumul sfinţirii
+Floare de cântec să-i strâng.
+Spune-mi de jertfa pe cruce,
+Spune-mi cum El a-nviat,
+Pân-oi simţi că-mi aduce
+Pace în suflet iertat
+
+[order]
+s1,s2,s3,s4,s5,s6

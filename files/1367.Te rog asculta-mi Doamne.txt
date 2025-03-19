@@ -1,0 +1,37 @@
+[s1]
+1367.
+1.  Te rog ascultă-mi Doamne
+Suspinul cel îndrept
+Şi rugăciunea tristă
+Necazul meu cel greu
+Căci inima mi-e frântă
+De atâtea încercări
+Şi sunt chemat la luptă
+O Doamne dă-mi puteri.
+
+[s2]
+Căci răul mă pândeşte
+La orice pas tăcut
+De nu-l am azi pe Domnul
+În luptă sunt pierdut
+Dar El îmi dă putere
+Răspuns la ruga mea
+Prin Duhul mă-ntăreşte
+Să pot înainta.
+
+[s3]
+3.  De n-ai fi fost Isuse
+Prin luptă să m-ajuţi
+Să mă-ntăreşti prin lume
+Mereu Tu să m-asculţi
+N-aş fi putut o Doamne
+Pe cale înaintată
+Biruitor în toate
+De aceea îţi voi cânta
+O veşnicie întreagă
+Pe Tine te-oi slăvi
+Căci meriţi mulţumire
+În veci Te-oi preamări.
+
+[order]
+s1,s2,s3

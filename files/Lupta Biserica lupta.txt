@@ -1,0 +1,40 @@
+[s1]
+/: Lupta Biserica
+Lupta, nu da-napoi,
+Plina de Duhul Sfant
+Inainte cu avant :/
+
+[r1]
+Luptati, luptati rugati-va,
+de Duhul Sfant umpleti-va,
+Pe Domnul Isus asteptati
+cu dragoste va imbracati.
+Luptati, vegheati, rugati-va
+de Duhul Sfant umpleti-va,
+In Domnul azi va intariti
+In rugaciune staruiti.
+
+[s2]
+/: Lupta Biserica
+Prin vant furtuna grea,
+Isus este cu noi
+Nici un pas nu da-napoi :/
+
+[s3]
+/: Lupta Biserica
+Spre cer mereu priviti,
+Chiar daca lupta-I grea
+Inapoi noi nu vom da :/
+
+[s4]
+Luptati, luptati rugati-va
+de Duhul Sfant umpleti-va,
+Pe Domnul Isus asteptati
+cu dragoste va imbracati.
+Luptati, vegheati, rugati-va
+de Duhul Sfant umpleti-va,
+In Domnul azi va intariti
+In rugaciune staruiti.
+
+[order]
+s1,r1,s2,r1,s3,s4

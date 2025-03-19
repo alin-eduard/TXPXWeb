@@ -1,0 +1,32 @@
+[s1]
+2135
+1. Vreau să mă desprind
+de tot ce-i rău
+Vreau să Îi slujesc lui Dumnezeu
+/: Să mă nasc din nou
+cum El a spus
+Vreau să-L urmez pe Isus :/.
+
+[s2]
+2. Vreau să port în mine
+chipul Lui
+Chipul blând ceresc al Domnului
+/: Crucea să mi-o iau și să
+mi-o duc
+Spre veșnicii să mi-o urc :/.
+
+[s3]
+3. Vino Doamne schimbă-mi inima
+Azi Te chem să vii în viața mea
+/: Schimbă-mă Isus ca
+să trăiesc
+Și voia Ta s-o împlinesc :/.
+
+[s4]
+4. Tot ce am greșit în viața mea
+Cred Isus că doar Tu poți ierta
+/: Cred că pe o cruce ai murit
+Să fiu și eu mântuit :/.
+
+[order]
+s1,s2,s3,s4

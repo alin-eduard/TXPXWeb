@@ -1,0 +1,26 @@
+[s1]
+/: Doamne multi
+se ridica impotriva mea
+Imi soptesc neincetat :
+Ajutor la Domnul nu vei avea  :/
+
+[r1]
+Caci Tu Domnul meu
+Imi asculti rugaciunea mea
+Si pe toti vrajmasii mei
+Tu ii vei alunga
+
+[s2]
+/:In orice clipa Domnul meu
+Ma pazesti cu Bratul Tau
+Tu-mi esti singurul D-zeu
+Ce ma ajuta in necazul meu. :/
+
+[s3]
+/:Chiar si-atunci cand adorm
+Isuse ma pazesti
+Cu Aripile Tale,
+Tu ma ocrotesti. :/
+
+[order]
+s1,r1,s2,r1,s3,r1

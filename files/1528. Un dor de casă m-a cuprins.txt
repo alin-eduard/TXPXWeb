@@ -1,0 +1,30 @@
+[s1]
+Un dor de casă m-a cuprins
+Un dor de patria de sus
+Şi chiar de sunt aici respins
+Un mic fitil aproape stins
+/:Voi fi mireasa:/ lui Isus /
+1528.     Do m
+
+[r1]
+Cor: Iubitul meu ia-mă la Tine
+Să mă odihnesc la pieptul Tău
+Să uit de lacrimi şi suspine
+/:Pentru vecii:/ să fiu al Tău :/
+
+[s2]
+2. Chiar dacă sunt căzut de tot
+Batjocorit,scuipat,lovit
+Urcuşu-i greu şi greu de tot
+El mă ridică să nu cad mort
+/: Pe stâncă voi :/ fi ocrotit
+
+[s3]
+3. Un dor de casă m-a ajuns
+Ce nu-l pot stinge sau opri
+Dar când voi acolo sus
+Se va topi lângă Isus
+/: Voi fi cu El :/ pentru veci.
+
+[order]
+s1,r1,s2,r1,s3,r1

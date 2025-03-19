@@ -1,0 +1,26 @@
+[s1]
+Ce dulce-i povara iubirii
+Pe umeri curaţi aşezată !
+Ea-i mirul din templul măririi
+Ea-i jarul din templul iubirii.
+/: Aşa e povara iubirii
+În inima-n care-i purtată. :/
+
+[s2]
+Ce albă e floarea iubirii
+Mai albă ca neaua-nsorită!
+Ea-i sfînta podoabă-a unirii
+Şi veşnic izvor fericirii
+/: Aşa este floarea iubirii
+În inima-n care-i primită. :/
+
+[s3]
+Povara şi floarea iubirii
+Păstreaz-o şi creşte-o în mine !
+Să fiu de folos mîntuirii
+Celor de pe calea pieirii
+/: Prin harul ales al iubirii
+Isus, să-i atrag lîngă Tine ! :/
+
+[order]
+s1,s2,s3

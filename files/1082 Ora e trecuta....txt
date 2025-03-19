@@ -1,0 +1,47 @@
+[s1]
+Ora e trecută lecţia-am isprăvit
+Tatăl Fiul Duhul fie proslăvit
+Căci din Cartea Sfântă noi am învăţat
+Iarăşi de iubirea Tatălui înalt.
+Cor:      Laudă şi Mărire Domnului cântăm
+Inimile noastre Lui i le predăm
+Sarea şi lumina noi le răspândim
+Tinereţea noastră Domnului jertfim
+1.
+1082.
+
+[s2]
+Din iubirea sfântă Fiul a venit
+Şi pe noi sărmanii El ne-a mântuit
+Dându-ne iertare, fericirea Sa
+Şi ne va conduce sus în ţara Sa
+2.
+Cor:       Laudă şi Mărire Domnului cântăm
+Inimile noastre Lui i le predăm
+Sarea şi lumina noi le răspândim
+Tinereţea noastră Domnului jertfim
+
+[s3]
+Noi primim putere de la Duhul sfânt
+Să conducem viaţa după al Său cuvânt
+Diavolul şi lumea când ne-ar ispiti
+Prin a Ta putere le vom birui.
+3.
+Cor:      Laudă şi Mărire Domnului cântăm
+Inimile noastre Lui i le predăm
+Sarea şi lumina noi le răspândim
+Tinereţea noastră Domnului jertfim.
+
+[s4]
+Iată-ne Părinte cum ne-am adunat
+Binecuvântează Doamne tot ce-am învăţat
+Dă-ne inimi bune ca să te mărim
+Şi de altă dată iarăşi să venim.
+4.
+Cor:      Laudă şi Mărire Domnului cântăm
+Inimile noastre Lui i le predăm
+Sarea şi lumina noi le răspândim
+Tinereţea noastră Domnului jertfim.
+
+[order]
+s1,s2,s3,s4

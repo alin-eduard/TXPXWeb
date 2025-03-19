@@ -1,0 +1,57 @@
+[s1]
+1. Când veghezi în toi de noapte
+Şi suspini aşa de greu
+Domnul bate, bate, bate
+Bate tot mereu.
+389.
+
+[r1]
+Cor: Să nu spui că-s fleacuri toate
+Căci vorbind aşa greşeşti
+Domnul spune şi tot bate
+Tu te pierzi pe veci.
+
+[s2]
+2. Moartea vine fără veste
+La palat chiar şi la beci
+Crezi că ea se îngrijeşte
+Că te pierzi pe veci.
+
+[s3]
+3. Domnul suspinând se-ntoarce
+De la casa ta
+Iar tu suflet fără pace
+Vei tot suspina.
+
+[s4]
+4. Când la poarta lui vei bate
+Şi te vei ruga
+Ai s-auzi iubite frate
+Tu nu poţi intra.
+
+[s5]
+5. Lacrimi plânset şi suspine
+Te vor năpădi
+Iar la porţile divine
+Te vor osândi.
+
+[s6]
+6. Hai deschide până-i vremea
+Domnului Isus
+Vezi că sufletul greu geme
+De păcat răpus.
+
+[s7]
+7. Vrei să stai mereu în noapte
+Şi-n suspin cu greu
+Când El bate, bate, bate
+Bate tot mereu.
+
+[s8]
+8. Spune-i Lui ce te apasă
+Tot mărturisind
+Căci Te-nvită la a Sa masă
+Fericit zâmbind.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1,s8,r1

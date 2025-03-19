@@ -1,0 +1,39 @@
+[s1]
+E plin de miraje pământul,
+De patimi ce-atrag în noroi;
+Muşcăm din păcat tot mai lacom,
+Şi tot mai flămânzi şi mai goi.
+Re minor
+
+[r1]
+/: Dar sus la Golgota, pe cruce,
+Cu pieptul de-o lance străpuns,
+La tainica vremii răscruce,
+Ne-aşteaptă, cu lacrimi, Isus. :/
+
+[s2]
+În ritm de stridente orchestre,
+Perechile lumii petrec;
+Crezându-se domni peste clipă,
+Alături cu clipele trec.
+
+[s3]
+Aleargă maşini pe artere,
+Rachete zvâcnesc printre nori;
+Tresare Selena-n cratere,
+Saturn e cuprins de fiori.
+
+[s4]
+Tu, rege al vremurilor noastre
+Tu, om, ce străbaţi prin stihii
+Tu ştii să te-nalţi printre astre
+Dar taina supremă n-o ştii!
+
+[s5]
+/: Tu nu ştii că, sus pe Golgota,
+Cu pieptul de-o lance străpuns,
+Sub norii ce-ntunecă bolta
+Ne-aşteaptă, cu lacrimi, Isus!... :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5

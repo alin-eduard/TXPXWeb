@@ -1,0 +1,56 @@
+[s1]
+Eu n-am sa te las ca sa pieri
+Când treci prin necazul cel greu
+Atunci când ma chemi în dureri,
+Eu vin! a promis Dumnezeu.
+
+[s2]
+/: Cheama-ma în ziua cea grea
+Când nori de necaz vor veni
+Atunci Eu te voi ajuta,
+Iar tu-n cânt ma vei proslavi:/
+
+[s3]
+Când ziua s-a dus, e târziu
+Si singur în noapte ramâi
+În jurul tau totu-i pustiu
+Si-o piatra de-ti pui capatâi.
+
+[s4]
+/: Cheama-ma si am sa vin
+Si-o scara la cer voi ‘nalta,
+În noapte, sub cerul senin
+Cu tine de vorba voi sta:/
+
+[s5]
+Te simti de furtuni clatinat
+Si valul te-mpinge spre stânci
+În jur mai auzi disperat
+Un vuiet de ape adânci.
+
+[s6]
+/: Cheama-ma-n clipa cea grea
+Când valul loveste cumplit,
+În Mine pe stânca vei sta
+Furtuna privind linistit:/
+
+[s7]
+Eu sunt Cel ce sunt, Dumnezeu
+Si-aud când ma strigi din necaz
+Caci Eu vad din cer chinul tau
+Si lacrima pe-al tau obraz.
+
+[s8]
+Crede si nu te-ndoi
+Asteapta-n tacere-ajutor,
+Caci Eu lânga tine voi fi
+Si chinul va fi mai usor
+
+[s9]
+Cheama-ma în ziua cea grea
+Când nori de necaz vor veni
+Atunci Eu te voi ajuta,
+Iar tu-n cânt ma vei proslavi.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

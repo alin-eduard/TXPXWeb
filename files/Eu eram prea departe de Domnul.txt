@@ -1,0 +1,45 @@
+[s1]
+Eu eram prea departe de Domnul.
+Păcătos, nu se poate mai rău.
+Mă-ntrebam: “Va salva Mântuitorul
+Pe-un aşa păcătos cum sunt eu?”
+
+[s2]
+Rătăceam prin pustiu şi-ntuneric,
+Chinuit de-acest gând tot mereu:
+“De cumva ar mai fi vreo salvare
+Pentru-aşa păcătos cum sunt eu?”
+
+[s3]
+Tocmai când răul era la culme
+Şi când, chiar disperat gemeam greu,
+ISUS mi-a şoptit că El mai poate
+A salva păcătoşi cum sunt eu.
+
+[s4]
+Ascultai, şi ce văd? Era Domnul.
+Am strigat: “Păcătos tare rău!
+Dar, te rog, fii milos şi salvează
+Pe-un aşa păcătos cum sunt eu!”
+
+[s5]
+Şi-n Hristos mă-ncrezui, deci cu totul
+Iar de-atunci fericit sunt mereu.
+Şi-L slăvesc pe-Acel
+Ce-a vrut să scape
+Pe-un aşa păcătos cum sunt eu.
+
+[s6]
+Iar de-acum nu mai bâjbâi prin noapte,
+Ci slăvesc pe Hristos tot mereu.
+Spun la toţi că El poate să scape
+Pe-un aşa păcătos cum sunt eu.
+
+[s7]
+Când calea se sfârşeşte, iar Domnul
+Va veni să-şi ia poporul Său,
+Îl voi preamări-n veci că a salvat
+Pe-un aşa păcătos cum sunt eu.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

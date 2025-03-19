@@ -1,0 +1,29 @@
+[s1]
+Al cerului cântec nespus de frumos,
+Odată, de mult ne-ai cântat
+Şi glasul Tău dulce, adânc şi duios
+/:De-atunci m-a legat, m-a legat.:/
+Simţit-am pe suflet sărutul Tău blând,
+Preasfânt, fermecat, îngeresc,
+De-atuncea Isuse Te caut plângând,
+/:De-atunci Te iubesc, Te iubesc.:/
+La M
+
+[s2]
+Pe braţul Tău dulce odată-am plecat,
+Truditul meu gând să-l alin
+Şi după odihna cea dulce-am aflat,
+/: Isuse, suspin şi suspin. :/
+Cuvântul Tău dulce şi cald l-am primit,
+Isuse, odată, de mult
+De-atunci, însetat, fermecat, fericit,
+/: Doresc să-l ascult, să-l ascult. :/
+
+[s3]
+Fiinţa mea-ntreagă, Isusea, Te vrea,
+De Tine-nsetez şi doresc
+Viaţa, lumina şi dragostea mea,
+/: Isus Te iubesc, Te iubesc. :/
+
+[order]
+s1,s2,s3

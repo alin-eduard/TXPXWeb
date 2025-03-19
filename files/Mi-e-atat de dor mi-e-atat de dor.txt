@@ -1,0 +1,26 @@
+[s1]
+Mi-e-atât de dor, mi-e-atât de dor
+De Tine, al meu Salvator,
+/: Şi-n dorul meu de azi pribeag
+Te chem mereu, Isuse drag. :/
+
+[s2]
+Te chem mereu, Te chem plângând,
+Să vii o clipă mai curând
+/: Că-mi arde inima de dor,
+Iubitul meu Mântuitor. :/
+
+[s3]
+Mi-a cucerit iubirea Ta,
+Şi inima şi viaţa mea,
+/: De azi plângând te chem din prag
+Să vii, Isuse scump şi drag. :/
+
+[s4]
+Atât de dulce-i faţa Ta,
+Suspinul ea-mi va-stâmpăra;
+/: De Tine, scump Mântuitor,
+Mi-e-atât de dor, mi-e-atât de dor! :/
+
+[order]
+s1,s2,s3,s4

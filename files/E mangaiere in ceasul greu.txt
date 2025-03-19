@@ -1,0 +1,26 @@
+[r1]
+E mângâiere în ceasul greu!
+E bucurie în gândul tău!
+/: Viaţa ta va lumina
+Atât timp cât cu El vei sta! :/
+
+[s1]
+La Isus să-ţi întorci privirea
+Al tău necaz El vrea să ia!
+Predă-te Lui cu toată firea
+Şi greul tău îţi va lua!
+
+[s2]
+Un prieten bun Isus îţi este
+El ţi-a venit în ajutor.
+Dar cere-L azi, căci El îţi vine
+Tu nu mai sta nepăsător!
+
+[s3]
+Coroană chiar Isus ţi-a pune
+Te vei numi Mireasa Lui!
+Moştenitor în locuri sfinte
+Vei fi un fiu al cerului!
+
+[order]
+r1,s1,r1,s2,r1,s3,r1

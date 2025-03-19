@@ -1,0 +1,15 @@
+[r1]
+Jos la picioarele-ti
+Stau adanc plecat
+In prezenta ta
+Sunt ingenuncheat
+
+[r2]
+/: Nu-i chemare mai mare
+Nu-i alta onoare
+Decat sa ingenunchez la tronul Tau
+Coplesit de uimire, scaldat in iubire
+Eu traiesc doar pentru a te lauda! :/
+
+[order]
+r1,r2,r1,r2

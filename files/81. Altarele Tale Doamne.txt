@@ -1,0 +1,52 @@
+[s1]
+81.
+1. /: Altarele Tale Doamne :/
+Sunt dărâmate, poporu-i rob
+Şi jertfele sunt curmate
+Porţile sunt arse toate,
+Zidurile sunt dărâmate
+/: Şi vasele Tale de cinste
+Duşmanul le-a ars pe toate :/.
+
+[r1]
+Cor: /: Caut un om
+Un om în întreaga ţară
+Să iasă noaptea
+Şi să se-nchine afară
+Să îi vorbesc ca lui Avraam
+Prima oară, şi voia Mea
+Să nu i se pară o povară :/.
+
+[s2]
+2. Din templul Tău, o, Doamne
+Din templul Tău
+Podoabele au fost furate
+Preoţi-s robi
+Cădelniţele-au fost luate
+Ţara e jefuită
+Familiile sunt dezbinate
+/: Şi tot ce au zis proorocii
+Astăzi e realitate :/.
+
+[s3]
+3. Priveşte, o, Doamne poporul
+Priveşte şi adu-Ți aminte
+Că-n templul Tău
+Slujbele erau sfinte
+Nu mai avem bucuria
+Nu mai vedem veşnicia
+/: Opreşte, o, Doamne mânia
+Salvează Tu România :/.
+
+[s4]
+4. Căci greu e-n suferinţă
+Şi mulţi au căzut învinşi
+Vrei să ne scapi
+Şi să ne dai biruinţă
+Vrem să zidim iarăşi Templul
+Vrem să ne-ntoarcem la Tine
+/: Ascultă-ne ruga Stăpâne
+Ce o înălţăm din ruine :/.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

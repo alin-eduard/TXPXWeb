@@ -1,0 +1,53 @@
+[s1]
+Mi minor
+Ce bun ai fost, Isuse,
+Căci pacea Tu ne-ai dat,
+Şi veşnica viaţă
+Prin sângele-Ţi vărsat.
+Asupra Ta dispreţul,
+Batjocura şi chinul
+Luate-au fost cu Tine,
+Spre-a ne-nnoi destinul.
+
+[r1]
+Cum vom putea să-Ţi mulţumim,
+Pentru-acest bine ce-l primim?
+Suntem săraci, n-avem ce-Ţi da,
+Isuse, ştii prea bine;
+/: Chiar dacă am plânge neâncetat
+Pe-acest pământ înstrăinat
+Ce mii de lacrimi l-au udat,
+Tot n-am fi demni de Tine. :/
+
+[s2]
+Ai îndurat ocara
+Şi bice fără număr;
+Apoi, Ţi-au dat şi crucea
+S-o duci pe al Tău umăr.
+Cu fruntea-nsângerată,
+Sub cununa de spini
+Urcai, Isuse, drumul,
+Tăcut printre străini.
+
+[s3]
+Zdrobit de suferintă,
+Pe lemn Te-au pironit,
+Dar Tu spre ei, Isuse,
+Cu mila ai privit.
+Te-ai dus astfel la moarte,
+C-apoi să ne primeşti
+Şi, prin al Tău scump sânge,
+Tu să ne mântuieşti.
+
+[s4]
+Nu suntem demni să Te urmăm,
+Dar n-avem unde să plecăm;
+Împovăraţi de-amar şi chin
+Suntem, Tu ştii prea bine.
+/: Dar prin a Ta mila, Isus,
+Tu să ne iei la Tine sus
+De pe acest pământ străin,
+Să locuim cu Tine. :/
+
+[order]
+s1,r1,s2,r1,s3,s4

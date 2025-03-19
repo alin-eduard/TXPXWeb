@@ -1,0 +1,35 @@
+[s1]
+1544.      Re
+1.Mai sus de stele, mai sus de nori
+Eu merg spre țara veșnicei splendori
+Spre locul veșnic de El promis
+Spre țara slavei, spre paradis
+
+[s2]
+Cor:   Acolo unde nu sunt dureri
+Nici chin, nici lacrimi
+Ci sfinte mângâieri
+Acolo unde e Împărat
+Isus Mesia cel Minunat
+
+[s3]
+2.Dincol’ de zare, dincol’ de-apus
+El al meu Soare, al meu drag Isus
+Pășind pe marea cea de cristal
+Să fim cu Domnul, ce mare har
+
+[r1]
+Cor:   Acolo unde nu sunt dureri
+Nici chin nici lacrimi
+Ci sfinte mângâieri
+Acolo unde e Împărat
+Isus Mesia cel Minunat
+
+[s4]
+3.N-ai vrea și tu dar amicul meu
+Să mergi în ceruri, sus la Dumnezeu
+La Domnul vieții să te găsești
+În raiul veșnic să locuiești
+
+[order]
+s1,s2,s3,r1,s4,r1

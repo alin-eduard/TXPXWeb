@@ -1,0 +1,22 @@
+[s1]
+Da eu in mine am zidit un altar
+Loc inchinat celui viu neincetat
+Doar Lui ce viata mi-a dat
+Un soare-n rasarit dinou va fi
+Lumina Lui strabate in abis
+Chiar singur, sarac
+durerea-mi plangand
+Doar la Isus eu mereu voi privi
+
+[s2]
+Da eu intr-un an voi canta lauda Sa
+Chiar de trist, apasat voi fi cateodat
+Doar la El voi privi si-atuncea
+Un soare-n rasarit dinou va fi
+/: Lumina Lui strabate in abis
+Chiar singur,
+sarac durerea-mi plangand
+/: Doar la Isus eu mereu voi privi ://
+
+[order]
+s1,s2

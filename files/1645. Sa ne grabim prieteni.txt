@@ -1,0 +1,43 @@
+[s1]
+1645.  Re
+1. Să ne grăbim prieteni,
+E vremea-nspre apus!
+Cu candele aprinse
+Fecioarele s-au dus.
+/: Îşi pregătesc talanţii
+Cei care-au ostenit
+Spre clipa socotirii,
+/ Stăpânului sosit. :/
+
+[s2]
+2. Încinşi stau gata robii,
+Aşteaptă doar un semn
+Să iasă să-I deschidă
+La cel dintâi îndemn.
+/: Grăbesc vierii lucrul
+Culesului rămas
+Afară robii taie
+Viţelul cel mai gras. :/
+
+[s3]
+3. Şi-ascut secerătorii
+Uneltele de zor,
+Ispravnicii cei harnici
+Şi-ncheie munca lor.
+/: Stau mesele-ncărcate
+Trimişii sunt plecaţi
+Grăbind să strângă-acasă
+Pe ultimii chemaţi. :/
+
+[s4]
+4. Cununi strălucitoare
+Veşmintele de in
+Şi scaune albe aşteaptă
+Pe-aceia care vin.
+/: Străjerii toţi sunt gata,
+Cu trâmbiţele-n sus,
+Să ne grăbim prieteni,
+Fecioarele s-au dus!:/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,32 @@
+[s1]
+Ce mult el m-a iubit,
+caci El m-a mantuit
+Prin jertfa Lui rascumparat
+in sange sunt salvat.
+
+[r1]
+/: Isus e-al meu pastor
+iubit conducator
+El ma conduce la pasuni
+la ape dulci si la izvoare :/
+
+[s2]
+Ajuta-ma ca sa-Ti slujesc
+o, Doamne numai Tie
+Si sa nu-Ti uit iubirea Ta
+s-ajung in imparatia TA.
+
+[s3]
+Cum pot sa-ti seaman Tie
+in vorbe si in fapte ?
+Urmandu-Ti calea Ta Isus,
+pan’ voi ajunge sus.
+
+[s4]
+Cu dor astept mareata zi
+cand Tu pe nori vei aparea
+Eu stiu ca mult nu va mai fi,
+si noi cu toti Te vom vedea.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

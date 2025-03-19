@@ -1,0 +1,20 @@
+[r1]
+Vino, e timpul să ne închinăm,
+Vino, acum deschide-ţi inima,
+Vino, aşa cum eşti să ne-nchinăm
+Vino, aşa cum eşti ‘naintea Sa, o, da.
+
+[s1]
+Orice limbă să-L laude doar pe Isus,
+Orice genunchi să se plece
+Căci El e cel mai mare-n veci de veci
+Alege-L, dar pe El…
+
+[s2]
+El e Stânca cea ‘naltă şi măreaţă,
+E Mielul lui Dumnezeu.
+Nimeni nu-i mai presus decât El,
+Pe El Îl adorăm…
+
+[order]
+r1,s1,r1,s2,r1

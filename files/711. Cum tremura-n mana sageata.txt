@@ -1,0 +1,31 @@
+[s1]
+Cum tremură-n mână săgeata
+În arc de viteaz luptător
+/: Cum toamna-şi adună
+Cocorii în ceată
+Fii gata, fii gata de zbor! :/
+711. 								Mi m
+
+[s2]
+2.Te-aşteaptă în ceruri răsplata
+Cununa de brav luptător
+/: Curând Salvatorul
+Îşi cheamă armata
+Fii gata, fii gata de zbor! :/
+
+[s3]
+3. Un prunc ni s-a dat în Efrata
+Şi-a fost până azi Salvator
+/: Şi-acum,
+Înainte de-a fi judecata,
+Fii gata, fii gata de zbor! :/
+
+[s4]
+4.Cum tremură-n mână săgeata
+În arc de viteaz luptător
+/: Cu-n strigăt în piept
+De voios ”Maranata”
+Fii gata, fii gata de zbor! :/
+
+[order]
+s1,s2,s3,s4

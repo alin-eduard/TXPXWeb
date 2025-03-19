@@ -1,0 +1,46 @@
+[s1]
+Fa m
+1. De-atâtea ori privesc în sus
+Spre zările senine
+/:La rugăciune aştept răspuns
+Îndură-Te de mine.:/
+195.
+
+[s2]
+2. Cu glasul Tău duios şi blând
+Îndreaptă-Te-nspre mine
+/:Căci nu-s decât un păcătos
+Răscumpărat prin Tine.:/
+
+[s3]
+3. Mai vino iar Isuse drag
+Alină-mi dorul meu
+/:Mă vezi mereu plângând în prag
+Privind spre cerul Tău.:/
+
+[s4]
+4. Stau mereu şi mă gândesc
+La taina-ţi minunată
+/:Cum aş putea ca să trăiesc
+Să Te-ntâlnesc odată.:/
+
+[s5]
+5. Această viaţă pe pământ
+Mereu cu crucea-n spate
+/:Şi tot aşa pân' la mormânt
+O, Tu le ştii pe toate.:/
+
+[s6]
+6. Acum mai mult ca orişicând
+Aş vrea să uit de toate
+/:Dar sus în cerul Tău cel drag
+Cu Tine să am parte:/
+
+[s7]
+7. Acolo n-or mai fi dureri
+Şi plânsu acolo va-nceta
+/:Plimbându-ne mereu prin cer
+Tu ne vei şterge lacrima.:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

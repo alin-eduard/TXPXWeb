@@ -1,0 +1,37 @@
+[s1]
+O lumina, în vârf de deal
+Pentru Tine Doamne voi luci
+Ca far în noapte,
+Peste albastre mări
+Petru Tine Doamne voi luci.
+
+[r1]
+/:Voi lumina,
+Oricât mi-ar fi de greu
+Voi lumina,
+Căci Tu eşti Dumnezeu
+Voi lumina,
+Aşa cum Tu mi-ai spus, Isus
+Voi lumina, Isus:/
+
+[s2]
+Ca steaua în noapte vreau şi eu
+Petru Tine Doamne a luci
+Lumina lumii peste norii grei
+Pretutindeni, Doamne voi luci.
+
+[s3]
+De-i ceaţă, de-i noapte grea
+Lumina mea va lumina
+Şi toată viaţa mea, voi lumina Isus
+Până cei din jur Te vor vedea.
+
+[s4]
+O lumină, în vârf de deal
+Petru Tine Doamne voi luci
+Ca far în noapte,
+Peste albastre mări
+Petru Tine Doamne voi luci.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

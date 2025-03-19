@@ -1,0 +1,42 @@
+[s1]
+O poartă-n ceruri s-a deschis,
+Prin ea străbate-o rază,
+E raza crucii lui Isus
+Ce-n lume luminează.
+Îţi mulţumesc Isuse-al meu,
+În Tine sper, Tu mi-ai deschis,
+Deschis… deschis…
+Tu poarta mi-ai deschis.
+
+[s2]
+Păstorul bun şi minunat
+Ne cheamă azi pe nume
+Pe cel pierdut: sărac, bogat,
+Pe orice om din lume.
+Îţi mulţumesc Isuse-al meu,
+În Tine sper, Tu mi-ai deschis,
+Deschis… deschis…
+Tu poarta mi-ai deschis.
+
+[s3]
+De frică plin, pe goană pus,
+Chiar diavolul cedează
+Căci sfânta cruce-a lui Isus
+În mers ne luminează.
+Îţi mulţumesc Isuse-al meu,
+În Tine sper, Tu mi-ai deschis,
+Deschis… deschis…
+Tu poarta mi-ai deschis.
+
+[s4]
+Deci nu vă temeţi nicidecum
+De-a lumii răutate:
+Isus Hristos ne este drum
+Spre veşnica cetate!
+Îţi mulţumesc Isuse-al meu,
+În Tine sper, Tu mi-ai deschis,
+Deschis… deschis…
+Tu poarta mi-ai deschis.
+
+[order]
+s1,s2,s3,s4

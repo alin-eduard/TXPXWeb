@@ -1,0 +1,50 @@
+[s1]
+1. Eu cred în vindecările divine
+Căci El mă vindecase şi pe mine
+Căci El e Doctorul cel bun şi mare
+În El găseşti alin şi vindecare.
+613.    								 Fa m
+
+[r1]
+Cor:
+/: În numele Lui eşti vindecat
+În numele Lui poţi fi iertat
+În numele Lui eşti mântuit
+În numele Lui eşti fericit. :/
+
+[s2]
+2. Eu cred în El căci El în veci trăieşte
+El este Atotputernic şi slăvit
+El orice boală o tămăduieşte
+Căci El e Domnul care ne-antocmit
+
+[s3]
+3. Eu cred în Domnul
+Care mă conduce
+Prin stâlpul Său de foc mistuitor
+În rănile şi-n jertfa de pe cruce
+În El găsesc balsam vindecător.
+
+[s4]
+4. Eu cred aşa cum a crezut sutaşul
+O, Doamne zi o vorbă şi-i de-ajuns
+Ne vindecă şi nouă copilaşul
+La ruga noastră dă-ne azi răspuns.
+
+[s5]
+5. Eu cred ca şi femeia feniciană
+Căci El ne dă şi azi fărâmituri
+Când El îşi pune degetul pe rană
+Eşti vindecat
+Ca orbul din Scripturi.
+
+[s6]
+6. Eu cred în Domnul
+Care-aşa ne spune
+Cu nici un chip Eu nu te voi lăsa
+Eu vin smerit la El în rugăciune
+Şi spun la toţi
+De vindecarea Sa.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

@@ -1,0 +1,32 @@
+[s1]
+/: Prin orice făptură
+Şi-orice creatură
+E toata mărirea Ta,
+Întreaga natură
+Orice limbă şi gură
+Îţi cântă aleluia. :/
+
+[r1]
+/: Osana :/
+Eşti vrednic să fii lăudat,
+/: Osana :/
+Fii binecuvântat.
+
+[s2]
+/: Privind tot înaltul,
+Ca Tine nu-I altul
+Preasfânt si înălţat,
+Să vadă oricine
+Că nu-I nimeni ca Tine
+Deci Doamne fii lăudat. :/
+
+[s3]
+/: Minuni şi mistere
+Şi-o mare putere
+E tot ce-nfăptuieşti,
+Ce planuri măreţe
+De noi ne-nţelese
+Tu Doamne le întocmeşti. :/
+
+[order]
+s1,r1,s2,r1,s3,r1

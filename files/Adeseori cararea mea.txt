@@ -1,0 +1,45 @@
+[s1]
+Adeseori cărarea mea
+E-o cale de dureri,
+/: E-o cale de-ncercare grea,
+Dar am şi mângâieri pe ea.
+Caci Domnu-mi da putere :/
+
+[s2]
+Caci orisicat de trist as fi,
+Eu simt a Lui putere;
+/: Eu nu ma tem de nici un rau,
+Caci stiu ca Dumnezeul meu
+Mi-alin-a mea durere… :/
+
+[s3]
+Când gânduri negre mă răpun,
+Si nu simt mangaiere,
+/: Necazul oare cui să-l spun?
+Caci nu gasesc pe nimeni bun
+S-aline-a mea durere… :/
+
+[s4]
+Atuncea cand m-au parasit
+Chiar prietenii pe cale,
+/: Eu m-am rugat lui Dumnezeu
+Sa imi ajute tot mereu
+Si sa imi dea rabdare, :/
+
+[s5]
+Sa pot sa iert si sa iubesc
+Vrajmasii-ntotdeauna,
+/: Caci doar asa voi birui,
+Si pentru tot ce-oi suferi
+Eu voi primi cununa :/
+
+[s6]
+6
+Un singur prieten mi-a rămas,
+Chiar la necazuri, frate;
+/: La El mă duc cu-amarul meu,
+Caci El e Fiu de Dumnezeu;
+El m-a salvat de moarte! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

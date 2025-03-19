@@ -1,0 +1,60 @@
+[s1]
+Din cerul plin de slavă,
+Domnul Isus coboară
+Din dragoste să moară
+Pentru lumea-ntreagă.
+Se va-mplini Cuvântul,
+Dar vai de sufletul
+Prin care Domnul Isus morţii e dat.
+Do minor
+
+[s2]
+/:Acum unde esti,
+Iuda, Iuda, Iuda?
+Să ştie toata lumea!
+Care e soarta ta!
+Domnul este viu,
+Iuda, Iuda, Iuda!
+Dar tu, unde eşti, Iuda?
+Pierdută-i viaţa ta!...:/
+
+[s3]
+Domnul Isus, murind,
+lumii a arătat
+Că poate peste moarte
+să fie-nvingător.
+Şi cei care-au crezut în
+Cuvântul Lui cel Sfânt
+Au fost martiri,
+dar Isus n-a fost învins.
+
+[s4]
+/: Acum unde esti,
+Nero, Nero, Nero?
+Doar stie toata lumea
+Care e soarta ta!
+Domnul este viu,
+Nero, Nero, Nero!
+Si vii sunt toti aceia
+Ucisi de mana ta! :/
+
+[s5]
+Din cerul plin de slavă,
+curând Domnul coboară,
+Copiii să Şi-I cheme din
+această lume.
+Se va-mplini Cuvântul,
+fericit sufletul
+Ne va fi când răsplata
+în cer o vom lua.
+
+[s6]
+/: Nu va mai fi nici Iuda,
+Nu va mai fi nici Nero,
+Nu va mai fi nici ura,
+Din inimile lor!
+/: Va fi numai iubire :/ (3 ori)
+În vecii vecilor! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,26 @@
+[s1]
+Se scutură crinii in gradină
+Şi atâtea flori s-au vestejit
+Căci vântul bate tot mai tare
+Din răsăritul îndepărtat.
+
+[r1]
+Şi ce durere e în gradină
+Atatea flori s-au vestejit
+Şi plange raza cea cristalină
+Şi roua Cerului iubit
+
+[s2]
+Iar petalele iubirii
+Ce răspandesc miros de crini
+Aplecate jos in tărână
+Ah, ce dureri şi ce suspin.
+
+[s3]
+De vrei sa fii in Gradina Sfântă
+Un crin frumos mirositor
+Acolo unde ingeri canta
+Si Raiul Său răcoritor.
+
+[order]
+s1,r1,s2,r1,s3,r1

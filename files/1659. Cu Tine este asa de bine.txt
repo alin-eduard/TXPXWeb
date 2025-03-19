@@ -1,0 +1,37 @@
+[s1]
+1659.
+1. Cu Tine este aşa de bine
+Isuse, Domnul meu iubit
+În Tine eu am mântuirea
+De când o Doamne m-ai gasit.
+
+[r1]
+Cor:	/:Doamne Isuse
+Tu eşti calea mea
+Adevărul şi viaţa
+Este minunat cu Tine
+Căci Tu Isuse drag
+Prin har mereu
+Mă conduci pe drumul Tău
+Şi la greu cât şi la bine:/
+
+[s2]
+2. Ce minunată-I pocăinţa
+Când o trăim după cuvânt
+Atunci dă Domnul biruinţa
+În lupta grea pe-acest pământ.
+
+[s3]
+3. Noi nu vom renunţa la luptă
+Ci vom privi mereu spre cer
+Ştim că vreme nu mai e multă
+Când vei veni Emanuel.
+
+[s4]
+4. Îmbracă-ne-n podoabe sfinte
+Cât mai trăim pe-acest pământ
+Să ţinem calea Ta înainte
+Uniţi prin Duhul Tău cel Sfant.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

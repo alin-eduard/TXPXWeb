@@ -1,0 +1,38 @@
+[s1]
+1. Să faci, o, Isuse, din inima mea
+O harfă divină, să cânţi Tu cu ea!
+/:Şi-n corzile-i sfinte,
+Să sune mai plin
+Acordul iubirii, măreţ şi sublim:/.
+178 Sol
+
+[s2]
+2. Să faci, o, Isuse, din inima mea
+O candelă sfântă, să ardă în ea
+/:Tămâia iubirii cu focu-i ceresc,
+Ca pururi în lume
+Iubind să trăiesc:/.
+
+[s3]
+3. Să faci, o, Isuse, din inima mea,
+Epistolă sfântă, să scrii Tu în ea
+/:Cuvântul iubirii, plăcut şi duios,
+Să-ndemne pe-oricine
+Spre cerul frumos! :/
+
+[s4]
+4. Să faci o, Isuse, din inima mea,
+Biserică Sfântă, să stai Tu în ea.
+/:Podoaba iubirii, cu duhul ei blând,
+S-o facă frumoasă
+Oriunde şi oricând! :/
+
+[s5]
+5. Să fie, Isuse, şi inima mea,
+Să fie întruna ca inima Ta:
+/:Izvor de iubire, de milă, de har
+Mereu tot mai plină
+Pe-al jertfei altar ! :/
+
+[order]
+s1,s2,s3,s4,s5

@@ -1,0 +1,65 @@
+[s1]
+2178
+1. Când Isuse valuri vin întruna
+În a vieții barcă spumegând
+/: Fă să-nțelegem atuncea
+Că putem pierde credința
+Doar o clipă de nu stăm veghind:/
+
+[s2]
+2. Mai plăcută-i ascultarea-n toate
+De a Domnului prea sfânt cuvânt
+El din orice încercare poate
+Să te scape frate orișicând.
+
+[s3]
+3. De-ai căzut în deznădejde frate  Și tu nu știi unde să alergi
+/: Ia, tu, atunci sfânta carte
+Căci în ea găsi-vei pace
+Legându-ți rănile sufletești :/.
+
+[s4]
+4. Ruga ta să ți-o înalți fierbinte
+Și să-L rogi în duh să te-ntărească
+Din căderea ta cea mai adâncă
+El biruitor o să te scoată.
+
+[s5]
+5. Să nu te-ndoiești
+nicicând pe cale
+Pentru că lupți singur disperat
+/: O adu-ți, adu-ți aminte
+Cum din încercări trecute
+Cu braț tare Domnul te-a salvat :/.
+
+[s6]
+6. Mulțumirea jertfă-ți fie-n toate Chiar și când norii se-ngrămădesc
+Căci în mijlocul furtunii tale
+Zorii izbăvirii se ivesc.
+
+[s7]
+7. De te-ai depărtat de sfânta cale  Care duce-n cer în veșnicii
+/: Fă-ți tu azi o cercetare
+Căci a Domnului lucrare
+Duhul Sfânt curând o va sfârși :/.
+
+[s8]
+8. Mai plăcută-i ascultarea-n toate  Decât multe jertfe pe pământ
+Căci Isus ar vrea ca să se-ntoarcă
+Sufletul ce-ascultă al Său cuvânt.
+
+[s9]
+9. Căci prin valea cu suspine grele
+Ca să mergi tu trebuie mereu
+/: Însă roagă-te întruna
+Căci El îți va da cununa
+Și tu vei fi în veci cu Dumnezeu :/.
+
+[s10]
+10.Tu să nu te temi nicicând o,frate
+Căci pe Isus Îl ai în barca ta
+El, Emanuel, păstorul nostru
+Va răpi-n curând biserica.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

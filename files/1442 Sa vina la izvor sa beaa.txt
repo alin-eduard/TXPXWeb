@@ -1,0 +1,35 @@
+[s1]
+1442. Si b
+Cor /:Să vină la izvor să bea :/
+/:Cine însetează:/
+Să vină şi să bea:/
+Apa vie curge chiar de sub altar
+Şi pe unde trece bucurie har
+Viaţă pretutindeni pe unde trece
+Râul care curge cu apă vie
+
+[s2]
+Cor /:Să vină la izvor să bea :/
+/:Cine însetează:/
+Să vină şi să bea:/
+Apa cristalină curge neîncetat
+Apa ce alină pe cel însetat
+O ce apă bună e apa vie
+Râul care curge din veşnicie
+
+[s3]
+Cor /:Să vină la izvor să bea :/
+/:Cine însetează:/
+Să vină şi să bea:/
+Râul vindecării râu vindecător
+Râu de vindecare al sufletelor
+Cine bea din apa râului bogat
+El va fi atunci-a pe loc vindecat
+
+[s4]
+Cor /:Să vină la izvor să bea :/
+/:Cine însetează:/
+Să vină şi să bea:/
+
+[order]
+s1,s2,s3,s4

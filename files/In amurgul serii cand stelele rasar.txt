@@ -1,0 +1,32 @@
+[s1]
+În amurgul serii
+Când stelele răsar
+Când Luna răspândeşte
+Raze ca de far
+Când pasărea din codru
+Sub adieri de vânt
+Îşi cântă liniştită
+Prea dulcele ei cânt
+
+[s2]
+Gândul meu se-ndreaptă
+Spre Tine, Creator
+Şi în tăcerea nopţii
+Mai am un singur dor:
+Să fiu păzit de Tine
+În nopţile senine
+Când stau pe patul meu
+Rugându-mă mereu.
+
+[s3]
+În amurgul serii
+Când stelele răsar
+În valurile mării
+Mai am un singur far.
+Acest far este Isus
+De care sânt iubit
+Şi-n grija Lui de tată
+Pe mine m-a păzit.
+
+[order]
+s1,s2,s3

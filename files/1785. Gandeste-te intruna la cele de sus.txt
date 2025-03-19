@@ -1,0 +1,46 @@
+[s1]
+1785 Re m
+1. Gândeşte-te-ntr-una la cele de sus
+Ai viaţa ascunsă-n Isus
+/:Şi-atunci când se-arată
+Hristos viaţa ta
+În slavă cu El tu vei sta:/
+Cor:	/:Fii gata de zbor, fii gata de zbor
+Spre ţara eternă, iubit călător
+Fii gata de zbor, fii gata de zbor
+Spre Domnul, de care ţi-e dor:/
+
+[s2]
+2. Vorbirea să-ţi fie întruna cu har
+Lipsită de orice amar
+/:Răscumpără vremea şi fii înţelept
+Iubirea să-ţi ardă în piept:/
+Cor:	/:Fii gata de zbor, fii gata de zbor
+Spre ţara eternă, iubit călător
+Fii gata de zbor, fii gata de zbor
+Spre Domnul, de care ţi-e dor:/
+
+[s3]
+3. Întruna să ierţi
+Cum Hristos te-a iertat
+Cu milă să fii îmbrăcat
+/:Iar pacea, sfinţirea
+Mereu s-o urmezi
+În ceruri pe Domnul să-L vezi:/
+Cor:	/:Fii gata de zbor, fii gata de zbor
+Spre ţara eternă, iubit călător
+Fii gata de zbor, fii gata de zbor
+Spre Domnul, de care ţi-e dor:/
+
+[s4]
+4. În orişice lucru mereu fii plăcut
+Lucrează creştine mai mult
+/:Măreşte-L pe Tatăl că s-a îndurat
+Că mult te-a iubit, te-a salvat:/
+Cor:	/:Fii gata de zbor, fii gata de zbor
+Spre ţara eternă, iubit călător
+Fii gata de zbor, fii gata de zbor
+Spre Domnul, de care ţi-e dor:/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,35 @@
+[s1]
+O, poate mama a uita
+Copilul ce-alăptează,
+Să n-aibă milă oare ea
+De fiul ce-l veghează?
+/: Ce-l strânge ea la sânul ei
+Şi somnul lui veghează? :/
+
+[s2]
+Dar chiar şi dacă va uita…
+Fiinţa neuitată,
+Ea totuşi nu ne va putea
+Aceasta niciodată.
+/: Eu să vă uit, Eu n-oi putea
+Aceasta niciodată :/
+
+[s3]
+Căci v-am săpat
+pe ale mele Mele mâini
+În rane neuitate
+Şi-a voastre amintiri rămân
+În ochii mei curate.
+/: Eu nu le uit, căci sunt pe veci
+În ochii Mei curate :/
+
+[s4]
+Veni-vor zile când cei răi
+Uitaţi vor fi de Tine,
+Vedea-vei fericiţi pe-ai Tăi
+Cu feţe-n veci senine.
+/: Despovăraţi şi fericiţi
+Cu feţe-n veci senine! :/
+
+[order]
+s1,s2,s3,s4

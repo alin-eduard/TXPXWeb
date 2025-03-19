@@ -1,0 +1,28 @@
+[s1]
+Dac-as fi arici, m-as opri mereu
+Si-as vorbi cu toti, ce-s in jurul meu
+Cu insecte mari, si cu cele mici
+As vorbi cu toti de arici as fi
+
+[r1]
+Dar sunt copil de Dumnezeu
+Si-am sa ma bucur cum sunt eu
+Stiu ca sunt ca El, sunt facut la fel
+In fiecare zi ma duc
+Sa vad cum lumea a facut
+Stiu ca sunt ca El, fiu de Dumnezeu
+
+[s2]
+Dac-as fi stejar, inalt as fi
+Un secol chiar, tot aici as fi
+Un padurar fara habar
+M-ar taia de tot dac-as fi stejar
+
+[s3]
+Dac-as fi catel, m-as juca mereu
+Si dupa pisici as latra mereu
+Un prieten bun pentru om as fi
+Oase as manca dac’as fi catel
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,37 @@
+[s1]
+/: Am cămin mai sus de nori
+în ţara gloriei :/
+Când vine Isus !
+Da Isus, da Isus, aminteşte-mă
+Când vii în curând !
+
+[s2]
+/: Am cămin mai sus de nori,
+vrei să vii şi tu ? :/
+Când vine Isus !
+Da Isus, da Isus, aminteşte-mă
+Când vii în curând !
+
+[s3]
+/: Jos port crucea, sus cununa
+în ţara gloriei :/
+Când vine Isus !
+Da Isus, da Isus, aminteşte-mă
+Când vii în curând !
+
+[s4]
+/: Dacă Îl accepţi pe Isus,
+în veci vei trăi :/
+Când vine Isus !
+Da Isus, da Isus, aminteşte-mă
+Când vii în curând !
+
+[s5]
+/: Isus ne va duce-acasă
+‘N Ţara Gloriei :/
+Când vine Isus!
+Da Isus, da Isus, aminteşte-mă
+Când vii în curând !
+
+[order]
+s1,s2,s3,s4,s5

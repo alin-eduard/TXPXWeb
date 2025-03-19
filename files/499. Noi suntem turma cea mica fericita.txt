@@ -1,0 +1,50 @@
+[s1]
+Noi suntem turma
+Cea mică, fericită
+De Domnul Isus e pregătită.
+/: Domnul ne-a iertat păcatul,
+Dar să nu mai facem altul,
+Bucură-te turmă mică, fericită. :/
+499							                        La
+
+[s2]
+2. Domnul ne-a schimbat
+Inima, Aleluia
+Păcatul ni l-ai şters, slavă Ţie
+/: Sângele Lui m-a curăţit
+Sufletul mi L-a mântuit
+Drumu-mpărăţiei
+Sfinte mi-a deschis. :/
+
+[s3]
+3. Lumea nu vreau
+Să mă-nşele niciodată,
+C-al meu suflet fericirea o caută.
+/: A Domnului Împărăţie
+A mea ţară vreau să fie
+O, Isuse, du-mi sufletu-n Paradis.
+
+[s4]
+4. Ai grijă suflete şi veghează
+Că Satan vrea şi el să lucreze
+/: După cum Domnul ne-a spus
+Căci vor veni mulţi Hristoşi
+Pe cei buni
+pe roade îi cunoşti.:/
+
+[s5]
+5. Nu uita că iubirea Lui este mare
+Şi vrea să te scape din pierzare
+/: Aruncă-te în braţul Lui
+Că El îţi dă Duhul Lui
+Te face să intri-n Împărăţia Lui. :/
+
+[s6]
+6. Domnul azi te cheamă cu iubire
+Ca să intri-n a Lui fericire
+/: Să ai parte acolo sus
+Cu toţi sfinţii lui Isus
+Dar ai grijă să fii credincios. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

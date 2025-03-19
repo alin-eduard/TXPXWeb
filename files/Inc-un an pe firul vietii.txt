@@ -1,0 +1,53 @@
+[s1]
+Înc-un an pe firul vieţii
+Zi de zi s-a-nfăşurat acum complet.
+Bucurii au trecut iute
+Sau dureri şi nevoi s-au scurs încet.
+Cine poate şti ce-aduce anul
+Care-n faţă stă ca un mister?
+Va aduce el o alinare
+Celor ce mereu o cer?
+
+[s2]
+Înc-un  an a smuls din inimi
+Pe-unii dragi şi iubiţi din jurul nost’.
+Au plecat plini de nădejde
+Sau cu groază c-au trăit fără rost.
+Cine poate şti ce-aduce anul
+Câţi în el vor mai putea păşi?
+Va fi oare el o întâlnire
+Sau pe mulţi va despărţi?
+
+[s3]
+Înc-un an, ce-nseamnă-aceasta?
+E un nou tribut în viaţa ta.
+Cercetează-te ce fel de lucruri
+Ai plătit şi care e valoarea lor.
+Cine poate şti ce-aduce anul
+Dacă-n el te vei putea trezi?
+Sau e-nfăşurat mai tare-n noapte
+Fără grijă vei putea trăi.
+
+[s4]
+Înc-un an e taina vieţii
+Nu lua în deşert cursul lui.
+Niciodată nu-l poţi a-l întoarce,
+Ci grăbeşte-te să fii în pasul lui.
+Cine poate şti de nu regrete
+Ce sfâşie inima cu-amar
+Vei găsi în anii ce-o să vină
+De-ţi pierzi timpul în zadar?
+
+[s5]
+Încă un an! Pricepi acuma?
+Nu te înşela cu vorbe dulci!
+Scoală-te, priveşte bine
+Ce-ai făcut !, ce-ai adus,
+Ce poţi s-aduci !
+Dacă pe Isus păstrezi în viaţă
+Barca ta îţi va pluti uşor
+Şi atuncea când e în pericol
+El te apără din nou
+
+[order]
+s1,s2,s3,s4,s5

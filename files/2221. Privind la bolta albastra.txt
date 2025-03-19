@@ -1,0 +1,53 @@
+[s1]
+2221
+1. Privind la bolta albastră
+Nu pot să nu slăvesc
+Lucrarea Ta măiastră
+O, Creator ceresc!
+‘N-atâta armonie
+eu grijile-mi destram
+Şi plin de bucurie
+Cu dragoste exclam!
+
+[r1]
+Cor: /: Eşti cel mai frumos
+Şi nimeni nu-i ca Tine
+Îţi cântă florile,Te adoră zorile
+Eşti cel mai frumos!
+Eşti cel mai frumos!
+Măreţ şi îndurat prin tot ce-ai creat
+Eşti Doamne minunat
+Eşti cel mai frumos :/.
+
+[s2]
+2. De-atâta măreţie
+Sunt Doamne copleşit
+Şi-Ţi cânt mereu doar Ţie
+O, Tatăl meu iubit
+Când razele de soare
+Zâmbind îmi bat în geam
+M-alint în acea splendoare
+Şi fericit exclam!
+
+[s3]
+3. Spre bolta cea senină
+Spre cerul infinit
+Un pumn firav de tină
+De Tine plămădit
+Atunci dorind ferbinte
+Să zbor să Te-ntâlnesc
+Pe Tine, drag Părinte
+Şi-n taină să-Ți şoptesc.
+
+[s4]
+Cor: /: Eşti cel mai frumos
+Şi nimeni nu-i ca Tine
+Îţi cântă florile,Te adoră zorile
+Eşti cel mai frumos!
+Eşti cel mai frumos!
+Măreţ şi îndurat prin tot ce-ai creat
+Eşti Doamne minunat
+Eşti cel mai frumos. :/
+
+[order]
+s1,r1,s2,r1,s3,s4

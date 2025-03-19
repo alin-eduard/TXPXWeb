@@ -1,0 +1,36 @@
+[s1]
+1317.   Re b
+1.  Atunci când Isus trecea prin Galileea
+Şi când propovăduia Evanghelia
+Orice neputinţă era şi orice boală vindeca
+Rănile cu mâna sa Isus le lega.
+2.  După El mulţime mare de popor mergea
+Cu dorinţa să-l asculte ce le predica
+Isus s-a urcat pe munte şi-a-nceput a
+predica
+Şi-a început ca să vorbească şi  să zică aşa.
+
+[s2]
+3.  Ferice le-a zis Isus de cei săraci în Duh
+Căci a lor este-mpărăţia cerurilor
+Ferice de cei ce plâng şi de cei ce-s întristaţi
+Căci de lacrimi şi durere ei vor fi scăpaţi.
+4.  Ferice de-aceia blânzi căci vor moşteni
+În împărăţia sa cu Isus vor fi
+Ferice de cei flămânzi şi de cei ce-s întristaţi
+Căci la masă cu Isus vor fi săturaţi.
+
+[s3]
+5.  Ferice de cei ce astăzi caută pacea Sa
+Căci fii ai lui Dumnezeu ei se vor chema
+Ferice de cei curaţi la inimă nepătaţi
+Vor vedea pe Dumnezeu stând pe tronul
+Său.
+6.  Ferice va fi de voi când veţi fi urâţi
+Când veţi suferi prigoane şi veţi fi loviţi
+Bucuraţi-vă cu toţii veseliţi-vă mereu
+Căci răsplata voastră-i mare sus la
+Dumnezeu.
+
+[order]
+s1,s2,s3

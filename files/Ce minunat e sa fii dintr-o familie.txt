@@ -1,0 +1,14 @@
+[s1]
+/: Ce minunat
+e să fii dintr-o familie,
+Familia sfântă-a
+Domnului Isus!:/
+
+[s2]
+/: Suntem o familie unită,
+suntem o familie reală:
+Familia care iubeste,
+familia Domnului Isus! :/
+
+[order]
+s1,s2

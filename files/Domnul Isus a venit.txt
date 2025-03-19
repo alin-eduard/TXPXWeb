@@ -1,0 +1,30 @@
+[s1]
+Domnul Isus a venit pentru noi,
+Să moară la Calvar,
+Prin jertfa Lui să ne dea tuturor,
+Al mântuirii har.
+
+[r1]
+El a venit din cer ca dar,
+De bună voie S-a smerit,
+Gata să meargă la Calvar,
+Pentru că ne-a iubit.
+Dragostea Lui a fost de-ajuns
+Pentru că sus pe lemn străpuns,
+Viaţă din viaţa Lui să dea
+Păstorul bun, Isus.
+
+[s2]
+Toată osânda păcatului greu,
+A fost asupra Sa,
+Când se ruga în grădină mereu;
+Facă-se voia Ta.
+
+[s3]
+Vino la Cel ce te poate ierta,
+Vino şi vei trăi,
+Sângele Lui izbăvire-ţi va da,
+Isus te va primi.
+
+[order]
+s1,r1,s2,r1,s3,r1

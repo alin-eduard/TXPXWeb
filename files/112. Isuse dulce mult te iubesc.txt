@@ -1,0 +1,33 @@
+[s1]
+1. Isuse dulce mult te iubesc
+Mai mult ca toate Te preţuiesc
+La pieptul Tău sfânt pace am găsit
+Numai la Tine sunt fericit.
+112.
+
+[r1]
+Cor: Isuse dulce mult Te iubesc
+Mai mult ca toate Te preţuiesc.
+
+[s2]
+2. Isuse dulce mult te iubesc
+Amic ca Tine unde găsesc
+Lumea-i amară eu fug de ea
+Alerg la Tine scăparea mea.
+
+[s3]
+3. O, Doamne
+Tu mă ierţi când greşesc
+Rana mi-o legi când eu mă lovesc
+Mântuitorul meu mult iubit
+Cu Tine în veci vreau să fiu unit.
+
+[s4]
+4. Te rog să-mi dai
+Din Duhul Tău Sfânt
+Ca să trăiesc după al Tău cuvânt
+Astfel cu sufletul, trupul meu
+În viaţă-n moarte să fiu al Tău.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

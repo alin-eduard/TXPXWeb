@@ -1,0 +1,53 @@
+[s1]
+1337.
+1.  Dumnezeu prin Duhul Sfânt
+Lui Petru i-a arătat
+Într-o vedenie răpit
+Şi astfel i-a cuvântat.
+2.  Un vas mare atârnat
+Să mănânce lui i-a dat
+Din tot felul de-animale
+Ce erau sub soare.
+
+[s2]
+Petru atunci a glăsuit
+Lui Dumnezeu din cer
+În viaţă n-am mâncat
+Ceva ce era spurcat.
+4.  Glasu-atunci a doua oară
+I-a vorbit lui Petru iara
+Nu numi tu necurat
+Ceea ce Eu am curăţat.
+
+[s3]
+5.  Acest lucru de trei ori
+S-a petrecut mereu
+Şi-atunci vasul s-a-nălţat
+În cer la Dumnezeu.
+6.  Petru a rămas uimit
+Ce să facă s-a gândit
+Însă Dumnezeu din cer
+Tot i-a descoperit.
+
+[s4]
+7.  Toate acestea ce-nsemnează
+Neamurile erau socotit
+Ca necurat
+Şi deoparte lăsat.
+8.  Dar Dumnezeu s-a îndurat
+De neamuri şi le-a chemat
+Ca să vină cine vrea
+La Împărăţia Sa.
+
+[s5]
+9.  Căci Dumnezeu a trimis
+Ca Răscumpărător
+Pe Fiul Său cel iubit
+Să fie răstignit.
+Pentru-ntreaga omenire
+Să o scape din pieire
+Să o scape din păcat
+Prin sângele vărsat.
+
+[order]
+s1,s2,s3,s4,s5

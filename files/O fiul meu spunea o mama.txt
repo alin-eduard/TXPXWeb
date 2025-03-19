@@ -1,0 +1,50 @@
+[s1]
+<O, fiul meu,> spunea o mamă
+<În seara asta nu pleca !
+Tu hai cu mine la Golgota
+Şi vezi ce se va întîmpla.
+/: Vin, la Isus, nu-ntîrzia
+Predă-ţi Lui azi viaţa ta !> :/
+
+[s2]
+Dar fiul ca răspuns îi spune :
+<Încă o dată, mama mea
+În seara asta mă voi duce
+Şi mîine mă voi pocăi.
+/: Te vei bucura, mama mea
+Cînd vei asculta ruga mea !> :/
+
+[s3]
+La miezul nopţii el petrece
+Voios ascultă muzica
+În timp ce mama cu durere
+Lîngă Scriptură se ruga.
+/: Liniştită nu putea sta
+Căci fiul ei se risipea. :/
+
+[s4]
+Dar ceasul bate miezul nopţii
+Lumina jalnic strălucea
+Iar stelele în înălţime
+Razele trist îşi întindeau.
+/: Un tînăr uşa i-a deschis
+Cu faţa tristă şi-ochii plînşi. :/
+
+[s5]
+O, vino mamă, vin degrabă
+Căci fiul tău e grav bolnav
+De-l vei vedea, multe nu-i spune
+Căci e ultima clipă a sa.>
+/: Şi mama fiul şi-a găsit
+Dar n-a vorbit, căci a murit. :/
+
+[s6]
+S-a dus timpul de pocăinţă
+Acum zace jos în mormînt
+Acum pe tine Isus te cheamă
+Nu zăbovi, vino curînd !
+/: Ascultă tu de mama ta
+Şi vei vedea fericirea. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

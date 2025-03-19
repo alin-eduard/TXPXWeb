@@ -1,0 +1,29 @@
+[s1]
+2239
+1. De pe pământ strigăm spre Tine
+Dumnezeul nost’ din cer
+/: De-aici de jos de prin ruine Robii Tăi putere-Ți cer :/.
+
+[r1]
+Cor: Să ne-ndrepți pașii către ceruri
+Și către locul Tău slăvit
+Căci doar prin Tin’ vom trece greul
+Ce ni se par stânci de granit.
+
+[s2]
+2. De-aici de unde-aproape toate Vor să ne tragă înapoi
+/: Vrem să ne ținem prin credință De flacăra aprinsă-n noi :/.
+
+[s3]
+3. Sub crucea Ta pășim, Isuse  Dar des aproape-o lăsăm jos
+/: Nu ne lăsa să ne-ndoim
+Când drumu-i greu și-anevoios :/.
+
+[s4]
+4. Când Te-om vedea noi față-n față
+Așa cum Petru Te-a văzut
+/: Noi vom păși, dar nu pe ape
+Ci ca și îngerii-n văzduh :/.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

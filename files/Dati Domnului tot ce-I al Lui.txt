@@ -1,0 +1,12 @@
+[s1]
+Daţi Domnului tot ce-I al Lui
+Daţi Domnului cinste, onoare
+Daţi Domnului laudă numelui Său
+
+[s2]
+/: Închinaţi-vă Lui în sfinţenie
+Vocea Lui răsună cu putere
+Domnul e Rege în veci :/
+
+[order]
+s1,s2

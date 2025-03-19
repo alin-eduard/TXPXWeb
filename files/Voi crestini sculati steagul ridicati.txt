@@ -1,0 +1,26 @@
+[s1]
+Voi, creştini, sculaţi, steagul ridicaţi
+Gata să luptaţi pentru El!
+Faceţi din cuvânt şi din spirit Sfânt
+Strălucite săbii de oţel.
+
+[r1]
+Sus, ostaşii Domnului sub steaguri
+Căci al Său cuvânt e militant
+Inainte peste orice praguri
+Cu Hristos, supremul comandant.
+
+[s2]
+Să pornim în marş ca viteji ostaşi
+Căci avem curaj cu Hristos!
+Noi vom birui, chiar de vom muri,
+Adevărul e mai preţios!
+
+[s3]
+Doar în Dumnezeu mă încred şi eu
+Si primesc mereu ajutor
+Printre luptători, printre-nvingători
+Vreau să cânt cu-al Domnului popor!
+
+[order]
+s1,r1,s2,r1,s3,r1

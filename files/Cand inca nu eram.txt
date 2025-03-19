@@ -1,0 +1,38 @@
+[s1]
+Când încă nu eram
+te-ai gândit la mine
+Când nu existam
+Isus mă cunoşteai
+Pe dealul Golgotei,
+pe via Dolorosa
+Purta-i păcatul meu amar
+pe cruce la calvar
+
+[r1]
+Cuiele nu te-au ţinut pe cruce
+Pute-ai atât de lesne să cobori
+Dar dragostea Ta pentru omenire
+Te-a pironit gândindu-te la noi
+
+[s2]
+Nu te-am văzut
+cum te-a văzut Maria
+Si mâna nu mi-am pus-o
+în mâna Ta
+Ca pipăind să cred
+că eşti Isus Mesia
+Cred ai murit şi-ai înviat
+să fiu şi eu salvat
+
+[s3]
+Cu dragoste prin jertfă
+m-ai mântuit
+Iertat sunt de păcate
+şi-s fericit
+In legământ am spus
+te voi urma în viată
+Isus eşti Domnul meu ceresc
+Mă-nchin şi te slăvesc
+
+[order]
+s1,r1,s2,r1,s3,r1

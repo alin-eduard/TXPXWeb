@@ -1,0 +1,24 @@
+[s1]
+Sus din ceruri mă priveşte
+Ochiul Tatălui ceresc
+Când mă uit la-a Sa privire
+Altceva nu mai doresc.
+
+[r1]
+Glorie lui Isus, lui Isus, lui Isus !
+Izbândă mi-a adus, Aleluia !
+
+[s2]
+Lacrimile mi le şterge
+Orişicând la El privesc
+Şi plângând El mă ascultă
+Şi-altceva nu mai doresc.
+
+[s3]
+Când prin valea umbrei morţii
+Trebuie să trec mereu
+Eu mă uit la-a Sa privire
+Şi nu mai îmi este greu.
+
+[order]
+s1,r1,s2,r1,s3,r1

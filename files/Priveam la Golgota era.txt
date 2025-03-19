@@ -1,0 +1,62 @@
+[s1]
+Privem la Golgota era
+În gândul meu un zvon de gloate
+Treceau trei cruci, în urma lor,
+Preoţi şi demoni din cetate
+/: Veneau stăpânii în convoi
+Şi le-auzeam pe cale paşii
+Şi-am întrebat aceştia cine-s,
+Iar Duhul mi-a răspuns: vrăşmaşii. :/
+
+[s2]
+Priveam la Golgota în duh
+Şi-mi era plin de taine gândul
+Vedeam un nour de bătrâni
+Văzduhul culmii străbătânu-l.
+/: Ei cercetau din semn în semn
+Cum se-mplinea cuvântul vieţii
+Şi-am întrebat aceştia cine-s
+Iar Duhul mi-a răspuns: profeţii. :/
+
+[s3]
+Privem la Golgota vedeam
+Minuni din ce în ce mai grele
+Vedeam cum se strângeau cei mulţi
+Prin grohotişul din vâlcele.
+/: Lovindu-se cu pumni-n piept
+Plângeau trudiţii la răscruce
+Şi-am întrebat aceştia cine-s
+Sunt cei ce văd doar om şi cruce. :/
+
+[s4]
+Privem la Golgota pătruns
+Iar peste oastea asmodeie
+Cu chip sever, cu pumnii strânşi
+Trecea prin aer o femeie.
+/: “Loviţi” striga mereu, “loviţi,
+Căci Sfânt e Domnul Împăratul”
+Şi-am întrebat aceasta cine-i
+E legea osândind păcatul. :/
+
+[s5]
+Privem la Golgota uimit
+Că sus pe cruce plin de sânge
+Murea Isus, şi-n depărtări
+Vedeam cum lanţ de lanţ se frânge.
+/: Iar nişte regi zburau cântând
+Lăsându-şi peste culmi ecoul
+Şi-am întrebat aceştia cine-s
+Cei mari slăvind în cer eroul. :/
+
+[s6]
+Privem la Golgota dar vai
+Deodată prins în cuie
+Veni din trupul lui Isus
+Al doilea trup s-atârne-n cuie
+/: Toţi îngerii, înmărmurind
+Îl arătau prin nouri iată-L
+Şi-am întrbat acesta cine-i
+Şi mi-a răspuns tot cerul: TATĂL. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

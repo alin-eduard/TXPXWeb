@@ -1,0 +1,42 @@
+[s1]
+Când duhul de trezire
+lucrează plin de foc
+/: Ce dulce fericire-i,
+mişcare-n orice loc :/
+Suflete vin în cete
+l-al lor mântuitor
+/: La El ce viaţa-şi dete
+murind în locul lor. :/
+
+[s2]
+Aicea-l vezi pe unul
+plângând al său păcat
+/: Dincolo altul cântă
+pe Isus c-a aflat. :/
+Toţi cântă cu glas tare
+iubirea lui Isus,
+/: Ce bucurie mare
+e-aici şi-n ceruri sus! :/
+
+[s3]
+Ajută-ne, Stăpâne-n
+iubire să trăim
+/: Pe cei ce ne-nconjoară
+mai mult noi să-i iubim :/
+A crucii Sale farmec,
+iubirea-I de nespus,
+/: Simţirea Ta divină
+revarsă-n noi Isus! :/
+
+[s4]
+O, fă dar Tu, Stăpâne,
+ca planul lui satan
+/: Să cadă în fărâme
+scăpând de-acest tiran :/
+A Ta împărăţie
+să crească ne-ncetat,
+/: Să fii în veşnicie
+de-ai Tăi pe veci lăudat. :/
+
+[order]
+s1,s2,s3,s4

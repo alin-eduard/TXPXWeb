@@ -1,0 +1,27 @@
+[s1]
+1. Vindecă a mea-ndoială
+Ce m-apasă uneori
+/: Când mă aflu dat uitării
+Şi prin suflet trec fiori.:/
+607. 					                            Fa  m
+
+[s2]
+2. Nici o clipă de-ndoială
+Nu vreau să am în viaţa mea
+/:C-ai venit să mă     răscumperi
+Să-mi dai pace, pacea Ta.:/
+
+[s3]
+3. Depărtează-mi îndoiala
+Când mă simt că-s părăsit
+/:Vin‘ ,Isuse, Tu     condu-mă
+Orice luptă să înving.:/
+
+[s4]
+4. Îmi ajută al meu suflet
+De Tine să nu-l despart
+/: Ci-n mai strânsă legătură
+Să mă aflu neîncetat.:/
+
+[order]
+s1,s2,s3,s4

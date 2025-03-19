@@ -1,0 +1,27 @@
+[s1]
+Isuse, Te doresc în viaţa mea,
+Nimic nu-i mai de preţ ca pacea Ta!
+
+[r1]
+Te chem în orice clipă,
+Doamne, fii cu mine!
+Eu vin cu umilinţă în faţa Ta!
+
+[s2]
+Isuse, Te doresc, cu mine fii!
+Ispitele când vin voi birui!
+
+[s3]
+Isuse, Te doresc în orice zi,
+De trec prin încercări sau bucurii!
+
+[s4]
+Te chem în orice clipă, Doamne, fii cu mine!
+Eu vin cu umilinţă în faţa Ta!
+
+[s5]
+Isuse, Te doresc, să mă sfinţeşti
+Şi tot ce ai promis să împlineşti!
+
+[order]
+s1,r1,s2,r1,s3,s4,s5,r1

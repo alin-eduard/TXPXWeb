@@ -1,0 +1,33 @@
+[s1]
+Sol minor
+Cu voia ta, ţi-alegi în viaţă
+Tot ce îţi pare mai plăcut;
+De-alegere atârnă-n faţă
+Destinul veşnic ne'ntrerupt.
+
+[r1]
+Cu voia ta, ţi-alegi salvarea:
+Isus o are pe deplin!
+Crezând în El, primeşti iertarea,
+Eşti mântuit prin har divin.
+
+[s2]
+Cu voia ta, îţi poţi alege
+Chiar azi a mântuirii zi;
+Nu amâna, căci poţi culege
+Cu-amar regretele târzii...
+
+[s3]
+Tu ai venit, în astă lume,
+Sărman şi fără voia ta;
+La fel pleca-vei, făr-a spune
+Că nu voieşti să pleci din ea.
+
+[s4]
+Cu voia ta, acum primeşte
+Chemarea Domnului slăvit!
+Doar singur El te mântuieşte!
+Doar El te face fericit!...
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

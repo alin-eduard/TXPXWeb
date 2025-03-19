@@ -1,0 +1,15 @@
+[s1]
+/: O, Isuse, eşti Împărat, eşti minunat
+O, Isuse, pe noi Tu ne-ai salvat ! :/
+
+[s2]
+/: Toată viaţa Ţie Ţi-o-nchin,
+că m-ai salvat
+Şi în ceruri voi fi cu Tine-odat. :/
+
+[s3]
+/: Aleluia, Isus e Domn în viaţa mea
+Aleluia, cînt azi lui Mesia ! :/
+
+[order]
+s1,s2,s3

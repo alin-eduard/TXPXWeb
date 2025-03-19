@@ -1,0 +1,26 @@
+[s1]
+Cuprins am fost de uimire
+De ce Isus M-a iubit
+Fiind pacatos rau din fire
+Si vrednic de osandit.
+
+[r1]
+O ce minunat! ce glorios !
+Neincetat eu voi canta
+O ce minunat! ce glorios!
+M-a salvat iubirea Sa.
+
+[s2]
+El cu sudoare de sange
+In Ghetsimani S-a rugat
+Dureri, ce plans si ce lupte
+Pentru mine a rabdat.
+
+[s3]
+Pacatul si a mea osanda
+Asupra Sa le-a luat
+Si Sa-mi de-a mie izbanda
+Muri El crucificat.
+
+[order]
+s1,r1,s2,r1,s3,r1

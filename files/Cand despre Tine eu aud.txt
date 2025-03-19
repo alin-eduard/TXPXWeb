@@ -1,0 +1,38 @@
+[s1]
+Când despre Tine eu aud,
+Mă bucur, Domnul meu;
+Ca om născut din nou eu cânt
+Căci sunt copilul Tău.
+Deşertăciune­-n jurul meu
+E totul ce zăresc,
+Nimic din lume nu doresc,
+Mântuitorul meu!
+
+[r1]
+De-­acum sunt mântuit
+Şi­-Ţi cânt că­-s fericit,
+Pe veci eu sunt copilul Tău
+Iar Tu eşti Domnul meu!
+
+[s2]
+În întuneric afundat
+Făceam ce este rău
+Dar Tu pe mine m­ai salvat
+Şi sunt copilul Tău;
+Orfan şi părăsit eram,
+Trăiam făr’ Dumnezeu,
+Acum, conducător Te am,
+Mântuitorul meu!
+
+[s3]
+Eram mort în al meu păcat
+Dar astăzi eu sunt viu
+Căci numai Tu m­ai înviat
+Cu Tine-­n veci să fiu;
+În Tine am tot ce doresc,
+Cât de bogat sunt eu,
+Copilul Tău eu mă numesc,
+Mântuitorul meu!
+
+[order]
+s1,r1,s2,r1,s3,r1

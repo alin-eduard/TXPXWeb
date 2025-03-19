@@ -1,0 +1,28 @@
+[s1]
+1. Îmi plâng amarul, dar nu disper,
+În greul vieţii privesc la cer.
+/: Am siguranţa în el mă-ncred
+Căci stanca vieţii e Dumnezeu! :/
+667. Do m
+
+[s2]
+2. Îmi plâng amarul
+L-am spus la mulţi
+Dezamăgirea mi-a fost răspuns
+/: Lume tirană cum m-ai tratat
+Pe rana vieţii balsam n-ai dat :/
+
+[s3]
+3. Îmi plâng amarul şi rana mea
+E alinată de mila Sa
+/: Îi spun lui Isus medicul meu
+El mă conduce la Dumnezeu. :/
+
+[s4]
+4. Să-ţi plângi amarul, dar nu uita,
+Isus va şterge lacrima Ta.
+/: Să ai nădejde pe drumul greu,
+Priveşte numai la Dumnezeu. :/
+
+[order]
+s1,s2,s3,s4

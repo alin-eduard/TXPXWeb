@@ -1,0 +1,39 @@
+[s1]
+1649.
+1. Pe apa mării Simon stătea,
+Cu a lui frate Andrei,
+La fel cu Iacov şi cu Ioan,
+Fii lui Zebedei.
+
+[r1]
+Cor:	/:O Galileia, o Galileia,
+În tine ucenicii s-au născut!
+O Galileia, din Galileia
+De-acolo mântuirea a-nceput :/
+
+[s2]
+2. În Galileia Domnul Isus,
+Pe mare s-a oprit,
+Pe Simon Petru El l-a chemat,
+Şi Petru a venit.
+
+[s3]
+Cor:	/:O Galileia, o Galileia,
+În tine ucenicii s-au născut,
+O Galileia, din Galileia
+De-acolo mântuirea a-nceput :/
+
+[s4]
+3. De Galilea Domnul Isus
+Era mai mult legat,
+După-nviere acol’ s-a dus
+Şi-apoi s-a înălţat.
+
+[s5]
+4. Şi la Rusalii tot ei erau,
+Când ploaia timpurie,
+Galileenii, ei s-au rugat,
+Ca Duhul Sfânt să vie.
+
+[order]
+s1,r1,s2,s3,s4,r1,s5,r1

@@ -1,0 +1,33 @@
+[s1]
+Din groapa pieirii Isus m-a salvat, Când strigătul meu
+Către El s-a-ndreptat,
+Pe stânca cea tare a pus pasul meu Şi-n suflet un cântec nou
+Să-l cânt mereu:
+
+[s2]
+“Vrednic eşti Doamne de slava Ta,
+Tu care-asculţi rugăciunea mea!”  Eu Numele Tău
+Îl voi înălţa
+În veci de veci, ALELUIA!
+
+[s3]
+Ferice de cel ce nădejdea şi-a pus
+În singurul vrednic de slavă, Isus; Gustaţi şi vedeţi îndurările Lui
+Şi pacea Lui sfântă cum în lume nu-i.
+
+[r1]
+“Vrednic eşti Doamne de slava Ta,
+Tu care-asculţi rugăciunea mea!”
+Eu Numele Tău
+Îl voi înălţa
+În veci de veci, ALELUIA!
+
+[s4]
+Minunile Lui să le port eu aş vrea
+Şi ziua şi noaptea în inima mea,
+Să duc trâmbiţând
+Vestea bună pe munţi
+S-o afle cei singuri, disperaţi şi mulţi!
+
+[order]
+s1,s2,s3,r1,s4,r1

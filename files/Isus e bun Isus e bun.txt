@@ -1,0 +1,20 @@
+[s1]
+/:Isus e bun, Isus e bun,
+Binecuvântat, fii în veci glorificat.
+Isus e bun, Isus e bun,
+De aceea-Ţi cântăm: „Tu eşti bun!”:/
+
+[s2]
+/:Isus e sfânt, Isus e sfânt,
+Numele Tău sfânt fie-n inimă oricând,
+Isus e sfânt, Isus e sfânt,
+Slavă Ţie-Ţi dăm căci eşti sfânt.:/
+
+[s3]
+/:Isus e Domn, Isus e Domn,
+Jertfă Tu te-ai dat, ca să fiu răscumpărat.
+Isus e Domn, Isus e Domn,
+Veşnic îţi cântăm căci eşti Domn.:/
+
+[order]
+s1,s2,s3

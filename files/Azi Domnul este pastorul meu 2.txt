@@ -1,0 +1,38 @@
+[s1]
+Azi Domnul este pastorul meu
+Eu lipsa n-am să duc;
+Din verzi paşuni si din ape vii,
+Eu sufletu-mi adap.
+Mi minor
+
+[s2]
+/: Povaţă-mi dă pe cararea grea;
+In lume port al Său Nume sfânt.
+Chiar şi prin moarte, eu trec uşor
+Şi nu mă tem nicicând. :/
+
+[s3]
+Toiagul Tău şi nuiaua Ta
+Mă mângâie ades;
+Pe cap mă ungi, ca să mă sfinţeşti,
+Cu untdelemn ales.
+
+[s4]
+/: Tu masa-ntinzi,
+când duşmani privesc,
+Paharul meu este astăzi plin,
+Primesc belşugul ce-l răspândeşti
+Şi-n Faţa Ta mă-nchin. :/
+
+[s5]
+Da, fericirea mă va-nsoţi,
+În toată viaţa mea,
+Şi-n casa Tatălui eu voi sta,
+Până când voi muri.
+
+[s6]
+/: Aleluia! Aleluia! Aleluia! Aleluia!
+Aleluia! Aleluia! Aleluia! Aleluia! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

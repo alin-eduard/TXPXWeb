@@ -1,0 +1,32 @@
+[s1]
+Domnul Isus grăieşte,
+Veniţi voi păcătoşi,
+La crucea care spală,
+Păcatul dureros,
+Acolo dar afla-veţi,
+Izvorul minunat,
+Al păcii şi iertării,
+De vreţi să fiţi curaţi.
+
+[s2]
+Prin jertfa-i minunată,
+De moarte eşti scăpat,
+Şi înălţat în slavă,
+Cu-al păcii Împărat,
+Cât încă ziuă este,
+Şi timp bogat de har,
+Grăbeşte dar la cruce,
+Să ai salvare-n dar.
+
+[s3]
+O câtă bucurie,
+Să-L ai pe Domnul Sfânt,
+Prieten şi povaţă,
+Cât eşti pe-acest pământ,
+Deci nu-nceta a crede,
+În sfântul Său cuvânt,
+Ce candelă rămâne,
+În beznă luminând.
+
+[order]
+s1,s2,s3

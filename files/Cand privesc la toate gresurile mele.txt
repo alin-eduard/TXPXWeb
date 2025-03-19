@@ -1,0 +1,24 @@
+[s1]
+Când privesc la toate greşurile mele
+Când mă gândesc de câte ori eu am căzut
+Îmi plec genunchii şi îi mulţumesc de harul
+Şi mila care am aflat-o la Calvar
+N-aş putea vreodat’ să îi uit dragostea
+Ce simt şi-acuma în inima mea.
+
+[r1]
+Voi învia prin Sfânt Sângele Mielului
+Voi învia când va veni pe nori
+Când priveşte-n min, El vede rodul crucii
+De-aceea în viaţa mea îi voi cânta.
+
+[s2]
+Nu vrei tu ca să-L primeşti pe Isus,
+Nu vrei tu să guşti din pacea Sa,
+El e aici şi stă cu Mainile întinse
+Aşteptând să te decizi şi să spui « da »
+Toată viaţa ta, El o va schimba
+Redându-ţi bucuria de-a cânta.
+
+[order]
+s1,r1,s2,r1

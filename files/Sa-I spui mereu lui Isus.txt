@@ -1,0 +1,48 @@
+[s1]
+Să-I spui mereu lui Isus
+A-tale greutăţi
+Căci nu găseşti în lume
+La cine să le-arăţi.
+Spune-i lui Isus toate!
+El poate ajuta,
+In viata ta pribeaga,
+El paca iti va da.
+
+[r1]
+/: Spune-I Lui, tot ce ai
+Si El te-ascultă azi, chiar azi!
+El îţi şterge lacrima
+Ce-ţi curge pe obraz. :/
+
+[s2]
+Si chiar in intristare,
+Sa-L chemi pe-acest Isus!
+El, bland asa-ti vorbeste.
+Priveste numai sus,
+De unde izbavirea
+Iti vine-amicul meu,
+In zile de-ncercare
+Si de necazul greu
+
+[s3]
+Sa nu mai spui la oameni,
+Caci toti sunt muritori,
+Caci nu-i sub ceruri altul
+Sa-ti deie ajutor,
+Isus e singur care
+Te poate ajuta
+Si cea mai grea durere
+El ti-o va alina.
+
+[s4]
+Prin incercari de-ai trece,
+Sa nu descurajezi,
+Caci asta este calea
+Pe care s-o urmezi
+Adu-ti aminte bine
+Cum Domnul a rabdat
+Si, pentru-a-tale fapte,
+Chiar viata El si-a dat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

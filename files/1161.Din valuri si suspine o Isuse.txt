@@ -1,0 +1,29 @@
+[s1]
+1161.
+1. De prin valuri şi suspine o Isuse
+Eu te chem să vii la mine vino,vino
+/: Mă păzeşte în furtună când talazuri se adună
+Să pot birui prin ele
+Suferinţi şi clipe grele : /
+2. Vreau să-mi biruiesc fiinţa, o Isuse
+Şi mă lupt cu necredinţă vino, vino
+/: Iar când eul meu se luptă
+Să privesc atunci la Tine
+Cât ai plâns tu pentru mine : /
+
+[s2]
+3.   Când mergeai cu crucea-n spate, o Isuse
+Pentru a mele mari păcate, vino, vino
+/: Atunci îmi plăteai arvuna
+Ca să pot primi cununa
+Cununa nevestejită
+Prin care sunt mântuită :/
+4.    Ai sfârşit în suferinţă o Isuse
+Ca să-mi dăruieşti credinţă vino, vino
+/: Şi să-mi semeni gelozie
+Pentru a Ta împărăţie
+Ce-ai gătit-o pentru mine
+Numai să trăiesc prin Tine :/
+
+[order]
+s1,s2

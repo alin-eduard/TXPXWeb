@@ -1,0 +1,40 @@
+[s1]
+Sa mergi pe calea-n gusta
+e-un har, e-un har nespus
+Desi pe ea e-o lupta, ea duce la Isus
+Desi-s dureri si lacrimi
+si-urcusu-i tot mai greu
+La capat ne asteapta
+pe tronu-I Dumnezeu.
+
+[s2]
+Pe-aceasta calea stramta
+putini se-anevoiesc
+Dar calea aceasta-i sfanta,
+e-un drum dumnezeiesc.
+Au mers pe ea martirii
+privind mereu in sus
+Cu dorul intalnirii de Mirele Isus.
+
+[s3]
+Au mers pe ea profetii
+si regi si imparati
+Toti sfintii si toti dreptii
+de-acelasi dor manati
+Au mers plini de iubire si
+David si-Avraam
+Privind spre rasplatire,
+spre Noul Canaan.
+
+[s4]
+Pe calea cea ingusta
+nu-s pofte, nici placeri,
+Pe ea sunt multe piedici
+si-atatea incercari;
+Pe ea sunt nori si
+neguri si cer intunecos,
+Dar e si-adesea soare
+caci Soarele-I Hristos.
+
+[order]
+s1,s2,s3,s4

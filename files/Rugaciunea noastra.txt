@@ -1,0 +1,39 @@
+[s1]
+Rugăciunea noastră
+Spre Tine-o ‘nălţăm
+Cântul nostru Doamne,
+Tie îţi cântăm
+Gândurile noastre,
+Spre Tine-aţintim
+Si din inimă vrem
+Să te slăvim.
+
+[r1]
+/: Primeşte Tu Doamne,
+Ruga noastră azi
+Lacrima ce cade
+de pe-al nost’ obraz
+Cântul deasemeni
+Tu să îl primeşti
+Toate Tu să le sfinţeşti :/
+
+[s2]
+Vrem a noastră rugă
+Să ajungă-n cer
+Unde bucurie şi necazuri pier
+Sus acolo Doamne,
+Noi dorim să fim sus în veşnicie
+Tie să-ţi slujim.
+
+[s3]
+Sus în cerul veşnic,
+Doamne dintre sfinţi
+Să ne-asculţi Tu gândul,
+Rugile fierbinţi
+Doamne eşti puternic,
+Vrem să-Ti mulţumim
+Fiindcă ne eşti Rege,
+Astăzi te slăvim.
+
+[order]
+s1,r1,s2,r1,s3,r1

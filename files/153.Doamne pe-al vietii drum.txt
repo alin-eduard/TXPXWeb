@@ -1,0 +1,38 @@
+[s1]
+153.
+Mi
+1. Doamne pe-al vieţii drum
+Eu călătoresc acum
+Dar numai Tu Domnul meu
+Ştii şi vezi unde merg eu.
+
+[r1]
+Cor: Şi când umblu şi când stau
+Viaţa mea Ţie ţi-o dau.
+
+[s2]
+2. Poate că m-am rătăcit
+Pe drumul care-i greşit
+Poate m-am apropiat
+De iadul înfricoşat.
+
+[s3]
+3. Te rog să mă cercetezi
+Sufletul să-mi luminezi
+Să cunosc o Domnul meu
+Ce e bine, ce e rău.
+
+[s4]
+4. Paşii tu să-mi îndreptezi
+Cugetul să-mi luminezi
+Să nu merg pe-o cale rea
+Ci s-ascult de voia Ta.
+
+[s5]
+5. Tu Isus cu harul Tău
+Să-mi curăţi sufletul meu
+Să fii pururi reazăm sfânt
+Pentru mine pe pământ.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

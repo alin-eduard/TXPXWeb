@@ -1,0 +1,20 @@
+[s1]
+/: Nu sînt cuvinte şi nici vorbe
+Nu este grai să-Ţi mulţumesc !
+Pentru tot ce-ai făcut, Isuse
+Mă închin şi Te slăvesc ! :/
+
+[s2]
+/: Dar am inimă, şi-aceea
+Eu Ţi-am predat-o, Domnul meu
+Să fii Stăpînul ei de-a pururi
+Şi Împăratul ei mereu ! :/
+
+[s3]
+/: Tu mă cunoşti ca nimeni altul
+Îmi ştii viaţa mea, Isus.
+Ştii cînd în inimă am lacrimi
+Şi cînd mă bucur ştii, Isus ! :/
+
+[order]
+s1,s2,s3

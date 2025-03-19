@@ -1,0 +1,39 @@
+[s1]
+1. Durerea morţii m-a cuprins
+Eu către Domnu-am plâns;
+Venind Isus m-a vindecat
+Şi nu sunt lepădat!
+573.
+Cor: /: Eu nu sunt lepădat :/
+Venind Isus m-a vindecat
+Şi nu sunt lepădat.
+
+[s2]
+2. Ca Iacov aşa eu am stat
+În rugă m-am luptat;
+Dar când cine-I eu am aflat
+Pe-al Său braţ m-am predat.
+Cor: /: Eu nu sunt lepădat :/
+Venind Isus m-a vindecat
+Şi nu sunt lepădat.
+
+[s3]
+3. Satan mi-a zis că Domnul Sfânt
+Nu m-ascultă nicicând
+Dar laudă Lui că m-a primit
+Şi-acum sunt mântuit.
+Cor: /: Eu nu sunt lepădat :/
+Venind Isus m-a vindecat
+Şi nu sunt lepădat.
+
+[s4]
+4. Azi cânt de bucurie Lui,
+Căci Domnul m-a salvat,
+Şi am să-I cânt în ceruri sus
+Căci nu sunt lepădat.
+Cor: /: Eu nu sunt lepădat :/
+Venind Isus m-a vindecat
+Şi nu sunt lepădat.
+
+[order]
+s1,s2,s3,s4

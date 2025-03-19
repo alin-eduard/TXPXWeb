@@ -1,0 +1,47 @@
+[s1]
+2051
+Cândva, sus pe Tabor
+a strălucit un nor
+Și chipul Domnului
+s-a preschimbat
+În alb strălucitor,
+ce nici un-nălbitor
+Nu l-ar putea reda așa curat.
+
+[s2]
+Cor: Acesta-i Fiul Meu
+Din cer un glas s-a auzit
+Acesta-i Fiul Meu,
+E Fiul Meu cel preaiubit.
+
+[s3]
+2. O frate, nu ți-e dor de-acel sublim fior
+Ce-a fost odată acolo pe Tabor,
+Ca cei trei ucenici, n-ai vrea și tu să zici
+„Ce bine-i, Doamne,
+cu Tine aici”?
+
+[s4]
+Cor: Altar lângă altar,
+Și-n Duhul Sfânt un
+liber zbor
+Cât încă mai e har
+Vrem, Doamne aici un sfânt Tabor
+
+[s5]
+3. Noi nu vrem trei colibi
+Nici fața să-Ți mai schimbi
+Căci dintre oameni ești
+Cel mai frumos
+Te vrem așa cum ești
+La noi să locuiești
+Ca Rege și-Împărat, Isus Hristos.
+
+[s6]
+Cor: Rămâi de-a pururea,
+Așa precum demult ai spus,
+Că nu ne vei lăsa,
+Rămâi cu noi, rămâi, Isus.
+
+[order]
+s1,s2,s3,s4,s5,s6

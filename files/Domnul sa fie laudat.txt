@@ -1,0 +1,32 @@
+[s1]
+Domnul să fie lăudat
+Că Universul a creat,
+Ce minunat l­a înzestrat!
+Aleluia! Aleluia! Aleluia!
+
+[s2]
+Cerul, pământul, mări şi vânt
+Ascultă de al Său Cuvânt,
+El este Domn în veci Preasfânt!
+Aleluia! Aleluia! Aleluia!
+
+[s3]
+Omului chipul Său i­a dat
+Şi pe pământ l­a aşezat
+Să cânte Celui Preaînalt!
+Aleluia! Aleluia! Aleluia!
+
+[s4]
+Dar şoapta rea l­a amăgit
+Şi omul a păcătuit
+Dar Dumnezeu l­a izbăvit!
+Aleluia! Aleluia! Aleluia!
+
+[s5]
+Domnul să fie lăudat
+Că mântuire El ne­a dat!
+Oricine vrea, va fi salvat!
+Aleluia! Aleluia! Aleluia!
+
+[order]
+s1,s2,s3,s4,s5

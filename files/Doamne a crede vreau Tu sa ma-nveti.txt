@@ -1,0 +1,31 @@
+[s1]
+Doamne, a crede vreau
+Tu să mă-nveţi!
+Întotdeauna vreau
+Tu să mă-nveţi!
+Cu drag a ta urmă,
+să fac doar voia Ta,
+Umil a mă ruga Tu să mă-nveţi!
+
+[s2]
+Doamne, a crede vreau
+Tu să mă-nveţi!
+Vreau să-Ţi fiu martor viu;
+Tu să mă-nveţi!
+Iată, trec zilele,
+coapte sunt holdele;
+Cum să strâng roadele
+Tu să mă-nveţi!
+
+[s3]
+Doamne, a crede vreau
+Tu să mă-nveţi!
+S-aştept venirea Ta
+Tu să mă-nveţi!
+Să-ţi placă viaţa mea,
+când Tu mă vei chema,
+Să stau în faţa Ta;
+Tu să mă-nveţi!
+
+[order]
+s1,s2,s3

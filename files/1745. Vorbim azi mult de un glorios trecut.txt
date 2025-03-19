@@ -1,0 +1,49 @@
+[s1]
+1745.    Mi m
+1. Vorbim azi mult
+De-un glorios trecut
+În cari minuni şi semne au făcut
+Copiii Tăi de pe acest pământ
+Vorbim azi mult
+De cum a fost odat`
+Când sfinţii
+Calea dreaptă au urmat
+Şi Tu din cer de sus i-ai ascultat
+
+[r1]
+Cor:	/:Acelaş eşti în veac,
+Acelaş neschimbat
+Un Dumnezeu statornic minunat
+Ce mii de ani la rând,
+Îţi ţii al Tău cuvânt
+Doar Tu eşti
+Dumnezeul cel preasfânt:/
+
+[s2]
+2. Vorbim şi azi căci încă eşti cu noi
+Şi harul Tău îl mai laşi peste noi
+Mai vii şi-acum la a noastre nevoi
+Mai ai şi astăzi braţul Tău întins
+Căci dragostea Ta
+Încă nu s-a stins
+O spun toţi cei de care Te-ai atins
+
+[s3]
+3. Atâţia oameni care-au fost legaţi
+De patimi şi de pofte-nconjuraţi
+La glasul Tău au fost eliberaţi
+Avem şi astăzi mărturii deplin
+Pe cari le faci prin Duhul Tău divin
+Cu mii de oameni cari la Tine vin
+
+[s4]
+4. Vorbim de tine singur Dumnezeu
+Care ai fost si cari rămâi mereu
+Cu toţi acei ce cred in Fiul Tău
+Vorbim ades de sfântă ţara Ta
+Ce-n dar o, Doamne sfinte
+Ne-o vei da
+Când de aici de jos ne vei chema
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

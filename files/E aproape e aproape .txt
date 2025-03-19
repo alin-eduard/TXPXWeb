@@ -1,0 +1,37 @@
+[s1]
+/: E aproape. :/
+Da, ISUS e foarte aproape!
+Vrei să simţi a Lui prezenţă?
+Crede-n El în permanenţă,
+Căci ISUS e foarte aproape.
+
+[s2]
+/: Vin degrabă! :/
+Doamne, vino mai degrabă!
+Duhul Sfânt revarsă-n mine,
+Să vorbesc în limbi străine.
+Doamne, vino mai degrabă.
+
+[s3]
+/: Domnul vine. :/
+La-mplinirea vremii vine,
+Pe Satan ca să-l zdrobească,
+Lucrul să i-l nimicească
+Şi pe sfinţi să-i ia cu Sine.
+
+[s4]
+/: Mântuire, :/
+Minunată mântuire!
+Ieri, pierdut şi-n umilinţă,
+Azi, salvat şi-n biruinţă,
+Mâine-n cer, în fericire.
+
+[s5]
+/: Prin credinţă, :/
+Înainte, prin credinţă!
+Când te afli-n slăbiciune,
+Stăruieşte-n rugăciune
+Şi-ntăreşte-te-n credinţă.
+
+[order]
+s1,s2,s3,s4,s5

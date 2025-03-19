@@ -1,0 +1,42 @@
+[s1]
+Nu poti cumpara cu bani
+Mantuirea minunata!
+/: De te-ai zbate ani si ani,
+Nu-o poti cumpara cu bani:
+Ea se da la cei sarmani,
+Prin credinta, fara plata! :/
+
+[s2]
+Nu poti prinde-n mintea ta
+Cea-ntinata si fireasca,
+/: Darul de pe Golgota!...
+Nu-l poti prinde-n mintea ta,
+Numai Duhul poate da
+Starea-n care sa-l primeasca. :/
+
+[s3]
+Nu poti, cu firesti puteri
+Sa duci luptele divine,
+/: Nici a-duhului poveri;
+Nu poti cu firesti puteri,
+Sa te urci smerit spre cer,
+De n-ai viata noua-n tine. :/
+
+[s4]
+Numai harul minunat,
+Coborat intreg pe cruce,
+/: Te ridica din pacat
+Si din loc intunecat.
+Daca crezi, cu-adevarat,
+Mantuire El ti-aduce. :/
+
+[s5]
+Leapada tot ce-i pamant!
+Leapada-ti vicleana fire!
+/: Si-atunci Domnul pururi sfant
+Iti da harul Lui cel sfant
+Si lumina si avant
+Si comori din vesnicie. :/
+
+[order]
+s1,s2,s3,s4,s5

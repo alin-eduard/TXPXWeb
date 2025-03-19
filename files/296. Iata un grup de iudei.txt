@@ -1,0 +1,65 @@
+[s1]
+1. Iată un grup de Iudei
+S-a apropiat Isus de ei
+Şi vorbind cuvântul care
+Aducea la toţi salvare
+296.
+
+[r1]
+Cor:
+O, Samaria, o, Samaria
+Pe-acolo Isus trecea
+Spre Galileia.
+
+[s2]
+2. Isus prin cetăţi umbla
+Şi pe toţi îi vindeca
+Întâlnind pe păcătoşi
+Şi El îi vindeca pe toţi.
+
+[s3]
+3. Şi o femeie din cetate
+A venit pe neaşteptate
+Ca să aducă apă bună
+Era cu găleata în mână.
+
+[s4]
+4. Isus văzând-o însetată
+I-a vorbit de-o altă apă
+Ce curgea din ceruri sus
+Apa era chiar Isus.
+
+[s5]
+5. Tu Eu ştiu, Isus i-a zis
+Că-n scripturi aşa e scris
+Voi trimite Duhul Sfânt
+Peste acei de pe pământ.
+
+[s6]
+6. Ştiu i-a zis atunci femeia
+C-are să vie Mesia
+Şi atuncea vom vedea
+Gloria şi slava Sa.
+
+[s7]
+7. Eu care vorbesc cu tine
+Sunt acela care vine
+Am venit s-aduc salvare
+Să scot lumea din pierzare.
+
+[s8]
+8. Fraţi, surori să vă grăbiţi
+Gata pentru cer să fiţi
+Când trâmbiţa va suna
+Să putem cu toţi zbura.
+
+[s9]
+Cor: O, Aleluia, o, Aleluia
+Vine Mesia pe nori
+Dup-al Său popor.
+O, Aleluia, o, Aleluia
+Aşa cum toţi vom cânta
+Când îl vom vedea.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1,s8,r1,s9

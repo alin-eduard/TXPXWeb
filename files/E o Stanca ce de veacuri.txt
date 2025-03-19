@@ -1,0 +1,26 @@
+[s1]
+E o Stâncă ce de veacuri
+Stă în valuri ca un far,
+Adăpost oricărui suflet
+Care-i dus de-al vieţii val.
+
+[r1]
+Stânca mea, a mea cetate,
+Locul meu de adăpost,
+Al meu sprijin în necazuri
+E Isus, Isus Hristos.
+
+[s2]
+În zadar furtuna bate
+Şi e noapte-n jurul meu;
+Liniştit eu stau pe Stâncă;
+Stânca mea e Dumnezeu.
+
+[s3]
+Spune-mi, suflet, dus de valuri,
+Vrei speranţă şi-ajutor?
+Doar Isus e Stânca vieţii
+Şi al tău Mântuitor!
+
+[order]
+s1,r1,s2,r1,s3,r1

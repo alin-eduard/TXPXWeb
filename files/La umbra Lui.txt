@@ -1,0 +1,36 @@
+[s1]
+Mă-ncred în El orişice s-ar întâmpla
+Mă-ncred în El, El e salvarea mea
+/:Mă-ncred în El orice ar fi,
+chiar de-i noapte sau e zi
+Mi-a spus să-L chem
+când sunt în strâmtorare
+Mă izbăveşte din cuptor,
+e Dumnezeu octrotitor
+El mă ajută când sunt în încercare:/
+
+[s2]
+La umbra Lui un
+adăpost mereu găsesc
+La umbra Lui deseori mă odihnesc
+/:La umbra Lui sunt ocrotit,
+de arşiţă sunt scutit
+Când îşi întinde Mâna Lui spre mine
+E Dumnezeu ce dă speranţă
+Eu sunt cu El în siguranţă
+La umbra Lui mă simt atât de bine:/
+
+[s3]
+La tronul Său
+am primit a Lui iertare
+În preajma Lui
+găsesc alin şi vindecare
+/:În preajma Lui sunt
+fericit fiindc-atât m-a iubit
+S-a jertfit pe cruce la Calvar
+A părăsit slăvi divine
+Şi s-a aplecat spre mine
+Dându-mi mântuirea Sa în dar:/
+
+[order]
+s1,s2,s3

@@ -1,0 +1,30 @@
+[s1]
+Sus la lucru amice creştine
+Daruieşte şi fă tot bine
+Serveşte-L pe Domnul cu averea
+Nu-L înşela oprind partea Sa
+Dacă dăruieşti, tu în schimb primeşti
+Bunuri dulci, cereşti
+Isus îţi va da, pace în inima ta
+Sol M
+
+[s2]
+Averea ta nicicând nu va scădea
+Când pe Domnul Îl vei ajuta
+Căci El toate-ti înmulţeşte ţie
+Ca şi pâinile în pustie.
+Dacă dăruieşti, tu în schimb primeşti
+Bunuri dulci, cereşti
+Isus îţi va da, pace în inima ta
+
+[s3]
+Dacă partea Domnului o opreşti
+Nicicând n-o să te îmbogăţeşti
+Căci Domnul suflă ce agoniseşti
+Şi tu fericirea n-o găseşti
+Dacă dăruieşti, tu în schimb primeşti
+Bunuri dulci, cereşti
+Isus îţi va da, pace în inima ta
+
+[order]
+s1,s2,s3

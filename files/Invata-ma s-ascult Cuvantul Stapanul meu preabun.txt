@@ -1,0 +1,37 @@
+[s1]
+Învaţă-mă s-ascult Cuvântul, Stăpânul meu preabun
+Chiar de s-ar despica pământul
+Şi fioros ar bate vântul,
+Învaţă-mă s-ascult Cuvântul şi lui să mă supun,
+Şi Lui să mă supun!
+
+[s2]
+Învaţă-mă să fiu statornic în rânduiala Ta,
+Fă-mi sufletul mereu mai dornic
+În ascultare tot mai spornic,
+Învaţă-mă să fiu statornic şi să rămân aşa,
+Şi să rămân aşa!
+
+[s3]
+Învaţă-mă lucrarea-Ţi toată şi-ntreg să fiu în ea,
+Dă-mi o cunoaştere curată,
+De rătăcire dezlegată,
+Învaţă-mă lucrarea-Ţi toată, să nu-mi fac voia mea,
+Să nu-mi fac voia mea!
+
+[s4]
+Învaţă-mă deplin iubirea, păzeşte-mă de rău,
+Să-mi înnoieşti prin ea simţirea,
+Spre Tine să-mi îndrepţi privirea,
+Învaţă-mă deplin iubirea şi Adevărul Tău,
+Şi Adevărul Tău!
+
+[s5]
+În toate să mă-nveţi pe mine, Stăpânul meu ceresc,
+Căci numai învăţat de Tine
+Pricep ce-i rău şi ce e bine,
+Pricep Scripturile divine şi ştiu cum să trăiesc,
+Şi ştiu cum să trăiesc!
+
+[order]
+s1,s2,s3,s4,s5

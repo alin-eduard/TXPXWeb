@@ -1,0 +1,43 @@
+[s1]
+1655.
+1. Se duce cel neprihănit
+Şi nimănui nu-i pasă,
+Se duc cei buni şi oare câţi
+Văd golul care-l lasă.
+Cor:	/: Ferice-acei ce-n Domnul mor,
+Căci faptele-i urmează,
+Şi la odihnă Domnul lor,
+În casa Lui i-aşează :/
+
+[s2]
+2. Dar oare câţi pricep acum,
+Căci pentru zile grele,
+Luat e cel neprihănit,
+Spre-a nu ajunge-n ele.
+Cor:	/: Ferice-acei ce-n Domnul mor,
+Căci faptele-i urmează,
+Şi la odihnă Domnul lor,
+În casa Lui i-aşează :/
+
+[s3]
+3. El intră-n pace-n groapa lui,
+Şi-n paşnică odihnă,
+Căci fericit e-n veci de veci,
+Acel ce-i fără vină.
+Cor:	/: Ferice-acei ce-n Domnul mor,
+Căci faptele-i urmează,
+Şi la odihnă Domnul lor,
+În casa Lui i-aşează :/
+
+[s4]
+4. Cel ce-a umblat pe drumul drept,
+În pace să se culce,
+C-al lui veşmânt l-a curăţit
+Şi l-a spălat prin sânge.
+Cor:	/: Ferice-acei ce-n Domnul mor,
+Căci faptele-i urmează,
+Şi la odihnă Domnul lor,
+În casa Lui i-aşează :/
+
+[order]
+s1,s2,s3,s4

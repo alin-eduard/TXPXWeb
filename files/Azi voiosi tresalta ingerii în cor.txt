@@ -1,0 +1,32 @@
+[s1]
+Azi voioşi tresaltă îngerii în cor
+Căci un suflet rătăcit s'a-ntors
+Cântă turma mică-a bunului Păstor,
+O, priviţi cât este de frumos!
+Aleluia, îngeri tresăltaţi!
+Aleluia, fraţi, surori, cântaţi!
+Mare e puterea harului de sus!
+Preamăriţi pe bunul Domn Isus!
+
+[s2]
+Azi în cor tresaltă obştea lui Hristos
+Pentru harul ce s-a arătat
+Căci a mântuit pe omul păcătos,
+Dumnezeu să fie lăudat!
+Aleluia, îngeri tresăltaţi!
+Aleluia, fraţi, surori, cântaţi!
+Mare e puterea harului de sus!
+Preamăriţi pe bunul Domn Isus!
+
+[s3]
+Bucuria-i mare-n cer la Tatăl sfânt,
+Căci un suflet azi a fost salvat
+Şi născut din nou în sfântul legământ
+De la moarte-n viaţă a intrat!
+Aleluia, îngeri tresăltaţi!
+Aleluia, fraţi, surori, cântaţi!
+Mare e puterea harului de sus!
+Preamăriţi pe bunul Domn Isus!
+
+[order]
+s1,s2,s3

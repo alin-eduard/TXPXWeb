@@ -1,0 +1,14 @@
+[s1]
+Pastori stateau de straja
+In jurul turmei lor
+Cand ingerul din slava
+Veni ‘naintea lor
+
+[s2]
+/: Va spun sa nu va temeti
+Azi v-aduc o veste buna
+O mare bucurie
+Pentru pamantu-ntreg. :/
+
+[order]
+s1,s2

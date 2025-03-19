@@ -1,0 +1,72 @@
+[s1]
+În vremea tinereţii mele,
+lumea o iubeam
+Şi străin, fără Dumnezeu,
+viaţa-mi risipeam.
+Trăiam condus de firea mea,
+în pofte tot mereu
+Dar mama suspina plîngînd
+după sufletul meu.
+
+[r1]
+Dar mama totdeauna
+În rugăciunea sa
+Numele mi-l rostea plîngînd
+Şi lacrimi vărsa.
+În rugăciunea mamei
+Numele-mi auzeam
+Dar eu deloc n-o-nţelegeam
+Şi-n seamă n-o luam.
+
+[s2]
+Umblam condus de-al lumii val,
+de Isus nu ştiam
+Pe mama, prin viaţa mea,
+zilnic o supăram.
+Deşi tristă-n inima ei,
+iubire îmi purta
+Şi numele-mi rostea mereu
+în rugăciunea sa.
+
+[s3]
+În timpul tinereţii mele,
+mama îmi spunea :
+<Ascultă, fiule, te rog,
+învăţătura mea :
+Fugi de păcate şi de rău,
+de Domnul să te temi !>
+Şi-n rugăciune-o auzeam :
+<Doamne, la Tin, să-l chemi !>
+
+[s4]
+Anii la rînd treceau mereu,
+viaţa-mi se scurta
+Şi de-a mele păcate mari
+mămica nu ştia.
+Dar ea nu înceta de loc;
+şi-n rugăciunea sa
+În plînsul ei, numele meu
+cu dragoste-l rostea.
+
+[s5]
+Tîrziu pe Domnul L-am aflat,
+pe veşnicul Isus
+De-atunci eu răul am lăsat,
+căci Îl iubesc nespus.
+I-am predat viaţa-ntreagă,
+m-am pus în slujba Sa
+Şi Îl aştept prin Duhul Sfînt
+acasă să mă ia.
+
+[s6]
+O, mamă, scumpă mamă !
+Atunci cînd te rugai
+Astăzi te înţeleg de ce
+Numele-mi pomeneai.
+O, slavă-n veci să-I fie
+Tatălui Sfînt din cer
+Căci prin a tale rugi m-a scos
+Din lume, să nu pier !
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,s6

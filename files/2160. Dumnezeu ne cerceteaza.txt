@@ -1,0 +1,42 @@
+[s1]
+2160
+1. Dumnezeu ne cercetează vasele de lut
+Și eu cânt de bucurie,
+Duhul m-a umplut, Duhul Sfânt ne-nflăcărează,
+Să-I cântăm mereu
+Cântă toată adunarea,
+mare-i Dumnezeu.
+
+[r1]
+Cor: /: Dumnezeu e mare, Dumnezeu e tare
+Domnul e cu noi în adunare :/.
+
+[s2]
+2.	Peste cei bolnavi El toarnă undelemnul Său
+Dăruiește vindecare,
+Bun e Dumnezeu
+Iar pe cei plini de-ntristare,
+îi va mângâia
+Iată Domnul ne atinge
+cu-ndurarea Sa.
+
+[s3]
+3.	Toarnă Domnul îndurarea, toarnă Duhul Sfânt
+Și acum la toți ne umple,
+vasele de lut
+Cântă toată adunarea, cu ea cânt și eu
+Inima îmi cântă-ntr-una,
+mare-i Dumnezeu.
+
+[s4]
+4. Hai și tu prieten drag,
+vino la Hristos
+Să primești a Lui iertare,
+să fii bucuros
+Mângâiere, pace sfântă,
+Domnul îți va da
+Și cu haina mântuirii,
+te va îmbrăca.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,112 @@
+[s1]
+Dacă Domnul chiar la noapte ar veni
+Vom întâmpina pe Mesia?
+Dacă firul vieţii noastre s-ar sfârşi
+Unde vom petrece veşnicia?
+2039. 									  Re m
+
+[s2]
+Poate am fost
+Creştini de-o viaţă
+Poate am primit arvuna
+Dar în sfânta dimineaţă
+Ne va întâmpina cununa?
+
+[s3]
+Se-aud paşii Lui pe drum,
+Suntem gata chiar acum
+Să zburăm spre
+Patria de sus?
+
+[s4]
+Când trâmbiţa suna-va,
+Cu toţi vedea-vom slava.
+Putea-vom sta
+′Naintea lui Isus?
+
+[s5]
+2. Dacă Domnul
+Chiar la noapte ar veni
+Câtă trudă va primi răsplată?
+Oare focul cât din ea va mistui
+Când lucrarea ne va fi-ncercată?
+
+[s6]
+Câte jertfe întregite
+Am adus ca rod sfinţirii?
+Câte altele ştirbite
+De nerăstignirea firii?
+
+[s7]
+Se-aud paşii Lui pe drum,
+Suntem gata chiar acum
+Să dăm socoteală Domnului?
+
+[s8]
+Căci vor fi răsplătite
+Doar jertfele-ntregite
+Cu ce câştig
+Venim ′naintea Lui?
+
+[s9]
+3. Dacă Domnul
+Chiar la noapte ar veni
+Va găsi smerenie şi iubire?
+Câţi din cei ce am
+Promis că-L vom sluji
+I-am adus în adevăr slujire?
+
+[s10]
+Poate-am fost
+Creştini de-o viaţa
+Dar am fost în El lumină?
+S-a văzut pe-a noastră faţă
+Strălucirea Lui divină?
+
+[s11]
+Se-aud paşii Lui pe drum,
+Suntem gata chiar acum
+Să zburăm în stol
+Spre porumbar?
+
+[s12]
+E vremea cântăririi
+Roadelor iubirii
+Să nu ne fie lupta în zadar!
+
+[s13]
+4. Iar de Domnul
+Chiar la noapte n-ar veni
+El e-aici prezent în adunare
+Jertfa Lui încă mai poate curăţi
+Harul Său îţi dă şi azi iertare
+
+[s14]
+Dacă-am fost
+Creştini de-o viaţă
+Dar am aţipit pe cale
+Astăzi încă e deschisă
+Uşa îndurării Sale
+
+[s15]
+Se-aud paşii Lui pe drum
+Să fim gata chiar acum.
+Aşteptând venirea Domnului!
+
+[s16]
+Biserică aleasă
+Ce vrei să-I fii mireasă,
+Nu poţi să fii oricum Mireasa Lui.
+
+[s17]
+Se-aud paşii
+Lui pe drum
+Să fim gata chiar acum
+Așteptând venirea Domnului!
+
+[s18]
+Să Îi ieşim 'nainte Purtând podoabe sfinte
+Și vrednici ca să fim Mireasa Lui.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12,s13,s14,s15,s16,s17,s18

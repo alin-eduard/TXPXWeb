@@ -1,0 +1,26 @@
+[s1]
+Nu va pieri cel credincios
+La viaţă Domnu-l va chema!
+Cel ce se-ncrede în Hristos
+Se odihneşte-n mâna Sa.
+
+[s2]
+Nu va pieri cel ce-a avut
+Un suflet bun şi nepătat
+Pe Dumnezeu L-a cunoscut
+Şi prin credinţă L-a urmat.
+
+[s3]
+Nu va pieri cel ce-a iubit,
+Neprihănirea Domnului
+El stă şi doarme liniştit
+În aşteptarea zilei Lui.
+
+[s4]
+Nu va pieri cel ce-a gustat
+Din Trupul frânt la Golgota
+Lui Dumnezeu s-a-ncredinţat
+De-aceea el va învia.
+
+[order]
+s1,s2,s3,s4

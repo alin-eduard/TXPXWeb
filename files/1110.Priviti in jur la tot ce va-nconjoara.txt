@@ -1,0 +1,71 @@
+[s1]
+1110.                                                         Mi b
+1.Priviţi în jur
+La tot ce vă-nconjoară
+Şi vă-ntrebaţi în voi Cin’ le-a făcut
+Priviţi în jur
+La Cel cu ochi de pară
+Care pătrunde-n tot ce-i nevăzut
+
+[r1]
+/:E Dumnezeu:/
+Ce stă mai sus de stele
+Şi ţine toate, prin al Său Cuvânt
+/:El le-a creat:/
+Și-a pus viaţă-n ele
+În tot ce este-n
+Cer şi pe pământ
+
+[s2]
+2. O, cine-a-ntins
+Oceane, zări albastre?
+Senine-aşa ca faţa unei bolţi
+Şi cine face-n ele
+Ca să crească
+Atâta furnicar de vietăţi?
+
+[s3]
+3.O, cine face
+Câmpul să rodească?
+În miez de vară lanuri aurii
+Şi cine face
+Pomii să-nflorească?
+Şi cine creşte iarba pe câmpii.
+
+[s4]
+4.O, cine-a pus
+Parfum în floricele?
+Şi cine-n păsărele-a pus cântări?
+Şi cine, toamna,
+Pune gând în ele
+Ca de la noi să plece-n alte ţări?
+
+[s5]
+5.O, cine-mbracă
+Munţii în pădure?
+Şi cine-nalţă uriaşe stânci?
+Şi cine-n fiare
+Atât curaj le pune
+Ca să petreacă
+Noaptea-n văi adânci?
+
+[s6]
+6.O, cine-n mame
+A sădit iubirea
+Ca să iubească pe copiii lor
+Ca să-i sărute
+Să-i îmbrăţişeze
+Cu-atâta dragoste,
+Cu-atâta dor?
+
+[s7]
+7. O, câţi luceferi,
+Soare, lună, stele
+Care-şi revarsă raza pe pământ
+Te-ai întrebat
+Ce e mai sus de ele?
+La mari ‘nălţimi
+La El în cerul Sfânt.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1

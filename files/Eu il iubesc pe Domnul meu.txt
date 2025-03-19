@@ -1,0 +1,22 @@
+[s1]
+Eu Îl iubesc pe Domnul meu
+Că El m-a iubit cel dintîi.
+Prin jertfa Sa El m-a salvat
+De moarte, din al meu păcat.
+
+[r1]
+Ştiu că într-o zi Îl voi vedea
+În strălucire-n ţara Sa
+Cu sfinţii slavă Îi voi da !
+Ştiu că ziua-aceea va veni
+Şi fericit voi fi-ntr-o zi
+În slavă cînd mă va primi !
+
+[s2]
+Sînt fericit şi sînt voios
+Că-L am pe Isus salvator.
+Mă-ncred în El şi Îl iubesc
+Cu dragoste eu Îl servesc.
+
+[order]
+s1,r1,s2,r1

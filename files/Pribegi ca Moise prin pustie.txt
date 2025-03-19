@@ -1,0 +1,39 @@
+[s1]
+Pribegi ca Moise prin pustie
+De-un dor si-o tinta animati
+Calatorim spre vesnicie
+Prin arsita si vant purtati
+Ne-am saturat de grea robie
+De boli de moarte si razboi
+Cautam o alta-mparatie
+Fara de grijuri si nevoi
+
+[r1]
+Cautam mereu o tara dincolo de stele
+Un sfant locas precum
+de mult profeti au spus
+Un paradis fara de lacrimi si durere
+Unde-mparat, unde-mparat este Isus.
+
+[s2]
+Un stalp de nor ni-e calauza
+Si noaptea flacara de foc
+Poporu-ntreg parca-i pe fuga
+Vrem stramutarea in alt loc
+Unde nu-i lapte si nici miere
+Sau bogatii de pe pamant
+Ci numai Doamne-a Ta putere
+Si bucuria-n Duhul Sfant.
+
+[s3]
+Nu strazi de aur ne incanta
+Nici frumuseti cum ni s-a spus
+Ci intalnire-aceea sfanta
+Si vocea bland-a lui Isus
+Pribegi ca Moise prin pustie
+Dar nu spre-o patrie de jos
+Ci catre-a cerului tarie
+Spre vesnicia cu Hristos.
+
+[order]
+s1,r1,s2,r1,s3,r1

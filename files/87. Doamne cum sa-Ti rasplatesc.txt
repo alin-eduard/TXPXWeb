@@ -1,0 +1,40 @@
+[s1]
+87.                                      Mi
+1. Doamne cum să-ţi răsplătesc
+Pentru marea-Ţi bunătate
+M-ai făcut al Tău copil
+Şi m-ai scăpat de la moarte
+Mi-ai iertat al meu păcat
+Prin sfânt sânge m-ai spălat
+Şi m-ai ridicat de jos
+Tu Samaritean milos.
+
+[r1]
+Cor:  /: Prieten bun :/
+Prieten bun ai fost Isus
+/: Prieten bun :/
+Prieten bun eşti Tu Isus
+Prieten bun.
+
+[s2]
+2. Când am fost mai întristat
+Copleşit de grea povară
+Ai venit m-ai mângâiat
+Mi-ai turnat balsam pe rană
+Când cei dragi m-au părăsit
+Lângă mine ai venit
+Mi-ai vorbit blând şi duios
+Tu Samaritean milos
+
+[s3]
+3. Prieten bun rămâi Isus
+Prieten bun ca şi un frate
+Eu aş vrea ca să rămân
+Lângă Tine până la moarte
+Şi cu Tine aş vrea să fiu
+Sus în cer o veşnicie
+Să nu ne mai despărţim
+Prieten bun nicicând de Tine.
+
+[order]
+s1,r1,s2,r1,s3,r1

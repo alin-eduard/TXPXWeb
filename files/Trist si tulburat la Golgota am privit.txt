@@ -1,0 +1,25 @@
+[s1]
+Trist şi tulburat
+la Golgota am privit
+L-am văzut pe Isus pe cruce,
+plangand şi trist.
+/: Eu atunci m-am întrebat:
+<Pentru ce-i crucea oare?>
+Dar acum ştiu bine
+păcatul meu e mare. :/
+
+[r1]
+/: O, Doamne, iartă-mă ! :/ (4x)
+
+[s2]
+Isuse iubit pentru mine
+Te-ai jertfit
+Ca eu astăzi să fiu mîntuit
+şi fericit.
+/: Spinii din cununa Ta
+i-am pus eu cu mîna mea
+De-aceea mă voi ruga,
+către Tine voi striga. :/
+
+[order]
+s1,r1,s2,r1

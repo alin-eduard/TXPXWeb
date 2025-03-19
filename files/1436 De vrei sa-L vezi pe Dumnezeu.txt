@@ -1,0 +1,39 @@
+[s1]
+1436.
+De vrei să-L vezi pe Dumnezeu
+Priveşte zorii dimineţei
+Priveşte soarele frumos
+Cum străluceşte maiestos
+Dând sens plăcut vieţii
+De vrei să-l vezi pe Creator
+Priveşte zarea albastră
+Priveşte miile de flori
+Cu nesfârşitele culori.
+E mâna cea măiastră.
+
+[s2]
+O altă mână n-ar putea
+Să facă acestea toate
+Doar El e Meşter Ziditor
+Doar El e Domnul Domnilor
+El le-a creat pe toate
+Nu este altul ca şi El
+Aşa de sfânt şi mare
+Când păsările ciripesc
+Şi atunci când norii se ivesc
+Îi cântă osanale
+
+[s3]
+Vieţuitoare fel de fel
+De pe pământ şi ape
+Cu drag Slăvesc pe Creator
+Se-nchină toate-n felul lor
+Căci le-ai creat pe toate
+Tu omule azi nu uita
+Căci după a sa făptură
+Ce minunat El te-a creat
+Ca să-L slăveşti neîncetat
+Pe al Slavei împărat.				Amin.
+
+[order]
+s1,s2,s3

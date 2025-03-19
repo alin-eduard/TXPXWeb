@@ -1,0 +1,26 @@
+[s1]
+Iubit-ai Doamne întreaga omenire
+Încât ai dat jertfă pe Fiul Tău;
+Pe Fiul Tău, blând şi plin de iubire,
+Ca s-o salveze din mreaja celui rău!
+
+[s2]
+Nici o durere nu Te-a întors din cale
+N-a fost ispită să n-o-mpărtăşeşti...
+Prin suferinţe ne-ai dat osanale,
+Ca să ne-arăţi cât de mult ne preţuieşti!
+
+[s3]
+Tot ce avem este jertfa de pe cruce
+Tot ce suntem este Numele Tău!
+Orice povară cu Tine vom duce
+Şi nu ne plângem oricât ar fi de greu!
+
+[s4]
+Glorie Ţie, cerescule Părinte,
+Slavă Isuse că mult ne-ai iubit!
+Spre biruinţă privim înainte!
+Te proslăvim, Doamne, că ne-ai mântuit!
+
+[order]
+s1,s2,s3,s4

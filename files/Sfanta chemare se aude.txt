@@ -1,0 +1,37 @@
+[s1]
+Sfânta chemare se aude
+Vino să porneşti de azi
+Pe-al vieţii drum
+Domnul din ceruri te iubeşte
+Te îndeamnă să porneşti
+Spre El acum
+
+[r1]
+/: Hai în rai. :/
+Ce mai stai, vino să trăieşti
+In slăvile cereşti
+Hai în rai
+
+[s2]
+Ce mare-i harul mântuirii
+Duhul sfânt te cercetează-n
+drumul tău
+Te mântuieşte, ieşi din lume
+Azi mai poţi să te întorci la Dumnezeu
+
+[s3]
+Nu pierde şansa mântuirii
+Domnul vrea să-ţi scrie
+numele în cer
+Primi-vei pace, bucurie
+Si vei fi răpit în ceruri pentru El
+
+[s4]
+Crede că Domnul pentru tine
+Pe o cruce a murit în locul tău
+Acum tu spune-i „oh Isuse,
+Vin plângând, te rog
+Mă iartă Domnul meu.”
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

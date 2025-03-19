@@ -1,0 +1,26 @@
+[s1]
+Două mâini Doamne astazi se unesc
+Pe-acest drum împreună ei pășesc
+Te rugăm lângă ei să fii mereu
+Să cunoască că Tu eşti Dumnezeu.
+
+[r1]
+/: Să-i conduci cu mâna Ta
+Tu-i poţi binecuvânta
+Ţine-i lângă braţul Tău
+Să fie feriţi de rău:/
+
+[s2]
+Te rugăm la perechea asta azi
+Să le dai binecuvântarea Ta
+Să Te stie ca esti de parte lor
+În toate le eşti sprijin şi-ajutor.
+
+[s3]
+Te rugăm Doamne când sunt în necaz
+Să le ştergi lacrima de pe-obraz
+Să cunoască că eşti de partea lor
+Fă-i Doamne una pe amândoi.
+
+[order]
+s1,r1,s2,r1,s3,r1

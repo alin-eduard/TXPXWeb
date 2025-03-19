@@ -1,0 +1,28 @@
+[s1]
+Veniţi da-ţi slavă Domnului,
+uniţi-vă cu Cerul sfânt.
+Cântaţi iubirea Tatălui,
+el ne-a creat cu Mâna Lui.
+O singură credinţă un singur Dumnezeu,
+Ne duce către ceruri din valul lumii greu.
+O singură credinţă un Domn şi un botez,
+Ne-aduce pace-n suflet ne-apropie de El.
+
+[r1]
+Viaţa El ne-a dat păcatul ne-a iertat,
+Ce preţioşi suntem, prin El totul avem.
+Şi-n mântuirea Sa primit-am dragostea,
+Ce Tatăl Dumnezeu ne-a dat prin fiul Său.
+
+[s2]
+Veniţi da-ţi slavă Domnului,
+cu mulţumire sa-I cântăm,
+El în fiecare zi întinde
+Mâinile spre noi.
+Se împlineşte totul prin har şi prin Cuvânt,
+Şi binecuvântare revarsă pe pământ.
+Se împlineşte totul prin Voia Domnului,
+Nimeni nu duce lipsă de bunătatea Lui.
+
+[order]
+s1,r1,s2,r1

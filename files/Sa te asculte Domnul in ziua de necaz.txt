@@ -1,0 +1,62 @@
+[s1]
+Să te asculte Domnul
+în ziua de necaz
+Ocrotitoare mâna
+să-ţi cadă pe obraz
+Şi ajutor trimită-ţi
+din al Său locaş sfânt
+Din Sion să-ţi ajute
+oriunde pe pământ.
+
+[s2]
+/: Aminte să-şi aducă
+de-a ta mâncare-n dar
+Şi-n inimă să-ţi toarne
+dumnezeescul har
+Şi-a tale foste planuri
+ori alte ce vor fi
+Pe toate le transforme
+în sfinte bucurii. :/
+
+[s3]
+Şi de-aşa biruinţă
+un steag vei flutura
+În numele Acelui
+pe care-L vei cânta
+Aminte să ia Domnul
+când fi-vor ochii uzi
+De-a tale cereri însă
+nimic să nu-i ascunzi.
+
+[s4]
+/: Ştim încă de acuma
+căci El va da răspuns
+Primind atâtea cereri
+scăpând pe al său uns
+Şi fi-va împlinită
+dorinţa orişicui
+Prin braţul atotputernic
+al dreptei Tatălui. :/
+
+[s5]
+Să nu ai bizuire pe
+care şi pe cai
+Căci pot să vină vremuri
+când dragoste să n-ai
+Să faci cum fac atâţia,
+la fel cum fac şi eu
+Şi bizuirea noastră
+să fie Dumnezeu.
+
+[s6]
+/: Căci ei se vor răsfrânge
+şi vor cădea-n cărare
+Dar cu-al Tău ajutor
+rămânem în picioare
+O, mântuieşte Doamne,
+mai iartă-l pe iertat
+Şi la chemări răspunde
+iubite Împărat. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,44 @@
+[s1]
+2194
+1. Nu vreau păcat în viața
+de slujire
+Și-nstrăinări de Domnul
+meu mereu
+Nu vreau condus să fiu de
+vechea fire
+Nici promovări inamicului eu.
+
+[r1]
+Cor: Nu vreau alai nici flori de
+crin purtate
+Spre slava mea că-s muritor
+de rând
+Ci vreau mai mult să port
+cu simplitate
+Un dor de cer în inimă și-n gând.
+
+[s2]
+2. Nu vreau nici brâul minciunii să-l încing
+Pentru câștig ce-aici îl pot avea
+Nici la carul fărădeligii să împing
+Orice favor în lume aș avea.
+
+[s3]
+3. Nu vreau să am comori,
+nici nestemate
+În schimbul dragostei cerești
+de sus
+Căci toate acestea vor pieri uitate
+Dar dragostea-i un dar fără apus.
+
+[s4]
+4. Nu vreau nimic ce-mi poate
+da favoruri
+În schimbul mântuirii
+ce-am primit
+Căci toate aici s-or spulbera
+în larguri
+Și vor dispare într-un infinit.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

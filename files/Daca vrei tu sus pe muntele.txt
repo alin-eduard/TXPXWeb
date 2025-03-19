@@ -1,0 +1,50 @@
+[s1]
+/: Daca vrei tu, sus pe muntele
+Cel sfant, sa locuiesti,
+Verifica-ti azi viata
+Si ia seama cum traiesti! :/
+
+[s2]
+/: Caci acolo sus, pe munte,
+Nici un om nu va fi dus
+Din acei ce nu traiesc
+A lor viata cu Isus. :/
+
+[s3]
+/: Caci in psalmul cinsprezece,
+David ne spune asa:
+„Cel ce umbla-n sfintenie
+Si-mplineste voia Sa, :/
+
+[s4]
+/: Acela nu cleveteste;
+Nimanui nu-i face rau,
+Dimpotriva, face bine
+Chiar si vrajmasului sau. :/
+
+[s5]
+/: Acel ce astfel se poarta
+Nicicand nu s-a clatina;
+El va merge pan' la poarta
+Si-nauntru va intra. :/
+
+[s6]
+/: Si va locui in cortul
+De pe muntele cel sfant
+Unde Domnul Isi va duce
+Pe-ai Sai urmasi in curand. :/
+
+[s7]
+/: Acolo toti, impreuna,
+Pe Domnul vor lauda
+Si, in templul Lui acel sfant,
+Vesnic se vor bucura. :/
+
+[s8]
+/: Si va fi o slava mare
+Ce nici unul n-a vazut,
+Pregatita chiar de Domnul
+Pentru cel din nou nascut. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

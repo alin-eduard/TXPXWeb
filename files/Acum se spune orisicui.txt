@@ -1,0 +1,32 @@
+[s1]
+Acum se spune orişicui
+Chiar celui ce nu vrea să-i spui
+Că Domnul vine în curând
+Din ceruri de la Tatăl sfânt.
+
+[s2]
+El se coboară pe alb nor,
+Ca drept suprem judecător,
+Atunci tot ochiu-L va vedea
+Şi-orice defaimă va-nceta.
+
+[s3]
+Acum e timpul harului
+Când se mai iartă orişicui,
+Dar timpul când s-o fi sfârşit
+Amar de cel nepocăit!
+
+[s4]
+Dacă cei drepţi abia se ţin
+În faţa Judelui divin
+Cei păcătoşi unde-or fugi
+De a mâniei Sale zi?
+
+[s5]
+Oriunde-aş fi, orice-aş grăi,
+Ajută-mi voia-Ţi a-mplini,
+Ca Tu iubit Mântuitor
+Să-mi poţi fi blând Judecător!
+
+[order]
+s1,s2,s3,s4,s5

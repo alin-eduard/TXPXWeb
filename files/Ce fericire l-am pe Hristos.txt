@@ -1,0 +1,20 @@
+[s1]
+Ce fericire l-am pe Hristos
+Asta m-a face asa voios
+Ca mostenesc eu cerul ianalt
+Si fericire ca am aflat
+
+[r1]
+In veci canta-voi ca-s fericit
+Astazi prin Domnul sunt mantuit
+In veci aceasta canta-voi eu
+Laud pe Domnul ca este-al meu
+
+[s2]
+Ce fericire pacea gustam
+Cand linistiti noi pe bratu-I stam
+A sti e bine cum stiu si eu
+Isus mi-e viata El e-al meu
+
+[order]
+s1,r1,s2,r1

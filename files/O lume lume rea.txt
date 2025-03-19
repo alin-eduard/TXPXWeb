@@ -1,0 +1,42 @@
+[s1]
+O, lume, lume rea
+şi plină de păcate
+Ce ai cu viaţa mea
+de nu mă laşi în pace?
+O, ce aveţi cu mine,
+o, ce rău v-am făcut?
+O, L-am găsit pe Domnul
+şi atîta-i tot!
+
+[s2]
+Şi spui că sunt prea tînăr
+şi n-are nici un rost
+Să merg pe drumu-acesta,
+că nu-i de vreun folos.
+O, să-mi stea şi munţii-n cale,
+o, şi marea ca să-mi stea
+O, şi vîntul să mă bată,
+eu nu mă voi lăsa!
+
+[s3]
+Şi-n lanţuri de m-ar pune
+şi cît de rău m-ar bate
+Eu nu mă las de Domnul,
+că voi n-aveţi dreptate!
+O, sîngele să-mi curgă,
+o, şi viaţa să mi-o dau
+O, căci pentru Domnul nostru
+aş da şi tot ce am!
+
+[s4]
+Că jos nu e nimica,
+e ură şi mînie
+Nu-i dragoste deloc
+şi nu-i nici bucurie.
+O, sus e Domnul nostru,
+o, sus e fericirea
+O, Isuse, locul nostru
+de mult e pregătit!
+
+[order]
+s1,s2,s3,s4

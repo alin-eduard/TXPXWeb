@@ -1,0 +1,38 @@
+[s1]
+Isuse drag, ce mult as vrea
+Sa plang, sub crucea Ta, mereu
+Caci prin purtarea mea cea rea
+Jignitu-Te-am adesea eu;
+Dar azi, prin mila Ta, eu sunt
+Intors la Tine din pacat,
+Caci jertfa Ta, Isuse sfant,
+Din gheara mortii m-a salvat.
+
+[r1]
+Isuse drag, sub crucea Ta
+Ca sa raman, ce mult as vrea!...
+/: Sa-mi plang viata ce-a trecut
+In care nu Te-am cunoscut…:/
+
+[s2]
+Mai ieri, prin lume rataceam,
+Neascultand de glasul Tau;
+Dar azi, sub crucea Ta, eu vin
+Sa plang mult cu pareri de rau;
+Ca anii mei cei mai frumosi
+S-au dus, ca pasarea in zbor;
+Putinii care mi-au ramas
+Vreau sa-I inchin Tie, cu dor.
+
+[s3]
+Cu sufletul indurerat,
+Sub crucea Ta, ingenunchez
+Privind in sus, ca nu cumva
+De Tine sa ma-ndepartez;
+Si in priviri Tu imi apari,
+Intocmai cum ai fost candva:
+Batut si atarnat pe lemn,
+Pe dealul de pe Golgota…
+
+[order]
+s1,r1,s2,r1,s3,r1

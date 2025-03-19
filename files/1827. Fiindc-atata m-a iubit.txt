@@ -1,0 +1,43 @@
+[s1]
+1827.
+1. Fiindcă-atâta m-ai iubit
+Pe pământ jos ai venit
+/:Să mori, Doamne, pentru mine
+Să îmi speli a mea ruşine
+Să mă-mbraci cu chipul Tău
+Să m-ascunzi-n a Tale rane
+Să-mi scrii numele în palme
+Să mă-mpaci cu Dumnezeu:/
+
+[s2]
+2. Fiindcă-atâta m-ai iubit
+Cerul sfânt l-ai părăsit
+/:Să mă cauţi printre ruine
+Să mă duci spre zări senine
+Să-mi araţi dragostea Ta
+Să cobori stea dintre stele
+Să mă naşti în chinuri grele
+Şi să mori la Golgota:/
+
+[s3]
+3. O ce mult Tu m-ai iubit
+Doamne că m-ai mântuit
+/:M-ai scăpat de grea pierzare
+Mi-ai dat har şi îndurare
+Miel preasfânt, nevinovat
+Biruind moartea prin moarte
+M-ai făcut cu Tine frate
+Să fii binecuvântat:/
+
+[s4]
+4. Fiindcă-atâta m-ai iubit
+Te-ai lăsat chiar răstignit
+/:Te-ai lăsat străpuns de cuie
+Suportând bătăi şi hule
+Isus pentru vina mea
+Pe o cruce-ntre cei răi
+Fiindcă-am preţ în ochii Tăi
+Fii slăvit, Aleluia:/
+
+[order]
+s1,s2,s3,s4

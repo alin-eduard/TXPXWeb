@@ -1,0 +1,36 @@
+[s1]
+Puternic bate furtuna
+Marea-i tulbure
+Luntrea credinţei, stînd pe ea
+Omul tremură.
+
+[r1]
+/: Caută :/ (3x) Sus la Isus!
+Auzi, auzi ce zice El!
+Vino îndrăznind pe al Său braţ!
+<Te-oi ajuta, nu te teme,
+nu te teme
+Cu tine-oi fi în toate zilele
+Te-oi ajuta, nu te teme,
+nu te teme!>
+
+[s2]
+Luntrea noastră făr, ajutor
+Luptă în valuri
+E-aproape de pierzare
+Noi stăm pe gînduri.
+
+[s3]
+Stau corăbierii pe loc
+Nu au putere
+Toţi la-Învăţătorul strigă
+Domnul le-ajută.
+
+[s4]
+În viaţă mari furtuni
+Vin de multe ori
+Vestea cea bună ne spune
+Despre ajutor.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,32 @@
+[s1]
+În aceasta noapte sfântă
+S-a născut Mesia
+Dintr-o fecioară preacurată
+S-a născut Mesia
+Într-o iesle-ntunecată
+S-a născut Mesia
+Darul sfânt promis de Dumnezeu
+
+[s2]
+Magi din răsărit i-au adus daruri
+Şi l-a prunc adânc s-au închinat
+Îngeri pe pământ şi sus în ceruri
+Cântă slava celui Preaînalt
+
+[s3]
+Cu îngerii păstorii şi cu magii
+Venim şi noi la ieslea Lui Isus
+Şi îl urmăm mereu pe calea crucii
+Pe cel ce mântuire ne-a adus---Osana
+
+[s4]
+În această noapte sfântă
+S-a născut Mesia
+Dintr-o fecioara preacurată
+S-a născut Mesia
+Într-o iesle-ntunecată
+S-a născut Mesia
+Darul sfânt promis de Dumnezeu
+
+[order]
+s1,s2,s3,s4

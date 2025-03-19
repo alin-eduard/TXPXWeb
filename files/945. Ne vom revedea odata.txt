@@ -1,0 +1,33 @@
+[s1]
+945.
+1.  Ne vom revedea odată
+Sus în ţara zorilor
+Unde Domnul îşi va duce
+La viaţă al Său popor.
+2.  În oraşul cel de aur
+Unde-n veci El e slăvit
+Vom cânta cântarea noastră
+Celui ce ne-a mântuit.
+
+[s2]
+3. În curând acolo-n ceruri
+Lângă Domnul noi vom fi
+Şi de acolo niciodată
+Nu ne vom mai despărţi.
+4.  Ne vom întâlni cu aceia
+Cei ce-n Domnul au adormit
+Când la trâmbiţa din urmă
+Ei se scoală negreşit.
+
+[s3]
+5.  Şi-mpreună cu toţi sfinţii
+Adunaţi de pe pământ
+Vom cânta noua cântare
+Mielului ceresc şi sfânt.
+6.  Ne vom revedea odată
+Sus în ceruri când vom fi
+Şi de acolo niciodată
+Nu ne vom mai despărţi.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,17 @@
+[r1]
+/: Vrednic este Mielul
+care-a fost junghiat, :/
+Să primească puterea,
+bogăţia, înţelepciunea, tăria,
+cinstea, slava şi lauda,
+Aleluia! Gloria Îi vom da!
+
+[s1]
+/: A Celui ce şade pe
+scaunul de domnie, :/
+Şi-a Mielului să fie
+Lauda, cinstea, slava şi stăpânirea
+În vecii vecilor, Amin!
+
+[order]
+r1,s1,r1

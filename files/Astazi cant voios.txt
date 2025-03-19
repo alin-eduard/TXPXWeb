@@ -1,0 +1,41 @@
+[s1]
+Astăzi cânt voios că Dumnezeu
+E Stăpânul vieţii mele,
+El e Domnul meu.
+Cine pe pământ, cine-n ceruri sus
+E ca Domnul meu,
+E ca Domnul meu Isus?
+
+[s2]
+Fără El, flămând şi însetat,
+Rătăceam în lumea largă neajutorat.
+Dar când m-a găsit
+El m-a săturat
+Şi mi-a dat să beau,
+El mi-a dat să beau
+Din harul Său.
+
+[r1]
+El e Fântâna  cu ape vii,
+Nimic în lume nu-L poate-nlocui.
+Stânca de veacuri, Păstorul meu,
+Râul vieţii de-a pururi Dumnezeu.
+
+[s3]
+O, ce fericit sunt cu Domnul meu,
+Nicăieri în lume nu-i altul ca şi El!
+El e mai de preţ decât tot ce am
+El e slava mea,
+E comoara mea în veci
+
+[s4]
+Chiar de n-ar mai fi
+râuri pe pământ
+El e râul vieţii mele
+limpede şi sfânt.
+Niciodată El nu va seca
+Şi voi bea din El,
+Eu voi bea din El mereu.
+
+[order]
+s1,s2,r1,s3,r1,s4,r1

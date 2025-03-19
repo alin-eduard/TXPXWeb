@@ -1,0 +1,39 @@
+[s1]
+Prin câte încercări voi trece, Doamne
+Şi câte valuri bat în barca mea
+/:Te rog Isuse, înainte
+Căci numai Tu îmi eşti salvarea mea.:/
+Fa m
+
+[s2]
+Şi-ntotdeauna Tu mi-ai fost nădejdea
+Şi-n Tine eu m-am încrezut deplin,
+/:M-ai mângâiat când eram tristă
+Şi chiar noaptea în cel mai greu suspin.:/
+
+[s3]
+Cum voi putea să-Ţi mulţumesc vreodată?
+Dar Tu Isuse drag nu m-ai lăsat
+/:Când mă aflam în valul morţii
+Ţi-ai întins mâna şi m-ai ridicat.:/
+
+[s4]
+Nu Ţi-am adus argint şi pietre scumpe
+La fel palate şi-alte bogăţii
+/:Eu vreau Isuse, mântuirea
+Şi pentru slava Ta, Tu să mă ţii.:/
+
+[s5]
+O, vreau să Te servesc Isuse-ntruna
+Atât cât voi trăi pe-acest pământ
+/:Căci în curând sosi-va clipa
+Şi voi zbura spre Canaanul sfânt.:/
+
+[s6]
+Şi în curând veni-vor zile grele
+Şi nu ştiu de voi putea rezista
+/:Dar eu Te rog să-mi dai putere
+Şi ne-ncetat, Isus, să pot veghea.:/
+
+[order]
+s1,s2,s3,s4,s5,s6

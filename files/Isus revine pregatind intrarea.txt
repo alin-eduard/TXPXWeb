@@ -1,0 +1,23 @@
+[s1]
+Isus revine, pregătind intrarea !
+Stele aplaudă, tunete vor suna !
+La o clipire Domnul îi va lua pe ai Săi
+Şi faţă în faţă Îl vom revedea.
+
+[r1]
+/: Faţă în faţă :/
+Îl vom vedea
+În toată mărirea !
+/: Faţă în faţă :/
+Îl vom vedea
+Pe Isus Salvator.
+
+[s2]
+Vom auzi trâmbiţa revenirii !
+Cei morţi vor lăsa mormintele reci.
+Iar noi, cei vii, vom fi schimbaţi
+într-o clipă
+Şi faţă în faţă Îl vom revedea.
+
+[order]
+s1,r1,s2,r1

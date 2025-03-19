@@ -1,0 +1,27 @@
+[s1]
+Isus are multă grijă de copiii Lui
+El le dă în dar pace şi mult har.
+Isus binecuvintează pe copiii Lui
+El le dă în dar pace şi mult har
+
+[r1]
+/: Dragi copii, veniţi cu toţi cântaţi
+O cântare despre Isus, la El alergaţi!
+Dragi copii, cântaţi cu toţi voioşi
+Isus pe toţi vă iubeşte, să fiţi bucuroşi! :/
+
+[s2]
+Isus este fericirea, voi să nu uitaţi
+/: Lui să vă rugaţi. :/
+Ziua, noaptea El vegheză,
+El este cu voi
+El vă dă în dar pace şi mult har.
+
+[s3]
+Soarele, Pământul, Luna, stelele de sus
+/:Cântă pe Isus !:/
+Florile, iarba-n grădină, cerul fără nori
+/:Toate-s pentru voi.:/
+
+[order]
+s1,r1,s2,r1,s3,r1

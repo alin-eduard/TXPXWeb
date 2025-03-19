@@ -1,0 +1,37 @@
+[s1]
+1. Când apare dimineaţa
+Şi cei morţi vor învia
+Domnul se va arăta
+În acel moment
+Şi când milioane
+Înaintea Lui vor sta
+Când Isus pe-ai Săi
+Îi cheamă sunt prezent.
+843.
+
+[r1]
+Cor:	/: Când Isus
+Pe-ai Săi cheamă (3 ori)
+Eu prin harul Domnului
+Voi fi prezent.
+
+[s2]
+2. Când Isus la răi va zice
+Voi aici ce-aţi căutat
+Părăsiţi-mă chiar în acest moment
+Iar la dreapta Sa îi strânge
+Pe cei binecuvântaţi
+Când Isus pe-ai Săi
+Îi cheamă sunt prezent.
+
+[s3]
+3. Să privim deci serios
+Valoarea zilei de apoi
+Că ea este ultimul eveniment
+Să putem spune cu toţii
+Suntem gata vin' la noi
+Când Isus pe-ai Săi
+Îi cheamă sunt prezent.
+
+[order]
+s1,r1,s2,r1,s3,r1

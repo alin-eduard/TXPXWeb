@@ -1,0 +1,38 @@
+[s1]
+Cum voi răsplăti Domnului meu
+Toate binefacerile Lui
+Faţă de mine?
+Cum voi împlini tot ce am promis
+În ziua necazului meu,
+Când Domnul m-a-ntărit?
+
+[s2]
+Credincios e Domnul
+El mă va întări să-L pot urma
+Căci în El se încrede
+Inima şi sufletul meu
+Când voi fi ispitit de păcat,
+Domnul nu mă va lăsa
+Mântuire-mi va da
+Sufletul va înviora.
+
+[s3]
+Trec anii în zbor, cu ei trec şi eu
+Nu ştiu ziua când de Domnul meu
+Voi fi chemat la El
+Dar până atunci eu Îl voi lăuda
+Pentru binefacerile Lui
+În viaţa mea.
+
+[s4]
+/:Credincios e Domnul
+El mă va întări să-L pot urma
+Căci în El se încrede
+Inima şi sufletul meu
+Când voi fi ispitit de păcat,
+Domnul nu mă va lăsa
+Mântuire-mi va da
+Sufletul va înviora:/
+
+[order]
+s1,s2,s3,s4

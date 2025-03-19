@@ -1,0 +1,32 @@
+[s1]
+Eu cunosc un mieluşel
+Ce nu asculta de fel
+Ziua-ntreagă alerga
+Părăsindu-şi turma sa.
+
+[r1]
+Ce să vezi, acel miel rătăcit
+Am fost eu, dar Domnul m-a iubit
+Şi în marea Sa iubire
+M-a căutat şi m-a găsit.
+
+[s2]
+Tot fugind el pe furiş
+El s-a prins într-un tufiş
+Fiara iute-a alergat
+Mai că mi l-a sfâşiat.
+
+[s3]
+Pe-acel miel ce-l cunosc eu
+L-a căutat Păstorul său
+Din tufişul cel spinos
+Mi l-a scos cu braţ vânjos.
+
+[s4]
+Eu sunt mielul cum v-am spus
+Iar Păstorul e Isus
+Îl urmez eu de acum
+Ca să-I fiu prieten bun.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

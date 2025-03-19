@@ -1,0 +1,14 @@
+[r1]
+Cu haina iubirii s-acopăr mereu,
+Pe cel dezgolit, de ispită.
+Şi-n greu să nu judec în cugetul meu,
+Rostind o sentinţă grăbită.
+
+[r2]
+Iubirea, iubirea să-mi umple
+de-a pururi trăirea.
+Iubirea, iubirea împlinească
+şi-n mine menirea.
+
+[order]
+r1,r2,r1,r2,r1,r2,r1,r2,r1,r2

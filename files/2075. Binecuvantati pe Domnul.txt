@@ -1,0 +1,34 @@
+[s1]
+2075
+1. Binecuvântați pe Domnul
+Robii Domnului prea sfânt
+/: Voi ce v-ați legat în viață
+Să aveți mereu în față
+/: Taina sfântului Cuvânt :/
+
+[s2]
+2. Binecuvântați pe Domnul
+Voi ce-n adunare stați
+Și vegheați din zori de ziuă
+Până la apus de soare
+/: Și întruna vă rugați :/
+Și vegheați de la-nserare
+Pân` la revărsat de soare
+/: Și întruna vă rugați :/
+
+[s3]
+3. Binecuvântați pe Domnul
+Voi ce-n rugă vă uniți
+/: Ridicându-vă curate
+Mâinile cu bunătate
+/: Și pe Domnul preamăriți :/
+
+[s4]
+4. Binecuvântați pe Domnul
+Că e Tată tuturor
+/: El cu har ne cercetează
+Și ne binecuvântează
+/: Azi și-n vecii vecilor :/
+
+[order]
+s1,s2,s3,s4

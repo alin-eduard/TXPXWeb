@@ -1,0 +1,63 @@
+[s1]
+1. Cum să-mi păstrez credinţa
+Şi totuş să muncesc
+De casa ce mi-ai dat-o
+Cu drag să mă-ngrijesc
+Şi ce-ar fi pentru mine
+Mai bun cu adevărat
+Pe ce să-mi dau sudoarea
+Şi să rămân curat.
+1946.
+
+[r1]
+Cor: Isuse scump şi frate
+Şi Tată adevărat
+Dă-mi dreapta cumpătare
+Să pot trăi curat
+Înseamnă-mi tu hotarul
+În care să trăiesc
+Ca la sfârşit de toate
+Cu drag să Te-ntâlnesc.
+
+[s2]
+2. Căci iată lăcomia
+Şi dragostea de bani
+Pândesc la orice poartă
+Ca cei mai răi duşmani
+Intrat-a-n adunare
+Sub forma de-a avea
+Doar strictul necesarul
+E-n urmă nu-I aşa.
+
+[s3]
+3. În locul slujbei sfinte
+Ce face oameni buni
+E  moda si dezmăţul
+Şi atâtea stricăciuni
+Şi atâţia fraţi ce-odată
+Lucrau ogorul Tău
+Slujesc azi lui Mamona
+Trăgând la jugul său.
+
+[s4]
+4. Iubirea de avere
+Şi banii-nşelători
+Au dezbrăcat poporul
+De sfintele comori
+Deaceea nu-i putere
+În cânt şi-n rugăciuni
+Şi nu-ţi mai faci lucrarea
+Cu semne si minuni.
+
+[s5]
+5. Ah cum mă prinde teama
+Şi nu vreau să găsesc
+De aceea Îţi cânt cântarea
+Căci vreau să Te-ntâlnesc
+Nu vreau ca lumea aceasta
+Să-mi fie ţelul meu
+Ci Te doresc pe Tine
+Isuse Dumnezeu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

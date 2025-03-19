@@ -1,0 +1,50 @@
+[s1]
+1617.
+1. Domnul e cu tine, Israel iubit!
+Te încrede-n Domnul şi fii fericit!
+
+[r1]
+Cor:	/:Încrede-te:/ în El!
+/:Tu, caută-L:/ pe El!
+Căci va veni curând pe nori
+Şi toţi Îl vom vedea.
+Hai, vino azi la Domnul meu!
+El e nădejdea ta!
+
+[s2]
+2.Domnul pentru mine mult a suferit
+Stând pe lemnul crucii,
+El ne-a mântuit!
+
+[s3]
+3. Prin salvarea sfântă ce ne-ai arătat,
+Astăzi sunt pe veci,
+Pe veci eu sunt salvat!
+
+[s4]
+Cor:	/:Încrede-te:/ în El!
+/:Tu, caută-L:/ pe El!
+Căci va veni curând pe nori
+Şi toţi Îl vom vedea.
+Hai. vino azi la Domnul meu!
+El e nădejdea ta!
+
+[s5]
+4. Numai mila Doamne
+Îţi cer eu mereu.
+Să m-ajuţi ca-n lume,
+Să-nving ce e greu!
+
+[s6]
+5. Fii slăvit, Tu Doamne,
+Căci M-ai mântuit!
+Astăzi sunt prin tine pe veci fericit.
+
+[s7]
+6. Și prin harul sfânt
+Ce-L dai pe pământ
+Doamne-ţi mulţumim
+Până-n veci Amin!
+
+[order]
+s1,r1,s2,r1,s3,s4,s5,r1,s6,r1,s7,r1

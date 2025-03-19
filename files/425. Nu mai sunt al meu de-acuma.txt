@@ -1,0 +1,33 @@
+[s1]
+425.
+1.Nu mai sunt al meu de-acuma
+Isus e Stăpânul meu
+Vreau să fiu cu El întruna
+Şi să-l servesc mereu.
+
+[r1]
+Cor:/:Sunt al tău:/,/:sunt al tău:/
+/:Pe deplin://:eu sunt al tău:/
+Tot ce am în stăpânire
+Le depun la tronul Tău.
+
+[s2]
+2.N-am nimic în stăpânire
+Căci ce am nu e al meu
+Chiar din clipa mântuirii
+M-am pus în serviciul Său.
+
+[s3]
+3.Dar îmi e cu neputinţă
+Făr' Isus ca să trăiesc
+Cu-ntreaga mea fiinţă
+Doar pe El vreau să-L iubesc.
+
+[s4]
+4.Doamne Tu să-mi dai credinţă
+Mă ajută tot mereu
+Să-ţi servesc în umilinţă
+Până la sfârşitul meu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

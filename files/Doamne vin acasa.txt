@@ -1,0 +1,26 @@
+[s1]
+M­am depărtat de Dumnezeu,
+Azi vin acasă;
+Trăit-am în păcatul meu,
+Azi vin acasă.
+
+[r1]
+Doamne, vin acasă,
+Nu mai rătăcesc,
+Braţul Tău e­acum deschis,
+Azi vin acasă.
+
+[s2]
+Pierdut-am mulţi ani preţioşi,
+Azi vin acasă;
+Cu lacrimi ca un păcătos,
+Azi vin acasă.
+
+[s3]
+M­am dezgustat de viaţa mea,
+Azi vin acasă;
+Mă­ncred doar în iubirea Ta,
+Azi vin acasă.
+
+[order]
+s1,r1,s2,r1,s3,r1

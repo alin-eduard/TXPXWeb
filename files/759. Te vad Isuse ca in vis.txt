@@ -1,0 +1,64 @@
+[s1]
+1. Te văd Isuse ca în vis
+Cu zâmbetul pe buze pus
+/: Te văd în gloată de popor
+Vestind viaţa tuturor  :/
+759.
+
+[s2]
+2. Te văd bolnavi cum vindecai
+Şi cum demonii îi scoteai
+/: Cum mamele-şi duceau copii
+Şi Tu îi binecuvântai :/
+
+[s3]
+3.Te văd cum
+ai mustrat furtuna
+Şi valurile linişteai
+/: Cum Te treziră ucenicii
+Când în primejdie erau. :/
+
+[s4]
+4. Te văd Isuse în grădină
+Cu faţa la pământ plângând
+/: Şi lacrimile şi sudoarea
+Cădeau în picuri la pământ :/
+
+[s5]
+5. Te văd Isuse în Ghetsimani
+Înconjurat de mulţi duşmani
+/: De trădătorul sărutat
+Şi-n mâinile păgâne dat :/
+
+[s6]
+6. Şi Te mai văd Isuse dragă
+La judecată la Pilat
+/: Cum mâinile şi le-a spălat
+Căci Te-a găsit nevinovat :/
+
+[s7]
+7. Te văd apoi la stâlp legat
+Şi văd călăii cum Te bat
+/: Văd corpul Tău însângerat
+Şi spinii cum Te-au înţepat :/
+
+[s8]
+8. Şi Te mai văd Isuse dragă
+Cum din mormânt ai înviat
+/: Şi patruzeci de zile-ntruna
+La ai Tăi iubiţi Te-ai arătat :/
+
+[s9]
+9. Te văd Isuse ca în vis
+Acum în slavă-n Paradis
+/: Căci Tu lucrarea Ţi-ai sfârşit
+Şi-acum lucrează Duhul Sfânt
+
+[s10]
+10. Noi Te chemăm Isuse dragă
+Şi Te rugăm să vii la noi
+/: Ca să ne duci de-aici la Tine
+Acesta-i singurul nost’ dor :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

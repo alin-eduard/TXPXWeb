@@ -1,0 +1,58 @@
+[s1]
+1.Pe-oceanul infinit cu valuri
+Grija m-a cuprins
+Plutesc spre casă obosit
+Catargu-i zdrenţuit,
+433							     	Fa
+
+[s2]
+Lovit de valuri sunt mereu
+Dar mai nădăjduiesc
+În Tine Doamne
+eu mă-ncred,
+Pe Tine Te iubesc.
+
+[r1]
+Cor:
+/:Mă încred în Tine, Doamne.
+Orişice s-ar întâmpla
+Toată viaţa mea Isuse
+Te voi binecuvânta.:/
+
+[s3]
+2.Pe-oceanul
+infinit cu valuri
+Noaptea m-a cuprins
+Plutesc spre casă obosit,
+Sunt deznădăjduit
+
+[s4]
+Privesc în noapte,
+singur sunt,
+N-am nici un ajutor
+Lovit de valuri sunt mereu,
+Isus fii Salvator.
+
+[s5]
+3.În depărtări
+zăresc lumina
+Acolo eu plutesc
+Acolo vreau să ancorez
+Pe malul Tău ceresc
+
+[s6]
+Voi înfrunta orice necaz
+Eu nu mă îndoiesc
+Căci Tu eşti
+Salvatorul meu,
+Prin Tine eu trăiesc.
+
+[s7]
+Eşti speranţa mea Isuse
+Chiar de simt
+că sunt înfrânt
+Te rog nu mă lăsa singur
+Salvatorul meu iubit.      Amin
+
+[order]
+s1,s2,r1,s3,s4,r1,s5,s6,r1,s7

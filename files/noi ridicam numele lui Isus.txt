@@ -1,0 +1,8 @@
+[s1]
+Noi ridicăm Numele lui Isus
+Noi înălţăm pe Isus Cristos ca Domn
+Noi Te lăudăm, numai Tu eşti Rege
+Numai Ţie cinste vrem să-Ţi dăm.
+
+[order]
+s1

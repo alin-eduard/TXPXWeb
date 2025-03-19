@@ -1,0 +1,23 @@
+[s1]
+De trǎieşti cu Domnul tǎu mereu,
+Fericit îţi este traiul tǎu;
+/: Pe-ale vieţii tale cǎi,
+Peste dealuri şi prin vǎi,
+El te duce-n sfinte fericiri. :/
+
+[s2]
+Lasǎ soarta ta în mâna Lui,
+Viaţa ta sǎ fie-a Domnului;
+/: Sǎ-i predai tot ce-i al tǎu,
+Sǎ-mplineşti cuvântul Sǎu,
+El te duce-n sfinte fericiri. :/
+
+[s3]
+Când ispita te va incerca
+Si cand crucea te va apasa,
+/: Nici atunci nu şovǎi,
+El şi-atunci te va iubi;
+El te duce-n sfinte fericiri. :/
+
+[order]
+s1,s2,s3

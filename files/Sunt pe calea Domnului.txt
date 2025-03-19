@@ -1,0 +1,44 @@
+[s1]
+Sunt pe calea Domnului
+Şi sunt bucuros,
+Mântuit, prin harul Lui,
+De Isus Hristos.
+
+[r1]
+/: Cine oare, cine mă va clinti
+De pe calea Domnului?
+Nimeni nu mă poate despărţi
+/: De marea iubire-a Lui. :/
+
+[s2]
+Am aflat, în El, izvor
+Desfinte bucurii
+Ce dă astăzi tuturor
+viaţa-n veşnicii.
+
+[s3]
+Când am fost eu încercat,
+Domnului m-am rugat;
+Ruga El mi-a ascultat
+Şi am fost salvat.
+
+[s4]
+El e Domn în viaţa mea,
+Inima I-am dat;
+El o umple, zi de zi,
+Cu dragostea Sa.
+
+[s5]
+Vreau ca să mărturisesc
+Că Isus e viu
+Şi în inimă-L sfinţesc,
+Nespus Îl iubesc.
+
+[s6]
+Pentru cerul Său frumos,
+Pentru harul Său,
+Vreau să rămân credincios
+Lângă Dumnezeu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

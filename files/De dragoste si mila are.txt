@@ -1,0 +1,42 @@
+[s1]
+De dragoste si mila, are
+Nevoie orisice flamand;
+Acela care nu iubeste,
+Nu-i frate adevarat, nicicand!
+/: Nu-i frate, nu-i!:/
+Nu-i frate-adevarat, nicicand!:/
+
+[s2]
+De dragoste si mila, are
+Nevoie orisicine-ar fi;
+Nu pot fi buni parinti vreodata
+Aceia ce nu pot iubi!
+/: Acei, acei, :/
+Aceia ce nu pot iubi! :/
+
+[s3]
+De dragoste si mila, are
+Nevoie orice duh sarac;
+Cei ce nu pot ca sa iubeasca
+Pastori sa nu se faca-n veac!
+/: Pastori, pastori :/
+Pastori sa nu se faca-n veac!:/
+
+[s4]
+De dragoste si mila, are
+Nevoie orice vestitor;
+De nu poti sa iubesti puternic,
+Sa nu te faci invatator!
+/: Sa nu, sa nu, :/
+Sa nu te faci invatator! :/
+
+[s5]
+De dragoste si mila, are
+Nevoie orice pacatos;
+Cei ce nu pot sa se jertfeasca;
+Sa nu vorbeasca cu Hristos!
+/: Sa nu, sa nu, :/
+Sa nu vorbeasca cu Hristos! :/
+
+[order]
+s1,s2,s3,s4,s5

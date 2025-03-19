@@ -1,0 +1,35 @@
+[s1]
+Astăzi este ziua, scumpe suflete,
+Când Domnul te cheamă
+la mântuire!
+Azi te-ntoarce la Domnul!
+Nu amâna,
+Căci mâine, se poate:
+nu vei mai putea!
+
+[s2]
+Azi e timpul când poţi
+să fii mântuit;
+Vino la El, ca să nu fii osândit!
+Căci toţi cei ce pe Domnul
+nu Îl primesc
+În chinul cel veşnic se chinuiesc.
+
+[s3]
+Căci va veni un timp
+foarte însemnat
+Când Harul de la Neamuri
+va fi luat
+Împlinindu-se numărul sfinţilor.
+Atunci s-a-nchide uşa Neamurilor!
+
+[s4]
+Dacă ai primit pe Isus chiar acum,
+Stai lângă El
+şi nu te-abate din drum!
+Stai căci Isus Hristos
+un loc ţi-a gătit
+În care-n veci să poţi fi tu fericit.
+
+[order]
+s1,s2,s3,s4

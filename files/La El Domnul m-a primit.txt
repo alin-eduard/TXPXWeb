@@ -1,0 +1,49 @@
+[s1]
+La El Domnul m-a primit
+Aleluia, Mielului,
+În raiul sfânt am păşit
+Mărire Tatălui.
+Sânt mereu cu Isus sfânt
+Prin Cuvântul Său, sfinţit,
+Tot păcatul a murit
+Aleluia Mielului.
+
+[r1]
+/: Aleluia :/
+Prin credinta am intrat
+Si-n El pace am aflat
+/: Aleluia :/
+Lauda lui Isus fie ca m-a salvat!
+
+[s2]
+Prin a Lui sfânt sânge curs
+Aleluia Mielului!
+Sânt preot al lui Isus
+Mărire Tatălui!
+În lumina Duhului,
+Eu trăiesc spre slava Lui,
+Căci m-am predat Domnului
+Aleluia Mielului!
+
+[s3]
+Am simţit iubirea Sa
+Aleluia Mielului!
+Când pe cruce se ruga
+Mărire Tatălui!
+Al Lui Duh m-a luminat
+Şi sfinţire El mi-a dat,
+La care sânt şi chemat
+Aleluia Mielului.
+
+[s4]
+Sânt pe calea Domnului
+Aleluia Mielului!
+Mă bucur în Duhul Lui
+Mărire Tatălui!...
+Isus Domnul m-a sfinţit
+Şi în haru-I m-a-ntărit
+Pentru veci El m-a primit
+Aleluia Mielului!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

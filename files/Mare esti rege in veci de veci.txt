@@ -1,0 +1,20 @@
+[r1]
+Mare esti
+Rege in veci de veci
+Pamantul, cerul, marea
+Toate le-ai creat
+Mare esti
+Rege in veci de veci
+Esti stanca mantuirii
+Salvat mi-e sufletul
+
+[r2]
+Numele-Ti vom ‘nalta, Isuse
+Toti se vor pleca
+In fata Ta
+Numele-Ti vom ‘nalta, Isuse
+Caci mare esti in veci
+Ca Tine nimeni nu-i
+
+[order]
+r1,r2,r1,r2

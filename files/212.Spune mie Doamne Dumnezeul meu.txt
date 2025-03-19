@@ -1,0 +1,45 @@
+[s1]
+1. Spune mie Doamne
+Dumnezeul meu
+De ce nu-mi îngăduieşti
+Suspinul greu.
+212.
+
+[s2]
+2. Ochii-mi lăcrimează
+Şi-s îngândurat
+Eu cum voi răspunde
+Pentru al meu păcat.
+
+[s3]
+3. Eu te rog Isuse
+Dumnezeul meu
+Ai milă de mine
+Ia-mă-n braţul Tău.
+
+[s4]
+4. Şi la judecată
+Când vei judeca
+După a mele fapte
+Nu mă condamna.
+
+[s5]
+5. O suflete dragă
+Multe Ţi-am iertat
+Pentru a tale fapte
+Viaţa Eu Mi-am dat.
+
+[s6]
+6. Plânge şi te roagă
+Şi fă voia Mea
+Şi-apoi Eu cu milă
+Te voi judeca.
+
+[s7]
+7. Nu te-oi da la muncă
+Ca să te munceşti
+Te-oi duce cu Mine
+Să te veseleşti.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

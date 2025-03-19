@@ -1,0 +1,42 @@
+[s1]
+Ne-apropiem de vesnicii
+Cu fiecare pas grabit
+In orice, ceas tu esti silit
+Sa te desparti de ce-ai iubit.
+/: O! nu uita ca-n urma ta
+Iti lasi amprenta in toate,
+si ne-ncetat cu viata ta
+Tu scrii mereu o carte. :/
+
+[s2]
+In anii ce se sting pe rand
+Ca vii faclii apuse
+dragostea ta e tot arzand?
+Sau e doar un vis dulce?
+/: O! nu uita ca-n urma ta
+Iti lasi amprenta in toate,
+si ne-ncetat cu viata ta
+Tu scrii mereu o carte. :/
+
+[s3]
+Tu esti chemat trecand prin timp
+Sa ai credinta vie
+privirea ta si drumul tau
+Spre Dumnezeu sa-ti fie.
+/: O! nu uita ca-n urma ta
+Iti lasi amprenta in toate,
+si ne-ncetat cu viata ta
+Tu scrii mereu o carte. :/
+
+[s4]
+In orice loc te vei afla
+Pe munte sau in vale,
+Sa Il pastrezi pe Dumnezeu
+In cartea vietii tale.
+/: O! nu uita ca-n urma ta
+Iti lasi amprenta in toate,
+si ne-ncetat cu viata ta
+Tu scrii mereu o carte. :/
+
+[order]
+s1,s2,s3,s4

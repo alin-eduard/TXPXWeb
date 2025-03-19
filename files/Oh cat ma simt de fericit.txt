@@ -1,0 +1,32 @@
+[s1]
+Oh , cât mă simt de fericit,
+Că am Mântuitor;
+Orfan, nici părăsit nu sunt,
+Cu al meu Salvator.
+Slavă Mielului prea sfânt,
+Ce pentru mine-a murit.
+Aleluia, aleluia.
+Aleluia, amin.
+
+[s2]
+Mi-a spus Isus şi mi-a promis,
+Prin al Său sfânt Cuvânt.
+Se duce să-mi găteasca loc
+În cer locaşul sfânt.
+Slavă Mielului prea sfânt,
+Ce pentru mine-a murit.
+Aleluia, aleluia.
+Aleluia, amin.
+
+[s3]
+Aici sunt numai călător,
+Şi trec ca iarba-n câmp:
+În cer eu sint moştenitor,
+Unde îngerii cânt.
+Slavă Mielului prea sfânt,
+Ce pentru mine-a murit.
+Aleluia, aleluia.
+Aleluia, amin.
+
+[order]
+s1,s2,s3

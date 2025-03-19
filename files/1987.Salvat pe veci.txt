@@ -1,0 +1,33 @@
+[s1]
+1987
+1. Salvat pe vecie
+De Isus Hristsos
+Către împărăţie
+Merg victorios.
+
+[r1]
+Cor: /:Sunt salvat:/
+Din robia de păcat
+/:Sunt salvat:/
+Isus m-a răscumpărat.
+
+[s2]
+2. Urle cu turbare
+Iadu-ntunecat
+Eu merg către soare
+Spre al meu Împărat.
+
+[s3]
+3. Căci de la robie
+Şi din greu păcat
+El pentru vecie
+M-a eliberat.
+
+[s4]
+4. Glasul Lui te cheamă
+Braţul e deschis
+Vino fără teamă
+Hai spre Paradis.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

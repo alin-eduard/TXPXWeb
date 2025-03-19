@@ -1,0 +1,32 @@
+[s1]
+Sunt dator Isuse toată viața mea
+Să Te laud într-una, să-Ți dau inima
+Pentru a Ta iubire, pentru jertfa Ta
+Pentru mântuire, pentru Golgota.
+
+[s2]
+Pentru mângâiere pentru al Tău cuvânt
+Pentru plinătatea Duhului cel Sfânt
+Pentru apa vie, pentru al Tău izvor
+Fii lăudat Isuse, Rege al Regilor.
+
+[s3]
+Dacă am suflare, cuget și vorbesc
+Dacă am mișcare și pot să privesc
+E pentru că-n toate, Tu te-ai arătat
+Că ești bun și mare, că ești minunat.
+
+[s4]
+Oamenii aleargă străbătând lumea
+Căutând fericirea dar n-o pot afla
+Pentru mine Isus, bucuria mea
+E să fiu cu Tine, Doamne-n casa Ta.
+
+[s5]
+Pentru toate astăzi vreau să-Ți mulțumesc
+Și cu-a mea ființă să Te preamăresc
+Să Îți cânt de-apururi și să Te slăvesc
+Împăratul slavei Isus, Te iubesc!
+
+[order]
+s1,s2,s3,s4,s5

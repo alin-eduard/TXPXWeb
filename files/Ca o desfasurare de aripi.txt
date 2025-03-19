@@ -1,0 +1,39 @@
+[s1]
+La minor
+Ca o desfăşurare de aripi,
+Când bate vântul,
+Ca picurul de rouă
+Când geme ars pământul,
+/: Ca-ntoarcerea în pace
+A corabiilor duse:
+Aşa Te-aştept întruna,
+Aşa Te-aştept, Isuse. :/
+
+[r1]
+Căci tot mai grea, prin lumea rea,
+E calea mea spre casa Ta;
+Mai negri nori, adeseori
+Se-abat, din greu, in jurul meu
+
+[s2]
+Ca pruncul care caută
+Doritul sân de mamă,
+Ca mugurul lumina,
+Ca dorul care cheamă,
+/: Ca rănile-alinare,
+În suferinţi nespuse:
+Aşa Te-aştept întruna,
+Aşa Te-aştept, Isuse :/
+
+[s3]
+Ca revărsatul zilei,
+În noaptea de taciune,
+Ca un răspuns de fulger
+La stinsa rugaciune,
+/: Ca mângâierea lină
+A dragostei ascunse:
+Aşa Te-aştept întruna,
+Şi tot mai mult, Isuse :/
+
+[order]
+s1,r1,s2,r1,s3,r1

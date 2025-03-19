@@ -1,0 +1,57 @@
+[s1]
+Suflet fără pace astăzi,
+/: Eşti chemat :/
+La Isus Mântuitorul,
+Căci prin El poţi fi salvat.
+
+[s2]
+/: Poţi să ai :/ chiar lumea-ntreagă,
+/: Lauri glorii :/ bogăţii,
+/: De nu-L ai :/ pe Domnul slavei,
+/: Eşti pierdut :/ pentru vecii.
+
+[s3]
+Ai căutat în lumea-ntreagă,
+/: Pacea ta :/
+Fără să ştii că în viaţa,
+Pacea ta e-n Glogota.
+
+[s4]
+Mulţi din cei ce sunt ca Tine,
+Fericirea-au căutat,
+La plăcerile de-o clipă,
+Dar regretele-au urmat.
+
+[s5]
+/: N-amâna :/ de azi pe mâine,
+/: Vino acuma :/ azi la El,
+/: Uşa încă-i :/ tot deschisă,
+/: Pentru tine  :/ dragul meu.
+
+[s6]
+Domnul astăzi te întreabă,
+/: Dacă vrei :/,
+Să laşi lumea şi păcatul,
+/: Să-L urmezi. :/
+
+[s7]
+Poate-i ultima chemare,
+Ce-o auzi acum din nou,
+Căci la urma-i judecata,
+/: Cea de-apoi. :/
+
+[s8]
+Iar cei ce-au primit pe Domnul,
+/: Sunt salvaţi. :/
+Căci în trupuri noi de slavă,
+/: Vor fi schimbaţi. :/
+
+[s9]
+/: Şi cânta-vom :/ în mărire,
+/: Glorie :/ Celui prea Sfânt,
+/: Osanale :/
+Celui Sfânt, Sfânt, Sfânt,
+de trei ori Sfânt.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

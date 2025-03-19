@@ -1,0 +1,32 @@
+[s1]
+Ca vara viaţa noastră e,
+Se duce ca un vis,
+Şi clipele se duc şi vin
+Aşa cum este scris.
+
+[r1]
+Treci în zbor necontenit
+Şi ajungi la sfârşit.
+Când amurgul va veni
+Vei păşi în veşnicii.
+
+[s2]
+Deşi se duce­aşa uşor,
+Nu o nesocoti.
+E vremea când tu poţi lucra
+Şi alta n­a mai fi.
+
+[s3]
+Te scoală, nu întârzia,
+Din lucru nu te­opri,
+Căci vine întunericul
+Şi trece­a vieţii zi.
+
+[s4]
+Ferice la sfârşit va fi
+De cel ce­a semănat,
+În faţa Domnului va sta
+Cu rod îmbelşugat.
+
+[order]
+s1,r1,s2,s3,r1,s4,r1

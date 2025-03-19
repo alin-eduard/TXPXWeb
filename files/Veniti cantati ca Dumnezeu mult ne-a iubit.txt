@@ -1,0 +1,35 @@
+[s1]
+Veniţi, cântaţi că Dumnezeu
+mult ne-a iubit;
+Săltaţi cu toţi că-n
+harul Său El ne-a iubit.
+Din somnul morţii vă sculaţi,
+mila-ndurarea Lui căutaţi,
+În harul Lui vă bucuraţi!
+El ne-a iubit.
+
+[r1]
+El ne-a iubit, El ne-a iubit,
+Veniţi, cântaţi că
+Dumnezeu mult ne-a iubit.
+
+[s2]
+Vestiţi cu toţi că Dumnezeu
+mult ne-a iubit;
+El a venit din cerul Său că ne-a iubit.
+Domnul Isus S-a întrupat, şi pentru noi mult a răbdat;
+Suntem prin har pe veci salvaţi!
+El ne-a iubit.
+
+[s3]
+Săltaţi voi cei răscumpăraţi
+că ne-a iubit;
+Pe Domnul slavei lăudaţi
+că ne-a iubit.
+El este Soare minunat,
+Mântuitor glorificat,
+Atotputernic Împărat!
+El ne-a iubit.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,56 @@
+[s1]
+Domnul doarme în corăbioară
+Si furtuna iată s-a pornit
+Peste valuri mica barcă zboară
+Domnul  doarme însă linistit
+
+[s2]
+Deodata îl trezesc pescarii
+“Priveste căci iată pierim”
+Dar Isus poruncă dă mării
+Minune măreată privind
+
+[s3]
+/: Furtuna îndată se-opreste
+Ce liniste-n jur s-a făcut
+Isus cu natura vorbeste
+Pescarii speriati au tăcut! :/
+
+[s4]
+Văd pe tărm pe cineva ce-asteaptă
+E un om nespus de chinuit
+N-are casă viata e desartă
+Căci de demoni este stăpânit!
+
+[s5]
+Dar demonii-ncep ca sa țipe
+Îl roagă adânc pe Isus
+Aprobă și-n porci îi trimite
+Spre mare,spre moarte s-au dus
+
+[s6]
+/: Multimea îndată se strânge
+Să vadă ce s-a întâmplat
+Îl roagă pe Isus să plece
+Si trist Isus a acceptat! :/
+
+[s7]
+Omul vindecat spre Isus vine
+Vrea să-i multumeasca pentru tot
+Doamne n-am cuvinte stii prea bine
+Ca să-ti multumesc de-ajuns nu pot
+
+[s8]
+/: Te rog mă primeste cu Tine
+Să spun despre tot ce-ai făcut
+Dar Domnul răspunde: mai bine
+Aici să vestesti ce-ai vazut! :/
+
+[s9]
+/: Si noi am fost smulsi din pierzare
+Aceasta putem sa vestim
+La mare, la mic la oricare
+Putem de folos ca să fim! :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

@@ -1,0 +1,32 @@
+[s1]
+Nimeni altul nu-I ca Domnul
+Pe pamant si sus in cer
+Necuprins in maretie
+Si puternic in lucrari
+
+[r1]
+/: Nimeni nu se poate asemui
+Cu al meu Dumnezeu din vesnicii
+Stanca lui Istrael pe vecii
+Nimeni ca si el nu va mai fi :/
+
+[s2]
+Sa rasune-ntreaga zare
+Dumnezeu e Sfant si minunat
+El ne tine el ma tine
+Prin cuvantul sfant adevarat.
+
+[s3]
+Toti sa cante mic si mare
+Domnul Isus pe toti ne-a iertat
+Si prin jertfa-I de pe cruce
+Sufletul din moarte l-a salvat.
+
+[s4]
+/: Nimeni nu se poate asemui
+Cu al meu Dumnezeu din vesnicii
+Stanca lui Israel pe vecii
+Nimeni ca si el nu va mai fi :/
+
+[order]
+s1,r1,s2,r1,s3,s4

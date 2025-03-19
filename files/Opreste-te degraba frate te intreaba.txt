@@ -1,0 +1,47 @@
+[s1]
+Opreste-te degraba
+Frate te intreaba
+Care-i drumul tau,
+pe unde mergi?
+Unde ti-e credinta
+Cum stai cu pocainta
+In viata aceasta ce alegi
+
+[r1]
+Esti pregatit sa pleci
+Spre locul mult visat
+Esti pregatit sa zbori
+Spre raiul asteptat
+Legat esti de pamant
+Prin viata ce-o traiesti
+Sau Domnului slujesti
+
+[s2]
+Nu te uita la lume
+Crezand ca toate-s bune
+Uitand ca te-ai decis
+pentru viata
+Aduti mereu aminte
+De lucrurile sfinte
+Biblia sa fie-a ta povata
+
+[s3]
+Cât mai este zi
+Te poţi pregăti,
+Poţi să decizi ce vrei să faci.
+Nu privi în urmă
+Alege calea bună,
+Cu Domnul Dumnezeu
+Să te-mpaci.
+
+[s4]
+Esti pregatit sa pleci
+Spre locul mult visat
+Esti pregatit sa zbori
+Spre raiul asteptat
+Legat esti de pamant
+Prin viata ce-o traiesti?
+Sau Domnului slujesti
+
+[order]
+s1,r1,s2,r1,s3,s4

@@ -1,0 +1,38 @@
+[s1]
+Cine altul decât ISUS
+poate fericire da!
+Bun, milos şi scump e ISUS,
+El pe veci e partea mea.
+
+[r1]
+Tot ce sufletu-mi tresaltă,
+E ISUS ce m-a salvat.
+El din zeci de mii rămâne
+Cel mai scump şi minunat.
+
+[s2]
+Ce măreaţă e-ndurarea
+harului de necuprins,
+Mai adâncă decât marea,
+trece peste ceru-ntins.
+
+[s3]
+Ce salvare minunată
+pentru noi a pregătit,
+De păcatele murdare
+hainele ni le-a albit.
+
+[s4]
+Orice grijă cât de mare
+mâna Lui o va lua,
+Lângă El eu am salvare,
+El e totu-n viaţa mea.
+
+[s5]
+Lângă râul vieţii-n ceruri
+când voi sta încoronat
+Voi cânta şi eu cu sfinţii,
+Slavă, Slavă ne-ncetat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

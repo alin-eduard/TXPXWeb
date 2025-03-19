@@ -1,0 +1,51 @@
+[s1]
+Ma uit spre cer si vad iubire
+Ma uit spre cer si te vad pe tine
+Tu esti mereu Isuse cu mine
+Si cand imi este greu
+stiu ca te am pe tine
+
+[s2]
+Ai aparut in clipa de-ncercare
+Ai aparut, cipul tau e soare
+Ti-ai indreptat privirea
+in spre mine
+Si mi-ai soptit eu sunt langa tine
+
+[s3]
+/: In Mana ta,
+Stiu ca-mi este bine
+Pe bratul tau,
+Mereu ma vei purta
+Chiar daca cei,
+Din jur nu vad in tine
+Eu am gasit, iubirea ta :/
+
+[s4]
+Privesc in jur si vad iubire
+Stiu ca t-ea costat
+sa mori pentru mine
+Si inteleg ca te doare
+Cand nu sunt langa tine
+si stau in nepasare
+
+[s5]
+Dar azi ma intorc
+sa-ti cer dinou iertare
+Pentru tot ce am facut,
+O Doamne
+Ti-ai indreptat privirea
+inspre mine
+Si mi-ai soptit, eu sunt langa tine
+
+[s6]
+/: In Mana ta,
+Stiu ca-mi este bine
+Pe bratul tau,
+Mereu ma vei purta
+Chiar daca cei,
+Din jus nu vad in tine
+Eu am gasit, iubirea ta :/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,26 @@
+[s1]
+Iată, cerul aşteaptă candidaţi
+Cine vine, cine vine ?
+Dumnezeu îşi întinde al Său braţ
+Cine vine, cine vine ?
+
+[r1]
+Cine vine, o, cine vine ?
+Căci cerul încă e deschis !
+Cine vine, o, cine vine ?
+Grăbiţi-vă spre Paradis !
+
+[s2]
+Domnul Isus mai este Salvator
+Cine vine, cine vine ?
+Şi aşteaptă nespus de răbdător
+Cine vine, cine vine ?
+
+[s3]
+Timpul este nespus de limitat
+Cine vine, cine vine ?
+Te grăbeşte, de vrei să fii salvat
+Cine vine, cine vine ?
+
+[order]
+s1,r1,s2,r1,s3,r1

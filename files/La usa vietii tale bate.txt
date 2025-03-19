@@ -1,0 +1,32 @@
+[s1]
+La usa vietii tale bate,
+De-atata timp, un calator…
+Adesea vocea sa razbate,
+Se-aude ca un cant de dor…
+
+[r1]
+O, nu-L lasa strain afara!
+Deschide-I usa larg, supus!
+El iti aduce primavara…
+E salvatorul tau, Isus!
+
+[s2]
+Mereu refuzi chemarea sfanta,
+Desi iti stii cararea grea;
+Povara grelelor pacate
+El singur poate sa ti-o ia.
+
+[s3]
+El bate… pace sa-ti aduca…
+Tu ia zavorul de pacat!
+Nu te-mpietri, degrab’ te-arunca,
+La crucea Sa, sa fii iertat…
+
+[s4]
+Atatia L-au respins afara…
+Cand au deschis au fost pustiu…
+Era plecat… ce grea povara
+Sa vrei, cand este… prea tarziu…
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

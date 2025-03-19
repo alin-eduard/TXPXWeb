@@ -1,0 +1,43 @@
+[s1]
+1487.Fa m
+Fecioarele înţelepte
+Se pregătesc de zbor
+Se pregătesc mereu mereu
+Doar pentru Dumnezeu
+Cor:   Eşti gata să zbori spre lumină
+Tu astăzi ai candela plină
+Isus va veni răpirea va fi
+O singură dată
+
+[s2]
+2.  Se lasă aţipire
+Şi pe cărare-n sus
+Se văd tot mai puţini creştini
+Urmându-l pe Isus
+Cor:   Eşti gata să zbori spre lumină
+Tu astăzi ai candela plină
+Isus va veni răpirea va fi
+O singură dată
+
+[s3]
+3.  La fel ca şi străjerul
+Ce aşteaptă al zilei zori
+Şi noi dorim chemarea Lui
+Să ne-ntâlnim pe nori
+Cor:   Eşti gata să zbori spre lumină
+Tu astăzi ai candela plină
+Isus va veni răpirea va fi
+O singură dată
+
+[s4]
+4.  Să stăm în aşteptare
+Cu dor a-l întâlni
+Noi nu ştim ziua ceasul sfânt
+Când El va reveni
+Cor:   Eşti gata să zbori spre lumină
+Tu astăzi ai candela plină
+Isus va veni răpirea va fi
+O singură dată
+
+[order]
+s1,s2,s3,s4

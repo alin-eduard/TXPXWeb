@@ -1,0 +1,61 @@
+[s1]
+Când Isus şedea pe munte,
+Lângă marea Galilei
+Şi s-au strâns noroade multe
+Aducând bolnavi cu ei
+Isus sa purtat cu milă
+Și de ei S-a îndurat
+Și în dragoste-I divină,
+El pe toţi ia vindecat
+1842. Mi m
+
+[r1]
+Fericit e cine-L are,
+Pe  Isus ca salvator
+Căci în ziua încercări,
+El îi vine-n ajutor
+Numai cu Isus alături,
+De nimic eu nu mă   tem
+Iar în ceasul încercări,
+El răspunde când  Îl chem
+
+[s2]
+Atunci orbi-ncep să vadă
+Surzi-aud, muţii vorbesc
+Şchiopii-ncep să umble iarăşi, Toţi pe Dumnezeu slăvesc
+O ce bine-i lângă Isus,
+In prezenţa Lui să stai
+Să ai viaţă fericită,
+Si un ajutor să ai.
+
+[s3]
+Când Isus şedea pe munte,
+Lângă marea  Galilei
+Şi s-au strâns noroade multe
+Şi Isus era cu ei
+Cum vom sătura mulţimea,
+Ucenici-a  întrebat
+Domnul pâinea a-nmulţit-o,
+Si pe toţi ia săturat
+
+[r2]
+Fericit e cine-L are,
+Pe  Isus ca salvator
+Caci în ziua încercări,
+El îi vine-n ajutor
+Numai cu Isus alături,
+De nimic eu nu mă   tem
+Iar în ceasul încercări,
+El răspunde când  Îl chem
+
+[s4]
+Şapte coşuri erau pline
+Cu tot ce a mai rămas
+Căci ce El binecuvântă
+Este binecuvântat
+Şi puţinul tău îţi va fi Binecuvântat la fel
+Nu pleca de lângă Isus
+Si încrede-te în El
+
+[order]
+s1,r1,s2,r1,s3,r2,s4,r2

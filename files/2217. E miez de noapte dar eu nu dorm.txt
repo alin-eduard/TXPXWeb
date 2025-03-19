@@ -1,0 +1,27 @@
+[s1]
+2217
+1. E miez de noapte
+dar eu nu dorm
+Iar lacrimile mele curg uşor
+Strig către Tine, Doamne Isus
+Inima-mi suspină,
+mă simt răpus.
+
+[r1]
+Cor:	/: Inima-mi suspină,
+ochii-mi lacrimi lasă
+şi-n jur nu mai găsesc,
+nici o speranţă,
+Doamne spre Tine
+gându-mi îndrept
+Te chem şi-n tăcere Te aştept :/.
+
+[s2]
+2. Aş, vrea să-Ți cânt
+şi-n bucurie
+De lacrimi eu m-am săturat
+Să las poveri ce mă apasă
+Ce numai răni, mi-au lăsat.
+
+[order]
+s1,r1,s2,r1

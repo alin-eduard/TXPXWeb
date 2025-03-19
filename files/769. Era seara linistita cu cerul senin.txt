@@ -1,0 +1,59 @@
+[s1]
+1. Era seara liniştită
+Cu cerul senin
+/: Când fu cina pregătită
+Fiului Divin :/
+2. El veni cu ai Săi
+La masă în locul gătit
+/: Şi apoi cu o voce miloasă
+Astfel le-a vorbit:/
+769.
+
+[s2]
+3. Fraţii mei sosit-a ceasul
+Să ne despărţim
+/: Voi să nu pierdeţi curajul
+Căci iar am să vin :/
+4. Trebuie să vină toate
+Cele ce s-au scris
+/: Voi fi judecat la moarte
+Şi pe cruce-ntins :/
+
+[s3]
+5. Dar vă spun mai dinainte
+Pentru ca să ştiţi
+/: Că din voi unul mă vinde
+Cu 30 de arginţi,:/
+6. Atunci toţi se îndreptară
+Către Învăţător
+/: Ei pe rând îl întrebară
+Care-i trădător :/
+
+[s4]
+7. Când veni rândul lui Iuda
+Întreabă şi el
+/: Nu cumva voi fi eu Doamne
+Fiul cel mişel? :/
+8. Tu eşti Iuda, zise Domnul
+Du-te mai curând
+/: Iată acum sosit-a ceasul
+Să faci ce ai în gând :/
+
+[s5]
+9. El atunci îndată merse
+Către acel sobor
+/: Unde s-aştepta cu sete
+Al Domnului omor :/
+10. Acolo-şi vându Stăpânul
+Iuda cel mişel
+/: Şi printr-un sărut făţarnic
+Îl predă pe El :/
+
+[s6]
+11. Ei L-au dus la judecată
+Şi L-au osândit
+Ca pe cruce cu ocară
+Să fie răstignit.
+
+[order]
+s1,s2,s3,s4,s5,s6

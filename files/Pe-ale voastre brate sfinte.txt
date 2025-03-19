@@ -1,0 +1,41 @@
+[s1]
+Pe-ale voastre braţe sfinte
+Mamelor, ce-aveţi copii,
+Aduceţi-i azi la Isus
+Să le dea El bucurii.
+La b M
+
+[s2]
+/:Viaţa lor în lume El să le-o-ncunune
+Cu-a Lui haruri sfinte, ca mereu,
+În orice-ncercare şi împrejurare
+Să nădăjduiască-n Dumnezeu.:/
+
+[s3]
+Sfântă fie-vă credinţa
+Când cu ei v-apropiaţi,
+Semnul binecuvântării
+De la El să-l căpătaţi.
+
+[s4]
+/: Pentru fiii voştri cei chemaţi pe nume
+Ce ca roade Domnul vi i-a dat,
+Mulţumiţi din inimi că-n această lume
+Dumnezeu v-a binecuvântat. :/
+
+[s5]
+Voi purtaţi nume măreţe
+Mame, toţi vă zic în glas,
+Însă nu uitaţi pe Domnul
+Să-l chemaţi la orice pas.
+
+[s6]
+/: Cel mai scump pe lume-i
+numele de mamă,
+Chipul ei plăpând când îl privim,
+Ne-amintim de Isus
+ce-nspre El ne cheamă
+Să ne dea din harul Lui divin. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,36 @@
+[s1]
+Te caut pierdut pe drumul de ieri,
+Te caut plângând
+şi vreau să-Ţi spun:
+Isus, Te iubesc!
+Te caut în flori, în cântec de ciocârlii
+Şi ştiu că la răsărit te voi regăsi.
+
+[s2]
+/: Căci vreau să Te-ntâlnesc din nou
+Şi să m-arunc la pieptul Tău
+Şi să plâng că sunt singur
+Nimic din lume nu-mi doresc
+Decât pe Tin’ să Te regăsesc
+Atinge-mi ochii,
+Tu eşti tot ce îmi doresc. :/
+
+[s3]
+Te caut mereu, pierdut prin pustiu,
+Cărarea e grea, puteri nu mai am
+Mă simt părăsit, dar nu dau’napoi,
+Bătut nicicând nu m-oi da
+Chiar de sunt descurajat,
+Nu mă voi lăsa.
+
+[s4]
+/:Căci vreau să Te-ntâlnesc din nou
+Şi să m-arunc la pieptul Tău
+Şi să plâng că sunt singur
+Nimic din lume nu-mi doresc
+Decât pe Tin’ să Te regăsesc
+Atinge-mi ochii,
+Tu eşti tot ce îmi doresc.:/
+
+[order]
+s1,s2,s3,s4

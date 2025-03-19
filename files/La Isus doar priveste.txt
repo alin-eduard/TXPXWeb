@@ -1,0 +1,26 @@
+[s1]
+O, suflet ce zaci sub povară,
+Trudit eşti în noaptea cea grea;
+Priveşte spre Domnul vieţii,
+Lumină prin El vei avea!
+
+[r1]
+La Isus doar, priveşte,
+Să vezi necurmat faţa Sa!
+Şi umbrit va fi tot ce­i trecător,
+De lumina şi gloria Sa!
+
+[s2]
+Din moarte la viaţă eternă
+Pe Domnul de­acum Îl urmăm;
+Cel rău nu mai are putere,
+Prin har biruinţă avem!
+
+[s3]
+El tot ce-a promis, împlineşte,
+Deci crede în tot ce ţi­a spus!
+Şi celor pierduţi le vesteşte
+Salvarea venită de sus!
+
+[order]
+s1,r1,s2,r1,s3,r1

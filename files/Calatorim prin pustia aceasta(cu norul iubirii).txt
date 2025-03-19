@@ -1,0 +1,38 @@
+[s1]
+1. Călătorim prin pustia aceasta
+Spre țara eternă spre țara de sus,
+Și multe neliniști în inima noastră
+Ne clatină pasul să n-ajungem sus
+
+[r1]
+R: Cu norul iubirii condu-ne Isus,
+Cu stâlpul de foc prin puterea de sus,
+Pustiul e greu dar cu Tine-i ușor,
+Călătoria-i frumoasă când tu ești păstor
+
+[s2]
+2. E marea în față și noi murmurăm,
+Cârtim lângă valuri cu teamă în noi,
+Dar iată se-aude un strigăt de sus
+Voi stați liniștiți izbăvirea e sus
+
+[s3]
+3. Părinte-al iubirii stăpân minunat
+De veacuri întregi rămâi neschimbat
+Cu dragostea-Ți mare, în haru-Ți bogat
+Adapă mulțimi izvor nesecat
+
+[s4]
+4. Curând dimineața cu zori de cristal
+Va frânge durerea și orice amar,
+Pentru totdeauna cânta-vom Isus
+De dragul salvării ce-n dar ne-ai adus
+
+[s5]
+Ce zi minunată, ce scump răsărit
+La nunta cerească o mire iubit,
+Vom trece iordanul în țara de vis
+/: Canaanul ceresc, dorit Paradis :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5

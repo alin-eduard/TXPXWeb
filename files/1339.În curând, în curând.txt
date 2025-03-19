@@ -1,0 +1,43 @@
+[s1]
+1339.
+În curând, în curând
+Soarele va răsări
+În curând, în curând
+Duhul Sfânt ne va răpi.
+Cor: Întristări şi necaz
+Pentru noi nu vor mai fi
+Toate se vor transforma
+În bucurii, în bucurii.
+
+[s2]
+În curând, în curând
+Pe străzi de aur vom cânta
+În curând, în curând
+Pe Isus îl vom vedea.
+Cor: Dacă-aici pe pământ
+Plini de râvnă vom umbla
+Şi spre slava Domnului
+Noi vom cânta.
+
+[s3]
+Va veni, va veni
+Al nostru Mântuitor
+Şi spre noul Ierusalim
+Vom pleca cu toţii-n zbor.
+Cor: Înţelege-vom deplin
+Pentru ce am suferit
+Pentru ce Domnul Isus
+A fost jertfit.
+
+[s4]
+4.  Păcătoşii şi-ntinaţii
+Acolo nu vor intra
+Cei ce n-au legământ
+Cei ce n-au pecetea Sa.
+Cor:   Acolo vor intra
+Sigilaţi cu Duhul Sfânt
+Cei ce-au trăit
+Cu Isus pe-acest pământ.
+
+[order]
+s1,s2,s3,s4

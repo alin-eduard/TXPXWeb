@@ -1,0 +1,30 @@
+[s1]
+Incercari in viata am avut
+Dar Tu Doamne ai ramas langa mine
+M-ai ridicat cand eram cazut
+Prin orice greu,Domnul meu
+M-ai ajutat sa trec cu bine
+
+[r1]
+Vreau din inima sa te slavesc
+Pentru ca in incercare
+Doamne mi-ai fost scut
+Vreau din inima sa-ti multumesc
+Ca ochii tai cu drag spre mine au privit
+
+[s2]
+Vanturi au batut in barca mea
+Ea nu se mai putea zari printre valuri
+Tu ti-ai aratat puterea ta
+O scump Isus m-ai condus
+M-ai scos din greu si din necazuri
+
+[s3]
+Cei din jur adesea n-au stiut
+Cat de grea a fost povara ce-am purtat
+Doamne Tu din cer m-ai vazut
+Iar indurari mi-ai dat
+Glasul Tau m-a ajutat
+
+[order]
+s1,r1,s2,r1,s3,r1

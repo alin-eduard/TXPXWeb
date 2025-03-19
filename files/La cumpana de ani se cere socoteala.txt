@@ -1,0 +1,72 @@
+[s1]
+La cumpana de ani,
+se cere socoteală.
+Fii înțelept și fă-ți-o,
+să nu o facă El.
+Gândește-te adânc și bine,
+cât timp pierdut-ai oare,
+Trăind în nepăsare
+din timpul dat de El?
+
+[s2]
+Cât bine ai facut
+la cel de lângă tine?
+De câte ori tu mâna,
+ți-ai tras-o înapoi?
+Pe buze doar cuvinte
+de dragoste avut-ai?
+Sau cu știinta-n semeni,
+ai aruncat noroi!
+
+[s3]
+Pe-al tău cântar al vieții,
+ce taler e mai tare?
+E firea pământească
+sau Regele Isus?
+La cine-ai dat mai multă
+voință și-ascultare?
+La lucruri pieritoare
+sau celor făr-apus?
+
+[s4]
+Știm toată închinare
+o merită doar  Domnul.
+Aduți aminte-acuma
+cât timp te-ai închinat?
+Câtă recunoștintă
+cu mulțumire-adus-ai?
+Ca jertfă-n anu-acesta
+și cât L-ai lăudat?
+
+[s5]
+Mandatul mărturiei
+primit să-l duci la alții.
+Căci Isus îi iubește
+șii iartă de păcat.
+Ai folosit talantul
+sau îngropat e încă?
+Când semenul tău piere
+în moarte și păcat!
+
+[s6]
+Azi trece Grădinarul
+se uită-n Pomul Vieții,
+Găsește numai frunză
+sau va găsi și rod?
+Va îngriji El pomul
+îl va uda să crească!
+Sau taie și aruncă
+tot ce-i uscat în foc!
+
+[s7]
+Mă recunosc Isuse
+și-mi cer iertare Doamne,
+Smerit cu pocăință
+m-aplec sub crucea Ta.
+Și-aud jertfa iubirii,
+cum mijloceste-n rugă,
+Oh! Tată sfinte Tată,
+mai lasă-l înc-un an!
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

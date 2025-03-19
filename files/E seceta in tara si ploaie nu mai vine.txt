@@ -1,0 +1,38 @@
+[s1]
+E secetă în ţară şi ploaie nu mai vine
+E foamete şi boală, necaz în Israel
+Ilie nu se-arată cu slujitoru-n grabă
+Să intre-n rugăciune pe muntele Carmel.
+
+[s2]
+Arată-ţi Doamne slava prin a Ta lucrare
+Să ştie tot pământul că Tu eşti Dumnezeu
+Mai lasă Doamne focul şi-acum peste altare
+Şi ploaia cea târzie peste poporul Tău.
+
+[s3]
+Ni-e dor să Te-auzim la fel ca şi Ilie
+Cum îi vorbeai o Doamne pe muntele Horeb
+Dorim să vină ploaia să curgă apă vie
+Şi să strigăm cu toţii la fel ca Israel.
+
+[s4]
+Dărâmă Doamne baalii, dărâmă astarteea
+Să ştie tot pământul că Tu eşti Dumnezeu
+Pogoară Doamne astăzi la fel ca-n vreme-aceea
+Şi fă trezirea sfântă pentru poporul Tău.
+
+[s5]
+Trimite-ne mantaua o dă-ne iar puterea
+Ca să vestim cuvântul la fel ca Elisei
+Ridică-Ţi lucrători şi acum ca-n vreme-aceea
+Şi ploaia cea târzie să cadă peste noi.
+
+[s6]
+/: Şi celor ce-s în lume să le vestim mereu
+Că mântuirea sfântă e doar în Dumnezeu
+Şi chiar de-i greu pe cale să nu murmurăm
+Pe stânca să rămânem să nu ne clătinăm. :/
+
+[order]
+s1,s2,s3,s4,s5,s6

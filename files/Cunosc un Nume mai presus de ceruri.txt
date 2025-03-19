@@ -1,0 +1,28 @@
+[s1]
+Cunosc un Nume
+mai presus de ceruri:
+Ne e dat ca Salvator.
+Slăvirea Lui răsună-n
+toată lumea:
+E Isus, Mântuitor.
+
+[r1]
+Nume mai presus de orice nume,
+E-al Domnului slăvit Isus,
+În nici un nume nu e mântuire,
+Ea e numai în Isus.
+
+[s2]
+Isus e darul dragostei divine
+Pentru sufletul pierdut,
+Iar omul păcătos la El când vine,
+E primit numaidecât.
+
+[s3]
+La Domnul orice om trudit găseşte
+Pace şi odihnă-n dar;
+Chiar dacă lumea-ntreagă-l părăseşte,
+Domnu-I dă cerescul har.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,36 @@
+[s1]
+Astăzi, dacă-ai auzit
+sfânta Lui chemare,
+Vino, prietene iubit,
+/: Şi nu mai sta împietrit :/
+Şi în nepăsare.
+
+[r1]
+Vino, la fântâna mântuirii,
+Ca să bei, din tainicul izvor,
+Apa vie, apa fericirii,
+Care dă viaţă tuturor!
+
+[s2]
+Pentru drumul în pustiu,
+drag Ierusalime,
+A trimis pe al Său Fiu,
+/: Să te facă sfânt şi viu, :/
+Să-ţi dea mântuire.
+
+[s3]
+Pentru tine, ne'ncetat
+Domnul mijloceşte
+Să te scape din păcat.
+/: El şi astăzi te-a chemat, :/
+Fiindcă te iubeşte.
+
+[s4]
+Dacă încă mai amâi
+şi respingi chemarea,
+S-ar putea ca să rămâi,
+/: Poate, fără căpătâi, :/
+Moştenind pierzarea.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

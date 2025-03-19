@@ -1,0 +1,51 @@
+[s1]
+Re major
+Chiar dac-ar să fi să-ndur, din greu,
+Dureri şi lanţuri şi ruşine,
+/: Ajută-mi, Dumnezeul meu,
+Să nu pot să mă las de Tine! :/
+
+[s2]
+Chiar dac-ar fi să fiu răpit
+Şi-n noapte dus de mâini haine,
+/: Oricât închis şi chinuit,
+Să nu pot să mă las de Tine! :/
+
+[s3]
+Chiar dac-ar fi să mi se ia
+Tot ce-am avut pe lângă mine,
+/: Sărac şi gol de-aş rămânea,
+Să nu pot să mă las de Tine! :/
+
+[s4]
+Chiar dac-ar fi să zac flămând,
+Bolnav, uitat la uşi străine,
+/: Lovit şi alungat, nicicând
+Să nu pot să mă las de Tine! :/
+
+[s5]
+Chiar dac-ar fi cei dragi ai mei
+Răpiţi şi duşi de lângă mine,
+/: Zdrobit de dorul după ei,
+Să nu pot să mă las de Tine! :/
+
+[s6]
+Chiar dac-ar fi să ştiu că mor,
+Departe dus în zari străine...
+/: Tânjind de-al casei mele dor,
+Să nu pot să mă las de Tine! :/
+
+[s7]
+Chiar dac-ar fi să fiu ucis
+De cei cu mâini de sânge pline,
+/: Pân' la sfârşit, să spun deschis
+Că nu pot să mă las de Tine! :/
+
+[s8]
+Iar pentru toate acestea, sus,
+Tot ce-mi doresc eu de la Tine,
+/: E ca să văd atunci, Isus,
+Că nici Tu nu Te laşi de mine!. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

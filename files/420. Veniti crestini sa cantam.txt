@@ -1,0 +1,75 @@
+[s1]
+420.
+1.Veniţi creştini să cântăm
+Pe Isus să-l lăudăm
+Să facem tot lucrul sfânt
+/:Nu-i scăpare:/ (de 3 ori)
+Cât vom trăi pe pământ
+/:Nu-i scăpare:/ (de 3 ori)
+
+[s2]
+2.Veniţi fraţi să ne silim
+Pe Isus ca să-L slujim
+Că El va veni îndată
+/:Nu-i scăpare:/ (de 3 ori)
+Ca să facă judecată
+/:Nu-i scăpare:/ (de 3 ori).
+
+[s3]
+3.O suflete cum ţi-a fi
+Când Isus nu te-a primi
+Ci-ţi va zice cu mânie
+/:Nu-i scăpare:/ (de 3 ori)
+De ce nu mi-ai slujit mie
+/:Nu-i scăpare:/ (de 3 ori).
+
+[s4]
+4.O suflete ce vei face
+Căci acolo-n foc vei arde
+Cum vei plânge cu amar
+/:Nu-i scăpare:/ (de 3 ori)
+Dar atunci va fi-n zadar
+/:Nu-i scăpare:/ (de 3 ori).
+
+[s5]
+5.O vino te pocăieşte
+Până-n foc tu nu vei merge
+Că acolo când vei fi
+/:Nu-i scăpare :/ (de 3 ori)
+În zadar te vei căi
+/:Nu-i scăpare :/ (de 3 ori).
+
+[s6]
+6.Trupule nu te gândi
+Că aici vei mai trăi
+Dumnezeu când te-a făcut
+/:Nu-i scăpare:/ (de 3 ori)
+Te-a făcut numai din lut
+/:Nu-i scăpare:/ (de 3 ori).
+
+[s7]
+7.Suflete nu te lăsa
+După inima cea rea
+Lasă trupul şi pofta
+/:Nu-i scăpare:/ (de 3 ori)
+Caută sus fericirea
+/:Nu-i scăpare:/ (de 3 ori).
+
+[s8]
+8.O suflete cum trăieşti
+De ce nu te pocăieşti
+Căci aici trăieşti în bine
+/:Nu-i scăpare:/ (de 3 ori)
+Dar dincolo vai de tine
+/:Nu-i scăpare:/ (de 3 ori).
+
+[s9]
+9.Nu fi suflete-ngâmfat
+Că vai mult te-ai dezmierdat
+Căci nu vrei să ştii de nimeni
+/:Nu-i scăpare:/ (de 3 ori)
+Nici de Isus care vine
+/:Nu-i scăpare:/ (de 3 ori)
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

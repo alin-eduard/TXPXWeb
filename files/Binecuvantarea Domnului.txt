@@ -1,0 +1,31 @@
+[s1]
+Binecuvântarea Domnului
+zilnic să vă-nsoţească,
+Calea să v-o netezească binecuvântarea Domnului.
+
+[r1]
+Până când ne-om vedea
+şi-naintea Lui vom sta,
+Să avem ne-ncetat
+binecuvântarea Domnului.
+
+[s2]
+Binecuvântarea Domnului
+pe-aripi sfinte să vă poarte,
+Pâinea vieţii să v-o-mpartă
+binecuvântarea Domnului.
+
+[s3]
+Binecuvântarea Domnului
+prin futuni să vă-ntăresacă,
+De căderi să vă scutească
+binecuvântarea Domnului.
+
+[s4]
+Binecuvântarea Domnului
+în iubirea Lui vă ţină,
+Să vă dea prin har lumină
+binecuvântarea Domnului.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

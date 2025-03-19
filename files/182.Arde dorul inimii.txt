@@ -1,0 +1,51 @@
+[s1]
+1. Arde dorul inimii
+Domnului de a sluji
+Pentru Domnul de-a trăi
+Arde dorul inimii.
+182.
+
+[s2]
+2. Dorul inimii mele
+Doamne Tu să mi-l păstrezi
+Ca să pot dori mereu
+Să fiu copilaşul Tău.
+
+[s3]
+3. Doamne Dumnezeul meu
+Tu să mă înveţi mereu
+Cum în lume să trăiesc
+Numele Tău să-l măresc.
+
+[s4]
+4. Doamne Dumnezeul meu
+Tu să fii Păstorul meu
+Şi prin îndurarea Ta
+Să mă faci oiţa Ta.
+
+[s5]
+5. Tu să mă duci la izvor
+Ca de sete să nu mor
+La izvorul sângelui
+Curs din coasta Domnului.
+
+[s6]
+6. Şi să speli inima mea
+C-un strop sânge o picura
+Din rănile lui Isus
+Care a curs pe cruce sus.
+
+[s7]
+7. Ca să fiu eu răbdător
+Şi de Tine ascultător
+Aducându-Ţi tot mereu
+Jertfa sufletului meu.
+
+[s8]
+8. Fără pată de păcat
+Ca să-Ţi fiu eu sfânt, curat
+Şi când vei veni în grabă
+Să mă iei la Tine-n slavă
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

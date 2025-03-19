@@ -1,0 +1,27 @@
+[s1]
+M-ai regãsit când eu, pierdut în lume,
+Mã rãstigneam pe-altarele de lut,
+Si-ncatusat gemeam! a neputinţã,
+Când faptele-mi fãrâmã m-au fãcut.
+Do M
+
+[r1]
+/: Tu m-ai cules din pulbere, cu harul,
+Ca sã mã-mbraci cu dragostea dintâi.
+Şi mi-ai soptit: "Tu esti mãrgãritarul”,
+În dragostea-Ti pururi sã rãmân“ :/
+
+[s2]
+Astãzi alerg tot mai grabit pe cale,
+S-ajung acol’ Isus la dreapta Ta.
+Sã trec prin poarta biruinţei Tale,
+Prin poarta ce se cheamã Golgota.
+
+[s3]
+Şi dac-ades eu cad sub greul crucii
+Şi mã pândesc ispite în ascuns,
+Şi-atunci eu mulţumiri ţi-aduc, Isuse,
+Cãci harul Tãu îmi este îndeajuns
+
+[order]
+s1,r1,s2,r1,s3,r1

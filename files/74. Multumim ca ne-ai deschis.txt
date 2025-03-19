@@ -1,0 +1,51 @@
+[s1]
+74.
+1. Mulţumim că ne-ai deschis
+Poarta milei Tale
+Şi la Tine am adus
+Rodul nostru Doamne.
+
+[s2]
+/:  Încrezători venim
+Şi Îţi mulţumim
+C-a Ta binecuvântare
+Astăzi o primim.:/
+
+[s3]
+2. M-a trezit din aţipire
+Glasul milei Tale
+Dar nu-s vrednic să-Ţi răspund
+Mângâierii Doamne.
+
+[s4]
+/: Între fraţii mei
+Te voi lăuda
+Doar cu Tine Doamne Sfinte
+Ne vom bucura :/
+
+[s5]
+3. Un fior de mângâieri
+Pune-n fiecare
+Sufletului ce-i sărac
+Dă-i mărgăritare.
+
+[s6]
+/:   Greşiţi toţi am fost
+Greşeli vor mai fi
+Tu ne iartă sau ne mustră
+Căci suntem copii.:/
+
+[s7]
+4. Doamne ne-ai încredinţat
+Mieii turmei Tale
+Ce-or avea de-ntâmpinat
+I-ai pe braţe Doamne.
+
+[s8]
+/: Şi în turma Ta
+Noi cu ei vom sta
+Să ajungem sus odată
+Toţi în veşnicii.:/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

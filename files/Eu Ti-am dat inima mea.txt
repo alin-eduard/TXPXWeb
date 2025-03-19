@@ -1,0 +1,33 @@
+[s1]
+Eu Ţi-am dat inima Mea
+Pentru ca Tu să iubeşti.
+/: Du-te azi senin în lume
+Ucenicul meu, Tu eşti :/
+
+[r1]
+/: Iată-mă, trimite-mă
+Pe mine acum
+Iată-mă, prezent ca
+Să iubesc mai mult :/
+
+[s2]
+Eu, Ţi-am dat chiar viaţa Mea
+Pentru ca Tu să traieşti
+/: Du-te şi arată lumii
+Bogăţia ce e-n Ea :/
+
+[s3]
+Eu ţi-am dat şi Crucea Mea
+Pentru ca tu s-o-nţelegi
+/: Du-te şi invaţă lumea
+Umilinţa-I pacea Sa :/
+
+[s4]
+Toată tinereţea ta
+Nu uita ca e un dar
+/: Pe care vreau,
+tu să-l transformi
+În slujirea tuturor :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,27 @@
+[s1]
+1. /:Doamne Tu eşti Stânca mea:/
+/:Tu eşti Cetăţuia mea:/
+Tu îmi eşti a mea scăpare
+Când eu sânt în încercare
+Mă ajuţi în vreme grea
+Doamne Tu eşti Stânca mea.
+1931.
+
+[s2]
+2. /:Tu eşti fericirea mea:/
+/:Tu eşti bucuria mea:/
+Să rămână tot mereu
+Doar cu Tine Dumnezeu
+Totdeauna voi cânta
+Tu eşti fericirea mea.
+
+[s3]
+3. /:Doamne Tu m-ai mântuit:/
+/:Doamne Tu m-ai izbăvit:/
+De cumplitul meu păcat
+Tu pe mine m-ai salvat
+Prin Isus cel răstignit
+Doamne Tu m-ai mântuit.
+
+[order]
+s1,s2,s3

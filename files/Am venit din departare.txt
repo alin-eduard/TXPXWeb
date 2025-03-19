@@ -1,0 +1,33 @@
+[s1]
+Am venit din departare
+Sa v-aducem o urare
+Si un dar la fiecare
+Sa aveti un an frumos
+Si o viata cu folos
+O viata cu Hristos
+
+[r1]
+Un an de fericire
+Un an cu iubire
+/: Dumnezeu sa va dea
+La toata familia
+Prin Isus Hristos, Mesia. :/
+
+[s2]
+Har si pace va dorim
+Bucurie si alin
+Si credinta pe deplin
+Indurarea Domnului
+Binecuvantarea Lui
+Si arvuna cerului.
+
+[s3]
+Astazi noi v-am colindat
+Sfaturi bune v-am lasat
+Multumim c-ati ascultat
+Chiar de-o fi sa dati de greu
+Amintiti-va mereu
+Ca exista Dumnezeu
+
+[order]
+s1,r1,s2,r1,s3,r1

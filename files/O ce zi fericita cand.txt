@@ -1,0 +1,23 @@
+[s1]
+O, ce zi fericită când
+Am primit pe Domnul Cel sfânt
+Inima mea este a Lui
+Cu totul sunt al Domnului
+Fa M
+
+[r1]
+/: Sunt al Lui :/
+Nu al meu ci al Domnului
+Prin sânge sfânt răscumpărat
+De tot păcatul sunt spălat
+/: Sunt al Lui :/
+Nu al meu ci al Domnului
+
+[s2]
+Eu stau lipit lângă Isus
+Ce mântuire mi-a adus
+De la Domnul eu nu m-abat
+Căci pace numai El mi-a dat
+
+[order]
+s1,r1,s2,r1

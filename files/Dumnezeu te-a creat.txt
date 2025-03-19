@@ -1,0 +1,32 @@
+[s1]
+Dumnezeu te­-a creat
+Şi apoi te­-a aşezat
+Într-­un loc pregătit pentru tine;
+De păcat te-­a scăpat
+Când la moarte El L-­a dat
+Pe Hristos, Fiul Său pentru tine...
+
+[r1]
+Adu­ţi aminte de Făcătorul tău
+În zilele tinereţii tale;
+Adu­ţi aminte de Domnul Dumnezeu
+Şi umblă în căile Sale!
+
+[s2]
+Dacă poţi să lucrezi
+Şi cu ochi senini să vezi
+Tot ce El a făcut pentru tine;
+Dacă poţi să alergi,
+Să cuprinzi, să stăpâneşti
+Tot ce El a făcut pentru tine...
+
+[s3]
+Dacă poţi să iubeşti
+Şi aşa să înţelegi
+Ce-­a făcut Dumnezeu pentru tine;
+Dacă poţi să vorbeşti
+Şi smerit să­-I mulţumeşti
+Pentru tot ce­-a făcut pentru tine...
+
+[order]
+s1,r1,s2,r1,s3,r1

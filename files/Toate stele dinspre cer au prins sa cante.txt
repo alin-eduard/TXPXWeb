@@ -1,0 +1,31 @@
+[s1]
+Toate stele dinspre cer au prins să cânte,
+Toate florile zarea-ntreagă
+să-nveşmânte
+Cum de n-am cânta toţi cu ele-aşa
+Ţie mama mea, La mulţi ani de ziua ta!
+
+[s2]
+Ruga suie-n cer legământ şi închinare,
+Îngeri  se grăbesc fericire să coboare
+Cum de n-am cânta, cum de nu Ţi-am da
+Ţie, bun Isus, Aleluia, Osana!
+
+[s3]
+Doamne ne-ai trecut
+către cerul Tău hotare
+Doamne ne-ai făcut
+zi de sfântă sărbătoare
+Cum de n-am cânta,
+cum de nu Ţi-am da
+Ţie, bun Isus, Aleluia, Osana!
+
+[s4]
+Toate ne vestesc, Doamne,
+marea Ta iubire,
+Toate ne vorbesc de mărire şi mărire
+Cum de n-am cânta toţi cu ele-aşa
+Ţie bun Isus, Aleluia, Osana!
+
+[order]
+s1,s2,s3,s4

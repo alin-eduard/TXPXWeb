@@ -1,0 +1,43 @@
+[s1]
+1950
+1. O creştine al tău Tată
+Stând în prag cu drag te-aşteaptă
+Că te-ai dus de El departe
+Rătăcind pe căi deşarte
+/: Soarele-i la asfinţit
+Vântu adie liniştit
+Poate auzi încet o şoaptă
+Este glas ceresc de Tată :/.
+
+[s2]
+2. Este greu fără de pâine
+Ai lăsat hambar de grâne
+Când priveşti azi înspre tine
+Să te-ntorci îţi e ruşine
+/: Ca un rob ai vrea să fii
+În grădinile cu vii
+Ţi-ai jertfi viaţa toată
+Să fii cum ai fost odată :/.
+
+[s3]
+3. Căci averea-n lume ţine
+Ca şi fulgul care vine
+Precum vântul îl topeşte
+Şi averea se sfârşeşte
+/: Tot ce ai e trecător
+Chiar şi tu eşti muritor
+Însă cel ce se sfinţeşte
+El în veci de veci trăieşte :/.
+
+[s4]
+4. Te opreşte şi priveşte
+Şi spre Tatăl tău priveşte
+Te smereşte, te căieşte
+Căci în braţe te primeşte
+/: Căci veşmântul cel de in
+Şi inelul de-aur plin
+Pentru fiul de departe
+Sunt de Dumnezeu păstrate :/
+
+[order]
+s1,s2,s3,s4

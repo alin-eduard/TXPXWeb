@@ -1,0 +1,33 @@
+[s1]
+Vine ziua de-apoi
+când vom fi toţi chemaţi,
+Când cei sfinţi
+întâlnesc pe Domnul lor!
+Când străinul ajunge
+în patria sa,
+Laudă Domnului noi vom fi în ea!
+
+[r1]
+Noi vom fi-n veşnicii
+în măreaţa zi de-apoi!
+Când în cer vom intra,
+Laudă Domnului veşnic
+vom cânta.
+
+[s2]
+Când cei răscumpăraţi
+vor cânta toţi voioşi
+Noul imn al măririi lui Hristos,
+Când a noastră cântare
+cu-a lor s-a uni,
+Laudă Domnului noi în cer vom fi!
+
+[s3]
+Nu ne-om mai despărţi,
+împreună vom fi
+Unde lacrimi, dureri nu s-or găsi.
+Când Isus ne va zice: „Acasă veniţi!"
+Laudă Domnului noi vom fi primiţi!
+
+[order]
+s1,r1,s2,r1,s3,r1

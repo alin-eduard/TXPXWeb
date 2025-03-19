@@ -1,0 +1,45 @@
+[s1]
+2036
+1. Mai fă-mă iar să-Ți văd lumina
+Întinde-mi iarăși brațul Tău
+Mai fă-mă iar să-Ți simt iubirea
+Ridică-mă prin harul Tău.
+
+[s2]
+2. Mai fă-mă iar să-Ți văd cărarea
+Pe care ai mers pe drum spre cer
+Mai fă-mă iar să-Ți văd lucrarea
+Mai fă-mă iar să cred, să sper.
+
+[s3]
+3. Mai fă-mă iar să simt iubirea
+Și glasul sfânt ce Ți-l cunosc
+Mai fă-mă să-Ți aștept venirea
+Și să-mi găsesc în Tine rost.
+
+[s4]
+4. Mai fă-mă iar să stau de veghe
+Și-n ceas târziu și-n zori de zi
+Mai fă-mă iar să merg cu Tine
+Pe orice cale vei dori.
+
+[s5]
+5. Mai fă-mă iar să stau de veghe
+De-i vreme bună sau de-i rea
+Mai fă-mă iar să stau aproape
+De cel ce-i slab pe calea Ta.
+
+[s6]
+6. Mai fă-mă să-Ți vestesc puterea
+La cei din jur eu să le spun
+Că mântuirea Ta Isuse
+Se mai dă și-n dar acum.
+
+[s7]
+7. Mai fă-mă să-Ți aștept venirea
+Și zi de zi eu să veghez
+Și atunci când vei veni Isuse
+Să pot pleca și eu spre cer.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

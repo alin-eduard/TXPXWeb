@@ -1,0 +1,35 @@
+[s1]
+Când durerea vine cu al ei fior
+/: La Isus priveşte
+Căci El te iubeşte
+Şi-ţi dă ajutor. :/
+
+[s2]
+În valuri, prigoane
+şi-al urii venin
+/: Domnul e cu tine
+Și-n orice suspine
+El îţi dă alin. :/
+
+[s3]
+El îţi ştie starea şi puterea ta
+/: Şi nici o ispită
+Nu-ţi va fi menită
+Să-ţi fie mai grea. :/
+
+[s4]
+Deci, în El te-ncrede
+Chiar acum când plângi
+/: Căci din grea durere
+Stropi de mângâiere
+Curând ai să strângi. :/
+
+[s5]
+Viaţa ta de chinuri
+şi mari încercări
+/: Se preface-n valuri
+Ce dau peste maluri
+De dulci mângâieri. :/
+
+[order]
+s1,s2,s3,s4,s5

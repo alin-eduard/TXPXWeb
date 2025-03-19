@@ -1,0 +1,32 @@
+[s1]
+Schimbă­-mi, Doamne, gândul,
+Schimbă­-mi, Doamne, viaţa,
+Vreau să fiu curat
+Şi plăcut în faţa Ta.
+Numai Tu urci zorii
+Şi împrăştii ceaţa,
+Numai Tu eşti scutul
+Şi răsplata mea!
+
+[s2]
+Schimbă­-mi, Doamne, gândul,
+Schimbă­-mi, Doamne, viaţa,
+Ia din mintea mea
+Orice sfat al celor răi.
+Vreau să­-Ţi simt prezenţa,
+Să­-Ţi ascult povaţa,
+Vreau să pot privi
+Mereu în ochii Tăi.
+
+[s3]
+Schimbă­-mi, Doamne, gândul,
+Schimbă-­mi, Doamne, viaţa
+Când troiene reci
+Fac să­-mi pară clipa grea.
+Adu primăvara
+Ce topeşte gheaţa,
+Să văd iarăşi
+Ghiocei în calea mea!
+
+[order]
+s1,s2,s3

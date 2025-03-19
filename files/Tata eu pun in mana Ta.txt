@@ -1,0 +1,38 @@
+[s1]
+Tată, eu pun în mâna Ta
+Problema mea cea grea.
+Tată, eu pun în mâna Ta
+Chiar şi umblarea mea.
+Tată eu pun în mâna Ta
+Calea ce voi urma
+Fiindcă ştiu, tu nu mă vei lăsa
+
+[s2]
+Tată, eu pun în mâna Ta
+Pe cei din casa mea.
+Tată, eu pun în mâna Ta
+Îngrijorarea mea.
+Tată, eu pun în mâna Ta
+Întreagă viaţa mea,
+Fiindcă ştiu, e bună voia Ta
+
+[s3]
+Tată vreau să văd faţa Ta,
+Să-Ţi aud glasul Tău.
+Să cânt mereu spre slava Ta,
+Să-nalt numele Tău.
+Tată, vreau să Te însoţesc
+În Tin să m-odinesc, fiindcă ştiu
+Eşti Domnul meu ceresc.
+
+[s4]
+Tată, cu Tine vreau să fiu
+Să fac doar ce vrei Tu.
+Să spun mereu cuvintele
+Pe care le spui Tu.
+Tată, aş vrea să îi iubesc,
+Pe cei ce Tu-I iubeşti
+Fiindcă ştiu, uniţi Tu ne doreşti.
+
+[order]
+s1,s2,s3,s4

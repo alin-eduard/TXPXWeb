@@ -1,0 +1,26 @@
+[s1]
+Când bate vântul cu putere
+Şi drumul e primejdios,
+Să nu te-ntorci-napoi cu barca
+Că-ţi vine-n ajutor Hristos.
+
+[r1]
+Veni-va Domnul cu putere
+Şi îţi va da El ajutor,
+Te va conduce în spre portul
+Unde debarcă-al Său popor.
+
+[s2]
+Când valurile mari şi grele
+Se vor izbi în barca ta ,
+Să ai atunci acea credinţă
+Pe care Pavel o avea.
+
+[s3]
+O, nu uita, iubite frate,
+Că Domnul e de partea ta
+El te aşteaptă cu răbdare,
+S-ajungi în port cu barca ta.
+
+[order]
+s1,r1,s2,r1,s3,r1

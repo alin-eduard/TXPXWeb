@@ -1,0 +1,32 @@
+[s1]
+E razboi, frate n-ai uitat?
+Sa iesim afara din pacat
+Chiar de lumea nu ne intelege
+Noi fideli pe cale-aici vom merge
+
+[r1]
+Noi triumfam in lupt-acum
+Condusi de Duhul Domnului
+Dusmanul striga, dar sa n-ai frica
+Spre cer privirea ti-o ridica
+
+[s2]
+Cuvantul ca sabie ni-i dat
+Slava lumii noi am lepadat
+Drumul l-a deschis Isus prin lupta
+Si acum puternic ne ajuta
+
+[s3]
+Sa faci binele nu obosi
+Vesnica rasplata vei primi
+Lupta contra nebuniei lumii
+Cauta comoara-ntelepciunii
+
+[s4]
+Te-ntareste si nu te intrista
+Cand suferinta se-abate asupra ta
+Alergarea in curand sfarseste
+Mirele vine nu zaboveste
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

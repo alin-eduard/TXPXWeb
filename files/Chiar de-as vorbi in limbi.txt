@@ -1,0 +1,44 @@
+[s1]
+Chiar de-aş vorbi în limbi,
+în orice fel de grai
+Si n-aş avea al dragostei har,
+Aş fi ca un chimval
+ce sună zgomotos
+Sub ciocănele ce cad şi sar.
+
+[s2]
+Chiar de-aş rosti mereu
+descoperiri cereşti,
+Chiar de-aş putea
+munţi grei să despic,
+La ce mi-ar folosi
+în viaţa cea de veci,
+Când fără dragoste sunt nimic?
+
+[s3]
+Chiar dacă-aş vrea să-mpart
+la cei flămânzi şi goi
+Tot ce-am putut să strâng
+pe pământ,
+Chiar dacă-ar fi să mor
+pe rugul celor sfinţi,
+Tot fără dragoste sunt nimic!
+
+[s4]
+Cine răspunde blând
+chiar unui om vrăjmaş,
+Chiar unui om viclean si barbar?
+Şi cine iartă tot,
+acoperind greşeli?
+E focul sfânt, e dragostea doar!
+
+[s5]
+Vor înceta curând
+si prorocii şi limbi,
+Tot ce-i “în parte” se va sfârşi,
+Tot daru-ncepător
+se va topi cândva,
+Dragostea, însă, nu va pieri!
+
+[order]
+s1,s2,s3,s4,s5

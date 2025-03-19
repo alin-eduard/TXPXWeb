@@ -1,0 +1,38 @@
+[s1]
+Într-o lume fără pace
+Risipită de păcat
+Unde sufletul din oameni
+Tot mai mult e apăsat
+Azi mai este o speranţă
+E speranţă în Hristos
+El e Calea şi-adevărul
+Far pe drum întunecos.
+
+[r1]
+O, Domnul meu, cât va mai fi
+Pân’ Te-om vedea la noi cum vii
+Cu Tine-om fi în veşnicii
+Şi vom cânta cu îngerii
+
+[s2]
+Necredinţa este mare
+Astăzi  răul e iubit
+,,Dumnezeu nu mai există”
+Spun toţi ce au rătăcit
+Domnul, însă îî iubeşte
+Şi aşteaptă cu mult dor
+Căci prin jertfa de pe Cruce
+A dat viaţă tuturor.
+
+[s3]
+Prin cântarea noastră, astăzi
+Ţie vrem să-ţi amintim
+Prieten drag, că-n astă lume
+Tu trăieşti ca un străin.
+Dacă-L ai pe Domnu-n viaţă
+Să rămâi neprihănit
+Dacă nu primeşte-L astăzi
+Ca  să poţi fi fericit.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,37 @@
+[s1]
+Doamne, păcatul ca o noapte
+Cu faldurile morţii
+Vrea-n orice chip să mă cuprindă.
+Duhul de viaţă care vine
+Din harul ce-i în Tine
+Copleşească-mă, Te rog.
+
+[r1]
+/: Privesc în jur la bezna
+în care-şi duce viaţa
+Sărmanul om,
+departe de Soarele Isus!
+Mereu mai mult
+mi-e foame de Tine,
+Domnul slavei
+De viaţa ce-i ascunsă
+în harul cel de sus. :/
+
+[s2]
+Lumea minciuna zămisleşte
+Pe ea se sprijineşte
+Cu minciuna se hrăneşte.
+Asta e viaţa ce îi place
+În care se complace
+Şi în care va pieri.
+
+[s3]
+Doamne, de este unul care
+Să vadă această stare
+Şi să caute-adevărul
+Uple-l cu viaţă şi lumină
+Cu pace şi credinţă
+Şi cu har ispăşitor.
+
+[order]
+s1,r1,s2,r1,s3,r1

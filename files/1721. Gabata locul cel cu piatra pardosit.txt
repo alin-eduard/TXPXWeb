@@ -1,0 +1,84 @@
+[s1]
+Cor:	Gabata, Gabata
+Locul cel cu piatră pardosit
+Gabata, Gabata
+Unde Iudeii cu toţi au venit
+1721.
+1. Isus Fiul lui Dumnezeu
+A vrut să scape oamenii de greu
+/:Cu toţii L-au bătut si L-au scuipat
+Coroană de spini i-au pus pe cap:/
+
+[r1]
+Cor:	Gabata, Gabata
+Locul cel cu piatră pardosit
+Gabata, Gabata
+Unde Iudeii cu toţi au venit
+
+[s2]
+2. Haină de purpură I-au dat
+Şi în batjocură I s-au închinat
+/:Atunci Pilat la toţi L-a arătat
+Iată Omul, vină nu I-am aflat:/
+Dar preoţii şi aprozii au aflat
+/:Răstigneşte-L:/ cu toţii au strigat
+/:El s-a făcut pe sine
+Fiu de Dumnezeu
+Şi trebuie să moară
+E lege de Iudeu:/
+
+[s3]
+3. Atunci Pilat de frică L-a-ntrebat
+Spune-mi cine eşti cu-adevărat
+/:Eu am putere să te răstignesc
+Sau viaţa Ţie să ţi-o dăruiesc:/
+Putere n-ai avea i-a spus Isus
+De nu ţi-ar fi fost dată chiar de sus
+/:Dar cel ce m-a dat azi în mâna ta
+Păcatul cel mare-l va avea:/
+
+[s4]
+4. Şi pe Isus afară ei L-au scos
+Şi-n locul numit Gabata ei L-au pus
+/:Iudeilor pe Domnul L-arătat
+Iată-L pe-al vostru Împărat:/
+Dar preoţii
+Cei mai de seamă au spus
+Noi nu-L vrem nici cum
+Pe-acest Isus
+/:Şi plini de ură cu toţi au strigat
+Ia-L, ia-L, ia-L,
+Noi nu-L vrem ca-mpărat:/
+
+[s5]
+Cor:	Gabata, Gabata
+Pilat la judecată s-a aşezat
+Gabata, Gabata
+Şi pe Domnul Isus
+L-a condamnat
+
+[s6]
+5. O cruce grea în spate ei I-au pus
+Spre Golgota Isus cu ea s-a dus
+/:Şi sus pe cruce ei L-au răstignit
+Şi-acolo Domnul Isus a murit:/
+Ca semn că Domnul Isus
+N-a minţit
+Cuvântul Bibliei s-a împlinit
+La trei zile Domnul a-nviat
+La Tatăl sus la cer S-a înălţat
+Trăieşte azi şi-n vecii vecilor
+Bunul şi blândul nost Mântuitor
+
+[s7]
+Cor: Gabata, Gabata
+Locul cel cu piatră pardosit
+Gabata, Gabata
+Azi de o lume-ntreagă eşti privit
+Gabata, Gabata
+Nimenea nu va putea uita
+Gabata, Gabata
+Cum a murit Isus pe Golgota
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5,s6,s7

@@ -1,0 +1,32 @@
+[s1]
+Dragă-i ora dimineţii
+când o-ncepi cu Dumnezeu;
+Inima se-nveseleşte ascultând
+Cuvântul Său.
+Noi venim în zori de zi,
+El cu drag ne va primi
+Să-I aducem mulţumire
+pentru sfânta-I ocrotire.
+
+[s2]
+Să-ndreptăm spre cer privirea
+când răsare soarele
+Care luminează lumea,
+revărsându-şi razele.
+Dar lumina lui Hristos
+străluceşte mai frumos;
+Ea aduce mântuire
+şi conduce la sfinţire.
+
+[s3]
+El şi astăzi ne-nsoţeşte,
+ne ajută în nevoi
+Şi cu drag ne ocroteşte;
+este peste tot cu noi.
+De vom fi ameninţaţi
+şi adesea-ngrijoraţi,
+Noi avem la El scăpare,
+pentru suflet alinare.
+
+[order]
+s1,s2,s3

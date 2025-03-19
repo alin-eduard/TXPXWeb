@@ -1,0 +1,45 @@
+[s1]
+Un dor de patria cerească,
+De-acel cămin făgăduit,
+/: A început în min’ să crescă,
+În pieptul slab şi chinuit. :/
+Fa M
+
+[r1]
+/: O, Doamne, fă să vină ziua
+Să vină cât mai grabnic ceasul,
+Când tot lăsând să-mi iau adio
+Şi pe veci să-mi uit necazul. :/
+
+[s2]
+Si sufletul meu intristat,
+Intr-un pământ sec si uscat
+/: Se zbate-ntruna intr-un oftat,
+Privind spre cer neincetat. :/
+
+[s3]
+Aş vrea să zbor, să las pământul,
+Să scap de-această lume rea,
+/: “Cu glasul meu strig către Domnul:
+Vino Doamne şi mă ia !” :/
+
+[s4]
+Când mă gândesc la Tine Doamne
+Cât eşti de bun şi iubitor;
+/: O, mult mi-i dor de Tine,
+La Tine sus, as să zbor ! :/
+
+[s5]
+As vrea sa zbor, ca porumbelul,
+Si sa ma-nalt mai sus... mai sus...
+/: Ca sa gasesc pe Cel ce-i Mielul
+Si sa ma bucur mult nespus. :/
+
+[s6]
+Si ce va fi cand, langa Tine,
+Voi fi, o, Doamne, scump Isus,
+/: Să sorb setos a Ta iubire
+Si sa ma bucur, nespus. :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

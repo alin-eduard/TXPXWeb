@@ -1,0 +1,23 @@
+[s1]
+965.
+1. Grăbiţi-vă, grăbiţi-vă
+Isus v-aşteaptă cu milă
+Astăzi e loc, astăzi veniţi
+La Isus pace să găsiţi
+2. Viaţa trece zi cu zi
+O vino azi nu şovăi
+Nu aştepta, nu întârzia
+Iertare tu mai poţi afla
+
+[s2]
+3. Ce ai să faci nemântuit
+El te-a chemat tu n-ai venit
+Harul pe veci se va sfârşi
+Moartea pe veci te-a despărţi
+4. Dacă auzi cuvântul Său
+Adă-I slavă lui Dumnezeu
+Ca să nu fii tăiat de tot
+Ca pomul ce n-aduce rod.
+
+[order]
+s1,s2

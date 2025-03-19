@@ -1,0 +1,38 @@
+[s1]
+Te du mereu mai sus
+Spre zările senine
+Acolo-i fericire
+Pentru tine.
+Cu sfinţii-n întâlnire
+Pe albele coline
+Isus, ca sfântul Mire
+Văd că vine.
+
+[r1]
+Acolo-i pace dulce
+Şi lacrimile pier
+Odihnă îţi aduce
+Divinul Miel.
+
+[s2]
+Te du şi spune-I Lui
+Că-n mila jertfei Sale
+Găsit-ai alinare -
+Acum să-I spui!
+Şi de-ar veni furtuna
+Te du mai sus întruna
+Şi vei primi cununa
+De la Isus!
+
+[s3]
+Orfan de eşti în lume
+Nu dispera, ci-I spune.
+El poartă grija ta
+Nu dispera!
+Îţi dă putere-ntruna
+Să-nvingi oricând furtuna
+Isus întinde mâna
+Când crucea-i grea.
+
+[order]
+s1,r1,s2,r1,s3,r1

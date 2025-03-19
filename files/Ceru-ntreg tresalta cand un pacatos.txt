@@ -1,0 +1,26 @@
+[s1]
+Ceru-ntreg tresaltă când un păcătos
+Se-ntoarce acasă pocăit.
+Tatăl Îi deschide uşa bucuros,
+Sărutând pe fiul rătăcit.
+
+[r1]
+Este mare bucurie-n cer,
+Sună harfe, îngeri cântă-n cor!
+Ceru-ntreg tresaltă când un păcătos,
+Pocăit, la Tatăl s-a întors!
+
+[s2]
+Ceru-ntreg tresaltă când un om pierdut
+A găsit lumina lui Hristos.
+De la întuneric se întoarce-acum
+Şi e plin de viaţă, bucuros.
+
+[s3]
+Ceru-ntreg tresalte, masa pregătiţi:
+Fiul drag acasă s-a întors!
+Spuneţi tuturora şi mărturisiţi:
+E salvat un suflet prin Hristos!
+
+[order]
+s1,r1,s2,r1,s3,r1

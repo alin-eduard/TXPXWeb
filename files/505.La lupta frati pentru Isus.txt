@@ -1,0 +1,37 @@
+[s1]
+1.	La luptă fraţi pentru Isus
+La sfântul Său război
+Drapelul Său să-l ţinem sus
+Izbânda e cu noi.
+505.								   Sib
+
+[r1]
+Cor: El ne dă victorii
+El ne dă şi glorii
+Celor ce se-ncred în El
+În Cerescul Miel.
+O, ce frumos când eşti un fiu
+Al Dumnezeului cel viu
+Spălat de orişice păcat
+Prin sângele vărsat.
+
+[s2]
+2. Cu dragoste să îndrăznim
+Pe toţi să-i îndemnăm
+Vorbind pe uliţi cu drumeţi
+La Domnul să-i chemăm.
+
+[s3]
+3.Avem un lucru de împlinit
+Ce îngerii privesc
+Ei sunt voioşi de negrăit
+Când mulţi se pocăiesc.
+
+[s4]
+4.	Şi câţi mai sunt nemântuiţi
+E seceriş nespus
+Cuvântul trebuie vestit
+Să vină la Isus.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

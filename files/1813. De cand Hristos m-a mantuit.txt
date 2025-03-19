@@ -1,0 +1,33 @@
+[s1]
+1813.
+1. De când Hristos m-a mântuit
+Cu mine e necontenit
+Şi-n mijloc de-ntristări şi vai
+Mă simt ferice ca în rai
+Cor:	/:Aleluia, sunt fericit!
+Mă simt ca-n cer că-s mântuit
+Sunt fericit chiar pe pământ
+Căci unde-i El e cerul sfânt:/
+
+[s2]
+2. Ceru-mi părea îndepărtat
+Când în păcat stam cufundat
+Dar când pe Isus îl primii
+Cerul în suflet îmi veni
+Cor:	/:Aleluia, sunt fericit!
+Mă simt ca-n cer că-s mântuit
+Sunt fericit chiar pe pământ
+Căci unde-i El e cerul sfânt:/
+
+[s3]
+3. Nu-i important unde aş fi
+În munţi sau văi pot locui
+În scump palat sau într-un cort
+Căci ceru-ntreg în mine-l port.
+Cor:	/:Aleluia, sunt fericit!
+Mă simt ca-n cer că-s mântuit
+Sunt fericit chiar pe pământ
+Căci unde-i El e cerul sfânt:/
+
+[order]
+s1,s2,s3

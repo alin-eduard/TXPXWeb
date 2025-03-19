@@ -1,0 +1,17 @@
+[s1]
+Noi Te privim Fiu de-mpărat
+Biruitor şi înălţăt
+Domnind la dreapta Tatălui
+În veci glorificat
+Tu străluceşti în slava Ta
+Iar noi privim acum la ea
+Şi îţi aducem din toată inima.
+
+[s2]
+/: Vrednic eşti Tu,
+Vrednic doar Tu
+Să fii stăpân
+Şi să fii Domn în veci :/
+
+[order]
+s1,s2

@@ -1,0 +1,52 @@
+[s1]
+1. Sună Biblia-n glas tare
+Să ne deşteptăm din somn
+Ea spune la fiecare
+Căci avem Rege şi Domn
+Iată-l, Iată-l vine
+Curând Domnul vine
+Oare suflete eşti tu gata.
+272.
+
+[s2]
+2. Nu iubiţi plăcerea lumii
+Precum Solomon a zis
+Căci toate-s deşertăciune
+Toate sunt umbră şi vis
+/:Spui ca Solomon:/
+Ca să ai în cer Rege şi Domn.
+
+[s3]
+3. Fă cum a făcut Maria
+Ea şi-a ales partea de sus
+Şi cu lacrimi a spălat
+Picioarele lui Isus
+Fă ca Maria, fă ca Maria
+Alegeţi şi tu partea de sus.
+
+[s4]
+4. Fă cum a făcut Corneliu
+Cu post şi cu rugăciuni
+Fugi și tu de fapte rele
+Nu umbla-n deşertăciuni
+/:Roagă-te cu post:/
+Ca să fii urmaş al lui Hristos.
+
+[s5]
+5. Deschide-ţi a ta inimă
+Precum Lidia şi-a deschis
+Ca să ai bună intrare
+În frumosul Paradis
+Fă ca Lidia, fă ca Lidia
+Deschide-ţi şi tu inima ta.
+
+[s6]
+6. Deschide şi tu inima
+Ca să intre în ea Isus
+Ca să ai tu fericirea
+Împreună cu Isus
+Fericiţi vom fi, fericiţi vom fi
+Când cu Isus acolo vom fi.
+
+[order]
+s1,s2,s3,s4,s5,s6

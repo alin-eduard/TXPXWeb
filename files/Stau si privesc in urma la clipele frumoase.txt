@@ -1,0 +1,42 @@
+[s1]
+Stau si privesc in urma
+la clipele frumoase
+Un vis real ce-a fost candva
+in viata mea
+Imi amintesc o,
+Doamne ca un copil eram
+C-o dragoste fierbinte,
+asa Te ascultam.
+
+[s2]
+/: In Tine ma-ncredeam deplin,
+si fara sovaire
+Cu Tine-n inima
+si-n gand eram plin de iubire,
+Sa nu Te supar incercam
+si Te doream aproape
+Te-aveam in inima si-n gand,
+ce clipe minunate! :/
+
+[s3]
+Imi amintesc cum Doamne
+promisiuni faceam
+Pentru Tin’ dragostea-mi va fi,
+un foc mereu aprins
+Dar timpul a trecut si-ncet
+eu am uitat
+Ce-a fost intre noi doi candva,
+cu adevarat.
+
+[s4]
+/: Dar vreau acum ca si atunci,
+sa Te doresc aproape
+Cu Tine-n inima si-n gand
+sa fiu pana la moarte
+Sa fiu asa cum Tu doresti,
+s-astept a Ta venire
+Cu Tine-n inima si-n gand
+sa fiu plin de iubire. :/
+
+[order]
+s1,s2,s3,s4

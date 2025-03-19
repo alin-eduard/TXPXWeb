@@ -1,0 +1,63 @@
+[s1]
+1477.
+Suflet călător din lume
+Seama ia mereu
+Să şti că şi pentru tine
+Este un Dumnezeu
+/: Te-ai dus prin necazuri multe
+Eşti mereu zdrobit
+Vino la Isus cu toate
+Suflete iubit :/
+
+[s2]
+2.  Domnul vrea să-ţi uşureze
+Greul Tău oricând
+Să poţi trece prin necazuri
+Suflete cântând
+/: Că necazuri şi ispite
+Multe-s pe pământ
+Nimeni nu le-ar putea învinge
+Fără Duhul Sfânt :/
+
+[s3]
+3.  Zi de zi se duce viaţa
+Trudă şi oftând
+Pentru lucru pentru casă
+Ce-o ai pe pământ
+/: După fiecare zi şi soare
+Ce a apus
+Sufletul nu te întreabă
+Pentru el ce ai strâns :/
+
+[s4]
+4.  Omu-n viaţă risipeşte
+Ani mulţi pe pământ
+Iar la moarte când gândeşte
+O clipă regretând
+/: Nu regreta văzând viaţa
+Că s-a terminat
+Cât regretă o veşnicie
+Că s-a înşelat :/
+
+[s5]
+5.  Se-ngrozeşte văzând calea
+Locul pregătit
+Dar şi groaznică e moartea
+La nemântuit
+/: Suflete ce auzi chemarea
+Oricine vei fi
+Cu Domnul şi veşnicii
+Te rog nu glumi :/
+
+[s6]
+6.  Domnu-n locul tău pe cruce
+Răstignit a fost
+Şi pentru toţi păcătoşii
+A murit Hristos
+/: Suflet călător din lume
+Seama ia acum
+Să şti că şi pentru tine
+Va fi scris un nu :/
+
+[order]
+s1,s2,s3,s4,s5,s6

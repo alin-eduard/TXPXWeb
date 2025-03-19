@@ -1,0 +1,33 @@
+[s1]
+Eu al Domnului sunt;
+Din păcat m­a scăpat,
+Cânt întruna căci pace­am aflat,
+Azi sunt biruitor, în cer moştenitor
+Cu al Domnului mare popor.
+
+[r1]
+Eu al Domnului sunt;
+Fiu al Celui Preasfânt,
+Şi nicicând El nu m­a părăsi,
+Iar când mă va chema
+Sus în gloria Sa
+Lângă Domnul Isus eu voi sta.
+
+[s2]
+Eu al Domnului sunt;
+Mi­a dat dragostea Sa,
+I­am predat bucuros viaţa mea,
+Am pe cale un scop,
+O speranţă şi­un ţel
+Căci refugiul meu sigur e El.
+
+[s3]
+Eu al Domnului sunt;
+Mi­a promis că­ntr­o zi
+Sus în ceruri cu El voi trăi;
+Vreau să­I fiu credincios
+Cât voi fi pe pământ,
+Să ajung cu El în locul sfânt.
+
+[order]
+s1,r1,s2,r1,s3,r1

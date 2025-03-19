@@ -1,0 +1,39 @@
+[s1]
+1680. Mi m
+1. Porumbiţa mea cea din vale
+Nu mai este mult, Mirele apare
+Izbăvirea Ta e aproape
+Vine al Tău Isus
+Şi-ai să scapi de toate.
+
+[r1]
+Cor:	Ne e dor de marea zi
+Când Isuse vei veni
+Când spre cer ne-om înălţa
+Sus în ţara Ta
+Ne vei şterge lacrima
+Isuse cu mâna Ta
+Vom scăpa de orice greu
+Sus cu Dumnezeu
+
+[s2]
+2. Porumbiţa mea cea din vale
+Nu mai este mult, stai în aşteptare
+Te voi ridica din astă lume
+Sus în Paradis să cinezi cu Mine.
+
+[s3]
+3. Porumbiţa mea cea din vale
+Nu descuraja de lupta-i mare
+Mai rabdă puţin pe a Ta cale
+Căci te ocrotesc şi-ţi trimit salvare
+
+[s4]
+4. Mire drag şi scump ne ajută
+Să nu dăm’napoi în a vieţii luptă
+Ne dă ajutor pe cărare
+Să nu obosim
+Chiar de lupta-i mare
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

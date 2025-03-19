@@ -1,0 +1,26 @@
+[s1]
+Ce dulce e pacea şi harul ceresc
+Cînd ai pe Isus ca Păstor !
+/: Atunci bucuriile-n suflet îţi cresc
+Necazul e doar trecător. :/
+
+[s2]
+Lui Isus cîntăm Aleluia, Amin!
+Slăvim pe al nostru Păstor!
+/: Cu dragoste pe noi ne-a răscumpărat
+Şi pace în dar El ne-a dat. :/
+
+[s3]
+Isus ne-a salvat prin al Său sînge curs
+Ne-a dat mîntuirea în dar.
+/: Prin harul Lui astăzi privim noi în sus
+La crucea jertfirii-n Calvar. :/
+
+[s4]
+Prin harul lui Isus cu toţi să-L privim
+Să-nvingem prin El noi putem.
+/: Prin pacea lui Isus şi harul divin
+Iertare la Tatăl s-avem. :/
+
+[order]
+s1,s2,s3,s4

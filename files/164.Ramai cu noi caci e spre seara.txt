@@ -1,0 +1,40 @@
+[s1]
+Re m
+1. Rămâi cu noi căci e spre seară
+Noi te rugăm Isus iubit
+Ca ucenicii odinioară
+Când spre Emaus Te-au întâlnit.
+164.
+
+[r1]
+Cor: Rămâi cu noi, rămâi cu noi
+Spre Tine dorul nostru zboară
+Rămâi cu noi, rămâi cu noi
+Rămâi cu noi căci e spre seară
+
+[s2]
+2. Ne arde-n piept şi astăzi dorul
+Când ne înveţi şi ne vorbeşti
+Şi-n inimă simţim fiorul
+Când tainele le tâlcuieşti.
+
+[s3]
+3. Rămâi la cei ce-s prin spitale
+Acei ce lumea i-a uitat
+Rămâi balsam de vindecare
+Isuse Medic minunat.
+
+[s4]
+4. Rămâi la noi sfântă iubire
+Te cheamă acum al Tău popor
+Rămâi cu noi la despărţire
+Rămâi cu noi iubit Păstor.
+
+[s5]
+5. Rămâi la noi în adunare
+Când valuri vin şi vânturi bat
+Şi-n bucurii, şi-n strâmtorare
+Şi să nu mai pleci niciodat!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

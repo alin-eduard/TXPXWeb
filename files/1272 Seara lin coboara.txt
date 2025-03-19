@@ -1,0 +1,46 @@
+[s1]
+Seara lin coboară
+Pe pământ întreg
+Te grăbeşte frate
+Să lucrezi cu avânt
+1272
+1.
+A salvării vreme
+Trece-va degrab
+Alte zile-n dată
+Îţi vor bate-n prag
+
+[r1]
+Cor:	Lucru-n vie astăzi
+Este pe sfârşit
+Noaptea vine-ndată
+Seara s-a ivit
+/ : Iată vine Isus
+Şi ne va-ntreba
+Ce-om răspunde oare
+Dacă n-om lucra : /
+
+[s2]
+Ai întors vreun suflet
+Din păcat şi chin
+Dacă nu ai vreme
+Încă-i har divin
+2.
+Să lucrezi că-n toate
+E de-ajuns un glas
+Să te ştii pe Tine
+Mântuit, salvat
+
+[s3]
+Şi voi vestitorii
+Fiţi mai cu avânt
+Fiţi cu-nflăcărare
+Fiţi mai cu avânt.
+3.
+Consacraţi tot zelul
+Pentru a salva
+Suflete pierdute
+Pentru slava Sa.
+
+[order]
+s1,r1,s2,r1,s3,r1

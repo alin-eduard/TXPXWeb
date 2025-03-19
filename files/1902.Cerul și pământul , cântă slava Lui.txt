@@ -1,0 +1,36 @@
+[s1]
+1902
+1. Cerul și pământul
+Cântă slava Lui
+Căci au fost create
+De mâna Domnului
+Cântă și tu suflet
+Mărește-L ne-ncetat
+Pe-acela ce viață
+Ţi-a dat și te-a iertat
+
+[r1]
+Cor: Laudă-L și cântă, cântă-I ne-ncetat
+Căci doar El e-acela , care te-a creat
+Numai Lui dă-I slavă , cinste gloria
+Cu-ntreaga natură , cântă-I nu uita.
+
+[s2]
+2. Universul cântă
+Lui Dumnezeu
+Totul preamărește numele său
+Apele și munții
+El le-a creat
+Păsări și-animale
+Slăvesc pe Împărat.
+
+[s3]
+3. Copacii și pădurea
+Îl cântă pe-mpărat
+Florile și câmpul
+Înflorește minunat
+Peștii și marea freamătă de-odat'
+Îl laudă pe acela care le-a creat.
+
+[order]
+s1,r1,s2,r1,s3,r1

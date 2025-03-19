@@ -1,0 +1,12 @@
+[s1]
+/: Doamne eu Îţi cânt un cântec nou,
+Pe glob se-ntinde a Ta laudă,
+Tu eşti din veşnicii,
+Domn al Domnilor şi Mântuitorul. :/
+
+[s2]
+/: Aleluia! Slavă Domnului!
+Aleluia! Slavă în veci! :/
+
+[order]
+s1,s2

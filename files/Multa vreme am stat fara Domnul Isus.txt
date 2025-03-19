@@ -1,0 +1,27 @@
+[s1]
+Multă vreme am stat fără Domnul Isus
+Bucurie în viaţă n-am aflat
+Dar a fost şi o zi când eu L-am întâlnit
+Fericirea de-atunci mi-a dăruit.
+
+[r1]
+/: Domnul Isus e dragostea
+Fericire-mi dă-n viaţa mea
+Când sunt trist doar El îmi poate da
+Bucurie mereu. :/
+
+[s2]
+Mult timp eu nu ştiam
+Că în Domnul Isus e atâta
+bucurie pentru noi
+Dar eu am înţeles cât de mult m-a iubit
+Când pe cruce în chin pentru mine-a murit.
+
+[s3]
+Când necazuri apar, vin la Domnul Isus
+Din ochi lacrima grea mi-o şterge El
+Şi în orice zi am în dragostea Lui
+Tot ce în viaţa mea mi-am dorit.
+
+[order]
+s1,r1,s2,r1,s3,r1

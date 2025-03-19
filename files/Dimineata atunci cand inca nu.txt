@@ -1,0 +1,38 @@
+[s1]
+Dimineaţa atunci când
+încă nu te-ai trezit
+Eu stau lângă patul tău te privesc
+Şoapte de iubire peste tine rostesc
+Tu ştii că lumea n-are ce să-ţi dea
+De ce alergi mereu spre ea
+Viaţa e doar pustie fără iubirea mea.
+
+[s2]
+Te iubesc, te iubesc,
+te iubesc copilul meu
+Chiar de încă pribegheşt
+Chiar de tu nu imi vorbeşti
+Te iubesc şi aştept
+poate mâine-ai să-mi vorbeşti
+Şi-ai să-mi spui şi tu cât mă iubeşti.
+
+[s3]
+Ziua trece şi oboseşti încercând
+Să dovedeşti celor din jurul tau
+Că în toate tu poţi să reuşeşti
+Şi speri că nimeni nu va observa
+Durerea ascunsă din inima ta
+Că e trista şi goală fără iubirea mea.
+
+[s4]
+Seara vine,
+Spre ultimul autobuz tu alergi
+În picături de ploaie reci
+Acasă ajungi
+Cu ochii-n lacrimi
+Pe pat tu te prăbuşeşti
+Obosi adormi într-o clipă
+Fără să-mi spui cât mă iubeşti.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,32 @@
+[s1]
+Isus o Doamne,
+Iubirea Ta
+Ma umple de Tine,
+De pacea Ta
+
+[s2]
+Tu, numai Tu
+Esti stanca mea
+
+[s3]
+Prin ape de-as trece,
+Ma vei pazi
+Cand totul se duce
+Doar Tu ramai
+
+[s4]
+Tu numai Tu
+Esti Stanca mea
+
+[s5]
+Dorinta fierbinte
+In mine-ai pus
+Spre Viata, spre Tine,
+Sa vreau s-ajung
+
+[s6]
+Tu numai Tu
+Esti Stanca mea.
+
+[order]
+s1,s2,s3,s4,s5,s6

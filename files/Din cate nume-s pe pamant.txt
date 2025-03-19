@@ -1,0 +1,39 @@
+[s1]
+Din cate nume-s pe pamant,
+Nici unul nu-i mai drag si sfant,
+Nu e mai dulce, nu-i mai drag
+Decat acel ce-asteapta-n prag
+Stiti care-i? MAMA!
+
+[r1]
+De ce nu vrei sa fii tu, mama?
+Vei plange odata dar, va fi tarziu
+Caci nu vrei sa se auda-n casa ta,
+cuvantul dulce: „Mama!“
+Nu-i camin acela unde nu se-aude:
+„Mama!"-n el.
+De ce nu vrei sa fii si tu, sa fii o mama?
+
+[s2]
+De-atatea ori, cand tu dormeai
+Si mama nu ai vrut sa fii,
+Eu leganam si suspinam,
+Odoru-mbrate mi-l strangeam,
+Cu drag de MAMA.
+
+[s3]
+De cate ori, in sapte... ani?
+De cate ori? De mii de ori!
+Cate sudori pe fruntea ei
+Au curs nu stie nimenea!
+Caci a fost MAMA.
+
+[s4]
+Mi-ai pus pe cap un curcubeu
+Din cei mai dragi luceferi;
+Mi-i drag de ochii mei din cap,
+Dar mult mai drag imi e de ei
+Ca-mi zic toti: „MAMA!"
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

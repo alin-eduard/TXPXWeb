@@ -1,0 +1,28 @@
+[s1]
+Al rugăciunii dulce ceas, mă chemi îngrijorări să las
+Şi mă conduci la Dumnezeu
+să-I spun Lui tot necazul meu.
+Iar când pe cale vin dureri îmi dai depline mângâieri,
+Ce minunat e-acest popas:
+al rugăciunii dulce ceas.
+
+[s2]
+Al rugăciunii dulce ceas,
+tu porţi pe aripi al meu glas
+Spre cer, de unde Dumnezeu
+dă binecuvântări mereu.
+El zice: „Faţa Mea căutaţi, Cuvântul vieţii să-L gustaţi.”
+Mai mult mă-ncred în al Său glas, stând în al rugăciunii ceas.
+
+[s3]
+Al rugăciunii dulce ceas,
+vei fi mereu al meu popas.
+Cât timp aici călătoresc
+şi către cer cu dor privesc.
+Când trupul meu va fi-n mormânt, iar eu voi fi
+la Domnul sfânt
+Ca amintire mi-a rămas
+al rugăciunii dulce ceas.
+
+[order]
+s1,s2,s3

@@ -1,0 +1,59 @@
+[s1]
+Eu m-am întors
+cu credinţă la Domnul
+Cînd eram mic despre El am aflat.
+Ca un fiu rătăcit
+eu tînjeam după tihnă
+Locaşul sfînt de acum am aflat.
+
+[s2]
+Eu m-am întors
+cu credinţă la Domnul
+Eu despre El în profeţi am citit.
+El e Isus, al veciei Părinte
+Slavă deci Lui, acasă-am sosit!
+
+[s3]
+Eu m-am întors la a mamei credinţă
+Pe-a ei genunchi de Isus auzeam.
+Ea îmi vorbea ca să-L pot înţelege -
+Pe-acest Isus eu acum regăseam
+
+[s4]
+Eu m-am întors la a mamei credinţă
+L-al ei Isus, la Stăpînul slăvit!
+El e Isus, al veciei Părinte
+Slavă deci Lui, acasă-am sosit!
+
+[s5]
+Eu m-am întors la credinţa ce tata
+Cu stăruinţi mărturisea.
+În cor mii de îngeri cîntau:"Aleluia!“
+Un fiu rătăcit acasă sosea!
+
+[s6]
+Eu m-am întors la Stăpînul vieţii
+Cel ce-a creat ceru-ntreg şi Pămînt.
+El e Isus, al veciei Părinte
+Slavă deci Lui, acasă-am sosit!
+
+[s7]
+Eu m-am întors de pe calea lui Iuda
+Pe genunchi m-am plecat
+la harul Lui sfînt.
+Voi rămîne smerit
+în familia-mi divină
+Iar Dumnezeu îmi va fi veşnic Domn.
+
+[s8]
+Eu m-am întors la Iehova lui Avraam
+Păstorul lui Moise, Acela ce-i sfînt.
+El e Isus, al veciei Părinte
+Slavă deci Lui, acasă-am sosit!
+Eu m-am întors la Stăpînul vieţii
+Cel ce-a creat ceru-ntreg şi Pămînt
+El e Isus al veciei Părinte
+Slavă deci Lui, acasă-am sosit!
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

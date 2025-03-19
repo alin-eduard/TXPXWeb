@@ -1,0 +1,27 @@
+[s1]
+1. Binecuvântă-ne Doamne
+Pe noi întotdeauna
+Ca să fim noi poporul Tău
+Veşnic spre-a Te lăuda.
+70.                Re m
+
+[r1]
+Cor: El, Isus e-al nostru soare
+Plin de har şi de-ndurare
+/: Vocea Lui mângâietoare
+Şterge lacrimi şi suspin. :/
+
+[s2]
+2. Şi acasă şi pe cale
+Despre Isus vesel cânt
+Dar nicicând nu cânt mai vesel
+Decât în locaşul sfânt.
+
+[s3]
+3. Îngerii pot să-L mărească
+Prin cântări pe Dumnezeu
+Dar ca despre har să-I cânte
+Ei nu pot, ci numai eu !
+
+[order]
+s1,r1,s2,r1,s3,r1

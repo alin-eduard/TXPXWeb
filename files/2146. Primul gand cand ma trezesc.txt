@@ -1,0 +1,31 @@
+[s1]
+2146
+1. Primul gând când mă trezesc Fie-mi, Doamne,gând ceresc,
+Să Te proslăvesc pe Tine
+Mai frumos, mai sfânt,
+mai bine!
+
+[r1]
+Cor: /: Doamne, Tatăl meu
+Sfinte Dumnezeu :/.
+
+[s2]
+2. Ziua-ntreagă-mi fie-așa, Stăpânit de voia Ta
+Să mă pot gândi la Tine
+Mai frumos, mai sfânt,
+mai bine!
+
+[s3]
+3. Noaptea să-mi fii Tu în somn
+Adevăr și har și Domn,
+Să Te am în vis pe Tine
+Mai frumos, mai sfânt,
+mai bine!
+
+[s4]
+4. Primul gând în orice timp, Să-mi fii Tu, să nu Te schimb!
+Să Te proslăvesc pe Tine,
+Prin Isus Hristos, mai bine!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

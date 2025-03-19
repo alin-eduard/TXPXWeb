@@ -1,0 +1,19 @@
+[s1]
+/: La Tine Doamne
+Îmi înalţ sufletul. :/
+
+[r1]
+/: Domnul meu, mă-ncred în Tine.
+Să nu fiu dat de ruşine
+Cel rău să nu se bucure de mine :/
+
+[s2]
+/: Nu-ţi aminti,
+Greşelile mele. :/
+
+[s3]
+/: Învaţă-mă!
+Cărările tale. :/
+
+[order]
+s1,r1,s2,r1,s3,r1

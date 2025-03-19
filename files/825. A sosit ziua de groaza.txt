@@ -1,0 +1,43 @@
+[s1]
+1. A sosit ziua de groază
+Fraţilor în Duhul Sfânt
+Nu vă temeţi de nimica
+Căci corabia-I Isus.
+2. Profetul din Nazaret
+A spus aceasta la toţi
+Căci va veni o zi rea
+Şi mulţi vor pieri în ea.
+825.
+
+[s2]
+3. Vine ziua cea amară
+Peste cei de pe pământ
+Căci nu cred, nu vin la Isus
+Şi-s vrăjmaşi la toţi cei sfinţi.
+4. Plângeţi-vă maicii copii
+Căci aşa a zis Mesia
+Când în deal în sus cu crucea
+La Golgota se suia.
+
+[s3]
+5. A zis Isus că la urmă
+Şi iubirea va răci
+Va urî frate pe frate
+Şi la moarte îl vor pârî.
+6. Această pedeapsă scrie
+Isus în Evanghelie
+Neam pe neam se va scula
+Viaţa îşi va secera.
+
+[s4]
+7. Ca aşa a zis Domnul lui Noe
+Când potopul a plouat
+Căci cu apă nu se spală
+Ci cu foc acest păcat.
+8. Căci păcatul este mare
+Numai cu foc se spală
+Căci curat pământu odată
+Lui Isus va fi predat.
+
+[order]
+s1,s2,s3,s4

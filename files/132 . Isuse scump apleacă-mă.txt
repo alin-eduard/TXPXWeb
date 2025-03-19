@@ -1,0 +1,39 @@
+[s1]
+132.
+1. Isuse scump, apleacă-mă,
+Ca holda-n faţa unui vânt!
+Umil să fiu, smereşte-mă,
+Sub vântul Duhului cel Sfânt!
+
+[s2]
+2. Când se opune inima
+Să Te urmeze-n orice loc,
+E firea veche, tare-aş vrea
+S-o ardă a Duhului Sfânt foc.
+
+[s3]
+3. Apleacă-mă în faţa Ta
+Ca valul faţă de furtuni.
+Apoi zdrobeşte-mi inima
+În stăruinţi, în rugăciuni...
+
+[s4]
+4. Apleacă-mă, ca apa-n râu,
+Ce curge, aplecată-n jos,
+Să mă încingă, ca un brâu ,
+Puterea Domnului Hristos.
+
+[s5]
+5. Şi cum îndoaie-un grădinar
+Mlădiţa-n vie-ncotro vrea
+Apleacă-mă, prin al Tău har
+Să fac în toate voia Ta.
+
+[s6]
+6. Isuse scump, apleacă-mă,
+Să-Ţi fiu un vrednic slujitor!
+Şi-n lucrul Tău ajută-mă,
+Să-Ţi fiu un vas folositor!
+
+[order]
+s1,s2,s3,s4,s5,s6

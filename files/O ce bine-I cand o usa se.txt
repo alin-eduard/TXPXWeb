@@ -1,0 +1,46 @@
+[s1]
+O, ce bine-I cand o usa
+se deschide, cu iubire
+Si-n chenarul ei, deodata,
+vezi un rai, dintr-o privire!
+
+[s2]
+Cand vezi doua brate-ntinse
+si auzi cu glas de frate,
+Daruind o primavara
+inimii infrigurate,
+Desteptandu-ti iar nadesdea
+intr-un zbor mai sus de fire,
+O, ce bine-I cand o usa
+se dschide, cu iubire
+
+[s3]
+Si pe usa larg deschisa
+se-auzea din incapere:
+,,Dau saracilor, o, Doamne,
+jumatate din avere!’’
+
+[s4]
+Ingeri albi priveau spre ceruri
+clipele de marturie:
+O, ce bine-I cand o usa
+se deschide, cu iubire!
+
+[s5]
+Dar, la inima ta rece,
+sta demult Isus si bate;
+Ca sa plece, nu Se-ndura;
+ca s-o franga, nu se poate.
+
+[s6]
+O, trezeste-te si vino!
+Trage repede zavorul!
+Nici un rege nu-I pe lume
+ca Isus Mantuitorul!
+El ti-aduce mangaiere,
+El ti-aduce izbavire.
+O, ce bine-I cand o usa
+se deschide, cu iubire!
+
+[order]
+s1,s2,s3,s4,s5,s6

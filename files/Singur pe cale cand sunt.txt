@@ -1,0 +1,32 @@
+[s1]
+Singur pe cale când sânt
+Descurajat şi trist.
+Nu uit că-n cer am un Tată
+Ce nu m-a părăsit.
+
+[r1]
+Eu cânt în lumină şi-n noapte
+Cu totul eu Lui m-am supus
+Şi nu pot să tac, ci voi spune
+Cum Tatăl m-a condus!
+
+[s2]
+Soare al dimineţi
+Văd noaptea cum alungi;
+Astfel mă simt de Tatăl
+Condus prin taine-adânci.
+
+[s3]
+Eu cânt în lumină şi-n noapte
+Cu totul eu Lui m-am supus,
+Şi nu pot să tac, ci voi spune
+Cum Tatăl m-a condus!
+
+[s4]
+Strălucitoare zile
+Mereu eu voi avea,
+Când paşii El conduce
+Şi Domnu-I calea mea
+
+[order]
+s1,r1,s2,s3,s4,r1

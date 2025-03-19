@@ -1,0 +1,57 @@
+[s1]
+1. O, cine-mi poate şti durerea
+Amarul greu Părinte
+Ascultă-mi Doamne rugăciunea
+Cu lacrime fierbinte.
+107.
+
+[s2]
+2. Ascultă-mi Doamne rugăcinea
+Ascultă-mi-o şi mie
+O, vino astăzi, drag Părinte
+La inima pustie.
+
+[s3]
+3. La cel ce se simte slăbit
+Puterea i se înmoaie
+O,vino astăzi drag Părinte
+Fă-i inima vioaie.
+
+[s4]
+4. Ascultă-mi vocea mea duioasă
+Tu ştii ce-i pe pământ
+Şi cum Te cheamă a Ta mireasă
+Din ploaie şi din vânt.
+
+[s5]
+5. Furtuni din ce în ce mai mari
+Şi vânturi mari asupra-mi bat
+Dar Tu ai trecut şi prin mai mari
+Şi n-ai zis nu mai pot.
+
+[s6]
+6. Eu văd înainte izbăvirea
+Eu văd înaintea mea mereu
+Eu văd că Domnu-i bun şi iartă
+Păcatul meu, păcatul tău.
+
+[s7]
+7. În lupta mea,o bun Părinte
+Eu văd că drumul este greu
+Dar dacă vrei să faci un bine
+Te-aşteaptă sufletul mereu.
+
+[s8]
+8. De multe ori încercări mari
+O, vin peste poporul Tău
+Dar fă să rămână în picioare
+Lucrarea Ta de Dumnezeu.
+
+[s9]
+9. Căci nu-i nimic mai bun aici
+Decât să ai pe Dumnezeu
+Rămâi cu noi până atunci
+Când vei veni Stăpânul meu.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9

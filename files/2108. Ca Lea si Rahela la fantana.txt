@@ -1,0 +1,42 @@
+[s1]
+2108
+1. Ca Lea si Rahela la fântână
+Cu turmele în zori, pe-nserat
+Se-adună credincioșii împreună
+La izvorul binecuvântat.
+
+[r1]
+Cor: /: Nu uita :/
+Să vii cu găleata ta
+La Isus, la izvor,
+/: La fântâna oilor! :/
+Aici Domnul e Păstor!
+
+[s2]
+2. Aicea la fântâna îndurării
+Aicea lângă veșnicul izvor
+Isus dă apa binecuvântării
+Alină însetarea oilor.
+
+[s3]
+3. El vine de departe din pustie
+Și se-oprește lângă însetați,
+Ca să le dea din apa Lui
+cea vie
+Să-i mângâie pe-aceia întristați.
+
+[s4]
+4. Și după ani și ani de ocrotire
+El se va-ntoarce-n țara Canaan
+Cu turmele cu-ntreaga moștenire
+Salvându-le din boala și necaz.
+
+[s5]
+5. El ne va duce dincolo
+de zare
+Și ne va da nespuse bucurii
+Și în împărăția viitoare
+Noi vom trăi cu El în veșnicii.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

@@ -1,0 +1,30 @@
+[s1]
+2296
+1.Ce frumos va fi în ceruri!
+Când durerea se va termina
+Și vom sta cu El la masă
+Veșnic ne vom bucura.:/x2
+
+[r1]
+Cor:
+Dar pân-atunci
+Bucurați-vă și în necaz!
+Chiar de curg
+Lacrimi pe obraz
+Eu sunt cu voi
+În orice ceas
+
+[s2]
+2.Ce frumos va fi acolo!
+Când necazul se va termina
+Și la pieptul Tău, Isuse
+Ne vei șterge lacrima. :/x2
+
+[s3]
+3.Nu mai este mult, Mireasă
+Și am să te iau acasă
+După tine voi veni
+Mult nu voi mai zăbovi. :/x2
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,33 @@
+[s1]
+1.Când Isus Hristos m-a mântuit
+Har din Harul Său El mi-a dăruit
+Pacea Lui mă face fericit
+Şi mă-ndeamnă-ntruna ca să-I cânt.
+/: Doamne Te slăvesc şi Îţi mulţumesc
+Pentru bunătatea-Ţi mare
+Pentru încercări, binecuvântări
+Doamne azi Îţi mulţumesc. :/
+1403.           Sol
+
+[s2]
+2.Viaţa mea-mpreună cu Isus
+E un cer senin, cer de soare plin
+Frică, griji, nevoi eu nu cunosc
+Căci de toate de la El primesc.
+/: Doamne Te slăvesc şi Îţi mulţumesc
+Pentru bunătatea-Ţi mare
+Pentru încercări, binecuvântări
+Doamne azi Îţi mulţumesc. :/
+
+[s3]
+3.Vreau să ştie toţi că-s fericit
+Cu Isus al meu ce m-a mântuit,
+Vreau de-acum doar Lui să Îi slujesc
+Prin viaţa mea să-I mulţumesc.
+/: Doamne Te slăvesc şi Îţi mulţumesc
+Pentru bunătatea-Ţi mare
+Pentru încercări, binecuvântări
+Doamne azi Îţi mulţumesc. :/
+
+[order]
+s1,s2,s3

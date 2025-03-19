@@ -1,0 +1,57 @@
+[s1]
+1.Îmi pusesem nădejdea în Domnul
+Şi El spre mine S-a aplecat
+El mi-a ascultat rugăciunea
+Şi m-a izbăvit de păcat.
+1088.
+
+[r1]
+M-a scos din groapa pieirii
+Din fundul mocirlei m-a scos
+Eu vreau să-i aduc mereu slavă
+Căci El este Domnul meu, Hristos.
+
+[s2]
+2.Prietenii toţi mă văzură
+Cei ce-n viaţă m-au cunoscut
+Au fost şi ei cuprinşi de frică
+De ceea ce-n mine au văzut.
+
+[s3]
+3.Ferice va fi de oricine
+Se încrede în Domnul mereu
+El nu se va încrede în oameni
+Se va încrede numai în Dumnezeu.
+
+[s4]
+4.Doamne, Dumnezeule, multe
+Sunt minunile şi planul Tău
+Nimeni nu se-aseamănă cu Tine
+Nici în cer şi nici pe pământ
+
+[s5]
+5.Aş vrea să vestesc şi să le trâmbiţez
+Dar numărul lor este prea mare
+Tu nu doreşti jertfă, nici dar de mâncare
+Ci mi-ai străpuns urechile.
+
+[s6]
+6.Tu nu ceri nici ardere de tot
+Nici o jertfă de ispăşire
+Atunci am zis: Iată-mă că vin
+În sulul cărţii scrie despre Mine.
+
+[s7]
+7.Vreau să fac voia Ta, Dumnezeule
+Legea Ta este-n fundul inimii mele
+Vestesc îndurarea Ta, o, Doamne
+În adunarea cea mare.
+
+[s8]
+8.Iată, că nu-mi închid buzele
+Tu ştii lucrul acesta, o, Doamne
+Nu ţin în inimă ’ndurarea Ta
+Ci vestesc Adevărul Tău, Doamne.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1,s7,r1,s8,r1

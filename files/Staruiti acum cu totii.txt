@@ -1,0 +1,30 @@
+[s1]
+1
+/: Stăruiti acum cu totii
+După Duhul Sfânt :/
+/: Căci Isus, Domnul vietii,
+Va veni-n curând :/
+
+[s2]
+2
+/: Domnul cu glasul Său dulce,
+Din cer va striga :/
+/: Biserica din morminte
+Se va destepta :/
+
+[s3]
+3
+/: Si în nori apoi cu totii
+Se vor ridica :/
+/: Cu toti binecuvântatii
+Spre-a-L întâmpina :/
+
+[s4]
+4
+/: Cu ostirea Lui cerească
+Îi va număra :/
+/: Îmbrăcati în haine albe
+Se vor bucura :/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,38 @@
+[s1]
+Dulce e iubirea sfântă
+Şi cuvântul ei sublim.
+Viaţa tot mereu ne-ncântă
+Când cu Domnul biruim.
+
+[r1]
+/: Pot să se sfărâme munţii
+În adâncul mărilor
+De nimica nu ne temem
+Cu al nostru Salvator. :/
+
+[s2]
+De-i credinţa temelie
+Ca o stâncă de granit
+Pacea-i nobila solie
+Pentru cel neprihănit.
+
+[s3]
+Haidem să cântăm cu toţii
+Despre-a noastre biruinţi
+Pân’ nu vine clipa morţii
+Şi cuptoarele fierbinţi!
+
+[r2]
+/: Pot să se sfărâme munţii
+Marea-n clocot să tot dea
+De nimica nu ne temem
+Căci spre ceruri vom zbura. :/
+
+[s4]
+Când iubirea-n inimi arde
+Şi eu eul l-am zbrobit
+Harul Lui spre noi se varsă
+De la tronul strălucit.
+
+[order]
+s1,r1,s2,r1,s3,r2,s4,r2

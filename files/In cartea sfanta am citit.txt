@@ -1,0 +1,41 @@
+[s1]
+În Cartea Sfântă am citit
+pe-acest Pământ că a trăit
+Un om care făcea minuni
+şi numai bine-ntregii lumi.
+Mulţimea îl înconjura,
+El cu blândeţe le vorbea
+Vestind mereu Cuvântul Sfânt,
+/:de-o patrie cum alta nu-i.:/
+
+[r1]
+/: Era un om cum alţii nu-s,
+era un om din cer de sus
+Era Isus, era Isus,
+era un om c-o-nfăţişare de nespus!
+Şi oamenii la El veneau,
+pacea în suflet o primeau
+Plini de credinţă pe Isus ei îl urmau. :/
+
+[s2]
+Isus chema pe cei trudiţi,
+pe cei de patimi chinuiţi
+Din trup El boala alunga
+şi-n suflet pacea revărsa.
+Iar pentru cei ce
+L-au urât la Tatăl sus a mijlocit
+Să-i ierte de a lor păcat,
+/:să-i ierte căci nu ştiu ce fac.:/
+
+[s3]
+Şi azi Isus e ca-n trecut,
+lucrează poate chiar mai mult
+Minuni vedem în orice ceas
+când El veghează-al vieţii pas.
+Dar nu mai e jos pe Pământ,
+la dreapta Tatălui cel Sfânt
+S-a înălţat şi ne-a promis
+/:c-om fi cu El în Paradis.:/
+
+[order]
+s1,r1,s2,r1,s3,r1

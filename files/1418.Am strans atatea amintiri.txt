@@ -1,0 +1,67 @@
+[s1]
+1418.Fa
+1.  Am strâns atâtea amintiri
+Isuse pe-a Ta cale
+De acele sfinte întâlniri
+De dragul casei Tale
+
+[s2]
+Eu niciodată n-aş putea
+Să uit ce-a fost în casa Ta
+A fost plăcut a fost frumos
+Să te urmăm Isus Hristos
+Să ascultăm al Tău cuvânt
+Şi să zburăm prin Duhul Sfânt.
+Acele sfinte bucurii
+Acele sfinte părtăşii
+
+[s3]
+2. De mic copil eu te-am iubit
+Şi Te-am ales pe Tine
+Şi-n orice vreme Te-am slujit
+La greu chiar şi la bine
+
+[s4]
+Şi atunci când eu m-am poticnit
+Cu drag Isus m-ai sprijinit
+O Doamne cum să nu te ador
+O scump şi dulce Salvator
+Când mă  zbăteam neîncetat
+Şi când spre Tine am strigat
+Mai ridicat blând şi duios
+O Medic bun Isus Hristos.
+
+[s5]
+3.	Eram micuţ şi neînsemnat
+Dar Tu creşteai în mine
+Şi voia Ta m-ai învăţat
+Şi tainele divine
+
+[s6]
+M-ai vrut destoinic şi curat
+Şi în lucrare devotat
+Iar dacă ades Te-am întristat
+Tu totdeauna m-ai iertat
+M-ai vrut un vrednic slujitor
+În via Ta şi al Tău popor
+O Rege scump eu te măresc
+Şi pentru toate îţi mulţumesc.
+
+[s7]
+4.  Ajută-mă pân la sfârşit
+Să îmi păstrez cărarea
+Şi atunci când sunt batjocorit
+Tu să-mi fii desfătarea
+
+[s8]
+S-ajung în cer la masa Ta
+Să îţi cânt Doamne Aleluia
+Cu acei iubiţi care s-au dus
+Să fiu la masa Ta Isus
+Să uit c-aicea mi-a fost greu
+Să fiu în cer la Dumnezeu
+Ajută-mi haina să păstrez
+Şi-n aşteptare să veghez.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

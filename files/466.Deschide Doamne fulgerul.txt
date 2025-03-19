@@ -1,0 +1,23 @@
+[s1]
+1.	Deschide Doamne fulgerul
+Venirii lui Hristos
+Şi botează cu Duhul Sfânt
+Poporul credincios.
+2.	Ei se jertfesc şi stăruiesc
+După costumul cel ceresc
+După haine de in subţire
+Neprihănirea sfinţilor.
+466.
+
+[s2]
+3.	Pune Doamne venirea Ta
+Pe toată inima
+A lui Isus mărturie
+Duhul proorociei.
+4.	Ca să-şi conducă mireasa
+Acolo sus în casa Sa
+Acolo n-or mai suspina
+Şi-n veci de veci s-or bucura.
+
+[order]
+s1,s2

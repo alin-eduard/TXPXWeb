@@ -1,0 +1,38 @@
+[s1]
+2004
+1. Caut o țară
+În care dor nu mai  e
+Caut solia
+În care plâns nu mai e
+/:Cu fericiri și mângâiere  Țara sfântă a lui Isus:/
+
+[r1]
+Cor:      /: Dorul meu e mare,
+N-are asemănare
+Pentru Domnul meu
+Isus Hristos
+El mă face tare și îmi dă răbdare Ca să Îl aștept pe El :/
+
+[s2]
+2. Caut o țară în care
+Suferințe nu-s
+Caut cetatea în care-i
+Domnul meu Isus
+/: Cu fericiri și bucurie  Țara-n care am să fiu :/
+
+[s3]
+Cor:      /: Dorul meu e mare,
+N-are asemănare
+Pentru Domnul meu
+Isus Hristos
+El mă face tare și îmi dă răbdare  Ca să Îl aștept pe El :/
+
+[s4]
+3. Caut o turmă care urcă
+Înspre cer
+Caut Păstorul meu iubit Emanuel
+/: Să fiu și eu un miel din turma Lui
+Și s-ajung în cer cu El :/
+
+[order]
+s1,r1,s2,s3,s4,r1

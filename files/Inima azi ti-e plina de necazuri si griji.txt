@@ -1,0 +1,28 @@
+[s1]
+Inima azi ţi-e plină
+de necazuri şi griji
+Sufletul tău tînjeşte
+după odihna cea de sus.
+
+[r1]
+/: Spune-mi tu azi de Isus
+Spune-mi tu de Isus!
+Spune-mi, prietene
+Îl cunoşti pe El?
+Poţi să ştii : te cheamă
+Vin, la El, mîntuit tu vei fi! :/
+
+[s2]
+Plînsul, jalea, suspinul,
+Isus ţi le va lua
+Înţelege-I chemarea,
+Isus pe tine te-a salva!
+
+[s3]
+Gîndul spre cer îndreaptă-ţi,
+prietenul meu drag
+Pune-ţi astăzi piciorul pe drumul
+ce duce spre rai!
+
+[order]
+s1,r1,s2,r1,s3,r1

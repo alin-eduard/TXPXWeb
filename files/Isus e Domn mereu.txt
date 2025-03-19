@@ -1,0 +1,28 @@
+[s1]
+/: Isus e Domn mereu :/
+Isus e Domn în inimă
+Isus e Domn în inimă mereu
+Mi M
+
+[s2]
+/: Isus eu Te iubesc :/
+Isus eu Te iubesc mereu
+Eu Te iubesc din inimă mereu
+
+[s3]
+/: Îţi mulţumesc Isus :/
+Îţi mulţumesc din inimă
+Îţi mulţumesc din inimă mereu
+
+[s4]
+/: Noi îţi cântăm mereu :/
+Noi îţi cântăm din inimă
+Noi îţi cântăm din inimă mereu
+
+[s5]
+/: Aleluia, amin :/
+Aleluia din inimă
+Aleluia din inimă, Amin
+
+[order]
+s1,s2,s3,s4,s5

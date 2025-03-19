@@ -1,0 +1,27 @@
+[s1]
+Fericit e legamantul
+ce-I facut prin Domnul Sfant!
+Fericite-s sufletele
+ce pe Isus au in gand!
+
+[r1]
+Doamne, Doamne!
+Doamne-acum casatoria
+Se face prin voia Ta
+Doamne binecuvinteaza
+/:Azi unirea celor doi:/
+
+[s2]
+Stim ca vor ajunge-n viata
+prin ispite si furtuni
+Insa Doamne ii asculta
+Cand te cheama-n rugaciuni
+
+[s3]
+Da-le pace si iubire
+si rabdare in dureri
+Fa-i de astazi in unire
+sa-mplineasca tot ce ceri
+
+[order]
+s1,r1,s2,r1,s3,r1

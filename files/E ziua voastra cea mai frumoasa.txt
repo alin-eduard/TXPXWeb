@@ -1,0 +1,23 @@
+[s1]
+E ziua voastră, cea mai frumoasă
+În faţa Domnului voi staţi.
+Pe-un drum necunoscut pornit-aţi
+Ce-a fost în urmă, voi lăsaţi.
+
+[r1]
+Fii cu ei, fii cu ei,
+Doamne, fii cu ei
+Să te simtă chiar
+Când drumul e greu.
+Să-i ajuţi, să-i conduci
+Până-n ziua ‘ceea,
+Când noi vom serba nunta Ta.
+
+[s2]
+Şi mâna Ta spre ei să îndrepţi,
+A Ta iubire să le-o dai.
+Să ne-ntâlnim în ceruri sus
+La nunta Ta, o, scump Isus.
+
+[order]
+s1,r1,s2,r1

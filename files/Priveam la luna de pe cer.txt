@@ -1,0 +1,32 @@
+[s1]
+Priveam la luna de pe cer,
+Mă gândeam Să Ţi-o ofer,
+Însă ea deja Îţi aparţine,
+Aş vrea să Îţi pot oferi,
+Chiar ceŢi-ai dori,
+Să Te facă fericit!
+
+[s2]
+În seara când tu Te-ai născut,
+O stea a apărut,
+Era cea mai mare dintre toate,
+Am înţeles azi ca era,
+Un semn din partea Ta,
+Că viaţa mea se va schimba!!
+
+[s3]
+M-am gândit de ziua Ta
+Să-Ţi ofer viaţa mea
+Şi vreau sa cred că am găsit
+Chiar ce Ţi-ai dorit
+De ziua Ta, viaţa mea
+S-ar putea schimba
+Şi-ncep să văd ca eu sunt
+Cel ce-avea nevoie de ceva!
+
+[s4]
+Ai venit în lumea mea şi ai găsit,
+Un suflet trist şi părăsit!
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,20 @@
+[s1]
+Sînt sărac în astă lume
+Călător pe-acest Pămînt
+Nici un rău nu-mi poate-nvinge
+Templul ce l-ai lăsat, Părinte Sfînt.
+
+[r1]
+/: Călătorind spre ţara Ta
+Sînt fericit în al meu drum.
+Fă, Doamne, ca-n al Tău număr
+Să fiu pus, să fiu pus de pe acum ! :/
+
+[s2]
+Mare fi-va ziua-aceea
+Cînd Isus ne va-aştepta
+Şi cu îngerii din slavă
+El pe toţi, da, pe toţi ne-a saluta!
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,98 @@
+[s1]
+Pe pământ avem o luptă
+Ce-n cuvânt e arătată:
+Lupta credinţei sfinte,
+Ce de Domnul e trasată.
+Să luptăm cu râvnă mare
+Până Domnul va veni
+Căci prin orice încercare,
+Doar luptând vom birui.
+
+[r1]
+Hai la luptă, frate, luptă!
+Mai luptă, nu te da bătut!
+Spre ţara luminii ‘nainte
+Cu râvnă şi avânt!
+Stai treaz şi veghează întruna
+Până în zori de zi
+Şi-atunci primi-vei cununa
+Când Domnul va veni.
+
+[s2]
+Pregătiţi să fim de luptă:
+Scutul credinţei să-l avem.
+Cu sabia Duhului ‘nainte
+În Domnul să ne-ncredem!
+Platoşa neprihănirii
+Să fie de-a pururi cu noi,
+Pe cap coiful mântuirii
+Şi râvna evangheliei.
+
+[s3]
+În slava eternă vor fi
+Acei ce au învins
+Şi Domnul ne va da răsplata
+Aşa cum ne-a promis.
+Veşnicia e aproape,
+Curând Isus va reveni.
+Când zorile vor apare
+Lupta se va sfârşi.
+
+[s4]
+Luptă biserică
+Luptă nu da n-apoi
+Plină de Duhul Sfânt
+Inainte cu avânt
+
+[r2]
+Luptaţi, luptaţi rugaţi-vă
+De Duhul Sfânt umpleţi-vă
+Pe Domnul Isus aşteptaţi
+In dragoste vă îmbrăcaţi
+Luptaţi, luptaţi rugaţi-vă
+De Duhul Sfânt umpleţi-vă
+In Domnul Isus vă-ntăriţi
+In rugăciune stăruiţi
+
+[s5]
+Luptă biserică
+Spre cer mereu priviţi
+Chiar dacă lupta-i grea
+Inapoi noi nu vom da
+
+[s6]
+Luptă biserică
+Prin vânt furtună grea
+Isus este cu noi
+Nici un pas nu da-napoi
+
+[r3]
+Când lupta e gata,
+/: Vom purta cununa. :/
+Când lupta e gata,
+Vom purta cununa in Ierusalimul nou!
+Cununa vom purta.
+Cununa de-nvingere.
+Când lupta e gata,
+Vom purta cununa in Ierusalimul nou.
+
+[s7]
+Eu sunt un ostaş al crucii,
+Urmaş al mielului.
+Eu nu mă tem, ci voi vesti
+Slăvit numele Lui.
+
+[s8]
+În cer, pe flori nu poţi fi dus,
+Când alţii s-au luptat
+Şi, pentru regele Isus,
+Chiar viaţa şi-au dat.
+
+[s9]
+Trebuie să lupt, să înving.
+Doamne, ajută-mă
+Orice atac vrăjmaş să-l sting,
+Când voi fi în luptă.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r2,s5,r2,s6,r2,r3,s7,r3,s8,r3,s9,r3

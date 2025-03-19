@@ -1,0 +1,39 @@
+[s1]
+1. /:O Isuse dă-mi putere:/
+/:Să-mi duc crucea cu credinţă
+Chiar şi când mă ameninţă
+Tu fii a mea biruinţă:/.
+187.
+
+[s2]
+2. /:O Isuse fii cu mine:/
+/:In dureri şi în suspine
+Pe drumul cu mărăcine
+Tu Isuse fii cu mine:/.
+
+[s3]
+3. /:O Isuse, O Isuse:/
+/:Inima mea e pătrunsă
+De iubirea Ta nespusă
+O Isuse, O Isuse:/.
+
+[s4]
+4. /:Adă Doamne la lumină:/
+/:Partea care e străină
+Ca în sfânta-mpărăţie
+Să fim toţi o familie:/.
+
+[s5]
+5. /:O Isuse aş vrea să fie:/
+/:Micuţa mea familie
+Cu Enoh şi cu Ilie
+În sfânta împărăţie:/.
+
+[s6]
+6. /:O Isuse eu doresc:/
+/:Acolo să locuiesc
+Şi să-ţi cânt în veşnicie
+Unde-i numai bucurie:/
+
+[order]
+s1,s2,s3,s4,s5,s6

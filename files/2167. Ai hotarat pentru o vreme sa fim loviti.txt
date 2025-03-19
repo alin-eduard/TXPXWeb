@@ -1,0 +1,37 @@
+[s1]
+2167
+1. Ai hotărât pentru o vreme
+Să fim loviţi şi încercaţi
+Să ştim şi să vedem mai bine Care sunt fraţii adevăraţi.
+
+[r1]
+Cor: /: Aşa de rar găseşti un frate, un prieten sincer
+şi loial
+Oricând să-l ai, să-l simţi aproape, să-ntindă mâna
+la necaz :/.
+
+[s2]
+2. De câțiva ani
+vorbit-a Domnul
+A spus vegheaţi, nu vă lăsaţi
+Căci diavolul urlat-a, spus-a,
+De Dumnezeu am să-i despart.
+
+[s3]
+3. S-a năpustit asupra noastră, Ne-a umilit şi ne-a lovit
+Plângeau părinţii şi copiii, Strigau la Dumnezeul viu.
+
+[s4]
+4. Şi când crezut-a el, vicleanul
+Căci ne-a luat tot şi
+ne-a distrus
+Din cer venit-ai cu salvarea, Ne-ai ridicat din nou Isus.
+
+[s5]
+Cor: /: De acum Isus Te avem
+Ca frate, prieten sincer şi loial
+Eşti lângă noi mereu aproape, Îţi mulţumim pentru
+acest har :/.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5

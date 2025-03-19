@@ -1,0 +1,33 @@
+[s1]
+/: Doi sau trei în sfântu-Ţi nume
+Când se vor uni
+În mijlocul lor Tu însuţi
+Spus-ai că vei fi. :/
+Re m
+
+[r1]
+/: Doamne, Doamne,
+Cu noi ştim că eşti
+Dă-ne binecuvântarea
+Ce-o făgăduieşti. :/
+
+[s2]
+/: Strânşi acum cu toţi în juru-Ţi
+Vrem să Te-ascultăm,
+S-auzim ce vrei să ne spui
+Şi să Te urmăm. :/
+
+[s3]
+/: Noi suntem slabi, Tu eşti tare,
+Doamne, fii cu noi
+Să păşim mereu-nainte
+Să nu dăm-napoi. :/
+
+[s4]
+/: Dă-ne Tu izvorul păcii,
+Har şi mângăieri,
+Tu eşti totul pentru noi toţi
+Pe pământ şi-n cer. :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

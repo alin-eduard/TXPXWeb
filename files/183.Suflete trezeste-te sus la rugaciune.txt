@@ -1,0 +1,31 @@
+[s1]
+Mi b
+1. Suflete trezeşte-te
+Sus la rugăciune
+Nu te afle cel viclean
+Fără-nţelepciune
+Căci Satan cel viclean
+Intră în tăcere
+Când nu-i priveghere.
+183.
+
+[s2]
+2. Fii treaz altfel nu-i afla milă
+Când vei plânge
+Nu-nceta a te ruga,
+Candela n-o stinge
+Domnul vrea pacea Sa
+Însă ca să o ai
+Tu de veghe să stai.
+
+[s3]
+3. Fii treaz, nu cumva dormind
+Satan să te vadă,
+Căci atunci s-ar bucura
+Şi cădea-vei pradă.
+Dar va şti pedepsi
+Domnul pe cei ce dorm
+Al nepăsării somn.
+
+[order]
+s1,s2,s3

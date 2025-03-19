@@ -1,0 +1,38 @@
+[s1]
+1.     Un copil dormea odată
+Lângă chivot ca un miel
+Când în noaptea înstelată
+Se auzi un glas deodată /:Samuel:/
+1055.
+Nu-l chema Eli bătrânul
+Nici un înger plin de zel
+Ci cu foc umplându-i sânul
+ÎI chema din cer Stăpânul /:Samuel:/
+2.
+
+[s2]
+Fiul meu cum tună norii
+Voi lovi în Israel
+Voi zdrobi toţi slujitorii
+Ce-mi înşeală-nchinătorii /:Samuel:/
+Şi când sabia neînfrântă
+Sângera în larg măcel
+Slujba-ndat-a fost înfrântă
+Şi a rămas de strajă sfântă /:Samuel:/
+2.
+3.
+
+[s3]
+Dacă inima te-ndeamnă
+Să-L slujeşti şi tu ca el
+Stai şi ascultă fără teamă
+Glasul tainic ce te cheamă /:Samuel:/
+Lasă-I viaţa să-ţi îndrume
+Ca un strigăt de oţel
+De pe norii trişti din lume
+Ca să fii chemat pe nume / : Samuel : /
+5.
+6.
+
+[order]
+s1,s2,s3

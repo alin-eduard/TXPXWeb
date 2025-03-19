@@ -1,0 +1,39 @@
+[s1]
+Te aşteptăm să vii Isuse Doamne
+Mai mult ca azi când noi te aşteptăm
+Ca să-ntăreşti puterile sleite
+Căci mulţi sunt cei găsiţi fără puteri.
+1218
+1.
+2.
+Dar multi plini de intristare
+Căci deznădejdea în cale li s-a pus
+Căci drumu-i greu şi bucurii sunt rare
+Şi crucea-i zi de zi mai grea de dus
+
+[s2]
+Tu să veghezi în post şi-n rugăciune
+Şi să păstrezi ce Ţi-am încredinţat
+Căci mila birui-va judecata
+Prin preţul în care ai fost răscumpărat
+Iar dacă candela îţi e sleită
+Căci mult a ars şi mult a fumegat
+Şi multe furtuni s-au luptat s-o stingă
+Şi ultima nădejde ce-a rămas
+3.
+4.
+
+[s3]
+Nu zice că-ţi este prea grea
+Căci s-a lungit noaptea atât de mult
+Priveşte-n sus spre zările albastre
+De acolo în curând vine Isus
+Cel ce-a vegheat în post şi-n rugăciune
+Va fi găsit în miez întârziat
+Răsplată bună îi va da Stăpânul
+Pentru că  a vegheat în noaptea grea.
+5.
+6.
+
+[order]
+s1,s2,s3

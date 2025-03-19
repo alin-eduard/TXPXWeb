@@ -1,0 +1,32 @@
+[s1]
+Eu vesel cânt lui Dumnezeu
+Şi-n veci Îi voi cânta,
+Căci m-a chemat prin Fiul Său
+Prin îndurarea Sa.
+Umblam departe de Isus
+Eram făr-ajutor,
+Dar El la sânu-I m-a adus
+Ca şi un bun Păstor.
+
+[s2]
+Eu vesel cânt pentru Hristos
+Şi pentru harul Său
+Căci mântuie pe păcătos
+Din mâna celui rău.
+De-aceea-n veci Îi voi cânta
+El mi-este Salvator,
+Pe calea Sa de voi urma
+Voi fi biruitor.
+
+[s3]
+Eu cânt, eu cânt neîncetat
+Şi-n veci Îi voi cânta,
+Că-a Sa iubire s-a arătat
+Din moarte-a mă scăpa.
+Ferice e de tot acel
+Ce Legea I-a păstrat
+Având încredere şi zel
+Va fi încoronat.
+
+[order]
+s1,s2,s3

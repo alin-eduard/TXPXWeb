@@ -1,0 +1,41 @@
+[s1]
+1.Cin’ mă va despărţi
+De Tine, dulce Mire?
+Când ştiu că am un loc
+Colo sus în mărire.
+443									La b
+
+[r1]
+Cor:Nici foamea, nici setea
+Nici moartea de-ar fi
+Nimic de Tine, Doamne
+Nu m-ar despărţi.
+
+[s2]
+2.De-aş fi în strâmtorare
+În chinuri de-aş zăcea
+Eu nici atuncea, Doamne
+De Tin’ nu m-aş lăsa.
+
+[s3]
+3.Nu pot să uit, Isuse
+Cum nici Tu n-ai uitat
+Să vii întotdeauna
+Atunci când
+Te-am chemat.
+
+[s4]
+4.Mă-ntreb:
+Putea-voi oare
+Să uit iubirea Ta?
+Când ştiu, o, cât de mult
+Iubeşti fiinţa mea.
+
+[s5]
+5.Te rog, să-mi dai putere,
+Să fiu de Tin’ legat
+Cu legătura care
+Va ţine până-n veac.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

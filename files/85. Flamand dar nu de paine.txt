@@ -1,0 +1,39 @@
+[s1]
+85.                   Re m
+1. Flămând, dar nu de pâine
+Setos, dar nu de apă
+Te caut-al meu suflet
+Din Tine să se-adape.
+
+[s2]
+/:Mă plec la rugăciune
+Dar inima-mi suspină
+Te caut şi nu mă satur
+Să m-alipesc de Tine.:/
+
+[s3]
+2. Mă apropii de-a Ta cale
+Dar gândul ce-mi tânjeşte
+Şi inima din mine
+Nu altceva-mi doreşte.
+
+[s4]
+/: Mă duc şi unde-s fraţii
+Iubirea-n veci mă ţine
+Dar nu pe ei îi caut
+Ci-n ei Te caut pe Tine.:/
+
+[s5]
+3. Neliniştit mi-e Duhul
+Când pleacă sau soseşte
+Că numai când e-n Tine
+Atunci se odihneşte.
+
+[s6]
+/:Mă uit spre cer întruna
+Dar inima din mine
+Nu altceva-mi doreşte
+Decât să Te am pe Tine:/
+
+[order]
+s1,s2,s3,s4,s5,s6

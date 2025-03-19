@@ -1,0 +1,26 @@
+[s1]
+Rîu al binecuvântării,
+Duhul Celui veşnic viu,
+Vino cu timpuri de pace,
+Umple-nsetatul pustiu!
+
+[r1]
+Doamne, revarsă Duhul
+Promis ca pe-un râu,
+Chiar un strop dă fericire,
+Dă-ne-ndeajuns Duhul Tău!
+
+[s2]
+Sfântă binecuvântare,
+Râu ce curgi din Dumnezeu,
+Umple cu sfânta putere
+Sufletul nostru mereu!
+
+[s3]
+Duh al binecuvântării,
+Astăzi smeriţi Te dorim,
+Inima ne e deschisă,
+Umple-ne, dar, pe deplin!
+
+[order]
+s1,r1,s2,r1,s3,r1

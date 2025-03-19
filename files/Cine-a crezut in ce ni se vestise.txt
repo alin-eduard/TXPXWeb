@@ -1,0 +1,26 @@
+[s1]
+Cine-a crezut în ce ni se vestise
+Cine-a cunoscut braţul Domnului
+El a crescut ca o odraslă slabă,
+Ca un lăstar dintr-un pământ uscat.
+
+[r1]
+/: N-avea frumuseţe şi nici strălucire,
+De toată lumea era dispreţuit
+Părăsit de oameni, om al durerii
+Cu suferinţa era obişnuit. :/
+
+[s2]
+Dar totuşi El a noastre suferinţe
+Şi durerile asupra-I le-a luat
+Noi am crezut că este pedepsit
+Şi e lovit de Dumnezeu, smerit.
+
+[s3]
+Era străpuns pentru-a noastre păcate
+Făr’delegile asupra-I le-a luat
+Pe El a căzut pedeapsa ce dă pacea
+Şi prin a Lui răni suntem tămăduiţi.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,46 @@
+[s1]
+2023
+1. Când lanțul poftelor murdare
+Vor să îmi lege trupul meu
+Te strig pe Tine-n încercare
+Să vii să-mi dai a Ta salvare
+Căci numai Tu ești Dumnezeu.
+
+[r1]
+Cor: /: Jertfa Ta Isuse drag
+Îmi e fericitul steag
+Ce-l înalț, mai arzător
+Ca să ies biruitor
+Împotriva poftelor.
+
+[s2]
+2. Când necredința călătoare
+Își caută un loc în viața mea
+Te chem Isuse-n disperare
+Să-mi fii cetate de scăpare
+Unde s-alerg de-apururea.
+
+[s3]
+3. Când focul urii nemiloase
+Să-mi ardă dragostea vrea
+Te chem cu geamătul din oase
+Să-mi dai Tu stările frumoase
+Ce-mi țin pe veci iubirea mea.
+
+[s4]
+4. Când lăcomia de avere
+Vrea să mă pună între mișei
+Dă-mi Tu deplina mulțumire
+Să nu doresc îmbogățire
+Și agonisiri prin pizma ei.
+
+[s5]
+5. Spre a fi găsit
+Când vii din slavă
+Un om în toate credincios
+Ca să nu fiu un pumn de pleavă
+Cei aruncat fără zăbavă
+În focul gheenei mai de jos.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

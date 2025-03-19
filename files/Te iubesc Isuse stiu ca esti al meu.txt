@@ -1,0 +1,27 @@
+[s1]
+Te iubesc Isuse ştiu că eşti al meu
+A lumii plăcere n-o mai doresc eu,
+Mai multă ca-n Tine, eu n-am să găsesc
+De Te-am iubit cândva, acum Te iubesc
+
+[s2]
+Ca să mă răscumperi, pe cruce-ai murit
+Te iubesc când spinii fruntea Ţi-au rănit
+Te iubesc, căci întâi chiar Tu m-ai iubit!
+De Te-am iubit cânva, acum şi mai mult
+
+[s3]
+În viaţa în moarte, Te vreau, Te doresc
+Să fiu al Tău, Doamne,
+pe cât timp trăiesc
+Când moartea veni-va şi-atunci am să zic
+Mai mult ca pe Tine, n-am iubit nimic
+
+[s4]
+Al Tău chip de jertfă, de Miel înjunghiat
+M-ajută să-ndur chinul cel necurmat
+Să uit ori ce jale, ce-n urmă privesc
+Mă-ndrept cu nădejde la tronul ceresc
+
+[order]
+s1,s2,s3,s4

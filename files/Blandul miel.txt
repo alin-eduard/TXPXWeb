@@ -1,0 +1,17 @@
+[s1]
+Blândul Miel
+Domn etern Fiul Sfânt Dumnezeu
+A purtat vina mea,
+ca eu cel vinovat
+Sa pot sa fiu pe veci iertat
+Ca sânge Sfânt s-a dat
+ca eu pe veci sa fiu salvat
+
+[s2]
+Te slavesc pe Tin’ Isus crucificat
+Te slavesc pe Tin’ cel ce ai înviat
+Te slavesc pe Tin’ Mielul lui Dumnezeu
+Cu iubire vin ‘nainte-Ti ma închin
+
+[order]
+s1,s2

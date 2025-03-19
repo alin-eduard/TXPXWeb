@@ -1,0 +1,30 @@
+[s1]
+947.
+1.Grăbeşte timpul ca un nor
+De nimeni nu-i oprit
+Şi anii tăi se duc în zbor
+Se duc în infinit.
+
+[r1]
+Cor:
+Curând va trece viaţa ta
+Şi viața ta s-a scurs
+O, vino azi în prima zi
+La crucea lui Isus.
+
+[s2]
+2.Pe-acest pământ
+Eşti călător
+Nimic nu e al tău
+De-aceea-ți spun:
+”Fii treaz mereu!
+Fii treaz şi vegheator!”
+
+[s3]
+Te-ntreb dar, suflete iubit
+Suflet ce rătăceşti.
+Pe tine cum te va găsi
+Mirele nost' ceresc?
+
+[order]
+s1,r1,s2,r1,s3,r1

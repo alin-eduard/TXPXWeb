@@ -1,0 +1,26 @@
+[s1]
+Isuse-aştept venirea Ta,
+Pe nori a Te întâmpina.
+Aştept cu dor măreaţa zi,
+Tot pământul va înflori.
+
+[r1]
+/: Chiar şi cei morţi vor tresări,
+Se vor scula, te vor slăvi.
+Tu eşti veşnic Soare sfânt,
+Viaţă, viaţă pe pământ. :/
+
+[s2]
+Isus aştept venirea Ta,
+In slavă când vei apărea.
+Să zbor cu tine tot mai sus,
+Cu Tine scumpul meu Isus.
+
+[s3]
+Iar până când Tu vei veni,
+Ca să-Ţi ridici ai Tăi copii.
+Ajută-ne să ne sfinţim
+Si numai Ţie să-Ţi slujim.
+
+[order]
+s1,r1,s2,r1,s3,r1

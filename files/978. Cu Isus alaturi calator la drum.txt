@@ -1,0 +1,37 @@
+[s1]
+978.
+1. Cu Isus alături călător la drum
+Ce comoară sfântă
+Ti s-a dat acum
+Să străbaţi pământul cu Emanuel
+Să-i asculţi cuvântul
+Şi să mergi cu El.
+Bun e drumul vieţii
+Drumul cu Isus
+Alte căi spre Rai
+Cât e lumea nu-s.
+
+[s2]
+2. Cu Isus alături călător la drum
+Nimeni nu greşeşte
+Calea nicidecum
+Învăţători de frunte şi ţărani copii
+Toţi merg ca-n Isaia la 35
+Bun e drumul vieţii
+Când pe el sunt fraţi
+Bucuroşi se-ntorc
+Că-s răscumpăraţi.
+
+[s3]
+3. Cu Isus alături nu sunt lupi şi lei
+Numai oi smerite
+Şi zburdalnici miei
+În zadar aleargă lupii după oi
+În zadar aleargă
+Lupii-n stâni de oi.
+Bun e drumul vieţii,
+Drumul cu Isus
+El începe aici şi sfârşeşte sus.
+
+[order]
+s1,s2,s3

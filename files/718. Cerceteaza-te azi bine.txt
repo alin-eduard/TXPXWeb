@@ -1,0 +1,53 @@
+[s1]
+1.		Cercetează-te azi bine
+Ai haine sfinte pe tine
+Eşti fecioară pregătită
+Pentru a intra la nuntă
+Cor:	Da vine Domnul, da vine Domnul
+Da vine Domnul în curând
+Da vine Domnul, da vine Domnul
+Să te găsească dară veghind
+718.
+
+[s2]
+2.		De pe orice înălţime
+Strigă Domnul azi la tine
+Şi El strigă cu glas tare
+Să audă fiecare
+Cor:	Da vine Domnul, da vine Domnul
+Da vine Domnul în curând
+Da vine Domnul, da vine Domnul
+Să te găsească dară veghind
+
+[s3]
+3.		Ferice va fi de acela
+Ce-şi verifică candela
+Şi se luptă prin credinţă
+S-ajungă la biruinţă
+Cor:	Da vine Domnul, da vine Domnul
+Da vine Domnul în curând
+Da vine Domnul, da vine Domnul
+Să te găsească dară veghind
+
+[s4]
+4.		Aşa zice Duhul Sfânt
+O popor de legământ
+Ieşi din orice neputinţă
+Şi priveşte prin credinţă
+Cor:	Da vine Domnul, da vine Domnul
+Da vine Domnul în curând
+Da vine Domnul, da vine Domnul
+Să te găsească dară veghind
+
+[s5]
+5.		Deci fii gata şi aşteaptă
+Ca fecioara înţeleaptă
+Maranata, maranata
+Isus vine tu fii gata.
+Cor:	Da vine Domnul, da vine Domnul
+Da vine Domnul în curând
+Da vine Domnul, da vine Domnul
+Să te găsească dară veghind
+
+[order]
+s1,s2,s3,s4,s5

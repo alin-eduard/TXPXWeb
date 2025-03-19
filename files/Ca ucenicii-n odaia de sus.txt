@@ -1,0 +1,26 @@
+[s1]
+Ca ucenicii-n odaia de sus
+Toţi să fim una cum Domnul ne-a spus,
+Nimeni întâiul şi nimeni apoi,
+Sfânta frăţie fie-ntre noi.
+
+[s2]
+Dă-mi mâna frate şi ia-o pe-a mea
+Să trecem astfel cercarea cea grea,
+Să biruim încercarea de foc
+Unii cu alţii stăm la un loc.
+
+[s3]
+De ne-am greşit este ceas de iertat,
+De ne-am urât să grăbim spre-mpăcat
+Doar împreună formăm un popor,
+Doar laolaltă învingător.
+
+[s4]
+Plânsul unirii ne face mai buni,
+Punem în lacrimi adânci rugăciuni,
+Ca ucenicii-n odaia de sus,
+Toţi să fim una, Domnul ne-a spus.
+
+[order]
+s1,s2,s3,s4

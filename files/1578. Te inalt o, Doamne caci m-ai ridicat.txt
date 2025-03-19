@@ -1,0 +1,27 @@
+[s1]
+1578
+1. Te înalț o Doamne
+Căci m-ai ridicat
+Cei vrăjmași de mine
+Nu s-au bucurat.
+
+[r1]
+Cor: /: Sunt nimic o, Doamne
+Dar Tu mă iubești
+Mă cutremur în fața Ta
+Doamne de mare ești :/
+
+[s2]
+2. Sacul cel de jale
+Tu l-ai dezlegat
+Și în bucurie
+Plânsul mi-ai schimbat
+
+[s3]
+3. Fericită Îți cântă
+Astăzi inima
+Până-n veșnicie
+Te voi lăuda.
+
+[order]
+s1,r1,s2,r1,s3,r1

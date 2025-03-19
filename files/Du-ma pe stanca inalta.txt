@@ -1,0 +1,26 @@
+[s1]
+Du-mă pe stânca înaltă,
+căci e adăpost în nevoi
+/: Izvor de iertare curată,
+un turn de scăpare-n nevoi ! :/
+
+[s2]
+Căci în Tine am eu nădejde,
+pe stâncă Tu poţi să  mă duci
+/: Singur sus nu pot eu ajunge,
+Tu poţi însă sus să mă urci ! :/
+
+[s3]
+La glasu-Ţi se-opreşte şi vântul,
+furtuna se-alină şi ea
+/: Şi pânza de nori se destramă
+si iar e-nsorită ziua ! :/
+
+[s4]
+Aşa e şi-a noastră inimă
+când Tu lipseşti ea este rea
+Dar la-apropierea-Ţi divină,
+/: senină sclipeşte şi ea :/ X3
+
+[order]
+s1,s2,s3,s4

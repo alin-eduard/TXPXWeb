@@ -1,0 +1,36 @@
+[s1]
+Mama mea, mama mea
+A plecat în veșnicii
+Spre alte zări
+A lăsat vatra sa,
+Jaru-i stins
+Şi cenuşa lui s-a risipit.
+
+[r1]
+Unde e mama mea,
+Mi-e dor s-o văd ?
+Cântecul mamei
+Îmi răsună-n amintiri.
+Mi-e dor de mama mea
+Mi-e dor s-o văd.
+Cine-mi va da
+Zâmbetul mamei înapoi?
+
+[s2]
+Mama mea, mama mea,
+M-a iubit ca un înger
+Și m-a ocrotit,
+M-a-nvăţat să mă rog
+Să iubesc omenirea
+Și pe Isus.
+
+[s3]
+Dumnezeu, Dumnezeu,
+Îmi va da
+Zâmbetul mamei înapoi.
+Eu aştept r-ăbdător
+Marea zi  a întâlnirii
+Cu cei dragi.
+
+[order]
+s1,r1,s2,r1,s3,r1

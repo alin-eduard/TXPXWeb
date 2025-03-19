@@ -1,0 +1,32 @@
+[s1]
+„Cine esti?
+De unde vii, pasare trudita?
+Din ce munti,
+din ce campii, te intorci ranita?“
+/: „Cine sunt?
+De unde vin? M-ai uitat, crestine?
+Eu sunt cantecul senin,
+scris candva de tine. :/
+
+[s2]
+Am zburat, din mana ta,
+peste munti si ape
+Si-unde-a fost o rana grea,
+m-am lasat aproape.
+/: Dar nu soimii m-au ranit,
+nici pe dealuri spinii,
+Penele de-argint
+mi-au smuls fratii, nu strainii" :/
+
+[s3]
+„Daca esti cantarea mea,
+pasare zdrobita,
+Zbori mai sus,
+din stea in stea, smulsa si ranita,
+/: Si la Cel mai Sfant din sfinti,
+sa te-opresti o clipa:
+Lacrimile Lui fierbinti,
+sa le strangi pe-aripa!... :/
+
+[order]
+s1,s2,s3

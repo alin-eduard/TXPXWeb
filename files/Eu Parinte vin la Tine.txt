@@ -1,0 +1,38 @@
+[s1]
+Eu, Părinte, vin la Tine
+Să mă fac copilul Tău
+/: Lăsînd lumea deoparte
+Care zace-n al ei rău. :/
+
+[s2]
+Vreau de astăzi înainte
+Ţie, Doamne, să-Ţi slujesc
+/: Ca în ziua cea de groază
+Ne-nfricat eu să păşesc. :/
+
+[s3]
+Cînd cu slavă şi mărire
+Fiul Tău va străluci
+/: O, ce mare bucurie
+Pentru credincioşi va fi ! :/
+
+[s4]
+Însă vai de-acela care
+Stă mereu nepăsător !
+/: El va fi acolo unde
+Cînd auzi, te înfiori. :/
+
+[s5]
+O, tu, suflete iubite
+Care zaci tot în păcat
+/: Cum de nu auzi tu oare
+Cum El bate ne-ncetat ? :/
+
+[s6]
+E Isus, te cheamă, frate
+Pentru cea din urmă dată !
+/: Vezi, deschide-I pînă vine
+Moartea cea înfricoşată ! :/
+
+[order]
+s1,s2,s3,s4,s5,s6

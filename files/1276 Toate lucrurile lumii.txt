@@ -1,0 +1,69 @@
+[s1]
+Toate lucrurile lumii
+Au lovit corabia ta
+Eşti lovit în suflet tare
+Ţi-e rănită inima
+Cor:	/ : Nu te teme : /
+Domnul nu te va lăsa
+/ : Nu te teme : /
+El este salvarea ta
+1.
+1276
+
+[s2]
+Ca şi ucenici-n valuri
+Când au spus că vor pierii
+Strigă tu la Domnul Isus
+Marea se va liniştii
+2.
+Cor:	/ : Nu te teme : /
+Domnul nu te va lăsa
+/ : Nu te teme : /
+El este salvarea ta
+
+[s3]
+Domnul Isus te iubeşte
+Ştie El necazul tău
+Numai El te izbăveşte
+Fiindcă este Dumnezeu
+3.
+Cor:	/ : Nu te teme : /
+Domnul nu te va lăsa
+/ : Nu te teme : /
+El este salvarea ta
+
+[s4]
+4.
+Dacă valurile lumii
+Se înalţă tot mai sus
+Mai presus de orice putere
+E puterea Lui Isus
+Cor:	/ : Nu te teme : /
+Domnul nu te va lăsa
+/ : Nu te teme : /
+El este salvarea ta
+
+[s5]
+Eu sunt Alfa şi Omega
+Am fost mort şi am înviat
+Şi pe crucea din Golgota
+Pe voi v-am răscumpărat
+5.
+Cor:	/ : Nu te teme : /
+Domnul nu te va lăsa
+/ : Nu te teme : /
+El este salvarea ta
+
+[s6]
+Sunt Isus, Mântuitorul
+Sunt Păstorul minunat
+Domn al păcii şi lumină
+Cuvântul adevărat
+6.
+Cor:	/ : Nu te teme : /
+Domnul nu te va lăsa
+/ : Nu te teme : /
+El este salvarea ta
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,52 @@
+[s1]
+2024
+1. Erai într-un măslin sălbatic
+Dar Eu, Isus, te-am altoit
+Într-un măslin cu roade bune
+Ca tu să poți fi mântuit
+/: Ți-am altoit mlădița
+De tine Eu m-am îngrijit
+Să crești, să aduci multă roadă
+Din rădăcină te-am hrănit :/
+
+[s2]
+2. Ți-am dăruit a mea căldură
+Și în lumină te-am crescut
+Din dragoste ți-am dat viață
+Părtaș grăsimii te-am făcut.
+/: Eu am vegheat îndeaproape
+Când vânturile au bătut
+Te-am ocrotit cu braț puternic
+Ca să aduci rodul cerut :/
+
+[s3]
+3.Cu dragoste și bunătate
+Eu Domnul te-am înconjurat
+Ca din a tale roade sfinte
+Să curgă untdelemn curat.
+/: Eu voi veghea și zi și noapte
+Ca tu să răspândești lumină
+Și a ta inimă curată
+De Duhul Sfânt să fie plină :/
+
+[s4]
+4. Eu vreau să fii un vas de cinste
+Un vas de cinste sfânt curat
+Plin de putere și credință
+De Tatăl binecuvântat.
+/: Vreau să privești mereu spre ceruri Încins cu adevărul sfânt
+Plin de credință și răbdare
+Să împlinești al Meu cuvânt :/
+
+[s5]
+5.Cuvântul Meu e adevărul
+Să te-nsoțească ne-ncetat
+Căci viața Mi-am dat pentru tine
+Tu ești un fiu răscumpărat.
+/: Răscumpărat ai fost pe cruce
+Prin jertfa sfântă ce-am adus
+În dar Eu îți dau mântuirea
+Numele Meu este Isus :/
+
+[order]
+s1,s2,s3,s4,s5

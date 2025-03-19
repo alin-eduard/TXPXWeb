@@ -1,0 +1,45 @@
+[s1]
+138.
+1. Din valea aceasta de suspine
+Isuse, eu Te chem cu dor
+Când valuri mari izbesc în mine
+Isuse, vino-n ajutor!
+
+[r1]
+Cor:  Isuse scump, în a mea barcă
+Tu să rămâi necontenit
+Şi-apoi, la cârma vieţii mele
+Să fii mereu, pân' la sfârşit!
+
+[s2]
+2. Când gata sunt să cad pe cale,
+Să fii cu mine, tot mereu!
+De şchiopătez, Tu dă-mi putere
+Şi mă ridică, Domnul meu!
+
+[s3]
+3. Când încolţeşte iarăşi firea,
+Cu roada amară pe pământ,
+O, vino Tu, fă-o să moară,
+Prin roada Duhului Tău Sfânt.
+
+[s4]
+4. Dacă-am rămas în neveghere
+Şi-am adormit, o, Domnul meu,
+Tu să nu treci pe lângă mine
+Ci, să mă scoli din somnul greu!
+
+[s5]
+5. Ai spus, prin sulul cărţii sfinte
+Că trestia frântă, Tu n-o frângi,
+Iar candela ce aproape-i stinsă,
+O curăţeşti şi nu o stingi.
+
+[s6]
+6. Te rog să vii şi-n încercare,
+Să fii cu mine ne-ncetat!
+Când nu mai pot, Tu mă-ntăreşte
+Căci Tu eşti sprijin minunat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

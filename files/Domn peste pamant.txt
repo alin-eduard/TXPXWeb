@@ -1,0 +1,25 @@
+[r1]
+Domn peste pământ
+Peste Univers si peste noi.
+Eşti Dumnezeu si Creator,
+Al nostru Domn.
+
+[r2]
+Suntem ai Tăi copii pentru vecii,
+Azi Te rugăm prin Duhul Tău,
+Luminează peste noi.
+
+[s1]
+Prin lumina Ta
+Vrem mereu să stăm
+Pe calea Ta.
+Duh din duhul Tău
+Revarsă azi peste noi.
+
+[s2]
+Privind în noi găsim iubirea Ta,
+Ne-ai mântuit, ne-ai fericit,
+Să fii veşnic preamărit.
+
+[order]
+r1,r2,s1,s2,r1,r2

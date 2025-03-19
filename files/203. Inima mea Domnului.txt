@@ -1,0 +1,22 @@
+[s1]
+Fa m
+1. Inima mea Domnului
+În rugăciune-o supun
+Orice se află în ea
+Nu treacă cu privirea.
+203.
+
+[s2]
+2. Nimic nu voi ascunde
+Nici cele mai secrete
+Toate le voi arăta
+Asta-i fericirea mea.
+
+[s3]
+3. Fie descoperită
+Domnului cunoscută
+Ca El s-o curăţească
+Şi să mi-o înnoiască.
+
+[order]
+s1,s2,s3

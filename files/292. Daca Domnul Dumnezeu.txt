@@ -1,0 +1,59 @@
+[s1]
+1. Dacă Domnul Dumnezeu
+Prin al său ulei
+A turnat pe capul tău
+Stropii căldicei
+292.
+Mi
+
+[s2]
+Poţi să spui şi tu la fel,
+Frate, tuturor
+Căci ai fost ales de El
+Frate vestitor.
+
+[r1]
+Cor:
+Dacă eşti uns îţi este de-ajuns
+Ca să poţi privi în nepătruns
+Ca să pricepi şi să înţelegi
+Sfinte şi desăvârşite legi.
+
+[s3]
+2. Căci în lume s-au ivit
+Mulţi învăţători
+Care învaţă greşit
+Pe ascultători
+
+[s4]
+Însă cine-i luminat
+Vine la Isus
+Nu se lasă înşelat
+De amăgitori.
+
+[s5]
+3. Domnul mi-a întipărit
+Sfântul Său cuvânt
+La toţi cei care au primit
+Noul legământ
+
+[s6]
+Dar la El priveşte
+Sus ca să ai temei
+Dacă Duhul Sfânt
+Te-a uns cu al său ulei.
+
+[s7]
+4. Domnul se va proslăvi
+Prin viaţa ta
+Dacă la El vei veni
+Si-L vei asculta
+
+[s8]
+Vei ieşi biruitor
+Prin tăria Lui
+Dar să fie încrezător
+În braţul Domnului.
+
+[order]
+s1,s2,r1,s3,s4,r1,s5,s6,r1,s7,s8,r1

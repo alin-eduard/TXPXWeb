@@ -1,0 +1,32 @@
+[r1]
+O, ce zi minunată
+Ziua când L-am întâlnit
+El mi-a iertat tot păcătul
+Şi m-a mântuit
+
+[s1]
+Eram la fântână,
+Apă ca să scot
+Când cu glasu-I dulce,
+Mi-a vorbit Hristos
+Apă, sfântă a vieţii,
+El mi-a dăruit
+Toata fericirea, în El am găsit.
+
+[s2]
+La margini de drumuri
+Stăteam şi cerşeam,
+Nu vedeam lumina
+Căci eu orb eram
+Până-n ziua în care m-a atins Isus
+Ochilor lumină, doar El a adus.
+
+[s3]
+În  această lume rătăceam şi eu
+Fără sens în viaţă,
+Fără Dumnezeu
+Dar a fost o clipa când am auzit:
+,,Vino acum acasă, fiule iubit!”
+
+[order]
+r1,s1,r1,s2,r1,s3,r1

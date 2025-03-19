@@ -1,0 +1,29 @@
+[s1]
+Râul vieţii curge
+prin mijlocul cetăţii
+E râul ce face minuni
+Acest râu e viaţa cu apa cristalină
+El curge şi pentru tine
+3
+
+[s2]
+Râul vieţii curge şi pentru tine
+El curge ne-ncetat pentru salvarea ta El face minuni cu cei păcătoşi
+El vindecă sufletul
+2
+
+[s3]
+Râul vieţii curge şi pentru tine
+/:Râu binecuvântat:/
+Apă cristalină ce curge în dar
+Ea vindecă sufletul
+1
+
+[s4]
+Râul vieţii curge şi pentru tine
+El curge ne-ncetat pentru salvarea ta El face minuni cu cei păcătoşi
+El vindecă sufletul
+0
+
+[order]
+s1,s2,s3,s4

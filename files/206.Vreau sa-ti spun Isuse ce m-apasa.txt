@@ -1,0 +1,27 @@
+[s1]
+1. Vreau să-ţi spun Isuse ce m-apasă
+În tot timpul din viaţa mea
+Căci m-ai ales de tânăr la viaţă
+Şi cu greu mă lupt cu pofta mea.
+206.
+
+[s2]
+2. Căci Satan se luptă ca şi leul
+Şi scrâşneşte după viaţa mea
+Vrea să-mi piardă credinţa, viaţa
+Ce mi-ai dat-o Tu prin jertfa Ta.
+
+[s3]
+3.Dar puterea lui Satan e mică
+Când privesc eu sus la Golgota
+Cum Ţi-ai dat viaţa Ta cea sfântă
+Ca să-mi dai Tu mântuirea Ta.
+
+[s4]
+4.Şi aşa în fiecare clipă
+Lupt eu cu păcatul ne-ncetat
+Obosit de multe ori pe gânduri
+Şi pe fruntea mea sunt transpirat.
+
+[order]
+s1,s2,s3,s4

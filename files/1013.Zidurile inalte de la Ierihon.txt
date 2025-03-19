@@ -1,0 +1,33 @@
+[s1]
+Cor:	Zidurile înalte de la /:Ierihon:/
+Nu se vor zidi din nou
+1013.
+
+[s2]
+1.În cetatea Ierihon trăia
+Un popor care nu se temea
+De Domnul şi a trebuit
+Ca să fie nimicit.
+
+[s3]
+Cor:	Zidurile înalte de la /:Ierihon :/
+Nu se vor zidi din nou.
+
+[s4]
+2.	Israelul s-a luptat
+Şi-au strigat cu toţii într-un glas
+În Domnul s-au încrezut
+Şi zidurile au căzut
+
+[r1]
+Cor:	Zidurile înalte de la Ierihon
+Nu se vor zidi din nou.
+
+[s5]
+3.	N-am dărâmat noi zidurile
+Şi nici noi nu ne-am luptat
+Am strigat cu toţii, o, Doamne
+Şi Domnul ne-a ascultat.
+
+[order]
+s1,s2,s3,s4,r1,s5,r1

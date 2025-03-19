@@ -1,0 +1,45 @@
+[s1]
+1. Îmbracă-te Ierusalime
+Cu haină strălucită
+/: Cu pietre scumpe de safir
+Cusute şi unse cu mir
+Şi-n cap cununi de slavă :/
+696.      Mi b m
+
+[s2]
+2. Iată acum străjerii cântă
+Cântarea veşniciei
+/: Ei niciodată n-or tăcea
+Ci zi şi noapte vor cânta
+De dorul veşniciei :/
+
+[s3]
+3. Împodobeşte-te mireasă
+Cu haina strălucită
+/: Îmbracă-te de pe pământ
+De dragul tău şi cerul
+Şi sfânt îngerii să-ţi cânte :/
+
+[s4]
+4. La nunta Ta cea minunată
+Cum n-a fost din vecie
+/: Căci toţi acei ce vor intra
+În mii de feluri vor cânta
+De dorul veşniciei :/
+
+[s5]
+5. Ce mii de glasuri înconjoară
+Cu mesele întinse
+/: Şi bea din vinul cel ales
+Din vii frumoase atunci cules
+Mânca-vor mană ascunsă :/
+
+[s6]
+6. Şi aşa îţi vei petrece viaţa
+Cu dulcele Tău Mire
+/: Prin raiul plin de trandafiri
+Îţi vor cânta sute şi mii
+În cer o veşnicie :/.
+
+[order]
+s1,s2,s3,s4,s5,s6

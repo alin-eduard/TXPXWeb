@@ -1,0 +1,21 @@
+[s1]
+Astept o zi, ce splendoare va fi
+Cand pe nori, Domnul meu va veni.
+
+[r1]
+/: Trambita va suna s-adune Mireasa. :/
+Alege azi sa auzi strigand
+numele-ti chemand
+Fii si tu la dreapta Mea.
+/: Trambita va suna s-adune Mireasa. :/
+
+[s2]
+Sunt semne mari ce prevestesc
+Caci El este aproape.
+
+[s3]
+Stati treji veghind cu drag slujind
+Caci El poate azi va veni.
+
+[order]
+s1,r1,s2,r1,s3,r1

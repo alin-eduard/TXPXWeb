@@ -1,0 +1,39 @@
+[s1]
+Pe drumul vieţii azi
+Doi tineri au pornit
+O, Doamne, Te rugăm
+Condu-i neîncetat!
+Să pui în viaţa lor
+Iubirea Ta din cer,
+Priveşte-ndurător,
+Uneşte soarta lor!
+Fa m
+
+[r1]
+/: Dragostea Ta să le-o dai
+Şi fericiţi tot mereu
+Să îi vedem toţi am vrea,
+Toţi am vrea. :/
+
+[s2]
+O zi frumoasă-i azi,
+O zi, chiar ziua lor,
+Revarsă-Ţi Tu din plin
+Iubire-n a lor dor
+De sus, din cer Te rog,
+Azi dă-le bucurii
+Şi-n drumul lor mereu
+Pe braţul Tău să-i ţii!
+
+[s3]
+În barca vieţii lor
+Furtuni vor înfrunta
+Să fii salvarea lor,
+Ţine-i pe calea Ta!
+Binecuvântă-i Tu
+Şi să le fii mereu
+Prietenul cel bun
+La bine şi la rău. :/
+
+[order]
+s1,r1,s2,r1,s3,r1

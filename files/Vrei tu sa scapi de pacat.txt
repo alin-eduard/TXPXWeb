@@ -1,0 +1,44 @@
+[s1]
+1
+Vrei tu să scapi de păcat, sarcină
+Prin sângele sfânt al lui Isus?
+Vrei tu să-nvingi răul din inimă,
+Prin Sfânt sânge al lui Isus?
+
+[s2]
+2
+/:E puterea, ce minuni face
+Sângele Mielului!
+E puterea, ce minuni face
+În scump sângele al Mielului!:/
+
+[s3]
+3
+Vrei să fii liber de patimi, păcat,
+Prin sângele Sfânt al lui Isus?
+Vin’ la Calvar şi vei fi vindecat
+Prin Sfânt sânge al lui Isus.
+
+[s4]
+4
+/:E puterea, ce minuni face
+Sângele Mielului!
+E puterea, ce minuni face
+În scump sângele al Mielului!:/
+
+[s5]
+5
+Vrei să fii alb, mai alb ca zăpada,
+Prin sângele Sfânt al lui Isus?
+De orice scapi, viaţa vei afla
+Prin Sfânt sângele al lui Isus.
+
+[s6]
+6
+/:E puterea, ce minuni face
+Sângele Mielului!
+E puterea, ce minuni face
+În scump sângele al Mielului!:/
+
+[order]
+s1,s2,s3,s4,s5,s6

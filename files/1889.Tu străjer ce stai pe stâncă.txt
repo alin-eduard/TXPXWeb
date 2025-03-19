@@ -1,0 +1,39 @@
+[s1]
+1889
+1. Tu străjer ce stai pe stâncă
+Nu dormi în noapte-adâncă
+/:Ridică-ți privirea-n sus
+În curând vine Isus.:/
+
+[s2]
+/:Mai veghează tu străjere,
+Fii mereu tot în veghere
+Stai la postul care ești
+De vrei plată să primești.:/
+
+[s3]
+2. Mulți vor ațipi pe cale
+Tu urmeaz-a ta cărare
+/:Vino Doamne-n ajutor
+Astăzi la al Tău popor.:/
+
+[s4]
+/:Tu biserică veghează
+Luptă și înaintează
+Să străbați prin noaptea grea
+Pân-ajungi în țara ta:/
+
+[s5]
+3. Doamne-ajută să veghem
+În păcat să nu cădem
+/:Pe satan să-l biruim
+Și cu Tine-n veci să fim.:/
+
+[s6]
+/:Doamne-ajută-ne cu toții
+Să veghem în toiul nopții
+Până când vei reveni
+Să veghem în orice zi.:/
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,42 @@
+[s1]
+Ai murit pe cruce, Doamne,
+pentru-al meu amar păcat
+Pentru viaţa-mi de ocară,
+să mă faci nevinovat.
+Vin la jertfa Ta, Isuse,
+cu genunchii mei cei slabi
+/: Şi mă rog cu lăcrimare,
+Doamne, azi să-mi dai iertare ! :/
+
+[s2]
+Plînge firea-mi zbuciumată
+pentru moartea Domnului
+Plîng izvoarele şi munţii
+pentru jertfa Mielului.
+Pentru jertfa Ta, Isuse,
+fără pată şi cusur
+/: Doamne, schimbă-mi azi viaţa
+şi de mine să Te-nduri ! :/
+
+[s3]
+Plînge inima în mine,
+căci şi eu am ajutat
+Pe cei care într-o noapte
+pe Hristos L-au judecat.
+Şi eu, Doamne-am fost cu-aceia
+care-n faţă Te-au scuipat
+/:Şi pentru iubirea-Ţi mare
+te-au hulit şi Te-au trădat.:/
+
+[s4]
+Doamne-acum Îţi cer iertare
+lîngă crucea lui Hristos
+Şi Te rog să-mi dai putere
+să fiu veşnic credincios.
+Şi pe calea de credinţă
+să merg pururi drept, voios
+/:Să nu mă despart de Tine,
+Domnul meu, Isus Hristos!:/
+
+[order]
+s1,s2,s3,s4

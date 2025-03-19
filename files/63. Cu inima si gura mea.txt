@@ -1,0 +1,52 @@
+[s1]
+1. Cu inima şi gura mea
+Eu cânt lui Dumnezeu
+Mărire, cinste, laudă
+Ca să-L slăvesc mereu.
+63.               Mi
+
+[s2]
+/: Noi ştim că eşti Fântâna
+Şi Izvorul harului.
+Din ea ne curge-n orice zi
+Un dar, din darul Lui ! :/
+
+[s3]
+2. Ce suntem noi că stăpânim
+Atâta pe pământ?
+Nu-s toate daruri ce primim ,
+Din partea Celui Sfânt?
+
+[s4]
+/: Tu ne hrăneşti din an în an
+În grija Ta suntem
+Şi chiar când nu am
+nici un ban,
+Cu Domnul, nu mă tem. :/
+
+[s5]
+3. Ne pedepseşte, ca Păstor,
+Cu milă când greşim
+Şi-apoi ne iartă-ndurător,
+Când noi ne pocăim.
+
+[s6]
+/: Din inimă, eu cânt
+Voios Mântuitorului
+Şi mă silesc a fi zelos
+În lucrul Domnului. :/
+
+[s7]
+4. El niciodată n-a greşit
+În tot ce a făcut
+Şi toate au un bun sfârşit
+Când El le-a început.
+
+[s8]
+/: Lucreze Domnul şi cu noi,
+Nu-L vom împiedica!
+Odihnă vom avea apoi
+Cum nu ne-om aştepta... :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8

@@ -1,0 +1,38 @@
+[s1]
+În vale-aceasta de suspine,
+Isuse, eu Te chem cu dor;
+Când valuri mari izbesc în mine, Isuse, vino-n ajutor!
+Sol major
+
+[r1]
+/: Isuse scump, în a mea barcă,
+Tu să rămâi necontenit
+Şi-apoi, la cârma vieţii mele,
+Să fii mereu, pân' la sfârşit!:/
+
+[s2]
+Când gata sunt să cad pe cale,
+Să fii cu mine tot mereu!
+Te rog, Isuse, dă-mi putere
+Şi mă ridică Domnul meu!
+
+[s3]
+Când încolţeşte iarăşi firea,
+Cu roade-amare pe pământ,
+O, vino Tu, s-o faci să moară,
+Prin roada Duhului cel Sfânt.
+
+[s4]
+Ai spus, în sulul Cărţii Sfinte,
+Că trestia frântă Tu n-o rupi,
+Iar candela ce e sleită
+O curăţeşti şi nu o stingi.
+
+[s5]
+Te chem să vii şi-n încercare,
+Să fii cu mine ne'ncetat!
+Isuse scump, Tu mă-ntăreşte,
+Căci Tu eşti sprijin minunat.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1

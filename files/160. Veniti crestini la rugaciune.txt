@@ -1,0 +1,39 @@
+[s1]
+1. Veniţi, creştini, la rugăciune
+În Casa Domnului Cel sfânt,
+/:Veniţi, creştini, plecaţi genunchii
+Şi faţa voastră la pământ!:/
+160
+
+[s2]
+2. Veniţi, cei osteniţi, la Domnul,
+Voi, cei trudiţi şi-mpovăraţi.
+/:Odihna, pacea Lui cea sfântă
+Şi mângâiere să luaţi:/
+
+[s3]
+3. Răsună munţi, răsună dealuri,
+Pământu-ntreg de glasul Lui
+/:Se pleacă-n faţa Lui natura
+Văzduhu-ntreg cu nori şi vânt:/
+
+[s4]
+4. Dar omul - singura făptură
+Împodobită-n chip ceresc
+/:Azi nu mai vrea să ia aminte
+La glasul cel dumnezeiesc...:/
+
+[s5]
+5. Azi masa Domnului stă-ntinsă,
+Dar cei poftiţi nu vin la ea;
+/:Ei n-aud glasul Lui ce strigă:
+„Veniţi, creştini, la masa Mea!”:/
+
+[s6]
+6. Veniţi, creştini, la rugăciune
+În casa Domnului Isus!
+/:Veniţi şi dezbrăcaţi păcatul
+Şi să primiţi cerescul Har:/
+
+[order]
+s1,s2,s3,s4,s5,s6

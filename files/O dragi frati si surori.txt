@@ -1,0 +1,52 @@
+[s1]
+O, dragi frati si surori
+Ce-L iubiti pe Hristos
+Într-un duh
+Si într-un gând credincios
+/: Alergati ostenind
+Si veghind nu uitati
+Pentru El nu-n zadar alergati :/
+
+[s2]
+Osteniti ne-ncetat
+Pentru Domnul acum
+În orice timp, pe orice loc,
+Si-orice drum
+/: Când veti fi voi trimisi
+Sau chemati de-al Sau har
+Pentru El n-alergati în zadar :/
+
+[s3]
+Semănati ne-ncetat
+Strălucitul Cuvânt
+Se pe ger, si pe nor, si pe vânt
+/: Răbdători, ne-nfricati
+Si smeriti nu uitati
+Pentru El nu-n zadar alergati :/
+
+[s4]
+Privegheati ne-ncetat
+Rugători si-nfrânati
+Crucea Lui după El vi-o purtati
+/: Când umblând si lucrând chiar
+Plângând cu amar
+Pentru El nu vegheati în zadar :/
+
+[s5]
+Asteptati, ne-ncetat
+iubitori pe Hristos
+Cu un rod mai curat si frumos
+/: Căci Isus tot ce-a spus,
+Va-mplini, nu uitati
+Pentru El nu-n zadar alergati :/
+
+[s6]
+O, dragi frati si surori,
+Doar putin mai avem
+S-alergăm, să lucrăm, să răbdăm.
+/: Nici un drum, nici un greu,
+Nici un plâns, nici un dar
+Pentru El nu va fi în zadar :/
+
+[order]
+s1,s2,s3,s4,s5,s6

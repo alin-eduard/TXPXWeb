@@ -1,0 +1,22 @@
+[s1]
+Viata-i plina de intristari,
+Grijuri vin zi de zi,
+
+[r1]
+Isus ia toata povara ta
+El poate mantui!
+Isus ia toata povara ta,
+La Calvar, la Calvar
+Isus ia toata povara ta
+El poate mantui!
+
+[s2]
+Chinuit si ingrijorat,
+la El acum sa vii,
+
+[s3]
+El asculta suspinul tau,
+Strigatul inimii,
+
+[order]
+s1,r1,s2,r1,s3,r1

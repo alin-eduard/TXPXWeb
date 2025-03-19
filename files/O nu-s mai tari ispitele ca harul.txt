@@ -1,0 +1,31 @@
+[s1]
+O, nu-s mai tari ispitele ca harul Si m
+Ce l-ai primit ca să le poţi răbda,
+Că nu se cere ’ntâi să urci calvarul
+Ci-ntâi primeşti putere a răbda.
+Credinţă se cere, credinţă
+Şi orice ispită o-nvingi,
+Credinţă, de-avea-vei credinţă
+Puterea ispitei o stingi.
+
+[s2]
+O, nu-s mai tari durerile-ntâlnite   Decât puterea care-o vei primi,
+Că nu-s întâi poverile sporite
+Ci-ntâi primeşti putere-a suferi.
+Nădejde se cere, nădejde
+Şi orice durere o-nvingi
+Nădejde, de-avea-vei nădejde
+Puterea durerii o stingi.
+
+[s3]
+O, nu-s mai tari vrăjmaşii niciodată
+Decât iubirea gata a ierta
+Că-ntâi nu vine ura-nverşunată
+Ci-ntâi, se va mări iubirea Ta.
+Iubire se cere, iubire
+Şi orice vrăjmaş ai să-nvingi
+Iubire, de-avea-vei iubire,
+Jertfind ura-ntreagă o stingi.
+
+[order]
+s1,s2,s3

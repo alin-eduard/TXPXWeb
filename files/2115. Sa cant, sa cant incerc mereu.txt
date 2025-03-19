@@ -1,0 +1,45 @@
+[s1]
+2115
+1. /: Să cânt :/ încerc mereu
+Mai cu avânt chiar de-i bine
+Chiar de-i greu
+Chiar de-s mâhnit chiar de-s lovit
+Eu cânt de dragul Tău Dumnezeu.
+
+[r1]
+Cor:	/: Ție, Ție-Ți voi cânta
+Toată viața Domnul meu
+Ție, Ție-Ți voi cânta
+Veșnicule Dumnezeu. :/
+
+[s2]
+2. La orice pas mă poticnesc
+Și ceas de ceas
+Noi ispite năpădesc
+Dar mâna Ta e asupra mea
+De aceea cât trăiesc
+Îți voi cânta.
+
+[s3]
+Cor:	 /: Ție, Ție-Ți voi cânta
+Toată viața Domnul meu
+Ție, Ție-Ți voi cânta
+Veșnicule Dumnezeu. :/
+
+[s4]
+3. O cum să cânt
+Când alții plâng
+Și atâția sunt ce-și duc
+Crucea lăcrimând
+Dar voia Ta e să Te laud
+Și tot ce-i mai presus e Isus.
+
+[s5]
+4. Cât aș căuta să mă jertfesc
+Eu niciodată n-aș putea
+Să-Ți mulțumesc
+Căci ai iertat al meu păcat
+Să fii în veci de veci lăudat.
+
+[order]
+s1,r1,s2,s3,s4,r1,s5,r1

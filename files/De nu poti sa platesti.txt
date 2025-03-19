@@ -1,0 +1,22 @@
+[s1]
+De nu poti sa platesti
+Pretul jertfei de sine
+N-ai sa stii sa iubesti
+Ca Isus nu ca tine
+De nu poti sa te-nalti
+Cand poverile apasa
+N-ai sa stii ca Isus
+Da putere in toate.
+
+[s2]
+/: Voi vesti indurarea
+Voi canta bunatatea
+Proclamand lucrarea
+Implinita la Calvar
+Voi vesti infierea
+Moartea Lui si-nvierea
+Proclamand iubirea
+/: Daruita la Calvar :/
+
+[order]
+s1,s2

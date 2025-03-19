@@ -1,0 +1,77 @@
+[s1]
+1175.
+1.          O vai Doamne cât amar
+Va veni pe pământ iar
+Şi atunci Tu îţi vei lua
+De aici mireasa ta
+Având plină candela .
+
+[s2]
+2.        Făpturi multe te-or zări
+Când pe nori Tu vei veni
+Isus Tu nu vei lua
+Decât sfântă mireasă
+Dăruindu-i cununa.
+3.        O vai Doamne cât pelin
+Vor lua mamele deplin
+Pentru cei ce l-au crescut
+Dar ei nu Te-au cunoscut
+În lume şi-au petrecut.
+
+[s3]
+4.       Ele mult vor stărui
+Doamne nu îi părăsi
+Căci durerile ce vin
+Se vor termina deplin
+Şi greu va fi a lor chin.
+5.       E ultima rugăciune
+O ascultă-mă Părinte
+Nu-i lăsa în necazul mare
+Desfăşoară-ţi a Ta lucrare
+O fă-ţi astăzi îndurare.
+
+[s4]
+6.      Soţii atunci vor striga
+Unde eşti soţia mea
+Dar ce-o să vadă toţi
+Că ele au atunci un soţ
+Pe Tine Isus Hristos.
+7.       Soţiile disperate
+Întreba-vor peste sate
+Nu aţi văzut al meu bărbat
+Căci în noaptea ce-a trecut
+O fiinţă l-a luat.
+
+[s5]
+8.       O nu-i chip de cugetări
+Prea iubite adunări
+Poţi să cânţi în limbi străine
+Şi nu-ţi sfârşeşti viaţa bine
+Domnul nu vine la tine.
+9.       Tinere ce cânţi în cor
+În a Domnului popor
+Tu ieşi din Adunare
+Trăieşti în nepăsare
+Nu gândeşti la ziua mare.
+
+[s6]
+10.        Tu care te crezi isteaţă
+La copii nu le dai viaţă
+Poţi să faci tu fapte bune
+Crezând că alea-s destule
+O să arzi în acea lume.
+11.        Fulger, trăsnete şi ploi
+În clipele de apoi
+Iar de vrei să dăinuieşti
+Cu Isus să te-ntâlneşti
+De azi să te pocăieşti.
+
+[s7]
+12.      Tu şi eu şi orişicare
+Să ne punem o-ntrebare
+Sunt gata pentru răpire
+Căci iată Mirele vineri
+Să ia pe ai Săi la Sine.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

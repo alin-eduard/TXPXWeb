@@ -1,0 +1,41 @@
+[s1]
+Domnu-I bun
+Domnu-I bun orisicand
+Recunoscator lauda
+Vreau sa-I cant
+Domnu-I bun orisicand
+Chiar si-n noaptea grea
+Ma va lumina
+Domnu-I bun
+Domnu-I bun orisicand.
+Mi M
+
+[s2]
+Daca treci prin valea Mortii
+Si sunt umbre-n jurul tau
+Mana Lui te va conduce
+Ocrotit sa fii de rau
+A promis ca nu te lasa
+Nu te uita, nu esti parasit.
+
+[r1]
+Domnu-I bun
+Domnu-I bun orisicand
+Recunoscator lauda
+Vreau sa-I cant
+Domnu-I bun orisicand
+Chiar si-n noaptea grea
+Ma va lumina
+Domnu-I bun
+Domnu-I bun orisicand.
+
+[s3]
+Cand traiam cu toti in noapte
+Dragostea-I s-a aratat
+Tatal bun, Cel Sfant din ceruri
+Pe Isus jertfa L-a dat
+Si-acum liberi de pacate
+Indurarea Lui o vom canta.
+
+[order]
+s1,s2,r1,s3,r1

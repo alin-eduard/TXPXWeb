@@ -1,0 +1,33 @@
+[s1]
+1. Aproape sunt de cel mâhnit
+Cu inima înfrântă
+Aproape sunt să-nviorez
+O inimă zdrobită
+2. Aproape sunt în ceasul greu
+Ca să dau alinare
+Şi rana-S gata să o leg
+Să simtă vindecare
+615.     Mi b m
+
+[s2]
+3. În stare sunt ca să te scap
+Încrede-te în Mine
+Căci nicidecum n-am să te las
+Voi fi mereu cu tine
+4. Priveşte cerul cât de 'nalt
+Şi nepătruns se pare
+Dar totuşi îndurarea Mea
+E mult cu mult mai mare
+
+[s3]
+5. De ce te temi şi te-nspăimânţi
+În clipe de-ncercare
+Ţi-am spus că nu te voi lăsa
+Ca să te pierzi pe cale.
+6. Dar pân' atunci să ţii mereu
+Privirea ridicată
+Că-n ceasul când ţi-o fi mai greu
+Salvarea se arată.
+
+[order]
+s1,s2,s3

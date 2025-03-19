@@ -1,0 +1,32 @@
+[s1]
+Sunt un om nevrednic dar,
+El m-a iubit
+S-a plecat spre mine
+şi m-a mântuit
+El făcu din mine un om împlinit,
+Fericirea de la El eu am primit.
+
+[r1]
+/: Cu Isus de-a pururi e plăcerea mea,
+Lui Isus de-a pururi Îi dau inima.
+El făcu din mine un fiu mântuit
+Fericirea de la El eu am primit. :/
+
+[s2]
+Da, El mă iubeşte cu fierbinte zel
+O, cât sunt de sigur
+că mi-o spune El.
+Pe-un sărman ca mine
+de pace lipsit
+S-a plecat spre mine
+şi m-a mântuit.
+
+[s3]
+Pe acel ce are dese intristari.
+L-ai scapat de soarta
+vesnicei pierzari.
+Desi i-o minune, desi sunt uimit
+Totusi stiu o Doamne, Tu m-ai mantuit!
+
+[order]
+s1,r1,s2,r1,s3,r1

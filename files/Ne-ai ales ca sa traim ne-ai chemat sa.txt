@@ -1,0 +1,34 @@
+[s1]
+Ne-ai ales ca sa traim
+ne-ai chemat sa te slujim
+Innoiti de-al Tau Cuvant
+in purtare si in gand
+Ne-ai iertat de-orice pacat
+Mostenire-am capatat
+Prin credinta-n jertfa Ta
+ne-nchinam in fata Ta
+
+[s2]
+/:Iti multumim, iti multumin
+Doamne bun Te slavim
+Pentru harul Tau si dragostea Ta
+Doamne bun, iti multumim:/
+
+[s3]
+Te-ai lasat batjocorit
+pe o cruce rastignit
+Ai purtat osanda grea,
+Doamne pentru vina mea
+Tu esti calea catre cer ,
+Adevar esti un mister
+Laudam de pe pamant,
+Al Golgotei legamant.
+
+[s4]
+/: Iti multumim, iti multumin
+Doamne bun Te slavim
+Pentru harul Tau si dragostea Ta
+Doamne bun, iti multumim :/
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,33 @@
+[s1]
+Cu nădejdea de sus
+Ce ne-ai dat-o, Isus
+Te dorim, Te-aşteptăm
+Şi cu dor Te chemăm :
+
+[r1]
+<Vino, vino, Isus
+Mire drag de nespus !
+Pe-al iubirii altar
+Dorul nostru ni-e jar
+Vino, vino, vino, Isuse !>
+
+[s2]
+Cu-al iubirii avînt
+Ce ni-l dă Duhul Sfînt
+Te-aşteptăm, Te dorim
+Şi fierbinte şoptim :
+
+[s3]
+Cu-al credinţei senin
+Ce ni-e dată din plin
+Te dorim, Te-aşteptăm
+Şi arzînd Te strigăm :
+
+[s4]
+Tot ce-avem şi dorim
+Tot ce-am vrea ca să fim
+Tu ne eşti pe vecii
+Te chemăm ca să vii :
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

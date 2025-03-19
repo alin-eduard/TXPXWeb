@@ -1,0 +1,29 @@
+[s1]
+Fii slăvit, fii slăvit,
+Între noi Tu ai venit
+Şi din sfânta Ta iubire,
+Viaţă, duh ne­ai dăruit,
+Pace, binecuvântare,
+Zbuciumul cel greu ne­ai liniştit,
+Fii slăvit, fii slăvit!
+
+[s2]
+Doamne sfânt, Doamne sfânt,
+Viaţa noastră o supui,
+Trupul şi a lui putere,
+Simţul şi gândirea lui,
+Toate­a noastre mădulare
+În lucrarea sfântă Tu le pui,
+Doamne sfânt, Doamne sfânt!
+
+[s3]
+Iar în cer, iar în cer,
+În locaşul părintesc
+Fruct ceresc vom da gustării
+Prânzul Paştelui ceresc;
+Glas atunci vom da cântării
+Toţi uniţi în corul cel ceresc,
+Te slăvim, Te slăvim!
+
+[order]
+s1,s2,s3

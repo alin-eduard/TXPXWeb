@@ -1,0 +1,28 @@
+[s1]
+Gandeste-te la viata ta amice
+Ne-am nascut, traim si murim
+Suntem ca umbra foarte trecatoare
+De ce suntem aici, incotro pasim
+Intotdeauna doua cai ne stau in fata
+E drumul inspre cer sau inspre iad
+Am fost lasati stapani spre a alege
+Suntem biruitori sau printre cei ce cad
+
+[r1]
+/:Astazi e ziua cercetarii
+Azi e momentul potrivit
+Alege calea vietii
+Isus ne-a mantuit:/
+
+[s2]
+Gandeste-te la viata ta amice
+Un suflet ai si doar aici mai poti
+Sa-ti pregatesti locasul cel de veci
+Haina si coroana pe care o sa le porti
+Cand pretul e platit de Fiul
+Si planul de salvare ti s-a dat
+Te rog nu rataci in bezna lumii
+Isus te cheama azi, renunta la pacat
+
+[order]
+s1,r1,s2,r1

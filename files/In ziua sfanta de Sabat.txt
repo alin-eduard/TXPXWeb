@@ -1,0 +1,29 @@
+[s1]
+În ziua sfântă de Sabat
+Atrage-mă la Tine,
+Din drumul drept să nu mă-abat
+Porunca s-o pot ţine!
+Şi udă-al inimii pământ
+Cu ploaia Duhului Tău sfânt,
+Vreau setea să-mi aline…
+
+[s2]
+Din pâinea ce se frânge iar,
+Din slova Cărţii sfinte
+Cu-a Ta iubire, cu-al Tău har
+Mă satură, Părinte!
+Iar pacea şi-al iubirii foc
+În inimi să-şi găsească loc,
+În fapte şi-n cuvinte.
+
+[s3]
+În ziua sfântă de Sabat
+Îmbracă-mă-n putere
+Cărarea vieţii s-o străbat
+Făcând doar sfânta-Ţi vrere.
+Să-ajung cu Tine la liman
+Să văd cerescul  Canaan,
+Suprema mângâiere.
+
+[order]
+s1,s2,s3

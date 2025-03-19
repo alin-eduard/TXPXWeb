@@ -1,0 +1,38 @@
+[s1]
+Mergeţi, vestiţi Cuvîntul Meu!
+Cine va crede faceţi-i ucenicii Mei!
+Botezaţi în Numele Meu,
+Tatălui şi Duhului cel Sfînt
+Şi să spuneţi calea vieţii tuturor de pe Pămînt !
+
+[s2]
+Ce facem noi, cei de acum
+Pentru Isus, pentru Isus ?
+Spunem cuiva că a murit
+Şi-a înviat ?
+Că este-un loc acolo-n cer
+Pentru cei ce se-ncred în El?
+Că va veni şi ne va lua
+La dreapta Sa?
+Ce facem noi?
+
+[s3]
+Spune cuiva de Dumnezeu
+De jertfa crucii, de Fiul Său !
+Fii o lumină pentru cei din jurul tău
+Spune tuturora cine-i Isus,
+Domnul tău !
+
+[s4]
+/: Şi într-o zi vei auzi:
+<Vino, copilul Meu!
+M-ai ascultat, tu M-ai iubit
+Şi Mi-ai slujit!
+Răsplata ta e cerul tot
+Şi viaţă veşnică în dar
+Tot ce-i al Meu e şi al tău
+Copilul Meu!> :/
+Copilul Meu!
+
+[order]
+s1,s2,s3,s4

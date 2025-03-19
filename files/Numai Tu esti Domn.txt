@@ -1,0 +1,12 @@
+[s1]
+/: Numai Tu eşti domn
+Numai Tu eşti sfânt :/
+Te voi lăuda, te voi înălta.
+Căci Tu eşti domn
+Tu esti Domn (2x)
+/: Ţie mă închin
+Ţie vreau sa-ţi cânt :/
+Te voi lăuda, te voi înălţa.
+
+[order]
+s1

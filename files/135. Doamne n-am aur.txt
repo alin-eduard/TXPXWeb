@@ -1,0 +1,28 @@
+[s1]
+135.
+1. Doamne, n-am aur , nici pietre scumpe,
+Dar am tot dreptul să fiu al Tău.
+/: Să spună-oricine, orice ar spune,
+Eu am tot dreptul să fiu al Tău! :/
+
+[s2]
+2. Chiar alungat de toţi dacă aş fi,
+Eu am tot dreptul să fiu al Tău,
+/: Căci jertfa sfântă de pe Golgota
+Îmi dă tot dreptul să fiu al Tău ! :/
+
+[s3]
+3. Doresc din suflet să-Ţi slujesc Ţie,
+Căci am tot dreptul să fiu al Tău!
+/: Aici în lume și-n veşnicie,
+Eu am tot dreptul să fiu al Tău! :/
+
+[s4]
+4. Inima-mi cântă de bucurie!
+Eu am tot dreptul să fiu al Tău!
+/: Spre cer întruna El mă conduce
+Căci mi-a dat dreptul
+Să fiu al Său. :/
+
+[order]
+s1,s2,s3,s4

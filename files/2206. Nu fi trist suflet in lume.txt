@@ -1,0 +1,47 @@
+[s1]
+2206
+1. Nu fi trist suflet în lume
+Dacă suferi pentru bine
+Suferă nu-ți pară rău
+Doar luptând ajungi
+la Dumnezeu.
+
+[r1]
+Cor: Nu mai judeca nimica
+Crească grâul cu neghina
+De ești grâu ori ești neghină
+Isus spune pleci sau vino.
+
+[s2]
+2. Dacă toți râd azi de tine
+Tu trăiește neprihanire
+Să știi că adevăru-n lume
+Umblă singur nu-n mulțime.
+
+[s3]
+3. Omul lărgește mereu
+Drumul sfânt lui Dumnezeu
+Numai sfinții stau mereu
+Singuri drepți lângă Dumnezeu.
+
+[s4]
+4. Unde-i grâu, neghina crește
+Nimeni Doamne n-o oprește
+Trăiește lumea cum vrea
+Ei vorbesc dar n-au sfințenia.
+
+[s5]
+5. Cine-i grâu curat iubește
+Numai neghina urăște
+Gustul neghine-i amar
+N-au dulceață-n vorbire,
+nici har.
+
+[s6]
+6. Până când mai ții neghina
+Grâul tău suspină întruna
+Să desparți de grâu neghina
+Nu mai despărți lumina.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

@@ -1,0 +1,63 @@
+[s1]
+Voi ce n-aţi avut în lume
+Bucurii şi mângâiere,
+Voi ce-aţi plâns atâta vreme
+În amar şi în durere,
+593.             								     Re
+
+[s2]
+/: Voi ce lumea vă urăşte
+Şi vă scuipă ca pe El
+N-aveţi frică n-aveţi teamă,
+Nu vă ruşinaţi defel! :/
+
+[s3]
+2. Voi ce-aţi mers tot înainte
+Şi-aţi urcat întreg Calvarul,
+Voi ce-aţi suferit ca Dânsul
+Şi-aţi băut întreg paharul,
+
+[s4]
+/: Voi ce n-aţi uitat pe Domnul
+Niciodată şi nicicând
+Ci, L-aţi lăudat în toate,
+I-aţi dat slavă, I-aţi dat cânt! :/
+
+[s5]
+3.Voi ce fiinţa voastră-ntreagă
+Aţi spălat-o-n al Lui sânge
+Şi în inimi e aprinsă
+Flacăra ce nu se stinge,
+
+[s6]
+/:Voi sub cruce ce-aţi gemut
+Şi mai gemeţi şi acum,
+Bucuraţi-vă de-acuma,
+Ziua sfântă e pe drum. :/
+
+[s7]
+4. Iată zorile se-arată,
+Marea zi se prevesteşte,
+Iarna este pe sfârşite
+Şi măslinul frăgezeşte,
+
+[s8]
+/: Voi ce-aţi biruit păcatul
+În jertfa de pe Calvar,
+Bucuraţi-vă de-acuma,
+N-aţi suferit în zadar! :/
+
+[s9]
+5.Voi ce-aţi privegheat întruna
+Şi aţi fost tot timpul gata,
+Bucuraţi-vă acuma,
+Iată-L vine cu răsplata,
+
+[s10]
+/: Ca să dea pentru amarul
+Şi durerea ce-a trecut
+Viaţă lină, fericită,
+Viaţă fără de sfârşit. :/
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

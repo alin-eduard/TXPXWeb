@@ -1,0 +1,32 @@
+[s1]
+O, Betleem, oraş micuţ,
+cum dormi de liniştit
+În timp ce mii de stele sus
+aleargă-n infinit !
+La tine-n întuneric Lumina
+S-a născut
+O iesle, un staul doar
+ai dat Celui făr, de-nceput.
+
+[s2]
+Pe când dormeai nepăsător,
+Mesia a venit
+Şi oşti cereşti vesteau
+în cor pe Cel ce ne-a iubit.
+Tu, steaua dimineţii,
+vesteşte naşterea !
+Pământu-ntreg să-nalţe azi
+cântări spre slava Sa !
+
+[s3]
+Azi te rugăm, cobori la noi,
+copil din Betleem
+Arunc-afar, orice păcat,
+pe Tine doar Te vrem !
+Ne îndulceşte viaţa
+în lumea de nevoi
+O, scumpe Domn, Emanuel,
+vino, rămâi cu noi !
+
+[order]
+s1,s2,s3

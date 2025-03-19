@@ -1,0 +1,43 @@
+[s1]
+1. Astăzi fraţilor să mergem
+Într-un suflet şi-ntr-un gând
+Să-nălţăm o rugăciune
+La Isus îngenunchind.
+Să-i cântăm un imn de slavă
+Bunului Mântuitor
+/:Ce pe inimile noastre
+Varsă foc izbăvitor:/
+672. Mi b
+
+[s2]
+2. Vlaga vieţii noastre toată
+Domnului am închinat
+În oştirea Lui Divină
+Credincioşi ne-am înrolat.
+Să-i jurăm cu dor credinţă
+Am jurat şi ne-am supus
+/:De vom şovăi vreodată
+Să ne sprijini Tu Isus:/
+
+[s3]
+3. In iubire toţi să creştem
+Precum şi El ne-a iubit
+La cei doisprezece Apostoli
+Să gândim necontenit.
+Să iubim până la jertfă
+Fără al răsplăţii gând
+/:Căci aşa a iubit şi Domnul
+Când murea pe cruce blând:/
+
+[s4]
+4. O, Isuse ne uneşte
+Inimile la un loc
+Şi primeşte-le pe toate
+Le-am călit în sfântul foc.
+Bisericii Tale scumpe
+Dă-i bogatele-Ţi comori
+/:Duhul Tău cel bun împarte
+La umilii slujitori:/
+
+[order]
+s1,s2,s3,s4

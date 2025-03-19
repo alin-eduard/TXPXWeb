@@ -1,0 +1,45 @@
+[s1]
+Cor:	/: Da ,eu! Da, eu!
+Da, eu, Doamne!
+Eu trebuie să mă rog! :/
+140.                                                         Sol
+
+[s2]
+1. Rugăciunea mamei mele
+Nu este de-ajuns.
+Eu trebuie să mă rog!
+Rugăciunea tatălui meu
+Nu este de-ajuns,
+Eu trebuie să mă rog !
+
+[r1]
+Cor:	/: Da ,eu! Da, eu!
+Da, eu, Doamne!
+Eu trebuie să mă rog! :/
+
+[s3]
+2. Rugăciunea sorei mele
+Nu este de-ajuns.
+Eu trebuie să mă rog!
+Rugăciunea fratelui meu
+Nu este de-ajuns.
+Eu trebuie să mă rog!
+
+[s4]
+3. Nici păstoru-nvăţătorul,
+Ci chiar eu, Doamne!
+Eu trebuie să mă rog!
+Nici străinul, nici vecinul,
+Ci chiar eu, Doamne!
+Eu trebuie să mă rog!
+
+[s5]
+4. Rugăciunea ta să fie
+Cu lacrimi fierbinţi.
+Tu trebuie să te rogi!
+Rugăciunea este-aceea
+Ce-ţi dă biruinţi.
+Tu trebuie să te rogi!
+
+[order]
+s1,s2,r1,s3,r1,s4,r1,s5,r1

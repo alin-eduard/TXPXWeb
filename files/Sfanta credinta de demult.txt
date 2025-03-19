@@ -1,0 +1,26 @@
+[s1]
+Sfântă credinţă de demult
+Prin foc, prin săbii ai răzbit;
+Cu fericiri tu ne­ai umplut
+Când vestea bună am primit.
+Sfântă credinţă, tare eşti,
+Tu toate, toate biruieşti.
+
+[s2]
+În închisori fiind legaţi,
+Cu trupul frânt, se bucurau.
+Chiar de erau încătuşaţi
+Ei ca învingători mureau.
+Sfântă credinţă, viaţă eşti,
+Tu chiar şi moartea biruieşti.
+
+[s3]
+Doar Tu, credinţă, ne ridici
+Şi jar în piept tot tu ne dai
+Să te vestim la toţi aici
+Prin vorbe sfinte şi prin trai.
+Sfântă credinţă, dar de sus,
+Fă să­L urmăm doar pe Isus!
+
+[order]
+s1,s2,s3

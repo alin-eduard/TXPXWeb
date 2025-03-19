@@ -1,0 +1,46 @@
+[s1]
+1289.   Fa m
+Pune-ţi mâna Doamne
+Si tămăduieşte
+Suflete şi inimi
+Care se zdrobesc
+Să te-nduri de-aceea
+Care plâng într-una
+Şi-n grea suferinţă
+Pace nu găsesc
+1.
+
+[r1]
+Cor: Şterge Doamne lacrimi
+Care curg şuvoaie
+Spune doar o vorbă
+Celor întristaţi
+Scapă-i sfinte Doamne
+Că ei sub povară
+Zac de multă vreme
+Şi-s nemângăiaţi
+
+[s2]
+Te îndură Doamne
+De acei ce-aşteaptă
+În dureri amare
+Cei frământă greu
+Viaţa lie amară
+Si nu au pe nimeni
+Doar pe tine Doamne
+Sfinte Dumnezeu
+.
+2.
+
+[s3]
+3. Ne ascultă Doamne
+Te rugăm fierbinte
+Treci prin adunare
+Cu balsamul Tău
+Iată plâng bolnavii
+Mângâiei Isuse
+Dă-le vindecare
+Că eşti Dumnezeu
+
+[order]
+s1,r1,s2,r1,s3,r1

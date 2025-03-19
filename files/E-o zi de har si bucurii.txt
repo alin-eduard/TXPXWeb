@@ -1,0 +1,39 @@
+[s1]
+E-o zi de har si bucurii
+Pentru voi doi ce azi
+porniti pe noul drum
+Si-n iubire va uniti
+E-o zi de har si bucurii
+Ca la altar acum sa fiti si fericiti
+Mâna-n mâna sa porniti.
+
+[r1]
+/: Dumnezeul nost va dea binecuvântarea Sa
+Scut va fie dreapta Sa,
+va pazeasca-n vreme grea
+Si-n iubire pururea
+îl rugam a va tinea
+Casa voastr- a o veghea
+fericiti sa fiti în ea :/
+
+[s2]
+De acum sa ramâneti uniti
+Si sa traiti mereu ca sfinti,
+spre cer priviti
+Pregatiti oricând sa fiti
+Fiti intelepti cum va purtati
+In dragoste cinste va dati,
+nu va-ntristati
+Ci unul pe altul va ajutati.
+
+[s3]
+In viata când probleme apar
+Pe al familiei altar sa arda jar
+Voi ati fost salvati prin har
+Priviti la bratul ce s-a-ntins
+Va coborâ din necuprins
+caci a învins
+Când în cuie a fost prins.
+
+[order]
+s1,r1,s2,r1,s3,r1

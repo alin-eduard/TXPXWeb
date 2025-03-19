@@ -1,0 +1,37 @@
+[s1]
+1359. Do
+1.  Un chip de lut Tu ai făcut
+I-ai dat din frumuseţea Ta
+Şi n-ai uitat ca la-nceput
+Alături de suflarea Ta
+Să torni în el şi dragostea.
+Tu ai ştiut când L-ai creat
+Că-n viaţă nu e mai de preţ
+Decât acel dar minunat
+Ce-n sufletul îndurerat
+Dă însorite dimineţi.
+
+[r1]
+Cor: Iubirea să rămână-n veci
+Din partea Ta cadoul sfânt
+Isuse drag spre Tine
+Ruga noastră astăzi o-nălţăm
+Tu singur poţi în viaţa lor
+Să dai belşug şi-n toate spor
+De aceea noi pe braţul Tău
+Vrem să-i lăsăm.
+
+[s2]
+Privind la omul ce-ai creiat
+Minune ce nu s-a văzut
+Dar dincolo-n necunoscut
+Iubirea Tu ai pus în ei
+Şi azi i-uneşte pe aceşti doi.
+Iubirea Ta ia-mbrăţişat
+Pe-o cale-n viaţa ia-ndreptat
+Şi nicicând nu le va fi greu
+Purtând în suflet dorul tău
+Iubirea e din Dumnezeu.
+
+[order]
+s1,r1,s2,r1

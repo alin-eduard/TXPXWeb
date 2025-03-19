@@ -1,0 +1,32 @@
+[s1]
+A câta oară viaţa lui Hristos
+Aşterne iarăşi flori pe ramuri verzi
+Şi cântă rândunelele perechi
+Iar tu rămâi tot mort, tot nesupus?
+A câta oară slava lui Isus
+Aduce iar zambile şi cicori
+Un rai ce-mparte veşnic noi fiori
+Iar tu rămâi tot crunt, tot nesupus?
+
+[s2]
+A câta oară spunem c-a-nviat
+Şi El, Cel viu, în zbor de ciocârlii
+Te-aşteaptă azi între ai Săi să vii
+Iar tu tot porţi povara de păcat ?
+A câta oară în lumini de gând
+El vine azi ca vântul între brazi
+Şi tu nu strigi <Rabuni !> şi nu cazi
+Ca să-I cuprinzi picioarele plângând ?
+
+[s3]
+A câta oară seara spre amurg
+Tu vezi către Emaus un străin
+Un om ciudat cu chip de lacrimi plin
+Şi nu ştii pentru cine I se scurg ?
+A câta oară în cămara ta
+Prin uşa ferecată cu zăvor
+Străbate iar divinul Salvator
+Şi tu nici măcar nu-L întrebi ce vrea ?
+
+[order]
+s1,s2,s3

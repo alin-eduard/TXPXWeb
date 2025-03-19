@@ -1,0 +1,25 @@
+[s1]
+O, Isuse, Tu din slavă ai venit
+Şi pe noi în grea robie ne-ai găsit
+/:Cu sânge preţul nostru ai plătit
+O, Isuse, si aceasta numai
+Fiindcă ne-ai iubit.:/
+Re M
+
+[s2]
+Pace, har şi bucurie-n Duhul Sfânt
+Ai lăsat din plin să curgă pe Pământ
+/: Iar noi cei mici,
+Săraci şi ne-nsemnaţi
+O, Isuse, am ajuns
+prin harul Tau sa fim  bogaţi :/
+
+[s3]
+Calea noastră către cer, pe-acest pământ
+Este-ntocmai cum ai spus Tu prin Cuvânt.
+/: Pe calea Ta îngustă Te slujim,
+O, Isuse, şi cu dragoste
+din suflet Te mărim!
+
+[order]
+s1,s2,s3

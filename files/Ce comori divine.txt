@@ -1,0 +1,29 @@
+[s1]
+Ce comori divine
+Am găsit în Tine, o, Isus, iubit;
+Sufletul meu, Doamne,
+Numai lângă Tine este fericit.
+Sunt al Tău, o, Domnul meu,
+Nu­Ţi ascunde faţa sfântă,
+Mă binecuvântă.
+
+[s2]
+Ţine-mă în braţe
+Şi mă ocroteşte de duşmanii mei.
+Lumea se frământă, dar Isus
+M­ajută când vin norii grei.
+Iadul vrea pierzarea mea
+Dar oricât Satan răcneşte
+Domnul mă păzeşte.
+
+[s3]
+Tu alungi tristeţea
+Cu a Ta blândeţe, o, Păstor divin
+Când furtuna vine,cei ce cred
+În Tine, pace au deplin.
+În dureri şi­n încercări,
+Doamne, ce comori divine
+Eu găsesc în Tine!
+
+[order]
+s1,s2,s3

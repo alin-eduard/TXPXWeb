@@ -1,0 +1,54 @@
+[s1]
+/: Nu e timp mai minunat :/
+Ca vremea copilariei
+/: Langa mama alintat :/
+Si la masa bucurie
+
+[r1]
+Mama buna Mama mea
+Alinare in clipa grea
+/: Mama mea :/
+Tu esti darul minunat
+Insusi Domnul mi te’a dat
+El sa fie, laudat!
+
+[s2]
+/: Ce frumos era demult :/
+La casuta parinteasca
+/: Cantecul sa ti-l ascult :/
+Despre Patria Cereasca
+
+[s3]
+/: Astazi Mama iti aduc :/
+Flori si lacrimi de iubire
+/: Pentru tot ce ai facut :/
+O adanca multumire
+
+[s4]
+Mama, tu mi’ai fost mereu
+Stalp puternic de acorare
+Si mi’ai aratat in greu
+Dragoste nespus de mare
+De la leaganul micut
+Pana la primii pasi in soare
+De la plansul din patut
+Pana am ajuns om mare
+Ochii tai blanzi si duiosi
+M’au vegheat fara’ncetare
+Ochii tai blanzi si duiosi.
+
+[s5]
+M’au vegheat fara’ncetare
+Ochi de mama, ochi milosi
+O ce binecuvantare
+Mama draga! Mama mea!
+Soare bland al diminetii
+Langa noi sa fim am vrea
+Pana la sfarsitul vietii
+Iar de’or fi sa pleci candva
+Sus la Domnul in vesnicie
+Amintirea iti vom pastra
+Cu iubire mereu vie.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,s5

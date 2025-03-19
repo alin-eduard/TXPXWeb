@@ -1,0 +1,28 @@
+[s1]
+O viaţă în păcate am trăit
+pe-acest Pămînt
+Anii mei zbuciumaţi
+şi plini de-amar.
+Fără Tine, o, Doamne,
+bucurii eu ştiu, nu sînt
+Azi mă-ntorc, astăzi vin
+la-l Tău Cuvînt.
+
+[r1]
+/: Doamne, Tu cercetează-mă-acum
+Cercetează-mi viaţa, sufletul !
+Astăzi vin să-Ţi predau inima mea
+Azi Te rog să dispui Tu de ea ! :/
+
+[s2]
+Tot ce am, am de la Tine
+şi ce sînt prin Tine sînt
+Şi cu totul sînt prin Tine,
+Domnul meu!
+Tu lucrează, o, Doamne,
+Tu vorbeşte-mi acum
+Doamne, vreau ca să fiu
+pe placul Tău!
+
+[order]
+s1,r1,s2,r1

@@ -1,0 +1,28 @@
+[s1]
+Pentru marea Ta iubire
+Pentru bunătatea Ta
+Pentru pacea Ta adîncă
+Şi mîngîierea mea
+Pentru binecuvîntarea
+Ce în părtăşii primesc
+Pentru toate acuma, Doamne
+Vreau să-Ţi mulţumesc.
+
+[r1]
+Lauda Ta o voi cînta
+Laudă Îţi voi cînta !
+Îmi ridic mîinile spre ceruri
+Şi Te voi lăuda !
+
+[s2]
+Numai Numele lui Isus
+Este vrednic de lăudat
+Să ştie toată lumea
+Că El m-a salvat
+Şi-n curînd pe norii cerului
+În splendoare va veni
+Căci ceea ce-a spus El
+Sigur se va împlini.
+
+[order]
+s1,r1,s2,r1

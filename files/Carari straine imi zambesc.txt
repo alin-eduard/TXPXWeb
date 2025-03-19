@@ -1,0 +1,20 @@
+[s1]
+Cărari străine îmi zâmbesc
+Te caut pe ele dar nu te găsesc
+Dincolo de lume vreau să privesc
+La chipul Tău drag eu mă gândesc
+
+[r1]
+Am nevoie de lumina Ta
+Numai Tu întorci privirea mea
+Lumea toată de s-ar clătina
+Fii lângă mine, Te vreau pe Tine!
+
+[s2]
+Chipuri din lume îmi zâmbesc
+Mă mint că ele mă iubesc
+Departe de viaţă mă doresc
+Dar tot lângă Tine să fiu tânjesc
+
+[order]
+s1,r1,s2,r1

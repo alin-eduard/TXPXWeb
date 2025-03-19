@@ -1,0 +1,32 @@
+[r1]
+/:Izvorul:/ izvor de bucurii
+Îl port azi în suflet
+si nu-l mai pot opri
+Multi nu ma-nteleg azi
+dar eu nu pot tacea
+Izvor de lacrimi si de bucurii
+inunda viata mea
+
+[s1]
+De când urmez pe Isus
+Pe cale catre cer
+Pe buze am cântarea
+Si-L laud doar pe El
+
+[s2]
+/:Izvorul:/ izvor de bucurii
+Îl port azi în sufletâ
+si nu-l mai pot opri
+Multi nu ma-nteleg azi
+dar eu nu pot tacea
+Izvor de lacrimi si de bucurii
+inunda viata mea
+
+[s3]
+A zis Isus ca Duhul
+În inima primit
+Va curge ca izvorul
+Nu poate fi oprit
+
+[order]
+r1,s1,s2,s3,r1

@@ -1,0 +1,31 @@
+[s1]
+Fa M
+Ai plătit un preţ să-mi dai viaţă
+Să trăiesc prin har azi mântuit,
+N-am cuvinte Doamne să pot spune
+Cât de drag îmi eşti şi-s fericit.
+
+[r1]
+/: Voia Ta, nu voia mea
+Să se facă Doamne-n viaţa mea,
+Să trăiesc cum Tu doreşti
+O, Domnul meu.
+Toată roada Duhului Tău Sfânt
+Zi de zi s-o am pe-acest pământ,
+Lumină să răspândesc mereu
+În jurul meu. :/
+
+[s2]
+Numele mi-e scris în Cartea Vieţii
+Şi doresc Isus cu orice preţ,
+Să rămân statornic în credinţă
+Să Te laud şi să te slăvesc!
+
+[s3]
+Pacea Ta ce-ntrece orice lucru
+Cunoştinţa-ntregului pământ,
+S-o reverşi în inimă, Stăpâne
+Orice-ar fi, să pot mereu să-Ţi cânt.
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,33 @@
+[s1]
+1428
+Aştept o zi când Domnul Slavei
+Mă va lua cu El în cer
+Să fiu cu El o veşnicie
+În slava cerului etern.
+Cor.   /:Osana lui Isus:/
+Acela ce e viu în veci de veci
+Prin Tine noi trăim viaţă dobândim
+Căci mult Tu ne iubeşti:/
+
+[s2]
+Se va sfârşi durerea toată
+Cât pe pământ am suferit
+Pe veci necazul şi-ncercarea
+În cer cu Domnul s-a sfârşi.
+Cor.   /:Osana lui Isus:/
+Acela ce e viu în veci de veci
+Prin Tine noi trăim viaţă dobândim
+Căci mult Tu ne iubeşti:/
+
+[s3]
+Ne-om bucura cu toţi aceia
+Care pe Isus L-au slujit
+Ei au purtat ocara lumii
+Răbdând cu drag pân la sfârşit.
+Cor.   /:Osana lui Isus:/
+Acela ce e viu în veci de veci
+Prin Tine noi trăim viaţă dobândim
+Căci mult Tu ne iubeşti:/
+
+[order]
+s1,s2,s3

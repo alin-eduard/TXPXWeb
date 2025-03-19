@@ -1,0 +1,23 @@
+[s1]
+Eu în stele văd lucrarea Lui
+Prin vînt vorbeşte cu putere
+E Stăpîn peste mare şi uscat -
+Ce-nseamnă aceasta ?
+El a fost născut chiar într-un grajd
+Pentru noi pe cruce răstignit
+Isus pentru noi viaţa Şi-a dat
+Ce-nseamnă aceasta ?
+
+[s2]
+/: Eu, într-o zi cînd m-am întors
+Şi prin har pe Isus L-am găsit
+Am văzut că nu este doar un
+Dumnezeu îndepărtat,
+ce nu poate fi simţit.
+Acum e cu mine tot timpul
+Lumina Sa este cu mine
+M-ajută pe drumul cel drept -
+Pentru mine-i totul ! :/
+
+[order]
+s1,s2

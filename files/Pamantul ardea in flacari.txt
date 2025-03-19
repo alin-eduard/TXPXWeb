@@ -1,0 +1,35 @@
+[s1]
+Pămîntul ardea în flăcări
+Frică, spaimă era în lume
+Tu nu ai fost pregătit!
+Noaptea tancurile rulau
+Mame mureau, copiii erau singuri
+Tu nu ai fost pregătit!
+Isus ,nainte-a venit
+Dar nu te-a luat
+Căci n-ai fost pregătit!
+
+[s2]
+Foamete era în lume
+Munţii, oraşe se prăbuşeau
+Tu nu ai fost pregătit!
+Sînge şi moarte şi lacrimi
+Satan pe veci va fi încătuşat
+Tu nu ai fost pregătit!
+Isus ,nainte-a venit
+Dar nu te-a luat
+Căci n-ai fost pregătit!
+
+[s3]
+Atunci vei vrea să fugi, să mori
+Dar vei trece-ntr-un iad chinuitor
+Căci nu ai fost pregăti!
+Vei striga la Dumnezeu
+Vei dori milă, dar nu va mai fi
+Căci nu ai fost pregătit!
+Isus ,nainte-a venit
+Dar nu te-a luat
+Căci n-ai fost pregătit!
+
+[order]
+s1,s2,s3

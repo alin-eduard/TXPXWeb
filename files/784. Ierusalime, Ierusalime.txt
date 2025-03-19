@@ -1,0 +1,102 @@
+[s1]
+1. Ierusalime, Ierusalime
+Mult am plâns eu pentru tine
+/: Mult am plâns şi am suspinat
+Dar Tu nu mai ascultat
+O, o, vai, Ierusalime :/.
+784.
+
+[s2]
+2. În templu când am intrat
+Scriptura Te-am învăţat
+Contra mea te-ai răzvrătit
+Ne-ncetat m-ai prigonit
+O, o, vai, Ierusalime.
+
+[s3]
+3. Ierusalime, Ierusalime
+Mult am plâns eu pentru tine
+Mult am plâns şi-am suspinat
+La moarte m-ai condamnat
+O, o, vai, Ierusalime.
+
+[s4]
+4. Ai făcut o cruce mare
+Şi mi-ai pus-o în spinare
+Crucea era foarte grea
+Şi nelegiuirea ta
+O, o, vai, Ierusalime.
+
+[s5]
+5. Picioarele mă dureau
+Mijlocul mi se frângea
+Mijlocul mi se frângea
+Sub a crucii povara grea
+O, o, vai, Ierusalime.
+
+[s6]
+6. Pe Golgota când am ajuns
+Eram foarte obosit
+Acolo când am ajuns
+M-am pus jos şi mult am plâns
+O, o, vai, Ierusalime.
+
+[s7]
+7. Ostaşii îşi băteau joc
+Şi L-au pus pe El la mijloc
+L-au bătut şi L-au scuipat
+Zicând că e împărat
+O, o, vai, Ierusalime.
+
+[s8]
+8. Eu de plâns nu am mai plâns
+Şi pe cruce m-am întins
+Piroanele îmi băteau
+Palmele îmi străpungeau
+O, o, vai, Ierusalime.
+
+[s9]
+9. Au strigat cu toţi în glas
+La moarte că-s vinovat
+Iarăşi au strigat cu toţi
+Să-i daţi cămaşa la sorţi
+O, o, vai, Ierusalime.
+
+[s10]
+10. Crucea sus o ridicară
+/: Trupul greu îmi atârnară :/
+Mâinile îmi spintecară
+O, o, vai, Ierusalime.
+11. Iar un mare fariseu
+Striga la mine mereu
+Dacă eşti Isus Hristos
+Dă-te de pe cruce jos
+O, o, vai, Ierusalime.
+
+[s11]
+12. Şi când Duhul mi l-am dat
+/: Soarele s-a-ntunecat :/
+Pământul s-a cutremurat
+O, o, vai, Ierusalime.
+13. Abia atunci au zis ei
+Că sunt Fiu de Dumnezeu
+Mult am plâns şi am suspinat
+Nimeni nu m-a ajutat
+O, o, vai, Ierusalime.
+
+[s12]
+14. De aceea iubit frate
+Nu umbla pe căi deşarte
+Vino azi şi te căieşte
+Plânge şi te pocăieşte
+O, o, vai, Ierusalime.
+
+[s13]
+15. Pocăinţă de nu ai
+Tu nu vei intra în Rai
+Dar dacă te pocăieşti
+Cu Mine împărăţeşti
+O, o, vai, Ierusalime.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12,s13

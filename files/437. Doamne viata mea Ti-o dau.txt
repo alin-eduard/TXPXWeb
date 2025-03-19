@@ -1,0 +1,47 @@
+[s1]
+1.Doamne viaţa
+mea Ţi-o dau
+Pe deplin eu mă predau
+Mă condu Tu pas cu pas
+Ziua noaptea-n orice ceas.
+437.
+
+[r1]
+Cor:Toată energia mea
+Pun la dispoziţia Ta
+Inima-mi umple de foc
+Asta Doamne eu te rog.
+
+[s2]
+2.Ale mele mâini le ia
+Să lucreze-n via Ta
+Şi picioarele la fel
+Să-Ţi urmeze
+ca un miel.
+
+[s3]
+3.Glasul meu sfinţeşte-l Tu
+Să-ţi servească cu dor viu
+Limpezeşte-l, fă-l curat
+Ca să-ţi cânte ne-ncetat.
+
+[s4]
+4.Libertatea-mi Ţi-o jertfesc
+Tot ce-i scump Îţi dăruiesc
+Mintea-mi va gândi mereu
+Ne-ncetat la lucrul Tău.
+
+[s5]
+5.Aurul şi argintul
+Inima şi sufletul
+Ia-le-n stăpânirea Ta
+Unde singur vei trona.
+
+[s6]
+6.Doamne eu te rog acum
+Neavând nimic mai bun
+Să primeşti iubirea mea
+Ca în veci să fie a Ta.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1,s5,r1,s6,r1

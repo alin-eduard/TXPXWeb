@@ -1,0 +1,41 @@
+[r1]
+Din aur curat e inelul meu
+Din aur curat comoară-n cer am eu
+Pe aur curat curînd eu voi călca
+Dacă aici eu plin de rîvnă voi lucra.
+
+[s1]
+Trupul meu nu-i vas de preţ,
+însă Domnu-un plan măreţ
+Pentru mine a întocmit în cerul sfînt:
+Pe Isus El L-a trimis
+să mă smulgă din abis
+Şi acum fericit eu Îi cînt.
+
+[s2]
+Tinereţea mea ca dar
+am pus-o Domnului pe-altar
+Că doresc Lui să-I slujesc
+pînă la mormînt.
+Vreau curat ca şi un crin
+să stau pe braţul divin
+Căci numai Isus mi-a dat
+din Duhul Sfînt.
+
+[s3]
+Uneori ne întristăm
+cînd în încercare stăm
+Şi ne plîngem:
+Crucea-i grea, nu mai putem!
+Însă poate am uitat
+că şi Domnul a răbdat
+Şi noi trebuie să răbdăm la fel.
+
+[s4]
+Vrea aur curat din mine Dumnezeu
+Vrea aur curat în cer, în raiul Său
+Pe aur curat curînd toţi vom călca
+Dacă aici noi plini de rîvnă vom lucra.
+
+[order]
+r1,s1,r1,s2,r1,s3,s4

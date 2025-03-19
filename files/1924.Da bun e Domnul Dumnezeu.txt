@@ -1,0 +1,38 @@
+[s1]
+1924
+1. Da bun e Domnul Dumnezeu
+Cu acei cu inima curată
+/: Chiar de alunec uneori
+Când vin furtuni și negrii nori
+Cu El nu cadem nici o dată :/.
+
+[s2]
+2. Când la  cei răi ades priveam
+Și le vedeam eu fericirea
+Ziceam degeaba m-am trudit
+Și inima mi-am curățit
+Căci m-a ajuns nenorocirea.
+
+[s3]
+3. Dar Doamne atunci am înțeles
+Căci totuș este o răsplată
+Căci toți cei răi sunt nimiciți
+Și într-o clipă doborâți
+Pe toți pierzarea îi așteaptă
+
+[s4]
+4. Dar toată fericirea mea
+E să mă apropii de Tine
+Din Tine fac loc de adăpost
+Și spun la toți ce bun ai fost
+O Doamne Domnul e cu mine.
+
+[s5]
+5. Chiar carnea și inima mea
+Pot să mi se prăpădească
+/: Tu vei fi pururi Stânca mea
+Cu Tine mă voi lăuda
+Și aici și-n slava Ta cerească :/.
+
+[order]
+s1,s2,s3,s4,s5

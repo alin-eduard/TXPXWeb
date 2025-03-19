@@ -1,0 +1,32 @@
+[s1]
+Daţi-ne-n mână Biblia cea sfântă
+Ea ne mângâie în orice nevoi,
+Nimeni nu poate stinge-a ei lumină
+De când Isus murit-a pentru noi.
+
+[r1]
+Daţi-mi lumina din Scriptura Sfântă
+Daţi-ne al ei vers melodios,
+Legea, Profeţii şi-ntreaga Scriptură
+E tot ce ne-a rămas de la Hristos.
+
+[s2]
+Daţi-ne-n mână Biblia cea sfântă
+Prin care Domnul ne-a făgăduit
+Că El va stinge tot ce ne frământă,
+Tot ce-amărăşte-un suflet obidit.
+
+[s3]
+Daţi-mi Scriptura, ea ne protejează
+Contra vrăjmaşului înverşunat,
+Veşnic în versu-i adevăr tronează
+Şi-o Lege ce nicicând nu s-a schimbat.
+
+[s4]
+Daţi-mi Scriptura, călăuza vieţii,
+Ea ne conduce la oraşul sfânt
+Ea ne susţine flacăra credinţei
+Că pe Isus Îl vom vedea curând.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

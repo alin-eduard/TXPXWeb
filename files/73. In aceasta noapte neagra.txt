@@ -1,0 +1,45 @@
+[s1]
+73.
+1. În această noapte neagră
+În care fost-am cufundaţi
+Eram robiţi în întuneric
+Legaţi în lanţul de păcat.
+
+[s2]
+2. Dar fost-am şi eu altădată
+În acest lanţ ucigător
+Dar înainte de a mă prinde
+Aflat-am un Mântuitor.
+
+[s3]
+3. Ce chinuit în lumea-ntreagă
+Se zbate bietul muritor
+Să-şi strângă pentru veşnicie
+Dureri şi chin îngrozitor.
+
+[s4]
+4. Eu în această noapte neagră
+Înaintam mereu mereu
+Până o mână nevăzută
+Ma-ntors 'napoi din drumul meu
+
+[s5]
+5. Era o mână găurită
+Ce pentru mine a sângerat
+Era pe cruce răstignită
+Da mâna aceasta m-a salvat.
+
+[s6]
+6. Era Mântuitorul însuşi
+Cu al Său braţ mângâietor
+Cu al Său glas duios şi dulce
+Ce dă viaţă tuturor.
+
+[s7]
+7. Acum Îţi mulţumesc Părinte
+Pentru această cale bună
+Pe care Tu m-ai aşezat
+Ca să păşesc spre o cunună.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

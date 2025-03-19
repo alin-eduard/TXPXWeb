@@ -1,0 +1,30 @@
+[s1]
+Doamne, câtă fericire,
+Câtă pace am primit,
+Câtă sfântă ocrotire
+De la Tine, Doamne Sfânt...
+
+[r1]
+/: Cuvinte n-am de-ajuns
+Să pot să-Ţi mulţumesc
+Că-n suflet mi-ai sădit
+Al Tău Cuvânt;
+Din grele strâmtorări,
+Doar harul Tău ceresc
+M-a scos şi m-a-ntărit,
+Să-Ţi cânt. :/
+
+[s2]
+Când eram zdrobit pe cale
+Şi când toţi m-au părăsit,
+Tu ai fost a mea salvare,
+Tu, cu fapta, m-ai iubit.
+
+[s3]
+Mâna Ta a fost cu mine,
+Pretutindeni în nevoi;
+M-a condus mereu cu bine,
+Dându-mi iar speranţe noi.
+
+[order]
+s1,r1,s2,r1,s3,r1

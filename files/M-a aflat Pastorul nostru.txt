@@ -1,0 +1,32 @@
+[s1]
+M-a aflat Păstorul nostru
+Şi pe braţele-I m-a pus;
+Din adâncu-ntunecimii
+La lumină m-a adus.
+Aleluia, Aleluia,
+Ţie-Ţi cânt Isus iubit,
+Căci eram pierdut de turmă
+Însă Tu m-ai mântuit
+
+[s2]
+Ca bun Medic, vindecare
+Mi-ai adus în mari dureri!
+M-ai hrănit cu-ndestulare
+Ca din nou să am puteri!
+Aleluia, Aleluia,
+Ţie-Ţi cânt Isus iubit,
+Căci eram pierdut de turmă
+Însă Tu m-ai mântuit
+
+[s3]
+Azi, spălat de orice vină,
+Am un viitor frumos:
+Moştenire de lumină
+Veşnicia cu Hristos!
+Aleluia, Aleluia,
+Ţie-Ţi cânt Isus iubit,
+Căci eram pierdut de turmă
+Însă Tu m-ai mântuit
+
+[order]
+s1,s2,s3

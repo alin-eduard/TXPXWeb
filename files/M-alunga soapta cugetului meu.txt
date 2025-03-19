@@ -1,0 +1,38 @@
+[s1]
+M-alungă şoapta cugetului meu
+Că nu-L iubesc deplin pe Dumnezeu
+/: M-apasă faptele ce săvârşesc
+În sulul cărţii când mă oglindesc :/
+
+[s2]
+Mi-aşa de greu să-nalţ privirea-n sus
+Când văd din nou că roadă n-am adus
+/: M-alungă ne-nplinitele porunci
+Toate m-alungă dar tu nu m-alungi :/
+
+[s3]
+Sunt vremuri de când tot îmi I-au avânt
+Dar istovit cad iarăşi la pământ
+/: Neputinţe mereu mă copleşesc
+Sunt istovit dar tot nădăjduiesc :/
+
+[s4]
+Vin iar în faţa ta cu pumnii goi
+Şi nu mai vreau să privesc înapoi
+/: La firea ce mă trage la pământ
+Ia-mă Tu din nou şi-mi dă avânt :/
+
+[s5]
+Îmi ridic faţa către Tine mut
+Şi Te aştept să vii atât de mult
+/: Am zăbovit crezând că ceva sunt
+Dar astăzi văd ca nu-s decât pământ :/
+
+[s6]
+Isuse ia totul de la-nceput
+Dă-mi ochi să vadă cum n-am mai văzut
+/: Am obosit să tot privesc la min’
+Ştiu sunt nimic dar mă încred în Tin’ :/
+
+[order]
+s1,s2,s3,s4,s5,s6

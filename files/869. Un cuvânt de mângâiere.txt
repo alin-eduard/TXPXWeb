@@ -1,0 +1,43 @@
+[s1]
+869.
+1.   Un cuvânt de mângâiere
+Pentru a Domnului popor
+Ne spune Apostol Pavel
+Ne-ndeamnă ca să-i dăm zori.
+Cor:	Acolo sus, acolo sus
+Vom fi asemenea lui Isus
+Nu vă temeţi nu vă-nfricaţi
+La o clipă vom fi schimbaţi
+
+[s2]
+2.   El ne îndeamnă şi pe noi
+Să nu ne întristăm aici
+Orice piedici şi dureri
+Asta-i calea către cer.
+Cor:	Acolo sus, acolo sus
+Vom fi asemenea lui Isus
+Nu vă temeţi nu vă-nfricaţi
+La o clipă vom fi schimbaţi
+
+[s3]
+3.  S-avem cunoştinţă vie
+Despre cei ce în Hristos
+Cum s-a stins a lor viaţă
+Trăind un timp dureros.
+Cor:	Acolo sus, acolo sus
+Vom fi asemenea lui Isus
+Nu vă temeţi nu vă-nfricaţi
+La o clipă vom fi schimbaţi
+
+[s4]
+4.  El ne cheamă la o viaţă
+Ca să-I fim moştenitori
+În cereasca noastră casă
+Unde-om fi stăpânitori.
+Cor:	Acolo sus, acolo sus
+Vom fi asemenea lui Isus
+Nu vă temeţi nu vă-nfricaţi
+La o clipă vom fi schimbaţi
+
+[order]
+s1,s2,s3,s4

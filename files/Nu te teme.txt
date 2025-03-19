@@ -1,0 +1,33 @@
+[s1]
+Daca valurile vietii
+au lovit corabia ta
+Cand te-apasa intristarea
+Si iti plange inima
+
+[r1]
+Nu te teme
+Nu te teme nu te teme
+Domnul nu te va lasa
+Nu te teme nu te teme
+El este nadejdea ta
+
+[s2]
+Ca si ucenicii-n valuri
+cand au spus ca vor pieri
+Striga la Isus si Domnul
+marea o va linisti
+
+[r2]
+Domnul Isus te iubeste
+Si El e-n necazul tau
+Numai El te izbaveste
+fiindca este Dumnezeu
+
+[s3]
+Daca valurile lumii
+se inalta tot mai sus
+Mai presus de orice forta
+e puterea Lui Isus
+
+[order]
+s1,r1,s2,r1,r2,r1,s3,r1,r2,r1

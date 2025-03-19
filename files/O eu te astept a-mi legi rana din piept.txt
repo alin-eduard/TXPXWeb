@@ -1,0 +1,46 @@
+[s1]
+O, eu te aştept
+Să-mi legi rana din piept
+Bunul meu samaritean
+Cum sunt în starea mea
+Tu mă vei vindeca
+Căci numai Tu
+Îmi eşti salvarea mea
+
+[r1]
+/: Eu te aştept Isuse
+Eu te aştept cu dor
+Să vii cât mai degrabă
+O, Scump Mântuitor
+Ca să sfârşim odată
+Cu lupta pe pământ
+O, vino Isus Doamne
+O, vino mai curând :/
+
+[s2]
+Sunt mulţi pe-acest pămănt
+Ce te-aşteaptă plângând
+Spunând că nu mai pot răbda
+Te cheamă-n ajutor
+Ca nu-i aşa uşor
+Să-I întăreşti pe calea Ta.
+
+[s3]
+Pe cale merg plângând
+Şi-n inima oftând
+Dar toate ştim
+Că vor trecea
+Căci timpu-i pe sfârşit
+O,vino mai curând
+O,vino nu ne mai lăsa.
+
+[s4]
+De când Te-ai înălţat
+În cerul minunat
+Ai tăi copii te-aşteaptă neincetat
+Căci ştim că vei veni
+Să-ţi iei ai tăi copii
+Să-i duci cu Tine în veşnicii.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

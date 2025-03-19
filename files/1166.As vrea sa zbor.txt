@@ -1,0 +1,29 @@
+[s1]
+1.Eşti, tu, gata
+De plecare?,
+-DA, Domnul meu!
+Şi veghezi în aşteptare?,
+-DA, Domnul meu!
+1166. 									      D
+
+[r1]
+Aş vrea să zbor!
+Aş vrea să zbor!
+Mai sus de nori,
+Să mă-ntâlnesc cu El,
+Aş  vrea să zbor!
+
+[s2]
+2.Ai lăsat, tu, totul, oare?
+-DA, Domnul meu!
+Şi veghezi în aşteptare?
+-DA, Domnul meu!
+
+[s3]
+3.În curând, în fericire,
+Îl vom vedea
+Şi cu Domnul, în mărire,
+Noi vom cânta.
+
+[order]
+s1,r1,s2,r1,s3,r1

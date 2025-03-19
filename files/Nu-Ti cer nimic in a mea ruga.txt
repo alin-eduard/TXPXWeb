@@ -1,0 +1,39 @@
+[s1]
+Nu-Ti cer nimic in a mea ruga
+Cand vin naintea Ta Isus
+Ci doar ca o umila sluga
+M-aplec adanc smerit, supus
+Nu-Ti cer averi, nici bogatie
+Nici faima si nici altceva
+Vreau doar cereasca-mparatie
+Si Harul Tau de-apururea
+
+[r1]
+Nu-Ti cer nimc, nimic Isus
+Ci doar sa merg precum ai spus
+Ajuta-ma Te rog as vrea
+Ca in toate sa-mplinesc,
+Sa-mplinesc doar voia TA
+
+[s2]
+Nu-Ti cer nimic in asta lume
+Decat alaturi sa Te am
+Si cand m-aplec in rugaciune
+Sa simt al cerului balsam
+Nu-Ti cer nimic ce omenirea
+Arunca astazi pe pamant
+Ci vreau o Doamne mantuirea
+Si bucuria , Duhul Sfant
+
+[s3]
+Nimic, nimic nu vreau din toate
+Ce ma izbeste in priviri
+Doresc doar vesnica cetate
+Si-a slavei Tale straluciri
+Sa simt cum Tu ma tii de mana
+Si grija mea o porti mereu
+Si in dureri cum ma alina
+Iubirea Ta de Dumnezeu
+
+[order]
+s1,r1,s2,r1,s3,r1

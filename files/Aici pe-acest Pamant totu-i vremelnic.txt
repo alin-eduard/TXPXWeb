@@ -1,0 +1,62 @@
+[s1]
+Aici pe-acest Pămant totu-i vremelnic
+Şi totul are-n lume un sfîrşit.
+De ce ţi-e pasul trist şi şovăielnic
+Şi sufletul atît de obosit ?
+
+[s2]
+E dintre toate drumul cel mai greu
+Doar ai ştiut că drumul vieţii sfinte
+De l-ai ales, atunci mergi înainte
+Prin toate greutăţile mereu.
+
+[s3]
+De ce te văd cu ochii plini de lacrimi
+Descurajat, privind mai mult în jos
+Şi nu la cruce, unde nu sînt patimi
+Unde durere nu-i, unde-i Hristos ?
+
+[s4]
+Doar ai ştiut cînd ai pornit pe cale
+Că drumu-i lung şi oamenii sînt răi
+Şi străbătînd a umbrei morţii vale
+Vor creşte spinii deşi sub paşii tăi.
+
+[s5]
+De ce te plîngi sub vorbele de-ocară
+Chiar dacă nu duşmanii ţi le-au spus?
+De ce te plîngi adesea sub povară
+Şi te opreşti, în loc să mergi în sus ?
+
+[s6]
+Doar ai ştiut că vei avea o cruce
+Şi vei cădea purtînd-o spre Calvar.
+Ştiai că nimeni altul n-o va duce
+Să-ţi uşureze chinul tău amar.
+
+[s7]
+De ce ai parcă mainile legate
+Şi nu mai faci nici lucrul cel mai mic?
+Lucrările ţi-au fost cumva stricate ?
+De ce-n viaţă n-ai făcut nimic ?
+
+[s8]
+Doar ai ştiut că în a ta lucrare
+Cu pietre vor zvîrli duşmanii tăi
+Şi chiar de-ar fi în praf să ţi-o doboare
+Ridic-o iar şi iar fă tot ce poţi.
+
+[s9]
+Şi nu privi cu ochii plini de jale
+Cărarea ce în urmă ţi-a rămas
+Tot înainte-i drumul vieţii tale
+Păşeşte-l cu credinţă, pas cu pas.
+
+[s10]
+Fiindcă ştii că după frămîntarea
+Şi după ostenelile de-acum
+Te-aşteaptă colo-n ceruri sărbătoarea
+Cununa ta şi capătul de drum.
+
+[order]
+s1,s2,s3,s4,s5,s6,s7,s8,s9,s10

@@ -1,0 +1,45 @@
+[s1]
+2267.           La
+1.  /:Mare e Domnul meu:/
+Mare şi puternic,
+De iubire vrednic,
+Mare e Domnul meu.
+
+[s2]
+2. /:Mare e Domnul meu:/
+Plin de îndurare,
+Gata de iertare,
+Mare e Domnul meu!
+
+[s3]
+3. /:Mare e Domnul meu:/
+Plin de bunătate
+Şi bogat în toate,
+Ce mare-i Domnul meu!
+
+[s4]
+4. /:Ce mare-i Domnul meu:/
+Plin și de blândeţe,
+Har şi frumuseţe,
+Ce mare-i Domnul meu!
+
+[s5]
+5. /:Ce mare-i Domnul meu:/
+Medic fără plată,
+Dumnezeu şi Tată,
+Mare e Domnul meu.
+
+[s6]
+6./:Ce mare-i Domnul meu:/
+Mută chiar şi munţii,
+Înviază morţii,
+Aşa e Domnul meu!
+
+[s7]
+7. /:Acesta-i Dumnezeu:/
+Vrednic de-nchinare
+Şi de ascultare,
+Acesta-i Domnul meu!
+
+[order]
+s1,s2,s3,s4,s5,s6,s7

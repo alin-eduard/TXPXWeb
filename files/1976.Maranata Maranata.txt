@@ -1,0 +1,39 @@
+[s1]
+1976
+1. Maranata Maranata
+Domnul nostru vine
+Eşti tu gata eşti tu gata
+Să-L întâmpini bine.
+
+[s2]
+2. Maranata Maranata
+Soarele răsare
+Eşti tu gata eşti tu gata
+Stai în aşteptare.
+
+[s3]
+3. Maranata Maranata
+Vremea e sosită
+Eşti tu gata eşti tu gata
+Candela-i gătită.
+
+[s4]
+4. Maranata Maranata
+Ultima strigare
+Eşti tu gata eşti tu gata
+Cum te afli oare.
+
+[s5]
+5. Maranata Maranata
+Ce gând te frământă
+Ştii că-ncepe judecata
+Dela casa sfântă.
+
+[s6]
+6. Maranata Maranata
+Azi te pregăteşte
+Să fii gata să fii gata
+Căci Isus soseşte.
+
+[order]
+s1,s2,s3,s4,s5,s6

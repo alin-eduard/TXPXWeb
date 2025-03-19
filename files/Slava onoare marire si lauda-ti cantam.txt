@@ -1,0 +1,47 @@
+[s1]
+Slavă, onoare, mărire
+şi laudă-ţi cântăm
+Domnul Slavei
+Sufletul nostru se-nchină şi inima-Ţi cântă Slava Ta
+
+[s2]
+/: În veci de veci
+Adevărul Tău va domni
+Eşti Dumnezeu
+de aceea cu toţii în cor da!
+Slavă, onoare mărire
+şi laudă-Ţi cântam :/
+
+[s3]
+Cântec de slavă
+şi de mulţumire
+Să-I dăm Domnului Isus,
+O rugă sfântă
+şi-o viaţă plăcută
+S-avem în orice zi.
+
+[s4]
+El ne-a salvat din lanţul
+cel greu de păcat,
+Ne-a mântuit,
+şi dragostea Lui am primit,
+Cântec de slavă
+şi de mulţumire să-I dăm.
+
+[s5]
+Ce mare har şi ce mare iubire
+Isus ne-a adus din cer,
+Câtă lumină, şi pace,
+şi-odihnă,
+La El noi am primit.
+
+[s6]
+Vino şi tu,
+să vezi cât e de minunat,
+Să nu spui „Nu!”
+celui ce e-al lumii-Mpărat,
+Vino şi-ascultă,
+primeşte-L în inima ta!
+
+[order]
+s1,s2,s3,s4,s5,s6

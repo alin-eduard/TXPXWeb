@@ -1,0 +1,42 @@
+[s1]
+Astăzi nu mai sunt minuni!
+Lumea va striga.
+Oare astăzi pe Pământ
+Se mai pot afla?
+Noi credem însă în minuni,
+Cum Isus ne-a-nvăţat
+Căci Dumnezeul dragostei
+Acelaşi este-n veac.
+
+[s2]
+El rămâne în veci
+Ca şi ieri, ca şi azi
+Braţul Său printre noi
+Făptuieşte minuni.
+Dumnezeu neschimbat
+Pe Pământ a lucrat
+Îndoială să n-ai
+Domnul nu va-nceta!
+
+[s3]
+Drumul tău pe-acest Pământ
+Plin de dureri ar fi
+Insa Isus le-a purtat
+Şi-n locul tău muri.
+Preda-ti deci viaţa-n mâna Lui
+Şi atunci tu vei vedea
+Caci Cel ce e din veci la fel
+În veci va rămânea!
+
+[s4]
+Domnul fi-va în veci
+Ca şi ieri, ca şi azi
+Braţul Său printre noi
+Făptui-va minuni.
+Dumnezeu neschimbat
+Pe Pământ va lucra
+Îndoială să n-ai
+Domnul nu va-nceta!
+
+[order]
+s1,s2,s3,s4

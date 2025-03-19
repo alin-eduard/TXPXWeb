@@ -1,0 +1,32 @@
+[s1]
+/: Mai este mult strajer din noapte,
+Din noaptea de-ncercare grea?
+Mi-e dor de clipa diminetii,
+/: Ca asteptarea-i tot mai grea. :/ :/
+
+[r1]
+/: Până vin zorii voi aștepta
+Isuse drag venirea Ta,
+Hainele albe vreau să-mi păstrez
+Pân-ai să vii am să veghez. :/
+
+[s2]
+/: Mai este mult străjer din noapte,
+Că zorile nu mai sosesc,
+Nu vreau să mă prindă somnul,
+/:Pe Mire vreau să-l întâlnesc. :/ :/
+
+[s3]
+/: Mai este mult străjer din noapte,
+Că sunt atât de obosit,
+Nu vreau să stau în neveghere,
+/: Când vine Mirele iubit. :/ :/
+
+[s4]
+/: Mai este mult străjer din noapte,
+Să-mi cânt cântarea mea de dor,
+Mai sus de galaxii și stele,
+/: Va fi o turmă și-un păstor. :/ :/
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

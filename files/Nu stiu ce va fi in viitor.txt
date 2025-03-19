@@ -1,0 +1,26 @@
+[s1]
+Nu ştiu ce va fi în viitor,
+Prin câte, Doamne, am să trec,
+Nu ştiu ce va fi ziua de mâine,
+Ca Doamne-n rugăciune să Te chem.
+
+[r1]
+Eliberează-mă în Numele Tău,
+Las’ al Tău sânge să curgă peste mine,
+Să fiu liber acum, să-Ţi cânt neîncetat,
+Să fiu al Tău cu-adevărat.
+
+[s2]
+Păcatul greu, o, Doamne, mă apasă,
+Sunt prins în cătuşa grea de fier
+Lumea din jur mă osândeşte,
+Dar, Doamne, vreau acum ca să Te chem.
+
+[s3]
+Ajută-mă să Te slujesc,
+Ca Numele Tău să-L vestesc
+Să spun la toţi ce ai făcut în viaţa mea,
+Când Tu păcatul, Doamne, mi-ai ridicat.
+
+[order]
+s1,r1,s2,r1,s3,r1

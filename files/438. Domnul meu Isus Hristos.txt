@@ -1,0 +1,39 @@
+[s1]
+438.
+1.Domnul meu Isus Hristos
+Pentru mine un păcătos
+Dragostea Ţi-ai arătat
+Când pe cruce ai fost 'nălţat.
+
+[s2]
+2.Vreau din plin s-arăt şi eu
+Dragostea mereu, mereu
+Nu prin vorbă şi prin gând
+Ci prin jertfă şi lucrând.
+
+[s3]
+3.Domnul meu Isus iubit
+Tu pe mine m-ai primit
+Când eram vrăjmaşul Tău
+Răzvrătit, viclean şi rău.
+
+[s4]
+4.Vreau ca Tine să iubesc
+Pe acei ce mă urăsc
+Dă-mi Tu haru’ acesta sfânt
+Şi în fapte şi în cuvânt.
+
+[s5]
+5.Domnul meu prea bun Păstor
+Ai aprins în mine-un dor
+Pentru veşnicul Tău cer
+Pentru cele ce nu pier.
+
+[s6]
+6.Vreau în dragoste s-aprind
+Pe toţi care-i văd pierind
+Şi-nspre harul Tău de sus
+Să-i îndrepţi, Isus, Isus.
+
+[order]
+s1,s2,s3,s4,s5,s6

@@ -1,0 +1,38 @@
+[s1]
+Glas de trambiti a sunat
+Ascultati, ascultati
+Glas din cer a rasunat
+Vine iar Isus.
+
+[s2]
+Ce dulce vestire
+Ascultati, ascultati
+E timp de trezire
+Vine iar Isus
+
+[s3]
+Glasul voi l-ati auzit
+Acultati, ascultati
+Rostul sau l-ati talmacit
+Vine iar Isus
+
+[s4]
+Dorinta iubita
+Ascultati, ascultati
+Va fi implinita
+Vine iar Isus
+
+[s5]
+Glas de trambiti au sunat
+Ascultati, ascultati
+Ceata sfanta s-adunat
+Vine iar Isus
+
+[s6]
+E glasul credintei
+Ascultati, ascultati
+Cantand biruintei
+Vine iar Isus vine iar Isus
+
+[order]
+s1,s2,s3,s4,s5,s6

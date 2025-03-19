@@ -1,0 +1,32 @@
+[s1]
+/: Când vezi că vine încercarea,
+şi te apasă-ngrijorarea.
+Când norii negri se ridică,
+tu nu cădea nu-ţi fie frică. :/
+
+[r1]
+/: Căci Domnul e de partea ta,
+de mână El te va lua.
+Orice necazuri vor veni,
+doar cu Isus vei birui. :/
+
+[s2]
+/: Când valuri bat în barca vieţii,
+şi eşti pe mare-n toiul nopţii.
+Când ţărmul e de neajuns,
+nu te-nfrica nu fi răpus. :/
+
+[s3]
+/: Când munţi şi dealuri vor apare,
+şi n-o să ai nici-o scăpare.
+Când vezi că greu-i tot mai greu,
+priveşte doar la Dumnezeu. :/
+
+[s4]
+/:Căci Domnul e de partea ta,
+de mână El te va lua.
+Orice necazuri vor veni,
+doar cu Isus vei birui.:/
+
+[order]
+s1,r1,s2,r1,s3,s4

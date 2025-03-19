@@ -1,0 +1,39 @@
+[s1]
+Sunt doar un pumn de ţărână,
+Ieşit din palmele Tale,
+Dar sunt şi o mică rază
+Ce vine din veşnicul Soare.
+Spre El mă-ntorc,
+Al meu Creator şi-I cânt:
+
+[r1]
+Un cântec din inima mea
+Pentru Împăratul împăraţilor,
+Cinste şi laudă-I voi da,
+E Domnul meu, Regele meu, Isus, Mesia
+Da, El e al meu Dumnezeu,
+Domn al domnilor şi Prinţ al păcii
+Cu tot ce am mă închin,
+Mă plec la tronu-I divin,
+Iar cântul meu se va înălţa
+Domnului meu, regelui meu
+Isus, Mesia, Salvatorul meu.
+
+[s2]
+Am fost creaţi după chipul Său,
+De aceea tânjim după El,
+A pus în noi dor de veşnicii,
+Nevoia de Dumnezeu
+Spre El mă-ntorc,
+Al meu Dumnezeu şi-I cânt:
+
+[s3]
+Azi, din adâncul inimii,
+Înalţ mulţumire mereu
+El calea spre ceruri mi-a deschis,
+El, Fiul lui Dumnezeu.
+Spre El mă-ntorc,
+Al meu Salvator şi-I cânt:
+
+[order]
+s1,r1,s2,r1,s3,r1

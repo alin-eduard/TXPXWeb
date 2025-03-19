@@ -1,0 +1,26 @@
+[s1]
+La Tine caut, Doamne, adăpost,
+Când sufletul mi-e singur şi mâhnit,
+Când de-îndoieli şi teamă-s chinuit,
+Şi viaţa fără Tine n-are rost...
+
+[r1]
+La umbra Ta-i alin şi mângâiere
+Fără Tine viaţa mea nu are rost,
+De nu încetez iubirea Ta a cere,
+E că doar ea prin Har, mi-e adăpost.
+
+[s2]
+La Tine caut Doamne înţelepciune
+Când gândul meu se zbuciumă din greu,
+Când mă apasă doar păcatul meu
+Şi viaţa fără Tine-i o genune.
+
+[s3]
+La Tine caut Doamne, liniştire
+Când dorul meu de Tine sângerează,
+Când amintirea din trecut e trează
+Şi nu mai am un dram de fericire.
+
+[order]
+s1,r1,s2,r1,s3,r1

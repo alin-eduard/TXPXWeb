@@ -1,0 +1,43 @@
+[s1]
+1.	În Marcu şaisprezece scrie
+Că multe semne vor însoţi
+Pe cei cu o credinţă vie
+Pe Domnul lor îl vor sluji.
+2.	În al Său nume draci vor scoate
+Din omul cel demonizat
+Căci prin credinţă, tot se poate!
+Va fi bolnavul vindecat.
+480.
+
+[s2]
+3.	Al doilea semn ca o minune
+În alte limbi ei vor vorbi,
+Ce Duhul Sfânt în ei va pune
+Atunci când ei Îl vor primi.
+4.	Ei, însăşi, mâinile vor pune
+Pe cei ce sunt bolnavi în pat,
+Prin rugăciunea lor fierbinte
+Va fi bolnavul vindecat.
+
+[s3]
+5.	Şi şerpi în mână de vor prinde
+Ei nu îi vor putea muşca
+Căci de credinţa lor deplină,
+Prin ea, ei nu-l vor vătăma.
+6.	Şi chiar otravă de va pune
+In neştiinţă ca să bea
+Pe ei nu-i va putea răpune
+Căci Domnul nu îi va lăsa.
+
+[s4]
+7.	Acum te-ntreb şi eu pe tine
+Tu, crezi cuvântul lui Isus?
+De nu, dezbracă-te de sine
+Şi vei primi puteri de sus.
+8.	Isus Hristos este acela
+Cuvântul Său nu s-a schimbat
+Promisiunea Lui e aceea
+Cei ce-au crezut s-au vindecat.
+
+[order]
+s1,s2,s3,s4

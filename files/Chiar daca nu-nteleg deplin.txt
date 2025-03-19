@@ -1,0 +1,32 @@
+[s1]
+Chiar dacă nu-nţeleg deplin
+Toată taina dragostei din crucea Lui
+Vreau să mă las purtat din plin
+Pe aripi de iubire din Iubirea Lui
+Aş vrea să seamăn cu El
+Prin iubirea Lui oricând
+În jurul meu să aştern .
+
+[s2]
+Iubirea Lui, desface lanţuri de păcat
+Când de poveri inima stă să se frângă
+Iubirea Lui poate să umple viaţa ta
+Chiar şi-n desert de-a cerului izvoare
+În Domnul meu ai totul deplin.
+
+[s3]
+Nu-s încercări şi nu-s dureri
+În care să nu simt mângâierea Lui
+Nu-s îndoieli şi nu-i suspin
+Să nu Îl simt prezent
+Lângă inima mea
+Cum aş putea să cuprind
+Iubirea Lui în viaţa mea
+Şi în mine s-adun frumuseţea Sa
+
+[s4]
+De dragul meu chiar porţile morţii a rupt
+Ca ceru-ntreg să-l poată lăsa în inima mea.
+
+[order]
+s1,s2,s3,s4

@@ -1,0 +1,14 @@
+[s1]
+Slavim pe Dumnezeu
+Parintele sfant
+Slavim pe Isus
+Mielul nostru cel bland
+
+[s2]
+Slavim si preamarim
+Pe Spiritul Sfant
+Izvor de-ndurare
+Si har pe pamant.
+
+[order]
+s1,s2

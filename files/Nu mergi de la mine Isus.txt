@@ -1,0 +1,38 @@
+[s1]
+Nu mergi de la mine Isus,
+Strigă inima
+Mila Ta reverşi spre alţii,
+Fă-mi şi mie-aşa.
+Isus, Isus, strigă inima,
+Spre altii versi mila de sus
+Fa-mi si mie asa
+
+[s2]
+Stâmpără-mă la al Tău tron
+Că-s îndurerat
+Vezi, aici stau cu căinţă
+Să fiu mângâiat.
+Isus, Isus, strigă inima,
+Mila Ta reverşi spre alţii,
+Fă-mi şi mie-aşa!
+
+[s3]
+Mă încred numai în Tine
+Stânca mea Tu eşti
+Lângă Tine-n toată vremea
+Eu mă odihnesc.
+Isus, Isus, strigă inima,
+Mila Ta reverşi spre alţii,
+Fă-mi şi mie-aşa!
+
+[s4]
+Eşti izvor de bucurie
+Orice vină ştergi
+Pacea Ta mi-o dai Tu mie
+Partea mea Tu eşti!
+Isus, Isus, strigă inima,
+Mila Ta reverşi spre alţii,
+Fă-mi şi mie-aşa!
+
+[order]
+s1,s2,s3,s4

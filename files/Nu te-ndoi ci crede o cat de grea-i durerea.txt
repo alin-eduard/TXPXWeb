@@ -1,0 +1,48 @@
+[s1]
+Nu te-ndoi ci crede
+Oricât de grea-i durerea
+Căci Domnul
+Te mai poate vindeca
+La El este puterea,
+La El e mângâierea
+El ştie cât de grea e boala ta
+
+[r1]
+/: E putere putere
+În Numele Isus,
+E iertare, iertare
+În sangele ce-a curs.
+E iubire, salvare
+Şi vindecare în dar,
+E putere în jertfa
+Din Calvar. :/
+
+[s2]
+Isus la scăldătoare
+A vindecat ologul
+Căci nimeni nu-I
+Venea în ajutor
+Şi azi are putere
+Şi azi întinde bratul
+Acel ce-a dat lumină orbilor
+
+[s3]
+A vindecat leproşii
+Chiar şi demonizaţii,
+El a adus salvare tuturor.
+Să ne unim cu toţii
+Să ne rugăm toţi fraţii
+Să mai coboare
+Domnul în popor.
+
+[s4]
+Nu te-ndoi ci crede,
+căci Domnul se îndura
+În Sângele cel Sfânt
+Ai fost spălat.
+Adu-ţi aminte astăzi
+Ce scrie în Scriptură
+Şi poţi pleca acasă vindecat
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

@@ -1,0 +1,67 @@
+[s1]
+1. Sus pe deal în chip ciudat
+Supt de priveghere
+Iată-L ţintuit pe lemn
+Omul de durere.
+Om deprins în suferinţi
+Vai, întoarce-ţi faţa
+Nu-L privi că te-nfiori
+I se scurge viaţa.
+743.
+
+[s2]
+2. Numai sânge, numai răni
+Ce păcate grele
+L-au adus între tâlhari
+Ce blestem să spele.
+Cum nu văd cei pricepuţi
+Doctorii, soborul
+Preoţi nu vedeţi în El
+Răscumpărătorul
+
+[s3]
+3. Azi când Tatăl pentru noi
+Fiul îşi jertfeşte
+Nu se aude nici un glas
+Dintre voi opreşte-l.
+Vai, acel ce ne-a creat
+Să ne poarte vina
+Orbi voi nu strigaţi destul
+El ne-a dat lumina
+
+[s4]
+4. Voi leproşi aţi şi uitat
+Trupul plin de sânge
+Dacă voi nu veţi striga
+Pietrele or să strige.
+Paturile-n care trişti
+Au zăcut ologii
+Colbu-n care aşteptau
+Orbii sinagogii.
+
+[s5]
+5. Cârjele rămase-n drum
+Pâinea în pustie
+Giulgiurile ce-au rămas
+Goale în sicrie.
+Cum să moară chiar Isus
+El cel fără pată
+Oare a mai iubit ca El
+Cineva vreodată.
+
+[s6]
+6. Cui şi-au mai plecat la piept
+Tâmpla ucenicii
+Cui i-au pus veşminte-n drum
+Fâlfâind finicii.
+Cui Maria i-a jertfit
+Lacrimi la picioare
+Înfioară-te pământ
+Strângeţi raza soare
+Eli Eli pentru ce
+Ţi-ai întors privirea
+Sunt un vierme nu un om
+M-a ajuns pieirea.
+
+[order]
+s1,s2,s3,s4,s5,s6

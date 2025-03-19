@@ -1,0 +1,22 @@
+[s1]
+/:Când eşti în necaz şi îţi este greu
+Şi eşti apăsat în sufletul tău
+Nu uita x2 :/
+
+[r1]
+/:Căci cei ce se încred în Domnul
+Vor avea putere din belsug
+Şi vor zbura ca vulturii spre cer:/
+
+[s2]
+/: De se-apropie încercarea grea
+Şi cel rău atunci caută a te-nfrunta
+Nu uita x2 :/
+
+[s3]
+/: Bucurie-acum în viaţa ta
+Pacea-ţi inunda azi inima
+Inima x2 :/
+
+[order]
+s1,r1,s2,r1,s3,r1

@@ -1,0 +1,48 @@
+[s1]
+1.	Din rane sfinte a lui Isus
+Izvor de sânge a curs
+Şi cine se scufundă-n el
+Deplin s-a curăţit.
+/: Deplin s-a curăţit :/
+Şi cine se scufundă în el
+Deplin s-a curăţit.
+773.
+
+[s2]
+2.	Tâlharul pe cruce murind
+Prin El s-a mântuit
+Şi acum cei păcătoşi la fel
+Deplin s-or curaţi.
+/: Deplin s-or curaţi :/
+Şi acum cei păcătoşi la fel
+Deplin s-or curaţi.
+
+[s3]
+3.	De când şi eu m-am încrezut
+În harul Lui cel sfânt
+Mă duc mereu la Golgota
+Pe Domnul lăudând.
+/: Pe Domnul lăudând :/
+Mă duc mereu la Golgota
+Pe Domnul lăudând.
+
+[s4]
+4.	Al Tău sfânt sânge Mielule
+Nicicând nu va scădea
+Până când cei ce-s mântuiţi
+În cer te vor vedea.
+/: În cer te vor vedea :/
+Până când cei ce-s mântuiţi
+În cer te vor vedea.
+
+[s5]
+5.	Un cântec nou îţi voi cânta
+Când acolo voi sosi
+Când trupul meu cel ostenit
+Eu îl voi părăsi.
+/: Eu îl voi părăsi :/
+Când trupul meu cel ostenit
+Eu îl voi părăsi.
+
+[order]
+s1,s2,s3,s4,s5

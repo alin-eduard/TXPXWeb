@@ -1,0 +1,38 @@
+[s1]
+/: Să nu pot, Doamne, să mă las :/
+De Tine, niciodată!
+/: Chiar de-aş lăsa la orice pas :/
+/: O dragoste-ngropată. :/
+
+[s2]
+/: Cu cât mă duc mereu şi vin :/
+Mai sigur, de oriunde,
+/: A Ta iubire mai deplin :/
+/: Doresc a mă pătrunde.:/
+
+[s3]
+/: In orice loc şi-n orice rând :/
+Cărarea-nsingurată
+/: Să mi-o învăluie, mai blând, :/
+/: Lumina Ta curată!:/
+
+[s4]
+/: Să n-am amar neîndulcit,:/
+Nici nopţi neluminate,
+/: Nici orizont nestrălucit, :/
+/: Nici zile zbuciumate! :/
+
+[s5]
+/: Ci numai Tu să-mi fii mereu :/
+Prieten pe-a mea cale,
+/: Iar dorul sufletului meu: :/
+/: Trăirea voii Tale.:/
+
+[s6]
+/: Mai greu de-ar fi, la orice pas, :/
+Să-mi fie viaţa toată,
+/: Să pot orice, dar să Te las :/
+/: Să nu pot niciodată!:/
+
+[order]
+s1,s2,s3,s4,s5,s6

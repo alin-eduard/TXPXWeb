@@ -1,0 +1,32 @@
+[s1]
+Pe cei răi, Isus Hristos
+Îi primeşte bucuros,
+El le dă acum prin har
+Mântuirea Sa în dar.
+
+[r1]
+Duceţi vestea tuturor:
+„Este un Mântuitor!
+Pe cei răi, Isus Hristos
+Îi primeşte bucuros!“
+
+[s2]
+Dacă eşti un rătăcit,
+De Isus poţi fi găsit,
+El ţi-arată calea Lui
+Şi iubirea Tatălui.
+
+[s3]
+Dacă vrei să fii spălat,
+Crede-n sângele vărsat,
+Nu uita: Isus Hristos
+Te primeşte bucuros.
+
+[s4]
+O, veniţi, la El veniţi,
+Pace sfântă să primiţi,
+Blândul Miel – Isus Hristos,
+Te primeşte bucuros.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

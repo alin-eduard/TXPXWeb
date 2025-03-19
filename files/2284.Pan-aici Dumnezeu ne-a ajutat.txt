@@ -1,0 +1,50 @@
+[s1]
+1. Pân-aici Dumnezeu ne-a ajutat,
+Ne-a cinstit cu-atâta bine
+Și ne-a apărat,
+Şi-a întins cu îndurare
+Mâna sfântă peste noi
+Şi ne-a-nconjurat
+Pe dinainte şi pe dinapoi.
+
+[r1]
+R: Ai simţit şi tu în viaţa ta iubirea Lui?
+Poţi şi tu să cânţi Osana Domnului?
+Poţi să spui cu mine astăzi cu adevărat,
+Pân' aici Dumnezeu ne-a ajutat?
+Pân' aici Dumnezeu ne-a ajutat!
+Fie-I Numele slăvit, fie-I Numele-onorat,
+/: Dacă ţi-a făcut mult bine,
+‘Nalţă-ţi glasul tău spre cer,
+Şi să strigi din toată inima “Eben-Ezer”! :/
+
+[s2]
+2. Pân-aici Dumnezeu ne-a ajutat,
+Şi-a ţinut promisiunea cu adevărat,
+El rămâne credincios,
+Cuvântul Lui se va-mplini,
+Ce-a spus El în veci rămâne,
+Lumea-ntreagă de-ar pieri.
+
+[s3]
+3. Pân' aici Dumnezeu ne-a ajutat,
+De te-ncrezi în El
+Puternic vei fi apărat,
+Şi te vei adăposti
+La umbră aripilor Lui,
+Căci în veac tine credincioşia,
+Mila Domnului.
+
+[s4]
+R: Pune-ţi azi nădejdea-n harul ce va fi adus,
+Şi-aţinteşte-a ta privire la Isus,
+Biruind în El vei spune cu adevărat,
+Pân-aici Dumnezeu ne-a ajutat.
+Pân-aici Dumnezeu ne-a ajutat,
+Fie-I Numele slăvit, fie-I Numele-onorat,
+/: Haideţi toţi într-o suflare
+Să-nălţăm glasul spre cer,
+Să strigăm din toată inima “Eben-Ezer”! :/
+
+[order]
+s1,r1,s2,r1,s3,s4

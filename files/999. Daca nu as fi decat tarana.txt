@@ -1,0 +1,34 @@
+[s1]
+999.                                                                              Fa m
+1.Dacă nu aş fi decât ţărână
+Decât bulgăr răscolit de vânt
+Niciodată, Doamne, pentru mine
+N-ai fi coborât pe acest pământ.
+
+[r1]
+Cor:
+/: Dar Tu m-ai iubit
+Şi mi-ai dăruit
+Chipul Tău,
+De-aceea ai venit. :/
+
+[s2]
+2.Dacă nu aş fi decât un abur
+Dacă nu-aş fi fost decât un vis
+Niciodată, Doamne, pentru mine
+N-ai fi coborât din Paradis.
+
+[s3]
+3. Dacă nu aş fi decât o umbră
+Dacă nu aş fi decât o stea
+Niciodată, Doamne, pentru mine
+N-ai fi plâns în cer de jalea mea.
+
+[s4]
+4. Ah, ce taină mare-ai pus în mine
+O, Isuse Fiu de Dumnezeu
+Ai luat un chip de suferinţă
+Şi-ai venit să mori de dragul meu.
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

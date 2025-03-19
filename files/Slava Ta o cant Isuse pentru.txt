@@ -1,0 +1,33 @@
+[s1]
+Slava Ta o cânt, Isuse,
+pentru că m-ai mântuit,
+Prin jertfirea Ta pe cruce
+m-ai iertat, m-ai mantuit.
+(pe veci)
+
+[r1]
+Slăvit sa fii o, Miel divin,
+slăvit sa fii o, Miel divin,
+Slăvit sa fii o, Miel divin,
+aici şi-n veşnicii.
+
+[s2]
+Tu povara de păcate
+mi-ai luat-o, m-ai spălat,
+Şi în schimbul remuşcării,
+pace sfântă Tu mi-ai dat.
+
+[s3]
+Şi de ce să nu cânt oare
+când Tu viaţă-mi dăruieşti?
+N-am pe nimenea sub soare
+mai măreţ decât Tu eşti!
+
+[s4]
+.Sunt al Tău în întregime,
+bunule Păstor divin!
+Tot ce azi imi apartine
+Tie Doamne iti inchin!
+
+[order]
+s1,r1,s2,r1,s3,r1,s4,r1

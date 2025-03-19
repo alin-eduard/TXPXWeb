@@ -1,0 +1,32 @@
+[s1]
+Fraţilor, sosit e ceasul
+Când să vină iar Hristos!
+Cerul e atât de-aproape
+Nu e ceas mai preţios!
+Cercetaţi a voastre inimi,
+Orice faptă cumpăniţi!
+Lepădaţi tot ce vă roade,
+Şi-n credinţă fiţi uniţi!
+
+[s2]
+Luminaţi în întuneric,
+Împliniţi al Său Cuvânt,
+Ca să recunoască lumea
+Că sunteţi din neamu-I sfânt.
+În Isus nădejdea voastră
+Vă clădiţi ca pietre vii,
+El e Dătătorul vieţii,
+Voi sunteţi ai Săi copii!
+
+[s3]
+Înainte, fără teamă,
+Însuşi Domnul va lupta!
+Pe copiii care-L cheamă
+Îi va binecuvânta!
+Sus privirea, bărbăteşte,
+Voi cei slabi şi obosiţi,
+Domnul nostru se grăbeşte,
+Deci şi voi să vă grăbiţi!
+
+[order]
+s1,s2,s3

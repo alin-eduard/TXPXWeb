@@ -1,0 +1,25 @@
+[s1]
+Daca nu stii cine-i Isus
+Si ce-nseamna iubirea Lui,
+Iti va spune crinul din vai,  Raza soarelui din apus.
+
+[r1]
+El este dragoste, pace;
+Este-ndurare si dor;
+Este blandete, rabdare,
+E tot ce-i nemuritor. :/
+
+[s2]
+Daca nu stii cat e de bun,
+Rasaritu-ti va arata;
+Ti-o va spune frunza din pom,
+Totul din jur e slava Sa.
+
+[s3]
+Daca nu-L ai Mantuitor,
+Ziua de azi iti este prilej;
+El te cheama staruitor;
+Azi la El sa vii, sa alergi.
+
+[order]
+s1,r1,s2,r1,s3,r1

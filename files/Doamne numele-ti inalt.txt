@@ -1,0 +1,40 @@
+[s1]
+Doamne, Numele-Ţi înalţ
+Doamne, laudă-Ţi cânt Ţie
+Fericit sunt că Te am
+Fericit de-a Ta iertare!
+2261                                                      Fa M
+
+[r1]
+/: Tu ai venit pe pământ
+Să ne salvezi
+Sus pe cruce Te-ai jertfit,
+Iertaţi să fim
+De pe cruce în mormânt,
+Din mormânt sus la cer
+Să fii înălţat mereu! :/
+
+[s2]
+Doamne, cânt astăzi mărire
+Numelui Tău Sfant Ceresc
+Mă închin cu mulțumire
+Aleluia, Te slăvesc.
+
+[s3]
+Isus mai vine o dată
+Nu pentr-o cruce
+Și-un mormânt,
+Vine ca să-Și ducă-n slavă
+Pe ai Lui de pe pământ.
+
+[s4]
+/:El va veni din văzduh
+Să-i ducă-n cer,
+Pe toți care au crezut
+Și cred în El
+Aleluia-s fericit,
+Că Isus m-a mântuit
+Domnul meu, să fii slăvit. :/
+
+[order]
+s1,r1,s2,r1,s3,s4

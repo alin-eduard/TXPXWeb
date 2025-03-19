@@ -1,0 +1,39 @@
+[s1]
+1301.
+1.  Furtuna bate cu putere
+Şi  valuri bat în viaţa mea
+/: Mă doare inima şi-mi geme
+Ah Doamne încercarea-i grea:/
+2.  Căci toţi cei dragi în încercare
+Sunt gata împotriva mea
+/: Întinde-ţi mâna Ta Isuse
+Ridică-mă din starea grea : /
+
+[s2]
+3. Ajută-mă Isuse Doamne
+Ajută-mă şi nu pleca
+Ci vin cu o clipă mai degrabă
+Căci zbuciumată-i viaţa mea.
+4. Căci pe pământul cu necazuri
+Un dor mai mare am şi eu
+/: Ca-n vremea aceasta de-ncercare
+Să ai milă de sufletul meu : /
+
+[s3]
+5.  Eu n-am nimic mai bun în mine
+Dar nu vreau să te las nicicând
+/:Te-aştept cu lacrimile-n gene
+Te-aştept te chem Isus plângând :/
+6.  Şi atât de duşmănit sunt Doamne
+De-atâţia frăţi şi oameni răi
+Dar Tu eşti stânca vieţii mele
+Salvează-mă să vadă ei.
+
+[s4]
+7. O nu uita iubite frate
+Căci Domnul e de partea ta
+El te aşteaptă cu răbdare
+S-ajungi în port cu barca ta.
+
+[order]
+s1,s2,s3,s4

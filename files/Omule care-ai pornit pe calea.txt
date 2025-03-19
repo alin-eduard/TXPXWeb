@@ -1,0 +1,42 @@
+[s1]
+Omule care-ai pornit pe calea
+Pe care sfinţii s-au dus
+Desluşeşte aţipirea
+Ce-n biserici a pătruns
+
+[s2]
+Şi scoală-te acuma
+Din forme şi păcat
+Umplîndu-ţi iarăşi vasul
+Cu undelemn curat
+
+[s3]
+Omule pecetluit cu Duhul
+Dat ca şi mîngîietor
+Ungeţi ochii cu-alifie
+Şi balsam vindecător
+
+[s4]
+Nu te-nşela în viaţă
+Crezînd că eşti salvat
+De nu trăieşti sfinţenia
+Tu vei fi lepădat
+
+[s5]
+Omule aceasta este vremea
+Cînd mulţi nu mai stau la post
+Şi-s cernuţi prin sita sfîntă
+Rămînînd doar bobul  gol
+
+[s6]
+Dar de poţi înţelege
+Mesajul ce ţi-e dat
+Aruncă-te înspre ceruri
+Cu sufletul curat
+Căci nu-i nimic în lume
+Să-ţi fie de folos
+În ziua veşniciei
+Cînd va veni Hristos
+
+[order]
+s1,s2,s3,s4,s5,s6

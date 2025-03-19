@@ -1,0 +1,26 @@
+[s1]
+Inima ti-e grea te osindeste
+Spune-I lui Isus El te primeste
+De-ai facut vre-un rau azi te caieste
+Isus te mantuieste
+
+[r1]
+Eu durerea mea lui Isus o spun
+El mi-e amic foarte bun
+Nicaieri mai bun amic ori frate nu-I
+La care poti sa-I spui
+
+[s2]
+Iti curg neoprite lacrimile?
+Spune-I lui Isus intristarile
+Si orice lucru facut in ascuns
+Spune acum, lui Isus!
+
+[s3]
+De orice pacat tu te fereste
+Spune-I lui Isus El te pazeste
+El este sprijin mereu si oricui
+Totul lui Isus sa-I spui !
+
+[order]
+s1,r1,s2,r1,s3,r1

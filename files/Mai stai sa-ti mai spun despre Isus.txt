@@ -1,0 +1,30 @@
+[s1]
+Mai stai să-ţi mai spun despre Isus!
+Mai stai, mîntuire ţi-a adus!
+Mai stai, nu te-ntoarce iar spre rău!
+Mai stai şi alungă-ţi gîndul rău!
+Mai stai, îţi cer doar să mă asculţi!
+Mai stai, pentru-o clipă tot să uiţi!
+Mai stai, să-ţi mai spun de jertfa Sa!
+Mai stai, să-ţi mai spun de Golgota!
+
+[r1]
+Mai stai, să-ţi mai spun despre Isus!
+Mai stai, mîntuire ţi-a adus!
+Mai stai, nu te-ntoarce spre păcat!
+Mai stai, nu ştii cînd vei fi chemat!
+Mai stai, pentru tine S-a jertfit!
+Mai stai, pentru tine a murit!
+
+[s2]
+Mai stai, să-ţi mai spun despre Isus!
+Mai stai, mîntuire ţi-a adus!
+Mai stai, nu te-ntoarce iar spre rău!
+Mai stai şi alungă-ţi gîndul rău!
+Mai stai, îţi cer doar să mă asculţi!
+Mai stai, pentru-o clipă tot să uiţi!
+Mai stai, să-ţi mai spun de jertfa Sa!
+Mai stai, să-ţi mai spun de Golgota!
+
+[order]
+s1,r1,s2,r1
