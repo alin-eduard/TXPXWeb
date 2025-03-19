@@ -16,10 +16,14 @@
 </head>
 <body>
     <h1>Lista Cântări</h1>
-    <input type="text" id="search" placeholder="Caută un fișier...">
+    <input type="text" id="search" placeholder="Caută ...">
     <ul id="fileList"></ul>
 
     <script>
+        function removeDiacritics(text) {
+            return text.normalize("NFD").replace(/[̀-ͯ]/g, "");
+        }
+
         async function loadFiles() {
             const response = await fetch('files.json');
             const files = await response.json();
@@ -28,7 +32,9 @@
 
             function displayFiles(filter = "") {
                 fileList.innerHTML = "";
-                files.filter(file => file.toLowerCase().includes(filter.toLowerCase()))
+                const normalizedFilter = removeDiacritics(filter.toLowerCase());
+                
+                files.filter(file => removeDiacritics(file.toLowerCase()).includes(normalizedFilter))
                     .forEach(file => {
                         const li = document.createElement("li");
                         const fileName = document.createElement("span");
